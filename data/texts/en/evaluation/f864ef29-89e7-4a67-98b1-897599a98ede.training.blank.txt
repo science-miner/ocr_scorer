@@ -1,0 +1,1811 @@
+
+	
+
+		
+
+	
+
+	
+
+Research Article 
+Minimizing Investment Risk of Integrated Rail and 
+Transit-Oriented-Development Projects over Years in a Linear 
+Monocentric City 
+
+Ding Liu, 1,2 Xi Jiang, 2 Lingyun Meng, 2 and Ying-En (Ethan) Ge 1,2,3 
+
+1 College of Transport &amp; Communications, Shanghai Maritime University, Shanghai 201306, China 
+
+2 
+
+State Key Laboratory of Rail Traffic Control and Safety, Beijing Jiaotong University, Beijing 100044, China 
+3 School of Transport &amp; Logistics, Faculty of Infrastructure Engineering, Dalian University of Technology, Liaoning 116024, China 
+
+Correspondence should be addressed to Ying-En (Ethan) Ge; yege@shmtu.edu.cn 
+
+Received 31 May 2016; Accepted 16 August 2016 
+
+Academic Editor: Paolo Renna 
+
+Copyright © 2016 Ding Liu et al. This is an open access article distributed under the Creative Commons Attribution License, which 
+permits unrestricted use, distribution, and reproduction in any medium, provided the original work is properly cited. 
+
+Rail and transit-oriented-development (TOD) projects are simultaneously optimized in this paper, with special consideration given 
+to yearly variation and spatial and temporal correlation of population densities. In the proposed model, the objective is to minimize 
+the investment risk of integrated rail and TOD projects with a given required expected return on investment. The investment risk 
+is optimized based on closed-form solutions of the design variables, including rail line length, the number of TOD projects, and 
+the number of housing units in each TOD project. The closed-form solutions are given explicitly under the assumption of social 
+welfare maximization. It is found that underestimation exists for rail and TOD projects without consideration of the correlation 
+of spatial and temporal population densities. TOD projects can greatly improve the return on investment of the rail operator. A 
+numerical example is also presented. 
+
+1. Introduction 
+
+1.1. Literature Review and Motivation. The transit-oriented-
+development (TOD) policy is one alternative approach to 
+the development of rail projects with no requirement on 
+direct financial subsidy from the government. Given this 
+approach, the government may also grant the development 
+rights of the land above underground rail stations or in their 
+neighborhood areas to a private rail operator, in a form 
+of indirect subsidies. The rail operator usually builds and 
+operates a rail project and uses the revenue generated from it 
+to finance the capital cost of it. In other words, rail and TOD 
+projects are developed simultaneously, and TOD projects 
+may be used to subsidize rail projects [1]. 
+TOD projects have been investigated in many previous 
+studies (such as [2-4]). Although TOD has been compre-
+hensively discussed, analytical models for assisting TOD 
+planners are still relatively few [4]. Li et al. [5] proposed a 
+model to investigate the effects of integrated rail and property 
+
+development projects on the design of rail line services in a 
+linear monocentric city. Their study, however, was conducted 
+in a particular year and the year-on-year investment risks of 
+rail and TOD projects were not fully explored. 
+The investment analysis of rail and TOD projects should 
+be conducted over a relatively long period (at least a few 
+years). The investment risks of these projects are closely and 
+directly related to travel demand of rail service and popula-
+tion densities in all residential locations, and their variations 
+year on year. 
+The correlation between spatial and temporal population 
+densities in all residential locations (CPDRL) also affects 
+the investment risk of rail and TOD projects. For instance, 
+more households live in the first TOD project; fewer live 
+in other TOD projects. In other words, negative spatial 
+correlation exists between population densities in the first 
+TOD project and the other TOD projects [6]. The increase 
+of population density in the first year leads to the increase 
+of population density in the second year, and then positive 
+
+Hindawi Publishing Corporation 
+Discrete Dynamics in Nature and Society 
+Volume 2016, Article ID 1840673, 8 pages 
+http://dx.doi.org/10.1155/2016/1840673 
+
+
+2 
+
+Discrete Dynamics in Nature and Society 
+
+L t 
+
+n t 
+
+n t 
+CBD 
+TOD project 
+
+B 
+City boundary 
+
+0 
+
+Rail line 
+
+Figure 1: Configuration of rail and TOD projects over years in a 
+linear monocentric city. 
+
+temporal correlation exists between the first year and the 
+second year, and vice versa. 
+The investment risk of rail and TOD projects can be 
+measured by standard deviation of return on investment 
+(ROI) of these projects [7, 8]. The standard deviation of ROI 
+is a function of yearly variation in population density and 
+spatial and temporal correlations of population densities in 
+all residential locations (CPDRL). 
+In this paper, the rail and TOD projects are optimized 
+simultaneously, with special consideration given to the yearly 
+variation in population density and CPDRL. The proposed 
+model can assist the authorities and/or operators in dealing 
+with the investment risks of rail and TOD projects. 
+
+1.2. Problem Statement and Intellectual Merits. As shown in 
+Figure 1, rail and TOD projects are assumed to be developed 
+simultaneously in a linear monocentric city. A rail project is 
+assumed to be built since the beginning of the central business 
+district (CBD). The rail line length in year 𝑡 is assumed to be 
+𝐿 𝑡 (0 &lt; 𝐿 𝑡 ≤ 𝐵), 𝐵 is the distance between the CBD and 
+the city boundary, the number of TOD projects in year 𝑡 is 
+represented by 𝑛 𝑡 , 𝑛 𝑡 
+𝑠 denotes the number of underground rail 
+stations in year 𝑡 (0 &lt; 𝑛 𝑡 
+𝑠 ≤ 𝑁, where 𝑁 is a positive integer), 
+and 𝑌 𝑡 
+𝑖 (∀𝑖 ∈ [1, 𝑛 𝑡 ], 𝑌 𝑡 
+𝑖 &gt; 0) is the number of housing units 
+in each TOD project 𝑖 in year 𝑡 [9]. 
+Due to the limitation of funds and the limited travel 
+demand at the initial years of the rail and TOD projects, a 
+detailed projects scheme is assumed to be urgently needed. 
+The decision variables include rail line length, the number 
+of TOD projects, and the number of housing units in each 
+TOD project. Since the uncertainties of population densities 
+are considered, that is, yearly variation in population density 
+in each residential location and CPDRL, the above decision 
+variables are stochastic variables in 𝑡. 
+The main contribution of this paper includes the follow-
+ing: (1) the synergy between rail and TOD projects over years 
+is considered. (2) The closed-form solutions for the optimal 
+design variables of the rail and TOD projects are given. (3) 
+The effects of spatial and temporal correlations of population 
+densities on the standard deviation of ROI for the rail and 
+TOD projects are explored. 
+The remainder of this paper is organized as follows. 
+In Section 2, assumptions are presented with some basic 
+considerations of rail and TOD projects. Section 3 proposes 
+an investment risk minimization model constrained by a 
+required expected ROI. A numerical example is used to 
+illustrate the application of the proposed model in Section 4 
+
+together with some insightful findings. Section 5 concludes 
+this paper with some suggestions for further investigation. 
+Notations used in this paper are listed and defined in the 
+Appendix. 
+
+2. Preliminaries 
+
+For the sake of exposition, the following assumptions are 
+made. 
+
+(A1) All job opportunities are assumed to be supplied 
+in the CBD. Therefore, the residential location-CBD 
+commuting trip is a daily compulsory activity. House-
+holds are assumed to be homogenous and minimize 
+the daily disutility. The daily disutility is assumed to be 
+composed of generalized travel cost and daily housing 
+rent. Households are assumed to make residential 
+location choice by tradeoff between generalized travel 
+cost and daily housing rent [5]. 
+
+(A2) The rail and TOD projects are assumed to be finished 
+on time, and rail service and housing service can be 
+supplied at the end of each period during the design 
+time horizon [10, 11]. 
+
+(A3) The rail operator's objective is the investment risk 
+minimization of rail and TOD projects with a given 
+required expected ROI. This objective can guarantee 
+an enough profit measured in the mean value of ROI, 
+with the least risk measured in the standard deviation 
+of ROI [7, 8]. 
+
+2.1. Investment Risk of Rail and TOD Projects. The investment 
+risk analysis of rail and TOD projects is quite necessary, due 
+to the huge infrastructure investment requirement of rail 
+and TOD projects. ROI is a measure of cash generated or 
+lost due to the investment and may be represented by the 
+cash flow to the investor from the investment, relative to the 
+amount invested. Specifically, it is defined as the ratio of profit 
+(whether realized or unrealized) from an investment to the 
+amount of money invested. Accordingly, the ROI of candidate 
+rail and TOD projects can be calculated by 
+
+ROI 𝑟+TOD = 𝛼ROI 0 + 
+
+𝑛 𝑡 
+
+∑ 
+
+𝑖=1 
+
+𝛼 𝑖 ROI 𝑖 , 
+(1) 
+
+where ROI 0 represents ROI of the rail project and ROI 𝑖 (∀𝑖 ∈ 
+[1, 𝑛 𝑡 ]) represents ROI of TOD project 𝑖, given by 
+
+ROI 0 = 
+PR 
+∑ 𝑚 
+𝑡=1 (𝐿 𝑡 𝐶 𝑟 + 𝑛 𝑡 
+𝑠 𝐶 𝑠 ) 
+
+, 
+
+ROI 𝑖 = 
+PT 𝑖 
+
+∑ 𝑚 
+𝑡=1 ∑ 𝑛 𝑡 
+𝑗=1 𝑌 𝑡 
+𝑗 𝐶 𝑗 
+
+, 
+
+(2) 
+
+where PR represents profit from rail project, PT 𝑖 represents 
+profit from TOD project 𝑖, 𝐿 𝑡 is rail line length in year 𝑡, 𝐶 𝑟 
+is unit fixed construction cost of rail line, 𝑛 𝑡 
+𝑠 is rail station 
+
+
+Discrete Dynamics in Nature and Society 
+
+3 
+
+number in year 𝑡, 𝐶 𝑠 is fixed construction cost of each rail 
+station, 𝑌 𝑡 
+𝑗 is housing unit in TOD project 𝑗 in year 𝑡, and 𝐶 𝑗 
+is average fixed cost to construct each housing unit in TOD 𝑗. 
+In terms of (1) and (2), ROI 𝑟+TOD is a function of the following 
+design variables, including rail line length 𝐿 𝑡 , TOD project 
+number 𝑛 𝑡 , and housing unit of each TOD project 𝑌 𝑡 
+𝑗 . 
+ROI 𝑖 (∀𝑖 ∈ [0, 𝑛 𝑡 ]) is a stochastic variable, which has the 
+mean value of 𝐸(ROI 𝑖 ) and the standard deviation of 𝜎(ROI 𝑖 ). 
+The covariance between ROI 𝑖 and ROI 𝑗 (∀𝑖, 𝑗 ∈ [0, 𝑛 𝑡 ]) is 
+denoted by 𝜎(ROI 𝑖 , ROI 𝑗 ), which are functions of the covari-
+ance between population densities in residential locations 
+around rail stations 𝑖 and 𝑗. In terms of (1), ROI 𝑟+TOD is also a 
+stochastic variable. The mean value of ROI 𝑟+TOD is denoted 
+by 𝐸(ROI 𝑟+TOD ), and its standard deviation is denoted by 
+𝜎(ROI 𝑟+TOD ). 
+Accordingly, 𝛼 and 𝛼 𝑖 in (1) are the investment proportion 
+on rail project and each TOD project 𝑖, respectively; namely, 
+
+𝛼 = 
+∑ 𝑚 
+𝑡=1 (𝐿 𝑡 𝐶 𝑟 + 𝑛 𝑡 
+𝑠 𝐶 𝑠 ) 
+∑ 𝑚 
+𝑡=1 (𝐿 𝑡 𝐶 𝑟 + 𝑛 𝑡 
+𝑠 𝐶 𝑠 ) + ∑ 𝑚 
+𝑡=1 ∑ 𝑛 𝑡 
+𝑖=1 𝑌 𝑡 
+𝑖 𝐶 𝑖 
+
+, 
+
+𝛼 𝑖 = 
+𝑌 𝑡 
+𝑖 𝐶 𝑖 
+∑ 𝑚 
+𝑡=1 (𝐿 𝑡 𝐶 𝑟 + 𝑛 𝑡 
+𝑠 𝐶 𝑠 ) + ∑ 𝑚 
+𝑡=1 ∑ 𝑛 𝑡 
+𝑗=1 𝑌 𝑡 
+𝑗 𝐶 𝑗 
+
+. 
+
+(3) 
+
+2.2. Profit and Social Welfare of Rail and TOD Projects. The 
+profit of the rail project (PR) equals the revenue of fare minus 
+relative cost, expressed as 
+
+PR = 
+
+𝑚 
+
+∑ 
+
+𝑡=1 
+
+𝑛 𝑡 
+
+𝑠 
+
+∑ 
+
+𝑖=1 
+
+(𝑞 𝑡,sue 
+
+𝑖 
+
+(𝑓 − 𝑐)) − 𝐿 𝑡 𝐶 𝑟 − 𝑛 𝑡 
+𝑠 𝐶 𝑠 , 
+(4) 
+
+where 𝑞 𝑡,sue 
+
+𝑖 
+
+is stochastic user equilibrium (SUE) based pas-
+senger travel demand of rail station 𝑖 in year 𝑡, 𝑓 is flat fare of 
+rail service for each passenger, 𝑐 is variable operation cost for 
+each passenger, 𝐶 𝑟 is unit fixed construction cost of rail line, 
+and 𝐶 𝑠 is fixed construction cost of each rail station. 
+For the candidate rail and TOD projects, more concerns 
+are focused on the increase of social welfare. Consumer 
+surplus is a component of social welfare. The consumer 
+surplus of the rail project (CSR) is 
+
+CSR = 
+
+𝑛 𝑡 
+
+𝑠 
+
+∑ 
+
+𝑖=1 
+
+(∫ 
+
+𝑞 𝑡 
+
+𝑖 
+
+0 
+
+(𝑞 𝑡 
+𝑖 ) 
+−1 (𝑤) d𝑤 − 𝑞 𝑡 
+𝑖 𝜋 𝑡 
+𝑖 ) = 
+
+𝑛 𝑡 
+
+𝑠 
+
+∑ 
+
+𝑖=1 
+
+𝑞 𝑡,sue 
+
+𝑖 
+
+𝜃 
+, 
+(5) 
+
+where 𝑞 𝑡 
+𝑖 is passenger travel demand of rail station 𝑖 in year 𝑡, 
+(𝑞 𝑡 
+𝑖 ) −1 is its inverse demand function with (𝑞 𝑡 
+𝑖 ) −1 (𝑞 𝑡 
+𝑖 ) = 𝜋 𝑡 
+𝑖 = 
+(1/𝜃) ln(𝑃 𝑡 
+𝑖 /𝑞 𝑡 
+𝑖 ), 𝜋 𝑡 
+𝑖 is generalized travel cost of passengers 
+from rail station 𝑖 to the CBD in year 𝑡, 𝑃 𝑡 
+𝑖 is population 
+density around rail station 𝑖 in year 𝑡, and 𝜃 is a positive 
+
+constant in passenger travel demand function. In terms of (4) 
+and (5), the social welfare of the rail project (SWR) is 
+
+SWR = PR + CSR 
+
+= 
+
+𝑚 
+
+∑ 
+
+𝑡=1 
+
+𝑛 𝑡 
+
+𝑠 
+
+∑ 
+
+𝑖=1 
+
+(𝑞 𝑡,sue 
+
+𝑖 
+
+(𝑓 − 𝑐)) − 𝐿 𝑡 𝐶 𝑟 − 𝑛 𝑡 
+𝑠 𝐶 𝑠 
+
++ 
+
+𝑛 𝑡 
+
+𝑠 
+
+∑ 
+
+𝑖=1 
+
+𝑞 𝑡,sue 
+
+𝑖 
+
+𝜃 
+. 
+
+(6) 
+
+The profit of TOD project 𝑖 (∀𝑖 ∈ [1, 𝑛 𝑡 ]) (PT 𝑖 ) similarly 
+can be calculated by 
+
+PT 𝑖 = 
+
+𝑚 
+
+∑ 
+
+𝑗=1 
+
+(𝑃 
+
+𝑗,sue 
+𝑖 
+
+(𝑟 
+
+𝑗 
+
+𝑖 − 𝑐 𝑖 ) − 𝑌 
+
+𝑗 
+
+𝑖 𝐶 𝑖 ) , 
+(7) 
+
+where 𝑟 
+
+𝑗 
+
+𝑖 is daily housing rent of TOD 𝑖 in year 𝑗, 𝑐 𝑖 is the 
+variable cost to supply housing service for each passenger, 𝑌 
+
+𝑗 
+𝑖 
+
+is housing unit in TOD project 𝑖 in year 𝑗, and 𝐶 𝑖 is the average 
+fixed cost to construct each housing unit in TOD 𝑖. 
+The consumer surplus of TOD project 𝑖 (∀𝑖 ∈ [1, 𝑛 𝑡 ]) 
+(CST 𝑖 ) is calculated by 
+
+CST 𝑖 = 
+
+𝑚 
+
+∑ 
+
+𝑗=1 
+
+(∫ 
+
+𝑃 
+
+𝑗 
+𝑖 
+
+0 
+
+(𝑃 
+
+𝑗 
+
+𝑖 ) 
+
+−1 
+
+(𝑤) d𝑤 − 𝑃 
+
+𝑗 
+
+𝑖 𝑟 
+
+𝑗 
+
+𝑖 ) , 
+(8) 
+
+where 𝑃 
+
+𝑗 
+
+𝑖 is population density of TOD project 𝑖 in year 𝑗 
+and (𝑃 
+
+𝑗 
+
+𝑖 ) −1 is its inverse function, representing households' 
+willingness to pay for housing service of TOD project 𝑖 in year 
+𝑗. Then, the social welfare of TOD projects (SWT) is given by 
+
+SWT = 
+
+𝑛 𝑡 
+
+∑ 
+
+𝑖=1 
+
+(CST 𝑖 + PT 𝑖 ) = 
+
+𝑛 𝑡 
+
+∑ 
+
+𝑖=1 
+
+𝑚 
+
+∑ 
+
+𝑗=1 
+
+(𝑃 
+
+𝑗,sue 
+𝑖 
+
+(𝑟 
+
+𝑗 
+
+𝑖 − 𝑐 𝑖 ) 
+
+− 𝑌 
+
+𝑗 
+
+𝑖 𝐶 𝑖 + ∫ 
+
+𝑃 
+
+𝑗 
+𝑖 
+
+0 
+
+(𝑃 
+
+𝑗 
+
+𝑖 ) 
+
+−1 
+
+(𝑤) d𝑤 − 𝑃 
+
+𝑗 
+
+𝑖 𝑟 
+
+𝑗 
+
+𝑖 ) . 
+
+(9) 
+
+2.3. Stochastic User Equilibrium (SUE) Condition. In terms 
+of (A1), households are assumed to choose the residential 
+locations to minimize their own disutilities. This disutility is 
+assumed to be composed of two parts: generalized travel cost 
+and daily housing rent; namely, 
+
+𝑈 𝑡 
+𝑖 = 𝜋 𝑡 
+𝑖 + 𝑟 𝑡 
+𝑖 + 𝜀 𝑡 
+𝑖 , (∀𝑖 ∈ [1, 𝑛 𝑡 
+𝑠 ] , 𝑡 ∈ [1, 𝑚]) , 
+(10) 
+
+where 𝑈 𝑡 
+𝑖 is passenger disutility for residential location 
+around rail station 𝑖 in year 𝑡, 𝜋 𝑡 
+𝑖 is the generalized travel cost 
+from rail station 𝑖 to the CBD in year 𝑡, 𝑟 𝑡 
+𝑖 is daily housing rent 
+in residential location around rail station 𝑖 in year 𝑡, and 𝜀 𝑡 
+𝑖 is 
+the perception error of generalized travel cost. 
+Both generalized travel cost and daily housing rent are 
+functions of population density in each residential location. 
+
+
+4 
+
+Discrete Dynamics in Nature and Society 
+
+Regarding generalized travel cost function, the Bureau of 
+Public Roads (BPR) functions are used in the following 
+numerical example. The daily housing rent function should 
+satisfy two basic properties: (1) the daily housing rent should 
+increase while the total demand for housing service increases 
+and (2) the daily housing rent should decrease while the total 
+supply of housing service increases. In this paper, the daily 
+housing rent in TOD project 𝑖 in year 𝑡, 𝑟 𝑡 
+𝑖 , is defined as [12] 
+
+𝑟 𝑡 
+𝑖 = 𝜒 0 (1 + 𝜒 1 
+
+𝑃 𝑡 
+
+𝑖 
+
+𝑌 𝑡 
+
+𝑖 
+
+) , (∀𝑖 ∈ [1, 𝑛 𝑡 ] , 𝑡 ∈ [1, 𝑚]) , (11) 
+
+where 𝜒 0 is the base daily housing rent in terms of HKD/unit, 
+𝜒 1 is a positive scalar parameter that represents the sensitivity 
+of daily housing rent on housing supply and demand, and 𝑌 𝑡 
+
+𝑖 
+
+is the average density of housing units in TOD project 𝑖. For 
+those residential locations without TOD projects, the housing 
+unit 𝑌𝑜 𝑖 (𝑖 ∈ [1, 𝑛 𝑡 
+𝑠 − 𝑛 𝑡 ]) is assumed to be constant over the 
+years in planning horizon. The daily housing rent of other 
+residential locations, ro 𝑡 
+𝑖 , is defined as 
+
+ro 𝑡 
+𝑖 = 𝜒𝑜 0 (1 + 𝜒𝑜 1 
+
+𝑃 𝑡 
+
+𝑖 
+
+𝑌𝑜 𝑖 
+) , 
+
+(𝑖 ∈ [1, 𝑛 𝑡 
+𝑠 − 𝑛 𝑡 ] , 𝑡 ∈ [1, 𝑚]) , 
+
+(12) 
+
+where 𝜒𝑜 0 is the base daily housing rent of other residential 
+locations in terms of HKD/unit and 𝜒𝑜 1 is a positive scalar 
+parameter of other residential locations which represents 
+the sensitivity of daily housing rent on housing supply and 
+demand. 
+According to the conservation law of population, we have 
+
+𝑛 𝑡 
+
+𝑠 
+
+∑ 
+
+𝑖=1 
+
+𝑃 𝑡 
+𝑖 = 𝑃 𝑡 
+0 , 
+(13) 
+
+where 𝑃 𝑡 
+𝑖 is population density in residential locations around 
+rail station 𝑖 in year 𝑡 and 𝑃 𝑡 
+0 is the total population number 
+within the linear monocentric city in year 𝑡. 
+Consequently, the stochastic user equilibrium reaches 
+the following: no households can reduce his/her perceived 
+disutility by unilaterally changing their residential location 
+choices. Mathematically, the disutility for households can be 
+expressed as 
+
+𝑈 𝑡 
+𝑖 = min (𝜋 𝑡 
+𝑖 + 
+
+𝑟 𝑡 
+
+𝑖 
+
+𝑟𝑜 𝑡 
+
+𝑖 
+
++ 
+1 
+𝜃 
+ln 𝑞 𝑡 
+𝑖 ) , 
+
+(𝑖 ∈ [1, 𝑛 𝑡 
+𝑠 ] , 𝑡 ∈ [1, 𝑚]) , 
+
+(14) 
+
+where 𝑞 𝑡 
+𝑖 is the passenger travel demand of rail station 𝑖, 
+which is a function of population density in residential 
+location around rail station 𝑖, 𝜋 𝑡 
+𝑖 is generalized travel cost 
+of passengers from rail station 𝑖 to the CBD in year 𝑡, and 
+𝜃 is sensitivity parameter in elastic passenger travel demand 
+function 𝑞 𝑡 
+𝑖 . With an assumption of 𝜀 𝑡 
+𝑖 following independent 
+and identical Gumbel distribution with mean value of zero, 
+
+a logit-based SUE population distribution could be calculated 
+as [13] 
+
+𝑃 𝑡,sue 
+
+𝑖 
+
+= 𝑃 𝑡 
+
+0 
+
+exp (𝜋 𝑡 
+𝑖 + 𝑟 𝑡 
+𝑖 /𝑟𝑜 𝑡 
+𝑖 ) 
+∑ 
+
+𝑛 𝑡 
+
+𝑠 
+
+𝑖=1 exp (𝜋 𝑡 
+𝑖 + 𝑟 𝑡 
+𝑖 /𝑟𝑜 𝑡 
+𝑖 ) 
+
+, (𝑡 ∈ [1, 𝑚]) , 
+(15) 
+
+where 𝑃 𝑡 
+0 is the total population in year 𝑡. 
+The passenger travel demand of rail service is assumed to 
+be elastic due to sensitivity to the generalized travel cost. An 
+exponential demand function is used, shown as follows [14]: 
+
+𝑞 𝑡 
+𝑖 = 𝑃 𝑡 
+𝑖 exp (−𝜃 (𝜋 𝑡 
+𝑖 + 𝜀 𝑡 
+𝑖 )) , 
+
+(𝑖 ∈ [1, 𝑛 𝑡 
+𝑠 ] , 𝑡 ∈ [1, 𝑚]) , 
+
+(16) 
+
+where 𝜃 is a positive constant and 𝜀 𝑡 
+𝑖 is the perception error of 
+generalized travel cost. 
+
+3. Model Formulation 
+
+The rail operator of rail and TOD projects is assumed to 
+minimize the investment risk for a given required expected 
+ROI that they are willing to earn. The investment risk could 
+be measured by standard deviation of ROI [7]. The greater 
+the standard deviation is, the greater the risk is. Specifically, 
+the objective of the rail operator is to minimize standard 
+deviation of ROI by available capital allocation. An alternative 
+way is to examine the following investment portfolio question 
+with the consideration of two assets: one risk-free asset which 
+has a low ROI but no risk and another risky asset that has a 
+higher expected ROI for a higher risk. By varying a relative 
+proportion of the two assets, a ROI tradeoff can be selected, 
+and correspondingly available capital can be allocated [15, 16]. 
+
+3.1. Expected ROI Constrained Investment Risk Minimization 
+Model. The expected ROI constrained investment risk mini-
+mization model can be formulated as follows: 
+
+Minimize 𝜎 (ROI) 
+(17a) 
+
+s.t. 𝛽𝐸 (𝑟 𝑓 ) + 𝛼 (1 − 𝛽) 𝐸 (ROI 0 ) 
+
++ (1 − 𝛽) 
+
+𝑛 𝑡 
+
+∑ 
+
+𝑖=1 
+
+𝛼 𝑖 𝐸 (ROI 𝑖 ) = 𝐸 (ROI) , 
+
+(17b) 
+
+𝛽 + 𝛼 (1 − 𝛽) + (1 − 𝛽) 
+
+𝑛 𝑡 
+
+∑ 
+
+𝑖=1 
+
+𝛼 𝑖 = 1, 
+(17c) 
+
+0 ≤ 𝛼 ≤ 1, 
+(17d) 
+
+𝛽 ≤ 1. 
+(17e) 
+
+Denote 𝜔 −1 = 𝛽,𝜔 0 = 𝛼(1 − 𝛽), and 𝜔 𝑖 = (1 − 𝛽)𝛼 𝑖 , 
+∀𝑖 ∈ [1, 𝑛 𝑡 ]. Given a mean value of 𝐸(ROI) and 𝑟 𝑓 , since 
+
+
+Discrete Dynamics in Nature and Society 
+
+5 
+
+CBD 
+TOD 1 
+TOD 2 
+
+3 
+2 
+
+City boundary 
+
+4 
+
+Suburban 
+community 
+
+1 
+
+Figure 2: A small test network. 
+
+𝜎(ROI) = [∑ 𝑛 𝑡 
+𝑖,𝑗=0 𝜔 𝑖 𝜔 𝑗 𝜎(ROI 𝑖 , ROI 𝑗 )] 1/2 &gt; 0, the above form-
+ulation is equivalent to solving the following problem: 
+
+Maximize 
+𝐸 (ROI) − 𝑟 𝑓 
+
+𝜎 (ROI) 
+
+= 
+∑ 𝑛 𝑡 
+𝑖=0 𝜔 𝑖 [𝐸 (ROI 𝑖 ) − 𝐸 (𝑟 𝑓 )] 
+
+[∑ 𝑛 𝑡 
+𝑖,𝑗=0 𝜔 𝑖 𝜔 𝑗 𝜎 (ROI 𝑖 , ROI 𝑗 )] 
+
+1/2 
+
+(18a) 
+
+s.t. 
+
+𝑛 𝑡 
+
+∑ 
+
+𝑖=−1 
+
+𝜔 𝑖 = 1. 
+(18b) 
+
+Let V 𝑖 = 𝜆𝜔 𝑖 , and then, in terms of Karush-Kuhn-
+Tucker conditions, V 𝑖 satisfies the following system of linear 
+equations: 
+
+𝑛 𝑡 
+
+∑ 
+
+𝑗=0 
+
+𝜎 (ROI 𝑖 , ROI 𝑗 ) V 𝑗 = 𝐸 (ROI 𝑖 ) − 𝑟 𝑓 , ∀𝑖 ∈ [0,𝑛 𝑡 ] . (19) 
+
+Finally, 𝜔 𝑖 could be calculated by 
+
+𝜔 𝑖 = 
+V 𝑖 
+
+∑ 
+
+𝑛 𝑡 
+
+𝑠 
+
+𝑖=0 V 𝑖 
+
+, ∀𝑖 ∈ [0,𝑛 𝑡 ] . 
+(20) 
+
+Given an expected mean value of ROI 𝐸(ROI) and risk-
+free asset 𝑟 𝑓 , the optimal investment proportions 𝜔 𝑖 on 
+rail and each TOD project, with respect to the objective 
+of investment risk minimization, are unique, which is the 
+solution of linear equations system of (19) and normalization 
+calculation of (20) [7]. 
+
+3.2. Closed-Form Solutions for Decision Variables of Rail and 
+TOD Projects. The social welfare maximization over years for 
+rail and TOD projects can be formulated as 
+
+max SW (𝐿 𝑡 , 𝑛 𝑡 , 𝑌 𝑡 
+𝑖 ) = SWR + SWT 
+
+= 
+
+𝑚 
+
+∑ 
+
+𝑡=1 
+
+𝑛 𝑡 
+
+𝑠 
+
+∑ 
+
+𝑖=1 
+
+(𝑞 𝑡,sue 
+
+𝑖 
+
+(𝑓 − 𝑐)) − 𝐿 𝑡 𝐶 𝑟 − 𝑛 𝑡 
+𝑠 𝐶 𝑠 + 
+
+𝑛 𝑡 
+
+𝑠 
+
+∑ 
+
+𝑖=1 
+
+𝑞 𝑡,sue 
+
+𝑖 
+
+𝜃 
+
+𝑛 𝑡 
+
+∑ 
+
+𝑖=1 
+
+𝑚 
+
+∑ 
+
+𝑗=1 
+
+(𝑃 
+
+𝑗,sue 
+𝑖 
+
+(𝑟 
+
+𝑗 
+
+𝑖 − 𝑐 𝑖 ) − 𝑌 
+
+𝑗 
+
+𝑖 𝐶 𝑖 + ∫ 
+
+𝑃 
+
+𝑗 
+𝑖 
+
+0 
+
+(𝑃 
+
+𝑗 
+
+𝑖 ) 
+
+−1 
+
+(𝑤) d𝑤 − 𝑃 
+
+𝑗 
+
+𝑖 𝑟 
+
+𝑗 
+
+𝑖 ) , 
+
+(21) 
+
+where SW(𝐿 𝑡 , 𝑛 𝑡 , 𝑌 𝑡 
+𝑖 ) is the total social welfare over years for 
+rail and TOD projects, and the decision variables include the 
+rail line length 𝐿 𝑡 , TOD projects number 𝑛 𝑡 , and housing unit 
+in each TOD project 𝑌 𝑡 
+𝑖 (∀𝑖 ∈ [1, 𝑛 𝑡 ]). 
+The optimal rail line length, TOD projects number, and 
+housing unit of each TOD project satisfy the following system 
+of equations: 
+
+(𝐿 𝑡 ) 
+
+ *  
+
+= 
+∑ 𝑚 
+𝑡=1 ∑ 𝑛 𝑡 
+𝑖=1 𝑃 𝑡 
+𝑖 (2𝑟 𝑡 
+𝑖 + Δ 𝑖 + Δ 𝑖 /𝜃 (𝑓 − 𝑐) − 𝜒 0 − 𝑐 𝑖 ) 
+𝐶 𝑟 
+, 
+
+(22a) 
+
+(𝑛 𝑡 ) 
+
+ *  
+
+= 
+∑ 𝑚 
+𝑡=1 𝑃 𝑡 
+𝑛 𝑡 (2𝑟 𝑡 
+𝑛 𝑡 + Δ 𝑛 𝑡 + Δ 𝑛 𝑡 /𝜃 (𝑓 − 𝑐) − 𝜒 0 − 𝑐 𝑛 𝑡 ) 
+𝐶 𝑠 
+, 
+
+(22b) 
+
+(𝑌 𝑡 
+𝑖 ) 
+ *  = 𝑒 (𝑏/𝜒 0 𝜒 1 )(1/𝑎) arctan((𝑟 𝑡 
+𝑖 /𝜒 0 𝜒 1 −1/𝜒 1 −𝑏/2𝜒 0 𝜒 1 )/𝑎)+𝜅 , 
+(22c) 
+
+where Δ 𝑖 = ((𝑓 − 𝑐)/(1 + 𝜃𝑞 𝑡 
+𝑖 𝜋 𝑡 
+𝑖 )) exp(−𝜃𝜋 𝑡 
+𝑖 ), 𝑏 = 2𝜒 0 𝜒 1 + Δ 𝑖 + 
+Δ 𝑖 /𝜃(𝑓 − 𝑐) + 𝜒 0 − 𝑐 𝑖 , 𝑐 is a constant term determined by initial 
+
+condition, and 𝑎 = √𝐶 𝑖 /𝜒 0 𝜒 1 − (𝑏) 2 /4(𝜒 0 𝜒 1 ) 2 . 
+
+Based on (19) and (20), the optimal investment propor-
+tions under investment risk minimization equation (17a)-
+(17e) for the optimal rail and TOD projects with respect to 
+the objective of social welfare equation (21) are unique. 
+
+4. Numerical Example 
+
+A small tractable network is chosen for the test. It consists of 
+four links, 1, 2, 3, and 4, and four residential locations, central 
+business district (CBD), suburban community, TOD 1, and 
+TOD 2, as shown in Figure 2. Rail exists between the CBD 
+and the suburban community. This rail is extended from the 
+suburban community to TOD 2. Meanwhile, TOD 1 and TOD 
+2 are developed by the rail operator as an indirect subsidy. 
+The Bureau of Public Roads (BPR) travel time function is 
+employed to define the travel cost, shown as follows: 
+
+𝐸 (𝜋 𝑡 
+𝑖 ) = 𝜇𝑡 0 
+𝑖 + 𝛾𝑡 0 
+𝑖 (0.15 ( 
+
+𝑞 𝑡 
+
+𝑖 
+
+𝑆 𝑡 
+
+𝑖 
+
+) 
+
+4 
+
+) , 
+
+𝜎 (𝜋 𝑡 
+𝑖 ) = 
+
+1 
+5 
+𝐸 (𝜋 𝑡 
+𝑖 ) , 
+
+∀𝑖 = 1, 2, 3, 4, 
+
+(23) 
+
+where 𝑡 0 
+𝑖 is the travel time on link 𝑖 by rail in year 𝑡, 𝜇 is the 
+value of time, 𝛾 is the parameter for rail crowding, and 𝑆 𝑡 
+𝑖 are 
+
+
+6 
+
+Discrete Dynamics in Nature and Society 
+
+Table 1: The resultant mean ROI values of each candidate project with respect to different temporal and spatial CC and population growing 
+factor. 
+
+𝐸(ROI 𝑖 ) 
+(%) 
+
+Scenarios with different temporal and spatial CC 
+Project 
+S1 
+S2 
+S3 
+S4 
+S5 
+S6 
+S7 
+S8 
+S9 
+
+𝐸(ROI 𝑖 ) 0.2 
+
+Rail 
+0.60 
+0.50 
+0.50 
+0.50 
+0.50 
+0.50 
+0.50 
+0.50 
+0.40 
+TOD 1 
+6.50 
+6.24 
+6.20 
+6.08 
+5.84 
+6.05 
+6.39 
+6.11 
+5.80 
+TOD 2 
+2.03 
+1.97 
+1.96 
+1.93 
+1.87 
+1.92 
+2.00 
+1.94 
+1.86 
+
+𝐸(ROI 𝑖 ) 0.4 
+
+Rail 
+0.60 
+0.60 
+0.50 
+0.40 
+0.50 
+0.50 
+0.60 
+0.50 
+0.50 
+TOD 1 
+12.85 
+12.47 
+11.82 
+12.13 
+11.94 
+11.37 
+12.58 
+11.37 
+11.32 
+TOD 2 
+3.75 
+3.90 
+3.74 
+4.05 
+3.77 
+3.63 
+3.92 
+3.63 
+3.62 
+
+the link capacity of rail in year 𝑡. The parameters are set as 
+𝑡 0 
+1 = 0.05 (hour), 𝑡 0 
+2 = 0.6 (hour), 𝑡 0 
+3 = 0.8 (hour), 𝑡 0 
+4 = 1.2 
+(hour), 𝑆 𝑡 
+𝑖 = 80000 (persons/hour), 𝜇 = 80(HK$/hour), 
+𝛾 = 100 (HK$/hour), and 𝜀 ∼ 𝑁(0, 6). The mean values of 
+population density in each residential location in the initial 
+year are given as follows [17]: 
+
+𝐸 (𝑃 1 
+1 ) = 5000 (persons), 
+
+𝐸 (𝑃 1 
+2 ) = 10000 (persons), 
+
+𝐸 (𝑃 1 
+3 ) = 𝐸 (𝑃 1 
+4 ) = 12000 (persons). 
+
+(24) 
+
+Coefficient of variation (CV) is equal to the mean divided 
+by variance. It is assumed in this example the CV of all the 
+population is constant and set as 0.3. The following housing 
+rent functions are adopted for this example: 
+
+𝐸 (𝑟 𝑡 
+𝑖 ) = 𝜒 0 (1 + 𝜒 1 
+
+𝑃 𝑡 
+
+𝑖 
+
+𝑌 𝑡 
+
+𝑖 
+
+) , 
+
+𝜎 (𝑟 𝑡 
+𝑖 ) = 
+
+1 
+10 
+𝐸 (𝑟 𝑡 
+𝑖 ) , 
+
+(25a) 
+
+𝐸 (𝑟𝑜 𝑡 
+𝑖 ) = 𝜒𝑜 0 (1 + 𝜒𝑜 1 
+
+𝑃 𝑡 
+
+𝑖 
+
+𝑌𝑜 𝑡 
+
+𝑖 
+
+) , 
+
+𝜎 (𝑟𝑜 𝑡 
+𝑖 ) = 
+
+1 
+10 
+𝐸 (𝑟𝑜 𝑡 
+𝑖 ) , 
+
+(25b) 
+
+where the parameters are given as 𝜒 0 = 15.5 (HK$/day), 
+𝜒𝑜 0 = 12 (HK$/day), 𝜒 1 = 12, 𝜒𝑜 1 = 12, 𝑌 1 
+1 = 6500 units, 
+𝑌 1 
+2 = 15000 units, and 𝑌 1 
+3 = 𝑌 1 
+4 = 20000 units. The other 
+relevant input data of this example are the same as the nota-
+tions values in the Notations. 
+The standard deviation of ROI without temporal and 
+spatial covariance is also plotted in Figure 3; namely, minimal 
+value line 𝜎(ROI) = 0. It is safe to conclude that investment 
+risk is substantially underestimated without consideration of 
+yearly variation of population densities. 
+Figure 3 presents the notion that the standard deviation of 
+ROI, 𝜎(ROI), will be 0, if no spatial and temporal covariance 
+were considered. 𝜎(ROI) will also be 0 when the temporal 
+covariance coefficient is 0, whereas it is positive as spatial 
+
+0.25 
+0.50 
+0.75 
+1 0 
+
+0.25 
+
+0.50 
+
+0.75 
+
+1 
+
+0.2 
+0.4 
+
+Population growth factor 
+
+𝜎(ROI) (100%) 
+
+Maximal value point 5.00 
+
+Minimal value line 𝜎(ROI) = 0 
+
+Δ𝜎(ROI) = 2.04 
+
+Δ𝜎(ROI) = 2.28 
+
+0 
+0 
+
+1 
+
+2 
+
+3 
+
+4 
+
+5 
+
+6 
+
+Te m po ra l co va ri an ce co effi ci en t (𝜌 p ) t,k 
+
+i 
+
+S p a t i a l c o v a r i a n c e c o e ffi c i e n t ( 𝜌 p 
+
+) 
+
+t 
+i, j 
+
+t = 1 , 2 
+
+5 ; ∀ i , j = 1 , 2 
+
+4 
+
+= 1, 2 
+5; i = 1, 2 
+4 
+
+∀t , k 
+,. . ., 
+, . . . , 
+
+, . . . , 
+
+, . . . , 
+
+Figure 3: The standard deviation of ROI with respect to different 
+temporal and spatial covariance coefficients and population growth 
+factors over years. 
+
+covariance increases from 0 to 1. 𝜎(ROI) increases as the 
+population growth factor of total population increases from 
+0.2 to 0.4. The maximal value point of 𝜎(ROI) is 5.00 for 
+population growth factor 0.4. The difference of 𝜎(ROI) under 
+population growth factors 0.2 and 0.4, Δ𝜎(ROI), is 2.28, 
+with respect to temporal covariance coefficient 1 and spatial 
+covariance coefficient 0. 
+The mean ROI values of each candidate project are shown 
+in Table 1. From this table, one can observe that 𝐸(ROI 𝑖 ) 0.2 of 
+rail, TOD 1, and TOD 2 are higher under scenario S1 (with-
+out consideration of spatial and temporal CC) than under 
+the other scenarios (from S2 to S9). Thus, overestimation 
+of investment risks exists without consideration of either 
+temporal CC or spatial CC for population growth factor 0.2. 
+Huge investment is required for the rail project. It could be 
+seen that the ROI of rail is far less than the risk-free asset, 
+while the ROIs of TOD projects are more than the risk-free 
+asset. For example, under S1 with population growth factor of 
+
+
+Discrete Dynamics in Nature and Society 
+
+7 
+
+0.4, the mean ROI value of rail is 0.6%, whereas those of TOD 
+1 and TOD 2 are 12.85% and 3.75%. 
+
+5. Concluding Remarks 
+
+This paper proposes an integrated model to optimize simul-
+taneously the decision variables of rail and TOD projects 
+over years in a linear monocentric city. This model explicitly 
+considers the effects of the yearly variation in population 
+density and the correlation of spatial and temporal popu-
+lation densities on the return on investment (ROI) of the 
+rail and TOD projects. It is found that the ROI of rail and 
+TOD projects may be underestimated without consideration 
+of yearly variation in population density and correlation of 
+spatial and population densities. The TOD projects 
+can greatly improve the financial feasibility of rail project and 
+increase the rail project attraction for a revenue-driven rail 
+operator. 
+Further research can be conducted in the following 
+directions: 
+
+(i) In this paper, a linear monocentric city is used with 
+only one CBD and several residential TOD locations. 
+The city boundary is not explicitly considered. It is 
+necessary to elaborate the city boundary so as to 
+extend to a polycentric city model. 
+
+(ii) All households are assumed to be homogenous and 
+only commute from residential locations to the CBD 
+in this paper. However, previous studies have shown 
+that income levels may dominate the residential loca-
+tion choice (see, e.g., [18, 19]). Therefore, the model 
+can be extended to incorporate the income level for 
+determining residential locations. 
+
+(iii) The investment risk comes from yearly variation in 
+population density and correlation of spatial and 
+temporal population densities in this paper. However, 
+there are also many other typical investment risks. It 
+is worthwhile to develop more detailed models in this 
+directions. 
+
+Appendix 
+
+𝑐 : Variable operation cost for each passenger 
+(HK$) (5) 
+𝑐 𝑖 : Variable cost to supply housing service in 
+TOD 𝑖 for each passenger (𝑖 is a positive 
+integer, ∀𝑖 ∈ [1, 𝑛 𝑡 ]) (HK$/day) (60) 
+𝐶 𝑟 : Unit fixed construction cost of rail line 
+(billion HK$) (2) 
+𝐶 𝑠 : Unit fixed construction cost for each rail 
+station (billion HK$) (0.5) 
+𝐶 𝑖 : Average fixed cost to construct each 
+housing unit in TOD 𝑖 (𝑖 is a positive 
+integer, ∀𝑖 ∈ [1, 𝑛 𝑡 ]) (billion HK$) (0.01) 
+𝑓: Flat fare of rail service for each passenger 
+(HK$) (10) 
+
+𝐿 𝑡 : 
+Rail line length in year 𝑡 (𝑡 is a positive 
+integer, and 𝑡 ∈ [1, 𝑚]) (Km) (-) 
+𝑛 𝑡 : 
+TOD projects number in year 𝑡 (-) 
+𝑛 𝑡 
+𝑠 : 
+Rail station number in year 𝑡 (-) 
+𝑃 𝑡 
+0 : 
+Total population number within the linear 
+monocentric city in year 𝑡 (persons) (-) 
+𝑃 𝑡 
+𝑖 : 
+Population density around rail station 𝑖 in 
+year 𝑡 (𝑖 is a positive integer, ∀𝑖 ∈ [1, 𝑛 𝑡 
+𝑠 ]) 
+(persons) (-) 
+𝑞 𝑡 
+𝑖 : 
+Passenger travel demand of rail station 𝑖 in 
+year 𝑡 (persons) (-) 
+𝑟 𝑓 : 
+ROI of risk-free asset (%) (3%) 
+𝑟 𝑡 
+𝑖 : 
+Da il yho usin gr en to fT O D𝑖 in year 𝑡 (𝑖 is a 
+positive integer, ∀𝑖 ∈ [1, 𝑛 𝑡 ]) (HK$/day) 
+(-) 
+𝑌 𝑡 
+𝑖 : 
+HousingunitinTODproject𝑖 in year 𝑡 
+(HK$/day) (-) 
+𝑌𝑜 𝑖 : 
+Housing units in residential location 𝑖 
+without TOD projects in year 𝑡 (𝑖 is a 
+positive integer, ∀𝑖 ∈ [1, 𝑛 𝑡 
+𝑠 − 𝑛 𝑡 ]) 
+(HK$/day) (-) 
+𝑈 𝑡 
+𝑖 : 
+Passenger's disutility for residential 
+location around rail station 𝑖 in year 𝑡 (-) 
+𝛼: 
+Investment proportion on the rail project 
+(-) 
+𝛼 𝑖 : 
+Investment proportion on TOD project 𝑖 (𝑖 
+is a positive integer, ∀𝑖 ∈ [1, 𝑛 𝑡 ]) (-) 
+𝛽: 
+Investment proportion on risk-free asset 
+(-) 
+𝜋 𝑡 
+𝑖 : 
+Generalized travel cost of passengers from 
+rail station 𝑖 to the CBD in year 𝑡 (𝑖 is a 
+positive integer, ∀𝑖 ∈ [1, 𝑛 𝑡 
+𝑠 ]) (HK$) (-) 
+𝜃: 
+Sensitivity parameter in elastic demand 
+function (0.01) 
+𝜒 0 /𝜒 1 : Parameters in housing rent function for 
+residential locations with TOD projects 
+(15.5/12) 
+𝜒𝑜 0 /𝜒𝑜 1 : Parameters in housing rent function for 
+other residential locations without TOD 
+projects (12/12) 
+𝜔 𝑖 : 
+Parameter in the risk minimization model 
+(-). 
+
+Competing Interests 
+
+The authors declare that they have no competing interests. 
+
+Acknowledgments 
+
+This study is supported by the State Key Laboratory of Rail 
+Traffic Control and Safety (Contract no. RCS2014K005), Bei-
+jing Jiaotong University. It is also partly supported by a grant 
+from the Research Grant Council of the Hong Kong Special 
+Administrative Region (Project no. PolyU 5215/09E) and the 
+National Natural Science Foundation of China (Grants nos. 
+61304203, 71431003, and 71571012). The authors would like to 
+thank Professor W. H. K. Lam for his useful comments on 
+this work. The authors are also grateful for the support of the 
+
+
+8 
+
+Discrete Dynamics in Nature and Society 
+
+Lloyd's Register Foundation, a charity that helps to protect life 
+and property by supporting engineering-related education, 
+public engagement, and the application of research. 
+
+References 
+
+[1] S. B. Tang and H. K. Lo, "On the financial viability of mass 
+transit development: the case of Hong Kong, " Transportation, 
+vol. 37, no. 2, pp. 299-316, 2010. 
+[2] R. Cervero, "Transit-based housing in California: evidence on 
+ridership impacts, " Transport Policy, vol. 1, no. 3, pp. 174-183, 
+1994. 
+[3] M. A. White and J. B. McDaniel, The Zoning and Real Estate 
+Implications of Transit-Oriented Development, Legal Research 
+Digest, Transit Cooperative Research Program, Transportation 
+Research Board, Washington, DC, USA, 1999. 
+[4] J. J. Lin and C. C. Gau, "A TOD planning model to review the 
+regulation of allowable development densities around subway 
+stations, " Land Use Policy, vol. 23, no. 3, pp. 353-360, 2006. 
+[5] Z.-C. Li, W. H. K. Lam, S. C. Wong, and K. Choi, "Modeling 
+the effects of integrated rail and property development on 
+the design of rail line services in a linear monocentric city, " 
+Transportation Research Part B: Methodological, vol. 46, no. 6, 
+pp. 710-728, 2012. 
+[6] D. Liu, "Modelling the effects of spatial and temporal correlation 
+of population densities in a railway transportation corridor, " 
+European Journal of Transport and Infrastructure Research, vol. 
+15, no. 2, pp. 243-260, 2015. 
+[7] H. M. Markowitz, "Portfolio selection, " The Journal of Finance, 
+vol. 7, no. 1, pp. 77-91, 1952. 
+[8] Y. F. Yin, S. M. Madanat, and X.-Y. Lu, "Robust improvement 
+schemes for road networks under demand uncertainty, " Euro-
+pean Journal of Operational Research, vol. 198, no. 2, pp. 470-
+479, 2009. 
+[9] L. L. Xiao, R. H. Liu, and H. J. Huang, "Congestion behavior 
+under uncertainty on morning commute with preferred arrival 
+time interval, " Discrete Dynamics in Nature and Society, vol. 
+2014, Article ID 767851, 9 pages, 2014. 
+[10] H. K. Lo and W. Y. Szeto, "Time-dependent transport network 
+design under cost-recovery, " Transportation Research Part B: 
+Methodological, vol. 43, no. 1, pp. 142-158, 2009. 
+[11] Á. Ibeas, R. Cordera, L. Dell'Olio, and P. Coppola, "Modelling 
+the spatial interactions between workplace and residential 
+location, " Transportation Research Part A: Policy and Practice, 
+vol. 49, pp. 110-122, 2013. 
+[12] H. W. Ho and S. C. Wong, "Housing allocation problem in a 
+continuum transportation system, " Transportmetrica, vol. 3, no. 
+1, pp. 21-39, 2007. 
+[13] Y. Sheffi, Urban Transportation Networks: Equilibrium Anal-
+ysis with Mathematical Programming Methods, Prentice-Hall, 
+Englewood Cliffs, NJ, USA, 1985. 
+[14] Z.-C. Li, W. H. K. Lam, S. C. Wong, and A. Sumalee, "Design of a 
+rail transit line for profit maximization in a linear transportation 
+corridor, " Transportation Research Part E: Logistics and Trans-
+portation Review, vol. 48, no. 1, pp. 50-70, 2012. 
+[15] J. Siskos and C. Zopounidis, "The evaluation criteria of the 
+venture capital investment activity: an interactive assessment, " 
+European Journal of Operational Research, vol. 31, no. 3, pp. 304-
+313, 1987. 
+[16] C. Zopounidis, "Multicriteria decision aid in financial manage-
+ment, " European Journal of Operational Research, vol. 119, no. 2, 
+pp. 404-415, 1999. 
+
+[17] W. H. K. Lam, H. Shao, and A. Sumalee, "Modeling impacts 
+of adverse weather conditions on a road network with uncer-
+tainties in demand and supply, " Transportation Research Part B: 
+Methodological, vol. 42, no. 10, pp. 890-910, 2008. 
+[18] J. Hartwick, U. Schweizer, and P. Varaiya, "Comparative statics 
+of a residential economy with several classes, " Journal of 
+Economic Theory, vol. 13, no. 3, pp. 396-413, 1976. 
+[19] Y. Kwon, "The effect of a change in wages on welfare in a two-
+class monocentric city, " Journal of Regional Science, vol. 43, no. 
+1, pp. 63-72, 2003. 
+
+
+Submit your manuscripts at 
+http://www.hindawi.com 
+
+Hindawi Publishing Corporation 
+http://www.hindawi.com 
+Volume 
+
+Mathematics 
+
+Journal of 
+
+Hindawi Publishing Corporation 
+http://www.hindawi.com 
+Volume 2014 
+
+Mathematical Problems 
+in Engineering 
+
+Hindawi Publishing Corporation 
+http://www.hindawi.com 
+
+Differential Equations 
+
+International Journal of 
+
+Volume 2014 
+
+Applied Mathematics 
+
+Journal of 
+
+Hindawi Publishing Corporation 
+http://www.hindawi.com 
+Volume 2014 
+
+Probability and Statistics 
+
+Hindawi Publishing Corporation 
+http://www.hindawi.com 
+Volume 2014 
+
+Journal of 
+
+Hindawi Publishing Corporation 
+http://www.hindawi.com 
+Volume 
+
+Mathematical Physics 
+
+in 
+
+Complex Analysis 
+
+Journal of 
+
+Hindawi Publishing Corporation 
+http://www.hindawi.com 
+Volume 2014 
+
+Optimization 
+
+Journal of 
+
+Hindawi Publishing Corporation 
+http://www.hindawi.com 
+Volume 2014 
+
+Combinatorics 
+
+Hindawi Publishing Corporation 
+http://www.hindawi.com 
+Volume 2014 
+
+International Journal 
+
+Hindawi Publishing Corporation 
+http://www.hindawi.com 
+Volume 2014 
+
+Operations Research 
+
+Advances in 
+
+Journal of 
+
+Hindawi Publishing Corporation 
+http://www.hindawi.com 
+Volume 2014 
+
+Function Spaces 
+
+Abstract and 
+Applied Analysis 
+
+Hindawi Publishing Corporation 
+http://www.hindawi.com 
+Volume 2014 
+
+International 
+Journal of 
+Mathematics and 
+Mathematical 
+Sciences 
+
+Hindawi Publishing Corporation 
+http://www.hindawi.com 
+Volume 2014 
+
+The Scientific 
+World Journal 
+
+Hindawi Publishing Corporation 
+http://www.hindawi.com 
+Volume 2014 
+
+Hindawi Publishing Corporation 
+http://www.hindawi.com 
+Volume 2014 
+
+Algebra 
+
+Discrete Dynamics in 
+Nature and Society 
+
+Hindawi Publishing Corporation 
+http://www.hindawi.com 
+Volume 2014 
+
+Hindawi Publishing Corporation 
+http://www.hindawi.com 
+Volume 2014 
+
+Decision Sciences 
+
+Advances in 
+
+Discrete Mathematics 
+
+Journal of 
+
+Hindawi Publishing Corporation 
+http://www.hindawi.com 
+
+Volume 2014 
+
+Hindawi Publishing Corporation 
+http://www.hindawi.com 
+Volume 2014 
+
+Stochastic Analysis 
+
+International Journal of 
+
+
+
+	
+

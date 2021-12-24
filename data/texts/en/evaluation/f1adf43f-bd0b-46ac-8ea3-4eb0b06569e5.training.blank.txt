@@ -1,0 +1,1045 @@
+
+	
+
+		
+
+	
+
+	
+
+Research Article 
+Iterative Approximation of the Minimal and Maximal Positive 
+Solutions for Multipoint Fractional Boundary Value Problem on 
+an Unbounded Domain 
+
+Guotao Wang, 1 Sanyang Liu, 1 and Lihong Zhang 2 
+
+1 Department of Applied Mathematics, Xidian University, Xi' an, Shaanxi 710071, China 
+2 School of Mathematics and Computer Science, Shanxi Normal University, Linfen, Shanxi 041004, China 
+
+Correspondence should be addressed to Sanyang Liu; liusanyang@126.com 
+
+Received 27 May 2013; Revised 11 November 2013; Accepted 18 November 2013; Published 28 January 2014 
+
+Academic Editor: Aurelian Gheondea 
+
+Copyright © 2014 Guotao Wang et al. This is an open access article distributed under the Creative Commons Attribution License, 
+which permits unrestricted use, distribution, and reproduction in any medium, provided the original work is properly cited. 
+
+By employing the monotone iterative method, this paper not only establishes the existence of the minimal and maximal positive 
+solutions for multipoint fractional boundary value problem on an unbounded domain, but also develops two computable explicit 
+monotone iterative sequences for approximating the two positive solutions. An example is given for the illustration of the main 
+result. 
+
+1. Introduction 
+
+The fractional calculus has been recognized as an effective 
+modeling methodology for describing hereditary properties 
+of various materials and processes widely. For a lot of appli-
+cations, we refer the reader to the books [1-5]. For some 
+new development on the topic, see [6-17] and the references 
+therein. 
+Recently, there has been a significant development on 
+boundary value problems for fractional differential equations 
+on infinite intervals; see papers [18-26], in which authors 
+are devoted to investigating the existence of solutions and 
+positive solutions by employing some fixed point theorems, 
+Leray-Schauder nonlinear alternative theorem, or fixed point 
+index theory. 
+By using Schauder's fixed point theorem combined with 
+the diagonalization method, Arara et al. [18] studied the 
+existence of the bounded solution of the following problem 
+on infinite intervals: 
+
+𝐶 𝐷 𝛼 
+0+ 𝑦 (𝑡) = 𝑓 (𝑡, 𝑦 (𝑡)) , 1 &lt; 𝛼 ≤ 2, 
+
+𝑦 (0) = 𝑦 0 , 𝑦 is bounded on 𝐽, 
+
+(1) 
+
+where 𝑡 ∈ 𝐽 = [0, +∞), 𝑓 ∈ 𝐶(𝐽 × R, R), 𝑦 0 ∈ R, and 𝐶 𝐷 𝛼 
+
+0+ 
+
+is the Caputo fractional derivative of order 𝛼. 
+
+In [19], Zhao and Ge investigated the existence of pos-
+itive solutions for the following fractional boundary value 
+problem by employing the Leray-Schauder nonlinear alter-
+native theorem: 
+
+𝐷 𝛼 
+0+ 𝑢 (𝑡) + 𝑓 (𝑡, 𝑢 (𝑡)) = 0, 1 &lt; 𝛼 ≤ 2, 
+
+𝑢 (0) = 0, 
+lim 
+
+𝑡 → +∞ 
+
+𝐷 𝛼−1 
+0+ = 𝛽𝑢 (𝜉) , 
+
+(2) 
+
+where 𝑡 ∈ 𝐽 = [0, +∞), 𝑓 ∈ 𝐶(𝐽 × R, [0, +∞)), 0 ≤ 𝜉, 
+𝜂 &lt; ∞, and 𝐷 𝛼 
+0+ is the standard Riemann-Liouville fractional 
+derivative. 
+Liang and Zhang [20] were concerned with the following 
+nonlinear fractional differential equations with multipoint 
+fractional boundary conditions on an unbounded domain: 
+
+𝐷 𝛼 𝑢 (𝑡) + 𝑎 (𝑡) 𝑓 (𝑡, 𝑢 (𝑡)) = 0, 0 &lt; 𝑡 &lt; ∞, 
+
+𝑢 (0) = 𝑢 󸀠 (0) = 0, 
+
+𝐷 𝛼−1 𝑢 (+∞) = 
+
+𝑚−2 
+
+∑ 
+
+𝑖=1 
+
+𝛽 𝑖 𝑢 (𝜉 𝑖 ) , 
+
+(3) 
+
+where 𝐽 = [0,+∞), 2 &lt; 𝛼 ≤ 3, 𝐷 𝛼 denotes the Rie-
+mann-Liouville fractional derivative, 0 &lt; 𝜉 1 &lt; 𝜉 2 &lt; ⋅ ⋅ ⋅ &lt; 
+𝜉 𝑚−2 &lt; +∞, and 𝛽 𝑖 &gt; 0, 𝑖 = 1, 2, . . . , 𝑚 − 2, satisfy 
+
+Hindawi Publishing Corporation 
+Journal of Function Spaces 
+Volume 2014, Article ID 469509, 5 pages 
+http://dx.doi.org/10.1155/2014/469509 
+
+
+2 
+
+Journal of Function Spaces 
+
+0 &lt; ∑ 𝑚−2 
+𝑖=1 𝛽 𝑖 𝜉 𝛼−1 
+
+𝑖 
+
+&lt; Γ(𝛼). By using the fixed point index 
+theory, authors gave sufficient conditions for the existence of 
+multiple positive solutions to the above multi-point fractional 
+boundary value problem. 
+However, very interesting and important question is "If 
+we know the existence of the solution, how can we find it?" 
+This question motivates us to reconsider problem (3). In this 
+paper, we not only establish the existence of two positive 
+solutions for problem (3), but also develop two computable 
+explicit monotone iterative sequences for approximating the 
+minimal and maximal positive solutions of (3), which is 
+indeed an important and useful contribution to the existing 
+literature on the topic. In addition, to start our work, we 
+employ the monotone iterative method, which is different 
+from the ones used in [18-26]. Let us state that this method 
+was widely used for nonlinear problem; see, for instance, [27-
+38]. 
+
+2. Preliminaries and Several Lemmas 
+
+In this section, we present some useful definitions and related 
+theorems. 
+
+Definition 1 (see [2]). The Riemann-Liouville fractional deri-
+vative of order 𝛿 for a continuous function 𝑓 is defined by 
+
+𝐷 𝛿 𝑓 (𝑡) = 
+1 
+Γ (𝑛 − 𝛿) 
+( 
+𝑑 
+𝑑𝑡 
+) 
+
+𝑛 
+
+× ∫ 
+
+𝑡 
+
+0 
+
+(𝑡 − 𝑠) 𝑛−𝛿−1 𝑓 (𝑠) 𝑑𝑠, 𝑛 = [𝛿] + 1, 
+
+(4) 
+
+provided the right-hand side is pointwise defined on (0, ∞) 
+and [𝛿] is the integer part of 𝛿. 
+
+Definition 2 (see [2]). The Riemann-Liouville fractional inte-
+gral of order 𝛿 for a function 𝑓 is defined as 
+
+𝐼 𝛿 𝑓 (𝑡) = 
+1 
+Γ (𝛿) 
+∫ 
+
+𝑡 
+
+0 
+
+(𝑡 − 𝑠) 𝛿−1 𝑓 (𝑠) 𝑑𝑠, 𝛿 &gt; 0, 
+(5) 
+
+provided that such integral exists. 
+
+Lemma 3 (see [20]). Let ℎ ∈ 𝐶([0, +∞)). For 2 &lt; 𝛼 &lt; 3, the 
+fractional boundary value problem 
+
+𝐷 𝛼 𝑢 (𝑡) + ℎ (𝑡) = 0, 
+
+𝑢 (0) = 𝑢 󸀠 (0) = 0, 
+
+𝐷 𝛼−1 𝑢 (+∞) = 
+
+𝑚−2 
+
+∑ 
+
+𝑖=1 
+
+𝛽 𝑖 𝑢 (𝜉 𝑖 ) 
+
+(6) 
+
+has a unique solution 
+
+𝑢 (𝑡) = ∫ 
+
++∞ 
+
+0 
+
+𝐺 (𝑡, 𝑠) ℎ (𝑠) 𝑑𝑠, 
+(7) 
+
+where 
+
+𝐺 (𝑡, 𝑠) = 𝐺  *  (𝑡, 𝑠) + 𝐺  *  *  (𝑡, 𝑠) , 
+(8) 
+
+with 
+
+𝐺  *  (𝑡, 𝑠) = 
+1 
+Γ (𝛼) 
+{ 
+𝑡 𝛼−1 − (𝑡 − 𝑠) 𝛼−1 , 0 ≤ 𝑠 ≤ 𝑡 &lt; +∞, 
+𝑡 𝛼−1 , 
+0 ≤ 𝑡 ≤ 𝑠 &lt; +∞, 
+
+𝐺  *  *  (𝑡, 𝑠) = 
+∑ 𝑚−2 
+𝑖=1 𝛽 𝑖 𝑡 𝛼−1 
+Γ (𝛼) − ∑ 𝑚−2 
+𝑖=1 𝛽 𝑖 𝜉 𝛼−1 
+
+𝑖 
+
+𝐺  *  (𝜉 𝑖 , 𝑠) . 
+
+(9) 
+
+Lemma 4 (see [20]). For (𝑠, 𝑡) ∈ [0, +∞) × [0, +∞), then 
+Green's function 𝐺(𝑡, 𝑠) has the following properties: 
+
+(1) 
+
+0 ≤ 𝐺 (𝑡, 𝑠) ≤ 𝐿𝑡 𝛼−1 , 
+(10) 
+
+(2) 
+
+𝐺 (𝑡, 𝑠) 
+1 + 𝑡 𝛼−1 ≤ 𝐿, 
+(11) 
+
+where 
+
+𝐿 = 
+1 
+Γ (𝛼) 
++ 
+∑ 𝑚−2 
+𝑖=1 𝛽 𝑖 𝜉 𝛼−1 
+
+𝑚−2 
+
+Γ (𝛼) (Γ (𝛼) − ∑ 𝑚−2 
+𝑖=1 𝛽 𝑖 𝜉 𝛼−1 
+
+𝑖 
+
+) 
+. 
+(12) 
+
+For the forthcoming analysis, we will use a Banach space: 
+
+𝑋 = {𝑢 ∈ 𝐶 (𝐽, R) : sup 
+
+𝑡∈𝐽 
+
+|𝑢 (𝑡)| 
+1 + 𝑡 𝛼−1 &lt; +∞} , 
+(13) 
+
+equipped with the norm 
+
+‖𝑢‖ 𝑋 = sup 
+
+𝑡∈𝐽 
+
+|𝑢 (𝑡)| 
+1 + 𝑡 𝛼−1 . 
+(14) 
+
+Define a cone 𝑃 ⊂ 𝑋 by 
+
+𝑃 = {𝑢 ∈ 𝑋 : 𝑢 (𝑡) ≥ 0, 𝑡 ∈ 𝐽} 
+(15) 
+
+and an operator 𝑄 : 𝑋 → 𝑋 as follows: 
+
+𝑄𝑢 (𝑡) = ∫ 
+
+∞ 
+
+0 
+
+𝐺 (𝑡, 𝑠) 𝑎 (𝑠) 𝑓 (𝑠, 𝑢 (𝑠)) 𝑑𝑠. 
+(16) 
+
+Observe that multi-point fractional boundary value prob-
+lem (3) has a solution if and only if the integral operator 𝑄 has 
+a fixed point. 
+
+3. Main Results 
+
+In this section, we shall construct two explicit monotone 
+iterative sequences which converge to the minimal and 
+maximal positive solutions of (3). 
+
+Theorem 5. Assume that the following conditions hold: 
+
+(H 1 ) 𝑓 ∈ 𝐶(𝐽 × 𝐽, 𝐽), 𝑓(𝑡, 0) ̸ 
+≡ 0 on any subinterval of 𝐽, 
+and when 𝑢 is bounded, 𝑓(𝑡, (1 + 𝑡 𝛼−1 )𝑢) is bounded on 
+𝐽; 
+
+(H 2 ) 𝑎 : 𝐽 → 𝐽 does not identically vanish on any subinte-
+rval of 𝐽 and 0 &lt; ∫ 
+
++∞ 
+
+0 
+
+𝑎(𝑡)𝑑𝑡 &lt; ∞; 
+
+
+Journal of Function Spaces 
+
+3 
+
+(H 3 ) 𝑓(𝑡, ⋅) is nondecreasing for any 𝑡 ∈ 𝐽, and there 
+exists a constant 𝑏 &gt; 0, such that 𝑓(𝑡, (1 + 𝑡 𝛼−1 )𝑢) ≤ 
+𝑏/𝐿 ∫ 
+
+∞ 
+
+0 𝑎(𝑡)𝑑𝑡 for (𝑡, 𝑢) ∈ 𝐽 × [0, 𝑏]. 
+Then the multi-point fractional boundary value problem 
+(3) has the minimal and maximal positive solutions V  *  , 𝑢  *  in 
+(0, 𝑏𝑡 𝛼−1 ], which can be obtained by the following two explicit 
+monotone iterative sequences: 
+
+V 𝑛+1 = ∫ 
+
++∞ 
+
+0 
+
+𝐺 (𝑡, 𝑠) 𝑎 (𝑠) 𝑓 (𝑠, V 𝑛 (𝑠)) 𝑑𝑠 
+
+𝑤𝑖𝑡ℎ 𝑖𝑛𝑖𝑡𝑖𝑎𝑙 V𝑎𝑙𝑢𝑒 V 0 (𝑡) = 0, 
+
+𝑢 𝑛+1 = ∫ 
+
++∞ 
+
+0 
+
+𝐺 (𝑡, 𝑠) 𝑎 (𝑠) 𝑓 (𝑠, 𝑢 𝑛 (𝑠)) 𝑑𝑠 
+
+𝑤𝑖𝑡ℎ 𝑖𝑛𝑖𝑡𝑖𝑎𝑙 V𝑎𝑙𝑢𝑒 𝑢 0 (𝑡) = 𝑏𝑡 𝛼−1 . 
+
+(17) 
+
+Moreover, 
+
+V 0 ≤ V 1 ≤ ⋅ ⋅ ⋅ ≤ V 𝑛 ⋅ ⋅ ⋅ ≤ V  *  ≤ ⋅ ⋅ ⋅ 
+
+≤ 𝑢  *  ⋅ ⋅ ⋅ ≤ 𝑢 𝑛 ≤ ⋅ ⋅ ⋅ ≤ 𝑢 1 ≤ 𝑢 0 . 
+(18) 
+
+Proof. By a similar process used in [20], it is easy to show that 
+𝑄 : 𝑃 → 𝑃 is completely continuous. 
+Now denote 𝐵 = {𝑢 ∈ 𝑃, ‖𝑢‖ 𝑋 ≤ 𝑏}; then we have 𝑄(𝐵) ⊂ 
+𝐵. In fact, let 𝑢 ∈ 𝐵; then by (H 3 ) and (12), we have 
+
+‖𝑄𝑢‖ 𝑋 = sup 
+
+𝑡∈𝐽 
+
+∫ 
+
++∞ 
+
+0 
+
+𝐺 (𝑡, 𝑠) 
+1 + 𝑡 𝛼−1 
+󵄨 󵄨 󵄨 󵄨 𝑎 (𝑠) 𝑓 (𝑠, 𝑢 (𝑠)) 
+󵄨 󵄨 󵄨 󵄨 𝑑𝑠 
+
+≤ 𝐿 ∫ 
+
++∞ 
+
+0 
+
+𝑎 (𝑠) 𝑑𝑠 ⋅ 
+𝑏 
+
+𝐿 ∫ 
+
++∞ 
+
+0 
+
+𝑎 (𝑠) 𝑑𝑠 
+= 𝑏. 
+
+(19) 
+
+That is, 𝑄(𝐵) ⊂ 𝐵. 
+Denote that V 0 (𝑡) = 0, V 1 = 𝑄0 = 𝑄V 0 , and V 2 = 𝑄 2 0 = 
+𝑄V 1 , for all 𝑡 ∈ 𝐽. Since V 0 (𝑡) = 0 ∈ 𝐵 and 𝑄 : 𝐵 → 𝐵, then 
+V 1 ∈ 𝑄(𝐵) ⊂ 𝐵 and V 2 ∈ 𝑄(𝐵) ⊂ 𝐵. So, we have 
+
+V 1 (𝑡) = (𝑄0) (𝑡) ≥ 0 = V 0 (𝑡) , ∀𝑡 ∈ 𝐽. 
+(20) 
+
+By condition (H 3 ), for 𝑢, V ∈ 𝐵 and 𝑢 ≥ V, we have 
+
+𝑄𝑢 (𝑡) = ∫ 
+
+∞ 
+
+0 
+
+𝐺 (𝑡, 𝑠) 𝑎 (𝑠) 𝑓 (𝑠, 𝑢 (𝑠)) 𝑑𝑠 
+
+≥ ∫ 
+
+∞ 
+
+0 
+
+𝐺 (𝑡, 𝑠) 𝑎 (𝑠) 𝑓 (𝑠, V (𝑠)) 𝑑𝑠 = 𝑄V (𝑡) . 
+
+(21) 
+
+This proves that 𝑄 is a nondecreasing operator. 
+So, we have 
+
+V 2 (𝑡) = (𝑄V 1 ) (𝑡) ≥ (𝑄V 0 ) (𝑡) = V 1 (𝑡) , ∀𝑡 ∈ 𝐽. 
+(22) 
+
+By the induction, define V 𝑛+1 = 𝑄V 𝑛 , 𝑛 = 0, 1, 2, . . .. Then 
+the sequence {V 𝑛 } ∞ 
+𝑛=1 ⊂ 𝑄(𝐵) ⊂ 𝐵 and satisfies the following 
+relation: 
+
+V 𝑛+1 (𝑡) ≥ V 𝑛 (𝑡) , ∀𝑡 ∈ 𝐽, 𝑛 = 0, 1, 2, . . . . 
+(23) 
+
+In view of the complete continuity of the operator 𝑄 and 
+V 𝑛+1 = 𝑄V 𝑛 , then {V 𝑛 } ∞ 
+𝑛=1 is relative compact. That is, {V 𝑛 } ∞ 
+
+𝑛=1 
+
+has a convergent subsequence {V 𝑛 𝑘 } ∞ 
+𝑘=1 and there exists a V  *  ∈ 
+𝐵 such that V 𝑛 𝑘 → V  *  as 𝑘 → ∞. This, together with (23), 
+holds lim 𝑛 → ∞ V 𝑛 = V  *  . 
+Since 𝑄 is continuous and V 𝑛+1 = 𝑄V 𝑛 , then we have 
+𝑄V  *  = V  *  . That is, V  *  is a fixed point of the operator 𝑄. 
+Denote that 𝑢 0 (𝑡) = 𝑏𝑡 𝛼−1 , 𝑢 1 = 𝑄𝑢 0 , and 𝑢 2 = 𝑄 2 𝑢 0 = 
+𝑄𝑢 1 , for all 𝑡 ∈ 𝐽. Since 𝑢 0 (𝑡) ∈ 𝐵 and 𝑄 : 𝐵 → 𝐵, then 
+𝑢 1 ∈ 𝑄(𝐵) ⊂ 𝐵 and 𝑢 2 ∈ 𝑄(𝐵) ⊂ 𝐵. By (H 3 ), we have 
+
+𝑢 1 (𝑡) = ∫ 
+
++∞ 
+
+0 
+
+𝐺 (𝑡, 𝑠) 𝑎 (𝑠) 𝑓 (𝑠, 𝑢 0 (𝑠)) 𝑑𝑠 
+
+≤ ∫ 
+
++∞ 
+
+0 
+
+𝐿𝑡 𝛼−1 𝑎 (𝑠) 𝑑𝑠 ⋅ 
+𝑏 
+
+∫ 
+
++∞ 
+
+0 
+
+𝐿𝑎 (𝑠) 𝑑𝑠 
+
+= 𝑏𝑡 𝛼−1 = 𝑢 0 (𝑡) , ∀𝑡 ∈ 𝐽. 
+
+(24) 
+
+Since 𝑄 is nondecreasing, then we have 
+
+𝑢 2 (𝑡) = (𝑄𝑢 1 ) (𝑡) ≤ (𝑄𝑢 0 ) (𝑡) = 𝑢 1 (𝑡) , ∀𝑡 ∈ 𝐽. 
+(25) 
+
+By the induction, define 𝑢 𝑛+1 = 𝑄𝑢 𝑛 , 𝑛 = 0, 1, 2, . . .. Then 
+the sequence {𝑢 𝑛 } ∞ 
+𝑛=1 ⊂ 𝑄(𝐵) ⊂ 𝐵 and satisfies the following 
+relation: 
+
+𝑢 𝑛+1 (𝑡) ≤ 𝑢 𝑛 (𝑡) , ∀𝑡 ∈ 𝐽, 𝑛 = 0, 1, 2, . . . . 
+(26) 
+
+With an analysis exactly parallel to the proving process of 
+lim 𝑛 → ∞ V 𝑛 = V  *  , we have that there exists a 𝑢  *  ∈ 𝐵 such that 
+lim 𝑛 → ∞ 𝑢 𝑛 = 𝑢  *  . 
+Since 𝑄 is continuous and 𝑢 𝑛+1 = 𝑄𝑢 𝑛 , we have 𝑄𝑢  *  = 𝑢  *  . 
+That is, 𝑢  *  is a fixed point of the operator 𝑄. 
+Now, we are in a position to show that 𝑢  *  and V  *  are the 
+maximal and minimal positive solutions of (3) in (0, 𝑏𝑡 𝛼−1 ]. 
+Let 𝑤 ∈ [0, 𝑏𝑡 𝛼−1 ] be any solution of (3). That is 𝑄𝑤 = 
+𝑤. Noting that 𝑄 is nondecreasing and V 0 (𝑡) = 0 ≤ 𝑤(𝑡) ≤ 
+𝑏𝑡 𝛼−1 = 𝑢 0 (𝑡), then we have V 1 (𝑡) = 𝑄V 0 (𝑡) ≤ 𝑤(𝑡) ≤ 𝑄𝑢 0 (𝑡) = 
+𝑢 1 (𝑡), for all 𝑡 ∈ 𝐽. 
+Similarly, we can obtain 
+
+V 𝑛 (𝑡) ≤ 𝑤 (𝑡) ≤ 𝑢 𝑛 (𝑡) , ∀𝑡 ∈ 𝐽, 𝑛 = 0, 1, 2, . . . . 
+(27) 
+
+Since 𝑢  *  = lim 𝑛 → ∞ 𝑢 𝑛 and V  *  = lim 𝑛 → ∞ V 𝑛 , it follows 
+from (23)∼(27) that 
+
+V 0 ≤ V 1 ≤ ⋅ ⋅ ⋅ ≤ V 𝑛 ⋅ ⋅ ⋅ ≤ V  *  
+
+≤ 𝑤 ≤ 𝑢  *  ⋅ ⋅ ⋅ ≤ 𝑢 𝑛 ≤ ⋅ ⋅ ⋅ ≤ 𝑢 1 ≤ 𝑢 0 . 
+(28) 
+
+Since 𝑓(𝑡, 0) 
+̸ 
+≡ 0, for all 𝑡 ∈ 𝐽, then 0 is not a 
+solution of problem (3). Thus, by (28), we know that 𝑢  *  and 
+V  *  are the maximal and minimal positive solutions of (3) 
+in (0, 𝑏𝑡 𝛼−1 ], which can be obtained by the corresponding 
+iterative sequences in (17). 
+This completes the proof. 
+
+
+4 
+
+Journal of Function Spaces 
+
+4. Example 
+
+Example 1. Take 𝛼 = 5/2, 𝛽 1 = 3/10, 𝛽 2 = 1/5, 𝜉 1 = 1/4, and 
+𝜉 2 = 1. Consider the following boundary value problem: 
+
+𝐷 5/2 𝑢 (𝑡) + 𝑒 −𝑡 𝑓 (𝑡, 𝑢 (𝑡)) = 0, 𝑡 ∈ (0, +∞) 
+
+𝑢 (0) = 𝑢 󸀠 (0) = 0, 
+
+𝐷 3/2 𝑢 (+∞) = 
+3 
+10 
+𝑢 ( 
+1 
+4 
+) + 
+1 
+5 
+𝑢 (1) , 
+
+(29) 
+
+where 𝑎(𝑡) = 𝑒 −𝑡 and 
+
+𝑓 (𝑡, 𝑢) = 
+{ { { 
+
+{ { { 
+
+{ 
+
+1 
+100 (1 + 𝑡 4 ) 
++ 
+1 
+10 
+( 
+𝑢 
+1 + 𝑡 3/2 ) 
+
+5 
+
+, 0 ≤ 𝑢 ≤ 1, 
+
+1 
+100 (1 + 𝑡 4 ) 
++ 
+1 
+10 
+( 
+1 
+1 + 𝑡 3/2 ) 
+
+5 
+
+, 𝑢 &gt; 1. 
+
+(30) 
+
+Now, we show that 𝑓(𝑡, (1 + 𝑡 𝛼−1 )𝑢) is bounded on 𝐽 when 
+𝑢 is bounded. Since 
+
+𝑓 (𝑡, (1 + 𝑡 3/2 ) 𝑢) 
+
+= 
+{ { { 
+
+{ { { 
+
+{ 
+
+1 
+100 (1 + 𝑡 4 ) 
++ 
+1 
+10 
+𝑢 5 , 
+0 ≤ 𝑢 ≤ 1, 
+
+1 
+100 (1 + 𝑡 4 ) 
++ 
+1 
+10 
+( 
+1 
+1 + 𝑡 3/2 ) 
+
+5 
+
+, 𝑢 &gt; 1. 
+
+(31) 
+
+Then we have 𝑓(𝑡, (1 + 𝑡 3/2 )𝑢) ≤ 11/100. So condition (H 1 ) 
+holds. 
+In view of ∫ 
+
++∞ 
+
+0 
+
+𝑎(𝑡)𝑑𝑡 = ∫ 
+
++∞ 
+
+0 
+
+𝑒 −𝑡 𝑑𝑡 = 1, condition (H 2 ) 
+holds. 
+By a simple computation, we have that Γ(𝛼) = Γ(5/2) = 
+3√𝜋/4 and 𝐿 = (1/Γ(𝛼)) + (∑ 𝑚−2 
+𝑖=1 𝛽 𝑖 𝜉 𝛼−1 
+𝑚−2 /Γ(𝛼)(Γ(𝛼) − 
+∑ 𝑚−2 
+𝑖=1 𝛽 𝑖 𝜉 𝛼−1 
+
+𝑖 
+
+)) ≈ 1.096741. Taking 𝑏 = 1, it follows that 
+
+𝑓 (𝑡, (1 + 𝑡 3/2 ) 𝑢) ≤ 0.11 &lt; 
+1 
+1.0968 
+
+≤ 
+𝑏 
+
+𝐿 ∫ 
+
+∞ 
+
+0 
+
+𝑎 (𝑠) 𝑑𝑠 
+, 
+
+for (𝑡, 𝑢) ∈ 𝐽 × [0, 1] . 
+
+(32) 
+
+Hence, condition (H 3 ) holds. Thus all conditions of 
+Theorem 5 are satisfied. Therefore, the fractional boundary 
+value problem (29) has the minimal and maximal positive 
+solutions in (0, 𝑡 3/2 ], which can be obtained by two explicit 
+monotone iterative sequences. 
+
+Conflict of Interests 
+
+The authors declare that there is no conflict of interests 
+regarding the publication of this paper. 
+
+Acknowledgments 
+
+The authors would like to express their gratitude to the anony-
+mous reviewers and editors for their valuable comments and 
+
+suggestions which improved the quality of the original paper. 
+This work is supported by the NNSF of China (no. 61373174) 
+and the Natural Science Foundation for Young Scientists of 
+Shanxi Province, China (no. 2012021002-3). 
+
+References 
+
+[1] I. Podlubny, Fractional Differential Equations, vol. 198 of Math-
+ematics in Science and Engineering, Academic Press, San Diego, 
+Calf, USA, 1999. 
+[2] A. A. Kilbas, H. M. Srivastava, and J. J. Trujillo, Theory and 
+Applications of Fractional Differential Equations, vol. 204 of 
+North-Holland Mathematics Studies, Elsevier Science B.V., Ams-
+terdam, The Netherlands, 2006. 
+[3] V. Lakshmikantham, S. Leela, and J. V. Devi, Theory of Fractional 
+Dynamic Systems, Cambridge Scientific, Cambridge, UK, 2009. 
+[4] J. Sabatier, O. P. Agrawal, and J. A. T. Machado, Eds., Advances in 
+Fractional Calculus: Theoretical Developments and Applications 
+in Physics and Engineering, Springer, Dordrecht, The Nether-
+lands, 2007. 
+[5] D. Baleanu, K. Diethelm, E. Scalas, and J. J. Trujillo, Fractional 
+Calculus Models and Numerical Methods, vol. 3 of Series on 
+Complexity, Nonlinearity and Chaos, World Scientific, Hacken-
+sack, NJ, USA, 2012. 
+[6] F. Jarad, T. Abdeljawad, and D. Baleanu, "Stability of 𝑞-fractional 
+non-autonomous systems, " Nonlinear Analysis: Real World 
+Applications, vol. 14, no. 1, pp. 780-784, 2013. 
+[7] G.-C. Wu and D. Baleanu, "Variational iteration method for 
+the Burgers' flow with fractional derivatives-new Lagrange 
+multipliers, " Applied Mathematical Modelling, vol. 37, no. 9, pp. 
+6183-6190, 2013. 
+[8] E. Hernández, D. O'Regan, and K. Balachandran, "On recent 
+developments in the theory of abstract differential equations 
+with fractional derivatives, " Nonlinear Analysis: Theory, Methods 
+&amp; Applications, vol. 73, no. 10, pp. 3462-3471, 2010. 
+[9] A. Cabada and G. Wang, "Positive solutions of nonlinear 
+fractional differential equations with integral boundary value 
+conditions, " Journal of Mathematical Analysis and Applications, 
+vol. 389, no. 1, pp. 403-411, 2012. 
+[10] G. Wang, A. Cabada, and L. Zhang, "Integral boundary value 
+problem for nonlinear differential equations of fractional order 
+on an unbounded domain, " to appear in Journal of Integral 
+Equations and Applications. 
+[11] G. Wang, B. Ahmad, and L. Zhang, "Impulsive anti-periodic 
+boundary value problem for nonlinear differential equations 
+of fractional order, " Nonlinear Analysis: Theory, Methods &amp; 
+Applications, vol. 74, no. 3, pp. 792-804, 2011. 
+[12] Z. Bai and W. Sun, "Existence and multiplicity of positive 
+solutions for singular fractional boundary value problems, " 
+Computers &amp; Mathematics with Applications, vol. 63, no. 9, pp. 
+1369-1381, 2012. 
+[13] J. Dabas and A. Chauhan, "Existence and uniqueness of mild 
+solution for an impulsive neutral fractional integro-differential 
+equation with infinite delay, " Mathematical and Computer 
+Modelling, vol. 57, no. 3-4, pp. 754-763, 2013. 
+[14] R. Sakthivel, N. I. Mahmudov, and J. J. Nieto, "Controllability 
+for a class of fractional-order neutral evolution control systems, " 
+Applied Mathematics and Computation, vol. 218, no. 20, pp. 
+10334-10340, 2012. 
+[15] B. Ahmad, J. J. Nieto, A. Alsaedi, and M. El-Shahed, "A study of 
+nonlinear Langevin equation involving two fractional orders in 
+
+
+Journal of Function Spaces 
+
+5 
+
+different intervals, " Nonlinear Analysis: Real World Applications, 
+vol. 13, no. 2, pp. 599-606, 2012. 
+[16] B. Ahmad and S. K. Ntouyas, "Existence results for nonlocal 
+boundary value problems of fractional differential equations 
+and inclusions with strip conditions, " Boundary Value Problems, 
+vol. 2012, article 55, 21 pages, 2012. 
+[17] R. P. Agarwal, D. O'Regan, and S. Staněk, "Positive solutions for 
+mixed problems of singular fractional differential equations, " 
+Mathematische Nachrichten, vol. 285, no. 1, pp. 27-41, 2012. 
+[18] A. Arara, M. Benchohra, N. Hamidi, and J. J. Nieto, "Fractional 
+order differential equations on an unbounded domain, " Nonlin-
+ear Analysis: Theory, Methods &amp; Applications, vol. 72, no. 2, pp. 
+580-586, 2010. 
+[19] X. Zhao and W. Ge, "Unbounded solutions for a fractional 
+boundary value problems on the infinite interval, " Acta Appli-
+candae Mathematicae, vol. 109, no. 2, pp. 495-505, 2010. 
+[20] S. Liang and J. Zhang, "Existence of multiple positive solutions 
+for 𝑚-point fractional boundary value problems on an infinite 
+interval, " Mathematical and Computer Modelling, vol. 54, no. 5-
+6, pp. 1334-1346, 2011. 
+[21] S. Liang and J. Zhang, "Existence of three positive solutions 
+of 𝑚-point boundary value problems for some nonlinear frac-
+tional differential equations on an infinite interval, " Computers 
+&amp; Mathematics with Applications, vol. 61, no. 11, pp. 3343-3354, 
+2011. 
+[22] X. Su, "Solutions to boundary value problem of fractional order 
+on unbounded domains in a Banach space, " Nonlinear Analysis: 
+Theory, Methods &amp; Applications, vol. 74, no. 8, pp. 2844-2852, 
+2011. 
+[23] X. Su and S. Zhang, "Unbounded solutions to a boundary value 
+problem of fractional order on the half-line, " Computers &amp; 
+Mathematics with Applications, vol. 61, no. 4, pp. 1079-1087, 2011. 
+[24] R. P. Agarwal, M. Benchohra, S. Hamani, and S. Pinelas, 
+"Boundary value problems for differential equations involv-
+ing Riemann-Liouville fractional derivative on the half-line, " 
+Dynamics of Continuous, Discrete &amp; Impulsive Systems. Series 
+A, vol. 18, no. 2, pp. 235-244, 2011. 
+[25] L. Zhang, B. Ahmad, G. Wang, R. P. Agarwal, M. Al-Yami, and 
+W. Shammakh, "Nonlocal integrodifferential boundary value 
+problem for nonlinear fractional differential equations on an 
+unbounded domain, " Abstract and Applied Analysis, vol. 2013, 
+Article ID 813903, 5 pages, 2013. 
+[26] G. Wang, B. Ahmad, and L. Zhang, "A coupled system of nonlin-
+ear fractional differential equations with multipoint fractional 
+boundary conditions on an unbounded domain, " Abstract and 
+Applied Analysis, vol. 2012, Article ID 248709, 11 pages, 2012. 
+[27] G. S. Ladde, V. Lakshmikantham, and A. S. Vatsala, Mono-
+tone Iterative Techniques for Nonlinear Differential Equations, 
+Monographs, Advanced Texts and Surveys in Pure and Applied 
+Mathematics, 27, Pitman, Boston, Mass, USA, 1985. 
+[28] J. J. Nieto, "An abstract monotone iterative technique, " Nonlinear 
+Analysis: Theory, Methods &amp; Applications, vol. 28, no. 12, pp. 
+1923-1933, 1997. 
+[29] J. D. Ramírez and A. S. Vatsala, "Monotone iterative technique 
+for fractional differential equations with periodic boundary 
+conditions, " Opuscula Mathematica, vol. 29, no. 3, pp. 289-304, 
+2009. 
+[30] G. Wang, "Monotone iterative technique for boundary value 
+problems of a nonlinear fractional differential equation with 
+deviating arguments, " Journal of Computational and Applied 
+Mathematics, vol. 236, no. 9, pp. 2425-2430, 2012. 
+
+[31] G. Wang, R. P. Agarwal, and A. Cabada, "Existence results 
+and the monotone iterative technique for systems of nonlinear 
+fractional differential equations, " Applied Mathematics Letters, 
+vol. 25, no. 6, pp. 1019-1024, 2012. 
+[32] G. Wang, D. Baleanu, and L. Zhang, "Monotone iterative 
+method for a class of nonlinear fractional differential equa-
+tions, " Fractional Calculus and Applied Analysis, vol. 15, no. 2, 
+pp. 244-252, 2012. 
+[33] L. Zhang, B. Ahmad, G. Wang, and R. P. Agarwal, "Non-
+linear fractional integro-differential equations on unbounded 
+domains in a Banach space, " Journal of Computational and 
+Applied Mathematics, vol. 249, pp. 51-56, 2013. 
+[34] T. Jankowski, "Fractional equations of Volterra type involving 
+a Riemann-Liouville derivative, " Applied Mathematics Letters, 
+vol. 26, no. 3, pp. 344-350, 2013. 
+[35] F. A. McRae, "Monotone iterative technique and existence 
+results for fractional differential equations, " Nonlinear Analysis: 
+Theory, Methods &amp; Applications, vol. 71, no. 12, pp. 6093-6096, 
+2009. 
+[36] Z. Wei, Q. Li, and J. Che, "Initial value problems for fractional 
+differential equations involving Riemann-Liouville sequential 
+fractional derivative, " Journal of Mathematical Analysis and 
+Applications, vol. 367, no. 1, pp. 260-272, 2010. 
+[37] Z. Liu, J. Sun, and I. Szántó, "Monotone iterative technique 
+for Riemann-Liouville fractional integro-differential equations 
+with advanced arguments, " Results in Mathematics, vol. 63, no. 
+3-4, pp. 1277-1287, 2013. 
+[38] X. Zhang, L. Liu, Y. Wu, and Y. Lu, "The iterative solutions of 
+nonlinear fractional differential equations, " Applied Mathemat-
+ics and Computation, vol. 219, no. 9, pp. 4680-4691, 2013. 
+
+
+Submit your manuscripts at 
+http://www.hindawi.com 
+
+Hindawi Publishing Corporation 
+http://www.hindawi.com 
+Volume 2014 
+
+Mathematics 
+
+Journal of 
+
+Hindawi Publishing Corporation 
+http://www.hindawi.com 
+Volume 2014 
+
+Mathematical Problems 
+in Engineering 
+
+Hindawi Publishing Corporation 
+http://www.hindawi.com 
+
+Differential Equations 
+
+International Journal of 
+
+Volume 2014 
+
+Applied Mathematics 
+
+Journal of 
+
+Hindawi Publishing Corporation 
+http://www.hindawi.com 
+Volume 2014 
+
+Probability and Statistics 
+
+Hindawi Publishing Corporation 
+http://www.hindawi.com 
+Volume 2014 
+
+Journal of 
+
+Hindawi Publishing Corporation 
+http://www.hindawi.com 
+Volume 2014 
+
+Mathematical 
+
+Advances in 
+
+Complex Analysis 
+
+Journal of 
+
+Publishing Corporation 
+http://www.hindawi.com 
+Volume 2014 
+
+Optimization 
+
+Journal 
+
+Hindawi Publishing Corporation 
+http://www.hindawi.com 
+Volume 2014 
+
+Combinatorics 
+
+Hindawi Publishing Corporation 
+http://www.hindawi.com 
+Volume 2014 
+
+International Journal of 
+
+Hindawi Publishing Corporation 
+http://www.hindawi.com 
+Volume 2014 
+
+Operations Research 
+
+Advances in 
+
+Journal of 
+
+Hindawi Publishing Corporation 
+http://www.hindawi.com 
+Volume 2014 
+
+Function Spaces 
+
+Abstract and 
+Applied Analysis 
+
+Hindawi Publishing Corporation 
+http://www.hindawi.com 
+Volume 2014 
+
+International 
+Journal of 
+Mathematics and 
+Mathematical 
+Sciences 
+
+Hindawi Corporation 
+http://www.hindawi.com 
+Volume 2014 
+
+The Scientific 
+World Journal 
+
+Hindawi Publishing Corporation 
+http://www.hindawi.com 
+Volume 2014 
+
+Hindawi Publishing Corporation 
+http://www.hindawi.com 
+Volume 2014 
+
+Algebra 
+
+Discrete Dynamics in 
+Nature and Society 
+
+Hindawi Publishing Corporation 
+http://www.hindawi.com 
+Volume 2014 
+
+Hindawi Publishing Corporation 
+http://www.hindawi.com 
+Volume 2014 
+
+Decision Sciences 
+
+Advances in 
+
+Discrete Mathematics 
+
+Journal of 
+
+Hindawi Publishing Corporation 
+http://www.hindawi.com 
+
+Volume 2014 
+
+Hindawi Publishing Corporation 
+http://www.hindawi.com 
+Volume 2014 
+
+Stochastic 
+
+International Journal of 
+
+
+
+	
+

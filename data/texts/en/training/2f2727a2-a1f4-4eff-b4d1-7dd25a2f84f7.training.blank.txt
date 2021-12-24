@@ -1,0 +1,1038 @@
+
+	
+
+		
+
+	
+
+	
+
+Research Article 
+Design of a Compact and High Sensitivity Temperature 
+Sensor Using Metamaterial 
+
+Sabah Zemouli, 1 Abdelhafid Chaabi, 1 and Houcine Sofiane Talbi 2 
+
+1 Laboratoire Hyperfréquence et Semiconducteur Université Constantine 1, BP 325, Route Ain El Bey, 25017 Constantine, Algeria 
+
+2 
+
+Faculté de Médecine, Université de Batna, 05 avenue Chahid Boukhlouf, 05000 Batna, Algeria 
+
+Correspondence should be addressed to Sabah Zemouli; sabahzemouli@gmail.com 
+
+Received 9 October 2014; Revised 15 December 2014; Accepted 8 January 2015 
+
+Academic Editor: Yun-Gui Ma 
+
+Copyright © 2015 Sabah Zemouli et al. This is an open access article distributed under the Creative Commons Attribution License, 
+which permits unrestricted use, distribution, and reproduction in any medium, provided the original work is properly cited. 
+
+The present paper aims at sensing the temperature. A sensor metamaterial consisting of two concentric metallic rings and a thin 
+metallic wire deposited on the surface of BaTiO3 substrate is reported. The use of BaTiO3 makes the resonant frequency of the 
+structure shift as the temperature varies and makes the sensor applicable in many fields of applications. Numerical simulations and 
+theoretical results are presented and compared to each other; there was a good agreement between them. This sensor is smaller, 
+easier to fabricate, and very sensitive to the changes in temperatures. 
+
+1. Introduction 
+
+In this decade, metamaterials (MTM) or left handed materials 
+(LHM) have attracted much attention among researchers 
+in the microwave communities because of their unusual 
+properties, such as negative permittivity [1], negative perme-
+ability [2], and negative refractive index [3, 4]. These periodic 
+materials are very useful for many fields of applications [5-7]. 
+Recently, a great interest has been devoted to the application 
+of metamaterials in sensing; hereafter, we have provided some 
+researches in this concern. Ishimaru and his colleagues have 
+studied a metamaterial based on surface plasmon resonance 
+(SPR) sensors in GHz regime while the traditional SPR is 
+usually operated in optical domain only [8]. Kabashin et al. 
+in [9] have enhanced the SPR sensor's performances by using 
+metamaterial. In [10], the authors have proposed a method 
+of dielectric sensing using 𝜀 near zero narrow waveguide 
+channels. In [11], Ekmekci and his colleague have studied a 
+double sided square SRR (split ring resonator) topology for 
+multipurpose sensor operating in 𝑋 band; this sensor exhibits 
+a negative value of permeability for frequencies close to the 
+magnetic resonance frequency of the SRR structure, whereas 
+our suggested structure exhibits negative permittivity and 
+negative permeability close to the magnetic resonance fre-
+quency of the structure; in addition and according to [12] 
+circular SRR can present a higher quality factor compared to 
+
+square SRR. References [13, 14] have studied the application of 
+a Terahertz metamaterial for chemical sensing and [15] have 
+explained how metamaterials can offer solutions to overcome 
+technical limitations of wireless sensors. 
+Metamaterials are better in sensing than the conventional 
+resonators (e.g., spiral coils), because they are easy and rapid 
+in detection [16-18] and they can exhibit a strong localization 
+and enhancement of fields; that is, they can improve the 
+sensor's selectivity and sensibility [19] due to the application 
+of an axial time varying magnetic field parallel to the particle 
+plane in the orthogonal direction to the splits which creates 
+a huge electric field density localized between them and 
+presents higher signal and higher dips in their transmission 
+spectrum, which results in a high quality factor 𝑄 compared 
+to the conventional RF (radio frequency) resonators. This 
+enables us to make telemetric measurements and to observe 
+the operating frequency relatively easier [20]. Another 
+advantage of the gaps existence in the MTM structure is the 
+production of an additional capacitive effect which exhibits 
+a lower resonance frequency (hence avoid the background 
+absorption of the structure) and results in higher shift of the 
+operating frequency with the same applied load, leading to 
+higher sensitivity. The use of Barium titanate dielectric that 
+is very sensitive to the changes of temperature makes our 
+sensor more sensitive. 
+
+Hindawi Publishing Corporation 
+International Journal of Antennas and Propagation 
+Volume 2015, Article ID 301358, 7 pages 
+http://dx.doi.org/10.1155/2015/301358 
+
+
+2 
+
+International Journal of Antennas and Propagation 
+
+The aim of this paper is to design a high sensitive and 
+smaller electrical sensor of temperature based on metamate-
+rial operating in GHz regime. The proposed structure consists 
+of a combination of two concentric circular metallic rings 
+opened in the opposite sides commonly called SRR and a 
+thin metallic wire placed on a dielectric substrate. Because 
+the resonant frequency of the MTM structure is very sensitive 
+to the changes of the capacitive effects (since its fundamental 
+resonance behavior can be modeled by an 𝐿𝐶 circuit [21]) 
+which are basically dependent on the resonator's topology 
+and the substrate's parameters (i.e., substrate's thickness and 
+relative permittivity), we have proposed a structure with a 
+varying dielectric characteristics substrate. When the temper-
+ature changes, the dielectric properties of the substrate of the 
+MTM will change and this will affect the capacitance of the 
+SRR and then a shift in the resonant frequency will appear; 
+this will indicate the measured temperature. 
+In this work, we have designed the equivalent circuit 
+model of the proposed structure and we have derived the 
+relations of its coefficients of reflexion and transmission using 
+the ABCD Matrix approach; then we have compared them 
+to those resulting from the simulation. The results were very 
+close. In this study the metamaterial sensor is smaller, is easier 
+to fabricate, possesses higher sensitivity, and is useful in a 
+wide range of applications. The mechanism behind this is the 
+use of a varying dielectric characteristics substrate. 
+
+2. Design OF LHM 
+
+The MTM structure is composed of a combination of PEC 
+(perfect electric conductor) circular SRR and thin wire placed 
+on a dielectric substrate of 0.1 mm of thickness (𝑡 𝑑 ); the length 
+and width of this substrate are 2 mm and 2.5 mm, respectively. 
+The external radius of the SRR is 𝑟 0 = 0.75 mm, the width 
+of the two rings is 𝑑 = 0.18 mm, the spacing between them 
+is 0.24 mm, the split of the outer ring is 0.4 mm, the split of 
+the inner ring is equal to 0.2 mm, and the thickness of the 
+rings is 𝑡 𝑚 = 0.035 mm; the wire has a 0.2 mm of width and 
+1.8 mm of length. The substrate of this model is the Barium 
+titanate dielectric BaTiO3 [22, 23] which is one of the best 
+known and commonly used materials for electric ceramics 
+due to its excellent dielectric, ferroelectric, and piezoelectric 
+properties at and above room temperature. We have specially 
+chosen this material because its relative permittivity has a 
+big dependence with the temperature (see Figure 1) which 
+can be tailored in a wide range of applications. Furthermore, 
+this material is sintered at high temperatures. This allows an 
+operation at very elevated temperatures. Figure 2 shows the 
+proposed structure. 
+
+3. Simulation and Equivalent Circuit Model 
+
+The simulation of the MTM structure has been executed 
+using the High Frequency Structure Simulator (HFSS) soft-
+ware. A perfect magnetic conductor (PMC) boundary condi-
+tion was set along 𝑧-axis while the perfect electric conductor 
+(PEC) boundary condition was set along 𝑦-axis. On the last 
+two faces, we have set two ports rectangular waveguide for 
+sensor measurements. The LHM structure was placed at the 
+center of the waveguide. 
+
+20 
+40 
+60 
+80 
+100 
+120 
+140 
+160 
+
+180 
+
+200 
+
+220 
+
+240 
+
+260 
+
+280 
+
+Dielectric constants of BaTiO3 
+
+Temperature ( ∘ C) 
+
+Figure 1: Variation of the dielectric constant of BaTiO3 versus the 
+temperature [22]. 
+
+In Figure 3, we have studied the variation of the coef-
+ficient of the transmission S21 versus the variation of the 
+frequency using the commercial simulator HFSS to study the 
+shift in the resonant frequency according to the variation of 
+the temperature of the sensor. 
+The effective permittivity of the LHM structure is dif-
+ferent from the relative permittivity of the BaTiO3 substrate 
+(𝜀 BaTiO3 ̸ 
+= 𝜀 MTM structure ). We have calculated the effective 
+permittivity 𝜀 eff and the effective permeability 𝜇 eff of the MTM 
+structure using the Nicolson-Ross-Weir method [24]; the 
+results are shown in Figure 4. 
+We notice that the resonant frequency of the simulated 
+structure is 2.3 GHz with return loss of −20 dB. The relative 
+permittivity at this frequency is −12.19, whereas the relative 
+permeability is −12.65. 
+
+3.1. Study of the Effects of the Dielectric Substrate on the MTM 
+Structure. The resonant frequency of the MTM structure is 
+inversely related to the total capacitance 𝐶 𝑇 of the sensor 
+𝑓 = 1/2𝜋√𝐿 𝑇 𝐶 𝑇 [21]; it is known that the capacitance is 
+proportional to the dielectric constant 𝐶 = 𝜀(𝑙/𝑆), where 𝑆 
+is area of a dielectric material, 𝑙 is the thickness of a dielectric 
+material, and 𝜀 is dielectric material's permittivity. 
+When 𝜀 increases, the capacitance of the sensor 𝐶 𝑇 
+increases which will decrease the resonant frequency. The 
+shift in the resonant frequency resulting from the variation of 
+the permittivity will indicate the variation in the temperature 
+since the dielectric characteristics of the BaTiO3 substrate are 
+related to the temperature (see Figure 1). 
+When a time harmonic external magnetic field is applied 
+along 𝑧 axis of this structure, an electromotive force will 
+create an induced current in the structure that will explain 
+the inductive part of our system. 
+Because the LHM structure has a size much smaller than 
+the operating wavelength, we can describe its electromagnetic 
+characteristics by lumped circuit components capacitors and 
+inductors. The overall structure can be represented by an 𝐿𝐶 
+circuit and the equivalent circuit model proposed for our 
+
+
+International Journal of Antennas and Propagation 
+
+3 
+
+0 
+1.5 
+3 
+
+r 0 
+
+D1 
+D2 
+d 
+d 
+d 
+
+c 
+
+c 
+
+Y 
+
+Z 
+
+(mm) 
+
+s in 
+
+s out 
+
+(a) 
+
+Y 
+
+Z 
+
+X 
+
+0 
+0.5 
+1 
+(mm) 
+
+t m 
+t d 
+
+(b) 
+
+Figure 2: SRR 𝑟 0 = 0.75 mm, width 𝑑 = 0.18 mm, spacing between the two rings 𝑐 = 0.24 mm, thickness of the SRR 𝑡 𝑚 = 0.035 mm, and the 
+split of the outer ring 𝑠 out = 0.4 mm and of the inner ring 𝑠 in = 0.2 mm; the wire has 0.2 mm of width and 1.8 mm of length. 
+
+Curve info 
+
+Setup1: sweep1 
+
+0.0 
+1.00 
+2.00 
+3.00 
+4.00 
+5.00 
+
+XY plot 
+
+−7.50 
+
+−2.50 
+
+−12.50 
+
+−17.50 
+
+−22.50 
+
+Freq. (GHz) 
+
+(S(waveport2, waveport1)) (dB) 
+(S(waveport2, waveport1)) (dB) 
+
+Figure 3: Variation of the coefficient of transmission S21 versus 
+frequency at 40 ∘ C. 
+
+LHM structure is shown in Figure 6, where 𝐿 models the total 
+inductance of the two rings of the SRR, 𝐶 is the capacitance of 
+the split in the inner and outer ring and the capacitance of the 
+gap between them, 𝐶 𝑠 models the coupling between the SRR 
+and the line, and 𝐿 𝑠 models the inductance of the wire. After 
+
+calculation, we noticed 𝐿 ⋙ 𝑀, so the mutual inductance 
+can be neglected and the inductive currents will be neglected. 
+Figure 5 shows the distribution of the current around the 
+wire and the SRR and demonstrates the previous conclusion. 
+In Figure 7, we have plotted the calculated S21 parameter 
+versus the frequency using ABCD Matrix approach, which is 
+based on the following equations: 
+
+𝐴 = 
+𝑉 1 
+𝑉 2 
+󵄨 󵄨 󵄨 󵄨 󵄨 󵄨 󵄨 󵄨 𝐼2=0 
+, 
+𝐵= 
+𝑉 1 
+𝐼 2 
+󵄨 󵄨 󵄨 󵄨 󵄨 󵄨 󵄨 󵄨 𝑉2=0 
+, 
+
+𝐶 = 
+𝐼 1 
+𝑉 2 
+󵄨 󵄨 󵄨 󵄨 󵄨 󵄨 󵄨 󵄨 𝐼2=0 
+, 
+𝐷= 
+𝐼 1 
+𝐼 2 
+󵄨 󵄨 󵄨 󵄨 󵄨 󵄨 󵄨 󵄨 𝑉2=0 
+, 
+
+𝑍 11 = 
+𝐴 
+𝐶 
+, 
+𝑍 12 = 
+(𝐴𝐷 − 𝐵𝐶) 
+𝐶 
+, 
+
+𝑍 21 = 
+1 
+𝐶 
+, 
+𝑍 22 = 
+𝐷 
+𝐶 
+, 
+
+𝑆11 = 
+[(𝑍 11 − 𝑍 0 ) (𝑍 22 + 𝑍 0 ) − 𝑍 12 𝑍 21 ] 
+Δ𝑍 
+, 
+
+
+4 
+
+International Journal of Antennas and Propagation 
+
+0 
+
+0 
+
+50 
+
+100 
+
+150 
+
+200 
+
+250 
+
+300 
+
+350 
+
+400 
+
+0.5 
+1 
+1.5 
+2 
+2.5 
+3.5 
+3 
+4 
+4.5 
+5 
+×10 9 
+
+−100 
+
+−50 
+
+Freq. (Hz) 
+
+X: 2.302e + 009 
+
+Y: −12.19 
+
+𝜀 
+
+(a) 
+
+0 
+
+0 
+
+50 
+
+100 
+
+0.5 
+1 
+1.5 
+2 
+2.5 
+3 
+
+×10 9 
+
+−200 
+
+−100 
+
+−150 
+
+−50 
+
+Freq. (Hz) 
+
+X: 2.303e + 009 
+
+Y: −12.65 
+
+𝜇 
+
+(b) 
+
+Figure 4: The variation of the real (red) and imaginary part (blue) of the permittivity (𝜀) and the variation of the real (red) and imaginary 
+part (blue) of the permeability (𝜇) according to the frequency. 
+
+Y 
+
+0 
+1 
+2 
+
+(mm) 
+
+1.2559e + 003 
+
+1.1774e + 003 
+
+1.0989e + 003 
+
+1.0204e + 003 
+
+9.4194e + 002 
+
+8.6344e + 002 
+
+7.8495e + 002 
+
+7.0645e + 002 
+
+6.2796e + 002 
+
+5.4946e + 002 
+
+4.7097e + 002 
+
+3.9247e + 002 
+
+3.1398e + 002 
+
+2.3548e + 002 
+
+1.5699e + 002 
+
+7.8495e + 001 
+
+6.5965e − 004 
+
+J surf (A/m) 
+
+Z 
+
+Figure 5: The distribution of the current around the wire and the SRR. 
+
+L 
+
+C 
+
+L s 
+C s 
+
+Figure 6: Equivalent circuit model for the LHM structure. 
+
+
+International Journal of Antennas and Propagation 
+
+5 
+
+1 
+1.5 
+2 
+2.5 
+3.5 
+3 
+4 
+4.5 
+5 
+
+×10 9 
+Freq. (Hz) 
+
+Y: −52.02 
+
+X: 2.4e + 009 
+
+−60 
+
+−50 
+
+−40 
+
+−30 
+
+−20 
+
+−10 
+
+0 
+
+S21 (dB) 
+
+Figure 7: The variation of S21 versus frequency calculated using the 
+ABCD Matrix approach from the equivalent circuit model. 
+
+𝑆21 = 
+[(𝑍 11 + 𝑍 0 ) (𝑍 22 − 𝑍 0 ) − 𝑍 12 𝑍 21 ] 
+Δ𝑍 
+, 
+
+Δ𝑍 = (𝑍 11 + 𝑍 0 ) (𝑍 22 + 𝑍 0 ) − 𝑍 12 𝑍 21 . 
+
+(1) 
+
+The ABCD Matrix for this kind of a cascade connection of 
+two port networks is [ 1 𝑍 𝑇 
+0 1 ] with 𝑍 𝑇 = 𝑗𝜔𝐿 𝑠 + 1/𝑗𝜔𝐶 𝑠 + 
+(1 − 𝐿𝐶𝜔 2 )/𝑗𝐶𝜔; the parameters 𝐿, 𝐶, 𝐿 𝑠 , and 𝐶 𝑠 can be 
+approximated by the following relationships [25, 26]: 
+
+𝐿 = 8𝜇𝐷 [ln ( 
+𝐷 
+𝑑 
+) + 0.9 + 0.2 
+𝜔 2 
+𝐷 2 + 
+
+0.5𝑐 2 
+
+(𝜌𝐷) 
+
+2 
+
++ 
+0.4𝑠 (𝑐 + 𝑑) 
+𝐷 2 
+− 0.5 ln ( 
+𝑑 + 𝑡 𝑚 
+𝑑 
+)] 
+
++ 2𝜇𝐷 [ln ( 
+1 
+𝜌 
+) − 0.6 + 0.7𝜌 2 + (0.2 + 
+1 
+12𝜌 2 ) 
+
+𝑑 2 
+𝐷 2 ] , 
+
+𝐶 = [0.06 + 3.5 × 10 −5 × (𝑟 out + 𝑟 in )] + 𝜀𝜀 0 
+𝑑𝑡 𝑚 
+𝑠 
+, 
+
+𝐿 𝑠 = 
+𝜇𝑙 
+𝜋 
+[2 ln ( 
+2.067𝑙 
+𝜔 
+) + 0.36 
+𝜔 
+𝑙 
++ 0.25 
+𝜔 2 
+𝑙 2 ] , 
+
+𝐶 𝑠 = 𝜀𝜀 0 
+𝑑𝑡 𝑚 
+𝑐 
+, 
+
+𝜌 = 
+𝑑 + 𝑐 
+𝐷 
+, 𝐷 = 0.5 (𝐷1 + 𝐷2) . 
+
+(2) 
+
+The resonant frequency calculated is 2.4 GHz with return 
+loss of −52 dB. We note that the calculated and the simulated 
+results are very close. 
+Each time the temperature varies, it leads to a variation 
+in the dielectric characteristics of the substrate BaTiO3 of the 
+
+20 
+1.9 
+
+1.95 
+
+2 
+
+2.05 
+
+2.1 
+
+2.15 
+
+2.2 
+
+2.25 
+
+2.3 
+
+2.35 
+
+40 
+60 
+80 
+100 
+120 
+140 
+160 
+
+Temperature T ( ∘ C) 
+
+Freq. (GHz) 
+
+Figure 8: Variation of frequency versus the temperature. 
+
+LHM structure which affects its capacitance which depends 
+inversely on the frequency of resonance of the structure. 
+To obtain the effects of the temperature on the 𝑆 param-
+eters and hence on the resonant frequency of the MTM 
+structure, we have studied the variation of the dielectric 
+characteristics of the BaTiO3 that are corresponding to 
+well-known temperatures according to the variation of the 
+resonant frequency of the MTM structure. In the interval of 
+temperature from 20 ∘ to 150 ∘ , we have plotted the variation 
+of the resonance frequency in function of temperature (see 
+Figure 8). 
+The minimum and maximum temperatures that can 
+be detected by this sensor depend on the and 
+maximum temperatures that can be supported by the BaTiO3 
+substrate. 
+The BaTiO3 material is sintered at high temperatures, 
+which allows an operation at wide range temperatures [27]. 
+So, TMax has a high value and because this material has 
+no linear variation of the temperature in function of 𝜀, the 
+variation of the resonance frequency will not have a linear 
+variation in function of the temperature (when 𝜀 increases 
+the resonant frequency of the MTM structure decreases; this 
+is because the frequency is inversely proportional to the 
+capacitive effect which is proportional to epsilon), but we 
+can note that the curve is linear just in the intervals [20-40], 
+[40-60], [60-120], and [120-140]. 
+We have done this study in GHz regime, but the variations 
+of the frequency are in the order of MHz; that is why in Table 1 
+we have presented the sensibility of this sensor in MHz. 
+
+4. Conclusion 
+
+This paper presents a sensor of temperature using the meta-
+material. We have studied the variations of the resonant 
+frequency according to the permittivity of structure which 
+depend on the temperature. 
+We have proposed an equivalent circuit model of our 
+LHM structure and using the software MATLAB we have 
+
+
+6 
+
+International Journal of Antennas and Propagation 
+
+Table 1 
+
+The interval of temperature 
+Δ𝑓 [MHz] 
+
+The 
+sensibility 
+[MHZ] 
+[20 ∘ -40 ∘ ] 
+80 
+4 
+[40 ∘ -60 ∘ ] 
+30 
+1.5 
+[60 ∘ -80 ∘ ] 
+90 
+4.5 
+[80 ∘ -100 ∘ ] 
+100 
+5 
+[100 ∘ -120 ∘ ] 
+140 
+7 
+[120 ∘ -140 ∘ ] 
+70 
+3.5 
+
+calculated the coefficients of reflection and transmission; the 
+obtained curves are in accordance with those obtained by the 
+HFSS. 
+Using the two methods HFSS and Matrix ABCD, we 
+can notice that the variation in the temperature involves a 
+variation of the frequency of resonance and it is illustrated 
+in a curve. 
+Because the BaTiO3 has big dependence of the relative 
+permittivity with the temperature, this sensor can be tailored 
+in a wide range of applications. 
+Based on the promising results of this sensor, believe 
+that the use of the proposed sensor's topology will efficiently 
+be used in various sensing applications including pressure 
+and humidity and also in biological and chemical sensing for 
+any region of wavelengths. 
+
+Conflict of Interests 
+
+The authors declare that there is no conflict of interests 
+regarding the publication of this paper. 
+
+References 
+
+[1] J. B. Pendry, A. J. Holden, W. J. Stewart, and I. Youngs, 
+"Extremely low frequency plasmons in metallic mesostruc-
+tures, " Physical Review Letters, vol. 76, no. 25, pp. 4773-4776, 
+1996. 
+[2] J. B. Pendry, A. J. Holden, D. J. Robbins, and W. J. Stewart, "Mag-
+netism from conductors and enhanced nonlinear phenomena, " 
+IEEE Transactions on Microwave Theory and Techniques, vol. 47, 
+no. 11, pp. 2075-2084, 1999. 
+[3] D. R. Smith, W. J. Padilla, D. C. Vier, S. C. Nemat-Nasser, and 
+S. Schultz, "Composite medium with simultaneously negative 
+permeability and permittivity, " Physical Review Letters, vol. 84, 
+no. 18, pp. 4184-4187, 2000. 
+[4] R. A. Shelby, D. R. Smith, and S. Schultz, "Experimental 
+verification of a negative index of refraction, " Science, vol. 292, 
+no. 5514, pp. 77-79, 2001. 
+[5] X. Shen, T. J. Cui, J. Zhao, H. F. Ma, W. X. Jiang, and H. Li, 
+"Polarization-independent wide-angle triple-band metamate-
+rial absorber, " Optics Express, vol. 19, no. 10, pp. 9401-9407, 2011. 
+[6] D. J. Barasara, J. C. Prajapati, and A. M. Dethalia, "Multifre-
+quency fractal antenna, " International Journal of Scientific &amp; 
+Engineering Research, vol. 3, no. 7, 2012. 
+[7] S. Niranchanan and D. Budimir, "Novel folded SRR-loaded 
+waveguide bandpass filters, " in IEEE Antennas and Propagation 
+
+Society International Symposium, pp. 1-4, San Diego, Calif, USA, 
+2008. 
+[8] A. Ishimaru, S. Jaruwatanadilok, and Y. Kuga, "Generalized 
+surface plasmon resonance sensors using metamaterials and 
+negative index materials, " Progress in Electromagnetics Research, 
+vol. 51, pp. 139-152, 2005. 
+[9] A. V. Kabashin, P. Evans, S. Pastkovsky et al., "Plasmonic 
+nanorod metamaterials for biosensing, " Nature Materials, vol. 
+8, no. 11, pp. 867-871, 2009. 
+[10] A. Alù and N. Engheta, "Dielectric sensing in 𝜀-near-zero 
+narrow waveguide channels, " Physical Review B-Condensed 
+Matter and Materials Physics, vol. 78, no. 4, Article ID 045102, 
+2008. 
+[11] E. Ekmekci and G. Turhan-Sayan, "Multi-functional metamate-
+rial sensor based on a broad-side coupled SRR topology with a 
+multi-layer substrate, " Applied Physics A: Materials Science and 
+Processing, vol. 110, no. 1, pp. 189-197, 2013. 
+[12] L. La Spada, F. Bilotti, and L. Vegni, "Metamaterial-based 
+sensor design working in infrared frequency range, " Progress in 
+Electromagnetics Research B, vol. 34, pp. 205-223, 2011. 
+[13] C. Drexler, T. V. Shishkanova, C. Lange et al., "Terahertz split-
+ring metamaterials as transducers for chemical sensors based 
+on conducting polymers: a feasibility study with sensing of 
+acidic and basic gases using polyaniline chemosensitive layer, " 
+Microchimica Acta, vol. 181, no. 15-16, pp. 1857-1862, 2014. 
+[14] F. Miyamaru, K. Hattori, K. Shiraga et al., Highly Sensitive Ter-
+ahertz Sensing of Glycerol-Water Mixtures with Metamaterials, 
+Springer Science+Business Media New York, New York, NY, 
+USA, 2013. 
+[15] C. Mandel, B. Kubina, M. Schüßler, and R. Jakoby, "Metama-
+terial-inspired passive chipless radio-frequency identification 
+and wireless sensing, " Annals of Telecommunications, vol. 68, no. 
+7-8, pp. 385-399, 2013. 
+[16] A. C. Strikwerda, H. Tao, E. A. Kadlec et al., "Metamaterial 
+based terahertz detector, " in Proceedings of the 36th Interna-
+tional Conference on Infrared, Millimeter, and Terahertz Waves 
+(IRMMW-THz '11), pp. 1-2, Houston, Tex, USA, October 2011. 
+[17] M. Puentes, C. Weiß, M. Schüßler, and R. Jakoby, "Sensor array 
+based on split ring resonators for analysis of organic tissues, " 
+in Proceedings of the IEEE MTT-S International Microwave 
+Symposium Digest (MTT '11), pp. 1-4, IEEE, Baltimore, Md, 
+USA, June 2011. 
+[18] H.-J. Lee, J.-H. Lee, and H.-I. Jung, "A symmetric metamaterial 
+element-based RF biosensor for rapid and label-free detection, " 
+Applied Physics Letters, vol. 99, no. 16, Article ID 163703, 2011. 
+[19] T. Chen, S. Li, and H. Sun, "Metamaterials application in 
+sensing, " Sensors, vol. 12, no. 3, pp. 2742-2765, 2012. 
+[20] R. Melik, E. Unal, N. K. Perkgoz, C. Puttlitz, and H. V. Demir, 
+"Metamaterial-based wireless RF-MEMS strain sensors, " in 
+Proceedings of the 9th IEEE Sensors Conference (SENSORS '10), 
+pp. 2173-2176, November 2010. 
+[21] J. D. Baena, J. Bonache, F. Martín et al., "Equivalent-circuit 
+models for split-ring resonators and complementary split-
+ring resonators coupled to planar transmission lines, " IEEE 
+Transactions on Microwave Theory and Techniques, vol. 53, no. 
+4, pp. 1451-1460, 2005. 
+[22] J.-G. Hyun, S. Lee, S.-D. Cho, and K.-W. Paik, "Frequency and 
+temperature dependence of dielectric constant of epoxy/BaTiO 3 
+composite Embedded Capacitor Films (ECFs) for organic 
+substrate, " in Proceedings of the 55th Electronic Components and 
+Technology Conference (ECTC '05), pp. 1241-1247, IEEE, June 
+2005. 
+
+
+International Journal of Antennas and Propagation 
+
+7 
+
+[23] S. Liebus, Couches minces ferroélectriques appliquées aux dis-
+positifs microondes accordables en fréquence [Ph.D. thesis], 
+Université de Limoges, Limoges, France, 2003. 
+[24] R. W. Ziolkowski, "Design, fabrication, and testing of double 
+negative metamaterials, " IEEE Transactions on Antennas and 
+Propagation, vol. 51, no. 7, pp. 1516-1529, 2003. 
+[25] S. S. Mohan, "The design, modeling and optimization of on-chip 
+inductor and transformer circuits, " December 1999. 
+[26] M. F. Wu, F. Y. Meng, Q. Wu, J. Wu, and L. W. Li, "A 
+compact equivalent circuit model for the SRR structure in 
+metamaterials, " in Proceedings of the Asia-Pacific Conference 
+Proceedings; Microwave Conference Proceedings (APMC '05), 
+vol. 1, December 2005. 
+[27] F. Jona and G. Shirane, Ferroelectric Crystals, Dover, New York, 
+NY, USA, 1993. 
+
+
+International Journal of 
+
+Aerospace 
+Engineering 
+
+Hindawi Publishing Corporation 
+http://www.hindawi.com 
+Volume 2014 
+
+Robotics 
+
+Journal of 
+
+Hindawi Publishing Corporation 
+http://www.hindawi.com 
+Volume 2014 
+
+Hindawi Publishing Corporation 
+http://www.hindawi.com 
+Volume 2014 
+
+Active and Passive 
+Electronic Components 
+
+Control Science 
+and Engineering 
+
+Journal of 
+
+Hindawi Publishing Corporation 
+http://www.hindawi.com 
+Volume 2014 
+
+International Journal of 
+
+Rotating 
+Machinery 
+
+Hindawi Publishing Corporation 
+http://www.hindawi.com 
+Volume 2014 
+
+Hindawi Publishing Corporation 
+http://www.hindawi.com 
+
+Journal of 
+
+Engineering 
+
+Volume 2014 
+
+Submit your manuscripts at 
+http://www.hindawi.com 
+
+VLSI Design 
+
+Hindawi Publishing Corporation 
+http://www.hindawi.com 
+Volume 
+
+Hindawi Publishing Corporation 
+http://www.hindawi.com 
+Volume 2014 
+
+Shock and Vibration 
+
+Hindawi Publishing Corporation 
+http://www.hindawi.com 
+Volume 2014 
+
+Civil Engineering 
+
+Advances 
+
+Acoustics and Vibration 
+
+Advances in 
+
+Hindawi Publishing Corporation 
+http://www.hindawi.com 
+Volume 2014 
+
+Hindawi Publishing Corporation 
+http://www.hindawi.com 
+2014 
+
+Electrical and Computer 
+Engineering 
+
+Journal of 
+
+Advances in 
+OptoElectronics 
+
+Hindawi Publishing Corporation 
+http://www.hindawi.com 
+
+Volume 2014 
+
+The Scientific 
+World Journal 
+
+Hindawi Publishing Corporation 
+http://www.hindawi.com 
+Volume 2014 
+
+Sensors 
+
+Journal of 
+
+Hindawi Publishing Corporation 
+http://www.hindawi.com 
+Volume 2014 
+
+Modelling &amp; 
+Simulation 
+Engineering 
+
+Hindawi Publishing Corporation 
+http://www.hindawi.com 
+Volume 2014 
+
+Hindawi Publishing Corporation 
+http://www.hindawi.com 
+Volume 2014 
+
+Chemical Engineering 
+
+International Journal of 
+
+Antennas and 
+Propagation 
+
+International Journal of 
+
+Hindawi Publishing Corporation 
+http://www.hindawi.com 
+Volume 2014 
+
+Hindawi Publishing Corporation 
+http://www.hindawi.com 
+Volume 2014 
+
+Navigation and 
+Observation 
+
+International Journal of 
+
+Hindawi Publishing Corporation 
+http://www.hindawi.com 
+2014 
+
+Distributed 
+Sensor Networks 
+
+International Journal of 
+
+
+
+	
+
