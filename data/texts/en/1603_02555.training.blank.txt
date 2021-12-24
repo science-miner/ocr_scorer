@@ -1,0 +1,3133 @@
+
+	
+
+		
+
+	
+
+	
+
+JHEP09(2016)027 
+
+Published for SISSA by 
+Springer 
+
+Received: March 8, 2016 
+Revised: June 12, 2016 
+Accepted: August 24, 2016 
+Published: September 6, 2016 
+
+Search for s channel single top quark production in pp 
+collisions at 
+√ 
+s = 7 and 8 TeV 
+
+The CMS collaboration 
+
+E-mail: cms-publication-committee-chair@cern.ch 
+
+Abstract: A search is presented for single top quark production in the s channel in 
+proton-proton collisions with the CMS detector at the CERN LHC in decay modes of 
+the top quark containing a muon or an electron in the final state. The signal is extracted 
+through a maximum-likelihood fit to the distribution of a multivariate discriminant defined 
+using boosted decision trees to separate the expected signal contribution from background 
+processes. The analysis uses data collected at centre-of-mass energies of 7 and 8 TeV and 
+corresponding to integrated luminosities of 5.1 and 19.7 fb −1 , respectively. The measured 
+cross sections of 7.1 ± 8.1 pb (at 7 TeV) and 13.4 ± 7.3 pb (at 8 TeV) result in a best fit 
+value of 2.0 ± 0.9 for the combined ratio of the measured and expected values. The signal 
+significance is 2.5 standard deviations, and the upper limit on the rate relative to the 
+standard model expectation is 4.7 at 95% confidence level. 
+
+Keywords: Hadron-Hadron scattering (experiments), Top physics 
+
+ArXiv ePrint: 1603.02555 
+
+Open Access, Copyright CERN, 
+for the benefit of the CMS Collaboration. 
+Article funded by SCOAP 3 . 
+
+doi:10.1007/JHEP09(2016)027 
+
+
+JHEP09(2016)027 
+
+Contents 
+
+1 Introduction 
+1 
+
+2 The CMS detector 
+2 
+
+3 Simulated samples 
+3 
+
+4 Selection and reconstruction 
+4 
+
+5 Implementation of the multivariate analysis 
+6 
+
+6 Multijet background 
+7 
+
+7 Systematic uncertainties 
+10 
+
+8 Cross section extraction 
+11 
+
+9 Results 
+14 
+
+10 Summary 
+15 
+
+The CMS collaboration 
+21 
+
+1 Introduction 
+
+Top quarks at the CERN LHC are produced mainly in pairs through the strong interaction, 
+but can also be produced individually via a charged-current electroweak interaction. The 
+study of single top quark production thereby provides probes of the electroweak sector of 
+the standard model (SM), which predicts three production channels: the s channel, the t 
+channel, and the W-associated or tW production channel (figure 1). 
+The first observations of single top quark production were announced by the D0 and 
+CDF collaborations at the Fermilab Tevatron in 2009 [1, 2]. Evidence for s channel produc-
+tion was announced by the D0 collaboration in 2013 [3], while the process was definitively 
+observed when combining the searches from both the D0 and the CDF collaborations [4]. 
+Evidence for s channel production was confirmed by the ATLAS Collaboration at the 
+LHC [5], where the search is challenging because the process is suppressed in proton-proton 
+(pp) collisions. 
+For pp collisions at 
+√ 
+s = 7 and 8 TeV, the SM predicted s channel cross sections are 
+
+σ s (7 TeV) = 4.56 ± 0.07 (scale) ± 0.17 (PDF) pb, and 
+
+σ s (8 TeV) = 5.55 ± 0.08 (scale) ± 0.21 (PDF) pb, 
+
+-1 -
+
+
+JHEP09(2016)027 
+
+Figure 1. Leading-order Feynman diagram for single top quark production in (left) the s channel, 
+whose production rate is studied in this paper, (middle) the dominant next-to-leading-order diagram 
+in the t channel, and (right) the tW production channel. 
+
+as calculated in quantum chromodynamics (QCD) at approximate next-to-next-to-leading 
+order (NNLO), including resummation of soft-gluon emission within next-to-next-to-
+leading logarithms (NNLL) [6]. The first uncertainty corresponds to a doubling and halving 
+of the renormalization and factorization scales. The second uncertainty is from the choice 
+of parton distribution functions (PDFs) at the 90% confidence level (CL). 
+All three single top quark production channels, shown in figure 1, are directly related 
+to the Cabibbo-Kobayashi-Maskawa matrix element V tb , providing a direct measurement 
+of this SM parameter. The s channel production process is of special interest since a 
+possible deviation from the SM prediction of its cross section may indicate the presence 
+of mechanisms beyond the standard model (BSM), as predicted by models that involve 
+the exchange of a non-SM mediator, such as a W boson or a charged Higgs boson [7]. A 
+review of deviations from SM predictions for s and t channel modes in BSM scenarios can 
+be found in ref. [8]. 
+This paper presents a search performed at the CMS experiment for single top quark 
+production in the s channel considering the leptonic decay channels of the W boson pro-
+duced in top quark decay. Only the decays of the W boson into a muon or an electron 
+( = µ, e) and a corresponding neutrino are considered. Decays of the W boson into a 
+tau lepton and a neutrino, where the tau lepton subsequently decays into a muon or an 
+electron, are regarded as part of the signal. Events are selected considering the kinematic 
+properties of physical objects reconstructed in the final state. Three statistically indepen-
+dent analysis categories are therefore defined, according to the number and flavour of the 
+reconstructed jets. Dedicated strategies are used in data to estimate and reject multijet 
+backgrounds. The procedure for signal extraction consists of a simultaneous fit to the dis-
+tributions of multivariate discriminants trained separately in each analysis category on a 
+set of kinematic variables that show separation between signal and background. 
+This measurement is performed using LHC pp collision data collected by the CMS 
+detector corresponding to the integrated luminosities of 5.1 and 19.7 fb −1 at centre-of-
+mass energies of 7 and 8 TeV, respectively. While at 7 TeV only the muon channel is 
+considered, at 8 TeV both the muon and electron channels are included. 
+
+2 The CMS detector 
+
+The central feature of the CMS apparatus is a superconducting solenoid of 6 m internal 
+diameter providing an axial magnetic field of 3.8 T. The inner region accommodates the 
+
+-2 -
+
+
+JHEP09(2016)027 
+
+silicon pixel and strip tracker which records charged particle trajectories with high granular-
+ity and precision up to pseudorapidity |η| = 2.5. An electromagnetic calorimeter (ECAL) 
+made of lead tungstate crystals and a brass and scintillator sampling hadron calorimeter, 
+both arranged in a barrel assembly and two endcaps, surround the tracking volume and 
+extend up to the region |η| &lt; 3.0. Coverage up to |η| = 5.0 is provided by a quartz-fibre 
+and steel absorber Cherenkov calorimeter. Muons are measured in gas-ionization detectors 
+embedded in the steel flux-return yoke outside the solenoid. A more detailed description 
+of the CMS detector, together with a definition of the coordinate system and the relevant 
+kinematic variables, can be found in ref. [9]. 
+
+3 Simulated samples 
+
+The nominal s channel single top quark events in this study are generated using the next-
+to-leading order (NLO) powheg 1.0 [10] event generator. The CTEQ6.6M program [11] 
+is used to model the proton PDF. The top quark mass is set to 172.5 GeV, and tau lep-
+ton decays are modelled with TAUOLA [12]. For the 7 TeV analysis, a large sample of 
+signal events generated using the leading-order (LO) matrix-element CompHEP 4.4 [13] 
+generator is employed for the training of the multivariate discriminant. The generators 
+are interfaced to LO pythia 6.4 (Z2 tune) [14] for showering and hadronization. Monte 
+Carlo (MC) simulated events with a single top quark are normalized to the approximate 
+NNLO+NNLL cross section of 3.14 pb at 7 TeV and 3.79 pb at 8 TeV [6]. MC simulated 
+events with a top antiquark are normalized to the approximate NNLO+NNLL cross section 
+of 1.42 pb at 7 TeV and 1.76 pb at 8 TeV. The other single top quark processes, t channel, 
+and tW production, are considered as backgrounds for this measurement and are simulated 
+using the powheg 1.0 generator. 
+The main background in this analysis is top quark pair production (tt) in final states 
+with one or two charged leptons. Single vector bosons in association with jets, W+jets, 
+and Z+jets, are also included in the background. Both tt and single vector boson events 
+are generated using LO matrix element MadGraph 5.1 [15] interfaced to pythia 6.4. 
+The background from diboson (WW, ZZ, and WZ) events is small and is generated with 
+
+pythia 6.4. Multijet background events from QCD processes are extracted directly from 
+data or from a simulated sample generated with pythia 6.4 (see section 6). The cross 
+sections for the background processes in the analysis are summarized in table 1. 
+The cross sections are reported at approximate NNLO+NNLL accuracy for single 
+top quark [6] and tt production [16], at NNLO accuracy for Z/γ  *  +jets and W+n jets 
+(with n = 1, 2, 3, and 4) events [17], and at the LO level for the remaining contributions. 
+When stated, the cross section includes the branching ratio of the leptonic decay, including 
+electrons, muons, and tau leptons. The multijet sample is defined by the presence of at 
+least one generator-level muon with p T &gt; 15 GeV, and requiring the transverse momentum 
+generated in the hard scattering parton process to be greater than 20 GeV. 
+For all generated processes, the detector response is simulated using a detailed descrip-
+tion of the CMS detector, based on Geant4 [18]. A reweighting procedure is applied to 
+
+-3 -
+
+
+JHEP09(2016)027 
+
+Process 
+σ [pb] at 7 TeV σ [pb] at 8 TeV 
+
+Single top quark (t channel) 
+43.0 
+56.4 
+
+Single antitop quark (t channel) 
+22.9 
+30.7 
+
+Single top or antitop quark (tW) 
+7.8 
+11.1 
+
+tt 
+172.0 
+245.8 
+
+W(→ ν)+1 jet 
+4500 
+5400 
+
+W(→ ν)+2 jets 
+1400 
+1800 
+
+W(→ ν)+3 jets 
+300 
+520 
+
+W(→ ν)+4 jets 
+170 
+210 
+
+Z/γ  *  (→ + − )+jets 
+3000 
+3500 
+
+WW 
+43 
+57 
+
+WZ 
+18 
+32 
+
+ZZ 
+5.9 
+8.3 
+
+µ-enriched multijet events 
+85 000 
+-
+
+Table 1. Monte Carlo cross sections calculated for background processes. 
+
+simulated events to reproduce the distribution of the number of multiple pp interactions 
+per bunch crossing (pileup events) observed in data. 
+
+4 Selection and reconstruction 
+
+The final-state topology in the s channel is characterized by the presence of one isolated 
+muon or electron, a neutrino that results in an imbalance in the transverse momentum of 
+the event, and two b quarks, one originating from the top quark decay and one recoiling 
+against the top quark. 
+Events with at least one muon were selected by the online trigger [9], requiring p T &gt; 
+17 GeV at 7 TeV, p T &gt; 24 GeV at 8 TeV, |η| &lt; 2.1, and lepton isolation criteria. Similarly, 
+for electrons at 8 TeV, the corresponding values are p T &gt; 27 GeV and |η| &lt; 2.5. 
+Because of the increase in instantaneous luminosity during the second part of the 
+7 TeV run, the single muon trigger had to be prescaled and was replaced by a hadronic 
+trigger that required at least one muon as defined above and at least one jet in the central 
+region of the detector with p T &gt; 30 GeV, satisfying an online b tagging criterion. Simulated 
+leptonic trigger efficiencies are corrected to match those measured in data. Hadronic trigger 
+efficiencies are not simulated but are measured in data and parametrized as a function of 
+the jet p T in order to reweight the simulated events. 
+At least one primary vertex is required to be reconstructed from at least four tracks 
+and to satisfy |z PV | &lt; 24 cm and ρ PV &lt; 2 cm, where |z PV | and ρ PV are the respective 
+longitudinal and transverse distances of the primary vertex relative to the center of the 
+detector. When more than one interaction vertex is found, the one with largest sum in p 2 
+
+T 
+
+of associated tracks is defined as the primary vertex. 
+
+-4 -
+
+
+JHEP09(2016)027 
+
+The particle candidates are required to originate from the primary vertex, and are 
+reconstructed using the CMS particle-flow (PF) algorithm [19]. Reconstructed muons with 
+p T &gt; 20 GeV at 7 TeV and p T &gt; 26 GeV at 8 TeV within the trigger acceptance (|η| &lt; 2.1) 
+are selected for analysis. At 8 TeV, reconstructed electrons [20] with p T &gt; 30 GeV within 
+|η| &lt; 2.5 are selected, excluding the transition region between ECAL barrel and endcaps 
+(1.44 &lt; |η| &lt; 1.57) where the reconstruction of electrons is not optimal. 
+Lepton isolation is applied using the I rel variable, defined as the ratio between the sum 
+of the transverse energies (E T ) of stable charged hadrons, photons, and neutral hadrons in a 
+cone of size ∆R = 
+
+√ 
+(∆η) 2 + (∆φ) 2 around the lepton direction (where φ is the azimuth in 
+radians), and the p T of the lepton. At 7 TeV, the muon isolation requirement is I rel &lt; 0.15 
+with ∆R = 0.3. At 8 TeV, I rel is corrected by subtracting the average contribution from 
+neutral particles in pileup events. It is required I rel &lt; 0.12 with ∆R = 0.4 for muon 
+isolation, and I rel &lt; 0.1 with ∆R = 0.3 for electron isolation. 
+The presence of a single muon or electron satisfying the criteria described above is 
+required to reduce the contribution from dilepton events, which can arise from tt or from 
+qq → + − +jets Drell-Yan (DY) processes. Events containing additional muons or elec-
+trons, with looser requirements for muons of p T &gt; 10 GeV within the full acceptance of 
+|η| &lt; 2.5, and I rel &lt; 0.2, and for electrons with p T &gt; 20 GeV, |η| &lt; 2.5, and I rel &lt; 0.15 
+are rejected. 
+Jets are reconstructed using the anti-k T algorithm [21] with a distance parameter of 0.5, 
+using as input the particles identified through the PF algorithm. To reduce contamination 
+from pileup events, charged particle candidates not associated with the primary vertex are 
+excluded from the jet reconstruction. The energies of jets are corrected by the estimated 
+amount of energy deposited in the jet area [22] from pileup hadrons. Scale factors depending 
+on the E T and η of the jets [23] are further applied and reflect the detector response. The 
+analysis considers jets within |η| &lt; 4.5 and p T &gt; 40 GeV. We identify jets stemming from 
+b quarks through b tagging algorithms [24]. The threshold on the discriminant value is 
+set to provide a misidentification probability (mistag) for light-parton jets of about 0.1%. 
+The corresponding b tagging efficiency ranges from 40 to 60%, depending on jet p T and 
+η and on the specific algorithm. Simulated b tagging efficiencies are corrected to match 
+those measured in data [24, 25]. 
+The imbalance in transverse momentum (vector p / T ) is defined as the projection on 
+the plane perpendicular to the beams of the negative of the vector sum of the momenta of 
+all reconstructed particles in an event. Its magnitude is referred to as E T 
+/ . It is assumed 
+that the x and y components of the missing momentum, (p / T ) x and (p / T ) y , are entirely due 
+to the escaping neutrino. The longitudinal component p z,ν of the neutrino momentum is 
+estimated from a quadratic equation obtained by imposing that the invariant mass of the 
+lepton-neutrino system must be equal to the invariant mass of the W boson. In case of two 
+real solutions, the smallest p z,ν is chosen, while when two complex solutions are found the 
+imaginary part is eliminated by recalculating (p / T ) x and (p / T ) y independently, to provide a 
+W boson with a transverse mass of 80.4 GeV. The W boson transverse mass is defined as 
+
+m T = (p T, + p T,ν ) 2 − (p x, + p x,ν ) 2 − (p y, + p y,ν ) 2 , 
+
+-5 -
+
+
+JHEP09(2016)027 
+
+where p T, and p T,ν are the lepton and neutrino transverse momenta and p x, , p y, , p x,ν and 
+p y,ν are the components of the lepton and neutrino transverse momenta along the x and y 
+axes. Finally, four-momenta of top quark candidates are reconstructed from the lepton and 
+the jet originating from the b quark produced in top quark decay, using also the quantities 
+p / T and p z,ν . In events with more than 1 b jet, the one which results in a reconstructed top 
+mass closer to the nominal one is chosen. 
+The selected events are classified into statistically independent "N -jets M -tags" anal-
+ysis categories, where N refers to the number of reconstructed jets above 40 GeV and M 
+to the number of selected jets passing the b tagging requirement. Three event categories 
+are used for this analysis: the 2-jets 2-tags category is s channel enriched, and employed in 
+signal extraction, the 2-jets 1-tag category is useful to constrain the t channel and W+jets 
+backgrounds, while the 3-jets 2-tags category is useful to constrain the dominant tt back-
+ground. In each event category, further requirements are applied to reject the multijet 
+background, which in the 8 TeV analysis is separated from the other components by means 
+of a QCD BDT discriminator. The strategies to reject the multijet background and to 
+estimate its contribution will be described in section 6. 
+An additional selection is applied in the 8 TeV signal 2-jets 2-tags category that exploits 
+the property of s channel events to have a lower number of additional jets with 20 &lt; p T &lt; 
+40 GeV (loose jets) than tt events. Only events with no more than 1 loose jet are selected. 
+The requirement selects 60% of tt events and 90% of s channel events. 
+Because of the presence of two b-tagged jets in the final state, the 2-jets 2-tags and 
+the 3-jets 2-tags categories are reconstructed with a top quark candidate for each of the 
+two b jets. The candidate with invariant mass closest to the nominal top quark mass 
+of 172.5 GeV is then selected for further study in the analysis. Using this method, the 
+efficiency of association of the correct b jet to the top quark is measured to be 74% in s 
+channel events and 70% in tt events. The dependence of the correct b jet association on 
+top quark mass is evaluated in s channel events by changing the top quark mass by the 
+conservative estimation of its uncertainty of ±1.5 GeV, which yields changes in efficiency 
+of less than 1%. 
+
+5 Implementation of the multivariate analysis 
+
+Since the SM prediction for the signal yield is much smaller than the background processes, 
+it is important to enhance the separation between signal and background events to measure 
+the s channel with highest possible significance. A multivariate analysis was therefore 
+developed, in which boosted decision tree (BDT) discriminants [26] are defined for each 
+event category, based on a set of input discriminants. In this section the BDTs for signal 
+extraction are described, while in the next section the BDTs for the multijet background 
+rejection will be presented. 
+The BDT training and the choice of the input discriminants is performed separately 
+for the muon channels at 7 and 8 TeV and for the electron channel at 8 TeV, taking into 
+account the different selections and the different level of background, in particular for the 
+multijet background. The samples employed for training and evaluation of performance 
+
+-6 -
+
+
+JHEP09(2016)027 
+
+are taken from simulation, with the exception of the multijet background, which is taken 
+from a data control sample, as described in section 6. 
+Several discriminants are investigated for possible input to the BDTs, in particular 
+kinematic and angular variables exploiting the properties of s channel events [27]. For each 
+channel, the set of input variables are defined according to the following criteria. A variable 
+must be well modelled in simulation, and must significantly increase the discrimination 
+power of a BDT (after comparing performance of the BDTs trained without it). 
+The most important variables chosen as input to the BDTs in the 2-jets 2-tags category 
+are: m T , the angular separation between the two jets (∆R bb ), the invariant mass of the 
+system composed of the lepton and subleading jet (m b2 ), the transverse momentum of the 
+two-jet system (p bb 
+T ), and the difference in azimuthal angle between the top quark and the 
+leading jet (∆φ t,b1 ). The leading and subleading jets refer to the two jets with largest p T . 
+The other variables used as input to the BDTs are the invariant mass of the top quark 
+candidate in the event (m νb ), the scalar sum of the p T of all jets (H T ), the cosine of the 
+angle between lepton and the beam axis in the top quark rest frame (cos θ ), E T 
+/ , the lepton 
+p T , and the difference in azimuthal angle between the top quark and the next-to-leading b 
+jet (∆φ t,b2 ). 
+Figure 2 shows the comparison between data and MC events for the highest ranked 
+variables, where the simulation is normalized to the number of events selected in data. 
+The most important variables chosen as input to the BDTs in the 2-jets 1-tags category 
+are: the angular separation between the two jets (∆R bq ), the cosine of the angle between 
+the lepton and the jet recoiling against the top quark in the top quark rest frame (cos θ  *  ), 
+m νb , the invariant mass of the two-jet system (m bq ), and H T . The other variables are 
+the invariant mass of the system composed of the lepton and subleading jet (m ,j2 ), the 
+lepton pseudorapidity (η ), and the difference in azimuthal angle between the p / T and the 
+lepton (∆φ p / T , ). 
+The most important variables chosen as input to the BDTs in the 3-jets 2-tags category 
+are: p bb 
+T , m b2 , the cosine of the angle between the lepton and the non b-tagged jet in the 
+top quark rest frame (cos θ  *  
+q ), and m T . The other variables are m νb , H T , the transverse 
+momentum of the next-to-leading b jet (p b2 
+T ), and the transverse momentum of the non 
+b-tagged jet (p q 
+T ). 
+
+6 Multijet background 
+
+In the 7 TeV analysis, the W boson m T distribution is employed to discriminate against 
+the multijet background. Multijet events populate the lower part of the m T spectrum and 
+the requirement m T &gt; 50 GeV is applied to suppress their contribution to a negligible level 
+in the 2-jets 1-tag event category. The number of multijet events that pass the selection 
+is estimated from simulation. In the other categories, the level of multijet production is 
+already small compared to other backgrounds, and its contribution is estimated through a 
+maximum-likelihood fit to the m T distribution. 
+In the 8 TeV analysis, BDT discriminants, referred to as QCD BDTs, are used to reject 
+multijet events following the same procedure as in section 5. For each event category a 
+
+-7 -
+
+
+JHEP09(2016)027 
+
+(GeV) 
+
+T 
+
+m 
+
+
+50 
+100 
+150 
+200 
+250 
+
+Events / 12.5 GeV 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Data 
+s channel 
+t channel 
+tW 
+t 
+t 
+Z+jets 
+W+jets 
+Diboson 
+Multijet 
+Syst. unc. 
+Rate syst. 
+
+(7 TeV), 2-jets 2-tags 
+
+-1 
+
+Muon, 5.1 fb 
+
+CMS 
+
+bb 
+
+R 
+∆ 
+
+0 
+1 
+2 
+3 
+4 
+5 
+6 
+7 
+
+Events / 0.5 
+
+0 
+
+100 
+
+200 
+
+300 
+
+400 
+
+500 
+
+600 
+
+Data 
+s channel 
+t channel 
+tW 
+t 
+t 
+Z+jets 
+W+jets 
+Diboson 
+Multijet 
+Syst. unc. 
+Rate syst. 
+
+(7 TeV), 2-jets 2-tags 
+
+-1 
+
+Muon, 5.1 fb 
+
+CMS 
+
+(GeV) 
+
+lb2 
+
+m 
+
+
+50 
+100 150 200 250 300 350 
+
+Events / 22 GeV 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Data 
+s channel 
+t channel 
+tW 
+t 
+t 
+Z+jets 
+W+jets 
+Diboson 
+Multijet 
+Syst. unc. 
+Rate syst. 
+
+(8 TeV), 2-jets 2-tags 
+
+-1 
+
+Muon, 19.7 fb 
+
+CMS 
+
+(GeV) 
+
+T 
+
+m 
+
+0 
+50 
+100 
+150 
+200 
+250 
+
+Events / 12.5 GeV 
+
+0 
+
+200 
+
+400 
+
+600 
+
+800 
+
+1000 
+
+1200 
+Data 
+s channel 
+t channel 
+tW 
+t 
+t 
+Z+jets 
+W+jets 
+Diboson 
+Multijet 
+Syst. unc. 
+Rate syst. 
+
+(8 TeV), 2-jets 2-tags 
+
+-1 
+
+Muon, 19.7 fb 
+
+CMS 
+
+(GeV) 
+
+T 
+
+m 
+
+
+50 
+100 
+150 
+200 
+250 
+
+Events / 10 GeV 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Data 
+s channel 
+t channel 
+tW 
+t 
+t 
+Z+jets 
+W+jets 
+Diboson 
+Multijet 
+Syst. unc. 
+Rate syst. 
+
+(8 TeV), 2-jets 2-tags 
+
+-1 
+
+Electron, 19.7 fb 
+
+CMS 
+
+(GeV) 
+
+bb 
+T 
+
+p 
+
+0 50 100 150 200 250 300 350 400 450 500 
+
+Events / 16 GeV 
+
+0 
+
+200 
+
+400 
+
+600 
+
+800 
+
+1000 
+
+1200 
+
+1400 
+
+1600 
+
+1800 
+
+2000 
+Data 
+s channel 
+t channel 
+tW 
+t 
+t 
+Z+jets 
+W+jets 
+Diboson 
+Multijet 
+Syst. unc. 
+Rate syst. 
+
+(8 TeV), 2-jets 2-tags 
+
+-1 
+
+Electron, 19.7 fb 
+
+CMS 
+
+Figure 2. Comparison between data and simulation in distributions of highest-ranked variables in 
+the 2-jets 2-tags category: (upper left) m T and (upper right) ∆R bb for the muon channel at 7 TeV, 
+(middle left) m b2 and (middle right) m T for the muon channel at 8 TeV, and (bottom left) m T and 
+(bottom right) p bb 
+T for the electron channel at 8 TeV. The simulation is normalized to the data and 
+the multijet background is normalized through the maximum-likelihood fit discussed in section 6, 
+prior to rejecting the multijet background. The smaller error bands represent only the systematic 
+uncertainties on the background normalizations, while the larger ones include the total systematic 
+uncertainty obtained from the sum in quadrature of the individual contributions listed in section 7. 
+
+-8 -
+
+
+JHEP09(2016)027 
+
+Lepton Event category 
+Acceptance (%) 
+Multijet s channel 
+
+µ 
+
+2-jets 1-tag 
+38 
+75 
+2-jets 2-tags 
+50 
+92 
+3-jets 2-tags 
+30 
+74 
+
+e 
+
+2-jets 1-tag 
+29 
+58 
+2-jets 2-tags 
+60 
+92 
+3-jets 2-tags 
+40 
+68 
+
+Table 2. QCD BDT selection acceptance for multijet and s channel events at 8 TeV. 
+
+QCD BDT is trained using multijet events as signal against non-multijet processes, and 
+the distribution of the QCD BDT discriminant in data is employed to define a multijet-
+enriched interval. Events with the discriminant value in this interval are rejected from 
+the analysis. The number of rejected multijet events is estimated through a maximum-
+likelihood fit to the QCD BDT distribution in the multijet-enriched interval in data. This 
+number, multiplied by a scale factor obtained from the selection acceptance, provides the 
+yield of remaining multijet events for each category. 
+The most important variables chosen as input to the QCD BDTs in the 2-jets 2-tags 
+category are: lepton p T , lepton η, m νb , m T , cos θ  *  , and the transverse momentum of the 
+leading b jet (p b 
+T ). The distributions for the multijet background are extracted from a 
+data sample enriched with such events. In the muon channel, the sample is defined by 
+an anti-isolation requirement on the muon (0.2 &lt; I rel &lt; 0.5 at 7 TeV and I rel &gt; 0.2 at 
+8 TeV). In the electron channel, it is defined by requiring the failure either of the isolation 
+criteria or the tight identification criteria on the electron. Since the number of events in 
+the multijet-enriched data sample at 7 TeV is lower than at 8 TeV due to smaller integrated 
+luminosity, no QCD BDT is defined in the 7 TeV analysis. 
+Table 2 presents the s channel and multijet event acceptances of the QCD BDT se-
+lection. Different acceptances are observed in the different event categories since the QCD 
+BDT selection is optimized to minimize the loss of signal events. 
+Figure 3 shows a comparison of the distributions in QCD BDT discriminants in data 
+and simulation in the 2-jets 2-tags category for muon and electron channels at 8 TeV, where 
+the simulation is normalized to events in data. 
+Both in 7 and 8 TeV analyses (except for 2-jets 1-tag category at 7 TeV) a maximum-
+likelihood fit is performed to determine the yield in multijet events. We define the 
+parametrized function F (x) = a V (x) + b M (x), where x represents the discriminant vari-
+able and V (x) and M (x) are the respective distributions (templates) in the sum of all 
+processes including a W or Z boson in the final state, or multijet events. The V (x) distri-
+bution is taken from simulation, while M (x) is the template based on the multijet-enriched 
+data sample. 
+The total uncertainty on the multijet background is obtained by considering the statis-
+tical uncertainty from the fit and possible systematic contributions, which are evaluated by 
+repeating the fit after changing the sum of non-multijet components by 20% and employing 
+
+-9 -
+
+
+JHEP09(2016)027 
+
+QCD BDT Discriminant 
+-0.8 -0.7 -0.6 -0.5 -0.4 -0.3 -0.2 -0.1 
+
+Events / 0.035 
+
+0 
+
+200 
+
+400 
+
+600 
+
+800 
+
+1000 
+
+1200 
+
+1400 
+
+1600 
+
+1800 
+
+2000 
+Data 
+s channel 
+t channel 
+tW 
+t 
+t 
+Z+jets 
+W+jets 
+Diboson 
+Multijet 
+Syst. unc. 
+Rate syst. 
+
+(8 TeV), 2-jets 2-tags 
+
+-1 
+
+Muon, 19.7 fb 
+
+CMS 
+
+QCD BDT Discriminant 
+-0.6 
+-0.4 
+-0.2 
+0 
+0.2 
+0.4 
+0.6 
+
+Events / 0.07 
+
+0 
+
+200 
+
+400 
+
+600 
+
+800 
+
+1000 
+
+1200 
+
+1400 
+
+1600 
+
+1800 
+
+2000 
+Data 
+s channel 
+t channel 
+tW 
+t 
+t 
+Z+jets 
+W+jets 
+Diboson 
+Multijet 
+Syst. unc. 
+Rate syst. 
+
+(8 TeV), 2-jets 2-tags 
+
+-1 
+
+Electron, 19.7 fb 
+
+CMS 
+
+Figure 3. Comparison of data with simulation for distributions in the QCD BDT discriminant in 
+the 2-jets 2-tags event category, in (left) the muon and (right) electron channel at 8 TeV. The simu-
+lation is normalized to the data. While the smaller error bands include the systematic uncertainties 
+on the background normalizations only, the larger ones include the total systematic uncertainty 
+obtained summing in quadrature the individual contributions discussed in section 7. 
+
+a multijet template model taken from an independent sample in data, where neither of the 
+two jets pass the b tagging requirement. 
+
+7 Systematic uncertainties 
+
+Several sources of systematic uncertainties have been investigated and determined as fol-
+lows. Uncertainties on the normalization are summarized in table 3. Uncertainties on 
+tt and W+jets are based on the CMS measurements [28] and [29], respectively. We refer 
+to a 7 TeV measurement of relative uncertainty in W+jets, since it represents the most 
+recent result within CMS of the W boson production cross section in association with two 
+b jets. Uncertainties on Z+jets and dibosons come from refs. [30] and [31], respectively, 
+while the uncertainties on single top quark tW production and t channel are taken from 
+refs. [6, 32, 33]. Uncertainties on the multijet background normalization reported in the 
+table come from the extraction procedure described in section 6. 
+The uncertainties on jet energy scale (JES) and jet energy resolution (JER) are taken 
+into account in line with ref. [34]. The "unclustered energy" in the event, which is computed 
+by subtracting from the p / T the negative vector sum of the uncorrected transverse momenta 
+of jets and leptons not clustered in jets, is changed by 10%. For each of these changes the 
+E T 
+/ is recalculated accordingly. The uncertainties in lepton-reconstruction and trigger-
+efficiency scale factors are measured using DY events. The parametrizations describing 
+the hadronic trigger efficiencies are varied and new weights are applied to simulated events 
+in order to estimate the hadronic trigger uncertainty. The scale factors used to correct 
+simulation to reproduce the b tagging efficiency and the mistag fraction measured in data 
+are changed by their measured uncertainties [25]. 
+The uncertainty in the total number of interactions per bunch crossing (5%) is prop-
+agated to the modelling of pileup in the simulated samples. The integrated luminosity is 
+known to an uncertainty of 2.2% for the 7 TeV data [35] and 2.6% for the 8 TeV data [36]. 
+
+-10 -
+
+
+JHEP09(2016)027 
+
+Process 
+Uncertainty (%) 
+tt 
+10 
+W+jets 
+20 
+Z+jets 
+20 
+Diboson 
+30 
+tW 
+15 
+t channel 
+10 
+Multijet, µ, 7 TeV 
+30, 100, 100 
+Multijet, µ, 8 TeV 
+30, 10, 30 
+Multijet, e, 8 TeV 
+20, 5, 25 
+
+Table 3. Summary of normalization uncertainties on the background processes. The uncertainties 
+on the multijet background refer to the 2-jets 2-tags, 2-jets 1-tag, and 3-jets 2-tags categories, 
+respectively. 
+
+The uncertainty from the choice of factorization and renormalization scales µ F and 
+µ R in the QCD calculation is based on dedicated simulated samples of tt, single top quark 
+production in s channel and t channel, and W+jets events, with µ F and µ R varied from half 
+to twice their nominal values. The uncertainty from matching matrix element and parton 
+shower thresholds is determined from simulated samples of tt and W+jets with parton 
+matching threshold doubled and halved relative to their nominal values. The uncertainty 
+on the chosen set of PDF is estimated by reweighting the simulated events with each of 
+the 52 eigenvectors of the CT10 PDF parametrization [37]. 
+Differential measurements have shown that the p T spectrum of the top quarks in tt 
+events is significantly softer than the one generated using MC simulation programs [38]. 
+Scale factors for event reweighting are derived from these measurements. The s channel 
+cross section is remeasured based on samples without any reweighting and samples that 
+have been reweighted with doubled weights, as an indication of the corresponding uncer-
+tainty. The effect of the limited number of events in the simulated samples has been taken 
+into account using the "Barlow-Beeston light" method [39]. 
+
+8 Cross section extraction 
+
+A binned maximum-likelihood fit is performed to the BDT data distributions in the 2-jets 
+2-tags, 2-jets 1-tag, and 3-jets 2-tags categories simultaneously. In particular, the inclusion 
+in the fit of the 2-jets 1-tag and 3-jets 2-tags regions largely constrains the W+jets and 
+the tt backgrounds respectively while taking into account all possible correlations in the 
+systematic uncertainties for the three samples. The expected total yield λ i in each bin i of 
+the BDT distribution is given by the sum of all the background contributions B p,i and the 
+signal yields S i scaled by the signal-strength modifier β signal , which is defined as the ratio 
+between the measured signal cross section and the SM prediction, as 
+
+λ i (β signal , θ u ) = β signal S i + 
+
+p 
+
+c p (θ u )B p,i . 
+
+-11 -
+
+
+JHEP09(2016)027 
+
+The modelling of BDT distributions for the s channel and for each background process p, 
+S, and B p , are scaled to the integrated luminosity of the data according to the SM cross 
+sections. The uncertainty in each background normalization, except for multijet events, is 
+included in the likelihood model through a "nuisance" parameter with a log-normal prior 
+(c p (θ u )). The multijet component is instead fixed to the value estimated with the method 
+described in section 6. 
+The measured s channel cross section is given by the value of β signal at which the 
+logarithm of the likelihood function reaches its maximum. The 68% CL interval for the 
+cross section is evaluated by profiling the logarithm of the likelihood as a function of 
+β signal , and taking the parameter values for which the profile likelihood is 0.5 units below 
+its maximum. 
+The impact from the systematic uncertainty in the background normalizations on 
+the s channel cross section is evaluated by removing one nuisance at a time from the 
+likelihood model and measuring the corresponding change in the total uncertainty. The 
+impact of the uncertainties that are not included in the fit are evaluated using the following 
+procedure. For each systematic effect two pseudo-experiments are generated by changing 
+the corresponding quantity by +1 and −1 standard deviation. Maximum-likelihood fits are 
+then performed for each of the pseudo-experiments, and the differences between the fitted 
+β signal and the nominal one are taken as the corresponding uncertainties. 
+The uncertainties arising from different systematic sources are combined according to 
+ref. [40]. A breakdown of contributions to the overall uncertainty in the measurement is 
+reported in table 4. 
+Figures 4, 5, and 6 show the comparison of the BDT discriminant distributions for all 
+the event categories in the muon channel at 7 TeV and muon and electron channels at 8 TeV, 
+after the fit to the combined channels. Tables 5, 6 and 7 summarize the number of events 
+selected according to the requirements described in section 4, including the requirement 
+m T &gt; 50 GeV at 7 TeV in the 2-jets 1-tag category, and after the fit to the combined 
+channels. The SM expectation for the s channel in the 2-jets 2-tags category is 64 events 
+selected in the muon channel at 7 TeV, 223 in the muon channel at 8 TeV, and 171 in the 
+electron channel at 8 TeV. 
+The sensitivity to the s channel single top quark signal is estimated using the derivative 
+of the likelihood test statistic, defined as 
+
+q 0 = 
+∂logL 
+∂β signal β signal =0 
+, 
+
+and evaluated at the maximum-likelihood estimate in the background-only hypothesis. 
+Pseudo-data are generated to construct the distribution of the test statistic for the 
+background-only and the signal + background hypotheses. All the nuisance parameters 
+are allowed to vary according to their prior distributions in the pseudo-experiments, while 
+in the evaluation of q 0 , the likelihood is maximized only with respect to the background 
+normalizations nuisance parameters. 
+
+-12 -
+
+
+JHEP09(2016)027 
+
+Source 
+Uncertainty (%) 
+µ, 7 TeV µ, 8 TeV e, 8 TeV µ + e, 8 TeV 7+8 TeV 
+Statistical 
+34 
+15 
+14 
+10 
+11 
+
+tt, single top quark normalization 
+29 
+15 
+14 
+12 
+14 
+W/Z+jets, diboson normalization 
+23 
+11 
+13 
+12 
+12 
+Multijet normalization 
+9 
+3 
+5 
+2 
+2 
+
+Lepton efficiency 
+14 
+1 
+2 
+1 
+3 
+Hadronic trigger 
+5 
+-
+-
+-
+1 
+Luminosity 
+10 
+5 
+6 
+4 
+6 
+JER &amp; JES 
+66 
+39 
+29 
+34 
+18 
+b tagging &amp; mistag 
+34 
+15 
+14 
+14 
+16 
+Pileup 
+6 
+11 
+7 
+9 
+7 
+Unclustered E T 
+/ 
+5 
+8 
+2 
+6 
+5 
+µ R , µ F scales 
+54 
+34 
+31 
+30 
+28 
+Matching thresholds 
+43 
+11 
+12 
+7 
+17 
+PDF 
+12 
+8 
+7 
+7 
+9 
+Top quark p T reweighting 
+3 
+5 
+7 
+6 
+6 
+
+Total uncertainty 
+115 
+64 
+54 
+55 
+47 
+
+Table 4. Summary of the relative impact of the statistical and systematic uncertainties on the 
+cross section measurement. Different prior uncertainties have been assigned to tt, single top quark 
+t channel and tW production, W+jets, Z+jets and diboson normalizations, see section 7. 
+
+Process 
+µ, 7 TeV 
+µ, 8 TeV 
+e, 8 TeV 
+tt 
+1380 ± 80 
+4960 ± 340 4290 ± 300 
+W+jets 
+150 ± 30 
+580 ± 110 
+620 ± 110 
+Z+jets 
+22 ± 7 
+160 ± 40 
+90 ± 30 
+Diboson 
+3 ± 3 
+59 ± 16 
+46 ± 13 
+Multijet 
+70 ± 20 
+130 ± 40 
+290 ± 60 
+tW 
+37 ± 6 
+149 ± 19 
+130 ± 16 
+t channel 
+135 ± 16 
+570 ± 50 
+420 ± 40 
+
+s channel 
+129 ± 5 
+452 ± 16 
+347 ± 12 
+
+Total MC 1920 ± 110 7060 ± 370 6240 ± 320 
+
+Data 
+1883 
+7023 
+6301 
+
+Table 5. Event yields for the main processes in the 2-jets 2-tags region, at 7 and 8 TeV. The yields 
+of the simulated samples are quoted after the likelihood-maximization procedure for the combined 
+7+8 TeV fit. The uncertainties include the statistical uncertainty on the simulation, the background 
+normalizations uncertainties and the b tagging uncertainty. 
+
+-13 -
+
+
+JHEP09(2016)027 
+
+Process 
+µ, 7 TeV 
+µ, 8 TeV 
+e, 8 TeV 
+tt 
+6390 ± 310 
+38900 ± 1800 33200 ± 910 
+W+jets 
+4850 ± 310 
+32900 ± 1500 20090 ± 940 
+Z+jets 
+240 ± 50 
+2640 ± 580 
+1820 ± 390 
+Diboson 
+26 ± 10 
+650 ± 140 
+330 ± 70 
+Multijet 
+78 ± 78 
+4640 ± 460 
+6080 ± 300 
+tW 
+750 ± 60 
+5380 ± 460 
+3820 ± 330 
+t channel 2260 ± 140 
+12730 ± 760 
+7680 ± 460 
+
+s channel 
+281 ± 5 
+1412 ± 9 
+870 ± 5 
+
+Total MC 14870 ± 480 
+99240 ± 2600 73900 ± 1500 
+
+Data 
+14851 
+99240 
+73895 
+
+Table 6. Event yields for the main processes in the 2-jets 1-tag region, at 7 and 8 TeV. The yields 
+of the simulated samples are quoted after the likelihood-maximization procedure for the combined 
+7+8 TeV fit. The uncertainties include the statistical uncertainty on the simulation, the background 
+normalizations uncertainties and the b tagging uncertainty. 
+
+Process 
+µ, 7 TeV 
+µ, 8 TeV 
+e, 8 TeV 
+tt 
+3260 ± 220 15200 ± 900 12520 ± 720 
+W+jets 
+94 ± 20 
+280 ± 60 
+230 ± 50 
+Z+jets 
+13 ± 5 
+90 ± 30 
+34 ± 14 
+Diboson 
+0 ± 0 
+24 ± 6 
+17 ± 4 
+Multijet 
+40 ± 40 
+80 ± 20 
+310 ± 90 
+tW 
+78 ± 13 
+370 ± 60 
+320 ± 50 
+t channel 
+210 ± 30 
+790 ± 90 
+580 ± 70 
+
+s channel 
+38 ± 2 
+126 ± 5 
+94 ± 4 
+
+Total MC 3730 ± 230 16940 ± 910 14120 ± 730 
+
+Data 
+3848 
+16934 
+13512 
+
+Table 7. Event yields for the main processes in the 3-jets 2-tags region, at 7 and 8 TeV. The yields 
+of the simulated samples are quoted after the likelihood-maximization procedure for the combined 
+7+8 TeV fit. The uncertainties include the statistical uncertainty on the simulation, the background 
+normalizations uncertainties and the b tagging uncertainty. 
+
+9 Results 
+
+The single top quark production cross section in the s channel has been measured to be: 
+
+σ s = 7.1 ± 8.1 (stat + syst) pb, muon channel, 7 TeV; 
+
+σ s = 11.7 ± 7.5 (stat + syst) pb, muon channel, 8 TeV; 
+
+σ s = 16.8 ± 9.1 (stat + syst) pb, electron channel, 8 TeV; 
+
+σ s = 13.4 ± 7.3 (stat + syst) pb, combined, 8 TeV. 
+
+-14 -
+
+
+JHEP09(2016)027 
+
+BDT Discriminant 
+
+-0.8 -0.7 -0.6 -0.5 -0.4 -0.3 -0.2 -0.1 0 0.1 0.2 
+
+Events / 0.1 
+
+0 
+
+100 
+
+200 
+
+300 
+
+400 
+
+500 
+
+Data 
+s channel 
+t channel 
+tW 
+t 
+t 
+Z+jets 
+W+jets 
+Diboson 
+Multijet 
+Syst. unc. 
+Rate syst. 
+
+(7 TeV), 2-jets 2-tags 
+
+-1 
+
+Muon, 5.1 fb 
+
+CMS 
+
+BDT Discriminant 
+
+-0.5 
+-0.4 
+-0.3 
+-0.2 
+-0.1 
+0 
+
+Events / 0.04 
+
+0 
+
+500 
+
+1000 
+
+1500 
+
+2000 
+
+2500 
+
+3000 
+
+3500 
+
+4000 
+Data 
+s channel 
+t channel 
+tW 
+t 
+t 
+Z+jets 
+W+jets 
+Diboson 
+Multijet 
+Syst. unc. 
+Rate syst. 
+
+(7 TeV), 2-jets 1-tag 
+
+-1 
+
+Muon, 5.1 fb 
+
+CMS 
+
+BDT Discriminant 
+
+0.1 0.15 0.2 0.25 0.3 0.35 0.4 0.45 0.5 0.55 0.6 
+
+Events / 0.03 
+
+0 
+
+200 
+
+400 
+
+600 
+
+800 
+
+1000 
+Data 
+s channel 
+t channel 
+tW 
+t 
+t 
+Z+jets 
+W+jets 
+Diboson 
+Multijet 
+Syst. unc. 
+Rate syst. 
+
+(7 TeV), 3-jets 2-tags 
+
+-1 
+
+Muon, 5.1 fb 
+
+CMS 
+
+Figure 4. Comparison of data with simulation for distributions of the BDT discriminants in the 
+(upper left) 2-jets 2-tags, (upper right) 2-jets 1-tag, and (bottom) 3-jets 2-tags event category, for 
+the muon channel at 7 TeV. The simulation is normalized to the combined (7+8 TeV) fit results. 
+The inner uncertainty bands include the post-fit background normalizations uncertainties only, the 
+outer ones include the total systematic uncertainty obtained summing in quadrature the individual 
+contributions. 
+
+The observed (expected) significance of the measurement is 0.9 (0.5) standard deviations 
+at 7 TeV and 2.3 (0.8) for the combined muon and electron fit at 8 TeV. The 68% CL 
+interval for the expected significance is 0.0-1.5 at 7 TeV and 0.0-1.8 at 8 TeV. 
+The combined fit to the 7 and 8 TeV data determines the signal cross section relative 
+to the SM predictions with a best fit value of β signal = 2.0 ± 0.9. The observed significance 
+of the measurement is 2.5 standard deviations with 1.1 standard deviations expected. 
+The observed upper limit on the s channel cross section at 95% CL is 31.4 pb at 7 TeV 
+and 28.8 pb for the combined muon and electron channel at 8 TeV. Combining the 7 and 
+8 TeV data, the observed upper limit on the signal strength is 4.7. In table 8, we report a 
+summary of the observed and expected upper limits at 7 and 8 TeV and for the combination 
+of the channels. 
+
+10 Summary 
+
+A search is presented for single top quark production in the s channel in pp collisions at 
+centre-of-mass energies of 7 and 8 TeV with the CMS detector at the LHC. A multivari-
+ate approach based on boosted decision trees is adopted to discriminate the signal from 
+
+-15 -
+
+
+JHEP09(2016)027 
+
+BDT Discriminant 
+
+-0.35 -0.3 -0.25 -0.2 -0.15 -0.1 -0.05 0 0.05 
+
+Events / 0.035 
+
+0 
+
+200 
+
+400 
+
+600 
+
+800 
+
+1000 
+
+1200 
+
+1400 
+
+1600 
+
+1800 
+
+2000 
+Data 
+s channel 
+t channel 
+tW 
+t 
+t 
+Z+jets 
+W+jets 
+Diboson 
+Multijet 
+Syst. unc. 
+Rate syst. 
+
+(8 TeV), 2-jets 2-tags 
+
+-1 
+
+Muon, 19.7 fb 
+
+CMS 
+
+BDT Discriminant 
+
+-0.6 -0.55 -0.5 -0.45 -0.4 -0.35 -0.3 -0.25 -0.2 -0.15 
+
+Events / 0.032 
+
+0 
+
+5000 
+
+10000 
+
+15000 
+
+20000 
+
+25000 
+
+30000 
+Data 
+s channel 
+t channel 
+tW 
+t 
+t 
+Z+jets 
+W+jets 
+Diboson 
+Multijet 
+Syst. unc. 
+Rate syst. 
+
+(8 TeV), 2-jets 1-tag 
+
+-1 
+
+Muon, 19.7 fb 
+
+CMS 
+
+BDT Discriminant 
+
+0 0.05 0.1 0.15 0.2 0.25 0.3 0.35 0.4 
+
+Events / 0.025 
+
+0 
+
+500 
+
+1000 
+
+1500 
+
+2000 
+
+2500 
+
+3000 
+Data 
+s channel 
+t channel 
+tW 
+t 
+t 
+Z+jets 
+W+jets 
+Diboson 
+Multijet 
+Syst. unc. 
+Rate syst. 
+
+(8 TeV), 3-jets 2-tags 
+
+-1 
+
+Muon, 19.7 fb 
+
+CMS 
+
+Figure 5. Comparison of data with simulation for the distributions of the BDT discriminants in 
+the (upper left) 2-jets 2-tags, (upper right) 2-jets 1-tag, and (bottom) 3-jets 2-tags event category, 
+for the muon channel at 8 TeV. The simulation is normalized to the combined (7+8 TeV) fit results. 
+The inner uncertainty bands include the post-fit background normalizations uncertainties only, the 
+outer ones include the total systematic uncertainty, obtained summing in quadrature the individual 
+contributions. 
+
+Channel 
+Observed UL Expected UL-SM signal Expected UL-no signal 
+µ, 7 TeV 
+31.4 pb 
+25.4 [19.0, 36.6] pb 
+20.2 pb 
+µ + e, 8 TeV 
+28.8 pb 
+20.5 [13.4, 26.7] pb 
+15.6 pb 
+7+8 TeV 
+4.7 
+3.1 [2.1, 4.0] 
+2.2 
+
+Table 8. Observed and expected upper limits (UL) at 7 and 8 TeV and for the combination of the 
+data. Both the expected limits assuming the presence of a SM signal or in the absence of a signal 
+are reported. In the hypothesis of a SM signal, the 68% CL interval for the expected limit is also 
+reported within square brackets. In the last row the upper limits are given in terms of the rate 
+relative to the SM expectation. 
+
+-16 -
+
+
+JHEP09(2016)027 
+
+BDT Discriminant 
+
+-0.8 
+-0.6 
+-0.4 
+-0.2 
+0 
+0.2 
+0.4 
+
+Events / 0.1 
+
+0 
+
+200 
+
+400 
+
+600 
+
+800 
+
+1000 
+
+1200 
+
+1400 
+Data 
+s channel 
+t channel 
+tW 
+t 
+t 
+Z+jets 
+W+jets 
+Diboson 
+Multijet 
+Syst. unc. 
+Rate syst. 
+
+(8 TeV), 2-jets 2-tags 
+
+-1 
+
+Electron, 19.7 fb 
+
+CMS 
+
+BDT Discriminant 
+
+-0.4 
+-0.2 
+0 
+0.2 
+0.4 
+0.6 
+
+Events / 0.05 
+
+0 
+
+1000 
+
+2000 
+
+3000 
+
+4000 
+
+5000 
+
+6000 
+
+7000 
+
+8000 
+
+9000 
+Data 
+s channel 
+t channel 
+tW 
+t 
+t 
+Z+jets 
+W+jets 
+Diboson 
+Multijet 
+Syst. unc. 
+Rate syst. 
+
+(8 TeV), 2-jets 1-tag 
+
+-1 
+
+Electron, 19.7 fb 
+
+CMS 
+
+BDT Discriminant 
+
+-0.6 
+-0.4 
+-0.2 
+0 
+0.2 
+0.4 
+
+Events / 0.07 
+
+0 
+
+500 
+
+1000 
+
+1500 
+
+2000 
+
+2500 
+Data 
+s channel 
+t channel 
+tW 
+t 
+t 
+Z+jets 
+W+jets 
+Diboson 
+Multijet 
+Syst. unc. 
+Rate syst. 
+
+(8 TeV), 3-jets 2-tags 
+
+-1 
+
+Electron, 19.7 fb 
+
+CMS 
+
+Figure 6. Comparison of data with simulation for the distributions of the BDT discriminants in 
+the (upper left) 2-jets 2-tags, (upper right) 2-jets 1-tag, and (bottom) 3-jets 2-tags event category, 
+for the electron channel at 8 TeV. The simulation is normalized to the combined (7+8 TeV) fit 
+results. The inner uncertainty bands include the post-fit background normalizations uncertainties 
+only, the outer ones include the total systematic uncertainty, obtained summing in quadrature the 
+individual contributions. 
+
+background contributions. The cross section is measured to be 7.1 ± 8.1 (stat + syst) pb 
+at 7 TeV and 13.4 ± 7.3 (stat + syst) pb at 8 TeV, corresponding to a combined signal rate 
+relative to SM expectations of 2.0 ± 0.9 (stat + syst). The observed significance of the com-
+bined measurement is 2.5 standard deviations with 1.1 standard deviations expected. The 
+observed and expected upper limits on the combined signal strength are found to be 4.7 
+and 3.1 at 95% CL, respectively. The measurements are in agreement with the prediction 
+of the standard model. 
+
+Acknowledgments 
+
+We congratulate our colleagues in the CERN accelerator departments for the excellent 
+performance of the LHC and thank the technical and administrative staffs at CERN and 
+at other CMS institutes for their contributions to the success of the CMS effort. In ad-
+dition, we gratefully acknowledge the computing centres and personnel of the Worldwide 
+LHC Computing Grid for delivering so effectively the computing infrastructure essential 
+to our analyses. Finally, we acknowledge the enduring support for the construction and 
+operation of the LHC and the CMS detector provided by the following funding agencies: 
+
+-17 -
+
+
+JHEP09(2016)027 
+
+BMWFW and FWF (Austria); FNRS and FWO (Belgium); CNPq, CAPES, FAPERJ, 
+and FAPESP (Brazil); MES (Bulgaria); CERN; CAS, MoST, and NSFC (China); COL-
+CIENCIAS (Colombia); MSES and CSF (Croatia); RPF (Cyprus); MoER, ERC IUT and 
+ERDF (Estonia); Academy of Finland, MEC, and HIP (Finland); CEA and CNRS/IN2P3 
+(France); BMBF, DFG, and HGF (Germany); GSRT (Greece); OTKA and NIH (Hungary); 
+DAE and DST (India); IPM (Iran); SFI (Ireland); INFN (Italy); MSIP and NRF (Repub-
+lic of Korea); LAS (Lithuania); MOE and UM (Malaysia); CINVESTAV, CONACYT, 
+SEP, and UASLP-FAI (Mexico); MBIE (New Zealand); PAEC (Pakistan); MSHE and 
+NSC (Poland); FCT (Portugal); JINR (Dubna); MON, RosAtom, RAS and RFBR (Rus-
+sia); MESTD (Serbia); SEIDI and CPAN (Spain); Swiss Funding Agencies (Switzerland); 
+MST (Taipei); ThEPCenter, IPST, STAR and NSTDA (Thailand); TUBITAK and TAEK 
+(Turkey); NASU and SFFR (Ukraine); STFC (United Kingdom); DOE and NSF (USA). 
+Individuals have received support from the Marie-Curie programme and the Euro-
+pean Research Council and EPLANET (European Union); the Leventis Foundation; the 
+A. P. Sloan Foundation; the Alexander von Humboldt Foundation; the Belgian Federal 
+Science Policy Office; the Fonds pour la Formation à la Recherche dans l'Industrie et dans 
+l'Agriculture (FRIA-Belgium); the Agentschap voor Innovatie door Wetenschap en Tech-
+nologie (IWT-Belgium); the Ministry of Education, Youth and Sports (MEYS) of the Czech 
+Republic; the Council of Science and Industrial Research, India; the HOMING PLUS pro-
+gramme of the Foundation for Polish Science, cofinanced from European Union, Regional 
+Development Fund; the OPUS programme of the National Science Center (Poland); the 
+Compagnia di San Paolo (Torino); the Consorzio per la Fisica (Trieste); MIUR project 
+20108T4XTM (Italy); the Thalis and Aristeia programmes cofinanced by EU-ESF and the 
+Greek NSRF; the National Priorities Research Program by Qatar National Research Fund; 
+the Rachadapisek Sompot Fund for Postdoctoral Fellowship, Chulalongkorn University 
+(Thailand); and the Welch Foundation, contract C-1845. 
+
+Open Access. This article is distributed under the terms of the Creative Commons 
+Attribution License (CC-BY 4.0), which permits any use, distribution and reproduction in 
+any medium, provided the original author(s) and source are credited. 
+
+References 
+
+[1] D0 collaboration, V.M. Abazov et al., Observation of Single Top Quark Production, Phys. 
+Rev. Lett. 103 (2009) 092001 [arXiv:0903.0850] [INSPIRE]. 
+
+[2] CDF collaboration, T. Aaltonen et al., First Observation of Electroweak Single Top Quark 
+Production, Phys. Rev. Lett. 103 (2009) 092002 [arXiv:0903.0885] [INSPIRE]. 
+
+[3] D0 collaboration, V.M. Abazov et al., Evidence for s-channel single top quark production in 
+pp collisions at 
+√ 
+s = 1.96 TeV, Phys. Lett. B 726 (2013) 656 [arXiv:1307.0731] [INSPIRE]. 
+
+[4] CDF and D0 collaborations, T.A. Aaltonen et al., Observation of s-channel production of 
+single top quarks at the Tevatron, Phys. Rev. Lett. 112 (2014) 231803 [arXiv:1402.5126] 
+[INSPIRE]. 
+
+-18 -
+
+
+JHEP09(2016)027 
+
+[5] ATLAS collaboration, Evidence for single top-quark production in the s-channel in 
+proton-proton collisions at 
+√ 
+s = 8 TeV with the ATLAS detector using the Matrix Element 
+Method, Phys. Lett. B 756 (2016) 228 [arXiv:1511.05980] [INSPIRE]. 
+
+[6] N. Kidonakis, NNLL threshold resummation for top-pair and single-top production, Phys. 
+Part. Nucl. 45 (2014) 714 [arXiv:1210.7813] [INSPIRE]. 
+
+[7] M. Hashemi, Observability of Heavy Charged Higgs through s-channel Single Top Events at 
+LHC, JHEP 11 (2013) 005 [arXiv:1310.5209] [INSPIRE]. 
+
+[8] T.M.P. Tait and C.P. Yuan, Single top quark production as a window to physics beyond the 
+standard model, Phys. Rev. D 63 (2000) 014018 [hep-ph/0007298] [INSPIRE]. 
+
+[9] CMS collaboration, The CMS experiment at the CERN LHC, 2008 JINST 3 S08004 
+[INSPIRE]. 
+
+[10] S. Frixione, P. Nason and C. Oleari, Matching NLO QCD computations with Parton Shower 
+simulations: the POWHEG method, JHEP 11 (2007) 070 [arXiv:0709.2092] [INSPIRE]. 
+
+[11] P.M. Nadolsky et al., Implications of CTEQ global analysis for collider observables, Phys. 
+Rev. D 78 (2008) 013004 [arXiv:0802.0007] [INSPIRE]. 
+
+[12] S. Jadach, J.H. Kuhn and Z. Was, TAUOLA: A library of Monte Carlo programs to simulate 
+decays of polarized tau leptons, Comput. Phys. Commun. 64 (1990) 275 [INSPIRE]. 
+
+[13] CompHEP collaboration, E. Boos et al., CompHEP 4.4: Automatic computations from 
+Lagrangians to events, Nucl. Instrum. Meth. A 534 (2004) 250 [hep-ph/0403113] [INSPIRE]. 
+
+[14] T. Sjöstrand, S. Mrenna and P.Z. Skands, PYTHIA 6.4 Physics and Manual, JHEP 05 
+(2006) 026 [hep-ph/0603175] [INSPIRE]. 
+
+[15] J. Alwall et al., The automated computation of tree-level and next-to-leading order 
+differential cross sections and their matching to parton shower simulations, JHEP 07 (2014) 
+079 [arXiv:1405.0301] [INSPIRE]. 
+
+[16] M. Czakon, P. Fiedler and A. Mitov, Total Top-Quark Pair-Production Cross section at 
+Hadron Colliders Through O(α 4 
+S ), Phys. Rev. Lett. 110 (2013) 252004 [arXiv:1303.6254] 
+[INSPIRE]. 
+
+[17] Y. Li and F. Petriello, Combining QCD and electroweak corrections to dilepton production in 
+FEWZ, Phys. Rev. D 86 (2012) 094034 [arXiv:1208.5967] [INSPIRE]. 
+
+[18] J. Allison et al., GEANT4 developments and applications, IEEE Trans. Nucl. Sci. 53 (2006) 
+270. 
+
+[19] CMS collaboration, Particle-Flow Event Reconstruction in CMS and Performance for Jets, 
+Taus and MET, CMS-PAS-PFT-09-001 (2009). 
+
+[20] CMS collaboration, Performance of Electron Reconstruction and Selection with the CMS 
+Detector in Proton-Proton Collisions at 
+√ 
+s = 8 TeV, 2015 JINST 10 P06005 
+[arXiv:1502.02701] [INSPIRE]. 
+
+[21] M. Cacciari, G.P. Salam and G. Soyez, The anti-k t jet clustering algorithm, JHEP 04 (2008) 
+063 [arXiv:0802.1189] [INSPIRE]. 
+
+[22] M. Cacciari, G.P. Salam and G. Soyez, The Catchment Area of Jets, JHEP 04 (2008) 005 
+[arXiv:0802.1188] [INSPIRE]. 
+
+[23] CMS collaboration, Jet Performance in pp Collisions at 7 TeV, CMS-PAS-JME-10-003 
+(2010). 
+
+-19 -
+
+
+JHEP09(2016)027 
+
+[24] CMS collaboration, Identification of b-quark jets with the CMS experiment, 2013 JINST 8 
+P04013 [arXiv:1211.4462] [INSPIRE]. 
+
+[25] CMS collaboration, Performance of b tagging at 
+√ 
+s = 8 TeV in multijet, ttbar and boosted 
+topology events, CMS-PAS-BTV-13-001 (2013). 
+
+[26] L. Breiman, J. Friedman, C.J. Stone and R.A. Olshen, Classification and regression trees, 
+CRC Press, (1984). 
+
+[27] S. Heim, Q.-H. Cao, R. Schwienhorst and C.P. Yuan, Next-to-leading order QCD corrections 
+to s-channel single top quark production and decay at the LHC, Phys. Rev. D 81 (2010) 
+034005 [arXiv:0911.0620] [INSPIRE]. 
+
+[28] CMS collaboration, Measurement of the t t production cross section in the dilepton channel 
+in pp collisions at 
+√ 
+s = 8 TeV, JHEP 02 (2014) 024 [Erratum ibid. 1402 (2014) 102] 
+[arXiv:1312.7582] [INSPIRE]. 
+
+[29] CMS collaboration, Measurement of the production cross section for a W boson and two b 
+jets in pp collisions at 
+√ 
+s = 7 TeV, Phys. Lett. B 735 (2014) 204 [arXiv:1312.6608] 
+[INSPIRE]. 
+
+[30] CMS collaboration, Measurement of the production cross sections for a Z boson and one or 
+more b jets in pp collisions at 
+√ 
+s = 7 TeV, JHEP 06 (2014) 120 [arXiv:1402.1521] 
+[INSPIRE]. 
+
+[31] J.M. Campbell, R.K. Ellis and C. Williams, Vector boson pair production at the LHC, JHEP 
+07 (2011) 018 [arXiv:1105.0020] [INSPIRE]. 
+
+[32] CMS collaboration, Measurement of the t-channel single-top-quark production cross section 
+and of the | V tb | CKM matrix element in pp collisions at 
+√ 
+s = 8 TeV, JHEP 06 (2014) 090 
+[arXiv:1403.7366] [INSPIRE]. 
+
+[33] CMS collaboration, Observation of the associated production of a single top quark and a W 
+boson in pp collisions at 
+√ 
+s =8 TeV, Phys. Rev. Lett. 112 (2014) 231802 [arXiv:1401.2942] 
+[INSPIRE]. 
+
+[34] CMS collaboration, Determination of Jet Energy Calibration and Transverse Momentum 
+Resolution in CMS, 2011 JINST 6 P11002 [arXiv:1107.4277] [INSPIRE]. 
+
+[35] CMS collaboration, Absolute Calibration of the Luminosity Measurement at CMS: Winter 
+2012 Update, CMS-PAS-SMP-12-008 (2012). 
+
+[36] CMS collaboration, CMS Luminosity Based on Pixel Cluster Counting -Summer 2013 
+Update, CMS-PAS-LUM-13-001 (2013). 
+
+[37] H.-L. Lai et al., New parton distributions for collider physics, Phys. Rev. D 82 (2010) 074024 
+[arXiv:1007.2241] [INSPIRE]. 
+
+[38] CMS collaboration, Measurement of differential top-quark pair production cross sections in 
+pp collisions at 
+√ 
+s = 7 TeV, Eur. Phys. J. C 73 (2013) 2339 [arXiv:1211.2220] [INSPIRE]. 
+
+[39] R.J. Barlow and C. Beeston, Fitting using finite Monte Carlo samples, Comput. Phys. 
+Commun. 77 (1993) 219 [INSPIRE]. 
+
+[40] R. Barlow, Asymmetric systematic errors, physics/0306138 [INSPIRE]. 
+
+-20 -
+
+
+JHEP09(2016)027 
+
+The CMS collaboration 
+
+Yerevan Physics Institute, Yerevan, Armenia 
+V. Khachatryan, A.M. Sirunyan, A. Tumasyan 
+
+Institut für Hochenergiephysik der OeAW, Wien, Austria 
+W. Adam, E. Asilar, T. Bergauer, J. Brandstetter, E. Brondolin, M. Dragicevic, J. Erö, 
+M. Flechl, M. Friedl, R. Frühwirth 1 , V.M. Ghete, C. Hartl, N. Hörmann, J. Hrubec, 
+M. Jeitler 1 , V. Knünz, A. König, M. Krammer 1 , I. Krätschmer, D. Liko, T. Matsushita, 
+I. Mikulec, D. Rabady 2 , N. Rad, B. Rahbaran, H. Rohringer, J. Schieck 1 , R. Schöfbeck, 
+J. Strauss, W. Treberer-Treberspurg, W. Waltenberger, C.-E. Wulz 1 
+
+National Centre for Particle and High Energy Physics, Minsk, Belarus 
+V. Mossolov, N. Shumeiko, J. Suarez Gonzalez 
+
+Universiteit Antwerpen, Antwerpen, Belgium 
+S. Alderweireldt, T. Cornelis, E.A. De Wolf, X. Janssen, A. Knutsson, J. Lauwers, 
+S. Luyckx, M. Van De Klundert, H. Van Haevermaet, P. Van Mechelen, N. Van Remortel, 
+A. Van Spilbeeck 
+
+Vrije Universiteit Brussel, Brussel, Belgium 
+S. Abu Zeid, F. Blekman, J. D'Hondt, N. Daci, I. De Bruyn, K. Deroover, N. Heracleous, 
+J. Keaveney, S. Lowette, L. Moreels, A. Olbrechts, Q. Python, D. Strom, S. Tavernier, 
+W. Van Doninck, P. Van Mulders, G.P. Van Onsem, I. Van Parijs 
+
+Université Libre de Bruxelles, Bruxelles, Belgium 
+P. Barria, H. Brun, C. Caillol, B. Clerbaux, G. De Lentdecker, W. Fang, G. Fasanella, 
+L. Favart, R. Goldouzian, A. Grebenyuk, G. Karapostoli, T. Lenzi, A. Léonard, T. Maer-
+schalk, A. Marinov, L. Perniè, A. Randle-conde, T. Seva, C. Vander Velde, P. Vanlaer, 
+R. Yonamine, F. Zenoni, F. Zhang 3 
+
+Ghent University, Ghent, Belgium 
+K. Beernaert, L. Benucci, A. Cimmino, S. Crucy, D. Dobur, A. Fagot, G. Garcia, M. Gul, 
+J. Mccartin, A.A. Ocampo Rios, D. Poyraz, D. Ryckbosch, S. Salva, M. Sigamani, 
+M. Tytgat, W. Van Driessche, E. Yazgan, N. Zaganidis 
+
+Université Catholique de Louvain, Louvain-la-Neuve, Belgium 
+S. Basegmez, C. Beluffi 4 , O. Bondu, S. Brochet, G. Bruno, A. Caudron, L. Ceard, 
+C. Delaere, D. Favart, L. Forthomme, A. Giammanco 5 , A. Jafari, P. Jez, M. Komm, 
+V. Lemaitre, A. Mertens, M. Musich, C. Nuttens, L. Perrini, K. Piotrzkowski, A. Popov 6 , 
+L. Quertenmont, M. Selvaggi, M. Vidal Marono 
+
+Université de Mons, Mons, Belgium 
+N. Beliy, G.H. Hammad 
+
+Centro Brasileiro de Pesquisas Fisicas, Rio de Janeiro, Brazil 
+W.L. Aldá Júnior, F.L. Alves, G.A. Alves, L. Brito, M. Correa Martins Junior, M. Hamer, 
+C. Hensel, A. Moraes, M.E. Pol, P. Rebello Teles 
+
+-21 -
+
+
+JHEP09(2016)027 
+
+Universidade do Estado do Rio de Janeiro, Rio de Janeiro, Brazil 
+
+E. Belchior Batista Das Chagas, W. Carvalho, J. Chinellato 7 , A. Custódio, E.M. Da 
+Costa, D. De Jesus Damiao, C. De Oliveira Martins, S. Fonseca De Souza, L.M. Huertas 
+Guativa, H. Malbouisson, D. Matos Figueiredo, C. Mora Herrera, L. Mundim, H. Nogima, 
+W.L. Prado Da Silva, A. Santoro, A. Sznajder, E.J. Tonelli Manganote 7 , A. Vilela Pereira 
+
+Universidade Estadual Paulista a , Universidade Federal do ABC b , São Paulo, 
+Brazil 
+
+S. Ahuja a , C.A. Bernardes b , A. De Souza Santos b , S. Dogra a , T.R. Fernandez Perez Tomei a , 
+E.M. Gregores b , P.G. Mercadante b , C.S. Moon a,8 , S.F. Novaes a , Sandra S. Padula a , 
+D. Romero Abad b , J.C. Ruiz Vargas 
+
+Institute for Nuclear Research and Nuclear Energy, Sofia, Bulgaria 
+
+A. Aleksandrov, R. Hadjiiska, P. Iaydjiev, M. Rodozov, S. Stoykova, G. Sultanov, M. Vu-
+tova 
+
+University of Sofia, Sofia, Bulgaria 
+
+A. Dimitrov, I. Glushkov, L. Litov, B. Pavlov, P. Petkov 
+
+Institute of High Energy Physics, Beijing, China 
+
+M. Ahmad, J.G. Bian, G.M. Chen, H.S. Chen, M. Chen, T. Cheng, R. Du, C.H. Jiang, 
+D. Leggat, R. Plestina 9 , F. Romeo, S.M. Shaheen, A. Spiezia, J. Tao, C. Wang, Z. Wang, 
+H. Zhang 
+
+State Key Laboratory of Nuclear Physics and Technology, Peking University, 
+Beijing, China 
+
+C. Asawatangtrakuldee, Y. Ban, Q. Li, S. Liu, Y. Mao, S.J. Qian, D. Wang, Z. Xu 
+
+Universidad de Los Andes, Bogota, Colombia 
+
+C. Avila, A. Cabrera, L.F. Chaparro Sierra, C. Florez, J.P. Gomez, B. Gomez Moreno, 
+J.C. Sanabria 
+
+University of Split, Faculty of Electrical Engineering, Mechanical Engineering 
+and Naval Architecture, Split, Croatia 
+
+N. Godinovic, D. Lelas, I. Puljak, P.M. Ribeiro Cipriano 
+
+University of Split, Faculty of Science, Split, Croatia 
+
+Z. Antunovic, M. Kovac 
+
+Institute Rudjer Boskovic, Zagreb, Croatia 
+
+V. Brigljevic, K. Kadija, J. Luetic, S. Micanovic, L. Sudic 
+
+University of Cyprus, Nicosia, Cyprus 
+
+A. Attikis, G. Mavromanolakis, J. Mousa, C. Nicolaou, F. Ptochos, P.A. Razis, 
+H. Rykaczewski 
+
+Charles University, Prague, Czech Republic 
+
+M. Bodlak, M. Finger 10 , M. Finger Jr. 10 
+
+-22 -
+
+
+JHEP09(2016)027 
+
+Academy of Scientific Research and Technology of the Arab Republic of Egypt, 
+Egyptian Network of High Energy Physics, Cairo, Egypt 
+
+E. El-khateeb 11,11 , T. Elkafrawy 11 , A. Mohamed 12 , E. Salama 13,11 
+
+National Institute of Chemical Physics and Biophysics, Tallinn, Estonia 
+
+B. Calpas, M. Kadastik, M. Murumaa, M. Raidal, A. Tiko, C. Veelken 
+
+Department of Physics, University of Helsinki, Helsinki, Finland 
+
+P. Eerola, J. Pekkanen, M. Voutilainen 
+
+Helsinki Institute of Physics, Helsinki, Finland 
+
+J. Härkönen, V. Karimäki, R. Kinnunen, T. Lampén, K. Lassila-Perini, S. Lehti, T. Lindén, 
+P. Luukka, T. Peltola, J. Tuominiemi, E. Tuovinen, L. Wendland 
+
+Lappeenranta University of Technology, Lappeenranta, Finland 
+
+J. Talvitie, T. Tuuva 
+
+DSM/IRFU, CEA/Saclay, Gif-sur-Yvette, France 
+
+M. Besancon, F. Couderc, M. Dejardin, D. Denegri, B. Fabbro, J.L. Faure, C. Favaro, 
+F. Ferri, S. Ganjour, A. Givernaud, P. Gras, G. Hamel de Monchenault, P. Jarry, E. Locci, 
+M. Machet, J. Malcles, J. Rander, A. Rosowsky, M. Titov, A. Zghiche 
+
+Laboratoire Leprince-Ringuet, Ecole Polytechnique, IN2P3-CNRS, Palaiseau, 
+France 
+
+A. Abdulsalam, I. Antropov, S. Baffioni, F. Beaudette, P. Busson, L. Cadamuro, 
+E. Chapon, C. Charlot, O. Davignon, N. Filipovic, R. Granier de Cassagnac, M. Jo, 
+S. Lisniak, L. Mastrolorenzo, P. Miné, I.N. Naranjo, M. Nguyen, C. Ochando, G. Ortona, 
+P. Paganini, P. Pigard, S. Regnard, R. Salerno, J.B. Sauvan, Y. Sirois, T. Strebler, 
+Y. Yilmaz, A. Zabi 
+
+Institut Pluridisciplinaire Hubert Curien, Université de Strasbourg, Univer-
+sité de Haute Alsace Mulhouse, CNRS/IN2P3, Strasbourg, France 
+
+J.-L. Agram 14 , J. Andrea, A. Aubin, D. Bloch, J.-M. Brom, M. Buttignol, E.C. Chabert, 
+N. Chanon, C. Collard, E. Conte 14 , X. Coubez, J.-C. Fontaine 14 , D. Gelé, U. Goerlach, 
+C. Goetzmann, A.-C. Le Bihan, J.A. Merlin 2 , K. Skovpen, P. Van Hove 
+
+Centre de Calcul de l'Institut National de Physique Nucleaire et de Physique 
+des Particules, CNRS/IN2P3, Villeurbanne, France 
+
+S. Gadrat 
+
+Université de Lyon, Université Claude Bernard Lyon 1, CNRS-IN2P3, Institut 
+de Physique Nucléaire de Lyon, Villeurbanne, France 
+
+S. Beauceron, C. Bernet, G. Boudoul, E. Bouvier, C.A. Carrillo Montoya, R. Chierici, 
+D. Contardo, B. Courbon, P. Depasse, H. El Mamouni, J. Fan, J. Fay, S. Gascon, M. Gouze-
+vitch, B. Ille, F. Lagarde, I.B. Laktineh, M. Lethuillier, L. Mirabito, A.L. Pequegnot, 
+S. Perries, J.D. Ruiz Alvarez, D. Sabes, L. Sgandurra, V. Sordini, M. Vander Donckt, 
+P. Verdier, S. Viret 
+
+-23 -
+
+
+JHEP09(2016)027 
+
+Georgian Technical University, Tbilisi, Georgia 
+T. Toriashvili 15 
+
+Tbilisi State University, Tbilisi, Georgia 
+Z. Tsamalaidze 10 
+
+RWTH Aachen University, I. Physikalisches Institut, Aachen, Germany 
+C. Autermann, S. Beranek, L. Feld, A. Heister, M.K. Kiesel, K. Klein, M. Lipinski, 
+A. Ostapchuk, M. Preuten, F. Raupach, S. Schael, J.F. Schulte, T. Verlage, H. Weber, 
+V. Zhukov 6 
+
+RWTH Aachen University, III. Physikalisches Institut A, Aachen, Germany 
+M. Ata, M. Brodski, E. Dietz-Laursonn, D. Duchardt, M. Endres, M. Erdmann, S. Erdweg, 
+T. Esch, R. Fischer, A. Güth, T. Hebbeker, C. Heidemann, K. Hoepfner, S. Knutzen, 
+P. Kreuzer, M. Merschmeyer, A. Meyer, P. Millet, S. Mukherjee, M. Olschewski, 
+K. Padeken, P. Papacz, T. Pook, M. Radziej, H. Reithler, M. Rieger, F. Scheuch, 
+L. Sonnenschein, D. Teyssier, S. Thüer 
+
+RWTH Aachen University, III. Physikalisches Institut B, Aachen, Germany 
+V. Cherepanov, Y. Erdogan, G. Flügge, H. Geenen, M. Geisler, F. Hoehle, B. Kargoll, 
+T. Kress, A. Künsken, J. Lingemann, A. Nehrkorn, A. Nowack, I.M. Nugent, C. Pistone, 
+O. Pooth, A. Stahl 
+
+Deutsches Elektronen-Synchrotron, Hamburg, Germany 
+M. Aldaya Martin, I. Asin, N. Bartosik, O. Behnke, U. Behrens, K. Borras 16 , A. Burgmeier, 
+A. Campbell, C. Contreras-Campana, F. Costanza, C. Diez Pardos, G. Dolinska, S. Dool-
+ing, T. Dorland, G. Eckerlin, D. Eckstein, T. Eichhorn, G. Flucke, E. Gallo 17 , J. Garay Gar-
+cia, A. Geiser, A. Gizhko, P. Gunnellini, J. Hauk, M. Hempel 18 , H. Jung, A. Kalogeropou-
+los, O. Karacheban 18 , M. Kasemann, P. Katsas, J. Kieseler, C. Kleinwort, I. Korol, 
+W. Lange, J. Leonard, K. Lipka, A. Lobanov, W. Lohmann 18 , R. Mankel, I.-A. Melzer-
+Pellmann, A.B. Meyer, G. Mittag, J. Mnich, A. Mussgiller, S. Naumann-Emme, A. Nayak, 
+E. Ntomari, H. Perrey, D. Pitzl, R. Placakyte, A. Raspereza, B. Roland, M. Ö. Sahin, 
+P. Saxena, T. Schoerner-Sadenius, C. Seitz, S. Spannagel, N. Stefaniuk, K.D. Trippkewitz, 
+R. Walsh, C. Wissing 
+
+University of Hamburg, Hamburg, Germany 
+V. Blobel, M. Centis Vignali, A.R. Draeger, J. Erfle, E. Garutti, K. Goebel, D. Gonzalez, 
+M. Görner, J. Haller, M. Hoffmann, R.S. Höing, A. Junkes, R. Klanner, R. Kogler, N. Ko-
+valchuk, T. Lapsien, T. Lenz, I. Marchesini, D. Marconi, M. Meyer, D. Nowatschin, J. Ott, 
+F. Pantaleo 2 , T. Peiffer, A. Perieanu, N. Pietsch, J. Poehlsen, D. Rathjens, C. Sander, 
+C. Scharf, P. Schleper, E. Schlieckau, A. Schmidt, S. Schumann, J. Schwandt, V. Sola, 
+H. Stadie, G. Steinbrück, F.M. Stober, H. Tholen, D. Troendle, E. Usai, L. Vanelderen, 
+A. Vanhoefer, B. Vormwald 
+
+Institut für Experimentelle Kernphysik, Karlsruhe, Germany 
+C. Barth, C. Baus, J. Berger, C. Böser, E. Butz, T. Chwalek, F. Colombo, W. De 
+Boer, A. Descroix, A. Dierlamm, S. Fink, F. Frensch, R. Friese, M. Giffels, A. Gilbert, 
+
+-24 -
+
+
+JHEP09(2016)027 
+
+D. Haitz, F. Hartmann 2 , S.M. Heindl, U. Husemann, I. Katkov 6 , A. Kornmayer 2 , P. Lobelle 
+Pardo, B. Maier, H. Mildner, M.U. Mozer, T. Müller, Th. Müller, M. Plagge, G. Quast, 
+K. Rabbertz, S. Röcker, F. Roscher, M. Schröder, G. Sieber, H.J. Simonis, R. Ulrich, 
+J. Wagner-Kuhr, S. Wayand, M. Weber, T. Weiler, S. Williamson, C. Wöhrmann, R. Wolf 
+
+Institute of Nuclear and Particle Physics (INPP), NCSR Demokritos, Aghia 
+Paraskevi, Greece 
+G. Anagnostou, G. Daskalakis, T. Geralis, V.A. Giakoumopoulou, A. Kyriakis, D. Loukas, 
+A. Psallidas, I. Topsis-Giotis 
+
+National and Kapodistrian University of Athens, Athens, Greece 
+A. Agapitos, S. Kesisoglou, A. Panagiotou, N. Saoulidou, E. Tziaferi 
+
+University of Ioánnina, Ioánnina, Greece 
+I. Evangelou, G. Flouris, C. Foudas, P. Kokkas, N. Loukas, N. Manthos, I. Papadopoulos, 
+E. Paradas, J. Strologas 
+
+Wigner Research Centre for Physics, Budapest, Hungary 
+G. Bencze, C. Hajdu, A. Hazi, P. Hidas, D. Horvath 19 , F. Sikler, V. Veszpremi, 
+G. Vesztergombi 20 , A.J. Zsigmond 
+
+Institute of Nuclear Research ATOMKI, Debrecen, Hungary 
+N. Beni, S. Czellar, J. Karancsi 21 , J. Molnar, Z. Szillasi 2 
+
+University of Debrecen, Debrecen, Hungary 
+M. Bartók 22 , A. Makovec, P. Raics, Z.L. Trocsanyi, B. Ujvari 
+
+National Institute of Science Education and Research, Bhubaneswar, India 
+S. Choudhury 23 , P. Mal, K. Mandal, D.K. Sahoo, N. Sahoo, S.K. Swain 
+
+Panjab University, Chandigarh, India 
+S. Bansal, S.B. Beri, V. Bhatnagar, R. Chawla, R. Gupta, U.Bhawandeep, A.K. Kalsi, 
+A. Kaur, M. Kaur, R. Kumar, A. Mehta, M. Mittal, J.B. Singh, G. Walia 
+
+University of Delhi, Delhi, India 
+Ashok Kumar, A. Bhardwaj, B.C. Choudhary, R.B. Garg, S. Malhotra, M. Naimuddin, 
+N. Nishu, K. Ranjan, R. Sharma, V. Sharma 
+
+Saha Institute of Nuclear Physics, Kolkata, India 
+S. Bhattacharya, K. Chatterjee, S. Dey, S. Dutta, N. Majumdar, A. Modak, K. Mondal, 
+S. Mukhopadhyay, A. Roy, D. Roy, S. Roy Chowdhury, S. Sarkar, M. Sharan 
+
+Bhabha Atomic Research Centre, Mumbai, India 
+R. Chudasama, D. Dutta, V. Jha, V. Kumar, A.K. Mohanty 2 , L.M. Pant, P. Shukla, 
+A. Topkar 
+
+Tata Institute of Fundamental Research, Mumbai, India 
+T. Aziz, S. Banerjee, S. Bhowmik 24 , R.M. Chatterjee, R.K. Dewanjee, S. Dugad, S. Gan-
+guly, S. Ghosh, M. Guchait, A. Gurtu 25 , Sa. Jain, G. Kole, S. Kumar, B. Mahakud, 
+
+-25 -
+
+
+JHEP09(2016)027 
+
+M. Maity 24 , G. Majumder, K. Mazumdar, S. Mitra, G.B. Mohanty, B. Parida, T. Sarkar 24 , 
+N. Sur, B. Sutar, N. Wickramage 26 
+
+Indian Institute of Science Education and Research (IISER), Pune, India 
+
+S. Chauhan, S. Dube, A. Kapoor, K. Kothekar, S. Sharma 
+
+Institute for Research in Fundamental Sciences (IPM), Tehran, Iran 
+
+H. Bakhshiansohi, H. Behnamian, S.M. Etesami 27 , A. Fahim 28 , M. Khakzad, M. Mo-
+hammadi Najafabadi, M. Naseri, S. Paktinat Mehdiabadi, F. Rezaei Hosseinabadi, 
+B. Safarzadeh 29 , M. Zeinali 
+
+University College Dublin, Dublin, Ireland 
+
+M. Felcini, M. Grunewald 
+
+INFN Sezione di Bari a , Università di Bari b , Politecnico di Bari c , Bari, Italy 
+
+M. Abbrescia a,b , C. Calabria a,b , C. Caputo a,b , A. Colaleo a , D. Creanza a,c , L. Cristella a,b , 
+N. De Filippis a,c , M. De Palma a,b , L. Fiore a , G. Iaselli a,c , G. Maggi a,c , M. Maggi a , 
+G. Miniello a,b , S. My a,c , S. Nuzzo a,b , A. Pompili a,b , G. Pugliese a,c , R. Radogna a,b , 
+A. Ranieri a , G. Selvaggi a,b , L. Silvestris a,2 , R. Venditti a,b 
+
+INFN Sezione di Bologna a , Università di Bologna b , Bologna, Italy 
+
+G. Abbiendi a , C. Battilana 2 , D. Bonacorsi a,b , S. Braibant-Giacomelli a,b , L. Brigliadori a,b , 
+R. Campanini a,b , P. Capiluppi a,b , A. Castro a,b , F.R. Cavallo a , S.S. Chhibra a,b , 
+G. Codispoti a,b , M. Cuffiani a,b , G.M. Dallavalle a , F. Fabbri a , A. Fanfani a,b , D. Fasanella a,b , 
+P. Giacomelli a , C. Grandi a , L. Guiducci a,b , S. Marcellini a , G. Masetti a , A. Montanari a , 
+F.L. Navarria a,b , A. Perrotta a , A.M. Rossi a,b , T. Rovelli a,b , G.P. Siroli a,b , N. Tosi a,b,2 
+
+INFN Sezione di Catania a , Università di Catania b , Catania, Italy 
+
+G. Cappello b , M. Chiorboli a,b , S. Costa a,b , A. Di Mattia a , F. Giordano a,b , R. Potenza a,b , 
+A. Tricomi a,b , C. Tuve a,b 
+
+INFN Sezione di Firenze a , Università di Firenze b , Firenze, Italy 
+
+G. Barbagli a , V. Ciulli a,b , C. Civinini a , R. D'Alessandro a,b , E. Focardi a,b , V. Gori a,b , 
+P. Lenzi a,b , M. Meschini a , S. Paoletti a , G. Sguazzoni a , L. Viliani a,b,2 
+
+INFN Laboratori Nazionali di Frascati, Frascati, Italy 
+
+L. Benussi, S. Bianco, F. Fabbri, D. Piccolo, F. Primavera 2 
+
+INFN Sezione di Genova a , Università di Genova b , Genova, Italy 
+
+V. Calvelli a,b , F. Ferro a , M. Lo Vetere a,b , M.R. Monge a,b , E. Robutti a , S. Tosi a,b 
+
+INFN Sezione di Milano-Bicocca a , Università di Milano-Bicocca b , Milano, 
+Italy 
+
+L. Brianza, M.E. Dinardo a,b , S. Fiorendi a,b , S. Gennai a , R. Gerosa a,b , A. Ghezzi a,b , 
+P. Govoni a,b , S. Malvezzi a , R.A. Manzoni a,b,2 , B. Marzocchi a,b , D. Menasce a , L. Moroni a , 
+M. Paganoni a,b , D. Pedrini a , S. Ragazzi a,b , N. Redaelli a , T. Tabarelli de Fatis a,b 
+
+-26 -
+
+
+JHEP09(2016)027 
+
+INFN Sezione di Napoli a , Università di Napoli 'Federico II' b , Napoli, Italy, 
+Università della Basilicata c , Potenza, Italy, Università G. Marconi d , Roma, 
+Italy 
+
+S. Buontempo a , N. Cavallo a,c , S. Di Guida a,d,2 , M. Esposito a,b , F. Fabozzi a,c , 
+A.O.M. Iorio a,b , G. Lanza a , L. Lista a , S. Meola a,d,2 , M. Merola a , P. Paolucci a,2 , 
+C. Sciacca a,b , F. Thyssen, F. Tramontano a,b 
+
+INFN Sezione di Padova a , Università di Padova b , Padova, Italy, Università di 
+Trento c , Trento, Italy 
+
+P. Azzi a,2 , N. Bacchetta a , L. Benato a,b , D. Bisello a,b , A. Boletti a,b , A. Branca a,b , 
+R. Carlin a,b , P. Checchia a , M. Dall'Osso a,b,2 , T. Dorigo a , U. Dosselli a , F. Gasparini a,b , 
+U. Gasparini a,b , A. Gozzelino a , K. Kanishchev a,c , S. Lacaprara a , M. Margoni a,b , 
+A.T. Meneguzzo a,b , M. Passaseo a , J. Pazzini a,b,2 , N. Pozzobon a,b , P. Ronchese a,b , 
+F. Simonetto a,b , E. Torassa a , M. Tosi a,b , M. Zanetti, P. Zotto a,b , A. Zucchetta a,b,2 , 
+G. Zumerle a,b 
+
+INFN Sezione di Pavia a , Università di Pavia b , Pavia, Italy 
+
+A. Braghieri a , A. Magnani a,b , P. Montagna a,b , S.P. Ratti a,b , V. Re a , C. Riccardi a,b , 
+P. Salvini a , I. Vai a,b , P. Vitulo a,b 
+
+INFN Sezione di Perugia a , Università di Perugia b , Perugia, Italy 
+
+L. Alunni Solestizi a,b , G.M. Bilei a , D. Ciangottini a,b,2 , L. Fanò a,b , P. Lariccia a,b , 
+G. Mantovani a,b , M. Menichelli a , A. Saha a , A. Santocchia a,b 
+
+INFN Sezione di Pisa a , Università di Pisa b , Scuola Normale Superiore di 
+Pisa c , Pisa, Italy 
+
+K. Androsov a,30 , P. Azzurri a,2 , G. Bagliesi a , J. Bernardini a , T. Boccali a , R. Castaldi a , 
+M.A. Ciocci a,30 , R. Dell'Orso a , S. Donato a,c,2 , G. Fedi, L. Foà a,c † , A. Giassi a , 
+M.T. Grippo a,30 , F. Ligabue a,c , T. Lomtadze a , L. Martini a,b , A. Messineo a,b , F. Palla a , 
+A. Rizzi a,b , A. Savoy-Navarro a,31 , A.T. Serban a , P. Spagnolo a , R. Tenchini a , G. Tonelli a,b , 
+A. Venturi a , P.G. Verdini a 
+
+INFN Sezione di Roma a , Università di Roma b , Roma, Italy 
+
+L. Barone a,b , F. Cavallari a , G. D'imperio a,b,2 , D. Del Re a,b,2 , M. Diemoz a , S. Gelli a,b , 
+C. Jorda a , E. Longo a,b , F. Margaroli a,b , P. Meridiani a , G. Organtini a,b , R. Paramatti a , 
+F. Preiato a,b , S. Rahatlou a,b , C. Rovelli a , F. Santanastasio a,b , P. Traczyk a,b,2 
+
+INFN Sezione di Torino a , Università di Torino b , Torino, Italy, Università del 
+Piemonte Orientale c , Novara, Italy 
+
+N. Amapane a,b , R. Arcidiacono a,c,2 , S. Argiro a,b , M. Arneodo a,c , R. Bellan a,b , C. Biino a , 
+N. Cartiglia a , M. Costa a,b , R. Covarelli a,b , A. Degano a,b , N. Demaria a , L. Finco a,b,2 , 
+B. Kiani a,b , C. Mariotti a , S. Maselli a , E. Migliore a,b , V. Monaco a,b , E. Monteil a,b , 
+M.M. Obertino a,b , L. Pacher a,b , N. Pastrone a , M. Pelliccioni a , G.L. Pinna Angioni a,b , 
+F. Ravera a,b , A. Romero a,b , M. Ruspa a,c , R. Sacchi a,b , A. Solano a,b , A. Staiano a 
+
+-27 -
+
+
+JHEP09(2016)027 
+
+INFN Sezione di Trieste a , Università di Trieste b , Trieste, Italy 
+S. Belforte a , V. Candelise a,b , M. Casarsa a , F. Cossutti a , G. Della Ricca a,b , B. Gobbo a , 
+C. La Licata a,b , M. Marone a,b , A. Schizzi a,b , A. Zanetti a 
+
+Kangwon National University, Chunchon, Korea 
+A. Kropivnitskaya, S.K. Nam 
+
+Kyungpook National University, Daegu, Korea 
+D.H. Kim, G.N. Kim, M.S. Kim, D.J. Kong, S. Lee, Y.D. Oh, A. Sakharov, D.C. Son 
+
+Chonbuk National University, Jeonju, Korea 
+J.A. Brochero Cifuentes, H. Kim, T.J. Kim 32 
+
+Chonnam National University, Institute for Universe and Elementary Particles, 
+Kwangju, Korea 
+S. Song 
+
+Korea University, Seoul, Korea 
+S. Cho, S. Choi, Y. Go, D. Gyun, B. Hong, H. Kim, Y. Kim, B. Lee, K. Lee, K.S. Lee, 
+S. Lee, J. Lim, S.K. Park, Y. Roh 
+
+Seoul National University, Seoul, Korea 
+H.D. Yoo 
+
+University of Seoul, Seoul, Korea 
+M. Choi, H. Kim, J.H. Kim, J.S.H. Lee, I.C. Park, G. Ryu, M.S. Ryu 
+
+Sungkyunkwan University, Suwon, Korea 
+Y. Choi, J. Goh, D. Kim, E. Kwon, J. Lee, I. Yu 
+
+Vilnius University, Vilnius, Lithuania 
+V. Dudenas, A. Juodagalvis, J. Vaitkus 
+
+National Centre for Particle Physics, Universiti Malaya, Kuala Lumpur, 
+Malaysia 
+I. Ahmed, Z.A. Ibrahim, J.R. Komaragiri, M.A.B. Md Ali 33 , F. Mohamad Idris 34 , 
+W.A.T. Wan Abdullah, M.N. Yusli, Z. Zolkapli 
+
+Centro de Investigacion y de Estudios Avanzados del IPN, Mexico City, Mexico 
+E. Casimiro Linares, H. Castilla-Valdez, E. De La Cruz-Burelo, I. Heredia-De La Cruz 35 , 
+A. Hernandez-Almada, R. Lopez-Fernandez, J. Mejia Guisao, A. Sanchez-Hernandez 
+
+Universidad Iberoamericana, Mexico City, Mexico 
+S. Carrillo Moreno, F. Vazquez Valencia 
+
+Benemerita Universidad Autonoma de Puebla, Puebla, Mexico 
+I. Pedraza, H.A. Salazar Ibarguen, C. Uribe Estrada 
+
+Universidad Autónoma de San Luis Potosí, San Luis Potosí, Mexico 
+A. Morelos Pineda 
+
+-28 -
+
+
+JHEP09(2016)027 
+
+University of Auckland, Auckland, New Zealand 
+D. Krofcheck 
+
+University of Canterbury, Christchurch, New Zealand 
+P.H. Butler 
+
+National Centre for Physics, Quaid-I-Azam University, Islamabad, Pakistan 
+A. Ahmad, M. Ahmad, Q. Hassan, H.R. Hoorani, W.A. Khan, T. Khurshid, M. Shoaib, 
+M. Waqas 
+
+National Centre for Nuclear Research, Swierk, Poland 
+H. Bialkowska, M. Bluj, B. Boimska, T. Frueboes, M. Górski, M. Kazana, K. Nawrocki, 
+K. Romanowska-Rybinska, M. Szleper, P. Zalewski 
+
+Institute of Experimental Physics, Faculty of Physics, University of Warsaw, 
+Warsaw, Poland 
+G. Brona, K. Bunkowski, A. Byszuk 36 , K. Doroba, A. Kalinowski, M. Konecki, J. Kro-
+likowski, M. Misiura, M. Olszewski, M. Walczak 
+
+Laboratório de Instrumentação e Física Experimental de Partículas, Lisboa, 
+Portugal 
+P. Bargassa, C. Beirão Da Cruz E Silva, A. Di Francesco, P. Faccioli, P.G. Ferreira Parracho, 
+M. Gallinaro, J. Hollar, N. Leonardo, L. Lloret Iglesias, F. Nguyen, J. Rodrigues Antunes, 
+J. Seixas, O. Toldaiev, D. Vadruccio, J. Varela, P. Vischia 
+
+Joint Institute for Nuclear Research, Dubna, Russia 
+M. Gavrilenko, I. Golutvin, A. Kamenev, V. Karjavin, V. Korenkov, A. Lanev, 
+A. Malakhov, V. Matveev 37,38 , V.V. Mitsyn, P. Moisenz, V. Palichik, V. Perelygin, 
+S. Shmatov, S. Shulha, N. Skatchkov, V. Smirnov, E. Tikhonenko, A. Zarubin 
+
+Petersburg Nuclear Physics Institute, Gatchina (St. Petersburg), Russia 
+V. Golovtsov, Y. Ivanov, V. Kim 39 , E. Kuznetsova, P. Levchenko, V. Murzin, V. Oreshkin, 
+I. Smirnov, V. Sulimov, L. Uvarov, S. Vavilov, A. Vorobyev 
+
+Institute for Nuclear Research, Moscow, Russia 
+Yu. Andreev, A. Dermenev, S. Gninenko, N. Golubev, A. Karneyeu, M. Kirsanov, 
+N. Krasnikov, A. Pashenkov, D. Tlisov, A. Toropin 
+
+Institute for Theoretical and Experimental Physics, Moscow, Russia 
+V. Epshteyn, V. Gavrilov, N. Lychkovskaya, V. Popov, I. Pozdnyakov, G. Safronov, 
+A. Spiridonov, E. Vlasov, A. Zhokin 
+
+National Research Nuclear University 'Moscow Engineering Physics Insti-
+tute' (MEPhI), Moscow, Russia 
+M. Chadeeva, R. Chistov, M. Danilov, V. Rusinov, E. Tarkovskii 
+
+P.N. Lebedev Physical Institute, Moscow, Russia 
+V. Andreev, M. Azarkin 38 , I. Dremin 38 , M. Kirakosyan, A. Leonidov 38 , G. Mesyats, 
+S.V. Rusakov 
+
+-29 -
+
+
+JHEP09(2016)027 
+
+Skobeltsyn Institute of Nuclear Physics, Lomonosov Moscow State University, 
+Moscow, Russia 
+A. Baskakov, A. Belyaev, E. Boos, V. Bunichev, M. Dubinin 40 , L. Dudko, V. Klyukhin, 
+O. Kodolova, N. Korneeva, I. Lokhtin, I. Miagkov, S. Obraztsov, M. Perfilov, 
+S. Petrushanko, V. Savrin 
+
+State Research Center of Russian Federation, Institute for High Energy 
+Physics, Protvino, Russia 
+I. Azhgirey, I. Bayshev, S. Bitioukov, V. Kachanov, A. Kalinin, D. Konstantinov, 
+V. Krychkine, V. Petrov, R. Ryutin, A. Sobol, L. Tourtchanovitch, S. Troshin, N. Tyurin, 
+A. Uzunian, A. Volkov 
+
+University of Belgrade, Faculty of Physics and Vinca Institute of Nuclear 
+Sciences, Belgrade, Serbia 
+P. Adzic 41 , P. Cirkovic, D. Devetak, J. Milosevic, V. Rekovic 
+
+Centro 
+de 
+Investigaciones 
+Energéticas 
+Medioambientales 
+y 
+Tec-
+nológicas (CIEMAT), Madrid, Spain 
+J. Alcaraz Maestre, E. Calvo, M. Cerrada, M. Chamizo Llatas, N. Colino, B. De La Cruz, 
+A. Delgado Peris, A. Escalante Del Valle, C. Fernandez Bedoya, J.P. Fernández Ramos, 
+J. Flix, M.C. Fouz, P. Garcia-Abia, O. Gonzalez Lopez, S. Goy Lopez, J.M. Hernandez, 
+M.I. Josa, E. Navarro De Martino, A. Pérez-Calero Yzquierdo, J. Puerta Pelayo, A. Quin-
+tario Olmeda, I. Redondo, L. Romero, J. Santaolalla, M.S. Soares 
+
+Universidad Autónoma de Madrid, Madrid, Spain 
+C. Albajar, J.F. de Trocóniz, M. Missiroli, D. Moran 
+
+Universidad de Oviedo, Oviedo, Spain 
+J. Cuevas, J. Fernandez Menendez, S. Folgueras, I. Gonzalez Caballero, E. Palencia 
+Cortezon, J.M. Vizan Garcia 
+
+Instituto de Física de Cantabria (IFCA), CSIC-Universidad de Cantabria, 
+Santander, Spain 
+I.J. Cabrillo, A. Calderon, J.R. Castiñeiras De Saa, E. Curras, P. De Castro Manzano, 
+M. Fernandez, J. Garcia-Ferrero, G. Gomez, A. Lopez Virto, J. Marco, R. Marco, 
+C. Martinez Rivero, F. Matorras, J. Piedra Gomez, T. Rodrigo, A.Y. Rodríguez-Marrero, 
+A. Ruiz-Jimeno, L. Scodellaro, N. Trevisani, I. Vila, R. Vilar Cortabitarte 
+
+CERN, European Organization for Nuclear Research, Geneva, Switzerland 
+D. Abbaneo, E. Auffray, G. Auzinger, M. Bachtis, P. Baillon, A.H. Ball, D. Barney, 
+A. Benaglia, J. Bendavid, L. Benhabib, G.M. Berruti, P. Bloch, A. Bocci, A. Bon-
+ato, C. Botta, H. Breuker, T. Camporesi, R. Castello, G. Cerminara, M. D'Alfonso, 
+D. d'Enterria, A. Dabrowski, V. Daponte, A. David, M. De Gruttola, F. De Guio, A. De 
+Roeck, S. De Visscher, E. Di Marco 42 , M. Dobson, M. Dordevic, B. Dorney, T. du 
+Pree, D. Duggan, M. Dünser, N. Dupont, A. Elliott-Peisert, G. Franzoni, J. Fulcher, 
+W. Funk, D. Gigi, K. Gill, D. Giordano, M. Girone, F. Glege, R. Guida, S. Gundacker, 
+M. Guthoff, J. Hammer, P. Harris, J. Hegeman, V. Innocente, P. Janot, H. Kirschenmann, 
+
+-30 -
+
+
+JHEP09(2016)027 
+
+M.J. Kortelainen, K. Kousouris, K. Krajczar, P. Lecoq, C. Lourenço, M.T. Lucchini, 
+N. Magini, L. Malgeri, M. Mannelli, A. Martelli, L. Masetti, F. Meijers, S. Mersi, E. Meschi, 
+F. Moortgat, S. Morovic, M. Mulders, M.V. Nemallapudi, H. Neugebauer, S. Orfanelli 43 , 
+L. Orsini, L. Pape, E. Perez, M. Peruzzi, A. Petrilli, G. Petrucciani, A. Pfeiffer, M. Pierini, 
+D. Piparo, A. Racz, T. Reis, G. Rolandi 44 , M. Rovere, M. Ruan, H. Sakulin, C. Schäfer, 
+C. Schwick, M. Seidel, A. Sharma, P. Silva, M. Simon, P. Sphicas 45 , J. Steggemann, 
+B. Stieger, M. Stoye, Y. Takahashi, D. Treille, A. Triossi, A. Tsirou, G.I. Veres 20 , N. Wardle, 
+H.K. Wöhri, A. Zagozdzinska 36 , W.D. Zeuner 
+
+Paul Scherrer Institut, Villigen, Switzerland 
+
+W. Bertl, K. Deiters, W. Erdmann, R. Horisberger, Q. Ingram, H.C. Kaestli, D. Kotlinski, 
+U. Langenegger, T. Rohe 
+
+Institute for Particle Physics, ETH Zurich, Zurich, Switzerland 
+
+F. Bachmair, L. Bäni, L. Bianchini, B. Casal, G. Dissertori, M. Dittmar, M. Donegà, 
+P. Eller, C. Grab, C. Heidegger, D. Hits, J. Hoss, G. Kasieczka, P. Lecomte  † , W. Lus-
+termann, B. Mangano, M. Marionneau, P. Martinez Ruiz del Arbol, M. Masciovecchio, 
+M.T. Meinhard, D. Meister, F. Micheli, P. Musella, F. Nessi-Tedaldi, F. Pandolfi, J. Pata, 
+F. Pauss, L. Perrozzi, M. Quittnat, M. Rossini, M. Schönenberger, A. Starodumov 46 , 
+M. Takahashi, V.R. Tavolaro, K. Theofilatos, R. Wallny 
+
+Universität Zürich, Zurich, Switzerland 
+
+T.K. Aarrestad, C. Amsler 47 , L. Caminada, M.F. Canelli, V. Chiochia, A. De Cosa, 
+C. Galloni, A. Hinzmann, T. Hreus, B. Kilminster, C. Lange, J. Ngadiuba, D. Pinna, 
+G. Rauco, P. Robmann, D. Salerno, Y. Yang 
+
+National Central University, Chung-Li, Taiwan 
+
+M. Cardaci, K.H. Chen, T.H. Doan, Sh. Jain, R. Khurana, M. Konyushikhin, C.M. Kuo, 
+W. Lin, Y.J. Lu, A. Pozdnyakov, S.S. Yu 
+
+National Taiwan University (NTU), Taipei, Taiwan 
+
+Arun Kumar, P. Chang, Y.H. Chang, Y.W. Chang, Y. Chao, K.F. Chen, P.H. Chen, 
+C. Dietz, F. Fiori, U. Grundler, W.-S. Hou, Y. Hsiung, Y.F. Liu, R.-S. Lu, M. Miñano 
+Moya, E. Petrakou, J.f. Tsai, Y.M. Tzeng 
+
+Chulalongkorn University, Faculty of Science, Department of Physics, Bangkok, 
+Thailand 
+
+B. Asavapibhop, K. Kovitanggoon, G. Singh, N. Srimanobhas, N. Suwonjandee 
+
+Cukurova University, Adana, Turkey 
+
+A. Adiguzel, M.N. Bakirci 48 , S. Damarseckin, Z.S. Demiroglu, C. Dozen, E. Eskut, 
+S. Girgis, G. Gokbulut, Y. Guler, E. Gurpinar, I. Hos, E.E. Kangal 49 , G. Onengut 50 , 
+K. Ozdemir 51 , A. Polatoz, D. Sunar Cerci 52 , B. Tali 52 , H. Topakli 48 , C. Zorbilmez 
+
+Middle East Technical University, Physics Department, Ankara, Turkey 
+
+B. Bilin, S. Bilmis, B. Isildak 53 , G. Karapinar 54 , M. Yalvac, M. Zeyrek 
+
+-31 -
+
+
+JHEP09(2016)027 
+
+Bogazici University, Istanbul, Turkey 
+
+E. Gülmez, M. Kaya 55 , O. Kaya 56 , E.A. Yetkin 57 , T. Yetkin 58 
+
+Istanbul Technical University, Istanbul, Turkey 
+
+A. Cakir, K. Cankocak, S. Sen 59 , F.I. Vardarlı 
+
+Institute for Scintillation Materials of National Academy of Science of Ukraine, 
+Kharkov, Ukraine 
+
+B. Grynyov 
+
+National Scientific Center, Kharkov Institute of Physics and Technology, 
+Kharkov, Ukraine 
+
+L. Levchuk, P. Sorokin 
+
+University of Bristol, Bristol, United Kingdom 
+
+R. Aggleton, F. Ball, L. Beck, J.J. Brooke, E. Clement, D. Cussans, H. Flacher, J. Gold-
+stein, M. Grimes, G.P. Heath, H.F. Heath, J. Jacob, L. Kreczko, C. Lucas, Z. Meng, 
+D.M. Newbold 60 , S. Paramesvaran, A. Poll, T. Sakuma, S. Seif El Nasr-storey, S. Senkin, 
+D. Smith, V.J. Smith 
+
+Rutherford Appleton Laboratory, Didcot, United Kingdom 
+
+K.W. Bell, A. Belyaev 61 , C. Brew, R.M. Brown, L. Calligaris, D. Cieri, D.J.A. Cockerill, 
+J.A. Coughlan, K. Harder, S. Harper, E. Olaiya, D. Petyt, C.H. Shepherd-Themistocleous, 
+A. Thea, I.R. Tomalin, T. Williams, S.D. Worm 
+
+Imperial College, London, United Kingdom 
+
+M. Baber, R. Bainbridge, O. Buchmuller, A. Bundock, D. Burton, S. Casasso, M. Citron, 
+D. Colling, L. Corpe, P. Dauncey, G. Davies, A. De Wit, M. Della Negra, P. Dunne, 
+A. Elwood, D. Futyan, G. Hall, G. Iles, R. Lane, R. Lucas 60 , L. Lyons, A.-M. Magnan, 
+S. Malik, J. Nash, A. Nikitenko 46 , J. Pela, M. Pesaresi, D.M. Raymond, A. Richards, 
+A. Rose, C. Seez, A. Tapper, K. Uchida, M. Vazquez Acosta 62 , T. Virdee, S.C. Zenz 
+
+Brunel University, Uxbridge, United Kingdom 
+
+J.E. Cole, P.R. Hobson, A. Khan, P. Kyberd, D. Leslie, I.D. Reid, P. Symonds, L. Teodor-
+escu, M. Turner 
+
+Baylor University, Waco, USA 
+
+A. Borzou, K. Call, J. Dittmann, K. Hatakeyama, H. Liu, N. Pastika 
+
+The University of Alabama, Tuscaloosa, USA 
+
+O. Charaf, S.I. Cooper, C. Henderson, P. Rumerio 
+
+Boston University, Boston, USA 
+
+D. Arcaro, A. Avetisyan, T. Bose, D. Gastler, D. Rankin, C. Richardson, J. Rohlf, L. Sulak, 
+D. Zou 
+
+-32 -
+
+
+JHEP09(2016)027 
+
+Brown University, Providence, USA 
+
+J. Alimena, G. Benelli, E. Berry, D. Cutts, A. Ferapontov, A. Garabedian, J. Hakala, 
+U. Heintz, O. Jesus, E. Laird, G. Landsberg, Z. Mao, M. Narain, S. Piperov, S. Sagir, 
+R. Syarif 
+
+University of California, Davis, Davis, USA 
+
+R. Breedon, G. Breto, M. Calderon De La Barca Sanchez, S. Chauhan, M. Chertok, 
+J. Conway, R. Conway, P.T. Cox, R. Erbacher, G. Funk, M. Gardner, W. Ko, R. Lander, 
+C. Mclean, M. Mulhearn, D. Pellett, J. Pilot, F. Ricci-Tam, S. Shalhout, J. Smith, 
+M. Squires, D. Stolp, M. Tripathi, S. Wilbur, R. Yohay 
+
+University of California, Los Angeles, USA 
+
+R. Cousins, P. Everaerts, A. Florent, J. Hauser, M. Ignatenko, D. Saltzberg, E. Takasugi, 
+V. Valuev, M. Weber 
+
+University of California, Riverside, Riverside, USA 
+
+K. Burt, R. Clare, J. Ellison, J.W. Gary, G. Hanson, J. Heilman, M. Ivova PANEVA, 
+P. Jandir, E. Kennedy, F. Lacroix, O.R. Long, M. Malberti, M. Olmedo Negrete, A. Shrini-
+vas, H. Wei, S. Wimpenny, B. R. Yates 
+
+University of California, San Diego, La Jolla, USA 
+
+J.G. Branson, G.B. Cerati, S. Cittolin, R.T. D'Agnolo, M. Derdzinski, A. Holzner, 
+R. Kelley, D. Klein, J. Letts, I. Macneill, D. Olivito, S. Padhi, M. Pieri, M. Sani, V. Sharma, 
+S. Simon, M. Tadel, A. Vartak, S. Wasserbaech 63 , C. Welke, F. Würthwein, A. Yagil, 
+G. Zevi Della Porta 
+
+University of California, Santa Barbara, Santa Barbara, USA 
+
+J. Bradmiller-Feld, C. Campagnari, A. Dishaw, V. Dutta, K. Flowers, M. Franco Sevilla, 
+P. Geffert, C. George, F. Golf, L. Gouskos, J. Gran, J. Incandela, N. Mccoll, S.D. Mullin, 
+J. Richman, D. Stuart, I. Suarez, C. West, J. Yoo 
+
+California Institute of Technology, Pasadena, USA 
+
+D. Anderson, A. Apresyan, A. Bornheim, J. Bunn, Y. Chen, J. Duarte, A. Mott, 
+H.B. Newman, C. Pena, M. Spiropulu, J.R. Vlimant, S. Xie, R.Y. Zhu 
+
+Carnegie Mellon University, Pittsburgh, USA 
+
+M.B. Andrews, V. Azzolini, A. Calamba, B. Carlson, T. Ferguson, M. Paulini, J. Russ, 
+M. Sun, H. Vogel, I. Vorobiev 
+
+University of Colorado Boulder, Boulder, USA 
+
+J.P. Cumalat, W.T. Ford, A. Gaz, F. Jensen, A. Johnson, M. Krohn, T. Mulholland, 
+U. Nauenberg, K. Stenson, S.R. Wagner 
+
+Cornell University, Ithaca, USA 
+
+J. Alexander, A. Chatterjee, J. Chaves, J. Chu, S. Dittmer, N. Eggert, N. Mirman, 
+G. Nicolas Kaufman, J.R. Patterson, A. Rinkevicius, A. Ryd, L. Skinnari, L. Soffi, W. Sun, 
+S.M. Tan, W.D. Teo, J. Thom, J. Thompson, J. Tucker, Y. Weng, P. Wittich 
+
+-33 -
+
+
+JHEP09(2016)027 
+
+Fermi National Accelerator Laboratory, Batavia, USA 
+S. Abdullin, M. Albrow, G. Apollinari, S. Banerjee, L.A.T. Bauerdick, A. Beretvas, 
+J. Berryhill, P.C. Bhat, G. Bolla, K. Burkett, J.N. Butler, H.W.K. Cheung, F. Chle-
+bana, S. Cihangir, V.D. Elvira, I. Fisk, J. Freeman, E. Gottschalk, L. Gray, D. Green, 
+S. Grünendahl, O. Gutsche, J. Hanlon, D. Hare, R.M. Harris, S. Hasegawa, J. Hirschauer, 
+Z. Hu, B. Jayatilaka, S. Jindariani, M. Johnson, U. Joshi, B. Klima, B. Kreis, S. Lammel, 
+J. Lewis, J. Linacre, D. Lincoln, R. Lipton, T. Liu, R. Lopes De Sá, J. Lykken, 
+K. Maeshima, J.M. Marraffino, S. Maruyama, D. Mason, P. McBride, P. Merkel, S. Mrenna, 
+S. Nahn, C. Newman-Holmes  † , V. O'Dell, K. Pedro, O. Prokofyev, G. Rakness, E. Sexton-
+Kennedy, A. Soha, W.J. Spalding, L. Spiegel, S. Stoynev, N. Strobbe, L. Taylor, S. Tkaczyk, 
+N.V. Tran, L. Uplegger, E.W. Vaandering, C. Vernieri, M. Verzocchi, R. Vidal, M. Wang, 
+H.A. Weber, A. Whitbeck 
+
+University of Florida, Gainesville, USA 
+D. Acosta, P. Avery, P. Bortignon, D. Bourilkov, A. Brinkerhoff, A. Carnes, M. Carver, 
+D. Curry, S. Das, R.D. Field, I.K. Furic, J. Konigsberg, A. Korytov, K. Kotov, P. Ma, 
+K. Matchev, H. Mei, P. Milenovic 64 , G. Mitselmakher, D. Rank, R. Rossin, L. Shchutska, 
+M. Snowball, D. Sperka, N. Terentyev, L. Thomas, J. Wang, S. Wang, J. Yelton 
+
+Florida International University, Miami, USA 
+S. Hewamanage, S. Linn, P. Markowitz, G. Martinez, J.L. Rodriguez 
+
+Florida State University, Tallahassee, USA 
+A. Ackert, J.R. Adams, T. Adams, A. Askew, S. Bein, J. Bochenek, B. Diamond, J. Haas, 
+S. Hagopian, V. Hagopian, K.F. Johnson, A. Khatiwada, H. Prosper, M. Weinberg 
+
+Florida Institute of Technology, Melbourne, USA 
+M.M. Baarmand, V. Bhopatkar, S. Colafranceschi 65 , M. Hohlmann, H. Kalakhety, D. Noo-
+nan, T. Roy, F. Yumiceva 
+
+University of Illinois at Chicago (UIC), Chicago, USA 
+M.R. Adams, L. Apanasevich, D. Berry, R.R. Betts, I. Bucinskaite, R. Cavanaugh, 
+O. Evdokimov, L. Gauthier, C.E. Gerber, D.J. Hofman, P. Kurt, C. O'Brien, I.D. Sandoval 
+Gonzalez, P. Turner, N. Varelas, Z. Wu, M. Zakaria, J. Zhang 
+
+The University of Iowa, Iowa City, USA 
+B. Bilki 66 , W. Clarida, K. Dilsiz, S. Durgut, R.P. Gandrajula, M. Haytmyradov, V. Khris-
+tenko, J.-P. Merlo, H. Mermerkaya 67 , A. Mestvirishvili, A. Moeller, J. Nachtman, H. Ogul, 
+Y. Onel, F. Ozok 68 , A. Penzo, C. Snyder, E. Tiras, J. Wetzel, K. Yi 
+
+Johns Hopkins University, Baltimore, USA 
+I. Anderson, B.A. Barnett, B. Blumenfeld, A. Cocoros, N. Eminizer, D. Fehling, L. Feng, 
+A.V. Gritsan, P. Maksimovic, M. Osherson, J. Roskes, U. Sarica, M. Swartz, M. Xiao, 
+Y. Xin, C. You 
+
+The University of Kansas, Lawrence, USA 
+P. Baringer, A. Bean, C. Bruner, R.P. Kenny III, D. Majumder, M. Malek, W. Mcbrayer, 
+M. Murray, S. Sanders, R. Stringer, Q. Wang 
+
+-34 -
+
+
+JHEP09(2016)027 
+
+Kansas State University, Manhattan, USA 
+
+A. Ivanov, K. Kaadze, S. Khalil, M. Makouski, Y. Maravin, A. Mohammadi, L.K. Saini, 
+N. Skhirtladze, S. Toda 
+
+Lawrence Livermore National Laboratory, Livermore, USA 
+
+D. Lange, F. Rebassoo, D. Wright 
+
+University of Maryland, College Park, USA 
+
+C. Anelli, A. Baden, O. Baron, A. Belloni, B. Calvert, S.C. Eno, C. Ferraioli, J.A. Gomez, 
+N.J. Hadley, S. Jabeen, R.G. Kellogg, T. Kolberg, J. Kunkle, Y. Lu, A.C. Mignerey, 
+Y.H. Shin, A. Skuja, M.B. Tonjes, S.C. Tonwar 
+
+Massachusetts Institute of Technology, Cambridge, USA 
+
+A. Apyan, R. Barbieri, A. Baty, R. Bi, K. Bierwagen, S. Brandt, W. Busza, I.A. Cali, 
+Z. Demiragli, L. Di Matteo, G. Gomez Ceballos, M. Goncharov, D. Gulhan, Y. Iiyama, 
+G.M. Innocenti, M. Klute, D. Kovalskyi, Y.S. Lai, Y.-J. Lee, A. Levin, P.D. Luckey, 
+A.C. Marini, C. Mcginn, C. Mironov, S. Narayanan, X. Niu, C. Paus, C. Roland, G. Roland, 
+J. Salfeld-Nebgen, G.S.F. Stephans, K. Sumorok, K. Tatar, M. Varma, D. Velicanu, 
+J. Veverka, J. Wang, T.W. Wang, B. Wyslouch, M. Yang, V. Zhukova 
+
+University of Minnesota, Minneapolis, USA 
+
+A.C. Benvenuti, B. Dahmes, A. Evans, A. Finkel, A. Gude, P. Hansen, S. Kalafut, S.C. Kao, 
+K. Klapoetke, Y. Kubota, Z. Lesko, J. Mans, S. Nourbakhsh, N. Ruckstuhl, R. Rusack, 
+N. Tambe, J. Turkewitz 
+
+University of Mississippi, Oxford, USA 
+
+J.G. Acosta, S. Oliveros 
+
+University of Nebraska-Lincoln, Lincoln, USA 
+
+E. Avdeeva, R. Bartek, K. Bloom, S. Bose, D.R. Claes, A. Dominguez, C. Fangmeier, 
+R. Gonzalez Suarez, R. Kamalieddin, D. Knowlton, I. Kravchenko, F. Meier, J. Monroy, 
+F. Ratnikov, J.E. Siado, G.R. Snow 
+
+State University of New York at Buffalo, Buffalo, USA 
+
+M. Alyari, J. Dolen, J. George, A. Godshalk, C. Harrington, I. Iashvili, J. Kaisen, 
+A. Kharchilava, A. Kumar, S. Rappoccio, B. Roozbahani 
+
+Northeastern University, Boston, USA 
+
+G. Alverson, E. Barberis, D. Baumgartel, M. Chasco, A. Hortiangtham, A. Massironi, 
+D.M. Morse, D. Nash, T. Orimoto, R. Teixeira De Lima, D. Trocino, R.-J. Wang, D. Wood, 
+J. Zhang 
+
+Northwestern University, Evanston, USA 
+
+S. Bhattacharya, K.A. Hahn, A. Kubik, J.F. Low, N. Mucia, N. Odell, B. Pollack, 
+M. Schmitt, K. Sung, M. Trovato, M. Velasco 
+
+-35 -
+
+
+JHEP09(2016)027 
+
+University of Notre Dame, Notre Dame, USA 
+
+N. Dev, M. Hildreth, C. Jessop, D.J. Karmgard, N. Kellams, K. Lannon, N. Marinelli, 
+F. Meng, C. Mueller, Y. Musienko 37 , M. Planer, A. Reinsvold, R. Ruchti, G. Smith, 
+S. Taroni, N. Valls, M. Wayne, M. Wolf, A. Woodard 
+
+The Ohio State University, Columbus, USA 
+
+L. Antonelli, J. Brinson, B. Bylsma, L.S. Durkin, S. Flowers, A. Hart, C. Hill, R. Hughes, 
+W. Ji, T.Y. Ling, B. Liu, W. Luo, D. Puigh, M. Rodenburg, B.L. Winer, H.W. Wulsin 
+
+Princeton University, Princeton, USA 
+
+O. Driga, P. Elmer, J. Hardenbrook, P. Hebda, S.A. Koay, P. Lujan, D. Marlow, 
+T. Medvedeva, M. Mooney, J. Olsen, C. Palmer, P. Piroué, D. Stickland, C. Tully, 
+A. Zuranski 
+
+University of Puerto Rico, Mayaguez, USA 
+
+S. Malik 
+
+Purdue University, West Lafayette, USA 
+
+A. Barker, V.E. Barnes, D. Benedetti, D. Bortoletto, L. Gutay, M.K. Jha, M. Jones, 
+A.W. Jung, K. Jung, A. Kumar, D.H. Miller, N. Neumeister, B.C. Radburn-Smith, X. Shi, 
+I. Shipsey, D. Silvers, J. Sun, A. Svyatkovskiy, F. Wang, W. Xie, L. Xu 
+
+Purdue University Calumet, Hammond, USA 
+
+N. Parashar, J. Stupak 
+
+Rice University, Houston, USA 
+
+A. Adair, B. Akgun, Z. Chen, K.M. Ecklund, F.J.M. Geurts, M. Guilbaud, W. Li, 
+B. Michlin, M. Northup, B.P. Padley, R. Redjimi, J. Roberts, J. Rorie, Z. Tu, J. Zabel 
+
+University of Rochester, Rochester, USA 
+
+B. Betchart, A. Bodek, P. de Barbaro, R. Demina, Y. Eshaq, T. Ferbel, M. Galanti, 
+A. Garcia-Bellido, J. Han, O. Hindrichs, A. Khukhunaishvili, K.H. Lo, P. Tan, M. Verzetti 
+
+Rutgers, The State University of New Jersey, Piscataway, USA 
+
+J.P. Chou, E. Contreras-Campana, D. Ferencek, Y. Gershtein, E. Halkiadakis, M. Heindl, 
+D. Hidas, E. Hughes, S. Kaplan, R. Kunnawalkam Elayavalli, A. Lath, K. Nash, H. Saka, 
+S. Salur, S. Schnetzer, D. Sheffield, S. Somalwar, R. Stone, S. Thomas, P. Thomassen, 
+M. Walker 
+
+University of Tennessee, Knoxville, USA 
+
+M. Foerster, G. Riley, K. Rose, S. Spanier, K. Thapa 
+
+Texas A&amp;M University, College Station, USA 
+
+O. Bouhali 69 , A. Castaneda Hernandez 69 , A. Celik, M. Dalchenko, M. De Mattia, A. Del-
+gado, S. Dildick, R. Eusebi, J. Gilmore, T. Huang, T. Kamon 70 , V. Krutelyov, R. Mueller, 
+I. Osipenkov, Y. Pakhotin, R. Patel, A. Perloff, A. Rose, A. Safonov, A. Tatarinov, 
+K.A. Ulmer 2 
+
+-36 -
+
+
+JHEP09(2016)027 
+
+Texas Tech University, Lubbock, USA 
+N. Akchurin, C. Cowden, J. Damgov, C. Dragoiu, P.R. Dudero, J. Faulkner, S. Kunori, 
+K. Lamichhane, S.W. Lee, T. Libeiro, S. Undleeb, I. Volobouev 
+
+Vanderbilt University, Nashville, USA 
+E. Appelt, A.G. Delannoy, S. Greene, A. Gurrola, R. Janjam, W. Johns, C. Maguire, 
+Y. Mao, A. Melo, H. Ni, P. Sheldon, S. Tuo, J. Velkovska, Q. Xu 
+
+University of Virginia, Charlottesville, USA 
+M.W. Arenton, B. Cox, B. Francis, J. Goodell, R. Hirosky, A. Ledovskoy, H. Li, C. Lin, 
+C. Neu, T. Sinthuprasith, X. Sun, Y. Wang, E. Wolfe, J. Wood, F. Xia 
+
+Wayne State University, Detroit, USA 
+C. Clarke, R. Harr, P.E. Karchin, C. Kottachchi Kankanamge Don, P. Lamichhane, 
+J. Sturdy 
+
+University of Wisconsin -Madison, Madison, WI, USA 
+D.A. Belknap, D. Carlsmith, M. Cepeda, S. Dasu, L. Dodd, S. Duric, B. Gomber, 
+M. Grothe, M. Herndon, A. Hervé, P. Klabbers, A. Lanaro, A. Levine, K. Long, R. Loveless, 
+A. Mohapatra, I. Ojalvo, T. Perry, G.A. Pierro, G. Polese, T. Ruggles, T. Sarangi, A. Savin, 
+A. Sharma, N. Smith, W.H. Smith, D. Taylor, P. Verwilligen, N. Woods 
+
+ †: Deceased 
+1: Also at Vienna University of Technology, Vienna, Austria 
+2: Also at CERN, European Organization for Nuclear Research, Geneva, Switzerland 
+3: Also at State Key Laboratory of Nuclear Physics and Technology, Peking University, Beijing, 
+China 
+4: Also at Institut Pluridisciplinaire Hubert Curien, Université de Strasbourg, Université de 
+Haute Alsace Mulhouse, CNRS/IN2P3, Strasbourg, France 
+5: Also at National Institute of Chemical Physics and Biophysics, Tallinn, Estonia 
+6: Also at Skobeltsyn Institute of Nuclear Physics, Lomonosov Moscow State University, 
+Moscow, Russia 
+7: Also at Universidade Estadual de Campinas, Campinas, Brazil 
+8: Also at Centre National de la Recherche Scientifique (CNRS) -IN2P3, Paris, France 
+9: Also at Laboratoire Leprince-Ringuet, Ecole Polytechnique, IN2P3-CNRS, Palaiseau, France 
+10: Also at Joint Institute for Nuclear Research, Dubna, Russia 
+11: Also at Ain Shams University, Cairo, Egypt 
+12: Also at Zewail City of Science and Technology, Zewail, Egypt 
+13: Also at British University in Egypt, Cairo, Egypt 
+14: Also at Université de Haute Alsace, Mulhouse, France 
+15: Also at Tbilisi State University, Tbilisi, Georgia 
+16: Also at RWTH Aachen University, III. Physikalisches Institut A, Aachen, Germany 
+17: Also at University of Hamburg, Hamburg, Germany 
+18: Also at Brandenburg University of Technology, Cottbus, Germany 
+19: Also at Institute of Nuclear Research ATOMKI, Debrecen, Hungary 
+20: Also at Eötvös Loránd University, Budapest, Hungary 
+21: Also at University of Debrecen, Debrecen, Hungary 
+
+-37 -
+
+
+JHEP09(2016)027 
+
+22: Also at Wigner Research Centre for Physics, Budapest, Hungary 
+23: Also at Indian Institute of Science Education and Research, Bhopal, India 
+24: Also at University of Visva-Bharati, Santiniketan, India 
+25: Now at King Abdulaziz University, Jeddah, Saudi Arabia 
+26: Also at University of Ruhuna, Matara, Sri Lanka 
+27: Also at Isfahan University of Technology, Isfahan, Iran 
+28: Also at University of Tehran, Department of Engineering Science, Tehran, Iran 
+29: Also at Plasma Physics Research Center, Science and Research Branch, Islamic Azad 
+University, Tehran, Iran 
+30: Also at Università degli Studi di Siena, Siena, Italy 
+31: Also at Purdue University, West Lafayette, USA 
+32: Now at Hanyang University, Seoul, Korea 
+33: Also at International Islamic University of Malaysia, Kuala Lumpur, Malaysia 
+34: Also at Malaysian Nuclear Agency, MOSTI, Kajang, Malaysia 
+35: Also at Consejo Nacional de Ciencia y Tecnología, Mexico city, Mexico 
+36: Also at Warsaw University of Technology, Institute of Electronic Systems, Warsaw, Poland 
+37: Also at Institute for Nuclear Research, Moscow, Russia 
+38: Now at National Research Nuclear University 'Moscow Engineering Physics Insti-
+tute' (MEPhI), Moscow, Russia 
+39: Also at St. Petersburg State Polytechnical University, St. Petersburg, Russia 
+40: Also at California Institute of Technology, Pasadena, USA 
+41: Also at Faculty of Physics, University of Belgrade, Belgrade, Serbia 
+42: Also at INFN Sezione di Roma; Università di Roma, Roma, Italy 
+43: Also at National Technical University of Athens, Athens, Greece 
+44: Also at Scuola Normale e Sezione dell'INFN, Pisa, Italy 
+45: Also at National and Kapodistrian University of Athens, Athens, Greece 
+46: Also at Institute for Theoretical and Experimental Physics, Moscow, Russia 
+47: Also at Albert Einstein Center for Fundamental Physics, Bern, Switzerland 
+48: Also at Gaziosmanpasa University, Tokat, Turkey 
+49: Also at Mersin University, Mersin, Turkey 
+50: Also at Cag University, Mersin, Turkey 
+51: Also at Piri Reis University, Istanbul, Turkey 
+52: Also at Adiyaman University, Adiyaman, Turkey 
+53: Also at Ozyegin University, Istanbul, Turkey 
+54: Also at Izmir Institute of Technology, Izmir, Turkey 
+55: Also at Marmara University, Istanbul, Turkey 
+56: Also at Kafkas University, Kars, Turkey 
+57: Also at Istanbul Bilgi University, Istanbul, Turkey 
+58: Also at Yildiz Technical University, Istanbul, Turkey 
+59: Also at Hacettepe University, Ankara, Turkey 
+60: Also at Rutherford Appleton Laboratory, Didcot, United Kingdom 
+61: Also at School of Physics and Astronomy, University of Southampton, Southampton, United 
+Kingdom 
+62: Also at Instituto de Astrofísica de Canarias, La Laguna, Spain 
+63: Also at Utah Valley University, Orem, USA 
+64: Also at University of Belgrade, Faculty of Physics and Vinca Institute of Nuclear Sciences, 
+Belgrade, Serbia 
+65: Also at Facoltà Ingegneria, Università di Roma, Roma, Italy 
+
+-38 -
+
+
+JHEP09(2016)027 
+
+66: Also at Argonne National Laboratory, Argonne, USA 
+67: Also at Erzincan University, Erzincan, Turkey 
+68: Also at Mimar Sinan University, Istanbul, Istanbul, Turkey 
+69: Also at Texas A&amp;M University at Qatar, Doha, Qatar 
+70: Also at Kyungpook National University, Daegu, Korea 
+
+-39 -
+
+
+
+	
+

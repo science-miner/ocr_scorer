@@ -1,0 +1,9 @@
+**/.DS_Store
+**/__pycache__
+__pycache__
+**/.ipynb_checkpoints/*
+env
+my_config.yaml
+ocr_scorer.egg-info/
+ocr_scorer.log
+client.log

@@ -1,0 +1,1273 @@
+
+	
+
+		
+
+	
+
+	
+
+University of Groningen 
+
+Measurement of the absolute branching fraction for Lambda(+)(c) -&gt; Lambda mu(+)nu(mu) 
+
+Haddadi, Z.; Kalantar-Nayestanaki, N.; Kavatsyuk, M.; Löhner, H.; Messchendorp, J. G.; 
+Tiemens, M.; BESIII Collaboration 
+
+Published in: 
+Physics Letters B 
+
+DOI: 
+10.1016/j.physletb.2017.01.047 
+
+IMPORTANT NOTE: You are advised to consult the publisher's version (publisher's PDF) if you wish to cite from 
+it. Please check the document version below. 
+
+Document Version 
+Publisher's PDF, also known as Version of record 
+
+Publication date: 
+2017 
+
+Link to publication in University of Groningen/UMCG research database 
+
+Citation for published version (APA): 
+Haddadi, Z., Kalantar-Nayestanaki, N., Kavatsyuk, M., Löhner, H., Messchendorp, J. G., Tiemens, M., &amp; 
+BESIII Collaboration (2017). Measurement of the absolute branching fraction for Lambda(+)(c) -&gt; Lambda 
+mu(+)nu(mu). Physics Letters B, 767, 42-47. https://doi.org/10.1016/j.physletb.2017.01.047 
+
+Copyright 
+Other than for strictly personal use, it is not permitted to download or to forward/distribute the text or part of it without the consent of the 
+author(s) and/or copyright holder(s), unless the work is under an open content license (like Creative Commons). 
+
+Take-down policy 
+If you believe that this document breaches copyright please contact us providing details, and we will remove access to the work immediately 
+and investigate your claim. 
+
+Downloaded from the University of Groningen/UMCG research database (Pure): http://www.rug.nl/research/portal. For technical reasons the 
+number of authors shown on this cover page is limited to 10 maximum. 
+
+Download date: 16-10-2020 
+
+
+Physics Letters B 767 (2017) 42-47 
+
+Contents lists available at ScienceDirect 
+
+Physics Letters B 
+
+www.elsevier.com/locate/physletb 
+
+Measurement of the absolute branching fraction for + 
+
+c → μ + ν μ 
+
+BESIII Collaboration 
+
+M. Ablikim a , M.N. Achasov i,5 , S. Ahmed n , X.C. Ai a , O. Albayrak e , M. Albrecht d , 
+D.J. Ambrose aw , A. Amoroso bb,bd , F.F. An a , Q. An ay,1 , J.Z. Bai a , O. Bakina y , 
+R. Baldini Ferroli t , Y. Ban ag , D.W. Bennett s , J.V. Bennett e , N. Berger x , M. Bertani t , 
+D. Bettoni v , J.M. Bian av , F. Bianchi bb,bd , E. Boger y,3 , I. Boyko y , R.A. Briere e , H. Cai bf , 
+X. Cai a,1 , O. Cakir ap , A. Calcaterra t , G.F. Cao a , S.A. Cetin aq , J.F. Chang a,1 , G. Chelkov y,3,4 , 
+G. Chen a , H.S. Chen a , J.C. Chen a , M.L. Chen a,1 , S. Chen at , S.J. Chen ae , X. Chen a,1 , 
+X.R. Chen ab , Y.B. Chen a,1 , X.K. Chu ag , G. Cibinetto v , H.L. Dai a,1 , J.P. Dai aj , A. Dbeyssi n , 
+D. Dedovich y , Z.Y. Deng a , A. Denig x , I. Denysenko y , M. Destefanis bb,bd , F. De Mori bb,bd , 
+Y. Ding ac , C. Dong af , J. Dong a,1 , L.Y. Dong a , M.Y. Dong a,1 , Z.L. Dou ae , S.X. Du bh , 
+P.F. Duan a , J.Z. Fan ao , J. Fang a,1 , S.S. Fang a , X. Fang ay,1 , Y. Fang a , R. Farinelli v,w , 
+L. Fava bc,bd , F. Feldbauer x , G. Felici t , C.Q. Feng ay,1 , E. Fioravanti v , M. Fritsch n,x , C.D. Fu a , 
+Q. Gao a , X.L. Gao ay,1 , Y. Gao ao , Z. Gao ay,1 , I. Garzia v , K. Goetzen j , L. Gong af , 
+W.X. Gong a,1 , W. Gradl x , M. Greco bb,bd , M.H. Gu a,1 , Y.T. Gu l , Y.H. Guan a , A.Q. Guo a , 
+L.B. Guo ad , R.P. Guo a , Y. Guo a , Y.P. Guo x , Z. Haddadi aa , A. Hafner x , S. Han bf , X.Q. Hao o , 
+F.A. Harris au , K.L. He a , F.H. Heinsius d , T. Held d , Y.K. Heng a,1 , T. Holtmann d , Z.L. Hou a , 
+C. Hu ad , H.M. Hu a , J.F. Hu bb,bd , T. Hu a,1 , Y. Hu a , G.S. Huang ay,1 , J.S. Huang o , X.T. Huang ai , 
+X.Z. Huang ae , Z.L. Huang ac , T. Hussain ba , W. Ikegami Andersson be , Q. Ji a , Q.P. Ji o , X.B. Ji a , 
+X.L. Ji a,1 , L.W. Jiang bf , X.S. Jiang a,1 , X.Y. Jiang af , J.B. Jiao ai , Z. Jiao q , D.P. Jin a,1 , S. Jin a , 
+T. Johansson be , A. Julin av , N. Kalantar-Nayestanaki aa , X.L. Kang a , X.S. Kang af , 
+M. Kavatsyuk aa , B.C. Ke e , P. Kiese x , R. Kliemt j , B. Kloss x , O.B. Kolcu aq,8 , B. Kopf d , 
+M. Kornicer au , A. Kupsc be , W. Kühn z , J.S. Lange z , M. Lara s , P. Larin n , L. Lavezzi bd,a , 
+H. Leithoff x , C. Leng bd , C. Li be , Li Cheng ay,1 , D.M. Li bh , F. Li a,1 , F.Y. Li ag , G. Li a , H.B. Li a , 
+H.J. Li a , J.C. Li a , Jin Li ah , K. Li m , K. Li ai , Lei. Li c, *  , P.R. Li g,at , Q.Y. Li ai , T. Li ai , W.D. Li a , 
+W.G. Li a , X.L. Li ai , X.N. Li a,1 , X.Q. Li af , Y.B. Li b , Z.B. Li an , H. Liang ay,1 , Y.F. Liang al , 
+Y.T. Liang z , G.R. Liao k , D.X. Lin n , B. Liu aj , B.J. Liu a , C.X. Liu a , D. Liu ay,1 , F.H. Liu ak , 
+Fang Liu a , Feng Liu f , H.B. Liu l , H.H. Liu a , H.H. Liu p , H.M. Liu a , J. Liu a , J.B. Liu ay,1 , 
+J.P. Liu bf , J.Y. Liu a , K. Liu ao , K.Y. Liu ac , L.D. Liu ag , P.L. Liu a,1 , Q. Liu at , Q.J. Liu c , S.B. Liu ay,1 , 
+X. Liu ab , Y.B. Liu af , Y.Y. Liu af , Z.A. Liu a,1 , Z.Q. Liu x , H. Loehner aa , X.C. Lou a,1,7 , H.J. Lu q , 
+J.G. Lu a,1 , Y. Lu a , Y.P. Lu a,1 , C.L. Luo ad , M.X. Luo bg , T. Luo au , X.L. Luo a,1 , X.R. Lyu at , 
+F.C. Ma ac , H.L. Ma a , L.L. Ma ai , M.M. Ma a , Q.M. Ma a , T. Ma a , X.N. Ma af , X.Y. Ma a,1 , 
+Y.M. Ma ai , F.E. Maas n , M. Maggiora bb,bd , Q.A. Malik ba , Y.J. Mao ag , Z.P. Mao a , 
+S. Marcello bb,bd , J.G. Messchendorp aa , G. Mezzadri w , J. Min a,1 , T.J. Min a , R.E. Mitchell s , 
+X.H. Mo a,1 , Y.J. Mo f , C. Morales Morales n , N.Yu. Muchnoi i,5 , H. Muramatsu av , P. Musiol d , 
+Y. Nefedov y , F. Nerling j , I.B. Nikolaev i,5 , Z. Ning a,1 , S. Nisar h , S.L. Niu a,1 , X.Y. Niu a , 
+S.L. Olsen ah , Q. Ouyang a,1 , S. Pacetti u , Y. Pan ay,1 , P. Patteri t , M. Pelizaeus d , H.P. Peng ay,1 , 
+K. Peters j,9 , J. Pettersson be , J.L. Ping ad , R.G. Ping a , R. Poling av , V. Prasad a , H.R. Qi b , 
+M. Qi ae , S. Qian a,1 , C.F. Qiao at , L.Q. Qin ai , N. Qin bf , X.S. Qin a , Z.H. Qin a,1 , J.F. Qiu a , 
+
+http://dx.doi.org/10.1016/j.physletb.2017.01.047 
+0370-2693/© 2017 The Author(s). Published by Elsevier B.V. This is an open access article under the CC BY license (http://creativecommons.org/licenses/by/4.0/). Funded by 
+SCOAP 3 . 
+
+
+BESIII Collaboration / Physics Letters B 767 (2017) 42-47 
+
+43 
+
+K.H. Rashid ba , C.F. Redmer x , M. Ripka x , G. Rong a , Ch. Rosner n , X.D. Ruan l , 
+A. Sarantsev y,6 , M. Savrié w , C. Schnier d , K. Schoenning be , W. Shan ag , M. Shao ay,1 , 
+C.P. Shen b , P.X. Shen af , X.Y. Shen a , H.Y. Sheng a , W.M. Song a , X.Y. Song a , S. Sosio bb,bd , 
+S. Spataro bb,bd , G.X. Sun a , J.F. Sun o , S.S. Sun a , X.H. Sun a , Y.J. Sun ay,1 , Y.Z. Sun a , 
+Z.J. Sun a,1 , Z.T. Sun s , C.J. Tang al , X. Tang a , I. Tapan ar , E.H. Thorndike aw , M. Tiemens aa , 
+I. Uman as , G.S. Varner au , B. Wang af , B.L. Wang at , D. Wang ag , D.Y. Wang ag , K. Wang a,1 , 
+L.L. Wang a , L.S. Wang a , M. Wang ai , P. Wang a , P.L. Wang a , W. Wang a,1 , W.P. Wang ay,1 , 
+X.F. Wang ao , Y. Wang am , Y.D. Wang n , Y.F. Wang a,1 , Y.Q. Wang x , Z. Wang a,1 , Z.G. Wang a,1 , 
+Z.H. Wang ay,1 , Z.Y. Wang a , T. Weber x , D.H. Wei k , P. Weidenkaff x , S.P. Wen a , 
+U. Wiedner d , M. Wolke be , L.H. Wu a , L.J. Wu a , Z. Wu a,1 , L. Xia ay,1 , L.G. Xia ao , Y. Xia r , 
+D. Xiao a , H. Xiao az , Z.J. Xiao ad , Y.G. Xie a,1 , Xie Yuehong f , Q.L. Xiu a,1 , G.F. Xu a , J.J. Xu a , 
+L. Xu a , Q.J. Xu m , Q.N. Xu at , X.P. Xu am , L. Yan bb,bd , W.B. Yan ay,1 , W.C. Yan ay,1 , Y.H. Yan r , 
+H.J. Yang aj,10 , H.X. Yang a , L. Yang bf , Y.X. Yang k , M. Ye a,1 , M.H. Ye g , J.H. Yin a , Z.Y. You an , 
+B.X. Yu a,1 , C.X. Yu af , J.S. Yu ab , C.Z. Yuan a , Y. Yuan a , A. Yuncu aq,2 , A.A. Zafar ba , Y. Zeng r , 
+Z. Zeng ay,1 , B.X. Zhang a , B.Y. Zhang a,1 , C.C. Zhang a , D.H. Zhang a , H.H. Zhang an , 
+H.Y. Zhang a,1 , J. Zhang a , J.J. Zhang a , J.L. Zhang a , J.Q. Zhang a , J.W. Zhang a,1 , J.Y. Zhang a , 
+J.Z. Zhang a , K. Zhang a , L. Zhang a , S.Q. Zhang af , X.Y. Zhang ai , Y. Zhang a , Y.H. Zhang a,1 , 
+Y.N. Zhang at , Y.T. Zhang ay,1 , Yu Zhang at , Z.H. Zhang f , Z.P. Zhang ay , Z.Y. Zhang bf , G. Zhao a , 
+J.W. Zhao a,1 , J.Y. Zhao a , J.Z. Zhao a,1 , Lei Zhao ay,1 , Ling Zhao a , M.G. Zhao af , Q. Zhao a , 
+Q.W. Zhao a , S.J. Zhao bh , T.C. Zhao a , Y.B. Zhao a,1 , Z.G. Zhao ay,1 , A. Zhemchugov y,3 , 
+B. Zheng az , J.P. Zheng a,1 , W.J. Zheng ai , Y.H. Zheng at , B. Zhong ad , L. Zhou a,1 , X. Zhou bf , 
+X.K. Zhou ay,1 , X.R. Zhou ay,1 , X.Y. Zhou a , K. Zhu a , K.J. Zhu a,1 , S. Zhu a , S.H. Zhu ax , 
+X.L. Zhu ao , Y.C. Zhu ay,1 , Y.S. Zhu a , Z.A. Zhu a , J. Zhuang a,1 , L. Zotti bb,bd , B.S. Zou a , 
+J.H. Zou a 
+
+a Institute of High Energy Physics, Beijing 100049, People's Republic of China 
+b Beihang University, Beijing 100191, People's Republic of China 
+c Beijing Institute of Petrochemical Technology, Beijing 102617, People's Republic of China 
+d Bochum Ruhr-University, D-44780 Bochum, Germany 
+e Carnegie Mellon University, Pittsburgh, PA 15213, USA 
+f Central China Normal University, Wuhan 430079, People's Republic of China 
+g China Center of Advanced Science and Technology, Beijing 100190, People's Republic of China 
+h COMSATS Institute of Information Technology, Lahore, Defence Road, Off Raiwind Road, 54000 Lahore, Pakistan 
+i G.I. Budker Institute of Nuclear Physics SB RAS (BINP), Novosibirsk 630090, Russia 
+j GSI Helmholtzcentre for Heavy Ion Research GmbH, D-64291 Darmstadt, Germany 
+k Guangxi Normal University, Guilin 541004, People's Republic of China 
+l Guangxi University, Nanning 530004, People's Republic of China 
+m Hangzhou Normal University, Hangzhou 310036, People's Republic of China 
+n Helmholtz Institute Mainz, Johann-Joachim-Becher-Weg 45, D-55099 Mainz, Germany 
+o Henan Normal University, Xinxiang 453007, People's Republic of China 
+p Henan University of Science and Technology, Luoyang 471003, People's Republic of China 
+q Huangshan College, Huangshan 245000, People's Republic of China 
+r Hunan University, Changsha 410082, People's Republic of China 
+s Indiana University, Bloomington, IN 47405, USA 
+t INFN Laboratori Nazionali di Frascati, I-00044, Frascati, Italy 
+u INFN and University of Perugia, I-06100, Perugia, Italy 
+v INFN Sezione di Ferrara, I-44122, Ferrara, Italy 
+w University of Ferrara, I-44122, Ferrara, Italy 
+x Johannes Gutenberg University of Mainz, Johann-Joachim-Becher-Weg 45, D-55099 Mainz, Germany 
+y Joint Institute for Nuclear Research, 141980 Dubna, Moscow region, Russia 
+z Justus-Liebig-Universitaet Giessen, II. Physikalisches Institut, Heinrich-Buff-Ring 16, D-35392 Giessen, Germany 
+aa KVI-CART, University of Groningen, NL-9747 AA Groningen, The Netherlands 
+ab Lanzhou University, Lanzhou 730000, People's Republic of China 
+ac Liaoning University, Shenyang 110036, People's Republic of China 
+ad Nanjing Normal University, Nanjing 210023, People's Republic of China 
+ae Nanjing University, Nanjing 210093, People's Republic of China 
+af Nankai University, Tianjin 300071, People's Republic of China 
+ag Peking University, Beijing 100871, People's Republic of China 
+ah Seoul National University, Seoul, 151-747, Republic of Korea 
+ai Shandong University, Jinan 250100, People's Republic of China 
+aj Shanghai Jiao Tong University, Shanghai 200240, People's Republic of China 
+ak Shanxi University, Taiyuan 030006, People's Republic of China 
+al Sichuan University, Chengdu 610064, People's Republic of China 
+am Soochow University, Suzhou 215006, People's Republic of China 
+an Sun Yat-Sen University, Guangzhou 510275, People's Republic of China 
+ao Tsinghua University, Beijing 100084, People's Republic of China 
+ap Ankara University, 06100 Tandogan, Ankara, Turkey 
+
+
+44 
+
+BESIII Collaboration / Physics Letters B 767 (2017) 42-47 
+
+aq Istanbul Bilgi University, 34060 Eyup, Istanbul, Turkey 
+ar Uludag University, 16059 Bursa, Turkey 
+as Near East University, Nicosia, North Cyprus, Mersin 10, Turkey 
+at University of Chinese Academy of Sciences, Beijing 100049, People's Republic of China 
+au University of Hawaii, Honolulu, HI 96822, USA 
+av University of Minnesota, Minneapolis, MN 55455, USA 
+aw University of Rochester, Rochester, NY 14627, USA 
+ax University of Science and Technology, Liaoning, Anshan 114051, People's Republic of China 
+ay University of Science and Technology of China, Hefei 230026, People's Republic of China 
+az University of South China, Hengyang 421001, People's Republic of China 
+ba University of the Punjab, Lahore 54590, Pakistan 
+bb University of Turin, I-10125, Turin, Italy 
+bc University of Eastern Piedmont, I-15121, Alessandria, Italy 
+bd INFN, I-10125, Turin, Italy 
+be Uppsala University, Box 516, SE-75120 Uppsala, Sweden 
+bf Wuhan University, Wuhan 430072, People's Republic of China 
+bg Zhejiang University, Hangzhou 310027, People's Republic of China 
+bh Zhengzhou University, Zhengzhou 450001, People's Republic of China 
+
+a r t i c l e i n f o 
+a b s t r a c t 
+
+Article history: 
+Received 14 November 2016 
+Received in revised form 18 January 2017 
+Accepted 21 January 2017 
+Available online 27 January 2017 
+Editor: W.-D. Schlatter 
+
+Keywords: 
+
++ 
+
+c 
+
+Semi-leptonic decay 
+Absolute branching fraction 
+BESIII 
+
+We report the first measurement of the absolute branching fraction for + 
+
+c → μ + ν μ . This measurement 
+
+is based on a sample of e + e − annihilation data produced at a center-of-mass energy 
+
+√ 
+s = 4.6 GeV, 
+
+collected with the BESIII detector at the BEPCII storage rings. The sample corresponds to an integrated 
+
+luminosity of 567 pb −1 . The branching fraction is determined to be B( + 
+
+c → μ + ν μ ) = (3.49 ± 
+
+0.46(stat) ± 0.27(syst))%. In addition, we calculate the ratio B( + 
+
+c → μ + ν μ )/B( + 
+c → e + ν e ) to be 
+
+0.96 ± 0.16(stat) ± 0.04(syst). 
+© 2017 The Author(s). Published by Elsevier B.V. This is an open access article under the CC BY license 
+
+(http://creativecommons.org/licenses/by/4.0/). Funded by SCOAP 3 . 
+
+1. Introduction 
+
+Semileptonic (SL) decays of the lightest charmed baryon, + 
+c , 
+provide a stringent test for non-perturbative aspects of the strong 
+interaction theory. The + 
+
+c → 
+
++ ν ( denotes lepton) decay is 
+dominated by the Cabibbo-favored transition c → s + ν , which oc-
+
+curs independently of the spin-zero and isospin-zero spectator ud 
+diquark, to good approximation. This leads to a simpler theoretical 
+description and greater predictive power in the non-perturbative 
+models than in the case for charmed mesons [1]. Predictions of the 
+
+branching fraction (BF) B( + 
+c → 
+
++ ν ) in different theoretical 
+
+models vary over a wide range from 1.4% to 9.2% [2-13], depending 
+on the choice of + 
+c wave function model and the treatment of de-
+cay dynamics. In 2015, BESIII measured the absolute BF for + 
+
+c → 
+
+e + ν e to be B( + 
+c → e + ν e ) = (3.63 ± 0.38 ± 0.20)% [14], which 
+
+disfavors the predictions in Refs. [2,3,5-7] at 95% confidence level. 
+
+It is desirable to confirm the result of B( + 
+
+c → e + ν e ) by mea-
+
+suring the corresponding muonic SL decay BF B( + 
+
+c → μ + ν μ ), 
+
+* Corresponding author. 
+
+E-mail address: lilei2014@bipt.edu.cn (Lei. Li). 
+1 Also at State Key Laboratory of Particle Detection and Electronics, Beijing 
+
+100049, Hefei 230026, People's Republic of China. 
+2 Also at Bogazici University, 34342 Istanbul, Turkey. 
+3 Also at the Moscow Institute of Physics and Technology, Moscow 141700, Russia. 
+4 Also at the Functional Electronics Laboratory, Tomsk State University, Tomsk 
+
+634050, Russia. 
+5 Also at the Novosibirsk State University, Novosibirsk 630090, Russia. 
+6 Also at the NRC "Kurchatov Institute", PNPI, 188300, Gatchina, Russia. 
+7 Also at University of Texas at Dallas, Richardson, TX 75083, USA. 
+8 Also at Istanbul Arel University, 34295 Istanbul, Turkey. 
+9 Also at Goethe University Frankfurt, 60323 Frankfurt am Main, Germany. 
+10 Also at Institute of Nuclear and Particle Physics, Shanghai Key Laboratory for 
+
+Particle Physics and Cosmology, Shanghai 200240, People's Republic of China. 
+
+which provides further test on these theoretical predictions with 
+more experimental data. In addition, lepton universality can be 
+tested by comparing the BFs between the electronic and muonic 
+decay modes. 
+In this paper, we report the first absolute measurement of 
+
+B( + 
+
+c → μ + ν μ ) by analyzing a data sample corresponding to 
+
+an integrated luminosity of 567 pb −1 [15] collected at a center-of-
+mass (c.m.) energy of 
+
+√ 
+s = 4.6 GeV by the BESIII detector at the 
+
+BEPCII collider. This is the largest e + e − collision data sample near 
+the + 
+
+c ¯ − 
+
+c mass threshold. At this energy, the + 
+c is produced in 
+
+association with one ¯ − 
+
+c baryon only, and no other hadrons are 
+
+kinematically allowed. Hence, B( + 
+
+c → μ + ν μ ) can be accessed 
+
+by measuring the relative probability of finding the SL decay when 
+
+the ¯ − 
+
+c is detected in a number of prolific decay channels. This 
+will provide a straightforward and direct BF measurement without 
+requiring knowledge of the total number of + 
+
+c ¯ − 
+
+c pairs produced. 
+In the following, charge conjugated modes are always implied, un-
+less explicitly mentioned. 
+
+2. BESIII detector and Monte Carlo simulation 
+
+The BESIII [16] detector is a cylindrical detector with a solid-
+angle coverage of 93% of 4π that operates at the BEPCII collider. It 
+consists of a Helium-gas based main drift chamber (MDC), a plastic 
+scintillator time-of-flight (TOF) system, a CsI (Tl) electromagnetic 
+calorimeter (EMC), a superconducting solenoid providing a 1.0 T 
+magnetic field and a muon counter. The charged particle momen-
+tum resolution is 0.5% at a transverse momentum of 1 GeV/c. The 
+photon energy resolution in the EMC is 2.5% in the barrel and 5.0% 
+in the end-caps at 1 GeV. More details about the design and per-
+formance of the detector are given in Ref. [16]. 
+A GEANT4-based [17] Monte Carlo (MC) simulation package, 
+which includes the geometric description of the detector and the 
+
+
+BESIII Collaboration / Physics Letters B 767 (2017) 42-47 
+
+45 
+
+Table 1 
+ST decay modes, E requirements and yields (N ¯ − 
+
+c 
+
+) 
+in data. Yields uncertainties are statistical only. 
+
+Mode 
+E (GeV) 
+N ¯ − 
+
+c 
+
+pK 0 
+
+S 
+
+[−0.025, 0.028] 
+
+1066 ± 33 
+
+pK + π − 
+
+[−0.019, 0.023] 
+
+5692 ± 88 
+pK 0 
+
+S π 0 
+
+[−0.035, 0.049] 
+
+593 ± 41 
+
+pK + π − π 0 
+
+[−0.044, 0.052] 
+
+1547 ± 61 
+pK 0 
+
+S π + π − 
+
+[−0.029, 0.032] 
+
+516 ± 34 
+
+¯ π − 
+
+[−0.033, 0.035] 
+
+593 ± 25 
+
+¯ π − π 0 
+
+[−0.037, 0.052] 
+
+1864 ± 56 
+
+¯ π − π + π − 
+
+[−0.028, 0.030] 
+
+674 ± 36 
+
+¯ 0 π − 
+
+[−0.029, 0.032] 
+
+532 ± 30 
+
+¯ − π 0 
+
+[−0.038, 0.062] 
+
+329 ± 28 
+
+¯ − π + π − 
+
+[−0.049, 0.054] 
+
+1009 ± 57 
+
+detector response, is used to determine the detection efficiency 
+and to estimate the potential backgrounds. Signal MC samples of 
+a + 
+
+c baryon decaying only to μ + ν μ together with a ¯ − 
+
+c decay-
+ing to specified modes are generated with the KKMC [18] event 
+generator using EVTGEN [19], taking into account the initial state 
+radiation (ISR) [20] and the final state radiation (FSR) [21] effects. 
+For the simulation of the process + 
+
+c → μ + ν μ , we use the form 
+
+factor obtained using Heavy Quark Effective Theory and QCD sum 
+rules of Ref. [10]. To study backgrounds, inclusive MC samples are 
+simulated, which consist of + 
+
+c ¯ − 
+
+c events, D 
+
+( * ) 
+(s) 
+
+D( * ) 
+(s) + X production 
+
+(i.e., all the allowed charmed meson production channels in the 
+
+c.m. energy), ISR return to the charmonium(-like) ψ states at lower 
+
+masses, and QED processes. The decay modes with measured BFs 
+
+of the c , ψ and D ( * ) 
+
+(s) particles, are simulated with EVTGEN, using 
+as input the BFs of the Particle Data Group (PDG) [22] while the re-
+maining unmeasured decays are generated with LUNDCHARM [23]. 
+
+3. Analysis 
+
+Following the similar technique of the single tag (ST) and dou-
+ble tag (DT) in Ref. [14], we select a data sample (the ST sam-
+
+ple) where a ¯ − 
+
+c baryon candidate is reconstructed in one of the 
+eleven exclusive hadronic decay modes listed in the first column of 
+Table 1, then we search in this sample for + 
+
+c → μ + ν μ candi-
+
+dates, which are reconstructed using the remaining tracks recoiling 
+
+against the ST ¯ − 
+
+c candidate. The events where a pair of + 
+
+c ¯ − 
+
+c is 
+reconstructed are the DT sample. 
+In the ST sample, the intermediate particles of the K 0 
+
+S , ¯ , ¯ 0 , 
+
+¯ − and π 0 are reconstructed through their decays K 0 
+S → π + π − , 
+¯ → pπ + , ¯ 0 → γ ¯ with ¯ → pπ + , ¯ − → pπ 0 and π 0 → γ γ , 
+
+respectively. The detailed selection criteria for charged and neutral 
+
+tracks, π 0 , K 0 
+
+S and ¯ candidates used in the reconstruction of tags 
+are described in Ref. [14]. The ST ¯ − 
+
+c signals are identified using 
+
+the beam energy constrained mass, M BC = E 2 
+beam /c 4 − | p ¯ − 
+c | 2 /c 2 , 
+
+where E beam is the beam energy and p ¯ − 
+
+c 
+
+is the momentum of 
+
+the ¯ − 
+
+c candidate. To improve the signal purity, the energy dif-
+ference 
+
+E = E beam − E ¯ − 
+
+c 
+
+for each candidate is required to be 
+
+within ±3σ E around the E peak, where σ E is the E resolu-
+
+tion and E ¯ − 
+
+c 
+
+is the reconstructed ¯ − 
+
+c energy. Table 1 shows the 
+mode dependent E requirements and the ST yields in the M BC 
+
+signal region (2.280, 2.296) GeV/c 2 , which are obtained by a fit to 
+
+the M BC distributions. The detailed process to extract the ST signal 
+yields is described in Ref. [14]. The total ST yield summed over all 
+11 modes is N tot 
+
+¯ − 
+
+c 
+
+= 14415 ± 159, where the uncertainty is statisti-
+
+cal only. 
+The 
+
+candidate from the ¯ − 
+
+c decays is formed from a pπ − 
+combination that is constrained by a common vertex fit to have a 
+positive decay length L [14]. If multiple 
+candidates are formed, 
+
+the one with the largest L/σ L is retained, where σ L is the resolu-
+
+tion of the measured L. Particle identification (PID) is performed 
+using probabilities derived combining the measurements of the 
+specific energy loss dE/dx by the MDC, the time of flight by the 
+
+TOF, and of the energy by the EMC; a μ candidate is required to 
+
+satisfy L μ &gt; 0.001, L μ &gt; L e and L μ &gt; L K , where L μ , L e , and 
+L K are the probabilities for a muon, electron, and kaon, respec-
+
+tively. 
+Studies on the inclusive MC samples show that the backgrounds 
+are dominated by + 
+
+c → π + , 0 π + and π + π 0 . Backgrounds 
+
+from 
+
++ 
+
+c → π + and + 
+c → 0 π + are rejected by requiring 
+the μ + invariant mass, M μ + , less than 2.12 GeV/c 2 . The back-
+
+ground from + 
+
+c → π + π 0 is suppressed by requiring the largest 
+
+energy of any unused photons E γ max be less than 0.25 GeV and 
+the deposited energy for the muon candidate in the EMC be less 
+than 0.30 GeV. 
+Since the neutrino is not detected, we employ the kinematic 
+
+variable U miss ≡ E miss − c| p miss | to identify the neutrino signal, 
+
+where E miss and p miss are the missing energy and momentum car-
+
+ried by the neutrino, respectively. They are calculated as E miss = 
+E beam − E − E μ + and p miss = p + 
+c − p − p μ + , where p + 
+
+c 
+
+is the 
+
+momentum of the + 
+c baryon, E ( p ) and E μ + ( p μ + ) are the 
+energies (momenta) of the 
+
+and μ + , respectively. Here, the mo-
+
+mentum p + 
+
+c 
+
+is given by p + 
+
+c = − ptag E 2 
+beam /c 2 − m 2 
+
+¯ − 
+
+c 
+
+c 2 , where 
+
+ptag is the momentum direction of the ST ¯ − 
+
+c and m ¯ − 
+
+c 
+
+is the 
+
+nominal ¯ − 
+
+c mass [22]. For the signal events, the U miss distribu-
+tion is expected to peak at zero. 
+The distribution of the pπ − invariant mass M pπ − versus 
+U miss for the 
+
++ 
+
+c → μ + ν μ candidates in data is shown in 
+
+Fig. 1 (a), where a cluster around the signal region is evi-
+dent. After requiring M pπ − to be within the 
+signal region 
+
+(1.110, 1.121) GeV/c 2 [14], the projection of U miss is shown in 
+
+Fig. 1(b). Two bumps, which correspond to the signal peak (left 
+side) and background + 
+
+c → π + π 0 (right side), are visible. Ac-
+
+cording to MC simulations, the survival rate of the background pro-
+cess + 
+
+c → π + π 0 is estimated to be η π + π 0 = (3.67 ± 0.05)%, 
+where the BFs for → pπ − and π 0 → γ γ are included. Thus, the 
+
+number of the + 
+
+c → π + π 0 background events can be estimated 
+
+by: 
+
+N 
+
+bkg 
+
+π + π 0 = N tot 
+
+¯ − 
+
+c 
+
+• B( + 
+
+c → π + π 0 ) • η π + π 0 . 
+
+(1) 
+
+Inserting the values of N tot 
+
+¯ − 
+
+c 
+
+, η π + π 0 and B( + 
+c → π + π 0 ) = 
+
+(7.01 ± 0.42)% [24] in Eq. (1), we obtain N 
+
+bkg 
+
+π + π 0 = 37.1 ± 2.3, 
+
+where the uncertainties from N tot 
+
+¯ − 
+
+c 
+
+, η π + π 0 and B( + 
+c → π + π 0 ) 
+
+are included. 
+We apply a fit to the U miss distribution to extract the signal 
+yields. The + 
+
+c → μ + ν μ signal shape is described with a func-
+
+tion f [25], which consists of a Gaussian function to model the 
+core of the U miss distribution and two power law tails to account 
+for the effects of ISR and FSR in the form of 
+
+f (U miss ) = 
+
+⎧ 
+⎪ ⎨ 
+
+⎪ ⎩ 
+
+p 1 ( n 1 
+
+α 1 − α 1 + t) −n 1 , 
+t &gt; α 1 , 
+
+e −t 2 /2 , 
+
+−α 2 &lt; t &lt; α 1 , 
+
+p 2 ( n 2 
+
+α 2 − α 2 − t) −n 2 , 
+
+t &lt; −α 2 . 
+
+(2) 
+
+Here, t ≡ (U miss − U mean )/σ U miss , U mean and σ U miss are the mean 
+
+value and resolution of the Gaussian function, respectively, p 1 ≡ 
+(n 1 /α 1 ) n 1 e −α 2 
+1 /2 and p 2 ≡ (n 2 /α 2 ) n 2 e −α 2 
+
+2 /2 . The parameters α 1 , α 2 , 
+
+n 1 and n 2 are fixed to the values obtained by fitting the signal 
+MC distribution. For backgrounds, a double Gaussian function with 
+parameters fixed according to MC simulations is used to describe 
+the + 
+
+c → π + π 0 peaking background and a MC-derived shape 
+
+
+46 
+
+BESIII Collaboration / Physics Letters B 767 (2017) 42-47 
+
+Fig. 1. (a) Distribution of M pπ − versus U miss for the + 
+
+c → μ + ν μ candidates in data. The area between the dashed lines denotes the signal region and the hatched areas 
+
+indicate the 
+sideband regions. (b) Fit to the U miss distribution within the 
+signal region. Data are shown as dots with error bars. The long-dashed curve (green) shows 
+the + 
+
+c → π + π 0 background contribution while the dot-dashed curve (blue) shows other contributing backgrounds. The thick line (red) shows the distribution resulting 
+
+from the global fit. (For interpretation of the references to color in this figure legend, the reader is referred to the web version of this article.) 
+
+is used to describe other combinatorial backgrounds. In the fit, we 
+fix the number of the + 
+
+c → π + π 0 background events to be es-
+
+timated N 
+
+bkg 
+
+π + π 0 as described above. From the fit, we obtain the 
+number of events of + 
+
+c → μ + ν μ to be N obs 
+
+μ + ν μ = 78.7 ± 10.5, 
+
+where the uncertainty is statistical only. A fit with unconstrained 
+
+N 
+
+bkg 
+
+π + π 0 gives 77.1 ± 11.4 events of signal, which is in good agree-
+
+ment with the estimation when N 
+
+bkg 
+
+π + π 0 is fixed. Based on the 
+data in 
+sidebands in Fig. 1(a), the background events from the 
+non-SL decays are found to be negligible. 
+The absolute BF for + 
+
+c → μ + ν μ is determined by: 
+
+B( + 
+
+c → μ + ν μ ) = 
+
+N obs 
+
+μ + ν μ 
+
+N tot 
+
+¯ − 
+
+c 
+
+• ε μ + ν μ • B( → pπ − ) 
+
+, 
+
+(3) 
+
+where ε μ + ν μ is the detection efficiency for the + 
+c → μ + ν μ 
+
+decay, which does not include the BF for 
+
+→ pπ − . For each ST 
+
+mode i, the efficiency ε i 
+
+μ + ν μ 
+
+is obtained by dividing the DT effi-
+
+ciency ε i 
+
+tag, μ + ν μ 
+
+by the ST efficiency ε i 
+tag . After weighting ε i 
+
+μ + ν μ 
+
+with the ST yields in data for each ST mode i, we determine the 
+
+overall average efficiency ε μ + ν μ = (24.5 ± 0.2)%. By inserting the 
+
+values of N obs 
+
+μ + ν μ 
+
+, N tot 
+
+¯ − 
+
+c 
+
+, ε μ + ν μ and B( → pπ − ) [22] in Eq. (3), 
+
+we obtain B( + 
+
+c → μ + ν μ ) = (3.49 ± 0.46 ± 0.27)%, where the 
+
+first uncertainty is statistical, and the second uncertainty is sys-
+tematic as described below. 
+With the DT technique, the uncertainties on the BF measure-
+ment are insensitive to those originating from the ST side. The 
+
+systematic uncertainties for measuring B( + 
+
+c → μ + ν μ ) mainly 
+
+arise from the uncertainties related to the tracking and PID of 
+the muon candidate, 
+reconstruction, U miss fit, peaking back-
+ground subtraction, E γ max and M μ + requirements, and signal MC 
+modelling. Throughout this paragraph, the systematic uncertain-
+
+ties quoted are relative uncertainties. The uncertainties of the μ + 
+
+tracking and PID are determined to be 1.0% and 2.0%, respectively, 
+
+by studying a control sample of e + e − → (γ )μ + μ − events. The 
+
+uncertainty of the 
+reconstruction is determined to be 2.5% by 
+
+studying a control sample of χ c J → ¯ π + π − decays. The un-
+
+certainty of U miss fit is estimated to be 1.5% obtained by varying 
+the fitting range and evaluating the fluctuation of the non-peaking 
+background shape. The uncertainty due to peaking background 
+
++ 
+
+c → π + π 0 subtraction is estimated to be 2.5% obtained by 
+
+evaluating the variation of N 
+
+bkg 
+
+π + π 0 when the quoted BF is changed 
+
+Table 2 
+Summary of the sources of systematic and of the corre-
+
+sponding relative uncertainties for B( + 
+
+c → μ + ν μ ). 
+
+Source 
+Uncertainty 
+
+μ + tracking 
+
+1.0% 
+
+μ + PID 
+
+2.0% 
+reconstruction 
+2.5% 
+U miss fit 
+1.5% 
+Peaking background + 
+
+c → π + π 0 
+
+2.5% 
+E γ max requirement 
+2.6% 
+M μ + requirement 
+2.0% 
+MC model 
+5.2% 
+
+B( → pπ − ) 
+
+0.8% 
+N tot 
+
+¯ − 
+
+c 
+
+1.0% 
+
+MC statistics 
+0.8% 
+
+Total 
+7.7% 
+
+of ±1σ and the shape derived from MC of the + 
+
+c → π + π 0 is 
+
+smeared with a Gaussian function to accommodate the resolution 
+difference between the data and MC simulation. The uncertainty 
+in the E γ max requirement is estimated to be 2.6% by using a con-
+
+trol sample of e + e − → p pπ + π − events. The uncertainty in the 
+
+M μ + requirement is estimated to be 2.0% by comparing the ob-
+
+tained B( + 
+
+c → μ + ν μ ) under the alternative requirements of 
+
+M μ + &lt; 2.07 GeV/c 2 or M μ + &lt; 2.17 GeV/c 2 with the nominal 
+
+value. The uncertainty due to the MC signal modelling is estimated 
+to be 5.2% by varying the parameterization of the form factor func-
+tion according to Refs. [10,26] and by taking into account the q 2 
+dependence observed in data. In addition, there are systematic un-
+
+certainties from the quoted B( → pπ − ) (0.8%), the N tot 
+
+¯ − 
+
+c 
+
+(1.0%) 
+
+evaluated by using alternative signal shapes in the fits to the M BC 
+spectra [14], and MC statistics (0.8%). All these systematic uncer-
+tainties are summarized in Table 2, and the total systematic un-
+certainty is evaluated to be 7.7% by summing up all the individual 
+contributions in quadrature. 
+
+The ratio of branching fractions B( + 
+
+c → μ + ν μ )/B( + 
+
+c → 
+
+e + ν e ) is calculated combining B( + 
+c → μ + ν μ ) measured in 
+
+this work with B( + 
+
+c → e + ν e ) = (3.63 ± 0.38(stat) ± 0.20(syst))% 
+
+from BESIII [14]. We determine B( + 
+
+c → μ + ν μ )/B( + 
+
+c → 
+
+e + ν e ) to be 0.96 ± 0.16 ± 0.04, where the first uncertainty is 
+
+statistical and the second is systematic. In the ratio, common 
+systematic uncertainties from the tracking efficiency, the 
+re-
+
+construction, the quoted BF for → pπ − , the number of ¯ − 
+
+c tags 
+N tot 
+
+¯ − 
+
+c 
+
+and the MC modelling, cancel out. 
+
+
+BESIII Collaboration / Physics Letters B 767 (2017) 42-47 
+
+47 
+
+4. Summary 
+
+In summary, based on the e + e − collision data corresponding to 
+an integrated luminosity of 567 pb −1 taken at 
+
+√ 
+s = 4.6 GeV with 
+
+the BESIII detector, we report the first direct measurement of the 
+absolute BF for + 
+
+c → μ + ν μ to be (3.49 ± 0.46 ± 0.27)%, where 
+
+the first uncertainty is statistical and the second is systematic. The 
+result is consistent with the value in PDG [22] within 2σ of un-
+certainty, but with improved precision. This study helps to extend 
+our understanding on the mechanism of the + 
+c SL decay. Based 
+on this result and the previous BESIII work [14], we determine 
+
+the ratio B( + 
+
+c → μ + ν μ )/B( + 
+c → e + ν e ) = 0.96 ± 0.16 ± 0.04, 
+
+which is compatible with unity. As the theoretical predictions on 
+
+B( + 
+
+c → + ν ) vary in a large range of 1.4% to 9.2% [2-13], the 
+
+measured B( + 
+
+c → μ + ν μ ) in this work and B( + 
+c → e + ν e ) in 
+
+Ref. [14] provide stringent tests on these non-perturbative mod-
+els, disfavoring the theoretical predictions in Refs. [2,3,5-7] at 95% 
+confidence level. 
+
+Acknowledgements 
+
+The BESIII Collaboration thanks the staff of BEPCII and the 
+IHEP computing center for their strong support. This work is 
+supported in part by National Key Basic Research Program of 
+China under Contract No. 2015CB856700; National Natural Sci-
+ence Foundation of China (NSFC) under Contracts Nos. 11235005, 
+11235011, 11305090, 11322544, 11305180, 11335008, 11425524, 
+11505010; the Chinese Academy of Sciences (CAS) Large-Scale 
+Scientific Facility Program; the CAS Center for Excellence in Par-
+ticle Physics (CCEPP); the Collaborative Innovation Center for Par-
+ticles and Interactions (CICPI); Joint Large-Scale Scientific Facil-
+ity Funds of the NSFC and CAS under Contracts Nos. U1232201, 
+U1332201; CAS under Contracts Nos. KJCX2-YW-N29, KJCX2-YW-
+N45; 100 Talents Program of CAS; National 1000 Talents Pro-
+gram of China; INPAC and Shanghai Key Laboratory for Particle 
+Physics and Cosmology; German Research Foundation DFG un-
+der Contracts Nos. Collaborative Research Center CRC 1044, FOR 
+2359; Istituto Nazionale di Fisica Nucleare, Italy; Joint Large-
+Scale Scientific Facility Funds of the NSFC and CAS under Con-
+tract No. U1532257; Joint Large-Scale Scientific Facility Funds 
+of the NSFC and CAS under Contract No. U1532258; Koninkli-
+jke Nederlandse Akademie van Wetenschappen (KNAW) under 
+Contract No. 530-4CDP03; Ministry of Development of Turkey 
+under Contract No. DPT2006K-120470; NSFC under Contract No. 
+11275266; The Swedish Resarch Council; U.S. Department of En-
+ergy under Contracts Nos. DE-FG02-05ER41374, DE-SC-0010504, 
+DE-SC0012069, DESC0010118; U.S. National Science Foundation; 
+University of Groningen (RuG) and the Helmholtzzentrum fuer 
+Schwerionenforschung GmbH (GSI), Darmstadt; WCU Program 
+of National Research Foundation of Korea under Contract No. 
+R32-2008-000-10155-0. This paper is also supported by the Beijing 
+municipal government under Contracts Nos. KM201610017009, 
+2015000020124G064. 
+
+References 
+
+[1] J.D. Richman, P.R. Burchat, Leptonic and semileptonic decays of charm and 
+bottom hadrons, Rev. Mod. Phys. 67 (1995) 893, http://dx.doi.org/10.1103/ 
+RevModPhys.67.893, arXiv:hep-ph/9508250; 
+E. Eichten, B. Hill, An effective field theory for the calculation of matrix ele-
+ments involving heavy quarks, Phys. Lett. B 234 (1990) 511, http://dx.doi.org/ 
+10.1016/0370-2693(90)92049-O; 
+M. Neubert, Heavy quark symmetry, Phys. Rep. 245 (1994) 259, http:// 
+dx.doi.org/10.1016/0370-1573(94)90091-4, arXiv:hep-ph/9306320. 
+[2] R. Pérez-Marcial, et al., Predictions for semileptonic decays of charm baryons. 
+II. Nonrelativistic and MIT bag quark models, Phys. Rev. D 40 (1989) 2955, 
+http://dx.doi.org/10.1103/PhysRevD.40.2955. 
+
+[3] M. Avila-Aoki, et al., Predictions for semileptonic decays of charm baryons. I. 
+SU(4)-symmetry limit, Phys. Rev. D 40 (1989) 2944, http://dx.doi.org/10.1103/ 
+PhysRevD.40.2944. 
+[4] F. Hussain, et al., Semi-leptonic charm baryon decays in the relativistic 
+spectator quark model, Z. Phys. C 51 (1991) 607, http://dx.doi.org/10.1007/ 
+BF01565586. 
+[5] G.V. Efimov, et al., Predictions for semileptonic decay rates of charmed baryons 
+in the quark confinement model, Z. Phys. C 52 (1991) 149, http://dx.doi.org/ 
+10.1007/BF01412338. 
+[6] Robert Singleton, Semileptonic baryon decays with a heavy quark, Phys. Rev. D 
+43 (1991) 2939, http://dx.doi.org/10.1103/PhysRevD.43.2939. 
+[7] A. Garcia, R. Huerta, Semileptonic decays of charmed baryons, Phys. Rev. D 45 
+(1992) 3266, http://dx.doi.org/10.1103/PhysRevD.45.3266. 
+[8] H.Y. Cheng, B. Tseng, 1/M corrections to baryonic form factors in the 
+quark model, Phys. Rev. D 53 (1995) 1457, http://dx.doi.org/10.1103/PhysRevD. 
+53.1457, arXiv:hep-ph/9502391. 
+[9] H.G. Dosch, et al., QCD sum rules calculation of heavy 
+semileptonic decay, 
+Phys. Lett. B 431 (1998) 173, http://dx.doi.org/10.1016/S0370-2693(98)00566-8, 
+arXiv:hep-ph/9712350. 
+[10] R.S. Marques de Carvalho, et al., Form factors and decay rates for heavy 
+semileptonic decays from QCD sum rules, Phys. Rev. D 60 (1999) 034009, 
+http://dx.doi.org/10.1103/PhysRevD.60.034009, arXiv:hep-ph/9903326. 
+[11] M. Pervin, et al., Semileptonic decays of heavy 
+baryons in a quark model, 
+Phys. Rev. C 72 (2005) 035201, http://dx.doi.org/10.1103/PhysRevC.72.035201, 
+arXiv:nucl-th/0503030. 
+
+[12] Y.L. Liu, et al., Improved analysis on the semileptonic decay c → l + ν l from 
+
+QCD light-cone sum rules, Phys. Rev. D 80 (2009) 074011, http://dx.doi.org/ 
+10.1103/PhysRevD.80.074011, arXiv:0910.1160. 
+[13] T. Gutsche, et al., Semileptonic decays + 
+
+c → l + ν l (l = e, μ) in the covariant 
+
+model and comparison with the new absolute branching fraction mea-
+surements of Belle and BESIII, Phys. Rev. D 93 (2016) 034008, http://dx.doi.org/ 
+10.1103/PhysRevD.93.034008, arXiv:1512.02168. 
+[14] M. Ablikim, et al., BESIII Collaboration, Measurement of the absolute branching 
+fraction for + 
+
+c → e + ν e , Phys. Rev. Lett. 115 (2015) 221805, http://dx.doi.org/ 
+
+10.1103/PhysRevLett.115.221805, arXiv:1510.02610. 
+[15] M. Ablikim, et al., BESIII Collaboration, Precision measurement of the inte-
+grated luminosity of the data taken by BESIII at center-of-mass energies be-
+tween 3.810 GeV and 4.600 GeV, Chin. Phys. C 39 (2015) 093001, http:// 
+iopscience.iop.org/1674-1137/39/9/093001, arXiv:1503.03408. 
+[16] M. Ablikim, et al., BESIII Collaboration, Design and construction of the BESIII 
+detector, Nucl. Instrum. Methods Phys. Res., Sect. A, Accel. Spectrom. Detect. 
+Assoc. Equip. 614 (2010) 345, http://dx.doi.org/10.1016/j.nima.2009.12.050, 
+arXiv:0911.4960. 
+[17] S. Agostinelli, et al., GEANT4 Collaboration, GEANT4 -a simulation toolkit, 
+Nucl. Instrum. Methods Phys. Res., Sect. A, Accel. Spectrom. Detect. Assoc. 
+Equip. 506 (2003) 250, http://dx.doi.org/10.1016/S0168-9002(03)01368-8. 
+[18] S. Jadach, B.F.L. Ward, Z. Was, The precision Monte Carlo event generator K K 
+for two-fermion final states in e + e − collisions, Comput. Phys. Commun. 130 
+(2000) 260, http://dx.doi.org/10.1016/S0010-4655(00)00048-5, arXiv:hep-ph/ 
+9912214; 
+S. Jadach, B.F.L. Ward, Z. Was, Coherent exclusive exponentiation for preci-
+sion Monte Carlo calculations, Phys. Rev. D 63 (2001) 113009, http://dx.doi.org/ 
+10.1103/PhysRevD.63.113009, arXiv:hep-ph/0006359. 
+[19] D.J. Lange, The EvtGen particle decay simulation package, Nucl. Instrum. Meth-
+ods Phys. Res., Sect. A, Accel. Spectrom. Detect. Assoc. Equip. 462 (2001) 152, 
+http://dx.doi.org/10.1016/S0168-9002(01)00089-4. 
+[20] E.A. Kuraev, V.S. Fadin, Radiative corrections to the cross section for single-
+photon annihilation of an e + e − pair at high energy, Sov. J. Nucl. Phys. 41 
+(1985) 466. 
+
+[21] E. Richter-Was, QED bremsstrahlung in semileptonic B and leptonic τ decays, 
+
+Phys. Lett. B 303 (1993) 163, http://dx.doi.org/10.1016/0370-2693(93)90062-M; 
+E. Barberio, Z. Was, PHOTOS -a universal Monte Carlo for QED radiative cor-
+rections: version 2.0, Comput. Phys. Commun. 79 (1994) 291, http://dx.doi.org/ 
+10.1016/0010-4655(94)90074-4. 
+[22] K.A. Olive, et al., Particle Data Group, Chin. Phys. C 38 (2014) 090001, and 2015 
+update, http://pdg.lbl.gov/2015/tables/contents_tables.html. 
+
+[23] J.C. Chen, G.S. Huang, X.R. Qi, D.H. Zhang, Y.S. Zhu, Event generator for J /ψ 
+and ψ(2S) decay, Phys. Rev. D 62 (2000) 034003, http://dx.doi.org/10.1103/ 
+
+PhysRevD.62.034003. 
+[24] M. Ablikim, et al., BESIII Collaboration, Measurements of absolute hadronic 
+branching fractions of the + 
+c baryon, Phys. Rev. Lett. 116 (2016) 052001, 
+http://dx.doi.org/10.1103/PhysRevLett.116.052001, arXiv:1511.08380. 
+
+[25] J.Y. Ge, et al., CLEO Collaboration, Study of D 0 → π − e + ν e , D + → π 0 e + ν e , 
+D 0 → K − e + ν e , and D 0 → K 0 e + ν e in tagged decays of the ψ(3770) resonance, 
+
+Phys. Rev. D 79 (2009) 052010, http://dx.doi.org/10.1103/PhysRevD.79.052010, 
+arXiv:0810.3878. 
+[26] J.W. Hinson, et al., CLEO Collaboration, Improved measurement of the form 
+factors in the decay 
+
++ 
+
+c → e + ν e , Phys. Rev. Lett. 94 (2005) 191801, 
+
+http://dx.doi.org/10.1103/PhysRevLett.94.191801, arXiv:hep-ex/0501002. 
+
+
+
+	
+
