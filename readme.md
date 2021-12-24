@@ -8,7 +8,7 @@ Build-in languages are currently English, French and German. To add more languag
 
 ## Implementation
 
-This is a Keras/TensorFlow character language model implementation using as architecture:
+Keras/TensorFlow character language model implementation using as architecture:
 
 - a 2 layers vanilla LSTM with (dynamic) Monte Carlo Dropout
 
