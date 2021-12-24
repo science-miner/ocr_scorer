@@ -36,8 +36,8 @@ class ModelScorer(object):
     use_spatial_information = False
 
     # model parameters (to be managed with a dedicated config)
-    batch_size = 128
-    max_length = 40
+    batch_size = 256
+    max_length = 128
     epochs = 40
     voc_size = 0
     UNK = 0
@@ -123,6 +123,9 @@ class ModelScorer(object):
                     else:
                         target = self.char_indices[next_chars[batch_idx]]
                     preds.append(predictions[batch_idx,target])
+        if len(preds) == 0:
+            return 0
+
         # move to log for additive semiring
         log_pred = np.log(np.array(preds))
         total_pred = np.sum(log_pred)
@@ -136,9 +139,17 @@ class ModelScorer(object):
             X[0, i, self.char_indices[text[i]]] = 1
         return self.model.predict(X)
 
-    def read_batch(self):
+    def read_batch(self, training=True):
+        '''
+        Read successively batches of data from a set of files. 
+        If parameter training is True (default), the training data is read, otherwise the evaluation data.
+        '''
+
         # we use all .txt files in the data repository corresponding to the language
-        target_dir = os.path.join(self.config['training_dir'], self.lang)
+        if training:
+            target_dir = os.path.join(self.config['training_dir'], self.lang, "training")
+        else:
+            target_dir = os.path.join(self.config['training_dir'], self.lang, "evaluation")
         for file in os.listdir(target_dir):
             if file.endswith(".txt"):
                 with open(os.path.join(target_dir, file), "r") as text_file:
@@ -174,16 +185,13 @@ class ModelScorer(object):
                             segments = []
                             next_chars = []
 
-                        #if pos > len(text)-self.max_length:
-                        #    break
-
     def build_model(self):
 
         self.model = keras.Sequential(
             [
                 keras.Input(shape=(self.max_length, self.voc_size)),
-                #layers.LSTM(self.voc_size, recurrent_dropout=0.2, return_sequences=True),
-                #layers.Dropout(0.2),
+                layers.LSTM(128, recurrent_dropout=0.2, return_sequences=True),
+                layers.Dropout(0.2),
                 layers.LSTM(128, recurrent_dropout=0.2),
                 layers.Dropout(0.2),
                 layers.Dense(self.voc_size, activation="softmax"),
@@ -233,6 +241,29 @@ class ModelScorer(object):
         # saving model
         logging.info("saving model")
         self.save()
+
+    def evaluate(self):
+        start_time = time.time()
+        total_time = 0
+        print("\nevaluating language model...")
+        losses = []
+        accs = []
+        for i, (X, Y) in enumerate(self.read_batch(training=False)):
+            
+            loss, acc = self.model.evaluate(X, Y)
+            if (i+1) % 10 == 0: 
+                sys.stdout.write("\r - batch {}:\tloss = {:.4f}\t acc = {:.5f}\t({:.3f}s)".format(i + 1, loss, acc, (time.time() - start_epoch_time)))
+                sys.stdout.flush()
+
+            losses.append(loss)
+            accs.append(acc)
+
+        epoch_time = round(time.time() - start_epoch_time, 3)
+        total_time = round(time.time() - start_time, 3)
+        mean_accs = np.average(accs)
+            
+        print("\evaluation: acc = {:.5f}, ({:.3f}s/{:.3f}s)".format(mean_accs, epoch_time, total_time))
+
 
     def save(self):
         target_dir = os.path.join(self.config["models_dir"], self.lang)
