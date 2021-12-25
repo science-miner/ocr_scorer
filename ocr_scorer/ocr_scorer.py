@@ -50,18 +50,26 @@ class OCRScorer(object):
 
     def load_model(self, lang):
         local_model = ModelScorer(lang, self.config)
-
         models[lang] = local_model
 
-
-    def score_text(text, lang=None):
+    def score_text(self, text, lang=None):
         '''
         If no language is provided, use a language detector
         '''
+        local_model = None
+        if lang != None:
+            if not lang in models:
+                self.load_model(lang)
+            if not lang in models:
+                raise Exception("No model available for the language " + lang)
+            local_model = models[lang]    
 
-        return 1.0
+        if local_model != None:
+            return local_model
+        else:
+            raise Exception("Failed to identify the language")
 
-    def score_text_file(text_file, lang=None):
+    def score_text_file(self, text_file, lang=None):
         '''
         Expected file text encoding: UTF-8
 
@@ -70,7 +78,7 @@ class OCRScorer(object):
 
         return 1.0
 
-    def score_patent_xml(xml_file, lang=None):
+    def score_patent_xml(self, xml_file, lang=None):
         '''
         Expected XML format for patent is ST.36
 
@@ -81,7 +89,7 @@ class OCRScorer(object):
         return 1.0
 
 
-    def score_pdf(pdf_file, lang=None):
+    def score_pdf(self, pdf_file, lang=None):
         '''
         PDF file is parsed by external pdfalto tool. Spatial information can be used. 
         If no language is provided, use a language detector
