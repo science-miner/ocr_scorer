@@ -1,0 +1,2721 @@
+
+	
+
+		
+
+	
+
+	
+
+Research Article 
+Intelligent Model Building and GPC-PID Based Temperature 
+Curve Control Strategy for Metallurgical Industry 
+
+Shuanghong Li, 1 Xi Li, 2 and Yupu Yang 1 
+
+1 Department of Automation, Shanghai Jiao Tong University, 800 Dong Chuan Road, Shanghai 200240, China 
+
+2 
+
+School of Automation, Huazhong University of Science and Technology, 1024 Luo Yu Road, Wuhan 430074, China 
+
+Correspondence should be addressed to Shuanghong Li; lishuanghong1989@163.com 
+
+Received 26 November 2015; Accepted 9 February 2016 
+
+Academic Editor: Hiroyuki Mino 
+
+Copyright © 2016 Shuanghong Li et al. This is an open access article distributed under the Creative Commons Attribution License, 
+which permits unrestricted use, distribution, and reproduction in any medium, provided the original work is properly cited. 
+
+Laminar cooling process is a large-scale, nonlinear system, so the temperature control of such system is a difficult and complex 
+problem. In this paper, a novel modeling method and a GPC-PID based control strategy for laminar cooling process are proposed to 
+control the global temperature curve to produce high quality steel. First, based on the analysis of the cooling process of laminar flow, 
+a new TS fuzzy model which possesses intelligence and self-learning ability is established to improve the temperature prediction 
+accuracy. Second, the target temperature curve can be divided into several subgoals and each subgoal can be described by a 
+CARIMA type of model. Then, by the decentralized predictive control method, GPC-PID based control strategy is introduced 
+to guarantee the laminar cooling process to achieve subtargets, respectively; in that way the steel plate temperature will drop along 
+the optimal temperature curve. Moreover, by employing the dSPACE control board into the process control system, the matrix 
+process ability is added to the production line without large-scale reconstruction. Finally, the effectiveness and performance of the 
+proposed modeling and control strategy are demonstrated by the industrial data and metallography detection in one steel company. 
+
+1. Introduction 
+
+Nowadays, higher requirements have been posed for the 
+property of steel plates in fields like shipbuilding, auto 
+industry, bridge construction, and so forth. The property of 
+steel plates and their microstructures are, to a large extent, 
+determined by the accuracy of the temperature control in the 
+cooling process [1, 2]. Controlling the steel final temperature 
+in the cooling process after rolling has been a representative 
+control problem for metallurgical engineering control and it 
+has attracted considerable attention for the control commu-
+nity. The final temperature, called coiling temperature (CT), 
+determines the physical and mechanical properties of the 
+steel product. However, in recent years higher requirements 
+are proposed that the temperature curve of the whole process 
+needs to be controlled to produce finer microstructure. Since 
+the laminar cooling process only lasts for a very short time 
+and is unidirectional, in practice the model predictive control 
+(MPC) is the most widely used to control this process. 
+Before the real-time control, a simulation must be done to 
+
+calculate the initial inputs to achieve the desired temperature 
+(coiling temperature). Therefore, establishing a model with 
+high precision and efficiency is especially important [3]. 
+There are two kinds of challenges in improving the pre-
+cision of the target temperature during the control process. 
+One challenge is to build a model with high efficiency and 
+accuracy. There usually exist two different types of models 
+in recent study: the physical model and the statistical model. 
+In physical model, mechanism analysis is generally used to 
+model the laminar cooling process, which is capable of fully 
+reflecting the heat transfer conditions and then outputting 
+relatively precise coiling temperature [4, 5]. However, the 
+accuracy of this kind of model is difficult to be further 
+improved owing to its nonlinearity, multicoupling, and mul-
+tivariate parameters. In order to get more accurate results, 
+artificial intelligent method is introduced to model the lami-
+nar cooling process [6]. Also, there are many researches using 
+neural network to control the laminar flow cooling process 
+[1, 7]. Some studies use fuzzy logic to improve the accuracy of 
+model [5, 8, 9]. The disadvantage of this method is that a large 
+
+Hindawi Publishing Corporation 
+Mathematical Problems in Engineering 
+Volume 2016, Article ID 7454805, 16 pages 
+http://dx.doi.org/10.1155/2016/7454805 
+
+
+2 
+
+Mathematical Problems in Engineering 
+
+number of plates have to be cooled for training the neural net-
+work before the neural network is ready for use [10]. The accu-
+racy of the statistical model is subject to the numbers of clas-
+sification. Based on the analysis of those two models, a high 
+efficiency model which combines both the physical model 
+and the statistical model is proposed in this paper to control 
+the laminar cooling process and avoid each natural defect. 
+Another challenge is to design a high-efficiency control 
+method in laminar cooling process. Many different control 
+methodologies have been attempted; among them the model 
+predictive control is the most common used. For example, 
+Smith predictor control [11], element tracking control [12], 
+self-learning control [13], and adaptive control [14] are 
+employed to control the coiling temperature by using the 
+simplified model. Most existing MPC methods use the ther-
+modynamic model to estimate the spatial distribution of strip 
+temperature and get a high precision of CT [2, 15]. In 
+recent year, some of the scholars present various effective 
+approaches that attempt to control the cooling rate and cool-
+ing curve. Literature works [16-18] try to use distribute model 
+predictive control to design a supervisory controller regulat-
+ing the temperature curve. In [19] distributed and horizon-
+varying model predictive control is applied to control the 
+cooling rate and the fine temperature and gets a very good 
+performance. However, those works are mostly verified in 
+simulation or in the laboratory condition, no production 
+results, and metal crystal detection is performed to verify 
+the effectiveness. In the manufactory, the compute ability of 
+control computer is usually not powerful enough to handle so 
+many matrixes in one control cycle. To control the tempera-
+ture curve of the whole process, an effective method should 
+be designed to utilize in the industrial current environ-
+ment without large-scale reconstruction or upgrade project. 
+Besides, it is well known that controlling the coiling temper-
+ature curve dropping along a designed optimal temperature 
+can produce high quality of steel plate [8, 17-19]. However, in 
+the manufactory, the temperature curve in the runout table 
+usually is ignored, since controlling the final temperature to 
+match the target temperature could get good steel. Further-
+more, based on the existing equipment in the manufactory, 
+the target temperature curve is impossible to control. 
+Motivated by these recent developments in laminar cool-
+ing control strategy and the demand of the industry produc-
+tion, this paper presents a novelty modeling method and a 
+GPC-PID based control strategy for computational and prac-
+tical reason which could enhance the precision and flexibility 
+of the manufactory control system. Developing an integrated 
+modeling method and a controller for easy tuning and imple-
+mentation are what we focus on most. While similar models 
+and controls have been used and reported in the literature for 
+laminar cooling process control, the novelty of the approach 
+presented in this work lies in the following aspects. (a) The 
+intelligent TS fuzzy model proposed combines the advantage 
+of the data model and the physical model by adding the phys-
+ical model with self-learning ability. (b) The coiling temper-
+ature and the temperature curve could be controlled in one 
+control method and could be chosen based on the demand. 
+(c) The MPC type of control method contains both the 
+CARIMA model based on stable point and the physical model 
+
+of the whole process, and they are coordinated to be employed 
+in the different steps of the control. (d) A practical and effec-
+tive solution is provided for the using of the control strategy in 
+the product line by the current condition without large-scale 
+redevelopment of the control system in production line. 
+The contents are organized as follows. Section 2 first 
+describes the mechanism analysis and the method to build 
+the physical model and then presents the intelligent modeling 
+strategy of laminar cooling process. Section 3 presents the 
+TS modeling and recognition method, and a data processing 
+technology of the intelligent model is deduced. Section 4 
+describes that the control strategy of the laminar cooling 
+process to regulate the temperature curve is designed by 
+setting subgoals along the production line and controlling the 
+subgoals. The GPC-PID control algorithm is derived and pro-
+vides a computing algorithm. The simulation results and the 
+experimental validation of both model and control method 
+are summarized in Section 5, followed by the conclusion in 
+Section 6. 
+
+2. Intelligent Modeling 
+
+2.1. Mechanism Analysis. The laminar cooling process is 
+illustrated in Figure 1. A laminar flow cooling process refers 
+to a process in which rolled steel plates cool down in a laminar 
+flow cooling zone; after that process the steel plate is cooled 
+at preset temperature. The final temperature is also called 
+the cooling temperature. The laminar cooling process is a 
+very important part of iron-making industry to product high 
+quality steel plate. It is used to cool a strip from a high tem-
+perature about 800-1000 ∘ C down to a cooling temperature 
+of roughly 400-680 ∘ C in the runout table, according to the 
+steel grade and varieties. The runout table is about 145 m in 
+length and 80 groups of spray headers are installed above and 
+below it. The first 64 groups headers are for the main cooling 
+section and the last 16 groups are for the fine section. When 
+the steel plate is about to be cooled, firstly it is cooled by the 
+main section to nearly the target temperature; then the fine 
+section cools it to the target temperature more accurately. 
+There are only 4 pyrometers located along the runout table, 
+because in the cooling process a large amount of water vapor 
+floating above the steel makes it impossible for the noncontact 
+infrared sensor to measure the real temperature of the plate. 
+The temperature could only be measured when the steel plate 
+is out of the water. 
+The laminar flow is cooled through various means, such 
+as water cooling heat transfer, air convection heat dissipation, 
+thermal radiation dissipation, and phase change latent heat 
+and the velocity of steel plates and spayed water quantum are 
+controllable in the cooling process. It is important to figure 
+out the extent to which each influencing factor may affect the 
+laminar cooling process by using the laminar cooling pro-
+duction data and conventional laminar flow cooling model. 
+Table 1 lists the heat dissipation amount of different kinds of 
+1000 kg-weighted steel plates and their mean value. 
+From Table 1 and Figure 2 it can be seen that although 
+certain amount of heat is released in phase change of steel 
+plates, heat dissipation takes the main role in laminar flow 
+cooling process. As being calculated, the heat transferred by 
+
+
+Mathematical Problems in Engineering 
+
+3 
+
+Table 1: The composition of heat release. 
+
+Total heat release 
+Thermal radiation 
+Water cooled heat 
+Air cooled heat 
+Else 
+100% 
+6.4% 
+82.6% 
+7.1% 
+3.9% 
+
+M 
+M 
+
+M 
+
+EMP 
+HMP 
+
+Coiler 
+
+Roller motor 
+
+Motor direction 
+
+Main cooling zone 
+Fine cooling zone 
+
+Finishing mill 
+
+Steel plate 
+Hydraulic valves 
+
+Layout of headers 
+
+Pyrometer 3/ 
+coiling 
+temperature 
+Pyrometer 2 
+Pyrometer 1 
+
+• • • 
+
+Pyrometer T 0 
+
+Figure 1: The process of the laminar cooling. 
+
+Thermal radiation, 
+6.40% 
+
+Water cooled 
+heat, 82.60% 
+
+Air cooled heat, 
+7.10% 
+
+Else, 3.90% 
+
+Thermal radiation 
+Water cooled heat 
+
+Air cooled heat 
+Else 
+
+Figure 2: The composition of heat release. 
+
+water cooling accounts for over 86% of the total heat dis-
+sipation. However, in a laminar flow cooling process, only 
+water cooling heat transfer is controllable by adjusting the 
+flux of water and water cooling time. Therefore, except for 
+water cooling transferred heat, the heat dissipated through 
+other means can be replaced by a theoretical value and its 
+difference from the actual quantity can be considered as a part 
+of water cooling transferred heat. As long as the water cooling 
+transferred heat quantum is calculated reasonably, we can get 
+relatively accurate total heat dissipation and curl temperature: 
+
+𝑑𝑄 𝑐 = −𝐹 ⋅ 𝛼 ⋅ (𝑇 𝑠 − 𝑇 𝑤 ) ⋅ 𝑑𝜏, 
+(1) 
+
+where 𝑑𝑄 𝑐 is the amount of heat loss through convection at 
+unit time, J/s, including heat losses through water-cooling 
+and air convection; 𝑇 𝑠 is strip temperature, ∘ C; 𝑇 𝑤 is the 
+cooling water temperature, ∘ C; 𝐹 is the contact surface area 
+between the plate and the cooling water, m 2 ; 𝑑𝜏 is the contact 
+
+cooling time, s; 𝛼 is the heat convection constant, represent-
+ing the heat exchange intensity at unit area, W/(m 2 ⋅K). 
+According to formula (1), the key parameter affecting 
+water cooling heat dissipation is water cooling heat transfer 
+coefficient 𝑎 𝑤 , which is temperature-dependent. Since tem-
+perature is not a constant, it is very hard to calculate this 
+coefficient accurately. In addition, subject to the influence of 
+water temperature and the movement of steel plate, it is nearly 
+unrealistic to determine water cooling heat transfer coeffi-
+cient by one formula only. In view of these, we use TS model 
+method of water cooling heat transfer coefficient to solve the 
+problems described above. 
+
+2.2. Modeling Structure. The intelligent model built in this 
+paper refers to the physical model and combines with the data 
+processing method to structure a kind of model which owns 
+data self-learning ability. The model requires two aspects 
+performances, since the laminar cooling process is large-
+scale, short-time, nonlinear characteristics. Firstly, based on 
+the process inputs, the model should calculate the strip tem-
+perature accurately, in order to provide the initial setting of 
+the production line. Secondly, the production line is so rapid 
+that fast calculation of the model is needed; consequently the 
+structure of the model should be simple and efficient. The 
+novel type of modeling strategy for laminar cooling process 
+is shown in Figure 3. 
+The intelligent model contains three parts: the mech-
+anism model, the TS Fuzzy model, and the self-learning 
+model. The mechanism model is the traditional model with-
+out the water cooling heat transfer coefficient which is deter-
+mined by the TS fuzzy model. The intelligent model tries to 
+use the output of the TS fuzzy model to substitute the water 
+cooling heat transfer coefficient function. The self-learning 
+model processes data collected from the production line 
+to identify the parameter of the TS model. A database is 
+
+
+4 
+
+Mathematical Problems in Engineering 
+
+Mechanism model 
+Strip 
+input 
+
+TS fuzzy model 
+Parameter 
+identification 
+device 
+
+Intelligent model 
+
+Data 
+updating 
+
+Database 
+
+Self-learning model 
+
+Strip output 
+T c 
+
+q w , T 0 , T 󳰀 
+
+c 
+
+a w 
+
+u i 
+
+Θ 
+
+Figure 3: Intelligent model structure diagram. 
+
+included in the model of the self-learning model which 
+contains sets of newest data collected from the product line. 
+The self-learning model identifies the TS fuzzy parameters at 
+each identification period and transfers them to the TS fuzzy 
+model. Then, the fuzzy model calculates 𝑎 𝑤 which is the most 
+important parameter in mechanism model to get the strip 
+output. 
+In TS fuzzy model, offline and online methods work 
+together. Offline method is used to get initial parameters with 
+massive data; online method continuously collects the pro-
+ducing data of laminar flow cooling process and updates the 
+parameters of TS fuzzy model to make it adaptive to the prod-
+uct line. In this way, our intelligent model acquires self-study 
+ability. 
+Although the TS fuzzy model is rapid and accurate, it 
+needs many pieces of data to adjust the model. At the start of 
+the calculation, the TS fuzzy model's precision cannot meet 
+the need of the product. In order to increase the robustness 
+of the system, two complementary strategies are introduced. 
+Besides the fuzzy model, the improved method of the tradi-
+tional equation is used. The traditional equation of the water 
+cooling heat transfer coefficient cannot adjust its parameters 
+although the production environment is constantly changing, 
+but it is robustness. Once the equation parameters are deter-
+mined, it could immediately calculate the output according to 
+the input. Based on the above reasons, the TS fuzzy model is 
+combined with the improved equation to achieve the robust-
+ness and accuracy of the system. 
+
+3. TS Modeling of the Laminar Cooling 
+
+Actually, TS fuzzy model is a model with a fixed input-output 
+relationship. As long as an appropriate input-output relation-
+ship is determined, system recognition can be fulfilled and a 
+TS fuzzy model can be thus obtained [20]. Although water 
+
+TS fuzzy model 
+
+T c 
+
+a w 
+T 0 
+
+q w 
+
+Figure 4: Input-output-state relation of the TS Fuzzy model. 
+
+cooling heat transfer coefficient is very important, it is diffi-
+cult to be determined, so TS fuzzy modeling method is uti-
+lized to estimate water cooling heat transfer coefficient with 
+real production parameter. 
+
+3.1. TS Model. The input-output relationship of water cooling 
+heat transfer coefficient is shown as Figure 4. Provided that 
+the initial temperature 𝑇 0 , cooling temperature 𝑇 𝑐 , and water 
+density 𝑞 𝑤 of a laminar cooling process are known, the aver-
+age water cooling heat transfer coefficient can be determined. 
+The input-output relationship of TS fuzzy model is deter-
+mined by Figure 4. 
+TS fuzzy model has some advantages: it can describe 
+highly nonlinear complex system with few regular numbers; 
+its structure and parameters can be easily adjusted; it makes 
+system analysis and conventional controller design easier. 
+Due to the fact that it is simple in structure and fast in calcu-
+lation, TS fuzzy model is chosen by us as a predicting model 
+[20-22]. 
+TS fuzzy model works in this way: (1) create a few 
+fuzzy regulations; (2) each regulation deals with parameters 
+belonging to certain zone; (3) these regulations work together 
+to form an integral fuzzy regulation space; (4) use this fuzzy 
+
+
+Mathematical Problems in Engineering 
+
+5 
+
+Create a few fuzzy 
+regulations 
+
+Start 
+
+Deals with each 
+regulations 
+
+Form an integral fuzzy 
+regulation space 
+
+Use this fuzzy regulation 
+space to describe its 
+output 
+
+End 
+
+Figure 5: The process of the TS Fuzzy model. 
+
+regulation space to describe its output. The process of the TS 
+fuzzy model was shown in Figure 5. 
+The contribution of the 𝑖th TS fuzzy rules to the system 
+was expressed in the form of "If. . .Then" statement as follows: 
+
+𝑅 𝑖 : If x 1 (𝑘) is A 𝑖 
+1 ⋅ ⋅ ⋅ and x 𝑛 (𝑘) is A 𝑖 
+
+𝑛 
+
+Then y 𝑖 (𝑘 + 1) = 𝑝 𝑖 
+0 + 𝑝 𝑖 
+1 𝑥 1 + ⋅ ⋅ ⋅ + 𝑝 𝑖 
+𝑛 x 𝑛 ; 𝑖 = 1, 2, . . . , 𝑐, 
+
+(2) 
+
+where 𝑐 is the number of fuzzy rules, 𝑛 is the input variables 
+number of the T-S fuzzy model, x 1 (𝑘), x 2 (𝑘), . . . , x 𝑛 (𝑘) are the 
+regressive variables consisting of output and input data at the 
+𝑘th instance and before, x(𝑘) = [𝑥 1 (𝑘), 𝑥 2 (𝑘), . . . , 𝑥 𝑛 (𝑘)] is 
+the input vector of the T-S fuzzy model, A 𝑖 
+1 , A 𝑖 
+2 , . . . , A 𝑖 
+𝑛 are 
+the membership functions associated with the 𝑖th rule, and 
+𝑝 𝑖 
+0 , 𝑝 𝑖 
+1 , . . . , 𝑝 𝑖 
+𝑛 are the consequent parameters of the submodel 
+(fuzzy rules) 𝑖. 
+We denote 𝛽 𝑖 as the fitness grade of the submodel 𝑖, and 
+thus the model output y(𝑘 + 1) at the (𝑘 + 1)th instance can 
+be calculated as follows [21]: 
+
+y (𝑘) = 
+
+𝑐 
+
+∑ 
+
+𝑖=1 
+
+𝛽 𝑖 y 𝑖 (𝑘) = 
+
+𝑐 
+
+∑ 
+
+𝑖=1 
+
+𝛽 𝑖 (𝑝 𝑖 
+0 + ⋅ ⋅ ⋅ + 𝑝 𝑖 
+𝑛 x 𝑛 (𝑘)) 
+
+= 
+
+𝑐 
+
+∑ 
+
+𝑖=1 
+
+(𝑝 𝑖 
+0 + ⋅ ⋅ ⋅ + 𝑝 𝑖 
+𝑛 ) (𝛽 𝑖 + ⋅ ⋅ ⋅ + 𝛽 𝑖 x 𝑛 (𝑘)) 
+𝑇 , 
+
+Θ (𝑘) = [𝜃 1 , 𝜃 2 , . . . , 𝜃 𝑟 ] 
+𝑇 = [p 10 , p 20 , . . . , p 𝑐0 , p 11 , p 21 , . . . , 
+
+p 𝑐1 , . . . , p 𝑐𝑛 ] 
+𝑇 ; 
+
+Φ (𝑘) = [𝛽 1 , . . . , 𝛽 𝑐 , 𝛽 1 x 1 (𝑘) , . . . , 𝛽 𝑐 x 1 (𝑘) , . . . , 𝛽 1 x 𝑛 (𝑘) , . . . , 
+
+𝛽 𝑐 x 𝑛 (𝑘)] 
+𝑇 , 
+
+(3) 
+
+where 𝑟 = 𝑐 ⋅ (𝑛 + 1); then we can get 
+
+y (𝑘) = Φ (𝑘) 𝑇 × Θ (𝑘) . 
+(4) 
+
+Generally speaking, the antecedent structure identifica-
+tion is completed through fuzzy clustering based on the 
+principle of a fuzzy 𝐶-mean (FCM) algorithm and the conse-
+quent parameters are identified according to the least squares 
+method [22]. 
+
+3.2. TS Model Recognition. For a TS fuzzy model, the most 
+important thing is to acquire antecedent and consequent 
+parameters. The consequent parameters are acquired by fuzzy 
+cluster method based on fuzzy 𝐶 mean value algorithm, and 
+consequent parameters are obtained with least squared 
+method. 
+Follow the steps below to recognize antecedent and con-
+sequent parameters by inputting x(𝑘) and y(𝑘 + 1): 
+
+(1) Use 𝐶 cluster algorithm to recognize the subordinate 
+degree function u 𝑖 of x(𝑘). 
+
+(2) When the input equals x(𝑘), the fitness of the 𝑖th 
+regulation to the system output can be calculated by 
+
+𝛽 𝑖 = 
+
+𝑐 
+
+∑ 
+
+𝑗=1 
+
+( 
+𝑢 𝑖 
+𝑢 𝑗 
+) , 𝑖 = 1, 2, . . . , 𝑐. 
+(5) 
+
+Its vector can be calculated by 
+
+Φ (𝑘) 
+
+= [𝛽 1 , . . . , 𝛽 𝑐 , 𝛽 1 𝑥 1 (𝑘) , . . . , 𝛽 𝑐 𝑥 1 (𝑘) , . . . , 𝛽 𝑐 𝑥 𝑛 (𝑘)] 
+𝑇 . 
+(6) 
+
+(3) As y(𝑘 + 1) and Φ(𝑘) are both known quantities, 
+according to formula y(𝑘 + 1) = Φ(𝑘)Θ(𝑘), we can 
+get 
+
+Θ (𝑘) = (Φ 𝑇 Φ) 
+−1 Φ 𝑇 ⋅ y (𝑘 + 1) . 
+(7) 
+
+3.3. Data Processing of the Intelligent Model. The data col-
+lected in laminar cooling process may deviate from normal 
+range due to controlling failure or a jammed water valve, so it 
+is necessary to shim the collected production data. After the 
+statistical analysis of laminar flow cooling process data and 
+theoretical analysis, the relationship between production data 
+can be summarized: 
+
+𝑇 𝑐 = 𝑇 0 − 
+𝑐 ⋅ 𝑛 
+𝑎 ⋅ ℎ ⋅ V 
+, 
+
+𝑅 = Ṫ𝑐 = 
+Δ𝑡 𝑏 
+𝐿/V 
+, 
+
+(8) 
+
+where 𝑇 𝑐 is the crimp temperature, ∘ C; 𝑇 0 is the initial tem-
+perature, ∘ C; ℎ is the plate thickness, m, and 𝑛 is the number 
+
+
+6 
+
+Mathematical Problems in Engineering 
+
+Table 2: Digital characteristics of the TS fuzzy model. 
+
+Number of data 
+50 
+200 
+500 
+1000 
+2000 
+Mean square error ( ∘ C) 
+53.3 
+32.4 
+15.2 
+7.82 
+6.17 
+Identification time (ms) 130 
+233 
+521 
+732 
+1340 
+
+of the valves opened; Δ𝑡 𝑏 is the temperature drop, ∘ C; V is 
+the average velocity of the steel plate, m/s, 𝐿 is the length of 
+the product line, m; 𝑎, 𝑐 are the coefficient of the production 
+line. If the difference of 𝑇 𝑐 + 𝑅 obtained by substituting the 
+collected data 𝑛, 𝐿, Δ𝑡 𝑏 into formula from the actual collected 
+data is over 10%, the collected data will be eliminated. 
+As TS fuzzy model needs to recognize the production data 
+in real time, the more data it gets, the more accurate its output 
+will be. However large amount of data requires large data 
+storage space and long time for data recognizing; therefore, it 
+is necessary to provide a suitable storage space for it. Table 2 
+shows us the results calculated by a computer with 3.0 GHz 
+CPU, 4 G memory. 
+Mean square error is calculated by comparing data col-
+lected in real time and data generated by model. Recognizing 
+time is the time that MATLAB spends on TS model parame-
+ter recognizing. According to the table, when the data reaches 
+1000 sets, mean square error can be kept less than 10 ∘ C and 
+calculating time is also acceptable. Increasing more data can 
+no longer obviously improve the accuracy of model, so just 
+keeping 1000 sets of product data is acceptable. Then all the 
+work needed to build the intelligent model was completed. 
+The total process of the intelligent model is shown as Figure 6. 
+
+4. Control System 
+
+In order to improve the quality of the steel plate, the control 
+system in the manufactory needs to be improved to produce 
+higher quality and performance steel plate. The existing 
+method in industrial manufactory tries to control the cooling 
+temperature. The average cooling rate is regarded as the real 
+cooling rate of the steel plate. So the opened header groups 
+𝑁 0 is computed as follows: 
+
+𝑁 0 = 
+V 𝑐 
+𝑙 
+⋅ 
+𝑇 0 − 𝑇 𝑐 
+𝑅 𝑐 
+, 
+(9) 
+
+where 𝑇 0 is the start temperature, 𝑇 𝑐 is the cooling tempera-
+ture, 𝑙 is the length of the runout table, the V 𝑐 is the average 
+speed of the steel (usually the speed is changing all the time), 
+and 𝑅 𝑐 is the average temperature drop caused by one group 
+of headers. 
+In manufactory, 𝑁 0 sometimes is given by experienced 
+engineers according by the common configure of one type of 
+steel. In some of more advanced factory, the laminar cooling 
+model induces the engineers to calculate the initial setting 
+of the production line. Although many intelligent cooling 
+models with high accuracy are established and the final tem-
+perature of the steel plate is controlled precisely, the cooling 
+rate is not properly handled. Reference [16] presents a kind 
+of distributed model predictive control for plant-wide hot-
+rolled strip laminar cooling process, but the laminar cooling 
+process is very fast, the sampling period only lasts within one 
+
+Data collection 
+
+Start 
+
+Meet the requirements of the 
+data? 
+
+Data storage 
+
+1000 groups of data 
+
+Recognize the subordinate 
+degree function 
+
+Calculate water-cooled 
+heat release 
+
+Yes 
+
+No 
+
+Yes 
+
+No 
+
+End 
+
+Yes 
+
+Calculate the total heat 
+release 
+
+Calculate the real-time 
+temperature 
+
+Coiling complete 
+No 
+
+Calculate a w 
+
+Figure 6: The total process of the intelligent model. 
+
+second, and the present control computers do not have the 
+ability to handle too many matrices in a single sampling 
+period. A series of high speed and accuracy control strategies 
+is needed to control the whole curve of the cooling tempera-
+ture. 
+The control strategy is shown in Figure 7, the model gives 
+the initial setting of the process, and local PID controllers 
+control their local target. If the subtarget temperatures are 
+
+
+Mathematical Problems in Engineering 
+
+7 
+
+Laminar cooling process 
+
+Main cooling 
+Fine cooling 
+
+Coiler 
+
+Water cooling section 
+
+Pyrometer 
+
+PID 
+
+Final mill 
+
+Process control computer 
+
+PID 
+PID 
+PID 
+PID 
+DCS 
+
+dSPACE system 
+
+Intelligent control computer/model 
+
+Original control 
+system 
+
+• • • 
+
+Figure 7: The structure of the control system. 
+
+properly handled, the steel plate temperature will drop along 
+the setting temperature curve. 
+
+4.1. Subgoal Setting. The whole system is divided into 𝑁 
+subsystem; the system ranges from 1 to 𝑛. If the speed is con-
+trolled in a constant, the running time is determined by the 
+location. The desired geometrically location-dependent tem-
+peratures are selected at the locations 𝐿1, 𝐿2, 𝐿3, . . . , 𝐿𝑛 as the 
+reference temperatures with the notation 𝑟 = [𝑟1, 𝑟2, . . . , 𝑟𝑛]. 
+The process is shown in Figures 8 and 9. When the type of the 
+steel plate is determined, its optimal cooling curve is certain. 
+The discrete reference point 𝑟 needs to be selected to reflect 
+the characteristics of the optimal cooling curve. The number 
+of sampling points is determined by the need of the control 
+precision. The appropriate number of sampling points is the 
+balance of the quickness and accuracy. 
+
+4.2. Submodel. Unlike other kinds of the laminar cooling 
+models, the relationship between the inputs and outputs near 
+the reference temperature are described by the CARIMA 
+model. The steel plate exchanges heat with outside mainly 
+through three ways: heat conduction and thermal radiation 
+and heat convection. 
+The surface layer is described as follows: 
+
+𝑑𝑄 0 = 𝑑𝑄 radiation + 𝑑𝑄 convection + 𝑑𝑄 0,1 , 
+
+𝑑𝑄 radiation = −𝐴 𝑟 ⋅ 𝜀 ⋅ 𝜎 ⋅ [(𝑇 𝑠 ) 
+4 − (𝑇 𝑎 ) 
+4 ] ⋅ 𝑑𝑡, 
+
+𝑑𝑄 convection = −𝐴 𝑟 ⋅ 𝛼 ⋅ (𝑇 1 − 𝑇 𝑤 ) ⋅ 𝑑𝑡, 
+
+𝑐 ⋅ 𝑚 ⋅ 𝑑𝑇 = {𝜆 ⋅ 𝐴 𝑟 ⋅ 
+𝑇 2 − 𝑇 1 
+ℎ 
+− 𝐴 𝑟 ⋅ 𝛼 ⋅ (𝑇 1 − 𝑇 𝑤 ) 
+
+− 𝐴 𝑟 ⋅ 𝜀 ⋅ 𝜎 ⋅ [(𝑇 𝑠 ) 
+4 − (𝑇 𝑎 ) 
+4 ]} 𝑑𝑡. 
+
+(10) 
+
+Transform the differential equation into discrete form: 
+
+𝑐 ⋅ 𝑚 ⋅ (𝑇 1 (𝑘 + 1) − 𝑇 1 (𝑘)) = {𝜆 ⋅ 𝐴 𝑟 ⋅ 
+𝑇 1 (𝑘) − 𝑇 2 (𝑘) 
+ℎ 
+
+− 𝐴 𝑟 ⋅ 𝛼 ⋅ (𝑇 1 (𝑘) − 𝑇 𝑤 ) − 𝐴 𝑟 ⋅ 𝜀 ⋅ 𝜎 
+
+⋅ 𝑓 (𝑇 1 (𝑘))} 𝑑𝑡. 
+
+(11) 
+
+The difference between the internal layer and surface layer 
+is no external heat dissipating, only internal levels of heat 
+transfer: 
+
+𝑑𝑄 𝑖 = 𝑑𝑄 𝑖−1,𝑖 + 𝑑𝑄 𝑖 , 
+
+𝑑𝑄 𝑖−1,𝑖 = 𝜆 (𝑇) ⋅ 𝐴 𝑟 ⋅ 
+𝑇 𝑚−1 − 𝑇 𝑚 
+(ℎ 𝑚 + ℎ 𝑚−1 ) /2 
+⋅ 𝑑𝑡, 
+
+𝑑𝑄 𝑖,𝑖+1 = 𝜆 (𝑇) ⋅ 𝐴 𝑟 ⋅ 
+𝑇 𝑚+1 − 𝑇 𝑚 
+(ℎ 𝑚+1 + ℎ 𝑚 ) /2 
+⋅ 𝑑𝑡, 
+
+𝑐 ⋅ 𝑚 ⋅ (𝑇 2 (𝑘 + 1) − 𝑇 2 (𝑘)) 
+
+= {𝜆 ⋅ 𝐴 𝑟 ⋅ 
+2𝑇 2 (𝑘) − 𝑇 1 (𝑘) − 𝑇 3 (𝑘) 
+ℎ 
+} 𝑑𝑡. 
+
+(12) 
+
+
+8 
+
+Mathematical Problems in Engineering 
+
+t1 
+t2 
+t3 
+tn − 1 tn 
+
+r1 
+r2 
+r3 
+
+rn − 1 rn 
+
+Time 
+X 
+
+T 
+
+Temperature 
+
+Speed 
+
+Running time determined by location 
+
+L1 
+L2 
+L3 
+
+Ln − 1 
+Ln 
+
+Time 
+
+Location 
+
+The temperature target determined by the time 
+r1 
+r2 
+r3 
+
+• • • 
+
+Figure 8: Subgoals setting along the running direction. 
+
+Water cooling section controlled by industry process computer 
+
+Pyrometer 
+
+L1 
+
+T 
+
+X 
+L2 
+L3 
+
+r1 
+r2 
+r3 
+
+Ln − 1 Ln 
+
+rn − 1 rn 
+
+Location 
+
+Temperature 
+
+Pyrometer 
+
+Main cooling 
+Laminar cooling process 
+Fine cooling 
+Coiler 
+
+Figure 9: Subgoals setting along the cooling process. 
+
+Matrix form is described as follows: 
+
+( 
+( 
+( 
+
+( 
+
+𝑇 1 (𝑘 + 1) 
+
+𝑇 2 (𝑘 + 1) 
+
+𝑇 3 (𝑘 + 1) 
+
+. . . 
+
+𝑇 𝑛 (𝑘 + 1) 
+
+) 
+) 
+) 
+
+) 
+
+= 
+( 
+( 
+( 
+
+( 
+
+1 + 
+𝜆𝐴 
+ℎ𝑐𝑚 
++ 
+𝛼𝐴 
+𝑐𝑚 
+− 
+𝜆𝐴 
+ℎ𝑐𝑚 
+0 
+
+− 
+𝜆𝐴 
+ℎ𝑐𝑚 
+1 + 
+2𝜆𝐴 
+ℎ𝑐𝑚 
+− 
+𝜆𝐴 
+ℎ𝑐𝑚 
+
+− 
+𝜆𝐴 
+ℎ𝑐𝑚 
+1 + 
+𝜆𝐴 
+ℎ𝑐𝑚 
++ 
+𝛼𝐴 
+𝑐𝑚 
+
+) 
+) 
+) 
+
+) 
+
+( 
+( 
+( 
+
+( 
+
+𝑇 1 (𝑘) 
+
+𝑇 2 (𝑘) 
+
+𝑇 3 (𝑘) 
+
+. . . 
+
+𝑇 𝑛 (𝑘) 
+
+) 
+) 
+) 
+
+) 
+
++ ( 
+
+−𝐴𝑇 𝑤 
+
+0 
+
+. . . 
+
+−𝐴𝑇 𝑤 
+
+) 𝛼 
+
++ 𝐴𝜀𝜎𝑓 (𝑇 1 (𝑘)) , 
+
+T (𝑘 + 1) = MT (𝑘) + Nu + 𝜉. 
+
+(13) 
+
+
+Mathematical Problems in Engineering 
+
+9 
+
+Rewriting according to the predictive control equation, 
+we get the following: 
+
+T (𝑘 + 1) = (M N) ( 
+T (𝑘) 
+
+u 
+) + 𝜉, 
+
+Ax (𝑘 + 1) = Bu (𝑡) + 𝜉. 
+
+(14) 
+
+4.3. GPC-PID Control Method. The generalized predictive 
+control (GPC) is chosen as a basis for predictive PID for two 
+major reasons. First, the receding horizon solution of GPC 
+can be described easily in a linear polynomial representation. 
+In comparison, the receding form of DMC is cumbersome 
+because it is based on a convolution model. Second, GPC is 
+a generalized strategy which includes all desirable properties 
+of the industry proven MPC formulations [23]. It is assumed 
+that the plant is adequately represented by the CARIMA 
+model: 
+
+A (𝑧 −1 ) y (𝑘) = B (𝑧 −1 ) 𝑧 −𝑑 u (𝑘) + 
+C (𝑧 −1 ) 𝜉 (𝑘) 
+
+Δ 
+, 
+(15) 
+
+where 
+
+A (𝑧 −1 ) = 1 + 𝑎 1 𝑧 −1 + ⋅ ⋅ ⋅ + 𝑎 𝑛 𝑎 𝑧 −𝑛 𝑎 , 
+
+B (𝑧 −1 ) = 𝑏 0 + 𝑏 1 𝑧 −1 + ⋅ ⋅ ⋅ + 𝑏 𝑛 𝑏 𝑧 𝑛 𝑏 , 
+
+C (𝑧 −1 ) = 𝑐 0 + 𝑐 1 𝑧 −1 + ⋅ ⋅ ⋅ + 𝑐 𝑛 𝑐 𝑧 𝑛 𝑐 , 
+
+(16) 
+
+where 𝑧 −1 is the backward shift operator. y(𝑡) is the plant 
+output or the measured output signal, u(𝑡) is the control 
+input, 𝜉(𝑡) is the noise that disturbs the output signal, and 
+Δ = 1 − 𝑧 −1 . 
+To derive a GPC law that minimizes the performance 
+index, two Diophantine equations are solved: 
+
+1 = A (𝑧 −1 ) E 𝑗 (𝑧 −1 ) Δ + 𝑧 −𝑗 F 𝑗 (𝑧 −1 ) , 
+
+E 𝑗 (𝑧 −1 ) B (𝑧 −1 ) = G 𝑗 (𝑧 −1 ) + 𝑧 −𝑗 H 𝑗 (𝑧 −1 ) , 
+
+(17) 
+
+where 
+
+E 𝑗 (𝑧 −1 ) = 1 + 𝑒 𝑗,1 𝑧 −1 + ⋅ ⋅ ⋅ + 𝑒 𝑗,𝑗−1 𝑧 −(𝑗−1) , 
+
+F 𝑗 (𝑧 −1 ) = 𝑓 𝑗,0 + 𝑓 𝑗,1 𝑧 −1 + ⋅ ⋅ ⋅ + 𝑓 𝑗,𝑛 𝑎 𝑧 −𝑛 𝑎 , 
+
+G 𝑗 (𝑧 −1 ) = 𝑔 0 + 𝑔 1 𝑧 −1 + ⋅ ⋅ ⋅ + 𝑔 𝑗−1 𝑧 −𝑗+1 , 
+
+H 𝑗 (𝑧 −1 ) = ℎ 𝑗,0 + 𝑔 𝑗,1 𝑧 −1 + ⋅ ⋅ ⋅ + 𝑔 𝑗,𝑛 𝑏 −1 𝑧 −𝑛 𝑏 +1 . 
+
+(18) 
+
+The 𝑗 steps ahead predictive output is given as follows: 
+
+y (𝑡 + 𝑗) = G 𝑗 Δu (𝑡 + 𝑗 − 1) + F 𝑖 y (𝑡) + H 𝑗 Δu (𝑡 − 1) 
+
++ E 𝑗 w (𝑡 + 𝑗) . 
+(19) 
+
+E 𝑗 w(𝑡 + 𝑗) is the disturbance signal, and the vector form of 
+the optimal predictive outputs is expressed as follows: 
+
+y = Gu + Fy (𝑡) + HΔu (𝑡 − 1) , 
+(20) 
+
+where 
+
+y 𝑇 = [𝑦 (𝑡 + 1) , . . . , 𝑦 (𝑡 + 𝑁)] , 
+
+u 𝑇 = [Δu (𝑡) , . . . , Δu (𝑡 + 𝑁 − 1)] , 
+
+F 𝑇 = (𝐹 1 , . . . , 𝐹 𝑁 ) , 
+
+H 𝑇 = [H 1 , . . . , H 𝑁 ] , 
+
+G = 
+
+[ 
+[ 
+[ 
+[ 
+[ 
+[ 
+[ 
+[ 
+[ 
+[ 
+[ 
+[ 
+[ 
+
+[ 
+
+𝑔 0 
+⋅ ⋅ ⋅ 
+0 
+
+𝑔 1 
+𝑔 0 
+⋅ ⋅ ⋅ 
+
+d 
+. . . 
+. . . 
+
+. . . 
+
+𝑔 𝑁−1 𝑔 𝑁−2 ⋅ ⋅ ⋅ ⋅ ⋅ ⋅ 𝑔 0 
+
+] 
+] 
+] 
+] 
+] 
+] 
+] 
+] 
+] 
+] 
+] 
+] 
+] 
+
+] 
+
+. 
+
+(21) 
+
+The future reference trajectory is defined as y 𝑟 = [y 𝑟 (𝑘 + 
+𝑁 1 ), y 𝑟 (𝑘 + 𝑁 1 + 1), . . . , y 𝑟 (𝑘 + 𝑁 2 )] 𝑇 . 
+The GPC control objective is composed of a sum of 
+squares prediction error term and a control action penalty 
+term given by 
+
+𝐽 = 𝐸 
+{ 
+{ 
+{ 
+
+𝑁 
+
+∑ 
+
+𝑗=1 
+
+[y 0 (𝑡 + 𝑗) − y 𝑟 (𝑡)] 
+
+2 
+
++ 
+
+𝑁 
+
+∑ 
+
+𝑗=1 
+
+Q 𝑗 (𝑧 −1 ) [Δu (𝑡 + 𝑗 − 1)] 
+2 } 
+} 
+} 
+
+, 
+
+(22) 
+
+where y 𝑟 is the setpoint, 𝑁 is the control horizon, and Q is the 
+control weight: 
+
+Q 1 (𝑧 −1 ) = 𝑞 1 
+0 + 𝑞 1 
+1 𝑧 −1 + ⋅ ⋅ ⋅ + 𝑞 1 
+𝑛 𝑏 𝑧 −𝑛 𝑏 , 
+
+Q 𝑗 (𝑧 −1 ) = 𝑞 
+
+𝑗 
+0 
+
+𝑗 = 2, 3, . . . , 𝑁. 
+
+(23) 
+
+The vector form is described as follows: 
+
+𝐽 = 𝐸 {(y − y 𝑟 ) 
+𝑇 (y − y 𝑟 ) + u 𝑇 Qu} . 
+(24) 
+
+The optimal solution with respect to Δu is obtained as 
+
+Δu = (G 𝑇 G + 𝜆I) 
+
+−1 
+
+G 𝑇 (y 𝑟 − y 1 ) , 
+
+u (𝑘) = u (𝑘 − 1) 
+
++ [1, 0, . . . , 0] (G 𝑇 G + 𝜆I) 
+
+−1 
+
+G 𝑇 (y 𝑟 − y 1 ) . 
+
+(25) 
+
+The input Δu(𝑡) is rewritten by the following: 
+
+Δu (𝑡) = 
+
+𝑁 
+
+∑ 
+
+𝑗=0 
+
+𝑝 𝑗 y 𝑟 (𝑡) − 
+
+𝑁 
+
+∑ 
+
+𝑗=1 
+
+𝑝 𝑗 F 𝑗 (𝑧 −1 ) y (𝑡) 
+
+− 
+
+𝑁 
+
+∑ 
+
+𝑗=1 
+
+𝑝 𝑗 H 𝑗 (𝑧 −1 ) Δu (𝑡 − 1) . 
+
+(26) 
+
+
+10 
+
+Mathematical Problems in Engineering 
+
+The incremental discrete PID control law is developed by 
+starting with the noninteracting continuous algorithm given 
+by 
+
+𝑢 (𝑡) = 𝑘 𝑝 [𝑒 (𝑡) + 
+1 
+𝑇 𝐼 
+∫ 
+
+𝑡 
+
+0 
+
+𝑒 (𝑡) 𝑑𝑡 + 𝑇 𝐷 
+𝑑𝑒 (𝑡) 
+𝑑𝑡 
+] 
+
+= 𝑘 𝑝 𝑒 (𝑡) + 𝑘 𝐼 ∫ 
+
+𝑡 
+
+0 
+
+𝑒 (𝑡) 𝑑𝑡 + 𝑘 𝐷 
+𝑑𝑒 (𝑡) 
+𝑑𝑡 
+, 
+
+(27) 
+
+where u(𝑡) is the input of the control system, 𝑘 𝑝 is the 
+proportional constants, 𝑘 𝐼 is the integral constants, 𝑘 𝐷 is 
+the derivative constants, and 𝑒(𝑡) is the error. The transfer 
+function can be written as follows: 
+
+𝐺 𝑐 (𝑠) = 
+𝑈 (𝑠) 
+𝐸 (𝑠) 
+= 
+𝑘 𝑝 𝑇 𝐷 𝑇 𝐼 𝑠 2 + 𝑘 𝑝 𝑇 𝐼 𝑠 + 𝑘 𝑝 
+
+𝑇 𝐼 𝑠 
+. 
+(28) 
+
+A first-order discretization of the results is given in the 
+following discrete control law: 
+
+𝑢 (𝑡) = 𝑢 (𝑡 − 1) + 𝑝 0 𝑒 (𝑡) + 𝑝 1 𝑒 (𝑡) + 𝑝 2 𝑒 (𝑡 − 2) , 
+
+𝐺 𝑐 (𝑧) = 
+𝑝 0 + 𝑝 1 𝑧 −1 + 𝑝 2 𝑧 −1 
+1 − 𝑧 −1 
+. 
+
+(29) 
+
+Compared with (26), we have the following: 
+
+𝑝 0 = 𝑘 𝑝 + 𝑘 𝐼 + 𝑘 𝐷 = 𝑘 𝑝 + 
+𝑘 𝑝 𝑇 𝑠 
+
+𝑇 𝐼 
++ 
+𝑘 𝑝 𝑇 𝐷 
+
+𝑇 𝑠 
+, 
+
+𝑝 1 = −𝑘 𝑝 − 2𝑘 𝐷 = −𝑘 𝑝 − 
+2𝑘 𝑝 𝑇 𝐷 
+
+𝑇 𝑠 
+, 
+
+𝑝 2 = 𝑘 𝐷 = 
+𝑘 𝑝 𝑇 𝐷 
+
+𝑇 𝑠 
+. 
+
+(30) 
+
+Discrete expression of PID controller is described as 
+follows: 
+
+𝐿 (𝑧 −1 ) 𝑢 (𝑡) = 𝑀 (𝑧 −1 ) 𝑦 𝑟 (𝑡) − 𝑁 (𝑧 −1 ) 𝑦 (𝑡) . 
+(31) 
+
+The control law of the GPC is 
+
+Δ𝑢 (𝑡) 
+
+= 
+
+𝑁 
+
+∑ 
+
+𝑗=0 
+
+𝑝 𝑗 𝑦 𝑟 (𝑡) − 
+
+𝑁 
+
+∑ 
+
+𝑗=1 
+
+𝑝 𝑗 𝐹 𝑗 (𝑧 −1 ) 𝑦 (𝑡) 
+
+− 
+
+𝑁 
+
+∑ 
+
+𝑗=1 
+
+𝑝 𝑗 𝐻 𝑗 (𝑧 −1 ) Δ𝑢 (𝑡 − 1) , 
+
+𝐿 (𝑧) = 1 − 𝑧 −1 , 
+
+𝑀 (𝑧 −1 ) = 
+
+𝑁 
+
+∑ 
+
+𝑗=1 
+
+𝑝 𝑗 , 
+
+𝑁 (𝑧 −1 ) = 
+
+𝑁 
+
+∑ 
+
+𝑗=1 
+
+𝑝 𝑗 𝐹 𝑗 (𝑧 −1 ) , 
+
+𝑁 
+
+∑ 
+
+𝑗=1 
+
+𝑝 𝑗 𝐻 𝑗 (𝑧 −1 ) Δ𝑢 (𝑡 − 1) = 𝑝 1 
+
+𝑁 
+
+∑ 
+
+𝑖=1 
+
+𝑞 1 
+𝑖 Δ𝑢 (𝑡 − 𝑖) , 
+
+𝑞 1 
+𝑖 = 
+
+1 
+𝑝 1 
+
+𝑁 
+
+∑ 
+
+1 
+
+𝑝 𝑗 ℎ 
+
+𝑗 
+
+𝑖−1 , 𝑖 = 1, 2, . . . , 𝑛 𝑏 . 
+
+(32) 
+
+According to the result of the above derivation, the PID 
+parameters can be rewritten, to get the self-tuning PID con-
+troller parameters: 
+
+𝑢 (𝑡) = 
+𝑘 𝐼 
+1 − 𝑧 −1 𝑒 (𝑡) − [𝑘 𝑝 + (1 − 𝑧 −1 ) 𝑘 𝐷 ] 𝑦 (𝑡) . 
+(33) 
+
+Then get the following results: 
+
+(1 − 𝑧 −1 ) 𝑢 (𝑡) = 𝑘 𝐼 𝑦 𝑟 (𝑡) 
+
+− [𝑘 𝐼 + (1 − 𝑧 −1 ) 𝑘 𝑝 + (1 − 𝑧 −1 ) 𝑘 𝐷 ] 𝑦 (𝑡) 
+
+= 𝑘 𝐼 𝑦 𝑟 (𝑡) 
+
+− [(𝑘 𝐼 + 𝑘 𝑝 + 𝑘 𝐷 ) − (𝑘 𝑝 + 2𝑘 𝐷 ) 𝑧 −1 + 𝑘 𝐷 𝑧 −2 ] 
+
+⋅ 𝑦 (𝑡) . 
+
+(34) 
+
+Compare the PID with GPC: 
+
+𝐿 (𝑧 −1 ) = 1 − 𝑧 −1 , 
+
+𝑀 (𝑧 −1 ) = 𝑘 𝐼 = 
+
+𝑁 
+
+∑ 
+
+𝑗=1 
+
+𝑝 𝑗 , 
+
+𝑁 (𝑧 −1 ) = (𝑘 𝐼 + 𝑘 𝑝 + 𝑘 𝐷 ) − (𝑘 𝑝 + 2𝑘 𝐷 ) 𝑧 −1 + 𝑘 𝐷 𝑧 −2 
+
+= 
+
+𝑁 
+
+∑ 
+
+𝑗=1 
+
+𝑝 𝑗 𝐹 𝑗 (𝑧 −1 ) 
+
+= 
+
+𝑁 
+
+∑ 
+
+𝑗=1 
+
+𝑝 𝑗 𝑓 
+
+𝑗 
+
+0 + 
+
+𝑁 
+
+∑ 
+
+𝑗=1 
+
+𝑝 𝑗 𝑓 
+
+𝑗 
+
+1 𝑧 −1 + 
+
+𝑁 
+
+∑ 
+
+𝑗=1 
+
+𝑝 𝑗 𝑓 
+
+𝑗 
+
+2 𝑧 −2 . 
+
+(35) 
+
+The PID parameters are calculated as follows [24, 25]: 
+
+𝑘 𝑝 = − 
+
+𝑁 
+
+∑ 
+
+𝑗=1 
+
+𝑝 𝑗 (𝑓 
+
+𝑗 
+
+1 + 2𝑓 
+
+𝑗 
+
+2 ) , 
+
+𝑘 𝐼 = 
+
+𝑁 
+
+∑ 
+
+𝑗=1 
+
+𝑝 𝑗 , 
+
+𝑘 𝐷 = 
+
+𝑁 
+
+∑ 
+
+𝑗=1 
+
+𝑝 𝑗 𝑓 
+
+𝑗 
+
+2 . 
+
+(36) 
+
+
+Mathematical Problems in Engineering 
+
+11 
+
+The optimal control input can be calculated by 
+
+u (𝑡) = u (𝑡 − 1) − 
+
+𝑁 
+
+∑ 
+
+𝑗=1 
+
+𝑝 𝑗 (𝑓 
+
+𝑗 
+
+1 + 2𝑓 
+
+𝑗 
+
+2 ) [y (𝑡 − 1) − y (𝑡)] 
+
++ 
+
+𝑁 
+
+∑ 
+
+𝑗=1 
+
+𝑝 𝑗 [y 𝑟 (𝑡) − y (𝑡)] 
+
++ 
+
+𝑁 
+
+∑ 
+
+𝑗=1 
+
+𝑝 𝑗 𝑓 
+
+𝑗 
+
+2 [2y (𝑡 − 1) − y (𝑡 − 2) − y (𝑡)] . 
+
+(37) 
+
+Finally, the GPC-PID control algorithm is gotten: 
+
+(1) Firstly, the model of the control plate needs to be 
+identified to get A(𝑧 −1 ), B(𝑧 −1 ) in the CARIMA 
+model. 
+
+(2) Calculate the G 𝑗 (𝑧 −1 ), F 𝑗 (𝑧 −1 ) by solving the Dio-
+phantine equation. 
+
+(3) Then, the control input Δu = (G 𝑇 G+𝜆I) −1 G 𝑇 (y 𝑟 −y 1 ). 
+
+(4) Compute the PID control parameters 𝑘 𝐼 , 𝑘 𝐷 , 𝑘 𝑝 . 
+
+(5) Get the control input u(𝑡). 
+
+Now the design of GPC-PID control method for laminar 
+cooling process is completed and some experiments are 
+presented in the next section. 
+
+5. Validation of the Modeling and 
+Control Method 
+
+5.1. Modeling. The model is built in MATLAB/Simulink 
+environment, and the results are calculated by a computer 
+with 3.0 GHz CPU, 4 G memory. 
+
+5.1.1. Validation of the System Model. To test the validation 
+of this method, some experiments are conducted using real 
+industrial data. The type of steel X80 is chosen to validate the 
+model. 
+Use the method described above to model a laminar flow 
+cooling process, filter abnormal data, recognize parameter 
+with 1000 sets of effective data, substitute the parameter into 
+TS fuzzy model, and then collect 300 sets of production data 
+to verify the output results. 
+
+5.1.2. Comparison between the Traditional Model and Intel-
+ligent Model. Figures 10 and 11 compare the results of the 
+conventional mechanism model data and TS model data with 
+real producing data, respectively. It is obvious that TS fuzzy 
+model gives us a more accurate result than conventional 
+mechanism model in Figure 12. 
+From Table 3, the TS fuzzy model can largely improve 
+the accuracy of a laminar flow cooling model. The cooling 
+temperature predicted by TS fuzzy model is matched well 
+with real production data, with the difference between them 
+kept less than 10 ∘ C. Also, the error between TS modeling data 
+and real production data is largely reduced; and mean square 
+error can be reduced by 50% compared to conventional 
+model. 
+
+Table 3: The comparison of the two types of model. 
+
+Method 
+Maximum error 
+( ∘ C) 
+
+Mean square error 
+(MSE) ( ∘ C) 
+Mechanism model 
+17.3 
+9.32 
+Intelligent model 
+8.8 
+4.42 
+
+0 
+50 
+100 
+150 
+200 
+250 
+300 
+350 
+
+450 
+
+500 
+
+550 
+
+600 
+
+650 
+
+700 
+
+750 
+
+Number 
+
+New model data 
+Production data 
+
+T ( ∘ 
+
+C) 
+
+Figure 10: The comparison of the model data and the product data 
+of the mechanism model. 
+
+0 
+50 
+100 
+150 
+200 
+250 
+300 
+350 
+
+450 
+
+500 
+
+550 
+
+600 
+
+650 
+
+700 
+
+750 
+
+Number 
+
+Convention model data 
+Production data 
+
+T ( ∘ 
+
+C) 
+
+Figure 11: The comparison of the model data and the product data 
+of the intelligent model. 
+
+5.1.3. Output of the Intelligent Model. The intelligent model 
+is validated in the last section, so the output could reflect 
+the reality of the laminar cooling process. Figure 13 shows 
+the whole temperature curve of the steel along the thickness 
+direction. The initial temperature is about 800 ∘ C-900 ∘ C; 
+when the steel plate enters the main cooling zone the tem-
+perature of the surface layer will largely drop, but the inside 
+layer's temperature is still very high because the heat inside 
+should be release through conduct with the outside layer. So 
+the internal layer's temperature will be hysteretic compared 
+with the surface layers. There will be internal and external 
+temperature difference when the steel enters the cooling zone. 
+On the other hand, when the plate is running out of the 
+cooling zone, the cooling rate of the surface will decrease, 
+
+
+12 
+
+Mathematical Problems in Engineering 
+
+0 
+50 
+100 
+150 
+200 
+250 
+300 
+350 
+
+−20 
+
+−10 
+
+0 
+
+10 
+
+20 
+
+Intelligent model 
+Mechanism model 
+
+Figure 12: The error comparison between the two models. 
+
+0 
+5 
+10 
+15 
+20 
+25 
+30 
+
+550 
+
+600 
+
+650 
+
+700 
+
+750 
+
+800 
+
+850 
+
+900 
+
+T ( ∘ 
+
+C) 
+
+Figure 13: The temperature curve of different layers. 
+
+but the internal is still very hot, so the heat flows from 
+internal layer to external layer. The phenomenon will show 
+that the internal temperature still declines while the external 
+temperature rises. This phenomenon is clearly expressed in 
+Figure 13. 
+The intelligent model could compute the temperature 
+differences between the internal and the external layer of the 
+plate shown in Figure 14(a). Figure 14(b) shows the average 
+temperature curve of the steel. The model also could calculate 
+other parameters difficult to be directly measured in the 
+laminar cooling process, shown in Figures 14(c)-14(f). 
+
+5.2. Control Strategy 
+
+5.2.1. Experimentation. To illustrate the performance of pro-
+posed modeling and control method, application of this 
+method to laminar cooling process test is performed in one 
+steel testing product line in Hubei, China. The control system 
+is shown in Figure 15. In the factory, the initial control system 
+is very difficult for the improvement of the equipment and is 
+not convenient for the use of the new control algorithm, since 
+the Distributed Control System (DCS) could not process 
+the matrix. As a consequence, new equipment needs to be 
+introduced to solve that disadvantage. 
+The dSPACE control system, DS1103 PPC Controller 
+Board, is utilized to add the intelligent model to the con-
+trol system without large-scale reconstruction of the initial 
+control system. The controller board is designed to meet the 
+requirements of modern rapid control prototyping and is 
+highly suitable for applications. The DS1103 is an all-rounder 
+in rapid control prototyping. It can be mounted in a dSPACE 
+
+Expansion Box or dSPACE AutoBox to test new control 
+functions in a laboratory or directly in the product line. The 
+dSPACE 1103 PPC system has a PowerPC Type CPU, PPC 
+750 GX, with CPU clock 1 GHz. The unparalleled number of 
+I/O interfaces makes the DS1103 a versatile controller board 
+for numerous applications. 
+The initial control system only provides several interfaces 
+to collect data provided by the intelligent model running 
+in the dSPACE system. The dSPACE system could run the 
+intelligent model; meanwhile the process is going to exchange 
+information with the laminar cooling process. At the start of 
+the cooling process, the intelligent model calculates the initial 
+input of the control system based on the known initial infor-
+mation of the production line, such as the beginning temper-
+ature of the steel plate, the target temperature, the thickness, 
+the type, and the grade of the steel. Before the laminar cooling 
+process is ongoing, the intelligent model calculates the 
+parameters of the CARIMA model and the PID parameters 
+of all the temperature control points and then passes data 
+to the industrial computer and PLC controller. The PID 
+parameters will not be changed in one cooling process of 
+one type of steel. Although processing the matrix in GPC 
+algorithm is a very complex work, it is not calculated every 
+control period. Instead, the control outputs are based on the 
+PID control and other kinds of control methods such as feed-
+forward and feedback control. In this way the control strategy 
+will be robust and will be easily handled for the engineers. 
+
+5.2.2. Performance of Proposed Controller. In the manufac-
+tory, the control target of the laminar cooling contains two 
+related aspects: the cooling temperature (CT) and the whole 
+temperature curve (TC). The CT is the last temperature point 
+in TC which is important for the cooling, and the TC plays 
+important role in the construction of the microstructure of 
+the steel. Figure 16 shows that the CT is well controlled in 
+the manufactory by the strategy proposed above. The control 
+variables are shown in Figure 17. Figure 18 shows the temper-
+ature curve dropping along the subgoals. 
+
+5.2.3. Physical Verification. To validate the control method, a 
+metallography detection is carried on in a research institute 
+in Wuhan, China. The WL510 type of steel is selected and the 
+crystal structure of iron is detected through Zeiss metallo-
+graphic microscope. Figures 19(a)-19(c) are the steel cooled 
+in laminar cooling process with just the CT controlled, while 
+Figures 19(e) and 19(f) show that the temperature control is 
+in line with the designed curve. (a, d) is the surface impurity 
+detection. (b, e) is at the thickness of 1/4, while (c, f) is at 
+the 1/2 thickness. The comparison between the two groups 
+of metallographic pictures shows that the TC control makes 
+fewer impurities and avoids the widmanstatten and a large 
+crystal structure harmful to mechanical property. 
+
+6. Conclusion 
+
+In this study, a novelty modeling method and GPC-PID con-
+trol strategy are presented to control the temperature curve in 
+laminar cooling process. First, the cooling mechanism in lam-
+inar cooling process is investigated; then the TS fuzzy model 
+
+
+Mathematical Problems in Engineering 
+
+13 
+
+0 
+5 
+10 
+15 
+20 
+25 
+30 
+
+0 
+
+20 
+
+40 
+
+60 
+
+80 
+
+100 
+
+120 
+
+140 
+
+Time (s) 
+
+dT ( ∘ 
+
+C) 
+
+(a) 
+
+0 
+50 
+100 
+150 
+200 
+250 
+300 
+350 
+
+550 
+
+600 
+
+650 
+
+700 
+
+750 
+
+800 
+
+850 
+
+900 
+
+T 
+
+( ∘ 
+
+C) 
+
+Time (0.1 s) 
+
+T ave 
+T r 
+
+(b) 
+
+0 
+50 
+100 
+150 
+200 
+250 
+300 
+350 
+
+0 
+
+1000 
+
+2000 
+
+3000 
+
+4000 
+
+Time (0.1 s) 
+
+a (L/m 2 
+
+ * min) 
+
+(c) 
+
+0 
+50 
+100 
+150 
+200 
+250 
+300 
+350 
+
+−2 
+
+−1.5 
+
+−1 
+
+−0.5 
+
+0 
+
+Water.signals.values 
+
+Time (0.1 s) 
+
+×10 6 
+
+Q 
+water (J) 
+
+(d) 
+
+0 
+50 
+100 
+150 
+200 
+250 
+300 
+350 
+
+600 
+
+700 
+
+800 
+
+900 
+
+1000 
+
+1100 
+
+1200 
+
+1300 
+
+Time (0.1 s) 
+
+C 
+p (m 3 
+
+/kg) 
+
+(e) 
+
+0 
+5 
+10 
+15 
+20 
+25 
+30 
+
+−200 
+
+−100 
+
+0 
+
+100 
+
+200 
+
+300 
+
+Time (s) 
+
+dT/dt ( ∘ 
+
+C/s) 
+
+(f) 
+
+Figure 14: The parameters calculated by the model. 
+
+which boasts high self-study ability by combining data 
+filtering method and parameter recognizing method is intro-
+duced into the intelligent model. The new modeling method 
+proposed by this paper enables the intelligent laminar flow 
+cooling model to monitor the process of a laminar flow 
+cooling process rapidly. Second, several subgoals based on the 
+location of the runout table are set to make the temperature 
+curve be realized with a few computational burdens. In order 
+to guarantee the steel plate cooling along the target temper-
+ature curve, the GPC-PID control method is implemented, 
+which makes the distributed PID controllers achieve the sub-
+goals. Third, the dSPACE control board which is running the 
+intelligent model is provided to make the GPC-PID applied 
+
+in the control system without large-scale reconstruction. 
+Finally, the data collected from the real production line 
+demonstrates the efficiency and precision of the control strat-
+egy formulated in this paper, and the metallography detection 
+by the metallographic microscope indicates that applying 
+the temperature curve control can obtain finer microstruc-
+ture compared with the CT control. 
+Although a practical modeling and an effective control 
+strategy have been proposed to obtain an ideal result success-
+fully, there are still some improvements to be accomplished 
+further about this work. First, the number of the subgoals 
+cannot be added more than 6 due to the complexity of the 
+control method and the constraint of the calculative ability of 
+
+
+14 
+
+Mathematical Problems in Engineering 
+
+DS1103 PPC controller board/intelligent model 
+
+Industrial computer 
+
+Speed 
+control 
+PLC 
+
+Pyrometer 
+PLC 
+PID 
+PLC 
+PID 
+PLC 
+PID 
+PLC 
+PID 
+
+Motor 
+
+Temperature sampling 
+point 
+
+Laminar cooling process 
+
+• • • 
+
+Figure 15: The structure of the control system after reorganizing. 
+
+500 
+550 
+600 
+650 
+700 
+
+500 
+
+550 
+
+600 
+
+650 
+
+700 
+
+Control temperature ( ∘ 
+
+C) 
+
+Reference temperature ( ∘ C) 
+
+Figure 16: The industrial CT data using the present control method. 
+
+0 
+50 
+100 150 200 250 300 350 400 450 
+
+10 
+
+15 
+
+20 
+
+25 
+
+Valve-opening caused by speed 
+
+Time (0.1 s) 
+
+(a) 
+
+0 
+5 
+10 
+15 
+20 
+25 
+30 
+
+26 
+
+28 
+
+30 
+
+32 
+
+34 
+
+36 
+
+38 
+
+40 
+
+Time (s) 
+
+Valve-opening number 
+
+(b) 
+
+Figure 17: The control variables in the cooling process. 
+
+
+Mathematical Problems in Engineering 
+
+15 
+
+0 
+20 
+40 
+60 
+80 
+100 
+120 
+
+600 
+
+650 
+
+700 
+
+750 
+
+800 
+
+850 
+
+900 
+
+Time (0.1 s) 
+
+T ( ∘ 
+
+C) 
+
+T in 
+T outside 
+
+T ave 
+T ref 
+
+(a) 
+
+0 
+5 
+10 
+15 
+20 
+25 
+
+600 
+
+650 
+
+700 
+
+750 
+
+800 
+
+850 
+
+900 
+
+Time (s) 
+
+T ( ∘ 
+
+C) 
+
+T in 
+T outside 
+
+T ave 
+T ref 
+
+(b) 
+
+Figure 18: The temperature curve dropping along the subgoals. 
+
+100 𝜇m 
+
+(a) 
+
+20 𝜇m 
+
+(b) 
+
+20 𝜇m 
+
+(c) 
+
+100 𝜇m 
+
+(d) 
+
+20 𝜇m 
+
+(e) 
+
+20 𝜇m 
+
+(f) 
+
+Figure 19: The metallography detection of two sets of steel. 
+
+industrial computers. Second, the local CARIMA models 
+need to be adjusted after some steel plate production. Those 
+problems will be solved in future works. 
+
+Conflict of Interests 
+
+The authors declare that there is no conflict of interests 
+regarding the publication of this paper. 
+
+References 
+
+[1] S. Sikdar and A. Mukhopadhyay, "Numerical determination of 
+heat transfer coefficient for boiling phenomenon at runout table 
+of hot strip mill, " Ironmaking and Steelmaking, vol. 31, no. 6, pp. 
+495-502, 2004. 
+
+[2] S. Serajzadeh, "Prediction of temperature distribution and 
+phase transformation on the run-out table in the process of hot 
+strip rolling, " Applied Mathematical Modelling, vol. 27, no. 11, pp. 
+861-875, 2003. 
+
+[3] Y. Zheng, S. Li, and X. Wang, "An approach to model building 
+for accelerated cooling process using instance-based learning, " 
+Expert Systems with Applications, vol. 37, no. 7, pp. 5364-5371, 
+2010. 
+
+[4] H.-B. Xie, X.-H. Liu, G.-D. Wang, and Z.-P. Zhang, "Optimiza-
+tion and model of laminar cooling control system for hot strip 
+mills, " Journal of Iron and Steel Research International, vol. 13, 
+no. 1, pp. 18-22, 2006. 
+
+[5] S. P. Guan, H.-X. Li, and S. K. Tso, "Multivariable fuzzy supervi-
+sory control for the laminar cooling process of hot rolled slab, " 
+IEEE Transactions on Control Systems Technology, vol. 9, no. 2, 
+pp. 348-356, 2001. 
+
+
+16 
+
+Mathematical Problems in Engineering 
+
+[6] G. van Ditzhuijzen, "The controlled cooling of hot rolled strip: 
+a combination of physical modeling, control problems and 
+practical adaption, " IEEE Transactions on Automatic Control, 
+vol. 38, no. 7, pp. 1060-1065, 1993. 
+[7] D. M. Lee and S. G. Choi, "Application of on-line adaptable 
+neural network for the rolling force set-up of a plate mill, " 
+Engineering Applications of Artificial Intelligence, vol. 17, no. 5, 
+pp. 557-565, 2004. 
+[8] H.-X. Li and S. P. Guan, "Hybrid intelligent control strategy: 
+supervising a DCS-controlled batch process, " IEEE Control Sys-
+tems Magazine, vol. 21, no. 3, pp. 36-46, 2001. 
+[9] E.-Y. Liu, D.-H. Zhang, J. Sun, L.-G. Peng, B.-H. Gao, and L.-
+T. Su, "Algorithm design and application of laminar cooling 
+feedback control in hot strip mill, " Journal of Iron and Steel 
+Research, International, vol. 19, no. 4, pp. 39-42, 2012. 
+[10] Y. Zheng, S. Y. Li, and X. Wang, "An approach to model building 
+for accelerated cooling process using instance-based learning, " 
+Expert Systems with Applications, vol. 37, no. 7, pp. 5364-5371, 
+2010. 
+[11] J. Wang, G.-D. Wang, and X.-H. Liu, "Hot strip laminar cooling 
+control model, " Journal of Iron and Steel Research International, 
+vol. 11, no. 5, pp. 13-17, 2004. 
+[12] B. Han, Z. P. Zhang, X. H. Liu, and G. D. Wang, "Element 
+tracking strategies for hot striplaminar cooling control, " Journal 
+of Iron and Steel Research International, vol. 12, no. 3, pp. 18-21, 
+27, 2005. 
+[13] H. B. Xie, Z. Y. Jiang, X. H. Liu et al., "Application of fuzzy 
+control of laminar cooling for hot rolled strip, " Journal of 
+Materials Processing Technology, vol. 187-188, pp. 715-719, 2007. 
+[14] D. Y. Gong, J. Z. Xu, L. G. Peng, G. D. Wang, and X. H. Liu, "Self-
+learning and its application to laminar cooling, model of hot 
+rolled strip, " Journal of Iron and Steel Research International, vol. 
+14, no. 4, pp. 11-14, 2007. 
+[15] H. N. Han, J. K. Lee, H. J. Kim, and Y.-S. Jin, "A model for defor-
+mation, temperature and phase transformation behavior of 
+steels on run-out table in hot strip mill, " Journal of Materials 
+Processing Technology, vol. 128, no. 1-3, pp. 216-225, 2002. 
+[16] Y. Zheng, N. Li, and S. Y. Li, "Hot-rolled strip laminar cooling 
+process plant-wide temperature monitoring and control, " Con-
+trol Engineering Practice, vol. 21, no. 1, pp. 23-30, 2013. 
+[17] H.-X. Li and S. Guan, "Hybrid intelligent control strategy. 
+Supervising a DCS-controlled batch process, " IEEE Control 
+Systems, vol. 21, no. 3, pp. 36-48, 2001. 
+[18] M. Tan, S. Li, J. Pian, and T. Chai, "Case-based modeling of the 
+laminar cooling process in a hot rolling mill, " in Intelligent Con-
+trol and Automation, D.-S. Huang, K. Li, and G. W. Irwin, Eds., 
+vol. 344 of Lecture Notes in Control and Information Sciences, pp. 
+264-274, Springer, 2006. 
+[19] Y. Zheng, S. Li, and X. Wang, "Distributed model predictive 
+control for plant-wide hot-rolled strip laminar cooling process, " 
+Journal of Process Control, vol. 19, no. 9, pp. 1427-1437, 2009. 
+[20] T. Takagi and M. Sugeno, "Fuzzy identification of systems and 
+its applications to modeling and control, " IEEE Transactions on 
+Systems, Man and Cybernetics, vol. 15, no. 1, pp. 116-132, 1985. 
+[21] P. P. Angelov and D. P. Filev, "An approach to online identifi-
+cation of Takagi-Sugeno fuzzy models, " IEEE Transactions on 
+Systems, Man, and Cybernetics, Part B: Cybernetics, vol. 34, no. 
+1, pp. 484-498, 2004. 
+[22] H. J. Lee and D. W. Kim, "Robust stabilization of T-S fuzzy 
+systems: fuzzy static output feedback under parametric uncer-
+tainty, " International Journal of Control, Automation and Sys-
+tems, vol. 7, no. 5, pp. 731-736, 2009. 
+
+[23] D. W. Clarke, C. Mohtadi, and P. S. Tuffs, "Generalized predic-
+tive control. Part I. The basic algorithm, " Automatica, vol. 23, 
+no. 2, pp. 137-148, 1987. 
+[24] T. Sato, "Design of a GPC-based PID controller for controlling a 
+weigh feeder, " Control Engineering Practice, vol. 18, no. 2, pp. 
+105-113, 2010. 
+[25] T. Sato, A. Inoue, and T. Yamamoto, "Improvement of tracking 
+performance in designing a GPC based PID controller using a 
+time-varying proportional gain, " IEEJ Transactions on Electrical 
+and Electronic Engineering, vol. 1, no. 4, pp. 438-441, 2006. 
+
+
+Submit your manuscripts at 
+http://www.hindawi.com 
+
+Hindawi Publishing Corporation 
+http://www.hindawi.com 
+Volume 2014 
+
+Mathematics 
+
+Journal of 
+
+Hindawi Publishing Corporation 
+http://www.hindawi.com 
+Volume 2014 
+
+Mathematical Problems 
+in Engineering 
+
+Hindawi Publishing Corporation 
+http://www.hindawi.com 
+
+Differential Equations 
+
+International Journal of 
+
+Volume 2014 
+
+Applied Mathematics 
+
+Journal of 
+
+Hindawi Publishing Corporation 
+http://www.hindawi.com 
+Volume 2014 
+
+Probability and Statistics 
+
+Hindawi Publishing Corporation 
+http://www.hindawi.com 
+Volume 2014 
+
+Journal of 
+
+Hindawi Publishing Corporation 
+http://www.hindawi.com 
+Volume 2014 
+
+Mathematical Physics 
+
+Advances in 
+
+Complex Analysis 
+
+Journal of 
+
+Hindawi Publishing Corporation 
+http://www.hindawi.com 
+Volume 2014 
+
+Optimization 
+
+Journal of 
+
+Hindawi Publishing Corporation 
+http://www.hindawi.com 
+Volume 2014 
+
+Combinatorics 
+
+Hindawi Publishing Corporation 
+http://www.hindawi.com 
+Volume 2014 
+
+International of 
+
+Hindawi Publishing Corporation 
+http://www.hindawi.com 
+Volume 2014 
+
+Operations Research 
+
+Advances in 
+
+Journal of 
+
+Hindawi Publishing Corporation 
+http://www.hindawi.com 
+Volume 2014 
+
+Function Spaces 
+
+Abstract and 
+Applied Analysis 
+
+Hindawi Publishing Corporation 
+http://www.hindawi.com 
+Volume 2014 
+
+International 
+Journal of 
+Mathematics and 
+Mathematical 
+Sciences 
+
+Hindawi Publishing Corporation 
+http://www.hindawi.com 
+Volume 2014 
+
+The Scientific 
+World Journal 
+
+Hindawi Publishing Corporation 
+http://www.hindawi.com 
+Volume 2014 
+
+Hindawi Publishing Corporation 
+http://www.hindawi.com 
+Volume 2014 
+
+Algebra 
+
+Discrete Dynamics in 
+Nature and Society 
+
+Hindawi Publishing Corporation 
+http://www.hindawi.com 
+Volume 2014 
+
+Hindawi Publishing Corporation 
+http://www.hindawi.com 
+Volume 2014 
+
+Decision Sciences 
+
+Advances in 
+
+Discrete Mathematics 
+
+Journal of 
+
+Hindawi Publishing Corporation 
+http://www.hindawi.com 
+
+Volume 2014 
+
+Hindawi Publishing Corporation 
+http://www.hindawi.com 
+Volume 2014 
+
+Stochastic 
+
+International Journal of 
+
+
+
+	
+

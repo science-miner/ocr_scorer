@@ -1,0 +1,982 @@
+
+	
+
+		
+
+	
+
+	
+
+Research Article 
+Increasing the Solubility Limit for Tetrahedral Aluminium in 
+ZnO:Al Nanorods by Variation in Synthesis Parameters 
+
+Anke Kelchtermans, 1 Peter Adriaensens, 2 Daniel Slocombe, 3 
+Vladimir L. Kuznetsov, 3 Joke Hadermann, 4 Alexander Riskin, 1 Ken Elen, 1,5 
+Peter P. Edwards, 3 An Hardy, 1,5 and Marlies K. Van Bael 1,5 
+
+1 Inorganic and Physical Chemistry, Institute for Materials Research, Hasselt University, Agoralaan Building D, 
+3590 Diepenbeek, Belgium 
+2 Applied and Analytical Chemistry, Institute for Materials Research, Hasselt University, Agoralaan Building D, 
+3590 Diepenbeek, Belgium 
+3 Department of Chemistry, Inorganic Chemistry Laboratory, University of Oxford, South Parks Road, Oxford OX1 3QR, UK 
+
+4 
+
+EMAT, University of Antwerp, 2020 Antwerp, Belgium 
+5 Division IMOMEC, IMEC vzw, Agoralaan Building D, 3590 Diepenbeek, Belgium 
+
+Correspondence should be addressed to Marlies K. Van Bael; marlies.vanbael@uhasselt.be 
+
+Received 2 December 2014; Revised 20 January 2015; Accepted 20 January 2015 
+
+Academic Editor: Neeraj Dwivedi 
+
+Copyright © 2015 Anke Kelchtermans et al. This is an open access article distributed under the Creative Commons Attribution 
+License, which permits unrestricted use, distribution, and reproduction in any medium, provided the original work is properly 
+cited. 
+
+Nanocrystalline ZnO:Al nanoparticles are suitable building blocks for transparent conductive layers. As the concentration of 
+substitutional tetrahedral Al is an important factor for improving conductivity, here we aim to increase the fraction of substitutional 
+Al. To this end, synthesis parameters of a solvothermal reaction yielding ZnO:Al nanorods were varied. A unique set of 
+complementary techniques was combined to reveal the exact position of the aluminium ions in the ZnO lattice and demonstrated its 
+importance in order to evaluate the potential of ZnO:Al nanocrystals as optimal building blocks for solution deposited transparent 
+conductive oxide layers. Both an extension of the solvothermal reaction time and stirring during solvothermal treatment result in a 
+higher total tetrahedral aluminium content in the ZnO lattice. However, only the longer solvothermal treatment effectively results 
+in an increase of the substitutional positions aimed for. 
+
+1. Introduction 
+
+Because of the coexistence of high conductivity and high 
+transparency in the visible region, the realization of trans-
+parent conductive oxides (TCOs) has attracted much interest 
+for optoelectronic device applications, such as solar cells and 
+displays [1-3]. Among all TCOs, Al-doped ZnO (ZnO:Al) has 
+gained considerable and continuous interest as it represents 
+a lower-cost, earth-abundant alternative to the widely used 
+TCO indium tin oxide (ITO) [4]. At the same time, TCO 
+nanocrystals (NCs) have recently drawn attention because 
+of their low cost associated with the possibility of solution 
+processing and the potential to exploit their size-dependent 
+properties [5]. Deposition of colloidal TCO NCs as a nanoink 
+is highly appealing for integration into emerging flexible 
+
+electronics, such as displays, electronic paper, or solar cells 
+[6, 7]. While the synthesis of ZnO:Al nanocrystals and 
+films has recently advanced markedly, it still remains a 
+challenge to control dopant incorporation in zinc oxide based 
+TCO NCs [8-16]. Even more, probing doping efficiency and 
+understanding whether or not dopants have substituted the 
+desired host atoms are not trivial. No single analytical tool 
+is fully satisfactory in this regard. Instead, an appropriate 
+combination of characterization techniques can give more 
+reliable insights. Identifying, understanding and ultimately 
+controlling the uptake, dopant content and dopant location 
+in inorganic nanostructures is as an important goal. First, the 
+overall solubility limit of Al in the ZnO lattice is rather low. 
+The thermodynamic solubility limit of Al in ZnO thin films 
+is in the range of 1-2%. An experimental solubility limit has 
+
+Hindawi Publishing Corporation 
+Journal of Nanomaterials 
+Volume 2015, Article ID 546041, 8 pages 
+http://dx.doi.org/10.1155/2015/546041 
+
+
+2 
+
+Journal of Nanomaterials 
+
+been estimated under 0.3 at% of Al using X-ray diffraction 
+refinements, whereas NMR analyses lead rather to a limit well 
+below 0.1 at% [17, 18]. Furthermore, it is believed that only 
+when the dopants occupy substitutional tetrahedral sites in 
+the ZnO crystal lattice, shallow donor levels are created which 
+allow promotion of free carriers into the conduction band 
+[19-21]. Besides the substitutional tetrahedral position, the 
+aluminium ions can also occupy empty interstitial tetrahedral 
+and octahedral sites in the hexagonal wurtzite structure of 
+ZnO. In these positions however, they will act as an acceptor, 
+hence decreasing the conductivity [18, 20, 22]. 
+Previous work [23] demonstrated the existence of a 
+constant, synthesis-dependent solubility limit for tetrahedral 
+aluminium in two series of ZnO:Al nanoparticles. For the 
+nanoequiaxed particles 0.25 at% of Al is placed in tetrahedral 
+positions, which is five times higher compared with the 
+nanorod particles, where only 0.05 at% of Al is placed in 
+tetrahedral positions. The aim of the work presented in this 
+paper is to study the synthesis parameters in order to increase 
+the tetrahedral aluminium content in the nanorods. More 
+specifically, the substitutional tetrahedral aluminium con-
+tent, accountable for the increased conductivity, is targeted. 
+
+2. Experimental 
+
+2.1. Materials. Zinc acetylacetonate hydrate Zn(acac) 2 ⋅xH 2 O 
+(Sigma-Aldrich), aluminium acetylacetonate Al(acac) 3 (99%, 
+Sigma-Aldrich), and benzyl alcohol C 6 H 5 CH 2 OH (99%, 
+Alfa Aesar) are used as received. The amount of hydrate 
+water (x) in the zinc acetylacetonate hydrate is verified by 
+high-resolution thermogravimetric analysis (HR-TGA) and 
+inductively coupled plasma atomic emission spectroscopy 
+(ICP-AES) to be 1 per formula unit. 
+
+2.2. Synthesis of the ZnO:Al Nanorods. A mixture of 1 g 
+Zn(acac) 2 ⋅1H 2 O, 0.057 g Al(acac) 3 (0.5 mol% with respect to 
+Zn), and 40 mL benzyl alcohol is stirred for 30 minutes in 
+a Teflon liner (inner volume of 80 mL). This Teflon liner is 
+then transferred into a stainless steel vessel which is sealed 
+and placed in a preheated furnace at 200 ∘ C for 6 h. After 
+cooling down to room temperature, the resulting precipitate 
+is centrifuged (4400 rpm, 45 󸀠 ), washed (with methanol and 
+milliQ water), and dried [23]. As a variation in synthesis 
+parameters, the time the autoclave stays in the furnace is 
+extended to 48 h and 96 h, respectively. Another variation in 
+the synthesis parameters is the use of a solvothermal reactor 
+(PARR 5500 series compact reactor) with stirring option 
+instead of a furnace to treat the reaction mixture. 
+
+2.3. Characterization. The crystal phase of the dry nanopow-
+ders was determined at room temperature by X-ray diffrac-
+tion (XRD) in the 2𝜃 range from 10 to 60 ∘ , using a Siemens 
+D-5000 diffractometer with Cu K𝛼1 radiation. The size and 
+morphology of the ZnO(:Al) nanocrystals were characterized 
+with transmission electron microscopy (TEM), carried out on 
+a FEI Tecnai Spirit at an acceleration voltage of 120 kV. For 
+this purpose, a small drop of powdered sample redispersed 
+in methanol was deposited on a carbon-film coated copper 
+
+grid and dried under an infrared lamp. The structure of 
+the nanocrystals at the atomic scale was characterized using 
+high resolution transmission electron microscopy (HR-TEM) 
+performed on a Fei Tecnai G2, operated at 200 kV. Samples 
+for HR-TEM were prepared by redispersing the powder in 
+ethanol using an ultrasonic bath for 10 minutes and then 
+depositing a few drops of this dispersion onto a holey carbon 
+grid. 
+The 27 Al solid-state magic angle spinning nuclear mag-
+netic resonance (MAS-NMR) measurements were performed 
+at room temperature on an Agilent VNMRS 400 MHz spec-
+trometer (9.4 𝑇 wide bore magnet) equipped with a Varian-
+Chemagnetics T3HX 3.2 mm probe. The resonance frequency 
+of the aluminum nuclei is 104.22 MHz. The samples were 
+packed into a 3.2 mm zirconia rotor and sealed with tight 
+fitting Torlon caps. The spectra were obtained at a rotor 
+spinning rate of 18 kHz by using a single pulse experiment 
+with a 𝜋/2 pulse of 4.2 𝜇s, an acquisition time of 10 ms, a 
+preparation delay of 6 s, and a spectral width of 100 kHz. The 
+number of accumulations was around 20000. The chemical 
+shift scale, in parts per million (ppm), was externally refer-
+enced to AlCl 3 ⋅6H 2 O at 0 ppm. The aluminum 𝑇 1 relaxation 
+decay times were measured on the same spectrometer via the 
+inversion recovery method in which the evolution time 𝑡 (19 
+values) was varied between 0.5 ms and 30 s. The repetition 
+delay was set to 20 s and about 900 scans were accumu-
+lated. The integrated signal intensity 𝐼(𝑡) of the tetrahedral 
+resonance was analyzed biexponentially as a function of the 
+variable recovery time 𝑡 according to 
+
+𝐼 (𝑡) = 𝐼 𝑆 
+𝑜 ⋅ (1 − 2 ⋅ exp ( 
+
+𝑡 
+𝑇 𝑆 
+
+1H 
+
+)) 
+
++ 𝐼 𝐿 
+𝑜 ⋅ (1 − 2 ⋅ exp (− 
+
+𝑡 
+𝑇 𝐿 
+
+1H 
+
+)) + 𝑐 te . 
+
+(1) 
+
+The superscripts 𝑆 and 𝐿 refer to the fractions with short and 
+long decay time, respectively. 
+Transmission Fourier transform infrared (FT-IR) spectra 
+were recorded at room temperature using a Vertex 70 FTIR 
+spectrometer from Bruker Optics. The transmittance of KBr-
+pellets containing 0.5 wt% ZnO:(Al) was measured in the 
+wavenumber interval of 4000-400 cm −1 . The resolution of 
+the spectra is 4 cm −1 . 
+A resonant microwave cavity perturbation method was 
+used to measure the microwave conductivity of the powders 
+[24]. Low dielectric loss quartz tubes (1.6 mm inner diameter) 
+containing powder samples were inserted axially into an 
+aluminum TM 010 mode cylindrical resonant cavity. The 
+cavity has a height of 40 mm and a 46 mm radius, with 
+a corresponding operating frequency of 2.45 GHz and an 
+unloaded quality factor of over 8000. S 21 measurements 
+were taken using an Agilent E5071B vector network analyzer. 
+Further experimental details are described in [25]. 
+
+3. Results and Discussion 
+
+In the XRD patterns (Figure 1) of the Al-doped ZnO 
+nanocrystals, solvothermally synthesized for, respectively, 
+
+
+Journal of Nanomaterials 
+
+3 
+
+10 
+20 
+30 
+40 
+50 
+60 
+
+2𝜃 ( ∘ ) 
+
+Intensity (a.u.) 
+
+(100) 
+(002) 
+(101) 
+(102) 
+(110) 
+
+6 h at 200 ∘ C 
+Stirring 
+
+48 h at 200 ∘ C 
+96 h at 200 ∘ C 
+
+Figure 1: XRD patterns of Al-doped ZnO nanocrystalline rods 
+as a function of the solvothermal reaction time and presence of 
+solvothermal stirring (6 h at 200 ∘ C). 
+
+6 h, 48 h, and 96 h at 200 ∘ C without stirring and solvother-
+mally treated for 6 h at 200 ∘ C with stirring, the peaks are 
+identified as (100), (002), (101), (102), and (110) reflections of 
+the hexagonal wurtzite structure of ZnO (JCPDS 36-1451), 
+confirming that all the ZnO:Al nanocrystals retain the similar 
+ZnO structure. The sharp signal at 32.9 ∘ in the pattern after 
+stirring originates from the Si sample holder. 
+TEM characterization (Figure 2) reveals that despite 
+the extension of the reaction time or stirring during 
+the solvothermal treatment, the morphology of the 
+crystalline Al-doped ZnO nanorods does not change. 
+Possible differences in the position of the aluminium ion 
+in the ZnO lattice can be evaluated by means of 27 Al-NMR 
+measurements (Figure 3), from which it is possible to distin-
+guish between tetrahedral (75 ± 15 ppm [26]) and octahedral 
+(0-20 ppm [26]) coordination of aluminium. Both the 
+signal corresponding to aluminium in a 4-fold coordination 
+with oxygen (tetrahedral) and the signal corresponding to 
+aluminium in a 6-fold coordination with oxygen (octahedral) 
+have a rather sharp line shape, indicating that the Al resides 
+in a highly ordered, symmetrical crystalline environment. 
+The absence of broad resonance signals, observed by 
+Kemmitt et al. [20], indicates that no amorphous phase 
+of Al-doped ZnO is present. The spectra clearly reveal an 
+increase in tetrahedral aluminium content as a function of 
+the solvothermal reaction time. Associated with an extension 
+of the solvothermal treatment time from 6 h to, respectively, 
+48 h and 96 h, the tetrahedral aluminium fraction increases 
+from 15% (Figure 3(a)) to, respectively, 27% (Figure 3(b)) and 
+31% (Figure 3(c)). However, by stirring the reaction mixture 
+during the solvothermal treatment (6 h), this tetrahedral 
+fraction even increases up to 41% (Figure 3(d)). Although 
+the spectra show a significant increase of the tetrahedral 
+aluminium content, this is not necessarily associated with 
+a higher amount of the desired tetrahedral substitutional 
+
+aluminium, leading to an increased conductivity as 4-fold 
+coordinated aluminium can appear in substitutional as well 
+as interstitial positions in the ZnO lattice. To obtain more 
+detailed information regarding this distribution, FTIR is used 
+as a complementary technique. FTIR is able to detect surface 
+plasmon resonance effects due to the presence of free charge 
+carriers, providing an indirect proof for substitutional doping 
+[27-29]. The spectrum (Figure 4) of the ZnO:Al nanorods 
+(0.5% Al) that were solvothermally treated for 6 h exhibits the 
+same features as the spectrum of ordinary ZnO. The broad 
+absorption bands at ∼3430 cm −1 and ∼1645 cm −1 encompass 
+the O-H stretching vibrations of adsorbed water on the 
+ZnO:Al surface while the strong absorption band between 
+500 and 400 cm −1 can be attributed to the stretching modes 
+of Zn-O and/or Al-O. The spectra of the ZnO:Al nanorods 
+obtained after longer solvothermal reaction times (48 h and 
+96 h) on the other hand exhibit a broad additional absorption 
+band between 600 and 3000 cm −1 which can be attributed to 
+surface plasmon IR absorptions originating from free charge 
+carriers. It is clear that longer solvothermal treatments lead to 
+more pronounced plasmon resonance absorptions, which in 
+turn can be related to a higher charge carrier concentration in 
+these particles [30, 31]. It is assumed that only substitutional 
+Al contributes to the formation of charge carriers. This leads 
+to the conclusion that a longer solvothermal reaction time 
+leads to a higher content of substitutional aluminium, which 
+should be beneficial for the conductivity [20, 21]. In contrast 
+to these findings, the even higher content of tetrahedral 
+aluminium obtained by stirring during solvothermal 
+treatment does not result in more free charge carriers. The 
+relatively high (41%) content of tetrahedral aluminium 
+as determined by 27 Al-NMR (Figure 3(d)) is clearly not 
+correlated to an increase of free charge carriers as no distinct 
+plasma resonance IR absorption is observed (Figure 4). The 
+coexistence of high tetrahedral aluminium content and a 
+low number of free charge carriers indicates that most of the 
+aluminium ions have to be located in interstitial tetrahedral 
+positions. A possible explanation might be a conflict between 
+thermodynamics and kinetics; that is, stirring promotes 
+the tetrahedral aluminium incorporation but the limited 
+reaction time of 6 h does not allow reaching thermodynamic 
+equilibrium. Further, the different setups (autoclave in 
+furnace and solvothermal reactor) might result in a different 
+heating profile and probably different heating rate, which 
+could also influence the dopant position [20]. 
+In addition to FTIR characterization, relative conduc-
+tivity values were determined for the different powders by 
+microwave resonant perturbation measurements. By placing 
+the sample in a resonant microwave electric field, the shift 
+in resonant bandwidth ΔBW can be directly related to the 
+conductivity of the powders since the imaginary part of 
+the permittivity 𝜀 󸀠󸀠 is dominated by the conductivity 𝜎 for 
+conductive samples according to 𝜀 󸀠󸀠 = 𝜎/𝜀 0 𝜔, where 𝜀 0 is the 
+permittivity of free space and 𝜔 is the angular frequency. The 
+measured ΔBW is proportional to 𝜀 󸀠󸀠 and thus to 𝜎 for a 
+given frequency. Although this technique does not provide 
+the absolute value of the electrical conductivity, it allows us 
+to rank different ZnO:Al particle samples according to their 
+
+
+4 
+
+Journal of Nanomaterials 
+
+(a) 
+(b) 
+
+(c) 
+(d) 
+
+Figure 2: TEM images of the ZnO:Al nanorods solvothermally treated for 6 h at 200 ∘ C (a), solvothermally treated for 6 h at 200 ∘ C while 
+stirring (b), and solvothermally treated for 48 h at 200 ∘ C (c) and for 96 h at 200 ∘ C (d). 
+
+Table 1: 𝑇 1 spin-lattice relaxation times with their corresponding fractions (% of total amount of tetrahedral Al) observed for the tetrahedrally 
+coordinated Al of the ZnO:Al powders obtained after a solvothermal treatment of 96 h and after stirring during 6 h solvothermal treatment. 
+
+96 h @ 200 ∘ C without stirring 
+6 h @ 200 ∘ C with stirring 
+𝑇 1 relaxation time (ms) 
+Fraction 
+𝑇 1 relaxation time (ms) 
+Fraction 
+Interstitial tetrahedral Al 
+4.6 
+23% 
+24.8 
+34% 
+Substitutional tetrahedral Al 
+808 
+77% 
+725 
+66% 
+
+electrical conductivity. Effective medium theory may be used 
+to infer the absolute dielectric properties of powders, though 
+here the measured "effective" values indicate the relative 
+conductivity of each powder. The microwave absorption data 
+(Figure 5) show a significant increase in ΔBW or electrical 
+conductivity for longer solvothermal treatments, supporting 
+the FTIR data which indicated a higher number of free 
+charge carriers. On the other hand, the ZnO:Al nanocrystals 
+obtained by stirring during the solvothermal treatment do 
+not exhibit a significant increase in electrical conductivity, 
+also in accordance with the lack of a surface plasmon 
+absorption signal in the FTIR spectrum. 
+The indirect indications for the exact aluminium 
+position, determined by FTIR and microwave absorption 
+measurements, were ultimately confirmed by evaluating 
+
+the 𝑇 1 spin-lattice relaxation decay time behavior of the 
+tetrahedral Al (signal at ±80 ppm). Based on the 27 Al-NMR 
+spectra (Figure 3) a first distinction between aluminium 
+in an octahedral or tetrahedral coordination with oxygen 
+could be made. By focusing now on the tetrahedral signal 
+and monitoring the 𝑇 1 spin-lattice relaxation decay time 
+of this signal, one can distinguish between aluminium in 
+differently ordered tetrahedral environments. For ZnO:Al 
+nanocrystals which were solvothermally treated for 96 h as 
+well as for ZnO:Al nanocrystals obtained by stirring during 
+their 6 h solvothermal treatment, two 27 Al spin populations 
+(fractions) with a different 𝑇 1 relaxation decay time were 
+observed (Table 1), indicating the existence of two different 
+tetrahedral environments. 
+
+
+Journal of Nanomaterials 
+
+5 
+
+15% 
+
+0 
+40 
+80 
+120 
+
+(ppm) 
+
+(a) 
+
+27% 
+
+0 
+40 
+80 
+120 
+
+(ppm) 
+
+(b) 
+
+31% 
+
+0 
+40 
+80 
+120 
+
+(ppm) 
+
+(c) 
+
+41% 
+
+0 
+40 
+80 
+120 
+
+(ppm) 
+
+(d) 
+
+Figure 3: Al-NMR spectra (with integral lines) of the ZnO:Al nanorods solvothermally treated at 200 ∘ C for 6h (a), 48 h (b), 96 h (c), and 
+for 6 h at 200 ∘ C while stirring (d). The percentages below the Al-NMR spectra express the respective amount of aluminium in tetrahedral 
+position. 
+
+Intensity (a.u.) 
+
+500 
+1000 
+1500 
+2000 
+2500 
+3000 
+3500 
+4000 
+
+Wavenumber (cm −1 ) 
+
+6 h 
+Stirring 
+48 h 
+
+96 h 
+
+Figure 4: FT-IR spectra of the different ZnO:Al nanorods. 
+
+For the nanorods obtained after a 96 h solvothermal 
+treatment, 77% of the tetrahedral aluminium has a long 
+spin-lattice relaxation time of ±0.8 s against 66% (𝑇 1 = 
+±0.7 s) in the ZnO:Al nanorods obtained by stirring during 
+solvothermal treatment. In general, sharp signals in the 27 Al-
+NMR spectrum, corresponding with aluminium located in a 
+highly ordered, symmetrical crystalline environment, exhibit 
+relatively long spin-lattice relaxation times. Following this 
+trend, the relatively long 𝑇 1 decay time (or slow spin-lattice 
+relaxation rate) is associated with tetrahedral aluminium in 
+
+substitutional positions [32, 33]. The higher fraction of tetra-
+hedral substitutional aluminium in the ZnO:Al nanorods 
+which were obtained after treatment for 96 h at 200 ∘ C 
+supports the indirect indications obtained from the FTIR and 
+microwave absorption measurements. Regarding the short 𝑇 1 
+spin-lattice relaxation time of the tetrahedral signal, 23% of 
+the tetrahedral Al in the rods obtained after a solvothermal 
+treatment of 96 h at 200 ∘ C has a 𝑇 1 = 4.6 ms while 34% of 
+the tetrahedral Al in the rods obtained after solvothermal 
+treatment while stirring (6 h) has a 𝑇 1 of 24.8 ms. The 𝑇 1 
+
+
+6 
+
+Journal of Nanomaterials 
+
+6 h 
+6 h/stirring 
+48 h 
+96 h 
+
+Sample ID 
+
+0 
+
+5 
+
+10 
+
+15 
+
+20 
+
+25 
+
+30 
+
+35 
+
+40 
+
+45 
+
+Tetrahedral aluminum (%) 
+
+0.00 
+
+0.05 
+
+0.10 
+
+0.15 
+
+0.20 
+
+0.25 
+
+0.30 
+
+ΔBW (MHz) 
+
+Figure 5: Microwave absorption data of the different ZnO:Al samples. 
+
+(a) 
+(b) 
+
+Figure 6: HR-TEM images of the ZnO:Al nanorods obtained by stirring during a solvothermal treatment of 6 h at 200 ∘ C (top) and by 
+a solvothermal treatment of 96 h at 200 ∘ C (bottom). The lighter patches are due to beam damage caused by the orientation process of the 
+nanocrystals. The slightly different appearance at the left bottom side of the second is Moiré caused by overlap with another nanocrystal. 
+
+decay times are different in almost one order of magnitude 
+(4.6 ms against 24.8 ms). If this difference is significant, it 
+might suggest the existence of two different Al-positions of 
+which the origin is still not clear. Avadhut et al. [33] reported 
+about a core-shell structure with substitutional aluminium 
+in the ZnO crystalline core and a shell or secondary-
+phase containing amorphous tetrahedral aluminium. How-
+ever, an amorphous environment is not expected here, as 
+the signals in the Al-NMR spectra are sharp. HR-TEM 
+images indeed confirm that the nanocrystals consist of a 
+single phase up to the edge of the crystals (Figure 6). No 
+indications are observed consistent with an amorphous shell 
+nor do the Fourier transforms of the images show any 
+differences between the edge and the middle regions of the 
+nanocrystals. Combining the information obtained by 27 Al-
+NMR spectroscopy and 𝑇 1 -relaxometry suggests the key role 
+importance of the ratio between substitutional and interstitial 
+tetrahedral aluminium. While spectroscopy demonstrates a 
+tetrahedral content of 31% versus 41% for ZnO:Al nanorods 
+
+obtained by solvothermal treatment at 200 ∘ C for 96 h and for 
+6 h with stirring, respectively, the 𝑇 1 -results indicate a larger 
+amount of substitutional Al for the former (77% versus 66%). 
+Table 2 displays the ratio of substitutional/interstitial tetrahe-
+dral aluminium for the two ways of synthesis. Normalization 
+to the interstitial tetrahedral fraction results in 3.4 substi-
+tutional aluminium ions for each interstitial aluminium ion 
+for nanorods obtained by solvothermal treatment for 96 h at 
+200 ∘ C in contrast to only 1.9 for a solvothermal treatment for 
+6 h at 200 ∘ C with stirring. Based on this ratio, it becomes clear 
+that a prolongation of the solvothermal reaction time yields 
+the best conditions to enhance conductivity. Indeed, while 
+substitutional aluminium improves the conductivity, intersti-
+tial aluminium has a negative effect on the conductivity. 
+
+4. Conclusions 
+
+By 27 Al-NMR experiments, it is shown that a longer solvo-
+thermal treatment as well as stirring during the solvothermal 
+
+
+Journal of Nanomaterials 
+
+7 
+
+Table 2: Combination of the information obtained by 27 Al-NMR spectroscopy (tetrahedral content of 31% versus 41% for ZnO:Al nanorods 
+obtained by solvothermal treatment at 200 ∘ C for 96 h and for 6 h with stirring, resp.) and 𝑇 1 -relaxometry (77% substitutional aluminium for 
+the former versus 66% for the latter). Normalization to the interstitial tetrahedral fraction results in 3.4 substitutional aluminium ions for 
+each interstitial aluminium ion for nanorods obtained by solvothermal treatment for 96 h at 200 ∘ C in contrast to only 1.9 for a solvothermal 
+treatment for 6 h at 200 ∘ C with stirring. 
+
+96 h @ 200 ∘ C without stirring 
+31% tetrahedral Al 
+
+6 h @ 200 ∘ C with stirring 
+41% tetrahedral Al 
+
+23% × 31% = 7% 
+1 
+Interstitial tetrahedral Al 
+34% × 41% = 14% 
+1 
+77% × 31% = 24% 
+3.4 
+Substitutional tetrahedral Al 
+66% × 41% = 27% 
+1.9 
+
+treatment results in an increase of the tetrahedral aluminium 
+fraction in the resulting ZnO nanocrystalline rods. Fur-
+thermore, the appearance of a plasmon absorption signal 
+(FTIR spectra) due to the presence of free charge carriers 
+and the significant increase in conductivity (microwave 
+absorption measurements) for ZnO:Al nanocrystals that 
+were solvothermally treated for longer reaction times (48 h 
+and 96 h) suggests an increase of the tetrahedral aluminium 
+in substitutional positions. The lack of a plasmon absorption 
+signal and of a significant increase in conductivity for the 
+ZnO:Al nanocrystals prepared by stirring during a short 
+solvothermal reaction time of 6 h suggests that the increase 
+in the tetrahedral aluminium fraction is not associated with 
+an increase in substitutional aluminium in these crystals. 
+Additionally, the 𝑇 1 spin-lattice relaxation time behavior of 
+the tetrahedral signal shows a 77% contribution of sub-
+stitutional tetrahedral aluminium in the ZnO:Al nanorods 
+obtained by 96 h solvothermal treatment as compared to a 
+66% contribution of substitutional tetrahedral aluminium in 
+the ZnO:Al nanorods obtained by stirring during the 6 h 
+solvothermal treatment. 
+It can be concluded that the substitutional tetrahedral 
+aluminium fraction can be successfully increased by extend-
+ing the duration of the solvothermal treatment. The ZnO:Al 
+nanorods solvothermally treated for 96 h exhibited the largest 
+proportion of substitutional tetrahedral aluminium, making 
+this the most promising route for further studies. Further-
+more, it is demonstrated that, by employing the unique 
+combination of complementary techniques used in this study, 
+the exact position of aluminium in the ZnO lattice can be 
+determined, allowing to make predictions toward the best 
+building blocks for transparent conductive layers. 
+
+Conflict of Interests 
+
+The authors declare that there is no conflict of interests 
+regarding the publication of this paper. 
+
+Acknowledgments 
+
+The authors are indebted to G. Reekmans (UHasselt) for 
+the 27 Al-NMR measurements and B. Ruttens (UHasselt) for 
+the X-ray diffraction measurements. The reported research 
+was funded by the Research Foundation Flanders (FWO 
+Vlaanderen), the Flemish Methusalem Nanoprogram, and 
+the SOPPOM program of the Flemish Strategic Initiative for 
+
+Materials (SIM) and Interreg Vlaanderen Nederland, Solar 
+Flare, under project no. IVA-VLANED-1.59. 
+
+References 
+
+[1] D. S. Ginley, H. Hosono, and D. C. Paine, Handbook of 
+Transparent Conductors, Springer, New York, NY, USA, 2011. 
+[2] T. Minami, "Transparent conducting oxide semiconductors for 
+transparent electrodes, " Semiconductor Science and Technology, 
+vol. 20, no. 4, article S35, 2005. 
+[3] H. Y. Liu, V. Avrutin, N. Izyumskaya, Ü. Özgr, and H. Morkoc 
+¸, 
+"Transparent conducting oxides for electrode applications 
+in light emitting and absorbing devices, " Superlattices and 
+Microstructures, vol. 48, no. 5, pp. 458-484, 2010. 
+[4] Y. L. Liu, Y. F. Li, and H. B. Zeng, "ZnO-based transparent 
+conductive thin films: doping, performance, and processing, " 
+Journal of Nanomaterials, vol. 2013, Article ID 196521, 9 pages, 
+2013. 
+[5] Z. H. Lu, J. X. Zhou, A. J. Wang, N. Wang, and X. N. 
+Yang, "Synthesis of aluminium-doped ZnO nanocrystals with 
+controllable morphology and enhanced electrical conductivity, " 
+Journal of Materials Chemistry, vol. 21, no. 12, pp. 4161-4167, 
+2011. 
+[6] T. V. Thu and S. Maenosono, "Synthesis of high-quality Al-
+doped ZnO nanoink, " Journal of Applied Physics, vol. 107, no. 
+1, Article ID 014308, 2010. 
+[7] D. V. Talapin, J.-S. Lee, M. V. Kovalenko, and E. V. Shevchenko, 
+"Prospects of colloidal nanocrystals for electronic and optoelec-
+tronic applications, " Chemical Reviews, vol. 110, no. 1, pp. 389-
+458, 2010. 
+[8] B. Nasr, S. Dasgupta, D. Wang, N. Mechau, R. Kruk, and H. 
+Hahn, "Electrical resistivity of nanocrystalline Al-doped zinc 
+oxide films as a function of Al content and the degree of its 
+segregation at the grain boundaries, " Journal of Applied Physics, 
+vol. 108, no. 10, Article ID 103721, 2010. 
+[9] X. F. Han, K. Han, and M. Tao, "Electrodeposition of group-IIIA 
+doped ZnO as a transparent conductive oxide, " in Photovoltaics 
+for the 21st Century 5, M. Tao, P. Chang, K. Kakimoto et al., Eds., 
+vol. 25, pp. 93-102, 2010. 
+[10] D.-J. Lee, J.-Y. Kwon, S.-H. Kim, H.-M. Kim, and K.-B. Kim, 
+"Effect of Al distribution on carrier generation of atomic layer 
+deposited Al-doped ZnO films, " Journal of the Electrochemical 
+Society, vol. 158, no. 5, pp. D277-D281, 2011. 
+[11] X. H. Wang, R. B. Li, and D. H. Fan, "Study on synthesis and 
+optical properties of Al-doped ZnO hierarchical nanostruc-
+tures, " AIP Advances, vol. 1, no. 1, Article ID 012107, 2011. 
+[12] E. Vasile, R. Plugaru, S. Mihaiu, and A. Toader, "Study of 
+microstructure and elemental micro-composition of ZnO:Al 
+
+
+8 
+
+Journal of Nanomaterials 
+
+thin films by scanning and high resolution transmission elec-
+tron microscopy and energy dispersive X-ray spectroscopy, " 
+Romanian Journal of Information Science and Technology, vol. 
+14, no. 4, pp. 346-355, 2011. 
+[13] Y. Zhang, Y. Yang, J. Zhao et al., "Optical and electrical prop-
+erties of aluminum-doped zinc oxide nanoparticles, " Journal of 
+Materials Science, vol. 46, no. 3, pp. 774-780, 2011. 
+[14] H. Serier, A. Demourgues, J. Majimel, and M. Gaudon, "Infrared 
+absorptive properties of Al-doped ZnO divided powder, " Jour-
+nal of Solid State Chemistry, vol. 184, no. 6, pp. 1523-1529, 2011. 
+[15] K. Elen, A. Kelchtermans, H. van den Rul et al., "Comparison 
+of two novel solution-based routes for the synthesis of equiaxed 
+zno nanoparticles, " Journal of Nanomaterials, vol. 2011, Article 
+ID 390621, 6 pages, 2011. 
+[16] H. Damm, A. Kelchtermans, A. Bertha et al., "Thermal decom-
+position synthesis of Al-doped ZnO nanoparticles: an in-depth 
+study, " RSC Advances, vol. 3, no. 45, pp. 23745-23754, 2013. 
+[17] D. Nie, T. Xue, Y. Zhang, and X. Li, "Synthesis and structure 
+analysis of aluminum doped zinc oxide powders, " Science in 
+China Series B: Chemistry, vol. 51, no. 9, pp. 823-828, 2008. 
+[18] H. Serier, M. Gaudon, and M. Ménétrier, "Al-doped ZnO 
+powdered materials: Al solubility limit and IR absorption 
+properties, " Solid State Sciences, vol. 11, no. 7, pp. 1192-1197, 2009. 
+[19] T. K. Gupta, "Microstructural engineering through donor and 
+acceptor doping in the grain and grain boundary of a polycrys-
+talline semiconducting ceramic, " Journal of Materials Research, 
+vol. 7, no. 12, pp. 3280-3295, 1992. 
+[20] T. Kemmitt, B. Ingham, and R. Linklater, "Optimization of sol-
+gel-formed ZnO:Al processing parameters by observation of 
+dopant ion location using solid-state 27 Al NMR spectrometry, " 
+The Journal of Physical Chemistry C, vol. 115, no. 30, pp. 15031-
+15039, 2011. 
+[21] J. P. Kar, S. Kim, B. Shin et al., "Influence of sputtering pressure 
+on morphological, mechanical and electrical properties of Al-
+doped ZnO films, " Solid-State Electronics, vol. 54, no. 11, pp. 
+1447-1450, 2010. 
+[22] S. Mridha and D. Basak, "Aluminium doped ZnO films: elec-
+trical, optical and photoresponse studies, " Journal of Physics D: 
+Applied Physics, vol. 40, no. 22, pp. 6902-6907, 2007. 
+[23] A. Kelchtermans, K. Elen, K. Schellens et al., "Relation between 
+synthesis conditions, dopant position and charge carriers in 
+aluminium-doped ZnO nanoparticles, " RSC Advances, vol. 3, 
+no. 35, pp. 15254-15262, 2013. 
+[24] R. A. Waldron, The Theory of Waveguides and Cavities, Maclaren 
+&amp; Sons Ltd, London, UK, 1967. 
+[25] D. Slocombe, A. Porch, E. Bustarret, and O. A. Williams, 
+"Microwave properties of nanodiamond particles, " Applied 
+Physics Letters, vol. 102, no. 24, Article ID 244102, 2013. 
+[26] K. J. D. MacKenzie and M. E. Smith, Multinuclear Solid-State 
+NMR of Inorganic Materials, Elsevier, New York, NY, USA, 2002. 
+[27] M. Kanehara, H. Koike, T. Yoshinaga, and T. Teranishi, "Indium 
+tin oxide nanoparticles with compositionally tunable surface 
+plasmon resonance frequencies in the near-IR region, " Journal 
+of the American Chemical Society, vol. 131, no. 49, pp. 17736-
+17737, 2009. 
+[28] T. Wang and P. V. Radovanovic, "Free electron concentration 
+in colloidal indium tin oxide nanocrystals determined by their 
+size and structure, " Journal of Physical Chemistry C, vol. 115, no. 
+2, pp. 406-413, 2011. 
+[29] M. Jullien, D. Horwat, F. Manzeh et al., "Influence of the 
+nanoscale structural features on the properties and electronic 
+
+structure of Al-doped ZnO thin films: an X-ray Absorption 
+Study, " Solar Energy Materials and Solar Cells, vol. 95, no. 8, pp. 
+2341-2346, 2011. 
+[30] J. N. Duenow, T. A. Gessert, D. M. Wood, B. Egaas, R. Noufi, and 
+T. J. Coutts, "Investigation of ZnO: Al doping level and depo-
+sition temperature effects on CIGS solar cell performance, " in 
+Thin-Film Compound Semiconductor Photovoltaics, T. Gessert, 
+K. Durose, C. Heske, S. Marsillac, and T. Wada, Eds., vol. 1012, 
+pp. 15-20, 2007. 
+[31] P. Gondoni, M. Ghidelli, F. Di Fonzo et al., "Structure-
+dependent optical and electrical transport properties of nanos-
+tructured Al-doped ZnO, " Nanotechnology, vol. 23, no. 36, 
+Article ID 365706, 2012. 
+[32] J. F. Stebbins, "Aluminum substitution in rutile titanium diox-
+ide: new constraints from high-resolution 27 Al NMR, " Chem-
+istry of Materials, vol. 19, no. 7, pp. 1862-1869, 2007. 
+[33] Y. S. Avadhut, J. Weber, E. Hammarberg, C. Feldmann, and 
+J. Schmedt Auf Der Günne, "Structural investigation of alu-
+minium doped ZnO nanoparticles by solid-state NMR spec-
+troscopy, " Physical Chemistry Chemical Physics, vol. 14, no. 33, 
+pp. 11610-11625, 2012. 
+
+
+Submit your manuscripts at 
+http://www.hindawi.com 
+
+Scientifica 
+
+Hindawi Publishing Corporation 
+http://www.hindawi.com 
+Volume 2014 
+
+Corrosion 
+
+International Journal of 
+
+Hindawi Publishing Corporation 
+http://www.hindawi.com 
+Volume 2014 
+
+Polymer Science 
+
+International Journal of 
+
+Hindawi Publishing Corporation 
+http://www.hindawi.com 
+Volume 2014 
+
+Hindawi Publishing Corporation 
+http://www.hindawi.com 
+Volume 2014 
+
+Ceramics 
+
+Journal of 
+
+Hindawi Publishing Corporation 
+http://www.hindawi.com 
+Volume 2014 
+
+Composites 
+
+Journal of 
+
+Nanoparticles 
+
+Journal of 
+
+Hindawi Publishing Corporation 
+http://www.hindawi.com 
+Volume 2014 
+
+Hindawi Publishing Corporation 
+http://www.hindawi.com 
+Volume 2014 
+
+International Journal of 
+
+Biomaterials 
+
+Hindawi Publishing Corporation 
+http://www.hindawi.com 
+Volume 2014 
+
+Nanoscience 
+
+Journal of 
+
+Textiles 
+
+Hindawi Publishing Corporation 
+http://www.hindawi.com 
+Volume 
+
+Journal of 
+
+Nanotechnology 
+
+Hindawi Publishing Corporation 
+http://www.hindawi.com 
+Volume 
+
+Journal of 
+
+Crystallography 
+
+Journal of 
+
+Hindawi Publishing Corporation 
+http://www.hindawi.com 
+Volume 2014 
+
+The Scientific 
+World Journal 
+
+Hindawi Publishing Corporation 
+http://www.hindawi.com 
+Volume 2014 
+
+Hindawi Publishing Corporation 
+http://www.hindawi.com 
+Volume 2014 
+
+Coatings 
+
+Journal of 
+
+Advances in 
+
+Materials Science and Engineering 
+
+Hindawi Corporation 
+http://www.hindawi.com 
+Volume 2014 
+
+Smart Materials 
+Research 
+
+Hindawi Publishing Corporation 
+http://www.hindawi.com 
+Volume 2014 
+
+Hindawi Publishing 
+http://www.hindawi.com 
+Volume 2014 
+
+Metallurgy 
+
+Journal of 
+
+Hindawi Publishing Corporation 
+http://www.hindawi.com 
+Volume 2014 
+
+BioMed 
+Research International 
+
+Materials 
+
+Journal of 
+
+Hindawi Publishing Corporation 
+http://www.hindawi.com 
+Volume 
+
+Nanomaterials 
+
+Hindawi Publishing Corporation 
+http://www.hindawi.com 
+Volume 2014 
+
+Journal of 
+
+Nanomaterials 
+
+
+
+	
+
