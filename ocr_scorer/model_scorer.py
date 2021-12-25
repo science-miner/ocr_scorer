@@ -114,7 +114,7 @@ class ModelScorer(object):
 
         # process last (incomplete) batch
         if len(segments)>0:
-            preds += self.predict_batch(segments, next_chars, len(segments))
+            preds += self.predict_batch(segments, next_chars, self.batch_size)
         if len(preds) == 0:
             return 0.0
 
@@ -126,19 +126,19 @@ class ModelScorer(object):
 
     def predict_batch(self, segments, next_chars, local_batch_size):
         local_preds = []
-        X = np.zeros((local_batch_size, self.max_length, self.voc_size))
-        for batch_idx in range(0, local_batch_size):
+        X = np.zeros(shape=(local_batch_size, self.max_length, self.voc_size), dtype=np.float32)
+        actual_batch_size = min(local_batch_size, len(segments))
+        for batch_idx in range(0, actual_batch_size):
             for i in range(0, self.max_length):
                 if not segments[batch_idx][i] in self.chars:
                     X[batch_idx, i, self.UNK] = 1
                 else:
                     X[batch_idx, i, self.char_indices[segments[batch_idx][i]]] = 1
-
-        predictions = self.model.predict(X)
+        predictions = self.model.predict(X, batch_size=local_batch_size)
 
         # get probabilities for actual next chars
         sum_pred = 0.0
-        for batch_idx in range(0, local_batch_size):
+        for batch_idx in range(0, actual_batch_size):
             #print(predictions[batch_idx])
             #print("target char:", next_chars[batch_idx], str(self.char_indices[next_chars[batch_idx]]))
             if not next_chars[batch_idx] in self.chars:
@@ -214,8 +214,8 @@ class ModelScorer(object):
 
         self.model = keras.Sequential(
             [
-                #keras.Input(shape=(self.max_length, self.voc_size)),
-                keras.Input(batch_shape=(self.batch_size,self.max_length, self.voc_size)),
+                keras.Input(shape=(self.max_length, self.voc_size), batch_size=self.batch_size),
+                #keras.Input(batch_shape=(self.batch_size,self.max_length, self.voc_size)),
                 layers.LSTM(128, recurrent_dropout=0.2, return_sequences=True, stateful=True), 
                 layers.Dropout(0.2),
                 layers.LSTM(128, recurrent_dropout=0.2, stateful=True), 
@@ -261,8 +261,8 @@ class ModelScorer(object):
 
         self.model = best_model
         bpc = best_avg_loss / tf.constant(math.log(2))
-        sys.stdout.write("bpc:")
-        tf.print(bpc, output_stream=sys.stderr)
+        sys.stdout.write("bpc: ")
+        tf.print(bpc, output_stream=sys.stdout)
         sys.stdout.write("\n")
 
         # saving model
@@ -327,12 +327,18 @@ if __name__ == '__main__':
 
     model.evaluate()
     
-    score = model.score_text("This is an example that might be a little short, but will be sufficent as a text. This is an example that might be a little short, but will be sufficent as a text. This is an example that might be a little short, but will be sufficent as a text. This is an example that might be a little short, but will be sufficent as a text.")
+    example1 = "This is an example that might be a little short, but will be sufficent as a text. This is an example that might be a little short, but will be sufficent as a text. This is an example that might be a little short, but will be sufficent as a text. This is an example that might be a little short, but will be sufficent as a text."
+    print(example1)
+    score = model.score_text(example1)
     print(str(score))
     
-    score = model.score_text("This is a examble tha might bee a little shirt, bot wall be subicent as a tax. This is an example that might be a little short, but will be sufficent as a text. This is a examble tha might bee a little shirt, bot wall be subicent as a tax.This is an example that might be a little short, but will be sufficent as a text.")
+    example2 = "This is a examble tha might bee a little shirt, bot wall be subicent as a tax. This is an example that might be a little short, but will be sufficent as a text. This is a examble tha might bee a little shirt, bot wall be subicent as a tax.This is an example that might be a little short, but will be sufficent as a text."
+    print(example2)
+    score = model.score_text(example2)
     print(str(score))
 
-    score = model.score_text("strange-quark fragmentation. While similar, the shapes are not nearly identical. While the similarity is an interesting observation, it may be coincidental, and likely can only be disentangled in a full QCD analysis, which is at this point ")
+    example3 = "strange-quark fragmentation. While similar, the shapes are not nearly identical. While the similarity is an interesting observation, it may be coincidental, and likely can only be disentangled in a full QCD analysis, which is at this point "
+    print(example3)
+    score = model.score_text(example3)
     print(str(score))
 
