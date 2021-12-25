@@ -1,0 +1,2041 @@
+
+	
+
+		
+
+	
+
+	
+
+Note: Within nine months from the publication of the mention of the grant of the European patent, any person may give 
+notice to the European Patent Office of opposition to the European patent granted. Notice of opposition shall be filed in 
+a written reasoned statement. It shall not be deemed to have been filed until the opposition fee has been paid. (Art. 
+99(1) European Patent Convention). 
+
+Printed by Jouve, 75001 PARIS (FR) 
+
+(19) 
+
+EP 1 566 853 B1 
+
+&amp; 
+
+(11) 
+
+EP 1 566 853 B1 
+
+(12) 
+
+EUROPEAN PATENT SPECIFICATION 
+
+(45) Date of publication and mention 
+
+of the grant of the patent: 
+10.10.2007 Bulletin 2007/41 
+
+(21) Application number: 05076190.7 
+
+(22) Date of filing: 16.03.1999 
+
+(51) Int Cl.: 
+
+H05B 33/22 (2006.01) 
+H05B 33/10 (2006.01) 
+G02B 5/20 (2006.01) 
+G02B 5/22 (2006.01) 
+
+(54) Thin film formation method, display, and color filter 
+
+Dünnschichtherstellungsverfahren, Anzeigevorrichtung und Farbfilter 
+
+Méthode de réalisation d'un traitement de couches minces, affichage et filtre de couleur 
+
+(84) Designated Contracting States: 
+
+DE GB NL 
+
+(30) Priority: 18.03.1998 JP 6914698 
+
+(43) Date of publication of application: 
+
+24.08.2005 Bulletin 2005/34 
+
+(62) Document number(s) of the earlier application(s) in 
+
+accordance with Art. 76 EPC: 
+99907949.4 / 0 993 235 
+
+(73) Proprietor: Seiko Epson Corporation 
+
+Shinjuku-ku 
+Tokyo 163-0811 (JP) 
+
+(72) Inventor: Yudasaka, Ichio, 
+
+c/o Seiko Epson Corporation 
+Suwa-shi, 
+Nagano-ken 392-8502 (JP) 
+
+(74) Representative: Kenyon, Sarah Elizabeth et al 
+
+Miller Sturt Kenyon 
+9 John Street 
+London WC1N 2ES (GB) 
+
+(56) References cited: 
+
+EP-A-0 665 449 
+EP-A-0 823 644 
+EP-A-0 880 303 
+EP-A-0 940 797 
+
+
+EP 1 566 853 B1 
+
+2 
+
+5 
+
+10 
+
+15 
+
+20 
+
+25 
+
+30 
+
+35 
+
+40 
+
+45 
+
+50 
+
+55 
+
+Description 
+
+TECHNICAL FIELD 
+
+[0001] The present invention relates to a thin film for-
+mation technology suitable for manufacturing a display 
+and a color filter having an EL (electroluminescence) de-
+vice or an LED (light emitting diode), and more particu-
+larly to a technology advantageous for forming a multi-
+layer thin film layer between partition elements. 
+
+BACKGROUND ART 
+
+[0002] An ink jet method has been used to fill material, 
+such as color resin, to organic semiconductor film of a 
+display or to a color filter to manufacture liquid crystal 
+panels for color display. 
+[0003] When material is filled by an ink jet method, it 
+is necessary to form partition elements to partition pixel 
+areas (hereafter also called " banks" , a layer to form par-
+tition elements is called a banks layer"), and to fill a thin 
+film material solution to the area enclosed with the par-
+tition elements. A thin film material solution, which vol-
+ume is much larger than the volume after film formation, 
+is filled in the pixel area enclosed with the partition ele-
+ments. Since a display is generally demanded to be slim, 
+the height of the partition elements is limited. Therefore 
+the behavior of the thin filmmaterial solution filled there 
+differs depending on the wettability (affinity) which the 
+partition elements and the area enclosed with the parti-
+tion elements have for the thin film material solution. 
+[0004] If the partition elements have affinity for the ma-
+terial, the material easily flows over to the adjacent pixel 
+areas, even if the partition elements exist, when an 
+amount of material exceeding the height of the partition 
+elements is filled, as shown in Fig. 9A. If the partition 
+elements have no affinity for the material, the material 
+does not flow over to the adjacent pixel areas due to the 
+surface tension of the material, even if the amount of 
+material exceeding the height of the partition materials 
+is filled, as shown in Fig. 9B. If this material is heated to 
+evaporate the solvent, thickness after film formation be-
+comes thick at the center of the pixel area and thin at the 
+edges, since the material is repelled by the side walls of 
+the partition elements, as shown in Fig. 9C. This causes 
+color unevenness and reduces reliability. Also if the par-
+tition elements are comprised of non-affinity elements, 
+adhesion of the partition elements and ground plane of 
+the partition elements is weak, which makes partition el-
+ements easily separate. 
+[0005] A prior art to solve such problems is a surface 
+treatment technology to make the top of the partition el-
+ements have no affinity and to make the other portions 
+have affinity. Japanese Patent Laid-open No. 9-203803 
+and Japanese Patent Laid-open No. 9-230129, for ex-
+ample, disclose a technology to process the top portion 
+of the partition elements to be ink repellent by irradiating 
+ultraviolet rays, and the area enclosed with the partition 
+
+elements to have affinity for ink. For the former, an ink 
+repellent (non-affinity) layer is coated at the top portion 
+of the partition elements, and for the latter, the concave 
+portion enclosed with the partition elements is made to 
+have affinity for ink (affinity) by ultraviolet irradiation. Log-
+ical considerations of this technology are written in Inter-
+national Display Research Conference 1997, pp. 238 -
+241. According to this technology, even if material is filled 
+to the height exceeding the height of the partition ele-
+ments, the material is repelled by the non-affinity film, 
+and does not overflow to the adjacent pixel areas, as 
+shown in Fig. 10 A, since the side walls of the partition 
+elements have affinity, and the thickness of formed film 
+does not become thin at the edges of the pixel areas. 
+[0006] However, even in the above known technology, 
+it is not clear how to set affinity of the side walls of the 
+partition elements, therefore it is difficult to obtain a flat 
+thin film layer. Japanese Patent Laid-open No. 9-230129 
+states that the degree of affinity is controlled by irradiating 
+ultraviolet rays from both the front and back sides, but 
+the degree of affinity and non-affinity, that is, how to set 
+the respective contact angle to the thin film material so-
+lution, is not known. 
+[0007] If the non-affinity is too high, for example, the 
+thin film layer becomes thin at the edges near the partition 
+elements and thick at the center as shown in Fig. 9C. If 
+affinity is too high, on the other hand, the thin film layer 
+becomes thick at the edges near the partition elements 
+and thin at the center as shown in Fig. 10B. 
+[0008] Also the above known technology assumes that 
+there is only one thin film layer, therefore it is totally un-
+known how to treat the surface for forming a flat thin film 
+layer for each layer when multi-layered thin film layers 
+are formed. If the above known technology is applied for 
+each layer, surface treatment is required each time a 
+layer is formed, which requires numerous processing 
+steps. 
+[0009] EP0940797 discloses an active matrix display 
+device in which a thick insulating film is preferably formed 
+around an organic semiconductive film of a thin film lu-
+minescent device without damaging the thin film lumi-
+nescent device, the active matrix display device is pro-
+vided with a bank layer along a data line and a scanning 
+line to suppress formation of parasitic capacitance in the 
+data line, in which the bank layer surrounds a region for 
+forming the organic semiconductive film of the thin film 
+luminescent device by an ink-jet process. The bank layer 
+consists of a lower insulating layer composed of a thick 
+organic material and an upper insulating layer of an or-
+ganic material which is deposited on the lower insulating 
+layer and has a smaller thickness so as to avoid contact 
+of the organic semiconductive film with the upper insu-
+lating layer. 
+
+DISCLOSURE OF THE INVENTION 
+
+[0010] The present inventor discovered that if plasma 
+treatment is performed using fluorine gas, the contact 
+
+1 
+2 
+
+
+EP 1 566 853 B1 
+
+3 
+
+5 
+
+10 
+
+15 
+
+20 
+
+25 
+
+30 
+
+35 
+
+40 
+
+45 
+
+50 
+
+55 
+
+angle to ink is greatly different between an organic sub-
+stance and an inorganic substance, depending on the 
+mixing ratio of oxygen gas and fluorine gas. The present 
+inventor also discovered that affinity can be controlled 
+by forming banks where affinity material and non-affinity 
+material are alternately layered and by executing plasma 
+treatment. 
+[0011] It is accordingly an object of the present inven-
+tion to provide a substrate structure. 
+[0012] An example is given on how to control affinity 
+without going through many processing steps for affinity 
+control by managing surface treatment under predeter-
+mined conditions, so as to decrease the cost required for 
+affinity control and to form multi-layer thin films having a 
+uniform film thickness. 
+[0013] An example is given on how to provide a display 
+layered by the thin film formation method which can form 
+multi-layer films. By this, image display without uneven 
+brightness and color is implemented and reliability is im-
+proved. 
+[0014] An example is given on how to provide a color 
+filter layered by the thin film formation method which can 
+form multi-layer films. By this, image display without un-
+even brightness and color is implemented. 
+[0015] To achieve the object, the present invention 
+provides a substrate structure comprising: a substrate; 
+a plurality of thin film layers laminated on the substrate 
+and a bank enclosing an area in which the plurality of 
+thin film layers are arranged, the bank including a first 
+bank layer, a second bank layer and a third bank layer, 
+the second bank layer being disposed between the first 
+and third bank layers, the first and third bank layers being 
+made from one of an inorganic material and an organic 
+material, the second bank layer being made from the 
+other of the inorganic material and the organic material, 
+the first and third bank layers having affinity layers and 
+the second bank layer having non-affinity. 
+[0016] A thin film formation method is also described. 
+The method is for forming a thin film layer by filling a thin 
+film material solution in areas enclosed with banks, com-
+prising a step of forming the banks on a bank formation 
+face, and a step of filling the thin film material solution in 
+the banks. The step of forming the banks is for forming 
+the banks where an affinity bank layer and a non-affinity 
+bank layer are alternately layered by repeating the step 
+of forming the affinity bank layer with an affinity material 
+and a step of forming the non-affinity bank layer with a 
+non-affinity material one or more times. 
+[0017] " Banks" here refer to partition elements which 
+are formed to partition pixels of a display using a non-
+affinity semiconductor thin film device or to partition pixel 
+areas of a color filter. For the layer structure of a bank, 
+the type of non-affinity material or affinity material may 
+be changed for each layer. The thickness of each layer 
+to be layered may be changed for each layer. The bank 
+formation face is a face where the banks are formed, and 
+may be a drive board of a display or a transparent board 
+of a color filter. 
+
+[0018] Affinity or non-affinity here is determined de-
+pending on the characteristics of the thin film material 
+solution used to fill. If the thin film material solution has 
+a hydrophilic property, for example, the surface having 
+a polar group exhibits affinity, and the surface having a 
+non-polar group exhibits non-affinity. If the thin film ma-
+terial solution has a lipophilic property, on the other hand, 
+the surface having a polar group exhibits non-affinity, and 
+the surface having a non-polar group exhibits affinity. The 
+thin film material solution is selected in various ways de-
+pending on the manufacturing target. When the hy-
+drophilic property or hydrophobic property of the thin film 
+material solution changes at every layer, the layer struc-
+ture is changed such that the bottom layer, of the two 
+bank layers formed at positions corresponding to the thin 
+film layer formed by the thin film material solution, exhibits 
+non-affinity to the thin film material solution, and the top 
+layer exhibits affinity. When the thin film material solution 
+has a hydrophilic property, for example, an affinity ma-
+terial is an inorganic material and a non-affinity material 
+is an organic material. When the thin film material solution 
+has a hydrophobic property, an affinity material is an or-
+ganic material and a non-affinity material is an inorganic 
+material. 
+[0019] This involves, for example, a method for forming 
+the above mentioned bank layer by coating materials. In 
+other words, the step of forming the non-affinity bank 
+layer and the step of forming the affinity bank layer are 
+steps of forming respective bank layers by coating pre-
+determined materials dissolved in solvent. And the non-
+affinity bank layer is formed by coating the material for 
+the non-affinity bank layer before removing the solvent 
+where the material of the affinity bank layer is dissolved. 
+[0020] A step of executing a predetermined surface 
+treatment for the banks and bank formation faces after 
+the above step of forming the banks is also described. 
+For the surface treatment, reduced pressure plasma 
+treatment or atmospheric pressure plasma treatment is 
+performed where the plasma gas is irradiated under a 
+reduced pressure atmosphere or under atmospheric 
+pressure using gas containing a fluorine or fluorine com-
+pound as the introductory gas. A prescribed condition is, 
+for example, to execute plasma treatment in gas contain-
+ing a fluorine compound and oxygen. Under this condi-
+tion, a non-reactive group is generated on the surface of 
+the inorganic material by plasma discharge, the non-re-
+active group is oxidized by oxygen, and a polar group, 
+such as a carbonyl group or hydroxyl group, is generated. 
+The polar group exhibits an affinity for fluid containing 
+polar molecules, such as water, and exhibits non-affinity 
+for fluid containing non-polar molecules. In parallel with 
+the above reaction, a phenomenon where the fluorine 
+compound molecules enter the organic material surface 
+also occurs on the surface of the organic bank layer. 
+[0021] Particularly when the amount of fluorine com-
+pound is more than oxygen, that is, when the content of 
+the fluorine compound to the total amount of fluorine com-
+pound and oxygen is set to 60% or more, for example, 
+
+3 
+4 
+
+
+EP 1 566 853 B1 
+
+4 
+
+5 
+
+10 
+
+15 
+
+20 
+
+25 
+
+30 
+
+35 
+
+40 
+
+45 
+
+50 
+
+55 
+
+the surface is non-polarized by the mixing phenomenon 
+of fluorine compound rather than by the influence of ox-
+idation, since the mixing phenomenon of fluorine com-
+pound is more active than oxidation by oxygen in a gas 
+atmosphere where the amount of fluorine compound ex-
+ceeds oxygen. Therefore if plasma treatment is executed 
+for an organic material under the condition where the 
+amount of fluorine compound exceeds oxygen, the or-
+ganic material exhibits a non-affinity for fluid containing 
+polar molecules and exhibits an affinity for fluid contain-
+ing non-polar molecules. For the gas containing fluorine, 
+halogen gas, such as CF4, SF6 or CHF3, is used. If a 
+surface treatment is executed under this condition, the 
+affinity of the surface of the non-affinity bank layer and 
+the affinity bank layer is adjusted such that the difference 
+between respective contact angles to the thin film mate-
+rial solution is greater. As a result, the surface is treated 
+such that the contact angle of the surface of the affinity 
+bank layer to the thin film material solution becomes 30 
+degrees or less, for example. And the surface is treated 
+such that the contact angle of the non-affinity bank layer 
+to the thin film material solution becomes 40 degrees or 
+more, for example. 
+[0022] In the above mentioned surface treatment step, 
+the surface treatment is executed under a predetermined 
+condition where the non-affinity bank layer has a higher 
+degree of non-affinity for the thin film material solution 
+compared with the affinity material. Also in the surface 
+treatment step, the surface treatment is executed under 
+a predetermined condition where the affinity of the affinity 
+bank layer for the thin film material solution is less than 
+the affinity of the area enclosed with the banks for the 
+thin film material solution. 
+[0023] In the above mentioned step of forming the 
+banks, a set of an affinity bank layer and a non-affinity 
+bank layer is formed by, for example, an affinity bank 
+layer formation step of forming the affinity film with an 
+affinity material, a non-affinity bank layer formation step 
+of forming the non-affinity bank layer with a non-affinity 
+material matching the bank formation area on the affinity 
+bank layer, and a removal step of removing the affinity 
+bank layer at the area where the non-affinity bank layer 
+is not formed by etching using the non-affinity bank layer 
+as a mask. Also in the step of forming the banks, a set 
+of a affinity bank layer and a non-affinity bank layer is 
+formed by a step of forming the affinity bank layer with 
+an affinity material, a step of etching for etching the affinity 
+bank layer matching the bank formation area in the bot-
+tom layer, a step of forming the non-affinity bank layer 
+with a non-affinity material covering the affinity bank lay-
+er, and a step of etching the non-affinity bank layer match-
+ing the bank formation area in the top layer. It is also 
+acceptable to collectively etch two or more sets of an 
+affinity bank layer and a non-affinity bank layer after over-
+laying all or most of the affinity bank layers and non-
+affinity bank layers, rather than to perform etching to form 
+a bank shape each time. 
+[0024] Here the non-affinity material is, for example, 
+
+polyimide, amorphous silicon, polysilicon, an organic 
+compound containing fluorine or an insulating organic 
+compound (photosensitive material). The affinity material 
+is such metal as Al and Ta, silicon oxide film or silicon 
+nitride film. 
+[0025] Preferably in the thin film layers, the thin film 
+layer at the lowest layer is set to roughly the same thick-
+ness as the affinity bank layer at the lowest layer of the 
+bank. And each thin film layer layered on the lowest layer 
+is set to a thickness roughly the same as the total of the 
+respective thicknesses of the affinity bank layer and the 
+non-affinity bank layer which are layered to a height cor-
+responding to the banks. The contact shape of the wall 
+faces of the banks and the liquid surface of the filled thin 
+film material solution changes depending on the affinity 
+of the wall faces. In the contact face with the affinity bank 
+layer, the thickness of the thin film tends to increase since 
+the thin film material solution contacts the wall face, and 
+in the contact face with the non-affinity bank layer, the 
+thickness of the thin film tends to decrease since the thin 
+film material solution is repelled. The large amount of thin 
+film material solution, which is filled, gradually decreases 
+its volume by a heat treatment and other reasons, but if 
+the layered structure is adjusted such that the liquid level 
+of the thin film material solution comes to the boundary 
+between the non-affinity bank layer and the affinity bank 
+layer after heat treatment, then the characteristics of the 
+non-affinity bank layer and the affinity bank layer are bal-
+anced, and the liquid level of the thin film material solution 
+becomes vertical to the bank wall face, generally becom-
+ing flat. For example, the thickness of the non-affinity 
+bank layer at the top layer is set to 500nm or less, and 
+the thickness of the other non-affinity bank layer is set to 
+100nm or less. 
+[0026] Also described is a display comprised of layered 
+thin film layer formed by filling thin film material solution 
+in an area enclosed with banks, characterized in that the 
+bank is comprised of alternately layered affinity bank lay-
+ers formed with a material having affinity for the above 
+mentioned thin film material solution and non-affinity 
+bank layers formed with a material having non-affinity for 
+the above mentioned thin film material solution, pixel 
+electrodes made of ITO, for example, are formed in the 
+area enclosed with the above mentioned banks, and the 
+above mentioned thin film layer is formed with an organic 
+semiconductor material for forming a thin film light emit-
+ting element. 
+[0027] Also described is a color filter comprised of lay-
+ered thin film layers formed by filling a thin film material 
+solution in areas enclosed with banks, characterized in 
+that the bank is comprised of alternately layered affinity 
+bank layers formed with a material having affinity for the 
+above mentioned thin film material solution and non-af-
+finity bank layers formed with a material having non-af-
+finity for the above mentioned thin film material solution, 
+a bank formation face is formed as a transparent board, 
+the above mentioned banks are partition elements for 
+partitioning the pixel areas, and the above mentioned 
+
+5 
+6 
+
+
+EP 1 566 853 B1 
+
+5 
+
+5 
+
+10 
+
+15 
+
+20 
+
+25 
+
+30 
+
+35 
+
+40 
+
+45 
+
+50 
+
+55 
+
+thin film layer is formed with a color resin material for 
+providing colors to the above mentioned pixels. 
+[0028] In the above mentioned display and color filter, 
+the affinity bank layer and/or the non-affinity bank layer 
+are surface-treated so as to have affinity or non-affinity 
+respectively. 
+
+BRIEF DESCRIPTION OF THE DRAWINGS 
+
+[0029] 
+
+Fig. 1 is a cross-sectional view of a thin film layer 
+structure in accordance with the first embodiment of 
+the present invention; 
+Fig. 2 is a cross-sectional view of manufacturing 
+steps of a thin film formation method in accordance 
+with the first embodiment of the present invention; 
+Fig. 3 is a cross-sectional view of manufacturing 
+steps of the thin film formation method in accordance 
+with the first embodiment of the present invention 
+(continued from Fig. 2); 
+Fig. 4 is a graph depicting the relationship between 
+the mixing ratio of fluorine and oxygen and the con-
+tact angle in accordance with the principle of surface 
+treatment of the present invention; 
+Fig. 5 is a cross-sectional view of manufacturing 
+steps of a thin film formation method in accordance 
+with the second embodiment of the present inven-
+tion; 
+Fig. 6 is a cross-sectional view of an example when 
+the present invention is applied to a color filter; 
+Fig. 7 is a cross-sectional view of an example when 
+the present invention is applied to an organic semi-
+conductor light emitting element of a display; 
+Fig. 8 is a cross-sectional view of another example 
+when the present invention is applied to an organic 
+semiconductor light emitting element of a display; 
+Fig. 9 is a drawing depicting problems in convention-
+al bank formation; and 
+Fig. 10 is a drawing depicting problems in conven-
+tional bank formation. 
+
+BEST MODE FOR CARRYING OUT THE INVENTION 
+
+[0030] Embodiments of the present invention will now 
+be described with reference to the accompanying draw-
+ings. 
+
+(First embodiment) 
+
+[0031] The first embodiment of the present invention 
+concerns a thin film formation method using one of a 
+plurality of types of layers constituting a bank as a mask 
+for the other layers. 
+[0032] Fig. 1 is a cross-sectional view of a thin film 
+layer structure formed by the thin film formation method 
+of the present invention. This layer structure can be used 
+for various applications using multi-layered thin films. For 
+
+example, this layer structure can be used for an EL de-
+vice, LED and color filter using organic semiconductor 
+thin films. The layer structure in Fig. 1 is a structure when 
+a hydrophilic thin film material solution is used. In the 
+case of a hydrophilic thin film solution, affinity for surface-
+treated inorganic material is high, and affinity for organic 
+material is low (non-affinity). 
+[0033] As Fig. 1 shows, this layer structure is config-
+ured by forming banks 110 on a bank formation face 100. 
+The bank formation face may be a driving board where 
+thin film transistors (TFT) used for a display are formed, 
+or a transparent board used for a color filter. The structure 
+of the bank formation face is not restricted as long as it 
+is used for forming a thin film by filling fluid in areas en-
+closed by banks, which are partition elements. It is pref-
+erable that the bank formation face is made of a material 
+which adheres to an affinity bank layer 111 forming the 
+lowest layer of the bank 110. Particularly, it is preferable 
+that the bank formation face is made of inorganic material 
+in order to obtain appropriate affinity in the surface treat-
+ment to be executed later. The bank formation face is 
+comprised of ITO, which is a transparent electrode, and 
+silicon in the case of a display, and is comprised of glass 
+or quartz in the case of a color filter, so as to maintain 
+strong adhesion with the affinity bank layer. 
+[0034] The bank 110 is configured by alternately lay-
+ered affinity bank layers 111 -11n (n is a natural number) 
+and non-affinity bank layers 121 -12n. The surfaces of 
+the affinity bank layers 111 -11n are treated so as to 
+have a predetermined affinity for the thin film material 
+solution forming the thin film layers 131 -13n at positions 
+corresponding to the layer. As a material of the affinity 
+bank layers 111 -11n, a material having good adhesion 
+with the bank formation face 100 and the non-affinity bank 
+layers 121 -12n is preferable, and the material may have 
+any one of an insulating, semiconducting or conducting 
+property. For example, such metal as Al and Ta, silicon 
+oxide film (SiO 2 ) and silicon nitride film (SiNx), which are 
+generally used as insulation film, can be used as the af-
+finity bank layers 111-11n. It is not necessary to use the 
+same material for each affinity bank layer. Any material 
+which has good affinity for the thin film material solution 
+of the thin film layer 13x, which is formed corresponding 
+to each affinity bank layer 11x (x is an arbitrary natural 
+number), can be used, and it is unnecessary to use the 
+same material for all affinity bank layers. 
+[0035] The surfaces of the non-affinity bank layers 121 
+-12n are treated so as to have non-affinity for the thin 
+film material solution forming the thin film layers 131 -
+13n at positions corresponding to the layer. As a material 
+of the non-affinity bank layers 121 -12n, a material having 
+good adhesion with the affinity bank layers 111 -11n is 
+preferable, and the material may have any one of an in-
+sulating, semiconducting or conducting property. For ex-
+ample, such material as polyimide, amorphous silicon, 
+polysilicon, an organic compound containing fluorine or 
+insulating organic compound can be used as the non-
+affinity bank layers 121 -12n. It is not necessary to use 
+
+7 
+8 
+
+
+EP 1 566 853 B1 
+
+6 
+
+5 
+
+10 
+
+15 
+
+20 
+
+25 
+
+30 
+
+35 
+
+40 
+
+45 
+
+50 
+
+55 
+
+the same material for each non-affinity bank layer. Any 
+material can be layered if affinity for the thin film material 
+of the thin film layer 13x, which is formed corresponding 
+to each affinity bank layer 11x (x is an arbitrary natural 
+number), improves after surface treatment. For example, 
+when this layer structure is applied to a color filter, the 
+top layer 12n may be formed to be a black matrix so as 
+to provide a shielding function. In order to form the top 
+layer 12n as a shielding element, such metal as chrome, 
+oxide or black resist material can be used. 
+[0036] The thickness of each bank layer is set as fol-
+lows. If the lowest layer is the affinity bank layer 131, the 
+thickness d0 of the affinity bank layer 131 is set to be 
+roughly the same as the thickness of the thin film layer 
+131, which is formed corresponding to this layer. For the 
+layers on the lowest layer, the thickness dx when the 
+non-affinity bank layer 11x + 1 and the affinity bank layer 
+12x are added is set to be roughly the same as the thick-
+ness of the thin film layer 13x + 1, which is formed cor-
+responding to these layers. The thickness of the thin film 
+132, for example, is roughly the same as the thickness 
+d1, which is the total thickness of the non-affinity bank 
+layer 121 and the affinity bank layer 112. The thickness 
+of the thin film layer 13n is roughly the same as the thick-
+ness dn, which is the total thickness of the non-affinity 
+bank layer 12n -1 and the affinity bank layer 11n. These 
+settings are important to form a flat thin film layer. 
+[0037] The above layered structure is applied when 
+the thin film material solution is comprised of molecules 
+with a polar group. When the thin film material solution 
+is comprised of molecules without a polar group, the ma-
+terial of the non-affinity bank layer and the material of the 
+affinity bank layer are switched. 
+[0038] If each one of the thin film layers is formed with 
+molecules with a polar group or molecules without a polar 
+group depending on the layer, materials of two bank lay-
+ers, which are at positions where each thin film material 
+solution is filled, are selected such that the bottom layer 
+has non-affinity for the thin film material solution and the 
+top layer has affinity. 
+[0039] The thin film layers 131 -13n are comprised of 
+materials having characteristics which match the pur-
+pose of the respective layer. When this layered structure 
+is applied to a display, for example, an arbitrary organic 
+semiconductor thin film material solution is filled in each 
+thin film layer. For each thin film layer, an organic semi-
+conductor thin film material solution which emits primary 
+colors is laminated for a plurality of layers, or material for 
+a hole transporting layer or electron transporting layer is 
+filled and layered according to necessity. When this lay-
+ered structure is applied to a color filter, for example, 
+resin with a different refractive index is filled and layered 
+for each thin film layer. Such a layered thin film structure 
+becomes an optical interference filter where only light 
+with a specific wavelength is transmitted, which provides 
+colors with good selectivity. 
+[0040] A black matrix may be applied to the top layer 
+of the bank. In other words, chromium oxide or black 
+
+resist is coated. This layer may be used as the non-affinity 
+layer or may be formed independently from the non-af-
+finity layer. The thickness of each thin film layer 131 -
+13n is, as mentioned above, set roughly the same as the 
+total thickness of the non-affinity bank layer and the af-
+finity bank layer which are formed at positions corre-
+sponding to the thin film layer. 
+
+(Function of layered structure) 
+
+[0041] According to the above layered structure of the 
+banks, equipment where thin film layers with uniform 
+thickness are layered can be provided. When the banks 
+110 are manufactured in the above structure, the thin film 
+layer becomes flat. In other words, when thin film material 
+solution is filled, the contact shape of the liquid surface 
+of the thin film material solution to the wall faces changes 
+depending on the affinity of the wall faces of the bank. In 
+the contact face with the affinity bank layer, the thickness 
+of the thin film tends to increase, since the thin film ma-
+terial solution contacts the wall face, and in the contact 
+face with the non-affinity bank layer, the thickness of the 
+thin film tends to decrease since the thin film material 
+solution is repelled. The large volume of thin filmmaterial 
+solution which is filled, gradually decreases its volume 
+by a heat treatment and other reasons, but if the layered 
+structure is adjusted such that the liquid level of the thin 
+film material solution comes to the boundary between 
+the non-affinity bank layer and the affinity bank layer after 
+heat treatment, then the characteristics of the non-affinity 
+bank layer and the affinity bank layer are balanced, and 
+the liquid level of the thin film material solution becomes 
+vertical to the bank wall face, generally becoming flat. 
+[0042] Equipment using this layered structure exhibit 
+a predetermined effect since the thin film layer is flat. If 
+the thickness of each thin film layer is uniform, when a 
+light emitting type display device is formed by flowing 
+current between electrodes, the current density between 
+the electrodes becomes constant, which improves the 
+uniformity of light emission preventing a concentration of 
+current at a specific location, therefore reliability im-
+proves. In the case of a device where voltage is applied 
+between electrodes, an electric field is not applied on a 
+thin area, therefore this layered structure improves reli-
+ability and extends life. Color and brightness also be-
+come uniform. When this layered structure is applied to 
+a color filter, uniformity of colors improves and such prob-
+lems as missing colors can be prevented. 
+
+(Manufacturing method) 
+
+[0043] Now a thin film formation method for obtaining 
+this layered structure will be described with reference to 
+the cross-sectional views on manufacturing steps in Fig. 
+2 and Fig. 3. 
+
+9 
+10 
+
+
+EP 1 566 853 B1 
+
+7 
+
+5 
+
+10 
+
+15 
+
+20 
+
+25 
+
+30 
+
+35 
+
+40 
+
+45 
+
+50 
+
+55 
+
+Bank formation step (Fig. 2 A -D): 
+
+[0044] In the bank formation step, the affinity bank lay-
+ers 111 -11n and the non-affinity bank layers 121 -12n 
+are layered on the bank formation face 100 so as to form 
+the banks 110. 
+[0045] At first, the affinity bank layer 111 is formed on 
+the entire surface of the bank formation surface 100 (Fig. 
+2 A). The formation methods, including the PECVD (Plas-
+ma Enhanced Chemical Vapor Deposition) method, the 
+CVD (Chemical Vapor Deposition) method, evaporation 
+method, sputtering method and various coating methods 
+(spin coating, spray coating, roller coating, die coating 
+and dip coating) are used depending on the material. For 
+example, in this embodiment, SiO 2 film is formed using 
+the spin coating method by SOG (Spin On Glass). The 
+thickness of the affinity bank layer 111 at the lowest layer 
+is matched with the thickness of the thin film layer 131. 
+[0046] Then the non-affinity layer 121 is formed match-
+ing the bank shape (Fig. 2 B). To form the non-affinity 
+bank layer, an organic material is formed on the entire 
+surface by the above mentioned method. When a normal 
+photolithography method is used, a mask is placed 
+matching the bank shape, the resist is exposed, devel-
+oped and removed, and the organic material in the por-
+tions which is not masked is removed by etching. When 
+a printing method is used, the organic material is directly 
+coated matching the bank shape by such a method as 
+an intaglio, planographic or relief method. The thickness 
+of the non-affinity bank layer 121 is a thickness where a 
+function to repel the thin film material solution, which is 
+filled in later, can be sufficiently exhibited. Adjustment, 
+however, is necessary so that the total thickness of this 
+layer and the next affinity bank layer 112 to be overlapped 
+on this layer becomes roughly the same as the thin film 
+layer 132. 
+[0047] Then using the non-affinity bank layer 121 as a 
+resist mask, the inorganic material film is etched (Fig. 2 
+C). The non-affinity bank layer, which is an organic ma-
+terial, can function as a resist mask. 
+[0048] Next, just like in Fig. 2 A, SOG, an inorganic 
+material, is coated on the entire surface (Fig. 2 D). The 
+thickness of the inorganic material is a thickness where 
+a function to contact with the thin film material solution, 
+which is filled in later, can be sufficiently exhibited. Ad-
+justment, however, is necessary so that the total thick-
+ness of this layer and the non-affinity bank layer 121 un-
+der this layer becomes roughly the same as the thin film 
+layer 132. Hereafter, the bank is layered by repeating the 
+steps in Fig. 2 B -D. 
+[0049] The top layer to be layered is the non-affinity 
+bank layer 12n. This is because if the top layer does not 
+have non-affinity, the filled thin film material solution will 
+flow over the banks 110. 
+[0050] By the above steps, the structure comprised of 
+the banks 110 and the concave portions 101 enclosed 
+with the banks, as shown in Fig. 2 E, is formed. By this 
+structure, the banks with a multi-layered structure, where 
+
+the affinity layer and the non-affinity layer are alternately 
+layered, are formed. After these steps, the step to se-
+quentially fill the thin film material solution in the concave 
+portions 101, as shown in Fig. 3 B, is executed. Here, 
+surface treatment is executed to adjust the degree of 
+affinity of the bank formation face 100 and each layer of 
+the bank 110 for the thin film material solution. 
+
+Surface treatment step (Fig. 3 A): 
+
+[0051] In the surface treatment step, the affinity of the 
+bank formation face 100 and each layer of the bank 110 
+for the thin film material solution is adjusted by executing 
+plasma treatment under predetermined conditions. In the 
+plasma treatment of this invention, gas containing fluo-
+rine is used as the introductory gas. This plasma treat-
+ment may be reduced pressure plasma treatment under 
+a reduced pressure atmosphere, or may be atmospheric 
+pressure plasma treatment under atmospheric pressure. 
+It is preferred that the reaction gas contains a predeter-
+mined amount of oxygen. For the fluorine compound, 
+CF 4 , SF 6 , and such halogen gas as CHF 3 can be used. 
+[0052] Whether a surface becomes easy or difficult to 
+wet by a fluid, such as thin film material solution, that is, 
+whether the surface has affinity or non-affinity for the fluid, 
+is known by measuring the contact angle of the surface 
+to the fluid. Fig. 4 is a graph when changes of the contact 
+angle were measured depending on the mixing ratio of 
+fluorine compound and oxygen during plasma treatment 
+for organic material and inorganic material. The contact 
+angle is the contact angle to water-color ink (ink which 
+can be diluted in water). This graph shows the case when 
+CF 4 is used as the fluorine compound, polyimide as the 
+organic material and SiOz and ITO (Indium-Tin-Oxide) 
+as the inorganic material. Other materials will present a 
+similar tendency depending on whether the material is 
+organic or inorganic. As Fig. 4 shows, when oxygen ex-
+ceeds the fluorine compound, the degree of the contact 
+angle is not very different between the organic and inor-
+ganic materials. When fluorine compound exceeds oxy-
+gen, however, the contact angle of the organic material 
+increases. (If the thin film material solution has affinity, 
+the organic material exhibits non-affinity.) Whereas 
+changes of the contact angle of an inorganic material are 
+small. When oxygen is contained in the reaction gas, a 
+polar group is generated in both inorganic and organic 
+materials due to the oxidation function of oxygen. How-
+ever, if the fluorine compound exceeds, fluorine com-
+pound molecules enter the organic material, which rela-
+tively decreases the influence of the polar group. There-
+fore, by executing plasma treatment while controlling flu-
+orine compound so as to exceed oxygen, the surface of 
+the banks 110 and the bank formation face 100 can be 
+set to a desired contact angle (affinity), as shown in Fig. 
+4. In particular, using the optimum mixing ratio (CF 4 /CF 4 
++ O 2 = 75% -90%) is preferable to maximize the differ-
+ence of the contact angle between the banks and the 
+bank formation face. Critical is to set the difference of the 
+
+11 
+12 
+
+
+EP 1 566 853 B1 
+
+8 
+
+5 
+
+10 
+
+15 
+
+20 
+
+25 
+
+30 
+
+35 
+
+40 
+
+45 
+
+50 
+
+55 
+
+contact angle between polyimide and SOG or ITO large, 
+and to achieve this purpose, it is sufficient that CF 4 is 
+approximately 70% or more according to Fig. 4. For ex-
+ample, the surface of the affinity bank layer is treated 
+such that the contact angle to the thin film material solu-
+tion is 30 degrees or less. And the surface of the non-
+affinity bank layer is treated such that the contact angle 
+to the thin film material solution is 40 degrees or more. 
+[0053] According to the above, in the present embod-
+iment, a reduced pressure plasma treatment or atmos-
+pheric pressure plasma treatment is executed using flu-
+orine compound as the introductory gas while mixing ox-
+ygen at a predetermined ratio. In the case of capacity 
+coupling type plasma treatment, for example, the above 
+gas is supplied to a reaction chamber, a board having 
+the bank formation face 100 is placed on one electrode, 
+and an electric field is applied from a power supply. To 
+apply energy to the reaction chamber, various known 
+methods can be used, including a direct current anodiz-
+ing method, a high frequency method, inductive coupling, 
+capacity coupling, a microwave method and a method 
+applying both an electric field and magnetic field. 
+[0054] For example, when the bank formation face 100 
+(bottom face of the concave portion 101) is formed with 
+such a transparent electrode as ITO, and the affinity bank 
+layer with SiO 2 , and the non-affinity bank layer with poly-
+imide, the sequence of affinity for the thin film material 
+solution 130 becomes 
+bank formation &gt; = affinity bank layer &gt; non-affinity bank 
+layer after the above surface treatment. 
+
+Thin film formation step (Fig. 3 B -D): 
+
+[0055] In the thin film formation step, the thin film ma-
+terial solution is sequentially filled in the concave portions 
+101 enclosed with the banks 101, to laminate the thin 
+film layers. 
+[0056] For the thin film material solution 130 applied 
+to a display, organic semiconductor material, materials 
+where a hole supply element is doped as a hole trans-
+porting layer, or a material where an electron supply el-
+ement is doped as an electron transporting layer, for ex-
+ample, are used. To apply the thin film material solution 
+130 to a color filter, color resin, for example, is used. 
+[0057] The amount of thin film material solution to be 
+filled is adjusted by the thickness of the layer which is 
+formed at the position corresponding to the thin film layer. 
+In the case of the thin film layer 131 at the lowest layer, 
+the amount of the thin film material solution is adjusted 
+such that the thickness after the solvent component is 
+evaporated from the thin film solution by a heat treatment 
+becomes roughly the same as the thickness of the affinity 
+bank layer 111 (broken line in Fig. 3 B). For the thin film 
+layers 132 -13n on the thin film layer 131, the amount 
+of thin film material solution is adjusted such that the 
+thickness after the solvent component is evaporated from 
+the thin film material solution by a heat treatment be-
+comes roughly the same as the total thickness of the non-
+
+affinity bank layer 12x and the affinity bank layer 11x + 
+1 formed at the corresponding position (Fig. 3 C and D). 
+[0058] A method for filling the thin film material solution 
+is preferably an ink jet method. If an ink jet method is 
+used, any amount of fluid can be filled to any position, 
+and the fluid can be filled by such a small device as a 
+device used for a home printer. 
+[0059] When the thin filmmaterial solution is filled by 
+an ink jet method, the thin film material solution is heated 
+to remove the solvent component. In order to eject a liquid 
+from an ink jet type recording head, the viscosity normally 
+must be several pc or less. Therefore an amount more 
+than the amount required for the thickness of the final 
+thin film layer is ejected. 
+[0060] Immediately after ejection, the thin film material 
+solution contacts the affinity bank layer which is posi-
+tioned higher than the final thickness. As the solvent com-
+ponent evaporates and the volume decreases by a heat 
+treatment, the liquid level of the thin film material solution 
+decreases while being pulled somewhat by the bank wall 
+faces. When the liquid level comes to the non-affinity 
+bank layer, the thin film material solution is repelled and 
+the contact point between the thin film material solution 
+and the wall faces shifts to the affinity bank layer, which 
+is one layer below. In this way, the liquid level drops in 
+steps, and when the volume of the thin film material so-
+lution decreases down to a level near the thickness of 
+the final thin film layer, then the contact point between 
+the liquid level of the thin film material solution and the 
+wall faces shifts to the boundary between the affinity bank 
+layer located at the lowest position of the bank layers 
+which the thin film material solution is contacting, and the 
+non-affinity bank layer immediately above the affinity 
+bank layer. 
+[0061] The amount of the thin film material solution to 
+be filled is set such that the volume of the thin film material 
+solution after a heat treatment comes roughly to the total 
+height of the non-affinity bank layer and the affinity bank 
+layer located at the lowest layer when the thin film ma-
+terial solution is filled. After the liquid level shifts to the 
+boundary between the affinity bank layer located at the 
+lowest layer and the non-affinity bank layer immediately 
+above the affinity bank layer, the liquid level no longer 
+drops. The thickness at the center of the thin film material 
+solution gradually drops by the decrease in volume, and 
+when the thickness becomes the same in all the portions 
+from the part contacting the bank wall faces to the center 
+part, the thin film layer solidifies and completes. 
+[0062] In the thin film layer 131 at the lowest layer, for 
+example, the thin film material solution 130 is ejected into 
+the concave portion 101 enclosed with the banks 101 by 
+the ink jet type recording head 102 up to the position 
+shown by the broken line in Fig. 3 B. Then the thin film 
+material solution becomes a flat thin film layer 131 by a 
+heat treatment. In the thin film layer 132 above the thin 
+film layer 131, the thin film material solution 130 is ejected 
+on the thin film layer 131 by the ink jet type recording 
+head 102 up to the position shown by the broken line in 
+
+13 
+14 
+
+
+EP 1 566 853 B1 
+
+9 
+
+5 
+
+10 
+
+15 
+
+20 
+
+25 
+
+30 
+
+35 
+
+40 
+
+45 
+
+50 
+
+55 
+
+Fig. 3 C. Then the thin film material solution becomes a 
+flat thin film layer 132 by a heat treatment. These process-
+ing steps are repeated until the thin film layer 13n is 
+formed. 
+[0063] The ink jet method may be a piezo-jet method 
+or a method for ejecting by generating bubbles by heat, 
+or a method for ejecting by electrostatic force. In the case 
+of a piezo-jet method, the head is comprised of a nozzle 
+and a piezoelectric element equipped in a pressure 
+chamber. When voltage is applied to the piezoelectric 
+element where fluid is filled in the pressure chamber, a 
+volume change occurs in the pressure chamber and 
+droplets of the fluid are ejected from the nozzle. In the 
+case of a method for ejecting by generating bubbles, a 
+heating element is disposed in a pressure chamber con-
+nected to the nozzle of the head. When the heating ele-
+ment is heated and fluid near the nozzle boils, bubbles 
+are generated and the fluid is ejected by volume expan-
+sion. The piezo-jet method is preferable since the fluid 
+is not affected by heating. 
+[0064] As mentioned above, in accordance with the 
+first embodiment, each thin film layer can be formed flat. 
+[0065] Also in accordance with the first embodiment, 
+plasma treatment is executed under the condition where 
+oxygen is mixed with fluorine compound, therefore non-
+affinity of the bank surface, which is made of organic 
+material, and affinity of the bank surface, which is made 
+of inorganic material, and of the bank formation face for 
+the thin film material solution can be adjusted. 
+[0066] Also in accordance with the first embodiment, 
+the contact angle to implement a degree of affinity ac-
+cording to the characteristics shown in Fig. 4 can be eas-
+ily set. That is, affinity between the banks and the bank 
+formation face can be accurately controlled while main-
+taining high adhesion between the banks and the bank 
+formation face without going through numerous steps for 
+affinity control, which is conventionally required. As a re-
+sult, an overflow of the thin film material solution from the 
+banks can be prevented, yield can be improved, and 
+manufacturing cost can be decreased. 
+
+(Second embodiment) 
+
+[0067] Second embodiment of the present invention is 
+layering banks in a method different from the above em-
+bodiment. In this embodiment, just like the above first 
+embodiment, banks are formed in any shape on the bank 
+formation face, and is applied to various applications 
+where a predetermined fluid is filled in areas enclosed 
+with banks. For example, this embodiment can be applied 
+when organic semiconductor material is filled in pixel ar-
+eas of a display device using an organic semiconductor 
+thin film device, or when color resin is filled in pixel areas 
+of a color filter. 
+[0068] Fig. 5 shows a cross-sectional view of manu-
+facturing steps of the present embodiment. 
+
+Lower layer film formation step (Fig. 5 A -C) 
+
+[0069] In the lower layer film formation step, the affinity 
+bank layer 111 is formed on the bank formation face 100. 
+At first, inorganic material is coated in the same method 
+as the above first embodiment (Fig. 5 A). Then a mask 
+140 is formed on the inorganic material layer matching 
+the bank shape (Fig. 5 B). Next the inorganic material 
+layer is etched to remove inorganic material except for 
+the area where the mask 140 is placed (Fig. 5 C). The 
+etching method is selected according to the characteris-
+tics of the material. In the case of an inorganic material, 
+such as SiO 2 , not only dry etching but also wet etching 
+using such an etchant as hydroflouric acid (HF) can be 
+used. In this way, the affinity bank layer 111 at the lowest 
+layer is formed. Then an organic material is coated in the 
+same method as in the above embodiment (Fig. 5 D). 
+Next a mask 142 is set on the organic material layer, 
+matching the bank shape (Fig. 5 E). Then the organic 
+material layer is etched and the organic material is re-
+moved except for the area where the mask 141 is placed 
+(Fig. 5 F). The etching method is selected according to 
+the characteristics of the material. In the case of an or-
+ganic material, such as polyimide, not only dry etching 
+but also wet etching using such an etchant as NMP (N-
+methyl pyrolidone) can be used. 
+[0070] In this way, the non-affinity bank layer 121 is 
+formed. Unlike the above first embodiment, in this em-
+bodiment, the affinity bank layer is not etched using the 
+non-affinity bank layer as a mask, but each top layer can 
+be independently etched, therefore the bank shape in 
+the affinity bank layer and the bank shape in the non-
+affinity bank layer can be different. For example, it is pos-
+sible to decrease the width of the bank as processing 
+moves from lower to upper layers, to form a bank to be 
+step shaped or taper shaped. If the banks are formed in 
+this way, then the thin film material solution to be the thin 
+film layer can be easily filled, and when the wiring pattern 
+is formed over the banks, disconnection of the wiring can 
+be prevented. By selecting an appropriate shape for the 
+lower bank layer, an ideal thin film layer can be formed. 
+Repeating the above steps (Fig. 5 A -F) for the required 
+number of layering times (e.g. n times), the banks 110 
+are formed, as shown in Fig. 5 G. 
+[0071] Descriptions on the surface treatment step and 
+the thin film layer formation step are omitted since they 
+are the same as in the first embodiment. 
+[0072] As described above, in accordance with the 
+present second embodiment, not only are the same ef-
+fects as in the first embodiment are implemented, but 
+also an optimum shape of the thin film layer can be set 
+for the application device, since the shape of each layer 
+of the banks can be different. 
+
+(Examples) 
+
+[0073] The layer structure of examples when the above 
+embodiment is applied will now be explained. 
+
+15 
+16 
+
+
+EP 1 566 853 B1 
+
+10 
+
+5 
+
+10 
+
+15 
+
+20 
+
+25 
+
+30 
+
+35 
+
+40 
+
+45 
+
+50 
+
+55 
+
+[0074] Fig. 6 is a cross-sectional view of an example 
+when the present invention is applied to a color filter. In 
+this color filter, the partition elements 210 are formed on 
+a board 200 grid-like when viewed from the top, as shown 
+in Fig. 6, and the color resins 231 -233 are filled in the 
+pixel areas 201 enclosed with the partition elements 210. 
+The board 200 corresponds to the bank formation face 
+of the present invention, and is comprised of transparent 
+material having good adhesion with the color resins, such 
+as glass, quartz and resin. The partition elements 210 
+correspond to the banks of the present invention, and a 
+resin layer (or inorganic insulation film layer) 211 is 
+formed as the affinity bank layer, and a black matrix layer 
+221 is formed as the non-affinity bank layer. The resin 
+layer (or insulation film layer) 211 is formed by molding 
+resin in bank shapes. The black matrix layer 221 is 
+formed by coating an inorganic material or an organic 
+insulation material containing carbon. The color resin lay-
+ers 231 (red), 232 (green) and 233 (blue), correspond to 
+the thin film layers of the present invention, and are 
+formed by filling resin mixing dies of primary colors, such 
+as red, green and blue, in each pixel area 201. 
+[0075] According to the above configuration, surface 
+treatment is performed such that the resin layer (or insu-
+lation film layer) 211 has affinity for the color resin, and 
+surface treatment is performed such that the black matrix 
+layer 221 has non-affinity for the color resin. Therefore 
+when the color resin is filled by the ink jet method and 
+heat treatment is executed, the color resin layers 231 -
+233 are formed to be flat. As a result, image display with-
+out uneven brightness and color can be implemented. 
+[0076] Fig. 7 is a cross-sectional view of a layer struc-
+ture of an example when the present invention is applied 
+to an organic semiconductor light emitting element of a 
+display. As Fig. 7 shows, transparent electrodes 341 and 
+banks 310 are formed on the drive board 300 in this or-
+ganic semiconductor light emitting element, and the or-
+ganic semiconductor layer 331 is formed in the concave 
+portions 301 enclosed with the banks 310. The metal 
+electrodes 351 are formed on the entire surface. In the 
+drive board 300, multiple layers of TFT, wiring and insu-
+lation films are laminated, so that voltage can be applied 
+between the transparent electrode 341 and the metal 
+electrode 351. The transparent electrode 341 is formed 
+by layering ITO, for example, to be 0.05Pm -0.2Pm, so 
+as to transmit light from the organic semiconductor layer 
+331 and the reflected light from the metal electrode 351. 
+The bank 310 is comprised of the bottom layer 311 and 
+the top layer 321. The bottom layer 311 is comprised of 
+an inorganic material having affinity for the organic sem-
+iconductor material, which is silicon oxide or silicon ni-
+tride, for example, formed by CVD, sputtering or various 
+coating methods. The top layer 321 is comprised of an 
+organic material having non-affinity for the organic sem-
+iconductor material, which is an organic compound con-
+taining polyimide, amorphous silicon, polysilicon, or flu-
+orine, or insulating organic compound. The organic sem-
+iconductor layer 331 is comprised of a material which 
+
+emits light when an electric field is applied, such as 
+polyphnylene vinylene (PPV) or other known material, 
+and is layered to be 0.05Pm -0.2Pm. The metal electrode 
+351 is comprised of aluminum-lithium (Al -Li) and is lay-
+ered to be 0.1Pm -1.0Pm 
+[0077] According to the above configuration, surface 
+treatment is performed such that the bottom layer 311 
+has affinity for the organic semiconductor layer 331, and 
+the top layer 321 has affinity for the organic semiconduc-
+tor layer 331, therefore when the organic semiconductor 
+material is filled by an ink jet method and heat treatment 
+is executed, the organic semiconductor layer 331 is 
+formed to be flat. As a result, image display without un-
+even brightness and color and without missing colors can 
+be implemented. Electrode shorting is also prevented, 
+which improves reliability of the display and extends life. 
+[0078] Fig. 8 is a cross-sectional view of the layer struc-
+ture of another example when the present invention is 
+applied to an organic semiconductor light emitting ele-
+ment of a display. As Fig. 8 shows, in this organic sem-
+iconductor light emitting element, transparent electrodes 
+441 and banks 410 are formed on the drive board 400, 
+and the hole transporting layer 431 and the semiconduc-
+tor layer 432 are layered in the concave portions 401 
+enclosed with the banks 410. The metal electrodes 451 
+are formed on the entire surface. The drive board 400, 
+the transparent electrode 441, the organic semiconduc-
+tor layer 432 and the metal electrode 451 are the same 
+as the above example shown in Fig. 7. The bank 410 is 
+comprised of affinity layers 411 and 412 and non-affinity 
+layer 421 and 422 which are alternately layered. The af-
+finity layer 411 is comprised of an inorganic material hav-
+ing affinity for the hole transporting material or the organic 
+semiconductor material, which is silicon oxide or silicon 
+nitride formed by CVD, sputtering or various coating 
+methods. The non-affinity layer 421 is comprised of an 
+organic material having non-affinity for the organic sem-
+iconductor material, which is an organic compound con-
+taining polyimide, amorphous silicon, polysilicon, or flu-
+orine, or insulating organic compound. The hole trans-
+porting layer 431 is comprised of a material which can 
+transport holes from the transparent electrode 441, which 
+is an anode, to the organic semiconductor layer 432, 
+which is an ITO mixing hole supply element, for example. 
+[0079] According to the above configuration, surface 
+treatment is performed such that the affinity layer 411 
+has affinity for the hole transporting layer 431, and sur-
+face treatment is performed such that the affinity layer 
+412 has affinity for the organic semiconductor layer 432. 
+Also surface treatment is performed such that the non-
+affinity layer 421 has non-affinity for the hole transporting 
+layer 431 and the organic semiconductor layer 432. 
+When the hole transporting layer 431 and the organic 
+semiconductor layer 432 are filled by an ink jet method 
+and heat treatment is executed, the respective layers are 
+formed to be flat. As a result, image display without un-
+even brightness and color and without missing colors can 
+be implemented. Electrode shorting is also prevented, 
+
+17 
+18 
+
+
+EP 1 566 853 B1 
+
+11 
+
+5 
+
+10 
+
+15 
+
+20 
+
+25 
+
+30 
+
+35 
+
+40 
+
+45 
+
+50 
+
+55 
+
+which improves reliability of the display and extends life. 
+[0080] The structures of the color filter and organic 
+electroluminescence device are not restricted by the 
+above examples, but can be changed in various ways. 
+For example, in the organic electroluminiscence device, 
+the electron transporting layer and the other organic sem-
+iconductor layers may be layered. 
+
+(Variant forms) 
+
+[0081] The present invention is not restricted by the 
+above embodiments, but the present invention may be 
+applied in yet other ways without departing from the 
+scope of the appended claims. 
+[0082] For example, the affinity material, non-affinity 
+material and the bank formation method using these ma-
+terials can be modified in various ways without being re-
+stricted by the above embodiments. This is because an 
+essential feature of the present invention is forming the 
+thin film layers without distortion by arranging layers hav-
+ing different degrees of affinity alternately. For example, 
+not only forming the banks by materials for banks 
+which can form thick film, but the banks of the present 
+invention may also be formed by coating a material hav-
+ing affinity or a material having non-affinity on the bank 
+surface. For example, diethylene glycol methyl ethyl 
+ether (C 2 H 5 OCH 2 CH 2 CH 2 OCH 2 CH 2 OCH 3 ) or 2-fluoro 
+octyl ethyl acrylete (FCF 28 CH 2 CH 2 000CH = CH 2 ) by it-
+self represents non-affinity for a thin film material solution 
+having polar group molecules. 
+[0083] The above surface treatment is not restricted 
+to plasma treatment but any surface treatment method 
+which can treat surfaces for different affinities under the 
+same surface treatment conditions, as shown in Fig. 4, 
+can be used. This is because an essential feature of the 
+present invention is adjusting affinity by surface treat-
+ment. Therefore the materials for which affinity is set be-
+tween is not restricted by an inorganic material and or-
+ganic material, but the surface treatment of the present 
+invention can be applied to specific materials between 
+which affinity characteristics shown in Fig. 4 are exhibit-
+ed. 
+[0084] The above banks are not restricted by layered 
+affinity materials and non-affinity materials. For example, 
+the configuration of the present invention can be formed 
+such that a single element is formed first, then the area 
+having affinity for the thin film material solution and an 
+area having non-affinity for the thin film material solution 
+are formed alternately. For example, it is possible to form 
+the bank material with an affinity material, where non-
+affinity material is coated in stripes. For the non-affinity 
+material, paraffin, for example, can be used rather than 
+those materials of the above embodiments. It is also pos-
+sible to form the bank material with a non-affinity material, 
+where ultraviolet rays are irradiated in stripes to create 
+affinity areas, or charger are removed in stripes and af-
+finity material is coated utilizing charges. If a metal thin 
+film is formed on the entire surface of the bank material, 
+
+and is dipped into a sulfur compound having affinity sub-
+stituents and a sulfur compound having non-affinity sub-
+stituents sequentially from the bottom layer, then an af-
+finity area and a non-affinity area can be formed in stripes 
+by mono-molecular film. 
+
+INDUSTRIAL APPLICABILITY 
+
+[0085] In accordance with the thin film formation meth-
+od of the present invention, thin film layers can be formed 
+without distortion by layering different materials for 
+banks. This improves performance and reliability of the 
+device dramatically. 
+[0086] Also in accordance with the thin film formation 
+method of the present invention, affinity of the thin film 
+can be controlled so as to be layered by executing surface 
+treatment under predetermined conditions, without going 
+through numerous steps for affinitycontrol. As a result, 
+cost required for affinity control can be decreased, and 
+films with uniform film thickness can be layered for the 
+thin film. 
+[0087] In accordance with the display of the present 
+invention, the thin film is layered by the thin film formation 
+method which can form multi-layer thin film, therefore 
+thin film layers with uniform thickness can be layered. As 
+a result, image display without uneven brightness and 
+color and without missing color can be implemented. 
+Electrode shorting is also prevented, which improves re-
+liability and extends life of the display. 
+[0088] In accordance with the color filter of the present 
+invention, the thin film is layered by the thin film formation 
+method which can form multi-layer thin film. Therefore 
+thin film layers with uniform thickness can be layered. As 
+a result, an image display without uneven brightness and 
+color can be implemented. 
+
+Claims 
+
+1. A substrate structure, comprising: 
+
+a substrate (100); 
+a plurality of thin film layers (131-13n) laminated 
+on the substrate; and 
+a bank (110) enclosing an area in which the plu-
+rality of thin film layers (131-13n) are arranged, 
+the bank (110) including a first bank layer (111), 
+a second bank layer (121) and a third bank layer 
+(112), the second bank layer (121) being dis-
+posed between the first (111) and third (112) 
+bank layers, the first (111) and third (112) bank 
+layers being made from one of an inorganic ma-
+terial and an organic material, the second bank 
+layer (121) being made from the other of the 
+inorganic material and the organic material, the 
+first (111) and third (112) bank layers having af-
+finity to the thin film layers and the second bank 
+layer (121) having non-affinity for the thin film 
+
+19 
+20 
+
+
+EP 1 566 853 B1 
+
+12 
+
+5 
+
+10 
+
+15 
+
+20 
+
+25 
+
+30 
+
+35 
+
+40 
+
+45 
+
+50 
+
+55 
+
+layers. 
+
+2. The substrate according to claim 1, the bank (110) 
+comprising alternately an affinity bank layer 
+(111-11n) having affinity for the thin film layers 
+(131-13n) and a non-affinity bank layer (121-12n) 
+having non-affinity for the thin film layers (131-13n). 
+
+3. The substrate according to claim 1, wherein the de-
+gree of affinity of the affinity bank layer against a 
+liquid material of the thin film layers used in a liquid 
+process is greater than that of the non-affinity bank 
+layer. 
+
+4. The substrate according to claim 3, wherein the liquid 
+material comprises polar molecules. 
+
+5. The substrate according to claim 3, wherein the liquid 
+material comprises molecules non-polar molecules. 
+
+6. The substrate according to claim 2, at least one of 
+the affinity bank layer and the non-affinity bank layer 
+being surface-treated so as to have affinity or non-
+affinity, respectively. 
+
+7. The substrate according to claim 2, the affinity bank 
+layer including an organic material. 
+
+8. The substrate according to claim 2, the affinity bank 
+layer including an inorganic material. 
+
+9. The substrate according to claim 2, the non-affinity 
+bank layer including an organic material. 
+
+10. The substrate according to claim 2, the non-affinity 
+bank layer including an inorganic material. 
+
+11. The substrate according to claims 3, 7 or 9, wherein 
+the affinity bank layer is treated with plasma 
+
+12. The substrate according to claims 7 or 9, the organic 
+material including an organic compound containing 
+polyimide, amorphous silicon, polysilicon or fluorine, 
+or an insulating organic compound. 
+
+13. The substrate according to claims 8 or 10, the inor-
+ganic material including A1, Ta, silicon oxide or sili-
+con nitride. 
+
+14. The substrate according to claim 2, a thickness of 
+the first thin layer being set to be the substantially 
+the same thickness as the affinity bank layer at the 
+lowest layer of the bank. 
+
+15. The substrate according to claim 14, a thickness of 
+each thin film layer which is layered on the first thin 
+film being set to be substantially the same thickness 
+as the respective total thickness of the affinity bank 
+
+layer and the non-affinity bank layer which are lay-
+ered to the height corresponding to the bank. 
+
+16. The substrate according to claim 15, the thickness 
+of the non-affinity bank layer at the top layer being 
+set to be 500 nm or less, and the thickness of the 
+other non-affinity bank layer being set to be 100 nm 
+or less. 
+
+17. The substrate according to claim 1, the thin film lay-
+ers including an organic semiconductor. 
+
+18. The substrate according to claim 1, the thin film lay-
+ers including a color filter. 
+
+19. The substrate according to claim 1, wherein the first 
+and third bank layers are made of the same material. 
+
+20. The substrate according to claim 1, wherein the 
+thickness of the first thin film layer is the same as 
+the thickness of the first bank layer, and wherein the 
+thickness of the second thin film layer is the same 
+as the total thickness of the first and the third bank 
+layers. 
+
+Patentansprüche 
+
+1. Substratstruktur, umfassend: 
+
+ein Substrat (100); 
+mehrere Dünnfilmschichten (131-13n), die auf 
+das Substrat laminiert sind; und 
+eine Bank (110), die eine Fläche umschließt, in 
+der die mehreren Dünnfilmschichten (131-13n) 
+angeordnet sind, wobei die Bank (110) eine er-
+ste Bankschicht (111), eine zweite Bankschicht 
+(121) und eine dritte Bankschicht (112) enthält, 
+wobei die zweite Bankschicht (121) zwischen 
+der ersten (111) und dritten (112) Bankschicht 
+angeordnet ist, die erste (111) und dritte (112) 
+Bankschicht aus einem von einem anorgani-
+schen Material und einem organischen Material 
+gebildet sind, die zweite Bankschicht (121) aus 
+dem anderen von dem anorganischen Material 
+und dem organischen Material gebildet ist, die 
+erste (111) und dritte (112) Bankschicht Affinität 
+für die Dünnfilmschichten aufweisen, und die 
+zweite Bankschicht (121) keine Affinität für die 
+Dünnfilmschichten aufweist. 
+
+2. Substrat nach Anspruch 1, wobei die Bank (110) ab-
+wechselnd eine Affinitätsbankschicht (111-11n) mit 
+Affinität für die Dünnfilmschichten (131-13n) und ei-
+ne Nicht-Affinitätsbankschicht (121-12n) ohne Affi-
+nität für die Dünnfilmschichten (131-13n) umfasst. 
+
+3. Substrat nach Anspruch 1, wobei das Ausmaß der 
+
+21 
+22 
+
+
+EP 1 566 853 B1 
+
+13 
+
+5 
+
+10 
+
+15 
+
+20 
+
+25 
+
+30 
+
+35 
+
+40 
+
+45 
+
+50 
+
+55 
+
+Affinität der Affinitätsbankschicht gegenüber einem 
+flüssigen Material der Dünnfilmschichten, das in ei-
+nem flüssigen Verfahren verwendet wird, größer als 
+jenes der Nicht-Affinitätsbankschicht ist. 
+
+4. Substrat nach Anspruch 3, wobei das flüssige Ma-
+terial polare Moleküle umfasst. 
+
+5. Substrat nach Anspruch 3, wobei das flüssige Ma-
+terial nicht polare Moleküle umfasst. 
+
+6. Substrat nach Anspruch 2, wobei zumindest eine 
+von der Affinitätsbankschicht und der Nicht-Affini-
+tätsbankschicht oberflächenbehandelt ist, so dass 
+sie Affinität beziehungsweise Nicht-Affinität auf-
+weist. 
+
+7. Substrat nach Anspruch 2, wobei die Affinitätsbank-
+schicht ein organisches Material enthält. 
+
+8. Substrat nach Anspruch 2, wobei die Affinitätsbank-
+schicht ein anorganisches Material enthält. 
+
+9. Substrat nach Anspruch 2, wobei die Nicht-Affinitäts-
+bankschicht ein organisches Material enthält. 
+
+10. Substrat nach Anspruch 2, wobei die Nicht-Affinitäts-
+bankschicht ein anorganisches Material enthält. 
+
+11. Substrat nach einem der Ansprüche 3, 7 oder 9, wo-
+bei die Affinitätsbankschicht mit Plasma behandelt 
+ist. 
+
+12. Substrat nach einem der Ansprüche 7 oder 9, wobei 
+das organische Material eine organische Verbin-
+dung enthält, die Polyimid, amorphes Silizium, Po-
+lysilizium oder Fluor, oder eine isolierende organi-
+sche Verbindung enthält. 
+
+13. Substrat nach einem der Ansprüche 8 bis 10, wobei 
+das anorganische Material Al, Ta, Siliziumoxid oder 
+Siliziumnitrid enthält. 
+
+14. Substrat nach Anspruch 2, wobei eine Dicke der er-
+sten Dünnschicht so eingestellt ist, dass sie im We-
+sentlichen dieselbe Dicke ist wie die Affinitätsbank-
+schicht in der untersten Schicht der Bank. 
+
+15. Substrat nach Anspruch 14, wobei eine Dicke jeder 
+Dünnfilmschicht, die auf dem ersten Dünnfilm liegt, 
+so eingestellt ist, dass sie im Wesentlichen dieselbe 
+Dicke wie die entsprechende Gesamtdicke der Affi-
+nitätsbankschicht und der Nicht-Affinitätsbank-
+schicht aufweist, die auf die der Bank entsprechen-
+den Höhe geschichtet sind. 
+
+16. Substrat nach Anspruch 15, wobei die Dicke der 
+Nicht-Affinitätsschicht in der oberen Schicht auf 500 
+
+nm oder weniger eingestellt ist, und die Dicke der 
+anderen Nicht-Affinitätsbankschicht auf 100 nm oder 
+weniger eingestellt ist. 
+
+17. Substrat nach Anspruch 1, wobei die Dünnfilm-
+schichten einen organischen Halbleiter enthalten. 
+
+18. Substrat nach Anspruch 1, wobei die Dünnfilm-
+schichten ein Farbfilter enthalten. 
+
+19. Substrat nach Anspruch 1, wobei die erste und dritte 
+Bankschicht aus demselben Material bestehen. 
+
+20. Substrat nach Anspruch 1, wobei die Dicke der er-
+sten Dünnfilmschicht dieselbe ist wie die Dicke der 
+ersten Bankschicht, und wobei die Dicke der zweiten 
+Dünnfilmschicht dieselbe ist wie die Dicke der Ge-
+samtdicke der ersten und dritten Bankschicht. 
+
+Revendications 
+
+1. Structure de substrat, comprenant : 
+
+-un substrat (100) ; 
+-plusieurs fines couches de film (131-13n) su-
+perposées sur le substrat ; et 
+-une batterie (110) entourant une zone dans 
+laquelle sont disposées plusieurs fines couches 
+de film (131-13n), la batterie (110) comprenant 
+une première couche de batterie (111), une 
+deuxième couche de batterie (121) et une troi-
+sième couche de batterie (112), la deuxième 
+couche de batterie (121) étant disposée entre 
+la première (111) et la troisième (112) couche 
+de batterie, la première (111) et la troisième 
+(112) couches de batterie étant constituées d'un 
+matériau soit inorganique soit organique, la 
+deuxième couche de batterie (121) étant cons-
+tituée de l'autre matériau d'entre le matériau 
+inorganique et le matériau organique, la premiè-
+re (111) et la troisième (112) couches de batterie 
+ayant des affinités vers les fines couches de film 
+et la deuxième couche de batterie (121) n'ayant 
+pas d'affinités vers les fines couches de film. 
+
+2. Substrat selon la revendication 1, la batterie (110) 
+comprenant alternativement une couche de batterie 
+avec affinité (111-11n) ayant des affinités vers les 
+fines couches de film (131-13n) et une couche de 
+batterie sans affinité (121-12n) n'ayant pas d'affini-
+tés vers les fines couches de film (131-13n). 
+
+3. Substrat selon la revendication 1, dans lequel le de-
+gré d'affinité de la couche de batterie avec affinités 
+vers un matériau liquide des fines couches de film 
+utilisé dans un processus liquide est supérieur à celui 
+d'une couche de batterie sans affinités. 
+
+23 
+24 
+
+
+EP 1 566 853 B1 
+
+14 
+
+5 
+
+10 
+
+15 
+
+20 
+
+25 
+
+30 
+
+35 
+
+40 
+
+45 
+
+50 
+
+55 
+
+4. Substrat selon la revendication 3, dans lequel le ma-
+tériau liquide comprend des molécules polaires. 
+
+5. Substrat selon la revendication 3, dans lequel le ma-
+tériau liquide comprend des molécules non polaires. 
+
+6. Substrat selon la revendication 2, dans lequel au 
+moins l'une d'entre la couche de batterie avec affi-
+nités et la couche de batterie sans affinités possède 
+une surface traitée de façon à avoir respectivement 
+des affinités ou pas d'affinités. 
+
+7. Substrat selon la revendication 2, la couche de bat-
+terie avec affinités comprenant un matériau organi-
+que. 
+
+8. Substrat selon la revendication 2, la couche de bat-
+terie avec affinités comprenant un matériau inorga-
+nique. 
+
+9. Substrat selon la revendication 2, la couche de bat-
+terie sans affinités comprenant un matériau organi-
+que. 
+
+10. Substrat selon la revendication 2, la couche de bat-
+terie sans affinités comprenant un matériau inorga-
+nique. 
+
+11. Substrat selon les revendications 3, 7 ou 9, dans 
+lequel la couche de batterie avec affinités est traitée 
+au plasma. 
+
+12. Substrat selon les revendications 7 ou 9, le matériau 
+organique comprenant un composant organique 
+contenant du polyimide, du silicium amorphe, du po-
+lysilicium ou du fluor, ou un composant organique 
+isolant. 
+
+13. Substrat selon la revendication 8 ou 10, le matériau 
+inorganique comprenant de l'aluminium, du tantale, 
+de l'oxyde de silicium ou du nitrure de silicium. 
+
+14. Substrat selon la revendication 2, une épaisseur de 
+la première fine couche étant ajustée de manière à 
+être essentiellement de la même épaisseur que la 
+couche de batterie avec affinités se trouvant tout en 
+bas de la batterie. 
+
+15. Substrat selon la revendication 14, une épaisseur 
+de chaque fine couche de film qui est posée sur la 
+première fine couche de film étant ajustée de ma-
+nière à être essentiellement de la même épaisseur 
+que l'épaisseur totale de la couche de batterie avec 
+affinités et de la couche de batterie sans affinités, 
+qui sont superposées sur une hauteur correspon-
+dant à la batterie. 
+
+16. Substrat selon la revendication 15, l'épaisseur de la 
+
+couche de batterie sans affinités sur le dessus étant 
+ajustée à 500 nm ou moins, et l'épaisseur de l'autre 
+couche de batterie sans affinités étant ajustée à 100 
+nm ou moins. 
+
+17. Substrat selon la revendication 1, les fines couches 
+de film comprenant un semi-conducteur organique. 
+
+18. Substrat selon la revendication 1, les fines couches 
+de film comprenant un filtre couleur. 
+
+19. Substrat selon la revendication 1, dans lequel la pre-
+mière et la troisième couches de batterie sont cons-
+tituées du même matériau. 
+
+20. Substrat selon la revendication 1, dans lequel 
+l'épaisseur de la première fine couche de film est la 
+même que l'épaisseur de la première couche de bat-
+terie, et dans lequel l'épaisseur de la deuxième fine 
+couche de film est identique à l'épaisseur totale de 
+la première et de la troisième couche de batterie. 
+
+25 
+26 
+
+
+EP 1 566 853 B1 
+
+15 
+
+
+EP 1 566 853 B1 
+
+16 
+
+
+EP 1 566 853 B1 
+
+17 
+
+
+EP 1 566 853 B1 
+
+18 
+
+
+EP 1 566 853 B1 
+
+19 
+
+
+EP 1 566 853 B1 
+
+20 
+
+
+EP 1 566 853 B1 
+
+21 
+
+
+EP 1 566 853 B1 
+
+22 
+
+
+EP 1 566 853 B1 
+
+23 
+
+REFERENCES IN THE DESCRIPTION 
+
+This list of references cited by the applicant is for the reader's convenience only. It does not form part of the European 
+patent document. Even though great care has been taken in compiling the references, errors or omissions cannot be 
+excluded and the EPO disclaims all liability in this regard. 
+
+Patent documents cited in the description 
+
+• 
+JP 9203803 A [0005] 
+• 
+JP 9230129 A [0005] [0006] 
+
+• 
+EP 0940797 A [0009] 
+
+Non-patent literature cited in the description 
+
+• 
+International Display Research Conference, 1997, 
+238-241 [0005] 
+
+
+
+	
+

@@ -1,0 +1,1712 @@
+
+	
+
+		
+
+	
+
+	
+
+Note: Within nine months from the publication of the mention of the grant of the European patent, any person may give 
+notice to the European Patent Office of opposition to the European patent granted. Notice of opposition shall be filed in 
+a written reasoned statement. It shall not be deemed to have been filed until the opposition fee has been paid. (Art. 
+99(1) European Patent Convention). 
+
+Printed by Jouve, 75001 PARIS (FR) 
+
+(19) 
+
+EP 1 243 145 B1 
+
+&amp; 
+
+(11) 
+
+EP 1 243 145 B1 
+
+(12) 
+
+EUROPEAN PATENT SPECIFICATION 
+
+(45) Date of publication and mention 
+
+of the grant of the patent: 
+16.01.2008 Bulletin 2008/03 
+
+(21) Application number: 00986656.7 
+
+(22) Date of filing: 20.12.2000 
+
+(51) Int Cl.: 
+
+H04Q 7/24 (2006.01) 
+H04L 29/06 (2006.01) 
+
+(86) International application number: 
+
+PCT/US2000/034773 
+
+(87) International publication number: 
+
+WO 2001/047296 (28.06.2001 Gazette 2001/26) 
+
+(54) MOBILE TERMINAL AND POINT OF ATTACHMENT TO AN IP NETWORK 
+
+MOBILES ENDGERÄT UND IP-NETZZUGANGSPUNKT 
+
+Terminal mobile et point de connexion à un réseau IP 
+
+(84) Designated Contracting States: 
+
+AT BE CH CY DE DK ES FI FR GB GR IE IT LI LU 
+MC NL PT SE TR 
+
+(30) Priority: 22.12.1999 US 470223 
+
+(43) Date of publication of application: 
+
+25.09.2002 Bulletin 2002/39 
+
+(73) Proprietor: QUALCOMM INCORPORATED 
+
+San Diego, CA 92121-1714 (US) 
+
+(72) Inventors: 
+
+• LIOY, Marcello 
+San Diego, CA 92122 (US) 
+
+• ABROL, Nischal 
+San Diego, CA 92126 (US) 
+
+(74) Representative: Dunlop, Hugh Christopher et al 
+
+R G C Jenkins &amp; Co. 
+26 Caxton Street 
+London SW1H 0RJ (GB) 
+
+(56) References cited: 
+
+WO-A-99/62223 
+US-A-5 873 035 
+
+• A VALKO ET AL: "Cellular IP" INTERNET DRAFT, 
+18 November 1998 (1998-11-18), XP002133539 
+
+
+EP 1 243 145 B1 
+
+2 
+
+5 
+
+10 
+
+15 
+
+20 
+
+25 
+
+30 
+
+35 
+
+40 
+
+45 
+
+50 
+
+55 
+
+Description 
+
+BACKGROUND OF THE INVENTION 
+
+1. Field of the Invention 
+
+[0001] The present invention relates to methods and 
+systems related to notifying a mobile terminal device 
+when an interworking function to which it is connected 
+by a wireless link changes to a new interworking function. 
+
+2. Description of Background Information 
+
+[0002] Mobile computing generally involves the use of 
+mobile terminal devices such as notebook computers 
+connected to a computer network (e.g., the Internet) via 
+a wireless communication device (e.g., a mobile phone). 
+"Mobile IP" is a functionality in wireless communications 
+where mobile terminal devices connected to the Internet 
+may send and receive packets addressed with their home 
+network IP (Internet Protocol) address (a static IP ad-
+dress) while their current point of attachment to the In-
+ternet (i.e., their current interworking function) changes. 
+This allows the mobile terminal device to maintain its con-
+nection with another entity through a packet-based link, 
+and facilitates two-way communication over that link. 
+[0003] FIG. 1 is a block diagram of a simplified network 
+reference model applicable to mobile computing data 
+services, including mobile IP support. The model shows 
+select network entities forming a communications sub-
+system 10. A mobile terminal device 12 is coupled to a 
+wireless communication device 14, which is in turn con-
+nected to a base station/ mobile switching center 16 via 
+a wireless interface. The base station/ mobile switching 
+center 16 is connected to an interworking function 18. 
+The simplified network reference model is described in 
+the document entitled "Data Service Options for Wide-
+band Spread Spectrum Systems," TIA/EIA/IS-707, Pub-
+lished Version (February, 1998) (herein referred to as 
+"IS-707"). 
+[0004] According to IS-707, mobile terminal device 12, 
+communication device 14, base station/ mobile switching 
+center 16, and interworking function 18 are respectively 
+referred to as a TE2 device, an MT2 device, a BS/MSC 
+and an IWF. The interface between mobile terminal de-
+vice 12 and the wireless communication device 14 is 
+called a Rm interface. The interface between wireless 
+communication device 14 and base station/ mobile 
+switching center 16 is referred to as an Um interface. The 
+interface between base station/ mobile switching center 
+16 and interworking function 18 is referred to as an L 
+interface. 
+[0005] Mobile terminal device 12 may comprise, for 
+example, a notebook computer, a personal digital assist-
+ant, or any other computing device capable of computer 
+network communications, including packet-based com-
+munications or communications via a dial-up modem. 
+Wireless communication device 14 may comprise, for 
+
+example, a wireless terminal used by subscribers to ac-
+cess the network services over a radio link. The wireless 
+terminal may comprise a hand-held cellular telephone, 
+or a unit installed in a vehicle. Wireless communication 
+device 14 may also be fixed to a particular location. 
+[0006] Base station/ mobile switching center 16 is 
+shown in FIG. 1 as a single functional entity, although it 
+need not be. The base station portion of the illustrated 
+base station/ mobile switching center allows wireless 
+communication device 14 to access network services us-
+ing a radio link or another type of wireless link. The mobile 
+switching center portion handles the switching of traffic 
+between the wireless link and a telecommunications net-
+work to which the wireless link is connected. The tele-
+communications network may comprise one or a combi-
+nation of public switched telephone network (PSTN), in-
+tegrated services digital network (ISDN), internet routers, 
+and other network types and entities. 
+[0007] Interworking function 18 represents the point at 
+which a gateway or bridge connection is formed between 
+mobile terminal device 12 and/or wireless communica-
+tion device 14 at one end and the Internet at the other end. 
+[0008] FIG. 2 is a simplified diagram of a protocol stack 
+20 adhered to by many mobile computing environments, 
+including those adhering to IS-707. The stack 20 com-
+prises one or more lower layer (s) 28, a data link layer 26, 
+a network layer 24, and one or more upper layers 22. 
+One or more lower layers 28 are provided. These lower 
+layers include, among other things, connections estab-
+lishing a physical link, and may also include a relay layer 
+as disclosed in IS-707, a paging channel 30, and a traffic 
+channel 32. 
+[0009] Data link layer 26 is immediately above lower 
+layer (s) 28. Data link layer 26 may utilize such protocols 
+as Point-to-Point Protocol (PPP) and/or Serial Line Inter-
+net Protocol (SLIP). This layer deals with point-to-point 
+communication between two computers. It packages ad-
+dressing data, and manages the flow of transmissions. 
+PPP is described, for example, in RFC 1661, "The Point-
+to-Point Protocol," (July 1994). PPP facilitates the trans-
+mission of datagrams between data communications 
+equipment from different manufactures over a dial-up 
+and dedicated serial point-to-point links. PPP can simul-
+taneously transmit multiple protocols across a single se-
+rial link, without the need to set up a separate link for 
+each protocol. PPP also allows the interconnection of 
+dissimilar devices, such as host bridges and routers, over 
+serial links. The PPP protocol is comprised of three main 
+components, including an encapsulation scheme, the 
+link control protocol, and network control protocols. 
+These components are respectively responsible for cre-
+ating the frame, controlling the link, and managing the 
+network layer protocol. 
+[0010] Network layer 24 is just above data link layer 
+26, and may comprise such protocols as IP or connec-
+tionless network protocol (CLNP). The network layer en-
+sures that information arrives at its intended destination. 
+That is, it is concerned with the actual movement of in-
+
+1 
+2 
+
+
+EP 1 243 145 B1 
+
+3 
+
+5 
+
+10 
+
+15 
+
+20 
+
+25 
+
+30 
+
+35 
+
+40 
+
+45 
+
+50 
+
+55 
+
+formation from one network entity to another. The internet 
+protocol (IP) breaks up data messages into packets, 
+routes the packets from a sender to a destination network 
+entity, and reassembles the packets into the original data 
+messages at the destination. The IP protocol contains 
+an IP header which contains source and destination ad-
+dress fields that uniquely identify host computers respec-
+tively acting as the source and destination of the packets 
+being transferred. 
+[0011] Upper layer (s) portion 22 comprises one or 
+more protocol layers above network layer 24, including, 
+for example, the TCP (transmission control protocol) that 
+facilitates the reliable in-order delivery of an input data 
+stream. 
+[0012] Various protocol techniques are specified to 
+achieve IP mobility support in RFC 2002, "IP Mobility 
+Support," (October, 1996) (hereinafter referred to as 
+"RFC 2002"). As described in RFC 2002, IP mobility sup-
+port allows a mobile node to communicate with other 
+nodes after changing its link layer point of attachment to 
+the Internet, yet without changing its IP address. The 
+mobile node will ideally be able to communicate with oth-
+er nodes that do not implement these mobility functions, 
+and there should be no need for protocol enhancements 
+in hosts, routers, or bridges that are involved in the routing 
+of packets to and from the given mobile node that sup-
+ports IP mobility. 
+[0013] "Agent discovery" is a method disclosed by 
+RFC 2002 by which a mobile node will determine whether 
+it is currently connected to the Internet via its home net-
+work or via a foreign network, and when it is connected 
+through a foreign network, the mobile node detects when 
+it has moved from one foreign network to another. Agent 
+discovery involves both agent advertisements and agent 
+solicitations which can be sent and received by mobile 
+nodes, foreign agents, and home agents. Network enti-
+ties called "Mobility Agents" send agent advertisements 
+which are received by the mobile node and which indicate 
+when a given foreign network changes. These agent ad-
+vertisements are sent over traffic channel 32 to the mobile 
+node which, in the network model shown in FIG. 1, com-
+prises mobile terminal device 12. However, there are cir-
+cumstances in which it is desired that a link be maintained 
+between the mobile node (i.e., mobile terminal device 
+12) and the point of attachment (i.e., interworking function 
+18) even though traffic channel 32 is down. For example, 
+IS 707.5 sets forth a dormant mode for packet data serv-
+ices, in which the traffic channel is down while the PPP 
+link (within data link layer 26) and the IP link (within net-
+work layer 24) extending between the mobile terminal 
+device 12 and interworking function 18 are maintained. 
+Under these circumstances, a mobile terminal device 12 
+will not receive the agent advertisements alerting it when 
+there is a change in its location from a first geographic 
+region to a second geographic region, requiring that the 
+link be switched to a new/ second interworking function. 
+[0014] WO-A-99/62223 describes a method and archi-
+tecture for transferring packetised digital data over a 
+
+switched data network. An entity receiving a packet data 
+call initially identifies the call as being of the circuit 
+switched variety, thereby permitting further processing 
+of the call using circuit switched infrastructure. The re-
+ceiving entity then identifies the call as being a packet 
+data format based on identification information embed-
+ded in the received data. The packet data is then appro-
+priately routed, bypassing normal circuit switched call 
+processing. 
+[0015] US Patent No 5 873 035 describes a handoff 
+of a data communication link from a source base site to 
+a target base site. An interworking function is then trans-
+ferred from a source interworking unit to a target inter-
+working unit by transferring protocol status. 
+[0016] A Valko et al in "Cellular IP", Internet Draft, 18 
+November 1998, describe a protocol for providing local 
+mobility and handoff support that interworks with mobile 
+Internet Protocol to provide wide area mobility support 
+using location information stored for mobile hosts. 
+[0017] There remains a need for a mechanism to allow 
+mobile terminal device 12 to be timely notified of a change 
+in its interworking function 18, which will occur as a result 
+of wireless communication device 14 moving from a first 
+geographic region to a second geographic region, par-
+ticularly in the event that the mobile terminal device 12 
+is in a dormant mode. 
+
+3. Definitions of Terms and Acronyms 
+
+[0018] The following term and acronym definitions are 
+provided to assist the reader in obtaining an understand-
+ing of the invention as described herein. 
+[0019] Flow control: An act performed by a receiving 
+entity to limit the amount or rate of data sent to it by a 
+transmitting entity. 
+[0020] Interworking Function (IWF): A point at which a 
+gateway or bridge connection is formed between a given 
+network (e.g., a packet network) and mobile devices cou-
+pled to the network by way of a base station and/or a 
+mobile switching center. 
+
+SUMMARY OF THE INVENTION 
+
+[0021] In view of the above, the present invention, 
+through one or more of its various aspects and/or em-
+bodiments, is thus presented to bring about one or more 
+objects and advantages. One such object is to provide 
+mechanisms and protocols which allow a mobile terminal 
+device to become aware of a change in its point of at-
+tachment to a packet network to which it is connected. A 
+further object of the present invention is to provide a 
+mechanism by which the wireless communication device 
+can notify the mobile terminal device of the change in the 
+point of attachment so the mobile terminal device can 
+update its registration of its IP address and continue to 
+enjoy the benefit of IP mobility. 
+[0022] The present invention, therefore, is directed to 
+a system or a method including a mechanism for updating 
+
+3 
+4 
+
+
+EP 1 243 145 B1 
+
+4 
+
+5 
+
+10 
+
+15 
+
+20 
+
+25 
+
+30 
+
+35 
+
+40 
+
+45 
+
+50 
+
+55 
+
+a transmission link over which a mobile packet network 
+call is established when the wireless communication de-
+vice moves, requiring a change in a given interworking 
+function. The transmission link extends between a mobile 
+terminal device and a given interworking function, and 
+connects the mobile terminal device to a wireless com-
+munication device over a first interface. The transmission 
+link further connects the wireless communication device 
+to the given interworking function over a second interface 
+via a wireless link to a base station. The given interwork-
+ing function changes from a first interworking function 
+associated with a first geographic region to a second in-
+terworking function associated with a second geographic 
+region when the wireless communication device moves 
+from the first geographic region to the second geographic 
+region. The transmission link comprises, among other 
+elements, a traffic channel, a data link layer link, and a 
+network layer link. The transmission link comprises a 
+packet mode in which the traffic channel is up and a dor-
+mant mode in which the traffic channel is down while the 
+data link layer link and the network layer link are main-
+tained. Network region identifier information is provided 
+to the wireless communication device when the trans-
+mission link is in the dormant mode (and also when the 
+traffic channel is up). The wireless communication device 
+determines when the given interworking function has 
+changed from the first interworking function to the second 
+interworking function by determining when there is a cor-
+responding change in the network region identifier infor-
+mation. 
+[0023] The wireless communication device initiates a 
+link control protocol negotiation with the mobile terminal 
+device when the change in the network region identifier 
+information has been determined. The mobile terminal 
+device responds to the initiation of the link control protocol 
+negotiation by sending link control protocol packets to 
+the second interworking function via the wireless com-
+munication device. The transmission link then enters the 
+packet mode and brings up the traffic channel. The data 
+link layer link is then established with the second inter-
+working function. After the data link layer link with the 
+second interworking function is established, the mobile 
+terminal device and the second interworking function ne-
+gotiate network control protocol options and establish a 
+network layer link therebetween. When appropriate, the 
+mobile terminal device updates its mobile IP registration. 
+
+BRIEF DESCRIPTION OF THE DRAWINGS 
+
+[0024] The present invention is further described in the 
+detailed description which follows, by reference to the 
+noted plurality of drawings by way of nonlimiting exam-
+ples of embodiments of the present invention, in which 
+like reference numerals represent similar parts through-
+out the several views of the drawings, and wherein: 
+
+FIG. 1 is a block diagram of a mobile computing com-
+munications subsystem; 
+
+FIG. 2 is a simplified diagram of a protocol stack 
+structure; 
+FIG. 3 is a state diagram representing various states 
+of a mobile computing communications subsystem; 
+FIG. 4 is a flow diagram representing a set of process 
+steps performed by a mobile communication device 
+in accordance with the illustrated embodiment; and 
+FIG. 5 is a simplified block diagram of a wireless 
+communication device in the illustrated embodiment. 
+
+DETAILED DESCRIPTION OF THE EXEMPLARY EM-
+BODIMENT 
+
+[0025] The present invention is directed to a mobile 
+computing communications subsystem, or one or more 
+parts thereof, for facilitating the support of IP mobility. A 
+communications subsystem 10 as shown in FIG. 1 will 
+form a transmission link which extends between mobile 
+terminal device 12 and interworking function 18. A mobile 
+packet network call is established over that transmission 
+link. The transmission link connects mobile terminal de-
+vice 12 to wireless communication device 14 over a first 
+interface (Rm), and further connects wireless communi-
+cation device 14 to interworking function 18 over a sec-
+ond interface (Um and L) via a wireless link to base sta-
+tion/ mobile switching center 16. 
+[0026] Interworking function 18 may change to a new 
+interworking function. For example, this may occur when 
+a user travels, carrying his or her mobile terminal device 
+(e.g., a laptop computer) and wireless communication 
+device 14 (typically a cellular mobile telephone), the user 
+and the equipment will move from one geographic region 
+to another, which causes the need to change the point 
+at which the mobile equipment is attached to the internet. 
+That is, interworking function 18 will need to be changed. 
+More specifically, if the user changes position so as to 
+cause wireless communication device 14 to move from 
+a first geographic region to a second geographic region, 
+a given interworking function 18 will be changed from a 
+first interworking function associated with the first geo-
+graphic region to a second interworking function associ-
+ated with the second geographic region. 
+[0027] Interworking function 18 may serve as a foreign 
+agent, thereby facilitating IP mobility. A foreign agent 
+comprises a router on a network visited by the mobile 
+node, which, in this case, comprises mobile terminal de-
+vice 12. The static IP address representing the mobile 
+node is registered as part of the mobile IP registration 
+process as set forth, for example, in RFC 2002. That is, 
+when the mobile node moves from one foreign network 
+to another, it is given a new interworking function which 
+corresponds to the new foreign network it is visiting. 
+Therefore, mobile terminal device 12 needs to be notified 
+of such a change in the foreign network it is visiting, so 
+that it can, where appropriate or necessary, update its 
+mobile IP registration. In this regard, if the change in in-
+terworking function 18 indicates that there is a new for-
+eign agent being visited by mobile terminal device 12, its 
+
+5 
+6 
+
+
+EP 1 243 145 B1 
+
+5 
+
+5 
+
+10 
+
+15 
+
+20 
+
+25 
+
+30 
+
+35 
+
+40 
+
+45 
+
+50 
+
+55 
+
+IP registration will be updated. If the same foreign agent 
+is being used, there is no need for an update of the mobile 
+IP registration. 
+[0028] Referring back to FIG. 2, lower layers 28 may 
+comprise a paging channel 30 and a traffic channel 32. 
+Paging channel 30 may carry general overhead messag-
+es sent by various network entities as well as paging 
+messages. The information sent over paging channel 30 
+may comprise network region identifier information such 
+as an SID/NID (System Identification/ Network Identifica-
+tion) pair (as set forth in IS-95A) or a packet zone id (as 
+set forth in IS-95B). While the illustrated embodiment us-
+es a paging channel 30, other common channels like the 
+BCCH (Broadcast Control Channel) used in CDMA 2000 
+may be used as well. Traffic channel 32 carries payload 
+data information over the transmission link. 
+[0029] As shown, for example, in FIG. 2, a transmis-
+sion link may comprise a traffic channel 32, a data link 
+layer link provided within data link layer 26, and a network 
+layer link provided within network layer 24. In the illus-
+trated embodiment, the data link layer link comprises a 
+PPP link, and the network layer link comprises an IP link. 
+The transmission link may be configured to have a packet 
+mode and a dormant mode. In the packet mode, traffic 
+channel 32 is up, and payload data is allowed to flow 
+through traffic channel 32. While the transmission link is 
+in the dormant mode, traffic channel 32 is down, while 
+data link layer link (PPP link) and the network layer link 
+(the IP link) are maintained. By way of example, the trans-
+mission link can be configured as disclosed in IS-707. 
+The illustrated embodiment is directed to a CDMA imple-
+mentation, and conforms to the IS-707 standard. How-
+ever, the illustrated embodiment is not meant to limit the 
+present invention to CDMA and the other standards spe-
+cifically noted herein, such as IS-707 and IS-95A or B. 
+Rather, other technologies and standards may be used. 
+For example, instead of the use of CDMA cellular tech-
+nology, other cellular communication standards may be 
+used such as TDMA, GSM, W-CDMA, or CDMA 2000 
+networks. 
+[0030] FIG. 3 is a state diagram showing the states of 
+certain network elements forming part of communica-
+tions subsystem 10 and the transitions between such 
+states. When communication subsystem 10 is in an au-
+todetect mode 302, a call is established over the trans-
+mission link extending between wireless communication 
+device 14 and at least base station/ mobile switching cent-
+er 16, but no data is transmitted. This mode corresponds 
+to the Dormant/ Traffic State as disclosed in IS-707.5, in 
+which the mobile station is communicating with the 
+BS/MSC on a traffic channel, but the packet data service 
+option has been disconnected, so that the mobile station 
+cannot transfer packet data. Communication subsystem 
+10 may move from the autodetect mode 302 into a packet 
+mode 304, in which the mobile station is in a packet call. 
+This state corresponds to the Connected State, as dis-
+closed in IS-707.5. In this state, a packet data service 
+option is connected, and the mobile station can transfer 
+
+packet data. The mobile communication subsystem 10 
+may move from the packet mode 304 into the packet 
+dormant mode 306. The packet dormant mode 306 cor-
+responds to the Dormant/ Idle State as disclosed in IS-
+707.5, in which the mobile station is not on a traffic chan-
+nel, i.e., the traffic channel is down, and the mobile station 
+cannot transfer packet data. However, the PPP and IP 
+links are maintained. Mobile communication subsystem 
+10 moves from autodetect mode 302 to packet mode 304 
+when a PPP packet sent by mobile terminal device 12 is 
+detected by wireless communication device 14. Mobile 
+communication subsystem 10 may move from a packet 
+mode 304 into packet dormant mode 306, for example, 
+when a dormant timer provided within wireless commu-
+nication device 14 expires (In CDMA 2000, such a timer 
+is maintained at the BSC (Base Station Controller) /MSC 
+and the mobile is told by a signaling message when to 
+go to the dormant mode.). When wireless communication 
+device 14 is in packet dormant mode 306, and wireless 
+communication device 14 determines that the given in-
+terworking function 18 has changed from a first interwork-
+ing function to a second interworking function, wireless 
+communication device 14 will change from a packet dor-
+mant mode 306 into a change in mobility detected state 
+308, at which time wireless communication device 14 will 
+take steps to inform mobile terminal device 12 of the 
+change. At this time, wireless communication device 14 
+will notify mobile terminal device 12 of the change in the 
+interworking function 18. If mobile terminal device 12 re-
+sponds to the communication of the interworking function 
+change, mobile communications subsystem 10 will 
+reenter packet mode 304, since mobile terminal device 
+12 will at that point cause the transmission link to enter 
+packet mode 304 and bring up the traffic channel, and 
+will further initiate the reestablishment of a data link layer 
+link (a PPP) link with the new interworking function 18. If 
+mobile terminal device 12 does not respond to the com-
+munication it receives from wireless communication de-
+vice 14, the state will transition from change in mobility 
+detected state 308 to packet dormant mode 306. 
+[0031] FIG. 4 is a flowchart of a process performed by 
+wireless communication device 14 when the transmis-
+sion link is in a packet dormant mode. The process starts 
+with an act 402 in which it waits for an indication that the 
+given interworking function 18 has changed from a first 
+interworking function to a second interworking function. 
+The first and second interworking functions may have 
+the same or overlapping geographic regions or they may 
+be associated with different geographic regions, i.e., a 
+first geographic region and a second geographic region, 
+respectively. More specifically, wireless communication 
+device 14 determines when the given interworking func-
+tion 18 has changed from one interworking function to a 
+new interworking function by determining when there is 
+a corresponding change in network region identifier in-
+formation provided to it over the transmission link when 
+the transmission link is in the dormant mode. The network 
+region identifier information may comprise information 
+
+7 
+8 
+
+
+EP 1 243 145 B1 
+
+6 
+
+5 
+
+10 
+
+15 
+
+20 
+
+25 
+
+30 
+
+35 
+
+40 
+
+45 
+
+50 
+
+55 
+
+transmitted over paging channel 30 within the lower lay-
+ers of the protocol stack being used to effect the trans-
+mission link. More specifically, the network region iden-
+tifier may comprise, for example, a packet zone id (in 
+accordance with IS-95B) or a SID/NID pair (in accord-
+ance with IS-95A). When wireless communication device 
+14 receives an indication that the interworking function 
+has changed due to a relocation of wireless communica-
+tion device 14 to a new geographic region, its processing 
+will perform act 404 at which time wireless communica-
+tion device 14 will make a determination as to whether 
+wireless communication device 14 has been configured 
+to support mobility notification. 
+[0032] If mobility notification is enabled, the process 
+will proceed to act 406, at which time wireless commu-
+nication device 14 will notify mobile terminal device 12 
+of the relocation of wireless communication device 14 so 
+as to cause a change in interworking function 18 to a new 
+interworking function. Specifically, act 406 comprises the 
+act of sending a link control protocol (LCP) Configuration 
+Request to mobile terminal device 12. Mobile terminal 
+device 12 does not expect to receive an LCP packet di-
+rectly from wireless communication device 14, and will 
+accordingly interpret its receipt of the LCP Configuration 
+Request as being sent directly from the interworking func-
+tion. This communication causes mobile terminal device 
+12 to resynchronize its instance of the PPP link between 
+mobile terminal device 12 and the new interworking func-
+tion 18. Mobile terminal device 12 will start this by sending 
+its own LCP packets to interworking function 18, which 
+causes the traffic channel to be brought up and the wire-
+less communication device 14 to be brought back into 
+the packet mode 304 (FIG. 3). 
+[0033] After the act of sending the LCP Configuration 
+Request to mobile terminal device 12 (and the PPP re-
+syncing resulting therefrom), the process will return to 
+act 402, where it will await an indication of a change in 
+the interworking function, provided the transmission link 
+is still in the packet dormant mode 306. The reestablish-
+ment of the PPP link between mobile terminal device 12 
+and new interworking function 18 allows the new inter-
+working function 18 to maintain a MIN (Mobile Identifica-
+tion Number) -IP address mapping to facilitate commu-
+nication between wireless communication device 14 and 
+mobile terminal device 12 at one end and the internetwork 
+at the other end. Accordingly, any in-bound packets com-
+ing in from the internetwork can be directed to mobile 
+terminal device 12. 
+[0034] FIG. 5 provides a simplified block diagram of a 
+wireless communication device 500, which comprises, 
+among other elements not specifically shown, a mobility 
+notification enable mechanism 502, an information ex-
+traction mechanism 504, a mechanism for determining 
+an interworking function identification 506, and an LCP 
+Configuration Request mechanism 508. Mobility notifi-
+cation enable mechanism 502 comprises a mechanism 
+for allowing a wireless communication device 500 to be 
+configured so that it is either enabled or not enabled for 
+
+mobility notification. To determine if it is enabled, mobility 
+notification enable mechanism 502 can be consulted, for 
+example, at act 404 as shown in FIG. 4. By way of ex-
+ample, mobility notification enable mechanism 502 may 
+comprise a location in memory, for example, a program-
+mable read only memory, which can be provided with 
+stored data indicating that the mobility notification is ei-
+ther enabled or not enabled. 
+[0035] Information extraction mechanism 504 com-
+prise a mechanism for extracting information being trans-
+mitted over the transmission link, including the network 
+region identifier information. In the illustrated embodi-
+ment, the network region identifier is transmitted over 
+paging channel 30 in the lower layers of the protocol stack 
+20, as shown in FIG. 2. Information extraction mecha-
+nism 504 will extract the network region identifier infor-
+mation from paging channel 30, so that information can 
+be used to determine whether there has been a change 
+in the interworking function, which determination is per-
+formed by the mechanism for determining the interwork-
+ing function identification 506. LCP Configuration Re-
+quest mechanism 508 causes the sending of an LCP 
+Configuration Request to mobile terminal device 12. 
+[0036] The functional block depictions shown in FIG. 
+5 may be implemented in a variety of different manners 
+as known in the art. For example, the illustrated mecha-
+nisms may be implemented in the form of hardware (e.g., 
+an application-specific integrated circuit), software (in-
+cluding a RAM-stored computer program, or a ROM-
+stored program -i.e., firmware, or a hybrid combination 
+of software and firmware), or a hybrid combination of 
+hardware and software. 
+[0037] Once the transmission link is put into the packet 
+mode 304, after a determination that there has been a 
+change in interworking function 18, as a result of the per-
+formance of act 406 in FIG. 4, an internet protocol control 
+protocol (IPCP) negotiation is performed between mobile 
+terminal device 12 and interworking function 18, during 
+which time a determination is made as to whether the 
+new interworking function 18 comprises a new foreign 
+agent. If the new interworking function 18 comprises a 
+new foreign agent, mobile terminal device 12 will update 
+its mobile IP registration, using known methods, for ex-
+ample, as disclosed in RFC 2002. 
+[0038] While the invention has been described with ref-
+erence to several illustrated embodiments, it is under-
+stood that the words which have been used herein are 
+words of description, rather than words of limitation. 
+Changes can be made, within the purview of the append-
+ed claims, without departing from the scope of the inven-
+tion. Although the invention has been described herein 
+with reference to particular materials, structures, and em-
+bodiments, it is understood that the invention is not to be 
+limited to the particulars disclosed, but is to be defined 
+in accordance with the claims. 
+
+9 
+10 
+
+
+EP 1 243 145 B1 
+
+7 
+
+5 
+
+10 
+
+15 
+
+20 
+
+25 
+
+30 
+
+35 
+
+40 
+
+45 
+
+50 
+
+55 
+
+Claims 
+
+1. A method comprising: 
+
+establishing a mobile packet network call over 
+a transmission link, said transmission link ex-
+tending between a mobile terminal device (12) 
+and a given interworking function (18) and con-
+necting said mobile terminal device to a wireless 
+communication device (14, 500) over a first in-
+terface (Rm) and further connecting said wire-
+less communication device (14, 500) to said giv-
+en interworking function (18) over a second in-
+terface (Um, L) via a wireless link to a base sta-
+tion (16), said given interworking function (18) 
+changing from a first interworking function (18) 
+to a second interworking function (18), said 
+transmission link comprising a traffic channel 
+(32), a data link layer (26) link, and a network 
+layer (24) link, said transmission link comprising 
+a packet mode in which said traffic channel (32) 
+is up and a dormant mode in which said traffic 
+channel (32) is down while said data link layer 
+(26) link and said network layer (24) link are 
+maintained, characterised by: 
+
+providing to said wireless communication 
+device (14, 500) network region identifier in-
+formation when said transmission link is in 
+said dormant mode; 
+said wireless communication device (14, 
+500) determining when said given inter-
+working function (18) has changed from 
+said first interworking function (18) to said 
+second interworking function (18) by deter-
+mining when there is a corresponding 
+change in network region identifier informa-
+tion; 
+said wireless communication device (14, 
+500) initiating a link control protocol negoti-
+ation with said mobile terminal device (12) 
+when said corresponding change in said 
+network region identifier information has 
+been determined; 
+said mobile terminal device (12) responding 
+to said initiation of said link control protocol 
+negotiation by forwarding link control proto-
+col packets to said second interworking 
+function (18) via said wireless communica-
+tion device (14, 500), causing said trans-
+mission link to enter said packet mode and 
+to bring up said traffic channel (32), said mo-
+bile terminal device (12) then establishing 
+a data link layer (26) link with said second 
+interworking function (18); 
+after said data link layer (26) link with said 
+second interworking function (18) is estab-
+lished, said mobile terminal device (12) and 
+
+said second interworking function (18) ne-
+gotiating network control protocol options 
+and establishing a network layer (24) link 
+between said mobile terminal device (12) 
+and said second interworking function (18). 
+
+2. The method according to claim 1, wherein, after said 
+data link layer (26) link with said second interworking 
+function (18) is established, said mobile terminal de-
+vice (12), when appropriate, updating its Internet 
+Protocol mobility registration in accordance with said 
+second interworking function (18). 
+
+3. The method according to claim 1, wherein said data 
+link layer (26) link and said network layer (24) link 
+respectively comprise a Point-to-Point Protocol link 
+and an Internet Protocol link. 
+
+4. The method according to claim 1, wherein said pack-
+et mode comprises a Connected State pursuant to 
+IS-707.5, and wherein said dormant mode compris-
+es a Dormant/ Idle State pursuant to IS-707.5. 
+
+5. The method according to claim 1, wherein said net-
+work region identifier information comprises informa-
+tion transmitted over a paging channel (30) of said 
+transmission link. 
+
+6. The method according to claim 5, wherein said net-
+work region identifier information comprises one of 
+a packet zone id and a System Identification/ Network 
+Identification pair. 
+
+7. The method according to claim 1, wherein said initi-
+ating a link control protocol, hereafter LCP, negoti-
+ation with said mobile terminal device (12) comprises 
+sending a LCP Configuration Request packet to said 
+mobile terminal device (12), wherein said mobile ter-
+minal device (12) interprets said LCP Configuration 
+Request packet as originating from said second in-
+terworking function (18). 
+
+8. The method according to claim 7, wherein said mo-
+bile terminal device (12) determines whether said 
+second interworking function (18) comprises a new 
+foreign agent, and when said second interworking 
+function (18) comprises a new foreign agent, said 
+mobile terminal device (12) performs an Internet Pro-
+tocol mobility registration update process. 
+
+9. A wireless communication device (14, 500) for sup-
+porting a transmission link between a mobile terminal 
+device (12) and an interworking function (18), said 
+wireless communication device (14, 500) charac-
+terised by: 
+
+an information extraction mechanism (504) for 
+extracting network region identifier information 
+
+11 
+12 
+
+
+EP 1 243 145 B1 
+
+8 
+
+5 
+
+10 
+
+15 
+
+20 
+
+25 
+
+30 
+
+35 
+
+40 
+
+45 
+
+50 
+
+55 
+
+associated with an interworking function (18) 
+from an overhead channel (30); 
+a determining mechanism (506) for determining 
+when a connection point of said link changes 
+from a first interworking function (18) to a second 
+interworking function (18); 
+a request mechanism (508) for forwarding a link 
+controlled configuration request to said mobile 
+terminal device (12) when said determining 
+mechanism (506) determines that said first in-
+terworking function (18) has changed to said 
+second interworking function (18), wherein: 
+
+a mobile packet network call is established 
+over said transmission link; 
+said transmission link connects said mobile 
+terminal device (12) to said wireless com-
+munication device (14, 500) over a first in-
+terface (Rm) and further connects said wire-
+less communication device (14, 500) to a 
+given interworking function (18) over a sec-
+ond interface (Um, L) via a wireless link to 
+a base station (16), said given interworking 
+function (18) changing from said first inter-
+working function (18) to a second interwork-
+ing function (18); 
+said transmission link comprising a traffic 
+channel (32), said overhead channel (30), 
+a data link layer (26) link, and a network 
+layer (24) link; 
+said transmission link comprising a packet 
+mode in which said traffic channel (32) is up 
+and a dormant mode in which said traffic 
+channel (32) is down while said data link 
+layer (26) link and said network layer (24) 
+link are maintained; 
+said information extraction mechanism 
+(504) is adapted to extract said network re-
+gion identifier information from said over-
+head channel (30) when said transmission 
+link is in said dormant mode; 
+said determining mechanism (506) is adapt-
+ed to determine when said first interworking 
+function (18) has changed to said second 
+interworking function (18) by determining 
+when there is a corresponding change in 
+said network region identifier information; 
+and 
+said request mechanism (508) is a Link 
+Control Protocol, hereafter LCP, Configura-
+tion Request mechanism, said link control-
+led configuration request being an LCP 
+Configuration Request. 
+
+10. The wireless communication device (14, 500) ac-
+cording to claim 9, wherein said data link layer (26) 
+link and said network layer (24) link respectively 
+comprise a Point-to-Point link and an Internet Pro-
+
+tocol link. 
+
+11. The wireless communication device (14, 500) ac-
+cording to claim 9 or 10, wherein said overhead chan-
+nel (30) comprises a paging channel (30) of said 
+transmission link. 
+
+12. The wireless communication device (14, 500) ac-
+cording to claim 11, wherein said network region 
+identifier information comprises one of a packet zone 
+id and a System Identification/ Network Identification 
+pair. 
+
+Patentansprüche 
+
+1. Ein Verfahren, das Folgendes aufweist: 
+
+Aufbauen eines Mobilpaketnetzwerkanrufs 
+über eine Übertragungsverbindung, wobei die 
+Übertragungsverbindung sich zwischen einer 
+Mobilterminalvorrichtung (12) und einer gege-
+benen Zwischenverbindungsfunktion bzw. In-
+terworking Function (18) erstreckt und die Mo-
+bilterminalvorrichtung mit einer Drahtloskom-
+munikationsvorrichtung (14,500) über eine er-
+ste Schnittstelle (Rm) verbindet und weiter die 
+Drahtloskommunikationsvorrichtung (14,500) 
+mit der gegebenen Interworking Function (18) 
+über eine zweite Schnittstelle (Um, L) über eine 
+Drahtlosverbindung mit einer Basisstation (16) 
+verbindet, wobei die gegebene Interworking 
+Function (18) sich von einer ersten Interworking 
+Function (18) zu einer zweiten Interworking 
+Function (18) verändert, wobei die Übertra-
+gungsverbindung einen Verkehrskanal (32), ei-
+ne 
+Datenverbindungslayer-
+bzw. 
+Schicht-(26)-Verbindung und eine Netzwerk-
+schicht-(24)-Verbindung aufweist, wobei die 
+Übertragungsverbindung einen Paketmodus, in 
+dem der Verkehrskanal (32) besteht, und einen 
+Schlafmodus, in dem der Verkehrskanal (32) 
+nicht besteht, während die Datenverbindungs-
+schicht-(26)-Verbindung und die Netzwerk-
+Schicht-(24)-Verbindung unterhalten werden, 
+aufweist, wobei das Verfahren gekennzeich-
+net ist durch: 
+
+Vorsehen von Netzwerkregionidentifizie-
+rerinformation an die Drahtloskommunika-
+tionsvorrichtung (14,500), wenn die Über-
+tragungsverbindung in dem Schlafmodus 
+ist; wobei die Drahtloskommunikationsvor-
+richtung (14,500) bestimmt, wann die gege-
+bene Interworking Function (18) sich von 
+der ersten Interworking Function (18) zu der 
+zweiten Interworking Function (18) verän-
+dert hat durch Bestimmen, wann es eine 
+
+13 
+14 
+
+
+EP 1 243 145 B1 
+
+9 
+
+5 
+
+10 
+
+15 
+
+20 
+
+25 
+
+30 
+
+35 
+
+40 
+
+45 
+
+50 
+
+55 
+
+entsprechende Veränderung in der 
+Netzwerkregionidentifiziererinformation 
+gibt; 
+wobei die Drahtloskommunikationsvorrich-
+tung (14,500) eine Verbindungssteuerpro-
+tokollaushandlung mit der Mobilterminal-
+vorrichtung (12) initiiert, wenn die entspre-
+chende Veränderung in der Netzwerkregio-
+nidentifiziererinformation bestimmt wurde; 
+wobei die Mobilterminalvorrichtung (12) 
+auch die Initiierung der Vorwärtssteue-
+rungsprotokollaushandlung 
+anspricht 
+durch Weiterleiten von Verbindungssteue-
+rungsprotokollpakete an die zweite Inter-
+working Function (18) über die Drahtlos-
+kommunikationsvorrichtung (14,500), was 
+bewirkt, dass die Übertragungsverbindung 
+in den Paketmodus eintritt und den Ver-
+kehrskanal (32) "hochbringt", bzw. ihn be-
+stehen lässt, wobei die Mobilterminalvor-
+richtung (12) dann eine Datenverbindungs-
+schicht-(26)-Verbindung mit der zweiten In-
+terworking Function (18) aufbaut; 
+nachdem die Datenverbindungsschicht-
+(26)-Verbindung mit der zweiten Interwor-
+king Function (18) aufgebaut ist, Aushan-
+deln durch die Mobilterminalvorrichtung 
+(12) und die zweite Interworking Function 
+(18) von Netzwerksteuerprotokolloptionen 
+und Aufbauen einer Netzwerkschicht-
+(24)-Verbindung zwischen der Mobiltermi-
+nalvorrichtung (12) und der zweiten Inter-
+working Function (18). 
+
+2. Verfahren gemäß Anspruch 1, wobei, nachdem die 
+Datenverbindungsschicht-(26)-Verbindung mit der 
+zweiten Interworking Function (18) aufgebaut ist, die 
+Mobilterminalvorrichtung (12), wenn dies angemes-
+sen ist, ihre Internetprotokollmobilitätsregistrierung 
+gemäß der zweiten Interworking Function (18) ak-
+tualisiert. 
+
+3. Verfahren gemäß Anspruch 1, wobei die Datenver-
+bindungsschicht-(26)-Verbindung und die Netz-
+werkschicht-(24)-Verbindung jeweils eine Punkt-zu-
+Punkt-Protokollverbindung und eine Internetproto-
+kollverbindung aufweist. 
+
+4. Verfahren gemäß Anspruch 1, wobei der Paketmo-
+dus einen Connected State bzw. verbundenen Zu-
+stand gemäß IS-707.5 aufweist und wobei der 
+Schlafmodus einen Dormant/ Idle State bzw. Schlaf/ 
+Leerlaufzustand gemäß IS-707.5 aufweist. 
+
+5. Verfahren gemäß Anspruch 1, wobei die 
+Netzwerkregionsidentifiziererinformation Informa-
+tionen aufweist, die über einen Pagingkanal (30) 
+über die Übertragungsverbindung gesendet wird. 
+
+6. Verfahren gemäß Anspruch 5, wobei die 
+Netzwerkregionidentifiziererinformation eines der 
+Folgenden aufweist: 
+
+eine Paketzonenkennung (bzw. ID) und ein Sy-
+stemidentifikations/ Netzwerkidentifikationspaar. 
+
+7. Verfahren gemäß Anspruch 1, wobei das Initiieren 
+eine Aushandlung des Verbindungssteuerungspro-
+tokoll, was im Folgenden LCP (LCP = Link Control 
+Protocol) genannt wird, mit der Mobilterminalvorrich-
+tung (12) aufweist, das Senden eines LCP Konfigu-
+rationsanfragepakets an die Mobilterminalvorrich-
+tung (12) aufweist, wobei die Mobilterminalvorrich-
+tung (12) das LCP Konfigurationsanfragepaket in-
+terpretiert als abstammend von der zweiten Inter-
+working Function (18). 
+
+8. Verfahren gemäß Anspruch 7, wobei die Mobilter-
+minalvorrichtung (12) bestimmt, ob die zweite Inter-
+working Function (18) einen neuen Foreign Agent 
+aufweist und die zweite Interworking Function (18) 
+einen neuen Foreign Agent aufweist, wobei die Mo-
+bilterminalvorrichtung (12) einen Prozess der Inter-
+netprotokoll-Mobilitätsregistrierungsaktualisierung 
+ausführt. 
+
+9. Eine Drahtloskommunikationsvorrichtung (14,500), 
+zum Unterstützen einer Übertragungsverbindung 
+zwischen einer Mobilterminalvorrichtung (12) und ei-
+ner Interworking Function (18), wobei die Drahtlos-
+kommunikationsvorrichtung (14,500) gekenn-
+zeichnet ist durch: 
+
+einen Informationsextrahiermechanismus (504) 
+zum Extrahieren von Netzwerkregionidentifizie-
+rerinformation, die eine Interworking Function 
+(18) zugeordnet ist, aus einem Overheadkanal 
+(30); 
+ein Bestimmungsmechanismus (506) zum Be-
+stimmen, wann ein Verbindungspunkt der Ver-
+bindung sich von einer ersten Interworking 
+Function (18) zu einer zweiten Interworking 
+Function (18) verändert; 
+ein Anfragemechanismus (508) zum Weiterlei-
+ten einer verbindungsgesteuerten Konfigurati-
+onsanfrage an die Mobilterminalvorrichtung 
+(12), wenn der Bestimmungsmechanismus 
+(506) bestimmt, dass die erste Interworking 
+Function (18) sich verändert hat zu der zweiten 
+Interworking Function (18), wobei: 
+
+ein Mobilpaketnetzwerkanruf über die 
+Übertragungsverbindung aufgebaut ist, 
+bzw. wird; 
+die Übertragungsverbindung, die Mobilter-
+minalvorrichtung (12) an die Drahtloskom-
+munikationsvorrichtung (14,500) über ein 
+
+15 
+16 
+
+
+EP 1 243 145 B1 
+
+10 
+
+5 
+
+10 
+
+15 
+
+20 
+
+25 
+
+30 
+
+35 
+
+40 
+
+45 
+
+50 
+
+55 
+
+erstes Interface (Rm) verbindet und weiter 
+die 
+Drahtloskommunikationsvorrichtung 
+(14,500) an eine gegebene Interworking 
+Function (18) über eine zweite Schnittstelle 
+bzw. Interface (Um, L) über eine Drahtlos-
+verbindung zu einer Basisstation (16) ver-
+bindet, wobei die gegebene Interworking 
+Function (18) sich von der ersten Interwor-
+king Function (18) zu einer zweiten Inter-
+working Function (18) verändert; wobei die 
+Übertragungsverbindung einen Verkehrs-
+kanal (32), den Overheadkanal (30), eine 
+Datenverbindungsschicht-(26)-Verbin-
+dung, und eine Netzwerkschicht-(24)-Ver-
+bindung aufweist; 
+wobei die Übertragungsverbindung einen 
+Paketmodus aufweist, in dem der Verkehrs-
+kanal (32) besteht und einen Schlafmodus, 
+in dem der Verkehrskanal (32) nicht be-
+steht, während die Datenverbindungs-
+schicht-(26)-Verbindung und die Netzwerk-
+schicht-(24)-Verbindung unterhalten wer-
+den; 
+wobei der Informationsextrahiermechanis-
+mus (504) angepasst ist zum Extrahieren 
+der Netzwerkregionidentifiziererinformati-
+on von dem Overheadkanal (30), wenn die 
+Übertragungsverbindung in dem Schlafmo-
+dus ist; 
+wobei der Bestimmungsmechanismus 
+(506) angepasst ist zum Bestimmen, wenn 
+die erste Interworking Function (18) sich 
+verändert hat zu der zweiten Interworking 
+Function (18) durch Bestimmen, wann eine 
+entsprechende Veränderung in der 
+Netzwerkregionidentifiziererinformation 
+vorliegt; und 
+wobei der Anfragemechanismus (508) ein 
+Mechanismus für Linksteuerungsprotokoll-
+konfigurationsanfrage bzw. LCP-Konfigu-
+rationsanfrage (LCP = Link Control Proto-
+col) ist, wobei die verbindungsgesteuerte 
+Konfigurationsanfrage eine LCP-Konfigu-
+rationsanfrage ist. 
+
+10. Drahtloskommunikationsvorrichtung (14,500) ge-
+mäß Anspruch 9, wobei die Datenverbindungs-
+schicht-(26)-Verbindung und die Netzwerk-
+schicht-(24)-Verbindung jeweils eine Punkt-zu-
+Punkt-Verbindung und eine Internetprotokollverbin-
+dung aufweisen. 
+
+11. Drahtloskommunikationsvorrichtung (14,500) ge-
+mäß Anspruch 9 oder 10, wobei der Overheadkanal 
+(30) einen Pagingkanal (30) auf der Übertragungs-
+verbindung aufweist. 
+
+12. Drahtloskommunikationsvorrichtung (14,500) ge-
+
+mäß Anspruch 11, wobei die Netzwerkregionsiden-
+tifiziererinformation eines der Folgenden aufweist: 
+eine Paketzonenkennung und ein Systemidentifika-
+tions-/-Netzwerkidentifikationspaar. 
+
+Revendications 
+
+1. Procédé comprenant les étapes consistant à : 
+
+établir un appel mobile sur réseau à commuta-
+tion de paquets via une liaison de transmission, 
+ladite liaison de transmission s'étendant entre 
+un dispositif terminal mobile (12) et une fonction 
+d'interfonctionnement donnée (18) et connec-
+tant ledit dispositif terminal mobile à un dispositif 
+de communication sans fil (14, 500) via une pre-
+mière interface (Rm) et connectant de plus ledit 
+dispositif de communication sans fil (14, 500) à 
+ladite fonction d'interfonctionnement donnée 
+(18) via une deuxième interface (Um, L) par l'in-
+termédiaire d'une liaison sans fil vers une station 
+de base (16), ladite fonction d'interfonctionne-
+ment donnée (18) passant d'une première fonc-
+tion d'interfonctionnement (18) à une deuxième 
+fonction d'interfonctionnement (18), ladite 
+liaison de transmission comprenant un canal de 
+trafic (32), une liaison de couche liaison de don-
+nées (26) et une liaison de couche réseau (24), 
+ladite liaison de transmission comprenant un 
+mode paquet dans lequel ledit canal de trafic 
+(32) est opérationnel et un mode sommeil dans 
+lequel ledit canal de trafic (32) est coupé pen-
+dant que ladite liaison de couche liaison de don-
+nées (26) et ladite liaison de couche réseau (24) 
+sont maintenues, caractérisé par les étapes 
+consistant à : 
+
+fournir audit dispositif de communication 
+sans fil (14, 500) de l'information d'identifi-
+cateur de région de réseau quand ladite 
+liaison de transmission est dans ledit mode 
+sommeil ; 
+ledit dispositif de communication sans fil 
+(14, 500) déterminant quand ladite fonction 
+d'interfonctionnement donnée (18) est pas-
+sée de ladite première fonction d'interfonc-
+tionnement (18) à ladite deuxième fonction 
+d'interfonctionnement (18) en déterminant 
+le moment où se produit un changement 
+correspondant dans l'information d'identifi-
+cateur de région de réseau ; 
+ledit dispositif de communication sans fil 
+(14, 500) lançant une négociation de proto-
+cole de commande de liaison avec ledit dis-
+positif terminal mobile (12) lorsque ledit 
+changement correspondant dans ladite in-
+formation d'identificateur de région de ré-
+
+17 
+18 
+
+
+EP 1 243 145 B1 
+
+11 
+
+5 
+
+10 
+
+15 
+
+20 
+
+25 
+
+30 
+
+35 
+
+40 
+
+45 
+
+50 
+
+55 
+
+seau a été déterminé ; 
+ledit dispositif terminal mobile (12) répon-
+dant audit lancement de ladite négociation 
+de protocole de commande de liaison en 
+transmettant des paquets de protocole de 
+commande de liaison à ladite deuxième 
+fonction d'interfonctionnement (18) par l'in-
+termédiaire dudit dispositif de communica-
+tion sans fil (14, 500), ce qui fait passer la-
+dite liaison de transmission dans ledit mode 
+paquet et rend opérationnel ledit canal de 
+trafic (32), ledit dispositif terminal mobile 
+(12) établissant ensuite une liaison de cou-
+che liaison de données (26) avec ladite 
+deuxième fonction d'interfonctionnement 
+(18) ; 
+une fois que ladite liaison de couche liaison 
+de données (26) avec ladite deuxième fonc-
+tion d'interfonctionnement (18) est établie, 
+ledit dispositif terminal mobile (12) et ladite 
+deuxième fonction d'interfonctionnement 
+(18) négocient des options de protocole de 
+commande de réseau et établissent une 
+liaison de couche réseau (24) entre ledit dis-
+positif terminal mobile (12) et ladite deuxiè-
+me fonction d'interfonctionnement (18). 
+
+2. Procédé selon la revendication 1, dans lequel, une 
+fois que ladite liaison de couche liaison de données 
+(26) avec ladite deuxième fonction d'interfonction-
+nement (18) est établie, ledit dispositif terminal mo-
+bile (12), lorsque cela est opportun, met à jour son 
+enregistrement de mobilité de protocole Internet en 
+accord avec ladite deuxième fonction d'interfonc-
+tionnement (18). 
+
+3. Procédé selon la revendication 1, dans lequel ladite 
+liaison de couche liaison de données (26) et ladite 
+liaison de couche réseau (24) comprennent respec-
+tivement une liaison de Protocole Point à Point et 
+une liaison de protocole Internet. 
+
+4. Procédé selon la revendication 1, dans lequel ledit 
+mode paquet comprend un État Connecté confor-
+mément à IS-707.5, et dans lequel ledit mode som-
+meil comprend un État Sommeil/ Inactif conformé-
+ment à IS-707.5. 
+
+5. Procédé selon la revendication 1, dans lequel ladite 
+information d'identificateur de région de réseau com-
+prend de l'information transmise sur un canal de 
+messagerie (30) de ladite liaison de transmission. 
+
+6. Procédé selon la revendication 5, dans lequel ladite 
+information d'identificateur de région de réseau com-
+prend soit un identificateur de zone de paquet, soit 
+une paire Identification de Système/ Identification de 
+Réseau. 
+
+7. Procédé selon la revendication 1, dans lequel ledit 
+lancement d'une négociation de protocole de com-
+mande de liaison, dénommé ci-après LCP, avec ledit 
+dispositif terminal mobile (12) comprend le fait d'en-
+voyer un paquet de Requête de Configuration de 
+LCP audit dispositif terminal mobile (12), ledit dispo-
+sitif terminal mobile (12) interprétant ledit paquet de 
+Requête de Configuration de LCP comme provenant 
+de ladite deuxième fonction d'interfonctionnement 
+(18). 
+
+8. Procédé selon la revendication 1, dans lequel ledit 
+dispositif terminal mobile (12) détermine si ladite 
+deuxième fonction d'interfonctionnement (18) com-
+prend un nouvel agent étranger, et lorsque ladite 
+deuxième fonction d'interfonctionnement (18) com-
+prend un nouvel agent étranger, ledit dispositif ter-
+minal mobile (12) effectue un processus de mise à 
+jour d'enregistrement de mobilité de protocole Inter-
+net. 
+
+9. Dispositif de communication sans fil (14, 500) pour 
+supporter une liaison de transmission entre un dis-
+positif terminal mobile (12) et une fonction d'inter-
+fonctionnement (18), ledit dispositif de communica-
+tion sans fil (14, 500) étant caractérisé par : 
+
+un mécanisme d'extraction d'information (504) 
+pour extraire de l'information d'identificateur de 
+région de réseau associée à une fonction d'in-
+terfonctionnement (18) d'un canal aérien (30) ; 
+un mécanisme de détermination (506) pour dé-
+terminer le moment où un point de connexion 
+de ladite liaison passe d'une première fonction 
+d'interfonctionnement (18) à une deuxième 
+fonction d'interfonctionnement (18) ; 
+un mécanisme de requête (508) pour transmet-
+tre une requête de configuration commandée 
+par liaison audit dispositif terminal mobile (12) 
+quand ledit mécanisme de détermination (506) 
+détermine que ladite première fonction d'inter-
+fonctionnement (18) est passée à ladite deuxiè-
+me fonction d'interfonctionnement (18), où : 
+
+on établit un appel mobile sur réseau à com-
+mutation de paquets via ladite liaison de 
+transmission ; 
+ladite liaison de transmission connecte ledit 
+dispositif terminal mobile (12) audit dispo-
+sitif de communication sans fil (14, 500) via 
+une première interface (Rm) et connecte de 
+plus ledit dispositif de communication sans 
+fil (14, 500) à une fonction d'interfonction-
+nement donnée (18) via une deuxième in-
+terface (Um, L) par l'intermédiaire d'une 
+liaison sans fil vers une station de base (16), 
+ladite fonction d'interfonctionnement don-
+née (18) passant de ladite première fonction 
+
+19 
+20 
+
+
+EP 1 243 145 B1 
+
+12 
+
+5 
+
+10 
+
+15 
+
+20 
+
+25 
+
+30 
+
+35 
+
+40 
+
+45 
+
+50 
+
+55 
+
+d'interfonctionnement (18) à une deuxième 
+fonction d'interfonctionnement (18) ; 
+ladite liaison de transmission comprenant 
+un canal de trafic (32), ledit canal aérien 
+(30), une liaison de couche liaison de don-
+nées (26) et une liaison de couche réseau 
+(24) ; 
+ladite liaison de transmission comprenant 
+un mode paquet dans lequel ledit canal de 
+trafic (32) est opérationnel et un mode som-
+meil dans lequel ledit canal de trafic (32) est 
+coupé pendant que ladite liaison de couche 
+liaison de données (26) et ladite liaison de 
+couche réseau (24) sont maintenues ; 
+ledit mécanisme d'extraction d'information 
+(504) est adapté pour extraire ladite infor-
+mation d'identificateur de région de réseau 
+dudit canal aérien (30) lorsque ladite liaison 
+de transmission est dans ledit mode 
+sommeil ; 
+ledit mécanisme de détermination (506) est 
+adapté pour déterminer quand ladite pre-
+mière fonction d'interfonctionnement (18) 
+est passée à ladite deuxième fonction d'in-
+terfonctionnement (18) en déterminant le 
+moment où se produit un changement cor-
+respondant dans ladite information d'iden-
+tificateur de région de réseau ; et 
+ledit mécanisme de requête (508) est un 
+mécanisme de Requête de Configuration 
+de protocole de commande de liaison, dé-
+nommé ci-après LCP, ladite requête de 
+configuration commandée par liaison étant 
+une Requête de Configuration de LCP. 
+
+10. Dispositif de communication sans fil (14, 500) selon 
+la revendication 9, dans lequel ladite liaison de cou-
+che liaison de données (26) et ladite liaison de cou-
+che réseau (24) comprennent respectivement une 
+liaison de Protocole Point à Point et une liaison de 
+protocole Internet. 
+
+11. Dispositif de communication sans fil (14, 500) selon 
+la revendication 9 ou 10, dans lequel ledit canal aé-
+rien (30) comprend un canal de messagerie (30) de 
+ladite liaison de transmission. 
+
+12. Dispositif de communication sans fil (14, 500) selon 
+la revendication 11, dans lequel ladite information 
+d'identificateur de région de réseau comprend soit 
+un identificateur de zone de paquet, soit une paire 
+Identification de Système/ Identification de Réseau. 
+
+21 
+22 
+
+
+EP 1 243 145 B1 
+
+13 
+
+
+EP 1 243 145 B1 
+
+14 
+
+
+EP 1 243 145 B1 
+
+15 
+
+
+EP 1 243 145 B1 
+
+16 
+
+
+EP 1 243 145 B1 
+
+17 
+
+
+EP 1 243 145 B1 
+
+18 
+
+REFERENCES CITED IN THE DESCRIPTION 
+
+This list of references cited by the applicant is for the reader's convenience only. It does not form part of the European 
+patent document. Even though great care has been taken in compiling the references, errors or omissions cannot be 
+excluded and the EPO disclaims all liability in this regard. 
+
+Patent documents cited in the description 
+
+• 
+WO 9962223 A [0014] 
+• 
+US 5873035 A [0015] 
+
+Non-patent literature cited in the description 
+
+• 
+IP Mobility Support. RFC 2002, October 1996 [0012] 
+• 
+VALKO et al. Cellular IP. Internet Draft, 18 Novem-
+ber 1998 [0016] 
+
+
+
+	
+

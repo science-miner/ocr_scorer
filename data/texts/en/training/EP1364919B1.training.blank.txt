@@ -1,0 +1,3927 @@
+
+	
+
+		
+
+	
+
+	
+
+Note: Within nine months from the publication of the mention of the grant of the European patent, any person may give 
+notice to the European Patent Office of opposition to the European patent granted. Notice of opposition shall be filed in 
+a written reasoned statement. It shall not be deemed to have been filed until the opposition fee has been paid. (Art. 
+99(1) European Patent Convention). 
+
+Printed by Jouve, 75001 PARIS (FR) 
+
+(19) 
+
+EP 1 364 919 B1 
+
+(Cont. next page) 
+
+&amp; 
+
+(11) 
+
+EP 1 364 919 B1 
+
+(12) 
+
+EUROPEAN PATENT SPECIFICATION 
+
+(45) Date of publication and mention 
+of the grant of the patent: 
+13.02.2008 Bulletin 2008/07 
+
+(21) Application number: 03090253.0 
+
+(22) Date of filing: 03.11.1999 
+
+(51) Int Cl.: 
+C03B 37/012 (2006.01) 
+C03B 23/047 (2006.01) 
+C03B 37/027 (2006.01) 
+
+(54) Method for manufacturing a preform and optical fibre from the preform 
+
+Verfahren zum Herstellen einer Vorform und einer optischen Faser aus der Vorform 
+
+Procédé de fabrication d'une préforme et d'une fibre optique à partir de la préforme 
+
+(84) Designated Contracting States: 
+DE FR GB 
+
+(30) Priority: 05.11.1998 JP 31455398 
+05.11.1998 JP 31456498 
+05.11.1998 JP 31457498 
+06.11.1998 JP 31584998 
+06.11.1998 JP 31585698 
+19.01.1999 JP 1019799 
+25.01.1999 JP 1529399 
+26.01.1999 JP 1684099 
+24.02.1999 JP 4614199 
+23.02.1999 JP 4490299 
+12.03.1999 JP 6719999 
+12.03.1999 JP 6736699 
+19.03.1999 JP 7512999 
+12.03.1999 JP 6581999 
+11.03.1999 JP 6499499 
+20.04.1999 JP 11235499 
+26.04.1999 JP 11809499 
+
+(43) Date of publication of application: 
+26.11.2003 Bulletin 2003/48 
+
+(62) Document number(s) of the earlier application(s) in 
+accordance with Art. 76 EPC: 
+99250390.4 / 0 999 189 
+
+(73) Proprietor: Shin-Etsu Chemical Co., Ltd. 
+Chiyoda-ku, 
+Tokyo (JP) 
+
+(72) Inventors: 
+• Shimizu, Yoshiaki 
+Annaka-shi 
+Gunma Prefecture (JP) 
+
+• Nagao, Takaaki 
+Chiyoda-ku 
+Tokyo 100-0004 (JP) 
+• Shimada, Tadakatsu 
+Annaka-shi 
+Gunma Prefecture (JP) 
+• Hirasawa, Hideo 
+Chiyoda-ku 
+Tokyo 100-0004 (JP) 
+• Watanabe, Masataka 
+Chiyoda-ku 
+Tokyo 100-0004 (JP) 
+• Hatayama, Kazuhisa 
+Chiyoda-ku 
+Tokyo 100-0004 (JP) 
+• Sakashita, Mitsukuni 
+Chiyoda-ku 
+Tokyo 100-0004 (JP) 
+• Taya, Minoru 
+Annaka-shi 
+Gunma Prefecture (JP) 
+• Yamamura, Waichi 
+Annaka-shi 
+Gunma Prefecture (JP) 
+• Suzuki, Shinji 
+Chiyoda-ku 
+Tokyo 100-0004 (JP) 
+• Moriya, Jiro, 
+Shin-Etsu Chem. Co., Ltd. 
+Nakakubiki-gun 
+Niigata Prefecture (JP) 
+
+(74) Representative: Pfenning, Meinig &amp; Partner GbR 
+Patent-und Rechtsanwälte 
+Theresienhöhe 13 
+80339 München (DE) 
+
+
+2 
+
+EP 1 364 919 B1 
+
+(56) References cited: 
+• PATENT ABSTRACTS OF JAPAN vol. 10, no. 314, 
+24 October 1986 (1986-10-24) &amp; JP 61 127629 A 
+(FURUKAWA ELECTRIC CO. LTD.), 14 June 1986 
+(1986-06-14) 
+• PATENT ABSTRACTS OF JAPAN vol. 11, no. 167, 
+28 May 1987 (1987-05-28) &amp; JP 61 295252 A 
+(DAINICHI NIPPON CABLES LTD.), 26 December 
+1986 (1986-12-26) 
+• PATENT ABSTRACTS OF JAPAN vol. 11, no. 167, 
+28 May 1987 (1987-05-28) &amp; JP 61 295251 A 
+(DAINICHI NIPPON CABLES LTD.), 26 December 
+1986 (1986-12-26) 
+
+• PATENT ABSTRACTS OF JAPAN vol. 11, no. 167, 
+28 May 1986 (1986-05-28) &amp; JP 61 295250 A 
+(DAINICHI NIPPON CABLES LTD.), 26 December 
+1986 (1986-12-26) 
+• PATENT ABSTRACTS OF JAPAN vol. 11, no. 167, 
+28 May 1986 (1986-05-28) &amp; JP 61 295253 A 
+(DAINICHI NIPPON CABLES LTD.), 26 December 
+1986 (1986-12-26) 
+• PATENT ABSTRACTS OF JAPAN vol. 10, no. 36, 
+13 February 1986 (1986-02-13) &amp; JP 60 186431 A 
+(FURUKAWA ELECTRIC CO. LTD.), 21 September 
+1985 (1985-09-21) 
+
+
+EP 1 364 919 B1 
+
+3 
+
+5 
+
+10 
+
+15 
+
+20 
+
+25 
+
+30 
+
+35 
+
+40 
+
+45 
+
+50 
+
+55 
+
+Description 
+
+BACKGROUND OF THE INVENTION 
+
+1. Field of Invention 
+
+[0001] The present invention relates to an optical fiber 
+manufacture method and a preform manufacture method 
+that can manufacture a preform and an optical fiber with 
+reduced variation in their diameters. 
+
+2. Description of Related Art 
+
+[0002] Fig. 1 shows a conventional glass base material 
+first elongating apparatus 400. A glass base material 102, 
+which is a base material of an optical fiber, is usually 
+elongated by the glass base material first elongating ap-
+paratus 400. This reduces the diameter of the glass base 
+material 102, to produce a glass rod 106. The glass rod 
+106 has a diameter from 3 mm to 5 mm larger than the 
+most convenient diameter to draw an optical fiber. The 
+most convenient diameter for drawing an optical fiber is 
+30 mm to 80 mm. 
+[0003] A glass base material first elongating apparatus 
+400 comprises a heating furnace 100 that heats the glass 
+base material 102 and a drawing chuck 104 that holds 
+and elongates the heated glass base material 102. To 
+elongate the glass base material 102, the glass base 
+material first elongating apparatus 400 supplies the glass 
+base material 102 to the heating furnace 100. Here the 
+glass base material 102 is heated to approximately 
+2000°C. The first elongating apparatus 400 then holds 
+the glass base material 102 by the drawing chuck 104, 
+and draws the glass base material 102 from the heating 
+furnace 100 downward continuously to form a glass rod 
+106. 
+[0004] Fig. 2 shows a configuration of a conventional 
+glass lathe 110. The glass rod 106 made by the glass 
+base material first elongating apparatus 400 undergoes 
+secondary elongation by the glass lathe 110 to produce 
+a preform 107. At this time, the diameter of the glass rod 
+106 is reduced to prescribed diameter. The glass lathe 
+110 comprises chucks 118 and 119 that hold the glass 
+rod 106, a tail stock 116 which moves the chuck 119, and 
+a heating source 122 which heats the glass rod 106. One 
+chuck 118 is fixed, and the other chuck 119 movable. A 
+traction force can be applied to the chuck 119. The glass 
+rod 106, which is held by the chucks 118 and 119, is 
+heated by the heating source 122. The heated glass rod 
+106 is elongated by moving the tail stock 116 which pulls 
+the glass rod 106. The result is, the diameter of the glass 
+rod 106 reduces to become the prescribed diameter. 
+[0005] There was the possibility of manufacturing bent 
+glass rods 106 when using a conventional glass base 
+material first elongating apparatus 400 to elongate the 
+glass base material 102. Also, when using a conventional 
+glass lathe 110 to elongate the glass rod 106 to manu-
+facture the preform 107 further problems often arose. 
+
+These problems included variation in the diameter of the 
+preform 107 because the amount of gas provided to the 
+heating source 122 and the speed of moving the tail stock 
+116 differed for each preform 107 produced. 
+[0006] When elongating a bent glass rod 106, which 
+is made by a conventional glass base material first elon-
+gating apparatus 400, to make a preform 107 by the glass 
+lathe 110, the diameter of the preform 107 varied. When 
+manufacturing optical fibers by drawing a preform 107 
+with a varying diameter, the diameter of the optical fibers 
+produced also varies. This makes it difficult to manufac-
+ture an optical fiber of high quality. 
+[0007] Patent Abstracts of Japan, vol. 11, no. 167, 28 
+May 1987 &amp; JP 61 295 252 A as well as JP 61 295 253 
+A disclose an automatic drawing device for a preform of 
+an optical fiber. Both ends of the preform are each held 
+by revolvable chuck. One of the chucks is stationary and 
+the other is movable in the axial direction of the preform. 
+A part of the preform is heated by a burner and simulta-
+neously drawn by moving the movable chuck. In the 
+stage, the outside diameters of the preform before and 
+after drawing are measured. Deviations of these meas-
+ured values from previously set reference values are 
+used to control the drawing speed of the preform, the 
+amount of heat generated by the burner, or the feeding 
+speed of the burner relative to the preform. 
+[0008] Patent Abstracts of Japan, vol. 11, no. 167, 28 
+May 1986 &amp; JP 61 295 250 A describe a similar automatic 
+drawing device for a preform of an optical fiber, wherein 
+only one value of the outside diameter is measured and 
+a target value of the outside diameter in the midway or 
+just after drawing of the preform is set in an operation 
+control. The difference between the measured value and 
+the target value is used to control the heating power of 
+the burner and the speed of a base carrying the burner 
+and the diameter measuring device in the axial direction 
+of the preform. 
+
+SUMMARY OF THE INVENTION 
+
+[0009] As stated, it is an object of the present invention 
+to provide an optical fiber manufacture method and a 
+preform manufacture method that can solve the problems 
+outlined above. In particular, it is an object of the present 
+invention to provide such methods that allow for manu-
+facturing a glass rod of consistently high quality and with 
+a smooth surface and correspondingly for manufacturing 
+an optical fiber of high quality. This object of the present 
+invention can be achieved by the combination of features 
+described in the independent claim of the present inven-
+tion. 
+[0010] According to the present invention, a method 
+of manufacturing a second perform for an optical fiber 
+comprises heating a glass rod, which is a first preform 
+for said optical fiber, and elongating said heated glass 
+rod to generate the second preform, wherein said heating 
+and the elongating speed are controlled based on the 
+diameter of the glass rod which changes with the 
+
+1 
+2 
+
+
+EP 1 364 919 B1 
+
+4 
+
+5 
+
+10 
+
+15 
+
+20 
+
+25 
+
+30 
+
+35 
+
+40 
+
+45 
+
+50 
+
+55 
+
+progress of elongation of said glass rod, and is charac-
+terized in that the method further comprises end-drawing 
+said second preform to form an end-drawn region for 
+drawing the optical fiber, and fire polishing said second 
+preform after end-drawing, the location of the end-drawn 
+region being detected by measuring the diameter at a 
+plurality of locations covering the region comprising said 
+end-drawn region along the axial direction of said second 
+preform, a polishing range, where said glass rod is pol-
+ished by a flame, being set in relation to the detected 
+location of said end-drawn region, and the heating power 
+of said flame being controlled based on the correspond-
+ing diameter of the second preform for polishing said pol-
+ishing range of said second preform by said flame. 
+[0011] According to another aspect of the same inven-
+tion, a corresponding method for manufacturing an opti-
+cal fiber furthermore comprises heating and drawing said 
+second perform to a filament-like form to generate said 
+optical fiber. 
+
+BRIEF DESCRIPTION OF THE DRAWINGS 
+
+[0012] 
+
+Fig. 1 
+shows a conventional glass base material first 
+elongating apparatus 400. 
+
+Fig. 2 
+shows a configuration of a conventional glass 
+lathe 110. 
+
+Fig. 3 
+shows a system of an optical fiber manufac-
+turing apparatus of present invention. 
+
+Fig. 4 
+shows a optical fiber manufacturing method 
+of the present invention. 
+
+Fig. 5 
+shows a configuration of a glass base material 
+first elongating apparatus 900. 
+
+Fig. 6 
+shows a first elongating device 402 that holds 
+a standard rod 138 by a base material fix unit 
+136 to adjust the axis for elongating a glass 
+base material 102. 
+
+Fig. 7 
+shows a detailed flow chart of a glass base 
+material first elongating (S204) shown in Fig. 
+4. 
+
+Fig. 8 
+shows the first elongating device 402 that 
+holds the standard rod 138 by the elongating 
+chuck 142. 
+
+Fig. 9 
+shows the first elongating device 402, which 
+holds the standard rod 138 by both of the 
+hanging mechanism 134 and the elongating 
+mechanism 140. 
+
+Fig. 10 
+shows an example using elongating rollers 
+
+144a and 144b instead of the elongating chuck 
+142 on the elongating mechanism 140. 
+
+Fig. 11 
+shows an example using elongating rollers 
+144a and 144b instead of the elongating chuck 
+142 on the elongating mechanism 140. 
+
+Fig. 12 
+shows the glass base material 102, the bend-
+ing degree of which is measured. 
+
+Fig. 13 
+shows a mechanism by which the first elon-
+gating device 402 controls the speed of rota-
+tion of the elongating roller 144a and 144b. 
+
+Fig. 14 
+shows a relationship between the amount of 
+deviation between the center position of the 
+heat softened region of the glass base mate-
+rial 102 and elongating axis 154, and the de-
+gree of bend of the glass rod 106. 
+
+Fig. 15 
+shows a deformation of the surface of the elon-
+gating rollers 144a and 144b. 
+
+Fig. 16 
+shows displacement of the metal pipe when 
+the metal pipe is carried by the elongating roll-
+ers 144a and 144b of batch number 300 
+shown in Fig. 15. 
+
+Fig. 17 
+shows the displacement of the center position 
+of the heat softened region by the first elon-
+gating device 402 of the embodiment. 
+
+Fig. 18 
+shows a fluctuation of the center position of 
+the heat softened region when the rotation 
+speed of the elongating rollers 144a and 144b 
+are controlled at the same rotation speed. 
+
+Fig. 19 
+shows an another embodiment of the burner 
+176 used in the glass rod fusing apparatus 
+370 shown in Fig. 5. 
+
+Fig. 20 
+shows a configuration of a glass rod transpor-
+tation device 380. 
+
+Fig. 21 
+shows a storage container 224 of the first elon-
+gating device 402. 
+
+Fig. 22 
+shows a movement of the glass rod transpor-
+tation device 380 when transporting the glass 
+rod 106. 
+
+Fig. 23 
+shows an another embodiment of the glass 
+rod transportation device 380. 
+
+Fig. 24 
+shows a movement of the glass rod transpor-
+tation device 380 shown in Fig. 23 when the 
+glass rod transportation device 380 transports 
+the glass rod 106. 
+
+3 
+4 
+
+
+EP 1 364 919 B1 
+
+5 
+
+5 
+
+10 
+
+15 
+
+20 
+
+25 
+
+30 
+
+35 
+
+40 
+
+45 
+
+50 
+
+55 
+
+Fig. 
+shows a configuration of a glass rod second 
+elongating apparatus 111 of the present in-
+vention. 
+
+Fig. 
+shows a detailed flow chart of the glass rod 
+second elongating (S206) shown in Fig. 4. 
+
+Fig. 
+shows an example where a cooling device 330 
+is provided on the fixed chuck 118 and the 
+movable chuck 119 of the glass rod second 
+elongating apparatus 111. 
+
+Fig. 
+shows the temperature of the fixed chuck 118 
+and the movable chuck 119 of the example 
+and the comparative example. 
+
+Fig. 
+shows a relationship between the distance be-
+tween the heating source 122 and the diame-
+ter measurement device 124, and the percent-
+age of the fluctuation of the diameter of the 
+glass rod 106. 
+
+Fig. 
+shows a glass rod second elongating appara-
+tus 111 that has a tensile stress measurement 
+device 282. 
+
+Fig. 
+shows a detailed flow chart of the elongating 
+(S154) shown in the Fig. 26. 
+
+Fig. 
+shows the process of diameter fluctuation dur-
+ing the elongation of the glass rod 106. 
+
+Fig. 
+shows a glass rod 106 that is elongated ac-
+cording to the elongating (S154) shown in Fig. 
+31. 
+
+Fig. 
+shows the tensile stress of the glass rod 106 
+at the early stage of the elongation of the ex-
+ample. 
+
+Fig. 
+shows the fluctuation of the tensile stress of 
+the glass rod 106 at an early stage of the elon-
+gation of the comparative example. 
+
+Fig. 
+shows fluctuation of the diameter of the glass 
+rod 106 after the elongation of the glass rod 
+106. 
+
+Fig. 
+shows a detailed flow chart of the end 
+dradrawing (S158) shown in Fig. 26. 
+
+Fig. 
+shows a cut 284 which is provided on the con-
+nection between the glass rod 106 and the 
+dummy rod 108 at the end drawing position 
+detecting (S169) shown in Fig. 37. 
+
+Fig. 
+shows a marking 287 that is applied on the 
+connection between the glass rod 106 and the 
+
+dummy rod 108 as another example of a mark. 
+
+Fig. 40 
+shows the glass rod second elongating appa-
+ratus 111 that detects the cut 284 at end draw-
+ing position detecting (S169). 
+
+Fig. 41 
+shows the movements of the heating source 
+122 and the tail stock 116 during the end draw-
+ing process of the glass rod 106 shown in flow 
+chart of Fig. 37. 
+
+Fig. 42 
+shows an example of the settings of an anoth-
+er method of the end drawing process at the 
+end drawing (S158) shown in Fig. 37. 
+
+Fig. 43 
+shows another example of the settings of an-
+other method of the end drawing process at 
+the end drawing (S158) shown in Fig. 37. 
+
+Fig. 44 
+shows a configuration of the heating source 
+122 of the glass rod second elongating appa-
+ratus 111. 
+
+Fig. 45 
+shows a plan view of the top of the heating 
+source 122. 
+
+Fig. 46 
+shows a relationship between the linear speed 
+of the oxygen gas and the temperature of the 
+top of the heating source 122. 
+
+Fig. 47 
+shows a shape of a tip of the preform 107, the 
+diameter of which is reduced and fused at the 
+end drawing (S158). 
+
+Fig. 48 
+shows another shape of the tip of the preform 
+107 that was end elongated. 
+
+Fig. 49 
+shows damage of the preform 107 before the 
+preform 107 is surface treated in the surface 
+treatment (S168) shown in the Fig. 26. 
+
+Fig. 50 
+shows the preform 107a, which was treated 
+by the hydrofluoric acid etching on the exam-
+ple shown in Figs. 51 and Fig. 52. 
+
+Fig. 51 
+shows the number of hydrofluoric concaves 
+generated on the preform 107 counted by vis-
+ual inspection of the example and the compar-
+ative example. 
+
+Fig. 52 
+shows the unevenness of the surface of the 
+preform 107 after treatment of the hydrofluoric 
+acid etching of the example and the compar-
+ative example. 
+
+Fig. 53 
+shows another shape of the preform 107 
+which is surface treated. 
+
+5 
+6 
+
+
+EP 1 364 919 B1 
+
+6 
+
+5 
+
+10 
+
+15 
+
+20 
+
+25 
+
+30 
+
+35 
+
+40 
+
+45 
+
+50 
+
+55 
+
+Fig. 54 
+shows an ultrasonic cleaning apparatus 404, 
+which cleans the heating source 122. 
+
+Fig. 55 
+shows a configuration of the preform drawing 
+apparatus 500 that elongates the preform 107 
+to produce an optical fiber. 
+
+DETAILED DESCRIPTION OF THE INVENTION 
+
+[0013] The present invention will be explained using 
+embodiments of the present invention. The following em-
+bodiments however, do not limit the scope of the present 
+invention described in the claims. Moreover, not all the 
+features or their combinations described in the embodi-
+ments are necessarily essential for the present invention. 
+[0014] Although the present invention has been de-
+scribed with reference to specific embodiments, the 
+scope of the present invention is not limited to these em-
+bodiments. Those skilled in the art can make various 
+modifications and improvements to the embodiments of 
+the present invention. It is clear from the appended claims 
+that such modifications or improvements are also cov-
+ered by the scope of the present invention. 
+[0015] Fig. 3 shows a system of an optical fiber man-
+ufacturing apparatus of the present invention. The sys-
+tem of the optical fiber manufacturing apparatus of 
+present invention comprises a glass base material gen-
+erating apparatus 600 which generates a glass base ma-
+terial 102 being a base material of an optical fiber; a glass 
+base material dehydrating and sintering apparatus 700 
+which dehydrates and sinters the glass base material 
+102; a glass base material first elongating apparatus 900 
+which elongates the glass base material 102 to generate 
+a glass rod 106; a glass rod transportation device 380 
+which transports the glass rod 106; a glass rod second 
+elongating apparatus 111 which elongates the glass rod 
+106 a second time to generate a preform 107; and a 
+preform drawing apparatus 500 which draws the preform 
+107 to generate an optical fiber. 
+[0016] Fig. 4 shows an optical fiber manufacturing 
+method of the present invention. The glass base material 
+102 is generated by the glass base material generating 
+apparatus 600 using the VAD method, vapor-phase axial 
+deposition method, or the like (S200). The glass base 
+material 102 is then dehydrated within a chlorine gas 
+atmosphere and sintered within an inert-gas atmosphere 
+by the glass base material dehydrating and sintering ap-
+paratus 700 (S202). 
+[0017] The diameter of the glass base material 102 is 
+normally 110 mm to 200 mm, compared to a diameter of 
+30 mm to 80 mm which is most practical for drawing to 
+an optical fiber. Therefore, the dehydrated and sintered 
+glass base material 102 is elongated firstly by the glass 
+base material first elongating apparatus 900 to produce 
+a glass rod 106 (S204). The glass rod 106 has a diameter 
+3 mm to 5 mm larger than the diameter convenient for 
+drawing to an optical fiber, which is from 30 mm to 80mm. 
+[0018] The glass rod 106 is transported by the glass 
+
+rod transportation device 380 (S205). The glass rod 106 
+is then heated and elongated by the glass rod second 
+elongating apparatus 111 to a prescribed diameter, thus 
+producing a preform 107 (S206). The preform 107 is heat-
+ed and drawn to a filament-like form by the preform draw-
+ing apparatus 500 to produce an optical fiber (S210). 
+[0019] Fig. 5 shows a configuration of a glass base 
+material first elongating apparatus 900. The glass base 
+material first elongating apparatus 900 comprises a first 
+elongating device 402 which heats and elongates the 
+glass base material 102 and a glass rod fusing apparatus 
+370 which fusing the glass rod 106. The first elongating 
+device 402 has a elongating furnace 130, which has a 
+heating furnace 100, and a hanging mechanism 134 
+which is provided above the elongating furnace 130. The 
+hanging mechanism 134 supplies the glass base material 
+102 to the inside of the elongating furnace 130 at a pre-
+scribed speed. 
+[0020] The first elongating device 402 further has an 
+elongating mechanism 140 which is provided under the 
+elongating furnace 130 to hold the glass rod 106 of re-
+duced diameter and to pull the glass rod 106 at a pre-
+scribed speed. The hanging mechanism 134 has a base 
+material fix unit 136 that holds the glass base material 
+102. The elongating mechanism 140 has an elongating 
+chuck 142 that holds the glass rod 106. 
+The glass rod fusing apparatus 370 has a burner 176, a 
+rotating table 210, a timing belt 214, a motor 212, a sup-
+porting leg 208, a burner stand 216, an elongating device 
+206, and an elongating fusion chuck 218. 
+[0021] The glass base material 102 is installed on the 
+base material fix unit 136, and sent into the heating fur-
+nace 100 at a prescribed speed. The glass base material 
+102 heated by the heating furnace 100 is held and pulled 
+by the elongating chuck 142 to reduce the diameter thus 
+producing a glass rod 106. The glass rod 106 is pulled 
+by the elongating device 206 at a speed which is suitable 
+for the diameter to be obtained, so that the glass base 
+material 102 is elongated to the desired diameter. At this 
+time, the diameter of the glass rod 106 is measured by 
+a diameter measuring device 152. The feeder 204, heat-
+ing furnace 100, and elongating device 206 are controlled 
+based on this measurement in order to elongate the glass 
+rod 106 to the desired diameter. 
+[0022] The glass rod 106, which has been elongated 
+to a prescribed diameter and length, is fused by the burn-
+er 176 at the part that does not include the bubble or 
+does not include the bubble of which diameter is sub-
+stantially 0.3 mm or above. A flame of oxygen and hy-
+drogen is a desirable heating means of the burner 176. 
+A gas flame of based on hydrocarbon fuels such as pro-
+pane and oxygen can also be used for the burner 176. 
+[0023] The burner 176 is installed on the rotating table 
+210 via the supporting leg 208. The rotating table is ro-
+tated by a driving device such as motor 212 via the timing 
+belt 214. The rotating table 210 is installed on the burner 
+stand 216. The glass rod fusing apparatus 370 fuses the 
+glass rod 106 by heating the glass rod 106 with the ro-
+
+7 
+8 
+
+
+EP 1 364 919 B1 
+
+7 
+
+5 
+
+10 
+
+15 
+
+20 
+
+25 
+
+30 
+
+35 
+
+40 
+
+45 
+
+50 
+
+55 
+
+tating the burner 176 and elongates the glass rod 106 
+using the elongating fusion chuck 218 with a prescribed 
+speed and pull strength. 
+[0024] Fig. 6 shows a first elongating device 402 which 
+holds a standard rod 138 by a material fix unit 136 to 
+adjust the axis for elongating a glass base material 102. 
+The hanging mechanism 134 has a mechanism not 
+shown in the figure, that adjusts the vertical inclination 
+of the base material fix unit 136. The elongating mecha-
+nism 140 has a mechanism, also not shown in the figure, 
+that adjusts the vertical inclination of the elongating chuck 
+142. The elongating mechanism 140 further has a mech-
+anism, again not shown in the figure, that adjusts the 
+position of the elongating mechanism 140 within the hor-
+izontal phase in the directions back and forth and left and 
+right. 
+[0025] Fig. 7 shows a detailed flow chart of a glass 
+base material first elongating (S204) shown in Fig. 4. The 
+glass base material first elongating (S204) has a process 
+to adjust the elongating axis of the first elongating device 
+402. First, a metal or ceramic rod is prepared as a stand-
+ard rod 138. The straightness of the standard rod 138 
+should be guaranteed. The standard rod 138 usually has 
+a length of a glass base material 102 and dummy rod 
+that is welded onto the glass base material 102. The 
+straightness of the axis of the standard rod 138 is guar-
+anteed along the full length. 
+[0026] As shown in fig. 6, the standard rod 138 is held 
+by the base material fix unit 136 of the hanging mecha-
+nism 134 (S110). Then, the inclination A of the hanging 
+mechanism 134 is adjusted so that the direction of the 
+standard rod 138 matches with the vertical direction 
+(S112). Following this, the standard rod 138 is removed 
+from the base material fix unit 136 after finishing the ad-
+justment (S114). 
+[0027] Fig. 8 shows the first elongating device 402 that 
+holds the standard rod 138 by the elongating chuck 142. 
+The standard rod 138 is held by the elongating chuck 
+142 of the elongating mechanism 140 (Fig. 7, S116), 
+Then the inclination B of the elongating mechanism 140 
+is adjusted so that the direction of the standard rod 138 
+matches with the vertical direction (Fig. 7, S118). At this 
+time, it is desirable that the elongating chuck 142 main-
+tains the approximate center of longitudinal direction of 
+the standard rod 138. The procedure for adjusting the 
+hanging mechamechanism 134 and the elongating 
+mechanism 140 can be reversible. The elongating mech-
+anism 140 can be adjusted first, and then the hanging 
+mechanism 134 can be adjusted. 
+[0028] Fig. 9 shows the first elongating device 402, 
+which holds the standard rod 138 by both the hanging 
+mechanism 134 and the elongating mechanism 140. Af-
+ter finishing the adjustment of the hanging mechanism 
+134 and the elongating mechanism 140, by holding the 
+standard rod 138 by the base material fix unit 136, the 
+lower end of the standard rod 138 is held by the elongat-
+ing chuck 142 (Fig. 7, S120). Then, the horizontal direc-
+tion position C of the elongating mechanism 140 or the 
+
+horizontal direction position C of the hanging mechanism 
+134 is adjusted so that the difference in horizontal direc-
+tion between the vertical axis and the standard rod 138 
+is less than 0.5 mm per 1 m length (Fig. 7, S122). 
+[0029] Following this, a glass rod 106 is generated by 
+elongating the glass base material 102 using the first 
+elongating device 402, the elongating axis of which is 
+adjusted (Fig. 7, S124). Finally, the glass rod 106 is fused 
+by the glass rod fusing apparatus 370 (Fig. 7, S126). 
+[0030] Fig. 10 and Fig. 11 show examples that use 
+elongating rollers 144a and 144b on the elongating 
+mechanism 140 instead of the elongating chuck 142. To 
+adjust the vertical inclination of the axis connecting the 
+hanging mechanism 134 and the elongating mechanism 
+140 in the case of using the elongating rollers 144a and 
+144b, the following method is adopted. The standard rod 
+138 is held by the elongating rollers 144a and 144b as 
+opposed to the holding of the standard rod 138 by the 
+elongating chuck 142 (Fig. 7, S116). 
+[0031] Following this, the inclination of the elongating 
+mechanism 140 is adjusted by adjusting the horizontal 
+inclination of the line F. The line F connects the two ro-
+tation axis between the elongating rollers 144a and 144b. 
+After the adjustment of the inclination of the elongating 
+mechanism 140 (Fig. 7, S118), the elongating rollers 
+144a and 144b can hold the standard rod 138 vertically. 
+[0032] Next, as shown in Fig. 11, the standard rod 138 
+is held by the base material fix unit 136 of the hanging 
+mechanism 134 and the elongating rollers 144a and 144b 
+of the elongating mechanism 140 at the step correspond-
+ing to holding the standard rod 138 by the base material 
+fix unit 136 and the elongating chuck 142 (Fig. 7, S120). 
+Then, the vertical inclination E of the axis which connects 
+the hanging mechanism 134 and elongating mechanism 
+140 is adjusted. This adjustment is made either by ad-
+justing the position of the elongating mechanism 140 in 
+the horizontal direction or adjusting the position of the 
+hanging mechanism 134 in the horizontal direction at the 
+step corresponding to adjustment of the horizontal direc-
+tion position of the hanging mechanism 134 and the elon-
+gating mechanism 140 (Fig. 7, S122). 
+[0033] The vertical inclination of the axis connecting 
+the hanging mechanism 134 and elongating mechanism 
+140 can be readily adjusted using the adjusting method 
+shown above. This method is suitable not only for elon-
+gating the straight glass base material 102 without any 
+gap between the dummy rod and the glass base material 
+102, but also for elongating a glass base material 102 
+with some bending, to obtain a glass rod 106 with reduced 
+diameter within a desired range of straightness. This is 
+possible, provided the glass base material 102 is welded 
+onto the dummy rod without a gap between the axis of 
+the glass base material 102 and the dummy rod. 
+[0034] The first elongating device 402 can adjust the 
+vertical inclination of the elongating axis accurately for 
+the methods of holding the glass base material 102 by 
+either the hanging mechanism 134, the elongating mech-
+anism 140 or by both the hanging mechanism 134 and 
+
+9 
+10 
+
+
+EP 1 364 919 B1 
+
+8 
+
+5 
+
+10 
+
+15 
+
+20 
+
+25 
+
+30 
+
+35 
+
+40 
+
+45 
+
+50 
+
+55 
+
+the elongating mechanism 140. Therefore, the bending 
+moment, which causes bending on the heat softened re-
+gion of the glass base material 102 can be decreased. 
+Bending is generated by the weight of the elongated glass 
+base material 102 as it bears on the elongating mecha-
+nism 140. The glass base material 102 can therefore be 
+elongated within a desired range of straightness without 
+causing a gap between the axis of the glass base material 
+102 and the dummy rod. 
+[0035] Fig. 12 shows the glass base material 102, the 
+bending degree of which is measured. The glass base 
+material 102 is elongated by the first elongating device 
+402, the vertical inclination of which is adjusted by the 
+adjusting method shown above. Then, the degree of 
+bending of the glass rod 106 is measured. First, the glass 
+rod 106 is placed on two bearings 148 and 149, which 
+are installed horizontally so that the line connecting the 
+top of bearings 148 and 149 can be a standard line. Next, 
+the maximum or minimum value of the height from the 
+standard line is measured by scanning the measuring 
+device 150 along the glass rod 106 using a device such 
+as a dial gauge. 
+[0036] Then, the glass rod 106 is rotated 180 degrees, 
+and the maximum and minimum value of the height from 
+the standard line is measured in the same way. The max-
+imum value of the difference between the first measured 
+maximum value and the next measured minimum value 
+or the difference of the first measured minimum value 
+and the next measured maximum value is set as "2h". 
+The value that divides the "h" by the length L1, which is 
+a distance between two bearings 148 and 149, repre-
+sents the straightness of the glass rod 106 per unit of 
+length. 
+[0037] 5 pieces of the straight glass base material 102 
+without the gap of axis with dummy rod were elongated 
+by the first elongating device 402 with an adjusted elon-
+gating axis to produce 5 of glass rod 106. The straight-
+ness of each of the glass rods 106 was measured by the 
+method shown in Fig. 12. The "h" of the glass rods 106 
+were all within 0.5 mm. Next, the glass rods 106 were 
+elongated by the first elongating device 402 without ad-
+justment of the elongating axis. An average of 90 percent 
+of the glass rods 106 were bent which indicates that the 
+glass rod 106 should be corrected through adjustment 
+of the elongating axis. 
+[0038] Fig. 13 shows a mechanism by which the first 
+elongating device 402 controls the speed of rotation of 
+the elongating rollers 144a and 144b. The first elongating 
+device 402 controls the rotation speed of each of the 
+elongating rollers 144a and 144b respectively. The glass 
+base material 102 is hung by the base material fix unit 
+136 of the first elongating device 402 and sent to the 
+heating furnace (not shown in the figure) at a prescribed 
+speed. The glass rod 106, which is heated and softened 
+by the heating furnace, is taken by the pair of elongating 
+rollers 144a and 144b. 
+[0039] The center position of the heat softened region 
+of the glass base material 102 is obtained by measuring 
+
+the diameter of the heat softened region of the glass base 
+material 102 using the diameter measuring device 152. 
+At the same time the center position of the measured 
+diameter is calculated. A laser beam transmission type 
+diameter measuring device is used as the diameter 
+measuring device 152. The laser beam is irradiated onto 
+the heat softened region of the glass base material 
+102through the window provided on the lower part of the 
+heater in the heating furnace. 
+[0040] The measured diameter is input to the diameter 
+control unit 156, and the difference between the target 
+diameter value and the measured diameter is calculated. 
+The rotation speed of the elongating roller 144a is con-
+trolled based on the calculated difference of the diameter. 
+Then, the information on the center position of the heat 
+softened region is input to the position control unit 158. 
+[0041] The position control unit 158 calculates the 
+amount of deviation between the center position of the 
+heat softened region and the elongating axis 154 of the 
+first elongating device 402. The position control unit 158 
+further calculates the correction value of the rotation 
+speed, which can reduce the deviation between the cent-
+er position of heat softened region and the elongating 
+axis 154 to virtually zero. Then, the position control unit 
+158 controls the rotation speed of the elongating roller 
+144b based on the addition of the correction value and 
+the rotation speed of the elongating roller 144a. 
+[0042] Fig. 14 shows a relationship between the 
+amount of deviation between the center position of the 
+heat softened region of the glass base material 102 and 
+the elongating axis 154, and the degree of bend caused 
+in the glass rod 106. The larger the amount of deviation 
+between the center position of the heat softened region 
+of the glass base material 102 and elongated axis 154, 
+the larger the resultant bend in the glass rod 106. 
+[0043] When the amount of deviation is large, the heat-
+resistant members on the surface of the elongating rollers 
+144a and 144b are deformed. The shapes of the elon-
+gating rollers 144a and 144b become slightly different to 
+each other. The result is the rotation speeds of the sur-
+faces of the elongating rollers 144a and 144b are different 
+to each other. Since the deformation of the surface of the 
+elongating rollers 144a and 144b is one of the causes of 
+the bending of the glass rod 106, the bend of the glass 
+rod 106 can be reduced by controlling the rotation speed 
+of each of the elongating rollers 144a and 144b respec-
+tively. 
+[0044] The surfaces of the elongating rollers 144a and 
+144b are formed from a heat-resistant material such as 
+non-asbestos or asbestos. These materials are heat re-
+sistant and flexible, so that the elongating rollers 144a 
+and 144b can easily elongate the glass rod 106 at high 
+temperatures. The surface of the elongating rollers 144a 
+and 144b that come into contact with the glass rod 106 
+are gradually deformed by the high temperature and 
+pinching force or friction force of the glass rod 106. Be-
+cause the deformation of the elongating rollers 144a and 
+144b is slightly different to each other, the rotation speed 
+
+11 
+12 
+
+
+EP 1 364 919 B1 
+
+9 
+
+5 
+
+10 
+
+15 
+
+20 
+
+25 
+
+30 
+
+35 
+
+40 
+
+45 
+
+50 
+
+55 
+
+of the surfaces of the elongating rollers 144a and 144b 
+also differs. 
+[0045] Fig. 15 shows deformation of the surfaces of 
+the elongating rollers 144a and 144b. The outside shape 
+of the elongating roller 144a and the elongating roller 
+144b is different. The number of batches is the number 
+of glass base materials 102 which were elongated. As 
+the number of batches is increased, the deformation and 
+abrasion is progressed. The result is, the amount of elon-
+gation becomes different between the elongating rollers 
+144a and 144b, which causes fluctuation in the position 
+of the heat softened region of the glass base material 
+102 which in turn causes bending of the glass rod 106. 
+[0046] Fig. 16 shows displacement of the center posi-
+tion of the heated region of the metal pipe when the metal 
+pipe is taken by the elongating rollers 144a and 144b at 
+batch number 300 shown in Fig. 15. The vertical axis 
+shows the displacement of the center position of the heat-
+ed region of the metal pipe, and the horizontal axis shows 
+time. The curve A shows the fluctuation of the amount of 
+deviation in the direction of rotation of the elongating roll-
+ers 144a and 144b. The curve A shows that the displace-
+ment fluctuates largely during a single rotation of the elon-
+gating rollers 144a and 144b. The curve B shows that 
+the fluctuation of displacement is quite small for the axis 
+direction of the elongating rollers 144a and 144b. 
+[0047] Fig. 17 shows displacement of the center posi-
+tion of the heat softened region by the first elongating 
+device 402 of the embodiment. The vertical axis shows 
+the displacement of the center position of the heat sof-
+tened region of the glass base material 102, and the hor-
+izontal axis shows the time from the start of the elonga-
+tion. The displacement of the heat softened region is con-
+trolled and maintained at a small level after 1500 seconds 
+from the start of the elongation. Therefore, a glass rod 
+106 without a substantial bend can be manufactured by 
+controlling the rotation speed of the each of the elongat-
+ing rollers 144a and 144b respectively. This allows the 
+center position of the heat softened region to be main-
+tained at a relatively constant point. 
+
+(Comparative Example) 
+
+[0048] Fig. 18 shows fluctuation of the center position 
+of the heat softened region when the rotation speed of 
+the elongating rollers 144a and 144b are controlled at 
+the same rotation speed as each other. The vertical axis 
+shows the displacement of the center position of the heat 
+softened region of the glass base material 102, and the 
+horizontal axis shows the time from the start of the elon-
+gation. 
+[0049] A glass rod 106 having a prescribed diameter 
+was manufactured by measuring the diameter of the heat 
+softened region of the glass base material 102 using the 
+same diameter measuring device 152 in Fig. 17. The 
+rotating speeds of the elongating rollers 144a and 144b 
+were controlled at the same rotation speed as each other. 
+The fluctuation of the center position of the heat softened 
+
+region was large so that a bend requiring correction was 
+caused on the elongated glass rod 106. 
+[0050] Fig. 19 shows another embodiment of the burn-
+er 176 used in the glass rod fusing apparatus 370 shown 
+in Fig. 5. A ring burner 176 has a hydrogen gas supply 
+pipe 190 and a ring-type gas inlet 194, which are con-
+nected to an oxygen gas supply pipe 192. The cooling 
+pipe 196, which is connected to the cooling water supply 
+pipe 198 and cooling water drainage pipe 200, is provided 
+on the outer area of the ring burner 176. The ring-type 
+gas inlet 194 can be a single layer that ejects a mix of 
+hydrogen gas and oxygen gas. The ring-type gas inlet 
+194 can also be multiple or triple layered which eject the 
+hydrogen gas from the upper and lower layers and oxy-
+gen gas from the middle layer. 
+[0051] The glass rod 106 is set inside the ring of the 
+ring burner 176, after which the hydrogen and oxygen 
+gases are supplied to the ring burner 176 and ignited. 
+The surface of the glass rod 106 is fused by the flame 
+178. The ring burner 178 can heat the glass rod 106 
+efficiently so that it is unnecessary to over heat the glass 
+rod 106. Therefore, the opaque region on the surface of 
+the glass, generated when glass is heated to tempera-
+tures higher than 2000°C, cannot be seen on the fused 
+surface of the glass rod 106. 
+[0052] According to the embodiments shown above, 
+the glass rod 106 was fused. The glass base material 
+102 with a diameter of 120 mm was heated by the ring 
+burner 176 for ten minutes. Hydrogen gas was supplied 
+to the ring burner 176 at a rate of 300 L/ minute and ox-
+ygen gas at 120 L/ minute. The glass rod 106 was fused 
+by elongation when the glass rod 106 was melted. The 
+fused surface of the glass rod 106 was shaped into a 
+circular cone. The color of the surface of the glass rod 
+106 was transparent. 
+[0053] Fig. 20 shows a configuration of a glass rod 
+transportation device 380. The glass rod transportation 
+device 380 is used for transporting the glass rod 106 
+generated by the first elongating device 402. The glass 
+rod 106 is held by the movable holding element 245 and 
+the fixed holding element 246 installed on the air cylinder 
+storage box 244. When the air cylinder (not shown in the 
+figure) provided inside the air cylinder storage box 244 
+is driven, the movable holding element 245 moves toward 
+the fixed holding element 246 thereby holding the glass 
+rod 106. 
+[0054] The force with which the movable holding ele-
+ment 245 pushes the fixed holding element 246 can be 
+modified by modifying the air pressure which flows into 
+the air cylinder. The air pressure of the air cylinder can 
+be modified by operating a switch during the transporta-
+tion of the glass rod 106. The switch is provided on the 
+operating switch box 248. 
+[0055] The present embodiment has a second level of 
+pushing force for pushing the movable holding element 
+245 to the fixed holding element 246. This is achieved 
+by adjusting the air pressure which flows into the air cyl-
+inder to one of two possible levels. For example, the weak 
+
+13 
+14 
+
+
+EP 1 364 919 B1 
+
+10 
+
+5 
+
+10 
+
+15 
+
+20 
+
+25 
+
+30 
+
+35 
+
+40 
+
+45 
+
+50 
+
+55 
+
+side of the pushing force, which pushes the movable 
+holding element 245 to the fixed holding element 246, is 
+the first holding force, and the strong side of the pushing 
+force is second holding force. The first holding force is 
+set to 0.5 kg, and the second holding force is set to 80 kg. 
+[0056] The air pressure adjustment of the air cylinder 
+does not have to have only two levels of adjustment. The 
+air pressure adjustment can be a multiple level adjusting 
+type which adjusts to more than three levels of air pres-
+sure or the continuous adjustment type that provides a 
+gradual rather than stepped level change. A rotary actu-
+ator 250 rotates the glass rod 106 from the vertical con-
+dition to the horizontal condition by rotating the movable 
+holding element 245 and the fixed holding element 246 
+through the air cylinder storage box 244. A holding flame 
+252 holds the glass rod transportation device 380 by con-
+necting the glass rod transportation device 380 to the 
+first elongating device 402. A handle 254 is used for op-
+erating the glass rod transportation device 380. A rotation 
+axis 256 rotates the air cylinder storage box 244. 
+[0057] Fig. 21 shows a storage container 224 of the 
+first elongating device 402. The storage container 224 
+has a saucer 260, a strut 262, a pair of holding members 
+234a and 234b which hold the glass rod 106, and a pair 
+of holding members 236a and 236b which are provided 
+under the holding members 234a and 234b. The shapes 
+of the holding members 234a, 234b, 236a, and 236b are 
+substantially semicircle, which is desirable to securely 
+hold the glass rod 106 inside the storage container 224. 
+Together, each of the pair of holding members 234a and 
+234b and holding members 236a and 236b form circle 
+shaped holding members. 
+[0058] One end of each of the holding members 234a 
+and 234b and the holding member 236a and 236b is pin 
+connected to strut 262. The other end of each is connect-
+ed to the corresponding pair of holding members by a 
+pin 257 or a pin 258. The holding members 234a and 
+234b are connected by the pin 257, and the holding mem-
+bers 236a and 236b are connected by the pin 258. The 
+height of the strut 262 is 1,550 mm. The inside diameter 
+of the saucer 260 is 300 mm. Each of the inside diameters 
+of the holding members are 180 mm, formed by the pair 
+of holding members 234a and 234b and the pair of hold-
+ing members 236a and 236b. 
+[0059] In the case of receiving inside the storage con-
+tainer 224, a glass rod 106with an outside diameter of 
+80 mm, 4, the angle of inclination α between the strut 
+262 and the glass rod 106 in the front and rear direction 
+can range from -3.1°to +8.1°. The angle of inclination β 
+between the glass rod 106 and the strut 262 in the left 
+and right directions can range from -5.9° to +5.9°. Here, 
+The angle of inclination is a limited value, and the glass 
+rod 106 can be received inside the storage container 224 
+in various angles within this limited value. The glass rod 
+106 is in a various angles inside the storage container 
+224. 
+[0060] Fig. 22 shows a movement of the glass rod 
+transportation device 380 when transporting the glass 
+
+rod 106. The glass rod 106 inside of the storage container 
+224 is held by the movable holding element 245 and fixed 
+holding element 246 with the first holding force (b). Then, 
+the glass rod 106 is moved so that the glass rod 106 
+stands vertical to the ground within the holding member 
+234a and 234b (C). Because the first holding force is very 
+weak, the movable holding element 245 will be opened 
+when a force larger than the first holding force is applied 
+to the movable holding element 245 during movement of 
+the glass rod 106. Moreover, the friction force acted be-
+tween the movable holding element 245 and glass rod 
+106 and between the fixed holding element 246 and glass 
+rod 106 is very small compared to the weight of the glass 
+rod 106. Therefore, glass rod cannot be lifted by raising 
+the glass rod transportation device 380, which holds the 
+glass rod 106 by the first holding force. 
+[0061] After confirming that the glass rod 106 stands 
+vertical, the holding force of the glass rod transportation 
+device 380 is changed to the second holding force (d). 
+Following this, the pins 257 and 258 are removed, and 
+each of the holding members 234a and 234b and the 
+holding member 236a and 236b are opened. Next, the 
+glass rod transportation device 380 takes the glass rod 
+106 out of the storage container 224 for transportation. 
+The glass rod 106 taken from the storage container 224 
+is rotated to a horizontal position and placed on the keep-
+ing place. During horizontal placement of the glass rod 
+106 on the keeping place, air pressure larger than a con-
+stant value is applied to the air cylinder to raise and lower 
+the glass rod transportation device 380. Therefore, the 
+weight of the glass rod transportation device 380 is not 
+applied to the glass rod 106 which prevents damage to 
+the glass rod. 
+[0062] Fig. 23 shows an another embodiment of the 
+glass rod transportation device 380. The glass rod trans-
+portation device 380 of this embodiment has two rotation 
+mechanisms A and B. Each of the rotation mechanisms 
+A and B has a rotary actuator. The rotation mechanism 
+A rotates the glass rod 106 by rotating a rotation axis 256 
+through the rotary actuator 250. The rotation mechanism 
+B moves the glass rod 106 up and down or left and right 
+through the coupling axis 266 by rotating a rotation axis 
+268 through the rotary actuator 264. The rotation axis 
+268 lies at right angles to the rotation axis 256 horizontally 
+or vertically. 
+[0063] Fig. 24 shows the movement of the glass rod 
+transportation device 380 shown in Fig. 23 when the 
+glass rod transportation device 380 transports the glass 
+rod 106. Fig. 24 (a) shows a plan view of the glass rod 
+transportation device 380, which holds the glass rod 106. 
+Fig. 24 (b) shows the cross sectional view of the glass 
+rod transportation device 380, which transports the glass 
+rod 106 to the V block 240. As shown in Fig. 24 (a), the 
+movable holding elements 245 and 246, which hold the 
+glass rod 106 vertically, are rotated from the vertical to 
+horizontal position by operating the rotary actuator 250. 
+Next, as shown in Fig. 24 (b), the movable holding ele-
+ment 245 and the fixed holding element 246 are rotated 
+
+15 
+16 
+
+
+EP 1 364 919 B1 
+
+11 
+
+5 
+
+10 
+
+15 
+
+20 
+
+25 
+
+30 
+
+35 
+
+40 
+
+45 
+
+50 
+
+55 
+
+downward by activating the rotary actuator 264. 
+[0064] The direction of opening and closing of the mov-
+able holding element 245 changes from a vertical direc-
+tion to horizontal direction by activating the rotary actu-
+ator 264. Therefore, the movable holding element 245 
+and the fixed holding element 246 can release upward 
+after placing the glass rod 106 on the V block 240 by 
+opening the movable holding element 245. By including 
+not only the rotation mechanism A, which rotates the 
+glass rod 106 from a vertical to horizontal position, but 
+also the rotation mechanism B, which has another rota-
+tion axis 268 that lies at right angles to the rotation axis 
+256, the transportation efficiency of the glass rod 106 is 
+increased. 
+[0065] Fig. 25 shows a configuration of a glass rod 
+second elongating apparatus 111 of the present inven-
+tion. The glass rod second elongating apparatus 111 
+comprises a mounting 112, a fixed chuck 118, a movable 
+chuck 119, a heating source 122, a mass flow controller 
+278, tail stocks 114 and 116, a tail stock driving motor 
+275, a tail stock driving encoder 273, a diameter meas-
+urement device 124, a moving stand 120, a sliding screw 
+270, a moving stand motor 274, a moving stand encoder 
+272, a chain 276, and a control unit 280. 
+[0066] The fixed chuck 118 and the movable chuck 
+119 hold the glass rod 106 which has been weld at both 
+ends to a dummy rod 108. The heating source 122 heats 
+the glass rod 106, which is held by the fixed chuck 118 
+and movable chuck 119. The mass flow controller 278 
+adjusts the amount of gas supplied to the heating source 
+122. The tail stock 116 elongates the glass rod 106 by 
+moving the movable chuck 119. The tail stock driving 
+motor 275 drives the tail stock 116. The tail stock driving 
+encoder 273 detects the amount of the rotation and con-
+trols the speed of the tail stock driving motor 275. The 
+moving distance of the tail stock 116 can be assessed 
+from the amount of the rotation of the tail stock driving 
+motor 275 detected by the tail stock driving encoder 273. 
+[0067] The diameter measurement device 124 meas-
+ures the diameter of the glass rod 106 corresponding to 
+the position along the axial direction of the glass rod 106. 
+The heating source 122 and the diameter measurement 
+device 124 are provided on the moving stand 120. The 
+moving stand 120 moves the heating source 122 and 
+diameter measurement device 124. The moving stand 
+120 is provided on the mounting 112. The moving stand 
+120 can move along the sliding screw 270, which is in-
+stalled parallel to the axis that connects the fixed chuck 
+118 and movable chuck 119. The moving stand 120 is 
+driven by the moving stand motor 274 through the sliding 
+screw 270 and the chain 276. The moving stand encoder 
+272 controls the speed of the moving stand motor 274. 
+[0068] The control unit 280 controls the moving dis-
+tance of the heating source 122 by controlling the moving 
+stand encoder 272, the moving stand motor 274, the 
+chain 276, the sliding screw 270 and the moving stand 
+120. The control unit 280 controls the amount of gas pro-
+vided to the heating source 122 by controlling the mass 
+
+flow controller 278. The control unit 280 controls the mov-
+ing speed of the tail stock 116 by controlling the tail stock 
+driving encoder 273 which controls the rotation speed of 
+the tail stock driving motor 275. The control unit 280 con-
+trols the elongating speed of the glass rod 106 by con-
+trolling the moving speed of the tail stock 116. 
+[0069] The tail stock 114 and 116, fixed chuck 118, 
+movable chuck 119, tail stock driving motor 275, and tail 
+stock driving encoder 273 constitute an elongating unit 
+which elongates the glass rod 106. 
+[0070] The data on the measured diameter and posi-
+tion of measurement as measured by the diameter meas-
+urement device 124, and the data on the changes in 
+length of the glass rod 106 obtained from the moving 
+distance of the tail stock 116 are input to control unit 280. 
+The control unit 280 controls the heating condition based 
+on input data by controlling factors such as moving dis-
+tance of the heating source 122, the amount of gas pro-
+vided to the heating source 122, and also controls the 
+elongation speed of the tail stock 116 based on input 
+data. 
+[0071] Fig. 26 shows a detailed flow chart of the glass 
+rod second elongating (S206) shown in Fig. 4. First, the 
+dummy rods 108 are held by the fixed chuck 118 and the 
+movable chuck 119. Following this, both ends of the glass 
+rod 106 are welded to the dummy rods 108 (S146) so 
+that the glass rod 106 is set on the glass rod second 
+elongating apparatus 111. Next, a cut 284 of 3 mm depth 
+is made around the connection of the glass rod 106 and 
+the dummy rods 108 as a marker. 
+[0072] The starting and finishing position of the diam-
+eter measurement of the glass rod 106 and the target 
+diameter are then set (S150). The diameter of the glass 
+rod 106 is measured corresponding to the location along 
+the axial direction of the glass rod 106 (S152). The elon-
+gating speed at a plurality of locations along the axial 
+direction of the glass rod 106 is set based on the meas-
+ured diameter and the location corresponding to the 
+measured diameter. The heating conditions including the 
+amount of gas supplied to the heating source 122 and 
+the moving distance of the heating source 122 are set 
+based on the average value of the diameter of the glass 
+rod (S153). The glass rod 106 is heated by the heating 
+source 122 with a preset heating condition and elongated 
+gradually by the tail stock 116, which moves with a preset 
+elongating speed (S154). 
+[0073] The location of the cut 284, which is provided 
+around the connection of the glass rod 106 and the dum-
+my rods 108, are then detected by the diameter meas-
+urement device 124 in order to detect the location of both 
+ends of the glass rod 106. The moving distance of the 
+tail stock 116 is measured by the tail stock driving en-
+coder 273 in order to measure changes in the length of 
+the glass rod 106 along the axial direction. 
+[0074] The diameter of the glass rod 106 is then meas-
+ured at a position approximately 50 mm away from the 
+cut 284 towards the center of the glass rod 106 (S156). 
+The heating position of the heating source 122 is set 
+
+17 
+18 
+
+
+EP 1 364 919 B1 
+
+12 
+
+5 
+
+10 
+
+15 
+
+20 
+
+25 
+
+30 
+
+35 
+
+40 
+
+45 
+
+50 
+
+55 
+
+based on the position of the cut 284 and the changes in 
+in length of the glass rod 106 along the axial direction. 
+The amount of gas supplied to the heating source 122 is 
+set based on the measured diameter. The moving speed 
+of the tail stock 116 is also set based on the measured 
+diameter (S157). The glass rod 106 is end-drawn which 
+heats and elongates the glass rod 106 with a preset heat-
+ing condition and elongating speed. The shape of the 
+end of the glass rod 106 therefore becomes similar to a 
+circular cone shape so that the diameter of end of the 
+glass rod 106 reduced (S158). 
+[0075] The position of the end-drawn part is then de-
+tected by measuring the diameter of the end-drawn part 
+and the part elongated by the end drawing at the corre-
+sponding position. These measurements are undertaken 
+by the diameter measurement device 124. The change 
+in length of the glass rod 106 along the axial direction 
+resulting from end drawing is measured by the tail stock 
+driving encoder 273 (S160). The starting and finishing 
+position of the fire polishing, which polishes the glass rod 
+106 with fire, and the heating power of the fire are then 
+set. This setting is based on the detected position of the 
+end-drawn part and the change in length of the glass rod 
+106 along the axial direction (S161). 
+[0076] The position of starting and finishing the fire pol-
+ishing is set based on the position of the cloud on the 
+glass rod 106. A cloud is generated in a region that is 
+heated strongly during the end drawing process. The 
+glass rod 106 is fire polished by the heating source 122 
+as per the preset fire condition from the set fire polishing 
+starting position to the set fire polish finishing position 
+(S162). After fire polishing, the shape of the glass rod 
+106 is checked by measuring the finished diameter and 
+length of the glass rod 106 (S164). The dummy rod 108 
+is then removed from the glass rod 106 (S166). Finally, 
+the glass rod 106 is surface treated to produce a preform 
+107 (S168). 
+[0077] As shown above, before each elongating 
+(S154), end drawing (S158) and fire polishing (S162) 
+process, the diameter is measured in the corresponding 
+location along the axial direction of the glass rod 106. 
+From this data, the heating condition and elongating 
+speed for the next process can be accurately set. There-
+fore, a glass rod 106 of consistently high quality can be 
+manufactured. 
+[0078] Fig. 27 shows an example which provides a 
+cooling device 330 on the fixed chuck 118 and the mov-
+able chuck 119 of the glass rod second elongating ap-
+paratus 111. The cooling device 330 protects the fixed 
+chuck 118 and movable chuck 119 from the radiant heat 
+generated from the heating source 122. This is achieved 
+by circulating cooling water around the fixed chuck 118 
+and the movable chuck 119. The cooling device 330 uses 
+a gas or liquid as a cooling medium. 
+[0079] The deformation of the fixed chuck 118 and the 
+movable chuck 119 can be controlled by providing the 
+cooling device 330 on the fixed chuck 118 and the mov-
+able chuck 119. This allows control of the degree of tem-
+
+perature rise of the fixed chuck 118 and the movable 
+chuck 119. Therefore, the accuracy of transfer of the driv-
+ing force that rotates the glass rod 106 is maintained, 
+and the heating of the glass rod 106 becomes more even. 
+Therefore, fluctuation of the diameter of the glass rod 
+106 decreases. 
+
+(EXAMPLE) 
+
+[0080] A glass rod 106 of 50 mm diameter and 1000 
+mm length was fire polished by a fixed chuck 118 and 
+movable chuck 119 that has a cooling device 330 and a 
+heating source 122 shown in Fig. 27. Oxygen (O 2 ) of 150 
+SLM and hydrogen (H 2 ) of 300 SLM are supplied to the 
+heating source 122 as combustion gas. The glass rod 
+106 is rotated at a speed of 15 rpm. The glass rod 106 
+is fire polished by moving the heating source 122 relative 
+to the glass rod 106 at a speed of approximately 20 
+mm/min. 
+[0081] Fig. 28 shows the temperature of the fixed 
+chuck 118 and movable chuck 119 of the above example 
+and the comparative example shown below. The vertical 
+axis shows the temperature of the fixed chuck 118 and 
+movable chuck 119, and the horizontal axis shows the 
+processing time of the fire polishing. The temperature of 
+the fixed chuck 118 and movable chuck 119 of the ex-
+ample was maintained at a low temperature of about 
+45°C. The resultant fluctuation of the driving force that 
+rotates the glass rod 106 caused by the deformation of 
+the fixed chuck 118 and movable chuck 119 was small. 
+Therefore the fluctuation of the diameter of the fire pol-
+ished glass rod 106 was only 0.02 %. 
+
+(COMPARATIVE EXAMPLE) 
+
+[0082] The glass rod 106 was fire polished under the 
+same conditions as the above example except for the 
+removal of the cooling device 330 from the fixed chuck 
+118 and movable chuck 119 shown in Fig. 27. As shown 
+in Fig. 28, the temperature of the fixed chuck 118 and 
+movable chuck 119 reached approximately 100°C. The 
+fixed chuck 118 and movable chuck 119 were deformed 
+as a result, so the driving force that rotates the glass rod 
+106 fluctuates. The fluctuation of the diameter of the glass 
+rod 106 after fire polishing increased to 1.0 %, which is 
+larger than the degree of fluctuation of the above exam-
+ple. 
+[0083] Fig. 29 shows a relationship between the dis-
+tance between the heating source 122 and the diameter 
+measurement device 124 and the percentage of the fluc-
+tuation of the diameter of the glass rod 106. The fluctu-
+ation rate (%) of the diameter of the glass rod 106 rep-
+resents the (maximum value of the diameter of the glass 
+rod 106 -minimum value of the diameter of the glass rod 
+106) / (average diameter) x 100. 
+[0084] The diameter measurement device 124 of the 
+glass rod second elongating apparatus 111 shown in Fig. 
+25 is provided on a location which is a constant distance, 
+
+19 
+20 
+
+
+EP 1 364 919 B1 
+
+13 
+
+5 
+
+10 
+
+15 
+
+20 
+
+25 
+
+30 
+
+35 
+
+40 
+
+45 
+
+50 
+
+55 
+
+from 10 mm to 50 mm, away from the heating source 
+122. Therefore, the diameter of the glass rod 106 can be 
+accurately measured allowing accurate control of the di-
+ameter of the glass rod 106. 
+[0085] When elongating the glass rod 106, the position 
+of highest temperature in the glass rod 106 is slightly 
+different to the position that the heating source 122 is 
+heating because the heating source 122 is moving. The 
+elongating speed per unit length becomes largest at the 
+location where the temperature of the glass rod 106 is 
+highest. 
+[0086] It is desirable to control the heating power of 
+the heating source 122 and the moving speed of the mov-
+able chuck 119 based on the diameter at the position of 
+the largest elongating speed and the target value of the 
+diameter. The moving speed of the movable chuck 119 
+is controlled based on the difference between the target 
+value of the diameter and the diameter that is measured 
+at the position that the elongating speed of the glass rod 
+106 is largest. This can be done by providing the diameter 
+measurement device 124 on a position that is a constant 
+distance away from the heating source 122. 
+[0087] The position, which is a constant distance away 
+from the heating source 122, ranges from 10 mm to 50 
+mm away from the position where the heating source 122 
+is provided in the opposite direction to the moving direc-
+tion of the heating source 122. Therefore, the diameter 
+measurement device 124 is provided on a position 10 
+mm to 50 mm away from the heating source 122 in the 
+opposite direction of the moving direction of the heating 
+source 122. 
+[0088] If the heating source 122 used to heat the glass 
+rod 106 is an oxygen hydrogen burner, the flow rate of 
+the hydrogen gas supplied to the heating source 122 is 
+set from 30 liters/ minute to 500 liters/ minute. The ratio 
+of the flow rate of the hydrogen gas to the oxygen gas is 
+set from 1.5 to 3.0. The moving speed of the heating 
+source 122 is controlled within the limits of 2 mm/ minute 
+and 65 mm/ minute. The heat quantity will be insufficient 
+if the flow rate of the hydrogen gas is less than 30 liters/ 
+minute, and the fuel will be wasted if the flow rate of the 
+hydrogen gas is more than 500 liters/ minute. It is difficult 
+to elongate the glass rod 106 if the ratio of the flow rate 
+of the hydrogen gas to the oxygen gas is out of the range 
+shown above because the heat quantity becomes insuf-
+ficient. 
+[0089] If the heating source 122 to heat the glass rod 
+106 is a propane gas burner, the flow rate of the propane 
+gas supplied to the heating source 122 is set from 1 liter/ 
+minute to 15 liters/ minute. The ratio of the flow rate of 
+the propane gas to the oxygen gas is set from 0.1 to 0.3. 
+The moving speed of the heating source 122 is controlled 
+within the limits of 2 mm/ minute and 65 mm/ minute. The 
+heat quantity will be insufficient if the flow rate of the 
+propane gas is less than 1 liter/ minute, and the fuel will 
+be wasted if the flow rate of the propane gas is more than 
+15 liters/ minute. Furthermore, it is difficult to elongate the 
+glass rod 106 if the ratio of the flow rates of the propane 
+
+gas to oxygen gas is out of the range shown above be-
+cause the heat quantity becomes insufficient. The mov-
+ing speed of the heating source 122 would preferably be 
+controlled within the limit of 2 mm/ minute and 65 mm/ 
+minute. It takes too much time elongating the glass rod 
+106 if the moving speed of the heating source 122 is 
+below 2 mm/ minute. Alternatively, it is difficult to elongate 
+the glass rod 106 if the moving speed of the heating 
+source 122 is more than 65 mm/ minute because the 
+speed is too fast to heat the glass rod 106 to its core. 
+
+(EXAMPLE 1) 
+
+[0090] The elongation of the glass rod 106 was begun 
+by setting the distance between the heating source 122 
+and the diameter measurement device 124 as 15 mm. 
+During the elongation of the glass rod 106, the moving 
+speed of the heating source 122 and the tail stock 116 
+were controlled based on the difference between the 
+measured diameter of the glass rod 106 and the target 
+diameter. The burning conditions of the heating source 
+122 were set including the flow rate of the hydrogen gas 
+at 224 liters/ minute, the ratio of the flow rate of the hy-
+drogen to oxygen as 2.5, and the moving speed of the 
+heating source 122 as 11 mm/ minute. The fluctuation 
+rate of the diameter of the glass rod 106 after the elon-
+gating process was 0.9 %. 
+
+(EXAMPLE 2) 
+
+[0091] The distance between the heating source 122 
+and the diameter measurement device 124 was set to 
+40 mm. The flow rate of the hydrogen gas was set to 199 
+liters/ minute. The ratio of the flow rate of the hydrogen 
+to oxygen was set to 2.5. The moving speed of the heating 
+source 122 was set to 13 mm/ minute. The fluctuation 
+rate of the diameter of the glass rod 106 after the elon-
+gating process was 0.6 %. 
+
+(COMPARATIVE EXAMPLE 1) 
+
+[0092] The distance between the heating source 122 
+and the diameter measurement device 124 was set to 5 
+mm. The flow rate of the hydrogen gas was set to 209 
+liters/ minute. The ratio of the flow rate of the hydrogen 
+to oxygen was set to 2.5. The moving speed of the heating 
+source 122 was set to 12 mm/ minute. Because the dis-
+tance between the heating source 122 and the diameter 
+measurement device 124 was too close, the fluctuation 
+rate of the diameter of the glass rod 106 after the elon-
+gating process was 3.7 %. This is larger than the fluctu-
+ation rate of example 1 and example 2 above. 
+
+(COMPARATIVE EXAMPLE 2) 
+
+[0093] The distance between the heating source 122 
+and the diameter measurement device 124 was set to 
+60 mm. 
+
+21 
+22 
+
+
+EP 1 364 919 B1 
+
+14 
+
+5 
+
+10 
+
+15 
+
+20 
+
+25 
+
+30 
+
+35 
+
+40 
+
+45 
+
+50 
+
+55 
+
+[0094] The flow rate of the hydrogen gas was set to 
+237 liters/ minute. The ratio of the flow rate of the hydro-
+gen to oxygen was set to 2.5. The moving speed of the 
+heating source 122 was set to 10 mm/ minute. Because 
+the distance between the heating source 122 and the 
+diameter measurement device 124 was too far, the fluc-
+tuation rate of the diameter of the glass rod 106 after the 
+elongating process was 2.5 %. This fluctuation rate is 
+larger than the fluctuation rate of example 1 and example 
+2 above. 
+
+(COMPARATIVE EXAMPLE 3) 
+
+[0095] The distance between the heating source 122 
+and the diameter measurement device 124 was set to 
+15 mm. The flow rate of the hydrogen gas was set to 215 
+liters/ minute. The ratio of the flow rate of the hydrogen 
+to oxygen was set to 1.0. The moving speed of the heating 
+source 122 was set to 12 mm/ minute. Because the ratio 
+of the flow rate of the hydrogen to oxygen was 1.0, which 
+was smaller than the recommended 1.5 minimum, the 
+glass rod 106 could not be elongated. 
+
+(COMPARATIVE EXAMPLE 4) 
+
+[0096] The distance between the heating source 122 
+and the diameter measurement device 124 was set to 
+15 mm. The flow rate of the hydrogen gas was set to 195 
+liters/ minute. The ratio of the flow rate of the hydrogen 
+to oxygen was set to 4.0. The moving speed of the heating 
+source 122 was set to 13 mm/ minute. Because the ratio 
+of the flow rate of the hydrogen to oxygen was 4.0, which 
+was larger than the recommended 3.0 maximum, the 
+glass rod 106 could not be elongated. 
+
+(COMPARATIVE EXAMPLE 5) 
+
+[0097] The distance between the heating source 122 
+and the diameter measurement device 124 was set to 
+15 mm. The flow rate of the hydrogen gas was set to 204 
+liters/ minute. The ratio of the flow rate of the hydrogen 
+to oxygen was set to 2.5. The moving speed of the heating 
+source 122 was set to 70 mm/ minute. Because the mov-
+ing speed of the heating source 122 was 70 mm/ minute, 
+which was larger than the 65 mm/ minute recommended 
+maximum speed, the glass rod 106 could not be elon-
+gated. 
+[0098] Fig. 30 shows a glass rod second elongating 
+apparatus 111 which has a configuration providing a ten-
+sile stress measurement device 282 on the glass rod 
+second elongating apparatus 111 shown in Fig. 25. The 
+glass rod second elongating apparatus 111 has a tensile 
+stress measurement device 282, which measures the 
+tensile stress applied to the glass rod 106, on the movable 
+chuck 119. 
+[0099] The glass rod second elongating apparatus 111 
+can detect the position of the heating source 122 on the 
+moving stand 120 using the moving stand encoder 272. 
+
+The tensile stress measurement device 282 is connected 
+to a control unit 280. The control unit 280 controls the 
+moving speed of the tail stock 116 based on the tensile 
+stress of the glass rod 106, provided from the tensile 
+stress measurement device 282. This is undertaken until 
+the moving distance of the heating source 122 reaches 
+a prescribed distance. 
+[0100] Fig. 31 shows a detailed flow chart of the elon-
+gating (S154) shown in the Fig. 26. First, the glass rod 
+106 is pre-heated until the prescribed region of the glass 
+rod 106 is melted and softened by the heating source 
+122. This will allow elongation of the glass rod 106 (s132). 
+Next, the heating source 122, which is provided on the 
+moving stand 120, is moved via the moving stand 120. 
+The moving speed of the heating source 122 would ide-
+ally be as slow as possible at the early stage of the elon-
+gation so that the fluctuation of the diameter of the glass 
+rod 106 can be reduced. The movement of the heating 
+source 122 would also be a constant speed. The amount 
+of gas supplied to the heating source 122 can be con-
+stant. 
+[0101] Next, the moving speed of the tail stock 116 is 
+controlled so that the tensile stress of the glass rod 106 
+measured by the tensile stress measurement device 282 
+lies within substantially 80 % to 110 % of the average 
+value of the tensile stress at the steady state (S136). The 
+steady state will be explained below. The moving speed 
+of the tail stock 116, which was originally set based on 
+the diameter at a plurality of locations of the glass rod 
+106 along the axial direction, is re-set based on the tensile 
+stress of the glass rod 106. The glass rod 106 is elongated 
+by the tensile stress load shown above until the heating 
+source moves substantially 50 mm to 150 mm (S138). 
+[0102] If the control unit 280 detects that the heating 
+source 122 has moved substantially from 50 mm to 150 
+mm (S138), the moving speed of the tail stock 116 chang-
+es to the speed at the steady state, which will be ex-
+plained below. This is done by controlling the tail stock 
+driving encoder 273 (S140). The diameter measurement 
+device 124 measures the diameter of the glass rod 106 
+during the elongation of the glass rod 106 (S142). The 
+elongation of the glass rod 106 is finished when the glass 
+rod 106 is elongated to the desired diameter and length 
+(S144). 
+[0103] The speed at the steady state is the speed 
+where the material balance before the elongation and 
+after the elongation is balanced. Here, the original diam-
+eter of the glass rod 106 before the elongation is repre-
+sented as D 1 , the target diameter to be obtained as D 2 , 
+the moving speed of the heating source 122 as V 1 , and 
+the speed of the elongation of the glass rod 106 as V 2 . 
+[0104] For example, assume that the elongation takes 
+place only at the region heated at that time, so the region 
+heated and elongated is quite small. The V 2 is equal to 
+the speed at the steady state when the following equation 
+is valid. 
+
+23 
+24 
+
+
+EP 1 364 919 B1 
+
+15 
+
+5 
+
+10 
+
+15 
+
+20 
+
+25 
+
+30 
+
+35 
+
+40 
+
+45 
+
+50 
+
+55 
+
+[0105] Therefore, the V 2 can be set by adjusting the 
+V 1 and the moving speed of the tail stock 116 based on 
+the D 1 and the D 2 . The tensile stress of the glass rod 106 
+at the steady state is the tensile stress when the glass 
+rod 106 is elongated with the tail stock 116 moving speed 
+at the steady state. 
+[0106] Fig. 32 shows a process where the diameter 
+fluctuates during the elongation of the glass rod 106. The 
+glass rod 106 softens when heated. As shown in Fig. 32 
+(1), it may happen that the glass rod 106 cannot be sof-
+tened enough by the pre-heating only to be elongated. 
+The tensile stress generated on the glass rod 106 in-
+creases from twice to triple the normal tensile stress when 
+the heating source 122 and the tail stock 116 start to 
+move at the prescribed speed. Then, the region which is 
+pre-heated is elongated rapidly, and the diameter of the 
+pre-heated region is reduced as shown in shaded portion 
+of Fig. 32 (2). The elongation of the glass rod 106 occurs 
+almost entirely in the pre-heated region, and the region 
+which is heated newly by the heating source 122, is less 
+elongated. Therefore, necking of the diameter has oc-
+curred on the glass rod 106 as shown in Fig. 32 (3). 
+[0107] The fluctuation of the diameter of the glass rod 
+106 tends to occur at the region from the starting place 
+of the elongation of the glass rod 106to the place 50 mm 
+away from the starting place. If the elongation is pro-
+gressed further than this place, the speed of providing 
+the heat to the glass rod 106, the speed that the glass 
+rod 106 softens, and the elongation speed of the glass 
+rod 106 are balanced to be a steady state. Therefore, 
+the fluctuation of the diameter of the glass rod 106 will 
+not occur as shown in Fig. 32 (4). 
+[0108] The glass rod 106 is elongated by controlling 
+the moving speed of the tail stock 116. The aim is to keep 
+the tensile stress of the glass rod 106 at the early stage 
+of the elongation at substantially 110 % or less of the 
+average value of the tensile tension at the steady state. 
+The fluctuation of the diameter at the early stage of the 
+elongation of the glass rod 106 can thus be decreased. 
+This is because the heat supply to the glass rod 106, the 
+soften speed of the glass rod 106, and the elongation 
+speed of the glass rod 106 can be balanced. 
+[0109] If the tensile stress of the glass rod 106 at the 
+early stage is lower than 80 % of the steady state, the 
+distance required for the diameter of the glass rod 106 
+to reach the target value becomes long. Therefore, the 
+region of the elongated glass rod 106 that can be used 
+as product becomes short. This decreases the yield fac-
+tor of the process and increases the time taken for the 
+glass rod 106 to reach the target diameter. Therefore, it 
+is desirable to control the tensile stress of the glass rod 
+106 at the early stage of the elongation in the range of 
+substantially from 80 % to 110 % of the average value 
+of the tensile stress at the steady state. 
+
+[0110] Fig. 33 shows a glass rod 106 that is elongated 
+according to the elongating (S154) shown in Fig. 31. First, 
+as shown in Fig. 33 (1) and (2), the heating source 122 
+and the tail stock 116 start to move after the pre-heating 
+of the glass rod 106 to start the elongation of the glass 
+rod 106. Because the tensile stress of the glass rod 106 
+is controlled to be 110 % or less of the tensile stress at 
+the steady state, excessive tensile stress is not applied 
+to the glass rod 106. No necking therefore occurs on the 
+glass rod 106 due to rapid elongation. If the heating 
+source 122 moves the prescribed distance under this bal-
+anced condition, the heat supplied to the glass rod 106, 
+the soften speed of the glass rod 106, and the elongation 
+speed of the glass rod 106 are balanced. Thus the fluc-
+tuation of the diameter of the glass rod 106 can be pre-
+vented. 
+[0111] Fluctuation of the diameter may occur if the 
+moving speed of the tail stock 116 continues to be con-
+trolled based on the tensile stress. The tensile stress of 
+the glass rod 106 will change with small changes in the 
+heat quantity provided by the heating source 122. The 
+moving speed of the tail stock 116 then fluctuates to main-
+tain the tensile stress of the glass rod 106 at a constant, 
+resulting in fluctuation of the diameter of the elongated 
+glass rod 106. Therefore, fluctuations in the diameter of 
+the glass rod 106 caused by subtle fluctuations of the 
+tensile stress can be prevented by changing the moving 
+speed of the tail stock 116 to the speed at the steady 
+state after the heating source 122 moves a prescribed 
+distance on commencement of elongation. 
+[0112] The change in moving speed of the tail stock 
+116 to the speed of the steady state is made when the 
+heating source 122 has moved substantially from 50 mm 
+to 150 mm from the point of the start of the elongation. 
+Until the heating source 122 moves 50 mm from the point 
+of commencement of elongation, the heat supplied to the 
+glass rod 106, the soften speed of the glass rod 106, and 
+the elongation speed of the glass rod 106 are not bal-
+anced. The result is, necking of the glass rod 106 will 
+occur due to the fluctuation of the diameter if the elon-
+gation speed is changed to the speed of the steady state 
+before the heating source 122 has moved 50 mm. The 
+tensile stress of the glass rod 106 should thus be con-
+trolled to be substantially 110 % or less of the steady 
+state until the heating source 122 moves substantially 50 
+mm. It is desirable to change the moving speed of the 
+tail stock 116 to the speed of the steady state before the 
+heating source 122 moves more than substantially 150 
+mm. 
+
+(EXAMPLE) 
+
+[0113] The glass rod 106 was elongated by the glass 
+rod second elongating apparatus 111. The glass rod 106 
+had an outside diameter of 65 mm and length of 980 mm. 
+The dummy rods 108, which had outside diameters of 
+60 mm and lengths of 250 mm, were welded on both 
+ends of the glass rod 106. The rotation speed around the 
+
+25 
+26 
+
+
+EP 1 364 919 B1 
+
+16 
+
+5 
+
+10 
+
+15 
+
+20 
+
+25 
+
+30 
+
+35 
+
+40 
+
+45 
+
+50 
+
+55 
+
+axis during the welding of the glass rod 106 and the dum-
+my rod 108 was 30 rpm. An oxygen hydrogen burner was 
+used for the heating source 122. The oxygen gas and 
+hydrogen gas provided to the heating source 122 was 
+96 liters/ minute and 240 liters/ minute respectively. 
+[0114] After pre-heating of the glass rod 106, the elon-
+gation of the glass rod was started by moving the heating 
+source 122 at a moving speed of 12.4 mm/min. When 
+elongating the glass rod 106 to reduce the diameter of 
+the glass rod 106 from 65 mm to 50 mm, the tensile stress 
+at the steady state was about 100 kgf/cm 2 , and the mov-
+ing speed of the tail stock 116 at the steady state was 
+8.6 mm/min. The moving speed of the tail stock 116 was 
+controlled so that the tensile stress did not exceed 110 
+kgf/cm 2 until the heating source 122 had moved 100 mm 
+from the starting point of the elongation. After the heating 
+source 122 moved 100 mm, the glass rod 106 was elon-
+gated by controlling the moving speed of the tail stock 
+116 to 8.6 mm/min, which is the speed at the steady state. 
+[0115] Fig. 34 shows the tensile stress of the glass rod 
+106 at the early stage of the elongation of the example. 
+The vertical axis shows the tensile stress generated in 
+the glass rod 106 and the horizontal axis shows the mov-
+ing distance of the heating source 122 after the start of 
+elongation. The tensile stress of the glass rod 106 was 
+110 kgf/cm 2 or less at the early stage of the elongation 
+while the heating source 122 moved forward 100 mm. 
+[0116] Fig. 36 shows the fluctuation of the diameter of 
+the glass rod 106 after the elongation of the glass rod 
+106. The vertical axis shows the distance along the ra-
+diant direction of the glass rod 106, and the horizontal 
+axis shows the distance along the longitudinal direction 
+of the glass rod 106. The glass rod 106 elongated by the 
+method according to the example had few diameter fluc-
+tuations such as necking, and the diameter of the glass 
+rod 106 could be reduced to the target diameter at about 
+100 mm of the longitudinal distance after the elongation 
+started. The accuracy of the diameter of the glass rod 
+106 at the region which was elongated at the speed of 
+the steady state by the method according to the example 
+was about the same accuracy as the diameter of the glass 
+rod 106 which was elongated by the conventional elon-
+gating method. 
+
+(COMPARATIVE EXAMPLE) 
+
+[0117] A glass rod 106 with a diameter of 65 mm was 
+elongated to a diameter of 50 mm. The conditions of the 
+moving speed and the amount of gas to the heating 
+source 122 were the same as the above example. The 
+glass rod 106 was elongated by controlling the moving 
+speed of the tail stock 116 to 8.6 mm/min from the start 
+of the elongation. This is the speed at the steady state. 
+[0118] Fig. 35 shows a fluctuation of the tensile stress 
+of the glass rod 106 at the early stage of the elongation 
+of the comparative example. The vertical axis shows the 
+tensile stress generated in the glass rod 106, and the 
+horizontal axis shows the moving distance of the heating 
+
+source 122 after commencement of elongation. The ten-
+sile stress of the glass rod 106 increased to 300 kgf/cm 2 
+at the early stage of the elongating, which is 3 times great-
+er than the tensile stress of the steady state. This oc-
+curred whilst the heating source 122 was moving the in-
+itial 100 mm. 
+[0119] As shown in Fig. 36, the glass rod 106 after the 
+elongation of the comparative example had large necking 
+at about 100 mm from the start of the elongation. Because 
+the undulation continues until about 300 mm from the 
+start of the elongation, this region cannot be used as 
+product, and the yield rates decreased. 
+[0120] Fig. 37 shows a detailed flow chart of the end 
+drawing (S158) shown in Fig. 26. First, the position, of 
+the glass rod 106 which has been end-drawn is detected 
+(S169). Next, the prescribed region of the glass rod 106 
+is pre-heated by the flame of the heating source 122 
+(S170) until the prescribed region nearly softens. Then, 
+the glass rod 106 is elongated by heating the prescribed 
+region of the glass rod 106 with the heating source 122 
+and moving the tail stock 116 so that the diameter of the 
+prescribed region is reduced (S172). 
+[0121] The heating source 122 is moved from the cent-
+er of the prescribed region to a region towards the middle 
+side of the glass rod 106. Then, the heating source 122 
+heats the glass rod 106 secondly (S174) with a flame. 
+The thickness of this flame is smaller than the thickness 
+of the flame of the pre-heating (S170). The prescribed 
+region of the glass rod 106 is further elongated by moving 
+the tail stock 116 so that the diameter of the prescribed 
+region is reduced (S176). Then, the prescribed region of 
+the glass rod 106 is fused by the flame. Again the thick-
+ness of this flame is smaller than the thickness of the 
+flame of the pre-heating (S170). 
+[0122] Fig. 38 shows a cut 284 that is provided as a 
+mark on the connection between the glass rod 106 and 
+the dummy rod 108. This allows the detection of the po-
+sition of the end drawing at the end drawing position de-
+tecting (S169) shown in Fig. 37. A mark is provided on 
+the connection between the glass rod 106 and the dummy 
+rod 108. The device that recognizes the mark is installed 
+on the glass rod second elongating apparatus 111 to de-
+tect the location of the mark. 
+[0123] The position of the start of the end drawing proc-
+ess is set based on the detected mark location. The elon-
+gation process of the glass rod 106 finishes at the set 
+end drawing starting position, and the end drawing proc-
+ess of the glass rod 106 starts at the same time. The 
+method shown in Fig. 38 is used when the device that 
+recognizes the mark is a device that measures the diam-
+eter. An example of such a device would be a diameter 
+measurement device 124. 
+[0124] Fig. 39 shows a fluorescent paint 287 that is 
+applied on the connection between the glass rod 106 and 
+the dummy rod 108 as another example of a mark. The 
+method shown in Fig. 39 is used when the device that 
+recognizes the mark is an image processing apparatus. 
+[0125] Fig. 40 shows the glass rod second elongating 
+
+27 
+28 
+
+
+EP 1 364 919 B1 
+
+17 
+
+5 
+
+10 
+
+15 
+
+20 
+
+25 
+
+30 
+
+35 
+
+40 
+
+45 
+
+50 
+
+55 
+
+apparatus 111 that detects the cut 284 at end drawing 
+position detecting (S169). First, the dummy rod 108 is 
+welded on both ends of the glass rod 106. The glass rod 
+106, which has the dummy rod 108 on both sides, is fixed 
+on the fixed chuck 118 and movable chuck 119, not 
+shown in the figure. The cut 284 having depth of 3 mm 
+is provided all around the welded position. The welded 
+position results from the connection between the glass 
+rod 106 and the dummy rod 108. 
+[0126] During the elongation of the glass rod 106, the 
+diameter measurement device 124 measures the diam-
+eter of the glass rod 106. When the diameter measure-
+ment device 124 detects the position of the cut 284 by 
+detecting a change in diameter of the glass rod 106, the 
+glass rod second elongating apparatus 111 starts the 
+end drawing. The position of commencement of the end 
+drawing is slightly towards the middle direction of the 
+glass rod 106 from the connection between the glass rod 
+106 and the dummy rod 108. Also, the position of com-
+mencement of the end drawing does not have a bubble 
+or bubbles with a diameter of 0.3 mm or above. Then, 
+the process is shifted from elongation to end drawing. 
+[0127] When a mark is the marking 287, fluorescent 
+paint is applied on the connection between the glass rod 
+106 and the dummy rod 108. The camera of the image 
+processing apparatus, which can detect the fluorescent 
+paint, is installed on the position of the diameter meas-
+urement device 124, which is provided on the moving 
+stand 120. The camera processes the picture of the glass 
+rod 106 during the elongation of the glass rod 106. If the 
+camera detects the fluorescent paint, the glass rod sec-
+ond elongating apparatus 111 starts the end drawing. 
+The position of commencement of the end drawing is 
+slightly towards the middle direction of the glass rod 106 
+from the connection between the glass rod 106 and the 
+dummy rod 108. Also, the position of starting the end 
+drawing does not have a bubble or bubbles with a diam-
+eter of 0.3 mm or above. Then, the process is shifted 
+from elongation to end drawing. 
+[0128] By providing a mark on the connection between 
+the glass rod 106 and the dummy rod 108, the location 
+of the connection can be accurately measured. There-
+fore, a preform 107 of high quality and little variation in 
+diameter and length can be manufactured. 
+[0129] Fig. 41 shows the movements of the heating 
+source 122 and the tail stock 116 after detecting the po-
+sition of the end drawing (S169) during the end drawing 
+process of the glass rod 106 shown in flow chart of Fig. 
+37. At the pre-heating for end drawing (S170), the flame 
+of the heating source 122 heats the glass rod 106 at the 
+prescribed region until the glass rod 106 nearly softens. 
+At elongating for end drawing (S172), the heating source 
+122 heats the prescribed region of the glass rod 106, and 
+the tail stock 116 elongates the prescribed region of the 
+glass rod 106. This therefore reduces the diameter of the 
+prescribed region. 
+[0130] At second heating (S174), the tail stock 116 
+stops, and the heating source 122 moves in the direction 
+
+towards the middle side of the region of the glass rod 106 
+(to the left in the figure), from the center of the prescribed 
+region. Then, the heating source 122 heats the glass rod 
+106 by flame, the thickness of which is smaller than the 
+thickness of the flame of the pre-heating (S170). At the 
+second elongating for end drawing (S176), the heating 
+source 122 moves further to the left side in the figure and 
+heats the glass rod 106. The tail stock 116 also moves 
+to elongate the prescribed region of the glass rod 106. 
+At fusing for end drawing (S178), the heating source 122 
+heats the glass rod 106 by flame, the thickness of which 
+is smaller than the thickness of the flame of the pre-heat-
+ing (S170). The position of the heating source 122 is at 
+the same position as the second elongating for end draw-
+ing (S176). The tail stock 116 moves to fuse the glass 
+rod 106. 
+[0131] Fig. 42 shows an example of the settings of an-
+other method of the end drawing process at the end draw-
+ing (S158) shown in Fig. 37. This method controls the 
+gas amount, the moving distance of the heating source 
+122, and the moving speed of the tail stock 116 based 
+on the progress time of the end drawing process of the 
+glass rod 106. 
+[0132] The gas amount, the moving distance of the 
+heating source 122, and the moving speed of the tail 
+stock 116 are set once. This setting is based on the lo-
+cation of the cut 284, the changes of the length and the 
+diameter of the glass rod 106 along the axial direction at 
+the second heating condition and elongating speed set-
+ting (S157). The glass rod second elongating apparatus 
+111 then resets the gas amount, the moving distance of 
+the heating source 122, and the moving speed of the tail 
+stock 116 based on the progress time of the end drawing 
+process of the glass rod 106 at the end drawing (S158). 
+[0133] For example, at the pre-heating for the end 
+drawing (S170), which is undertaken for 300 seconds, 
+the moving distance of the heating source 122 is set to 
+0 mm. The moving speed of the tail stock 116 is set to 0 
+mm/ minute. The amount of hydrogen (H 2 ) gas for the 
+heating source 122 is set to 250 cc/ minute. The amount 
+oxygen (O 2 ) gas (inside) that is output from the inside 
+nozzle of the heating source 122 is set to 30 cc/ minute. 
+The amount of oxygen (O 2 ) gas (outside) that is output 
+from the outside nozzle of the heating source 122 is set 
+to 100 cc/ minute. The glass rod 106 is heated by the 
+heating source 122, which is set according to the above 
+conditions. 
+[0134] At the elongating for end drawing (S172), which 
+is undertaken for 60 seconds, the amount of hydrogen 
+(H 2 ) gas for the heating source 122 is set to 250 cc/ 
+minute. The amount of the oxygen (O 2 ) gas (inside) that 
+is output from the inside nozzle of the heating source 122 
+is set to 30 cc/ minute. The amount of oxygen (O 2 ) gas 
+(outside) that is output from the outside nozzle of the 
+heating source 122 is set to 100 cc/ minute. The glass 
+rod 106 is heated by the heating source 122, which is set 
+according to the above conditions. With the moving dis-
+tance of the heating source 122 at 0 mm, the tail stock 
+
+29 
+30 
+
+
+EP 1 364 919 B1 
+
+18 
+
+5 
+
+10 
+
+15 
+
+20 
+
+25 
+
+30 
+
+35 
+
+40 
+
+45 
+
+50 
+
+55 
+
+116 is moved at the speed of 10 mm/ minute to elongate 
+the glass rod 106. 
+[0135] At the second heating (S174), which is under-
+taken for 20 seconds, the moving speed of the tail stock 
+116 is set to 0 mm/ minute. The moving distance of the 
+heating source 122 is set to 15 mm. The amount of hy-
+drogen (H 2 ) gas for the heating source 122 is set to 130 
+cc/ minute. The amount of oxygen (O 2 ) gas (inside) that 
+is output from the inside nozzle of the heating source 122 
+is set to 15 cc/ minute. The amount oxygen (O 2 ) gas (out-
+side) that is output from the outside nozzle of the heating 
+source 122 is set to 50 cc/ minute. The glass rod 106 is 
+heated by the heating source 122, which is set according 
+to the above conditions. 
+[0136] At the second elongating for end drawing 
+(S176), which is undertaken for 180 seconds, the moving 
+distance of the heating source 122 is increased from 15 
+mm to 25mm. The amount of hydrogen (H 2 ) gas for the 
+heating source 122 is set to 130 cc/ minute. The amount 
+oxygen (O 2 ) gas (inside) that is output from the inside 
+nozzle of the heating source 122 is set to 15 cc/ minute. 
+The amount of oxygen (O 2 ) gas (outside) that is output 
+from the outside nozzle of the heating source 122 is set 
+to 50 cc/ minute. The glass rod 106 is heated by the heat-
+ing source 122, which is set according to the above con-
+ditions. The tail stock 116 is moved at a speed of 10 mm/ 
+minute to elongate the glass rod 106. 
+[0137] Finally, at the fusing for end drawing (S178), 
+which is undertaken for 30 seconds, the heating source 
+122 does not move from the position at the second elon-
+gating for end drawing (S176), so the moving distance 
+remains at 25 mm. The amount of hydrogen (H 2 ) gas for 
+the heating source 122 is set to 130 cc/ minute. The 
+amount of oxygen (O 2 ) gas (inside) that is output from 
+the inside nozzle of the heating source 122 is set to 30 
+cc/ minute. The amount oxygen (O 2 ) gas (outside) that is 
+output from the outside nozzle of the heating source 122 
+is set to 20 cc/ minute. The glass rod 106 is heated by 
+the heating source 122, which is set according to the 
+above conditions. The tail stock 116 is moved at a speed 
+of 120 mm/ minute to fuse the glass rod 106. 
+[0138] The glass rod 106 with a diameter of 60 mm 
+was end-drawn by the glass rod second elongating ap-
+paratus 111 according to the setting condition shown in 
+Fig. 42. The shape of the preform at the region that was 
+end-drawn, was a well formed circular cone shape. The 
+length and the diameter of the region were 61 mm and 
+60 mm respectively. The time that was required for the 
+end drawing process was 12 minutes. 
+[0139] As shown above, because each glass rod 106 
+is heated and elongated under the same conditions, a 
+preform 107 of high quality and little variation in diameter 
+can be manufactured. 
+[0140] Fig. 43 shows another example of the settings 
+of other method of the end drawing process at the end 
+drawing (S158) shown in Fig. 37. This method controls 
+the gas amount, the moving speed of the heating source 
+122, and the moving speed of the tail stock 116 based 
+
+on the moving distance of the tail stock 116. 
+[0141] The glass rod second elongating apparatus 111 
+detects the moving distance of the tail stock 116. The 
+moving distance of the heating source 122, and the mov-
+ing speed of the tail stock 116 are set once based on the 
+location of the cut 284, the change of the length of the 
+glass rod 106 along the axial direction, and the diameter 
+of the glass rod 106 at the second heating condition and 
+elongating speed setting (S157). The glass rod second 
+elongating apparatus 111 resets the gas amount, the 
+moving distance of the heating source 122, and the mov-
+ing speed of the tail stock 116 based on the detected 
+moving distance of the tail stock 116 at the end drawing 
+(S158). 
+[0142] There is a case where the moving distance of 
+the tail stock cannot be measured because the tail stock 
+does not move. This might occur from lack of power of 
+the tail stock driving motor 275 when the glass rod 106 
+is not heated sufficiently during the end drawing process. 
+When the output of the tail stock driving motor 275 is not 
+large enough, the AC servomotor, which can detect the 
+torque of the output shaft, can be used for driving the tail 
+stock 116. A threshold value can be set for the torque 
+generated in the tail stock driving motor 275. When the 
+torque exceeds the threshold value, the glass rod second 
+elongating apparatus 111 can judge that the heating is 
+insufficient. Then, the glass rod second elongating ap-
+paratus 111 can stop the driving of the tail stock 116 for 
+a period of time and increase the gas amount supplied 
+to the heating source 122. 
+[0143] The settings shown in Fig. 43 are the same as 
+the settings shown in Fig. 42 except that the "Progress 
+Time" setting changes to the "Tail Stock 116 Moving Dis-
+tance" setting. The end drawing method shown in Fig. 
+43 also has the processes of pre-heating for end drawing 
+(S170), elongating for end drawing (S172), the second 
+heating (S174), second elongating for end drawing 
+(S176), and fusing for end drawing (S178). The gas 
+amount and moving distance of the heating source 122, 
+and the moving speed of the tail stock 116 are set based 
+on the moving distance of the tail stock 116 at each stage 
+of the process. 
+[0144] For example, at the pre-heating for the end 
+drawing (S170), because the moving speed of the tail 
+stock 116 is set to 0 mm/ minute, the time after the com-
+mencement of the pre-heating for end drawing is meas-
+ured for 300 seconds. That is, for 300 seconds the moving 
+distance of the heating source 122 is set to 0 mm. The 
+amount hydrogen (H 2 ) gas for the heating source 122 is 
+set to 250 cc/ minute. The amount of oxygen (O 2 ) gas 
+(inside) that is output from the inside nozzle of the heating 
+source 122 is set to 30 cc/ minute. The amount of oxygen 
+(O 2 ) gas (outside) that is output from the outside nozzle 
+of the heating source 122 is set to 100 cc/ minute. The 
+glass rod 106 is heated by the heating source 122, which 
+is set according to the above conditions. When the time 
+after the commencement of the pre-heating for end draw-
+ing passes 300 seconds, the process is shifted to next 
+
+31 
+32 
+
+
+EP 1 364 919 B1 
+
+19 
+
+5 
+
+10 
+
+15 
+
+20 
+
+25 
+
+30 
+
+35 
+
+40 
+
+45 
+
+50 
+
+55 
+
+step. 
+[0145] At the elongating for end drawing (S172), whilst 
+the moving distance is changed from 0 mm to 30 mm, 
+the amount hydrogen (H 2 ) gas for the heating source 122 
+is set to 250 cc/ minute. The amount of oxygen (O 2 ) gas 
+(inside) that is output from the inside nozzle of the heating 
+source 122 is set to 30 cc/ minute. The amount oxygen 
+(O 2 ) gas (outside) that is output from the outside nozzle 
+of the heating source 122 is set to 100 cc/ minute. The 
+glass rod 106 is heated by the heating source 122, which 
+is set according to the above conditions. With the moving 
+distance of the heating source 122 as 0 mm, the tail stock 
+116 is moved at a speed of 10 mm/ minute to elongate 
+the glass rod 106. 
+[0146] At the second heating (S174), the moving 
+speed of the tail stock 116 is set to 0 mm/ minute so that 
+the moving distance of the tail stock 116 remains at 30 
+mm. The moving distance of the heating source 122 is 
+set to 15 mm. The amount of hydrogen (H 2 ) gas for the 
+heating source 122 is set to 130 cc/ minute. The amount 
+of oxygen (O 2 ) gas (inside) that is output from the inside 
+nozzle of the heating source 122 is set to 15 cc/ minute. 
+The amount of oxygen (O 2 ) gas (outside) that is output 
+from the outside nozzle of the heating source 122 is set 
+to 50 cc/ minute. The glass rod 106 is heated by the heat-
+ing source 122, which is set according to the above con-
+ditions. After the heating source 122 has moved 15 mm, 
+the process is shifted to next step Then, at the second 
+elongating for end drawing (S176), whilst the moving dis-
+tance of the tail stock 116 is increased from 30 mm to 55 
+mm, the moving distance of the heating source 122 is 
+increased from 15 mm to 25 mm. The amount hydrogen 
+(H 2 ) gas for the heating source 122 is set to 130 cc/ 
+minute. The amount of oxygen (O 2 ) gas (inside) that is 
+output from the inside nozzle of the heating source 122 
+is set to 15 cc/ minute. The amount of oxygen (O 2 ) gas 
+(outside) that is output from the outside nozzle of the 
+heating source 122 is set to 50 cc/ minute. The glass rod 
+106 is heated by the heating source 122, which is set 
+according to the above conditions. The tail stock 116 is 
+moved at a speed of 10 mm/ minute to elongate the glass 
+rod 106. 
+[0147] Finally, at the fusing for end drawing (S178), 
+whilst the moving distance of the tail stock 116 increased 
+from 55 mm to 100 mm, the heating source 122 did not 
+move from the position at the second elongating for end 
+drawing (S176). The moving distance therefore remains 
+at 25mm. The amount hydrogen (H 2 ) gas for the heating 
+source 122 is set to 130 cc/ minute. The amount of oxygen 
+(O 2 ) gas (inside) that is output from the inside nozzle of 
+the heating source 122 is set to 30 cc/ minute. The amount 
+of oxygen (O 2 ) gas (outside) that is output from the out-
+side nozzle of the heating source 122 is set to 20 cc/ 
+minute. The glass rod 106 is heated by the heating source 
+122, which is set according to the above conditions. The 
+tail stock 116 is moved at a speed of 120 mm/ minute to 
+fuse the glass rod 106. 
+
+(EXAMPLE 1) 
+
+[0148] A glass rod 106 having a diameter of 60 mm 
+was end-drawn according to the setting values shown in 
+Fig. 43. An AC servomotor of 200 W was used for the 
+tail stock driving motor 275. A rotary encoder that can 
+detect the amount of rotation of the tail stock driving motor 
+275 was used as the tail stock driving encoder 273. The 
+rotation speed of the tail stock driving motor 275 was 
+controlled by the output of the tail stock driving encoder 
+273. The moving distance of the tail stock 116 was ob-
+tained by measuring the output of the tail stock driving 
+encoder 273. The time required for the end drawing was 
+15 minutes. The shape of the processed glass rod 106 
+at the region which was end-drawn was a well formed 
+circular cone shape. The length and the diameter of the 
+region were 61 mm and 60 mm respectively. 
+
+(EXAMPLE 2) 
+
+[0149] A glass rod 106 having a diameter of 60 mm 
+was end-drawn according to the setting values shown in 
+Fig. 43. A linear encoder that can detect the moving dis-
+tance of the tail stock 116 was provided on the tail stock 
+116. The gas amount and the moving distance of the 
+heating source 122, and the moving speed of the tail 
+stock 116 were controlled based on the moving distance 
+of the tail stock 116 detected by the linear encoder. The 
+shape of the processed glass rod 106 at the region that 
+was end-drawn was a well formed circular cone. The 
+length and the diameter of the region were 65 mm and 
+60 mm respectively. 
+[0150] As shown above, because each glass rod 106 
+is heated and elongated under the same conditions, a 
+preform 107 of high quality and little variation in diameter 
+can be manufactured. 
+[0151] Fig. 44 shows a configuration of the heating 
+source 122 of the glass rod second elongating apparatus 
+111. The bottom end of the outside pipe 285 of the heating 
+source 122 is closed. The outside pipe 285 is connected 
+to a combustible gas channel 312. This is a channel for 
+hydrogen gas which is an example of a suitable combus-
+tible gas. The heating source 122 has a combustible gas 
+flow rate control unit 314 placed in the combustible gas 
+channel 312. All of the inside pipes 286 are connected 
+to an oxygen gas channel 308 through the branching tool 
+316. The oxygen channel 308 is a channel for oxygen 
+gas. An inert-gas channel 296 is connected to the oxygen 
+gas channel 308 by the connecting element 302. An ox-
+ygen gas flow rate control unit 310 is installed between 
+the connecting element 302 and the entrance of the ox-
+ygen gas channel 308. 
+[0152] The inert-gas channel 296 has a valve 300 and 
+an inert-gas flow rate control unit 298. The heating source 
+122 has a control element 304 which controls a driving 
+source 306 based on the data of the flow rate that is 
+output from the oxygen gas flow rate control unit 310. 
+The driving source 306 is connected to the valve 300. 
+
+33 
+34 
+
+
+EP 1 364 919 B1 
+
+20 
+
+5 
+
+10 
+
+15 
+
+20 
+
+25 
+
+30 
+
+35 
+
+40 
+
+45 
+
+50 
+
+55 
+
+The combustible gas flow rate control unit 314 and the 
+oxygen gas flow rate control unit 310 control the flow rate 
+of the hydrogen gas H 2 and oxygen gas O 2 shown in the 
+Fig. 42 and Fig. 43. A valve such as an electric valve or 
+electromagnetic valve can be used as the valve 300. A 
+three directional pipe or a three directional valve can be 
+used for the connecting element 302. 
+[0153] Fig. 45 shows a plan view of the top of the heat-
+ing source 122. A plurality of the inside pipes 286, each 
+of which has an inside diameter of 1 mm and an outside 
+diameter of 3 mm, is inserted into the outside pipe 285, 
+which has an inside diameter of 30 mm. The inside pipes 
+286 are placed around the center of the outside pipe 285 
+in a plurality of rows of concentric circles. 
+[0154] The inside pipes 286 are placed with regular 
+spacing intervals for each row. The closer the rows are 
+towards the outside of the outside pipe 285, the higher 
+the density of the intervals of the inside pipe 286 for the 
+each row becomes. The inside pipes 286 can be installed 
+inside the outside pipe 285 with a homogeneous density. 
+Oxygen gas flows inside the oxygen gas outlet 288, which 
+is inside of the inside pipe 286. A combustible gas flows 
+inside the combustible gas outlet 290, which is inside of 
+the outside pipe 285. 
+[0155] The movement of the heating source 122 will 
+be explained below. Hydrogen gas flows into the outside 
+pipe 285 through the combustible gas channel 312 from 
+a hydrogen gas supply source, not shown in the figure. 
+Oxygen gas is distributed to the inside pipe 286 by the 
+branching tool 316. Oxygen gas is supplied from an ox-
+ygen gas supply source (not shown in the figure) through 
+the oxygen gas channel 308. The hydrogen and oxygen 
+gas are mixed at the top of the outside pipe 285. A flame 
+294 can be obtained by igniting the mixed gas. 
+[0156] According to the purpose of the processing of 
+the glass rod 106, the quantity of the hydrogen and ox-
+ygen gas were adjusted by using the oxygen gas flow 
+rate control unit 310 and the combustible gas flow rate 
+control unit 314 to obtain the optimum flame condition. 
+At this time, the signal that shows the flow rate of the 
+oxygen gas is output from the oxygen gas flow rate con-
+trol unit 310 to the control element 304. The linear speed 
+of the oxygen gas is a value derived by dividing the flow 
+rate of the oxygen gas by the area of the inside of the 
+inside pipe 286. 
+[0157] If the linear speed of the oxygen gas is 1.0 m/sec 
+or under, the control element 304 drives the driving 
+source 306 and opens the valve 300. Then, nitrogen gas, 
+which is an inert gas, flows into the oxygen gas channel 
+308 with a linear speed of 0.5 m/sec and is mixed with 
+the oxygen gas. When changing the flow rate of the ox-
+ygen, the control element 304 drives the driving source 
+306 and closes the valve 300 if the linear speed of the 
+oxygen reaches 1.1 m/sec. 
+[0158] When reducing the flow rate of the combustible 
+gas and oxygen gas to make the flame smaller, the region 
+of high temperature near the top of the inside flame 
+moves from the top of the heating source 122. This is 
+
+because the flame 294 diffuses as a result of mixing the 
+inert-gas with oxygen gas. Therefore, the surface tem-
+perature of the top of the heating source 122 is main-
+tained below 400°C, so that e oxidation of the heating 
+source 122 can be prevented. 
+[0159] When strong heating power is needed, the 
+valve 300 for the inflow of the inert gas is closed because 
+the combustion temperature drops if inert gas is mixed. 
+At this time, because the flame 294 is large owing to the 
+increase of the flow rate of the combustible gas and ox-
+ygen gas, the region of high temperature of the flame 
+294 is no longer at the top of the heating source 122. 
+Therefore, the surface temperature of the top of the heat-
+ing source 122 is maintained below 400°C. The genera-
+tion of a pulse caused by the opening and closing of the 
+valve 300 can be prevented by setting a different linear 
+speed value for the oxygen gas at the time of opening 
+and closing of the valve 300. This should be set to 1.0 
+m/sec or below for opening and 1.1 m/sec or above for 
+closing. 
+[0160] It is desirable that the inert gas has a linear 
+speed of between 0.5 m/sec to 2 m/sec as it flows by the 
+opening of the valve 300. The linear speed of the inert 
+gas is calculated by dividing the flow rate of the inert gas 
+by the area inside the oxygen gas outlet 288 of the inside 
+pipe 286. If the linear speed of the inert gas is 0.5 m/sec 
+or below, it is difficult to control the temperature of the 
+top of the heating source 122. On the other hand, if the 
+linear speed of the inert gas is 2.0 m/sec or above, the 
+hydrogen gas burns incompletely, and the temperature 
+of the flame 294 decrease. 
+[0161] If using a heating source 122 to heat the glass 
+rod 106 with the flame 294, a metal oxide will not usually 
+be generated at the top of the heating source 122. This 
+is because the temperature of the top of the heating 
+source 122 is maintained at 400°C or below. Therefore, 
+a metal oxide does not attach to the glass rod 106, and 
+a glass rod 106 of high quality can be manufactured. 
+[0162] A glass rod 106 having an average diameter of 
+65 mm was elongated by a glass rod second elongating 
+apparatus 111 that has heating source 122 controlling 
+the flow rate of the inert gas. The ratio of the number of 
+glass rods 106 having foreign matter such as metal oxide 
+to the total numbers of processed glass rod 106 was 0.2 
+%. This is a low value compared to the ratio of glass rods 
+made by the conventional heating source 122. For com-
+parison, the ratio of the number of glass rods 106 having 
+foreign matter such as metal oxide to the total numbers 
+of the processed glass rods 106 became a high value of 
+15 % when the glass rod 106 was elongated by always 
+closing the valve 300. 
+[0163] Fig. 46 shows a relationship between the linear 
+speed of the oxygen gas and the temperature of the top 
+of the heating source 122. This is illustrated for the case 
+of always mixing oxygen gas with nitrogen gas having 
+linear speed of 0.5 m/sec and of not mixing the oxygen 
+gas with the nitrogen gas. The temperature of the top of 
+the heating source 122 does not exceed 400°C when 
+
+35 
+36 
+
+
+EP 1 364 919 B1 
+
+21 
+
+5 
+
+10 
+
+15 
+
+20 
+
+25 
+
+30 
+
+35 
+
+40 
+
+45 
+
+50 
+
+55 
+
+mixing the nitrogen gas. The temperature reached 400°C 
+to 700°C at the region where the linear speed of the ox-
+ygen gas was 1 m/sec or under when the nitrogen gas 
+was not mixed. Therefore, the surface temperature of the 
+heating source 122 can be controlled by mixing the ox-
+ygen gas with nitrogen gas when the linear speed of the 
+oxygen gas is 1 m/sec or below. 
+[0164] Fig. 47 shows the shape of a tip of the preform 
+107, the diameter of which is reduced and which is fused 
+at the end drawing (S158). The D represents the diameter 
+of the preform 107. The O represents the location where 
+the diameter of the preform 107 starts to be reduced. The 
+P represents the location where the diameter D of the 
+preform 107 is reduced to 1 % or below the original di-
+ameter. The preform 107 has a taper shape, both ends 
+of which can be shown by the equation 1/3D L 3D. 
+Here, L represents the length between the location O and 
+the location P. 
+[0165] The time that the drawing reaches the steady 
+state is the time from the setting of the preform 107 on 
+the preform drawing apparatus 500 until the diameter 
+and the drawn speed of the optical fiber reaches the pre-
+scribed value. When the preform 107 is drawn to an op-
+tical fiber, the original shape of the preform 107 influences 
+the time it takes for the drawing to reach the steady state. 
+This influence becomes larger as the diameter of the pre-
+form 107 becomes larger. Then, the time taken for the 
+drawing to reach the steady state becomes longer. 
+[0166] The preform 107 having the shape of the equa-
+tion 1/3D L 3D can reduce the time taken for the draw-
+ing to reach the steady state. If L &lt; 1/3D, the time taken 
+for the diameter and the drawn speed of the optical fiber 
+to reach the prescribed value increases because the time 
+that the tip of the preform 107 drops down becomes long-
+er. If L &gt; 3D, the time taken for the tip of the preform 107 
+to drop down can be decreased, but the time taken for 
+the taper shape of the preform 107 to become the shape 
+of the steady state of the drawing takes longer. Then, the 
+time taken for the diameter and the drawn speed of the 
+optical fiber to reach the prescribed value becomes long-
+er. Therefore, it is best to make the shape of the taper of 
+the preform 107 as L = D. 
+[0167] In the case of fusing the preform 107 by heating 
+part of the preform 107 by a flame, a residual strain re-
+mains on both ends of the taper part of the preform 107. 
+If the residual strain in the taper part is large, cracks can 
+be generated on both ends of the preform 107 when a 
+strong impact is applied on the preform 107. The cracks 
+can also be generated on both ends of the preform 107 
+by a thermal impact generated by the welding of the pre-
+form 107 and the dummy rod. The quantity of the strain 
+on both ends of the preform 107 would ideally be 40 
+kgf/cm 2 or below. The cracks generated on the preform 
+107 can be prevented by controlling the quantity of the 
+residual strain remaining in the preform 107 at 40 kgf/cm 2 
+or below. 
+
+(EXAMPLE) 
+
+[0168] A preform 107 with a diameter of 30 mm was 
+drawn. The length L was set to 30 mm. The quantity of 
+the strain remaining in the taper part of the preform 107 
+was 40 kgf/cm 2 , and cracks were not generated during 
+the welding of the preform 107 and the dummy rod. When 
+the set diameter of the optical fiber was 125Pm and the 
+speed of the drawing was 100 mm/min, the time that the 
+drawing took to reach the steady state was a total of 20 
+minutes. The time from the setting of the preform 107 on 
+the preform drawing apparatus 500 to the dropping of 
+the tip of the preform 107 was 10 minutes. The time taken 
+for the diameter and the drawn speed of the optical fiber 
+to reach the prescribed value was 10 minutes. 
+
+(COMPARATIVE EXAMPLE 1) 
+
+[0169] A preform 107 with a diameter of 30 mm was 
+drawn. The length L was set to 5 mm. The quantity of the 
+strain remaining in the taper part of the preform 107 was 
+40 kgf/cm 2 , and cracks were not generated during the 
+welding of the preform 107 and the dummy rod. When 
+the set diameter of the optical fiber was 125Pm and the 
+speed of the drawing was 100 mm/min, the time that the 
+drawing reached d the steady state was a total of 50 
+minutes. The time from the setting of the preform 107 on 
+the preform drawing apparatus 500 to the dropping of 
+the tip of the preform 107 was 20 minutes. The time taken 
+for the diameter and the drawn speed of the optical fiber 
+to reach the prescribed value was 30 minutes. 
+
+(COMPARATIVE EXAMPLE 2) 
+
+[0170] A preform 107 with a diameter of 30 mm was 
+drawn. The length L was set to 100 mm. The quantity of 
+the strain remaining in the taper part of the preform 107 
+was 40 kgf/cm 2 , and cracks were not generated during 
+the welding of the preform 107 and the dummy rod. When 
+the set diameter of the optical fiber was 125Pm and the 
+speed of the drawing was 100 mm/min, the time taken 
+for the drawing to reach the steady state was a total of 
+40 minutes. The time from the setting of the preform 107 
+on the preform drawing apparatus 500 to the dropping 
+of the tip of the preform 107 was 10 minutes. The time 
+taken for the diameter and the drawn speed of the optical 
+fiber to reach the prescribed value was 30 minutes. 
+
+(COMPARATIVE EXAMPLE 3) 
+
+[0171] A preform 107 with a diameter of 30 mm was 
+drawn. The length L was set to be 30 mm. The quantity 
+of the strain remaining in the taper part of the preform 
+107 was 60 kgf/cm 2 . The preform 107 could not be drawn 
+because cracks were generated during the welding of 
+the preform 107 and the dummy rod. 
+[0172] As shown above, the time required for drawing 
+the preform 107 to an optical fiber can be reduced by 
+
+37 
+38 
+
+
+EP 1 364 919 B1 
+
+22 
+
+5 
+
+10 
+
+15 
+
+20 
+
+25 
+
+30 
+
+35 
+
+40 
+
+45 
+
+50 
+
+55 
+
+making the shape of the tip of the preform 107 as 
+1/3D L 3D. 
+[0173] Fig. 48 shows another shape of the tip of the 
+preform 107 that was end-drawn. The preform 107 shown 
+in Fig. 48 has a fused part 332 on one end formed by a 
+flame, and a cutting face 334 on the other end, which is 
+cut mechanically. The fused part 332, which is shown in 
+Fig. 48 (a), is fused rapidly by a flame. The fused part 
+332, which is shown in Fig. 48 (b), is fused gradually by 
+reducing the diameter to form a taper part 336. A thin 
+part 338 is provided on the tip of the fused part 332 shown 
+in Fig. 48 (c). 
+[0174] When drawing a preform 107 which has the ta-
+per part 336 as shown in Fig. 48 (b), the time taken for 
+the tip of the preform 107 to dropdown is short, and the 
+quantity of preform 107 to be dropped is also small be-
+cause the diameter of the fused part 332 is small. When 
+drawing a preform 107 which has the taper part 336 and 
+thin part 338 as shown in Fig. 48 (c), the time taken for 
+the tip of the preform 107 to drop down can be reduced 
+to one third or less of the time required for the conven-
+tional shape of the preform 107. The loss in material 
+caused by the dropping of the preform 107 can be limited 
+to the small quantity of the thin part 338. 
+[0175] It is desirable that the shape of the thin part 338 
+occupies between 0.1 percent to 15 percent of the weight 
+of the fused part 332. If the weight of the thin part 338 is 
+smaller than 0.1 percent of the weight of the fused part 
+332, the effect produced by providing the thin part 338 
+cannot be obtained. On the other hand, if the weight of 
+the thin part 338 is larger than 15 percent of the weight 
+of the fused part 332, the time taken for the tip of the 
+preform 107 to drop becomes long, and the loss of pre-
+form 107 increases during the drawing. 
+[0176] It is desirable that the diameter of the thin part 
+338 be between 1/2 to 1/10 of the diameter of the main 
+body of the preform 107. If the diameter of the thin part 
+338 is within this range, the time required for the dropping 
+of the tip of the preform 107 at the early stage of the 
+drawing can be short. If the length of the thin part 338 is 
+approximately one to five times this diameter, the loss of 
+the preform 107 can be limited to a small quantity. 
+[0177] Fig. 49 shows a preform 107 that is damaged, 
+before the preform 107 is surface treated at the surface 
+treatment (S168) shown in the Fig. 26. The preform 107, 
+which is elongated by the glass rod second elongating 
+apparatus 111, is etched by hydrofluoric acid as a surface 
+treatment. This cuts the cladding of the preform 107 
+chemically so that the preform 107 has the prescribed 
+ratio of thickness of core to cladding. 
+[0178] The hydrofluoric acid etching treatment is a 
+treatment that decomposes the bonds between the Sili-
+con and oxygen of the glass. The hydrofluoric acid etch-
+ing treatment cuts the surface of the preform 107 chem-
+ically at a speed of about 8 mm per one hour. However, 
+if there is a crack or a concave on the surface of the 
+preform 107, the place having the crack or concave is 
+cut further to form a larger concave than the concave 
+
+made on the other parts of the preform 107. This concave 
+caused by the treatment of hydrofluoric acid etching is 
+called a hydrofluoric concave. This hydrofluoric concave 
+is the cause of the breaking of an optical fiber during the 
+drawing of the preform 107 to an optical fiber. 
+[0179] A preform 107 without hydrofluoric concaves 
+on its surface can be obtained by removing cracks and 
+concaves on the preform 107 by polishing before the 
+treatment of hydrofluoric acid etching. There is a method 
+of fire polishing the preform 107 with the temperature 
+above the strain point of the preform 107. During the fire 
+polishing, the preform 107 is fire polished so that the un-
+evenness of the surface will be within a 0.3 mm range. 
+The generation of the hydrofluoric concave can be pre-
+vented by fire polishing the preform 107 before etching 
+the preform 107 with hydrofluoric acid. This is possible 
+because the quantity of the strain in the preform 107 can 
+be decreased and a smooth surface without cracks can 
+be obtained. Not only is fire polishing suitable, but also 
+mechanical polishing can be used for polishing the pre-
+form 107. 
+[0180] Fig. 51 shows a number of hydrofluoric con-
+caves generated in the preform 107 counted by visual 
+inspection of the example and the comparative example. 
+Fig. 52 shows the unevenness of the surface of the pre-
+form 107 after the treatment with the hydrofluoric acid 
+etching of the example and the comparative example. In 
+the pre-treating 1 shown in Fig. 51 and Fig. 52, the pre-
+form 107a having a diameter of 60 mm and a length of 
+1000 mm was damaged. First, the preform 107a and the 
+other preform 107b, which had the same shape as the 
+preform 107a, were placed on the floor. 
+[0181] Next, one end of the preform 107a was lifted to 
+height of 10 cm while the other end remained on the floor. 
+Then, the end of the preform 107 that was lifted was 
+dropped onto the preform 107b so that the preform 107a 
+had a crack. Each of a plurality of the preform 107a was 
+damaged in 3 places at 20 cm intervals by the same 
+method shown above. On the pre-treating 2 shown in 
+Fig. 51 and Fig. 52, the preform 107a was lifted to a height 
+of the 20 cm. The other procedure of damaging the pre-
+form 107 was same as pre-treating 1. 
+[0182] On the example shown in Fig. 51 and Fig. 52, 
+each of the preform 107a was treated by the pre-treating 
+1 and pre-treating 2. Then, each of the preform 107a was 
+fire polished with a burner that was provided with hydro-
+gen gas at 250 ml/min and oxygen gas at 145 ml/min. 
+Each of the fire polished preform 107a was treated by 
+hydrofluoric acid etching at room temperature. The thick-
+ness of material etched from the exterior diameter of the 
+preform 107 was one of 4 steps of 0.2 mm, 1.2 mm, 2.2 
+mm, and 3.2 mm. 10 pieces of the preform 107a were 
+etched by hydrofluoric acid for each of the 4 steps of the 
+etching thickness. The number of the hydrofluoric con-
+caves was checked by visual inspection after the treat-
+ment by hydrofluoric acid etching. 
+[0183] Fig. 50 shows the preform 107a, which was 
+treated by the hydrofluoric acid etching in the example 
+
+39 
+40 
+
+
+EP 1 364 919 B1 
+
+23 
+
+5 
+
+10 
+
+15 
+
+20 
+
+25 
+
+30 
+
+35 
+
+40 
+
+45 
+
+50 
+
+55 
+
+shown in the Fig. 51 and Fig. 52. The unevenness of the 
+surface of the preform 107a was obtained by measuring 
+the difference of the diameter between the point which 
+was shown by the mark x and the diameter of the point 
+which was shown by the mark o. The point which was 
+shown by the mark x was the place damaged by contact-
+ing with preform 107b. The point which was shown by 
+the mark o was a place 10 cm away from the point of the 
+mark x, which was not damaged by contacting with pre-
+form 107b. The average value of the diameter of the 3 
+points shown by the mark x were used as the diameter 
+of the each of the preform 107a. 
+[0184] In the comparative example shown in Fig. 51 
+and Fig. 52, each of the preform 107 treated by pre-treat-
+ment 1 and pre-treatment 2 were treated by hydrofluoric 
+acid etching without fire polishing. The number of hy-
+drofluoric concaves was assessed by visual inspection, 
+and the unevenness of the surface was measured in the 
+same way as the example. As shown in Fig. 52 and Fig. 
+53, the unevenness of the surface of the pre-treatment 
+2 was larger than the unevenness of the surface of the 
+pre-treatment 1. This is because pre-treatment 2 was 
+lifted higher pre-treatment 1 in the damage process. Also, 
+the number of hydrofluoric concaves generated by the 
+hydrofluoric acid etching of the pre-treatment 2 was larg-
+er than the number of the hydrofluoric concaves of the 
+pre-treatment 1. 
+[0185] The larger the quantity of the etching, the larger 
+the unevenness of the surface of the preform 107. Also, 
+the larger the quantity of the etching, the larger the 
+number of hydrofluoric concaves generated by the hy-
+drofluoric acid etching. The unevenness of the surface 
+of the preform 107a of the example which was fire pol-
+ished, was lower than the unevenness of the surface of 
+the preform 107a of the comparative example, which was 
+not fire polished. 
+[0186] The number of the hydrofluoric concave gener-
+ated on the example is smaller than the number of the 
+hydrofluoric concave generated on the comparative ex-
+ample as shown in Fig. 51. Therefore, the number of the 
+hydrofluoric concave in the preform 107a and the une-
+venness of the surface of the preform 107a can be de-
+creased by fire polishing the preform 107a before etching 
+the preform 107a with hydrofluoric acid. 
+[0187] Fig. 53 shows another shape of the preform 107 
+which is surface treated. The preform 107 has a handle 
+340. The handle 340 is made of a silica glass and is 
+installed on the cutting face 334 of the surface treated 
+preform 107 shown in Fig. 48 (c) by welding or mechan-
+ical processing. The preform 107 with a handle 340 can 
+be installed onto the preform drawing apparatus 500 
+promptly when drawing the preform 107 to an optical fib-
+er. The diameter of the handle 340, installed on the cut-
+ting face 334, can be smaller than the diameter of the 
+preform 107 as shown in Fig. 53 (b). 
+[0188] Fig. 54 shows an ultrasonic cleaning apparatus 
+404, which cleans the heating source 122. The ultrasonic 
+cleaning apparatus 404 comprises an ultrasonic oscilla-
+
+tor 396. A cleaning liquid 398 is contained inside of the 
+ultrasonic cleaning apparatus 404. The cleaning liquid 
+398 contains 10 percent hydrofluoric acid and 3 percent 
+nitric acid. The hydrofluoric acid dissolves the metal oxide 
+generated on the surface of the outside pipe 285 and 
+inside pipe 286 of the heating source 122. Oxidation of 
+the surface of the outside pipe 285 and the inside pipe 
+286 does not readily occur if the outside pipe 285 and 
+the inside pipe 286 are made of stainless steel. This is 
+because iron, chromium, and nickel, which are contained 
+in stainless steel, form a passive thin film on the surface 
+of the stainless steel from the effect of the nitric acid, thus 
+protecting the surfaces. 
+[0189] The cleaning liquid 398 can contain a soluble 
+organic solvent. Examples of soluble organic solvents 
+are alcohol, acetone, acetonitrile, and tetrahydrofuran. 
+The heating source 122 can be soaked in the cleaning 
+liquid 398 containing hydrofluoric acid and then soaked 
+in the other cleaning liquid 398 which contains nitric acid. 
+The ultrasonic oscillator 396 oscillates an ultrasonic wave 
+of strength of 1 W/cm 2 to 2 w/cm 2 . 
+[0190] The heating source 122 to be cleaned is made 
+of stainless steel. The heating source 122 has a plurality 
+of inside pipes 286, which have an internal diameter of 
+1 mm and an outside diameter of 3 mm. The inside pipes 
+286 are inside the outside pipe 285, which has an internal 
+diameter of 30 mm. Hydrogen gas flows inside the out-
+side pipe 285, and oxygen gas flows inside the inside 
+pipe 286. The outside pipe 285 is connected to a hydro-
+gen inlet pipe 392, and all the inside pipes 286 are con-
+nected to an oxygen inlet pipe 394. 
+[0191] When the glass rod 106 is heated by the flame 
+of the heating source 122, the temperature of the top of 
+the heating source 122 increases to a high temperature 
+of between 400°C to 700°C. Therefore, a metal oxide will 
+be generated on the surface of the top of the heating 
+source 122. The metal oxides gradually dislodges to be-
+come free floating particles if the heating source is used 
+for a long time. 
+[0192] Particles of metal oxide or foreign matter impu-
+rities such as glass particles attached to the heating 
+source 122 may be dislodged during the heat treatment 
+of the glass rod 106. These particles can attach to the 
+surface of the glass rod 106 in which case the surface 
+layer of the glass rod 106 has to be polished. If the glass 
+rod 106 is polished, the ratio of the diameter of the clad-
+ding and the core of the glass rod 106 will change. The 
+characteristic of light transmission of an optical fiber 
+made from the glass rod 106 will deteriorate as a result. 
+Therefore, foreign matter impurities and metal oxides at-
+tached to the heating source 122 are removed from the 
+heating source 122 by cleaning the heating source 122. 
+[0193] To clean the heating source 122 using the ul-
+trasonic cleaning apparatus 404, first, the hydrogen inlet 
+pipe 392 and oxygen inlet pipe 394 are opened to the 
+outside. Then, the heating source 122 is soaked in the 
+cleaning liquid 398 with the flame nozzle 390 directed 
+downward. Any air remaining inside the outside pipe 285 
+
+41 
+42 
+
+
+EP 1 364 919 B1 
+
+24 
+
+5 
+
+10 
+
+15 
+
+20 
+
+25 
+
+30 
+
+35 
+
+40 
+
+45 
+
+50 
+
+55 
+
+and the inside pipe 286 is released through the hydrogen 
+inlet pipe 392 and oxygen inlet pipe 394. Following this, 
+the outside pipe 285 and the inside pipe 286 are im-
+mersed and soaked in the cleaning liquid 398 to the top 
+of the water level. The ultrasonic cleaning apparatus 404 
+then cleans the heating source 122 by oscillating the ul-
+trasonic wave using the ultrasonic oscillator 396. The vi-
+bration frequency of the ultrasonic waves is 10 kHz to 
+100 kHz. 
+[0194] The heating source 122 was cleaned using the 
+ultrasonic cleaning apparatus 404. Metal oxide was 
+present around the stainless steel flame nozzle 390 of 
+the heating source 122, which is used for heating the 
+glass rod. The area around the flame nozzle 390 of the 
+heating source 122 was soaked in the cleaning liquid 
+398. To clean the heating source 122, an ultrasonic wave 
+with a vibration frequency of 10 kHz to 100 kHz was os-
+cillated for 30 minutes by the ultrasonic oscillator 396 
+having output of 500 W. Then, the heating source 122 
+was removed from the ultrasonic cleaning apparatus 404 
+and any cleaning liquid 398 remaining on the surface of 
+the heating source 122 was cleaned with pure water. The 
+heating source 122 was then dried. 
+[0195] The top of the outside pipe 285 and the inside 
+pipe 286 were inspected, and metal oxides and foreign 
+matter impurities were not found in the outside pipe 285 
+and the inside pipe 286. The surface of the glass rod 106 
+was heat treated by the cleaned heating source 122. The 
+ratio of the number of glass rods 106, which had foreign 
+matter impurities attached, compared to the total number 
+of treated glass rods 106 was 6 percent. 
+[0196] The surface of the glass rod 106 was heat treat-
+ed by the heating source 122, which was not cleaned, 
+for a comparison. In this case, the ratio of the number of 
+glass rods 106, which had foreign matter impurities at-
+tached, to the total number of heat treated glass rods 106 
+was 15 percent. This is larger value than the ratio ob-
+tained by the cleaned heating source 122. 
+[0197] As shown above, the metal oxide and attached 
+foreign matter generated on the top of the heating source 
+122 can be removed by cleaning the heating source 122 
+with the ultrasonic cleaning apparatus 404. A preform 
+107 of high quality can be obtained by heating the glass 
+rod 106 with a heating source 122, which is cleaned by 
+the ultrasonic cleaning apparatus 404, because less for-
+eign matter is attached to glass rod 106. 
+[0198] Fig. 55 shows a configuration of the preform 
+drawing apparatus 500 that draws the preform 107 to an 
+optical fiber. The preform drawing apparatus 500 com-
+prises a chuck 346, which holds a dummy rod 342 that 
+is welded to the preform 107; a heating means 348 which 
+heats the preform 107; movable support 344 which sup-
+plies the preform 107 to the heating means 348; a diam-
+eter measurement device 352 which measures the di-
+ameter of an optical fiber 350 drawn from the preform 
+107; a first coating device 354 which undertakes the first 
+coating of the optical fiber 350; a first curing device 356 
+which cures the first coated optical fiber 350 by a ultra-
+
+violet rays; a second coating device 358 which coats the 
+optical fiber 350 a second time; a second curing device 
+360 which cures the second coated optical fiber 350 by 
+a ultraviolet rays; and a tractor 362 which winds the op-
+tical fiber 350. 
+[0199] To draw the preform 107 into an optical fiber 
+350 using the preform drawing apparatus 500, first, the 
+dummy rod 342, which is welded to the preform 107, is 
+held by the movable support 344 with the chuck 346. The 
+starting end of the preform 107 is then set to the pre-
+scribed position of the heating means 348, and the pre-
+form 107 is heated. When the tip of the preform 107 sof-
+tens and drops, the dropped tip of the preform 107 is 
+caught and drawn out to be passed through the diameter 
+measurement device 352. 
+[0200] When the diameter of the optical fiber 350 
+reaches the desired diameter, the optical fiber 350 is first 
+coated with resin by passing through the first coating de-
+vice 354. The first coated optical fiber 350 is then passed 
+through the first curing device 356 to be cured. The optical 
+fiber 350 is then second coated by the second coating 
+device 358 and cured by the second curing device 360. 
+When the diameter and the speed of the drawing of the 
+optical fiber 350 reaches a prescribed value, the optical 
+fiber 350 is wound onto a bobbin, not shown in the figure, 
+through the the tractor 362. 
+[0201] A preform 107 of high quality and little variation 
+in diameter can be manufactured by the glass base ma-
+terial first drawing apparatus 900 and the glass rod sec-
+ond elongating apparatus 111 shown above. Therefore, 
+optical fibers of high quality and reduced diameter vari-
+ation can be manufactured by drawing the preform 107, 
+manufactured by the glass base material first drawing 
+apparatus 900 and the glass rod second elongating ap-
+paratus 111, using the preform drawing apparatus 500. 
+[0202] Although the present invention has been de-
+scribed by reference to specific embodiments, the scope 
+of the present invention is not limited to these embodi-
+ments. Various modifications and improvements to these 
+embodiments of the present invention can be made with-
+out departing from the scope of the appended claims. 
+
+Claims 
+
+1. A method of manufacturing a second preform (107) 
+for an optical fiber (350) comprising: 
+
+heating a glass rod (106), which is a first preform 
+for said optical fiber (350), and 
+elongating said heated glass rod (106) to gen-
+erate the second preform (107), wherein 
+said heating and the elongating speed are con-
+trolled based on the diameter of the glass rod 
+(106) which changes with the progress of elon-
+gation of said glass rod (106), 
+
+characterized in that 
+
+43 
+44 
+
+
+EP 1 364 919 B1 
+
+25 
+
+5 
+
+10 
+
+15 
+
+20 
+
+25 
+
+30 
+
+35 
+
+40 
+
+45 
+
+50 
+
+55 
+
+the method further comprises 
+
+end-drawing said second preform (107) to form 
+an end-drawn region for drawing the optical fiber 
+(350) and 
+fire polishing said second preform (107) after 
+end-drawing, 
+the location of the end-drawn region being de-
+tected by measuring the diameter at a plurality 
+of locations covering the region comprising said 
+end-drawn region along the axial direction of 
+said second preform (107), 
+a polishing range, where said glass rod (106) is 
+polished by a flame, being set in relation to the 
+detected location of said end-drawn region, and 
+the heating power of said flame being controlled 
+based on the corresponding diameter of the sec-
+ond preform for polishing said polishing range 
+of said second preform by said flame. 
+
+2. The method according to claim 1, wherein the end-
+drawn region is formed in a circular cone shape. 
+
+3. The method according to claim 1 or 2, wherein the 
+polishing range additionally is set based on a change 
+of length of the glass rod (106) along the axial direc-
+tion by said elongation. 
+
+4. A method of manufacturing an optical fiber (350) 
+comprising a method according to one of the claims 
+1 to 3, the method further comprising heating and 
+drawing said second preform (107) to a filament-like 
+form to generate said optical fiber (350). 
+
+Patentansprüche 
+
+1. Verfahren zum Herstellen eines zweiten Vorform-
+lings (107) für eine optische Faser (350), welches 
+aufweist: 
+
+Erwärmen eines Glasstabs (106), der ein erster 
+Vorformling für die optische Faser (350) ist, und 
+Verlängern des erwärmten Glasstabs (106), um 
+den zweiten Vorformling (107) zu erzeugen, wo-
+bei die Erwärmung und die Verlängerungsge-
+schwindigkeit gesteuert werden auf der Grund-
+lage des Durchmessers des Glasstabs (106), 
+der sich mit dem Fortschreiten der Verlängerung 
+des Glasstabs (106) ändert, 
+
+dadurch gekennzeichnet, dass 
+das Verfahren weiterhin aufweist: 
+
+Endziehen des zweiten Vorformlings (107), um 
+einen endgezogenen Bereich zum Ziehen der 
+optischen Faser (150) zu bilden, und 
+Feuerpolieren des zweiten Vorformlings (107) 
+
+nach dem Endziehen, 
+
+wobei der Ort des endgezogenen Bereichs erfasst 
+wird durch Messen des Durchmessers an mehreren 
+Orten, die den den endgezogenen Bereich aufwei-
+senden Bereich, entlang der axialen Richtung des 
+zweiten Vorformlings (107) abdecken, 
+ein Polierbereich, in welchem der Glasstab (106) 
+durch eine Flamme poliert wird, gesetzt wird in Be-
+ziehung zu dem erfassten Ort des endgezogenen 
+Bereichs, und 
+die Heizleistung der Flamme gesteuert wird auf der 
+Grundlage des entsprechenden Durchmessers des 
+zweiten Vorformlings zum Polieren des Polierbe-
+reichs des zweiten Vorformlings durch die Flamme. 
+
+2. Verfahren nach Anspruch 1, bei dem der endgezo-
+gene Bereich in einer kreisförmigen Kegelform ge-
+bildet ist. 
+
+3. Verfahren nach Anspruch 1 oder 2, bei dem der Po-
+lierbereich zusätzlich gesetzt wird auf der Grundlage 
+einer Änderung der Länge des Glasstabs (106) ent-
+lang der axialen Richtung durch die Verlängerung. 
+
+4. Verfahren zum Herstellen einer optischen Faser 
+(350), das ein Verfahren gemäß einem der Ansprü-
+che 1 bis 3 aufweist, welches Verfahren weiterhin 
+das Erwärmen und Ziehen des zweiten Vorformlings 
+(107) in eine fadenartige Form zum Erzeugen der 
+optischen Faser (350) aufweist. 
+
+Revendications 
+
+1. Procédé de fabrication d'une deuxième préforme 
+(107) pour une fibre optique (350), comprenant : 
+
+le chauffage d'une tige en verre (106), qui est 
+une première préforme pour ladite fibre optique 
+(350), et 
+l'allongement de ladite tige en verre chauffée 
+(106) pour générer la deuxième préforme (107), 
+dans lequel : 
+
+ledit chauffage et la vitesse d'allongement 
+sont commandés en fonction du diamètre 
+de la tige en verre (106) qui change à me-
+sure qu'on allonge ladite tige en verre (106), 
+
+caractérisé en ce que : 
+
+le procédé comprend, en outre, 
+l'étirement au niveau de l'extrémité de ladite 
+deuxième préforme (107) pour former une ré-
+gion étirée au niveau de l'extrémité pour étirer 
+la fibre optique (350) et 
+le polissage au feu de ladite deuxième préforme 
+
+45 
+46 
+
+
+EP 1 364 919 B1 
+
+26 
+
+5 
+
+10 
+
+15 
+
+20 
+
+25 
+
+30 
+
+35 
+
+40 
+
+45 
+
+50 
+
+55 
+
+(107) après l'étirement au niveau de l'extrémité, 
+l'emplacement de la région étirée au niveau de 
+l'extrémité étant détecté en mesurant le diamè-
+tre en une pluralité d'emplacements recouvrant 
+la région comprenant ladite région étirée au ni-
+veau de l'extrémité le long de la direction axiale 
+de ladite deuxième préforme (107), 
+une plage de polissage, dans laquelle ladite tige 
+en verre (106) est polie par une flamme, étant 
+établie par rapport à l'emplacement détecté de 
+ladite région étirée au niveau de l'extrémité, et 
+la puissance de chauffage de ladite flamme 
+étant commandée en fonction du diamètre cor-
+respondant de la deuxième préforme pour polir 
+ladite plage de polissage de ladite deuxième 
+préforme par ladite flamme. 
+
+2. Procédé selon la revendication 1, dans lequel la ré-
+gion étirée au niveau de l'extrémité se présente sous 
+la forme d'un cône circulaire. 
+
+3. Procédé selon la revendication 1 ou 2, dans lequel 
+la plage de polissage est, en outre, établie en fonc-
+tion d'un changement de longueur de la tige en verre 
+(106) le long de la direction axiale provoqué par ledit 
+allongement. 
+
+4. Procédé de fabrication d'une fibre optique (350) 
+comprenant un procédé selon l'une quelconque des 
+revendications 1 à 3, le procédé comprenant, en 
+outre, le chauffage et l'étirement de ladite deuxième 
+préforme (107) pour lui conférer une forme de fila-
+ment afin de générer ladite fibre optique (350). 
+
+47 
+48 
+
+
+EP 1 364 919 B1 
+
+27 
+
+
+EP 1 364 919 B1 
+
+28 
+
+
+EP 1 364 919 B1 
+
+29 
+
+
+EP 1 364 919 B1 
+
+30 
+
+
+EP 1 364 919 B1 
+
+31 
+
+
+EP 1 364 919 B1 
+
+32 
+
+
+EP 1 364 919 B1 
+
+33 
+
+
+EP 1 364 919 B1 
+
+34 
+
+
+EP 1 364 919 B1 
+
+35 
+
+
+EP 1 364 919 B1 
+
+36 
+
+
+EP 1 364 919 B1 
+
+37 
+
+
+EP 1 364 919 B1 
+
+38 
+
+
+EP 1 364 919 B1 
+
+39 
+
+
+EP 1 364 919 B1 
+
+40 
+
+
+EP 1 364 919 B1 
+
+41 
+
+
+EP 1 364 919 B1 
+
+42 
+
+
+EP 1 364 919 B1 
+
+43 
+
+
+EP 1 364 919 B1 
+
+44 
+
+
+EP 1 364 919 B1 
+
+45 
+
+
+EP 1 364 919 B1 
+
+46 
+
+
+EP 1 364 919 B1 
+
+47 
+
+
+EP 1 364 919 B1 
+
+48 
+
+
+EP 1 364 919 B1 
+
+49 
+
+
+EP 1 364 919 B1 
+
+50 
+
+
+EP 1 364 919 B1 
+
+51 
+
+
+EP 1 364 919 B1 
+
+52 
+
+
+EP 1 364 919 B1 
+
+53 
+
+
+EP 1 364 919 B1 
+
+54 
+
+
+EP 1 364 919 B1 
+
+55 
+
+
+EP 1 364 919 B1 
+
+56 
+
+
+EP 1 364 919 B1 
+
+57 
+
+
+EP 1 364 919 B1 
+
+58 
+
+
+EP 1 364 919 B1 
+
+59 
+
+
+EP 1 364 919 B1 
+
+60 
+
+
+EP 1 364 919 B1 
+
+61 
+
+
+EP 1 364 919 B1 
+
+62 
+
+
+EP 1 364 919 B1 
+
+63 
+
+
+EP 1 364 919 B1 
+
+64 
+
+
+EP 1 364 919 B1 
+
+65 
+
+
+EP 1 364 919 B1 
+
+66 
+
+
+EP 1 364 919 B1 
+
+67 
+
+
+EP 1 364 919 B1 
+
+68 
+
+
+EP 1 364 919 B1 
+
+69 
+
+
+EP 1 364 919 B1 
+
+70 
+
+
+EP 1 364 919 B1 
+
+71 
+
+
+EP 1 364 919 B1 
+
+72 
+
+REFERENCES CITED IN THE DESCRIPTION 
+
+This list of references cited by the applicant is for the reader's convenience only. It does not form part of the European 
+patent document. Even though great care has been taken in compiling the references, errors or omissions cannot be 
+excluded and the EPO disclaims all liability in this regard. 
+
+Patent documents cited in the description 
+
+• 
+JP 61295252 A [0007] 
+• 
+JP 61295253 A [0007] 
+
+• 
+JP 61295250 A [0008] 
+
+Non-patent literature cited in the description 
+
+• 
+PATENT ABSTRACTS OF JAPAN, 28 May 1987, 
+vol. 11, 167 [0007] 
+
+• 
+PATENT ABSTRACTS OF JAPAN, 28 May 1986, 
+vol. 11, 167 [0008] 
+
+
+
+	
+
