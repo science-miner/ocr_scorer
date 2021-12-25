@@ -95,42 +95,59 @@ class ModelScorer(object):
         text = re.sub(r'([ \t\n\r]+)', ' ', text)
         text = text.strip()
         print(text)
+
+        # hacky but it work not badly - in case of short text, we concatenate the same text to reach a full
+        # input size and avoid unreliable prediction scores of shortest text
+        while len(text) < (self.max_length*2)+1:
+            text += ' ' + text
+        print("extended length:", str(len(text)))
+
         preds = []
         while pos < len(text)-(self.max_length+1):
             segments.append(text[pos:pos+self.max_length])
             next_chars.append(text[pos+self.max_length+1])
+            if len(segments) == self.batch_size:
+                preds += self.predict_batch(segments, next_chars, self.batch_size)
+                segments = []
+                next_chars = []
             pos += 1
 
-            if len(segments) == self.batch_size:
-                X = np.zeros((self.batch_size, self.max_length, self.voc_size))
-
-                for batch_idx in range(0, self.batch_size):
-                    for i in range(0, self.max_length):
-                        if not segments[batch_idx][i] in self.chars:
-                            X[batch_idx, i, self.UNK] = 1
-                        else:
-                            X[batch_idx, i, self.char_indices[segments[batch_idx][i]]] = 1
-
-                predictions = self.model.predict(X)
-
-                # get probabilities for actual next chars
-                sum_pred = 0.0
-                for batch_idx in range(0, self.batch_size):
-                    #print(predictions[batch_idx])
-                    #print("target char:", next_chars[batch_idx], str(self.char_indices[next_chars[batch_idx]]))
-                    if not next_chars[batch_idx] in self.chars:
-                        target = self.UNK
-                    else:
-                        target = self.char_indices[next_chars[batch_idx]]
-                    preds.append(predictions[batch_idx,target])
+        # process last (incomplete) batch
+        if len(segments)>0:
+            preds += self.predict_batch(segments, next_chars, len(segments))
         if len(preds) == 0:
-            return 0
+            return 0.0
 
         # move to log for additive semiring
         log_pred = np.log(np.array(preds))
         total_pred = np.sum(log_pred)
         # back to probability
         return np.exp(total_pred/len(preds))
+
+    def predict_batch(self, segments, next_chars, local_batch_size):
+        local_preds = []
+        X = np.zeros((local_batch_size, self.max_length, self.voc_size))
+        for batch_idx in range(0, local_batch_size):
+            for i in range(0, self.max_length):
+                if not segments[batch_idx][i] in self.chars:
+                    X[batch_idx, i, self.UNK] = 1
+                else:
+                    X[batch_idx, i, self.char_indices[segments[batch_idx][i]]] = 1
+
+        predictions = self.model.predict(X)
+
+        # get probabilities for actual next chars
+        sum_pred = 0.0
+        for batch_idx in range(0, local_batch_size):
+            #print(predictions[batch_idx])
+            #print("target char:", next_chars[batch_idx], str(self.char_indices[next_chars[batch_idx]]))
+            if not next_chars[batch_idx] in self.chars:
+                target = self.UNK
+            else:
+                target = self.char_indices[next_chars[batch_idx]]
+            local_preds.append(predictions[batch_idx,target])
+
+        return local_preds
 
     def score_batch(self, texts):
         # score a set of texts
@@ -139,11 +156,13 @@ class ModelScorer(object):
             X[0, i, self.char_indices[text[i]]] = 1
         return self.model.predict(X)
 
-    def read_batch(self, training=True):
+    def read_batch(self, training=True, batch_size=None):
         '''
         Read successively batches of data from a set of files. 
         If parameter training is True (default), the training data is read, otherwise the evaluation data.
         '''
+        if batch_size == None:
+            batch_size = self.batch_size
 
         # we use all .txt files in the data repository corresponding to the language
         if training:
@@ -165,11 +184,11 @@ class ModelScorer(object):
                         next_chars.append(text[pos+self.max_length+1])
                         pos += 1
 
-                        if len(segments) == self.batch_size:
-                            X = np.zeros((self.batch_size, self.max_length, self.voc_size))
-                            Y = np.zeros((self.batch_size, self.voc_size))
+                        if len(segments) == batch_size:
+                            X = np.zeros((batch_size, self.max_length, self.voc_size))
+                            Y = np.zeros((batch_size, self.voc_size))
 
-                            for batch_idx in range(0, self.batch_size):
+                            for batch_idx in range(0, batch_size):
                                 for i in range(0, self.max_length):
                                     if not segments[batch_idx][i] in self.chars:
                                         X[batch_idx, i, self.UNK] = 1
@@ -189,10 +208,11 @@ class ModelScorer(object):
 
         self.model = keras.Sequential(
             [
-                keras.Input(shape=(self.max_length, self.voc_size)),
-                layers.LSTM(128, recurrent_dropout=0.2, return_sequences=True),
+                #keras.Input(shape=(self.max_length, self.voc_size)),
+                keras.Input(batch_shape=(self.batch_size,self.max_length, self.voc_size)),
+                layers.LSTM(128, recurrent_dropout=0.2, return_sequences=True, stateful=True), 
                 layers.Dropout(0.2),
-                layers.LSTM(128, recurrent_dropout=0.2),
+                layers.LSTM(128, recurrent_dropout=0.2, stateful=True), 
                 layers.Dropout(0.2),
                 layers.Dense(self.voc_size, activation="softmax"),
             ]
@@ -235,8 +255,9 @@ class ModelScorer(object):
 
         self.model = best_model
         bpc = best_avg_loss / tf.constant(math.log(2))
-        print("bpc:")
+        sys.stdout.write("bpc:")
         tf.print(bpc, output_stream=sys.stderr)
+        sys.stdout.write("\n")
 
         # saving model
         logging.info("saving model")
@@ -246,24 +267,13 @@ class ModelScorer(object):
         start_time = time.time()
         total_time = 0
         print("\nevaluating language model...")
-        losses = []
-        accs = []
-        for i, (X, Y) in enumerate(self.read_batch(training=False)):
-            
-            loss, acc = self.model.evaluate(X, Y)
-            if (i+1) % 10 == 0: 
-                sys.stdout.write("\r - batch {}:\tloss = {:.4f}\t acc = {:.5f}\t({:.3f}s)".format(i + 1, loss, acc, (time.time() - start_epoch_time)))
-                sys.stdout.flush()
 
-            losses.append(loss)
-            accs.append(acc)
-
-        epoch_time = round(time.time() - start_epoch_time, 3)
+        loss, acc = self.model.evaluate(self.read_batch(training=False))
         total_time = round(time.time() - start_time, 3)
-        mean_accs = np.average(accs)
-            
-        print("\evaluation: acc = {:.5f}, ({:.3f}s/{:.3f}s)".format(mean_accs, epoch_time, total_time))
+        print("\nevaluation: accuracy = {:.5f}, ({:.3f}s)".format(acc, total_time))
 
+        bpc = loss / math.log(2)
+        print("bpc:", bpc, "\n")
 
     def save(self):
         target_dir = os.path.join(self.config["models_dir"], self.lang)
@@ -306,8 +316,10 @@ if __name__ == '__main__':
     model.build_model()
     model.train()
     model.save()
-
+    
     model.load()
+
+    model.evaluate()
     
     score = model.score("This is an example that might be a little short, but will be sufficent as a text. This is an example that might be a little short, but will be sufficent as a text. This is an example that might be a little short, but will be sufficent as a text. This is an example that might be a little short, but will be sufficent as a text.")
     print(str(score))
