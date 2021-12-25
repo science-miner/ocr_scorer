@@ -86,7 +86,7 @@ class ModelScorer(object):
 
         print("number of chars/vocab size:", str(len(self.chars)))
 
-    def score(self, text):
+    def score_text(self, text):
         # score a single piece of text, the text is expected to be of length at least self.max_length+1
         score = 0
         pos = 0
@@ -94,7 +94,7 @@ class ModelScorer(object):
         next_chars = []
         text = re.sub(r'([ \t\n\r]+)', ' ', text)
         text = text.strip()
-        print(text)
+        #print(text)
 
         # hacky but it work not badly - in case of short text, we concatenate the same text to reach a full
         # input size and avoid unreliable prediction scores of shortest text
@@ -149,12 +149,12 @@ class ModelScorer(object):
 
         return local_preds
 
-    def score_batch(self, texts):
+    def score_texts(self, texts):
         # score a set of texts
-        X = np.zeros((self.batch_size, self.max_length, self.voc_size))
-        for i in range(0, self.max_length):
-            X[0, i, self.char_indices[text[i]]] = 1
-        return self.model.predict(X)
+        result_preds = []
+        for text in texts:
+            result_preds.append(self.score(text))
+        return result_preds
 
     def read_batch(self, training=True, batch_size=None):
         '''
@@ -205,6 +205,12 @@ class ModelScorer(object):
                             next_chars = []
 
     def build_model(self):
+        '''
+        2 vanilla LSTM layers
+
+        stateful RNN makes sense in long sequence and anomaly detection, it is then required to
+        fix the batch size in the input layer 
+        '''
 
         self.model = keras.Sequential(
             [
@@ -321,12 +327,12 @@ if __name__ == '__main__':
 
     model.evaluate()
     
-    score = model.score("This is an example that might be a little short, but will be sufficent as a text. This is an example that might be a little short, but will be sufficent as a text. This is an example that might be a little short, but will be sufficent as a text. This is an example that might be a little short, but will be sufficent as a text.")
+    score = model.score_text("This is an example that might be a little short, but will be sufficent as a text. This is an example that might be a little short, but will be sufficent as a text. This is an example that might be a little short, but will be sufficent as a text. This is an example that might be a little short, but will be sufficent as a text.")
     print(str(score))
     
-    score = model.score("This is a examble tha might bee a little shirt, bot wall be subicent as a tax. This is an example that might be a little short, but will be sufficent as a text. This is a examble tha might bee a little shirt, bot wall be subicent as a tax.This is an example that might be a little short, but will be sufficent as a text.")
+    score = model.score_text("This is a examble tha might bee a little shirt, bot wall be subicent as a tax. This is an example that might be a little short, but will be sufficent as a text. This is a examble tha might bee a little shirt, bot wall be subicent as a tax.This is an example that might be a little short, but will be sufficent as a text.")
     print(str(score))
 
-    score = model.score("strange-quark fragmentation. While similar, the shapes are not nearly identical. While the similarity is an interesting observation, it may be coincidental, and likely can only be disentangled in a full QCD analysis, which is at this point ")
+    score = model.score_text("strange-quark fragmentation. While similar, the shapes are not nearly identical. While the similarity is an interesting observation, it may be coincidental, and likely can only be disentangled in a full QCD analysis, which is at this point ")
     print(str(score))
 
