@@ -3,3 +3,4 @@ numpy==1.21.4
 fastapi==0.68.2
 uvicorn
 langdetect==1.0.9
+regex==2021.11.10

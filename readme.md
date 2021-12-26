@@ -1,8 +1,8 @@
 # OCR Scorer
 
-This tool aims at evaluate the quality of the OCR for any text sources, without prior knowledge of the usage of an OCR or not, and in case of OCR usage without prior knowledge about the OCR used. 
+This tool aims at evaluating the quality of the OCR for any text sources, without prior knowledge of the usage of an OCR or not, and in case of OCR usage without prior knowledge about the OCR used. 
 
-We focus on technical and scientific texts/documents. The typical scenario is text mining on thousand/millions of scholar PDF, where many documents might have been OCRized decades ago and present extremely low quality. Detecting low quality OCRized documents make possible to re-OCRize them with modern tools and to apply text mining tools without considerable accuracy drop. However, the tool can be adapted and retrained easily to other types of documents and domains. 
+We focus on technical and scientific texts/documents. The typical scenario is text-mining on thousand/millions of scholar PDF, where many documents might have been OCRized decades ago and present unknown quality. Detecting low quality OCRized documents make possible to re-OCRize them with modern tools and to apply text mining tools without considerable accuracy drop. However, the tool can be adapted and retrained easily to other types of documents and domains. 
 
 The approach is based on a RNN Language Model (LM) learned from a corpus of technical and scientific texts in digital native form (no OCR). LM approach for OCR evaluation has been experimented in particular in (Popat, 2009), showing significantly more reliable accuracy than dictionary-based approach. While (Popat, 2009) was using N-gram character model, in this work, we use stronger character LM based on LSTM. Character LM supports open vocabulary which is adapted to OCR scoring. RNN offers manageable and close to SOTA implementation for Character LM. The normalized probability of OCRized text against the LM provides a quality score for the OCR.   
 

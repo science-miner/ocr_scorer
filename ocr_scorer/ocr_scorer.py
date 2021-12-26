@@ -9,6 +9,7 @@ import time
 
 from model_scorer import ModelScorer
 from utils import _load_config
+from unicode_utils import normalise_text
 
 import logging
 import logging.handlers
