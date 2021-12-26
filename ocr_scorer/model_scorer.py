@@ -16,6 +16,7 @@ import logging
 import logging.handlers
 
 from utils import _load_config
+from unicode_utils import normalise_text
 
 # default logging settings, will be override by config file
 logging.basicConfig(filename='client.log', filemode='w', level=logging.DEBUG)
@@ -36,9 +37,9 @@ class ModelScorer(object):
     use_spatial_information = False
 
     # model parameters (to be managed with a dedicated config)
-    batch_size = 256
+    batch_size = 512
     max_length = 128
-    epochs = 40
+    epochs = 100
     voc_size = 0
     UNK = 0
 
@@ -92,6 +93,7 @@ class ModelScorer(object):
         pos = 0
         segments = []
         next_chars = []
+        text = normalise_text(text)
         text = re.sub(r'([ \t\n\r]+)', ' ', text)
         text = text.strip()
         #print(text)
@@ -134,6 +136,8 @@ class ModelScorer(object):
                     X[batch_idx, i, self.UNK] = 1
                 else:
                     X[batch_idx, i, self.char_indices[segments[batch_idx][i]]] = 1
+        # see https://stackoverflow.com/questions/63489433/tensorflow-keras-appears-to-change-my-batch-size
+        # for weird predict chaging the batch size of the input 
         predictions = self.model.predict(X, batch_size=local_batch_size)
 
         # get probabilities for actual next chars
@@ -176,6 +180,7 @@ class ModelScorer(object):
                     segments = []
                     next_chars = []
                     text = text_file.read()
+                    text = normalise_text(text)
                     text = re.sub(r'([ \t\n\r]+)', ' ', text)
                     text = text.strip()
                     #print(text)
@@ -206,16 +211,16 @@ class ModelScorer(object):
 
     def build_model(self):
         '''
-        2 vanilla LSTM layers
+        vanilla LSTM layers
 
         stateful RNN makes sense in long sequence and anomaly detection, it is then required to
         fix the batch size in the input layer 
         '''
-
         self.model = keras.Sequential(
             [
                 keras.Input(shape=(self.max_length, self.voc_size), batch_size=self.batch_size),
-                #keras.Input(batch_shape=(self.batch_size,self.max_length, self.voc_size)),
+                layers.LSTM(self.voc_size, recurrent_dropout=0.2, return_sequences=True, stateful=True), 
+                layers.Dropout(0.2),
                 layers.LSTM(128, recurrent_dropout=0.2, return_sequences=True, stateful=True), 
                 layers.Dropout(0.2),
                 layers.LSTM(128, recurrent_dropout=0.2, stateful=True), 
@@ -233,6 +238,7 @@ class ModelScorer(object):
         print("\ntraining language model...")
         best_avg_loss = 10000
         best_model = None
+        best_epoch = 0
         for epoch in range(self.epochs):
             start_epoch_time = time.time()
             losses = []
@@ -252,22 +258,19 @@ class ModelScorer(object):
             new_loss = np.average(losses)
             print("\repoch {} - loss = {:.4f}, acc = {:.5f}, ({:.3f}s/{:.3f}s)".format(epoch, new_loss, np.average(accs), epoch_time, total_time))
 
-            if best_model == None:
-                best_model = self.model
+            if best_model == None or best_avg_loss > new_loss:
+                self.save()
                 best_avg_loss = new_loss
-            elif best_avg_loss > new_loss:
-                best_model = self.model
-                best_avg_loss = new_loss
+                best_epoch = epoch
 
-        self.model = best_model
+        # load best model
+        self.load()
         bpc = best_avg_loss / tf.constant(math.log(2))
         sys.stdout.write("bpc: ")
         tf.print(bpc, output_stream=sys.stdout)
         sys.stdout.write("\n")
 
-        # saving model
-        logging.info("saving model")
-        self.save()
+        print("best model: epoch", str(best_epoch))
 
     def evaluate(self):
         start_time = time.time()
@@ -327,12 +330,12 @@ if __name__ == '__main__':
 
     model.evaluate()
     
-    example1 = "This is an example that might be a little short, but will be sufficent as a text. This is an example that might be a little short, but will be sufficent as a text. This is an example that might be a little short, but will be sufficent as a text. This is an example that might be a little short, but will be sufficent as a text."
+    example1 = "This is an example that might be a little short, but will be sufficent as a text."
     print(example1)
     score = model.score_text(example1)
     print(str(score))
     
-    example2 = "This is a examble tha might bee a little shirt, bot wall be subicent as a tax. This is an example that might be a little short, but will be sufficent as a text. This is a examble tha might bee a little shirt, bot wall be subicent as a tax.This is an example that might be a little short, but will be sufficent as a text."
+    example2 = "This is a examble tha might bee a little shirt, bot wall be subicent as a tax. This is an example that might be a little short, but will be sufficent as a text. "
     print(example2)
     score = model.score_text(example2)
     print(str(score))
