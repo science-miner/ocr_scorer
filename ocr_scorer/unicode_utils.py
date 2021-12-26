@@ -9,7 +9,32 @@ The normalization replaces typical glyph variants of common punctuations/separat
 spaces by the standard white space, all bullet variations by '\u2022' etc. This will help any further text processing
 without any visible impact. 
 '''
-DASH_PATTERN = re.compile(r"\p{Pd}")
+
+# python re or regex do not seem to support unicode character class/property (or I did not find proper documentation on this)
+# and all my tries failed. So I enumerate the official code points of unicode properties. 
+dash_chars = r"[" \
+    + "\u002D" \
+    + "\u058A" \
+    + "\u05BE" \
+    + "\u1806" \
+    + "\u2010" \
+    + "\u2011" \
+    + "\u2012" \
+    + "\u2013" \
+    + "\u2014" \
+    + "\u2015" \
+    + "\u2E17" \
+    + "\u2E1A" \
+    + "\u2E3A" \
+    + "\u2E3B" \
+    + "\u301C" \
+    + "\u3030" \
+    + "\uFE58" \
+    + "\uFE63" \
+    + "\uFF0D" \
+    + "]"
+DASH_PATTERN = re.compile(dash_chars)
+
 NORMALISE_REGEX_PATTERN = re.compile(r"[ \n]+")
 
 # here are the 26 code points of the "official" stable
@@ -167,33 +192,43 @@ def normalise_text(text):
     if text == None:
         return None
 
+    if text == "\\":
+        return text
+
+    # in Python if the string ends with "\" or "\\", this is going to end badly with regex application here :)
+    # one backslash "\" should be replaced with "\\\\"
+    if text.endswith("\\\\"):
+        text += "\\\\"
+    elif text.endswith("\\"):
+        text += "\\\\\\"
+
     # normalise all horizontal space separator characters 
-    text = MY_WHITESPACE_PATTERN.sub(text, " ");
+    text = MY_WHITESPACE_PATTERN.sub(" ", text);
 
     # normalise all EOL - special handling of "\r\n" as one single newline
-    text = text.replace("\r\n", "\n")
-    text = NEW_LINE_CHARS_PATTERN.sub(text, "\n")
+    text = text.replace("\r\n", r"\n")
+    text = NEW_LINE_CHARS_PATTERN.sub("\n", text)
 
     # normalize dash via the unicode dash punctuation property
-    text = DASH_PATTERN.sub(text, "-")
+    text = DASH_PATTERN.sub("-", text)
 
     # normalize horizontal low lines
-    text = HORIZONTAL_LOW_LINES_CHARS_PATTERN.sub(text, "_")
+    text = HORIZONTAL_LOW_LINES_CHARS_PATTERN.sub("_", text)
 
     # normalize vertical lines
-    text = VERTICAL_LINES_CHARS_PATTERN.sub(text, "|")
+    text = VERTICAL_LINES_CHARS_PATTERN.sub("|", text)
 
     # bullet normalisation
-    text = BULLET_CHARS_PATTERN.sub(text, "•")
+    text = BULLET_CHARS_PATTERN.sub("•", text)
 
     # opening parenthesis normalisation
-    text = OPEN_PARENTHESIS_PATTERN.sub(text, "(")
+    text = OPEN_PARENTHESIS_PATTERN.sub("(", text)
 
     # closing parenthesis normalisation
-    text = CLOSE_PARENTHESIS_PATTERN.sub(text, ")")
+    text = CLOSE_PARENTHESIS_PATTERN.sub(")", text)
 
     # remove all control charcaters?
-    # text = re.replace(r"\p{Cntrl}", text, " ")
+    # text = re.replace(r"\p{Cntrl}", " ", text)
 
     return text;
     
@@ -207,3 +242,55 @@ but in addition also replace any spaces+EOL sequences by a single space
 def normalise_text_and_collapse_spaces(text):
     # parano sanitising
     return NORMALISE_REGEX_PATTERN.matcher(normaliseText(text)).replaceAll(" ")
+
+
+if __name__ == '__main__':
+    # run some test
+    string = "‑‒–—―"
+    string = normalise_text(string)
+    if string != "-----":
+        print("error: failed to normalized dash pattern", "‑‒–—―", string)
+    else:
+        print("full dash text pass")
+
+    string = "—―"
+    string = normalise_text(string)
+    if string != "--":
+        print("error: failed to normalized dash pattern", "—―", string)
+    else:
+        print("double dash text pass")
+
+    string = "‒"
+    string = normalise_text(string)
+    if string != "-":
+        print("error: failed to normalized dash pattern", "‒", string)
+    else:
+        print("single dash text pass")
+
+    string = "•‣◦⁃⁌⁍∙◘⦾⦿⏺●⚫⬤·"
+    string = normalise_text(string)
+    if string != "•••••••••••••••":
+        print("error: failed to normalized dash pattern", "•‣◦⁃⁌⁍∙◘⦾⦿⏺●⚫⬤·", string)
+    else:
+        print("full bullet text pass")
+
+    string = "//"
+    string = normalise_text(string)
+    if string != "//":
+        print("error: failed to normalized single backslas pattern", "//", string)
+    else:
+        print("single backslash text pass")
+
+    string = r"/"
+    string = normalise_text(string)
+    if string != r"/":
+        print("error: failed to normalized raw single backslash pattern", r"/", string)
+    else:
+        print("raw single backslash text pass")
+
+    string = "////"
+    string = normalise_text(string)
+    if string != "////":
+        print("error: failed to normalized double backslash  pattern", "////", string)
+    else:
+        print("double backslash text pass")

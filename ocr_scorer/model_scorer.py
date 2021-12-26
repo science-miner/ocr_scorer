@@ -77,6 +77,9 @@ class ModelScorer(object):
                 if line.startswith("#") and line.find("\t") == -1:
                     continue
                 char = line[0]
+                # keep the character in line with the normalization
+                # if character is normalized into another character, it is not added to the vocabulary
+                char = normalise_text(char)
                 if not char in self.chars:
                     self.chars.append(char)
 
