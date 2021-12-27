@@ -39,7 +39,7 @@ class ModelScorer(object):
     # model parameters (to be managed with a dedicated config)
     batch_size = 512
     max_length = 128
-    epochs = 100
+    epochs = 60
     voc_size = 0
     UNK = 0
 
@@ -224,14 +224,15 @@ class ModelScorer(object):
                 keras.Input(shape=(self.max_length, self.voc_size), batch_size=self.batch_size),
                 layers.LSTM(self.voc_size, recurrent_dropout=0.2, return_sequences=True, stateful=True), 
                 layers.Dropout(0.2),
-                layers.LSTM(128, recurrent_dropout=0.2, return_sequences=True, stateful=True), 
-                layers.Dropout(0.2),
+                #layers.LSTM(128, recurrent_dropout=0.2, return_sequences=True, stateful=True), 
+                #layers.Dropout(0.2),
                 layers.LSTM(128, recurrent_dropout=0.2, stateful=True), 
                 layers.Dropout(0.2),
                 layers.Dense(self.voc_size, activation="softmax"),
             ]
         )
-        optimizer = keras.optimizers.RMSprop(learning_rate=0.01)
+        #optimizer = keras.optimizers.RMSprop(learning_rate=0.01, clipnorm=1)
+        optimizer = keras.optimizers.Adam(learning_rate=0.01, clipnorm=1)
         self.model.compile(loss="categorical_crossentropy", optimizer=optimizer, metrics=['accuracy'])
 
     def train(self):
