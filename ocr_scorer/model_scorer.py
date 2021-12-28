@@ -327,8 +327,8 @@ if __name__ == '__main__':
 
     model = ModelScorer(lang, config, False)
     model.build_model()
-    model.train()
-    model.save()
+    #model.train()
+    #model.save()
     
     model.load()
 

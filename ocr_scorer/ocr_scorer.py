@@ -1,9 +1,11 @@
+import os
+os.environ['TF_CPP_MIN_LOG_LEVEL'] = '3' 
+
 from tensorflow import keras
 from tensorflow.keras import layers
 
 import numpy as np
 import random
-import os
 import argparse
 import time
 
@@ -16,6 +18,7 @@ import logging.handlers
 
 # default logging settings, will be override by config file
 logging.basicConfig(filename='client.log', filemode='w', level=logging.DEBUG)
+
 
 class OCRScorer(object):
 
