@@ -1,10 +1,12 @@
+import os
+
 from tensorflow import keras
 from tensorflow.keras import layers
 import tensorflow as tf
+tf.get_logger().setLevel('ERROR')
 
 import numpy as np
 import random
-import os
 import sys
 import argparse
 import re

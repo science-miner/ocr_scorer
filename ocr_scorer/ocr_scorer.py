@@ -1,8 +1,8 @@
 import os
-os.environ['TF_CPP_MIN_LOG_LEVEL'] = '3' 
 
 from tensorflow import keras
 from tensorflow.keras import layers
+tf.get_logger().setLevel('ERROR')
 
 import numpy as np
 import random
