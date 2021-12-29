@@ -1,0 +1,2068 @@
+
+	
+
+		
+
+	
+
+	
+
+Note: Within nine months from the publication of the mention of the grant of the European patent, any person may give 
+notice to the European Patent Office of opposition to the European patent granted. Notice of opposition shall be filed in 
+a written reasoned statement. It shall not be deemed to have been filed until the opposition fee has been paid. (Art. 
+99(1) European Patent Convention). 
+
+Printed by Jouve, 75001 PARIS (FR) 
+
+(19) 
+
+EP 0 973 538 B1 
+
+(Cont. next page) 
+
+&amp; 
+
+(11) 
+
+EP 0 973 538 B1 
+
+(12) 
+
+EUROPEAN PATENT SPECIFICATION 
+
+(45) Date of publication and mention 
+of the grant of the patent: 
+12.03.2008 Bulletin 2008/11 
+
+(21) Application number: 98914585.9 
+
+(22) Date of filing: 08.04.1998 
+
+(51) Int Cl.: 
+A61K 38/00 (2006.01) 
+A61K 38/17 (2006.01) 
+C07K 1/00 (2006.01) 
+C07K 5/00 (2006.01) 
+C07K 7/00 (2006.01) 
+C12N 5/00 (2006.01) 
+
+(86) International application number: 
+PCT/US1998/006936 
+
+(87) International publication number: 
+WO 1998/044938 (15.10.1998 Gazette 1998/41) 
+
+(54) MODIFIED PROTEINS WHICH BIND EXTRACELLULAR MATRIX COMPONENTS 
+
+SICH AN EXTRAZELLULÄRE MATRIXBESTANDTEILE ANBINDENDE MODIFIZIERTE PROTEINE 
+
+PROTEINES MODIFIEES SE FIXANT A DES COMPOSANTS DE MATRICE EXTRACELLULAIRES 
+
+(84) Designated Contracting States: 
+AT BE CH DE DK ES FI FR GB GR IE IT LI LU MC 
+NL PT SE 
+
+(30) Priority: 10.04.1997 US 837223 
+
+(43) Date of publication of application: 
+26.01.2000 Bulletin 2000/04 
+
+(73) Proprietor: UNIVERSITY OF SOUTHERN 
+CALIFORNIA 
+Los Angeles, CA 90033 (US) 
+
+(72) Inventors: 
+• HALL, Frederick, L. 
+Glendale, CA 91203 (US) 
+• GORDON, Erlinda, Maria 
+Glendale, CA 91203 (US) 
+• ANDERSON, W., French 
+San Marino, CA 91108 (US) 
+• STARNES, Vaughn, A. 
+Pasadena, CA 91107 (US) 
+
+(74) Representative: Schüssler, Andrea et al 
+Kanzlei Huber &amp; Schüssler 
+Truderinger Strasse 246 
+81825 München (DE) 
+
+(56) References cited: 
+EP-A-0 334 301 
+WO-A-94/06920 
+WO-A-96/30504 
+WO-A-96/31602 
+US-A-5 328 470 
+US-A-5 354 674 
+US-A-5 512 421 
+US-A-5 591 624 
+US-A-5 643 770 
+
+• KOZAK S L ET AL: "PING-PONG AMPLIFICATION 
+OF A RETROVIRAL VECTOR ACHIEVES HIGH-
+LEVEL GENE EXPRESSION: HUMAN GROWTH 
+HORMONE PRODUCTION" JOURNAL OF 
+VIROLOGY, US, NEW YORK, US, vol. 64, no. 7, 1 
+July 1990 (1990-07-01), pages 3500-3508, 
+XP000616127 ISSN: 0022-538X 
+• VALSESIA-WITTMANN S ET AL: "IMPROVEMENT 
+OF RETROVIRAL RETARGETING BY USING 
+AMINO ACID SPACERS BETWEEN AN 
+ADDITIONAL BINDING DOMAIN AND THE N 
+TERMINUS OF MOLONEY MURINE LEUKEMIA 
+VIRUS SU" JOURNAL OF VIROLOGY, US, THE 
+AMERICAN SOCIETY FOR MICROBIOLOGY, vol. 
+70, no. 3, 1 March 1996 (1996-03-01), pages 
+2059-2064, XP000613624 ISSN: 0022-538X 
+• HALL F L ET AL: "Targeting retroviral vectors to 
+vascular lesions by genetic engineering of the 
+MoMLV gp70 envelope protein" HUMAN GENE 
+THERAPY, vol. 8, no. 18, 10 December 1997 
+(1997-12-10), pages 2183-2192, XP002116930 
+ISSN: 1043-0342 
+• NEDA et al., "Chemical Modification of an 
+Ecotropic Murine Leukemia Virus Results in 
+Redirection of its Target Cell Specificity", THE 
+JOURNAL OF BIOLOGICAL CHEMISTRY, 05 
+August 1991, Vol. 266, No. 22, pages 14143-14146, 
+XP002912706 
+• KASAHARA et al., "Tissue-Specific Targeting of 
+Retroviral Vectors Through Ligand-Receptor 
+Interactions", SCIENCE, 25 November 1994, Vol. 
+266, pages 1373-1376, XP002912707 
+
+
+2 
+
+EP 0 973 538 B1 
+
+• XIE et al., "Elements Within the First 17 Amino 
+Acids of Human Osteonectin Are Responsible for 
+Binding to Type V Collagen", THE JOURNAL OF 
+BIOLOGICAL CHEMISTRY, 05 April 1996, Vol. 
+271, No. 14, pages 8121-8125, XP002912708 
+
+
+EP 0 973 538 B1 
+
+3 
+
+5 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Description 
+
+[0001] This invention relates to a protein or polypeptide which is a modified retroviral envelope polypeptide. This 
+invention further relates to "targeted" retroviral vector particles. More particularly, this invention relates to retroviral vector 
+particles, having a modified retroviral envelope polypeptide that includes a targeting polypeptide including a binding 
+region which binds to an extracellular matrix component. The targeting polypeptide may be placed between two con-
+secutive amino acid residues of the viral surface protein, or may replace amino acid residues which have been removed 
+from the viral surface protein. The term "polypeptide" as used herein means a polymer of amino acids and does not 
+refer to any particular length of polymer. Such term also includes post-translationally modified polypeptides or proteins 
+(e.g., glycosylated, acetylated, phosphorylated, ect.). 
+
+BACKGROUND OF THE INVENTION 
+
+[0002] Retroviral vector particles are useful agents for introducing polynucleotides into cells, such as eukaryotic cells. 
+The term "introducing" as used herein encompasses a variety of methods of transferring polynucleotides into a cell, such 
+methods including transformation, transduction, transfection, and transinfection. 
+[0003] Retroviruses typically have three common open reading frames, gag, pol, and env, which encode the structural 
+proteins, encode enzymes including reverse transcriptase, and encode envelope proteins, respectively. Typically, ret-
+roviral vector particles are produced by packaging cell lines that provide the necessary gag, pol, and env gene products 
+in trans. (Miller, et al., Human Gene Therapy, vol. 1, pgs. 5-14 (1990)). This approach results in the production of retroviral 
+vector particles which transduce mammalian cells, but are incapable of further replication after they have integrated into 
+the genome of the cell. 
+[0004] Thus, retroviral vector particles have been used for introducing polynucleotides into cells for gene therapy 
+purposes. In one approach, cells are obtained from a patient, and retroviral vector particles are used to introduce a 
+desired polynucleotide into the cells, and such modified cells are returned to the patient with the engineered cells for a 
+therapeutic purpose. In another approach, retroviral vector particles may be administered to the patient in vivo, whereby 
+the retroviral vector particles transduce cells of the patient in vivo. 
+[0005] While the initial applications of human gene therapy have been performed in accessible sites and in target cells 
+that are manipulated readily ex vivo, it is anticipated that future gene therapy protocols will describe systemic delivery 
+of recombinant vectors for a wide variety of cardiovascular and other diseases. (Ledley, et al., Molecular Genetics and 
+Gene Therapy of Cardiovascular Disease, Mockrin, ed., Marcel Dekker, Inc., New York, pgs. 467-485 (1995); Nabel, 
+Circulation, Vol. 91, pgs. 541-548 (1995)). Development of the technologies associated with tissue targeting will expand 
+greatly the scope of gene therapy in cardiovascular and other fields of medicine. The effectiveness of retroviral vectors 
+for gene delivery to cardiovascular and other tissues is limited by the inefficiency of gene transfer into intact vascular 
+endothelium, the inactivation of retroviral vectors in vivo, and by the inability to localize effective vector concentrations 
+at remote physiological sites. Thus, the use of retroviral vectors in vivo for gene delivery to cardiovascular and other 
+tissues depends upon effective viral titer, stability, tissue targeting, and the ability to transduce vascular cells. Presently, 
+the targeted delivery of the therapeutic genes to impaired, diseased, or transplanted vasculature remains a major chal-
+lenge in the development of gene therapy protocols for cardiovascular disease. 
+[0006] WO-A-94/06920 concerns recombinant viruses displaying a nonviral polypeptide on their external surface. 
+[0007] WO-A-96/30504 concerns a retroviral vector particle having a modified envelope polypeptide wherein a portion 
+of the receptor binding region of the envelope is replaced with a targeting polypeptide which binds to a ligand or a 
+receptor on the targeted cells. 
+[0008] WO-A-96/31602 concerns a proteinaceous particle comprising a capsid enveloped by ecotropic Murine Leuke-
+mia virus envelope proteins. 
+
+SUMMARY OF THE INVENTION 
+
+[0009] Targeting of retroviral vectors can be divided into four separate processes: (i) delivery of concentrated viral 
+particles; (ii) docking of the virus to the target cell; (iii) internalization of the viral core; and (iv) expression of the desired 
+transgene. (Salmons, et al., Human Gene Therapy, Vol. 4, pgs. 129-141 (1993)). In contrast to previous approaches for 
+achieving tissue targeting by genetic engineering of the retroviral envelope protein to incorporate polypeptide ligands to 
+cellular receptors (Kasahara, et al., Science, Vol. 266, pgs. 1373-1376 (1994); Valseria-Wittmann, et al., J. Virol., Vol. 
+68, pgs. 4609-4619 (1994)) or single chain antibodies that recognize cell specific antigens (Russell, Nucl. Acids Res., 
+Vol. 21, pgs. 1081-1085 (1993); Cosset, et al., J. Virol., Vol. 69, pgs. 6314-6322 (1995); Somia, et al., Proc. Nat. Acad. 
+Sci., Vol. 92, pgs. 7570-7574 (1995), the present invention is directed to retroviral vectors, which are designed to utilize 
+the basic biology of wound healing to concentrate the delivery of therapeutic genes to sites of tissue injury. More 
+particularly, the present invention is directed to retroviral vector particles, having a modified viral surface protein, wherein 
+
+
+EP 0 973 538 B1 
+
+4 
+
+5 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+the viral surface protein, which is a retroviral envelope polypeptide, has been modified to include a targeting polypeptide 
+which includes a binding region which binds to an extracellular matrix component, whereby the targeting of the retroviral 
+vectors to an extracellular matrix component improves the specificity and/or local concentration of the vectors. The term 
+"extracellular matrix component", as used herein, means a molecule that occupies the extracellular spaces of tissues. 
+
+BRIEF DESCRIPTION OF THE DRAWINGS 
+
+[0010] The invention now will be described with respect to the drawings, wherein: 
+
+Figure 1A is a schematic of the receptor binding region of ecotropic gp70 protein (SEQ ID NO: 1), showing the 
+insertion of a polypeptide including a collagen-binding domain between amino acid residues 18 and 19; 
+Figure 1B is a schematic of the envelope structure and cloning strategy employed to insert a collagen-binding 
+polypeptide flanked by linker amino acid residues into the unique BstEII site within the N-terminal region of ecotropic 
+gp70 protein; 
+Figure 2A is a schematic diagram of the Moloney Murine Leukemia Virus envelope protein identifying the surface 
+(SU) and transmembrane (TM) polypeptides, as well as the signal peptide, auxiliary collagen-binding domain, mem-
+brane spanning and R peptide regions; 
+Figure 2B shows an SDS-PAGE demonstrating the expression, purification, and renaturation of a chimeric envelope 
+protein including a collagen-binding domain; 
+Figure 2C shows the binding of the renatured recombinant chimeric envelope protein in collagen-coated microtiter 
+wells; 
+Figure 3A shows mock transfected (control) GPL cells that exhibit no positive staining for gp70 envelope protein; 
+Figure 3B shows GPL cells transfected with CEE+, which expresses wild-type gp70; 
+Figure 3C shows GPL cells transfected with chimeric ECB-CEE+ plasmid DNA; 
+Figure 3D is a Western Blot showing co-migration of the chimeric ECB-CEE+ envelope protein with wild-type CEE+ 
+envelope protein, as well as co-migration of the gag proteins in the 30 kda region; 
+Figure 3E shows selective binding of chimeric viruses to collagen matrices in microtiter wells; 
+Figure 4A shows a cell culture plate showing positive staining for β-galactosidase in cultures transduced with viruses 
+bearing the chimeric ECB-CEE+ envelope protein, and negative staining in cultures transduced with wild-type CEE+, 
+and in non-transduced cultures; 
+Figure 4B shows NIH 3T3 cells at high magnification expressing β-galactosidase after transduction by the collagen-
+bound vector bearing the chimeric ECB-CEE+ envelope; 
+Figure 4C is a graph of the transduction efficiency of viruses bearing the chimeric ECB-CEE+ protein in the presence 
+of normal human serum; 
+Figure 5A shows an untreated catheter-injured segment of mouse aorta; 
+Figure 5B shows a higher magnification of a portion of the catheter-injured segment shown in Figure 5A; 
+Figure 5C depicts binding of the ECB-CEE+ chimeric envelope protein to an injured segment of mouse aorta; 
+Figure 5D shows the absence of binding of the ECB-CEE+ chimeric envelope protein to a non-injured segment of 
+mouse aorta; 
+Figure 5E shows binding of the ECB-CEE+ chimeric envelope protein to an injured inferior vena cava segment; 
+Figure 5F shows in vivo transduction of chondrocytes by an ECB-CEE+ virus as demonstrated by expression of 
+nuclear targeted β-galactosidase after injection of vector supernatant into the tail of a newborn mouse; 
+Figure 6A shows the gross appearance of a segment of the left common carotid artery (dissected longitudinally) of 
+a rat at 9 days after balloon catheter injury and 2 days after instillation of ECB-CEE+ vector supernatant (titer: 8 x 
+10 5 cfu/ml). The bracketed area shows the actual site of vascular injury and in vivo transduction. The arterial segment 
+to the right of the bracketed area was not injured but was exposed to the same vector. A short segment of the right 
+carotid artery is shown (lower right) as a non-injured, untreated control; 
+Figure 6B shows low power (10x) magnification of a formalin-fixed longitudinal section of an injured rat common 
+carotid artery, following x-gal staining. Numerous cells (arrows) with blue-staining nuclei are noted along the length 
+of the tunica media; 
+Figure 6C shows high power magnification of a segment of arterial wall (bracketed area in Figure 6B) showing 
+smooth muscle cells expressing the nuclear-targeted β-galactosidase transgene (arrows point to cells with prominent 
+blue nuclei); 
+Figure 7 is a Western Blot of cell lysates of 293T cells infected with the retrioval vectors CEE+, ECB-CEE+, CAE, 
+ECB-CEE+CAE, or mock-infected (control); 
+Figure 8 shows the results of fluorescence-activated cell sorting (FACS) of 293T cells infected with CEE+, ECB-
+CEE+, CAE, ECB-CEE+. CAE, or mock-infected (control); 
+Figure 9 shows the results of fluorescence-activated cell sorting of 293T cells and CH010 cells infected with CEE+, 
+
+
+EP 0 973 538 B1 
+
+5 
+
+5 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ECB-CEE+, CAE, ECB-CEE+CAE, or mock-infected (control); 
+Figure 10 shows the results of an ELISA assay for collagen-binding affinity of the CAB and ECB-CEE+.CAE vectors; 
+Figure 11 shows sections of the left common carotid arteries of mice which were treated either with the retrovial 
+vector CAE or the retrovial vector ECB-CEB+, CAE; 
+Figure 12 shows sections of injured human saphenous vein segments treated with CAE or ECB-CEE+, CAE; and 
+Figures 13A and B show human atherosclerotic plaques treated with the chimeric envelope protein SU-ECB-CEE+ 
+or buffer (control), respectively. 
+
+DETAILED DESCRIPTION OF THE INVENTION 
+
+[0011] In accordance with an aspect of the present invention, there is provided a retroviral vector particle having a 
+modified viral surface protein, which is a modified retroviral envelope polypeptide or protein, for targeting the vector 
+particle to an extracellular matrix component. The viral surface protein is modified to include a targeting polypeptide 
+including a binding region which binds to an extracellular matrix component. 
+[0012] Vector particles which have a modified surface protein include any retroviral vector particle which may be 
+employed for gene transfer to cells in vivo, ex vivo, or in vitro, or for gene therapy. The targeting polypeptide may be 
+placed in any region of any viral surface protein. The targeting polypeptide, in one embodiment, may be placed between 
+two consecutive amino acid residues of a viral surface protein. Alternatively, amino acid residues of a viral surface protein 
+are removed and replaced with the targeting polypeptide. 
+[0013] In one embodiment, the viral vector particle is a retroviral vector particle. Any portion of the retroviral envelope 
+may be modified to include the targeting polypeptide. In one embodiment, the receptor binding region of the retroviral 
+envelope is modified to include the targeting polypeptide. 
+[0014] In one embodiment, the targeting polypeptide is inserted between two consecutively numbered amino acid 
+residues of the native (i.e., unmodified) receptor binding region of the retroviral envelope. In another embodiment, amino 
+acid residues of the receptor binding region may be removed and replaced with the targeting polypeptide. In one em-
+bodiment, prior to modification, the receptor binding region has the sequence (SEQ ID NO: 1), which is the receptor 
+binding region of an ecotropic retroviral envelope. In the modified envelope polypeptide, the targeting polypeptide is 
+inserted between amino acid residues 18 and 19 of (SEQ ID NO: 1). In another embodiment, in the modified envelope 
+polypeptide, the targeting polypeptide is inserted between amino acid residues 6 and 7 of (SEQ ID NO: 1). 
+[0015] The polypeptide (SEQ ID NO: 1) is a portion of a protein known as gp70, which is included in the ecotropic 
+envelope of Moloney Murine Leukemia Virus. In general, gp70 protein includes the following regions: (i) the secretory 
+signal or "leader" sequence; (ii) the receptor binding region; (iii) the hinge region; and (iv) the body portion. (SEQ ID NO: 
+1) is the receptor binding region of the ecotropic envelope of Moloney Murine Leukemia Virus. Applicants have found 
+that retroviruses can be made "targetable" to an extracellular matrix component if the receptor binding region is modified 
+such that the receptor binding region includes a polypeptide which binds to an extracellular matrix component. 
+[0016] As an alternative to modifying the receptor binding region, or in addition to the modified receptor binding region, 
+the retroviral particles may have modifications in other regions of the envelope protein such that other regions of the 
+envelope may include the targeting polypeptide, such as, for example, the secretory signal or "leader" sequence, the 
+hinge region, or the body portion. Such modifications may include deletions or substitutions of amino acid residues in 
+the retroviral envelope wherein amino acid residues from regions other than the receptor binding region of the envelope 
+are removed and replaced with the targeting polypeptide, or the targeting polypeptide is placed between consecutively 
+numbered amino acid residues of regions other than the receptor binding region of the viral envelope. 
+[0017] In another alternative embodiment, the retroviral envelope, prior to modification thereof to include the targeting 
+polypeptide which binds to the extracellular matrix component, may be an envelope which includes regions of different 
+tropisms. For example, the retroviral envelope may be a Moloney Murine Leukemia Virus envelope which includes a 
+gp70 protein having an ecotropic portion and an amphotropic and/or xenotropic portion. 
+[0018] In another embodiment, the retroviral vector particle includes a first retroviral envelope and a second retroviral 
+envelope. Each of the first retroviral envelope and the second retroviral envelope includes a surface protein. The surface 
+protein includes (i) a receptor binding region; (ii) a hypervariable polyproline, or "hinge" region; and (iii) a body portion. 
+The receptor binding region, hypervariable polyproline region, and body portion are retained in the first retroviral envelope, 
+which in general, is free of non-retroviral peptides. In the second retroviral envelope, a targeting polypeptide including 
+a binding region which binds to an extracellular matrix component, as hereinabove described, is inserted betgween two 
+contiguous amino acid residues of the surface protein. 
+[0019] The first retroviral envelope may be an amphotropic envelope, an ecotropic envelope, or a xenotropic envelope. 
+Alternatively, the first retgroviral envelope may include regions of different tropisms. For example, in one embodiment, 
+the first retroviral envelope may include a surface protein which includes (i) an ecotropic receptor binding region; (ii) an 
+amphotropic hypervariable polyproline region; and (iii) an ecotropic body portion. 
+[0020] The second retroviral envelope may be an amphotropic envelope, an ecotropic envelope, or a xenotropic 
+
+
+EP 0 973 538 B1 
+
+6 
+
+5 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+envelope, or an envelope having different tropisms, as hereinabove described. 
+[0021] In one embodiment, the targeting polypeptide is placed between two consecutively numbered amino acid 
+residues of the receptor binding region of the retroviral envelope. In one embodiment, the receptor binding region of the 
+second retroviral envelope has the sequence (SEQ ID NO: 1), which is the receptor binding region of an ecotropic 
+retroviral envelope as hereinabove described. In the second retroviral envelope, the targeting polypeptide is inserted 
+between amino acid residues 18 and 19 of (SEQ ID NO: 1). In another embodiment, in the second retroviral envelope, 
+the targeting polypeptide is inserted between amino acid residues 6 and 7 of (SEQ ID NO: 1) . 
+[0022] As an alternative, inserting the targeting polypeptide in the receptor binding region of the second retroviral 
+envelope, the targeting polypeptide may be inserted in other regions of the envelope, such as the hinge region or the 
+body portion. 
+[0023] In general, the targeting polypeptide includes a binding region which binds to an extracellular matrix component, 
+which is collagen (including collagen Type I and collagen Type IV). Binding regions which may be included in the targeting 
+polypeptide include, but are not limited to, polypeptide domains which are functional domains within von Willebrand 
+Factor or derivatives thereof, wherein such polypeptide domains bind to collagen. In one embodiment, the binding region 
+is a polypeptide having the following structural formula. Trp-Arg-Glu-Pro-Ser-Phe-Met-Ala-Leu-Ser. (SEQ ID NO: 3). 
+[0024] Other binding regions which may be included in the viral envelope, include but are not limited to, the arginine-
+glycine-aspartic acid, or RGD, sequence, which binds fibronectin, and a polypeptide having the sequence Gly-Gly-Trp-
+Ser-His-Trp, which also binds to fibronectin. 
+[0025] In addition to the binding region, the targeting polypeptide may further include linker sequences of one or more 
+amino acid residues, placed at the N-terminal and/or C-terminal of the binding region, whereby such linkers increase 
+rotational flexibility and/or minimize steric hindrance of the modified envelope polypeptide. 
+[0026] It is to be understood, however, that the scope of the present invention is not to be limited to any specific 
+targeting polypeptide or binding region. 
+[0027] In accordance with another aspect of the present invention, there is provided a modified polynucleotide encoding 
+a modified viral surface protein for targeting a vector to an extracellular matrix component. Such polynucleotide includes 
+a polynucleotide encoding a targeting polypeptide including a binding region which binds to an extracellular matrix 
+component. The vector and modified viral surface protein may be selected from those hereinabove described. 
+[0028] In one embodiment, the vector is a retroviral vector, and the modified viral surface protein is a modified retroviral 
+envelope polypeptide. The envelope polypeptide includes a receptor binding region. In one embodiment, in the modified 
+polynucleotide, the polynucleotide encoding the receptor binding region is modified to include a polynucleotide encoding 
+a targeting polypeptide including a binding region which binds to an extracellular matrix component. 
+[0029] In one embodiment, prior to modification, the polynucleotide encoding the receptor binding region encodes a 
+receptor binding region having the sequence (SEQ ID NO: 1). In the modified polynucleotide, the polynucleotide encoding 
+the targeting polypeptide is inserted between the codon encoding amino acid residue 18 and the codon encoding amino 
+acid residue 19 of (SEQ ID NO: 1). In another embodiment, in the modified polynucleotide, the polynucleotide encoding 
+the targeting polypeptide is inserted between the codon encoding amino acid residue 6 and the codon encoding amino 
+acid residue 7 of (SEQ ID NO: 1). The receptor binding region having the sequence (SEQ ID NO: 1) is encoded by the 
+polynucleotide having (SEQ ID NO: 2) or a derivative or analogue thereof. 
+[0030] The term "derivative or analogue thereof" as used herein means that the polynucleotide encoding the polypeptide 
+(SEQ ID NO: 1) may have a sequence different from the polynucleotide (SEQ ID NO: 2), yet encode the same polypeptide. 
+Such differences in polynucleotide sequences may, for example, be due to the degeneration of the genetic code. It is 
+also contemplated within the scope of the present invention that, prior to the modification of (SEQ ID NO: 2) with a 
+polynucleotide encoding a targeting polypeptide, (SEQ ID NO: 2) may be modified such that one or more codons are 
+changed such that the codons modify different amino acid residues than the unmodified sequences. Such modifications 
+may facilitate the insertion of the polynucleotide encoding the targeting polypeptide. 
+[0031] The above polynucleotides may be constructed by genetic engineering techniques known to those skilled in 
+the art. For example, a first expression plasmid may be constructed which includes a polynucleotide encoding the 
+unmodified envelope. The plasmid then is engineered such that a polynucleotide encoding the targeting polypeptide is 
+inserted between two codons encoding consecutively numbered amino acid residues of the unmodified envelope, or is 
+engineered such that a polynucleotide encoding a portion of the unmodified envelope is removed, whereby such portion 
+may be replaced with a polynucleotide encoding the targeting polypeptide. The polynucleotide encoding the targeting 
+polypeptide may be contained in a second expression plasmid or may exist as a naked polynucleotide sequence. The 
+polynucleotide encoding the targeting polypeptide or the plasmid containing such polynucleotide is cut at appropriate 
+restriction enzyme sites and cloned into the first expression plasmid which also has been cut at appropriate restriction 
+enzyme sites. The resulting expression plasmid thus includes a polynucleotide encoding the modified envelope protein. 
+Such polynucleotide then may be cloned out of the expression plasmid, and into a retroviral plasmid vector. The resulting 
+retroviral plasmid vector, which includes the polynucleotide encoding the modified envelope protein, and which also may 
+include a polynucleotide encoding a heterologous protein or peptide, is transfected into an appropriate packaging cell 
+
+
+EP 0 973 538 B1 
+
+7 
+
+5 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+line to form a producer cell line for generating retroviral vector particles including the modified envelope protein. Alter-
+natively, a naked polynucleotide sequence encoding the modified envelope protein is transfected into a "pre-packaging" 
+cell line including nucleic acid sequences encoding the gag and pol proteins, thereby forming a packaging cell line, or 
+is transfected into a packaging cell line including nucleic acid sequences encoding the gag, pol, and wild-type (i.e., 
+unmodified) env proteins, thereby forming a packaging cell line including nucleic acid sequences encoding wild-type 
+env protein and the modified envelope protein. Such packaging cells then may be transfected with a retroviral plasmid 
+vector, which may include a nucleic acid sequence encoding a heterologous protein or peptide, thereby forming a 
+producer cell line for generating retroviral vector particles including the modified envelope protein. Such a polynucleotide 
+thus may be contained in the above-mentioned retroviral vector particle, or in a producer cell for generating the above-
+mentioned retroviral vector particle. 
+[0032] The term "polynucleotide" as used herein means a polymeric form (s) of nucleotide (s) of any length, and includes 
+ribonucleotides and/or deoxyribonucleotides. Such term also includes single-and double-stranded DNA, as well as 
+single-and double-stranded RNA. The term also includes modified polynucleotides such as methylated or capped 
+polynucleotides. 
+[0033] In a preferred embodiment, the vector particle having a modified envelope in accordance with the invention 
+includes a polynucleotide encoding a heterologous polypeptide which is to be expressed in a desired cell. The heterol-
+ogous polypeptide may, in one embodiment, be a therapeutic agent. The term "therapeutic" is used in a generic sense 
+and includes treating agents, prophylactic agents, and replacement agents. 
+[0034] Examples of therapeutic agents include, but are not limited to, cell cycle control agents, agents which inhibit 
+cyclin proteins, such as antisense polynucleotides to the cyclin G1 and cyclin D1 genes, growth factors such as, for 
+example, epidermal growth factor (EGF), vascular endothelial growth factor (VEGF), erythropoietin, G-CSF, GM-CSF, 
+TGF-α, TGF-β, and fibroblast growth factor, cytokines, including, but not limited to, Interleukins 1 through 13 and tumor 
+necrosis factors, anticoagulants, anti-platelet agents, anti-inflammatory agents, tumor suppressor proteins, clotting fac-
+tors, including Factor VIII and Factor IX, protein S, protein C, antithrombin III, von Willebrand Factor, cystic fibrosis 
+transmembrane conductance regulator (CFTR), and negative selective markers such as Herpes Simplex Virus thymidine 
+kinase. 
+[0035] It is to be understood, however, that the scope of the present invention is not to be limited to any particular 
+therapeutic agent. 
+[0036] The polynucleotide encoding the therapeutic agent is under the control of a suitable promoter. Suitable pro-
+moters which may be employed include, but are not limited to, the retroviral LTR; the SV40 promoter; the cytomegalovirus 
+(CMV) promoter; the Rous Sarcoma Virus (RSV) promoter; the histone promoter; the polIII promoter, the β-actin promoter; 
+inducible promoters, such as the MMTV promoter, the metallothionein promoter; heat shock promoters; adenovirus 
+promoters; the albumin promoter; the ApoAI promoter; B19 parvovirus promoters; human globin promoters; viral thymi-
+dine kinase promoters, such as the Herpes Simplex Virus thymidine kinase promoter; retroviral LTRs; human growth 
+hormone promoters, and the MxIFN inducible promoter. The promoter also may be the native promoter which controls 
+the polynucleotide encoding the therapeutic agent. It is to be understood, however, that the scope of the present invention 
+is not to be limited to specific foreign genes or promoters. 
+[0037] The polynucleotides encoding the modified envelope polypeptide and the therapeutic agent may be placed 
+into an appropriate vector by genetic engineering techniques known to those skilled in the art. When the modified vector 
+is a retroviral vector particle, the polynucleotides encoding the modified envelope polypeptide and the therapeutic agent 
+are placed into an appropriate retroviral plasmid vector. 
+[0038] In one embodiment, the retroviral plasmid vector may be derived from Moloney Murine Leukemia Virus and is 
+of the LN series of vectors, such as those hereinabove mentioned, and described further in Bender, et al., J. Virol., Vol. 
+61, pgs. 1639-1649 (1987) and Miller, et al., Biotechniques, Vol. 7, pgs 980-990 (1989). Such vectors have a portion of 
+the packaging signal derived from a mouse sarcoma virus, and a mutated gag initiation codon. The term "mutated" as 
+used herein means that the gag initiation codon has been deleted or altered such that the gag protein or fragments or 
+truncations thereof, are not expressed. 
+[0039] In another embodiment, the retroviral plasmid vector may include at least four cloning, or restriction enzyme 
+recognition sites, wherein at least two of the sites have an average frequency of appearance in eukaryotic genes of less 
+than once in 10,000 base pairs; i.e., the restriction product has an average DNA size of at least 10,000 base pairs. 
+Preferred cloning sites are selected from the group consisting of NotI, SnaBI, SalI, and XhoI. In a preferred embodiment, 
+the retroviral plasmid vector includes each of these cloning sites. Such vectors are further described in U.S. Patent No. 
+5,672,510. 
+[0040] When a retroviral plasmid vector including such cloning sites is employed, there may also be provided a shuttle 
+cloning vector which includes at least two cloning sites which are compatible with at least two cloning sites selected 
+from the group consisting of NotI, SnaBI, SalI, and XhoI located on the retroviral plasmid vector. The shuttle cloning 
+vector also includes at least one desired polynucleotide encoding a therapeutic agent which is capable of being transferred 
+from the shuttle cloning vector to the retroviral plasmid vector. 
+
+
+EP 0 973 538 B1 
+
+8 
+
+5 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[0041] The shuttle cloning vector may be constructed from a basic "backbone" vector or fragment to which are ligated 
+one or more linkers which include cloning or restriction enzyme recognition sites. Included in the cloning sites are the 
+compatible, or complementary cloning sites hereinabove described. Genes and/or promoters having ends corresponding 
+to the restriction sites of the shuttle vector may be ligated into the shuttle vector through techniques known in the art. 
+[0042] The shuttle cloning vector can be employed to amplify DNA sequences in prokaryotic systems. The shuttle 
+cloning vector may be prepared from plasmids generally used in prokaryotic systems and in particular in bacteria. Thus, 
+for example, the shuttle cloning vector may be derived from plasmids such as pBR322; pUC 18; etc. 
+[0043] The retroviral plasmid vector includes one or more promoters. Suitable promoters which may be employed 
+include, but are not limited to, the retroviral LTR; the SV40 promoter; and the human cytomegalovirus (CMV) promoter 
+described in Miller, et al., Biotechniques, Vol. 7, No. 9, 980-990 (1989) , or any other promoter (e.g., cellular promoters 
+such as eukaryotic cellular promoters including, but not limited to, the histone, pol III, and β-actin promoters). Other viral 
+promoters which may be employed include, but are not limited to, adenovirus promoters, TK promoters, and B19 par-
+vovirus promoters. The selection of a suitable promoter will be apparent to those skilled in the art from the teachings 
+contained herein. 
+[0044] In one embodiment, the retroviral plasmid vector, which includes a polynucleotide encoding the modified en-
+velope and a polynucleotide encoding a therapeutic agent, is employed to transduce a packaging cell line to form a 
+producer cell line, which will generate infectious retroviral vector particles. In one embodiment, the packaging cell line 
+is a "pre-packaging" cell line which includes polynucleotides encoding the gag and pol retroviral proteins, but not the 
+envelope, or env, protein. Examples of such "pre-packaging" cell lines include, but are not limited to, GP8 cells, GPL 
+cells, and GPNZ cells as described in Morgan, et al., J. Virol., Vol. 67, No. 8, pgs. 4712-4721 (August 1993). Such cell 
+lines, upon transduction with the retroviral plasmid vector, generates infectious retroviral particles including the modified, 
+or chimeric, envelope and a polynucleotide encoding the therapeutic agent. 
+[0045] In another embodiment, a retroviral plasmid vector which includes a polynucleotide encoding a modified poly-
+nucleotide encoding a modified envelope polypeptide in accordance with the invention and a polynucleotide encoding 
+a therapeutic agent is used to transduce a packaging cell line including nucleic acid sequences encoding the gag, pol, 
+and wild-type (i.e., unmodified) env retroviral proteins. Examples of such packaging cell lines include, but are not limited 
+to, the PE501, PA317 (ATCC No. CRL 9078), Ψ-2, Ψ-AM, PA12, T19-14X, VT-19-17-H2, ΨCRE, ΨCRIP, GP+E-86, 
+GP+envAm12, and DAN cell lines as described in Miller, Human Gene Therapy, Vol. 1, pgs. 5-14 (1990), which is 
+incorporated herein by reference in its entirety. The vector may transduce the packaging cells through any means known 
+in the art. Such means include, but are not limited to, electroporation, and use of liposomes, such as hereinabove 
+described, and CaPO 4 precipitation. Such producer cells generate infectious retroviral vector particles which include the 
+modified envelope, the wild-type retroviral envelope, a polynucleotide encoding the modified, or chimeric, envelope, and 
+a polynucleotide encoding a therapeutic agent. 
+[0046] In another embodiment, there is provided a packaging cell which includes a nucleic acid sequence encoding 
+a modified chimeric envelope in accordance with the invention, and which may further include nucleic acid sequences 
+encoding the gag and pol proteins. A producer cell for generating viral particles which includes a modified envelope in 
+accordance with the invention is produced by introducing into such packaging cell either a retroviral vector particle or a 
+retroviral plasmid vector, in each case including a polynucleotide encoding a therapeutic agent. The producer cell line 
+thus generates infectious retroviral particles including the modified chimeric envelope and the polynucleotide encoding 
+the therapeutic agent. 
+[0047] When the retroviral vector particle includes the first and second retroviral envelopes as hereinabove described, 
+such particle may be formed by transducing a packaging cell line as hereinabove described with a retroviral plasmid 
+vector including a polynucleotide encoding the second retroviral envelope and a polynucleotide encoding a therapeutic 
+agent. The packaging cell line thus becomes a producer cell line that generates retroviral vector particles including the 
+first and second retroviral envelopes, and a polynucleotide encoding a therapeutic agent. Alternatively, a pre-packaging 
+cell line may be transfected with an expression vehicle including a polynucleotide encoding the first retroviral envelope 
+and a retroviral plasmid vector including a polynucleotide encoding the second retroviral envelope and a polynucleotide 
+encoding a therapeutic agent. Such cells then generate retroviral vector particles having the first and second retroviral 
+envelopes as hereinabove described and a polynucleotide encoding a therapeutic agent. 
+[0048] The vector particles, which include the modified retroviral envelope, and a polynucleotide encoding a therapeutic 
+agent, may be administered to a host in an amount effective to produce a therapeutic effect in the host. The host may 
+be a mammalian host, which may be a human or non-human primate host. The vector particles, upon administration to 
+the host, become concentrated at a site of an exposed matrix component, which is collagen (including Type I collagen 
+and Type IV collagen), whereby the viral vector particles infect or transduce the cells at such site of the exposed 
+extracellular matrix component, and the infected or transduced cells express the therapeutic agent in vivo. The exact 
+dosage of vector particles which may be administered is dependent upon a variety of factors, including the age, sex, 
+and weight of the patient, the cells which are to be transduced, the therapeutic agent which is to be administered, and 
+the severity of the disorder to be treated. 
+
+
+EP 0 973 538 B1 
+
+9 
+
+5 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[0049] The vector particles may be administered systemically, such as, for example, by intravenous, intracolonic, 
+intratracheal, intraperitoneal, intranasal, intravascular, intrathecal, intraarterial, intracranial, intramarrow, intrapleural, 
+intradermal, subcutaneous, intramuscular, intraocular, intraosseous and/or intrasynovial administration. The vector par-
+ticles also may be administered topically. 
+[0050] Cells which may be infected or transduced with the vector particles of the present invention include, but are 
+not limited to, endothelial cells, tumor cells, chondrocytes, fibroblasts and fibroelastic cells of connective tissues; oste-
+ocytes and osteoblasts in bone; endothelial and smooth muscle cells of the vasculature; epithelial and subepithelial cells 
+of the gastrointestinal and respiratory tracts; vascular cells, connective tissue cells, and hepatocytes of a fibrotic liver, 
+and the reparative mononuclear and granulocytic infiltrates of inflamed tissues. 
+[0051] Diseases or disorders which may be treated with the vector particles of the present invention include, but are 
+not limited to, those associated with an exposed extracellular matrix component. Such diseases or disorders include, 
+but are not limited to, cardiovascular diseases; cirrhosis of the liver; and connective tissue disorders (including those 
+associated with ligaments, tendons, and cartilage), and vascular disorders associated with the exposition of collagen. 
+The vector particles may be used to deliver therapeutic genes to restore endothelial cell function and to combat thrombosis, 
+in addition to limiting the proliferative and fibrotic responses associated with neointima formation. The vector particles 
+also may be employed in treating vascular lesions; ulcerative lesions; areas of inflammation; sites of laser injury, such 
+as the eye, for example; sites of surgery; arthritic joints; scars; and keloids. The vector particles also may be employed 
+in wound healing. 
+[0052] The vector particles also may be employed in the treatment of tumors, including malignant and non-malignant 
+tumors. Although Applicants do not intend to be limited to any theoretical reasoning, tumors, when invading normal 
+tissues or organs, secrete enzymes such as collagenases or metalloproteinases which provide for the exposition of 
+extracellular matrix components. By targeting vector particles to such exposed extracellular matrix components, the 
+vector particles become concentrated at the exposed matrix components which are adjacent the tumor, whereby the 
+vector particles then infect the tumor cells. Such tumors include, but are not limited to, carcinomas; sarcomas, including 
+chondrosarcoma, osteosarcoma, and fibrosarcoma; and brain tumors. For example, a vector particle, such as a retroviral 
+vector particle, including a modified envelope protein, including a targeting polypeptide which binds to an extracellular 
+matrix component located at a tumor site, and a polynucleotide encoding a negative selective marker or "suicide" gene, 
+such as, for example, the Herpes Simplex Virus thymidine kinase (TK) gene, may be administered to a patient, whereby 
+the vector particles transduce the tumor cells. After the tumor cells are transduced with the vector particles, an interaction 
+agent, such as gancyclovir or acyclovir, is administered to the patient, whereby the transduced tumor cells are killed. 
+[0053] Other polynucleotides encoding anti-tumor agents which may be contained in the vector particles include, but 
+are not limited to, polynucleotides encoding cell cycle control agents, polynucleotides (such as, for example, antisense 
+polynucleotides) which bind to polynucleotides encoding cyclin G1 or cyclin D1, tumor suppressor proteins, anti-ang-
+iogenic factors, such as, for example, endothelial monocyte activating polypeptide-2 (EMAP-2), cytokines and growth 
+factors, which include those cytokines and growth factors hereinabove described. The vector particles including such 
+polynucleotides are administered to a patient, whereby the vector particles bind to an extracellular matrix component 
+located at a tumor site, and then transduce the tumor cells. Growth of the tumor cells is inhibited, suppressed, or destroyed 
+upon expression of the anti-tumor agent by the transduced tumor cells. 
+[0054] It is to be understood that the present invention is not to be limited to the treatment of any particular disease 
+or disorder. 
+[0055] The vector particles, which include the modified viral surface protein and a polynucleotide encoding a therapeutic 
+agent, may be administered to an animal in vivo as part of an animal model for the study of the effectiveness of a gene 
+therapy treatment. The vector particles may be administered in varying doses to different animals of the same species, 
+whereby the vector particles will bind to an extracellular matrix component in the animal. The animals then are evaluated 
+for the expression of the desired therapeutic agent in vivo in the animal. From the data obtained from such evaluations, 
+one may determine the amount of vector particles to be administered to a human patient. 
+[0056] The vector particles, which include the modified viral surface protein and a polynucleotide encoding a therapeutic 
+agent, may be concentrated from dilute vector stocks in vitro by contacting a dilute vector stock with an extracellular 
+matrix component to which the modified viral surface protein will bind. Such binding enables one to obtain a concentrated 
+stock of the vector particles. 
+[0057] In addition, the modified viral surface proteins of the present invention may be employed to form proteolipo-
+somes; i.e., the modified viral surface protein forms a portion of the liposome wall. Such proteoliposomes may be 
+employed for gene transfer or for drug delivery to cells located at a site of an exposed extracellular matrix component. 
+
+EXAMPLES 
+
+[0058] The invention now will be described with respect to the following examples; however, the scope of the present 
+invention is not intended to be limited thereby. 
+
+
+EP 0 973 538 B1 
+
+10 
+
+5 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Example 1 
+
+[0059] Cee+ is a CMV-env expression vector constructed by digesting CEE (Morgan, et al., J. Virol., Vol. 67, No. 8, 
+pgs. 4712-4721 (August 1993)) with HindIII and NotI, filling in the NotI site with a Klenow fragment, and ligating the 
+CMV-env cassette into pBluescript II SK + (Stratagene, La Jolla, California) digested with SmaI and HindIII. PCR and 
+recombinant DNA technologies then were employed to make the construct ECB-CEE+, which includes a polynucleotide 
+encoding a chimeric Moloney Murine Leukemia Virus based gp70 envelope protein that incorporates a high-affinity 
+collagen binding domain within its primary structure (Figure 1A). The modified collagen binding domain was derived 
+from a functional domain within von Willebrand Factor involved in the recognition of exposed vascular collagen sequences. 
+(Takagi, et al., Biochemistry, Vol. 32, pgs. 8530-8534 (1992); Tuan, et al., Conn. Tiss. Res., Vol. 34, pgs. 1-9 (1996)). 
+ECB-CEE+ incorporates a polypeptide which includes the collagen binding decapeptide WREPSFMALS. This construct 
+was designed specifically for targeting a retrovirus to collagen exposed by injury, inflammation, disease, or reparative 
+surgical procedures. The cysteine residue within the original von Willebrand Factor sequence was replaced conservatively 
+by a methionine, in order that the collagen binding domain would not interfere with the elaborate disulfide bond formation 
+required for the folding and/or renaturation of gp70. Flanking linkers also were designed to include glycine residues to 
+increase rotational flexibility and to minimize steric hindrances, while a histidine residue was included to promote an 
+external conformation of the collagen binding domain. The complete 19 amino acid polypeptide insert, which includes 
+the collagen binding decapeptide, is shown in Figure 1A and Figure 1B. 
+[0060] The construct ECBT-CEE+ includes the same components as ECB-CEE+ as well as a six amino acid residue 
+putative thrombin cleavage site, which has the sequence LVPRGS, between the collagen-binding domain and the 
+remainder of the envelope protein. 
+[0061] ECB-CEE+ and ECBT-CEE+ were constructed using PCR and recombinant DNA technologies as mentioned 
+above. The collagen binding decapeptide WREPSFMALS is encoded by the following polynucleotide: TGG CGC GAA 
+CCG AGC TTC ATG GCT CTG AGC. The following PCR primers in making ECB-CEE+ were employed. 
+Sense (CBD-S1): 5' -ATC ACC TGG GAG GTA ACC GGC CAT ATG TGG CGC-3' 
+Antisense (CBD-aS1): 5'-CG ATC TCC ATT GGT TAC CAA GCT AGC ACC GCT-3' 
+CBD-S1 also was employed in making ECBT-CEE+, along with the following antisense primer CBDT-aS2: 
+5'-CG ATC TCC ATT GGT TAC CAA GCT GCC GCG CGG CAC CAG ACC GCT CAG AGC-3' 
+[0062] Collagen binding domains with proper linkers were amplified by PCR using the primers CBDS1 and CBDaS1 
+or CBDS1 and CBDaS2, respectively (94°C 1 min, 55°C 10 min, 72°C 10 min., 35 cycles). The PCR bands then were 
+digested with BstEII. Cee+ was digested with BstEII, followed by dephosphorylation of the linearized Cee+ vector. The 
+digested PCR bands were ligated to the linearized Cee+ vector to form ECB-CEE+ and ECBT-CEE+. The proper 
+orientations of the cDNA constructs were confirmed by sequence analysis. 
+[0063] ECB-CEE+ was cut with NheI and EcoRI, and an NheI/ EcoRI fragment including a polynucleotide encoding a 
+modified ecotropic retroviral envelope was ligated to NheI and EcoRI digested plasmid pET28 (Tuan, et al. Conn. Tiss. 
+Res., Vol. 1, pgs. 1-9 (1996)) to form pET28SU-ECB-CEE+. Plasmid pET28SU-ECB-CEE+ includes a polynucleotide 
+encoding a chimeric fusion protein containing a contiguous series of functional domains-a His x 6 purification tag and a 
+von Willebrand Factor derived collagen binding domain within the envelope structure followed by the mature surface 
+(SU) region of MoMuLV env polypeptide, gp70, comprising amino acid residues 34 to 474, excluding the leader sequence. 
+(Figure 2A). As shown in Figure 2A, amino acid residues 1 to 33 are the leader sequence. Amino acid residue 34 of 
+Figure 2A corresponds to amino acid residue 1 in Figure 1A and (SEQ ID NO: 1). The ECB and ECB (T) inserts each 
+begin at amino acid residue 52. 
+[0064] Plasmid pET28SU-ECB-CEE+ was transformed into the BL21 (DE 3) strain of E. coli, and high level expression 
+of the recombinant proteins was induced in the presence of 1mM IPTG for 4 hours at 37°C. The induced recombinant 
+fusion protein was isolated from bacterial inclusion bodies, solubilized in 8M urea purified under denaturing conditions 
+by metal (nickel) chelate chromatography (Qiagen), renatured by slow dilution (1: 5) into Redox buffer (20 mM Tris HCl, 
+pH 8.0, 250 mM NaCl, 0.05% NP 40, 2 mM reduced glutathione, and 0.2 M oxidized glutathione), and refolded for 16 
+hours at 4°C, followed by dialysis in protracted steps into 20 mM Tris HCl, pH 5.0, 250 mM NaCl, clarified by centrifugation 
+at 10,000 xg, and stored at -70°C until used. SDS-PAGE which demonstrates the expression, purification, and renaturation 
+of the recombinant protein, is shown in Figure 2B. 
+[0065] Binding of the recombinant protein to collagen was determined as follows: 
+[0066] Approximately 1 Pg of the protein then was applied to collagen-coated microtiter plates and allowed to bind for 
+20 minutes followed by washing. The plates were incubated for 4 hours at room temperature at a primary antibody 
+dilution of 1: 1,000. A biotinylated goat antibody to rat IgG then was applied, followed by a strepavidin-horseradish 
+peroxidase conjugate. Diaminobenzidine (DAB) was used as a chromogen followed by nickel chloride enhancement for 
+microtiter plates. It also was shown that the renatured chimeric fusion protein bound to collagen matrices with high 
+affinity, was not washed away by PBS (Lane 1), 1 M NaCl (Lane 2), or 2M urea, and required at least 3M urea to release 
+the collagen-bound protein into solution (Figure 2C). 
+
+
+EP 0 973 538 B1 
+
+11 
+
+5 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[0067] ECB-CEE+ was transfected into GPL (Morgan, et al., 1993) and 293T (Pear, et al., Proc. Nat. Acad. Sci., Vol. 
+90, pgs. 8392-8396 (Sept. 1993); PCT Application No. WO94/19478, published September 1, 1994), pre-producer cells 
+by calcium phosphate precipitation, and the expression of the recombinant protein was monitored by immunocytochemical 
+detection, using the 83A25 rat monoclonal antibody (Evans, et al., J. Virol., Vol. 64, No. 12, pgs. 6176-6183 (1990)) 
+directed against the Moloney Murine Leukemia Virus envelope protein. Expression of the chimeric envelope protein 
+bearing the auxiliary collagen-binding domain was confirmed by immunocytochemical staining in both GPL and 293 
+cells (Figures 3A, 3B, and 3C). Figure 3A shows mock transfected GPL cells exhibiting no positive staining for gp70 
+envelope protein. Figure 3B shows GPL cells transfected with CEE+ (expressing wild type gp70). Brownish staining of 
+the gp70 envelope protein is shown within the transfected cells. Figure 3C shows GPL cells transfected with the chimeric 
+ECB-CEE+ env plasmid DNA. Positive staining for the chimeric gp70 protein is shown within the transfected cells. Thus, 
+the insertion of a collagen-binding sequence into the gp70 sequence did not inhibit expression of the envelope protein 
+in transfected cells. In 293T cells, cell surface expression of the chimeric envelope protein was detected by immunoflu-
+orescence using fluorescence activated cell sorting (FACS) analysis. (Kadan, et al., J. Virol., Vol. 66, pg. 2281 (1992); 
+Morgan, et al., J. Virol., Vol. 67, pg. 4712 (1993); Yu, et al., J. Virol., Vol. 69, pg. 6557 (1996)). The expression of the 
+chimeric gp70 protein also was confirmed by Western analysis (Figure 3D). The Western Blot shows co-migration of 
+the chimeric ECB-CEE+ envelope protein with the wild type CEE+ envelope protein (Mn of approximately 70 kDa bands), 
+as well as co-migration of the gag proteins in the 30 kDa region. 
+[0068] In order to generate retroviral stocks for further study, a transient three plasmid co-transfection system (Soneoka, 
+et al., Nucleic Acids Research, Vol. 23, pgs. 628-633 (1995)) was employed. 10 Pg each of (i) pHIT60; (ii) pHIT110 or 
+pHIT112; and (iii) CEE+ or ECB-CEE+ were delivered by transient transfection of 70% confluent 293T cells expressing 
+SV40 T-antigen in 10 cm culture dishes using calcium phosphate for 14-18 hours at 37°C, 5% CO 2 . Plasmid pHIT60, 
+provided by Dr. Paula Cannon, University of Oxford, Oxford, United Kingdom, includes the SV40 origin of replication 
+and the retroviral gag-pol gene under the control of a cytomegalovirus (CMV) promoter. Plasmid pHIT110, also provided 
+by Dr. Paula Cannon, includes a B-galactosidase (LacZ) gene under the control of a CMV promoter. Plasmid pHIT112, 
+provided by Ling Li, USC Gene Therapy Laboratories, Los Angeles, California, also includes a LacZ gene under the 
+control of a CMV promoter. Plasmids pHIT60, pHIT110 , and pHIT112 are described further in Soneoka, et al. The 
+cultures then were treated with 6 ml of 10 mM sodium butyrate for 10 to 12 hours to optimize viral production. (Soneoka, 
+et al.) The medium then was replaced with D10 and cultures were maintained at 37°C for another 12 hours before 
+harvesting the viral supernatants. 
+[0069] Viral titers were determined based on expression of the neomycin resistance and/or the β-galactosidase reporter 
+genes. 2.5x10 4 NIH 3T3 cells were plated in each of 6-well plates one day prior to transduction. The medium was 
+replaced with 1 ml of serial dilutions of viral supernatant with 8 Pg/ml Polybrene for 2 hours, after which 1 ml of fresh 
+D10 was added to the cultures, which then were maintained overnight at 37°C, 5% CO 2 , after which G418 (800 Pg/ml) 
+was added and G418-resistant colonies were counted 10 days later and expressed as G418-resistant colony-forming 
+units (cfu) /ml. For expression of β-galactosidase, the respective cultures were stained with X-gal 48 hours after trans-
+duction of NIH 3T3 cells. 
+[0070] Simultaneous introduction of the above-mentioned plasmids into 293T cells expressing the SV40 T-antigen, 
+followed by sodium butyrate treatment produced retroviral vector titers up to 8x10 6 cfu/ml, as determined by neo R and 
+β-galactosidase expression in NIH 3T3 cells. Suspended in cell culture supernatant, the viruses containing the chimeric 
+
+envelope sequence exhibited titers approaching that of wild-type virus under standardized conditions (relative titers: 
+0.66 0.42 of wild type, using pHIT110, n=4; 0.53 0.45 using a nuclear-targeted β-galactosidase vector, pcnBg, n=3), 
+indicating that the incorporation of the auxiliary collagen-binding domain did not impair substantially the infectivity of the 
+modified virus. The ECB-CEE+ viruses were collected and the affinity for collagen matrices was evaluated in comparison 
+to wild-type CEE+ viruses, using a modification of standard ELISA techniques. In the ELISA assay, 50 Pl of vector 
+supernatant (virus titer of 3.2 x 10 3 cfu/ml for ECB-CEE+ and 5.2 x 10 4 cfu/ml for CEE+) was applied to each collagen-
+coated microtiter well and allowed to bind for 20 minutes, followed by washing with 1 x PBS, followed by incubation for 
+4 hours at room temperature at a primary antibody dilution of 1: 1,000. A biotinylated goat antibody to rat IgG then was 
+applied followed by a streptavidin-horseradish peroxidase conjugate. Diaminobenzidine (DAB) was used as a chromogen 
+followed by nickel chloride enhancement for microtiter plates. After simple washing with physiological saline, only the 
+viruses bearing the chimeric env protein remained bound to collagen (Lane 1, dark staining wells) upon washing with 
+PBS, while the wild type CEE+ virions were removed. (Figure 3E.) 
+[0071] The capability of collagen matrices to concentrate the ECB-CEE+ retroviral vectors from dilute solutions was 
+examined first by applying retroviral supernatant to collagen coated 6-well culture plates, washing the culture plates with 
+physiological saline, and then seeding a monolayer of cells onto the washed plates. Specifically, 1.5 ml of vector super-
+natant bearing ECB-CEE+, wild-type CEE+, or buffer (viral titer: 4.4 x 10 3 cfu/ml for ECB-CEE+ and 9.1 x 10 4 for CEE+) 
+were incubated at 37°C in 6-well plates in which an island of collagen was applied (within a cloning ring), and washed 
+twice with 1X PBS. 1 x 10 5 NIH 3T3 cells, suspended in DMEM-10% FBS medium containing 8 Pg/ml Polybrene then 
+were plated into each well. The cultures were incubated at 37°C overnight, replaced with D10 medium not containing 
+
+
+EP 0 973 538 B1 
+
+12 
+
+5 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Polybrene, and stained with X-Gal after an additional 24 hours of incubation at 37°C. As shown in Figure 4A, the collagen-
+targeted retroviral vector remained bound to the collagen matrix under conditions in which the wild-type CEE+ was 
+washed away. From the transduction efficiencies (20-40%) observed in the NIH 3T3 cells overlaid upon the virus-bound 
+collagen (Figure 4B), the concentration effect observed under these conditions was at least two orders of magnitude 
+greater than the assayed titer of the original supernatants. 
+[0072] Based on previous observations that the biological half-life of collagen-targeted TGF-β1 fusion protein (Tuan, 
+et al., Conn. Tiss. Res., Vol. 34, pgs. 1-9 (1996)) may be extended by the physical association with collagen, it was 
+anticipated that the collagen-targeted retroviral vectors also may gain resistance to inactivation by serum components. 
+The comparative infectivity of ECB-CEE+ virions in the presence of normal human serum under standardized conditions 
+was examined. NIH 3T3 cells were assayed for β-galactosidase expression 48 hours following transduction with the 
+ECB-CEE+ vector or ECB-CEE+ in suspension. Prior to the transduction of NIH 3T3 cells, collagen-bound ECB-CEE+ 
+virions and ECB-CEE+ virions in suspension were exposed to 10% normal human serum for various time periods, 
+followed by complement inactivation at 50°C for 30 minutes. 
+[0073] More particularly, 50 Pl of ECB-CEE+ supernatant were applied three times to each collagen-coated well and 
+the viruses were incubated at 37°C for 30 minutes. Then, the collagen-bound vector was exposed to 10% normal human 
+serum for various time periods, after which 1 x 10 3 cells in D10, containing 8 Pg/ml Polybrene, were plated for 2 hours. 
+After replacement with fresh D10 medium, the cultures were incubated at 37°C in 5% for 48 hours after which the cultures 
+were stained with X-gal stain. For comparison, 50 Pl of ECB-CEE+ supernatant (ECB-CEE+ in suspension) initially were 
+exposed to 10% normal human serum for various time periods after which the samples were heated to 50°C to inactivate 
+complement, and then applied to 1 x 10 3 cells in non-coated wells, in the presence of 8 Pg/ml Polybrene overnight. 
+Medium then was replaced with fresh D10 medium, and cultures were maintained for 48 hours prior to X-gal staining. 
+Transduction efficiency was determined by counting the number of cells with blue-staining nuclei in a total of 300 cells. 
+Results are expressed as percent of transduction efficiency prior to incubation with normal human serum which parallels 
+that with heat-inactivated serum (n = 3 for each group). The significance of difference between the two groups was 
+tested by the Student's t-test. Transduction efficiency of ECB-CEE+ virions on collagen was greater than ECB-CEE+ 
+virions in suspension at 1 or 2 minutes of incubation with serum. 
+[0074] In contrast to the wild-type virus which is inactivated rapidly by serum components (Bartholomew, et al., J. Exp. 
+Med., Vol. 147, pgs. 844-853 (1978); Rother, et al., J. Exp. Med., Vol. 182, pgs. 1345-1355 (1995); Pensiero, et al., 
+Human Gene Therapy, Vol. 7, pgs. 1095-1101 (1996)), the ECB-CEE+ virions were more resistant, exhibiting appreciable 
+transduction efficiencies in the presence of normal human serum. (Figure 4C) Whereas the wild-type virus and ECB-
+CEE+ virions in suspension were inactivated within one minute of exposure to 10% normal human serum, the infectivity 
+of the collagen-bound virions was diminished but not abolished. The resistance of the ECB-CEE+ virions to serum 
+inactivation was found to be dependent upon their binding to collagen, rather than the modification of the envelope 
+protein itself, was responsible for this selective protection. 
+
+Example 2 
+
+[0075] A major advantage of gene therapy over conventional pharmacological therapy for cardiovascular disease is 
+the potential that transduction of vascular cells at specific sites will result in localized cellular effects and/or sustained 
+levels of protein production in target vascular cells. (Feldman, et al., Cardiovascular Res., Vol. 32, pgs. 194-207 (1996); 
+Gibbons, et al., N. Engl. J. Med., Vol. 330, pgs. 1431-1438 (1994).) Restenosis following vascular injury represents a 
+leading target for cardiovascular gene therapy on the basis of its high incidence (Glagov, Circulation, Vol. 89, pgs. 
+2888-2891 (1994); Schwartz, et al., Am. Coll. Cardiol., Vol. 17, pg. 1284 (1992); Myers, Wound Healing Responses in 
+Cardiovascular Disease, Weber, ed., Futura Publishing Co., Mt. Kisco, N.Y., pgs. 137-150 (1995)) and refractoriness 
+to conventional approaches (Hermans, et al., Am. Heart J., Vol. 122, pgs. 171-187 (1991); Popma, et al., Circulation, 
+Vol. 84, pgs. 1426-1436 (1991); Feldman, et al., Fundam. Clin. Pharmacol., Vol. 9, pgs. 8-16 (1995)). In order to investigate 
+the binding properties of the chimeric envelope protein to injured vis-a-vis non-injured vasculature, the purified, renatured 
+SU-ECB-CEE+ chimeric envelope protein was applied to a segment of normal mouse aorta or inferior vena cava (IVC) 
+and to aortic or venous segments wherein the endothelial layer had been denuded by the passage of a catheter. More 
+specifically, segments of aorta and inferior vena cava were isolated, and the lumens were washed with physiologic saline 
+to remove blood elements. The endothelium was denuded by several passages with a 2F Intimax embolectomy catheter, 
+inflated to a volume of 10 Pl, through the lumen of the vessel segments. 50 Pl of the purified chimeric envelope protein 
+or buffer (control) then was instilled into the lumen for 30 minutes at room temperature. The lumens of the vessel 
+segments then were washed twice with physiological saline, and the isolated segments then were placed in microfuge 
+tubes containing 200 Pl of chimeric envelope protein or buffer for another 30 minutes at room temperature. SU-ECB-
+CEE+ treated and untreated segments were frozen quickly in liquid nitrogen, and cryostat sections were fixed in acetone 
+for immunohistochemical staining to detect the collagen-bound chimeric envelope protein. Figure 5A shows a catheter-
+injured aortic segment that was not treated. Figure 5B shows a higher magnification of the segment shown in Figure 
+
+
+EP 0 973 538 B1 
+
+13 
+
+5 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+5A. Figure 5C shows binding of the chimeric SU-ECB-CEE+ envelope protein (red-staining material) to an injured aortic 
+segment. Figure 5D shows the absence of chimeric envelope protein binding in a non-injured treated aortic segment. 
+Figure 5E shows binding of the chimeric envelope protein (red-staining material) to an injured inferior vena cava segment. 
+In these experiments, about 1 Pg of renatured SU-ECB-CEE+ protein was instilled into the injured and non-injured aortic 
+segments followed by flushing with physiological saline. The injured and non-injured segments then were frozen in liquid 
+nitrogen, and acetone-fixed cryostat sections then were subjected to immunocytochemical analysis, using the 82A25 
+monoclonal antibody to gp70 and an immunoperoxidase detection system. 
+[0076] Collagen-coated microtiter plates and cryostat sections of treated or untreated, injured or non-injured aortic or 
+inferior vena cava segments were incubated for 4 hours at room temperature at a primary antibody dilution of 1: 1,000. 
+A biotinylated goat antibody to rat IgG then was applied, followed by a strepavidin-horseradish peroxidase conjugate. 
+Diaminobenzidine (DAB) was used as a chromogen, followed by nickel chloride enhancement for microtiter plates. 
+Histological slides were counterstained with hematoxylin. 
+[0077] As shown in Figures 5A through 5D, the collagen-targeted SU-ECB-CEE+ envelope protein bound selectively 
+to the subendothelial layer exposed by catheter injury and did not bind to the non-injured aortic segment. Likewise, the 
+chimeric envelope protein bound selectively to the subendothelium of the injured vena cava (Figure 5E). 
+[0078] The infectivity of ECB-CEE+ virions was demonstrated for the first time in vivo in the proliferative tissues of a 
+newborn mouse. Figure 5F shows the in vivo transduction by ECB-CEE+ virions by the expression of the nuclear-targeted 
+B-galactosidase transgene in chondrocytes (blue staining nuclei) after injection of vector supernatant (titer = 1 x 10 3 ) 
+into the tail of a newborn mouse. 
+[0079] In order to investigate further the performance of the collagen-targeted retroviral vector in vivo, the transduction 
+of vascular cells following balloon catheter injury in a rat model of vascular restenosis was examined. Under general 
+anesthesia (ketamine, 10 mg/kg; rompun, 5 mg/kg) in accordance with a protocol approved by the USC Institution Animal 
+Care and Use Committee, a 2F Intimax arterial embolectomy catheter (Applied Medical Resources Corp., Laguna Hills, 
+California) was used to denude the carotid artery endothelium of Wistar rats (each weighing 400 to 500 grams). The 
+catheter was inserted into an external carotid artery which was ligated distally, and passed into the common carotid 
+artery. The balloon was inflated to a volume of 10 Pl and passed three times along the length of the common carotid 
+artery. After the balloon injury, the embolectomy catheter was removed and the internal carotid artery was ligated 
+transiently just distal to the bifurcation. The distal half of the injured segment likewise was ligated transiently. Each rat 
+received an infusion of ECB-CEE+ vector supernatant (titers: 2 x 10 4 to 8 x 10 5 cfu/ml) at 4 to 7 days after balloon injury 
+after which the rats were allowed to recover, and fed a regular mouse/rat diet and water ad libitum. The rats were 
+sacrificed at the specified time by an overdose of sodium pentobarbital (120 mg/kg intramuscularly), and frozen sections 
+of injured carotid artery were stained with X-gal and Siris red stain. Histological sections were examined by light micro-
+scopy, for expression of nuclear-targeted β-galactosidase. As shown in Figure 6A, transduction of the arterial wall was 
+limited to the site of vascular injury (bracketed area). Histochemical analysis of formalin-fixed arterial segments (Figure 
+6B) revealed extensive penetration of the vector into the tunica media of the injured artery, evidenced by the transduction 
+of numerous smooth muscle cells. (Figures 6B and 6C.) These observations, in principle, demonstrate the utility of 
+genetically engineered retroviral envelope proteins to localize viral delivery to a specific locus of vascular injury. 
+
+DISCUSSION 
+
+[0080] Previous studies demonstrated the feasibility of utilizing retroviral vectors for direct gene transfer into arterial 
+wall (Nabel, et al., Science, Vol. 249, pgs. 1285-1288 (1990); Flugelman, et al., Circulation, Vol. 85, pgs. 1110-1117 
+(1992); Wilson et al., Science, Vol. 244, pgs. 1344-1346 (1989); Dichek, et al., Blood, Vol. 77, pgs. 533-541 (1991)). 
+The transduction efficiency, however, was found to be low (&lt;0.1%), due partly to the low rate of cell proliferation (required 
+for retroviral integration) found in the normal intact arterial wall and to the inability to obtain adequate amounts of high 
+titer (&gt;1 x 10 6 particles/ml) retroviral stocks required for efficient gene transfer (Nabel, Circulation, Vol. 91, pgs. 541-549 
+(1995)). The above examples describe the construction and performance of a collagen-targeted retroviral vector that 
+remains stable and infectious upon collagen binding. The physical association of the chimeric virion envelope protein 
+with collagen has ramifications in vitro and in vivo: In vitro, in terms of affinity purification and concentration of virus 
+stocks from dilute solutions, and in vivo, in terms of boosting the concentration-dependent delivery of therapeutic genes. 
+The data support the concept that the components of the extracellular matrix itself may be advantageous target com-
+ponents in future gene delivery strategies. Nonspecific binding of retroviral particles to fibronectin fragments has been 
+shown to increase the transduction efficiency of mammalian cells (Henenberg, et al. Nature Medicine, Vol. 2 pgs. 876-882 
+(1996)). High affinity targeting of growth factors (Tuan et al. Conn. Tiss. Res., Vol. 34, pgs. 1-9 (1996)) and retroviral 
+vectors to fibronectin may be used to facilitate gene delivery in the clinical management of wound healing. The above 
+examples also show that the close association with collagen rendered the virion less sensitive to inactivation by human 
+serum, which occurs presumably via complement-mediated mechanisms (Bartholomew et al., J. Exp. Med. Vol. 147, 
+pgs. 844-853 (1978); Rother et al., J. Exp. Med; Vol. 182 pgs. 1345-1355 (1995); Pensiero, et al., Human Gene Therapy, 
+
+
+EP 0 973 538 B1 
+
+14 
+
+5 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Vol. 7, pgs. 1095-1101 (1995)). This property of complement resistance may be a considerable utility in the design of 
+future injectable vectors. 
+[0081] Initially identified as a hemostatic factor in studies of inherited hemophilias (Wagner, Ann. Rev. Cell Biol., Vol. 
+6, pg. 217 (1990); Montgomery and Scott, Hematology of Infancy and Childhood; Nathan, et al. eds., Philadelphia, W.B 
+Saunders, Vol. 2, Ed. 4, pgs. 1605-1650 (1993)), von Willebrand factor performs a vital surveillance function by targeting 
+platelet aggregates to vascular lesions (Ginsburg and Bowie, Blood, Vol. 70, pgs. 2507-2519 (1992)). The transposition 
+of a collagen binding domain derived from von Willebrand factor to alter the distribution, concentration, and stability of 
+retroviral gene delivery vectors was demonstrated in the above examples. These collagen-targeted vectors may be used 
+to increase the efficiency of localized gene transfer, delivering therapeutic genes to restore endothelial cell function and 
+to combat thrombosis, in addition to limiting the proliferative and fibrotic responses associated with neointima formation. 
+The above mentioned targeted vectors could also have important implications in the design and efficacy of systemic 
+gene therapy strategies. The application of high efficiency targeting vectors that, like von Willebrand factor itself, perform 
+a surveillance function within the vasculature may represent a major advancement in the potential to treat coronary 
+artery disease and stroke. In that collagen is exposed by traumatic, inflammatory, ulcerative, and metastatic lesions, as 
+well as sites of surgical intervention, these targeted retroviral vectors provide new approaches to advance gene therapy 
+in other areas of surgical intervention. 
+
+Example 3 
+
+[0082] The plasmids (i) pHIT60; (ii) pHIT110 or pHIT112; (iii) ECB-CEE+; and (iv) pCAE (Morgan, et al., J. Virol., Vol. 
+67, No. 8, pgs. 4712-4721 (1993)), a plasmid including a polynucleotide encoding the wild-type amphotrophic envelope 
+protein, or pCEE, were transfected into 293T cells according to the procedures of Soneoka, et al., 1995, hereinabove 
+described. As a result, the retroviral vector ECB-CEE+.CAE, which co-expresses the wild-type amphotropic envelope 
+protein with the modified ecotropic envelope protein ECB-CEE+ was generated. Viral titers were determined by neomycin 
+resistance and B-galactosidase expression in NIH 3T3 cells as described in Example 1. Titers ranged from 10 5 to 10 7 
+cfu/ml. 
+[0083] The levels of expression of the envelope protein gp 70 and gag protein p30 in 293T cell lysates bearing the 
+vectors with wild-type CEE+, ECB-CEE+, wild-type CAE, and ECB-CEE+. CAE envelope proteins were evaluated by 
+Western Blot analysis. The 293T cells were transfected with the envelope expression plasmids, were lysed 48 hrs. later 
+in 500 Pl of lysis buffer for 10 minutes, and centrifuged at 10,000g to pellet nuclei. The cell lysates were resolved on a 
+precast 8 to 10% gel, and envelope protein precursor Pr85 and the processed surface protein subunit gp 70 were 
+detected by using a specific goat antiserum (Zhu, et al., Circulation, Vol. 96, pgs. 628-635 1997)) The Western Blot is 
+shown in Figure 7. As shown in Figure 7, Lane 1 is a control (mock-transfected), Lane 2 is wild-type CEE+, Lane 3 is 
+ECB-CEE+ alone, Lane 4 is wild-type CAE, and Lane 5 is ECB-CEE+. CAE. As shown in Figure 7, the ECB-CEE+. CAE 
+envelope protein was expressed efficiently in 293T cells, as were the wild-type CEE+ and CAE proteins, and ECB-CEE+ 
+alone. The co-expressed envelope protein retained its native quarternary structure and property. These data suggest 
+that the chimeric ecotropic envelope protein is co-expressed and processed with the wild-type amphotropic envelope 
+protein in 293T cells. 
+[0084] The level of cell surface envelope protein expression was measured by fluorescence-activated cell sorting 
+(FACS) analysis of transfected 293T cells which expressed the wild-type and chimeric envelope proteins. The 293T 
+cells transfected with the envelope protein expression vectors were incubated with a monoclonal antibody, 83A25, 
+against gp 70 (Evans, et al., 1990). The cells were washed and resuspended in 1: 100 fluorescence-labeled goat anti-
+rat antibody. The indirect immunofluorescence flow cytometry patterns for wild-type CEE+, ECB-CEE+, wild-type CAE, 
+and ECB-CEE+. CAE envelopes are shown in Figure 8. Results are expressed as relative fluorescence intensity. The 
+area of the negative control (mock-transfected 293T cells) is indicated to the left of the vertical line. As shown in Figure 
+8, the degree of cell surface expression of the collagen-targeted envelope proteins, ECB-CEE+ and ECB-CEE+. CAE 
+were similar to that of the wild-type envelope proteins CEE+ and CAE, indicated by a shift of relative fluorescence 
+intensity to the right of the negative vertical line. 
+[0085] Figure 9 shows viral binding to CHO 10 cells expressing only ecotropic receptors, and to 293T cells expressing 
+only amphotropic receptors. The indirect immunofluorescence flow cytometry patterns for target cells following virus 
+binding and incubation with monoclonal antibody 83A25 are shown. Results are expressed as relative fluorescence 
+intensity. The area of the negative control (mock-transfected cells) is indicated to the left of the vertical line. As shown 
+in Figure 9, the collagen-targeted virions co-expressing a chimeric ecotropic envelope and a wild-type amphotropic 
+envelope (ECB-CEE+. CAE), bound to both CHO10 cells and 293T cells (50% of both wild-type CEE+ and CAE; a mild 
+shift of relative fluorescence intensity to the right of the negative vertical line), indicating virion tropism for cells bearing 
+either the ecotropic or the amphotropic receptor, although to a lesser degree when compared with either wild-type CEE+ 
+or CAE. 
+[0086] Conferred binding affinity of collagen-targeted ECB-CEE+.CAE virions for collagen matrices was evaluated in 
+
+
+EP 0 973 538 B1 
+
+15 
+
+5 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+comparison with wild-type CAE virions, using a modification of standard ELISA techniques and a rat monoclonal antibody, 
+83A25, against the C-terminus of the gp 70 envelope protein (Hall, et al., Human Gene Therapy, Vol. 8, pgs. 2173-2182 
+(1997)). 1x10 6 cfu/ml each of the ECB-CEE+.CAE or wild-type CAE vector was incubated in collagen Type I-coated 
+plates for 30 minutes, followed by copious washes with PBS. The collagen-targeted virions, ECB-CEE+.CAE, as shown 
+in Figure 10, remained bound to collagen (dark-staining material) upon washing with PBS, while the wild-type CAE 
+bearing virions were removed. When plated in non-coated plastic wells, the collagen-targeted virions were washed away. 
+[0087] In duplicate experiments, 50 Pl of either ECB-CEE+.CAE vector or CAE vector (each having a titer of 1x10 5 
+cfu/ml) were instilled into the left common carotid artery of mice immediately following balloon catheter injury. After 48 
+hours, the animals were killed, and the treated arteries were isolated. Frozen tissue sections were stained with X-gal 
+stain for the presence of nuclear-targeted β-galactosidase, and counterstained with Siris red stain. No endogenous β-
+galactosidase activity was noted during the four-hour staining procedure in the non-treated arteries. Figure 11 shows 
+apparent transduction of intimal cells (having dark-staining nuclei) in the injured arterial segments which were treated 
+with the collagen-targeted ECB-CEE+.CAE vector. In contrast, no evidence of transduction was noted with the wild-type 
+CAE vector at the viral titer used. 
+[0088] Either the ECB-CEE+.CAE vector or the wild-type CAE vector, each at a titer of 2x10 6 cfu/ml, was added to 
+injured human saphenous vein segments in organ culture. Figure 12 shows minimal transduction (4%) of proliferating 
+smooth-muscle cells in the injured venous segment transduced with the wild-type CAE amphotropic vector. In contrast, 
+enhanced transduction (38%) of proliferating smooth-muscle cells was noted in the segment transduced with the collagen-
+targeted ECB-CEE+.CAE vector. Transduction efficiency has been expressed as % cells with dark-staining nuclei upon 
+staining with X-gal stain. 
+
+Example 4 
+
+[0089] Collagen types I and III, as well as types V and VI, are expressed in regions surrounding atherosclerotic plaques 
+(Van Zantan, et al., J. Clin. Invest., Vol. 93, pgs. 615-632 (1994)) The expression of collagens type I and type III is 
+responsible for the characteristic thrombogenicity, i.e., the reactivity to von willebrand Factor-associated platelets. Thus, 
+human atherosclerotic plaques from endarterectomies were obtained as Surgical discards. The plaques were washed 
+with physiological saline to remove blood elements. The plaques then were placed in 100 mm plastic Petri dishes 
+containing 5 ml of the chimeric envelope protein SU-ECB-CEE+ or buffer for 30 minutes at room temperature. Treated 
+and untreated specimens were frozen quickly in liquid nitrogen, and cryostat sections were fixed in acetone for immu-
+nohistochemical staining to detect the collagen-bound chimeric envelope protein (Evans, et al., 1990). 
+[0090] As shown in Figure 13, the collagen targeted envelope protein bound specifically to the shoulders of plaques. 
+Thus, targeted delivery of therapeutic genes to cells at these sites by the collagen-targeted virions could have considerable 
+therapeutic utility in the treatment of atherosclerosis. 
+
+SEQUENCE LISTING 
+
+[0091] 
+
+(1) GENERAL INFORMATION: 
+
+(i) APPLICANT: Hall, Frederick L. 
+Gordon, Erlinda M. 
+Anderson, W. French 
+Starnes, Vaughn A. 
+
+(ii) TITLE OF INVENTION: Modified Retroviral Envelope Polypeptides for Binding to Extracellular Matrix Com-
+ponents 
+
+(iii) NUMBER OF SEQUENCES: 3 
+
+(iv) CORRESPONDENCE ADDRESS: 
+
+(A) ADDRESSEE: Carella, Byrne, Bain, Gilfillan, Cecchi, Stewart &amp; Olstein 
+(B) STREET: 6 Becker Farm Road 
+(C) CITY: Roseland 
+(D) STATE: New Jersey 
+(E) COUNTRY: USA 
+
+
+EP 0 973 538 B1 
+
+16 
+
+5 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+(F) ZIP: 07068 
+
+(v) COMPUTER READABLE FORM: 
+
+(A) MEDIUM TYPE: 3.5 inch diskette 
+(B) COMPUTER: IBM PS/ 2 
+(C) OPERATING SYSTEM: MS-DOS 
+(D) SOFTWARE: Word Perfect 5.1 
+
+(vi) CURRENT APPLICATION DATA: 
+
+(A) APPLICATION NUMBER: 
+(B) FILING DATE: 
+(C) CLASSIFICATION: 
+
+(vii) PRIOR APPLICATION DATA: 
+
+(A) APPLICATION NUMBER: 08/837,223 
+(B) FILING DATE: 10-Apr-1997 
+
+(viii) ATTORNEY/ AGENT INFORMATION: 
+
+(A) NAME: Olstein, Elliot M. 
+(B) REGISTRATION NUMBER: 24,025 
+(C) REFERENCE/ DOCKET NUMBER: 271010-419 
+
+(ix) TELECOMMUNCIATION INFORMATION: 
+
+(A) TELEPHONE: 201-994-1700 
+(B) TELEFAX: 201-994-1744 
+
+(2) INFORMATION FOR SEQ ID NO: 1: 
+
+(i) SEQUENCE CHARACTERISTICS: 
+
+(A) LENGTH: 229 amino acids 
+(B) TYPE: amino acids 
+(C) STRANDEDNESS: 
+(D) TOPOLOGY: linear 
+
+(ii) MOLECULE TYPE: polypeptide 
+(ix) FEATURE: 
+
+(A) NAME/KEY: Receptor binding region of ecotropic gp70 protein 
+
+(xi) SEQUENCE DESCRIPTION: SEQ ID NO: 1: 
+
+
+EP 0 973 538 B1 
+
+17 
+
+5 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+EP 0 973 538 B1 
+
+18 
+
+5 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+(2) INFORMATION FOR SEQ ID NO: 2: 
+
+(i) SEQUENCE CHARACTERISTICS: 
+
+(A) LENGTH: 687 bases 
+(B) TYPE: nucleic acid 
+(C) STRANDEDNESS: single 
+(D) TOPOLOGY: linear 
+
+(ii) MOLECULE TYPE: polynucleotide 
+(ix) FEATURE: 
+
+(A) NAME/KEY: polynucleotide encoding receptor binding region of ecotropic gp70 protein 
+
+
+EP 0 973 538 B1 
+
+19 
+
+5 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+(xi) SEQUENCE DESCRIPTION: SEQ ID NO: 2: 
+
+(2) INFORMATION FOR SEQ ID NO: 3: 
+
+(i) SEQUENCE CHARACTERISTICS: 
+
+(A) LENGTH: 10 amino acids 
+(B) TYPE: amino acid 
+(C) STRANDEDNESS: 
+(D) TOPOLOGY: linear 
+
+(ii) MOLECULE TYPE: polypeptide 
+(ix) FEATURE: 
+
+(A) NAME/KEY: collagen-binding domain of von Willebrand Factor 
+
+(xi) SEQUENCE DESCRIPTION: SEQ ID NO: 3: 
+
+
+EP 0 973 538 B1 
+
+20 
+
+5 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Claims 
+
+1. A vector particle having a modified viral surface protein for targeting the vector particle to an extracellular matrix 
+component, wherein said viral surface protein is modified to include a targeting polypeptide including a binding 
+region which binds to an extracellular matrix component, wherein said vector particle is a retroviral vector particle, 
+the modified viral surface protein is a modified retroviral envelope and said extracellular matrix component is collagen. 
+
+2. The retroviral vector particle of claim 1 wherein said retroviral envelope includes a receptor binding region, wherein 
+said receptor binding region is modified to include a targeting polypeptide including a binding region which binds to 
+an extracellular matrix component. 
+
+3. The retroviral vector of claim 2, wherein prior to modification the receptor binding region of said envelope has the 
+sequence SEQ ID NO: 1, and in the modified polypeptide the targeting polypeptide is inserted between amino acid 
+residues 18 and 19 of SEQ ID NO: 1. 
+
+4. The retroviral vector of claim 1 wherein said binding region which binds to collagen has the following Structure: 
+Trp-Arg-Glu-Pro-Ser-Phe-Met-Ala-Leu-Ser. 
+
+5. The retroviral vector particle of any of claims 1 -4 wherein said retroviral vector particle includes a first retroviral 
+envelope and a second retroviral envelope, wherein each of said first retroviral envelope and said second retroviral 
+envelope includes (i) a receptor binding region; (ii) a hypervariable polyproline region; and (iii) a body portion; and 
+wherein said first retroviral envelope is free of non-retroviral peptides, and said second retroviral envelope is a 
+modified retroviral envelope wherein said targeting polypeptide is inserted between two contiguous amino acid 
+residues of said second retroviral envelope. 
+
+6. The retroviral vector particle of claim 5 wherein said targeting polypeptide is inserted between two consecutively 
+numbered amino acid residues of the receptor binding region of said second retroviral envelope. 
+
+7. The retroviral vector particle of claim 6 wherein prior to modification the receptor binding region of said second 
+retroviral envelope has the sequence SEQ ID NO: 1, and said targeting polypeptide is inserted between amino acid 
+residues 18 and 19 of SEQ ID NO: 1 . 
+
+8. A modified polynucleotide encoding a modified viral surface protein for targeting a vector to an extracellular matrix 
+component, wherein the modified polynucleotide includes a polynucleotide encoding a targeting polypeptide, said 
+targeting polypeptide including a binding region which binds to an extracellular matrix component, wherein said 
+modified polynucleotide encodes a modified retroviral envelope polypeptide and said extracellular matrix component 
+is collagen. 
+
+9. The modified polynucleotide of claim 8 wherein said retroviral envelope polypeptide includes a receptor binding 
+region, wherein, in the modified polynucleotide, the polynucleotide encoding the receptor binding region is modified 
+to include a polynucleotide encoding a targeting polypeptide including a binding region which binds to the extracellular 
+matrix component. 
+
+10. The modified polynucleotide of claim 9 wherein, prior to modification, the polynucleotide encoding the receptor 
+binding region encodes a receptor binding region having the sequence SEQ ID NO : 1 and in the modified polynu-
+cleotide, said polynucleotide encoding said targeting polypeptide is inserted between the codon encoding amino 
+acid residue 18 and the codon encoding amino acid residue 19. 
+
+11. A producer cell for producing a retroviral vector particle having a modified envelope polypeptide, said producer cell 
+including the modified polynucleotide of claim 8. 
+
+12. The retroviral vector particle of claim 1, further including at least one polynucleotide encoding a therapeutic agent. 
+
+13. Use of the retroviral vector particle of claim 12 for preparing a composition useful for gene therapy. 
+
+14. A modified retroviral envelope polypeptide wherein, prior to modification, the envelope includes a polypeptide having 
+the sequence SEQ ID NO: 1, and wherein, in the modified envelope, a targeting polypeptide including a binding 
+region which binds to an extracellular matrix component is inserted between amino acid residue 18 and amino acid 
+
+
+EP 0 973 538 B1 
+
+21 
+
+5 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+residue 19 of SEQ ID NO: 1, wherein said binding region binds to collagen. 
+
+15. The polypeptide of claim 14 wherein said binding region which binds to collagen has the following structure: 
+Trp-Arg-Glu-Pro-Ser-Phe-Met-Ala-Leu-Ser. 
+
+16. A retroviral plasmid vector including the modified polynucleotide of claim 8. 
+
+17. A method of generating retroviral vector particles, comprising: 
+
+(a) transfecting a cell line selected from the group consisting of (i) a pre-packaging cell line including polynu-
+cleotides encoding the gag and pol retroviral proteins; and (ii) a packaging cell line including polynucleotides 
+encoding the gag, pol, and env retroviral proteins with the retroviral plasmid vector of claim 16 to form a producer 
+cell line; and 
+(b) culturing said producer cell line to generate retroviral vector particles. 
+
+Patentansprüche 
+
+1. Vektorpartikel mit einem modifizierten viralen Oberflächenprotein zum Richten des Vektorpartikels auf eine extra-
+zelluläre Matrixkomponente, wobei das virale Oberflächenprotein so modifiziert ist, dass es ein Targeting-Polypeptid 
+mit einer an eine extrazelluläre Matrixkomponente bindenden Bindungsregion aufweist, wobei das Vektorpartikel 
+ein retrovirales Vektorpartikel ist, das modifizierte virale Oberflächenprotein eine modifizierte retrovirale Hülle ist 
+und die extrazelluläre Matrixkomponente Kollagen ist. 
+
+2. Retrovirales Vektorpartikel nach Anspruch 1, wobei die retrovirale Hülle eine Rezeptorbindungsregion aufweist, 
+wobei die Rezeptorbindungsregion so modifiziert ist, dass sie ein Targeting-Polypeptid mit einer an eine extrazelluläre 
+Matrixkomponente bindenden Bindungsregion aufweist. 
+
+3. Retroviraler Vektor nach Anspruch 2, wobei vor der Modifikation die Rezeptorbindungsregion der Hülle die Sequenz 
+SEQ ID NO: 1 aufweist und im modifizierten Polypeptid das Targeting-Polypeptid zwischen die Aminosäurereste 18 
+und 19 von SEQ ID NO: 1 eingefügt ist. 
+
+4. Retroviraler Vektor nach Anspruch 1, wobei die an Kollagen bindende Bindungsregion den folgenden Aufbau auf-
+weist: 
+Trp-Arg-Glu-Pro-Ser-Phe-Met-Ala-Leu-Ser. 
+
+5. Retrovirales Vektorpartikel nach einem der Ansprüche 1 bis 4, wobei das retrovirale Vektorpartikel eine erste retro-
+virale Hülle und eine zweite retrovirale Hülle aufweist, wobei die erste retrovirale Hülle und zweite retrovirale Hülle 
+jeweils (i) eine Rezeptorbindungsregion; (ii) eine hypervariable Polyprolinregion; und (iii) einen Körperabschnitt; 
+aufweisen und wobei die erste retrovirale Hülle frei von nicht retroviralen Peptiden ist und die zweite retrovirale Hülle 
+eine modifizierte retrovirale Hülle ist, wobei das Targeting-Polypeptid zwischen zwei benachbarte Aminosäurereste 
+der zweiten retroviralen Hülle eingefügt ist. 
+
+6. Retrovirales Vektorpartikel nach Anspruch 5, wobei das Targeting-Polypeptid zwischen zwei fortlaufend nummerierte 
+Aminosäurereste der Rezeptorbindungsregion der zweiten retroviralen Hülle eingefügt ist. 
+
+7. Retrovirales Vektorpartikel nach Anspruch 6, wobei vor der Modifikation die Rezeptorbindungsregion der zweiten 
+retroviralen Hülle die Sequenz SEQ ID NO: 1 aufweist und das Targeting-Polypeptid zwischen die Aminosäurereste 
+18 und 19 von SEQ ID NO: 1 eingefügt ist. 
+
+8. Modifiziertes Polynukleotid, das ein modifiziertes virales Oberflächenprotein zum Richten eines Vektors auf eine 
+extrazelluläre Matrixkomponente kodiert, wobei das modifizierte Polynukleotid ein Polynukleotid aufweist, das ein 
+Targeting-Polypeptid kodiert, wobei das Targeting-Polypeptid eine Bindungsregion aufweist, die an eine extrazel-
+luläre Matrixkomponente bindet, wobei das modifizierte Polynukleotid ein modifiziertes retrovirales Hüllpolypeptid 
+kodiert und die extrazelluläre Matrixkomponente Kollagen ist. 
+
+9. Modifiziertes Polynukleotid nach Anspruch 8, wobei das retrovirale Hüllpolypeptid eine Rezeptorbindungsregion 
+aufweist, wobei im modifizierten Polynukleotid das Polynukleotid, das die Rezeptorbindungsregion kodiert, derart 
+
+
+EP 0 973 538 B1 
+
+22 
+
+5 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+modifiziert ist, dass es ein Polynukleotid aufweist, das ein Targeting-Polypeptid kodiert, welches eine an die extra-
+zelluläre Matrixkomponente bindende Bindungsregion enthält. 
+
+10. Modifiziertes Polynukleotid nach Anspruch 9, wobei vor der Modifikation das Polynukleotid, das die Rezeptorbin-
+dungsregion kodiert, eine Rezeptorbindungsregion kodiert, die die Sequenz SEQ ID NO: 1 aufweist, und im modi-
+fizierten Polynukleotid das Polynukleotid, das das Targeting-Polypeptid kodiert, zwischen das Kodon, das den 
+Aminosäurerest 18 kodiert, und das Kodon, das den Aminosäurerest 19 kodiert, eingefügt ist. 
+
+11. Erzeugerzelle zum Erzeugen eines retroviralen Vektorpartikels mit einem modifizierten Hüllpolypeptid, wobei die 
+Erzeugerzelle das modifizierte Polynukleotid nach Anspruch 8 aufweist. 
+
+12. Retrovirales Vektorpartikel nach Anspruch 1, weiter mindestens ein Polynukleotid umfassend, das ein therapeuti-
+sches Mittel kodiert. 
+
+13. Verwendung des retroviralen Vektorpartikels nach Anspruch 12 zur Herstellung einer Zusammensetzung, die für 
+die Gentherapie von Nutzen ist. 
+
+14. Modifiziertes retrovirales Hüllpolypeptid, wobei vor der Modifikation die Hülle ein Polypeptid mit der Sequenz SEQ 
+ID NO: 1 aufweist und wobei in der modifizierten Hülle ein Targeting-Polypeptid mit einer Bindungsregion, die an 
+eine extrazelluläre Matrixkomponente bindet, zwischen den Aminosäurerest 18 und den Aminosäurerest 19 von 
+SEQ ID NO: 1 eingefügt ist, wobei die Bindungsregion an Kollagen bindet. 
+
+15. Polypeptid nach Anspruch 14, wobei die Bindungsregion, die an Kollagen bindet, den folgenden Aufbau hat: 
+Trp-Arg-Glu-Pro-Ser-Phe-Met-Ala-Leu-Ser. 
+
+16. Retroviraler Plasmidvektor, umfassend das modifizierte Polynukleotid nach Anspruch 8. 
+
+17. Verfahren zum Erzeugen von retroviralen Vektorpartikeln, umfassend: 
+
+(a) die Transfektion einer Zelllinie, die aus der Gruppe bestehend aus (i) einer Vorverpackungszelllinie mit 
+Polynukleotiden, die die gag und pol retroviralen Proteine kodieren; und (ii) einer Verpackungszelllinie mit 
+Polynukleotiden, die die gag, pol und env retroviralen Proteine kodieren, ausgewählt ist, mit dem retroviralen 
+Plasmidvektor nach Anspruch 16, um eine Erzeugerzelllinie zu bilden; und 
+(b) das Kultivieren der Erzeugerzelllinie zum Erzeugen von retroviralen Vektorpartikeln. 
+
+Revendications 
+
+1. Particule vectrice ayant une protéine virale de surface modifiée pour diriger la particule vectrice sur un composant 
+de la matrice extracellulaire, caractérisée en ce que la dite protéine virale de surface est modifiée afin d'inclure 
+un polypeptide de ciblage comprenant une région de liaison qui se lie à un composant de la matrice extracellulaire, 
+et en ce que la dite particule vectrice est une particule rétrovirale vectrice, en ce que la protéine virale de surface 
+modifiée est une enveloppe rétrovirale modifiée et en ce que le dit composant de la matrice extracellulaire est le 
+collagène. 
+
+2. Particule rétrovirale vectrice selon la revendication 1, caractérisée en ce que la dite enveloppe rétrovirale comprend 
+une région de liaison à un récepteur, et en ce que la dite région de liaison à un récepteur est modifiée afin d'inclure 
+un polypeptide de ciblage comprenant une région de liaison qui se lie à un composant de la matrice extracellulaire. 
+
+3. Vecteur rétroviral selon la revendication 2, caractérisé en ce qu'avant modification, la région de liaison à un 
+récepteur de la dite enveloppe a la séquence SEQ ID N°1, et en ce que dans le polypeptide modifié, le polypeptide 
+de ciblage est inséré entre les résidus d'acides aminés 18 et 19 de la SEQ ID N°1. 
+
+4. Vecteur rétroviral selon la revendication 1, caractérisé en ce que la dite région de liaison qui se lie au collagène 
+a la structure suivante : 
+Trp-Arg-Glu-Pro-Ser-Phe-Met-Ala-Leu-Ser. 
+
+5. Particule rétrovirale vectrice selon l'une quelconque des revendications 1 à 4, caractérisée en ce que la dite 
+
+
+EP 0 973 538 B1 
+
+23 
+
+5 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+particule rétrovirale vectrice comprend une première enveloppe rétrovirale et une deuxième enveloppe rétrovirale, 
+et en ce que chacune des premières et deuxièmes enveloppes rétrovirales comprend (i) une région de liaison à 
+un récepteur, (ii) une région hypervariable de polyproline, et (iii) une partie de corps, et en ce que la dite première 
+enveloppe rétrovirale est dépourvue de peptides non rétroviraux, et la dite deuxième enveloppe rétrovirale est une 
+enveloppe rétrovirale modifiée et en ce que le dit polypeptide de ciblage est inséré entre deux résidus d'acides 
+aminés contigus de la dite deuxième enveloppe rétrovirale. 
+
+6. Particule rétrovirale vectrice selon la revendication 5, caractérisée en ce que le dit polypeptide de ciblage est 
+inséré entre deux résidus d'acides aminés numérotés consécutivement de la région de liaison d'un récepteur de la 
+dite deuxième enveloppe rétrovirale. 
+
+7. Particule rétrovirale vectrice selon la revendication 6, caractérisée en ce qu'avant modification, la région de liaison 
+à un récepteur de la dite deuxième enveloppe rétrovirale a la séquence SEQ ID N°1, et en ce que le dit polypeptide 
+de ciblage est inséré entre les résidus d'acides aminés 18 et 19 de la SEQ ID N°1. 
+
+8. Polynucléotide modifié encodant une protéine virale de surface modifiée afin de diriger un vecteur sur un composant 
+de la matrice extracellulaire, caractérisé en ce que le polynucléotide modifié comprend un polynucléotide encodant 
+un polypeptide de ciblage, le dit polypeptide de ciblage comprenant une région de liaison qui se lie à un composant 
+de la matrice extracellulaire, et en ce que le dit polynucléotide modifié encode un polypeptide rétroviral d'enveloppe 
+modifié et en ce que le dit composant de la matrice extracellulaire est le collagène. 
+
+9. Polynucléotide modifié selon la revendication 8, caractérisé en ce que le dit polypeptide rétroviral d'enveloppe 
+comprend une région de liaison à un récepteur, et en ce que, dans le polynucléotide modifié, le polynucléotide 
+encodant la région de liaison à un récepteur est modifié afin d'inclure un polynucléotide encodant un polypeptide 
+de ciblage comprenant une région de liaison qui se lie au composant de la matrice extracellulaire. 
+
+10. Polynucléotide modifié selon la revendication 9, caractérisé en ce qu'avant modification, le polynucléotide encodant 
+la région de liaison à un récepteur encode une région de liaison à un récepteur ayant la séquence SEQ ID N°1 et 
+en ce que dans le polynucléotide modifié, le dit polynucléotide encodant le dit polypeptide de ciblage est inséré 
+entre le codon encodant le résidu d'acide aminé 18 et le codon encodant le résidu d'acide aminé 19. 
+
+11. Cellule productrice pour la production d'une particule rétrovirale vectrice ayant un polypeptide d'enveloppe modifié, 
+la dite cellule productrice comprenant le polynucléotide selon la revendication 8. 
+
+12. Particule rétrovirale vectrice selon la revendication 1, comprenant de plus au moins un polynucléotide encodant un 
+agent thérapeutique. 
+
+13. Utilisation de la particule rétrovirale vectrice selon la revendication 12 pour la préparation d'une composition utile 
+pour la thérapie génique. 
+
+14. Polypeptide rétroviral d'enveloppe modifié caractérisé en ce qu'avant modification, l'enveloppe inclut un polypep-
+tide ayant la séquence SEQ ID N°1, et en ce que dans l'enveloppe modifiée, un polypeptide de ciblage comprenant 
+une région de liaison qui se lie à un composant de la matrice extracellulaire est inséré entre les résidus d'acide 
+aminé 18 et 19 de la SEQ ID N°1, et en ce que la dite région de liaison se lie au collagène. 
+
+15. Polypeptide selon la revendication 14, caractérisé en ce que la dite région de liaison qui se lie au collagène a la 
+structure suivante : 
+Trp-Arg-Glu-Pro-Ser-Phe-Met-Ala-Leu-Ser. 
+
+16. Vecteur plasmidique rétroviral comprenant le polynucléotide modifié selon la revendication 8. 
+
+17. Méthode pour générer des particules rétrovirales vectrices, comprenant : 
+
+(a) la transfection d'une lignée cellulaire choisie dans le groupe composé de (i) une lignée cellulaire de pré-
+emballage comprenant des polynucléotides encodant les protéines rétrovirales gag et pol, et (ii) une lignée 
+cellulaire d'emballage comprenant des polynucléotides encodant les protéines rétrovirales gag, pol et env avec 
+le vecteur plasmidique rétroviral selon la revendication 16 pour former une lignée cellulaire productrice, et 
+(b) la culture de la dite lignée cellulaire productrice afin de générer les particules rétrovirales vectrices. 
+
+
+EP 0 973 538 B1 
+
+24 
+
+
+EP 0 973 538 B1 
+
+25 
+
+
+EP 0 973 538 B1 
+
+26 
+
+
+EP 0 973 538 B1 
+
+27 
+
+
+EP 0 973 538 B1 
+
+28 
+
+
+EP 0 973 538 B1 
+
+29 
+
+
+EP 0 973 538 B1 
+
+30 
+
+
+EP 0 973 538 B1 
+
+31 
+
+
+EP 0 973 538 B1 
+
+32 
+
+
+EP 0 973 538 B1 
+
+33 
+
+
+EP 0 973 538 B1 
+
+34 
+
+
+EP 0 973 538 B1 
+
+35 
+
+
+EP 0 973 538 B1 
+
+36 
+
+
+EP 0 973 538 B1 
+
+37 
+
+
+EP 0 973 538 B1 
+
+38 
+
+
+EP 0 973 538 B1 
+
+39 
+
+
+EP 0 973 538 B1 
+
+40 
+
+
+EP 0 973 538 B1 
+
+41 
+
+
+EP 0 973 538 B1 
+
+42 
+
+
+EP 0 973 538 B1 
+
+43 
+
+REFERENCES CITED IN THE DESCRIPTION 
+
+This list of references cited by the applicant is for the reader's convenience only. It does not form part of the European 
+patent document. Even though great care has been taken in compiling the references, errors or omissions cannot be 
+excluded and the EPO disclaims all liability in this regard. 
+
+Patent documents cited in the description 
+
+• 
+WO 9406920 A [0006] 
+• 
+WO 9630504 A [0007] 
+• 
+WO 9631602 A [0008] 
+
+• 
+US 5672510 A [0039] 
+• 
+WO 9419478 A [0067] 
+
+Non-patent literature cited in the description 
+
+• 
+MILLER et al. Human Gene Therapy, 1990, vol. 1, 
+5-14 [0003] 
+• 
+LEDLEY et al. Molecular Genetics and Gene Ther-
+apy of Cardiovascular Disease. Marcel Dekker, Inc, 
+1995, 467-485 [0005] 
+• 
+NABEL. Circulation, 1995, vol. 91, 541-548 [0005] 
+• 
+SALMONS et al. Human Gene Therapy, 1993, vol. 
+4, 129-141 [0009] 
+• 
+KASAHARA et al. Science, 1994, vol. 266, 
+1373-1376 [0009] 
+• 
+VALSERIA-WITTMANN et al. J. Virol., 1994, vol. 
+68, 4609-4619 [0009] 
+• 
+RUSSELL. Nucl. Acids Res., 1993, vol. 21, 
+1081-1085 [0009] 
+• 
+COSSET et al. J. Virol., 1995, vol. 69, 6314-6322 
+[0009] 
+• 
+SOMIA et al. Proc. Nat. Acad. Sci., 1995, vol. 92, 
+7570-7574 [0009] 
+• 
+BENDER et al. J. Virol, 1987, vol. 61, 1639-1649 
+[0038] 
+• 
+MILLER et al. Biotechniques, 1989, vol. 7, 980-990 
+[0038] 
+• 
+MILLER et al. Biotechniques, 1989, vol. 7 (9), 
+980-990 [0043] 
+• 
+MORGAN et al. J. Virol., August 1993, vol. 67 (8), 
+4712-4721 [0044] [0059] 
+• 
+MILLER. Human Gene Therapy, 1990, vol. 1, 5-14 
+[0045] 
+• 
+TAKAGI et al. Biochemistry, 1992, vol. 32, 
+8530-8534 [0059] 
+• 
+TUAN et al. Conn. Tiss. Res., 1996, vol. 34, 1-9 
+[0059] [0072] [0080] 
+• 
+TUAN et al. Conn. Tiss. Res., 1996, vol. 1, 1-9 [0063] 
+• 
+PEAR et al. Proc. Nat. Acad. Sci., September 1993, 
+vol. 90, 8392-8396 [0067] 
+• 
+EVANS et al. J. Virol., 1990, vol. 64 (12), 6176-6183 
+[0067] 
+• 
+KADAN et al. J. Virol., 1992, vol. 66, 2281 [0067] 
+• 
+MORGAN et al. J. Virol., 1993, vol. 67, 4712 [0067] 
+• 
+YU et al. J. Virol., 1996, vol. 69, 6557 [0067] 
+• 
+SONEOKA et al. Nucleic Acids Research, 1995, vol. 
+23, 628-633 [0068] 
+
+• 
+BARTHOLOMEW et al. J. Exp. Med., 1978, vol. 147, 
+844-853 [0074] [0080] 
+• 
+ROTHER et al. J. Exp. Med., 1995, vol. 182, 
+1345-1355 [0074] 
+• 
+PENSIERO et al. Human Gene Therapy, 1996, vol. 
+7, 1095-1101 [0074] 
+• 
+FELDMAN et al. Cardiovascular Res., 1996, vol. 32, 
+194-207 [0075] 
+• 
+GIBBONS et al. N. Engl. J. Med., 1994, vol. 330, 
+1431-1438 [0075] 
+• 
+GLAGOV. Circulation, 1994, vol. 89, 2888-2891 
+[0075] 
+• 
+SCHWARTZ. Am. Coll. Cardiol., 1992, vol. 17, 1284 
+[0075] 
+• 
+MYERS. Wound Healing Responses in Cardiovas-
+cular Disease. Futura Publishing Co, 1995, 137-150 
+[0075] 
+• 
+HERMANS et al. Am. Heart J., 1991, vol. 122, 
+171-187 [0075] 
+• 
+POPMA et al. Circulation, 1991, vol. 84, 1426-1436 
+[0075] 
+• 
+FELDMAN et al. Fundam. Clin. Pharmacol., 1995, 
+vol. 9, 8-16 [0075] 
+• 
+NABEL et al. Science, 1990, vol. 249, 1285-1288 
+[0080] 
+• 
+FLUGELMAN et al. Circulation, 1992, vol. 85, 
+1110-1117 [0080] 
+• 
+WILSON et al. Science, 1989, vol. 244, 1344-1346 
+[0080] 
+• 
+DICHEK et al. Blood, 1991, vol. 77, 533-541 [0080] 
+• 
+NABEL. Circulation, 1995, vol. 91, 541-549 [0080] 
+• 
+HENENBERG et al. Nature Medicine, 1996, vol. 2, 
+876-882 [0080] 
+• 
+ROTHER et al. J. Exp. Med, 1995, vol. 182, 
+1345-1355 [0080] 
+• 
+PENSIERO et al. Human Gene Therapy, 1995, vol. 
+7, 1095-1101 [0080] 
+• 
+WAGNER. Ann. Rev. Cell Biol., 1990, vol. 6, 217 
+[0081] 
+• 
+MONTGOMERY ; SCOTT et al. Hematology of In-
+fancy and Childhood. W.B Saunders, 1993, vol. 2, 
+1605-1650 [0081] 
+
+
+EP 0 973 538 B1 
+
+44 
+
+• 
+GINSBURG; BOWIE. Blood, 1992, vol. 70, 
+2507-2519 [0081] 
+• 
+MORGAN et al. J. Virol., 1993, vol. 67 (8), 4712-4721 
+[0082] 
+• 
+ZHU et al. Circulation, 1997, vol. 96, 628-635 [0083] 
+
+• 
+HALL et al. Human Gene Therapy, 1997, vol. 8, 
+2173-2182 [0086] 
+• 
+VAN ZANTAN et al. J. Clin. Invest., 1994, vol. 93, 
+615-632 [0089] 
+
+
+
+	
+

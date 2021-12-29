@@ -1,0 +1,3314 @@
+
+	
+
+		
+
+	
+
+	
+
+Note: Within nine months from the publication of the mention of the grant of the European patent, any person may give 
+notice to the European Patent Office of opposition to the European patent granted. Notice of opposition shall be filed in 
+a written reasoned statement. It shall not be deemed to have been filed until the opposition fee has been paid. (Art. 
+99(1) European Patent Convention). 
+
+Printed by Jouve, 75001 PARIS (FR) 
+
+(19) 
+
+EP 1 177 312 B1 
+
+(Cont. next page) 
+
+&amp; 
+
+(11) 
+
+EP 1 177 312 B1 
+
+(12) 
+
+EUROPEAN PATENT SPECIFICATION 
+
+(45) Date of publication and mention 
+of the grant of the patent: 
+31.10.2007 Bulletin 2007/44 
+
+(21) Application number: 00928535.4 
+
+(22) Date of filing: 28.04.2000 
+
+(51) Int Cl.: 
+C12N 15/24 (2006.01) 
+C07K 16/24 (2006.01) 
+C07K 14/54 (2006.01) 
+
+(86) International application number: 
+PCT/US2000/011479 
+
+(87) International publication number: 
+WO 2000/065027 (02.11.2000 Gazette 2000/44) 
+
+(54) HUMAN GIL-19/AE289 PROTEINS AND POLYNUCLEOTIDES ENCODING SAME 
+
+HUMANE GIL-19/AE289 PROTEINE UND DAFüR KODIERENDE POLYNUKLEOTIDE 
+
+PROTEINES HUMAINES GIL-19/AE289 ET POLYNUCLEOTIDES LES CODANT 
+
+(84) Designated Contracting States: 
+AT BE CH CY DE DK ES FI FR GB GR IE IT LI LU 
+MC NL PT SE 
+Designated Extension States: 
+AL LT LV RO SI 
+
+(30) Priority: 28.04.1999 US 131473 P 
+
+(43) Date of publication of application: 
+06.02.2002 Bulletin 2002/06 
+
+(73) Proprietor: Genetics Institute, LLC 
+Cambridge, MA 02140 (US) 
+
+(72) Inventors: 
+• JACOBS, Kenneth 
+Newton, MA 02160 (US) 
+• FOUSER, Lynette 
+Acton, MA 01720 (US) 
+• SPAULDING, Vikki 
+Lowell, MA 01854 (US) 
+• XUAN, Dejun 
+Boston, MA 02115 (US) 
+
+(74) Representative: Dörries, Hans Ulrich et al 
+df-mp 
+Fünf Höfe 
+Theatinerstrasse 16 
+80333 München (DE) 
+
+(56) References cited: 
+WO-A-00/24758 
+
+• XIE M-H ET AL: "Interleukin (IL)-22, a novel human 
+cytokine that signals through the interferon 
+receptor-related proteins CRF2-4 and IL-22R" 
+JOURNAL OF BIOLOGICAL CHEMISTRY, 
+AMERICAN SOCIETY OF BIOLOGICAL 
+CHEMISTS, BALTIMORE, MD, US, vol. 275, no. 40, 
+6 October 2000 (2000-10-06), pages 31335-31339, 
+XP002164307 ISSN: 0021-9258 
+• DUMOUTIER L ET AL: "HUMAN INTERLEUKIN-
+10-RELATED T CELL-DERIVED INDUCIBLE 
+FACTOR: MOLECULAR CLONING AND 
+FUNCTIONAL CHARACTERIZATION AS AN 
+HEPATOCYTE-STIMULATING FACTOR" 
+PROCEEDINGS OF THE NATIONAL ACADEMY 
+OF SCIENCES OF USA, NATIONAL ACADEMY OF 
+SCIENCE. WASHINGTON, US, vol. 97, no. 18, 29 
+August 2000 (2000-08-29), pages 10144-10149, 
+XP000946025 ISSN: 0027-8424 
+• OZAKI ET AL.: 'Developmental regulation of 
+transcription of a novel prespore-specific gene 
+(Dp87) in dictsyostelium discoideum' 
+DEVELOPMENT, vol. 117, 1993, pages 1299 -
+1308, XP002931993 
+• DATABASE GENESEQ ON EST, ACCESSION NO. 
+AQ104025, 28 August 1998 MAHAIRAS ET AL.: 
+'Sequence-tagged connectors: a sequence 
+approach to mapping and scanning the human 
+genome', XP002931992 &amp; PROC. NATL. ACAD. 
+SCI. USA, vol. 96, no. 17, 1999, pages 9739 -9744 
+• AOKI ET AL.: 'Comparison of the amino acid and 
+nucleotide sequences between human and two 
+guinea pig major basic proteins' FEBS LETTERS, 
+vol. 282, no. 1, April 1991, pages 56 -60, 
+XP002931991 
+
+
+2 
+
+EP 1 177 312 B1 
+
+• SAMBROOK et al., "Expression of cloned genes 
+in escherichia coli", Molecular Cloning: a 
+laboratory manual. second edition. Cold Spring 
+Harbor Press. 1989, pages 17.2-17.44, 
+XP002931990. 
+• ANDOH A. ET AL: 'Interleukin-22, a Member of the 
+IL-10 Subfamily, Induces Inflammatory 
+Responses in Colonic Subepithelial 
+Myofibroblasts' GASTROENTEROLOGY vol. 129, 
+no. 3, September 2005, ELSEVIER, 
+PHILADELPHIA, PA, US, pages 969 -984, 
+XP005314710 
+
+
+EP 1 177 312 B1 
+
+3 
+
+5 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Description 
+
+FIELD OF THE INVENTION 
+
+[0001] The present invention provides novel proteins which show homology to interleukin-10 (IL-10) and polynucle-
+otides encoding such proteins, along with therapeutic, diagnostic and research utilities for these polynucleotides and 
+proteins. 
+
+BACKGROUND OF THE INVENTION 
+
+[0002] Technology aimed at the discovery of protein factors (including e.g., cytokines, such as lymphokines, interferons, 
+CSFs and interleukins) has matured rapidly over the past decade. The now routine hybridization cloning and expression 
+cloning techniques clone novel polynucleotides "directly" in the sense that they rely on information directly related to the 
+discovered protein (i.e., partial DNA/ amino acid sequence of the protein in the case of hybridization cloning; activity of 
+the protein in the case of expression cloning). More recent "indirect" cloning techniques such as signal sequence cloning, 
+which isolates DNA sequences based on the presence of a now well-recognized secretory leader sequence motif, as 
+well as various PCR-based or low stringency hybridization cloning techniques, have advanced the state of the art by 
+making available large numbers of DNA/ amino acid sequences for proteins that are known to have biological activity by 
+virtue of their secreted nature in the case of leader sequence cloning, or by virtue of the cell or tissue source in the case 
+of PCR-based techniques. It is to these proteins and the polynucleotides encoding them that the present invention is 
+directed. 
+
+SUMMARY OF THE INVENTION 
+
+[0003] In one embodiment, the present invention provides an isolated polynucleotide selected from the group consisting 
+of: 
+
+(a) a polynucleotide comprising the nucleotide sequence of SEQ ID NO: 1; 
+
+(b) a polynucleotide comprising the nucleotide sequence of SEQ ID NO: 1 from nucleotide 65 to nucleotide 601 ; 
+
+(c) a polynucleotide comprising the nucleotide sequence of a full-length protein coding sequence of clone hGIL-
+19/AE289 deposited under accession number ATCC 207231; 
+
+(d) a polynucleotide comprising the nucleotide sequence of a mature protein coding sequence of clone hGIL-
+19/AE289 deposited under accession number ATCC 207231; 
+
+(e) a polynucleotide encoding a protein comprising the amino acid sequence of SEQ ID NO: 2; 
+
+(f) a nucleotide sequence encoding a protein comprising the amino acid sequence of SEQ ID NO: 2 from about 
+amino acid 34 to 179; and 
+
+(g) a nucleotide sequence encoding a protein comprising a fragment of the amino acid sequence of SEQ ID NO: 2, 
+the fragment comprising an amino acid sequence selected from the group consisting of amino acids 50-60, 63-81 
+and 168-177 of SEQ ID NO: 2. 
+
+[0004] Preferably, such polynucleotide comprises the nucleotide sequence of SEQ ID NO: 1 from nucleotide 65 to 
+nucleotide 601; the nucleotide sequence of the full-length protein coding sequence of clone hGIL-19/AE289 deposited 
+under accession number ATCC 207231; or the nucleotide sequence of a mature protein coding sequence of clone hGIL-
+19/AE289 deposited under accession number ATCC 207231 (e.g., nucleotides 1-1177 of SEQ ID NO: 1). In other preferred 
+embodiments, the polynucleotide encodes the full-length or a mature protein encoded by the cDNA insert of clone hGIL-
+19/AE289 deposited under accession number ATCC 207231 (e.g., amino acids 1-179 of SEQ ID NO: 2). Also described 
+herein are polynucleotides encoding a protein comprising a fragment of the amino acid sequence of SEQ ID NO: 2 having 
+biological activity, the fragment preferably comprising eight (more preferably twenty, most preferably thirty) contiguous 
+amino acids of SEQ ID NO: 2, or a polynucleotide encoding a protein comprising a fragment of the amino acid sequence 
+of SEQ ID NO: 2 having biological activity, the fragment comprising the amino acid sequence from amino acid 84 to 
+amino acid 93 of SEQ ID NO: 2. 
+[0005] Other embodiments provide the gene corresponding to the cDNA sequence of SEQ ID NO: 1. 
+
+
+EP 1 177 312 B1 
+
+4 
+
+5 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[0006] Also described herein are isolated polynucleotides produced according to a process selected from the group 
+consisting of: 
+
+(a) a process comprising the steps of: 
+
+(i) preparing one or more polynucleotide probes that hybridize in 6X SSC at 65 degrees C to a nucleotide 
+sequence selected from the group consisting of: 
+
+(aa) SEQ ID NO: 1, but excluding the poly (A) tail at the 3' end of SEQ ID NO: 1; and 
+(ab) the nucleotide sequence of the cDNA insert of clone hGIL-19/AE289 deposited under accession number 
+ATCC 207231; 
+
+(ii) hybridizing said probe (s) to human genomic DNA in conditions at least as stringent as 4X SSC at 50 degrees 
+C; and 
+(iii) isolating the DNA polynucleotides detected with the probe (s); 
+
+and 
+
+(b) a process comprising the steps of: 
+
+(i) preparing one or more polynucleotide primers that hybridize in 6X SSC at 65 degrees C to a nucleotide 
+sequence selected from the group consisting of: 
+
+(ba) SEQ ID NO: 1, but excluding the poly (A) tail at the 3' end of SEQ ID NO: 1; and 
+(bb) the nucleotide sequence of the cDNA insert of clone hGIL-19/AE289 deposited under accession number 
+ATCC 207231; 
+
+(ii) hybridizing said primer (s) to human genomic DNA in conditions at least as stringent as 4X SSC at 50 degrees 
+C; 
+(iii) amplifying human DNA sequences; and 
+(iv) isolating the polynucleotide products of step (b) (iii). 
+
+Preferably the polynucleotide isolated according to the above process comprises a nucleotide sequence corresponding 
+to the cDNA sequence of SEQ ID NO: 1, and extending contiguously from a nucleotide sequence corresponding to the 
+5' end of SEQ ID NO: 1 to a nucleotide sequence corresponding to the 3' end of SEQ ID NO: 1 , but excluding the poly 
+(A) tail at the 3' end of SEQ ID NO: 1. Also preferably the polynucleotide isolated according to the above process comprises 
+a nucleotide sequence corresponding to the cDNA sequence of SEQ ID NO: 1 from nucleotide 65 to nucleotide 601, and 
+extending contiguously from a nucleotide sequence corresponding to the 5' end of said sequence of SEQ ID NO: 1 from 
+nucleotide 65 to nucleotide 601, to a nucleotide sequence corresponding to the 3' end of said sequence of SEQ ID NO: 
+1 from nucleotide 65 to nucleotide 601. 
+[0007] In other embodiments, the present invention provides a composition comprising a protein, wherein said protein 
+comprises an amino acid sequence selected from the group consisting of: 
+
+(a) the amino acid sequence ofSEQ ID NO: 2; 
+(b) a fragment of the amino acid sequence of SEQ ID NO: 2, the fragment comprising an amino acid sequence 
+selected from the group consisting of amino acids 50-60, 63-81 and 168-177 of SEQ ID NO: 2; 
+(c) the amino acid sequence encoded by a full-length protein coding sequence of clone hGIL-19/AE289 deposited 
+under accession number ATCC 207231; 
+(d) the amino acid sequence encoded by a mature protein coding sequence of clone hGIL-19/AE289 deposited 
+under accession number ATCC 207231; and 
+(e) the amino acid sequence of SEQ ID NO: 2 from about amino acid 34 to 179; 
+
+the protein being substantially free from other mammalian proteins. Preferably such protein comprises the amino acid 
+sequence of SEQ ID NO: 2. Also described herein is a protein comprising a fragment of the amino acid sequence of 
+SEQ ID NO: 2 having biological activity, the fragment preferably comprising eight (more preferably twenty, most preferably 
+thirty) contiguous amino adds of SEQ ID NO: 2. 
+[0008] In certain preferred embodiments, the polynucleotide is operably linked to an expression control sequence. 
+The invention also provides a host cell, including bacterial, yeast, insect and mammalian cells, transformed with such 
+
+
+EP 1 177 312 B1 
+
+5 
+
+5 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+polynucleotide compositions. Also provided by the present invention are organisms that have enhanced, reduced, or 
+modified expression of the gene (s) corresponding to the polynucleotide sequence disclosed herein. 
+[0009] Processes are also provided for producing a protein, which comprise: 
+
+(a) growing a culture of the host cell transformed with such polynucleotide compositions in a suitable culture medium; 
+and 
+(b) purifying the protein from the culture. The protein produced according to such methods is also provided by the 
+present invention. 
+
+[0010] Protein compositions of the present invention may further comprise a pharmaceutically acceptable carrier. 
+[0011] In another embodiment, the invention relates to an antibody or fragment thereof which binds to a protein as 
+described and claimed herein. The antibody may be a neutralizing antibody, and may be selected from the group 
+consisting of a monoclonal antibody, a polyclonal antibody, a chimeric antibody, a single-chain antibody, a CDR-grafted 
+antibody and a humanized antibody. It may also be a human antibody. 
+[0012] In yet another embodiment, the invention relates to the use of an antibody as described and claimed herein 
+for the preparation of a pharmaceutical composition for treating or preventing arthritis in a subject. In one embodiment, 
+the arthritis is rheumatoid arthritis. 
+[0013] In another embodiment, the invention relates to an isolated polynucleotide comprising a nucleotide sequence 
+that hybridizes under highly stringent conditions to SEQ ID NO: 1 or a complement thereof. In yet another embodiment, 
+the invention relates to a protein encoded by a nucleotide sequence that hybridizes under highly stringent conditions to 
+the complement of SEQ ID NO: 1, the protein being substantially free from other mammalian proteins. 
+[0014] The invention furthermore relates to an isolated polynucleotide encoding a fragment of a protein comprising 
+an amino acid sequence selected from the group consisting of amino acids 50-60, 63-81 and 168-177 of SEQ ID NO: 
+2. Furthermore, the invention relates to a fragment of a substantially purified protein comprising an amino acid sequence 
+selected from the group consisting of amino acids 50-60, 63-81 and 168-177 of SEQ ID NO: 2. 
+[0015] In yet another embodiment, the invention relates to a fusion protein comprising a protein as described and 
+claimed herein fused to a carrier molecule. The carrier molecule may be an immunoglobulin or the Fc portion of an 
+immunoglobulin. The immunoglobulin may be an IgG or an IgM immunoglobulin. The protein may furthermore be fused 
+to the carrier molecule through a linker sequence. 
+[0016] Compositions comprising an antibody which specifically reacts with the protein described and claimed herein 
+are also provided by the present invention. 
+[0017] Methods are also described herein for preventing, treating or ameliorating a medical condition which comprises 
+administering to a mammalian subject a therapeutically effective amount of a composition comprising a protein of the 
+present invention and a pharmaceutically acceptable carrier. 
+
+DETAILED DESCRIPTION 
+
+Isolated Proteins and Polynucleotides 
+
+[0018] Nucleotide and amino acid sequences, as presently determined, are reported below for each clone and protein 
+disclosed in the present application. The nucleotide sequence of each clone can readily be determined by sequencing 
+of the deposited clone in accordance with known methods. The predicted amino acid sequence (both full-length and 
+mature forms) can then be determined from such nucleotide sequence. The amino acid sequence of the protein encoded 
+by a particular clone can also be determined by expression of the clone in a suitable host cell, collecting the protein and 
+determining its sequence. 
+[0019] As used herein a "secreted" protein is one which, when expressed in a suitable host cell, is transported across 
+or through a membrane, including transport as a result of signal sequences in its amino acid sequence. "Secreted" 
+proteins include without limitation proteins secreted wholly (e.g., soluble proteins) or partially (e.g. , receptors) from the 
+cell in which they are expressed. "Secreted" proteins also include without limitation proteins which are transported across 
+the membrane of the endoplasmic reticulum. 
+
+Clone "hGIL-19/AE289" 
+
+[0020] A polynucleotide of the present invention has been identified initially as clone "hTIF/AE289", later renamed and 
+referred to herein also as "hGIL-19/AE289" and "hGIL-19". Clone hGIL-19/AE289 was isolated according to the following 
+method. A murine EST was identified from a murine cDNA library made from splenocytes activated with both ConA and 
+bone marrow derived dendritic cells. The EST was identified using methods which are selective for cDNAs encoding 
+secreted proteins (see U.S. Pat. No. 5,536,637). The murine EST sequence was used to isolate a full-length murine 
+
+
+EP 1 177 312 B1 
+
+6 
+
+5 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+clone from the same cDNA library (SEQ ID NO: 4; Figure 1 depicts the sequence of the murine GIL-19 cDNA). Analysis 
+of the sequence of the murine clone revealed a significant homology to interleukin-10 (IL-10). 
+[0021] In order to isolate a human homolog of the murine clone, PCR primers were constructed based upon the region 
+of the murine sequence which showed homology to IL-10. Use of such primers for amplification in a human PBMC library 
+produced a PCR product of significant size. Analysis of the sequence of the PCR product confirmed that it was a homolog 
+of the murine cDNA. Oligonucleotides were constructed from the sequence of the partial human clone and used to isolate 
+a full-length human clone from the PBMC library. 
+[0022] hGIL-19/AE289 is a full-length human clone, including the entire coding sequence of a secreted protein (also 
+referred to herein as "hTIF/AE289 protein," "hGIL-19/AE289 protein" and "hGIL-19 protein"). Analysis of its sequence 
+confirms its homology to IL-10. 
+[0023] The nucleotide sequence of hGIL-19 as presently determined is reported in SEQ ID NO: 1, and includes a poly 
+(A) tail. The open reading frame and the amino acid sequence of full-length hGIL-19 protein corresponding to the foregoing 
+nucleotide sequence is reported in SEQ ID NO: 2. The amino acid sequence of mature hGIL-19 corresponds to amino 
+acids 34-179 of SEQ ID NO: 2. 
+[0024] Clone "hGIL-19/AE289" was deposited on April 28, 1999 with the American Type Culture Collection (10801 
+University Boulevard, Manassas, Virginia 20110-2209 U.S.A.) as an original deposit under the Budapest Treaty and 
+was given the accession number ATCC 207231. All restrictions on the availability to the public of the deposited material 
+will be irrevocably removed upon the granting of the patent, except for the requirements specified in 37 C.F.R.  § 1.808 
+(b), and the term of the deposit Will comply with 37 C.F.R.  § 1.806. 
+[0025] Fragments of the proteins of the present invention (e.g. fragments which are capable of exhibiting biological 
+activity) are also encompassed by the present invention. Fragments of the protein may be in linear form or they may be 
+cyclized using known methods, for example, as described in H.U. Saragovi, et al., Bio/ Technology 10, 773-778 (1992) 
+and in R.S. McDowell, et al., J. Amer. Chem. Soc. 114, 9245-9253 (1992). Such fragments may be fused to carrier 
+molecules such as immunoglobulins for many purposes, including increasing the valency of protein binding sites. For 
+example, fragments of the protein may be fused through "linker" sequences to the Fc portion of an immunoglobulin. For 
+a bivalent form of the protein, such a fusion could be to the Fc portion of an 1gG molecule. Other immunoglobulin isotypes 
+may also be used to generate such fusions. For example, a protein -IgM fusion would generate a decavalent form of 
+the protein of the invention. 
+[0026] The present invention also provides both full-length and mature forms of the disclosed proteins. The full-length 
+form of the such proteins is identified in the sequence listing by translation of the nucleotide sequence of each disclosed 
+clone. The mature form (s) of such protein may be obtained by expression of the disclosed full-length polynucleotide 
+(preferably those deposited with ATCC) in a suitable mammalian cell or other host cell. The sequence (s) of the mature 
+form (s) of the protein may also be determinable from the amino acid sequence of the full-length form and are set forth 
+herein, for example as amino acids 1-179 of SEQ ID NO: 2. 
+[0027] The present invention also provides genes corresponding to the polynucleotide sequences disclosed herein. 
+"Corresponding genes" are the regions of the genome that are transcribed to produce the mRNAs from which cDNA 
+polynucleotide sequences are derived and may include contiguous regions of the genome necessary for the regulated 
+expression of such genes. Corresponding genes may therefore include buT are not limited to coding sequences, 5' and 
+3' untranslated regions, alternatively spliced exons, introns, promoters, enhancers, and silencer or suppressor elements. 
+The corresponding genes can be isolated in accordance with known methods using the sequence information disclosed 
+herein. Such methods include the preparation of probes or primers from the disclosed sequence information for identi-
+fication and/or amplification of genes in appropriate genomic libraries or other sources of genomic materials. An "isolated 
+gene" is a gene that has been separated from the adjacent coding sequences, if any, present in the genome of the 
+organism from which the gene was isolated. 
+[0028] The chromosomal location corresponding to the polynucleotide sequences disclosed herein may also be de-
+termined, for example by hybridizing appropriately labeled polynucleotides of the present invention to chromosomes in 
+situ. It may also be possible to determine the corresponding chromosomal location for a disclosed polynucleotide by 
+identifying significantly similar nucleotide sequences in public databases, such as expressed sequence tags (ESTs), 
+that have already been mapped to particular chromosomal locations. For at least some of the polynucleotide sequences 
+disclosed herein, public database sequences having at least some similarity to the polynucleotide of the present invention 
+have been listed by database accession number. Searches using the GenBank accession numbers of these public 
+database sequences can then be performed at an Internet site provided by the National Center for Biotechnology 
+Information having the address http: //www.ncbi.nlm.nih.gov/ UniGene/, in order to identify "UniGene clusters" of over-
+lapping sequences. Many of the "UniGene clusters" so identified will already have been mapped to particular chromosomal 
+sites. 
+[0029] Organisms that have enhanced, reduced, or modified expression of the gene (s) corresponding to the polynu-
+cleotide sequences disclosed herein are provided. The desired change in gene expression can be achieved through the 
+use of antisense polynucleotides or ribozymes that bind and/or cleave the mRNA transcribed from the gene (Albert and 
+
+
+EP 1 177 312 B1 
+
+7 
+
+5 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Morris, 1994, Trends Pharmacol. Sci. 15 (7): 250-254; Lavarosky et al., 1997, Biochem. Mol. Med 62 (1): 11-22; and 
+Hampel, 1998, Prog. Nucleic Acid Res. Mol. Biol. 58: 1-39. Non-human transgenic animals that have multiple copies of 
+the gene (s) corresponding to the polynucleotide sequences disclosed herein, preferably produced by transformation of 
+cells with genetic constructs that are stably maintained within the transformed cells and their progeny, are provided. 
+Non-human transgenic animals that have modified genetic control regions that increase or reduce gene expression 
+levels, or that change temporal or spatial patterns of gene expression, are also provided (see European Patent No. 0 
+649 464 B1). In addition, non-human organisms are provided in which the gene (s) corresponding to the polynucleotide 
+sequences disclosed herein have been partially or completely inactivated, through insertion of extraneous sequences 
+into the corresponding gene (s) or through deletion of all or part of the corresponding gene (s). Partial or complete gene 
+inactivation can be accomplished through insertion, preferably followed by imprecise excision, of transposable elements 
+(Plasterk, 1992, Bioessays 14 (9): 629-633; Zwaal et al., 1993, Proc. Natl. Acad.Sci. USA 90 (16): 7431-7435; Clark et 
+al., 1994, Proc. Natl. Acad Sci. USA 91 (2): 719-722), or through homologous recombination, preferably detected by 
+positive/ negative genetic selection strategies (Mansour et al., 1988, Nature 336: 348-352; U.S. Patent Nos. 5,464,764; 
+5,487,992; 5,627,059; 5,631,153; 5,614, 396; 5,616,491; and 5,679,523). These organisms with altered gene expression 
+are preferably eukaryotes and more preferably are non-human mammals. Such organisms are useful for the development 
+of non-human models for the study of disorders involving the corresponding gene (s), and for the development of assay 
+systems for the identification of molecules that interact with the protein product (s) of the corresponding gene (s). 
+[0030] Proteins and protein fragments described herein include proteins with amino acid sequence lengths that are 
+at least 25% (more preferably at least 50%, and most preferably at least 75%) of the length of a disclosed protein and 
+have at least 60% sequence identity (more preferably, at least 75% identity; most preferably at least 90% or 95% identity) 
+with that disclosed protein, where sequence identity is determined by comparing the amino acid sequences of the proteins 
+when aligned so as to maximize overlap and identity while minimizing sequence gaps. Also included are proteins and 
+protein fragments that contain a segment preferably comprising 8 or more (more preferably 20 or more, most preferably 
+30 or more) contiguous amino acids that shares at least 75% sequence identity (more preferably, at least 85% identity; 
+most preferably at least 95% identity) with any such segment of any of the disclosed proteins. 
+[0031] In one embodiment, proteins, protein fragments, and recombinant proteins of the present invention include 
+those which can be identified based on the presence of at least one "HGIL-19/AE299 receptor-binding motif." As used 
+herein, the term "hGIL-19/AE289 receptor-binding motif" includes amino acid sequences or residues which are important 
+for binding of hGIL-19 to its requisite receptor. In a preferred embodiment, a hGIL-19 protein contains a hGIL-19/AE289 
+receptor-binding motif including about amino acids 50-60 of SEQ ID NO: 2. In another embodiment, a GIL-19 protein 
+contains a hGIL-19/AE289 receptor-binding motif including about amino acids 63-81 of SEQ ID NO: 2. In yet another 
+embodiment, a GIL-19 protein contains a hGIL-19/AE289 receptor-binding motif including about amino acids 168-177 
+of SEQ ID NO: 2. In a preferred embodiment, a GIL-19 protein contains a hGIL-19/AE289 receptor-binding motif including 
+at least one of amino acids 50-60, amino acids 63-81, and/or about amino acids 168-177 of SEQ ID NO: 2. 
+[0032] In yet another embodiment, a hGIL-19/AE289 receptor binding motif has an amino acid sequence at least 95%, 
+96%, 97%, 98%, 99%, or more identical to an amino acid sequence selected from the group consisting of amino acids 
+50-60 of SEQ ID NO: 2, amino acids 63-81 of SEQ ID NO: 2, and amino acids 168-177 of SEQ ID NO: 2. 
+[0033] In another embodiment, proteins, protein fragments, and recombinant proteins of the present invention include 
+those which can be identified based on the presence of at least one, two, three, four or more sites for N-linked glycosylation. 
+[0034] In particular, sequence identity may be determined using WU-BLAST (Washington University BLAST) version 
+2.0 software, which builds upon WU-BLAST version 1.4, which in turn is based on the public domain NCBI-BLAST 
+version 1.4 (Altschul and Gish, 1996, Local alignment statistics, Doolittle ed., Methods in Enzymology 266: 460-480; 
+Altschul et al., 1990, Basic local alignment search tool, Journal of Molecular Biology 215: 403-410; Gish and States, 
+1993, Identification of protein coding regions by database similarity search, Nature Genetics 3: 266-272; Karlin and 
+Altschul, 1993, Applications and statistics for multiple high-scoring segments in molecular sequences, Proc. Natl. Acad 
+Sci. USA 90: 5873-5877). WU-BLAST version 2.0 executable programs for several UNIX platforms can be downloaded 
+from ftp: // blast.wustl.edu/ bast/ executables. The complete suite of search programs (BLASTP, BLASTN, BLASTX, 
+TBLASTN, and TBLASTX) is provided at that site, in addition to several support programs. WU-BLAST 2.0 is copyrighted 
+and may not be sold or redistributed in any form or manner without the express written consent of the author; but the 
+posted executables may otherwise be freely used for commercial, nonprofit, or academic purposes. In all search programs 
+in the suite -BLASTP, BLASTN, BLASTX, TBLASTN and TBLASTX -the gapped alignment routines are integral to the 
+database search itself, and thus yield much better sensitivity and selectivity while producing the more easily interpreted 
+output. Gapping can optionally be turned off in all of these programs, if desired. The default penalty (Q) for a gap of 
+length one is Q=9 for proteins and BLASTP, and Q=10 for BLASTN, but may be changed to any integer value including 
+zero, one through eight, nine, ten, eleven, twelve through twenty, twenty-one through fifty, fifty-one through one hundred, 
+etc. The default per-residue penalty for extending a gap (R) is R=2 for proteins and BLASTP, and R=10 for BLASTN, 
+but may be changed to any integer value including zero, one, two, three, four, five, six, seven, eight, nine, ten, eleven, 
+twelve through twenty, twenty-one through fifty, fifty-one through one hundred, etc. Any combination of values for Q and 
+
+
+EP 1 177 312 B1 
+
+8 
+
+5 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+R can be used in order to align sequences so as to maximize overlap and identity while minimizing sequence gaps. The 
+default amino acid comparison matrix is BLOSUM62, but other amino acid comparison matrices such as PAM can be 
+utilized. 
+[0035] Species homologues of the disclosed polynucleotides and proteins are also described herein. As used herein, 
+a "species homologue" is a protein or polynucleotide with a different species of origin from that of a given protein or 
+polynucleotide, but with significant sequence similarity to the given protein or polynucleotide. Preferably, polynucleotide 
+species homologues have at least 60% sequence identity (more preferably, at least 75%, 80%, 85%, 90%, 95%, 99%) 
+with the given polynucleotide, and protein species homologues have at least 30% sequence identity (more preferably, 
+at least 45%, 50%, 55%, 60%, 65%, 70%, 75%, 80%, 85%, 90%) with the given protein, where sequence identity is 
+determined by comparing the nucleotide sequences of the polynucleotides or the amino acid sequences of the proteins 
+when aligned so as to maximize overlap and identity while minimizing sequence gaps. Species homologues may be 
+isolated and identified by making suitable probes or primers from the sequences provided herein and screening a suitable 
+nucleic acid source from the desired species. Preferably, species homologues are those isolated from mammalian 
+species. Most preferably, species homologues are those isolated from certain mammalian species such as, for example, 
+Pan troglodytes, Gorilla gorilla, Pongo pygmaeus, Hylobates concolor, Macaca mulatta, Papio papio, Papio hamadryas, 
+Cercopithecus aethiops, Cebus capucinus, Aotus trivirgarus, Sanguinus oedipus, Microcebus murinus, Mus musculus, 
+Rattus norvegicus, Cricetulus griseus, Felis catus, Mustela vison, Canis familiaris, Oryctolagus cuniculus, Bos taurus, 
+Ovis aries, Sus scrofa, and Equus caballus, for which genetic maps have been created allowing the identification of 
+syntenic relationships between the genomic organization of genes in one species and the genomic organization of the 
+related genes in another species (O'Brien and Seuánez, 1988, Ann. Rev. Genet. 22: 323-351; O'Brien et al., 1993, 
+Nature Genetics 3: 103-112; Johansson et al., 1995, Genomics 25: 682-690; Lyons et al., 1997, Nature Genetics 15: 
+47-56; O'Brien et al., 1997, Trends in Genetics 13 (10): 393-399; Carver and Stubbs, 1997, Genome Research 7: 
+1123-1137). 
+[0036] Also described herein are allelic variants of the disclosed polynucleotides or proteins; that is, naturally-occurring 
+alternative forms of the isolated polynucleotides which also encode proteins which are identical or have significantly 
+similar sequences to those encoded by the disclosed polynucleotides. Preferably, allelic variants have at least 60% 
+sequence identity (more preferably, at least 75%, 80%, 85%, 90%, 95%, 99%) with the given polynucleotide, where 
+sequence identity is determined by comparing the nucleotide sequences of the polynucleotides when aligned so as to 
+maximize overlap and identity while minimizing sequence gaps. Allelic variants may be isolated and identified by making 
+suitable probes or primers from the sequences provided herein and screening a suitable nucleic acid source from 
+individuals of the appropriate species. 
+[0037] The invention also includes polynucleotides with sequences complementary to those of the polynucleotides 
+disclosed herein. 
+[0038] The present invention also includes polynucleotides that hybridize under highly stringent conditions to polynu-
+cleotides described herein. Also described herein are polynucleotides that hybridize under reduced stringency or stringent 
+conditions to polynucleotides described herein. Examples of stringency conditions are shown in the table below: highly 
+stringent conditions are those that are at least as stringent as, for example, conditions A-F; stringent conditions are at 
+least as stringent as, for example, conditions G-L; and reduced stringency conditions are at least as stringent as, for 
+example, conditions M-R. 
+
+Stringency 
+Condition 
+
+Polynucleotide 
+Hybrid 
+
+Hybrid Length (bp)  ‡ Hybridization 
+Temperature and 
+Buffer  † 
+
+Wash Temperature 
+and Buffer  † 
+
+A 
+DNA: DNA 
+≥50 65°C; 1xSSC -or-
+65°C; 03xSSC 
+42°C; 1xSSC, 50% 
+formamide 
+
+B 
+DNA: DNA 
+&lt;50 T B *; 1xSSC 
+T B *; 1SSC 
+
+C 
+DNA: RNA 
+≥50 67°C; 1xSSC -or-
+67°C; 0.3SSC 
+45°C; 1xSSC, 50% 
+formamide 
+
+D 
+DNA: RNA 
+&lt;50 T D *; 1xSSC 
+T D *; 1SSC 
+
+E 
+RNA: RNA 
+≥50 70°C; 1xSSC -or-
+70°C; 0.3xSSC 
+50°C; 1xSSC, 50% 
+formamide 
+
+
+EP 1 177 312 B1 
+
+9 
+
+5 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[0039] Additional examples of stringency conditions for polynucleotide hybridization are provided in Sambrook, J., 
+E.F. Fritsch, and T. Maniatis, 1989, Molecular Cloning: A Laboratory Manual, Cold Spring Harbor Laboratory Press, 
+Cold Spring Harbor, NY, chapters 9 and 11, and Current Protocols in Molecular Biology, 1995, F.M. Ausubel et al., eds., 
+John Wiley &amp; Sons, Inc., sections 2.10 and 6.3-6.4. 
+[0040] Preferably, each such hybridizing polynucleotide has a length that is at least 25% (more preferably at least 50%, 
+and most preferably at least 75%) of the length of the polynucleotide of the present invention to which it hybridizes, and 
+
+(continued) 
+
+Stringency 
+Condition 
+
+Polynucleotide 
+Hybrid 
+
+Hybrid Length (bp)  ‡ Hybridization 
+Temperature and 
+Buffer  † 
+
+Wash Temperature 
+and Buffer  † 
+
+F 
+RNA: RNA 
+&lt;50 T F *; 1xSSC 
+T F *; 1xSSC 
+
+G 
+DNA: DNA 
+≥50 65°C; 4xSSC -or-
+65°C; 1xSSC 
+42°C; 4xSSC, 50% 
+formamide 
+
+H 
+DNA: DNA 
+&lt;50 T H *; 4xSSC 
+T H *; 4xSSC 
+
+I 
+DNA: RNA 
+≥50 67°C; 4xSSC -or-
+67*C; 1xSSC 
+45°C; 4xSSC, 50% 
+formamide 
+
+J 
+DNA: RNA 
+&lt;50 T j *; 4xSSC 
+T j *; 4xSSC 
+
+K 
+RNA: RNA 
+≥50 7O°C; 4xSSC -or-
+67°C; 1xSSC 
+50°C; 4xSSC, 50% 
+formamide 
+
+L 
+RNA: RNA 
+&lt;50 T L *; 2xSSC 
+T L *; 2xSSC 
+
+M 
+DNA: DNA 
+≥50 50°C; 4xSSC -or-
+50°C; 2xSSC 
+40°C; 6xSSC, 50% 
+formamide 
+
+N 
+DNA: DNA 
+&lt;50 T N *; 6xSSC 
+T N *; 6xSSC 
+
+O 
+DNA: RNA 
+≥50 55°C; 4xSSC -or-
+55°C; 2xSSC 
+42°C; 6xSSC, 50% 
+formamide 
+
+P 
+DNA: RNA 
+&lt;50 T P *; 6xSSC 
+T P *; 6xSSC 
+
+Q 
+RNA: RNA 
+≥50 60°C; 4xSSC -or-
+60°C; 2xSSC 
+45°C; 6xSSC, 50% 
+formamide 
+
+R 
+RNA: RNA 
+&lt;50 T R *; 4SSC 
+T R *; 4SSC 
+
+ ‡ : The hybrid length is that anticipated for the hybridized region (s) of the hybridizing polynucleotides. When hybridizing 
+a polynucleotide to a target polynucleotide of unknown sequence, the hybrid length is assumed to be that of the 
+hybridizing polynucleotide. When polynucleotides of known sequence are hybridized, the hybrid length can be 
+determined by aligning the sequences of the polynucleotides and identifying the region or regions of optimal sequence 
+complementarity. 
+ † : SSPE (1xSSPE is 0.15M NaCl, 10mM NaH 2 PO 4 , and 1.25mM EDTA, pH 7.4) can be substituted for SSC (1xSSC 
+is 0.15M NaCl and 15mM sodium citrate) in the hybridization and wash buffers; washes are performed for 15 minutes 
+after hybridization is complete. 
+*T B -T R : The hybridization temperature for hybrids anticipated to be less than 50 base pairs in length should be 
+5-10°C less than the melting temperature (T m ) of the hybrid, where T m is determined according to the following 
+equations. For hybrids less than 18 base pairs in length, T m (°C) = 2 (# of A + T bases) + 4 (# of G + C bases). For 
+hybrids between 18 and 49 base pairs in length. T m (°C) = 81.5 + 16.6 (log to [Na + ]) + 0.41 (%G+C)-(600/N), where N 
+is the number of bases in the hybrid, and [Na + ] is the concentration of sodium ions in the hybridization buffer ([Na + ] 
+for 1xSSC = 0.165 M). 
+
+
+EP 1 177 312 B1 
+
+10 
+
+5 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+has at least 60% sequence identity (more preferably, at least 75% identity; most preferably at least 90% or 95% identity) 
+with the polynucleotide of the present invention to which it hybridizes, where sequence identity is determined by comparing 
+the sequences of the hybridizing polynucleotides when aligned so as to maximize overlap and identity while minimizing 
+sequence gaps. 
+[0041] The isolated polynucleotide of the invention may be operably linked to an expression control sequence such 
+as the pMT2 or pED expression vectors disclosed in Kaufman et al., Nucleic Acids Res. 19, 4485-4490 (1991), in order 
+to produce the protein recombinantly. Many suitable expression control sequences are known in the art. General methods 
+of expressing recombinant proteins are also known and are exemplified in R. Kaufman, Methods in Enzymology 185, 
+537-566 (1990). As defined herein "operably linked" means that the isolated polynucleotide of the invention and an 
+expression control sequence are situated within a vector or cell in such a way that the protein is expressed by a host 
+cell which has been transformed (transfected) with the ligated polynucleotide/ expression control sequence. 
+[0042] A number of types of cells may act as suitable host cells for expression of the protein. Mammalian host cells 
+include, for example, monkey COS cells, Chinese Hamster Ovary (CHO) cells, human kidney 293 cells, human epidermal 
+A431 cells, human Colo205 cells, 3T3 cells, CV-1 cells, other transformed primate cell lines, normal diploid cells, cell 
+strains derived from in vitro culture of primary tissue, primary explants, HeLa cells, mouse L cells, BHK, HL-60, U937, 
+HaK or Jurkat cells. 
+[0043] Alternatively, it may be possible to produce the protein in lower eukaryotes such as yeast or in prokaryotes 
+such as bacteria. Potentially suitable yeast strains include Saccharomyces cerevisiae, Schizosaccharomyces pombe, 
+Kluyveromyces strains, Candida, or any yeast strain capable of expressing heterologous proteins. Potentially suitable 
+bacterial strains include Escherichia coli, Bacillus subtilis, Salmonella typhimurium, or any bacterial strain capable of 
+expressing heterologous proteins. If the protein is made in yeast or bacteria, it may be necessary to modify the protein 
+produced therein, for example by phosphorylation or glycosylation of the appropriate sites, in order to obtain the functional 
+protein. Such covalent attachments may be accomplished using known chemical or enzymatic methods. 
+[0044] The protein may also be produced by operably linking the isolated polynucleotide of the invention to suitable 
+control sequences in one or more insect expression vectors, and employing an insect expression system. Materials and 
+methods for baculovirus/ insect cell expression systems are commercially available in kit form from, e.g., Invitrogen, San 
+Diego, California, U.S.A. (the MaxBac® kit), and such methods are well known in the art, as described in Summers and 
+Smith, Texas Agricultural Experiment Station Bulletin No. 1555 (1987). As used herein, an insect cell capable of ex-
+pressing a polynucleotide of the present invention is "transformed." 
+[0045] The protein of the invention may be prepared by culturing transformed host cells under culture conditions 
+suitable to express the recombinant protein. The resulting expressed protein may then be purified from such culture 
+(i.e., from culture medium or cell extracts) using known purification processes, such as gel filtration and ion exchange 
+chromatography. The purification of the protein may also include an affinity column containing agents which will bind to 
+the protein; one or more column steps over such affinity resins as concanavalin A-agarose, heparin-toyopearl® or 
+Cibacrom blue 3GA Sepharose®; one or more steps involving hydrophobic interaction chromatography using such resins 
+as phenyl ether, butyl ether, or propyl ether; or immunoaffinity chromatography. 
+[0046] Alternatively, the protein of the invention may also be expressed in a form which will facilitate purification. For 
+example, it may be expressed as a fusion protein, such as those of maltose binding protein (MBP), glutathione-S-
+transferase (GST) or thioredoxin (TRX). Kits for expression and purification of such fusion proteins are commercially 
+available from New England BioLabs (Beverly, MA). Pharmacia (Piscataway. NJ) and Invitrogen Corporation (Carlsbad, 
+CA), respectively. The protein can also be tagged with an epitope and subsequently purified by using a specific antibody 
+directed to such epitope. One such epitope ("Flag") is commercially available from the Eastman Kodak Company (New 
+Haven. CT). 
+[0047] In addition, one or more reverse-phase high performance liquid chromatography (RP-HPLC) steps employing 
+hydrophobic RP-HPLC media, e.g., silica gel having pendant methyl or other aliphatic groups, can be employed to further 
+purify the protein. Some or all of the foregoing purification steps, in various combinations, can also be employed to 
+provide a substantially homogeneous isolated recombinant protein. The protein thus purified is substantially free of other 
+mammalian proteins and is defined in accordance with the present invention as an "isolated protein." 
+[0048] The protein of the invention may also be expressed as a product of non-human transgenic animals, e.g., as a 
+component of the milk of transgenic cows, goats, pigs, or sheep which are characterized by somatic or germ cells 
+containing a nucleotide sequence encoding the protein. 
+[0049] The protein may also be produced by known conventional chemical synthesis. Methods for constructing the 
+proteins of the present invention by synthetic means are known to those skilled in the art. The synthetically-constructed 
+protein sequences, by virtue of sharing primary, secondary or tertiary structural and/or conformational characteristics 
+with proteins may possess biological properties in common therewith, including protein activity. Thus, they may be 
+employed as biologically active or immunological substitutes for natural, purified proteins in screening of therapeutic 
+compounds and in immunological processes for the development of antibodies. 
+[0050] The proteins provided herein also include proteins characterized by amino acid sequences similar to those of 
+
+
+EP 1 177 312 B1 
+
+11 
+
+5 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+purified proteins but into which modification are naturally provided or deliberately engineered. For example, modifications 
+in the peptide or DNA sequences can be made by those skilled in the art using known techniques. Modifications of 
+interest in the protein sequences may include the alteration, substitution, replacement, insertion or deletion of a selected 
+amino acid residue in the coding sequence. For example, one or more of the cysteine residues may be deleted or 
+replaced with another amino acid to alter the conformation of the molecule. Techniques for such alteration, substitution, 
+replacement, insertion or deletion are well known to those skilled in the art (see, e.g., U.S. Patent No. 4,518,584). 
+Preferably, such alteration, substitution, replacement, insertion or deletion retains the desired activity of the protein. 
+[0051] Other fragments and derivatives of the sequences of proteins which would be expected to retain protein activity 
+in whole or in part and may thus be useful for screening or other immunological methodologies may also be easily made 
+by those skilled in the art given the disclosures herein. Such modifications are believed to be encompassed by the 
+present invention. 
+
+USES AND BIOLOGICAL ACTIVITY 
+
+[0052] The polynucleotides and proteins of the present invention can exhibit one or more of the uses or biological 
+activities (including those associated with assays cited herein) identified below. Uses or activities described for proteins 
+of the present invention may be provided by administration or use of such proteins or by administration or use of 
+polynucleotides encoding such proteins (such as, for example, in gene therapies or vectors suitable for introduction of 
+DNA). 
+
+hGIL-19 Uses 
+
+[0053] Because of its homology to IL-10, human GIL-19/AE289 can be considered a member of the general family of 
+cytokines and, as such, can exhibit similar activities to IL-10. Cytokines play important roles both in health and disease 
+and have multiple clinical indications. Therefore this molecule (and other molecules of the present invention) will be 
+useful as an agonist in certain clinical indications and antagonists of this molecule will be useful in other clinical situations, 
+particularly in those in which IL-10 acts as an agonist or IL-10 antagonists act as an antagonist. Whether the agonist or 
+antagonist is the preferred drug will depend on the particular aspects of the disease pathology, such as the cell types 
+involved, the nature of the stimulus and the cellular microenvironment. 
+[0054] In a preferred embodiment, a hGIL-19 activity is at least one or more of the following activities: (1) modulating, 
+for example antagonizing a signal transduction pathway (e.g. a GIL-19 dependant pathway); (2) modulating cytokine 
+production and/or secretion (e.g. production and/or secretion of a proinflammatory cytokine); (3) modulating lymphokine 
+production and/or secretion; (4) modulating production of adhesion molecules and/or cellular adhesion; (5) modulating 
+expression or activity of nuclear transcription factors; (7) modulating secretion of IL-1; (8) competing with receptors for 
+other cytokines; (9) competing with another hGIL-19 family member protein to bind a hGIL-19 receptor; (10) modulating 
+nuclear translocation of internalized receptor for hGIL-19 or another cytokine or ligand-complexed receptor, (11) mod-
+ulating cell proliferation, development or differentiation, for example, cytokine-stimulated or a hGIL-19 protein-stimulated 
+proliferation, development or differentiation (e.g., of an epithelial cell, for example, a squamous epithelial cell of the 
+esophagus, or of a skin cell, e.g., a keratinocyte); (12) modulating cell proliferation, development or differentiation of an 
+osteogenic cell (e.g., of an osteoclast precursor cell, osteoclast and/or osteoblast); (13) modulating bone formation, 
+bone metabolism and/or bone homeostasis (e.g., inhibiting bone resorption); (15) modulating cellular immune responses; 
+(16) modulating cytokine-mediated proinflammatory actions (e.g., inhibiting acute phase protein synthesis by hepato-
+cytes, fever, and/or prostaglandin synthesis, for example PGE 2 synthesis); and (17) promoting and/or potentiating wound 
+healing. 
+[0055] Considering its apparent immunomodulatory role, human GIL-19/AE289 proteins may act on the following cell 
+types: T cells, B cells, dendritic cells, macrophages/ monocytes, neutrophils, mast cells, basophils, eosinophils, antigen 
+presenting cells of the nervous system and antigen presenting cells of the kidney. Based on its homology to IL-10, human 
+GIL-19/AE289 proteins (or agonists or antagonistss thereof) can have the following activities and uses: 
+
+(a) Upregulation of humoral immune responses and attenuates cell mediated immune reactions; 
+
+(b) Function as an anti-inflammatory agent by inhibiting the synthesis of proinflammatory cytokines and chemokines; 
+
+(c) Modulation of inflammatory responses associated with injury, sepsis, gastrointestinal and cardiovascular disease, 
+and inflammation following surgery; 
+
+(d) Treatment of acute myelogenous leukemia, Non-Hodgkin's lymphoma, bone marrow transplantation to treat 
+recipient before engraftment, bone marrow transplantation to treat stem cells of donor before transplantation, and 
+
+
+EP 1 177 312 B1 
+
+12 
+
+5 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+to ameliorate graft versus host disease following bone marrow transplantation; 
+
+(e) Treatment cell mediated autoimmune diseases such as multiple sclerosis, diabetes, rheumatoid arthritis, 
+myasthenia gravis, systemic lupus erythematosus, nephrotoxicity associated with glomerulonephritis, inflammatory 
+bowel disease, Crohn's disease, pancreatitis, and asthma. 
+
+[0056] Human GIL-19/AE289 agonists include without limitation human GIL-19/AE289 proteins and fragments, deletion 
+mutants and addition mutants thereof; and peptide and small molecule compounds that interact with the receptor or 
+other target to which human GIL-19/AE289 is directed. Human GIL-19/AE289 antagonists include without limitation 
+antibodies directed to human GIL-19/AE289 proteins; soluble forms of the receptor or other target to which human GIL-
+19/AE289 is directed; antibodies directed to the receptor or other target to which human GIL-19/AE289 is directed; and 
+peptide and small molecule compounds that inhibit or interfere with the interaction of human GIL-19/AE289 with its 
+receptor or other target. 
+
+Research Uses and Utilities 
+
+[0057] The polynucleotides provided by the present invention can be used by the research community for various 
+purposes. The polynucleotides can be used to express recombinant protein for analysis, characterization or therapeutic 
+use; as markers for tissues in which the corresponding protein is preferentially expressed (either constitutively or at a 
+particular stage of tissue differentiation or development or in disease states); as molecular weight markers on Southern 
+gels; as chromosome markers or tags (when labeled) to identify chromosomes or to map related gene positions; to 
+compare with endogenous DNA sequences in patients to identify potential genetic disorders; as probes to hybridize and 
+thus discover novel, related DNA sequences; as a source of information to derive PCR primers for genetic fingerprinting; 
+as a probe to "subtract-out" known sequences in the process of discovering other novel polynucleotides; for selecting 
+and making oligomers for attachment to a "gene chip" or other support, including for examination of expression patterns; 
+to raise anti-protein antibodies using DNA immunization techniques; and as an antigen to raise anti-DNA antibodies or 
+elicit another immune response. Where the polynucleotide encodes a protein which binds or potentially binds to another 
+protein (such as, for example, in a receptor-ligand interaction), the polynucleotide can also be used in interaction trap 
+assays (such as, for example, those described in Gyuris et al., 1993, Cell 75: 791-803 and in Rossi et al., 1997, Proc. 
+Natl. Acad Sci. USA 94: 8405-8410) to identify polynucleotides encoding the other protein with which binding occurs or 
+to identify inhibitors of the binding interaction. 
+[0058] The proteins provided by the present invention can similarly be used in assays to determine biological activity, 
+including in a panel of multiple proteins for high-throughput screening; to raise antibodies or to elicit another immune 
+response; as a reagent (including the labeled reagent) in assays designed to quantitatively determine levels of the protein 
+(or its receptor) in biological fluids ; as markers for tissues in which the corresponding protein is preferentially expressed 
+(either constitutively or at a particular stage of tissue differentiation or development or in a disease state); and, of course, 
+to isolate correlative receptors or ligands. Where the protein binds or potentially binds to another protein (such as, for 
+example, in a receptor-ligand interaction), the protein can be used to identify the other protein with which binding occurs 
+or to identify inhibitors of the binding interaction. Proteins involved in these binding interactions can also be used to 
+screen for peptide or small molecule inhibitors or agonists of the binding interaction. 
+[0059] Any or all of these research utilities are capable of being developed into reagent grade or kit format for com-
+mercialization as research products. 
+[0060] Methods for performing the uses listed above are well known to those skilled in the art. References disclosing 
+such methods include without limitation "Molecular Cloning: A Laboratory Manual", 2d ed., Cold Spring Harbor Laboratory 
+Press, Sambrook, J., E.F. Fritsch and T. Maniatis eds., 1989, and "Methods in Enzymology: Guide to Molecular Cloning 
+Techniques", Academic Press, Berger, S.L. and A.R. Kimmel eds., 1987. 
+
+Nutritional Uses 
+
+[0061] Polynucleotides and proteins of the present invention can also be used as nutritional sources or supplements. 
+Such uses include without limitation use as a protein or amino acid supplement, use as a carbon source, use as a 
+nitrogen source and use as a source of carbohydrate. In such cases the protein or polynucleotide of the invention can 
+be added to the feed of a particular organism or can be administered as a separate solid or liquid preparation, such as 
+in the form of powder, pills, solutions, suspensions or capsules. In the case of microorganisms, the protein or polynu-
+cleotide of the invention can be added to the medium in or on which the microorganism is cultured. 
+
+
+EP 1 177 312 B1 
+
+13 
+
+5 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Cytokine and Cell Proliferation/ Differentiation Activity 
+
+[0062] A protein of the present invention may exhibit cytokine, cell proliferation (either inducing or inhibiting) or cell 
+differentiation (either inducing or inhibiting) activity or may induce production of other cytokines in certain cell populations. 
+Many protein factors discovered to date, including all known cytokines, have exhibited activity in one or more factor-
+dependent cell proliferation assays, and hence the assays serve as a convenient confirmation of cytokine activity. The 
+activity of a protein of the present invention is evidenced by any one of a number of routine factor dependent cell 
+proliferation assays for cell lines including, without limitation, 32D, DA2, DA1G, T10, B9, B9/11, BaF3, MC9/G, M+ (preB 
+M+), 2E8, RB5, DA1, 123, T1165, HT2, CTLL2, TF-1, Mo7e and CMK. The activity of a protein of the invention may, 
+among other means, be measured by the following methods: 
+
+Assays for T-cell or thymocyte proliferation include without limitation those described in: Current Protocols in Im-
+munology, Ed by J. E. Coligan, A.M. Kruisbeek, D.H. Margulies, E.M. Shevach, W Strober, Pub. Greene Publishing 
+Associates and Wiley-Interscience (Chapter 3, In Vitro assays for Mouse Lymphocyte Function 3.1-3.19; Chapter 
+7, Immunologic studies in Humans); Takai et al., J. Immunol. 137: 3494-3500, 1986; Bertagnolli et al., J. Immunol. 
+145: 1706-1712, 1990; Bertagnolli et al., Cellular Immunology 133: 327-341, 1991; Bertagnolli, et al., J. Immunol. 
+149: 3778-3783, 1992; Bowman et al., J. Immunol. 152: 1756-1761, 1994. 
+Assays for cytokine production and/or proliferation of spleen cells, lymph node cells or thymocytes include, without 
+limitation, those described in: Polyclonal T cell stimulation, Kruisbeek, A.M. and Shevach, E.M. In Current Protocols 
+in Immunology. J.E. Coligan eds. Vol 1 pp. 3.12.1-3.12.14, John Wiley and Sons, Toronto. 1994; and Measurement 
+of mouse and human Interferon γ, Schreiber, R.D. In Current Protocols in Immunology. J.E. Coligan eds. Vol 1 pp. 
+6.8.1-6.8.8, John Wiley and Sons, Toronto. 1994. 
+Assays for proliferation and differentiation of hematopoietic and lymphopoietic cells include, without limitation, those 
+described in: Measurement of Human and Murine Interleukin 2 and Interleukin 4, Bottomly, K., Davis, L.S. and 
+Lipsky, P.E. In Current Protocols in Immunology. J.E.e.a. Coligan eds. Vol 1 pp. 6.3.1-6.3.12, John Wiley and Sons, 
+Toronto. 1991; deVries et al., J. Exp. Med. 173: 1205-1211, 1991; Moreau et al., Nature 336: 690-692, 1988; Green-
+berger et al., Proc. Natl. Acad. Sci. U.S.A. 80: 2931-2938, 1983; Measurement of mouse and human interleukin 6 -
+Nõrdan, R. In Current Protocols in Immunology. J.E.e.a. Coligan eds. Vol I pp. 6.6.1-6.6.5, John Wiley and Sons, 
+Toronto. 1991; Smith et al., Proc. Natl. Acad. Sci. U.S.A. 83: 1857-1861, 1986; Measurement of human Interleukin 
+11 -Bennett, F., Giannotti, J., Clark, S.C. and Turner, K. J. In Current Protocols in Immunology. J.E.e.a. Coligan 
+eds. Vol 1 pp. 6.15.1 John Wiley and Sons, Toronto. 1991; Measurement of mouse and human Interleukin 9 -
+Ciarletta, A., Giannotti, J., Clark, S.C. and Turner, K.J. In Current Protocols in Immunology. J.E.e.a. Coligan eds. 
+Vol 1 pp. 6.13.1, John Wiley and Sons, Toronto. 1991. 
+Assays for T-cell clone responses to antigens (which will identify, among others, proteins that affect APC-T cell 
+interactions as well as direct T-cell effects by measuring proliferation and cytokine production) include, without 
+limitation, those described in: Current Protocols in Immunology, Ed by J. E. Coligan, A.M. Kruisbeek, D.H. Margulies, 
+E.M. Shevach, W Strober, Pub. Greene Publishing Associates and Wiley-Interscience (Chapter 3, In Vitro assays 
+for Mouse Lymphocyte Function; Chapter 6, Cytokines and their cellular receptors; Chapter 7, Immunologic studies 
+in Humans); Weinberger et al., Proc. Natl. Acad. Sci. USA 77: 6091-6095, 1980; Weinberger et al., Eur. J. Immun. 
+11: 405-411, 1981; Takai et al., J. Immunol. 137: 3494-3500,1986; Takai et al., J. Immunol. 140: 508-512, 1988. 
+
+Immune Stimulating or Suppressing Activity 
+
+[0063] A protein of the present invention may also exhibit immune stimulating or immune suppressing activity, including 
+without limitation the activities for which assays are described herein. A protein may be useful in the treatment of various 
+immune deficiencies and disorders (including severe combined immunodeficiency (SCID)), e.g., in regulating (up or 
+down) growth and proliferation of T and/or B lymphocytes, as well as affecting the cytolytic activity of NK cells and other 
+cell populations. These immune deficiencies may be genetic or be caused by viral (e.g., HIV) as well as bacterial or 
+fungal infections, or may result from autoimmune disorders. More specifically, infectious diseases caused by viral, 
+bacterial, fungal or other infection may be treatable using a protein of the present invention, including infections by HIV, 
+hepatitis viruses, herpesviruses, mycobacteria, Leishmania spp., malaria spp. and various fungal infections such as 
+candidiasis. Of course, in this regard, a protein of the present invention may also be useful where a boost to the immune 
+system generally may be desirable, i.e., in the treatment of cancer. 
+[0064] Autoimmune disorders which may be treated using a protein of the present invention include, for example, 
+connective tissue disease, multiple sclerosis, systemic lupus erythematosus, rheumatoid arthritis, autoimmune pulmo-
+nary inflammation, Guillain-Barre syndrome, autoimmune thyroiditis, insulin dependent diabetes mellitus, myasthenia 
+gravis, graft-versus-host disease and autoimmune inflammatory eye disease. Such a protein of the present invention 
+may also to be useful in the treatment of allergic reactions and conditions, such as asthma (particularly allergic asthma) 
+
+
+EP 1 177 312 B1 
+
+14 
+
+5 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+or other respiratory problems. Other conditions, in which immune suppression is desired (including, for example, organ 
+transplantation), may also be treatable using a protein of the present invention. 
+[0065] Using the proteins of the invention it may also be possible to regulate immune responses in a number of ways. 
+Down regulation may be in the form of inhibiting or blocking an immune response already in progress or may involve 
+preventing the induction of an immune response. The functions of activated T cells may be inhibited by suppressing T 
+cell responses or by inducing specific tolerance in T cells, or both. Immunosuppression of T cell responses is generally 
+an active, non-antigen-specific, process which requires continuous exposure of the T cells to the suppressive agent. 
+Tolerance, which involves inducing non-responsiveness or anergy in T cells, is distinguishable from immunosuppression 
+in that it is generally antigen-specific and persists after exposure to the tolerizing agent has ceased. Operationally, 
+tolerance can be demonstrated by the lack of a T cell response upon reexposure to specific antigen in the absence of 
+the tolerizing agent. 
+[0066] Down regulating or preventing one or more antigen functions (including without limitation B lymphocyte antigen 
+functions (such as, for example, B7)), e.g., preventing high level lymphokine synthesis by activated T cells, will be useful 
+in situations of tissue, skin and organ transplantation and in graft-versus-host disease (GVHD). For example, blockage 
+of T cell function should result in reduced tissue destruction in tissue transplantation. Typically, in tissue transplants, 
+rejection of the transplant is initiated through its recognition as foreign by T cells, followed by an immune reaction that 
+destroys the transplant. The administration of a molecule which inhibits or blocks interaction of a B7 lymphocyte antigen 
+with its natural ligand (s) on immune cells (such as a soluble, monomeric form of a peptide having B7-2 activity alone or 
+in conjunction with a monomeric form of a peptide having an activity of another B lymphocyte antigen (e.g., B7-1, B7-3) 
+or blocking antibody, prior to transplantation can lead to the binding of the molecule to the natural ligand (s) on the immune 
+cells without transmitting the corresponding costimulatory signal. Blocking B lymphocyte antigen function in this matter 
+prevents cytokine synthesis by immune cells, such as T cells, and thus acts as an immunosuppressant. Moreover, the 
+lack of costimulation may also be sufficient to anergize the T cells, thereby inducing tolerance in a subject. Induction of 
+long-term tolerance by B lymphocyte antigen-blocking reagents may avoid the necessity of repeated administration of 
+these blocking reagents. To achieve sufficient immunosuppression or tolerance in a subject, it may also be necessary 
+to block the function of a combination of B lymphocyte antigens. 
+[0067] The efficacy of particular blocking reagents in preventing organ transplant rejection or GVHD can be assessed 
+using animal models that are predictive of efficacy in humans. Examples of appropriate systems which can be used 
+include allogeneic cardiac grafts in rats and xenogeneic pancreatic islet cell grafts in mice, both of which have been 
+used to examine the immunosuppressive effects of CTLA4Ig fusion proteins in vivo as described in Lenschow et al., 
+Science 257: 789-792 (1992) and Turka et al., Proc. Natl. Acad. Sci USA, 89: 11102-11105 (1992) . In addition, murine 
+models of GVHD (see Paul ed., Fundamental Immunology, Raven Press, New York, 1989, pp. 846-847) can be used 
+to determine the effect of blocking B lymphocyte antigen function in vivo on the development of that disease. 
+[0068] Blocking antigen function may also be therapeutically useful for treating autoimmune diseases. Many autoim-
+mune disorders are the result of inappropriate activation of T cells that are reactive against self tissue and which promote 
+the production of cytokines and autoantibodies involved in the pathology of the diseases. Preventing the activation of 
+autoreactive T cells may reduce or eliminate disease symptoms. Administration of reagents which block costimulation 
+of T cells by disrupting receptor: ligand interactions of B lymphocyte antigens can be used to inhibit T cell activation and 
+prevent production of autoantibodies or T cell-derived cytokines which may be involved in the disease process. Addi-
+tionally, blocking reagents may induce antigen-specific tolerance of autoreactive T cells which could lead to long-term 
+relief from the disease. The efficacy of blocking reagents in preventing or alleviating autoimmune disorders can be 
+determined using a number of well-characterized animal models of human autoimmune diseases. Examples include 
+murine experimental autoimmune encephalitis, systemic lupus erythmatosis in MRL/ lpr/ lpr mice or NZB hybrid mice, 
+murine autoimmune collagen arthritis, diabetes mellitus in NOD mice and BB rats, and murine experimental myasthenia 
+gravis (see Paul ed., Fundamental Immunology, Raven Press, New York, 1989, pp. 840-856). 
+[0069] Upregulation of an antigen function (preferably a B lymphocyte antigen function), as a means of up regulating 
+immune responses, may also be useful in therapy. Upregulation of immune responses may be in the form of enhancing 
+an existing immune response or eliciting an initial immune response. For example, enhancing an immune response 
+through stimulating B lymphocyte antigen function may be useful in cases of viral infection. In addition, systemic viral 
+diseases such as influenza, the common cold, and encephalitis might be alleviated by the administration of stimulatory 
+forms of B lymphocyte antigens systemically. 
+[0070] Alternatively, anti-viral immune responses may be enhanced in an infected patient by removing T cells from 
+the patient, costimulating the T cells in vitro with viral antigen-pulsed APCs either expressing a peptide of the present 
+invention or together with a stimulatory form of a soluble peptide of the present invention and reintroducing the in vitro 
+activated T cells into the patient. Another method of enhancing anti-viral immune responses would be to isolate infected 
+cells from a patient, transfect them with a nucleic acid encoding a protein of the present invention as described herein 
+such that the cells express all or a portion of the protein on their surface, and reintroduce the transfected cells into the 
+patient. The infected cells would now be capable of delivering a costimulatory signal to, and thereby activate, T cells in vivo. 
+
+
+EP 1 177 312 B1 
+
+15 
+
+5 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[0071] In another application, up regulation or enhancement of antigen function (preferably B lymphocyte antigen 
+function) may be useful in the induction of tumor immunity. Tumor cells (e.g., sarcoma, melanoma, lymphoma, leukemia, 
+neuroblastoma, carcinoma) transfected with a nucleic acid encoding at least one peptide of the present invention can 
+be administered to a subject to overcome tumor-specific tolerance in the subject. If desired, the tumor cell can be 
+transfected to express a combination of peptides. For example, tumor cells obtained from a patient can be transfected 
+ex vivo with an expression vector directing the expression of a peptide having B7-2-like activity alone, or in conjunction 
+with a peptide having B7-1-like activity and/or B7-3-like activity. The transfected tumor cells are returned to the patient 
+to result in expression of the peptides on the surface of the transfected cell. Alternatively, gene therapy techniques can 
+be used to target a tumor cell for transfection in vivo. 
+[0072] The presence of the peptide of the present invention having the activity of a B lymphocyte antigen (s) on the 
+surface of the tumor cell provides the necessary costimulation signal to T cells to induce a T cell mediated immune 
+response against the transfected tumor cells. In addition, tumor cells which lack MHC class I or MHC class II molecules, 
+or which fail to reexpress sufficient amounts of MHC class I or MHC class II molecules, can be transfected with nucleic 
+acid encoding all or a portion of (e.g., a cytoplasmic-domain truncated portion) of an MHC class I a chain protein and 
+β 2 microglobulin protein or an MHC class II a chain protein and an MHC class II β chain protein to thereby express MHC 
+
+class I or MHC class II proteins on the cell surface. Expression of the appropriate class I or class II MHC in conjunction 
+with a peptide having the activity of a B lymphocyte antigen (e.g., B7-1, B7-2, B7-3) induces a T cell mediated immune 
+response against the transfected tumor cell. Optionally, a gene encoding an antisense construct which blocks expression 
+of an MHC class II associated protein, such as the invariant chain, can also be cotransfected with a DNA encoding a 
+peptide having the activity of a B lymphocyte antigen to promote presentation of tumor associated antigens and induce 
+tumor specific immunity. Thus, the induction of a T cell mediated immune response in a human subject may be sufficient 
+to overcome tumor-specific tolerance in the subject. 
+[0073] The activity of a protein of the invention may, among other means, be measured by the following methods: 
+
+Suitable assays for thymocyte or splenocyte cytotoxicity include, without limitation, those described in: Current 
+Protocols in Immunology, Ed by J. E. Coligan, A.M. Kruisbeek, D.H. Margulies, E.M. Shevach, W Strober, Pub. 
+Greene Publishing Associates and Wiley-Interscience (Chapter 3, In Vitro assays for Mouse Lymphocyte Function 
+3.1-3.19; Chapter 7, Immunologic studies in Humans); Herrmann et al., Proc. Natl. Acad. Sci. USA 78: 2488-2492, 
+1981; Herrmann et al., J. Immunol. 128: 1968-1974, 1982; Handa et al., J. Immunol. 135: 1564-1572, 1985; Takai 
+et al., J. Immunol. 137: 3494-3500, 1986; Takai et al., J. Immunol. 140: 508-512, 1988; Herrmann et al., Proc. Natl. 
+Acad. Sci. USA 78: 2488-2492, 1981; Herrmann et al., J. Immunol. 128: 1968-1974, 1982; Handa et al., J. Immunol. 
+135: 1564-1572, 1985; Takai et al., J. Immunol. 137: 3494-3500, 1986; Bowmanet al., J. Virology 61: 1992-1998; 
+Takai et al., J. Immunol. 140: 508-512, 1988; Bertagnolli et al., Cellular Immunology 133: 327-341, 1991; Brown et 
+al., J. Immunol. 153: 3079-3092, 1994. 
+Assays for T-cell-dependent immunoglobulin responses and isotype switching (which will identify, among others, 
+proteins that modulate T-cell dependent antibody responses and that affect Th1/Th2 profiles) include, without lim-
+itation, those described in: Maliszewski, J. Immunol. 144: 3028-3033, 1990; and Assays for B cell function: In vitro 
+antibody production, Mond, J.J. and Brunswick, M. In Current Protocols in Immunology. J.E.e.a. Coligan eds. Vol 
+1 pp. 3.8.1-3.8.16, John Wiley and Sons, Toronto. 1994. 
+Mixed lymphocyte reaction (MLR) assays (which will identify, among others, proteins that generate predominantly 
+Th1 and CTL responses) include, without limitation, those described in: Current Protocols in Immunology, Ed by J. 
+E. Coligan, A.M. Kruisbeek. D.H. Margulies, E.M. Shevach, W Strober, Pub. Greene Publishing Associates and 
+Wiley-Interscience (Chapter 3, In Vitro assays for Mouse Lymphocyte Function 3.1-3.19; Chapter 7, Immunologic 
+studies in Humans); Takai et al., J. Immunol. 137: 3494-3500, 1986; Takai et al., J. Immunol. 140: 508=512, 1988; 
+Bertagnolli et al., J. Immunol. 149: 3778-3783, 1992. 
+Dendritic cell-dependent assays (which will identify, among others, proteins expressed by dendritic cells that activate 
+naive T-cells) include, without limitation, those described in: Guery et al., J. Immunol. 134: 536-544, 1995; Inaba et 
+al., Journal of Experimental Medicine 173: 549-559, 1991; Macatonia et al., Journal of Immunology 154: 5071-5079, 
+1995; Porgador et al., Journal of Experimental Medicine 182: 255-260, 1995; Nair et al., Journal of Virology 67: 
+4062-4069, 1993; Huang et al., Science 264: 961-965, 1994; Macatonia et al., Journal of Experimental Medicine 
+169: 1255-1264, 1989; Bhardwaj et al., Journal of Clinical Investigation 94: 797-807, 1994; and Inaba et al., Journal 
+of Experimental Medicine 172: 631-640, 1990. 
+Assays for lymphocyte survival/ apoptosis (which will identify, among others, proteins that prevent apoptosis after 
+superantigen induction and proteins that regulate lymphocyte homeostasis) include, without limitation, those de-
+scribed in: Darzynkiewicz et al., Cytometry 13: 795-808, 1992; Gorczyca et al., Leukemia 7: 659-670, 1993; Gorczyca 
+et al., Cancer Research 53: 1945-1951, 1993; Itoh et al., Cell 66: 233-243, 1991; Zacharchuk, Journal of Immunology 
+145: 4037-4045, 1990 ; Zamai et al., Cytometry 14: 891-897, 1993; Gorczyca et al., International Journal of Oncology 
+1: 639-648, 1992. 
+
+
+EP 1 177 312 B1 
+
+16 
+
+5 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Assays for proteins that influence early steps of T-cell commitment and development include, without limitation, 
+those described in: Antica et al., Blood 84: 111-117, 1994; Fine et al., Cellular Immunology 155: 111-122,1994; Galyet 
+al., Blood 85: 2770-2778, 1995; Toki et al., Proc. Nat. Acad Sci. USA 88: 7548-7551, 1991. 
+
+Hematopoiesis Regulating Activity 
+
+[0074] A protein of the present invention may be useful in regulation of hematopoiesis and, consequently, in the 
+treatment of myeloid or lymphoid cell deficiencies. Even marginal biological activity in support of colony forming cells or 
+of factor-dependent cell lines indicates involvement in regulating hematopoiesis, e.g. in supporting the growth and 
+proliferation of erythroid progenitor cells alone or in combination with other cytokines, thereby indicating utility, for example, 
+in treating various anemias or for use in conjunction with irradiation/ chemotherapy to stimulate the production of erythroid 
+precursors and/or erythroid cells; in supporting the growth and proliferation of myeloid cells such as granulocytes and 
+monocytes/ macrophages (i.e., traditional CSF activity) useful, for example, in conjunction with chemotherapy to prevent 
+or treat consequent myelo-suppression; in supporting the growth and proliferation of megakaryocytes and consequently 
+of platelets thereby allowing prevention or treatment of various platelet disorders such as thrombocytopenia, and generally 
+for use in place of or complimentary to platelet transfusions; and/or in supporting the growth and proliferation of hemat-
+opoietic stem cells which are capable of maturing to any and all of the above-mentioned hematopoietic cells and therefore 
+find therapeutic utility in various stem cell disorders (such as those usually treated with transplantation, including, without 
+limitation, aplastic anemia and paroxysmal nocturnal hemoglobinuria), as well as in repopulating the stem cell compart-
+ment post irradiation/ chemotherapy, either in-vivo or ex-vivo (i.e., in conjunction with bone marrow transplantation or 
+with peripheral progenitor cell transplantation (homologous or heterologous)) as normal cells or genetically manipulated 
+for gene therapy. 
+[0075] The activity of a protein of the invention may, among other means, be measured by the following methods: 
+
+Suitable assays for proliferation and differentiation of various hematopoietic lines are cited above. 
+
+[0076] Assays for embryonic stem cell differentiation (which will identify, among others, proteins that influence em-
+bryonic differentiation hematopoiesis) include, without limitation, those described in: Johansson et al. Cellular Biology 
+15: 141-151, 1995; Keller et al., Molecular and Cellular Biology 13: 473-486, 1993; McClanahan et al., Blood 81: 2903-2915, 
+1993. 
+[0077] Assays for stem cell survival and differentiation (which will identify, among others, proteins that regulate lympho-
+hematopoiesis) include, without limitation, those described in: Methylcellulose colony forming assays, Freshney, M.G. 
+In Culture of Hematopoietic Cells. R.I. Freshney, et al. eds. Vol pp. 265-268, Wiley-Liss, Inc., New York, NY. 1994; 
+Hirayama et al., Proc. Natl. Acad. Sci. USA 89: 5907-5911, 1992; Primitive hematopoietic colony forming cells with high 
+proliferative potential, McNiece, I.K. and Briddell, R.A. In Culture of Hematopoietic Cells. R.I. Freshney, et al. eds. Vol 
+pp. 23-39, Wiley-Liss, Inc., New York, NY. 1994; Neben et al., Experimental Hematology 22: 353-359, 1994; Cobblestone 
+area forming cell assay, Ploemacher, R.E. In Culture of Hematopoietic Cells. R.I. Freshney, et al. eds. Vol pp. 1-21, 
+Wiley-Liss, Inc.., New York, NY. 1994; Long term bone marrow cultures in the presence of stromal cells, Spooncer, E., 
+Dexter, M. and Allen, T. In Culture of Hematopoietic Cells. R.I. Freshney, et al. eds. Vol pp. 163-179, Wiley-Liss, Inc., 
+New York, NY. 1994; Long term culture initiating cell assay, Sutherland, H.J. In Culture of Hematopoietic Cells. R.I. 
+Freshney, et al. eds. Vol pp. 139-162, Wiley-Liss, Inc., New York, NY. 1994. 
+
+Tissue Growth Activity 
+
+[0078] A protein of the present invention also may have utility in compositions used for bone, cartilage, tendon, ligament 
+and/or nerve tissue growth or regeneration, as well as for wound healing and tissue repair and replacement, and in the 
+treatment of burns, incisions and ulcers. 
+[0079] A protein of the present invention, which induces cartilage and/or bone growth in circumstances where bone 
+is not normally formed, has application in the healing of bone fractures and cartilage damage or defects in humans and 
+other animals. Such a preparation employing a protein of the invention may have prophylactic use in closed as well as 
+open fracture reduction and also in the improved fixation of artificial joints. De novo bone formation induced by an 
+osteogenic agent contributes to the repair of congenital, trauma induced, or oncologic resection induced craniofacial 
+defects, and also is useful in cosmetic plastic surgery. 
+[0080] A protein of this invention may also be used in the treatment of periodontal disease, and in other tooth repair 
+processes. Such agents may provide an environment to attract bone-forming cells, stimulate growth of bone-forming 
+cells or induce differentiation of progenitors of bone-forming cells. A protein of the invention may also be useful in the 
+treatment of osteoporosis or osteoarthritis, such as through stimulation of bone and/or cartilage repair or by blocking 
+inflammation or processes of tissue destruction (collagenase activity, osteoclast activity, etc.) mediated by inflammatory 
+
+
+EP 1 177 312 B1 
+
+17 
+
+5 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+processes. 
+[0081] Another category of tissue regeneration activity that may be attributable to the protein of the present invention 
+is tendon/ ligament formation. A protein of the present invention, which induces tendon/ ligament-like tissue or other tissue 
+formation in circumstances where such tissue is not normally formed, has application in the healing of tendon or ligament 
+tears, deformities and other tendon or ligament defects in humans and other animals. Such a preparation employing a 
+tendon/ ligament-like tissue inducing protein may have prophylactic use in preventing damage to tendon or ligament 
+tissue, as well as use in the improved fixation of tendon or ligament to bone or other tissues, and in repairing defects to 
+tendon or ligament tissue. De novo tendon/ ligament-like tissue formation induced by a composition of the present 
+invention contributes to the repair of congenital, trauma induced, or other tendon or ligament defects of other origin, and 
+is also useful in cosmetic plastic surgery for attachment or repair of tendons or ligaments. The compositions of the 
+present invention may provide an environment to attract tendon-or ligament-forming cells, stimulate growth of tendon-
+or ligament-forming cells, induce differentiation of progenitors of tendon-or ligament-forming cells, or induce growth of 
+tendon/ ligament cells or progenitors ex vivo for return in vivo to effect tissue repair. The compositions of the invention 
+may also be useful in the treatment of tendinitis, carpal tunnel syndrome and other tendon or ligament defects. The 
+compositions may also include an appropriate matrix and/or sequestering agent as a carrier as is well known in the art. 
+[0082] The protein of the present invention may also be useful for proliferation of neural cells and for regeneration of 
+nerve and brain tissue, i.e. for the treatment of central and peripheral nervous system diseases and neuropathies, as 
+well as mechanical and traumatic disorders, which involve degeneration, death or trauma to neural cells or nerve tissue. 
+More specifically, a protein may be used in the treatment of diseases of the peripheral nervous system, such as peripheral 
+nerve injuries, peripheral neuropathy and localized neuropathies, and central nervous system diseases, such as Alzhe-
+imer's, Parkinson's disease, Huntington's disease, amyotrophic lateral sclerosis, and Shy-Drager syndrome. Further 
+conditions which may be treated in accordance with the present invention include mechanical and traumatic disorders, 
+such as spinal cord disorders, head trauma and cerebrovascular diseases such as stroke. Peripheral neuropathies 
+resulting from chemotherapy or other medical therapies may also be treatable using a protein of the invention. 
+[0083] Proteins of the invention may also be useful to promote better or faster closure of non-healing wounds, including 
+without limitation pressure ulcers, ulcers associated with vascular insufficiency, surgical and traumatic wounds, and the 
+like. 
+[0084] It is expected that a protein of the present invention may also exhibit activity for generation or regeneration of 
+other tissues, such as organs (including, for example, pancreas, liver, intestine, kidney, skin, endothelium), muscle 
+(smooth, skeletal or cardiac) and vascular (including vascular endothelium) tissue, or for promoting the growth of cells 
+comprising such tissues. Part of the desired effects may be by inhibition or modulation of fibrotic scarring to allow normal 
+tissue to regenerate. A protein of the invention may also exhibit angiogenic activity. 
+[0085] A protein of the present invention may also be useful for gut protection or regeneration and treatment of lung 
+or liver fibrosis, reperfusion injury in various tissues, and conditions resulting from systemic cytokine damage. 
+[0086] A protein of the present invention may also be useful for promoting or inhibiting differentiation of tissues described 
+above from precursor tissues or cells; or for inhibiting the growth of tissues described above. 
+[0087] The activity of a protein of the invention may, among other means, be measured by the following methods: 
+
+Assays for tissue generation activity include, without limitation, those described in: International Patent Publication 
+No. WO95/16035 (bone, cartilage, tendon); International Patent Publication No. WO95/05846 (nerve, neuronal); 
+International Patent Publication No. WO91/07491 (skin, endothelium). 
+Assays for wound healing activity include, without limitation, those described in: Winter, Epidermal Wound Healing, 
+pps. 71-112 (Maibach, HI and Rovee, DT, eds.), Year Book Medical Publishers, Inc., Chicago, as modified by 
+Eaglstein and Mertz, J. Invest. Dermatol 71: 382-84 (1978) . 
+
+Activin/ Inhibin Activity 
+
+[0088] A protein of the present invention may also exhibit activin-or inhibin-related activities. Inhibins are characterized 
+by their ability to inhibit the release of follicle stimulating hormone (FSH), while activins and are characterized by their 
+ability to stimulate the release of follicle stimulating hormone (FSH). Thus, a protein of the present invention, alone or 
+in heterodimers with a member of the inhibin a family, may be useful as a contraceptive based on the ability of inhibins 
+to decrease fertility in female mammals and decrease spermatogenesis in male mammals. Administration of sufficient 
+amounts of other inhibins can induce infertility in these mammals. Alternatively, the protein of the invention, as a ho-
+modimer or as a heterodimer with other protein subunits of the inhibin-β group, may be useful as a fertility inducing 
+therapeutic, based upon the ability of activin molecules in stimulating FSH release from cells of the anterior pituitary. 
+See, for example, United States Patent 4,798,885. A protein of the invention may also be useful for advancement of the 
+onset of fertility in sexually immature mammals, so as to increase the lifetime reproductive performance of domestic 
+animals such as cows, sheep and pigs. 
+
+
+EP 1 177 312 B1 
+
+18 
+
+5 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[0089] The activity of a protein of the invention may, among other means, be measured by the following methods: 
+
+Assays for activin/ inhibin activity include, without limitation, those described in: Vale et al., Endocrinology 91: 562-572, 
+1972; Ling et al., Nature 321: 779-782, 1986; Vale et al., Nature 321: 776-779, 1986; Mason et al., Nature 318: 
+659-663, 1985; Forage et al., Proc. Natl. Acad. Sci. USA 83: 3091-3095, 1986. 
+
+Chemotactic/ Chemokinetic Activity 
+
+[0090] A protein of the present invention may have chemotactic or chemokinetic activity (e.g., act as a chemokine) 
+for mammalian cells, including, for example, monocytes, fibroblasts, neutrophils, T-cells, mast cells, eosinophils, epithelial 
+and/or endothelial cells. Chemotactic and chemokinetic proteins can be used to mobilize or attract a desired cell population 
+to a desired site of action. Chemotactic or chemokinetic proteins provide particular advantages in treatment of wounds 
+and other trauma to tissues, as well as in treatment of localized infections. For example, attraction of lymphocytes, 
+monocytes or neutrophils to tumors or sites of infection may result in improved immune responses against the tumor or 
+infecting agent. 
+[0091] A protein or peptide has chemotactic activity for a particular cell population if it can stimulate, directly or indirectly, 
+the directed orientation or movement of such cell population. Preferably, the protein or peptide has the ability to directly 
+stimulate directed movement of cells. Whether a particular protein has chemotactic activity for a population of cells can 
+be readily determined by employing such protein or peptide in any known assay for cell chemotaxis. 
+[0092] The activity of a protein of the invention may, among other means, be measured by the following methods: 
+
+Assays for chemotactic activity (which will identify proteins that induce or prevent chemotaxis) consist of assays 
+that measure the ability of a protein to induce the migration of cells across a membrane as well as the ability of a 
+protein to induce the adhesion of one cell population to another cell population. Suitable assays for movement and 
+adhesion include, without limitation, those described in: Current Protocols in Immunology, Ed by J.E. Coligan, A.M. 
+Kruisbeek, D.H. Margulies, E.M. Shevach, W.Strober, Pub. Greene Publishing Associates and Wiley-Interscience 
+(Chapter 6.12, Measurement of alpha and beta Chemokines 6.12.1-6.12.28; Taub et al. J. Clin. Invest. 95: 1370-1376, 
+1995; Lind et al. APMIS 103: 140-146, 1995; Muller et al Eur. J. Immunol. 25: 1744-1748; Gruber et al. J. of Immunol. 
+152: 5860-5867, 1994; Johnston et al. J. oflmmunol. 153: 1762-1768, 1994. 
+
+Hemostatic and Thrombolytic Activity 
+
+[0093] A protein of the invention may also exhibit hemostatic or thrombolytic activity. As a result, such a protein is 
+expected to be useful in treatment of various coagulation disorders (including hereditary disorders, such as hemophilias) 
+or to enhance coagulation and other hemostatic events in treating wounds resulting from trauma, surgery or other causes. 
+A protein of the invention may also be useful for dissolving or inhibiting formation of thromboses and for treatment and 
+prevention of conditions resulting therefrom (such as, for example, infarction of cardiac and central nervous system 
+vessels (e.g., stroke). 
+[0094] The activity of a protein of the invention may, among other means, be measured by the following methods: 
+
+Assay for hemostatic and thrombolytic activity include, without limitation, those described in: Linet et al., J. Clin. 
+Pharmacol. 26: 131-140, 1986; Burdick et al., Thrombosis Res. 45: 413-419, 1987; Humphrey et al., Fibrinolysis 5: 
+71-79 (1991) ; Schaub, Prostaglandins 35: 467-474, 1988. 
+
+Receptor/ Ligand Activity 
+
+[0095] A protein of the present invention may also demonstrate activity as receptors, receptor ligands or inhibitors or 
+agonists of receptor/ ligand interactions. Examples of such receptors and ligands include, without limitation, cytokine 
+receptors and their ligands, receptor kinases and their ligands, receptor phosphatases and their ligands, receptors 
+involved in cell-cell interactions and their ligands (including without limitation, cellular adhesion molecules (such as 
+selectins, integrins and their ligands) and receptor/ ligand pairs involved in antigen presentation, antigen recognition and 
+development of cellular and humoral immune responses). Receptors and ligands are also useful for screening of potential 
+peptide or small molecule inhibitors of the relevant receptor/ ligand interaction. A protein of the present invention (including, 
+without limitation, fragments of receptors and ligands) may themselves be useful as inhibitors of receptor/ ligand inter-
+actions. 
+[0096] The activity of a protein of the invention may, among other means, be measured by the following methods: 
+
+Suitable assays for receptor-ligand activity include without limitation those described in: Current Protocols in Immu-
+
+
+EP 1 177 312 B1 
+
+19 
+
+5 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+nology, Ed by J.E. Coligan, A.M. Kruisbeek, D.H. Margulies, E.M. Shevach, W.Strober, Pub. Greene Publishing 
+Associates and Wiley-Interscience (Chapter 7.28, Measurement of Cellular Adhesion under static conditions 
+7.28.1-7.28.22), Takai et al., Proc. Natl. Acad. Sci. USA 84: 6864-6868, 1987; Bierer et al., J. Exp. Med. 168: 
+1145-1156, 1988; Rosenstein et al., J. Exp. Med. 169: 149-160 1989; Stoltenborg et al., J. Immunol. Methods 175: 
+59-68, 1994; Stitt et al., Cell 80: 661-670, 1995. 
+
+Anti-Inflammatory Activity 
+
+[0097] Proteins of the present invention may also exhibit anti-inflammatory activity. The anti-inflammatory activity may 
+be achieved by providing a stimulus to cells involved in the inflammatory response, by inhibiting or promoting cell-cell 
+interactions (such as, for example, cell adhesion), by inhibiting or promoting chemotaxis of cells involved in the inflam-
+matory process, inhibiting or promoting cell extravasation, or by stimulating or suppressing production of other factors 
+which more directly inhibit or promote an inflammatory response. Proteins exhibiting such activities can be used to treat 
+inflammatory conditions including chronic or acute conditions), including without limitation inflammation associated with 
+infection (such as septic shock, sepsis or systemic inflammatory response syndrome (SIRS)), ischemia-reperfusion 
+injury, endotoxin lethality, arthritis, complement-mediated hyperacute rejection, nephritis, cytokine or chemokine-induced 
+lung injury, inflammatory bowel disease, Crohn's disease or resulting from over production of cytokines such as TNF or 
+IL-1. Proteins of the invention may also be useful to treat anaphylaxis and hypersensitivity to an antigenic substance or 
+material. 
+
+Cadherin/ Tumor Invasion Suppressor Activity 
+
+[0098] Cadherins are calcium-dependent adhesion molecules that appear to play major roles during development, 
+particularly in defining specific cell types. Loss or alteration of normal cadherin expression can lead to changes in cell 
+adhesion properties linked to tumor growth and metastasis. Cadherin malfunction is also implicated in other human 
+diseases, such as pemphigus vulgaris and pemphigus foliaceus (auto-immune blistering skin diseases), Crohn's disease, 
+and some developmental abnormalities. 
+[0099] The cadherin superfamily includes well over forty members, each with a distinct pattern of expression. All 
+members of the superfamily have in common conserved extracellular repeats (cadherin domains), but structural differ-
+ences are found in other parts of the molecule. The cadherin domains bind calcium to form their tertiary structure and 
+thus calcium is required to mediate their adhesion. Only a few amino acids in the first cadherin domain provide the basis 
+for homophilic adhesion; modification of this recognition site can change the specificity of a cadherin so that instead of 
+recognizing only itself, the mutant molecule can now also bind to a different cadherin. In addition, some cadherins engage 
+in heterophilic adhesion with other cadherins. 
+[0100] E-cadherin, one member of the cadherin superfamily, is expressed in epithelial cell types. Pathologically, if E-
+cadherin expression is lost in a tumor, the malignant cells become invasive and the cancer metastasizes. Transfection 
+of cancer cell lines with polynucleotides expressing E-cadherin has reversed cancer-associated changes by returning 
+altered cell shapes to normal, restoring cells' adhesiveness to each other and to their substrate, decreasing the cell 
+growth rate, and drastically reducing anchorage-independent cell growth. Thus, reintroducing E-cadherin expression 
+reverts carcinomas to a less advanced stage. It is likely that other cadherins have the same invasion suppressor role in 
+carcinomas derived from other tissue types. Therefore, proteins of the present invention with cadherin activity, and 
+polynucleotides of the present invention encoding such proteins, can be used to treat cancer. Introducing such proteins 
+or polynucleotides into cancer cells can reduce or eliminate the cancerous changes observed in these cells by providing 
+normal cadherin expression. 
+[0101] Cancer cells have also been shown to express cadherins of a different tissue type than their origin, thus allowing 
+these cells to invade and metastasize in a different tissue in the body. Proteins of the present invention with cadherin 
+activity, and polynucleotides of the present invention encoding such proteins, can be substituted in these cells for the 
+inappropriately expressed cadherins, restoring normal cell adhesive properties and reducing or eliminating the tendency 
+of the cells to metastasize. 
+[0102] Additionally, proteins of the present invention with cadherin activity, and polynucleotides of the present invention 
+encoding such proteins, can used to generate antibodies recognizing and binding to cadherins. Such antibodies can be 
+used to block the adhesion of inappropriately expressed tumor-cell cadherins, preventing the cells from forming a tumor 
+elsewhere. Such an anti-cadherin antibody can also be used as a marker for the grade, pathological type, and prognosis 
+of a cancer, i.e. the more progressed the cancer, the less cadherin expression there will be, and this decrease in cadherin 
+expression can be detected by the use of a cadherin-binding antibody. 
+[0103] Fragments of proteins of the present invention with cadherin activity, preferably a polypeptide comprising a 
+decapeptide of the cadherin recognition site, and polynucleotides of the present invention encoding such protein frag-
+ments, can also be used to block cadherin function by binding to cadherins and preventing them from binding in ways 
+
+
+EP 1 177 312 B1 
+
+20 
+
+5 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+that produce undesirable effects. Additionally, fragments of proteins of the present invention with cadherin activity, 
+preferably truncated soluble cadherin fragments which have been found to be stable in the circulation of cancer patients, 
+and polynucleotides encoding such protein fragments, can be used to disturb proper cell-cell adhesion. 
+[0104] Assays for cadherin adhesive and invasive suppressor activity include, without limitation, those described in: 
+Hortsch et al. J Biol Chem 270 (32): 18809-18817, 1995; Miyaki et al. Oncogene 11: 2547-2552, 1995; Ozawa et al. 
+Cell 63: 1033-1038,1990. 
+
+Tumor Inhibition Activity 
+
+[0105] In addition to the activities described above for immunological treatment or prevention of tumors, a protein of 
+the invention may exhibit other anti-tumor activities. A protein may inhibit tumor growth directly or indirectly (such as, 
+for example, via antibody-dependent cell-mediated cytotoxicity (ADCC)). A protein may exhibit its tumor inhibitory activity 
+by acting on tumor tissue or tumor precursor tissue, by inhibiting formation of tissues necessary to support tumor growth 
+(such as, for example, by inhibiting angiogenesis), by causing production of other factors, agents or cell types which 
+inhibit tumor growth, or by suppressing, eliminating or inhibiting factors, agents or cell types which promote tumor growth. 
+
+Other Activities 
+
+[0106] A protein of the invention may also exhibit one or more of the following additional activities or effects: inhibiting 
+the growth, infection or function of, or killing, infectious agents, including, without limitation, bacteria, viruses, fungi and 
+other parasites; effecting (suppressing or enhancing) bodily characteristics, including, without limitation, height, weight, 
+hair color, eye color, skin, fat to lean ratio or other tissue pigmentation, or organ or body part size or shape (such as, for 
+example, breast augmentation or diminution, change in bone form or shape); effecting biorhythms or circadic cycles or 
+rhythms; effecting the fertility of male or female subjects; effecting the metabolism, catabolism, anabolism, processing, 
+utilization, storage or elimination of dietary fat, lipid, protein, carbohydrate, vitamins, minerals, cofactors or other nutritional 
+factors or component (s); effecting behavioral characteristics, including, without limitation, appetite, libido, stress, cognition 
+(including cognitive disorders), depression (including depressive disorders) and violent behaviors; providing analgesic 
+effects or other pain reducing effects; promoting differentiation and growth of embryonic stem cells in lineages other 
+than hematopoietic lineages; hormonal or endocrine activity; in the case of enzymes, correcting deficiencies of the 
+enzyme and treating deficiency-related diseases; treatment of hyperproliferative disorders (such as, for example, pso-
+riasis); immunoglobulin-like activity (such as, for example, the ability to bind antigens or complement); and the ability to 
+act as an antigen in a vaccine composition to raise an immune response against such protein or another material or 
+entity which is cross-reactive with such protein. 
+
+Administration and Dosing 
+
+[0107] A protein of the present invention (from whatever source derived, including without limitation from recombinant 
+and non-recombinant sources) may be used in a pharmaceutical composition when combined with a pharmaceutically 
+acceptable carrier. Such a composition may also contain (in addition to protein and a carrier) diluents, fillers, salts, 
+buffers, stabilizers, solubilizers, and other materials well known in the art. The term "pharmaceutically acceptable" means 
+a non-toxic material that does not interfere with the effectiveness of the biological activity of the active ingredient (s). The 
+characteristics of the carrier will depend on the route of administration. The pharmaceutical composition of the invention 
+may also contain cytokines, lymphokines, or other hematopoietic factors such as M-CSF, GM-CSF, TNF, IL-1, IL-2, IL-
+3, IL-4, IL-5, IL-6, IL-7, IL-8, IL-9, IL-10, IL-11, IL-12, IL-13, IL-14, IL-15, IFN, TNF0, TNF1, TNF2, G-CSF, Meg-CSF, 
+thrombopoietin, stem cell factor, and erythropoietin. The pharmaceutical composition may further contain other agents 
+which either enhance the activity of the protein or compliment its activity or use in treatment. Such additional factors 
+and/or agents may be included in the pharmaceutical composition to produce a synergistic effect with protein of the 
+invention, or to minimize side effects. Conversely, protein of the present invention may be included in formulations of 
+the particular cytokine, lymphokine, other hematopoietic factor, thrombolytic or anti-thrombotic factor, or anti-inflammatory 
+agent to minimize side effects of the cytokine, lymphokine, other hematopoietic factor, thrombolytic or anti-thrombotic 
+factor, or anti-inflammatory agent. 
+[0108] A protein of the present invention may be active in multimers (e.g., heterodimers or homodimers) or complexes 
+with itself or other proteins. As a result, pharmaceutical compositions of the invention may comprise a protein of the 
+invention in such multimeric or complexed form. 
+[0109] The pharmaceutical composition of the invention may be in the form of a complex of the protein (s) of present 
+invention along with protein or peptide antigens. The protein and/or peptide antigen will deliver a stimulatory signal to 
+both B and T lymphocytes. B lymphocytes will respond to antigen through their surface immunoglobulin receptor. T 
+lymphocytes will respond to antigen through the T cell receptor (TCR) following presentation of the antigen by MHC 
+
+
+EP 1 177 312 B1 
+
+21 
+
+5 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+proteins. MHC and structurally related proteins including those encoded by class I and class II MHC genes on host cells 
+will serve to present the peptide antigen (s) to T lymphocytes. The antigen components could also be supplied as purified 
+MHC-peptide complexes alone or with co-stimulatory molecules that can directly signal T cells. Alternatively antibodies 
+able to bind surface immunolgobulin and other molecules on B cells as well as antibodies able to bind the TCR and 
+other molecules on T cells can be combined with the pharmaceutical composition of the invention. 
+[0110] The pharmaceutical composition of the invention may be in the form of a liposome in which protein of the 
+present invention is combined, in addition to other pharmaceutically acceptable carriers, with amphipathic agents such 
+as lipids which exist in aggregated form as micelles, insoluble monolayers, liquid crystals, or lamellar layers in aqueous 
+solution. Suitable lipids for liposomal formulation include, without limitation, monoglycerides, diglycerides, sulfatides, 
+lysolecithin, phospholipids, saponin, bile acids, and the like. Preparation of such liposomal formulations is within the 
+level of skill in the art, as disclosed, for example, in U.S. Patent No. 4,235,871; U.S. Patent No. 4,501,728; U.S. Patent 
+No. 4,837,028; and U.S. Patent No. 4,737,323, all of which are incorporated herein by reference. 
+[0111] As used herein, the term "therapeutically effective amount" means the total amount of each active component 
+of the pharmaceutical composition or method that is sufficient to show a meaningful patient benefit, i.e., treatment, 
+healing, prevention or amelioration of the relevant medical condition, or an increase in rate of treatment, healing, pre-
+vention or amelioration of such conditions. When applied to an individual active ingredient, administered alone, the term 
+refers to that ingredient alone. When applied to a combination, the term refers to combined amounts of the active 
+ingredients that result in the therapeutic effect, whether administered in combination, serially or simultaneously. 
+[0112] In practicing the method of treatment or use of the present invention, a therapeutically effective amount of 
+protein of the present invention is administered to a mammal having a condition to be treated. Protein of the present 
+invention may be administered in accordance with the method of the invention either alone or in combination with other 
+therapies such as treatments employing cytokines, lymphokines or other hematopoietic factors. When co-administered 
+with one or more cytokines, lymphokines or other hematopoietic factors, protein of the present invention may be admin-
+istered either simultaneously with the cytokine (s), lymphokine (s), other hematopoietic factor (s), thrombolytic or anti-
+thrombotic factors, or sequentially. If administered sequentially, the attending physician will decide on the appropriate 
+sequence of administering protein of the present invention in combination with cytokine (s), lymphokine (s), other hemat-
+opoietic factor (s), thrombolytic or anti-thrombotic factors. 
+[0113] Administration of protein of the present invention used in the pharmaceutical composition or to practice the 
+method of the present invention can be carried out in a variety of conventional ways, such as oral ingestion, inhalation, 
+topical application or cutaneous, subcutaneous, intraperitoneal, parenteral or intravenous injection. Intravenous admin-
+istration to the patient is preferred. 
+[0114] When a therapeutically effective amount of protein of the present invention is administered orally, protein of 
+the present invention will be in the form of a tablet, capsule, powder, solution or elixir. When administered in tablet form, 
+the pharmaceutical composition of the invention may additionally contain a solid carrier such as a gelatin or an adjuvant. 
+The tablet, capsule, and powder contain from about 5 to 95% protein of the present invention, and preferably from about 
+25 to 90% protein of the present invention. When administered in liquid form, a liquid carrier such as water, petroleum, 
+oils of animal or plant origin such as peanut oil, mineral oil, soybean oil, or sesame oil, or synthetic oils may be added. 
+The liquid form of the pharmaceutical composition may further contain physiological saline solution, dextrose or other 
+saccharide solution, or glycols such as ethylene glycol, propylene glycol or polyethylene glycol. When administered in 
+liquid form, the pharmaceutical composition contains from about 0.5 to 90% by weight of protein of the present invention, 
+and preferably from about 1 to 50% protein of the present invention. 
+[0115] When a therapeutically effective amount of protein of the present invention is administered by intravenous, 
+cutaneous or subcutaneous injection, protein of the present invention will be in the form of a pyrogen-free, parenterally 
+acceptable aqueous solution. The preparation of such parenterally acceptable protein solutions, having due regard to 
+pH, isotonicity, stability, and the like, is within the skill in the art. A preferred pharmaceutical composition for intravenous, 
+cutaneous, or subcutaneous injection should contain, in addition to protein of the present invention, an isotonic vehicle 
+such as Sodium Chloride Injection, Ringer's Injection, Dextrose Injection, Dextrose and Sodium Chloride Injection, 
+Lactated Ringer's Injection, or other vehicle as known in the art. The pharmaceutical composition of the present invention 
+may also contain stabilizers, preservatives, buffers, antioxidants, or other additives known to those of skill in the art. 
+[0116] The amount of protein of the present invention in the pharmaceutical composition of the present invention will 
+depend upon the nature and severity of the condition being treated, and on the nature of prior treatments which the 
+patient has undergone. Ultimately, the attending physician will decide the amount of protein of the present invention with 
+which to treat each individual patient. Initially, the attending physician will administer low doses of protein of the present 
+invention and observe the patient's response. Larger doses of protein of the present invention may be administered until 
+the optimal therapeutic effect is obtained for the patient, and at that point the dosage is not increased further. It is 
+contemplated that the various pharmaceutical compositions used to practice the method of the present invention should 
+contain about 0.01 Pg to about 100 mg (preferably about 0.1 ng to about 10 mg, more preferably about 0.1 Pg to about 
+1 mg) of protein of the present invention per kg body weight. 
+
+
+EP 1 177 312 B1 
+
+22 
+
+5 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[0117] The duration of intravenous therapy using the pharmaceutical composition of the present invention will vary, 
+depending on the severity of the disease being treated and the condition and potential idiosyncratic response of each 
+individual patient. It is contemplated that the duration of each application of the protein of the present invention will be 
+in the range of 12 to 24 hours of continuous intravenous administration. Ultimately the attending physician will decide 
+on the appropriate duration of intravenous therapy using the pharmaceutical composition of the present invention. 
+[0118] Protein of the invention may also be used to immunize animals to obtain polyclonal and monoclonal antibodies 
+which specifically react with the protein. As used herein, the term "antibody" includes without limitation a polyclonal 
+antibody, a monoclonal antibody, a chimeric antibody, a single-chain antibody, a CDR-grafted antibody, a humanized 
+antibody, or fragments thereof which bind to the indicated protein. Such term also includes any other species derived 
+from an antibody or antibody sequence which is capable of binding the indicated protein. 
+[0119] Antibodies to a particular protein can be produced by methods well known to those skilled in the art. For example, 
+monoclonal antibodies can be produced by generation of antibody-producing hybridomas in accordance with known 
+methods (see for example, Goding, 1983, Monoclonal antibodies: principles and practice, Academic Press Inc., New 
+York; and Yokoyama, 1992, "Production of Monoclonal Antibodies" in Current Protocols in Immunology, Unit 2.5, Greene 
+Publishing Assoc. and John Wiley &amp; Sons). Polyclonal sera and antibodies can be produced by inoculation of a mammalian 
+subject with the relevant protein or fragments thereof in accordance with known methods. Fragments of antibodies, 
+receptors, or other reactive peptides can be produced from the corresponding antibodies by cleavage of and collection 
+of the desired fragments in accordance with known methods (see for example, Goding, supra; and Andrew et al., 1992, 
+"Fragmentation of Immunoglobulins" in Current Protocols in Immunology, Unit 2.8, Greene Publishing Assoc. and John 
+Wiley &amp; Sons). Chimeric antibodies and single chain antibodies can also be produced in accordance with known recom-
+binant methods (see for example, 5,169,939, 5,194,594, and 5,576,184). Humanized antibodies can also be made from 
+corresponding murine antibodies in accordance with well known methods (see for example, U.S. Patent Nos. 5,530,101, 
+5,585,089, and 5,693,762). Additionally, human antibodies may be produced in non-human animals such as mice that 
+have been genetically altered to express human antibody molecules (see for example Fishwild et al., 1996, Nature 
+Biotechnology 14: 845-851; Mendez et al., 1997, Nature Genetics 15: 146-156 (erratum Nature Genetics 16: 410); and 
+U.S. Patents 5,877,397 and 5,625,126). Such antibodies may be obtained using either the entire protein or fragments 
+thereof as an immunogen. The peptide immunogens additionally may contain a cysteine residue at the carboxyl terminus, 
+and are conjugated to a hapten such as keyhole limpet hemocyanin (KLH). Methods for synthesizing such peptides are 
+known in the art, for example, as in R.P. Merrifield, J. Amer.Chem.Soc. 85, 2149-2154 (1963); J.L. Krstenansky, et al., 
+FEBS Lett. 211, 10 (1987). 
+[0120] Monoclonal antibodies binding to the protein of the invention may be useful diagnostic agents for the immun-
+odetection of the protein. Neutralizing monoclonal antibodies binding to the protein may also be useful therapeutics for 
+both conditions associated with the protein and also in the treatment of some forms of cancer where abnormal expression 
+of the protein is involved. In the case of cancerous cells or leukemic cells, neutralizing monoclonal antibodies against 
+the protein may be useful in detecting and preventing the metastatic spread of the cancerous cells, which may be 
+mediated by the protein. 
+[0121] For compositions of the present invention which are useful for bone, cartilage, tendon or ligament regeneration, 
+the therapeutic method includes administering the composition topically, systematically, or locally as an implant or device. 
+When administered, the therapeutic composition for use in this invention is, of course, in a pyrogen-free, physiologically 
+acceptable form. Further, the composition may desirably be encapsulated or injected in a viscous form for delivery to 
+the site of bone, cartilage or tissue damage. Topical administration may be suitable for wound healing and tissue repair. 
+Therapeutically useful agents other than a protein of the invention which may also optionally be included in the composition 
+as described above, may alternatively or additionally, be administered simultaneously or sequentially with the composition 
+in the methods of the invention. Preferably for bone and/or cartilage formation, the composition would include a matrix 
+capable of delivering the protein-containing composition to the site of bone and/or cartilage damage, providing a structure 
+for the developing bone and cartilage and optimally capable of being resorbed into the body. Such matrices may be 
+formed of materials presently in use for other implanted medical applications. 
+[0122] The choice of matrix material is based on biocompatibility, biodegradability, mechanical properties, cosmetic 
+appearance and interface properties. The particular application of the compositions will define the appropriate formulation. 
+Potential matrices for the compositions may be biodegradable and chemically defined calcium sulfate, tricalciumphos-
+phate, hydroxyapatite, polylactic acid, polyglycolic acid and polyanhydrides. Other potential materials are biodegradable 
+and biologically well-defined, such as bone or dermal collagen. Further matrices are comprised of pure proteins or 
+extracellular matrix components. Other potential matrices are nonbiodegradable and chemically defined, such as sintered 
+hydroxapatite, bioglass, aluminates, or other ceramics. Matrices may be comprised of combinations of any of the above 
+mentioned types of material, such as polylactic acid and hydroxyapatite or collagen and tricalciumphosphate. The bioce-
+ramics may be altered in composition, such as in calcium-aluminate-phosphate and processing to alter pore size, particle 
+size, particle shape, and biodegradability. 
+[0123] Presently preferred is a 50: 50 (mole weight) copolymer of lactic acid and glycolic acid in the form of porous 
+
+
+EP 1 177 312 B1 
+
+23 
+
+5 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+particles having diameters ranging from 150 to 800 microns. In some applications, it will be useful to utilize a sequestering 
+agent, such as carboxymethyl cellulose or autologous blood clot, to prevent the protein compositions from disassociating 
+from the matrix. 
+[0124] A preferred family of sequestering agents is cellulosic materials such as alkylcelluloses (including hydroxy-
+alkylcelluloses), including methylcellulose, ethylcellulose, hydroxyethylcellulose, hydroxypropylcellulose, hydroxypro-
+pylmethylcellulose, and carboxymethylcellulose, the most preferred being cationic salts of carboxymethylcellulose 
+(CMC). Other preferred sequestering agents include hyaluronic acid, sodium alginate, poly (ethylene glycol), polyoxyeth-
+ylene oxide, carboxyvinyl polymer and poly (vinyl alcohol). The amount of sequestering agent useful herein is 0.5-20 
+wt%, preferably 1-10 wt% based on total formulation weight, which represents the amount necessary to prevent desorbtion 
+of the protein from the polymer matrix and to provide appropriate handling of the composition, yet not so much that the 
+progenitor cells are prevented from infiltrating the matrix, thereby providing the protein the opportunity to assist the 
+osteogenic activity of the progenitor cells. 
+[0125] In further compositions, proteins of the invention may be combined with other agents beneficial to the treatment 
+of the bone and/or cartilage defect, wound, or tissue in question. These agents include various growth factors such as 
+epidermal growth factor (EGF), platelet derived growth factor (PDGF), transforming growth factors (TGF-α and TGF-β), 
+and insulin-like growth factor (IGF). 
+[0126] The therapeutic compositions are also presently valuable for veterinary applications. Particularly domestic 
+animals and thoroughbred horses, in addition to humans, are desired patients for such treatment with proteins of the 
+present invention. 
+[0127] The dosage regimen of a protein-containing pharmaceutical composition to be used in tissue regeneration will 
+be determined by the attending physician considering various factors which modify the action of the proteins, e.g., amount 
+of tissue weight desired to be formed, the site of damage, the condition of the damaged tissue, the size of a wound, type 
+of damaged tissue (e.g., bone), the patient's age, sex, and diet, the severity of any infection, time of administration and 
+other clinical factors. The dosage may vary with the type of matrix used in the reconstitution and with inclusion of other 
+proteins in the pharmaceutical composition. For example, the addition of other known growth factors, such as IGF I 
+(insulin like growth factor I), to the final composition, may also effect the dosage. Progress can be monitored by periodic 
+assessment of tissue/ bone growth and/or repair, for example, X-rays, histomorphometric determinations and tetracycline 
+labeling. 
+[0128] Polynucleotides of the present invention can also be used for gene therapy. Such polynucleotides can be 
+introduced either in vivo or ex vivo into cells for expression in a mammalian subject. Polynucleotides of the invention 
+may also be administered by other known methods for introduction of nucleic acid into a cell or organism (including, 
+without limitation, in the form of viral vectors or naked DNA). 
+[0129] Cells may also be cultured ex vivo in the presence of proteins of the present invention in order to proliferate or 
+to produce a desired effect on or activity in such cells. Treated cells can then be introduced in vivo for therapeutic purposes. 
+[0130] This invention is further illustrated by the following examples which should not be construed as limiting. The 
+contents of the Sequence Listing is incorporated herein. 
+
+EXAMPLES 
+
+Identification and characterization of clone "hGIL-19/AE289" 
+
+[0131] A polynucleotide of the present invention has been identified as clone "hGIL-19/AE289". Clone hGIL-19/AE289 
+was isolated according to the following method. A murine EST was identified from a murine cDNA library made from 
+splenocytes activated with both ConA and bone marrow derived dendritic cells. The EST was identified using methods 
+which are selective for cDNAs encoding secreted proteins (see U.S. Pat. No. 5,536,637). The murine EST sequence 
+was used to isolate a full-length murine clone from the same cDNA library. Analysis of the sequence of the murine clone 
+revealed a significant homology to interleukin-10 (IL-10). 
+[0132] In order to isolate a human homolog of the murine clone, PCR primers were constructed based upon the region 
+of the murine sequence which showed homology to IL-10. Use of such primers for amplification in a human PBMC library 
+produced a PCR product of significant size. Analysis of the sequence of the PCR product confirmed that it was a homolog 
+of the murine cDNA. Oligonucleotides were constructed from the sequence of the partial human clone and used to isolate 
+a full-length human clone from the PBMC library. 
+[0133] hGIL-19/AE289 is a full-length human clone, including the entire coding sequence of a secreted protein (also 
+referred to herein as "hGIL-19/AE289" protein). Analysis of its amino acid sequence indicated that it has about 23% 
+homology to hIL-10. Based on the putative receptor-binding motifs in IL-10, three motifs involved with analogous function 
+have been proposed in hGIL-19/AE289 through computer modeling. These are the regions of SEQ ID NO: 2 from residue 
+50 to 60, from residue 63 to 81, and from residue 168 to 177. Analyses of databases revealed that hGIL-19 also exhibits 
+similar levels of homology with IL-10 of other species. 
+
+
+EP 1 177 312 B1 
+
+24 
+
+5 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[0134] The nucleotide sequence of hGIL-19/AE289 as presently determined is reported in SEQ ID NO: 1, and includes 
+a poly (A) tail. The amino acid sequence of the hGIL-19/AE289 protein corresponding to the foregoing nucleotide sequence 
+is reported in SEQ ID NO: 2. 
+
+Characterization of hGIL-19/AE289 protein 
+
+[0135] Cell lines which stably express and secrete full length hGIL-19/AE289 protein were created by transfecting 
+CHO cells with hGIL-19/AE289 cDNA in appropriate expression vectors. Transiently transfected COS cells using ap-
+propriate hGIL-19/AE289 expression vectors have been used to make hGIL-19/AE289 protein for analysis. Transfections 
+were accomplished using the commercially available Lipofectamine reagent (Gibco). Interestingly, COS cells which 
+express hGIL-19 were observed to non-uniformly detach, forming holes in the cell culture monolayer. Media conditioned 
+by transfected COS cells was used to demonstrate cytokine-like activity of hGIL-19/AE289 protein. Western blot analysis 
+of cell lysates showed that Stat-3 becomes phosphorylated (activated) in a kidney mesangial tissue-derived cell line-
+exhibiting macrophage-like qualities (MES-13; see, Dumoutier et al (2000) J. of Immunology 164: 1814-1819) upon 
+exposure of that cell to media conditioned by hGIL-19/AE289-expressing cells. In addition phosphorylation of Stat-3 is 
+induced in non-transfected COS cells that are treated with hGIL-19 protein. 
+[0136] Electrophoretic analysis of hGIL-19/AE289 protein (derived from the transfected COS cell lines described 
+herein) indicated that the expressed protein exists in a range of sizes. Treatment of COS-derived hGIL-19 protein with 
+N-glycanase prior to electrophoresis results in a single band corresponding to the highest mobility (e.g. lowest molecular 
+weight) species seen in untreated hGIL-19/AE289. This is consistent with proposed glycosylation events which may 
+occur at the putative N-linked glycosylation sites identified in the amino acid sequence of hGIL-19/AE289 (amino acid 
+residues 54-56, 68-70, 97-99, and 176-178 of SEQ ID NO: 2). 
+[0137] Edman N-terminal sequencing determined that the N-terminus of the mature hGIL-19/AE289 protein begins 
+with the residue at position 34 of SEQ ID NO: 2 (alanine). Expression vectors were created which fuse a "6x histidine" 
+affinity tag and a FLAG epitope tag to the N-terminus of the mature hGIL-19/AE289 protein. (The added amino acid tag 
+is given in SEQ ID NO: 3 and has the following amino acid sequence: 
+
+MKFLVNVALVFMVVYISYIYAGSGHHHHHHGSGDYKDDDDKAPISSHCR). 
+
+These tagged constructs were used to create stably expressing CHO cell lines and transiently expressing COS cell 
+lines. The tags provided a convenient means for detecting hGIL-19/AE289 (e.g., anti-6xhis antibodies; anti-FLAG anti-
+bodies), and for purifying the protein from conditioned media (using Ni +2 resin). Human GIL-19 protein purified by this 
+tag from the hGIL-19/AE289-expressing COS cell lines could used to induce Stat-3 activation in MES-13 cells. 
+[0138] Comparison of hGIL-19 mRNA transcripts in activated Th1 and Th2 cells (see, for example, Syrbe et al, (1999) 
+Springer Seminars in Immunopathology, 21: 263-85) indicated a substantially higher level of expression of GIL-19 in 
+activated Th1 cells than in activated Th2 cells. Analysis of GIL-19 mRNA was accomplished with RNAse protection assays. 
+
+Immunological effects GIL-19 
+
+[0139] The immunological effects of GIL-19 were investigated in a metazoan context by viral introduction of the cDNA 
+of murine GIL-19 into mice. An adenoviral vector was used to express a cDNA of murine GIL-19 in 8 week old C57/B6 
+female mice by injection of 5x10 10 viral particles. Test mice were sacrificed at 7 and 14 days after injection and compared 
+with control mice injected with buffer only or with adenovirus expressing green fluorescent protein (GFP). At days 7 and 
+14, it was noted that the absolute and relative thymic weights were significantly decreased in the mice which expressed 
+the viral murine GIL-19. Absolute mean weight of the spleen was decreased on day 14 and liver weights were slightly 
+increased on day 7. A gross generalized atrophy of the thymus as well as lymphoid depletion (observed microscopically) 
+was apparent on days 7 and 14. 
+[0140] In addition, there were a number of hematological effects that were apparent on day 7, including decreased 
+red blood cell count, hemoglobin, and hematocrit. These effects, taken together, indicated anemia in the animals. Fur-
+thermore, there was an increase in platelets as well as an increase in the white blood cell count due to an increase of 
+neutrophils. In light of these observations there was no evidence of a regenerative response, which indicated that the 
+effects may be at the level of the bone marrow. 
+[0141] Furthermore, there was a slight decrease in Albumin levels at day 7 and day 14. A possible cause for this is 
+the loss of small molecules through the kidney or gut. 
+
+Equivalents 
+
+[0142] Those skilled in the art will recognize, or be able to ascertain using no more than routine experimentation, many 
+
+
+EP 1 177 312 B1 
+
+25 
+
+5 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+equivalents to the specific embodiments of the invention described herein. Such equivalents are intended to be encom-
+passed by the following claims. 
+
+SEQUENCE LISTING 
+
+[0143] 
+
+&lt;110&gt; GENETICS INSTITUTE 
+
+&lt;120&gt; HUMAN GIL-19/AE289 PROTEINS AND POLYNUCLEOTIDES ENCODING SAME 
+
+&lt;130&gt; GIN-5358CPPC 
+
+&lt;140&gt; 
+&lt;141&gt; 
+
+&lt;150&gt; 60/131,473 
+&lt;151&gt; 1999-04-28 
+
+&lt;160&gt; 2 
+
+&lt;170&gt; Patent In Ver. 2.0 
+
+&lt;210&gt; 1 
+&lt;211&gt; 1177 
+&lt;212&gt; DNA 
+&lt;213&gt; Homo sapiens 
+
+&lt;400&gt; 1 
+
+&lt;210&gt; 2 
+&lt;211&gt; 179 
+&lt;212&gt; PRT 
+&lt;213&gt; Homo sapiens 
+
+&lt;400&gt; 2 
+
+
+EP 1 177 312 B1 
+
+26 
+
+5 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Claims 
+
+1. A polynucleotide comprising a nucleotide sequence selected from the group consisting of: 
+
+(a) the nucleotide sequence of SEQ ID NO: 1; 
+(b) the nucleotide sequence of SEQ ID NO: 1 from nucleotide 65 to nucleotide 601; 
+(c) the nucleotide sequence of a full-length protein coding sequence of clone hGIL-19/AE289 deposited under 
+accession number ATCC 207231; 
+(d) the nucleotide sequence of a mature protein coding sequence of clone HGIL-19/AE289 deposited under 
+accession number ATCC 207231; 
+(e) a nucleotide sequence encoding a protein comprising the amino acid sequence of SEQ ID NO: 2; 
+(f) a nucleotide sequence encoding a protein comprising the amino acid sequence of SEQ ID NO: 2 from about 
+amino acid 34 to 179; and 
+(g) a nucleotide sequence encoding a protein comprising a fragment of the amino acid sequence of SEQ ID 
+NO: 2, the fragment comprising an amino acid sequence selected from the group consisting of amino acids 
+50-60, 63-81 and 168-177 of SEQ ID NO: 2. 
+
+2. The polynucleotide of claim 1, wherein said polynucleotide is operably linked to at least one expression control 
+
+
+EP 1 177 312 B1 
+
+27 
+
+5 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+sequence. 
+
+3. A host cell transformed with the polynucleotide of claim 2. 
+
+4. The host cell of claim 3, wherein said cell is a mammalian cell. 
+
+5. A process for producing a protein encoded by the polynucleotide of claim 2, which process comprises: 
+
+(a) growing a culture of a host cell transformed with the polynucleotide of claim 2 in a suitable culture medium; and 
+(b) purifying said protein from the culture. 
+
+6. A protein produced according to the process of claim 5. 
+
+7. A polynucleotide encoding the protein of claim 6. 
+
+8. The polynucleotide of claim 7, wherein the polynucleotide comprises the full-length, or mature, protein coding se-
+quence of clone hGIL-19/AE289 deposited under accession number ATCC 207231. 
+
+9. A protein comprising an amino acid sequence selected from the group consisting of: 
+
+(a) the amino acid sequence of SEQ ID NO: 2; 
+(b) a fragment of the amino acid sequence of SEQ ID NO: 2, the fragment comprising an amino acid sequence 
+selected from the group consisting of amino acids 50-60,63-81 and 168-177 of SEQ ID NO: 2; 
+(c) the amino acid sequence encoded by a full-length protein coding sequence of clone hGIL-19/AE289 deposited 
+under accession number ATCC 207231; 
+(d) the amino acid sequence encoded by a mature protein coding sequence of clone hGIL-19 /AE289 deposited 
+under accession number ATCC 207231; and 
+(e) the amino acid sequence of SEQ ID NO: 2 from about amino acid 34 to 179. 
+
+10. The protein of claim 9, wherein said protein comprises the amino acid sequence of SEQ ID NO: 2. 
+
+11. A composition comprising the protein of claim 9 and a pharmaceutically acceptable carrier. 
+
+12. The polynucleotide of claim 1, wherein the polynucleotide comprises the nucleotide sequence of SEQ ID NO: 1. 
+
+13. The polynucleotide of claim 1, wherein the polynucleotide comprises the nucleotide sequence of SEQ ID NO: 1 from 
+nucleotide 65 to nucleotide 601. 
+
+14. The polynucleotide of claim 1, wherein the polynucleotide comprises the nucleotide sequence of a full-length protein 
+coding sequence of clone hGIL-19/AE289 deposited under accession number ATCC 207231. 
+
+15. The polynucleotide of claim 14, wherein the full-length protein coding sequence is encoded by the cDNA insert of 
+clone hGIL-19/AE289 deposited under accession number ATCC 207231. 
+
+16. The polynucleotide of claim 1, wherein the polynucleotide comprises the nucleotide sequence of a mature protein 
+coding sequence of hGIL-19/AE289 deposited under accession number ATCC 207231. 
+
+17. The polynucleotide of claim 16, wherein the mature protein coding sequence is encoded by the cDNA insert of clone 
+hGIL-19/AE289 deposited under accession number ATCC 207231. 
+
+18. The polynucleotide of claim 1, wherein the polynucleotide encodes a protein comprising the amino acid sequence 
+ofSEQ ID NO: 2. 
+
+19. The polynucleotide of claim 1, wherein the polynucleotide encodes a protein comprising a fragment of the amino 
+acid sequence of SEQ ID NO: 2, the fragment comprising an amino acid sequence selected from the group consisting 
+of amino acids 50-60, 63-81 and 168-177 of SEQ ID NO: 2. 
+
+20. The protein of claim 9, wherein the protein comprises a fragment of the amino acid sequence of SEQ ID NO: 2, the 
+
+
+EP 1 177 312 B1 
+
+28 
+
+5 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+fragment comprising an amino acid sequence selected from the group consisting of amino acids 50-60, 63-81 and 
+168-177 of SEQ ID NO: 2. 
+
+21. The protein of claim 9, wherein the protein comprises the amino acid sequence encoded by a full-length protein 
+coding sequence of clone hGIL-19/AE289 deposited under accession number ATCC 207231. 
+
+22. An antibody or fragment thereof which binds to a protein of claim 9, 10, 20, or 39. 
+
+23. The antibody of claim 22, which is a neutralizing antibody. 
+
+24. The antibody of claim 22, which is selected from the group consisting of a monoclonal antibody, a polyclonal antibody, 
+a chimeric antibody, a single-chain antibody, a CDR-grafted antibody and a humanized antibody. 
+
+25. The antibody of claim 22, which is a human antibody. 
+
+26. The antibody of claim 24 or 25, which is a monoclonal antibody. 
+
+27. Use of an antibody of any of claims 22-26 for the preparation of a pharmaceutical composition for treating or 
+preventing arthritis. 
+
+28. The use of claim 27, wherein the arthritis is rheumatoid arthritis. 
+
+29. The polynucleotide of claim 1, wherein the polynucleotide comprises a nucleotide sequence that encodes a protein 
+having the amino acid sequence of SEQ ID NO: 2 from about amino acid 34 to 179. 
+
+30. The protein of claim 21, wherein the full-length protein coding sequence is encoded by the cDNA insert of clone 
+hGIL-19/AE289 deposited under accession number ATCC 207231. 
+
+31. The protein of claim 9 wherein the protein comprises the amino acid sequence encoded by a mature protein coding 
+sequence of clone hGIL-19/AE289 deposited under accession number ATCC 207231. 
+
+32. The protein of claim 31, wherein the mature protein coding sequence is encoded by the cDNA insert of clone hGIL-
+19/AE289 deposited under accession number ATCC 207231. 
+
+33. The protein of claim 9, wherein the protein comprises the amino acid sequence of SEQ ID NO: 2 from about amino 
+acid 34 to 179. 
+
+34. A polynucleotide comprising a nucleotide sequence that hybridizes under highly stringent conditions to SEQ ID NO: 
+1 or a complement thereof. 
+
+35. A protein encoded by a nucleotide sequence that hybridizes under highly stringent conditions to the complement of 
+SEQ ID NO: 1. 
+
+36. A polynucleotide encoding a fragment of a protein comprising an amino acid sequence selected from the group 
+consisting of amino acids 50-60, 63-81 and 168-177 of SEQ ID NO: 2. 
+
+37. A fragment of a protein comprising an amino acid sequence selected from the group consisting of amino acids 
+50-60, 63-81 and 168-177 of SEQ ID NO: 2. 
+
+38. A composition comprising the antibody or fragment thereof, of claim 22. 
+
+39. A fusion protein comprising the protein of claim 20 fused to a carrier molecule. 
+
+40. The fusion protein of claim 39, wherein the carrier molecule is an immunoglobulin or the Fc portion of an immu-
+noglobulin. 
+
+41. The fusion protein of claim 40, wherein the protein of claim 20 is fused to the carrier molecule through a linker 
+sequence. 
+
+
+EP 1 177 312 B1 
+
+29 
+
+5 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+42. The fusion protein of claim 40, wherein the immunoglobulin is an IgG or an IgM immunoglobulin. 
+
+43. The fusion protein of claim 42, wherein the immunoglobulin is an IgG immunoglobulin. 
+
+Patentansprüche 
+
+1. Polynucleotid, umfassend eine Nucleotidsequenz ausgewählt aus der Gruppe bestehend aus: 
+
+(a) der Nucleotidsequenz von SEQ ID NO: 1; 
+(b) der Nucleotidsequenz von SEQ ID NO: 1 von Nucleotid 65 bis Nucleotid 601 ; 
+(c) der Nucleotidsequenz einer für ein Volllängen-Protein kodierenden Sequenz von Klon hGIL-19/AE289, 
+hinterlegt unter der Zugangsnummer ATCC 207231 ; 
+(d) der Nucleotidsequenz einer für ein reifes Protein kodierenden Sequenz von Klon hGIL-19/AE289, hinterlegt 
+unter der Zugangsnummer ATCC 207231; 
+(e) der Nucleotidsequenz, kodierend für ein Protein, das die Aminosäuresequenz von SEQ ID NO: 2 umfasst; 
+(f) der Nucleotidsequenz, kodierend für ein Protein, das die Aminosäuresequenz von SEQ ID NO: 2 von etwa 
+Aminosäure 34 bis 179 umfasst; und 
+(g) der Nucleotidsequenz, kodierend für ein Protein, das ein Fragment der Aminosäuresequenz von SEQ ID 
+NO: 2 umfasst, wobei das Fragment eine Aminosäuresequenz umfasst ausgewählt aus der Gruppe bestehend 
+aus Aminosäuren 50-60, 63-81 und 168-177 von SEQ ID NO: 2. 
+
+2. Polynucleotid nach Anspruch 1, wobei dieses Polynucleotid funktionell mit mindestens einer Expressionskontroll-
+sequenz verbunden ist. 
+
+3. Wirtszelle, transformiert mit dem Polynucleotid nach Anspruch 2. 
+
+4. Wirtszelle nach Anspruch 3, wobei diese Zelle eine Säugetierzelle ist. 
+
+5. Verfahren zur Herstellung eines Proteins, das durch das Polynucleotid nach Anspruch 2 kodiert wird, wobei das 
+Verfahren umfasst: 
+
+(a) Züchten einer Kultur aus einer Wirtszelle, transformiert mit dem Polynucleotid nach Anspruch 2, in einem 
+geeigneten Kulturmedium; und 
+(b) Reinigen dieses Proteins aus der Kultur. 
+
+6. Protein, hergestellt gemäß dem Verfahren nach Anspruch 5. 
+
+7. Polynucleotid, kodierend für das Protein nach Anspruch 6. 
+
+8. Polynucleotid nach Anspruch 7, wobei das Polynucleotid die für das Volllängen-oder das reife Protein kodierende 
+Sequenz von Klon hGIL-19/AE289 umfasst, hinterlegt unter der Zugangsnummer ATCC 207231. 
+
+9. Protein, umfassend eine Aminosäuresequenz ausgewählt aus der Gruppe bestehend aus: 
+
+(a) der Aminosäuresequenz von SEQ ID NO: 2. 
+(b) einem Fragment der Aminosäuresequenz von SEQ ID NO: 2, wobei das Fragment eine Aminosäuresequenz 
+umfasst ausgewählt aus der Gruppe bestehend aus Aminosäuren 50-60, 63-81 und 168-177 von SEQ ID NO: 2. 
+(c) der Aminosäuresequenz, kodiert durch eine für ein Volllängen-Protein kodierende Sequenz von Klon hGIL-
+19/AE289, hinterlegt unter der Zugangsnummer ATCC 207231 ; 
+(d) der Aminosäuresequenz, kodiert durch eine für ein reifes Protein kodierende Sequenz von Klon hGIL-
+19/AE289, hinterlegt unter der Zugangsnummer ATCC 207231; und 
+(e) der Aminosäuresequenz von SEQ ID NO: 2 von etwa Aminosäure 34 bis 179. 
+
+10. Protein nach Anspruch 9, wobei dieses Protein die Aminosäuresequenz von SEQ ID NO: 2 umfasst. 
+
+11. Zusammensetzung, enthaltend das Protein nach Anspruch 9 und einen pharmazeutisch unbedenklichen Träger. 
+
+
+EP 1 177 312 B1 
+
+30 
+
+5 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+12. Polynucleotid nach Anspruch 1, wobei das Polynucleotid die Nucleotidsequenz von SEQ ID NO: 1 umfasst. 
+
+13. Polynucleotid nach Anspruch 1, wobei das Polynucleotid die Nucleotidsequenz von SEQ ID NO: 1 von Nucleotid 65 
+bis Nucleotid 601 umfasst. 
+
+14. Polynucleotid nach Anspruch 1, wobei das Polynucleotid die Nucleotidsequenz für eine das Volllängen-Protein 
+kodierende Sequenz von Klon hGIL-19/AE289 umfasst, hinterlegt unter der Zugangsnummer ATCC 207231. 
+
+15. Polynucleotid nach Anspruch 14, wobei die für das Volllängen-Protein kodierende Sequenz kodiert wird durch den 
+cDNA-Einschub von Klon hGIL-19/AE289, hinterlegt unter der Zugangsnummer ATCC 207231. 
+
+16. Polynucleotid nach Anspruch 1, wobei das Polynucleotid die Nucleotidsequenz für eine das reife Protein kodierende 
+Sequenz von Klon hGIL-19/AE289 umfasst, niedergelegt unter der Zugangsnummer ATCC 207231. 
+
+17. Polynucleotid nach Anspruch 16, wobei die für das reife Protein kodierende Sequenz kodiert wird durch den cDNA-
+Einschub von Klon hGIL-19/AE289, hinterlegt unter der Zugangsnummer ATCC 207231. 
+
+18. Polynucleotid nach Anspruch 1, wobei das Polynucleotid für ein Protein kodiert, das die Aminosäuresequenz von 
+SEQ ID NO: 2 umfasst. 
+
+19. Polynucleotidsequenz nach Anspruch 1, wobei das Polynucleotid für ein Protein kodiert, das ein Fragment der 
+Aminosäuresequenz von SEQ ID NO: 2 umfasst, wobei das Fragment eine Aminosäuresequenz umfasst ausgewählt 
+aus der Gruppe bestehend aus Aminosäuren 50-60, 63-81 und 168-177 von SEQ ID NO: 2. 
+
+20. Protein nach Anspruch 9, wobei das Protein ein Fragment der Aminosäuresequenz von SEQ ID NO: 2 umfasst, 
+wobei das Fragment eine Aminosäuresequenz umfasst ausgewählt aus der Gruppe bestehend aus Aminosäuren 
+50-60, 63-81 und 168-177 von SEQ ID NO: 2. 
+
+21. Protein nach Anspruch 9, wobei das Protein die Aminosäuresequenz umfasst, die durch eine für ein Volllängen-
+Protein kodierende Sequenz von Klon hGIL-19/AE289 kodiert wird, hinterlegt unter der Zugangsnummer ATCC 
+207231. 
+
+22. Antikörper oder Fragment davon, dass an ein Protein nach Anspruch 9, 10, 20 oder 39 bindet. 
+
+23. Antikörper nach Anspruch 22, wobei es sich um einen neutralisierenden Antikörper handelt. 
+
+24. Antikörper nach Anspruch 22, der ausgewählt wird aus der Gruppe bestehend aus einem monoklonalen Antikörper, 
+einem polyklonalen Antikörper, einem chimären Antikörper, einem einkettigen Antikörper, einem CDR-grafted An-
+tikörper und einem humanisierten Antikörper. 
+
+25. Antikörper nach Anspruch 22, wobei es sich um einen menschlichen Antikörper handelt. 
+
+26. Antikörper nach Anspruch 24 oder 25, wobei es sich um einen monoklonalen Antikörper handelt. 
+
+27. Verwendung eines Antikörpers nach einem der Ansprüche 22 -26 zur Herstellung einer pharmazeutischen Zusam-
+mensetzung zur Behandlung oder Vorbeugung von Arthritis. 
+
+28. Verfahren nach Anspruch 27, wobei die Arthritis rheumatoide Arthritis ist. 
+
+29. Polynucleotid nach Anspruch 1, wobei das Polynucleotid eine Nucleotidsequenz umfasst, die für ein Protein kodiert 
+mit der Aminosäuresequenz von SEQ ID NO: 2 von etwa Aminosäure 34 bis 179. 
+
+30. Protein nach Anspruch 21, wobei die für das Volllängen-Protein kodierende Sequenz kodiert wird durch den cDNA-
+Einschub von Klon hGIL-19/AE289, hinterlegt unter der Zugangsnummer ATCC 207231. 
+
+31. Protein nach Anspruch 9, wobei das Protein die Aminosäuresequenz umfasst, die durch eine für ein reifes Protein 
+kodierende Sequenz von Klon hGIL-19/AE289 kodiert wird, hinterlegt unter der Zugangsnummer ATCC 207231. 
+
+
+EP 1 177 312 B1 
+
+31 
+
+5 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+32. Protein nach Anspruch 31, wobei die für das reife Protein kodierende Sequenz kodiert wird durch den cDNA-Einschub 
+von Klon hGIL-19/AE289, hinterlegt unter der Zugangsnummer ATCC 207231. 
+
+33. Protein nach Anspruch 9, wobei das Protein die Aminosäuresequenz von SEQ ID NO: 2 von etwa Aminosäure 34 
+bis 179 umfasst. 
+
+34. Polynucleotid, umfassend eine Nucleotidsequenz, die unter hoch stringenten Bedingungen an SEQ ID NO: 1 oder 
+ein Komplement davon hybridisiert. 
+
+35. Protein, kodiert durch eine Nucleotidsequenz, die unter hoch stringenten Bedingungen an das Komplement von 
+SEQ ID NO: 1 hybridisiert. 
+
+36. Polynucleotid, kodierend für ein Fragment eines Proteins, das eine Aminosäuresequenz umfasst ausgewählt aus 
+der Gruppe bestehend aus Aminosäuren 50-60, 63-81 und 168-177 von SEQ ID NO: 2. 
+
+37. Fragment eines Proteins, umfassend eine Aminosäuresequenz ausgewählt aus der Gruppe bestehend aus Ami-
+nosäuren 50-60, 63-81 und 168-177 von SEQ ID NO: 2. 
+
+38. Zusammensetzung, umfassend den Antikörper oder ein Fragment davon nach Anspruch 22. 
+
+39. Fusionsprotein, umfassend das Protein nach Anspruch 20, fusioniert an ein Trägermolekül. 
+
+40. Fusionsprotein nach Anspruch 39, wobei das Trägermolekül ein Immunglobulin oder der Fc-Teil eines Immunglo-
+bulins ist. 
+
+41. Fusionsprotein nach Anspruch 40, wobei das Protein nach Anspruch 20 an ein Trägermolekül durch eine Linker-
+sequenz fusioniert ist. 
+
+42. Fusionsprotein nach Anspruch 40, wobei das Immunglobulin ein IgG-oder ein IgM-Immunglobulin ist. 
+
+43. Fusionsprotein nach Anspruch 42, wobei das Immunglobulin ein IgG-Immunglobulin ist. 
+
+Revendications 
+
+1. Polynucléotide comprenant une séquence de nucléotides choisie dans le groupe consistant en : 
+
+(a) la séquence de nucléotides de la SEQ ID N° 1 ; 
+(b) la séquence de nucléotides de la SEQ ID N° 1, du nucléotide 65 au nucléotide 601 ; 
+(c) la séquence de nucléotides d'une séquence codant pour la protéine complète du clone hGIL-19/AE289 
+déposé sous le numéro de dépôt ATCC 207231 ; 
+(d) la séquence de nucléotides d'une séquence codant pour la protéine mature du clone hGIL-19/AE289 déposé 
+sous le numéro de dépôt ATCC 207231 ; 
+(e) une séquence de nucléotides codant pour une protéine comprenant la séquence d'aminoacides de la SEQ 
+ID N° 2 ; 
+(f) une séquence de nucléotides codant pour une protéine comprenant la séquence d'aminoacides de la SEQ 
+ID N° 2, approximativement des aminoacides 34 à 179 ; et 
+(g) une séquence de nucléotides codant pour une protéine comprenant un fragment de la séquence d'aminoa-
+cides de la SEQ ID N° 2, le fragment comprenant une séquence d'aminoacides choisie dans le groupe consistant 
+en les aminoacides 50-60, 63-81 et 168-177 de la SEQ ID N° 2. 
+
+2. Polynucléotide suivant la revendication 1, ledit polynucléotide étant lié de manière fonctionnelle à au moins une 
+séquence de régulation d'expression. 
+
+3. Cellule hôte transformée avec le polynucléotide de la revendication 2. 
+
+4. Cellule hôte suivant la revendication 3, ladite cellule étant une cellule de mammifère. 
+
+
+EP 1 177 312 B1 
+
+32 
+
+5 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+5. Procédé pour la production d'une protéine codée par le polynucléotide de la revendication 2, procédé qui comprend : 
+
+(a) la croissance d'une culture d'une cellule hôte transformée avec le polynucléotide de la revendication 2 dans 
+un milieu de culture convenable ; et 
+(b) la purification de ladite protéine à partir de la culture. 
+
+6. Protéine produite suivant le procédé de la revendication 5. 
+
+7. Polynucléotide codant pour la protéine de la revendication 6. 
+
+8. Polynucléotide suivant la revendication 7, ledit polynucléotide comprenant la séquence codant pour la protéine 
+complète, ou mature, du clone hGIL-19/AE289 déposé sous le numéro de dépôt ATCC 207231. 
+
+9. Protéine comprenant une séquence d'aminoacides choisie dans le groupe consistant en : 
+
+(a) la séquence d'aminoacides de la SEQ ID N° 2 ; 
+(b) un fragment de la séquence d'aminoacides de la SEQ ID N° 2, le fragment comprenant une séquence 
+d'aminoacides choisie dans le groupe consistant en les aminoacides 50-60, 63-81 et 168-177 de la SEQ ID N° 2 ; 
+(c) la séquence d'aminoacides codée par une séquence codant pour la protéine complète du clone hGIL-
+19/AE289 déposé sous le numéro de dépôt ATCC 207231 ; 
+(d) la séquence d'aminoacides codée par une séquence codant pour la protéine mature du clone hGIL-19/AE289 
+déposé sous le numéro de dépôt ATCC 207231 ; et 
+(e) la séquence d'aminoacides de la SEQ ID N° 2, approximativement des aminoacides 34 à 179. 
+
+10. Protéine suivant la revendication 9, ladite protéine comprenant la séquence d'aminoacides de la SEQ ID N° 2. 
+
+11. Composition comprenant la protéine de la revendication 9 et un support pharmaceutiquement acceptable. 
+
+12. Polynucléotide suivant la revendication 1, ledit polynucléotide comprenant la séquence de nucléotides de la SEQ 
+ID N° 1. 
+
+13. Polynucléotide suivant la revendication 1, ledit polynucléotide comprenant la séquence de nucléotides de la SEQ 
+ID N° 1, du nucléotide 65 au nucléotide 601. 
+
+14. Polynucléotide suivant la revendication 1, ledit polynucléotide comprenant la séquence de nucléotides d'une sé-
+quence codant pour la protéine complète du clone hGIL-19/AE289 déposé sous le numéro de dépôt ATCC 207231. 
+
+15. Polynucléotide suivant la revendication 14, dans lequel la séquence codant pour la protéine complète est codée 
+par le segment d'ADNc d'insertion du clone hGIL-19/AE289 déposé sous le numéro de dépôt ATCC 207231. 
+
+16. Polynucléotide suivant la revendication 1, ledit polynucléotide comprenant, la séquence de nucléotides d'une sé-
+quence codant pour la protéine mature du clone hGIL-19/AE289 déposé sous le numéro de dépôt ATCC 207231. 
+
+17. Polynucléotide suivant la revendication 16, dans lequel la séquence codant pour la protéine mature est codée par 
+le segment d'ADNc d'insertion du clone hGIL-19/AE289 déposé sous le numéro de dépôt ATCC 207231. 
+
+18. Polynucléotide suivant la revendication 1, ledit polynucléotide codant pour une protéine comprenant la séquence 
+d'aminoacides de la SEQ ID N° 2. 
+
+19. Polynucléotide suivant la revendication 1, ledit polynucléotide codant pour une protéine comprenant un fragment 
+de la séquence d'aminoacides de la SEQ ID N° 2, le fragment comprenant une séquence d'aminoacides choisie 
+dans le groupe consistant en les aminoacides 50-60, 63-81 et 168-177 de la SEQ ID N° 2. 
+
+20. Protéine suivant la revendication 9, ladite protéine comprenant un fragment de la séquence d'aminoacides de la 
+SEQ ID N° 2, le fragment comprenant une séquence d'aminoacides choisie dans le groupe consistant en les 
+aminoacides 50-60, 63-81 et 168-177 de la SEQ ID N° 2. 
+
+21. Protéine suivant la revendication 9, ladite protéine comprenant la séquence d'aminoacides codée par une séquence 
+
+
+EP 1 177 312 B1 
+
+33 
+
+5 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+codant pour la protéine complète du clone hGIL-19/AE289 déposé sous le numéro de dépôt ATCC 207231. 
+
+22. Anticorps ou son fragment qui se lie à une protéine de la revendication 9, 10, 20 ou 39. 
+
+23. Anticorps suivant la revendication 22, qui est un anticorps neutralisant. 
+
+24. Anticorps suivant la revendication 22, qui est choisi dans le groupe consistant en un anticorps monoclonal, un 
+anticorps polyclonal, un anticorps chimère, un anticorps monocaténaire, un anticorps greffé avec une CDR et un 
+anticorps humanisé. 
+
+25. Anticorps suivant la revendication 22, qui est un anticorps humain. 
+
+26. Anticorps suivant la revendication 24 ou 25, qui un anticorps monoclonal. 
+
+27. Utilisation d'un anticorps de l'une quelconque des revendications 22' à 26 pour la préparation d'une composition 
+pharmaceutique destinée au traitement ou à la prévention de l'arthrite. 
+
+28. Utilisation suivant la revendication 27, dans laquelle l'arthrite est la polyarthrite rhumatoide. 
+
+29. Polynucléotide suivant la revendication 1, ledit polynucléotide comprenant une séquence de nucléotides qui code 
+pour une protéine ayant la séquence d'aminoacides de la SEQ ID N° 2 approximativement des aminoacides 34 à 179. 
+
+30. Protéine suivant la revendication 21, dans laquelle la séquence codant pour la protéine complète est codée par le 
+segment d'ADNc d'insertion du clone hGIL-19/AE289 déposé sous le numéro de dépôt ATCC 207231. 
+
+31. Protéine suivant la revendication 9, ladite protéine comprenant la séquence d' aminoacides codée par une séquence 
+codante pour la protéine mature du clone hGIL-19/AE289 déposé sous le numéro de dépôt ATCC 207231. 
+
+32. Protéine suivant la revendication 31, dans laquelle la séquence codant pour la protéine mature est codée par le 
+segment d'ADNc d'insertion du clone hGIL-19/AE289 déposé sous le numéro de dépôt ATCC 207231. 
+
+33. Protéine suivant la revendication 9, ladite protéine comprenant la séquence d'aminoacides de la SEQ ID N° 2, 
+approximativement des aminoacides 34 à 179. 
+
+34. Polynucléotide comprenant une séquence de nucléotides qui s'hybride dans des conditions hautement drastiques 
+à la SEQ ID N° 1 ou à un de ses compléments. 
+
+35. Protéine codée par une séquence de nucléotides qui s'hybride dans des conditions hautement drastiques au com-
+plément de la SEQ ID N° 1. 
+
+36. Polynucléotide codant pour un fragment d'une protéine comprenant une séquence d'aminoacides choisie dans le 
+groupe consistant en les aminoacides 50-60, 63-81 et 168-177 de la SEQ ID N° 2. 
+
+37. Fragment d'une protéine comprenant une séquence d'aminoacides choisie dans le groupe consistant en les ami-
+noacides 50-60, 63-81 et 168-177 de la SEQ ID N° 2. 
+
+38. Composition comprenant l'anticorps ou son fragment de la revendication 22. 
+
+39. Protéine de fusion comprenant la protéine de la revendication 20 fusionnée à une molécule de support. 
+
+40. Protéine de fusion suivant la revendication 39, dans laquelle la molécule de support est une immunoglobuline ou 
+la portion Fc d'une immunoglobuline. 
+
+41. Protéine de fusion suivant la revendication 40, dans laquelle la protéine de la revendication 20 est fusionnée à la 
+molécule de support par une séquence de liaison. 
+
+42. Protéine de fusion suivant la revendication 40, dans laquelle l'immunoglobuline est une immunoglobuline IgG ou IgM. 
+
+
+EP 1 177 312 B1 
+
+34 
+
+5 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+43. Protéine de fusion suivant la revendication 42, dans laquelle l'immunoglobuline est une immunoglobuline IgG. 
+
+
+EP 1 177 312 B1 
+
+35 
+
+
+EP 1 177 312 B1 
+
+36 
+
+REFERENCES CITED IN THE DESCRIPTION 
+
+This list of references cited by the applicant is for the reader's convenience only. It does not form part of the European 
+patent document. Even though great care has been taken in compiling the references, errors or omissions cannot be 
+excluded and the EPO disclaims all liability in this regard. 
+
+Patent documents cited in the description 
+
+• 
+US 5536637 A [0020] [0131] 
+• 
+EP 0649464 B1 [0029] 
+• 
+US 5464764 A [0029] 
+• 
+US 5487992 A [0029] 
+• 
+US 5627059 A [0029] 
+• 
+US 5631153 A [0029] 
+• 
+US 5614396 A [0029] 
+• 
+US 5616491 A [0029] 
+• 
+US 5679523 A [0029] 
+• 
+US 4518584 A [0050] 
+• 
+WO 9516035 A [0087] 
+• 
+WO 9505846 A [0087] 
+• 
+WO 9107491 A [0087] 
+• 
+US 4798885 A [0088] 
+
+• 
+US 4235871 A [0110] 
+• 
+US 4501728 A [0110] 
+• 
+US 4837028 A [0110] 
+• 
+US 4737323 A [0110] 
+• 
+WO 5169939 A [0119] 
+• 
+WO 5194594 A [0119] 
+• 
+WO 5576184 A [0119] 
+• 
+US 5530101 A [0119] 
+• 
+US 5585089 A [0119] 
+• 
+US 5693762 A [0119] 
+• 
+US 5877397 A [0119] 
+• 
+US 5625126 A [0119] 
+• 
+WO 60131473 A [0143] 
+
+Non-patent literature cited in the description 
+
+• 
+H.U. SARAGOVI et al. Bio/Technology, 1992, vol. 
+10, 773-778 [0025] 
+• 
+R.S. MCDOWELL et al. J. Amer. Chem. Soc., 1992, 
+vol. 114, 9245-9253 [0025] 
+• 
+ALBERT; MORRIS. Trends Pharmacol. Sci., 1994, 
+vol. 15 (7), 250-254 [0029] 
+• 
+LAVAROSKY et al. Biochem. Mol. Med, 1997, vol. 
+62 (1), 11-22 [0029] 
+• 
+HAMPEL. Prog. Nucleic Acid Res. Mol. Biol., 1998, 
+vol. 58, 1-39 [0029] 
+• 
+PLASTERK. Bioessays, 1992, vol. 14 (9), 629-633 
+[0029] 
+• 
+ZWAAL et al. Proc. Natl. Acad.Sci. USA, 1993, vol. 
+90 (16), 7431-7435 [0029] 
+• 
+CLARK et al. Proc. Natl. Acad Sci. USA, 1994, vol. 
+91 (2), 719-722 [0029] 
+• 
+MANSOUR et al. Nature, 1988, vol. 336, 348-352 
+[0029] 
+• 
+Local alignment statistics. ALTSCHUL ; GISH. Meth-
+ods in Enzymology. 1996, vol. 266, 460-480 [0034] 
+• 
+ALTSCHUL et al. Basic local alignment search tool. 
+Journal of Molecular Biology, 1990, vol. 215, 403-410 
+[0034] 
+• 
+GISH; STATES. Identification of protein coding re-
+gions by database similarity search. Nature Genetics, 
+1993, vol. 3, 266-272 [0034] 
+• 
+KARLIN ; ALTSCHUL. Applications and statistics for 
+multiple high-scoring segments in molecular se-
+quences. Proc. Natl. Acad Sci. USA, 1993, vol. 90, 
+5873-5877 [0034] 
+
+• 
+O'BRIEN; SEUÁNEZ. Ann. Rev. Genet., 1988, vol. 
+22, 323-351 [0035] 
+• 
+O'BRIEN et al. Nature Genetics, 1993, vol. 3, 
+103-112 [0035] 
+• 
+JOHANSSON et al. Genomics, 1995, vol. 25, 
+682-690 [0035] 
+• 
+LYONS et al. Nature Genetics, 1997, vol. 15, 47-56 
+[0035] 
+• 
+O'BRIEN et al. Trends in Genetics, 1997, vol. 13 
+(10), 393-399 [0035] 
+• 
+CARVER ; STUBBS. Genome Research, 1997, vol. 
+7, 1123-1137 [0035] 
+• 
+SAMBROOK, J. ; E.F. FRITSCH ; T. MANIATIS. 
+Molecular Cloning: A Laboratory Manual. Cold Spring 
+Harbor Laboratory Press, 1989 [0039] 
+• 
+Current Protocols in Molecular Biology. John Wiley 
+&amp; Sons, Inc, 1995 [0039] 
+• 
+KAUFMAN et al. Nucleic Acids Res., 1991, vol. 19, 
+4485-4490 [0041] 
+• 
+R. KAUFMAN. Methods in Enzymology, 1990, vol. 
+185, 537-566 [0041] 
+• 
+SUMMERS ; SMITH. Texas Agricultural Experiment 
+Station Bulletin No. 1555. 1987 [0044] 
+• 
+GYURIS et al. Cell, 1993, vol. 75, 791-803 [0057] 
+• 
+ROSSI et al. Proc. Natl. Acad Sci. USA, vol. 94, 
+8405-8410 [0057] 
+• 
+Molecular Cloning: A Laboratory Manual. Cold Spring 
+Harbor Laboratory Press, 1989 [0060] 
+• 
+Methods in Enzymology: Guide to Molecular Cloning 
+Techniques. Academic Press, 1987 [0060] 
+
+
+EP 1 177 312 B1 
+
+37 
+
+• 
+Current Protocols in Immunology. Greene Publishing 
+Associates and Wiley-Interscience [0062] [0062] 
+[0073] [0073] [0092] [0096] 
+• 
+TAKAI et al. J. Immunol., 1986, vol. 137, 3494-3500 
+[0062] [0062] [0073] [0073] [0073] 
+• 
+BERTAGNOLLI et al. J. Immunol., 1990, vol. 145, 
+1706-1712 [0062] 
+• 
+BERTAGNOLLI et al. Cellular Immunology, 1991, 
+vol. 133, 327-341 [0062] [0073] 
+• 
+BERTAGNOLLI et al. J. Immunol., 1992, vol. 149, 
+3778-3783 [0062] [0073] 
+• 
+BOWMAN et al. J. Immunol., 1994, vol. 152, 
+1756-1761 [0062] 
+• 
+KRUISBEEK, A.M. ; SHEVACH, E.M. Current Pro-
+tocols in Immunology. John Wiley and Sons, 1994, 
+vol. 1, 3.12.1-3.12.14 [0062] 
+• 
+SCHREIBER, R.D. Current Protocols in Immunolo-
+gy. John Wiley and Sons, 1994, vol. 1, 6.8.1-6.8.8 
+[0062] 
+• 
+BOTTOMLY, K. ; DAVIS, L.S. ; LIPSKY, P.E. Cur-
+rent Protocols in Immunology. John Wiley and Sons, 
+1991, vol. 1, 6.3.1-6.3.12 [0062] 
+• 
+DEVRIES et al. J. Exp. Med., 1991, vol. 173, 
+1205-1211 [0062] 
+• 
+MOREAU et al. Nature, 1988, vol. 336, 690-692 
+[0062] 
+• 
+GREENBERGER et al. Proc. Natl. Acad. Sci. U.S.A., 
+1983, vol. 80, 2931-2938 [0062] 
+• 
+NÕRDAN, R. Current Protocols in Immunology. John 
+Wiley and Sons, 1991, vol. I, 6.6.1-6.6.5 [0062] 
+• 
+SMITH et al. Proc. Natl. Acad. Sci. U.S.A., 1986, vol. 
+83, 1857-1861 [0062] 
+• 
+BENNETT, F. ; GIANNOTTI, J. ; CLARK, S.C. ; 
+TURNER, K. J. Current Protocols in Immunology. 
+John Wiley and Sons, 1991, vol. 1, 6.15.1 [0062] 
+• 
+CIARLETTA, A. ; GIANNOTTI, J. ; CLARK, S.C. ; 
+TURNER, K.J. Current Protocols in Immunology. 
+John Wiley and Sons, 1991, vol. 1, 6.13.1 [0062] 
+• 
+WEINBERGER et al. Proc. Natl. Acad. Sci. USA, 
+1980, vol. 77, 6091-6095 [0062] 
+• 
+WEINBERGER et al. Eur. J. Immun., 1981, vol. 11, 
+405-411 [0062] 
+• 
+TAKAI et al. J. Immunol., 1988, vol. 140, 508-512 
+[0062] [0073] [0073] [0073] 
+• 
+LENSCHOW et al. Science, 1992, vol. 257, 789-792 
+[0067] 
+• 
+TURKA et al. Proc. Natl. Acad. Sci USA, 1992, vol. 
+89, 11102-11105 [0067] 
+• 
+Fundamental Immunology. Raven Press, 1989, 
+846-847 [0067] 
+• 
+Fundamental Immunology. Raven Press, 1989, 
+840-856 [0068] 
+• 
+HERRMANN et al. Proc. Natl. Acad. Sci. USA, 1981, 
+vol. 78, 2488-2492 [0073] [0073] 
+• 
+HERRMANN et al. J. Immunol., 1982, vol. 128, 
+1968-1974 [0073] [0073] 
+• 
+HANDA et al. J. Immunol., 1985, vol. 135, 1564-1572 
+[0073] [0073] 
+
+• 
+BOWMANET. J. Virology, vol. 61, 1992-1998 [0073] 
+• 
+BROWN et al. J. Immunol., 1994, vol. 153, 
+3079-3092 [0073] 
+• 
+MALISZEWSKI. J. Immunol., 1990, vol. 144, 
+3028-3033 [0073] 
+• 
+MOND, J.J. ; BRUNSWICK, M. Current Protocols in 
+Immunology. John Wiley and Sons, 1994, vol. 1, 
+3.8.1-3.8.16 [0073] 
+• 
+GUERY et al. J. Immunol., 1995, vol. 134, 536-544 
+[0073] 
+• 
+INABA et al. Journal of Experimental Medicine, 
+1991, vol. 173, 549-559 [0073] 
+• 
+MACATONIA et al. Journal of Immunology, 1995, 
+vol. 154, 5071-5079 [0073] 
+• 
+PORGADOR et al. Journal of Experimental Medi-
+cine, 1995, vol. 182, 255-260 [0073] 
+• 
+NAIR et al. Journal of Virology, 1993, vol. 67, 
+4062-4069 [0073] 
+• 
+HUANG et al. Science, 1994, vol. 264, 961-965 
+[0073] 
+• 
+MACATONIA et al. Journal of Experimental Medi-
+cine, 1989, vol. 169, 1255-1264 [0073] 
+• 
+BHARDWAJ et al. Journal of Clinical Investigation, 
+1994, vol. 94, 797-807 [0073] 
+• 
+INABA et al. Journal of Experimental Medicine, 
+1990, vol. 172, 631-640 [0073] 
+• 
+DARZYNKIEWICZ et al. Cytometry, 1992, vol. 13, 
+795-808 [0073] 
+• 
+GORCZYCA et al. Leukemia, 1993, vol. 7, 659-670 
+[0073] 
+• 
+GORCZYCA et al. Cancer Research, 1993, vol. 53, 
+1945-1951 [0073] 
+• 
+ITOH et al. Cell, 1991, vol. 66, 233-243 [0073] 
+• 
+ZACHARCHUK. Journal of Immunology, 1990, vol. 
+145, 4037-4045 [0073] 
+• 
+ZAMAI et al. Cytometry, 1993, vol. 14, 891-897 
+[0073] 
+• 
+GORCZYCA et al. International Journal of Oncolo-
+gy, 1992, vol. 1, 639-648 [0073] 
+• 
+ANTICA et al. Blood, 1994, vol. 84, 111-117 [0073] 
+• 
+FINE et al. Cellular Immunology, 1994, vol. 155, 
+111-122 [0073] 
+• 
+GALYET. Blood, 1995, vol. 85, 2770-2778 [0073] 
+• 
+TOKI et al. Proc. Nat. Acad Sci. USA, 1991, vol. 88, 
+7548-7551 [0073] 
+• 
+JOHANSSON et al. Cellular Biology, 1995, vol. 15, 
+141-151 [0076] 
+• 
+KELLER et al. Molecular and Cellular Biology, 1993, 
+vol. 13, 473-486 [0076] 
+• 
+MCCLANAHAN et al. Blood, 1993, vol. 81, 
+2903-2915 [0076] 
+• 
+FRESHNEY, M.G. et al. Culture of Hematopoietic 
+Cells. Wiley-Liss, Inc, 1994, 265-268 [0077] 
+• 
+HIRAYAMA et al. Proc. Natl. Acad. Sci. USA, 1992, 
+vol. 89, 5907-5911 [0077] 
+• 
+MCNIECE, I.K. ; BRIDDELL, R.A. et al. Culture of 
+Hematopoietic Cells. Wiley-Liss, Inc, 1994, 23-39 
+[0077] 
+
+
+EP 1 177 312 B1 
+
+38 
+
+• 
+NEBEN et al. Experimental Hematology, 1994, vol. 
+22, 353-359 [0077] 
+• 
+PLOEMACHER, R.E. et al. Culture of Hematopoietic 
+Cells. Wiley-Liss, Inc, 1994, 1-21 [0077] 
+• 
+SPOONCER, E. ; DEXTER, M. ; ALLEN, T. et al. 
+Culture of Hematopoietic Cells. Wiley-Liss, Inc, 1994, 
+163-179 [0077] 
+• 
+SUTHERLAND, H.J. et al. Culture of Hematopoietic 
+Cells. Wiley-Liss, Inc, 1994, 139-162 [0077] 
+• 
+WINTER. Epidermal Wound Healing. Year Book 
+Medical Publishers, 71-112 [0087] 
+• 
+EAGLSTEIN; MERTZ. J. Invest. Dermatol, 1978, 
+vol. 71, 382-84 [0087] 
+• 
+VALE et al. Endocrinology, 1972, vol. 91, 562-572 
+[0089] 
+• 
+LING et al. Nature, 1986, vol. 321, 779-782 [0089] 
+• 
+VALE et al. Nature, 1986, vol. 321, 776-779 [0089] 
+• 
+MASON et al. Nature, 1985, vol. 318, 659-663 [0089] 
+• 
+FORAGE et al. Proc. Natl. Acad. Sci. USA, 1986, 
+vol. 83, 3091-3095 [0089] 
+• 
+TAUB et al. J. Clin. Invest., 1995, vol. 95, 1370-1376 
+[0092] 
+• 
+LIND et al. APMIS, 1995, vol. 103, 140-146 [0092] 
+• 
+MULLER et al. Eur. J. Immunol., vol. 25, 1744-1748 
+[0092] 
+• 
+GRUBER et al. J. of Immunol., 1994, vol. 152, 
+5860-5867 [0092] 
+• 
+JOHNSTON et al. J. oflmmunol., 1994, vol. 153, 
+1762-1768 [0092] 
+• 
+LINET et al. J. Clin. Pharmacol., 1986, vol. 26, 
+131-140 [0094] 
+• 
+BURDICK et al. Thrombosis Res., 1987, vol. 45, 
+413-419 [0094] 
+• 
+HUMPHREY et al. Fibrinolysis, 1991, vol. 5, 71-79 
+[0094] 
+• 
+SCHAUB. Prostaglandins, 1988, vol. 35, 467-474 
+[0094] 
+
+• 
+TAKAI et al. Proc. Natl. Acad. Sci. USA, 1987, vol. 
+84, 6864-6868 [0096] 
+• 
+BIERER et al. J. Exp. Med., 1988, vol. 168, 
+1145-1156 [0096] 
+• 
+ROSENSTEIN et al. J. Exp. Med., 1989, vol. 169, 
+149-160 [0096] 
+• 
+STOLTENBORG et al. J. Immunol. Methods, 1994, 
+vol. 175, 59-68 [0096] 
+• 
+STITT et al. Cell, 1995, vol. 80, 661-670 [0096] 
+• 
+HORTSCH et al. J Biol Chem, 1995, vol. 270 (32), 
+18809-18817 [0104] 
+• 
+MIYAKI et al. Oncogene, 1995, vol. 11, 2547-2552 
+[0104] 
+• 
+OZAWA et al. Cell, 1990, vol. 63, 1033-1038 [0104] 
+• 
+GODING. Monoclonal antibodies: principles and 
+practice. Academic Press Inc, 1983 [0119] 
+• 
+Production of Monoclonal Antibodies. YOKOYAMA. 
+Current Protocols in Immunology. Greene Publishing 
+Assoc. and John Wiley &amp; Sons, 1992 [0119] 
+• 
+Fragmentation of Immunoglobulins. ANDREW et al. 
+Current Protocols in Immunology. Greene Publishing 
+Assoc. and John Wiley &amp; Sons, 1992 [0119] 
+• 
+FISHWILD et al. Nature Biotechnology, 1996, vol. 
+14, 845-851 [0119] 
+• 
+MENDEZ et al. Nature Genetics, 1997, vol. 15, 
+146-156 [0119] 
+• 
+Nature Genetics, vol. 16, 410 [0119] 
+• 
+R.P. MERRIFIELD. J. Amer.Chem.Soc., 1963, vol. 
+85, 2149-2154 [0119] 
+• 
+J.L. KRSTENANSKY et al. FEBS Lett., 1987, vol. 
+211, 10 [0119] 
+• 
+DUMOUTIER et al. J. of Immunology, 2000, vol. 164, 
+1814-1819 [0135] 
+• 
+SYRBE et al. Springer Seminars in Immunopathol-
+ogy, 1999, vol. 21, 263-85 [0138] 
+
+
+
+	
+

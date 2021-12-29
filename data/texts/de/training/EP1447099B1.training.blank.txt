@@ -1,0 +1,1603 @@
+
+	
+
+		
+
+	
+
+	
+
+Anmerkung: Innerhalb von neun Monaten nach der Bekanntmachung des Hinweises auf die Erteilung des europäischen 
+Patents kann jedermann beim Europäischen Patentamt gegen das erteilte europäische Patent Einspruch einlegen. 
+Der Einspruch ist schriftlich einzureichen und zu begründen. Er gilt erst als eingelegt, wenn die Einspruchsgebühr 
+entrichtet worden ist. (Art. 99(1) Europäisches Patentübereinkommen). 
+
+Printed by Jouve, 75001 PARIS (FR) 
+
+(19) 
+
+EP 1 447 099 B1 
+
+*EP001447099B1* 
+
+(11) 
+
+EP 1 447 099 B1 
+
+(12) 
+
+EUROPÄISCHE PATENTSCHRIFT 
+
+(45) Veröffentlichungstag und Bekanntmachung des 
+
+Hinweises auf die Patenterteilung: 
+09.01.2008 Patentblatt 2008/02 
+
+(21) Anmeldenummer: 04012346.5 
+
+(22) Anmeldetag: 09.09.1997 
+
+(51) Int Cl.: 
+
+A61K 47/48 (2006.01) 
+A61P 35/00 (2006.01) 
+
+(54) Antineoplastisch wirkende Polyethylenkonjugate zytostatischer Verbindungen und diese 
+enthaltende Arzneimittel 
+
+Antineoplastic polyethylene conjugates of cytostatic compounds and pharmaceuticals comprising same 
+
+Conjugués polyéthyléniques à activité antinéoplastique de composés cytostatiques et compositions 
+pharmaceutiques les comprenant 
+
+(84) Benannte Vertragsstaaten: 
+
+AT BE CH DE DK ES FI FR GB GR IE IT LI LU MC 
+NL PT SE 
+
+(30) Priorität: 11.09.1996 DE 19636889 
+
+(43) Veröffentlichungstag der Anmeldung: 
+
+18.08.2004 Patentblatt 2004/34 
+
+(62) Dokumentnummer(n) der früheren Anmeldung(en) 
+
+nach Art. 76 EPÜ: 
+97943750.6 / 0 934 081 
+
+(73) Patentinhaber: Kratz, Felix 
+
+79232 March (DE) 
+
+(72) Erfinder: Kratz, Felix 
+
+79232 March (DE) 
+
+(74) Vertreter: Müller-Boré &amp; Partner 
+
+Patentanwälte 
+Grafinger Strasse 2 
+81671 München (DE) 
+
+(56) Entgegenhaltungen: 
+
+EP-A-0 306 943 
+EP-A-0 452 179 
+WO-A-92/16221 
+WO-A-96/23794 
+US-A-5 294 536 
+US-A-5 439 798 
+
+• ALLEN T M ET AL: "A NEW STRATEGY FOR 
+ATTACHMENT OF ANTIBODIES TO STERICALLY 
+STABILIZED LIPOSOMES RESULTING IN 
+EFFICIENT TARGETING TO CANCER CELLS" 
+BIOCHIMICA ET BIOPHYSICA ACTA, 
+AMSTERDAM, NL, Bd. 1237, Nr. 2, 26. Juli 1995 
+(1995-07-26), Seiten 99-108, XP000858826 ISSN: 
+0006-3002 
+
+Bemerkungen: 
+Die Akte enthält technische Angaben, die nach dem 
+Eingang der Anmeldung eingereicht wurden und die 
+nicht in dieser Patentschrift enthalten sind. 
+
+
+EP 1 447 099 B1 
+
+2 
+
+5 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Beschreibung 
+
+[0001] Diese Erfindung betrifft tumorhemmende Polymerkonjugate bestehend aus einem geeigneten Trägersystem 
+und zytostatischen Verbindungen. Weiterhin betrifft die Erfindung Verfahren zu der Herstellung von solchen Konjugaten 
+und die Verwendung dieser. 
+Immunokonjugate bzw. Protein-oder Polymerkonjugate sind Verbindungen, die aus einer geeigneten Trägersubstanz, 
+wie z.B. einem Antikörper, einem Wachstumsfaktor, einer hormon-bzw. peptidähnlichen Struktur, einem Protein oder 
+einem Polymer, und einem oder mehreren zytotoxischen Wirkstoffen, wie z.B. Zytostatika, Toxinen oder radioaktiven 
+Isotopen, bestehen. Die Trägersubstanzen besitzen i.d.R. die Eigenschaft, sich bevorzugt im Tumorgewebe anzurei-
+chern, so daß auf diesem Wege ebenso der an die Trägersubstanz gebundene Wirkstoff im Tumorgewebe angereichert 
+und somit eine selektivere antitumorale Therapie erzielt wird. Chemoimmunokonjugate bezeichnen Konjugate von Trä-
+gersubstanzen und zytostatischen Verbindungen, wobei der Träger i.d.R. ein Antikörper ist. 
+[0002] Die zur Zeit klinisch eingesetzten Zytostatika gegen Krebserkrankungen besitzen eine Reihe von schweren 
+systemischen Nebenwirkungen und weisen keine Anreicherung im Tumorgewebe auf, so daß nach neuen Derivaten 
+bzw. Formulierungen geforscht wird, die eine selektivere antitumorale Therapie ermöglichen. Zu diesem Zwecke kommen 
+Chemoimmunokonjugate bzw. Protein-oder Polymerkonjugate bestehend aus einer geeigneten Trägersubstanz und 
+Zytostatika in Frage. 
+Als Trägersubstanzen kommen unter anderem Antikörper, Wachstumsfaktoren, Serumproteine, hormon-bzw. pep-
+tidähnliche Strukturen oder Polymere in Frage, für die i.d.R. eine Anreicherung im Tumorgewebe bekannt ist (Mägerstädt, 
+M.: Antibody Conjugates and Malignant Disease, Library of Congress 1990; Chadwick, C.M.:Receptors in Tumour 
+Biology, Cambridge University Press, 1984, Seymour, L.W. CRC Crit. Rev. Ther. Drug Carrier Sys. (1992), 9, 135-187; 
+Maeda, H.; Matsumura, Y. CRC Crit. Rev. Ther. Drug Carrier Sys. (1989), 6, 193-210). 
+Es sind beispielsweise die Trägerproteine humanes Serumtransferrin und Serumalbumin, deren Anreicherung im Tu-
+morgewebe in der Literatur dokumentiert ist (Ward, S.G. Taylor, R.C.: 1-54, in Metal-Based Drugs (Gielen, M.F. (Ed.)), 
+Freund Publishing House Ltd, 1988; 
+Sinn, H., Schrenk, H.H., Friedrich, A., Schilling, U. und Maier-Borst, W. (1990), Nucl. Med. Biol. Vol. 17(8), 819-827), 
+sowie Polyethylenglykole (PEGs) als Träger von zytostatischen Verbindungen bekannt (Topchieva, I.N. (1990), Pol-
+ym.Sci.USSR, 32, 833-851; Poly(ethylene glycol) Chemistry: Biotechnical and Biomedical Applications (1992), Ed. J.M. 
+Harris, Plenum Press, New York). 
+PEGs sind aufgrund ihrer Bioverträglichkeit, ihrer guten Wasserlöslichkeit und synthetischen Divergenz für die Entwick-
+lung von therapeutischen Polymerkonjugaten sehr geeignet. In den letzten Jahren sind PEGs vor allem mit medizinisch 
+bedeutsamen Proteinen und Enzymen konjugiert worden (Übersicht in Topchieva, I.N. (1990), Polym.Sci.USSR, 32, 
+833-851). 
+Die Herstellung von Chemoimmunokonjugaten bzw. Protein-oder Polymerkonjugaten erfolgt grundsätzlich entweder 
+durch direkte Kopplung von Trägersubstanz und Wirkstoff oder mit Hilfe von Spacergruppen, sog. homo-bzw. heter-
+obifunktionelle Reagenzien. Vorwiegend ist bisher das Verfahren der direkten Kopplung angewandt worden, welches 
+jedoch häufig zu polymeren Produkten und nicht eindeutig definierten Konjugaten führt. Kürzlich sind einige Chemoim-
+munokonjugate (Europäische Patentanmeldung, EP 91-117535 911615, Europäische Patentanmeldung, EP 90-109268 
+900516, PCT Internationale Patentanmeldung, WO 90-CA251 900809, Britische(UK) Patentanmeldung, GB 83-5104 
+830224 und Europäische Patentanmeldung, EP 89-102370 890210), die mittels bestimmter bifunktioneller Reagenzien 
+hergestellt wurden, als zytostatisch wirkende Mittel vorgeschlagen worden. Des weiteren sind aus DE 41 22 210 Al 
+Konjugate tumoraktiver Verbindungen mit Transferrin oder Albumin bekannt, wobei die tumoraktive Verbindung mit N-
+Hydroxysuccinimid und Carbodiimid aktiviert wird und das so erhaltene Gemisch direkt an das Trägerprotein gekoppelt 
+wird. 
+[0003] EP-A-0 452 179 beschreibt ein auf die Verdauungsorgane, insbesondere den Magen und Darm gerichtetes 
+polymer-kombiniertes Arzneimittel und ein Verfahren zu dessen Herstellung. US-A-5 439 798 beschreibt Derivate von 
+Procainamid und N-acetylprocainamid, wobei die Derivate Maleimidkonjugate von Proteinen oder PolyAminosäuren, 
+Enzymen, Enzym-Donor-Polypeptiden und Markierungssubstanzen einschließen. US-A-5 294 536 beschreibt eine Male-
+imid-enthaltende Verbindung, welche nützlich in der Herstellung von Konjugaten mit Verbindungen ist, die eine Alko-
+holgruppe, eine Aminogruppe oder eine Thiolgruppe aufweisen. Die Verbindung kann zum Konjugieren von biologisch 
+aktiven Gruppen, wie einem Antigen mit einem Protein, verwendet werden. WO-A-92/16221 beschreibt Verbindungen 
+der allgemeinen Formel R 1 -X-R 2 , wobei R 1 und R 2 biologisch aktive Gruppen darstellen, von denen mindestens eine 
+ein Polypeptid ist. X ist eine nicht-peptidische polymere Gruppe. EP-A-0 306 943 beschreibt ein Verfahren zum Herstellen 
+eines Immunkonjugats, umfassend die Schritte des Umsetzens eines Toxins oder Proteins mit einem heterobifunktion-
+alen Reagenz, welches eine Maleimidogruppe enthält. WO-A-96/23794 beschreibt die Herstellung wasserlöslicher 
+Arzneimittelvorstufen, insbesondere die Verwendung von nichtantigenen Polymeren mit relativ hohem Molekulargewicht 
+zur Herstellung der Arzneimittelvorstufen. Allen T. M. et al: "A new strategy for attachment of antibodies to sterically 
+stabilized liposomes resulting in efficient targeting to cancer cells", Biochimica et Biophysica Acta, Amsterdam, NL, Bd. 
+
+
+EP 1 447 099 B1 
+
+3 
+
+5 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1237, Nr.2, S. 99-108 beschreibt das Binden von monoklonalen Antikörpern an durch Polyethylenglykol stabilisierte 
+Liposomen. 
+[0004] Es wurde nun gefunden, daß Polyethylenglykolkonjugate, bestehend aus Polyethylenglykol mit einer Masse 
+zwischen 5000 und 200 000 Da und mindestens einer durch Maleinimid verbindungen derivatisierten zytostatischen 
+Verbindung, eine der zytostatischen Verbindung gleichwertige oder höhere tumorhemmende Wirksamkeit aufweisen. 
+[0005] Dabei sind die zytostatischen Verbindungen aus der Gruppe der Anthrazykline, der Stickstofflostderivate, der 
+Purin-oder Pyrimidinantagonisten, der Folsäureantagonisten, der Taxoide, der Camptothecine, der Podophyllotoxin-
+derivate, der Vinca-Alkaloide oder der cis-konfigurierten Platin(II)-Komplexe ausgewählt. 
+[0006] Für die Herstellung dieser Polymerkonjugate sind zytostatische Verbindungen wie die Anthrazykline Doxoru-
+bicin, Daunorubicin, Epirubicin, Idarubicin und Mitoxandron, die Alkylantien Chlorambucil und Melphalan, die Antime-
+tabolite Methotrexat, 5-Fluorouracil, 5'-Desoxy-5-fluorouridin und Thioguanin, die Taxoide Paclitaxel und Docetaxel, die 
+Camptothecine Topotecan und 9-Aminocamptothecin, die Podophyllotoxinderivate Etoposid, Teniposid und Mitopodo-
+zid, die Vinca-Alkaloide Vinblastin, Vincristin, Vindesin und Vinorelbin und eine Verbindung der allgemeinen Formel I, 
+II, III oder IV bevorzugt : 
+
+n = 0-6, X = -NH 2 , -OH, -COOH, -O-CO-R-COR*, -NH-CO-R-COR*, worin R eine aliphatische Kohlenstoffkette mit 1-6 
+Kohlenstoffatomen oder eine substituierte bzw. unsubstituierte Phenylengruppe und R* H, Phenyl, Alkyl mit 1-6 Koh-
+lenstoffatomen ist, und die Aminfunktionen mit einer Schutzgruppe wie der tert.-Butyloxycarbonyl-Schutzgruppe verse-
+hen sind, 
+die mit einer Maleinimid verbindung derivatisiert wurden. Die zytostatischen Verbindungen werden dabei i.d.R. mit einer 
+Maleinimidverbindung umgesetzt, die mindestens eine für die Bindung zum Zytostatikum geeignete funktionelle Gruppe 
+besitzt, wie eine Amino-, Hydroxy-, Carbonsäure-, Carbonsäurechlorid-, Sulfonsäure-, Sulfonsäurechlorid-, Säurehy-
+drazid-oder Hydrazino-, Oxycarbonylchlorid-, Aldehyd-oder Ketogruppe, so daß Maleinimidderivate von zytostatischen 
+Verbindungen bereitgestellt werden, wobei die chemische Verknüpfung zwischen Maleinimidverbindung und zytostati-
+scher Verbindung durch eine Amid-, Ester-, Imin-, Hydrazon-, Carboxylhydrazon-, Oxycarbonyl-, Acetal-, oder Ketal-
+bindung erfolgt. Bei den aus den Verbindungen der allgemeinen Formel I-IV erhaltenen Maleinimid verbindung wird die 
+zytostatische ciskonfigurierte Platineinheit anschließend eingeführt, d.h. die entsprechenden Platin(II)-Komplexe werden 
+entweder nach Entfernen der Schutzgruppe durch Umsetzen mit einem Tetrachloroplatinat-Salz oder mit cis-[PtA 2 B] 
+(A = Halogen, B = (NH 3 ) 2 , Ethylendiamin, Propandiamin, 1,2-Diaminocyclohexan) erhalten. 
+[0007] Durch Umsetzen der derivatisierten zytostatischen Verbindungen mit den unten aufgeführten hetero-bzw. 
+homobifunktionellen PEGs mit einer Masse zwischen 5000 und 200 000 Da -Übersicht 1: 
+Übersicht 1: 
+
+
+EP 1 447 099 B1 
+
+4 
+
+5 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+werden Polymerkonjugate bereitgestellt, die einfach und effektiv hergestellt werden, die eine hohe Reinheit besitzen, 
+die eine im Vergleich zu mehreren der ursprünglichen zytostatischen Verbindungen ausgezeichnete Wasserlöslichkeit 
+besitzen, die in physiologischem Puffer stabile Formulierungen sind und die eine in vitro antiproliferative Wirksamkeit 
+gegen menschliche Tumorzellen aufweisen, die denen der ungebundenen Zytostatika gleichwertig oder überlegen ist. 
+Des weiteren zeigen die Konjugate in vivo eine gleichwertige bzw. verbesserte antitumorale Wirksamkeit und eine 
+verbesserte Verträglichkeit. Die durch solche Kopplungen realisierten Polyethylenglykolkonjugate, die für eine selekti-
+vere Behandlung von Krebserkrankungen sehr geeignet sind, sind Gegenstand der Erfindung und werden im folgenden 
+beschrieben. 
+[0008] Das Verfahren zur Synthese der Polyethylenglykolkonjugate erfolgt in drei Schritten (Schritt 1 bis 3): 
+
+Schritt 1: 
+Synthese von Maleinimid-verbindungen 
+Schritt 2: 
+Synthese von Maleinimidderivaten zytostatischer Verbindungen 
+Schritt 3: 
+Kopplung der in Schritt 2 erhaltenen zytostatischen Verbindung an ein in Übersicht 1 dargestelltes PEG 
+
+Schritt 1: Synthese von Maleinimid verbindungen 
+
+[0009] Die Maleinimidverbindungen werden im allgemeinen nach einem der zwei folgenden Verfahren hergestellt: 
+Beim ersten Verfahren wird Maleinsäureanhydrid mit einer aliphatischen Aminoverbindung H 2 N-R-Y, wobei R eine 
+aliphatische C-Kette mit 1-6 Kohlenstoffatomen oder eine substituierte bzw. unsubstituierte Benzylgruppe und Y = -OH, 
+-COOH, -SO 3 H, -CH(OC 2 H 5 ) 2 , R*-C=O, R* = Phenyl oder Alkylrest mit 1 bis 6 Kohlenstoffatomen ist, zur entsprechenden 
+Maleaminsäure und anschließend mit einem bis zwei Äquivalenten Triethylamin (Et 3 N) in wasserfreiem Toluol unter 
+azeotroper Entfernung des entstehenden Wassers zur entsprechenden Maleinimidverbindung umgesetzt. Die weitere 
+Derivatisierung der Gruppe Y erfolgt durch Umsetzen der -COOH-bzw. -SO 3 H-Gruppe mit Oxalylchlorid oder Thionyl-
+chlorid zu den entsprechenden Säurechloriden, durch Umsetzen der Hydroxygruppe mit Bis-(trichlormethyl)-carbonat 
+zu den entsprechenden Oxycarbonylchloriden, durch Umsetzen der Acetalgruppe -CH(OC 2 H 5 ) 2 zu den entsprechenden 
+Aldehyden mit Hilfe von säurekatalytischer Spaltung, wie z.B. durch p-Toluolsulfonsäure, Schwefelsäure oder saures 
+Kieselgel, und durch Umsetzen der Säurechloride mit N-(tert-Butoxycarbonyl)-alkoholamin bzw. N-(tert.-Butoxycarbo-
+nyl)-alkoholhydrazin und anschließender Spaltung mit Trifluoressigsäure oder Chlorwasserstoff (HCl) in Ether, Tetra-
+hydrofuran (THF) oder Dioxan zu den entsprechenden Amino-bzw. Hydrazinoverbindungen. 
+[0010] Beim zweiten Verfahren wird Maleinsäureanhydrid mit einer aromatischen Aminoverbindung H 2 N-R-Y, wobei 
+R eine substituierte bzw. unsubstituierte Phenylengruppe und Y = -OH, -COOH, -SO 3 H, R*-C=O, R* = Phenyl oder 
+Alkylrest mit 1 bis 6 Kohlenstoffatomen ist, zur entsprechenden Maleaminsäure und anschließend mit Essigsäurean-
+hydrid und wasserfreiem Natriumacetat zur entsprechenden Maleinimidverbindung umgesetzt. Die weitere Derivatisie-
+rung der Gruppe Y erfolgt durch Umsetzen der -COOH-bzw. -SO 3 H-Gruppe mit Oxalylchlorid oder mit Thionylchlorid 
+zu den entsprechenden Säurechloriden, durch Umsetzen der Hydroxygruppe mit Bis-(trichlormethyl)-carbonat zu den 
+entsprechenden Oxycarbonylchloriden, durch Umsetzen der Säurechloride zu den entsprechenden Aldehyden mit Hilfe 
+von LiAl[OC(CH 3 ) 3 ] 3 H in THF, durch Umsetzen der Säurechloride in THF oder Ethylacetat mit t-Butylcarbazat und 
+anschließender Spaltung mit Trifluoressigsäure oder HCl in Ether, THF oder Dioxan zu den entsprechenden Säurehy-
+draziden und durch Umsetzen der Säurechloride mit N-(tert.-Butoxycarbonyl)-alkoholamin bzw. N-(tert.-Butoxycarbo-
+nyl)-alkoholhydratin und anschließender Spaltung mit Trifluoressigsäure oder HCl in Ether, THF oder Dioxan zu den 
+entsprechenden Amino-bzw. Hydrazinoverbindungen. 
+
+
+EP 1 447 099 B1 
+
+5 
+
+5 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[0011] Die Maleinimidverbindungen der allgemeinen Formel VI und VII werden hergestellt, indem man die aus den 
+oben genannten Verfahren erhaltenen Maleinimidverbindungen, bei denen Y -CO-NHNH 2 oder -COR* mit n = 1-6 und 
+R* = H, Phenyl, Alkyl mit 1-6 Kohlenstoffatomen ist, mit Carbonylverbindungen der allgemeinen Formel O=CR*-R-Y 
+oder mit Säurehydraziden der allgemeinen Formel Y-R-R*CO-NH-NH 2 in wasserfreiem THF, Methanol oder Ethanol 
+unter eventuellem Zusatz von p-Toluolsulfonsäure oder Trifluoressigsäure umsetzt. Die weitere Derivatisierung der 
+Gruppe Y erfolgt durch Umsetzen der COOH-bzw. SO 3 H-Gruppe mit Oxalylchlorid oder mit Thionylchlorid zu den 
+entsprechenden Säurechloriden, durch Umsetzen der Hydroxygruppe mit Bis-(trichlormethyl)-carbonat zu den entspre-
+chenden Oxycarbonylchloriden. 
+[0012] Die Bismaleinimidverbindungen der allgemeinen Formel XI, wobei zwei Maleinimidverbindungen durch eine 
+Gruppe Z verbunden sind, die eine Diaminoalkan-, Dihydroxyalkan-, Dihydrazinoalkan-oder Carbonsäuredihydrazid-
+Verbindung darstellt, so daß zwei Maleinimidverbindungen über zwei Amid-, Ester-, Imin-, Hydrazon oder Carboxylhy-
+drazonbindungen miteinander verbunden sind, werden aus den oben erläuterten Maleinimidverbindungen hergestellt, 
+wobei die Synthese der durch Amidbindungen verknüpften Verbindungen durch Umsetzen der Säurechloride der Maleini-
+midverbindungen mit Diaminoalkanverbindungen NH 2 -(CH 2 ) n -NH 2 , n = 2-12, in THF oder Ethylacetat unter eventuellem 
+Zusatz von Et 3 N erfolgt, die Synthese der durch eine Esterbindung verknüpften Verbindungen durch Umsetzen der 
+Säurechloride der Maleinimidverbindungen mit Dihydroxyverbindungen HO-(CH 2 ) n -OH-, n = 2-12, in THF oder Ethyla-
+cetat unter eventuellem Zusatz von Et 3 N erfolgt, die Synthese der durch eine Iminbindung verknüpften Verbindungen 
+durch Umsetzen der Aldehyde oder Ketone der Maleinimidverbindungen mit Diaminoalkanverbindungen 
+NH 2 -(CH 2 ) n -NH 2 , n = 2-12, in wasserfreiem THF, Methanol oder Ethanol unter Zusatz von p-Toluolsulfonsäure oder 
+Trifluoressigsäure erfolgt und die Synthese der durch eine Hydrazon-bzw. Carboxylhydrazonbindung verknüpften Ver-
+bindungen durch Umsetzen der Aldehyde oder Ketone der Maleinimidverbindungen mit Dihydrazinoalkanverbindungen 
+NH 2 -NH-(CH 2 ) n -NH-NH 2 bzw. Carbonsäuredihydraziden H 2 N-NH-CO-(CH 2 ) n -CO-NH-NH 2 , n = 2-12, in wasserfreiem 
+THF, Methanol oder Ethanol unter Zusatz von p-Toluolsulfonsäure oder Trifluoressigsäure erfolgt. 
+[0013] Die Isolierung der oben genannten Maleinimid-Verbindungen erfolgt entweder durch Kristallisation, durch Kie-
+selgelsäulenchromatographie oder durch präparative HPLC bzw. LPLC auf Diol-Säule, wie in den untenstehenden 
+Beispielen beschrieben. 
+
+Schritt 2: Maleinimidderivate zytostatischer Verbindungen 
+
+[0014] Für die Umsetzung mit den aus Schritt 1 erhaltenen Maleinimid verbindungen sind die in den Ansprüchen 1 
+bis 3 genannten zytostatischen Verbindungen geeignet. Diese zytostatischen Verbindungen werden mit den im 1. Schritt 
+erläuterten Maleinimid-Verbindungen umgesetzt, so daß Maleinimidderivate von zytostatischen Verbindungen bereit-
+gestellt werden, wobei die chemische Verknüpfung zwischen Maleinimidverbindung und zytostatischer Verbindung 
+durch eine Amid-, Ester-, Imin-, Hydrazon-, Carboxylhydrazon-, Acetal-oder Ketalbindung erfolgt. 
+[0015] Bei den Anthrazyklinen Doxorubicin, Daunorubicin, Epirubicin oder Idarubicin erfolgt die Synthese im einzelnen 
+durch Umsetzen mit den unter Schritt 1 aufgeführten Säuren oder Säurechloriden der Maleinimid verbindungen der 
+Formel V bis X zu den entsprechenden Anthrazyklin-Maleinimidderivaten in einem Lösungsmittel, vorzugsweise Dime-
+thylformamid (DMF) oder THF unter eventuellem Zusatz einer tertiären Base, i.d.R. Et 3 N, oder unter eventuellem Zusatz 
+von DMAP und einem Kondensationsmittel, i.d.R. DCC oder CMC, wobei die Kopplung über die 3'-NH 2 -Gruppe des 
+Aminozuckers des Anthrazyklins als Amidbindung erfolgt, oder durch Umsetzen mit den unter Schritt 1 aufgeführten 
+Aldehyden bzw. Ketonen der Maleinimid verbindungen in einem Lösungsmittel, vorzugsweise DMF, Methanol oder 
+Ethanol, unter eventuellem Zusatz einer Säure, i.d.R. p-Toluolsulfonsäure bzw. Trifluoressigsäure, wobei die Kopplung 
+über die 3'-NH 2 -Gruppe des Aminozuckers des Anthraryklins als Iminbindung erfolgt, oder durch Umsetzen mit den mit 
+den unter Schritt 1 aufgeführten Aminen der Maleinimid-verbindungen in einem Lösungsmittel, vorzugsweise DMF, 
+Methanol oder Ethanol, unter Zusatz einer Säure, i.d.R. p-Toluolsulfonsäure bzw. Trifluoressigsäure, wobei die Kopplung 
+über die C 13 -Ketoposition des Anthrazyklins als Iminbindung erfolgt, oder durch Umsetzen mit den unter Schritt 1 
+aufgeführten Säurehydraziden der Maleinimid verbindungen in einem Lösungsmittel, vorzugsweise DMF, Methanol oder 
+Ethanol, unter Zusatz einer Säure, i.d.R. p-Toluolsulfonsäure bzw. Trifluoressigsäure, wobei die Kopplung über die 
+C 13 -Ketoposition des Anthraryklins als Carboxyl-bzw. Sulfonylhydrazonbindung erfolgt. Bei Mitoxandron erfolgt die 
+Synthese im einzelnen durch Umsetzen mit den unter Schritt 1 aufgeführten Säuren oder Säurechloriden der Maleinimid-
+verbindungen der Formel V bis X zu den entsprechenden Mitoxandron-Maleinimidderivaten in einem Lösungsmittel, 
+vorzugsweise DMF oder THF unter eventuellem Zusatz einer tertiären Base, i.d.R. Et 3 N, oder unter eventuellem Zusatz 
+von DMAP und einem Kondensationsmittel, i.d.R. DCC oder CMC, wobei die Kopplung über mindestens eine der 
+aliphatischen HO-Gruppen des Mitoxandrons als Esterbindung erfolgt, 
+oder durch Umsetzen mit den unter Schritt 1 aufgeführten Aldehyden oder Ketonen der Maleinimid verbindungen in 
+einem Lösungsmittel, vorzugsweise THF, Methanol oder Ethanol, unter Zusatz einer Säure, i.d.R. Trifluoressigsäure 
+oder p-Toluolsulfonsäure, wobei die Kopplung über mindestens eine der aliphatischen HO-Gruppen des Mitoxandrons 
+als Acetal-bzw. Ketalbindung erfolgt. 
+
+
+EP 1 447 099 B1 
+
+6 
+
+5 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[0016] Bei den Alkylantien Chlorambucil und Melphalan erfolgt die Synthese im einzelnen durch Umsetzen von Chl-
+orambucil bzw. Melphalan mit den unter Schritt 1 aufgeführten Hydroxyverbindungen von Maleinimid verbindungen in 
+einem Lösungsmittel, vorzugsweise DMF, Dichlormethan oder THF unter Zusatz von DMAP und einem Kondensati-
+onsmittel, i.d.R. DCC oder CMC, zu den entsprechenden Chlorambucil-oder Melphalan-Maleinimidderivaten 
+wobei die Kopplung über die COOH-Gruppe von Chlorambucil bzw. Melphalan als Esterbindung erfolgt, 
+oder durch Umsetzen von Chlorambucil bzw. Melphalan mit Säurehalogenierungsreagenzien, wie Oxalylchlorid oder 
+Thionylchlorid, zu den entsprechenden Säurechloriden und anschließendem Umsetzen der Säurechloride in THF oder 
+Ethylacetat mit t-Alkylcarbazaten, i.d.R. tert.-Butylcarbazat, oder unter eventuellem Zusatz einer tertiären Base, i.d.R. 
+Et 3 N, oder durch Umsetzen von Chlorambucil bzw. Melphalan in DMF, THF oder Ethylacetat mit t-Alkylcarbazaten, 
+i.d.R. t-Butylcarbazat, unter eventuellem Zusatz von DMAP und einem Kondensationsmittel, i.d.R. DCC oder CMC, und 
+anschließender Spaltung der so erhaltenen Produkte mit Säuren, i.d.R. Trifluoressigsäure oder HCl in Ether, THF oder 
+Dioxan, zu den entsprechenden Säurehydraziden von Chlorambucil bzw. Melphalan, die nun wiederum mit einem der 
+in Schritt 1 aufgeführten Aldehyden oder Ketonen der Maleinimid-bzw. N-Hydroxysuccinimidverbindungen in einem 
+Lösungsmittel, vorzugsweise DMF, Methanol oder Ethanol, unter Zusatz einer Säure, i.d.R. Trifluoressigsäure oder p-
+Toluolsulfonsäure, zu den entsprechenden Maleinimid carboxylhydrazon-Derivaten von Chlorambucil bzw. Melphalan 
+umgesetzt werden. 
+[0017] Bei 5-Fluorouracil erfolgt die Synthese im einzelnen durch Umsetzen mit den unter Schritt 1 aufgeführten 
+Säurechloriden der Maleinimid verbindungen zu den entsprechenden Maleinimid derivaten von 5-Fluorouracil in einem 
+Lösungsmittel, vorzugsweise THF, unter eventuellem Zusatz einer tertiären Base, i.d.R. Et 3 N, 
+wobei die Kopplung über die 1 N-oder 3 N-Position von 5-Fluorouracil als Säureamidbindung erfolgt, oder durch Umsetzen 
+mit den unter Schritt 1 aufgeführten Oxycarbonylchloriden der Maleinimid verbindungen zu den entsprechenden Maleini-
+mid derivaten von 5-Fluorouracil in einem Lösungsmittel, vorzugsweise THF unter eventuellem Zusatz einer tertiären 
+Base, i.d.R. Et 3 N, wobei die Kopplung über die 1 N-oder 3 N-Position von 5-Fluorouracil als Oxycarbonylbindung erfolgt, 
+oder durch Umsetzen von 5-Fluorouracil mit Formaldehyd und den unter Schritt 1 aufgeführten Carbonsäuren oder 
+Sulfonsäuren zu den entsprechenden Maleinimid derivaten von 5-Fluorouracil in einem Lösungsmittel, vorzugsweise 
+Dichlormethan oder THF, unter Zusatz von DMAP und einem Kondensationsmittel, i.d.R. DCC oder CMC, wobei die 
+Kopplung über die 1 N-oder 3 N-Position von 5-Fluorouracil als Carbamoyloxymethylbindung erfolgt. 
+[0018] Bei 5'-Desoxy-5-fluorouridin erfolgt die Synthese im einzelnen durch Umsetzen mit den unter Schritt 1 aufge-
+führten Säurechloriden der Maleinimid verbindungen der Formel V bis X zu den entsprechenden Maleinimid derivaten 
+von 5'-Desoxy-5-fluorouridin in einem Lösungsmittel, vorzugsweise THF, unter eventuellem Zusatz einer tertiären Base, 
+i.d.R. Et 3 N, wobei die Kopplung über die 2'-HO-oder 3'-HO-Gruppe von 5'-Desoxy-5-fluorouridin als Esterbindung erfolgt, 
+oder durch Umsetzen mit den unter Schritt 1 aufgeführten Aldehyden oder Ketonen der Maleinimid verbindungen in 
+einem Lösungsmittel, vorzugsweise THF, Methanol oder Ethanol, unter Zusatz einer Säure, i.d.R. Trifluoressigsäure 
+oder p-Toluolsulfonsäure, wobei die Kopplung über die 2'-HO-und/oder 3'-HO-Gruppe von 5'-Desoxy-5-fluorouridin als 
+Acetal-bzw. Ketalbindung erfolgt. 
+[0019] Bei Thioguanin erfolgt die Synthese im einzelnen durch Umsetzen mit den unter Schritt 1 aufgeführten Säu-
+rechloriden der Maleinimid verbindungen der Formel V bis X zu den entsprechenden Maleinimid derivaten von Thioguanin 
+in einem Lösungsmittel, vorzugsweise DMF, unter eventuellem Zusatz einer tertiären Base, i.d.R Et 3 N, wobei die Kopp-
+lung über die H 2 N-Gruppe von Thioguanin als Amidbindung erfolgt, 
+oder durch Umsetzen mit den unter Schritt 1 aufgeführten Aldehyden oder Ketonen der Maleinimid verbindungen in 
+einem Lösungsmittel, vorzugsweise DMF, Methanol oder Ethanol, unter Zusatz einer Säure, i.d.R. Trifluoressigsäure 
+oder p-Toluolsulfonsäure, wobei die Kopplung über die H 2 N-Gruppe von Thioguanin als Iminbindung erfolgt. 
+[0020] Bei Methotrexat erfolgt die Synthese im einzelnen durch Umsetzen von Methotrexat mit den unter Schritt 1 
+aufgeführten Hydroxy-bzw. Aminoverbindungen von Maleinimid verbindungen in einem Lösungsmittel, vorzugsweise 
+DMF oder Dimethylsulfoxid unter Zusatz von DMAP und einem Kondensationsmittel, i.d.R. DCC oder CMC, zu den 
+entsprechenden Methotrexat-Maleinimidderivaten wobei die Kopplung entweder über die α-COOH-oder γ-COOH-Grup-
+pe oder über beide COOH-Gruppen von Methotrexat als Ester-oder Amidbindung erfolgt. 
+[0021] Bei den Taxoiden Paclitaxel und Docetaxel erfolgt die Synthese im einzelnen durch Umsetzen mit den unter 
+Schritt 1 aufgeführten Säuren oder Säurechloriden der Maleinimid verbindungen der Formel V bis X zu den entspre-
+chenden Taxoid-Maleinimidderivaten in einem Lösungsmittel, vorzugsweise DMF oder THF unter eventuellem Zusatz 
+einer tertiären Base, i.d.R Et 3 N, oder unter eventuellem Zusatz von DMAP und einem Kondensationsmittel, i.d.R. DCC 
+oder CMC, wobei die Kopplung über die C 7 -oder C 10 -OH-Gruppe des Taxoids als Esterbindung erfolgt, oder durch 
+Umsetzen mit den mit den unter Schritt 1 aufgeführten Aminen bzw. Hydrazinen der Maleinimid verbindungen in einem 
+Lösungsmittel, vorzugsweise DMF, Methanol oder Ethanol, unter Zusatz einer Säure, i.d.R. p-Toluolsulfonsäure bzw. 
+Trifluoressigsäure, wobei die Kopplung über die C 9 -Ketoposition des Taxoids als Imin-bzw. Hydrazonbindung erfolgt, 
+oder durch Umsetzen mit den unter Schritt 1 aufgeführten Säurehydraziden der Maleinimid-verbindungen in einem 
+Lösungsmittel, vorzugsweise DMF, Methanol oder Ethanol, unter Zusatz einer Säure, i.d.R. p-Toluolsulfonsäure bzw. 
+Trifluoressigsäure, wobei die Kopplung über die C 9 -Ketoposition des Taxoids als Carboxyl-oder Sulfonylhydrazonbin-
+
+
+EP 1 447 099 B1 
+
+7 
+
+5 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+dung erfolgt. 
+[0022] Bei den Camptothecinen Topotecan bzw. 9-Aminocamptothecin erfolgt die Synthese im einzelnen durch Um-
+setzen mit den unter Schritt 1 aufgeführten Säuren oder Säurechloriden der Maleinimid verbindungen der Formel V bis 
+X zu den entsprechenden Taxoid-Maleinimidderivaten in einem Lösungsmittel, vorzugsweise DMF oder THF unter 
+eventuellem Zusatz einer tertiären Base, i.d.R Et 3 N, oder unter eventuellem Zusatz von DMAP und einem Kondensa-
+tionsmittel, i.d.R. DCC oder CMC, wobei die Kopplung über die C 10 -OH-Gruppe des Topetecans als Esterbindung bzw. 
+über die C 9 -NH 2 -Gruppe des 9-Aminocamptothecins als Amidbindung erfolgt, 
+oder durch Umsetzen von 9-Aminocamptothecin mit den unter Schritt 1 aufgeführten Aldehyden bzw. Ketonen der 
+Maleinimid verbindungen in einem Lösungsmittel, vorzugsweise DMF, Methanol oder Ethanol, unter eventuellem Zusatz 
+einer Säure, i.d.R p-Toluolsulfonsäure bzw. Trifluoressigsäure, wobei die Kopplung über die C 9 -NH 2 -Gruppe als Imin-
+bindung erfolgt. 
+[0023] Bei den Podophyllotoxinderivaten Etoposid, Teniposid und Mitopodozid erfolgt die Synthese im einzelnen 
+durch Umsetzen mit den unter Schritt 1 aufgeführten Säuren oder Säurechloriden der Maleinimid verbindungen der 
+Formel V bis X zu den entsprechenden Taxoid-Maleinimidderivaten in einem Lösungsmittel, vorzugsweise DMF, Dich-
+lormethan oder THF unter eventuellem Zusatz einer tertiären Base, i.d.R. Et 3 N, oder unter eventuellem Zusatz von 
+DMAP und einem Kondensationsmittel, i.d.R. DCC oder CMC, wobei die Kopplung über eine der beiden aliphatischen 
+HO-Gruppen des Podophyllotoxinderivats als Esterbindung erfolgt. 
+[0024] Bei den Vinca-Alkaloiden Vinblastin, Vincristin, Vindesin und Vinorelbin erfolgt die Synthese im einzelnen durch 
+Umsetzen mit den unter Schritt 1 aufgeführten Säuren oder Säurechloriden der Maleinimid verbindungen der Formel V 
+bis X zu den entsprechenden Taxoid-Maleinimidderivaten in einem Lösungsmittel, vorzugsweise DMF, Dichlormethan 
+oder THF unter eventuellem Zusatz einer tertiären Base, i.d.R. Et 3 N, oder unter eventuellem Zusatz von DMAP und 
+einem Kondensationsmittel, i.d.R. DCC oder CMC, wobei die Kopplung über eine der aliphatischen HO-Gruppen des 
+Vinca-Alkaloids als Esterbindung erfolgt. 
+[0025] Bei den Maleinimid derivaten der cis-konfigurierten Platin(II)-Komplexe erfolgt die Synthese im einzelnen durch 
+Umsetzen der entsprechenden Aminoverbindungen H 2 N-CH 2 CH 2 -NH-(CH 2 ) n -X (H 2 N-CH 2 ) 2 CH-(CH 2 ) n -X oder H 2 N-
+CH 2 CH(NH 2 )-(CH 2 ) n -X (allgemeine Formel I, II und III), wobei eine oder zwei der primären bzw. sekundären Amino-
+gruppen mit einer BOC-Gruppe geschützt wurde (Umsetzung mit Bis-tert.-butyloxycarbonylanhydrid) und X -NH 2 bzw. 
+-OH ist, mit den unter Schritt 1 aufgeführten Säuren oder Säurechloriden der Maleinimid verbindungen der allgemeinen 
+Formeln V-X in einem Lösungsmittel, vorzugsweise THF oder Ethylacetat, unter eventuellem Zusatz einer tertiären 
+Base, i.d.R. Et 3 N, oder unter eventuellem Zusatz von DMAP und einem Kondensationsmittel, i.d.R. DCC oder CMC, 
+zu den entsprechenden BOC-geschützten Maleinimid derivaten, die nun durch Trifluoressigsäure oder HCl in Ether, 
+THF oder Dioxan unter Abspaltung der BOC-Gruppe in die entsprechenden Trifluoracetate bzw. Hydrochloride und 
+schließlich durch Umsetzen mit einem Tetrachloroplatinat(II)-Sala, vorzugsweise Kaliumtetrachloroplatinat(II), in Was-
+ser, Salzpuffern, DMF, DMF/Wasser-Gemischen, THF/Wasser-Gemischen oder DMF/Methanol-Gemischen, in die ent-
+sprechenden Platin(II)-Komplexe übergeführt werden, wobei die Kopplung über die endständige HO-Gruppe als Ester-
+bindung oder über die endständige H 2 N-Gruppe als Säureamidbindung erfolgt, 
+oder durch Umsetzen der entsprechenden Aminoverbindungen H 2 N-CH 2 CH 2 -NH-(CH 2 ) n -X, (H 2 N-CH 2 ) 2 CH-(CH 2 ) n -X 
+oder H 2 N-CH 2 CH(NH 2 )-(CH 2 ) n -X (allgemeine Formel I, II und III), wobei eine oder zwei der primären bzw. sekundären 
+Aminogruppen mit einer BOC-Gruppe geschützt wurde (Umsetzung mit Bis-tert.-butyloxycarbonylanhydrid) und X -NH 2 
+bzw. -OH ist, mit Verbindungen des Typs HOOC-R-COCR* oder ClOC-R-COCR* (R ist eine aliphatische Kohlenstoffkette 
+mit 1-6 Kohlenstoffatomen oder eine substituierte bzw. unsubstituierte Phenylengruppe, und R* ist H, Phenyl, Alkyl mit 
+1-6 Kohlenstoffatomen) in einem Lösungsmittel, vorzugsweise THF oder Ethylacetat, unter eventuellem Zusatz einer 
+tertiären Base, i.d.R. Et 3 N, oder unter eventuellem Zusatz von DMAP und einem Kondensationsmittel, i.d.R DCC oder 
+CMC, zu den entsprechenden BOC-geschützten Maleinimid derivaten, die nun eine weitere Carbonylfunktion enthalten, 
+die im folgenden mit einem der in Schritt 1 aufgeführten Aminen, Säurehydraziden oder Hydrazinen der Maleinimid 
+verbindungen in einem Lösungsmittel, vorzugsweise DMF, Methanol oder Ethanol, unter Zusatz einer Säure, i.d.R. p-
+Toluolsulfonsäure oder Trifluoressigsäure, zu den entsprechenden Imin-, Carboxylhydrazon-oder Hydrazon-Derivaten 
+umgesetzt werden, die nun wiederum durch Trifluoressigsäure oder HCl in Ether, THF oder Dioxan unter Abspaltung 
+der BOC-Gruppe in die entsprechenden Trifluoracetate bzw. Hydrochloride und schließlich durch Umsetzen mit einem 
+Tetrachloroplatinat(II)-Salz, vorzugsweise Kaliumtetrachloroplatinat(II), in Wasser, Salzpuffern, DMF, DMF/Wasser-Ge-
+mischen, THF/Wasser-Gemischen oder DMF/Methanol-Gemischen, in die entsprechenden Platin(II)-Komplexe über-
+geführt werden, 
+oder durch Umsetzen der entsprechenden Aminoverbindungen H 2 N-CH 2 CH 2 -NH-(CH 2 ) n -X, (H 2 N-CH 2 ) 2 CH-(CH 2 ) n -X 
+oder H 2 N-CH 2 CH(NH 2 )-(CH 2 ) n -X (allgemeine Formel I, II und III), wobei eine oder zwei der primären bzw. sekundären 
+Aminogruppen mit einer BOC-Gruppe geschützt wurde (Umsetzung mit Bis-tert.-butyloxycarbonylanhydrid) und X 
+-COOH ist bzw. diese Carboxylgruppe durch Säurehalogenierungsreagenzien, wie Thionylchlorid oder Oxalychlorid, in 
+das Säurechlorid übergeführt wurde, mit Verbindungen des Typs HOR-COCR* oder H 2 N-R-COCR* (R ist eine alipha-
+tische Kohlenstoffkette mit 1-6 Kohlenstoffatomen oder eine substituierte bzw. unsubstituierte Phenylengruppe, und R* 
+
+
+EP 1 447 099 B1 
+
+8 
+
+5 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ist H, Phenyl, Alkyl mit 1-6 Kohlenstoffatomen) in einem Lösungsmittel, vorzugsweise THF oder Ethylacetat, unter 
+eventuellem Zusatz einer tertiären Base, i.d.R. Et 3 N, oder unter eventuellem Zusatz von DMAP und einem Kondensa-
+tionsmittel, i.d.R DCC oder CMC, zu den entsprechenden BOC-geschützten Maleinimid derivaten, die nun eine weitere 
+Carbonylfunktion enthalten, die im folgenden mit einem der in Schritt 1 aufgeführten Aminen, Säurehydraziden oder 
+Hydrazinen der Maleinimid verbindungen in einem Lösungsmittel, vorzugsweise DMF, Methanol oder Ethanol, unter 
+Zusatz einer Säure, i.d.R. p-Toluolsulfonsäure oder Trifluoressigsäure, zu den entsprechenden Imin-, Carboxylhydrazon-
+oder Hydrazon-Derivaten umgesetzt werden, die nun wiederum durch Trifluoressigsäure oder HCl in Ether, THF oder 
+Dioxan unter Abspaltung der BOC-Gruppe in die entsprechenden Trifluoracetate bzw. Hydrochloride und schließlich 
+durch Umsetzen mit einem Tetrachloroplatinat(II)-Salz, vorzugsweise Kaliumtetrachloroplatinat(II), in Wasser, Salzpuf-
+fern, DMF, DMF/Wasser-Gemischen, THF/Wasser-Gemischen oder DMF/Methanol-Gemischen, in die entsprechenden 
+Platin(II)-Komplexe übergeführt werden. 
+[0026] Bei den Maleinimid derivaten mit den Malonsäurederivaten der allgemeinen Formel IV (HOOC) 2 CH-(CH 2 ) n -X 
+zu den cis-konfigurierten Platin(II)-Komplexen erfolgt die Synthese analog zu den oben beschriebenen Komplexen, 
+wobei die Platin(II)-Komplexe dadurch erhalten werden, daß die Maleinimid derivate der Malonsäurederivate mit 
+cis-[PtA 2 B] (A = Halogen, vorzugweise Cl oder J, B = (NH 3 ) 2 , Ethylendiamin, Propandiamin, 1,2-Diaminocyclohexan) 
+zu den entsprechenden Platin(II)-Komplexen in einem Lösungsmittel, wie Wasser, Salzpuffern, DMF, DMF/Wasser-
+Gemischen, THF/Wasser-Gemischen oder DMF/Methanol-Gemischen unter Zugabe einer Hydroxidlösung, vorzugwei-
+se wässrige KOH, umgesetzt werden. Die Reaktion kann gegebenenfalls in Gegenwart von Silbemitat (AgNO 3 ) oder 
+Silbersulfat (Ag 2 SO 4 ) durchgeführt werden. Der Platinkomplex wird durch Kristallisation oder durch Zugabe von einem 
+Lösungsmittel, vorzugweise Diethylether oder THF, erhalten. 
+[0027] Die Isolierung der oben genannten Maleinimid derivate zytostatischer Verbindungen erfolgt entweder durch 
+Kristallisation, durch Kieselgelsäulenchromatographie oder durch präparative HPLC bzw. LPLC auf einer reverse-phase 
+(C8 oder C 18)-oder Diol-Säule, wie in den untenstehenden Beispielen beschrieben. 
+
+Schritt 3. Kopplung der zytostatischen Maleinimid verbindungen an das in Übersicht 1 dargestelltes Polyethylenglykol 
+
+[0028] Für die Kopplung der zytostatischen Maleinimid verbindungen an PEGs werden PEGs eingesetzt, die eine 
+oder zwei HO-, HS-oder H 2 N-Gruppen besitzen und eine Masse zwischen 5000 und 200 000 Da, vorzugsweise zwischen 
+20 000 und 70 000 Da. Entsprechende Verbindungen sind im Handel erhältlich. Im folgenden werden die Polyethylen-
+glykole, die eine oder zwei HO-Gruppen besitzen, mit HO-PEG oder HO-PEG-OH, die Polyethylenglykole, die eine oder 
+zwei HS-Gruppen besitzen, mit HS-PEG oder HS-PEG-SH und die PEGs, die eine oder zwei H 2 N-Gruppen besitzen, 
+mit H 2 N-PEG oder H 2 N-PEG-NH 2 abgekürzt. 
+[0029] Kopplung der zytostatischen Maleinimidderivate an HS-PEG, HS-PEG-SH, H 2 N-PEG oder H 2 N-PEG-NH 2 : 
+Die zytostatischen Maleinimidderivate (s. Schritt 2) werden mit HS-PEG, HS-PEG-SH, H 2 N-PEG oder H 2 N-PEG-NH 2 
+bei Raumtemperatur umgesetzt. Dabei wird zu dem HS-PEG, HS-PEG-SH, H 2 N-PEG oder H 2 N-PEG-NH 2 , das sich in 
+einem entgasten Salzpuffer, wie 0,025 M Natriumborat, 0,15 M NaCl -pH 6,0 -7,5 oder 0,004 M Phosphat, 0,15 M 
+NaCl-pH 6,0 -7,5, befindet, ein etwa 1,1-bis 10-facher Überschuß des zytostatischen Maleinimidderivats (bezogen 
+auf die Anzahl der vorhandenen HS-Gruppen im PEG), gelöst in einer minimalen Menge Lösemittel, i.d.R. DMF, Dime-
+thylsulfoxid, Wasser, Ethanol, Methanol, Acetonitril oder THF (etwa 1 -10% des Volumens der thiolierten Probe), 
+gegeben. Nach etwa 5 bis 120 Minuten wird die Lösung zentrifugiert, und das gebildete PEG-Konjugat wird durch 
+anschließende Gelfiltration (beispielsweise Sephadex ® G10, G25 oder LH20) in einem entgasten Salzpuffer, wie 0,025 
+M Natriumborat, 0,15 M NaCl -pH 6,0 -7, 5, 0,004 M Phosphat, 0,15 M NaCl -pH 6,0 -7,5, oder 0,1-0,2 M NaHCO 3 , 
+oder in Methanol oder THF vom überschüssigen zytostatischen Maleinimidderivat abgetrennt. Des weiteren kann die 
+Lösung des so erhaltenen PEG-Konjugats mit einem handelsüblichen Konzentrator aufkonzentriert oder das Lösungs-
+mittel im Hochvakuum entfernt werden. 
+[0030] Die Anzahl der an das Polyethylenglykol gebundenen zytostatischen Maleinimidderivate erfolgt entweder durch 
+eine photometrische Konzentrationsbestimmung bei der absorbierenden Wellenlänge des zytostatischen Maleinimid 
+derivats (typischerweise zwischen 220 und 600 nm) und/oder durch eine colorimetrische Bestimmung, die bei den 
+Konjugaten von Chlorambucil und Melphalan mit Hilfe des NBP-Tests (Epstein, J. Rosenthal, RW., Ess, R.J. Anal. 
+Chem. (1955), 27, 1435-1439), bei den Konjugaten von 5-Fluorouracil und 5'-Desoxy-5-fluorouridin mit Hilfe eines 
+Assays nach Habib (Habib, S.T., Talanta (1981), 28, 685-87) und bei den Konjugaten der cis-konfigurierten Platin 
+(II)-Analoga mit Hilfe einer Bestimmung nach Gonias und Pizzo (Gonias, S.L., Pizzo, S.V. J.Biol.Chem. (1982), 258, 
+5764-5769) oder der Atomabsorptionsspektroskopie (AAS) erfolgt. 
+[0031] Im Mittel werden auf dem oben beschrieben Weg etwa 1-2 Moleküle der zytostatischen Verbindung an ein 
+Molekül der PEGs gebunden. Die Reinheit der PEG-Konjugate wird durch HPLC mit Hilfe einer analytischen Säule (Bio-
+Sil SEC 250, (300 mm x 7.8 mm) von Bio-RAD, mobile Phase: i.d.R. 0.15 M NaCl, 0.01 M NaH 2 PO 4 , 5% CH 3 CN -pH 
+7.0 oder Nucleogel ® aqua-OH 40 bzw. 60, von Machery und Nagel, mobile Phase: i.d.R. 0.1 M NaCl, 0.004 M NaH 2 PO 4 , 
+30% Methanol-pH 7.0) geprüft. Dabei besitzen die Polyethylenglykolkonjugate eine Reinheit von &gt; 90%. 
+
+
+EP 1 447 099 B1 
+
+9 
+
+5 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[0032] Die PEG-Konjugate können in gelöster Form bei 0-5 ˚C, in gefrorener Form bei T = -20 ˚C bzw. -78 ˚C gelagert 
+werden. Des weiteren ist es möglich, die Lösung der Konjugate zu lyophilisieren und das Lyophilisat bei +5 bis -78 
+˚C 
+zu lagern. 
+[0033] Die folgenden Beispiele erläutern die Erfindung näher, ohne sie einzuschränken. 
+
+Ausführungsbeispiele 
+
+Schritt 1: Synthese von Maleinimid verbindungen 
+
+p-Maleinimidobenzophenon 
+
+[0034] 14,0 g (70 mmol) p-Aminobenzophenon wurden in 70 ml Aceton gelöst und 7,0 g (70 mmol) Maleinsäurean-
+hydrid, gelöst in 40 ml Aceton, über einen Zeitraum von 15 Minuten bei Raumtemperatur zugetropft. Der Ansatz wurde 
+3 h lang bei Raumtemperatur gerührt. Anschließend wurde der Niederschlag abfiltriert, mit Ether gewaschen und im 
+Vakuum getrocknet (Ausbeute: 93%). 19,3 g (65,4 mmol) N-(p-Benzophenyl)-maleinsäureamid und 2,6 g (31,0 mmol) 
+wasserfreies Natriumacetat wurden bei 55 ˚C in 50 ml Essigsäureanhydrid gelöst und bei dieser Temperatur 2 h lang 
+gerührt. Anschließend wurde das Essigsäureanhydrid bei 60˚C im Wasserstrahlvakuum entfernt. Zum Rückstand wurden 
+300 ml Wasser gegeben und 2 h lang bei 70˚C gerührt. Der während dieser Zeit ausgefallene Niederschlag wurde 
+abgesaugt, mit Wasser gewaschen und aus Aceton umkristallisiert (Ausbeute: 94%); Schmelzpunkt: 150˚C; R f -Wert: 
+0,70 (Essigester/Hexan 6/1); berechnet: C: 73,64 % H: 3,97 % N: 5,05 %, C 17 H 11 NO 3 ; gefunden: C: 73,15 % H: 3,96 
+% N: 5,00 % 
+
+p-Maleinimidophenylessigsäure 
+
+[0035] 25,0 g (166,9 mmol) p-Aminophenylessigsäure wurden in 250 ml Methanol suspendiert und in der Wärme 
+unter Zugabe von 500 ml Aceton in Lösung gebracht. 19,25 g (166,9 mmol) Maleinsäureanhydrid wurden in 100 ml 
+Aceton gelöst und während 60 Minuten in die vorher auf unter 40˚C abgekühlte Lösung zugetropft. Der Ansatz wurde 
+60 Minuten lang bei Raumtemperatur gerührt. Anschließend wurde die Reaktionsmischung auf etwa 300 ml eingeengt 
+und bei -20˚C kaltgestellt. Der Niederschlag wurde abgesaugt, mit Aceton gewaschen und im Hochvakuum getrocknet 
+(Ausbeute: 82%). 18,0 g (72 mmol) N-(4-Essigsäurephenyl)maleinsäureamid wurden in 2,4l Toluol suspendiert und zum 
+Rückfluß erhitzt. In der Wärme wurden 14,7 g (20,2 ml, 144 mmol) Triethylamin zugegeben und anschließend 2 h lang 
+unter Rückfluß am Wasserabscheider erhitzt. Dann wurde vom entstandenen roten Öl abdekantiert und das Lösungs-
+mittel im Vakuum entfernt. Der gelbe Rückstand wurde in 300 ml Wasser aufgenommen und mit 1 M HCl auf pH = 2 
+eingestellt. Die saure Lösung wurde mit Essigester extrahiert (6 x 50 ml). Die vereinigten Essigester-Phasen wurden 
+über Natriumsulfat getrocknet und das Lösungsmittel im Vakuum entfernt. Das Produkt wurde aus Essigester/Hexan 
+umkristallisiert (Ausbeute: 51% gelbe Kristalle); Schmelzpunkt: 158˚C; R f -Wert: 0,45 (Essigester/Methanol 2/1); berech-
+net: C: 62,34 % H: 3,92 % N: 6,09 % (C 12 H 9 NO 4 ); gefunden: C: 61,84 % H: 4,43 % N: 5,59 % 
+
+p-Maleinimidophenylessigsäurechlorid 
+
+[0036] 1,0 g (4,33 mmol) p-Maleinimidophenylessigsäure wurden in 25 ml Dichlormethan suspendiert und mit einem 
+2,5-fachen Überschuß an Oxalsäuredichlorid (1,37 g, 945 ml; 10,82 mmol) versetzt. Die Reaktionsmischung wurde unter 
+Feuchtigskeitsausschluß auf 30-40˚C erwärmt und 15 h lang gerührt. Anschließend wurde das Lösungsmittel im Vakuum 
+entfernt und im Hochvakuum getrocknet. Kristallisation aus Toluol lieferte ein gelbes Pulver (Ausbeute: 59%); Schmelz-
+punkt: 154˚C; R f -Wert: 0,29 (Essigester/Hexan 4/1) 
+
+p-Maleinimidophenylessigsäurehydrazid.CF 3 COOH 
+
+[0037] 3,5 g (14 mmol) p-Maleinimidophenylessigsäurechlorid wurden zusammen mit tert.-Butylcarbazat (2,87 g, 21,7 
+mmol) in 50 ml wasserfreiem Tetrahydrofuran gelöst und 2 h lang bei Raumtemperatur gerührt. Das Tetrahydrofuran 
+wurde im Hochvakuum entfernt und der Rückstand in 500 ml Essigester aufgenommen. Die Essigesterphase wurde 
+zweimal mit je 125 ml Wasser ausgeschüttelt und anschließend über wasserfreiem Natriumsulfat getrocknet. Die Lösung 
+wurde im Vakuum eingedampft und aus Essigester/Hexan umkristallisiert. Das Produkt wurde abgesaugt und im Hoch-
+vakuum getrocknet (Ausbeute: 90 %); Schmelzpunkt: Zersetzung ab 152˚C; R f -Wert: 0,50 (Tetrahydrofuran/Hexan 
+
+Elementaranalyse: 
+berechnet: 
+C: 58,91 % H: 3,30 % N: 5,75 % Cl: 14,49 % 
+(C 12 H 8 NO 3 Cl) 
+gefunden: 
+C: 60,61 % H: 3,64 % N: 5,13 % Cl: 13,80 % 
+
+
+EP 1 447 099 B1 
+
+10 
+
+5 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+3/1). 2,5 g (7,25 mmol) p-Maleinimidophenylessigsäurehydrazino-tert.-butylcarbazat wurden in 12 ml Trifluoressigsäure 
+gelöst und 1 h lang bei Raumtemperatur gerührt. Die Trifluoressigsäure wurde anschließend im Hochvakuum entfernt 
+und der Rückstand in 50 ml Ether suspendiert. Der Niederschlag wurde abgesaugt, mit trockenem Ether gewaschen 
+und im Hochvakuum getrocknet (Ausbeute: 82 % gelbliches Pulver); Schmelzpunkt: 112˚C; R f -Wert: 0,06 (Tetrahydro-
+furan/Hexan 3/1) 
+
+Maleinimidoacetaldehyd 
+
+[0038] 91,6 g (100 ml, 689 mmol) Aminoacetaldehyddiethylacetal wurden in 200 ml Essigester gelöst. Danach wurden 
+67,5 g (689 mmol) Maleinsäureanhydrid, gelöst in 200 ml Essigester, unter Rühren und Eiskühlung innerhalb 60 Minuten 
+zugetropft. Es wurde 1 h lang bei Raumtemperatur gerührt. Dann wurde das Reaktionsgemisch auf die Hälfte eingeengt 
+und bei -20 ˚C kaltgestellt. Nach 24 h wurde der entstandene Niederschlag im Vakuum abgesaugt, mit Essigester und 
+Ether gewaschen, und anschließend im Hochvakuum getrocknet. (Ausbeute: 90%). 30,95 g (133,8 mmol) N-(Acetalde-
+hyddiethylacetal)maleinsäureamid wurden in 900 ml Toluol gelöst, 14,2 g (19,6 ml, 140,5 mmol) Triethylamin hinzugefügt 
+und das Reaktionsgemisch 15 h lang am Wasserabscheider gekocht. Danach wurde das Lösungsmittel im Vakuum 
+entfernt. Der zurückbleibende Sirup wurde in 350 ml Diethylether aufgenommen und 3 x mit je 50 ml Wasser extrahiert. 
+Die etherische Phase wurde über Na 2 SO 4 getrocknet, das Lösungsmittel im Vakuum entfernt und der Rückstand säu-
+lenchromatographisch gereinigt (Essigester/Hexan 1/1; Ausbeute: 36 % farbloser Sirup); R f -Wert: 0,49 (Essigester/ 
+Hexan 1/1) 
+
+20,1 g (94,3 mmol) Maleinimidoacetaldehyddiethylacetal wurden in 350 ml Dichlormethan gelöst und 40,2 g Kieselgel 
+60 unter Rühren hinzugefügt. Es wurden 4,0 g 30%ige Schwefelsäure zugegeben und 60 h lang unter Rückfluß erhitzt. 
+Dann wurde das Kieselgel abfiltriert und die Reaktionslösung mit 4 x 50 ml Wasser extrahiert. Das Dichlormethan wurde 
+über Natriumsulfat getrocknet und eingedampft. Der zurückbleibende Sirup wurde aus Essigester/Hexan (1:10) umkri-
+stallisiert (Ausbeute: 15% weiße Kristalle); Schmelzpunkt: 
+
+Chlorameisensäure-2-maleinimidoethylester 
+
+[0039] 2,0 g (14,2 mmol) 2-Hydroxyethylmaleinimid wurden in 150 ml absoluten Dichlormethan gelöst und mit 1,56 
+g (4,8 mmol) Triphosgen versetzt. Nach Zugabe von 479 mg (660 ml; 4,8 mmol) Triethylamin wurde der Ansatz 72 h 
+lang bei Raumtemperatur gerührt, anschließend das Lösungsmittel im Vakuum entfernt und der Rückstand säulenchro-
+matographisch über Kieselgel gereinigt (Laufmittel: Essigester/Hexan 2/1; Ausbeute: 80 % farbloser Feststoff); Schmelz-
+punkt: 45 ˚C; R f -Wert: 0,69 (Essigester/Hexan 2/1); berechnet: C: 41,25 % H: 2,95 % N: 6,88 % Cl: 17,41 % (C 7 H 6 NO 4 Cl); 
+gefunden: C: 41,11 % H: 3,00 % N: 6,88 % Cl: 16,94 % 
+
+Synthese von Bismaleinimidverbindungen: 
+
+1.4-Diamino-N,N'-di-m-maleinimidobenzyl-butan 
+
+[0040] 2,36 g (10 mmol) Maleinimidobenzoesäurechlorid sowie 0,44 g (5 mmol) 1,4-Diaminobutan wurden jeweils in 
+60 ml Ethylacetat gelöst. In einem Dreihalskolben wurden 40 ml Ethylacetat vorgelegt. Unter Rühren bei Raumtemperatur 
+wurden die beiden Lösungen synchron über einen Zeitraum von 30 min zugetropft. Während des Zutropfens fiel ein 
+hellgelber Niederschlag aus. Der Ansatz wurde 2 h lang gerührt, der Niederschlag abgesaugt und mit Diethylether 
+gewaschen. Der hellgelbe Feststoff wurde aus Aceton umkristallisiert, mit Wasser und anschließend nochmals mit Ether 
+gewaschen und i. Vak. getrocknet. Man erhielt 2,1 g (3,9 mmol, 75 % d. Theorie) des Produktes als gelb-weißen Feststoff, 
+DC: Kieselgel, THF/Hexan 4: 1, R f = 0,30, Fp.: 221 ˚C (Zersetzung); C 26 H 22 N 4 O 6 (486 g/mol) berechnet: C: 64,20%; 
+H: 4,53%; N: 11,52%; O: 19.75%; gefunden: C: 62,57%; H: 4,55%; N: 10,67% 
+
+berechnet: 
+C: 46,80 % H: 3,34 % N: 11,70 % 
+(C 14 H 12 N 3 O 5 F 3 ) 
+gefunden: 
+C: 46,95 % H: 3,24 % N: 11,51 % 
+
+berechnet: 
+C: 58,15% H: 7,49% N: 6,17 % 
+(C 10 H 15 NO 4 ) 
+gefunden: 
+C: 58,10 % H: 6,98% N: 6,35 % 
+
+68-69˚C; R f -Wert: 0,52 (THF/Hexan 3/1) berechnet: 
+C: 51,76 % H: 3,62 % N: 10,06 % 
+(C 6 H 5 NO3) 
+gefunden: 
+C: 51,48 % H: 4,14 % N: 9,60 % 
+
+
+EP 1 447 099 B1 
+
+11 
+
+5 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Diacylhydrazon aus Adipinsäuredihydrazid und m-Maleinimidoacetophenon 
+
+[0041] 1,0 g (4,65 mmol) m-Maleinimidoacetophenon wurden zusammen mit 368 mg (2,11 mmol) Adipinsäuredihy-
+drazid in 40 ml absolutem Methanol gelöst. Dem Reaktionsansatz wurden 100 ml Trifluoressigsäure hinzugegeben und 
+15 h bei RT gerührt. Der dabei ausgefallene Niederschlag wurde abgesaugt und 2 x mit je 30 ml Methanol sowie 4 x 
+mit je 50 ml Diethylether gewaschen. Anschließend wurde das Produkt i. Vak. getrocknet; DC: Kieselgel, THF/Hexan 
+4: 1, R f = 0.36, Fp.: 240 ˚C (Zersetzung); C 30 H 28 N 6 O 6 (568 g/mol) berechnet:C: 63,38 %, H: 4,93 %, N: 14,79 %; 
+gefunden: C: 63,18 %, H: 4,83 %, N: 15,03 % 
+
+Schritt 2: Synthese von Maleinimid derivaten zytostatischer Verbindungen 
+
+N 1 -(2-Maleinimidoethyloxycarbonyl)-5-fluorouracil 
+
+[0042] 500 mg (3,84 mmol) 5-Fluorouracil wurden in 100 ml Tetrahydrofuran gelöst und mit 505 mg (696 ml; 4,99 
+mmol) Triethylamin versetzt. Zu dieser Lösung wurden 1016 mg (4,99 mmol) Chlorameisensäure-2-maleinimidoethy-
+lester, gelöst in 100 ml Tetrahydrofuran, zugetropft und der Ansatz 15 h lang bei Raumtemperatur gerührt. Anschließend 
+wurde das Lösungsmittel im Wasserstrahlvakuum entfernt und der Rückstand säulenchromatographisch gereinigt (LO-
+BAR ® -säule; Laufmittel: Essigester/ Hexan 1,5/1; Ausbeute: 61 %); Schmelzpunkt: 132˚C; R f -Wert: 0,64 (Diol; Essigester/ 
+Hexan 2/1).berechnet: C: 44,29 % H: 2,68 % N: 14,09 % (C 11 H 8 N 3 O 6 F); gefunden: C: 44,29 % H: 2,68 % N: 13,58 % 
+
+N 1 -(m-Maleinimidobenzoyloxymethyl)-5-fluorouracil 
+
+[0043] 1500 mg (11,55 mmol) 5-Fluorouracil und 2,25 ml (25,4 mmol) 37 %ige Formaldehydlösung wurden 2 h lang 
+unter Rühren auf 60˚C erwärmt. Anschließend wurde das Wasser im Hochvakuum entfernt und der Rückstand unter 
+Zugabe von 20 mg DMAP in 80 ml Tetrahydrofuran gelöst. Zu dieser Lösung wurden 3,01 g (13,85 mmol) m-Maleini-
+midobenzoesäure und 2,858 g (13,85) DCC, gelöst in 50 ml Tetrahydrofuran, zugegeben und anschließend 15 h lang 
+bei Raumtemperatur gerührt. Der Niederschlag wurde abfiltriert und das Lösungsmittel im Vakuum entfernt. Der Rück-
+stand wurde in etwa 20 ml Essigester aufgenommen und vom Ungelösten abfiltriert. Die Lösung wurde eingedampft 
+und der Rückstand chromatographiert (1. Kieselgel (Essigester/Hexan 2/1); Ausbeute: 5 % weißes Pulver); Schmelz-
+punkt: Zersetzung &gt;250˚C; R f -Wert: 0,32 (Essigester/Hexan 2/1). 
+
+3'-Aminoamidderivat von Doxorubicin mit p-Maleinimidophenylessigsäurechlorid 
+
+[0044] 500 mg (0.86 mmol) Doxorubicin Hydrochlorid wurden in 50 ml absolutem DMF gelöst und 1013 mg (4.30 
+mmol) p-Maleinimidophenylessigsäurechlorid und 719 ml (522 mg; 5.16 mmol) Triethylamin zugegeben. Die Lösung 
+wurde bei Raumtemperatur 15 h lang gerührt. DMF unter Hochvakuum entfernt und der Rückstand in 5 ml Tetrahydrofuran 
+gelöst, filtriert und über eine Kieselgelsäule (Tetrahydrofuran/Hexan 3/1) gereinigt: 189 mg des roten Produktes (29 %); 
+R f -Wert: 0.26 (Ethylacetat/Hexan 3/1); Schmelzpunkt: 110 ˚C; C 39 H 36 N 2 O 14 : berechnet: C 61,84 % H 4.75 % N 3,70 
+%. gefunden: C 61,35 % H 5,14 % N 3,45 %. 
+[0045] Das Verfahren für die Herstellung der Maleinimidderivaten mit cis-konfigurierten Platin(II)-Einheiten wird durch 
+folgendes Beispiel erläutert: N-(O-(3-Maleinimidobenzoyl)-2-hydroxyethyl)-1,2-diaminoethandichloroplatin(II) -vierstu-
+fige Synthese. 
+
+N-(2-Hydroxyethyl)-N,N'-bis-tertiärbutyloxycarbonyl-1,2-diaminoethan 
+
+[0046] Zu einer Lösung von 20.8 g (200 mmol) N-(2-Hydroxyethyl)-1,2-Diaminoethan in 100 ml Dichlormethan werden 
+47.96g (220 mmol, 0.5 eq) bis-Tertiärbutyloxycarbonylanhydrid, gelöst in 200 ml Dichlormethan innerhalb von 1 h bei 
+Raumtemperatur zugetropft. Der Ansatz wird für 12 h bei Raumtemperatur gerührt, dann mit 100 ml Diethylether verdünnt 
+und mit 150 ml Wasser extrahiert. Nach dem Trocknen der organischen Phase über Natriumsulfat wird i. Vak. eingeengt. 
+Die Reinigung des Rohproduktes erfolgt durch Säulenchromatographie (Ethylacetat/Hexan (1:1,5), R f -Wert (Ethylacetat/ 
+Hexan 1:1,5): R f = 0.18; Ausbeute: 30 g (98.68 mmol). Elementaranalyse für C 14 H 28 N 2 O 5 (304 g/mol); berechnet: C: 
+55.26%, H: 9.21%, N: 9.21%; gefunden: C: 55.50%, H: 9.18%, N: 9.02 
+
+Elementaranalyse: 
+berechnet: 
+C: 55,98 % H: 2,92 % N: 12,24 % 
+(C 16 H 10 N 3 O 6 F) 
+gefunden: 
+C: 55,51 % H: 2,87 % N: 11,72 % 
+
+
+EP 1 447 099 B1 
+
+12 
+
+5 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+N-(O-(3-Maleinimidobenzoyl)-2-hydroxyethyl)-N,N'-bis-tertiärbutyloxycarbonyl-1,2-diaminoethan 
+
+[0047] Zu einer Lösung von 8 g (26.3 mmol) N-(2-Hydroxyethyl)-N,N'-bis-tertiärbutyloxycarbonyl-1,2-diaminoethan 
+in 50 ml Tetrahydrofuran und 4 ml (28.9 mmol, 1.1 eq) Triethylamin werden 6.82 g (29 mmol, 1.1 eq) Maleinimidoben-
+zoesäurechlorid, gelöst in 100 ml Tetrahydrofuran, bei Raumtemperatur unter Rühren innerhalb 1 h zugetropft. Nach 
+weiteren 8 h Rühren bei Raumtemperatur ist laut DC vollständiger Umsatz erreicht. Das bei der Reaktion gebildete 
+Triethylammoniumchlorid wird abfiltriert. Nach Entfernen von Tetrahydrofuran und überschüssigem Triethylamin i. Vak. 
+wird das anfallende Öl säulenchromatographisch gereinigt (Kieselgel: Ethylacetat/Hexan (1:1), R f -Wert (Ethylacetat/ 
+Hexan 1:1) = 0.2, Ausbeute: 9.6 g (19.1 mmol) des Produkts in Form eines gelben Öls, entsprechend 72.6% der 
+theoretisch möglichen Ausbeute. Elementaranalyse für C 25 H 33 N 3 O 8 (503 g/mol); berechnet: C: 59.64%, H: 6.56%, N: 
+8.35%; gefunden: C: 60.04%, H: 6.77%, N: 8.24% 
+
+N-(O-(3-Maleinimidobenzoyl)-2-hydroxyethyl)-1,2-diaminoethan Dihydrochlorid 
+
+[0048] 6 g (11.93 mmol) N-(O-(3-Maleinimidobenzoyl)-2-hydroxyethyl)-N,N'-bis-tertiärbutyloxy-carbonyl-1,2-diami-
+noethan werden mit 60 ml (5 eq) einer 1M Lösung von HCl in Diethylether unter Rühren bei Raumtemperatur versetzt. 
+Nach 48 h Rühren bei Raumtemperatur wird der feinkristalline Niederschlag über eine G4-Glasfritte abgesaugt, durch 
+mehrmaliges Waschen mit wasserfreiem Ether von HCl-Resten befreit und i. Vak. getrocknet. Man erhält 3,0 g (7.98 
+mmol) des Produkts als feinpudrigen, gelben Feststoff, entsprechend 66.9% der theoretisch möglichen Ausbeute. Ele-
+mentaranalyse für C 15 H 19 N 3 O 4 Cl 2 (375.9 g/mol) 
+
+N-(O-(3-Maleinimidobenzoyl)-2-hydroxyethyl)-1,2-diaminoethandichloroplatin(II) 
+
+[0049] 104 mg (0.25 mmol) K 2 PtCl 4 und 94.2 mg (0.25 mmol) N-(O-(3-Maleinimidobenzoyl)-2-hydroxyethyl)-1,2-dia-
+minoethan Dihydrochlorid werden in jeweils 5 ml 20% Tetrahydrofuran/Wasser gelöst und portionsweise vermischt. Die 
+zunächst rote K 2 PtCl 4 -Lösung wird zunehmend entfärbt, es bildet sich ein hellgelber Niederschlag. Etwa 1 h nach der 
+letzten Zugabe kann das Präzipitat durch eine G4-Glasfritte abgesaugt werden. Es wird sukzessive mit kleinen Portionen 
+Wasser, 20% Tetrahydrofuran/Wasser und zuletzt mit Diethylether gewaschen. Nach dem Trocknen i. Vak. erhält man 
+106 mg (0.18 mmol) des Produktes als feinkristalline Substanz, entsprechend 72% der theoretisch möglichen Ausbeute. 
+Elementaranalyse für C 15 H 17 N 3 O 4 PtCl 2 (569g/mol); berechnet: C: 31.63%, H: 2.99%, N: 7.38%, Pt: 34.29%, Cl: 12.46%; 
+gefunden: C: 31.19%, H: 3.37%, N: 6.79%, Pt: 32.35%, Cl: 12.95% 
+
+Schritt 3: Kopplung der Derivate der zytostatischen Verbindungen (Schritt 2) an Polyethylengykole: 
+
+[0050] Methoden-FPLC für die Herstellung der Konjugate: P-500 pump, LCC 501 Controller (Pharmacia) und LKB 
+2151 UV-Monitor, Puffer: Standardborat: 0.025 M Natriumborat, 0.15 M NaCl -pH 7.5 oder Phosphatpuffer: 0.004 M 
+Natriumphosphat, 0.15 M NaCl -pH 7.4. 
+
+Polyethylenglykolkonjugat bestehend aus CH 3 O-PEG-SH 20000 (α-Methoxy-ω-thio-Polyethylenglykol) und 
+N-(O-(3-Maleinimidobenzoyl)-2-hydroxyethyl)-1,2-diaminoethandichloroplatin(II) 
+
+[0051] 100 mg CH 3 O-PEG-SH 20000 (0,005 mmol) werden in 5 ml Phosphatpuffer gelöst und mit 5.7 mg (0,01 mmol) 
+N-(O-(3-Maleinimidobenzoyl)-2-hydroxyethyl)-1,2-diaminoethandichloroplatin(II), gelöst in 250 ml DMF, vermischt. Nach 
+20 min wurde die Reaktionsmischung zentrifugiert und der Überstand auf eine Sephadex ® G-25F Säule (Säule 2,0 cm 
+x 15 cm) gegeben und das Konjugat isoliert. Die Menge an gebundenem Platinkomplex wurde mit Hilfe des Tests nach 
+Gonias und Pizzo (Gonias, S.L., Pizzo, S.V. J. Biol. Chem. 1982, 258, 5764-5769) bestimmt. Sie betrug bei diesem 
+Arbeitsvorgang 380 mM. 
+
+Polyethylenglykolkonjugat bestehend aus HS-PEG-SH 20000 (α,ω-Bis-thio-Polyethylenglykol) und N 1 -(2-Maleinimido-
+gethyloxycarbonyl)-5-fluorouracil 
+
+[0052] 100 mg HS-PEG-SH 20000 (0,005 mmol) werden in 5 ml Phosphatpuffer gelöst und mit 3.0 mg (0,01 mmol) 
+N 1 -(2-Maleinimidoethyloxycarbonyl)-5-fluorouracil, gelöst in 250 ml DMF, vermischt. Nach 30 min wurde die Reaktions-
+mischung zentrifugiert und der Überstand auf eine Sephadex ® G-25F Säule (Säule 2,0 cm x 15 cm) gegeben und das 
+
+berechnet: 
+C: 47.89%, H: 5.05%, N: 11.17%, Cl: 18.86% 
+gefunden: 
+C: 46.97%, H: 5.42%, N: 10.03%, Cl: 17.63% 
+
+
+EP 1 447 099 B1 
+
+13 
+
+5 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Konjugat isoliert. Die Menge an gebundenem 5-Fluorouracil wurde bei ε 260 = 6520 M -1 cm -1 bestimmt. Sie betrug bei 
+diesem Arbeitsvorgang 460 mM. 
+
+Biologische Untersuchungen (als Referenz) 
+
+[0053] Als Beispiel für die in vitro und in vivo Wirksamkeit der Konjugate werden die biologischen Daten der unten 
+abgebildeten Doxorubicin-Konjugate aufgeführt, die repräsentativ für das Aktivitäts-bzw. Toxizitätsprofil der in der 
+Erfindung offenbarten Konjugate sind. Die Wirksamkeit der Konjugate wurde mit einem "colony forming assay" und mit 
+Hilfe des BrdU(5-Brom-2'-desoxyuridin)-Einbaus gemäß wissenschaftlicher Gepflogenheit in der Zellkultur bestimmt. 
+Als Beispiele sind die IC 70 -Werte ("colony forming assay" -sieben Xenografts) folgender Doxorubicin-Konjugate auf-
+gezeigt: Protein = Transferrin (T) oder Albumin (A) 
+
+[0054] Unter diesen experimentellen Bedingungen zeigten die Polyethylenglycolkonjugate eine der ungebundenen 
+zytostatischen Verbindung gleichwertige bzw. höhere Wirksamkeit. 
+[0055] Des weiteren zeigen die Konjugate im Vergleich zum freien Doxorubicin in den xenotransplantierbaren Nackt-
+mausmodellen Mammacarcinoma MDA-MB-435 und Mammacarcinoma MCF-7 insgesamt eine gegenüber dem freien 
+Doxorubicin deutlich verringerte Toxizität (verringerte Letalität und Körpergewichtsreduktion, weniger Nebenwirkungen 
+im Gastrointestinal-Bereich) und eine Stabilisierung der relativen Tumorvolumenzunahme bei gleicher bzw. verbesserter 
+tumorhemmender Wirksamkeit auf. 
+
+Patentansprüche 
+
+1. Konjugat einer zytostatischen Verbindung und eines Polyethylenglykols, wobei die zytostatische Verbindung über 
+
+Human-Tumor-
+Xenograft 
+
+T-DOXO-HYD T-DOXO-ARZID DOXORUBICIN 
+A-DOXO-ARZID 
+A-DOXO-HYD 
+
+bladder BXF1299 
+1.48 
+0.09 
+0.50 
+0.06 
+0.10 
+
+lung LXFL 529 
+0.054 
+0.06 
+0.02 
+0.03 
+0.04 
+
+lung LXFS 538 
+0.04 
+0.04 
+0.02 
+0.001 
+0.01 
+
+mamma 
+MAXFMX1 
+
+0.04 
+0.04 
+0.02 
+0.01 
+0.10 
+
+melanoma 
+MEXF989 
+
+0.29 
+0.23 
+0.30 
+0.34 
+0.30 
+
+prostate PC3MX 
+0.02 
+0.03 
+0.03 
+0.02 
+0.06 
+
+prostate DU145X 
+0.12 
+0.08 
+0.35 
+0.24 
+0.21 
+
+
+EP 1 447 099 B1 
+
+14 
+
+5 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+einen Spacer, der eine von einer Maleinimidogruppe stammende Gruppe umfaßt, an Polyethylenglykol mit minde-
+stens einer HS-oder H 2 N-Gruppe gekoppelt ist, wobei das Polyethylenglykol eine Masse zwischen etwa 5000 und 
+200 000 Da aufweis, und wobei die zytostatische Verbindung aus der Gruppe der Anthrazykline, der Stickstofflost-
+derivate, dem Purin antagonisten Thioguanin, den Pyrimidin antagonisten 5-Fuorouracil und 5'-Desoxy-5-fluorou-
+ridin, dem Folsäure antagonisten Methotrexat, der Taxoide, der Camptothecine, der Podophyllotoxinderivate, der 
+Vinca-Alkaloide oder der cis-konfigurierten Platin(II)-Komplexe ausgewählt ist 
+
+2. Konjugat nach Anspruch 1 wobei die zytostatische Verbindung aus der Gruppe, bestehend aus Doxorubicin, Daun-
+orubicin, Epirubicin, Idarubicin, Mitoxantron, Chlorambucil, Melphalan, Paclitaxel, Docetaxel, Topotecan, 9-Amino-
+camptothecin, Etoposid, Teniposid, Mitopodozid, Vinblastin, Vincristin, Vindesin, Vinorelbin und Verbindungen der 
+allgemeinen Formel I, II, III oder IV, 
+
+ausgewählt ist, wobei 
+n = 0-6, X = -NH 2 , -OH, -COOH, -O-CO-R-COR* oder 
+-NH-CO-R-COR* ist, 
+worin R eine aliphatische Kohlenstoffkette mit 1-6 Kohlenstoffatomen oder eine substituierte bzw. unsubstituierte 
+Phenylengruppe ist, und R* H, Phenyl oder Alkyl mit 1-6 Kohlenstoffatomen bedeutet. 
+
+3. Konjugat nach Anspruch 2, wobei die zytostatische Verbindung mit Spacer, der eine von einer Maleinimidogruppe 
+stammende Gruppe umfaßt, durch Umsetzung der zytostatischen Verbindung mit einer Maleinimidverbindung der 
+Formel V, VI oder VII 
+
+
+EP 1 447 099 B1 
+
+15 
+
+5 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+worin für den Fall, daß R eine aliphatische Kohlenstoffkette mit 1-6 Kohlenstoffatomen ist, Y = -OH, -COOH, -COCl, 
+-CONH-(CH 2 ) n -OH, -COO-(CH 2 ) n -NH 2 , -COO-(CH 2 ) n -NHNH 2 , -SO 3 H, -SO 3 Cl, -SO 2 -NHNH 2 , -O-COCl, -CHO oder 
+-COR* mit n = 1-6 ist und R* H, Phenyl oder Alkyl mit 1-6 Kohlenstoffatomen bedeutet, und worin für den Fall, daß 
+R eine substituierte bzw. unsubstituierte Benzylgruppe oder eine substituierte bzw. unsubstituierte Phenylengruppe 
+ist, Y = -OH, -COOH, -COCl, -CONH-(CH 2 ) n -OH, -COO-(CH 2 ) n -NH 2 , -COO-(CH 2 ) n -NHNH 2 , -SO 3 H, -SO 3 Cl, 
+-SO 2 -NHNH 2 , -O-COCl, -CHO, -COR* oder -CO-NHNH 2 mit n = 1-6 ist und R* H, Phenyl oder Alkyl mit 1-6 Koh-
+lenstoffatomen bedeutet, entsteht, 
+und das so erhaltene Maleinimidderivat der zytostatischen Verbindung an das Polyethylenglykol gekoppelt wird, 
+wobei die chemische Verknüpfung zwischen zytostatischer Verbindung und Maleinimidverbindung durch eine Amid-, 
+Ester-, Imin-, Hydrazon-, Carboxylhydrazon-, Oxycarbonyl-, Acetal-oder Ketalbindung erfolgt. 
+
+4. Konjugat nach Anspruch 2 oder 3, wobei die von einer Bismaleinimidoverbindung stammende Gruppe durch Kon-
+jugieren des mit 2 bis 30 Äquivalenten der zytostatischen Verbindung gekoppelten thiolierten Polyethylenglykols 
+mit einer Bismaleinimidverbindung der Formel XI 
+
+entsteht, worin Z = -CO-NH-(CH 2 ) n -NH-CO-, -CO-O-(CH 2 ) n -O-CO-, 
+-CH=N-(CH 2 ) n -N=CH-,-C=N-NH-(CH 2 ) n -NH-N=CH-
+oder -CH=N-NH-CO-(CH 2 ) n -CO-NH-N=CH-und n = 2-12 ist. 
+
+5. Verfahren zur Herstellung eines Konjugats einer zytostatischen Verbindung und eines Polyethylenglykols nach 
+einem der Ansprüche 1 bis 4, umfassend die Schritte: 
+
+(a) Umsetzen einer zytostatischen Verbindung mit einer Maleinimidverbindung, so daß Maleinimidderivate der 
+zytostatischen Verbindung hergestellt werden, wobei die chemische Verknüpfung zwischen zytostatischer Ver-
+bindung und Maleinimidverbindung durch eine Amid-, Ester-, Imin-, Hydrazon-, Carboxylhydrazon-, Oxycarbo-
+nyl-, Acetal-oder Ketalbindung erfolgt, und 
+(b) Koppeln des im Schritt (a) erhaltenen Maleinimidderivats der zytostatischen Verbindung an Polyethylenglykol 
+mit mindestens einer HS-oder H 2 N-Gruppe und einer Masse zwischen etwa 5000 und 200 000 Da. 
+
+6. Arzneimittel, enthaltend ein Konjugat nach einem der Ansprüche 1 bis 4, gegebenenfalls mit üblichen Trägem und 
+Hilfsstoffen. 
+
+7. Verwendung eines Konjugats nach einem der Ansprüche 1 bis 4 zur Herstellung eines Arzneimittels zur Behandlung 
+
+
+EP 1 447 099 B1 
+
+16 
+
+5 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+von Krebskrankheiten. 
+
+8. Verwendung nach Anspruch 7, wobei die Krebskrankheiten Blasen-, Lungen-, Mamma-, Melanom-und Prosta-
+takarzinome umfassen. 
+
+Claims 
+
+1. A conjugate of a cytostatic compound and a polyethylene glycol, wherein said cytostatic compound is coupled via 
+a spacer comprising a group which is derived from a maleinimido group to polyethylene glycol having at least one 
+HS-or H 2 N-group, wherein the polyethylene glycol has a mass of between about 5,000 and 200,000 Da, and wherein 
+said cytostatic compound is selected from the group of anthracyclines, nitrogen mustard derivatives, the purine 
+antagonist thioguanin, the pyrimidine antagonists 5-fluorouracil and 5'-desoxy-5-fluorouridine, the folic acid antag-
+onist methotrexate, taxoids, camptothecines, podophyllotoxin derivatives, vinca alkaloids or cis-configured platinum 
+(II)-complexes. 
+
+2. The conjugate according to claim 1, wherein said cytostatic compound is selected from the group consisting of 
+doxorubicine, daunorubicine, epirubicine, idarubicine, mitoxantrone, chlorambucil, melphalan, paclitaxel, docetaxel, 
+topotecane, 9-aminocamptothecine, etoposide, teniposide, mitopodozide, vinblastine, vincristine, vindesine, vinor-
+elbine and compounds of the general formulas I, II, III, or IV: 
+
+wherein n = 0-6, X = -NH 2 , -OH, -COOH, -O-CO-R-COR* or -NH-CO-R-COR*, wherein R is an aliphatic carbon 
+chain having 1-6 carbon atoms or is a substituted or unsubstituted phenylene group, and R* is H, phenyl or alkyl 
+having 1-6 carbon atoms. 
+
+3. The conjugate according to claim 2, wherein said cytostatic compound having said spacer comprising a group which 
+is derived from a maleinimido group, is formed through reaction of said cytostatic compound with a maleinimide 
+compound of the formula V, VI or VII: 
+
+
+EP 1 447 099 B1 
+
+17 
+
+5 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+wherein in case R is an aliphatic carbon chain having 1-6 carbon atoms, Y =-OH, -COOH, -COCl, -CONH-(CH 2 ) n -OH, 
+-COO-(CH 2 ) n -NH 2 , -COO-(CH 2 ) n -NHNH 2 , -SO 3 H, -SO 3 Cl, -SO 2 -NHNH 2 , -O-COCl, -CHO or -COR*, wherein n = 
+1-6 and R* represents H, phenyl or alkyl having 1-6 carbon atoms, and wherein in case R is a substituted or 
+unsubstituted benzyl group or a substituted or unsubstituted phenylene group, Y = -OH, -COOH, -COCl, 
+-CONH-(CH 2 ) n -OH, -COO-(CH 2 ) n -NH 2 , -COO-(CH 2 ) n -NHNH 2 , -SO 3 H, -SO 3 Cl, -SO 2 -NHNH 2 , -O-COCl, -CHO, 
+-COR* or -CO-NHNH 2 , wherein n = 1-6 and R* represents H, phenyl or alkyl having 1-6 carbon atoms, and the thus 
+obtained maleinimide derivative of said cytostatic compound is coupled to said polyethylene glycol, wherein the 
+chemical linkage between said cytostatic compound and said maleinimide compound occurs through an amide, 
+ester, imine, hydrazone, carboxyl hydrazone, oxycarbonyl, acetal or ketal bond. 
+
+4. The conjugate according to claim 2 or 3, wherein said group which is derived from a bismaleinimido compound, is 
+formed through conjugating said thiolated polyethylene glycol, which is coupled to 2 to 30 equivalents of said 
+cytostatic compound, with a bismaleinimide compound of the formula XI: 
+
+wherein Z = -CO-NH-(CH 2 ) n -NH-CO-, -CO-O-(CH 2 ) n -O-CO-, -CH=N-(CH 2 ) n -N=CH-, -CH=N-NH-(CH 2 ) n -NH-N=CH-
+or -CH=N-NH-CO-(CH 2 ) n -CO-NH-N=CH-and n = 2-12. 
+
+5. A method for producing a conjugate of a cytostatic compound and a polyethylene glycol according to anyone of 
+claims 1 to 4, comprising the steps of: 
+
+(a) reacting a cytostatic compound with a maleinimide compound, such that maleinimide derivatives of said 
+cytostatic compound are produced, wherein the chemical linkage between said cytostatic compound and said 
+maleinimide compound occurs through an amide, ester, imine, hydrazone, carboxyl hydrazone, oxycarbonyl, 
+acetal or ketal bond; and 
+(b) coupling said maleinimide derivative of the cytostatic compound obtained in step (a) to polyethylene glycol 
+having at least one HS-or H 2 N-group und a mass of between about 5,000 and 200,000 Da. 
+
+
+EP 1 447 099 B1 
+
+18 
+
+5 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+6. A medicament containing a conjugate according to anyone of claims 1 to 4, optionally together with conventional 
+carriers and auxiliary agents. 
+
+7. Use of a conjugate according to any one of claims 1 to 4 for the manufacture of a medicament for treating cancer 
+diseases. 
+
+8. The use according to claim 7, wherein said cancer diseases comprise bladder, lung, mamma, melanoma and 
+prostate carcinomas. 
+
+Revendications 
+
+1. Conjugué d'un composé cytostatique et d'un polyéthylène glycol, où le composé cytostatique est couplé à un 
+polyéthylène glycol avec au moins un groupe HS-ou H 2 N par l'intermédiaire d'un écarteur, qui comprend un groupe 
+provenant d'un groupe maléinimido, où le polyéthylène glycol présente une masse allant de 5000 à 200 000 Da 
+environ, et où le composé cytostatique est choisi dans le groupe des anthracyclines, des dérivés non azotés, de 
+l'antagoniste thioguanine de la purine, des antagonistes 5-fluorouracil et 5'-désoxy-5-fluorouridine de la pyrimidine, 
+de l'antagoniste méthotrexate de l'acide folique, des taxoïdes, des camptothécines, des dérivés de podophyllotoxine, 
+des alcaloïdes de Vinca ou des complexes de platine (II) configurés cis. 
+
+2. Conjugué selon la revendication 1, où le composé cytostatique est choisi dans le groupe constitué de la doxorubicine, 
+la daunorubicine, l'épirubicine, l'idarubicine, la mitoxantrone, le chlorambucil, le melphalan, le paclitaxel, le docétaxel, 
+le topotecan, la 9-aminocamptothécine, l'étoposide, le téniposide, le mitopodozide, la vinblastine, la vincristine, la 
+vindésine, la vinorelbine et les composés des formules générales I, II, III ou IV, 
+
+dans lesquelles 
+n=0-6, X=-NH 2 , -OH, -COOH, -O-CO-R-COR* ou NH-CO-R-COR*, 
+où R est une chaîne carbonée aliphatique ayant de 1 à 6 atomes de carbone ou un groupe phénylène substitué ou 
+non substitué, et R* est H, un groupe phényle ou alkyle avec de 1 à 6 atomes de carbone. 
+
+3. Conjugué selon la revendication 2, où le composé cytostatique avec l'écarteur, qui comprend un groupe provenant 
+d'un groupe maléinimido, est produit par conversion du composé cytostatique avec un composé maléinimide de 
+formule V, VI ou VII 
+
+
+EP 1 447 099 B1 
+
+19 
+
+5 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+dans lesquelles, si R est une chaîne carbonée aliphatique ayant de 1 à 6 atomes de carbone, Y=-OH, -COOH, 
+-COCl, -CONH-(CH 2 ) n -OH, COO-(CH 2 ) n -NH 2 , -COO-(CH 2 ) n -NHNH 2 , -SO 3 H, -SO 3 Cl, -SO 2 -NHNH 2 , -O-COCl, 
+-CHO ou -COR* avec n=1-6 et R* représente H, un groupe phényle ou alkyle ayant de 1 à 6 atomes de carbone 
+et si R est un groupe benzyle substitué ou non substitué ou un groupe phényle substitué ou non substitué, Y=-OH, 
+-COOH, -COCl, -CONH-(CH 2 ) n -OH, -COO-(CH 2 ) n -NH 2 , -COO-(CH 2 ) n -NHNH 2 , -SO 3 H, -SO 3 Cl, -SO 2 -NHNH 2 , -O-
+COCl, -CHO ou -COR* avec n=1-6 et R* représente H, un groupe phényle ou alkyle ayant de 1 à 6 atomes de 
+carbone, et le dérivé de maléinimide ainsi obtenu du composé cytostatique est couplé au polyéthylène glycol, où 
+la relation chimique entre le composé cytostatique et le composé maléinimide s'effectue par le biais d'une liaison 
+amide, ester, imine, hydrazone, carboxylhydrazone, oxycarbonyle, acétal ou cétal. 
+
+4. Conjugué selon la revendication 2 ou 3, où le groupe provenant d'un composé bismaléinimide est produit par 
+conjugaison du polyéthylène glycol thiolé couplé à 2 à 30 équivalents de composé cytostatique avec un composé 
+bismaléinimide de formule XI 
+
+dans laquelle Z=-CO-NH-(CH 2 ) n -NH-CO-, -CO-O-(CH 2 ) n -O-CO-, -CH=N-(CH 2 ) n -N=CH-, -C=N-NH-(CH 2 ) n -NH-
+N=CH-ou -CH=N-NH-CO-(CH 2 ) n -CO-NH-N=CH-et n=2-12. 
+
+5. Procédé de préparation d'un conjugué d'un composé cytostatique et de polyéthylène glycol selon l'une quelconque 
+des revendications 1 à 4, comprenant les étapes de w: 
+
+(a) conversion d'un composé cytostatique avec un composé maléinimide, de sorte que les dérivés maléinimide 
+du composé cytostatique soient préparés, la relation chimique entre le composé cytostatique et le composé 
+
+
+EP 1 447 099 B1 
+
+20 
+
+5 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+maléinimide s'effectuant par le biais d'une liaison amide, ester, imine, hydrazone, carboxylhydrazone, oxycar-
+bonyle, acétal ou cétal, et 
+(b) couplage du dérivé de maléinimide obtenu à l'étape (a) du composé cytostatique au polyéthylène glycol 
+avec au moins un groupe HS ou H2N et une masse allant de 5000 à 200 000 Da. 
+
+6. Médicament contenant un conjugué, selon l'une quelconque des revendications 1 à 4, éventuellement avec des 
+supports et auxiliaires usuels. 
+
+7. Utilisation d'un conjugué, selon l'une quelconque des revendications 1 à 4, pour la préparation d'un médicament 
+pour le traitement des maladies cancéreuses. 
+
+8. Utilisation selon la revendication 7, les maladies cancéreuses comprenant les carcinomes de la vésicule, des 
+poumons, du sein, du mélanome et de la prostate. 
+
+
+EP 1 447 099 B1 
+
+21 
+
+IN DER BESCHREIBUNG AUFGEFÜHRTE DOKUMENTE 
+
+Diese Liste der vom Anmelder aufgeführten Dokumente wurde ausschließlich zur Information des Lesers aufgenommen 
+und ist nicht Bestandteil des europäischen Patentdokumentes. Sie wurde mit größter Sorgfalt zusammengestellt; das 
+EPA übernimmt jedoch keinerlei Haftung für etwaige Fehler oder Auslassungen. 
+
+In der Beschreibung aufgeführte Patentdokumente 
+
+• 
+EP 91117535 A [0002] 
+• 
+EP 911615 A [0002] 
+• 
+EP 90109268 A [0002] 
+• 
+EP 900516 A [0002] 
+• 
+WO 90CA251 A [0002] 
+• 
+WO 900809 A [0002] 
+• 
+GB 835104 A [0002] 
+• 
+GB 830224 A [0002] 
+• 
+EP 89102370 A [0002] 
+
+• 
+EP 890210 A [0002] 
+• 
+DE 4122210 [0002] 
+• 
+EP 0452179 A [0003] 
+• 
+US 5439798 A [0003] 
+• 
+US 5294536 A [0003] 
+• 
+WO 9216221 A [0003] 
+• 
+EP 0306943 A [0003] 
+• 
+WO 9623794 A [0003] 
+
+In der Beschreibung aufgeführte Nicht-Patentliteratur 
+
+• 
+MÄGERSTÄDT, M. Antibody Conjugates and Malig-
+nant Disease. Library of Congress, 1990 [0002] 
+• 
+CHADWICK, C.M. Receptors in Tumour Biology. 
+Cambridge University Press, 1984 [0002] 
+• 
+SEYMOUR, L.W. CRC Crit. Rev. Ther. Drug Carrier 
+Sys., 1992, vol. 9, 135-187 [0002] 
+• 
+MAEDA, H. ; MATSUMURA, Y. CRC Crit. Rev. 
+Ther. Drug Carrier Sys., 1989, vol. 6, 193-210 [0002] 
+• 
+WARD, S.G. ; TAYLOR, R.C. Metal-Based Drugs. 
+Freund Publishing House Ltd, 1988, 1-54 [0002] 
+• 
+SINN, H. ; SCHRENK, H.H. ; FRIEDRICH, A. ; 
+SCHILLING, U. ; MAIER-BORST, W. Nucl. Med. Bi-
+ol., 1990, vol. 17 ((8)), 819-827 [0002] 
+• 
+TOPCHIEVA, I.N. Polym.Sci.USSR, 1990, vol. 32, 
+833-851 [0002] [0002] 
+
+• 
+Poly(ethylene glycol) Chemistry: Biotechnical and Bi-
+omedical Applications. Plenum Press, 1992 [0002] 
+• 
+ALLEN T. M. et al. A new strategy for attachment of 
+antibodies to sterically stabilized liposomes resulting 
+in efficient targeting to cancer cells. Biochimica et 
+Biophysica Acta, vol. 1237 (2), 99-108 [0003] 
+• 
+EPSTEIN, J. ; ROSENTHAL, RW. ; ESS, R.J. Anal. 
+Chem, 1955, vol. 27, 1435-1439 [0030] 
+• 
+HABIB, S.T. Talanta, 1981, vol. 28, 685-87 [0030] 
+• 
+GONIAS, S.L. ; PIZZO, S.V. J.Biol.Chem., 1982, vol. 
+258, 5764-5769 [0030] 
+• 
+GONIAS, S.L. ; PIZZO, S.V. J. Biol. Chem., 1982, 
+vol. 258, 5764-5769 [0051] 
+
+
+
+	
+

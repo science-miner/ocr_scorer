@@ -1,0 +1,3513 @@
+
+	
+
+		
+
+	
+
+	
+
+Anmerkung: Innerhalb von neun Monaten nach der Bekanntmachung des Hinweises auf die Erteilung des europäischen 
+Patents kann jedermann beim Europäischen Patentamt gegen das erteilte europäische Patent Einspruch einlegen. 
+Der Einspruch ist schriftlich einzureichen und zu begründen. Er gilt erst als eingelegt, wenn die Einspruchsgebühr 
+entrichtet worden ist. (Art. 99(1) Europäisches Patentübereinkommen). 
+
+Printed by Jouve, 75001 PARIS (FR) 
+
+(19) 
+
+EP 1 544 512 B1 
+
+&amp; 
+
+(11) 
+
+EP 1 544 512 B1 
+
+(12) 
+
+EUROPÄISCHE PATENTSCHRIFT 
+
+(45) Veröffentlichungstag und Bekanntmachung des 
+
+Hinweises auf die Patenterteilung: 
+05.03.2008 Patentblatt 2008/10 
+
+(21) Anmeldenummer: 05005213.3 
+
+(22) Anmeldetag: 21.12.2001 
+
+(51) Int Cl.: 
+
+F16H 61/04 (2006.01) 
+F16H 59/72 (2006.01) 
+B60W 10/02 (2006.01) 
+B60W 10/06 (2006.01) 
+B60W 10/10 (2006.01) 
+
+(54) Kraftfahrzeug mit einem eine Mehrfach-Kupplungseinrichtung aufweisenden Antriebsstrang 
+
+Vehicle with a drivetrain having a multiple clutch device 
+
+Véhicule avec une chaîne de traction ayant un dispositif à embrayages multiples 
+
+(84) Benannte Vertragsstaaten: 
+
+AT BE CH CY DE DK ES FI FR GB GR IE IT LI LU 
+MC NL PT SE TR 
+
+(30) Priorität: 12.01.2001 DE 10101176 
+
+01.10.2001 DE 10148424 
+
+(43) Veröffentlichungstag der Anmeldung: 
+
+22.06.2005 Patentblatt 2005/25 
+
+(62) Dokumentnummer(n) der früheren Anmeldung(en) 
+
+nach Art. 76 EPÜ: 
+01985921.4 / 1 350 044 
+
+(73) Patentinhaber: 
+
+• ZF Sachs AG 
+97424 Schweinfurt (DE) 
+• Volkswagen AG 
+38436 Wolfsburg (DE) 
+
+(72) Erfinder: 
+
+• Kuhstrebe, Jochen 
+97318 Westheim (DE) 
+• Moseler, Olaf 
+97070 Würzburg (DE) 
+• Rohm, Axel 
+97453 Schonungen (DE) 
+
+• Steiner, Eduard 
+97070 Würzburg (DE) 
+• Reuthal, Rainer 
+97294 Unterpleichfeld (DE) 
+• Schneider, Hans-Jürgen 
+97440 Werneck-Stettbach (DE) 
+• Kundermann, Wolfgang 
+97422 Schweinfurt (DE) 
+• Sudau, Jörg 
+97464 Niederwerrn (DE) 
+• John, Thomas 
+97529 Alitzheim (DE) 
+• Strasser, Thomas 
+97422 Schweinfurt (DE) 
+
+(56) Entgegenhaltungen: 
+
+DE-A-19 631 983 
+DE-C1-19 939 819 
+FR-A-2 790 297 
+US-A-5 181 431 
+US-A-5 407 401 
+US-A-5 503 039 
+US-A-5 711 409 
+US-A-5 890 392 
+
+• PATENT ABSTRACTS OF JAPAN Bd. 1997, Nr. 
+09, 30. September 1997 (1997-09-30) &amp; JP 09 
+133207 A (JATCO CORP), 20. Mai 1997 
+(1997-05-20) 
+
+
+EP 1 544 512 B1 
+
+2 
+
+5 
+
+10 
+
+15 
+
+20 
+
+25 
+
+30 
+
+35 
+
+40 
+
+45 
+
+50 
+
+55 
+
+Beschreibung 
+
+[Technisches Gebiet] 
+
+[0001] Die Erfindung betrifft nach mehreren Haupta-
+spekten allgemein eine sogenannte Mehrfach-Kupp-
+lungseinrichtung, ggf. Doppel-Kupplungseinrichtung, für 
+die Anordnung in einem Kraftfahrzeug-Antriebsstrang 
+zwischen einer Antriebseinheit und einem Getriebe, wo-
+bei die Kupplungseinrichtung eine einer ersten Getrie-
+beeingangswelle zugeordnete erste Kupplungsanord-
+nung und eine einer zweiten Getriebeeingangswelle zu-
+geordnete zweite Kupplungsanordnung zur Moment-
+übertragung zwischen der Antriebseinheit und dem Ge-
+triebe aufweist, wobei die Kupplungsanordnungen als 
+Lamellen-Kupplungsanordnungen ausgeführt sind, de-
+nen eine Betriebsflüssigkeit, insbesondere ein Kühlöl, für 
+einen Betrieb unter Einwirkung der Betriebsflüssigkeit 
+(insbesondere für einen nasslaufenden Betrieb) zuführ-
+bar ist. Es wird in diesem Zusammenhang insbesondere 
+(aber nicht ausschließlich) an eine solche Kupplungsein-
+richtung gedacht, bei der die Lamellen-Kupplungsanord-
+nungen auf hydraulischem Wege vermittels in die Kupp-
+lungseinrichtung integrierten hydraulischen Nehmerzy-
+lindern betätigbar sind. 
+
+[Stand der Technik] 
+
+[0002] Derartige Kupplungseinrichtungen wurden in 
+verschiedenen Patentanmeldungen der Anmelderin vor-
+geschlagen, es wird beispielsweise auf die nicht vorver-
+öffentlichte DE 100 04 179 A1 verwiesen. 
+[0003] Das Dokument DE-199 39 819 C offenbart ein 
+Kraftfahrzeug gemäß dem Oberbegriff der Ansprüche 1, 
+5 und 11. Das Dokument US-5 407 401 offenbart ein 
+Kraftfahrzeug gemäß dem Oberbegriff des Anspruchs 9. 
+[0004] Die Erfindung betrifft nach diesem Hauptaspekt 
+ferner einen Antriebsstrang, der eine Antriebseinheit und 
+ein Getriebe (ggf. Lastschaltgetriebe) mit einer ersten 
+Getriebeeingangswelle und einer zweiten Getriebeein-
+gangswelle sowie eine Kupplungseinrichtung der ge-
+nannten Art aufweist, sowie ein einen derartigen An-
+triebsstrang umfassendes Kraftfahrzeug. Es wird in die-
+sem Zusammenhang insbesondere daran gedacht, dass 
+dem vorzugsweise als Lastschaltgetriebe ausgeführten 
+Getriebe eine Aktuator-Anordnung und eine die Aktua-
+tor-Anordnung ansteuernde Steuereinrichtung zugeord-
+net ist, unter deren Vermittelung der ersten und der zwei-
+ten Getriebeeingangswelle zugeordnete Getriebegänge 
+ein-und auslegbar sind. 
+[0005] Um einen Verschleiß bzw. ein Verbrennen der 
+Lamellen (insbesondere Belaglamellen) zu verhindern, 
+ist die Schmierung/Kühlung der Lamellen durch eine Be-
+triebsflüssigkeit (insbesondere Kühlöl) erforderlich. Re-
+gelmäßig für derartige Anwendungen eingesetzte Öle 
+weisen bei Betriebstemperatur (ca. 90°C) eine niedrige 
+Zähigkeit (niedrige Viskosität) auf, so dass bei geöffneten 
+Kupplungsanordnungen (druckloser hydraulischer Betä-
+
+tigungszylinder im Falle einer hydraulisch betätigbaren 
+Kupplungsanordnung des NORMALERWEISE-OFFEN-
+Typs) die Schleppmomente, die durch das zwischen den 
+Lamellen befindliche Öl hervorgerufen werden, ver-
+gleichsweise gering sind (beispielsweise kleiner als 2 
+Nm). Ist jedoch die Öltemperatur sehr niedrig (etwa deut-
+lich kleiner als 0°C), wie dies beispielsweise infolge eines 
+nächtlichen Abstellens des Kraftfahrzeugs im Winter auf-
+treten kann, resultiert eine drastisch erhöhte Zähigkeit 
+(Viskosität) des Öls, und es können dann sehr hohe 
+Schleppmomente auftreten (bis zu Werten größer als 25 
+Nm). Zusätzlich zu den Schleppmomenten können Los-
+brech-oder Loslösmomente von bis zu über 50 Nm auf-
+grund von aneinander anhaftenden (aneinander kleben-
+den) Lamellen auftreten, die zu Beginn des Fahrbetriebs 
+aber nur einmal aufzubringen wären, um die aneinander 
+anhaftenden (aneinander klebenden) Lamellen vonein-
+ander zu lösen. Nach diesem Lösen der Lamellen treten 
+dann aber immer noch die Schleppmomente auf, bis die 
+Zähigkeit (Viskosität) des Öls durch die Erwärmung des 
+Motors und das Einbringen von Wärme (Reibenergie) in 
+die Kupplungsanordnungen sinkt. 
+[0006] Als Folge dieser hohen Schlepp-bzw. Anein-
+anderhaftmomente kann das Einlegen eines Ganges 
+praktisch unmöglich werden, da die Synchronisierungs-
+einrichtungen des Getriebes in der Regel nicht für die 
+Überwindung derartig hoher Momente ausgelegt sind. 
+Typisch sind die Synchronisierungseinrichtungen für Mo-
+mente in der Größenordnung 5 Nm ausgelegt. Können 
+keine Gänge eingelegt bzw. kann nicht geschaltet wer-
+den, so ist ein Fahrbetrieb mit dem Fahrzeug nicht mög-
+lich. 
+[0007] In den nicht vorveröffentlichten deutschen Pa-
+tentanmeldungen 101 28 856.5 (AT 15.06.2001; Titel: 
+"Kupplungssystem mit wenigstens einer Lamellen-Kupp-
+lungsanordnung, Antriebsstrang mit dem Kupplungssy-
+stem und Warmlaufverfahren hierfür") und 101 18 756.4 
+(AT 17.04.2001; Titel: "Kupplungssystem") wurden ver-
+schiedene Vorschläge gemacht, die die vorstehend ge-
+schilderten Probleme zumindest lindern können. 
+
+[Darstellung der Erfindung] 
+
+[0008] Auch die vorliegende Erfindung zielt darauf, die 
+vorstehend angesprochenen Probleme zu lösen oder zu-
+mindest zu mildern, insbesondere besser beherrschbar 
+zu machen. 
+[0009] Nach einem ersten Hauptaspekt der Erfindung 
+wird für ein Kraftfahrzeug, umfassend einen Antriebs-
+strang, der aufweist: eine Antriebseinheit, ein Getriebe 
+mit einer ersten Getriebeeingangswelle und einer zwei-
+ten Getriebeeingangswelle und eine Kupplungseinrich-
+tung mit einer ersten Kupplungsanordnung, die der er-
+sten Getriebeeingangswelle zugeordnet ist, und einer 
+zweiten Kupplungsanordnung, die der zweiten Getriebe-
+eingangswelle zugeordnet ist, zur Momentenübertra-
+gung zwischen der Antriebseinheit und dem Getriebe, 
+wobei die Kupplungsanordnungen als Lamellen-Kupp-
+
+1 
+2 
+
+
+EP 1 544 512 B1 
+
+3 
+
+5 
+
+10 
+
+15 
+
+20 
+
+25 
+
+30 
+
+35 
+
+40 
+
+45 
+
+50 
+
+55 
+
+lungsanordnungen ausgeführt sind, denen eine Be-
+triebsflüssigkeit, insbesondere ein Kühlöl, für einen Be-
+trieb unter Einwirkung der Betriebsflüssigkeit zuführbar 
+ist, wobei dem Getriebe eine Aktuator-Anordnung und 
+eine die Aktuator-Anordnung ansteuernde Steuerein-
+richtung zugeordnet ist, unter deren Vermittlung der er-
+sten und der zweiten Getriebeeingangswelle zugeord-
+nete Getriebegänge ein-und auslegbar sind, wobei das 
+Getriebe den Getriebegängen zugeordnete Schaltele-
+mente und diesen zugeordnete oder zugehörige Syn-
+chronelemente aufweist, wobei zum Einlegen eines 
+Gangs (im Folgenden als Zielgang bezeichnet) wenig-
+stens ein dem Zielgang zugeordnetes Synchronelement 
+vermittels der Aktuator-Anordnung aktivierbar ist, um we-
+nigstens eine dem Zielgang zugeordnete Getriebewelle, 
+insbesondere die dem Zielgang zugeordnete Getriebe-
+eingangswelle, zu synchronisieren, vorgeschlagen, dass 
+zum Einlegen des Zielgangs zusätzlich wenigstens ein 
+wenigstens einem anderen Gang zugeordnetes Syn-
+chronelement vermittels der Aktuator-Anordnung akti-
+vierbar ist, die dem Zielgang zugeordnete Getriebewelle 
+zu synchronisieren. 
+[0010] Gleichzeitig hierzu kann die Aktuator-Anord-
+nung beispielsweise mehrere unabhängig voneinander 
+betätigbare Aktuatoren aufweisen. Dem Erfindungsvor-
+schlag liegt die Überlegung zugrunde, die im Hinblick auf 
+das Losbrechmoment oder/und die Schleppmomente 
+nötigen (gegenüber einem Normalbetrieb erhöhten) Syn-
+chronkräfte mit mehreren Synchroneinheiten oder Ele-
+menten aufzubringen. Dabei können einem Aktuator bei-
+spielsweise ein oder mehrere Schaltgabeln zugeordnet 
+sein. Will man z.B. den 1. Gang einlegen, so können zum 
+Abbremsen bzw. Beschleunigen der Getriebeeingangs-
+welle sämtliche auf dieser Welle angeordnete Synchron-
+einheiten genutzt werden, sofern sie gleichzeitig betätigt 
+werden können. Im Falle eines Lastschaltgetriebes 
+könnten also beispielsweise die Synchronisiereinheiten 
+des 1., 3. und 5. Ganges zum Abbremsen der diesen 
+Gängen zugeordneten Getriebeeingangswelle verwen-
+det werden. Es sollte jedoch sichergestellt werden, dass 
+bei einer sich verlangsamenden Getriebeeingangswelle 
+(allgemein: bei einer sich einem Synchronpunkt nähern-
+den Getriebeeingangswelle) nicht plötzlich zwei oder 
+mehr Gänge eingelegt werden. Hierzu wird vorgeschla-
+gen, dass eine entsprechende Sicherheitsfunktionalität 
+vorgesehen ist, die ein unbeabsichtigtes Einlegen des 
+anderen Ganges verhindert. Die Sicherheitsfunktionali-
+tät sorgt beispielsweise dafür, dass die Synchronisier-
+einheiten/ Schaltmuffen des 3. und 5. Ganges nur einen 
+begrenzten Weg zurücklegen, der es zwar ermöglicht, 
+die Getriebeeingangswelle abzubremsen, aber nicht den 
+betreffenden Gang einzulegen. 
+[0011] Vorteilhaft in diesem Zusammenhang kann ins-
+besondere die Überwachung der Drehzahl der Wellen 
+sein. Anhand der Fahrzeuggeschwindigkeit, die bei-
+spielsweise aus einem Getriebeausgangsdrehzahlsen-
+sor oder aus den Raddrehzahlen (mit einer gewissen Un-
+sicherheit aufgrund von Antriebsstrangschwingungen 
+
+und Auflösungsvermögen der Raddrehzahlsensoren bei 
+niedriger Fahrzeuggeschwindigkeit) bestimmt werden 
+kann und der mit einem Drehzahlsensor gemessenen 
+Drehzahl der Getriebeeingangswelle, die abgebremst 
+bzw. beschleunigt werden soll, könnte die Annäherung 
+an einen Synchronpunkt erkannt werden, so dass dann 
+die Aktuatorik des "anderen Gangs" (der zwar zum Ab-
+bremsen der Welle verwendet wird, aber nicht eingelegt 
+werden soll) so angesteuert wird, dass diese kurz vor 
+dem Synchronpunkt die Betätigungskraft reduziert, so 
+dass ein Einlegen dieses Ganges verhindert wird. Allge-
+meiner wird vorgeschlagen, dass die Steuereinrichtung 
+dafür ausgelegt ist, auf Grundlage von erfassten Dreh-
+zahlen eine Annäherung an einen dem anderen Gang 
+zugeordneten Synchronpunkt zu erkennen und vor Er-
+reichen des Synchronpunktes auf wenigstens ein dem 
+anderen Gang zugeordnetes Schaltelement oder/und 
+Synchronelement wirkende Aktivierungskräfte aufzuhe-
+ben oder zu reduzieren, um ein Einlegen des anderen 
+Gangs zu verhindern. 
+[0012] Häufig wird es vorteilhaft sein, wenn die Steu-
+ereinrichtung dafür ausgelegt ist, dass die Steuereinrich-
+tung dafür ausgelegt ist, vermittels der Aktuator-Anord-
+nung das wenigstens eine dem wenigstens einen ande-
+ren Gang zugeordnete Synchronelement bedarfsweise 
+dann zu aktivieren, wenn wenigstens eine Positiv-Bedin-
+gung erfüllt oder/und wenigstens eine Negativ-Bedin-
+gung nicht erfüllt ist. Insbesondere kann vorgesehen 
+sein, dass bei normalen Temperaturen bzw. normaler 
+Viskosität der Betriebsflüssigkeit kein wenigstens einem 
+anderen Gang zugeordnetes Synchronelement aktiviert 
+wird. 
+[0013] Für bei den vorstehend angesprochenen, sich 
+auf die Beherrschung der eingangs angesprochenen 
+Probleme beziehenden Aspekte der Erfindung erscheint 
+es aus Sicherheitsgründen vorteilhaft, wenn ein Starten 
+der Antriebseinheit in Abhängigkeit von einer Betätigung 
+und Nicht-Betätigung eines Fahrzeug-Bremssystems 
+oder/und von dem Bedienzustand einer manuell bedien-
+baren Wähleinrichtung zum Wählen verschiedener Fahr-
+zeug-oder/und Getriebemodi oder/und von einem mo-
+mentan geltenden Fahrzeug-oder/und Getriebemodus 
+sperrbar und freigebbar ist. 
+[0014] Als weitere Möglichkeit wird nach einem weite-
+ren Haupaspekt der Erfindung für ein Kraftfahrzeug, um-
+fassend einen Antriebsstrang, der aufweist: eine An-
+triebseinheit, ein Lastschaltgetriebe mit einer ersten Ge-
+triebeeingangswelle und einer zweiten Getriebeein-
+gangswelle und eine Kupplungseinrichtung mit einer er-
+sten Kupplungsanordnung, die der ersten Getriebeein-
+gangswelle zugeordnet ist, und einer zweiten Kupp-
+lungsanordnung, die der zweiten Getriebeeingangswelle 
+zugeordnet ist, zur Momentenübertragung zwischen der 
+Antriebseinheit und dem Getriebe, wobei die Kupplungs-
+anordnungen als Lamellen-Kupplungsanordnungen 
+ausgeführt sind, denen eine Betriebsflüssigkeit, insbe-
+sondere ein Kühlöl, für einen Betrieb unter Einwirkung 
+der Betriebsflüssigkeit zuführbar ist, wobei dem Getriebe 
+
+3 
+4 
+
+
+EP 1 544 512 B1 
+
+4 
+
+5 
+
+10 
+
+15 
+
+20 
+
+25 
+
+30 
+
+35 
+
+40 
+
+45 
+
+50 
+
+55 
+
+eine Aktuator-Anordnung und eine die Aktuator-Anord-
+nung ansteuernde Steuereinrichtung zugeordnet ist, un-
+ter deren Vermittlung der ersten und der zweiten Getrie-
+beeingangswelle zugeordnete Getriebegänge ein-und 
+auslegbar sind, wobei die Steuereinrichtung ferner eine 
+der Kupplungseinrichtung zugeordnete oder zugehörige, 
+vorzugsweise hydraulische Betätigungseinrichtung an-
+steuert, um die Kupplungsanordnungen im Einrück-und 
+Ausrücksinne zu betätigen, wobei die Steuereinrichtung 
+dafür ausgelegt ist, in einem Lastschaltmodus in einem 
+Getriebezustand, in dem ein der einen Getriebeein-
+gangswelle zugeordneter Ausgangsgang und ein der an-
+deren Getriebeeingangswelle zugeordneter Zielgang 
+eingelegt sind, die Kupplungsanordnungen vermittels 
+der Betätigungseinrichtung gegenläufig zu betätigen, um 
+ein Antriebsmoment der Antriebseinheit von der einen 
+zur anderen Getriebeeingangswelle kontinuierlich und 
+ohne Zugkraftunterbrechung zu verlagern und so den 
+Ausgangsgang als momentenübertragender Gang zu 
+deaktivieren und den Zielgang als momentenübertragen-
+der Gang zu aktivieren, vorgeschlagen, dass ein Aktiv-
+Synchronisierungsmodus vorgesehen ist, in dem zur De-
+aktivierung des Ausgangsgangs als momentenübertra-
+gender Gang und Aktivierung des Zielgang als momen-
+tenübertragender Gangs zuerst der Ausgangsgang aus-
+gelegt wird oder/und die dem Ausgangsgang zugeord-
+nete Kupplungsanordnung geöffnet wird, dann die Dreh-
+zahl der Antriebseinheit und die Drehzahl der dem Ziel-
+gang zugeordneten Getriebeeingangswelle auf das Syn-
+chronverhältnis des Zielgangs gebracht wird und dann 
+der Zielgang eingelegt wird. 
+[0015] Man kann in diesem Zusammenhang vorse-
+hen, dass im Aktiv-Synchronisierungsmodus die Dreh-
+zahl der Antriebseinheit und die Drehzahl der dem Ziel-
+gang zugeordneten Getriebeeingangswelle dadurch ge-
+meinsam auf das Synchronverhältnis des Zielgangs ge-
+bracht werden, dass beim Bringen der Drehzahl der An-
+triebseinheit auf das Synchronverhältnis die dem Ziel-
+gang zugeordnete Kupplungsanordnung zumindest teil-
+weise eingerückt ist. Eine andere Möglichkeit ist, dass 
+das im Aktiv-Synchronisierungsmodus nach Bringen der 
+Drehzahl der Antriebseinheit auf das Synchronverhältnis 
+die Drehzahl der dem Zielgang zugeordneten Getriebe-
+eingangswelle auf das Synchronverhältnis durch zumin-
+dest teilweises Einrücken der dem Zielgang zugeordnete 
+Kupplungsanordnung gebracht wird. 
+[0016] Die vorstehenden Vorschläge ermöglichen ein 
+Schalten der Gänge bei Tieftemperaturen unter größt-
+möglicher Schonung bzw. Entlastung der Synchronisier-
+einrichtungen durch aktive Synchronisierung vermittels 
+der Kupplungseinrichtung. Man kann vom "Prinzip des 
+aktiven Synchronisierens" sprechen. Durch das erfin-
+dungsgemäße aktive Synchronisieren ist im Falle eines 
+Lastschaltgetriebes zwar kein zugkraftunterbrechungs-
+freies Schalten mehr gegeben, dies wird aber in der Re-
+gel in der Aufwärmphase der Betriebsflüssigkeit (des 
+Kühlöls) akzeptiert werden. 
+[0017] Nach dem Erfindungsvorschlag wird beim 
+
+Schalten von einem Gang (dem Ausgangsgang) zum an-
+deren Gang (dem Zielgang) zuerst der Ausgangsgang 
+ausgelegt, so dass im Antriebsstrang kein Formschluss 
+mehr gegeben ist. Grundsätzlich ist es auch denkbar, 
+den Ausgangsgang eingelegt zu lassen und nur die dem 
+Ausgangsgang zugeordnete Kupplungsanordnung zu 
+öffnen. Danach wird dann die Drehzahl der Antriebsein-
+heit (des Motors) auf das Synchronverhältnis des neuen 
+Gangs gebracht. Jetzt kann (muss aber nicht) die dem 
+Zielgang zugeordnete Kupplungsanordnung geöffnet 
+werden und der Zielgang eingelegt werden, ohne dass 
+hierbei die Synchronisierung der betreffenden Getriebe-
+welle durch die Synchronisiereinrichtung des Zielgangs 
+belastet (überlastet) wird. Durch die unter Umständen 
+noch hohen Schleppmomente kann die Kupplungsan-
+ordnung auch im geöffneten Zustand ein Verhalten auf-
+weisen, das mehr dem Verhalten einer geschlossenen 
+Kupplungsanordnung entspricht. Eine geöffnete Kupp-
+lungsanordnung erhöht jedoch den Schaltkomfort, so 
+dass es bevorzugt ist, die Kupplungsanordnung des Ziel-
+gangs vor dem Einlegen des Zielgangs zu öffnen. 
+[0018] Betreffend die Drehzahlanpassung der An-
+triebseinheit an das Synchronverhältnis des Zielgangs 
+ist es hingegen bevorzugt, dass diese Drehzahlanpas-
+sung im eingerückten Zustand der dem Zielgang zuge-
+ordneten Kupplungsanordnung erfolgt, so dass mit der 
+Anpassung des Motors zugleich die Drehzahlanpassung 
+der dem Zielgang zugeordneten Getriebeeingangswelle 
+erreicht wird. Zumindest annähernde Drehzahlgleichheit 
+zwischen der Antriebseinheit und der dem Zielgang zu-
+geordneten Getriebeeingangswelle sollten idealerweise 
+sichergestellt werden. 
+[0019] Weiterbildend wird vorgeschlagen, dass der 
+Aktiv-Synchronisierungsmodus betreffend ein Hoch-
+schalten nur dann freigegeben wird, wenn eine momen-
+tane Fahrzeuggeschwindigkeit bezogen auf den Ziel-
+gang einer Mindest-Leerlaufdrehzahl der Antriebseinheit 
+entspricht oder diese übersteigt. Nach diesem Weiterbil-
+dungsvorschlag kann die aktive Synchronisierung dann 
+zum Einsatz kommen, wenn sich das Fahrzeug mit aus-
+reichender Geschwindigkeit bewegt. Ausreichende Ge-
+schwindigkeit bedeutet dabei, dass die auf die Getriebe-
+eingangswelle bezogene Fahrzeuggeschwindigkeit im 
+gewünschten Zielgang größer als die kleinstmögliche 
+Laufdrehzahl des Motors ist. 
+[0020] Es ist aber nicht zwingend, dass bei tiefen Tem-
+peraturen bzw. hoher Viskosität der Betriebsflüssigkeit 
+auf ein zugkraftunterbrechungsfreies Schalten verzichtet 
+werden muss. 
+[0021] Nach einem anderen Hauptaspekt der Erfin-
+dung wird für ein Kraftfahrzeug, umfassend einen An-
+triebsstrang, der aufweist: eine Antriebseinheit, ein Last-
+schaltgetriebe mit einer ersten Getriebeeingangswelle 
+und einer zweiten Getriebeeingangswelle und eine 
+Kupplungseinrichtung mit einer ersten Kupplungsanord-
+nung, die der ersten Getriebeeingangswelle zugeordnet 
+ist, und einer zweiten Kupplungsanordnung, die der zwei-
+ten Getriebeeingangswelle zugeordnet ist, zur Momen-
+
+5 
+6 
+
+
+EP 1 544 512 B1 
+
+5 
+
+5 
+
+10 
+
+15 
+
+20 
+
+25 
+
+30 
+
+35 
+
+40 
+
+45 
+
+50 
+
+55 
+
+tenübertragung zwischen der Antriebseinheit und dem 
+Getriebe, wobei die Kupplungsanordnungen als Lamel-
+len-Kupplungsanordnungen ausgeführt sind, denen eine 
+Betriebsflüssigkeit, insbesondere ein Kühlöl, für einen 
+Betrieb unter Einwirkung der Betriebsflüssigkeit zuführ-
+bar ist, wobei dem Getriebe eine Aktuator-Anordnung 
+und eine die Aktuator-Anordnung ansteuernde Steuer-
+einrichtung zugeordnet ist, unter deren Vermittlung der 
+ersten und der zweiten Getriebeeingangswelle zugeord-
+nete Getriebegänge ein-und auslegbar sind, wobei die 
+Steuereinrichtung ferner eine der Kupplungseinrichtung 
+zugeordnete oder zugehörige, vorzugsweise hydrauli-
+sche Betätigungseinrichtung ansteuert, um die Kupp-
+lungsanordnungen im Einrück-und Ausrücksinne zu be-
+tätigen, wobei die Steuereinrichtung dafür ausgelegt ist, 
+in einem Lastschaltmodus in einem Getriebezustand, in 
+dem ein der einen Getriebeeingangswelle zugeordneter 
+Ausgangsgang und ein der anderen Getriebeeingangs-
+welle zugeordneter Zielgang eingelegt sind, die Kupp-
+lungsanordnungen vermittels der Betätigungseinrich-
+tung gegenläufig zu betätigen, um ein Antriebsmoment 
+der Antriebseinheit von der einen zur anderen Getriebe-
+eingangswelle kontinuierlich und ohne Zugkraftunterbre-
+chung zu verlagern und so den Ausgangsgang als mo-
+mentenübertragender Gang zu deaktivieren und den 
+Zielgang als momentenübertragender Gang zu aktivie-
+ren, betreffend ein Rückschalten vorgeschlagen, dass 
+die Steuereinrichtung dafür ausgelegt ist, beim Wechsel 
+von einem höheren Ausgangsgang zu einem niedrigeren 
+Zielgang (Rückschaltung) in Vorbereitung eines Einle-
+gens des Zielgangs auf die Antriebseinheit einzuwirken, 
+dass deren Antriebsmoment über ein von der dem Aus-
+gangsgang zugeordneten Kupplungsanordnung über-
+tragbares Moment ansteigt, so dass die Drehzahl der 
+Antriebseinheit über die momentane Drehzahl der dem 
+Ausgangsgang zugeordneten Getriebeeingangswelle 
+ansteigt und sich einer von der momentanen Fahrzeug-
+geschwindigkeit abhängigen Synchrondrehzahl für den 
+Zielgang zumindest annähert und diese vorzugsweise 
+zumindest näherungsweise erreicht wobei die Steuer-
+einrichtung dafür ausgelegt ist, im Zuge mit der Vergrö-
+ßerung des Antriebsmoments bzw. der Beschleunigung 
+der dem Zielgang zugeordnete Getriebeeingangswelle 
+oder danach die Aktuator-Anordnung derart anzusteu-
+ern, dass diese zur Vorbereitung der gegenläufigen Be-
+tätigung der Kupplungsanordnungen im Sinne eines Ein-
+legens des Zielgangs auf das Getriebe wirkt. Betreffend 
+ein Hochschalten ist die Steuereinrichtung gemäß einem 
+weiteren Hauptaspekt dafür ausgelegt, beim Wechsel 
+von einem niedrigeren Ausgangsgang zu einem höheren 
+Zielgang (Hochschaltung) in Vorbereitung eines Einle-
+gens des Zielgangs die dem Zielgang zugeordnete Kupp-
+lungsanordnung ausgehend von einem ausgerückten 
+Zustand soweit im Einrücksinn zu betätigen, dass die 
+dem Zielgang zugeordnete, bisher sich durch Einwirkung 
+von Getriebeschleppmomenten oder/und Abbremsmo-
+menten höchstens mit einer gegenüber der Syn-
+chrondrehzahl für den Zielgang geringeren Drehzahl dre-
+
+hende Getriebeeingangswelle in Richtung einer Annä-
+herung an die Synchrondrehzahl beschleunigt wird und 
+diese vorzugsweise zumindest näherungsweise erreicht 
+wobei eine/die Steuereinrichtung eine effektive Tempe-
+ratur der Betriebsflüssigkeit, die durch eine Sensoran-
+ordnung erfasst wird oder/und durch die Steuereinrich-
+tung bestimmt wird, auswertet, und in Abhängigkeit von 
+dieser Auswertung einen normalen Schalt-und Kupp-
+lungsbetrieb mit freier Gangwahl oder/und Schalten 
+ohne Zugkraftunterbrechung freigibt und sperrt. 
+[0022] Zur Vorbereitung des Rückschaltens kann nach 
+dem Erfindungsvorschlag beispielsweise durch einen 
+Eingriff in das Management der Antriebseinheit, insbe-
+sondere in das Motormanagement, das Antriebsmoment 
+(Motormoment) über das Kupplungsmoment der mo-
+mentan Momenten übertragenden Kupplungsanord-
+nung erhöht werden, so dass die Drehzahl der Antriebs-
+einheit (Motordrehzahl) über die betreffende Getriebe-
+eingangswellendrehzahl steigt. Auf diese Weise kann die 
+Drehzahl der Antriebseinheit auf die neue Synchrondreh-
+zahl gebracht werden oder dieser zumindest angenähert 
+werden. Gleichzeitig mit der Erhöhung der Drehzahl der 
+Antriebseinheit oder erst anschließend kann dann die 
+dem Zielgang zugeordnete Kupplungsanordnung ge-
+schlossen werden, um die Getriebeeingangswellendreh-
+zahl der dem Zielgang zugeordneten Getriebeeingangs-
+welle ebenfalls auf die neue Synchrondrehzahl zu brin-
+gen, die durch die aktuelle Fahrgeschwindigkeit und den 
+Zielgang bestimmt ist. Damit kann nun der neue Gang 
+(Zielgang) eingelegt werden, ohne dass nennenswerte 
+Reibarbeit in der Synchroneinrichtung des Getriebes ge-
+leistet werden muss. Es reicht aus, dass die dem Ziel-
+gang zugeordnete Kupplungsanordnung während des 
+"Hochschleppens" der Getriebeeingangswelle nur so-
+weit geschlossen wird, dass die Schleppmomente bzw. 
+das Kupplungsmoment ausreichen, um die Getriebeein-
+gangswelle mitzunehmen. Der beschriebene Schaltab-
+lauf ermöglicht ein zugkraftunterbrechungsfreies Rück-
+schalten selbst bei Tieftemperaturen. 
+[0023] Wie bereits angesprochen wurde, kann die 
+Steuereinrichtung vorteilhaft dafür ausgelegt sein, 
+gleichzeitig mit der Vergrößerung des Antriebsmoments 
+oder danach die dem Zielgang zugeordnete Kupplungs-
+anordnung im Einrücksinne zu betätigen, um die dem 
+Zielgang zugeordnete Getriebeeingangswelle in Rich-
+tung einer Annäherung an die Synchrondrehzahl zu be-
+schleunigen und vorzugsweise zumindest näherungs-
+weise auf die Synchrondrehzahl zu bringen. 
+[0024] Betreffend ein Hochschalten ist darauf hinzu-
+weisen, dass beim Hochschalten das "neue" Getriebe-
+eingangswellen-Synchrondrehzahlniveau, also die Syn-
+chrondrehzahl des Zielgangs, unter dem des Ausgangs-
+gangs liegt. Ist die dem Zielgang zugeordnete Kupp-
+lungsanordnung geöffnet und sind die Schleppmomente 
+des Getriebes so groß, dass die Drehzahl der dem Ziel-
+gang zugeordneten Getriebeeingangswelle zwischen 0 
+und der neuen Synchrondrehzahl liegt, kann durch 
+Schließen der dem Zielgang zugeordneten Kupplungs-
+
+7 
+8 
+
+
+EP 1 544 512 B1 
+
+6 
+
+5 
+
+10 
+
+15 
+
+20 
+
+25 
+
+30 
+
+35 
+
+40 
+
+45 
+
+50 
+
+55 
+
+anordnung die diesem Gang zugeordnete Getriebeein-
+gangswelle auf die neue Synchrondrehzahl gebracht 
+werden, um ein Gangeinlegen zu ermöglichen bzw. zu 
+erleichtern. Diese Art der Schaltung erlaubt selbst bei 
+Tieftemperaturen ein zugkraftunterbrechungsfreies 
+Hochschalten. Hierzu wird speziell vorgeschlagen, dass 
+die Steuereinrichtung dafür ausgelegt ist, im Zuge mit 
+der Beschleunigung der dem Zielgang zugeordnete Ge-
+triebeeingangswelle oder danach die Aktuator-Anord-
+nung derart anzusteuern, dass diese zur Vorbereitung 
+der gegenläufigen Betätigung der Kupplungsanordnun-
+gen im Sinne eines Einlegens des Zielgangs auf das Ge-
+triebe wirkt. 
+[0025] Erreicht die Temperatur der Betriebsflüssigkeit, 
+insbesondere des Kühlöls, durch Aufwärmmaßnahmen, 
+durch das Aufwärmen der als Brennkraftmaschine aus-
+geführten Antriebseinheit oder durch den Fahrbetrieb ei-
+ne hinreichende Temperatur, sind also die durch die Vis-
+kosität der Betriebsflüssigkeit bei niedrigen Temperatu-
+ren bedingten Schleppmomente hinreichend niedrig, 
+kann ein normaler Schalt-und Kupplungsbetrieb mit frei-
+er Gangwahl freigegeben werden, beispielsweise durch 
+ein Steuerprogramm. Besonders zweckmäßig erscheint 
+eine Ausbildung der Steuereinrichtung derart, dass diese 
+den normalen Schalt-und Kupplungsbetrieb dann frei-
+gibt, wenn die effektive Temperatur einen Schwellenwert 
+übersteigt oder eine aus der effektiven Temperatur be-
+stimmte Viskosität der Betriebsflüssigkeit unter einen 
+Schwellenwert gefallen ist. 
+[0026] Soweit wenigstens ein Temperatursensor bzw. 
+eine Sensoranordnung zur Erfassung der Temperatur 
+der Betriebsflüssigkeit vorhanden ist, wird der Sensor 
+bzw. wird die Sensoranordnung vorzugsweise dazu ver-
+wendet, die Temperatur der Betriebsflüssigkeit direkt zu 
+messen. Für den Fall, dass kein derartiger Sensor zur 
+Verfügung steht, oder ergänzend (beispielsweise für ei-
+ne größere Sicherheit, insbesondere Redundanz) wird 
+vorgeschlagen, dass die Steuereinrichtung dafür ausge-
+legt ist, aus wenigstens einem mittels einer Sensoran-
+ordnung bestimmten Temperaturwert, der nicht direkt die 
+effektive Temperatur der Betriebsflüssigkeit angibt, 
+oder/und aus wenigstens einem Betriebsparameter des 
+Antriebsstrangs die effektive Temperatur der Betriebs-
+flüssigkeit zu bestimmen, wobei gegebenenfalls mehrere 
+zu verschiedenen Zeiten protokollierte Temperaturwerte 
+bzw. Betriebsparameter oder/und ein beispielsweise ma-
+thematisch oder/und durch Kennfelder definiertes Tem-
+peraturmodell der Bestimmung zugrundegelegt werden. 
+[0027] Ein mathematisches Temperaturmodell zur 
+Temperaturbestimmung kann beispielsweise auf der 
+Tatsache basieren, dass die Öltemperatur eine Funktion 
+von Außentemperatur, Motortemperatur, Ölmenge und 
+der in die Kupplungsanordnungen eingebrachten Rei-
+benergie ist. Die Reibenergie berechnet sich wie folgt: 
+
+[0028] Dabei bezeichnet Än die Schlupfdrehzahl einer 
+Kupplungsanordnung, also die Differenz zwischen der 
+Kupplungseingangsdrehzahl und der Kupplungsaus-
+gangsdrehzahl der betreffenden Kupplungsanordnung 
+und M Kupplung ist das durch die Kupplungsanordnung 
+übertragene Moment. Bei der kurz als Doppelkupplung 
+bezeichenbaren Doppel-Kupplungseinrichtung addieren 
+sich die Reibenergien der beiden Kupplungsanordnun-
+gen. 
+[0029] Der Einfluss der Außentemperatur und der Mo-
+tortemperatur sowie weiterer Einflussgrößen ist in der 
+Regel sehr stark abhängig von der Konstruktion der 
+Kupplungseinrichtung, des Getriebes und des Motors so-
+wie der verwendeten Materialien, des Einbauraums usw. 
+Es kann deshalb kein allgemeines, fahrzeugunabhängi-
+ges Modell angegeben werden, sondern es muss für je-
+des Fahrzeug ein entsprechendes Modell aufgestellt 
+werden. 
+[0030] Im normalen Fahrbetrieb ohne starke Be-
+schleunigung oder ohne Anfahren mit großer Last (z.B. 
+Anfahren mit einem Hänger) erwärmt sich die Betriebs-
+flüssigkeit (das Kühlöl) in der Regel nur relativ langsam. 
+Dies bedeutet, dass sich auch die in den Kupplungsan-
+ordnungen auftretenden Schleppmomente nur ver-
+gleichsweise langsam verringern. Es ist deshalb vorstell-
+bar, dass die Schleppmomente erst nach zwei bis drei 
+Minuten Fahrt Werte erreichen, die ein normales Syn-
+chronisieren ohne Überlastung oder Schädigung der 
+Synchroneinrichtungen zulassen. Vorteilhaft zur Redu-
+zierung der Aufwärmperiode ist auf jeden Fall, die Menge 
+an Betriebsflüssigkeit (Kühlölmenge) so klein wie unbe-
+dingt erforderlich zu halten. Zu bedenken ist ferner, dass 
+das auftretende Schleppmoment stark von der momen-
+tan zugeführten Betriebsflüssigkeitsmenge (Kühlölmen-
+ge) ansteigt. Dies spricht dafür, nur geringe Betriebsflüs-
+sigkeitsmengen zuzuführen. Andererseits muss für die 
+erforderliche Kühlung gesorgt werden. Man wird einen 
+Kompromiss zwischen notwendiger Kühlung und mög-
+lichst kleinen Schleppmomenten suchen und finden. 
+[0031] Eine Möglichkeit zur Verkürzung der Aufheiz-
+dauer besteht in der gezielten Erwärmung durch Einbrin-
+gen von Verlustleistung in die Kupplungseinrichtung, z.B. 
+durch gleichzeitiges Betätigen beider Kupplungsanord-
+nungen, so dass ein Teil der Leistung der Antriebseinheit 
+(Motorleistung) in der Kupplungseinrichtung in Wärme 
+umgesetzt wird. 
+[0032] Im Folgenden wird die Erfindung anhand von 
+Ausführungsbeispielen näher erläutert, die einerseits 
+verschiedene Erfindungsvorschläge nach den verschie-
+denen Aspekten der Erfindung unmittelbar beispielhaft 
+ausführen bzw. bei denen die verschiedenen Erfindungs-
+vorschläge nach den verschiedenen Aspekten der Erfin-
+dung vom Fachmann ohne weiteres durch routinemäßi-
+ge Anwendung seiner Fachkenntnisse umgesetzt wer-
+den können (beispielsweise durch entsprechende Pro-
+grammierung einer einem Getriebe oder/und einer Kupp-
+lungseinrichtung oder/und einer Antriebseinheit des An-
+triebsstrangs zugeordneten elektrischen Steuereinheit 
+
+9 
+10 
+
+
+EP 1 544 512 B1 
+
+7 
+
+5 
+
+10 
+
+15 
+
+20 
+
+25 
+
+30 
+
+35 
+
+40 
+
+45 
+
+50 
+
+55 
+
+auf Mikroprozessorbasis), ohne dass es noch erfinderi-
+scher Tätigkeit bedarf. 
+
+Fig. 1 
+zeigt in Teilfig. 1 a in einer schematischen, bei-
+spielhaften Darstellung eine Grundstruktur ei-
+nes erfindungsgemäßen Kupplungssystems 
+mit einer nasslaufenden Doppelkupplung und 
+in Teilfig. 1 b in einer schematischen Darstel-
+lung einen erfindungsgemäßen Kraftfahrzeug-
+Antriebsstrang samt zugeordneter, die An-
+triebseinheit, die Doppelkupplung und ein Last-
+schaltgetriebe ansteuernder Steuereinrichtung 
+und zugehörigen Betätigungseinrichtungen. 
+
+Fig. 2 
+zeigt ein erstes Ausführungsbeispiel eines er-
+findungsgemäßen Kupplungssystems. 
+
+Fig. 3 
+zeigt das Kupplungssystem der Fig. 2 in Kom-
+bination mit einem zugeordneten Getriebe. 
+
+Fig. 4 
+zeigt eine Ausgestaltungsmöglichkeit für einen 
+Kühlölkreislauf des Getriebes der Fig. 3. 
+
+Fig. 5 
+zeigt in der Teilfig. 5a) ein Diagramm, das eine 
+typische Abhängigkeit des in einer Lamellen-
+Kupplungsanordnung auftretenden Schlepp-
+moments bei tiefen Temperaturen als Funktion 
+der Differenzdrehzahl angibt, und in der Teilfig. 
+5b) ein entsprechendes Diagramm, das einen 
+typischen Verlauf des Schleppmoments bei 
+sehr kleinen Differenzdrehzahlen samt dem 
+Losbrechmoment im Falle von zusammenkle-
+benden Lamellen angibt. 
+
+Fig. 6 
+zeigt exemplarisch eine typische Getriebe-Syn-
+chronisiereinrichtung des Stands der Technik. 
+
+Fig. 7 
+zeigt schematisch ein automatisiertes Doppel-
+kupplungsgetriebe samt vorgeschalteter Dop-
+pelkupplung. 
+
+Fig. 8 
+zeigt ein Beispiel für einen erfindungsgemäßen 
+Schaltablauf für eine Zug-Rück-Schaltung. 
+
+[0033] Fig. 1 zeigt in Teilfig. 1 a schematisch ein Kupp-
+lungssystem 200, das eine nasslaufende Doppelkupp-
+lung 202 mit einer ersten, radial äußeren Kupplungsan-
+ordnung 206 und einer zweiten, radial inneren Kupp-
+lungsanordnung 204 aufweist. Bei den Kupplungsanord-
+nungen 204 und 206 handelt es sich um nasslaufende 
+Kupplungsanordnungen, beispielsweise um nasslaufen-
+de Lamellen-Kupplungsanordnungen, die auf an sich be-
+kannte Weise jeweils wenigstens ein Lamellenpaket auf-
+weisen, die beim vorliegenden Ausführungsbeispiel ra-
+dial übereinander angeordnet sind und jeweils durch ei-
+nen zugeordneten Betätigungskolben eines in die Dop-
+pelkupplung integrierten hydraulischen Nehmerzvlin-
+ders betätigt werden. Beispiele für derartige Doppel-
+
+kupplungen sind in weiteren Offenlegungsschriften bzw. 
+Patentanmeldungen der Anmelderin offenbart. 
+[0034] Das Kupplungssystem 200 weist zwei vonein-
+ander unabhängige Pumpen, nämlich eine erste Pumpe 
+208 und eine zweite Pumpe 209, auf, die vorzugsweise 
+jeweils durch einen Elektromotor 210 bzw. 211 angetrie-
+ben werden. Die erste Pumpe 208 stellt Druckmedium, 
+insbesondere Drucköl, bei einem vergleichsweise hohen 
+Druck bereit, der zur Betätigung der Kupplungsanord-
+nungen 204 und 206 der Doppelkupplung 202 ausreicht. 
+Zur wahlweisen Betätigung der Kupplungsanordnungen 
+sind diese, genauer deren hydraulische Nehmerzylinder, 
+jeweils über ein zugeordnetes Ventil 214 bzw. 216 an 
+der Pumpe 208 angeschlossen. Die Pumpe saugt Druck-
+medium aus einem Reservoir 212 an. 
+[0035] Die zweite Pumpe 209 stellt einen vergleichs-
+weise großen Volumenstrom an Kühlmedium, insbeson-
+dere Kühlöl bereit, das zur Kühlung der Kupplungsan-
+ordnungen 204 und 206 dient. Die Pumpe 209 saugt das 
+Kühlmedium, ggf. Öl, aus einem Reservoir 222 an. Es 
+sei angemerkt, dass es nicht zwingend ist, dass es sich 
+bei dem Reservoir 222 um ein gegenüber dem Reservoir 
+212 gesondertes Reservoir handelt. 
+[0036] Um bei tiefen Temperaturen das Kühlöl schnel-
+ler auf Betriebstemperatur bringen zu können, ist auf der 
+Abgabeseite der Pumpe 208 sowie auf der Abgabeseite 
+der Pumpe 209 ein Umschaltventil 230 bzw. 232 vorge-
+sehen. Mittels der Ventile kann eine Bypassleitung zum 
+Vorratsbehälter 222 freigeschaltet werden, um durch 
+Umlaufenlassen des Betriebsmediums bzw. Druckmedi-
+ums an der Kupplungseinrichtung (Doppelkupplung) 202 
+vorbei Wärme in das Öl einzubringen und dieses damit 
+zu erwärmen. Die Aufwärmzeit zur Erreichung der Be-
+triebstemperatur kann hierdurch deutlich verkürzt wer-
+den und es kann dementsprechend relativ schnell ein 
+Zustand erreicht werden, in dem in den Kupplungsan-
+ordnungen 204 und 206 keine störenden Schleppmo-
+mente auf Grund temperaturbedingt zu hoher Viskosität 
+(zu großer Zähigkeit) mehr auftreten. 
+[0037] Teilfig. 1 b zeigt einen erfindungsgemäßen 
+Kraftfahrzeug-Antriebsstrang mit der Doppelkupplung 
+202, einer dieser zugeordneten Betätigungseinrichtung 
+234 (beispielsweise von der in Fig. 2 gezeigten, die Steu-
+erventile 214 und 216 umfassenden Art), einem mittels 
+einer Betätigungseinrichtung 236 automatisiert betätig-
+baren Lastschaltgetriebe 330 mit zwei koaxial verlaufen-
+den Getriebeeingangswellen und einer als Verbren-
+nungsmotor ausgeführten Antriebseinheit 238. Die ge-
+nannten Komponenten sind direkt oder über die jeweils 
+zugeordnete Betätigungseinrichtung von einer beispiels-
+weise als ECU oder/und TCU bezeichenbaren Steuer-
+einrichtung 316 steuerbar. Die Steuereinrichtung 316, 
+die auch als Steuereinheit bezeichenbar ist, kann aus 
+mehreren miteinander kommunizierenden Teil-Steuer-
+einheiten bestehen und Signale von diversen Sensoren 
+und Betätigungselementen erhalten, so etwa von einem 
+Schalthebel 452, der beispielsweise die Schaltstellungen 
+P (Parkmodus), R (Rückwärtsfahrmodus), N (Neutralmo-
+
+11 
+12 
+
+
+EP 1 544 512 B1 
+
+8 
+
+5 
+
+10 
+
+15 
+
+20 
+
+25 
+
+30 
+
+35 
+
+40 
+
+45 
+
+50 
+
+55 
+
+dus) und D (Vorwärtsfahrmodus) aufweist, und von ei-
+nem Bremspedal 450. Ein von der Steuereinrichtung an-
+gesteuertes Bremssystem des Fahrzeugs ist in Fig. 1b 
+mit 454 bezeichnet, und ein von der Steuereinrichtung 
+ansteuerbarer Anlasser ist in Fig. 1b mit 456 bezeichnet. 
+[0038] Fig. 2 zeigt ein Ausführungsbeispiel eines er-
+findungsgemäßen Kupplungssystems der in Fig. 1 ge-
+zeigten Grundstruktur in näheren Einzelheiten. 
+[0039] Gemäß Fig. 2 wird das Kühlöl der Doppelkupp-
+lung 202 über einen Wärmetauscher 300 zugeführt, da 
+es beispielsweise im Falle eines längeren Schlupfbe-
+triebs zu einer merklichen Temperaturerhöhung auch 
+des Öls im Ölsumpf 212 kommen kann. Durch den Wär-
+metauscher 300 wird die Öltemperatur auf einem zur 
+Kühlung der Doppelkupplung hinreichenden Tempera-
+turniveau gehalten. Da das Kühlöl bei tieferen Tempera-
+turen recht dickflüssig werden kann und aufgrund des 
+Strömungswiderstands des Wärmetauschers 300 bei 
+besonders tiefen Temperaturen unter Umständen nicht 
+mehr genügend Kühlöl die Doppelkupplung erreichen 
+würde bzw. ein zu hoher Öldruck zu Beschädigungen 
+führen könnte, ist ein beispielsweise unter Federvor-
+spannung stehendes Bypassventil 302 vorgesehen, das 
+dann, wenn der Kühlöldruck stromabwärts des Ölkühlers 
+300 eine vorgegebene Druckschwelle übersteigt, auf-
+macht und das Kühlöl am Ölkühler 300 vorbei zur Dop-
+pelkupplung durchlässt. 
+[0040] Beim Ausführungsbeispiel der Fig. 2 ist im 
+Kupplungsbetätigungs-Druckölkreis ein ein unter Druck 
+stehendes Gaspolster aufweisender Druckölspeicher 
+304 eingebaut, der von der Pumpe 208 über ein Rück-
+schlagventil 306 geladen wird und über das Ventil 214 
+und das Ventil 216 an den Betätigungs-Nehmerzylindern 
+der beiden Kupplungsanordnungen 204 und 206 ange-
+schlossen ist. Der Druckölspeicher 304 sorgt für ein 
+gleichmäßiges Druckniveau, was insbesondere im Falle 
+einer Ausbildung der Pumpe 208 als Kolbenpumpe 
+zweckmäßig ist, und ermöglicht, dass für die Pumpe 208 
+eine Pumpe mit besonders kleinem Fördervolumen aus-
+reicht. Das von der Pumpe 208b pro Zeiteinheit abgege-
+bene Ölvolumen kann also kleiner sein als das während 
+einer Kupplungsbetätigung pro Zeiteinheit benötigte 
+Druckölvolumen. 
+[0041] Der Druckölkreis zwischen dem Rückschlag-
+ventil 306 und den Ventilen 214 und 216 ist durch ein 
+Druckbegrenzungsventil 308 gegen einen übermäßig 
+hohen, ggf. zu Beschädigungen führenden Druck des 
+Drucköls gesichert. Der durch den Füllzustand des Spei-
+chers 304 bestimmte Druck in diesem Druckölkreis wird 
+durch einen Drucksensor 310 erfasst. Ferner kann den 
+Abgabeseiten der Ventile 214 und 216 eine Drucksen-
+soranordnung, beispielsweise je ein Drucksensor 311 
+bzw. 313 für beide Ventile, zugeordnet sein, die die jen-
+seits der Ventile herrschenden, auf die hydraulischen 
+Nehmerzylinder wirkenden Hydraulikdrücke erfasst. 
+[0042] Ein weiteres Druckbegrenzungsventil 312 sorgt 
+dafür, dass der jenseits den Ventilen 214 und 216 herr-
+schende, auf die hydraulischen Nehmerzylinder der 
+
+Kupplungseinrichtungen wirkende Druck einen Maximal-
+wert nicht übersteigt, beispielsweise um ebenfalls Be-
+schädigungen vorzubeugen. Über zwei Rückschlagven-
+tile 314 und 316 wird erreicht, dass ein Druckbegren-
+zungsventil ausreicht, um den Betätigungsdruck von bei-
+den hydraulischen Nehmerzylindern zu überwachen. 
+[0043] Zur Gewährleistung einer guten Regelbarkeit/ 
+Steuerbarkeit der Kupplungsbetätigung kann ein jewei-
+liger Hydrodämpfer 307 bzw. 309 (beispielsweise um-
+fassend einen federbelasteten Kolben, eine Metallbalg-
+feder oder dergleichen) parallel zu den beiden hydrauli-
+schen Nehmerzylindern der Kupplungseinrichtungen 
+204 und 206 angeschlossen sein. Durch derartige Hy-
+drodämpfer werden Druckspitzen im Hydrauliksystem 
+abgedämpft. 
+[0044] Für den Fall, dass bei tiefen Temperaturen, also 
+einer hohen Viskosität des Öls, der Druck des Kühlöls 
+zur Kühlung der Kupplung nicht ausreicht, etwa weil die 
+für die Pumpe 209 verwendete hydrodynamische Pumpe 
+keinen hinreichenden Druck erzeugen kann, ist bei der 
+Anordnung gemäß Fig. 2 ein Ventil 315 vorgesehen, über 
+das ein kleiner Volumenstrom aus dem von der Pumpe 
+208 bereitgestellten Druckölstrom abgezweigt werden 
+kann, um eine Art "Notkühlung" der Kupplungsanordnun-
+gen vorzusehen, wenn dies erforderlich ist. Da die ein 
+Öffnen des Ventils 315 erforderlich machende hohe Vis-
+kosität des Kühlöls nur bei tiefen Temperaturen vor-
+kommt, bei denen sowieso nur ein geringer Kühlungs-
+bedarf für die Doppelkupplung besteht, reicht ein relativ 
+kleiner "Notkühlölstrom" aus. Diese "Notkühlung" ist 
+überdies nur solange erforderlich, bis die Temperatur des 
+Öls und damit die Viskosität des Öls ausreicht, um eine 
+hinreichende Förderleistung der Kühlölpumpe 209 zu ge-
+währleisten. Anstelle eines Ventils 315 könnte auch eine 
+sogenannte Blende oder Drossel oder dergleichen vor-
+gesehen sein, über die ständig ein kleiner Volumenstrom 
+aus dem von der Pumpe 208 bereitgestellten Drucköl-
+strom in den Kühlkreislauf abgezweigt wird. Ist das das 
+Kühlöl nur im Bedarfsfall abzweigende Ventil 315 vorge-
+sehen, kann die Pumpe 208 eventuell auch kurzfristig in 
+einem Überlastbetrieb betrieben werden, um in der kur-
+zen Zeitspanne bis zur hinreichenden Erwärmung des 
+Öls ausreichend Kühlöl bereitzustellen. Da es sich in der 
+Regel nur um sehr kurze Bedarfszeiträume handelt, wird 
+die Lebensdauer der Pumpe 208 dadurch nicht wesent-
+lich verkürzt. Um unabhängig vom Betriebszustand der 
+Pumpe 209 zu gewährleisten, dass von der Druckpumpe 
+208 in den Kühlkreislauf geliefertes Öl nicht zurück in 
+den Ölsumpf 212 fließt, kann mit der Pumpe 209 ein 
+Rückschlagventil 317 in Reihe geschaltet, insbesondere 
+der Pumpe nachgeschaltet, sein. 
+[0045] Auch beim Beispiel der Fig. 2 ist das By-
+passventil 232 vorgesehen, um bei tiefen Temperaturen 
+einen Umlaufmodus einstellen zu können, in dem die 
+Pumpe 209 das Kühlöl an der Doppelkupplung 202 vor-
+bei umwälzt. Man kann das Ventil auch so ausführen, 
+dass ein Teil des von der Pumpe 209 bereitsgestellten 
+Kühlölflusses zur Doppelkupplung 202 geführt wird und 
+
+13 
+14 
+
+
+EP 1 544 512 B1 
+
+9 
+
+5 
+
+10 
+
+15 
+
+20 
+
+25 
+
+30 
+
+35 
+
+40 
+
+45 
+
+50 
+
+55 
+
+der andere Teil über die Bypassleitung zum Ölsumpf 212 
+zurückgeführt wird. Damit ist zumindest ein einge-
+schränkter Kupplungsbetrieb bzw. Fahrbetrieb des den 
+Antriebsstrang aufweisenden Kraftfahrzeugs auch im 
+Umwälzmodus möglich. 
+[0046] Fig. 2 zeigt noch eine elektronische Steuerein-
+heit ECU (Bezugszeichen 316), die in Abhängigkeit von 
+einer jeweiligen Führungsgröße die Steuer/ Regel-Ven-
+tile 214 und 216 betätigt. Es kann ferner vorgesehen sein, 
+dass der Steuereinheit Messwerte von diversen Senso-
+ren, beispielsweise vom Drucksensor 310 und anderen 
+Drucksensoren (einschließlich ggf. den Sensoren 311 
+und 313), sowie von Temperaturfühlern oder Tempera-
+tursensoren zugeführt bekommt. Gedacht wird insbe-
+sondere an einen oder mehrere Temperatursensoren, 
+die die Temperatur des Kupplungskühlölkreislaufs (Pum-
+pe 209, Kühler 300 oder Bypassventil 302, Kupplungs-
+einrichtung 202, Sumpf 212) erfasst. Ein entsprechen-
+der, beispielsweise im Kupplungsölsumpf 212 angeord-
+neter und die Temperatur des im Kreislauf umlaufenden 
+bzw. im Sumpf enthaltenen Öls erfassender Sensor 320 
+ist schematisch dargestellt. Die elektronische Steuerein-
+heit kann ferner das auf die Zeiteinheit bezogene För-
+dervolumen der Pumpe 209 oder/und einen durchgelas-
+senen Volumenstrom eines im Kreislauf angeordneten 
+Volumenstrom-Einstellventils (nicht dargestellt) steuern 
+oder regeln, beispielsweise auf Grundlage des vom Sen-
+sor 320 erfassten Temperatursignals. Auf diese Weise 
+kann der Temperaturhaushalt der Kupplungseinrichtung 
+202 bzw. des Kupplungskühlölkreislaufs beeinflusst wer-
+den. Durch Einstellung des Umwälzungsgrads im Kühl-
+kreislauf kann Einfluss auf die Abkühlgeschwindigkeit im 
+Kühler 300 genommen werden (größeres oder kleiners 
+ÄT am Kühler) und es können turbulente Strömungszu-
+stände einerseits oder laminare Strömungsverhältnisse 
+andererseits ausgenutzt werden. 
+[0047] Der Vollständigkeit halber soll noch darauf hin-
+gewiesen werden, dass die mit 322 und 324 bezeichne-
+ten Komponenten in Fig. 2 Ölfilter darstellen. Alternativ 
+oder zusätzlich können Ölfilter auch auf der Abgabeseite 
+der jeweiligen Pumpe 208 bzw. 209 vorgesehen sein. Es 
+versteht sich, dass die elektronische Steuereinheit 216 
+neben den Steuer-Regel-Ventilen 214 und 216 auch die 
+Ventile 232 und 315 situationsabhängig betätigt. 
+[0048] Um nach dem Starten des Kraftfahrzeugs ins-
+besondere bei tiefen Umgebungstemperaturen das 
+Kühlöl und damit die Kupplungseinrichtung bzw. Doppel-
+kupplung 202 auf Betriebstemperaturen zu bringen und 
+insbesondere die Zähflüssigkeit des Kühlöls schnell so-
+weit herabzusetzen, dass das System voll funktionsfähig 
+ist, kann eine elektrische Öl-Erwärmungsanordnung vor-
+gesehen sein, die beispielsweise wenigstens ein Heize-
+lement 326 im Ölsumpf 212 oder/und wenigstens ein in 
+die Ansaugleitung der Pumpe 209, beispielsweise in den 
+Filter 322, integriertes Heizelement 327 aufweist. Auch 
+in die Ansaugleitung der Pumpe 208, beispielsweise in 
+den Filter 224, kann wenigstens ein Heizelement inte-
+griert sein. Als Heizelemente können beispielsweise et-
+
+wa 30 mm x 50 mm große Heizplättchen verwendet wer-
+den, die auf ihrer Oberfläche eine Art Heizwendel auf-
+weisen und z. B. eine Heizleistung von ca. 300 W abge-
+ben können. Auch andersartige Heizelemente, beispiels-
+weise in der Art von Glühkerzen für Dieselmotoren, sind 
+einsetzbar. Eine andere Möglichkeit ist, eine Wärmeen-
+ergiespeicheranordnung, etwa ein sogenannter Latenz-
+speicher, vorzusehen. 
+[0049] Durch Integration wenigstens eines Heizele-
+ments in einen jeweiligen Ansaugtrakt der Kühlölpumpe 
+209 oder/und der Druckölpumpe 208 kann gezielt das 
+tatsächlich gepumpte Öl erwärmt werden, ohne dass 
+zwangsweise das gesamte Ölvolumen erwärmt werden 
+muss. Dementsprechend wird elektrische Energie ge-
+spart. Ferner kann gewährleistet werden, dass nur vor-
+gewärmtes Öl von der betreffenden Pumpe gepumpt 
+wird. 
+[0050] Fig. 3 zeigt das Kupplungssystem der Fig. 2 
+(nicht alle Komponenten sind gezeigt) in Kombination mit 
+einem Doppelkupplungsgetriebe 330. Das vorzugsweise 
+automatisiert betätigbare Getriebe 330 kann einen eige-
+nen, gegenüber dem Kühlölkreislauf der Kupplungsein-
+richtung 202 gesonderten Kühlölkreisölauf aufweisen, 
+beispielweise von der in Fig. 4 dargestellten Art. Eine 
+von einem Motor 211' angetriebene Ölpumpe 209' saugt 
+Kühlöl aus einem Reservoir (dem Getriebesumpf) 212' 
+an. Das geförderte Kühlöl wird normalerweise über einen 
+Kühler 300' den zu kühlenden Komponenten des Getrie-
+bes 330 zugeführt. Zur Vermeidung von zu hohen Drük-
+ken im Kühlölkreislauf bei tiefen Temperaturen ist ein 
+beispielweise druckbetätigtes Bypassventil 302' vorge-
+sehen, das bei Überschreitung einer Druckschwelle eine 
+den Kühler 300' umgehende Bypassleitung freigibt. Der 
+Getriebekühlölkreislauf entspricht insoweit dem Kupp-
+lungskühlölkreislauf gemäß Fig. 2 und 3. Der Kühler 300' 
+mit der Bypassleitung kann, wie in Fig. 4 gezeigt, zwi-
+schen der Pumpe 209' und dem Getriebe (ggf. Automa-
+tik-Getriebe) 330 angeordnet sein. Es ist aber auch denk-
+bar, dass Kühler und Bypass-Schaltung dem Getriebe 
+bzw. Getriebe-Automat nachgeschaltet sind. Dem Ge-
+triebekühlölkreislauf kann ein Temperatursensor 320' 
+zugeordnet sein, der die Temperatur des umlaufenden 
+Kühlöls misst und entsprechende Messwerte beispiels-
+weise an die elektronische Steuereinheit ECU der Fig. 2 
+liefert. Gemäß Fig. 3 und 4 ist der Temperatursensor 320' 
+im Getriebesumpf 212' angeordnet. 
+[0051] In Abweichung von den vorstehenden Ausfüh-
+rungen zu Figuren 3 und 4 kann man für die Doppelkupp-
+lung und das Getriebe auch einen gemeinsamen bzw. 
+situationsabhängig zusammenschaltbaren Kühlölkreis-
+lauf vorsehen. 
+[0052] Anstelle des druckbetätigten Bypassventils 302 
+im Falle des Kupplungskühlölkreislaufs bzw. 302' im Fal-
+le des Getriebekühlölkreislaufs kann ein elektrische be-
+tätigbares Umschaltventil, beispielsweise ein 3-2-Wege-
+Ventil vorgesehen sein, um bedarfsabhängig bzw. ge-
+mäß einer Wärmemanagement-Strategie (etwa zum ge-
+zielten Erreichen und Halten einer Soll-Betriebstempe-
+
+15 
+16 
+
+
+EP 1 544 512 B1 
+
+10 
+
+5 
+
+10 
+
+15 
+
+20 
+
+25 
+
+30 
+
+35 
+
+40 
+
+45 
+
+50 
+
+55 
+
+ratur) eine den Kühler 300 umgehende Bypassleitung 
+freizugeben, so dass das Kühlöl an dem Kühler 300 bzw. 
+300' vorbei zur Doppelkupplung 202 bzw. zu den zu küh-
+lenden Getriebekomponenten geführt wird, bzw. diese 
+Bypassleitung wieder zu sperren. 
+[0053] Die Doppelkupplung 202 kann vorteilhaft nach 
+einem Starten des Kraftfahrzeugs, beispielsweise im Fal-
+le von tiefen Umgebungstemperaturen, mit definiertem 
+Schlupf betrieben werden, um das Kühlöl möglichst 
+schnell auf Betriebstemperatur aufzuwärmen. Die Auf-
+wärmung des Kühlöls erfolgt durch im Schlupfbetrieb an 
+den Lamellen auftretende Reibung. Um eine Überhit-
+zung des betreffenden Lamellenpakets bzw. der Doppel-
+kupplung zu vermeiden und die gewünschte Erwärmung 
+des Kühlöls möglichst schnell zu erreichen, sollte wäh-
+rend des Schlupfbetriebs ständig ein beispielsweise von 
+der Pumpe 209 bereitgestellter Kühlölstrom fließen. 
+[0054] Die insbesondere bei niedrigen Außentempe-
+raturen bei einem etwa im freien abgestellten Kraftfahr-
+zeug auftretende hohe Viskosität eines verwendeten 
+Kühlöls kann durchaus erhebliche Probleme verursa-
+chen. Durch die bei tiefen Temperaturen (etwa Öltem-
+peraturen kleiner als 0°C) auftretende erhöhte Zähigkeit 
+des Öls können in den Lamellen-Kupplungsanordnun-
+gen sehr hohe Schleppmomente auftreten (bis zu Werten 
+größer als 25 Nm) gegenüber bei Betriebstemperatur 
+(ca. 90°C) auftretenden Schleppmomenten beispiels-
+weise kleiner als 2 Nm. Ferner können auf Grund von 
+durch zwischen den Lamellen befindliches Öl zusam-
+menklebenden Lamellen Losbrech-bzw. Loslösmomen-
+te bis über 50 Nm auftreten. In Folge der hohen Schlepp-
+bzw. Losbrechmomente kann ein Einlegen eines Gan-
+ges praktisch unmöglich werden, weil herkömmliche 
+Synchronisiereinrichtungen des Getriebes nicht für die 
+Überwindung derartig hoher Momente ausgelegt sind. 
+Kann man keine Gänge einlegen bzw. nicht schalten, so 
+ist eine Bewegung des Kraftfahrzeugs nicht möglich. 
+[0055] Fig. 5a zeigt einen typischen bzw. exemplar-
+ischen Verlauf des bei tiefen Temperaturen in der Kup-
+plungseinrichtung auftretenden Schleppmoments auf 
+Grund von zwischen den Lamellen befindlichem Kühlöl 
+entsprechend hoher Viskosität als Funktion der Differen-
+zdrehzahl Än zwischen Eingangsseite und Ausgangs-
+seite der betreffenden Kupplungsanordnung. Fig. 5b 
+zeigt das bei tiefen Temperaturen auftretende Losbrech-
+moment auf Grund von zusammenklebenden Lamellen 
+und den Übergang zum Schleppmoment gemäß Fig. 5a. 
+Ergänzend wird auf den Aufsatz "Schleppmomente an 
+nasslaufenden Lamellenbremsen" von N. Holzer und D. 
+Frey, Friedrichshafen, sowie B. Matthes, Heidelberg, in 
+VDI BERICHTE 1323, Seiten 469 bis 489 auf Grund einer 
+Tagung der VDI-Gesellschaft Entwicklung Konstruktion 
+Vertrieb am 03. und 04.03.1997 in Fulda "Kupplungen in 
+Antriebssystemen '97" verwiesen. 
+[0056] Fig. 6 zeigt ein Beispiel für eine herkömmliche 
+Einkonus-Synchroniserung nach dem System Borg-
+Warner (ZF) mit einem nadelgelagerten Losrad A, einem 
+Kupplungskörper B mit Schaltverzahnung und Reibko-
+
+nus, einem Hauptfunktionsträger -Synchronring C mit 
+Gegenkonus und Sperrverzahnung, einem Synchron-
+körper D mit Innenverzahnung für den Formfluss mit ei-
+ner Getriebewelle und Außenverzahnung für die Schalt-
+muffe, eine Druckfeder E, einem Kugelbolzen F, einem 
+Druckstück G und einer Schaltmuffe H mit Klaueninnen-
+verzahnung. Würde man versuchen, bei stehendem 
+Kraftfahrzeug und nicht laufendem Motor einen Gang 
+einzulegen, so kann es passieren, dass das Einlegen 
+des Ganges daran scheitert, dass die Schaltverzahnung 
+des Kupplungskörpers des jeweiligen Gangrats mit den 
+Zahnflanken des zugehörigen Gegenrads der Schalt-
+muffe der Synchroneinrichtung zusammentrifft, so dass 
+die Verzahnungen nicht in Mitnahmeeingriff treten kön-
+nen. Das Einlegen eines Ganges ist also nur dann mög-
+lich, wenn die Schaltverzahnung des Kupplungskörpers 
+auf die Zahnzwischenräume des zugehörigen Gegen-
+rads trifft. 
+[0057] Damit ist es bei herkömmlicher Ausbildung der 
+zugeordneten Aktuatorik kein echter Lösungsansatz, 
+wenn man daran denken sollte, zur Vermeidung des Ein-
+legeproblems bei tiefen Temperaturen auf Grund nicht 
+für die Überwindung der Schleppmomente ausgelegten 
+Synchronsiereinrichtungen einen Anfahrgang bei ste-
+hendem Kraftfahrzeug im Zustand noch nicht laufender 
+Antriebseinheit einzulegen. 
+[0058] In Fig. 7 ist ein Doppelkupplungsgetriebe 330 
+schematisch dargestellt, dass sieben Gänge, nämlich 
+sechs Vorwärtsgänge G1, G2, G3, G4, G5 und G6 und 
+ein Rückwärtsgang R aufweist. Den Vorwärtsgängen ist 
+jeweils ein Zahnradpaar, bestehend aus einem Antriebs-
+rad 400-1, 400-2, 400-3, 400-4, 400-5 und 400-6 und 
+einem Abtriebsrad 402-1, 402-2, 402-3, 402-4, 402-5 und 
+402-6, zugeordnet. Der Rückwärtsgang R weist zusätz-
+lich zu einem Antriebsrad 400-R und einem Abtriebsrad 
+402-R ein die Drehrichtung umkehrendes Zwischenrad 
+404 auf, das mit dem Antriebsrad 400-R und dem Ab-
+triebsrad 402-R kämmt. Die den Gängen G2, G4 und G6 
+zugeordneten Antriebsräder sind drehfest mit einer radial 
+äußeren Getriebeeingangswelle 406 verbunden und die 
+den Gängen G1, G3, G5 und R zugeordneten Antriebs-
+räder sind drehfest mit einer radial inneren Getriebeein-
+gangswelle 408 verbunden. Die jeweiligen Abtriebsräder 
+sind drehbar auf einer Getriebeausgangswelle 410 ge-
+lagert und mit dieser zur Schaltung der Gänge über zu-
+geordnete Schalt-und Synchronisiervorrichtungen 
+412a, 412b, 412c und 412d drehfest verbindbar. Die 
+Schalt-und Synchronsiervorrichtungen 412a, 412c und 
+412d sind doppelseitig wirksam ausgebildet, d.h., dass 
+durch diese jeweils alternativ einer von zwei Gängen 
+schaltbar ist, im Falle der Synchronisiervorrichtung 412a 
+der erste Vorwärtsgang G1 oder der Rückwärtsgang R, 
+im Falle der Synchronisiervorrichtung 412c der dritte Vor-
+wärtsgang G3 oder der fünfte Vorwärtsgang G5 und im 
+Falle der Synchronsiervorrichtung 412d der vierte Vor-
+wärtsgang G4 oder der sechste Vorwärtsgang G6. Die 
+Synchronisiervorrichtung 412b hingegen ist nur einseitig 
+wirksam ausgebildet und dient zum Schalten nur des 
+
+17 
+18 
+
+
+EP 1 544 512 B1 
+
+11 
+
+5 
+
+10 
+
+15 
+
+20 
+
+25 
+
+30 
+
+35 
+
+40 
+
+45 
+
+50 
+
+55 
+
+zweiten Vorwärtsgangs G2. 
+[0059] Wie aus der schematischen Figur ersichtlich 
+bzw. schon erwähnt, sind die Getriebeeingangswellen 
+406 und 408 koaxial zueinander angeordnet, und es sind 
+die ungeradzahligen Gänge G1, G3 und G5 und der 
+Rückwärtsgang R der zentral angeordneten Getriebe-
+eingangswelle 408 und die geradzahligen Gänge G2, G4 
+und G6 der als Hohlwelle ausgebildeten Getriebeein-
+gangswelle 406 zugeordnet. Die beiden Getriebeein-
+gangswellen stehen jeweils mit nur einer der Kupplungs-
+anordnungen 204 und 206 in Verbindung, beispielsweise 
+die Getriebeeingangswellen 406 mit der Ausgangsseite 
+der Kupplungsanordnung 206 und die Getriebeein-
+gangswelle 208 mit der Ausgangsseite der Kupplungs-
+anordnung 204. Die Eingangsseiten der beiden Kupp-
+lungsanordnungen stehen jeweils mit der Abtriebswelle 
+der Antriebseinheit, beispielsweise ein Verbrennungs-
+motor, in Verbindung. 
+[0060] Während des normalen Fahrbetriebs ist einer 
+der Getriebegänge eingelegt und die diesem zugeord-
+nete Kupplungsanordnung geschlossen. Bei einem 
+Schaltvorgang wird zuerst ein Zielgang, beispielsweise 
+der nächsthöhere oder nächstniedrige Vorwärtsgang, 
+geschaltet und dann erfolgt vorzugsweise die an sich be-
+kannte Überschneidungsschaltung, bei der das Antriebs-
+moment von der einen zur anderen Getriebeeingangs-
+welle verlagert wird, um ein zugkraftunterbrechungsfrei-
+es Schalten vorzusehen. 
+[0061] Beim gezeigten Ausführungsbeispiel ist das 
+Doppelkupplungsgetriebe 330 als automatisiertes 
+Schaltgetriebe ausgebildet. Dazu ist den Schalt-und 
+Synchronisiervorrichtungen 412a bis 412d jewiels ein 
+beispielsweise elektromotorischer Schaltstellantrieb 
+414a, 414b, 414c bzw. 414d zugeordnet, die auf die je-
+weilige Schalt-und Synchronisiervorrichtung wirken, bei-
+spielsweise durch eine kraft-oder/und formschlüssige 
+Betätigungsverbindung. Durch die Schaltstellantriebe 
+können die Schalt-und Synchronisiervorrichtungen in 
+axialer Richtung bewegt und mit Stellkräften beauftragt 
+werden, wie durch die Doppelpfeile angedeutet ist. An 
+den Abtriebsrädern und den Schalt-und Synchronisier-
+vorrichtungen sind Mitnahmeformationen 416 und 418 
+schematisch dargestellt, die zur Kopplung des jeweiligen 
+Abtriebsrads mit der Getriebeausgangswelle 410 in ge-
+genseitigen Eingriff treten. 
+[0062] Die Schaltstellantriebe sind über zugeordnete 
+Steuerleitungen mit der Steuereinrichtung 316 verbun-
+den und durch diese ansteuerbar. Eine Drehzahl der Ge-
+triebeausgangswelle bzw. Getriebeabtriebswelle 410 
+kann durch einen Drehzahlsensor 420 detektiert werden. 
+Es können ferner noch einer jeweiligen der beiden Ge-
+triebeingangswellen zugeordnete und deren Drehzahl 
+erfassende Drehzahlsensoren 422 und 424 vorgesehen 
+sein, so dass die Steuereinrichtung 316 ggf. Informatio-
+nen über alle drei Drehzahlen erhält. Eine andere, alter-
+nativ oder zusätzlich vorzusehende Möglichkeit ist, dass 
+die Drehzahl der Abtriebswelle der Antriebseinheit durch 
+einen mit der Steuereinrichtung verbundenen Drehzahl-
+
+sensor erfasst wird. 
+[0063] Zur Erleichterung des Einlegens von Gängen 
+bei einem mit ausgelegten Gängen abgestellten Kraft-
+fahrzeug sind die die Betätigungsverbindungen herstel-
+lenden, beispielsweise in der Art von Schaltgabeln aus-
+geführten Verbindungs-und Betätigungselemente zwi-
+schen den Schalt-und Synchronisiervorrichtungen und 
+dem jeweiligen Schaltstellantrieb elastisch ausgeführt, 
+beispielsweise mit einem jeweiligen Federabschnit 430. 
+Wird bei stehendem Kraftfahrzeug und noch nicht lau-
+fendem Motor durch einen entsprechenden Befehl von 
+der Steuereinrichtung 316 ein Schaltstellantrieb, bei-
+spielsweise der Schaltantrieb 414a, im Sinne eines Ein-
+legens des ersten Gangs oder des Rückwärtsgangs be-
+tätigt, so wird entweder unmittelbar der Gang eingelegt, 
+sofern die Mitnahmeformationen des betreffenden Ab-
+triebsrads und die zugeordneten Mitnahmeformationen 
+der betreffenden Schalt-und Synchronisiervorrichtung 
+in gegenseitigen Eingriff treten (also, wenn beispielswei-
+se die Zähne der einen Verzahnung auf die Zahnzwi-
+schenräume der anderen Verzahnung treffen), oder der 
+Gang wird nicht eingelegt, wenn die sogenannten Mit-
+nahmeformationen nicht in gegenseitigen Eingriff treten 
+können. 
+[0064] Ist ein derartiger Eingriff nicht möglich (etwa 
+weil die Zähne der einen Verzahnung auf die Zähne der 
+anderen Verzahnung treffen), so wird der als Kraftspei-
+cher dienende Federspeicher 430 gespannt. Wird nun 
+der Anlasser bei geöffneten Kupplungen betätigt, so wird 
+unter der Voraussetzung tiefer Temperaturen, also des 
+Auftretens von Losbrech-oder/und Schleppmomenten 
+in den Kupplungsanordnungen, den kupplungs-bzw. 
+motorseitigen Zahnrädern eine Drehbewegung erteilt, 
+weil der Antriebsstrang auf Grund der Losbrech-bzw. 
+Schleppmomente trotz geöffneter Kupplungsanordnun-
+gen nicht vollständig vom Motor getrennt ist. Die Zahn-
+räder auf der Getriebeabtriebsseite stehen hingegen, da 
+eine Parksperre eingelegt ist oder/und das Fahrzeug bei 
+entriegelter Parksperre steht. Es kommt damit zu einer 
+Relativ-Drehbewegung zwischen den Abtriebsrädern ei-
+nerseits und den zugeordneten Schalt-und Synchroni-
+siervorrichtungen, die diese in eine relative Drehstellung 
+bringt, in der die Mitnahmeformationen in gegenseitigen 
+Eingriff treten (etwa weil die Zähne der einen Verzahnung 
+auf die Zahnzwischenräume der anderen Verzahnung 
+treffen). Damit ist ein Einlegen eines Gangs im Falle ei-
+nes mit ausgelegten Gängen abgestellten Kraftfahr-
+zeugs auch bei tiefen Temperaturen möglich. 
+[0065] Alternativ oder zusätzlich können die Schalt-
+stellantriebe auch dafür ausgebildet sein, für kurze Zeit-
+räume gegenüber normalen Stellkräften vergößerte 
+Stellkräfte aufzubringen, die im Dauerbetrieb die Schalt-
+und Synchronisiervorrichtungen übermäßig belasten 
+würden, aber für spezielle Situationen (wie etwa eine ho-
+he Viskosität des den Lamellen-Kupplungsanordnungen 
+zugeordneten Kühlöls auf Grund niedriger Temperatur) 
+vorteilhaft ein Gangeinlegen bzw. Gangwechseln ermög-
+lichen. Eine gewisse Reduzierung der Lebensdauer der 
+
+19 
+20 
+
+
+EP 1 544 512 B1 
+
+12 
+
+5 
+
+10 
+
+15 
+
+20 
+
+25 
+
+30 
+
+35 
+
+40 
+
+45 
+
+50 
+
+55 
+
+Schalt-und Synchroniservorrichtungen könnte man not-
+falls in Kauf nehmen, da derartige Situationen in der Re-
+gel nur selten vorkommen werden. Überdies kann die 
+Steuereinrichtung 316 dafür ausgelegt sein, die überhöh-
+ten Betätigungskräfte nur für kurze Zeitintervalle und un-
+ter bestimmten Bedingungen einzustellen, so dass in der 
+Praxis keine nennenswerte Verkürzung der Lebensdau-
+er der Schalt-und Synchronisiervorrichtungen eintreten 
+wird. 
+[0066] Die Steuereinrichtung 316 kann auch einen Be-
+tätigungsmodus aufweisen, in dem beim Schalten von 
+einem Ausgangsgang zu einem Zielgang die dem Ziel-
+gang zugeordnete Getriebeeingangswelle nicht nur 
+durch die dem Zielgang zugeordnete Schalt-und Syn-
+chronisiervorrichtung, sondern auch durch eine andere 
+Schalt-und Synchronisiervorrichtung, die an sich dafür 
+vorgesehen ist, beim Schalten zu einem der gleichen Ge-
+triebeeingangswelle zugeordneten, vom Zielgang ver-
+schiedenen Gang tätig zu werden. Beispielsweise könn-
+te zur Vorbereitung und beim Einlegen des ersten Gangs 
+G1 nicht nur die Schalt-und Synchronisiervorrichtung 
+412a sondern zusätzlich auch die Schalt-und Synchro-
+nisiervorrichtung 412c betätigt werden, damit diese Vor-
+richtungen gemeinsam die Getriebeingangswelle 408 ei-
+ner Drehzahl zumindest anzunähern, die der momenta-
+nen Fahrzeuggeschwindigkeit unter Berücksichtigung 
+der Getriebübersetzung im Zielgang (im Beispielsfall der 
+erste Gang) entspricht. Umgekehrt kann zum Einlegen 
+des dritten Gangs G3 oder des fünften Gangs G5 neben 
+der Schalt-und Synchronisiervorrichtung 412c zusätz-
+lich die Schalt-und Synchronisiervorrichtung 412a in die-
+sem Sinne betätigt wird. Entsprechendes gilt für die der 
+Getriebeeingansgwelle 406 zugeordneten Gänge G2, 
+G4 und G6. Es können jeweils zwei Schalt-und Synchro-
+nisiervorrichtungen (412b und 412d) bzw. (412a und 
+412c) in diesem Sinne gleichzeitig betätigt werden. 
+[0067] Es ist allerdings Sorge zu tragen, dass nicht 
+versehentlich der falsche Gang eingelegt wird. Dies kann 
+beispielsweise dadurch vermieden werden, dass die 
+Steuereinrichtung 316 die Drehzahl der betreffenden Ge-
+triebeeingangswelle und der Getriebeausgangswelle 
+420 (oder/und der Abtriebswelle der Antriebseinheit) un-
+ter Berücksichtigung der Getriebeübersetzungen, insbe-
+sondere der Getriebeübersetzung des nicht einzulegen-
+den Gangs, miteinander vergleicht und vor Erreichen des 
+Synchronpunktes des nicht einzulegenden Gangs die 
+auf die diesem nicht einzulegenden Gang zugeordnete 
+Schalt-und Synchronsiervorrichtung wirkende Betäti-
+gungskräfte aufhebt oder zumindest hinreichend redu-
+ziert. 
+[0068] Durch die an der dem nicht einzulegenden 
+Gang zugeordneten Schalt-und Synchronisiervorrich-
+tung auftretende Reibarbeit kann auch bei tiefen Tem-
+peraturen trotz in der Kupplungseinrichtung 202 auftre-
+tenden Schleppmomenten ein Gang eingelegt werden 
+bzw. von einem Ausgangsgang zu einem Zielgang ge-
+schaltet werden. 
+[0069] Die Steuereinrichtung 316 ist vorteilhaft dafür 
+
+ausgelegt, über die Schaltstellantriebe gleichzeitig we-
+nigstens zwei Gänge einzulegen. Es wird insbesondere 
+daran gedacht, dass eine Parksperre dadurch realisiert 
+ist, dass auf der gleichen Getriebeeingangswelle zwei 
+Getriebegänge eingelegt werden. Diese Maßnahme ist 
+an sich aus der nicht vorreröffentlichte DE 199 50 696 
+A1 bekannt. 
+[0070] Vorteilhaft können aber auch wenigstens ein 
+Gang auf der einen Getriebeingangswelle und wenig-
+stens ein Gang auf der anderen Getriebeeingangswelle 
+eingelegt werden, wobei vorzugsweise wenigstens ein 
+Vorwärtsgang und der Rückwärtsgang zu den eingeleg-
+ten Gängen gehören. Diese Gänge werden vorzugswei-
+se vollautomatisch durch die Steuereinrichtung einge-
+legt, wenn das Kraftfahrzeug abgestellt wird. Soll dann 
+wieder losgefahren werden, so könnte es sein, dass auf 
+Grund zu niedriger Außentemperaturen große Schlepp-
+momente in der Kupplungseinrichtung auftreten, so dass 
+kein Gang mehr eingelegt werden kann (es sei denn, 
+dass die obigen Vorschläge realisiert sind). Sind hinge-
+gen, wie hier vorgeschlagen, der Rückwärtsgang auf der 
+einen Getriebeeingangswelle und wenigstens ein Vor-
+wärtsgang auf der anderen Getriebeeingangswelle ein-
+gelegt, so kann durch Einkuppeln der einen und Ausge-
+kuppelthalten bzw. Auskuppeln der anderen Kupplungs-
+anordnung entweder der Vorwärtsgang oder der Rück-
+wärtsgang zum Anfahren aktiviert werden. Für viele Si-
+tuationen wird es auch ausreichen, wenn nur ein Gang, 
+etwa der Vorwärtsgang, eingelegt wird, vorzugsweise 
+automatisch durch die Steuereinrichtung 316. 
+[0071] Abgesehen von dem Aspekt der Parksperre 
+macht es durchaus auch in anderer Hinsicht Sinn, auf 
+wenigstens einer der Getriebeeingangswellen, vorzugs-
+weise auf beiden Getriebeeingangswellen, mehrere 
+Gänge einzulegen, wenn das Kraftfahrzeug abgestellt 
+wird. Dies ermöglicht nämlich zum Anfahren eine Aus-
+wahl aus mehreren Gängen. Es sind dann alle nicht be-
+nötigten Gänge auszulegen, beispielsweise alle Vor-
+wärtsgänge bis auf einen Anfahrgang und den Rück-
+wärtsgang. 
+[0072] Um beim Anlassen des Motors eine unkontrol-
+lierte Bewegung des Kraftfahrzeugs auf Grund wenig-
+stens eines eingelegten Gangs und der bei tiefen Tem-
+peraturen auftretenden Schleppmomente bzw. Losreis-
+momente in der Kupplungseinrichtung zu vermeiden, ist 
+vorzugsweise eine Sicherheitsfunktionalität der Steuer-
+einrichtung 316 vorgesehen. Die Steuereinrichtung 316 
+kann beispielsweise ein Starten des Motors nur dann zu-
+lassen, wenn gleichzeitig die Fußbremse 450 (vgl. Fig. 
+1b) betätigt wird. Das Starten oder nicht Starten kann 
+auch von der momentanen Stellung des Schalthebels 
+452 abhängig gemacht werden, beispielsweise ein Star-
+ten nur im Parkmodus P erlaubt werden. 
+[0073] Ferner ist es aus Sicherheitsgründen vorteil-
+haft, wenn die Sicherheitsfunktionalität die Aufhebung 
+des Parkmodus, in dem beispielsweise zwingend eine 
+Parksperre aktiviert ist, und den Wechsel in den Rück-
+wärtsfahrmodus R bzw. den Vorwärtsfahrmodus D trotz 
+
+21 
+22 
+
+
+EP 1 544 512 B1 
+
+13 
+
+5 
+
+10 
+
+15 
+
+20 
+
+25 
+
+30 
+
+35 
+
+40 
+
+45 
+
+50 
+
+55 
+
+entsprechender Betätigung des Schalthebels 452 nur 
+dann zulässt, wenn gleichzeitig die Fußbremse 450 be-
+tätigt wird. Hierdurch wird verhindert, dass es zu einer 
+unkontrollierten Bewegung des Kraftfahrzeugs kommt, 
+wenn die Parksperre ausgelegt bzw., im Falle von noch 
+nicht eingelegten Gängen, ein Vorwärts-Anfahrgang 
+oder der Rückwärtsgang eingelegt wird. Eine andere 
+Möglichkeit ist, dass das Aufheben des Parkmodus bzw. 
+-im Falle von noch nicht eingelegten Gängen -das Ein-
+legen eines Gangs mit einer Betätigung des Fahrzeug-
+Bremssystems 454 zwangsgekoppelt ist. Trotz nicht be-
+tätigtem Bremspedal wird dann automatisch dafür ge-
+sorgt, dass die Fahrzeugbremsen betätigt werden, um 
+eine unkontrollierte Bewegung des Fahrzeugs zu ver-
+meiden. 
+[0074] Man kann vorsehen, dass auf Grundlage der in 
+der Kupplungseinrichtung auftretenden Schleppmomen-
+te eine Fahrzeug-Kriechfunktion bereitsgestellt wird. 
+Hierzu kann die Steuereinrichtung 316 eine entspre-
+chende Kriech-Funktionalität aufweisen. 
+[0075] Vorzugsweise ist eine Kompensation der auf 
+die Fahrzeugräder wirkenden Kupplungs-Schleppmo-
+mente zu Null oder einem Kriechwert oder einem Berg-
+haltewert (im Fall einer Fahrzeug-Berghaltefunktion) vor-
+gesehen, und zwar beispielsweise vermittels des Fahr-
+zeug-Bremssystems oder/und vermittels einer aufeinan-
+der abgestimmten Betätigung der beiden Kupplungsan-
+ordnungen in dem Falle, dass auf der der einen Kupp-
+lungsanordnung zugeordneten Getriebeeingangswelle 
+ein Vorwärtsgang und auf der der anderen Kupplungs-
+anordnung zugeordneten Getriebeeingangswelle der 
+Rückwärtsgang eingelegt ist. Allgemein gesprochen, 
+kann mittels des Fahrzeug-Bremssystems oder durch 
+entsprechende Betätigung wenigstens einer der Kupp-
+lungsanordnungen ein an den Fahrzeugrädern wirksa-
+mes Antriebsmoment auf Grund von Kupplungs-
+Schleppmomenten oder/und Kupplungs-Lamellenhaft-
+momenten zu Null oder einem Sollwert kompensiert wer-
+den, indem die Steuereinheit 316 das Fahrzeugbrems-
+system 454 oder/und die Kupplungseinrichtung 202 bzw. 
+die betreffende Kupplungsanordnung entsprechend an-
+steuert. 
+[0076] Es wird im Folgenden noch einmal auf den Zu-
+stand Bezug genommen, bei dem gleichzeitig ein Vor-
+wärtsgang und gleichzeitig ein Rückwärtsgang eingelegt 
+sind. Vorzugsweise können diese Gänge beim Anfahren 
+und beim anschließenden Fahren des Kraftfahrzeugs 
+eingelegt bleiben, und es kann durch gegenläufige Be-
+tätigung der beiden Kupplungsanordnungen zwischen 
+dem Vorwärtsgang und dem Rückwärtsgang gewechselt 
+werden, ohne dass es einer Betätigung des Getriebes 
+bedarf. So lange der Rückwärtsgang eingelegt ist, sollte 
+durch eine Sicherheitsfunktionalität der Steuereinrich-
+tung 316 dafür gesorgt werden, dass eine maximale 
+Fahrzeuggeschwindigkeit nicht überschritten wird. Man 
+kann aber auch ein automatisches Auslegen des Rück-
+wärtsgangs für den Fall vorsehen, dass die Fahrzeug-
+geschwindigkeit einen Schwellenwert übersteigt. 
+
+[0077] Die Steuereinrichtung 316 kann vorteilhaft ei-
+nen Aktiv-Synchronsiermodus aufweisen, in dem durch 
+entsprechende Ansteuerung des Motors (allgemein der 
+Antriebseinheit) oder/und durch entsprechende Betäti-
+gung der Kupplungsanordnungen die Drehzahl der dem 
+Zielgang zugeordneten Getriebeeingangswelle dem 
+Synchronverhältnis des Zielgangs zumindest angenä-
+hert, vorzugsweise die Drehzahl dieser Getriebeein-
+gangswelle auf das Synchronverhältnis des Zielgangs 
+gebracht wird, um dann das Einlegen des Zielgangs zu 
+erleichtern bzw. zu ermöglichen. Die Schalt-und Syn-
+chronisiervorrichtungen werden dann entsprechend ge-
+schont, und es bedarf nicht unbedingt des Einsatzes von 
+mehreren Schalt-und Synchronisiervorrichtungen 
+gleichzeitig, und es kann auch auf das Einlegen eines 
+Ganges unter Ausnutzung einer Vorspannung der Betä-
+tigungsverbindung zwischen der betreffenden Schalt-
+und Synchronisiervorrichtung und dem zugeordneten 
+Schaltstellantrieb verzichtet werden. Eine Zugkraftunter-
+brechung während des Schaltens ist bei diesem Aktiv-
+Synchronsiermodus in Kauf zu nehmen. 
+[0078] Fig. 8 zeigt ein Beispiel für einen Schaltablauf 
+bei einer Zug-Rückschaltung, der ein zugkaftunterbre-
+chungsfreies Rück-Schalten ermöglicht, ohne dass an 
+den Schalt-und Synchronsiervorrichtungen zur Synchro-
+nisierung der dem Zielgang zugeordneten Getriebeein-
+gangswelle übermäßige Reibarbeit geleistet werden 
+muss, selbst bei großen Schleppmomenten in der Kupp-
+lunsgeinrichtung. 
+[0079] Der Fig. 8 liegen die folgenden Annahmen und 
+die folgende Nomenklatur zu Grunde: 
+
+Es wird auf Getriebeeingangswellen 1 und 2, Kupp-
+lungen 1 und 2 und Gänge 1 und 2 Bezug genom-
+men. Die Getriebeeingangswelle 1 kann die Getrie-
+beeingangswelle 406 und die Getriebeeingangswel-
+le 2 kann die Getriebeeingangswelle 408 sein, oder 
+umgekehrt. Dementsprechend kann die Kupplung 1 
+der Kupplungsanordnung 204 und die Kupplung 2 
+der Kupplungsanordnung 206 entsprechen, oder 
+umgekehrt. Gang 1 ist ein der Getriebeeingangswel-
+le 1 zugeordneter Gang (der Ausgangsgang) und 
+Gang 2 ist ein der Getriebeeingangswelle 2 zuge-
+ordneter Gang (der Zielgang). Es wird in einem Zug-
+Betriebszustand von einem größeren, der Getriebe-
+eingangswelle 1 zugeordneten Gang 1 zu einem 
+kleineren, der Getriebeeingangswelle 2 zugeordne-
+ten Gang 2 geschaltet. 
+
+[0080] Bei der Schaltungsart Zug-Rück liefert der Mo-
+tor ein positives Moment an das Getriebe. Dieses Mo-
+ment wird über die Getriebeeingangswelle 1 übertragen. 
+Die Kupplung 1 ist mit der Getriebeeingangswelle 1 ver-
+bunden, die Kupplung 2 ist mit der Getriebeeingangswel-
+le 2 verbunden. Im Ausgangszustand ist die Kupplung 1 
+vollständig geschlossen und befindet sich somit in Über-
+anpressung. Die Kupplung 2 ist beim gezeigten Beispiel 
+im Ausgangszustand offen. Die Getriebeeingangswelle 
+
+23 
+24 
+
+
+EP 1 544 512 B1 
+
+14 
+
+5 
+
+10 
+
+15 
+
+20 
+
+25 
+
+30 
+
+35 
+
+40 
+
+45 
+
+50 
+
+55 
+
+1 dreht sich damit im Ausgangszustand mit der Motor-
+drehzahl. Auf der Getriebeeingangswelle 1 ist ein Gang 
+eingelegt, so dass Kraftfluss zwischen der Getriebeein-
+gangswelle 1 und der Getriebeausgangswelle hergestellt 
+ist. 
+[0081] Ein bevorzugter, fünf Schaltphasen umfassen-
+der Schaltablauf ist in Fig. 8 schematisch dargestellt. Die 
+Phasen sind in Fig. 8 durch arabische Ziffern 1 bis 5 in 
+Kreisen bezeichnet und werden im Folgenden als Pha-
+sen I bis V angesprochen. Mögliche Varianten und Aus-
+gestaltungen der Schaltphasen sind in der Fig. gestri-
+chelt dargestellt. Zur Unterscheidung der verschiedenen 
+Kurven und Kurvenabschnitte sind diese mit den Ken-
+nungen N Mo für die Motordrehzahl, N G1 für die Drehzahl 
+der Getriebeeingangswelle 1, N G2 für die Drehzahl der 
+Getriebeeingangswelle 2, M Mo für das Motormoment, 
+M K1 für das Moment der Kupplung 1 und M K2 für das 
+Moment der Kupplung 2 versehen. Ein sich aus der po-
+sitiven Längsbeschleunigung (vgl. unterstes Teildia-
+gramm) des Kraftfahrzeugs ergebender, die Änderung 
+der Fahrzeuggeschwindigkeit repräsentierender zusätz-
+licher Beitrag zu den Änderungen der Drehzahlen ist in 
+dem Teildiagramm für die Drehzahlen nicht berücksich-
+tigt. Ferner wurde der Einfachheit halber von einem an 
+sich (ohne aktiven Eingriff in die Motorsteuerung) über 
+der Motordrehzahl konstant bleibenden Motormoment 
+ausgegangen. Der Schaltvorgang gerechnet vom Be-
+ginn der Schaltphase I bis zum Ende der Schaltphase V 
+könnte beispielsweise etwa 0,5s bis 1 s dauern. 
+[0082] Wäre in Abweichung von den oben gemachten 
+Annahmen und der Darstellung im Diagramm in Fig. 8 
+die Kupplungsanordnung 2 zu Beginn ebenfalls vollstän-
+dig geschlossen, so könnte diese zur Einleitung des 
+Schaltvorgangs in Phase I vollständig geöffnet werden. 
+[0083] In Phase II wird das Kupplungsmoment der 
+Kupplung 1, M K1 , auf das in Phase I gültige Moment des 
+Motors abgesenkt. Das Antriebsmoment des Motors wird 
+vergrößert und die Kupplung 2 wird leicht eingerückt, so 
+dass nun das Motormoment größer als das Moment der 
+Kupplung 1 ist, so dass Kupplungsschlupf auftritt und die 
+Motordrehzahl ansteigt, bis gegen Ende der Phase II eine 
+Drehzahl über der Synchrondrehzahl des Zielgangs 2 
+erreicht wird. Durch das leichte Einkuppeln der Kupplung 
+2 wird die Getriebeeingangswelle 2 hoch beschleunigt, 
+so dass sich deren Drehzahl der Synchrondrehzahl des 
+Zielgangs annähert. Am Ende der Phase II wird der Ziel-
+gang (Gang 2) eingelegt, so dass unter Mitwirkung der 
+dem Zielgang zugeordneten Synchronsiervorrichtung 
+des Getriebes die Getriebeeingangswelle 2 die Syn-
+chrondrehzahl des Zielgangs erreicht und es damit zum 
+Einlegen des Zielgangs kommt. 
+[0084] In Phase III wird nach Erreichen der gewählten 
+Motordrehzahl über der Drehzahl der Getriebeeingangs-
+welle 2 das Motormoment wieder auf das ursprüngliche 
+Moment abgesenkt, um ein weiteres Ansteigen der Mo-
+tordrehzahl zu verhindern. Die Kupplung 1 befindet sich 
+im Schlupf und eine gewählte Schlupfdrehzahl zwischen 
+der Getriebeeingangswelle 1 und der Motordrehzahl wird 
+
+vermittels der Kupplung 1 eingeregelt. Die Kupplung 2 
+wird gesteuert geschlossen. Dadurch wird ein geregeltes 
+Öffnen der Kupplung 1 ausgelöst, da die vorher gewählte 
+Schlupfdrehzahl nur konstant gehalten werden kann, 
+wenn die Summe der Momente, die von den beiden 
+Kupplungen auf die Getriebeeingangswellen und damit 
+-unter Vermittlung des Getriebes -auf die Getriebeaus-
+gangswelle übertragen wird, konstant gleich dem ge-
+wählten Motormoment ist. Die Kupplung 2 übernimmt im-
+mer mehr Motormoment, bis die Kupplung 1 vollständig 
+geöffnet ist. Die Kupplung 2 kann jetzt das komplette 
+Motormoment übertragen und wird nicht weiter geschlos-
+sen. An Stelle eines gesteuerten Schließens der Kupp-
+lung 2 und eines geregelten Öffnens der Kupplung 1 
+könnte man auch ein gesteuertes Öffnen der Kupplung 
+1 und ein geregeltes Schließen der Kupplung 2 vorsehen. 
+[0085] In Phase IV wird durch ein Absenken des Mo-
+tormoments unter das Kupplungsmoment die Motordreh-
+zahl auf die Drehzahl der Getriebeeingangswelle 2 her-
+untergezogen. In Phase V wird dann die Kupplung II voll-
+ständig geschlossen. Die Kupplung 1 kann ebenfalls ge-
+schlossen werden, was zum Ansteigen der Drehzahl N G1 
+der Getriebeeingangswelle 1 auf das Niveau der Getrie-
+beeingangswelle 2 führt. Das Motormoment wurde beim 
+Schaltablauf gemäß Diagramm schon am Ende der Pha-
+se IV auf den ursprünglichen Wert zurückgeführt. 
+[0086] In Phase II ist noch eine Variante gezeigt, nach 
+der das Moment der Kupplung 1 nicht ganz auf den Wert 
+des anfänglichen Motormoments reduziert wird, um ei-
+nen unerwünschten negativen Zwischenbeschleuni-
+gungsvorgang des Fahrzeugs auf Grund der Beschleu-
+nigung der Getriebeeingangswelle 2 zu vermeiden. Fer-
+ner kann man in Phase V das Motormoment auf einen 
+Wert über den ursprünglichen Wert erhöhen, um die für 
+die Beschleunigung der Getriebeeingangswelle 1 benö-
+tigte Beschleunigungsenergie zu kompensieren. 
+[0087] Man kann erreichen, dass der gesamte Be-
+schleunigungsverlauf während des Kuppelvorgangs mo-
+noton ohne Zwischenverzögerungs-oder Zwischenbe-
+schleunigungsvorgänge verläuft, indem zu jeder Zeit das 
+anfängliche Motormoment vermittels der Getriebeein-
+gangswellen ins Getriebe eingeleitet und entsprechend 
+den Getriebeübersetzungen im Ausgangs-und Zielgang 
+zur Getriebeausgangswelle übertragen wird. An der Ge-
+triebeausgangswelle wird demenstprechend zu jeder 
+Zeit ein im Wesentlichen konstant bleibendes (Phasen 
+I, II, IV, V) bzw. monoton (vorzugsweise streng monoton, 
+z.B. linear) steigendes (Phase III) Antriebsmoment. 
+[0088] Gemäß einem Schaltablauf, wie in Fig. 8 bei-
+spielhaft vorgeschlagen, ist selbst bei tiefen Temperatu-
+ren bzw. zähflüssigem Kühlöl ein Rückschalten ohne 
+nennenswerte Belastung der Synchronisiervorrichtun-
+gen möglich, ohne dass auf das Lastschalten ohne Zug-
+kraftunterbrechung verzichten zu müssen. 
+[0089] Beim Hochschalten liegt das dem Zielgang zu-
+geordneten 
+Getriebeeingangswellen-Synchrondreh-
+zahlniveau unter dem des alten Gangs. Ist die dem Ziel-
+gang zugeordnete Kupplung offen, so kann vermittels 
+
+25 
+26 
+
+
+EP 1 544 512 B1 
+
+15 
+
+5 
+
+10 
+
+15 
+
+20 
+
+25 
+
+30 
+
+35 
+
+40 
+
+45 
+
+50 
+
+55 
+
+einer gesonderten Abbremseinrichtung oder/und auf 
+Grund von Schleppmomenten des Getriebes die Dreh-
+zahl der dem Zielgang zugeordneten Getriebeeingangs-
+welle zwischen Null und der neuen Synchrondrehzahl 
+liegen. Man kann dann durch Schließen der dem Ziel-
+gang zugeordneten Kupplung die dem Zielgang zuge-
+ordnete Getriebeeingangswelle auf die neue Syn-
+chrondrehzahl bringen, um ein Gangeinlegen zu ermög-
+lichen bzw. zu erleichtern. Auf das Lastschalten ohne 
+Zugkraftunterbrechung braucht dabei nicht verzichtet 
+werden. 
+[0090] Die vorstehenden, auf die Beherrschung der 
+Probleme im Zusammenhang mit Schleppmomenten in 
+der Kupplungseinrichtung bei tiefen Temperaturen zie-
+lenden Maßnahmen sind bei normalen Betriebsbedin-
+gungen nicht unbedingt mehr erforderlich. Es kann des-
+halb vorgesehen sein, dass die Steuereinrichtung 316 
+selbsttätig einen normalen Schalt-und Kupplungsbetrieb 
+mit freier Gangwahl freigibt. Hierzu kann die Steuerein-
+richtung von einem beispielsweise die Temperatur des 
+Kühlöls messenden Temperatursensor ein Temperatur-
+signal erhalten und dieses mit einem Schwellenwert ver-
+gleichen. Ggf. kann aus der gemessenen Temperatur 
+die Viskosität des Kühlöls bestimmt werden und diese 
+mit einem vorgegebenen Schwellenwert verglichen wer-
+den. Die Steuereinrichtung kann auch dafür vorgesehen 
+sein, aus anderen Messwerten, ggf. Temperaturwerten, 
+auf die für die Schleppmomente maßgebliche Tempera-
+tur zu schließen, beispielsweise unter Zugrundelegung 
+eines Temperaturmodels. 
+[0091] Zur aktiven Reduktion der Schleppmomente 
+kann die Steuereinrichtung 316 eine Funktionalität auf-
+weisen, die dazu dient, die Pumpe 209 (vgl. Fig. 2) so 
+anzusteuern, dass nur so viel Kühlöl den Kupplungsan-
+ordnungen zugeführt wird, wie momentan erforderlich ist, 
+etwa im Hinblick auf eine in der Kupplungseinrichtung 
+auftretende Verlustleistung oder/und im Hinblick auf ei-
+nen Schmierbedarf an den Lamellen. Ggf. kann der Kühl-
+ölfluss zu den Kupplungsanordnungen auch vollständig 
+unterbrochen werden, wenn momentan kein Zufuhrbe-
+darf besteht. 
+[0092] Man kann auch vorsehen, dass die Steuerein-
+richtung dafür ausgelegt ist, ein Starten des Motors nur 
+dann freizugeben, wenn die Viskosität des Kühlöls einen 
+maximalen Wert nicht überschreitet bzw. die Temperatur 
+des Kühlöls nicht unter einem kritischen Wert liegt. Diese 
+Maßnahme ist insbesondere im Zusammenhang mit hier 
+angesprochenen Maßnahmen von Interesse, die eine 
+Erwärmung des Kühlöls unabhängig vom Laufen des 
+Motors ermöglichen (vgl. Heizungen 322, 324 und der 
+Umwälzmodus im Zusammenhang mit dem Ventil 232). 
+Man kann auch vorsehen, dass das Abstellen des Kraft-
+fahrzeugs so vorbereitet wird, dass bei der Wiederinbe-
+triebnahme des Kraftfahrzeugs die in der Kupplungsein-
+richtung auftretenden Schleppmomente und Losbrech-
+momente minimiert und im Idealfall sogar weitgehend 
+vermieden werden. So kann die Steuereinrichtung dafür 
+ausgebildet sein, ein bevorstehendes Abstellen des 
+
+Kraftfahrzeugs bzw. ein Abstellen desselben zu erken-
+nen (die Steuereinrichtung kann hierzu beispielsweise 
+auf eine Verstellung des Schalthebels 452 in die Stellung 
+P ansprechen), und in Reaktion hierauf beim Abstellen 
+nach Ausrücken der Kupplungsanordnungen für eine ge-
+wisse Zeit einen überhöhten Kühlöldruck bzw. einen 
+überhöhten Kühlölfluss zu den Kupplungsanordnungen 
+einzustellen, um die Lamellen der Kupplungsanordnun-
+gen auseinander zu drücken, die Außenlamellen und die 
+Innenlamellen also voneinander zu trennen. Dies erfolgt 
+vorzugsweise völlig automatisch durch entsprechende 
+Ansteuerung der Pumpe 209 durch die Steuereinrich-
+tung 316. Alternativ oder zusätzlich hierzu kann in Re-
+aktion auf das Erkennen eines bevorstehenden Abstel-
+lens des Kraftfahrzeugs bzw. des Abstellens selbst nach 
+Ausrücken der Kupplungsanordnungen die Antriebsein-
+heit durch die Steuereinrichtung 316 derart angesteuert 
+werden, dass die Antriebseinheit für eine gewisse Zeit 
+bei einer gegenüber der Leerlaufdrehzahl deutlich erhöh-
+ten Drehzahl läuft, so dass durch Fliehkraftwirkung das 
+Kühlöl aus den Lamellenpaketen nach radial außen weg-
+geschleudert wird. Hierzu wird vorzugsweise zuvor der 
+Kühlölfluss zu den Lamellenpaketen unterbrochen. 
+[0093] Der Betrieb der Antriebseinheit bei ausgerück-
+ten Kupplungsanordnungen mit einer gegenüber der 
+Leerlaufdrehzahl deutlich erhöhten Drehzahl ist auch zur 
+Vorbereitung eines Einlegens wenigstens eines Getrie-
+begangs vorteilhaft, da die Schleppmomente um so klei-
+ner sein werden, je weniger Kühlöl sich zwischen den 
+Lamellen befindet. Die Steuereinrichtung 316 ist vor-
+zugsweise deshalb auch dafür ausgelegt, das Einlegen 
+eines Ganges bzw. den Wunsch, dass ein Gang einge-
+legt werden soll, zu erkennen und die Antriebseinheit bei 
+ausgerückten Kupplungsanordnungen entsprechend 
+anzusteuern. Beispielsweise kann die Steuereinrichtung 
+316 auf ein Verstellen des Schalthebels 452 in die Stel-
+lung R bzw. D ansprechen und erst nach dem vorge-
+schlagenen Hochdrehen der Antriebseinheit den betref-
+fenden Gang tatsächlich einzulegen. 
+[0094] Es hat sich gezeigt, dass auch durch die Betä-
+tigung der Kupplungsanordnungen selbst ein Lösen von 
+aneinander klebenden Lamellen erreicht werden kann 
+bzw. dieses Lösen zumindest unterstützt werden kann. 
+Dieser nützliche Effekt ist auf im Zuge der Kupplungsbe-
+tätigung auftretende mechanische Verspannung der 
+Kupplungsanordnungen und die Verschiebung der La-
+mellen bei der Betätigung zurückzuführen. Die Steuer-
+einrichtung 316 ist vorzugsweise dafür ausgelegt, auf 
+den Gangeinlegewunsch bzw. das Einlegen des Ganges 
+anzusprechen und vor dem Einlegen des Ganges bzw. 
+vor Abschluss des Einlegevorgangs die Kupplungsan-
+ordnungen wenigstens einmal, vorzugsweise mehrmals 
+aufeinander folgend im Ein-und Ausrücksinn zu betäti-
+gen, um den angesprochenen hilfreichen Effekt zu erzie-
+len. 
+[0095] Es hat sich ferner gezeigt, dass auch auf die 
+Kupplungseinrichtung wirkende Drehzahlungleichför-
+migkeiten, wie etwa Drehschwingungen, ein Lösen von 
+
+27 
+28 
+
+
+EP 1 544 512 B1 
+
+16 
+
+5 
+
+10 
+
+15 
+
+20 
+
+25 
+
+30 
+
+35 
+
+40 
+
+45 
+
+50 
+
+55 
+
+aneinander anhaftenden Lamellen bewirken oder zumin-
+dest unterstützen. Die Steuereinrichtung 316 ist deshalb 
+vorzugsweise dafür ausgelegt, die Antriebseinheit, ins-
+besondere die Brennkraftmaschine, derart anzusteuern, 
+dass bei laufender Antriebseinheit derartige Drehzahlun-
+gleichförmigkeiten auftreten. Beispielsweise können bei 
+einem Verbrennungsmotor Zylinder abgeschaltet oder 
+Zylinder abwechselnd oder uneinheitlich mit Kraftstoff 
+versorgt werden. 
+[0096] Es werden unter anderem Maßnahmen zur Be-
+herrschung bzw. Verringerung von in einer Lamellen-
+Mehrfach-Kupplungseinrichtung auftretenden Schlepp-
+momenten auf Grund temperaturbedingter erhöhter Vis-
+kosität bzw. Zähigkeit einer den Lamellen in Betrieb zu-
+geführten Betriebsflüssigkeit vorgeschlagen, um eine In-
+betriebnahme eines Kraftfahrzeugs bzw. den Betrieb des 
+Kraftfahrzeugs auch bei tiefen Temperaturen zu ermög-
+lichen. 
+
+Patentansprüche 
+
+1. Kraftfahrzeug, umfassend einen Antriebsstrang, der 
+aufweist: eine Antriebseinheit (238), ein Getriebe 
+(330) mit einer ersten Getriebeeingangswelle und 
+einer zweiten Getriebeeingangswelle und eine 
+Kupplungseinrichtung (202) mit einer ersten Kupp-
+lungsanordnung, die der ersten Getriebeeingangs-
+welle zugeordnet ist, und einer zweiten Kupplungs-
+anordnung, die der zweiten Getriebeeingangswelle 
+zugeordnet ist, zur Momentenübertragung zwischen 
+der Antriebseinheit und dem Getriebe, 
+wobei die Kupplungsanordnungen als Lamellen-
+Kupplungsanordnungen (204, 206) ausgeführt sind, 
+denen eine Betriebsflüssigkeit, insbesondere ein 
+Kühlöl, für einen Betrieb unter Einwirkung der Be-
+triebsflüssigkeit zuführbar ist, 
+wobei dem Getriebe eine Aktuator-Anordnung (236; 
+414) und eine die Aktuator-Anordnung ansteueren-
+de Steuereinrichtung (316) zugeordnet ist, unter de-
+ren Vermittlung der ersten und der zweiten Getrie-
+beeingangswelle zugeordnete Getriebegänge ein-
+und auslegbar sind, 
+wobei das Getriebe den Getriebegängen zugeord-
+nete Schaltelemente (412) und diesen zugeordnete 
+oder zugehörige Synchronelemente (412) aufweist, 
+wobei zum Einlegen eines Gangs-im Folgenden als 
+Zielgang bezeichnet-wenigstens ein dem Zielgang 
+zugeordnetes Synchronelement vermittels der Ak-
+tuator-Anordnung (414) aktivierbar ist, um wenig-
+stens eine dem Zielgang zugeordnete Getriebewel-
+le, insbesondere die dem Zielgang zugeordnete Ge-
+triebeeingangswelle, zu synchronisieren, 
+dadurch gekennzeichnet, 
+dass zum Einlegen des Zielgangs zusätzlich wenig-
+stens ein wenigstens einem anderen Gang zugeord-
+netes Synchronelement (412) vermittels der Aktua-
+tor-Anordnung (414) aktivierbar ist, um die dem Ziel-
+
+gang zugeordnete Getriebewelle zu synchronisie-
+ren. 
+
+2. Kraftfahrzeug nach Anspruch 1, gekennzeichnet 
+durch eine Sicherheitsfunktionalität (316), die ein 
+unbeabsichtigtes Einlegen des anderen Gangs ver-
+hindert. 
+
+3. Kraftfahrzeug nach Anspruch 2, dadurch gekenn-
+zeichnet, dass die Steuereinrichtung (316) dafür 
+ausgelegt ist, auf Grundlage von erfassten Drehzah-
+len eine Annäherung an einen dem anderen Gang 
+zugeordneten Synchronpunkt zu erkennen und vor 
+Erreichen des Synchronpunktes auf wenigstens ein 
+dem anderen Gang zugeordnetes Schaltelement 
+(412) oder/und Synchronelement (412) wirkende 
+Aktivierungskräfte aufzuheben oder zu reduzieren, 
+um ein Einlegen des anderen Gangs zu verhindern. 
+
+4. Kraftfahrzeug nach einem der Ansprüche 1 bis 3, 
+dadurch gekennzeichnet, dass die Steuereinrich-
+tung (316) dafür ausgelegt ist, vermittels der Aktua-
+tor-Anordnung (414) das wenigstens eine dem we-
+nigstens einen anderen Gang zugeordnete Synchro-
+nelement (412) bedarfsweise dann zu aktivieren, 
+wenn wenigstens eine Positiv-Bedingung erfüllt 
+oder/und wenigstens eine Negativ-Bedingung nicht 
+erfüllt ist. 
+
+5. Kraftfahrzeug, umfassend einen Antriebsstrang, der 
+aufweist: eine Antriebseinheit (238), ein Lastschalt-
+getriebe (330) mit einer ersten Getriebeeingangs-
+welle und einer zweiten Getriebeeingangswelle und 
+eine Kupplungseinrichtung (202) mit einer ersten 
+Kupplungsanordnung, die der ersten Getriebeein-
+gangswelle zugeordnet ist, und einer zweiten Kupp-
+lungsanordnung, die der zweiten Getriebeeingangs-
+welle zugeordnet ist, zur Momentenübertragung zwi-
+schen der Antriebseinheit und dem Getriebe, 
+wobei die Kupplungsanordnungen als Lamellen-
+Kupplungsanordnungen (204, 206) ausgeführt sind, 
+denen eine Betriebsflüssigkeit, insbesondere ein 
+Kühlöl, für einen Betrieb unter Einwirkung der Be-
+triebsflüssigkeit zuführbar ist, 
+wobei dem Getriebe eine Aktuator-Anordnung (236; 
+414) und eine die Aktuator-Anordnung ansteueren-
+de Steuereinrichtung (316) zugeordnet ist, unter de-
+ren Vermittlung der ersten und der zweiten Getrie-
+beeingangswelle zugeordnete Getriebegänge ein-
+und auslegbar sind, wobei die Steuereinrichtung fer-
+ner eine der Kupplungseinrichtung zugeordnete 
+oder zugehörige, vorzugsweise hydraulische Betä-
+tigungseinrichtung (234) ansteuert, um die Kupp-
+lungsanordnungen im Einrück-und Ausrücksinne zu 
+betätigen, 
+wobei die Steuereinrichtung (316) dafür ausgelegt 
+ist, in einem Lastschaltmodus in einem Getriebezu-
+stand, in dem ein der einen Getriebeeingangswelle 
+
+29 
+30 
+
+
+EP 1 544 512 B1 
+
+17 
+
+5 
+
+10 
+
+15 
+
+20 
+
+25 
+
+30 
+
+35 
+
+40 
+
+45 
+
+50 
+
+55 
+
+zugeordneter Ausgangsgang und ein der anderen 
+Getriebeeingangswelle zugeordneter Zielgang ein-
+gelegt sind, die Kupplungsanordnungen (204, 206) 
+vermittels der Betätigungseinrichtung (234) gegen-
+läufig zu betätigen, um ein Antriebsmoment der An-
+triebseinheit von der einen zur anderen Getriebeein-
+gangswelle kontinuierlich und ohne Zugkraftunter-
+brechung zu verlagern und so den Ausgangsgang 
+als momentenübertragender Gang zu deaktivieren 
+und den Zielgang als momentenübertragender 
+Gang zu aktivieren, 
+dadurch gekennzeichnet, 
+dass ein Aktiv-Synchronisierungsmodus vorgese-
+hen ist, in dem zur Deaktivierung des Ausgangs-
+gangs als momentenübertragender Gang und Akti-
+vierung des Zielgang als momentenübertragender 
+Gangs zuerst der Ausgangsgang ausgelegt wird 
+oder/und die dem Ausgangsgang zugeordnete 
+Kupplungsanordnung geöffnet wird, dann die Dreh-
+zahl der Antriebseinheit und die Drehzahl der dem 
+Zielgang zugeordneten Getriebeeingangswelle auf 
+das Synchronverhältnis des Zielgangs gebracht wird 
+und dann der Zielgang eingelegt wird. 
+
+6. Fahrzeug nach Anspruch 5, dadurch gekennzeich-
+net, dass im Aktiv-Synchronisierungsmodus die 
+Drehzahl der Antriebseinheit und die Drehzahl der 
+dem Zielgang zugeordneten Getriebeeingangswelle 
+dadurch gemeinsam auf das Synchronverhältnis 
+des Zielgangs gebracht werden, dass beim Bringen 
+der Drehzahl der Antriebseinheit auf das Synchron-
+verhältnis die dem Zielgang zugeordnete Kupp-
+lungsanordnung zumindest teilweise eingerückt ist. 
+
+7. Fahrzeug nach Anspruch 5, dadurch gekennzeich-
+net, dass im Aktiv-Synchronisierungsmodus nach 
+Bringen der Drehzahl der Antriebseinheit auf das 
+Synchronverhältnis die Drehzahl der dem Zielgang 
+zugeordneten Getriebeeingangswelle auf das Syn-
+chronverhältnis durch zumindest teilweises Einrük-
+ken der dem Zielgang zugeordnete Kupplungsan-
+ordnung gebracht wird. 
+
+8. Fahrzeug nach einem der Ansprüche 5 bis 7, da-
+durch gekennzeichnet, dass der Aktiv-Synchroni-
+sierungsmodus betreffend ein Hochschalten nur 
+dann freigegeben wird, wenn eine momentane Fahr-
+zeuggeschwindigkeit bezogen auf den Zielgang ei-
+ner Mindest-Leerlaufdrehzahl der Antriebseinheit 
+entspricht oder diese übersteigt. 
+
+9. Kraftfahrzeug, umfassend einen Antriebsstrang, der 
+aufweist: eine Antriebseinheit (238), ein Lastschalt-
+getriebe (330) mit einer ersten Getriebeeingangs-
+welle und einer zweiten Getriebeeingangswelle und 
+eine Kupplungseinrichtung (202) mit einer ersten 
+Kupplungsanordnung, die der ersten Getriebeein-
+gangswelle zugeordnet ist, und einer zweiten Kupp-
+
+lungsanordnung, die der zweiten Getriebeeingangs-
+welle zugeordnet ist, zur Momentenübertragung zwi-
+schen der Antriebseinheit und dem Getriebe, 
+wobei die Kupplungsanordnungen als Lamellen-
+Kupplungsanordnungen (204, 206) ausgeführt sind, 
+denen eine Betriebsflüssigkeit, insbesondere ein 
+Kühlöl, für einen Betrieb unter Einwirkung der Be-
+triebsflüssigkeit zuführbar ist, 
+wobei dem Getriebe eine Aktuator-Anordnung (236, 
+414) und eine die Aktuator-Anordnung ansteueren-
+de Steuereinrichtung (316) zugeordnet ist, unter de-
+ren Vermittlung der ersten und der zweiten Getrie-
+beeingangswelle zugeordnete Getriebegänge ein-
+und auslegbar sind, wobei die Steuereinrichtung fer-
+ner eine der Kupplungseinrichtung zugeordnete 
+oder zugehörige, vorzugsweise hydraulische Betä-
+tigungseinrichtung (234) ansteuert, um die Kupp-
+lungsanordnungen im Einrück-und Ausrücksinne zu 
+betätigen, 
+wobei die Steuereinrichtung (316) dafür ausgelegt 
+ist, in einem Lastschaltmodus in einem Getriebezu-
+stand, in dem ein der einen Getriebeeingangswelle 
+zugeordneter Ausgangsgang und ein der anderen 
+Getriebeeingangswelle zugeordneter Zielgang ein-
+gelegt sind, die Kupplungsanordnungen (204, 206) 
+vermittels der Betätigungseinrichtung (234) gegen-
+läufig zu betätigen, um ein Antriebsmoment der An-
+triebseinheit von der einen zur anderen Getriebeein-
+gangswelle kontinuierlich und ohne Zugkraftunter-
+brechung zu verlagern und so den Ausgangsgang 
+als momentenübertragender Gang zu deaktivieren 
+und den Zielgang als momentenübertragender 
+Gang zu aktivieren, 
+dadurch gekennzeichnet, 
+dass die Steuereinrichtung (316) dafür ausgelegt ist, 
+beim Wechsel von einem höheren Ausgangsgang 
+zu einem niedrigeren Zielgang , also bei einer 
+Rüchkschaltung, in Vorbereitung eines Einlegens 
+des Zielgangs auf die Antriebseinheit einzuwirken, 
+dass deren Antriebsmoment über ein von der dem 
+Ausgangsgang zugeordneten Kupplungsanord-
+nung übertragbares Moment ansteigt, so dass die 
+Drehzahl der Antriebseinheit über die momentane 
+Drehzahl der dem Ausgangsgang zugeordneten Ge-
+triebeeingangswelle ansteigt und sich einer von der 
+momentanen Fahrzeuggeschwindigkeit abhängi-
+gen Synchrondrehzahl für den Zielgang zumindest 
+annähert und diese vorzugsweise zumindest nähe-
+rungsweise erreicht und dass die Steuereinrichtung 
+(316) dafür ausgelegt ist, im Zuge mit der Vergröße-
+rung des Antriebsmoments bzw. der Beschleuni-
+gung der dem Zielgang zugeordnete Getriebeein-
+gangswelle oder danach die Aktuator-Anordnung 
+(236; 414) derart anzusteuern, dass diese im Sinne 
+eines Einlegens des Zielgangs auf das Getriebe 
+wirkt. 
+
+10. Kraftfahrzeug nach Anspruch 9, dadurch gekenn-
+
+31 
+32 
+
+
+EP 1 544 512 B1 
+
+18 
+
+5 
+
+10 
+
+15 
+
+20 
+
+25 
+
+30 
+
+35 
+
+40 
+
+45 
+
+50 
+
+55 
+
+zeichnet, dass die Steuereinrichtung (316) dafür 
+ausgelegt ist, gleichzeitig mit der Vergrößerung des 
+Antriebsmoments oder danach die dem Zielgang zu-
+geordnete Kupplungsanordnung im Einrücksinne zu 
+betätigen, um die dem Zielgang zugeordnete Getrie-
+beeingangswelle in Richtung einer Annäherung an 
+die Synchrondrehzahl zu beschleunigen und vor-
+zugsweise zumindest näherungsweise auf die Syn-
+chrondrehzahl zu bringen. 
+
+11. Kraftfahrzeug, umfassend einen Antriebsstrang, der 
+aufweist: eine Antriebseinheit (238), ein Lastschalt-
+getriebe (330) mit einer ersten Getriebeeingangs-
+welle und einer zweiten Getriebeeingangswelle und 
+eine Kupplungseinrichtung (202) mit einer ersten 
+Kupplungsanordnung, die der ersten Getriebeein-
+gangswelle zugeordnet ist, und einer zweiten Kupp-
+lungsanordnung, die der zweiten Getriebeeingangs-
+welle zugeordnet ist, zur Momentenübertragung zwi-
+schen der Antriebseinheit und dem Getriebe, 
+wobei die Kupplungsanordnungen als Lamellen-
+Kupplungsanordnungen (204, 206) ausgeführt sind, 
+denen eine Betriebsflüssigkeit, insbesondere ein 
+Kühlöl, für einen Betrieb unter Einwirkung der Be-
+triebsflüssigkeit zuführbar ist, 
+wobei dem Getriebe eine Aktuator-Anordnung (236; 
+414) und eine die Aktuator-Anordnung ansteueren-
+de Steuereinrichtung (316) zugeordnet ist, unter de-
+ren Vermittlung der ersten und der zweiten Getrie-
+beeingangswelle zugeordnete Getriebegänge ein-
+und auslegbar sind, wobei die Steuereinrichtung fer-
+ner eine der Kupplungseinrichtung zugeordnete 
+oder zugehörige, vorzugsweise hydraulische Betä-
+tigungseinrichtung (234) ansteuert, um die Kupp-
+lungsanordnungen im Einrück-und Ausrücksinne zu 
+betätigen, 
+wobei die Steuereinrichtung (316) dafür ausgelegt 
+ist, in einem Lastschaltmodus in einem Getriebezu-
+stand, in dem ein der einen Getriebeeingangswelle 
+zugeordneter Ausgangsgang und ein der anderen 
+Getriebeeingangswelle zugeordneter Zielgang ein-
+gelegt sind, die Kupplungsanordnungen (204, 206) 
+vermittels der Betätigungseinrichtung (234) gegen-
+läufig zu betätigen, um ein Antriebsmoment der An-
+triebseinheit von der einen zur anderen Getriebeein-
+gangswelle kontinuierlich und ohne Zugkraftunter-
+brechung zu verlagern und so den Ausgangsgang 
+als momentenübertragender Gang zu deaktivieren 
+und den Zielgang als momentenübertragender 
+Gang zu aktivieren, 
+und wobei 
+die Steuereinrichtung (316) dafür ausgelegt ist, beim 
+Wechsel von einem niedrigeren Ausgangsgang zu 
+einem höheren Zielgang, also bei einer Hochschal-
+tung, in Vorbereitung eines Einlegens des Zielgangs 
+die dem Zielgang zugeordnete Kupplungsanord-
+nung ausgehend von einem ausgerückten Zustand 
+soweit im Einrücksinn zu betätigen, dass die dem 
+
+Zielgang zugeordnete, bisher sich durch Einwirkung 
+von Getriebeschleppmomenten oder/und Abbrems-
+momenten höchstens mit einer gegenüber der Syn-
+chrondrehzahl für den Zielgang geringeren Drehzahl 
+drehende Getriebeeingangswelle in Richtung einer 
+Annäherung an die Synchrondrehzahl beschleunigt 
+wird und diese vorzugsweise zumindest näherungs-
+weise erreicht, 
+dadurch gekennzeichnet, 
+dass die Steuereinrichtung (316) eine effektive 
+Temperatur der Betriebsflüssigkeit, die durch eine 
+Sensoranordnung erfasst wird oder/und durch die 
+Steuereinrichtung bestimmt wird, auswertet, und in 
+Abhängigkeit von dieser Auswertung einen norma-
+len Schalt-und Kupplungsbetrieb mit freier Gang-
+wahl oder/und Schalten ohne Zugkraftunterbre-
+chung freigibt und sperrt 
+
+12. Kraftfahrzeug nach Anspruch 11, dadurch gekenn-
+zeichnet, dass die Steuereinrichtung (316) dafür 
+ausgelegt ist, im Zuge mit der Beschleunigung der 
+dem Zielgang zugeordnete Getriebeeingangswelle 
+oder danach die Aktuator-Anordnung (236; 414) der-
+art anzusteuern, dass diese zur Vorbereitung der ge-
+genläufigen Betätigung der Kupplüngsanordnungen 
+im Sinne eines Einlegens des Zielgangs auf das Ge-
+triebe wirkt. 
+
+13. Kraftfahrzeug nach Anspruch 13, dass die Steuer-
+einrichtung (316) den normalen Schalt-und Kupp-
+lungsbetrieb dann, freigibt, wenn die effektive Tem-
+peratur einen Schwellenwert übersteigt oder eine 
+aus der effektiven Temperatur bestimmte Viskosität 
+der Betriebsflüssigkeit unter einen Schwellenwert 
+gefallen ist. 
+
+14. Kraftfahrzeug nach Anspruch 13 oder 14, dadurch 
+gekennzeichnet, dass die Steuereinrichtung (316) 
+dafür ausgelegt ist, aus wenigstens einem mittels 
+einer Sensoranordnung bestimmten Temperatur-
+wert, der nicht direkt die effektive Temperatur der 
+Betriebsflüssigkeit angibt, oder/und aus wenigstens 
+einem Betriebsparameter des Antriebsstrangs die 
+effektive Temperatur der Betriebsflüssigkeit zu be-
+stimmen, wobei gegebenenfalls mehrere zu ver-
+schiedenen Zeiten protokollierte Temperaturwerte 
+bzw. Betriebsparameter oder/und ein beispielswei-
+se mathematisch oder/und durch Kennfelder defi-
+niertes Temperaturmodell der Bestimmung zugrun-
+degelegt werden. 
+
+Claims 
+
+1. Motor vehicle, comprising a drive train which has: a 
+drive unit (238), a gearbox (330) having a first gear-
+box input shaft and a second gearbox input shaft, 
+and a clutch device (202) having a first clutch ar-
+
+33 
+34 
+
+
+EP 1 544 512 B1 
+
+19 
+
+5 
+
+10 
+
+15 
+
+20 
+
+25 
+
+30 
+
+35 
+
+40 
+
+45 
+
+50 
+
+55 
+
+rangement, assigned to the first gearbox input shaft, 
+and a second clutch arrangement, assigned to the 
+second gearbox input shaft, for the torque transmis-
+sion between the drive unit and the gearbox, 
+wherein the clutch arrangements are realized as 
+multidisc clutch arrangements (204, 206), to which 
+an operating fluid, in particular a cooling oil, can be 
+fed for an operation under the influence of the oper-
+ating fluid, 
+wherein the gearbox is assigned an actuator ar-
+rangement (236; 414) and a control device (316) 
+controlling the actuator arrangement, by means of 
+which gears assigned to the first and the second 
+gearbox input shaft can be engaged and disen-
+gaged, 
+wherein the gearbox has gearshift elements (412) 
+assigned to the gears and synchronizing elements 
+(412) assigned to or associated with said gearshift 
+elements, 
+wherein, for the engagement of a gear -hereinafter 
+referred to as the target gear -at least one synchro-
+nizing element assigned to the target gear is able to 
+be activated by means of the actuator arrangement 
+(414) in order to synchronize at least one gearbox 
+shaft assigned to the target gear, in particular the 
+gearbox input shaft assigned to the target gear, 
+characterized in that, 
+for the engagement of the target gear, at least one 
+synchronizing element (412) assigned to at least one 
+other gear can be activated by means of the actuator 
+arrangement (414) in order to synchronize the gear-
+box shaft assigned to the target gear. 
+
+2. Motor vehicle according to Claim 1, characterized 
+by a safety functionality (316) which prevents the 
+other gear from being unintentionally engaged. 
+
+3. Motor vehicle according to Claim 2, characterized 
+in that the control device (316) is designed to detect, 
+on the basis of registered rotation speeds, an ap-
+proach to a synchronizing point assigned to the other 
+gear and, before the synchronizing point is reached, 
+to eliminate or reduce activating forces acting upon 
+at least one gearshift element (412) and/or synchro-
+nizing element (412) to prevent the other gear from 
+being engaged. 
+
+4. Motor vehicle according to one of Claims 1 to 3, char-
+acterized in that the control device (316) is de-
+signed to activate according to requirement, by 
+means of the actuator arrangement (414), at least 
+one synchronizing element (412) assigned to the at 
+least one other gear, when at least one positive con-
+dition is met and/or at least one negative condition 
+is not met. 
+
+5. Motor vehicle, comprising a drive train which has: a 
+drive unit (238), a power-shift gearbox (330) having 
+
+a first gearbox input shaft and a second gearbox in-
+put shaft, and a clutch device (202) having a first 
+clutch arrangement, assigned to the first gearbox in-
+put shaft, and a second clutch arrangement, as-
+signed to the second gearbox input shaft, for the 
+torque transmission between the drive unit and the 
+gearbox, 
+wherein the clutch arrangements are realized as 
+multidisc clutch arrangements (204, 206), to which 
+an operating fluid, in particular a cooling oil, can be 
+fed for an operation under the influence of the oper-
+ating fluid, 
+wherein the gearbox is assigned an actuator ar-
+rangement (236; 414) and a control device (316) 
+controlling the actuator arrangement, by means of 
+which gears assigned to the first and the second 
+gearbox input shaft can be engaged and disen-
+gaged, the control device further controlling a pref-
+erably hydraulic actuating device (234), assigned to 
+or associated with the clutch device, in order to ac-
+tuate the clutch arrangements for clutching and de-
+clutching purposes, 
+wherein the control device (316) is designed, in a 
+power-shift mode in a gearbox state in which a start-
+ing gear assigned to one gearbox input shaft and a 
+target gear assigned to the other gearbox input shaft 
+are engaged, to actuate the clutch arrangements 
+(204, 206) by means of the actuating device (234) 
+in opposite-working directions in order to transfer a 
+drive torque of the drive unit, continuously and with-
+out interruption of the tensile force, from one to the 
+other gearbox input shaft and thus to deactivate the 
+starting gear as the torque-transmitting gear and ac-
+tivate the target gear as the torque-transmitting gear, 
+characterized in that 
+an active synchronization mode is provided, in 
+which, for the deactivation of the starting gear as the 
+torque-transmitting gear and activation of the target 
+gear as the torque-transmitting gear, first the starting 
+gear is disengaged and/or the clutch arrangement 
+assigned to the starting gear is opened, and then the 
+rotation speed of the drive unit and the rotation speed 
+of the gearbox input shaft assigned to the target gear 
+are brought to the synchronization ratio of the target 
+gear and the target gear is then engaged. 
+
+6. Motor vehicle according to Claim 5, characterized 
+in that, in the active-synchronization mode, the ro-
+tation speed of the drive unit and the rotation speed 
+of the gearbox input shaft assigned to the target gear 
+are jointly brought to the synchronization ratio of the 
+target gear by virtue of the fact that, when the rotation 
+speed of the drive unit is brought to the synchroni-
+zation ratio, the clutch arrangement assigned to the 
+target gear is at least partially engaged. 
+
+7. Motor vehicle according to Claim 5, characterized 
+in that, in the active-synchronization mode, after the 
+
+35 
+36 
+
+
+EP 1 544 512 B1 
+
+20 
+
+5 
+
+10 
+
+15 
+
+20 
+
+25 
+
+30 
+
+35 
+
+40 
+
+45 
+
+50 
+
+55 
+
+rotation speed of the drive unit has been brought to 
+the synchronization ratio, the rotation speed of the 
+gearbox input shaft assigned to the target gear is 
+brought to the synchronization ratio by at least partial 
+engagement of the clutch arrangement assigned to 
+the target gear. 
+
+8. Motor vehicle according to one of Claims 5 to 7, char-
+acterized in that the active-synchronization mode 
+relating to an upshift is only released when an in-
+stantaneous vehicle speed, related to the target 
+gear, corresponds to a minimum idling speed of the 
+drive unit or exceeds this. 
+
+9. Motor vehicle, comprising a drive train which has: a 
+drive unit (238), a power-shift gearbox (330) having 
+a first gearbox input shaft and a second gearbox in-
+put shaft, and a clutch device (202) having a first 
+clutch arrangement, assigned to the first gearbox in-
+put shaft, and a second clutch arrangement, as-
+signed to the second gearbox input shaft, for the 
+torque transmission between the drive unit and the 
+gearbox, 
+wherein the clutch arrangements are realized as 
+multidisc clutch arrangements (204, 206), to which 
+an operating fluid, in particular a cooling oil, can be 
+fed for an operation under the influence of the oper-
+ating fluid, 
+wherein the gearbox is assigned an actuator ar-
+rangement (236; 414) and a control device (316) 
+controlling the actuator arrangement, by means of 
+which gears assigned to the first and the second 
+gearbox input shaft can be engaged and disen-
+gaged, the control device further controlling a pref-
+erably hydraulic actuating device (234), assigned to 
+or associated with the clutch device, in order to ac-
+tuate the clutch arrangements for clutching or de-
+clutching purposes, 
+wherein the control device (316) is designed, in a 
+power-shift mode in a gearbox state in which a start-
+ing gear assigned to one gearbox input shaft and a 
+target gear assigned to the other gearbox input shaft 
+are engaged, to actuate the clutch arrangements 
+(204, 206) by means of the actuating device (234) 
+in opposite-working directions in order to transfer a 
+drive torque of the drive unit, continuously and with-
+out interruption of the tensile force, from one to the 
+other gearbox input shaft and thus to deactivate the 
+starting gear as the torque-transmitting gear and ac-
+tivate the target gear as the torque-transmitting gear, 
+characterized in that 
+the control device (316) is designed, when a change 
+is made from a higher starting gear to a lower target 
+gear, i.e. in a downshift, in preparation for an en-
+gagement of the target gear, to act upon the drive 
+unit, in that the drive torque thereof rises above a 
+torque transferable by the clutch arrangement as-
+signed to the starting gear, so that the rotation speed 
+
+of the drive unit rises above the instantaneous rota-
+tion speed of the gearbox input shaft assigned to the 
+starting gear and at least approaches a synchroni-
+zation speed for the target gear which is dependent 
+on the instantaneous vehicle speed, and preferably 
+at least approximately reaches this, and in that the 
+control device (316) is designed to control the actu-
+ator arrangement (236; 414), hand in hand with the 
+increase in the drive torque or with the acceleration 
+of the gearbox input shaft assigned to the target gear, 
+or thereafter, such that said actuator arrangement 
+acts upon the gearbox for the purpose of engaging 
+the target gear. 
+
+10. Motor vehicle according to Claim 9, characterized 
+in that the control device (316) is designed, simul-
+taneously with the enlargement of the drive torque, 
+or thereafter, to actuate the clutch arrangement as-
+signed to the target gear for clutching purposes in 
+order to accelerate the gearbox input shaft assigned 
+to the target gear in the direction of an approach to 
+the synchronization speed and preferably bring it at 
+least approximately to the synchronization speed. 
+
+11. Motor vehicle, comprising a drive train which has: a 
+drive unit (238), a power-shift gearbox (330) having 
+a first gearbox input shaft and a second gearbox in-
+put shaft, and a clutch device (202) having a first 
+clutch arrangement, assigned to the first gearbox in-
+put shaft, and a second clutch arrangement, as-
+signed to the second gearbox input shaft, for the 
+torque transmission between the drive unit and the 
+gearbox, 
+wherein the clutch arrangements are realized as 
+multidisc clutch arrangements (204, 206), to which 
+an operating fluid, in particular a cooling oil, can be 
+fed for an operation under the influence of the oper-
+ating fluid, 
+wherein the gearbox is assigned an actuator ar-
+rangement (236; 414) and a control device (316) 
+controlling the actuator arrangement, by means of 
+which gears assigned to the first and the second 
+gearbox input shaft can be engaged and disen-
+gaged, the control device further controlling a pref-
+erably hydraulic actuating device (234), assigned to 
+or associated with the clutch device, in order to ac-
+tuate the clutch arrangements for clutching and de-
+clutching purposes, 
+wherein the control device (316) is designed, in a 
+power-shift mode in a gearbox state in which a start-
+ing gear assigned to one gearbox input shaft and a 
+target gear assigned to the other gearbox input shaft 
+are engaged, to actuate the clutch arrangements 
+(204, 206) by means of the actuating device (234) 
+in opposite-working directions in order to transfer a 
+drive torque of the drive unit, continuously and with-
+out interruption of the tensile force, from one to the 
+other gearbox input shaft and thus to deactivate the 
+
+37 
+38 
+
+
+EP 1 544 512 B1 
+
+21 
+
+5 
+
+10 
+
+15 
+
+20 
+
+25 
+
+30 
+
+35 
+
+40 
+
+45 
+
+50 
+
+55 
+
+starting gear as the torque-transmitting gear and ac-
+tivate the target gear as the torque-transmitting gear, 
+and wherein the control device (316) is designed, 
+when a change is made from a lower starting gear 
+to a higher target gear, i.e. in an upshift, in prepara-
+tion for an engagement of the target gear, to actuate 
+the clutch arrangement assigned to the target gear, 
+starting from a declutched state, sufficiently far in the 
+clutching direction that the gearbox input shaft which 
+is assigned to the target gear and has hitherto rotat-
+ed, through the influence of gearbox drag torques 
+and/or braking torques, at most at a lower rotation 
+speed than the synchronization speed for the target 
+gear, is accelerated in the direction of an approach 
+to the synchronization speed and preferably at least 
+approximately reaches this, 
+characterized in that 
+the control device (316) evaluates an effective tem-
+perature of the operating fluid, which is registered 
+by a sensor arrangement and/or is determined by 
+the control device, and, in dependence on this eval-
+uation, releases and shuts off a normal gearshift and 
+clutch operation with free gear selection and/or gear-
+shift, without interruption of the tensile force. 
+
+12. Motor vehicle according to Claim 11, characterized 
+in that the control device (316) is designed, hand in 
+hand with the acceleration of the gearbox input shaft 
+assigned to the target gear, or thereafter, to control 
+the actuator arrangement (236; 414) such that this, 
+in preparation for the opposite-working actuation of 
+the clutch arrangements for the purpose of an en-
+gagement of the target gear, acts upon the gearbox. 
+
+13. Motor vehicle according to Claim 13, characterized 
+in that the control device (316) releases the normal 
+gearshift and clutch operation when the effective 
+temperature exceeds a threshold value, or a viscos-
+ity of the operating fluid, determined from the effec-
+tive temperature, has fallen below a threshold value. 
+
+14. Motor vehicle according to Claim 13 or 14, charac-
+terized in that the control device (316) is designed, 
+from at least one temperature value determined by 
+means of a sensor arrangement, which temperature 
+value does not directly indicate the effective temper-
+ature of the operating fluid, and/or from at least one 
+operating parameter of the drive train, to determine 
+the effective temperature of the operating fluid, this 
+determination being based, where appropriate, on a 
+plurality of temperature values or operating param-
+eters recorded at different times and/or a tempera-
+ture model defined, for example, mathematically 
+and/or by characteristic diagrams. 
+
+Revendications 
+
+1. Véhicule comprenant une chaîne cinématique qui 
+présente : une unité d'entraînement (238), une boîte 
+de vitesses (330) avec un premier arbre d'entrée de 
+boîte et un deuxième arbre d'entrée de boîte, et un 
+dispositif d'embrayage (202) avec un premier en-
+semble d'embrayage qui est associé au premier ar-
+bre d'entrée de boîte et un deuxième ensemble 
+d'embrayage qui est associé au deuxième arbre 
+d'entrée de boîte, pour la transmission de couple 
+entre l'unité d'entraînement et la boîte de vitesses, 
+sachant que les ensembles d'embrayage sont réa-
+lisés sous la forme d'ensembles d'embrayage mul-
+tidisques (204, 206) auxquels peut être apporté un 
+liquide de service, notamment un liquide de refroi-
+dissement, pour un fonctionnement sous l'action du 
+liquide de service, 
+sachant qu'un ensemble d'actionneur (236 ; 414) et 
+un dispositif de commande (316) commandant l'en-
+semble d'actionneur, par l'intermédiaire desquels 
+des rapports de boîte associés au premier et au 
+deuxième arbres d'entrée de boîte peuvent être en-
+gagés et désengagés, sont associés à la boîte de 
+vitesses, 
+sachant que la boîte de vitesses présente des élé-
+ments de sélection (412) associés aux rapports de 
+boîte et des éléments de synchronisation (412) as-
+sociés ou correspondant à ces derniers, sachant que 
+pour engager un rapport -appelé dans la suite rap-
+port cible -, au moins un élément de synchronisation 
+associé au rapport cible peut être activé au moyen 
+de l'ensemble d'actionneur (414) pour synchroniser 
+au moins un arbre de boîte associé au rapport cible, 
+notamment l'arbre d'entrée de boîte associé au rap-
+port cible, 
+caractérisé en ce que, afin d'engager le rapport 
+cible, au moins un élément de synchronisation (412) 
+associé à au moins un autre rapport peut être en 
+outre activé au moyen de l'ensemble d'actionneur 
+(414) pour synchroniser l'arbre de boîte associé au 
+rapport cible. 
+
+2. Véhicule selon la revendication 1, caractérisé par 
+une fonctionnalité de sécurité (316) qui empêche 
+l'engagement non intentionnel de l'autre rapport. 
+
+3. Véhicule selon la revendication 2, caractérisé en 
+ce que le dispositif de commande (316) est conçu 
+pour identifier sur la base de vitesses de rotation 
+détectées l'approche d'un point de synchronisation 
+associé à l'autre rapport, et pour supprimer ou ré-
+duire avant l'atteinte du point de synchronisation les 
+forces d'activation agissant sur au moins un élément 
+de sélection (412) et/ou un élément de synchronisa-
+tion (412) associé à l'autre rapport, afin d'empêcher 
+l'engagement de l'autre rapport. 
+
+39 
+40 
+
+
+EP 1 544 512 B1 
+
+22 
+
+5 
+
+10 
+
+15 
+
+20 
+
+25 
+
+30 
+
+35 
+
+40 
+
+45 
+
+50 
+
+55 
+
+4. Véhicule selon l'une quelconque des revendications 
+1 à 3, caractérisé en ce que le dispositif de com-
+mande (316) est conçu pour, au moyen de l'ensem-
+ble d'actionneur (414), activer en cas de besoin l'élé-
+ment de synchronisation au moins unique (412) as-
+socié à l'autre rapport au moins unique si au moins 
+une condition positive est remplie et/ou si au moins 
+une condition négative n'est pas remplie. 
+
+5. Véhicule comprenant une chaîne cinématique qui 
+présente : une unité d'entraînement (238), une boîte 
+de vitesses (330) commandée en charge avec un 
+premier arbre d'entrée de boîte et un deuxième arbre 
+d'entrée de boîte, et un dispositif d'embrayage (202) 
+avec un premier ensemble d'embrayage qui est as-
+socié au premier arbre d'entrée de boîte et un 
+deuxième ensemble d'embrayage qui est associé 
+au deuxième arbre d'entrée de boîte, pour la trans-
+mission de couple entre l'unité d'entraînement et la 
+boîte de vitesses, 
+sachant que les ensembles d'embrayage sont réa-
+lisés sous la forme d'ensembles d'embrayage mul-
+tidisques (204, 206) auxquels peut être apporté un 
+liquide de service, notamment un liquide de refroi-
+dissement, pour un fonctionnement sous l'action du 
+liquide de service, 
+sachant qu'un ensemble d'actionneur (236; 414) et 
+un dispositif de commande (316) commandant l'en-
+semble d'actionneur, par l'intermédiaire desquels 
+des rapports de boîte associés au premier et au 
+deuxième arbres d'entrée de boîte peuvent être en-
+gagés et désengagés, sont associés à la boîte de 
+vitesses, sachant que le dispositif de commande as-
+servit en outre un dispositif d'actionnement (234) de 
+préférence hydraulique associé ou affecté au dispo-
+sitif d'embrayage pour actionner les ensembles 
+d'embrayage dans le sens d'embrayage et dans le 
+sens de débrayage, 
+sachant que le dispositif de commande (316) est 
+conçu pour, dans un mode de passage de rapport 
+en charge, dans un état de la boîte de vitesses dans 
+lequel un rapport initial associé au premier arbre 
+d'entrée de boîte et un rapport cible associé à l'autre 
+arbre d'entrée de boîte sont engagés, actionner les 
+ensembles d'embrayage (204, 206) en sens contrai-
+res au moyen du dispositif d'actionnement (234) afin 
+de déplacer un couple d'entraînement de l'unité 
+d'entraînement d'un arbre d'entrée de boîte à l'autre 
+en continu et sans interruption de la force de traction 
+et ainsi de désactiver le rapport initial comme rapport 
+transmetteur de couple et d'activer le rapport cible 
+comme rapport transmetteur de couple, 
+caractérisé en ce qu'il est prévu un mode de syn-
+chronisation actif dans lequel, en vue de la désacti-
+vation du rapport initial comme rapport transmetteur 
+de couple et de l'activation du rapport cible comme 
+rapport transmetteur de couple, le rapport initial est 
+d'abord désengagé et/ou l'ensemble d'embrayage 
+
+associé au rapport initial est d'abord ouvert, puis la 
+vitesse de rotation de l'unité d'entraînement et la vi-
+tesse de rotation de l'arbre d'entrée de boîte associé 
+au rapport cible sont amenées au ratio de synchro-
+nisation du rapport cible, et enfin le rapport cible est 
+engagé. 
+
+6. Véhicule selon la revendication 5, caractérisé en 
+ce que, dans le mode de synchronisation actif, la 
+vitesse de rotation de l'unité d'entraînement et la vi-
+tesse de rotation de l'arbre d'entrée de boîte associé 
+au rapport cible sont amenées conjointement au ra-
+tio de synchronisation du rapport cible par le fait que, 
+lorsque la vitesse de rotation de l'unité d'entraîne-
+ment est amenée au ratio de synchronisation, l'en-
+semble d'embrayage associé au rapport cible est au 
+moins partiellement embrayé. 
+
+7. Véhicule selon la revendication 5, caractérisé en 
+ce que, dans le mode de synchronisation actif, après 
+avoir amené la vitesse de rotation de l'unité d'entraî-
+nement au ratio de synchronisation, la vitesse de 
+rotation de l'arbre d'entrée de boîte associé au rap-
+port cible est amenée au ratio de synchronisation en 
+embrayant au moins partiellement l'ensemble d'em-
+brayage associé au rapport cible. 
+
+8. Véhicule selon l'une quelconque des revendications 
+5 à 7, caractérisé en ce que le mode de synchro-
+nisation active, concernant le passage à un rapport 
+supérieur, n'est autorisé que si une vitesse momen-
+tanée du véhicule rapportée au rapport cible est éga-
+le ou supérieure à un régime minimal de ralenti de 
+l'unité d'entraînement. 
+
+9. Véhicule comprenant une chaîne cinématique qui 
+présente: une unité d'entraînement (238), une boîte 
+de vitesses (330) commandée en charge avec un 
+premier arbre d'entrée de boîte et un deuxième arbre 
+d'entrée de boîte, et un dispositif d'embrayage (202) 
+avec un premier ensemble d'embrayage qui est as-
+socié au premier arbre d'entrée de boîte et un 
+deuxième ensemble d'embrayage qui est associé 
+au deuxième arbre d'entrée de boîte, pour la trans-
+mission de couple entre l'unité d'entraînement et la 
+boîte de vitesses, 
+sachant que les ensembles d'embrayage sont réa-
+lisés sous la forme d'ensembles d'embrayage mul-
+tidisques (204, 206) auxquels peut être apporté un 
+liquide de service, notamment un liquide de refroi-
+dissement, pour un fonctionnement sous l'action du 
+liquide de service, 
+sachant qu'un ensemble d'actionneur (236, 414) et 
+un dispositif de commande (316) commandant l'en-
+semble d'actionneur, par l'intermédiaire desquels 
+des rapports de boîte associés au premier et au 
+deuxième arbres d'entrée de boîte peuvent être en-
+gagés et désengagés, sont associés à la boîte de 
+
+41 
+42 
+
+
+EP 1 544 512 B1 
+
+23 
+
+5 
+
+10 
+
+15 
+
+20 
+
+25 
+
+30 
+
+35 
+
+40 
+
+45 
+
+50 
+
+55 
+
+vitesses, sachant que le dispositif de commande as-
+servit en outre un dispositif d'actionnement (234) de 
+préférence hydraulique associé ou affecté au dispo-
+sitif d'embrayage pour actionner les ensembles 
+d'embrayage dans le sens d'embrayage et dans le 
+sens de débrayage, 
+sachant que le dispositif de commande (316) est 
+conçu pour, dans un mode de passage de rapport 
+en charge, dans un état de la boîte de vitesses dans 
+lequel un rapport initial associé au premier arbre 
+d'entrée de boîte et un rapport cible associé à l'autre 
+arbre d'entrée de boîte sont engagés, actionner les 
+ensembles d'embrayage (204, 206) en sens contrai-
+res au moyen du dispositif d'actionnement (234) afin 
+de déplacer un couple d'entraînement de l'unité 
+d'entraînement d'un arbre d'entrée de boîte à l'autre 
+en continu et sans interruption de la force de traction 
+et ainsi de désactiver le rapport initial comme rapport 
+transmetteur de couple et d'activer le rapport cible 
+comme rapport transmetteur de couple, 
+caractérisé en ce que le dispositif de commande 
+(316) est conçu pour, lors du passage d'un rapport 
+initial supérieur à un rapport cible inférieur, donc lors 
+d'une rétrogradation, en préparation d'un engage-
+ment du rapport cible, agir sur l'unité d'entraînement 
+de telle sorte que le couple d'entraînement de celle-
+ci augmente au-delà d'un couple pouvant être trans-
+mis par l'ensemble d'embrayage associé au rapport 
+initial, de sorte que la vitesse de rotation de l'unité 
+d'entraînement augmente au-delà de la vitesse de 
+rotation momentanée de l'arbre d'entrée de boîte as-
+socié au rapport initial et au moins s'approche d'une 
+vitesse de rotation synchrone pour le rapport cible 
+qui est dépendante de la vitesse momentanée du 
+véhicule, et de préférence atteint au moins approxi-
+mativement cette vitesse de rotation, et en ce que 
+le dispositif de commande (316) est conçu pour, au 
+cours de l'augmentation du couple d'entraînement 
+ou encore de l'accélération de l'arbre d'entrée de 
+boîte associé au rapport cible ou ensuite, comman-
+der l'ensemble d'actionneur (236 ; 414) de telle sorte 
+que ce dernier agit sur la boîte de vitesses au sens 
+d'un engagement du rapport cible. 
+
+10. Véhicule selon la revendication 9, caractérisé en 
+ce que le dispositif de commande (316) est conçu 
+pour, en même temps que l'augmentation du couple 
+d'entraînement ou ensuite, actionner l'ensemble 
+d'embrayage associé au rapport cible dans le sens 
+d'embrayage afin d'accélérer l'arbre d'entrée de boî-
+te associé au rapport cible dans le sens d'un rappro-
+chement de la vitesse de rotation synchrone, et de 
+préférence l'amener au moins approximativement à 
+la vitesse de rotation synchrone. 
+
+11. Véhicule comprenant une chaîne cinématique qui 
+présente : une unité d'entraînement (238), une boîte 
+de vitesses (330) commandée en charge avec un 
+
+premier arbre d'entrée de boîte et un deuxième arbre 
+d'entrée de boîte, et un dispositif d'embrayage (202) 
+avec un premier ensemble d'embrayage qui est as-
+socié au premier arbre d'entrée de boîte et un 
+deuxième ensemble d'embrayage qui est associé 
+au deuxième arbre d'entrée de boîte, pour la trans-
+mission de couple entre l'unité d'entraînement et la 
+boîte de vitesses, 
+sachant que les ensembles d'embrayage sont réa-
+lisés sous la forme d'ensembles d'embrayage mul-
+tidisques (204, 206) auxquels peut être apporté un 
+liquide de service, notamment un liquide de refroi-
+dissement, pour un fonctionnement sous l'action du 
+liquide de service, 
+sachant qu'un ensemble d'actionneur (236 ; 414) et 
+un dispositif de commande (316) commandant l'en-
+semble d'actionneur, par l'intermédiaire desquels 
+des rapports de boîte associés au premier et au 
+deuxième arbres d'entrée de boîte peuvent être en-
+gagés et désengagés, sont associés à la boîte de 
+vitesses, sachant que le dispositif de commande as-
+servit en outre un dispositif d'actionnement (234) de 
+préférence hydraulique associé ou affecté au dispo-
+sitif d'embrayage pour actionner les ensembles 
+d'embrayage dans le sens d'embrayage et dans le 
+sens de débrayage, 
+sachant que le dispositif de commande (316) est 
+conçu pour, dans un mode de passage de rapport 
+en charge, dans un état de la boîte de vitesses dans 
+lequel un rapport initial associé au premier arbre 
+d'entrée de boîte et un rapport cible associé à l'autre 
+arbre d'entrée de boîte sont engagés, actionner les 
+ensembles d'embrayage (204, 206) en sens contrai-
+res au moyen du dispositif d'actionnement (234) afin 
+de déplacer un couple d'entraînement de l'unité 
+d'entraînement d'un arbre d'entrée de boîte à l'autre 
+en continu et sans interruption de la force de traction 
+et ainsi de désactiver le rapport initial comme rapport 
+transmetteur de couple et d'activer le rapport cible 
+comme rapport transmetteur de couple, 
+et sachant que le dispositif de commande (316) est 
+conçu pour, lors du passage d'un rapport initial infé-
+rieur à un rapport cible supérieur, donc lors d'une 
+montée de rapport, en préparation d'un engagement 
+du rapport cible, actionner l'ensemble d'embrayage 
+associé au rapport cible dans le sens d'embrayage 
+à partir d'un état débrayé suffisamment pour que l'ar-
+bre d'entrée de boîte associé au rapport cible -arbre 
+qui jusqu'alors, du fait de l'action de couples de glis-
+sement de boîte et/ou de couples de freinage, tourne 
+au plus à une vitesse de rotation inférieure à la vi-
+tesse de synchronisation pour le rapport cible -soit 
+accéléré dans le sens d'un rapprochement de la vi-
+tesse de synchronisation et de préférence atteigne 
+au moins approximativement celle-ci, 
+caractérisé en ce que le dispositif de commande 
+(316) évalue une température effective du liquide de 
+service -qui est détectée par un ensemble de cap-
+
+43 
+44 
+
+
+EP 1 544 512 B1 
+
+24 
+
+5 
+
+10 
+
+15 
+
+20 
+
+25 
+
+30 
+
+35 
+
+40 
+
+45 
+
+50 
+
+55 
+
+teur et/ou déterminée par le dispositif de commande 
+-et, en fonction de cette évaluation, débloque ou 
+bloque un fonctionnement normal de passage de 
+rapports et d'embrayage, avec libre choix des rap-
+ports et/ou passage des rapports sans interruption 
+de la force de traction. 
+
+12. Véhicule selon la revendication 11, caractérisé en 
+ce que le dispositif de commande (316) est conçu 
+pour, au cours de l'accélération de l'arbre d'entrée 
+de boîte associé au rapport cible ou ensuite, com-
+mander l'ensemble d'actionneur (236 ; 414) de telle 
+sorte que ce dernier, en vue de la préparation de 
+l'actionnement en sens contraires des ensembles 
+d'embrayage, agit sur la boîte de vitesses au sens 
+d'un engagement du rapport cible. 
+
+13. Véhicule selon la revendication 11, caractérisé en 
+ce que le dispositif de commande (316) débloque 
+le fonctionnement normal de passage de rapports 
+et d'embrayage si la température effective dépasse 
+une valeur de seuil ou si une viscosité du liquide de 
+service -déterminée à partir de la température ef-
+fective -est tombée sous une valeur de seuil. 
+
+14. Véhicule selon la revendication 13 ou 14, caracté-
+risé en ce que le dispositif de commande (316) est 
+conçu pour déterminer la température effective du 
+liquide de service à partir d'au moins une valeur de 
+température qui est déterminée au moyen d'un en-
+semble de capteur et qui n'indique pas directement 
+la température effective du liquide de service, et/ou 
+à partir d'au moins un paramètre de service de la 
+chaîne cinématique, sachant que la détermination 
+peut éventuellement se baser sur plusieurs valeurs 
+de température ou paramètres de service consigné 
+(e) s à différents instants, et/ou sur un modèle de 
+température défini par exemple mathématiquement 
+et/ou par des diagrammes caractéristiques. 
+
+45 
+46 
+
+
+EP 1 544 512 B1 
+
+25 
+
+
+EP 1 544 512 B1 
+
+26 
+
+
+EP 1 544 512 B1 
+
+27 
+
+
+EP 1 544 512 B1 
+
+28 
+
+
+EP 1 544 512 B1 
+
+29 
+
+
+EP 1 544 512 B1 
+
+30 
+
+
+EP 1 544 512 B1 
+
+31 
+
+
+EP 1 544 512 B1 
+
+32 
+
+IN DER BESCHREIBUNG AUFGEFÜHRTE DOKUMENTE 
+
+Diese Liste der vom Anmelder aufgeführten Dokumente wurde ausschließlich zur Information des Lesers aufgenommen 
+und ist nicht Bestandteil des europäischen Patentdokumentes. Sie wurde mit größter Sorgfalt zusammengestellt; das 
+EPA übernimmt jedoch keinerlei Haftung für etwaige Fehler oder Auslassungen. 
+
+In der Beschreibung aufgeführte Patentdokumente 
+
+• 
+DE 10004179 A1 [0002] 
+• 
+DE 19939819 C [0003] 
+• 
+US 5407401 A [0003] 
+
+• 
+DE 10128856 [0007] 
+• 
+DE 19950696 A1 [0069] 
+
+In der Beschreibung aufgeführte Nicht-Patentliteratur 
+
+• 
+N. HOLZER ; D. FREY. Schleppmomente an nas-
+slaufenden Lamellenbremsen. VDI BERICHTE, vol. 
+1323, 469-489 [0055] 
+
+
+
+	
+

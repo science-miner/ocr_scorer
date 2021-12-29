@@ -1,0 +1,3413 @@
+
+	
+
+		
+
+	
+
+	
+
+Anmerkung: Innerhalb von neun Monaten nach der Bekanntmachung des Hinweises auf die Erteilung des europäischen 
+Patents kann jedermann beim Europäischen Patentamt gegen das erteilte europäische Patent Einspruch einlegen. 
+Der Einspruch ist schriftlich einzureichen und zu begründen. Er gilt erst als eingelegt, wenn die Einspruchsgebühr 
+entrichtet worden ist. (Art. 99(1) Europäisches Patentübereinkommen). 
+
+Printed by Jouve, 75001 PARIS (FR) 
+
+(19) 
+
+EP 1 289 630 B1 
+
+&amp; 
+
+(11) 
+
+EP 1 289 630 B1 
+
+(12) 
+
+EUROPÄISCHE PATENTSCHRIFT 
+
+(45) Veröffentlichungstag und Bekanntmachung des 
+
+Hinweises auf die Patenterteilung: 
+05.03.2008 Patentblatt 2008/10 
+
+(21) Anmeldenummer: 01909794.8 
+
+(22) Anmeldetag: 26.02.2001 
+
+(51) Int Cl.: 
+
+B01D 63/02 (2006.01) 
+B01D 63/08 (2006.01) 
+B01D 63/10 (2006.01) 
+
+(86) Internationale Anmeldenummer: 
+
+PCT/EP2001/002147 
+
+(87) Internationale Veröffentlichungsnummer: 
+
+WO 2001/066237 (13.09.2001 Gazette 2001/37) 
+
+(54) MODUL MIT MEMBRANELEMENTEN IN CROSS-FLOW UND IN DEAD-END ANORDNUNG 
+
+MODULE WITH MEMBRANE ELEMENTS IN A CROSS-FLOW AND IN A DEAD-END 
+ARRANGEMENT 
+
+MODULE A ELEMENTS DE MEMBRANE POUR ECOULEMENT PARTIEL ET ECOULEMENT TOTAL 
+
+(84) Benannte Vertragsstaaten: 
+
+AT CH DE FR GB IT LI 
+
+(30) Priorität: 07.03.2000 DE 10011014 
+
+(43) Veröffentlichungstag der Anmeldung: 
+
+12.03.2003 Patentblatt 2003/11 
+
+(73) Patentinhaber: MAT Adsorption Technologies 
+
+GmbH &amp; Co. KG 
+63784 Obernburg (DE) 
+
+(72) Erfinder: 
+
+• BAURMEISTER, Ulrich 
+42115 Wuppertal (DE) 
+
+• WOLLBECK, Rudolf 
+63906 Erlenbach (DE) 
+
+(74) Vertreter: Schröder, Richard et al 
+
+CPW GmbH 
+Postfach 10 01 49 
+42097 Wuppertal (DE) 
+
+(56) Entgegenhaltungen: 
+
+EP-A-0 888 809 
+DE-A-19 645 537 
+US-A-5 618 418 
+US-A-5 922 200 
+US-A-6 022 478 
+
+
+EP 1 289 630 B1 
+
+2 
+
+5 
+
+10 
+
+15 
+
+20 
+
+25 
+
+30 
+
+35 
+
+40 
+
+45 
+
+50 
+
+55 
+
+Beschreibung 
+
+[0001] Die Erfindung betrifft einen Membranmodul zur 
+stoffspezifischen Behandlung eines Fluids, enthaltend 
+ein Gehäuse, eine Einlasseinrichtung zum Einleiten des 
+zu behandelnden Fluids in das Gehäuse in einen Vertei-
+lerraum, eine Auslasseinrichtung zum Ableiten des be-
+handelten Fluids aus dem Gehäuse aus einem Sammel-
+raum, und im Gehäuse angeordnete erste Membranele-
+mente mit poröser semipermeabler Wand sowie jeweils 
+einem dem Verteilerraum und einem dem Sammelraum 
+zugewandten Ende und einem durch die Wand ausge-
+bildeten Hohlraum, wobei die ersten Membranelemente 
+mit ihrem dem Verteilerraum zugewandten Ende in eine 
+erste und mit ihrem dem Sammelraum zugewandten En-
+de in eine zweite Vergussmasse so eingebettet sind, 
+dass die Enden durch die Vergussmassen hindurchtre-
+ten und die Hohlräume der ersten Membranelemente je-
+weils sowohl an dem dem Verteilerraum zugewandten 
+Ende als auch an dem dem Sammelraum zugewandten 
+Ende offen sind und in den Verteilerraum und in den Sam-
+melraum mündet. 
+[0002] Die Erfindung betrifft des Weiteren ein Verfah-
+ren zur stoffspezifischen Behandlung eines Fluids. 
+[0003] Stoffspezifische Behandlungen von Fluiden ge-
+winnen in zunehmendem Maße an Bedeutung in Anwen-
+dungsgebieten wie der Biotechnologie, der Medizin oder 
+der chemischen Technologie. Unter Fluiden sind dabei 
+Gase, Gasgemische sowie allgemein Flüssigkeiten wie 
+z.B. Proteinlösungen, Suspensionen oder klare Lösun-
+gen zu subsumieren. Ein Beispiel für eine stoffspezifi-
+sche Behandlung ist die Gewinnung von Wirkstoffen aus 
+Zellsuspensionen, in denen genmodifizierte Zellen Stoffe 
+wie Antikörper, Hormone, Wachstumsfaktoren oder En-
+zyme in meist kleinen Konzentrationen produziert haben. 
+Eine wichtige Anwendung ist auch die extrakorporale 
+Entfernung von unerwünschten Substanzen aus dem 
+menschlichen Blutplasma sowie die Gewinnung von 
+Komponenten wie z.B. Immunglobulinen oder Gerin-
+nungsfaktoren 
+aus 
+gespendetem 
+Blutplasma. 
+Schließlich ist eine breite Anwendung auch die katalyti-
+sche oder biokatalytische -enzymatische -Behandlung 
+von Flüssigkeiten wie z.B. die Hydrolyse von Ölen durch 
+Lipasen, die an einer Matrix immobilisiert sind. 
+[0004] Die stoffspezifische Behandlung von Fluiden 
+erfolgt vielfach derart, dass das zu behandelnde Fluid 
+mit einem Träger in Kontakt gebracht wird, auf und/ oder 
+in dem funktionelle Gruppen oder Substanzen immobili-
+siert sind, die in spezifischer, selektiver Weise mit der in 
+dem Fluid enthaltenen Zielsubstanz, d.h. der Substanz, 
+auf die die stoffspezifische Behandlung ausgerichtet ist, 
+wechselwirken. Solche Wechselwirkungen können bei-
+spielsweise Kationen-oder Anionenaustausch, Hydro-
+phil-Hydrophob-Wechselwirkung, Wasserstoffbrücken-
+bildung, Affinität oder enzymatische oder katalytische 
+Reaktionen und dergleichen sein. Bei der affinen Stoff-
+trennung, wie z.B. der Affinitätschromatographie, sind an 
+den Träger Liganden gekoppelt oder im Träger immobi-
+
+lisiert. Die Liganden haben die Funktion, eine einzelne 
+Zielsubstanz oder auch eine ganze Klasse von Substan-
+zen adsorptiv spezifisch zu binden. Diese Zielsubstanz 
+wird als Ligat bezeichnet. Ein Beispiel für klassenspezi-
+fische Liganden sind positiv geladene Diethylaminoethyl 
+(DEAE)-Gruppen oder negativ geladene Sulfonsäure 
+(SO 3 ) -Gruppen, die die Klasse der positiv geladenen 
+bzw. negativ geladenen Moleküle adsorbieren. Spezifi-
+sche Liganden sind z.B. Antikörper gegen ein bestimm-
+tes Protein, das als Ligat an den Antikörper gebunden 
+wird. 
+[0005] Als stoffspezifische Behandlungen im Sinne 
+der vorliegenden Erfindung werden aber auch solche Be-
+handlungen verstanden, durch die Moleküle oder Parti-
+kel aufgrund ihrer Größe abgeschieden oder zurückge-
+halten werden. Für zahlreiche Anwendungen ist es wün-
+schenswert bzw. erforderlich, ein zu behandelndes Fluid 
+mehreren und eventuell auch unterschiedlichen stoffspe-
+zifischen Behandlungen zu unterziehen. So kann es bei 
+Filtrationsprozessen von Suspensionen mit unterschied-
+lichen Partikelfraktionen erforderlich sein, zunächst grö-
+ßere Partikel mit einem groben offenporigen Vorfilter vor-
+zufiltrieren und dann das Filtrat einer weiteren stoffspe-
+zifischen Behandlung z.B. nach der Größe oder nach der 
+Affinität zu einem Liganden zu unterziehen. 
+[0006] Wesentliche Kriterien bei der stoffspezifischen 
+Behandlung von Fluiden sind Produktivität und Selekti-
+vität. Mit Blick auf die Produktivität ist es wichtig, dass 
+möglichst viele funktionelle Gruppen pro Volumeneinheit 
+zur Verfügung stehen, die mit der in dem zu behandeln-
+den Fluid enthaltenen Zielsubstanz in Wechselwirkung 
+treten können. Gleichzeitig ist eine Maximierung des 
+Transports der Zielsubstanz zu den funktionellen Grup-
+pen bzw. Substanzen anzustreben. 
+[0007] In vielen derartigen Verfahren zur stoffspezi-
+fischen Behandlung von Fluiden werden heute Mem-
+branen mit poröser Struktur als Träger für funktionelle 
+Gruppen eingesetzt. Aufgrund ihrer porösen Struktur 
+stellen Membranen eine große innere Oberfläche zur 
+Verfügung, so dass an die Membranen in einer hohen 
+Konzentration pro Volumeneinheit eine große Anzahl 
+von funktionellen Gruppen gekoppelt werden kann, die 
+in Wechselwirkung mit den die Membran durchströ-
+menden, zu behandelnden Fluiden treten (s. z.B. E. 
+Klein, "Affinity Membranes", John Wiley &amp; Sons, Inc., 
+1991; S. Brandt u. a., "Membrane-Based Affinity Tech-
+nology for Commercial Scale Purifications", Bio/ Technol-
+ogy Vol. 6 (1988), S. 779-782). 
+[0008] Über die Ausführung der verwendeten Mem-
+bran kann eine Anpassung an die Erfordernisse des Be-
+handlungsverfahrens erfolgen. Es stehen Membranen in 
+Form von Hohlfasern oder als Flachmembranen aus un-
+terschiedlichsten Materialien zur Verfügung, so dass ei-
+ne Anpassung an die physikochemischen Eigenschaften 
+der zu behandelnden Fluide möglich ist. Auch die Poren-
+größe der Membranen kann so eingestellt werden, dass 
+ein zu behandelndes Fluid z.B. mit einer in ihm enthal-
+tenen Zielsubstanz durch die Membran konvektiv hin-
+
+1 
+2 
+
+
+EP 1 289 630 B1 
+
+3 
+
+5 
+
+10 
+
+15 
+
+20 
+
+25 
+
+30 
+
+35 
+
+40 
+
+45 
+
+50 
+
+55 
+
+durchströmen kann und -im Falle der Anbindung der 
+Zielsubstanz an die wechselwirkenden Gruppen -keine 
+Blockierung der Membran eintritt. 
+[0009] Durch die Dicke der Membranwand lässt sich 
+bei gegebener linearer Flussgeschwindigkeit die Ver-
+weilzeit des zu behandelnden Fluids in der Membran so-
+wie der bei der Durchströmung entstehende Druckver-
+lust beeinflussen. Aufgrund ihrer in der Regel nur gerin-
+gen Wanddicke (z.B. &lt;300 Pm) zeichnen sich Membra-
+nen durch kurze Transportwege des zu behandelnden 
+Fluids z.B. zu in den Membranen immobilisierten, wech-
+selwirkenden Gruppen aus, wodurch die Verweilzeiten 
+vergleichsweise kurz, die Druckverluste gering, die linea-
+ren Flussgeschwindigkeiten und damit die Bindungsra-
+ten hoch sind. 
+[0010] Es sind eine Reihe von solche Membranen ent-
+haltenden Vorrichtungen beschrieben, die bei Verfahren 
+zur stoffspezifischen Behandlung von Fluiden verwendet 
+werden. Dabei ist zwischen dem sogenannten dead-end-
+Modus bzw. den dead-end-Modulen und dem cross-flow-
+Modus bzw. den cross-flow-Modulen zu unterscheiden. 
+[0011] Bei der Fahrweise im cross-flow-Modus fließt 
+das zu behandelnde Fluid als Speisestrom parallel zur 
+einen Seite der Membran, und ein Teil des Speisestroms 
+tritt als Permeat durch die Membran hindurch. Daraus 
+ergibt sich, dass bei cross-flow Modulen stets nur ein Teil 
+der zu behandelnden Flüssigkeit, nämlich der Teil, der 
+als Permeat durch die Membranwand tritt, der stoffspe-
+zifischen Behandlung unterzogen werden kann, die in 
+der Regel in der Membranwand oder auch im Außen-
+raum der Membranen erfolgt. 
+[0012] Beim dead-end-Modus hingegen wird das ge-
+samte, als Speisestrom in den Membranmodul einströ-
+mende Fluid durch die Membran hindurchgeführt und auf 
+der der Einströmseite der Membran gegenüberliegenden 
+Abströmseite als Filtrat bzw. Permeat abgeleitet. 
+[0013] Die WO 90/05018 offenbart einen cross-flow 
+Modul mit Hohlfasermembranen zum Einsatz bei Affini-
+tätstrennverfahren. Bei diesem Modul wird eine ligathal-
+tige Flüssigkeit über eine Einlasseinrichtung in das Mo-
+dulgehäuse eingeleitet und strömt tangential entlang ei-
+ner Seite der Hohlfasermembranen, in und an der die 
+Liganden gekoppelt sind. Ein Teil der Flüssigkeit permei-
+ert durch die Membran hindurch, wobei die Ligaten an 
+die Liganden angelagert werden, und tritt auf der der Ein-
+trittsseite gegenüberliegenden Membranseite als Per-
+meatstrom aus. Über getrennte Auslasseinrichtungen 
+werden Retentatstrom und Permeatstrom abgeleitet. 
+[0014] In der EP-A-0 341 413 wird ein Adsorbermodul 
+zur Behandlung von Vollblut beschrieben, bei dem die 
+im Modul enthaltenen, an ihren beiden Enden in Ver-
+gussmassen eingebetteten und mit Liganden versehe-
+nen Hohlfasermembranen im cross-flow-Modus lumen-
+seitig vom Blut durchströmt werden. Hierbei tritt Plasma 
+als Permeat durch die Hohlfasermembranwand in den 
+die Hohlfasermembranen umschließenden Außenraum, 
+wobei in der Membranwand die Behandlung des Plas-
+mas erfolgt. In einer speziellen Ausführungsform besitzt 
+
+dieser Modul keinen Auslass für das Permeat, sondern 
+das als Permeat abgetrennte Plasma sammelt sich im 
+Außenraum um die Kapillaren und tritt infolge der sich 
+einstellenden Druckverhältnisse wieder durch die Hohl-
+fasermembranwandung in das Lumen der Hohlfaser-
+membran ein. Bei einem solchen Modulkonzept muss 
+der Permeatstrom zweimal durch die Membranwand hin-
+durchtreten, so dass der Fluss durch die Membran in 
+einem größeren Bereich nahezu Null ist, andererseits im 
+Eingangsbereich sehr groß ist. Ein solcher Modul hat den 
+Nachteil, dass in den Bereichen des hohen Flusses die 
+Bindungskapazität früh erschöpft wird, während die Be-
+reiche geringen Flusses in ihrer Kapazität nicht ausge-
+nutzt werden. 
+[0015] Die DE-A-33 02 384 beschreibt einen Hohlfa-
+sermembranen enthaltenden dead-end-Modul zur Be-
+handlung von Blutplasma. Dieser Modul enthält zwei hin-
+tereinandergeschaltete und nebeneinander angeordne-
+te Bündel von Hohlfasermembranen, mittels derer eine 
+Abscheidung pathologischer Moleküle aus dem Blutplas-
+ma über Größenfraktionierung erfolgt. Die Enden der 
+Hohlfasermembranen der beiden Membranbündel sind 
+so in gemeinsamen Einbettungen im Gehäuse des Mo-
+duls eingegossen, dass die Hohlfasermembranen des 
+ersten Membranbündels an ihrem dem Einlauf in den 
+Modul zugewandten Ende offen und an ihrem entgegen-
+gesetzten Ende verschlossen sind, wohingegen die 
+Hohlfasermembranen des zweiten Membranbündels an 
+ihrem dem Auslauf aus dem Modul zugewandten Ende 
+geöffnet und an ihrem anderen Ende verschlossen sind. 
+Die offenen Enden der beiden Hohlfaserbündel sind also 
+entgegengesetzt angeordnet. Im Betrieb strömt das zu 
+behandelnde Blutplasma, aus dem die pathogenen Be-
+standteile abgefiltert werden sollen, im dead-end-Modus 
+zunächst über die geöffneten Enden der Hohlfasermem-
+branen des ersten Membranbündels in das Lumen dieser 
+Membranen und durch deren Wand in den extralumina-
+ren Bereich. Das somit einmal filtrierte Plasma fließt dann 
+von außen nach innen in das Lumen der Hohlfasermem-
+branen des zweiten Membranbündels und verlässt diese 
+durch deren geöffnete Enden. 
+[0016] In der DE-A-37 09 432 wird ein dead-end Modul 
+zur Sterilisation von flüssigen Medien offenbart, der zwei 
+hintereinandergeschaltete, nebeneinander angeordnete 
+Bündel von Hohlfasermembranen enthält und von sei-
+nem Aufbau her dem in der DE-A-33 02 384 beschrie-
+benen ähnlich ist. Bei dem Modul gemäß DE-A-37 09 
+432 kann die Membran mindestens eines der Hohlfaser-
+bündel Adsorptivstoffe aufweisen. Die Bündel können 
+darüber hinaus von einer zusätzlichen Filtrationseinrich-
+tung in Form eines semipermeablen Schlauchs um-
+schlossen sein, wobei diese ebenfalls Adsorptivstoffe 
+aufweisen kann. 
+[0017] Die US 5,693,230 offenbart ebenfalls einen 
+dead-end Modul mit zwei Gruppen von Hohlfasermem-
+branen, wobei alle Hohlfasermembranen an ihrem einem 
+Ende offen und an ihrem anderen Ende verschlossen 
+sind. Hierbei enthält der Modul erste Hohlfasermembra-
+
+3 
+4 
+
+
+EP 1 289 630 B1 
+
+4 
+
+5 
+
+10 
+
+15 
+
+20 
+
+25 
+
+30 
+
+35 
+
+40 
+
+45 
+
+50 
+
+55 
+
+nen zur Zuführung des zu behandelnden Fluids und zwei-
+te Hohlfasermembranen zur Abführung des behandelten 
+Fluids. Das zu behandelnde Fluid strömt durch die offe-
+nen Enden der ersten Hohlfasermembranen in deren Lu-
+men ein, tritt durch die poröse Wand dieser Membranen 
+hindurch in den Außenraum um die ersten und zweiten 
+Hohlfasermembranen und wird von dort durch die poröse 
+Wand der zweiten Hohlfasermembranen in deren Lumen 
+eingeleitet und durch deren offene Enden abgeleitet. Im 
+Außenraum wird das Fluid mit einem sich dort befinden-
+den Behandlungsmedium in Kontakt gebracht und be-
+handelt. 
+[0018] Gemäß der US-A-6022 478 wird ein Modul ein-
+gesetzt, in dem mehrere Membranen nacheinander 
+gleich zeitig um-und durchsfrömt werden. 
+[0019] Generell ist im Unterschied zu den cross-flow 
+Modulen ein Nachteil von dead-end Modulen, dass sie 
+für die Behandlung von Suspensionen nur in stark ein-
+geschränktem Maße geeignet sind, da bei dieser Kon-
+struktion in der Regel die suspendierten Partikel von der 
+eingesetzten Membran zurückgehalten werden. Darüber 
+hinaus sind dead-end Membranmodule nach dem Stand 
+der Technik insofern wenig flexibel einsetzbar, da bei 
+ihrer Anwendung in der Regel nur eine einzige stoffspe-
+zifische Behandlung an einem zu behandelnden Fluid 
+durchgeführt werden kann. 
+[0020] Es ist daher Aufgabe der vorliegenden Erfin-
+dung, einen Membranmodul der eingangs genannten Art 
+zur Verfügung zu stellen, bei welchem die Nachteile der 
+Membranmodule des Stands der Technik zumindest re-
+duziert sind und der für die stoffspezifische Behandlung 
+sowohl von klaren Lösungen als auch insbesondere von 
+Suspensionen geeignet ist, flexibel an die jeweilige Fluid-
+behandlung angepasst werden kann und mittels dessen 
+insbesondere verschiedenartige aufeinanderfolgende 
+stoffspezifische Behandlungen ermöglicht werden. 
+[0021] Es ist des Weiteren Aufgabe der vorliegenden 
+Erfindung, ein Verfahren zur effizienten stoffspezifischen 
+Behandlung von Fluiden unter Verwendung eines semi-
+permeable Membranen mit poröser Struktur enthalten-
+den Moduls bereitzustellen, bei dem die oben genannten 
+Nachteile zumindest reduziert sind und z.B. eine bessere 
+Ausnutzung von im Modul immobilisierten funktionellen 
+Gruppen und die stoffspezifische Behandlung von Sus-
+pensionen ermöglicht wird. 
+[0022] Die Aufgabe wird bei einem Membranmodul ge-
+mäß Oberbegriff des Anspruchs 1 dadurch gelöst, dass 
+der Membranmodul des Weiteren im Gehäuse angeord-
+nete zweite Membranelemente mit poröser semipermea-
+bler Wand sowie jeweils einem dem Verteilerraum und 
+einem dem Sammelraum zugewandten Ende und einem 
+durch die Wand ausgebildeten Hohlraum enthält, wobei 
+die zweiten Membranelemente mit ihrem dem Sammel-
+raum zugewandten Ende zusammen mit den ersten 
+Membranelementen in die zweite Vergussmasse so ein-
+gebettet sind, dass diese Enden durch die zweite Ver-
+gussmasse hindurchtreten und die Hohlräume der zwei-
+ten Membranelemente an diesem Ende offen sind und 
+
+in den Sammelraum münden, und die zweiten Membra-
+nelemente an ihren dem Verteilerraum zugewandten En-
+den geschlossen sind, wobei die ersten und die zweiten 
+Membranelemente eine Membranelementeanordnung 
+ausbilden und wobei zwischen den Vergussmassen ein 
+gegenüber dem Verteilerraum und gegenüber dem Sam-
+melraum fluiddicht abgetrennter und durch die Verguss-
+massen, die Innenwand des Gehäuses und die Membra-
+nelemente begrenzter Aussenraum ausgebildet ist. 
+[0023] Hierbei ist die Erstreckung der ersten und zwei-
+ten Membranelemente in der Richtung zwischen der dem 
+Verteilerraum zugewandten Vergussmasse und der dem 
+Sammelraum zugewandten Vergussmasse größer als 
+diejenige in mindestens einer der dazu senkrechten 
+Richtungen. 
+[0024] Unter einer fluiddichten Abtrennung des Au-
+ßenraums gegenüber dem Verteilerraum bzw. dem 
+Sammelraum wird hier verstanden, dass ein Fluid, wel-
+ches sich im Verteilerraum befindet, nur über die ersten 
+Membranelemente in den Außenraum gelangen kann 
+und umgekehrt und dass ein Fluid, welches sich im Au-
+ßenraum befindet, nur über die ersten bzw. die zweiten 
+Membranelemente in den Sammelraum gelangen kann 
+und umgekehrt. 
+[0025] In der Anwendung wird das zu behandelnde 
+Fluid als Speisestrom in den erfindungsgemäßen Mem-
+branmodul eingeleitet und entlang der dem Hohlraum 
+zugewandten Seite der Wände der ersten Membranele-
+mente im cross-flow-Modus so vorbeigeführt, dass ein 
+Teil des Speisestroms durch die semipermeablen Wän-
+de der ersten Membranelemente als Permeat hindurch-
+tritt und der Rest des Speisestroms als Retentat durch 
+die Hohlräume der ersten Membranelemente strömt und 
+schließlich aus diesen an ihrem dem Sammelraum zu-
+gewandten Ende austritt. Das Permeat durchströmt nach 
+Austritt aus den Wänden der ersten Membranelemente 
+den Außenraum im wesentlichen in Richtung auf die 
+zweiten Membranelemente. Zumindest ein wesentlicher 
+Teil des Permeats strömt im dead-end-Modus durch die 
+semipermeablen Wände der zweiten Membranelemente 
+in deren Hohlräume ein, durchströmt diese Hohlräume 
+und tritt aus den zweiten Membranelementen an ihrem 
+geöffneten, dem Sammelraum zugewandten Ende in 
+den Sammelraum aus. Dort wird es mit dem aus den 
+ersten Membranelementen austretenden Retentat ver-
+einigt. Zwischen der Abtrennung vom Speisestrom und 
+der Vereinigung mit dem Retentat wird das Permeat min-
+destens einer stoffspezifischen Behandlung unterwor-
+fen. 
+[0026] Je nach Ausführungsform des erfindungsge-
+mäßen Membranmoduls, d.h. abhängig von den im Mo-
+dul herrschenden Druckverhältnissen, ist es möglich, 
+dass ein Teil des in den Außenraum eingeströmten Per-
+meats nicht durch die zweiten Membranelemente strömt, 
+sondern über eine Rückfiltration im Bereich vor der dem 
+Sammelraum zugewandten Vergussmasse durch die 
+Wände der ersten Membranelemente in deren Hohlraum 
+zurückströmt, um sich dort mit dem Retentat zu vereini-
+
+5 
+6 
+
+
+EP 1 289 630 B1 
+
+5 
+
+5 
+
+10 
+
+15 
+
+20 
+
+25 
+
+30 
+
+35 
+
+40 
+
+45 
+
+50 
+
+55 
+
+gen. Erfindungsgemäß strömt jedoch zumindest ein we-
+sentlicher Teil des Permeats und bevorzugt zumindest 
+50 % des Permeats durch die zweiten Membranelemen-
+te. 
+[0027] Der aus Retentat und Permeat vereinigte Fluid-
+strom verlässt das Gehäuse als behandeltes Fluid über 
+die Auslasseinrichtung. In Gestalt der ersten und der 
+zweiten Membranelemente sind im erfindungsgemäßen 
+Membranmodul mindestens zwei in Reihe geschaltete 
+unterschiedliche Behandlungsstufen integriert, wobei für 
+die im dead-end-Modus durchströmte Behandlungsstufe 
+keine separaten Pumpen oder Regelorgane erforderlich 
+sind. Die die Behandlungsstufen verlassenden Teilströ-
+me werden innerhalb des Moduls wieder zusammenge-
+führt und verlassen als gemeinsamer Fluidstrom den er-
+findungsgemäßen Membranmodul. 
+[0028] Die Aufgabe wird daher des Weiteren durch ein 
+Verfahren zur stoffspezifischen Behandlung eines Fluids 
+gelöst, welches zumindest die Schritte umfasst: 
+
+a) Einleiten des zu behandelnden Fluids als Speise-
+strom in einen mindestens eine erste Membran und 
+mindestens eine zweite Membran enthaltenden Mo-
+dul, 
+b) Vorbeileiten des Speisestroms im cross-flow-Mo-
+dus an der einen Seite der ersten Membran, so dass 
+ein Teil des Speisestroms als Permeat durch die er-
+ste Membran hindurchtritt und auf der anderen Seite 
+der ersten Membran aus dieser austritt, während der 
+Rest des Speisestroms als Retentat entlang der er-
+sten Membran weiterströmt, 
+c) Einleiten zumindest eines wesentlichen Teils des 
+Permeats im dead-end-Modus in die zweite Mem-
+bran auf der einen Seite dieser Membran, Durch-
+strömen der zweiten Membran und Ausleiten aus 
+der zweiten Membran auf deren anderer Seite, 
+d) Vereinigung des Permeats mit dem Retentat zum 
+behandelten Fluid innerhalb des Moduls und 
+e) Ableiten des behandelten Fluids aus dem Modul, 
+
+wobei das Permeat zwischen der Abtrennung vom Spei-
+sestrom und der Vereinigung mit dem Retentat minde-
+stens einer stoffspezifischen Behandlung unterworfen 
+wird. 
+[0029] Aufgrund der speziellen Kombination von im 
+cross-flow-Modus mit im dead-end-Modus an-bzw. 
+durchströmten Membranen lässt sich das erfindungsge-
+mäße Verfahren vorteilhaft zur Behandlung von Suspen-
+sionen einsetzen. In einer bevorzugten Ausgestaltung 
+wird bei dem erfindungsgemäßen Verfahren ein erfin-
+dungsgemäßer Membranmodul eingesetzt. 
+[0030] Erfindungsgemäß sind die ersten sowie die 
+zweiten Membranelemente mit ihren dem Sammelraum 
+zugewandten, offenen Enden in der an den Sammelraum 
+angrenzenden zweiten Vergussmasse eingebettet. Hier-
+bei treten sie mit diesem Ende durch diese Vergussmas-
+se hindurch, so dass eine Öffnung des jeweiligen Hohl-
+raums zum Sammelraum gegeben ist. Die dem Vertei-
+
+lerraum zugewandten offenen Enden der ersten Mem-
+branelemente sind erfindungsgemäß in der an den Ver-
+teilerraum angrenzenden ersten Vergussmasse so ein-
+gebettet, dass sie mit diesen Enden durch diese Ver-
+gussmasse hindurchtreten und so eine Öffnung der Hohl-
+räume der ersten Membranelemente auch zum 
+Verteilerraum hin gegeben ist. 
+[0031] Als Vergussmassen kommen üblicherweise für 
+diesen Zweck eingesetzte Materialien wie z.B. Epoxyd-
+harze, Polyurethanharze oder auch Schmelzkleber in 
+Frage, die im flüssigen Zustand eine einfache und fluid-
+dichte Einbettung der Membranelemente erlauben. Un-
+ter Vergussmassen sind jedoch auch solche Ausfüh-
+rungsformen zu verstehen, bei denen eine Vergussmas-
+se zunächst vorgefertigt worden ist, z.B. als ein mit ent-
+sprechenden Aussparungen zur Aufnahme der Membra-
+nelemente versehenes Spritzgussteil, in das die Mem-
+branelemente beispielsweise mittels eines Klebers fluid-
+dicht eingeklebt werden. 
+[0032] Die geschlossenen Enden der zweiten Mem-
+branelemente können bereits im Außenraum um die 
+Membranelemente enden und somit nicht eingebettet 
+sein. Sie können jedoch auch zusammen mit den dem 
+Verteilerraum zugewandten Enden der ersten Membra-
+nelemente in die an den Verteilerraum angrenzende er-
+ste Vergussmasse eingebettet sein, dann jedoch in der 
+Weise, dass die dem Verteilerraum zugewandten Enden 
+der zweiten Membranelemente geschlossen bleiben. 
+[0033] In einer bevorzugten Ausgestaltung des erfin-
+dungsgemäßen Membranmoduls ist die Membranele-
+menteanordnung aus flächigen Schichten aufgebaut. 
+Hierdurch lässt sich ein hoher Grad an Ordnung errei-
+chen und eine definierte Strömung zwischen den ersten 
+und den zweiten Membranelementen erreichen. Dies gilt 
+insbesondere dann, wenn erste und zweite Membran-
+elemente direkt zueinander benachbart sind und bei-
+spielsweise in einer alternierenden Reihenfolge zuein-
+ander angeordnet sind. Besonders bevorzugt ist ein Auf-
+bau der Membranelementeanordnung aus flächigen 
+Schichten, die zu einem Stapel aufeinandergelegt sind. 
+In einer weiteren besonders bevorzugten Ausführungs-
+form besteht die Membranelementeanordnung aus flä-
+chigen Schichten, die spiralförmig um eine Wickelachse 
+gewickelt sind. Unter einer flächigen Schicht im Sinne 
+der vorliegenden Erfindung wird eine solche Schicht ver-
+standen, deren Abmessungen im ebenen Zustand, d.h. 
+also z.B. auch vor einem spiralförmigen Aufwickeln, in 
+Erstreckungsrichtung der Membranelemente zwischen 
+ihren Enden sowie in einer Richtung quer dazu wesent-
+lich größer ist als in der verbleibenden zweiten Richtung 
+quer zu den Membranelementen, die die Dicke der 
+Schicht bestimmt. 
+[0034] Vorzugsweise umfasst die Membranelemente-
+anordnung erste Schichten und zweite Schichten, wobei 
+die ersten Schichten nur erste Membranelemente und 
+die zweiten Schichten nur zweite Membranelemente ent-
+halten. Besonders bevorzugt umfasst die Anordnung ei-
+ne alternierende Abfolge von ersten und zweiten Schich-
+
+7 
+8 
+
+
+EP 1 289 630 B1 
+
+6 
+
+5 
+
+10 
+
+15 
+
+20 
+
+25 
+
+30 
+
+35 
+
+40 
+
+45 
+
+50 
+
+55 
+
+ten. 
+[0035] In einer bevorzugten Ausführungsform der Er-
+findung handelt es sich bei den ersten und den zweiten 
+Membranelementen um Hohlfasermembranen, und die 
+Hohlräume der Membranelemente werden durch die Lu-
+mina der Hohlfasermembranen ausgebildet. Bei der be-
+vorzugten Ausführungsform eines Aufbaus der Membra-
+nelementeanordnung in flächigen Schichten sind die 
+Hohlfasermembranen innerhalb der Schichten zueinan-
+der im wesentlichen parallel zueinander angeordnet. Die 
+Hohlfasermembranen sind so in das Gehäuse des Mem-
+branmoduls eingebettet, dass die Lumina der als erste 
+Membranelemente fungierenden ersten Hohlfasermem-
+branen an deren beiden Enden geöffnet sind und die 
+Lumina der als zweite Membranelemente dienenden 
+zweiten Hohlfasermembranen nur an deren dem Sam-
+melraum zugewandten Ende geöffnet sind und an deren 
+dem Verteilerraum zugewandten Ende geschlossen 
+sind. Der Verschluss an dem geschlossenen Ende der 
+zweiten Hohlfasermembranen kann z.B. durch die Ver-
+gussmasse oder durch ein Abschweißen bewirkt wer-
+den. Gemäß einer bevorzugten Ausführungsform sind 
+zur Ausbildung der zweiten Membranelemente entspre-
+chend in ihrer Länge bemessene Hohlfasern so U-förmig 
+gebogen oder geknickt bzw. schlaufenförmig abgelegt, 
+dass sich zwei miteinander verbundene zweite Membra-
+nelemente ergeben, deren Hohlraum in Richtung des 
+Verteilerraums geschlossen und in Richtung des Sam-
+melraums geöffnet ist. 
+[0036] Anstelle von Hohlfasermembranen können 
+auch rohrförmige Membranen oder schlauchförmige 
+Membranen eingesetzt werden, deren Durchmesser und 
+Wandstärken in der Regel größer sind als die der Hohl-
+fasermembranen. 
+[0037] Es können Hohlfasermembranen mit verschie-
+denen äußeren Konturen, d.h. mit im Querschnitt be-
+trachtet verschiedenen äußeren Umrissen eingesetzt 
+werden. Die Hohlfasermembranen können beispielswei-
+se eine im wesentlichen runde bzw. kreisförmige, drei-
+eckige, viereckige, sechseckige oder achteckige Kontur 
+aufweisen, sie können auch oval, elliptisch, dreilappig, 
+vierlappig usw. ausgebildet sein. Für den Einsatz im er-
+findungsgemäßen Membranmodul haben sich Hohlfa-
+sermembranen bewährt, die eine Wandstärke zwischen 
+15 und 900 Pm aufweisen, bestens bewährt haben sich 
+Hohlfasermembranen mit einer Wandstärke zwischen 30 
+bis 100 Pm für die ersten Membranelemente und zwi-
+schen 100 und 300 Pm für die zweiten Membranelemen-
+te. 
+[0038] Vorzugsweise beträgt der hydraulische Durch-
+messer des Lumens der eingesetzten Hohlfasermem-
+branen 50 bis 1500 Pm, besonders bevorzugt sind Hohl-
+fasermembranen mit einem hydraulischen Durchmesser 
+des Lumens zwischen 80 und 300 Pm mit der Definition 
+des hydraulischen Durchmessers als 4*A/U, wobei A die 
+Fläche des Strömungsquerschnitts des Hohlfaserlu-
+mens und U den Umfang des Strömungsquerschnitts des 
+jeweiligen Hohlfaserlumens bezeichnet. Je nach Anwen-
+
+dung und insbesondere bei unterschiedlichen Aufgaben 
+der ersten und zweiten Membranelemente können die 
+hydraulischen Durchmesser der als erste und der als 
+zweite Membranelemente eingesetzten Hohlfasermem-
+branen unterschiedlich groß gewählt werden. 
+[0039] Die ersten und zweiten Hohlfasermembranen 
+sind bevorzugt in jeweils mindestens eine Hohlfasermat-
+te eingebunden, wobei die Hohlfasermembranen inner-
+halb einer Matte im wesentlichen parallel zueinander an-
+geordnet sind. In diese Hohlfasermatten sind die Hohl-
+fasermembranen bevorzugt mittels textiler Fäden einge-
+bunden. Derartige Matten lassen sich vorteilhaft nach 
+bekannten Verfahren als Wirkmatte oder Webmatte, 
+aber auch als Webbändchen, Strick-oder als Häkelmatte 
+herstellen. In den Fällen des Webens oder Wirkens sind 
+die textilen Fäden die quer zu den Hohlfasermembranen 
+verlaufenden Web-bzw. Kettfäden. Durch diese Quer-
+fäden werden die Hohlfasermembranen in zueinander 
+im wesentlichen paralleler Anordnung gehalten. Mittels 
+derartiger Hohlfasermatten lässt sich auf einfache Weise 
+ein Aufbau der Membranelementeanordnung aus flächi-
+gen Schichten realisieren. 
+[0040] In einer bevorzugten Ausführungsform enthält 
+eine solche Hohlfasermatte sowohl erste als auch zweite 
+Hohlfasermembranen. Innerhalb solcher Matten können 
+die ersten und zweiten Hohlfasermembranen je nach den 
+Anforderungen an den erfindungsgemäßen Membran-
+modul in alternierender Reihenfolge angeordnet sein 
+oder auch in unterschiedlicher Anzahl, wobei dann die 
+ersten Hohlfasermembranen und die zweiten Hohlfaser-
+membranen auch in Gruppen zusammengefasst sein 
+können. 
+[0041] Hohlfasermatten mit ersten und zweiten Hohl-
+fasermembranen in alternierender Reihenfolge lassen 
+sich z.B. durch gemeinsames Verwirken von abwech-
+selnd parallel als Schussfaden in eine Raschelmaschine 
+zugeführten Hohlfasermembranen herstellen. Dabei 
+werden die ersten von den zweiten Hohlfasermembra-
+nen vor der gemeinsamen Einbettung in die Verguss-
+masse dadurch unterschieden, dass die ersten Hohlfa-
+sermembranen z.B. durch eine mäanderförmige Verle-
+gung auf beiden Enden der Matte verschlossen werden, 
+während die zweiten Hohlfasermembranen innerhalb ei-
+ner Matte an einer Kante der Matte geöffnet werden. Die 
+offene Seite wird bei der Einbettung in eine Vergussmas-
+se durch die Vergussmasse verschlossen. In die zuvor 
+geschlossenen Enden kann hingegen bei der Einbettung 
+keine Vergussmasse eindringen, so dass bei dem an-
+schließenden Schnitt durch die Vergussmasse die an-
+fangs verschlossenen Lumina der Hohlfasermembranen 
+an dieser Seite geöffnet werden. 
+[0042] Eine solche Matte kann aber z.B. auch auf einer 
+Raschelmaschine mit mäanderförmiger Verlegung der 
+Hohlfäden als Schussfäden so hergestellt werden, dass 
+die Schlaufen der zweiten Hohlfasermembranen an der 
+einen Kante der Matte soweit vom Rand der Matte weg 
+in die Matte verlegt werden, dass der Schnitt nach dem 
+Einbetten in die Vergussmasse die zweiten Kapillarmem-
+
+9 
+10 
+
+
+EP 1 289 630 B1 
+
+7 
+
+5 
+
+10 
+
+15 
+
+20 
+
+25 
+
+30 
+
+35 
+
+40 
+
+45 
+
+50 
+
+55 
+
+branen auf dieser Seite nicht erfasst und somit die ge-
+schlossene Seite der zweiten Membranelemente ent-
+steht. Die übrigen Schlaufen der ersten und zweiten 
+Membranelemente werden beim Rascheln so gelegt, 
+dass sie nach dem Einbetten in die Vergussmasse weg-
+geschnitten und damit die Lumina aller Hohlfasermem-
+branen auf dieser Seite geöffnet werden. 
+[0043] Unterschiedliche Flächen-und Massenverhält-
+nisse können in einer Matte durch eine unterschiedliche 
+Zahl der sich abwechselnden ersten und zweiten Hohl-
+fasermembranen realisiert werden. Bei Einbindung von 
+ersten und zweiten Hohlfasermembranen innerhalb der-
+selben Hohlfasermatte ist es vorteilhaft, wenn erste und 
+zweite Hohlfasermembranen einen zumindest nahezu 
+gleichen Außendurchmesser aufweisen. 
+[0044] Gemäß einer weiteren bevorzugten Ausfüh-
+rungsform enthält jede Hohlfasermatte nur erste Hohlfa-
+sermembranen oder nur zweite Hohlfasermembranen. 
+Matten mit ersten Hohlfasermembranen lassen sich z.B. 
+aus mäanderförmig gewebten oder gewirkten Hohlfaser-
+membranmatten herstellen, an deren Seitenkanten die 
+Hohlfasermembranen im Bogen verlaufen und die daher 
+an diesen Kanten zunächst geschlossen sind. Nach der 
+Einbettung können die Hohlfasermembranen bei Be-
+schneidung der jeweiligen Vergussmasse durch Ab-
+schneiden der Endbögen an beiden Kante der Matte 
+beidseitig geöffnet werden. Entsprechend können Mat-
+ten mit zweiten Hohlfasermembranen aus solchen mä-
+anderförmig gewebten oder gewirkten Hohlfasermem-
+branmatten hergestellt werden, indem nur an einer der 
+beiden Kanten die Endbögen abgeschnitten und so die 
+Hohlfasermembranen einseitig geöffnet werden. Vor-
+zugsweise wird jedoch zur Herstellung einer Matte mit 
+zweiten Hohlfasermembranen eine solche mäanderför-
+mig gewebte oder gewirkte Matte mittig geteilt, so dass 
+zwei Hälften mit Hohlfasermembranen entstehen, deren 
+Hohlräume einseitig geöffnet sind. 
+[0045] Gemäß einer weiteren Ausgestaltung der Erfin-
+dung sind die Hohlfasermembranen mittels flächiger, 
+vorzugsweise streifenförmiger Verbindungselemente in 
+die jeweilige Hohlfasermatte eingebunden. Solche strei-
+fenförmigen Verbindungselemente können quer aber 
+auch unter einem anderen Winkel zu den zueinander par-
+allelen Hohlfasermembranen verlaufen und beispiels-
+weise mittels eines punktförmig aufgetragenen Klebers 
+z.B. auf Polyurethanbasis auf diese auflaminiert sein. 
+[0046] In einer vorteilhaften Ausführungsform sind 
+mehrere Hohlfasermatten zu einem Stapel aufeinander-
+gelegt, wobei die Hohlfasermatten ebene flächige 
+Schichten ausbilden. In einer weiteren bevorzugten Aus-
+führung der erfindungsgemäßen Vorrichtung ist minde-
+stens eine erste und zweite Hohlfasermembranen ent-
+haltende Hohlfasermatte zick-zack-förmig zu einem Sta-
+pel gefaltet. Gemäß einer weiteren bevorzugten Ausfüh-
+rungsform sind mindestens eine nur erste Hohlfaser-
+membranen enthaltende und mindestens eine nur zweite 
+Hohlfasermembranen enthaltende Hohlfasermatte über-
+einandergelegt und miteinander zick-zack-förmig zu ei-
+
+nem Stapel gefaltet. 
+[0047] In einer ebenfalls vorteilhaften Ausführungs-
+form ist mindestens eine erste und zweite Hohlfaser-
+membranen enthaltende Hohlfasermatte spiralförmig 
+um eine zu den Hohlfasermembranen parallele Wik-
+kelachse gewickelt, so dass sich ein Aufbau aus flächi-
+gen Schichten ergibt. Bei Verwendung von Hohlfaser-
+matten, die nur erste bzw. nur zweite Hohlfasermembra-
+nen enthalten, sind mindestens eine nur erste Hohlfaser-
+membranen enthaltende und mindestens eine nur zweite 
+Hohlfasermembranen enthaltende Hohlfasermatte über-
+einandergelegt und miteinander spiralförmig um eine zu 
+den Hohlfasermembranen parallele Wickelachse gewik-
+kelt. Bei der Wickelachse kann es sich beispielsweise 
+auch um einen Wickelkern mit beliebigem Querschnitt 
+und beliebiger Struktur handeln. Bevorzugt wird ein zieh-
+barer Wickelkern, der nach dem Wickeln herausgezogen 
+werden kann, ohne einen wesentlichen Leerraum in dem 
+nach dem Wickeln entstandenen Bündel zu hinterlassen. 
+[0048] In einer bevorzugten Ausgestaltung des erfin-
+dungsgemäßen Membranmoduls sind die Hohlfaser-
+membranen innerhalb der flächigen Schichten und die-
+jenigen benachbarter Schichten zueinander im wesent-
+lichen parallel. Je nach Anwendung der erfindungsge-
+mäßen Membranmodule können aber auch definierte 
+Zwischenräume zwischen den Hohlfasermembranen, 
+d.h. ist eine definierte Ausgestaltung des Außenraums 
+erforderlich sein. In diesen Fällen ist eine Membranele-
+menteanordnung von Vorteil, die durch spiralförmiges 
+Wickeln von mindestens zwei übereinandergelegten 
+Hohlfasermatten um eine Achse oder einen Kern herge-
+stellt worden ist, wobei die Hohlfasermembranen inner-
+halb jeder Matte in einem gegenseitigen Abstand zuein-
+ander angeordnet sind und wobei die Hohlfasermatten 
+so übereinandergelegt sind, dass die Hohlfäden der 
+übereinandergelegten Hohlfasermatten in eine sich 
+überkreuzende Anordnung gebracht sind. Die Herstel-
+lung derartiger Bündel wird eingehend in der EP-A-0 285 
+812 beschrieben. Für solche Bündel kann der sich zwi-
+schen den überkreuzt angeordneten Hohlfasermembra-
+nen ausbildende Winkel zwischen 0° und 120° liegen, 
+als günstig haben sich Winkel zwischen 30° und 90° her-
+ausgestellt. 
+[0049] In einer weiteren bevorzugten Ausgestaltung 
+des erfindungsgemäßen Membranmoduls sind die er-
+sten Membranelemente Hohlfasermembranen und die 
+zweiten Membranelemente jeweils aus mindestens einer 
+Flachmembran ausgebildet. Ein derartiges zweites 
+Membranelement aus mindestens einer Flachmembran 
+besteht entsprechend einer vorteilhaften Ausführungs-
+form aus einem U-förmig gefalteten, im wesentlichen 
+rechteckigen oder quadratischen Stück einer Flachmem-
+bran, wobei neben der Faltkante zwei weitere Seitenkan-
+ten, also z.B. die zur Faltkante senkrechten Seitenkanten 
+beispielsweise durch Verschweißen oder Verkleben ge-
+schlossen sind. Die bei der U-förmigen Faltung eines sol-
+chen Stücks einer Flachmembran entstehenden zwei 
+Schenkel werden mittels Abstandshalter auf Abstand ge-
+
+11 
+12 
+
+
+EP 1 289 630 B1 
+
+8 
+
+5 
+
+10 
+
+15 
+
+20 
+
+25 
+
+30 
+
+35 
+
+40 
+
+45 
+
+50 
+
+55 
+
+halten und bilden so zusammen mit der geschlossenen 
+Faltkante und den geschlossenen Seitenkanten einen 
+an einer Seite geöffneten Hohlraum aus. Die geöffnete 
+Seitenkante ist im erfindungsgemäßen Membranmodul 
+in Richtung des Sammelraums angeordnet. 
+[0050] Gemäß einer weiteren vorteilhaften Ausgestal-
+tung der Erfindung bestehen derartige aus mindestens 
+einer Flachmembran ausgebildete zweite Membranele-
+mente aus jeweils zwei gleich großen, zueinander im we-
+sentlichen parallelen und im wesentlichen rechteckigen 
+oder quadratischen Flachmembranen, die so zueinander 
+angeordnet sind, dass ihre Kanten parallel zueinander 
+verlaufen, wobei die Flachmembranen gegeneinander 
+durch Abstandshalter auf Abstand gehalten werden. Die 
+beiden Flachmembranen sind an drei Kanten, d.h. an 
+ihrer in Richtung Verteilerraum weisenden Kante sowie 
+den dazu senkrechten Kanten formschlüssig miteinan-
+der verbunden, beispielsweise miteinander verschweißt 
+oder verklebt, so dass durch die Flachmembranen die 
+Schenkel des Membranelements ausgebildet werden. 
+Der Hohlraum wird wiederum durch die Schenkel und 
+die formschlüssig verbundenen Kanten ausgebildet. Die 
+verbleibende offene Seitenkante ist in Richtung des 
+Sammelraums angeordnet. 
+[0051] Die beiden eingesetzten Flachmembranstücke 
+können gleich sein, sie können jedoch auch unterschied-
+lich sein z.B. im Hinblick auf ihr Material, ihre Struktur 
+oder die zur Wechselwirkung mit Zielsubstanzen vorge-
+sehenen funktionellen Gruppen. Auch kann eine der bei-
+den Flachmembranen gegen eine beispielsweise fluid-
+undurchlässige Folie eingetauscht werden, wo dies -et-
+wa aus Gründen der Stabilität der Membranelemente 
+oder aus Fertigungsgesichtspunkten -günstig erscheint. 
+[0052] Die beschriebenen Flachmembranelemente 
+sind im erfindungsgemäßen Membranmodul so ange-
+ordnet, dass die verbleibende offene Seitenkante in Rich-
+tung des Sammelraums weist und der Hohlraum zu die-
+sem geöffnet ist. 
+[0053] Die Abstandshalter, die, wie beschrieben, für 
+einen definierten Abstand zwischen den Schenkeln der 
+aus Flachmembranen ausgebildeten Behandlungsele-
+mente sorgen und gleichzeitig fluiddurchlässig sein sol-
+len, können als separate Elemente ausgebildet sein. Als 
+Abstandshalter kann ein für Fluide durchlässiges Mate-
+rial wie z.B. ein Vlies oder ein Gewebe eingesetzt wer-
+den. Die Abstandshalterfunktion auf der Innenseite der 
+Membran kann jedoch auch in die Membran bzw. die 
+Folie selbst integriert werden z.B. durch rillenförmige, 
+noppenförmige oder andere profilierte Oberflächenstruk-
+turen. 
+[0054] Die in der erfindungsgemäßen Vorrichtung 
+bzw. zur Durchführung des erfindungsgemäßen Verfah-
+rens eingesetzten Flachmembranen weisen vorzugswei-
+se eine Wandstärke zwischen 15 Pm und 500 Pm auf, 
+besonders bevorzugt sind Flachmembranen mit einer 
+Wandstärke zwischen 100 Pm und 300 Pm. 
+[0055] Solchermaßen aus Flachmembranen ausgebil-
+dete zweite Membranelemente können in ebener Form 
+
+eingesetzt werden und mit vorzugsweise in Hohlfaser-
+matten eingebundenen ersten Hohlfasern zu Stapeln 
+übereinander angeordnet werden, die dann aus ersten, 
+die Hohlfasermembranelemente enthaltenden, und aus 
+zweiten, die Flachmembranelemente enthaltenden ebe-
+nen flächigen Schichten aufgebaut sind. Auch eine zick-
+zack-förmige Faltung zusammen mit erste Hohlfaser-
+membranen enthaltenden Hohlfasermatten lässt sich auf 
+vorteilhafte Weise realisieren. Des Weiteren lassen sich 
+die aus Flachmembranen aufgebauten zweiten Membra-
+nelemente auch zusammen mit ersten Membranelemen-
+ten in Form von Hohlfasermembranen spiralförmig um 
+eine Wickelachse parallel zu den Hohlfasermembranen 
+und senkrecht zur geöffneten Kante der zweiten Mem-
+branelemente aufwickeln, wobei auch hier die Hohlfaser-
+membranen die ersten und die Flachmembranen die 
+zweiten Schichten ausbilden. Bei den genannten Anord-
+nungen können die zweiten Schichten auch jeweils aus 
+einem einzelnen Flachmembranelement bestehen. 
+[0056] Bei der Durchströmung der Wände der ersten 
+Membranelemente, bei der Durchströmung des Außen-
+raums und/ oder bei der Durchströmung der zweiten 
+Membranelemente wird der als Permeatstrom abge-
+trennte Teil des zu behandelnden Fluids einer stoffspe-
+zifischen Behandlung unterzogen. Hierbei kann bei der 
+Durchströmung der Wände der ersten Membranelemen-
+te und/ oder bei der Durchströmung der zweiten Mem-
+branelemente die stoffspezifische Fluidbehandlung al-
+lein eine Fraktionierung hinsichtlich im Fluid enthaltener 
+Substanzen aufgrund ihrer Größe sein, wobei solche 
+Substanzen z.B. in Form von Molekülen oder Partikeln 
+vorliegen können. Vorzugsweise ist aber im Gehäuse 
+des erfindungsgemäßen Membranmoduls eine Matrix 
+enthalten, auf und/ oder in der funktionelle Gruppen im-
+mobilisiert sind, die in spezifischer, selektiver Weise mit 
+einer einzelnen im zu behandelnden Fluid enthaltenen 
+Zielsubstanz oder mehreren Zielsubstanzen, d.h. Sub-
+stanzen, auf die die stoffspezifische Behandlung ausge-
+richtet ist, wechselwirken. 
+[0057] In einer bevorzugten Ausgestaltung der Erfin-
+dung sind die ersten Membranelemente und/ oder zwei-
+ten Membranelemente die Matrix für die funktionellen 
+Gruppen, und die funktionellen Gruppen sind auf und/ 
+oder in den Membranelementen immobilisiert. Hierbei 
+sind besonders bevorzugt sowohl die ersten als auch die 
+zweiten Membranelemente Matrix für funktionelle Grup-
+pen. Es ist jedoch auch möglich, dass nur auf und/ oder 
+in den ersten oder auf und/ oder in den zweiten Membra-
+nelementen funktionelle Gruppen immobilisiert sind. Für 
+den Fall, dass sowohl die ersten als auch die zweiten 
+Membranelemente Matrix für funktionelle Gruppen sind, 
+können die funktionellen Gruppen in den jeweiligen 
+Membranelementen gleich oder unterschiedlich sein. 
+[0058] Bei einer ebenfalls bevorzugten Ausführungs-
+form der erfindungsgemäßen Vorrichtung sind zwischen 
+die ersten und zweiten Membranelemente fluiddurchläs-
+sige, d. h. für das zu behandelnde Fluid durchlässige 
+Trägermaterialien eingebracht, die Matrix für die funktio-
+
+13 
+14 
+
+
+EP 1 289 630 B1 
+
+9 
+
+5 
+
+10 
+
+15 
+
+20 
+
+25 
+
+30 
+
+35 
+
+40 
+
+45 
+
+50 
+
+55 
+
+nellen Gruppen sind, d.h. auf und/ oder in diesen als Ma-
+trix fungierenden Trägermaterialien sind funktionelle 
+Gruppen immobilisiert. 
+[0059] Vorzugsweise handelt es sich bei den Träger-
+materialien um Partikel, wobei es bei dem bevorzugten 
+schichtförmigen Aufbau der Anordnung aus ersten und 
+zweiten Membranelementen von Vorteil ist, wenn die 
+Partikel in ein fluiddurchlässiges Vlies, eine Flachmem-
+bran oder ähnliches eingebracht sind. Unter den Begriff 
+Partikel sind im Rahmen der vorliegenden Erfindung 
+auch z.B. Zellen zu verstehen, die in spezifischer Weise 
+mit an sie herangeführten Zielsubstanzen wechselwir-
+ken. 
+[0060] Ebenfalls bevorzugte Trägermaterialien sind 
+semipermeable poröse Flachmembranen, die auch ein-
+oder mehrlagig sein können. Die Trägermaterialien kön-
+nen auch in Form von textilen Flächengebilden vorliegen 
+oder ebenfalls aus Hohlfasermembranmatten bestehen, 
+bei denen die Hohlfasermembranen jedoch an ihren bei-
+den Enden z.B. durch die Einbettung verschlossen sind. 
+Insbesondere diejenigen der genannten Trägermateria-
+lien, die selbst flächig bzw. schichtförmig ausgebildet 
+sind, lassen sich hervorragend in Kombination mit dem 
+bevorzugten schichtförmigen Aufbau der Anordnung aus 
+ersten und zweiten Membranelementen einsetzen. Hier-
+bei ist es zweckmäßig, diese flächigen Trägermaterialien 
+zusammen mit den ersten und zweiten Membranelemen-
+ten in die Vergussmassen einzubetten. Insbesondere für 
+den Fall, dass eine Flachmembran als Trägermaterial 
+eingesetzt wird, kann dadurch zwischen ersten und zwei-
+ten Membranelementen eine weitere im dead-end-Mo-
+dus betriebene Behandlungsstufe erhalten werden, so 
+dass sich an die cross-flow Filtration in den ersten Mem-
+branelementen eine zweifache dead-end Filtration an-
+schließt. Dabei kann die als Trägermaterial eingesetzte 
+Flachmembran neben ihrer auf Wechselwirkung mit Ziel-
+substanzen ausgerichteten Funktion auch eine fraktio-
+nierende Funktion ausüben. 
+[0061] Natürlich ist es auch möglich, dass auf analoge 
+Weise zwischen die ersten und zweiten Membranele-
+mente Flachmembranen als dead-end Filter eingebracht 
+werden, die nicht als Trägermaterial für eine Matrix son-
+dern allein als dead-end Filtrationsstufe dienen und die 
+Aufgabe der Fraktionierung nach Teilchengröße haben. 
+[0062] In dem bevorzugten Fall, dass nur das Träger-
+material Matrix ist, strömt das zu behandelnde Fluid aus 
+dem Verteilerraum durch die Hohlräume der ersten Mem-
+branelemente, wobei ein Teilstrom als Permeat durch 
+die Wände der ersten Membranelemente strömt, und 
+nach Austritt aus diesen Wänden auf die gesamte Matrix, 
+d.h. das gesamte Trägermaterial verteilt wird, die es 
+nachfolgend durchströmt. Dabei wird das Fluid stoffspe-
+zifisch behandelt. Anschließend tritt das behandelte 
+Fluid durch die Wände der angrenzenden zweiten Mem-
+branelemente in die Hohlräume dieser zweiten Membra-
+nelemente ein und strömt aus diesen Hohlräumen in den 
+angrenzenden Sammelraum. Dort wird der stoffspezi-
+fisch behandelte Permeatstrom mit dem aus den Hohl-
+
+räumen der ersten Membranelemente ausströmenden 
+Retentatstrom zum stoffspezifisch behandelten Fluid 
+vereinigt, welches dann aus dem Gehäuse über die Aus-
+lasseinrichtung abgeleitet wird. 
+[0063] Hierbei kann sich die Funktion der ersten Mem-
+branelemente auf die eines reinen Verteilers beschrän-
+ken, mittels dessen das zu behandelnde Fluid in vorteil-
+hafter Weise gleichmäßig über das gesamte Trägerma-
+terial verteilt wird, und die Funktion der zweiten Membra-
+nelemente auf diejenige eines Sammlers, mittels dessen 
+das behandelte Permeat gleichmäßig aus dem gesam-
+ten Trägermaterial abgezogen wird. Auf diese Weise wird 
+eine gleichmäßige Nutzung der gesamten auf und/ oder 
+im Trägermaterial immobilisierten funktionellen Gruppen 
+erreicht. 
+[0064] Es kann jedoch von den ersten Membranele-
+menten auch gleichzeitig eine stoffspezifische Behand-
+lung in Form einer Fraktionierung erfolgen, so dass von 
+den ersten Membranelementen z.B. nur Moleküle oder 
+Teilchen unterhalb einer bestimmten Größe durchgelas-
+sen und der stoffspezifischen Behandlung im Trägerma-
+terial zugeführt werden, wohingegen größere Partikel zu-
+rückgehalten und von der stoffspezifischen Behandlung 
+im Trägermaterial ausgeschlossen werden. Ebenso kön-
+nen die zweiten Membranelemente neben ihrer Sammel-
+funktion auch dazu dienen, über einen Größenaus-
+schluss z.B. im Außenraum eingeschlossene partikuläre 
+Bestandteile, die als Matrix dienen, zurückzuhalten. 
+[0065] In einer weiteren vorteilhaften Ausführungs-
+form der erfindungsgemäßen Vorrichtung sind sowohl 
+die ersten und die zweiten Membranelemente als auch 
+die Trägermaterialien Matrix für die funktionellen Grup-
+pen. In diesem Fall kommt also den ersten und zweiten 
+Membranelementen ebenfalls neben ihrer Verteiler-
+bzw. Sammelfunktion auch eine Funktion als stoffspezi-
+fisch behandelnde Elemente zu. Hierbei können die in 
+den Membranelementen und die im Trägermaterial im-
+mobilisierten funktionellen Gruppen gleich sein oder 
+auch verschieden. In einer vorteilhaften Ausgestaltung 
+des erfindungsgemäßen Verfahrens wird das zu behan-
+delnde Fluid bei der Durchströmung der Matrix, d.h. bei 
+der Durchströmung der ersten und zweiten Membran-
+elemente sowie des Trägermaterials, nacheinander min-
+destens zwei verschiedenen stoffspezifischen Behand-
+lungen unterworfen. Natürlich ist es auch möglich, dass 
+außer dem Trägermaterial nur die ersten oder nur die 
+zweiten Membranelemente Matrix für stoffspezifisch wir-
+kende Gruppen sind. 
+[0066] Zur Erhöhung des Wirkungsgrades der stoff-
+spezifischen Behandlung ist es von Vorteil, wenn beim 
+erfindungsgemäßen Verfahren die Schritte b) bis d) 
+mehrfach durchlaufen werden, wobei es besonders vor-
+teilhaft ist, wenn die Schritte b) bis d) innerhalb desselben 
+Membranmoduls mehrfach durchlaufen werden. Bei ei-
+ner bevorzugten Ausführungsform des erfindungsgemä-
+ßen Membranmoduls sind daher im Gehäuse zwischen 
+Einlasseinrichtung und Auslasseinrichtung, d.h. in Rich-
+tung der Durchströmung des Gehäuses mehrere, bei-
+
+15 
+16 
+
+
+EP 1 289 630 B1 
+
+10 
+
+5 
+
+10 
+
+15 
+
+20 
+
+25 
+
+30 
+
+35 
+
+40 
+
+45 
+
+50 
+
+55 
+
+spielsweise bis zu 100 Membranelementeanordnungen 
+als Modulstufen hintereinander angeordnet. Durch die 
+Hintereinanderschaltung einer Mehrzahl von Modulstu-
+fen kann gleichzeitig die einzelne Modulstufe in ihrer Ab-
+messung in Richtung der Durchströmung des Gehäuses 
+kurz gehalten und dadurch eine Konzentrationsände-
+rung bezüglich möglicher kritischer Komponenten in dem 
+zu behandelnden Fluid gering gehalten werden. Dies ist 
+insbesondere bei solchen Verfahren zur stoffspezifi-
+schen Behandlung von Suspensionen von Bedeutung, 
+bei denen zumindest ein Teil der suspendierten Teilchen 
+durch die semipermeable Membranwand z.B. der ersten 
+Membranelemente zurückgehalten werden soll und 
+gleichzeitig zu hohe Aufkonzentrationen an suspendier-
+ten Teilchen vermieden werden sollen, wie z.B. bei der 
+stoffspezifischen Behandlung von Blut. Durch ver-
+gleichsweise kurze Anordnungen von Membranelemen-
+ten wird entlang der ersten Membranelemente dem zu 
+behandelnden Fluid nur ein geringer Teilstrom entzogen, 
+so dass die Konzentrationsänderungen bis zur folgenden 
+Zusammenführung von Retentatstrom und Permeat-
+strom gering bleiben. 
+[0067] Bevorzugt sind beim erfindungsgemäßen 
+Membranmodul bis zu 10 Modulstufen im Gehäuse hin-
+tereinander angeordnet. Besonders bewährt hat sich ei-
+ne Modulstufenzahl von bis zu 3. Dabei ist es vorteilhaft, 
+wenn die einzelnen Modulstufen einen Abstand zuein-
+ander aufweisen, um eine gute Durchmischung von Re-
+tentat-und Permeatstrom in den jeweiligen Sammelräu-
+men zu ermöglichen. Eine gleichmäßige Durchmischung 
+ist von Vorteil, um z.B. unerwünschte Konzentrations-
+schwankungen zu vermeiden. 
+[0068] Natürlich ist in Anpassung an die Erfordernisse 
+des Behandlungsverfahrens auch die Hintereinander-
+schaltung mehrerer erfindungsgemäßer Membranmo-
+dule möglich, die vorzugsweise mehrere Modulstufen 
+enthalten. Auch ist die Integration der erfindungsgemä-
+ßen Module mit anderen Modulen wie z.B. solchen zur 
+Dialyse, zur Hemodiafiltration, zur Hemofiltration, zum 
+Wärmeaustausch oder zu anderen Prozessschritten je 
+nach Anwendung sinnvoll. 
+[0069] In einer weiteren bevorzugten Ausführung des 
+erfindungsgemäßen Verfahrens wird zumindest ein Teil 
+des behandelten Fluids rezirkuliert, d.h. das den Mem-
+branmodul verlassende behandelte Fluid wird erneut als 
+Speisestrom, also als zu behandelndes Fluid, dem Modul 
+zugeführt. Das Fluid durchläuft so das stoffspezifische 
+Behandlungsverfahren mehrfach, wodurch die Verweil-
+zeit des Fluids erhöht und der gewünschte Behandlungs-
+grad eingestellt werden kann. 
+[0070] In dem Fall, bei dem die stoffspezifische Be-
+handlung über funktionelle Gruppen erfolgt, die auf und/ 
+oder in einer Matrix immobilisiert sind, transportiert das 
+zu behandelnde Fluid die Zielsubstanz oder die Zielsub-
+stanzen vorzugsweise konvektiv durch die Matrix. Dies 
+setzt voraus, dass die ersten Membranelemente, die 
+zweiten Membranelemente und/ oder das Trägermaterial 
+z.B. in Form einer semipermeablen Flachmembran mit 
+
+poröser Struktur eine Porengröße aufweisen, die einen 
+konvektiven Transport des zu behandelnden Fluid ein-
+schließlich der Zielsubstanz bzw. der Zielsubstanzen zu-
+lässt. Im Anwendungsfall muss die Porengröße auch auf 
+die Größe der Zielsubstanz bzw. Zielsubstanzen abge-
+stimmt werden, die in Form gelöster Moleküle oder Ma-
+kromoleküle, aber auch in Form kleiner Teilchen mit einer 
+Teilchengröße im Sub-Mikrometerbereich vorliegen 
+kann, so dass kein Rückhalt der Zielsubstanz bzw. -sub-
+stanzen aufgrund ihrer Größe erfolgt. 
+[0071] Im Hinblick auf den Einsatz des erfindungsge-
+mäßen Membranmoduls, insbesondere dann, wenn 
+Membranelemente oder eine Flachmembran als Matrix 
+dienen, ist es andererseits wichtig, Membranen mit mög-
+lichst kleinen Porengrößen und möglichst großem Po-
+renvolumen bzw. möglichst großer Porosität zu verwen-
+den, um so für die stoffispezifische Behandlung eine 
+möglichst große innere Oberfläche der Membranen zur 
+Verfügung zu stellen. Bevorzugt weisen die erfindungs-
+gemäß eingesetzten Membranen eine mittlere Porosität 
+zwischen 50 Vol.-% und 90 Vol.-% auf. Als mittlere Po-
+rosität wird das Verhältnis des Porenvolumens der Mem-
+bran zum Membranwandvolumen verstanden, wobei 
+sich das Membranwandvolumen aus dem Porenvolu-
+men und dem Volumen des die Membranstruktur auf-
+bauenden Materials zusammensetzt. Letztlich muss bei 
+Ausführungsformen der erfindungsgemäßen Vorrich-
+tung, die Trägermaterialien in Form von Partikeln enthal-
+ten, die Porengröße der Membranelemente so auf die 
+Größe der Partikel abgestimmt sein, dass die Partikel 
+durch die Membranelemente zurückgehalten werden. 
+Die Membranen sind also in diesen Fällen vorteilhafter-
+weise im wesentlichen durchlässig für die Zielsubstanz 
+bzw. Zielsubstanzen und im wesentlichen undurchlässig 
+für die Partikel des Trägermaterials. Dabei können die 
+ersten und zweiten Membranelemente auch unter-
+schiedliche Porengrößen aufweisen, insbesondere 
+dann, wenn die erfindungsgemäße Vorrichtung immer in 
+der gleichen Richtung durchströmt wird. 
+[0072] Die Anforderungen an den Aufbau der Mem-
+branen, d.h. an ihre Struktur und Porengrößenverteilung 
+über der Membrandicke resultieren aus dem jeweiligen 
+Anwendungsfall der stoffspezifischen Behandlung. Die 
+Membranstruktur kann über die Dicke isotrop sein, d.h. 
+innerhalb der Membranstruktur sind die Porendurchmes-
+ser im wesentlichen konstant, sie kann aber auch aniso-
+trop, symmetrisch oder auch asymmetrisch sein. Hierbei 
+werden unter im wesentlichen isotropen Porenstrukturen 
+solche Strukturen verstanden, bei denen sich die Poren-
+größe in den Erstreckungsrichtungen der Membranen 
+um maximal etwa den Faktor 10 ändert. Derartige im 
+wesentlichen isotrope Strukturen zeichnen sich dadurch 
+aus, dass sie eine große innere Oberfläche aufweisen, 
+an der eine große Anzahl von stoffspezifisch wirkenden 
+Gruppen immobilisiert werden kann. Des Weiteren führt 
+eine solche Struktur in der Anwendung zu einer gleich-
+mäßigen Nutzung dieser Gruppen. Daher sind für Aus-
+führungsformen des erfindungsgemäßen Membranmo-
+
+17 
+18 
+
+
+EP 1 289 630 B1 
+
+11 
+
+5 
+
+10 
+
+15 
+
+20 
+
+25 
+
+30 
+
+35 
+
+40 
+
+45 
+
+50 
+
+55 
+
+duls, bei denen die eingesetzten Membranen Matrix für 
+die funktionellen Gruppen sind, Membranen mit isotroper 
+Struktur bevorzugt. 
+[0073] Für den Fall, dass die ersten Membranelemen-
+te eine fraktionierende Funktion aufweisen und die zwei-
+ten Membranelemente Matrix für funktionelle Gruppen 
+sind, werden bevorzugt für die ersten Membranelemente 
+Membranen mit asymmetrischer Struktur eingesetzt, die 
+eine hohe hydraulische Permeabilität bei hoher Trenn-
+schärfe für die abzutrennenden partikulären Bestandteile 
+des Fluids haben, und für die zweiten Membranelemente 
+Membranen im wesentlichen isotroper Porenstruktur. 
+[0074] In dem erfindungsgemäßen Membranmodul 
+bzw. bei Durchführung des erfindungsgemäßen Verfah-
+rens werden bevorzugt Membranen mit einem mittleren 
+Porendurchmesser zwischen 0,01 und 10 Pm einge-
+setzt. Für den Fall, dass der jeweiligen Membran eine 
+fraktionierende Funktion zukommt, richtet sich die Po-
+rengröße der Trennschicht nach der Größe der abzutren-
+nenden partikulären Bestandteile. In der Regel weisen 
+diese Membranen in der Trennschicht einen mittleren 
+Porendurchmesser zwischen 0,01 und 1 Pm und in der 
+darunterliegenden Stützstruktur einen mittleren Poren-
+durchmesser zwischen 0,2 und 10 Pm auf. In den Fällen, 
+in denen die jeweilige Membran Matrix für funktionelle 
+Gruppen ist, besitzt sie vorzugsweise einen mittleren Po-
+rendurchmesser zwischen 0,2 und 10 Pm. 
+[0075] Zur Bestimmung des mittleren Poren-
+durchmessers werden je nach Größe des Poren-
+durchmessers und je nach Membranstruktur unter-
+schiedliche Verfahren angewandt. Für im wesentlichen 
+isotrope Porenstrukturen werden Porendurchmesser in-
+direkt durch ein Filtrationsexperiment bestimmt, indem 
+eine wässrige Dextranlösung mit einer vorgegebenen 
+Größenverteilung von Dextranmolekülen durch die 
+Membran filtriert wird. Aus dem dabei gemessenen rel-
+ativen Rückhalt als Funktion der nominalen Molekül-
+durchmesser wird die Porendurchmesserverteilung und 
+daraus der mittlere Porendurchmesser berechnet. 
+Dieses Verfahren wird beispielsweise von K. Sakai, J. 
+Membrane Science 96 (1994), 91-130, oder von Shin-
+ichi Nakao, J. Membrane Science 96 (1994) 131-165, für 
+Dialyse-bzw. Filtrationsmembranen beschrieben. 
+[0076] Für anisotrope Membranen, die z.B. eine 
+Schicht mit dichterer Porenstruktur aufweisen, werden 
+zur Bestimmung der mittleren Porendurchmesser inner-
+halb der dichteren Schicht ebenfalls die zitierten Bestim-
+mungsverfahren basierend auf Filtrationsexperimenten 
+herangezogen. Zur Bestimmung der mittleren Poren-
+durchmesser der grobporigeren Bereiche der anisotro-
+pen Membranen wird ein bildanalytisches Verfahren 
+nach L. Zeman u.a., J. Membrane Science 71 (1992), 
+221-231 eingesetzt. Dieses eignet sich für einen Poren-
+größenbereich zwischen 0,1 Pm und 10 Pm, naturgemäß 
+sowohl für isotrope als auch für anisotrope Porenstruk-
+turen. 
+[0077] In den Fällen, in denen die ersten Membranele-
+mente und/ oder die zweiten Membranelemente und/ oder 
+
+die gegebenenfalls als Trägermedium eingesetzten 
+Membranen Matrix für funktionelle Gruppen sind, werden 
+in der erfindungsgemäßen Vorrichtung bzw. zur Durch-
+führung des erfindungsgemäßen Verfahrens vorzugs-
+weise als Matrix poröse Membranen mit großer innerer 
+Oberfläche eingesetzt. Bewährt haben sich poröse Mem-
+branen mit einer BET-Oberfläche zwischen 2 und 300 
+m 2 je cm 3 Membranvolumen, bestens bewährt haben 
+sich solche Membranen mit einer BET-Oberfläche 
+zwischen 4 und 30 m 2 je cm 3 Membranvolumen. Das auf 
+Stickstoffadsorptionsmessung basierende BET-Ver-
+fahren zur Bestimmung der Oberfläche poröser Mem-
+branstrukturen ist von K. Kaneko, J. Membrane Science 
+96 (1994), 59-89 beschrieben. 
+[0078] Abhängig von der gewünschten Anwendung 
+der erfindungsgemäßen Vorrichtung bzw. des erfin-
+dungsgemäßen Verfahrens können die für die ersten 
+Membranelemente, die für die zweiten Membranelemen-
+te sowie die gegebenenfalls als Trägermaterial einge-
+setzten Membranen gleich sein oder auch unterschied-
+lich. Unterschiede können sich beispielsweise auf ihre 
+Porenstruktur oder ihre Porendurchmesser beziehen, sie 
+können sich jedoch auch auf in den Membranen enthal-
+tene funktionelle Gruppen beziehen, die zur Wechselwir-
+kung mit in dem zu behandelnden Fluid enthaltenen Ziel-
+substanzen bestimmt sind. 
+[0079] Für den Fall, dass als Trägermaterial Partikel 
+eingesetzt werden, sind diese zweckmäßigerweise -wie 
+ausgeführt -z.B. in ein fluiddurchlässiges Vlies, eine 
+Flachmembran oder ähnliches eingebracht, etwa um die 
+Position der Partikel zwischen den ersten und zweiten 
+Membranelementen zu stabilisieren oder um im bevor-
+zugten Fall, dass die Anordnung aus ersten und zweiten 
+Membranelementen einen schichtförmigen Aufbau auf-
+weist, eine gleichmäßige Verteilung der Partikel zwi-
+schen den Schichten oder auch einen gleichmäßigen Ab-
+stand zwischen den Schichten zu erreichen. Das fluid-
+durchlässige Vlies oder z.B. die Flachmembran kann da-
+bei eine relativ grobe Struktur aufweisen; wesentlich ist 
+allein, dass die Partikel problemlos in das Vlies oder die 
+Flachmembran eingebracht werden können und dort im 
+späteren Einsatz stabil positioniert sind. 
+[0080] Derartige Partikel können z.B. solche sein, wie 
+sie gemäß dem Stand der Technik in Säulen zur Affini-
+tätschromatographie eingesetzt werden. Hierbei kann 
+die Struktur der Partikel dicht sein, so dass im zu behan-
+delnden Fluid enthaltene Zielsubstanzen z.B. nur durch 
+einen Lösevorgang oder durch Diffusion zu im Inneren 
+der Partikel immobilisierten stoffspezifisch wirkenden 
+Gruppen gelangen können. Bevorzugt weisen die Parti-
+kel jedoch eine poröse Struktur auf, und ein konvektiver 
+Transport der Zielsubstanzen zu den immobilisierten 
+stoffspezifisch wirkenden Gruppen auch an der inneren, 
+durch die Poren definierten Oberfläche ist möglich. Der 
+Porendurchmesser dieser Partikel liegt vorzugsweise im 
+Bereich zwischen 0,01 und 10 Pm und besonders bevor-
+zugt zwischen 0,1 und 3 Pm. 
+[0081] Unter Partikeln werden aber auch Makromole-
+
+19 
+20 
+
+
+EP 1 289 630 B1 
+
+12 
+
+5 
+
+10 
+
+15 
+
+20 
+
+25 
+
+30 
+
+35 
+
+40 
+
+45 
+
+50 
+
+55 
+
+küle wie Proteine (z.B. Albumin), an die beispielsweise 
+kleinere Moleküle (z.B. Bilirubin) gebunden sein können, 
+oder, wie ausgeführt, auch Zellen verstanden. Die Ge-
+stalt der Partikel kann kugelförmig sein oder jede andere 
+Form annehmen, wie z.B. ellipsoidisch oder stäbchen-
+förmig. 
+[0082] Beispielsweise zur Einbringung der Partikel 
+oder aber auch zur Entlüftung des Außenraums um die 
+Membranelemente ist es zweckmäßig, den erfindungs-
+gemäßen Membranmodul mit einer oder mehreren ver-
+schließbaren Aus-bzw. Einlassöffnungen in der Gehäu-
+sewand zu versehen. 
+[0083] Hinsichtlich des Materials, aus dem die Mem-
+branelemente und gegebenenfalls als Trägermaterial 
+eingesetzten Flachmembranen gemäß der Erfindung 
+aufgebaut sind, sind keinerlei Einschränkungen gege-
+ben. So können Membranen aus anorganischen Mate-
+rialien wie Glas, Keramik, SiO 2 , Kohlenstoff oder Metall, 
+aus organischen Polymeren oder Mischungen daraus 
+eingesetzt werden. Die Polymeren können hydrophilen 
+und/ oder hydrophoben Charakter aufweisen, sie können 
+ausgewählt sein aus der Gruppe der cellulosischen Po-
+lymeren, wie z.B. Cellulose oder regenerierte Cellulose, 
+modifizierte Cellulose, wie z.B. Celluloseester, Cellulo-
+seäther, aminmodifizierte Cellulosen, sowie Mischungen 
+von cellulosischen Polymeren, aus der Gruppe der syn-
+thetischen Polymeren wie z.B. Polyacrylnitril und ent-
+sprechende Copolymere, Polyurethan enthaltende Po-
+lymere, Polyarylsulfone und Polyarylethersulfone, wie 
+z.B. Polysulfon oder Polyethersulfon, Polyvinylidenfluo-
+rid, Polytetrafluorethylen, wasserunlösliche Polyvinylal-
+kohole, aliphatische und aromatische Polyamide, Poly-
+imide, Polyetherimide, Polyester, Polycarbonate, Polyo-
+lefine, wie Polyethylen, Polypropylen, Polyvinylchlorid, 
+Polyphenylenoxid, Polybenzimidazole und Polybenzimi-
+dazolone, sowie daraus gewonnenen Modifikationen, 
+Blends, Mischungen oder Copolymeren dieser Polyme-
+ren. Diesen Polymeren bzw. Polymergemischen können 
+weitere Polymere wie z.B. Polyethylenoxid, Polyhydro-
+xyether, Polyethylenglykol, Polyvinylpyrrolidon, Polyvi-
+nylalkohol oder Polycaprolacton, oder anorganische 
+Stoffe wie z.B. SiO 2 als Zusatzstoffe beigemischt wer-
+den. Im Einzelfall kann die Membran auch z.B. einer 
+Oberflächenmodifikation unterzogen worden sein, um 
+bestimmte Eigenschaften der Membranoberfläche z.B. 
+in Form bestimmter funktioneller Gruppen einzustellen. 
+Im Falle des Einsatzes von polyolefinischen Polymeren 
+kann es erforderlich sein, zumindest die innere Oberflä-
+che der Membran z.B. mit einem funktionalisierbaren Po-
+lymer zu beschichten. 
+[0084] Besonders gute Erfahrungen wurden mit Mem-
+branen aus cellulosischen Polymeren, Polyamiden, Po-
+lypropylen, Polyethersulfonen oder aus lösemittelstabi-
+len und pH-Wert-stabilen Polymeren gemacht, insbeson-
+dere mit Membranen aus Polytetrafluorethylen oder Po-
+lyvinylidenfluorid, sowie daraus gewonnenen Modifika-
+tionen, Blends, Mischungen oder Copolymeren. Derarti-
+ge Membranen werden beispielsweise in der DE-A-39 
+
+23 128 beschrieben. 
+[0085] Der erfindungsgemäße Membranmodul bzw. 
+das erfindungsgemäße Verfahren kann mit Erfolg zu ver-
+schiedensten stoffspezifischen Behandlungen von Flui-
+den verwendet werden. Bei Membranmodulen, die eine 
+Matrix enthalten, können je nach dem jeweiligen Behand-
+lungsverfahren auch mehrere verschiedene funktionelle 
+Gruppen auf und/ oder in der Matrix immobilisiert sein, 
+die spezifisch mit verschiedenen Zielsubstanzen wech-
+selwirken. Es können auch für die ersten und zweiten 
+Membranelemente und die gegebenenfalls als Träger-
+material eingesetzte Flachmembran unterschiedliche 
+Membranen mit unterschiedlichen stoffspezifisch wir-
+kenden Gruppen zusammen eingesetzt werden, wenn 
+es die Anwendung erfordert. Auf diese Weise können in 
+der Matrix unterschiedliche stoffspezifische Behandlun-
+gen erfolgen. In anderen Fällen lässt sich auch eine sol-
+che Behandlung des Fluids über Wechselwirkung mit 
+den funktionellen Gruppen kombinieren mit einer Vorfil-
+tration des Fluids, die dann in den ersten Membranele-
+menten erfolgt, um so z.B. bestimmte Bestandteile aus 
+dem zu behandelnden Fluid zurückzuhalten, die nicht mit 
+den funktionellen Gruppen in Kontakt kommen sollen. 
+Bei Einsatz von Membranmodulen mit mehreren Modul-
+stufen können in den einzelnen Modulstufen gleiche, je-
+doch auch unterschiedliche funktionelle Gruppen immo-
+bilisiert sein. 
+[0086] Zur Immobilisierung der funktionellen Gruppen 
+auf und/ oder in der Matrix können die in der Literatur 
+beschriebenen Verfahren eingesetzt werden. Auch hin-
+sichtlich der in Bezug auf die jeweilige stoffspezifische 
+Fluidbehandlung verwendbaren funktionellen Gruppen 
+kann auf die in der Literatur beschriebenen zurückgegrif-
+fen werden. Verschiedene Möglichkeiten der Immobili-
+sierung der funktionellen Gruppen kommen in Betracht, 
+sowohl in Bezug auf den Ort als auch in Bezug auf die 
+Art und Weise ihrer Immobilisierung. 
+[0087] So können diese funktionellen Gruppen ad-
+sorptiv oder über kovalente Bindungen an die Matrix ge-
+koppelt sein. Diese Kopplung an die Matrix kann sowohl 
+vor Einbau in das Gehäuse als auch nach Einsetzen der 
+Matrix in das Gehäuse des erfindungsgemäßen Mem-
+branmoduls erfolgen. Hierbei können in Abstimmung auf 
+den jeweiligen Anwendungsfall die funktionellen Grup-
+pen beispielsweise im wesentlichen homogen an die ge-
+samte Oberfläche der Matrix, d.h. sowohl an die äußeren 
+als auch an die inneren, z.B. durch die Poren gebildeten 
+Oberflächen gekoppelt, d.h. auf und in der Matrix immo-
+bilisiert sein. Es kann aber auch erforderlich sein, dass 
+die funktionellen Gruppen nur an einem Teil dieser Ober-
+flächen immobilisiert sind, etwa wenn einzelne Bestand-
+teile des zu behandelnden Fluids nicht mit den funktio-
+nellen Gruppen in Kontakt kommen sollen. 
+[0088] Auch ein direkter Einbau von funktionellen 
+Gruppen in das Matrixmaterial ist möglich, im Falle von 
+Matrices aus polymeren Materialien etwa durch Modifi-
+kation des Polymermaterials mit beispielsweise ioni-
+schen, hydrophilen oder hydrophoben Gruppen oder 
+
+21 
+22 
+
+
+EP 1 289 630 B1 
+
+13 
+
+5 
+
+10 
+
+15 
+
+20 
+
+25 
+
+30 
+
+35 
+
+40 
+
+45 
+
+50 
+
+55 
+
+durch Einsatz von Polymerblends, bei denen mindestens 
+eine Polymerkomponente funktionelle, d.h. stoffspezi-
+fisch wirkende Gruppen aufweist. 
+[0089] Eine weitere Möglichkeit besteht darin, derarti-
+ge funktionelle Gruppen oder auch solche Gruppen auf-
+weisende Trägersubstanzen oder Partikel in das Poren-
+system einer Membran beim Herstellungsverfahren der 
+Membran einzulagern oder nachträglich in die fertige 
+Membran z.B. einzuschwemmen. In letzterem Fall weist 
+die Membran zweckmäßigerweise eine asymmetrische 
+Struktur sowie gegebenenfalls eine Haut auf, wobei die 
+Öffnungen der Haut bzw. die Poren der feinporigeren 
+Seite der Membran so bemessen sind, dass die funktio-
+nellen Gruppen bzw. die genannten Trägersubstanzen 
+oder Partikel nicht hindurchtreten können. 
+[0090] Vorzugsweise ist die Porengröße der verwen-
+deten Membran so zu wählen, dass auch trotz der in den 
+Poren immobilisierten funktionellen Gruppen die Zielsub-
+stanzen konvektiv von zumindest einem Teil des zu be-
+handelnden Fluids durch die Membranwand transportiert 
+werden können. 
+[0091] Gemäß einer besonders bevorzugten Ausge-
+staltung der Erfindung handelt es sich bei den funktio-
+nellen Gruppen um Liganden zur affinen Trennung von 
+Ligaten aus zu behandelnden Flüssigkeiten oder um Ka-
+talysatoren, wobei unter Katalysatoren auch Biokataly-
+satoren wie z.B. Enzyme zu verstehen sind. Bevorzugte 
+erfindungsgemäße Verfahren sind Verfahren zur Reini-
+gung/ Trennung von Ligaten aus einer ligathaltigen Flüs-
+sigkeit, wobei eine Matrix ausgewählt wird, auf und/ oder 
+in der Liganden für besagte Ligaten immobilisiert sind, 
+bzw. erfindungsgemäße Membranmodule verwendet 
+werden, die derartige Matrices enthalten. Des Weiteren 
+sind bevorzugte Verfahren solche zur katalytischen Be-
+handlung von Flüssigkeiten, 
+wobei eine Matrix ausgewählt wird, auf und/ oder in der 
+Katalysatoren immobilisiert sind, bzw. erfindungsgemä-
+ße Membranmodule verwendet werden, die derartige 
+Matrices enthalten. Zu den katalytischen Verfahren zäh-
+len auch biokatalytische Verfahren wie z.B. enzymati-
+sche Verfahren. 
+[0092] Liganden können in dem hier gebrauchten Sin-
+ne je nach Anwendung nicht-spezifisch, gruppenspezi-
+fisch oder spezifisch wirken. Hinsichtlich einsetzbarer Li-
+ganden sowie hinsichtlich der Möglichkeiten ihrer Immo-
+bilisierung sei auf die Ausführungen in der europäischen 
+Patentanmeldung EP-A-0 787 523 verwiesen, auf deren 
+diesbezügliche Offenbarung sich hier ausdrücklich be-
+zogen wird. 
+[0093] Ohne an dieser Stelle die Möglichkeiten er-
+schöpfend aufzuzählen, können die Liganden z.B. durch 
+Modifikation der Oberflächen der Matrix erzeugt werden, 
+sie können direkt oder über Abstandsmoleküle (Spacer), 
+sie können aber auch über Tentakelsysteme oder Ketten 
+an die Oberfläche gebunden werden, wobei an jede Kette 
+bzw. an jedes Tentakelsystem mehrere Liganden gebun-
+den sein können. 
+[0094] Um die Kapazität insbesondere von lonenaus-
+
+tauschermatrices zu erhöhen, sind verschiedene an sich 
+bekannte Methoden anwendbar, wobei die Anzahl der 
+stoffspezifisch wirkenden Gruppen, d.h. der Liganden, 
+auf der Oberfläche der Matrices erhöht wird. Bevorzugt 
+sind die Liganden über Moleküle langkettiger Linear-
+polymerer an die Membran gekoppelt, wobei die Mole-
+küle der langkettigen Linearpolymeren eine Mehrzahl 
+von Liganden tragen. Die Verwendung langkettiger Lin-
+earpolymerer mit Seitenarmen, sogenannter Tentakeln, 
+wobei die Liganden an den Seitenarmen sitzen, besch-
+reibt z.B. W. Müller, J. Chromatogr., Bd. 510 (1990), S. 
+133. Die Herstellung solcher Tentakel ist beispielsweise 
+bei Tsuneda u.a. (Biotechnol. Prog., Bd. 10 (1994), S. 
+76-81, und J. Chromatogr. Bd. A 689 (1995), S. 211-218) 
+beschrieben und kann über eine strahleninduzierte 
+Pfropfpolymerisation von einem eine Epoxidgruppe en-
+thaltenden Monomer, wie z.B. Glycidylmethacrylat, mit 
+anschließender chemischer Umsetzung in SO 3 H-Grup-
+pen oder Diethylamino-Gruppen erfolgen. Ein anderes 
+Verfahren zur Pfropfung von stickstoffhaltigen polymer-
+en Flachmembranen, das zur Erhöhung der lonenaus-
+tauscherkapazität der erfindungsgemäßen Mem-
+branelemente eingesetzt werden kann, wird in der EP-
+A-0 490 940 beschrieben. 
+[0095] Membranen, die mit polymerisierbaren Doppel-
+bindungen derivatisierte Polyamide gemäß der DE-OS-
+195 01 726 enthalten, sind für die erfindungsgemäße 
+Vorrichtung bzw. zur Durchführung des erfindungsgemä-
+ßen Verfahrens bestens geeignet. 
+[0096] Der erfindungsgemäße Membranmodul bzw. 
+das erfindungsgemäße Verfahren ist für zahlreiche An-
+wendungen zur Reinigung/ Trennung von Ligaten aus ei-
+ner ligathaltigen Flüssigkeit einsetzbar, wie sie beispiels-
+weise allgemein aus dem Bereich der Affinitätschroma-
+tographie bekannt sind, wobei unter Affinitätschromato-
+graphie biospezifische Adsorptionen oder auch die lo-
+nenaustauscherchromatographie oder die Metallchelat-
+chromatographie verstanden werden. 
+[0097] Interessante Anwendungen beziehen sich auf 
+die Reinigung von monoklonalen Flüssigkeiten, auf die 
+Entfernung von Proteasen zur Stabilisierung von biolo-
+gischen Flüssigkeiten, auf die Gewinnung oder thera-
+peutische Entfernung von Blutplasmabestandteilen aus 
+Blutplasma oder Vollblut. So kann zur Behandlung von 
+Vollblut ein Hemodialysator oder ein Hemodiafilter mit 
+einem erfindungsgemäßen Membranmodul in Reihe ge-
+schaltet oder direkt mit ihm gekoppelt werden. Im Hemo-
+dialysator bzw. Hemodiafilter werden dann harnpflichtige 
+Substanzen auf übliche Weise entfernt. Im sich anschlie-
+ßenden erfindungsgemäßen Membranmodul, in dem 
+das Vollblut im cross-flow Modus durch die ersten Mem-
+branelemente geleitet wird, können dann mittels in die-
+sem Modul immobilisierter, entsprechend ausgewählter 
+funktioneller Gruppen selektiv z.B. Cytokine, albuminge-
+bundene Toxine oder allgemein Toxine mit einem Mole-
+kulargewicht von größer als 10000 D, d.h. solche Sub-
+stanzen, deren Entfernung mittels der Hemodialyse oder 
+der Hemodiafiltration nur in unzureichendem Maße mög-
+
+23 
+24 
+
+
+EP 1 289 630 B1 
+
+14 
+
+5 
+
+10 
+
+15 
+
+20 
+
+25 
+
+30 
+
+35 
+
+40 
+
+45 
+
+50 
+
+55 
+
+lich ist, aus dem Blut entfernt werden. 
+[0098] Andere Anwendungen sind die Entfernung von 
+Pyrogenen aus biologischen oder pharmazeutischen 
+Flüssigkeiten, die Trennung von Enantiomeren, die Iso-
+lierung von Enzymen oder auch die Zellselektion mittels 
+spezifischer, auf ein bestimmtes Oberflächenprotein der 
+Zellen reagierender Liganden, um nur einige Beispiele 
+zu nennen. Auch für Anwendungen im Bereich der Gen-
+technik sind die erfindungsgemäßen Membranmodule 
+bestens geeignet, wenn bei solchen Anwendungen z.B. 
+ein konvektiver Transport von Genen zu beispielsweise 
+auf und/ oder in der Membran immobilisierten Viren oder 
+Zellen erreicht werden soll. 
+[0099] In einer Ausführungsform lässt sich der erfin-
+dungsgemäße Membranmodul als Heparinadsorber für 
+Vollblut einsetzen. In diesem Fall dienen die ersten Mem-
+branelemente, die vom Vollblut durchströmt werden, vor-
+zugsweise allein der Plasmaseparation, und die Hepari-
+nadsorption als stoffspezifische Behandlung erfolgt über 
+im Außsenraum immobilisierte Trägermaterialien und 
+oder in den zweiten Membranelementen. Vorzugsweise 
+erfolgt die Heparinadsorption jedoch allein in den zweiten 
+Membranelementen, die mit Tentakeln versehen sind, 
+die DEA-(Diethylamino-) Gruppen als Liganden tragen. 
+In dieser Ausgestaltung sind die ersten und zweiten 
+Membranelemente bevorzugt so zueinander angeord-
+net, dass der Außenraum klein gehalten ist. Die Tren-
+nung von Plasmaseparation und Heparinadsorption er-
+laubt die separate Optimierung der für die jeweiligen 
+Membranelemente eingesetzten Membranen. Dies ist 
+auch deshalb von Vorteil, da dann für die Plasmasepa-
+ration relativ preiswerte Membranen eingesetzt werden 
+können und die Verwendung der für die Heparinadsorp-
+tion modifizierten Membranen, die wegen der aufwendi-
+gen Modifizierungsverfahren relativ teuer sind, auf die 
+zweiten Membranelemente beschränkt bleibt. 
+[0100] Wie ausgeführt können im Außenraum um die 
+ersten und zweiten Membranelemente Partikel als Matrix 
+eingebracht sein, wobei unter Partikel im Rahmen der 
+vorliegenden Erfindung auch z.B. Zellen zu verstehen 
+sind, die in spezifischer Weise mit an sie herangeführten 
+Zielsubstanzen wechselwirken. In einer weiteren Aus-
+führungsform des erfindungsgemäßen Membranmoduls 
+lässt sich dieser damit als künstliches Organ, beispiels-
+weise als künstliche Leber einsetzen. In diesem Fall wer-
+den über eine Öffnung im Gehäuse z.B. tierische Hepa-
+tozyten in den Außenraum um die ersten und zweiten 
+Membranelemente eingebracht und dort immobilisiert. 
+Es ist dabei günstig, wenn die Membranelementeanord-
+nung einen schichtförmigen Aufbau aufweist, wobei die 
+einzelnen Schichten jeweils nur erste bzw. nur zweite 
+Membranelemente enthalten. Darüber hinaus ist es 
+zweckmäßig, zwischen die Schichten jeweils ein Vlies 
+als Abstandshalter einzubringen, wobei das Vlies so ge-
+staltet sein kann, dass es gleichzeitig Ankerpunkt für die 
+Hepatozyten ist. In der Anwendung reinigen die Hepato-
+zyten Blut oder Blutplasma, welches im cross-flow-Mo-
+dus durch die ersten Membranelemente strömt, von 
+
+Stoffwechselprodukten und Giften. Gleichzeitig werden 
+die Hepatozyten über die ersten Membranelemente mit 
+Sauerstoff und Nährstoffen versorgt. Die zweiten Mem-
+branelemente dienen dazu, die Hepatozyten zurückzu-
+halten, während der von den Hepatozyten gereinigte 
+Plasmastrom diese Membranelemente durchströmt. 
+Dieser gereinigte Plasmastrom wird nach Ausströmen 
+aus den Hohlräumen der zweiten Membranelemente mit 
+dem aus den ersten Membranelementen ausströmen-
+den Blut bzw. Blutplasma zusammengeführt. 
+[0101] Für Anwendungen im Bereich der enzymati-
+schen oder allgemein katalytischen Behandlung von 
+Flüssigkeiten können Hohlfasermembranen ausgewählt 
+werden, auf und/ oder in denen nach an sich bekannten 
+Methoden Enzyme oder Katalysatoren immobilisiert 
+sind. Hinsichtlich der mit dem erfindungsgemäßen Mem-
+branmodul bzw. dem erfindungsgemäßen Verfahren 
+durchführbaren katalytischen Behandlungen sei wieder-
+um auf die Ausführungen in der europäischen Patentan-
+meldung EP-A-0 787 523, verwiesen, auf deren diesbe-
+zügliche Offenbarung sich hier ausdrücklich bezogen 
+wird. 
+[0102] Die Erfindung wird nachfolgend anhand der Fi-
+guren näher erläutert. Es zeigen in vereinfachter sche-
+matischer Darstellung: 
+
+Fig. 1: 
+Membranmodul mit ersten und zweiten Mem-
+branelementen in Form von Hohlfäsermem-
+branen 
+
+Fig. 2: 
+Membranmodul mit ersten und zweiten Mem-
+branelementen in Form von Hohlfasermem-
+branen, wobei im Außenraum um die Membra-
+nelemente Flachmembranen angeordnet sind 
+
+Fig. 3: 
+Membranmodul mit ersten und zweiten Mem-
+branelementen in Form von Hohlfasermem-
+branen, wobei im Außenraum um die Membra-
+nelemente Partikel als Trägermaterial ange-
+ordnet sind 
+
+Fig. 4: 
+Membranmodul mit ersten und zweiten Mem-
+branelementen in Form von Hohlfasermem-
+branen, bei dem die ersten Membranelemente 
+im Zentrum des Moduls zusammengefasst 
+und die zweiten Membranelemente ringförmig 
+um die ersten Membranelemente angeordnet 
+sind 
+
+Fig. 5: 
+Membranmodul, bei dem die ersten Membra-
+nelemente aus Hohlfasemnembranen und die 
+zweiten Membranelemente aus U-förmig ge-
+falteten Flachmembranen bestehen. 
+
+Fig. 6: 
+Membranmodul mit zwei Modulstufen, wobei 
+die ersten Membranelemente aus Hohlfaser-
+membranen und die zweiten Membranele-
+mente aus U-förmig gefalteten Flachmembra-
+
+25 
+26 
+
+
+EP 1 289 630 B1 
+
+15 
+
+5 
+
+10 
+
+15 
+
+20 
+
+25 
+
+30 
+
+35 
+
+40 
+
+45 
+
+50 
+
+55 
+
+nen bestehen. 
+
+[0103] Figur 1 zeigt einen Längsschnitt durch einen 
+erfindungsgemäßen Membranmodul mit ersten Mem-
+branelementen 1 und zweiten Membranelementen 2 in 
+Form von Hohlfasermembranen, die in einem Gehäuse 
+3 in Vergussmassen 4,5 eingebettet sind. Die Hohlfaser-
+membranen sind im dargestellten Fall in ersten Schich-
+ten, die nur erste Membranelemente 1 enthalten, und 
+zweiten Schichten, die nur zweite Membranelemente 2 
+enthalten, angeordnet, wobei sich die Schichten in dieser 
+Darstellung längs der Hohlfasermembranen sowie senk-
+recht zur Zeichenebene erstrecken. Die ersten und zwei-
+ten Schichten sind gemäß Figur 1 in alternierender Rei-
+henfolge übereinandergeschichtet. 
+[0104] Eine solche in der Längsschnittdarstellung al-
+ternierende Reihenfolge von ersten Membranelementen 
+1 und zweiten Membranelementen 2 lässt sich z.B. auch 
+realisieren, indem eine Hohlfasermatte, die nur erste 
+Membranelemente 1 enthält, und eine Hohlfasermatte, 
+die nur zweite Membranelemente 2 enthält, übereinan-
+dergelegt werden und miteinander spiralförmig aufge-
+wickelt werden. In solchen Fällen besitzt das Gehäuse 
+3 vorzugsweise einen runden Querschnitt. 
+[0105] Das Gehäuse 3 weist eine Einlasseinrichtung 
+6 zum Einleiten des zu behandelnden Fluids in das Ge-
+häuse 3 auf sowie eine Auslasseinrichtung 7 zum Ablei-
+ten des behandelnden Fluids aus dem Gehäuse 3. Die 
+Einlasseinrichtung 6 steht mit einem Verteilerraum 8, die 
+Auslasseinrichtung 7 mit einem Sammelraum 9 in Ver-
+bindung. Die ersten Membranelemente 1 sind so in die 
+Vergussmassen 4,5 eingebettet, dass sie mit ihren En-
+den durch die Vergussmassen 4,5 hindurchtreten und 
+an diesen Enden offen sind, wodurch die Hohlräume 10 
+der ersten Membranelemente 1 sowohl in den Verteiler-
+raum 8 als auch in den Sammelraum 9 münden. Die zwei-
+ten Membranelemente 2 sind so in die Vergussmassen 
+4,5 eingebettet, dass sie an ihrem dem Verteilerraum 8 
+zugewandten Ende von der Vergussmasse 4 verschlos-
+sen werden. An ihrem dem Sammelraum 9 zugewandten 
+Ende treten sie durch die Vergussmasse 5 hindurch und 
+sind an diesem Ende offen. Auf diese Weise sind die 
+Hohlräume 11 der zweiten Membranelemente 2 nur zum 
+Sammelraum 9 hin geöffnet. 
+[0106] Der zwischen den Membranelementen 1,2 und 
+den Vergussmassen 4,5, ausgebildete Außenraum 12 
+kann im dargestellten Beispiel über eine verschließbare 
+Öffnung 13 befüllt oder entlüftet werden. 
+[0107] In einer Ausgestaltung des erfindungsgemä-
+ßen Verfahrens strömt das zu behandelnde Fluid, dar-
+gestellt durch den Pfeil 14, als Speisestrom durch die 
+Einlasseinrichtung 6 in den Verteilerraum 8 des Mem-
+branmoduls gemäß Figur 1 ein und durchströmt anschlie-
+ßend die Hohlräume 10 der ersten Membranelemente 1 
+im cross-flow-Modus. Dabei tritt ein Teil des Speise-
+stroms als Permeat durch die porösen Wände der ersten 
+Membranelemente 1 in den Außenraum 12 ein. Der als 
+Retentat verbleibende Teil des Speisestroms verlässt die 
+
+Hohlräume 10 der ersten Membranelemente 1 an den in 
+der Vergussmasse 5 eingebetteten Enden der ersten 
+Membranelemente 1 und tritt in den Sammelraum 9 ein. 
+[0108] Das Permeat strömt aus dem Außenraum 
+durch die Wände der zweiten Membranelemente 2 in de-
+ren Hohlräume 11 ein und verlässt diese über die in der 
+Vergussmasse 5 eingebetteten, geöffneten Enden, um 
+im Sammelraum 9 mit dem Retentat zusammengeführt 
+zu werden. Der aus Permeat und Retentat vereinigte 
+Fluidstrom verlässt als behandeltes Fluid, dargestellt 
+durch den Pfeil 15, über die Auslasseinrichtung 7 den 
+erfindungsgemäßen Membranmodul. Die stoffspezifi-
+sche Behandlung des zu behandelnden Fluids erfolgt in 
+den Wänden der ersten Membranelemente 1 und/ oder 
+im Außenraum 12 und/ oder in den Wänden der zweiten 
+Membranelemente 2. 
+[0109] In Figur 2 ist eine Ausführungsform des erfin-
+dungsgemäßen Membranmoduls dargestellt, bei der im 
+Außenraum 12 um die Membranelemente 1,2 Flach-
+membranen 16 angeordnet sind, die gemeinsam mit den 
+Membranelementen 1,2, in die Vergussmassen 4,5 ein-
+gebettet sind. Auf diese Weise durchströmt das Permeat 
+auf dem Weg von den ersten Membranelementen 1 zu 
+den zweiten Membranelementen 2 die Flachmembranen 
+16 im dead-end-Modus. Die Flachmembran ist, wie er-
+läutert, bevorzugt Trägermaterial und Matrix für funktio-
+nelle Gruppen. Sie kann jedoch auch allein als dead-end 
+Filtrationsstufe dienen und eine Fraktionierung nach Teil-
+chengröße bewirken. 
+[0110] Im Falle, dass die Anordnung aus ersten und 
+zweiten Membranelementen 1,2 aus spiralförmig aufge-
+wickelten Hohlfasermatten aufgebaut ist, die jeweils nur 
+erste bzw. nur zweite Membranelemente enthalten, lässt 
+sich die Flachmembran 16 im Außenraum leicht dadurch 
+anordnen, dass sie vor dem spiralförmigen Wickeln zwi-
+schen die Hohlfasermatten gelegt wird und dann zusam-
+men mit den Hohlfasermatten aufgewickelt wird. Gege-
+benenfalls kann für Anwendungen, bei denen zwischen 
+den Hohlfasermembranen 1,2 und der Flachmembran 
+16 ein Abstand erforderlich ist, zwischen die Flachmem-
+bran 16 und die jeweilige Hohlfasermatte zusätzlich ein 
+flächiger Abstandshalter gelegt werden, der ebenfalls mit 
+aufgewickelt wird. 
+[0111] Figur 3 zeigt eine Ausführungsform des erfin-
+dungsgemäßen Membranmoduls ähnlich der in Figur 1 
+dargestellten, bei der jedoch in den Außenraum 12 um 
+die Membranelemente 1,2 Partikel 17 als Trägermate-
+rialien eingebracht sind, die Matrix für funktionelle Grup-
+pen sind. Damit eine stabile Positionierung erreicht wird, 
+können die Partikel auch in ein Vlies eingebettet sein, 
+das gleichzeitig als Abstandshalter zwischen den 
+Schichten aus ersten und zweiten Membranelementen 
+1,2 dient. Die Partikel 17 lassen sich beispielsweise über 
+die Öffnungen 13 in den Außenraum 12 einfüllen und 
+durch Rotation und/ oder Taumelbewegung des Moduls 
+gleichmäßig im Außenraum 12 verteilen. 
+[0112] Unter Partikel werden, wie bereits ausgeführt, 
+z.B. auch Zellen verstanden, die in spezifischer Weise 
+
+27 
+28 
+
+
+EP 1 289 630 B1 
+
+16 
+
+5 
+
+10 
+
+15 
+
+20 
+
+25 
+
+30 
+
+35 
+
+40 
+
+45 
+
+50 
+
+55 
+
+mit an sie herangeführten Zielsubstanzen wechseiwir-
+ken. In einer Ausführungsform des erfindungsgemäßen 
+Membranmoduls lässt sich dieser damit als künstliches 
+Organ, beispielsweise als künstliche Leber einsetzen. 
+[0113] In Figur 4 ist ebenfalls ein erfindungsgemäßer 
+Membranmodul dargestellt, dessen Membranelemente 
+1,2 aus Hohlfasermembranen bestehen. Der Membran-
+modul gemäß Figur 4 enthält jedoch eine größere Anzahl 
+an ersten Membranelementen 1 für die cross-flow Filtra-
+tion im Vergleich zur Anzahl an zweiten Membranele-
+menten 2 für die dead-end Filtration. Im dargestellten 
+Fall ist das Verhältnis N 1 /N 2 der Anzahl N 1 der ersten 
+Membranelemente 1 zur Anzahl N 2 der zweiten Mem-
+branelemente 2 gleich 4, wobei die ersten Membranele-
+mente 1 im Zentrum des Moduls zusammengefasst sind 
+und die zweiten Membranelemente 2 z.B. in Form einer 
+Hohlfasermatte ringförmig um das Bündel der ersten 
+Membranelemente 1 angeordnet sind. 
+[0114] Generell sind je nach Anwendung des erfin-
+dungsgemäßen Membranmoduls unterschiedliche Ver-
+hältnisse N 1 /N 2 möglich, wobei das Verhältnis vorzugs-
+weise den Bereich 0,5 bis 10 abdeckt. Hinsichtlich der 
+Anordnung sind verschiedene Alternativen denkbar. Bei 
+einem Verhältnis N 1 /N 2 von beispielsweise 4 können bei 
+einem stapelförmigen Aufbau der Membranelementean-
+ordnung vier Lagen von Hohlfasermatten mit ersten 
+Membranelementen mit einer Lage einer Hohlfasermatte 
+mit zweiten Membranelementen kombiniert werden. Es 
+können aber auch Hohlfasermatten verarbeitet werden, 
+die bereits erste und zweite Membranelemente im Ver-
+hältnis 4: 1 enthalten. 
+[0115] Eine Ausführungsform des erfindungsgemä-
+ßen Membranmoduls, bei dem die zweiten Membranele-
+mente aus Flachmembranen ausgebildet sind, ist in Figur 
+5 dargestellt. Der Modul gemäß Figur 5 weist eine An-
+ordnung aus ersten Lagen mit ersten Membranelemen-
+ten 1 in Form von Hohlfasermembranen und zweiten La-
+gen mit zweiten Membranelementen 2 auf, die aus U-
+förmig gefalteten Flachmembranen gebildet sind. Der 
+Hohlraum 11 der zweiten Membranelemente wird gemäß 
+der Schnittdarstellung durch die bei der U-förmigen Fal-
+tung entstehenden Schenkel der jeweiligen Flachmem-
+bran sowie durch die U-förmige Faltkante begrenzt und 
+entsprechend dem gezeigten Beispiel in Figur 5 durch 
+einen Abstandshalter 18 stabilisiert. Gleichzeitig sind 
+auch Abstandshalter 18 zwischen die ersten Membran-
+elemente 1 und die zweiten Membranelemente 2 einge-
+bracht, um eine stabile Positionierung insbesondere der 
+zweiten Membranelemente 2 im Modulgehäuse 3 zu er-
+reichen. 
+[0116] Die Faltkanten, welche in Richtung des Vertei-
+lerraums 9 angeordnet und im vorliegenden Beispiel 
+nicht zusammen mit den entsprechenden Enden der er-
+sten Membranelemente 1 in die Vergussmasse 4 einge-
+bettet sind, schließen zusammen mit den an die Faltkan-
+te angrenzenden, ebenfalls geschlossenen Seitenkan-
+ten die aus Flachmembranen ausgebildeten zweite 
+Membranelemente 2 gegenüber dem Außenraum ab, so 
+
+dass die Hohlräume dieser Elemente an ihrem dem Ver-
+teilerraum 8 zugewandten Ende geschlossen sind. Auf 
+diese Weise werden die zweiten Membranelemente 2 in 
+der Anwendung vom Permeat, welches durch die Wände 
+der ersten Membranelemente permeiert ist, im dead-end 
+Modus durchströmt. Zum Sammelraum 9 hin sind die 
+Hohlräume 11 der zweiten Membranelemente 2 geöff-
+net, so dass das Permeat aus den Hohlräumen der zwei-
+ten Membranelemente 2 in den Sammelraum 9 ausströ-
+men kann, wo es mit dem aus den Hohlräumen 10 der 
+ersten Membranelemente 1 ausströmenden Retentat 
+vereinigt wird. 
+[0117] Figur 6 zeigt einen erfindungsgemäßen Mem-
+branmodul, der zwei Membranelementeanordnungen 
+aus ersten und zweiten Membranelementen 1,2 als in 
+Richtung der Durchströmung des Gehäuses 3 gesehen 
+hintereinandergeschaltete Modulstufen enthält. Der Auf-
+bau der einzelnen Anordnungen entspricht demjenigen 
+der in Figur 5 gezeigten Anordnung aus ersten und zwei-
+ten Membranelementen 1,2 mit Hohlfasermembranen 
+als ersten Membranelementen 1 und U-förmig gefalteten 
+Flachmembranen als zweiten Membranelementen 2. Die 
+einzelnen Modulstufen weisen zueinander einen Ab-
+stand auf, so dass zwischen den Modulstufen ein frei 
+durchströmbarer Raum 19 entsteht, der Sammelraum für 
+die, bezogen auf die Durchströmrichtung des Gehäuses, 
+vor dem Raum 19 liegende erste Modulstufe ist und in 
+dem Retentat und Permeat aus der ersten Modulstufe 
+zusammengeführt werden. Gleichzeitig ist dieser Raum 
+19 Verteilerraum für die, bezogen auf die Durchström-
+richtung, hinter dem Raum 19 liegende zweite Modulstu-
+fe, aus dem das in der ersten Modulstufe behandelte 
+Fluid auf die ersten Membranelemente 1 der zweiten Mo-
+dulstufe verteilt wird. Das die zweite Modulstufe verlas-
+sende Retentat und Permeat wird im Sammelraum 9 zu-
+sammengeführt, und das in zwei Modulstufen behandel-
+te Fluid 15 über die Auslasseinrichtung 7 aus dem Mem-
+branmodul abgeleitet. 
+
+Patentansprüche 
+
+1. Membranmodul zur stoffspezifischen Behandlung 
+eines Fluids, enthaltend 
+
+a) ein Gehäuse (3), 
+b) eine Einlasseinrichtung (6) zum Einleiten des 
+zu behandelnden Fluids (14) in das Gehäuse 
+(6) in einen Verteilerraum (8), 
+c) eine Auslasseinrichtung (7) zum Ableiten des 
+behandelten Fluids (15) aus dem Gehäuse (3) 
+aus einem Sammelraum (9), und 
+d) im Gehäuse (3) angeordnete erste Membra-
+nelemente (1) mit poröser semipermeabler 
+Wand sowie jeweils einem dem Verteilerraum 
+(8) und einem dem Sammelraum (9) zugewand-
+ten Ende und einem durch die Wand ausgebil-
+deten Hohlraum (10), wobei die ersten Membra-
+
+29 
+30 
+
+
+EP 1 289 630 B1 
+
+17 
+
+5 
+
+10 
+
+15 
+
+20 
+
+25 
+
+30 
+
+35 
+
+40 
+
+45 
+
+50 
+
+55 
+
+nelemente (1) mit ihrem dem Verteilerraum (8) 
+zugewandten Ende in eine erste Vergussmasse 
+(4) und mit ihrem dem Sammelraum (9) zuge-
+wandten Ende in eine zweite Vergussmasse (5) 
+so eingebettet sind, dass die Enden durch die 
+Vergussmassen (4,5) hindurchtreten und die 
+Hohlräume (10) der ersten Membranelemente 
+(1) jeweils sowohl an dem dem Verteilerraum 
+(8) zugewandten Ende als auch an dem dem 
+Sammelraum (9) zugewandten Ende offen ist 
+und in den Verteilerraum (8) und in den Sam-
+melraum (9) münden, 
+dadurch gekennzeichnet, dass der Mem-
+branmodul des Weiteren im Gehäuse (3) ange-
+ordnete zweite Membranelemente (2) mit porö-
+ser semipermeabler Wand sowie jeweils einem 
+dem Verteilerraum (8) und einem dem Sammel-
+raum (9) zugewandten Ende und einem durch 
+die Wand ausgebildeten Hohlraum (11) enthält, 
+wobei die zweiten Membranelemente (2) mit ih-
+ren dem Sammelraum (9) zugewandten Enden 
+zusammen mit den ersten Membranelementen 
+(1) in die zweite Vergussmasse (5) so eingebet-
+tet sind, dass diese Enden durch die zweite Ver-
+gussmasse (5) hindurchtreten und die Hohlräu-
+me (11) der zweiten Membranelemente (2) an 
+diesen Enden jeweils offen sind und in den Sam-
+melraum münden, und die zweiten Membran-
+elemente (2) an ihren dem Verteilerraum (8) zu-
+gewandten Enden geschlossen sind, wobei die 
+ersten und die zweiten Membranelemente (1,2) 
+eine Membranelementeanordnung ausbilden 
+und wobei zwischen den Vergussmassen (4,5) 
+ein gegenüber dem Verteilerraum (8) und ge-
+genüber dem Sammelraum (9) fluiddicht abge-
+trennter und durch die Vergussmassen (4,5), die 
+Innenwand des Gehäuses (3) und die Membra-
+nelemente (1,2) begrenzter Außenraum (12) 
+ausgebildet ist. 
+
+2. Membranmodul nach Anspruch 1, dadurch ge-
+kennzeichnet, dass die Membranelementeanord-
+nung aus flächigen Schichten aufgebaut ist. 
+
+3. Membranmodul nach Anspruch 2, dadurch ge-
+kennzeichnet, dass die Membranelementeanord-
+nung aus ebenen flächigen Schichten aufgebaut ist, 
+die zu einem Stapel aufeinandergelegt sind. 
+
+4. Membranmodul nach Anspruch 2, dadurch ge-
+kennzeichnet, dass die Membranelementeanord-
+nung aus flächigen Schichten besteht, die spiralför-
+mig um eine Wickelachse gewickelt sind. 
+
+5. Membranmodul nach einem oder mehreren der An-
+sprüche 2 bis 4, dadurch gekennzeichnet, dass 
+die Membranelementeanordnung erste Schichten 
+und zweite Schichten umfasst, wobei die ersten 
+
+Schichten nur erste Membranelemente (1) und die 
+zweiten Schichten nur zweite Membranelemente (2) 
+enthalten. 
+
+6. Membranmodul nach Anspruch 5, dadurch ge-
+kennzeichnet, dass die Membranelementeanord-
+nung eine alternierende Abfolge von ersten und 
+zweiten Schichten umfasst. 
+
+7. Membranmodul nach einem oder mehreren der An-
+sprüche 1 bis 6, dadurch gekennzeichnet, dass 
+die ersten Membranelemente (1) und die zweiten 
+Membranelemente (2) Hohlfasermembranen sind. 
+
+8. Membranmodul nach einem oder mehreren der An-
+sprüche 2 bis 6, dadurch gekennzeichnet, dass 
+die ersten Membranelemente (1) und zweiten Mem-
+branelemente (2) Hohlfasermembranen sind und die 
+Hohlfasermembranen innerhalb der Schichten zu-
+einander im wesentlichen parallel angeordnet sind. 
+
+9. Membranmodul nach einem oder mehreren der An-
+sprüche 7 oder 8, dadurch gekennzeichnet, dass 
+die Hohlfasermembranen in mindestens eine Hohl-
+fasermatte eingebunden sind. 
+
+10. Membranmodul nach Anspruch 9, dadurch ge-
+kennzeichnet, dass die Hohlfasermembranen mit-
+tels textiler Fäden in die mindestens eine Hohlfaser-
+matte eingebunden sind. 
+
+11. Membranmodul nach einem oder mehreren der An-
+sprüche 9 oder 10, dadurch gekennzeichnet, dass 
+die mindestens eine Hohlfasermatte zick-zack-för-
+mig zu einem Stapel gefaltet ist, der die Membran-
+elementeanordnung ausbildet. 
+
+12. Membranmodul nach einem oder mehreren der An-
+sprüche 1 bis 6, dadurch gekennzeichnet, dass 
+die ersten Membranelemente (1) Hohlfasermembra-
+nen sind und die zweiten Membranelemente (2) je-
+weils aus mindestens einer Flachmembran ausge-
+bildet sind. 
+
+13. Membranmodul nach Anspruch 12, dadurch ge-
+kennzeichnet, dass die zweiten Membranelemen-
+te (2) jeweils aus einer U-förmig gefalteten, im we-
+sentlichen rechteckigen oder quadratischen Flach-
+membran gebildet sind, wobei neben der Faltkante 
+zwei weitere Seitenkanten geschlossen sind, die 
+durch die Faltung entstandenen Schenkel der U-för-
+mig gefalteten Flachmembran zur Bildung des Hohl-
+raums (11) auf Abstand gehalten sind und die ver-
+bleibende offene Seitenkante in Richtung des Sam-
+melraums (9) angeordnet ist. 
+
+14. Membranmodul nach Anspruch 12, dadurch ge-
+kennzeichnet, dass die zweiten Membranelemen-
+
+31 
+32 
+
+
+EP 1 289 630 B1 
+
+18 
+
+5 
+
+10 
+
+15 
+
+20 
+
+25 
+
+30 
+
+35 
+
+40 
+
+45 
+
+50 
+
+55 
+
+te (2) aus zwei zueinander im wesentlichen paralle-
+len und im wesentlichen rechteckigen oder quadra-
+tischen Flachmembranen ausgebildet sind, die so 
+angeordnet sind, dass ihre Kanten parallel zueinan-
+der verlaufen, wobei die Flachmembranen zueinan-
+der auf Abstand gehalten und an ihrer in Richtung 
+Verteilerraum (8) weisenden Kante sowie den dazu 
+senkrechten Kanten formschlüssig miteinander ver-
+bunden sind und die verbleibende offene Seitenkan-
+te in Richtung des Sammelraums (9) angeordnet ist. 
+
+15. Membranmodul nach einem oder mehreren der An-
+sprüche 1 bis 14, dadurch gekennzeichnet, dass 
+im Gehäuse (3) eine Matrix enthalten ist, auf und/ 
+oder in der funktionelle Gruppen immobilisiert sind. 
+
+16. Membranmodul nach Anspruch 15, dadurch ge-
+kennzeichnet, dass die ersten und/ oder die zwei-
+ten Membranelemente (1,2) Matrix für die funktio-
+nellen Gruppen sind. 
+
+17. Membranmodul nach einem oder mehreren der An-
+sprüche 15 oder 16, dadurch gekennzeichnet, 
+dass zwischen die ersten und zweiten Membranele-
+mente fluiddurchlässige Trägermaterialien einge-
+bracht sind, die Matrix für die funktionellen Gruppen 
+sind. 
+
+18. Membranmodul nach Anspruch 17, dadurch ge-
+kennzeichnet, dass die Trägermaterialien semi-
+permeable poröse Flachmembranen (16) sind. 
+
+19. Membranmodul nach Anspruch 17, dadurch ge-
+kennzeichnet, dass die Trägermaterialien Partikel 
+(17) sind. 
+
+20. Membranmodul nach einem oder mehreren der An-
+sprüche 17 bis 21, dadurch gekennzeichnet, dass 
+die Matrix unterschiedliche funktionelle Gruppen 
+aufweist. 
+
+21. Membranmodul nach einem oder mehreren der An-
+sprüche 1 bis 20, dadurch gekennzeichnet, dass 
+in Richtung der Erstreckung des Gehäuses (3) zwi-
+schen Einlasseinrichtung (6) und Auslasseinrich-
+tung (7) des Membranmoduls mehrere Membran-
+elementeanordnungen räumlich hintereinander als 
+Stufen angeordnet sind. 
+
+22. Verfahren zur stoffspezifischen Behandlung eines 
+Fluids, welches zumindest die Schritte umfasst 
+
+a) Einleiten des zu behandelnden Fluids (14) als 
+Speisestrom in einen mindestens eine erste 
+Membran (1) und mindestens eine zweite Mem-
+bran (2) enthaltenden Modul, 
+b) Vorbeileiten des Speisestroms im cross-flow 
+Modus an der einen Seite der ersten Membran 
+
+(1), so dass ein Teil des Speisestroms als Per-
+meat durch die erste Membran (1) hindurchtritt 
+und auf der anderen Seite der ersten Membran 
+(1) aus dieser austritt, während der Rest des 
+Speisestroms als Retentat entlang der einen 
+Seite der ersten Membran (1) weiterströmt, 
+c) Einleiten zumindest eines wesentlichen Teils 
+des Permeats im dead-end Modus in die zweite 
+Membran (2) auf der einen Seite dieser Mem-
+bran (2), Durchströmen der zweiten Membran 
+(2) und Ausleiten aus der zweiten Membran (2) 
+auf deren anderer Seite, 
+d) Vereinigung des Permeats mit dem Retentat 
+zum behandelten Fluid innerhalb des Moduls 
+und 
+e) Ableiten des behandelten Fluids (15) aus dem 
+Modul, 
+
+wobei das Permeat zwischen der Abtrennung vom 
+Speisestrom und der Vereinigung mit dem Retentat 
+mindestens einer stoffspezifischen Behandlung un-
+terworfen wird. 
+
+23. Verfahren nach Anspruch 22, dadurch gekenn-
+zeichnet, dass die Schritte b) bis d) mehrfach durch-
+laufen werden. 
+
+24. Verfahren nach einem der Ansprüche 22 oder 23, 
+dadurch gekennzeichnet, dass ein Membranmo-
+dul gemäß Anspruch 1 eingesetzt wird. 
+
+25. Verfahren nach Anspruch 24, dadurch gekenn-
+zeichnet, dass die Behandlung des Fluids in meh-
+reren in Richtung der Erstreckung des Gehäuses (1) 
+zwischen Einlasseinrichtung (6) und Auslasseinrich-
+tung (7) des Membranmoduls räumlich als Stufen 
+hintereinander angeordneten Membranelemente-
+anordnungen durchgeführt wird. 
+
+26. Verfahren nach Anspruch 25, dadurch gekenn-
+zeichnet, dass die Behandlung in bis zu 10 Stufen 
+durchgeführt wird. 
+
+27. Verfahren nach einem oder mehreren der Ansprü-
+che 22 bis 26, dadurch gekennzeichnet, dass das 
+behandelte Fluid rezirkuliert wird. 
+
+28. Verfahren nach einem oder mehreren der Ansprü-
+che 22 bis 27, dadurch gekennzeichnet, dass das 
+zu behandelnde Fluid (14) eine Suspension ist. 
+
+29. Verfahren nach einem oder mehreren der Ansprü-
+che 22 bis 28, dadurch gekennzeichnet, dass das 
+Permeat zwischen der Abtrennung vom Speise-
+strom und der Vereinigung mit dem Retentat eine 
+Matrix durchströmt, auf und/ oder in der auf die stoff-
+spezifische Behandlung abgestimmte funktionelle 
+Gruppen immobilisiert sind. 
+
+33 
+34 
+
+
+EP 1 289 630 B1 
+
+19 
+
+5 
+
+10 
+
+15 
+
+20 
+
+25 
+
+30 
+
+35 
+
+40 
+
+45 
+
+50 
+
+55 
+
+30. Verfahren zur Reinigung/ Trennung von Ligaten aus 
+einer ligathaltigen Flüssigkeit mittels Affinität, da-
+durch gekennzeichnet, dass eine Matrix ausge-
+wählt wird, auf und/ oder in der Liganden für besagte 
+Ligaten immobilisiert sind, und das Verfahren ge-
+mäß Anspruch 29 durchgeführt wird. 
+
+31. Verfahren zur katalytischen Behandlung von Flui-
+den, dadurch gekennzeichnet, dass eine Matrix 
+ausgewählt wird, auf und/ oder in der Katalysatoren 
+immobilisiert sind, und das Verfahren gemäß An-
+spruch 29 durchgeführt wird. 
+
+Claims 
+
+1. Membrane module for substance-specific treatment 
+of a fluid, comprising 
+
+a) a housing (3), 
+b) an inlet arrangement (6) for introducing the 
+fluid (14) to be treated into a distribution space 
+(8) in the housing (3), 
+c) an outlet arrangement (7) for discharging the 
+treated fluid (15) from a collection space (9) in 
+the housing (3), 
+d) first membrane elements (1) arranged in the 
+housing (3) with porous semi-permeable wall, 
+each with one end pointing towards the distribu-
+tion space (8) and one end pointing towards the 
+collection space (9) and a cavity (10) formed by 
+the wall, whereby the first membrane elements 
+(1) with their end pointing towards the distribu-
+tion space (8) are embedded in a first sealing 
+compound (4) and with their end pointing to-
+wards the collection space (9) are embedded in 
+a second sealing compound (5) in such a way 
+that the ends protrude through the sealing com-
+pounds (4,5) and the cavities (10) of the first 
+membrane elements (1) are each open at both 
+the end facing towards the collection space (9) 
+and at the end facing towards the distribution 
+space (8) and terminate in the distribution space 
+(8) and the collection space (9), 
+
+characterised in that the membrane module fur-
+thermore comprises second membrane elements (2) 
+arranged in the housing (3) with porous semi-per-
+meable wall, each with one end pointing towards the 
+distribution space (8) and one end pointing towards 
+the collection space (9) and a cavity (11) formed by 
+the wall, whereby the second membrane elements 
+(2) with their end pointing towards the collection 
+space (9) are embedded together with the first mem-
+brane elements (1) in the second sealing compound 
+(5) in such a way that these ends protrude through 
+the second sealing compound (5) and the cavities 
+(11) of the second membrane elements (2) are each 
+
+open at these ends and terminate in the collection 
+space (9), and the second membrane elements (2) 
+are closed at their ends facing towards the distribu-
+tion space (8), with the first and the second mem-
+brane elements (1,2) forming a membrane element 
+arrangement, and with an outer space (12) being 
+formed between the sealing compounds (4,5) that is 
+delimited by the sealing compounds (4,5), the inner 
+wall of the housing (3) and the membrane elements 
+(1,2) and that is separated fluid-tight from the distri-
+bution space (8) and from the collection space (9). 
+
+2. Membrane module according to Claim 1, character-
+ised in that the membrane element arrangement is 
+made up of flat layers. 
+
+3. Membrane module according to Claim 2, character-
+ised in that the membrane element arrangement is 
+made up of plane flat layers that are placed onto one 
+another to form a stack. 
+
+4. Membrane module according to Claim 2, character-
+ised in that the membrane element arrangement is 
+made up of flat layers that are wound spirally around 
+a winding axis. 
+
+5. Membrane module according to one or more of 
+Claims 2 to 4, characterised in that the membrane 
+element arrangement comprises first layers and sec-
+ond layers, with the first layers containing only first 
+membrane elements (1) and the second layers con-
+taining only second membrane elements (2). 
+
+6. Membrane module according to Claim 5, character-
+ised in that the membrane element arrangement 
+comprises an alternating sequence of first and sec-
+onds layers. 
+
+7. Membrane module according to one or more of 
+Claims 1 to 6, characterised in that the first mem-
+brane elements (1) and the second membrane ele-
+ments (2) are hollow-fibre membranes. 
+
+8. Membrane module according to one or more of 
+Claims 2 to 6, characterised in that the first mem-
+brane elements (1) and the second membrane ele-
+ments (2) are hollow-fibre membranes and the hol-
+low-fibre membranes within the layers are arranged 
+essentially parallel to one another. 
+
+9. Membrane module according to one or more of 
+Claims 7 or 8, characterised in that the hollow-fibre 
+membranes are bound into at least one hollow-fibre 
+mat. 
+
+10. Membrane module according to Claim 9, character-
+ised in that the hollow-fibre membranes are bound 
+by means of textile threads into the at the least one 
+
+35 
+36 
+
+
+EP 1 289 630 B1 
+
+20 
+
+5 
+
+10 
+
+15 
+
+20 
+
+25 
+
+30 
+
+35 
+
+40 
+
+45 
+
+50 
+
+55 
+
+hollow-fibre mat. 
+
+11. Membrane module according to one or more of 
+Claims 9 or 10, characterised in that the at least 
+one hollow-fibre mat is folded in a zigzag form into 
+a stack that forms the membrane element arrange-
+ment. 
+
+12. Membrane module according to one or more of 
+Claims 1 to 6, characterised in that the first mem-
+brane elements (1) are hollow-fibre membranes and 
+the second membrane elements (2) are each formed 
+from at least one flat membrane. 
+
+13. Membrane module according to Claim 12, charac-
+terised in that the second membrane elements (2) 
+are each made of an essentially square or rectan-
+gular flat membrane folded in a U-shape, whereby 
+in addition to the fold edge two further side edges 
+are closed, the flanks, formed by folding, of the flat 
+membrane folded in a U-shape are held at a distance 
+from one another to form the cavity (11) and the re-
+maining open side edge is arranged towards the col-
+lection space (9). 
+
+14. Membrane module according to Claim 12, charac-
+terised in that the second membrane elements (2) 
+are each made of two essentially square or rectan-
+gular flat membranes arranged essentially parallel 
+to one another that are arranged in such a way that 
+their edges run parallel to one another, whereby the 
+flat membranes are held at a distance from one an-
+other and at their edge facing towards the distribution 
+space (8) and the perpendicular edges thereto are 
+positively joined and the remaining open side edge 
+is arranged towards the collection space (9). 
+
+15. Membrane module according to one or more of 
+Claims 1 to 14, characterised in that a matrix on 
+and/or in which functional groups are immobilised is 
+contained in the housing (3). 
+
+16. Membrane module according to Claim 15, charac-
+terised in that the first and/or the second membrane 
+elements (1,2) are the matrix for the functional 
+groups. 
+
+17. Membrane module according to one or more of 
+Claims 15 or 16, characterised in that fluid-perme-
+able carrier materials are arranged between the first 
+and second membrane elements that are the matrix 
+for the functional groups. 
+
+18. Membrane module according to Claim 17, charac-
+terised in that the fluid-permeable carrier materials 
+are semi-permeable porous flat membranes (16). 
+
+19. Membrane module according to Claim 17, charac-
+
+terised in that the carrier materials are particles 
+(17). 
+
+20. Membrane module according to one or more of 
+Claims 17 to 19, characterised in that the matrix 
+has different functional groups. 
+
+21. Membrane module according to one or more of 
+Claims 1 to 20, characterised in that several mem-
+brane element arrangements are arranged spatially 
+in series as stages in the direction of the extent of 
+the housing (3) of the membrane module between 
+the inlet arrangement (6) and outlet arrangement (7). 
+
+22. Process for substance-specific treatment of a fluid 
+comprising at least the steps 
+
+a) Introducing the fluid (14) to be treated as a 
+feed stream into a module containing at least 
+one first membrane (1) and at least one second 
+membrane (2), 
+b) Bypassing the feed stream in cross-flow mode 
+on one side of the first membrane (1) so that a 
+portion of the feed stream passes as permeate 
+through the first membrane (1) and leaves the 
+same on the other side of the first membrane 
+(1), while the rest of the feed stream continues 
+to flow along the one side of the first membrane 
+(1) as a retentate, 
+c) Introducing at least a significant portion of the 
+permeate in dead-end mode into the second 
+membrane (2) on the one side of this membrane 
+(2), flowing through the second membrane (2) 
+and discharging out of the second membrane 
+(2) on its other side, 
+d) Uniting the permeate with the retentate to the 
+treated fluid within the module, and 
+e) Discharging the treated fluid (15) out of the 
+module, whereby the permeate is subjected to 
+least one substance-specific treatment between 
+the separation from the feed stream and the uni-
+fication with the retentate. 
+
+23. Process according to Claim 22, characterised in 
+that steps b) to d) are performed several times. 
+
+24. Process according to one of Claims 22 or 23, char-
+acterised in that a membrane module according to 
+Claim 1 is employed. 
+
+25. Process according to Claim 24, characterised in 
+that the treatment of the fluid is performed in several 
+membrane element arrangements arranged spatial-
+ly in series as stages in the direction of the extent of 
+the housing (3) of the membrane module between 
+the inlet arrangement (6) and outlet arrangement (7). 
+
+26. Process according to Claim 25, characterised in 
+
+37 
+38 
+
+
+EP 1 289 630 B1 
+
+21 
+
+5 
+
+10 
+
+15 
+
+20 
+
+25 
+
+30 
+
+35 
+
+40 
+
+45 
+
+50 
+
+55 
+
+that the treatment is performed in up to 10 stages. 
+
+27. Process according to one or more of Claims 22 to 
+26, characterised in that the treated fluid is recir-
+culated. 
+
+28. Process according to one or more of Claims 22 to 
+27, characterised in that the fluid (14) to be treated 
+is a suspension. 
+
+29. Process according to one or more of Claims 22 to 
+28, characterised in that between the separation 
+from the feed stream and the unification with the re-
+tentate, the permeate flows through a matrix on 
+and/or in which functional groups matched to the 
+substance-specific treatment are immobilised. 
+
+30. Process for cleaning/ separation of ligates from a 
+ligate-containing liquid by affinity, characterised in 
+that a matrix is selected on and/or in which ligands 
+for said ligates are immobilized, and that the process 
+is conducted according to Claim 29. 
+
+31. Process for catalytic treatment of fluids, character-
+ised in that a matrix is selected on and/or in which 
+catalysts are immobilized, and that the process is 
+conducted according to Claim 29. 
+
+Revendications 
+
+1. Module à éléments de membrane pour le traitement 
+spécifique de substance d'un fluide, contenant 
+
+a) un logement (3), 
+b) un dispositif d'entrée (6) pour l'introduction 
+du fluide à traiter (14) dans le logement (6) dans 
+un espace de distribution (8), 
+c) un dispositif de sortie (7) pour l'évacuation du 
+fluide traité (15) hors du logement (3) depuis un 
+espace de collecte (9), et 
+d) des premiers éléments de membrane (1) 
+agencés dans le logement (3), avec paroi po-
+reuse semi-perméable, ainsi que chaque fois, 
+une extrémité orientée vers l'espace de distri-
+bution (8) et l'espace de collecte (9), et un es-
+pace vide (10) formé par la paroi, où les premiers 
+éléments de membrane (1) sont insérés dans 
+une première masse de scellement (4) par leurs 
+extrémités orientées vers l'espace de distribu-
+tion (8) et dans une deuxième masse de scelle-
+ment (5) par leurs extrémités orientées vers l'es-
+pace de collecte (9), de sorte que les extrémités 
+traversent les masses de scellement (4, 5) et 
+que les espaces vides (10) des premiers élé-
+ments de membrane (1) sont ouverts chaque 
+fois sur l'extrémité orientée vers l'espace de dis-
+tribution (8), mais également sur l'extrémité 
+
+orientée vers l'espace de collecte (9) et débou-
+che dans l'espace de distribution (8) et dans l'es-
+pace de collecte (9), 
+
+caractérisé en ce que le module de membrane con-
+tient par ailleurs, des deuxièmes éléments de mem-
+brane (2) agencés dans le logement (3), avec paroi 
+poreuse semi-perméable, ainsi que chaque fois, une 
+extrémité orientée vers l'espace de distribution (8) 
+et l'espace de collecte (9), et un espace vide (11) 
+formé par la paroi, où les deuxièmes éléments de 
+membrane (2) sont insérés dans la deuxième masse 
+de scellement (5) par leurs extrémités orientées vers 
+l'espace de collecte (9), avec les premiers éléments 
+de membrane (1) de sorte que ces extrémités tra-
+versent la deuxième masse de scellement (5) et que 
+les espaces vides (11) des deuxièmes éléments de 
+membrane (2) sont ouverts chaque fois sur ces ex-
+trémités et débouchent dans l'espace collecte, et les 
+deuxièmes éléments de membrane (2) sont fermés 
+sur leur extrémité orientée vers l'espace de distribu-
+tion (8), où les premiers et deuxièmes éléments de 
+membrane (1, 2) forment un agencement d'éléments 
+de membrane et où entre les masses de scellement 
+(4, 5), est formé un espace extérieur (12) séparé de 
+manière étanche aux fluides de l'espace de distribu-
+tion (8) et de l'espace de collecte (9) et limité par les 
+masses de scellement (4, 5), la paroi intérieure du 
+logement (3) et les éléments de membrane (1, 2). 
+
+2. Module à éléments de membrane selon la revendi-
+cation 1, caractérisé en ce que l'agencement des 
+éléments de membrane est élaboré à partir de cou-
+ches planaires. 
+
+3. Module à éléments de membrane selon la revendi-
+cation 2, caractérisé en ce que l'agencement des 
+éléments de membrane est élaboré à partir de cou-
+ches planaires, qui sont disposées en un empile-
+ment. 
+
+4. Module à éléments de membrane selon la revendi-
+cation 2, caractérisé en ce que l'agencement des 
+éléments de membrane est élaboré à partir de cou-
+ches planaires, qui sont enroulées en spirale autour 
+d'un axe d'enroulement. 
+
+5. Module à éléments de membrane selon une ou plu-
+sieurs des revendications 2 à 4, caractérisé en ce 
+que l'agencement des éléments de membrane com-
+prend des premières couches et des deuxièmes cou-
+ches, où les premières couches ne contiennent que 
+les premiers éléments de membrane (1) et les 
+deuxièmes couches ne contiennent que les deuxiè-
+mes éléments de membrane (2). 
+
+6. Module à éléments de membrane selon la revendi-
+cation 5, caractérisé en ce que l'agencement des 
+
+39 
+40 
+
+
+EP 1 289 630 B1 
+
+22 
+
+5 
+
+10 
+
+15 
+
+20 
+
+25 
+
+30 
+
+35 
+
+40 
+
+45 
+
+50 
+
+55 
+
+éléments de membrane comprend une succession 
+alternée des premières et deuxièmes couches. 
+
+7. Module à éléments de membrane selon une ou plu-
+sieurs des revendications 1 à 6, caractérisé en ce 
+que les premiers éléments de membrane (1) et les 
+deuxièmes éléments de membrane (2) sont des 
+membranes à fibre creuse. 
+
+8. Module à éléments de membrane selon une ou plu-
+sieurs des revendications 2 à 6, caractérisé en ce 
+que les premiers éléments de membrane (1) et les 
+deuxièmes éléments de membrane (2) sont des 
+membranes à fibre creuse et que les membranes à 
+fibre creuse sont agencées essentiellement parallè-
+lement au sein des couches. 
+
+9. Module à éléments de membrane selon une ou plu-
+sieurs des revendications 7 ou 8, caractérisé en ce 
+que les membranes à fibre creuse sont intégrées en 
+au moins un mat de fibres creuses. 
+
+10. Module à éléments de membrane selon la revendi-
+cation 9, caractérisé en ce que les membranes à 
+fibre creuse sont intégrées à l'aide de fils textiles 
+dans le au moins un mat de fibres creuses. 
+
+11. Module à éléments de membrane selon une ou plu-
+sieurs des revendications 9 ou 10, caractérisé en 
+ce que le au moins un mat de fibres creuses est 
+plissé sous forme de zig-zag en un empilement, qui 
+forme l'agencement des éléments de membrane. 
+
+12. Module à éléments de membrane selon une ou plu-
+sieurs des revendications 1 à 6, caractérisé en ce 
+que les premiers éléments de membrane (1) sont 
+des membranes à fibre creuse et les deuxièmes élé-
+ments de membrane (2) sont formés chaque fois, 
+par au moins une membrane plane. 
+
+13. Module à éléments de membrane selon la revendi-
+cation 12, caractérisé en ce que les deuxièmes élé-
+ments de membrane (2) sont formés d'une membra-
+ne plane essentiellement rectangulaire ou quadrati-
+que, chaque fois pliée en U, où outre le bord de pli, 
+deux autres bords latéraux sont fermés, où les bran-
+ches formées par pliage de la membrane pliée en U 
+sont maintenues à distance pour former l'espace vi-
+de (11), et où le bord latéral ouvert restant est agencé 
+en direction de l'espace de collecte (9). 
+
+14. Module à éléments de membrane selon la revendi-
+cation 12, caractérisé en ce que les deuxièmes élé-
+ments de membrane (2) sont formés de deux mem-
+branes planes essentiellement rectangulaires ou 
+quadratiques et essentiellement parallèles l'une par 
+rapport à l'autre, qui sont agencées de sorte que 
+leurs bords se développent parallèlement, où les 
+
+membranes planes sont maintenues à distance l'une 
+de l'autre et sont reliées l'une à l'autre par engage-
+ment positif, l'une à l'autre sur leur bord en direction 
+de l'espace de distribution (8), ainsi que les bords 
+perpendiculaires à celui-ci, et le bord latéral ouvert 
+restant est agencé en direction de l'espace de col-
+lecte (9). 
+
+15. Module à éléments de membrane selon une ou plu-
+sieurs des revendications 1 à 14, caractérisé en ce 
+que dans le logement (3), une matrice est présente, 
+sur et/ou dans laquelle sont immobilisés des groupes 
+fonctionnels. 
+
+16. Module à éléments de membrane selon la revendi-
+cation 15, caractérisé en ce que les premiers et/ou 
+les deuxièmes éléments de membrane (1, 2) sont 
+les matrices pour les groupes fonctionnels. 
+
+17. Module à éléments de membrane selon une ou plu-
+sieurs des revendications 15 ou 16, caractérisé en 
+ce qu'entre les premiers et deuxièmes éléments de 
+membrane sont incorporés de manière perméable 
+aux fluides, des matériaux support, qui sont les ma-
+trices pour les groupes fonctionnels. 
+
+18. Module à éléments de membrane selon la revendi-
+cation 17, caractérisé en ce que les matériaux sup-
+port sont des membranes planes (16) poreuses 
+semi-perméables. 
+
+19. Module à éléments de membrane selon la revendi-
+cation 17, caractérisé en ce que les matériaux sup-
+port sont des particules (17). 
+
+20. Module à éléments de membrane selon une ou plu-
+sieurs des revendications 17 à 21, caractérisé en 
+ce que la matrice présente des groupes fonctionnels 
+différents. 
+
+21. Module à éléments de membrane selon une ou plu-
+sieurs des revendications 1 à 20, caractérisé en ce 
+qu'en direction du prolongement du logement (3), 
+entre le dispositif d'entrée (6) et le dispositif de sortie 
+(7) du module de membrane, plusieurs agence-
+ments d'éléments de membrane sont agencés l'un 
+derrière l'autre, comme des paliers. 
+
+22. Procédé pour la traitement spécifique de substance 
+d'un fluide, qui comprend au moins les étapes de 
+
+a) introduction du fluide à traiter (14) comme un 
+courant d'alimentation, dans un module conte-
+nant au moins une première membrane (1) et 
+au moins une deuxième membrane (2), 
+b) passage du courant d'alimentation en mode 
+partiel sur une face de la première membrane 
+(1), de sorte qu'une partie du courant d'alimen-
+
+41 
+42 
+
+
+EP 1 289 630 B1 
+
+23 
+
+5 
+
+10 
+
+15 
+
+20 
+
+25 
+
+30 
+
+35 
+
+40 
+
+45 
+
+50 
+
+55 
+
+tation traverse la première membrane (1) en tant 
+que perméat et sorte de celui-ci, par l'autre face 
+de la première membrane (1), alors que le reste 
+du courant d'alimentation s'écoule en tant que 
+rétentat, le long d'un côté de la première mem-
+brane (1), 
+c) introduction d'au moins une partie importante 
+du perméat en mode total dans la deuxième 
+membrane (2), sur l'une des faces de cette 
+membrane (2), passage de la deuxième mem-
+brane (2) et écoulement de la deuxième mem-
+brane (2) sur l'autre côté, 
+d) rassemblement du perméat avec le rétentat 
+en fluide traité, au sein du module, et 
+e) évacuation du fluide traité (15) hors du mo-
+dule, 
+
+où le perméat est soumis à au moins un traitement 
+spécifique de substance entre la séparation du cou-
+rant d'alimentation et le rassemblement avec le ré-
+tentat. 
+
+23. Procédé selon la revendication 22, caractérisé en 
+ce que les étapes b) à d) sont réalisées plusieurs 
+fois. 
+
+24. Procédé selon l'une des revendications 22 ou 23, 
+caractérisé en ce qu'un module à éléments de 
+membrane selon la revendication 1 est mis en 
+oeuvre. 
+
+25. Procédé selon la revendication 24, caractérisé en 
+ce que le traitement du fluide est réalisé dans plu-
+sieurs agencements d'éléments de membrane dis-
+posés l'un derrière l'autre en tant que paliers, en di-
+rection du prolongement du logement (1) entre le 
+dispositif d'entrée (6) et le dispositif de sortie (7) du 
+module à éléments de membrane. 
+
+26. Procédé selon la revendication 25, caractérisé en 
+ce que le traitement est réalisé en jusqu'à 10 paliers. 
+
+27. Procédé selon une ou plusieurs des revendications 
+22 à 26, caractérisé en ce que le fluide traité est 
+remis en circulation. 
+
+28. Procédé selon une ou plusieurs des revendications 
+22 à 27, caractérisé en ce que le fluide à traiter 
+(147) est une suspension. 
+
+29. Procédé selon une ou plusieurs des revendications 
+22 à 28, caractérisé en ce que le perméat traverse 
+une matrice entre la séparation du courant d'alimen-
+tation et le rassemblement avec le rétentat, matrice 
+sur et/ou dans laquelle sont mobilisés des groupes 
+fonctionnels destinés au traitement spécifique de 
+substance. 
+
+30. Procédé de purification/séparation de ligats depuis 
+un liquide contenant des ligats, par affinité, 
+caractérisé en ce que l'on choisit une matrice, sur 
+et/ou dans laquelle des ligands sont immobilisés 
+pour les ligats, et l'on réalise le procédé selon la re-
+vendication 29. 
+
+31. Procédé de traitement catalytique de fluides, 
+caractérisé en ce que l'on choisit une matrice, sur 
+et/ou dans laquelle les catalyseurs sont immobilisés, 
+et l'on réalise le procédé selon la revendication 29. 
+
+43 
+44 
+
+
+EP 1 289 630 B1 
+
+24 
+
+
+EP 1 289 630 B1 
+
+25 
+
+
+EP 1 289 630 B1 
+
+26 
+
+
+EP 1 289 630 B1 
+
+27 
+
+
+EP 1 289 630 B1 
+
+28 
+
+
+EP 1 289 630 B1 
+
+29 
+
+
+EP 1 289 630 B1 
+
+30 
+
+IN DER BESCHREIBUNG AUFGEFÜHRTE DOKUMENTE 
+
+Diese Liste der vom Anmelder aufgeführten Dokumente wurde ausschließlich zur Information des Lesers aufgenommen 
+und ist nicht Bestandteil des europäischen Patentdokumentes. Sie wurde mit größter Sorgfalt zusammengestellt; das 
+EPA übernimmt jedoch keinerlei Haftung für etwaige Fehler oder Auslassungen. 
+
+In der Beschreibung aufgeführte Patentdokumente 
+
+• 
+WO 9005018 A [0013] 
+• 
+EP 0341413 A [0014] 
+• 
+DE 3302384 A [0015] [0016] 
+• 
+DE 3709432 A [0016] [0016] 
+• 
+US 5693230 A [0017] 
+• 
+US 6022478 A [0018] 
+
+• 
+EP 0285812 A [0048] 
+• 
+DE 3923128 A [0084] 
+• 
+EP 0787523 A [0092] [0101] 
+• 
+EP 0490940 A [0094] 
+• 
+DE 19501726 A [0095] 
+
+In der Beschreibung aufgeführte Nicht-Patentliteratur 
+
+• 
+E. KLEIN. Affinity Membranes. John Wiley &amp; Sons, 
+Inc, 1991 [0007] 
+• 
+S. BRANDT. Membrane-Based Affinity Technology 
+for Commercial Scale Purifications. Bio/Technology, 
+1988, vol. 6, 779-782 [0007] 
+• 
+K. SAKAI. J. Membrane Science, 1994, vol. 96, 
+91-130 [0075] 
+• 
+VON SHIN-ICHI NAKAO. J. Membrane Science, 
+1994, vol. 96, 131-165 [0075] 
+
+• 
+L. ZEMAN. J. Membrane Science, 1992, vol. 71, 
+221-231 [0076] 
+• 
+VON K. KANEKO. J. Membrane Science, 1994, vol. 
+96, 59-89 [0077] 
+• 
+W. MÜLLER. J. Chromatogr., 1990, vol. 510, 133 
+[0094] 
+• 
+TSUNEDA. Biotechnol. Prog., 1994, vol. 10, 76-81 
+[0094] 
+• 
+J. Chromatogr., 1995, vol. A 689, 211-218 [0094] 
+
+
+
+	
+

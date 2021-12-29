@@ -1,0 +1,3129 @@
+
+	
+
+		
+
+	
+
+	
+
+Note: Within nine months from the publication of the mention of the grant of the European patent, any person may give 
+notice to the European Patent Office of opposition to the European patent granted. Notice of opposition shall be filed in 
+a written reasoned statement. It shall not be deemed to have been filed until the opposition fee has been paid. (Art. 
+99(1) European Patent Convention). 
+
+Printed by Jouve, 75001 PARIS (FR) 
+
+(19) 
+
+EP 0 904 378 B1 
+
+&amp; 
+
+(11) 
+
+EP 0 904 378 B1 
+
+(12) 
+
+EUROPEAN PATENT SPECIFICATION 
+
+(45) Date of publication and mention 
+
+of the grant of the patent: 
+21.11.2007 Bulletin 2007/47 
+
+(21) Application number: 97918255.7 
+
+(22) Date of filing: 25.04.1997 
+
+(51) Int Cl.: 
+
+C12N 15/36 (2006.01) 
+C07K 16/08 (2006.01) 
+C12N 15/06 (2006.01) 
+C12N 5/20 (2006.01) 
+C12P 21/08 (2006.01) 
+G01N 33/569 (2006.01) 
+G01N 33/577 (2006.01) 
+B01J 20/00 (2006.01) 
+A61K 39/42 (2006.01) 
+C07K 16/42 (2006.01) 
+C07K 14/02 (2006.01) 
+
+(86) International application number: 
+
+PCT/GB1997/001161 
+
+(87) International publication number: 
+
+WO 1997/040164 (30.10.1997 Gazette 1997/46) 
+
+(54) HEPATITIS B MONOCLONAL ANTIBODIES 
+
+HEPATITIS B MONOKLONALE ANTIKÖRPER 
+
+ANTICORPS MONOCLONAUX CONTRE L'HEPATITE B 
+
+(84) Designated Contracting States: 
+
+AT BE CH DE ES FR GB IT LI NL 
+
+(30) Priority: 25.04.1996 GB 9608626 
+
+(43) Date of publication of application: 
+
+31.03.1999 Bulletin 1999/13 
+
+(73) Proprietor: Murex Diagnostics Corporation 
+
+Bridgetown (BB) 
+
+(72) Inventors: 
+
+• TEDDER, Richard, Seton, 
+UCL Medical School 
+London W1P 6DB (GB) 
+• IJAZ, Samreen, 
+UCL Medical School 
+London W1P 6DB (GB) 
+• FERNS, Ruth, Bridget, 
+UCL Medical School 
+London W1P 6DB (GB) 
+
+(74) Representative: Silveston, Judith et al 
+
+ABEL &amp; IMRAY 
+20 Red Lion Street 
+London, WC1R 4PQ (GB) 
+
+(56) References cited: 
+
+WO-A-94/21812 
+WO-A-95/21189 
+
+• J. WATERS ET AL.: "Loss of the 
+common "A" determinant of hepatitis B surface 
+antigen by a vaccine-induced escape mutant." 
+THE JOURNAL OF CLINICAL INVESTIGATION, 
+vol. 90, no. 6, December 1992, pages 2543-2547, 
+XP002041202 
+• W. CARMAN ET AL.: "Fulminant reactivation of 
+hepatitis B due to envelope protein mutant that 
+escaped detection by monoclonal HBsAg 
+ELISA." THE LANCET, vol. 345, no. 8962, 3 June 
+1995, LONDON, GB, pages 1406-1407, 
+XP002041203 
+• X. QIU ET AL.: "Identification and 
+characterization of a C (K/R) TC motif as a common 
+epitope present in all subtypes of hepatitis B 
+surface antigen." THE JOURNAL OF 
+IMMUNOLOGY, vol. 156, no. 9, 1 May 1996, 
+BALTIMORE, MD, USA, pages 3350-3356, 
+XP002041204 
+
+
+EP 0 904 378 B1 
+
+2 
+
+5 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Description 
+
+[0001] On a global scale, the hepatitis B virus (HBV) is the most significant of the hepatotrophic viruses in terms of 
+the number of people chronically infected and the severity of the complications of infection. 
+[0002] Hepatitis B emerged as a major problem after the introduction of parenteral therapy, mass immunisation cam-
+paigns and the extensive transfusion of blood and pooled blood products. Long incubation periods, high incidence of 
+asymptomatic infections and the occurrences of an infectious carrier state make HBV well suited to transmission by 
+blood. Numerous workers have also provided evidence for sexual transmission of HBV, and transmission of hepatitis B 
+virus from carrier mothers to their babies can occur during the perinatal period. 
+[0003] HBV, a DNA virus, is a member of the hepadna virus group. Electron microscopy of the HBV reveals a double 
+shelled, spherical particle of 42nm in diameter called the "Dane particle". Those virus particles exhibit an electron dense 
+spherical inner core with a diameter of approximately 22-25nm and an outer coat 7nm in thickness. The outer coat of 
+the virus bears the surface antigen (called herein "HBs" or "HBsAg") to which virus-neutralising antibody is directed. 
+The spherical 20nm diameter inner-core particles bear the viral core antigen (HBcAg) and the e antigen (HBeAg), the 
+viral DNA, DNA polymerase activity and a protein kinase activity. 
+[0004] HBsAg contains the major neutralising epitope of HBV, termed the "a" determinant, which spans amino acids 
+124 to 147 and is common to all HBV isolates, see for example, Pugh et al (1986). The development of anti-HBs after 
+acute or chronic HBV infection is usually associated with recovery and a good prognosis. Anti-HBs is also associated 
+with the production of neutralising antibodies resulting from vaccination. The majority of anti-HBs found in convalescent 
+and post-vaccination sera binds in the region of the "a" determinant, which has an as yet undefined structure. It is clear 
+that the "a" determinant is highly conformational because denaturation of that area by alkylation or reduction gives rise 
+to HBsAg particles with greatly reduced antigenicity. It is thought that disulphide bridges between cysteine residues are 
+responsible for correct conformation. One possible structure of the "a" determinant involves a disulphide bridge between 
+amino acids 124 and 137, forming a first loop, and a further disulphide bridge between amino acids 139 and 147, forming 
+a second loop. 
+[0005] Anti-HBs is thought to bind predominantly to the second loop but it is thought that the epitopes are not confined 
+to one loop only. The whole of the sequence of the "a" determinant probably contributes to the antigenic structure. The 
+"a" determinant is conserved though there is a degree of amino acid variation in normal isolates of HBV. Greater variation 
+is accepted in the first loop of the putative epitope, perhaps implying that this region does not contribute significantly to 
+the neutralisation epitope. 
+[0006] The "a" determinant is found in all subtypes of HBV and it is variation of amino acids within and around the "a" 
+determinant that gives rise to subtypes. HBsAg can be classified into four major immunological subtypes, adw, ayw, 
+adr, and ayr, each with an associated geographical distribution. The d/y and w/r subtypes are determined by substitutions 
+of lysine by arginine at amino acids 122 and 160 respectively. 
+[0007] Recently, the presence of HBsAg has been observed in anti-HBs serum samples of certain patients. The HBsAg 
+in those patients may not be neutralised by the anti-HBs present, implying the presence of HBsAg variants. Significant 
+variants (mutants) have been associated with vaccination, monoclonal antibody therapy, polyclonal antibody therapy 
+and cases of HBV infection difficult to diagnose in clinical laboratories see, for example, Carmen et al. (1992, 1993), 
+Harrison et al. (1993), Hawkins et al. (1994), Howard et al. (1993), McMahon et al. (1992), Okamoto et al. (1992), and 
+Wallace et al. (1994). 
+[0008] Upon analysis the mutants seem to have been selected from a mixed population and to have point mutations 
+causing amino acid substitutions in the "a" determinant. The mutants are thought to arise by random mutations within 
+the gene which gives rise to a pool of genotypes. In the mutants described to date, it is thought that the immune response 
+is the predominant factor in selecting for the mutants. 
+[0009] Generally, addition of monoclonal antibodies to virus infected cells in vitro result in selection of isolates that 
+are not neutralised by that antibody. It is thus not surprising that monoclonal antibodies given to patients with active viral 
+replication can result in selection of so-called "escape" mutants. 
+[0010] Several separate escape mutants with clinical significance have been described in vaccinated individuals. In 
+three cases there was found to be a point mutation at the codon for amino acid 145 in the "a" determinant of HBsAg 
+resulting in an amino acid change from glycine to arginine. Administration of serum containing one such mutant virus to 
+a chimpanzee proved that the agents are transmissible. 
+[0011] In a mutant virus implicated in a breakthrough infection in a vaccinated population, a lysine to glutamic acid 
+mutation at amino acid 141 of the "a" determinant was found. That and other point mutations resulting in one or more 
+amino acid substitutions in the "a" determinant have since been reported in vaccinated individuals. 
+[0012] Escape mutants are a cause for concern on several accounts. Firstly, there is failure to detect such mutants 
+by immunoassays. Diagnostic assays are designed to achieve high sensitivity and specificity. Assays for HBsAg detection 
+depend on interaction between an anti-HBs reagent and HBsAg in the sample under investigation. A resulting anti-HBs/ 
+HBsAg complex is then detected. If there is a significant mutation in the HBsAg epitope and it is not recognised by the 
+
+
+EP 0 904 378 B1 
+
+3 
+
+5 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+anti-HBs, then the HBsAg will either not be detected or the assay will be very insensitive. Failure to detect an escape 
+mutant may not only affect the person harbouring the mutant; it may lead to transmission of infection through donated 
+blood, blood products or organs. Secondly, HBV with mutant HBsAg may infect individuals even though they have been 
+previously immunised and have an anti-HBs response. 
+[0013] A monoclonal antibody to an escape mutant at position 122 has been described in WO94/26904. That antibody 
+is able to discriminate between the wild type HBsAg and the mutant form and hence enables identification of the mutant 
+form. 
+[0014] WO 95/21189 discloses a hepatitis B surface antigen protein comprising an antigenically modified envelope 
+region in which at least two amino acids are inserted downstream of position 122. 
+[0015] WO 94/21812 discloses antibodies for use in the detection of specific hepatitis B surface antigen protein variants 
+having a glycine to arginine substitution at position 145. 
+[0016] Waters et al., (1992) J. Clin.Invest. 90: 2543-2597 discloses a hepatitis B surface antigen mutation at amino 
+acid 145 which leads to evasion of protective anti-HBs response and speculates that the mutation arose as a result of 
+immune pressure. 
+[0017] The present invention relates to a monoclonal antibody that is capable of binding specifically to a wild-type 
+HBsAg and to at least two, preferable more than two, mutant forms of HBsAg. 
+The present invention provides monoclonal antibody P2D3 as produced by the hybridoma designated P2D3 and de-
+posited at the ECACC under accession number 97042331 and monoclonal antibodies that cross-compete with mono-
+clonal antibody P2D3 for binding to a wild type HBsAg (hepatitis B surface antigen) and to at least two mutant forms of 
+HBsAg, wherein the mutant forms of HBsAg have an amino acid substitution relative to wild type HBs Ag within the 
+sequence encoding amino acids 133 to 145 of HBsAg. Unless specified otherwise, the term "a monoclonal antibody of 
+the present invention" includes monoclonal antibody P2D3 and monoclonal antibodies that cross-compete with mono-
+clonal antibody P2D3 as defined above. 
+[0018] The ability of a monoclonal antibody of the present invention to bind specifically to both a wild type and mutant 
+HBsAg suggests that it is binding to a region of the surface antigen that is conserved between the wild type protein and 
+the mutant forms. The conserved region and hence the antigenic determinant (or epitope) may be in the "a" determinant 
+itself, in the region of the "a" determinant or even in a non-"a" region. 
+[0019] Because of its ability to bind specifically to mutant forms of HBsAg as well as to a wile type protein, and hence 
+to detect escape mutants, a monoclonal antibody of the present invention is particularly useful in improving the efficacy 
+of immunoassays for the detection of HBsAg, for clinical diagnosis of HBV infections and also for blood screening. The 
+safety of the bloody supply and off the supply of blood products may be improved by the use of a monoclonal antibody 
+of the invention in an HBsAg assay, either alone that is to say, as the only anti-HBs antibody or, especially, in addition 
+to one or more other anti-HBs antibodies. 
+[0020] Figures 1a and 1b of the accompanying drawings set out amino acid and nucleic acid sequences of part of the 
+HBV surface region encompassing the "a" determinant. Figure 1b of the drawings as filed is a typescript version of Figure 
+la. In each of Figures 1a and 1b: Line 1 sets out recognised amino acid variants of subtype adyw; Line 2 sets out the 
+consensus amino acid sequence of subtype adyw; Line 3 sets out the consensus nucleic acid sequence of subtype 
+adyw; Line 4 sets out recognised nucleic acids variants; Line 5 sets out the nucleic acid variants encoding Mutant HBsAg 
+II (MAM HBsAg); and Line 6 sets out the nucleic acid variants encoding Mutant HBsAg I (NP HBsAg). 
+[0021] A further recognised nucleotide variant at position 143 is ACG for TCG, which results in threonine instead of 
+serine at that position. 
+[0022] A putative monoclonal antibody of the present invention may be screened for the ability to cross-compere with 
+monoclonal antibody P2D3 for binding to three or more reference antigens namely a wild type HBsAg and two or more 
+mutant forms of HBsAg. A skilled worker is able readily to distinguish specific binding between an antibody and an 
+antigen from non-specific binding. Any antibody that is capable of such cross-competition for binding to three or more 
+such reference antigens is a monoclonal antibody of the present invention. Such a method of screening is itself part of 
+the present invention. It should be noted that the term "binding" is used throughout the present specification to denote 
+specific binding. 
+[0023] An HBsAg used for screening and/or as an antigen in the production of hybridomas and monoclonal antibodies 
+of the invention may be a full length protein or may be an appropriate antigenic fragment or derivative of a wild type or 
+mutant HBsAg. 
+[0024] A monoclonal antibody of the present invention may be of any immunoglobulin class, for example, IgG, IgM or 
+IgA, and of any isotype. 
+[0025] Mutant forms of HBsAg may be found in mutant viruses having a mutation that leads to at least one amino acid 
+substitution relative to wild type HBsAg, for example, as found in so-called "escape mutants". A mutant HBsAg may 
+have a substitution in the "a" determinant or in the region of the "a" determinant, for example, the mutation may be a 
+point mutation. A mutation, for example, a point mutation, may be within the sequence encoding amino acids 133 to 145 
+of HBsAg. The mutation may lead to an amino acid substitution at position 133 and/or at position 145. Further and/or 
+
+
+EP 0 904 378 B1 
+
+4 
+
+5 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+different substitutions may be present, for example, at any one or more of positions 134, 141, 142, 143 and 144. A 
+mutant HBsAg may, for example, have amino acid substitutions relative to the wild type at any one or more of positions 
+143, 144 and 145. Such mutations may be present in addition to other mutations, either in the "a" determinant or in 
+another region. 
+[0026] A monoclonal antibody of the present invention is capable of cross-competing with monoclonal antibody P2D3 
+for binding for example, to a wild-type HBsAg and to two or more different mutant HBsAg as described above, for 
+example, each having a mutation at any one or more of positions 133, 134, 141, 142, 143, 144 and 145. Alternatively, 
+binding may be to one mutant HBsAg described above and to a mutant HBsAg having a mutation in a different region. 
+[0027] Examples of mutant forms of HBsAg are those having the following substitutions relative to the wild type in the 
+region of the "a" determinant: 
+
+Mutant HBsAg I ("NP" HBsAg): met to ile at amino acid 133; phe to his at amino acid 134; and asp to val at amino 
+acid 144; 
+Mutant HBsAg II ("MAM" HBsAg): met to ile at amino acid 133; phe to asn at amino acid 134; pro to ser at amino 
+acid 142; ser to leu at amino acid 143; and gly to lys at amino acid 145; 
+Mutant HBsAg III ("SZ" HBsAg): gly to arg at amino acid 145; Mutant HBsAg IV ("SP" HBsAg): ser to met at amino 
+acid 143. 
+
+[0028] A putative antibody may be screened, for example, against a wild type HBsAg and against any two or more of 
+the mutant forms described above. For example, a putative monoclonal antibody of the present invention may be screened 
+against a wild-type HBsAg and against two or more different mutant HBsAg each having mutation (s) at any one or more 
+of positions 133, 134, 141, 142, 143, 144 and 145, especially 143, 144 and 145. Alternatively, one such mutant may be 
+used with a mutant HBsAg having a mutation in a different region. Mutant forms I and IV described above may be used 
+for screening. 
+[0029] A monoclonal antibody of the invention may be capable of binding specifically to a wild-type HBsAg and to at 
+least one mutant HBsAg carrying an "a" determinant coded for by a sequence having point mutations at any one or more 
+of the codons encoding amino acids 143, 144 and 145. The monoclonal antibody may bind to two or more such mutant 
+HBsAg or to one such mutant HBsAg and to another different mutant HBsAg. 
+[0030] Examples of monoclonal antibodies of the present invention are those produced by the hybridomas designated 
+P2D3, M3A10 and M4F5, which hybridomas have been deposited at the European Collection of Cell Structures (ECACC), 
+Virus Research and Production Laboratory, Public Health Laboratory Service, Centre for Applied Microbiology &amp; Re-
+search, Porton Down, Salisbury, Wiltshire SP4 OJG, England, under the terms of the Budapest Treaty on the International 
+Recognition of the Deposit of Microorganisms for the Purposes of Patent Procedure, 1977. The accession numbers and 
+dates of the hybridoma deposits are as follows: Hybridoma P2D3: Accession Number ECACC 97042331, Accession 
+Date 23 April 1997; Hybridoma M3A10: Accession Number ECACC 97042330, Accession Date 23 April 1997; Hybridoma 
+M4F5: Accession Number ECACC 97042519, Accession Date 25 April 1997. 
+[0031] In this specification, a monoclonal antibody may be referred to under the same designation as the hybridoma 
+that produces it, for example, the monoclonal antibody designated P2D3 is as produced by hybridoma P2D3 (ECACC 
+97042331). Hybridomas P2D3 (ECACC 97042331), M3A10 (ECACC 97042330) and M4F5 (ECACC 97042519) and 
+the monoclonal antibodies they produce are described in detail in the Examples below. 
+[0032] Each of the monoclonal antibodies P2D3, M3A10 and M4F5 is capable of binding specifically to (i) a wild type 
+HBsAG, (ii) Mutant HBsAG I (NP HBsAG) and (iii) Mutant HBsAg II (MAM HBsAg). Furthermore, each also is capable 
+of binding specifically to Mutant HBsAg III (SZ HBsAg) and to Mutant HBsAg IV (SP HBsAg). Monoclonal antibodies 
+P2D3 and M4F5 are IgG antibodies. Monoclonal antibody M3A10 is an IgA antibody. 
+[0033] It is known that wild type HBsAg has a number of different serotypes, and also that there are recognised mutants 
+see, for example, Pugh et al 1980. The term "wild type HBsAg" as used in the present specification includes all HBsAg 
+that are recognised in the art as wild type or that would be acknowledged to be wild type. The term therefore includes 
+wild type HBsAg of all serotypes and of all recognised variants. The term "mutant HBsAg" as used herein does not 
+include recognised wild type variants. 
+[0034] Suitable screening tests are well known to those skilled in the art and include cross-competition assays and 
+assays, for example, using radio-labelled monoclonal antibody to determine binding specificities. 
+[0035] As stated above, the ability of a monoclonal antibody of the present invention to bind to both a wild type and 
+mutant HBsAg suggests that it is binding to a region of the surface antigen that is conserved between the wild type 
+protein and the mutant forms. (See also the General Discussion below.) The location and the sequence of such a 
+conserved region and hence a conserved epitope may be determined by known methods, for example, by epitope 
+mapping optionally using a monoclonal antibody of the invention. Epitopic peptides and polypeptides may then be 
+produced, for example, recombinantly, by chemical synthesis or by a combination of different methods. A resulting 
+antigenic peptide or polypeptide may also be immunogenic. An epitope against which a monoclonal antibody of the 
+
+
+EP 0 904 378 B1 
+
+5 
+
+5 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+invention is directed is itself part of the present invention. 
+[0036] The present invention includes fragments and derivatives of a monoclonal antibody of the present invention, 
+for example, Fab and Fab 2 fragments and conjugates. Derivatives include humanised derivatives. Methods for producing 
+fragments and derivatives, including humanised derivatives, are well known. For example, fragments and derivatives 
+may be produced recombinantly. Fragments and derivatives of antibodies and their uses are well known to the skilled 
+worker. The term "monoclonal antibody" as used herein includes fragments and derivatives thereof. 
+[0037] The present invention also provides an anti-idiotype antibody to a monoclonal antibody of the present invention. 
+Such antibodies, which comprises an "internal image" of the original epitope, may be used as epitope substitutes and 
+are particularly useful in the case of conformational epitopes, since it is difficult to map such epitopes and it may not be 
+possible to produce synthetic epitopic peptides in such cases. 
+[0038] A monoclonal antibody of the present invention may be used in an immunoassay for the detection of HBsAg 
+("HBV assay") and hence of hepatitis B infections, either as a substitute for or, especially, in addition to anti-HBs antibodies 
+currently used in HBV assays. Such assays may be used for clinical diagnosis or for blood screening, and the present 
+invention includes both methods of diagnosis and methods of blood screening using an immunoassay comprising a 
+monoclonal antibody of the present invention. 
+[0039] A monoclonal antibody of the present invention may also be used therapeutically or prophylactically as an 
+antiserum for passive immunisation and/or to define an epitope for use as a vaccine in active immunisation. The present 
+invention includes such antisera and methods of immunisation, and also epitopes defined using such antisera. 
+[0040] A further application of a monoclonal antibody of the present invention is in affinity chromatography, for example, 
+to purify wild or mutant types of HBsAg, antigenic fragments thereof, antigenic peptides or anti-idiotype antibodies. 
+[0041] Accordingly, the present invention provides an immunoassay for the detection of HBsAg, which comprises 
+contacting a sample under investigation with a monoclonal antibody of the present invention, a fragment or derivative 
+thereof, or a combination of two or more thereof, and detecting any resulting antigen-antibody complex. 
+[0042] The term "detection" is used herein to denote detection and/or determination and includes qualitative, quanti-
+tative and semi-quantitative methods. 
+[0043] The monoclonal antibody of the invention, fragment, derivative or combination thereof may be used with one 
+or more other antibodies selected from polyclonal anti-HBs antibodies and other monoclonal anti-HBs antibodies. 
+[0044] An immunoassay of the present invention may be in a homogeneous or heterogeneous format. The format 
+may be a capture or a competitive format. 
+[0045] An immunoassay for the detection of antibodies to hepatitis B core antigen (anti-HBc) may be carried out 
+simultaneously with the assay for HBsAg. HBV combination anti-core/ surface antigen assays are known and are in use. 
+[0046] The present invention further provides an immunoassay kit that comprises a monoclonal antibody of the present 
+invention or a fragment or derivative thereof, or a combination of two or more thereof, and other reagents required for 
+carrying out an immunoassay for HBsAg and optionally also reagents for detecting anti-HBc antibodies. One or more 
+other anti-HBs antibodies selected from polyclonal anti-HBs antibodies and other monoclonal anti-HBs antibodies may 
+be present, and the other reagents may be selected from washing solutions, diluents, standard solutions, control reagents 
+and labelled anti-HBs antibodies. 
+[0047] The present invention further provides a solid phase suitable for use in an immunoassay on which is immobilised 
+a monoclonal antibody of the present invention, a fragment or derivative thereof, or a combination of two or more thereof. 
+One or more further anti-HBs antibodies selected from polyclonal anti-HBs antibodies and other monoclonal anti-HBs 
+antibodies may also immobilised on the solid phase. Furthermore, an agent capable of capturing anti-HBc antibodies 
+may be immobilised on the solid phase in addition to the anti-HBs antibodies. 
+[0048] The present invention further provides an antiserum suitable for use therapeutically or prophylactically for 
+passive immunisation which comprises a monoclonal antibody of the present invention, a fragment or derivative thereof, 
+or a combination of two or more thereof. 
+[0049] The present invention also provides a composition suitable for use therapeutically or prophylactically for passive 
+immunisation against HBV which comprises a monoclonal antibody of the present invention, a fragment or derivative 
+thereof, or a combination of two or more thereof, in admixture with a pharmaceutically suitable carrier. 
+[0050] An antiserum or composition of the invention may also comprises one or more other antibodies selected from 
+polyclonal anti-HBs antibodies and other monoclonal anti-HBs antibodies. 
+[0051] The present invention further provides a method of therapeutic or prophylactic passive immunisation against 
+HBV which comprises administering to a human a therapeutically or prophylactically effective amount of a monoclonal 
+antibody of the invention, a fragment or derivative thereof or a combination of two or more thereof. One or more other 
+antibodies selected from monoclonal and polyclonal anti-HBs antibodies may also be administered. 
+[0052] For any of the applications and uses according to the present invention, the monoclonal antibody of the present 
+invention may be monoclonal antibody P2D3, monoclonal antibody M3A10, monoclonal antibody M4F5 or a combination 
+of two of more thereof. Any one or more of the monoclonal antibodies P2D3, M3A10 and M4F5 may be used together 
+with any other monoclonal antibody of the present invention and/or with any other anti-HBV antibodies, especially antiHBS 
+
+
+EP 0 904 378 B1 
+
+6 
+
+5 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+antibodies. A fragment or derivative of a monoclonal antibody of the invention may be used. 
+[0053] The present invention also provides a hybridoma capable of producing a monoclonal antibody of the present 
+invention, for example, hybridoma P2D3 (Accession Number ECACC 97042331), hybridoma M3A10 (Accession Number 
+ECACC 97042330) and hybridoma M4F5 (Accession Number ECACC 97042519). 
+[0054] The present invention provides a method of producing a hybridoma capable of producing a monoclonal antibody 
+of the present invention, which comprises immunising an animal with wild type HBsAg or a mutant form of HBsAg, 
+immortalising antibody producing cells to form hybridomas, screening the resulting hybridoma culture against wild type 
+HBsAg and two or more mutant forms of HBsAg, and selecting those hybridomas that produce a monoclonal antibody 
+that is capable of binding specifically to wild type HBsAg and two or more mutant forms of HBsAg. 
+[0055] A monoclonal antibody of the invention may be obtained by culturing a hybridoma of the invention in vitro or 
+in vivo and obtaining the monoclonal antibody from the culture medium. In the case of in vivo production, the culture 
+medium is ascitic fluid. 
+[0056] Methods for raising and for screening hybridomas and monoclonal antibodies are well known to those skilled 
+in the art. The general methodology is set out by Kohler &amp; Milstein (1975) and there have been numerous publications 
+on the subject since then. Any such method may be used to raise and to screen hybridomas and monoclonal antibodies 
+according to a method of the present invention. The antigen used to raise the antibodies may be a wild type HBsAg or 
+a mutant form of HBsAg, for example, as described above, for example, one or more of the mutant forms I to IV described 
+above. The screening of the resulting hybridomas and monoclonal antibodies for their ability to bind specifically to different 
+forms of HBsAg may be carried out by any conventional method using wild type HBsAg and the chosen mutant forms. 
+As described above, screening may carried out using, as reference antigens, a wild type HBsAg and two or more mutant 
+forms of HBsAg, for example, as described above, for example, two or more of the mutant forms I to IV. 
+[0057] For screening, it is particularly convenient to use an IgG reverse capture radioimmunoassay, which is capable 
+of a very low background and a large dynamic range, and has the further advantage of being simple to set up. 
+[0058] In an IgG reverse capture assay for an antibody of interest, an appropriate anti-species IgG is immobilised on 
+a solid phase, for example, microwells. If, for example, the antibodies under investigation have been raised in mice, then 
+the solid phase is coated with anti-mouse IgG. The sample under investigation is then incubated with the immobilised 
+anti-species IgG, whereupon a representative proportion the total IgGs present in the sample are captured. The solid 
+phase is then incubated with an appropriate labelled antigen, which forms a complex only with the captured antibody of 
+interest. Any complexes formed may then be detected. 
+[0059] In the present case, a sample under investigation, for example, a tissue culture supernatant fluid from a hybri-
+doma culture or ascitic fluid, is incubated with immobilised anti-IgG. The captured antibodies are incubated separately 
+with a labelled wild type HBsAg and with two or more labelled mutant HBsAgs, for example, as described above, for 
+example, selected from mutant forms I to IV. Any sample that is capable of binding specifically a wild type HBsAg and 
+two or more mutant surface antigens contains a monoclonal antibody that falls within the present invention. 
+[0060] A reverse phase IgM or IgA assay may be used analogously to obtain an IgM or IgA monoclonal antibody. 
+[0061] Commercially available immunoassays for HBsAg are generally heterogeneous phase or "capture" assays, in 
+which anti-HBs is immobilised on a solid phase, usually microwells, small particles or beads. When a sample under 
+investigation, generally serum, is contacted with the immobilised anti-HBs, HBsAg present in the sample should bind to 
+the immobilised antibody. The captured antigen is then detected, generally using a labelled anti-HBs. In conventional 
+assays, the antibody used for capture or for detection may be monoclonal or polyclonal. 
+[0062] Polyclonal antibodies, because of their nature, have a range of specificity and selectivity. In the case of HBV, 
+this may result in the presence in the antiserum of an antibody that can bind to an escape mutant. However, that cannot 
+be guaranteed, and there is an inherent problem in obtaining uniformity of product from batch to batch. Monoclonal 
+antibodies have defined specificity and selectivity and may therefore fail to detect escape mutants. 
+[0063] The use of a monoclonal antibody of the present invention, which is capable of binding specifically to both a 
+wild type HBsAg and to mutant HBsAg, or a combination of two or more such antibodies, including fragments and 
+derivatives thereof, in an immunoassay for HBsAg improves the performance of the assay and reduces the possibility 
+that mutant HBsAg will not be detected. A monoclonal antibody of the present invention or a combination of two or more 
+such antibodies may be used either as the only anti-HBs antibody reagent or, preferably, may be used in addition to 
+polyclonal anti-HBs or other monoclonal anti-HBs, for antigen capture and/or for detection of any resulting antibody-
+antigen complex. A monoclonal antibody of the present invention, or a combination of two or more thereof, may be used 
+analogously to conventional anti-HBs in a homogeneous phase assay for HBsAg. The present invention accordingly 
+provides an immunoassay for the detection of HBsAg, which comprises contacting a sample suspected of containing 
+HBsAg with a monoclonal antibody of the present invention, a fragment or derivative therof, or a combination of two or 
+more thereof, and detecting any resulting antigen-antibody complex. The monoclonal antibody, fragment, derivative or 
+combination thereof may be used as the only anti-Hbs reagent or may be used with one or more other anti-HBs antibodies 
+selected from polyclonal anti-HBs and other anti-HBs monoclonal antibodies. 
+[0064] Immunoassays of various different formats, methods for carrying them out and suitable reagents are a well 
+
+
+EP 0 904 378 B1 
+
+7 
+
+5 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+known and are described in various textbooks and review articles, for example, Kemeny &amp; Challacome 1988 and Tsu 
+&amp; Herzenberg 1980. Any method for the detection of an antigen may be used in the present invention. 
+[0065] An assay according to the present invention may be a so-called "sandwich" assay, a competition assay or a 
+direct reaction. The monoclonal antibody, fragment, derivative or combination thereof may be immobilised on a solid 
+surface alone or in admixture with a polyclonal anti-HBs antiserum and/or with one or more other anti-HBs monoclonal 
+antibodies. Alternatively the monoclonal antibody of the invention or the combination thereof and any further antibodies 
+may be in a homogeneous phase. Any resulting antibody-antigen complex may be detected using labelled anti-HBs. In 
+the case of a heterogeneous phase assay, the anti-HBs used for detection may be the same as or different from that 
+used for coating the solid surface. 
+[0066] Suitable solid surfaces on which anti-HBs may be immobilized are well known and include the inner walls of 
+wells of microtitre plates, beads, particles and so-called "latex". Membranes and strips, for example, of nitrocelluose or 
+paper may be used. A membranes or strip may be incorporated in an assay device. Such devices are also well known. 
+The invention includes such solid phases on which a monoclonal antibody of the present invention, or a fragment or 
+derivative thereof, or a combination of two or more thereof is immobilised. 
+[0067] The anti-HBs used for detection of any antigen-antibody complex may be labelled with any agent capable of 
+generating a signal directly or indirectly. Such agents are well known. Agents capable of generating a direct signal include 
+radiolabels, chromogenic and fluorescent labels. Agents capable of generating a signal indirectly include enzymes 
+capable of catalysing a reaction that gives rise to a colour change. 
+[0068] The present invention also provides a kit which comprises the components requires to carry out an immunoassay 
+of the present invention. Such a kit comprises, for example, a monoclonal antibody of the present invention or a com-
+bination of two or more thereof immobilised on a solid surface, together with container (s) comprising other reagent (s) 
+required, for example, selected from washing solutions and diluents, standard solutions and control reagents, labelled 
+anti-HBs antibodies and, in the case of enzyme-labelled anti-HBs, colour reagents. 
+[0069] Often an immunoassay for antibodies to hepatitis B core protein (HBc) is carried out simultaneously with the 
+assay for HBs, for example, in the same microwell. The present invention includes the use of a monoclonal antibody of 
+the present invention in such assays, and kits and coated solid phases for use with such assays. 
+[0070] As indicated above, a monoclonal antibody of the present invention may be used for passive immunisation, for 
+example, during liver transplantation of an HBV infected patient. For passive immunisation, the antibody is brought into 
+a suitable form for use as an antiserum for parenteral administration, for example, in a form allowing derivatisation 
+including humanisation. The dose of antibody to be used will depend on the particular circumstances of each patient 
+and will be determined on a case-by-case basis. 
+[0071] A monoclonal antibody of the present invention, including combinations of two more such antibodies, fragments 
+and derivatives thereof, may be used alone or in addition to other anti-HBs antibodies, either polyclonal or monoclonal. 
+Other anti-HBV antibodies may also be included. 
+[0072] A mutant form of HBsAg to which a monoclonal antibody of the present invention binds may itself be used as 
+an antigen; in the production of monoclonal antibodies; and for screening for putative antibodies according to the present 
+invention. Such a mutant HBsAg may be obtained from a subject believed to be harbouring an HBV escape mutant. 
+Such a subject will generally be both anti-HBs positive and HBsAg positive. Suitable subjects may be found among 
+patients who have received monoclonal antibody therapy for HBV infection, in vaccinated subjects, especially where 
+breakthrough infection is found, and in cases of HBV infection that are difficult to diagnose in clinical laboratories using 
+current standard tests. 
+[0073] A mutant form of HBsAg, for example, one of the mutant forms described above, for example, mutant forms I 
+to IV, may be produced by recombinant DNA technology. Naturally occurring DNA encoding the mutant form may be 
+inserted into an appropriate host for expression of the mutant HBsAg. Alternatively, wild type DNA may be modified, for 
+example, by site-directed mutagenesis, and then used to obtain expression of a mutant form. 
+[0074] HBsAg obtained from natural sources, generally from the blood of a selected subject, will have natural glyco-
+sylation, and it is generally preferable to use such HBsAg as an antigen. Methods of purifying HBsAg from blood are 
+well known, see for example, Cameron et al. 1980. It may be preferable to produce a recombinant mutant HBsAg that 
+is partially or fully glycosylated. 
+[0075] The HBsAg may be full-length or an appropriate antigenic fragment may be used. Such a fragment may be 
+obtained by recombinant technology. Alternatively, a fragment that is an antigenic peptide, for example, produced by 
+chemical synthesis may be used. For use as a vaccine, an antigen should be immunogenic ie capable of producing a 
+protective response. 
+[0076] Methods for producing anti-idiotype antibodies are well known. In the present case a monoclonal antibody of 
+the present invention is used as the antigen in the production of an anti-idiotype antibody, and the resulting antibodies 
+may be screened against a monoclonal antibody of the present invention. An anti-idiotype antibody of the present 
+invention may itself be used as a vaccine, in known manner. 
+[0077] The following non-limiting Example illustrates the present invention. 
+
+
+EP 0 904 378 B1 
+
+8 
+
+5 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+EXAMPLE 
+
+I. MATERIALS AND METHODS 
+
+1: Patients 
+
+[0078] The monoclonal antibodies described below were raised against the mutant HBsAg of two patients. Those 
+patients were identified as a result of inconsistent serological markers. 
+[0079] Patient MAM was an HBV carrier. The serum was initially, in 1986, HBsAg positive by the polyclonal based 
+reverse passive haemagglutination assay (RPH) but negative by a monoclonal enzyme immunoassay (EIA). In 1988 
+the patient underwent renal transplantation. When tested again, HBsAg became detectable by both polyclonal and 
+monoclonal antibody based assays but reverted to being detectable by polyclonal antibody assay only. The patient's 
+serum was anti-HBc and HBsAg positive throughout the period of follow-up. 
+[0080] Patient NP underwent renal transplantation in 1985. In 1990 the patient was anti-HBc sero-positive but HBsAg 
+and anti-HBs were not detected. Haemodialysis was started in 1993 and later that year HBsAg was detected by polyclonal 
+based assays only. 
+[0081] Neither of the patients had been previously vaccinated. 
+[0082] The sequences of the HBsAg genes around the "a" determinant were determined by single stranded sequencing 
+carried out directly on PCR products as is described in Hawkins et al., 1994. 
+
+2: Production Of Monoclonal Antibodies 
+
+2.1: Animals 
+
+[0083] Female Balb/c mice used. 
+
+2.2: Purification of HBsAg 
+
+[0084] Purification of HBsAg required for immunisation of mice was based on the method described by Cameron et 
+al., 1980. 
+[0085] High titre HBsAg positive serum was fractionated by passing 20ml volumes through a 100x5 cm diameter 
+column of Sepharose 6B (Pharmacia Ltd) equilibrated with 0.9% NaCl pH 7.6 buffered with Tris and containing 0.1% 
+sodium azide (Tris/Sal/Az). The HBsAg rich fractions, now free of albumin and IgG, were concentrated to a volume of 
+9ml by ultrafiltration in a stirred 200ml ultrafiltration cell fitted with an XM 100 A membrane (Amicon Ltd.). To this 2.69g 
+of solid CsCl were added and the volume adjusted to 10ml to give a density of 1.2g/cm 3 . The material was then ultra-
+centrifuged for three days at 124000g in two 5ml tubes in a SW50-L swinging bucket rotor (Beckman RIIC Ltd) at 20°C 
+to give isopyknic banding in the self forming density gradient. 
+[0086] The main HBsAg band containing the 22nm small particles was removed from both tubes, pooled and made 
+up to 5ml with a solution of CsCl in Tris/Sal/Az (2.885g plus 10ml) which gave a final density of 1.2g/cm 3 . The material 
+was ultra-centrifuged under the same conditions as before in one 5ml tube to give the second isopyknic banding. The 
+final HBsAg band was removed and dialysed in PBS to remove CsCl. 
+
+3: Immunisation of animals 
+
+[0087] Fifty microlitres of purified NP HBsAg mixed in an equal volume of Titermax adjuvant (Vaxcel, Inc.) were injected 
+subcutaneously into a female Balb/c mouse. Approximately two months later a dose of 30 Pl was given intraperitoneally 
+(i.p) followed three months later by a 75Pl dose also given i.p.. The final 25 Pl of HBsAg in saline were given intravenously 
+three days before the fusion. 
+[0088] The same protocol was used when immunising the mouse with the MAM HBsAg. 
+
+4: Culture of Myeloma cells 
+
+[0089] JK cells derived from P3-X63-Ag8653 (Kearney et al., 1979) were cultured in complete medium (see reagents) 
+at 37°C in a 5% CO 2 in air atmosphere at 100% humidity. 
+[0090] The cells were split 1: 2 approximately three times weekly and maintained at a concentration of between 2x10 5 
+and 210 6 cells per ml. Only cells in the log phase of growth were used for fusion to splenocytes. 
+[0091] For the fusion, the myeloma cells were spun at 1,500g for 10 minutes and washed three times in the same 
+volume of incomplete medium (see Reagents). The resuspended JK cells were diluted 1: 10 in incomplete medium and 
+
+
+EP 0 904 378 B1 
+
+9 
+
+5 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+the viability and concentration of the cells determined by counting the cells using a Neubauer chamber. The concentration 
+of JK cells was found to be approximately 5.87x10 7 cells/ml. 
+
+4.1: Preparation of feeder cells 
+
+[0092] Mouse peritoneal exudate cells were used as a feeder cell layer for hybrid cells. These were prepared the day 
+before the fusion was undertaken. Cold complete medium containing hypoxanthine, aminopterin and thymidine (HAT 
+medium-see reagents) was used for preparation of the feeder cells. Five milliliters of the medium was injected into the 
+peritoneal cavity of a freshly killed Balb/c mouse and after gentle agitation was removed aseptically now containing 
+exudate cells. One hundred microlitres of the cells were added to each well of a sterile 96 well plate (4-5 plates were 
+needed per spleen to be fused). All plates were examined on the day of the fusion to ensure that they free from any 
+visible bacterial or fungal contamination. 
+
+4.2: Preparation of spleen cells 
+
+[0093] Preparation of spleen cells from both MAM HBsAg immunised and the NP HBsAg immunised mice were carried 
+out in a similar method. 
+[0094] The spleen was carefully removed from the freshly killed mouse and placed in a petri dish containing 5mls of 
+cold complete medium. The spleen was disrupted carefully with the blunt side of a scalpel blade thus teasing away the 
+cells from the spleen connective tissue. The cell suspension was then transferred to a sterile universal container and 
+the debris allowed to settle to the bottom. The supernatant was carefully removed and the cells pelleted at 150g for 10 
+minutes. The cells were washed three times in 10ml of incomplete medium and the final cell pellet was resuspended in 
+10ml of incomplete medium. The yield and viability of the spleen cells was determined using a Neubauer chamber. 
+Approximately 7x10 7 cells were harvested from the NP spleen whilst 10x10 7 cells were obtained from the first MAM 
+spleen and 2.5x10 7 cells from the second MAM spleen. 
+
+4.3: Cell fusion 
+
+[0095] The splenocytes were mixed with the myeloma cells at a 4: 1 ratio and the mixture centrifuged at 1500g for 10 
+minutes. The supernatant was removed leaving a dry pellet of cells at the bottom the container. This was placed in a 
+water bath at 37°C. Polyethylene glycol 1540 (PEG) which had been previously sterilised by autoclaving was also warmed 
+in the 37°C waterbath. The cell pellet was loosened in the bottom of the container and 1ml of the PEG solution added 
+dropwise whilst the container was gently agitated. The cell/PEG mix was left at 37°C for one minute and then an additional 
+2ml of the warm incomplete medium added. Further incomplete medium was added slowly so that the volume doubled 
+every minute until 25ml of incomplete medium had been added. The fused cells were then centrifuged at 1500g for 10 
+minutes and the pellet resuspended in 10ml of HAT medium. The cell suspension was distributed evenly over five plates 
+of feeder cells and then placed in a CO 2 incubator. 
+
+4.4: culture of hybrid cells 
+
+[0096] Clusters of growing fused cells appeared after about a week. At this stage the cells were re-fed by replacing 
+100 Pl of old medium with fresh HAT medium. Approximately 14 days after the fusion, 100 Pl of the supernatant fluid 
+from each well where successfully fused clusters of cells were found, was removed and assayed for the presence of 
+anti-HBs. The supernatant was replaced with complete medium containing hypoxanthine and thymidine (HT medium-
+see Reagents). 
+
+4.5: Reverse capture RIA for the detection of anti-HBs secreting hybridomas 
+
+[0097] Supernatant from viable hybridoma cultures were tested for anti-HBs on the basis of a reverse capture assay. 
+[0098] Round bottom Nunc microwells were coated with 100 Pl of a 1: 1000 dilution in Tris buffer of the IgG fraction 
+of rabbit anti-mouse IgG. After two days at room temperature the wells were washed with Tween Saline and quenched 
+for one hour with 0.5% bovine serum albumin in Tris buffer (Tris BSA buffer-see reagents). The wells were then sealed 
+and stored moist at 4°C. All washings were done with Tween Saline. 
+[0099] Before the assay was carried out, the Tris BSA buffer was removed. One hundred microlitres of a 1: 10 dilution 
+in phosphate buffered saline of the supernatant from each well where successfully fused clusters of cells were found 
+was added to the assay wells and incubated at 37°C for one hour. After washing, 100 Pl of purified 125 I-wild type HBsAg 
+were added and left in a moist box at room temperature overnight. The assay wells were then washed and bound 
+reactivity measured in a sixteen channel gammacounter. Supernatant containing anti-HBs gave an increased binding 
+
+
+EP 0 904 378 B1 
+
+10 
+
+5 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+of the label. The hybridomas were subsequently retested by the same assay using 125 I-MAM and 125 I-NP labels instead 
+of 125 I-wild type HBsAg. Each assay carried out included positive and negative controls. Positive controls used were 
+monoclonals D2H5 and H3F5 raised against wild type HBsAg. An anti-HIV gag monoclonal 3D3F2 and phosphate 
+buffered saline were used as negative controls. 
+[0100] From the results of the assay, parent wells containing colonies secreting anti-HBs were chosen for further 
+screening and cloning. 
+[0101] When the cells were growing well, they were aspirated using a glass pasteur pipette and transferred aseptically 
+to 24 well sterile plates which contained a layer of mouse peritoneal exudate cells (PEC) in HT medium. 
+
+4.6: Cloning by limiting dilution 
+
+[0102] Hybridomas identified as anti-HBs positive were cloned by limiting dilution. This is done to ensure that the 
+antibody secreted is homogenous and monospecific. For each hybrid culture the volume of cell suspension containing 
+100 cells was calculated and this volume added to 10ml of complete medium. One hundred microlitres of this cell 
+suspension was added to each of 48 wells of a 96 well plate containing feeder cells in complete medium. One hundred 
+more cells were added to the remaining 5ml of complete medium and 100Pl of this more concentrated cell suspension 
+were added to 24 wells of the plate. Finally, a further 100 cells were added to the remaining cell suspension and this 
+was distributed over the last 24 wells. Variation in the concentration of cells on each plate made allowance for inaccurate 
+cell counts and low viability of some cultures. This procedure was repeated for each selected parent hybridoma. 
+[0103] Approximately five days after cloning the plates were examined for wells where only a single colony was visible. 
+One hundred microlitres of supernatant was removed from these wells and retested for anti-HBs using the reverse 
+capture assay described previously. 
+[0104] Clones secreting anti-HBs were then expanded as before and re-fed as necessary by removal of 100Pl of 
+tissue culture supernatant and replaced with fresh complete medium. 
+
+4.7: Culture of hybrid clones 
+
+[0105] Once the colonies were large enough to cover the well they were expanded into 12cm 2 tissue culture flasks 
+containing feeder cells and then further into 25cm 2 and 75cm 2 flasks. The cells were split 1: 2 approximately every 2-3 
+days with fresh complete medium. 
+[0106] Once good growth had been established, some of the cells were frozen and stored under liquid nitrogen in 
+incomplete medium supplemented with 10% dimethyl sulphoxide and 50% foetal calf serum. 
+
+4.8: Production of ascitic fluid 
+
+[0107] Female Balb/c mice, aged 12-20 weeks were primed with 0.5ml pristane. One to four weeks after priming, 1ml 
+of cloned hybridoma cells, resuspended in incomplete medium, were injected intraperitoneally. The ascitic fluid was 
+aspirated 1-3 weeks later and separated from cells by centrifugation at 3000g for 10 minutes. The ascitic fluid was then 
+stored at -20°C. 
+
+II. CHARACTERISATION OF THE MONOCLONAL ANTIBODIES RAISED AGAINST WILD TYPE AND MUTANT 
+HBsAg 
+
+1: Isotyping of monoclonal antibodies 
+
+[0108] Isotyping of the monoclonal antibodies was carried out using a kit from Serotec (Serotech Limited, 22 Bankside 
+Station Approach, Kidlington, Oxfords OX5 1BR) specifically designed to identify the class and subclass of monoclonal 
+antibodies in tissue culture supernatants. Used in accordance with the manufacturer's recommendations, it readily 
+characterised the mouse monoclonal antibody. 
+
+2: Serum protein electrophoresis 
+
+[0109] Ascitic fluid from each clone was tested for the presence of a monoclonal protein band by serum protein 
+electrophoresis (SPE, Paragon Electrophoresis System, Beckman Ltd). Following the protocol provided, the kit conven-
+iently identified those ascitic fluids containing high levels of monoclonal immunoglobulin. 
+[0110] The Paragon Serum Protein Electrophoresis kit is intended for the electrophoretic separation of proteins in a 
+buffered agarose gel. After electrophoresis, the proteins in the gel were immobilised in a fixative solution and the gel 
+dried to a film. The protein pattern is visualised by staining the film with a protein-specific stain and the pattern visually 
+
+
+EP 0 904 378 B1 
+
+11 
+
+5 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+interpreted. 
+
+3: Immunoglobulin G preparation 
+
+[0111] Immunoglobulin G was prepared by ion exchange chromatography from the various ascitic fluids. 
+[0112] DE52 gel (Whatman Ltd), supplied pre-swollen was resuspended in a 0.2M phosphate buffer pH 8.0. The gel 
+was then dispersed in distilled water to give a 10mM buffer strength. 
+[0113] A K9 column (Pharmacia) was packed with the DE52 gel to give a gel to sample volume ratio of 5: 1. All columns 
+were equilibrated with an equal volume of 10mM phosphate buffer (PB-see reagents). After overnight dialysis at 4°C in 
+10mM PB, the sample was layered on top of the columns and allowed to absorb over 30 minutes. 
+[0114] Immunoglobulin G from the ascitic fluid was recovered by stepwise elution with 10mM, 30mM and 60mM PB. 
+Each buffer was allowed to run through the column and the optical density of the eluent was monitored and recorded at 
+280nm (Ultra Violet Spectrophotometre, LKB Ltd.). The three different eluents were collected separately and assayed 
+for anti-HBs activity in the reverse capture RIA. The eluent containing the majority of anti-HBs reactivity could be identified. 
+[0115] The protein concentrations of the ascitic fluid IgG were calculated by determining their absorbance at 280nm 
+using an E1% 1cm value of 1.4 in a spectrophotometer. 
+
+4: Immunoglobulin A preparation 
+
+[0116] As with IgG, IgA was prepared using ion exchange chromatography. Separation was, however, carried out on 
+a Sephacryl gel. As with DE52, the gel was equilibrated with 10mM phosphate buffer. The sample was layered on top 
+of the column and allowed to absorb over 30 minutes. As before, the ascitic fluid was separated by stepwise elution. 
+The eluent was monitored and then tested for anti-HBs reactivity. 
+
+5: Radiolabelling procedure 
+
+[0117] Labelling of the immunoglobulin fractions was carried out by the iodogen method (Salacinski et al., 1979). 
+[0118] Clean 7.5x10cm glass tubes were initially coated with 5Pg of chloroform. To the iodogen tubes 15Pg of protein 
+in PBS was added. Finally Na 125 I (0.5 miCi, Amersham International Plc) was added and the reaction in the tube allowed 
+to proceed for 10 minutes on ice. The iodogen acts as a mild oxidising agent for the Na 125 I to bind onto a tyrosine residue 
+on the protein. 
+[0119] A K9 column was then packed with Sephadex G-25 and equilibrated in Tris BSA buffer. Non-radioactive iodide 
+(KI/NaI) in PBS was added to the G25 column as this reduced the tendency for free 125 I to stick to the column. The 
+reaction mixture was then removed from the iodogen tube and transferred to the column. Tris BSA buffer was then used 
+for eluting and the eluent monitored. The 125 I-labelled protein fraction was collected from the first peak and stopped as 
+the peak began to tail off. The labelled protein was then stored at 4°C in Tris saline buffer containing 5% BSA. 
+[0120] Elution was continued until free 125 I had come through (i.e. the second peak). The height of this peak compared 
+to the height of the first peak gave an estimate of the percentage of 125 I bound. 
+
+III. RESULTS 
+
+1: Patients 
+
+[0121] The sera from both patients MAM and NP were tested in a series of assays for HBsAg. Results of the comparison 
+of monoclonal and polyclonal antibody based methods is shown in Table 1 below. 
+
+Table 1: HBsAg assay detection: a comparison 
+
+Patient Assay 1 Assay 2 Assay 3 Assay 4 Assay 5 
+
+NP 
++ 
+-
++ 
++ 
++ 
+
+
+EP 0 904 378 B1 
+
+12 
+
+5 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[0122] Results from the sequencing revealed several point mutations in the "a" determinant of both patients. Mutations 
+were found in HBV DNA amplified from patient NP (subtype ayw) at surface antigen codons encoding amino acids 133, 
+134 and 144. Mutations were found at codons encoding amino acids 133, 134, 142; 144 and 145 in HBV DNA amplified 
+from patient MAM (subtype adr). Those mutations were detected both before and after transplantation. The sequences 
+did not differ between the period when HBsAg was detectable by either polyclonal antibody based assays alone as 
+compared with the time when HBsAg was detectable by both monoclonal and polyclonal based assays. The mutations 
+are shown in Table 2. 
+[0123] MAM HBsAg is Mutant HBsAg I and NPHBsAg is Mutant HBsAg II. The complete amino acid sequence of, 
+and nucleotide sequence encoding, HBsAg is given in Valenzuela et al. (1979). 
+
+2: Identification and distribution of anti-HBs secreting monoclonal antibodies 
+
+[0124] Hybridomas secreting anti-HBs were initially identified by using the reverse capture assay (see section II, 4.5). 
+Approximately a week after the fusion all wells containing clusters of growing cells were tested for anti-HBs activity. 
+Every assay performed included both negative and positive controls. 
+[0125] Cells arising from the MAM fusion were tested in the RIA in the first instance with the 125 I MAM HBsAg whilst 
+those from the NP fusion were tested with the 125 I NP HBsAg. Results of the assay would give an indication of those 
+clones which were producing antibodies against their respective surface antigens. Hybridomas which gave counts above 
+750cpm were considered to be positive. It was shown that of the 320 MAM clones tested, 10% were positive whilst 8% 
+of the 200 NP clones were found to be positive. 
+[0126] To check for any reactivity against the wild type (WT) HBsAg, clones from both the NP and MAM fusions, 
+regardless of whether they were positive in the previous assay were tested in the reverse capture RIA using 125 I WT 
+HBsAg label. As before, a positive result was indicated by an increased binding of the label. Hybridomas which gave 
+counts over 650cpm were considered as positive. Of the 320 MAM clones tested, 6% gave positive results whilst 4% of 
+the NP clones were found to bind to the 125 I WT HBsAg. 
+[0127] With the results obtained thus far it was possible to identify those clones secreting anti-HBs which was specifically 
+recognising and therefore binding either MAM, NP or WT hepatitis B surface antigen. 
+[0128] To determine if there was any cross reactivity within these hybridomas the NP clones were tested with 125 I 
+MAM HBsAg and the MAM clones with the 125 I NP HBsAg. It was found that 4 of the MAM clones recognised NP label 
+whilst 5 of the NP clones were recognised by the MAM label. 
+[0129] The clones had now been tested with all label combinations. It was therefore possible to identify those hybri-
+domas which had consistently given strong positive results be it with the 125 I MAM, 125 I NP or 125 I WT HBsAg. The 
+
+(continued) 
+
+Patient Assay 1 Assay 2 Assay 3 Assay 4 Assay 5 
+
+MAM 
++ 
+-
++ 
+nt 
+nt 
+
+Key to Table 1: 
+Assay I Reverse passive haemagglution assay. 
+Assay II Monoclonal based antibody assay. 
+Assay III Mixed monoclonal/ polyclonal based assays. 
+Assay IV Mixed monoclonal/ polyclonal based assays. 
+Assay V Monoclonal based antibody assay. 
+
+Table 2: Mutations detected in the HBsAg "a" determinant of patients MAM and NP 
+
+Patient 
+Codon 
+Wild Type Codon Wild Type Amino Acid Mutant Codon 
+Mutant Amino Acid 
+
+NP 
+133 
+ATG 
+Methionine 
+ATT 
+Isoleucine 
+134 
+TAT 
+Phenylalanine 
+CAT 
+Histidine 
+144 
+GAT 
+Aspartic Acid 
+GTC 
+Valine 
+
+MAM 
+133 
+ATG 
+Methionine 
+ATC 
+Isoleucine 
+134 
+TAT 
+Phenylalanine 
+AAT 
+Asparagine 
+142 
+CCT 
+Proline 
+AGT 
+Serine 
+143 
+TCG 
+Serine 
+TTG 
+Leucine 
+145 
+GGA 
+Glycine 
+AAA 
+Lysine 
+
+
+EP 0 904 378 B1 
+
+13 
+
+5 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+monoclonal antibodies could now be divided into the following categories: 1) MAM specific; 2) NP specific; 3) MAM/NP 
+specific; 4) MAM/WT specific; 5) NP/WT specific; 6) NP/WT/MAM specific. 
+[0130] Eight NP and ten MAM parent hybridomas each of which fell under one of the categories listed above were 
+chosen. These hybridomas were chosen as they displayed good cell growth as well as being repeatedly positive when 
+tested for anti-HBs activity. 
+[0131] The eighteen chosen hybridomas were then cloned by limiting dilution. Approximately fourteen days after 
+cloning, wells containing single colonies were tested in the reverse capture assay with all three of the labels. Six of the 
+eight NP hybridomas cloned successfully and were found to be still positive for anti-HBs activity. 
+[0132] However, with the MAM clones, it was found that only six of the ten chosen hybridomas cloned. Attempts at 
+recloning the hybridomas from their respective parent colonies proved unsuccessful despite increasing the concentration 
+of the cells added to each plate. The six successfully cloned hybridomas containing single colonies were tested for anti-
+HBs activity. From the six, two hybridomas, M3C9 and M3A10, both three way crosses were found to be still positive 
+for anti-HBs. Hybridomas derived from the MAM fusion were proving to be extremely unstable as they were passaged. 
+[0133] At least three positive clones were chosen from each hybridoma for expansion. The clones were propagated 
+in culture and retested two weeks later. All the NP clones were still positive for anti-HBs secretion. However of the MAM 
+clones, M3C9 had also proved to be extremely unstable giving negative results in the RIA. 
+[0134] The final positive secreting hybridomas from each fusion are shown in Table 3 below. The table also gives the 
+monoclonal antibody specificity and their RIA values rounded up to the nearest 500cpm. 
+
+[0135] A second MAM fusion was undertaken. The fusion was carried out as described before. However, the yield of 
+spleen cells was only 25% of that recorded in the original MAM fusion. Approximately a week later, all wells containing 
+clusters of growing cells were tested for anti-HBs activity using the reverse capture RIA. As before, each assay performed 
+included negative and positive controls. All cells arising from the fusion were tested with each of the labels, 125 I MAM 
+HBsAg, 125 I NP HBsAg and 125 I WT HBsAg. 
+[0136] Of the 68 cloned tested, only three produced positive results. One clone was found to be MAM specific whilst 
+the other two, M4H2 and M4F5, were found to be WT/NP/MAM crosses (Table 4). However, as described in more detail 
+below, M4H2 proved to be unstable, like some of the hybridomas from the first MAM fusion. It eventually stabilised as 
+a MAM-specific clone. 
+
+Table 3: Clones derived from NP and MAM fusions with their respective specificity and RIA values 
+
+Clone 
+Binding of WT 
+125 I MAM 
+HBsAg (cpm) NP Clone specificity 
+
+*P2D3 
+4000 
+6000 
+3500 
+WT/NP/MAM cross 
+
+P2C6 
+neg 
+5000 
+3000 
+NP/MAM cross 
+
+P2H6 
+2000 
+neg 
+11000 
+NP/WT cross 
+
+P2H9 
+neg 
+neg 
+1000 
+NP only 
+
+P4C11 
+neg 
+neg 
+10000 
+NP only 
+
+P3E4 
+1000 
+neg 
+10000 
+NP/WT cross 
+
+*M3A10 
+3000 
+5000 
+2500 
+WT/NP/MAM cross 
+
+Control D2H5 
+7000 
+neg 
+2000 
+WT/NP cross 
+
+Control H3F5 
+6000 
+1000 
+neg 
+WT/MAM cross 
+
+Where P represents the hybridomas derived from the NP fusion and M represents the hybridomas derived 
+from the MAM fusion. 
+*Denotes three-way cross. 
+
+Table 4: Clones derived from second MAM fusion with their respective specificities and RIA values 
+
+Clone 
+Binding of WT 
+125 I MAM 
+HBsAg (cpm) NP Clone specificity 
+
+M4B12 
+neg 
+7000 
+neg 
+MAM only 
+
+**M4H2 
+9000 
+8000 
+1500 
+WT/NP/MAM cross 
+
+*M4F5 
+10000 
+9000 
+10000 
+WT/NP/MAM cross 
+
+Control D2H5 
+10000 
+neg 
+2000 
+WT/NP cross 
+
+
+EP 0 904 378 B1 
+
+14 
+
+5 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[0137] All three of the hybridomas displayed good cell growth and were cloned by limiting dilution. Cloning on this 
+occasion proved successful and all wells containing single colonies were tested in the reverse capture RIA with all three 
+of the labels. The clones were still found to be positive for anti-HBs activity. 
+[0138] Five positive clones were chosen for expansion. After further growth in culture, the clones were screened and 
+found to be still positive for anti-HBs production. 
+[0139] The final number of positive parent hybridomas and their antibody specificity and cross-reactivity obtained from 
+the NP and the two MAM fusions are shown in Table 5. 
+
+[0140] Further cross-competition studies were carried out using antibodies P2D3, M4F5 and M3A10 with WT, NP and 
+MAM HBsAg. Each of those antibodies cross-competed with each other, but did not cross-compete with any of the other 
+monoclonal antibodies raised. At this stage M4H2 still appeared to be a three-way cross. 
+[0141] These results further indicate that the monoclonal antibodies of the invention bind to a distinct epitope. 
+[0142] One positive clone from each hybridoma parent was chosen and injected into a previously pristane primed 
+Balb/c mouse. One to three weeks after the intraperitoneal inoculation, the ascitic fluid was harvested from the mice. 
+All clones successfully produced ascitic tumours in the mice. The quantity of ascitic fluid obtained from each mouse 
+varied from 1ml to 5ml. 
+[0143] More extensive cross-competition studies were carried out using various different antibodies, each with WT, 
+MAM and NP HBsAg. Those tests were carried out according to the reverse capture RIA protocol given above with the 
+following modifications: the microwells were coated with a goat polyclonal anti-HBs antibody. In each case 100 Pl of the 
+antigen were added and incubated overnight, then 50 Pl each of 125 I labelled and unlabelled monoclonal antibody were 
+added and binding was determined. The results are presented in Tables 6a, 6b and 6c. In those Tables, the labelled 
+antibodies are listed horizontally and the unlabelled antibodies are listed vertically. 
+
+(continued) 
+
+Clone 
+Binding of WT 
+125 I MAM 
+HBsAg (cpm) NP Clone specificity 
+
+Control H3F5 
+10000 
+7000 
+neg 
+WT/MAM cross 
+
+* Denotes three-way cross 
+** Initially found to be a three-way cross but was later found to be unstable and changed to a MAM-specific 
+clone, see below. 
+
+Table 5: Final number of clones with their respective specificities and RIA values. 
+
+Clone 
+Binding of WT 125 I MAM 
+HBsAg (cpm) NP Clone specificity 
+
+*P2D3 
+4000 
+6000 
+3500 
+WT/NP/MAM cross 
+
+P2C6 
+neg 
+5000 
+3000 
+NP/MAM cross 
+
+P2H6 
+2000 
+neg 
+11000 
+NP/WT cross 
+
+P2H9 
+neg 
+neg 
+1000 
+NP only 
+
+P4C11 
+neg 
+neg 
+10000 
+NP only 
+
+P3E4 
+1000 
+neg 
+10000 
+NP/WT cross 
+
+*M3A10 
+3000 
+5000 
+2500 
+WT/NP/MAM cross 
+
+M4B12 
+neg 
+7000 
+neg 
+MAM only 
+
+**M4H2 
+9000 
+8000 
+1500 
+WT/NP/MAM cross 
+
+*M4F5 
+10000 
+9000 
+10000 
+WT/NP/MAM cross 
+
+Control D2H5 
+10000 
+neg 
+2000 
+WT/NP cross 
+
+Control H3F5 
+10000 
+7000 
+neg 
+WT/MAM cross 
+
+Key to table 5: 
+* Denotes three-way cross 
+** Initially found to be a three-way cross but was later found to be unstable and changed 
+to a MAM-specific clone, see below. 
+
+
+EP 0 904 378 B1 
+
+15 
+
+5 
+10 
+15 
+20 
+25 
+30 
+35 
+40 
+45 
+50 
+55 
+
+Table 6a: WT HBsAg (1: 3K) 
+
+P4C11 
+P3E4 
+P2D3 
+P2H6 
+P2H9 
+P2C6 
+M4F5 
+M4H2 
+M3A10 
+D2H5 
+H3F5 
+
+P4C11 
+-
+-
+-
++++ 
+-
+-
+-
+-
+-
+-
+-
+
+P3E4 
+-
++++ 
+-
++++ 
+-
+-
+-
+-
+-
+-
+-
+
+P2D3 
+-
+-
++++ 
++++ 
+-
+-
++++ 
+-
++++ 
+-
+-
+
+P2H6 
+-
+-
+-
++++ 
+-
+-
+-
+-
+-
+-
+-
+
+P2H9 
+-
+-
+-
++++ 
+-
+-
+-
+-
+-
+-
+-
+
+P2C6 
+-
+-
+-
++++ 
+-
+-
+-
+-
+-
+-
+-
+
+M4F5 
+-
+-
++++ 
++ 
+-
+-
++++ 
+-
++++ 
+-
+-
+
+M4H2 
+-
+-
+-
++++ 
+-
+-
+-
+-
+-
+-
+-
+
+M3A10 
+-
+-
++++ 
++++ 
+-
+-
++++ 
+-
++++ 
+-
+-
+
+D 2 H 5 
+-
+-
+-
+-
+-
+-
+-
+-
+-
++ + + 
+-
+
+H 3 F 5 
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
++ + + 
+
+percentage binding 
+0.4 
+1.0 
+4.8 
+0.4 
+0.1 
+0.1 
+14 
+0.1 
+0.3 
+37 
+23 
+
++++ &gt; 75% inhibition 
+++ 50-75% inhibition 
+-&lt; 50% inhibition 
+
+
+EP 0 904 378 B1 
+
+16 
+
+5 
+10 
+15 
+20 
+25 
+30 
+35 
+40 
+45 
+50 
+55 
+
+Table 6b: MAM HBsAg (1.3k) 
+
+P4C11 
+P3E4 
+P2D3 
+P2H6 
+P2H9 
+P2C6 
+M4F5 
+M4H2 
+M3A10 
+D2H5 
+H3F5 
+
+P 4 C 1 1 
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+
+P3E4 
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+
+P2D3 
+-
+-
++++ 
+-
+-
+-
++++ 
+-
+++ 
+-
+++ 
+
+P 2 H 6 
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+
+P 2 H 9 
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+
+P 2 C 6 
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+
+M 4 F 5 
+-
+-
++ + + 
+-
+-
+-
++ + + 
+-
++ + 
+-
+-
+
+M 4 H 2 
+-
+-
+-
+-
+-
+-
+-
++ + + 
+-
+-
++ + 
+
+M 3 A 1 0 
+-
+-
++ + 
+-
+-
+-
++ + + 
+-
++ + 
+-
+-
+
+D2H5 
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+
+H3F5 
+-
+-
+-
+-
+-
+-
+-
++++ 
+-
+-
++++ 
+
+Percentage binding 
+0.1 
+0.3 
+6.7 
+0.4 
+0.3 
+2.2 
+21 
+14 
+0.8 
+0.2 
+23 
+
++++ &gt; 75% inhibition 
+++ 50-75% inhibition 
+-&lt; 50% inhibition 
+
+
+EP 0 904 378 B1 
+
+17 
+
+5 
+10 
+15 
+20 
+25 
+30 
+35 
+40 
+45 
+50 
+55 
+
+Table 6c: NP HBsAg (1: 150) 
+
+P4C11 
+P3E4 
+P2D3 
+P2H6 
+P2H9 
+P2C6 
+M4F5 
+M4H2 
+M3A10 
+D2H5 
+H3F5 
+
+P4C11 
++++ 
+-
+-
++++ 
+-
+-
+-
+++ 
+-
+-
+-
+
+P3E4 
+-
++++ 
+--
+-
++++ 
+-
+-
+-
+-
+-
+-
+
+P2D3 
+-
+-
++++ 
+++ 
+++ 
+-
++++ 
+-
+-
+-
+-
+
+P2H6 
++++ 
+-
+-
++++ 
+++ 
+-
+-
+++ 
+-
+-
+-
+
+P2H9 
+++ 
+-
+-
+++ 
+++ 
+-
+-
+++ 
+-
+-
+-
+
+P2C6 
+-
+-
+-
+-
+++ 
++++ 
+-
+++ 
+-
+-
+-
+
+M4F5 
+-
+-
++++ 
+-
+++ 
+-
++++ 
+-
+-
+-
+-
+
+M4H2 
+-
+-
+-
+-
+++ 
+-
+-
+-
+-
+-
+-
+
+M3A10 
+-
+-
+++ 
+-
+++ 
+-
+++ 
+-
+-
+-
+-
+
+D2H5 
+-
+-
+-
+-
+-
+-
+-
+-
+-
++++ 
+-
+
+H 3 F 5 
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+
+Percentage binding 
+6 
+3 
+2 
+9 
+0.3 
+0.9 
+4 
+0.2 
+0.1 
+21 
+0.4 
+
++++ &gt; 75% inhibition 
+++ 50-75% inhibition 
+-&lt; 50% inhibition 
+
+
+EP 0 904 378 B1 
+
+18 
+
+5 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[0144] The results shown in Tables 6a, 6b and 6c confirm that the three-way cross antibodies M4F5 and P2D3 are 
+binding to a common epitope. 
+[0145] M3A10 was found previously to be a three-way cross antibody (see Table 4). The fact that it is an IgA antibody 
+(see Section III. 4 below) may explain the poor binding results shown in Table 6a since this class of antibody (IgA) is 
+difficult to purify. 
+[0146] As shown above, the hybridoma M4H2, which was produced in the second MAM fusion, was initially found to 
+be a three-way cross (see Table 4). However, after further growth in culture, that hybridoma showed decreasing binding 
+to 125 I WT HBsAg and to 125 I NP HBsAg. Retesting for anti-HBs activity against the WT and NP HBsAg over a period 
+of time revealed negative results. However, M4H2 continued to recognise and bind strongly to the 125 I MAM HBsAg. It 
+appears therefore, that the clone specificity was initially unstable and with the passage of time has evolved to a MAM-
+specific antibody-secreting hybridoma. 
+[0147] Binding of 125 I-labelled antibodies to various different HBsAgs was measured using a RIA in which HBsAg was 
+immobilised to the solid phase (microwells) via a polyclonal goat anti-HBs coated on the microwells. The HBsAgs used 
+were WT, MAM and NP HBsAg, which have been described above, SP HBsAg and SZ HBsAg. SP HBsAg, which is 
+serotype adw, has a mutation in the codon for amino acid 143 leading to substitution of met for ser. In SZ HBsAg, 
+serotype adr, a mutation leads to substitution of arg for gly at position 145. (SP HBsAg is Mutant HBsAg IV and SZ 
+HBsAg is Mutant HBsAg III.) A pool of normal human sera that has been tested and found to be hepatitis B marker free 
+(NHS) was used as control. This is an example of an immunoassay according to the present invention. The results are 
+presented in Table 7 below. 
+
+[0148] These results show that the three-way cross antibodies detect wild type HBsAg and also HBsAg from various 
+different mutants, including mutant HBsAg different from that used for screening the antibodies. These results further 
+confirm that the three-way cross antibodies are binding to an epitope common to the wild type protein and to mutant 
+forms and demonstrate the utility of the antibodies in HBsAg assays. Using such antibodies it is possible to detect the 
+presence of escape mutants. 
+
+3: Isotyping of monoclonal antibodies 
+
+[0149] Isotyping of the monoclonal antibodies was carried out using a kit from Serotec. Each isotyping reagent consisted 
+of a purified rat monoclonal antibody specific for a single class-subclass of immunoglobulin, coupled to sheep red blood 
+cells. The coupled rat antibodies recognised the heavy chain portion of the mouse immunoglobulin. The principle of the 
+test system was based on red cell agglutination where a positive agglutinated result was produced when highly specific 
+antibody recognised and bound to the particular isotype to which it is directed. The binding formed a lattice on the bottom 
+of the microtitre plate well. A negative result was produced when the reagent cells were put into a supernatant containing 
+a class of antibody which they did not recognise. The reagent cells fell to the bottom of the well forming a small "button". 
+[0150] The isotype of the monoclonal antibodies are shown in Table 8. 
+
+Table 7 
+
+HBsAg 
+% Binding of 125 I-anti mutant MAb 
+P2D3 
+M4F5 
+M4H2 
+P4C11 
+(3 x crosses) 
+(MAM specific) (NP specific) 
+
+WT 
+12 
+15 
+0.6 
+0.1 
+
+MAM 
+13 
+20 
+31 
+0.2 
+
+NP 
+10 
+12 
+0.2 
+10 
+
+SP 
+23 
+26 
+0.5 
+0.4 
+
+SZ 
+25 
+30 
+0.4 
+0.5 
+
+NHS 
+0.3 
+0.2 
+0.4 
+0.3 
+
+nt = not tested 
+
+Table 8: Immunoglobulin classes of monoclonal antibodies 
+
+Monoclonal Antibody 
+Immunoglobulin Class 
+
+P4C11 
+IgG1 
+
+
+EP 0 904 378 B1 
+
+19 
+
+5 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+4: SPE analysis and purification of anti-HBs from ascitic fluid 
+
+[0151] Monoclonal protein was demonstrated in the ascitic fluid of all of the clones by serum protein electrophoresis. 
+The electrophoretic mobility of the monoclonal protein band varied slightly for each different monoclonal ascitic fluid, but 
+was identical for different batches of ascitic fluid obtained from the same clone. The disparity in migration distance 
+between clones was a result of the differing ionic charges on the monoclonal proteins. The intensity of staining observed 
+in the SPE monoclonal band gave an indication of the quantity of monoclonal protein present. This varied between ascitic 
+fluid which had been harvested from different clones. A SPE band, however, was not seen with M4B12, the MAM specific 
+monoclonal antibody. When the recovered ascitic fluid was tested in the RIA for anti-HBs activity, a negative result was 
+given; all the other ascitic fluids gave the expected positive results. As before the MAM specific monoclonal antibody 
+was proving to be unstable changing from a positive secreting hybridoma to a negative. (The M4B12 parent hybridoma 
+has since been recloned and will be retested). 
+[0152] Preparation of immunoglobulin from the ascitic fluids was carried out as described in sections III, 3 and III, 4 
+above. Immunoglobulin G was prepared by ion exchange chromatography on DE52 whilst IgA was separated on a 
+Sephacryl column. Three separate protein peaks were obtained when increasing the ionic strength from 10mM to 30mM 
+and finally 60mM PB for each monoclonal ascitic fluid. The size of the peaks varied from one monoclonal fluid to another. 
+Eluent was collected at each peak. The anti-HBs IgG/IgA in the different buffer concentrations were then measured in 
+the reverse capture assay with 125 I MAM HBsAg, 125 I NP HBsAg and 125 I WT HBsAg. The assay allowed a direct 
+comparison of results between different buffer fractions to be made. From the assay, it was possible to choose the 
+fraction showing the highest anti-HBs activity. The protein concentrations of the chosen fractions were determined (Table 
+9). The quantity of IgG/IgA obtained from each monoclonal antibody varied between each batch of ascitic fluid harvested. 
+
+(continued) 
+
+Monoclonal Antibody 
+Immunoglobulin Class 
+
+P3E4 
+IgG1 
+
+*P2D3 
+IgG1 
+
+P2H6 
+IgG1 
+
+P2H9 
+IgG2 
+
+P2C6 
+IgG1 
+
+*M3A10 
+IgA 
+
+**M4H2 
+IgG1 
+
+M4B12 
+IgG1 
+
+*M4F5 
+IgG1 
+
+* Denotes three-way cross 
+** Initially found to be a three-way cross but was later found to 
+be unstable and changed to a MAM-specific clone, see below. 
+
+Table 9: Quantity of IgG/IgA harvested from 1ml of each monoclonal ascitic fluid 
+
+Monoclonal antibody 
+Quantity of IgG/IgA from 1ml of ascitic fluid (mg/ml-1) 
+
+P4C11 
+4.00 
+
+P3E4 
+4.40 
+
+*P2D3 
+1.14 
+
+P2H6 
+2.40 
+
+P2H9 
+0.90 
+
+P2C6 
+3.00 
+
+*M4F5 
+1.00 
+
+**M4H2 
+1.70 
+
+
+EP 0 904 378 B1 
+
+20 
+
+5 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[0153] The intensity of the monoclonal band staining in SPE showed strong positive correlation to the protein concen-
+tration results in Table 7. For example P4C11 showed a very darkly stained band in SPE and had a high protein 
+concentration whilst P2H9 showed a faintly stained band and had a low protein concentration. 
+
+GENERAL DISCUSSION 
+
+[0154] The results of HBsAg detection assays have confirmed that as a result of mutations, HBsAg in serum may not 
+be detected by some monoclonal antibody based systems. Such mutations may cause the failure of either the capture 
+antibody or the conjugated detection antibody to bind. These results show the importance of testing for a second marker 
+in suspected cases of HBV infections when the initial screening test for HBsAg is negative. Both NP and MAM would 
+have shown an anti-HBc only profile if tested for HBsAg with a monoclonal-based assay. The presence of HBsAg in the 
+samples was revealed on testing by polyclonal based systems. 
+[0155] A mutation at amino acid 145 (glycine to lysine) was detected in patient MAM. Although this mutation was 
+different from that previously described in vaccine escape mutants (glycine to arginine), the amino acid substitution was 
+such that the predicted effect on the antigen structure is similar. 
+[0156] Patient NP did not have a mutation at codon 145 but multiple mutations as with patient MAM. Which of the 
+mutations is responsible for the loss of detectability has not been determined. Interestingly in patient MAM the nucleotide 
+sequences did not vary with change in HBsAg specificity in the HBsAg detection assays. This may have been due to 
+the emergence of wild type virus present at less than 15-20% of the total viral load, the limit of detection by direct 
+sequence analysis. 
+[0157] The production of monoclonal antibodies against the mutant hepatitis B surface antigens was successful. The 
+number of clones produced in the NP and initial MAM fusion and the relative distribution of the specificities of the resulting 
+antibodies were favourable. In order to identify anti-HBs secreting hybridomas, a sensitive but quick screening assay 
+was required. An IgG reverse capture radioimmunoassay was chosen. The assay, though simple to set up, is capable 
+of a very low background and a large dynamic range. The relative binding by positive clones of the labelled wild type 
+and mutant HBsAg were unambiguously high and consistent giving reliable results. 
+[0158] Screening the hybridomas was initially carried out testing those clones derived from the MAM fusion with 125 I 
+MAM HBsAg and the NP clones with 125 I NP HBsAg. Results of this assay gave an indication of those clones specifically 
+producing anti-HBs which were recognising and thus binding to the MAM HBsAg or the NP HBsAg. All clones produced 
+as a result of the two fusions were then tested with 125 I WT HBsAg. No single clone gave a positive reaction to the WT 
+HBsAg only. Either MAM/WT crosses or NP/WT crosses were found. 
+[0159] It was therefore possible to identify those clones which were recognising the MAM HBsAg or the NP HBsAg. 
+Those clones which were also binding to the NP and WT HBsAg were also identified. To test for any cross reactivity 
+between the hybridomas the clones produced from the MAM fusion were tested with the 125 I NP HBsAg and vice versa. 
+As a result of the screening assays, it was possible to categorise the clones as is listed in the Results section. 
+[0160] Positive controls included in the assay were two known WT HBsAg monoclonal antibodies, H3F5 and D2H5 
+whilst negative controls were PBS and 3D3F2, an anti-HIV gag monoclonal. As expected when used in the 125 I WT 
+HBsAg RIA, both H3F5 and D2H5 gave strong positive results. However when tested against 125 I MAM HBsAg only 
+H3F5 gave a positive reading and was negative when tested with 125 I NP HBsAg. D2H5 though produced a positive 
+signal with 125 I NP HBsAg but was very weak when tested against 125 I MAM HBsAg. Mutations in the MAM HBsAg 
+eliminated the epitope for D2H5 whilst those in the NP HBsAg eliminated the H3F5 epitope. 
+[0161] The results obtained on testing with the SP and SZ mutant HBsAg show that the three-way cross antibodies 
+are capable of detecting other mutant forms of HBsAg in addition to those used in the screening process. This confirms 
+that the antibodies are binding to an epitope that is conserved between the wild type protein and mutant forms, and 
+thereby confirms the value of including such antibodies in an HBsAg assay. 
+[0162] Although some of the hybridomas from the MAM fusions proved to be unstable, sucessful three-way crosses 
+were obtained readily from both the MAM and NP fusions. Mutant forms of HBsAg other than the MAM and NP forms 
+may be used for raising and/or for screening monoclonal antibodies according to the protocols described above. 
+Note: Figure 1b is a typescript version of Figure la. In the case of any discrepancy between Figure 1a and Figure 1b, 
+
+(continued) 
+
+Monoclonal antibody 
+Quantity of IgG/IgA from 1ml of ascitic fluid (mg/ml-1) 
+
+*M3A10 
+2.00 
+
+* Denotes three-way cross 
+** Initially found to be a three-way cross but was later found to be unstable and changed to a MAM-
+specific clone, see below. 
+
+
+EP 0 904 378 B1 
+
+21 
+
+5 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Figure 1a shall be taken as the authentic version. 
+
+Reagents 
+
+[0163] 
+
+0.02M Tris buffer pH7.6 (Tris buffer) 
+
+[0164] 
+
+0.02M Tris BSA buffer 
+
+[0165] Add 0.5% BSA to 0.02M Tris buffer pH7.6. 
+
+0.2M Phosphate buffer (PB) 
+
+[0166] 
+
+Solution A = 0.2M KH 2 PO 4 
+Solution B = 0.2M Na 2 HPO 4 
+
+Take 200ml solution B. Adjust pH to 8.0 with solution A. 
+
+10, 20, 30 and 60 mM PB 
+
+[0167] 
+
+For 10mM PB dilute 0.2M PB 1: 20 in distilled water 
+For 30mM PB dilute 0.2M PB 1: 6.6 in distilled water 
+For 60mM PB dilute 0.2M PB 1: 3.3 in distilled water 
+
+Complete Medium 
+Incomplete Medium 
+
+RPMI supplemented with 
+RPMA supplemented with 5mM Hepes buffer 2nM L-glutamine 
+5mM 
+Hepes buffer 
+2Mm 
+L-glutamine 
+0.05M 
+2-Mercaptoethanol 
+20% v/v 
+fetal calf serum 
+25Pg/ml -1 
+Fungizone 
+102 units ml -1 
+Penicillin 
+100Pg ml -1 
+Streptomycin 
+
+HAT medium 
+HT medium 
+
+Complete medium plus 
+Complete medium plus 
+510 -5 M hypoxanthine 
+5x10 -3 hypoxanthine 
+210 -3 M aminopterin 
+8x10 -4 thymidine 
+810 -4 M thymidine 
+
+Sodium azide 
+1.00g 
+Tris (hydroxymethyl) methylamine 2.42g 
+Distilled water 
+900ml 
+
+Adjust pH to 7.6 with concentrated HCl and 
+make that buffer up to 1 litre. 
+
+
+EP 0 904 378 B1 
+
+22 
+
+5 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+REFERENCES 
+
+[0168] 
+
+CAMERON, C. H., COMBRIDGE, B. S., HOWELL, D. R., BARBARA, J. A. J. (1980). A sensitive immunoradiometric 
+assay for the detection of hepatitis B surface antigen. J. Virol. Meth. 1: 311-323. 
+
+CARMEN, W. F., McINTYRE, G., KLEIN, H. (1992). Mutation of HBsAg in homograft recipients receiving hyperim-
+mune globulin. J. Hepatology. 16: 59 
+
+CARMEN, W. F., WALLACE, L., KORULA, J., MacPHEE, R., DECKER, R. (1993).Natural occurrence of arginine 
+at amino acid 145 of HBsAg undetected by current assays, causing fulminant hepatitis (abstract). Abstracts of the 
+1993 International Symposium on Viral Hepatitis and Liver Disease. Tokyo 10-14 May, p289. 
+
+HARRISON, T. J., HOPES, E. A. , YI, Z., KEOW, L. G. OON, C. J., ZUCKERMAN, A. J. (1993). Mutations in hepatitis 
+B virus in carriers with co-existent surface antigen and antibody (abstract). Abstracts of the 1993 International 
+Symposium on Viral Hepatitis and Liver Disease. Tokyo 10-14 May p: 124. 
+
+HOWARD, C. R. KARTHIGESU, V., ALLISON, F., FORTUIN, M., WHITTLE, H. (1993). Hepatitis B virus variants 
+with altered a determinants causing infections in immunised children (abstract). Abstracts of the 1993 International 
+Symposium on Viral Hepatitis and Liver Disease. Tokyo 10-14 May p: 75. 
+
+HAWKINS, A. E., GILSON, R. J. C., BEATH, S. V., BOXALL, E. H., KELLY, D. A., TEDDER, R. S., WELLER, I. V. 
+D. (1994). Novel application of a point mutation assay: Evidence for transmission of hepatitis B viruses with precore 
+mutations and their detection in infants with fulminant hepatitis B. J. Med. Virol. 44: 13-21. 
+
+KEARNEY, J. F., RADBRUCH, A., LIESEGANG, B., RAJEWSK, K. (1979). A new mouse myeloma cell line that 
+has lost immunoglobulin expression but permits the construction of antibody-secreting hybrid cell lines. J. Immunol. 
+123: 439-450. 
+
+KEMENY D.M. &amp; CHALLACOMBE S.J. (Eds). ELISA and Other Solid Phase Immunoassays, Theoretical and Prac-
+tical Aspects. John Wiley, 1988. 
+
+KOHLER &amp; MILSTEIN (1975) Nature 256: 494 
+
+McMAHON, G., ERLICH, P. H., MOUSTAFA, Z. A., McCARTHY, L. A. DOTTAVIO, D., TOLPIN, M. D., NALDER, 
+P. I., OSTBERG, L. (1992). Genetic alterations in the gene encoding the major HBsAg DNA and immunological 
+analysis of recurrent HBsAg derived from monoclonal antibody-treated liver transplant patients. Hepatology. 15: 757 
+
+OKAOMOTO, H., YONO, N., NAZAKI, Y. (1992). Mutations within the S gene of hepatitis B virus transmitted from 
+mothers to babies immunised with hepatitis B immune globulin and vaccine. Pediat. Res. 32: 264. 
+
+PUGH, J. et al. (1986) J. Med. Virol. 20: 229-246 
+
+SALACINSKI, P, HOPE, J, McCLEAN, J, CLEMENT-JONES, C, SYKES, J., PRICE, J., LOWRY, P. J. (1979). A 
+new simple method which allows theoretical incorporation of radioiodine into proteins and peptides without damage. 
+J. Endocrinol. 81: 131-137. 
+
+TSU, T.T. &amp; HERZENBERG, L.A. (1980) Solid Phase Radioimmunoassay In "Selected Methods In Cellular Immu-
+nology; Mishell, B.B. &amp; Shiigi, S.M. Eds. pages 373-397. Freeman, San Francisco. 
+
+VALENZUELA et al. Nature 280: 815 (1979) 
+
+Claims 
+
+1. Monoclonal antibody P2D3 as produced by the hybridoma designated P2D3 and deposited at the ECACC under 
+accession number 97042331, or a monoclonal antibody that cross-competes with monoclonal antibody P2D3 for 
+
+
+EP 0 904 378 B1 
+
+23 
+
+5 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+binding to a wild type hepatitis B surface antigen, also termed HBsAg, and to at least two mutant forms of HBsAg, 
+wherein the mutant forms of HBsAg have an amino acid substitution relative to wild type HBsAg within the sequence 
+encoding amino acids 133 to 145 of HBsAg. 
+
+2. A monoclonal antibody as claimed in claim 1, wherein a mutant form of HBsAg has the sequence of HBsAg present 
+in an HBV escape mutant. 
+
+3. A monoclonal antibody as claimed in claim 1 or claim 2, wherein the amino acid substitution results from a point 
+mutation. 
+
+4. A monoclonal antibody as claimed in any one of claims 1 to 3, wherein a mutant HBsAg has an amino acid substitution 
+relative to wild type HBsAg at more than one of positions 133, 134, 141, 142, 143, 144 and 145. 
+
+5. A monoclonal antibody as claimed in one of claims 1 to 3, wherein the substitution is at any one or more of positions 
+143, 144 and 145. 
+
+6. A monoclonal antibody as claimed in claim 1 that cross-competes with monoclonal antibody P2D3 for binding to a 
+wild type HBsAg and to at least two of the following mutant forms of HBsAg: 
+
+Mutant HBsAg I, also termed "NP" HBsAg: subtype ayw, mutations met to ile at amino acid 133; phe to his at 
+amino acid 134; and asp to val at amino acid 144; 
+Mutant HBsAg II ("MAM" HBsAg): subtype adr, mutations met to ile at amino acid 133; phe to asn at amino acid 
+134; pro to ser at amino acid 142; ser to leu at amino acid 143; and gly to lys at amino acid 145; 
+Mutant HBsAg III, also termed "SZ" HBsAg: subtype adr, mutation gly to arg at amino acid 145; 
+Mutant HGsAg IV, also termed "SP" HBsAg: subtype adw, mutation ser to met at amino acid 143. 
+
+7. A monoclonal antibody as claimed in claim 1, which is monoclonal antibody M3A10 as produced by the hybridoma 
+designated M3A10 and deposited at the ECACC under accession number ECACC 97042330. 
+
+8. A monoclonal antibody as claimed in claim 1, which is monoclonal antibody M4F5 as produced by the hybridoma 
+designated M4F5 and deposited at the ECACC under accession number ECACC 97042519. 
+
+9. A monoclonal antibody as claimed in any one of claims 1 to 8, in a humanized form. 
+
+10. A fragment or a derivative of a monoclonal antibody as claimed in any one of claims 1 to 9, which fragment or 
+derivative cross-competes with monoclonal antibody P2D3 for binding to wild type HBsAg and to at least two mutant 
+forms of HBsAg. 
+
+11. A method of producing a hybridoma capable of producing a monoclonal antibody as claimed in any one of claims 
+1 to 9, which comprises immunizing an animal with a wild type HBsAg or a mutant form of HBsAg antigen, optionally 
+in the form of an appropriate antigenic fragment or derivative thereof, immortalizing antibody producing cells to form 
+hybridomas, screening the hybridoma cultures for cross-competion with monoclonal antibody P2D3 or a monoclonal 
+antibody as claimed in any one of claims 2 to 4 for binding to a wild type HBsAg and two or more mutant forms of 
+HBsAg, optionally in the form of an appropriate antigenic fragment or derivative thereof, and selecting those hybri-
+domas that produce antibodies that cross-compete. 
+
+12. A hybridoma capable of producing a monoclonal antibody as claimed in any one of claims 1 to 9. 
+
+13. Hybridoma designated P2D3 and deposited at the ECACC under accession number ECACC 97042331. 
+
+14. Hybridoma designated M3A10 and deposited at the ECACC under accession number ECACC 97042330. 
+
+15. Hybridoma designated M4F5 and deposited at the ECACC under accession number ECACC 97042519. 
+
+16. A method of producing a monoclonal antibody as claimed in any one of claims 1 to 9 which comprises culturing, in 
+vitro or in vivo, a hybridoma as claimed in any one of claims 12 to 15 or as obtained by a method as claimed in claim 
+11, and obtaining the monoclonal antibody from the culture medium. 
+
+
+EP 0 904 378 B1 
+
+24 
+
+5 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+17. An immunoassay for the detection of HBsAg, which comprises contacting a sample under investigation with a 
+monoclonal antibody as claimed in any one of claims 1 to 9, a fragment or derivative thereof as claimed in claim 10, 
+or a combination of two or more thereof, and detecting any resulting antigen-antibody complex. 
+
+18. An immunoassay as claimed in claim 17, wherein the monoclonal antibody, fragment, derivative or combination 
+thereof is used in combination with one or more other antibodies selected from polyclonal anti-HBs antibodies and 
+other monoclonal anti-HBs antibodies. 
+
+19. An immunoassay as claimed in claim 17 or claim 18 in a homogeneous or heterogeneous format. 
+
+20. An immunoassay as claimed in claim 19, in a capture or competitive format. 
+
+21. An immunoassay as claimed in any one of claims 17 to 20, wherein an immunoassay for the detection of antibodies 
+to hepatitis B core protein (HBc) is carried out simultaneously with the assay for HBsAg. 
+
+22. An immunoassay kit that comprises a monoclonal antibody as claimed in any one of claims 1 to 9, a fragment or 
+derivative thereof as claimed in claim 10, or a combination of two or more thereof, and other reagents required for 
+carrying out an immunoassay for HBsAg and optionally also reagents for detecting anti-HBc antibodies. 
+
+23. A kit as claimed in claim 22, which also comprises reagents for detecting anti-HBc antibodies. 
+
+24. A kit as claimed in claim 22 or claim 23, which also comprises further anti-HBs antibodies selected from the group 
+consisting of polyclonal anti-HBs antibodies and monoclonal anti-HBs antibodies. 
+
+25. A kit as claimed in any one of claims 22 to 24, wherein the reagents required for carrying out an immunoassay for 
+HBsAg are selected from washing solutions, diluents, standard solutions, control reagents and labeled anti-HBs 
+antibodies. 
+
+26. A solid phase, suitable for use in an immunoassay, on which is immobilized a monoclonal antibody as claimed in 
+any one of claims 1 to 9, a fragment or derivative thereof as claimed in claim 10, or a combination of two or more thereof. 
+
+27. A solid phase as claimed in claim 26, wherein one or more further anti-HBs antibodies selected from polyclonal anti-
+HBs antibodies and other monoclonal anti-HBs antibodies are also immobilised on the solid phase. 
+
+28. A solid phase as claimed in claim 26 or claim 27 on which is also immobilised an agent that captures anti-HBc 
+antibodies. 
+
+29. A composition suitable for use therapeutically or prophylactically for passive immunization against HBV which com-
+prises a monoclonal antibody as claimed in any one of claims 1 to 9, a fragment or derivative as claimed in claim 
+10, or a combination of two or more thereof, in admixture with a pharmaceutically suitable carrier. 
+
+30. A composition as claimed in claim 29 which also comprises further antibodies selected from the group consisting 
+of polyclonal anti-HBs antibodies and monoclonal anti-HBs antibodies. 
+
+31. An anti-idiotype antibody to a monoclonal antibody as claimed in any one of claims 1 to 9, or a fragment or derivative 
+thereof as claimed in claim 10. 
+
+Patentansprüche 
+
+1. Monoklonaler Antikörper P2D3, hergestellt durch das als P2D3 bezeichnete und bei der ECACC unter der Zugangs-
+nummer 97042331 hinterlegte Hybridoma, oder ein monoklonaler Antikörper, der mit dem monoklonalen Antikörper 
+P2D3 um die Bindung an ein Wildtyp-Hepatitis-B-Oberflächenantigen, auch HBsAg genannt, und an zumindest 
+zwei mutierte Formen von HBsAg kreuzkonkurriert, wobei die mutierten Formen von HBsAg eine Aminosäuresub-
+stitution innerhalb der Sequenz, welche die Aminosäuren 133 bis 145 von HBsAg kodiert, relativ zum Wildtyp-HBsAg 
+haben. 
+
+2. Monoklonaler Antikörper wie in Anspruch 1 beansprucht, wobei eine mutierte Form von HBsAg die Sequenz von 
+
+
+EP 0 904 378 B1 
+
+25 
+
+5 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+HBsAg enthält, die in einer HBV-Escapemutante vorhanden ist. 
+
+3. Monoklonaler Antikörper wie in Anspruch 1 oder Anspruch 2 beansprucht, wobei die Aminosäuresubstitution aus 
+einer Punktmutation resultiert. 
+
+4. Monoklonaler Antikörper wie in einem der Ansprüche 1 bis 3 beansprucht, wobei eine HBsAg-Mutante eine Ami-
+nosäuresubstitution an mehr als einer der Positionen 133, 134, 141, 142, 143, 144 und 145 relativ zum Wildtyp-
+HBsAg hat. 
+
+5. Monoklonaler Antikörper wie in einem der Ansprüche 1 bis 3 beansprucht, wobei die Substitution an einer oder 
+mehreren der Stellen 143, 144 und 145 ist. 
+
+6. Monoklonaler Antikörper wie in Anspruch 1 beansprucht, der mit dem monoklonalen Antikörper P2D3 um die Bindung 
+an ein Wildtyp-HBsAg und an zumindest zwei der folgenden mutierten Formen von HBsAg kreuzkonkurriert: 
+
+Mutante HBsAg I, auch "NP"-HBsAg genannt: Untertyp ayw, Mutationen met zu ile an Aminosäure 133, phe 
+zu his an Aminosäure 134 und asp zu val an Aminosäure 144, 
+Mutant HBsAg II ("MAM"-HBsAg): Untertyp adr, Mutationen met zu ile an Aminosäure 133, phe zu asn an 
+Aminosäure 134, pro zu ser an Aminosäure 142, ser zu leu an Aminosäure 143 und gly zu lys an Aminosäure 145, 
+Mutant HBsAg III, auch "SZ"-HBsAg genannt: Untertyp adr, Mutation gly zu arg an Aminosäure 145, 
+Mutant HBsAg IV, auch "SP"-HBsAg genannt: Untertyp adw, Mutation ser zu met an Aminosäure 143. 
+
+7. Monoklonaler Antikörper wie in Anspruch 1 beansprucht, welcher der monoklonale Antikörper M3A10 ist, hergestellt 
+durch das als M3A10 bezeichnete und bei der ECACC unter der Zugangsnummer ECACC 97042330 hinterlegte 
+Hybridoma. 
+
+8. Monoklonaler Antikörper wie in Anspruch 1 beansprucht, welcher der monoklonale Antikörper M4F5 ist, hergestellt 
+durch das als M4F5 bezeichnete und bei der ECACC unter der Zugangsnummer ECACC 97042519 hinterlegte 
+Hybridoma. 
+
+9. Monoklonaler Antikörper wie in einem der Ansprüche 1 bis 8 beansprucht in humanisierter Form. 
+
+10. Ein Fragment oder Derivat eines monoklonalen Antikörpers wie in einem der Ansprüche 1 bis 9 beansprucht, wobei 
+das Fragment oder Derivat mit dem monoklonalen Antikörper P2D3 um die Bindung an Wildtyp-HBsAg und an 
+zumindest zwei mutierte Formen von HBsAg kreuzkonkurriert. 
+
+11. Verfahren zur Herstellung eines Hybridomas, das zur Herstellung eines monoklonalen Antikörpers wie in einem der 
+Ansprüche 1 bis 9 beansprucht fähig ist, aufweisend das Immunisieren eines Tieres mit einem Wildtyp-HBsAg-oder 
+einer mutierten Form von HBsAg-Antigen, wahlweise in der Form eines geeigneten Antigen-Fragments oder Derivats 
+davon, Immortalisieren der Antikörper erzeugenden Zellen um Hybridomas zu bilden, Screenen der Hybridomakul-
+turen auf Kreuzkonkurrenz mit monoklonalem Antikörper P2D3 oder einem monoklonalen Antikörper, wie er in 
+einem der Ansprüche 2 bis 4 für die Bindung an ein Wildtyp-HBsAg und zwei oder mehr mutierten Formen von 
+HBsAg beansprucht ist, wahlweise in der Form eines geeigneten Antigen-Fragments oder Derivats davon und 
+Auswählen von solchen Hybridomas, die Antikörper erzeugen, die kreuzkonkurrieren. 
+
+12. Hybridoma, das für die Herstellung eines monoklonalen Antikörpers wie in einem der Ansprüche 1 bis 9 beansprucht 
+fähig ist. 
+
+13. Hybridoma, das als P2D3 bezeichnet und bei der ECACC unter der Zugangsnummer ECACC 97042331 hinterlegt ist. 
+
+14. Hybridoma, das als M3A10 bezeichnet und bei der ECACC unter der Zugangsnummer ECACC 97042330 hinterlegt 
+ist. 
+
+15. Hybridoma, das als M4F5 bezeichnet und bei der ECACC unter der Zugangsnummer ECACC 97042519 hinterlegt ist. 
+
+16. Verfahren zur Herstellung eines monoklonalen Antikörpers wie in einem der Ansprüche 1 bis 9 beansprucht, auf-
+weisend das Kultivieren eines Hybridomas wie in einem der Ansprüche 12 bis 15 beansprucht oder erhalten durch 
+ein Verfahren wie in Anspruch 11 beansprucht, in vitro oder in vivo, und Erhalten des monoklonalenAntikörpers aus 
+
+
+EP 0 904 378 B1 
+
+26 
+
+5 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+dem Kulturmedium. 
+
+17. Immunoassay für die Bestimmung von HBsAg, aufweisend das in Kontakt bringen einer zu untersuchenden Probe 
+mit einem monoklonalen Antikörper wie in einem der Ansprüche 1 bis 9 beansprucht, einem Fragment oder Derivat 
+davon wie in Anspruch 10 beansprucht, oder eine Kombination aus zwei oder mehreren davon und Bestimmen von 
+irgendeinem resultierenden Antigen-Antikörper-Komplex. 
+
+18. Immunoassay wie in Anspruch 17 beansprucht, wobei der monoklonale Antikörper, das Fragment, Derivat oder 
+Kombination davon, in Kombination mit einem oder mehreren anderen Antikörpern, ausgewählt aus polyklonalen 
+Anti-HBs-Antikörpern und anderen monoklonalen Anti-HBs-Antikörpern verwendet wird. 
+
+19. Immunoassay wie in Anspruch 17 oder Anspruch 18 beansprucht, in einem homogenen oder heterogenen Format. 
+
+20. Immunoassay wie in Anspruch 19 beansprucht in einem Capture-oder kompetitiven Format. 
+
+21. Immunoassay wie in einem der Ansprüche 17 bis 20 beansprucht, wobei ein hnmunoassay für die Bestimmung von 
+Antikörpern für Hepatitis-B-Kernprotein (HBc) gleichzeitig mit dem Assay für HBsAg ausgeführt wird. 
+
+22. Immunoassaykit, aufweisend einen monoklonalen Antikörper wie in einem der Ansprüche 1 bis 9 beansprucht, ein 
+Fragment oder Derivat davon, wie in Anspruch 10 beansprucht, oder eine Kombination aus zwei oder mehreren 
+davon, sowie anderen Reagenzien, die für das Ausführen eines Immunoassays für HBsAg erforderlich sind und 
+wahlweise auch Reagenzien für die Bestimmung von Anti-HBc-Antikörpern. 
+
+23. Kit wie in Anspruch 22 beansprucht, das auch Reagenzien für die Bestimmung von Anti-HBc-Antikörpern aufweist. 
+
+24. Kit wie in Anspruch 22 oder Anspruch 23 beansprucht, welches auch weitere Anti-HBs-Antikörper aufweist, ausge-
+wählt aus der Gruppe bestehend aus polyklonalen Anti-HBs-Antikörpern und monoklonalen Anti-HBs-Antikörpern. 
+
+25. Kit wie in einem der Ansprüche 22 bis 24 beansprucht, wobei die Reagenzien, die für das Ausführen eines Immun-
+oassays für HBsAg erforderlich sind, ausgewählt werden aus Waschlösungen, Verdünnungsmitteln, Standardlö-
+sungen, Kontrollreagenzien und markierten Anti-HBs-Antikörpern. 
+
+26. Feste Phase, geeignet für die Verwendung in einem Immunoassay, auf welcher ein monoklonaler Antikörper wie 
+in einem der Ansprüche 1 bis 9 beansprucht, ein Fragment oder Derivat davon, wie in Anspruch 10 beansprucht, 
+oder eine Kombination aus zwei oder mehreren davon immobilisiert ist. 
+
+27. Feste Phase wie in Anspruch 26 beansprucht, wobei ein oder mehrere weitere Anti-HBs-Antikörper, ausgewählt 
+aus polyklonalen Anti-HBs-Antikörpern und anderen monoklonalen Anti-HBs-Antikörpem, ebenfalls auf der festen 
+Phase immobilisiert werden. 
+
+28. Feste Phase wie in Anspruch 26 oder Anspruch 27 beansprucht, auf welcher auch ein Mittel immobilisiert ist, das 
+Anti-HBc-Antikörper einfängt. 
+
+29. Zusammensetzung, geeignet für die therapeutische oder prophylaktische Verwendung für die passive Immunisie-
+rung gegen HBV, aufweisend einen monoklonalen Antikörper wie in einem der Ansprüche 1 bis 9 beansprucht, ein 
+Fragment oder Derivat wie in Anspruch 10 beansprucht, oder eine Kombination von zwei oder mehreren davon in 
+einer Mischung mit einem pharmazeutisch geeigneten Träger. 
+
+30. Zusammensetzung wie in Anspruch 29 beansprucht, die auch weitere Antikörper aufweist, ausgewählt aus der 
+Gruppe bestehend aus polyklonalen Anti-HBs-Antikörpern und monoklonalen Anti-HBs-Antikörpern. 
+
+31. Anti-idiotypischer Antikörper zu einem monoklonalen Antikörper wie in einem der Ansprüche 1 bis 9 beansprucht 
+oder einem Fragment oder Derivat davon, wie in Anspruch 10 beansprucht. 
+
+Revendications 
+
+1. Anticorps monoclonal P2D3 tel que produit par l'hybridome nommé P2D3 et déposé auprès de l'ECACC sous le 
+
+
+EP 0 904 378 B1 
+
+27 
+
+5 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+numéro d'accession 97042331, ou anticorps monoclonal qui entre en compétition croisée avec l'anticorps mono-
+clonal P2D3 pour la liaison à un antigène de surface de l'hépatite B de type sauvage, également appelé Ag HBs, 
+et à au moins deux formes mutantes de l'Ag HBs, où les formes mutantes de l'Ag HBs présentent une substitution 
+d'acide aminé par rapport à l'Ag HBs de type sauvage au sein de la séquence codant pour les acides aminés 133 
+à 145 de l'Ag HBs. 
+
+2. Anticorps monoclonal selon la revendication 1, où une forme mutante de l'Ag HBs a la séquence de l'Ag HBs 
+présente dans un mutant d'évasion VHB. 
+
+3. Anticorps monoclonal selon la revendication 1 ou la revendication 2, où la substitution d'acide aminé résulte d'une 
+mutation ponctuelle. 
+
+4. Anticorps monoclonal selon l'une quelconque des revendications 1 à 3, où un Ag HBs mutant présente une subs-
+titution d'acide aminé par rapport à l'Ag HBs de type sauvage au niveau de plus d'une des positions 133, 134, 141, 
+142, 143, 144 et 145. 
+
+5. Anticorps monoclonal selon l'une des revendications 1 à 3, où la substitution se situe au niveau de l'une quelconque 
+ou de plusieurs des positions 143, 144 et 145. 
+
+6. Anticorps monoclonal selon la revendication 1, qui entre en compétition croisée avec l'anticorps monoclonal P2D3 
+pour la liaison à un Ag HBs de type sauvage et à au moins deux des formes mutantes suivantes de l'Ag HBs : 
+
+Ag HBs mutant I, également nommé Ag HBs "NP" : sous-type ayw, mutations de met en ile au niveau de l'acide 
+aminé 133 ; phe en his au niveau de l'acide aminé 134 ; et asp en val au niveau de l'acide aminé 144 ; 
+Ag HBs mutant II (Ag HBs "MAM") : sous-type adr, mutations de met en ile au niveau de l'acide aminé 133 ; 
+phe en asn au niveau de l'acide aminé 134 ; pro en ser au niveau de l'acide aminé 142 ; ser en leu au niveau 
+de l'acide aminé 143 ; et gly en lys au niveau de l'acide aminé 145 ; 
+Ag HBs mutant III, également nommé Ag HBs "SZ" : sous-type adr, mutation de gly en arg au niveau de l'acide 
+aminé 145 ; 
+Ag HBs mutant IV, également nommé Ag HBs "SP" : sous-type adw, mutation de ser en met au niveau de 
+l'acide aminé 143. 
+
+7. Anticorps monoclonal selon la revendication 1, qui est l'anticorps monoclonal M3A10 tel que produit par l'hybridome 
+appelé M3A10 et déposé auprès de l'ECACC sous le numéro d'accession ECACC 97042330. 
+
+8. Anticorps monoclonal selon la revendication 1, qui est l'anticorps monoclonal M4F5 tel que produit par l'hybridome 
+appelé M4F5 et déposé auprès de l'ECACC sous le numéro d'accession ECACC 97042519. 
+
+9. Anticorps monoclonal selon l'une quelconque des revendications 1 à 8, sous une forme humanisée. 
+
+10. Fragment ou dérivé d'un anticorps monoclonal selon l'une quelconque des revendications 1 à 9, lequel fragment 
+ou dérivé entre en compétition croisée avec l'anticorps monoclonal P2D3 pour la liaison à l'Ag HBs de type sauvage 
+et à au moins deux formes mutantes de l'Ag HBs. 
+
+11. Procédé de production d'un hybridome capable de produire un anticorps monoclonal selon l'une quelconque des 
+revendications 1 à 9, qui comprend l'immunisation d'un animal avec un Ag HBs de type sauvage ou une forme 
+mutante de l'Ag HBs, éventuellement sous la forme d'un fragment ou d'un dérivé antigénique approprié de celui-
+ci, l'immortalisation des cellules produisant l'anticorps pour former des hybridomes, le criblage des cultures de 
+l'hybridome pour découvrir une compétition croisée avec l'anticorps monoclonal P2D3 ou un anticorps monoclonal 
+selon l'une quelconque des revendications 2 à 4 pour la liaison à Ag HBs de type sauvage et deux formes mutantes 
+ou plus de l'Ag HBs, éventuellement sous la forme d'un fragment ou d'un dérivé antigénique approprié de celui-ci, 
+et la sélection de ces hybridomes qui produisent des anticorps qui entrent en compétition croisée. 
+
+12. Hybridome capable de produire un anticorps monoclonal selon l'une quelconque des revendications 1 à 9. 
+
+13. Hybridome nommé P2D3 et déposé auprès de l'ECACC sous le numéro d'accession ECACC 97042331. 
+
+14. Hybridome nommé M3A10 et déposé auprès de l'ECACC sous le numéro d'accession ECACC 97042330. 
+
+
+EP 0 904 378 B1 
+
+28 
+
+5 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+15. Hybridome nommé M4F5 et déposé auprès de l'ECACC sous le numéro d'accession ECACC 97042519. 
+
+16. Procédé de production d'un anticorps monoclonal selon l'une quelconque des revendications 1 à 9, qui comprend 
+la culture, in vitro ou in vivo, d'un hybridome selon l'une quelconque des revendications 12 à 15 ou tel qu'obtenu 
+par un procédé selon la revendication 11, et l'obtention de l'anticorps monoclonal à partir du milieu de culture. 
+
+17. Test immunologique pour la détection de l'Ag HBs, qui comprend la mise en contact d'un échantillon à analyser 
+avec un anticorps monoclonal selon l'une quelconque des revendications 1 à 9, un fragment ou un dérivé de celui-
+ci selon la revendication 10, ou une combinaison de deux ou plus de ceux-ci, et la détection de tout complexe 
+antigène-anticorps résultant. 
+
+18. Test immunologique selon la revendication 17, dans lequel l'anticorps monoclonal, le fragment, le dérivé ou la 
+combinaison de ceux-ci est utilisé en combinaison avec un ou plusieurs autres anticorps choisis parmi des anticorps 
+polyclonaux anti-HBs et d'autres anticorps monoclonaux anti-HBs. 
+
+19. Test immunologique selon la revendication 17 ou la revendication 18 sous un format homogène ou hétérogène. 
+
+20. Test immunologique selon la revendication 19, sous un format de type capture ou compétition. 
+
+21. Test immunologique selon l'une quelconque des revendications 17 à 20, où un test immunologique pour la détection 
+des anticorps dirigés contre la protéine core de l'hépatite B (HBc) est réalisé simultanément avec le test pour l'Ag HBs. 
+
+22. Kit de test immunologique qui comprend un anticorps monoclonal selon l'une quelconque des revendications 1 à 
+9, un fragment ou un dérivé de celui-ci selon la revendication 10, ou une combinaison de deux ou plus de ceux-ci, 
+et d'autres réactifs nécessaires pour réaliser un test immunologique pour l'AgHBs et éventuellement également des 
+réactifs pour détecter les anticorps anti-HBc. 
+
+23. Kit selon la revendication 22, qui comprend également des réactifs pour détecter les anticorps anti-HBc. 
+
+24. Kit selon la revendication 22 ou la revendication 23, qui comprend également d'autres anticorps anti-HBs choisis 
+dans le groupe constitué d'anticorps polyclonaux anti-HBs et d'anticorps monoclonaux anti-HBs. 
+
+25. Kit selon l'une quelconque des revendications 22 à 24, dans lequel les réactifs nécessaires pour réaliser un test 
+immunologique pour l'Ag HBs sont choisis parmi des solutions de lavage, des diluants, des solutions étalons, des 
+réactifs contrôles et des anticorps anti-HBs marqués. 
+
+26. Phase solide, appropriée à une utilisation dans un test immunologique, sur laquelle est immobilisé un anticorps 
+monoclonal selon l'une quelconque des revendications 1 à 9, un fragment ou un dérivé de celui-ci selon la reven-
+dication 10, ou une combinaison de deux ou plus de ceux-ci. 
+
+27. Phase solide selon la revendication 26, où un ou plusieurs autres anticorps anti-HBs choisis parmi des anticorps 
+polyclonaux anti-HBs et d'autres anticorps monoclonaux anti-HBs sont également immobilisés sur la phase solide. 
+
+28. Phase solide selon la revendication 26 ou la revendication 27 sur laquelle est également immobilisé un agent qui 
+capture les anticorps anti-HBc. 
+
+29. Composition appropriée à une utilisation de manière thérapeutique ou prophylactique pour une immunisation passive 
+contre le VHB qui comprend un anticorps monoclonal selon l'une quelconque des revendications 1 à 9, un fragment 
+ou un dérivé selon la revendication 10, ou une combinaison de deux ou plus de ceux-ci, en mélange avec un support 
+pharmaceutiquement acceptable. 
+
+30. Composition selon la revendication 29 qui comprend également d'autres anticorps choisis dans le groupe constitué 
+d'anticorps polyclonaux anti-HBs et d'anticorps monoclonaux anti-HBs. 
+
+31. Anticorps anti-idiotype dirigé contre un anticorps monoclonal selon l'une quelconque des revendications 1 à 9, ou 
+un fragment ou un dérivé de celui-ci selon la revendication 10. 
+
+
+EP 0 904 378 B1 
+
+29 
+
+
+EP 0 904 378 B1 
+
+30 
+
+
+EP 0 904 378 B1 
+
+31 
+
+REFERENCES CITED IN THE DESCRIPTION 
+
+This list of references cited by the applicant is for the reader's convenience only. It does not form part of the European 
+patent document. Even though great care has been taken in compiling the references, errors or omissions cannot be 
+excluded and the EPO disclaims all liability in this regard. 
+
+Patent documents cited in the description 
+
+• 
+WO 9426904 A [0013] 
+• 
+WO 9521189 A [0014] 
+
+• 
+WO 9421812 A [0015] 
+
+Non-patent literature cited in the description 
+
+• 
+WATERS et al. J. Clin.Invest., 1992, vol. 90, 
+2543-2597 [0016] 
+• 
+CAMERON, C. H ; COMBRIDGE, B. S ; HOWELL, 
+D. R ; BARBARA, J. A. J. A sensitive immunoradi-
+ometric assay for the detection of hepatitis B surface 
+antigen. J. Virol. Meth, 1980, vol. 1, 311-323 [0168] 
+• 
+CARMEN, W. F ; MCINTYRE, G ; KLEIN, H. Muta-
+tion of HBsAg in homograft recipients receiving hy-
+perimmune globulin. J. Hepatology, 1992, vol. 16, 59 
+[0168] 
+• 
+CARMEN, W. F ; WALLACE, L ; KORULA, J ; 
+MACPHEE, R ; DECKER, R. Natural occurrence of 
+arginine at amino acid 145 of HBsAg undetected by 
+current assays, causing fulminant hepatitis (abstract. 
+Abstracts of the 1993 International Symposium on 
+Viral Hepatitis and Liver Disease, 1993, 289 [0168] 
+• 
+HARRISON, T. J ; HOPES, E. A ; YI, Z ; KEOW, L. 
+G ; OON, C. J ; ZUCKERMAN, A. J. Mutations in 
+hepatitis B virus in carriers with co-existent surface 
+antigen and antibody (abstract). Abstracts of the 
+1993 International Symposium on Viral Hepatitis and 
+Liver Disease, 1993, 124 [0168] 
+• 
+HOWARD, C. R ; KARTHIGESU, V ; ALLISON, F ; 
+FORTUIN, M ; WHITTLE, H. Hepatitis B virus vari-
+ants with altered a determinants causing infections 
+in immunised children (abstract). Abstracts of the 
+1993 International Symposium on Viral Hepatitis and 
+Liver Disease, 1993, 75 [0168] 
+• 
+HAWKINS, A. E ; GILSON, R. J. C ; BEATH, S. V ; 
+BOXALL,E. H ; KELLY, D. A ; TEDDER, R. S ; 
+WELLER, I. V. D. Novel application of a point muta-
+tion assay: Evidence for transmission of hepatitis B 
+viruses with precore mutations and their detection in 
+infants with fulminant hepatitis B. J. Med. Virol., 1994, 
+vol. 44, 13-21 [0168] 
+
+• 
+KEARNEY, J. F ; RADBRUCH, A ; LIESEGANG, 
+B ; RAJEWSK, K. A new mouse myeloma cell line 
+that has lost immunoglobulin expression but permits 
+the construction of antibody-secreting hybrid cell 
+lines. J. Immunol., 1979, vol. 123, 439-450 [0168] 
+• 
+ELISA and Other Solid Phase Immunoassays, The-
+oretical and Practical Aspects. John Wiley, 1988 
+[0168] 
+• 
+KOHLER; MILSTEIN. Nature, 1975, vol. 256, 494 
+[0168] 
+• 
+MCMAHON, G ; ERLICH, P. H ; MOUSTAFA, Z. A ; 
+MCCARTHY, L. A ; DOTTAVIO, D ; TOLPIN, M. D ; 
+NALDER, P. I ; OSTBERG, L. Genetic alterations in 
+the gene encoding the major HBsAg DNA and immu-
+nological analysis of recurrent HBsAg derived from 
+monoclonal antibody-treated liver transplant pa-
+tients. Hepatology, 1992, vol. 15, 757 [0168] 
+• 
+OKAOMOTO, H ; YONO, N ; NAZAKI, Y. Mutations 
+within the S gene of hepatitis B virus transmitted from 
+mothers to babies immunised with hepatitis B im-
+mune globulin and vaccine. Pediat. Res., 1992, vol. 
+32, 264 [0168] 
+• 
+PUGH, J et al. J. Med. Virol., 1986, vol. 20, 229-246 
+[0168] 
+• 
+SALACINSKI, P ; HOPE, J ; MCCLEAN, J ; CLEM-
+ENT-JONES, C ; SYKES, J ; PRICE, J ; LOWRY, 
+P. J. A new simple method which allows theoretical 
+incorporation of radioiodine into proteins and pep-
+tides without damage. J. Endocrinol., 1979, vol. 81, 
+131-137 [0168] 
+• 
+Solid Phase Radioimmunoassay. TSU, T.T ; 
+HERZENBERG, L.A. Selected Methods In Cellular 
+Immunology. Freeman, 1980, 373-397 [0168] 
+• 
+VALENZUELA et al. Nature, 1979, vol. 280, 815 
+[0168] 
+
+
+
+	
+

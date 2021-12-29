@@ -1,0 +1,2787 @@
+
+	
+
+		
+
+	
+
+	
+
+Anmerkung: Innerhalb von neun Monaten nach der Bekanntmachung des Hinweises auf die Erteilung des europäischen 
+Patents kann jedermann beim Europäischen Patentamt gegen das erteilte europäische Patent Einspruch einlegen. 
+Der Einspruch ist schriftlich einzureichen und zu begründen. Er gilt erst als eingelegt, wenn die Einspruchsgebühr 
+entrichtet worden ist. (Art. 99(1) Europäisches Patentübereinkommen). 
+
+Printed by Jouve, 75001 PARIS (FR) 
+
+(19) 
+
+EP 1 303 353 B1 
+
+&amp; 
+
+(11) 
+
+EP 1 303 353 B1 
+
+(12) 
+
+EUROPÄISCHE PATENTSCHRIFT 
+
+(45) Veröffentlichungstag und Bekanntmachung des 
+
+Hinweises auf die Patenterteilung: 
+13.02.2008 Patentblatt 2008/07 
+
+(21) Anmeldenummer: 01969514.7 
+
+(22) Anmeldetag: 25.07.2001 
+
+(51) Int Cl.: 
+
+G01N 21/64 (2006.01) 
+
+(86) Internationale Anmeldenummer: 
+
+PCT/EP2001/008618 
+
+(87) Internationale Veröffentlichungsnummer: 
+
+WO 2002/008457 (31.01.2002 Gazette 2002/05) 
+
+(54) VERFAHREN UND VORRICHTUNG ZUM ANALYSIEREN VON CHEMISCHEN ODER 
+BIOLOGISCHEN PROBEN 
+
+METHOD AND DEVICE FOR ANALYSING CHEMICAL OR BIOLOGICAL SAMPLES 
+
+PROCEDE ET DISPOSITIF D'ANALYSE D'ECHANTILLONS CHIMIQUES OU BIOLOGIQUES 
+
+(84) Benannte Vertragsstaaten: 
+
+AT BE CH CY DE DK ES FI FR GB GR IE IT LI LU 
+MC NL PT SE TR 
+
+(30) Priorität: 25.07.2000 DE 10036174 
+
+(43) Veröffentlichungstag der Anmeldung: 
+
+23.04.2003 Patentblatt 2003/17 
+
+(73) Patentinhaber: AXARON Bioscience AG 
+
+69120 Heidelberg (DE) 
+
+(72) Erfinder: MÜLLER, Ralph 
+
+69412 Eberbach (DE) 
+
+(74) Vertreter: Müller, Jörg Uwe et al 
+
+Reitstötter, Kinzebach &amp; Partner, 
+Sternwartstrasse 4 
+81679 München (DE) 
+
+(56) Entgegenhaltungen: 
+
+WO-A-00/40334 
+WO-A-87/07384 
+DE-A-19 852 835 
+US-A-3 932 131 
+US-A-4 090 848 
+US-A-4 144 452 
+US-A-4 740 313 
+
+• PATENT ABSTRACTS OF JAPAN vol. 011, no. 264 
+(P-610), 27. August 1987 (1987-08-27) &amp; JP 62 
+069164 A (NITSUTEKU: KK), 30. März 1987 
+(1987-03-30) 
+
+
+EP 1 303 353 B1 
+
+2 
+
+5 
+
+10 
+
+15 
+
+20 
+
+25 
+
+30 
+
+35 
+
+40 
+
+45 
+
+50 
+
+55 
+
+Beschreibung 
+
+[0001] Die Erfindung betrifft ein Verfahren und eine 
+Vorrichtung zum Analysieren von chemischen oder bio-
+logischen Proben. Speziell betrifft die vorliegenden Er-
+findung ein neuartiges Trägersystem für chemische oder 
+biologische Assays, insbesondere zur Verwendung in 
+der DNA-oder RNA-Analytik, wobei die zu immobilisie-
+renden biologischen Sonden oder Proben beispielswei-
+se DNA, RNA, cDNA, Oligonukleotide oder PNA-Oligos 
+sein können. 
+[0002] Das Auffinden neuer bzw. Wiedererkennen be-
+kannter genetischer Informationen ist eine elementare 
+molekularbiologische Aufgabenstellung, zu deren Lö-
+sung bereits eine große Zahl unterschiedlicher Metho-
+den vorgeschlagen wurde. Um die enorme genetische 
+Information biologischer Systeme handhaben zu kön-
+nen, kommen verstärkt Hochdurchsatznachweistechni-
+ken zum Einsatz. Ein populärer Vertreter ist der DNA-
+CHIP bzw. das DNA-Array, das bei einer hohen Dichte 
+aufgetragener Sonden (&gt; 1000 pro cm 2 ) eine simultane 
+Analyse vieler tausend Proben erlaubt. Hierbei wird vor-
+wiegend ein konventioneller Mikroskopglasobjektträger 
+mit seiner planaren Oberfläche, die mit DNAbindenden 
+Reagenzien beschichtet ist, verwendet. Die aufgetrage-
+nen und gebundenen Sonden werden bei genomischen 
+Anwendungen Targetsequenzen oder Targets genannt. 
+Häufig sind die Targets bereits genetisch identifiziert, so 
+dass die Gensequenz -in vielen Fällen auch die physio-
+logische Funktion der Targets im jeweiligen Organismus 
+bekannt ist. Mit dieser Targetvorinformation lassen sich 
+neue Systeme abfragen, Verwandtschaften bzw. An-
+dersartigkeiten feststellen, Klassifizierungen vornehmen 
+oder biologische Aufgabe und Funktion des Systems un-
+tersuchen. Das zu untersuchende biol. System wird als 
+Probe auf den Objektträger aufgebracht und anschlie-
+ßend hybridisiert. Dabei finden sich Target-DNA, die auf 
+der Trägeroberfläche fixiert ist und zum Target komple-
+mentäre Proben-DNA und gehen eine Verbindung ein. 
+Ist die Proben-DNA beispielsweise durch einen Farbstoff 
+markiert, so lässt sich anschließend das Target nachwei-
+sen und durch den Ort bzw. die Position auf dem DNA-
+Array eine Zuordnung zur Vorinformation des Targets 
+erreichen. Komplexe genetische Informationen lässt sich 
+mittels der Hybridisierung eines DNA-Arrays qualitativ 
+und/ oder quantitativ analysieren. 
+[0003] Klassische Anwendungen dieser Art sind Nor-
+thern-und Southern-Blots, sowie die in-situ Hybridisie-
+rung. Dazu werden die Proben in der Regel zweckge-
+recht vorbereitet und mit Hilfe definierter DNA-Targets 
+untersucht. Zur Markierung der Proben werden Substan-
+zen, sog. 
+[0004] Marker, eingesetzt, die mit Hilfe geeigneter 
+Nachweismethoden identifiziert werden können. Weit 
+verbreitet sind insbesondere radioaktive Marker, sowie 
+Chemilumineszenz-oder Fluoreszenzmarker. Dabei ha-
+ben insbesondere Fluoreszenzmethoden in der chemi-
+schen und biologischen Analytik und Diagnostik einen 
+
+hohen Stellenwert. Es handelt sich dabei um eine sehr 
+nachweisstarke Methode, die ohne Radioaktivität und, 
+falls erforderlich, ohne toxische Substanzen auskommt.. 
+Es existieren heute empfindliche Detektionssysteme, die 
+schon den Nachweis einzelner fluoreszierender Molekü-
+le ermöglichen. Außerdem existiert eine Vielfalt unter-
+schiedlichster Fluoreszenzfarbstoffe, so dass für die mei-
+sten Wellenlängenbereiche im sichtbaren Spektrum, 
+aber auch im angrenzenden ultravioletten und infraroten 
+Spektralbereich auf geeignete Fluoreszenzmarker zu-
+rückgegriffen werden kann. Häufig können bei einer Mes-
+sung sogar mehrere Fluoreszenzfarbstoffe mit unter-
+schiedlichen Anregungs-und/ oder Emissionswellenlän-
+gen parallel verwendet werden. 
+[0005] Unter einem feste Träger versteht man im vor-
+liegenden Fall ein Material mit starrer oder halbstarrer 
+Oberfläche. Bei derartigen Trägern kann es sich bei-
+spielsweise um Partikel, Stränge, insbesondere Faser-
+bündel, sphärische Körper, wie Kugeln oder Kügelchen, 
+Fällungsprodukte, Gele, Blätter, Röhren, Behältnisse, 
+Kapillaren, Scheiben, Folien oder Platten handeln. Übli-
+cherweise werden ebene Träger verwendet. 
+[0006] Durch fortschreitende Miniaturisierung konnten 
+die DNA-Felder mittlerweile wesentlich verkleinert wer-
+den, so dass man heute eine Vielzahl verfahrens-und 
+meßtechnisch unterscheidbarer Felder auf einem einzel-
+nen Träger ordnen kann. In Anlehnung an die Halbleit-
+ertechnologie wird daher auch von Chips, insbesondere 
+von BioChips, GenChips etc., gesprochen. Die Targets 
+sind in möglichst hoher Dichte an den Träger gebunden 
+Vor allem hat die Anwendung photolithographischer Fab-
+rikationstechniken aus der Halbleitertechnologie zu 
+entscheidenden Fortschritten bei der Herstellung solcher 
+Chips geführt. Das Prinzip basiert auf einer lichtges-
+teuerten chemischen Festphasensynthese, bei der pho-
+tolithographische Masken die Felder abbilden (vgl. 
+beispielsweise Fodor et al, "Lightdirected, spatially ad-
+dressable parallel chemical synthesis", Science, vol. 
+251, 767-773 (1991) ). Dieses Verfahren ist insbesondere 
+dann von Vorteil, wenn die Target-DNA auf dem Träger 
+in-situ aus einzelnen Nukleotiden, aufgebaut werden sol-
+len. So kann ein bestimmter Baustein gezielt an die im 
+Aufbau befindlichen Targets bestimmter Felder angefügt 
+werden, während die Sonden der übrigen Felder un-
+berührt bleiben. Auf diese Weise lassen sich in großem 
+Maßstab DNA-Oligochips herstellen, die kombinatorisch 
+genutzt das Auffinden neuer Sequenzen erlauben. Zum 
+Wiedererkennen gesuchter Sequenzen benötigt der Ol-
+igosynthesechip eine aufwendige Mustererkennung. 
+Verfahren hierzu werden ausführlich in den internation-
+alen Patentanmeldungen WO 90/15070, W0 91/07087, 
+W0 92/10092, WO 92110587, WO 92/10588 und in dem 
+U.S.-Patent 5,143,854 beschrieben. 
+[0007] Im Unterschied zu den Synthesearrays werden 
+in der Praxis verstärkt Spotting-Arrays genutzt, bei denen 
+die zuvor erzeugte DNA-Sequenz komplett auf den Trä-
+ger übertragen wird. Zum Aufbringen der DNA-Lösung 
+werden unterschiedliche Verfahren, wie das Ink-jet-Spot-
+
+1 
+2 
+
+
+EP 1 303 353 B1 
+
+3 
+
+5 
+
+10 
+
+15 
+
+20 
+
+25 
+
+30 
+
+35 
+
+40 
+
+45 
+
+50 
+
+55 
+
+ting, das Solid-Pin-Spotting oder das Micro-Printing ver-
+wendet. Derartige Arrays eignen sich für eine Vielzahl 
+von Anwendungen, angefangen von der Sequenzierung 
+von DNA und Proteinen bis zum DNA-Fingerprinting und 
+der Krankheitsdiagnostik. Inzwischen werden kommer-
+zielle Biochips mit einer Vielzahl verschiedener cDNAs 
+zur Hybridisierung angeboten. Bei diesen cDNAs handelt 
+es sich um Nukleinsäuresequenzen mit Längen von etwa 
+200 bis 600 Basenpaaren (bp. Gerade im Bereich der 
+Genexpressionsprofilierung, also der Erkennung des Ak-
+tivitätszustandes interessierender Gene ist der Spot-
+tingchip prädestiniert. Dabei wird stets eine Kontroll-
+DNA-Pool mit einem stimulierten DNA-Pool verglichen 
+und somit Veränderungen in der Genaktivität für die je-
+weilige Fragestellung oder das betreffende biologische 
+Modell eruiert. Speziell zum Auffinden relevanter Biomo-
+leküle, die bspw. eine Schlüsselrolle im Organismus ha-
+ben, werden vermehrt Chip-Technologien eingesetzt. 
+[0008] Zwar können auf diesen planaren Chips sehr 
+viele verschiedene Substanzen oder Moleküle immobi-
+lisiert werden, jedoch weisen heute bekannte DNA-Ar-
+rays immer noch Probleme bei der Handhabung und An-
+wendbarkeit auf. Ursache für diese Probleme ist im we-
+sentlichen die mangelnde Reproduzierbarkeit des aus 
+vielen Einzelschritten bestehenden Gesamtprozesses. 
+[0009] Außerdem erfolgt der laterale Austausch von 
+Substanzen in der auf den Chip aufgebrachten Proben-
+flüssigkeit rein diffusionskontrolliert, so dass -zumindest 
+innerhalb einer praktikablen Gesamtmeßdauer -nicht 
+gewährleistet ist, dass jede Spezies der Probenflüssig-
+keit mit jeder auf der Chipoberfläche immobilisierten Pro-
+benspezies wechselwirken kann. 
+[0010] Abgesehen von den oben erwähnten planaren 
+Systemen wird in der deutschen Patentanmeldung DE 
+198 28 837 A1 die Verwendung von Miniholzylindem als 
+Festphase für ELISA-Tests in Mikrotiterplatten beschrie-
+ben. Ein Aufbringen einzelner definierter Spots auf diese 
+Miniholzylinder wird aber nicht offenbart. 
+[0011] Schließlich ist aus US 5,427,948 eine Vorrich-
+tung zum Hybridisieren von DNA-Fragmenten bekannt, 
+wobei die DNA-Fragmente auf einer Membran immobi-
+lisiert sind. Die einzelnen Spots werden auf die planare 
+Membran aufgebracht, so dass die Herstellung der Ar-
+rays und deren Auswertung im wesentlichen den von her-
+kömmlichen planaren Biochips her bekannten Methoden 
+entspricht. Lediglich zur Durchführung der eigentlichen 
+Hybridisierung wird die Membran in eine verschließbare 
+Behandlungstrommel eingelegt, die aus zwei ineinander 
+verschachtelten Zylindern besteht. Ein automatisierba-
+rer Prozessablauf ist mit einer derartigen Vorrichtung 
+nicht möglich. 
+[0012] WO-A-0040334 (Figs. 20-29; S. 32-39) liegt auf 
+dem Gebiet der DNA /RNA Analytik und offenbart ver-
+schiedene Mikroarrays zum Kontaktieren von chemi-
+schen oder biologischen Proben mit entsprechenden 
+Targets. Eine der Hauptausführungsformen (Figs. 
+20-29) betrifft eine Anordnung, wobei eine Mehrzahl von 
+optischen Fasern 2011 auf der Mantelfläche eines Zylin-
+
+ders ("Rad" 2000 -Fig. 20) angeordnet sind -die Fasern 
+verlaufen parallel zur Zylinderachse und tragen auf ihren 
+Oberflächen immobilisierte chemische / biochemische 
+Spezies. Der Zylinder wird in einen Halter 2300 (Fig. 23, 
+27) mit einer komplementären Ausnehmung eingeführt, 
+wodurch eine ringförmige Spalte gebildet wird, die von 
+mobilen Spezies 2310 über Leitungen 2401 gefüllt wird 
+-der Träger und der Halter werden anschließend in ent-
+gegengesetzten Richtungen rotiert. Eine Lichtquelle 
+2704 führt Licht in die Fasern ein (Fig. 27) und emittiertes 
+Fluoreszenzlicht senkrecht zu den Faserachsen wird 
+durch die Halterwände auf einen Detektor fokussiert. 
+Durch Rotation des Zylinders kommen die Fasern nach-
+einander in die Position der optischen Auswertungsan-
+ordnung. Bezüglich dieser Ausführungsform offenbart 
+WO-A-0040334 weiterhin auf Seite 39, daß bei dem Rad-
+system die Fasern durch ein Array von immobilisierten 
+Spots von chemischen Spezies ersetzt werden könnten, 
+vorzugsweise als zylindrisches Mikroarray direkt auf der 
+Mantelfläche des Rades. 
+[0013] Aufgabe der vorliegenden Erfindung ist es da-
+her, ein verbessertes Verfahren und eine entsprechende 
+Vorrichtung zum Analysieren von chemischen oder bio-
+logischen Proben bereitzustellen, so dass ein standardi-
+sierbarer, vollautomatischer Prozeßablauf gewährleistet 
+wird. Außerdem soll das Verfahren und die Vorrichtung 
+der Erfindung gewährleisten, dass ein zu analysierendes 
+Probenvolumen zuverlässig mit jeder Sonde wechselwir-
+ken kann. 
+[0014] Gelöst wird diese Aufgabe durch die Vorrich-
+tung des vorliegenden Anspruchs 1 Verwendung des 
+Vorrichtung gemäß dem vorliegenden Anspruch 24 und 
+das verfahren gemäß dem Anspruch 25. Vorteilhafte 
+Weiterbildungen des erfindungsgemäßen Verfahrens 
+und der erfindungsgemäßen Vorrichtung sind Gegen-
+stand der abhängigen Ansprüche. 
+[0015] Kern der Erfindung ist demnach eine Vorrich-
+tung umfassend u.a. neuartiges Trägersystem zur Un-
+tersuchung von chemischen oder biologischen Proben, 
+das sich durch eine zylindrische Geometrie auszeichnet, 
+wobei auf der funktionalisierten Mantelfläche des Zylin-
+ders bzw. in in dem Zylindermantel ausgesparte radiale 
+Bohrungen Substanzen aufgebracht, beispielsweise im-
+mobilisiert werden können. Durch Zusammenwirken mit 
+einem komplementären Halter wird ein Analysesystem 
+mit eindeutig definierten Reaktionsvolumina realisiert, 
+das -im Gegensatz zu planaren Biochips -einfach stan-
+dardisierbar und hochgradig automatisierbar ist. 
+[0016] Im Folgenden wird der Einfachheit halber meist 
+auf "Spots" Bezug genommen, wobei dann je nach Zu-
+sammenhang sowohl die auf die Manteloberfläche auf-
+gebrachten Proben, als auch die in die Bohrungen ein-
+gebracht Fluidtröpfchen gemeint sein können. 
+[0017] Beispielsweise kann man den Träger zum Auf-
+bringen der Spots in einer kombinierten Translations-
+und Rotationsbewegung an einer Aufgabeeinrichtung 
+vorbeiführen, so dass die Spots entlang von schrauben-
+förmigen Bahnen auf der Mantelfläche angeordnet wer-
+
+3 
+4 
+
+
+EP 1 303 353 B1 
+
+4 
+
+5 
+
+10 
+
+15 
+
+20 
+
+25 
+
+30 
+
+35 
+
+40 
+
+45 
+
+50 
+
+55 
+
+den. Dazu kann man beispielsweise an sich bekannte, 
+hochpräzise Gewindespindel-Mutter-Triebe verwenden. 
+Jeder Spot ist dann auf der Mantelfläche oder in der Boh-
+rung eindeutig lokalisierbar. Bevorzugt verwendet man 
+eine am Eingang des Halters angeordnete Aufgabeein-
+richtung zur Aufbringung der Spots und führt den Träger 
+beim Aufbringen der Spots in den Halter ein, so dass 
+unmittelbar im Anschluß daran Reaktionsfluide über die 
+Mantelfläche gespült werden können. Man kann jedoch 
+auch eine externe Aufgabeeinrichtung verwenden und 
+zunächst alle Spots aufbringen, bevor man den Träger 
+in den Halter einführt. 
+[0018] Anschließend kann man die in den Spots auf-
+gebrachten Substanzen geeignet chemisch oder physi-
+kalisch beeinflussen, beispielsweise DNA-Targetspots 
+mit Proben-DNA eines über die Mantelfläche geleiteten 
+Probenfluids hybridisieren, und anschließend analysie-
+ren. 
+[0019] Sind bei einer Variante der Offenbarung radiale 
+Bohrungen in der Mantelfläche ausgespart, die mit einer 
+in dem Träger vorgesehen Zentralbohrung kommunizie-
+ren, so kann man zur chemischen und/ oder physikali-
+schen Beeinflussung der Proben oder Targets die in die 
+Bohrungen eingebrachten Fluidtröpfchen mit einem in 
+der Zentralbohrung und/ oder zwischen der Mantelfläche 
+und dem Träger befindlichen Fluid vermischen. Man 
+kann also gleichzeitig oder zeitlich versetzt mindestens 
+zwei unterschiedliche Fluide mit den Probenfluidtröpf-
+chen vermischen. In die Zentralbohrung kann auch ein 
+fester Kern eingeführt werden, der dann einen Boden für 
+die radialen, in der Mantelfläche ausgesparten Bohrun-
+gen bilden. 
+[0020] Zum Analysieren der Spots führt man den Trä-
+ger in einer kombinierten Translations-und Rotationsbe-
+wegung an einer Detektionseinrichtung vorbei. Dabei 
+wird die Bewegungsrichtung des Trägers vorteilhaft so 
+umgekehrt, dass der Träger aus dem Halter entfernt wird. 
+Die zuvor aufgebrachten Spots werden dann entlang der 
+gleichen schraubenförmigen Bahn an der Detektionsein-
+richtung vorbeigeführt, was die Standardisierung und Au-
+tomatisierung der Prozesse erleichtert. 
+[0021] Gemäß einer besonders bevorzugten Ausfüh-
+rungsform der Erfindung bringt man Targestspots in we-
+nigstens eine in der Mantelfläche des Trägers ausge-
+sparte schraubenförmig vertiefte Gewindebahn ein. Die 
+Targets werden also, ähnlich wie bei herkömmlichen pla-
+naren biologischen Arrays, auf die Oberfläche eines Trä-
+gers aufgebracht. Dann schraubt man den Träger in den 
+mit einem entsprechenden Gegengewinde versehenen 
+Halter ein und fördert wenigstens ein Probenfluid durch 
+einen entlang der Bahn definierten Kanal. Dabei können 
+die in dem Probenfluid enthaltenen Substanzen mit den 
+Sonden des Trägers wechselwirken, im Fall von DNA-
+Untersuchungen beispielsweise hybridisieren. Ein be-
+sonderer Vorteil einer Ausführungsform des erfindungs-
+gemäßen Verfahrens gegenüber der herkömmlichen 
+Verwendung planarer Arrays besteht darin, dass durch 
+die vom Träger und Halter realisierte Schrauben/ Mutter-
+
+Geometrie ein -im Querschnitt zu der Bahn -sehr kleines 
+Reaktionsvolumen definiert wird. Proben und Targets 
+können daher auch bei rein diffusionskontrollierten Pro-
+zessen sehr schnell ablaufen, was kurze Meßzeiten er-
+möglicht. Gleichzeitig ist durch den Transport des Pro-
+benfluids durch die Schraubenbahn gewährleistet, dass 
+das zu analysierendes Probenvolumen zuverlässig mit 
+jeder Sonde wechselwirken kann. Schließlich schraubt 
+man den Träger wieder aus dem Halter heraus und de-
+tektiert vorzugsweise beim Herausschrauben die zwi-
+schen den Sonden und dem Probenfluid aufgetretenen 
+Wechselwirkungen. 
+[0022] Dabei kann man das Probenfluid durch die beim 
+Einführen des Trägers in den Halter resultierende Ver-
+drängerwirkung des Trägers durch den Kanal fördern. 
+Dazu füllt man das Probenfluid vor dem Einführen des 
+Trägers entweder manuell, durch Pipettierroboter oder 
+durch geeignete, in den Halter integrierte Fluidleitungen 
+in den Innenraum des Halters und stellt zwischen dem 
+Kanal und dem Innenraum eine kommunizierende Fluid-
+verbindung her. Man kann das Probenfluid -und gege-
+benenfalls weitere Reaktionsfluide -aber auch mittels 
+einer Pumpe durch den Kanal fördern. Man kann die Flui-
+de auch am Ende des Kanals absaugen und gegebe-
+nenfalls für einen weiteren Durchlauf zum Kanaleingang 
+zurückführen. 
+[0023] Vorteilhaft werden die Targets vor der Analyse 
+der Proben in dem Kanal des Trägers oder in den radialen 
+Bohrungen immobilisiert. Dabei kann man herkömmli-
+che, von planaren Arrays her bekannte Techniken zu-
+rückgreifen. Die Targets kann man beispielsweise als 
+definierte Spots beim Einschrauben des Trägers in den 
+Halter aufbringen. Durch Computersteuerung des Pro-
+zesses ist jeder Sondenspot einer definierten Position 
+im Gewindegang des Halters zugeordnet, die bei der 
+Auswertung der Messung zu Identifikation der an dieser 
+Stelle aufgetretenen Wechselwirkung zwischen Target 
+und Probe herangezogen werden kann. Sondenspots 
+werden auf den Bahnen, also beispielsweise dem Ge-
+windegang, vorzugsweise in Form eines linearen Arrays 
+immobilisiert. Die Targetspots besitzen vorzugsweise ei-
+nen Durchmesser zwischen 10 und 200 Pm und werden 
+bevorzugt mit einer Längendichte von 10 bis 500 
+Spots/cm, besonders bevorzugt 25 bis 200 Spots/cm auf-
+gebracht. 
+[0024] Im Fall einer Trägers mit radialen Bohrungen 
+kann man auch hochgeordnete molekulare Monoschich-
+ten auf der Innenwand der Bohrungen aufbringen. Nach 
+einem an die herkömmliche Langmuir-Blodgett-Technik 
+angelehnten Verfahren lässt man einen Flüssigkeitsme-
+niskus in die Bohrungen eindringen, deren Innenwand 
+hydrophil ist, so dass die Flüssigkeit die Innenwand be-
+netzen kann. Auf der Flüssigkeitsoberfläche kann man 
+eine monomolekulare Schicht amphiphiler Moleküle aus-
+bilden. Diese Schicht wird beim Zurückziehen des Flüs-
+sigkeitsmeniskus aus der Bohrung auf die Innenwand 
+der Bohrung übertragen. 
+[0025] Das erfindungsgemäße Verfahren eignet sich 
+
+5 
+6 
+
+
+EP 1 303 353 B1 
+
+5 
+
+5 
+
+10 
+
+15 
+
+20 
+
+25 
+
+30 
+
+35 
+
+40 
+
+45 
+
+50 
+
+55 
+
+besonders zur DNA-Hybridisierung bzw. RNA-Hybridi-
+sierung. Bevorzugt werden daher DNA/RNA-Targets auf 
+dem Träger immobilisiert und mit in dem Probenfluid ent-
+haltender DNA/RNA-Proben hybridisiert. 
+[0026] Besonders vorteilhaft werden gemäß bestimm-
+ten Ausführungformen der Erfindung fluoreszenzmar-
+kierte Proben verwendet, so dass Wechselwirkungen 
+zwischen Sonden und Proben bzw. die elektrophoreti-
+sche Auftrennung der Proben optisch analysiert werden 
+können. Zur Markierung können alle Fluoreszenzfarb-
+stoffe verwendet werden, die chemisch mit der zu mar-
+kierenden Substanz gekoppelt werden können. Dazu 
+kann beispielsweise ein Anregungs-und Detektionssy-
+stem in den Halter integriert sein. 
+[0027] Eine Variante des Trägersystems erlaubt den 
+Einsatz in der Gelelektrophorese. Speziell die DNA-Se-
+quenzierung fordert durch die massive Information bio-
+logischer Systeme einen hochparallelen Ansatz. Gängig 
+sind z. Zt. die DNA-Sequenzierung in flachen Gelelek-
+trophoresekammern (Flachgel) mit bis zu 100 parallelen 
+Analysespuren oder für noch höheren Durchsatz die 
+DNA-Separation in Gelkapillaren mit etwa gleichem Par-
+allelisierungsgrad aber kürzerer Analysezeit. In den Gel-
+kapillaren wird eine spezielle Polymerlösung verwendet, 
+die die Auftrennung der aufbereiteten DNA bewerkstel-
+ligt. Die Polymerlösung erlaubt allerdings nicht so hohe 
+Trennleistungen wie bei den Flachgelen übliche querver-
+netzte Gele. In der Kapillarelektrophorese wird nach der 
+Analyse die Lösung mit Druck aus der Kapillare entfernt, 
+und so für den nächsten Sequenzlauf vorbereitet -ver-
+netzte Gele lassen sich nicht mehr aus der Kapillare ent-
+fernen. 
+[0028] Gemäß der vorliegenden Offenbarung wird nun 
+vorgeschlagen, einen Träger zu verwenden, in dessen 
+Mantelfläche mehrere parallele, gelbeschichtete Bahnen 
+ausgespart sind, die Probenspots auf definierte Bereiche 
+der Bahnen aufzubringen, nach dem Einführen des Trä-
+gers in den Halter die in den Probenspots enthaltenen 
+Substanzen elektrophoretisch voneinander zu trennen 
+und anschließend die aufgetrennten Substanzen zu de-
+tektieren. Die Bahnen können beispielsweise im wesent-
+lichen parallel zur Mantellinie des Trägers verlaufen. Sie 
+können aber auch schraubenförmig auf der Mantelfläche 
+des Trägers verlaufen, so dass bei gleichen Außenma-
+ßen des Trägers eine längere Laufstrecke zur Verfügung 
+steht. Es lassen sich in einer multihelikalen Anordnung 
+auch zahlreiche parallel laufende Schraubenbahnen rea-
+lisieren. Nutzt man einen schraubenförmigen Träger der 
+multihelikal ausgeführt ist, so lassen sich Kapillarbahnen 
+realisieren, die mit einem Gegengewindekranz automa-
+tisiert gesäubert werden können, so dass sich Kapillaren 
+mit vernetzten Gelen kombinieren lassen, was die kurze 
+Analysenzeit mit der hohen Trenngüte verbindet. Zudem 
+lässt sich in der multihelikalen Anordnung ein hoher Par-
+allelisierungsgrad erzielen von beispielsweise über 600 
+helikale Gelbahnen auf einem Träger von 1 cm Radius. 
+Auch die optische Anregung und Detektion kann einfach 
+an dem mit konstanter Winkelgeschwindigkeit bewegten 
+
+zylindrischen Träger erreicht werden. Auf diese Weise 
+lassen sich zirka 10 mal mehr Sequenzdaten pro Zeit-
+einheit ermitteln als Geräte nach heutigem Stand der 
+Technik mit höchstem Durchsatz erreichen. 
+[0029] Gegenstand der vorliegenden Erfindung ist ei-
+ne Vorrichtung zum Analysieren von chemischen oder 
+biologischen Proben, die sich insbesondere zur Durch-
+führung des erfindungsgemäßen Verfahrens eignet. Die 
+Vorrichtung umfaßt u.a. einen Träger, der eine im we-
+sentlichen zylindrische Mantelfläche aufweist, die auf 
+wenigstens einem Teil ihrer Fläche derart funktionalisier-
+bar ist, dass chemische oder biologische Targets oder 
+Proben aufgebracht werden können, einen Halter, der 
+eine im wesentlichen zylindrische Ausnehmung auf-
+weist, in welche der Träger einführbar ist. 
+[0030] Vorteilhaft sind außerdem Mittel zum Fördern 
+von Fluiden durch wenigstens einen zwischen der Man-
+telfläche des Trägers und der Innenfläche der Ausneh-
+mung definierten Kanal vorgesehen. Die Mittel zum För-
+dern von Fluiden umfassen vorteilhaft wenigstens ein 
+Fluidreservoir und eine Pumpeinrichtung, mit der das 
+Fluid durch den Kanal gefördert werden kann. Gemäß 
+einer Möglichkeit werden die Mittel zum Fördern von Flui-
+den von dem als Kolben wirkenden Träger und der als 
+Fluidreservoir dienenden Ausnehmung des Halters ge-
+bildet. Dazu kann der Träger stirnseitig einen gewinde-
+losen zylindrischen Abschnitt umfassen, dessen Außen-
+durchmesser im wesentlichen dem Innendurchmesser 
+der Ausnehmung des Halters entspricht. In dem gewin-
+delosen zylindrischen Abschnitt kann ein Durchlaß aus-
+gespart sein, der einerseits mit dem Gewindegang des 
+Trägers und andererseits, bei eingeschraubtem Träger, 
+mit der Ausnehmung des Halters kommuniziert. Beim 
+Einschrauben des Trägers wird das Probenfluid aus der 
+Ausnehmung verdrängt und strömt durch den Durchlaß 
+in den Gewindekanal. Die Mittel können über ein Proben-
+Auffangsystem am Ausgang des Träger zurückgewon-
+nen werden und zyklisch umgepumpt werden. Gemäß 
+einer zweiten Möglichkeit werden die Mittel in ein exter-
+nes Schlauchsystem appliziert und durch ein externes 
+Pumpensystem durch den schraubenförmigen Kanal ge-
+pumpt. Die Mittel können über ein Proben-Auffangsy-
+stem am Ausgang des Träger zurückgewonnen werden 
+und zyklisch umgepumpt werden. 
+[0031] Gemäß einer Variante der offenbarten Vorrich-
+tung kann der funktionalisierbare Teilbereich der Man-
+telfläche des Trägers als radiale Bohrungen in der Man-
+telfläche ausgebildet sein. Hierbei kann es sich um Blind-
+bohrungen handeln, die Kavitäten der in Mantelfläche 
+bilden. Bevorzugt kommunizieren die radialen Bohrun-
+gen aber mit einer entlang der Längsachse des Trägers 
+verlaufenden Zentralbohrung. In diese radialen Bohrun-
+gen können definierte Mengen an Probenfluiden einge-
+bracht werden, die dort durch Kapillarkräfte gehalten 
+werden. 
+[0032] Vorteilhaft sind außerdem Mittel zum Aufbrin-
+gen der Targets oder Proben in Form von einzelnen de-
+finierten Spots vorgesehen, die beispielsweise als Pins 
+
+7 
+8 
+
+
+EP 1 303 353 B1 
+
+6 
+
+5 
+
+10 
+
+15 
+
+20 
+
+25 
+
+30 
+
+35 
+
+40 
+
+45 
+
+50 
+
+55 
+
+ausgebildet sein können, mit denen man kleinste Fluid-
+mengen an definierten Stellen einer entsprechend funk-
+tionalisierten Oberfläche aufbringt oder in eine funktio-
+nalisierte Bohrung einführt. 
+[0033] In der Mantelfläche des Trägers ist bevorzugt 
+wenigstens eine funktionalisierbare Bahn oder Bohrung 
+ausgespart. Die Bahn (oder die Bahnen) können im we-
+sentlichen parallel zur Mantellinie des Trägers verlaufen. 
+Die Innenwand des Halters kann in diesem Fall glatt sein. 
+Ein solcher Träger eignet sich insbesondere für elektro-
+phoretische Untersuchungen bzw. zur DNA-Sequenzie-
+rung. Nachgeordnet kann man einen Kranz mit Innen-
+zähnen vorsehen, der bei weiterem Vorschub die ver-
+netzten Gele in aus den Bahnen entfernen kann. Die Bah-
+nen können aber auch schraubenförmig auf der Mantel-
+fläche des Trägers verlaufen. Durch diese geometrische 
+Anordnung wird eine hohe Kanallänge erreicht, die eine 
+deutlich größere Anzahl an abgelegten Targets erlaubt 
+als eine planare Oberfläche, beispielsweise eine doppelt 
+so hohe Anzahl. 
+[0034] Gemäß einer vorteilhaften Ausführungsform 
+bildet die schraubenförmige Bahn auf der Mantelfläche 
+des Trägers eine Gewindebahn und die zylindrische Aus-
+nehmung des Halters weist ein komplementäres Gegen-
+gewinde auf, das so ausgestaltet ist, dass nach Ein-
+schrauben des Trägers in den Halter entlang der Gewin-
+debahn ein Kanal gebildet wird, durch den Probenfluid 
+gefördert werden kann. Die Gewindebahn besitzt vorteil-
+haft ein im wesentlichen rechteckiges oder trapezförmi-
+ges Gewindeprofile besitzt oder ist als metrisches ISO-
+Gewinde, Rundgewinde oder Rohrgewinde ausgebildet. 
+[0035] Bevorzugt umfaßt die Antriebseinrichtung zum 
+automatischen Einschrauben des Trägers in den Halter 
+und zum Ausschrauben aus dem Halter einen Schrittmo-
+tor, einen Servomotor oder einen Synchronmotor. Der 
+Motor kann über eine Getriebe mit dem Träger gekoppelt 
+sein. Im Fall eines Trägers mit im wesentlichen nahezu 
+axial verlaufenden Bahnen genügt es, wenn die Antriebs-
+einrichtung den Träger axial in den Halter schiebt. Ein 
+schraubenförmige Bewegung ist in diesem Fall in Ab-
+hängigkeit der Gewindesteigung nur im Rahmen des Sy-
+stemspiels erforderlich. Als Antriebseinheit kann ein Li-
+nearantrieb oder ein Hydrauliksystem dienen. 
+[0036] Vorteilhaft sind der Träger und/ oder der Halter 
+und/ oder der in eine Zentralbohrung des Trägers einführ-
+bare Kern temperierbar im Bereich von 0°C bis 100°C. 
+[0037] Die Gewindebahn des Trägers oder die Innen-
+wand der radialen Bohrung weist bevorzugt eine Ober-
+fläche aus einem Material auf, das ausgewählt ist aus 
+der Gruppe bestehend aus Glas, insbesondere Quarz-
+glas, Kohlenstoff, Kunststoffen (insbesondere fluores-
+zenzarmen Polymermaterial) oder Harzen, wie Polyte-
+trafluorethylen, Poylvinylidendifluorid, Polystyrol oder 
+Polycarbonat, PMMA darunter membranbildende Mate-
+rialien, wie Nitrocellulose oder Nylon sowie monomole-
+kulare Filme amphiphiler Moleküle, wie Langmuir-Blod-
+gett-Filme, die aus Stabilitätsgründen vorzugsweise po-
+lymerisiert sind, Metall, insbesondere Gold, Platin, 
+
+Chrom oder Kupfer, Halbleitermaterialien, wie Si, Ge, 
+GaAs oder GaP, bevorzugt in einkristalliner Form und 
+Keramiken. Die Träger können aus einem einheitlichen 
+Material sein; speziell Kunststoffe werden vorzugsweise 
+als einheitliches, modifiziertes bzw. durchgehend funk-
+tionalisiertes Material eingesetzt, so dass es keiner wei-
+tem Oberflächenbehandlung bedarf; es kann sich aber 
+auch um Verbundwerkstoffe handeln, bei denen die 
+Oberfläche die vorstehend genannten Kriterien erfüllt. 
+Bevorzugt werden Oberflächen, die funktionelle Grup-
+pen, wie Carboxyl-, Amino-oder Hydroxylgruppen, auf-
+weisen. Insbesondere bevorzugt sind Gläser, SiO 2 und 
+halbleitende Materialien, insbesondere Si und modifizier-
+tes Si. Die Auftragung kann durch Einspülen der Ober-
+flächen-Reagenzien in den Probenkanal und evtl. einen 
+anschließenden Trocknungsvorgang durch Einfahren 
+des Träger in einen Verdränger-Halter erfolgen. 
+[0038] Je nach aufzubringender Sonde kann die Ober-
+fläche der Gewindebahn des Trägers außerdem eine, 
+vorzugsweise hydrophobe, Deckschicht oder sogenann-
+te Spacer und/ oder Linker aufweisen. Über die Länge 
+und Art, beispielsweise die Polarität eines Spacers kann 
+die Wechselwirkung, beispielsweise der Mobilitätsgrad, 
+zwischen Sonde und Probe, etwa einer Hybridisierungs-
+probe, beeinflußt werden. Eine Optimierung des Spacers 
+im Hinblick auf größtmögliche Accessibilität der Sonde 
+ist dabei von Vorteil. Als Spacer eignen sich beispiels-
+weise difunktionelle Verbindungen, wie Diamine, Disäu-
+ren, z.B. Dicarbonsäuren, oder Ethylenglycol-Oligome-
+re, heterobifunktionelle Verbindungen, wie Aminosäu-
+ren, Arylacetylene, funktionalisierte Kopfgruppen poly-
+merisierter Langmuir-Blodgett-Filme, Lectine, Biotine, 
+Avidine, Strepavidine oder Kombinationen davon. Spa-
+cer können auch aus mehreren Teilen aufgebaut sein, 
+die miteinander durch kovalente und/ oder nichtkovalente 
+Bindungen verknüpft sind. Beispiele für kovalent ver-
+knüpfbare Teile eines Spacers sind heterobifunktionelle 
+Elemente, wie Aminosäuren, beispielsweise 6-Aminoca-
+prinsäure oder -Aminobuttersäure, von denen mehrere 
+zur Verlängerung eines Spacers miteinander verbunden 
+werden können. Beispiele für nichtkovalent verknüpfbare 
+Teile eines Spacers sind Moleküle, zwischen denen sich 
+Affinitätsbindungen ausbilden können, wie zwischen Bio-
+tin und Avidin bzw. Streptavidin oder deren Analoga oder 
+zwischen DIG und anti-DIG. Spacer können eine oder 
+auch mehrere Bindungsstellen für die aufzubringenden 
+Sonden aufweisen. Die vorstehend diskutierten hetero-
+bifunktionellen Elemente weisen etwa für Oligonucleo-
+tidsonden in der Regel eine derartige Bindungsstelle auf, 
+während Affinitätsbindungen ausbildende Moleküle, wie 
+Avidin oder Streptavidin, mehrere Bindungsstellen auf-
+weisen. Letzteres kann zu einer vorteilhaften Erhöhung 
+der immobilisierten Sonden pro Flächeneinheit führen. 
+Spacer können auch variable Bindungsstellen aufwei-
+sen, die je nach Konfiguration unterschiedliche Bin-
+dungsmöglichkeiten bieten. Dies gilt insbesondere für Af-
+finitätsbindungen, deren Bindungsaffinität je nach Kon-
+figuration der beteiligten Bindungspartner variieren kann. 
+
+9 
+10 
+
+
+EP 1 303 353 B1 
+
+7 
+
+5 
+
+10 
+
+15 
+
+20 
+
+25 
+
+30 
+
+35 
+
+40 
+
+45 
+
+50 
+
+55 
+
+[0039] Bindungen zwischen der Oberfläche des Trä-
+gers und den Sonden, beispielsweise Polynucelotidtar-
+gets, können kovalent oder nichtkovalent (beispielswei-
+se elektrostatisch oder koordinativ) sein. Kovalente Bin-
+dungen sind bevorzugt. Häufig sind die Sonden bzw. 
+Spacer nicht direkt an die gegebenenfalls auf der Ober-
+fläche von Natur aus vorhandenen funktionellen Grup-
+pen gebunden. In diesen Fällen werden die vorhandenen 
+funktionellen Gruppen zunächst modifiziert, beispiels-
+weise unter Einführung einer zweckmäßigeren funktio-
+nellen Gruppe. Dazu sind dem Fachmann je nach Ober-
+flächenmaterial und gewünschter Bindung geeignete 
+Verfahren bekannt. Glasige Oberflächen erfindungsge-
+mäßer Träger sind bevorzugt unter Ausbildung von Si-
+loxanbindungen funktionalisiert. Dabei sind Silane, bei-
+spielsweise Trichlorsilyl-oder Trisalkoxysilylgruppen 
+aufweisende Verbindungen, an die von Natur aus vor-
+handenen Hydroxylgruppen der Si-OH-Funktionalitäten 
+gebunden. Die Sonden oder Spacer ihrerseits sind an 
+zweckmäßigere funktionelle Gruppen gebunden, die 
+durch die Silane bereitgestellt werden. Epoxygruppen 
+lassen sich z.B. mit 3'-Glycidoxypropyltrimethoxysilan 
+und Aminogruppen z.B. mit Aminopropyltriethoxysilan 
+einführen. Diepoxide oder Cyanogenbromid können 
+ebenfalls zur Funktionalisierung der Oberfläche einge-
+setzt werden. Ebenso kann die Acetalbildung aus Alko-
+holen mit Aldehyden oder Ketonen, wie die Thioacetal-
+bildung oder lodothiophosphat-Verbindung zur kovalen-
+ten Bindung herangezogen werden. 
+[0040] An einige Oberflächen, insbesondere an spe-
+zielle Polymere, hingegen können Sonden oder Spacer 
+ohne weitere Funktionalisierung gebunden werden. Hier-
+zu zählen beispielsweise Aminopropylgruppen aufwei-
+sendes Polyvinylidendifluorid oder bestimmte Langmuir-
+Blodgett-Filme, bei denen die Kopfgruppen sogar als 
+Spacer fungieren können. 
+[0041] Es können auch sogenannte Multicoatings, d.h. 
+mehrere unterschiedliche Schichten auf den Träger auf-
+gebracht werden. 
+[0042] Die Oberfläche des Trägermaterials und/ oder 
+der Beschichtungen können außerdem durch physikali-
+sche Methoden wie Plasmabehandlung oder Sputtern 
+modifiziert werden. 
+[0043] Der Halter weist vorteilhaft außerdem eine An-
+regungs-und Detektionseinrichtung zur Untersuchung 
+der chemischen oder biologischen Sonden oder Proben 
+auf. Bevorzugt ist die Anregungs-und Detektionseinrich-
+tung zwischen Antriebseinheit und dem Halter angeord-
+net, so dass die Bahnen oder die einzelne schrauben-
+förmige Bahn beim Herausdrehen des Trägers aus dem 
+Halter analysiert werden können. 
+[0044] Bei elektrophoretischen Messungen wird die 
+Schraubenvorrichtung senkrecht angeordnet, die Anre-
+gungs-und Detektionseinheit wird hier im unteren Be-
+reich des Halters angeordnet. Die Proben werden dann 
+am oberen Ende des Trägers aufgebracht und laufen 
+entlang eines elektrischen Potentialgefälles in einem Gel 
+nach unten. Das Detektionssystem registriert in diesem 
+
+Fall die Laufzeit der einzelnen Banden. Durch Drehen 
+des Trägers in dem Halter können die einzelnen Kanäle 
+oder Bahnen sequentiell untersucht werden. 
+[0045] Bevorzugt werden optische Untersuchungsme-
+thoden herangezogen, wobei Chemilumineszenz-oder 
+Fluoreszenzmessungen bevorzugt sind. Zur Fluores-
+zenzmessung werden die fluoreszenzmarkierten Proben 
+vorteilhaft mit einem fokussierten Laserstrahl angeregt 
+und das emittierte Fluoreszenzlicht mit einem Photomul-
+tiplier oder einer Photodiode detektiert. Anregung und/ 
+oder Detektion können konfokal erfolgen, um störendes 
+Fluoreszenzlicht aus der Lösung im Kanal oder vom Trä-
+ger auszublenden. Werden unterschiedliche Fluores-
+zenzmarker verwendet, kann die Detektion auch spek-
+tral-oder zeitaufgelöst erfolgen, so dass Aussagen über 
+der einzelnen Anteile der gebundenen Marker möglich 
+sind. Ist eine vollständige Integration eines Anregungs-
+und Detektionssystems in den Halter nicht erwünscht 
+können auch Faseroptiken verwendet werden, um Licht 
+von und zu einem externen Detektionssystem zu leiten. 
+Die erfindungsgemäße Vorrichtung weist demnach be-
+vorzugt eine Anregungs-und Detektionseinrichtung auf, 
+die Mittel zur simultanen Emission von Licht unterschied-
+licher Wellenlänge und Mittel zur simultanen Detektion 
+von Licht unterschiedlicher Wellenlängen und/ oder zur 
+zeitaufgelösten Detektion von optischen Signalen um-
+faßt. Insbesondere die Variante der erfindungsgemäßen 
+Vorrichtung, bei welcher der Träger mit radialen funktio-
+nalisierbaren Bohrungen versehen ist, eignet sich auch 
+zur Durchführung von Absorptionsmessungen. Bei-
+spielsweise kann Licht über die Zentralbohrungen in die 
+einzelnen radialen Bohrungen und auf einen außerhalb 
+des zylindrischen Mantels des Trägers angeordneten 
+Detektor geleitet werden. 
+[0046] Gegenstand der vorliegenden Erfindung ist 
+schließlich auch die Verwendung der erfindungsgemä-
+ßen Vorrichtung zur DNA-oder RNA-Analytik, wobei die 
+zu immobilisierenden biologischen Sonden oder Proben 
+ausgewählt sind aus der Gruppe umfassend DNA, RNA, 
+cDNA, Oligonukleotide oder PNA-Oligos. 
+[0047] Eine bevorzugte Verwendung richtet sich dabei 
+auf das Screenen bzw. das Quantifizieren von Proben 
+auf bestimmte Liganden (Target-Sequenzen), die mit ho-
+her Affinität an immobilisierten Oligo-/ Polynukleotide 
+oder synthetische Analoga, cDNA, ccDNA, cRNA, bin-
+den. Dazu wird eine Lösung mit markierten Proben durch 
+den Kanal entlang der schraubenförmigen Bahn des Trä-
+gers gefördert. Nicht gebundener Ligand wird durch Spü-
+len des Kanals entfernt. Liganden, die aufgrund einer 
+ausreichenden Affinität an die immobilisierten Sonden 
+gebunden haben, werden beim Herausschrauben des 
+Trägers aus dem Halter detektiert. 
+[0048] Als bevorzugte Verwendungen gilt auch die Hy-
+bridisierung an DNA-Spots mit immobilisierten Oligo/ Po-
+lynukleotiden oder synthetischen Analoga, cDNA, ccD-
+NA, cRNA, gegebenenfalls mit anschließender Primer-
+extension, zum Zweck der Sequenzierung, Genexpres-
+sionsanalyse, Typisierung von Viren und Mikroorganis-
+
+11 
+12 
+
+
+EP 1 303 353 B1 
+
+8 
+
+5 
+
+10 
+
+15 
+
+20 
+
+25 
+
+30 
+
+35 
+
+40 
+
+45 
+
+50 
+
+55 
+
+men, und Mutationsanalyse. 
+[0049] Proben können auf herkömmliche Art und Wei-
+se gewonnen werden. Gewöhnlich werden zumindest 
+Teile interessierender Nukleinsäuren aus einer Gewe-
+beprobe isoliert. Für genomische Untersuchungen an 
+Eukaryoten ist jedes Gewebe geeignet, sofern es Zell-
+kerne enthält. Blut, Lymphozyten aus peripherem Blut 
+oder ein Buffy Coat, Haut, Haare oder Samen sind gän-
+gige Proben-quellen, aus denen sich sowohl DNA als 
+auch RNA gewinnen läßt. Körperflüssigkeiten, wie Se-
+rum, Sputum, Urin, Peritonealflüssigkeit, Pleuralflüssig-
+keit oder bronchoalveoläre Lavage eignen sich zur Iso-
+lierung von Nukleinsäuren aus Viren, Bakterien oder Pil-
+zen. mRNA dagegen kann nur aus denjenigen Zellen 
+bzw. Geweben gewonnen werden, in denen die ge-
+wünschte mRNA transkribiert wird. 
+[0050] Dem Fachmann sind zahlreiche Verfahren zur 
+Isolierung von Nukleinsäuren bekannt. Beispielhaft sol-
+len hier nur einige wenige kurz skizziert werden. 
+[0051] Zur Isolierung genomischer DNA kann man die 
+Zellen, beispielsweise unter Einwirkung von Detergenti-
+en und/ oder Proteinasen, lysieren, Proteine entfernen 
+und die DNA, beispielsweise durch Ausfällen mit bekann-
+ten organischen Lösungsmitteln, isolieren. Auch eine 
+chromatographische Trennung, beispielsweise mit han-
+delsüblichen Spin-Säulen, kann sinnvoll sein. Ähnliche 
+Verfahrensmaßnahmen finden bei der Isolierung von 
+Gesamt-RNA Anwendung. Aus dieser Gesamt-RNA 
+kann wiederum polyadenylierte mRNA isoliert werden, 
+indem man auf Oligo-(dT) basierende Systeme verwen-
+det. Die Wahl eines zweckmäßigen Protokolls unterliegt 
+fachmännischem Wissen. RNA kann anschließend 
+durch reverse Transkription zu cDNA umgeschrieben 
+werden. DNA oder cDNA kann durch verschiedene, dem 
+Fachmann bekannte Methoden, amplifiziert werden. 
+[0052] Die Komplexität einer Probe, d.h. die Vielfalt 
+und Sequenzlänge der in ihr enthaltenen Nukleinsäuren, 
+kann vor der Untersuchung verringert werden, indem 
+man diejenigen Nukleinsäuren, welche die Targets um-
+fassen, anreichert. Soll eine Teilmenge an mRNA unter-
+sucht werden, kann man beispielsweise die gesamte 
+mRNA mit den immobilisierten Nukleinsäure-Polymeren 
+hybridisieren, dann mit RNase A behandeln, um einzel-
+strängige Regionen zu verdauen, anschließend die dop-
+pelsträngigen Hybride denaturieren, um schließlich die 
+Nukleinsäure-Polymere entfernen, so dass ein Pool an 
+mRNA zurückbleibt, dessen Komplementarität zu den 
+immobilisierten Nukleinsäure-Polymeren erhöht ist. Zu 
+demselben Zweck sind dem Fachmann weitere Verfah-
+ren bekannt, die im Rahmen der vorliegenden Erfindung 
+angewendet werden können, wie die Verdauung doppel-
+strängiger Nukleinsäuren mit RNase H unter Verwen-
+dung geeigneter Hybridisierungssonden. 
+[0053] Die erfindungsgemäße Vorrichtung kann au-
+ßerdem zur Proteinanalytik und zum sog. "Drug Scree-
+ning" verwendet werden, wobei die biologischen Sonden 
+oder Proben in diesem Fall Proteine, insbesondere An-
+tikörper, Rezeptoren oder Liganden umfassen. Ebenso 
+
+ist eine Verwendung der erfindungsgemäßen Vorrich-
+tung zur Allergiediagnostik möglich, wobei die biologi-
+schen oder chemischen Proben in diesem Fall ausge-
+wählt sind aus der Gruppe umfassend Antigene, Haptene 
+oder Allergene. 
+[0054] Schließlich betrifft die vorliegenden offen-
+barung die Verwendung der erfindungsgemäßen Vor-
+richtung als DNA-Computer. Es wurde bereits gezeigt, 
+dass an der Oberfläche eines Trägers immobilisierte Ol-
+igonukleotide, etwa durch spezifisches Hybridisieren mit 
+bestimmten Proben oder durch spezifische enzyma-
+tische Verdauung, zur Lösung mathematischer Prob-
+leme herangezogen werden können. Beispielhaft sei hier 
+auf den Übersichtsartikel von L.M. Adleman "Computing 
+with DNA", Scientific American 279 (2): 54-61, 1998 ver-
+wiesen. Spezielle Anwendungen werden beispielsweise 
+in Liu et al. "Progress toward demonstration of a surface 
+based DNA computation: a one word approach to solve 
+a model satisfiability problem", Biosystems 51 (1-3): 
+25-33, 1999 oder Smith et al. "A surface based approach 
+to DNA computation", Journal of Computational Biology, 
+5 (2): 255-267, 1998 beschrieben. Zahlreiche der dort be-
+schriebenen Methoden lassen sich auch mit einem line-
+aren Oligo/ Polynukleotid-Array auf einem zylindrischen 
+oder schraubenförmigen Träger der erfindungsgemäßen 
+Vorrichtung implementieren. 
+[0055] Die vorliegende Erfindung wird im folgenden 
+unter Bezugnahme auf in den beigefügten Zeichnungen 
+dargestellte Ausführungsbeispiele ausführlicher be-
+schrieben. 
+[0056] In den Zeichnungen zeigt: 
+
+Fig. 1 
+eine erste Ausführungsform einer erfindungs-
+gemäßen Vorrichtung; 
+Fig. 2 
+eine zweite Ausführungsform einer erfin-
+dungsgemäßen Vorrichtung; 
+Fig. 3 
+eine dritte Ausführungsform einer erfindungs-
+gemäßen Vorrichtung; 
+Fig. 4 
+eine vergrößerte Ausschnittsdarstellung des 
+Sondenauftrags bei der Vorrichtung der Fig. 3; 
+Fig. 5 
+eine dritten Ausführungsform einer erfin-
+dungsgemäßen Vorrichtung, die speziell für 
+elektrophoretische Untersuchungen geeignet 
+ist; 
+Fig. 6 
+eine Aufsicht auf die Vorrichtung der Figur 5; 
+Fig. 7 
+eine Variante eines Trägers für elektrophore-
+tische Untersuchungen in der Aufsicht; 
+Fig. 8 
+den Träger der Figur 7 in der Seitenansicht; 
+Fig. 9 
+eine weitere Variante eines Trägers für elek-
+trophoretische Untersuchungen in der Auf-
+sicht; 
+Fig. 10 
+den Träger der Figur 9 in der Seitenansicht; 
+Fig. 11 
+eine weitere Variante eines Trägers der erfin-
+dungsgemäßen Vorrichtung; 
+Fig. 12 
+eine Aufsicht auf der Träger der Figur 11; 
+Fig. 13 
+ein Detailausschnitt des Trägers der Fig. 11 
+der in einem komplementären Halter angeord-
+net ist; und 
+
+13 
+14 
+
+
+EP 1 303 353 B1 
+
+9 
+
+5 
+
+10 
+
+15 
+
+20 
+
+25 
+
+30 
+
+35 
+
+40 
+
+45 
+
+50 
+
+55 
+
+Fig. 14 
+eine Variante des Trägers der Figur 11 in ei-
+nem entsprechenden Halter. 
+
+[0057] Bezugnehmend auf Fig. 1 erkennt man eine er-
+findungsgemäße Vorrichtung zum Analysieren von che-
+mischen oder biologischen Proben, die in ihrer Gesamt-
+heit mit der Bezugsziffer 10 bezeichnet ist. Die Vorrich-
+tung 10 weist einen Träger 11 mit einer zylindrischen 
+Mantelfläche 12 auf. Die Mantelfläche 12 ist derart funk-
+tionalisiert dass mit Hilfe einer Auftragsvorrichtung 13 
+chemische oder biologische Targets aufgebracht und im-
+mobilisiert werden können, wie in Fig. 4 detaillierter dar-
+gestellt ist. Bei der Auftragsvorrichtung 13 kann es sich 
+beispielsweise um ein Röhrchen mit einer sich verjün-
+genden Spitze handeln, die eine Reservoir aufweist, aus 
+der die üblicherweise in einer Flüssigkeit gelösten, di-
+spergierten oder emulgierten, als Sonde wirkenden Sub-
+stanzen beispielsweise über Kapillarkräfte an die funk-
+tionalisierte Oberfläche abgegeben werden können. Die 
+Auftragsvorrichtung 13 kann beispielsweise auf einem 
+dreh-und/ oder verschiebbaren Arm 14 angebracht sein 
+und mittels einer Vorschubeinrichtung 15 in Richtung 
+Mantelfläche 12 bewegt werden. 
+[0058] Eine Spindel 16 eines Linearantriebs 17 (wie er 
+beispielsweise von der Firma Haydon Switch and Instru-
+ment, Inc., vertrieben wird) ist mit dem Träger 11 verbun-
+den, so dass dieser in eine kombinierte Rotations-und 
+Translationsbewegung versetzt werden kann. In dieser 
+Bewegung können mittels der Auftragsvorrichtung 13 
+Spots 18 entlang einer schraubenförmigen Bahn 19 auf 
+der Mantelfläche 11 aufgebracht werden. 
+[0059] Die erfindungsgemäße Vorrichtung 10 umfaßt 
+außerdem einen Halter 20, der eine im wesentlichen zy-
+lindrische Ausnehmung 21 aufweist, über der der Träger 
+11 mittels eines (nicht dargestellten) Roboterarms posi-
+tioniert werden kann. Der Träger 11 wird mit Hilfe des 
+Antriebs 17 in den Halter 20 eingefahren. Anschließend 
+wird eine Probenflüssigkeit und gegebenenfalls weitere 
+Reaktionsflüssigkeiten durch einen zwischen Mantelflä-
+che 11 und Innenwand der Ausnehmung 21 definierten 
+Ringkanal gefördert. Im oberen Bereich des Halters 20 
+können (hier nicht dargestellte) Absaugeinrichtungen 
+vorgesehen sein, welche die Probenflüssigkeit nach 
+Durchströmen des Ringkanals abführen. 
+[0060] Die Wechselwirkung der auf der Mantelfläche 
+11 immobilisierten Targetspots 18 und der Substanzen 
+der Probenflüssigkeit kann beim Herausfahren des Trä-
+gers 11 detektiert werden. Dazu ist im oberen Bereich 
+des Halters 20 eine in der Fig. 1 schematisch dargestellte 
+Anregungs-und Detektionseinrichtung 22 vorgesehen. 
+Das Herausfahren des Trägers 11 erfolgt durch den An-
+trieb 17 wieder in einer kombinierten Translations-und 
+Rotationsbewegung, so dass alle Spots 18 der Bahn 19 
+an der Detektionseinrichtung 22 vorbeigeführt werden. 
+[0061] Vorteilhafterweise sind der Träger 11 und/ oder 
+der Halter 20 heiz-und kühlbar. Vorzugsweise ist eine 
+Temperatur von 10 °C bis über 95 °C einstellbar, so dass 
+mit der Vorrichtung auch Amplifikationsreaktionen, bei-
+
+spielsweise PCR, durchgeführt werden können. 
+[0062] In Figur 2 ist eine zweite Ausführungsform einer 
+erfindungsgemäßen Vorrichtung 10 dargestellt. Elemen-
+te die bereits im Zusammenhang mit der Ausführungs-
+form der Figur 1 erläutert wurden oder eine ähnliche 
+Funktion ausüben, sind mit denselben Bezugsziffern be-
+zeichnet. 
+[0063] Die Vorrichtung der Figur 2 weist einen zylin-
+drischen, schraubenförmigen Träger 11 auf, der auf ei-
+nem Teil seiner Länge mit einem Außengewinde 23 ver-
+sehen ist. Die schraubenförmige Gewindebahn 19 des 
+Trägers 11 weist eine funktionalisierte Oberfläche auf, 
+auf der mit Hilfe einer Auftragsvorrichtung 13 chemische 
+oder biologische Sonden aufgebracht und immobilisiert 
+werden können. Die Auftragsvorrichtung 13 weist eine 
+sich verjüngenden Spitze 24 auf. Die erfindungsgemäße 
+Vorrichtung 10 umfaßt wieder einen Halter 20, der eine 
+im wesentlichen zylindrische Ausnehmung 21 aufweist, 
+die mit einem zum Außengewinde 23 des Trägers 11 
+komplementären Innengewinde 25 versehen ist. Die 
+Flankentiefe des Innengewindes 25 und des Außenge-
+windes 23 ist so gewählt, dass bei eingeschraubtem Trä-
+ger 11 ein schraubenförmiger Kanal 26 definiert wird. 
+Durch den Kanal 26 kann eine Probenflüssigkeit geför-
+dert werden, die mit den in der Gewindebahn 19 immo-
+bilisierten Sonden wechselwirken kann. 
+[0064] Zum Fördern der Probenflüssigkeit und gege-
+benenfalls weiterer Reaktionsflüssigkeiten durch den 
+Kanal 26 weist die erfindungsgemäße Vorrichtung Mittel 
+zum Fördern von Fluiden auf. Bei der in Fig. 2 dargestell-
+ten Ausführungsform wird die Probenflüssigkeit in die 
+Ausnehmung 21 des Halters 20 eingefüllt. Dies kann bei-
+spielsweise vor Einschrauben des Trägers 11 durch Be-
+füllen der Ausnehmung 21 über die Einschrauböffnung 
+des Halters 20 geschehen. Dies kann jedoch auch durch 
+eine im Bereich des Bodens 27 des Halters 16 in die 
+Ausnehmung 17 mündende Fluidleitung 28 geschehen. 
+Die Fluidleitung ist vorteilhaft mit einem Rückschlagventil 
+29 versehen, das beim Einschrauben des Trägers 11 
+eine Verdrängung der in der Ausnehmung 21 befindli-
+chen Probenflüssigkeit in die Leitung 28 verhindert. Der 
+Träger 11 ist nun in seinem unteren Bereich durch einen 
+Verdrängerkolben 29 verlängert, der zur Ausnehmung 
+21 hin durch eine Dichtlippe 30 abgedichtet ist. Wenn 
+der Außendurchmesser des Verdrängerkolbens 29 im 
+wesentlichen dem Innendurchmesser der Ausnehmung 
+21 entspricht, kann bei geeigneter Materialwahl auch auf 
+eine Dichtlippe verzichtet werden. Im Verdrängerkolben 
+ist ein Durchlaß 31 ausgespart, dessen eines Ende über 
+eine Öffnung 32 im Bodenbereich des Verdrängerkol-
+bens 29 bzw. der Dichtlippe 30 und dessen anderes Ende 
+über eine Öffnung 33 in die Gewindebahn 29 des Au-
+ßengewindes 23 des Trägers 11 mündet. Bei einge-
+schraubtem Träger besteht daher eine kommunizieren-
+de Verbindung zwischen der Gewindebahn 19 und der 
+Ausnehmung 21. Durch das Einschrauben des Trägers 
+11 wird die Probenflüssigkeit aus der Ausnehmung 21 
+durch den Durchlaß 31 gepreßt und nach Ausströmen 
+
+15 
+16 
+
+
+EP 1 303 353 B1 
+
+10 
+
+5 
+
+10 
+
+15 
+
+20 
+
+25 
+
+30 
+
+35 
+
+40 
+
+45 
+
+50 
+
+55 
+
+aus der Öffnung 33 durch die Gewindebahn 19 gefördert. 
+Es ist somit gewährleistet, dass die Probenflüssigkeit mit 
+jedem in der Gewindebahn 19 immobilisierten Tar-
+getspot in Kontakt kommen kann. 
+[0065] Im oberen Bereich des Halters 20 können wie-
+der (hier nicht dargestellte) Absaugeinrichtungen vorge-
+sehen sein, welche die Probenflüssigkeit nach Durch-
+strömen der Gewindebahn abführen. 
+[0066] Die Wechselwirkung der in der Gewindebahn 
+19 immobilisierten Sonden und der Substanzen der Pro-
+benflüssigkeit kann beim Herausschrauben des Trägers 
+11 detektiert werden. Dazu ist in dieser Ausführungsform 
+im oberen Bereich des Halters 20 eine schematisch dar-
+gestellte Anregungs-und Detektionseinrichtung 22 vor-
+gesehen, die hier in den Halter integriert ist. 
+[0067] Das Ein-und Ausschrauben des Trägers 11 er-
+folgt vorteilhafterweise automatisch mit Hilfe einer An-
+triebseinrichtung 17, die beispielsweise über eine Spin-
+del 16 den Träger 11 in beide Drehrichtungen in Rotation 
+versetzen kann. 
+[0068] Wie in der schematischen Darstellung der Fig. 
+2 angedeutet, kann der Halter 20 modular aufgebaut 
+sein. Beispielsweise kann der Halter einen Außenmantel 
+34 aufweisen, in welchem beispielsweise Temperierein-
+richtungen angeordnet sind. In den Außenmantel wird 
+ein Innenmantel 35 eingesetzt, der ein für bestimmte Trä-
+ger spezifisches Innengewinde aufweist. Ebenso kann 
+der Halter eine auswechselbare Bodenplatte 36 aufwei-
+sen, so dass Systeme mit und ohne Fluidleitungen, bzw. 
+mit einer oder mehreren Fluidleitungen realisierbar sind. 
+Auch die Auftragsvorrichtung 13 und die Detektionsein-
+richtung 22 sind vorteilhafterweise modular aufgebaut. 
+[0069] In Fig. 3 ist eine dritte Ausführungsform der er-
+findungsgemäßen Vorrichtung 10 dargestellt. 
+[0070] Bei der Ausführungsform der Fig. 3 dient der 
+schraubenförmige Träger 11 nicht als Verdränger für die 
+Probenflüssigkeit, sondern der mit immobilisierten Son-
+den beschichtete Träger 11 wird zunächst vollständig in 
+den Halter 20 eingeschraubt. Bei eingeschraubtem Trä-
+ger kommuniziert eine im Bodenbereich des Halters 20 
+ausgesparte Fluidleitung 37 mit der Gewindebahn 19. 
+Außerdem ist eine Abzugsleitung 38 vorgesehen, über 
+welche Fluid über eine Pumpe 39 aus einem Auffangbe-
+reich 40 abgepumpt und über die Leitung 37 zurückge-
+fördert werden kann. Der Halter ist im oberen Bereich 41 
+abgedichtet. Ein Dreiwegeventil 42 ermöglicht die Ein-
+speisung von Probenfluid aus einem Reservoir 43. 
+[0071] In Fig. 4 ist eine bevorzugte Variante des Auf-
+trags der Targetspots 18 in die Gewindebahn 19 des Trä-
+gers 11 detaillierter dargestellt. Ein die als Sonden die-
+nenden Substanzen enthaltendes Fluid wird zunächst 
+aus einem (nicht-dargestellten) Vorratsbehälter in einen 
+Kanal 44 des Kapillarröhrchen 13 gesaugt. Über die Spit-
+ze 24 wird das Fluid in Form von kleinsten Tröpfchen auf 
+den funktionalisierten Gewindegang 19 aufgebracht, um 
+dort einzelne Spots 18 zu bilden. 
+[0072] Das Auftragen der Spots kann jedoch auch kon-
+taktlos erfolgen. Dazu bringt man beispielsweise das Ka-
+
+pillarröhrchen nahe an den Gewindegang heran, ohne 
+diesen jedoch zu kontaktieren und gibt einzelne Tropfen 
+der Sondenflüssigkeit durch kurzzeitige Druckstöße ab. 
+Diese Druckstöße können beispielsweise piezoelek-
+trisch erzeugt werden. 
+[0073] Alternativ können die Sonden auch in Form von 
+mit Kügelchen ("Beads"), auf denen die Sonden immo-
+bilisiert sind, in die Schraubenbahn gebracht werden. Die 
+Beads, die typischerweise einen Durchmesser von 1 Pm 
+bis 1 mm besitzen, können dabei im Gewindegang fest-
+geklebt oder zwischen den Flanken des Gewindegangs 
+eingeklemmt werden. 
+[0074] In den Figuren 5 und 6 ist eine bevorzugte Va-
+riante des Trägers 11 dargestellt, der sich insbesondere 
+zur Durchführung von elektrophoretischen Auftrennun-
+gen eignet. Dabei zeigt Figur 6 einen Querschnitt entlang 
+der Linie VI-VI der Fig. 5. Die Vorrichtung weist Reser-
+voire 50, 51 für eine Pufferlösung und einen Simmering 
+52 zur Abdichtung zwischen Träger 11 und Halter 20 auf. 
+Die Proben, die elektrophoretisch aufgetrennt werden 
+sollen, werden an einem Ende des Trägers 11 als Spots 
+auf die beispielsweise mit einem Gel gefüllten Bahnen 
+19 des Trägers 11 aufgebracht. Zwischen den Pufferre-
+servoiren 50, 51 wird über -in Fig. 5 schematisch dar-
+gestellte -Elektroden 52, 54 eine elektrische Hochspan-
+nung parallel zu der Längsachse des Trägers 11 ange-
+legt. Die einzelnen Bestandteile der Proben werden auf-
+grund von unterschiedlicher Ladung und/ oder unter-
+schiedlicher Beweglichkeit in dem Gel aufgetrennt, so 
+dass sie am anderen Ende des Trägers 11, beispielswei-
+se auf Höhe der Linie 55, zeitversetzt ankommen und 
+von einer Detektionseinrichtung 22 nachgewiesen wer-
+den können. Im Fall einer außerhalb des Halters 20 an-
+geordneten Detektionseinrichtung, die für einen opti-
+schen Nachweis der Probenbestandteile ausgelegt ist, 
+kann der Halter 20 in diesem Bereich ein transparentes 
+Fenster oder einen schmalen Spalt aufweisen. Auf einer 
+gemeinsamen Grundplatte 56 kann über einer (hier nicht 
+dargestellten) Ausnehmung in der Grundplatte ein Ring 
+57 mit einem Innengewinde angeordnet werden, um 
+nach der Elektrophorese das Gel aus den Bahnen 19 
+des Trägers 11 wieder zu entfernen. Mit Pfeilen 58 und 
+59 ist angedeutet, dass der Träger 11 und die Grundplat-
+te 56 über an sich bekannte (hier nicht gezeigte) Stell-
+elemente gegeneinander beweget werden können, so 
+dass das Einschrauben des Trägers 11 in den Ring 57 
+nach Beendigung der Elektrophorese auch automatisch 
+erfolgen kann. Bei der in den Figuren 5 und 6 dargestell-
+ten Variante sind zwei Bahnen 19 auf dem Träger vor-
+gesehen, die ein einer Spiralbahn mit relativ großer Stei-
+gung verlaufen. Die Innenwand des zylindrischen Halters 
+20 braucht in diesem Fall kein komplementäres Gewinde 
+aufweisen, sondern kann auch glatt ausgebildet sein. 
+[0075] Weitere Varianten des Trägers sind in den Fi-
+guren 7-10 dargestellt. 
+[0076] Figur 7 zeigt eine Aufsicht und Figur 8 eine Sei-
+tenansicht einer weiteren Ausführungsform des Trägers 
+11. In diesem Fall sind die Bahnen 19 im wesentlichen 
+
+17 
+18 
+
+
+EP 1 303 353 B1 
+
+11 
+
+5 
+
+10 
+
+15 
+
+20 
+
+25 
+
+30 
+
+35 
+
+40 
+
+45 
+
+50 
+
+55 
+
+parallel zur Längsachse des Trägers 11 angeordnet. Die 
+Flanken, welche die Bahnen seitlich begrenzen definie-
+ren einen Zylindermantel 12 des Trägers, so dass die 
+Bahnen 19 gewissermaßen Vertiefungen in dem zylin-
+drischen Träger 11 darstellen. Der Träger 11 kann dann 
+in einen (hier nicht dargestellten) Halter eingesetzt wer-
+den, der, ähnlich wie der Halter der Figur 5 oberhalb und 
+unterhalb des Trägers mit Elektroden versehen ist. Auch 
+hier kann der Halter in diesem Fall einen zylindrischen 
+Innenraum mit glatten Seitenwänden aufweisen, Ein In-
+nengewinde ist nicht erforderlich. Nach Einsetzen des 
+Trägers in den Halter wird die elektrophoretisch aufzu-
+trennende Probe am oberen Ende der Bahnen 19 auf-
+gebracht und Spannung angelegt. Die auf den Bahnen 
+19 aufgetrennten Proben werden dann im unteren Be-
+reich des Halters (wie durch die gestrichelte Linie ange-
+deutet) detektiert. Die Detektion erfolgt also wiederum 
+durch Messung von Laufzeitunterschieden der einzelnen 
+Bestandteile der Probe auf den Elektrophoresebahnen. 
+Während der Messung kann der Träger um seine Längs-
+achse rotieren, um die einzelnen Bahnen nacheinander 
+auszuwerten. 
+[0077] Die Figuren 9 und 10 zeigen eine Variante des 
+Trägers der Figuren 7 und 8, bei der die Bahnen 19 ge-
+genüber der Längsachse des Trägers geneigt sind. Auf 
+diese Weise kann die elektrophoretisch nutzbare Lauf-
+strecke der einzelnen Bahnen 19 vergrößert werden, 
+ohne dass sich die Gesamtabmessungen des Systems 
+erhöhen. 
+[0078] In den Figuren 11 bis 14 ist eine weitere Vari-
+ante des Trägers 11 der erfindungsgemäßen Vorrichtung 
+zum Analysieren von chemischen oder biologischen Pro-
+ben dargestellt. Wiederum besitzt der Träger 11 eine 
+schraubenförmige Allgemeinform, bei der einzelne Pro-
+benspots entlang einer schraubenförmigen Gewinde-
+bahn 19 verteilt sind. Im Gegensatz zu den vorherigen 
+Beispielen werden die Probenspots nicht auf die Grund-
+fläche der Gewindebahn 19 aufgebracht. Vielmehr weist 
+der Träger 11 in der Gewindebahn 19 zahlreiche, zur 
+Längsachse 60 des Trägers 11 radial orientierte Bohrun-
+gen 61 auf, die in eine entlang der Längsachse 60 aus-
+gesparte Zentralbohrung 62 münden. Die radialen Boh-
+rungen 61 stellen daher eine kommunizierende Verbin-
+dung zwischen dem Gewindegang 19 und der Zentral-
+bohrung 62 dar, wie insbesondere auch aus der Detailan-
+sicht der Figur 13 hervorgeht. Der Durchmesser der Boh-
+rungen 61 liegt vorzugsweise im Bereicht von 1 Pm bis 
+1000 Pm und ganz besonders bevorzugt im Bereich von 
+50-200 Pm. Die Länge der in den Zeichnungen nicht 
+maßstabsgetreu dargestellten Bohrungen 61 liegt typi-
+scherweise im Millimeterbereich. 
+[0079] Durch geeignete Kapillarnadeln oder ähnliche 
+Auftragsvorrichtungen lassen sich die einzelnen Bohrun-
+gen 61 individuell mit einem Probenfluid befüllen, das 
+durch Kapillarkräfte in den Bohrungen gehalten wird. 
+Über die Gewindebahn 19 und/ oder die Zentralbohrung 
+62 können die in der jeweiligen Bohrung 61 befindlichen 
+Probenfluid-Tröpfchen 63 mit weiteren Fluiden in Kontakt 
+
+gebracht und vermischt werden. Je nach in die einzelnen 
+Bohrungen eindosierter Menge des Probenfluids 63 bil-
+det sich zwischen dem in Gewindegang 19 befindlichen 
+Fluid 64 und dem in der Zentralbohrung 62 befindlichen 
+Fluid 65 jeweils ein Luftpolster 66 bzw. 67 aus, das zu-
+nächst eine Vermischung der Fluide verhindert. Je nach 
+Steuerung des Druckunterschieds der Fluide in der Zen-
+tralbohrung 62 bzw. im Schraubengang 19 kann eine se-
+quenzielle Vermischung des Probenfluids 63 mit den 
+Fluiden 64 bzw. 65 zu definierten Zeiten bewirkt werden. 
+In der Darstellung der Figur 13 sind die Randwinkel der 
+Fluide so dargestellt, wie es beispielsweise einer wäss-
+rigen Flüssigkeit in einer hydrophobisierten Bohrung 61 
+entsprecht. 
+[0080] In Figur 14 ist eine beispielhafte Anordnung ei-
+ner Variante des Trägers 11 aus Figur 11 in einem Halter 
+20 dargestellt. In der Ausführungsform der Figur 14 ist 
+außerdem gezeigt, dass sich der Träger 11 insbesondere 
+für Absorptionsmessungen eignet. Dazu kann beispiels-
+weise ein Lichtwellenleiter 68 in die Zentralbohrung 62 
+eingeführt werden, der auf Höhe eines in den Halter 20 
+integrierten Detektors 69 eine abgewinkelte Facette auf-
+weist, die Licht radial in Richtung Detektor 69 abstrahlt. 
+Wenn die einzelnen Bohrungen 61 diesen radialen Licht-
+strahl passieren, können Absorptionsmessungen des in 
+der Bohrung befindlichen Fluids durchgeführt werden. 
+Die Vorrichtung der Figur 14 zeigt außerdem, dass der 
+Halter 11 mit einem konisch verlaufenden Stopfen 70 
+versehen sein kann, der komplementär zum oberen 
+Rand 71 des Halters 20 ausgebildet ist und diesen bei 
+eingeschraubtem Träger dicht verschließt. Eine derarti-
+ge Abdichtung des Halters 20 kann selbstverständlich 
+bei den zuvor unter Bezugnahme auf die Figuren 1-10 
+beschriebenen Ausführungsformen der erfindungsge-
+mäßen Vorrichtung realisiert sein. 
+[0081] Der Stopfen Stopfen 70 kann auch als mit dem 
+Halter 20 beispielsweise über eine Überwurfmutter oder 
+eine Gewinde verbindbarer Simmering ausgebildet sein, 
+in welchem der Schaft des Trägers 11 frei drehbar ist, 
+so dass man den Träger 11 bei dicht verschlossenem 
+Halter an dem Detektor 69 vorbeibewegen kann. Um 
+Druckschwankungen in der Flüssigkeit bei einer Bewe-
+gung des Trägers 11 im komplementären Gewinde des 
+Halters 20 zu verhindern, kann der Halter 20 im oberen 
+Bereich einen Auslass 72 aufweisen, der über eine Aus-
+gleichsleitung 73 mit einem Einlass 74 im unteren Be-
+reich des Halters verbunden ist. Der untere Bereich des 
+Halters 20 wird dann wiederum als Simmering 75 aus-
+gebildet. 
+[0082] Die Ausführungsform der erfindungsgemäßen 
+Vorrichtung gemäß Figuren 11-14 eignet sich insbeson-
+dere für Stopped-flow-Experimente mit hoher Zeitauflö-
+sung und hoher Statistik. In diesem Fall kann man bei-
+spielsweise identische Proben in die Bohrungen 61 ein-
+bringen und durch Anlegen von Druck zu einem definier-
+ten Zeitpunkt eine Reaktion starten. Da die Reaktion in 
+allen Bohrungen 61 zur gleichen Zeit beginnt, stellt eine 
+sequenzielle Auswertung der einzelnen Bohrungen (bei-
+
+19 
+20 
+
+
+EP 1 303 353 B1 
+
+12 
+
+5 
+
+10 
+
+15 
+
+20 
+
+25 
+
+30 
+
+35 
+
+40 
+
+45 
+
+50 
+
+55 
+
+spielsweise beim Herausdrehen des Trägers 11 aus dem 
+Halter 20) eine zeitaufgelöste Messung der Reaktions-
+kinetik dar. Ebenso ist es möglich, hochparallele Stop-
+ped-flow-Experimente durchzuführen, beispielsweise 
+wenn verschiedene Proben in die einzelnen Bohrungen 
+eingebracht werden. 
+[0083] Insbesondere eignet sich die erfindungsgemä-
+ße Vorrichtung auch für die Durchführung von Mi-
+schungsassays mit zwei oder mehr unterschiedlichen 
+Reaktionslösungen. 
+[0084] Auch die Durchführung von sogenannten Hot-
+Start-Experimenten ist durch zeitgleiche Vermischung 
+über die durch Druckpulse ausgetriebenen Luftpolster 
+möglich. 
+[0085] Ein weiteres bevorzugtes Anwendungsgebiet 
+der Vorrichtung der Figuren 11-14 liegt im Bereich der 
+sogenannten Flush-through-Assays oder -Arrays. Durch 
+Immobilisierung einer größeren Probenmenge auf der 
+Innenwand der Bohrungen 61 und einen sensitiven 
+Nachweis durch einen langen Detektionsweg in der Boh-
+rung, beispielsweise bei Absorptionsmessungen, ist eine 
+Erhöhung der Sensitivität bei derartigen Experimenten 
+möglich. 
+[0086] Die zentrale Bohrung kann beim Träger der Fi-
+gur 11 auch durch einen (in den Zeichnungen nicht dar-
+gestellten) einschiebbaren Kern verschlossen werden, 
+so dass der Träger 11 als eine Art Mikrotiterplatte (bzw. 
+Submikrotiterplatte) mit schraubenförmig angeordneten 
+Kavitäten ausgebildet ist. In diesem Fall entspricht der 
+Außendurchmesser des (ggf. beheizbaren) Kerns im we-
+sentlichen dem Innendurchmesser der Bohrung 62. 
+Selbstverständlich kann der Kern auch einen etwas ge-
+ringeren Durchmesser besitzen, so dass die Zentralboh-
+rung 62 nicht vollständig, sondern lediglich in einem 
+schmalen Ring (in den Zeichnungen nicht dargestellten) 
+Kern und der Innenwand der Bohrung 62 mit Fluid befüllt 
+werden muss. 
+[0087] Da durch einen Mediumwechsel innerhalb der 
+Zentralbohrung 62 ein schneller und effizienter Tempe-
+raturwechsel in der Gewindebahn 19 und den radialen 
+Bohrungen 61 erreicht werden kann, erlaubt eine spezi-
+elle Beladung der Bohrungen 61 auch die Durchführung 
+einer hochparallelen, schnellen und effektiven PCR (po-
+lymerase chain reaction). Hierzu wird über die Zentral-
+bohrung 62 bzw. den Zentralkanal, der so beschaffen 
+sein kann, dass er wenige Mikroliter oder noch darunter 
+bis zu mehreren Millilitern fassen kann, der PCR-Reak-
+tionsmix in die Kavitäten vorgelegt. Dieser besteht bei 
+einer herkömmlichen PCR aus Pufferlösung, DNA-Poly-
+merase, einem DNA-Primerset und aus den zum Aufbau 
+der Gegenstränge notwendige dNTPs. Bei der quantita-
+tiven PCR (Taq Man ® , Marke der Fa. Applied Biosy-
+stems, Foster City, CA) wird ein spezielles Primerpaar 
+verwendet, das jeweils unterschiedliche Farbstoffmarker 
+trägt, die in Lösung bzw. in der Annealingphase eine an-
+dere Fluoreszenzcharakteristik zeigen als nach der 
+Strangduplizierung, die Auskunft über den Fortschritt der 
+PCR gibt. Ein einfacheres Prinzip ist die durch die PCR 
+
+entstandenen Produkte direkt durch Interkalationsfarb-
+stoffe nachzuweisen. Um den Status der PCR zu erfas-
+sen, wird lediglich die Fluoreszenzintensität gemessen. 
+Zum Zuführen der Template DNA, das ist die jeweils zu 
+amplifizierende Sequenz, wird in die mit PCR-Lösung 
+gefüllte Bohrungen 61 einpipettiert und anschließend der 
+Druck in der Zentralbohrung reduziert, um ein Zurück-
+ziehen des PCR-Gemisches in die Kavität zu erreichen. 
+Damit wird nach Durchpumpen von Flüssigkeit (z.B. dei-
+onisiertes Wasser) im Gewindekanal 19 eine Luftblase 
+am Ende der Bohrung 21 zur Gewindebahn eingeschlos-
+sen, die eine Verdünnung oder Kontamination des PCR-
+Gemisches in den Gewindekanal verhindert. Nun kann 
+das Temperaturzyklieren beginnen. Für die Quantitative 
+PCR werden nach jedem Zyklus die Kavitäten an einem 
+in den Halter 22 integrierten Fluoreszenzdetektor vorbei-
+gefahren und die augenblickliche Fluoreszenzintensität 
+gemessen und gespeichert. Durch kurze Pulsungen über 
+die Zentralflüssigkeit kann eine Durchmischung verstärkt 
+und evtl. Reaktivität bzw. Reaktionszeiten verkürzt wer-
+den. Zu präparativen Zwecken kann nach Abpumpen der 
+Flüssigkeit im Gewindegang und Ausfahren der Schrau-
+be aus dem Halter die amplifizierte DNA-Lösung entnom-
+men werden. 
+[0088] Obwohl ein Träger mit Zentralbohrung 62 und 
+radialen Bohrungen 61 hier lediglich für den Fall eines 
+schraubenförmigen Trägers 11 dargestellt wurde ver-
+steht sich, dass prinzipiell auch die zuvor dargestellten 
+Varianten des Trägers 11, beispielsweise diejenigen der 
+Figuren 5-9, anstelle der Spots 18 mit radialen Bohrun-
+gen versehen werden können, die in einer Zentralboh-
+rung münden. 
+[0089] Im folgenden wird ein in sämtlichen Ausfüh-
+rungsformen der erfindungsgemäßen Vorrichtung 
+durchführbares Anwendungsbeispiel detaillierter erläu-
+tert. 
+
+Beispiel: Hybridisierung von DNA-Arrays: 
+
+Anlagenparameter: 
+
+[0090] Bei einem gewählten Trägerradius von 5 mm 
+und einer Kanalbreite von 50Pm und der Gewindestei-
+gung von 0.1 ergeben sich pro Umdrehung 32 mm Ka-
+nallänge. Es können in solch einen Kanal 320 Targets 
+pro Umdrehung eingebracht werden, was bei einem Ge-
+windestab von 1 Zentimeter Länge 32.000 Spots ergibt. 
+Die übliche Länge beträgt mehrere Zentimeter, so dass 
+einige hunderttausend Proben abgelegt werden können. 
+Die Spotlängendichte liegt bei 20 pro Kanalzentimeter. 
+Das Kanalvolumen ergibt sich bei einer üblichen Kanal-
+höhe von 10Pm zu 15Pl pro Zentimeter Kanallänge. 
+
+Vorbereitung des Systems, Hybridisierung und Ausle-
+sung der Fluoreszenz: 
+
+[0091] Der Träger ist in den Halter eingefahren. Das 
+Träger-Haltergewindesystem wird mit entgastem bide-
+
+21 
+22 
+
+
+EP 1 303 353 B1 
+
+13 
+
+5 
+
+10 
+
+15 
+
+20 
+
+25 
+
+30 
+
+35 
+
+40 
+
+45 
+
+50 
+
+55 
+
+stilliertem, sterilfiltriertem durchspült. Anschließend wird 
+mit einer Lösung. 70%-30% Ethanol-Wasser nachgewa-
+schen, um Mikrogasblasen zu entfernen und um Sterilität 
+zu erreichen. Danach werden Kopplungsreagenzien 
+durch den Kanal gespült, der Kanal dadurch entspre-
+chend dem Trägermaterial funktionalisiert. Universell ist 
+der Einsatz von Nitrocellulosemethanolösung (NC-Lö-
+sung). Nach Durchleitung der NC-Lösung wird der Träger 
+aus dem Halter ausgefahren. Dabei kann ein passender 
+Dorn in die Kanalbahn eingefahren werden, um eine de-
+finierte Auftragedicke zu erzeugen. Nach Abtrocknen der 
+Bahnen wird beim Einfahren des Trägers das Auftragen 
+von DNA-Targets (Spotting) durchgeführt. Hierzu wird 
+momentan die Solid-Pin-Technologie genutzt. Hierzu 
+werden mehrere Pins in einer Reihe angeordnet benutzt. 
+Die Pins sitzen in einem Abstand von ca. 4,5 Millimeter, 
+angepaßt auf den jeweiligen Kanalabstand, so dass ein 
+problemloses einfahren in die Kanalbahn gewährleistet 
+ist. Schließt der Träger den Halter nach dem Einfahren 
+dicht ab, wird 100% Ethanol eingeleitet. Anschließend 
+wird mit Pufferlösung das Ethanol verdrängt, wodurch 
+eine blasenfreie Puffereinleitung ermöglicht wird. Nun 
+setzt die Temperierung des Träger-Haltersystems ein -
+dabei werden Temperaturen im Bereich von 20-68°C in 
+Abhängigkeit der DNA-Targetlänge eingestellt. Sonden-
+DNA wird jetzt eingepumpt und dabei hybridisiert (siehe 
+unter A. und B.). 
+Nach der Hybridisierung wird wieder mit Puffer gewa-
+schen und danach wird der Träger aus dem Halter aus-
+gefahren. Dabei wird die Kanalbahn mit einem ortsfe-
+sten, ultrasensitiven Fluoreszenzdetektionssystem aus-
+gelesen und von einem Datensystem erfaßt. Zur Aus-
+wertesicherheit werden von einer Targetsequenz meh-
+rere, in der Regel zwei Spots aufgetragen, die um eine 
+variable, dem Auswertealgorithmus bekannte Distanz 
+aufgetragen. Beim Auswerten werden die Spots mit iden-
+tischer DNA verglichen und damit die Güte und Repro-
+duzierbarkeit der Hybridisierung getestet. Ist die Güte 
+nicht in einem festgesetzten Bereich, wird dieser Spot 
+für die weitere Auswertung gesperrt. So wird selektiv eine 
+hohe Datenqualität realisiert. 
+[0092] Um den Träger einem erneuten Analysezyklus 
+zuzuführen, wird der Träger in den Halter eingefahren 
+und mit einer Reinigungslösung (Bleach) durchspült. An-
+schließend wird mit Wasser und Puffer gewaschen und 
+der pH-Wert gemessen. Bei Bedarf kann die Kanalbahn 
+auch mechanisch mit einem Dorn gereinigt werden. Zur 
+Sicherheit wird die Kanalbahn vor einem erneuten Ana-
+lysevorgang noch durch das Detektionssystem optisch 
+gescannt und die Qualität der Kanalbahn festgestellt, ggf. 
+wird ein erneuter Reinigungszyklus nötig. 
+
+A. Sondenmarkierung 
+
+[0093] Gesamt -RNA wurde präpariert (Chomczynski 
+P. and Sacchi N, Anal. Biochem. 1987 162 (1), 156 -159) 
+und zur Isolation von poly (A)-RNA mittels (Oligo 
+dT)-Dynabeads (Dynal AS, Oslo, Norwegen) gemäß der 
+
+Anleitung des Herstellers eingesetzt. Zum Primer-An-
+nealing wurden 2 Pg der so erhaltenen poly (A)-RNA mit 
+6 Pl oligo (dT) 21 (50 Pmol/l; ARK Scientific Biosystems 
+GmbH, Darmstadt) mit DEPC-behandeltem Wasser auf 
+15 Pl aufgefüllt, für 5 Min. auf 70 °C erhitzt und auf Eis 
+abgekühlt. Dann wurden 6 Pl 5x Erststrang-Puffer (Life 
+Technologies GmbH, Karlsruhe; 250 mmol/l Tris-HCl pH 
+8,3; 375 mmol/l KCl; 15 mmol/l MgCl 2 ), 1 Pl RNase-In-
+hibitor (Roche Molecular Biochemicals, Mannheim), 100 
+mmol Dithiothreitol (Life Technologies GmbH, Karl-
+sruhe), 0,6 Pl 50x dNTP-T (je 25 mmol/l dATP, dCTP 
+und dGTP; 10 mmol/l dTTP; Roche Molecular Biochem-
+icals, Mannheim), 2 Pl Cy3-dUTP oder Cy5-dUTP (1 
+mmol/l; Amersham-Pharmacia Biotech Europe GmbH, 
+Freiburg), 2 Pl Superscript II (200 Einheiten/ Pl; Life Tech-
+nologies GmbH, Karlsruhe) hinzugefügt. Die Synthese 
+fluoreszenzmarkierter Erststrang-cDNA erfolgte für 2 
+Std. bei 42°C im vorgeheizten Thermocycler. Zur RNA-
+Denaturierung wurden 2,5 Pl 1 N NaOH hinzugefügt und 
+für 10 Min. auf 65°C erwärmt. Nach Abkühlung auf Eis 
+wurde mit 6,2 Pl 1mol/l Tris-HCI pH 7,5 neutralisiert, mit 
+TE-Puffer (10 mmol/l Tris-HCI, 1 mmol/l EDTA, pH 8,0) 
+auf 400 Pl verdünnt und auf einer Microcon-30 Säule 
+(Millipore GmbH, Eschborn; Zentrifugation 10 Min. bei 
+13.000 rpm) auf 10 Pl eingeengt. 
+
+B. Hybridisierung 
+
+[0094] Zur Hybridisierung wurden je 5 Pl Cy 3-und Cy 
+5-markierter cDNA miteinander vermischt und mit 50 Pl 
+Hybridisierungspuffer (0,25x SSC, 0,02% SDS, 1 % N-
+Lauroylsarcosin, 1 % Blocking-Reagenz (Roche Mole-
+cular Biochemicals, Mannheim), 1 Pg humaner C ot 1-
+DNA (Life Technologies GmbH, Karlsruhe)) versetzt. 
+Diese Hybridisierungslösung wurde im Thermocycler 2 
+Min. bei 95°C denaturiert, dann wurde die Temperatur 
+auf 50°C reduziert und 14 Std. hybridisiert. Die Hybridi-
+sierungslösung wurde entfernt, und die Gefäße wurden 
+3x 5 Min. bei Raumtemperatur mit 2x SSC/ 0,1% SDS 
+gewaschen, gefolgt von 3x 5 Min. mit 0,2x SSC/ 0,1% 
+SDS bei 42°C und abschließend 1x 5 Min. mit 0,1x SSC/ 
+0,1% SDS bei 42°C. 
+
+Patentansprüche 
+
+1. Vorrichtung zum Analysieren von chemischen oder 
+biologischen Proben mit 
+einem Träger, der eine im wesentlichen zylindrische 
+Mantelfläche aufweist, in der auf wenigstens einem 
+Teil ihrer Fläche wenigstens eine schraubenförmig 
+vertiefte Gewindebahn ausgespart ist, die derart 
+funktionalisiert ist, dass chemische oder biologische 
+Proben und/ oder Targets in der Gewindebahn auf-
+gebracht werden können, und 
+einem Halter, der eine im wesentlichen zylindrische, 
+zu dem Träger im wesentlichen komplementäre 
+Ausnehmung aufweist, in welche der Träger einführ-
+
+23 
+24 
+
+
+EP 1 303 353 B1 
+
+14 
+
+5 
+
+10 
+
+15 
+
+20 
+
+25 
+
+30 
+
+35 
+
+40 
+
+45 
+
+50 
+
+55 
+
+bar ist, so dass zwischen dem Träger und der Innen-
+fläche der Ausnehmung des Halters wenigstens ein 
+Kanal mit definiertem Reaktionsvolumen gebildet 
+wird. 
+
+2. Vorrichtung gemäß einem der Anspruch 1, dadurch 
+gekennzeichnet, dass außerdem Mittel zur chemi-
+schen oder physikalischen Beeinflussung der in der 
+funktionalisierten Gewindebahn aufgebrachten Pro-
+ben und/ oder Targets vorgesehen sind. 
+
+3. Vorrichtung gemäß einem der Ansprüche 1 oder 2, 
+dadurch gekennzeichnet, dass außerdem Mittel 
+zum Analysieren der Proben und/ oder Targets vor-
+gesehen sind. 
+
+4. Vorrichtung gemäß Ansprüche 3, dadurch gekenn-
+zeichnet, dass der Halter eine Anregungs-und De-
+tektionseinrichtung zur Untersuchung der chemi-
+schen oder biologischen Targets und/ oder Sonden 
+aufweist. 
+
+5. Vorrichtung gemäß Anspruch 4, dadurch gekenn-
+zeichnet, dass die Anregungs-und Detektionsein-
+richtung in den Halter integriert ist. 
+
+6. Vorrichtung gemäß Anspruch 5, dadurch gekenn-
+zeichnet, dass die Anregungs-und Detektionsein-
+richtung am Eingang außerhalb der Ausnehmung 
+des Halters angeordnet ist. 
+
+7. Vorrichtung gemäß einem der Ansprüche 4 bis 6, 
+dadurch gekennzeichnet, dass die Detektionsein-
+richtung Mittel zur Messung von Chemilumineszenz-
+signalen, von Fluoreszenzsignalen, von Absorpti-
+onssignalen oder von Radioaktivität aufweist. 
+
+8. Vorrichtung gemäß einem der Ansprüche 1 bis 7, 
+dadurch gekennzeichnet, dass außerdem eine 
+Antriebseinrichtung zum Einfahren des Trägers in 
+den Halter und zum Ausfahren des Trägers aus dem 
+Halter vorgesehen ist. 
+
+9. Vorrichtung gemäß einem der Ansprüche 1 bis 8, 
+dadurch gekennzeichnet, dass außerdem Mittel 
+zum Fördern von Fluiden durch den zwischen Träger 
+und Halter definierten Kanal vorgesehen sind. 
+
+10. Vorrichtung gemäß Anspruch 9, dadurch gekenn-
+zeichnet, dass die Mittel zum Fördern von Fluiden 
+wenigstens ein Fluidreservoir und eine Pumpeinrich-
+tung umfassen. 
+
+11. Vorrichtung gemäß Anspruch 10, dadurch gekenn-
+zeichnet, dass die Mittel zum Fördern von Fluiden 
+von dem als Kolben wirkenden Träger und der als 
+Fluidreservoir dienenden Ausnehmung des Halters 
+gebildet werden. 
+
+12. Vorrichtung gemäß Anspruch 11, dadurch gekenn-
+zeichnet, dass der Träger stirnseitig einen gewin-
+delosen zylindrischen Abschnitt umfasst, dessen 
+Außendurchmesser im wesentlichen dem Innen-
+durchmesser der Ausnehmung des Halters ent-
+spricht. 
+
+13. Vorrichtung gemäß Anspruch 12, dadurch gekenn-
+zeichnet, dass in dem gewindelosen zylindrischen 
+Abschnitt ein Durchlass ausgespart ist, der einer-
+seits mit dem Gewindegang des Trägers und ande-
+rerseits, bei eingeführtem Träger, mit der Ausneh-
+mung des Halters kommuniziert. 
+
+14. Vorrichtung gemäß einem der Ansprüche 1 bis 13, 
+dadurch gekennzeichnet, dass radiale Bohrun-
+gen in der Mantelfläche des Trägers ausgespart 
+sind, die mit einer in dem Träger vorgesehenen Zen-
+tralbohrung kommunizieren. 
+
+15. Vorrichtung gemäß einem der Ansprüche 1 bis 14, 
+dadurch gekennzeichnet, dass die Innenwand der 
+zylindrischen Ausnehmung des Halters glatt ist. 
+
+16. Vorrichtung gemäß einem der Ansprüche 1 bis 15, 
+dadurch gekennzeichnet, dass die Innenwand der 
+zylindrischen Ausnehmung des Halters ein komple-
+mentäres Gegengewinde aufweist, das so ausge-
+staltet ist, dass nach Einschrauben des Trägers in 
+den Halter entlang der Gewindebahn ein Kanal ge-
+bildet wird, durch den Fluid gefördert werden kann. 
+
+17. Vorrichtung gemäß Anspruch 16, dadurch gekenn-
+zeichnet, dass die Gewindebahn ein im wesentli-
+chen rechteckiges oder trapezförmiges Gewinde-
+profile besitzt oder als metrisches ISO-Gewinde, 
+Rundgewinde oder Rohrgewinde ausgebildet ist. 
+
+18. Vorrichtung gemäß einem der Ansprüche 1 bis 17, 
+dadurch gekennzeichnet, dass die Vorrichtung ei-
+nen Vorrat an chemischen oder biologischen Proben 
+und/ oder Targets umfasst. 
+
+19. Vorrichtung gemäß einem der Ansprüche 1 bis 18, 
+dadurch gekennzeichnet, dass Mittel zum Auf-
+bringen der chemischen oder biologischen Proben 
+und/ oder Targets auf die funktionalisierte Gewinde-
+bahn des Trägers vorgesehen sind. 
+
+20. Vorrichtung gemäß einem der Ansprüche 1 bis 19, 
+dadurch gekennzeichnet, dass die chemischen 
+oder biologischen Proben und/ oder Targets in Form 
+definierter Spots in der Gewindebahnen aufgebracht 
+werden. 
+
+21. Vorrichtung gemäß einem der Ansprüche 1 bis 19, 
+dadurch gekennzeichnet, dass die chemischen 
+oder biologischen Proben und/ oder Targets in Form 
+
+25 
+26 
+
+
+EP 1 303 353 B1 
+
+15 
+
+5 
+
+10 
+
+15 
+
+20 
+
+25 
+
+30 
+
+35 
+
+40 
+
+45 
+
+50 
+
+55 
+
+einer kontinuierlichen Belegung in die Gewindebah-
+nen aufgebracht werden. 
+
+22. Vorrichtung gemäß einem der Ansprüche 1 -21, da-
+durch gekennzeichnet, dass die Gewindebahn mit 
+einem Gel gefüllt ist. 
+
+23. Vorrichtung gemäß Anspruch 22, dadurch gekenn-
+zeichnet, dass Mittel zur elektrophoretischen Tren-
+nung der Proben und/ oder Targets vorgesehen sind. 
+
+24. Verwendung der Vorrichtung nach einem der An-
+sprüche 1 bis 23 zur DNA-oder RNA-Analytik. 
+
+25. Verfahren zum Analysieren von chemischen oder 
+biologischen Proben unter Verwendung einer Vor-
+richtung nach einem der Ansprüche 1 bis 23, wobei 
+man 
+chemische oder biologische Proben und/ oder Tar-
+gets in Form von einzelnen definierten Spots in eine 
+in der äußeren zylindrischen Mantelfläche des Trä-
+gers ausgesparte schraubenförmig vertiefte funktio-
+nalisierte Gewindebahn einbringt; 
+den Träger in eine zu der zylindrischen Mantelfläche 
+im wesentlichen komplementäre Ausnehmung ei-
+nes Halters einführt, 
+die Proben und/ oder Targets chemisch oder physi-
+kalisch beeinflusst, und 
+die Spots anschließend analysiert 
+
+26. Verfahren gemäß Anspruch 25, dadurch gekenn-
+zeichnet, dass man den Träger zum Aufbringen der 
+Spots in einer kombinierten Translations-und Rota-
+tionsbewegung an einer Aufgabeeinrichtung vorbei-
+führt. 
+
+27. Verfahren gemäß Anspruch 26, dadurch gekenn-
+zeichnet, dass man den Träger beim Aufbringen 
+der Spots in den Halter einführt. 
+
+28. Verfahren gemäß Anspruch 27, dadurch gekenn-
+zeichnet, dass man den Träger zum Analysieren 
+der Spots in einer kombinierten Translations-und 
+Rotationsbewegung an einem Detektionseinrich-
+tung vorbeiführt. 
+
+29. Verfahren gemäß Anspruch 28, dadurch gekenn-
+zeichnet, dass man den Träger beim Analysieren 
+der Spots aus dem Halter entfernt. 
+
+30. Verfahren gemäß einem der Ansprüche 25 bis 29, 
+dadurch gekennzeichnet, dass man 
+den Träger in den mit einem entsprechenden Ge-
+gengewinde versehenen Halter einschraubt und da-
+bei chemische oder biologische Proben und/ order 
+Targets in Form von definierten Spots aufbringt, 
+wenigstens ein Probenfluid durch einen entlang der 
+Gewindebahn definierten Kanal fördert, 
+
+den Träger wieder aus dem Halter herausschraubt 
+und dabei Wechselwirkungen zwischen den Spots 
+und dem Probenfluid detektiert. 
+
+31. Verfahren gemäß Anspruch 30, dadurch gekenn-
+zeichnet, dass man das Probenfluid aus der Aus-
+nehmung des Halters durch Verdrängerwirkung des 
+Trägers durch den Kanal fördert. 
+
+32. Verfahren gemäß einem der Ansprüche 25 bis 31, 
+dadurch gekennzeichnet, dass man die Targets 
+in der Gewindebahn des Trägers immobilisiert. 
+
+33. Verfahren gemäß Anspruch 32, dadurch gekenn-
+zeichnet, dass man DNA-oder RNA-Targets auf 
+dem Träger immobilisiert und mit in dem Probenfluid 
+enthaltenen DNA-oder RNA-Proben hybridisiert. 
+
+34. Verfahren gemäß einem der Ansprüche 25 bis 33, 
+dadurch gekennzeichnet, dass man fluoreszenz-
+markierte Proben verwendet. 
+
+35. Verfahren gemäß einem der der Ansprüche 25 bis 
+34, wobei man 
+chemische oder biologische Proben und/ oder Tar-
+gets auf definierte Bereiche von wenigstens einer 
+gelbeschichteten Gewindebahn aufbringt, 
+nach dem Einführen des Trägers in den Halter die 
+in den chemischen oder biologischen Proben und/ 
+oder Targets enthaltenen Substanzen elektrophore-
+tisch voneinander trennt und 
+anschließend die aufgetrennten Substanzen detek-
+tiert. 
+
+Claims 
+
+1. A device for analyzing chemical or biological sam-
+ples, comprising 
+a support having an essentially cylindrical jacket sur-
+face, on at least a part of surface thereof at least one 
+helically recessed threaded track is provided which 
+is functionalized such that chemical or biological tar-
+gets and/or samples can be applied in the threaded 
+track, and 
+a retainer having an essentially cylindrical recess 
+which is complementary to said support, said support 
+being insertable into said retainer such that at least 
+one fluid channel having a defined a reaction volume 
+is formed between said support and an inner surface 
+of said recess. 
+
+2. The device as claimed in claim 1, comprising means 
+of acting chemically or physically upon said samples 
+and/or targets. 
+
+3. The device as claimed in one of claims 1 or 2, further 
+comprising means of analyzing samples and/or tar-
+
+27 
+28 
+
+
+EP 1 303 353 B1 
+
+16 
+
+5 
+
+10 
+
+15 
+
+20 
+
+25 
+
+30 
+
+35 
+
+40 
+
+45 
+
+50 
+
+55 
+
+gets. 
+
+4. The device as claimed in claim 3, wherein said re-
+tainer comprises an excitation and detection device 
+for analyzing said chemical or biological targets 
+and/or samples. 
+
+5. The device as claimed in claim 4, wherein said ex-
+citation and detection device is integrated into said 
+retainer. 
+
+6. The device as claimed in claim 5, wherein said ex-
+citation and detection device is arranged at the en-
+trance outside the recess of the retainer. 
+
+7. The device as claimed in one of claims 4 to 6, wherein 
+the detection device comprises means for measur-
+ing chemiluminescence signals, fluorescence sig-
+nals, absorption signals or radioactivity. 
+
+8. The device as claimed in one of claims 1 to 7, com-
+prising drive means for inserting the support into the 
+retainer and for withdrawing the support from the re-
+tainer. 
+
+9. The device as claimed in one of claims 1 to 8, com-
+prising means for conveying fluids through said 
+channel defined between said support and said re-
+tainer. 
+
+10. The device as claimed in claim 9, wherein said 
+means for conveying fluids comprise at least one 
+fluid reservoir and one pumping device. 
+
+11. The device as claimed in claim 10, wherein said 
+means for conveying fluids are formed by said sup-
+port, acting as a piston, and said retainer recess, 
+serving as the fluid reservoir. 
+
+12. The device as claimed in claim 11, wherein said sup-
+port comprises, at its front side, a threadless cylin-
+drical section, with the outer diameter of said section 
+essentially corresponding to the inner diameter of 
+said retainer recess. 
+
+13. The device as claimed in claim 12, wherein a pas-
+sage is provided in said threadless cylindrical sec-
+tion, said passage communicating with said thread 
+of said support and with said recess of said retainer, 
+when the support is inserted into said retainer. 
+
+14. The device as claimed in one of claims 1 to 13, 
+wherein radial drill holes are provided in the jacket 
+surface of the support which communicates with a 
+central drill hole provided in the support. 
+
+15. The device as claimed in one of claims 1 to 14, 
+wherein said cylindrical recess if the container is pro-
+
+vided with a smooth inner wall. 
+
+16. The device as claimed in one of claims 1 to 14, 
+wherein the inner surface of the cylindrical recess of 
+said retainer is provided with a complementary coun-
+ter-thread which is designed such that, after the sup-
+port has been screwed into the retainer, a channel 
+is formed along the threaded track through which 
+fluid can be conveyed. 
+
+17. The device as claimed in claim 16, wherein the 
+thread of said thread track is selected form the group 
+consisting of rectangular threads, trapezoidal 
+threads, metric ISO threads as defined by the Inter-
+national Organization for Standardization, round 
+threads and pipe threads. 
+
+18. The device as claimed in one of claims 1 to 17, 
+wherein said device comprises a supply of chemical 
+or biological samples. 
+
+19. The device as claimed in one of claims 1 to 18, 
+wherein means are provided for applying said chem-
+ical or biological samples and/or targets onto said 
+functionalized threaded track of said support. 
+
+20. The device as claimed in one of claims 1 to 19, 
+wherein said chemical or biological samples and/or 
+targets are applied onto said threaded track in the 
+form of defined spots. 
+
+21. The device as claimed in one of claims 1 to 19, 
+wherein said chemical or biological samples and/or 
+targets are applied into said threaded track in the 
+form of a continuous layer. 
+
+22. The device as claimed in one of claims 1 to 21, 
+wherein said threaded track is filled with a gel. 
+
+23. The device as claimed in claim 22, wherein means 
+for electrophoretic separation of said samples and/or 
+targets are provided. 
+
+24. The use of the device as claimed in one of claims 1 
+to 23 for analyzing DNA or RNA. 
+
+25. A method for analyzing chemical or biological sam-
+ples, which comprises chemical or biological sam-
+ples using a device according to one of claims 1 to 
+23 wherein 
+chemical or biological samples and/or targets are 
+applied, in the form of individual, defined spots, to a 
+helically recessed threaded functionalized track pro-
+vided on an outer, cylindrical jacket surface of a sup-
+port, 
+the support is inserted into a recess in a retainer, 
+which recess is essentially complementary to the cy-
+lindrical jacket surface, 
+
+29 
+30 
+
+
+EP 1 303 353 B1 
+
+17 
+
+5 
+
+10 
+
+15 
+
+20 
+
+25 
+
+30 
+
+35 
+
+40 
+
+45 
+
+50 
+
+55 
+
+the samples and/or targets are acted upon chemi-
+cally or physically and 
+the spots are then analyzed. 
+
+26. The method as claimed in claim 25, wherein, for the 
+purpose of applying the spots, the support is con-
+veyed, in a combined translatory and rotatory move-
+ment, past a loading device. 
+
+27. The method as claimed in claim 26, wherein the sup-
+port is introduced into the retainer while the spots 
+are being applied. 
+
+28. The method as claimed in claim 27, wherein, in order 
+to analyze the spots, the support is conveyed, in a 
+combined translatory and rotatory movement, past 
+a detection device. 
+
+29. The method as claimed in claim 28, wherein the sup-
+port is removed from the retainer while the spots are 
+being analyzed. 
+
+30. The method as claimed in one of claims 25 to 29, 
+wherein 
+the support is screwed into the retainer, which is pro-
+vided with a corresponding counterthread, and the 
+chemical or biological samples and/or target are ap-
+plied concurrently in the form of defined spots, 
+at least one sample fluid is conveyed through a chan-
+nel which is defined along the track, 
+the support is screwed out of the retainer again and 
+concurrently interactions between the target spots 
+and the sample fluid are detected. 
+
+31. The method as claimed in claim 30, wherein the sam-
+ple fluid is conveyed from the recess of said retainer 
+through said channel by means of a displacement 
+effect of said support. 
+
+32. The method as claimed in one of claims 25 to 31, 
+wherein the targets are immobilized in said threaded 
+track of said support. 
+
+33. The method as claimed in claim 32, wherein DNA or 
+RNA targets are immobilized on the support and hy-
+bridized with the DNA or RNA samples which are 
+present in the sample fluid. 
+
+34. The method as claimed in one of claims 25 to 33, 
+wherein fluorescence-labeled samples are used. 
+
+35. The method as claimed in one of claims 25 to 34, 
+wherein 
+chemical or biological samples and/or targets are 
+applied onto defined regions of at least one gel-coat-
+ed threaded tracks, 
+the substances contained in said chemical or biolog-
+ical samples and/or targest are separated from each 
+
+other electrophoretically after the support has been 
+introduced into the retainer, and 
+the separated substances are subsequently detect-
+ed. 
+
+Revendications 
+
+1. Dispositif pour analyser des échantillons chimiques 
+ou biologiques comportant 
+un support qui présente une chemise essentielle-
+ment cylindrique dans laquelle au moins un filetage 
+profond hélicoïdal est taillé sur au moins une partie 
+de sa surface, lequel est fonctionnalisé de manière 
+à ce que des échantillons et/ou des cibles chimiques 
+ou biologiques puissent être appliquées dans le fi-
+letage, 
+un logement présentant un évidement essentielle-
+ment cylindrique et essentiellement complémentaire 
+au support, dans lequel le support peut être introduit 
+de manière à former, entre le support et la face in-
+terne de l'évidement du logement, au moins un canal 
+comportant des volumes de réaction définis. 
+
+2. Dispositif selon la revendication 1, caractérisé en 
+ce qu'on prévoit en outre des moyens pour agir chi-
+miquement ou physiquement sur les échantillons 
+et/ou cibles appliqués dans le filetage fonctionnalisé. 
+
+3. Dispositif selon l'une quelconque des revendications 
+1 ou 2, caractérisé en ce qu'on prévoit en outre 
+des moyens pour analyser les échantillons et/ou les 
+cibles. 
+
+4. Dispositif selon la revendication 3, caractérisé en 
+ce que le logement présente un dispositif d'excita-
+tion et de détection pour étudier les cibles et/ou son-
+des chimiques ou biologiques. 
+
+5. Dispositif selon la revendication 4, caractérisé en 
+ce que le dispositif d'excitation et de détection est 
+intégré dans le logement. 
+
+6. Dispositif selon la revendication 5, caractérisé en 
+ce que le dispositif d'excitation et de détection est 
+disposé à l'entrée, à l'extérieur de l'évidement du 
+logement. 
+
+7. Dispositif selon l'une quelconque des revendications 
+4 à 6, caractérisé en ce que le dispositif de détec-
+tion présente des moyens pour mesurer des signaux 
+de chimioluminescence, des signaux de fluorescen-
+ce, des signaux d'absorption ou la radioactivité. 
+
+8. Dispositif selon l'une quelconque des revendications 
+1 à 7, caractérisé en ce qu'on prévoit en outre un 
+dispositif d'entraînement pour faire pénétrer le sup-
+port dans le logement et sortir le support du loge-
+
+31 
+32 
+
+
+EP 1 303 353 B1 
+
+18 
+
+5 
+
+10 
+
+15 
+
+20 
+
+25 
+
+30 
+
+35 
+
+40 
+
+45 
+
+50 
+
+55 
+
+ment. 
+
+9. Dispositif selon l'une quelconque des revendications 
+1 à 8, caractérisé en ce qu'on prévoit en outre des 
+moyens pour acheminer des fluides à travers le ca-
+nal défini entre le support et le logement. 
+
+10. Dispositif selon la revendication 9, caractérisé en 
+ce que les moyens pour acheminer des fluides com-
+portent au moins un réservoir de fluide et un dispositif 
+de pompage. 
+
+11. Dispositif selon la revendication 10, caractérisé en 
+ce que les moyens sont configurés pour acheminer 
+des fluides depuis le support agissant comme piston 
+et l'évidement du logement servant de réservoir de 
+fluide. 
+
+12. Dispositif selon la revendication 11, caractérisé en 
+ce que le support comporte sur le devant un tronçon 
+cylindrique non fileté dont le diamètre extérieur cor-
+respond essentiellement au diamètre intérieur de 
+l'évidement du logement. 
+
+13. Dispositif selon la revendication 12, caractérisé en 
+ce que dans le tronçon cylindrique non fileté, il y a 
+un passage qui communique, d'une part, avec le pas 
+de filet du support et, d'autre part, lorsque celui-ci 
+est à l'intérieur, avec l'évidement du logement. 
+
+14. Dispositif selon l'une quelconque des revendications 
+1 à 13, caractérisé en ce que des alésages radiaux 
+sont pratiqués dans la chemise du support et com-
+muniquent avec un alésage central prévu dans le 
+support. 
+
+15. Dispositif selon l'une quelconque des revendications 
+1 à 14, caractérisé en ce que la paroi intérieure de 
+l'évidement cylindrique du support est lisse. 
+
+16. Dispositif selon l'une quelconque des revendications 
+1 à 15, caractérisé en ce que la paroi intérieure de 
+l'évidement cylindrique du logement présente un 
+contre-filetage complémentaire qui est configuré de 
+manière à former un canal, le long du filetage, par 
+lequel du fluide peut être acheminé, après avoir vissé 
+le support dans le logement. 
+
+17. Dispositif selon la revendication 16, caractérisé en 
+ce que le filetage a un profil essentiellement rectan-
+gulaire ou trapézoïdal ou bien est configuré comme 
+un filetage métrique ISO, circulaire ou tubulaire. 
+
+18. Dispositif selon l'une quelconque des revendications 
+1 à 17, caractérisé en ce que le dispositif comporte 
+une réserve d'échantillons et/ou de cibles chimiques 
+ou biologiques. 
+
+19. Dispositif selon l'une quelconque des revendications 
+1 à 18, caractérisé en ce qu'on prévoit des moyens 
+pour appliquer les échantillons et/ou cibles chimi-
+ques ou biologiques sur le filetage fonctionnalisé du 
+support. 
+
+20. Dispositif selon l'une quelconque des revendications 
+1 à 19, caractérisé en ce que les échantillons et/ou 
+cibles chimiques ou biologiques sont appliqués dans 
+les filetages sous forme de spots définis. 
+
+21. Dispositif selon l'une quelconque des revendications 
+1 à 19, caractérisé en ce que les échantillons et/ou 
+cibles chimiques ou biologiques sont appliqués dans 
+les filetages sous forme de garniture continue. 
+
+22. Dispositif selon l'une quelconque des revendications 
+1 à 21, caractérisé en ce que le filetage est rempli 
+d'un gel. 
+
+23. Dispositif selon la revendication 22, caractérisé en 
+ce qu'on prévoit des moyens pour la séparation 
+électrophorétique des échantillons et/ou des cibles. 
+
+24. Utilisation du dispositif selon l'une quelconque des 
+revendications 1 à 23 pour analyser l'ADN ou l'ARN. 
+
+25. Procédé pour analyser des échantillons chimiques 
+ou biologiques en utilisant un dispositif selon l'une 
+quelconque des revendications 1 à 23, dans lequel 
+on introduit des échantillons et/ou cibles chimiques 
+ou biologiques sous forme de spots individuels dé-
+finis dans un filetage fonctionnalisé profond hélicoï-
+dal pratiqué dans la chemise cylindrique extérieure 
+du support ; 
+on introduit le support dans un évidement, essentiel-
+lement complémentaire à la chemise cylindrique, 
+d'un logement, 
+on agit chimiquement ou physiquement sur les 
+échantillons et/ou cibles et on analyse ensuite les 
+spots. 
+
+26. Procédé selon la revendication 25, caractérisé en 
+ce qu'on fait passer le support par un alimenteur 
+pour appliquer les spots dans un mouvement trans-
+latoire et rotatif combiné. 
+
+27. Procédé selon la revendication 26, caractérisé en 
+ce qu'on introduit le support dans le logement lors 
+de l'application des spots. 
+
+28. Procédé selon la revendication 27, caractérisé en 
+ce qu'on fait passer le support par un détecteur pour 
+analyser les spots dans un mouvement translatoire 
+et rotatif combiné. 
+
+29. Procédé selon la revendication 28, caractérisé en 
+ce qu'on retire le support du logement pour analyser 
+
+33 
+34 
+
+
+EP 1 303 353 B1 
+
+19 
+
+5 
+
+10 
+
+15 
+
+20 
+
+25 
+
+30 
+
+35 
+
+40 
+
+45 
+
+50 
+
+55 
+
+les spots. 
+
+30. Dispositif selon l'une quelconque des revendications 
+25 à 29, caractérisé en ce qu' 
+on visse le support dans le logement doté d'un con-
+tre-filetage correspondant tout en appliquant des 
+échantillons et/ou des cibles chimiques ou biologi-
+ques en forme de spots définis, 
+on achemine au moins un fluide échantillon à travers 
+un canal défini le long du filetage, 
+on redévisse le support du logement tout en détec-
+tant des interactions entre les spots et le fluide 
+échantillon. 
+
+31. Procédé selon la revendication 30, caractérisé en 
+ce qu'on achemine le fluide échantillon hors de l'évi-
+dement du logement par effet de déplacement du 
+support à travers le canal. 
+
+32. Dispositif selon l'une quelconque des revendications 
+25 à 31, caractérisé en ce qu'on immobilise les 
+cibles dans le filetage du support. 
+
+33. Procédé selon la revendication 32, caractérisé en 
+ce qu'on immobilise les cibles d'ADN ou d'ARN sur 
+le support et on hybride avec des échantillons d'ADN 
+ou d'ARN contenus dans le fluide échantillon. 
+
+34. Dispositif selon l'une quelconque des revendications 
+25 à 33, caractérisé en ce qu'on utilise des échan-
+tillons à marquage fluorescent. 
+
+35. Dispositif selon l'une quelconque des revendications 
+25 à 34, caractérisé en ce qu' 
+on applique des échantillons et/ou cibles chimiques 
+ou biologiques sur des zones définies d'au moins un 
+filetage recouvert de gel, 
+on sépare l'une de l'autre par électrophorèse les 
+substances contenues dans les échantillons et/ou 
+cibles chimiques ou biologiques après avoir introduit 
+le support dans le logement et 
+ensuite on détecte les substances clivées. 
+
+35 
+36 
+
+
+EP 1 303 353 B1 
+
+20 
+
+
+EP 1 303 353 B1 
+
+21 
+
+
+EP 1 303 353 B1 
+
+22 
+
+
+EP 1 303 353 B1 
+
+23 
+
+
+EP 1 303 353 B1 
+
+24 
+
+
+EP 1 303 353 B1 
+
+25 
+
+
+EP 1 303 353 B1 
+
+26 
+
+IN DER BESCHREIBUNG AUFGEFÜHRTE DOKUMENTE 
+
+Diese Liste der vom Anmelder aufgeführten Dokumente wurde ausschließlich zur Information des Lesers aufgenommen 
+und ist nicht Bestandteil des europäischen Patentdokumentes. Sie wurde mit größter Sorgfalt zusammengestellt; das 
+EPA übernimmt jedoch keinerlei Haftung für etwaige Fehler oder Auslassungen. 
+
+In der Beschreibung aufgeführte Patentdokumente 
+
+• 
+WO 9015070 A [0006] 
+• 
+WO 9107087 A [0006] 
+• 
+WO 9210092 A [0006] 
+• 
+WO 92110587 A [0006] 
+• 
+WO 9210588 A [0006] 
+
+• 
+US 5143854 A [0006] 
+• 
+DE 19828837 A1 [0010] 
+• 
+US 5427948 A [0011] 
+• 
+WO 0040334 A [0012] [0012] 
+
+In der Beschreibung aufgeführte Nicht-Patentliteratur 
+
+• 
+FODOR et al. Lightdirected, spatially addressable 
+parallel chemical synthesis. Science, 1991, vol. 251, 
+767-773 [0006] 
+• 
+L.M. ADLEMAN. Computing with DNA. Scientific 
+American, 1998, vol. 279 (2), 54-61 [0054] 
+• 
+LIU et al. Progress toward demonstration of a surface 
+based DNA computation: a one word approach to 
+solve a model satisfiability problem. Biosystems, 
+1999, vol. 51 (1-3), 25-33 [0054] 
+
+• 
+SMITH et al. A surface based approach to DNA com-
+putation. Journal of Computational Biology, 1998, 
+vol. 5 (2), 255-267 [0054] 
+• 
+CHOMCZYNSKI P. ; SACCHI N. Anal. Biochem., 
+1987, vol. 162 (1), 156-159 [0093] 
+
+
+
+	
+
