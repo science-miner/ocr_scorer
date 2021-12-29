@@ -1,0 +1,1508 @@
+Patentansprüche 
+
+1. Monoklonaler Antikörper P2D3, hergestellt durch das als P2D3 bezeichnete und bei der ECACC unter der Zugangs-
+nummer 97042331 hinterlegte Hybridoma, oder ein monoklonaler Antikörper, der mit dem monoklonalen Antikörper 
+P2D3 um die Bindung an ein Wildtyp-Hepatitis-B-Oberflächenantigen, auch HBsAg genannt, und an zumindest 
+zwei mutierte Formen von HBsAg kreuzkonkurriert, wobei die mutierten Formen von HBsAg eine Aminosäuresub-
+stitution innerhalb der Sequenz, welche die Aminosäuren 133 bis 145 von HBsAg kodiert, relativ zum Wildtyp-HBsAg 
+haben. 
+
+2. Monoklonaler Antikörper wie in Anspruch 1 beansprucht, wobei eine mutierte Form von HBsAg die Sequenz von 
+
+
+EP 0 904 378 B1 
+
+25 
+
+5 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+HBsAg enthält, die in einer HBV-Escapemutante vorhanden ist. 
+
+3. Monoklonaler Antikörper wie in Anspruch 1 oder Anspruch 2 beansprucht, wobei die Aminosäuresubstitution aus 
+einer Punktmutation resultiert. 
+
+4. Monoklonaler Antikörper wie in einem der Ansprüche 1 bis 3 beansprucht, wobei eine HBsAg-Mutante eine Ami-
+nosäuresubstitution an mehr als einer der Positionen 133, 134, 141, 142, 143, 144 und 145 relativ zum Wildtyp-
+HBsAg hat. 
+
+5. Monoklonaler Antikörper wie in einem der Ansprüche 1 bis 3 beansprucht, wobei die Substitution an einer oder 
+mehreren der Stellen 143, 144 und 145 ist. 
+
+6. Monoklonaler Antikörper wie in Anspruch 1 beansprucht, der mit dem monoklonalen Antikörper P2D3 um die Bindung 
+an ein Wildtyp-HBsAg und an zumindest zwei der folgenden mutierten Formen von HBsAg kreuzkonkurriert: 
+
+Mutante HBsAg I, auch "NP"-HBsAg genannt: Untertyp ayw, Mutationen met zu ile an Aminosäure 133, phe 
+zu his an Aminosäure 134 und asp zu val an Aminosäure 144, 
+Mutant HBsAg II ("MAM"-HBsAg): Untertyp adr, Mutationen met zu ile an Aminosäure 133, phe zu asn an 
+Aminosäure 134, pro zu ser an Aminosäure 142, ser zu leu an Aminosäure 143 und gly zu lys an Aminosäure 145, 
+Mutant HBsAg III, auch "SZ"-HBsAg genannt: Untertyp adr, Mutation gly zu arg an Aminosäure 145, 
+Mutant HBsAg IV, auch "SP"-HBsAg genannt: Untertyp adw, Mutation ser zu met an Aminosäure 143. 
+
+7. Monoklonaler Antikörper wie in Anspruch 1 beansprucht, welcher der monoklonale Antikörper M3A10 ist, hergestellt 
+durch das als M3A10 bezeichnete und bei der ECACC unter der Zugangsnummer ECACC 97042330 hinterlegte 
+Hybridoma. 
+
+8. Monoklonaler Antikörper wie in Anspruch 1 beansprucht, welcher der monoklonale Antikörper M4F5 ist, hergestellt 
+durch das als M4F5 bezeichnete und bei der ECACC unter der Zugangsnummer ECACC 97042519 hinterlegte 
+Hybridoma. 
+
+9. Monoklonaler Antikörper wie in einem der Ansprüche 1 bis 8 beansprucht in humanisierter Form. 
+
+10. Ein Fragment oder Derivat eines monoklonalen Antikörpers wie in einem der Ansprüche 1 bis 9 beansprucht, wobei 
+das Fragment oder Derivat mit dem monoklonalen Antikörper P2D3 um die Bindung an Wildtyp-HBsAg und an 
+zumindest zwei mutierte Formen von HBsAg kreuzkonkurriert. 
+
+11. Verfahren zur Herstellung eines Hybridomas, das zur Herstellung eines monoklonalen Antikörpers wie in einem der 
+Ansprüche 1 bis 9 beansprucht fähig ist, aufweisend das Immunisieren eines Tieres mit einem Wildtyp-HBsAg-oder 
+einer mutierten Form von HBsAg-Antigen, wahlweise in der Form eines geeigneten Antigen-Fragments oder Derivats 
+davon, Immortalisieren der Antikörper erzeugenden Zellen um Hybridomas zu bilden, Screenen der Hybridomakul-
+turen auf Kreuzkonkurrenz mit monoklonalem Antikörper P2D3 oder einem monoklonalen Antikörper, wie er in 
+einem der Ansprüche 2 bis 4 für die Bindung an ein Wildtyp-HBsAg und zwei oder mehr mutierten Formen von 
+HBsAg beansprucht ist, wahlweise in der Form eines geeigneten Antigen-Fragments oder Derivats davon und 
+Auswählen von solchen Hybridomas, die Antikörper erzeugen, die kreuzkonkurrieren. 
+
+12. Hybridoma, das für die Herstellung eines monoklonalen Antikörpers wie in einem der Ansprüche 1 bis 9 beansprucht 
+fähig ist. 
+
+13. Hybridoma, das als P2D3 bezeichnet und bei der ECACC unter der Zugangsnummer ECACC 97042331 hinterlegt ist. 
+
+14. Hybridoma, das als M3A10 bezeichnet und bei der ECACC unter der Zugangsnummer ECACC 97042330 hinterlegt 
+ist. 
+
+15. Hybridoma, das als M4F5 bezeichnet und bei der ECACC unter der Zugangsnummer ECACC 97042519 hinterlegt ist. 
+
+16. Verfahren zur Herstellung eines monoklonalen Antikörpers wie in einem der Ansprüche 1 bis 9 beansprucht, auf-
+weisend das Kultivieren eines Hybridomas wie in einem der Ansprüche 12 bis 15 beansprucht oder erhalten durch 
+ein Verfahren wie in Anspruch 11 beansprucht, in vitro oder in vivo, und Erhalten des monoklonalenAntikörpers aus 
+
+
+EP 0 904 378 B1 
+
+26 
+
+5 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+dem Kulturmedium. 
+
+17. Immunoassay für die Bestimmung von HBsAg, aufweisend das in Kontakt bringen einer zu untersuchenden Probe 
+mit einem monoklonalen Antikörper wie in einem der Ansprüche 1 bis 9 beansprucht, einem Fragment oder Derivat 
+davon wie in Anspruch 10 beansprucht, oder eine Kombination aus zwei oder mehreren davon und Bestimmen von 
+irgendeinem resultierenden Antigen-Antikörper-Komplex. 
+
+18. Immunoassay wie in Anspruch 17 beansprucht, wobei der monoklonale Antikörper, das Fragment, Derivat oder 
+Kombination davon, in Kombination mit einem oder mehreren anderen Antikörpern, ausgewählt aus polyklonalen 
+Anti-HBs-Antikörpern und anderen monoklonalen Anti-HBs-Antikörpern verwendet wird. 
+
+19. Immunoassay wie in Anspruch 17 oder Anspruch 18 beansprucht, in einem homogenen oder heterogenen Format. 
+
+20. Immunoassay wie in Anspruch 19 beansprucht in einem Capture-oder kompetitiven Format. 
+
+21. Immunoassay wie in einem der Ansprüche 17 bis 20 beansprucht, wobei ein hnmunoassay für die Bestimmung von 
+Antikörpern für Hepatitis-B-Kernprotein (HBc) gleichzeitig mit dem Assay für HBsAg ausgeführt wird. 
+
+22. Immunoassaykit, aufweisend einen monoklonalen Antikörper wie in einem der Ansprüche 1 bis 9 beansprucht, ein 
+Fragment oder Derivat davon, wie in Anspruch 10 beansprucht, oder eine Kombination aus zwei oder mehreren 
+davon, sowie anderen Reagenzien, die für das Ausführen eines Immunoassays für HBsAg erforderlich sind und 
+wahlweise auch Reagenzien für die Bestimmung von Anti-HBc-Antikörpern. 
+
+23. Kit wie in Anspruch 22 beansprucht, das auch Reagenzien für die Bestimmung von Anti-HBc-Antikörpern aufweist. 
+
+24. Kit wie in Anspruch 22 oder Anspruch 23 beansprucht, welches auch weitere Anti-HBs-Antikörper aufweist, ausge-
+wählt aus der Gruppe bestehend aus polyklonalen Anti-HBs-Antikörpern und monoklonalen Anti-HBs-Antikörpern. 
+
+25. Kit wie in einem der Ansprüche 22 bis 24 beansprucht, wobei die Reagenzien, die für das Ausführen eines Immun-
+oassays für HBsAg erforderlich sind, ausgewählt werden aus Waschlösungen, Verdünnungsmitteln, Standardlö-
+sungen, Kontrollreagenzien und markierten Anti-HBs-Antikörpern. 
+
+26. Feste Phase, geeignet für die Verwendung in einem Immunoassay, auf welcher ein monoklonaler Antikörper wie 
+in einem der Ansprüche 1 bis 9 beansprucht, ein Fragment oder Derivat davon, wie in Anspruch 10 beansprucht, 
+oder eine Kombination aus zwei oder mehreren davon immobilisiert ist. 
+
+27. Feste Phase wie in Anspruch 26 beansprucht, wobei ein oder mehrere weitere Anti-HBs-Antikörper, ausgewählt 
+aus polyklonalen Anti-HBs-Antikörpern und anderen monoklonalen Anti-HBs-Antikörpem, ebenfalls auf der festen 
+Phase immobilisiert werden. 
+
+28. Feste Phase wie in Anspruch 26 oder Anspruch 27 beansprucht, auf welcher auch ein Mittel immobilisiert ist, das 
+Anti-HBc-Antikörper einfängt. 
+
+29. Zusammensetzung, geeignet für die therapeutische oder prophylaktische Verwendung für die passive Immunisie-
+rung gegen HBV, aufweisend einen monoklonalen Antikörper wie in einem der Ansprüche 1 bis 9 beansprucht, ein 
+Fragment oder Derivat wie in Anspruch 10 beansprucht, oder eine Kombination von zwei oder mehreren davon in 
+einer Mischung mit einem pharmazeutisch geeigneten Träger. 
+
+30. Zusammensetzung wie in Anspruch 29 beansprucht, die auch weitere Antikörper aufweist, ausgewählt aus der 
+Gruppe bestehend aus polyklonalen Anti-HBs-Antikörpern und monoklonalen Anti-HBs-Antikörpern. 
+
+31. Anti-idiotypischer Antikörper zu einem monoklonalen Antikörper wie in einem der Ansprüche 1 bis 9 beansprucht 
+oder einem Fragment oder Derivat davon, wie in Anspruch 10 beansprucht. 
+
+
+
+
+
+Patentansprüche 
+
+1. Vektorpartikel mit einem modifizierten viralen Oberflächenprotein zum Richten des Vektorpartikels auf eine extra-
+zelluläre Matrixkomponente, wobei das virale Oberflächenprotein so modifiziert ist, dass es ein Targeting-Polypeptid 
+mit einer an eine extrazelluläre Matrixkomponente bindenden Bindungsregion aufweist, wobei das Vektorpartikel 
+ein retrovirales Vektorpartikel ist, das modifizierte virale Oberflächenprotein eine modifizierte retrovirale Hülle ist 
+und die extrazelluläre Matrixkomponente Kollagen ist. 
+
+2. Retrovirales Vektorpartikel nach Anspruch 1, wobei die retrovirale Hülle eine Rezeptorbindungsregion aufweist, 
+wobei die Rezeptorbindungsregion so modifiziert ist, dass sie ein Targeting-Polypeptid mit einer an eine extrazelluläre 
+Matrixkomponente bindenden Bindungsregion aufweist. 
+
+3. Retroviraler Vektor nach Anspruch 2, wobei vor der Modifikation die Rezeptorbindungsregion der Hülle die Sequenz 
+SEQ ID NO: 1 aufweist und im modifizierten Polypeptid das Targeting-Polypeptid zwischen die Aminosäurereste 18 
+und 19 von SEQ ID NO: 1 eingefügt ist. 
+
+4. Retroviraler Vektor nach Anspruch 1, wobei die an Kollagen bindende Bindungsregion den folgenden Aufbau auf-
+weist: 
+Trp-Arg-Glu-Pro-Ser-Phe-Met-Ala-Leu-Ser. 
+
+5. Retrovirales Vektorpartikel nach einem der Ansprüche 1 bis 4, wobei das retrovirale Vektorpartikel eine erste retro-
+virale Hülle und eine zweite retrovirale Hülle aufweist, wobei die erste retrovirale Hülle und zweite retrovirale Hülle 
+jeweils (i) eine Rezeptorbindungsregion; (ii) eine hypervariable Polyprolinregion; und (iii) einen Körperabschnitt; 
+aufweisen und wobei die erste retrovirale Hülle frei von nicht retroviralen Peptiden ist und die zweite retrovirale Hülle 
+eine modifizierte retrovirale Hülle ist, wobei das Targeting-Polypeptid zwischen zwei benachbarte Aminosäurereste 
+der zweiten retroviralen Hülle eingefügt ist. 
+
+6. Retrovirales Vektorpartikel nach Anspruch 5, wobei das Targeting-Polypeptid zwischen zwei fortlaufend nummerierte 
+Aminosäurereste der Rezeptorbindungsregion der zweiten retroviralen Hülle eingefügt ist. 
+
+7. Retrovirales Vektorpartikel nach Anspruch 6, wobei vor der Modifikation die Rezeptorbindungsregion der zweiten 
+retroviralen Hülle die Sequenz SEQ ID NO: 1 aufweist und das Targeting-Polypeptid zwischen die Aminosäurereste 
+18 und 19 von SEQ ID NO: 1 eingefügt ist. 
+
+8. Modifiziertes Polynukleotid, das ein modifiziertes virales Oberflächenprotein zum Richten eines Vektors auf eine 
+extrazelluläre Matrixkomponente kodiert, wobei das modifizierte Polynukleotid ein Polynukleotid aufweist, das ein 
+Targeting-Polypeptid kodiert, wobei das Targeting-Polypeptid eine Bindungsregion aufweist, die an eine extrazel-
+luläre Matrixkomponente bindet, wobei das modifizierte Polynukleotid ein modifiziertes retrovirales Hüllpolypeptid 
+kodiert und die extrazelluläre Matrixkomponente Kollagen ist. 
+
+9. Modifiziertes Polynukleotid nach Anspruch 8, wobei das retrovirale Hüllpolypeptid eine Rezeptorbindungsregion 
+aufweist, wobei im modifizierten Polynukleotid das Polynukleotid, das die Rezeptorbindungsregion kodiert, derart 
+
+
+EP 0 973 538 B1 
+
+22 
+
+5 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+modifiziert ist, dass es ein Polynukleotid aufweist, das ein Targeting-Polypeptid kodiert, welches eine an die extra-
+zelluläre Matrixkomponente bindende Bindungsregion enthält. 
+
+10. Modifiziertes Polynukleotid nach Anspruch 9, wobei vor der Modifikation das Polynukleotid, das die Rezeptorbin-
+dungsregion kodiert, eine Rezeptorbindungsregion kodiert, die die Sequenz SEQ ID NO: 1 aufweist, und im modi-
+fizierten Polynukleotid das Polynukleotid, das das Targeting-Polypeptid kodiert, zwischen das Kodon, das den 
+Aminosäurerest 18 kodiert, und das Kodon, das den Aminosäurerest 19 kodiert, eingefügt ist. 
+
+11. Erzeugerzelle zum Erzeugen eines retroviralen Vektorpartikels mit einem modifizierten Hüllpolypeptid, wobei die 
+Erzeugerzelle das modifizierte Polynukleotid nach Anspruch 8 aufweist. 
+
+12. Retrovirales Vektorpartikel nach Anspruch 1, weiter mindestens ein Polynukleotid umfassend, das ein therapeuti-
+sches Mittel kodiert. 
+
+13. Verwendung des retroviralen Vektorpartikels nach Anspruch 12 zur Herstellung einer Zusammensetzung, die für 
+die Gentherapie von Nutzen ist. 
+
+14. Modifiziertes retrovirales Hüllpolypeptid, wobei vor der Modifikation die Hülle ein Polypeptid mit der Sequenz SEQ 
+ID NO: 1 aufweist und wobei in der modifizierten Hülle ein Targeting-Polypeptid mit einer Bindungsregion, die an 
+eine extrazelluläre Matrixkomponente bindet, zwischen den Aminosäurerest 18 und den Aminosäurerest 19 von 
+SEQ ID NO: 1 eingefügt ist, wobei die Bindungsregion an Kollagen bindet. 
+
+15. Polypeptid nach Anspruch 14, wobei die Bindungsregion, die an Kollagen bindet, den folgenden Aufbau hat: 
+Trp-Arg-Glu-Pro-Ser-Phe-Met-Ala-Leu-Ser. 
+
+16. Retroviraler Plasmidvektor, umfassend das modifizierte Polynukleotid nach Anspruch 8. 
+
+17. Verfahren zum Erzeugen von retroviralen Vektorpartikeln, umfassend: 
+
+(a) die Transfektion einer Zelllinie, die aus der Gruppe bestehend aus (i) einer Vorverpackungszelllinie mit 
+Polynukleotiden, die die gag und pol retroviralen Proteine kodieren; und (ii) einer Verpackungszelllinie mit 
+Polynukleotiden, die die gag, pol und env retroviralen Proteine kodieren, ausgewählt ist, mit dem retroviralen 
+Plasmidvektor nach Anspruch 16, um eine Erzeugerzelllinie zu bilden; und 
+(b) das Kultivieren der Erzeugerzelllinie zum Erzeugen von retroviralen Vektorpartikeln. 
+
+
+
+
+
+
+
+
+
+Patentansprüche 
+
+1. Gemisch zum Markieren eines Chromosoms bestimmter Sonden, das aus einem Gemisch zweier IRS-PCR-Am-
+plifizierungsprodukte aus dem Chromosom gebildet wird und sich zum einen aus 
+einem durch Verwenden eines für Alu-DNA-Sequenzen spezifischen Primers oder für LINE-DNA-Sequenzen spe-
+zifischen Primers erhaltenen PCR-Amplifizierungsprodukt und zum anderen aus 
+einem durch Verwenden eines für Alu-DNA-Sequenzen spezifischen Primers und für LINE-DNA-Sequenzen spe-
+zifischen Primers erhaltenen PCR-Amplifizierungsprodukt zusammensetzt. 
+
+2. Sondengemisch gemäß Anspruch 1, das aus einem Gemisch zweier IRS-PCR-Amplifizierungsprodukte gebildet 
+wird und sich zum einen aus 
+einem durch Verwenden eines für Alu-DNA-Sequenzen spezifischen Primers erhaltenen PCR-Amplifizierungspro-
+dukt 
+und zum anderen aus 
+einem durch Verwenden eines für Alu-DNA-Sequenzen spezifischen Primers und für LINE-DNA-Sequenzen spe-
+zifischen Primers erhaltenen PCR-Amplifizierungsprodukt zusammensetzt. 
+
+3. Sondengemisch gemäß Anspruch 1, das aus einem Gemisch zweier IRS-PCR-Amplifizierungsprodukte gebildet 
+wird und sich zum einen aus 
+einem durch Verwenden eines für LINE-DNA-Sequenzen spezifischen Primers erhaltenen PCR-Amplifizierungs-
+produkt 
+und andererseits aus 
+einem durch Verwenden eines für Alu-DNA-Sequenzen spezifischen Primers und für LINE-DNA-Sequenzen spe-
+zifischen Primers erhaltenen PCR-Amplifizierungsprodukt zusammensetzt. 
+
+4. Sondengemisch gemäß einem der Ansprüche 1 bis 3, dadurch gekennzeichnet, daß die durch IRS-PCR ampli-
+fizierten DNA-Segmente somatische monochromosomale Nager/ Human-Hybride als Ursprung aufweisen. 
+
+5. Sondengemisch gemäß einem der Ansprüche 1 bis 4, dadurch gekennzeichnet, daß die Sonden für ein humanes 
+Chromosom spezifisch sind. 
+
+6. Sondengemisch gemäß einem der Ansprüche 1 bis 5, dadurch gekennzeichnet, daß die verwendeten spezifischen 
+Primer die folgenden Primersequenzen umfassen oder sind: 
+
+-SEQ ID Nr. 1 für den auf Alu-DNA-Sequenzen spezifischen Primer, 
+-SEQ ID Nr. 2 und 3 für den auf LINE-DNA-Sequenzen spezifischen Primer. 
+
+7. Sondengemisch gemäß einem der Ansprüche 1 bis 6, dadurch gekennzeichnet, daß die DNA-Segmente durch 
+Fluoreszenztechniken direkt oder indirekt markiert sind. 
+
+8. DNA-Sondengemisch gemäß Anspruch 7, dadurch gekennzeichnet, daß die DNA-Segmente durch wenigstens 
+einen Fluorophor markiert sind, der aus Fluoresceinisothiocyanat (FITC), Texasrot (TR), Cyanin 3 (Cy3), Cyanin 5 
+(Cy5), Cyanin 5,5 (Cy5,5), Cyanin 7 (Cy7) und Bodipy 630/650 ausgewählt ist. 
+
+9. Menge an Sondengemischen zur Markierung humaner Chromosomen, dadurch gekennzeichnet, daß sie Son-
+dengemische gemäß einem der Ansprüche 1 bis 8 für jedes humane Chromosom enthält. 
+
+10. Verfahren zur Herstellung von Sondengemischen zur Markierung humaner Chromosomen, dadurch gekennzeich-
+net, daß das Verfahren die folgenden Schritte umfaßt: 
+
+-Ausführen zweier IRS-PCR-Amplifizierungen aus den Chromosomen unter Verwenden zum einen für Alu-
+
+
+EP 1 121 461 B1 
+
+23 
+
+5 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+und LINE-DNA-Sequenzen spezifischer PCR-Primer und zum anderen für Alu-DNA-Sequenzen spezifischer 
+PCR-Primer oder für LINE-DNA-Sequenzen spezifischer PCR-Primer und 
+-Mischen der beiden Amplifizierungsprodukte. 
+
+11. Verfahren gemäß Anspruch 10, dadurch gekennzeichnet, daß die beiden IRS-PCR-Amplifizierungen zum einen 
+für Alu-und LINE-DNA-Sequenzen spezifische PCR-Primer und zum anderen für Alu-DNA-Sequenzen spezifische 
+PCR-Primer verwenden. 
+
+12. Verfahren gemäß Anspruch 10, dadurch gekennzeichnet, daß die beiden IRS-PCR-Amplifizierungen zum einen 
+für Alu-und LINE-DNA-Sequenzen spezifische PCR-Primer und zum anderen für LINE-DNA-Sequenzen spezifische 
+PCR-Primer verwenden. 
+
+13. Verwendung eines Sondengemischs gemäß einem der Ansprüche 1 bis 8 oder einer Menge von Sondengemischen 
+gemäß Anspruch 9 zum Anfärben und zum Markieren zytogenetischer Banden eines Chromosoms. 
+
+14. Mehrfarben-FISH-Verfahren, dadurch gekennzeichnet, daß zu seiner Ausführung Sondengemische gemäß einem 
+der Ansprüche 1 bis 8 oder eine Menge von Sondengemischen gemäß Anspruch 9 verwendet werden. 
+
+15. Verfahren gemäß Anspruch 14, dadurch gekennzeichnet, daß die DNA-Sonden durch Fluorophore markiert sind 
+und dadurch, daß jeder Fluorophor mit einer spezifischen Absorptions-und Emissionswellenlänge mit einem Paar 
+optischer Filter, einem für die Absorption und einem für die Emission, verbunden ist, wobei das Verfahren Fluorophore 
+und Filterpaare verwendet, die aus der folgenden Gruppe ausgewählt sind: 
+
+a) dem Fluorophor FITC mit einem Maximum der Absorptionswellenlänge von 494 nm und einem Maximum 
+der Emissionswellenlänge von 517 nm kombiniert mit einem Anregungsfilter des Typs 490DF30 (Omega Optical) 
+und mit einem Emissionsfilter des Typs 530DF30 (Omega Optical), 
+b) dem Fluorophor Cy3 mit einem Maximum der Absorptionswellenlänge von 554 nm und einem Maximum der 
+Emissionswellenlänge von 568 nm kombiniert mit einem Anregungsfilter des Typs 546DF10 (Omega Optical) 
+und mit einem Emissionsfilter des Typs 570DF10 (Omega Optical), 
+c) dem Fluorophor TR mit einem Maximum der Absorptionswellenlänge von 593 nm und einem Maximum der 
+Emissionswellenlänge von 613 nm kombiniert mit einem Anregungsfilter des Typs 590DF10 (Omega Optical) 
+und mit einem Emissionsfilter des Typs 615DF10 (Omega Optical), 
+d) dem Fluorophor Cy5 mit einem Maximum der Absorptionswellenlänge von 652 nm und einem Maximum der 
+Emissionswellenlänge von 670 nm kombiniert mit einem Anregungsfilter des Typs 650DF20 (Omega Optical) 
+und mit einem Emissionsfilter des Typs 670DF10 (Omega Optical), 
+e) dem Fluorophor Cy7 mit einem Maximum der Absorptionswellenlänge von 743 nm und einem Maximum der 
+Emissionswellenlänge von 767 nm kombiniert mit einem Anregungsfilter des Typs 740DF25 (Omega Optical) 
+und mit einem Emissionsfilter des Typs 780EFLP (Omega Optical), 
+f) dem Fluorophor Cy5,5 mit einem Maximum der Absorptionswellenlänge von 675 nm und einem Maximum 
+der Emissionswellenlänge von 694 nm kombiniert mit einem Anregungsfilter des Typs 680DF20 (Omega Optical) 
+und mit einem Emissionsfilter des Typs 700EFLP (Omega Optical), 
+g) dem Fluorophor Bodipy 630/650 mit einem Maximum der Absorptionswellenlänge von 632 nm und einem 
+Maximum der Emissionswellenlänge von 658 nm kombiniert mit einem Anregungsfilter des Typs 630DF20 
+(Omega Optical) und mit einem Emissionsfilter des Typs 650DF10 (Omega Optical). 
+
+16. Verfahren gemäß Anspruch 15, dadurch gekennzeichnet, daß die optischen Filter die folgenden Eigenschaften 
+aufweisen: 
+
+-sie sind vom 6-Cavity-Typ, 
+-sie weisen eine ADI von 0 ° auf, 
+-sie weisen eine Toleranz von λ 0 20 % der FWHM auf, 
+-sie weisen eine Toleranz bei der FWHM von 20 % der FWHM auf, 
+-sie weisen eine Unterdrückung außerhalb des Durchlaßbereichs von OD5 für UV bei 1200 nm auf, 
+-sie weisen eine Durchlässigkeitskurve T ≥ 50 % bei λ 0 auf. 
+
+17. Verfahren gemäß Anspruch 16, dadurch gekennzeichnet, daß die optischen Filter außerdem die folgenden Merk-
+male aufweisen: 
+
+
+EP 1 121 461 B1 
+
+24 
+
+5 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+-sie weisen einen zentrierten nutzbaren Durchmesser größer als 21 mm auf, 
+-sie weisen eine Dicke ≤ 7 mm auf. 
+
+18. Verfahren gemäß einem der Ansprüche 14 bis 17, dadurch gekennzeichnet, daß die Sonden zur Untersuchung 
+von Karyotypen und Karyotypen von Chromosomenumlagerungen verwendet werden. 
+
+19. Diagnosekit, dadurch gekennzeichnet, daß er wenigstens wie in den Ansprüchen 1 bis 8 beschriebene Gemische 
+von DNA-Sonden oder eine Menge von Sondengemischen gemäß Anspruch 9 umfaßt. 
+
+20. Kit gemäß Anspruch 19, dadurch gekennzeichnet, daß die DNA-Sonden mit Fluorophoren markiert sind, und 
+dadurch, daß jeder Fluorophor mit einer spezifischen Absorptions-und Emissionswellenlänge mit einem Paar 
+optischer Filter, einem zur Absorption und einem zur Emission, verbinden ist, wobei der Kit Fluorophore und Filter-
+paare verwendet, die aus der folgenden Gruppe ausgewählt sind: 
+
+a) dem Fluorophor FITC mit einem Maximum der Absorptionswellenlänge von 494 nm und einem Maximum 
+der Emissionswellenlänge von 517 nm kombiniert mit einem Anregungsfilter des Typs 490DF30 (Omega Optical) 
+und mit einem Emissionsfilter des Typs 530DF30 (Omega Optical), 
+b) dem Fluorophor Cy3 mit einem Maximum der Absorptionswellenlänge von 554 nm und einem Maximum der 
+Emissionswellenlänge von 568 nm kombiniert mit einem Anregungsfilter des Typs 546DF10 (Omega Optical) 
+und mit einem Emissionsfilter des Typs 570DF10 (Omega Optical), 
+c) dem Fluorophor TR mit einem Maximum der Absorptionswellenlänge von 593 nm und einem Maximum der 
+Emissionswellenlänge von 613 nm kombiniert mit einem Anregungsfilter des Typs 590DF10 (Omega Optical) 
+und mit einem Emissionsfilter des Typs 615DF10 (Omega Optical), 
+d) dem Fluorophor Cy5 mit einem Maximum der Absorptionswellenlänge von 652 nm und einem Maximum der 
+Emissionswellenlänge von 670 nm kombiniert mit einem Anregungsfilter des Typs 650DF20 (Omega Optical) 
+und mit einem Emissionsfilter des Typs 670DF10 (Omega Optical), 
+e) dem Fluorophor Cy7 mit einem Maximum der Absorptionswellenlänge von 743 nm und einem Maximum der 
+Emissionswellenlänge von 767 nm kombiniert mit einem Anregungsfilter des Typs 740DF25 (Omega Optical) 
+und mit einem Emissionsfilter des Typs 780EFLP (Omega Optical), 
+f) dem Fluorophor Cy5,5 mit einem Maximum der Absorptionswellenlänge von 675 nm und einem Maximum 
+der Emissionswellenlänge von 694 nm kombiniert mit einem Anregungsfilter des Typs 680DF20 (Omega Optical) 
+und mit einem Emissionsfilter des Typs 700EFLP (Omega Optical), 
+g) dem Fluorophor Bodipy 630/650 mit einem Maximum der Absorptionswellenlänge von 632 nm und einem 
+Maximum der Emissionswellenlänge von 658 nm kombiniert mit einem Anregungsfilter des Typs 630DF20 
+(Omega Optical) und mit einem Emissionsfilter des Typs 650DF10 (Omega Optical). 
+
+
+EP 1 121 461 B1 
+
+25 
+
+
+
+
+
+
+
+
+Patentansprüche 
+
+1. Polynucleotid, umfassend eine Nucleotidsequenz ausgewählt aus der Gruppe bestehend aus: 
+
+(a) der Nucleotidsequenz von SEQ ID NO: 1; 
+(b) der Nucleotidsequenz von SEQ ID NO: 1 von Nucleotid 65 bis Nucleotid 601 ; 
+(c) der Nucleotidsequenz einer für ein Volllängen-Protein kodierenden Sequenz von Klon hGIL-19/AE289, 
+hinterlegt unter der Zugangsnummer ATCC 207231 ; 
+(d) der Nucleotidsequenz einer für ein reifes Protein kodierenden Sequenz von Klon hGIL-19/AE289, hinterlegt 
+unter der Zugangsnummer ATCC 207231; 
+(e) der Nucleotidsequenz, kodierend für ein Protein, das die Aminosäuresequenz von SEQ ID NO: 2 umfasst; 
+(f) der Nucleotidsequenz, kodierend für ein Protein, das die Aminosäuresequenz von SEQ ID NO: 2 von etwa 
+Aminosäure 34 bis 179 umfasst; und 
+(g) der Nucleotidsequenz, kodierend für ein Protein, das ein Fragment der Aminosäuresequenz von SEQ ID 
+NO: 2 umfasst, wobei das Fragment eine Aminosäuresequenz umfasst ausgewählt aus der Gruppe bestehend 
+aus Aminosäuren 50-60, 63-81 und 168-177 von SEQ ID NO: 2. 
+
+2. Polynucleotid nach Anspruch 1, wobei dieses Polynucleotid funktionell mit mindestens einer Expressionskontroll-
+sequenz verbunden ist. 
+
+3. Wirtszelle, transformiert mit dem Polynucleotid nach Anspruch 2. 
+
+4. Wirtszelle nach Anspruch 3, wobei diese Zelle eine Säugetierzelle ist. 
+
+5. Verfahren zur Herstellung eines Proteins, das durch das Polynucleotid nach Anspruch 2 kodiert wird, wobei das 
+Verfahren umfasst: 
+
+(a) Züchten einer Kultur aus einer Wirtszelle, transformiert mit dem Polynucleotid nach Anspruch 2, in einem 
+geeigneten Kulturmedium; und 
+(b) Reinigen dieses Proteins aus der Kultur. 
+
+6. Protein, hergestellt gemäß dem Verfahren nach Anspruch 5. 
+
+7. Polynucleotid, kodierend für das Protein nach Anspruch 6. 
+
+8. Polynucleotid nach Anspruch 7, wobei das Polynucleotid die für das Volllängen-oder das reife Protein kodierende 
+Sequenz von Klon hGIL-19/AE289 umfasst, hinterlegt unter der Zugangsnummer ATCC 207231. 
+
+9. Protein, umfassend eine Aminosäuresequenz ausgewählt aus der Gruppe bestehend aus: 
+
+(a) der Aminosäuresequenz von SEQ ID NO: 2. 
+(b) einem Fragment der Aminosäuresequenz von SEQ ID NO: 2, wobei das Fragment eine Aminosäuresequenz 
+umfasst ausgewählt aus der Gruppe bestehend aus Aminosäuren 50-60, 63-81 und 168-177 von SEQ ID NO: 2. 
+(c) der Aminosäuresequenz, kodiert durch eine für ein Volllängen-Protein kodierende Sequenz von Klon hGIL-
+19/AE289, hinterlegt unter der Zugangsnummer ATCC 207231 ; 
+(d) der Aminosäuresequenz, kodiert durch eine für ein reifes Protein kodierende Sequenz von Klon hGIL-
+19/AE289, hinterlegt unter der Zugangsnummer ATCC 207231; und 
+(e) der Aminosäuresequenz von SEQ ID NO: 2 von etwa Aminosäure 34 bis 179. 
+
+10. Protein nach Anspruch 9, wobei dieses Protein die Aminosäuresequenz von SEQ ID NO: 2 umfasst. 
+
+11. Zusammensetzung, enthaltend das Protein nach Anspruch 9 und einen pharmazeutisch unbedenklichen Träger. 
+
+
+EP 1 177 312 B1 
+
+30 
+
+5 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+12. Polynucleotid nach Anspruch 1, wobei das Polynucleotid die Nucleotidsequenz von SEQ ID NO: 1 umfasst. 
+
+13. Polynucleotid nach Anspruch 1, wobei das Polynucleotid die Nucleotidsequenz von SEQ ID NO: 1 von Nucleotid 65 
+bis Nucleotid 601 umfasst. 
+
+14. Polynucleotid nach Anspruch 1, wobei das Polynucleotid die Nucleotidsequenz für eine das Volllängen-Protein 
+kodierende Sequenz von Klon hGIL-19/AE289 umfasst, hinterlegt unter der Zugangsnummer ATCC 207231. 
+
+15. Polynucleotid nach Anspruch 14, wobei die für das Volllängen-Protein kodierende Sequenz kodiert wird durch den 
+cDNA-Einschub von Klon hGIL-19/AE289, hinterlegt unter der Zugangsnummer ATCC 207231. 
+
+16. Polynucleotid nach Anspruch 1, wobei das Polynucleotid die Nucleotidsequenz für eine das reife Protein kodierende 
+Sequenz von Klon hGIL-19/AE289 umfasst, niedergelegt unter der Zugangsnummer ATCC 207231. 
+
+17. Polynucleotid nach Anspruch 16, wobei die für das reife Protein kodierende Sequenz kodiert wird durch den cDNA-
+Einschub von Klon hGIL-19/AE289, hinterlegt unter der Zugangsnummer ATCC 207231. 
+
+18. Polynucleotid nach Anspruch 1, wobei das Polynucleotid für ein Protein kodiert, das die Aminosäuresequenz von 
+SEQ ID NO: 2 umfasst. 
+
+19. Polynucleotidsequenz nach Anspruch 1, wobei das Polynucleotid für ein Protein kodiert, das ein Fragment der 
+Aminosäuresequenz von SEQ ID NO: 2 umfasst, wobei das Fragment eine Aminosäuresequenz umfasst ausgewählt 
+aus der Gruppe bestehend aus Aminosäuren 50-60, 63-81 und 168-177 von SEQ ID NO: 2. 
+
+20. Protein nach Anspruch 9, wobei das Protein ein Fragment der Aminosäuresequenz von SEQ ID NO: 2 umfasst, 
+wobei das Fragment eine Aminosäuresequenz umfasst ausgewählt aus der Gruppe bestehend aus Aminosäuren 
+50-60, 63-81 und 168-177 von SEQ ID NO: 2. 
+
+21. Protein nach Anspruch 9, wobei das Protein die Aminosäuresequenz umfasst, die durch eine für ein Volllängen-
+Protein kodierende Sequenz von Klon hGIL-19/AE289 kodiert wird, hinterlegt unter der Zugangsnummer ATCC 
+207231. 
+
+22. Antikörper oder Fragment davon, dass an ein Protein nach Anspruch 9, 10, 20 oder 39 bindet. 
+
+23. Antikörper nach Anspruch 22, wobei es sich um einen neutralisierenden Antikörper handelt. 
+
+24. Antikörper nach Anspruch 22, der ausgewählt wird aus der Gruppe bestehend aus einem monoklonalen Antikörper, 
+einem polyklonalen Antikörper, einem chimären Antikörper, einem einkettigen Antikörper, einem CDR-grafted An-
+tikörper und einem humanisierten Antikörper. 
+
+25. Antikörper nach Anspruch 22, wobei es sich um einen menschlichen Antikörper handelt. 
+
+26. Antikörper nach Anspruch 24 oder 25, wobei es sich um einen monoklonalen Antikörper handelt. 
+
+27. Verwendung eines Antikörpers nach einem der Ansprüche 22 -26 zur Herstellung einer pharmazeutischen Zusam-
+mensetzung zur Behandlung oder Vorbeugung von Arthritis. 
+
+28. Verfahren nach Anspruch 27, wobei die Arthritis rheumatoide Arthritis ist. 
+
+29. Polynucleotid nach Anspruch 1, wobei das Polynucleotid eine Nucleotidsequenz umfasst, die für ein Protein kodiert 
+mit der Aminosäuresequenz von SEQ ID NO: 2 von etwa Aminosäure 34 bis 179. 
+
+30. Protein nach Anspruch 21, wobei die für das Volllängen-Protein kodierende Sequenz kodiert wird durch den cDNA-
+Einschub von Klon hGIL-19/AE289, hinterlegt unter der Zugangsnummer ATCC 207231. 
+
+31. Protein nach Anspruch 9, wobei das Protein die Aminosäuresequenz umfasst, die durch eine für ein reifes Protein 
+kodierende Sequenz von Klon hGIL-19/AE289 kodiert wird, hinterlegt unter der Zugangsnummer ATCC 207231. 
+
+
+EP 1 177 312 B1 
+
+31 
+
+5 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+32. Protein nach Anspruch 31, wobei die für das reife Protein kodierende Sequenz kodiert wird durch den cDNA-Einschub 
+von Klon hGIL-19/AE289, hinterlegt unter der Zugangsnummer ATCC 207231. 
+
+33. Protein nach Anspruch 9, wobei das Protein die Aminosäuresequenz von SEQ ID NO: 2 von etwa Aminosäure 34 
+bis 179 umfasst. 
+
+34. Polynucleotid, umfassend eine Nucleotidsequenz, die unter hoch stringenten Bedingungen an SEQ ID NO: 1 oder 
+ein Komplement davon hybridisiert. 
+
+35. Protein, kodiert durch eine Nucleotidsequenz, die unter hoch stringenten Bedingungen an das Komplement von 
+SEQ ID NO: 1 hybridisiert. 
+
+36. Polynucleotid, kodierend für ein Fragment eines Proteins, das eine Aminosäuresequenz umfasst ausgewählt aus 
+der Gruppe bestehend aus Aminosäuren 50-60, 63-81 und 168-177 von SEQ ID NO: 2. 
+
+37. Fragment eines Proteins, umfassend eine Aminosäuresequenz ausgewählt aus der Gruppe bestehend aus Ami-
+nosäuren 50-60, 63-81 und 168-177 von SEQ ID NO: 2. 
+
+38. Zusammensetzung, umfassend den Antikörper oder ein Fragment davon nach Anspruch 22. 
+
+39. Fusionsprotein, umfassend das Protein nach Anspruch 20, fusioniert an ein Trägermolekül. 
+
+40. Fusionsprotein nach Anspruch 39, wobei das Trägermolekül ein Immunglobulin oder der Fc-Teil eines Immunglo-
+bulins ist. 
+
+41. Fusionsprotein nach Anspruch 40, wobei das Protein nach Anspruch 20 an ein Trägermolekül durch eine Linker-
+sequenz fusioniert ist. 
+
+42. Fusionsprotein nach Anspruch 40, wobei das Immunglobulin ein IgG-oder ein IgM-Immunglobulin ist. 
+
+43. Fusionsprotein nach Anspruch 42, wobei das Immunglobulin ein IgG-Immunglobulin ist. 
+
+
+
+
+
+
+
+
+
+
+Patentansprüche 
+
+1. Verfahren zum Betreiben eines Kommunikations-
+netzwerks (30) mit einem Benutzerprofilspeicher 
+(56), wobei das Verfahren die Schritte aufweist: 
+
+Abrufen einer gewählten Zielnetzwerknummer 
+aus Signalisierungsdaten eines Anrufs von ei-
+
+nem anrufenden Benutzer (10) an einen ange-
+rufenen Benutzer; 
+Zugreifen auf den Benutzerprofilspeicher (56) 
+gemäß der abgerufenen gewählten Zielnum-
+mer, um ein entsprechendes Benutzerprofil (68) 
+abzurufen; und 
+wenn das abgerufene Benutzerprofil (68) eine 
+vorgegebene Anzeige enthält, die eine entspre-
+chende Bedingung anzeigt, die zu dem angeru-
+fenen Benutzer gehört, Senden an den anrufen-
+den Benutzer (10) eines Befehls, um ein zu dem 
+anrufenden Benutzer gehörendes Telefon zu 
+veranlassen, eine vorgegebene Menüfunktion 
+einzugehen, die zu dieser Bedingung gehört; 
+dadurch gekennzeichnet, dass die Bedin-
+gung ist, dass ein Telefon, das zu dem angeru-
+fenen Benutzer gehört, eine beschränkte Liefer-
+modus-Nachricht an das Netzwerk (30) gesen-
+det hat, und dass die vorgegebene Menüfunkti-
+on eine "schreibe Nachrichten"-Funktion ist. 
+
+2. Verfahren gemäß Anspruch 1, einschließlich des 
+Schritts eines Empfangens von Nachrichtendaten in 
+Textform von dem anrufenden Benutzer (10) an dem 
+Netzwerk (30) und als Antwort des Sendens einer 
+Nachricht an den angerufenen Benutzer. 
+
+3. Verfahren zum Betreiben eines Kommunikations-
+netzwerks (30) mit einem Benutzerprofilspeicher 
+(56), wobei das Verfahren die Schritte aufweist: 
+
+Abrufen einer gewählten Zielnetzwerknummer 
+aus Signalisierungsdaten eines Anrufs von ei-
+nem anrufenden Benutzer (10) an einen ange-
+rufenen Benutzer; 
+Zugreifen auf den Benutzerprofilspeicher (56) 
+gemäß der abgerufenen gewählten Zielnum-
+mer, um ein entsprechendes Benutzerprofil (68) 
+abzurufen; und 
+wenn das abgerufene Benutzerprofil (68) eine 
+vorgegebene Anzeige enthält, die eine entspre-
+chende Bedingung anzeigt, die zu dem angeru-
+fenen Benutzer gehört, Senden an den anrufen-
+den Benutzer (10) eines Befehls, um ein zu dem 
+anrufenden Benutzer gehörendes Telefon zu 
+veranlassen, eine vorgegebene Menüfunktion 
+einzugehen, die zu dieser Bedingung gehört; 
+dadurch gekennzeichnet, dass die Bedin-
+gung ist, dass der angerufene Benutzer aktuell 
+zu einer Netzwerknummer gehört, die anders ist 
+als die Netzwerknummer, zu der der angerufene 
+Benutzer vorher gehörte, und dass der Befehl 
+die aktuelle Netzwerknummer des angerufenen 
+Benutzers enthält und auch das Telefon veran-
+lasst, das zu dem anrufenden Benutzer (10) ge-
+hört, diese aktuelle Netzwerknummer anzuzei-
+gen, und wobei die vorgegebene Menüfunktion 
+eine Telefonbuchfunktion ist. 
+
+15 
+16 
+
+
+EP 1 269 785 B1 
+
+10 
+
+5 
+
+10 
+
+15 
+
+20 
+
+25 
+
+30 
+
+35 
+
+40 
+
+45 
+
+50 
+
+55 
+
+4. Verfahren gemäß Anspruch 3, wobei der Anruf von 
+dem anrufenden Benutzer (10) getätigt wurde durch 
+Auswählen eines Eintrags aus dem Telefonbuch und 
+wobei die vorgegebene Menüfunktion eine Bearbei-
+tungsfunktion der Telefonbuchfunktion ist. 
+
+5. Verfahren gemäß Anspruch 3, wobei der Anruf von 
+dem anrufenden Benutzer (10) getätigt wurde durch 
+Eingabe der Zielnummer über eine Tastatur und wo-
+bei die vorgegebene Menüfunktion eine Eintrag-hin-
+zufügen-Funktion der Telefonbuchfunktion ist. 
+
+6. Verfahren gemäß Anspruch 5, wobei das Netzwerk 
+(30) an das Telefon, das zu dem anrufenden Benut-
+zer (10) gehört, auch Daten sendet, die den Namen 
+des angerufenen Benutzers anzeigen, zur Verwen-
+dung durch den anrufenden Benutzer beim Hinzu-
+fügen eines Eintrags in das Telefonbuch. 
+
+7. Verfahren gemäß Anspruch 6, wobei das Netzwerk 
+(30) den Namen des angerufenen Benutzers in die-
+sem Befehl sendet. 
+
+8. Verfahren gemäß Anspruch 6, wobei das Netzwerk 
+(30) den Namen des angerufenen Benutzers in ei-
+nem getrennten Befehl sendet als Antwort auf ein 
+Akzeptanzsignal, das von dem Telefon gesendet 
+wird, das zu dem anrufenden Benutzer (10) gehört, 
+und anzeigt, dass der anrufende Benutzer die Ein-
+trag-hinzufügen-Funktion aktiviert hat. 
+
+9. Verfahren gemäß einem der Ansprüche 1 bis 8, wo-
+bei der Befehl erzeugt wird gemäß Menüstrukturda-
+ten, die aus dem Speicher abgerufen werden gemäß 
+einer Identität der anrufenden Leitung, die aus den 
+Signalisierungsdaten abgerufen wird. 
+
+10. Verfahren gemäß Anspruch 9, wobei Benutzerpro-
+file (68) einen Identifizierer für eine Telefonausrü-
+stung enthalten, die aktuell mit dem Benutzer regi-
+striert ist, und wobei die Menüstrukturdaten abgeru-
+fen werden aus einer Zuordnung der Menüstruktur-
+daten zu dem Ausrüstungsidentifizierer durch Zu-
+greifen auf diese Zuordnung gemäß einem Identifi-
+zierer, der aus dem Profil des anrufenden Benutzers 
+abgerufen wird. 
+
+11. Verfahren gemäß Anspruch 10, wobei der Befehl ei-
+ne Nummernsequenz aufweist, die einem Menü-
+Shortcut für die vorgegebene Menüfunktion ent-
+spricht. 
+
+12. Kommunikationsnetzwerk (30) mit einem Benutzer-
+profilspeicher (56), das ausgebildet ist: 
+
+eine gewählte Zielnummer aus Signalisierungs-
+daten eines Anrufs von einem anrufenden Be-
+nutzer (10) an einen angerufenen Benutzer ab-
+
+zurufen; 
+auf den Benutzerprofilspeicher (56) gemäß der 
+abgerufenen gewählten Zielnummer zuzugrei-
+fen, um ein entsprechendes Benutzerprofil (68) 
+abzurufen; und 
+wenn das abgerufene Benutzerprofil (68) eine 
+vorgegebene Anzeige enthält, die eine entspre-
+chende Bedingung anzeigt, die zu dem angeru-
+fenen Benutzer gehört, an den anrufenden Be-
+nutzer (10) einen Befehl zu senden, um ein zu 
+dem anrufenden Benutzer gehörendes Telefon 
+zu veranlassen, eine vorgegebene Menüfunkti-
+on einzugehen, die zu dieser Bedingung gehört; 
+dadurch gekennzeichnet, dass das Netzwerk 
+(30) ausgebildet ist, auf die vorgegebene Anzei-
+ge, die anzeigt, dass ein zu dem angerufenen 
+Benutzer gehörendes Telefon eine beschränkte 
+Liefermodus-Nachricht an das Netzwerk (30) 
+gesendet hat, zu reagieren durch Erzeugen des 
+Befehls derart, um das zu dem anrufenden Be-
+nutzer (10) gehörende Telefon eine "schreibe 
+Nachrichten"-Funktion einzugehen. 
+
+13. Kommunikationsnetzwerk (30) gemäß Anspruch 12, 
+das ausgebildet ist, von dem anrufenden Benutzer 
+(10) Nachrichtendaten in Textform zu empfangen 
+und durch Senden einer Nachricht an den angeru-
+fenen Benutzer zu antworten. 
+
+14. Kommunikationsnetzwerk (30) mit einem Benutzer-
+profilspeicher (56), das ausgebildet ist: 
+
+eine gewählte Zielnummer aus Signalisierungs-
+daten eines Anrufs von einem anrufenden Be-
+nutzer (10) an einen angerufenen Benutzer ab-
+zurufen; 
+auf den Benutzerprofilspeicher (56) gemäß der 
+abgerufenen gewählten Zielnummer zuzugrei-
+fen, um ein entsprechendes Benutzerprofil (68) 
+abzurufen; und 
+wenn das abgerufene Benutzerprofil (68) eine 
+vorgegebene Anzeige enthält, die eine entspre-
+chende Bedingung anzeigt, die zu dem angeru-
+fenen Benutzer gehört, an den anrufenden Be-
+nutzer (10) einen Befehl zu senden, um ein zu 
+dem anrufenden Benutzer gehörendes Telefon 
+zu veranlassen, eine vorgegebene Menüfunkti-
+on einzugehen, die zu dieser Bedingung gehört; 
+dadurch gekennzeichnet, dass das Netzwerk 
+(30) ausgebildet ist, auf die vorgegebene Anzei-
+ge, die anzeigt, dass die gewählte Zielnummer 
+eine nicht-aktuelle Zielnummer ist, die zu dem 
+angerufenen Benutzer gehört, zu reagieren, den 
+Befehl derart zu erzeugen, um die aktuelle Ziel-
+nummer des angerufenen Benutzers aufzuneh-
+men und um das zu dem anrufenden Benutzer 
+(10) gehörende Telefon zu veranlassen, eine 
+Telefonbuchfunktion einzugehen und die aktu-
+
+17 
+18 
+
+
+EP 1 269 785 B1 
+
+11 
+
+5 
+
+10 
+
+15 
+
+20 
+
+25 
+
+30 
+
+35 
+
+40 
+
+45 
+
+50 
+
+55 
+
+elle Zielnummer anzuzeigen. 
+
+15. Netzwerk (30) gemäß Anspruch 14 und weiter aus-
+gebildet, um an den anrufenden Benutzer (10) den 
+Namen des angerufenen Benutzers zu senden zur 
+Verwendung durch den anrufenden Benutzer beim 
+Hinzufügen eines Eintrags in das Telefonbuch. 
+
+16. Netzwerk (30) gemäß Anspruch 15 und weiter aus-
+gebildet, um den Namen des angerufenen Benut-
+zers zu senden durch dessen Aufnahme in den Be-
+fehl. 
+
+17. Netzwerk (30) gemäß Anspruch 16 und weiter aus-
+gebildet, um auf einen Empfang eines Akzeptanzsi-
+gnals zu antworten, das von dem zu dem anrufenden 
+Benutzer (10) gehörende Telefon gesendet wird und 
+anzeigt, dass der anrufende Benutzer eine Eintrag-
+hinzufügen-Funktion aktiviert hat, um den Namen 
+des angerufenen Benutzers in einem getrennten Be-
+fehl zu senden. 
+
+18. Netzwerk (30) gemäß einem der Ansprüche 12 bis 
+17 und ausgebildet, um den Befehl gemäß Menü-
+strukturdaten zu erzeugen, die aus einem Speicher 
+abgerufen werden gemäß einer Identität der anru-
+fenden Leitung, die aus den Signalisierungsdaten 
+abgerufen wird. 
+
+19. Netzwerk (30) gemäß Anspruch 18, das aufweist ein 
+Zuordnen von Menüstrukturdaten zu dem Ausrü-
+stungsidentifizierer, und das Benutzerprofile (68) 
+hat, die einen Identifizierer für eine Telefonausrü-
+stung enthalten, die aktuell mit dem Benutzer regi-
+striert ist, und ausgebildet ist, Menüstrukturdaten ab-
+zurufen durch Zugreifen auf die Zuordnung gemäß 
+einem Identifizierer, der aus dem Profil des anrufen-
+den Benutzers abgerufen wird. 
+
+20. Netzwerk (30) gemäß Anspruch 19 und ausgebildet, 
+in den Befehl eine Nummernsequenz aufzunehmen, 
+die einem Menü-Shortcut für die vorgegebene Me-
+nüfunktion entspricht. 
+
+
+
+
+
+
+
+
+Patentansprüche 
+
+1. Bei einem mobilen Übertragungssystem in einem 
+Codemultiplex-Vielfachzugriffssystem angewende-
+tes Übertragungsverfahren zum kontinuierlichen 
+Übertragen von Rahmen in einem normalen Modus 
+und zum intermittierenden Übertragen verdichteter 
+Rahmen in einem verdichteten Modus gemäß einer 
+mit einer Übertragungsleistungs-Steuerschrittgröße 
+gesteuerten Übertragungsleistung, welches Verfah-
+ren aufweist: 
+
+Übertragen von Übertragungsleistungs-Steuer-
+informationen, die eine Erhöhung oder eine Ab-
+senkung der Übertragungsleistung anzeigen, 
+von einer Basisstation zu einer mobilen Station; 
+Empfangen der Übertragungsleistungs-Steuer-
+informationen von der Basisstation in einer mo-
+bilen Station; 
+Auswählen von einer aus einer ersten Übertra-
+gungsleistungs-Steuerschrittgröße für den nor-
+malen Modus und einer zweiten Übertragungs-
+leistungs-Steuerschrittgröße für den verdichte-
+ten Modus, wobei die zweite Übertragungslei-
+stungs-Steuerschrittgröße größer als die erste 
+Übertragungsleistungs-Steuerschrittgröße ist; 
+Einstellen der Übertragungsleistung mit der in 
+dem Auswahlschritt ausgewählten Übertra-
+gungsleistungs-Steuerschrittgröße auf der 
+Grundlage der in dem Empfangsschritt empfan-
+genen Übertragungsleistungs-Steuerinforma-
+tionen; 
+Durchführen einer Verschachtelung bei einem 
+Rahmen in Biteinheiten in dem normalen Modus 
+und in dem verdichteten Modus, wobei der Rah-
+men eine Einheit eines Übertragungsdaten-
+stroms ist; und 
+kontinuierliches Übertragen des verschachtel-
+ten Rahmens gemäß der in dem Einstellschritt 
+mit der ersten Übertragungsleistungs-Steuer-
+schrittgröße eingestellten Übertragungslei-
+stung in dem normalen Modus, und 
+Verdichten des verschachtelten Rahmens, Tei-
+len des verschachtelten und verdichteten Rah-
+mens in einen ersten Bereich enthaltend die 
+Vorderkante eines Rahmenzeitpunkts und ei-
+
+nen zweiten Bereich enthaltend die Hinterkante 
+des Rahmenfensters, wobei das Rahmenfen-
+ster dasselbe wie ein Rahmenfenster in dem 
+normalen Modus ist, und intermittierendes 
+Übertragen des geteilten Rahmens gemäß der 
+in dem Einstellschritt mit der zweiten Übertra-
+gungsleistungs-Steuerschrittgröße eingestell-
+ten Übertragungsleistung in dem verdichteten 
+Modus. 
+
+2. Bei einem mobilen Übertragungssystem in einem 
+Codemultiplex-Vielfachzugriffssystem angewende-
+tes Übertragungsverfahren zum kontinuierlichen 
+Übertragen von Rahmen in einem normalen Modus 
+und zum intermittierenden Übertragen verdichteter 
+Rahmen in einem verdichteten Modus gemäß der 
+mit einer Übertragungsleistungs-Steuerschrittgröße 
+gesteuerten Übertragungsleistung, welches Verfah-
+ren aufweist: 
+
+Übertragen von Übertragungsleistungs-Steuer-
+informationen, die eine Erhöhung oder Absen-
+kung der Übertragungsleistung anzeigen, von 
+einer mobilen Station zu einer Basisstation; 
+Empfangen der Übertragungsleistungs-Steuer-
+informationen von der mobilen Station in einer 
+Basisstation; 
+Auswählen von einer aus einer ersten Übertra-
+gungsleistungs-Steuerschrittgröße für den nor-
+malen Modus und einer zweiten Übertragungs-
+leistungs-Steuerschrittgröße für den verdichte-
+ten Modus, wobei die zweite Übertragungslei-
+stungs-Steuerschrittgröße größer als die erste 
+Übertragungsleistungs-Steuerschrittgröße ist; 
+Einstellen der Übertragungsleistung mit der in 
+dem Auswahlschritt ausgewählten Übertra-
+gungsleistungs-Steuerschrittgröße auf der 
+Grundlage der in dem Empfangsschritt empfan-
+genen Übertragungsleistungs-Steuerinforma-
+tionen; 
+Durchführen einer Verschachtelung bei einem 
+Rahmen in Biteinheiten in dem normalen Modus 
+und in dem verdichteten Modus, wobei der Rah-
+men eine Einheit eines Übertragungsdaten-
+stroms ist; und kontinuierliches Übertragen des 
+verschachtelten Rahmens gemäß der in dem 
+Einstellschritt mit der ersten Übertragungslei-
+stungs-Steuerschrittgröße eingestellten Über-
+tragungsleistung in dem normalen Modus, und 
+Verdichten des verschachtelten Rahmens, Tei-
+len des verschachtelten und verdichteten Rah-
+mens in einen ersten Bereich enthaltend die 
+Vorderkante eines Rahmenzeitpunkts und ei-
+nen zweiten Bereich enthaltend die Hinterkante 
+des Rahmenfensters, wobei das Rahmenfen-
+ster dasselbe wie ein Rahmenfenster in dem 
+normalen Modus ist, und intermittierendes 
+Übertragen des geteilten Rahmens gemäß der 
+
+39 
+40 
+
+
+EP 1 699 141 B1 
+
+22 
+
+5 
+
+10 
+
+15 
+
+20 
+
+25 
+
+30 
+
+35 
+
+40 
+
+45 
+
+50 
+
+55 
+
+in dem Einstellschritt mit der zweiten Übertra-
+gungsleistungs-Steuerschrittgröße eingestell-
+ten Übertragungsleistung in dem verdichteten 
+Modus. 
+
+3. Bei einer Basisstation in einem Codemultiplex-Viel-
+fachzugriffssystem angewendetes Übertragungs-
+verfahren zum kontinuierlichen Übertragen von Rah-
+men in einem normalen Modus und zum intermittie-
+renden Übertragen verdichteter Rahmen in einem 
+verdichteten Modus gemäß einer mit einer Übertra-
+gungsleistungs-Steuerschrittgröße 
+gesteuerten 
+Übertragungsleistung, welches Verfahren aufweist: 
+
+Empfangen von Übertragungsleistungs-Steuer-
+informationen von einer mobilen Station; 
+Auswählen von einer aus einer ersten Übertra-
+gungsleistungs-Steuerschrittgröße für den nor-
+malen Modus und einer zweiten Übertragungs-
+leistungs-Steuerschrittgröße für den verdichte-
+ten Modus, wobei die zweite Übertragungslei-
+stungs-Steuerschrittgröße größer als die erste 
+Übertragungsleistungs-Steuerschrittgröße ist; 
+Einstellen der Übertragungsleistung mit der in 
+dem Auswahlschritt ausgewählten Übertra-
+gungsleistungs-Steuerschrittgröße auf der 
+Grundlage der in dem Empfangsschritt empfan-
+genen Übertragungsleistungs-Steuerinforma-
+tionen; 
+Durchführen einer Verschachtelung bei einem 
+Rahmen in Biteinheiten in dem normalen Modus 
+und in dem verdichteten Modus, wobei der Rah-
+men eine Einheit eines Übertragungsdaten-
+stroms ist; und kontinuierliches Übertragen des 
+verschachtelten Rahmens gemäß der in dem 
+Einstellschritt mit der ersten Übertragungslei-
+stungs-Steuerschrittgröße eingestellten Über-
+tragungsleistung in dem normalen Modus, und 
+Verdichten des verschachtelten Rahmens, Tei-
+len des verschachtelten und verdichteten Rah-
+mens in einen ersten Bereich enthaltend die 
+Vorderkante eines Rahmenzeitpunkts und ei-
+nen zweiten Bereich enthaltend die Hinterkante 
+des Rahmenfensters, welches Rahmenfenster 
+dasselbe wie ein Rahmenfenster in dem norma-
+len Modus ist, und intermittierendes Übertragen 
+des geteilten Rahmens gemäß der in dem Ein-
+stellschritt mit der zweiten Übertragungslei-
+stungs-Steuerschrittgröße eingestellten Über-
+tragungsleistung in dem verdichteten Modus. 
+
+
+
+
+
+Patentansprüche 
+
+1. Verfahren zum Entfernen einer Gal α1-3Gal-Struktur aus einem Schweinegewebe, das das Behandeln des Schwei-
+negewebes mit Endo-β-galactosidase C umfasst. 
+
+2. Verfahren nach Anspruch 1, bei dem Endo-β-galactosidase C ein durch (A) oder (B) definiertes Protein ist: 
+
+(A): Protein, das die Aminosäuresequenz der SEQ ID Nr. 2 umfasst; 
+(B): Protein, das eine Aminosäuresequenz umfasst, die die Aminosäuresequenz von (A) einschließlich Substi-
+tution, Deletion, Insertion oder Transposition zwischen einer und 40 Aminosäuren hat und Endo-β-galactosidase-
+Aktivität aufweist. 
+
+3. Verfahren nach Anspruch 2, bei dem die Endo-β-galactosidase C durch eine durch (a) oder (b) definierte DNS 
+kodiert wird: 
+
+(a): DNS, die die Nukleotidsequenz der Nukleotide Nummer 246 bis 2780 in SEQ ID Nr. 1 umfasst, 
+(b): DNS, die unter harten Bedingungen mit einer DNS hybridisierbar ist, die eine zur Nukleotidsequenz der 
+Nukloetide Nummer 246 bis 2780 in SEQ ID Nr. 1 komplementäre Nukleotidsequenz hat, und ein Protein mit 
+Endo-β-galactosidase-Aktivität kodiert, wobei die harten Bedingungen eine Temperatur von 42 °C, das Vor-
+handensein von 50 % Formaldehyd, 5 x SSPE, 5 x Denhart-Lösung und 0,1 % SDS umfassen. 
+
+4. Verfahren nach einem der Ansprüche 1 bis 3, bei dem das Schweinegewebe ein Gewebe zur Xenotransplantation ist. 
+
+5. Verfahren nach einem der Ansprüche 1 bis 3, bei dem das Schweinegewebe Schweineerythrozyt ist. 
+
+
+EP 1 225 220 B1 
+
+25 
+
+5 
+
+
+
+
+
+
+
+Patentansprüche 
+
+1. Vorrichtung zur mehrstufigen Quadratur-Amplitu-
+denmodulation von Eingangsdaten unter Verwen-
+dung eines Quadratur-Amplitudenmodulationssy-
+stems aus mehreren Quadratur-Amplitudenmodula-
+tionssystemen, wobei die Eingangsdaten für jeden 
+orthogonalen Datenkanal durch eine Bitzahl reprä-
+sentiert werden, die in Abhängigkeit von dem ver-
+wendeten 
+Quadratur-Amplitudenmodulationssy-
+stem unterschiedlich ist, wobei die Vorrichtung in je-
+dem der zwei orthogonalen Datenkanälen aufweist: 
+
+(a) einen Konverter (10, 20) zum Ändern der Bit-
+zahl und des Bitmusters der Eingangsdaten und 
+zum Erzeugen eines Digitalsignals auf der 
+Grundlage der geänderten Eingangsdaten; 
+(b) ein Digitalfilter (11, 21) zum digitalen Formen 
+der Wellenform des Digitalsignals; und 
+(c) einen Digital/ Analog-Wandler (12, 22) zum 
+Umwandeln des geformten Digitalsignals in ein 
+Analogsignal, 
+wobei die Vorrichtung ferner aufweist: 
+(d) einen Quadraturmodulator (30) zum Erzeu-
+gen einer quadratur-amplitudenmodulierten 
+Wellenform in Antwort auf die Analogsignale 
+von den Digital/ Analog-Wandlern, 
+
+7 
+8 
+
+
+EP 1 511 263 B1 
+
+6 
+
+5 
+
+10 
+
+15 
+
+20 
+
+25 
+
+30 
+
+35 
+
+40 
+
+45 
+
+50 
+
+55 
+
+wobei jeder Wandler (10, 20) eingerichtet ist, die Bit-
+zahl und das Bitmuster der Eingangsdaten in Ant-
+wort auf die Variation der Modulationsstufenzahl des 
+verwendeten Quadratur-Amplitudenmodulationssy-
+tems derart zu ändern, dass der Gleichspannungs-
+pegel des vom Wandler ausgegebenen Digitalsi-
+gnals oder des vom Digitalfilter ausgegebenen ge-
+formten Digitalsignals unabhängig von der Modula-
+tionsstufenzahl des Quadratur-Amplitudenmodulati-
+onssystems ungeändert bleibt. 
+
+2. Vorrichtung nach Anspruch 1, wobei jeder der bei-
+den Digitalfilter (11, 21) ein Digitalfilter vom FIR-Typ 
+ist. 
+
+3. Vorrichtung nach Anspruch 2, wobei der Digitalfilter 
+(11, 21) vom FIR-Typ mehrere Schieberegister, 
+mehrere Multiplizierer und einen Addierer aufweist. 
+
+4. Vorrichtung nach Anspruch 1, 2 oder 3, wobei der 
+Wandler (10, 20) eine Einrichtung zum Addieren ei-
+nes vorgegebenen Bits nach dem niedrigstwertigen 
+Bit der Eingangsdaten aufweist. 
+
+5. Verfahren zur mehrstufigen Quadratur-Amplituden-
+modulation von Eingangsdaten unter Verwendung 
+eines Quadratur-Amplitudenmodulationssystems 
+aus mehreren Quadratur-Amplitudenmodulations-
+systemen, wobei die Eingangsdaten für jeden ortho-
+gonalen Datenkanal durch eine Bitzahl repräsentiert 
+werden, die in Abhängigkeit von dem verwendeten 
+Quadratur-Amplitudenmodulationssystem 
+unter-
+schiedlich ist, wobei in jedem der zwei orthogonalen 
+Datenkanälen die folgenden Schritte vorgesehen 
+sind: 
+
+(a) Ändern (10, 20) der Bitzahl und des Bitmu-
+sters der Eingangsdaten; 
+(b) Erzeugen (10, 20) eines Digitalsignals auf 
+der Basis der geänderten Eingangsdaten; 
+(c) Filtern (11) des Digitalsignals mit Hilfe eines 
+Digitalfilters; und 
+(d) Digital-Analog-Umsetzung (12) der Ausgabe 
+des Digitalfilters in ein Analogsignal durch einen 
+Digital/ Analog-Wandler, 
+wobei nach dem Schritt (d) das Verfahren ferner 
+den folgenden Schritt aufweist: 
+(e) Modulieren (30) der Analogsignale mit Hilfe 
+eines Quadraturmodulators, 
+
+wobei im Schritt (a) die Änderung in Antwort auf die 
+Variation der Modulationsstufenzahl des verwende-
+ten Quadratur-Amplitudenmodulationssystems der-
+art erfolgt, dass der Gleichspannungspegel des im 
+Schritt (b) erzeugten Digitalsignals oder des im 
+Schritt (c) gefilterten Digitalsignals unabhängig von 
+der Modulationsstufenzahl des Quadratur-Amplitu-
+denmodulationssystems ungeändert bleibt. 
+
+6. Verfahren nach Anspruch 5, wobei der Digitalfilter 
+ein Digitalfilter vom FIR-Typ ist. 
+
+7. Verfahren nach Anspruch 6, wobei der Digitalfilter 
+vom FIR-Typ mehrere Schieberegister, mehrere 
+Multiplizierer und einen Addierer aufweist. 
+
+8. Verfahren nach Anspruch 5, 6 oder 7, wobei der Än-
+derungsschritt (a) den Schritt zum Addieren eines 
+vorgegebenen Bits nach dem niedrigstwertigen Bit 
+der Eingangsdaten aufweist. 
+
+
+
+
+
+Patentansprüche 
+
+1. Isolierte Nucleinsäure mit 
+
+(a) einer Nucleotidsequenz, die für ein Polypeptid kodiert, das über zumindest 80 % Aminosäureidentität mit 
+der in Fig. 2 dargestellten Aminosäuresequenz (Seq.-ID Nr. 2) verfügt oder 
+über zumindest 80 % Nucleinsäuresequenzidentität mit einer Nucleotidsequenz verfügt, die aus der aus Fol-
+gendem bestehenden Gruppe ausgewählt ist: 
+(b) Nucleotidsequenz, die in Fig.1 dargestellt ist (Seq.-ID Nr. 1), 
+(c) Volllängen-Kodiersequenz der in Fig. 1 dargestellten Nucleotidsequenz (Seq.-ID Nr. 1) und 
+(d) Volllängen-Kodiersequenz von DNA 128451-2739, die unter der ATCC-Zugangsnummer PTA-618 hinterlegt 
+ist, 
+
+worin die Nucleinsäuresequenzidentität unter Verwendung des ALIGN-2-Programms bestimmt wird und worin die 
+Nucleinsäure in Lungen-und/oder Colontumor amplifiziert wird. 
+
+2. Vektor, der die Nucleinsäure nach Anspruch 1 umfasst. 
+
+3. Vektor nach Anspruch 2, der operabel an die Kontrollsequenzen gebunden ist, die von einer Wirtszelle erkannt 
+werden, die mit dem Vektor transformiert ist. 
+
+4. Wirtszelle, umfassend den Vektor nach Anspruch 3. 
+
+5. Wirtszelle nach Anspruch 4, worin die Zelle eine CHO-Zelle, ein E. coli, eine Hefezelle oder eine baculovirusinfizierte 
+Insektenzelle ist. 
+
+6. Verfahren zur Herstellung eines PRO7133-Polypeptids, für welches die Nucleinsäure nach Anspruch 1 kodiert, 
+umfassend das Kultivieren der Wirtszelle nach Anspruch 5 unter für die Expression des Polypeptids geeigneten 
+Bedingungen und die Gewinnung des Polypeptids aus der Zellkultur. 
+
+7. Isoliertes Polypeptid, für welches eine Nucleinsäure nach Anspruch 1 kodiert, das über zumindest 80 % Aminosäu-
+resequenzidentität mit einer Aminosäuresequenz verfügt, die aus der aus Folgendem bestehenden Gruppe aus-
+gewählt ist: 
+
+(a) Aminosäuresequenz, die in Fig. 2 dargestellt ist (Seq-ID Nr. 2), und 
+(b) Aminosäuresequenz, für welche die kodierende Sequenz voller Länge von DNA128451-2739 kodiert, die 
+unter der ATCC-Hinterlegungsnummer PTA-618 hinterlegt ist, 
+
+worin die Aminosäuresequenzidenität unter Verwendung des ALIGN-2-Programms bestimmt wird. 
+
+8. Chimäres Molekül, das ein Polypeptid nach Anspruch 7 umfasst. 
+
+9. Chimäres Molekül nach Anspruch 8, worin die heterologe Aminosäuresequenz eine Epitopmarkierungssequenz 
+oder eine Fc-Region eines Immunglobulins ist. 
+
+10. Antikörper, der sich spezifisch an ein Polypeptid nach Anspruch 7 bindet. 
+
+11. Antikörper nach Anspruch 10, worin der Antikörper ein monoklonaler Antikörper, ein humanisierter Antikörper oder 
+ein einkettiger Antikörper ist. 
+
+12. Antikörper nach Anspruch 10, der ein monoklonaler Antikörper ist, der eine nicht-menschliche komplementaritäts-
+
+
+EP 1 623 990 B1 
+
+81 
+
+5 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+bestimmende Region (CDR) oder eine menschliche Gerüstregion (FR) umfasst. 
+
+13. Antikörper nach Anspruch 10, der markiert ist. 
+
+14. Antikörper nach Anspruch 10, der ein Antikörperfragment oder ein einkettiger Antikörper ist. 
+
+15. Isoliertes Nucleinsäuremolekül, das für den Antikörper nach Anspruch 10 kodiert. 
+
+16. Vektor, der das Nucleinsäuremolekül nach Anspruch 15 umfasst. 
+
+17. Wirtszelle, die den Vektor nach Anspruch 16 umfasst. 
+
+18. Verfahren zur Herstellung eines Antikörpers, der sich an ein PRO7133-Polypeptid nach Anspruch 7 bindet, wobei 
+das Verfahren das Kultivieren der Wirtszelle nach Anspruch 17 unter Bedingungen, die ausreichend sind, um eine 
+Expression des Antikörpers zu ermöglichen, und die Gewinnung des Antikörpers aus der Zellkultur umfasst. 
+
+19. Verfahren zur Bestimmung der Präsequenz eines PR07133-Polypeptids nach Anspruch 7 in einer Testprobe, die 
+unter dem Verdacht steht, das Polypeptid zu enthalten, wobei das Verfahren die Exposition der Probe gegenüber 
+einem Anti-PRO7133-Antikörper nach einem der Ansprüche 10 bis 14 und die Bestimmung der Bindung des Anti-
+körpers an das Polypeptid in der Probe umfasst. 
+
+20. Verfahren nach Anspruch 19, worin die Probe eine Zelle umfasst, die unter dem Verdacht steht, ein PRO7133-
+Polypeptid nach Anspruch 7 zu enthalten. 
+
+21. Verfahren nach Anspruch 20, worin die Zelle eine Krebszelle ist. 
+
+22. Verfahren zur Diagnose eines Tumors in einem Säugetier, wobei das Verfahren das Detektieren des Expressions-
+ausmaßes eines für ein PR07133-Polypeptid nach Anspruch 7 kodierenden Gens (a) in einer Testprobe von Ge-
+webezellen vom Säugetier und (b) in einer Kontrollprobe von bekannten normalen Gewebezellen desselben Zelltyps 
+umfasst, worin ein erhöhtes Expressionsausmaß in der Testprobe im Vergleich zur Kontrollprobe die Gegenwart 
+eines Tumors im Säugetier anzeigt, von welchem die Testgewebezellen erhalten wurden. 
+
+23. Verfahren zur Diagnose eines Tumors in einem Säugetier, wobei das Verfahren (a) das Kontaktieren eines Anti-
+PRO7133-Antikörpers nach einem der Ansprüche 10 bis 14 mit einer Testprobe von Gewebezellen vom Säugetier 
+und (b) das Detektieren der Bildung eines Komplexes zwischen dem Antikörper und einem PR07133-Polypeptid 
+nach Anspruch 7 in der Testprobe umfasst, worin die Bildung eines Komplexes die Gegenwart eines Tumors im 
+Säugetier anzeigt. 
+
+24. Verfahren nach Anspruch 23, worin der Antikörper detektierbar markiert ist. 
+
+25. Verfahren nach einem der Ansprüche 22 bis 24, worin die Testprobe von Gewebezellen aus einem Individuum 
+erhalten wird, das unter dem Verdacht steht, neoplastisches Zellwachstum oder -proliferation aufzuweisen. 
+
+26. Verfahren nach einem der Ansprüche 19 bis 25, worin die Testprobe Lungen-oder Colonzellen umfasst. 
+
+27. Krebsdiagnoseset, das einen Anti-PR07133-Antikörper nach einem der Ansprüche 10 bis 14 und einen Träger in 
+einer geeigneten Verpackung umfasst. 
+
+28. Set nach Anspruch 27, das weiters Anweisungen zum Gebrauch des Antikörpers zur Detektion der Gegenwart 
+eines PRO7133-Polypeptids nach Anspruch 7 in einer Probe umfasst, die unter dem Verdacht steht, dieses zu 
+enthalten. 
+
+
+

@@ -1,0 +1,1028 @@
+
+	
+
+HAL Id: hal-00927103 
+
+https://hal.sorbonne-universite.fr/hal-00927103 
+
+Submitted on 10 Jan 2014 
+
+HAL is a multi-disciplinary open access 
+archive for the deposit and dissemination of sci-
+entific research documents, whether they are pub-
+lished or not. The documents may come from 
+teaching and research institutions in France or 
+abroad, or from public or private research centers. 
+
+L'archive ouverte pluridisciplinaire HAL, est 
+destinée au dépôt et à la diffusion de documents 
+scientifiques de niveau recherche, publiés ou non, 
+émanant des établissements d'enseignement et de 
+recherche français ou étrangers, des laboratoires 
+publics ou privés. 
+
+Relever le défi de la résolution de l'équation de 
+Schrödinger 
+
+Thierry Leininger, Julien Toulouse 
+
+To cite this version: 
+
+Thierry Leininger, Julien Toulouse. Relever le défi de la résolution de l'équation de Schrödinger. 
+L'Actualité Chimique, Société chimique de France, 2014, 382-383, pp.13-21. hal-00927103 
+
+
+Relever le défi de la résolution de l'équation de Schrödinger 
+
+Thierry Leininger 1 et Julien Toulouse 2 
+
+1 Professeur, Laboratoire de Chimie et Physique Quantiques, 
+Université Paul Sabatier et CNRS, 118 route de Narbonne, 31062, Toulouse 
+(Tél : 0561556152 ; Courriel : thierry.leininger@irsamc.ups-tlse.fr) 
+
+2 Maître de conférences, Laboratoire de Chimie Théorique, 
+Université Pierre et Marie Curie et CNRS, 4 place Jussieu, 75252 Paris 
+(Tél. : 0144279658 ; Courriel : julien.toulouse@upmc.fr) 
+
+Résumé : La description des propriétés de la matière à l'échelle atomique passe en principe 
+
+par la résolution de l'équation de Schrödinger. Cependant, cette équation est généralement 
+bien trop compliquée à résoudre exactement et le défi relevé par la chimie quantique depuis 
+près de 90 ans, aidée par l'essor de l'informatique depuis 60 ans, est de trouver des solutions 
+approchées de cette équation. Dans cet article nous décrivons les principales méthodes, 
+devenues aujourd'hui standard, de résolutions de l'équation de Schrödinger basées sur la 
+construction de fonctions d'onde approchées pour les systèmes moléculaires. Nous décrivons 
+aussi quelques développements actuels qui visent à rendre ces méthodes applicables à des 
+systèmes moléculaires de grande taille composés de milliers d'atomes. 
+
+Mots-clés : chimie quantique ; équation de Schrödinger ; fonction d'onde ; corrélation 
+électronique ; méthode de calcul. 
+
+Taking up the challenge of solving the Schrödinger equation 
+
+Abstract: The description of the properties of matter at the atomic scale requires in principle 
+
+solving the Schrödinger equation. However, this equation is generally far too complex to be 
+solved exactly, and the challenge taken up by quantum chemistry for about 90 years, with the 
+help of the increased capacity of the computers for 60 years, is finding approximate solutions 
+to this equation. In this article, we describe the main methods, which are now standard, for 
+solving the Schrödinger equation based on the construction of approximate wave functions 
+for molecular systems. We also describe some present-day developments which aim at making 
+these methods applicable to molecular systems of large size composed of thousands of atoms. 
+
+Keywords: quantum chemistry; Schrödinger equation; wave function; electronic correlation; 
+computational method. 
+
+
+1 Introduction 
+
+Les fondements de la chimie quantique peuvent être datés à 1926 lorsque le physicien Erwin 
+Schrödinger [1] proposa dans le cadre de la théorie quantique une équation différentielle 
+connue aujourd'hui sous le nom d'équation de Schrödinger et dont la résolution permet en 
+principe de décrire toutes les propriétés de la matière à l'échelle atomique 1 . Dans sa forme la 
+plus courante (indépendante du temps), l'équation de Schrödinger s'écrit 
+
+� Ψ = Ψ 
+
+où � représente l'opérateur hamiltonien du système considéré (atome, molécule, solide) ; il 
+est connu et contient des termes relatifs à l'énergie cinétique des électrons et des noyaux 
+atomiques, ainsi que des termes décrivant l'interaction coulombienne électron-noyau, 
+électron-électron, et noyau-noyau (voir Encadré 1). Les inconnues à déterminer sont la 
+fonction d'onde Ψ et l'énergie associée. 
+
+La fonction d'onde est une fonction compliquée des positions de toutes les particules. Sa 
+connaissance donne accès à toutes les propriétés du système. En particulier, son carré, Ψ 2 , est 
+relié à la probabilité de détecter les particules aux positions considérées. L'écriture � Ψ doit 
+être comprise comme l'application de l'opérateur � à la fonction Ψ, ce qui pourrait être noté 
+plus explicitement par � (Ψ). Par contre, le terme Ψ désigne un simple produit entre le 
+nombre réel et la fonction Ψ. L'équation de Schrödinger ainsi décrite correspond 
+mathématiquement à une « équation aux valeurs propres » et conduit à une infinité de 
+solutions appelées états quantiques. A chaque état quantique correspond une fonction d'onde 
+Ψ et une énergie associée . L'état de plus basse énergie s'appelle l'état fondamental, et les 
+autres états ayant des énergies plus grandes sont les états excités. 
+
+A cause de la présence de termes d'interactions pour toutes les paires de particules dans 
+l'opérateur hamiltonien, l'équation de Schrödinger n'est soluble analytiquement que pour 
+quelques systèmes très simples, et le défi relevé par la chimie quantique a été de trouver des 
+résolutions approchées de cette équation. La première approximation habituellement utilisée 
+consiste à découpler le mouvement des électrons et celui des noyaux, ce qui est justifié par le 
+fait que les noyaux (ayant des masses beaucoup plus grandes que celle d'un électron) ont des 
+vitesses moyennes beaucoup plus faibles que celles des électrons. Ceci est connu sous le 
+terme d'approximation de Born-Oppenheimer [2]. Les propriétés électroniques sont alors 
+décrites par une équation de Schrödinger avec un opérateur hamiltonien simplifié qui ne 
+contient plus le terme relatif à l'énergie cinétique des noyaux, et dans laquelle les positions 
+des noyaux sont maintenant de simples paramètres fixés. La résolution de cette équation de 
+Schrödinger électronique donne les états quantiques électroniques, et en particulier les 
+énergies de ces états en fonction des positions des noyaux que l'on nomme (hyper)surfaces 
+d'énergie potentielle et qui sont le point de départ des études de réactivité chimique. On 
+s'intéresse en premier lieu à l'état électronique fondamental, mais aussi souvent aux premiers 
+états électroniques excités pour les études de spectroscopie ou de photochimie. 
+
+1 L'équation de Schrödinger ne tient pas compte des effets de relativité restreinte. Lorsque ces effets sont 
+importants comme pour beaucoup d'éléments lourds du bas du tableau périodique, il faut alors utiliser l'équation 
+de Dirac (1928). 
+
+
+Bien que simplifiée par rapport à l'équation d'origine, l'équation de Schrödinger électronique 
+reste insoluble analytiquement pour les systèmes à plus d'un seul électron. Deux grandes 
+familles de méthodes de résolution approchées utilisant la puissance de calcul croissante des 
+ordinateurs depuis les années 1950 ont été développées en chimie quantique : les méthodes 
+basées sur des approximations directes de la fonction d'onde [3] et les méthodes contournant 
+le calcul de la fonction d'onde à l'aide de fonctionnelles de la densité électronique [4] (voir 
+l'article correspondant dans ce numéro). Ces méthodes sont aujourd'hui disponibles dans un 
+grand nombre de logiciels de chimie quantique. Dans cet article, nous décrivons les 
+principales méthodes de calcul basées sur la fonction d'onde. Le point de départ est le plus 
+souvent une fonction d'onde approchée de type Hartree-Fock dans laquelle les interactions 
+électron-électron ne sont décrites que de façon moyenne. Dans un deuxième temps, la 
+fonction d'onde est améliorée en ajoutant les effets importants de corrélation électronique. 
+Par rapport aux méthodes de fonctionnelle de la densité, les méthodes de fonction d'onde 
+constituent une approche plus systématique et sont souvent plus précises. Cependant, leur 
+coût de calcul croît rapidement avec la sophistication de la méthode et avec la taille du 
+système considéré. C'est tout le défi des développements actuels que de diminuer le coût 
+calculatoire de ces méthodes pour pouvoir décrire des systèmes chimiques plus grands et plus 
+complexes. 
+
+2 Electrons indépendants dans un champ moyen : méthode Hartree-Fock 
+
+2.1 Principe de la méthode 
+
+Dans la méthode Hartree-Fock 2 , la fonction d'onde exacte Ψ d'un système à 
+électrons est remplacée par une fonction d'onde approchée Φ 0 qui est un produit de 
+fonctions d'onde à un électron 
+
+Ψ ≈ Φ 0 = φ 1  *  φ 2  *  …  *  φ 
+
+où φ 1 est la fonction d'onde décrivant l'électron 1, φ 2 est la fonction d'onde décrivant 
+l'électron 2, etc… Ces fonctions d'onde à un seul électron sont appelées orbitales et on dit 
+familièrement qu'un électron « se trouve » dans une orbitale. Dans cette équation, le symbole 
+ *  n'est pas un simple produit mais un produit antisymétrique, ce qui signifie que la fonction 
+d'onde Φ 0 contient en fait la somme ou la différence de tous les produits d'orbitales obtenus 
+en faisant toutes les permutations possibles des électrons entre eux, une permutation de deux 
+électrons changeant le signe du produit. Ce type de fonction d'onde Φ 0 de la forme d'un 
+produit antisymétrique d'orbitales s'appelle un déterminant de Slater 3 (voir Encadré 2) et 
+permet de prendre en compte le fait que les électrons sont des particules quantiques 
+indiscernables les unes des autres (donc pouvant être permutées) et de type 
+fermion (changement de signe à chaque permutation). Il en découle le principe d'exclusion de 
+Pauli qui stipule que deux électrons ne peuvent pas se trouver dans la même orbitale. Quand 
+on introduit explicitement le spin de l'électron, un degré de liberté intrinsèque à l'électron et 
+
+qui ne peut prendre que deux valeurs souvent symbolisées par 
+et , alors le principe 
+
+2 Cette méthode fut développée par les physiciens Douglas Hartree et Vladimir Fock entre 1927 et 1935. 
+3 Ce nom réfère au physicien John Slater qui a le premier introduit ce type de fonction d'onde. Le terme 
+« déterminant » provient du domaine mathématique de l'algèbre linéaire. 
+
+
+d'exclusion de Pauli s'exprime en disant qu'au maximum deux électrons de spins différents 
+peuvent se trouver dans une même orbitale spatiale. 
+
+On cible en général l'état fondamental du système, et les orbitales sont alors déterminées en 
+minimisant l'énergie associée à la fonction d'onde Φ 0 ce qui conduit à une équation similaire 
+à celle de Schrödinger mais pour un seul électron. Ainsi, l'orbitale n°i, notée φ i , et son 
+énergie ε i associée sont déterminées par 
+
+F � φ i = ε i φ i 
+
+où F � est un opérateur hamiltonien contenant un terme d'énergie cinétique de l'électron, un 
+terme d'attraction coulombienne entre l'électron et les noyaux, mais aussi un terme de 
+répulsion coulombienne moyenne entre l'électron considéré et les autres électrons. 
+L'approximation Hartree-Fock revient ainsi à considérer que les électrons sont indépendants 
+et à ne prendre en compte l'interaction électron-électron qu'à travers un champ moyen de 
+répulsion coulombienne généré par les autres électrons. Le champ moyen dans l'opérateur F � 
+dépend de toutes les orbitales et doit être déterminé de façon itérative. On parle alors de 
+champ autocohérent (SCF pour self-consistent field en anglais). 
+
+En pratique, l'équation précédente est transformée en un problème algébrique, plus adapté à 
+une résolution sur ordinateur, en développant chaque orbitale φ sur une base fixée de M 
+fonctions f 1 , f 2 ,…, f 
+
+φ = c 1 f 1 + c 2 f 2 + ⋯ + c f 
+
+et les coefficients c 1 , c 2 ,…,c sont déterminés à l'aide de l'équation de champ moyen 
+autocohérent précédemment décrite. Pour les calculs sur les molécules, on choisit en général 
+pour chaque fonction f une fonction simple centrée sur un noyau atomique et décroissant 
+assez rapidement à zéro à grande distance du noyau, rappelant la forme d'une orbitale 
+atomique. Pour des raisons techniques, la décroissance à grande distance est plus souvent 
+choisie de forme mathématique gaussienne, et on parle alors d'une base de fonctions 
+atomiques gaussiennes, ou plus simplement d'une base atomique. L'utilisation d'une base 
+ayant un nombre fini M de fonctions atomiques introduit une approximation supplémentaire, 
+mais dont l'effet peut être systématiquement réduit en augmentant le nombre de fonctions afin 
+de s'approcher de la limite d'une base complète (ce qui demande en principe une infinité de 
+fonctions). Un grand nombre de bases atomiques de différentes « tailles » (c'est-à-dire ayant 
+un nombre M de fonctions plus ou moins grand) ont été développées et sont disponibles dans 
+les logiciels. 
+
+L'importance de la méthode Hartree-Fock est qu'elle donne une première description semi-
+quantitative de la structure électronique des molécules, en considérant que les électrons 
+« remplissent » les orbitales moléculaires (en respectant le principe d'exclusion de Pauli). La 
+Figure 1 montre schématiquement le remplissage des orbitales moléculaires pour la molécule 
+de monoxyde de carbone CO dans l'état fondamental. Les orbitales contenant un électron ou 
+deux électrons de spins différents sont dites occupées. La méthode Hartree-Fock permet aussi 
+de déterminer des orbitales virtuelles qui ne contiennent pas d'électrons. On distingue aussi 
+
+
+les orbitales de coeur très contractées autour des noyaux et ne participant pas aux liaisons 
+chimiques, et les orbitales de valence qui déterminent l'essentiel des propriétés chimiques 4 . 
+
+Figure 1 : Représentation schématique des niveaux d'énergie des orbitales moléculaires et de 
+
+leur remplissage par les électrons de spins 
+et 
+pour la molécule CO dans l'état 
+fondamental. 
+
+2.2 Limites et défaillances 
+
+La méthode Hartree-Fock donne typiquement environ 99% de l'énergie exacte. Cependant, en 
+chimie, on ne s'intéresse pas à l'énergie, mais à des différences d'énergie (entre deux 
+systèmes ou deux états) ou à d'autres propriétés, et dans ce cas le 1% d'énergie manquant 
+peut faire toute la différence 5 . 
+
+La précision de la méthode Hartree-Fock pour la détermination de la géométrie des molécules 
+organiques est assez raisonnable avec des erreurs typiques de 0,025 à 0,05 ångström pour les 
+longueurs de liaison et de quelques degrés pour les angles entre deux liaisons, à condition 
+toutefois d'utiliser une base atomique adéquate. 
+
+4 Pour les atomes lourds, on choisit parfois de se concentrer sur le calcul des seules orbitales de valence grâce à 
+
+l'utilisation de pseudopotentiels. Ces derniers ont par ailleurs l'avantage de permettre la prise en compte à faible 
+coût de calcul d'une partie des effets de relativité restreinte. 
+
+5 Par exemple, pour la molécule CO, 1% de l'énergie totale représente de l'ordre de 2500 kJ/mol. 
+
+orbitales virtuelles 
+
+Energies 
+des 
+orbitales 
+
+orbitales occupées 
+
+orbitales de 
+valence 
+
+orbitales de 
+coeur 
+
+
+La situation est plus délicate pour une propriété telle que le moment dipolaire électrique d'une 
+molécule. Les valeurs obtenues restent en général assez éloignées des valeurs expérimentales 
+mais la reproduction de tendance au sein d'une série de molécules est souvent possible avec 
+l'usage de bases atomiques suffisamment grandes. Le moment dipolaire de la molécule CO 
+est un cas difficile célèbre. Les valeurs calculées par la méthode Hartree-Fock obtenues avec 
+une série de bases atomiques standard de tailles croissantes, sont données dans le Tableau 1. 
+Comme on le constate, avec la petite base la polarité (donnant l'orientation du moment 
+dipolaire) est conforme à celle déterminée expérimentalement mais il s'agit là d'une 
+compensation d'erreur puisqu'en augmentant la taille de la base la polarité de la molécule 
+s'inverse et devient incorrecte. Cet exemple illustre l'importance de prendre en compte la 
+corrélation électronique, qui est négligée dans la méthode Hartree-Fock. 
+
+Tableau 1 : Moment dipolaire électrique (en Debye) de la molécule CO calculée 
+par la méthode Hartree-Fock (HF) avec différentes bases atomiques standard. 
+
+Moment dipolaire 
+Polarité 
+
+HF avec petite base « STO-3G » 
+0,168 
+C -O + 
+
+HF avec base moyenne « 6-31G* » 
+-0,333 
+C + O -
+
+HF dans la limite d'une base complète 
+-0,280 
+C + O -
+
+Valeur expérimentale 
+0,112 
+C -O + 
+
+Un autre exemple bien connu de défaillance de la méthode Hartree-Fock est la description de 
+la dissociation de liaisons chimiques. Le Tableau 2 illustre ce point en donnant les énergies 
+de dissociation calculées par la méthode Hartree-Fock pour quelques molécules diatomiques. 
+On peut constater que les énergies de dissociation sont en fort désaccord avec les valeurs 
+expérimentales. Ceci s'explique par le fait que, quand on s'approche de la limite de 
+dissociation, les orbitales moléculaires relatives à la liaison (orbitales liante et anti-liante) 
+deviennent proches en énergie, et il y a alors compétition entre plusieurs schémas 
+d'occupation de ces orbitales par les électrons. Dans la méthode Hartree-Fock, on utilise une 
+fonction d'onde à un seul déterminant de Slater qui ne peut décrire qu'un seul de ces schémas 
+d'occupation. Une solution partielle conservant une fonction d'onde à un seul déterminant de 
+Slater consiste à augmenter la flexibilité de la fonction d'onde en autorisant les paires 
+d'électrons de spins différents à occuper des orbitales différentes. Cette variante de la 
+méthode Hartree-Fock dite « sans contrainte » (UHF pour unrestricted Hartree-Fock en 
+anglais) brise cependant des symétries d'espace et de spin du système et n'est souvent pas 
+satisfaisante. 
+
+Une solution plus satisfaisante à tous ces problèmes consiste à utiliser des fonctions d'onde à 
+plusieurs déterminants de Slater qui permettent de décrire les effets de corrélation 
+électronique. 
+
+
+Tableau 2 : Energies de dissociation (en kJ/mol) calculées par la méthode Hartree-
+Fock (HF), avec une grande base atomique, pour quelques molécules 
+diatomiques. L'énergie de dissociation est calculée comme la différence entre 
+l'énergie de la molécule à grande distance interatomique et l'énergie de la 
+molécule à la distance d'équilibre. 
+
+Molécule 
+HF 
+Expérience 
+
+H 2 
+1097 
+434 
+
+N 2 
+3388 
+955 
+
+F 2 
+1059 
+154 
+
+3 Décrire la corrélation électronique : méthodes à plusieurs déterminants de 
+Slater 
+
+Le terme corrélation électronique désigne tous les effets d'interaction électron-électron au 
+delà du champ moyen Hartree-Fock. On distingue habituellement deux régimes limites de 
+corrélation électronique : la corrélation « statique » et la corrélation « dynamique ». En 
+pratique, la frontière entre ces deux types de corrélation est floue, mais cette classification est 
+néanmoins utile pour élaborer différentes stratégies de construction de fonctions d'onde 
+approchées. 
+Le point commun de toutes les méthodes décrites dans cette partie est que la fonction d'onde 
+exacte Ψ est approchée par une combinaison linéaire de déterminants de Slater 
+
+Ψ ≈ c 0 Φ 0 + c 1 Φ 1 + c 2 Φ 2 + ⋯ 
+
+avec c 0 le coefficient associé au déterminant Φ 0 , c 1 le coefficient associé au déterminant Φ 1 , 
+etc…Quand on cible l'état fondamental, le déterminant ayant le plus grand coefficient est 
+habituellement le déterminant Hartree-Fock Φ 0 . Les autres déterminants Φ 1 , Φ 2 , etc… 
+peuvent être vus comme engendrés à partir du déterminant Hartree-Fock Φ 0 par promotion 
+d'un ou plusieurs électrons d'orbitales occupées vers des orbitales virtuelles. On parle de 
+déterminants excités. Les différences entre les diverses méthodes résident dans le choix des 
+déterminants inclus et la façon de calculer les coefficients. Par rapport à la référence Hartree-
+Fock, la prise en compte de la corrélation électronique se traduit par une diminution de 
+l'énergie par une quantité appelée énergie de corrélation. 
+
+3.1 Décrire la corrélation statique : méthode du champ multiconfigurationnel 
+autocohérent 
+
+La corrélation statique se rencontre dans les systèmes où les électrons peuvent occuper de 
+plusieurs façons des orbitales proches en énergie. Cette situation est relativement courante en 
+chimie, par exemple pour les processus de rupture de liaisons ou les métaux de transition à 
+cause de couches électroniques incomplètes. Il faut alors remplacer la méthode Hartree-Fock 
+par une méthode de calcul capable de traiter sur le même plan plusieurs déterminants de 
+
+
+Slater. La méthode du champ multiconfigurationnel autocohérent (MCSCF pour 
+multiconfiguration self-consistent field en anglais) permet cela en optimisant simultanément 
+un jeu d'orbitales et les coefficients des déterminants par minimisation de l'énergie associée à 
+une combinaison linéaire de déterminants. 
+
+En pratique, le choix des déterminants de Slater à inclure dans la fonction d'onde est souvent 
+réalisé en sélectionnant un ensemble d'orbitales actives et d'électrons et en incluant tous les 
+déterminants possibles obtenus en distribuant les électrons dans ces orbitales. Cette approche 
+est connue sous le terme espace actif complet (CAS pour complete active space en anglais). 
+Le choix de l'espace d'orbitales actives est laissé au bon sens chimique de l'utilisateur. La 
+Figure 2 montre l'exemple d'occupations des orbitales pour trois déterminants générés avec 
+l'espace actif des orbitales de valence pour la molécule CO. 
+
+Figure 2 : Exemple d'occupations des orbitales pour trois déterminants inclus dans une 
+fonction d'onde de type champ multiconfigurationnel autocohérent avec l'espace actif des 
+orbitales de valence (cadre en pointillé) pour la molécule CO. 
+
+Il est relativement délicat de choisir l'espace d'orbitales actives. Choisir l'espace des orbitales 
+de valence dans sa globalité est souvent une solution robuste, néanmoins ceci peut vite 
+conduire à un nombre gigantesque de déterminants, celui-ci croissant de manière 
+combinatoire avec le nombre d'orbitales actives. Le nombre de déterminants pouvant être 
+générés en distribuant n électrons dans n orbitales spatiales est en effet donné par le nombre 
+de combinaisons C 2 
+. Ainsi, pour n grand, ajouter 2 électrons et 2 orbitales multiplie 
+
+grossièrement ce nombre par 16, soit au rythme actuel l'équivalent d'environ six années de 
+développement technologique en informatique. Par ailleurs, il faut parfois ajouter des 
+
+Φ 0 
+Φ 1 
+Φ 2 
+
+
+orbitales au delà de l'espace de valence pour décrire correctement le système. En règle 
+générale, il convient d'inclure dans l'espace actif les orbitales importantes pour le système et 
+le processus auquel on s'intéresse, par exemple : 
+
+• orbitales π pour les systèmes à liaisons conjuguées ; 
+
+• orbitales liantes et anti-liantes correspondantes pour la rupture de liaisons ; 
+• orbitales impliquées dans les transitions électroniques en spectroscopie. 
+
+3.2 Décrire la corrélation dynamique 
+
+La corrélation dynamique résulte de la répulsion coulombienne entre deux électrons à 
+relativement courte distance l'un de l'autre. Pour la décrire, il faut inclure dans la fonction 
+d'onde un grand nombre de déterminants de Slater obtenus en excitant les électrons vers des 
+orbitales virtuelles de hautes énergies (au-delà de l'espace des orbitales de valence). 
+Cependant, contrairement au cas de la corrélation statique, chacun de ces déterminants à un 
+coefficient relativement faible par rapport au coefficient du déterminant Hartree-Fock, ce qui 
+permet de concevoir des approches partant du déterminant Hartree-Fock et ajoutant de façon 
+assez systématique un ensemble de déterminants excités. Nous allons décrire trois familles de 
+méthodes de fonction d'onde couramment utilisées pour inclure la corrélation dynamique : la 
+méthode d'interaction de configurations, la méthode des perturbations et la méthode des 
+clusters couplés. 
+
+3.2.1 Méthode d'interaction de configurations 
+
+Dans la méthode d'interaction de configurations, la fonction d'onde exacte Ψ est approchée 
+par un développement systématique de la forme 
+
+Ψ ≈ Φ 0 + c S Φ S + c D Φ D + c T Φ T + c Q Φ Q + ⋯ 
+
+où Φ 0 est le déterminant Hartree-Fock, Φ S désigne génériquement les déterminants 
+simplement excités (obtenus à partir de Φ 0 par l'excitation d'un seul électron vers des 
+orbitales virtuelles), et Φ D désigne génériquement les déterminants doublement excités 
+(obtenus à partir de Φ 0 par l'excitation de deux électrons vers des orbitales virtuelles), et ainsi 
+de suite pour les déterminants excités triplement, quadruplement, etc… Les coefficients 
+associés à ces déterminants, c S ,c D ,c T , c Q , …, sont calculés en minimisant l'énergie associée à 
+cette fonction d'onde, les orbitales composant les déterminants restant fixées à celles obtenues 
+par le calcul Hartree-Fock précédent. La fonction d'onde dépend linéairement des paramètres 
+ce qui procure l'avantage de pouvoir facilement calculer simultanément plusieurs états, c'est-
+à-dire l'état fondamental mais aussi des états excités. 
+
+Pour un système contenant N électrons, l'ensemble complet des déterminants est obtenu en 
+incluant tous les déterminants, jusqu'à N fois excités, pouvant être générés dans la base 
+atomique considérée pour développer les orbitales. C'est la méthode d'interaction de 
+configurations complète (FCI pour full configuration interaction en anglais). Dans la limite 
+d'une base atomique complète, la fonction d'onde FCI est la fonction d'onde exacte et décrit 
+donc aussi bien la corrélation statique que la corrélation dynamique. En pratique, on utilise 
+des bases atomiques incomplètes, et la fonction d'onde FCI n'est pas exacte mais contient 
+néanmoins un nombre de déterminants souvent gigantesque qui croît de manière combinatoire 
+
+
+avec la taille du système. Par exemple, pour la molécule d'éthane avec une petite base 
+atomique dite « double zeta » (comprenant 9 fonctions pour chaque atome de carbone et 2 
+fonctions pour chaque atome d'hydrogène) on arrive à un nombre de déterminants de l'ordre 
+de 10 15 . Cette approche est donc réservée à des calculs de test pour des petits systèmes. 
+
+En pratique, afin de limiter le nombre de déterminants, on inclut le plus souvent dans la 
+fonction d'onde, au-delà du déterminant Hartree-Fock, uniquement les déterminants 
+simplement et doublement excités. Cette méthode est désignée par l'acronyme CISD (pour 
+configuration interaction singles doubles en anglais) et conduit à un temps de calcul qui ne 
+croît alors plus que de façon polynomiale avec la taille du système, plus précisément avec la 
+puissance sixième du nombre de fonctions atomiques. Cependant, ces méthodes d'interaction 
+de configurations tronquées ne satisfont pas les conditions de cohérence en taille et 
+d'extensivité. Ceci signifie que la somme des énergies de sous-systèmes sans interaction n'est 
+pas égale à l'énergie du système total et celle-ci n'est pas proportionnelle au nombre 
+d'électrons dans la limite d'un système macroscopique. Ceci se traduit par une dégradation de 
+la description de la corrélation électronique dans les grands systèmes. Un certain nombre de 
+corrections ad hoc ont été proposées pour remédier à ce défaut, la plus simple étant connue 
+sous le nom de correction de Davidson. 
+
+3.2.2 Méthode des perturbations 
+
+La méthode des perturbations fournit un autre développement systématique de la fonction 
+d'onde. Elle repose sur la réécriture de l'hamiltonien � comme la somme d'un hamiltonien de 
+référence � 0 dont tous les états (fonctions d'onde et énergies associées) sont connus et d'un 
+opérateur de perturbation � 
+
+� = � 0 + � 
+
+La fonction d'onde exacte Ψ et l'énergie associée peuvent alors être approchées par un 
+développement en puissances par rapport à la perturbation 
+
+Ψ ≈ Ψ (0) + Ψ (1) + Ψ (2) + ⋯ 
+
+≈ (0) + (1) + (2) + ⋯ 
+
+où Ψ (0) ne dépend pas de � (ordre 0), Ψ (1) dépend de la puissance d'ordre 1 de � , Ψ (2) 
+dépend de la puissance d'ordre 2 de � , etc…, et pareillement pour l'énergie. Si la perturbation 
+� est suffisamment petite par rapport à � 0 alors une bonne approximation est obtenue en 
+tronquant le développement à un ordre bas. 
+
+En chimie quantique, on choisit habituellement un hamiltonien de référence � 0 correspondant 
+au calcul Hartree-Fock et la perturbation � correspond alors à la partie de l'interaction 
+électron-électron allant au delà du champ moyen. Cette approche est connue sous le nom de 
+théorie de perturbation de Møller-Plesset 6 . Le plus souvent, on s'arrête à l'ordre 2 pour 
+l'énergie et la fonction d'onde correspondante n'inclut que des déterminants doublement 
+excités (avec des coefficients fixés) en plus du déterminant Hartree-Fock. Cette méthode 
+désignée par l'acronyme MP2 donne une estimation raisonnable et assez facilement calculable 
+
+6 Le nom réfère au physicien et chimiste Christian Møller et au physicien Milton Plesset. 
+
+
+de l'énergie de corrélation dynamique. De plus, c'est une méthode extensive contrairement à 
+l'interaction de configuration tronquée. La méthode MP2 est par exemple souvent utilisée 
+pour les optimisations de géométries moléculaires. 
+
+3.2.3 Méthode des clusters couplés 
+
+La méthode des clusters couplés (ou coupled cluster en anglais) peut être vue comme réalisant 
+une reparamétrisation compacte du développement de la fonction d'onde effectué dans la 
+méthode d'interaction de configurations. Par exemple, au lieu de tronquer le développement 
+aux déterminants doublement excités comme dans la méthode CISD, l'approche 
+correspondante pour les clusters couplés désignée par CCSD (pour coupled cluster singles 
+doubles en anglais) prend aussi en compte tous les autres déterminants plus hautement excités 
+mais les coefficients de ces déterminants sont simplement estimés à partir de ceux des 
+déterminants moins excités 
+
+Ψ ≈ Φ 0 + c S Φ S + c D Φ D + c T (c S , c D )Φ T + c Q (c S , c D )Φ Q + ⋯ 
+
+où l'écriturec T (c S , c D ) et c Q (c S , c D ) signifie que les coefficients des déterminants excités 
+triplement, quadruplement, etc… sont estimés à partir de ceux des déterminants simplement 
+et doublement excités. 
+
+Puisqu'un déterminant triplement excité peut être obtenu à partir de trois excitations simples 
+ou d'une excitation simple suivie d'une excitation double, le coefficient correspondant peut 
+être estimé schématiquement (en oubliant les complications de l'antisymétrisation et de la 
+normalisation) par c T (c S , c D ) = c S c S c S + c S c D . De même, le coefficient d'un déterminant 
+quadruplement excité est estimé schématiquement parc Q (c S , c D ) = c S c S c S c S + c S c S c D + 
+c D c D . Les seuls paramètres libres sont alors les coefficients des déterminants simplement et 
+doublement excités, c S et c D , qui sont calculés en imposant que la fonction d'onde respecte au 
+mieux l'équation de Schrödinger ce qui conduit à un système d'équations non linéaires. 
+
+Le grand avantage de cette méthode des clusters couplés par rapport à la méthode 
+d'interaction de configurations est d'être correctement cohérente en taille et extensive, pour 
+un coût de calcul similaire. La variante prenant en compte les contributions explicites des 
+déterminants triplement excités par une approche de perturbation qui est connue sous 
+l'acronyme CCSD(T) est devenue une méthode de choix pour décrire avec précision les effets 
+de corrélation dynamique pour l'état fondamental. Plusieurs variantes de méthode des clusters 
+couplés sont également disponibles pour calculer les états excités. 
+
+3.3 Décrire simultanément la corrélation statique et dynamique 
+
+Beaucoup de systèmes moléculaires présentent à la fois des effets de corrélation statique et 
+dynamique importants, et il convient alors de décrire simultanément ces deux types de 
+corrélation. Pour cela, le point de départ est habituellement un calcul MCSCF en utilisant un 
+espace d'orbitales actives décrivant la corrélation statique. La corrélation dynamique est alors 
+ajoutée en utilisant les approches décrites précédemment, généralisées pour partir d'une 
+fonction d'onde à plusieurs déterminants de Slater et non plus de la fonction d'onde Hartree-
+Fock. On parle de méthodes multi-références. 
+
+Il existe par exemple une méthode d'interaction de configuration multi-référence (MRCI pour 
+multireference configuration interaction en anglais) et plusieurs variantes de méthodes des 
+
+
+perturbations multi-références, la plus connue étant désignée par l'acronyme CASPT2. Cette 
+dernière méthode est très employée pour l'étude de complexes de métaux de transition pour 
+lesquels les deux types de corrélation sont importants. En règle générale, ces méthodes multi-
+références sont particulièrement utiles pour décrire les états excités dans les études de 
+spectroscopie. 
+
+Plusieurs variantes de méthode des clusters couplés multi-référence, génériquement désignées 
+par l'acronyme MRCC, ont également été proposées. Chaque variante a ses avantages et ses 
+inconvénients, mais aucune n'est encore devenue standard dans la communauté. 
+
+4 Vers les grands systèmes moléculaires 
+
+En utilisant des algorithmes standard, le temps de calcul des méthodes de fonction d'onde 
+précédemment décrites croît très rapidement avec le nombre de fonctions M de la base 
+atomique. Ce nombre de fonctions étant proportionnel au nombre d'atomes dans le système 
+considéré, le coût de calcul croît donc également très rapidement avec la taille du système 
+moléculaire. 
+
+Par exemple, le temps de calcul de la méthode Hartree-Fock croît formellement en 4 , ce qui 
+signifie que si on multiplie par 10 la taille du système alors le temps de calcul est multiplié 
+par 10000. Pourtant, grâce à la décroissance des interactions coulombiennes entre deux 
+particules quand leur distance augmente, les systèmes suffisamment grands peuvent toujours 
+être divisés en sous-systèmes ayant des interactions négligeables, et il doit alors être possible 
+dans cette limite d'obtenir un coût de calcul qui ne croît plus que linéairement avec la taille du 
+système. Des algorithmes permettant de faire des calculs Hartree-Fock avec un temps de 
+calcul à croissance linéaire en fonction de la taille du système ont ainsi été développés depuis 
+plusieurs années [5]. Les techniques clés pour atteindre cela sont : travailler dans la base 
+atomique sans passer par la construction des orbitales moléculaires délocalisées sur tout le 
+système ; utiliser des algorithmes dits « directs » dans lesquels les quantités intermédiaires 
+dans le programme sont recalculées quand il est nécessaire au lieu d'être écrites sur le disque 
+dur 7 ; et approcher ou négliger les interactions coulombiennes entre particules à grande 
+distance. Avec ces techniques, on peut faire aujourd'hui des calculs Hartree-Fock sur des 
+systèmes moléculaires ayant plus de 1000 atomes. 
+
+La situation est plus compliquée pour les méthodes incluant la corrélation électronique 
+décrites précédemment. En effet, dans une implémentation standard, le temps de calcul de ces 
+méthodes croît très rapidement avec le nombre M de fonctions de la base atomique. Par 
+exemple, le temps de calcul de la méthode MP2 croît en 5 , celui des méthodes CISD et 
+CCSD en 6 , et celui de la méthode CCSD(T) en 7 . Par ailleurs, il faut savoir que la 
+description de la corrélation dynamique requiert habituellement l'utilisation d'un grand 
+nombre de fonctions par atome (typiquement de l'ordre de 10 à 30 fonctions par atome). 
+Même si la puissance des ordinateurs ne cesse de croître, ces dépendances limitent fortement 
+la taille des systèmes accessibles. Pour cela, ces dernières années de très nombreux travaux 
+ont été entrepris afin de rendre ces méthodes de corrélation applicables à des plus grands 
+systèmes, et tendre comme pour la méthode Hartree-Fock vers une croissance linéaire des 
+coûts de calcul en fonction de la taille des systèmes moléculaires. Nous donnons ici quelques 
+
+7 On réduit ainsi considérablement l'espace mémoire de stockage et les temps d'accès aux fichiers. 
+
+
+exemples de développements actuels : les méthodes de corrélation en orbitales localisées, les 
+approches réduisant le coût de calcul des intégrales de répulsion électron-électron, et les 
+méthodes explicitement corrélées permettant de réduire la taille de la base atomique. 
+
+4.1 Méthodes de corrélation en orbitales localisées 
+
+L'idée de ces méthodes est de remplacer les orbitales moléculaires délocalisées sur tout le 
+système par des orbitales localisées dans des régions limitées de la molécule, et de réduire le 
+nombre de déterminants de Slater dans la fonction d'onde en ne sélectionnant que les 
+excitations d'électrons d'une orbitale occupée à une orbitale virtuelle localisées à proximité. 
+Ceci permet d'exploiter la nature locale du phénomène de corrélation électronique en 
+négligeant les déterminants impliquant l'excitation d'un électron d'une orbitale occupée vers 
+une orbitale virtuelle très éloignées spatialement et contribuant très peu à la fonction d'onde. 
+Plusieurs variantes de ces méthodes ont été développées utilisant différents critères de 
+sélection des déterminants. 
+
+4.1.1 Méthodes basées sur un critère spatial 
+
+Le premier critère venant à l'esprit est un critère basé directement sur l'éloignement spatial 
+des orbitales localisées. Cela a été mis en oeuvre principalement par les groupes de Ratisbonne 
+et Stuttgart [6], en particulier pour les méthodes des perturbations et des clusters couplés, et 
+popularisé grâce au logiciel MOLPRO [7]. Après un calcul Hartree-Fock, les orbitales sont 
+localisées et réparties en divers domaines de localisation. Selon la séparation spatiale des 
+domaines auxquels appartiennent les orbitales, diverses classes d'excitation sont prises en 
+compte ou négligées. Des systèmes moléculaires assez étendus allant jusqu'à une centaine 
+d'atomes ont ainsi pu être traités par les variantes locales des méthodes MP2 et CCSD (alors 
+renommées LMP2 et LCCSD pour local MP2 et local CCSD). 
+
+4.1.2 Méthodes basées sur un critère énergétique 
+
+Une autre approche pour sélectionner les déterminants de Slater considère le critère 
+énergétique de la valeur de l' « intégrale d'échange électron-électron », qui est caractéristique 
+de l'interaction entre déterminants. Cette méthode a été mise en oeuvre dans le programme 
+d'interaction de configurations CASDI du groupe de Toulouse [8]. Contrairement à 
+l'approche décrite ci-dessus, il s'agit ici d'une localisation des orbitales a priori faisant appel 
+au sens chimique de l'utilisateur. En effet, pour les cas simples, les orbitales localisées 
+peuvent être vues comme une simple description de la structure de Lewis du système. La 
+
+nature de ces orbitales, orbitales de coeur, orbitales liantes σ, π, anti-liantes σ * , π * , non-liantes 
+
+n, etc... est conservée tout au long de leur optimisation qui peut se faire au niveau MCSCF. 
+Les déterminants excités pris en compte dans un calcul CISD ultérieur dépendent ensuite de la 
+valeur de l'intégrale d'échange électron-électron nécessaire au calcul de l'énergie 
+d'interaction entre deux déterminants. Grâce à cette approche des systèmes inaccessibles 
+jusqu'alors aux calculs de type CISD ont été abordés, comme par exemple l'insertion d'une 
+molécule d'hydrogène dans un nanotube de carbone (voir Figure 3). 
+
+
+Figure 3 : Exemple d'une orbitale localisée de type π  *  utilisée pour le calcul de l'approche 
+d'une molécule H 2 vers le centre d'un nanotube de carbone. Les lobes blancs et bleus 
+correspondent à des signes différents de l'orbitale (reproduit de Chang et al. [8]). 
+
+4.2 Réduction du coût de calcul des intégrales de répulsion électron-électron 
+
+Une étape clé dans toutes les méthodes de structure électronique est le calcul des intégrales de 
+répulsion coulombienne électron-électron dans la base des fonctions atomiques qui prennent 
+la forme 
+
+� 
+f i ( 1 )f j ( 1 )f k ( 2 )f l ( 2 ) 
+| 2 − 1 | 
+d 1 d 2 
+
+où 1 et 2 repèrent les positions de deux électrons, | 2 − 1 |est la distance entre eux, et f i , f j , 
+f k , f l sont quatre fonctions atomiques quelconques. S'il y a fonctions de base, alorsle 
+nombre de ces intégrales électron-électron à calculer croît en 4 . De plus, les méthodes de 
+corrélation requièrent en général le calcul d'intégrales similaires en termes des orbitales 
+moléculaires qui s'obtiennent à partir de ces intégrales atomiques par une transformation dont 
+le coût de calcul croît en 5 . Plusieurs approches sont utilisées pour éviter ces goulots 
+d'étranglement du calcul. 
+
+Une première approche consiste à éviter le calcul des intégrales de valeurs très faibles en 
+estimant a priori les valeurs de ces intégrales. Une deuxième approche met en oeuvre des 
+techniques pour obtenir des représentations compactes approchées des intégrales, en 
+particulier afin de diminuer le coût de calcul de la transformation des intégrales de la base 
+atomique à la base des orbitales moléculaires. Cette dernière approche consiste à diminuer le 
+nombre de produits du type f i ( 1 )f j ( 1 ) et f k ( 2 )f l ( 2 ) en les développant sur une base 
+compacte de fonctions auxiliaires (« density fitting ») [9] ou par la transformation 
+mathématique dite de Cholesky [10]. 
+
+Ces approches sont maintenant largement diffusées au sein de plusieurs logiciels et permettent 
+de réduire fortement les coûts de calcul en introduisant des erreurs négligeables. Par exemple, 
+ce genre de techniques de réduction du nombre d'intégrales combinées à un algorithme MP2 
+
+
+travaillant dans la base atomique ont permis de réaliser récemment un calcul sur un complexe 
+protéine-ADN comportant 2025 atomes [11] (voir Figure 4). 
+
+Figure 4 : Un complexe protéine-ADN comportant 2025 atomes qui a fait récemment l'objet 
+d'un calcul MP2 (reproduit de Maurer et al. [11]). 
+
+4.3 Méthodes explicitement corrélées 
+
+Un problème majeur de toutes les méthodes de corrélation dynamique exposées 
+précédemment est qu'elles nécessitent l'utilisation de bases atomiques de très grandes tailles. 
+Ceci peut être compris par le fait que lorsque la distance entre deux électrons 
+12 = | 2 − 1 | tend vers 0, la fonction d'onde exacte devient linéaire en 12 et s'écrit 
+
+Ψ ≈ �1 + 
+1 
+2 
+12 � Ψ( 12 = 0) + ⋯ 
+
+où Ψ( 12 = 0) est la valeur de la fonction d'onde à distance nulle. Quand on essaie 
+d'approcher la fonction d'onde exacte par un développement en déterminants de Slater 
+construits avec des orbitales développées sur des fonctions de base atomique ne dépendant 
+que des distances électron-noyau, il alors nécessaire d'utiliser de plus en plus de fonctions de 
+base très oscillantes (de moment angulaire élevé) pour tendre vers la dépendance linéaire en 
+12 . 
+
+
+Une façon d'éviter cela consiste à introduire explicitement la dépendance en 12 dans 
+l'expression de la fonction d'onde. Cela a été proposé pour l'atome d'hélium dès 1929 par 
+Hylleraas [12]. On parle alors de méthodes « explicitement corrélées ». Ces dernières années, 
+plusieurs groupes ont développé différentes variantes de méthodes des perturbations et des 
+clusters couplés explicitement corrélées. Suivant la forme du terme en 12 introduit, on 
+rencontre les acronymes R12 ou F12 dans le nom de ces différentes méthodes. Combinées 
+avec les méthodes en orbitales localisés et la technique du « density fitting », ce type de 
+méthode permet d'utiliser des bases atomiques de taille modeste tout en atteignant une 
+précision de l'ordre du kJ/mol sur l'énergie pour des systèmes allant jusqu'à environ 50-100 
+atomes [13]. 
+
+5 Conclusion 
+
+Les méthodes de la chimie quantique basées sur la résolution directe de l'équation de 
+Schrödinger à l'aide de fonctions d'onde approchées permettent aujourd'hui d'aborder de très 
+nombreux problèmes et ne se cantonnent plus à des systèmes modèles. La convivialité des 
+logiciels associés aux interfaces graphiques pour la mise en oeuvre des calculs et l'exploitation 
+des résultats font que de très nombreux travaux mêlent à présent résultats expérimentaux et 
+calculs théoriques. 
+
+Les développements actuels visent à obtenir une croissance linéaire du coût du calcul avec la 
+taille du système étudié. L'objectif est de disposer de méthodes de calcul capables de décrire 
+avec précision les effets de corrélation électronique dans les systèmes de grande taille 
+composés de plusieurs milliers d'atomes. Il est essentiel que les nouveaux algorithmes 
+développés exploitent au mieux l'architecture hautement parallèle des ordinateurs 
+d'aujourd'hui et de demain. 
+
+A côté des méthodes de calcul basées sur la fonction d'onde décrites dans cet article, d'autres 
+approches sont ardemment poursuivies. Les méthodes basées sur la théorie de la fonctionnelle 
+de la densité occupent aujourd'hui une place majeure en chimie quantique et leur amélioration 
+est toujours d'actualité. D'autres approches comme les méthodes de Monte Carlo quantique 
+pourraient prendre une place plus importante à l'avenir dans un contexte d'essor du calcul 
+parallèle. Plusieurs développements actuels consistent à combiner ces différentes approches 
+pour tirer meilleur profit des avantages de chacune d'elles. De manière similaire, le 
+développement d'approches combinant des méthodes quantiques avec des méthodes de 
+mécanique moléculaire est très actif et permet de traiter des systèmes moléculaires complexes 
+de très grande taille avec des applications en biologie. 
+
+Encadré 1 : Expression de l'opérateur hamiltonien 
+
+L'expression complète de l'opérateur hamiltonien (sans inclure les effets de relativité 
+restreinte) pour un système composé de N électrons et de K noyaux atomiques est 
+
+
+� = − � 
+
+ℏ 2 
+
+2 k 
+
+
+
+k=1 
+
+Δ k − � 
+ℏ 2 
+
+2 e 
+
+
+
+i=1 
+
+Δ i − � � 
+k e 2 
+4πε 0 | i − k | 
+
+
+
+i=1 
+
+
+
+k=1 
+
++ � � 
+e 2 
+4πε 0 � i − j � 
+
+
+
+j=i+1 
+
+
+
+i=1 
+
++ � � 
+Z k Z l e 2 
+4πε 0 | k − l | 
+
+
+
+l=k+1 
+
+
+
+k=1 
+
+où k désigne le vecteur donnant la position spatiale du noyau n° k de masse k et de 
+numéro atomique k , i désigne le vecteur donnant la position spatiale de l'électron n° i, 
+est la masse de l'électron, e est la charge élémentaire, ℏ est la constante de Planck réduite, et 
+ε 0 est la permittivité du vide. 
+
+Le premier terme est l'opérateur d'énergie cinétique des noyaux qui s'exprime avec 
+l'opérateur différentiel laplacien qui s'écrit, par exemple, avec les dérivées secondes par 
+rapport aux coordonnées cartésiennes k = (X k , Y k , Z k ), 
+
+Δ k = 
+∂ 2 
+
+∂X k 
+2 + 
+
+∂ 2 
+
+∂Y k 
+2 + 
+
+∂ 2 
+
+∂Z k 
+
+2 
+
+Le deuxième terme est l'opérateur d'énergie cinétique des électrons qui s'exprime aussi avec 
+l'opérateur différentiel laplacien, par exemple en coordonnées cartésiennes i = (x i , y i , z i ), 
+
+Δ i = 
+∂ 2 
+
+∂x i 
+2 + 
+
+∂ 2 
+
+∂y i 
+2 + 
+
+∂ 2 
+
+∂z i 
+
+2 
+
+Le troisième terme est l'opérateur d'énergie d'attraction coulombienne entre les noyaux et les 
+électrons, qui dépend inversement des distances entre chaque électron et chaque noyau 
+| i − k |. 
+
+Le quatrième terme est l'opérateur d'énergie de répulsion coulombienne entre les électrons, 
+qui dépend inversement des distances entre chaque paire d'électrons � i − j �. 
+
+Enfin, le dernier terme est l'opérateur d'énergie de répulsion coulombienne entre les noyaux, 
+qui dépend inversement des distances entre chaque paire de noyaux | k − l |. 
+
+L'opérateur hamiltonien électronique, introduit dans l'approximation de Born-Oppenheimer, 
+correspond aux quatre derniers termes, l'opérateur d'énergie cinétique des noyaux étant 
+négligé. 
+
+Encadré 2 : Déterminant de Slater 
+
+La fonction d'onde d'un système à plusieurs électrons indépendants (sans interaction entre 
+eux) prend la forme d'un déterminant de Slater. Pour motiver et illustrer la forme de cette 
+fonction d'onde, considérons tout d'abord le cas d'un système à deux électrons de 
+coordonnées 1 = ( 1 , σ 1 ) et 2 = ( 2 , σ 2 ), où 1 et 2 sont les coordonnées d'espace des 
+électrons, et σ 1 et σ 2 sont leurs coordonnées de spin. Si les électrons sont indépendants, alors 
+
+
+la forme de fonction d'onde du système à deux électrons la plus simple à laquelle on puisse 
+penser est un simple produit de deux orbitales 
+
+Φ( 1 , 2 ) = φ 1 ( 1 )φ 2 ( 2 ) 
+
+qui décrit l'électron 1 (de coordonnées 1 ) « se trouvant » dans l'orbitale φ 1 et l'électron 2 
+(de coordonnées 2 ) « se trouvant » dans l'orbitale φ 2 . Cependant, les électrons étant des 
+particules quantiques indiscernables de type fermion, la fonction d'onde doit être 
+antisymétrique par rapport à la permutation de deux électrons 1 ↔ 2 
+
+Φ( 2 , 1 ) = −Φ( 1 , 2 ) 
+
+ce qui n'est évidemment pas le cas avec la forme ci-dessus. Pour respecter cette condition, on 
+considère un produit antisymétrique des deux orbitales 
+
+Φ( 1 , 2 ) = φ 1 ( 1 )  *  φ 2 ( 2 ) = 
+1 
+√2 
+[φ 1 ( 1 )φ 2 ( 2 ) − φ 2 ( 1 )φ 1 ( 2 )] 
+
+qui est une combinaison linéaire d'un premier terme décrivant l'électron 1 « se trouvant » 
+dans l'orbitale φ 1 et l'électron 2 « se trouvant » dans l'orbitale φ 2 , et d'un deuxième terme 
+décrivant l'électron 1 « se trouvant » dans l'orbitale φ 2 et l'électron 2 « se trouvant » dans 
+l'orbitale φ 1 . Le facteur 1/√2 est un facteur de normalisation. Cette dernière forme de 
+fonction d'onde correspond au déterminant d'une matrice 2 × 2 
+
+Φ( 1 , 2 ) = 
+1 
+√2 
+� 
+φ 1 ( 1 ) φ 1 ( 2 ) 
+φ 2 ( 1 ) φ 2 ( 2 ) 
+� 
+
+L'extension à un système à N électrons indépendants est immédiate : la fonction d'onde 
+s'écrit comme un produit antisymétrique de N orbitales, ce qui correspond à un déterminant 
+d'une matrice × où chaque ligne est composée d'une orbitale occupée successivement 
+par chacun des électrons 
+
+Φ( 1 , 2 , … , ) = φ 1 ( 1 )  *  φ 2 ( 2 )  *  …  *  φ ( ) 
+
+= 
+1 
+√! 
+� 
+
+φ 1 ( 1 ) φ 1 ( 2 ) … φ 1 ( ) 
+φ 2 ( 1 ) φ 2 ( 2 ) … φ 2 ( ) 
+⋮ 
+φ ( 1 ) 
+⋮ 
+φ ( 2 ) 
+⋱ 
+… 
+
+⋮ 
+φ ( ) 
+
+� 
+
+le facteur de normalisation 1/√! venant du fait qu'il y a ! termes dans le déterminant 
+correspondants à toutes les permutations possibles de deux orbitales. La condition 
+d'antisymétrie de la fonction d'onde par permutation de deux électrons est assurée par la 
+propriété d'antisymétrie du déterminant lors de l'échange de deux colonnes. 
+
+
+Références bibliographiques 
+
+[1] E. Schrödinger, Quantisierung als Eigenwertproblem, Annalen der Physik 79, 361-376, 
+1926. 
+
+[2] M. Born et R. Oppenheimer, Zur Quantentheorie der Molekeln, Annalen der Physik 389, 
+457-484, 1927. 
+
+[3] J. A. Pople, Nobel Lecture: Quantum chemical models, Review of Modern Physics 71, 
+1267-1274, 1999. 
+
+[4] W. Kohn, Nobel Lecture: Electronic structure of matter -wave functions and density 
+functionals, Review of Modern Physics 71, 1253-1266, 1999. 
+
+[5] C. Ochsenfeld, J. Kussmann, et D. S. Lambrecht, Linear-scaling methods in quantum 
+chemistry, in "Review in Computational Chemistry" 23, VCH Publishers NY, 1-82, 
+2007. 
+
+[6] T. Korona, D. Kats, M. Schütz, T. B. Adler, Y. Liu, et H.-J. Werner, Local 
+approximations for an efficient and accurate treatment of electron correlation and 
+electron excitations in molecules, in "Linear Scaling Techniques in Computational 
+Chemistry and Physics", Springer, 345-407, 2011. 
+
+[7] H.-J. Werner, P. J. Knowles, G. Knizia, F. R. Manby, M. Schütz, et al., MOLPRO, version 
+2012.1, http://www.molpro.net. 
+
+[8] C. Chang, C. J. Calzado, N. Ben Amor, J. Sanchez-Marin et D. Maynau, Multi-scale 
+multireference configuration interaction calculations for large systems using localized 
+orbitals : Partition in zones, Journal of Chemical Physics 137, 104102-1/12, 2012. 
+
+[9] H.-J. Werner, F. R. Manby, et P. J. Knowles, Fast linear scaling second-order Møller-
+Plesset perturbation theory (MP2) using local and density fitting approximations, 
+Journal of Chemical Physics 118, 8149-8160, 2003. 
+
+[10] F. Aquilante, L. Boman, J. Boström, H. Koch, R. Lindh, A. Sánchez de Merás, et T. B. 
+Pedersen, Cholesky decomposition techniques in electronic structure theory, in "Linear 
+Scaling Techniques in Computational Chemistry and Physics", Springer, 301-343, 2011. 
+
+[11] S. A. Maurer, D. S. Lambrecht, J. Kussmann, et C. Ochsenfeld, Efficient distance-
+including integral screening in linear-scaling Møller-Plesset perturbation theory, 
+Journal of Chemical Physics 138, 14101-14112, 2013. 
+
+[12] E. A. Hylleraas, A new calculation of the energy of Helium in the ground state as well as 
+the lowest term of ortho-Helium, Zeitschrift fur Physik 54, 347-366, 1929. 
+
+[13] T. B. Adler et H.-J. Werner, An explicitly correlated local coupled cluster method for 
+calculations of large molecules close to the basis set limit, Journal of Chemical Physics 
+135, 144117-144132, 2011. 
+
+Livres 
+
+
+-Jean-Louis Rivail, Eléments de chimie quantique à l'usage des chimistes, Editions CNRS, 
+1989. 
+
+-Gaston Berthier, Nécessaire de chimie théorique, Ellipses, 2009. 
+
+-Attila Szabo et Neil S. Ostlund, Modern Quantum Chemistry: Introduction to Advanced 
+Electronic Structure Theory, Dover Publications, 1996. 
+
+-Trygve Helgaker, Poul Jørgensen, et Jeppe Olsen, Molecular Electronic-Structure Theory, 
+Wiley, 2013. 
+
+
+
+	
+

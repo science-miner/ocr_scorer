@@ -1,0 +1,2465 @@
+
+	
+
+		
+
+	
+
+	
+
+HAL Id: hal-02362465 
+
+https://hal.archives-ouvertes.fr/hal-02362465 
+
+Submitted on 15 Nov 2019 
+
+HAL is a multi-disciplinary open access 
+archive for the deposit and dissemination of sci-
+entific research documents, whether they are pub-
+lished or not. The documents may come from 
+teaching and research institutions in France or 
+abroad, or from public or private research centers. 
+
+L'archive ouverte pluridisciplinaire HAL, est 
+destinée au dépôt et à la diffusion de documents 
+scientifiques de niveau recherche, publiés ou non, 
+émanant des établissements d'enseignement et de 
+recherche français ou étrangers, des laboratoires 
+publics ou privés. 
+
+Composites dentaires 
+
+Frédéric Chaput, Anne-Charlotte Faure 
+
+To cite this version: 
+
+Frédéric Chaput, Anne-Charlotte Faure. Composites dentaires. Techniques de l'Ingenieur, Techniques 
+de l'ingénieur, 2019, pp.MED7500 v1. hal-02362465 
+
+
+1 
+
+Composites dentaires 
+
+Dental composites 
+
+par Frédéric CHAPUT 
+
+Docteur en science des matériaux céramiques, Directeur de Recherche au CNRS 
+
+Laboratoire de Chimie, Ecole Normale Supérieure de Lyon, France 
+
+Anne-Charlotte FAURE 
+
+Docteur en chimie inorganique 
+
+Responsable Recherche et développement 
+
+ITEN, Dardilly, France 
+
+Résumé Les composites dentaires sont des biomatériaux organo-minéraux d'obturation utilisés pour la 
+
+restauration de dents endommagées. Ils sont, entre autres, destinés à remplacer les amalgames, tout en préservant 
+les tissus sains auxquels ils sont liés via un adhésif. Ce domaine se situe au croisement de nombreuses disciplines : 
+chimie du solide, chimie organique, chimie des matériaux, chimie des colloïdes, chimie douce, mécanique des 
+solides, optique, rhéologie, physique des milieux granulaires et biologie. Cet article décrit l'évolution des 
+composites dentaires depuis leurs origines, en mettant l'accent sur leurs structures, leurs préparations, leurs 
+propriétés et leurs indications cliniques. 
+
+Abstract Dental composites are organo-mineral filling biomaterials used for the restoration of damaged teeth. 
+
+They are, among other things, intended to replace amalgam, while preserving the healthy tissues to which they are 
+bound via an adhesive. This field is at the crossroads of many disciplines: solid-state chemistry, organic chemistry, 
+materials chemistry, colloid chemistry, soft chemistry, solid mechanics, optics, rheology, physics of granular 
+media and biology. This contribution describes the evolution of dental composites from their origins, with 
+emphasis on their structures, preparations, properties and clinical indications. 
+
+Mots-clés : dentisterie restauratrice ; composite ; polymères ; (nano)particules. 
+
+Keywords : restorative dentistry ; composite ; polymers ; (nano)particles. 
+
+
+2 
+
+Table des matières 
+
+Historique des matériaux pour la restauration dentaire ____________________________ 3 
+
+1 Définitions et sièges des restaurations _______________________________________ 4 
+
+2 Classifications __________________________________________________________ 7 
+
+2.1 Classification en fonction de la viscosité __________________________________________7 
+
+2.1.1 Les composites de viscosité moyenne : __________________________________________________________7 
+2.1.2 Les composites fluides _______________________________________________________________________7 
+2.1.3 Les composites compactables ou condensables ____________________________________________________8 
+
+2.2 Classification en fonction du mode de polymérisation de la matrice résineuse __________8 
+
+2.2.1 Les composites à matrice chémopolymérisable ____________________________________________________8 
+2.2.2 Les composites à matrice photopolymérisable _____________________________________________________9 
+2.2.3 Les composites à matrice duale _______________________________________________________________ 10 
+
+2.3 Classification en fonction de l'indication clinique _________________________________10 
+
+3 Compositions des composites dentaires _____________________________________ 11 
+
+3.1 La résine __________________________________________________________________11 
+
+3.1.1 Polymérisation des méthacrylates ______________________________________________________________ 12 
+3.1.2 Cahier des charges des monomères ____________________________________________________________ 13 
+3.1.3 Monomères couramment utilisés ______________________________________________________________ 13 
+3.1.4 Nouveaux monomères commercialisés / envisagés ________________________________________________ 15 
+3.1.5 Les monomères pour OrmoCer / nouvelle approche________________________________________________ 16 
+
+3.2 Les charges ________________________________________________________________17 
+
+3.3 Les amorceurs et les inhibiteurs de polymérisation _______________________________25 
+
+3.4 Les additifs pour la gestion de l'esthétisme ______________________________________27 
+
+4 Propriétés des composites dentaires ________________________________________ 29 
+
+4.1 Propriétés physiques ________________________________________________________29 
+
+4.2 Propriétés mécaniques _______________________________________________________30 
+
+4.3 Propriétés optiques __________________________________________________________31 
+
+4.4 Données chiffrées sur les composites actuels _____________________________________32 
+
+5 Exemples de restaurations ________________________________________________ 33 
+
+5.1 Restauration de dent antérieure _______________________________________________33 
+
+5.2 Restauration de dent postérieure ______________________________________________34 
+
+Conclusion _______________________________________________________________ 35 
+
+Glossaire _________________________________________________________________ 35 
+
+En plus des contraintes liées à la mastication, nos dents sont soumises jour après jour 
+à de multiples sollicitations qui peuvent causer des dommages irréversibles. Des 
+chocs ou des contraintes mécaniques inappropriées peuvent entraîner, à plus ou 
+moins long terme, la fracture d'une dent. Une alimentation riche en sucre, une hygiène 
+bucco-dentaire défaillante, certaines addictions peuvent conduire à l'apparition de 
+caries dont les conséquences sur la santé sont multiples. La carie est la troisième 
+pathologie la plus répandue au monde. 92 % des Français ont déjà souffert d'une 
+carie, et huit sur dix à plusieurs reprises ! L'ensemble de ces désagréments nécessite 
+des soins plus ou moins compliqués à mettre en oeuvre, en fonction de l'ampleur des 
+dégâts sur la dent et de leur position sur celle-ci. Jadis les praticiens ne disposaient 
+que d'amalgames ou de matériaux de restauration mal maîtrisés ou chers. 
+L'inesthétisme des réparations résultantes, associé au nécessaire sacrifice de tissus 
+
+
+3 
+
+sains ont conduit les chercheurs à développer, depuis le milieu des années 50, une 
+solution alternative et performante : les composites dentaires. Ces biomatériaux ont 
+été mis au point conjointement avec le traitement chimique des dents d'une part et des 
+adhésifs dentaires d'autre part. Il est alors devenu possible de rendre la restauration 
+adhérente, l'économie tissulaire dans ce domaine était née. 
+
+Après un bref historique du domaine de la restauration dentaire et quelques définitions, 
+l'article s'oriente vers les différentes classifications des composites dentaires. Il vise 
+ensuite à décrire en détail aux lecteurs (patients potentiels), aux praticiens ou aux 
+acteurs du développement de matériaux, la composition et les propriétés des 
+composites dentaires. L'article s'attache également à montrer la pluridisciplinarité de 
+ce sujet qui a conduit à l'optimisation des composites dentaires actuels et à la 
+révolution que ces matériaux représentent en dentisterie restauratrice. 
+
+Nota : le lecteur trouvera en fin d'article un glossaire des termes abordés au long de 
+l'article. 
+
+Historique des matériaux pour la restauration dentaire 
+
+La mise au point de solutions viables dans le domaine de la restauration dentaire a 
+principalement été guidée par la facilité de mise en oeuvre, la disponibilité et les 
+propriétés physico-chimiques des matériaux étudiés. Les amalgames argent-mercure, 
+encore utilisés de nos jours, présentent des inconvénients significatifs pour les 
+patients, notamment leur toxicité, leur inesthétisme et leur non-adhérence aux tissus 
+dentaires. Par ailleurs la pose de ce matériau d'obturation nécessite le sacrifice de 
+tissus sains afin d'obtenir une géométrie cavitaire optimale. Les premières alternatives 
+esthétiques aux amalgames furent à base de ciments silicatés ; cependant ces 
+derniers souffraient de plusieurs défauts notamment leur mise en oeuvre délicate, leurs 
+médiocres propriétés mécaniques (pas toutes), leur solubilité buccale et leur mauvaise 
+adhésion ; ils furent rapidement abandonnés. A partir de 1930 l'utilisation de résines 
+notamment acryliques et/ou méthacryliques fut envisagée. Ces résines furent testées 
+avec un succès mitigé pour arriver aux conclusions suivantes : contraction de 
+polymérisation importante (&gt;6% en volume), dilatation thermique importante en 
+comparaison de la dent, propriétés mécaniques mauvaises, absence d'adhésion aux 
+tissus dentaires et reprises carieuses. Malgré leurs défauts ces résines à base 
+organique présentaient des qualités recherchées : facilité de mise en oeuvre, 
+insolubilité en bouche et élasticité. L'idée vint alors, dans le milieu du XX ème siècle, 
+d'associer au sein d'un même matériau les atouts de composés minéraux (propriétés 
+mécaniques et optiques, stabilité physico-chimique notamment) à ceux des résines 
+organiques (simplicité de mise en oeuvre) [1]. Ainsi furent lancées de nombreuses 
+recherches sur les résines composites constituées de plusieurs éléments de nature 
+différente et dont les propriétés physico-chimiques sont très supérieures à celles de 
+leurs composants pris isolément. Dans ces recherches, l'optimisation de monomères 
+dédiés aux applications dentaires (Synthèse du Bis-GMA par exemple par Bowen) 
+joua un rôle prépondérant [2]. Par ailleurs l'avènement de la dentisterie adhésive 
+(mordançages et adhésifs), associée à ces recherches a ouvert la voie à l'économie 
+tissulaire [3] : le praticien s'adapte à la cavité et n'adapte plus la cavité au matériau. 
+La convergence de l'ensemble de ces points clefs a donné naissance à une multitude 
+de composites dentaires performants et à un large panel de restaurations possibles. 
+Soulignons enfin que l'émail et la dentine qui sont les supports de ces composites 
+synthétiques, sont eux-mêmes des matériaux composites constitués de cristaux 
+d'hydroxyapatite (Ca10(PO4)6(OH)2, 70-96% en poids) associés à une partie organique 
+(Collagène, protéines, phospholipides). La figure 1 montre l'évolution au cours du 
+temps des matériaux pour la restauration dentaire directe en insistant sur l'évolution 
+des composites dentaires et des problématiques associées. 
+
+
+4 
+
+Figure 1 -
+Evolution au cours du temps des matériaux pour la restauration dentaire 
+directe (Adaptée de [4]). 
+
+1 Définitions et sièges des restaurations 
+
+Un composite dentaire est un biomatériau d'obturation organo-minéral constitué d'une 
+matrice résineuse dans laquelle sont dispersées des charges principalement 
+minérales. La liaison de ces dernières avec la matrice est assurée par un agent de 
+couplage. Les composites sont fixés aux tissus dentaires via un adhésif (Figure 2). 
+
+Figure 2 -
+Les différentes composantes du composite dentaire et de l'interface avec 
+les tissus dentaires. 
+
+Avant d'acquérir l'ensemble de leurs propriétés, les composites dentaires modernes 
+se présentent sous la forme d'une pâte de consistance variable suivant le type de 
+restauration envisagé. En effet de la nature de la lésion (carieuse principalement) va 
+dépendre le choix du matériau de restauration parmi les différentes catégories 
+disponibles. Une classification des lésions carieuses, strictement topographique, a été 
+proposée par G.V. Black en 1908 [5]. C'est la méthode standard utilisée pour identifier 
+les lésions carieuses en fonction de leur emplacement sur la surface de la dent (Figure 
+3). Sont ainsi définies les six classes de cavités suivantes : 
+
+
+5 
+
+-Classe I : cavités de caries siégeant dans les dépressions anatomiques des 
+dents (puits et sillons), 
+-Classe II : cavités de caries proximales des molaires et prémolaires, 
+-Classe III : cavités de caries proximales des incisives et canines sans atteinte 
+des bords incisifs, 
+-Classe IV : cavités de caries proximales des incisives et canines avec atteinte 
+des bords incisifs, 
+-Classe V : cavités de caries des collets dentaires, 
+-Classe VI : cavités de caries des bords incisifs et des pointes cuspidiennes. 
+
+Figure 3 -
+Classification des lésions carieuses, proposée par G.V. Black 
+(provenance des illustrations [6]). 
+
+Cependant cette classification ne tient pas compte de la taille des lésions et de leur 
+progression au sein de la dent. Ceci est probablement lié au fait que l'acte du dentiste 
+consistait jadis d'une part à éliminer les tissus atteints et d'autre part à transformer la 
+cavité de carie en cavité d'obturation (modèle très invasif). Cette dernière aux formes 
+imposées est centrée sur la résistance de l'obturation plutôt que sur celle de la dent. 
+Cette stratégie conduit inexorablement à des sacrifices tissulaires inutiles. L'or et les 
+amalgames étaient à l'époque les seuls matériaux d'obturation qui rappelons-le, n'ont 
+aucune propriété d'adhésion aux tissus dentaires. 
+Avec l'évolution de la dentisterie aussi bien en termes de matériaux qu'en termes de 
+soins, les pratiques se sont fortement transformées à partir des années 70. Le leitmotiv 
+est désormais la préservation des structures dentaires et le recours à la pose d'un 
+composite est le fruit d'un diagnostic poussé décrit, par exemple, dans le guide de 
+décision thérapeutique du concept SiSta (pour Site/Stade) [7]. Ce dernier fondé sur la 
+proposition de Mount et Hume a vu le jour en 2006. La classification qui en découle, 
+repose sur les principes d'économie tissulaire, d'adhésion et de bio-intégration. Elle 
+définit les lésions carieuses par site et par stade d'évolution. Elle comprend un stade 
+initial (stade 0) pour les lésions qui ne nécessitent pas de traitement invasif (application 
+de fluor). Le tableau 1 montre les zones concernées et le degré d'avancement des 
+lésions carieuses. 
+
+Tableau 1 : Illustration du concept SiSta (provenance des illustrations [8]). 
+
+
+6 
+
+Stades 
+
+Sites de cario-susceptibilité 
+
+Site 1 : Occlusal Site 2 : Proximal Site 3 : Cervical 
+
+0 
+
+Absence de cavité 
+
+Ce stade initial de déminéralisation, appelé tâche blanche ou « 
+white spot », désigne une atteinte réversible amélaire, sans cavité 
+visible. Elle consiste en une porosité de surface de l'émail. Ces 
+lésions se trouvent généralement au collet des dents, sur les 
+faces proximales et sur les surfaces lisses. 
+
+1 
+
+Cavité minimale 
+
+Microcavitations en surface pouvant atteindre le tiers externe de 
+la dentine. 
+
+Destruction de l'émail, absence de douleur. 
+
+2 
+
+Cavité moyenne 
+
+Cavité de taille moyenne pouvant atteindre le tiers médian de la 
+dentine sans affaiblissement des cuspides. 
+
+La dentine qui est moins dure que l'émail est agressée. La lésion 
+va pouvoir progresser profondément au sein de la dent. Chaud, 
+froid, sucré et acidité sont à l'origine de douleurs. 
+
+3 
+
+Cavité élargie 
+
+Cavité de taille importante pouvant atteindre le tiers profond de la 
+dentine et fragiliser les cuspides. 
+
+L'invasion bactérienne progresse jusqu'à l'attaque de la pulpe. La 
+rage de dent qui peut en découler provoquera de violentes 
+douleurs spontanées. 
+
+4 
+
+Cavité extensive 
+
+Cavité pouvant atteindre la zone parapulpaire ; une partie des 
+cuspides est détruite. 
+
+La prolifération bactérienne peut progresser vers les tissus 
+proches de la dent concernée (ligament, os, gencive) et 
+provoquer un abcès dentaire avec de graves conséquences. 
+
+Pour des cavités volumineuses les composites dentaires ne seront pas utilisés en 
+restaurations directes. Lorsqu'une carie détruit la totalité d'un point de contact, la 
+totalité d'une paroi, ou a fragilisé l'une des cuspides d'une dent, la partie endommagée 
+doit être reconstituée à l'aide d'une pièce prothétique en résine composite (à matrice 
+thermopolymérisable) ou en céramique (inlay/onlay Figure 4). Dans cette technique 
+de restauration indirecte la dent est gardée vivante, on évite la dévitalisation et la 
+
+
+7 
+
+couronne prothétique. Cette approche ne sera pas détaillée dans la suite de l'article : 
+seule sera abordée la technique de restauration directe qui ne comporte que des 
+procédures intrabuccales réalisées en une seule séance. 
+
+Figure 4 -
+Illustration de la notion d'inlay/onlay et exemples de réalisations en 
+composite (provenance des illustrations [9] [10]). 
+
+2 Classifications 
+
+Actuellement, de par le monde, une quarantaine de fabricants environ, proposent à 
+leurs clients pas moins de 200 composites dentaires [11]. Dans ces derniers la matrice 
+résineuse est incontestablement le maillon faible des matériaux finaux. Elle assure 
+cependant un rôle majeur de cohésion de l'ensemble des charges rendant sa présence 
+indispensable. Sa proportion dans les composites est minimisée au profit des charges 
+de sorte, d'une part, à réduire le coefficient d'expansion thermique, la contraction de 
+polymérisation et l'absorption hydrique et d'autre part, à optimiser la viscosité du 
+composite et les propriétés mécaniques respectivement avant et après polymérisation 
+de la résine. 
+On se rend ainsi compte de l'important rôle joué par les charges dont la concentration 
+volumique peut varier entre 25 et 70%. Elles présentent, par ailleurs, une diversité de 
+tailles, de compositions, de formes, de combinaisons d'assemblages, qui finalement 
+conduisent à classifier essentiellement les composites dentaires sur la base de leurs 
+renforts, ce qui sera abordée dans la partie consacrée aux charges. D'autres critères 
+de classifications existent, détaillés ci-dessous. 
+
+2.1 Classification en fonction de la viscosité 
+
+La consistance d'un composite fait partie des critères de choix du praticien pour une 
+restauration donnée. Durant une même intervention le praticien peut avoir recours à 
+plusieurs composites présentant des consistances très différentes. Celle-ci est le fait 
+d'un ajustement des compositions par les fabricants. Les composites actuellement 
+disponibles sur le marché peuvent être classés en trois catégories : 
+
+2.1.1 Les composites de viscosité moyenne : 
+Ces composites (microhybrides) de maniement aisé sont dits « universels ». Leur 
+viscosité convient à un grand nombre d'indications aussi bien antérieures que 
+postérieures. Par ailleurs leur opacité est ajustée, par les fabricants, en fonction de 
+l'indication clinique visée et/ou de la complexité des teintes à reproduire (émail, dentine 
+et opacité intermédiaire). Le taux de charges de ces composites est de l'ordre de 78% 
+en poids ; 60% en volume. 
+
+2.1.2 Les composites fluides 
+Ces composites pour la plupart hybrides sont préconisés pour des indications cliniques 
+spécifiques (microcavités occlusales, cavités slot, cavités cervicales ou substitut 
+dentinaire, par exemple). En raison de leur fluidité, ils montrent un étalement facile, 
+associé à une bonne adaptation aux parois cavitaires. Ces composites sont 
+
+
+8 
+
+intéressants pour des films minces. Ils sont privilégiés dans le cas de recouvrement 
+de fond de cavité avant adjonction d'un composite plus visqueux. Par ailleurs il faut 
+tenir compte du fait qu'ils présentent un retrait de polymérisation important (jusqu'à 5% 
+en volume) et des propriétés mécaniques amoindries (en comparaison des composites 
+universels) en raison de leur faible taux de charges (entre 50 et 70% en poids et moins 
+de 50% en volume). 
+
+2.1.3 Les composites compactables ou condensables 
+Ces composites ont été développés dans les années 1990 pour des restaurations 
+postérieures afin de se substituer aux amalgames en essayant de conserver leurs 
+conditions d'utilisation (facilité, vitesse de manipulation). En raison d'un taux d'échecs 
+important lors de leur utilisation clinique, ce type de composite a été progressivement 
+abandonné. 
+
+2.2 Classification en fonction du mode de polymérisation de la matrice 
+résineuse 
+
+Les polymérisations s'effectuent pour la plupart des monomères par voie radicalaire 
+dont la première étape dite d'amorçage, consiste en la réaction d'un radical primaire 
+avec la première molécule de monomère. Les radicaux primaires sont généralement 
+obtenus par décomposition homolytique d'un amorceur. Les étapes de propagation 
+(additions successives de molécules monomères sur le centre actif) et de terminaison 
+(disparition ou transfert sur une autre molécule du milieu, du centre actif) mettent fin 
+par la suite à la polymérisation. Dans le domaine dentaire on rencontre deux modes 
+d'amorçage qui permettent de différentier les composites : 
+-L'amorçage chimique après décomposition thermique ou redox d'un amorceur 
+-L'amorçage photochimique après décomposition photochimique d'un amorceur 
+On distingue ainsi 2+1 classes de composites. 
+
+2.2.1 Les composites à matrice chémopolymérisable 
+Dans ces composites la génération des radicaux primaires est initiée chimiquement, 
+généralement, à partir d'amorceur de type peroxydes (le peroxyde de benzoyle par 
+exemple). Cependant pour ces composés la production de radicaux n'est optimale que 
+dans un certain intervalle de température incompatible avec le domaine dentaire 
+(T=85°C pour le peroxyde de benzoyle). Pour accélérer la décomposition des 
+peroxydes et permettre ainsi leur mise en oeuvre dans une gamme de température 
+plus favorable, on utilise la décomposition induite par des réducteurs. Ces derniers, 
+considérés comme des co-amorceurs constituent avec les peroxydes, des systèmes 
+redox qui doivent impérativement fonctionner en milieu non aqueux. Les systèmes 
+composés de peroxydes (peroxyde de benzoyle, peroxyde de cumyle, hydroperoxyde 
+de ter-butyle) et d'amines tertiaires (N,N-Diméthyl-p-toluidine, l'acide 4-
+(Diméthylamino)phényl acétique) sont les plus courants. La figure 5 montre le schéma 
+de la réaction d'amorçage redox par le peroxyde de benzoyle et la N,N-Dimethyl-p-
+toluidine. La réaction d'oxydo-réduction s'opère grâce à la chaleur du milieu. 
+
+
+9 
+
+Figure 5 -
+Décomposition du peroxyde de benzoyle en présence de N,N-Dimethyl-
+p-toluidine [12]. 
+
+Les composites à matrice chémopolymérisable se présentent sous forme de deux 
+composants (deux pâtes ou une poudre et un liquide) l'un contenant l'amorceur, l'autre 
+contenant le co-amorceur. Le praticien procède à leur mélange au moment de son 
+intervention. Le malaxage au cours de cette étape entraîne l'inclusion de bulles d'air, 
+qui nuisent à la fois à l'esthétique et à la résistance du matériau (l'oxygène étant 
+inhibiteur de polymérisation). Après mélange le temps d'utilisation du composite est 
+limité. 
+
+2.2.2 Les composites à matrice photopolymérisable 
+Dans ces composites la génération des radicaux primaires est initiée 
+photochimiquement. L'amorçage photochimique résultant de la seule activation des 
+monomères par les photons, est difficile à réaliser. C'est la raison pour laquelle on 
+trouve dans ces composites mono-composants un photo-amorceur (généralement la 
+camphorquinone, λmax=466,5nm). Cependant la camphorquinone, seule, ne peut 
+photoinitier la polymérisation de façon efficace. Ainsi pour une production efficace des 
+radicaux le photo-amorceur est utilisé en association avec un co-amorceur souvent 
+une amine tertiaire comme le 2-(diméthylamino)éthyl méthacrylate. Les radicaux 
+amorceurs (un radical cétyle et un second radical) sont alors produits par transfert 
+d'hydrogène entre l'espèce excitée et un donneur comme le montre la figure 6 dans le 
+cas de la camphorquinone en présence d'une amine tertiaire. Parmi les donneurs les 
+plus réactifs figurent, en effet, les amines aliphatiques tertiaires (hydrogène en α de 
+l'azote). 
+
+Figure 6 -
+Formation de radicaux libres assistée par un donneur d'hydrogène dans 
+
+
+10 
+
+le système camphorquinone-amine tertiaire [12] [13]. 
+
+Les composites à matrice photopolymérisable se présentent sous forme d'une pâte 
+directement utilisable. L'absence de malaxage évite l'incorporation de bulles au sein 
+de la pâte. Le praticien dispose par ailleurs d'une entière liberté sur le temps de prise. 
+Il peut multiplier les apports et modeler le matériau à sa guise avant irradiation. Cette 
+dernière s'effectue de nos jours avec des lampes à photopolymériser à LED (Figure 
+7). 
+
+Figure 7 -
+Etape de photopolymérisation pendant la mise en oeuvre d'un composite 
+dentaire [14]. 
+
+2.2.3 Les composites à matrice duale 
+Dans ces composites la génération des radicaux primaires est initiée 
+photochimiquement et chimiquement. 
+
+Notons finalement que des composites à matrice thermopolymérisable ont également 
+été développés pour la préparation des charges prépolymérisées ou des pièces 
+prothétiques (inlay/onlay). Les radicaux primaires sont initiés lors de la décomposition 
+thermique (entre 50 et 150°C pour les peroxydes) de l'amorceur (Figure 8). 
+
+Figure 8 -
+Mécanisme de décomposition thermique du peroxyde de benzoyle [12]. 
+
+2.3 Classification en fonction de l'indication clinique 
+
+Pour un professionnel médical, un classement par indications cliniques peut être mieux 
+approprié. Chaque étape des restaurations envisagées devra suivre un protocole 
+précis, en particulier l'association du bon système adhésif avec le ou les bons 
+composites. Le tableau 2 récapitule cette classification. 
+
+Tableau 2 : Utilisation des différents types de composites en fonction de l'indication clinique -
+exemples associés (provenance des illustrations [15]). 
+Indication clinique 
+Type de composite 
+Mise en oeuvre 
+Exemple 
+
+
+11 
+
+Scellement de Sillon -Composite fluide nano-
+hybride 
+-Blanc opaque 
+-Pouvant contenir du 
+fluor 
+
+-Nettoyage de la dent 
+-Mordançage de l'émail 
+-Rinçage / séchage 
+-Application du composite de 
+scellement (« sealant » en anglais) 
+-Photopolymérisation (1 couche) 
+-Polissage éventuel 
+
+Obturation secteur 
+antérieur 
+
+-Composites universels 
+nano-hybrides 
+-Modelables 
+-Opaque (dentine) 
+-Translucide (émail) 
+
+-Mordançage 
+-Application de l'adhésif 
+-Application des composites, la 
+stratification s'effectue de la face 
+palatine vers la face vestibulaire 
+-Photopolymérisation de chaque 
+incrément 
+-Finition + polissage 
+
+Obturation secteur 
+postérieur (petite 
+cavité) 
+
+-Composites fluides 
+nano-hybrides 
+-Opaque (dentine) 
+-Translucide (émail) 
+
+-Mordançage 
+-Application de l'adhésif 
+-Application du composite (une 
+couche ou deux) 
+-Photopolymérisation 
+-Finition + polissage 
+
+Obturation secteur 
+postérieur (cavité 
+volumineuse) 
+
+-association composites 
+«Bulk Fill*» fluide nano-
+hybride et «Bulk Fill» 
+modelable. 
+ou 
+-association composites 
+«Bulk Fill» fluide nano-
+hybride et composite 
+universel nano-hybride 
+modelable. 
+-Opaque (dentine) 
+-Translucide (émail) 
+
+-Mordançage 
+-Application de l'adhésif 
+-Application du composite «Bulk 
+Fill» fluide nano-hybride 
+-Photopolymérisation 
+-Mise en place du composite 
+« Bulk fill » modelable ou du 
+composite universel nano-hybride 
+modelable par incréments. 
+-Photopolymérisation de chaque 
+incrément. 
+-Finition + polissage 
+
+Reconstitution de 
+moignon 
+
+-Composite «Bulk Fill» 
+fluide dual. 
+ou 
+-Composite «Bulk Fill» 
+modelable. 
+
+-Mise en place du tenon dentaire 
+-Injection du composite «Bulk 
+Fill» fluide dual dans une matrice 
+autour du tenon 
+ou 
+-Mise en place du composite 
+«Bulk Fill » modelable autour du 
+tenon 
+-Photopolymérisation 
+-Sculpture du moignon 
+
+* Composite Bulk Fill : composites de placement en masse 
+
+3 Compositions des composites dentaires 
+
+3.1 La résine 
+
+En faible proportion comparée aux charges minérales, cette composante 
+indispensable est à l'origine de la dégradation de certaines propriétés mécaniques du 
+composite (résistance à l'usure par exemple). Elle est également à la source du retrait 
+de polymérisation et des contraintes qu'il engendre. Dans les composites dentaires 
+photopolymérisables, les plus couramment utilisés, la matrice résineuse est obtenue 
+par polymérisation de monomères diméthacrylate. La présence de deux fonctions 
+polymérisables portées par la même molécule permet de générer un réseau organique 
+dont la densité de réticulation est élevée. 
+
+
+12 
+
+3.1.1 Polymérisation des méthacrylates 
+Les méthacrylates polymérisent suivant une réaction de polymérisation en chaîne (« 
+chain polymerisation » en anglais) par voie radicalaire. Le mécanisme se déroule en 
+trois étapes : amorçage, propagation, terminaison [J5830 V2]. 
+De la nature du monomère dépendront différents facteurs. Plus la masse molaire du 
+monomère est faible et moins sa structure est rigide, plus son taux de conversion final 
+sera élevé [16]. La conversion de monomères libres en macromolécules puis en un 
+polymère engendre une diminution de volume du milieu réactionnel appelée retrait de 
+polymérisation. Pour une même valence, plus la masse molaire du monomère est 
+élevée et/ou plus la molécule est encombrée, moins le retrait sera important. Au 
+contraire, plus le taux de conversion est élevé, plus le retrait sera important [16]. Etant 
+donné que le composite dentaire est, au moins en partie, lié à son environnement à 
+travers l'adhésif dentaire, le retrait de polymérisation entraîne l'apparition de 
+contraintes. Ces deux phénomènes dont les conséquences sont détaillées sur la figure 
+9, font partie des principales sources d'échec des restaurations [17]. 
+
+Figure 9 -
+Dommages engendrés par le retrait de polymérisation et les contraintes 
+de contraction. 
+
+L'apparition et l'intensité de ces contraintes sont liées à l'évolution des propriétés du 
+matériau en formation au cours du processus de polymérisation. Ce processus peut 
+être découpé en trois phases [17] [18]. Au cours de la phase pré-gel, les molécules et 
+macromolécules sont mobiles dans un milieu liquide dont la viscosité dépend 
+initialement du mélange de monomères. Le réseau continue de s'étendre jusqu'à 
+former un macrogel qui couvre toute l'étendue du composite déposé. Le point de gel 
+est alors atteint (à taux de conversion égal à 5% pour les méthacrylates). Le réseau 
+tridimensionnel formé n'est pas encore rigide, il présente un comportement 
+caoutchoutique. A partir de ce point, le retrait volumique induit des contraintes de 
+contraction. Lorsque le taux de conversion continue de croître jusqu'à une valeur 
+proche de son maximum le réseau devient complètement rigide. Cette phase est 
+appelée vitrification. Les réarrangements du réseau ne sont quasiment plus possibles. 
+Le retrait volumique généré dans cet état du matériau se traduit par une très forte 
+augmentation des contraintes de contraction. Ainsi, plus le point de gel apparaitra pour 
+des taux de conversion élevés et plus le matériau formé sera flexible (faible module 
+d'Young), plus les contraintes de contraction seront faibles. 
+L'obtention d'un réseau rigide tridimensionnel dense limite rapidement la mobilité des 
+espèces et empêche la conversion des monomères dans leur intégralité. Ainsi, le taux 
+de conversion maximal, atteint pour les formulations à base de diméthacrylates, 
+utilisées en restauration directe, est de 75%. Les liaisons C=C n'ayant pas réagi (25%) 
+se répartissent, d'une part dans les liaisons pendantes liées au réseau (90%) et d'autre 
+part dans les monomères libres (10%). 
+
+
+13 
+
+3.1.2 Cahier des charges des monomères 
+Il doit répondre à plusieurs critères [19] 
+-Taux de conversion élevé (idéalement &gt; 60%) et propriétés de réticulation 
+importantes (valence ≥ 4) : amélioration des propriétés mécaniques et diminution 
+des monomères libres. 
+-Retrait volumique le plus faible possible (idéalement &lt; 7% pour les monomères 
+structurants) ou expansion lors du processus de polymérisation : l'amélioration de 
+cette propriété a été le principal moteur d'innovation sur les monomères. 
+-Propriétés mécaniques optimales et résistance à l'usure une fois polymérisé, plus 
+particulièrement dans les conditions buccales. 
+-Température de transition vitreuse du polymère formé supérieure à 60°C : le 
+composite ne doit pas présenter un caractère caoutchoutique dans les conditions 
+d'utilisation. 
+-Faible absorption d'eau du polymère formé : nécessaire pour limiter le passage 
+d'espèces moléculaires du composite à la salive et vice versa. 
+-Stabilité du polymère dans le temps vis-à-vis de la lumière environnante (absence 
+ou limitation des dégradations, sources éventuelles de coloration additionnelle) : 
+propriété indispensable dans le cas de restaurations antérieures où le caractère 
+esthétique est primordial. 
+-Stabilité au cours du stockage en présence des charges inorganiques et des 
+additifs : les monomères ne doivent ni se dégrader ni polymériser avant utilisation. 
+-Faible toxicité orale, pas d'effet mutagène ou cancérogène des monomères et du 
+polymère correspondant. 
+
+La plupart des formulations commerciales sont préparées à partir d'un nombre 
+restreint de monomères (deux à trois) dont les formules chimiques sont reportées dans 
+la figure 10. 
+
+3.1.3 Monomères couramment utilisés 
+
+Figure 10 -Monomères couramment utilisés pour l'élaboration des matrices 
+résineuses. 
+
+Les propriétés des monomères les plus courants sont répertoriées dans le tableau 3 
+[19] [20]. 
+
+
+14 
+
+Tableau 3 : quelques propriétés physico-chimiques des monomères dentaires. 
+
+Monomère 
+Masse 
+moléculaire 
+(g/mol) 
+
+Taux de 
+conversion (à 
+température 
+ambiante) 
+
+Retrait 
+de polymérisation 
+(en % volumique) 
+
+Viscosité 
+(Pa.s) 
+Indice de 
+réfraction 
+
+BisGMA 
+512 
+56-66 
+6,1-6,6 
+500-800 
+1,550 
+
+UDMA 
+470 
+78-82 
+5,6-6,7 
+5-10 
+1,485 
+
+BisEMA 
+452-540 
+82-86 
+6,0 
+0,75-1,00 
+1,535 
+
+TEGDMA 
+286 
+68-85 
+13-14,3 
+0,008-0,100 
+1,461 
+
+HDDMA 
+254 
+74-78 
+10,7 
+0,007 
+1,458 
+
+D3MA 
+338 
+0,012 
+1,459 
+
+Le monomère historique des composites dentaires, encore largement utilisé de nos 
+jours est le BisGMA (Figure 10). 
+
+Présent dans la plupart des formulations commercialisées, son utilisation est 
+actuellement soumise à débat pour des raisons de santé publique. En effet, il 
+est soupçonné de libérer du bisphénol A (BPA), un perturbateur endocrinien, 
+soit en tant que résidu de synthèse soit après dégradation du composite. 
+L'élution de BPA à partir d'un composite dentaire à base de BisGMA reste 
+cependant largement controversée dans la littérature. En effet, il est difficile de 
+quantifier des taux qui seraient très faibles. De plus, les résultats obtenus 
+dépendent du protocole de test mis en place notamment par rapport à la 
+dégradation du BisGMA. A l'heure actuelle, le seul cas où on pourrait suspecter 
+un fort taux de libération de BPA serait la présence simultanée de nombreuses 
+et larges restaurations à base de composite [17]. 
+
+Le BisGMA a été synthétisé puis breveté par Bowen en 1962 [2]. La masse molaire 
+élevée ainsi que la rigidité de la molécule permettent de limiter le retrait de 
+polymérisation [16]. Ce monomère présente en revanche une viscosité trop élevée en 
+raison des liaisons hydrogène qui s'établissent entre les fonctions alcool. Cette 
+viscosité ainsi que l'encombrement de la molécule réduit fortement sa mobilité et donc 
+sa réactivité (taux de conversion entre 56 et 66%). Malgré le taux élevé de fonctions 
+non converties les propriétés mécaniques du polymère obtenu sont acceptables pour 
+un composite dentaire. Les liaisons hydrogène renforcent, par exemple, la structure 
+du matériau [18]. 
+Le monomère UDMA (Figure 10) a quant à lui été développé en 1974 par Foster et 
+Walker [21]. Il est utilisé seul ou en combinaison avec d'autres monomères. Sa masse 
+molaire est proche de celle du BisGMA mais sa structure plus flexible que celle de ce 
+dernier permettrait d'améliorer la résistance du polymère obtenu [16]. La réactivité de 
+l'UDMA est plus élevée que celle du BisGMA et sa viscosité est beaucoup plus faible 
+(Tableau 3). Il reste donc moins de monomères libres en fin de polymérisation. En 
+revanche son faible indice de réfraction, qui diffère fortement de celui des charges 
+utilisées limite la profondeur de polymérisation. Sur le plan de la biocompatibilité, la 
+dégradation de l'UDMA libèrerait du HEMA (2-hydroxyethyl methacrylate) 
+reporté comme hautement cytotoxique [16]. 
+Le BisGMA et l'UDMA sont considérés comme des monomères structurants des 
+matrices, parfois en association l'un avec l'autre. Le BisGMA et dans une moindre 
+mesure l'UDMA ne sont pas utilisés purs mais en combinaison avec des diluants qui 
+facilitent l'introduction des charges minérales et la manipulation des formulations. 
+Parmi les diluants les plus courants figure le TEGDMA (Figure 10) [16]. Il est peu 
+visqueux et présente une réactivité élevée. En contrepartie, le retrait volumique qu'il 
+
+
+15 
+
+engendre est très important comparé au BisGMA et à l'UDMA (Tableau 3). Il présente 
+de plus un caractère toxique [22]. En raison de la très forte affinité des chaînes 
+polyéthers pour les molécules d'eau, la présence de ce monomère augmente 
+l'absorption hydrique. Pour éviter cet effet, des diluants hydrophobes ont été proposés 
+tel que le HDDMA et le D3MA (Figure 10) [22]. Parmi les monomères structurants 
+dérivés du BisGMA, le BisEMA (la molécule la plus courante est de type n+m =3) 
+(Figure 10) possède une structure rigide associée à une viscosité plus faible que celle 
+du BisGMA (absence des fonctions alcools). Ainsi, sa présence abaisse la viscosité 
+du mélange sans trop augmenter le retrait [17]. 
+
+3.1.4 Nouveaux monomères commercialisés / envisagés 
+Le développement de nouveaux monomères, dont quelques exemples sont présentés 
+sur la figure 11, est guidé par un souci constant d'amélioration des propriétés des 
+composites dentaires. La principale motivation est l'augmentation de la longévité des 
+réparations avec une diminution des dommages collatéraux occasionnés par le retrait 
+de polymérisation (entre 2,2 et 3,2 % pour les composites microhybrides actuels) et 
+plus précisément les contraintes liées à ce retrait [17] [23]. La suppression du BisGMA 
+(liée à sa potentielle toxicité) a également motivé le développement de nouveaux 
+monomères. 
+
+Figure 11 -Nouveaux monomères commerciaux et envisagés pour l'élaboration des 
+matrices résineuses. 
+
+Une des voies envisagées pour diminuer le retrait est d'élaborer des monomères dont 
+la masse molaire est élevée et présentant une structure rigide comparable à celle du 
+BisGMA. Le monomère DX511 (Figure 11) développé par Dupont a par exemple été 
+
+
+16 
+
+introduit dans des formulations sans BisGMA commercialisées récemment. La masse 
+molaire de ce monomère diméthacrylate (≥ 1077 g/mol) est deux fois supérieure à 
+celle du BisGMA. Le manque de réactivité observé pour les monomères à hautes 
+masses molaires est ici résolu par l'introduction de bras flexibles portant les fonctions 
+méthacrylate [17]. Le TCD-DI-HEA (Figure 11), un autre monomère de masse molaire 
+élevée (465 g/mol), a également été développé pour la préparation de la matrice 
+résineuse [24]. Cette molécule comporte trois cycles qui rigidifient la structure. Sa 
+faible viscosité permet de l'utiliser sans diluant en association avec l'UDMA (20%) [17]. 
+Malgré la présence des fonctions acrylates terminales, des études ont montré la faible 
+toxicité du monomère et la biocompatibilité du composite après polymérisation [22]. Le 
+DDCDMA (843 g/mol), hydrophobe, est quant à lui utilisé en tant que diluant d'un 
+mélange BisEMA/UDMA dans une formulation commerciale [20] [25]. Cette dernière 
+présente un taux de conversion élevé (&gt;80%, 72h après la photoinitiation) associé à 
+un faible retrait (2,4%) et une faible absorption d'eau (18 µg/mm 3 ) [26]. 
+Les monomères spiro orthocarbonate insaturés [27] et les siloranes [28] constituent 
+également une alternative intéressante pour limiter le retrait de polymérisation (Figure 
+11). Leur mécanisme de polymérisation par ouverture de cycle (exemple du 
+groupement oxirane porté par le silorane, Figure 12) induit une expansion du réseau 
+qui s'oppose au retrait. La formulation commerciale à base de silorane présente ainsi 
+un très faible retrait de polymérisation, entre 0,94% et 1,5 % [26] [28]. 
+
+Figure 12 -Mécanisme de polymérisation des siloranes (adapté de la référence 
+[29]). 
+
+La combinaison du PETMP et du TATATO a elle aussi été envisagée pour fabriquer 
+des composites dentaires à faible retrait (Figure 11). La polymérisation de ces 
+composés, appelée polymérisation thiol-ène, procède selon un mécanisme d'addition 
+par étapes [AM3044]. Ce type de formulation permet d'atteindre des taux de 
+conversion élevés tout en minimisant le retrait de polymérisation et les contraintes de 
+contraction [30]. Toutefois la forte odeur des molécules thiolées et l'instabilité des 
+composants au cours du stockage ont entre autres eu raison du développement de 
+matrices résineuses purement thiol-ène. Une stratégie a cependant été envisagée 
+pour tirer profit des avantages de la polymérisation thiol-ène en combinant les 
+monomères PETMP et TATATO à des monomères méthacrylates. La matrice 
+résineuse issue de ce mélange est obtenue par une combinaison de polymérisation 
+en chaîne et de polymérisation par étapes [22]. 
+
+3.1.5 Les monomères pour OrmoCer / nouvelle approche 
+Pour la préparation des matrices à base d'Ormocer, acronyme d'« ORganically 
+MOdified CERamics », les monomères « primaires » sont des molécules hétéro-bi-
+fonctionnelles de type alkyl-trialkoxysilanes portant un ou plusieurs groupements 
+organiques polymérisables (méthacrylates) [31] [32] [33]. Ces monomères vont subir 
+une étape d'hydrolyse-condensation qui va conduire à la formation d'oligomères 
+silicatés (poly)méthacrylates (Figure 13-a). Ces derniers sont constitués d'un réseau 
+polysiloxane tridimensionnel sur lequel sont attachées, via une liaison Si-C, les parties 
+
+
+17 
+
+organiques terminées par les groupements méthacrylates. Lors de la mise en oeuvre 
+des composites Ormocers, des charges microniques (verre au baryum par exemple) 
+ainsi que des nanoparticules (SiO2 par exemple) fonctionnalisées sont dispersées 
+dans la résine Ormocer (Figure 13-b). Les composites obtenus après polymérisation 
+des méthacrylates présentent un très faible retrait (&lt; 1,5%) ainsi qu'une 
+biocompatibilité élevée en raison notamment de l'absence de monomères 
+méthacrylates libres (abondance de sites de polymérisation). En plus du polymère 
+organique, la présence au sein de la matrice résineuse d'un réseau polysiloxane 
+permet d'améliorer la résistance à l'usure du matériau final (Figure 11-b) [34]. 
+
+Figure 13 -a) Synthèse des oligomères silicatés (poly)méthacrylates à partir de 3-
+methacryloxypropyltrimethoxysilane ; b) Structure schématisée d'un Ormocer (le 
+polymère organique est représenté en rouge). 
+
+3.2 Les charges 
+
+Les composites, actuellement disponibles sur le marché, se différencient surtout par 
+les caractéristiques des charges qu'ils renferment. Le rôle de ces charges est de pallier 
+les insuffisances (propriétés mécaniques et thermiques médiocres par exemple) de la 
+matrice d'accueil à laquelle elles sont liées (chimiquement et/ou physiquement). Par 
+ailleurs les charges influent grandement sur la contraction de polymérisation et sur 
+l'absorption hydrique des composites. Ainsi la composition, la taille, la distribution en 
+taille et le pourcentage massique ou volumique des charges au sein de la matrice 
+organique vont définir une large gamme de composites. Le tableau 4 donne un aperçu 
+de la composition de ces charges [17] et précise la terminologie adoptée pour classer 
+ces dernières en fonction de leur taille. L'appellation micro-charge, historique mais 
+inadaptée est très souvent avancée pour désigner des charges dans la gamme de 
+taille 10-100nm. 
+
+Tableau 4 : Principaux matériaux utilisés comme charges. 
+
+
+18 
+
+Nano-charge 
+
+1-100nm 
+
+Mini-charge 
+
+0,1-1µm 
+
+Midi-charge 
+
+1-10µm 
+
+Macro-charge 
+
+10-100µm 
+-SiO2 colloïdale, 
+-ZrO2 colloïdale, 
+-YbF3 colloïdal, 
+-SiO2 pyrogénique 
+
+-Verres silicatés, borosilicatés ou 
+fluorosilicatés contenant divers 
+éléments (Li, Al, Ba, Sr, Zn, Yb…), 
+-Quartz, 
+-SiO2/ZrO2, ZrO2, Al2O3, TiO2, 
+-Vitro-céramiques, 
+-Charges prépolymérisées, 
+-Agrégats ou agglomérats de 
+nanoparticules (Silice, zircone…), 
+-YbF3, YF3, 
+
+-Verres, 
+-Quartz 
+-Charges prépolymérisées 
+-Charges poreuses 
+
+Les charges sont élaborées par différentes techniques que la taille visée peut imposer. 
+Pour cela deux approches peuvent être considérées : l'approche dite descendante 
+(« top-down » en anglais) et l'approche dite ascendante (« bottom-up » en anglais). 
+L'approche « descendante » est de loin la plus ancienne et la plus éprouvée pour la 
+préparation de poudres. Le domaine céramique, par exemple, met fréquemment en 
+oeuvre cette approche pour l'élaboration de ses matières premières. Elle consiste, à 
+fragmenter progressivement un matériau massif (préalablement concassé si cela est 
+nécessaire), jusqu'à atteindre des dimensions nanométriques, à l'aide de broyeurs 
+dont l'efficacité s'est fortement améliorée avec le temps. Le broyage à haute énergie 
+est l'une des principales techniques utilisées dans ce contexte. Les particules 
+grossières subissent dans le broyeur d'énormes sollicitations mécaniques (chocs, 
+frottements, cisaillements, compression…) qui ont pour conséquences l'apparition de 
+défauts (distribution en taille large, pollution, contours anguleux…) qui peuvent être 
+gênants. Par ailleurs ces techniques souvent longues sont réservées aux matériaux 
+fragiles et ne permettent pas le contrôle de la morphologie. Une étape pour 
+sélectionner une tranche de tailles peut s'avérer nécessaire, par tamisage par 
+exemple. Dans le cas des verres les particules obtenues se présentent sous forme 
+d'objet anguleux et sans forme notable. Une géométrie moins anguleuse (sphéroïdale) 
+est toutefois recherchée pour limiter les zones de concentration de contraintes au sein 
+du matériau final. Même si les techniques de broyage actuelles permettent l'obtention 
+de ces géométries, elles peuvent être avantageusement préparées par d'autres 
+techniques notamment par approche ascendante. L'approche « ascendante » vient 
+des laboratoires de recherche et s'est grandement sophistiquée avec l'avènement des 
+nanosciences. Elle consiste à construire les matériaux atome par atome, molécule par 
+molécule ou cluster par cluster. L'assemblage des atomes, des molécules ou des 
+clusters s'effectue de façon parfaitement contrôlée, permettant ainsi l'élaboration 
+d'objets fonctionnels dont la structure et la morphologie peuvent être complètement 
+maîtrisées. Le procédé sol-gel ou la synthèse colloïdale par exemple, représentants 
+de la « chimie douce » et de l'approche ascendante, sont des techniques matures pour 
+l'élaboration de charges (SiO2, ZrO2, TiO2, YbF3…) utilisées dans les composites 
+dentaires. La figure 14 montre des exemples de nanoparticules de silice, de fluorure 
+d'ytterbium et de zircone, préparées par synthèse colloïdale. 
+
+
+19 
+
+Figure 14 -Nanoparticules de a) Silice ; b) Fluorure d'ytterbium ; c) Zircone 
+(provenance des illustrations, Laboratoire de Chimie de l'Ecole Normale Supérieure 
+de Lyon). 
+
+Certaines de ces charges nanométriques (SiO2, SiO2/ZrO2) peuvent être assemblées 
+en grappes plus ou moins poreuses, au moment de leur synthèse ou par frittage 
+ultérieur (Figure 15) [35]. Introduites dans les résines, comme charges microniques ou 
+submicroniques, ces agrégats ou agglomérats de nanoparticules combinés avec des 
+nanoparticules isolées, permettent d'atteindre des taux de charges importants en 
+conservant une viscosité acceptable pour une manipulation aisée. Les composites 
+résultants démontrent une esthétique intéressante et une conservation de l'état poli 
+similaire aux microchargés, en maintenant des propriétés physiques performantes 
+comparables à celles des hybrides [36]. 
+Avec la même finalité, des charges prépolymérisées, sont aussi utilisées comme 
+charges complexes. Elles sont élaborées par approche descendante ou ascendante 
+[37]. Dans le cas de l'approche descendante, un bloc de matériau composite 
+renfermant une forte concentration de micro-charges (70% en poids), est préparé par 
+polymérisation thermique. Le bloc est ensuite concassé puis broyé sous forme de 
+poudre micronique aux formes géométriques anguleuses (Figure 15). 
+
+Figure 15 -Structure schématique d'un composite à fort taux de nanocharges 
+combinant des nanoparticules isolées et des nanoparticules pré-assemblées (la partie 
+en rouge représente l'interphase dans laquelle est engagé l'agent de couplage). 
+
+Dans le cas de l'approche ascendante, des particules sphériques sont obtenues après 
+atomisation d'une solution contenant des particules de verre submicroniques et/ou des 
+nanoparticules en suspension dans un mélange de monomères et d'un solvant. Les 
+particules ainsi élaborées sont traitées thermiquement afin de parfaire la 
+polymérisation initiée lors de l'atomisation (Figure 15). La figure 16 montre un exemple 
+de telles charges prépolymérisées et d'incorporation dans un composite. 
+
+
+20 
+
+Figure 16 -Charges prépolymérisées observées en microscopie électronique à 
+balayage : a) Individualisées et b) Insérées dans une matrice résineuse (provenance 
+des illustrations Dentsply Sirona). 
+
+La dispersion des charges dans les monomères est une étape clef dans l'élaboration 
+d'un composite. Lors de la formulation d'un composite, il est important de ne pas le 
+surcharger, car le mouillage de la surface de l'ensemble des particules est un point 
+essentiel et d'autant plus difficile que les charges sont de petites tailles. Un matériau 
+ne contenant que des charges partiellement mouillées présenterait des propriétés 
+physiques et mécaniques médiocres. La concentration en monomère nécessaire pour 
+recouvrir la charge par unité de surface varie d'une matrice à l'autre et d'une charge à 
+l'autre. Cette étape d'intime mélange entre charges et monomères est réalisée à l'aide 
+d'outils complètement différents suivant la nature des charges. Ainsi les charges les 
+plus petites (nanométriques) sont, dans les cas les plus favorables, introduites dans le 
+mélange de monomères sous forme de solutions colloïdales. On est alors en présence 
+de deux liquides parfaitement miscibles. Le solvant de dispersion des charges qui sert 
+par ailleurs à leur transfert dans le mélange de monomères, est éliminé sous vide à 
+l'aide d'un évaporateur rotatif. Après cette étape, la stabilité est assurée par des agents 
+de couplage et/ou de compatibilisation qui seront détaillés plus bas. Par la suite la 
+solution colloïdale dans les monomères accueille les autres charges beaucoup plus 
+grosses. L'homogénéisation et la désaération (suppression des bulles d'air) de 
+l'ensemble sont conduites dans un mélangeur planétaire (Figure 17) ou dans des 
+appareils aux fonctions équivalentes. 
+
+Figure 17 -Principe de fonctionnement d'un mélangeur planétaire et photographie 
+d'un modèle commercial (provenance des illustrations [38]). 
+
+La pâte plus ou moins visqueuse issue de ces différentes sous-étapes renferme 
+également des additifs nécessaires à la conservation du produit et à l'ajustement des 
+
+
+21 
+
+propriétés liées à l'esthétisme. Les pâtes ainsi formulées sont conditionnées dans des 
+seringues (Figure 18). Ces dernières sont installées dans un pistolet de dépose et 
+équipées d'embouts de différentes géométries pour faciliter la pose du composite 
+(Figure 18). 
+
+Figure 18 -Seringues de conditionnement de composites dentaires, exemples 
+d'embouts de dépose et dépose d'un composite (provenance des illustrations [15] [39] 
+Dentsply Sirona). 
+
+La figure 19 présente l'évolution des micro (nano) structures des composites au cours 
+du temps en fonction des charges incorporées. L'optimisation de l'arrangement des 
+charges au sein des matériaux finaux a tenu compte de la disponibilité de ces charges 
+au moment de la fabrication des composites. Ainsi les premiers composites dits 
+« macrochargés », utilisaient des charges de tailles importantes dont l'espace 
+interparticule était occupé par la matrice polymère. Cette mauvaise gestion de 
+l'optimisation granulaire conduisit à de médiocres propriétés du composite. Comme 
+pour les bétons hautes performances la démarche adoptée pour améliorer la 
+compacité des charges et donc les propriétés physico-chimiques, se réfère à celle 
+suivie par le géomètre de l'Antiquité grecque, Apollonios de Perga, qui s'était posé la 
+question suivante : « Comment paver avec des disques de toutes tailles un espace 
+plan, en s'assurant que les interstices entre les disques occuperont une surface 
+minimale ? ». Le savant proposa alors un motif de base constitué de trois éléments de 
+forme circulaire entre lesquels vient s'inscrire un quatrième qui leur est tangent (Figure 
+20). 
+Bien sûr dans le cas des composites dentaires, le contexte industriel impose d'utiliser 
+des charges aux formes souvent irrégulières mais dont la distribution en taille reste 
+relativement étroite. Ainsi un mélange de charges de taille contrôlée et de nature 
+différente cimentées par la matrice polymère permet d'obtenir des composites aux 
+performances exigées par le domaine dentaire. 
+
+
+22 
+
+Figure 19 -Types de structures rencontrées dans le domaine des composites 
+dentaires en fonction de la taille des charges ; la partie en rouge représente 
+l'interphase dans laquelle est engagé l'agent de couplage (Adaptée de [40]). 
+
+Figure 20 -Exemple d'empilement apollonien (provenance des illustrations [41]). 
+
+Ainsi par un choix judicieux du mélange des charges inorganiques disponibles les 
+propriétés mécaniques et optiques des composites peuvent être parfaitement 
+optimisées au regard des restaurations à effectuées. 
+
+Selon leur taille, les charges particulaires peuvent être divisées en macro-charges (10-
+100µm, utilisées dans les premiers matériaux composites de restauration), midi-
+charges (1-10µm), mini-charges (0,1-1µm) et nano-charges (1-100nm). Pour rappel, 
+les composites improprement nommés microchargés contiennent des particules dans 
+la gamme 5-100 nm. Pour améliorer les propriétés de manipulation et atteindre un taux 
+de charges important, les composites micro-chargés hétérogènes peuvent contenir 
+des charges prépolymérisées obtenues à partir d'un matériau micro-chargé 
+homogène. Les composites micro-chargés ont des propriétés médiocres en raison de 
+leur teneur relativement faible en charges. Ils ont été développés pour satisfaire le 
+besoin de composites esthétiques et présentant une bonne aptitude au polissage. Par 
+conséquent, les composites universels actuellement disponibles, utilisables pour la 
+plupart des applications antérieures et postérieures, sont des hybrides basés sur un 
+
+
+23 
+
+mélange de mini-charges et de nano-charges. Ils possèdent des propriétés 
+mécaniques ainsi qu'une aptitude au polissage suffisantes. Ces composites micro-
+hybrides sont appelés nano-hybrides lorsque leur taux de charges est renforcé en 
+nanoparticules, éventuellement en présence de charges prépolymérisées 
+additionnelles [22] [42]. 
+Les composites de type Bulk Fill, ou composites de placement en masse, ont été 
+conçus pour simplifier la mise en oeuvre de restaurations postérieures, notamment 
+pour le traitement de cavités volumineuses. L'objectif est de remplacer les composites 
+classiques, mis en place suivant une technique incrémentale, en couches d'épaisseurs 
+limitées à 2 mm. Cette technique, compliquée dans la mise en oeuvre, est 
+consommatrice de temps et peut générer de l'inconfort et un surcoût pour le patient. 
+Les composites de type Bulk Fill actuellement développés présentent une profondeur 
+de polymérisation élevée, de 4 à 5 mm, un retrait volumique relativement limité (1,6 à 
+2 % pour les matériaux de viscosité moyenne, 2,5-4,1 % pour les matériaux fluides) 
+ainsi qu'un choix de teintes simplifié (quatre teintes maximum). L'augmentation de la 
+profondeur de polymérisation a été obtenue par l'amélioration de la translucidité des 
+matériaux (parfaite adéquation entre les indices de réfraction de la matrice et des 
+charges, utilisation de charges nanométriques, diminution du taux de charges pour les 
+composites fluides…) et dans certains cas par l'optimisation du photoamorceur 
+(coefficient d'absorption élevé à λmax). Les composites de type Bulk Fill de viscosité 
+moyenne peuvent nécessiter la pose préalable d'une couche de composite fluide qui 
+permettra de relâcher les contraintes de contraction. Les composites fluides, quant à 
+eux, doivent être associés à un composite micro-hybride classique qui sera polymérisé 
+en surface de la restauration (couche de 2 mm) afin de renforcer les propriétés 
+mécaniques (résistance aux contraintes et résistance à l'usure notamment), et les 
+propriétés esthétiques compromises dans certains cas par la translucidité importante 
+du matériau Bulk Fill [43]. 
+La dispersion des charges dans les monomères impose de modifier leur surface avec 
+un agent de couplage afin d'assurer une compatibilité de la partie inorganique avec la 
+partie organique. C'est très souvent une molécule hétéro-bi-fonctionnelle qui assure la 
+cohésion entre les charges et la phase organique [44]. Un ancrage des charges, 
+purement mécanique, a également été envisagé en utilisant pas exemple, des charges 
+poreuses ou rugueuses [45]. S'il n'y a pas de liaison entre la matrice et les charges, 
+les charges deviennent des concentrateurs de contraintes et il ne peut y avoir de 
+transfert des contraintes au sein du matériau. En dehors du fait que l'agent de 
+couplage permet un ancrage des charges à la partie organique, il améliore leur 
+caractère hydrophobe et minimise leur agglomération. Ainsi, une distribution optimale 
+des charges peut être obtenue, ce qui est très important pour les propriétés du 
+matériau final. L'ensemble des points évoqués ci-dessus devient crucial et le rôle de 
+l'agent de couplage prépondérant lorsque des nanoparticules sont présentes dans le 
+composite. En effet l'interface charge/matrice devient alors conséquente. Pour les 
+nanoparticules, le rapport surface/volume extrêmement élevé, conduit à l'incorporation 
+d'un pourcentage plus élevé d'agents de couplage par rapport aux composites 
+contenants des charges de taille micrométrique. Bien évidemment, les molécules bi-
+fonctionnelles utilisées comme agent de couplage doivent avoir une affinité pour la 
+surface des charges minérales. Ainsi pour des charges silicatées les agents de 
+couplage sont naturellement des silanes dont quelques exemples sont montrés sur la 
+figure 21 [46]. 
+
+
+24 
+
+Figure 21 -Exemples d'agents de couplage. 
+
+Alkyl-trialkoxysilanes avec divers groupements fonctionnels: 
+
+a) 3-methacryloxypropyltrimethoxysilane, b) 3-Triethoxysilylpropylsuccinic anhydride, 
+c) Vinyltrimethoxysilane, d) (3-Mercaptopropyl)trimethoxysilane, e) 3-
+Aminopropyl)trimethoxysilane, f) (3-Glycidyloxypropyl)trimethoxysilane; 
+
+Alkyl-trialkoxysilanes sans groupements fonctionnels: 
+
+g) n-Decyltrimethoxysilane, h) 1H,1H,2H,2H-Perfluorooctyltriethoxysilane. 
+
+La fonctionnalisation des charges s'effectue dans la plupart des cas en solution à partir 
+des poudres sèches en milieu solvant et en présence d'eau et d'un catalyseur. Le type 
+de solvant (polaire vs non-polaire), la nature du catalyseur (acide vs base), la quantité 
+d'eau, la quantité de silane, la température sont des paramètres importants qui 
+déterminent le type d'interphase générée. Le mécanisme de greffage consiste dans 
+un premier temps en l'hydrolyse des groupements alkoxy de l'alkoxyde de silicium. 
+Les produits d'hydrolyse peuvent ensuite se condenser sur eux-mêmes et/ou 
+s'adsorber par liaisons hydrogène sur la surface des particules. Dans une ultime étape, 
+la condensation entre les molécules hydrolysées et les groupements silanols des 
+particules intervient. Il y a formation d'un lien covalent entre la structure inorganique et 
+le groupement organique. Ce lien ancre la partie minérale au réseau organique et évite 
+son relargage. La figure 22 montre le mécanisme de greffage d'un trialkoxysilane à la 
+surface d'un matériau silicaté [47]. 
+
+Figure 22 -Mécanisme de greffage d'un trialkoxysilane à la surface d'un matériau 
+silicaté [47]. 
+
+
+25 
+
+Cependant cette représentation idéale reflète mal la complexité des réactions réelles. 
+Pour des alkoxysilanes multifonctionnels des groupements silanols subsistent dans 
+les oligomères greffés. Ils sont susceptibles de réagir ultérieurement avec leurs 
+congénères pour former des ponts siloxanes au sein des oligomères ou entre 
+oligomères sans interagir avec la surface des particules. Ainsi, si les conditions 
+expérimentales sont mal maitrisées, une couche tridimensionnelle étendue sera 
+présente à la surface des charges, très éloignée du recouvrement idéal présenté sur 
+la figure 22. Par ailleurs l'hydrolyse des liaisons établies entres les charges et la 
+matrice peut entraîner la décohésion des phases organique et minérale, entraînant le 
+vieillissement prématuré et rapide de la résine composite. 
+Des molécules hétéro-bi-fonctionnelles de type phosphonate ou phosphate ont été 
+également greffées à la surface de particules d'oxydes métalliques ou de fluorures de 
+lanthanides. Des exemples de ces agents de couplage sont donnés dans la figure 23 
+[48]. 
+
+Figure 23 -Agents de couplage de types phosphate et phosphonate avec 
+groupement fonctionnel : a) 10-Methacryloyloxydecyl dihydrogen phosphate, b) 11-
+Methacryloyloxyundecylphosphonic acid. 
+
+Alors que la fonctionnalisation des charges microniques ou submicroniques se déroule 
+plutôt « facilement », la fonctionnalisation des nanoparticules demande quelques 
+précautions notamment au niveau de leur dispersion dans le solvant de réaction. Il 
+sera bien évidemment préférable dans ce cas de partir de solutions colloïdales plutôt 
+que de poudres sèches fortement agglomérées. 
+
+Concernant l'utilisation des nanoparticules dans le domaine biomédical il est 
+bon de rappeler que dans un de ses derniers rapports l'Agence nationale de 
+sécurité sanitaire de l'alimentation, de l'environnement et du travail (ANSES) 
+plaidait pour un encadrement réglementaire renforcé. L'agence précise que des 
+effets sur la santé ont été observés (effets cancérogènes, génotoxiques, 
+accumulation dans l'organisme, impact sur le système nerveux). 
+
+3.3 Les amorceurs et les inhibiteurs de polymérisation 
+
+Seuls seront évoqués, dans ce paragraphe les amorceurs photoactivables. Dans la 
+formulation des composites, ils représentent un pourcentage massique compris entre 
+0,1 et 1%. Pour être efficace, ils doivent satisfaire à un certain nombre de critères [49]. 
+Ils doivent notamment présenter : 
+-Une forte absorption dans le domaine d'émission de la source lumineuse utilisée, 
+-Une durée de vie courte pour l'état excité réactif afin d'éviter une réaction parasite 
+avec d'autres molécules, 
+-Un rendement quantique de formation des radicaux élevé, 
+-Une grande réactivité des radicaux formés vis à vis des monomères. 
+Les tous premiers matériaux d'obturation dentaire photopolymérisables contenaient 
+des amorceurs ultra-violet (UV). La polymérisation au moyen de rayonnements UV 
+présente plusieurs inconvénients notables. Les rayons UV peuvent, notamment, 
+
+
+26 
+
+endommager les muqueuses ou les yeux des patients, et sont par ailleurs fortement 
+diffusées par les charges minérales de sorte que pour les résines composites teintées, 
+les profondeurs de polymérisation sont inférieures à 1mm. Afin de remédier à ces 
+inconvénients, des résines composites contenant des α-dicétones en tant que photo-
+amorceurs ont été développées, lesquelles sont durcies à l'aide d'un rayonnement 
+visible [50]. Le benzile (BZ), la 1-phényl-1,2-propanedione (PPD) ou la 
+camphorquinone (CQ) sont des exemples de α-dicétones commercialement 
+disponibles (Figure 24). Du fait de ses propriétés (optiques, toxicité…) la CQ est 
+presque la seule α-dicétone utilisée en dentisterie [51]. Comme mentionné dans le 
+paragraphe 2.2.2, elle a besoin d'un co-amorceur (amine tertiaire) pour former des 
+radicaux. Ces systèmes CQ-amine ont été énormément étudiés, seuls ou en 
+combinaison avec d'autres photo-amorceurs (Lucirin TPO, Irgacure 819, photo-
+amorceurs cationiques…) (Figure 24) [52]. 
+
+Figure 24 -Exemples de photo-amorceurs utilisés dans le domaine visible. 
+
+Ces 
+systèmes 
+de 
+photo-amorceurs 
+présentent 
+néanmoins 
+plusieurs 
+inconvénients dont [53]: 
+-Un rendement quantique de conversion de la CQ par photon absorbé extrêmement 
+faible (&lt;0,1). 
+-Une coloration des résines composites (oxydation des molécules d'amine restantes). 
+-Un coefficient d'absorption molaire de la CQ faible (ε = 28 L.mol -1 .cm -1 à λmax=467nm), 
+-Une toxicité des amines utilisées. 
+Afin d'éliminer certains de ces inconvénients, diverses substances ont été étudiées, 
+par exemple, des substituts aux amines. Des molécules comme alternatives à la CQ 
+ont également été évaluées (Irgacure 819, titanocène, complexe colorant 
+cationique/anion borate…) [54]. Mais une avancée importante dans le domaine 
+concerne les photo-amorceurs de type acylgermane (Figure 25). Parmi ces composés 
+fonctionnant sous lumière visible le benzoyltriméthylgermane (BTMGe), le 
+dibenzoyldiéthylgermane (DBDEGe) ou l'Ivocerin sont des photo-amorceurs très 
+efficaces pour les résines méthacrylates [55]. 
+
+Figure 25 -Exemples de photo-amorceurs de type acylgermane [56]. 
+
+
+27 
+
+Comparés à la Lucirin TPO (λmax=385 nm) ou à l'Irgacure 819 (λmax=379 nm), ces 
+composés du germanium montrent un décalage prononcé de leur absorption dans le 
+rouge (λmax=411 nm pour BTMGe ; λmax=418 nm pour DBDEGe ; λmax=408 nm pour 
+l'Ivocerin). Comparés à la CQ ils montrent une absorption beaucoup plus importante 
+dans la région du visible (εCQ à λmax=28 L.mol -1 .cm -1 ; εBTMGe à λmax=137 L.mol -1 .cm -1 ; 
+εDBDEGe à λmax=490 L.mol -1 .cm -1 ; εIvocerin à λmax=724 L.mol -1 .cm -1 ). Les rendements 
+quantiques de décomposition des acylgermanes évoqués ici, sont pour le DBDEGe 
+0,83 et l'Ivocerin 0,83 nettement supérieurs à celui de l'Irgacure 819 qui est 0,59. 
+Une analyse de composites dentaires contenant des acylgermanes a montré que ces 
+photo-amorceurs offraient des avantages considérables par rapport aux systèmes CQ-
+amine [57]: 
+-Durcissement plus rapide des matrices résineuses, 
+-Excellent comportement de blanchiment, 
+-Concentration de photo-amorceur beaucoup plus faible pour obtenir des propriétés 
+mécaniques comparables, 
+-Stabilité accrue au stockage des composites, 
+-Très faible toxicité. 
+Parmi ces acylgermanes, l'Ivocerin fruit des optimisations dans le domaine est 
+actuellement utilisé par Ivoclar Vivadent [57]. 
+
+En plus des photo-amorceurs des molécules inhibitrices sont ajoutés (200 à 1000 ppm) 
+dans les composites dentaires pour stabiliser les monomères. Ces molécules ont pour 
+rôle de stopper, en piégeant les radicaux primaires formés (lumière, chaleur…), tout 
+départ de polymérisation spontanée au cours du stockage [58]. Ainsi, la polymérisation 
+des méthacrylates ne pourra réellement se déclencher que lorsque la quantité totale 
+d'inhibiteur aura été consommée. Les inhibiteurs les plus courants dans le domaine 
+des composites dentaires sont des dérivés du phénol : le monométhyléther 
+d'hydroquinone (MEHQ) ou le 2,6-di-tert-butyl-4-methylphenol (BHT) (Figure 26). 
+
+Figure 26 -Inhibiteurs de polymérisation utilisés dans les composites dentaires. 
+
+L'oxygène de l'air est un puissant inhibiteur de polymérisation. Ainsi, la couche 
+superficielle du composite après irradiation n'est que partiellement polymérisée. Cette 
+couche est riche en doubles liaisons qui pourront dans le cas d'une restauration par 
+incréments assurer la liaison chimique entre chaque incrément [59]. En revanche c'est 
+un inconvénient majeur pour la polymérisation de couches très fines de restauration. 
+Ainsi certains praticiens prennent le soin de déposer une fine pellicule de glycérine sur 
+la restauration avant l'étape d'irradiation [15]. 
+
+3.4 Les additifs pour la gestion de l'esthétisme 
+
+Certains additifs sont des éléments importants dans la composition des composites 
+dentaires afin de répondre aux exigences esthétiques [60]. Ils sont nécessaires pour 
+faire correspondre la couleur mais aussi l'opacité, la translucidité ou la fluorescence 
+de la restauration à celles des dents naturelles. Par exemple, la figure 27 montre 
+comment est effectué le choix de la teinte d'un composite de restauration à l'aide d'un 
+
+
+28 
+
+teintier dans le cas d'une dent antérieure pour laquelle la notion d'esthétisme est 
+cruciale. Pour la restauration de dent postérieure le souci du détail pousse également 
+les praticiens à utiliser des composites colorés (Figure 27). 
+
+Figure 27 -Utilisation d'un teintier pour ajuster au mieux la teinte du composite de 
+restauration. Composite coloré mimant la dentine pour la restauration d'une dent 
+postérieure (provenance des illustrations [15]). 
+
+Les pigments sont ajoutés en quantités de l'ordre de 0,001 à 0,05% en poids. À cette 
+fin, un mélange de différents pigments inorganiques (Fe2O3, FeOOH…) est le plus 
+souvent utilisé. Ils doivent être stables dans l'environnement buccal et leurs 
+caractéristiques ne doivent pas changer avec le temps. Ces pigments inorganiques 
+sont finement divisés et leur surface est généralement modifiée (polysiloxane avec 
+groupements polymérisables) afin de parfaire leur dispersion dans la matrice 
+résineuse. Les pigments organiques sont des alternatives avantageuses (gamme de 
+couleurs, facilité de mise en oeuvre…) aux pigments dits conventionnels. Cependant 
+ces pigments organiques souffrent d'un manque de stabilité. Pour remédier à ce défaut 
+les molécules de colorants peuvent être incorporées dans une matrice sol-gel. Afin 
+d'augmenter leur concentration dans la matrice sol-gel et leur stabilité, les 
+chromophores sont greffés de façon covalente au réseau de silice. Un exemple de 
+chromophore greffé est illustré sur la figure 28 [61]. 
+
+Figure 28 -Schéma montrant l'insertion d'un chromophore dans une matrice sol-gel 
+[61]. 
+
+La matrice résineuse contient (0,001-0,007% en poids) également des opacifiants 
+(TiO2, Al2O3…) pour ajuster la transmission optique des restaurations. Soulignons 
+enfin que la gestion de l'opalescence de composites qualifiés de hautement 
+esthétiques peut être obtenue par auto-assemblage de nanoparticules d'oxyde, 
+sphériques et monodisperses comme c'est le cas dans l'opale naturelle [60]. 
+
+
+29 
+
+4 Propriétés des composites dentaires 
+
+Le composite dentaire est un matériau dont les propriétés doivent être proches de 
+celles des tissus dentaires, l'émail et/ou la dentine, auxquels il va se substituer. Des 
+propriétés mécaniques en deçà de celles requises entraîneraient par exemple la 
+fracture du matériau de restauration. Des propriétés mécaniques au-delà de celles 
+requises peuvent au contraire induire des dommages pour les tissus sains [59]. Les 
+caractéristiques finales du composite dépendent d'une part de sa composition et 
+d'autre part des conditions de polymérisation. Le savoir-faire du praticien ainsi que la 
+procédure de mise en oeuvre de la restauration (couche par couche, épaisseur des 
+couches, temps d'irradiation, lampe de polymérisation…) sont autant de facteurs 
+influençant les propriétés du composite polymérisé. Il est de plus difficile de simuler la 
+variété de contraintes auxquelles le matériau sera soumis (mastication en présence 
+d'aliments divers, frottements avec la dent antagoniste, …) ainsi que l'environnement 
+buccal dont les caractéristiques (pH, température, composition de la salive, …) sont 
+dépendantes du patient et évoluent au cours de sa vie. Dans ce contexte, les études 
+cliniques sont les plus pertinentes pour évaluer les performances d'un composite en 
+tant que matériau de restauration dentaire notamment en termes de longévité. Or ces 
+tests demandent beaucoup de temps et d'investissement et ne sont pas toujours tous 
+disponibles lors de la mise sur le marché d'un nouveau produit [59]. Les propriétés 
+considérées comme les plus pertinentes sont donc évaluées en laboratoire et 
+cliniquement validées par la suite [62] [63]. 
+Les propriétés physiques, mécaniques et optiques étudiées sur les composites 
+dentaires sont listées dans les tableaux ci-dessous (Tableaux 5, 6 et 7). La norme ISO 
+4049, qui rassemble les exigences relatives aux produits de restauration à base de 
+polymère, ne retient qu'un petit nombre d'entre elles. Celles-ci sont signalées dans les 
+tableaux, accompagnées de leur valeur seuil. L'ensemble des techniques de 
+caractérisation envisageables sur ces matériaux a été répertorié dans la littérature [64] 
+[65]. A titre d'illustration, une ou deux de ces méthodes de test et/ou norme standard 
+utilisée ont été mentionnées ici pour chacune des propriétés. 
+
+4.1 Propriétés physiques 
+
+Tableau 5 -propriétés physiques des composites dentaires. 
+
+Propriété 
+Technique de 
+Mesure 
+Intérêt clinique 
+Remarque 
+
+Retrait de 
+polymérisation 
+
+Méthode 
+basée 
+sur le principe 
+d'Archimède (ISO 
+17304) 
+
+Le retrait associé aux contraintes qu'il engendre 
+sont une des causes principales d'échec des 
+restaurations directes. 
+
+Différents facteurs ont un effet sur le retrait et 
+les contraintes de contraction : la nature de la 
+matrice résineuse, le taux de charges du 
+composite, le volume de matériau polymérisé, 
+la forme de la cavité, ainsi que le mode de 
+polymérisation [59]. Les conséquences sont 
+détaillées sur la figure 9. 
+
+Propriété intrinsèque du 
+matériau. 
+
+Contraintes de 
+contraction 
+
+Méthode Bioman 
+(Université 
+de 
+Manchester,UK) 
+
+Propriété extrinsèque 
+du matériau. 
+
+Absorption 
+d'eau 
+
+ISO 
+4049 : 
+Détermination de 
+la différence de 
+masse avant et 
+après 
+séchage, 
+suite 
+à 
+une 
+immersion dans 
+l'eau pendant 7 
+jours à 37±1°C 
+
+Le gonflement du matériau induit par 
+l'absorption d'eau diminue ses propriétés 
+mécaniques notamment les résistances aux 
+contraintes. 
+
+Une absorption d'eau élevée facilite le passage 
+des monomères libres et des produits de 
+dégradation du composite dans la salive. Elle 
+facilite de même l'insertion des pigments de la 
+nourriture et des boissons dans le composite 
+
+ISO 4049 : Valeur ≤ 40 
+µg/mm 3 
+
+
+30 
+
+4.2 Propriétés mécaniques 
+
+avec un risque important de coloration du 
+matériau [66]. 
+
+Solubilité dans 
+l'eau 
+
+ISO 
+4049 : 
+Détermination de 
+la perte de masse 
+occasionnée par 
+une 
+immersion 
+dans 
+l'eau 
+pendant 7 jours à 
+37±1°C 
+
+Ce type de dégradation entraine une perte de 
+matière dommageable au niveau de la 
+restauration [66]. 
+
+Elle risque d'engendrer des problèmes 
+biologiques liés au passage des produits de 
+dégradations dans la salive. 
+
+ISO 4049 : Valeur ≤ 7,5 
+µg/mm 3 
+
+Coefficient 
+d'expansion 
+thermique 
+(CET) 
+
+Analyse 
+thermomécanique 
+(ATM) 
+
+(Pas de méthode 
+standard pour le 
+dentaire) 
+
+La différence avec le CET de l'émail et de la 
+dentine (2 à 4 fois inférieur à celui du 
+composite) se traduit par l'apparition de 
+contraintes à l'interface entre les matériaux lors 
+des changements brutaux de température (de 
+5°C à 55°C en fonction des aliments). 
+
+Propriété d'importance 
+mineure 
+car 
+les 
+composites comme la 
+dentine et l'émail sont 
+de 
+très 
+mauvais 
+conducteurs 
+thermiques. 
+
+Tableau 6 -propriétés mécaniques des composites dentaires. 
+
+Propriété 
+Technique de 
+Mesure 
+Intérêt clinique 
+Remarque 
+
+Ténacité 
+
+ISO 13586: 
+Flexion 3 points 
+sur une 
+éprouvette pré-
+fissurée [M4166 
+V1] 
+
+La ténacité relativement faible des composites 
+les classe parmi les matériaux fragiles. 
+
+Plus la ténacité du matériau est faible, plus il 
+existe de risques pour le composite de s'ébrécher 
+et de se fracturer [62]. 
+
+Faible corrélation entre 
+les fractures observées 
+dans 
+les 
+études 
+cliniques et une faible 
+ténacité [PP5]. 
+
+Résistance à la 
+fatigue 
+
+ASTM 
+E606/E606M-12 : 
+Chargement 
+uniaxial 
+
+Les cycles de mastications induisent des 
+fissures, si les défauts ne sont pas déjà présents, 
+ou les propagent. La répétition de ces cycles peut 
+conduire à une fracture. Cela est particulièrement 
+vrai au niveau des zones de contact occlusal. 
+
+Les mécanismes de 
+fatigue sont difficiles à 
+simuler par des tests in 
+vitro. 
+
+Les 
+tests 
+sont 
+généralement 
+abandonnés au profit de 
+mesures de résistance 
+aux contraintes ou de 
+ténacité. 
+
+Résistance à la 
+compression 
+
+ASTM D695 : 
+Essai de 
+compression 
+
+Cette propriété est facile à mesurer mais il est 
+difficile de relier cette propriété au comportement 
+clinique du composite [59]. 
+
+Faible corrélation avec 
+le taux de fractures. 
+
+Résistance à la 
+traction 
+
+ASTM D638-14 : 
+Essai de traction 
+dans un état de 
+contrainte 
+uniaxiale 
+
+Les contraintes en traction sont parmi les causes 
+de fractures les plus fréquentes [59]. 
+
+Difficile à mesurer sur 
+les matériaux fragiles. 
+
+Bonne corrélation avec 
+la résistance en flexion. 
+
+Résistance en 
+flexion 
+
+ISO 4049 : 
+Flexion trois 
+points 
+
+Une résistance en flexion élevée est 
+indispensable dans le cas de restaurations 
+postérieures pour supporter les forces 
+masticatoires. 
+
+Cette propriété du matériau est affectée par 
+l'environnement buccal. Les tests sont donc 
+effectués après une immersion de 24h dans un 
+bain marie à 37°C. Le vieillissement est simulé 
+par un thermocyclage entre 5 °C et 55°C. 
+
+ISO 4049 : valeur ≥ 80 
+MPa 
+
+Cette 
+mesure 
+est 
+privilégiée par rapport 
+aux 
+essais 
+en 
+compression et traction. 
+
+Elle est la seule 
+préconisée dans la 
+norme. 
+
+
+31 
+
+4.3 Propriétés optiques 
+
+Module d'Young 
+(ou module 
+d'élasticité) 
+
+Déterminé à partir 
+de l'essai en 
+flexion 
+
+Plus il est élevé, plus le matériau est rigide, donc moins susceptible de se 
+déformer sous la contrainte. 
+
+Intérêt d'un module d'Young élevé dans les cas suivants : 
+
+-Restauration directement soumise aux contraintes masticatoires, 
+sinon risque d'induire des fissures dans la dent. 
+-Volume important de la restauration, sinon risque de flexion des 
+cuspides restantes. 
+
+Intérêt d'un module d'Young faible dans les cas suivants : 
+
+-Restauration de classe V, car risque d'expulsion d'un matériau 
+trop rigide. 
+-Utilisation en sous-couche entre l'adhésif et un composite plus 
+rigide afin de dissiper les contraintes au retrait de ce dernier. 
+
+Résistance à 
+l'usure 
+
+ISO/TS 14569-1: 
+Usure par 
+brossage des 
+dents 
+
+ISO/TS 14569-2: 
+Usure par contact 
+entre deux et/ou 
+trois corps 
+
+L'usure est considérée comme une source 
+importante d'échec des restaurations dentaires. 
+
+Le mécanisme réel d'usure du matériau dentaire 
+est très complexe. Il est lié à un ensemble de 
+processus (voir [TRI501] pour la théorie de 
+l'usure et [67] pour le cas spécifique du composite 
+dentaire) qui peuvent intervenir, simultanément 
+ou successivement, de façon plus ou moins 
+répétée. 
+
+Manque de corrélation 
+entre 
+les 
+résultats 
+obtenus in vitro et les 
+observations cliniques. 
+
+Dureté 
+Dureté Vickers 
+Dureté Knoop 
+
+Elle est reliée à la facilité de polissage de la surface. En effet, plus le 
+matériau est dur, plus il est difficile à polir. 
+
+La dureté donne une indication sur la résistance du matériau à l'usure par 
+abrasion. 
+
+Aptitude au 
+polissage 
+
+Etude du 
+paramètre de 
+rugosité Ra 
+
+Elle doit être élevée afin de permettre une bonne finition esthétique de la 
+réparation. 
+
+Le Ra devra tendre vers une valeur seuil de 0,2 µm qui correspond au seuil 
+de rétention de la plaque dentaire sans dépasser 0,62µm qui est celle de 
+l'émail humaine [68]. 
+
+Tableau 7 -propriétés optiques des composites dentaires. 
+
+Propriété 
+Technique de 
+Mesure 
+Intérêt clinique 
+Remarque 
+
+Radio-opacité 
+
+ISO 4049 : 
+
+Comparaison 
+avec un coupon 
+d'aluminium 
+d'épaisseur 
+connue 
+
+Propriété indispensable pour la visualisation de la restauration et son 
+adaptation marginale en radiographie X. 
+
+La radio-opacité du composite est exprimée en mm d'aluminium. Elle doit 
+être supérieure à celles de la dentine (1-1,8mm) et de l'émail (2-3,1 mm). 
+Une trop forte radio-opacité risque cependant de créer des faux positifs. 
+
+Profondeur de 
+polymérisation 
+
+ISO 4049 : 
+Mesure de la 
+hauteur de 
+matériau après 
+élimination de la 
+partie non 
+polymérisée 
+
+Plus cette valeur est élevée, plus il sera possible 
+de polymériser un volume important de matériau 
+en une seule fois. Cela représente un gain de 
+temps pour le praticien et de confort pour le 
+patient. 
+
+Mais attention au retrait généré par la 
+polymérisation d'un grand volume de matériau 
+
+ISO 4049 : Valeur ≥ 0,5 
+mm 
+pour 
+les 
+composites opaques 
+
+ISO 4049 : Valeur ≥ 1,5 
+mm pour les autres 
+composites 
+
+Sensibilité à la 
+lumière 
+ambiante 
+
+ISO 4049 : 
+Comportement 
+sous irradiation 
+par une lampe 
+
+Si le matériau est trop sensible à la lumière 
+ambiante, les sources lumineuses du cabinet 
+dentaire (scialytiques, lumière du soleil) sont 
+susceptibles de provoquer un début de 
+
+L'intensité 
+lumineuse 
+préconisée par la norme 
+ISO 4049 pour ce test 
+apparait 
+relativement 
+
+
+32 
+
+4.4 Données chiffrées sur les composites actuels 
+
+Le tableau 8 répertorie quelques propriétés physiques et mécaniques pour chaque 
+classe de composites ainsi que pour les Bulk Fill actuellement sur le marché [22] [69] 
+[70] [71] [72]. Les valeurs de ces propriétés pour l'émail et la dentine sont mentionnées 
+à titre de comparaison. Le module d'Young des composites se rapproche de celui de 
+la dentine (cas des microhybrides et des Bulk Fill) mais reste très éloigné de celui de 
+l'émail. De même, la dureté des composites est comparable à celle de la dentine mais 
+largement inférieure à celle de l'émail. 
+
+La composition du matériau de restauration ainsi que les caractéristiques physico-
+chimiques de ces composants influencent ses différentes propriétés. En raison de leur 
+pourcentage élevé dans le matériau, les charges minérales jouent un rôle 
+prépondérant. Ainsi un taux élevé de charges (cas des microhybrides, des 
+nanohybrides et des Bulk Fill de viscosité moyenne) limite le retrait de polymérisation 
+et l'absorption d'eau, rend le matériau plus rigide (module d'Young élevé), renforce sa 
+résistance en flexion, augmente sa ténacité et sa dureté. Les compositions fluides, 
+
+Xénon à 8000 ± 
+1000 Lux 
+polymérisation du composite avant qu'il ne soit 
+placé dans la bouche du patient. 
+faible par rapport aux 
+conditions opératoires 
+réelles. 
+
+Couleur, 
+translucidité 
+indice de 
+réfraction, 
+
+Mesure de la 
+couleur avec un 
+colorimètre, 
+Réfractométrie, 
+Mesure de 
+l'intensité 
+lumineuse (Lux) 
+transmise à 
+travers 
+l'échantillon 
+
+Ces propriétés jouent sur le caractère esthétique 
+de la restauration. Elles doivent se rapprocher 
+des propriétés des dents du patient traité pour 
+que la restauration ne se démarque pas (cf 
+paragraphe 3.4). 
+
+Propriétés 
+particulièrement 
+importantes pour les 
+restaurations 
+antérieures 
+
+Stabilité de la 
+couleur dans 
+le temps 
+
+ISO 4049 : 
+Comparaison de 
+la couleur avant 
+et après une 
+semaine d'un 
+traitement 
+donné 
+
+Cette propriété influe sur le caractère esthétique 
+de la restauration. 
+
+Elle n'est soumise à la 
+norme ISO 4049 que 
+dans le cas où cette 
+propriété 
+est 
+revendiquée par le 
+fabricant. 
+
+Tableau 8 -données sur les propriétés physiques et mécaniques de divers composites. 
+
+Type de 
+composite 
+
+Taux de 
+charges (% 
+massique) 
+
+Retrait 
+volumique 
+(%) 
+
+Résistance 
+en flexion 
+(MPa) 
+
+Module 
+d'Young en 
+flexion (GPa) 
+Dureté (VHN) 
+
+Microchargés 
+40-56 
+3,0-8,1 
+60-120 
+3-7 
+20-50 
+
+Microhybrides 
+76-81 
+2,3-3,0 
+100-170 
+8-10 
+32-111 
+
+Microhybrides 
+fluides 
+60-68 
+3,0-4,5 
+90-120 
+5-8 
+12 -55 
+
+Nanohybrides 
+70-86 
+1,6-2,2 
+80-170 
+4,5-7 
+35-120 
+
+Nanohybrides 
+fluides 
+55-65 
+1,9-2,5 
+70-120 
+4-6 
+28,4 
+
+Bulk Fill 
+77-86 
+1,6-2,0 
+115-185 
+4-12,9 
+88 -142 
+
+Bulk Fill fluide 
+65-75 
+2,5-4,1 
+110-141 
+2,8-9,3 
+40-100 
+
+Email 
+8-35 
+84,1-90,6 
+240-440 
+
+Dentine 
+30-65 
+10,3-18,1 
+50-87 
+
+
+33 
+
+présentant généralement un taux de charges plus faible, conduisent à un matériau 
+plus flexible et donc plus susceptible de se déformer sous la contrainte. Elles subissent 
+un retrait de polymérisation plus important mais leur viscoélasticité permet une 
+meilleure dissipation des contraintes au cours et en fin de processus de 
+polymérisation. Les composites obtenus sont moins résistants en flexion et présentent 
+une ténacité inférieure aux matériaux issus de la polymérisation de compositions de 
+viscosité moyenne. 
+La taille des charges influe sur la profondeur de polymérisation. La profondeur de 
+polymérisation est d'autant plus élevée que les charges sont petites avec un indice de 
+réfraction proche de celui de la matrice. Elle est fortement augmentée chez les 
+composites Bulk Fill (≥ 4 mm) en comparaison des autres composites (≤ 2 mm). La 
+diminution de la taille des charges associée à une augmentation de leur pourcentage 
+massique améliore l'état de surface du matériau et sa résistance à l'usure. 
+En termes de composition, il est indispensable qu'une partie des charges minérales 
+soit à base de matériaux composés d'au moins un élément de numéro atomique élevé 
+afin de rendre le composite radio-opaque. En effet, la matrice organique ne possède 
+pas de propriété intrinsèque de radio-opacité. 
+Enfin, concernant l'usure des matériaux de restauration dentaire, elle est tolérée à 
+hauteur de 40 à 50 µm/an, en sachant que l'usure de l'émail est estimée à 50µm/an 
+dans le cas des molaires et 30µm/an dans le cas des prémolaires. D'après les études 
+cliniques, pour les matériaux composites l'usure serait de 10-20µm/an pour les zones 
+marginales d'une réparation postérieure, jusqu'à parfois être inférieure à 5µm. Elle 
+peut être de 3 à 5 fois supérieure pour les zones avec contact entrainant une perte 
+significative de la hauteur de la restauration [59]. 
+
+5 Exemples de restaurations 
+
+5.1 Restauration de dent antérieure 
+
+Quelques étapes représentatives de la restauration d'une dent antérieure fracturée 
+sont représentées sur la figure 29. 
+
+Situation initiale 
+Test du guide en silicone en 
+position. 
+Nettoyage de la dentine 
+touchée (fraise céramique). 
+
+Application d'un adhésif 
+universel (émail et dentine). 
+Mise en place de l'émail 
+palatin. 
+« Email » palatin après 
+photopolymérisation. 
+
+
+34 
+
+Façonnage du composite 
+mimant la dentine. 
+
+Application de l'émail 
+vestibulaire. 
+
+Photopolymérisation de 
+l'émail vestibulaire. 
+
+Définition de l'anatomie 
+vestibulaire. 
+
+Etape de polissage de la 
+restauration. 
+
+Résultat final après une 
+semaine. 
+
+Figure 29 -Etapes de restauration directe d'une dent antérieure fracturée 
+(provenance des illustrations [15]). 
+
+5.2 Restauration de dent postérieure 
+
+Quelques étapes représentatives de la restauration de dents postérieures cariées sont 
+représentées sur la figure 30. 
+
+Situation initiale. 
+Suppression des anciennes 
+restaurations. 
+
+Etape de mordançage. 
+
+Application d'un adhésif. 
+Montage de la paroi distale 
+en composite émail. 
+
+Etat après polymérisation 
+de la paroi distale. 
+
+Pose du composite mimant 
+la dentine. 
+
+Façonnage du composite 
+mimant la dentine. 
+
+Pose du composite mimant 
+l'émail. 
+
+Façonnage du composite 
+mimant l'émail. 
+
+Finitions diverses après 
+polymérisation de l'émail. 
+
+Résultat final après 
+restauration complète. 
+
+Figure 30 -Etapes de restauration directe de dents postérieures cariées 
+(provenance des illustrations [15]). 
+
+
+35 
+
+Conclusion 
+
+Dans cet article, il a été montré le degré de sophistication des composites actuels dont 
+les optimisations successives ont su tirer profit des avancées dans les différentes 
+disciplines scientifiques. Les praticiens ont dû se perfectionner dans le domaine de la 
+dentisterie restauratrice et devenir aussi, pour la plupart, de véritables artistes au 
+regard des exigences des patients en termes d'esthétique. Mais le lecteur l'aura 
+compris la pose d'un composite dentaire est réellement l'affaire de spécialistes et n'a 
+qu'une ressemblance lointaine avec la pose d'un amalgame. Mal maîtrisée la 
+restauration dentaire, avec un composite, peut évoluer rapidement vers des 
+complications (carie secondaire, libération de monomères…) et limiter sérieusement 
+la durée de vie de la réparation. Tout cela bien sûr quelles que soient les performances 
+élevées du matériau in vitro. Concernant la biocompatibilité, la présence de 
+monomères « toxiques » ainsi que l'incertitude sur les nanoparticules ont orienté les 
+recherches, dans le domaine, vers d'autres approches. Les ormocers ont été 
+développés dans ce sens ainsi que de nouveaux matériaux de restauration dentaire à 
+base minérale. Une autre voie explorée est la mise au point de produits dentaires 
+biogéniques. En théorie, ils permettent de reconstruire les dents et de soigner des 
+caries en s'affranchissant des traitements à base de matériaux synthétiques [73]. 
+
+Glossaire 
+
+Adhésif ; Adhesive 
+Biomatériau d'interface qui contribue à former un lien adhérent et étanche entre les 
+tissus dentaires (émail et dentine) et les biomatériaux de restauration. 
+
+Amalgame ; Amalgam 
+Alliage de mercure et d'autres métaux utilisé depuis plus de 150 ans comme matériau 
+de restauration dentaire, principalement pour l'obturation des molaires. 
+
+Carie ; Tooth decay 
+Affection de la dent, qui subit une altération de l'émail puis de la dentine. Elle entraîne 
+la formation de cavités et la destruction progressive de la dent avec des conséquences 
+potentiellement graves. 
+
+Cuspide ; Cusp 
+Éminence des molaires et des prémolaires, sur la face qui est en contact avec la dent 
+opposée. 
+
+Facteur C ; C-factor 
+Il représente le rapport du nombre de surfaces du composite collées par rapport au 
+nombre de surfaces non collées dans une cavité. 
+
+Inlay/onlay ; Inlay/onlay 
+Pièces prothétiques qui se posent, comme leur préfixe l'indique, sur ou dans la dent. 
+Leur rôle est d'aider à la reconstruction d'une dent qui a souffert de problèmes 
+d'hygiène bucco-dentaire, de caries ou de fissures. 
+
+Mordançage ; Etching 
+Attaque acide des tissus dentaires, principalement la partie minérale, pour faciliter 
+l'adhésion des restaurations. 
+
+
+36 
+
+Taux de conversion ; Degree of Conversion (DC) 
+Il correspond au nombre de moles de doubles liaisons carbone-carbone ayant réagi 
+par rapport au nombre de moles total de doubles liaisons carbone-carbone initialement 
+présentes. 
+
+Tenon dentaire ; Dental post 
+Pièce de fixation en composite fibré implantée dans une dent dévitalisée dont le rôle 
+est de maintenir en place une couronne dentaire. 
+
+Valence du motif monomère ; 
+Elle correspond au nombre de liaisons covalentes que le monomère peut établir avec 
+les motifs voisins [AM 3040 V1]. 
+
+
+37 
+
+Pour en savoir plus 
+
+Composites dentaires 
+
+par Frédéric CHAPUT 
+
+Docteur en science des matériaux céramiques, Directeur de Recherche au CNRS 
+
+Laboratoire de Chimie, Ecole Normale Supérieure de Lyon, France 
+
+Anne-Charlotte FAURE 
+
+Docteur en chimie inorganique 
+
+Responsable Recherche et développement 
+
+ITEN, Dardilly, France 
+
+Sources bibliographiques 
+
+[1] BOWEN (R.L.) -The Journal of the American Dental Association, 66, p. 57-64 
+(1963). 
+[2] Dental filling material comprising vinyl silane treated fused silica and a binder 
+consisting of the reaction product of bis phenol and glycidyl acrylate -US Patent 
+3066112 (1962). 
+[3] SOFAN (E.) et al. -Annali di Stomatologia, VIII, p. 1-17 (2017). 
+[4] BAYNE (S.C.) -The Journal of the American Dental Association, 144, p. 42S-46S 
+(2013). 
+[5] BLACK (G.V.) -A work on operative dentistery, vol. I and II, Chicago: The Medico-
+Dental Publ.Co, (1908). 
+[6] https://dentodontics.com/2015/02/26/g-v-blacks-classification-of-carious-
+lesions/comment-page-1/#comment-674 
+[7] LASFARGUES (J.J.) -EMC (Elsevier SAS, Paris), Odontologie, 23-069-A-10, p. 1-
+19 (2006). 
+[8] https://www.dentalespace.com/praticien/formationcontinue/guide-decision-
+therapeutique-lesions-carieuses/ (Illustrations Dr. Franck Decup) ; 
+https://commons.wikimedia.org/wiki/File:06-10-06smile.jpg ; 
+https://commons.wikimedia.org/wiki/File:MandibularLeftFirstMolar08-15-06.jpg ; 
+https://www.studiodentaire.com/fr/glossaire/cuspide.php (Illustration Dr. Anto 
+Youssef). 
+[9] https://www.dentaly.org/inlay-core-ou-onlay-le-guide-complet/ 
+[10] http://proyectoshm.com/style/time-saving-esthetic-restorations (Illustration Dr. 
+Gaetano Paolone). 
+[11] LASFARGUES (J.J.) -Les résines composites : Applications en dentisterie 
+restauratrice. SNPMD (2007). 
+[12] SIDERIDOU (I.D.) -Dental polymer composite, Chapter in : Encyclopedia of 
+Polymer Composites: Properties, Performance and Applications. Editor: Mikhail 
+Lechkov and Sergej Prandzheva. Nova Science Publishers, Inc. NY 11788 USA, p. 
+593-619 (2010). 
+[13] VAIDYANATHAN (T.K.) et al. -Dental Materials, 33, p. 1-11 (2017). 
+[14] https://en.wikipedia.org/wiki/Dental_composite 
+[15] Site internet « STYLEITALIANO » : http://proyectoshm.com/style/ 
+[16] PEUTZFELD (A.) -European Journal of Oral Sciences, 105, p. 97-116 (1997). 
+[17] MILETIC (V.) -Dental Composite Materials for Direct Restorations, Springer 
+
+
+38 
+
+(2018). 
+[18] STANSBURY (J.W.) -Dental Materials, 28, p. 13-22 (2012). 
+[19] MOSZNER (N.) et al. -Composites for Dental Restoratives dans Polymers for 
+Dental and Orthopedic Applications, CRC Press Taylor and Francis Group, p. 13 
+(2007). 
+[20] TRUJILLO-LEMON (M.) et al. -Journal of Polymer Science: Part A: Polymer 
+Chemistry, 44, p. 3921-3929 (2006). 
+[21] Dental filling materials -US Patent 3825518 (1974). 
+[22] MOSZNER (N.) et al. -Journal of Polymer Science Part A: Polymer Chemistry, 
+50, p. 4369-4402 (2012). 
+[23] ILIE (N.) et al. -Australian Dental Journal, 56, p. 59-66 (2011). 
+[24] Compositions for Dental composites with tricyclo[5.2.1.02.6]decane derivatives -
+US Patent 2010/0076115 (2010). 
+[25] Dimer acid-derived dimethacrylates and use in dental restorative compositions -
+US Patent 11568383 (2004). 
+[26] BOARO (L.C.) et al. -Dental Materials, 29, p. 398-404 (2013). 
+[27] STANSBURY (J.W.) -Journal of Dental Research, 71, p.1408-1412 (1992). 
+[28] WEINMANN (W.) et al. -Dental Materials, 21, p. 68-74 (2005). 
+[29] SAKAGUCHI (R.L.) et al. -Craig's restorative dental materials, 13th edition, 
+Elsevier (2012). 
+[30] MOSZNER (N.) et al. -Macromolecular Materials and Engineering, 292, p. 245-
+271, (2007). 
+[31] CANCEILL (T.) et al. -Biomatériaux Cliniques, 2, p. 14-16 (2017). 
+[32] https://www.isc.fraunhofer.de/en/fields-of-activity/applications/dental-
+applications.html ; https://www.ormocere.de/en.html. 
+[33] WOLTER (H.) et al. -Materials Research Society Symposium Proceedings, 346, 
+p. 143-149 (1994). 
+[34] PAGES (P.) -Concept et applications des Ormocers en odontologie : Une véritable 
+alternative aux résines d'obturation conventionnelles ? Thèse de Doctorat de 
+l'Université Paul Sabatier (2018). 
+[35] RANDOLPH (L.D.) et al. -Dental Materials, 32, p. 1586-1599 (2016). 
+[36] MITRA (S.B.) et al. -JADA, 134, p. 1382-1390 (2003). 
+[37] British Dental Journal, 220, p. 213 (2016). 
+[38] http://polydispensing.com/products/melangeurs-planetaires/. 
+[39] https://fr.wikipedia.org/wiki/Composite_dentaire. 
+[40] RANDOLPH (L.D.) et al. -Developing a more appropriate classification system for 
+modern resin-based composite technologies, chapitre dans Dental Composite 
+Materials for Direct Restorations, Springer (2018). 
+[41] https://www.mathcurve.com/fractals/baderne/baderne.shtml, Illustrations Robert 
+FERRÉOL. 
+[42] FERRACANE (J.L.) -Dental Materials, 27, p. 29-38 (2011). 
+[43] MANHART (J.) et al. -Swiss Dental Journal, 124, p. 29-37 (2014). 
+[44] KLAPDOHR (S.) et al. -Monatshefte für Chemie, 136, p. 21-45 (2005). 
+[45] ZE BING (L.) et al. -Microporous and Mesoporous Materials, 175, p. 1-7 (2013). 
+[46] ANTONUCCI (J.M.) et al. -Journal of Research of the National Institute of 
+Standards and Technology, 110, p. 541-558 (2005). 
+[47] DE MONREDON-SENANI (S.) -Interaction Organosilanes / Silice de précipitation, 
+du milieu hydro-alcoolique au milieu aqueux, Thèse de Doctorat de l'Université Pierre 
+et Marie Curie (2004). 
+[48] TANAKA (R.) -Journal of Dental Research, 87, p. 666-670 (2008). 
+[49] TELITEL (S.) -Des systèmes amorceurs hautes performances pour les 
+photopolymérisations radicalaires, cationiques ou radicalaires contrôlées, Thèse de 
+Doctorat de l'Université de Haute Alsace (2015). 
+
+
+39 
+
+[50] Method of repairing teeth using a composition which is curable by irradiation with 
+visible light -US Patent 4,089,763 (1978). 
+[51] STANSBURY (J.W.) -Journal of Esthetic Dentistry, 12, p. 300-308 (2000). 
+[52] SINGH (S.) -International Journal of Applied Dental Sciences, 3, p. 17-20 (2017). 
+[53] CHEN (Y.C.) -Dental Materials, 23, p. 655-664 (2007). 
+[54] TEHFE (M.A.) -Etude de nouveaux systèmes amorceurs pour des 
+polymérisations radicalaires ou cationiques, Thèse de Doctorat de l'Université de 
+Haute Alsace (2011). 
+[55] MOSZNER (N.) -Dental Materials, 24, p. 901-907 (2008). 
+[56] HAAS (M.) -Chem. Eur. J., 24, p. 8258-8267 (2018). 
+[57] Ivoclar Vivadent R&amp;D Report, N°19, (2013). 
+[58] RANDOLPH (L.D.) et al. -Composition of dental resin-based composites for direct 
+restorations chapitre dans Dental Composite Materials for Direct Restorations, 
+Springer (2018). 
+[59] VREVEN (J.) et al. -EMC (Elsevier SAS, Paris), Odontologie, 23-065-E-10, 2005. 
+[60] LEE (Y.K.) -Dental Materials Journal, 35, p. 845-854 (2016). 
+[61] SPANGE (S.) et al. -Angew. Chem. Int. Ed., 41, pp. 1729-1732 (2002). 
+[62] FERRACANE (J.L.) -Dental Materials, 29, p. 51-58 (2013). 
+[63] BAYNE (S.C.) -Dental Materials, 28, p. 52-71 (2012). 
+[64] FERRACANE (J.L.) et al. -Dental Materials, 33, p.1171-1191 (2017). 
+[65] ILIE (N.) et al. -Dental Materials, 33, p.880-894 (2017). 
+[66] FERRACANE (J.L.) -Dental Materials, 22, p. 211-222 (2006). 
+[67] CAZALAS (T.) -Traitement des lésions d'usure : survie des restaurations par 
+méthodes directes et indirectes en matériaux composite. Revue systématique de la 
+littérature, Thèse de Doctorat de l'Université de Bordeaux (2017). 
+[68] JAGER (S.) -Les résines composites fluides : données actuelles, Thèse de 
+Doctorat de l'Université de Lorraine (2011). 
+[69] ALESSANDRI (M.) -Propriétés physico-mécaniques comparées des composites 
+Bulk à travers une revue systématique de la littérature, Thèse de Doctorat de 
+l'Université de Nice-Sofia Antipolis (2017). 
+[70] ILIE (N.) et al. -Operative Dentistry, 38-6, p.618-625 (2013). 
+[71] ILIE (N.) et al. -Clinical Oral Investigations, 17, p.185-193 (2013). 
+[72] NGUYEN (P.) -Les polymères utilisés dans les composites dentaires : concept, 
+développement et prospectives, Thèse de Doctorat de l'Université de Nantes (2006). 
+[73] DOGAN (S.) et al. -ACS Biomater. Sci. Eng., 4, p.1788-1796 (2018). 
+
+À lire également dans nos bases 
+
+DECKER Christian. -Polymérisation sous rayonnement UV. [AM3044 V1], Plastiques 
+et composites (2000). 
+FELDER Eric et MONTMITONNET Pierre. -Théorie de l'usure -Mécanismes d'usure 
+[TRI501 V1], Frottement, usure et lubrification (2016). 
+FONTANILLE Michel et VAIRON Jean-Pierre. -Polymérisation [AM3040 V1], 
+Plastiques et composites (2009). 
+FRANCOIS Dominique. -Essais de mesure de la ténacité -Mécanique de la rupture 
+[M4166 V1], Etude et propriétés des matériaux (2007). 
+HAMAIDE Thierry. -Polymérisations en chaîne-Mécanismes [J5830 V2], Plastiques 
+et composites (2017). 
+
+Ouvrages 
+
+
+40 
+
+DIETSCHI (D.) et al. -Restaurations esthétiques collées. Quintessence International, 
+Paris (1997). 
+
+LASFARGUES (J.J.) -Les résines composites : Applications en dentisterie 
+restauratrice. SNPMD (2007). 
+
+MILETIC (V.) -Dental Composite Materials for Direct Restorations. Springer (2018). 
+
+MOUNT (G.J.) et al. -Préservation et restauration de la structure dentaire. DeBoeck 
+Université (2002). 
+
+RASKIN (A.) -Les résines composites. Université Médicale Virtuelle Francophone, 
+support de Cours (2010). 
+
+Événements 
+
+Salon : International Dental Show (IDS), le plus grand salon dentaire européen, a lieu 
+tous les deux ans à Cologne (Allemagne) (années impaires) http://english.ids-
+cologne.de/ 
+
+Congrès et salon : ADF, tous les ans à Paris. http://www.adfcongres.com/fr/ 
+
+Normes et standards 
+
+ISO Art dentaire : Produits de restauration à base de polymères ISO 4049 : 2009 ISO, 
+2009. 
+
+ISO Dispositifs médicaux ISO 13485 : 2016 ISO, 2016. 
+
+ISO Plastiques : Détermination de la ténacité à la rupture (GIC et KIC). Application de 
+la mécanique linéaire élastique de la rupture (LEFM) ISO 13586 : 2018 ISO, 2018. 
+
+ISO Produits dentaires : Lignes directrices sur les essais de résistance à l'usure. Partie 
+1 : Usure par brossage des dents ISO/TS 14569-1 : 2007 ISO, 2007. 
+
+ISO Produits dentaires : Lignes directrices sur les essais de résistance à l'usure. Partie 
+2 : Usure par contact entre deux et/ou trois corps ISO/TS 14569-2 : 2001 ISO, 2001. 
+
+ISO Médecine bucco-dentaire : Rétraction à la polymerisation. Méthode de 
+détermination de la rétraction à la polymérisation des matériaux de restauration à base 
+de polymers ISO 17304 : 2013 ISO, 2013. 
+
+ASTM Standard test method for tensile properties of plastics ASTM D638 -14, ASTM 
+International, 2014. 
+
+ASTM Standard test Method for compressive properties of rigid plastics ASTM D695 -
+15, ASTM International, 2015. 
+
+
+41 
+
+ASTM Standard test method for strain-controlled fatigue testing ASTM E606/E606M-
+12, ASTM International, 2012. 
+
+Brevets 
+
+Polysiloxane compound and dental materials that can be prepared from it 
+US9532931B2 
+
+Annuaire 
+
+Fabricants de composites dentaires : 
+
+3M : https://www.3mfrance.fr/3M/fr_FR/dentisterie/ 
+Bisco : https://www.bisco.com/ 
+Centrix : https://www.centrixdental.com/ 
+Coltène : https://www.coltene.com/fr/ 
+DMG : http://fr.dmg-dental.com/ 
+Denmat : https://www.denmat.com/ 
+Dentsply : http://www.dentsply.fr/ 
+GC Europe: https://www.gceurope.com/fr/ 
+Ivoclar Vivadent : http://www.ivoclarvivadent.fr/fr/ 
+J. Morita : https://www.jmoritaeurope.de/ 
+Kerr : https://www.kerrdental.com/ 
+Kulzer : https://www.kulzer.fr/ 
+Kuraray : https://kuraraydental.com/ 
+Septodont : http://www.septodont.fr/ 
+Tokuyama : http://www.tokuyama-dental.com/ 
+Shofu : http://www.shofu.com/ 
+Ultradent : https://www.ultradent.com/ 
+Voco : https://www.voco.dental/fr/accueil.aspx 
+
+
+
+	
+

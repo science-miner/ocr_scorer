@@ -1,0 +1,2095 @@
+
+	
+
+		
+
+	
+
+	
+
+HAL Id: hal-01896045 
+
+https://hal.archives-ouvertes.fr/hal-01896045 
+
+Submitted on 15 Oct 2018 
+
+HAL is a multi-disciplinary open access 
+archive for the deposit and dissemination of sci-
+entific research documents, whether they are pub-
+lished or not. The documents may come from 
+teaching and research institutions in France or 
+abroad, or from public or private research centers. 
+
+L'archive ouverte pluridisciplinaire HAL, est 
+destinée au dépôt et à la diffusion de documents 
+scientifiques de niveau recherche, publiés ou non, 
+émanant des établissements d'enseignement et de 
+recherche français ou étrangers, des laboratoires 
+publics ou privés. 
+
+Biométrologie des expositions professionnelles au 
+chrome hexavalent et à ses composés 
+
+Aurélie Remy, Nadège Jacoby, Alain Robert, Pascal Wild 
+
+To cite this version: 
+
+Aurélie Remy, Nadège Jacoby, Alain Robert, Pascal Wild. Biométrologie des expositions profession-
+nelles au chrome hexavalent et à ses composés. [Rapport de recherche] Notes scientifiques et techniques 
+NS 361, Institut National de Recherche et de Sécurité (INRS). 2018, 49 p. hal-01896045 
+
+
+NS ??? NOTE SCIENTIFIQUE ET TECHNIQUE 
+NS 361 NOTE SCIENTIFIQUE ET TECHNIQUE 
+
+Biométrologie des expositions 
+professionnelles au chrome 
+hexavalent et à ses composés 
+
+
+Biométrologie des expositions 
+professionnelles au chrome 
+hexavalent et à ses composés 
+
+Aurélie Remy, Nadège Jacoby, 
+Alain Robert, Pascal Wild 
+
+NS 361 
+
+juin 2018 
+
+Institut national de recherche et de sécurité pour la prévention des accidents du travail et des maladies professionnelles 
+Siège social : 65, boulevard Richard-Lenoir 75011 Paris • Tél. 01 40 44 30 00 
+Centre de Lorraine : 1, rue du Morvan CS 60027 54519 Vandoeuvre-les-Nancy cedex • Tél. 03 83 50 20 00 
+
+
+
+3 
+
+Table des matières 
+
+LISTE DES ABREVIATIONS ____________________________________________________ 
+
+GLOSSAIRE ________________________________________________________________ 
+
+LISTE DES TABLEAUX ________________________________________________________ 
+
+LE CHROME : CE QUE L'ON SAIT ______________________________________________ 
+
+Ses propriétés __________________________________________________________________ 
+
+Exposition dans la population générale _____________________________________________ 
+
+Exposition professionnelle ________________________________________________________ 
+
+Toxicocinétique-métabolisme _____________________________________________________ 
+
+Ses effets sur la santé ____________________________________________________________ 
+
+Biométrologie __________________________________________________________________ 
+
+VLEP -8h / Mention peau ________________________________________________________ 
+
+VLB/VBR ______________________________________________________________________ 
+
+LES ETUDES BIOMETROLOGIQUES SUR LE CHROME A L'INRS _______________________ 
+
+METHODES ____________________________________________________________________ 
+
+RECUEILS URINAIRES ET METHODES ANALYTIQUES ___________________________________________ 
+
+PRELEVEMENTS ATMOSPHERIQUES ET METHODES ANALYTIQUES _______________________________ 
+
+DESCRIPTION DES ETUDES ________________________________________________________ 
+
+ETUDE 1 : EXPOSITION PROFESSIONNELLE AUX POUSSIERES METALLIQUES ET CINETIQUE D'ELIMINATION 
+
+URINAIRE DU CHROME __________________________________________________________________ 
+
+ETUDE 2 : SURVEILLANCE BIOLOGIQUE DE L'EXPOSITION AU CHROME DANS LES ATELIERS DE TRAITEMENT 
+
+DE SURFACE ___________________________________________________________________________ 
+
+ETUDE 3 : SURVEILLANCE BIOLOGIQUE DES PEINTRES UTILISANT DES CHROMATES _________________ 
+
+ETUDE 4 : SURVEILLANCE BIOLOGIQUE DE L'EXPOSITION AUX METAUX DANS LA FABRICATION D'ACIERS 
+
+REFRACTAIRES _________________________________________________________________________ 
+
+ETUDE 5 : SURVEILLANCE BIOLOGIQUE DE L'EXPOSITION AU CHROME DANS L'INDUSTRIE DU CHROMAGE 
+
+ELECTROLYTIQUE _______________________________________________________________________ 
+
+ETUDE 6 : ETUDE DES PROCEDES DE METALLISATION : CARACTERISATION DES AEROSOLS EMIS ET 
+
+SURVEILLANCE BIOLOGIQUE DES OPERATEURS ______________________________________________ 
+
+SYNTHESE ________________________________________________________________ 
+
+Chrome urinaire ________________________________________________________________ 
+
+Chrome atmosphérique __________________________________________________________ 
+
+Pourcentage de Cr VI par rapport au chrome total atmosphérique _______________________ 
+
+
+4 
+
+Relation entre les concentrations urinaires et les concentrations atmosphériques en chrome -
+
+Comparaison avec la littérature ___________________________________________________ 
+
+REMERCIEMENTS __________________________________________________________ 
+
+BIBLIOGRAPHIE ___________________________________________________________ 
+
+ANNEXE _________________________________________________________________ 
+
+
+5 
+
+LISTE DES ABREVIATIONS 
+
+ACGIH : American Conference of Governmental Industrial Hygienists 
+
+AIA : Ateliers Industriels de l'Armée de l'Air 
+
+ANSES : Agence Nationale de Sécurité sanitaire de l'alimentation, de l'environnement et du travail 
+
+BEI : Biological Exposure Indice 
+
+CES VLEP : Comité d'Experts Specialisés pour les Valeurs Limites d'Exposition Professionnelles 
+
+CHSCT : Comité d'Hygiène, de Sécurité et des Conditions de Travail 
+
+CIRC : Centre International de Recherche sur le Cancer 
+
+ENNS : Etude Nationale Nutrition Santé 
+
+EPI : Equipement de Protection Individuel 
+
+IBE : Indicateur Biologique d'Exposition 
+
+LQ : Limite de Quantification 
+
+NIOSH : National Institute for Occupational Safety and Health 
+
+OMS : Organisation Mondiale de la Santé 
+
+REACH : Registration, Evaluation, Authorization and Restriction of Chemicals 
+
+TLV TWA : Threshold Limit Value -Time Weighted Average 
+
+VBR : Valeur Biologique de Référence 
+
+VLB : Valeur Limite Biologique 
+
+VLCT 15mn : Valeur Limite Court Terme 15 mn 
+
+VLEP 8h : Valeur Limite d'Exposition Professionnelle 8 heures 
+
+US-EPA : United States Environmental Protection Agency 
+
+
+6 
+
+GLOSSAIRE 
+
+Acier inoxydable : L'acier inoxydable, couramment appelé acier inox ou inox, est un alliage d'acier 
+
+(comportant moins de 1,2 % de carbone) avec plus de 10,5 % de chrome, dont la propriété est d'être 
+
+peu sensible à la corrosion et de ne pas se dégrader en rouille. La présence de chrome en solution 
+au-delà de 10,5 % dans la matrice d'un acier provoque la formation d'une couche protectrice d'oxyde 
+
+de chrome qui lui confère son inoxydabilité. Ses propriétés : acier résistant à la corrosion, acier 
+
+réfractaire et acier résistant au fluage. 
+
+Aciers réfractaires : Les aciers et alliages réfractaires sont des matériaux qui peuvent de façon 
+
+permanente être utilisés au-dessus de 600 °C enviro n. En dessous de cette limite, on ne parle que 
+
+d'aciers tenaces à chaud. Vers les hautes températures, c'est uniquement la disparition des propriétés 
+d'usage qui limite le domaine des aciers et alliages réfractaires. 
+
+Biological Exposure Indice (BEI) : C'est une valeur de référence biologique ou recommandation 
+
+élaborée et proposée par des hygiénistes américains de l'ACGIH, en dessous de laquelle les 
+
+travailleurs ne sont pas en danger ou qui vise à protéger la santé des travailleurs. C'est l'équivalent 
+américain de la VLB française. 
+
+Chromage électrolytique : Le chromage électrolytique fait partie des techniques de traitement de 
+
+surface par voie humide. Les revêtements électrolytiques de chrome (Cr) sont utilisés dans de 
+
+nombreux domaines de l'industrie et permettent d'améliorer les propriétés fonctionnelles des pièces 
+telles que la résistance au frottement, à l'usure (53 %) et à la corrosion (22%) ; ils améliorent 
+
+également les caractéristiques de glissement (11%), d'aspect (8%) ainsi que d'autres propriétés de 
+
+surface (8%). D'une manière générale, le chromage industriel des pièces à revêtir est réalisé dans des 
+bains d'acide chromique dans lequel le chrome est au degré d'oxydation VI. 
+
+Les deux procédés de chromage existants sont le chromage décoratif et le chromage dur. Le premier 
+a pour but essentiel de donner au revêtement les caractéristiques de brillance du chrome, tandis que 
+
+le second se distingue par un dépôt plus important (de quelques µm à quelques dizaines de mm). Les 
+applications du chromage dur sont nombreuses dans l'industrie de la mécanique, dans les milieux 
+
+pouvant présenter un certain degré d'agressivité tels que la machine-outil, l'industrie automobile, le 
+
+papier et l'imprimerie, l'alimentaire, l'aéronautique et l'outillage. 
+
+Chromurie : Chrome urinaire 
+
+Equipement de Protection Individuel (EPI) : Un équipement de protection individuelle (EPI) est un 
+
+dispositif ou moyen destiné à être porté par une personne pour la protéger contre un ou plusieurs 
+
+risques susceptibles de menacer sa sécurité ou sa santé au travail. 
+
+Indicateur Biologique d'Exposition (IBE) : C'est la substance mère d'un agent chimique, ou un de 
+
+ses métabolites, dosé(e) dans un milieu biologique, dont la variation est associée à une exposition à 
+cet agent. 
+
+Métallisation/Projection thermique : La projection thermique fait partie des techniques de traitement 
+
+de surface par voie sèche. Ce procédé permet de réaliser des revêtements épais, de quelques 
+
+
+7 
+
+dizaines à quelques centaines de micromètres, voire plusieurs millimètres (COLD SPRAY). Les 
+dépôts réalisables par projection thermique sont différents, et adaptés à des pièces à revêtir variées. 
+
+La métallisation est un terme couramment utilisé pour décrire les revêtements métalliques appliqués 
+par projection thermique. Il englobe les différents procédés de projections thermiques qui peuvent 
+
+être classés en 2 catégories : 
+• Les procédés dont la source de chaleur est un chalumeau oxy-acétylénique tels que les 
+
+procédés flamme-poudre (FP), flamme-fil ou cordon (FF), HVOF (HV) et par canon à 
+détonation (CD) ; 
+• Les procédés dont la source de chaleur est un arc électrique ; on les appelle procédé à l'arc 
+
+électrique (AE) et procédé plasma (PS). 
+
+Limite de quantification (LQ) : Elle est associée à toute méthode analytique et correspond à la plus 
+
+petite valeur à partir de laquelle il existe un résultat de mesure avec une fidélité suffisante et une 
+
+incertitude inférieure à 20 %. 
+
+Threshold Limit Value -Time Weighted Average 8h (TLV-TWA 8h) : équivalent américain de la 
+
+VLEP -8h recommandé par les hygiénistes de l'ACGIH. 
+
+Traitement de surface : Les traitements de surface des alliages métalliques ont pour effet de modifier 
+
+l'apparence d'une surface (décoration, amélioration de l'aspect), ses propriétés physiques ou/et 
+chimique, afin d'apporter une meilleure tenue à la corrosion, à l'usure, une amélioration du frottement, 
+
+une résistance à l'oxydation à chaud, favoriser la soudabilité, la conductibilité électrique, modifier les 
+propriétés optiques, assurer un effet de barrière thermique ou d'isolation aux rayonnements ou encore 
+
+préparer et favoriser l'application d'un autre traitement de surface. La famille des dépôts et des 
+revêtements comprend : 
+
+Les dépôts par voie humide : 
+• Dépôts électrolytiques (minces et épais -décoratifs et fonctionnels). La plupart des métaux et 
+
+alliages peuvent être déposés avec d'éventuelles inclusions de particules ; 
+• Dépôts chimiques (nickel-phosphore, cuivre) ; 
+
+• Dépôts par immersion dans les métaux fondus: galvanisation (zinc), étamage (étamage), 
+
+plombage (plomb) ; 
+• Peintures. 
+
+Les dépôts par voie sèche : 
+• Dépôts par projection thermique de métaux, alliages et céramiques ; 
+
+• Rechargement par soudage ; 
+
+• Dépôts chimiques en phase vapeur CVD ; 
+
+• Dépôts physiques en phase vapeur PVD ; 
+
+• Dépôts CVD assistés par plasma PA CVD ; 
+
+• Dépôts PVD assisté par faisceau d'électron EB PVD ; 
+
+• L'implantation d'ions ou implantation ionique ; 
+
+• Application de vernis spéciaux. 
+
+Valeur biologique de Référence (VBR) : C'est la concentration retrouvée dans une population 
+
+générale d'adultes dont les caractéristiques sont proches de celles de la population française ou dans 
+une population de témoins non professionnellement exposés à l'agent chimique étudié. 
+
+
+8 
+
+Valeur Limite Biologique (VLB) : C'est la valeur limite des indicateurs biologiques d'exposition (IBE) 
+
+pertinents. Elle vise à protéger les travailleurs des effets néfastes liés à l'exposition à l'agent chimique 
+
+considéré, à moyen et/ou long terme. 
+
+Valeur Limite d'Exposition Professionnelle (VLEP -8h) : C'est le niveau de concentration en 
+
+polluant dans l'atmosphère des lieux de travail à ne pas dépasser pendant une période de 8 heures et 
+
+en deçà de laquelle le risque d'altération de la santé est négligeable. 
+
+
+9 
+
+LISTE DES TABLEAUX 
+
+Tableau 1 -Etudes INRS de biométrologie sur l'exposition professionnelle au chrome ...................... 15 
+
+Tableau 2 Caractéristiques des six études de biométrologie ................................................................ 19 
+Tableau 3 Nombre de sujets, nombre de recueils urinaires et atmosphériques et caractéristiques 
+
+analytiques, par étude -Etudes 1, 2 et 3. ............................................................................................. 20 
+Tableau 4 Nombre de sujets, nombre de recueils urinaires et atmosphériques et caractéristiques 
+
+analytiques, par étude -Etudes 4, 5 et 6 et total des 6 études ............................................................ 21 
+Tableau 5 Description des recueils urinaires et de leur concentration en chrome (en µg/g créatinine), 
+
+pour l'étude 1, par entreprise ................................................................................................................. 23 
+
+Tableau 6 Description des recueils urinaires et de leur concentration en chrome (en µg/g créatinine), 
+pour l'étude 1, par GES. ........................................................................................................................ 23 
+
+Tableau 7 Description des prélèvements atmosphériques et de leur concentration en chrome (en 
+µg/m 
+
+3 
+
+), selon leur forme chimique, pour l'étude 1, par entreprise. Prélèvements à l'intérieur de l'EPI 
+
+respiratoire. ............................................................................................................................................ 24 
+Tableau 8 Description des prélèvements atmosphériques et de leur concentration en chrome (en 
+
+µg/m 
+
+3 
+
+), selon leur forme chimique, pour l'étude 1, par GES. Prélèvements à l'intérieur de l'EPI 
+
+respiratoire. ............................................................................................................................................ 24 
+Tableau 9 -Description des recueils urinaires et de leur concentration en chrome (en µg/g créatinine), 
+
+pour l'étude 2, par entreprise ................................................................................................................. 25 
+Tableau 10 -Description des recueils urinaires et de leur concentration en chrome (en µg/g 
+
+créatinine), pour l'étude 2, par GES ...................................................................................................... 25 
+Tableau 11 Description des prélèvements atmosphériques et de leur concentration en chrome (en 
+
+µg/m 
+
+3 
+
+), selon leur forme chimique, pour l'étude 2, par entreprise. Prélèvements à l'intérieur de l'EPI 
+
+respiratoire. ............................................................................................................................................ 26 
+Tableau 12 Description des prélèvements atmosphériques et de leur concentration en chrome (en 
+
+µg/m 
+
+3 
+
+), selon leur forme chimique, pour l'étude 2, par GES. Prélèvements à l'intérieur de l'EPI 
+respiratoire. ............................................................................................................................................ 26 
+
+Tableau 13 -Description des recueils urinaires et de leur concentration en chrome (en µg/g 
+créatinine), pour l'étude 3, par entreprise .............................................................................................. 28 
+
+Tableau 14 -Description des recueils urinaires et de leur concentration en chrome (en µg/g 
+
+créatinine), pour l'étude 3, par GES ...................................................................................................... 28 
+Tableau 15 Description des prélèvements atmosphériques et de leur concentration en chrome (en 
+
+µg/m 
+
+3 
+
+), selon leur forme chimique, pour l'étude 3, par entreprise. Prélèvements à l'intérieur de l'EPI 
+respiratoire. ............................................................................................................................................ 29 
+
+Tableau 16 Description des prélèvements atmosphériques et de leur concentration en chrome (en 
+µg/m 
+
+3 
+
+), selon leur forme chimique, pour l'étude 3, par GES. Prélèvements à l'intérieur de l'EPI 
+
+respiratoire. ............................................................................................................................................ 30 
+
+Tableau 17 -Description des recueils urinaires et de leur concentration en chrome (en µg/g 
+créatinine), pour l'étude 4, par entreprise .............................................................................................. 32 
+
+Tableau 18 -Description des recueils urinaires et de leur concentration en chrome (en µg/g 
+créatinine), pour l'étude 4, par GES ...................................................................................................... 32 
+
+
+10 
+
+Tableau 19 Description des prélèvements atmosphériques et de leur concentration en chrome (en 
+µg/m 
+
+3 
+
+), selon leur forme chimique, pour l'étude 4, par entreprise. Prélèvements à l'intérieur de l'EPI 
+
+respiratoire. ............................................................................................................................................ 33 
+Tableau 20 Description des prélèvements atmosphériques et de leur concentration en chrome (en 
+
+µg/m 
+
+3 
+
+), selon leur forme chimique, pour l'étude 4, par GES. Prélèvements à l'intérieur de l'EPI 
+respiratoire. ............................................................................................................................................ 33 
+
+Tableau 21 Description des recueils urinaires et de leur concentration en chrome (en µg/g créatinine), 
+
+pour l'étude 5, par entreprise ................................................................................................................. 35 
+Tableau 22 -Description des recueils urinaires et de leur concentration en chrome (en µg/g 
+
+créatinine), pour l'étude 5, par GES ...................................................................................................... 35 
+Tableau 23 Description des prélèvements atmosphériques et de leur concentration en chrome (en 
+
+µg/m 
+
+3 
+
+), selon leur forme chimique, pour l'étude 5, par entreprise. Prélèvements à l'intérieur de l'EPI 
+respiratoire. ............................................................................................................................................ 36 
+
+Tableau 24 Description des prélèvements atmosphériques et de leur concentration en chrome (en 
+
+µg/m 
+
+3 
+
+), selon leur forme chimique, pour l'étude 5, par GES. Prélèvements à l'intérieur de l'EPI 
+respiratoire. ............................................................................................................................................ 37 
+
+Tableau 25 Description des recueils urinaires et de leur concentration en chrome (en µg/g créatinine), 
+pour l'étude 6, par entreprise ................................................................................................................. 39 
+
+Tableau 26 Description des recueils urinaires et de leur concentration en chrome (en µg/g créatinine), 
+pour l'étude 6, par GES ......................................................................................................................... 39 
+
+Tableau 27 Description des prélèvements atmosphériques et de leur concentration en chrome (en 
+
+µg/m 
+
+3 
+
+), selon leur forme chimique, pour l'étude 6, par entreprise. Prélèvements hors EPI respiratoire. 
+............................................................................................................................................................... 40 
+
+Tableau 28 Description des prélèvements atmosphériques et de leur concentration en chrome (en 
+µg/m 
+
+3 
+
+), selon leur forme chimique, pour l'étude 6, par GES. Prélèvements hors EPI respiratoire. ...... 40 
+
+Tableau 29 Pourcentage de Cr VI atmosphérique (par rapport au Cr total atmosphérique), par étude et 
+par entreprise ......................................................................................................................................... 43 
+
+Tableau 30 Pourcentage de chrome 6 atmosphérique (par rapport au chrome total atmosphérique), 
+
+par étude et par GES ............................................................................................................................. 44 
+Tableau 31 Etudes de la littérature rapportant des mesures de concentrations atmosphériques en Cr 
+
+VI en relation avec des concentrations de chrome dans les urines ...................................................... 45 
+Tableau 32 Description des recueils urinaires et de leur concentration en chrome (en µg/g créatinine), 
+
+par étude et par entreprise .................................................................................................................... 48 
+Tableau 33 Description des recueils urinaires et de leur concentration en chrome (en µg/g créatinine), 
+
+par étude et par GES ............................................................................................................................. 49 
+
+
+11 
+
+LE CHROME : CE QUE L'ON SAIT 
+
+Le chrome (CAS 7440-47-3) est un élément métallique ubiquitaire, très répandu dans la croûte 
+
+terrestre. Les sources de chrome sont à la fois naturelles et anthropiques. La majorité du chrome 
+naturel provient des minerais. Le secteur de la sidérurgie représente 90% de l'usage du chrome pour 
+
+la production d'aciers inoxydables, d'aciers spéciaux et d'alliages. Il améliore la dureté des métaux et 
+leur résistance à la corrosion. Le chrome est aussi utilisé dans l'industrie chimique (en tant que 
+
+catalyseur ou pour produire d'autres composes chromés), le secteur des traitements de surface 
+métalliques ou plastiques, l'industrie du bois (conservation), la fabrication de pigments et colorants 
+
+(teintures, peintures, cosmétiques, céramiques,..), le tannage du cuir, la fabrication de bandes 
+
+magnétiques ou encore la fabrication de vitamines K. 
+
+Le chrome existe sous plusieurs degrés d'oxydation, mais seuls les composés trivalents (chrome III) 
+
+et hexavalents (chrome VI) sont retrouvés de manière significative dans l'environnement (1) (2). 
+
+Ses propriétés 
+
+Le chrome VI est le deuxième état d'oxydation le plus stable du chrome. Rarement présent 
+naturellement, les composés du chrome VI sont principalement issus des processus industriels. Le 
+
+chrome VI peut être réduit en chrome III, l'état d'oxydation le plus stable du chrome, en présence 
+
+d'agents réducteurs. 
+
+Ses propriétés physico-chimiques dépendent de la forme chimique dans laquelle se trouve l'ion 
+
+chrome VI, et du cation qui lui est associé (Na, Ca, Zn, K…). 
+
+La solubilité, propriété physico-chimique très importante pour la toxicité, est très variable selon 
+
+l'élément considéré (de très soluble pour l'oxyde de chrome à insoluble pour le chromate de plomb 
+par exemple). 
+
+Exposition dans la population générale 
+
+L'exposition de la population générale au chrome total se fait principalement par voie orale par 
+absorption de nourriture et d'eau de boisson. Le chrome VI n'a pas vocation à s'accumuler dans les 
+
+poissons et les végétaux (1), mais d'après l'Organisation Mondiale de la Santé (OMS) (3) la principale 
+source d'exposition au chrome total (Chrome III + Chrome VI) est l'alimentation, dont l'eau de boisson. 
+
+L'eau du robinet représenterait toutefois moins de 1% de l'exposition alimentaire journalière au 
+
+chrome total selon l' Agence nationale de sécurité sanitaire de l'alimentation, de l'environnement et du 
+travail (ANSES)(4). 
+
+L'agence française précise aussi que chez les adultes, les contributeurs majoritaires à l'apport de 
+chrome sont le pain (8%), les produits de panification sèche (5%) et les boissons alcoolisées (5%). 
+
+Chez les enfants, les contributeurs majoritaires à l'apport de chrome sont le lait (9%) et les pâtes 
+(6%).La part représentée par le chrome VI n'a pas pu être identifiée dans ces données. Les 
+
+personnes vivant près d'usines qui rejettent du chrome VI dans l'atmosphère peuvent inhaler ce 
+
+composé. Les fumeurs sont également exposés au chrome VI par inhalation dans la mesure où une 
+cigarette en contient. L'air intérieur des habitations de fumeurs contiennent 10 à 400 fois plus de 
+
+chrome que dans l'air extérieur (2). 
+
+
+12 
+
+Exposition professionnelle 
+
+Le chrome VI pouvant se retrouver dans les fumées et poussières issues des procédés industriels 
+précités, les travailleurs sont susceptibles d'inhaler ce composé : la voie respiratoire constitue la 
+
+principale voie d'exposition professionnelle. Les contacts cutanés sont susceptibles également 
+d'exposer les travailleurs et enfin, la voie digestive est à prendre en compte en cas de contacts main-
+
+bouche fréquents. 
+
+Toxicocinétique-métabolisme 
+
+D'une façon générale, les propriétés toxicocinétiques du chrome sont liées à son état d'oxydation et à 
+
+la nature du composé qui conditionnent en premier lieu sa solubilité, mais aussi sa granulométrie. En 
+milieu professionnel, seuls les dérivés les plus solubles du chrome hexavalent (dichromate de sodium, 
+
+trioxyde de chrome, chromates de sodium, potassium et ammonium) peuvent pénétrer dans 
+
+l'organisme principalement par la voie respiratoire, mais aussi digestive (&lt; 10 %) (contacts main-
+bouche) et d'une manière moins importante, par voie percutanée (environ 4 %). Par contre, les 
+
+dérivés trivalents (sulfate et chlorure de chrome) sont moins bien absorbés par voie respiratoire, très 
+peu absorbés par le tractus digestif et ne semblent pas l'être par la peau intacte. 
+
+Le chrome VI, contrairement au chrome III, traverse rapidement les membranes biologiques pour se 
+lier aux protéines intracellulaires des différents tissus, d'où une répartition ubiquitaire dans les tissus 
+
+et organes. Ainsi, des examens et autopsies effectués chez des travailleurs exposés majoritairement 
+
+au chrome VI ont révélé des concentrations de chrome dans les différents tissus et organes (foie, 
+cerveau, poumons, coeur, nodules lymphatiques, moelle osseuse, muscle, glandes surrénales…) 
+
+supérieures à celles observées chez des personnes non exposées professionnellement (2). 
+
+Une fois dans les cellules, le chrome VI est rapidement réduit en chrome III. Suite à une exposition 
+
+par inhalation, seule la proportion de chrome VI hydrosoluble non réduite et non séquestrée (taille des 
+particules &lt; 4 µm) dans le tractus respiratoire passe dans le sang où il y a une compétition entre la 
+
+réduction en chrome III par le plasma et la pénétration sous forme de chrome VI dans les globules 
+
+rouges (érythrocytes). Dans les érythrocytes, le chrome VI est alors réduit par le glutathion ; le chrome 
+III y reste séquestré toute la durée de vie des globules rouges (120 jours). Ainsi, dans le sang, le 
+
+chrome VI va s'accumuler préférentiellement dans les globules rouges par rapport au plasma (2, 5). 
+La présence de chrome intra-érythrocytaire est donc spécifique d'une exposition au Cr VI. 
+
+En revanche, le chrome, qu'il soit mesuré dans le sang total, le plasma ou dans les urines n'est pas 
+spécifique des expositions professionnelles au chrome VI et comprend également les expositions au 
+
+Cr III (inhalation et/ou alimentaire). 
+
+L'excrétion des composés du chrome VI, suite à une exposition par inhalation, est essentiellement 
+urinaire (&gt; 80 %), et dans une moindre mesure fécale, sous forme de chrome III. 
+
+L'élimination urinaire est triphasique (demi-vies d'élimination : 4,5 -7 heures, 15 à 30 jours, 4 ans). Il y 
+a accumulation du chrome au cours de la semaine et tout au long de l'année chez les plus exposés. 
+
+Ses effets sur la santé 
+
+Le chrome VI est classé cancérogène certain pour l'Homme (groupe 1 du CIRC) depuis 1990, dans le 
+
+groupe 1A par l'Union Européenne et dans le groupe A par l'US-EPA, mais uniquement lors d'une 
+
+
+13 
+
+exposition par inhalation (6). Chez l'Homme, le cancer associé à l'exposition au chrome est celui des 
+poumons. Néanmoins, certaines données supposent aussi une augmentation des cancers nasaux et 
+
+des sinus (7). Les autres dérivés du chrome ne sont pas cancérogènes (le chrome III appartient 
+au groupe 3 du CIRC). 
+
+Chez des travailleurs exposés au chrome atmosphérique, les principaux effets observés se rapportent 
+au système respiratoire (irritation de la muqueuse nasale, asthme, toux, essoufflement, respiration 
+
+sifflante), et au développement d'allergies au chrome. 
+
+Biométrologie 
+
+Le chrome urinaire a été retenu comme indicateur biologique d'exposition (IBE) pour le suivi 
+
+biologique des expositions professionnelles au chrome hexavalent et à ses composés. Bien que celui-
+ci, ne soit pas spécifique des expositions au chrome hexavalent puisqu'il intègre également les 
+
+expositions par inhalation et ingestion au chrome trivalent, le chrome urinaire (la chromurie) peut être 
+recommandé pour un suivi des expositions au chrome hexavalent en tenant compte des 
+
+concentrations en population générale adulte, non professionnellement exposée au chrome 
+
+hexavalent (8). 
+
+VLEP -8h / Mention peau 
+
+Les récents travaux d'expertise de l'ANSES ont permis d'établir des valeurs limites d'exposition 
+professionnelle contraignantes pour le chrome VI, fixées par le Décret du 9 mai 2012, à savoir une 
+
+VLEP-8h (Valeur Limite d'Exposition Professionnelle sur 8 heures) de 1 µg/m 
+3 et une VLCT-15mn 
+
+(Valeur limite Court Terme 15 mn) de 5 µg/m 
+3 (9), et applicables à partir de juillet 2014. A noter que 
+
+les calculs du CES VLEP indiquent qu'une concentration atmosphérique de 1 µg/m3 correspond à un 
+
+excès de risque individuel de cancer de poumon égal à 1% chez des travailleurs exposés 8 heures 
+par jour pendant 40 ans. Avant ce décret du 9 mai 2012, la VLEP française était fixée à 50 µg/m3 pour 
+
+les composés du Cr VI et les trioxydes de chrome. Il existe également une VLEP-8h pour le chrome 
+métal et ses composés fixée à 2000 µg/m 
+
+3 
+
+. 
+
+L'ACGIH (American Conference of Governmental Indutrial Hygienist) recommande pour le chrome 
+
+métal et les composés du Cr III, pour le Cr VI soluble et insoluble des valeurs limites respectives 
+(TLV-TWA : Threshold Limit Value -Time Weighted Average) de 500, 50 et 10 µg/m 
+
+3 
+
+. 
+
+De plus, l'ANSES a jugé pertinent d'attribuer la mention « peau » au chrome hexavalent et ses 
+composés. Le risque de passage est patent lorsque la peau est blessée. 
+
+VLB/VBR 
+
+Les conclusions du rapport d'expertise collective ANSES de 2017 sur « l'évaluation des indicateurs 
+
+biologiques d'exposition et recommandation de valeurs biologiques pour le chrome VI et ses 
+
+composés »(8) sont les suivantes : 
+
+l'ANSES recommande une valeur limite biologique (VLB) pour le chrome urinaire de 2,5 µg/L 
+
+(1,8 µg/g de créatinine) en fin de semaine et fin de poste, ce qui correspond à une exposition 
+à la VLEP-8h pour le chrome hexavalent de 1 µg/m 
+
+3 
+
+. Cependant, cette VLB a été établie en 
+
+s'appuyant sur des études menées uniquement dans le secteur industriel du chromage, sur la 
+base de relations permettant de calculer des concentrations urinaires de chrome en fonction 
+
+des concentrations atmosphériques de chrome VI. Elle ne s'applique donc qu'à des 
+
+
+14 
+
+expositions aux seuls composés du chrome hexavalent. En cas d'expositions mixtes (aux 
+chromes hexavalent et trivalent) et compte tenu de la contribution des expositions au chrome 
+
+trivalent aux concentrations de chrome urinaire, des mesures urinaires devront être 
+interprétées à la lumière des niveaux respectifs des concentrations atmosphériques des 
+
+différents composés du chrome. 
+
+La valeur biologique de référence (VBR) recommandée pour le chrome urinaire est de 0,65 µg/L (0,54 
+
+µg/g de créatinine). Cette valeur correspond au 95 
+ème percentile des niveaux d'imprégnation mesurés 
+
+dans un échantillon représentatif de la population générale française défini par l'enquête de santé 
+publique française (ENNS) (10). Cette VBR n'a pas pour objectif de protéger des effets sanitaires du 
+
+chrome VI, mais permet de mettre à disposition des préventeurs une aide à l'interprétation des 
+niveaux d'exposition des travailleurs. 
+
+Il est recommandé d'effectuer les prélèvements en fin de semaine et en fin de poste de travail. 
+L'ACGIH propose, pour une exposition à des fumées de soudage, une BEI (Biological Exposure 
+
+Indice) de 25 µg/L (fin de poste -fin de semaine) et une augmentation durant l'activité quotidienne 
+
+inférieure à 10 µg/L (11). Jusqu'en 2010, la BEI était fixée à 30 µg/g créatinine pour un prélèvement 
+en fin de poste et fin de semaine, pour des expositions à des fumées de soudage (12). 
+
+Jusqu'en 2014, la valeur de la VLB recommandée en France était de 30 µg/g créatinine, pour un 
+prélèvement en fin de poste et fin de semaine. L'augmentation au cours de la journée ne devait pas 
+
+excéder 10 µg/g créatinine. Ces valeurs concernaient l'exposition aux aérosols de soudage solubles 
+dans l'eau (13). 
+
+
+15 
+
+LES ETUDES BIOMETROLOGIQUES SUR LE CHROME A L'INRS 
+
+Le chrome hexavalent, la forme la plus toxique du chrome, fait partie de la liste établie par REACH 
+
+(Registration, Evaluation, Authorisation and restriction of Chemicals) des substances extrêmement 
+préoccupantes. Tous les composés du chrome VI figurent à l'annexe XIV du règlement REACH et 
+
+sont donc soumis à autorisation. 
+
+Depuis plusieurs décennies, l'INRS s'est penché sur l'évaluation biométrologique de l'exposition 
+
+professionnelle des salariés au chrome, à travers six études dans différents secteurs d'activités. En 
+effet, les valeurs réglementaires existantes ont toujours été et sont encore aujourd'hui spécifiques à 
+
+des activités professionnelles bien précises. Ces études ont permis de caractériser l'exposition et 
+
+l'imprégnation biologique de salariés issus de différents secteurs d'activités. 
+
+L'objectif de ces six études était de rechercher les bases d'une stratégie de surveillance biologique 
+
+adaptée aux différentes situations d'exposition professionnelle aux composés du chrome : 
+caractérisation des paramètres cinétiques de l'excrétion urinaire du chrome, recherche de l'existence 
+
+de cycles d'excrétion et mise en évidence de relation entre mesures de l'exposition atmosphérique et 
+mesures de l'élimination urinaire. 
+
+Pour ce faire, une approche biologique avec recueil d'urines auprès des salariés exposés, associée à 
+
+une métrologie atmosphérique ont été mises en oeuvre. 
+
+Les recueils urinaires ont été réalisés selon un protocole court ou un protocole long : 
+
+• Le protocole court consistait à recueillir des échantillons urinaires « spot » à des moments 
+
+précis de la journée : en début de poste (DP) et en fin de poste (FP), pendant les jours 
+d'exposition. Aucune mesure atmosphérique n'était associée à ces recueils ; 
+• Le protocole long consistait à recueillir, pendant plusieurs jours de travail consécutifs (jusqu'à 
+
+une semaine) la totalité des mictions urinaires, aussi bien en milieu de travail qu'au domicile 
+
+des salariés. Un suivi de l'exposition atmosphérique individuelle, concomitante aux périodes 
+de recueil était réalisé sur la semaine de travail. 
+
+Aucune contrainte n'était imposée aux volontaires quant au moment de recueil de leurs urines. Des 
+
+fiches de poste reprenant l'ensemble des activités étaient établies pour chaque salarié. Le tableau 1 
+énumère les différentes études menées au laboratoire de biométrologie sur l'exposition 
+
+professionnelle au chrome, ainsi que leur période de réalisation. 
+
+Tableau 1 -Etudes INRS de biométrologie sur l'exposition professionnelle au chrome 
+
+Au travers de cette note, il s'agira de décrire de manière la plus exhaustive possible les nombreuses 
+
+données recueillies en entreprises de 1991 à 2016, et leur spécificité. 
+
+
+16 
+
+METHODES 
+
+RECUEILS URINAIRES ET METHODES ANALYTIQUES 
+
+Méthode de recueils des échantillons urinaires : 
+
+Les urines ont été recueillies dans des flacons appropriés, préalablement lavés à l'acide nitrique 
+(10%) pour éviter toute contamination des échantillons. Les échantillons ont été aliquotés, acidifiés si 
+
+nécessaire (pour les stabiliser) et congelés dans le laboratoire de campagne installé dans l'entreprise. 
+Les échantillons étaient ensuite transférés dans les locaux de l'INRS pour analyse. 
+
+Analyse des recueils urinaires : 
+
+Les analyses des échantillons d'urines ont toutes été réalisées à l'INRS, dans une salle à atmosphère 
+contrôlée. 
+
+Etudes de 1 jusqu'à 5 : le dosage urinaire du chrome a été effectué par spectrométrie d'absorption 
+atomique équipé d'un four graphite (GFAAS) avec correction de fond par effet Zeeman. Pour les 
+
+études 1 et 2 : l'appareil était un PE3030Z, équipé d'un four HGA 600. Pour les études 3,4 et 5 : 
+l'appareil était de type AA220 (Varian, Melbourne Australie). 
+
+La méthode développée et validée présentait des limites de quantification (LQ) s'échelonnant entre 
+
+0.3 et 0.83 µg/L. Durant la période d'analyse des échantillons de toutes ces études, le laboratoire a 
+participé avec succès aux contrôles inter-laboratoires organisés par le centre de Toxicologie du 
+
+Québec. 
+
+Etude 6 : le dosage urinaire du chrome a été effectué sur ICP-MS (spectromètre de masse couplé à 
+
+une torche à plasma par induction ANALYTIK JENA 820 MS). La limite de quantification (LQ) de la 
+méthode était de 0,2 µg/L. Durant la période d'analyse des échantillons de cette étude, le laboratoire a 
+
+participé avec succès au programme de contrôle allemand G-EQUAS (the German External Quality 
+
+Assessment Scheme) d'Erlangen. 
+
+La concentration urinaire en créatinine a été déterminée dans chaque échantillon. Elle a été dosée par 
+
+la méthode de Jaffé, sur un automate de biologie clinique de type Daytona (Randox, Crumin UK). 
+
+Limites de quantification urinaires : 
+
+Les limites de quantification associées aux méthodes de dosage du chrome urinaire diffèrent selon les 
+techniques utilisées dans les différentes études, et évoluent parfois à l'intérieur d'une même étude. 
+
+Elles sont exprimées en µg/L de Cr. On retrouve les limites de quantification urinaires des différentes 
+études dans le tableau 3. 
+
+Expression des mesures urinaires : 
+
+La créatinine est un produit de dégradation de la créatine dont l'excrétion est constante chez un 
+
+individu. Le rapport de la quantité de chrome à la quantité de créatinine permet de s'affranchir des 
+
+effets liés à la diurèse (dilution endogène de l'urine). Ainsi, dans les tableaux présentés par la suite, 
+les concentrations en chrome urinaire seront ainsi exprimées en µg/g créatinine. Seuls les 
+
+échantillons urinaires présentant des concentrations en créatinine comprises entre 0,5 et 3 g/L seront 
+pris en considération. 
+
+
+17 
+
+PRELEVEMENTS ATMOSPHERIQUES ET METHODES ANALYTIQUES 
+
+Méthodes de prélèvement des études 1 à 5 : 
+
+La mesure de l'exposition aux aérosols (fraction inhalable) a été obtenue par prélèvement individuel 
+
+auprès des salariés volontaires. Les prélèvements ont été réalisés par aspiration de l'air ambiant à 
+
+travers un dispositif constitué d'un filtre (fibre de quartz Whatman® QMA) de 37 mm de diamètre 
+placé en cassette fermée, au débit de 1 L/mn (pour les études 1 et 2), ou de 2 L/mn (études 3 à 5), 
+
+assuré par une pompe à débit régulé (14). Lors du port d'équipement de protection individuel 
+respiratoire (EPI respiratoire), le prélèvement a été effectué à l'intérieur de celui-ci. 
+
+Méthode de prélèvement de l'étude 6 : 
+
+Les prélèvements ont été réalisés suivant la norme NF X43-257 (15), sur cassette Millipore® 
+
+(diamètre d'ouverture 4 mm) munie d'une membrane en PVC de 37 mm de diamètre et de 0,80 µm en 
+
+porosité, avec un débit de prélèvement de 2 L/min. Les prélèvements ont été effectués hors 
+équipement de protection individuel respiratoire (EPI respiratoire). 
+
+Pour l'une des 6 entreprises de cette étude (entreprise D des tableaux 2 et 4, pages 19 et 21), les 
+prélèvements ont été réalisés selon la méthode Metropol M-124 (16), au moyen d'une cassette fermée 
+
+(orifice 4 mm) munie d'une membrane en ester de cellulose (MEC). 
+
+Mises en solutions et analyse des solutions : 
+
+Etudes 1 et 2 : l'analyse des différentes formes chimiques du chrome a consisté à distinguer le 
+chrome total réparti en chrome soluble, insoluble et en chrome VI soluble. La solubilisation dans l'eau 
+
+à température ambiante a été pratiquée selon une méthode mise au point par l'INRS (17), la partie 
+
+insoluble a été attaquée par les acides fluorhydrique et nitrique. Le chrome VI (partie soluble) a été 
+dosé par colorimétrie à la diphénylcarbazide selon les méthodes du NIOSH (18), les autres formes de 
+
+chrome par spectrophotométrie d'émission à plasma pour l'étude 1 et par spectrophotométrie 
+d'absorption atomique pour l'étude 2. 
+
+Etudes 3 et 5: L'analyse des éléments chimiques présents dans les particules retenues sur les filtres 
+a permis de distinguer les différentes espèces de chrome : chrome VI (soluble et insoluble) et chrome 
+
+non VI. Après mises en solution selon la méthode METROPOL (19, 20), l'analyse du chrome VI 
+
+soluble a été réalisée par spectrophotométrie à 540 nm. L'analyse du chrome VI insoluble et du 
+chrome non VI a été réalisée par Spectrométrie d'Emission Atomique couplée à un Plasma Induit 
+
+(ICP-AES) à 205,56 nm. 
+
+Etude 4 : Après mises en solution, l'analyse a été réalisée par Spectrométrie d'Emission Atomique en 
+
+Plasma à Couplage Inductif, permettant de différencier de multiples éléments métalliques (dosage 
+multi-éléments). 
+
+Etude 6 : Après mises en solution, l'analyse avec reconstitution de matrice a été réalisée par 
+
+Spectrométrie d'Emission Atomique (ICP-OES BRUKER® 720) (dosage multi-éléments). Quelques 
+prélèvements spécifiques à certains postes ont été réalisés pour distinguer les différentes espèces de 
+
+chrome (chrome VI), selon la méthode METROPOL précédemment citée (19, 20). 
+
+
+18 
+
+Limites de quantification atmosphériques: 
+
+Les limites de quantification associées aux méthodes de dosage des aérosols de chrome sont 
+spécifiques à chaque type de chrome, et sont exprimée en µg/ filtre. On retrouve toutes les limites de 
+
+quantification des différentes études dans le tableau 3. 
+
+Les limites de quantification analytiques appliquées aux concentrations atmosphériques sont 
+
+différentes car elles prennent en compte les volumes d'air prélevées lors des recueils d'aérosols. 
+
+DESCRIPTION DES ETUDES 
+
+Pour chacune des études citées dans le tableau 1, une analyse descriptive des données recueillies 
+
+sera réalisée. Nous décrirons les différents types d'entreprises visitées et proposerons une analyse 
+descriptive des concentrations en chrome urinaire en µg/g créatinine, et des niveaux de chrome 
+
+atmosphérique en µg/m 
+
+3 
+
+, selon sa forme chimique, par entreprise, mais également par fonction/poste 
+occupée dans l'entreprise, qui pourrait conditionner des niveaux d'exposition différents. Il est ainsi 
+
+défini, dans chaque étude, des Groupes d'Exposition Similaire (GES), groupes à l'intérieur desquels 
+
+l'exposition liée à la tâche ou au lieu de travail est considérée comme similaire. 
+
+Le tableau 2 présente les principales caractéristiques des études menées : le nombre d'entreprises 
+
+visitées, leur région et leur secteur d'activité, les GES établis pour chaque étude, la date de recueil et 
+le nombre de salariés volontaires suivis. 
+
+Les tableaux 3 et 4 présentent, pour chaque étude, la répartition des volontaires selon le type de 
+protocole de recueil (long ou court) et les caractéristiques des recueils urinaires et des prélèvements 
+
+atmosphériques, quantitatives et analytiques. 
+
+
+19 
+
+GES : Groupe d'Exposition Similaire 
+
+Tableau 2 Caractéristiques des six études de biométrologie 
+
+
+20 
+
+LQ : Limite de Quantification ; Cr A : Cr atmosphérique total ; Cr VI sol A : Cr VI soluble atmosphérique ; Cr VI insol A : Cr VI insoluble 
+atmosphérique ; Cr non VI A : Cr non VI atmosphérique 
+
+Tableau 3 Nombre de sujets, nombre de recueils urinaires et atmosphériques et caractéristiques analytiques, par 
+étude -Etudes 1, 2 et 3. 
+
+
+21 
+
+LQ : Limite de Quantification ; Cr A : Chrome atmosphérique total ; Cr VI sol A : Cr VI soluble atmosphérique ; Cr VI insol A : Cr VI 
+insoluble atmosphérique ; Cr non VI A : Cr non VI atmosphérique 
+
+Tableau 4 Nombre de sujets, nombre de recueils urinaires et atmosphériques et caractéristiques analytiques, par 
+étude -Etudes 4, 5 et 6 et total des 6 études 
+
+
+22 
+
+ETUDE 
+1 : 
+EXPOSITION 
+PROFESSIONNELLE 
+AUX 
+POUSSIERES 
+METALLIQUES ET CINETIQUE D'ELIMINATION URINAIRE DU CHROME 
+
+Cette étude avait pour objectif de mesurer l'exposition professionnelle aux poussières de chrome 
+dans différents secteurs industriels. Ainsi, des prélèvements urinaires et atmosphériques ont été 
+
+réalisés dans deux entreprises, durant une semaine de travail, chez des salariés exposés au 
+
+chrome. 
+
+La première entreprise était une aciérie. Les salariés suivis travaillaient l'acier inoxydable. Il 
+
+s'agissait : 
+
+• D'un fondeur, chargé de l'approvisionnement des fours et de la gestion des stocks de 
+
+métaux ou d'éléments d'apport dont le chrome. Ce salarié était exposé aux poussières lors 
+de diverses opérations de fonctionnement des fours. 
+• D'un meuleur, chargé de peser et meuler des barres d'acier d'inox. Ce salarié était exposé, 
+
+par épisodes, aux poussières de meulage des aciers de différentes nuances comprenant 
+jusqu'à 18% de chrome. 
+• De trois chalumistes, issus d'entreprises extérieures, chargés respectivement de la 
+
+découpe de matériaux de refonte, de culots et de parties inutilisables des coulées, de culots 
+
+et de rebuts de fonderie. Ils étaient tous les trois exposés aux produits de découpage au 
+chalumeau. 
+
+Le fondeur et le meuleur étaient exposés à du chrome métal, donc insoluble. 
+
+La seconde entreprise était un atelier de traitement de surface où étaient effectuées des opérations 
+
+de chromage électrolytique. Deux salariés de cette entreprise occupaient la fonction de conducteurs 
+de bains (chromeurs), et trois autres de monteurs (accrocheurs de pièces à chromer). Tous étaient 
+
+exposés à l'acide chromique utilisé dans les bains électrolytiques. 
+
+Cette exposition pouvait présenter pour ces salariés des valeurs importantes en relation avec des 
+opérations particulières telles que le décapotage des cuves ou l'arrêt de l'aspiration de l'aérosol ; 
+
+l'exposition au chrome VI était alors importante. 
+
+Les chromuries sont rapportées dans les tableaux 5 et 6, en µg/g créatinine ; ils le sont par 
+
+entreprise, et par GES. Les niveaux d'exposition de chrome atmosphérique en µg/m 
+
+3 
+
+, selon sa 
+
+forme chimique, sont rapportés dans les tableaux 7 et 8, par entreprise, et par GES. 
+
+
+23 
+
+n : nombre de mesures ; p25 : 25ème percentile ; p75 : 75ème percentile ; MG : moyenne géométrique ; GSD: écart-type 
+géométrique ; LQ : limite de quantification-Les moyennes et écart-types géométriques (MG et GSD) tiennent compte des 
+valeurs inférieures à la LQ, et ont été calculés à l'aide d'un modèle de régression tobit. Les calculs ont été réalisés sur la base 
+des recueils urinaires dont la concentration en créatinine était supérieure à 0.5 g/L et inférieure à 3 g/L. 
+
+Tableau 5 Description des recueils urinaires et de leur concentration en chrome (en µg/g créatinine), 
+pour l'étude 1, par entreprise 
+
+GES : Groupe d'Exposition Similaire ; n : nombre de mesures ; p25 : 25ème percentile ; p75 : 75ème percentile ; MG : 
+moyenne géométrique ; GSD : écart-type géométrique ; LQ : limite de quantification-Les moyennes et écart-types 
+géométriques (MG et GSD) tiennent compte des valeurs inférieures à la LQ, et ont été calculés à l'aide d'un modèle de 
+régression tobit. Les calculs ont été réalisés sur la base des recueils urinaires dont la concentration en créatinine était 
+supérieure à 0.5 g/L et inférieure à 3 g/L. 
+
+Tableau 6 Description des recueils urinaires et de leur concentration en chrome (en µg/g créatinine), 
+pour l'étude 1, par GES. 
+
+
+24 
+
+Cr A : Cr atmosphérique total ; Cr VI sol A : Cr VI soluble atmosphérique ; Cr VI insol A : Cr VI insoluble atmosphérique ; Cr VI 
+total A : Cr VI total atmosphérique ; n : nombre de mesures ; p25 : 25ème percentile ; p75 : 75ème percentile ; MG : moyenne 
+géométrique; GSD : écart-type géométrique ; LQ : limite de quantification ; &lt; : concentrations inférieures à la LQ. Les 
+moyennes et écart-types géométriques (MG et GSD) tiennent compte des valeurs inférieures à la LQ, et ont été calculés à 
+l'aide d'un modèle de régression tobit. 
+
+Tableau 7 Description des prélèvements atmosphériques et de leur concentration en chrome (en µg/m 
+3 ), 
+selon leur forme chimique, pour l'étude 1, par entreprise. Prélèvements à l'intérieur de l'EPI respiratoire. 
+
+GES : Groupe d'Exposition Similaire ; Cr A : Cr atmosphérique total ; Cr VI sol A : Cr VI soluble atmosphérique ; Cr VI insol A : Cr 
+VI insoluble atmosphérique ; Cr VI total A : Cr VI total atmosphérique ; n : nombre de mesures ; p25 : 25ème percentile ; p75 : 
+75ème percentile ; MG : moyenne géométrique ; GSD : écart-type géométrique ; LQ : limite de quantification ; &lt; : concentrations 
+inférieures à la LQ -En gris : MG et GSD non calculables ou non interprétables car trop de valeurs sous la LQ. Les moyennes et 
+écart-types géométriques (MG et GSD) tiennent compte des valeurs inférieures à la LQ, et ont été calculés à l'aide d'un modèle 
+de régression tobit. 
+
+Tableau 8 Description des prélèvements atmosphériques et de leur concentration en chrome (en µg/m 
+3 ), 
+selon leur forme chimique, pour l'étude 1, par GES. Prélèvements à l'intérieur de l'EPI respiratoire. 
+
+
+25 
+
+ETUDE 2 : SURVEILLANCE BIOLOGIQUE DE L'EXPOSITION AU CHROME 
+DANS LES ATELIERS DE TRAITEMENT DE SURFACE 
+
+Cette étude a été réalisée dans des ateliers de chromage dur (dépôt d'une couche de chrome 
+électrolytique de 5 à 10 µm d'épaisseur) où des pathologies étaient apparues. 
+
+L'exposition individuelle aux polluants atmosphériques durant cinq jours et l'excrétion urinaire 
+quotidienne du Cr sur une période de sept jours ont été mesurées. 
+
+Neuf personnes ont participé à l'étude : quatre monteur/démonteur sur chaîne de chromage dur, 
+quatre techniciens dans l'atelier de finition/contrôle (présence de machines de brossage), et un 
+
+magasinier circulant entre les deux ateliers. 
+
+Les chromuries sont rapportées dans les tableaux 9 et 10 en µg/g créatinine ; ils le sont par 
+entreprise, et par GES. Les niveaux d'exposition de chrome atmosphérique en µg/m 
+
+3 
+
+, selon sa forme 
+
+chimique, sont rapportés dans les tableaux 11 et 12, par entreprise, et par GES. 
+
+Cette étude a fait l'objet d'une publication dans une revue internationale par Pierre et al (21). 
+
+n : nombre de mesures ; p25 : 25ème percentile ; p75 : 75ème percentile ; MG : moyenne géométrique ; GSD: écart-type 
+géométrique ; LQ : limite de quantification-Les moyennes et écart-types géométriques (MG et GSD) tiennent compte des 
+valeurs inférieures à la LQ, et ont été calculés à l'aide d'un modèle de régression tobit. Les calculs ont été réalisés sur la base 
+des recueils urinaires dont la concentration en créatinine était supérieure à 0.5 g/L et inférieure à 3 g/L. 
+
+Tableau 9 -Description des recueils urinaires et de leur concentration en chrome (en µg/g créatinine), 
+pour l'étude 2, par entreprise 
+
+GES : Groupe d'Exposition Similaire ; n : nombre de mesures ; p25 : 25ème percentile ; p75 : 75ème percentile ; MG : moyenne 
+géométrique ; GSD : écart-type géométrique ; LQ : limite de quantification-Les moyennes et écart-types géométriques (MG et 
+GSD) tiennent compte des valeurs inférieures à la LQ, et ont été calculés à l'aide d'un modèle de régression tobit. Les calculs 
+ont été réalisés sur la base des recueils urinaires dont la concentration en créatinine était supérieure à 0.5 g/L et inférieure à 3 
+g/L. 
+
+Tableau 10 -Description des recueils urinaires et de leur concentration en chrome (en µg/g créatinine), 
+pour l'étude 2, par GES 
+
+
+26 
+
+Cr A : Cr atmosphérique total ; Cr A soluble : Cr atmosphérique soluble ; Cr A insoluble : Cr atmosphérique insoluble ; n : 
+nombre de mesures ; p25 : 25ème percentile ; p75 : 75ème percentile ; MG : moyenne géométrique ; GSD : écart-type 
+géométrique ; LQ : limite de quantification ; &lt; : concentrations inférieures à la LQ. Les moyennes et écart-types géométriques 
+(MG et GSD) tiennent compte des valeurs inférieures à la LQ, et ont été calculés à l'aide d'un modèle de régression tobit 
+
+Tableau 11 Description des prélèvements atmosphériques et de leur concentration en chrome (en µg/m 
+3 ), 
+selon leur forme chimique, pour l'étude 2, par entreprise. Prélèvements à l'intérieur de l'EPI respiratoire. 
+
+GES : Groupe d'Exposition Similaire ; Cr A : Cr atmosphérique total ; Cr A soluble : Cr atmosphérique soluble ; Cr A insoluble : 
+Cr atmosphérique insoluble ; n: nombre de mesures ; p25 : 25ème percentile ; p75 : 75ème percentile ; MG : moyenne 
+géométrique ; GSD: écart-type géométrique ; LQ : limite de quantification ; &lt; : concentrations inférieures à la LQ. Les moyennes 
+et écart-types géométriques (MG et GSD) tiennent compte des valeurs inférieures à la LQ, et ont été calculés à l'aide d'un 
+modèle de régression tobit 
+
+Tableau 12 Description des prélèvements atmosphériques et de leur concentration en chrome (en µg/m 
+3 ), 
+selon leur forme chimique, pour l'étude 2, par GES. Prélèvements à l'intérieur de l'EPI respiratoire. 
+
+
+27 
+
+ETUDE 3 : SURVEILLANCE BIOLOGIQUE DES PEINTRES UTILISANT DES 
+CHROMATES 
+
+Cette étude s'est intéressée à la surveillance biologique spécifique à l'exposition professionnelle des 
+peintres exposés aux composés de chrome. 
+
+Les peintures à base de chromate sont utilisées comme primaire réactif et inhibiteur de corrosion des 
+
+métaux. Les chromates les plus fréquents sont les chromates de strontium, de baryum, de zinc et de 
+plomb. Ces peintures sont utilisées en constructions navale et aéronautique, appliquées par 
+
+pulvérisation sur les surfaces à l'aide de dispositifs pneumatiques. 
+
+Des prélèvements urinaires et atmosphériques ont été réalisés dans cette étude sur 22 sites 
+
+différents : constructeurs et entreprises de maintenance aéronautique, constructeur automobile 
+(activités de peinture) et Armée de l'Air. L'un des 22 sites fait l'objet de deux campagnes de 
+
+prélèvements (C1 et C2), à une année d'intervalle. Il s'agissait dans ce dernier cas d'activités 
+
+d'entretien d'avions militaires sur des bases aériennes ou établissements d'entretien (AIA, Ateliers 
+Industriels de l'Armée de l'Air). 
+
+126 volontaires ont été suivis dans le cadre d'un protocole long, à savoir le recueil de toutes les 
+mictions urinaires de 24 h pendant 7 jours consécutifs, (week-end compris) et des prélèvements 
+
+atmosphériques pendant les 5 jours de travail. 
+
+109 volontaires ont été suivis dans le cadre d'un protocole court, à savoir des recueils urinaires en 
+
+début et fin de poste, sur un ou plusieurs jours de travail. 
+
+Dans les cabines de peinture des ateliers des constructeurs, une première couche de peinture 
+« couche primaire » comportant du Cr VI était déposée sur le métal puis les couches suivantes de 
+
+protection et décors étaient appliquées. Cependant, dans le cas d'un délai entre ces opérations ou 
+d'un transfert entre sites industriels, il était nécessaire de rénover la surface du primaire par un 
+
+ponçage adapté, le « décrochage ». Les autres peintures pouvaient contenir également des 
+concentrations variables de chromates. 
+
+Dans les ateliers de peinture des entreprises de maintenance, il s'agissait d'une opération de 
+
+décapage suivie de remise en peinture, le décapage chimique à l'aide de solvants n'ayant pas été pris 
+en compte. Le décapage par ponçage n'était pas pratiqué en cabine ventilée alors que l'application de 
+
+peinture était pratiquée dans ce type de cabine comme chez les constructeurs. Le port d'équipements 
+de protection respiratoire, effectif pour l'application de peinture n'était pas systématique durant le 
+ponçage. Quatre GES ont ainsi été définis, les peintres, les ponceurs, les peintres/ponceurs qui 
+réalisaient les deux activités, et les « ambiances », qui se trouvaient dans les ateliers au moment des 
+
+activités exposantes. 
+
+Les chromuries sont rapportées dans les tableaux 13 et 14, en µg/g créatinine ; ils le sont par 
+entreprise, et par GES. Les niveaux d'exposition de chrome atmosphérique en µg/m 
+
+3 
+
+, selon sa forme 
+
+chimique, sont rapportés dans les tableaux 15 et 16, par entreprise, et par GES. 
+
+
+28 
+
+* Les données des protocoles courts des entreprises L à V ont été regroupées. n : nombre de mesures ; p25 : 25ème 
+percentile ; p75 : 75ème percentile ; MG : moyenne géométrique ; GSD : écart-type géométrique ; LQ : limite de quantification ; 
+&lt; : concentrations inférieures à la LQ. Les moyennes et écart-types géométriques (MG et GSD) tiennent compte des valeurs 
+inférieures à la LQ, et ont été calculés à l'aide d'un modèle de régression tobit. Les calculs ont été réalisés sur la base des 
+recueils urinaires dont la concentration en créatinine était supérieure à 0.5 g/L et inférieure à 3 g/L. 
+
+Tableau 13 -Description des recueils urinaires et de leur concentration en chrome (en µg/g créatinine), 
+pour l'étude 3, par entreprise 
+
+GES : Groupe d'Exposition Similaire ; n : nombre de mesures ; p25 : 25ème percentile ; p75 : 75ème percentile ; MG : moyenne 
+géométrique ; GSD : écart-type géométrique ; LQ : limite de quantification ; &lt; : concentrations inférieures à la LQ. Les 
+moyennes et écart-types géométriques (MG et GSD) tiennent compte des valeurs inférieures à la LQ, et ont été calculés à 
+l'aide d'un modèle de régression tobit. Les calculs ont été réalisés sur la base des recueils urinaires dont la concentration en 
+créatinine était supérieure à 0.5 g/L et inférieure à 3 g/L. 
+
+Tableau 14 -Description des recueils urinaires et de leur concentration en chrome (en µg/g créatinine), 
+pour l'étude 3, par GES 
+
+
+29 
+
+Cr VI sol A : Cr VI soluble atmosphérique ; Cr VI insol A : Cr VI insoluble atmosphérique ; Cr non VI A : Cr non VI atmosphérique ; 
+n : nombre de mesures ; p25 : 25ème percentile ; p75 : 75ème percentile ; MG : moyenne géométrique ; GSD : écart-type 
+géométrique ; LQ : limite de quantification ; &lt; : concentrations inférieures à la LQ -En gris : MG et GSD non calculables ou non 
+interprétables car trop de valeurs sous la LQ. Les moyennes et écart-types géométriques (MG et GSD) tiennent compte des valeurs 
+inférieures à la LQ, et ont été calculés à l'aide d'un modèle de régression tobit 
+
+Tableau 15 Description des prélèvements atmosphériques et de leur concentration en chrome (en µg/m 
+3 ), 
+selon leur forme chimique, pour l'étude 3, par entreprise. Prélèvements à l'intérieur de l'EPI respiratoire. 
+
+
+30 
+
+GES : Groupe d'Exposition Similaire ; Cr VI sol A : Cc VI soluble atmosphérique ; Cr VI insol A : Cr VI insoluble atmosphérique; Cr 
+non VI A : Cr non VI atmosphérique ; n : nombre de mesures ; p25 : 25ème percentile ; p75 : 75ème percentile ; MG : moyenne 
+géométrique ; GSD : écart-type géométrique ; LQ : limite de quantification ; &lt; : concentrations inférieures à la LQ -En gris : MG et 
+GSD non calculables ou non interprétables car trop de valeurs sous la LQ. Les moyennes et écart-types géométriques (MG et 
+GSD) tiennent compte des valeurs inférieures à la LQ, et ont été calculés à l'aide d'un modèle de régression tobit 
+
+Tableau 16 Description des prélèvements atmosphériques et de leur concentration en chrome (en µg/m 
+3 ), 
+selon leur forme chimique, pour l'étude 3, par GES. Prélèvements à l'intérieur de l'EPI respiratoire. 
+
+
+31 
+
+ETUDE 4 : SURVEILLANCE BIOLOGIQUE DE L'EXPOSITION AUX METAUX 
+DANS LA FABRICATION D'ACIERS REFRACTAIRES 
+
+Les aciers réfractaires sont des alliages métalliques renfermant, outre le fer et le carbone, des métaux 
+qui leur procurent des propriétés particulières. Le chrome contribue à la résistance à l'oxydation, le 
+
+nickel à la ductilité (déformation plastique) tandis que le vanadium et le tungstène contribuent à la 
+
+résistance aux hautes températures. La fabrication et la transformation des aciers réfractaires 
+exposent les salariés à ces éléments. 
+
+Pour cerner l'exposition des salariés, le suivi d'une large gamme d'éléments a été envisagé. Un intérêt 
+particulier a été porté au chrome car cet élément est présent dans tous les alliages d'aciers 
+
+réfractaires. Cependant, la visée « multi-élémentaires » de cette étude n'a pas permis de réaliser la 
+mesure des différentes formes de chrome, en particulier le chrome VI, au niveau atmosphérique : seul 
+
+le chrome total atmosphérique a été mesuré. La principale difficulté trouvait son origine dans les 
+
+nombreuses professions (et activités) rencontrée dans la fabrication et la transformation des aciers 
+réfractaires, et dans la diversité des expositions subies. Les 9 entreprises recrutées appartenaient soit 
+
+au milieu de la fabrication des aciers réfractaires, soit au milieu de la transformation de ces aciers. 
+
+Les recueils urinaires ainsi que les mesures atmosphériques ont été réalisés selon un protocole long 
+
+(entre 3 et 7 jours), pour 73 volontaires, ou selon un protocole court, pour 56 volontaires. 
+
+11 GES ont été définis, correspondant aux onze professions représentées dans cette étude. Ces GES 
+
+peuvent être regroupés dans trois grandes catégories d'activité s'étalant de la fabrication à la 
+
+transformation des aciers réfractaires : 
+
+1. Fonderie (fusion/coulées) : 
+• Réfractoriste 
+
+• Fondeur 
+
+• Machiniste 
+
+• Magasinier 
+
+2. Fonderie (finition) : 
+• Décapeur 
+
+• Ajusteur/Meuleur 
+
+• Manutentionnaire 
+
+3. Transformation : 
+• Opérateur plasma 
+
+• Soudeur 
+
+• Métalliseur 
+
+Les chromuries sont rapportées dans les tableaux 17 et 18, en µg/g créatinine ; ils le sont par 
+entreprise, et par GES. Les niveaux d'exposition de chrome atmosphérique en µg/m 
+
+3 
+
+, selon sa forme 
+
+chimique, sont rapportés dans les tableaux 19 et 20, par entreprise, et par GES. 
+
+
+32 
+
+n : nombre de mesures ; p25 : 25ème percentile ; p75 : 75ème percentile ; MG : moyenne géométrique ; GSD : écart-type 
+géométrique ; LQ : limite de quantification ; &lt; : concentrations inférieures à la LQ. Les moyennes et écart-types géométriques 
+(MG et GSD) tiennent compte des valeurs inférieures à la LQ, et ont été calculés à l'aide d'un modèle de régression tobit. Les 
+calculs ont été réalisés sur la base des recueils urinaires dont la concentration en créatinine était supérieure à 0.5 g/L et 
+inférieure à 3 g/L. 
+
+Tableau 17 -Description des recueils urinaires et de leur concentration en chrome (en µg/g créatinine), 
+pour l'étude 4, par entreprise 
+
+GES : Groupe d'Exposition Similaire ; n : nombre de mesures ; p25 : 25ème percentile ; p75 : 75ème percentile ; MG : moyenne 
+géométrique ; GSD : écart-type géométrique ; LQ : limite de quantification ; &lt; : concentrations inférieures à la LQ. Les 
+moyennes et écart-types géométriques (MG et GSD) tiennent compte des valeurs inférieures à la LQ, et ont été calculés à 
+l'aide d'un modèle de régression tobit. Les calculs ont été réalisés sur la base des recueils urinaires dont la concentration en 
+créatinine était supérieure à 0.5 g/L et inférieure à 3 g/L. 
+
+Tableau 18 -Description des recueils urinaires et de leur concentration en chrome (en µg/g créatinine), 
+pour l'étude 4, par GES 
+
+
+33 
+
+Cr A : Cr atmosphérique total ; n : nombre de mesures ; p25 : 25ème percentile ; p75 : 75ème percentile ; MG : moyenne 
+géométrique ; GSD: écart-type géométrique ; LQ : limite de quantification ; &lt; : concentrations inférieures à la LQ -En gris : MG et 
+GSD non calculables ou non interprétables car trop de valeurs sous la LQ. Les moyennes et écart-types géométriques (MG et GSD) 
+tiennent compte des valeurs inférieures à la LQ, et ont été calculés à l'aide d'un modèle de régression tobit 
+
+Tableau 19 Description des prélèvements atmosphériques et de leur concentration en chrome (en µg/m 
+3 ), 
+selon leur forme chimique, pour l'étude 4, par entreprise. Prélèvements à l'intérieur de l'EPI respiratoire. 
+
+GES : Groupe d'Exposition Similaire ; Cr A : Cr atmosphérique total ; n : nombre de mesures ; p25 : 25ème percentile ; p75 : 75ème 
+percentile ; MG : moyenne géométrique ; GSD: écart-type géométrique ; LQ : limite de quantification ; &lt; : concentrations inférieures 
+à la LQ -En gris : MG et GSD non calculables ou non interprétables car trop de valeurs sous la LQ. Les moyennes et écart-types 
+géométriques (MG et GSD) tiennent compte des valeurs inférieures à la LQ, et ont été calculés à l'aide d'un modèle de régression 
+tobit 
+
+Tableau 20 Description des prélèvements atmosphériques et de leur concentration en chrome (en µg/m 
+3 ), 
+selon leur forme chimique, pour l'étude 4, par GES. Prélèvements à l'intérieur de l'EPI respiratoire. 
+
+
+34 
+
+ETUDE 5 : SURVEILLANCE BIOLOGIQUE DE L'EXPOSITION AU CHROME 
+DANS L'INDUSTRIE DU CHROMAGE ELECTROLYTIQUE 
+
+Cette étude s'intéresse à l'exposition au chrome lors d'activités de chromage électrolytique. D'une 
+manière générale, le chromage industriel des pièces à revêtir est réalisé dans des bains d'acide 
+
+chromique où le chrome est au degré d'oxydation VI. Le risque chimique est très présent dans les 
+
+ateliers de traitement de surface. Les opérations de chromage électrolytique de pièces métalliques en 
+particulier, exposent les opérateurs à des aérosols provenant des bains, potentiellement riches en 
+
+CrVI. 
+
+Les 9 entreprises incluses dans cette étude étaient toutes spécialisées dans le chromage 
+
+électrolytique. Les recueils urinaires ainsi que les mesures atmosphériques ont été réalisés selon un 
+protocole long (entre 3 et 7 jours), pour 113 volontaires, ou un protocole court, pour 37 volontaires. 
+
+Les entreprises C et E ont fait l'objet de deux campagnes de prélèvements, à un an d'intervalle, la 
+
+seconde se déroulant pendant le week-end, sans exposition, pour observer la décroissance de 
+l'excrétion urinaire du chrome après une semaine d'exposition. 
+
+8 GES ont été définis, correspondant aux différentes professions représentées et rencontrées au 
+cours de cette étude : les administratifs, les chromeurs, les monteurs, les polisseurs, les 
+
+techniciens d'atelier, les techniciens de laboratoires, les peintres et les polyvalents. 
+
+Les chromuries sont rapportées dans les tableaux 21 et 22, en µg/g créatinine ; elles le sont par 
+
+entreprise, et par GES. Les niveaux d'exposition de chrome atmosphérique en µg/m 
+
+3 
+
+, selon sa forme 
+
+chimique, sont rapportés dans les tableaux 23 et 24 par entreprise, et par GES. 
+
+
+35 
+
+n: nombre de mesures ; p25 : 25ème percentile ; p75 : 75ème percentile ; MG : moyenne géométrique ; GSD : écart-type 
+géométrique ; LQ : limite de quantification ; &lt; : concentrations inférieures à la LQ. Les moyennes et écart-types géométriques 
+(MG et GSD) tiennent compte des valeurs inférieures à la LQ, et ont été calculés à l'aide d'un modèle de régression tobit. Les 
+calculs ont été réalisés sur la base des recueils urinaires dont la concentration en créatinine était supérieure à 0.5 g/L et 
+inférieure à 3 g/L. 
+
+Tableau 21 Description des recueils urinaires et de leur concentration en chrome (en µg/g créatinine), 
+pour l'étude 5, par entreprise 
+
+GES : Groupe d'Exposition Similaire ; n : nombre de mesures ; p25 : 25ème percentile ; p75 : 75ème percentile ; MG : 
+moyenne géométrique ; GSD : écart-type géométrique ; LQ : limite de quantification ; &lt; : concentrations inférieures à la LQ. 
+Les moyennes et écart-types géométriques (MG et GSD) tiennent compte des valeurs inférieures à la LQ, et ont été calculés 
+à l'aide d'un modèle de régression tobit. Les calculs ont été réalisés sur la base des recueils urinaires dont la concentration en 
+créatinine était supérieure à 0.5 g/L et inférieure à 3 g/L. 
+
+Tableau 22 -Description des recueils urinaires et de leur concentration en chrome (en µg/g créatinine), 
+pour l'étude 5, par GES 
+
+
+36 
+
+Cr A : Cr atmosphérique total ; Cr VI sol A : Cr VI soluble atmosphérique ; Cr VI insol A : Cr VI insoluble atmosphérique ; Cr 
+non VI A : Cr non VI atmosphérique ; n : nombre de mesures ; p25 : 25ème percentile ; p75 : 75ème percentile ; MG : 
+moyenne géométrique; GSD : écart-type géométrique ; LQ : limite de quantification ; &lt; : concentrations inférieures à la LQ -
+En gris : MG et GSD non calculables ou non interprétables car trop de valeurs sous la LQ. Les moyennes et écart-types 
+géométriques (MG et GSD) tiennent compte des valeurs inférieures à la LQ, et ont été calculés à l'aide d'un modèle de 
+régression tobit 
+
+Tableau 23 Description des prélèvements atmosphériques et de leur concentration en chrome (en 
+µg/m 
+3 ), selon leur forme chimique, pour l'étude 5, par entreprise. Prélèvements à l'intérieur de l'EPI 
+respiratoire. 
+
+
+37 
+
+GES : Groupe d'Exposition Similaire ; Cr A : Cr atmosphérique total ; Cr VI sol A : Cr VI soluble atmosphérique ; Cr VI insol A : Cr 
+VI insoluble atmosphérique ; Cr non VI A : Cr non VI atmosphérique ; n: nombre de mesures ; p25 : 25ème percentile ; p75 : 
+75ème percentile ; MG : moyenne géométrique ; GSD : écart-type géométrique ; LQ : limite de quantification ; &lt; : concentrations 
+inférieures à la LQ -En gris : MG et GSD non calculables ou non interprétables car trop de valeurs sous la LQ. Les moyennes et 
+écart-types géométriques (MG et GSD) tiennent compte des valeurs inférieures à la LQ, et ont été calculés à l'aide d'un modèle 
+de régression tobit 
+
+Tableau 24 Description des prélèvements atmosphériques et de leur concentration en chrome (en µg/m 
+3 ), 
+selon leur forme chimique, pour l'étude 5, par GES. Prélèvements à l'intérieur de l'EPI respiratoire. 
+
+
+38 
+
+ETUDE 6 : ETUDE DES PROCEDES DE METALLISATION : CARACTERISATION 
+DES AEROSOLS EMIS ET SURVEILLANCE BIOLOGIQUE DES OPERATEURS 
+
+L'étude 6 a concerné la surveillance biologique des opérateurs engagés dans les différents procédés 
+utilisés en métallisation. Cette investigation s'est inscrite à la suite de l'étude 4 sur les métaux 
+
+réfractaires. 
+
+La projection thermique fait partie des techniques de traitement de surface de pièces métalliques par 
+voie sèche. Cette technique permet de réaliser des revêtements épais (généralement de quelques 
+
+dizaines à quelques centaines de micromètres) de nature très variée sur des substrats (pièces à 
+revêtir) tout aussi variés. La recherche continue de l'amélioration des performances a entraîné le 
+
+développement de différents procédés de projection thermique, soit flamme (flamme poudre, flamme 
+fil, canon à détonation, High Velocity Oxy/Fuel), soit arc électrique (arc électrique entre deux fils, 
+
+plasma) [2], qui permettent de projeter des matériaux multiples (céramiques, carbures, composites, 
+
+superalliages, matières plastiques, ...). Le type de matériau projeté est variable en fonction du type 
+d'application mais dans la plupart des cas, il est constitué essentiellement d'un métal (d'où le terme 
+
+restrictif de métallisation souvent employé à la place de projection thermique). Dans les applications 
+les plus courantes telles que traitement anticorrosion et résistance aux frottements, les métaux les 
+
+plus utilisés sont Cr, Ni, Mo, Pb, W, Co, Al, Sn, Mn, et quelques alliages (Cu-Sn-Pb, Pb-Sb-Sn, Co-Cr-
+W). Pour cerner l'exposition des salariés, le suivi de tous les éléments a été réalisé, aux niveaux 
+
+urinaire et atmosphérique. 
+
+Dans le cadre de l'étude 4 sur les métaux réfractaires, des expositions particulières ont pu être mises 
+en évidence chez des métalliseurs utilisant des procédés distincts, la métallisation plasma et le 
+
+procédé HVOF (High Velocity Oxy Fuel). Les hautes températures atteintes au cours de la 
+métallisation plasma ont pour effet de modifier la nature physico-chimique des substances métalliques 
+
+présentes. Ainsi, lors de la projection de poudre d'oxyde de Cr III, une partie du chrome se retrouve 
+sous forme de Cr VI. Le pourcentage de transformation a été mesuré sur prélèvements 
+
+atmosphériques dans une entreprise et représentait 15 à 30 % du chrome atmosphérique, les 
+
+différentes formes de chrome étant retrouvées dans l'ensemble de l'atelier. Les résultats de cette 
+étude ont également démontré que pour une exposition atmosphérique équivalente, les taux urinaires 
+
+de chrome chez les métalliseurs étaient dix fois supérieurs à ceux rencontrés chez les soudeurs. 
+
+Ces considérations ont mené à l'ouverture de l'étude 6, entièrement consacrée aux postes de travail 
+
+des métalliseurs. Les volontaires avec une activité de métallisation des entreprises D et H de l'étude 
+4, ont également été intégrés à l'étude 6 (renommées entreprise A, avec deux campagnes de 
+
+prélèvements (A1 et A2) et entreprise B). 
+
+Les 4 entreprises recrutées spécifiquement pour cette étude étaient spécialisées dans le traitement et 
+le revêtement de métaux. Pour ces 4 entreprises, le Cr total a été mesuré dans l'atmosphère. 
+
+Cependant, lorsque les salariés projetaient des alliages contenant du chrome, des prélèvements 
+spécifiques de Cr VI ont été réalisés. 
+
+Les recueils urinaires ainsi que les mesures atmosphériques ont été réalisés selon un protocole long 
+pour les 42 volontaires. 4 GES ont été définis : les « ambiances » (poste de travail à proximité de 
+
+poste de projection thermique), les projeteurs (plusieurs procédés de métallisation), les soudeurs et 
+
+les témoins (partie administrative de l'entreprise). 
+
+
+39 
+
+Les chromuries sont rapportées dans les tableaux 25 et 26, en µg/g créatinine ; ils le sont par 
+entreprise, et par GES. Les niveaux d'exposition de chrome atmosphérique en µg/m 
+
+3 
+
+, selon sa forme 
+
+chimique, sont rapportés dans les tableaux 27 et 28, par entreprise, et par GES. 
+
+n: nombre de mesures ; p25 : 25ème percentile ; p75 : 75ème percentile ; MG : moyenne géométrique ; GSD : écart-type 
+géométrique ; LQ : limite de quantification ; &lt; : concentrations inférieures à la LQ. Les moyennes et écart-types géométriques 
+(MG et GSD) tiennent compte des valeurs inférieures à la LQ, et ont été calculés à l'aide d'un modèle de régression tobit. Les 
+calculs ont été réalisés sur la base des recueils urinaires dont la concentration en créatinine était supérieure à 0.5 g/L et 
+inférieure à 3 g/L. 
+
+Tableau 25 Description des recueils urinaires et de leur concentration en chrome (en µg/g créatinine), 
+pour l'étude 6, par entreprise 
+
+GES : Groupe d'Exposition Similaire ; n : nombre de mesures ; p25 : 25ème percentile ; p75 : 75ème percentile ; MG : moyenne 
+géométrique ; GSD: écart-type géométrique ; LQ : limite de quantification ; &lt; : concentrations inférieures à la LQ. Les moyennes 
+et écart-types géométriques (MG et GSD) tiennent compte des valeurs inférieures à la LQ, et ont été calculés à l'aide d'un 
+modèle de régression tobit. Les calculs ont été réalisés sur la base des recueils urinaires dont la concentration en créatinine 
+était supérieure à 0.5 g/L et inférieure à 3 g/L. 
+
+Tableau 26 Description des recueils urinaires et de leur concentration en chrome (en µg/g créatinine), 
+pour l'étude 6, par GES 
+
+
+40 
+
+Cr A : Cr atmosphérique total ; Cr VI sol A : Cr VI soluble atmosphérique ; Cr VI insol A : Cr VI insoluble 
+atmosphérique ; Cr VI total A: Cr VI total atmosphérique ; Cr non VI A : Cr non VI atmosphérique ; n: nombre de 
+mesures ; p25 : 25ème percentile ; p75 : 75ème percentile ; MG : moyenne géométrique ; GSD : écart-type 
+géométrique ; LQ : limite de quantification ; &lt; : concentrations inférieures à la LQ -En gris : MG et GSD non 
+calculables ou non interprétables car trop de valeurs sous la LQ. Les moyennes et écart-types géométriques (MG et 
+GSD) tiennent compte des valeurs inférieures à la LQ, et ont été calculés à l'aide d'un modèle de régression tobit 
+
+Tableau 27 Description des prélèvements atmosphériques et de leur concentration en chrome 
+(en µg/m 
+3 ), selon leur forme chimique, pour l'étude 6, par entreprise. Prélèvements hors EPI 
+respiratoire. 
+
+GES : Groupe d'Exposition Similaire ; Cr A : Cr atmosphérique total ; Cr VI sol A : Cr VI soluble atmosphérique ; Cr VI 
+insol A : Cr VI insoluble atmosphérique ; Cr VI total A : Cr VI total atmosphérique ; Cr non VI A : Cr non VI 
+atmosphérique ; n : nombre de mesures ; p25 : 25ème percentile ; p75 : 75ème percentile ; MG : moyenne 
+géométrique ; GSD: écart-type géométrique ; LQ : limite de quantification ; &lt; : concentrations inférieures à la LQ -En 
+gris : MG et GSD non calculables ou non interprétables car trop de valeurs sous la LQ. Les moyennes et écart-types 
+géométriques (MG et GSD) tiennent compte des valeurs inférieures à la LQ, et ont été calculés à l'aide d'un modèle de 
+régression tobit 
+
+Tableau 28 Description des prélèvements atmosphériques et de leur concentration en chrome (en 
+µg/m 
+3 ), selon leur forme chimique, pour l'étude 6, par GES. Prélèvements hors EPI respiratoire. 
+
+
+41 
+
+SYNTHESE 
+
+L'ensemble des études menées sur le chrome a permis d'avoir une estimation de l'imprégnation 
+
+biologique au chrome des salariés français exposés, ainsi que des concentrations inhalées, selon ses 
+différentes formes chimiques, dans diverses activités professionnelles. 
+
+Chrome urinaire 
+
+Contrairement au chrome atmosphérique, il n'est pas possible, dans l'urine, de distinguer les 
+
+différentes formes de chrome. Il est ainsi impossible de connaître la part de chrome urinaire 
+correspondant à une exposition spécifique au chrome VI, d'autant que celui-ci se réduit en chrome III 
+
+très rapidement dans l'organisme. Le chrome urinaire n'est donc pas spécifique d'une exposition au 
+
+chrome VI. 
+
+Les concentrations en chrome urinaires sont très hétérogènes entre les études, mais également au 
+
+sein d'une même étude, entre les entreprises, ou entre les différents Groupes d'Exposition Similaires 
+(GES). 
+
+Les deux premières études (études 1 et 2) sont celles dont les concentrations en chrome urinaire 
+excrété sont les plus élevées, ce qui peut s'expliquer par le fait que ces études se sont déroulées 10 à 
+
+15 ans avant les quatre autres. A cette période, la sensibilisation des chefs d'entreprises et des 
+
+salariés à la prévention des expositions professionnelles, et les moyens mis en place, qu'ils soient 
+collectifs et individuels (capotage, ventilation, port d'EPI respiratoires) étaient moins développés 
+
+comparativement à ceux des études réalisées 10 ans après. 
+
+En effet, on peut observer que les concentrations en chrome urinaire excrété des GES « Chromeur » 
+
+et « Monteur » dans l'étude 5, plus récente, dont l'exposition était liée à une activité de chromage 
+électrolytique sont considérablement plus faibles (MG CrUChromeurE5 = 0,73 µg/g crea et MG CrUMonteurE5 = 
+
+0,06 µg/g crea) que ceux des études 1 et 2, ayant une activité similaire (MG CrUChromeurE1 = 6,94 µg/g 
+
+crea), MG CrUMonteurE1 = 5,19 µg/g crea, MG CrUMonteurE2 = 10,18 µg/g crea). On peut raisonnablement 
+émettre l'hypothèse que cet abaissement des concentrations excrétées soit lié à l'augmentation des 
+
+moyens alloués à la prévention des expositions professionnelles. Malgré tout, on peut remarquer, 
+dans l'étude 5, pourtant récente, portant sur le chromage électrolytique, on trouve des concentrations 
+
+urinaires excrétées importantes dans deux entreprises comparativement aux autres (MG CrUE5EntrD = 
+10,29 µg/g crea et MG CrUE5EntrE1 = 11,31 µg/g crea), signifiant que les entreprises françaises n'ont pas 
+
+toutes le même niveau de connaissances en termes de prévention. 
+
+Les concentrations en chrome urinaires de l'étude 3 sur les peintures aux chromates sont très faibles, 
+et se trouvent au niveau des valeurs environnementales (VBR = 0,54 µg/g créa). C'est dans cette 
+
+étude que l'on retrouve le plus de valeurs inférieures à la LQ. 
+
+Les GES avec les concentrations de chrome urinaire les plus élevées appartiennent aux deux 
+premières études : « Chalumiste » (MG CrUChalumisteE1 = 19,22 µg/g crea), « Chromeur »(MG CrUChromeurE1 = 
+
+6,94 µg/g crea), « Monteur »(MG CrUMonteurE1 = 5,19 µg/g crea et MG CrUMonteurE2 = 10,18 µg/g crea), 
+
+« Magasinier »(MG CrUMagasinierE2 = 11,59 µg/g crea) et « Technicien d'atelier » (MG CrUTechAtelE2 = 10,37 
+µg/g crea) à proximité des bains de chromage. 
+
+
+42 
+
+Ensuite, ce sont les GES « Métalliseur » de l'étude 4 (MG CrUMétallE4 = 2,73 µg/g crea), 
+« Polisseur/Rectifieur » et « Polyvalent » de l'étude 5 (MG CrUPoliss/RectiE5 = 2,42 µg/g crea été 
+
+MG CrUPolyvalentE5 = 2,14 µg/g crea), et « Soudeur » de l'étude 6 (MG CrUSoudeurE6 = 3,56 µg/g crea) qui 
+présentent les concentrations en chrome urinaire les plus importantes. A noter cependant dans ces 
+
+études, les fortes disparités des niveaux d'excrétion entre les entreprises. 
+
+En annexe, les tableaux 31 et 32 donnent les concentrations en chrome urinaire en µg/g créatinine, 
+
+respectivement par entreprise, et par GES pour l'ensemble des études, ce qui permet une 
+
+comparaison plus aisée des concentrations en chrome urinaire excrétées entre les études. 
+
+Chrome atmosphérique 
+
+Comme précédemment pour les concentrations en chrome urinaire, les niveaux d'exposition les plus 
+importants se retrouvent dans les deux études 1 et 2, avec des concentrations en chrome total 
+
+atmosphérique très élevées pour les GES « Chalumistes » (MG CrAChalumisteE1 = 405,45 µg/m 
+
+3 
+
+) et 
+« Meuleur » (MG CrAMeuleurE1 = 324,17 µg/m 
+
+3 
+
+) dans l'étude 1, et « Magasinier » (MG CrAMagasinierE2 = 255,76 
+
+µg/m 
+
+3 
+
+) et « Technicien d'atelier » (MG CrATechAtelE2 = 1012,23 µg/m 
+
+3 
+
+) pour l'étude 2. Dans cette dernière 
+
+étude, l'essentiel du chrome total était insoluble. 
+
+Dans l'étude 3 menée sur des peintres exposés aux chromates, les concentrations en chrome, sous 
+
+sa forme VI soluble, insoluble ou sous sa forme non VI étaient très faibles, mis à part dans une 
+entreprise, l'entreprise C2 (MG CrVIsolE3EntrC2 = 14,36 µg/m 
+
+3 
+
+, MG CrVIinsolE3EntrC2 = 5,17 µg/m 
+3 et 
+
+MG CrnonVIE3EntrC2 = 55,22 µg/m 
+
+3 
+
+). On peut noter également quelques pics d'exposition en relevant les 
+valeurs maximales de chaque entreprise. Les pourcentages de valeurs non quantifiées pour les 3 
+
+formes de Cr atmosphérique étaient très importants (64% pour le Cr VI soluble, 78% pour le Cr VI 
+
+insoluble, et 79% pour le chrome non VI). Aucun GES ne ressort particulièrement en comparant ces 
+expositions atmosphériques. 
+
+Dans l'étude 4, deux GES se distinguent, « Métalliseur » et « Opérateur Plasma », avec des niveaux 
+d'exposition en Cr total atmosphérique très importants (MG CrAE4Métall = 15,37 µg/m 
+3 et MG CrAE4OperPlasma 
+
+= 146,14 µg/m 
+
+3 
+
+). 
+
+Dans l'étude 5, les entreprises D et E se démarquent avec des niveaux d'exposition atmosphériques 
+en Cr VI soluble, insoluble et non VI plus importants (MG Cr6solE5EntrD = 4,85 µg/m 
+
+3 
+
+, MG CrVIinsolE5EntrD = 
+
+7,40 µg/m 
+
+3 
+
+, MG CrnonVIE5EntrD = 12,04 µg/m 
+3 et MG CrVIsolE5EntrE1 = 8,61 µg/m 
+
+3 
+
+, MG CrVIinsolE5EntrE1 = 3,47 
+µg/m 
+
+3 
+
+, MG CrnonVIE5EntrE1 = 18,43 µg/m 
+
+3 
+
+. Ces deux entreprises étaient particulièrement très polluées, 
+
+alors que les moyens de prévention dévoués aux expositions professionnelles étaient très limités. 
+D'ailleurs, on y retrouve des concentration en chrome urinaire également plus élevés que dans les 
+
+autres entreprises de la même étude (MG CrUE5EntrD = 10,29 µg/g crea, MG CrUE5EntrE1 = 11,31 µg/g crea 
+
+et MG CrUE5EntrE2 = 14,06 µg/g crea). Deux GES se démarquent avec des niveaux d'exposition en Cr 
+non VI plus élevés : les « polisseurs/Rectifieurs » et les « Polyvalents » (MG CrnonVIPoliss/RectiE5 = 6,13 
+
+µg/m 
+3 et MG CrnonVIPolyvalentE5 = 5,32 µg/m 
+
+3 
+
+), associés à des concentrations de chrome urinaire plus 
+importantes que les autres. 
+
+Dans l'étude 6, des niveaux importants de Cr total et de Cr VI atmosphérique sont à noter chez le 
+GES « Soudeur » (MG CrAE6Soudeur = 72,52 µg/m 
+3 et MG CrVItotalE6Soudeur = 15,52 µg/m 
+
+3 
+
+). Quant au GES 
+
+« Projeteur », c'est par son niveau d'exposition en chrome non VI atmosphérique qu'il se démarque 
+
+(MG CrnonVIE6Projeteur = 47,08 µg/m 
+
+3 
+
+). 
+
+
+43 
+
+Pourcentage de Cr VI par rapport au chrome total atmosphérique 
+
+Le pourcentage de Cr VI atmosphérique par rapport au Cr total atmosphérique a été calculé. Pour les 
+
+études dont le Cr VI était mesuré, il fallait des concentrations en Cr VI soluble, insoluble ou total 
+mesurées et quantifiées, ou calculées de la manière suivant : Cr VI total = Cr VI soluble + Cr VI 
+
+insoluble. Quant au chrome total, il pouvait être soit mesuré (et quantifié), soit calculé (Cr total = Cr VI 
+soluble + Cr VI insoluble + Cr non VI). 
+
+Les tableaux 29 et 30 donnent les pourcentages de Cr VI par rapport au chrome total, par étude, par 
+
+entreprise, et par étude, par GES. Dans les études 3 et 5, les pourcentages en Cr VI sont les plus 
+importants ; ils sont supérieur à 50%. 
+
+n : nombre de mesures ; p25 : 25ème percentile ; p75 : 75ème percentile. Le pourcentage de Cr VI a été calculé uniquement 
+lorsque les concentrations en Cr VI soluble, insoluble ou total étaient quantifiés ou calculés (Cr VI total = Cr VI soluble + Cr VI 
+insoluble), et lorsqu'il était possible de reconstituer la concentration en Cr total (Cr total = Cr VI soluble + Cr VI insoluble + Cr 
+non VI) ou qu'elle était mesurée et quantifiée 
+
+Tableau 29 Pourcentage de Cr VI atmosphérique (par rapport au Cr total atmosphérique), par étude et par 
+entreprise 
+
+
+44 
+
+GES : Groupe d'Exposition Similaire ; n : nombre de mesures ; p25 : 25ème percentile ; p75 : 
+75ème percentile. Le pourcentage de Cr VI a été calculé uniquement lorsque les concentrations 
+en Cr VI soluble, insoluble ou total étaient quantifiés ou calculés (Cr VI total = Cr VI soluble + Cr 
+VI insoluble), et lorsqu'il était possible de reconstituer la concentration en Cr total (Cr total = Cr VI 
+soluble + Cr VI insoluble + Cr non VI) ou qu'elle était mesurée et quantifiée 
+
+Tableau 30 Pourcentage de chrome 6 atmosphérique (par rapport au chrome 
+total atmosphérique), par étude et par GES 
+
+Relation entre les concentrations urinaires et les concentrations 
+atmosphériques en chrome -Comparaison avec la littérature 
+
+Comme cela a été dit précédemment, il n'est pas possible de connaître la part de chrome urinaire 
+correspondant à une exposition spécifique au chrome VI. Il est cependant légitime de se demander si 
+
+la chromurie reflète l'exposition au chrome VI atmosphérique, compte tenu de sa toxicité. 
+
+Si l'on veut étudier la relation entre les chromuries et les concentrations atmosphériques 
+
+correspondantes, à partir des données issues des études décrites précédemment, il apparaît essentiel 
+
+de connaître les concentrations atmosphériques en chrome VI, soluble et/ou insoluble. Toutes les 
+études pour lesquelles il existe des mesures de concentration en chrome VI et non VI, à savoir les 
+
+études 1, 2, 3 et 5, pourraient ainsi permettre l'analyse d'une telle relation. Il sera en effet intéressant 
+d'expliquer à l'aide d'une régression linéaire multiple les concentrations urinaires en chrome en 
+
+fonction des différents types de chrome atmosphérique (VI ou non VI). Cela permettrait d'objectiver le 
+type de chrome atmosphérique (VI ou non VI) qui impacterait le plus la chromurie. 
+
+Dans la littérature scientifique, des études de terrain ont été réalisées dans différents secteurs 
+
+d'activités, et rapportent des mesures de concentrations atmosphériques en Cr VI en relation avec 
+des concentrations de chrome dans les urines (22-31). Le tableau 31 en fait la synthèse. 
+
+
+45 
+
+NC : Non Communiqué-NE : Non Etablie : la relation chrome urinaire vs chrome VI atmosphérique n'a pas été réalisée 
+
+Tableau 31 Etudes de la littérature rapportant des mesures de concentrations atmosphériques en Cr VI en 
+relation avec des concentrations de chrome dans les urines 
+
+L'ANSES, dans son dernier rapport concernant « L'évaluation des indicateurs biologiques d'exposition 
+et recommandation de valeurs biologiques pour le chrome VI et ses composés » (8), a réalisé une 
+
+analyse de l'ensemble des études reportées dans le tableau 31 (22-31). En s'appuyant sur l'analyse 
+de deux études, Lindberg et al. (28) et Chen et al. (30), elle a établi une nouvelle valeur limite 
+
+biologique pour le chrome urinaire, dans le secteur du chromage, pour des expositions au chrome VI 
+et à ses composés : 1,8 µg/g créatinine, pour des prélèvements en fin de poste et fin de semaine. 
+
+L'analyse de la relation entre les concentrations urinaires en chrome et les concentrations 
+
+atmosphériques en chrome (VI et non VI) des études précédemment citées viendra ainsi compléter la 
+synthèse établie par l'ANSES (étude 5), et apporter de nouvelles connaissances relatives à 
+
+l'exposition professionnelle au chrome dans d'autres secteurs d'activité que celui du chromage. 
+
+REMERCIEMENTS 
+
+Toutes ces études sont le fruit d'un très long travail d'investigation, de préparation, de développement 
+analytique, de recueils d'échantillons, d'analyses et d'interprétations. De nombreuses personnes y ont 
+
+contribué. Ainsi, nous tenons à remercier pour leur investissement Francis Pierre, François Baruthio, 
+Xavier Sentenac, Anne-Marie Lambert-Xolin, Nathalie Moitessier, Chantal Cour, Patrick Biette, Benoît 
+
+Rieger, Samuel Muller, Guillaume Antoine, Mathieu Melczer, Philippe Marsan, François Diebold, 
+
+Geneviève Hubert, Jean-Marie Gerber, Jérôme Grosjean, Jean-Marie Elcabache, Virginie Matera et 
+Nathalie Carabin. 
+
+
+46 
+
+BIBLIOGRAPHIE 
+
+1. 
+INERIS. Données technico-économiques sur les substances chimiques en France : Chrome 
+et ses composés. 2014. Contract No.: DRC-14-136881-07003A. 
+2. 
+ATSDR. TOXICOLOGICAL PROFILE FOR CHROMIUM Agency for Toxic Substances and Disease 
+Registry, U.S. Department of Health and Human Services, Public Health Service; 2012. 
+3. 
+Organization WH. Guidelines for Drinking-water Quality. 2011. 
+4. 
+ANSES. Avis relatif à l'évaluation des risques sanitaires liés aux dépassements de la limite de 
+qualité du chrome dans les eaux destinées à la consommation humaine Maisons-Alfort: Agence 
+nationale de sécurité sanitaire de l'alimentation, de l'environnement et du travail; 2012. 
+5. 
+Costa M, Klein CB. Toxicity and carcinogenicity of chromium compounds in humans. Crit Rev 
+Toxicol. 2006;36(2):155-63. 
+6. 
+US-EPA. Toxicologival review of hexavalent chromium. Environmental protection Agency. 
+Washington, DC; 1998. 
+7. 
+IARC. IARC Monographs on the Evaluation of Carcinogenic Risks to Humans: World Health 
+Organization; 2012. 
+8. 
+ANSES. Evaluation des indicateurs biologiques d'exposition en vue de la construction de 
+valeurs limites biologiques et la recommandation de valeurs biologiques de référence pour le chrome 
+hexavalent et ses composés. Maisons-Alfort: Agence nationale de sécurité sanitaire de l'alimentation, 
+de l'environnement et du travail; 2017. 
+9. 
+ANSES. Evaluation des effets sur la santé et des méthodes de mesure des niveaux 
+d'exposition sur le lieu de travail pour les composés du chrome hexavalent. Maisons-Alfort: Agence 
+nationale de sécurité sanitaire de l'alimentation, de l'environnement et du travail; 2010. 
+10. 
+Fréry N SA, Garnier R et al. Exposition de la population française aux substances chimiques de 
+l'environnement-Tome 1. Saint Maurice: Institut de veille sanitaire; 2011. 151 p. p. 
+11. 
+ACGIH. ACGIH 2015 . TLV's and BEI's Based on the Documentation of the Threshold Limit 
+Values for Chemical Substances and Physical Agents and Biological Exposure Indices2015. 
+12. 
+ACGIH. Threshold Limit Values for Chemical Substances and Physical Agents and Biological 
+Exposure Indices. Hygienists ACoGI, editor. Cincinnati, Ohio: ACGIH; 2008. 
+13. 
+INRS. Indices biologiques d'exposition, Principes de base et valeurs-guides utilisables en 
+France Cahiers de notes documentaires-Hygiene et sécurité au travail. 1997;169:589-95. 
+14. 
+INRS. Prélèvement des aérosols par cassette fermée. 2015. 
+15. 
+NF X43-257 -Air des lieux de travail -Qualité de l'air -Prélèvement d'aérosol à l'aide d'une 
+cassette (orifice 4 mm), (2008). 
+16. 
+INRS. METROPOL -Métaux et métalloïdes M-124. 2016:6 p. 
+17. 
+DEMANGE. Document de travail n°297.047/MD. INRS; Février 1988. 
+18. 
+NIOSH. Manual of analytical methods -Chromium hexavalent (Method 7 600). Washington 
+DC (USA); 1985. 
+19. 
+INRS. METROPOL fiche 084 -Chrome hexavalent. Spéciation du chrome. 2004. 
+20. 
+INRS. METROPOL-Chrome VI M-43. 2017. 
+21. 
+Pierre F, Diebold F, Baruthio F. Biomonitoring of two types of chromium exposure in an 
+electroplating shop. International archives of occupational and environmental health. 
+2008;81(3):321-9. 
+22. 
+Tola S, Kilpio J, Virtamo M, Haapa K. Urinary chromium as an indicator of the exposure of 
+welders to chromium. Scand J Work Environ Health. 1977;3(4):192-202. 
+
+
+47 
+
+23. 
+Mutti A, Cavatorta A, Borghi L. Distribution and urinary excretion of chromium: Studies on 
+rats after administration of single and repeated doses of potassium dichromate. Med Lav. 
+1979;3:171-9. 
+24. 
+Rahkonen E, Junttila M-L, Kalliomäki PL, Olkinouora M, Koponen M, Kalliomäki K. Evaluation 
+of biological monitoring among stainless steel welders. International Archives of Occupational and 
+Environmental Health. 1983;52(3):243-55. 
+25. 
+Angerer J, Amin W, Heinrich-Ramm R, Szadkowski D, Lehnert G. Occupational chronic 
+exposure to metals. International Archives of Occupational and Environmental Health. 
+1987;59(5):503-12. 
+26. 
+Edme JL, Shirali P, Mereau M, Sobaszek A, Boulenguez C, Diebold F, et al. Assessment of 
+biological chromium among stainless steel and mild steel welders in relation to welding processes. 
+Int Arch Occup Environ Health. 1997;70(4):237-42. 
+27. 
+Gianello G, Masci O, Carelli G, Vinci F, Castellino N. Occupational exposure to chromium--an 
+assessment of environmental pollution levels and biological monitoring of exposed workers. 
+Industrial health. 1998;36(1):74-7. 
+28. 
+Lindberg E, Vesterberg O. Monitoring exposure to chromic acid in chromeplating by 
+measuring chromium in urine. Scandinavian journal of work, environment &amp; health. 1983;9(4):333-
+40. 
+29. 
+Benova D, Hadjidekova V, Hristova R, Nikolova T, Boulanova M, Georgieva I, et al. Cytogenetic 
+effects of hexavalent chromium in Bulgarian chromium platers. Mutation research. 2002;514(1-2):29-
+38. 
+30. 
+Chen JL, Guo YL, Tsai PJ, Su LF. Use of inhalable Cr+6 exposures to characterize urinary 
+chromium concentrations in plating industry workers. Journal of Occupational Health. 2002;44(1):46-
+52. 
+31. 
+Mutti A, Pedroni C, Arfini G, Franchini I, Minoia C, Micoli G, et al. Biological monitoring of 
+occupational exposure to different chromium compounds at various valency states. International 
+journal of environmental analytical chemistry. 1984;17(1):35-41. 
+
+
+48 
+
+ANNEXE 
+
+* Les données des protocoles courts des entreprises L à V ont été regroupées. n : nombre de mesures ; p25 : 25ème percentile ; p75 : 
+75ème percentile ; MG : moyenne géométrique ; GSD: écart-type géométrique ; LQ : limite de quantification ; &lt; : concentrations inférieures 
+à la LQ. Les moyennes et écart-types géométriques (MG et GSD) tiennent compte des valeurs inférieures à la LQ, et ont été calculés à 
+l'aide d'un modèle de régression tobit. En gris : MG et GSD non calculables ou non interprétables car trop de valeurs sous la LQ. Les 
+calculs ont été réalisés sur la base des recueils urinaires dont la concentration en créatinine était supérieure à 0.5 g/L et inférieure à 3 g/L. 
+
+Tableau 32 Description des recueils urinaires et de leur concentration en chrome (en µg/g créatinine), par étude 
+et par entreprise 
+
+
+49 
+
+GES : Groupe d'Exposition Similaire ; n : nombre de mesures ; p25: 25ème percentile ; p75 : 75ème percentile ; MG : moyenne géométrique ; GSD 
+: écart-type géométrique ; LQ : limite de quantification ; &lt; : concentrations inférieures à la LQ. Les moyennes et écart-types géométriques (MG et 
+GSD) tiennent compte des valeurs inférieures à la LQ, et ont été calculés à l'aide d'un modèle de régression tobit. En gris : MG et GSD non 
+calculables ou non interprétables car trop de valeurs sous la LQ. Les calculs ont été réalisés sur la base des recueils urinaires dont la concentration 
+en créatinine était supérieure à 0.5 g/L et inférieure à 3 g/L. 
+
+Tableau 33 Description des recueils urinaires et de leur concentration en chrome (en µg/g créatinine), par étude et par 
+GES 
+
+
+
+	
+

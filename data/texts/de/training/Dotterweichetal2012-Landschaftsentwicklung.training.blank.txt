@@ -1,0 +1,1772 @@
+
+Landschaftsentwicklung seit der Römerzeit im 
+westlichen Segbachtal bei Mayen (Lkr. Mayen-Koblenz) 
+in der Osteifel. Erste Teilprojektergebnisse des 
+DFG-Projekts "Zur Landnutzung im Umfeld eines 
+römischen Industriereviers" 
+
+Markus Dotterweich, Stefan Wenzel, Rainer Schreg 
+
+To cite this version: 
+
+Markus Dotterweich, Stefan Wenzel, Rainer Schreg. Landschaftsentwicklung seit der Römerzeit im 
+westlichen Segbachtal bei Mayen (Lkr. Mayen-Koblenz) in der Osteifel. Erste Teilprojektergebnisse 
+des DFG-Projekts "Zur Landnutzung im Umfeld eines römischen Industriereviers". Römische Land-
+nutzung in der Eifel. Neue Ausgrabungen und Forschungen. Tagung in Mayen, vom 3. bis zum 6. 
+November 2011, Nov 2011, Mayen, Germany. hal-02182703 
+
+
+Sonderdruck 
+
+rGZM -TaGunGen Band 16 
+
+Martin Grünewald • Stefan Wenzel (Hrsg.) 
+
+röMiSche LandnuTZunG in der eifeL 
+
+neue auSGrabunGen und forSchunGen 
+
+Tagung in Mayen, vom 3. bis zum 6. November 2011 
+
+römisch-Germanisches Zentralmuseum 
+Forschungsinstitut für Archäologie 
+
+Verlag des Römisch-Germanischen Zentralmuseums Mainz 2012 
+
+
+Redaktion: Martin Grünewald, Claudia Nickel, Marie Röder, 
+Stefan Wenzel (RGZM) 
+Satz: Dieter Imhäuser, Hofheim a. T. 
+Umschlaggestaltung: Reinhard Köster (RGZM) 
+
+Bibliografische Information 
+der Deutschen Nationalbibliothek 
+
+Die Deutsche Nationalbibliothek verzeichnet diese Publikation in 
+der Deutschen Nationalbibliografie: Detaillierte bibliografische 
+Daten sind im Internet über http://dnb.d-nb.de abrufbar. 
+
+ISBN 978-3-88467-208-2 
+ISNN 1862-4812 
+
+© 2012 Verlag des Römisch-Germanischen Zentralmuseums 
+
+Das Werk ist urheberrechtlich geschützt. Die dadurch begründeten 
+Rechte, insbesondere die der Übersetzung, des Nachdrucks, der 
+Entnahme von Abbildungen, der Funk-und Fernsehsendung, der 
+Wiedergabe auf fotomechanischem (Fotokopie, Microkopie) oder 
+ähnlichem Wege und der Speicherung in Datenverarbeitungs-
+anlagen, Ton-und Bildträgern bleiben, auch bei nur auszugsweiser 
+Verwertung, vorbehalten. Die Vergütungsansprüche des 
+ §54, Abs.2, UrhG. werden durch die Verwertungsgesellschaft 
+Wort wahrgenommen. 
+
+Herstellung: Strauss GmbH, Mörlenbach 
+Printed in Germany. 
+
+Die Tagung wurde gefördert von 
+
+Veranstaltet in Kooperation von 
+
+
+III 
+
+INhalt 
+
+Axel von Berg • Thomas Fischer • Holger Schaaff 
+Vorwort . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . IX 
+
+Fritz Mangartz 
+Römerzeitliche Mühlsteinproduktion in den Grubenfeldern des Bellerberg-Vulkans 
+bei Mayen (Lkr. Mayen-Koblenz) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 1 
+
+Tatjana Gluhak • Jutta Geisweid • Wenxing Xu 
+Mineralogische Untersuchungen von Basalt, Tuff und Keramik als Erkenntnismittel 
+für römische Landnutzung und Wirtschaftsstrukturen . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 
+
+Bernd C. Oesterwind 
+Spätlatènezeit und frühe Römische Kaiserzeit in und um Mayen (Lkr. Mayen-Koblenz) . . . . . . . . . . . . . 
+
+Elena Köstner 
+Stadt, Land, Fluss: rechtliche Aspekte der Landnutzung in der Eifel nach dem Gallischen Krieg . . . . . . . 
+
+Antonia M. Glauben 
+Der vicus von Mayen (Lkr. Mayen-Koblenz). Alte Grabungen und neue Forschungen . . . . . . . . . . . . . . . 
+
+Angelika Hunold 
+Mayen und der Katzenberg (Lkr. Mayen-Koblenz). Spätrömische Höhenbefestigungen 
+als Elemente der Landnutzung . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 
+
+Lutz Grunwald 
+Die römischen und frühmittelalterlichen Töpfereien von Mayen (Lkr. Mayen-Koblenz). 
+Eine zwischenzeitliche Standortbestimmung . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 111 
+
+Stefan Wenzel 
+Villa und burgus von Obermendig »Im Winkel« (Lkr. Mayen-Koblenz) im Kontext 
+der römischen Besiedlung des Segbachtals . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 131 
+
+Martin Grünewald 
+Reiche Steinbruchbesitzer? Die villa in Axialhofanlage von »Lungenkärchen« 
+bei Mendig (Lkr. Mayen-Koblenz) im Kontext der römischen Landnutzung . . . . . . . . . . . . . . . . . . . . . 159 
+
+Markus Dotterweich • Stefan Wenzel • Rainer Schreg 
+Landschaftsentwicklung seit der Römerzeit im westlichen Segbachtal bei Mayen 
+(Lkr. Mayen-Koblenz) in der Osteifel. Erste Teilprojektergebnisse des DFG-Projekts 
+»Zur Landnutzung im Umfeld eines römischen Industriereviers« . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 181 
+
+
+IV 
+
+Tanja Zerl 
+Ein Getreidevorrat aus dem spätantiken burgus »Im Winkel« 
+bei Obermendig (Lkr. Mayen-Koblenz) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 
+
+Lothar Bakker 
+Rädchenverzierte Argonnensigillata aus Mendig und Thür (Lkr. Mayen-Koblenz) . . . . . . . . . . . . . . . . . 
+
+Jérémie Chameroy 
+Fundmünzen aus Mendig (Lkr. Mayen-Koblenz) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 
+
+Viktoria Baur 
+Die ländliche Besiedlung im Umfeld der Basaltsteinbrüche und des vicus 
+von Mayen (Lkr. Mayen-Koblenz) in römischer Zeit . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 
+
+Ricarda Giljohann 
+Zur ländlichen Besiedlung im Umland der Tuffbergwerke zwischen Andernach und Mayen 
+(Lkr. Mayen-Koblenz) in römischer Zeit. Ein Vorbericht zur Besiedlungsentwicklung 
+in einer antiken Industrielandschaft . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 
+
+Sibylle Friedrich 
+Die römischen Töpfereien von Weißenthurm am Rhein (Lkr. Mayen-Koblenz) und ihr Umland . . . . . . . 
+
+Salvatore Ortisi 
+Der vicus bei Nettersheim (Kr. Euskirchen) und die römische Besiedlung des oberen Urfttals . . . . . . . . 
+
+Klaus Grewe 
+Rohstoff Wasser -die Eifel als Wasserversorger der CCAA. Neue Forschungsergebnisse 
+zum Aquäduktbau im Rheinland . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 
+
+Eveline Saal 
+Neue Ausgrabungen an der römischen villa mit Eisenverhüttung »An den Maaren« 
+in Bad Neuenahr-Ahrweiler (Lkr. Ahrweiler) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 
+
+Achim H. Schmidt 
+Die »Bunte Kuh« -ein spätrömischer Siedlungsplatz bei Bad Neuenahr-Ahrweiler (Lkr. Ahrweiler) . . . . 
+
+Hans Nortmann 
+Zu den eisenzeitlichen Wurzeln römischer Besiedlung im westlichen Treverergebiet . . . . . . . . . . . . . . . 
+
+Peter Henrich • Carsten Mischka 
+Römische Villen in der westlichen Vulkaneifel. Untersuchungen zur regionalen Raumplanung . . . . . . . 
+
+Bernd Bienert 
+Eifelkeramik -Dependance Speicher / Herforst (Eifelkreis Bitburg-Prüm). 
+Zum gegenwärtigen Forschungsstand zu den römischen Großtöpfereien in der Südeifel . . . . . . . . . . . 
+
+
+V 
+
+Michiel Gazenbeek • Jean-Denis Laffite 
+L'archéologie du paysage antique en Lorraine. Recherches récentes . . . . . . . . . . . . . . . . . . . . . . . . . . . 
+
+Jean-Paul Petit 
+La micro-région de Bliesbruck-Reinheim (dép. Moselle / F; Saarland / D) 
+à l'époque romaine. État des recherches . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 
+
+Raymond Brulet 
+La diffusion de la céramique de l'Eifel au Bas-Empire dans l'ouest des provinces 
+de Germanie et de Belgique Seconde . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 
+
+Paul Van Ossel 
+Landnutzung und Rohstoffvorkommen: die spätrömischen Sigillata-Produktionen 
+im Pays de France, zwischen Paris und Meaux . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 
+
+Verzeichnis der Autorinnen und Autoren . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 
+
+
+
+181 
+
+Römische Landnutzung in der Eifel 
+
+MaRkus DottERwEich • stEfan wEnzEL • RainER schREg 
+
+LandschaftsentwickLung seit der römerzeit 
+
+im westLichen segbachtaL bei mayen 
+
+(Lkr. mayen-kobLenz) in der osteifeL 
+
+ERstE tEiLpRojEktERgEbnissE DEs Dfg-pRojEkts »zuR LanDnutzung 
+
+iM uMfELD EinEs RöMischEn inDustRiEREviERs« 
+
+in Mitteleuropa setzte mit der neolithisierung eine zunehmende Rodung der wälder ein. Die umwandlung 
+von wald zu ackerland führte zu einem anstieg der grundwasserspiegel aufgrund der reduzierten Evapo-
+transpiration sowie zu einer zunehmenden bodenerosion. Mit dem abtrag des oberbodens ging, je nach un-
+tergrund und Erosionsintensität, eine schleichende oder rapide verschlechterung der bodenfruchtbarkeit ein-
+her. zudem ließen sich die flächen meist deutlich schwerer bearbeiten, da der unterboden mit aufgearbeitet 
+werden musste. Das abgetragene Material lagerte sich an den unterhängen als kolluvien und in den tälern 
+als auensedimente ab und führte dort ebenfalls zu beeinträchtigungen. Extreme starkniederschläge konnten 
+nicht nur die Ernten vernichten, sondern auch zu einer rapiden und langfristig wirkenden verschlechterung 
+der bodennutzungspotenziale führen. Die folgen für den Menschen konnten z. t. dramatisch sein -bis hin 
+zur aufgabe agrarischer Landnutzung in einzelnen Landstrichen (bork u. a. 1998; Dotterweich 2008). 
+Die als folge der Landnutzung entstandenen Erosionsformen, hangkolluvien und auensedimente bieten 
+jedoch ein ideales geoarchiv, um diese wechselseitig wirkenden transformationen zwischen den natürlichen 
+und überwiegend anthropogenen systemen auf verschiedenen zeitlichen skalen (tage bis jahrtausende) 
+und räumlichen ausdehnungen (hang-bis flusseinzugsgebiet) zu rekonstruieren. Dieses potenzial zur ana-
+lyse der langfristigen Mensch-umwelt-interaktionen wurde in den letzten jahren durch eine zunehmende 
+anzahl von interdisziplinären forschungsarbeiten weltweit erkannt 1 . für Mitteleuropa lässt sich nach dem 
+derzeitigen forschungsstand sagen, dass ein auftreten von bodenerosionsereignissen sehr eng an die loka-
+len Landnutzungssituationen gebunden ist. so spielen bedeckung, feldstruktur und feldgröße, aber auch 
+Relief und geologie wichtige Rollen. Das klima hat hingegen innerhalb des holozäns einen untergeordne-
+ten Einfluss. Allerdings zeigt sich, dass in Perioden mit Klimaumschwüngen ein gehäuftes Auftreten von 
+Starkregenereignissen stattfindet und diese bei einer entsprechend intensiven Landnutzung durch verstärk-
+te bodenerosion wahrnehmbar sind. aus zahlreichen untersuchungen ist es mittlerweile möglich, verglei-
+chende aussagen zum ausmaß der bodenerosion für bestimmte zeitabschnitte der letzten 1000 jahre zu 
+treffen. So konnte gezeigt werden, dass in der ersten Hälfte des 14. Jahrhunderts, in der Übergangsphase 
+vom mittelalterlichen wärmeoptimum zur kleinen Eiszeit, extreme bodenerosionsereignisse mit massiven 
+folgen für die damalige bevölkerung auftraten. Eine zweite phase starker bodenerosion fand ab der Mitte 
+des 18. bis Anfang des 19. Jahrhunderts statt, als wieder eine klimatische Erwärmung eintrat (Bork u. a. 
+1998; bork u. a. 2006; Dotterweich / bork 2007; Dreibrodt u. a. 2010b). 
+Die wenigen studien, die den vormittelalterlichen zeitraum abdecken, sind zeitlich sehr breit gestreut und 
+reichen bisher nicht aus, um verallgemeinernde aussagen zum auftreten von bodenerosion und deren 
+ursachen zu treffen 2 . insbesondere für den zeitraum der Römischen kaiserzeit werden oft lediglich ver-
+mutungen angestellt und es gibt es nur sehr wenige arbeiten, aus denen sich quantitative oder qualitativ 
+vergleichende aussagen zum ausmaß der bodenerosion entnehmen lassen. Einige studien zeigen moderate 
+
+
+182 
+
+m. dotterweich u. a. • Landschaftsentwicklung seit der Römerzeit im westlichen segbachtal 
+
+bis extreme bodenerosion, wie z. b. für den trierer Raum (Löhr 1998) oder in den Lössgebieten im kraichgau 
+(Lang / hönscheidt 2000) und bei Leuven in belgien (vanwalleghem u. a. 2006; Rommens u. a. 2007). auch 
+in seesedimenten am holzmaar in der Eifel konnte für die Römische kaiserzeit ein verstärkter Eintrag von bo-
+densedimenten nachgewiesen werden (zolitschka 1998). jenseits des Limes wurden an einem hangstandort 
+in einer flussaue bei bamberg (Dotterweich u. a. 2003) und in der bruchschollenlandschaft bei kronach 
+in oberfranken (Dotterweich / haberstroh / bork 2003) hingegen nur geringe bodenabträge dokumentiert, 
+allerdings mit auffälligen einzelnen Extremereignissen. Auch an weiteren Hangprofilen, Seesedimenten und 
+flussauen in Deutschland lassen sich für die Römische kaiserzeit tendenziell geringere bodenerosionsprozes-
+se in den jeweiligen Einzugsgebieten ableiten, obwohl die bevölkerungsdichte in dieser zeit stark expandiert. 
+auch zeigen sich keine deutlichen unterschiede zwischen süd-und norddeutschland (Dreibrodt u. a. 2010b; 
+Dotterweich / Dreibrodt 2011) bzw. innerhalb und außerhalb der römischen provinzen nördlich der alpen. 
+Die bisher vorliegenden Daten ergeben somit für die Römische kaiserzeit kein einheitliches bild. angesichts 
+der den Römern gerne zugeschriebenen -und auch im archäologisch fassbaren siedlungsbild, in palynolo-
+gischen forschungen und dendrologischen untersuchungen ablesbaren -z. t. sehr intensiven Landnutzung 
+sind die teils eher geringen Erosionsraten auffallend. Das wirft die frage auf, ob und warum die römische 
+Landwirtschaft teilweise relativ geringe auswirkungen auf die Erosion hatte. war die römische Landwirt-
+schaft trotz eines starken bevölkerungsanstiegs und einer urbanisierung also weniger intensiv als gedacht 
+oder ausgesprochen »nachhaltig«? oder ist im gegenteil ein Raubbau an wald und boden gar ein faktor, 
+der zum niedergang römischer kultur und Lebensweise beigetragen hat? Die these umfangreicher römi-
+scher Rodungen ist schon früh geäußert worden; sie bezog sich indes weniger auf die landwirtschaftliche 
+nutzung als vielmehr auf den großen holzbedarf römischer städte, gewerbe und insbesondere der zahlrei-
+chen heizanlagen in wohnhäusern und bädern (z. b. paret 1932, 149). Der amerikanische geologe David 
+Montgomery hat in einer synthese der geschichte des bodens auf die antike bodendegradation im Mittel-
+meerraum verwiesen, dabei aber festgestellt, dass in Mitteleuropa die römische Landwirtschaft im wesent-
+lichen auf die tallandschaften beschränkt gewesen sei, da die versorgung des dicht besiedelten Mittelmeer-
+raumes aus den kornkammern Ägyptens und nordafrikas erfolgt sei (Montgomery 2010). allerdings waren 
+auch von den germanischen und gallischen provinzen aus große städte zu versorgen (Eck 2004, 415 ff.), 
+wobei aber tatsächlich einige Landschaften wie die westliche hocheifel nach heutigem forschungsstand 
+wenig besiedelt gewesen zu sein scheinen (henrich 2006, 102). 
+beide thesen -die der römischen umweltkrise (becker 1992; kuhnen 2007) wie die einer verhältnismäßig 
+schonenden Landwirtschaft, wie sie von den römischen agrarschriftstellern empfohlen wurde (savio 2011) 
+-sind zu diskutieren. Möglicherweise aber liegen regionale unterschiede vor. feldstrukturen und bewirt-
+schaftungsweisen scheinen, abhängig von den landschaftlichen gegebenheiten, den besitzstrukturen und 
+den anbautraditionen, auch innerhalb der provinzen deutlich stärker zu variieren als bisher angenommen. 
+Eine starke Reduzierung oder verhinderung der bodenerosion könnte z. b. durch kleinräumige feldstruktu-
+ren mit steinriegeln erreicht werden, wie dies z. b. in den Mittelgebirgen bis in die neuzeit noch üblich war 
+und es sich in frankreich, aber auch in der Eifel und speziell für die römische zeit wahrscheinlich machen 
+lässt (georges-Leroy / bock / Dupouey 2009; goguey u. a. 2010; seel 1963). in Lössgebieten könnten andere 
+strukturen wie hecken oder bestimmte feld-wiesen-wirtschaftsweisen die bodenerosion deutlich eindäm-
+men. zur klärung dieser frage fehlt es in Deutschland jedoch an kenntnissen über römische flursysteme. 
+Dabei sind weniger die Limitationssysteme, als vielmehr die einzelnen Nutzflächen von Bedeutung. Gerade 
+aus der Eifel sind einige Altflurrelikte bekannt, die man der römischen Zeit zugewiesen hat (Seel 1963; 
+haversath 1984). insgesamt mangelt es jedoch an ausreichenden und gut datierten befunden, aus denen 
+sich Aussagen zu den regions-, besitz-und anbauspezifischen Landnutzungsstrukturen und dem Landnut-
+zungsmanagement während der Römischen kaiserzeit in Mitteleuropa ableiten lassen. 
+
+
+183 
+
+Römische Landnutzung in der Eifel 
+
+im umland von Mayen ist für den zeitraum der Römischen kaiserzeit aufgrund des damaligen immensen 
+produktionsvolumens von Mühlsteinen und einer umfangreichen keramikproduktion mit einer intensiven 
+Landnutzung zu rechnen. Das nur wenige Quadratkilometer große segbachtal bietet hier ein besonderes 
+geoarchäologisches archiv, da dort die römischen Landnutzungsstrukturen über sedimenten aus der spät-
+latènezeit noch sehr gut unter einem ca. 2 m mächtigen sedimentpaket erhalten sind. zudem sind an den 
+Hängen des Segbachtales zahlreiche Altflurrelikte zu erkennen: An mehreren Stellen finden sich alte Hang-
+terrassierungen, auf gemarkung kottenheim wohl mittelalterliche oder frühneuzeitliche wölbäcker, sowie 
+»Im Winkel« eine Blockwallflur. In dieser Arbeit soll daher der Frage nachgegangen werden, in welchem 
+Maße der Mensch seit der Spätlatènezeit die Wasser-und Stoffdynamik im Segbachtal beeinflusste und 
+welche informationen sich daraus zur landnutzungsbedingten und klimaabhängigen boden-und Reliefent-
+wicklung seit der Römischen kaiserzeit ableiten lassen. 
+Methodisch soll das mit folgenden Schritten erreicht werden: (1) Identifizierung und stratigraphische 
+aufnahme von kolluvien, alluvialen sedimenten, begrabenen böden und archäologischen befunden, (2) 
+chemische und physikalische analyse der boden-und sedimenteigenschaften, (3) altersbestimmung der 
+sedimente und böden mittels stratigraphischer und archäologischer korrelationen sowie anhand von osL-
+und 14 C-Datierungen und (4) Quantifizierung der Bodenerosion anhand der kolluvialen Sedimente. Die 
+so gesammelten informationen dienen dazu, (i) sowohl die räumlichen ausmaße vorgeschichtlicher und 
+historischer bodenerosion abzuschätzen und zu vergleichen, als auch die kurz-und Langzeitwirkungen gra-
+dueller bodenerosion den Extremereignissen hinsichtlich pedologischer und geomorphologischer aspekte 
+gegenüberzustellen, (ii) die wechselwirkungen zwischen bodenerosion und Landnutzungsänderungen in 
+vorgeschichtlicher und historischer zeit zu beurteilen, und (iii) die Langzeiteffekte von bodenerosion und 
+sedimentation in bezug auf den Erhalt von archäologischen befunden einzuschätzen. 
+in diesem beitrag werden die ersten Ergebnisse zum standort »im winkel« aus dem Dfg-projekt »zur 
+Landnutzung im umfeld eines römischen industriereviers« vorgestellt. Die Datenerfassung und auswertung 
+erfolgten während des ersten projektzeitraums von april 2010 bis März 2012. 
+
+Abb. 1 Übersicht über das Arbeitsgebiet Mendig, »Im Winkel«. -(Kartengrundlage TK 25 ©GeoBasis-DE/LVermGeoRP2012-06-12). 
+
+
+184 
+
+m. dotterweich u. a. • Landschaftsentwicklung seit der Römerzeit im westlichen segbachtal 
+
+naturraum und archäoLogischer kontext 
+
+am standort »im winkel« hat das tal des in nordöstlich bis östliche Richtung verlaufenden segbaches eine 
+etwa 100-150 m breite talsohle, die heute überwiegend als grünland genutzt wird (Abb. 1). im untergrund 
+stehen hier ton-und siltsteine aus dem unterdevon an, die an den hängen mit periglazialen schuttmassen 
+aus sandigem Lehm und in der talaue mit lehmigen auensedimenten überdeckt sind (ahrens 1936). im La-
+serscan sind im südlichen bereich deutlich die ehemaligen basaltsteinbrüche von kottenheim zu erkennen, 
+die noch bis zur Mitte der 1950er jahre genutzt wurden (Abb. 2). Im nördlichen Bereich befindet sich der 
+hochstein, ein alter vulkankegel, dessen hänge mit zahlreichen hohlwegspuren durchzogen sind. beide 
+flächen sind heute bewaldet. im westlichen bereich erstreckt sich das Quellgebiet des segbaches, das bis in 
+den heutigen ort Ettringen hineinreicht. 
+im zentrum des arbeitsraumes liegt der burgus, ein befestigter Kornspeicher des 4.-5. Jahrhunderts (Man-
+gartz 2008; beitrag wenzel in diesem band), auf einem kleinen bewaldeten hügel aus devonischem schiefer 
+von etwa 8 m höhe und einem Durchmesser von etwa 50 m (Abb. 3). Die umliegenden hänge des segbach-
+tales haben eine neigung von bis zu 20°, wobei die nordwestlichen hänge deutlich stärker geneigt sind. 
+auffällig sind verschiedene strukturen, wie z. b. flurrelikte mit steinriegeln im waldgebiet südöstlich des bur-
+gus und ein mögliches Rückhaltebecken 80 m westlich des burgus (Abb. 3). Letzteres liegt in einem kleinen 
+nebental, nimmt eine fläche von ca. 2500 m 2 ein und endet mit einer deutlichen stufe am waldrand, über die 
+in jüngerer zeit indes anscheinend ein waldweg führte. Diese struktur ähnelt sehr stark der eines wasserrück-
+haltebeckens oder eines ehemaligen fischteiches und ist heute wieder vollständig mit sedimenten verfüllt. 
+geländebegehungen und geophysikalische voruntersuchungen entlang des segbachtales zeigten, dass im 
+bereich zwischen dem römerzeitlichen burgus und dem segbach zahlreiche befunde aus der Römerzeit 
+vorhanden sind 3 , die mit einer bis zu 2 m mächtigen, alluvialen sedimentschicht oder mit hangsedimenten 
+überdeckt sind. Es handelt sich hierbei um das hauptgebäude einer römischen villa, ein nebengebäude der 
+villa sowie um einen vermutlich spätantiken steinbau und um ein wohl ebenfalls spätantikes Drainagesys-
+tem (Abb. 3). ferner durchqueren einige Mauerzüge das tal. 
+neuzeitliche wasserbauliche Maßnahmen im wassereinzugsgebiet des segbaches führten zu einer bis zu 
+2,5 m tiefen und 5 m breiten Einschneidung des gewässerlaufs, bei der die alluvialen sedimente und teile 
+römerzeitlicher Strukturen freigelegt wurden. Diese Profilwände entlang des Bachverlaufes eignen sich da-
+her hervorragend, um einen Einblick in den aufbau der alluvialen sedimente und den darin konservierten 
+baulichen strukturen zu erhalten. 
+
+Abb. 2 3D-Ansicht vom Oberlauf des Segbachtals mit Blick in westlicher Richtung. -(Laserscandaten ©GeoBasis-DE/LVermGeo-
+Rp2012-06-12). 
+
+
+185 
+
+Römische Landnutzung in der Eifel 
+
+methoden 
+
+Im Rahmen der geoarchäologischen Geländearbeiten wurden entlang des Bachverlaufes vier Profilabschnit-
+te bzw. aufschlüsse (a) und archäologische schnitte (s) mit einer gesamtlänge von ca. 30 m freigelegt, 
+sieben Rammkernbohrungen mit Kunststofflinern (L) und sechs Bohrungen (B) mit einer offenen Ramm-
+kernsonde abgeteuft und untersucht (Abb. 3) 4 . zur vervollständigung wurden noch begehungen entlang 
+des bachverlaufes durchgeführt, bei denen der grobe verlauf der alluvialen schichten verfolgt wurde. 
+so wurden im bereich südöstlich des aufschlusses aM sechs bohrungen abgeteuft (b1-b6), um den verlauf 
+der im Profil sichtbaren Strukturen weiter zu verfolgen. Von besonderem Interesse war dort der Verlauf 
+eines Mauerrestes. Die Liner-bohrungen L6 und L7 wurden abgeteuft, um den alluvialen schichtenaufbau 
+außerhalb des grabenbereiches beschreiben zu können. weitere Liner-bohrungen wurden unmittelbar in 
+der senke nördlich des burgus (L5) und ca. 50 m östlich des burgus durchgeführt (p2-L1 und p2-L2). Das 
+interesse galt dort den vermuteten sedimentstrukturen eines kolluvialen schwemmfächers, der sich über 
+diesen bereich von nordwestlicher seite her erstreckt (Abb. 3). zwei weitere Liner-bohrungen wurden etwa 
+80 m westlich des burgus im Waldgebiet vorgenommen (P4-L1 und P4-L2). An dieser Stelle befindet sich 
+ein ca. 2500 m 2 großer bereich, der in seiner struktur typisch für ein mit sedimenten verfülltes wasser-
+
+Abb. 3 Das arbeitsgebiet Mendig, »im winkel«, mit georadardaten, der Lage der römerzeitlichen bauten sowie der geoarchäologischen 
+Aufschlüsse und Bohrungen. -(Laserscandaten ©GeoBasis-DE/LVermGeoRP2012-06-12). 
+
+
+186 
+
+m. dotterweich u. a. • Landschaftsentwicklung seit der Römerzeit im westlichen segbachtal 
+
+rückhaltebecken ist oder einem ehemaligen fischteich ähnelt. an der östlichen seite wird dieses areal mit 
+einer dammförmigen struktur begrenzt. Mit den bohrungen sollte der aufbau und das alter der sedimente 
+geklärt werden. 
+während der geländearbeiten wurden die freigelegten boden-sedimentfolgen aufgenommen und in ihrem 
+Verlauf auf Millimeterpapier im Maßstab 1:20 dokumentiert. Bodenart, Bodentyp und Struktur wurden 
+nach ad-hoc-ag boden (2005) und die bodenfarbe mittels Munsell color chart nach oyama and takeha-
+ra (2002) klassifiziert. Weiterhin wurden Bodenproben für spätere Laboranalysen entnommen, in Kunst-
+stoffbeuteln verpackt und anschließend an der Luft getrocknet. Ebenso wurde mit den holzkohlen oder 
+holzresten für die holzartenbestimmung und 14 c-Datierungen verfahren. aus schichten mit einem hohen 
+organischen anteil wurden ca. 5 Liter für Makrorestuntersuchungen entnommen und anschließend durch 
+siebe mit einer Maschenweite von 2 und 1 mm gespült. Die artbestimmung erfolgte am institut für vor-
+und frühgeschichte der universität Mainz. Die sedimentproben für die osL-Datierungen wurden mit 20 cm 
+langen Metallrohren (Durchmesser 5 oder 10 cm) aus der Profilwand entnommen und lichtdicht verpackt. 
+Die Einmessung der bodenaufschlüsse und bohrungen erfolgte mit einem Maßband oder tachymetrisch. 
+für die Laboranalysen wurden ausgewählte proben am geolabor der universität Mainz untersucht. zur 
+bestimmung des gesamtkohlenstoffes (c t ) wurde ein vario EL cube Elementar analyser von der firma Ele-
+mentar aus hanau unter verwendung der Din iso 10694 eingesetzt. Da die proben alle frei von karbonaten 
+sind, ist der gesamtkohlenstoff mit dem organischen kohlenstoffgehalten nahezu identisch. zur bestim-
+mung von pb, cu, und zn wurden die proben in hcl/hno 3 nach vDLufa Mb bd.1, kap. 2.4.3.1. aufgelöst 
+und mit einem aas fs 240 variaan gemessen. Die bestimmung der ph-werte erfolgte unter verwendung 
+von cacl und einem ph inoLab 720 nach vDLufa Mb bd.1. Die phosphatgehalte (p 2 o 5 ) wurden mittels 
+der calcium-acetate-Lactate (caL)-Methode nach vDLufa Mb bd.1, a 6.2.1.1 unter verwendung eines 
+unicam 5625 uv/vis spectrometers bestimmt. Die korngrößenbestimmungen erfolgten am geographischen 
+institut der universität zu köln mittels eines Laserdiffraktionspektrometers vom typ beckman coulter Ls 
+200 unter verwendung der Ls 13 320 v. 6.01 software. Die holzartenbestimmung erfolgte nach schwein-
+gruber (1990a; 1990b). Verschiedene Pflanzenreste und Holzkohlen wurden am Institut für Geologie und 
+Mineralogie der universität köln aMs-14 c datiert. Die osL-proben wurden am geographischen institut der 
+humboldt-universität zu berlin datiert. 
+
+ergebnisse der physikaLischen datierungen 
+
+für die chronologische Einordnung der Landschaftsentwicklung wurden unterschiedliche Methoden kombi-
+niert. neben archäologischen Datierungen, die in der Regel auf keramikfunden beruhen, wurden osL-und 
+14 c-Datierungen vorgenommen (Tab. 1-2). bei ihrer interpretation ist zu beachten, dass sie unterschiedliche 
+
+genauigkeiten und auch unterschiedliche zeitpunkte betreffen. keramikdatierung und die an holzkohlen 
+durchgeführten 14 c-Datierungen liefern einen terminus post quem für die bildung der betreffenden schicht, 
+während die osL-Datierungen den zeitpunkt der letzten belichtung der sedimente, in der Regel also den 
+zeitpunkt von deren sedimentation angeben sollten. 
+bisher liegen von den aufschlüssen aM 4 und a1 (s. u.) zwei osL-Datierungen vor (Abb. 5. 10; Tab. 1). Die 
+in den Proben enthaltenen Quarze (90-200 μm) haben insgesamt ungünstige Lumineszenzeigenschaften. 
+Die ausleuchtkurven der meisten aliquots zeigen trotz vollständiger feldspateliminierung nicht den für 
+Quarz typischen schnellen signalabfall. Die niedrigen Lumineszenzintensitäten bereiteten zusätzlich prob-
+leme, ebenso wie die relativ hohe signalerholung ohne vorherige betabestrahlung. um genügend Mess-
+werte zur ED-berechnung (palaeodosis) zu erhalten, mussten daher ca. 50 aliquots pro probe gemessen 
+
+
+187 
+
+Römische Landnutzung in der Eifel 
+
+werden. Zur Kontrolle wurde bei vier Proben die ED zusätzlich an der Quarzfraktion 63-90 μm bestimmt, die 
+bessere Messeigenschaften zeigte. Die abweichungen der Ergebnisse beider korngrößenfraktionen lagen 
+innerhalb der statistischen fehlergrenzen. Das wurde als hinweis auf eine ausreichende zuverlässigkeit der 
+Datierungsergebnisse verstanden. positiv zu werten sind auch die relativ engen ED-verteilungen, die auf 
+eine ausreichende belichtung der proben während des letzten sedimentationszyklus schließen lassen. aus-
+reißer, die außerhalb des intervalls x 
+_ = 4 σ standardabweichung liegen, wurden nicht berücksichtigt. Die in 
+
+Tabelle 1 dargestellten osL-Ergebnisse liegen in einem vertrauensintervall von 1 σ (68,3 %) in bezug auf 
+die paläodosis (ED) 5 . 
+Eine wichtige fehlerquelle bei den osL-Datierungen liegt in den wassergehalten der substrate, die sich 
+reziprok zu den gemessenen Altern bewegen. Üblicherweise geht man davon aus, dass die rezenten Was-
+sergehalte den mittleren wassergehalt seit der ablagerung der sedimente repräsentieren. Liegt der tat-
+sächliche mittlere wassergehalt jedoch über dem rezent gemessenen wassergehalt, führt dies zu einer 
+unterschätzung der alter, d. h., die proben datieren jünger, als sie tatsächlich sind. Die hier dargestellten 
+probenentnahmestellen liegen alle in einem auenbereich, der starken wasserschwankungen unterworfen 
+ist. insbesondere die Einschneidung des segbaches in den letzten jahren dürfte zu einer absenkung der 
+mittleren bodenfeuchte geführt haben. auf der anderen seite wäre es aber auch möglich, dass die heute 
+tief begrabenen und unter dem heutigen mittleren grundwasserspiegel liegenden sedimente in früherer 
+Zeit nahe an der Oberfläche waren und somit über einen langen Zeitraum sehr geringe Wassergehalte 
+aufwiesen. um diesen unsicherheitsfaktor zu berücksichtigen, wurde für die berechnung der osL-alter mit 
+den heute gemessenen und geschätzten mittleren wassergehalten gerechnet. zudem wurde abhängig vom 
+wassergehalt ein unsicherheitsfaktor von ± 4-5 % zugeschlagen (Tab. 1). 
+Die 14 c-alter von samenkapseln (Sambucus nigra), die aus der Schicht 12 des Profils AM (Abb. 5) ge-
+wonnen wurden, datieren in das 3.-4. Jahrhundert (Tab. 2). Eine holzkohle, die nur wenig oberhalb des 
+Versturzes aus Schicht 14 des Profils AM entnommen wurde, wird bereits in das Hochmittelalter gewiesen. 
+alle datierten holzkohlen aus aufschluss a3 datieren in die Römische kaiserzeit. Eine holzkohle, die aus der 
+humosen Schicht 8 kurz oberhalb der vermutlich römerzeitlichen Steinlage im Aufschluss A4 entnommen 
+wurde, datiert in das hochmittelalter. 
+
+Probe 
+Labornr. 
+Wassergehalt 
+[%]* 
+
+DL [Gy/ka]* 
+OSL-Alter [ka]* OSL-Alter 
+[Kalender]* 
+
+iw-aM-osL 8 
+hub-0173 
+15,0 ± 5 
+3,64 ± 0,27 
+2,36 ± 0,17 
+350 ± 170 bc 
+
+Schicht 10 
+25 ± 5 
+3.56 ± 0.26 
+2.59 ± 0.18 
+580 ± 180 BC 
+
+iw-aM-osL 9 
+hub-0174 
+20,9 ± 5 
+3,53 ± 0,26 
+2,34 ± 0,17 
+330 ± 170 bc 
+
+Schicht 11 
+25 ± 5 
+3.35 ± 0.25 
+2.43 ± 0.17 
+420 ± 170 BC 
+
+iw-aM-osL 11 
+hub-0175 
+10,4 ± 4 
+3,64 ± 0,27 
+0,99 ± 0,09 
+1020 ± 90 aD 
+
+Schicht 26 
+20 ± 5 
+3.32 ± 0.25 
+1.09 ± 0.10 
+920 ± 100 AD 
+
+iw-aM-osL 12 
+hub-0176 
+13,3 ± 4 
+3,94 ± 0,28 
+0,87 ± 0,06 
+1140 ± 60 aD 
+
+Schicht 23 
+20 ± 5 
+3.40 ± 0.26 
+0.93 ± 0.07 
+1080 ± 70 AD 
+
+iw-p2-a1-osL 5 
+hub-0171 
+19,4 ± 5 
+3,73 ± 0,27 
+1,06 ± 0,08 
+950 ± 80 aD 
+
+Schicht 5 
+25 ± 5 
+3.30 ± 0.25 
+1.11 ± 0.08 
+900 ± 80 AD 
+
+iw-p2-a1-osL 7 
+hub-0172 
+18,5 ± 5 
+3,55 ± 0,26 
+2,44 ± 0,18 
+430 ± 180 bc 
+
+Schicht 7 
+25 ± 5 
+3.69 ± 0.27 
+2.58 ± 0.18 
+570 ± 180 BC 
+
+*kursive werte mit geschätzten höheren wassergehalten; die osL-alter beziehen sich auf ein 1 σ-intervall der paläodosis. 
+
+Tab. 1 Ergebnisse der osL-Datierungen. 
+
+
+188 
+
+m. dotterweich u. a. • Landschaftsentwicklung seit der Römerzeit im westlichen segbachtal 
+
+ergebnisse 
+
+Der Aufschluss AM (Matronenprofil) ist ca. 6 m lang und schließt die alluvialen Sedimente entlang des Tales 
+bis zu einer tiefe von ca. 1,8 m auf (Abb. 4). Im Profil lassen sich mehr als 100 sandig-tonige bis kiesige Sedi-
+mentlagen erkennen, die hier zu 15 sedimentpaketen zusammengefasst und analysiert wurden (Abb. 5-6). 
+An der Aufschlussbasis herrscht starker Grundwassereinfluss. Dies führt dort zu einer gräulich bis blaugrau-
+en färbung der substrate. besonders auffällig ist der Rest einer Mauer, die hier im Querschnitt zu sehen ist. 
+Diese Mauer ist in den georadarbildern nach nordwesten hin noch auf 50 m Länge zu erkennen (Abb. 7), 
+während sie anscheinend kurz hinter dem Profil in südöstliche Richtung abknickt und zu einer merkwürdi-
+gen »trichterförmigen« struktur führt (Abb. 3), die wir derzeit noch nicht deuten können. 
+Der obere Bereich der Mauer ist verstürzt und die Steine liegen flussabwärts und flussaufwärts auf unter-
+schiedlichem niveau. unterhalb des versturzes differieren die sedimentlagen rechts und links des Mauer-
+restes deutlich. Auf der westlichen Seite (flussaufwärts) sind relativ homogene lehmige Auensedimente 
+aus lehmigen sanden, die teilweise mit gröberem Material durchmischt sind (Abb. 5, schichten 10 und 
+11). Hingegen finden sich auf der östlichen Seite (bachabwärts) zuerst Sedimente aus lehmigem Material 
+(Schicht 12), das zahlreiche Keramikscherben des 2.-3. Jahrhunderts, eine Gruppe von fünf Terrakottafi-
+guren (eine kybele, vier Matronen) und eine ansammlung von samenkapseln des schwarzen holunders 
+(Sambucus nigra) enthielt. Darüber liegt in einer etwas sandigeren Schicht ein Teil des Mauerversturzes 
+(Schicht 13). Auffällig ist hier der hohe Phosphatgehalt von ca. 500 ppm. Der Kohlenstoffgehalt ist hinge-
+gen relativ gering. Schicht 14 enthält einen hohen Gehalt an organischem Material mit zahlreichen Pflan-
+zenresten und samenkapseln einer knöterichart (Polygonum spec.) und brombeere (Rubus fruticosus) sowie 
+zahlreichen Holzkohlefragmenten. Darüber sind die Sedimente entlang des gesamten Profils durchgängig 
+aus lehmig bis sandig-kiesigen sedimenten aufgebaut, wobei die zusammensetzungen innerhalb der ein-
+zelnen schichten z. t. sehr stark variieren (schichten 17-31). bereiche mit gröberem Material sind als folge 
+von oxidationserscheinungen rötlich gefärbt. nur die schichten 24, 25 und 32 sind etwas homogener 
+aufgebaut. 
+
+Tab. 2 Ergebnisse der aMs-14 c-Datierungen. 
+
+Schicht 
+(Probe) 
+
+Labornr. Material 
+
+14 
+
+C-Alter 
+BP 
+
+δ13C 2σ-cal. BC/AD* 
+rW** 
+
+iw-a1-12 
+1462.1.1 samenkapseln 
+(Sambucus nigra, unverkohlt) 
+
+1706 ± 29 
+-27,6 
+255-407 aD 
+100% 
+
+iw-a1-14 
+1458.1.2 holzkohle 
+893 ± 33 
+-28,8 
+1040-1110 aD 
+1116-1216 aD 
+
+37,8% 
+57,6% 
+iw-a3-5a-v 1461.1.2 holzkohle (Populus spec.) 
+1981 ± 29 
+-27.6 
+44 bc-75 aD 
+100% 
+
+iw-a3-9 
+1460.1.2 holzkohle 
+1834 ± 33 
+-28,3 
+85-249 aD 
+100% 
+
+iw-a3-14 
+hk1 
+
+1456.1.1 holzkohle 
+1777 ± 33 
+-31,1 
+135-340 aD 
+100% 
+
+iw-a3-15 
+hk2 
+
+1459.1.2 Pflanzenreste 
+(nicht bestimmbar, unverkohlt) 
+
+1756 ± 33 
+-26.8 
+143-151 aD 
+170-193 aD 
+211-388 aD 
+
+0,7% 
+2,6% 
+92,1% 
+iw-a4-8 
+hk3 
+
+1457.1.2 Pflanzenreste 
+(nicht bestimmbar, unverkohlt) 
+
+923 ± 33 
+-26,9 
+1026-1185 aD 
+100% 
+
+* 2σ-kalibriert nach oxcal v. 4.1 (bronk / Ramsey 2010) und intcal09 Datenbank (Reimer u. a. 2009). 
+
+** rW: relative Wahrscheinlichkeit der jeweiligen Altersintervalle berechnet nach Reimer u. a. (2009). 
+
+
+189 
+
+Römische Landnutzung in der Eifel 
+
+Die schichten 10 und 11 westlich des Mauerrestes sind relativ homogene lehmige auensedimente, die teil-
+weise mit gröberem Material durchmischt sind. zwei osL-Datierungen dieser schichten zeigen früh-bis mit-
+tellatènezeitliche alter (Tab. 1). Beim Anlegen des Profils im April 2010 wurden an der Basis der Schicht 10 
+zwei Randscherben von schalen mit einbiegendem Rand gefunden. hierbei handelt sich entweder um 
+gefäße der spätlatènezeit oder um in römischer zeit in urgeschichtlicher tradition gefertigte schalen, die 
+nicht jünger als das 1. Jahrhundert n. Chr. sind. Ferner wurden im Mai 2011 aus den Schichten 11 und 10 
+einige wandscherben und fragmente von keramik der spätlatènezeit bis frühen kaiserzeit geborgen und 
+ihre Position auf der Profilzeichnung eingetragen. Da die Randscherbe im Aufschluss AM frühestens in die 
+spätlatènezeit datiert, ist davon auszugehen, dass die osL-Datierungen zu alt ausfallen -möglicherweise 
+ein Effekt des wechselnden wasserspiegels. indes weisen beide Datierungsmethoden darauf hin, dass die 
+
+Abb. 4 Aufschluss AM (Matronenprofil, Aufnahme am 4.5.2010). 
+
+Abb. 5 Detailzeichnung vom Aufschluss AM (Matronenprofil). 
+
+
+190 
+
+m. dotterweich u. a. • Landschaftsentwicklung seit der Römerzeit im westlichen segbachtal 
+
+Sedimente westlich der Mauer älter sind als die Sedimentschichten im basalen Profilbereich unmittelbar 
+östlich der Mauer. 
+Dort wurde an der Basis der Schicht 12 das genannte Depot von fünf Terrakottafiguren gefunden. Wei-
+terhin enthielt Schicht 12 einige Randscherben von Keramikgefäßen, welche wie die Terrakottafiguren in 
+das 2. oder 3. nachchristliche jahrhundert datieren. Die position der befunde liegt ca. 80 cm tiefer als die 
+Sedimentoberkante von Schicht 11 auf der westlichen Seite des Aufschlusses. Zwischen den Steinen der 
+Mauer wurden ziegelfragmente der Römischen kaiserzeit gefunden. Die Mauer wurde demnach also nicht 
+als barriere für den segbach und seine sedimente errichtet, die sich dann vor der Mauer gesammelt hätten. 
+vielmehr wurde in die spätlatènezeitlichen bis frühkaiserzeitlichen sedimente eine art becken ausgehoben, 
+dessen westwand mit der Mauer befestigt wurde. Dies würde die unterschiedlichen niveaus beiderseits 
+der Mauer erklären, die ja auch durch die unterschiedliche höhe der versturzschichten der Mauer deutlich 
+werden. 
+auffällig ist auch, dass an der basis des talabwärts liegenden aufschlusses a3 (Abb. 8) mehrere verfestigte 
+Bodenoberflächen mit hohen organischen Gehalten zutage kamen, die möglicherweise den Untergrund 
+eines ehemaligen Beckens darstellen. Einige Meter weiter östlich findet sich im Bachbett und in den Au-
+ensedimenten eine größere Steinansammlung. Möglicherweise handelt es sich hierbei um die Überreste der 
+östlichen Begrenzung des Wasserbeckens. Schicht 12 im Aufschluss AM ist zudem sehr homogen aufge-
+baut, wie dies für länger anhaltende stillwassersituationen typisch ist. 
+Die durch ihren humusgehalt und ihre dunkle farbe auffälligen schichten 14 und 16 des aufschlusses 
+aM gehören aufgrund eines an holzkohle gewonnenen 14 c-alter (Tab. 2) bereits in das hochmittelalter. 
+Insbesondere Schicht 14 bezeugt eine andauernde Akkumulation von organischem Material. Da in dieser 
+Schicht keine Artefakte, jedoch Samenreste einer Knöterichart und Brombeere gefunden wurden, war zur 
+zeit der ablagerung vermutlich eine extensive genutzte offenlandvegetation vorhanden. 
+
+Abb. 6 Ergebnisse der Laboranalysen aus Aufschluss AM (Matronenprofil). 
+
+
+191 
+
+Römische Landnutzung in der Eifel 
+
+Im östlichen Bereich des Profils AM finden sich über der humusreichen Schicht 14 unterschiedliche Sedimen-
+te aus lehmig-sandigem bis kiesigem Material (Abb. 5). Die oberen Lagen ziehen über die Mauer hinweg 
+und erstrecken sich somit über den gesamten aufschluss. Das 14 C-Alter aus Schicht 14 und die OSL-Datie-
+rungen aus dem unteren Bereich (Schicht 23) ergaben ein Alter in der Zeit um 1140 n. Chr. und 40 cm darü-
+ber (Schicht 26) ein Alter etwa um 1020 n. Chr. Die inverse Altersabfolge bei den OSL-Datierungen ist wenig 
+problematisch, da die werte noch innerhalb des vertrauensintervalls liegen (Tab. 1). Die enge altersspanne 
+zwischen den beiden proben und die ablagerung von grobem Material zeigen, dass die ablagerung der 
+sedimentpakete zwischen den schichten 26 und 23 in einer relativ kurzen zeit, während weniger extremen 
+Abfluss-und Erosionsereignissen, stattgefunden hat. 
+Bohrungen B1-B6, L6 und L7: Um den weiteren Verlauf der im Profil AM angeschnittenen Mauer zu erkun-
+den, wurden unmittelbar südöstlich des aufschlusses sechs bohrungen b1-b6, jeweils mit einer tiefe von 
+2 m, niedergebracht. Die Profile zeigten grob eine ähnliche Abfolge wie im Aufschluss AM. Auffällig war, 
+dass in tiefenbereichen von 180-200 cm in jeder bohrung verstärkt holzkohle zum vorschein kam. Dieser 
+bereich liegt knapp unterhalb des heutigen wasserspiegels etwa auf der basis des Mauerfundaments. Mau-
+erreste konnten durch die bohrungen nicht erkannt werden. anhand der geophysikalischen prospektionen 
+ist jedoch mit einem weiteren Verlauf der Mauer quer zum Tal zu rechnen. Mauerreste finden sich auch an 
+der östlichen Uferseite flussaufwärts in einem Bereich, in dem der Segbach nahezu quer zum Tal verläuft 
+(Abb. 7, »verlauf der Mauer«). 
+Die Liner-bohrungen L6 und L7, die etwa jeweils 20 m südlich bzw. östlich des aufschlusses aM abgeteuft 
+wurden (Abb. 7), zeigen beispielhaft den vollständigen aufbau der auensedimente. Die talaufwärts liegen-
+de bohrung L6 lässt im oberen Meter eine ähnliche abfolge von sandigen bis kiesigen sedimenten wie im 
+Aufschluss AM erkennen. Darunter befinden sich meist lehmige Sedimente bis zu einer Tiefe von 3,2 m. An-
+schließend folgen schotter-und kieslagen, die vermutlich zum Ende der letzten kaltzeit abgelagert wurden. 
+Die verwitterungsschicht aus sandig bis tonigem devonischen Material beginnt in einer tiefe von ca. 3,5 m. 
+in der etwas bachabwärts liegenden bohrung L7 erreichen die auensedimente nur eine Mächtigkeit von 2,6 m. 
+In der Geländeoberfläche ist zwischen den beiden Bohrungen eine leichte Geländestufe zu erkennen. Dem-
+nach könnte in diesem bereich eine barriere im untergrund sein, die zu einem Rückhalt der sedimente geführt 
+hat. Möglicherweise handelt es sich hierbei um die verlängerung der in Abbildung 7 beschriebenen Mauer. 
+
+Abb. 7 Mendig, »im winkel«. Möglicher verlauf einer römerzeitlichen Quermauer durch das segbachtal. im mittleren bereich verläuft 
+diese parallel zum heutigen segbach. Dort sind an der uferkante noch steinreste zu erkennen (Radarbild mit 100-150 cm Eindringtiefe 
+und hinterlegtem Laserscan). -(Laserscandaten ©GeoBasis-DE/LVermGeoRP2012-06-12). 
+
+
+192 
+
+m. dotterweich u. a. • Landschaftsentwicklung seit der Römerzeit im westlichen segbachtal 
+
+Abb. 9 Mendig, »Im Winkel«, nordöstlicher Ausschnitt aus Aufschluss A4. In einer Tiefe von ca. 1,8 m befinden sich über einer Pflaste-
+rung aus der Römischen kaiserzeit auensedimente mit einer Mächtigkeit von ca. 1,8 m. im oberen abschnitt (schichten 12-14) sind fein 
+gebänderte ascheartige sedimente erkennbar, die über eine strecke von ca. 30 m verfolgt werden können. -(foto 8.6.2011). 
+
+Abb. 8 Mendig, »Im Winkel«, Aufschluss A3. In einer Tiefe von ca. 1,8 m befinden sich mehrere kompakte Lagen, die vermutlich meh-
+rere Bodenlagen eines ehemaligen Wasserbeckens darstellen (z. B. Schicht 5, kleines Foto). -(Foto 3.6.2011). 
+
+
+193 
+
+Römische Landnutzung in der Eifel 
+
+Aufschluss A2 wurde etwa 22 m flussabwärts auf der gleichen Uferseite wie Aufschluss AM angelegt 
+(Abb. 3). Mit einer Profiltiefe von 1,5 m erreicht er nicht die Basis des Gewässers. Auffällig ist hier, dass die 
+drei oberen in aufschluss aM ausdifferenzierten und gleichmäßig mächtigen sedimentpakete im aufschluss 
+a2 deutlich homogener aufgebaut sind. Das untere und obere sandig-tonige paket weist bei genauerer be-
+trachtung noch feinere sedimentlagen auf. Dazwischen liegt eine wesentlich lehmigere schicht, die deutlich 
+rotgefärbt ist. Kiesige Lagen fehlen in diesem Aufschluss hingegen völlig. Stichprobenhafte Profilvergleiche 
+flussabwärts und flussabwärts vom Aufschluss AM zeigten, dass flussaufwärts kiesige Lagen deutlich häufi-
+ger und mächtiger auftreten als flussabwärts. 
+Aufschluss A3: Etwa 7 m flussabwärts von Aufschluss AM wurden an der nordwestlichen Uferseite die 
+boden-sedimentfolgen an einem prallhang bis zu einer tiefe von 2 m aufgeschlossen (Abb. 3. 8). auffällig 
+sind hier die an der Aufschlussbasis befindlichen kompakten Lagen aus lehmigem bis tonigem Material, das 
+teilweise eine sehr dunkle Färbung hat. Die Oberfläche einiger Schichten wirkt verdichtet. In den dazwi-
+schenliegenden Sedimenten finden sich gehäuft organisches Material und verkohlte Pflanzenreste. Über 
+diesem Material liegen meist sandig-lehmige sedimente. nur in einer tiefe von ca. 1 m unter der gelän-
+deoberfläche ist ein deutlich dunkleres Paket mit größeren Mengen an Tonschiefern und römerzeitlichem 
+keramikbruch vorhanden. im südwestlichen aufschlussbereich werden die sedimentlagen von einer Rin-
+nenverfüllung unterbrochen. 
+Aufschluss A4 befindet sich flussaufwärts südöstlich gegenüber vom Nebengebäude 1. Hier sind ca. 1,8 m 
+der alluvialen sedimente auf einer Länge von ca. 6 m freigelegt (Abb. 9). im nordöstlichen aufschlussbereich 
+befindet sich an der Basis eine Pflasterung, die vermutlich im Zusammenhang mit dem gegenüberliegenden 
+Gebäude steht. Darüber ist eine etwa 10 cm mächtige lehmig-sandige humose Schicht (Schicht 8) zu erken-
+nen, in der zahlreiche Keramikbruchstücke aus der Römischen Kaiserzeit zutage kamen. Darüber befinden 
+sich mehrere hellere lehmig-sandige sedimente, die in sich nur wenig strukturiert sind (schichten 9-10). 
+Das darüberliegende, etwa 30 cm mächtige paket (schichten 12-14) zeichnet sich durch eine teilweise mil-
+limeterdünne wechsellagerung aus tonigen, lehmigen und ascheähnlichen substraten aus. Derzeit laufen-
+de Dünnschliffuntersuchungen sollen hier genauere informationen über art und genese dieser schichten 
+liefern. Die oberen 50 cm des aufschlusses setzen sich wieder aus homogenen durchmischten lehmig bis 
+sandigen substraten zusammen. 
+Ein nicht verkohlter Pflanzenrest aus Schicht 8 datiert in das Hochmittelalter. Wenn dieser Pflanzenrest syn-
+sedimentär abgelagert wurde, wäre die römische keramik in dieser schicht wohl als umgelagert anzusehen 
+(vgl. auch Diskussion der Datierung von aufschluss a1). 
+Aufschluss A1: Am archäologischen Schnitt 1 (Westprofil) wurde im Bereich des Drainagesystems ein ca. 
+110 cm breites und 160 cm tiefes Profil näher untersucht (Abb. 10). hier sollte die frage verfolgt werden, 
+in welcher situation das Drainagesystem angelegt wurde und wann und wie schnell dieses von sedimenten 
+bedeckt wurde. insgesamt wurden sieben sedimentpakete ausgegliedert. an der basis (unterhalb des Drai-
+nagesystems) ist ein stark sandiger Lehm (Schicht 7), der von einem tonigen und schwer formbaren Lehm-
+paket überdeckt ist (Schicht 6). Die oberen 10 cm von Schicht 6 sind etwas dunkler gefärbt als die übrige 
+schicht, was auf das vorhandensein eines humushorizonts (fah) hindeutet. 
+In Schicht 6 wurde das Entwässerungssystem eingegraben. Die Drainagen bestehen aus 10-20 cm breiten 
+Rinnen, die von flachen Basaltsteinen eingefasst werden und mit Schiefer-und Basaltplatten abgedeckt 
+sind. hierbei wurden die steinplatten direkt an der kante des aushubs angelegt, sodass kaum spuren »ei-
+ner baugrube« sichtbar sind. im bereich des aufschlusses a1 lag die oberkante der Deckplatten ca. 15 cm 
+unter der damaligen Geländeoberfläche. Das gesamte Drainagesystem musste eine gleichmäßige Neigung 
+aufweisen, die nicht identisch mit der damaligen Geländeoberfläche war. Daher nahmen die Grabtiefen in 
+Gewässerrichtung vermutlich etwas zu und die Drainagen lagen in flachen Mulden. Unklar ist, wie die zum 
+
+
+194 
+
+m. dotterweich u. a. • Landschaftsentwicklung seit der Römerzeit im westlichen segbachtal 
+
+Drainagesystem gehörende alte Oberfläche aussah. Eine Verfüllung des Grabens mit dem Drainagesystem 
+ist nicht erkennbar; möglicherweise waren die Deckplatten frei zugänglich. Dies wäre auch sinnvoll gewe-
+sen, da das Entwässerungssystem mit hoher wahrscheinlichkeit regelmäßig gereinigt werden musste. 
+Über den Drainagen liegen mehrere Sedimentschichten. Das Sandpaket Schicht 5 mit geringen Tongehalten 
+überdeckt Schicht 6 sowie das Drainagesystem. Eine Differenzierung zwischen Schicht 5 und der Verfüllung 
+des Drainagegräbchens (Schicht 5a) war hier nicht klar vorzunehmen, deutete sich aber in anderen Profilen 
+an. Die Schichten 4, 2 und 1 sind wieder lehmig. Ausnahme bildet noch Schicht 3, die einen deutlich hö-
+heren Schluffgehalt aufweist. Schicht 5 ist im weiteren Verlauf des archäologischen Profils besonders klar 
+sichtbar. In Richtung Osten nimmt der Grobkorngehalt deutlich zu. Da in dieser Richtung die Oberfläche 
+eine lobenartige form aufweist, kann hier ein schwemmfächer vermutet werden, der aus dem kleinen ne-
+bental stammt, das nördlich des burgus entlangzieht. 
+Schicht 7 des Aufschlusses A1 hat eine ähnliche Sedimentationsstruktur wie die Schichten 10 und 11 des 
+Profils AM. Allerdings ergab die OSL-Datierung sogar ein frühlatènezeitliches Alter (Abb. 10; Tab. 1). 
+Schicht 6 dürfte einer tonig-lehmigen Schicht von 60 cm Mächtigkeit entsprechen, die im Nordteil des 
+archäologischen schnittes s1 zu aufschluss a1 angetroffen wurde und in der stratigraphisch unterhalb 
+der Drainage scherben von terra sigillata des töpfers Mercato aus La graufesenque gefunden wurden, 
+die in die zeit von 80-120 n. chr. datieren. Diese schicht ist typisch für einen auenlehm, der bei zahlrei-
+chen hochwasserereignissen mit stillwasserbereichen entstanden ist. Da die terra sigillata-scherben sich in 
+mehreren nestern etwa auf gleicher höhe im Lehm liegend fanden, dürften sie während der ablagerung 
+in das sediment gelangt sein und sind nicht etwa zu einem späteren zeitpunkt durch peloturbation in die 
+stark tonhaltige Schicht geraten. Solche postsedimentären Prozesse, die durch Austrocknung und Wieder-
+befeuchtung bedingt sind, oder auch bioturbation sind indes vermutlich die gründe dafür, dass an den 
+seitlichen Rändern des Drainagesystems nicht überall Spuren einer Eintiefung in Schicht 6 sichtbar sind. Ein 
+
+Abb. 10 aufschluss a1 im bereich der 
+archäologischen grabung mit osL-altern 
+(Ausschnitt aus Westprofil Schnitt 1). An 
+der basis ist ein teil des Drainagesystems im 
+Querschnitt freigelegt (vgl. Tab. 2). -(foto 
+2.7.2010). 
+
+
+195 
+
+Römische Landnutzung in der Eifel 
+
+weiterer grund für das weitgehende fehlen von spuren für eine grube für die Drainagen besteht wohl auch 
+darin, dass die gräbchen zumeist passgenau ausgehoben und die steine direkt an den Rand des gräbchens 
+gesetzt wurden. Der vermutliche Humushorizont am Top von Schicht 6 scheint nach der Ablagerung dieser 
+Schicht während einer Ruhephase gebildet worden zu sein, bei der keine Überschwemmungen mit Sedi-
+mentationen stattfanden. Er entwickelte sich unter einer wald-oder graslandvegetation. 
+Die füllung der Drainagen selbst, d. h. der von den steinplatten abgedeckten Rinnen, enthält keramik 
+der mittleren bis späten kaiserzeit (u. a. schüssel der form niederbieber 104 aus Mayener ware und viele 
+wandscherben von Mayener ware), die eine Datierung der anlagen in den betreffenden zeitraum nahelegt. 
+zudem kennen wir bislang keine vor die mittlere kaiserzeit oder nach der spätantike datierenden bauwerke 
+aus dem unmittelbaren umfeld der Drainagen, sodass am ehesten ein bezug der Drainagen zu dem unmit-
+telbar oberhalb ihres standorts gelegenen spätantiken burgus anzunehmen ist. 
+Der Füllung der flachen Mulden über den Drainagen (Schicht 5a) können nur einige Scherben zugeordnet 
+werden, die einzeln eingemessen wurden (u. a. von einem topf der form alzei 27 aus Mayener ware), da 
+Schicht 5a lediglich stellenweise und allenfalls undeutlich von Schicht 5 im Profil unterschieden werden 
+konnte. Aber auch Schicht 5 enthält ausschließlich römerzeitliche Keramik, u. a. der Formen Niederbieber 
+104, Alzei 27, Alzei 28 und Alzei 29. Im Gegensatz dazu liegt für Schicht 5 aus ihrem oberen Bereich eine 
+OSL-Datierung vor, die in das 10. Jahrhundert verweist. 
+Sowohl für die Füllung der Drainagerinnen unter den Steinplatten als auch für Schicht 5a ist eine Datierung 
+in die spätantike oder die zeit unmittelbar danach wahrscheinlich. Einerseits wegen der keramik, anderer-
+seits weil diese kleinen vertiefungen nach der zerstörung des burgus und der vermutlichen aufgabe der 
+Siedlungsstelle im ersten Drittel des 5. Jahrhunderts nicht lange offen geblieben sein können. 
+Demgegenüber bedarf die Datierung von Schicht 5 der weiteren Klärung. Den Widerspruch zwischen der 
+OSL-Datierung von Schicht 5 und von deren Gehalt an spätantiker Keramik können wir vorerst nicht auflö-
+sen. Derzeit erscheinen zwei Szenarien möglich: 
+1) Schicht 5 bildete sich kurz nach der Zerstörung aus Schutt, der nach dem Brand des burgus und aufgabe 
+der siedlungsstelle von den hängen heruntergespült wurde. 
+2) Schicht 5 wurde erst in einer späten Phase des Frühmittelalters oder am Beginn des Hochmittelalters 
+abgelagert, wie das osL-Datum angibt. Der hohe steingehalt in den sedimenten lässt vermuten, dass das 
+Material direkt von den umliegenden hängen erodiert wurde. Da die nächst gelegene, durch Lesefunde 
+zu vermutende mittelalterliche siedlungsstelle rund 1,2 km entfernt und oberhalb steiler hänge in der flur 
+Ettringen, »unten auf breitenholz«, lag (oesterwind / wenzel 2012, kat.-nr. 9), sind siedlungsabfälle und 
+Keramikscherben auf den Wirtschaftsflächen nicht zwingend zu erwarten. Anders als in der Latènezeit bis 
+frühen kaiserzeit wird nicht mehr feiner auelehm als zeugnis intensiven ackerbaus angeliefert, der in eini-
+ger Entfernung stattfand. 
+Über Schicht 5 liegt ein homogenes, leicht rötliches Lehmpaket (Abb. 10, Schicht 4). Die homogene Struk-
+tur, mit einem hohen kiesgehalt, deutet darauf hin, dass dieses paket während eines einzelnen starkregen-
+und Überschwemmungsereignisses ablagert wurde. Relativ ähnlich aufgebaut ist das mittlere Lehmpaket im 
+Aufschluss A2. Im Aufschluss AM findet sich hingegen in dieser Position kein eindeutiger Befund, der sich 
+dieser Schicht zuweisen lässt. Auch in den Profilen der archäologischen Schnitte 1 und 2 wurde sie nicht 
+dokumentiert. 
+Schicht 3 im Aufschluss A1 findet sich hingegen in allen Aufschlüssen wieder (z. B. Schicht 28 im Aufschluss 
+aM). Datierungen liegen bisher nicht vor. allerdings ist im archäologischen schnitt s2 südöstlich der para-
+belförmigen spitze des Drainagesystems eine Rinne in diesem sediment eingeschnitten. in der verfüllung 
+der Rinne finden sich spätmittelalterliche Funde. Es erscheint möglich, dass die im Aufschluss A1 beschrie-
+bene Schicht 3 wie die Erosionsrinne und deren Verfüllung im Spätmittelalter entstanden. Für diese Zeit sind 
+
+
+196 
+
+m. dotterweich u. a. • Landschaftsentwicklung seit der Römerzeit im westlichen segbachtal 
+
+überregional wirksame extreme starkniederschläge und bodenerosionsereignisse für ganz Mitteleuropa 
+nachweisbar (Dotterweich 2008), auch für die Eifel (sirocko / alt / David-sirocko 2009). 
+Die bohrungen p4-L1 und p4-L2 wurden am östlichen Rand des vermuteten beckens im nebental nord-
+westlich des burgus niedergebracht (Abb. 3). hierbei kamen sedimente mit einer gesamtmächtigkeit von 
+
+Abb. 11 Mendig, »Im Winkel«, Bohrung P4-L1 -geöffnete Halbschalen eines 3 m tiefen Bohrprofils aus dem vermuteten Rückhalte-
+becken. Deutlich ist eine Abfolge von tonigen bis kiesigen Lagen zu erkennen. Das gröbere Material weist auf stärkere Abflussereignisse 
+hin. -(foto 1.7.2010). 
+
+Abb. 12 Mendig, »im winkel«. schnitt s7 quert einen steinriegel. unterhalb einer anthropogenen auffüllung sind Reste einer römer-
+zeitlichen Mühlsteinbruchschutthalde zu erkennen. -(foto M. Dotterweich, 8.6.2011). 
+
+
+197 
+
+Römische Landnutzung in der Eifel 
+
+bis zu 3 m zum vorschein (Abb. 11; Tab. 3). Die sedimente zeigen eine wechselnde abfolge von tonigen 
+bis kiesigen Lagen. Die farben sind im oberen bereich eher bräunlich und wechseln dann ab einer tiefe 
+von etwa 175 cm aufgrund des permanenten Grundwassereinflusses in eine graue Farbe. Auffällig sind 
+die Steinlagen in einer Tiefe von ca. 50, 150 und 250 cm. Diese weisen auf intensive Abflussereignisse mit 
+starker Bodenerosion im Einzugsgebiet hin. Im Profil finden sich nur sehr geringe Mengen an Holzkohlen. 
+größere Mengen kamen lediglich in einer tiefe von 68 cm zutage. Ergänzend zu den bohrungen wurden 
+im bereich des Dammes weitere bohrsondagen und geophysikalische untersuchungen durchgeführt. Diese 
+erbrachten jedoch keine hinweise auf eine staumauer. Möglicherweise liegen solche strukturen zu tief oder 
+im grundwasserbereich und werden daher mit geophysikalischen Methoden sehr schwer erkannt. Eine na-
+türliche Entstehung dieser struktur ist aufgrund der deutlichen stufe nur schwer zu erklären. 
+
+Tiefe [cm] Beschreibung 
+Steingehalt [%] 
+Farbe 
+Bodenart 
+
+0-15 kein Material im bohrkern 
+
+15-32 org. schicht, vereinzelt steinchen, etwas feucht, 
+feines Material 
+
+30% 
+10YR3/4 
+ut3 
+
+32-45 mittel toniger schluff 
+0% 
+10YR4/3 
+ut3 
+
+45-62 stark schluffiger ton, größere steine 
+75% 
+2,5 Y 5/3 
+tu4 
+
+62-65 lehmiger ton, feines Material 
+0% 
+2,5 Y 5/3 
+t1 
+
+65-98 schwach sandiger ton, kleine steinchen bis 2 cm, 
+in 68 cm: Holzkohle 
+
+40% 
+2,5 Y 5/3 
+ts2 
+
+98-126 schwach schluffiger sand, kleine steinchen bis 
+0,5 cm 
+
+70% 
+10YR4/4 
+su2 
+
+126-139 schwach sandiger ton, vereinzelt steine bis 2 cm 
+20% 
+2,5 Y4/4 
+ts2 
+
+139-145 schwach sandiger ton, wenig steine 
+5% 
+5Y4/1 
+ts2 
+
+145-154 schluffiger Lehm, dazwischen steinschicht mit 
+steinen bis 10 cm 
+
+75% 
+7,5YR4/6 
+Lu 
+
+154-159 schwach sandiger ton 
+0% 
+10YR4/6 
+ts2 
+
+159-174 schwach schluffiger sand, steine bis 2,5 cm 
+20% 
+10YR4/3 
+su2 
+
+174-184 mittel toniger Lehm, keine steine 
+0% 
+5Y5/1 
+Lt3 
+
+184-189 schwach schluffiger ton, keine steine 
+0% 
+5Y5/1 
+tu2 
+
+189-192 mittel toniger Lehm, keine steine 
+0% 
+5Y5/1 
+Lt3 
+
+192-212 mittel toniger Lehm, kleine steinchen bis 5 mm 
+30% 
+5Y5/1 
+Lt3 
+
+212-217 mittel toniger Lehm, keine steine 
+0% 
+5Y5/1 
+Lt3 
+
+217-230 mittel toniger Lehm, steinchen bis von 3 mm bis 
+1 cm 
+
+70% 
+5Y5/1 
+Lt3 
+
+230-240 mittel toniger Lehm, keine steine 
+0% 
+5Y5/1 
+Lt3 
+
+240-260 mittel schluffiger sand, viele große steine bis 5 cm 
+80% 
+5Y5/1 
+su3 
+
+260-300 mittel schluffiger ton, mit schiefer 
+20% 
+5Y5/2 
+tu3 
+
+Tab. 3 Beschreibung des Bohrprofils P4-L1. 
+
+
+198 
+
+m. dotterweich u. a. • Landschaftsentwicklung seit der Römerzeit im westlichen segbachtal 
+
+Verfolgt man das Seitental weiter talabwärts in Richtung des Segbachtals, verläuft heute der Abfluss entlang 
+eines kleinen grabens westlich des burgus in den segbach. Das natürliche gefälle des tales erstreckt sich 
+jedoch nördlich am burgus vorbei, direkt auf den Bereich mit dem Drainagesystem zu. Dort befindet sich 
+auch der vermutete schwemmfächer, der bereits oben beschrieben wurde. Möglicherweise führen die kies-
+lagen auf dem schwemmfächer zu einer teilweisen Maskierung des Drainagesystems bei geophysikalischen 
+untersuchungen. 
+am südlichen hangbereich des segbachtales liegt ein kleines wäldchen (Abb. 1), das bereits in histori-
+schen karten erkennbar ist. Dort wurden die (geo)archäologischen schnitte 6 und 7 angelegt (Abb. 3, s6 
+und S7), um nähere Aufschlüsse zu dort befindlichen Altflurrelikten zu erhalten. Es handelt sich um eine 
+nicht ganz rechtwinklige block-wall-flur mit relativ kleinen parzellen von ca. 430-1200 m 2 fläche. beson-
+ders auffällig sind einige steinriegel, die in Richtung der hangneigung besonders deutlich ausgeprägt sind. 
+hinzu kommen noch einige terrassenkanten, die teilweise ebenfalls steinkonzentrationen aufweisen. am 
+nordrand des wäldchens liegt eine offenbar alt gegrabene anhäufung von steinen, die auch bruchstücke 
+römischer ziegel enthält und womöglich den standort eines gebäudes anzeigt (Abb. 3, G). Die parzellen 
+entsprechen gut römischen parzellen, die sich in ausgedehnten waldgebieten ostfrankreichs erhalten ha-
+ben (Georges-Leroy / Bock / Dupouey 2009, Abb. 3. 5; Goguey u. a. 2010, Abb. 79-80). Mit dem in unserem 
+Kontext wichtigen Schnitt S7 wurde ein Profil durch einen der Steinwälle bis zu einer Tiefe von ca. 130 cm 
+(Abb. 12) angelegt. an der basis des aufschlusses ist eine graue Lehmschicht, die vermutlich einen verwit-
+terungshorizont oder periglaziales Material präsentiert. Darüber liegt mit einer Mächtigkeit von etwa 60 cm 
+graubraunes sandiges Material, in dem gehäuft steinbruchschutt mit römerzeitlichem Mühlsteinbruch zu 
+finden ist. Darüber lassen sich zwei 10-20 cm mächtige sandige Schichten erkennen, die etwas bräunlicher 
+gefärbt sind. hier fällt auf, dass das Material in sich nicht homogen geschichtet ist, sondern farblich eher ge-
+fleckt erscheint. Diese Struktur ist typisch für anthropogen aufgebrachtes Material. Die obersten 10-15 cm 
+sind deutlich humoser. In dieser Schicht beginnt auch erst der Steinriegel, hier mit einer Breite von 220 cm 
+und einer höhe von ca. 30 cm. Der benachbarte schnitt 6 erbrachte an einer terrassenkante prinzipiell eine 
+ähnliche schichtung. hier fanden sich in dem bodenhorizont über dem steinbruchschutt mehrere römische 
+keramikscherben. 
+
+kenntnisstand zur LandschaftsentwickLung im untersuchungsgebiet 
+
+im untersuchungsbereich »im winkel« spiegeln die auensedimente und bodenbildungen in einer sehr um-
+fassenden form die Landnutzungsgeschichte und die fließgewässerentwicklung wider. auf der basis der 
+untersuchten aufschlüsse und bohrungen wurde die Landschaftsentwicklung in sechs phasen gegliedert. 
+Abbildung 13 zeigt schematisch die Reliefentwicklung im bereich des aufschlusses aM. 
+
+Phase 1 -Spätpleistozän bis Frühholozän 
+
+Im Spätpleistozän entwickelte sich unter Permafrostbedingungen eine hellgraue lehmig-tonige Soliflukti-
+onsdecke, wie sie an der basis der schnitte s6 und s7 angetroffen wurde. Der ausbruch des Laacher see-
+Vulkans führte zur Ablagerung mehrere Meter mächtiger Tephra, die in der Solifluktionsdecke teilweise 
+mit eingearbeitet wurden. in der unmittelbaren umgebung des untersuchungsgebietes »im winkel« sind 
+die tephritischen ablagerungen jedoch kaum vorhanden, sodass hier überwiegend devonische silt-und 
+tonsteine als ausgangsmaterial für die spätere bodenbildung bereitstanden. Mit der klimatischen Erwär-
+
+
+199 
+
+Römische Landnutzung in der Eifel 
+
+mung im frühholozän entwickelte sich aufgrund des gemäßigten klimas eine waldvegetation. chemische 
+verwitterungsprozesse führten vermutlich zur bildung von lehmigen substraten und zur Entstehung von 
+braunerden. 
+
+Phase 2 -Neolithikum bis Hallstattzeit 
+
+Mit dem beginn der ackerbaulichen nutzung im neolithikum fand erstmals ein stärkerer anthropogener 
+Eingriff in das ökosystem statt. Rodungen und ackerbau führten zu einer abnahme der vegetationsbede-
+ckung mit einer geringeren Evapotranspiration. Ein anstieg des grundwasserspiegels war die folge. zudem 
+wurden bei Regen Oberflächenabfluss und Bodenerosion ermöglicht. Die Bildung der Auenlehme in Mittel-
+europa lassen sich in vielen fällen auf diese prozesse zurückführen (bork u. a. 1998; Dotterweich 2008). im 
+segbachtal sind neolithische siedlungen belegt (Mangartz 2008, kat.-nr. 1-7), sodass mit Rodungen und 
+bodenerosion zu rechnen ist. bodenkundlich-geomorphologische belege, in bezug auf ackerbau, sind bis 
+zum Ende der hallstattzeit jedoch bisher noch nicht eindeutig nachweisbar. vermutlich stammen die unters-
+ten sedimente der bohrungen L6 und L7 aus dieser zeit. 
+
+Phase 3 -Latènezeit bis frühe Kaiserzeit 
+
+In den Aufschlüssen AM (westlich der Mauer) und A1 wurden an der Basis der Profile Schichten von Au-
+elehm festgestellt. Diese stammen nach einem OSL-Datum von Schicht 7 des Aufschlusses A1 bereits aus 
+der Frühlatènezeit, für die auch in anderen Regionen die Bildung von Auelehm häufig nachgewiesen ist (Jä-
+ger 1962). westlich der Mauer im aufschluss aM führt der auelehm keramik der spätlatènezeit bis frühen 
+kaiserzeit. Die auelehmschichten zeigen jeweils an beiden aufschlüssen eine ähnliche sedimentationsstruk-
+tur. sie belegen, dass das westlich liegende Einzugsgebiet einer intensiven vorrömischen bis frühkaiserzeit-
+lichen Landnutzung unterlag. starkregenereignisse führten zu bodenerosion, und es bildete sich ein etwa 
+
+Abb. 13 schematische Darstellung der Reliefentwicklung im bereich des aufschlusses aM. 
+
+
+200 
+
+m. dotterweich u. a. • Landschaftsentwicklung seit der Römerzeit im westlichen segbachtal 
+
+1 m mächtiger auenlehm. Der hohe gehalt an sandigem Material und kleineren steinen deutet auf sturz-
+flutartige Ereignisse hin, bei denen Material aus der unmittelbaren Umgebung erodiert wurde. Es ist davon 
+auszugehen, dass diese Ereignisse bereits negative auswirkungen auf die Ertragsfähigkeit der böden hatten. 
+allerdings zeigen auch bodenschichten mit keramik der spätlatènezeit und frühen kaiserzeit beim und im 
+Hauptgebäude, wie auch die Funde aus den Auelehmschichten beim Profil AM eine Besiedlung in unmittel-
+barer nähe. für die Lavaströme des bellerberg-vulkans deuten sich bereits in der Mittellatènezeit eine zu-
+nahme der steinbruchtätigkeit und die Eröffnung neuer steinbrüche an, diese ist ab der spätlatènezeit klar 
+erkennbar und fand noch eine steigerung in der frühen kaiserzeit (Mangartz 2008; beitrag Mangartz in die-
+sem band). Damit korrespondierend lässt im umfeld der steinbrüche die zunahme der zahl der siedlungen, 
+der gräberfelder und der gräber einen bevölkerungszuwachs in der späten Eisenzeit (oesterwind / wenzel 
+2012) und in der frühen Kaiserzeit erkennen, der dazu geführt haben mag, dass die Ackerflächen ausge-
+weitet und die umlagerung von sediment verstärkt wurde. 
+
+Phase 4 -Römische Kaiserzeit 
+
+Die ablagerung von auelehm setzte sich noch in die mittlere kaiserzeit fort, wie die im auelehm stratigra-
+phisch unter den Drainagen nordöstlich von Profil A1 festgestellten Scherben verzierter Terra Sigillata zei-
+gen. Ein dort in den auelehm eingeschaltetes kiesband weist auf umlagerung von sediment, welches aus 
+geringerer Entfernung als der auelehm herbeigeführt worden sein dürfte. 
+beim aufschluss aM hub man in der Römischen kaiserzeit im eisenzeitlichen bis frühkaiserzeitlichen aue-
+lehm eine art becken aus, welches mit einer Mauer befestigt wurde. in diesem becken fanden sich Rand-
+scherben des 2.-3. nachchristlichen Jahrhunderts sowie fünf Terrakottafiguren, die dort deponiert wurden. 
+
+Phase 4a -Spätantike und Frühmittelalter 
+
+insbesondere in aufschluss a1 muss von der phase der mittleren Römischen kaiserzeit eine jüngere pha-
+se unterschieden werden, die vor allem durch die anlage des Drainagesystems bestimmt wird. Die etwas 
+dunklere Färbung der oberen 10 cm in der durch Keramikfunde datierten kaiserzeitlichen Schicht 6 des Auf-
+schlusses a1 deutet auf einen humushorizont hin (Abb. 10, fah). Demnach muss es nach der ablagerung 
+dieser Schicht zu einer Ruhephase gekommen sein, bei der keine Überschwemmungen mit Sedimentatio-
+nen stattfanden. unter einer wald-oder graslandvegetation entwickelte sich ein humushorizont. Es wäre 
+zu prüfen, inwieweit hier Auswirkungen der Krise des 3. Jahrhunderts fassbar sind. 
+Die Drainagen durchschneiden den Humushorizont, sie und die flachen Mulden über ihnen wurden in der 
+Spätantike oder kurz nach ihrem Ende verfüllt. Nicht abschließend geklärt ist die Frage, ob auch Schicht 5 
+von Abbildung 10 zügig nach dem Ende der Spätantike auf die Drainagen und ihre unmittelbare Überde-
+ckung gelangt ist, oder erst etwa 500 jahre nach dem Ende der Römerherrschaft in der Region abgelagert 
+wurde. je nachdem, wie die antwort ausfällt, ist gegebenenfalls ein fehlen von im frühmittelalter umge-
+lagerten sediment zu konstatieren und dass in jenem zeitabschnitt in der näheren umgebung wohl wenig 
+ackerbau betrieben wurde. 
+
+
+201 
+
+Römische Landnutzung in der Eifel 
+
+Phase 5 -Hoch-und Spätmittelalter 
+
+Schicht 14 im östlichen Bereich des Aufschlusses AM (Abb. 5), die durch ein 14 c-Datum in das hochmit-
+telalter gewiesen wird, belegt eine andauernde akkumulation von organischem Material. Das fehlen von 
+artefakten und das vorhandensein von samenresten einer knöterichart und der brombeere sprechen für 
+eine extensiv genutzte offenlandvegetation zur zeit der ablagerung. 
+Ein sedimentpaket aus mehreren schichten aus teils grobem, lehmig-sandigem bis kiesigem Material 
+(Schichten 22-28), das sich im Aufschluss AM oberhalb der Schichten 14-16 befindet, bezeugt extreme 
+Abfluss-und Erosionsereignisse. Zwei zeitlich eng beieinanderliegende OSL-Datierungen aus den Schichten 
+23 und 26 zeigen, dass die ablagerung des sedimentpaketes in einer relativ kurzen zeit stattgefunden hat. 
+Auch Schicht 5 im Aufschluss A1 (Abb. 10), deren kieshaltiges sediment direkt von den umliegenden 
+hängen erodiert worden sein dürfte, könnte mit dem sedimentpaket zwischen den schichten 23 und 26 
+korrespondieren, wenn die osL-Datierung stimmt. 
+wie im aufschluss aM folgen auch im aufschluss a4 (Abb. 9) über einem humosen sediment, das nach 
+einem 14 c-Datum hochmittelalterlich ist, sedimente, die lokal eine Rodungsphase spiegeln, welche mögli-
+cherweise mit der intensivierung der Landwirtschaft im Mittelalter einherging und die bodenerosion ermög-
+lichte (Schreg 2008; Schreg 2009). In den Aufschlüssen A1 (Schicht 4) und A2 (mittleres Lehmpaket) sind in 
+die kiesigen ablagerungen solche mit einem höheren Lehmgehalt eingeschaltet. 
+Eine weiteres Starkregen-und Überschwemmungsereignis wird durch ein Sedimentpaket nachgewiesen, 
+dessen homogene struktur und hoher kiesgehalt darauf hindeuten, dass es während eines einzelnen vor-
+gangs abgelagert wurde. Die betreffende Schicht (Schicht 3 im Aufschluss A1) findet sich hingegen in allen 
+Aufschlüssen wieder (z. B. Schicht 28 im Aufschluss AM). Datierungen liegen bisher nicht vor. Allerdings 
+ist im archäologischen schnitt s2 südöstlich der parabelförmigen spitze des Drainagesystems eine Rinne in 
+diesem sediment eingeschnitten. in der verfüllung der Rinne kamen spätmittelalterliche funde zutage. Es 
+sind somit mehrere phasen extremer starkniederschläge und bodenerosionsereignisse repräsentiert. 
+
+Phase 6 -Neuzeit 
+
+Die oberen 30-50 cm in den aufschlüssen aM, a1, a3 und a4 dürften die neuzeitliche phase der sediment-
+ablagerung repräsentieren. intensivierte Landnutzung im Einzugsgebiet führte zu einer verstärkten boden-
+erosion und zur ablagerung von lehmig-sandigen sedimenten. seit mindestens 50 jahren dominieren wald 
+und grünland. Dies führte zu einem Rückgang der bodenerosion und zur bildung eines humushorizontes 
+an den untersuchten standorten. Die anlage eines Rückhaltebeckens im oberlauf des Einzugsgebietes Mit-
+te der 1980er jahre änderte das hydrologische Regime des segbaches. Dies führte zu einer starken Ein-
+schneidung des segbaches um mehrere Meter. nach dem bau eines Rückhaltebeckens und dem Einbau von 
+barrieren lagerten sich wieder verstärkt sedimente entlang des segbaches ab. 
+
+Phase X1 -Rückhaltebecken und Schwemmfächer 
+
+noch weitgehend unklar ist, wann das mögliche wasserrückhaltebecken ca. 80 m nordwestlich des burgus 
+im waldgebiet entstanden ist (Abb. 3). Eine alterseinschätzung lässt sich möglicherweise aus der stratigra-
+phie des schwemmfächers im bereich des Drainagesystems ableiten. Derzeit besteht die hypothese, dass 
+der schwemmfächer als folge von starken Erosionsereignissen entstanden ist, bei dem aus dem bereich 
+
+
+202 
+
+m. dotterweich u. a. • Landschaftsentwicklung seit der Römerzeit im westlichen segbachtal 
+
+des Rückhaltebeckens größere Wassermengen abgeflossen sind. Im archäologischen Schnitt S1 ist der äu-
+ßere westliche bereich des schwemmfächers aufgeschlossen und mit den auensedimenten verzahnt, die 
+Schicht 6 in Abbildung 10 entsprechen dürften. Demnach scheint der schwemmfächer auf den römer-
+zeitlichen sedimenten aufzuliegen. Eine verzahnung scheint vor allem im bereich der mittelalterlichen se-
+dimente vorhanden zu sein. Die verfüllung des Rückhaltebeckens zeigt auf jeden fall, dass wiederkehrende 
+starke Abflussereignisse in diesem Bereich stattfanden. Nähere Analysen und Datierungen der Sedimente in 
+verschiedenen bereichen des schwemmfächers und entlang des transportweges nördlich des burgus wür-
+den hier eine deutlich bessere Rekonstruktion der Erosionsdynamik erlauben. 
+
+Phase X2 -Rekultivierungsfläche 
+
+fraglich ist derzeit auch, wann der römerzeitliche steinbruchschutt im südlichen waldgebiet mit bodenma-
+terial überdeckt wurde. Die Steinriegelstrukturen auf der heutigen Oberfläche zeichnen trotz struktureller 
+Ähnlichkeit weder die heutige noch die parzellierung aus dem anfang des 19. jahrhunderts nach. Deshalb 
+müssen diese strukturen schon älter sein. Es wäre durchaus möglich, dass die auffüllung bereits während 
+der Römerzeit zur Rekultivierung eines werkplatzes durchgeführt wurde. Die Rekultivierung und umnut-
+zung von alten Industriebrachen ist aus römischer Zeit belegt: So legte man in einer sehr großen Lehmgrube 
+im heutigen stadtgebiet von paris ackerparzellen und einen kleineren Landwirtschaftsbetrieb an (van ossel 
+1998) und bei cirencester verfüllte man kleinere steinbrüche und nutzte das gelände für bestattungen (Mc-
+whirr / winer / wells 1982). bislang liegen aus dem areal abgesehen von wenigen gegenständen aus dem 
+letzten jahrhundert keine nachrömischen funde vor. Das bodenmaterial könnte z. b. aus den neu erschlos-
+senen steinbrüchen oder aus dem talbereich stammen. Die noch ausstehenden mikromorphologischen 
+untersuchungen und die osL-Datierung werden hier weitere hinweise zur herkunft des Materials und zum 
+alter der aufschüttung liefern. 
+
+schLussfoLgerungen 
+
+Die bisherigen untersuchungen bieten neuartige Einblicke in die anthropogenen Eingriffe in den Land-
+schaftshaushalt des segbachtales. am erforschten standort »im winkel« sind insbesondere der bereich zwi-
+schen dem Rückhaltebecken und dem schwemmfächer sowie das areal des Drainagesystems von großem 
+interesse. hier ließe sich eine zeitlich und räumlich hoch aufgelöste stratigraphie der bodenerosionsdynamik 
+der letzten 2000 jahre rekonstruieren. Dazu erforderliche genauere geoarchäologische untersuchungen 
+und Datierungen sind für ein folgeprojekt geplant. auch die steinriegel im waldgebiet sind von großem 
+interesse. osL-Datierungen aus den bodenhorizonten unterhalb eines steinriegels sind derzeit jedoch noch 
+in arbeit. sollten diese ein Relikt aus der Römerzeit sein, könnte eine verbindung zur auensedimentations-
+dynamik hergestellt werden. Denn durch die Anlage der Steinriegel wurde die Abflussdynamik reduziert 
+und so die bodenerosion stark eingeschränkt. 
+zusammenfassend zeigen die bisherigen geoarchäologischen forschungen im segbachtal unerwartet um-
+fangreiche Ergebnisse zur Landschaftsentwicklung der letzten 2000 jahre. Die sehr gut erhaltenen geoarchi-
+ve lassen umfassende Analysen zu verschiedenen spezifischen Landnutzungen und Landschaftsveränderung 
+in früherer zeit zu, die in dieser ausprägung bisher nicht beschrieben wurden. weitere forschungsarbeiten, 
+die zudem den weiteren bachverlauf und dessen Einzugsgebiet mit integrieren, werden hier sicher noch 
+neue weitreichende informationen zur Landnutzung im segbachtal bringen. aber auch die bereits geleiste-
+
+
+203 
+
+Römische Landnutzung in der Eifel 
+
+ten Forschungsstudien bieten nicht nur neues Wissen über spezifische lokalhistorische Landnutzungen und 
+Landschaftsveränderung, sondern sie bringen auch grundlegende neue Erkenntnisse zu den langfristigen 
+wirkungsweisen von Mensch-umwelt-interaktionen in einer vulkanisch geprägten Mittelgebirgsregion seit 
+der Römischen kaiserzeit. Das segbachtal liefert eine wichtige fallstudie, um die auswirkungen römischer 
+Landnutzung genauer zu verstehen. 
+
+Danksagung 
+
+1) beispiele hierfür sind z. b. in den usa (trimble 1974; barnhardt 
+1988; waters / haynes 2001), in china (wu u. a. 2008; schütt 
+u. a. 2011), in australien (beavis u. a. 1999; whitford u. a. 
+2010) oder in westeuropa (faust / Díaz Del olmo / baena Escu-
+dero 2000; wilkinson 2003; bertran 2004; Lespez u. a. 2008; 
+Brown 2009) zu finden. Für Mitteleuropa exisitieren mittler-
+weile mehrere zusammenfassende arbeiten (bork u. a. 1998; 
+Lang / bork 2006; Dotterweich 2008; Dreibrodt u. a. 2010b; 
+Notebaert / Verstraeten 2010). Neuere Arbeiten finden sich 
+z. b. bei stolz / grunert 2006; houben / wunderlich / schrott 
+2009; szwarczewski 2009; fuchs / fischer / Reverman 2010; 
+kadereit / kühn / wagner 2010; Moldenhauer / heinrich / vater 
+2010; Raab / hurkamp / volkel 2010; stolz / grunert 2010; 
+fuchs u. a. 2011; poreba / snieszko / Moska 2011. 
+
+2) fallstudien und zusammenfassungen zur bodenerosion für 
+den zeitraum zwischen dem neolithikum und dem beginn des 
+Mittelalters finden sich z. B. in Niller 1998; Löhr 2000; Dot-
+terweich u. a. 2003; Lang / niller / Rind 2003; zygmunt 2004; 
+schmitt u. a. 2006; vanwalleghem u. a. 2006; Leopold / völkel 
+2007; smolska 2007; Reiß u. a. 2009; Dreibrodt u. a. 2010a; 
+Dotterweich u. a. 2012. 
+
+3) Eine detaillierte Darstellung der archäologischen strukturen 
+findet sich im Beitrag Wenzel in diesem Band. 
+
+4) Der aufschluss aM wurde bereits von archäologischer seite 
+ausführlich dokumentiert (dort »Matronenprofil«). Daher fan-
+den dort nur ergänzende beschreibungen nach sedimento-
+logischen und bodenkundlichen Methoden statt. aufschluss 
+A1 befindet sich hinter dem Westprofil des archäologischen 
+schnitts 1. 
+
+5) bei einem vertrauensintervall von 2 σ (95,45 %) in bezug auf 
+die paläodosis (ED) vergrößern sich die altersfehler um 20-40 
+Jahre. Demnach ergeben sich folgende Alter: mit geschätz-
+ten Wassergehalten: HUB-0171: 1,11 ± 0,10 ka, HUB-0172: 
+2,58 ± 0,20 ka, HUB-0173: 2,59 ± 0,20 ka, HUB-0174: 2,43 ± 
+0,19 ka, HUB-0175: 1,09 ± 0,14 ka, HUB-0176: 0,93 ± 0,09 
+ka; mit gemessenen Wassergehalten: HUB-0171: 1,06 ± 0,10 
+ka, HUB-0172: 2,44 ± 0,20 ka, HUB-0173: 2,36 ± 0,19 ka, 
+HUB-0174: 2,34 ± 0,19 ka, HUB-0175: 0,99 ± 0,13 ka, HUB-
+0176: 0,87 ± 0,08 ka (frdl. schriftl. Mitt. Alexander Fülling, 
+15.9.2011). 
+
+Das projekt wird gefördert von der Deutschen forschungsgemein-
+schaft (fi 805/6-1). für die unterstützung bei den vorbereitungen 
+und den geländearbeiten möchten wir allen kolleginnen und kol-
+legen des forschungsbereichs vulkanologie, archäologie und tech-
+nikgeschichte (vat) des RgzM danken. große inhaltliche, logistische 
+und praktische unterstützung bekamen wir von Dr. Martin grüne-
+wald, Dr. holger schaaff und Dr. angelika hunold. vielen Dank an 
+Dr. sirri seren, Erol bayirli, Erich nau und Ralf totschnig für die um-
+fangreichen geophysikalischen untersuchungen. außerdem haben 
+Dr. ales Létal, Libor burian und anna smetanova mit ihren zusätzli-
+chen geophysikalischen Messungen hilfe bei der interpretation der 
+geländebefunde geleistet. Dank an alexander fülling, der für uns die 
+OSL-Datierungen durchführte. Für die pflanzlichen Makrorestunter-
+suchungen und holzkohlenbestimmung danken wir Dr. Margarethe 
+könig bzw. Markus kochbeck. für die bestimmung der verzierten 
+
+terra sigillata bedanken wir uns bei Dr. allard Mees. vielen Dank 
+auch den studierenden simone klumpp, andreas ginau, christian 
+Maus, kirsten Leszinski, seyedali kazeminejad und Malin ziehmer, 
+die bei den vorbereitungen und der Durchführung der geländear-
+beiten sowie bei der aufarbeitung der Ergebnisse einschließlich ei-
+niger Laborarbeiten eine sehr wertvolle hilfe waren. Ebenso danken 
+möchten wir allen studierenden der umweltwissenschaften von der 
+universität Landau und der geographie an der universität Mainz, die 
+bei den feldarbeiten im Rahmen eines studienprojektes mitgewirkt 
+haben. Dies waren aus Landau: Sandra Barnikol, Katharina Benz, Da-
+niel bibus, Denise Dey, Daniel benno herles, andreas tiator, Melanie 
+hilbert und alexandra pehle. aus Mainz waren dies tobias fischer, 
+Daniela Löv, jasmin pittori, René Reismann, stephanie seifarth und 
+sarah wagner. 
+
+Anmerkungen 
+
+
+204 
+
+m. dotterweich u. a. • Landschaftsentwicklung seit der Römerzeit im westlichen segbachtal 
+
+Ad-Hoc-Ag Boden 2005: Ad-Hoc-Ag Boden, Bodenkundliche Kar-
+tieranleitung (hannover 5 2005). 
+
+Ahrens 1936: W. Ahrens, Erläuterungen zum Blatt Mayen, Nr. 
+3268. In: Preußische Geologische Landesanstalt (Hrsg.), Geolo-
+gische karte von preußen 329 (berlin 1936) 1-47. 
+
+Barnhardt 1988: M. L. Barnhardt, Historical sedimentation in West 
+tennessee gullies. southeastern geographer 28, 1988, 1-18. 
+
+Beavis u. a. 1999: S. G. Beavis / L. Zhang / A. J. Jakeman / S. D. Gray, 
+Erosional history of the warrah catchment in the Liverpool plains, 
+new south wales. hydrological processes 13, 1999, 753-761. 
+
+Becker 1992: B. Becker, Römische Rodungen lösen Hochwasser-
+katastrophen aus. In: H. P. Kuhnen (Hrsg.), Gestürmt -Geräumt -
+vergessen? Der Limesfall und das Ende der Römerherrschaft in 
+südwestdeutschland. archäologische sammlungen -führer und 
+bestandskataloge 2 (stuttgart 1992) 71-73. 
+
+Bertran 2004: P. Bertran, Soil erosion in small catchments of the 
+Quercy region (southwestern france) during the holocene. ho-
+locene 14, 2004, 597-606. 
+
+Bork u. a. 1998: H.-R. Bork / H. Bork / C. Dalchow / B. Faust / H.-P. 
+piorr / t. schatz (hrsg.), Landschaftsentwicklung in Mitteleuropa 
+-wirkungen des Menschen auf Landschaften (gotha 1998). 
+
+Bork u. a. 2006: H.-R. Bork / C. Russok / S. Dreibrodt / M. Dot-
+terweich / s. krabath / h.-g. stephan / h. bork, spuren des 
+tausendjährigen Niederschlags von 1342. In: H. R. Bork (Hrsg.), 
+Landschaften der Erde unter dem Einfluss des Menschen (Darm-
+stadt 2006) 115-121. 
+
+Bronk Ramsey 2010: C. Bronk Ramsey, OxCal. http://c14.arch. 
+ox.ac.uk/embed.php?file=oxcal.html (4.7.2012). 
+
+Brown 2009: A. G. Brown, Colluvial and alluvial response to land 
+use change in Midland England: An integrated geoarchaeologi-
+cal approach. geomorphology 108, 2009, 92-106. 
+
+Dotterweich 2008: M. Dotterweich, The history of soil erosion and 
+fluvial deposits in small catchments of central Europe: Decipher-
+ing the long-term interaction between humans and the environ-
+ment -a review. geomorphology 101, 2008, 192-208. 
+
+Dotterweich / Bork 2007: M. Dotterweich / H.-R. Bork, Jahrtausend-
+flut 1342. Arch. Deutschland 2007/4, 20-23. 
+
+Dotterweich / Dreibrodt 2011: M. Dotterweich / S. Dreibrodt, Past 
+land use and soil erosion processes in central Europe. pagEs 
+news 19, 2011, 49-51. 
+
+Dotterweich / Haberstroh / Bork 2003: M. Dotterweich / J. Haber-
+stroh / h.-R. bork, Mittel-und jungholozäne siedlungsentwick-
+lung, Landnutzung, bodenbildung und bodenerosion an einer 
+mittelalterlichen wüstung bei friesen, Landkreis kronach in 
+Oberfranken. In: H.-R. Bork / G. Schmidtchen / M. Dotterweich 
+(hrsg.), bodenbildung, bodenerosion und Reliefentwicklung im 
+Mittel-und jungholozän. forsch. Dt. Landeskde. 253 (flensburg 
+2003) 17-56. 
+
+Dotterweich u. a. 2003: M. Dotterweich / J. Haberstroh / A. Sieg-
+müller / a. schmitt / h.-R. bork, frühgeschichtliche boden-und 
+Reliefentwicklung am talrand der Regnitz bei altendorf (ober-
+franken). Die Erde 134, 2003, 431-450. 
+
+2012: M. Dotterweich / J. Rodzik / W. Zgłobicki / A. Schmitt / 
+g. schmidtchen / h.-R. bork, high resolution gully erosion 
+and sedimentation processes, and land use changes since the 
+
+bronze age and future trajectories in the kazimierz Dolny area 
+(Nałęczów Plateau, SE-Poland). Catena 95, 2012, 50-62. 
+
+Dreibrodt u. a. 2010a: S. Dreibrodt / J. Lomax / O. Nelle / C. Lubos / 
+p. fischer / a. Mitusov / s. Reiß / u. Radtke / M. nadeau / p. M. 
+grootes / h.-R. bork, are mid-latitude slopes sensitive to climatic 
+oscillations? implications from an Early holocene sequence of 
+slope deposits and buried soils from eastern germany. geomor-
+phology 122, 2010, 351-369. 
+
+2010b: S. Dreibrodt / C. Lubos / B. Terhorst / B. Damm / H.-R. 
+Bork, Historical soil erosion by water in Germany: Scales and ar-
+chives, chronology, research perspectives. Quaternary internat. 
+222, 2010, 80-95. 
+
+Eck 2004: W. Eck, Köln in römischer Zeit. Geschichte einer Stadt 
+im Rahmen des imperium Romanum. geschichte der stadt köln 
+1 (köln 2004). 
+
+Faust / Díaz Del Olmo / Baena Escudero 2000: D. Faust / F. Díaz Del 
+olmo / R. baena Escudero, soils in the holocene alluvial sedi-
+ments of the Rio Fraja Valley, Spain: in situ or soil-sediments? 
+catena 41, 2000, 133-142. 
+
+Fuchs / Fischer / Reverman 2010: M. Fuchs / M. Fischer / R. Rever-
+man, colluvial and alluvial sediment archives temporally resolved 
+by OSL dating: Implications for reconstructing soil erosion. Qua-
+ternary geochronology 5, 2010, 269-273. 
+
+Fuchs u. a. 2011: M. Fuchs / M. Will / E. Kunert / S. Kreutzer / M. 
+Fischer / R. Reverman, The temporal and spatial quantification 
+of holocene sediment dynamics in a meso-scale catchment in 
+northern bavaria, germany. holocene 21, 2011, 1093-1104. 
+
+Georges-Leroy / Bock / Dupouey 2009: M. Georges-Leroy / J. Bock / 
+E. D. E. j.-L. Dupouey, Le massif forestier, objet pertinent pour la 
+recherche archéologique. L'exemple du massif forestier de haye 
+(Meurthe-et-Moselle). Rev. géogr. l'Est 49, 2009 [unpaginiert, 
+http://rge.revues.org/1931]. 
+
+Goguey u. a. 2010: D. Goguey / Y. Pautrat / J.-P. Guillaumet / J.-P. 
+thevenot / L. popovitch, Dix ans d'archéologie forestière dans 
+le Châtillonnais (Côte-d'Or): enclos, habitats, parcellaires. Rev. 
+arch. Est 59, 2010, 99-209. 
+
+Haversath 1984: J.-B. Haversath, Die Agrarlandschaft im römisch-
+en Deutschland der kaiserzeit (1.-4. jh. n. chr.). passauer schr. 
+geogr. 2 (passau 1984). 
+
+Henrich 2006: P. Henrich, Die römische Besiedlung in der westli-
+chen vulkaneifel. trierer zeitschr. beih. 30 (trier 2006). 
+
+Houben / Wunderlich / Schrott 2009: P. Houben / J. Wunderlich / 
+L. schrott, climate and long-term human impact on sediment 
+fluxes in watershed systems. Geomorphology 108, 2009, 1-7. 
+
+Jäger 1962: K.-D. Jäger, Über Alter und Ursachen der Auelehm-
+ablagerungen thüringischer flüsse. prähist. zeitschr. 40, 1962, 
+1-59. 
+
+Kadereit / Kühn / Wagner 2010: A. Kadereit / P. Kühn / G. A. Wag-
+ner, holocene relief and soil changes in loess-covered areas of 
+south-western Germany: The pedosedimentary archives of 
+bretten-bauerbach (kraichgau). Quaternary internat. 222, 2010, 
+96-119. 
+
+Kuhnen 2007: H. P. Kuhnen, Schauplätze der spätrömischen Land-
+schafts-und umweltgeschichte am oberrhein. fundber. baden-
+württemberg 29, 2007, 533-558. 
+
+Literatur 
+
+
+205 
+
+Römische Landnutzung in der Eifel 
+
+Lang / Bork 2006: A. Lang / H.-R. Bork, Past soil erosion in Europe. 
+In: J. Boardman / J. Poesen (Hrsg.), Soil Erosion in Europe (Chi-
+chester 2006) 465-476. 
+
+Lang / Hönscheidt 2000: A. Lang / S. Hönscheidt, Age and source 
+of colluvial sediments at vaihingen-Enz, germany. catena 38, 
+2000, 89-107. 
+
+Lang / Niller / Rind 2003: A. Lang / H.-P. Niller / M. M. Rind, Land 
+degradation in Bronze Age Germany: Archaeological, pedologi-
+cal, and chronometrical evidence from a hilltop settlement on the 
+frauenberg, niederbayern. geoarchaeology 18, 2003, 757-778. 
+
+Leopold / Völkel 2007: M. Leopold / J. Völkel, Quantifying prehis-
+toric soil erosion -a review of soil loss methods and their appli-
+cation to a celtic square enclosure (viereckschanze) in southern 
+germany. geoarchaeology 22, 2007, 873-889. 
+
+Lespez u. a. 2008: L. Lespez / M. Clet-Pellerin / N. Limondin-Lozouet 
+/ j. f. pastre / M. fontugne / c. Marcigny, fluvial system evolution 
+and environmental changes during the holocene in the Mue val-
+ley (western france). geomorphology 98, 2008, 55-70. 
+
+Löhr 1998: H. Löhr, Accelerated Roman soil erosion in the Mosel 
+valley around Trier, Germany. In: F. Vermeulen / M. De Dapper 
+(hrsg.), geoarchaeology of the landscapes of classical antiquity. 
+international colloqium gent (Leuven 1998) 33-35. 
+
+2000: H. Löhr, Intensivierte Bodenerosion als Folge römischer 
+Landnutzung in der Trierer Talweite und ihrem Umfeld. In: A. 
+haffner / s. von schnurbein (hrsg.), kelten, germanen, Römer 
+im Mittelgebirgsraum zwischen Luxemburg und thüringen. ak-
+ten des internationalen kolloquiums zum Dfg-schwerpunktpro-
+gramm Romanisierung vom 28. bis 30. september 1998 in trier. 
+koll. vor-u. frühgesch. 5 (bonn 2000) 119-152. 
+
+Mangartz 2008: F. Mangartz, Römischer Basaltlava-Abbau zwisch-
+en Eifel und Rhein. Monogr. RgzM = vulkanpark-forsch. 7 
+(Mainz 2008). 
+
+McWhirr / Viner / Wells 1982: A. McWhirr / L. Viner / C. Wells, Ro-
+mano-british cementaries at cirencester. cirencester Excavations 
+ii (cirencester 1982). 
+
+Moldenhauer / Heinrich / Vater 2010: K. M. Moldenhauer / J. Hein-
+rich / a. vater, causes and history of multiple soil erosion process-
+es in the northern odenwald uplands. Erde 141, 2010, 171-186. 
+
+Montgomery 2010: D. R. Montgomery, Dreck -Warum unsere Zi-
+vilisation den boden unter den füßen verliert (München 2010). 
+
+Niller 1998: H.-P. Niller, Prähistorische Landschaften im Lößgebiet 
+bei Regensburg − Kolluvien, Auenlehme und Böden als Archive 
+der paläoumwelt. Regensburger geogr. schr. 31, 1998, 1-429 
+(promotionsarbeit). 
+
+Notebaert / Verstraeten 2010: B. Notebaert / G. Verstraeten, Sen-
+sitivity of west and central European river systems to environ-
+mental changes during the Holocene: A review. Earth-Science 
+Reviews 103, 2010, 163-182. 
+
+Oesterwind / Wenzel 2012: B. C. Oesterwind / St. Wenzel, Die Ent-
+wicklung des siedlungsgefüges der Eisenzeit zwischen Mayen 
+und Mendig. In: M. Schönfelder / S. Sievers (Hrsg.), L'âge du Fer 
+entre la champagne et la vallée du Rhin / Die Eisenzeit zwischen 
+champagne und Rheintal. 34. internationales kolloquium der 
+association française pour l'Étude de l'âge du fer vom 13. bis 
+16. Mai 2010 in aschaffenburg. RgzM -tagungen 14 (Mainz 
+2012) 337-363. 
+
+Oyama / Takehara 2002: M. Oyama / H. Takehara, Revised standard 
+soil color charts (giesbeek 2002). 
+
+Paret 1932: O. Paret, Die Siedlungen des römischen Württemberg 
+(stuttgart 1932). 
+
+Poreba / Snieszko / Moska 2011: G. Poreba / Z. Snieszko / P. Moska, 
+Some aspects of age assessment of Holocene loess colluvium: 
+osL and (137)cs dating of sediment from biala agricultural area, 
+south poland. Quaternary internat. 240, 2011, 44-51. 
+
+Raab / Hurkamp / Volkel 2010: T. Raab / K. Hurkamp / J. Volkel, Stra-
+tigraphy and chronology of late quaternary floodplain sediments 
+in a historic mining area, vils river valley, east bavaria, germany. 
+physical geography 31, 2010, 357-384. 
+
+Reimer u. a. 2009: P. J. Reimer / M. G. L. Baillie / E. Bard / A. Bayliss / J. 
+w. beck / p. g. blackwell / c. b. Ramsey / c. E. buck / g. s. burr / R. 
+L. Edwards / M. friedrich / p. M. grootes / t. p. guilderson / i. hajdas 
+/ t. j. heaton / a. g. hogg / k. a. hughen / k. f. kaiser / b. kromer / 
+f. g. Mccormac / s. w. Manning / R. w. Reimer / D. a. Richards / j. R. 
+southon / s. talamo / c. s. M. turney / j. van Der plicht / c. E. wey-
+henmeye, intcal09 and Marine09 Radiocarbon age calibration 
+curves, 0-50,000 Years cal bp. Radiocarbon 51, 2009, 1111-1150. 
+
+Reiß u. a. 2009: S. Reiß / S. Dreibrodt / C. C. M. Lubos / H.-R. Bork, 
+Land use history and historical soil erosion at albersdorf (north-
+ern germany) -ceased agricultural land use after the pre-histor-
+ical period. catena 77, 2009, 107-118. 
+
+Rommens u. a. 2007: T. Rommens / G. Verstraeten / I. Peeters / J. 
+poesen / g. govers / a. van Rompaey / b. Mauz / s. packman / 
+a. Lang, Reconstruction of late-holocene slope and dry valley 
+sediment dynamics in a belgian loess environment. holocene 17, 
+2007, 777-788. 
+
+Savio 2011: Hannah L. Savio, Sustainable Agriculture in Ancient 
+Rome. senior capstone projects. paper 2 (poughkeepsie, nY). 
+http://digitalwindow.vassar.edu/senior_capstone/2 (7.8.2012). 
+
+Schmitt u. a. 2006: A. Schmitt / J. Rodzik / W. Zglobicki / C. Russok 
+/ M. Dotterweich / h.-R. bork, time and scale of gully erosion in 
+the jedliczny Dol gully system, south-east poland. catena 68, 
+2006, 124-132. 
+
+Schreg 2008: R. Schreg, Bevölkerungswachstum und Agrarisierung. 
+faktoren des früh-und hochmittelalterlichen Landesausbaus im 
+Spiegel umweltarchäologischer Forschungen. In: B. Herrmann 
+(hrsg.), vorträge im umwelthistorischen kolloquium göttingen 
+2007-2008 (göttingen 2008) 117-146. 
+
+Schreg 2009: R. Schreg, 500-1000 AD − Siedlungszunahme und 
+stollenbau -Der Mensch gestaltet die Landschaft nach seinen 
+Vorstellungen. In: F. Sirocko (Hrsg.), Wetter, Klima, Menschheits-
+entwicklung. Von der Eiszeit bis ins 21. Jahrhundert (Darmstadt 
+2009) 154-159. 
+
+Schütt u. a. 2011: B. Schütt / M. Frechen / P. Hoelzmann / G. 
+fritzen wenger, Late Quaternary landscape evolution in a small 
+catchment on the chinese Loess plateau. Quaternary internat. 
+234, 2011, 159-166. 
+
+Schweingruber 1990a: F. H. Schweingruber, European wood ana-
+tomy (bern 1990). 
+
+1990b: F. H. Schweingruber, Mikroskopische Holz anatomie -
+formenspektren mitteleuropäischer stamm-und zweig hölzer 
+zur bestimmung von rezentem und subfossilem Material (bir-
+mensdorf 1990). 
+
+Seel 1963: K. A. Seel, Römerzeitliche Fluren im Mayener Stadtwald. 
+bonner jahrb. 163, 1963, 317-341. 
+
+Sirocko / Alt / David-Sirocko 2009: F. Sirocko / K. W. Alt / K. David-
+Sirocko, Das nasskalte 14. Jahrhundert − Hunger, Pest und Tod. 
+
+
+206 
+
+m. dotterweich u. a. • Landschaftsentwicklung seit der Römerzeit im westlichen segbachtal 
+
+In: F. Sirocko (Hrsg.), Wetter, Klima, Menschheitsentwicklung. Von 
+der Eiszeit bis ins 21. Jahrhundert (Darmstadt 2009) 165-169. 
+
+Smolska 2007: E. Smolska, Development of gullies and sediment 
+fans in last-glacial areas on the example of the suwalki Lakeland 
+(nE poland). catena 71, 2007, 122-131. 
+
+Stolz / Grunert 2006: C. Stolz / J. Grunert, Holocene colluvia, me-
+dieval gully formation and historical land use. a case study from 
+the Taunus Mountains/southern Rhenish Slate Massif. In: B. Eitel 
+(hrsg.), holocene Landscape Development and geoarchaeologi-
+cal Research = zeitschr. geomorphologie suppl. ser. 142, 2006, 
+175-194. 
+
+2010: C. Stolz / J. Grunert, Late Pleistocene and Holocene land-
+scape history of the central palatinate forest (pfälzerwald, south-
+western germany). Quaternary internat. 222, 2010, 129-142. 
+
+Stuiver / Reimer 1993: M. Stuiver / P. J. Reimer, Extended 14C data-
+base and revised caLib radiocarbon calibration program. Radio-
+carbon 35, 1993, 215-230. 
+
+Szwarczewski 2009: P. Szwarczewski, The formation of deluvial 
+and alluvial cones as a consequence of human settlement on 
+a loess plateau: an example from the Chroberz area (Poland). 
+Radiocarbon 51, 2009, 445-455. 
+
+Trimble 1974: S. W. Trimble, Man-induced soil erosion on southern 
+piedmont (ankeny / iowa 1974). 
+
+Van Ossel 1998: P. Van Ossel (Hrsg.), Les jardins du Carrousel (Paris). 
+De la campagne à la ville: la formation d'un espace urbain. Doc. 
+arch. française 73 (paris 1998). 
+
+Vanwalleghem u. a. 2006: T. Vanwalleghem / H.-R. Bork / J. Poesen 
+/ M. Dotterweich / g. schmidtchen / j. Deckers / s. scheers / M. 
+Martens, Prehistoric and roman gullying in the European loess belt: 
+a case study from central belgium. holocene 16, 2006, 393-401. 
+
+Waters / Haynes 2001: M. R. Waters / C. V. Haynes, Late Quaternary 
+arroyo formation and climate change in the american south-
+west. geology 29, 2001, 399-402. 
+
+Whitford u. a. 2010: J. A. Whitford / L. T. H. Newham / O. Vigiak / 
+a. R. Melland / a. M. Roberts, Rapid assessment of gully sidewall 
+erosion rates in data-poor catchments: A case study in Australia. 
+geomorphology 118, 2010, 330-338. 
+
+Wilkinson 2003: K. N. Wilkinson, Colluvial deposits in dry valleys of 
+southern England as proxy indicators of paleoenvironmental and 
+land-use change. geoarchaeology 18, 2003, 725-755. 
+
+Wu u. a. 2008: Y. Wu / Q. Zheng / Y. Zhang / B. Liu / H. Cheng / Y. 
+wang, Development of gullies and sediment production in the 
+black soil region of northeastern china. geomorphology 101, 
+2008, 683-691. 
+
+Zolitschka 1998: B. Zolitschka, A 14.000 year sediment yield record 
+from western germany based on annually laminated lake sedi-
+ments. geomorphology 22, 1998, 1-17. 
+
+Zygmunt 2004: E. Zygmunt, Archaeological and radiocarbon da-
+ting of alluvial fans as an indicator of prehistoric colonisation of 
+the Głubczyce Plateau (Southwestern Poland). Geochronometria 
+23, 2004, 101-107. 
+
+Zusammenfassung / Résumé 
+
+Landschaftsentwicklung seit der Römerzeit im westlichen Segbachtal bei Mayen (Lkr. Mayen-Koblenz) in 
+der Osteifel. Erste Teilprojektergebnisse des DFG-Projekts »Zur Landnutzung im Umfeld eines römischen 
+Industriereviers« 
+Bodenkundlich-sedimentologische Untersuchungen an Hangkolluvien, Auensedimenten und Altflurrelikten im westli-
+chen segbachtal (osteifel) zeigen, dass in den letzten 2500 jahren deutliche Eingriffe in den wasser-und stoffhaushalt 
+vorgenommen wurden. Die bildung von auensedimenten lässt sich ab der frühlatènezeit belegen. besonders mäch-
+tige schichten stammen aus der spätlatènezeit bis frühen Römischen kaiserzeit (feiner auenlehm) und aus dem 
+Mittelalter (von den hängen herabgespültes kieshaltiges sediment). für die Römische kaiserzeit konnte die anlage 
+eines quer zum tal liegenden Mauersystems nachgewiesen werden, das in verbindung mit einem vermuteten 
+wasser becken steht. ungewöhnlich sind ein spätantikes Drainagesystem sowie eine möglicherweise römerzeitliche 
+Rekultivierungsmaßnahme an einem ehemaligen steinbruch. als folge dieser und weiterer baulicher Maßnahmen und 
+Landnutzungen fand eine deutliche veränderung des Erosions-und sedimentationsregimes statt. 
+

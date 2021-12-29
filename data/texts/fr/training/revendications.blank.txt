@@ -1,0 +1,1776 @@
+
+Revendications 
+
+1. Véhicule comprenant une chaîne cinématique qui 
+présente : une unité d'entraînement (238), une boîte 
+de vitesses (330) avec un premier arbre d'entrée de 
+boîte et un deuxième arbre d'entrée de boîte, et un 
+dispositif d'embrayage (202) avec un premier en-
+semble d'embrayage qui est associé au premier ar-
+bre d'entrée de boîte et un deuxième ensemble 
+d'embrayage qui est associé au deuxième arbre 
+d'entrée de boîte, pour la transmission de couple 
+entre l'unité d'entraînement et la boîte de vitesses, 
+sachant que les ensembles d'embrayage sont réa-
+lisés sous la forme d'ensembles d'embrayage mul-
+tidisques (204, 206) auxquels peut être apporté un 
+liquide de service, notamment un liquide de refroi-
+dissement, pour un fonctionnement sous l'action du 
+liquide de service, 
+sachant qu'un ensemble d'actionneur (236 ; 414) et 
+un dispositif de commande (316) commandant l'en-
+semble d'actionneur, par l'intermédiaire desquels 
+des rapports de boîte associés au premier et au 
+deuxième arbres d'entrée de boîte peuvent être en-
+gagés et désengagés, sont associés à la boîte de 
+vitesses, 
+sachant que la boîte de vitesses présente des élé-
+ments de sélection (412) associés aux rapports de 
+boîte et des éléments de synchronisation (412) as-
+sociés ou correspondant à ces derniers, sachant que 
+pour engager un rapport -appelé dans la suite rap-
+port cible -, au moins un élément de synchronisation 
+associé au rapport cible peut être activé au moyen 
+de l'ensemble d'actionneur (414) pour synchroniser 
+au moins un arbre de boîte associé au rapport cible, 
+notamment l'arbre d'entrée de boîte associé au rap-
+port cible, 
+caractérisé en ce que, afin d'engager le rapport 
+cible, au moins un élément de synchronisation (412) 
+associé à au moins un autre rapport peut être en 
+outre activé au moyen de l'ensemble d'actionneur 
+(414) pour synchroniser l'arbre de boîte associé au 
+rapport cible. 
+
+2. Véhicule selon la revendication 1, caractérisé par 
+une fonctionnalité de sécurité (316) qui empêche 
+l'engagement non intentionnel de l'autre rapport. 
+
+3. Véhicule selon la revendication 2, caractérisé en 
+ce que le dispositif de commande (316) est conçu 
+pour identifier sur la base de vitesses de rotation 
+détectées l'approche d'un point de synchronisation 
+associé à l'autre rapport, et pour supprimer ou ré-
+duire avant l'atteinte du point de synchronisation les 
+forces d'activation agissant sur au moins un élément 
+de sélection (412) et/ou un élément de synchronisa-
+tion (412) associé à l'autre rapport, afin d'empêcher 
+l'engagement de l'autre rapport. 
+
+39 
+40 
+
+
+EP 1 544 512 B1 
+
+22 
+
+5 
+
+10 
+
+15 
+
+20 
+
+25 
+
+30 
+
+35 
+
+40 
+
+45 
+
+50 
+
+55 
+
+4. Véhicule selon l'une quelconque des revendications 
+1 à 3, caractérisé en ce que le dispositif de com-
+mande (316) est conçu pour, au moyen de l'ensem-
+ble d'actionneur (414), activer en cas de besoin l'élé-
+ment de synchronisation au moins unique (412) as-
+socié à l'autre rapport au moins unique si au moins 
+une condition positive est remplie et/ou si au moins 
+une condition négative n'est pas remplie. 
+
+5. Véhicule comprenant une chaîne cinématique qui 
+présente : une unité d'entraînement (238), une boîte 
+de vitesses (330) commandée en charge avec un 
+premier arbre d'entrée de boîte et un deuxième arbre 
+d'entrée de boîte, et un dispositif d'embrayage (202) 
+avec un premier ensemble d'embrayage qui est as-
+socié au premier arbre d'entrée de boîte et un 
+deuxième ensemble d'embrayage qui est associé 
+au deuxième arbre d'entrée de boîte, pour la trans-
+mission de couple entre l'unité d'entraînement et la 
+boîte de vitesses, 
+sachant que les ensembles d'embrayage sont réa-
+lisés sous la forme d'ensembles d'embrayage mul-
+tidisques (204, 206) auxquels peut être apporté un 
+liquide de service, notamment un liquide de refroi-
+dissement, pour un fonctionnement sous l'action du 
+liquide de service, 
+sachant qu'un ensemble d'actionneur (236; 414) et 
+un dispositif de commande (316) commandant l'en-
+semble d'actionneur, par l'intermédiaire desquels 
+des rapports de boîte associés au premier et au 
+deuxième arbres d'entrée de boîte peuvent être en-
+gagés et désengagés, sont associés à la boîte de 
+vitesses, sachant que le dispositif de commande as-
+servit en outre un dispositif d'actionnement (234) de 
+préférence hydraulique associé ou affecté au dispo-
+sitif d'embrayage pour actionner les ensembles 
+d'embrayage dans le sens d'embrayage et dans le 
+sens de débrayage, 
+sachant que le dispositif de commande (316) est 
+conçu pour, dans un mode de passage de rapport 
+en charge, dans un état de la boîte de vitesses dans 
+lequel un rapport initial associé au premier arbre 
+d'entrée de boîte et un rapport cible associé à l'autre 
+arbre d'entrée de boîte sont engagés, actionner les 
+ensembles d'embrayage (204, 206) en sens contrai-
+res au moyen du dispositif d'actionnement (234) afin 
+de déplacer un couple d'entraînement de l'unité 
+d'entraînement d'un arbre d'entrée de boîte à l'autre 
+en continu et sans interruption de la force de traction 
+et ainsi de désactiver le rapport initial comme rapport 
+transmetteur de couple et d'activer le rapport cible 
+comme rapport transmetteur de couple, 
+caractérisé en ce qu'il est prévu un mode de syn-
+chronisation actif dans lequel, en vue de la désacti-
+vation du rapport initial comme rapport transmetteur 
+de couple et de l'activation du rapport cible comme 
+rapport transmetteur de couple, le rapport initial est 
+d'abord désengagé et/ou l'ensemble d'embrayage 
+
+associé au rapport initial est d'abord ouvert, puis la 
+vitesse de rotation de l'unité d'entraînement et la vi-
+tesse de rotation de l'arbre d'entrée de boîte associé 
+au rapport cible sont amenées au ratio de synchro-
+nisation du rapport cible, et enfin le rapport cible est 
+engagé. 
+
+6. Véhicule selon la revendication 5, caractérisé en 
+ce que, dans le mode de synchronisation actif, la 
+vitesse de rotation de l'unité d'entraînement et la vi-
+tesse de rotation de l'arbre d'entrée de boîte associé 
+au rapport cible sont amenées conjointement au ra-
+tio de synchronisation du rapport cible par le fait que, 
+lorsque la vitesse de rotation de l'unité d'entraîne-
+ment est amenée au ratio de synchronisation, l'en-
+semble d'embrayage associé au rapport cible est au 
+moins partiellement embrayé. 
+
+7. Véhicule selon la revendication 5, caractérisé en 
+ce que, dans le mode de synchronisation actif, après 
+avoir amené la vitesse de rotation de l'unité d'entraî-
+nement au ratio de synchronisation, la vitesse de 
+rotation de l'arbre d'entrée de boîte associé au rap-
+port cible est amenée au ratio de synchronisation en 
+embrayant au moins partiellement l'ensemble d'em-
+brayage associé au rapport cible. 
+
+8. Véhicule selon l'une quelconque des revendications 
+5 à 7, caractérisé en ce que le mode de synchro-
+nisation active, concernant le passage à un rapport 
+supérieur, n'est autorisé que si une vitesse momen-
+tanée du véhicule rapportée au rapport cible est éga-
+le ou supérieure à un régime minimal de ralenti de 
+l'unité d'entraînement. 
+
+9. Véhicule comprenant une chaîne cinématique qui 
+présente: une unité d'entraînement (238), une boîte 
+de vitesses (330) commandée en charge avec un 
+premier arbre d'entrée de boîte et un deuxième arbre 
+d'entrée de boîte, et un dispositif d'embrayage (202) 
+avec un premier ensemble d'embrayage qui est as-
+socié au premier arbre d'entrée de boîte et un 
+deuxième ensemble d'embrayage qui est associé 
+au deuxième arbre d'entrée de boîte, pour la trans-
+mission de couple entre l'unité d'entraînement et la 
+boîte de vitesses, 
+sachant que les ensembles d'embrayage sont réa-
+lisés sous la forme d'ensembles d'embrayage mul-
+tidisques (204, 206) auxquels peut être apporté un 
+liquide de service, notamment un liquide de refroi-
+dissement, pour un fonctionnement sous l'action du 
+liquide de service, 
+sachant qu'un ensemble d'actionneur (236, 414) et 
+un dispositif de commande (316) commandant l'en-
+semble d'actionneur, par l'intermédiaire desquels 
+des rapports de boîte associés au premier et au 
+deuxième arbres d'entrée de boîte peuvent être en-
+gagés et désengagés, sont associés à la boîte de 
+
+41 
+42 
+
+
+EP 1 544 512 B1 
+
+23 
+
+5 
+
+10 
+
+15 
+
+20 
+
+25 
+
+30 
+
+35 
+
+40 
+
+45 
+
+50 
+
+55 
+
+vitesses, sachant que le dispositif de commande as-
+servit en outre un dispositif d'actionnement (234) de 
+préférence hydraulique associé ou affecté au dispo-
+sitif d'embrayage pour actionner les ensembles 
+d'embrayage dans le sens d'embrayage et dans le 
+sens de débrayage, 
+sachant que le dispositif de commande (316) est 
+conçu pour, dans un mode de passage de rapport 
+en charge, dans un état de la boîte de vitesses dans 
+lequel un rapport initial associé au premier arbre 
+d'entrée de boîte et un rapport cible associé à l'autre 
+arbre d'entrée de boîte sont engagés, actionner les 
+ensembles d'embrayage (204, 206) en sens contrai-
+res au moyen du dispositif d'actionnement (234) afin 
+de déplacer un couple d'entraînement de l'unité 
+d'entraînement d'un arbre d'entrée de boîte à l'autre 
+en continu et sans interruption de la force de traction 
+et ainsi de désactiver le rapport initial comme rapport 
+transmetteur de couple et d'activer le rapport cible 
+comme rapport transmetteur de couple, 
+caractérisé en ce que le dispositif de commande 
+(316) est conçu pour, lors du passage d'un rapport 
+initial supérieur à un rapport cible inférieur, donc lors 
+d'une rétrogradation, en préparation d'un engage-
+ment du rapport cible, agir sur l'unité d'entraînement 
+de telle sorte que le couple d'entraînement de celle-
+ci augmente au-delà d'un couple pouvant être trans-
+mis par l'ensemble d'embrayage associé au rapport 
+initial, de sorte que la vitesse de rotation de l'unité 
+d'entraînement augmente au-delà de la vitesse de 
+rotation momentanée de l'arbre d'entrée de boîte as-
+socié au rapport initial et au moins s'approche d'une 
+vitesse de rotation synchrone pour le rapport cible 
+qui est dépendante de la vitesse momentanée du 
+véhicule, et de préférence atteint au moins approxi-
+mativement cette vitesse de rotation, et en ce que 
+le dispositif de commande (316) est conçu pour, au 
+cours de l'augmentation du couple d'entraînement 
+ou encore de l'accélération de l'arbre d'entrée de 
+boîte associé au rapport cible ou ensuite, comman-
+der l'ensemble d'actionneur (236 ; 414) de telle sorte 
+que ce dernier agit sur la boîte de vitesses au sens 
+d'un engagement du rapport cible. 
+
+10. Véhicule selon la revendication 9, caractérisé en 
+ce que le dispositif de commande (316) est conçu 
+pour, en même temps que l'augmentation du couple 
+d'entraînement ou ensuite, actionner l'ensemble 
+d'embrayage associé au rapport cible dans le sens 
+d'embrayage afin d'accélérer l'arbre d'entrée de boî-
+te associé au rapport cible dans le sens d'un rappro-
+chement de la vitesse de rotation synchrone, et de 
+préférence l'amener au moins approximativement à 
+la vitesse de rotation synchrone. 
+
+11. Véhicule comprenant une chaîne cinématique qui 
+présente : une unité d'entraînement (238), une boîte 
+de vitesses (330) commandée en charge avec un 
+
+premier arbre d'entrée de boîte et un deuxième arbre 
+d'entrée de boîte, et un dispositif d'embrayage (202) 
+avec un premier ensemble d'embrayage qui est as-
+socié au premier arbre d'entrée de boîte et un 
+deuxième ensemble d'embrayage qui est associé 
+au deuxième arbre d'entrée de boîte, pour la trans-
+mission de couple entre l'unité d'entraînement et la 
+boîte de vitesses, 
+sachant que les ensembles d'embrayage sont réa-
+lisés sous la forme d'ensembles d'embrayage mul-
+tidisques (204, 206) auxquels peut être apporté un 
+liquide de service, notamment un liquide de refroi-
+dissement, pour un fonctionnement sous l'action du 
+liquide de service, 
+sachant qu'un ensemble d'actionneur (236 ; 414) et 
+un dispositif de commande (316) commandant l'en-
+semble d'actionneur, par l'intermédiaire desquels 
+des rapports de boîte associés au premier et au 
+deuxième arbres d'entrée de boîte peuvent être en-
+gagés et désengagés, sont associés à la boîte de 
+vitesses, sachant que le dispositif de commande as-
+servit en outre un dispositif d'actionnement (234) de 
+préférence hydraulique associé ou affecté au dispo-
+sitif d'embrayage pour actionner les ensembles 
+d'embrayage dans le sens d'embrayage et dans le 
+sens de débrayage, 
+sachant que le dispositif de commande (316) est 
+conçu pour, dans un mode de passage de rapport 
+en charge, dans un état de la boîte de vitesses dans 
+lequel un rapport initial associé au premier arbre 
+d'entrée de boîte et un rapport cible associé à l'autre 
+arbre d'entrée de boîte sont engagés, actionner les 
+ensembles d'embrayage (204, 206) en sens contrai-
+res au moyen du dispositif d'actionnement (234) afin 
+de déplacer un couple d'entraînement de l'unité 
+d'entraînement d'un arbre d'entrée de boîte à l'autre 
+en continu et sans interruption de la force de traction 
+et ainsi de désactiver le rapport initial comme rapport 
+transmetteur de couple et d'activer le rapport cible 
+comme rapport transmetteur de couple, 
+et sachant que le dispositif de commande (316) est 
+conçu pour, lors du passage d'un rapport initial infé-
+rieur à un rapport cible supérieur, donc lors d'une 
+montée de rapport, en préparation d'un engagement 
+du rapport cible, actionner l'ensemble d'embrayage 
+associé au rapport cible dans le sens d'embrayage 
+à partir d'un état débrayé suffisamment pour que l'ar-
+bre d'entrée de boîte associé au rapport cible -arbre 
+qui jusqu'alors, du fait de l'action de couples de glis-
+sement de boîte et/ou de couples de freinage, tourne 
+au plus à une vitesse de rotation inférieure à la vi-
+tesse de synchronisation pour le rapport cible -soit 
+accéléré dans le sens d'un rapprochement de la vi-
+tesse de synchronisation et de préférence atteigne 
+au moins approximativement celle-ci, 
+caractérisé en ce que le dispositif de commande 
+(316) évalue une température effective du liquide de 
+service -qui est détectée par un ensemble de cap-
+
+43 
+44 
+
+
+EP 1 544 512 B1 
+
+24 
+
+5 
+
+10 
+
+15 
+
+20 
+
+25 
+
+30 
+
+35 
+
+40 
+
+45 
+
+50 
+
+55 
+
+teur et/ou déterminée par le dispositif de commande 
+-et, en fonction de cette évaluation, débloque ou 
+bloque un fonctionnement normal de passage de 
+rapports et d'embrayage, avec libre choix des rap-
+ports et/ou passage des rapports sans interruption 
+de la force de traction. 
+
+12. Véhicule selon la revendication 11, caractérisé en 
+ce que le dispositif de commande (316) est conçu 
+pour, au cours de l'accélération de l'arbre d'entrée 
+de boîte associé au rapport cible ou ensuite, com-
+mander l'ensemble d'actionneur (236 ; 414) de telle 
+sorte que ce dernier, en vue de la préparation de 
+l'actionnement en sens contraires des ensembles 
+d'embrayage, agit sur la boîte de vitesses au sens 
+d'un engagement du rapport cible. 
+
+13. Véhicule selon la revendication 11, caractérisé en 
+ce que le dispositif de commande (316) débloque 
+le fonctionnement normal de passage de rapports 
+et d'embrayage si la température effective dépasse 
+une valeur de seuil ou si une viscosité du liquide de 
+service -déterminée à partir de la température ef-
+fective -est tombée sous une valeur de seuil. 
+
+14. Véhicule selon la revendication 13 ou 14, caracté-
+risé en ce que le dispositif de commande (316) est 
+conçu pour déterminer la température effective du 
+liquide de service à partir d'au moins une valeur de 
+température qui est déterminée au moyen d'un en-
+semble de capteur et qui n'indique pas directement 
+la température effective du liquide de service, et/ou 
+à partir d'au moins un paramètre de service de la 
+chaîne cinématique, sachant que la détermination 
+peut éventuellement se baser sur plusieurs valeurs 
+de température ou paramètres de service consigné 
+(e) s à différents instants, et/ou sur un modèle de 
+température défini par exemple mathématiquement 
+et/ou par des diagrammes caractéristiques. 
+
+
+
+
+
+
+
+Revendications 
+
+1. Conjugué d'un composé cytostatique et d'un polyéthylène glycol, où le composé cytostatique est couplé à un 
+polyéthylène glycol avec au moins un groupe HS-ou H 2 N par l'intermédiaire d'un écarteur, qui comprend un groupe 
+provenant d'un groupe maléinimido, où le polyéthylène glycol présente une masse allant de 5000 à 200 000 Da 
+environ, et où le composé cytostatique est choisi dans le groupe des anthracyclines, des dérivés non azotés, de 
+l'antagoniste thioguanine de la purine, des antagonistes 5-fluorouracil et 5'-désoxy-5-fluorouridine de la pyrimidine, 
+de l'antagoniste méthotrexate de l'acide folique, des taxoïdes, des camptothécines, des dérivés de podophyllotoxine, 
+des alcaloïdes de Vinca ou des complexes de platine (II) configurés cis. 
+
+2. Conjugué selon la revendication 1, où le composé cytostatique est choisi dans le groupe constitué de la doxorubicine, 
+la daunorubicine, l'épirubicine, l'idarubicine, la mitoxantrone, le chlorambucil, le melphalan, le paclitaxel, le docétaxel, 
+le topotecan, la 9-aminocamptothécine, l'étoposide, le téniposide, le mitopodozide, la vinblastine, la vincristine, la 
+vindésine, la vinorelbine et les composés des formules générales I, II, III ou IV, 
+
+dans lesquelles 
+n=0-6, X=-NH 2 , -OH, -COOH, -O-CO-R-COR* ou NH-CO-R-COR*, 
+où R est une chaîne carbonée aliphatique ayant de 1 à 6 atomes de carbone ou un groupe phénylène substitué ou 
+non substitué, et R* est H, un groupe phényle ou alkyle avec de 1 à 6 atomes de carbone. 
+
+3. Conjugué selon la revendication 2, où le composé cytostatique avec l'écarteur, qui comprend un groupe provenant 
+d'un groupe maléinimido, est produit par conversion du composé cytostatique avec un composé maléinimide de 
+formule V, VI ou VII 
+
+
+EP 1 447 099 B1 
+
+19 
+
+5 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+dans lesquelles, si R est une chaîne carbonée aliphatique ayant de 1 à 6 atomes de carbone, Y=-OH, -COOH, 
+-COCl, -CONH-(CH 2 ) n -OH, COO-(CH 2 ) n -NH 2 , -COO-(CH 2 ) n -NHNH 2 , -SO 3 H, -SO 3 Cl, -SO 2 -NHNH 2 , -O-COCl, 
+-CHO ou -COR* avec n=1-6 et R* représente H, un groupe phényle ou alkyle ayant de 1 à 6 atomes de carbone 
+et si R est un groupe benzyle substitué ou non substitué ou un groupe phényle substitué ou non substitué, Y=-OH, 
+-COOH, -COCl, -CONH-(CH 2 ) n -OH, -COO-(CH 2 ) n -NH 2 , -COO-(CH 2 ) n -NHNH 2 , -SO 3 H, -SO 3 Cl, -SO 2 -NHNH 2 , -O-
+COCl, -CHO ou -COR* avec n=1-6 et R* représente H, un groupe phényle ou alkyle ayant de 1 à 6 atomes de 
+carbone, et le dérivé de maléinimide ainsi obtenu du composé cytostatique est couplé au polyéthylène glycol, où 
+la relation chimique entre le composé cytostatique et le composé maléinimide s'effectue par le biais d'une liaison 
+amide, ester, imine, hydrazone, carboxylhydrazone, oxycarbonyle, acétal ou cétal. 
+
+4. Conjugué selon la revendication 2 ou 3, où le groupe provenant d'un composé bismaléinimide est produit par 
+conjugaison du polyéthylène glycol thiolé couplé à 2 à 30 équivalents de composé cytostatique avec un composé 
+bismaléinimide de formule XI 
+
+dans laquelle Z=-CO-NH-(CH 2 ) n -NH-CO-, -CO-O-(CH 2 ) n -O-CO-, -CH=N-(CH 2 ) n -N=CH-, -C=N-NH-(CH 2 ) n -NH-
+N=CH-ou -CH=N-NH-CO-(CH 2 ) n -CO-NH-N=CH-et n=2-12. 
+
+5. Procédé de préparation d'un conjugué d'un composé cytostatique et de polyéthylène glycol selon l'une quelconque 
+des revendications 1 à 4, comprenant les étapes de w: 
+
+(a) conversion d'un composé cytostatique avec un composé maléinimide, de sorte que les dérivés maléinimide 
+du composé cytostatique soient préparés, la relation chimique entre le composé cytostatique et le composé 
+
+
+EP 1 447 099 B1 
+
+20 
+
+5 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+maléinimide s'effectuant par le biais d'une liaison amide, ester, imine, hydrazone, carboxylhydrazone, oxycar-
+bonyle, acétal ou cétal, et 
+(b) couplage du dérivé de maléinimide obtenu à l'étape (a) du composé cytostatique au polyéthylène glycol 
+avec au moins un groupe HS ou H2N et une masse allant de 5000 à 200 000 Da. 
+
+6. Médicament contenant un conjugué, selon l'une quelconque des revendications 1 à 4, éventuellement avec des 
+supports et auxiliaires usuels. 
+
+7. Utilisation d'un conjugué, selon l'une quelconque des revendications 1 à 4, pour la préparation d'un médicament 
+pour le traitement des maladies cancéreuses. 
+
+8. Utilisation selon la revendication 7, les maladies cancéreuses comprenant les carcinomes de la vésicule, des 
+poumons, du sein, du mélanome et de la prostate. 
+
+
+
+
+
+
+Revendications 
+
+1. Utilisation d'au moins un hydrate de carbone non dégradable par les enzymes de l'appareil digestif sélectionné 
+dans le groupe comprenant le 1-O-α-D-glucopyranosyl-D-sorbitol, le 6-O-α-D-glucopyranosyl-D-sorbitol, l'acide 
+lactobionique et l'acide maltobionique et un mélange de ceux-ci en tant que principe actif pour la fabrication d'un 
+médicament destiné au traitement des infections intestinales provoquées par un micro-organisme du genre Salmo-
+nella, E. coli ou Shigella chez un animal. 
+
+2. Utilisation selon la revendication 1, dans laquelle l'animal concerné est un animal monogastrique. 
+
+3. Utilisation selon la revendication 1 ou 2, dans laquelle l'animal monogastrique est un animal d'élevage. 
+
+4. Utilisation selon l'une quelconque des revendications 1 à 3, dans laquelle l'animal d'élevage est un cochon ou une 
+poule. 
+
+5. Utilisation selon l'une quelconque des revendications 1 à 4, dans laquelle le 6-O-α-D-glucopyranosyl-D-sorbitol est 
+contenu dans un mélange qui contient en plus du 1-O-α-D-glucopyranosyl-D-mannitol, les deux composantes étant 
+présentes selon un rapport quantitatif allant de 1 : 99 à 99 : 1. 
+
+6. Utilisation selon l'une quelconque des revendications 1 à 4, dans laquelle le 1-O-α-D-glucopyranosyl-D-sorbitol et 
+le 6-O-α-D-glucopyranosyl-D-sorbitol sont contenus dans un mélange qui contient en plus du 1-O-α-D-glucopyra-
+nosyl-D-mannitol. 
+
+7. Utilisation selon l'une quelconque des revendications 1 à 6, dans laquelle le principe actif est administré sous la 
+forme d'une composition pharmaceutique. 
+
+8. Utilisation selon la revendication 7, dans laquelle le principe actif est administré par voie orale. 
+
+9. Utilisation selon la revendication 8, dans laquelle le principe actif est administré sous la forme d'une suspension, 
+d'un comprimé, d'une pilule, d'une gélule, d'un granulé ou d'une poudre. 
+
+10. Utilisation selon l'une quelconque des revendications 1 à 6, dans laquelle l'hydrate de carbone administré est 
+contenu en tant que complément dans un aliment pour animal, dans un aliment diététique pour animal ou dans de 
+l'eau potable. 
+
+11. Aliment pour animal contenant, en tant que complément, au moins un hydrate de carbone non dégradable par les 
+enzymes de l'appareil digestif, sélectionné dans le groupe se composant de l'acide lactobionique, de l'acide mal-
+tobionique et d'un mélange de ceux-ci. 
+
+12. Aliment pour animal selon la revendication 11 qui est un aliment diététique pour animal. 
+
+
+EP 1 357 917 B1 
+
+19 
+
+Revendications 
+
+1. Dispositif pour analyser des échantillons chimiques 
+ou biologiques comportant 
+un support qui présente une chemise essentielle-
+ment cylindrique dans laquelle au moins un filetage 
+profond hélicoïdal est taillé sur au moins une partie 
+de sa surface, lequel est fonctionnalisé de manière 
+à ce que des échantillons et/ou des cibles chimiques 
+ou biologiques puissent être appliquées dans le fi-
+letage, 
+un logement présentant un évidement essentielle-
+ment cylindrique et essentiellement complémentaire 
+au support, dans lequel le support peut être introduit 
+de manière à former, entre le support et la face in-
+terne de l'évidement du logement, au moins un canal 
+comportant des volumes de réaction définis. 
+
+2. Dispositif selon la revendication 1, caractérisé en 
+ce qu'on prévoit en outre des moyens pour agir chi-
+miquement ou physiquement sur les échantillons 
+et/ou cibles appliqués dans le filetage fonctionnalisé. 
+
+3. Dispositif selon l'une quelconque des revendications 
+1 ou 2, caractérisé en ce qu'on prévoit en outre 
+des moyens pour analyser les échantillons et/ou les 
+cibles. 
+
+4. Dispositif selon la revendication 3, caractérisé en 
+ce que le logement présente un dispositif d'excita-
+tion et de détection pour étudier les cibles et/ou son-
+des chimiques ou biologiques. 
+
+5. Dispositif selon la revendication 4, caractérisé en 
+ce que le dispositif d'excitation et de détection est 
+intégré dans le logement. 
+
+6. Dispositif selon la revendication 5, caractérisé en 
+ce que le dispositif d'excitation et de détection est 
+disposé à l'entrée, à l'extérieur de l'évidement du 
+logement. 
+
+7. Dispositif selon l'une quelconque des revendications 
+4 à 6, caractérisé en ce que le dispositif de détec-
+tion présente des moyens pour mesurer des signaux 
+de chimioluminescence, des signaux de fluorescen-
+ce, des signaux d'absorption ou la radioactivité. 
+
+8. Dispositif selon l'une quelconque des revendications 
+1 à 7, caractérisé en ce qu'on prévoit en outre un 
+dispositif d'entraînement pour faire pénétrer le sup-
+port dans le logement et sortir le support du loge-
+
+31 
+32 
+
+
+EP 1 303 353 B1 
+
+18 
+
+5 
+
+10 
+
+15 
+
+20 
+
+25 
+
+30 
+
+35 
+
+40 
+
+45 
+
+50 
+
+55 
+
+ment. 
+
+9. Dispositif selon l'une quelconque des revendications 
+1 à 8, caractérisé en ce qu'on prévoit en outre des 
+moyens pour acheminer des fluides à travers le ca-
+nal défini entre le support et le logement. 
+
+10. Dispositif selon la revendication 9, caractérisé en 
+ce que les moyens pour acheminer des fluides com-
+portent au moins un réservoir de fluide et un dispositif 
+de pompage. 
+
+11. Dispositif selon la revendication 10, caractérisé en 
+ce que les moyens sont configurés pour acheminer 
+des fluides depuis le support agissant comme piston 
+et l'évidement du logement servant de réservoir de 
+fluide. 
+
+12. Dispositif selon la revendication 11, caractérisé en 
+ce que le support comporte sur le devant un tronçon 
+cylindrique non fileté dont le diamètre extérieur cor-
+respond essentiellement au diamètre intérieur de 
+l'évidement du logement. 
+
+13. Dispositif selon la revendication 12, caractérisé en 
+ce que dans le tronçon cylindrique non fileté, il y a 
+un passage qui communique, d'une part, avec le pas 
+de filet du support et, d'autre part, lorsque celui-ci 
+est à l'intérieur, avec l'évidement du logement. 
+
+14. Dispositif selon l'une quelconque des revendications 
+1 à 13, caractérisé en ce que des alésages radiaux 
+sont pratiqués dans la chemise du support et com-
+muniquent avec un alésage central prévu dans le 
+support. 
+
+15. Dispositif selon l'une quelconque des revendications 
+1 à 14, caractérisé en ce que la paroi intérieure de 
+l'évidement cylindrique du support est lisse. 
+
+16. Dispositif selon l'une quelconque des revendications 
+1 à 15, caractérisé en ce que la paroi intérieure de 
+l'évidement cylindrique du logement présente un 
+contre-filetage complémentaire qui est configuré de 
+manière à former un canal, le long du filetage, par 
+lequel du fluide peut être acheminé, après avoir vissé 
+le support dans le logement. 
+
+17. Dispositif selon la revendication 16, caractérisé en 
+ce que le filetage a un profil essentiellement rectan-
+gulaire ou trapézoïdal ou bien est configuré comme 
+un filetage métrique ISO, circulaire ou tubulaire. 
+
+18. Dispositif selon l'une quelconque des revendications 
+1 à 17, caractérisé en ce que le dispositif comporte 
+une réserve d'échantillons et/ou de cibles chimiques 
+ou biologiques. 
+
+19. Dispositif selon l'une quelconque des revendications 
+1 à 18, caractérisé en ce qu'on prévoit des moyens 
+pour appliquer les échantillons et/ou cibles chimi-
+ques ou biologiques sur le filetage fonctionnalisé du 
+support. 
+
+20. Dispositif selon l'une quelconque des revendications 
+1 à 19, caractérisé en ce que les échantillons et/ou 
+cibles chimiques ou biologiques sont appliqués dans 
+les filetages sous forme de spots définis. 
+
+21. Dispositif selon l'une quelconque des revendications 
+1 à 19, caractérisé en ce que les échantillons et/ou 
+cibles chimiques ou biologiques sont appliqués dans 
+les filetages sous forme de garniture continue. 
+
+22. Dispositif selon l'une quelconque des revendications 
+1 à 21, caractérisé en ce que le filetage est rempli 
+d'un gel. 
+
+23. Dispositif selon la revendication 22, caractérisé en 
+ce qu'on prévoit des moyens pour la séparation 
+électrophorétique des échantillons et/ou des cibles. 
+
+24. Utilisation du dispositif selon l'une quelconque des 
+revendications 1 à 23 pour analyser l'ADN ou l'ARN. 
+
+25. Procédé pour analyser des échantillons chimiques 
+ou biologiques en utilisant un dispositif selon l'une 
+quelconque des revendications 1 à 23, dans lequel 
+on introduit des échantillons et/ou cibles chimiques 
+ou biologiques sous forme de spots individuels dé-
+finis dans un filetage fonctionnalisé profond hélicoï-
+dal pratiqué dans la chemise cylindrique extérieure 
+du support ; 
+on introduit le support dans un évidement, essentiel-
+lement complémentaire à la chemise cylindrique, 
+d'un logement, 
+on agit chimiquement ou physiquement sur les 
+échantillons et/ou cibles et on analyse ensuite les 
+spots. 
+
+26. Procédé selon la revendication 25, caractérisé en 
+ce qu'on fait passer le support par un alimenteur 
+pour appliquer les spots dans un mouvement trans-
+latoire et rotatif combiné. 
+
+27. Procédé selon la revendication 26, caractérisé en 
+ce qu'on introduit le support dans le logement lors 
+de l'application des spots. 
+
+28. Procédé selon la revendication 27, caractérisé en 
+ce qu'on fait passer le support par un détecteur pour 
+analyser les spots dans un mouvement translatoire 
+et rotatif combiné. 
+
+29. Procédé selon la revendication 28, caractérisé en 
+ce qu'on retire le support du logement pour analyser 
+
+33 
+34 
+
+
+EP 1 303 353 B1 
+
+19 
+
+5 
+
+10 
+
+15 
+
+20 
+
+25 
+
+30 
+
+35 
+
+40 
+
+45 
+
+50 
+
+55 
+
+les spots. 
+
+30. Dispositif selon l'une quelconque des revendications 
+25 à 29, caractérisé en ce qu' 
+on visse le support dans le logement doté d'un con-
+tre-filetage correspondant tout en appliquant des 
+échantillons et/ou des cibles chimiques ou biologi-
+ques en forme de spots définis, 
+on achemine au moins un fluide échantillon à travers 
+un canal défini le long du filetage, 
+on redévisse le support du logement tout en détec-
+tant des interactions entre les spots et le fluide 
+échantillon. 
+
+31. Procédé selon la revendication 30, caractérisé en 
+ce qu'on achemine le fluide échantillon hors de l'évi-
+dement du logement par effet de déplacement du 
+support à travers le canal. 
+
+32. Dispositif selon l'une quelconque des revendications 
+25 à 31, caractérisé en ce qu'on immobilise les 
+cibles dans le filetage du support. 
+
+33. Procédé selon la revendication 32, caractérisé en 
+ce qu'on immobilise les cibles d'ADN ou d'ARN sur 
+le support et on hybride avec des échantillons d'ADN 
+ou d'ARN contenus dans le fluide échantillon. 
+
+34. Dispositif selon l'une quelconque des revendications 
+25 à 33, caractérisé en ce qu'on utilise des échan-
+tillons à marquage fluorescent. 
+
+35. Dispositif selon l'une quelconque des revendications 
+25 à 34, caractérisé en ce qu' 
+on applique des échantillons et/ou cibles chimiques 
+ou biologiques sur des zones définies d'au moins un 
+filetage recouvert de gel, 
+on sépare l'une de l'autre par électrophorèse les 
+substances contenues dans les échantillons et/ou 
+cibles chimiques ou biologiques après avoir introduit 
+le support dans le logement et 
+ensuite on détecte les substances clivées. 
+
+35 
+
+
+
+
+
+
+Revendications 
+
+1. Utilisation cosmétique d'extraits de la plante Pistia stratiotes pour le soin de la peau ou des cheveux. 
+
+2. Utilisation selon la revendication 1 pour le soin revitalisant et réactivant de la peau ou des cheveux. 
+
+3. Utilisation cosmétique d'extraits de la plante Pistia stratiotes dans des agents ou produits de soin présentant des 
+propriétés amincissantes et des propriétés anti-cellulite pour la peau. 
+
+4. Utilisation cosmétique d'extraits de la plante Pistia stratiotes dans des agents ou produits de soin pour un traitement 
+préventif ou curatif des manifestations de vieillissement cutané. 
+
+5. Utilisation selon la revendication 4, caractérisée en ce que l'on traite les manifestations de vieillissement cutané 
+induites par le rayonnement ultraviolet. 
+
+6. Utilisation selon la revendication 4, caractérisée en ce que l'on traite l'apoptose induite par une carence en facteurs 
+de croissance et les manifestations de vieillissement cutané ainsi induites. 
+
+
+
+Revendications 
+
+1. Module à éléments de membrane pour le traitement 
+spécifique de substance d'un fluide, contenant 
+
+a) un logement (3), 
+b) un dispositif d'entrée (6) pour l'introduction 
+du fluide à traiter (14) dans le logement (6) dans 
+un espace de distribution (8), 
+c) un dispositif de sortie (7) pour l'évacuation du 
+fluide traité (15) hors du logement (3) depuis un 
+espace de collecte (9), et 
+d) des premiers éléments de membrane (1) 
+agencés dans le logement (3), avec paroi po-
+reuse semi-perméable, ainsi que chaque fois, 
+une extrémité orientée vers l'espace de distri-
+bution (8) et l'espace de collecte (9), et un es-
+pace vide (10) formé par la paroi, où les premiers 
+éléments de membrane (1) sont insérés dans 
+une première masse de scellement (4) par leurs 
+extrémités orientées vers l'espace de distribu-
+tion (8) et dans une deuxième masse de scelle-
+ment (5) par leurs extrémités orientées vers l'es-
+pace de collecte (9), de sorte que les extrémités 
+traversent les masses de scellement (4, 5) et 
+que les espaces vides (10) des premiers élé-
+ments de membrane (1) sont ouverts chaque 
+fois sur l'extrémité orientée vers l'espace de dis-
+tribution (8), mais également sur l'extrémité 
+
+orientée vers l'espace de collecte (9) et débou-
+che dans l'espace de distribution (8) et dans l'es-
+pace de collecte (9), 
+
+caractérisé en ce que le module de membrane con-
+tient par ailleurs, des deuxièmes éléments de mem-
+brane (2) agencés dans le logement (3), avec paroi 
+poreuse semi-perméable, ainsi que chaque fois, une 
+extrémité orientée vers l'espace de distribution (8) 
+et l'espace de collecte (9), et un espace vide (11) 
+formé par la paroi, où les deuxièmes éléments de 
+membrane (2) sont insérés dans la deuxième masse 
+de scellement (5) par leurs extrémités orientées vers 
+l'espace de collecte (9), avec les premiers éléments 
+de membrane (1) de sorte que ces extrémités tra-
+versent la deuxième masse de scellement (5) et que 
+les espaces vides (11) des deuxièmes éléments de 
+membrane (2) sont ouverts chaque fois sur ces ex-
+trémités et débouchent dans l'espace collecte, et les 
+deuxièmes éléments de membrane (2) sont fermés 
+sur leur extrémité orientée vers l'espace de distribu-
+tion (8), où les premiers et deuxièmes éléments de 
+membrane (1, 2) forment un agencement d'éléments 
+de membrane et où entre les masses de scellement 
+(4, 5), est formé un espace extérieur (12) séparé de 
+manière étanche aux fluides de l'espace de distribu-
+tion (8) et de l'espace de collecte (9) et limité par les 
+masses de scellement (4, 5), la paroi intérieure du 
+logement (3) et les éléments de membrane (1, 2). 
+
+2. Module à éléments de membrane selon la revendi-
+cation 1, caractérisé en ce que l'agencement des 
+éléments de membrane est élaboré à partir de cou-
+ches planaires. 
+
+3. Module à éléments de membrane selon la revendi-
+cation 2, caractérisé en ce que l'agencement des 
+éléments de membrane est élaboré à partir de cou-
+ches planaires, qui sont disposées en un empile-
+ment. 
+
+4. Module à éléments de membrane selon la revendi-
+cation 2, caractérisé en ce que l'agencement des 
+éléments de membrane est élaboré à partir de cou-
+ches planaires, qui sont enroulées en spirale autour 
+d'un axe d'enroulement. 
+
+5. Module à éléments de membrane selon une ou plu-
+sieurs des revendications 2 à 4, caractérisé en ce 
+que l'agencement des éléments de membrane com-
+prend des premières couches et des deuxièmes cou-
+ches, où les premières couches ne contiennent que 
+les premiers éléments de membrane (1) et les 
+deuxièmes couches ne contiennent que les deuxiè-
+mes éléments de membrane (2). 
+
+6. Module à éléments de membrane selon la revendi-
+cation 5, caractérisé en ce que l'agencement des 
+
+39 
+40 
+
+
+EP 1 289 630 B1 
+
+22 
+
+5 
+
+10 
+
+15 
+
+20 
+
+25 
+
+30 
+
+35 
+
+40 
+
+45 
+
+50 
+
+55 
+
+éléments de membrane comprend une succession 
+alternée des premières et deuxièmes couches. 
+
+7. Module à éléments de membrane selon une ou plu-
+sieurs des revendications 1 à 6, caractérisé en ce 
+que les premiers éléments de membrane (1) et les 
+deuxièmes éléments de membrane (2) sont des 
+membranes à fibre creuse. 
+
+8. Module à éléments de membrane selon une ou plu-
+sieurs des revendications 2 à 6, caractérisé en ce 
+que les premiers éléments de membrane (1) et les 
+deuxièmes éléments de membrane (2) sont des 
+membranes à fibre creuse et que les membranes à 
+fibre creuse sont agencées essentiellement parallè-
+lement au sein des couches. 
+
+9. Module à éléments de membrane selon une ou plu-
+sieurs des revendications 7 ou 8, caractérisé en ce 
+que les membranes à fibre creuse sont intégrées en 
+au moins un mat de fibres creuses. 
+
+10. Module à éléments de membrane selon la revendi-
+cation 9, caractérisé en ce que les membranes à 
+fibre creuse sont intégrées à l'aide de fils textiles 
+dans le au moins un mat de fibres creuses. 
+
+11. Module à éléments de membrane selon une ou plu-
+sieurs des revendications 9 ou 10, caractérisé en 
+ce que le au moins un mat de fibres creuses est 
+plissé sous forme de zig-zag en un empilement, qui 
+forme l'agencement des éléments de membrane. 
+
+12. Module à éléments de membrane selon une ou plu-
+sieurs des revendications 1 à 6, caractérisé en ce 
+que les premiers éléments de membrane (1) sont 
+des membranes à fibre creuse et les deuxièmes élé-
+ments de membrane (2) sont formés chaque fois, 
+par au moins une membrane plane. 
+
+13. Module à éléments de membrane selon la revendi-
+cation 12, caractérisé en ce que les deuxièmes élé-
+ments de membrane (2) sont formés d'une membra-
+ne plane essentiellement rectangulaire ou quadrati-
+que, chaque fois pliée en U, où outre le bord de pli, 
+deux autres bords latéraux sont fermés, où les bran-
+ches formées par pliage de la membrane pliée en U 
+sont maintenues à distance pour former l'espace vi-
+de (11), et où le bord latéral ouvert restant est agencé 
+en direction de l'espace de collecte (9). 
+
+14. Module à éléments de membrane selon la revendi-
+cation 12, caractérisé en ce que les deuxièmes élé-
+ments de membrane (2) sont formés de deux mem-
+branes planes essentiellement rectangulaires ou 
+quadratiques et essentiellement parallèles l'une par 
+rapport à l'autre, qui sont agencées de sorte que 
+leurs bords se développent parallèlement, où les 
+
+membranes planes sont maintenues à distance l'une 
+de l'autre et sont reliées l'une à l'autre par engage-
+ment positif, l'une à l'autre sur leur bord en direction 
+de l'espace de distribution (8), ainsi que les bords 
+perpendiculaires à celui-ci, et le bord latéral ouvert 
+restant est agencé en direction de l'espace de col-
+lecte (9). 
+
+15. Module à éléments de membrane selon une ou plu-
+sieurs des revendications 1 à 14, caractérisé en ce 
+que dans le logement (3), une matrice est présente, 
+sur et/ou dans laquelle sont immobilisés des groupes 
+fonctionnels. 
+
+16. Module à éléments de membrane selon la revendi-
+cation 15, caractérisé en ce que les premiers et/ou 
+les deuxièmes éléments de membrane (1, 2) sont 
+les matrices pour les groupes fonctionnels. 
+
+17. Module à éléments de membrane selon une ou plu-
+sieurs des revendications 15 ou 16, caractérisé en 
+ce qu'entre les premiers et deuxièmes éléments de 
+membrane sont incorporés de manière perméable 
+aux fluides, des matériaux support, qui sont les ma-
+trices pour les groupes fonctionnels. 
+
+18. Module à éléments de membrane selon la revendi-
+cation 17, caractérisé en ce que les matériaux sup-
+port sont des membranes planes (16) poreuses 
+semi-perméables. 
+
+19. Module à éléments de membrane selon la revendi-
+cation 17, caractérisé en ce que les matériaux sup-
+port sont des particules (17). 
+
+20. Module à éléments de membrane selon une ou plu-
+sieurs des revendications 17 à 21, caractérisé en 
+ce que la matrice présente des groupes fonctionnels 
+différents. 
+
+21. Module à éléments de membrane selon une ou plu-
+sieurs des revendications 1 à 20, caractérisé en ce 
+qu'en direction du prolongement du logement (3), 
+entre le dispositif d'entrée (6) et le dispositif de sortie 
+(7) du module de membrane, plusieurs agence-
+ments d'éléments de membrane sont agencés l'un 
+derrière l'autre, comme des paliers. 
+
+22. Procédé pour la traitement spécifique de substance 
+d'un fluide, qui comprend au moins les étapes de 
+
+a) introduction du fluide à traiter (14) comme un 
+courant d'alimentation, dans un module conte-
+nant au moins une première membrane (1) et 
+au moins une deuxième membrane (2), 
+b) passage du courant d'alimentation en mode 
+partiel sur une face de la première membrane 
+(1), de sorte qu'une partie du courant d'alimen-
+
+41 
+42 
+
+
+EP 1 289 630 B1 
+
+23 
+
+5 
+
+10 
+
+15 
+
+20 
+
+25 
+
+30 
+
+35 
+
+40 
+
+45 
+
+50 
+
+55 
+
+tation traverse la première membrane (1) en tant 
+que perméat et sorte de celui-ci, par l'autre face 
+de la première membrane (1), alors que le reste 
+du courant d'alimentation s'écoule en tant que 
+rétentat, le long d'un côté de la première mem-
+brane (1), 
+c) introduction d'au moins une partie importante 
+du perméat en mode total dans la deuxième 
+membrane (2), sur l'une des faces de cette 
+membrane (2), passage de la deuxième mem-
+brane (2) et écoulement de la deuxième mem-
+brane (2) sur l'autre côté, 
+d) rassemblement du perméat avec le rétentat 
+en fluide traité, au sein du module, et 
+e) évacuation du fluide traité (15) hors du mo-
+dule, 
+
+où le perméat est soumis à au moins un traitement 
+spécifique de substance entre la séparation du cou-
+rant d'alimentation et le rassemblement avec le ré-
+tentat. 
+
+23. Procédé selon la revendication 22, caractérisé en 
+ce que les étapes b) à d) sont réalisées plusieurs 
+fois. 
+
+24. Procédé selon l'une des revendications 22 ou 23, 
+caractérisé en ce qu'un module à éléments de 
+membrane selon la revendication 1 est mis en 
+oeuvre. 
+
+25. Procédé selon la revendication 24, caractérisé en 
+ce que le traitement du fluide est réalisé dans plu-
+sieurs agencements d'éléments de membrane dis-
+posés l'un derrière l'autre en tant que paliers, en di-
+rection du prolongement du logement (1) entre le 
+dispositif d'entrée (6) et le dispositif de sortie (7) du 
+module à éléments de membrane. 
+
+26. Procédé selon la revendication 25, caractérisé en 
+ce que le traitement est réalisé en jusqu'à 10 paliers. 
+
+27. Procédé selon une ou plusieurs des revendications 
+22 à 26, caractérisé en ce que le fluide traité est 
+remis en circulation. 
+
+28. Procédé selon une ou plusieurs des revendications 
+22 à 27, caractérisé en ce que le fluide à traiter 
+(147) est une suspension. 
+
+29. Procédé selon une ou plusieurs des revendications 
+22 à 28, caractérisé en ce que le perméat traverse 
+une matrice entre la séparation du courant d'alimen-
+tation et le rassemblement avec le rétentat, matrice 
+sur et/ou dans laquelle sont mobilisés des groupes 
+fonctionnels destinés au traitement spécifique de 
+substance. 
+
+30. Procédé de purification/séparation de ligats depuis 
+un liquide contenant des ligats, par affinité, 
+caractérisé en ce que l'on choisit une matrice, sur 
+et/ou dans laquelle des ligands sont immobilisés 
+pour les ligats, et l'on réalise le procédé selon la re-
+vendication 29. 
+
+31. Procédé de traitement catalytique de fluides, 
+caractérisé en ce que l'on choisit une matrice, sur 
+et/ou dans laquelle les catalyseurs sont immobilisés, 
+et l'on réalise le procédé selon la revendication 29. 
+
+
+
+Revendications 
+
+1. Procédé ex vivo d'identification et de détermination de récepteurs GnRH sur des cellules tumorales du cerveau 
+d'origine neuroectodermique et/ou méningées et/ou de mélanome malin et/ou de sarcome de Kaposi, comprenant 
+la mise en contact des cellules citées avec un ligand d'un récepteur GnRH, et la détermination de la réalisation ou 
+non d'une liaison. 
+
+2. Procédé selon la revendication 1, caractérisé en ce que le ligand est un anticorps. 
+
+3. Procédé selon la revendication 1 ou 2, caractérisé en ce que le ligand cité est marqué. 
+
+4. Procédé selon la revendication 1, caractérisé en ce que le ligand lié est déterminé avec un anti-ligand marqué, 
+de préférence un anticorps. 
+
+5. Procédé ex vivo d'identification et de détermination de récepteurs GnRH sur des cellules dégénérées d'une tumeur 
+du cerveau d'origine neuroectodermique et/ou méningées, comprenant : 
+
+a) l'homogénéisation de tissus tumoraux recueillis avant opération, 
+b) la séparation de la fraction membranaire, 
+c) la détermination de la concentration en protéines dans la fraction membranaire de b) 
+et 
+d) la détermination de la concentration en récepteur GnRH dans la fraction membranaire de b) pour le diagnostic 
+des tumeurs citées. 
+
+6. Utilisation d'agonistes GnRH ou d'antagonistes GnRH pour la production d'un médicament pour le traitement d'une 
+tumeur du cerveau avec des récepteurs GnRH d'origine neuroectodermique et/ou méningée et/ou pour le traitement 
+du mélanome malin et/ou pour le traitement du sarcome de Kaposi. 
+
+7. Utilisation selon la revendication 6, les agonistes GnRH ou les antagonistes GnRH étant conjugués avec une 
+substance cytotoxique. 
+
+
+
+Revendications 
+
+1. Procédé de séparation par distillation, selon une exploitation en mode continu, de mélanges contenant du tétrahy-
+drofuranne, de la γ-butyrolactone et/ou du 1,4-butanediol en au moins trois fractions, caractérisé en ce que l'on 
+effectue la séparation dans un aménagement de colonnes de distillation, qui contient au moins une colonne à paroi 
+séparatrice ou au moins un aménagement de colonnes de distillation conventionnelles couplées thermiquement. 
+
+2. Procédé selon la revendication 1, caractérisé en ce que les mélanges contenant du tétrahydrofuranne, de la γ-
+butyrolactone et/ou du 1,4-butanediol sont obtenus par hydrogénation de l'anhydride d'acide maléique, de l'acide 
+maléique, de leurs esters ou de leurs semi-esters. 
+
+3. Procédé selon les revendications 1 et 2, caractérisé en ce que l'on effectue la séparation par distillation dans des 
+blocs de distillation qui contiennent, respectivement, au moins une colonne de distillation, le procédé comprenant 
+au moins un bloc de distillation de la série constituée : 
+
+(B1) d'un bloc de distillation pour séparer le tétrahydrofuranne, 
+(B2) d'un bloc de distillation pour séparer la γ-butyrolactone 
+(B3) d'un bloc de distillation pour séparer le 1,4-butanediol 
+
+et en ce que l'on obtient les produits intéressants en fonction de leurs points d'ébullition dans l'ordre (B1) précédant 
+(B2) précédant (B3). 
+
+4. Procédé selon la revendication 3, caractérisé en ce que le bloc de distillation (B1), destiné à la séparation du 
+tétrahydrofuranne, comprend au moins deux colonnes de distillation, la pression exercée dans la colonne de dis-
+tillation où se fait la séparation du produit pur de tétrahydrofuranne étant plus élevée que dans toutes les autres 
+colonnes de distillation de (B1). 
+
+5. Procédé selon la revendication 4, caractérisé en ce que le bloc de distillation (B1), destiné à la séparation du 
+tétrahydrofuranne, comprend deux colonnes à paroi séparatrice et/ou un aménagement correspondant de colonnes 
+de distillation conventionnelles couplées thermiquement, de sorte que : 
+
+(a) dans la première colonne à paroi séparatrice ou dans l'aménagement correspondant de colonnes de dis-
+tillation conventionnelles couplées thermiquement (K1a), il se produise une séparation en au moins trois frac-
+tions, et que 
+(b) la fraction à point d'ébullition moyen obtenue, enrichie en tétrahydrofuranne, soit séparée dans la deuxième 
+colonne à paroi séparatrice ou dans l'aménagement correspondant de colonnes de distillation conventionnelles 
+couplées thermiquement (K1b), en au moins trois fractions, le tétrahydrofuranne étant recueilli comme fraction 
+à point d'ébullition moyen et la fraction à faible point d'ébullition étant reconduite au système (K1a). 
+
+6. Procédé selon la revendication 4, caractérisé en ce que le bloc de distillation (B1), destiné à la séparation du 
+tétrahydrofuranne, comprend une colonne de distillation conventionnelle montée en amont et une colonne à paroi 
+séparatrice ou un aménagement correspondant de colonnes de distillation conventionnelles couplées thermique-
+ment, de sorte que : 
+
+(a) dans la première colonne de distillation conventionnelle, il se produise une séparation en au moins deux 
+fractions, et que 
+(b) la fraction de tête obtenue, enrichie en tétrahydrofuranne, soit séparée dans la colonne à paroi séparatrice 
+ou dans l'aménagement correspondant de colonnes de distillation conventionnelles couplées thermiquement 
+(K1b), en au moins trois fractions, le tétrahydrofuranne étant recueilli comme fraction à point d'ébullition moyen 
+et la fraction à faible point d'ébullition étant reconduite à la colonne de distillation conventionnelle. 
+
+
+EP 1 280 787 B1 
+
+22 
+
+5 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+7. Procédé selon la revendication 5, caractérisé en ce que l'on exploite le système (K1a) à une pression absolue de 
+0,05 à 0,2 MPa et en ce que la somme des étages de séparation théoriques des parties d'alimentation supérieure 
+et inférieure (2) et (4) représente 80 à 110 % de la somme des étages de séparation théoriques des parties de 
+soutirage supérieure et inférieure (3) et (5). 
+
+8. Procédé selon les revendications 5 ou 6, caractérisé en ce que l'on exploite le système (K1b) à une pression 
+absolue de 0,3 à 1,2 MPa et en ce que la somme des étages de séparation théoriques des parties d'alimentation 
+supérieure et inférieure (2) et (4) représente 80 à 110 % de la somme des étages de séparation théoriques des 
+parties de soutirage supérieure et inférieure (3) et (5). 
+
+9. Procédé selon la revendication 3, caractérisé en ce que le bloc de distillation (B2), destiné à la séparation de la 
+γ-butyrolactone, comprend une colonne à paroi séparatrice ou un aménagement correspondant de colonnes de 
+
+distillation conventionnelles couplées thermiquement (K2), en ce que l'on exploite l'aménagement (K2) à une 
+pression absolue de 0,001 à 0,15 MPa et en ce que la somme des étages de séparation théoriques des parties 
+d'alimentation supérieure et inférieure (2) et (4) représente 80 à 110 % de la somme des étages de séparation 
+théoriques des parties de soutirage supérieure et inférieure (3) et (5). 
+
+10. Procédé selon la revendication 3, caractérisé en ce que le bloc de distillation (B3), destiné à la séparation du 1,4-
+butanediol, comprend une colonne à paroi séparatrice ou un aménagement correspondant de colonnes de distillation 
+conventionnelles couplées thermiquement (K3), en ce que l'on exploite l'aménagement (K3) à une pression absolue 
+de 0,001 à 0,05 MPa et en ce que la somme des étages de séparation théoriques des parties d'alimentation 
+supérieure et inférieure (2) et (4) représente 80 à 110 % de la somme des étages de séparation théoriques des 
+parties de soutirage supérieure et inférieure (3) et (5). 
+
+11. Procédé selon les revendications 7, 8, 9 et/ou 10, caractérisé en ce que l'on utilise des éléments encastrés de 
+colonne, dont la perte de pression s'intensifie constamment à mesure qu'augmente la charge de gaz, à raison d'au 
+moins environ 20 % par augmentation du facteur F d'environ 0,5 Pa 0,5 . 
+
+12. Procédé selon les revendications 9 et/ou 10, caractérisé en ce que l'on utilise, comme éléments encastrés de 
+colonne, des garnissages ordonnés et/ou des corps de garnissage, dont la perte de pression s'intensifie constam-
+ment à mesure qu'augmente la charge de gaz, à raison d'au moins environ 20 % par augmentation du facteur F 
+d'environ 0,5 Pa 0,5 . 
+
+13. Procédé selon les revendications 7, 8, 9, 10, 11 et/ou 12, caractérisé en ce que le rapport du courant de liquide 
+s'écoulant à l'extrémité supérieure de la partie d'alimentation supérieure (2) au courant de liquide s'écoulant à 
+l'extrémité supérieure de la partie de soutirage supérieure (3) est de 0,1 à 1,0. 
+
+14. Procédé selon la revendication 13, caractérisé en ce que l'on collecte le courant de liquide s'écoulant dans la 
+partie de tête (1) dans un espace collecteur aménagé à l'intérieur ou à l'extérieur de la colonne, et en ce qu'on le 
+répartit, par le biais d'un réglage fixe ou d'une régulation, en une partie d'alimentation supérieure (2) et en une partie 
+de soutirage supérieure (3). 
+
+15. Procédé selon les revendications 13 et 14, caractérisé en ce que le rapport du courant de fumées à l'extrémité 
+inférieure de la partie d'alimentation inférieure (4) au courant de fumées à l'extrémité inférieure de la partie de 
+soutirage inférieure (5) est de 0,8 à 1,2. 
+
+16. Procédé selon les revendications 13 à 15, caractérisé en ce que l'on règle le courant de liquide au niveau du site 
+d'alimentation via un réglage de quantité, de manière à ce que le courant de liquide délivré en tout aux parties 
+d'alimentation (2) et (4) ne puisse descendre en dessous de 30 % de la valeur fixée. 
+
+17. Procédé selon les revendications 13 à 16, caractérisé en ce que l'on répartit le courant de liquide s'écoulant à 
+l'extrémité inférieure de la partie de soutirage supérieure (3) en courant de liquide évacué du site de soutirage et 
+en courant de liquide délivré à la partie de soutirage inférieure (5), par le biais d'un réglage qui permette au courant 
+de liquide délivré à la partie de soutirage inférieure (5) de ne pas descendre en dessous de 30 % de la valeur fixée. 
+
+18. Procédé selon les revendications 13 à 17, caractérisé en ce que l'on règle le rapport de séparation du courant de 
+liquide s'écoulant à l'extrémité supérieure de la partie d'alimentation supérieure (2) au courant de liquide s'écoulant 
+à l'extrémité supérieure de la partie de soutirage supérieure (3), de manière à ce que la concentration d'un composant 
+à point d'ébullition élevé, pour laquelle on doit atteindre une certaine valeur limite dans le courant de liquide du site 
+de soutirage latéral (produit latéral), s'élève, à l'extrémité inférieure de la partie de tête (1) dans la phase liquide 
+et/ou gazeuse, à une valeur de 10 à 80 % de la valeur limite en question, de sorte que : 
+
+(a) dans le cas d'une augmentation de la concentration des composants à point d'ébullition élevé à l'extrémité 
+inférieure de la partie de tête (1), on augmente le rapport de séparation, sur la base de la partie d'alimentation 
+supérieure (2), et que 
+(b) dans le cas d'une baisse de la concentration des composants à point d'ébullition élevé à l'extrémité inférieure 
+de la partie de tête (1), on diminue le rapport de séparation, sur la base de la partie d'alimentation supérieure (2). 
+
+19. Procédé selon les revendications 13 à 18, caractérisé en ce que l'on règle la puissance de chauffage de l'évapo-
+rateur sur la partie de bas de colonne (6) de manière à ce que la concentration d'un composant à faible point 
+d'ébullition, pour laquelle on doit atteindre une certaine valeur limite dans le courant de liquide du site de soutirage 
+latéral (produit latéral), s'élève, à l'extrémité supérieure de la partie de bas de colonne (6) dans la phase liquide 
+et/ou gazeuse, à une valeur de 10 à 80 % de la valeur limite en question, de sorte que : 
+
+(a) dans le cas d'une augmentation de la concentration des composants à faible point d'ébullition à l'extrémité 
+supérieure de la partie de bas de colonne (6), on augmente la puissance de chauffage de l'évaporateur dans 
+la partie de bas de colonne (6), et que 
+(b) dans le cas d'une baisse de la concentration des composants à faible point d'ébullition à l'extrémité supérieure 
+de la partie de bas de colonne (6), on diminue la puissance de chauffage de l'évaporateur sur la partie de bas 
+de colonne (6). 
+
+20. Procédé selon les revendications 13 à 19, caractérisé en ce que l'on effectue le soutirage du produit de tête à 
+température réglée, et en ce que l'on utilise une position de mesure dans la partie de tête (1) pour régler la 
+température. 
+
+21. Procédé selon les revendications 13 à 20, caractérisé en ce que l'on effectue le soutirage du produit de bas de 
+colonne à température réglée, et en ce que l'on utilise une position de mesure dans la partie de bas de colonne 
+(6) pour régler la température. 
+
+22. Procédé selon les revendications 13 à 21, caractérisé en ce que l'on effectue le soutirage du courant de liquide 
+au niveau du site de soutirage latéral (produit latéral) à niveau réglé et en ce que l'on utilise comme valeur de 
+réglage le niveau de liquide dans l'évaporateur sur la partie de bas de colonne (6). 
+
+23. Procédé selon les revendications 1 à 5 et 7 à 22, caractérisé en ce que l'on effectue la séparation par distillation 
+dans trois blocs de distillation, qui comprennent quatre colonnes à paroi séparatrice ou les aménagements corres-
+pondants de colonnes de distillation conventionnelles couplées thermiquement (K1a), (K1b), (K2) et (K3). 
+
+
+
+Revendications 
+
+1. Préparation de protéines immunoréactives destinée à une application thérapeutique ou diagnostique, caractérisée 
+en ce que la fraction en pourcentage de molécules immunoréactives, déterminée par un test de Lindmo modifié 
+selon l'exemple 3, est &gt; 90 % par rapport au nombre total de molécules parmi des molécules immunoréactives et 
+non immunoréactives, non différentes du point de vue de la chimie des protéines, la protéine immunoréactive étant 
+un anticorps monoclonal, chimérisé ou humanisé qui se lie à un épitope sur un CD66. 
+
+2. Préparation selon la revendication 1, caractérisée en ce que les protéines immunoréactives portent un marquage, 
+en particulier un marquage radioactif choisi parmi 99m Tc, 186 Re, 188 Re, 90 Y et l'astatine. 
+
+3. Préparation selon l'une des revendications 1 à 2, caractérisée en ce que les protéines immunoréactives sont 
+obtenues par préparation en culture de cellules, en particulier par expression dans des cellules hôtes eucaryotes 
+recombinantes. 
+
+4. Préparation selon l'une des revendications 1 à 3, caractérisée en ce que le CD66 est un CD66 a, b, c, e et de 
+préférence un CD66 e. 
+
+
+5. Préparation selon l'une des revendications 1 à 4, caractérisée en ce que la protéine immunoréactive est un 
+anticorps monoclonal choisi parmi BW 431/26 et BW 250/183. 
+
+6. Procédé de production d'une préparation de protéines immunoréactives destinée à une application thérapeutique 
+ou diagnostique, caractérisé en ce qu'il comprend une fermentation dans un réacteur à lit fluidisé d'une cellule 
+hôte exprimant la protéine immunoréactive dans un milieu de culture approprié et la récupération de la protéine à 
+partir de la cellule hôte et/ou du milieu de culture, la fraction en pourcentage de molécules immunoréactives, dé-
+terminée par un test de Lindmo modifié selon l'exemple 3, étant &gt; 81 % par rapport au nombre total de molécules 
+parmi des molécules immunoréactives et non immunoréactives, non différentes du point de vue de la chimie des 
+protéines, la protéine immunoréactive étant un anticorps monoclonal, chimérisé ou humanisé qui se lie à un épitope 
+sur un CD66, sur un CD45, sur un N-CAM, sur un FVIIIRAG et/ou sur le complexe VEGF/récepteur de VEGF, et 
+qui ne se lie ni au VEGF, ni au récepteur de VEGF. 
+
+7. Procédé selon la revendication 6, caractérisé en ce que l'on utilise une cellule hôte eucaryote. 
+
+8. Procédé selon la revendication 6 ou 7, caractérisé en ce que l'on obtient la protéine immunoréactive à partir de 
+la cellule hôte et/ou du milieu de culture par une procédure de purification utilisant peu de colonnes, en n'effectuant 
+comme étape de chromatographie sur colonne qu'une chromatographie d'affinité. 
+
+9. Procédé selon la revendication 6 ou 7, caractérisé en ce que l'on obtient la protéine immunoréactive à partir de 
+la cellule hôte et/ou du milieu de culture par une procédure de purification classique en effectuant comme étapes 
+de chromatographie sur colonne: 
+
+une chromatographie d'affinité, 
+une chromatographie sur gel et 
+une chromatographie par échange d'anions. 
+
+10. Procédé selon l'une des revendications 6 à 9, caractérisé en ce que la fraction en pourcentage de molécules 
+immunoréactives, déterminée par un test de Lindmo modifié selon l'exemple 3, est &gt; 90 % par rapport au nombre 
+total de molécules parmi des molécules immunoréactives et non immunoréactives, non différentes du point de vue 
+de la chimie des protéines, la protéine immunoréactive étant un anticorps monoclonal, chimérisé ou humanisé qui 
+se lie à un épitope sur un CD66, sur un CD45, sur un N-CAM, sur un FVIIIRAG et/ou sur le complexe VEGF/récepteur 
+de VEGF, et qui ne se lie ni au VEGF, ni au récepteur de VEGF. 
+
+11. Procédé selon la revendication 9, caractérisé en ce que la préparation est produite selon le procédé de production 
+I, comprenant les étapes: 
+
+-récolte du milieu de culture et séparation des cellules, 
+-concentration, 
+-dissolution, déactivation des virus par traitement avec un détergent, filtration stérile, 
+-chromatographie d'affinité, 
+-concentration, 
+-dissolution, changement de tampon par chromatographie sur gel, 
+-chromatographie par échange d'anions, 
+-concentration, 
+-dissolution, changement de tampon par chromatographie sur gel, 
+-ajustement de la concentration finale désirée du mélange, 
+-filtration stérile. 
+
+12. Procédé selon la revendication 8, caractérisé en ce que la préparation est produite selon le procédé de préparation 
+II, comprenant les étapes: 
+
+-récolte du milieu de culture, séparation des cellules, filtration stérile et stockage, 
+-décongélation, récolte, suivie d'une microfiltration et d'une ultrafiltration, 
+-dilution, 
+-traitement avec un détergent, 
+-chromatographie d'affinité, 
+-dilution et filtration stérile, 
+-adsorption sur membrane échangeuse d'anions, 
+-filtration des virus par ultrafiltration, 
+-ultrafiltration et diafiltration, 
+-filtration et dilution, 
+-filtration stérile. 
+
+13. Procédé selon l'une des revendications 6 à 12, caractérisé en ce que la protéine immunoréactive est un anticorps 
+monoclonal choisi parmi BW 431/26, BW 250/183, YTH 24.5 et BW 278/105. 
+
+14. Utilisation de préparations de protéines selon l'une des revendications 1 à 5 comme supports d'émetteurs de rayons 
+γ comme, par exemple, Tc-99m, pour la préparation d'un agent destiné au diagnostic de processus inflammatoires 
+et de processus de suppression de la moelle osseuse, par exemple de métastases de cancers de la prostate, de 
+cancers du sein et de lymphomes. 
+
+15. Utilisation de préparations de protéines selon l'un des revendications 1 à 5 comme support d'émetteurs de rayons 
+α et β pour la préparation d'un agent destiné à la thérapie de maladies du système hématopoïétique, de préférence 
+de leucémies. 
+
+
+
+
+Revendications 
+
+1. Agent herbicide, caractérisé par une teneur efficace en 
+
+A) au moins un composé de formule générale (I) ainsi que ses sels usuels en agriculture (Composant A) 
+
+dans laquelle 
+
+X représente le radical X 1 
+
+Q représente le radical Q 1 
+
+
+EP 1 233 673 B1 
+
+20 
+
+5 
+
+
+Z représente un radical Z 1 , CH 2 -Z 1 ou Z 2 ; 
+Z 1 est un cycle de 5 à 10 chaînons relié par un atome de carbone ou d'azote monocyclique ou bicyclique 
+saturé, partiellement saturé, complètement insaturé ou aromatique, qui contient au côté d'atomes de car-
+bone 1, 2, 3 ou 4 hétéroatomes pris dans le groupe des atomes d'oxygène, de soufre et d'azote et qui est 
+non substitué ou substitué une ou plusieurs fois par un substituant halogène, cyano, nitro, cyanoalkyle en 
+C 1 -C 4 , CO-R 15 , alkyle en C 1 -C 4 , halogénoalkyle en C 1 -C 4 , cycloalkyle en C 3 -C 8 , alkoxy en C 1 -C 4 , halogé-
+noalkoxy en C 1 -C 4 , (alkyl en C 1 -C 4 ) thio, halogéno (alkyl en C 1 -C 4 ) thio, di (alkyl en C 1 -C 4 )amino, phényle 
+non substitué ou substitué une ou plusieurs fois par un substituant halogène, cyano, nitro, alkyle en C 1 -C 4 
+ou halogénoalkyle en C 1 -C 4 ou un groupe oxo ; 
+Z 2 représente un groupe (cycloalkyloxy en C 3 -C 12 )-alkyle en C 1 -C 4 , aryloxy-alkyle en C 1 -C 4 , hétéroa-
+ryloxyalkyle en C 1 -C 4 , hétérocyclylalkyle en C 1 -C 4 , halogéno (alkoxy en C 1 -C 4 ) -alkyle en C 1 -C 4 , aryl-(alk-
+oxy en C 1 -C 4 ) -alkyle en C 1 -C 4 , hétéroaryl(alkoxy en C 1 -C 4 )-alkyle en C 1 -C 4 , hétérocyclyl-(alkoxy en C 1 -C 4 ) 
+-alkyle en C 1 -C 4 , aryl-(cycloalkyl en C 3 -C 8 )thio-alkyle en C 1 -C 4 , hétéroaryl-(cycloalkyl en C 3 -C 8 ) thio-alkyle 
+en C 1 -C 4 , hétérocyclyl-(cycloalkyl en C 3 -C 8 )thioalkyle en C 1 -C 4 , (cycloalkyl en C 3 -C 8 ) sulfinyl-alkyle en 
+C 1 -C 4 , cyclo (alkyl en C 3 -C 8 ) sulfonyl-alkyle en C 1 -C 4 , (cycloalkyl en C 3 -C 8 ) amino-alkyle en C 1 -C 4 , cyclo 
+(alkyl en C 3 -C 8 ) -sulfonyloxy-alkyle en C 1 -C 4 , cyclo (alkyl en C 3 -C 8 ) sulfonylamino-alkyle en C 1 -C 4 , cyclo 
+(alkyl en C 3 -C 8 ) carbonylalkyle en C 1 -C 4 , cyclo (alkyl en C 3 -C 8 )carbonyloxyalkyle en C 1 -C 4 , cyclo (alkoxy 
+en C 3 -C 8 ) carbonylalkyle en C 1 -C 4 , cyclo(alkyl en C 3 -C 8 )-carbonylaminoalkyle en C 1 -C 4 , cyclo (alkyl en 
+C 3 -C 8 ) aminocarbonylalkyle en C 1 -C 4 , cyclo (alkyl en C 4 -C 12 ) -alkyle en C 1 -C 4 , cyclo (alkyl en C 4 -C 12 ) 
+-thio-alkyle en C 1 -C 4 , cyclo (alkyl en C 4 -C 12 ) sulfinylalkyle en C 1 -C 4 , cyclo (alkyl en C 4 -C 12 ) sulfonyl-alkyle 
+en C 1 -C 4 , cyclo (alkyl en C 4 -C 12 ) aminoalkyle en C 1 -C 4 , cyclo (alkyl en C 4 -C 12 ) sulfonyloxyalkyle en C 1 -C 4 , 
+cyclo (alkyl en C 4 -C 12 )sulfonylaminoalkyle en C 1 -C 4 , cyclo (alkyl en C 4 -C 12 ) carbonylalkyle en C 1 -C 4 , cyclo 
+(alkyl en C 4 -C 12 ) carbonyloxyalkyle en C 1 -C 4 , cyclo (alkoxy en C 4 -C 12 ) carbonylalkyle en C 1 -C 4 , cyclo 
+(alkyl en C 4 -C 12 ) carbonylaminoalkyle en C 1 -C 4 , cyclo (alkyl en C 4 -C 12 ) aminocarbonylalkyle en C 1 -C 4 , 
+arylthio-alkyle en C 1 -C 4 , arylsulfinyl-alkyle en C 1 -C 4 , arylsulfonylalkyle en C 1 -C 4 , arylamino-alkyle en C 1 -C 4 , 
+arylsulfonyloxy-alkyle en C 1 -C 4 , aryl-sulfonylaminoalkyle en C 1 -C 4 , arylcarbonyl-alkyle en C 1 -C 4 , arylcar-
+bonyloxyalkyle en C 1 -C 4 , aryloxycarbonylalkyle en C 1 -C 4 , arylcarbonyl-aminoalkyle en C 1 -C 4 , arylamino-
+carbonylalkyle en C 1 -C 4 , hétéroarylthioalkyle en C 1 -C 4 , hétéroarylsulfinylalkyle en C 1 -C 4 , hétéroaryl-sul-
+fonylalkyle en C 1 -C 4 , hétéroaryl-aminoalkyle en C 1 -C 4 , hétéroarylsulfonyloxy-alkyle en C 1 -C 4 , hétéroaryl-
+sulfonylaminoalkyle en C 1 -C 4 , hétéroarylcarbonylalkyle en C 1 -C 4 , hétéroarylcarbonyloxyalkyle en C 1 -C 4 , 
+hétéroaryloxycarbonylalkyle en C 1 -C 4 , hétéroarylcarbonylaminoalkyle en C 1 -C 4 , hétéroarylaminocarbony-
+lalkyle en C 1 -C 4 , hétérocyclylthioalkyle en C 1 -C 4 , hétérocyclylsulfinylalkyle en C 1 -C 4 , hétérocyclylsulfony-
+lalkyle en C 1 -C 4 , hétérocyclylaminoalkyle en C 1 -C 4 , hétérocyclylsulfonyloxyalkyle en C 1 -C 4 , hétérocyclyl-
+sulfonylaminoalkyle en C 1 -C 4 , hétérocyclylcarbonyl-alkyle en C 1 -C 4 , hétérocyclylcarbonyloxyalkyle en 
+C 1 -C 4 , hétérocyclyloxycarbonylalkyle en C 1 -C 4 , hétérocyclylcarbonylamino-alkyle en C 1 -C 4 , hétérocycly-
+laminocarbonylalkyle en C 1 -C 4 , halogéno (alkyl en C 1 -C 4 ) thio-alkyle en C 1 -C 4 , halogéno (alkyl en C 1 -C 4 ) 
+-sulfinylalkyle en C 1 -C 4 , halogéno (alkyl en C 1 -C 4 ) sulfonyl-alkyle en C 1 -C 4 , halogéno (alkyl en C 1 -C 4 ) 
+amino-alkyle en C 1 -C 4 , halogéno(alkyl en C 1 -C 4 ) sulfonyloxyalkyle en C 1 -C 4 , halogéno(alkyl en C 1 -C 4 ) 
+sulfonylamino-alkyle en C 1 -C 4 , halogéno-(alkyl en C 1 -C 4 ) carbonylalkyle en C 1 -C 4 , halogéno (alkyl en 
+C 1 -C 4 ) carbonyloxyalkyle en C 1 -C 4 , halogéno (alkyl en C 1 -C 4 ) oxycarbonyl-alkyle en C 1 -C 4 , halogéno (alkyl 
+en C 1 -C 4 ) carbonyl-aminoalkyle en C 1 -C 4 , halogéno (alkyl en C 1 -C 4 ) aminocarbonylalkyle en C 1 -C 4 , aryl-
+(alkyl en C 1 -C 4 ) thio-alkyle en C 1 -C 4 , aryl(alkyl en C 1 -C 4 )sulfinyl-alkyle en C 1 -C 4 , aryl (alkyl en C 1 -C 4 ) 
+sulfonyl-alkyle en C 1 -C 4 , aryl-(alkyl en C 1 -C 4 ) aminoalkyle en C 1 -C 4 , aryl-(alkyl en C 1 -C 4 ) sulfonyloxy-
+alkyle en C 1 -C 4 , aryl (alkyl en C 1 -C 4 ) sulfonylamino-alkyle en C 1 -C 4 , aryl-(alkyl en C 1 -C 4 )carbonyl-alkyle 
+en C 1 -C 4 , aryl-(alkyl en C 1 -C 4 ) carbonyloxy-alkyle en C 1 -C 4 , aryl-(alkyl en C 1 -C 4 ) oxycarbonyl-alkyle en 
+C 1 -C 4 , aryl-(alkyl en C 1 -C 4 ) carbonylamino-alkyle en C 1 -C 4 , aryl-(alkyl en C 1 -C 4 ) aminocarbonylalkyle en 
+C 1 -C 4 , hétéro-aryl (alkyl en C 1 -C 4 ) thio-alkyle en C 1 -C 4 , hétéroaryl-(alkyl en C 1 -C 4 ) sulfinyl-alkyle en C 1 -C 4 , 
+hétéroaryl-(alkyl en C 1 -C 4 ) sulfonyl-alkyle en C 1 -C 4 , hétéroaryl-(alkyl en C 1 -C 4 ) amino-alkyle en C 1 -C 4 , 
+hétéroaryl-(alkyl en C 1 -C 4 ) sulfonyloxyalkyle en C 1 -C 4 , hétéroaryl-(alkyl en C 1 -C 4 )-sulfonylamino-alkyle 
+en C 1 -C 4 , hétéroaryl-(alkyl en C 1 -C 4 )carbonyl)-alkyle en C 1 -C 4 , hétéroaryl-(alkyl en C 1 -C 4 ) carbonyloxy-
+alkyle en C 1 -C 4 , hétéroaryl-(alkoxy en C 1 -C 4 )carbonyl-alkyle en C 1 -C 4 , hétéroaryl-(alkyl en C 1 -C 4 ) car-
+bonylaminoalkyle en C 1 -C 4 , hétéroaryl-(alkyl en C 1 -C 4 )-aminocarbonyl-alkyle en C 1 -C 4 , hétérocyclyl-(alkyl 
+en C 1 -C 4 ) thio-alkyl en C 1 -C 4 , hétérocyclyl-(alkyl en C 1 -C 4 )sulfinyl-alkyle en C 1 -C 4 , , hétérocyclyl-(alkyl 
+en C 1 -C 4 ) sulfonyl-alkyle en C 1 -C 4 , hétérocyclyl(alkyl en C 1 -C 4 ) -aminoalkyle en C 1 -C 4 , hétérocyclyl(alkyl 
+en C 1 -C 4 )-sulfonyloxy-alkyle en C 1 -C 4 , hétérocyclyl-(alkyl en C 1 -C 4 ) sulfonylaminoalkyle en C 1 -C 4 , hété-
+rocyclyl-(alkyl en C 1 -C 4 )-carbonylalkyle en C 1 -C 4 , hétérocyclyl (alkyl en C 1 -C 4 ) carbonyloxy-alkyle en 
+C 1 -C 4 , hétérocyclyl-(alkoxy en C 1 -C 4 ) carbonyl-alkyle en C 1 -C 4 , hétérocyclyl-(alkyl en C 1 -C 4 )carbonylami-
+no-alkyle en C 1 -C 4 , hétéro-cyclyl-(alkyl en C 1 -C 4 )-carbonylamino-alkyle en C 1 -C 4 , hétérocyclyl-(alkyl en 
+C 1 -C 4 )-amino-carbonyl-alkyle en C 1 -C 4 , 
+
+ou O-(CH 2 ) p -O-(CH 2 ) w -R 20 ; 
+Y représente O ou NR 26 ; 
+R 1 représente un atome d'halogène, un groupe cyano, nitro, (Y) n -S (O) q -R 28 , (Y) n -CO-R 15 ou un groupe 
+alcényle en C 2 -C 6 , alcynyle en C 2 -C 6 , alkoxy en C 1 -C 4 ou alkyle en C 1 -C 6 substitué par v atomes d'halogène 
+ou k groupes alkoxy en C 1 -C 4 ; 
+R 2 R 3 R 5 et R 7 indépendamment les uns des autres représentent un atome d'hydrogène ou un groupe 
+alkyle en C 1 -C 6 ; 
+R 4 représente un atome d'hydrogène, un groupe cycloalkyle en C 3 -C 6 , alkyle en C 1 -C 6 substitué par k 
+radicaux pris dans le groupe constitué par un halogène, alkylthio en C 1 -C 6 et alkoxy en C 1 -C 6 , tétrahydro-
+pyranyle-3, tétrahydropyranyle-4 ou tétrahydrothiopyranyle-3 ; 
+R 6 représente un atome d'hydrogène, un groupe alkyle en C 1 -C 6 ou CO 2 R 15 , ou 
+R 4 et R 6 forment conjointement une liaison ou un cycle carbocyclique de 3 à 6 chaînons ; 
+R 15 représente un groupe alkyle en C 1 -C 4 , haloalkyle en C 1 -C 4 ou NR 26 R 27 ; 
+R 16 et R 17 , indépendamment l'un de l'autre, représentent un groupe arylalkyle en C 1 -C 6 , aryle, haloalkyle 
+en C 1 -C 6 , alcynyle en C 2 -C 6 , alcényle en C 2 -C 6 ou alkyle en C 1 -C 6 substitué par k radicaux choisis dans 
+le groupe constitué par les halogène, cyano, nitro, alkyle en C 1 -C 6 , haloalkyle en C 1 -C 6 , alkoxy en C 1 -C 6 
+et haloalkoxy en C 1 -C 6 ; 
+R 18 et R 19 , indépendamment l'un de l'autre, représentent un atome d'hydrogène ou R 16 , ou 
+R 18 et R 19 forment conjointement une chaîne alcényle en C 2 -C 5 ; 
+R 20 représente un groupe alkyle en C 1 -C 4 , alcényle en C 2 -C 8 , alcynyle en C 2 -C 6 , haloalkyle en C 1 -C 6 , 
+haloalcényle en C 2 -C 6 , haloalcynyle en C 2 -C 6 , alkoxy en C 1 -C 6 , alcényloxy en C 2 -C 6 , alcynyloxy en C 2 -C 6 , 
+haloalkoxy en C 1 -C 6 , haloalcynyloxy en C 2 -C 6 ou haloalcényloxy en C 2 -C 6 ; 
+R 26 représente un atome d'hydrogène ou un groupe alkyle en C 1 -C 6 ; 
+R 27 représente un atome d'hydrogène, un groupe alkyle en C 1 -C 6 ou alkoxy en C 1 -C 6 ; ou 
+R 26 et R 27 forment conjointement un groupe (CH 2 ) 2 , (CH 2 ) 3 , (CH 2 ) 4 , (CH 2 ) 5 ou (CH 2 ) 2 O(CH 2 ) 2 ; 
+R 28 représente un groupe alkyle en C 1 -C 4 , haloalkyle en C 1 -C 4 ou NR 26 R 27 ; 
+k vaut 0, 1, 2 ou 3; 
+n vaut 0 ou 1 ; 
+p vaut 1, 2 ou 3; 
+q vaut 0, 1 ou 2; 
+v vaut 0, 1, 2, 3, 4 ou 5; 
+w vaut 0, 1, 2 ou 3, 
+
+et 
+B) au moins un composé (composant B) pris dans le groupe constitué par 
+acetochlor, alachlor, atrazin, bromoxynil, carfentrazone-ethyl, diflufenzopyr, dimethenamid, flufenacet, flumet-
+sulam, fluthiacet-methyl, halosulfuron, imazamox, imazapyr, imazaquin, imazethapyr, iodosulfuron, metola-
+chlor, metosulam, metribuzin, nicosulfuron, pethoxamid, pendimethalin, primisulfuron, prosulfuron, pyridate, 
+rimsulfuron, thenylchlor, thifensulfuron-methyl, tritosulfuron et N-[(4,6-diméthoxy-pyrimidin-2-yl)-aminocarbo-
+nyl]-2-diméthylaminocarbonyl-5-formyl-benzènesulfonamide, 
+
+ces agents dans les composés de formule (I) ou leurs sels (Composant A) et les composés du groupe B (Composant 
+B) sont contenus dans un rapport en masse de 1:2000 à 2000:1. 
+
+2. Agents herbicides selon la revendication 1, caractérisés en ce qu'ils contiennent bromoxynil, diflufenzopyr, iodo-
+sulfuron, nicosulfuron, rimsulfuron ou N-[(4,6-diméthoxy-pyrimidin-2-yl)-aminocarbonyl]-2-diméthylamino-carbonyl-
+5-formyl-benzènesulfonamide. 
+
+3. Agents herbicides selon la revendication 1 ou 2, caractérisés en ce que le rapport en masse A:B des herbicides 
+combinés A) et B) se situe dans la plage de 1:20 à 50:1. 
+
+4. Agents herbicides selon l'une des revendications 1 à 3, caractérisés en ce qu'ils contiennent 0,1-99 % en masse 
+d'herbicides A) et B) et de 99 à 0,1 % en masse de formulants usuels dans la phytoprotection. 
+
+5. Procédé pour la lutte contre une croissance végétale indésirable, caractérisé en ce qu'on applique un ou plusieurs 
+herbicides A) avec un ou plusieurs herbicides B) sur les plantes adventices, les parties de plantes ou la surface 
+cultivable, la combinaison des herbicides A) et B) étant définie comme dans une des revendications 1 à 4. 
+
+6. Utilisation d'une combinaison des herbicides A) et B) en tant qu'agent herbicide pour la lutte contre une croissance 
+végétale indésirable, la combinaison des herbicides A) et B) étant définie comme dans une des revendications 1 à 4. 
+
+
+
+
+Revendications 
+
+1. Circuit de filtrage actif comportant un amplificateur opérationnel (Op), dont la caractéristique de réponse en fréquence 
+sert, en combinaison avec un réseau RC (R 1 , R 2 , C 1 , C 2 ) qui est contenu dans le circuit de filtrage actif, à la 
+détermination d'une caractéristique de filtrage passe-bas prédéterminée, caractérisé en ce que l'amplificateur 
+opérationnel (Op) contient un amplificateur à transducteur (2, 3, 4) qui détermine au moyen de sa pente (g m ) et 
+d'un condensateur (Cc) détermine, pour l'essentiel, la caractéristique de réponse en fréquences. 
+
+2. Circuit de filtrage actif selon la revendication 1, caractérisé en ce que la pente (g m ) de l'amplificateur à transducteur 
+(2, 3, 4) peut être commandée par un circuit de polarisation (1) de telle manière que ladite pente se comporte de 
+manière inversement proportionnelle à une résistance (Rb) qui détermine la pente, qui se trouve dans le circuit de 
+polarisation (1) et qui est du même type que les résistances (R1, R2) du réseau RC (R1,R2, C1, C2). 
+
+3. Circuit de filtrage actif selon la revendication 1 ou 2, caractérisé en ce que les transistors qui déterminent le courant 
+dans le circuit de polarisation (1) sont du même type de conduction et se trouvent, pour l'essentiel, au même point 
+de fonctionnement dynamique que les transistors d'entrée du l'amplificateur à transducteur (2, 3, 4) qui sont alimentés 
+par le circuit de polarisation (1). 
+
+4. Circuit de filtrage actif selon l'une quelconque des revendications précédentes, caractérisé en ce que l'amplificateur 
+opérationnel (Op) présente, dans la zone de la caractéristique de filtrage passe-bas prédéterminée, une diminution 
+sensiblement constante de l'amplification de 20 dB par décade. 
+
+5. Circuit de filtrage actif selon l'une quelconque des revendications précédentes, caractérisé en ce que le réseau 
+RC (R1,R2, C1, C2) constitue, en combinaison avec l'amplificateur opérationnel (Op), un circuit de filtrage de 
+deuxième ordre. 
+
+6. Circuit de filtrage actif selon l'une quelconque des revendications précédentes, caractérisé en ce que le réseau 
+RC (R1,R2, C1, C2) et l'amplificateur opérationnel (Op) sont des parties d'un circuit monolithique intégré unique, 
+alors que les résistances (R1,R2) et/ou les condensateurs (C1, C2) du réseau RC et de l'amplificateur opérationnel 
+(Op) qui déterminent la caractéristique de réponse en fréquence sont, à chaque fois, fabriqués avec le même 
+procédé de fabrication. 
+
+7. Circuit de filtrage actif selon l'une quelconque des revendications 2 à 6, caractérisé en ce que le réseau RC (R1, 
+R2, C1, C2) et l'amplificateur opérationnel (Op) contenant l'amplificateur à transducteur (2, 3, 4) sont des parties 
+d'un circuit monolithique intégré unique, alors que les résistances (R1, R2) et/ou les condensateurs (C1, C2) du 
+réseau RC et de l'amplificateur opérationnel (Op) qui déterminent la caractéristique de réponse en fréquence et la 
+pente sont, à chaque fois, avec le circuit de polarisation (1), fabriqués avec le même procédé de fabrication. 
+
+8. Circuit de filtrage actif selon l'une quelconque des revendications 1 à 7, caractérisé en ce que, avant ou après le 
+circuit de filtrage, le trajet du signal est séparé de manière capacitive pour la suppression des signaux à courant 
+continu et des fréquences basses. 
+
+9. Circuit de filtrage actif selon l'une quelconque des revendications 1 à 8, caractérisé en ce que le circuit de l'am-
+plificateur opérationnel (Op) est sensiblement symétrique en ce qui concerne les deux trajets de signal qui sont 
+reliés à l'entrée inverseuse et l'entrée non inverseuse (E1, E2) alors que l'amplificateur opérationnel (Op) comporte 
+une sortie inverseuse et une sortie non inverseuse (P1, P2). 
+
+
+EP 1 204 207 B1 
+
+11 
+
+5 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+10. Circuit de filtrage actif selon la revendication 9, caractérisé en ce que le réseau RC est symétrique, alors que la 
+symétrie du premier réseau RC (R1,R2, C1, C2) qui est associé à l'entrée inverseuse (E1) et à la sortie non inverseuse 
+(P1) de l'amplificateur opérationnel (Op) est réalisée au moyen d'un deuxième réseau RC symétrique (R1*, R2*, 
+C1*, C2*) qui est associé à l'entrée inverseuse (E2) et à la sortie non inverseuse (P2) de l'amplificateur opérationnel 
+(Op) et dont le dimensionnement est identique à celui du premier réseau RC. 
+
+11. Circuit de filtrage actif selon l'une quelconque des revendications 1 à 10, caractérisé en ce le circuit de filtrage est 
+branché en aval d'un circuit mélangeur (8) qui est, en particulier, intégré avec le reste du circuit de filtrage pour 
+séparer des signaux perturbateurs (fn) avant un traitement ultérieur. 
+
+12. Circuit de filtrage d'un ordre supérieur à 2 comportant au moins un circuit de filtrage selon l'une quelconque des 
+revendications 1 à 11. 
+
