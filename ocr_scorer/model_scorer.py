@@ -318,36 +318,41 @@ class ModelScorer(object):
 if __name__ == '__main__':
     parser = argparse.ArgumentParser(
         description="Simple command line OCR scorer. Use the service for more intensive/pipeline tasks.")
+    parser.add_argument("action", help="one of [train, eval, test]")
     parser.add_argument("--config-file", type=str, required=False, help="configuration file to be used", default='./config.yml')
     parser.add_argument("--lang", type=str, required=False, help="language code (two letters ISO 639-1) of the model", default='en')
 
     args = parser.parse_args()
 
+    action = args.action
     config_file = args.config_file
     lang = args.lang
     config = _load_config(config_file)
 
     model = ModelScorer(lang, config, False)
     model.build_model()
-    #model.train()
-    #model.save()
-    
-    model.load()
 
-    model.evaluate()
+    if action == 'train':
+        model.train()
+        model.save()
     
-    example1 = "This is an example that might be a little short, but will be sufficent as a text."
-    print(example1)
-    score = model.score_text(example1)
-    print(str(score))
+    if action == 'eval':
+        model.load()
+        model.evaluate()
     
-    example2 = "This is a examble tha might bee a little shirt, bot wall be subicent as a tax. This is an example that might be a little short, but will be sufficent as a text. "
-    print(example2)
-    score = model.score_text(example2)
-    print(str(score))
+    if action == 'test':
+        example1 = "This is an example that might be a little short, but will be sufficent as a text."
+        print(example1)
+        score = model.score_text(example1)
+        print(str(score))
+        
+        example2 = "This is a examble tha might bee a little shirt, bot wall be subicent as a tax. This is an example that might be a little short, but will be sufficent as a text. "
+        print(example2)
+        score = model.score_text(example2)
+        print(str(score))
 
-    example3 = "strange-quark fragmentation. While similar, the shapes are not nearly identical. While the similarity is an interesting observation, it may be coincidental, and likely can only be disentangled in a full QCD analysis, which is at this point "
-    print(example3)
-    score = model.score_text(example3)
-    print(str(score))
+        example3 = "strange-quark fragmentation. While similar, the shapes are not nearly identical. While the similarity is an interesting observation, it may be coincidental, and likely can only be disentangled in a full QCD analysis, which is at this point "
+        print(example3)
+        score = model.score_text(example3)
+        print(str(score))
 
