@@ -37,7 +37,6 @@ class ModelScorer(object):
     config = None
     chars = []
     char_indices = None
-    #indices_char = None
     use_spatial_information = False
 
     # model parameters (to be managed with a dedicated config)
@@ -72,7 +71,7 @@ class ModelScorer(object):
             logging.basicConfig(filename=logs_filename, filemode='w', level=logs_level)
             print("logs are written in " + logs_filename)
 
-        # we use a static list of unicode points for indo-european languages
+        # we use a static list of unicode points for indo-european languages and thus a fixed char vocab
         target_dir = os.path.join(self.config['unicode_dir'], self.lang)
         with open(os.path.join(self.config['unicode_dir'], "unicode_table.txt"), "r") as fu:
             for line in fu.readlines():
@@ -90,9 +89,9 @@ class ModelScorer(object):
         self.voc_size = len(self.chars) + 1
         self.UNK = len(self.chars)
         self.char_indices = dict((c, i) for i, c in enumerate(self.chars))
-        #self.indices_char = dict((i, c) for i, c in enumerate(self.chars))
 
         print("number of chars/vocab size:", str(len(self.chars)))
+        self.build_model()
 
     def score_text(self, text):
         # score a single piece of text, the text is expected to be of length at least self.max_length+1
@@ -315,7 +314,6 @@ class ModelScorer(object):
         #    self.char_indices = json.load(json_file)
 
         #self.chars = [c for c, i in enumerate(self.char_indices)]
-        #self.indices_char = dict((i, c) for c, i in enumerate(self.char_indices))
 
 if __name__ == '__main__':
     parser = argparse.ArgumentParser(
@@ -332,8 +330,7 @@ if __name__ == '__main__':
     config = _load_config(config_file)
 
     model = ModelScorer(lang, config, False)
-    model.build_model()
-
+    
     if action == 'train':
         model.train()
         model.save()
@@ -343,6 +340,8 @@ if __name__ == '__main__':
         model.evaluate()
     
     if action == 'test':
+        model.load()
+        
         example1 = "This is an example that might be a little short, but will be sufficent as a text."
         print(example1)
         score = model.score_text(example1)
