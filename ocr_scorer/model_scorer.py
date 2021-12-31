@@ -1,9 +1,11 @@
 import os
+os.environ["TF_CPP_MIN_LOG_LEVEL"] = "3"
 
 from tensorflow import keras
 from tensorflow.keras import layers
 import tensorflow as tf
-tf.get_logger().setLevel('ERROR')
+tf.autograph.set_verbosity(1)
+tf.get_logger().setLevel("ERROR")
 
 import numpy as np
 import random
