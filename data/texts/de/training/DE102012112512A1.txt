@@ -1,0 +1,1450 @@
+(19) *DE102004024207B420160324* (10) DE 10 2004 024 207 B4 2016.03.24 (12) Patentschrift (21) Aktenzeichen: 10 2004 024 207.0 (22) Anmeldetag: 10.05.2004 (43) Offenlegungstag: 15.12.2005 (45) Veröffentlichungstag der Patenterteilung: 24.03.2016 (51) Int Cl.: H01L 21/205 (2006.01) C30B 25/08 (2006.01) C23C 16/54 (2006.01) Innerhalb von neun Monaten nach Veröffentlichung der Patenterteilung kann nach 59 Patentgesetz gegen das Patent Einspruch erhoben werden. Der Einspruch ist schriftlich zu erklären und zu begründen. Innerhalb der Einspruchsfrist ist eine Einspruchsgebühr in Höhe von 200 Euro zu entrichten ( 6 Patentkostengesetz in Verbindung mit der Anlage zu 2 Abs. 1 Patentkostengesetz). (73) Patentinhaber: IHP GmbH -Innovations for High Performance Microelectronics / Leibniz-Institut für innovative Mikroelektronik, 15236 Frankfurt, DE (74) Vertreter: Eisenführ Speiser Patentanwälte Rechtsanwälte PartGmbB, 10178 Berlin, DE (72) Erfinder: Grabolla, Thomas, Dr., 15518 Arensdorf, DE; Ritter, Georg, Dr., 15236 Frankfurt, DE; Tillack, Bernd, Dr., 15234 Frankfurt, DE (56) Ermittelter Stand der Technik: US 6 488 778 B1 US 5 303 671 A WO 2003/ 012 840 A2 JP 10-1 99 870 A (54) Bezeichnung: Verfahren und Vorrichtung zur Niedertemperaturepitaxie auf einer Vielzahl von Halbleitersubstraten (57) Hauptanspruch: Verfahren zur Abscheidung von Schichten auf einer Vielzahl von Halbleitersubstraten gleich-
+zeitig, mit den Schritten -Reinigung mindestens je einer Oberfläche der Halbleiter-
+substrate in einem ersten Reaktor bei einer ersten Substrat-
+temperatur T red , -Transport der Halbleitersubstrate vom ersten in einen zwei-
+ten Reaktor, -nachfolgende Abscheidung mindestens je einer Schicht auf den Halbleitersubstraten im zweiten Reaktor bei einer zweiten Substrattemperatur T dep wobei die Halbleitersubstrate während der Reinigung und während des Transports vom ersten in den zweiten Reaktor unterbrechungsfrei in einer reduzierenden Gasatmosphäre bewegt oder gelagert werden, solange die Substrattempe-
+ratur über einer vom Substratmaterial und dem Material der mindestens einen abzuscheidenden Schicht abhängigen kri-
+tischen Temperatur T c liegt, oberhalb derer bei einer Lage-
+rung oder einem Transport in einer nicht reduzierenden Gas-
+atmosphäre durch unerwünschte Reaktionen oder Verunrei-
+nigungen die nachfolgende Abscheidung der Schichten be-
+einträchtigt würde, und bei dem der Transport der Halbleitersubstrate durch eine Transportkammer mit nicht reduzierender Gasatmosphäre bei einer Substrattemperatur unterhalb der kritischen Tem-
+peratur führt. DE 10 2004 024 207 B4 2016.03.24 2/18 Beschreibung [0001] Die vorliegende Erfindung betrifft ein Verfah-
+ren zur Abscheidung von Schichten auf einer Vielzahl von Halbleitersubstraten gleichzeitig sowie eine Re-
+aktoranordnung für die Schichtabscheidung auf einer Vielzahl von Substraten. [0002] Die Entwicklung der Silizium-Germanium-
+Kohlenstoff-Technologie hat die Herstellung von Halbleiterbauelementen ermöglicht, in denen funktio-
+nelle Schichten mit einer bis dahin nicht realisierba-
+ren Kombination einer besonders geringen Schicht-
+dicke und hoher Dotierstoffkonzentration enthalten sind. Damit konnte die wirtschaftlich hochentwickel-
+te Siliziumtechnologie auch für hochfrequenztaugli-
+che Bauelemente eingesetzt werden und die bis da-
+hin dominierende Technologie auf der Basis von III-
+V-Halbleitern wie Galliumarsenid zum Teil ersetzen. [0003] Die Si/SiGe-C-Technolgie profitiert zum ei-
+nen von den vorteilhaften elektronischen Eigenschaf-
+ten von Si/SiGe-Heterostrukturen gegenüber reinen Si-Strukturen und zum anderen von der doppelten Wirkung des Kohlenstoffeinbaus. Kohlenstoff kann die Gitterfehlanpassung von SiGe gegenüber Si kom-
+pensieren und hemmt darüber hinaus die Diffusion von Dotierstoffen, die im Ergebnis zu einer uner-
+wünschten Schichtverbreiterung in Transistorstruktu-
+ren führt. [0004] Die Vorteile der Si/SiGe:C-Technologie konn-
+ten jedoch nur aufgrund der begleitenden Entwick-
+lung neuer, an die besonderen Erfordernisse der neuen Halbleiterstrukturen angepassten Abscheide-
+verfahren zum Tragen kommen. So wurden Nieder-
+temperatur-Abscheideverfahren entwickelt, die diffu-
+sionsfördernde Prozessschritte bei hohen Tempera-
+turen soweit wie möglich vermeiden. [0005] Aus der WO 03/012840 A2 ist ein solches Niedertemperatur-Verfahren zur Herstellung dünner epitaktischer Schichten bekannt. Bei diesen Verfah-
+ren wird eine Vielzahl von Substraten zunächst ei-
+ner externen Vorreinigung und anschließend bei ei-
+ner hohen Temperatur zwischen 750 und 1100°C einer Wasserstoffbehandlung ("Wasserstoff-preba-
+ke") unterzogen. Nach dieser Vorbehandlung wer-
+den die Substrate in einem Niederdruck-Heiß-oder Warmwand-Batch-Reaktor bei im Vergleich zur Was-
+serstoffbehandlung niedrigeren Temperaturen be-
+schichtet. [0006] Es ist aus der WO 03/012840 A2 weiterhin bekannt, das Wasserstoff-prebake in einer ersten Re-
+aktorkammer und die Schichtabscheidung in einer zweiten Reaktorkammer durchzuführen. Die Substra-
+te werden nach dem Wasserstoff-prebake von der ersten in die zweite Reaktorkammer überführt. Der Transport erfolgt durch eine Transportkammer in ei-
+ner inerten Atmosphäre oder im Vakuum. [0007] Aus der US 6 488 778 B1 ist eine ähnliche Anordnung bekannt. [0008] Problematisch ist bei dem in diesen Doku-
+menten beschriebenen Verfahren der Transport zwi-
+schen den Reaktorkammern nach der Wasserstoff-
+behandlung. Durch den Wechsel der Gasatmosphäre bei erhöhten Substrattemperaturen kann es zu uner-
+wünschten Reaktionen und neuen Verunreinigungen auf der Oberfläche der gerade gereinigten Substra-
+te kommen, die die Homogenität der nachfolgenden Schichtabscheidung beeinträchtigen können. [0009] Das der Erfindung zugrunde liegende techni-
+sche Problem ist es daher, ein Verfahren und eine Vorrichtung zur Schichtabscheidung anzugeben, bei dem bzw. bei der die genannten Nachteile nicht auf-
+treten. [0010] Der Verfahrensaspekt des genannten techni-
+schen Problems wird gelöst durch ein Verfahren zur Schichtabscheidung auf einer Vielzahl von Halbleiter-
+substraten gleichzeitig, mit den folgenden Schritten: -Reinigung mindestens je einer Oberfläche der Substrate in einem ersten Reaktor bei einer ersten Substrattemperatur T red , -Transport der Substrate vom ersten in einen zweiten Reaktor, -nachfolgende Abscheidung mindestens je ei-
+ner Schicht auf den Halbleitersubstraten im zwei-
+ten Reaktor bei einer zweiten Substrattemperatur T dep . [0011] Erfindungsgemäß werden die Substrate wei-
+terhin während der Reinigung und während des Transports vom ersten in den zweiten Reaktor unter-
+brechungsfrei in einer reduzierenden Gasatmosphä-
+re bewegt oder gelagert, solange die Substrattempe-
+ratur über einer vom Substratmaterial und dem Mate-
+rial der mindestens einen abzuscheidenden Schicht abhängigen kritischen Temperatur T c liegt. [0012] Dem erfindungsgemäßen Verfahren liegt die Erkenntnis zugrunde, dass eine Beeinträchtigung der Homogenität der Schichtabscheidung durch nach der Wasserstoffbehandlung der Substrate unerwünscht aufgetretene Reaktionen oder Verunreinigungen ein von der Temperatur abhängiges Phänomen ist. Es kann eine vom Substratmaterial abhängige kritische Temperatur T c bestimmt werden, oberhalb derer die Schichtabscheidung beeinträchtigt ist. [0013] Erfindungsgemäß wird die Vielzahl der Sub-
+strate während der Reinigung und während des an-
+schließenden Transports vom ersten in den zwei-
+ten Reaktor unterbrechungsfrei in einer reduzieren-
+den Gasatmosphäre bewegt oder gelagert, solange DE 10 2004 024 207 B4 2016.03.24 3/18 die Substrattemperatur größer oder gleich der kriti-
+schen Temperatur T c ist. Auf diese Weise gelingt es, bei der nachfolgenden Schichtabscheidung beson-
+ders homogene Schichten zu erzeugen. [0014] Das erfindungsgemäße Verfahren hat wei-
+terhin den Vorteil, einen robusteren Substrattrans-
+port zu ermöglichen. Die Lagerung und der Trans-
+port der Substrate bei Temperaturen oberhalb der kritischen Temperatur in einer reduzierenden Gasat-
+mosphäre wie einer Wasserstoffatmosphäre bewir-
+ken eine Passivierung der Substratoberflächen. Ur-
+sprünglich offene Valenzen an der Oberfläche des Substrats werden von Atomen des Gases der re-
+duzierenden Gasatmosphäre besetzt. Die so erziel-
+te Passivierung, beispielsweise eine Wasserstoffpas-
+sivierung, hält bei Temperaturen unterhalb der kri-
+tischen Temperatur ausreichend lange an, um ei-
+nen Substrattransport in Stickstoffatmosphäre ohne die Gefahr störender Oberflächenreaktionen zu ge-
+währleisten. Unerwünschte Reaktionen mit Sauer-
+stoff oder Feuchtigkeit während des Substrattrans-
+portes auch bei niedrigen Temperaturen können auf diese Weise unterdrückt werden. [0015] Bei einer bevorzugten Ausführungsform des erfindungsgemäßen Verfahrens werden die Substra-
+te während des Transports vom ersten in den zwei-
+ten Reaktor aus der reduzierenden Gasatmosphä-
+re heraustransportiert, nachdem die Substrattempe-
+ratur unterhalb die kritische Temperatur gesunken ist. Auf diese Weise kann zum einen der Transport der Substrate noch in der reduzierenden Gasatmo-
+sphäre begonnen werden, wodurch Zeit gewonnen wird. Zum anderen muss nicht der gesamte Trans-
+port der Halbleitersubstrate vom ersten in den zwei-
+ten Reaktor in einer reduzierenden Gasatmosphäre durchgeführt werden. Nach der erläuterten Passivie-
+rung der Oberflächen in einer reduzierenden Gasat-
+mosphäre wie beispielsweise einer Wasserstoffatmo-
+sphäre oberhalb der kritischen Temperatur können die Substrate auch in einer anderen Gasatmosphäre bewegt werden, beispielsweise in einer inerten Gas-
+atmosphäre wie einer Stickstoffatmosphäre oder im Vakuum. Hierfür ist weniger Aufwand erforderlich als für die Bereitstellung von Reaktorbereichen, die auf eine reduzierende Gasatmosphäre umgestellt wer-
+den müssen. [0016] Bei einer weiteren Ausführungsform des er-
+findungsgemäßen Verfahrens umfasst der Transport der Substrate vom ersten in den zweiten Reaktor die folgenden Schritte: -Transport der Substrate aus dem ersten Reaktor in eine erste Schleusenkammer mit einstellbarer Temperatur und Gasatmosphäre bei einer Sub-
+strattemperatur oberhalb der kritischen Tempera-
+tur T c -Abkühlen der Substrate in der ersten Schleu-
+senkammer auf eine Substrattemperatur unter-
+halb der kritischen Temperatur T c -Transport der Substrate von der ersten Schleu-
+senkammer in den zweiten Reaktor. [0017] Durch Verwendung der ersten Schleusen-
+kammer können die Substrate nach der Wasserstoff-
+behandlung im ersten Reaktor in einer reduzierenden Gasatmosphäre transportiert werden. Dadurch wird der erste Reaktor wieder frei für die Bestückung mit neuen Substraten. Die gerade gereinigten Substra-
+te können in der ersten Schleusenkammer anschlie-
+ßend in der reduzierenden Gasatmosphäre abge-
+kühlt werden, bis sie die kritische Temperatur T c un-
+terschritten haben. Anschließend kann der Transport der Substrate in den zweiten Reaktor in einer iner-
+ten Gasatmosphäre oder im Vakuum fortgeführt wer-
+den. Hierzu wird beispielsweise die Gasatmosphäre in der ersten Schleusenkammer ausgetauscht oder soweit abgepumpt, bis sich die gewünschten Bedin-
+gungen für den weiteren Transport eingestellt haben. Anschließend kann die Schleusenkammer geöffnet werden und können die Substrate zum zweiten Re-
+aktor weitertransportiert werden. [0018] Bei einer weiteren Ausführungsform des er-
+findungsgemäßen Verfahrens ist die erste Schleu-
+senkammer dem ersten Reaktor zugeordnet. Der Transport der Substrate von der ersten Schleusen-
+kammer in den zweiten Reaktor umfasst hierbei die folgenden Schritte: -Erforderlichenfalls Umstellen der Gasatmosphä-
+re in der zweiten Schleusenkammer auf eine re-
+duzierende Gasatmosphäre -Erwärmen der Substrate auf eine Substrattem-
+peratur oberhalb der kritischen Temperatur T c -Transport der Substrate in den zweiten Reaktor in der reduzierenden Gasatmosphäre. [0019] Bei diesem Verfahren sind zwei Schleusen-
+kammern vorgesehen. Die erste Schleusenkammer dient dem Transport und der Lagerung der Substra-
+te vor und nach dem Wasserstoff-prebake. Die zwei-
+te Schleusenkammer dient dem Transport und der Lagerung der Substrate vor und nach der Schichtab-
+scheidung. Bei dieser Ausführungsform werden die Schichten mit dem Einbringen der Substrate in den zweiten Reaktor in der reduzierenden Gasatmosphä-
+re in der zweiten Schleusenkammer auf eine Sub-
+strattemperatur oberhalb der kritischen Temperatur T c erwärmt. [0020] Auch hier ist es denkbar, dass während der Abscheidung einer Anzahl von Substraten im zwei-
+ten Reaktor in der zweiten Schleusenkammer bereits ein oder mehrere weitere Substratträger gelagert sind und auf die für die Abscheidung erforderliche Tempe-
+ratur gebracht werden. DE 10 2004 024 207 B4 2016.03.24 4/18 [0021] Bei einer weiteren Ausführungsform des er-
+findungsgemäßen Verfahrens erfolgt der Transport der Substrate von der ersten in die zweite Schleusen-
+kammer durch eine Transportkammer mit nicht re-
+duzierender Gasatmosphäre. Es versteht sich, dass dies im Sinne der Erfindung nur bei Temperaturen unterhalb der kritischen Temperatur T c erfolgt. [0022] Bei einer weiteren Ausführungsform hat die Gasatmosphäre im zweiten Reaktor beim Einbrin-
+gen der Substrate eine zum Erwärmen der Substrate auf die zweite Substrattemperatur T dep erforderliche Temperatur. [0023] Das erfindungsgemäße Verfahren kann auch ohne den Transport und die Lagerung der Substra-
+te in Schleusenkammern durchgeführt werden. Bei einer solchen Ausführungsform sind beispielsweise der erste und der zweite Reaktor aneinanderangren-
+zend angeordnet und voneinander durch gas-und va-
+kuumdichte Verschlüsse trennbar. Nach dem Reini-
+gungsschritt im ersten Reaktor und vor dem Schicht-
+abscheideschritt im zweiten Reaktor werden bei die-
+ser Ausführungsform die folgenden Schritte durchge-
+führt: -Abkühlen der Substrate im ersten Reaktor auf eine Substrattemperatur, die gleich der Abschei-
+detemperatur T dep im zweiten Reaktor ist, -Umstellen der Gasatmosphäre im zweiten Re-
+aktor auf eine reduzierende Gasatmosphäre, -Transport der Substrate in den zweiten Reaktor, -Erforderlichenfalls Umstellen der Gasatmosphä-
+re im zweiten Reaktor auf die für die Schichtab-
+scheidung benötigte Gasatmosphäre. [0024] Die reduzierende Gasatmosphäre ist vor-
+zugsweise eine ultrareine reduzierende Gasatmo-
+sphäre. Ultrarein bedeutet in diesem Zusammen-
+hang, dass Verunreinigungen nur in einer Konzen-
+tration von insgesamt weniger als 10 ppb vorhanden sind. [0025] Vorzugsweise besteht die reduzierende Gas-
+atmosphäre aus Wasserstoff, wobei der Restgehalt an oxidierenden Bestandteilen wie beispielsweise Sauerstoff und Feuchtigkeit wie Wasserdampf nicht höher ist als 1 ppb. [0026] Wie eingangs schon erläutert, hängt die kriti-
+sche Temperatur vom verwendeten Substratmaterial und von dem Material der abzuscheidenden Schicht ab. Die kritische Temperatur ist typischer Weise klei-
+ner als die Abscheidetemperatur T dep . Bei einer be-
+vorzugten Ausführungsform gilt folgende Beziehung zwischen den ersten und zweiten Substrattempera-
+turen T red und T dep und der kritischen Temperatur T c gilt: 200°C < T c < T dep < T red 1000°C [0027] Hierbei bezeichnet T red die Temperatur der reduzierenden Gasatmosphäre während des Was-
+serstoff-prebakes. [0028] Vorzugsweise wird das erfindungsgemäße Verfahren mit mindestens 25 Substraten gleichzeitig durchgeführt. [0029] Besonders geeignet ist das Verfahren für die Abscheidung auf Siliziumsubstraten. Es sind jedoch auch andere Substratmaterialien denkbar, beispiels-
+weise Silizium-Germanium, Siliziumcarbid oder Ger-
+manium. [0030] Vorzugsweise wird im zweiten Reaktor min-
+destens eine epitaktische Schicht abgeschieden. Zu-
+sätzlich oder alternativ umfasst der Abscheideschritt in einer anderen Ausführungsform das Abscheiden mindestens einer dielektrischen Schicht auf den Sub-
+straten. [0031] Das erfindungsgemäße Verfahren wird in ei-
+ner bevorzugten Ausführungsform parallel an mehre-
+ren Batches durchgeführt. Während eine erste Viel-
+zahl von Substraten dem Abscheideschritt unterzo-
+gen wird, wird gleichzeitig mindestens eine zweite Vielzahl von Substraten dem Reinigungsschritt unter-
+zogen. Auf diese Weise kann eine gegenüber Ein-
+kammersystemen und gegenüber einer Durchfüh-
+rung des erfindungsgemäßen Verfahrens mit nur ei-
+ner Vielzahl von Substraten gleichzeitig, also nur einem Batch, eine deutliche Erhöhung des Wafer-
+durchsatzes pro Stunde erzielt werden. [0032] Da der Abscheideschritt in aller Regel deut-
+lich länger dauert als der Reinigungsschritt können während der Abscheidung auch mehrere Batches ge-
+reinigt werden. Nach dem Prebake und der Abküh-
+lung unter die kritische Temperatur wird das zweite Batch, also die zweite Vielzahl von Substraten, ent-
+weder in der Schleusenkammer oder in der Trans-
+portkammer gelagert, bis das erste Batch, also die erste Vielzahl nach dem Abscheideschritt aus der Schleusenkammer des Abscheidereaktors heraus-
+geführt worden ist. Die Lagerung in der Transport-
+kammer ist in dem Fall vorteilhaft, wenn ein drittes oder noch weitere Batche zur Reinigung im Preba-
+ke-Reaktor vorgesehen sind, während im Abscheide-
+Reaktor das erste Batch dem Abscheideschritt unter-
+zogen wird. [0033] Die vorstehende Überlegung motiviert ein Ausführungsbeispiel der erfindungsgemäßen Reak-
+toranordnung mit zwei oder mehr zweiten Reaktor-
+kammern zur Durchführung der Abscheidung. Bei diesem Ausführungsbeispiel müssen die gereinig-
+ten Batches nicht lange gelagert werden, sondern können gleich zur jeweils nächsten frei werdenden Abscheidekammer bzw. einer dort vorgesehenen Schleusenkammer transportiert werden. Die paralle- DE 10 2004 024 207 B4 2016.03.24 5/18 le Durchführung des Abscheideschrittes in mehre-
+ren Abscheidereaktoren ermöglicht eine weitere Effi-
+zienzsteigerung. [0034] Ein weiteres Ausführungsbeispiel des erfin-
+dungsgemäßen Verfahrens sieht vor, dass die erste Substrattemperatur T red durch kurzzeitiges Bestrah-
+len je eines Substrates mit einer Lichtquelle einge-
+stellt wird. Auf diese Weise kann das thermische Budget, dem die Substrate ausgesetzt werden, deut-
+lich verringert werden. Weiterhin werden aufwändi-
+ge Heizvorrichtungen an der Prebake-Reaktorkam-
+mer gespart. Im Unterschied zum Beheizen der ge-
+samten Reaktorkammer wird bei dieser Ausführungs-
+form jedes Substrat eines Batches einzeln bestrahlt. Es wird also nur kurzzeitig einer definierten Heizleis-
+tung ausgesetzt. [0035] Bevorzugt wird dabei je ein Substrat entwe-
+der mit einem Lichtblitz oder mit mehreren Lichtblit-
+zen bestrahlt, wobei Anzahl, Frequenzspektrum, In-
+tensität und Zeitdauer des Lichtblitzes bzw. der Licht-
+blitze so gewählt sind, dass das Substrat für eine vor-
+bestimmte Zeitspanne auf die erste Substrattempe-
+ratur T red erhitzt wird. Zur Durchführung einer Ober-
+flächenreinigung reicht eine Zeitspanne von maximal ca. 10 Sekunden in Wasserstoffatmosphäre bei der ersten Substrattemperatur. [0036] Gemäß einem weiteren Aspekt der Erfindung wird eine Reaktoranordnung für die Schichtabschei-
+dung auf einer Vielzahl von Substraten angegeben. Die erfindungsgemäße Reaktoranordnung umfasst: -eine erste Reaktorkammer, die zur Durchfüh-
+rung einer Reinigung der Vielzahl von Substraten ausgebildet ist, -eine zweite Reaktorkammer, die zur Abschei-
+dung mindestens je einer Schicht auf der Vielzahl von Substraten ausgebildet ist, -eine erste Heizvorrichtung zum Einstellen der Substrattemperatur der Substrate in der ersten Reaktorkammer, -eine zweite Heizvorrichtung zum Einstellen der Substrattemperatur der Substrate in der zweiten Reaktorkammer, -eine Vorrichtung zum Herstellen einer Gasat-
+mosphäre vorgegebener Zusammensetzung und vorgegebenen Drucks wahlweise in der ersten Reaktorkammer oder in der zweiten Reaktorkam-
+mer oder in beiden Reaktorkammern. [0037] Weiterhin ist eine Steuervorrichtung vorhan-
+den, die mit den Heizvorrichtungen und der Vor-
+richtung zum Herstellen der Gasatmosphäre verbun-
+den und ausgebildet ist, die Heizvorrichtungen und die Vorrichtung zum Herstellen der Gasatmosphä-
+re so zu steuern, dass die Substrate während der Reinigung und während eines danach erfolgenden Transports der gereinigten Substrate vom ersten in den zweiten Reaktor unterbrechungsfrei in einer re- duzierenden Gasatmosphäre bewegt oder gelagert werden, solange die Substrattemperatur über einer vom Substratmaterial und dem Material der mindes-
+tens einen abzuscheidenden Schicht abhängigen kri-
+tischen Temperatur T c liegt. [0038] Die erfindungsgemäße Reaktoranordnung ist zur Durchführung des Schichtabscheideverfahrens gemäß dem ersten Aspekt der Erfindung ausgebildet. Die Steuervorrichtung der erfindungsgemäßen Re-
+aktoranordnung koordiniert das Zusammenspiel der Heizvorrichtungen und der Vorrichtung zum Herstel-
+len der Gasatmosphäre vorgegebener Zusammen-
+setzung und vorgegebenen Drucks. Die Steuerung erfolgt mit der Maßgabe, dass die Substrate während der Reinigung und während eines danach erfolgen-
+den Transports der gereinigten Substrate vom ers-
+ten in den zweiten Reaktor unterbrechungsfrei in ei-
+ner reduzierenden Gasatmosphäre bewegt oder ge-
+lagert werden, solange die Substrattemperatur ober-
+halb der kritischen Temperatur T c liegt. Vorteile der erfindungsgemäßen Reaktoranordnung ergeben sich zum Einen unmittelbar aus der Beschreibung der Vor-
+teile des erfindungsgemäßen Verfahrens. [0039] Bei der erfindungsgemäßen Reaktoranord-
+nung sind die erste und zweite Reaktorkammer von einander getrennt und dienen jeweils der Durchfüh-
+rung klar definierter Verfahrensschritte. So wird die zweite Reaktorkammer zur Schichtabscheidung ver-
+wendet, und nicht zur Durchführung einer Reinigung der Substrate. Das hat Vorteile im Hinblick auf die Reinheit der Atmosphäre bei der Substratreinigung (Prebake) und bei der Schichtabscheidung, sowie auf die Häufigkeit notwendiger Reinigungsprozedu-
+ren der Reaktorkammer selbst. Die Substratreinigung erfolgt typischerweise bei gegenüber der Schicht-
+abscheidung erhöhter Temperatur. Werden Substra-
+treinigung und Schichtabscheidung in einer Kammer durchgeführt, muss die Temperatur der Kammer zur Reinigung erhöht und später zur Schichtabscheidung wieder verringert werden. Bei der Schichtabschei-
+dung tritt ein Niederschlag auch an den Wandungen der Reaktorkammer auf. Aufgrund der thermischen Zyklen in aufeinanderfolgenden Reinigungs-und Ab-
+scheideschritten kann dieser Niederschlag in einer Reaktoranordnung nach dem Stand der Technik auf-
+grund der bei den thermischen Zyklen entstehenden Schichtspannungen im Niederschlag an den Wan-
+dungen vor allem während der Hochtemperaturpha-
+sen abblättern. So kann die Gasatmosphäre während der Substratreinigung verunreinigt werden, wodurch die Reinheit der Substratoberflächen beeinträchtigt wird. Diese Gefahr ist in der erfindungsgemäßen Re-
+aktoranordnung zumindest verringert. Die abgeschie-
+denen Schichten sind weitestgehend frei von Fremd-
+partikeln und haben so eine besonders gute Schicht-
+qualität. DE 10 2004 024 207 B4 2016.03.24 6/18 [0040] In der erfindungsgemäßen Reaktoranord-
+nung kann die zweite Reaktorkammer weiterhin ein-
+facher und seltener gereinigt werden, weil die Kam-
+mer stets auf der gleichen Temperatur gehalten wer-
+den kann, der Niederschlag an den Wandungen des Reaktors geringer ist und aufgrund der konstanten Temperatur keine thermisch erzeugten Spannungen in der Niederschlagsschicht entstehen, die zum Ab-
+blättern führen. Dies ermöglicht eine längere Stand-
+zeit des erfindungsgemäßen Reaktors zwischen not-
+wendigen Reaktor-Reinigungsprozessen, unabhän-
+gig davon, ob dies in Form einer in-situ Reinigung oder als externe Reinigung mit Reaktorwechsel er-
+folgt. Daher hat die erfindungsgemäße Reaktoran-
+ordnung eine gegenüber bekannten Anordnungen er-
+höhte Effizienz. [0041] Bei einem Ausführungsbeispiel der erfin-
+dungsgemäßen Reaktoranordnung weisen die ers-
+te Reaktorkammer und die zweite Reaktorkammer je mindestens eine Öffnung für den Durchtransport der Vielzahl von Substraten auf. Beide Öffnungen sind mit Hilfe mindestens eines gas-und vakuumdichten Verschlusses schließbar. Bei diesem Ausführungs-
+beispiel grenzen die Reaktorkammern zumindest in einem Bereich, der mindestens eine Öffnung enthält, aneinander an. Diese Anordnung ohne Schleusen-
+kammern ist besonders platzsparend. Sie hat aller-
+dings den Nachteil, dass der Durchsatz an Substra-
+ten gegenüber einer Anordnung mit Schleusenkam-
+mern verringert ist. [0042] Eine alternative Ausführungsform sieht eine erste Schleusenkammer vor, die mit der ersten Re-
+aktorkammer über eine gemeinsame, mit einem dicht schließenden Verschluss schließbaren Öffnung ver-
+bunden ist. [0043] Zusätzlich ist in einer weiteren Ausführungs-
+form eine zweite Schleusenkammer vorgesehen, die mit der zweiten Reaktorkammer über eine ge-
+meinsame, mit einem dicht schließenden Verschluss schließbaren Öffnung verbunden ist. [0044] Bei dieser Ausführungsform kann vorteilhaf-
+ter Weise zwischen der ersten Schleusenkammer und der zweiten Schleusenkammer eine Transport-
+kammer vorgesehen sein, die mit diesen durch je ei-
+ne mit einem dicht schließenden Verschluss schließ-
+bare Öffnung verbunden ist, wobei in der Transport-
+kammer eine Transportvorrichtung vorgesehen ist, die ausgebildet ist, die Vielzahl von Substraten von der ersten in die zweite Schleusenkammer zu trans-
+portieren. Bei der Transportvorrichtung kann es sich beispielsweise um einen Transportroboter handeln. [0045] Die erste Heizvorrichtung, die für die Einstel-
+lung der Temperatur während des Wasserstoff-pre-
+bakes verwendet wird, ist in einem weiteren Ausfüh-
+rungsbeispiel ausgebildet, die Gasatmosphäre in der ersten Reaktorkammer auf maximal etwa 1000°C zu erhitzen. [0046] Die erste und zweite Heizvorrichtung sind vorzugsweise so ausgebildet und werden jeweils in geeigneter Weise gesteuert, dass die für das Was-
+serstoff-Prebake bzw. das Abscheiden erforderliche Temperatur der Substrate schon während des Ein-
+fahrens der Substrate in die erste bzw. zweite Reak-
+torkammer erreicht wird. Auf diese Weise kann die Effizienz des Prozesses weiter erhöht werden, weil sofort nach dem Einfahren der Substrate in die jewei-
+lige Reaktorkammer mit der Reinigung bzw. der Ab-
+scheidungssequenz begonnen werden kann. [0047] Das Erhitzen der Substrate kann wie oben im Zusammenhang eines Ausführungsbeispiels des er-
+findungsgemäßen Verfahrens schon erläutert, auch allein oder mit Unterstützung einer kurzzeitigen Be-
+strahlung der Substrate erfolgen. Hierzu umfasst bei einer Ausführungsform der Reaktoranordnung die erste Heizvorrichtung eine Bestrahlungsvorrichtung, die ausgebildet ist, Strahlungsimpulse einer vorbe-
+stimmten Anzahl, eines vorbestimmten Frequenz-
+spektrums, einer vorbestimmten Intensität und einer vorbestimmten Dauer abzugeben, derart, dass ein mit dem Strahlungsimpuls oder den Strahlungsimpul-
+sen unter vorbestimmtem Abstand von der Bestrah-
+lungsvorrichtung bestrahltes Substrat für eine vorbe-
+stimmte Zeitspanne auf die erste Substrattemperatur T red erhitzt wird. [0048] Vorzugsweise ist weiterhin eine der ersten Reaktorkammer zugeordnete erste Drucksteuervor-
+richtung vorgesehen, die ausgebildet ist, den Druck der Gasatmosphäre in der ersten Reaktorkammer auf atmosphärischen Druck oder leichten Unterdruck ein-
+zustellen und zu halten. [0049] Weiterhin weist die erfindungsgemäße Re-
+aktoranordnung in einem anderem Ausführungsbei-
+spiel eine Kühlvorrichtung auf, die ausgebildet ist, in der ersten Reaktorkammer eine Temperatursen-
+kung der Gasatmosphäre um maximal 40 K/min zu bewirken. Durch derartige schnelle Temperaturwech-
+sel kann der Durchsatz des ersten Reaktors erhöht werden. Eine derartige Kühleinrichtung ist nicht erfor-
+derlich, wenn das Erhitzen der Substrate allein mit der Bestrahlungsvorrichtung durchgeführt wird. Es ist aber sinnvoll, wenn die Heizvorrichtung zum einen eine Bestrahlungsvorrichtung und zum anderen ei-
+ne die gesamte Reaktoratmosphäre erfassende Hei-
+zung umfasst, wobei mit der Heizung eine "Sockel-
+temperatur" im Prebake-Reaktor eingestellt wird und die Bestrahlungsvorrichtung von dieser ausgehend die Substrate erhitzt. [0050] Bei einer besonders bevorzugten Ausfüh-
+rungsform ist die Vorrichtung zum Herstellen der Gasatmosphäre zusätzlich mit der ersten Schleusen- DE 10 2004 024 207 B4 2016.03.24 7/18 kammer verbunden und ausgebildet, in der ersten Schleusenkammer eine Gasatmosphäre vorgegebe-
+ner Zusammensetzung und vorgegebenen Drucks herzustellen. Weiterhin sind die erste Heizvorrich-
+tung, die Vorrichtung zum Herstellen der Gasatmo-
+sphäre und die Steuervorrichtung zusätzlich ausge-
+bildet, in der ersten Schleusenkammer eine reduzie-
+rende Gasatmosphäre auf eine Temperatur oberhalb der kritischen Temperatur T c einzustellen und zu hal-
+ten. Die Vorrichtung zum Herstellen der Gasatmo-
+sphäre und die Steuervorrichtung sind weiterhin vor-
+zugsweise ausgebildet, eine ultrareine Wasserstoff-
+atmosphäre mit einem Restgehalt an oxidierenden Bestandteilen von maximal 1 ppb einzustellen und zu halten. [0051] Vorzugsweise ist weiterhin die Vorrichtung zum Herstellen der Gasatmosphäre zusätzlich mit der zweiten Schleusenkammer verbunden und aus-
+gebildet, in der zweiten Schleusenkammer eine Gas-
+atmosphäre vorgegebener Zusammensetzung und vorgegebenen Drucks herzustellen. Weiterhin sind die zweite Heizvorrichtung, die Vorrichtung zum Her-
+stellen der Gasatmosphäre und die Steuervorrich-
+tung zusätzlich ausgebildet, eine reduzierende Gas-
+atmosphäre in der zweiten Schleusenkammer auf ei-
+ne Temperatur oberhalb der kritischen Temperatur T c einzustellen und zu halten. [0052] Weitere bevorzugte Ausführungsformen des erfindungsgemäßen Verfahrens und der erfindungs-
+gemäßen Reaktoranordnung sind in den Unteran-
+sprüchen beschrieben. [0053] Nachfolgend werden Ausführungsbeispiele der Erfindung anhand der Figuren beschrieben. Es zeigen: [0054] Fig. 1 eine schematische und vereinfachte Darstellung einer Reaktoranordnung für die Nieder-
+temperatur-Epitaxie in einer Draufsicht, [0055] Fig. 2 Schnittdarstellungen der beiden Reak-
+toren der Reaktoranordnung der Fig. 1 entlang der Linien A-A, A-B und B-B, und [0056] Fig. 3 ein Flussdiagramm eines ersten Aus-
+führungsbeispiels des erfindungsgemäßen Verfah-
+rens. [0057] Fig. 4 eine tabellarische Darstellung der Ver-
+fahrensführung eines zweiten Ausführungsbeispiels, bei dem mindestens zwei Batche parallel prozessiert werden [0058] Nachfolgend wird ein Ausführungsbeispiel der Reaktoranordnung unter gleichzeitiger Bezug-
+nahme auf die Fig. 1 und Fig. 2 beschrieben. Fig. 1 zeigt eine schematische und vereinfachte Darstel-
+lung einer Reaktoranordnung 10 für die Niedertempe- ratur-Epitaxie in einer Draufsicht. Die Reaktoranord-
+nung 10 enthält folgende Komponenten: eine Be-und Entladekammer 12 zur Ein-und Ausgabe von Kas-
+setten 14 mit Substraten 16, eine Transferkammer 18 mit integriertem Roboterhandler 20, sowie zwei Pro-
+zesssystemen 22 und 24, hierin auch als Reaktoren bezeichnet. Der Reaktor 22 dient zur Reinigung der Substrate in Wasserstoff-Atmosphäre. Der Reaktor 24 dient zur Beschichtung der Substrate. [0059] Bei den beiden Reaktoren (22, 24) handelt es sich einmal um einen Niederdruck-CVD-Reaktor (24) für die epitaxielle Abscheidung und zum anderen um einen System (22), welches bei atmosphärischen Be-
+dingungen oder leichtem Unterdruck die Realisierung einer Wasserstoffbehandlung (Prebake) bei erhöh-
+ten Temperaturen (bis ca. 1000°C) ermöglicht. Die-
+ser Reaktor verfügt über eine Zwangskühlung und ist somit für schnelle Temperaturwechsel (bis ca. 40 K/ min) geeignet. [0060] Der Aufbau der Reaktoren 22 und 24 ist aus der schematischen und vereinfachten Schnittdarstel-
+lung in Fig. 2 ersichtlich. Die Schnittdarstellung folgt den Linien A-A, A-B und B-B in Fig. 1, wobei die Strecke A-B nicht maßstabsgetreu zur Fig. 1 darge-
+stellt ist. Die Reaktoren 22 und 24 weisen jeweils eine Reaktorkammer 220, 240 und eine Schleusenkam-
+mer 222, 242 auf. Die Schleusenkammern werden auch als Loadlock-Systeme bezeichnet. Die Schleu-
+senkammern befinden sich jeweils unterhalb des zu-
+geordneten Reaktors. Alle erwähnten Kammern sind untereinander und nach außen durch dicht schließen-
+de Türen voneinander getrennt, die in den Fig. 1 und Fig. 2 durch gepunktete Linien symbolisiert sind. [0061] In den Schleusenkammern sind je ein Lift 224, 244 vorgesehen, mit Hilfe dessen Quarzboote 226, 246 mit einer Vielzahl von Substraten 16 zwi-
+schen der Reaktorkammer und der ihr zugeordneten Schleusenkammer hin-und hertransportiert werden können. Es können in jeder Kammer auch mehrere Lifte vorgesehen sein, die unabhängig voneinander betrieben werden können. Die Beladung der Quarz-
+boote 226 und 246 erfolgt jeweils in der Schleusen-
+kammer 222 bzw. 242. [0062] Die Be-und Entladekammer 12 und die Transportkammer 18 können mit Inertgas gespült werden. Dies ist in Fig. 1 der besseren Übersicht-
+lichkeit halber allein für die Transportkammer darge-
+stellt, und zwar anhand einer Zuleitung 26 und eines den Gasfluss über die Zuleitung 26 steuernden Ven-
+tils 28. Die Zuführung von Inertgas ist in Fig. 1 am oberen Ende des dargestellten Abschnitts der Zulei-
+tung durch einen gestrichelten Pfeil dargestellt. Auf die Darstellung der Quellgasbehälter und eine detail-
+lierte Erörterung des fachüblichen Zuleitungssystems wird hier verzichtet. Die Transportkammer und die DE 10 2004 024 207 B4 2016.03.24 8/18 Be-und Entladekammer sind weiterhin mit Hilfe von Pumpen 30 bzw. 32 evakuierbar. [0063] Auch die Loadlocksysteme 222 und 242 sind über entsprechende Vorrichtungen, die allein in Fig. 1 dargestellt sind, mit Inertgas zu spülen. Der Zufluss von Inertgas in die erste Schleusenkammer 222 un-
+terhalb der ersten Reaktorkammer 220 über eine Zu-
+leitung 34 wird mit Hilfe eines Ventils 36 gesteuert. Der Zufluss von Inertgas in die zweite Schleusenkam-
+mer 242 unterhalb der zweiten Reaktorkammer 240 über eine Zuleitung 38 wird mit Hilfe eines Ventils 40 gesteuert. [0064] Die Loadlocksysteme 222 und 242 enthalten zusätzlich Vorrichtungen zur Spülung mit Wasser-
+stoff. Die Wasserstoffzuführung ist durch Pfeile mit durchgezogenen Linien gekennzeichnet. Der Zufluss von Wasserstoff in die erste Schleusenkammer 222 über Zuleitungen 42 wird mit Hilfe eines Ventils 44 gesteuert. Der Zufluss von Wasserstoff in die zweite Schleusenkammer 222 über Zuleitungen 46 wird mit Hilfe eines Ventils 48 gesteuert. [0065] Weiterhin ist der gesteuerte Zufluss von Pro-
+zessgasen während der Abscheidung in die zweite Reaktorkammer 240 über geeignete Zuleitungen ex-
+emplarisch durch einen Pfeil mit einer Strich-Punkt-
+Linie sowie eine Zuleitung 50 und ein Ventil 52 sym-
+bolisiert. Je nach Anzahl der zu verwendenden Pro-
+zessgase während der Abscheidung sind selbstver-
+ständlich die erforderliche Anzahl von Ventilen und Zuleitungen vorzusehen. [0066] Es sei hinzugefügt, dass die im Rahmen die-
+ser Beschreibung gemachten und in den Figuren er-
+sichtlichen Angaben zur Anzahl und Anordnung der Ventile nicht den tatsächlichen Verhältnissen ent-
+sprechen müssen. Die vorliegende Beschreibung be-
+schränkt sich darauf festzustellen, dass Zuleitungen vorhanden sind und dass der Zufluss mit Hilfe jeweils eines oder mehrerer Ventile gesteuert werden kann. Die Ausbildung, Anordnung und Anzahl der Zuleitun-
+gen und Ventile wird nach den technischen Notwen-
+digkeiten mit Hilfe fachüblicher Maßnahmen festge-
+legt. [0067] Alle Kammern sind mit Hilfe von Pumpen 30, 32, 54 und 56 evakuierbar. [0068] Darüber hinaus ermöglicht je ein in die Reak-
+toren 22, 24 integriertes Kühlsystem, z. B. mittels ei-
+ner wassergekühlten Ummantelung, das Ausfahren der Substrate aus dem Reaktorkammern 220, 240 bei hohen Temperaturen und nachfolgend deren schnel-
+le Abkühlung in den zugeordneten Schleusenkam-
+mern 222, 242. Das Kühlsystem des ersten Reaktors 22 ist schematisch anhand eines Blocks 58 dargstellt. Dieser Reaktor verfügt über eine Zwangskühlung und ist somit für schnelle Temperaturwechsel (bis ca. 40 K/min) geeignet. Das Kühlsystem des zweiten Reak-
+tors 24 ist schematisch anhand eines Blocks 60 darg-
+stellt. [0069] Die erste und zweite Reaktorkammer sowie die erste und zweite Schleusenkammer sind jeweils individuell mit entsprechenden Heizvorrichtungen be-
+heizbar. In Fig. 1 sind, der schematischen Darstel-
+lung geschuldet, Heizsysteme 62 und 64 am ersten bzw. zweiten Reaktor 22, 24 jeweils nur als Gan-
+zem dargestellt. Jedoch ist ungeachtet dessen je-
+de der vier genannten Kammern mit einer eigenen Heizvorrichtung ausgerüstet. Dies ist in Fig. 2 darge-
+stellt. Das Heizsystem 62 am ersten Reaktor 22 weist eine Heizvorrichtung 620 für die erste Reaktorkam-
+mer 220 und eine Heizvorrichtung 622 für die erste Schleusenkammer 222 auf. Das Heizsystem 64 am zweiten Reaktor 24 weist eine Heizvorrichtung 640 für die zweite Reaktorkammer 240 und eine Heizvor-
+richtung 642 für die zweite Schleusenkammer 242 auf. [0070] In allen vier Kammern, den Schleusenkam-
+mern 222, 242 und den Reaktorkammern 220 und 240 sind Temperatursensoren vorgesehen, stellver-
+tretend gekennzeichnet in Fig. 1 durch Blöcke 66 und 68 am ersten bzw. zweiten Reaktor, sowie weiterhin dargestellt in Fig. 2 durch Blöcke 660 in der ersten Reaktorkammer, 662 in der ersten Schleusenkam-
+mer, 680 in der zweiten Reaktorkammer und 682 in der zweiten Schleusenkammer. Weiterhin sind in al-
+len Kammern der Reaktoranordnung Drucksensoren vorgesehen, die hier der Einfachheit der Darstellung halber nicht eingezeichnet sind. [0071] Eine Steuerschaltung 70 ist eingangsseitig mit den Temperatur-und Drucksensoren aller Kam-
+mern verbunden. Weiterhin ist sie ausgangsseitig mit den erwähnten Ventilen, Pumpen, Heiz-und Kühlvor-
+richtungen verbunden und steuert deren Betriebszu-
+stand. [0072] Die Betriebsweise der Steuerschaltung ergibt sich aus der nachfolgenden Beschreibung eines Aus-
+führungsbeispiels des erfindungsgemäßen Verfah-
+rens anhand des Flussdiagramms der Fig. 3. [0073] Soweit nachfolgend nicht ausdrücklich an-
+ders angegeben, befinden sich alle Kammern un-
+ter permanenter Inertgas-Spülung. Der Restgehalt an Feuchte und Sauerstoff wird über entsprechende Messgeräte überwacht und sollte ein Gefälle von Be-
+und Entladekammer 12 über die Transportkammer 18, die erste Schleusenkammer 222 zur ersten Reak-
+torkammer 220, bzw. die zweite Schleusenkammer 242 zur zweiten Reaktorkammer 240 hin zu niedrige-
+ren Werten aufweisen. DE 10 2004 024 207 B4 2016.03.24 9/18 [0074] Sofern aktive Transportvorgänge dies nicht verhindern, bleiben Türen grundsätzlich geschlos-
+sen. [0075] Das Verfahren wird in einem Schritt S10 ge-
+startet. Nach einer externen Vorreinigung der Sub-
+strate (z. B. Piranha/SC1/HF-dip/SC2/DI) in einem Schritt S12 werden diese in einem Schritt S14 in die Be-und Entladekammer 12 eingebracht und verblei-
+ben hier unter Inertgas-Spülung bis ein ausreichend niedriger Restgehalt an Feuchte und Sauerstoff er-
+reicht ist. [0076] Anschließend erfolgt in einem Schritt S16 mit-
+tels Roboter 20 der Transfer der Substrate in ein in der ersten Loadlock-Kammer 222 befindliche Pro-
+zessboot 226 des Prebake-Systems 22. Falls erfor-
+derlich, kann hier über eine wechselnde Abfolge von Abpumpen und Inertgas-oder Wasserstoffspülung eine rasche weitere Reduktion der Restgehaltes an Feuchte und Sauerstoff erreicht werden. [0077] Das anschließende Einfahren des Prozess-
+bootes 226 in die erste Reaktorkammer 220 ge-
+schieht in einem Schritt S18 ebenfalls unter Inertgas oder Wasserstoff, bei einer Reaktor-Temperatur von 500 bis 750°C. Die nachfolgende Prebake-Behand-
+lung erfolgt in einem Schritt S20 unter reduzieren-
+der Atmosphäre (Wasserstoff) bei Temperaturen 800°C. [0078] Nach dem Ausfahren des Bootes unter Was-
+serstoff und wieder bei 500 bis 750°C in einem Schritt S22 verbleiben die Substrate in der Schleusenkam-
+mer 222 und kühlen hier unter Wasserstoff in einem Schritt S24 auf ca. 200°C ab. [0079] Erst jetzt erfolgt in einem Schritt S26 unter Stickstoff der Transfer der Wafer in das Boot 246 in der Loadlock-Kammer 242 unterhalb der CVD-Reak-
+torkammer 240. Anschließend wird in einem Schritt S28 auf Wasserstoffatmosphäre umgeschaltet, die auch während des Einfahrens in einem Schritt S32 aufrechterhalten wird. Die Reaktorkammer 240 ist hierbei bereits auf den Bereich der Temperatur der späteren Abscheidung (ca. 550 bis 650°C) einge-
+stellt. [0080] Es folgt in einem Schritt S34 eine CVD-typi-
+sche Sequenz von Prozessschritten zur Einstellung der Prozessparameter für die epitaxiale Abscheidung unter Steuerung von Druck, Temperatur und des Flusses der Prozessgase in der Reaktorkammer 240 durch die Steuervorrichtung 70. [0081] Nach erfolgter Abscheidung wird der Reaktor 240 in einem Schritt S36 freigespült und der Druck dem der Loadlock-Kammer 242 angeglichen. [0082] An das Ausfahren des Bootes in einem Schritt S38 schließt in einem Schritt S40 sich der Rücktrans-
+fer in die Be-und Entladekammer 12 durch den Ro-
+boter 20 an. [0083] Nach der Entnahme der Kassetten in einem Schritt S42 wird der Prozess in einem Schritt S44 ab-
+geschlossen. [0084] Fig. 4 zeigt ein zweites Ausführungsbeispiel des erfindungsgemäßen Verfahrens in einer tabella-
+rischen Darstellung. Bei diesem Ausführungsbeispiel werden mindestens zwei Batche parallel verarbeitet. Auf diese Weise kann gegenüber sowohl einem Zwei-
+kammer-System, in dem stets nur ein Batch verarbei-
+tet wird, als auch gegenüber einem herkömmlichen Einkammer-System eine Verfahrensbeschleunigung und damit eine Erhöhung des Waferdurchsatzes er-
+reicht werden. [0085] In der tabellarischen Darstellung der Fig. 4 sind in der linken Spalte alle Schritte S50-S80 auf-
+geführt, die ein Batch durchläuft. Diese entsprechen im wesentlichen dem anhand von Fig. 3 schon be-
+schriebenen Verfahrensablauf. In der rechts benach-
+barten Spalte ("Ort") ist aufgeführt, wo der Verfah-
+rensschritt einer jeweiligen Zeile durchgeführt wird. In der nächsten Spalte ("Medium") ist die Gasatmo-
+sphäre benannt, die während des betreffenden Ver-
+fahrensschrittes eingestellt ist. In der rechten Spalte ist die Temperatur genannt, bei der der Verfahrens-
+schritt durchgeführt. Hierbei kennzeichnet die Abkür-
+zung RT die Raumtemperatur. Ein Pfeil (=>) zwi-
+schen zwei Temperaturwerten zeigt an, das die Tem-
+peratur während der Durchführung des Verfahrens-
+schrittes von dem links vom Pfeil stehenden Tempe-
+raturwert auf den rechts vom Pfeil stehenden Tempe-
+raturwert geändert wird. [0086] Nachfolgend wird das Verfahren dieses Aus-
+führungsbeispiels näher erläutert. In einem Schritt S50 sind die Substrate in der Transferkammer an-
+geordnet. Die Transferkammer wird gespült. An-
+schließend findet in einem Schritt S52 ein Trans-
+fer eines ersten Batches in die erste Schleusen-
+kammer 222 unterhalb der Prebake-Reaktorkammer 220 statt. Nach Abschluss des Transfers wird die Schleusenkammer 222 in einem Schritt S54 mit Stick-
+stoff gespült und abgepumpt, um eine möglichst rei-
+ne Atmosphäre zu erhalten. Die Schritte S50-S54 werden bei Raumtemperatur durchgeführt. Anschlie-
+ßend wird das Prozessboot in einem Schritt S56 in die Prebake-Reaktorkammer 220 eingefahren. Die-
+ser Schritt findet unter Stickstoffatmosphäre statt. Die Reaktorkammer 220 wird auf eine Temperatur von 650°C erhitzt. In einem anschließenden Schritt S58 wird die Gasatmosphäre der Prebake-Reaktorkam-
+mer durch Wasserstoff ersetzt und die Temperatur auf 900°C erhöht. In einem Schritt S60 findet an-
+schließend bei 900°C unter Wasserstoffatmosphä- DE 10 2004 024 207 B4 2016.03.24 10/18 re das Prebake statt. Danach wird in einem Schritt S62 auf 650°C heruntergekühlt und das Boot in ei-
+nem Schritt S64 in die Schleusenkammer 222 aus-
+gefahren und hier auf eine Temperatur unterhalb von 200°C abgekühlt. Anschließend wird die Schleusen-
+kammer 222 in einem Schritt S66 mit Stickstoff ge-
+spült und auf Raumtemperatur abgekühlt. [0087] Der vorstehend beschriebene Prozessablauf eines Prebakes wird nachfolgend für ein weiteres Batch wiederholt, während zeitgleich das erste Batch wie nachfolgend beschrieben weiter prozessiert wird. [0088] Das erste Batch wird bei Raumtemperatur in Stickstoffatmosphäre aus der Schleusenkammer 222 des Prebake-Reaktors in einem Schritt S68 in die Schleusenkammer 242 des Epitaxie-Reaktors trans-
+portiert. Anschließend wird in einem Schritt S70 die Schleusenkammer 242 mit Stickstoff gespült und ab-
+gepumpt. In einem nachfolgenden Schritt S72 wird die Schleusenkammer 242 bei Raumtemperatur mit Wasserstoff gespült. In einem nachfolgenden Schritt S74 wird die Temperatur der Schleusenkammer 242 von Raumtemperatur auf 600°C erhöht und das Pro-
+zessboot mit dem ersten Batch in die Reaktorkammer 240 eingefahren. Anschließend findet bei einer Tem-
+peratur von etwa 600°C in der Reaktorkammer 240 der Epitaxie-Prozess statt, wobei Prozessgase in die Reaktorkammer 240 eingeleitet werden. Nach Ab-
+schluss des Epitaxie-Prozesses wird in einem Schritt S78 das Boot in Stickstoffatmosphäre in die Schleu-
+senkammer 242 zurückgefahren und die Temperatur in der Schleusenkammer wird von 600°C auf Raum-
+temperatur zurückgefahren. Abschließend wird das erste Batch in einem Schritt S80 zurück in die Trans-
+ferkammer transportiert. [0089] Da der Epitaxie-Prozess im Schritt S76 die längste Zeitspanne in Anspruch nimmt (beispielswei-
+se 2 Stunden), können während des Epitaxie-Pro-
+zesses mehrere Batches nacheinander den Preba-
+ke-Prozess der Schritte S50-S66 durchlaufen. Fertig behandelte Batches, die auf die Epitaxie warten, kön-
+nen in der Transferkammer gelagert werden. [0090] Mit dem vorstehend beschriebenen Verfah-
+ren wurde gegenüber einem Einkammer-System ei-
+ne Erhöhung des Waferdurchsatzes von 29,3 Wafer pro Stunde auf 35,3 Wafer pro Stunde erzielt, wobei jedes Batch 100 Produktwafer enthält. Patentansprüche 1. Verfahren zur Abscheidung von Schichten auf einer Vielzahl von Halbleitersubstraten gleichzeitig, mit den Schritten -Reinigung mindestens je einer Oberfläche der Halb-
+leitersubstrate in einem ersten Reaktor bei einer ers-
+ten Substrattemperatur T red , -Transport der Halbleitersubstrate vom ersten in ei-
+nen zweiten Reaktor, -nachfolgende Abscheidung mindestens je einer Schicht auf den Halbleitersubstraten im zweiten Re-
+aktor bei einer zweiten Substrattemperatur T dep wobei die Halbleitersubstrate während der Reinigung und während des Transports vom ersten in den zwei-
+ten Reaktor unterbrechungsfrei in einer reduzieren-
+den Gasatmosphäre bewegt oder gelagert werden, solange die Substrattemperatur über einer vom Sub-
+stratmaterial und dem Material der mindestens ei-
+nen abzuscheidenden Schicht abhängigen kritischen Temperatur T c liegt, oberhalb derer bei einer Lage-
+rung oder einem Transport in einer nicht reduzie-
+renden Gasatmosphäre durch unerwünschte Reak-
+tionen oder Verunreinigungen die nachfolgende Ab-
+scheidung der Schichten beeinträchtigt würde, und bei dem der Transport der Halbleitersubstrate durch eine Transportkammer mit nicht reduzierender Gas-
+atmosphäre bei einer Substrattemperatur unterhalb der kritischen Temperatur führt. 2. Verfahren nach Anspruch 1, bei dem die Halb-
+leitersubstrate während des Transports vom ersten in den zweiten Reaktor aus der reduzierenden Gasat-
+mosphäre heraus transportiert werden, nachdem die Substrattemperatur unterhalb die kritische Tempera-
+tur T c gesunken ist. 3. Verfahren nach Anspruch 1 oder 2, bei dem der Transport der Halbleitersubstrate vom ersten in den zweiten Reaktor die folgenden Schritte umfasst: -Transport der Halbleitersubstrate aus dem ersten Reaktor in eine erste, Schleusenkammer mit einstell-
+barer Temperatur und Gasatmosphäre bei einer Sub-
+strattemperatur oberhalb der kritischen Temperatur T c -Abkühlen der Halbleitersubstrate in der ersten Schleusenkammer auf eine Substrattemperatur un-
+terhalb der kritischen Temperatur T c -Transport der Halbleitersubstrate von der ersten Schleusenkammer in den zweiten Reaktor. 4. Verfahren nach einem der vorstehenden An-
+sprüche, bei dem die erste Schleusenkammer dem ersten Reaktor zugeordnet ist und der Transport der Halbleitersubstrate von der ersten Schleusenkammer in den zweiten Reaktor die folgenden Schritte um-
+fasst: -Transport der Halbleitersubstrate aus der ersten Schleusenkammer in eine zweite, dem zweiten Re-
+aktor zugeordnete Schleusenkammer bei einer Sub-
+strattemperatur unterhalb der kritischen Temperatur T c in einer reduzierenden oder in einer nicht reduzie-
+renden Gasatmosphäre -Erforderlichenfalls Umstellen der Gasatmosphäre in der zweiten Schleusenkammer auf eine reduzie-
+rende Gasatmosphäre DE 10 2004 024 207 B4 2016.03.24 11/18 -Erwärmen der Halbleitersubstrate auf eine Sub-
+strattemperatur oberhalb der kritischen Temperatur T c -Transport der Halbleitersubstrate in den zweiten Reaktor in der reduzierenden Gasatmosphäre. 5. Verfahren nach einem der vorstehenden An-
+sprüche, bei dem die Gasatmosphäre im zweiten Re-
+aktor beim Einbringen der Halbleitersubstrate eine zum Erwärmen der Halbleitersubstrate auf die zwei-
+te Substrattemperatur T dep erforderliche Temperatur hat. 6. Verfahren nach Anspruch 5, bei dem der erste und der zweite Reaktor aneinander angrenzend an-
+geordnet sind und voneinander durch gas-und Vaku-
+umdichte Verschlüsse getrennt werden können, und bei dem nach dem Reinigungsschritt im ersten Reak-
+tor und vor dem Schichtabscheideschritt im zweiten Reaktor die folgenden Schritte durchgeführt werden: -Abkühlen der Halbleitersubstrate im ersten Reaktor auf eine Substrattemperatur, die gleich der Abschei-
+detemperatur T dep im zweiten Reaktor ist, -Umstellen der Gasatmosphäre im zweiten Reaktor auf eine reduzierende Gasatmosphäre, -Transport der Halbleitersubstrate in den zweiten Reaktor, -Erforderlichenfalls Umstellen der Gasatmosphäre im zweiten Reaktor auf die für die Schichtabschei-
+dung benötigte Gasatmosphäre. 7. Verfahren nach einem der vorstehenden An-
+sprüche, bei dem als reduzierende Gasatmosphäre eine reduzierende Gasatmosphäre verwendet wird, in der Verunreinigungen nur in einer Konzentration von insgesamt weniger als 10 ppb vorhanden sind. 8. Verfahren nach einem der vorstehenden An-
+sprüche, bei dem die reduzierende Gasatmosphäre aus Wasserstoff besteht, wobei der Restgehalt an oxidierenden Bestandteilen wie beispielsweise Sau-
+erstoff oder Feuchtigkeit nicht höher als 1 ppb ist. 9. Verfahren nach einem der vorstehenden An-
+sprüche, bei dem folgende Beziehung zwischen den ersten und zweiten Substrattemperaturen T red und T dep und der kritischen Temperatur T c gilt: 200°C < T c < T dep < T red < 1000°C 10. Verfahren nach einem der vorstehenden An-
+sprüche, bei dem die Vielzahl von Halbleitersubstra-
+ten auf geeigneten Trägern zwischen beiden Reak-
+toren in der reduzierenden Gasatmosphäre transpor-
+tiert werden. 11. Verfahren nach einem der vorstehenden An-
+sprüche, das mit mindestens 25 Halbleitersubstraten gleichzeitig durchgeführt wird. 12. Verfahren nach einem der vorstehenden An-
+sprüche, das mit Siliziumsubstraten durchgeführt wird. 13. Verfahren nach einem der vorstehenden An-
+sprüche, bei dem der Abscheideschritt das Abschei-
+den mindestens einer epitaktischen Schicht umfasst. 14. Verfahren nach einem der vorstehenden An-
+sprüche, bei dem der Abscheideschritt das Abschei-
+den mindestens einer dielektrischen Schicht umfasst. 15. Verfahren nach Anspruch 4, bei dem, wäh-
+rend eine erste Vielzahl von Halbleitersubstraten dem Abscheideschritt unterzogen wird, gleichzeitig min-
+destens eine zweite Vielzahl von Halbleitersubstraten dem Reinigungsschritt unterzogen wird. 16. Verfahren nach Anspruch 15, bei dem die zwei-
+te Vielzahl von Halbleitersubstraten in der Transport-
+kammer gelagert wird, bis der mit der ersten Viel-
+zahl von Halbleitersubstraten durchgeführte Abschei-
+deschritt beendet ist. 17. Verfahren nach Anspruch 1, bei dem die erste Substrattemperatur T red durch kurzzeitiges Bestrah-
+len je eines Halbleitersubstrates mit einer Lichtquelle eingestellt wird. 18. Verfahren nach Anspruch 17, bei dem je ein Halbleitersubstrat entweder mit einem Lichtblitz oder mit mehreren Lichtblitzen bestrahlt wird, wobei Anzahl, Frequenzspektrum, Intensität und Zeitdauer des Lichtblitzes bzw. der Lichtblitze so gewählt sind, dass das Halbleitersubstrat für eine vorbestimmte Zeitspanne auf die erste Substrattemperatur T red er-
+hitzt wird. 19. Reaktoranordnung für die Schichtabscheidung auf einer Vielzahl von Halbleitersubstraten, mit -einer ersten Reaktorkammer, die zur Durchführung einer Reinigung der Vielzahl von Halbleitersubstraten ausgebildet ist, -mindestens einer zweiten Reaktorkammer, die zur Abscheidung mindestens je einer Schicht auf der Vielzahl von Halbleitersubstraten ausgebildet ist, -einer Transportkammer, in der eine Transportvor-
+richtung vorgesehen ist, die ausgebildet ist, die Viel-
+zahl von Halbleitersubstraten von der ersten in die zweite Schleusenkammer zu transportieren, -einer ersten Heizvorrichtung zum Einstellen der Substrattemperatur der Halbleitersubstrate in der ersten Reaktorkammer, -einer zweiten Heizvorrichtung zum Einstellen der Substrattemperatur der Halbleitersubstrate in der zweiten Reaktorkammer, -eine Vorrichtung zum Herstellen einer Gasatmo-
+sphäre vorgegebener Zusammensetzung und vorge-
+gebenen Drucks wahlweise in der ersten Reaktor-
+kammer oder in der zweiten Reaktorkammer oder in DE 10 2004 024 207 B4 2016.03.24 12/18 beiden Reaktorkammern, und in der Transportkam-
+mer, und mit -einer Steuervorrichtung, die mit den Heizvorrichtun-
+gen und der Vorrichtung zum Herstellen der Gasat-
+mosphäre verbunden und ausgebildet ist, die Heiz-
+vorrichtungen und die Vorrichtung zum Herstellen der Gasatmosphäre so zu steuern, dass -die Halbleitersubstrate während der Reinigung und während eines danach erfolgenden Transports der gereinigten Halbleitersubstrate vom ersten in den zweiten Reaktor unterbrechungsfrei in einer reduzie-
+renden Gasatmosphäre bewegt oder gelagert wer-
+den, solange die Substrattemperatur über einer vom Substratmaterial und dem Material der mindestens einen abzuscheidenden Schicht abhängigen kriti-
+schen Temperatur T c liegt, oberhalb derer bei ei-
+ner Lagerung oder einem Transport in einer nicht reduzierenden Gasatmosphäre durch unerwünschte Reaktionen oder Verunreinigungen die nachfolgen-
+de Abscheidung der Schichten beeinträchtigt würde, und dass -die Halbleitersubstrate nach der Reinigung wäh-
+rend eines Transports vom ersten in den zweiten Reaktor durch die Transportkammer erst dann in einer nicht reduzierenden Gasatmosphäre bewegt oder gelagert werden, wenn die Substrattemperatur unter der kritischen Temperatur T c liegt. 20. Reaktoranordnung nach Anspruch 19, bei der -die erste Reaktorkammer und die zweite Reaktor-
+kammer je mindestens eine Öffnung für den Durch-
+transport der Vielzahl von Halbleitersubstraten auf-
+weisen, die mit Hilfe mindestens eines gas-und vaku-
+umdichten Verschlusses schließbar ausgebildet sind, und bei der -die Reaktorkammern zumindest in einem Bereich, der die mindestens eine Öffnung enthält, aneinander angrenzen. 21. Reaktoranordnung nach Anspruch 19, bei der eine erste Schleusenkammer mit der ersten Reak-
+torkammer über eine gemeinsame, mit einem dicht schließenden Verschluss schließbaren Öffnung ver-
+bunden ist. 22. Reaktoranordnung nach Anspruch 19 oder 21, bei der eine zweite Schleusenkammer mit der zweiten Reaktorkammer über eine gemeinsame, mit einem dicht schließenden Verschluss schließbaren Öffnung verbunden ist. 23. Reaktoranordnung nach einem der Ansprüche 19, 21 oder 22, bei der die Transportkammer zwi-
+schen der ersten Schleusenkammer und der zwei-
+ten Schleusenkammer vorgesehen ist, die mit die-
+sen durch je eine mit einem dicht schließenden Ver-
+schluss schließbare Öffnung verbunden ist. 24. Reaktoranordnung nach einem der Ansprüche 19 bis 23, bei der die erste Heizvorrichtung ausge- bildet ist, die Gasatmosphäre in der ersten Reaktor-
+kammer auf maximal etwa 1000°C zu erhitzen. 25. Reaktoranordnung nach einem der Ansprü-
+che 19 bis 24, bei der die erste Heizvorrichtung ei-
+ne Bestrahlungsvorrichtung umfasst, die ausgebildet ist, Strahlungsimpulse einer vorbestimmten Anzahl, eines vorbestimmten Frequenzspektrums, einer vor-
+bestimmten Intensität und einer vorbestimmten Dau-
+er abzugeben, derart, dass ein mit dem Strahlungs-
+impuls oder den Strahlungsimpulsen unter vorbe-
+stimmtem Abstand von der Bestrahlungsvorrichtung bestrahltes Halbleitersubstrat für eine vorbestimmte Zeitspanne auf die erste Substrattemperatur T red er-
+hitzt wird. 26. Reaktoranordnung nach einem der Ansprüche 19 bis 25, mit einer der ersten Reaktorkammer zuge-
+ordneten ersten Drucksteuervorrichtung, die ausge-
+bildet ist, den Druck der Gasatmosphäre in der ers-
+ten Reaktorkammer auf atmosphärischen Druck oder leichten Unterdruck einzustellen und zu halten. 27. Reaktoranordnung nach einem der Ansprüche 20 bis 26, bei der die erste Reaktorkammer eine Kühl-
+vorrichtung aufweist, die ausgebildet ist, eine Tempe-
+ratursenkung der Gasatmosphäre in der ersten Reak-
+torkammer um maximal 40 Kelvin pro Minute zu be-
+wirken. 28. Reaktoranordnung nach Anspruch 21, bei der -die Vorrichtung zum Herstellen der Gasatmosphäre zusätzlich mit der ersten Schleusenkammer verbun-
+den und ausgebildet ist, in der ersten Schleusenkam-
+mer eine Gasatmosphäre vorgegebener Zusammen-
+setzung und vorgegebenen Drucks herzustellen, und bei der -die erste Heizvorrichtung, die Vorrichtung zum Her-
+stellen der Gasatmosphäre und die Steuervorrich-
+tung zusätzlich ausgebildet sind, eine reduzierende Gasatmosphäre in der ersten Schleusenkammer auf eine Temperatur oberhalb der kritischen Temperatur T c einzustellen und zu halten. 29. Reaktoranordnung nach Anspruch 19, bei der -die Vorrichtung zum Herstellen der Gasatmosphäre zusätzlich mit der zweiten Schleusenkammer verbun-
+den und ausgebildet ist, in der zweiten Schleusen-
+kammer eine Gasatmosphäre vorgegebener Zusam-
+mensetzung und vorgegebenen Drucks herzustellen, und bei der -die zweite Heizvorrichtung, die Vorrichtung zum Herstellen der Gasatmosphäre und die Steuervor-
+richtung zusätzlich ausgebildet sind, eine reduzieren-
+de Gasatmosphäre in der ersten Schleusenkammer auf eine Temperatur oberhalb der kritischen Tempe-
+ratur T c einzustellen und zu halten. DE 10 2004 024 207 B4 2016.03.24 13/18 30. Reaktoranordnung nach einem der Ansprüche 19 bis 29, bei der beide Reaktorkammern aufrecht stehende Zylinderkörper bilden. 31. Reaktoranordnung nach einem der Ansprüche 19 bis 30, bei der die zweite Reaktorkammer vom Typ eines Heißwandreaktors ist, wobei die zweite Heiz-
+vorrichtung außerhalb der Reaktorkammer angeord-
+net ist. 32. Reaktoranordnung nach einem der Ansprüche 19 bis 31, mit zwei oder mehr zweiten Reaktorkam-
+mern. Es folgen 5 Seiten Zeichnungen DE 10 2004 024 207 B4 2016.03.24 14/18 Anhängende Zeichnungen DE 10 2004 024 207 B4 2016.03.24 15/18 DE 10 2004 024 207 B4 2016.03.24 16/18 DE 10 2004 024 207 B4 2016.03.24 17/18 DE 10 2004 024 207 B4 2016.03.24 18/18
+
+1/28 (19) Bundesrepublik Deutschland Deutsches Patent-und Markenamt *DE102006030007B420100218* (10) DE 10 2006 030 007 B4 2010.02.18 (12) Patentschrift (21) Aktenzeichen: 10 2006 030 007.6 (22) Anmeldetag: 29.06.2006 (43) Offenlegungstag: 19.04.2007 (45) Veröffentlichungstag der Patenterteilung: 18.02.2010 (51) Int Cl. 8 : D06F 39/02 (2006.01) Innerhalb von drei Monaten nach Veröffentlichung der Patenterteilung kann nach 59 Patentgesetz gegen das Patent Ein-
+spruch erhoben werden. Der Einspruch ist schriftlich zu erklären und zu begründen. Innerhalb der Einspruchsfrist ist eine Einspruchsgebühr in Höhe von 200 Euro zu entrichten(6 Patentkostengesetz in Verbindung mit der Anlage zu 2 Abs. 1 Patentkostengesetz). (54) Bezeichnung: Waschmittelzuführungsvorrichtung für Waschmaschine (57) Hauptanspruch: Waschmittelzuführungsvorrichtung für eine Waschmaschine, die ein Schubfach (120) mit mehreren Zuführungsteilen aufweist, wobei die Zufüh-
+rungsteile ein Ansaugrohr aufweisen, dadurch gekenn-
+zeichnet, daß das Schubfach (120) ein Bleichmittelzufüh-
+rungsteil (172, 202), der mit einem Bleichmittelansaugrohr (173, 203) versehen ist, und ein Weichspülerzuführungs-
+teil (174, 204) aufweist, der mit einem Weichspüleransaug-
+rohr (175, 205) versehen ist, und daß die Waschmittelzu-
+führungsvorrichtung einen Schubfachdeckel (140, 210) aufweist, der mit einer Bleichmittelansaugrohrkappe (148, 218), die das Bleichmittelansaugrohr (173, 203) bedeckt, zusammen mit einer Weichspüleransaugrohrkappe (149, 219), die das Weichspüleransaugrohr (175, 205) bedeckt, versehen ist. (30) Unionspriorität: 2005/96142 12.10.2005 KR (73) Patentinhaber: LG Electronics Inc., Seoul, KR (74) Vertreter: Vossius & Partner, 81675 München (72) Erfinder: Song, Hyung Ju, Daegu, o, KR (56) Für die Beurteilung der Patentfähigkeit in Betracht gezogene Druckschriften: DE 602 13 061 T2 DE 80 13 971 U1 DE 10 2006 030 007 B4 2010.02.18 2/28 Beschreibung [0001] Die vorliegende Erfindung betrifft eine Waschmittelzuführungsvorrichtung einer Waschma-
+schine, die mit einem Schubfach zum Aufnehmen und Zuführen von Waschmittel versehen ist, und be-
+trifft insbesondere eine Waschmittelzuführungsvor-
+richtung einer Waschmaschine, bei der ein Schub-
+fachdeckel integral mit einer Bleichmittelansaugrohr-
+kappe und einer Weichspüleransaugrohrkappe aus-
+gebildet ist. [0002] Im allgemeinen bezieht sich eine Waschma-
+schine auf eine Vorrichtung zum Reinigen von Wä-
+sche durch Waschen, Spülen, Entwässern und Trocknen, um Kleidung und Bettwäsche (auf die hier im weiteren als "Wäsche" Bezug genommen wird) von Schmutz zu befreien. [0003] Die Waschmaschine wird abhängig von ei-
+nem Verwendungszweck als eine Haushaltswasch-
+maschine oder eine gewerbliche Waschmaschine eingestuft. Die Haushaltswaschmaschine wird in je-
+dem Haushalt installiert und wird zum Waschen der Wäsche verwendet, die von einem Familienmitglied verursacht wird. Die gewerbliche Waschmaschine wird getrennt in einem Laden oder Studentenwohn-
+heim installiert und wird verwendet, um ihre Nutzung gegen eine vorbestimmte Nutzungsgebühr an einen Benutzer, der die Wäsche waschen möchte, zu ver-
+mieten. [0004] Die gewerbliche Waschmaschine ist anders als ein Aufbau der allgemeinen Haushaltswaschma-
+schine getrennt mit einer Gebührenverarbeitungsein-
+heit ausgestattet und benötigt einen getrennten Steu-
+eralgorithmus für die Gebührenverarbeitungseinheit. [0005] Die Waschmaschine ist mit einer Waschmit-
+telzuführungsvorrichtung zum Aufnehmen von Waschmittel, Bleichmittel und Weichspüler und dann selektiven Zuführen des Waschmittels, des Bleich-
+mittels und des Weichspülers zu einem benötigten Zeitpunkt ausgestattet. [0006] Die Waschmittelzuführungsvorrichtung um-
+faßt ein Schubfach zum Aufnehmen und Zuführen des Waschmittels, des Bleichmittels und des Weich-
+spülers. [0007] Das Schubfach ist in einem Wasserzufüh-
+rungsstrom der Waschmaschine zum Vermischen und Zuführen des durch den Wasserzuführungs-
+strom der Waschmaschine laufenden Wassers ange-
+ordnet und ist derart aufgebaut, daß es nach außen gezogen oder abgelöst wird, um das Waschmittel, das Bleichmittel und den Weichspüler hineinzuge-
+ben. [0008] Fig. 1 ist eine perspektivische Ansicht, die ein Beispiel für ein in einer herkömmlichen Wasch-
+maschine verwendetes Schubfach darstellt. Ein Waschmittelzuführungsteil 402 zum Aufnehmen und Zuführen von Waschmittel ist längs in der vorderen und hinteren Richtung auf einer rechten Seite des Schubfachs 400 vorgesehen. Ein Bleichmittelzufüh-
+rungsteil 404 zum Aufnehmen und Zufuhren von Bleichmittel ist längs in der vorderen und hinteren Richtung in der Mitte des Schubfachs 400 vorgese-
+hen. Ein Weichspülerzuführungsteil 406 zum Aufneh-
+men von Weichspüler ist längs in der vorderen und hinteren Richtung auf einer linken Seite des Schub-
+fachs 400 vorgesehen. [0009] In den Bleichmittelzuführungsteil 404 steht ein Bleichmittelansaugrohr 408 vor, und das Bleich-
+mittelansaugrohr 408 ist mit einer Bleichmittelan-
+saugrohrkappe 408' bedeckt. [0010] In den Weichspülerzuführungsteil 406 steht ein Weichspüleransaugrohr 409 vor, und das Weich-
+spüleransaugrohr 409 ist mit einer Weichspüleran-
+saugrohrkappe 409' bedeckt. [0011] In der herkömmlichen Waschmittelzufüh-
+rungsvorrichtung der Waschmaschine ist das Schub-
+fach 400 jedoch mit dem Waschmittelzuführungsteil 402, dem Bleichmittelzuführungsteil 404 und dem Weichspülerzuführungsteil 406 versehen, die in der Links-und Rechtsrichtung nacheinander angeordnet sind, und jeder von ihnen ist nach vorn und hinten längs ausgebildet und folglich hat das Schubfach 400 eine große Gesamtgröße und seine Herstellungskos-
+ten sind erhöht und es ist sogar schwierig, einen Raum zu beschaffen, um das Schubfach 400 in die gewerbliche Waschmaschine einzubauen. [0012] Wenn das Schubfach 400 im Gegensatz dazu klein ausgebildet wird, besteht ein Nachteil da-
+rin, daß der Waschmittelzuführungsteil 402, der Bleichmittelzuführungsteil 404 und der Weichspüler-
+zuführungsteil 404 zu klein vorgesehen werden, was ein unzureichendes Aufnahmevermögen für Wasch-
+mittel bewirkt und bewirkt, daß für die Größe jeder der Einfüllöffnungen des Waschmittelzuführungsteils 402, des Bleichmittelzuführungsteils 404 und des Weichspülerzuführungsteils 406 keine ausreichende Größe sichergestellt ist. [0013] Fig. 2 ist eine perspektivische Ansicht, die ein anderes Beispiel für ein in der herkömmlichen Waschmaschine verwendetes Schubfach darstellt. Ein Waschmittelzuführungsteil 412 zum Aufnehmen von Waschmittel ist längs in der vorderen und hinte-
+ren Richtung auf einer rechten Seite des Schubfachs 410 vorgesehen. Ein Bleichmittel-/Weichspülerzufüh-
+rungsteil 414 zum getrennten Aufnehmen von Bleich-
+mittel und Weichspüler ist längs in der vorderen und hinteren Richtung auf einer linken Seite des Schub-
+fachs 410 vorgesehen. DE 10 2006 030 007 B4 2010.02.18 3/28 [0014] Der Bleichmittel-/Weichspülerzuführungsteil 414 ist auf einem inneren und vorderen Teil mit einem kastenförmigen Bleichmittelzuführungsteil 416 verse-
+hen und ist an einem inneren und hinteren Teil mit ei-
+nem kastenförmigen Weichspülerzuführungsteil 418 versehen. [0015] In den Bleichmittelzuführungsteil 416 steht ein Bleichmittelansaugrohr 428 vor, und das Bleich-
+mittelansaugrohr 428 ist mit einer Bleichmittelan-
+saugrohrkappe 428' bedeckt. [0016] In den Weichspülerzuführungsteil 418 steht ein Weichspüleransaugrohr 429 vor, und das Weich-
+spüleransaugrohr 409 ist mit einer Weichspüleran-
+saugrohrkappe 429' bedeckt. [0017] In der herkömmlichen Waschmittelzufüh-
+rungsvorrichtung der Waschmaschine sind der Bleichmittelzuführungsteil 416 und der Weichspüler-
+zuführungsteil 418 jedoch derart in dem Bleichmit-
+tel-/Weichspülerzuführungsteil 414 des Schubfachs 410 angeordnet, daß sie nach vorn und hinten ge-
+geneinander beabstandet sind, und wenn Weichspü-
+ler hineingegeben wird, sollte das Schubfach 410 folglich gezogen werden, bis der Bleichmittelzufüh-
+rungsteil 416 und der Weichspülerzuführungsteil 418 ganz offen sind. Folglich besteht ein Nachteil darin, daß die Schublänge des Schubfachs 410 erheblich vergrößert wird und folglich sogar die Länge des Schubfachs 410 nach vorn und hinten größer wird. [0018] Die Bleichmittelansaugrohrkappen 408' und 428' und die Weichspüleansaugrohrkappen 409' und 429' sind derart strukturiert, daß sie leicht von den Bleichmittelansaugrohren 408 und 428 und den Weichspüleransaugrohren 409 und 429 gelöst wer-
+den. Folglich besteht ein Nachteil darin, daß die Bleichmittelansaugrohrkappen 408' und 428' und die Weichspüleransaugrohrkappen 409' und 429' eine große Verlustwahrscheinlichkeit haben, und insbe-
+sondere die gewerbliche Waschmaschine hat Schwierigkeiten mit ihrer Handhabung und Wartung. [0019] Die Bleichmittelansaugrohrkappen 408' und 428' und die Weichspüleansaugrohrkappen 409' und 429' bestehen aus getrennten Teilen. Folglich be-
+steht ein Nachteil darin, daß die Anzahl von Teilen zu-
+nimmt und die Teile eine große Verlustwahrschein-
+lichkeit haben, und insbesondere die gewerbliche Waschmaschine hat Schwierigkeiten mit ihrer Hand-
+habung und Wartung. [0020] Eine Waschmittelzuführungsvorrichtung ge-
+mäß dem Oberbegriff von Patentanspruch 1 ist in der DE 602 13 061 T2 und der DE 80 13 971 U1 gezeigt. [0021] Die vorliegende Erfindung soll eine Wasch-
+mittelzuführungsvorrichtung für eine Waschmaschi-
+ne zur Verfügung zu stellen, um die Anzahl von Teilen zu minimieren. [0022] Auch soll die vorliegende Erfindung eine Waschmittelzuführungsvorrichtung für eine Wasch-
+maschine zur Verfügung stellen, um eine Ansaug-
+rohrkappenstruktur zu optimieren, wodurch eine Grö-
+ße und Schublänge eines Schubfachs minimiert wer-
+den, und um exakt, einfach und bequem Waschmittel in einen Waschmittelzuführungsteil hineinzugeben. [0023] Ferner soll die vorliegende Erfindung eine Waschmittelzuführungsvorrichtung für eine Wasch-
+maschine zur Verfügung stellen, um das willkürliche Lösen einer Ansaugrohrkappe zu verhindern, um da-
+durch eine Verlustgefahr für die Ansaugrohrkappe zu verringern und eine fehlerhafte Montage der Ansaug-
+rohrkappe zu verhindern, um dadurch eine Wasch-
+mittelzuführungsleistung für die Waschmaschine dauerhaft sicherzustellen. [0024] Um diese und andere Vorteile gemäß dem Zweck der vorliegenden Erfindung, wie er hier ausge-
+führt und ausführlich beschrieben ist, zu erreichen, wird eine Waschmittelzuführungsvorrichtung für eine Waschmaschine zur Verfügung gestellt. Die Vorrich-
+tung umfaßt ein Schubfach mit Bleichmittelzufüh-
+rungsteilen, die mit Bleichmittelansaugrohren verse-
+hen sind, und Weichspülerzuführungsteilen, die mit Weichspüleransaugrohren versehen sind, und Schubfachdeckeln, die mit Bleichmittelansaugrohr-
+kappen, welche die Bleichmittelansaugrohre bede-
+cken, zusammen mit Weichspüleransaugrohrkap-
+pen, welche die Weichspüleransaugrohrkappen be-
+decken, versehen sind. [0025] Das Schubfach ist mit einem Trennteil aus-
+gebildet und ist in einen Bleichmittelzuführungsteil und einen Weichspülerzuführungsteil untergliedert. [0026] Der Trennteil ist an einem Abschnitt vorgese-
+hen, der zur Zeit, wenn das Schubfach gezogen wird, geöffnet ist. [0027] In dem Trennteil steht ein Teil nach vorne vor. [0028] In dem Trennteil ist zwischen einem Vor-
+sprungteil und einem Nichtvorsprungteil ein Verbin-
+dungsteil vorgesehen, und das Bleichmittelansaug-
+rohr und das Weichspüleransaugrohr sind ungefähr in der Nähe des Verbindungsteils links und rechts be-
+abstandet, wobei der Verbindungsteil dazwischen eingefügt ist. [0029] Die Ansaugrohrkappe umfaßt einen oberen Oberflächenteil, der auf einer Oberseite des Trenn-
+teils angeordnet ist; einen vorderen Oberflächenteil, der auf einer Vorderseite des oberen Oberflächen-
+teils nach unten ausgebildet ist und vor dem Trennteil angeordnet ist; und einen hinteren Oberflächenteil, der an einem Hinterteil des oberen Oberflächenteils DE 10 2006 030 007 B4 2010.02.18 4/28 nach unten ausgebildet ist und im Hinterteil des Trennteils angeordnet ist. [0030] Der Bleichmittelzuführungsteil und der Weichspülerzuführungsteil sind beabstandet. [0031] In dem Bleichmittelzuführungsteil und dem Weichspülerzuführungsteil stehen jeweils Teile von gegenüberliegenden Wandteilen nach vorne vor. [0032] In dem Bleichmittelzuführungsteil und dem Weichspülerzuführungsteil sind jeweils zwischen Vorsprungteilen und Nichtvorsprungteilen der gegen-
+überliegenden Wände Verbindungsteile vorgesehen, und das Bleichmittelansaugrohr und das Weichspü-
+leransaugrohr jeweils auf Seiten der Verbindungstei-
+le vorgesehen. [0033] In dem Bleichmittelzuführungsteil und dem Weichspülerzuführungsteil ist einer der beiden ge-
+genüberliegenden Wandteile auf einer Seite des Ver-
+bindungsteils des anderen angeordnet. [0034] Der Schubfachdeckel umfaßt einen oberen Oberflächenteil, der an Oberseiten der gegenüberlie-
+genden Wandteile des Weichspülerzuführungsteils und des Bleichmittelzuführungsteils angeordnet ist; einen vorderen Oberflächenteil, der an einem Vorder-
+teil des oberen Oberflächenteils nach unten ausgebil-
+det ist; und einen hinteren Oberflächenteil der an ei-
+nem hinteren Teil des oberen Oberflächenteils nach unten ausgebildet ist. [0035] Der Schubfachdeckel ist mit einem vorste-
+henden Verriegelungsvorsprung versehen, der in eine Lücke zwischen dem Bleichmittelzuführungsteil und dem Weichspülerteil eingeführt ist und an einem unteren Oberflächenteil des Bleichmittelzuführungs-
+teils und/oder des Weichspülerzuführungsteils verrie-
+gelt ist. [0036] Der Verriegelungsvorsprung umfaßt einen Bleichmittelzuführungsteil-Verriegelungsvorsprung, der in einem unteren Teil mit einer Verriegelungs-
+klemmbacke versehen ist, die an einem unteren Oberflächenteil des Bleichmittelzuführungsteils nach oben verriegelt ist; und einen Weichspülerzufüh-
+rungsteil-Verriegelungsvorsprung, der in einem unte-
+ren Teil mit einer Verriegelungsklemmbacke verse-
+hen ist, die an einem unteren Oberflächenteil des Weichspülerzuführungsteils verriegelt ist. [0037] In den Schubfachdeckeln stehen die Bleich-
+mittelansaugrohrkappe und die Weichspüleransaug-
+rohrkappe auf unteren Oberflächen der oberen Ober-
+flächenteile nach unten vor. [0038] Auf mindestens einem der vorderen Oberflä-
+chenteile und der hinteren Oberflächenteile stehen horizontale Stege vor. [0039] In der Waschmittelzuführungsvorrichtung der Waschmaschine der vorliegenden Erfindung besteht ein Vorteil darin, daß ein Schubfachdeckel gemein-
+sam mit der Bleichmittelansaugrohrkappe und der Weichspüleransaugrohrkappe ausgebildet ist, wo-
+durch die Anzahl von Teilen minimiert wird, und wenn die Bleichmittelansaugrohrkappe und die Weichspü-
+leransaugrohrkappe getrennt vorgesehen werden, hat sie eine unproblematische Wartung und Handha-
+bung. [0040] Die Erfindung wird unter Bezug auf die fol-
+genden Zeichnungen detailliert beschrieben, wobei gleiche Nummern sich auf gleiche Elemente bezie-
+hen. [0041] Fig. 1 ist eine perspektivische Ansicht, die ein Beispiel für ein Schubfach darstellt, das in einer herkömmlichen Waschmaschine verwendet wird; [0042] Fig. 2 ist eine perspektivische Ansicht, die ein anderes Beispiel für ein Schubfach darstellt, das in einer herkömmlichen Waschmaschine verwendet wird; [0043] Fig. 3 ist eine perspektivische Ansicht, die eine gewerbliche Trommelwaschmaschine darstellt, die eine Waschmittelzuführungsvorrichtung einer Waschmaschine gemäß einer beispielhaften Ausfüh-
+rungsform der vorliegenden Erfindung verwendet; [0044] Fig. 4 ist eine Querschnittansicht, die einen inneren Aufbau der in Fig. 3 gezeigten gewerblichen Trommelwaschmaschine zeigt; [0045] Fig. 5 ist eine perspektivische Explosionsan-
+sicht, die einen Hauptteil der in Fig. 3 gezeigten ge-
+werblichen Trommelwaschmaschine darstellt; [0046] Fig. 6 ist eine perspektivische Explosionsan-
+sicht, die eine in Fig. 5 gezeigte Waschmittelzufüh-
+rungsvorrichtung darstellt; [0047] Fig. 7 ist eine perspektivische Explosionsan-
+sicht, die ein in Fig. 6 gezeigtes Schubfach und einen davon getrennten Schubfachdeckel darstellt; [0048] Fig. 8 ist eine Explosionsansicht, die ein in Fig. 6 gezeigtes Schubfach und einen davon ge-
+trennten Schubfachdeckel darstellt; [0049] Fig. 9 ist eine perspektivische Explosionsan-
+sicht, die eine Waschmittelzuführungsvorrichtung für eine Waschmaschine gemäß einer anderen beispiel-
+haften Ausführungsform der vorliegenden Erfindung darstellt; [0050] Fig. 10 ist eine Draufsicht, die einen in Fig. 9 gezeigten Schubfachdeckel und ein damit verbunde-
+nes Schubfach darstellt; DE 10 2006 030 007 B4 2010.02.18 5/28 [0051] Fig. 11 stellt einen in Fig. 10 gezeigten Schubfachdeckel und ein davon getrenntes Schub-
+fach dar; [0052] Fig. 12 stellt einen entlang der Linie A-A von Fig. 10 genommenen Querschnitt dar; und [0053] Fig. 13 stellt einen entlang der Linie B-B von Fig. 10 genommenen Querschnitt dar. [0054] Bevorzugte Ausführungsformen der vorlie-
+genden Erfindung werden unter Bezug auf die Zeich-
+nungen detaillierter beschrieben. [0055] Fig. 3 ist eine perspektivische Ansicht, die eine gewerbliche Trommelwaschmaschine darstellt, die eine Waschmittelzuführungsvorrichtung einer Waschmaschine gemäß der vorliegenden Erfindung verwendet. [0056] Wenn ein Benutzer in der in Fig. 3 gezeigten gewerblichen Trommelwaschmaschine 1 einen ge-
+wünschten Reinigungsgang und eine Zeit auswählt, nimmt eine Gebührenverarbeitungsvorrichtung 2 die Bezahlung einer passenden Gebühr basierend auf dem ausgewählten Reinigungsgang oder der Zeit an. Durch Wasser und Waschmittel und mechanische Einwirkung wird Wäsche gewaschen, gespült, ent-
+wässert und getrocknet und auf diese Weise von Schmutz befreit. [0057] Die Gebührenverarbeitungseinheit 2 besteht aus einem Münzkasten 3 und einem Kartenleser 4. [0058] Der Münzkasten 3, eine Vorrichtung zum Be-
+gleichen der Zahlung einer Gebühr unter Verwen-
+dung von Münzen, nimmt eine Anzahl von Münzen auf und behandelt sie mechanisch. Folglich hat er ein so großes Aussehen und Gewicht. [0059] Der Kartenleser 4, im Gegensatz dazu eine Vorrichtung zum Begleichen der Zahlung der Gebühr unter Verwendung einer Magnetkarte oder einer IC-Karte (Karte mit integrierter Schaltung), liest und verarbeitet die Karte elektronisch. Folglich sind sein Aussehen und Gewicht im Vergleich zu dem Münz-
+kasten 3 so klein. [0060] Die gewerbliche Trommelwaschmaschine 1 ist gleichzeitig mit dem Münzkasten 3 und dem Kar-
+tenleser 4 ausgestattet, um den Komfort für Benutzer zu verbessern. [0061] Fig. 4 ist eine Querschnittansicht, die einen inneren Aufbau der in Fig. 3 gezeigten gewerblichen Trommelwaschmaschine zeigt, und Fig. 5 ist eine perspektivische Explosionsansicht, die einen Haupt-
+teil der in Fig. 3 gezeigten gewerblichen Trommel-
+waschmaschine darstellt. [0062] Wie in Fig. 4 oder Fig. 5 gezeigt, umfaßt die gewerbliche Trommelwaschmaschine 1 einen Schrank 52, der ein Aussehen bildet; einen in dem Schrank 52 installierten Zuber 56; eine drehbar in dem Zuber 56 angeordnete Trommel 58 mit einer Vielzahl von Wasserlöchern 57; einen auf einer In-
+nenumfangsfläche der Trommel 58 installierten He-
+ber 60, der die Wäsche um eine vorbestimmte Höhe anhebt, so daß die Wäsche durch die Schwerkraft fal-
+len kann; und einen Motor 62, der auf einer Rückseite des Zubers 56 montiert ist und die Trommel 58 dreht. [0063] Der Schrank 52 bildet das Aussehen in den linken und rechten Teilen und einem Hinterteil der ge-
+werblichen Trommelwaschmaschine 1. [0064] Ein links und rechts längs vorgesehener Trä-
+gerrahmen 53 ist auf einer Vorder-und Oberseite des Schranks 52 montiert und hält linke und rechte Teile des Schranks 52. [0065] Ein Einführungsloch 53A ist nach vorn und hinten in dem Trägerrahmen 53 ausgebildet, um ein vorderes Ende eines später beschriebenen Spender-
+gehäuses 112 einzusetzen. [0066] Ein Schrankdeckel 64 ist auf der Vorderseite des Schranks 52 montiert und hat einen Wäscheein-
+gang 64A in seiner Mitte. [0067] Eine obere Platte 66 ist auf eine obere Ober-
+fläche des Schranks 52 montiert. Der Schrank 52 wird auf den Sockel 68 gestellt und montiert. [0068] Eine Tür 70 zum Öffnen und Schließen des Wäscheeingangs 64A ist drehbar an dem Schrank-
+deckel 64 montiert. [0069] Ein Bedienfeld 72 ist auf einer Oberseite des Schrankdeckels 64 montiert, um einen Betriebszu-
+stand der gewerblichen Trommelwaschmaschine 1 anzuzeigen und einen Betrieb der gewerblichen Trommelwaschmaschine 1 zu steuern. [0070] Der Kartenleser 4 ist an dem Bedienfeld 72 montiert. [0071] Eine Öffnung 72A ist an dem Bedienfeld 72 nach vorn und hinten ausgebildet, um das Einführen und Herausnehmen des später beschriebenen Schubfachs 114 zu ermöglichen. [0072] Der Münzkasten 3 ist auf einer Oberseite der oberen Platte 66 montiert, und die Pufferungsunterla-
+ge 67 ist auf einer oberen Oberfläche der oberen Platte 66 vorgesehen. Der Münzkasten 3 wird auf die Pufferungsunterlage 67 gestellt und montiert. [0073] Der Münzkasten 3 und der Kartenleser 4 sind an eine elektronische Ausrüstung des Bedienfelds 72 DE 10 2006 030 007 B4 2010.02.18 6/28 angeschlossen, so daß sie ein Signal senden kön-
+nen, um einen Betrieb durch das Bedienfeld 72 zu steuern und einen Gebührenverarbeitungszustand nach außen anzuzeigen. [0074] Eine Verdrahtung des Münzkastens 3 geht durch die Pufferungsunterlage 67 und die obere Plat-
+te 66 und ist dann entlang einer unteren Oberfläche der oberen Platte 66 in Richtung des Bedienfelds 72 verdrahtet. [0075] Der Zuber 56 ist mit dem Schrank 52 durch eine Feder 54 verbunden und ist derart auf dem So-
+ckel 68 montiert, daß er unter Verwendung eines Stoßdämpfers 55 gepuffert werden kann. [0076] Eine Wasserzuführungseinheit 80 ist auf ei-
+ner Oberseite des Zubers 56 installiert. [0077] Die Wasserzuführungseinheit 80 umfaßt ein Wasserzuführungsventil 82, um von einer externen Wasserquelle eingespeistes Wasser zu steuern; ei-
+nen Wasserzuführungsschlauch 84, um durch das Wasserzuführungsventil 82 laufendes Wasser zu lei-
+ten; die Waschmittelzuführungsvorrichtung 110 zum Vermischen des durch den Wasserzuführungs-
+schlauch 84 geleiteten Wassers mit dem Waschmittel oder dem Weichspüler oder dem Bleichmittel und zum Entleeren der Mischung; und einen Wasserzu-
+führungsbalg 86, um das mit dem Waschmittel und ähnlichem vermischte Wasser, das durch die Wasch-
+mittelzuführungsvorrichtung 110 läuft, in den Zuber 56 zu leiten. Teile des Wasserzuführungsventils 82, des Wasserzuführungsschlauchs 84 und der Wasch-
+mittelzuführungsvorrichtung 110 und der Wasserzu-
+führungsbalg 86 bilden einen Wasserzuführungs-
+strom der Waschmaschine. [0078] Das Wasserzuführungsventil 82 ist derart in-
+stalliert, daß es durch eine Oberseite einer hinteren Oberfläche des Schranks 52 geht. Das Wasserzufüh-
+rungsventil 82 umfaßt ein Warmwasserventil 82A zum Einführen von heißem Wasser von außen und Kaltwasserventile 82B, 82C und 82D zum Einführen von kaltem Wasser von außen. [0079] Der Wasserzuführungsschlauch 84 ist zwi-
+schen dem Wasserzuführungsventil 82 und der Waschmittelzuführungsvorrichtung 110 installiert, um das Wasser zu der Wasserzuführungsvorrichtung 110 zu leiten. Der Wasserzuführungsschlauch 84 umfaßt einen Warmwasserschlauch 84A, der zwi-
+schen dem Warmwasserventil 82A und der Wasch-
+mittelzuführungsvorrichtung 110 angeschlossen ist; und erste, zweite und dritte Kaltwasserschläuche 84B, 84C und 84D, die zwischen den Kaltwasserven-
+tilen 82B, 82C und 82D und der Waschmittelzufüh-
+rungsvorrichtung 110 angeschlossen sind. [0080] Wie in Fig. 4 gezeigt, ist auf einer Unterseite des Zubers 56 eine Wasserablaufeinheit 90 instal-
+liert, um beim Waschen und Spülen benutztes Waschwasser oder aus einem Beutel entwässertes Wasser (auf das hier im weiteren als "Waschwasser" Berg genommen wird) aus der gewerblichen Trom-
+melwaschmaschine nach außen abzulassen. [0081] Die Wasserablaufeinheit 90 weist auf: einen mit einer Wasserablauföffnung des Zubers 56 ver-
+bundenen Wasserablaufbalg 92; eine mit dem Was-
+serablaufbalg 92 verbundene Wasserablaufpumpe 94; und einen Wasserablaufschlauch 96, um von der Wasserablaufpumpe 94 gepumptes Waschwasser ins Äußere der gewerblichen Trommelwaschmaschi-
+ne 1 zu leiten. [0082] Fig. 6 ist eine perspektivische Explosionsan-
+sicht, die die in Fig. 5 gezeigte Waschmittelzufüh-
+rungsvorrichtung darstellt; Fig. 7 ist eine perspektivi-
+sche Explosionsansicht, die das in Fig. 6 gezeigte Schubfach 114 und den davon getrennten Schub-
+fachdeckel darstellt, und Fig. 8 ist eine Explosions-
+ansicht, die das in Fig. 6 gezeigte Schubfach und den davon getrennten Schubfachdeckel darstellt. [0083] Wie in Fig. 6 gezeigt, weist die Waschmittel-
+zuführungsvorrichtung 110 auf: ein mit dem Wasser-
+zuführungsbalg 86 verbundenes Spendergehäuse 112, das auf seiner Vorder-und Oberseite offen ist; das Schubfach 114, das in Vorder-und Hinterrichtung abnehmbar in dem Spendergehäuse 112 installiert ist und das Waschmittel aufnimmt; eine Spenderabde-
+ckung 116, die vorgesehen ist, um eine geöffnete Oberseite des Spendergehäuses 112 abzudecken, und an den Wasserzuführungsschlauch 84 ange-
+schlossen ist und Wasser in das Schubfach 114 zu-
+führt. [0084] Das Spendergehäuse 112 ist im Hinterteil des Trägerrahmens 53 installiert, so daß es vorne mit der Öffnung 72A des in Fig. 5 gezeigten Bedienfelds 72 in Verbindung ist. [0085] Eine Wasserablauföffnung 113 ist in einem unteren Teil des Spendergehäuses 112 vorgesehen, um mit dem Wasserzuführungsbalg 86 zu verbinden, so daß eine Mischung aus Waschmittelflüssigkeit und Wasser, die von dem Schubfach 114 tropft, ins Innere des Zubers 56 zugeführt werden kann. [0086] Das Schubfach 114 wird durch die Öffnung 72A des Bedienfelds 72 und die Öffnung 53A des Trägerrahmens 53 in das Spendergehäuse 112 ein-
+gesetzt, das der Wasserzuführungsstrom der Wasch-
+maschine ist. Das Schubfach 114 ist in dem Wasser-
+zuführungsstrom der Waschmaschine angeordnet oder nach außen gezogen. [0087] Das Schubfach 114 weist auf: einen Schub-
+fachkörper 120 zum Aufnehmen und Zuführen des DE 10 2006 030 007 B4 2010.02.18 7/28 Waschmittels, Weichspülers und Bleichmittels; und eine vordere Paneele 130, die mit einer vorderen Oberfläche des Schubfachkörpers 120 verbunden ist und einen Griff 132 auf ihrer Vorderseite hat. [0088] Auf der oberen Oberfläche des Waschmittel-
+zuführungsteils 122 ist ein Schubfachdeckel 140 montiert. [0089] Der Schubfachkörper 120 ist derart vorgese-
+hen, daß eine Kastenform hat, die nach oben und hinten geöffnet ist, und ist mit einem Vorderteil 124 zum Montieren der Vorderpaneele 130 auf seiner Vorderseite versehen. [0090] Der Schubfachkörper 120 ist integral mit ei-
+nem Verriegelungsteil 150 versehen, der auf der Vor-
+derseite des Spenderdeckels 116 derart elastisch verriegelt wird, daß ein Benutzer immer ein Gefühl für die Befestigung und das Lösen hat, wenn das Schub-
+fach 114 in die Öffnung 72A des Bedienfelds 72 ge-
+steckt oder herausgenommen wird. [0091] Der Verriegelungsteil 150 ist in den vorderen und hinteren Teilen in einem vorbestimmten Winkel vorgesehen und geneigt und längs nach vom und hinten mit einem Schlitzloch 152 versehen, so daß mindestens eine der linken und rechten Seiten elas-
+tisch verformt werden kann. [0092] Wenn das Schubfach 114 ins Innere des Spenderdeckel 116 und des Spendergehäuses 112 eingesetzt wird, wird der Verriegelungsteil 150 von ei-
+nem Vorderteil des Spenderdeckels 116 verriegelt, wird elastisch nach unten verformt und fest an einer unteren Oberfläche des Spenderdeckels 116 befes-
+tigt. [0093] Das Schubfach 114, insbesondere der Schubfachkörper 120 umfaßt einen Waschmittelzu-
+führungsteil 160 zum Aufnehmen und Zuführen des Waschmittels und einen Bleichmittel/Weichspülerzu-
+führungsteil 170 zum Aufnehmen und Zuführen des Weichspülers und/oder des Bleichmittels. Ein Verbin-
+dungsteil 128 ist zwischen einem oberen Ende des Waschmittelzuführungsteils 160 und einem oberen Ende des Bleichmittel/Weichspülerzuführungsteils 170 vorgesehen. [0094] Der Waschmittelzuführungsteil 160 ist derart vorgesehen, daß er etwa die gleiche Fläche wie der gesamte Bleichmittel/Weichspülerzuführungsteil 170 hat. [0095] Der Waschmittelzuführungsteil 160 ist in ei-
+ner nach oben und hinten geöffneten Kastenform ausgebildet. [0096] Der Waschmittelzuführungsteil 160 ist an ei-
+ner um einen vorbestimmten Abstand von der Vor- derpaneele 130 nach hinten beabstandeten Stelle mit einer Waschmittelmengen-Einstellwand 162 ver-
+sehen, um zu verhindern, daß ein pulverförmiges Waschmittel in verklumptem Zustand in das Spen-
+dergehäuse 112 tropft und auch um ein Fassungsver-
+mögen für das Waschmittel festzulegen, das in dem Waschmittelzuführungsteil 160 aufgenommen wer-
+den kann. [0097] Die Waschmittelmengen-Einstellwand 162 sind plattenförmige Elemente, die in der linken und rechten Richtung horizontal ausgebildet sind. Die Waschmittelmengen-Einstellwand 162 verbindet an beiden Enden mit linken und rechten Wandteilen des Waschmittelzuführungsteils 160 und ist von einer un-
+teren Oberfläche 161 des Waschmittelzuführungs-
+teils 160 um einen vorbestimmten Abstand beabstan-
+det, um einen Durchgang auszubilden, durch den Waschmittel in das Spendergehäuse 112 abgeführt werden kann. [0098] Die Waschmittelmengen-Einstellwand 162 ist derart vorgesehen, daß sie entsprechend der Öff-
+nung 72A des Bedienfelds 72 angeordnet ist, wenn das Schubfach 114 maximal in Richtung der Vorder-
+seite der Öffnung 72A des Bedienfelds 72 gezogen ist, um für den Waschmittelzuführungsteil 160 einen Waschmitteleinführungsraum festzulegen. [0099] Die Waschmittelmengen-Einstellwand 162 besteht aus einem Neigungsoberflächenteil 164, der vorne nach unten geneigt werden kann, so daß sein unteres Ende vor der Öffnung 72A des Bedienfelds 72 angeordnet ist; und einem horizontalen Oberflä-
+chenteil 166, der hinten in einer vorbestimmten Län-
+ge horizontal vorgesehen ist, so daß sein oberes Ende hinter der Öffnung 72A angeordnet ist. [0100] Der Bleichmittel/Weichspülerzuführungsteil 170 ist derart vorgesehen daß er insgesamt eine an seiner Ober-und Hinterseite offene Kastenform hat. [0101] Der Bleichmittel/Weichspülerzuführungsteil 170 ist mit einem Bleichmittelzuführungsteil 172 zum Aufnehmen und Zuführen des Bleichmittels und ei-
+nem Weichspülerzuführungsteil 174 zum Aufnehmen und Zuführen des Weichspülers vorgesehen. [0102] Der Bleichmittelzuführungsteil 172 und der Weichspülerzuführungsteil 174 sind durch einen Trennwandteil 176 etwa nach vorn und hinten unter-
+teilt. [0103] Der Bleichmittelzuführungsteil 172 ist in ei-
+nem inneren und vorderen Teil des Bleichmit-
+tel/Weichspülerzuführungsteils 170 vorgesehen. [0104] Der Bleichmittelzuführungsteil 172 steht nach oben vor und steht auf seiner Unterseite mit dem Bleichmittelansaugrohr 173 in Verbindung. DE 10 2006 030 007 B4 2010.02.18 8/28 [0105] Der Weichspülerzuführungsteil 174 ist in ei-
+nem inneren und hinteren Teil des Bleichmit-
+tel/Weichspülerzuführungsteils 170 vorgesehen. [0106] Der Weichspülerzuführungsteil 174 steht nach oben vor und steht auf seiner Unterseite mit dem Weichspüleransaugrohr 175 in Verbindung. [0107] Der Trennwandteil 176 ist ein Trennsteg, der in einem inneren und oberen Teil des Bleichmit-
+tel/Weichspülerzuführungsteils 170 in der Links-und Rechtsrichtung vorgesehen ist, so daß er den Bleich-
+mittel/Weichspülerzuführungsteil 170 in den Bleich-
+mittelzuführungsteil 172 und den Weichspülerzufüh-
+rungsteil untergliedert. [0108] Der Trennsteg 176 steht von einer unteren Oberfläche 171 des Bleichmittel/Weichspülerzufüh-
+rungsteils 170 nach oben vor oder steht in einem ge-
+trennten Kasten, der von der unteren Oberfläche 171 des Bleichmittel/Weichspülerzuführungsteils 170 zu einer Oberseite beabstandet ist, nach oben vor. [0109] Nachstehend wird eine Beschreibung auf der Basis der Einschränkung gegeben, daß der Bleich-
+mittel/Weichspülerzuführungsteil 170 mit dem von ei-
+ner unteren Oberfläche 171 des Bleichmittel/Weich-
+spülerzuführungsteils 170 beabstandeten Kastenteil versehen ist und der Trennsteg 176 von einer unteren Oberfläche des Kastenteils nach oben vorsteht und ein Innenraum des Kastenteils folglich nach vom und hinten in den Weichspülerzuführungsteil 174 und den Bleichmittelzuführungsteil untergliedert ist. [0110] Eine Beschreibung wird auf der Basis der Einschränkung gegeben, daß auf der Basis des Trennstegs 176 der Bleichmittelzuführungsteil 172 vorne und der Weichspülerzuführungsteil 174 hinten vorgesehen ist. [0111] Der Trennsteg 176 ist derart ausgebildet, daß er auf einer seiner linken und rechten Seiten wei-
+ter nach vorne vorsteht und in eine -Form gebogen ist. [0112] In dem Trennsteg 176 wird nachstehend ein Abschnitt, der weiter nach vorne vorsteht, als "Vor-
+sprungteil 176A" definiert, und ein Abschnitt, der nicht nach vorne vorsteht, wird als "Nichtvorsprung-
+teil 176B" definiert, und ein Abschnitt zwischen dem Vorsprungteil 176A und dem Nichtvorsprungteil 176B wird als "Verbindungsteil 176C" definiert. [0113] In dem Trennsteg 176 ist der Vorsprungteil 176A auf einem der linken und rechten Wandteile des Bleichmittel/Weichspülerzuführungsteils 170 links und rechts vorgesehen, und der Verbindungsteil 176C ist hinten an einem Ende des Vorsprungteils 176A nach vorn und hinten vorgesehen, und der Nichtvorsprungteil 176B ist an dem anderen Ende der linken und rechten Wandteile des Bleichmit-
+tel/Weichspülerzuführungsteils 170 an einem hinte-
+ren Ende des Verbindungsteils 176C links und rechts vorgesehen. [0114] In dem Bleichmittel/Weichspülerzuführungs-
+teil 170 ist das Bleichmittelansaugrohr 173 nahe an einem Vorderteil des Nichtvorsprungteils 176B des Bleichmittelzuführungsteils 172 vorgesehen, und das Weichspüleransaugrohr 175 ist nahe an einem hinte-
+ren Teil des Vorsprungteils 176A des Weichspülerzu-
+führungsteils 174 vorgesehen. [0115] Mit anderen Worten sind das Bleichmittelan-
+saugrohr 173 und das Weichspüleransaugrohr 175 in dem Bleichmittel/Weichspülerzuführungsteil 170 etwa nach links und rechts beabstandet, wobei der Trennsteg, insbesondere der Verbindungsteil 176C zwischen ihnen angeordnet ist, und sind auf diese Weise in maximaler Nähe zueinander. [0116] Der Schubfachdeckel 140 ist von dem Schubfach 114 abnehmbar. [0117] Der Schubfachdeckel 140 ist zugleich mit der Bleichmittelansaugrohrkappe 148, die das Bleichmit-
+telansaugrohr 173 bedeckt, und der Weichspüleran-
+saugrohrkappe 149, die das Weichspüleransaugrohr 175 bedeckt, versehen. [0118] In dem Schubfachdeckel 140 sind das Bleichmittelansaugrohr 173 und das Weichspüleran-
+saugrohr 175 derart vorgesehen, daß sie nahe anei-
+nander und maximal nahe an dem Trennsteg 176 sind, wobei insbesondere der Verbindungsteil 176C zwischen ihnen angeordnet ist und seine Länge nach vorn und hinten folglich so kurz wie möglich bereitge-
+stellt werden kann. [0119] Der Schubfachdeckel 140 umfaßt einen obe-
+ren Oberflächenteil 142, der auf einer Oberseite des Trennstegs 176 horizontal angeordnet ist und eine untere Oberfläche hat, von der die Bleichmittelan-
+saugrohrkappe 148 und die Weichspüleransaugrohr-
+kappe 149 integral vorstehen; einen vorderen Ober-
+flächenteil 144, der sich in einem Vorderteil des obe-
+ren Oberflächenteils 142 nach unten erstreckt und vor dem Trennsteg 176 angeordnet ist; und einen hin-
+teren Oberflächenteil 146, der sich in einem hinteren Teil des oberen Oberflächenteils 142 nach unten er-
+streckt und im Hinterteil des Trennstegs 176 ange-
+ordnet ist. [0120] In dem oberen Oberflächenteil 142, der ein Teil ist, welcher das Bleichmittelansaugrohr 173, das Weichspüleransaugrohr 175 und den Trennsteg 176 bedeckt, steht die Bleichmittelansaugrohrkappe 148 an einer zu dem Bleichmittelansaugrohr 173 gegenü-
+berliegenden Stelle vor, und die Weichspüleransaug-
+rohrkappe 149 steht an einer dem Weichspüleran- DE 10 2006 030 007 B4 2010.02.18 9/28 saugrohr 175 gegenüberliegenden Stelle vor. [0121] Der vordere Oberflächenteil 144 steht um eine maximale Höhe bis zu der Stelle, wo das Bleich-
+mittel in dem Bleichmittelzuführungsteil 172 unterge-
+bracht ist, in dem Vorderteil des oberen Oberflächen-
+teils 142 nach unten vor. Der vordere Oberflächenteil 144 ist an seinem hinteren Ende mit einem vorderen horizontalen Steg 145 versehen, der um eine vorbe-
+stimmte Länge horizontal nach vorne vorsteht. [0122] Der hintere Oberflächenteil 146 steht um eine maximale Höhe bis zu der Stelle, wo der Weich-
+spüler in dem Weichspülerzuführungsteil 176 unter-
+gebracht ist, in dem Hinterteil des oberen Oberflä-
+chenteils 142 nach unten vor. Der hintere Oberflä-
+chenteil 146 ist an seinem hinteren Ende mit einem hinteren horizontalen Steg 147 versehen, der um eine vorbestimmte Länge horizontal nach hinten vor-
+steht. [0123] Der vordere horizontale Steg 145 und der hintere horizontale Steg 147 zeigen eine Lagermen-
+ge des Bleichmittels, das in dem Bleichmittelzufüh-
+rungsteil 172 untergebracht ist, und eine Lagermen-
+ge des Weichspülers, der in dem Weichspülerzufüh-
+rungsteil 174 untergebracht ist, an, und sie werden auch als ein Griff verwendet, wenn der Schubfachde-
+ckel 140 befestigt und gelöst wird. [0124] Der Spenderdeckel 116 umfaßt eine untere Platte 116A, die auf eine geöffnete obere Oberfläche des Spendergehäuses 112 montiert ist; und eine obe-
+re Platte 116B, die auf einen oberen Teil der unteren Platte 116A aufmontiert ist, um zusammen mit der unteren Platte 116A einen Waschmittelwasserzufüh-
+rungsstrom 180, einen Bleichmittelwasserzufüh-
+rungsstrom 182 und einen Weichspülerwasserzufüh-
+rungsstrom 184 zu bilden. [0125] In der unteren Platte 116A steht ein Schlauchverbindungsteil 186, der den Wasserzufüh-
+rungsschlauch 84 der Wasserzuführungseinheit 80 verbindet, in ihrem hinteren Teil vor und ist verbun-
+den, und mehrere Wasserzuführungslöcher 190 zum Zuführen des Wassers sind in Abschnitten vorgese-
+hen, die dem Waschmittelzuführungsteil 160 und dem Bleichmittel/Weichspülerzuführungsteil 170 des Schubfachs 114 gegenüberliegen. [0126] Der Schlauchverbindungsteil 186 umfaßt ei-
+nen ersten Schlauchverbindungsteil 186, der mit dem Warmwasserschlauch 84A verbindet, so daß er war-
+mes Wasser an den Waschmittelzuführungswasser-
+strom 180 zuführt; und zweite, dritte und vierte Ver-
+bindungsteile 186B, 186C und 186D, die mit den ers-
+ten, zweiten und dritten Kaltwasserschläuchen 84B, 84C und 84D verbinden, so daß sie kaltes Wasser an den Bleichmittelwasserzuführungsstrom 182, den Weichspülerwasserzuführungsstrom 184 und den Waschmittelwasserzuführungsstrom 180 zuführen. [0127] Die untere Platte 116A ist mit dem Waschmit-
+telwasserzuführungsstrom 180 versehen, so daß das kalte Wasser oder das warme Wasser von den ersten und zweiten Schlauchverbindungsteilen 186A und 186B zu einem Abschnitt fließen kann, der dem Waschmittelzuführungsteil 160 gegenüberliegt, und ist mit dem Bleichmittelwasserzuführungsstrom 182 versehen, so daß das kalte Wasser von dem dritten Schlauchverbindungsteil 186C zu einem Abschnitt fließen kann, der dem Bleichmittelzuführungsteil 172 gegenüberliegt, und ist mit dem Weichspülerwasser-
+zuführungsstrom 184 versehen, so daß das kalte Wasser von dem vierten Schlauchverbindungsteil 186D zu dem Weichspülerzuführungsteil 174 fließen kann. [0128] Das Wasserzuführungsloch 190 umfaßt mehrere Waschmittelwasserzuführungslöcher 192, die derart auf einer Oberseite des Waschmittelzufüh-
+rungsteils 160 vorgesehen sind, so daß das Wasser in dem Waschmittelwasserzuführungsstrom 180 an den Waschmittelzuführungsteil 160 zugeführt werden kann; ein einziges Bleichmittelwasserzuführungsloch 194, das auf einer Oberseite des Bleichmittelzufüh-
+rungsteils 172 vorgesehen ist, so daß das Wasser in dem Bleichmittelwasserzuführungsstrom 182 an den Bleichmittelzuführungsteil 172 zugeführt werden kann; und mehrere Weichspülerwasserzuführungslö-
+cher 196, die auf einer Oberseite des Weichspülerzu-
+führungsteils 174 vorgesehen sind, so daß das Was-
+ser in dem Weichspülerwasserzuführungsstrom 184 an den Weichspülerzuführungsteil 174 zugeführt werden kann. [0129] Das Waschmittelwasserzuführungsloch 192 ist in einem Abschnitt, der dem Waschmittelzufüh-
+rungsteil 160 gegenüberliegt, mehrfach vorgesehen. Das Bleichmittelwasserzuführungsloch 194 ist in dem Abschnitt vorgesehen, der dem Bleichmittelzu-
+führungsteil 172 gegenüberliegt. Das Weichspüler-
+wasserzuführungsloch 196 ist in dem Abschnitt vor-
+gesehen, der dem Weichspülerzuführungsteil 174 gegenüberliegt. [0130] Das Waschmittelwasserzuführungsloch 192 ist auf linken und rechten Oberflächen des Waschmit-
+telzuführungsteils 160 vorgesehen, so daß das Was-
+ser derart geneigt und gesprüht werden kann, so daß das in dem Waschmittelzuführungsteil 160 unterge-
+brachte pulverförmige Waschmittel reibungslos weg-
+geschwemmt werden kann. [0131] Für das pulverförmige Waschmittel besteht mit anderen Worten eine große Wahrscheinlichkeit, auf einer inneren Oberfläche des Waschmittelzufüh-
+rungsteils 160 zu bleiben, ohne vollständig wegge-
+spült zu werden, und folglich sprüht das Waschmittel-
+zuführungsloch 192 das Wasser auf die innere Ober- DE 10 2006 030 007 B4 2010.02.18 10/28 fläche des Waschmittelzuführungsteils 160. [0132] Das Bleichmittelwasserzuführungsloch 194 und das Weichspülerwasserzuführungsloch 196 sind derart vorgesehen, daß das Wasser vertikal in den Bleichmittelzuführungsteil 172 und den Weichspüler-
+zuführungsteil 174 gesprüht werden kann, wodurch das in dem Bleichmittelzuführungsteil 172 unterge-
+brachte Bleichmittel und der in dem Weichspülerzu-
+führungsteil 174 untergebrachte Weichspüler gut ge-
+löst werden. [0133] Wenn das Bleichmittel und der Weichspüler nicht gut gelöst sind und die Viskosität zunimmt, funk-
+tioniert mit anderen Worten das Ansaugphänomen des Bleichmittelansaugrohrs 173 und der Bleichmit-
+telansaugrohrkappe 148 nicht reibungslos, wodurch die Leistung beim Entleeren des Bleichmittels ver-
+schlechtert wird, und das Ansaugphänomen des Weichspüleransaugrohrs 175 und der Weichspüler-
+ansaugrohrkappe 149 funktioniert nicht reibungslos, wodurch die Leistung beim Entleeren des Weichspü-
+lers verschlechtert wird. Auf diese Weise wird das Wasser unter Verwendung des Bleichmittelwasser-
+zuführungslochs 194 und des Weichspülerwasserzu-
+führungslochs 196 vertikal auf das Bleichmittel und den Weichspüler gesprüht, wodurch das Bleichmittel und der Weichspüler durch den Wasserdruck zersto-
+ßen werden. [0134] Insbesondere ist der Weichspülerwasserzu-
+führungsstrom 184, wie der Waschmittelwasserzu-
+führungsstrom 180, in dem Abschnitt, der dem Weichspülerzuführungsteil 174 gegenüberliegt, in der unteren Platte 116A vorgesehen, und die mehre-
+ren Weichspülerwasserzuführungslöcher 196 sind entlang des Weichspülerwasserzuführungsstroms 184 vorgesehen. [0135] Wenn das Wasser unter Verwendung des Weichspülerwasserzuführungsstroms 184 und der mehreren Weichspülerwasserzuführungslöcher 196 auf den gesamten Weichspülerzuführungsteil 174 gesprüht wird, wird die Leistung beim Zerstoßen des in dem Weichspülerzuführungsteil 174 aufgenomme-
+nen Weichspülers erheblich verbessert. [0136] Ein Betrieb der weiter oben aufgebauten Waschmittelzuführungsvorrichtung der Waschma-
+schine gemäß der vorliegenden Erfindung wird weiter unten beschrieben. [0137] Zunächst werden das Waschmittel, das Bleichmittel und der Weichspüler in die Waschmittel-
+zuführungsvorrichtung 110 gegeben, bevor die Wä-
+sche unter Verwendung der gewerblichen Trommel-
+waschmaschine 50 gewaschen wird. [0138] Das Schubfach 114 der Waschmittelzufüh-
+rungsvorrichtung 110 wird aus der Öffnung 72A des Bedienfelds 72 nach vorne gezogen und an seinem Vorderteil geöffnet, so daß das Waschmittel, das Bleichmittel und der Weichspüler jeweils in den Waschmittelzuführungsteil 160, den Bleichmittelzu-
+führungsteil 172 und den Weichspülerzuführungsteil 174 hineingegeben werden können. [0139] In dem Waschmittelzuführungsteil 160 ist die Waschmittelmengen-Einstellwand 162 auf einer Un-
+terseite der Öffnung 72A des Bedienfelds 72 ange-
+ordnet und folglich wird das Waschmittel nicht hinter der Waschmittelmengen-Einstellwand 162 hineinge-
+geben, wodurch eine Verschwendung des Waschmit-
+tels verhindert wird. [0140] In dem Bleichmittel/Weichspülerzuführungs-
+teil 170 ist der Schubfachdeckel 140 auf einer Ober-
+seite des Trennstegs 176 vorgesehen, um ihn in den Bleichmittelzuführungsteil 172 und den Weichspüler-
+zuführungsteil 174 zu untergliedern. Das Bleichmittel wird durch den Vorderteil des Schubfachdeckels 140 in den Bleichmittelzuführungsteil 172 hineingegeben, und der Weichspüler wird durch den hinteren Teil des Schubfachdeckels 140 in den Weichspülerzufüh-
+rungsteil 174 hineingegeben. [0141] Der an dem Vorderteil 144 des Schubfachde-
+ckels 140 ausgebildete horizontale Steg 145 steuert eine maximale Eingabemenge für das in den Bleich-
+mittelzuführungsteil 172 hineingegebene Bleichmit-
+tel. Der in dem hinteren Teil 146 des Schubfachde-
+ckels 140 ausgebildete hintere horizontale Steg 147 steuert eine maximale Eingabemenge für den in den Weichspülerzuführungsteil 174 eingegebenen Weichspüler. Der vordere horizontale Steg 145 und der hintere horizontale Steg 147 können eine über-
+mäßige Eingabe des Bleichmittels und des Weich-
+spülers verhindern. [0142] In dem Bleichmittel/Weichspülerzuführungs-
+teil 170 steht der Trennsteg 176 auf eine der linken und rechten Seiten vor, und das Bleichmittelansaug-
+rohr 173 und das Weichspüleransaugrohr 175 sind in nächster Nähe angeordnet, und der Schubfachde-
+ckel 140 ist kompakt aufgebaut, so daß die Länge nach vorn und hinten minimiert wird. Auf diese Weise sind der Bleichmitteleinführungsraum und der Weich-
+spülereinführungsraum, die zwischen dem Schub-
+fachdeckel 140 und dem Bedienfeld 74 vorgesehen sind, groß, und der Benutzer kann das Bleichmittel und den Weichspüler leicht eingeben. [0143] Wenn das Schubfach 114 in die Öffnung 72A des Bedienfelds 72 eingesetzt wird, nachdem das Waschmittel, das Bleichmittel und der Weichspüler wie weiter oben in den Waschmittelzuführungsteil 122 des Schubfachs 114 hineingegeben wurden, ist das Schubfach 114 in dem Spendergehäuse 112 an-
+geordnet. DE 10 2006 030 007 B4 2010.02.18 11/28 [0144] Wenn die gewerbliche Trommelwaschma-
+schine 50 danach betätigt wird, wird das Wasser von außen durch den Wasserzuführungsschlauch 84 der Wasserzuführungseinheit 80 in die Waschmittelzu-
+führungsvorrichtung 110 zugeführt. [0145] Mit anderen Worten wird das Wasser durch den Schlauchverbindungsteil 186, der mit dem Was-
+serzuführungsschlauch 84 der Wasserzuführungs-
+einheit 80 verbindet, in die Spenderabdeckung 116 der Waschmittelzuführungsvorrichtung 110 einge-
+führt, und das eingeführte Wasser fließt entlang des Waschmittelwasserzuführungsstroms 180, des Bleichmittelwasserzuführungsstroms 182 oder des Weichspülerwasserzuführungsstroms 184 und wird durch das Waschmittelwasserzuführungsloch 192, das Bleichmittelwasserzuführungsloch 194 oder das Weichspülerwasserzuführungsloch 196 nach unten abgelassen. [0146] Das durch das Waschmittelwasserzufüh-
+rungsloch 192 abgelassene Wasser wird in den Waschmittelzuführungsteil 160 zugeführt. Das Was-
+ser wird geneigt und auf eine seitliche Oberseite des Waschmittelzuführungsteils 160 gesprüht, wodurch das in den Waschmittelzuführungsteil 160 hineinge-
+gebene pulverförmige Waschmittel wirksamer nach unten gespült wird. [0147] Das Wasser und das Waschmittel in dem Waschmittelzuführungsteil 160 laufen zwischen der unteren Oberfläche 161 und der Waschmittelmen-
+gen-Einstellwand 162 des Waschmittelzuführungs-
+teils 160 durch und werden dann in das Spenderge-
+häuse 112 abgelassen. [0148] Das durch das Bleichmittelwasserzufüh-
+rungsloch 194 oder das Weichspülerwasserzufüh-
+rungsloch 196 abgelassene Wasser wird jeweils in den Bleichmittelzuführungsteil 172 oder den Weich-
+spülerzuführungsteil 174 zugeführt. Das Wasser wird vertikal auf das Bleichmittel und den Weichspüler ge-
+sprüht, um ihre Viskositäten wirksam zu verringern. [0149] Wenn das Wasser in den Bleichmittelzufüh-
+rungsteil 172 zugeführt wird und einen vorbestimm-
+ten Wasserpegel oder mehr erreicht, werden das in dem Bleichmittelzuführungsteil 172 untergebrachte Bleichmittel und das Wasser in das Spendergehäuse 112 abgelassen, wobei sie durch das Ansaugrohr-
+phänomen zwischen dem Weichspüleransaugrohr 175 und der Weichspüleransaugrohrkappe 149 durchgehen. [0150] Insbesondere wird das Wasser durch die mehreren Weichspülerwasserzuführungslöcher 196 auf den Weichspülerzuführungsteil 174 gesprüht oder geschüttet, und der Weichspüler wird durch den Wasserdruck wirksam zerstoßen und seine Viskosi-
+tät wird erheblich verringert, und der Weichspüler wird gut in dem Wasser verdünnt und wird gleichmä-
+ßig durch die das Weichspüleransaugrohr 175 und die Weichspüleransaugrohrkappe 149 abgelassen. [0151] Fig. 9 ist eine perspektivische Explosionsan-
+sicht, die ein Schubfach einer Waschmittelzufüh-
+rungsvorrichtung einer Waschmaschine gemäß einer anderen beispielhaften Ausführungsform der vorlie-
+genden Erfindung darstellt, Fig. 10 ist eine Drauf-
+sicht, die einen in Fig. 9 gezeigten Schubfachdeckel und das damit verbundene Schubfach darstellt, Fig. 11 stellt den in Fig. 10 gezeigten Schubfachde-
+ckel und das davon getrennte Schubfach dar, Fig. 12 stellt einen entlang einer Linie A-A von Fig. 10 ge-
+nommenen Querschnitt dar, und Fig. 13 stellt einen entlang einer Linie B-B von Fig. 10 genommenen Querschnitt dar. [0152] Als Bezug zeigen die gleichen Bezugszei-
+chen die gleichen oder ähnliche Bestandteile der ers-
+ten Ausführungsform der vorliegenden Erfindung dar, und folglich werden ihre detaillierten Beschreibungen weggelassen. [0153] In dem in Fig. 9 bis Fig. 13 gezeigten Schub-
+fach 114 sind ein Bleichmittelzuführungsteil 202 und ein Weichspülerzuführungsteil 204 jeweils an Stellen, die um eine vorbestimmte Höhe beabstandet sind, auf einer Oberseite einer unteren Oberfläche 201 in einem Bleichmittel/Weichspülerzuführungsteil 200 beabstandet. [0154] Der Bleichmittelzuführungsteil 202 und der Weichspülerzuführungsteil 204 sind jeweils in oben offenen Kastenformen ausgebildet und sind in einem inneren und vorderen Teil und einem inneren und hin-
+teren Teil des Bleichmittel/Weichspülerzuführungs-
+teils 200 nach vom und hinten beabstandet. [0155] In dem Bleichmittel/Weichspülerzuführungs-
+teil 200 sind Wandteile 206 und 207, die dem Bleich-
+mittelzuführungsteil 202 und dem Weichspülerzufüh-
+rungsteil 204 gegenüberliegen, nach vorn und hinten beabstandet und sind auch derart vorgesehen, daß sie jeweils -Formen haben. [0156] In dem hinteren Wandteil 206 des Bleichmit-
+telzuführungsteils 202 und dem vorderen Wandteil 207 des Weichspülerzuführungsteils 204 steht mit anderen Worten jede der linken und rechten Seiten derart nach vorne vor, daß sie in die -Formen ge-
+bogen sind. [0157] In dem hinteren Wandteil 206 des Bleichmit-
+telzuführungsteils 202 ist ein weiter vorstehender Ab-
+schnitt als "Vorsprungteil 206A" definiert, und ein nicht nach vorn vorstehender Abschnitt ist als "Nicht-
+vorsprungteil 206B" definiert, und ein Abschnitt zwi-
+schen dem Vorsprungteil 206A und dem Nichtvor-
+sprungteil 206B ist als "Verbindungsteil 206C" defi- DE 10 2006 030 007 B4 2010.02.18 12/28 niert. [0158] In dem hinteren Wandteil 206 des Bleichmit-
+telzuführungsteils 202 ist der Vorsprungteil 206A links und rechts auf einem der linken und rechten Wandteile des Bleichmittel/Weichspülerzuführungs-
+teils 200 vorgesehen, und der Verbindungsteil 206C ist hinten an einem Ende des Vorsprungteils 206A vorgesehen, und der Nichtvorsprungteil 206B ist links und rechts auf dem anderen der linken und rechten Wandteile des Bleichmittel/Weichspülerzu-
+führungsteils 170 an einem hinteren Ende des Ver-
+bindungsteils 206C vorgesehen. [0159] In dem Bleichmittelzuführungsteil 202 ist das Bleichmittelzuführungsrohr 203 maximal nahe an ei-
+nem Vorderteil des Nichtvorsprungteils 206B vorge-
+sehen und ist ungefähr auf einer Seite des Verbin-
+dungsteils 206C angeordnet. [0160] In dem vorderen Wandteil 207 des Bleichmit-
+telzuführungsteils 202 ist der Vorsprungteil 207A links und rechts an einem der linken und rechten Wandteile des Bleichmittel/Weichspülerzuführungs-
+teils 200 vorgesehen, und der Verbindungsteil 207C ist hinten an einem Ende des Vorsprungteils 207A vorgesehen, und der Nichtvorsprungteil 207B ist links und rechts an dem anderen der linken und rech-
+ten Wandteile des Bleichmittel/Weichspülerzufüh-
+rungsteils 200 an einem hinteren Ende des Verbin-
+dungsteils 207C vorgesehen. [0161] In dem Weichspülerzuführungsteil 204 ist das Weichspüleransaugrohr 205 maximal nahe an ei-
+nem hinteren Teil des Vorsprungteils 207A vorgese-
+hen und ist ungefähr auf einer Seite des Verbin-
+dungsteils 207C angeordnet. [0162] In dem Bleichmittel/Weichspülerzuführungs-
+teil 200 sind das Bleichmittelansaugrohr 203 und das Weichspüleransaugrohr 205 mit anderen Worten in maximaler Nähe angeordnet, wobei der Verbin-
+dungsteil 206C des hinteren Wandteils 206 des Bleichmittelzuführungsteils 202 und der Verbin-
+dungsteil 207C des vorderen Wandteils 207 des Weichspülerzuführungsteils 204 dazwischen ange-
+ordnet sind. [0163] In dem Bleichmittel/Weichspülerzuführungs-
+teil 200 sind der hintere Wandteil 206 des Bleichmit-
+telzuführungsteils 202 und der vordere Wandteil 207 des Weichspülerzuführungsteils 204 um eine vorbe-
+stimmte Lücke voneinander beabstandet. [0164] In dem Bleichmittel/Weichspülerzuführungs-
+teil 200 ist der Vorsprungteil 206A des Bleichmittelzu-
+führungsteils 202 länger vorgesehen als der Vor-
+sprungteil 207A des Weichspülerzuführungsteils 204, und der Vorsprungteil 207A des Weichspülerzu-
+führungsteils 204 ist auf der Seite des Verbindungs- teils 206C des Bleichmittelzuführungsteils 202 ange-
+ordnet. [0165] Der Schubfachdeckel 210 ist von dem Schubfach 114 abnehmbar. [0166] Der Schubfachdeckel 210 ist gleichzeitig in-
+tegral mit der Bleichmittelrohransaugkappe 218, die das Bleichmittelansaugrohr 202 bedeckt, und der Weichspüleransaugrohrkappe 219, die das Weich-
+spüleransaugrohr 205 bedeckt, versehen. [0167] Der Schubfachdeckel 210 umfaßt einen obe-
+ren Oberflächenteil 212, der auf Oberseiten der Wandteile 206 und 207 horizontal angeordnet ist und eine untere Oberfläche hat, von der die Bleichmit-
+telansaugrohrkappe 218 und die Weichspüleran-
+saugrohrkappe 219 vorstehen; einen vorderen Ober-
+flächenteil 214, der sich auf einem Vorderteil des oberen Oberflächenteils 212 nach unten erstreckt und vor der Wandoberfläche 206 des Bleichmittelzu-
+führungsteils 202 angeordnet ist; und einen hinteren Oberflächenteil 216, der sich an einem hinteren Teil des oberen Oberflächenteils 212 nach hinten er-
+streckt und an der Wandoberfläche 207 des Weich-
+spülerzuführungsteils 204 angeordnet ist. [0168] In dem oberen Oberflächenteil 212, der ein Element ist, das das Bleichmittelansaugrohr 202, das Weichspüleransaugrohr 205 und die Wandteile 206 und 207 bedeckt, steht die Bleichmittelansaugrohr-
+kappe 218 an einer dem Bleichmittelansaugrohr 202 gegenüberliegenden Stelle vor, und die Weichspüler-
+ansaugrohrkappe 219 steht an einer dem Weichspü-
+leransaugrohr 205 gegenüberliegenden Stelle vor. [0169] Der vordere Oberflächenteil 214 steht an dem Vorderteil des oberen Oberflächenteils 212 um eine maximale Höhe bis zu der Stelle nach unten vor, wo das Bleichmittel in dem Bleichmittelzuführungsteil 202 gelagert ist. Der vordere Oberflächenteil 214 ist an seinem hinteren Ende mit einem vorderen hori-
+zontalen Steg 215 versehen, der vorne um eine vor-
+bestimmte Länge horizontal vorsteht. [0170] Der hintere Oberflächenteil 216 steht auf dem hinteren Teil des oberen Oberflächenteils 212 um eine maximale Höhe bis zu der Stelle nach unten vor, wo der Weichspüler in dem Weichspülerzufüh-
+rungsteil 204 gelagert ist. Der hintere Oberflächenteil 146 ist an seinem hinteren Ende mit einem hinteren horizontalen Steg 217 versehen, der hinten um eine vorbestimmte Länge horizontal vorsteht. [0171] Der Schubfachdeckel 210 ist mit einem Ver-
+riegelungsvorsprung 220 versehen, der in eine Lücke zwischen den beabstandeten Wandoberflächen 206 und 207 eingesetzt ist und durch mindestens einen der unteren Oberflächenteile des Bleichmittelzufüh-
+rungsteils 202 und des Weichspülerzuführungsteils DE 10 2006 030 007 B4 2010.02.18 13/28 204 verriegelt und fixiert wird. [0172] Der Verriegelungsvorsprung 220 umfaßt ei-
+nen Bleichmittelzuführungsteil-Verriegelungsvor-
+sprung 222, der an einem unteren Oberflächenteil des Bleichmittelzuführungsteils 202 verriegelt und fi-
+xiert ist; und einen Weichspülerzuführungsteil-Verrie-
+gelungsvorsprung 224, der an einem unteren Ober-
+flächenteil des Weichspülerzuführungsteils 204 ver-
+riegelt und fixiert ist. [0173] Der Bleichmittelzuführungsteil-Verriege-
+lungsvorsprung 222 ist auf einer Seite des Weichspü-
+leransaugrohrs 219 vorgesehen, so daß er zum Zeit-
+punkt der Montage des Schubfachdeckels 210 in die Lücke zwischen den beabstandeten Wandteilen 206 und 207 eingesetzt wird, und ist in einem unteren Teil vorgesehen, so daß eine Verriegelungsbacke 226, die an dem unteren Oberflächenteil des Bleichmittel-
+zuführungsteils 202 nach oben verriegelt wird, nach vorne vorsteht. [0174] Der Bleichmittelzuführungsteil-Verriege-
+lungsvorsprung 222 ist fest an dem Nichtvorsprung-
+teil 206B mitten in dem hinteren Wandteil 206 des Bleichmittelzuführungsteils 202 befestigt. [0175] Der Weichspülerzuführungsteil-Verriege-
+lungsvorsprung 224 ist auf einer Seite des Bleichmit-
+telzuführungsrohrs 218 vorgesehen, so daß er zum Zeitpunkt der Montage des Schubfachdeckels 210 in die Lücke zwischen den beabstandeten Wandteilen 206 und 207 eingesetzt wird, und ist in einem unteren Teil vorgesehen, so daß eine Verriegelungsbacke 228, die an einem unteren Oberflächenteil des Weichspülerzuführungsteils 204 nach oben verriegelt wird, nach hinten vorsteht. [0176] Der Weichspülerzuführungsteil-Verriege-
+lungsvorsprung 224 ist fest an dem Vorsprungteil 207A mitten in dem vorderen Wandteil 207 des Weichspülerzuführungsteils 204 befestigt. [0177] In der Waschmittel-Zuführungsvorrichtung sind andere Bestandteile außer dem Bleichmit-
+tel/Weichspülerzuführungsteil 200 und dem Schub-
+fachdeckel 210 die gleichen wie die der ersten Aus-
+führungsform, und ihre detaillierten Beschreibungen werden daher weggelassen. [0178] Ein Verfahren zum Montieren des Schub-
+fachdeckels wird weiter unten beschrieben. [0179] Zuerst wird die Vorderpaneele 130 auf den Vorderteil 124 des Schubfachkörpers 120 montiert, und der Schubfachdeckel 210 wird auf den Bleichmit-
+tel/Weichspülerzuführungsteil 200 des Schubfach-
+körpers 120 montiert. [0180] Der Schubfachdeckel 210 geht nach unten und ist an dem Bleichmittelzuführungsteil 202 und dem Weichspülerzuführungsteil 204 des Bleichmit-
+tel/Weichspülerzuführungsteils 200 montiert. Die Bleichmittelansaugrohrkappe 218 bedeckt das Bleichmittelansaugrohr 203, und ebenso bedeckt die Weichspüleransaugrohrkappe 219 das Weichspüler-
+ansaugrohr 205. Außer dem Bleichmittelzuführungs-
+teil-Verriegelungsvorsprung 222 wird der Weich-
+spülerzuführungsteil-Verriegelungsvorsprung zwi-
+schen den Wandteilen 206 und 207 eingesetzt, die dem Bleichmittelzuführungsteil 202 und dem Weich-
+spülerzuführungsteil 204 gegenüberliegen. [0181] Der Bleichmittelzuführungsteil-Verriege-
+lungsvorsprung 222 wird in die Lücke zwischen den Wandteilen 206 und 207 eingesetzt und fest an dem hinteren Wandteil 206 des Bleichmittelzuführungs-
+teils 202 befestigt und geht von da nach unten. Die Verriegelungsbacke 226 wird nach oben an dem un-
+teren Oberflächenteil des Bleichmittelzuführungsteils 202 verriegelt. [0182] Der Weichspülerzuführungsteil-Verriege-
+lungsvorsprung 224 wird in die Lücke zwischen den Wandteilen 206 und 207 eingesetzt und fest an dem vorderen Wandteil 207 des Weichspülerzuführungs-
+teils 204 befestigt und geht von da nach unten. Die Verriegelungsbacke 228 wird nach oben an dem un-
+teren Oberflächenteil des Weichspülerzuführungs-
+teils 204 verriegelt. [0183] Der Weichspülerzuführungsteil-Verriege-
+lungsvorsprung 224 ist in der Lücke zwischen den beabstandeten Wandteilen 206 und 207 angeordnet und hat somit einen Aufbau, in dem er nach außen nicht freiliegt. Ein willkürliches Lösen des Schubfach-
+deckels 210 wird eingeschränkt, und die Verlustwahr-
+scheinlichkeit für den Schubfachdeckel 210 wird mi-
+nimiert. [0184] Der Schubfachdeckel 210 wird derart mon-
+tiert, daß die Verriegelungsvorsprünge 222 und 224 an den unteren Oberflächenteilen des Bleichmittelzu-
+führungsteils 202 und des Weichspülerzuführungs-
+teils 204 verriegelt werden. Auf diese Weise kann verhindert werden, daß der Schubfachdeckel 210, abhängig davon, ob der Bleichmittelzuführungs-
+teil-Verriegelungsvorsprung 222 und der Weich-
+spülerzuführungsteil-Verriegelungsvorsprung 224 verriegelt sind oder nicht, fehlerhaft montiert wird. [0185] Ein Verfahren zum Lösen des Schubfachde-
+ckels 210 von dem Schubfach 114 wird weiter unten beschrieben. [0186] In den hinteren Teil des Bleichmittel/Weich-
+spülerzuführungsteils 200 wird ein langes Werkzeug zwischen dem unteren Oberflächenteil des Weich-
+spülerzuführungsteils 204 und der unteren Oberflä-
+che 201 des Bleichmittel/Weichspülerzuführungsteils DE 10 2006 030 007 B4 2010.02.18 14/28 200 eingeführt und dann wird die Verriegelungsbacke 228 des Weichspülerzuführungsteil-Verriegelungs-
+vorsprungs 224 nach vorne gedrückt, so daß der Weichspülerzuführungsteil-Verriegelungsvorsprung 224 nicht in dem unteren Oberflächenteil des Weich-
+spülerzuführungsteils 204 verriegelt wird. Wenn der hintere horizontale Steg 217, der auf dem hinteren Oberflächenteil 216 des Schubfachdeckels 210 vor-
+gesehen ist, hochgehoben wird, ist der Bleichmittel-
+zuführungsteil-Verriegelungsvorsprung 222 nicht in dem unteren Oberflächenteil des Bleichmittelzufüh-
+rungsteils 202 verriegelt, da die Verriegelungsbacke 226 nach hinten hochgehoben wird. [0187] In einem Zustand, in dem der Bleichmittelzu-
+führungsteil-Verriegelungsvorsprung 222 und der Weichspülerzuführungsteil-Verriegelungsvorsprung 224 nicht verriegelt sind, wird der Schubfachdeckel 210 von dem Schubfach 114 gelöst, wenn der hintere horizontale Steg 217 und der vordere horizontale Steg 215 gegriffen und angehoben werden. [0188] Mit anderen Worten geht eine Arbeit zum vollständigen Lösen des Schubfachdeckels 114 aus der Öffnung 72A des Bedienfelds 72 voraus, und es ist unmöglich den Schubfachdeckel 210 zu lösen, bis ein getrenntes Werkzeug verwendet wird. [0189] Auswirkungen der weiter oben aufgebauten Waschmittelzuführungsvorrichtung der Waschma-
+schine gemäß der vorliegenden Erfindung werden weiter unten beschrieben. [0190] In der Waschmittelzuführungsvorrichtung der Waschmaschine gemäß der vorliegenden Erfindung gibt es den Vorteil, daß ein Schubfachdeckel vorge-
+sehen ist, wobei die Bleichmittelansaugrohrkappe das Bleichmittelansaugrohr bedeckt und die Weich-
+spüleransaugrohrkappe gleichzeitig das Weichspü-
+leransaugrohr bedeckt, wodurch die Anzahl von Tei-
+len minimiert wird, und wenn die Bleichmittelansaug-
+rohrkappe und die Weichspüleransaugrohrkappe ge-
+trennt vorgesehen werden, hat sie eine einfache Wartung und Handhabung. [0191] Es gibt den Vorteil, daß in dem Trennteil, der in den Bleichmittelzuführungsteil und den Weich-
+spülerzuführungsteil untergliedert, eine der rechten und linken Seiten nach vorne vorsteht und auch, daß das Bleichmittelansaugrohr und das Weichspüleran-
+saugrohr jeweils in der Nähe des hinteren Teils des Vorsprungteils und der Vorderseite des Nichtvor-
+sprungteils des Trennstegs vorgesehen sind, wo-
+durch ein Abstand zwischen der beabstandeten Bleichmittelansaugrohrkappe und der Weichspüler-
+ansaugrohrkappe ebenso wie ein Abstand des beab-
+standeten Bleichmittelansaugrohrs und des Weich-
+spüleransaugrohrs minimiert werden und auf diese Weise die Länge des Schubfachdeckels nach vorn und hinten minimiert wird. Da die Einführungsräume des Bleichmittelzuführungsteils und des Weich-
+spülerzuführungsteils relativ groß sind, können das Bleichmittel und der Weichspüler leicht in die Einfüh-
+rungsräume hineingegeben werden. [0192] Es gibt den Vorteil, daß das Schubfach zum Hineingeben all des Bleichmittels und des Weichspü-
+lers in den Bleichmittelzuführungsteil und den Weich-
+spülerzuführungsteil in seiner Schubbreite minimiert werden kann, wenn die Einführungsräume des Bleichmittelzuführungsteils und des Weichspülerzu-
+führungsteils vergrößert werden. [0193] Da der Schubfachdeckel in einer Form mon-
+tiert ist, in der er den Trennteil bedeckt, gibt es den Vorteil, daß die Einführungsräume des Bleichmittel-
+zuführungsteils und des Weichspülerzuführungsteils durch den Schubfachdeckel ausreichend beabstan-
+det sind, und somit ein Phänomen, bei dem das Bleichmittel oder der Weichspüler überlaufen oder fehlerhaft in einen anderen Zuführungsteil hineinge-
+geben werden, verhindert werden kann. [0194] Es gibt den Vorteil, daß das Schubfach mit dem Bleichmittelzuführungsteil und dem Weich-
+spülerzuführungsteil versehen ist, so daß sie beab-
+standet sind, und der Schubfachdeckel auch mit dem Verriegelungsvorsprung versehen ist, der in die Lü-
+cke des beabstandeten Bleichmittelzuführungsteils und des Weichspülerzuführungsteils eingesetzt wird und dann an dem unteren Oberflächenteil des Bleich-
+mittelzuführungsteils und dem unteren Oberflächen-
+teil des Weichspülerzuführungsteils verriegelt und fi-
+xiert wird, und auf diese Weise kann der Schubfach-
+deckel fest mit dem Schubfach kombiniert werden, und der Verriegelungsvorsprung liegt nach außen nicht frei, wodurch das willkürliche Lösen des Schub-
+fachdeckels verhindert wird und das fehlerhafte Mon-
+tieren des Schubfachdeckels durch den Verriege-
+lungsvorsprung verhindert wird. [0195] Wenn das willkürliche Lösen des Schubfach-
+deckels verhindert wird, gibt es den Vorteil, daß die Verlustgefahr für den Schubfachdeckel verringert wird, wodurch die Produktstabilität und Zuverlässig-
+keit sichergestellt wird und weitere Kosten, die es er-
+fordert, den Schubfachdeckel zu kaufen, verringert werden. [0196] Wenn die fehlerhafte Montage des Schub-
+fachdeckels verhindert wird, gibt es den Vorteil, daß das Ansaugrohr und die Ansaugrohrkappe genau montiert werden, wodurch verhindert wird, daß die Entleerungsleistung des Bleichmittels und des Weichspülers aufgrund einer unvollständigen Monta-
+ge des Ansaugrohrs und der Ansaugrohrkappe ver-
+ringert werden. [0197] Es ist offensichtlich, daß die auf diese Weise beschriebene Erfindung auf viele Arten verändert DE 10 2006 030 007 B4 2010.02.18 15/28 werden kann. Derartige Änderungen sollen nicht als eine Abweichung vom Geist und Schutzbereich der Erfindung betrachtet werden, und alle derartigen Än-
+derungen, die für jemanden mit Kenntnissen des Ge-
+biets offensichtlich wären, sollen in dem Schutzbe-
+reich der folgenden Patentansprüche enthalten sein. [0198] Mit anderen Worten verwendet der Trennteil verschiedene Strukturen, bei denen eine der linken und rechten Seiten nach vorne vorsteht. Der Trenn-
+teil kann derart vorgesehen sein, daß er in eine 'S'-Form oder eine 'W'-Form gebogen ist oder daß er in eine '/'-Form geneigt ist. Patentansprüche 1. Waschmittelzuführungsvorrichtung für eine Waschmaschine, die ein Schubfach (120) mit mehre-
+ren Zuführungsteilen aufweist, wobei die Zuführungs-
+teile ein Ansaugrohr aufweisen, dadurch gekenn-
+zeichnet, daß das Schubfach (120) ein Bleichmittel-
+zuführungsteil (172, 202), der mit einem Bleichmit-
+telansaugrohr (173, 203) versehen ist, und ein Weichspülerzuführungsteil (174, 204) aufweist, der mit einem Weichspüleransaugrohr (175, 205) verse-
+hen ist, und daß die Waschmittelzuführungsvorrich-
+tung einen Schubfachdeckel (140, 210) aufweist, der mit einer Bleichmittelansaugrohrkappe (148, 218), die das Bleichmittelansaugrohr (173, 203) bedeckt, zusammen mit einer Weichspüleransaugrohrkappe (149, 219), die das Weichspüleransaugrohr (175, 205) bedeckt, versehen ist. 2. Vorrichtung nach Anspruch 1, wobei das Schubfach (120) durch einen Trennteil (176) unter-
+gliedert ist und als ein Bleichmittelzuführungsteil (172) und ein Weichspülerzuführungsteil (174) bereit-
+gestellt wird. 3. Vorrichtung nach Anspruch 2, wobei der Trennteil (176) in einem Abschnitt vorgesehen ist, der zum Zeitpunkt, wenn das Schubfach (120) gezogen wird, geöffnet ist. 4. Vorrichtung nach Anspruch 2, wobei in dem Trennteil (176) ein Teil (176A) nach vorne vorsteht. 5. Vorrichtung nach Anspruch 4, wobei in dem Trennteil (176) ein Verbindungsteil (176C) zwischen einem Vorsprungteil (176A) und einem Nichtvor-
+sprungteil (176B) vorgesehen ist, und das Bleichmit-
+telansaugrohr (173) und das Weichspüleransaugrohr (175) in der Nähe des Verbindungsteils (176C) etwa nach links und rechts beabstandet sind, wobei der Verbindungsteil (176C) zwischen ihnen angeordnet ist. 6. Vorrichtung nach Anspruch 2, wobei der Schubfachdeckel (140) aufweist: einen oberen Oberflächenteil (142), der auf einer Oberseite des Trennteils (176) angeordnet ist; einen vorderen Oberflächenteil (144), der in einem Vorderteil des oberen Oberflächenteils (142) nach unten vorgesehen ist vor dem Trennteil (176) ange-
+ordnet ist; und einen hinteren Oberflächenteil (146), der in einem hinteren Teil des oberen Oberflächenteils (142) nach unten vorgesehen ist und hinter dem Trennteil (176) angeordnet ist. 7. Vorrichtung nach einem der Ansprüche 1 bis 6, wobei der Bleichmittelzuführungsteil (202) und der Weichspülerzuführungsteil (204) voneinander beab-
+standet sind. 8. Vorrichtung nach Anspruch 7, wobei in dem Bleichmittelzuführungsteil (202) und dem Weich-
+spülerzuführungsteil (204), jeweils Teile (206A, 207A) gegenüberliegender Wandteile (206, 207) nach vorne vorstehen. 9. Vorrichtung nach Anspruch 8, wobei in dem Bleichmittelzuführungsteil (202) und dem Weich-
+spülerzuführungsteil (204) zwischen den Vorsprung-
+teilen (206A, 207A) und den Nichtvorsprungteilen (206B, 207B) der gegenüberliegenden Wandteile (206, 207) jeweils Verbindungsteile (206C, 207C) vorgesehen sind, und das Bleichmittelansaugrohr (203) und das Weichspü-
+leransaugrohr (205) jeweils an Seiten der Verbin-
+dungsteile (206C, 207C) vorgesehen sind. 10. Vorrichtung nach Anspruch 9, wobei in dem Bleichmittelzuführungsteil (202) und dem Weich-
+spülerzuführungsteil (204) der Vorsprungteil (207A) in einem (207) oder beiden auf einer Seite des Ver-
+bindungsteils (206C) des anderen (206) angeordnet ist. 11. Vorrichtung nach Anspruch 7, wobei der Schubfachdeckel (210) aufweist: einen oberen Oberflächenteil (212), der auf oberen Seiten von gegenüberliegenden Wandteilen (206, 207) des Weichspülerzuführungsteils (204) und des Bleichmittelzuführungsteils (202) angeordnet ist; einen vorderen Oberflächenteil (214), der in einem Vorderteil des oberen Oberflächenteils (212) nach unten vorgesehen ist; und einen hinteren Oberflächenteil (216), der in einem hinteren Teil des oberen Oberflächenteils (212) nach unten vorgesehen ist. 12. Vorrichtung nach Anspruch 7, wobei der Schubfachdeckel (210) vorstehend mit einem Verrie-
+gelungsvorsprung (220) versehen ist, der in eine Lü-
+cke zwischen dem Bleichmittelzuführungsteil (202) und dem Weichspülerzuführungsteil (204) eingesetzt ist und an einem unteren Oberflächenteil des Bleich-
+mittelzuführungsteils (202) und/oder des Weich-
+spülerzuführungsteils (204) verriegelt ist. DE 10 2006 030 007 B4 2010.02.18 16/28 13. Vorrichtung nach Anspruch 12, wobei der Verriegelungsvorsprung (220) aufweist: einen Bleichmittelzuführungsteil-Verriegelungsvor-
+sprung (224), der an einem Unterteil mit einer Verrie-
+gelungsbacke (228) versehen ist, die nach oben in ei-
+nem unteren Oberflächenteil des Bleichmittelzufüh-
+rungsteils (202) verriegelt wird; und einen Weichspülerzuführungsteil-Verriegelungsvor-
+sprung (222), der an einem Unterteil mit einer Verrie-
+gelungsbacke (226) versehen ist, die in einem unte-
+ren Oberflächenteil des Weichspülerzuführungsteils (204) verriegelt wird. 14. Vorrichtung nach Anspruch 5 oder 11, wobei am Schubfachdeckel (140, 210) die Bleichmittelan-
+saugrohrkappe (148, 218) und die Weichspüleran-
+saugrohrkappe (149, 219) auf unteren Oberflächen der oberen Oberflächenteile (142, 212) nach unten vorstehen. 15. Vorrichtung nach Anspruch 5 oder 11, wobei horizontale Stege (145, 215) auf mindestens einem der vorderen Oberflächenteile (144, 214) und der hin-
+teren Oberflächenteile (146, 216) vorstehen. Es folgen 12 Blatt Zeichnungen DE 10 2006 030 007 B4 2010.02.18 17/28 Anhängende Zeichnungen DE 10 2006 030 007 B4 2010.02.18 18/28 DE 10 2006 030 007 B4 2010.02.18 19/28 DE 10 2006 030 007 B4 2010.02.18 20/28 DE 10 2006 030 007 B4 2010.02.18 21/28 DE 10 2006 030 007 B4 2010.02.18 22/28 DE 10 2006 030 007 B4 2010.02.18 23/28 DE 10 2006 030 007 B4 2010.02.18 24/28 DE 10 2006 030 007 B4 2010.02.18 25/28 DE 10 2006 030 007 B4 2010.02.18 26/28 DE 10 2006 030 007 B4 2010.02.18 27/28 DE 10 2006 030 007 B4 2010.02.18 28/28
+
+(19) *DE102012112512A120140306* (10) DE 10 2012 112 512 A1 2014.03.06 (12) Offenlegungsschrift (21) Aktenzeichen: 10 2012 112 512.0 (22) Anmeldetag: 18.12.2012 (43) Offenlegungstag: 06.03.2014 (51) Int Cl.: E05B 83/24 (2014.01) (30) Unionspriorität: 10-2012-0098188 05.09.2012 KR (71) Anmelder: Hyundai Motor Company, Seoul, KR; Kia Motors Corp., Seoul, KR (74) Vertreter: Viering, Jentschura & Partner, 81675, München, DE (72) Erfinder: Kim, Sang II, Hwaseong, Kyonggi, KR; Jung, Chung Hwa, Hwaseong, Kyonggi, KR; Ha, Chang Gi, Hwaseong, Kyonggi, KR; Ahn, Ki Ryun, Daegu, KR; Tak, Mun Bae, Daegu, KR Die folgenden Angaben sind den vom Anmelder eingereichten Unterlagen entnommen (54) Bezeichnung: Zwei-Stufen-Verbindungsglied-Motorhaubenverriegelungsvorrichtung für ein Fahrzeug (57) Zusammenfassung: Eine Zwei-Stufen-Verbindungs-
+glied-Motorhaubenverriegelungsvorrichtung für ein Fahr-
+zeug, welche es ermöglicht, eine Motorhaube lediglich mit der Betätigung eines Entriegelungsgriffs innerhalb eines Fahrzeugs zu öffnen. Die Vorrichtung weist eine Klaue (13), eine Klinke (16), ein Drehelement (19) und ein Verbindungs-
+glied (20) auf. Die Klaue (13) ist an einer Basisplatte (10) angebracht, um schwenkbar zu sein, hält einen Motorhau-
+benschließbügel (12) mittels einer Halte-Nut (13b) zurück und wird von der Klinke (16) durch ein erstes Halte-Ende (13c) und ein zweites Halte-Ende (13d) in einem Erste-Stu-
+fe-Verriegelungszustand und einem Zweite-Stufe-Verriege-
+lungszustand gehalten. Die Klinke (16) ist an der Basisplat-
+te (10) angebracht, um schwenkbar zu sein, und verhindert die Rotation der Klaue (13) unter Verwendung des Halte-
+Vorsprungs (16a) stufenweise. Das Drehelement (19) ist in einer Gelenkstruktur an der Basisplatte (10) angebracht, um drehbar zu sein, und überträgt eine Zugkraft, welche von dem Entriegelungsgriff erzeugt wird. Das Verbindungsglied (20) verbindet das Drehelement (19) und die Klinke (16) und schwenkt die Klinke (16) in Verbindung mit dem Drehele-
+ment (19). DE 10 2012 112 512 A1 2014.03.06 2/25 Beschreibung Hintergrund der Erfindung Gebiet der Erfindung [0001] Die vorliegende Erfindung betrifft ei-
+ne Zwei-Stufen-Verbindungsglied-Motorhaubenver-
+riegelungsvorrichtung für ein Fahrzeug (z. B. ein Kraftfahrzeug, z. B. ein Automobil), welche eine Mo-
+torhaube lediglich durch eine Bedienung/Betätigung im (Fahrzeug-)Innenraum öffnet. Beschreibung der bezogenen Technik [0002] Fahrzeuge wurden als ein reines Transport-
+mittel oder Beförderungsmittel angesehen und ent-
+wickelt. Aufgrund der diversen Kundenwünsche wur-
+de jedoch der technologische Wettbewerb zwischen den Fahrzeugherstellern intensiver, um so die zahl-
+reichen Anforderungen zu erfüllen. [0003] Kürzlich haben sich Fahrzeuge dadurch wei-
+ter entwickelt, dass mehr Aufmerksamkeit auf den Komfort und die Funktionen eines Fahrzeugs gelegt wurden, als auf sein Erscheinungsbild und seine Ge-
+staltung, indem Steuerungs-und Komfortvorrichtun-
+gen entwickelt wurden, um den Fahrern mehr Kom-
+fort bzw. Bequemlichkeit bzw. Annehmlichkeiten zu bieten. [0004] Eine Zwei-Stufen-Verbindungsglied-Motor-
+haubenverriegelungsvorrichtung wurde entwickelt, um eine überlegenere Produktkonkurrenzfähigkeit als Produkte anderer Firmen auf dem Weltmarkt so-
+wie auf dem Binnenmarkt zu haben. [0005] Da im Allgemeinen bei Verwendung einer Sicherheitsmotorhaube eine Motorhaube eine Zwei-
+Stufen-Verriegelungsstruktur hat, wird eine Erste-
+Stufe-Arretierung durch eine Seilbetätigung aufge-
+hoben bzw. gelöst, wenn ein Entriegelungshebel bzw. Auslösehebel innerhalb eines Fahrzeugs betä-
+tigt wird, um eine verriegelte Motorhaube zu entrie-
+geln, und dann wird eine Zweite-Stufe-Sicherheits-
+vorrichtung für die Haubenbetätigung bzw. Haube-
+nentriegelung vorbereitet, um die Motorhaube mit ei-
+ner Entriegelung (bzw. Betätigung) eines Sicherheits-
+hebels zu öffnen, nachdem ein vor der Front des Fahrzeugs stehender Nutzer mit seiner Hand in einen Motorraum gegriffen hat. [0006] Dies dient dazu, Fahrzeugsicherheitsvor-
+schriften zu erfüllen. Folglich muss eine feste bzw. stabile Haubenverriegelungsvorrichtung an der Mo-
+torhaube eines Fahrzeugs angebracht sein, und au-
+ßerdem ist das Fahrzeug mit einer Motorhauben-
+struktur, bei welcher die Motorhaube vorne geöffnet/ geschlossen wird und welche die Sicht eines Fahrers beeinträchtigt, wenn die Motorhaube bei der Fahrt ge- öffnet wird, mit einer zweistufigen Verriegelung-oder Zwei-Punkte-Verriegelungs-Struktur eingerichtet. [0007] Fig. 1 ist eine Ansicht eines Betriebsverhal-
+tens eines Verfahrens zur Entriegelung einer typi-
+schen Motorhaubenverriegelungsvorrichtung. Wie in der ersten Zeichnung gezeigt, ist in dem Anfangszu-
+stand ein Schließbügel 5 mittels einer Klaus 1 und ei-
+nes Hakens 2 doppelt verriegelt. [0008] Wenn ein Fahrer einen Entriegelungshebel bzw. Auslösehebel betätigt, welcher an dem Fahrer-
+sitz im Innenraum angeordnet ist, dann wird, wie in der zweiten Zeichnung gezeigt, eine Klinke 4 in die Pfeilrichtung der zweiten Zeichnung (weg)gezo-
+gen und schwenkt (aus), so dass die Rückhaltekraft, welche auf die Klaue 1 wirkt, aufgehoben bzw. gelöst wird. [0009] Wenn die Klaus 1 dann, wie in der drit-
+ten Zeichnung gezeigt, schwenkt, dann verlässt der Schließbügel 5 eine Einsetznut 1a der Klaus 1, und folglich wird die Motorhaube leicht angehoben, da ein erster Verriegelt-Zustand in einen ersten Offen-Zu-
+stand übergeht. [0010] Wenn ein Fahrer aus dem Fahrzeug aussteigt und dann mit der Hand in die zuvor geöffnete Mo-
+torhaube bzw. darunter hinein greift und den Sicher-
+heitshebel 3 in die in der vierten Zeichnung gezeigte Pfeilrichtung drückt, dann schwenkt der Haken 2, wel-
+cher mit dem Sicherheitshebel 3 verbunden ist, wie in der Zeichnung dargestellt ist, aus, und die Rückhal-
+tekraft, welche den Schließbügel 5 hält, wird aufge-
+hoben bzw. gelöst, so dass die Motorhaube von ei-
+nem zweiten Verriegelt-Zustand in einen zweiten Of-
+fen-Zustand übergeht. [0011] Wenn ein Fahrer versucht die Motorhaube zu öffnen, dann ist es jedoch lästig und unangenehm für den Fahrer, den Entriegelungs-bzw. Auslösehebel innerhalb des Fahrzeugs zu betätigen, um die erste Verriegelung zu entriegeln, und dann aus dem Fahr-
+zeug auszusteigen, um mit der Hand in die Motorhau-
+be bzw. unter die Motorhaube hinein zu greifen und den Sicherheitshebel 3 zu betätigen. [0012] Wenn ein Fahrer den Entriegelungs-bzw. Auslösehebel betätigt, dann wird ferner die Bewe-
+gung der Klinke 4 mittels eines Seils direkt an den Fahrer weitergegeben, so dass die Betätigung (bzw. Betätigbarkeit) schlecht ist. [0013] Die Informationen, welche in dem Abschnitt "Hintergrund der Erfindung" offenbart sind, dienen le-
+diglich zum besseren Verständnis des allgemeinen Hintergrundes der Erfindung und sollten nicht als Zu-
+geständnis oder als irgendeine Andeutung angese-
+hen werden, dass diese Informationen zum Stand der DE 10 2012 112 512 A1 2014.03.06 3/25 Technik, wie er dem Fachmann (schon) bekannt ist, gehören. Erläuterung der Erfindung [0014] Die vorliegende Erfindung schafft ei-
+ne Zwei-Stufen-Verbindungsglied-Motorhaubenver-
+riegelungsvorrichtung für ein Fahrzeug, in welcher ein erstes Halte-Ende und ein zweites Halte-Ende einer Klaue eingerichtet sind, um von einem Halte-
+Vorsprung einer Klinke (bzw. einer Raste) gehalten zu werden, wobei die Betätigung (d. h. eine Zug-
+kraft), welche an einem Entriegelungs-bzw. Auslö-
+segriffs hervorgerufen wird, von einem Seil an die Klinke mittels eines Drehelements und eines Ver-
+bindungsglieds weitergegeben wird, der Hub des Verbindungsglieds mittels eines Erste-Stufe-Schlit-
+zes und eines Zweite-Stufe-Schlitzes, welche eine U-Form bilden und an der Klinke ausgebildet sind, eingestellt ist und in welcher die Rotation der Klaue in zwei Stufen (bzw. Schritten) mittels einer zweistu-
+figen Betätigung des Entriegelungs-bzw. Auslöse-
+griffs eingestellt ist. Folglich wird die Motorhaube le-
+diglich durch eine Bedienung im Innenraum geöffnet, eine vorbestimmte Betätigung ist eingebaut und das unangenehme Eingreifen in einen Motorraum mit der Hand, um eine vorhandene Motorhaube zu öffnen, wird verbessert. [0015] Zahlreiche Aspekte der vorliegenden Erfin-
+dung schaffen eine Zwei-Stufen-Verbindungsglied-
+Motorhaubenverriegelungsvorrichtung für ein Fahr-
+zeug, welche es ermöglicht, eine Motorhaube ledig-
+lich mit der Betätigung eines Entriegelungs-bzw. Auslösegriffs innerhalb eines Fahrzeugs zu öffnen, wobei die Vorrichtung aufweist: eine Klaue, wel-
+che an einer Basisplatte angebracht ist, um drehbar bzw. schwenkbar zu sein, welche einen Motorhau-
+benschließbügel mittels einer Halte-Nut (zurück) hält und welche von einer Klinke (z. B. einen Sperrhe-
+bel, z. B. einer Raste) durch ein erstes Halte-Ende und ein zweites Halte-Ende in einem Erste-Stufe-Ver-
+riegelungszustand und einem Zweite-Stufe-Verriege-
+lungszustand (zurück) gehalten wird, wobei die Klin-
+ke an der Basisplatte angebracht ist, um drehbar bzw. schwenkbar zu sein, und die Rotation der Klaue un-
+ter Verwendung des Halte-Vorsprungs in Stufen (z. B. stufenweise) verhindert bzw. aufhält, ein Drehele-
+ment (z. B. einen Dreh-Arm, z. B. einen Drehhebel), welches an der Basisplatte angebracht ist, um in ei-
+ner Gelenkstruktur drehbar zu sein, und welches eine Zugkraft, welche von dem Entriegelungs-bzw. Auslö-
+segriff erzeugt wird, überträgt, und ein Verbindungs-
+glied, welches das Drehelement und die Klinke ver-
+bindet und die Klinke in Verbindung mit (bzw. zusam-
+men mit) dem Drehelement schwenkt bzw. dreht. [0016] Die Klinke kann mit dem Verbindungsglied unter Verwendung einer Funktionsachse (z. B. ei-
+ner Rotationsachse) als ein (Verbindungs-)Mittel ver- bunden sein und kann einen Erste-Stufe-Schlitz und einen Zweite-Stufe-Schlitz, welche in einem vor-
+bestimmten vertikalen Abstand voneinander ausge-
+bildet sind, zur Verbindung mit der Funktionsach-
+se und einen Verbindungsschlitz aufweisen, wel-
+cher den Erste-Stufe-Schlitz und den Zweite-Stufe-
+Schlitz verbindet, und wobei, wenn die Motorhaube von einem Erste-Stufe-Verriegelungszustand in ei-
+nen Zweite-Stufe-Verriegelungszustand oder von ei-
+nem Erste-Stufe-Öffnungszustand in einen Zweite-
+Stufe-Öffnungszustand übergeht, sich die Funktions-
+achse mittels des bzw. über den Verbindungsschlitz von dem Erste-Stufe-Schlitz hin zu dem Zweite-Stu-
+fe-Schlitz oder von dem Zweite-Stufe-Schlitz hin zu dem Erste-Stufe-Schlitz bewegt. [0017] Die Klinke kann einen Erste-Stufe-Schlitz und einen Zweite-Stufe-Schlitz an dem Verbindungsteil, welcher mit dem Verbindungsglied verbunden ist, aufweisen. Die Drehung der Klinke kann eingestellt bzw. angepasst werden, indem der Hub bzw. der Weg des Verbindungsglieds durch die Länge des Erste-Stufe-Schlitzes und des Zweite-Stufe-Schlitzes eingestellt wird. [0018] Das Verbindungsglied kann mit dem Drehele-
+ment unter Verwendung einer dritten Rotationsachse als ein (Verbindungs-)Mittel verbunden sein und kann die Drehbewegung des Drehelements in die horizon-
+tale Linearbewegung, um die Klinke zu betätigen, um-
+wandeln. [0019] Das Verbindungsglied kann eine Verbin-
+dungsglied-Nut (z. B. eine Verbindungsglied-Ausneh-
+mung) aufweisen, welche konkav an/in der oberen Fläche (des Verbindungsglieds) mit einer gleichmä-
+ßigen Krümmung ausgebildet ist. Die Klaue kann ein kreisförmiges Verbindungsgliedrückhaltelement auf-
+weisen. Das Verbindungsgliedrückhaltelement kann die Verbindungsglied-Nut berühren, um das Verbin-
+dungsglied zurückzuhalten bzw. dessen Bewegung zu verhindern. [0020] Das Verbindungsglied kann eine dritte Feder aufweisen, welche an dem Verbindungsteil mit dem Drehelement angeordnet ist, und kann die Funktions-
+achse des Verbindungsglieds unter Verwendung der dritten Feder von dem Erste-Stufe-Schlitz hin zu dem Zweite-Stufe-Schlitz bewegen. [0021] Die Verfahren und Vorrichtungen der vorlie-
+genden Erfindung haben andere Eigenschaften und Vorteile, welche aus den beiliegenden Zeichnungen, die hierin aufgenommen sind, und der folgenden de-
+taillierten Beschreibung, die zusammen dazu dienen bestimmte Grundsätze der vorliegenden Erfindung zu erklären, deutlich werden oder darin detaillierter ausgeführt werden. DE 10 2012 112 512 A1 2014.03.06 4/25 Kurze Beschreibung der Zeichnungen [0022] Fig. 1 ist eine Ansicht, welche einen Ablauf der Entriegelung einer typischen Motorhaubenverrie-
+gelungsvorrichtung zeigt. [0023] Fig. 2 ist eine Ansicht, welche eine Bau-
+form einer beispielhaften Zwei-Stufen-Verbindungs-
+glied-Motorhaubenverriegelungsvorrichtung gemäß der vorliegenden Erfindung zeigt. [0024] Fig. 3 bis Fig. 16 sind Ansichten, welche ein Betriebsverhalten beim Öffnen der Motorhaube einer beispielhaften Zwei-Stufen-Verbindungsglied-Motor-
+haubenverriegelungsvorrichtung gemäß der vorlie-
+genden Erfindung in Fig. 2 zeigen. [0025] Es sollte klar sein, dass die angehängten Zeichnungen nicht notwendigerweise maßstabsge-
+treu sind und eine etwas vereinfachte Darstellungs-
+weise von verschiedenen Eigenschaften darstellen, um die Grundprinzipien der Erfindung aufzuzeigen. Die spezifischen Konstruktionsmerkmale der vorlie-
+genden Erfindung, unter anderem z. B. konkrete Abmessungen, Richtungen, Positionen und Formen, wie sie hierin offenbart sind, werden teilweise von der jeweiligen geplanten Anwendung und Nutzungsum-
+gebung vorgegeben. [0026] In allen Zeichnungen beziehen sich die glei-
+chen Bezugszeichen auf gleiche oder gleichwertige Bauteile der vorliegenden Erfindung. Detaillierte Beschreibung [0027] Es wird nun im Detail Bezug auf verschie-
+dene Ausführungsformen der vorliegenden Erfindung genommen, von denen Beispiele in den beigefügten Zeichnungen dargestellt und im Folgenden beschrie-
+ben werden. Obwohl die Erfindung in Verbindung mit den beispielhaften Ausführungsformen beschrieben wird, ist es klar, dass die vorliegende Beschreibung nicht dazu gedacht ist, die Erfindung auf diese bei-
+spielhaften Ausführungsformen zu beschränken. Die Erfindung ist im Gegenteil dazu gedacht, nicht nur die beispielhaften Ausführungsformen abzudecken, sondern auch diverse Alternativen, Änderungen, Ab-
+wandlungen und andere Ausführungsformen, die im Sinn und Umfang der Erfindung, wie durch die an-
+gehängten Ansprüchen definiert, enthalten sein kön-
+nen. [0028] Es ist zu verstehen, dass die Begriffe "Fahr-
+zeug" oder "Fahrzeug-..." oder irgendein ähnlicher Begriff, welcher hier verwendet wird, Kraftfahrzeuge im Allgemeinen einschließt wie z. B. Personenkraft-
+fahrzeuge, einschließlich sogenannter Sportnutzfahr-
+zeuge (SUV), Busse, Lastwagen, zahlreiche kom-
+merzielle Fahrzeuge, sowie z. B. Wasserfahrzeuge, einschließlich einer Vielzahl an Booten und Schif- fen, sowie auch z. B. Flugzeuge und dergleichen, und ferner auch Hybridfahrzeuge, elektrische Fahr-
+zeuge, Plug-in Hybdidfahrzeuge, wasserstoffbetrie-
+bene Fahrzeuge und andere Fahrzeuge für alternati-
+ve Treibstoffe (z. B. Treibstoffe, welche aus anderen Ressourcen als Erdöl hergestellt werden). Ein soge-
+nanntes Hybridfahrzug, auf welches hier Bezug ge-
+nommen wird, ist ein Fahrzeug, das zwei oder mehr Energiequellen hat, z. B. Fahrzeuge, welche sowie mit Benzin als auch elektrisch betrieben werden. [0029] Fig. 2 ist eine Ansicht, welche eine Bauform einer Zwei-Stufen-Verbindungsglied-Motorhauben-
+verriegelungsvorrichtung gemäß zahlreichen Ausfüh-
+rungsformen der vorliegenden Erfindung zeigt. [0030] Die vorliegende Erfindung betrifft eine Bau-
+form einer Zwei-Stufen-Verbindungsglied-Motorhau-
+benverriegelungsvorrichtung, welche eine Zwei-Stu-
+fen-Verriegelungsfunktion an einer Motorhaubenver-
+riegelung selbst durchführt, um die Marktfähigkeit bzw. Absatzfähigkeit zu verbessern. [0031] Bei der Zwei-Stufen-Verbindungsglied-Mo-
+torhaubenverriegelungsvorrichtung kann der Fahrer einen Entriegelungsgriff bzw. Auslösegriff innerhalb des Fahrzeugs zweimal betätigen, um die Motorhau-
+be in zwei Stufen bzw. Schritten zu öffnen, so dass beim Öffnen der Motorhaube durch den Fahrer das lästige Betätigen eines Sicherheitshebels außerhalb des Fahrzeugs verbessert werden kann. [0032] Zu diesem Zweck kann die Zwei-Stufen-Ver-
+bindungsglied-
+Motorhaubenverriegelungsvorrichtung gemäß zahl-
+reichen Ausführungsformen der vorliegenden Erfin-
+dung eine Basisplatte 10, eine Klinke (z. B. einen Sperrhebel, z. B. eine Raste) 16, eine Klaue 13, ein Verbindungsglied 20 und ein Drehelement (z. B. ei-
+nen Dreh-Arm, z. B. einen Drehhebel) 19 aufweisen. [0033] Die Basisplatte 10 kann vertikal an dem Kör-
+pervorderteil (z. B. eines Fahrzeugs) installiert sein, und eine Einsetznut 11 kann direkt unterhalb des obe-
+ren Zentrums der Basisplatte 10 ausgebildet sein. Wenn die Motorhaube geschlossen wird, dann kann ein Motorhaubenschließbügel 12 in die Einsetznut 11 eingebracht werden, und wenn die Motorhaube ge-
+öffnet wird, dann kann sich der Motorhaubenschließ-
+bügel 12 aus der Einsetznut 11 herausbewegen. [0034] Die Klaus 13 kann mit einer ersten Rotations-
+achse 14, welche an der rechten Seite der Basis-
+platte 10 installiert ist, gelenkig verbunden sein und kann folglich an der Basisplatte 10 drehbar ange-
+bracht sein. Die Klaus 13 kann mittels einer ersten Feder 15, welche an der ersten Rotationsachse 14 installiert ist, elastisch so gestützt sein, dass sie in die Anfangsposition zurückkehren kann. DE 10 2012 112 512 A1 2014.03.06 5/25 [0035] In diesem Fall kann ein Endteil der ersten Feder 15 an einem Fixiervorsprung 13a fixiert sein, welcher an einer Seite des oberen Teils der Klaus 13 ausgebildet ist, und der andere Endteil der ers-
+ten Feder 15 kann an der Basisplatte 10 fixiert sein. Wenn die Motorhaube geschlossen wird, dann kann folglich die Klaus 13 nach unten schwenken, da die Kraft des Motorhaubenschießbügels 12 auf sie auf-
+gebracht wird, und wenn die Motorhaube geöffnet wird, dann kann die Klaus 13 aufgrund der elasti-
+schen Rückstellkraft nach oben schwenken, da die Rückhaltekraft der Klinke 16 aufgehoben bzw. gelöst wird, und folglich kann sich der Motorhaubenschließ-
+bügel 12 nach oben bewegen. [0036] Die Klaue 13 weist eine Halt-Nut 13b an der rechten Seite bezüglich des oberen rechten End-
+teils der Basisplatte 10 auf. Wenn der Motorhauben-
+schließbügel 12 in die Halte-Nut 13b eingesetzt ist, dann kann der Geschlossen-Zustand der Motorhau-
+be aufrechterhalten werden, und, wenn sich der Mo-
+torhaubenschließbügel 12 aus der Halte-Nut 13b her-
+aus bewegt, dann kann die Motorhaube gehöffnet werden. [0037] Die Klaue 13 kann ein erstes Halte-Ende 13c, welches von der linken Mitte vorsteht, und ein zwei-
+tes Halte-Ende 13d aufweisen, welches darunter vor-
+steht. Wenn die Motorhaube geöffnet wird, dann kön-
+nen das erste Halte-Ende 13c und das zweite Hal-
+te-Ende 13d nacheinander durch den bzw. durch ei-
+nen Halte-Vorsprung 16a aufgehalten bzw. abgefan-
+gen werden, so dass die Rotation (bzw. die Schwenk-
+bewegung) der Klaue 13 in zwei Stufen bzw. zweistu-
+fig verhindert bzw. aufgehalten wird. [0038] Die Klinke 16 kann einen Halte-Vorsprung 16a aufweisen, welcher von/an der rechten Mitte vor-
+steht. Folglich können das erste Halte-Ende 13c und das zweite Halte-Ende 13d durch den Halte-Vor-
+sprung 16a aufgehalten bzw. abgefangen werden, wodurch die Rotation (bzw. die Schwenkbewegung) der Klaue 13 verhindert bzw. aufgehalten wird. [0039] Zusätzlich kann der obere Teil der Klinke 16 mit einer zweiten Rotationsachse 17, welche an der linken Seite der Basisplatte 10 installiert ist, gelen-
+kig verbunden sein, und folglich kann der untere Teil der Klinke 16 an der Basisplatte 10 drehbar/schwenk-
+bar (angebracht) sein. Die Klinke 16 kann durch eine zweite Feder 18, welche an der zweiten Rotations-
+achse 17 installiert ist, elastisch so gestützt sein, dass sie in die Anfangsposition zurückkehren kann. [0040] In diesem Fall, kann ein Endteil der zweiten Feder 18 an einem Fixiervorsprung 16b, welcher an dem oberen Teil der Klinke 16 ausgebildet ist, fixiert sein, und der andere Endteil der zweiten Feder 18 kann an der Basisplatte 10 fixiert sein. Wenn die Mo-
+torhaube geöffnet wird, dann kann folglich der untere Teil der Klinke 16 nach links schwenken, da die Klinke 16 von dem Verbindungsglied 20 mit einer Kraft be-
+aufschlagt wird, und, wenn die auf die Klinke 16 wir-
+kende Kraft des Verbindungsglieds 20 aufgehoben wird, dann kann sie in die ursprüngliche Position zu-
+rückkehren. [0041] Die vorliegende Erfindung kann ferner ein Drehelement (z. B. einen Dreh-Arm, z. B. einen Dreh-
+hebel) 19 und ein Verbindungsglied 20 aufweisen, welche an der Basisplatte 10 installiert sind, um die Motorhaube durch zweifaches Betätigen des Entrie-
+gelungsgriffs innerhalb des Fahrzeugs zu öffnen. [0042] Das Drehelement 19 kann eine Stab-Form haben, bei welcher die Höhe größer ist als die Breite, kann ein Verbindungsloch 19a an dem unteren Teil des Stabs aufweisen und kann mittels des Verbin-
+dungslochs 19a mit einem Seil verbunden sein. Das Seil kann mit dem Entriegelungshebel innerhalb ei-
+nes Fahrzeugs verbunden sein, um das Drehelement 19 und den Entriegelungshebel zu verbinden. [0043] Der zentrale Teil des Drehelements 19 kann mit einer Drehachse 19b, welche an der Basisplatte installiert ist, gelenkig verbunden sein, und der obe-
+re Teil und der untere Teil des Drehelements 19 kön-
+nen auf Basis des Zentrums der Drehachse 19b nach links und nach rechts drehbar sein. [0044] Das Verbindungsglied 20 kann das Drehele-
+ment 19 und die Klinke 16 horizontal (z. B. in horizon-
+taler Richtung) verbinden, und folglich kann das Ver-
+bindungsglied 20 die Kraft von dem Entriegelungshe-
+bel mittels des Drehelements 19 an die Klinke 16 wei-
+tergeben. [0045] Der rechte Endteil des Verbindungsglieds 20 kann mit einer dritten Rotationsachse 21 an dem obe-
+ren Teil des Drehelements 19 verbunden sein, und der linke Endteil des Verbindungsglieds 20 kann mit einer Funktionsachse (z. B. einer Rotationsachse) 20b an dem unteren Teil der Klinke 16 verbunden sein, wodurch die Klinke 16 mittels der Kraft, welche durch das Drehelement 19 weitergegeben wird, ge-
+dreht/geschwenkt und bewegt wird. [0046] Eine dritte Feder 22 kann an der dritten Ro-
+tationsachse 21, welche mit dem Verbindungsglied 20 und dem Drehelement 19 verbunden ist, installiert sein. Ein Endteil der dritten Feder 22 kann an dem Verbindungsglied 20 fixiert sein, und der andere End-
+teil der dritten Feder 22 kann an dem Drehelement 19 fixiert sein. Wenn beim Öffnen der Motorhaube das Verbindungsglied 20 mittels des Drehelements 19 mit einer Kraft beaufschlagt wird und sich horizon-
+tal nach links bewegt, dann kann es die Klinke 16 schwenken. Wenn der Entriegelungsgriff gelöst wird (z. B. nicht (mehr) betätigt wird), dann können außer-
+dem das Verbindungsglied 20 und das Drehelement DE 10 2012 112 512 A1 2014.03.06 6/25 19 in die Anfangspositionen zurückkehren, und das Verbindungsglied 20 kann sich aufgrund der elasti-
+schen Rückstellkraft der dritten Feder 22 nach oben bewegen. Das bedeutet, dass dadurch ein Erste-Stu-
+fe-Verriegelungszustand in einen Zweite-Stufe-Ver-
+riegelungszustand übergeht. [0047] Die Klinke 16 kann einen Führungsschlitz 23 an dem unteren Teil aufweisen und kann mit der Funktionsachse 20b des Verbindungsglieds 20 durch den Führungsschlitz 23 verbunden sein, um den Be-
+wegungspfad der Funktionsachse 20b zu führen bzw. zu lenken. [0048] Der Führungsschlitz 23 kann einen Erste-
+Stufe-Schlitz 23a, welcher in der horizontalen Links-
+Nach-Rechts-Richtung ausgebildet ist, einen Zwei-
+te-Stufe-Schlitz 23b, welcher (ebenfalls) in der hori-
+zontalen Links-Nach-Rechts-Richtung ausgebildet ist und welcher oberhalb des Erste-Stufe-Schlitzes 23a im Abstand dazu angeordnet ist, und einen Verbin-
+dungsschlitz 23c zum vertikalen Verbinden des Ers-
+te-Stufe-Schlitzes 23a und des rechten Endteils des Zweite-Stufe-Schlitzes 23b aufweisen, um den Ver-
+riegelungszustand der Motorhaube von der ersten Stufe in die darauffolgende zweite Stufe zu ändern. [0049] Die Klaue 13 kann ein kreisförmiges, vorste-
+hendes Verbindungsglied-Rückhalteelement 24 auf-
+weisen, um die Aufwärtsdrehbewegung des Verbin-
+dungsglieds 20 zu verhindern bzw. aufzuhalten, und das Verbindungsglied-Rückhalteelement 24 kann mit der Klaue 13 mittels eines Stifts verbunden sein. Die Klaus 13, das erste Halte-Ende 13c und das zwei-
+te Halte-Ende 13d können die Eckpunkte eines Drei-
+ecks bilden. [0050] Außerdem kann das Verbindungsglied 20 ei-
+ne Verbindungsglied-Nut (z. B. eine Verbindungs-
+glied-Ausnehmung) 20a aufweisen, welche konkav an/in der oberen Fläche (des Verbindungsglieds) mit einer gleichmäßigen nach unten verlaufenden Krüm-
+mung ausgebildet ist, und die Verbindungsglied-Nut 20a kann die Drehbewegung des Drehelements 19 durch den Kontakt (der Verbindungsglied-Nut) mit dem äußeren Umfang des Verbindungsgliedrückhal-
+teelements 24 in die horizontale Linearbewegung des Verbindungsglieds 20 umwandeln. [0051] Ein Betriebsverhalten einer Zwei-Stufen-Ver-
+bindungsglied-
+Motorhaubenverriegelungsvorrichtung für ein Fahr-
+zeug gemäß der vorliegenden Erfindung, welche die obige Bauform hat, wird nachfolgend beschrieben. [0052] Fig. 3 bis Fig. 16 sind Ansichten, welche ein Betriebsverhalten beim Öffnen der Motorhaube einer beispielhaften Zwei-Stufen-Verbindungsglied-Motor-
+haubenverriegelungsvorrichtung gemäß der vorlie-
+genden Erfindung in Fig. 2 zeigen. [0053] Um die Motorhaube zu öffnen, wenn der Fah-
+rer den Entriegelungsgriff, welcher an dem Fahrersitz innerhalb des Fahrzeugs installiert ist, herauszieht, kann zunächst seine (Zug-)Kraft auf den unteren Teil des Drehelements 19, welches mittels des Seils ver-
+bunden ist, in die rechte Richtung ausgeübt werden, und dann kann die (Zug-)Kraft an dem unteren Teil des Drehelements 19 ziehen. [0054] Wenn der untere Teil des Drehelements 19 durch die Kraft, welche von dem Entriegelungsgriff erzeugt wird, nach rechts gezogen wird, dann kann der obere Teil des Drehelements 19 auf Basis der Drehachse 19b an dem Zentrum des Drehelements 19 nach links drehen, und folglich kann sich das Ver-
+bindungsglied 20 nach links bewegen. [0055] Da in diesem Fall die Verbindungsglied-Nut 20a, welche konkav an der oberen Fläche des Ver-
+bindungsglieds 20 mit einer gleichmäßigen nach un-
+ten verlaufenden Krümmen ausgebildet ist, den äu-
+ßeren Umfang des Verbindungsglied-Rückhalteele-
+ments 24 berührt, kann die Verbindungslied-Nut 20a die Aufwärtsdrehbewegung des Verbindungsglieds 20 verhindern und kann die Drehbewegung des Dre-
+helements 19 in die Linearbewegung des Verbin-
+dungsglieds 20 umwandeln. [0056] Wenn das Verbindungsglied 20 das linke En-
+de an der Mitte des Erste-Stufe-Schlitzes der Klinke 16 berührt, um die Klinke 16 aufgrund der Kraft, wel-
+che von dem Drehelement 19 abgegeben wird, nach links zu drücken, dann kann der untere Teil der Klin-
+ke 16 nach links schwenken, und, da folglich der Hal-
+te-Vorsprung 16a der Klinke 16 nach links schwenkt, kann das erste Halte-Ende 13c der Klaue 13, wel-
+ches zuvor von dem Halte-Vorsprung 16a aufgehal-
+ten wurde, aus der Erste-Stufe-Verriegelung gelöst werden (bzw. entriegelt werden). [0057] Dann kann die Klaue 13 aufgrund der elasti-
+schen Rückstellkraft der ersten Feder 15 nach oben schwenken, und folglich kann das zweite Halte-En-
+de 13d der Klaue 13 von dem Halte-Vorsprung 16a aufgehalten bzw. gestoppt bzw. abgefangen werden. Folglich kann die Klaue 13 in einen Zweite-Stufe-Ver-
+riegelungszustand übergehen. [0058] In diesem Fall, kann bei der Aufwärts-
+schwenkbewegung der Klaue 13 das Verbindungs-
+gliedrückhalteelement 24, welches mit der Klaue 13 verbunden ist, nach oben schwenken, so dass die Verbindungsglied-Nut 20a an dem oberen Teil des Verbindungsglieds 20 von dem Verbindungs-
+gliedrückhalteelement 24 gelöst werden kann (z. B. der Kontakt zwischen den beiden gelöst werden kann). [0059] Wenn der Entriegelungsgriff im Zweite-Stufe-
+Verriegelungszustand freigegeben wird, dann kann DE 10 2012 112 512 A1 2014.03.06 7/25 als Nächstes der untere Teil des Drehelements 19 aufgrund der elastischen Rückstellkraft der dritten Feder 22 in eine Richtung im Uhrzeigersinn drehen, da die Kraft, welche von dem Entriegelungsgriff auf das Drehelement 19 aufgebracht ist, aufgehoben ist, und der obere Teil des Drehelements 19 kann (eben-
+falls) in eine Richtung im Uhrzeigersinn drehen. Da das Verbindungsglied 20, welches mit dem oberen Teil des Drehelements 19 verbunden ist, sich hori-
+zontal nach rechts bewegt, kann sich als ein Ergeb-
+nis die Funktionsachse 20b an dem linken Endteil des Verbindungsglieds 20 von dem linken Endteil des Erste-Stufe-Schlitzes 23a der Klinke 16 wieder hin zu dessen Mitte bewegen und kann sich durch die Mit-
+te des Erste-Stufe-Schlitzes 23a hindurch bewegen. Dadurch kann sich aufgrund der elastischen Rück-
+stellkraft der dritten Feder 22 die Funktionsachse 20b von dem Erste-Stufe-Schlitz 23a über den Verbin-
+dungsschlitz 23c der Klinke 16 nach oben hin zu dem Zweite-Stufe-Schlitz 23b bewegen. [0060] Wenn danach ein Fahrer den Entriegelungs-
+griff ein zweites Mal zieht, dann kann sich aufgrund der Kraft durch das Seil das Verbindungsglied 20 ho-
+rizontal nach links bewegen, da der untere Teil des Drehelements 19 erneut nach rechts gezogen wird und der obere Teil des Drehelements (erneut) nach links dreht. [0061] Dann kann sich die Funktionsachse 20b an dem linken Endteil des Verbindungsglieds 20 entlang des Zweite-Stufe-Schlitzes 23b nach links bewegen, um den linken Endteil des Zweite-Stufe-Schlitzes 23b zu berühren (und z. B. dagegen zu drücken), wodurch die Klinke 16 nach links geschwenkt wird. [0062] Da der Halte-Vorsprung 16a der Klinke 16 folglich nach links schwenkt bzw. dreht, kann das zweite Halte-Ende 13d der Klaue 13 von dem Hal-
+te-Vorsprung 16a gelöst werden, und folglich kann die Klaus 13 weiter nach rechts (z. B. im Uhrzeiger-
+sinn) schwenken bzw. drehen. Folglich kann die Ein-
+setznut 11 der Klaue 13 nach oben hin geöffnet wer-
+den, und außerdem kann der Motorhaubenschließ-
+bügel 12 sich vollständig aus der Einsetznut 11 der Klaue 13 herausbewegen. Schließlich kann die Mo-
+torhaube nach oben hin geöffnet werden. [0063] Wie oben beschrieben, ist das Betriebsver-
+halten der Zwei-Stufen-Verbindungsglied-Motorhau-
+benverriegelungsvorrichtung beim Öffnen der Motor-
+haube beschrieben. Beim Schließen der Motorhaube ist die Reihenfolge der Abläufe umgekehrt zur Rei-
+henfolge beim Öffnen der Motorhaube. Da jedoch beim Schließen der Motorhaube eine Betätigung des Entriegelungsgriffs nicht erforderlich ist, können das Verbindungsglied 20 und das Drehelement 19 betrie-
+ben werden, indem die Klinke 16 (z. B. durch Kontakt mit der Klaue 13) aufgrund der nach unten drücken- den Kraft, welche von dem Schließbügel 12 ausgeübt wird, schwenkt bzw. dreht. [0064] Folglich kann gemäß der vorliegenden Erfin-
+dung ein Sicherheitshebel einer existierenden Mo-
+torhaube entfernt werden (z. B. da er nicht mehr notwendig ist), und eine Zwei-Stufen-Verriegelungs-
+funktion kann an der Motorhaubenverriegelung selbst mittels des Führungsschlitzes 23, des Verbindungs-
+glieds 20 der Klinke 16, dem Verbindungsglied-Rück-
+halteelement 24 und dem Drehelement 19 der Klaue 13 durchgeführt werden, um die Motorhaube durch die zweistufige Betätigung des Entriegelungsgriffs in-
+nerhalb des Fahrzeugs zu öffnen. Folglich kann ei-
+ne bestehende Unannehmlichkeit, nämlich das Ein-
+greifen der Hand in einen Motorraum, um den Sicher-
+heitshebel zu betätigen, um die Motorhaube zu öff-
+nen, beseitigt werden, und eine Vermarktbarkeit bzw. Marktgängigkeit kann verbessert werden. [0065] Außerdem können der Erste-Stufe-Hubweg und der Zweite-Stufe-Hubweg durch den Erste-Stu-
+fe-Schlitz 23a und den Zweite-Stufe-Schlitz 23b der Klinke 16 angepasst bzw. eingestellt werden, und das Drehelement 19 und das Verbindungsglied 20 kön-
+nen mit einem Seil verbunden sein, welches mit dem Entriegelungsgriff verbunden ist, um die Kraft, wel-
+che an dem Entriegelungsgriff hervorgerufen wird, an die Klinke 16 über das Drehelement 19 und das Ver-
+bindungsglied 20 weiterzugeben, so dass das Betäti-
+gungsgefühl des Entriegelungsgriffs konstant umge-
+setzt (z. B. eingebaut) sein kann. [0066] Eine Zwei-Stufen-Verbindungsglied-Motor-
+haubenverriegelungsvorrichtung für ein Fahrzeug ge-
+mäß der vorliegenden Erfindung hat die nachfolgen-
+den Vorteile. [0067] Erstens wird ein Sicherheitshebel einer be-
+stehenden Motorhaube entfernt, und eine Zwei-Stu-
+fen-Verriegelungsfunktion wird an einer Motorhau-
+benverriegelung selbst mittels eines Schlitzes, eines Verbindungsglieds einer Klinke, eines Verbindungs-
+glied-Rückhalteelements und eines Drehelements ei-
+ner Klaue durchgeführt, um die Motorhaube durch die zweistufige Betätigung eines Entriegelungsgriffs in-
+nerhalb eines Fahrzeugs zu öffnen. Folglich kann ei-
+ne bestehende Unannehmlichkeit, nämlich das Ein-
+greifen der Hand in einen Motorraum, um den Sicher-
+heitshebel zu betätigen, um die Motorhaube zu öff-
+nen, beseitigt werden, und eine Vermarktbarkeit bzw. Marktgängigkeit kann verbessert werden. [0068] Zweitens sind ein Erste-Stufe-Hubweg und ein Zweite-Stufe-Hubweg durch einen Erste-Stufe-
+Schlitz und einen Zweite-Stufe-Schlitz einer Klinke angepasst bzw. eingestellt, und ein Drehelement und ein Verbindungsglied sind mit einem Seil verbunden, welches mit dem Entriegelungsgriff verbunden ist, um die Kraft, welche an dem Entriegelungsgriff hervor- DE 10 2012 112 512 A1 2014.03.06 8/25 gerufen wird, an die Klinke über das Drehelement und das Verbindungsglied weiterzugeben, so dass das Betätigungsgefühl des Entriegelungsgriffs kon-
+stant bzw. gleichmäßig umgesetzt (z. B. eingebaut) sein kann. [0069] Drittens kann eine Fußgängerschutzleis-
+tungsfähigkeit durch Entfernen eines bestehenden Sicherheitshebels verbessert werden. [0070] Zur Erleichterung der Erklärung und genau-
+en Definition der beigefügten Ansprüche werden die Begriffe obere(r) oder untere(r), etc. dazu verwendet, um Eigenschaften der beispielhaften Ausführungsfor-
+men mit Bezug auf Positionen dieser Merkmale, wel-
+che in den Zeichnungen gezeigt sind, zu beschrei-
+ben. [0071] Die vorhergehende Beschreibung von be-
+stimmten beispielhaften Ausführungsformen der vor-
+liegenden Erfindung diente dem Zweck der Darstel-
+lung und Beschreibung. Sie sind nicht dazu gedacht, erschöpfend zu sein oder die Erfindung auf genau die offenbarten Formen zu beschränken, und offensicht-
+lich sind viele Änderungen und Abwandlungen vor dem Hintergrund der obigen Lehre möglich. Die bei-
+spielhaften Ausführungsformen wurden ausgewählt und beschrieben, um bestimmte Grundsätze der Er-
+findung und ihrer praktischen Anwendbarkeit zu be-
+schreiben, um es dadurch dem Fachmann zu erlau-
+ben verschiedene beispielhafte Ausführungsformen der vorliegenden Erfindung, sowie verschiedene Al-
+ternativen und Abwandlungen davon, herzustellen und anzuwenden. Es ist beabsichtigt, dass der Um-
+fang der Erfindung durch die beigefügten Ansprüche definiert wird. Patentansprüche 1. Eine Zwei-Stufen-Verbindungsglied-Motorhau-
+benverriegelungsvorrichtung für ein Fahrzeug, wel-
+che es ermöglicht, eine Motorhaube lediglich mit der Betätigung eines Entriegelungsgriffs innerhalb eines Fahrzeugs zu öffnen, wobei die Vorrichtung aufweist: eine Klaue (13), welche schwenkbar an einer Basis-
+platte (10) angebracht ist, welche einen Motorhau-
+benschließbügel (12) mittels einer Halte-Nut (13b) zurückhält und welche von einer Klinke (16) durch ein erstes Halte-Ende (13c) und ein zweites Halte-En-
+de (13d) in einem Erste-Stufe-Verriegelungszustand und in einem Zweite-Stufe-Verriegelungszustand ge-
+halten wird, wobei die Klinke (16) an der Basisplatte (10) angebracht ist, um schwenkbar zu sein, und die Rotation der Klaue (13) unter Verwendung des Halte-Vorsprungs (16a) stufenweise verhindert, ein Drehelement (19), welches drehbar in einer Ge-
+lenkstruktur an der Basisplatte (10) angebracht ist und welches eine Zugkraft, welche von dem Entrie-
+gelungsgriff erzeugt wird, überträgt, und ein Verbindungsglied (20), welches das Drehelement (19) und die Klinke (16) verbindet und die Klinke (16) in Verbindung mit dem Drehelement (19) schwenkt. 2. Die Zwei-Stufen-Verbindungsglied-Motorhau-
+benverriegelungsvorrichtung gemäß Anspruch 1, wo-
+bei die Klinke (16) mit dem Verbindungsglied (20) unter Verwendung einer Funktionsachse (20b) als ein Verbindungsmittel verbunden ist und einen Ers-
+te-Stufe-Schlitz (23a) und einen Zweite-Stufe-Schlitz (23b), welche in einem vorbestimmten vertikalen Abstand voneinander ausgebildet sind, zur Verbin-
+dung mit der Funktionsachse (20b) und einen Ver-
+bindungsschlitz (23c) aufweist, welcher den Ers-
+te-Stufe-Schlitz (23a) und den Zweite-Stufe-Schlitz (23b) verbindet, und wobei, wenn die Motorhaube (i) von einem Erste-Stufe-Verriegelungszustand in ei-
+nen Zweite-Stufe-Verriegelungszustand oder (ii) von einem Erste-Stufe-Öffnungszustand in einen Zweite-
+Stufe-Öffnungszustand übergeht, sich die Funktions-
+achse (20b) mittels des Verbindungsschlitzes (23c) von dem Erste-Stufe-Schlitz (23a) hin zu dem Zwei-
+te-Stufe-Schlitz (23b) oder von dem Zweite-Stufe-
+Schlitz (23b) hin zu dem Erste-Stufe-Schlitz (23a) be-
+wegt. 3. Die Zwei-Stufen-Verbindungsglied-Motorhau-
+benverriegelungsvorrichtung gemäß Anspruch 1, wo-
+bei: die Klinke (16) einen Erste-Stufe-Schlitz (23a) und ei-
+nen Zweite-Stufe-Schlitz (23b) an einer Verbindung mit dem Verbindungsglied (20) aufweist, und die Drehung der Klinke (16) eingestellt wird, indem der Hub des Verbindungsglieds (20) durch die Länge des Erste-Stufe-Schlitzes (23a) und des Zweite-Stu-
+fe-Schlitzes (23b) eingestellt wird. 4. Die Zwei-Stufen-Verbindungsglied-Motorhau-
+benverriegelungsvorrichtung gemäß Anspruch 1, wo-
+bei das Verbindungsglied (20) mit dem Drehelement (19) unter Verwendung einer dritten Rotationsachse (21) als ein Verbindungsmittel verbunden ist und die Drehbewegung des Drehelements (19) in die hori-
+zontale Linearbewegung, um die Klinke (16) zu betä-
+tigen, umwandelt. 5. Die Zwei-Stufen-Verbindungsglied-Motorhau-
+benverriegelungsvorrichtung gemäß Anspruch 1, wo-
+bei: das Verbindungsglied (20) eine Verbindungsglied-
+Nut (20a) aufweist, welche konkav an der oberen Flä-
+che mit einer gleichmäßigen Krümmung ausgebildet ist, die Klaue (16) ein kreisförmiges Verbindungs-
+gliedrückhaltelement (24) aufweist, und das Verbindungsgliedrückhaltelement (24) die Ver-
+bindungsglied-Nut (20a) berührt, um das Verbin-
+dungsglied (20) zurückzuhalten. DE 10 2012 112 512 A1 2014.03.06 9/25 6. Die Zwei-Stufen-Verbindungsglied-Motorhau-
+benverriegelungsvorrichtung gemäß Anspruch 2, wo-
+bei das Verbindungsglied (20) eine dritte Feder (22) aufweist, welche an einer Verbindung mit dem Dre-
+helement (19) angeordnet ist, und die Funktionsach-
+se (20b) des Verbindungsglieds (20) unter Verwen-
+dung der dritten Feder (22) von dem Erste-Stufe-
+Schlitz (23a) hin zu dem Zweite-Stufe-Schlitz (23b) bewegt. Es folgen 16 Seiten Zeichnungen DE 10 2012 112 512 A1 2014.03.06 10/25 Anhängende Zeichnungen DE 10 2012 112 512 A1 2014.03.06 11/25 DE 10 2012 112 512 A1 2014.03.06 12/25 DE 10 2012 112 512 A1 2014.03.06 13/25 DE 10 2012 112 512 A1 2014.03.06 14/25 DE 10 2012 112 512 A1 2014.03.06 15/25 DE 10 2012 112 512 A1 2014.03.06 16/25 DE 10 2012 112 512 A1 2014.03.06 17/25 DE 10 2012 112 512 A1 2014.03.06 18/25 DE 10 2012 112 512 A1 2014.03.06 19/25 DE 10 2012 112 512 A1 2014.03.06 20/25 DE 10 2012 112 512 A1 2014.03.06 21/25 DE 10 2012 112 512 A1 2014.03.06 22/25 DE 10 2012 112 512 A1 2014.03.06 23/25 DE 10 2012 112 512 A1 2014.03.06 24/25 DE 10 2012 112 512 A1 2014.03.06 25/25
