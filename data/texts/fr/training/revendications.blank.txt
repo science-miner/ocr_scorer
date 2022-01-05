@@ -1774,3 +1774,1004 @@ séparer des signaux perturbateurs (fn) avant un traitement ultérieur.
 12. Circuit de filtrage d'un ordre supérieur à 2 comportant au moins un circuit de filtrage selon l'une quelconque des 
 revendications 1 à 11. 
 
+
+
+
+
+
+
+Revendications 
+
+1. Procédé de préparation du 3-[2-cyclopropyl-4-(4-fluorophényl)-3-quinolyl] prop-2-énal par réduction du 3-[2-cyclo-
+propyl-4-(4-fluorophényl)-3-quinolyl] prop-2-ènenitrile en utilisant du nickel de Raney en présence d'acide formique 
+et d'eau en une quantité de 0,25 à 1 partie en volume par partie en volume d'acide formique, ou en présence d'un 
+sel d'amine de l'acide formique et d'un acide organique. 
+
+2. Procédé de la revendication 1, dans lequel le nickel de Raney est employé en une quantité de 0,30 à 2 parties en 
+poids en termes d'atome de nickel, pour une partie en poids du 3-[2-cyclopropyl-4-(4-fluorophényl)-3-quinolyl] prop-
+2-ènenitrile. 
+
+3. Procédé de la revendication 1, dans lequel le 3-[2-cyclopropyl-4-(4-fluorophényl)-3-quinolyl] prop-2-ènenitrile est 
+réduit par le nickel de Raney en présence de 0,25 à 50 parties en poids d'acide formique pour une partie en poids 
+de l'ènenitrile et de 0,25 à 1 partie en volume d'eau pour une partie en volume d'acide formique. 
+
+4. Procédé de la revendication 1, dans lequel le 3-[2-cyclopropyl-4-(4-fluorophényl)-3-quinolyl] prop-2-ènenitrile est 
+réduit par le nickel de Raney en présence de formiate d'ammonium et d'un acide organique. 
+
+5. Procédé de la revendication 4, dans lequel l'acide organique est employé en une quantité de 3 à 50 parties en poids 
+pour une partie en poids de l'ènenitrile. 
+
+6. Procédé de la revendication 1, dans lequel le 3-[2-cyclopropyl-4-(4-fluorophényl)-3-quinolyl] prop-2-ènenitrile est 
+réduit par le nickel de Raney en présence d'un sel d'amine de l'acide formique et d'un acide aliphatique inférieur 
+ayant de 2 à 5 atomes de carbone. 
+
+7. Procédé de la revendication 6, dans lequel le sel d'amine de l'acide formique est employé en une quantité de 1,0 
+à 5,0 moles pour une mole de l'ènenitrile. 
+
+8. Procédé de la revendication 1, dans lequel le 3-[2-cyclopropyl-4-(4-fluorophényl)-3-quinolyl] prop-2-ènenitrile est 
+réduit par le nickel de Raney en présence d'un formiate d'ammonium et d'un acide aliphatique inférieur ayant de 2 
+à 5 atomes de carbone. 
+
+9. Procédé de la revendication 1, dans lequel la réduction utilisant le nickel de Raney est effectuée à une température 
+située dans la plage de 20 à 110°C. 
+
+
+EP 1 251 124 B1 
+
+
+Revendications 
+
+1. Structure de substrat, comprenant : 
+
+-un substrat (100) ; 
+-plusieurs fines couches de film (131-13n) su-
+perposées sur le substrat ; et 
+-une batterie (110) entourant une zone dans 
+laquelle sont disposées plusieurs fines couches 
+de film (131-13n), la batterie (110) comprenant 
+une première couche de batterie (111), une 
+deuxième couche de batterie (121) et une troi-
+sième couche de batterie (112), la deuxième 
+couche de batterie (121) étant disposée entre 
+la première (111) et la troisième (112) couche 
+de batterie, la première (111) et la troisième 
+(112) couches de batterie étant constituées d'un 
+matériau soit inorganique soit organique, la 
+deuxième couche de batterie (121) étant cons-
+tituée de l'autre matériau d'entre le matériau 
+inorganique et le matériau organique, la premiè-
+re (111) et la troisième (112) couches de batterie 
+ayant des affinités vers les fines couches de film 
+et la deuxième couche de batterie (121) n'ayant 
+pas d'affinités vers les fines couches de film. 
+
+2. Substrat selon la revendication 1, la batterie (110) 
+comprenant alternativement une couche de batterie 
+avec affinité (111-11n) ayant des affinités vers les 
+fines couches de film (131-13n) et une couche de 
+batterie sans affinité (121-12n) n'ayant pas d'affini-
+tés vers les fines couches de film (131-13n). 
+
+3. Substrat selon la revendication 1, dans lequel le de-
+gré d'affinité de la couche de batterie avec affinités 
+vers un matériau liquide des fines couches de film 
+utilisé dans un processus liquide est supérieur à celui 
+d'une couche de batterie sans affinités. 
+
+23 
+24 
+
+
+EP 1 566 853 B1 
+
+14 
+
+5 
+
+10 
+
+15 
+
+20 
+
+25 
+
+30 
+
+35 
+
+40 
+
+45 
+
+50 
+
+55 
+
+4. Substrat selon la revendication 3, dans lequel le ma-
+tériau liquide comprend des molécules polaires. 
+
+5. Substrat selon la revendication 3, dans lequel le ma-
+tériau liquide comprend des molécules non polaires. 
+
+6. Substrat selon la revendication 2, dans lequel au 
+moins l'une d'entre la couche de batterie avec affi-
+nités et la couche de batterie sans affinités possède 
+une surface traitée de façon à avoir respectivement 
+des affinités ou pas d'affinités. 
+
+7. Substrat selon la revendication 2, la couche de bat-
+terie avec affinités comprenant un matériau organi-
+que. 
+
+8. Substrat selon la revendication 2, la couche de bat-
+terie avec affinités comprenant un matériau inorga-
+nique. 
+
+9. Substrat selon la revendication 2, la couche de bat-
+terie sans affinités comprenant un matériau organi-
+que. 
+
+10. Substrat selon la revendication 2, la couche de bat-
+terie sans affinités comprenant un matériau inorga-
+nique. 
+
+11. Substrat selon les revendications 3, 7 ou 9, dans 
+lequel la couche de batterie avec affinités est traitée 
+au plasma. 
+
+12. Substrat selon les revendications 7 ou 9, le matériau 
+organique comprenant un composant organique 
+contenant du polyimide, du silicium amorphe, du po-
+lysilicium ou du fluor, ou un composant organique 
+isolant. 
+
+13. Substrat selon la revendication 8 ou 10, le matériau 
+inorganique comprenant de l'aluminium, du tantale, 
+de l'oxyde de silicium ou du nitrure de silicium. 
+
+14. Substrat selon la revendication 2, une épaisseur de 
+la première fine couche étant ajustée de manière à 
+être essentiellement de la même épaisseur que la 
+couche de batterie avec affinités se trouvant tout en 
+bas de la batterie. 
+
+15. Substrat selon la revendication 14, une épaisseur 
+de chaque fine couche de film qui est posée sur la 
+première fine couche de film étant ajustée de ma-
+nière à être essentiellement de la même épaisseur 
+que l'épaisseur totale de la couche de batterie avec 
+affinités et de la couche de batterie sans affinités, 
+qui sont superposées sur une hauteur correspon-
+dant à la batterie. 
+
+16. Substrat selon la revendication 15, l'épaisseur de la 
+
+couche de batterie sans affinités sur le dessus étant 
+ajustée à 500 nm ou moins, et l'épaisseur de l'autre 
+couche de batterie sans affinités étant ajustée à 100 
+nm ou moins. 
+
+17. Substrat selon la revendication 1, les fines couches 
+de film comprenant un semi-conducteur organique. 
+
+18. Substrat selon la revendication 1, les fines couches 
+de film comprenant un filtre couleur. 
+
+19. Substrat selon la revendication 1, dans lequel la pre-
+mière et la troisième couches de batterie sont cons-
+tituées du même matériau. 
+
+20. Substrat selon la revendication 1, dans lequel 
+l'épaisseur de la première fine couche de film est la 
+même que l'épaisseur de la première couche de bat-
+terie, et dans lequel l'épaisseur de la deuxième fine 
+couche de film est identique à l'épaisseur totale de 
+la première et de la troisième couche de batterie. 
+
+25 
+
+
+Revendications 
+
+1. Composition comprenant : 
+
+un matériau fibreux texturé comprenant un matériau cellulosique ou lignocellulosique qui a été cisaillé au point 
+que ses fibres internes sont substantiellement exposées ; et 
+une bactérie et/ou une enzyme. 
+
+2. Composition selon la revendication 1, dans laquelle le matériau cellulosique ou lignocellulosique est choisi dans le 
+groupe constitué par le papier, les produits papetiers, les sous-produits de la fabrication du papier, le papier journal, 
+l'effluent des usines à papier, le bois, les fibres de bois, un matériau dérivé du bois, le kénaf, les graminées, les 
+glumes de riz, la bagasse, le coton, le jute, le chanvre, le lin, les fibres libériennes de bambou, les fibres d'âme de 
+bambou, les plantes à feuilles, le sisal, le chanvre de Manille, les fibres agricoles, la paille de céréales, les rafles 
+de maïs, les fibres de noix de coco, les déchets, les chiffons et leurs mélanges. 
+
+3. Composite selon la revendication 1, dans lequel le matériau cellulosique ou lignocellulosique est un carton-bois. 
+
+4. Composite selon la revendication 1, dans lequel le matériau cellulosique ou lignocellulosique est un matériau syn-
+thétique. 
+
+5. Composite selon la revendication 1, dans lequel le matériau cellulosique ou lignocellulosique est un matériau non 
+tissé. 
+
+6. Composite selon la revendication 1, dans lequel au moins 50 % environ des fibres ont un rapport longueur/ diamètre 
+d'au moins 5. 
+
+7. Composite selon la revendication 1, dans lequel au moins 50 % environ des fibres ont un rapport longueur/ diamètre 
+d'au moins 10. 
+
+8. Composite selon la revendication 1, dans lequel au moins 50 % environ des fibres ont un rapport longueur/ diamètre 
+d'au moins 25. 
+
+9. Procédé de formation d'une composition, le procédé comprenant la combinaison d'un matériau cellulosique ou 
+lignocellulosique qui a été cisaillé au point que ses fibres internes sont substantiellement exposées, avec une 
+bactérie et/ou une enzyme. 
+
+10. Procédé selon la revendication 9 comprenant, en outre, l'étape de cisaillement dudit matériau cellulosique ou lig-
+nocellulosique avec un couteau rotatif. 
+
+11. Procédé selon la revendication 9, dans lequel la bactérie et/ou l'enzyme est combinée avec le matériau cellulosique 
+ou lignocellulosique. 
+
+12. Procédé selon la revendication 9, dans lequel le matériau cellulosique ou lignocellulosique a une densité apparente 
+inférieure à environ 0,5 g/cm 3 . 
+
+
+
+Revendications 
+
+1. Procédé comprenant les étapes consistant à : 
+
+établir un appel mobile sur réseau à commuta-
+tion de paquets via une liaison de transmission, 
+ladite liaison de transmission s'étendant entre 
+un dispositif terminal mobile (12) et une fonction 
+d'interfonctionnement donnée (18) et connec-
+tant ledit dispositif terminal mobile à un dispositif 
+de communication sans fil (14, 500) via une pre-
+mière interface (Rm) et connectant de plus ledit 
+dispositif de communication sans fil (14, 500) à 
+ladite fonction d'interfonctionnement donnée 
+(18) via une deuxième interface (Um, L) par l'in-
+termédiaire d'une liaison sans fil vers une station 
+de base (16), ladite fonction d'interfonctionne-
+ment donnée (18) passant d'une première fonc-
+tion d'interfonctionnement (18) à une deuxième 
+fonction d'interfonctionnement (18), ladite 
+liaison de transmission comprenant un canal de 
+trafic (32), une liaison de couche liaison de don-
+nées (26) et une liaison de couche réseau (24), 
+ladite liaison de transmission comprenant un 
+mode paquet dans lequel ledit canal de trafic 
+(32) est opérationnel et un mode sommeil dans 
+lequel ledit canal de trafic (32) est coupé pen-
+dant que ladite liaison de couche liaison de don-
+nées (26) et ladite liaison de couche réseau (24) 
+sont maintenues, caractérisé par les étapes 
+consistant à : 
+
+fournir audit dispositif de communication 
+sans fil (14, 500) de l'information d'identifi-
+cateur de région de réseau quand ladite 
+liaison de transmission est dans ledit mode 
+sommeil ; 
+ledit dispositif de communication sans fil 
+(14, 500) déterminant quand ladite fonction 
+d'interfonctionnement donnée (18) est pas-
+sée de ladite première fonction d'interfonc-
+tionnement (18) à ladite deuxième fonction 
+d'interfonctionnement (18) en déterminant 
+le moment où se produit un changement 
+correspondant dans l'information d'identifi-
+cateur de région de réseau ; 
+ledit dispositif de communication sans fil 
+(14, 500) lançant une négociation de proto-
+cole de commande de liaison avec ledit dis-
+positif terminal mobile (12) lorsque ledit 
+changement correspondant dans ladite in-
+formation d'identificateur de région de ré-
+
+17 
+18 
+
+
+EP 1 243 145 B1 
+
+11 
+
+5 
+
+10 
+
+15 
+
+20 
+
+25 
+
+30 
+
+35 
+
+40 
+
+45 
+
+50 
+
+55 
+
+seau a été déterminé ; 
+ledit dispositif terminal mobile (12) répon-
+dant audit lancement de ladite négociation 
+de protocole de commande de liaison en 
+transmettant des paquets de protocole de 
+commande de liaison à ladite deuxième 
+fonction d'interfonctionnement (18) par l'in-
+termédiaire dudit dispositif de communica-
+tion sans fil (14, 500), ce qui fait passer la-
+dite liaison de transmission dans ledit mode 
+paquet et rend opérationnel ledit canal de 
+trafic (32), ledit dispositif terminal mobile 
+(12) établissant ensuite une liaison de cou-
+che liaison de données (26) avec ladite 
+deuxième fonction d'interfonctionnement 
+(18) ; 
+une fois que ladite liaison de couche liaison 
+de données (26) avec ladite deuxième fonc-
+tion d'interfonctionnement (18) est établie, 
+ledit dispositif terminal mobile (12) et ladite 
+deuxième fonction d'interfonctionnement 
+(18) négocient des options de protocole de 
+commande de réseau et établissent une 
+liaison de couche réseau (24) entre ledit dis-
+positif terminal mobile (12) et ladite deuxiè-
+me fonction d'interfonctionnement (18). 
+
+2. Procédé selon la revendication 1, dans lequel, une 
+fois que ladite liaison de couche liaison de données 
+(26) avec ladite deuxième fonction d'interfonction-
+nement (18) est établie, ledit dispositif terminal mo-
+bile (12), lorsque cela est opportun, met à jour son 
+enregistrement de mobilité de protocole Internet en 
+accord avec ladite deuxième fonction d'interfonc-
+tionnement (18). 
+
+3. Procédé selon la revendication 1, dans lequel ladite 
+liaison de couche liaison de données (26) et ladite 
+liaison de couche réseau (24) comprennent respec-
+tivement une liaison de Protocole Point à Point et 
+une liaison de protocole Internet. 
+
+4. Procédé selon la revendication 1, dans lequel ledit 
+mode paquet comprend un État Connecté confor-
+mément à IS-707.5, et dans lequel ledit mode som-
+meil comprend un État Sommeil/ Inactif conformé-
+ment à IS-707.5. 
+
+5. Procédé selon la revendication 1, dans lequel ladite 
+information d'identificateur de région de réseau com-
+prend de l'information transmise sur un canal de 
+messagerie (30) de ladite liaison de transmission. 
+
+6. Procédé selon la revendication 5, dans lequel ladite 
+information d'identificateur de région de réseau com-
+prend soit un identificateur de zone de paquet, soit 
+une paire Identification de Système/ Identification de 
+Réseau. 
+
+7. Procédé selon la revendication 1, dans lequel ledit 
+lancement d'une négociation de protocole de com-
+mande de liaison, dénommé ci-après LCP, avec ledit 
+dispositif terminal mobile (12) comprend le fait d'en-
+voyer un paquet de Requête de Configuration de 
+LCP audit dispositif terminal mobile (12), ledit dispo-
+sitif terminal mobile (12) interprétant ledit paquet de 
+Requête de Configuration de LCP comme provenant 
+de ladite deuxième fonction d'interfonctionnement 
+(18). 
+
+8. Procédé selon la revendication 1, dans lequel ledit 
+dispositif terminal mobile (12) détermine si ladite 
+deuxième fonction d'interfonctionnement (18) com-
+prend un nouvel agent étranger, et lorsque ladite 
+deuxième fonction d'interfonctionnement (18) com-
+prend un nouvel agent étranger, ledit dispositif ter-
+minal mobile (12) effectue un processus de mise à 
+jour d'enregistrement de mobilité de protocole Inter-
+net. 
+
+9. Dispositif de communication sans fil (14, 500) pour 
+supporter une liaison de transmission entre un dis-
+positif terminal mobile (12) et une fonction d'inter-
+fonctionnement (18), ledit dispositif de communica-
+tion sans fil (14, 500) étant caractérisé par : 
+
+un mécanisme d'extraction d'information (504) 
+pour extraire de l'information d'identificateur de 
+région de réseau associée à une fonction d'in-
+terfonctionnement (18) d'un canal aérien (30) ; 
+un mécanisme de détermination (506) pour dé-
+terminer le moment où un point de connexion 
+de ladite liaison passe d'une première fonction 
+d'interfonctionnement (18) à une deuxième 
+fonction d'interfonctionnement (18) ; 
+un mécanisme de requête (508) pour transmet-
+tre une requête de configuration commandée 
+par liaison audit dispositif terminal mobile (12) 
+quand ledit mécanisme de détermination (506) 
+détermine que ladite première fonction d'inter-
+fonctionnement (18) est passée à ladite deuxiè-
+me fonction d'interfonctionnement (18), où : 
+
+on établit un appel mobile sur réseau à com-
+mutation de paquets via ladite liaison de 
+transmission ; 
+ladite liaison de transmission connecte ledit 
+dispositif terminal mobile (12) audit dispo-
+sitif de communication sans fil (14, 500) via 
+une première interface (Rm) et connecte de 
+plus ledit dispositif de communication sans 
+fil (14, 500) à une fonction d'interfonction-
+nement donnée (18) via une deuxième in-
+terface (Um, L) par l'intermédiaire d'une 
+liaison sans fil vers une station de base (16), 
+ladite fonction d'interfonctionnement don-
+née (18) passant de ladite première fonction 
+
+19 
+20 
+
+
+EP 1 243 145 B1 
+
+12 
+
+5 
+
+10 
+
+15 
+
+20 
+
+25 
+
+30 
+
+35 
+
+40 
+
+45 
+
+50 
+
+55 
+
+d'interfonctionnement (18) à une deuxième 
+fonction d'interfonctionnement (18) ; 
+ladite liaison de transmission comprenant 
+un canal de trafic (32), ledit canal aérien 
+(30), une liaison de couche liaison de don-
+nées (26) et une liaison de couche réseau 
+(24) ; 
+ladite liaison de transmission comprenant 
+un mode paquet dans lequel ledit canal de 
+trafic (32) est opérationnel et un mode som-
+meil dans lequel ledit canal de trafic (32) est 
+coupé pendant que ladite liaison de couche 
+liaison de données (26) et ladite liaison de 
+couche réseau (24) sont maintenues ; 
+ledit mécanisme d'extraction d'information 
+(504) est adapté pour extraire ladite infor-
+mation d'identificateur de région de réseau 
+dudit canal aérien (30) lorsque ladite liaison 
+de transmission est dans ledit mode 
+sommeil ; 
+ledit mécanisme de détermination (506) est 
+adapté pour déterminer quand ladite pre-
+mière fonction d'interfonctionnement (18) 
+est passée à ladite deuxième fonction d'in-
+terfonctionnement (18) en déterminant le 
+moment où se produit un changement cor-
+respondant dans ladite information d'iden-
+tificateur de région de réseau ; et 
+ledit mécanisme de requête (508) est un 
+mécanisme de Requête de Configuration 
+de protocole de commande de liaison, dé-
+nommé ci-après LCP, ladite requête de 
+configuration commandée par liaison étant 
+une Requête de Configuration de LCP. 
+
+10. Dispositif de communication sans fil (14, 500) selon 
+la revendication 9, dans lequel ladite liaison de cou-
+che liaison de données (26) et ladite liaison de cou-
+che réseau (24) comprennent respectivement une 
+liaison de Protocole Point à Point et une liaison de 
+protocole Internet. 
+
+11. Dispositif de communication sans fil (14, 500) selon 
+la revendication 9 ou 10, dans lequel ledit canal aé-
+rien (30) comprend un canal de messagerie (30) de 
+ladite liaison de transmission. 
+
+12. Dispositif de communication sans fil (14, 500) selon 
+la revendication 11, dans lequel ladite information 
+d'identificateur de région de réseau comprend soit 
+un identificateur de zone de paquet, soit une paire 
+Identification de Système/ Identification de Réseau. 
+
+
+
+Revendications 
+
+1. Procédé in vitro pour déterminer de manière quantitative la stabilité d'une protéine d'essai dans des conditions 
+natives, le procédé comprenant les étapes consistant à : 
+
+(a) fournir une protéine d'essai dans des conditions natives ; 
+(b) mettre en contact la protéine avec un tampon d'échange comprenant un dénaturant et du deutérium, le 
+tampon d'échange ayant une concentration dénaturante ; 
+(c) mettre en contact la protéine des essais avec un milieu de matrice de spectrométrie de masse ; 
+(d) déterminer un changement de masse de la protéine d'essai par rapport à la protéine d'essai dans des 
+conditions natives par spectrométrie de masse ; 
+caractérisé en ce qu'il comprend en outre les étapes consistant à : 
+(e) faire varier la concentration dénaturante du tampon d'échange ; 
+(f) répéter les étapes (a) à (e) un nombre désiré de fois; et 
+(g) déterminer de manière quantitative la stabilité de la protéine selon le changement de masse de la protéine 
+d'essai en fonction du changement de la concentration dénaturante, grâce à quoi la stabilité d'une protéine 
+d'essai dans des conditions natives est déterminée de manière quantitative. 
+
+2. Procédé de détection d'une occurrence de liaison impliquant une protéine d'essai avec un ligand d'essai, le procédé 
+consistant à : 
+
+(a) fournir une protéine d'essai ; 
+(b) fournir un ligand d'essai ; 
+(c) mettre en contact le ligand d'essai avec la protéine d'essai pour former un mélange d'essai ; 
+(d) mettre en contact le mélange d'essai avec un tampon d'échange comprenant un dénaturant et du deutérium, 
+le tampon d'échange ayant une concentration dénaturante ; 
+(e) mettre en contact le mélange d'essai avec un milieu de matrice de spectrométrie de masse ; 
+(f) déterminer un changement de masse de la protéine d'essai par spectrométrie de masse ; 
+caractérisé en ce qu'il comprend en outre les étapes consistant à : 
+(g) faire varier la concentration dénaturante du tampon d'échange ; 
+(h) répéter les étapes (a) à (g) un nombre désiré de fois ; et 
+(i) analyser le changement de masse de la protéine d'essai en fonction du changement de la concentration 
+dénaturante, grâce à quoi une occurrence de liaison impliquant la protéine d'essai et le ligand d'essai est 
+détectée. 
+
+3. Procédé pour déterminer de manière quantitative un changement de la stabilité d'une protéine d'essai attribué par 
+l'association d'un ligand d'essai avec la protéine d'essai, le procédé comprenant les étapes consistant à : 
+
+
+EP 1 307 736 B1 
+
+58 
+
+5 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+(a) fournir une protéine d'essai ; 
+(b) fournir un ligand d'essai ; 
+(c) mettre en contact le ligand d'essai avec la protéine d'essai pour former un mélange d'essai ; 
+(d) mettre en contact le mélange d'essai avec un tampon d'échange comprenant un dénaturant et du deutérium, 
+le tampon d'échange ayant une concentration dénaturante ; 
+(e) mettre en contact le mélange d'essai avec un milieu de matrice de spectrométrie de masse ; 
+(f) déterminer un changement de masse de la protéine d'essai par spectrométrie de masse ; 
+caractérisé en ce qu'il comprend en outre les étapes consistant à : 
+(g) faire varier la concentration dénaturante du tampon d'échange ; 
+(h) répéter les étapes (a) à (g) un nombre désiré de fois ; 
+(i) calculer la stabilité de la protéine d'essai en présence du ligand d'essai selon le changement de masse de 
+la protéine d'essai en fonction du changement de concentration dénaturante ; et 
+(j) comparer de manière quantitative la stabilité de la protéine d'essai en présence du ligand d'essai avec la 
+stabilité de la protéine en l'absence de ligand pour déterminer ainsi de manière quantitative un changement de 
+stabilité d'une protéine d'essai attribué par l'association d'un ligand d'essai avec la protéine d'essai. 
+
+4. Procédé de détection d'une protéine mutante repliée de manière incorrecte, le procédé comprenant les étapes 
+consistant à : 
+
+(a) mettre en contact une protéine d'essai mutante avec un tampon d'échange comprenant un dénaturant et 
+du deutérium, le tampon d'échange ayant une concentration dénaturante ; 
+(b) mettre en contact une protéine d'essai mutante avec un milieu de matrice de spectrométrie de masse ; 
+(c) déterminer un changement de masse de la protéine d'essai mutante par spectrométrie de masse ; 
+caractérisé en ce qu'il comprend en outre les étapes consistant à : 
+(d) faire varier la concentration dénaturante du tampon d'échange ; 
+(e) répéter les étapes (a) à (d) un nombre désiré de fois ; 
+(f) déterminer de manière quantitative la stabilité de la protéine selon le changement de masse de la protéine 
+d'essai mutante en fonction du changement de concentration dénaturante ; et 
+(g) comparer la stabilité de la protéine d'essai mutante avec la stabilité d'une protéine d'essai témoin non mutée, 
+une différence des stabilités étant indicatrice d'une protéine mutante repliée de manière incorrecte. 
+
+5. Procédé de détection d'une maladie caractérisée par un mauvais repliement d'une protéine, le procédé comprenant 
+les étapes consistant à : 
+
+(a) fournir une protéine d'essai suspectée d'être mal repliée ; 
+(b) mettre en contact la protéine avec un tampon d'échange comprenant un dénaturant et du deutérium, le 
+tampon d'échange ayant une concentration dénaturante ; 
+(c) mettre en contact la protéine d'essai avec un milieu de matrice de spectrométrie de masse ; 
+(d) déterminer un changement de masse de la protéine d'essai par spectrométrie de masse ; 
+caractérisé en ce qu'il comprend en outre les étapes consistant à : 
+(e) faire varier la concentration dénaturante du tampon d'échange ; 
+(f) répéter les étapes (a) à (e) un nombre désiré de fois ; et 
+(g) analyser le changement de masse de la protéine d'essai en fonction du changement de concentration 
+dénaturante pour déterminer une stabilité de la protéine d'essai ; et 
+(h) comparer la stabilité de la protéine d'essai suspectée d'être mal repliée avec une stabilité connue de la 
+protéine d'essai, où un changement de stabilité de la protéine d'essai quand elle est comparée avec la stabilité 
+connue de la protéine d'essai est indicatrice d'une maladie caractérisée par un mauvais repliement d'une 
+protéine. 
+
+6. Procédé d'identification d'une protéine qui se déplie grâce à un ou plusieurs intermédiaires stables, le procédé 
+comprenant les étapes consistant à : 
+
+(a) fournir une protéine d'essai suspectée de se déplier grâce à un ou plusieurs intermédiaires ; 
+(b) mettre en contact la protéine d'essai avec un tampon d'échange comprenant un dénaturant et du deutérium, 
+le tampon d'échange ayant une concentration dénaturante ; 
+(c) mettre en contact la protéine d'essai avec un milieu de matrice de spectrométrie de masse ; 
+(d) déterminer un changement de masse de la protéine d'essai par spectrométrie de masse ; 
+caractérisé en ce qu'il comprend en outre les étapes consistant à : 
+
+
+EP 1 307 736 B1 
+
+59 
+
+5 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+(e) faire varier la concentration dénaturante du tampon d'échange ; 
+(f) répéter les étapes (a) à (e) un nombre désiré de fois ; et 
+(g) tracer le changement de masse de la protéine d'essai en fonction du changement de concentration déna-
+turante pour générer une courbe de dépliement ; 
+(h) évaluer la courbe de dépliement, pour identifier ainsi un ou plusieurs intermédiaires stables. 
+
+7. Procédé selon l'une quelconque des revendications 1 à 6, dans lequel la protéine d'essai est disposée dans un 
+lysat cellulaire brut. 
+
+8. Procédé selon l'une quelconque des revendications 1 à 6, dans lequel la protéine d'essai présente une masse 
+inférieure à 1 000 000 daltons. 
+
+9. Procédé selon l'une quelconque des revendications 1 à 6, dans lequel la protéine d'essai est une protéine multimère. 
+
+10. Procédé selon l'une quelconque des revendications 1 à 6, dans lequel la protéine d'essai est disposée sur une 
+plaque de microtitrage. 
+
+11. Procédé selon l'une quelconque des revendications 1 à 6, dans lequel une pluralité de protéines d'essai sont 
+disposées sur la plaque de microtitrage. 
+
+12. Procédé selon la revendication 11, dans lequel le procédé comprend en outre les étapes consistant à répéter les 
+étapes de procédé pour chaque protéine d'essai disposée sur la plaque de microtitrage. 
+
+13. Procédé selon l'une quelconque des revendications 1 à 6, dans lequel la protéine d'essai est fournie en quantités 
+picomolaires ou supérieures. 
+
+14. Procédé selon l'une quelconque des revendications 1 à 6, dans lequel la protéine d'essai est présente dans des 
+cellules, où réaliser le procédé dans des cellules embryonnaires humaines est exclu. 
+
+15. Procédé selon l'une quelconque des revendications 1 à 6, dans lequel le dénaturant est un dénaturant chimique. 
+
+16. Procédé selon la revendication 15, dans lequel le dénaturant est choisi parmi le groupe consistant en détergents, 
+chlorure de guanidinium et urée. 
+
+17. Procédé selon l'une quelconque des revendications 1 à 6, dans lequel le matériau de matrice de spectrométrie de 
+masse est un matériau de matrice de spectrométrie de masse à désorption/ ionisation laser assistée par matrice 
+(MALDI) et la spectrométrie de masse est une spectrométrie de masse MALDI. 
+
+18. Procédé selon la revendication 17, dans lequel le matériau de matrice de spectrométrie de masse MALDI est choisi 
+parmi le groupe consistant en acide sinapinique, acide α-cyano-4-hydroxycinnamique, acide 2,5-dihydroxybenzoï-
+que, 2,5-dihydroxyacétophénone et acide 3-amino-4-hydroxybenzoïque. 
+
+19. Procédé selon l'une quelconque des revendications 1 à 6, dans lequel le calcul, la détermination, l'analyse, ou le 
+tracé est réalisé en utilisant un programme informatique. 
+
+20. Procédé selon l'une quelconque des revendications 1 à 6, comprenant l'étape consistant en outre à fournir une 
+protéine de référence avec la protéine d'essai. 
+
+21. Procédé selon l'une quelconque des revendications 1 à 6, comprenant l'étape consistant en outre à : 
+
+(a) mettre en contact la protéine d'essai avec une matrice de chromatographie à phases inversées ; et 
+(b) éluer la protéine d'essai à partir de la matrice de chromatographie. 
+
+22. Procédé selon la revendication 21, comprenant l'étape consistant en outre à mettre en contact la protéine d'essai 
+avec un acide avant de mettre en contact la protéine d'essai avec la matrice de chromatographie à phases inversées. 
+
+23. Procédé selon la revendication 2, dans lequel l'analyse comprend les étapes consistant à : 
+
+
+EP 1 307 736 B1 
+
+60 
+
+5 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+(a) tracer le changement de masse de la protéine d'essai en présence du ligand d'essai en fonction de la 
+concentration dénaturante pour générer une première courbe de dénaturation ; 
+(b) tracer le changement de masse de la protéine d'essai en l'absence du ligand d'essai en fonction de la 
+concentration dénaturante pour générer une deuxième courbe de dénaturation ; et 
+(c) identifier un changement de la position de la première courbe de dénaturation par rapport à la position de 
+la deuxième courbe de dénaturation, où une différence des positions des première et deuxième courbes de 
+dénaturation est indicatrice d'une occurrence de liaison impliquant le ligand d'essai et la protéine d'essai. 
+
+24. Procédé selon la revendication 4, comprenant l'étape consistant en outre à fournir une protéine d'essai. 
+
+25. Procédé selon la revendication 24, comprenant l'étape consistant en outre à introduire une mutation dans une 
+séquence d'acides aminés de la protéine d'essai pour former une protéine d'essai mutante. 
+
+26. Procédé selon la revendication 4, dans lequel la mutation est introduite à une position connue dans la séquence 
+d'acides aminés de la protéine d'essai. 
+
+27. Procédé selon la revendication 4, dans lequel la mutation est introduite à une position inconnue dans la séquence 
+d'acides aminés de la protéine d'essai. 
+
+28. Procédé selon la revendication 26, dans lequel une pluralité de mutations sont introduites dans la séquence d'acides 
+aminés de la protéine d'essai. 
+
+29. Procédé selon les revendications 1 à 4, dans lequel la protéine d'essai est associée à un phénotype malade. 
+
+30. Procédé selon l'une quelconque des revendications 1 à 4, dans lequel le phénotype malade est caractérisé par 
+un mauvais repliement de protéine. 
+
+31. Procédé selon les revendications 1 ou 3 à 5, dans lequel l'étape d'analyse, de calcul, ou de détermination quantitative 
+de la stabilité de protéine selon le changement de masse de la protéine d'essai mutante en fonction de la concentration 
+dénaturante comprend l'étape consistant à ajuster des données comprenant un changement de masse de la protéine 
+d'essai mutante en fonction du dénaturant selon l'équation ∆Mass = ∆M ∞ + (∆M 0 -∆M ∞ ) e -(&lt;kint&gt;/(1+Kfold))t , où K fold 
+= e -(∆Gf+m[Denat.]/RT) et ∆G f est la stabilité de la protéine d'essai, où 
+
+∆M ∞ = ∆Mass après l'échange complet 
+∆M 0 = ∆Mass avant l'échange global 
+
+t = temps d'échange 
+Kint = vitesse d'échange pour l'hydrogène non protégé 
+[Denat.] = concentration de dénaturant 
+R = constante des gaz 
+T = température en Kelvin 
+
+32. Procédé selon les revendications 3 à 5, dans lequel l'étape d'analyse du changement de masse de la protéine 
+d'essai pour déterminer une stabilité de la protéine d'essai mutante, l'étape de détermination quantitative de la 
+stabilité de la protéine selon le changement de masse de la protéine d'essai mutante en fonction de la concentration 
+dénaturante, ou dans lequel l'étape de calcul de la stabilité de la protéine d'essai en présence du ligand d'essai 
+comprend l'étape consistant à déterminer une énergie libre de repliement à partir d'une courbe de dénaturation 
+basée sur le changement de masse de la protéine, l'énergie libre de repliement étant indicatrice de la stabilité d'une 
+protéine d'essai. 
+
+33. Procédé selon les revendications 1 à 5, dans lequel l'étape d'analyse du changement de masse de la protéine 
+d'essai pour déterminer une stabilité de la protéine d'essai mutante comprend l'étape consistant à déterminer un 
+changement de masse de la protéine d'essai basé sur l'échange du deutérium par l'hydrogène, l'échange étant 
+dépendant des hydrogènes s'échangeant lentement dans la protéine d'essai. 
+
+
+EP 1 307 736 B1 
+
+61 
+
+
+EP 1 307 736 B1 
+
+62 
+
+
+Revendications 
+
+1. Procédé de fabrication d'une deuxième préforme 
+(107) pour une fibre optique (350), comprenant : 
+
+le chauffage d'une tige en verre (106), qui est 
+une première préforme pour ladite fibre optique 
+(350), et 
+l'allongement de ladite tige en verre chauffée 
+(106) pour générer la deuxième préforme (107), 
+dans lequel : 
+
+ledit chauffage et la vitesse d'allongement 
+sont commandés en fonction du diamètre 
+de la tige en verre (106) qui change à me-
+sure qu'on allonge ladite tige en verre (106), 
+
+caractérisé en ce que : 
+
+le procédé comprend, en outre, 
+l'étirement au niveau de l'extrémité de ladite 
+deuxième préforme (107) pour former une ré-
+gion étirée au niveau de l'extrémité pour étirer 
+la fibre optique (350) et 
+le polissage au feu de ladite deuxième préforme 
+
+45 
+46 
+
+
+EP 1 364 919 B1 
+
+26 
+
+5 
+
+10 
+
+15 
+
+20 
+
+25 
+
+30 
+
+35 
+
+40 
+
+45 
+
+50 
+
+55 
+
+(107) après l'étirement au niveau de l'extrémité, 
+l'emplacement de la région étirée au niveau de 
+l'extrémité étant détecté en mesurant le diamè-
+tre en une pluralité d'emplacements recouvrant 
+la région comprenant ladite région étirée au ni-
+veau de l'extrémité le long de la direction axiale 
+de ladite deuxième préforme (107), 
+une plage de polissage, dans laquelle ladite tige 
+en verre (106) est polie par une flamme, étant 
+établie par rapport à l'emplacement détecté de 
+ladite région étirée au niveau de l'extrémité, et 
+la puissance de chauffage de ladite flamme 
+étant commandée en fonction du diamètre cor-
+respondant de la deuxième préforme pour polir 
+ladite plage de polissage de ladite deuxième 
+préforme par ladite flamme. 
+
+2. Procédé selon la revendication 1, dans lequel la ré-
+gion étirée au niveau de l'extrémité se présente sous 
+la forme d'un cône circulaire. 
+
+3. Procédé selon la revendication 1 ou 2, dans lequel 
+la plage de polissage est, en outre, établie en fonc-
+tion d'un changement de longueur de la tige en verre 
+(106) le long de la direction axiale provoqué par ledit 
+allongement. 
+
+4. Procédé de fabrication d'une fibre optique (350) 
+comprenant un procédé selon l'une quelconque des 
+revendications 1 à 3, le procédé comprenant, en 
+outre, le chauffage et l'étirement de ladite deuxième 
+préforme (107) pour lui conférer une forme de fila-
+ment afin de générer ladite fibre optique (350). 
+
+47 
+48 
+
+
+EP 1 364 919 B1 
+
+27 
+
+
+
+Revendications 
+
+1. Système comprenant : 
+
+deux dispositifs semi-conducteurs connectés en parallèle à un bus, 
+dans lequel un premier dispositif semi-conducteur des deux dispositifs semi-conducteurs est un dispositif émet-
+teur/récepteur et un second dispositif semi-conducteur des deux dispositifs semi-conducteurs est un dispositif 
+maître, le dispositif maître comprenant un moyen pour initier des transactions de bus qui transfèrent des infor-
+mations entre les dispositifs semi-conducteurs sur le bus, 
+le bus comprenant une pluralité de lignes de bus servant à acheminer sensiblement l'intégralité des information 
+d'adresse, de données et de commande nécessitées par les dispositifs semi-conducteurs, les informations de 
+commande comprenant des informations de sélection de dispositif, le bus contenant sensiblement moins de 
+lignes que le nombre de bits dans une adresse unique, et le bus acheminant des informations de sélection de 
+dispositif sans nécessiter de lignes séparées de sélection de dispositif connectées directement à des dispositifs 
+semi-conducteurs individuels sur le bus. 
+
+2. Système selon la revendication 1, dans lequel le système comprend en outre des unités multiples interfacées avec 
+le bus via le dispositif émetteur/récepteur, dans lequel les unités multiples sont des mémoires dynamiques à accès 
+direct (DRAM). 
+
+3. Système selon la revendication 2, dans lequel chacun des DRAM comprend : 
+
+une circuiterie de récepteur d'horloge (101, 111) pour recevoir un signal d'horloge (53, 54) ; 
+un registre de temps d'accès programmable pour stocker une valeur qui est représentative d'un nombre de 
+cycles d'horloge du signal d'horloge (53, 54) à transférer après quoi la DRAM répond à une demande de lecture 
+reçue du dispositif émetteur/récepteur de manière synchrone par rapport au signal d'horloge ; et 
+une pluralité de circuits d'attaque de sortie (76) pour sortir des données vers le dispositif émetteur/récepteur 
+en réponse à la demande de lecture, dans lequel les circuits d'attaque de sortie (76) fournissent en sortie la 
+donnée après que le nombre de cycles d'horloge du signal d'horloge soit transféré et de manière synchrone 
+par rapport au signal d'horloge (53, 54) de sorte que la demande de lecture et la réponse correspondante sont 
+séparées par le nombre de cycles d'horloge sélectionné par la valeur stockée dans le registre de temps d'accès 
+programmable, dans lequel chaque circuit d'attaque de sortie de la pluralité de circuits d'attaque de sortie (76) 
+fournit en sortie la donnée à un débit de donnée de cycle de bus qui est le double du débit du signal d'horloge. 
+
+4. Système selon la revendication 3, dans lequel, pour chaque DRAM, la valeur est stockée dans le registre de temps 
+d'accès programmable en réponse à une opération de registre de réglage émis par le dispositif maître. 
+
+5. Système selon l'une des revendications 3 ou 4, 
+dans lequel, en réponse à une demande de lecture, la pluralité des circuits d'attaque de sortie (76) fournit en sortie 
+une quantité de données définies par des informations de taille de bloc reçues par chaque DRAM de manière 
+synchrone par rapport au signal (53, 54) d'horloge. 
+
+6. Système selon l'une quelconque des revendications 3, 4, ou 5, caractérisé en outre en ce que chaque DRAM 
+comprend : 
+
+un circuit générateur d'horloge à dispositif interne, couplé à la circuiterie de récepteur d'horloge, pour générer 
+un signal d'horloge interne destiné à fournir en sortie des données en réponse à la demande de lecture, dans 
+lequel le circuit de génération d'horloge à dispositif interne surveille et contrôle une relation de synchronisation 
+entre des données à fournir en sortie et le signal d'horloge reçu par la DRAM. 
+
+7. Système selon la revendication 6, dans lequel le circuit de génération d'horloge de dispositif interne doit générer 
+un signal d'horloge interne complémentaire, dans lequel le signal d'horloge interne et le signal d'horloge interne 
+complémentaire sont utilisés pour sélectionner quelles données sont envoyées vers la pluralité de circuits d'attaque 
+de sortie. 
+
+8. Système selon l'une des revendications 6 ou 7, dans lequel le circuit de génération d'horloge de dispositif interne 
+utilise une ligne à rétroaction pour régler une ligne à retard variable afin de générer le signal d'horloge interne. 
+
+9. Système selon l'une quelconque des revendications 3 à 7, dans lequel chaque DRAM comprend en outre des 
+amplificateurs de détection pour lire des données à partir du réseau de mémoire, dans lequel lorsque l'information 
+de précharge reçue d'un contrôleur sur le bus indique qu'une opération de précharge devrait être réalisée, pour 
+précharger automatiquement les amplificateurs de détection en tant qu'étape de l'exécution de la demande de 
+lecture. 
+
+
+EP 1 830 241 B1 
+
+21 

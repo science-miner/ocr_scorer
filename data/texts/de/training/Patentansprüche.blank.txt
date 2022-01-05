@@ -1506,3 +1506,971 @@ enthalten.
 
 
 
+
+Patentansprüche 
+
+1. Verfahren zur Herstellung von 3-[2-Cyclopropyl-4-(4-fluorphenyl)-3-chinolyl] prop-2-enal durch Reduktion von 3-[2-
+Cyclopropyl-4-(4-fluorphenyl)-3-chinolyl] prop-2-ennitril unter Verwendung von Raney-Nickel in Gegenwart von 
+Ameisensäure und Wasser in einer Menge von 0,25 bis 1 Volumenteil je Volumenteil Ameisensäure oder in Ge-
+genwart eines Aminsalzes von Ameisensäure und einer organischen Säure. 
+
+2. Verfahren nach Anspruch 1, wobei das Raney-Nickel in einer Menge von 0,30 bis 2 Gewichtsteilen, als Gewicht an 
+Nickelatom, je Gewichtsteil 3-[2-Cyclopropyl-4-(4-fluorphenyl)-3-chinolyl] prop-2-ennitril verwendet wird. 
+
+3. Verfahren nach Anspruch 1, wobei das 3-[2-Cyclopropyl-4-(4-fluorphenyl)-3-chinolyl] prop-2-ennitril durch das Ra-
+ney-Nickel in Gegenwart von 0,25 bis 50 Gewichtsteilen Ameisensäure je Gewichtsteil Ennitril und 0,25 bis 1 Vo-
+lumenteil Wasser je Volumenteil Ameisensäure reduziert wird. 
+
+4. Verfahren nach Anspruch 1, wobei das 3-[2-Cyclopropyl-4-(4-fluorphenyl)-3-chinolyl] prop-2-ennitril durch das Ra-
+ney-Nickel in Gegenwart von Ammoniumformiat und einer organischen Säure reduziert wird. 
+
+5. Verfahren nach Anspruch 4, wobei die organische Säure in einer Menge von 3 bis 50 Gewichtsteilen je Gewichtsteil 
+des Ennitrils verwendet wird. 
+
+6. Verfahren nach Anspruch 1, wobei das 3-[2-Cyclopropyl-4-(4-fluorphenyl)-3-chinolyl] prop-2-ennitril durch das Ra-
+ney-Nickel in Gegenwart eines Aminsalzes von Ameisensäure und einer niederen aliphatischen Säure mit 2 bis 5 
+Kohlenstoffatomen reduziert wird. 
+
+7. Verfahren nach Anspruch 6, wobei das Aminsalz der Ameisensäure in einer Menge von 1,0 bis 5,0 Mol je Mol Ennitril 
+verwendet wird. 
+
+8. Verfahren nach Anspruch 1, wobei das 3-[2-Cyclopropyl-4-(4-fluorphenyl)-3-chinolyl] prop-2-ennitril durch das Ra-
+ney-Nickel in Gegenwart eines Ammoniumformiats und einer niederen aliphatischen Säure mit 2 bis 5 Kohlenstoffa-
+tomen reduziert wird. 
+
+9. Verfahren nach Anspruch 1, wobei die Reduktion unter Verwendung von Raney-Nickel bei einer Temperatur im 
+Bereich von 20 bis 110°C durchgeführt wird. 
+
+
+Patentansprüche 
+
+1. Substratstruktur, umfassend: 
+
+ein Substrat (100); 
+mehrere Dünnfilmschichten (131-13n), die auf 
+das Substrat laminiert sind; und 
+eine Bank (110), die eine Fläche umschließt, in 
+der die mehreren Dünnfilmschichten (131-13n) 
+angeordnet sind, wobei die Bank (110) eine er-
+ste Bankschicht (111), eine zweite Bankschicht 
+(121) und eine dritte Bankschicht (112) enthält, 
+wobei die zweite Bankschicht (121) zwischen 
+der ersten (111) und dritten (112) Bankschicht 
+angeordnet ist, die erste (111) und dritte (112) 
+Bankschicht aus einem von einem anorgani-
+schen Material und einem organischen Material 
+gebildet sind, die zweite Bankschicht (121) aus 
+dem anderen von dem anorganischen Material 
+und dem organischen Material gebildet ist, die 
+erste (111) und dritte (112) Bankschicht Affinität 
+für die Dünnfilmschichten aufweisen, und die 
+zweite Bankschicht (121) keine Affinität für die 
+Dünnfilmschichten aufweist. 
+
+2. Substrat nach Anspruch 1, wobei die Bank (110) ab-
+wechselnd eine Affinitätsbankschicht (111-11n) mit 
+Affinität für die Dünnfilmschichten (131-13n) und ei-
+ne Nicht-Affinitätsbankschicht (121-12n) ohne Affi-
+nität für die Dünnfilmschichten (131-13n) umfasst. 
+
+3. Substrat nach Anspruch 1, wobei das Ausmaß der 
+
+21 
+22 
+
+
+EP 1 566 853 B1 
+
+13 
+
+5 
+
+10 
+
+15 
+
+20 
+
+25 
+
+30 
+
+35 
+
+40 
+
+45 
+
+50 
+
+55 
+
+Affinität der Affinitätsbankschicht gegenüber einem 
+flüssigen Material der Dünnfilmschichten, das in ei-
+nem flüssigen Verfahren verwendet wird, größer als 
+jenes der Nicht-Affinitätsbankschicht ist. 
+
+4. Substrat nach Anspruch 3, wobei das flüssige Ma-
+terial polare Moleküle umfasst. 
+
+5. Substrat nach Anspruch 3, wobei das flüssige Ma-
+terial nicht polare Moleküle umfasst. 
+
+6. Substrat nach Anspruch 2, wobei zumindest eine 
+von der Affinitätsbankschicht und der Nicht-Affini-
+tätsbankschicht oberflächenbehandelt ist, so dass 
+sie Affinität beziehungsweise Nicht-Affinität auf-
+weist. 
+
+7. Substrat nach Anspruch 2, wobei die Affinitätsbank-
+schicht ein organisches Material enthält. 
+
+8. Substrat nach Anspruch 2, wobei die Affinitätsbank-
+schicht ein anorganisches Material enthält. 
+
+9. Substrat nach Anspruch 2, wobei die Nicht-Affinitäts-
+bankschicht ein organisches Material enthält. 
+
+10. Substrat nach Anspruch 2, wobei die Nicht-Affinitäts-
+bankschicht ein anorganisches Material enthält. 
+
+11. Substrat nach einem der Ansprüche 3, 7 oder 9, wo-
+bei die Affinitätsbankschicht mit Plasma behandelt 
+ist. 
+
+12. Substrat nach einem der Ansprüche 7 oder 9, wobei 
+das organische Material eine organische Verbin-
+dung enthält, die Polyimid, amorphes Silizium, Po-
+lysilizium oder Fluor, oder eine isolierende organi-
+sche Verbindung enthält. 
+
+13. Substrat nach einem der Ansprüche 8 bis 10, wobei 
+das anorganische Material Al, Ta, Siliziumoxid oder 
+Siliziumnitrid enthält. 
+
+14. Substrat nach Anspruch 2, wobei eine Dicke der er-
+sten Dünnschicht so eingestellt ist, dass sie im We-
+sentlichen dieselbe Dicke ist wie die Affinitätsbank-
+schicht in der untersten Schicht der Bank. 
+
+15. Substrat nach Anspruch 14, wobei eine Dicke jeder 
+Dünnfilmschicht, die auf dem ersten Dünnfilm liegt, 
+so eingestellt ist, dass sie im Wesentlichen dieselbe 
+Dicke wie die entsprechende Gesamtdicke der Affi-
+nitätsbankschicht und der Nicht-Affinitätsbank-
+schicht aufweist, die auf die der Bank entsprechen-
+den Höhe geschichtet sind. 
+
+16. Substrat nach Anspruch 15, wobei die Dicke der 
+Nicht-Affinitätsschicht in der oberen Schicht auf 500 
+
+nm oder weniger eingestellt ist, und die Dicke der 
+anderen Nicht-Affinitätsbankschicht auf 100 nm oder 
+weniger eingestellt ist. 
+
+17. Substrat nach Anspruch 1, wobei die Dünnfilm-
+schichten einen organischen Halbleiter enthalten. 
+
+18. Substrat nach Anspruch 1, wobei die Dünnfilm-
+schichten ein Farbfilter enthalten. 
+
+19. Substrat nach Anspruch 1, wobei die erste und dritte 
+Bankschicht aus demselben Material bestehen. 
+
+20. Substrat nach Anspruch 1, wobei die Dicke der er-
+sten Dünnfilmschicht dieselbe ist wie die Dicke der 
+ersten Bankschicht, und wobei die Dicke der zweiten 
+Dünnfilmschicht dieselbe ist wie die Dicke der Ge-
+samtdicke der ersten und dritten Bankschicht. 
+
+
+
+
+Patentansprüche 
+
+1. Zusammensetzung, die die folgenden Bestandteile umfasst: ein texturiertes Fasermaterial, das ein Cellulose-oder 
+ligninhaltiges Cellulosematerial umfasst, das in einem derartigen Ausmaß geschert wurde, dass seine internen 
+Fasern im wesentlichen freiliegen; und ein Bakterium und/ oder ein Enzym. 
+
+2. Zusammensetzung nach Anspruch 1, wobei das Cellulose-oder ligninhaltige Cellulosematerial aus der Gruppe 
+ausgewählt ist, die aus Papier, Papierprodukten, Nebenprodukten der Papierherstellung, Zeitungspapier, Abfluss 
+bei der Papierherstellung, Holz, Holzfasern, mit Holz in Verbindung stehenden Materialien, Kenaf, Gräsern, Reis-
+spelzen, Bagasse, Baumwolle, Jute, Hanf, Flachs, Bambusbastfasern, Bambuskernfasern, Blattpflanzen, Sisal, 
+Abaca, Agrofasern, Getreidestroh, Maiskolben, Kokoshaar, Abfall, Hadern und Gemischen hiervon besteht. 
+
+3. Zusammensetzung nach Anspruch 1, wobei das Cellulose-oder ligninhaltige Cellulosematerial Zellstoffpappe ist. 
+
+4. Zusammensetzung nach Anspruch 1, wobei das Cellulose-oder ligninhaltige Cellulosematerial ein synthetisches 
+Material ist. 
+
+5. Zusammensetzung nach Anspruch 1, wobei das Cellulose-oder ligninhaltige Cellulosematerial ein nichtgewebtes 
+Material ist. 
+
+6. Zusammensetzung nach Anspruch 1, wobei mindestens etwa 50 % der Fasern ein Länge/ Durchmesser-Verhältnis 
+von mindestens 5 aufweisen. 
+
+7. Zusammensetzung nach Anspruch 1, wobei mindestens etwa 50 % der Fasern ein Länge/ Durchmesser-Verhältnis 
+von mindestens 10 aufweisen. 
+
+8. Zusammensetzung nach Anspruch 1, wobei mindestens etwa 50 % der Fasern ein Länge/ Durchmesser-Verhältnis 
+von mindestens 25 aufweisen. 
+
+9. Verfahren zur Herstellung einer Zusammensetzung, wobei das Verfahren das Kombinieren eines Cellulose-oder 
+ligninhaltigen Cellulosematerials, das in einem derartigen Ausmaß geschert wurde, dass seine internen Fasern im 
+wesentlichen freiliegen, mit einem Bakterium und/ oder einem Enzym umfasst. 
+
+10. Verfahren nach Anspruch 9, das ferner die Stufe des Scherens des Cellulose-oder ligninhaltigen Cellulosematerials 
+mit einem Rotationsschneider umfasst. 
+
+11. Verfahren nach Anspruch 9, wobei das Bakterium und/ oder das Enzym mit dem Cellulose-oder ligninhaltigen 
+Cellulosematerial kombiniert wird. 
+
+12. Verfahren nach Anspruch 9, wobei das Cellulose-oder ligninhaltige Cellulosematerial eine Schüttdichte von weniger 
+als etwa 0,5 g/cm 3 aufweist. 
+
+
+Patentansprüche 
+
+1. Ein Verfahren, das Folgendes aufweist: 
+
+Aufbauen eines Mobilpaketnetzwerkanrufs 
+über eine Übertragungsverbindung, wobei die 
+Übertragungsverbindung sich zwischen einer 
+Mobilterminalvorrichtung (12) und einer gege-
+benen Zwischenverbindungsfunktion bzw. In-
+terworking Function (18) erstreckt und die Mo-
+bilterminalvorrichtung mit einer Drahtloskom-
+munikationsvorrichtung (14,500) über eine er-
+ste Schnittstelle (Rm) verbindet und weiter die 
+Drahtloskommunikationsvorrichtung (14,500) 
+mit der gegebenen Interworking Function (18) 
+über eine zweite Schnittstelle (Um, L) über eine 
+Drahtlosverbindung mit einer Basisstation (16) 
+verbindet, wobei die gegebene Interworking 
+Function (18) sich von einer ersten Interworking 
+Function (18) zu einer zweiten Interworking 
+Function (18) verändert, wobei die Übertra-
+gungsverbindung einen Verkehrskanal (32), ei-
+ne 
+Datenverbindungslayer-
+bzw. 
+Schicht-(26)-Verbindung und eine Netzwerk-
+schicht-(24)-Verbindung aufweist, wobei die 
+Übertragungsverbindung einen Paketmodus, in 
+dem der Verkehrskanal (32) besteht, und einen 
+Schlafmodus, in dem der Verkehrskanal (32) 
+nicht besteht, während die Datenverbindungs-
+schicht-(26)-Verbindung und die Netzwerk-
+Schicht-(24)-Verbindung unterhalten werden, 
+aufweist, wobei das Verfahren gekennzeich-
+net ist durch: 
+
+Vorsehen von Netzwerkregionidentifizie-
+rerinformation an die Drahtloskommunika-
+tionsvorrichtung (14,500), wenn die Über-
+tragungsverbindung in dem Schlafmodus 
+ist; wobei die Drahtloskommunikationsvor-
+richtung (14,500) bestimmt, wann die gege-
+bene Interworking Function (18) sich von 
+der ersten Interworking Function (18) zu der 
+zweiten Interworking Function (18) verän-
+dert hat durch Bestimmen, wann es eine 
+
+13 
+14 
+
+
+EP 1 243 145 B1 
+
+9 
+
+5 
+
+10 
+
+15 
+
+20 
+
+25 
+
+30 
+
+35 
+
+40 
+
+45 
+
+50 
+
+55 
+
+entsprechende Veränderung in der 
+Netzwerkregionidentifiziererinformation 
+gibt; 
+wobei die Drahtloskommunikationsvorrich-
+tung (14,500) eine Verbindungssteuerpro-
+tokollaushandlung mit der Mobilterminal-
+vorrichtung (12) initiiert, wenn die entspre-
+chende Veränderung in der Netzwerkregio-
+nidentifiziererinformation bestimmt wurde; 
+wobei die Mobilterminalvorrichtung (12) 
+auch die Initiierung der Vorwärtssteue-
+rungsprotokollaushandlung 
+anspricht 
+durch Weiterleiten von Verbindungssteue-
+rungsprotokollpakete an die zweite Inter-
+working Function (18) über die Drahtlos-
+kommunikationsvorrichtung (14,500), was 
+bewirkt, dass die Übertragungsverbindung 
+in den Paketmodus eintritt und den Ver-
+kehrskanal (32) "hochbringt", bzw. ihn be-
+stehen lässt, wobei die Mobilterminalvor-
+richtung (12) dann eine Datenverbindungs-
+schicht-(26)-Verbindung mit der zweiten In-
+terworking Function (18) aufbaut; 
+nachdem die Datenverbindungsschicht-
+(26)-Verbindung mit der zweiten Interwor-
+king Function (18) aufgebaut ist, Aushan-
+deln durch die Mobilterminalvorrichtung 
+(12) und die zweite Interworking Function 
+(18) von Netzwerksteuerprotokolloptionen 
+und Aufbauen einer Netzwerkschicht-
+(24)-Verbindung zwischen der Mobiltermi-
+nalvorrichtung (12) und der zweiten Inter-
+working Function (18). 
+
+2. Verfahren gemäß Anspruch 1, wobei, nachdem die 
+Datenverbindungsschicht-(26)-Verbindung mit der 
+zweiten Interworking Function (18) aufgebaut ist, die 
+Mobilterminalvorrichtung (12), wenn dies angemes-
+sen ist, ihre Internetprotokollmobilitätsregistrierung 
+gemäß der zweiten Interworking Function (18) ak-
+tualisiert. 
+
+3. Verfahren gemäß Anspruch 1, wobei die Datenver-
+bindungsschicht-(26)-Verbindung und die Netz-
+werkschicht-(24)-Verbindung jeweils eine Punkt-zu-
+Punkt-Protokollverbindung und eine Internetproto-
+kollverbindung aufweist. 
+
+4. Verfahren gemäß Anspruch 1, wobei der Paketmo-
+dus einen Connected State bzw. verbundenen Zu-
+stand gemäß IS-707.5 aufweist und wobei der 
+Schlafmodus einen Dormant/ Idle State bzw. Schlaf/ 
+Leerlaufzustand gemäß IS-707.5 aufweist. 
+
+5. Verfahren gemäß Anspruch 1, wobei die 
+Netzwerkregionsidentifiziererinformation Informa-
+tionen aufweist, die über einen Pagingkanal (30) 
+über die Übertragungsverbindung gesendet wird. 
+
+6. Verfahren gemäß Anspruch 5, wobei die 
+Netzwerkregionidentifiziererinformation eines der 
+Folgenden aufweist: 
+
+eine Paketzonenkennung (bzw. ID) und ein Sy-
+stemidentifikations/ Netzwerkidentifikationspaar. 
+
+7. Verfahren gemäß Anspruch 1, wobei das Initiieren 
+eine Aushandlung des Verbindungssteuerungspro-
+tokoll, was im Folgenden LCP (LCP = Link Control 
+Protocol) genannt wird, mit der Mobilterminalvorrich-
+tung (12) aufweist, das Senden eines LCP Konfigu-
+rationsanfragepakets an die Mobilterminalvorrich-
+tung (12) aufweist, wobei die Mobilterminalvorrich-
+tung (12) das LCP Konfigurationsanfragepaket in-
+terpretiert als abstammend von der zweiten Inter-
+working Function (18). 
+
+8. Verfahren gemäß Anspruch 7, wobei die Mobilter-
+minalvorrichtung (12) bestimmt, ob die zweite Inter-
+working Function (18) einen neuen Foreign Agent 
+aufweist und die zweite Interworking Function (18) 
+einen neuen Foreign Agent aufweist, wobei die Mo-
+bilterminalvorrichtung (12) einen Prozess der Inter-
+netprotokoll-Mobilitätsregistrierungsaktualisierung 
+ausführt. 
+
+9. Eine Drahtloskommunikationsvorrichtung (14,500), 
+zum Unterstützen einer Übertragungsverbindung 
+zwischen einer Mobilterminalvorrichtung (12) und ei-
+ner Interworking Function (18), wobei die Drahtlos-
+kommunikationsvorrichtung (14,500) gekenn-
+zeichnet ist durch: 
+
+einen Informationsextrahiermechanismus (504) 
+zum Extrahieren von Netzwerkregionidentifizie-
+rerinformation, die eine Interworking Function 
+(18) zugeordnet ist, aus einem Overheadkanal 
+(30); 
+ein Bestimmungsmechanismus (506) zum Be-
+stimmen, wann ein Verbindungspunkt der Ver-
+bindung sich von einer ersten Interworking 
+Function (18) zu einer zweiten Interworking 
+Function (18) verändert; 
+ein Anfragemechanismus (508) zum Weiterlei-
+ten einer verbindungsgesteuerten Konfigurati-
+onsanfrage an die Mobilterminalvorrichtung 
+(12), wenn der Bestimmungsmechanismus 
+(506) bestimmt, dass die erste Interworking 
+Function (18) sich verändert hat zu der zweiten 
+Interworking Function (18), wobei: 
+
+ein Mobilpaketnetzwerkanruf über die 
+Übertragungsverbindung aufgebaut ist, 
+bzw. wird; 
+die Übertragungsverbindung, die Mobilter-
+minalvorrichtung (12) an die Drahtloskom-
+munikationsvorrichtung (14,500) über ein 
+
+15 
+16 
+
+
+EP 1 243 145 B1 
+
+10 
+
+5 
+
+10 
+
+15 
+
+20 
+
+25 
+
+30 
+
+35 
+
+40 
+
+45 
+
+50 
+
+55 
+
+erstes Interface (Rm) verbindet und weiter 
+die 
+Drahtloskommunikationsvorrichtung 
+(14,500) an eine gegebene Interworking 
+Function (18) über eine zweite Schnittstelle 
+bzw. Interface (Um, L) über eine Drahtlos-
+verbindung zu einer Basisstation (16) ver-
+bindet, wobei die gegebene Interworking 
+Function (18) sich von der ersten Interwor-
+king Function (18) zu einer zweiten Inter-
+working Function (18) verändert; wobei die 
+Übertragungsverbindung einen Verkehrs-
+kanal (32), den Overheadkanal (30), eine 
+Datenverbindungsschicht-(26)-Verbin-
+dung, und eine Netzwerkschicht-(24)-Ver-
+bindung aufweist; 
+wobei die Übertragungsverbindung einen 
+Paketmodus aufweist, in dem der Verkehrs-
+kanal (32) besteht und einen Schlafmodus, 
+in dem der Verkehrskanal (32) nicht be-
+steht, während die Datenverbindungs-
+schicht-(26)-Verbindung und die Netzwerk-
+schicht-(24)-Verbindung unterhalten wer-
+den; 
+wobei der Informationsextrahiermechanis-
+mus (504) angepasst ist zum Extrahieren 
+der Netzwerkregionidentifiziererinformati-
+on von dem Overheadkanal (30), wenn die 
+Übertragungsverbindung in dem Schlafmo-
+dus ist; 
+wobei der Bestimmungsmechanismus 
+(506) angepasst ist zum Bestimmen, wenn 
+die erste Interworking Function (18) sich 
+verändert hat zu der zweiten Interworking 
+Function (18) durch Bestimmen, wann eine 
+entsprechende Veränderung in der 
+Netzwerkregionidentifiziererinformation 
+vorliegt; und 
+wobei der Anfragemechanismus (508) ein 
+Mechanismus für Linksteuerungsprotokoll-
+konfigurationsanfrage bzw. LCP-Konfigu-
+rationsanfrage (LCP = Link Control Proto-
+col) ist, wobei die verbindungsgesteuerte 
+Konfigurationsanfrage eine LCP-Konfigu-
+rationsanfrage ist. 
+
+10. Drahtloskommunikationsvorrichtung (14,500) ge-
+mäß Anspruch 9, wobei die Datenverbindungs-
+schicht-(26)-Verbindung und die Netzwerk-
+schicht-(24)-Verbindung jeweils eine Punkt-zu-
+Punkt-Verbindung und eine Internetprotokollverbin-
+dung aufweisen. 
+
+11. Drahtloskommunikationsvorrichtung (14,500) ge-
+mäß Anspruch 9 oder 10, wobei der Overheadkanal 
+(30) einen Pagingkanal (30) auf der Übertragungs-
+verbindung aufweist. 
+
+12. Drahtloskommunikationsvorrichtung (14,500) ge-
+
+mäß Anspruch 11, wobei die Netzwerkregionsiden-
+tifiziererinformation eines der Folgenden aufweist: 
+eine Paketzonenkennung und ein Systemidentifika-
+tions-/-Netzwerkidentifikationspaar. 
+
+
+
+Patentansprüche 
+
+1. In vitro-Verfahren zum quantitativen Bestimmen der Stabilität eines Testproteins unter nativen Bedingungen, wobei 
+das Verfahren umfasst: 
+
+(a) Bereitstellen eine Testproteins unter nativen Bedingungen; 
+(b) In-Kontakt-Bringen des Proteins mit einem Austauschpuffer, der ein Denaturierungsmittel und Deuterium 
+umfasst, wobei der Austauschpuffer eine denaturierende Konzentration aufweist; 
+(c) In-Kontakt-Bringen des Testproteins mit einem Matrixmedium für Massenspektrometrie; 
+(d) Bestimmen einer Änderung der Masse des Testproteins, bezogen auf das Testprotein unter nativen Bedin-
+gungen, mittels Massenspektrometrie; 
+dadurch gekennzeichnet, dass es weiter die Schritte umfasst: 
+(e) Variieren der denaturierenden Konzentration des Austauschpuffers; 
+(f) so oft wie gewünscht Wiederholen der Schritte (a) bis (e); und 
+(g) quantitatives Bestimmen der Proteinstabilität auf Basis der Änderung der Masse des Testproteins als Funk-
+tion der Änderung der denaturierenden Konzentration, wodurch die Stabilität eines Testproteins unter nativen 
+Bedingungen quantitativ bestimmt wird. 
+
+2. Verfahren zum Nachweisen eines Bindungsereignisses, an dem ein Testprotein und ein Testligand beteiligt sind, 
+
+
+EP 1 307 736 B1 
+
+54 
+
+5 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+wobei das Verfahren umfasst: 
+
+(a) Bereitstellen eines Testproteins; 
+(b) Bereitstellen eines Testliganden; 
+(c) In-Kontakt-Bringen des Testliganden mit dem Testprotein, um eine Testmischung zu bilden; 
+(d) In-Kontakt-Bringen der Testmischung mit einem Austauschpuffer, der ein Denaturierungsmittel und Deute-
+rium umfasst, wobei der Austauschpuffer eine denaturierende Konzentration aufweist; 
+(e) In-Kontakt-Bringen der Testmischung mit einem Matrixmedium für Massenspektrometrie; 
+(f) Bestimmen einer Änderung der Masse des Testproteins mittels Massenspektrometrie; 
+dadurch gekennzeichnet, dass es weiter die Schritte umfasst: 
+(g) Variieren der denaturierenden Konzentration des Austauschpuffers; 
+(g) so oft wie gewünscht Wiederholen der Schritte (a) bis (g); und 
+(i) Analysieren der Änderung der Masse des Testproteins als Funktion der Änderung der denaturierenden 
+Konzentration, wodurch ein Bindungsereignis, an dem das Testprotein und der Testligand beteiligt sind, nach-
+gewiesen wird. 
+
+3. Verfahren zum quantitativen Bestimmen einer Änderung der Stabilität eines Testproteins, die durch die Bindung 
+eines Testliganden mit dem Testprotein verliehen wird, wobei das Verfahren umfasst: 
+
+(a) Bereitstellen eines Testproteins; 
+(b) Bereitstellen eines Testliganden; 
+(c) In-Kontakt-Bringen des Testliganden mit dem Testprotein, um eine Testmischung zu bilden; 
+(d) In-Kontakt-Bringen der Testmischung mit einem Austauschpuffer, der ein Denaturierungsmittel und Deute-
+rium umfasst, wobei der Austauschpuffer eine denaturierende Konzentration aufweist; 
+(e) In-Kontakt-Bringen der Testmischung mit einem Matrixmedium für Massenspektrometrie; 
+(f) Bestimmen einer Änderung der Masse des Testproteins mittels Massenspektrometrie; 
+dadurch gekennzeichnet, dass es weiter die Schritte umfasst: 
+(g) Variieren der denaturierenden Konzentration des Austauschpuffers; 
+(h) so oft wie gewünscht Wiederholen der Schritte (a) bis (g); 
+(i) Berechnen der Stabilität des Testproteins bei Anwesenheit des Testliganden auf Basis der Änderung der 
+Masse des Testproteins als Funktion der Änderung der denaturierenden Konzentration; und 
+(j) quantitatives Vergleichen der Stabilität des Testproteins bei Vorhandensein des Testliganden mit der Stabilität 
+des Proteins bei Nicht-Vorhandensein des Liganden, um dadurch quantitativ eine Änderung der Stabilität eines 
+Testproteins, die durch die Verbindung eines Testliganden mit dem Testprotein verliehen wird, zu bestimmen. 
+
+4. Verfahren zum Nachweisen eines nicht korrekt gefalteten, mutanten Proteins, wobei das Verfahren umfasst: 
+
+(a) In-Kontakt-Bringen eines mutanten Testproteins mit einem Austauschpuffer, der ein Denaturierungsmittel 
+und Deuterium umfasst, wobei der Austauschpuffer eine denaturierende Konzentration aufweist; 
+(b) In-Kontakt-Bringen eines mutanten Testproteins mit einem Matrixmedium für Massenspektrometrie; 
+(c) Bestimmen einer Änderung der Masse des mutanten Testproteins mittels Massenspekrometrie; 
+dadurch gekennzeichnet, dass das Verfahren weiter die Schritte umfasst: 
+(d) Variieren der denaturierenden Konzentration des Austauschpuffers; 
+(e) so oft wie gewünscht Wiederholen der Schritte (a) bis (d); 
+(f) quantitatives Bestimmen der Proteinstabilität auf Basis der Änderung der Masse des mutanten Testproteins 
+als Funktion der Änderung der denaturierenden Konzentration; und 
+(g) Vergleichen der Stabilität des mutanten Testproteins mit der Stabilität eines nicht-mutierten Testproteins 
+als Kontrolle, wobei eine unterschiedliche Stabilität ein nicht korrekt gefaltetes mutantes Protein anzeigt. 
+
+5. Verfahren zum Nachweisen einer Erkrankung, die durch Proteinfehlfaltung gekennzeichnet ist, wobei das Verfahren 
+umfasst: 
+
+(a) Bereitstellen eines Testproteins, bei dem eine Fehlfaltung vermutet wird; 
+(b) In-Kontakt-Bringen des Proteins mit einem Austauschpuffer, der ein Denaturierungsmittel und Deuterium 
+umfasst, wobei der Austauschpuffer eine denaturierende Konzentration aufweist; 
+(c) In-Kontakt-Bringen des Testproteins mit einem Matrixmedium für Massenspektrometrie; 
+(d) Bestimmen einer Änderung der Masse des Testproteins mittels Massenspekrometrie; 
+dadurch gekennzeichnet, dass das Verfahren weiter die Schritte umfasst: 
+
+
+EP 1 307 736 B1 
+
+55 
+
+5 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+(e) Variieren der denaturierenden Konzentration des Austauschpuffers; 
+(f) so oft wie gewünscht Wiederholen der Schritte (a) bis (e); und 
+(g) Analysieren der Änderung der Masse des Testproteins als Funktion der Änderung der denaturierenden 
+Konzentration, um eine Stabilität des Testproteins zu bestimmen; und 
+(h) Vergleichen der Stabilität des Testproteins, bei dem eine Fehlfaltung vermutet wird, mit einer bekannten 
+Stabilität des Testproteins, wobei eine Änderung der Stabilität des Testproteins, wenn sie mit der bekannten 
+Stabilität des Testproteins verglichen wird, eine Erkrankung, die durch Proteinfehlfaltung gekennzeichnet ist, 
+anzeigt. 
+
+6. Verfahren zum Identifizieren eines Proteins, das sich durch eines oder mehrere stabile Intermediate entfaltet, wobei 
+das Verfahren umfasst: 
+
+(a) Bereitstellen eines Testproteins, bei dem eine Entfaltung durch eines oder mehrere Intermediate vermutet 
+wird; 
+(b) In-Kontakt-Bringen des Testproteins mit einem Austauschpuffer, der ein Denaturierungsmittel und Deuterium 
+umfasst, wobei der Austauschpuffer eine denaturierende Konzentration aufweist; 
+(c) In-Kontakt-Bringen des Testproteins mit einem Matrixmedium für Massenspektrometrie; 
+(d) Bestimmen einer Änderung der Masse des Testproteins mittels Massenspekrometrie; 
+dadurch gekennzeichnet, dass das Verfahren weiter die Schritte umfasst: 
+(e) Variieren der denaturierenden Konzentration des Austauschpuffers; 
+(f) so oft wie gewünscht Wiederholen der Schritte (a) bis (e); 
+(g) Abbilden der Änderung der Masse des Testproteins als Funktion der Änderung der denaturierenden Kon-
+zentration, um eine Entfaltungskurve zu erzeugen; 
+(h) Bewerten der Entfaltungskurve, um dadurch eines oder mehrere stabile Intermediate zu identifizieren. 
+
+7. Verfahren nach einem der Ansprüche 1 bis 6, wobei das Testprotein in einem rohen Zelllysat angeordnet ist. 
+
+8. Verfahren nach einem der Ansprüche 1 bis 6, wobei das Testprotein eine Masse von weniger als 1.000.000 Dalton 
+besitzt. 
+
+9. Verfahren nach einem der Ansprüche 1 bis 6, wobei das Testprotein ein multimeres Protein ist. 
+
+10. Verfahren nach einem der Ansprüche 1 bis 6, wobei das Testprotein auf einer Mikrotiterplatte angeordnet wird. 
+
+11. Verfahren nach einem der Ansprüche 1 bis 6, wobei eine Vielzahl von Testproteinen auf der Mikrotiterplatte ange-
+ordnet wird. 
+
+12. Verfahren nach Anspruch 11, wobei das Verfahren weiter den Schritt des Wiederholens der Verfahrensschritte für 
+jedes auf der Mikrotiterplatte angeordnetes Testprotein umfasst. 
+
+13. Verfahren nach einem der Ansprüche 1 bis 6, wobei das Testprotein in pikomolaren oder größeren Mengen bereit-
+gestellt wird. 
+
+14. Verfahren nach einem der Ansprüche 1 bis 6, wobei das Testprotein in Zellen vorhanden ist und wobei das Durch-
+führen des Verfahrens in den humanen embryonischen Zellen ausgeschlossen ist. 
+
+15. Verfahren nach einem der Ansprüche 1 bis 6, wobei das Denaturierungsmittel ein chemisches Denaturierungsmittel 
+ist. 
+
+16. Verfahren nach Anspruch 15, wobei das Denaturierungsmittel ausgewählt ist aus der Gruppe, bestehend aus De-
+tergentien, Guanidiniumchlorid und Harnstoff. 
+
+17. Verfahren nach einem der Ansprüche 1 bis 6, wobei das Matrixmaterial für Massenspektrometrie ein Matrixmaterial 
+für Matrix unterstützte Laser-Desorption/ Ionisierung-(matrix assisted laser desorption/ ionization, MALDI-) Massen-
+spektrometrie ist und die Massenspektrometrie MALDI-Massenspektrometrie ist. 
+
+18. Verfahren nach Anspruch 17, wobei das Matrixmaterial für MALDI-Massenspektrometrie ausgewählt ist aus der 
+Gruppe, bestehend aus Sinapinsäure, α-Cyano-4-hydroxyzimtsäure, 2,5-Dihydroxybenzoesäure, 2,5-Dihydroxya-
+
+
+EP 1 307 736 B1 
+
+56 
+
+5 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+cetophenon und 3-Amino-4-hydroxybenzoesäure. 
+
+19. Verfahren nach einem der Ansprüche 1 bis 6, wobei das Berechnen, Bestimmen, Analysieren oder Abbilden unter 
+Verwenden eines Computerprogramms durchgeführt wird. 
+
+20. Verfahren nach einem der Ansprüche 1 bis 6, weiter umfassend das Bereitstellen eines Referenzproteins zusammen 
+mit dem Testprotein. 
+
+21. Verfahren nach einem der Ansprüche 1 bis 6, weiter umfassend: 
+
+(a) In-Kontakt-Bringen des Testproteins mit einer Matrix für Reverse Phase-Chromatographie; und 
+(b) Eluieren des Testproteins aus der Chromatographiematrix. 
+
+22. Verfahren nach Anspruch 21, weiter umfassend das In-Kontakt-Bringen des Testproteins mit einer Säure, bevor 
+das Testprotein mit der Matrix für Reverse Phase-Chromatographie in Kontakt gebracht wird. 
+
+23. Verfahren nach Anspruch 2, wobei das Analysieren umfasst: 
+
+(a) Abbilden der Änderung der Masse des Testproteins bei Vorhandensein des Testliganden als Funktion der 
+denaturierenden Konzentration, um eine erste Denaturierungskurve zu erzeugen; 
+(b) Abbilden der Änderung der Masse des Testproteins bei Nicht-Vorhandensein des Testliganden als Funktion 
+der denaturierenden Konzentration, um eine zweite Denaturierungskurve zu erzeugen; und 
+(c) Identifizieren einer Änderung der Position der ersten Denaturierungskurve bezogen auf die Position der 
+zweiten Denaturierungskurve, wobei eine unterschiedliche Position der ersten und zweiten Denaturierungskur-
+ven ein Bindungsereignis, an dem der Testligand und das Testprotein beteiligt sind, anzeigt. 
+
+24. Verfahren nach Anspruch 4, weiter umfassend das Bereitstellen eines Testproteins. 
+
+25. Verfahren nach Anspruch 24, weiter umfassend das Einführen einer Mutation in eine Aminosäuresequenz des 
+Testproteins, um ein mutantes Testprotein zu bilden. 
+
+26. Verfahren nach Anspruch 4, wobei die Mutation an einer bekannten Position in der Aminosäuresequenz des Test-
+proteins eingeführt wird. 
+
+27. Verfahren nach Anspruch 4, wobei die Mutation an einer unbekannten Position in der Aminosäuresequenz des 
+Testproteins eingeführt wird. 
+
+28. Verfahren nach Anspruch 26, wobei eine Vielzahl von Mutationen in die Aminosäuresequenz des Testproteins 
+eingeführt wird. 
+
+29. Verfahren nach Anspruch 1 bis 4, wobei das Testprotein mit dem Phänotyp einer Erkrankung in Zusammenhang 
+steht. 
+
+30. Verfahren nach einem der Ansprüche 1 bis 4, wobei der Phänotyp der Erkrankung durch Proteinfehlfaltung ge-
+kennzeichnet ist. 
+
+31. Verfahren nach Anspruch 1 oder 3 bis 5, wobei der Schritt des Analysierens, Berechnens oder quantitativen Be-
+stimmens der Proteinstabilität auf Basis der Änderung der Masse des mutanten Testproteins als Funktion der 
+denaturierenden Konzentration das Angleichen von Daten, die eine Änderung der Masse des mutanten Testproteins 
+als Funktion des Denaturierungsmittels umfassen, an die Gleichung 
+
+umfasst, wobei K fold = e -(∆Gf+m[Denat.]/RT) und ∆G f die Stabilität des Testproteins ist, wobei 
+
+∆M ∞ = ∆Masse nach vollständigem Austausch 
+
+
+EP 1 307 736 B1 
+
+57 
+
+5 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+∆M 0 = ∆Masse vor allgemeinem Austausch 
+
+t = Austauschzeit 
+Kint = Austauschgeschwindigkeit für den ungeschützten Wasserstoff 
+[Denat.] = Konzentration des Denaturierungsmittels 
+R = Gaskonstante 
+T = Temperatur in Kelvin 
+
+32. Verfahren nach Anspruch 3 bis 5, wobei der Schritt des Analysierens der Änderung der Masse des Testproteins 
+zum Bestimmen einer Stabilität des mutanten Testproteins, der Schritt des quantitativen Bestimmens der Protein-
+stabilität auf Basis der Änderung der Masse des mutanten Testproteins als Funktion der denaturierenden Konzen-
+tration oder wobei der Schritt des Berechnens der Stabilität des Testproteins bei Vorhandensein des Testliganden 
+das Bestimmen einer freien Faltungsenergie aus einer Denaturierungskurve auf Basis der Änderung der Masse 
+des Proteins umfasst, wobei die freie Faltungsenergie die Stabilität eines Testproteins anzeigt. 
+
+33. Verfahren nach Anspruch 1 bis 5, wobei der Schritt des Analysierens der Änderung der Masse des Testproteins 
+zum Bestimmen einer Stabilität des mutanten Testproteins das Bestimmen einer Änderung der Masse des Test-
+proteins auf Basis des Austausches von Wasserstoff gegen Deuterium umfasst, wobei der Austausch von den 
+langsam ausgetauschten Wasserstoffen in dem Testprotein abhängt. 
+
+
+
+Patentansprüche 
+
+1. Verfahren zum Herstellen eines zweiten Vorform-
+lings (107) für eine optische Faser (350), welches 
+aufweist: 
+
+Erwärmen eines Glasstabs (106), der ein erster 
+Vorformling für die optische Faser (350) ist, und 
+Verlängern des erwärmten Glasstabs (106), um 
+den zweiten Vorformling (107) zu erzeugen, wo-
+bei die Erwärmung und die Verlängerungsge-
+schwindigkeit gesteuert werden auf der Grund-
+lage des Durchmessers des Glasstabs (106), 
+der sich mit dem Fortschreiten der Verlängerung 
+des Glasstabs (106) ändert, 
+
+dadurch gekennzeichnet, dass 
+das Verfahren weiterhin aufweist: 
+
+Endziehen des zweiten Vorformlings (107), um 
+einen endgezogenen Bereich zum Ziehen der 
+optischen Faser (150) zu bilden, und 
+Feuerpolieren des zweiten Vorformlings (107) 
+
+nach dem Endziehen, 
+
+wobei der Ort des endgezogenen Bereichs erfasst 
+wird durch Messen des Durchmessers an mehreren 
+Orten, die den den endgezogenen Bereich aufwei-
+senden Bereich, entlang der axialen Richtung des 
+zweiten Vorformlings (107) abdecken, 
+ein Polierbereich, in welchem der Glasstab (106) 
+durch eine Flamme poliert wird, gesetzt wird in Be-
+ziehung zu dem erfassten Ort des endgezogenen 
+Bereichs, und 
+die Heizleistung der Flamme gesteuert wird auf der 
+Grundlage des entsprechenden Durchmessers des 
+zweiten Vorformlings zum Polieren des Polierbe-
+reichs des zweiten Vorformlings durch die Flamme. 
+
+2. Verfahren nach Anspruch 1, bei dem der endgezo-
+gene Bereich in einer kreisförmigen Kegelform ge-
+bildet ist. 
+
+3. Verfahren nach Anspruch 1 oder 2, bei dem der Po-
+lierbereich zusätzlich gesetzt wird auf der Grundlage 
+einer Änderung der Länge des Glasstabs (106) ent-
+lang der axialen Richtung durch die Verlängerung. 
+
+4. Verfahren zum Herstellen einer optischen Faser 
+(350), das ein Verfahren gemäß einem der Ansprü-
+che 1 bis 3 aufweist, welches Verfahren weiterhin 
+das Erwärmen und Ziehen des zweiten Vorformlings 
+(107) in eine fadenartige Form zum Erzeugen der 
+optischen Faser (350) aufweist. 
+
+
+Patentansprüche 
+
+1. System umfassend: 
+
+zwei Halbleiter-Vorrichtungen, die parallel an einen Bus gekoppelt sind, 
+wobei eine erste Halbleiter-Vorrichtung der zwei Halbleiter-Vorrichtungen eine Transceiver-Vorrichtung und 
+eine zweite Halbleiter-Vorrichtung der zwei Halbleiter-Vorrichtungen eine Master-Vorrichtung ist, wobei die 
+Master-Vorrichtung ein Mittel zum Initiieren von Bustransaktionen aufweist, welche Informationen zwischen 
+den Halbleiter-Vorrichtungen an dem Bus übermitteln, 
+den Bus, welcher eine Mehrzahl von Busleitungen beinhaltet, um im Wesentlichen alle Adress-, Daten-und 
+Steuerinformationen zu führen, die von den Halbleiter-Vorrichtungen benötigt werden, wobei die Steuerinfor-
+mationen Vorrichtungsauswahlinformationen enthalten, der Bus im Wesentlichen weniger Leitungen als die 
+Anzahl der Bits in einer einzelnen Adresse aufweist und der Bus Vorrichtungsauswahlinformationen überträgt 
+ohne Notwendigkeit nach separaten, direkt mit einzelnen Halbleiter-Vorrichtungen an dem Bus gekoppelten 
+Vorrichtungsauswahlleitungen. 
+
+2. System nach Anspruch 1, 
+wobei das System zudem mehrere an den Bus über die Transceiver-Vorrichtung gekoppelte Einheiten aufweist, 
+wobei die mehreren Einheiten DRAMs sind. 
+
+3. System nach Anspruch 2, wobei jedes der DRAMs aufweist: 
+
+eine Taktempfängerschaltung (101, 111) zum Empfangen eines Taktsignals (53, 54), 
+ein programmierbares Zugriffszeit-Register zum Speichern eines Wertes, welcher repräsentativ für eine Anzahl 
+Taktzyklen des Taktsignals (53, 54) ist, die verstreichen sollen, bevor das DRAM auf eine Leseanforderung 
+antwortet, die synchron bezüglich des Taktsignals von der Transciever-Vorrichtung empfangen wurde, und 
+eine Mehrzahl von Ausgabe-Treibern (76) zum Ausgeben von Daten an die Transceiver-Vorrichtung in Reaktion 
+auf die Leseanforderung, wobei die Ausgabe-Treiber (76) die Daten nach Verstreichen der Anzahl von Takt-
+zyklen des Taktsignals und synchron zu dem Taktsignal (53, 54) ausgeben, sodass die Leseanforderung und 
+die korrespondierende Antwort durch die Anzahl von Taktzyklen, wie sie durch den in dem programmierbaren 
+Zugriffszeit-Register gespeicherten Wert bestimmt ist, voneinander beabstandet sind, wobei jeder Ausgabe-
+Treiber der Mehrzahl von Ausgabe-Treibern (76) die Daten mit einer Buszyklus-Datenrate ausgibt, die das 
+Doppelte der Rate des Taktsignals ist. 
+
+4. System nach Anspruch 3, 
+wobei für jedes DRAM der Wert in dem programmierbaren Zugriffszeit-Register als Antwort auf einen von der 
+Mastervorrichtung ausgelöste Operation zum Setzen des Registers gespeichert ist. 
+
+5. System nach einem der Ansprüche 3 oder 4, 
+wobei, als Antwort auf eine Leseanforderung, die Mehrzahl von Ausgabe-Treibern (76) eine Datenmenge ausgibt, 
+wie sie durch eine Blockgrößeninformation definiert ist, die von jedem DRAM synchron bezüglich des Taktsignals 
+(53, 54) empfangen wird. 
+
+6. System nach einem der Ansprüche 3, 4 oder 5, weiterhin gekennzeichnet dadurch, dass jedes DRAM umfasst: 
+
+eine vorrichtungsinterne Takterzeugungsschaltung, die mit der Taktempfängerschaltung gekoppelt ist, um ein 
+internes Taktsignal zu erzeugen, welches verwendet wird, um Daten als Antwort auf die Leseanforderung 
+auszugeben, 
+wobei die vorrichtungsinterne Takterzeugungsschaltung ein Timingverhältnis zwischen den auszugebenden 
+Daten und dem von dem DRAM empfangen Taktsignal überwacht und steuert. 
+
+7. System nach Anspruch 6, wobei die vorrichtungsinterne Takterzeugungsschaltung ein komplementäres internes 
+Taktsignal erzeugt, wobei das interne Taktsignal und das komplementäre interne Taktsignal verwendet werden, um 
+auszuwählen, welche Daten an die Mehrzahl von Ausgabe-Treibern ausgegeben werden. 
+
+
+EP 1 830 241 B1 
+
+19 
+
+5 
+
+8. System nach einem der Ansprüche 6 oder 7, wobei die vorrichtungsinterne Takterzeugungsschaltung eine Rück-
+kopplungsleitung verwendet, um eine variable Verzögerungsleitung beim Erzeugen des internen Taktsignals ein-
+zustellen. 
+
+9. System nach einem der Ansprüche 3 bis 7, wobei jedes DRAM weiterhin Leseverstärker aufweist, die zum Lesen 
+der Daten aus der Speichermatrix verwendet werden, wobei, wenn von einem Controller über den Bus empfangene 
+Voraufladeinformationen anzeigen, dass ein Vorladevorgang ausgeführt werden soll, ein automatisches Voraufladen 
+der Leseverstärker als Teil der Ausführung der Leseanforderung erfolgt. 
+
+
