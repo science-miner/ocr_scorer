@@ -58,9 +58,34 @@ The OCR Scorer Web API service is implemented with [FastAPI](https://fastapi.tia
 The documentation of the service is available at `http(s)://*host*:*port*/docs`, e.g. `http://localhost:8050/docs` (based on Swagger), for ReDoc documentation style, use `http://localhost:8050/redoc`).
 
 
-### Adding new languages and models
+### Adding new languages and training LM models
 
-...
+To train a language model:
+
+
+```
+python3 ocr_scorer/model_scorer.py --lang en train
+```
+
+This will train the language model for English using the text content under `data/texts/en/training`.
+
+The evaluate a language model:
+
+
+```
+python3 ocr_scorer/model_scorer.py --lang en evaluate
+```
+
+This will evaluate the trained model for the indicated language using the text content under `data/texts/en/evaluation`. The evaluation is giving the accuracy of next character predictions in the evaluation data and the BPC (Bits Per Character) tradditionally used in LM.
+
+To train a language model for any languages, the following resources are needed:
+
+- Text content in `.txt` files encoded in Unicode under `data/texts/xx/training` where `xx` is the two-letter ISO 639-1 code of the language. The amount of text content must be superior to 1M characters at least, otherwise it might cause issues in getting the training converging, 
+
+To evaluate a language model for an existing trained language:
+
+- Text content in `.txt` files encoded in Unicode under `data/texts/xx/evaluation` where `xx` is the two-letter ISO 639-1 code of the language. Any amount of text is possible. 
+
 
 ## References
 
