@@ -1,0 +1,666 @@
+
+	
+
+		
+
+	
+
+	
+
+L'electrodissolution du cuivre dans les solutions bromurkes 
+
+ROBERT-LOUIS BROSSARD 
+Institut de recherche d'Hydro-Que'bec, C.P. 1000, 1800 Montie Ste-Julie, Varennes (Que'.), Canada JOL 2P0 
+
+R e ~u le 24 mai 1983 
+
+ROBERT-LOUIS BROSSARD. Can. J. Chern. 62, 36 (1984). 
+
+La dissolution de I'anode de cuivre a Ctt ttudite en solution aqueuse de pH Cgal a 4 dont la concentration en NaBr dissous 
+varie de 0,l M a 1,2 M. Dans la zone ou I'accumulation du produit de corrosion sur le cuivre est inexistante ou marginale, 
+
+le courant de dissolution est dCcomposable en un phtnomkne de surface, d'une part, et en un phtnomene de diffusion des ions 
+
+dans la solution, d'autre part. Le courant associt B chacune de ces Ctapes lentes a Ct C determini a partir des relations lintraire 
+
+i-I vs. w -' / ~. 
+Par ailleurs, les principales caractkristiques du comportement de I'anode de cuivre sont en termes de dtrivtes partielles: 
+(aE/a loglo i)zsac. B r = 60 mV/dtcade, (ai,,/a~'/')~. Br-= constante, (aE/a loglo (id.o-1/Z)),5-c. Br-= 59 mvldtcade 
+alors que I'ordre de la rCaction par rapport aux ions bromures est Cgal a 2. De plus, la relation E vs. loglo i, est assimilable 
+a une droite, ce qui est la constquence d'un phtnomkne de surface limit6 par un transfert tlectronique. Un modele de dissolution 
+est prksente a partir duquel on retrouve les principales caracttristiques de la dissolution du cuivre. Selon ce modkle, le terme 
+id est entikrement attribuable a la diffusion d'un bromocomplexe de cuivre, le CuBr,, depuis la surface de l'tlectrode jusqu'au 
+sein de la solution. Pour sa part, le calcul de I'Cnergie d'activation apparente en considtrant le modkle proposC est de 7 kcal/mol 
+alors que la valeur exptrimentale est de 6,5 kcal/mol. 
+Enfin, la vague d'oxydation observCe lorsque la tension d'tlectrode devient suffisamment anodique par rapport a la tension 
+
+rtversible de la reaction Cu + Br-= CuBr + e, est associCe a la passivation du cuivre par le CuBr y. 
+
+ROBERT-LOUIS BROSSARD. Can. J. Chem. 62, 36 (1984). 
+The dissolution of a copper anode has been studied in aqueous solutions, at pH 4, for a range of concentrations varying from 
+0. I M to 1.2 M in NaBr. Where the accumulation of the corrosion product on the copper was nonexistent or negligible, two 
+phenomena account for the dissolution current: a surface phenomenon and a phenomenon of diffusion of the ions into the 
+solution. The current associated with each of these slow steps has been determined from the linear relationship i-' vs. w-'I2. 
+
+The main characteristics of the copper anode behavior are expressed as partial derivatives: (a E/a log,, i)25-c. ,,-----60 mV/ 
+
+decade, (aid/aol/Z)E, B r = constant, (aE/a loglo (id.o-l/'))zs~c, Br--59 mV/decade, while the reaction order for the 
+
+bromide ions is equal to 2. Furthermore, the linearity of the relationship E vs. loglo i arises as a direct consequence of a surface 
+phenomenon limited by an electron transfer. A dissolution model that describes the main characteristics of the copper 
+dissolution is prescnted. According to this model. the term id is entircly ascribable to the diffusion of a copper bromide complex, 
+CuBr,, from thc surface of thc clcctrode into the solution. The apparent activation energy calculation is 7 kcal/mol according 
+to the model, while the experimental value is 6.5 kcal/mol. 
+Finally, the observed oxidation wave when the electrode potential becomes sufficiently anodic compared to the reversible 
+
+potential of the reaction Cu + Br-= CuBr + e, is associated with the passivation of the copper by y-CuBr. 
+
+[Journal translation] 
+
+Introduction 
+
+Un nombre relativement restreint de chercheurs se sont pen-
+chCs sur 1'Ctude de la dissolution du cuivre en presence des ions 
+
+Br-( 1 a 6). I1 a ete ttabli que la valence de dissolution du 
+
+cuivre est de + 1 dans le domaine de dissolution active ( 1 ) alors 
+
+que le cuivre a tendance ?i se recouvrir d e CuBr lorsque la 
+
+tension devient suffisamment anodique ( 2 ?i 4 ) . 
+
+Le present travail se propose d'elucider le procede d'klec-
+trode durant la dissolution active du cuivre e n solution aqueuse 
+legkrement acide dont la concentration en Br-est comprise 
+
+entre 0 , l et 1,2 M. 
+
+Partie experimentale 
+
+2.1 La cellule et ses accessoires 
+Les dCtails relatifs i la cellule et ses accessoires ainsi qu'aux Clec-
+trodes de travail sont donnCs dans un article prtctdent (7). L'Clectrode 
+de cuive se prtsente sous la forme d'un fil de 0,64 cm de diamktre, 
+d'une plaque de 1 cm x 2 cm ou d'un disque de 0,5 cm de diamktre, 
+les surfaces de I'Cchantillon sont respectivement de 0,4 cmZ, 2 cmZ et 
+0,196 cm2. 
+
+2.2 La priparation des essais 
+Un barbottage d'azote de 6 h prtcede I'imrnersion de I'Clectrode de 
+cuivre dans la solution. Les solutions contiennent entre 0,l et 1,2 M 
+
+de NaBr dissous. Un tampon a base de phtalate de potassium est utilisC 
+
+pour stabiliser le pH A 4. 
+La mkthode employte par Shoesmith et Lee (8,9) a Ct C retenue pour 
+
+le polissage du cuivre: I'Cchantillon est d'abord poli mecaniquement 
+par abrasion avec du papier au carbure de silicium, le polissage se 
+termine avec de l'alumine de 1 k. L'tchantillon est alors r i n ~6 h 
+I'alcool, a l'acttone puis 2 I'eau distillee avant son immersion. 
+
+2.3 Les techniques exptrimentales utilise'es 
+Les courbes tension-courant ont t t t obtenues en balayage linCaire 
+de la tension. L'Clectrode i disque tournant a Ct C utiliste en imposant 
+une tension d'Clectrode constante alors que la vitesse de rotation (w) 
+varie de 25,12 rad s-' jusqu'h 628,3 rad s-I. On obtient ainsi le 
+courant en fonction o . Le disque de cuivre est poli a chaque change-
+
+ment de tension. Un bain thermostatique a semi au contr6le de la 
+
+temptrature qui est comprise entre 22°C et 80°C. 
+
+Enfin, les valeurs de la tension sont donnCes par rapport i 1'Clec-
+
+trode au calomel saturke. 
+
+Resultats experimentaux 
+3.1 Apparition du produit de corrosion 
+
+L'enregistrement obtenu en balayage linCaire de la tension, 
+
+reproduit a la fig. 1, et qui correspond ?i une vitesse de balayage 
+e n tension d e 5 mV s-', est representatif d u comportement d e 
+
+l'anode d e cuivre. La courbe montre une vague d'oxydation 
+bien definie dont le maximum a comme coordonnkes 
+
+20 mA cm-2 (i,,) et -92 + 4 mV,,, ( E , , ) . D ' a p r b les travaux 
+
+rialises dans les solutions bromurees acides (I), la valence d e 
+dissolution du cuivre est Cgale ?i 1 . 
+Par ailleurs, la relation E vs. log,, i est lineaire dans la partie 
+
+Can. J. Chem. Downloaded from www.nrcresearchpress.com by 87.160.185.190 on 03/27/14 
+
+For personal use only. 
+
+
+BROSSARD 
+
+3 7 
+
+FIG. 1. Courbe de polarisation en balayage IinCaire de la tension 
+sur un fil de cuivre. Balayage ii 5 m V s-I. NaBr: 0,5 M. E,=,: tension 
+ii courant nu]. L7Clectrode est en position stationnaire. La rtgion "a" 
+en mtdaillon correspond a la premikre portion de la partie ascendante 
+de la vague d'oxydation; 
+
+sans agitation; 0 avec un barbottage 
+
+d'azote de 87 mL min-'. 
+
+ascendante de la vague d'oxydation, appelCe rCgion "a", sur la 
+fig. 1. L'examen de la surface de l'anode par le microscope a 
+balayage a permis d'observer que le cuivre reste ?i nu dans cette 
+rCgion. L'accumulation du produit de corrosion sur 1'Clectrode 
+est perceptible dks que la tension imposCe depasse de 70 mV 
+environ (Figs. 1, 2) la tension reversible (ECulCuBr) de la 
+rCaction: 
+
+[l] Cu + Br-= CuBr + e 
+
+qui est donnCe par (10, 11) 
+
+ou Eculc,Br est en volt par rapport a l'electrode au calomel 
+saturC. Pour sa part, Epl dCpasse de 115 mV environ ECulCuBr. 
+Dans le cas illustrC a la fig. 2, le produit de corrosion est 
+present d'une fason tres discrkte sur la surface pour des ten-
+sions de -170 mV et -140 mV; l'echantillon est alors dans la 
+region "a" (Fig. 1). La prksence du produit de corrosion est de 
+plus en plus importante en dehors de la rtgion "a" quand la 
+tension augmente (-1 10 mV, -80 mV et 0 mV). On remarque 
+que la surface n'est pas uniformCment recouverte par le produit 
+de corrosion alors que la vague d'oxydation est compatible 
+avec la passivation de la surface par le produit de corrosion i.e. 
+-80 mV et 0 mV. Pour sa part, la relation E vs. log,, i cesse 
+d'Ctre lineaire lorsque le produit de corrosion est present sur le 
+cuivre. Ce changement au niveau de la relation E vs. loglo i 
+laisse croire a un changement au niveau du mecanisme de 
+dissolution. 
+La diffraction aux rayons X a permis l'identification du 
+produit de corrosion. I1 est constituC d'un seul compost5 qui est 
+le bromure cuivreux gamma (CuBr y). 
+Enfin, la vague cathodique (Fig. 1) correspond a la rCduction 
+du CuBr y. 
+
+3.2 Comportement du cuivre dans la zone de dissolution 
+active (rkgion "a" (Fig. 1)) 
+L'anode de cuivre, polarisCe 2 des tensions pour lesquelles 
+le produit de corrosion est totalement absent ou present d'une 
+fason trks discrkte sur la surface de ]'electrode, a les particu-
+laritCs suivantes: 
+(a) la relation E vs. loglo i est lineaire avec une pente voisine 
+de 60 mVldCcade (Fig. 3) 
+
+(b) il y a ClCvation du courant de dissolution lorsque la 
+vitesse de rotation de 1'Clectrode (w) augmente (Fig. 4); 
+cependant que la pente (ai/aoll') diminue avec o croissant; 
+(c) l'ordre de la reaction par rapport aux ions Br-est voisin 
+de 2 (Fig. 5); 
+(d) la valence de dissolution est Cgale a 1; 
+(e) une augmentation de la tempCrature se traduit par une 
+elevation significative du courant de dissolution (Fig. 6). 
+
+Discussion 
+4.1 Analyse des courbes i vs. oil2 
+L'allure des courbes i vs. o1I2 est caractkristique d'un pro-
+cCdC dlClectrode mixte (12), c'est-a-dire que le courant mesurC 
+resulte de ce procCdC d'Clectrode qui a deux Ctapes lentes. Ces 
+Ctapes lentes sont la diffusion des ions dans la solution, d'une 
+part, et un phenomkne de surface comme le transfert Clectro-
+nique, d'autre part. Dans le cas ou ces deux Ctapes lentes sont 
+en sCrie, le courant global est dCcomposable en deux courants 
+selon (10): 
+
+ou i est le courant global, i, est le courant de dissolution 
+indCpendant de la vitesse de rotation de 1'Clectrode alors que id 
+est le courant attribue a la diffusion. D'apres Levich (13), 
+l'expression qui lie le courant de diffusion a la vitesse de 
+rotation de 1'Clectrode est 
+
+oh B est une constante et o est la vitesse d e rotation de 
+1'Clectrode en rad s-'. Les relations [3] et [4] donnent: 
+
+Ainsi, i-I exprime en fonction de o-'I2 doit donner une 
+droite dont les valeurs de i i ' et de B-' sont dkterminables 2 
+partir de la pente et de l'ordonnte a l'origine (Fig. 7) (9, 12). 
+
+L'inverse de la pente a (i-')/d(o-'I2) correspond a B, c'est-a-
+
+dire au produit id-w-'I2 alors ue i i l est obtenu par extrapo-
+lation de la droite jusqu'i w-lY2 Cgal 2 zero. Dans l'exemple 
+reproduit a la figure 7, B est Cgal a 0,14 mA cm-2 rad-'I2 s1I2 
+alors que i, est de 1,7 mA ~m -~. 
+Les valeurs de B, i.e. de 
+idam-'I2, ont CtC dCterminCes pour diffkrentes valeurs de la 
+tension imposCe dans 0,5 M NaBr (Fig. 8). La relation E vs. 
+log,, (id-o-112) est linCaire avec une pente de 6 0 mVldCcade 
+approximativement. 
+Par ailleurs, les valeurs calculCes pour i, sont donnCes en 
+fonction de la tension d'klectrode ii la figure 9 pour 0,5 M en 
+
+NaBr. La relation E vs. loglo i,, assimilable a une droite dont 
+
+la pente est de 100 f 10 mV/dCcade, suggkre que le phtno-
+mkne de surface est contrdlC par un transfert electronique. 
+
+4.2 Mkcanisme de dissolution 
+L'augmentation du courant d e dissolution avec la vitesse de 
+Can. J. Chem. Downloaded from www.nrcresearchpress.com by 87.160.185.190 on 03/27/14 
+
+For personal use only. 
+
+
+CAN. I. CHEM. VOL. 62, 1984 
+
+FIG. 2. Aspect de la surface durant l'oxydation anodique. Les conditions expCrimentales sont celles de la fig. 1 alors que la solution Ctait non 
+agitee. La tension pour laquelle 1'Cchantillon a ttC retire de la solution est donnee au bas de chaque figure. 
+
+Can. J. Chem. Downloaded from www.nrcresearchpress.com by 87.160.185.190 on 03/27/14 
+
+For personal use only. 
+
+
+BROSSARD 
+
+0.1 
+1D 
+10 
+
+Densite de couronl (mA.cm'21 
+
+FIG. 3. Tension d'electrode en fonction du courant de dissolution 
+anodique pour diffkrentes concentrations en Br-. Balayage 5 mV s-' 
+sur un fil de cuivre en position stationnaire et en solution non agitee. 
+
+u1/2 (rod1/2. s-1/2) 
+
+FIG. 4. Courant de dissolution anodique en fonction 
+a difft-
+rentes valeurs de la tension irnposte. NaBr: 0,5 M. La dissolution du 
+cuivre est active. 
+
+rotation de l'tlectrode (Fig. 4), lintaritt la relation i-' vs. 
+
+w-1/2 
+
+(Fig. 7) et, enfin, le fait que la relation E vs. log,o i , soit 
+assimilable 2 une droite (Fig. 8) suggkre que la reaction est 
+contr61te par deux ttapes en strie. La premikre est attribuable 
+au transfert electronique a l'interface tlectrode-electrolyte, 
+l'autre a la diffusion d'une espkce ionique en solution. Par 
+ailleurs, l'espkce la plus stable pour le cuivre dissous est le 
+CuBri (14) dans la gamme de concentration en Br-considtrte. 
+Ainsi, lorsque la dissolution du cuivre sous forme de CuBri est 
+envisagte, les ttapes les plus probables sont: 
+
+qui est suivie de 
+
+ou les indices i et s reprtsentent la concentration a la surface de 
+l'tlectrode et au sein de la solution. La premikre reaction, qui 
+est une ttape globale, correspond i 3 l'oxydation du cuivre en 
+CuBri; elle peut 2tre dtcomposte en deux ttapes dont l'une 
+
+FIG. 5. Influence de la concentration en ions Br-sur le courant 
+de dissolution anodique. Balayage a 5 rnV s-I sur un fil de cuivre en 
+position stationnaire et en solution non agitee; pour E = -150 mV; 
+
+0 pour E = -200 mV. 
+
+Densilk de couronl (mA ~m -~) 
+
+FIG. 6. Influence de la temperature sur le courant de dissolution. 
+
+Balayage 2 5 mV s-I. NaBr = 0,4 M. L'tchantillon est un fil de 
+
+cuivre en position stationnaire et en solution non agitee. 
+
+d'entre elles correspond au transfert tlectronique. La deuxibme 
+ttape coincide avec la diffusion du CuBri depuis la surface de 
+l'anode jusqu'au coeur de la solution. 
+
+4.2.1 Cas des vitesses de rotation lente 
+Pour sa part, la relation entre le courant qui traverse 
+l'tlectrode et la vitesse de rotation de l'tlectrode (relation [5]) 
+Can. J. Chem. Downloaded from www.nrcresearchpress.com by 87.160.185.190 on 03/27/14 
+
+For personal use only. 
+
+
+40 
+
+CAN. J. CHEM. VOL. 62. 1984 
+
+FIG. 7. Inverse du courant de dissolution anodique en fonction de 
+o-'I' avec E = -180 mV et NaBr 0,5 M. i , est le courant a vitesse 
+
+de rotation infinie. 
+
+FIG. 8. id. o-'IZ en fonction de la tension imposCe pour NaBr Cgal 
+
+a 0,5 M. 
+
+indique que terme tend B devenir le terme dominant 
+en prtsence d'une agitation peu intense, donc, le courant est 
+
+contrblt par la diffusion, c'est-a-dire que i -id lorsque w est 
+
+petit. Dans ces conditions, il est raisonnable de considtrer la 
+rtaction [6] comme l'ttape rapide, et la rtaction [7] 
+l'ttape dtterminante. L'ttape [6] est alors dans un ttat voisin 
+de l'tquilibre; ce qui autorise a utiliser l'tquation de Nemst: 
+
+FIG. 9. Courant h vitesse de rotation infinie en fonction de la ten-
+
+sion irnposte pour NaBr Cgal h 0,5 M. 
+
+FIG. 10. DensitC de courant anodique en fonction de I'inverse 
+
+de la tempCrature; valeurs expCrimentales du courant dCduites des 
+
+courbes E vs. loglo i, reprisenties a la fig. 6, et qui correspondent a 
+
+E = -190 mV; 0 valeurs relatives du courant calcul6es h partir de la 
+
+relation [20]. 
+
+Le rtarrangement des termes donne: 
+
+F 
+
+[9] [CuBr,li = [ ~r -] * exp -( E -EE,,,,,,;) 
+
+RT 
+Can. J. Chem. Downloaded from www.nrcresearchpress.com by 87.160.185.190 on 03/27/14 
+
+For personal use only. 
+
+
+BROSSARD 
+
+4 1 
+
+Rappelons que l'ttape lente est une Ctape de diffusion. Par 
+TABLEAU 1. Valeurs expCrimentales du coeffi-
+constquent, la vitesse de la rtaction est donnte par la premikre 
+cient de diffusion pour 0,5 M NaBr 
+loi de Fick: 
+E (mv,,,) 
+D (lo-' C ~' / S ) " 
+ZFD 
+[lo] id = -[CuBr;], 
+6 
+-220 
+1,55 
+-200 
+
+1,11 
+
+La combinaison des relations [8], [9] et [lo] donne: 
+-190 
+1,71 
+-180 
+ZFD 
+F 
+1,40 
+[ l I ] id = -[Br-l2 exp -( E -EEulcUBG) 
+-160 
+1,74 
+6 
+RT 
+-150 
+1,39 
+
+Pour un fil de cuivre en l'absence d'agitation imposte, 
+1'Ccriture de la relation [ l l ] se simplifie: 
+
+ou k, est une constante de proportionnalitt. L'utilisation de 
+l'tlectrode a disque tournant permet d'tcrire (13) selon Levich: 
+
+[13] 6 = 1,63 DL&amp;, v1l6 w -' / ~ 
+
+La substitution de 6 dans la relation [ l l ] donne: 
+
+(E -@u/CuBr;) 
+ou Z, la charge de l'espkce qui diffuse, est tgale a 1; v, la 
+viscositt cintrnatique, est voisine de 0,96 X lo-' cm2 s-' (15); 
+DCuBr; est le coefficient de diffusion de l'espkce CuBr,; w est 
+la vitesse de rotation de l'tlectrode en radians par seconde; E 
+est la tension d'tlectrode alors que E ~, ~~~~; 
+est la tension 
+d'tquilibre standard pour la rtaction [I]. 
+Les dtrivtes partielles de la relation [12] sont: 
+
+[15] ( aE ) 
+
+= 59 rnV/dCcade 
+
+a loglo id 295 K. Br-
+
+alors que les dtrivtes partielles de la relation [14] sont: 
+
+[17] (*) 
+
+= constante 
+
+E. Br-
+
+Les equations [15] et [16] sont semblables aux caracttristiques 
+(a) et (c) trouvtes pour la dissolution active du cuivre (Figs. 3, 
+5). De plus, la relation [17] est conforme la relation [4], qui 
+est la relation de Levich alors que la relation [18] correspond 
+la caracttristique observte a la fig. 8. Ainsi, le rntcanisrne de 
+dissolution form6 par les ttapes [6] et [7] est en harmonie avec 
+les caracttristiques du comporternent de l'anode de cuivre. La 
+formation du CuBr;, proposte dans ce mtcanisme, tend 2 
+confirmer le fait que le cuivre dissous a une tendance rnarquCe 
+a Ctre associt aux ions Br-pour former des complexes (14). 
+Pour sa art. le coefficient de diffusion est calculable 2 ~a r t i r 
+
+"D&amp;termin&amp;e a partir de la relation [19] et des valeurs 
+
+donnCes B la fig. 8. 
+
+valeurs des enthalpies libres de formation standard pour les ions 
+Br-(1 1) alors que -44,750 cal mol-' a ett utilist dans le cas 
+du CuBri.' I1 est donc suffisant de connaitre id-w -' ~~, pour des 
+valeurs de Br-et de E donnCes (Fig. 5), pour que le coefficient 
+de diffusion soit calculable a partir de la relation [19]. C'est 
+ainsi que les valeurs du coefficient de diffusion, donntes au 
+Tableau 1 pour 0,s M Br-, ont t t t dtterminkes; ces valeurs 
+voisines de 1,4 X 
+cm2 s-I sont indtpendantes de la ten-
+sion irnposte. Elles sont tout 2 fait en accord avec celles de la 
+litttrature (rtf. 15, p. 80 et rCf. 16). 
+Par ailleurs, l'appauvrissernent de la solution en ions Br-2 
+la surface de l'tlectrode, [Br-I,, est envisageable d'aprks la 
+rtaction [6] lorsque le courant de dissolution est suffisamment 
+tlevC. Lorsque [Br-1, est voisin de ztro, il est prtvisible qu'un 
+courant limite (i,) soit atteint qui depend de la diffusion des 
+ions Br-depuis le coeur de la solution jusqu'h la surfice de 
+l'tlectrode et en constquence, i, doit Etre directement propor-
+tionnel a la concentration en ions [Br-] dans la solution. 
+Cornme le rnontre l'enregistrernent reproduit 2 la figure 1, un 
+courant lirnite (ipl) est effectivernent observt, mais en dehors 
+de la zone de dissolution active, i.e. de la rtgion "a", alors que 
+le courant dans la rtgion "a" ne dtpasse pas 0,14 ipl environ. 
+De plus, toujours dans la rtgion "a", l'ordre de la rtaction par 
+rapport aux ions Br-est voisin de 2 (Fig. 5). 
+I1 est donc raisonnable de considtrer que la concentration en 
+
+ions Br-est la rn&amp;me a la surface de l'tlectrode et au coeur d e 
+
+la solution dans la zone de dissolution active. 
+C'est ainsi que le courant de diffusion est entikrement 
+explicable a partir de la diffusion de l'esece CuBr, dans la 
+solution. 
+
+L'Cnergie d'activation apparente, AH', a CtC dtterminte a 
+
+partir de-la pente de la diiite donnk par le courant de dis-
+solution en fonction de T-' (Fig. 10). L'tlectrode ttait en 
+position stationnaire et la solution n'ttait pas agitte. Le courant 
+a t t t obtenu 2 partir des courbes E vs. loglo i (Fig. 6) dans une 
+garnrne de temperatures comprises entre 22°C et 75°C. Les 
+
+densitCs de courant correspondent a une tension de -190 mV. 
+
+La valeur experimentale de AH' est de 6,5 kcal/mol. 
+Pour leur part, les valeurs relatives du courant de dissolution 
+(i,) ont t t t calcultes en fonction de la temperature pour une 
+tension de -190 mV. La relation [20], dtrivCe de la relation 
+[14], a t t t utiliste: 
+
+1 
+, 
+
+de 1'Cquation [19] obtenue par transformation de la relation 
+2 
+
+[20] loglo i a 3 loglo D + 
+
+F 
+[14]: 
+2,303 RT ( E -~;u/Cu~r;) 
+
+1 
+-log v 
+6 
+
+Les termes Z, F , v et F/RT ont ttC rernplacts par leur valeur 
+'L. Brossard et G. Larochelle. RCsultats experimentaux non 
+
+0 
+
+respective. ECulCuBr; Cgal a -54 rnV,,, a kt6 calculte a partir des publiks. 
+
+Can. J. Chem. Downloaded from www.nrcresearchpress.com by 87.160.185.190 on 03/27/14 
+
+For personal use only. 
+
+
+42 
+
+CAN. J. CMEM. VOL. 62, 1984 
+
+Rappelons que i -id pour une electrode en presence d'une 
+
+agitation peu intense. La variation de D (17) et de v (18) avec 
+la tempCrature a Ct6 pris en considCration pour le calcul de i,. 
+
+D a Ct C choisi Cgal a 1,4 x 
+cm2/s a 22°C (Tableau 1). 
+Ainsi, la valeur de A H + , dCduite de la droite log,, i, vs. T -' , 
+
+est de 7,0 kcal/mol. Cette valeur est en harmonie avec 
+6,5 kcal/mol dCterminCe expkrimentalement. 
+
+4.2.2. Cas des vitesses de rotation rapide 
+Enfin, la relation [5] suggkre que le phCnomkne de surface 
+devient predominant lorsque w est grand alors que le pheno-
+mkne de diffusion est marginal. Selon le modkle de dissolution 
+envisagC, la rtaction [6] devient l'etape dkterminante alors que 
+la reaction [7] devient 1'Ctape rapide. Dans ce cas, le phCno-
+mkne de surface doit &amp;tre caractkristique d'un transfert klectro-
+nique; ce qui est confirm6 expkrimentalement (Fig. 8). En 
+s'inspirant des travaux de Moreau (19) relatifs a la dissolution 
+
+du cuivre dans les solutions concentrkes en HCl, la rCaction [6] 
+est capable d'Ctre dCcomposke en deux nouvelles Ctapes qui 
+sont: 
+
+C'est 1'Ctape [22], le transfert Clectronique, qui serait 1'Ctape 
+dCterminante en prksence d'une agitation intense. NCanmoins, 
+l'utilisation de techniques transitoires combinkes 2 l'utilisation 
+de 17Clectrode a disque tournant avec anneau (rCf. 12, chap. 8) 
+
+devrait permettre de prCciser davantage la nature de la reaction 
+[6]. Des travaux de laboratoire sont actuellement en cours. 
+
+I 
+
+Conclusions 
+
+1. Les courbes du courant de dissolution en fonction de la 
+racine carrte de la vitesse de rotation de l'electrode ont une 
+allure qui est caracteristique d'un procedC dlClectrode qui est 
+mixte. Le procCdt d'klectrode est domink par la diffusion des 
+ions dans la solution lorsque o est petit ou par un phCnomkne 
+de surface lorsque w est grand. 
+2. Le courant associC a chacune de ces Ctapes lentes est 
+dkterminable i partir des relations i-' vs. w-'I2. La linCaritC 
+
+entre la tension dlClectrode et le logarithme de i, suggkre que 
+le phenomkne de surface est limite par un transfert Clectro-
+nique. Pour sa part, le terme id est entikrement imputable, selon 
+le modkle considCrC, 2 la diffusion d'un bromo-complexe de 
+cuivre, le CuBr,, depuis la surface de I'Clectrode jusqu'au 
+coeur de la solution. Le modkle est valide dans le domaine de 
+dissolution pour lequel l'accumulation du produit de corrosion 
+sur la surface de 1'Clectrode est inexistante ou marginale. 
+
+3. L7Cnergie d'activation apparente, A H + , est de 6,5 kcall 
+
+mol. Cette valeur est en accord avec la valeur de 7 kcal/mol 
+deduite de l'expression gCnCrale du courant en fonction des 
+diffkrents paramktres experimentaux. 
+4. Une vague d'oxydation est observCe lorsque la tension 
+
+d'electrode devient suffisamment anodique par rapport a la 
+
+tension rkversible Ecu/c,,Br Cette vague est associte 2 la pas-
+
+sivation de la surface du cuivre par le CuBr y. 
+
+Remerciements 
+
+L'auteur tient i remercier Monsieur G. Larochelle qui a 
+
+effectuC une partie du travail expkrimental ainsi que Messieurs 
+A. Joly et R. Dubuc pour l'examen des surfaces. 
+
+I . L. F. KOZIN, E. E. KOBRAND et K. K. LEPESOV. Izv. Akad. Nauk 
+Kaz. SSR, Ser. Khim. 24, 31 (1974). 
+2. J. FRANCO et N. K. PATEL. J. Electrochem. Soc. India, 22, 172 
+(1973). 
+3. J. FRANCO et N. K. PATEL. J. Inst. Chemists (India), 50, 243 
+(1978). 
+4. S. NACESWAR et T. H. SETTY. Proc. Indian Acad. Sci. Sect. A, 
+71, 282 (1972). 
+5. E. D. MOR et A. M. BECCARIA. Br. Corros. J. 12, 243 (1977). 
+6. S. M. MAYANNA et T. H. V. SEITY. Indian J. Chem. 12, 1083 
+( 1974). 
+7. R. L. BROSSARD. Can. J. Chem. 60, 616 (1982). 
+8. D. W. SHOESMITH, T. E. RUMMERY, D. OWEN et W. LEE. J. 
+Electrochem. Soc. 123, 790 (1976). 
+9. D. W. SHOESMITH et W. LEE. Electrochim. Acta, 22, 1411 
+(1977). 
+10. W. LATIMER. Oxidation potentials. 2' id. Prentice-Hall, New 
+York. 1952. 
+11. C. E. WICKS et F. E. BLOCK. Bulletin 605, U.S. Bureau of 
+Mines, Washington. 1963. p. 43. 
+12. A. J. BARD et L. R. FAULKNER. Electrochemical methods. J. 
+Wiley &amp; Sons, New York 1980. Chap. 6. 
+13. V. G. LEVICH. Physiochemical hydrodynamics. Prentice-Hall, 
+Englewood Cliffs, NJ. 1962. 
+14. P. PASCAL. Nouveau trait6 de chimie minerale. Tome 111. Masson 
+et Cie, Paris. 1957. p. 274. 
+15. R. PARSONS. Handbook of electrochemical constants. Butter-
+worths Scientific Publ. London. 1959. p. 77. 
+16. I. A. SEMENOV, V. F. LAZAREV et A. I. LEVIN. Sov. Electro-
+chem. 11, 1013 (1975). 
+17. J. G. PERRY. Chemical engineers handbook. 4' Cd. McGraw-
+Hill, New York. 1963. 
+18. R. B. BIRD, W. E. STEWART et E. L. LIGHTFOOT. Transport 
+phenomena. John Wiley &amp; Sons, New York. 1960. p. 8. 
+19. A. MOREAU. Electrochim. Acta, 26, 497 (1981). 
+Can. J. Chem. Downloaded from www.nrcresearchpress.com by 87.160.185.190 on 03/27/14 
+
+For personal use only. 
+
+
+
+	
+

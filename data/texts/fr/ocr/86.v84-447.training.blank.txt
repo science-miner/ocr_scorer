@@ -1,0 +1,757 @@
+
+	
+
+		
+
+	
+
+	
+
+Etude structurale et thermodynamique des interactions entre des derives chlores et 
+bromes du methane et des amides tertiaires 
+
+J. M. DUMAS, C. GERON, A. R. KRIBII ET M. LAKRAIMI 
+
+Laboratoire de Physicochirnie des die'lectriques, Universite' de Poitiers, 40, avenue du Recteur Pineau, 
+86002 Poitiers Cedex, France 
+Requ le 23 janvier 1984 
+
+J. M. DUMAS, C. GERON, A. R. KRIBII et M. LAKRAIMI. Can. J. Chem. 62, 2634 (1984). 
+
+Une Ctude par polarisation diilectrique, microcalorimCtrie et spectromCtrie infrarouge a permis de mettre en Cvidence le r6le 
+jouC par I'halogkne dans les interactions entre une serie de dCrivCs chlorCs et bromes du mCthane, pris comme representants 
+d'anesthesiques halogCnCs et deux amides tertiaires prises comme modele de constituant de la membrane des cellules nerveuses. 
+Cette Ctude a eu lieu en solution diluCe dans un solvant organique inerte, le cyclohexane. Les interactions sont de type liaison 
+hydrogbne et/ou liaison halogkne. 
+
+J. M. DUMAS, C. GERON, A. R. KRIBII, and M. LAKRAIMI. Can. J . Chem. 62, 2634 (1984). 
+
+A study by dielectric polarization, microcalorimetry, and infrared spectrometry has allowed us to demonstrate the role played 
+by the halogen in interactions between a series of chlorinated and brominated derivatives of methane (considered as types of 
+halogenated anesthetics) and two tertiary amides taken as models for an element of the membranes of the nervous cells. The 
+inert organic solvent used was cyclohexane. The interactions are of the hydrogen bonding and (or) halogen bonding types. 
+
+Introduction 
+L'activitC biologique et, en particulier, les propriCtCs anes-
+thCsiques des dCrivCs halogCnCs ont retenu notre attention. Le 
+
+mecanisme de I'anesthCsie gCnCrale semble pouvoir &amp;tre liC a 
+
+des phCnomknes d'interactions entre les anesthksiques volatils 
+et differents sites d'action au sein de la membrane des cellules 
+nerveuses (1 -3). Aussi, les risultats des Ctudes sur la re-
+cherche des interactions entre les dCrivCs halogCnCs et des mo-
+lecules simples prises pour modkle d'un site d'action possible, 
+paraissent donc importants. 
+Des Ctudes effectuees par Sandorfy et coll. (4-8) ont montrC 
+que les dCrivCs halogents peuvent entraver la formation de 
+liaison hydrogkne. D'autre part, les rksultats des recherches 
+menCes dans notre laboratoire (9) ont permis de signaler l'exis-
+tence trks genCrale d'interactions moltculaires de type liaison 
+hydrogkne et/ou liaison halogkne entre des bases organiques et 
+des derives halogenes et dlCtudier 1'Cvolution de ces inte-
+ractions en fonction de l'halogkne. Notre contribution a une 
+meilleure connaissance de ces interactions repose sur une Ctude 
+structurale et thermodynamique de systkmes formCs par des 
+derives halogCnCs du mCthane (essentiellement chlorCs et bro-
+mts) et par des amides tertiaires (N,N-dimCthylacCtamide et 
+N-methylpyrrolidone) utilisees comme modkle de constituant 
+de la membrane et choisies pour leur caractkre polaire (une part 
+importante de notre Ctude s'appuyant sur la polarisation di-
+electrique). 
+Pour cette ttude nous avons suivi une demarche mCtho-
+dologique rigoureuse qui s'appuie sur une selection de tech-
+niques physicochimiques: (i) la polarisation diClectrique qui 
+permet de conduire simultantment a la stabilite (constante d'C-
+quilibre) et a des informations sur la structure des complexes 
+formCs. Tous les systkmes ont Ct C CtudiCs par cette technique; 
+(ii) la microcalorimCtrie qui procure des valeurs d'enthalpie 
+accompagnant les interactions CtudiCes et permet de comparer 
+ces valeurs a celles habituellement mises en jeu dans le cas 
+d'interactions non spCcifiques (de l'ordre de 2 a 5 kl mol-'). 
+Seuls quelques systkmes sont concernCs; (iii) la spectromCtrie 
+d'absorption infrarouge qui, par l'intermidiaire d'une Ctude a 
+basse temptrature, apporte des complCments d'information sur 
+la structure des complexes. Cette Ctude est trks partielle. 
+
+Techniques et rnethodes utilisees 
+En polarisation die'lectrique 
+Nous avons adopt6 la mCthode de Cleverdon et al. (10) qui, 
+dans le cadre de la thCorie de Debye, permet d'acckder simul-
+tanCment a la constante d'association KAB, a I'incrCment de 
+polarisation AP et au moment dipolaire global PA,, lies a la 
+formation du complexe AB. Cette mCthode consiste a dCter-
+miner la polarisation molaire du solutC A extrapolee a dilution 
+infinie au sein d'un solvant inerte S (le cyclohexane) et dans 
+une sene de solvants mixtes BS. 
+La relation fondamentale sur laquelle repose la dCter-
+mination de la polarisation molaire du complexe AB de stoe-
+chiomitrie 1 : 1 est 
+
+ou KAB: constante de formation du complexe AB; VBs: volume 
+
+massique de la solution BS; MB: masse molaire du solutC B; WL: 
+
+fraction massique du solute B dans le solvant S; AP: increment 
+de polarisation liC a la formation du complexe AB tel que AP 
+
++ PAIS + PB/S = PAB/S; P;,/BS: polarisation molaire apparente, 
+
+a dilution infinie, de A dans BS. L'expression prkcedente tient 
+
+compte de l'effet normal de solvant lorsque le solute A en 
+solution dans un solvant inerte S, se trouve en solution dans un 
+solvant mixte BS. 
+(PArlBs)ca,, represente la polarisation molaire, a dilution in-
+finie, de A dans un solvant inerte fictif de meme permittivitk 
+que BS. Elle est calculee 2 partir de l'expression suivante: 
+Can. J. Chem. Downloaded from www.nrcresearchpress.com by 87.160.185.190 on 03/27/14 
+
+For personal use only. 
+
+
+DUMAS ET AL. 
+
+2635 
+
+PA=/,: polarisation molaire a dilution infinie du solutC A dans un 
+cyclohexane afin de pouvoir atteindre les basses tempkratures 
+solvant S; n,, nBs: indices de rCfraction respectifs du solutC A 
+souhaitkes. 
+et du solvant mixte BS; MA: masse molaiie du solutC A; p, : 
+masse volumique du solutC A; ES, eBS: constantes diCltctriques 
+PuriJication des produits 
+
+respectives du solvant S et du solvant mixte BS; e"-: carac-
+
+Le cyclohexane, produit de trks grande puretC pour spec-
+
+2 
+2 
+
+troscopie, a Ct C utilisC sans traitement prkalable. Tous les autres 
+-c2 -a 2 
+tkristique du s o l u t ~ A; x2 = 
+s i a &gt; b &gt; c ; x -7 produits ont Ct C distillks sous pression rCduite d'azote et a l'abri 
+a 
+
+b -
+
+de la lumikre, puis conservCs sur tamis moltculaire. Le tri-
+c 2 -a 2 
+
+si b &gt; a &gt; c; x -
+si b &gt; c &gt; a; a , 6, c: dimensions 
+
+chloromCthane a Ct C lavC avec un mClange de H2S04 + H 2 0 et 
+
+c' 
+de la molCcule de solutC A; a : dimension suivant la direction du 
+moment dipolaire; b, c: dimensions suivant les directions per-
+pendiculaires a celle du moment. 
+I1 a Ct C vCrifiC par 1'Ctude de systkmes tCmoins: dCrivCs 
+halogCnCs (tCtrahalogCnCs (1 8), trihalogCnCs (1 5)), chloro-
+cyclohexane, cyclohexane, que la mCthode utilisCe corrige de 
+toutes les interactions type van der Waals. Le graphe 
+
+conduit alors aux valeurs de KAB et du AP (1 1). 
+Les mesures diklectriques ont Ct C effectuCes 2 l'aide d'un 
+dipolemktre de type D M 0 1 "'Wissenshaftlich-Technische 
+Werkstatten" CquipC soit d'une cellule DFLl (capacitC 20 cm3) 
+soit d'une cellule DFL2 (capacitC 8 cm3) thermortgularisCes. 
+Les masses volumiques des corps purs et des solutions ont Ct C 
+mesurkes B l'aide d'un densimktre digital AP.PAAR.DMA4.5 
+thermorCgularis6. 
+
+En microcalorimttrie 
+Nous avons utilist la relation de Lamberts et Zeegers-
+Huyskens (12) qui foumit simultankment les valeurs des cons-
+tantes d'kquilibre et les variations d'enthalpie au cours de la 
+formation des complexes. Nous nous sommes placCs dans les 
+conditions expCrimentales proches de celles prCconisCes par 
+Deranleau (13) qui permettent de mesurer des valeurs de cons-
+tantes d'association trks faibles (&lt;1 L mol-'). 
+
+oti V: volume total de la solution; c;, c: : concentrations ini-
+tiales en A et B en mol L-'; Qc: chaleur de complexation 
+obtenue 2 partir des chaleurs de dilution de A (dont la concen-
+tration C: est fixe dans le solvant mixte BS B plusieurs concen-
+trations c: ) comgCes de la chaleur de dilution de A dans le 
+solvant S et de celle de S dans le solvant mixte BS pour les 
+concentrations C: prCcCdemment utiliskes. 
+Les graphes AH = f (c:) Ctablis pour diverses valeurs de KAB 
+permettent de trouver la valeur de KAB like a une valeur de AH 
+constante. 
+Le calorimktre utilisC est un calorimktre CRMT (SETA-
+RAM), avec une cellule de 80 cm3, couplC a un intkgrateur. 
+
+En spectromttrie infrarouge 
+Nous avons CtudiC la bande d'absorption caractkristique du 
+vibrateur C=O des amides tertiaires (nombre d'onde de vi-
+bration de l'ordre de 1680 cm-') a basse tempkrature, sur un 
+spectrophotomktre Perkin Elmer 62 1. Le principe a Ct C dCcrit 
+par Asselin et Sandorfy (14). L'intervalle de tempkrature Ctait 
+compris entre 30°C et -80°C. Le solvant utilisC Ctait le mCthyl-
+
+sCchC sur MgS04 prkalablement a la distillation. Le tCtra-
+bromomkthane a Ct C sublimC sous vide. 
+
+Resultats et interpretation 
+D'une f a ~o n gCnCrale, les valeurs de AP, AH et KAB dCter-
+minCes dans l'hypothkse d'un complexe 1 : 1 (cf. tableau 1) 
+pour les systkmes CtudiCs, mettent en Cvidence l'existence d'in-
+teractions spkcifiques entre les deux amides et les dCrivCs halo-
+gCnCs. Les composCs tttrahalogtnCs en particulier donneraient 
+lieu des interactions de type liaison halogkne. L'Ctude des 
+systkmes tCmoins dCrivCs halogCnCs (tCtrahalogCnCs (18), tri-
+halogCnCs (15)), chlorocyclohexane, cyclohexane a montrC que 
+toutes les interactions type liaison de van der Waals Ctaient 
+comgCes. 
+
+I. Informations structurales sur le type de complexe formt 
+I. 1. P a r polarisation ditlectrique 
+
+En nous appuyant sur des travaux dCja publiCs (15, 16) nous 
+avons suivi dans les complexes formCs de A et B 1'Cvolution de 
+l'incrkment de moment dipolaire 1rp.1 (not6 par la suite Ap.) 
+
+dCfini vectoriellement comme GB = rp. + (cA + CB). 
+
+La figure 1 relative a un complexe form6 entre la N,N-di-
+mCthylacCtamide, et un trihalogCnomCthane, illustre le fait que: 
+(i) la direction de rp. est celle de la liaison intermolCculaire; 
+(ii) son sens correspond aux exigences du modkle (c'est-a-dire 
+que le dCplacement des chzrges positives doit avoir lieu du site 
+accepteurs d'klectrons vers le site donneur: il est vraisem-
+blablement positif dans tous les cas considCrCs). L'ordre de 
+grandeur de Ap. doit Ctre comparable 2 celui trouvC pour des 
+complexes prksentant des liaisons intermolCculaires semblables 
+et pour lesquels la structure est bien Ctablie. Dans le cas d'un 
+complexe de type liaison hydrogkne, nous avons retenu comme 
+valeur probable de rCfCrence (Ap.,,), celle qui concerne les 
+complexes formCs par le pyrrole et les cCtones (17): 0 , l D pour 
+une interaction avec les Clectrons .rr, 0,6 D pour une interaction 
+avec les Clectrons n. Dans le cas d'un complexe de type liaison 
+halogkne, la valeur de Ap.,, pour les dCrivCs chlorks a Ct C 
+calculCe 2 partir des systkmes CtudiCs ici et mettant en jeu le 
+tCtrachloromCthane 
+voisin de 0,5 D). Les mClanges de 
+tCtrabromomCthane et d'amides tertiaires menant 2 la formation 
+de combinaisons solides insolubles dans le cyclohexane, il est 
+impossible d'acckder 2 une valeur sOre de Ap.rcr pour les dCrivCs 
+bromCs. Des Ctudes faites sur les interactions entre les dtrivCs 
+tCtrahalogCnCs du mCthane (18) et diverses bases organiques 
+
+ont montrC que Ap.(CBr4) &gt; Ap.(CC14), on peut donc estimer, 
+
+dans le cas d'une interaction par liaison halogkne dont l'atome 
+de brome est responsable, une valeur de Ap.df supCrieure a celle 
+calculCe prkctdemment pour CC14. 
+Compte tenu de nos rCsultats expkrimentaux, nous avons 
+CliminC tous les modkles fournissant des valeurs de Ap. trop 
+CloignCes des valeurs de rCfCrence. Nous ne prksentons que les 
+rksultats affkrant au modkle que nous avons considCrC comme 
+le plus probable car pernlettant de calculer des valeurs de Ap. 
+les plus rapprochCes des valeurs de rCfCrence. 
+Can. J. Chem. Downloaded from www.nrcresearchpress.com by 87.160.185.190 on 03/27/14 
+
+For personal use only. 
+
+
+CAN. J. CHEM. VOL. 62. 1984 
+
+TABLEAU 1. Systkrnes A (dCrivCs organohalogCnCs) -B (base) -S (cyclohexane). 
+
+Constantes d'kquilibre KAB (L rnol-I), increments de polarisation Ah',\, (crn' rnol-'), 
+
+enthalpies de rCaction AH,\B (kJ mol-I) a 25 5 O,IoC 
+
+Polarisation dielectrique 
+Microcalorirnetrie 
+
+B 
+A 
+KAB 
+APAB 
+KAB 
+-AHAs 
+
+CCI, 
+0,36 2 0,07 
+74 ? 4 
+0,16 5 0,05 
+16 5 2 
+CBrCI, 
+0.7 &amp; 0,14 
+75 t 4 
+CBr4b 
+2,O 2 0,7 
+64 2 3 
+CHCI, 
+2,5 &amp; 0,5 
+200 t 10 
+NNDMA" 
+CHC12Br 2,7 t 0,5 
+190 5 9 
+2,5 5 0,2 
+19 2 2 
+CHCIBr2 2,7 5 0,5 
+176 t 8 
+CHBr, 
+2,7 2 0,5 
+155 ? 8 
+CH2C12 
+1,2 ? 0,3 
+9 3 2 5 
+1 , 6 t 0 , 2 
+1 7 ? 2 
+CH2BrCI 
+1,6 2 0,3 
+71 5 4 
+CH2Br2 
+2,O &amp; 0,4 
+61 2 3 
+1,7 2 0,2 
+15 t 2 
+CCIJ 
+0,41 ? 0,08 
+37 2 2 
+CBrJb 
+2,2 2 0,7 
+55 2 3 
+NMP 
+CHCI, 
+2,7 t 0,5 
+207 2 10 
+2,7 ? 0,3 
+21 t 2 
+CHBr, 
+4,7 &amp; 0,9 
+135 t 7 
+3,6 t 0.3 
+16 5 2 
+CH2C12 
+I , 0 
+1 1 5 &amp; 5 
+0.7 5 0 , 2 
+2 6 2 6 
+CH2Ba 
+3,6 &amp; 0,7 
+50 2 3 
+
+-
+
+"NNDMA est I'abriviation de N,N-dirnkthylacttarnide; NMP est I'abriviation de N-
+
+rnithylpyn-olidone. 
+bLe solvant utilisi est le benzkne. 
+
+Y 
+
+des moments de A et de B. La direction du moment de la 
+
+Liaison hydrogGne 
+
+Liaison h a l o g h e 
+
+FIG. 1. Modsle structural le plus probable dans le cas d'une liaison 
+
+hydrogkne et dans celui d'une liaison haloghe. 
+
+Pour le systkme N,N-dimCthylacCtamide (B), tri-
+halogCnomCthane (A), le modkle le plus probable est schC-
+matis6 fig. 1. La liaison intermolCculaire se fait suivant l'axe 
+de l'orbitale occupte par une paire d'Clectrons n qui est du cGtC 
+du groupement CH3. Le modkle retenu correspond, dans le cas 
+d'une libre rotation autour de l'axe, au cas particulier ou les 
+dip6les s'orientent de manikre a ce que 1'Cnergie Clectrostatique 
+du systkme soit minimisCe. Sur la figure I, il est indiquC le sens 
+
+N,N-dimCthylacCtamide est celle donnCe par Nasyrov et al. 
+(19). 
+Les valeurs de A p calculCes pour ce modkle (cf. tableau 2) 
+sont comparCes aux valeurs de Aprer retenues et prCcisCes ci-
+dessus. La comparaison de ces valeurs mkne aux remarques 
+suivantes: dans le cas de CHC1, il est vraisemblable que la 
+liaison soit de type hydrogkne, dans celui de CHBr, une liaison 
+halogkne rendrait compte de nos rCsultats expkrimentaux, dans 
+ceux de CH2C12 et CH2Br2 il faudrait envisager une competition 
+entre les deux modes de liaison intermolCculaire. 
+En conclusion, pour le modkle structural retenu (le seul 
+pouvant mener a des valeurs d'incriment de moment dipolaire 
+susceptibles de rendre compte de nos rCsultats expkrimentaux) 
+seul le derive chlorC CHC13 prCsente des rCsultats compatibles 
+avec l'hypothkse d'une liaison hydrogkne, et seul le dCrivC 
+bromC CHBr3 prCsente des rCsultats compatibles avec 
+l'hypothkse d'une liaison halogkne. Compte tenu des grandes 
+incertitudes rattachCes aux valeurs de A p et de l'interprktation 
+donnCe aux rCsultats obtenus sur des systkmes voisins (9, 15, 
+16), il nous parait prCfCrable d'Cmettre, pour tous les cas envi-
+sagCs ici, l'hypothkse d'une compCtition entre les deux modes 
+d'interaction: l'interaction par liaison hydrogkne Ctant prCpon-
+dtrante lorsque 1'halogCne est le chlore, l'interaction par liai-
+son halogkne devenant prCpondCrante lorsque l'halogkne est le 
+brome. 
+Les Clectrons n de l'amide seraient les seuls concernCs dans 
+cette interaction. 
+I. 2. Par spectrome'trie infrarouge 
+La rCgion spectrale comprise entre 1630 et 1680 cm-', dans 
+laquelle se trouve la bande caractkristique du vibrateur C=O 
+de la N, N-dimCthylacCtamide, a Ct C explorCe. Les spectres des 
+mClanges N, N-dimCthylacCtamide (NNDMA) -dCrivCs halo-
+gCnCs (CHC13, CHC12Br, CCl,), obtenus dans le solvant 
+mCthylcyclohexane pour diffkrentes tempkratures ou diffk-
+rentes concentrations en dCrivC halogCnC sont compares au 
+spectre de la NNDMA en solution dans ce mCme solvant (cf. 
+Can. J. Chem. Downloaded from www.nrcresearchpress.com by 87.160.185.190 on 03/27/14 
+
+For personal use only. 
+
+
+DUMAS ET AL. 
+
+TABLEAU 2. Systemes A (derives organohalogCnCs) -B (base) -S (cyclo-
+
+hexane). IncrCments de moment Ap (debye), moments dipolaires pA' pB 
+( 2 0,02) D, ~A B 
+( 2 0,l) 
+
+N N D M A ~ 
+
+PAB 
+
+5 , O 
+4,7 
+4,6 
+4,4 
+(3,74) 
+Liaison hydrogene 
+A CL 
+
+] 0,6 0,4 1 , l 
+
+0,s 
+Liaison halogene 
+A CL 
+0,8 
+0,2 
+-O,2 
+
+NMP 
+
+PAB 
+
+5,1 
+4,7 
+4,8 
+4,4 
+(3,84) 
+
+Liaison hydrogene I 
+
+A CL 
+j 0,6 
+0,3 
+1,2 
+0 3 
+Liaison halog&amp;ne 
+A F 
+
+} 1.1 
+
+0,6 
+0,5 
+-0,3 
+
+"Liaison hydroghe: Ap,, = 0,6 D; liaison halogkne par atorne CI: Aptif = 0,s D; liaison 
+
+halogkne par atorne Br: Ap,, &gt; 0.5 D. 
+
+*NNDMA = N,N-dirnCthylacitarnide; NMP = N-rnCthylpyrrolidone. 
+
+FIG. 2. Rigion de la vibration CO du spectre infrarouge de la 
+N,N-dimCthylacitamide en solution dans le mCthylcyclohexane. c = 
+0,0084 mol L-'; e = 0,425 mm; -t = 30°C; ----t = -56,6"C. 
+
+fig. 2). Cette comparaison mkne aux remarques suivantes. 
+A 30°C et pour des concentrations pour les deux solutCs 
+(NNDMA et dCrivC halogCnC) peu differentes, c'est-a-dire dans 
+des conditions expkrimentales proches de celles des Ctudes en 
+polarisation diklectrique et en microcalorimCtrie, une bande 
+aux environs de 1655 cm-' apparait (cf. figs. 3-5). Suivant les 
+rCsultats obtenus en polarisation diklectrique cette bande pour-
+rait Ctre attribuCe 2 l'existence d'un seul type de complexe de 
+stoechiomCtrie 1 : 1 dont la liaison intermolCculaire se ferait par 
+I'intermCdiaire des Clectrons n de la NNDMA. 
+
+cm-I 
+
+FIG. 3. Rigion de la vibration CO du spectre infrarouge de la 
+N,N-dimCthylacCtamide (c = 0,00239 mol L-') dans une solution de 
+trichloromithane (c = 0,0455 mol L-') et de mithylcyclohexane. e = 
+0,225 mm; -t = 28,g°C; ---t = -73,3"C. 
+
+A basse tempCrature ou 2 forte concentration en dCrivC halo-
+
+gCnC, c'est-2-dire loin des conditions expirimentales utilisCes 
+en polarisation diklectrique ou en microcalorimCtrie, on note un 
+dkplacement de la bande du CO "libre" vers les faibles nombres 
+d'onde. D'autre part la bande vers 1655 cm-I se dCdouble et 
+une nouvelle bande vers 1640 cm-' apparaPt pour les plus fortes 
+concentrations en dCrivCs halogCnCs ou pour les plus basses 
+tempiratures (cf. fig. 6). Ces conditions expirimentales parti-
+culikres favoriseraient la formation de complexes de stoe-
+Can. J. Chem. Downloaded from www.nrcresearchpress.com by 87.160.185.190 on 03/27/14 
+
+For personal use only. 
+
+
+CAN. J. CHEM. VOL. 62, 1984 
+
+FIG. 4. Rtgion de la vibration CO du spectre infrarouge de la 
+N,N-dirntthylacttarnide ( c = 0,0145 rnol L-') dans une solution de 
+brornodichlororntthane ( c = 0,0634 rnol L-') et de rntthyl-
+cyclohexane. e = 0,403 rnrn; -t = 28,9"C; ----t = -5 1,6"C. 
+
+chiomCtrie differente de 1 : 1 ou de complexes prCsentant dif-
+fCrents types de configuration (par l'intermkdiaire des Clectrons 
+n et/ou n de la NNDMA). Ce fait est rev616 a I'extrCme dans 
+le cas du composC CF2Br-CF,Br, qui a pu Ctre CtudiC jusqu'i 
+la temperature de -80°C (cf. fig. 7). 
+
+11. Cornparaison des valeurs de K et AH 
+Les rksultats de l'analyse structurale prCcCdente nous ont 
+conduit a postuler, pour l'interaction dicelCe entre les amides 
+tertiaires et les derives CH,X, Ctudies, dans le domaine experi-
+mental utilisi, l'existence de complexes de type 1 : 1 forrnis par 
+liaison hydrogene (LH) et/ou liaison halogene (LX). 11 est donc 
+necessaire, pour interpreter des resultats issus de techniques 
+diffkrentes, d'Clucider la signification des grandeurs a inter-
+preter. 
+Un developpement des equations utilisies en polarisation 
+ditlectrique (pd) et en calorimetrie (cal) pour i complexes de 
+type 1: 1 en equilibre cornpetitif mene aux resultas suivants 
+(15): 
+
+KN = Kc,, = CKi (= par exemple KLH + KLX) 
+
+LH: interaction par liaison hydrogene; LX: interacticn par liai-
+son halogene. 
+Les rtsultats portes dans le tableau 1 montrent qu'il apparait 
+bien une similitude entre les valeurs des constantes d'equilibre 
+issues de ces deux techniques confirmant ainsi que les cor-
+rections d'effets secondaires ont Cte correctement faites. Mais 
+
+D.O. I 
+
+FIG. 5. Rtgion de la vibration CO du spectre infrarouge de la 
+N,N-dirntthylacttarnide (c = 0,0241 rnol L-') dans une solution de 
+tCtrachlororntthane ( c = 2,076 rnol L-') et de rntthylcyclohexane. e 
+= 0,393 rnrn; -t = 31 ,O°C; ----t = -36,6"C. 
+
+une comparaison des valeurs de K ou de AH s'avere difficile 
+car elle necessite la connaissance de ces grandeurs thermo-
+dynamiques pour chaque equilibre mis en jeu. On peut toute-
+fois envisager cette comparaison dans les deux cas extremes 
+c'est-a-dire dans l'hypothese d'une interaction unique par liai-
+son hydrogene ou par liaison halogene. Dans ce cas, lors du 
+passage du derive chlorC au derive bromC on peut prevoir une 
+
+dkcroissance de K et de I AH1 pour une interaction unique par 
+liaison hydrogene et une croissance de K et de 1 AH1 pour une 
+
+interaction unique par liaison halogene (15). 
+Suivant nos rCsultats experimentaux (cf. tableau l), on cons-
+tate que les valeurs des constantes d'kquilibre, qui augmentent 
+lorsque le numero atomique de l'halogene augmente, ne per-
+mettent pas d'admettre l'existence d'un unique mode d'in-
+teraction par liaison hydrogene mais elles ne seraient pas in-
+compatibles avec celle d'un unique mode d'interaction par 
+liaison halogene. Ces constatations, dans les quelques cas 
+expCrimentaux CtudiCs, sont inversees pour les valeurs de 
+IAHI. Les valeurs de AS n'ont pas Ct C notCes, car les domaines 
+d'incertitude sont tels que ces valeurs n'ont pas de signifi-
+cation. Toutefois, les rksultats de l'analyse structurale nous ont 
+amen6 a faire intervenir l'existence competitive de ces deux 
+modes d'interaction. Dans ce cas, pour expliquer une quelcon-
+que variation des valeurs de AH il est nCcessaire de connaitre 
+les valeurs respectives de KLH, AHLH et KLX, AHLX (voir ci-
+dessus). Par contre, un sens de variation des valeurs de K, 
+
+reprisentant une somme de constantes (KLH + KLX), peut ttre 
+
+interprCte suivant le sens de variation probable de chacune des 
+constantes d'equilibre (18): une augmentation de K lorsque le 
+Can. J. Chem. Downloaded from www.nrcresearchpress.com by 87.160.185.190 on 03/27/14 
+
+For personal use only. 
+
+
+DUMAS ET AL 
+
+FIG. 6. RCgion de la vibration CO du spectre infrarouge de la 
+
+N,N-dimCthylacCtamide ( c = 0,023 mol L-') dans deux solutions de 
+trichloromCthane (-c = 0,0455 mol L-', ----c = 0,45 11 mol L-') 
+et de mCthylcyclohexane. e = 0,225 mm; t = -36,6"C. 
+
+numCro atomique de l'halogttne croit indique que KLX croit plus 
+vite que KLH ne dCcroit. 
+
+Conclusion 
+Une Ctude menCe par trois techniques diffkrentes (pola-
+risation diklectrique, spectromCtrie infrarouge, micro-
+calorimktrie) nous a permis de mettre en evidence l'existence 
+d'interactions molCculaires faibles entre les dCrivCs halogCnCs 
+du mCthane et des amides tertiaires. 
+L'Ctude structurale par polarisation diklectrique, 2 partir de 
+modttles structuraux caractkristiques faisant intewenir les Clec-
+trons n et les Clectrons IT des amides tertiaires, a permis d'une 
+part, de minimiser le r6le des electrons IT et maximaliser le r61e 
+des Clectrons n, d'autre part, de prCciser la nature de l'inte-
+raction. Les rCsultats plaident en faveur d'une compCtition 
+entre deux modes d'interaction (par liaison hydrogCne et par 
+llintermCdiaire d'un atome d'halogttne ou liaison halogkne), 2 
+l'exception de CHCI, et CHBr,, pour lesquels respectivement 
+une liaison hydrogkne seule et une liaison halogkne seule pour-
+rait suffire a expliquer les rCsultats expkrimentaux. 
+L'Ctude vibrationnelle par spectromCtrie infrarouge a montrC 
+que dans les conditions expCrimentales sClectionnCes pour les 
+deux autres techniques (25°C; concentrations molaires de 
+l'ordre de 0,05 M ) , les liaisons intermolCculaires (hydrogttne 
+ou halogttne) donneraient lieu 8 un complexe de stoechiomCtrie 
+1 : 1, d'autres types de complexes n'apparaissant qu'8 basse 
+tempkrature. 
+Les valeurs identiques des grandeurs thermodynamiques dC-
+terminCes par polarisation diklectrique et microcalorimCtrie, 
+dans le domaine d'incertitude considCrC, confirment la validit6 
+des corrections d'effets secondaires apportkes dans chacune des 
+mCthodes adoptCes. La stoechiomCtrie des complexes Ctant 
+postulCe 1 : 1, la variation de ces grandeurs thermodynamiques 
+en fonction du numCro atomique de l'halogttne au sein d'une 
+meme molCcule est incompatible avec une interaction unique 
+
+FIG. 7. RCgion de la vibration CO du spectre infrarouge de la 
+
+N,N-dimCthylacCtamide ( c = 0,0145 mol L-') dans une solution de 
+tktrafluoro-1,1,2,2 &amp;thane ( c = 1,498 mol L-') et de mCthyl-
+
+cyclohexane. e = 0,393 mm; -t = 28,9"C, . . . . . t = -3 7 0 ~. ----
+
+t = -80,5"C. 
+
+D.O. 
+
+06-
+
+par liaison hydrogttne et pourrait &amp;tre interprktee par une inte-
+raction par liaison haloghe seule. Ce rCsultat associC aux rC-
+sultats de notre analyse structurale et 21 ceux obtenus par ailleurs 
+(9, 15, 16) nous permettent en fait, d'Cmettre l'hypothttse de 
+l'intewention compCtitive de ces deux types d'interaction, 
+l'une ou l'autre devenant plus ou moins prCpondCrante suivant 
+le type d'halogttne port6 par le dCrivC halogCnC. 
+En conclusion, cette Ctude des interactions entre une sCrie de 
+composCs organohalogCnCs pris pour reprCsentants d'anes-
+thCsiques halogCnCs et deux amides tertiaires prises comme 
+modkles d'un constituant de la membrane des cellules ner-
+veuses, nous a permis de mettre en evidence, en particulier, le 
+r61e jouC par l'halogkne dans ces interactions (liaison halo-
+gttne). Les systttmes simples utilisCs dans cette Ctude sont, bien 
+sir, loin des systttmes biologiques mais nous proposons I'in-
+tewention de ce type d'interaction dans ces milieux plus com-
+plexes et sa prise en compte dans un classement des anesthB 
+siques gCnCraux (1 -3) suivant le type d'interactions principales 
+auquel ils peuvent participer. 
+
+I-\ 
+
+I 
+I \ 
+
+I 
+\ 
+I 
+\ 
+I 
+\ 
+I 
+\ 
+
+I 
+
+:-.I 
+
+..".. : i'.. 
+
+I 
+
+* 
+: 
+
+* 
+. 
+: 
+
+, .. I 
+
+Remerciements 
+Les spectres infrarouge ont Ct C rCalisCs par l'un d'entre nous 
+dans le laboratoire du Professeur Sandorfy (UniversitC de Mon-
+
+trCal) que nous tenons ici, a remercier. Ce sCjour 2 MontrCal a 
+
+Ct C rendu possible grice a un programme d'Cchange sci-
+entifique France-QuCbec. 
+
+1. G. TRUDEAU, J. M. DUMAS, P. DUPUIS, M. GUERIN et C. SAN-
+DORFY. Dans Topics in current chemistry. Vol. 93. Springer, 
+
+Berlin. 1980. pp. 91-125. 
+
+Can. J. Chem. Downloaded from www.nrcresearchpress.com by 87.160.185.190 on 03/27/14 
+
+For personal use only. 
+
+
+2640 
+
+CAN. 1. CHEM. VOL. 62, 1984 
+
+2. C. SANDORFY. Dans Progress in anesthesiology. Vol. 2. ~d i t e ' 
+par B. R. Fink. Raven Press, New York. 1980. pp. 353-359. 
+3. J. M. Dumas. Nouv. J. Chem. 8, 349 (1984). 
+4. T. DI PAOLO et C. SANDORFY. J. Med. Chem. 17, 809 (1974). 
+5. T. DI PAOLO et C. SANDORFY. Can. J. Chem. 52, 3612 (1974). 
+6. A. NAGYREVI et C. SANDORFY. Can. J. Chem. 55, 1593 (1977). 
+7. R. MASSUDA et C. SANDORFY. Can. J. Chem. 55, 321 1 (1977). 
+8. G. TRUDEAU, K. C. COLE, R. MASSUDA et C. SANDORFY. Can. 
+J. Chem. 56, 1681 (1978). 
+9. J. M.DUMAS, M. GOMEL et M. GUERIN. Dans The chemistry of 
+functional groups. supp. D, part 2. Edite' par S. Patai' et Z. 
+Rappoport. John Wiley, New York. 1983. pp. 985-1020. 
+10. D. CLEVERDON, G. B. COLLINS et J. W. SMITH. J. Chem. Soc. 
+4499 (1956). 
+
+11. J. MONTEAU, H. HUSER, M. GUERIN et M. GOMEL. J. Chem. 
+Res. (S) 256, (M) 3217 (1978). 
+12. L. LAMBERTS et T. ZEEGERS-HUYSKENS. j. Chim. Phys. 60,435 
+(1963). 
+13. D. A. DERANLEAU. J. Am. Chem. Soc. 91, 4044 (1969). 
+14. M. ASSELIN et C. SANDORFY. J. Chem. Phys. 52, 6130 (1970). 
+15. C. GERON et M. GOMEL. J. Chim. Phys. 75, 241 (1978). 
+16. C. GERON et M. GOMEL. J. Chim. Phys. 76, 411 (1979). 
+17. B. CASTAGNA. Thkse de Doctorat d'Etat, Poitiers, France. 1975. 
+18. J. M. DUMAS, C. GERON, H. PEURICHARD et M. GOMEL. Bull. 
+Soc. Chim. Fr. 720 (1976). 
+19. D. M. NASYROV et A. N. VERESHCHAGIN. Izv. Akad. Nauk 
+SSSR, Ser. Khim. 3, 571 (1981). 
+
+Can. J. Chem. Downloaded from www.nrcresearchpress.com by 87.160.185.190 on 03/27/14 
+
+For personal use only. 
+
+
+
+	
+

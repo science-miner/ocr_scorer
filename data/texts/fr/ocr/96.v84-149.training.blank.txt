@@ -1,0 +1,614 @@
+
+	
+
+		
+
+	
+
+	
+
+Structures cristallines des ( 2 ) oxy-2P bis(bromo-3a phenyl-SP tetrahydrofuranne), 
+(k) oxy-2P bis(bromo-3a methyl-4a phenyl-SP tetrahydrofuranne) et ( 2 ) oxy-2P 
+bis(bromo-3a (trimethyl-2',4',6' pheny1)-SP tetrahydrofuranne) 
+
+Laborc~toire cle S~PrPochirnie Riactior~rrelle, Urriversiti Pierre c. 1 Marie Curie, Bcirirnerlr F, 8 , rue C~tvier, 
+75230 Paris Cede-r 05, Frrrtzce 
+
+Labornloire tle Chimie Str~tcturale rles MatPria~~r, Utrir~er.sitt Pierre et Mrrrie C~trie, Britirner~l F, 8 , rue Cuvier, 
+75230 Poris Cede.r 05. Frrzrlce 
+
+Regu le 16 juin 1983 
+
+GILBERT DANA, ESTERA TOUBOUL, MARTHA MORALES-RIOS, MICHELE PHILOCI~E-LEVISALLES et CLAUDETTE BOIS. Can. J. 
+Chem. 62, 91 1 (1984). 
+Les trois Cthers A, B et C forrnCs aux cours de I'hydrolyse des dCrivCs dibromCs tktrahydrofuranniques 1 ont une structure 
+
+racCmique. Dans les trois cas, la sClectivitC de la rtaction correspond donc a unc association entre Cnantiomeres de mCmc 
+
+configuration absolue. Dans les trois molteules Ctuditcs, le cycle tCtrahydrofuranniquc a unc conformation caractCrisCe 
+notamment par des groupes polaires en 2 (effet anomkre) et en 3 diaxiaux et un groupc aromatique d'autant plus Cquatorial 
+qu'il est volumineux. 
+
+GILBERT DANA, ESTERA TOUBOUL. MARTHA MORALES-RIOS, MICHELE PHILOCHE-LEVISALLES, and CLAUDETTE BOIS. Can. 
+J. Chem. 62, 91 I (1984). 
+The three ethers A, B, and C formed during the hydrolysis of dibrominated tetrahydrofuran derivatives 1 are racemic. In 
+all three cases, the reaction selectivity corresponds to an association betwccn enantiomers of the same absolute configuration. 
+In the three molecules studied, the tetrahydrofuran ring assumes a conformation characterized by polar groups in thc 2-position 
+(anomeric effect) and in the 3-position being diaxial and by the bulky aromatic group being equatorial. 
+[Journal translation] 
+
+L'hydrolyse des dCrivCs dibrornts racerniques de type 1 con-
+duit a des herniacCtals brornes 2 accornpagnCs d'une quantite 
+parfois importante (30 a 50%) d'un Cther bis-tetrahydro-
+furannique 3 sous forrne d'un isomkre pur ou largement pre-
+dominant. 
+
+La rrnn du proton ou du "C ne nous a pas perrnis de deter-
+miner s'il s'agit de I'isomkre 3 mCso ou 3 dl. 
+
+L'Ctude du mtcanisme de la reconnaissance Cnantiomtrique 
+(1) au cours de cette reaction necessitant la connaissance de la 
+structure du produit forme, nous avons entrepris sa deter-
+mination par diffraction de rayons X, dans trois cas: 
+compose A: Ar = C6H5, R = H; 
+composC B: Ar = C6H5, R = CH,; 
+compose C: Ar = (CH3),C6H2, R = H. 
+Par ailleurs, ce travail conduit Ci la connaissance de la con-
+
+formation des cycles tktrahydrofuranniques correspondants, 
+utile pour une etude en cours des proprietes des brornhydrines 
+2 et de leurs derives. 
+
+Partie experimentale 
+
+Les monocristaux ont C t t obtenus par Cvaporation lente dc solutions 
+dans I'Cther de pCtrolc lCger a tempkrature ambiante. 
+Les mesures ont CtC faites sur un diffractomktre automatique quatre 
+cercles Philips PW 1100, monochromateur de graphite, en utilisant 
+la radiation MoKcl (0,7107 A). Les rCflexions ont CtC enregistrees 
+
+dans un intervalle 2" &lt; 0 &lt; 25", avec une vitesse de balayage en w/20 
+
+de 0,05" s-' et une amplitude de balayage de 1.2" + 0.3" tg 0. LC fond 
+
+continu a CtC mesurC de part et d'autre dc chaque tache. L'en-
+registrement d'une tache de rCfCrence toutes les 120 minutes a permis 
+de vCrifier que le cristal ne s'altkrait pas. Les paramktres de la maille 
+
+ont CtC obtenus par affinement a partir des angles de 25 rdflexions. 
+
+L'enregistrement des composCs B et C a CtC fait temperature 
+
+ambiante. Celui de B a CtC refait a 233 K pour tenter d'obtenir un plus 
+
+grand nombre de donnCes utilisables pour les affinements, mais les 
+resultats furent similaires. L'enregistrement de A a CtC effect&amp; direc-
+tement a 233 K. 
+Les intensitis ont CtC corrigCes des facteurs de Lorentz et de pola-
+risation. Pour les corrections d'absorptionunc tentative a CtC faite pour 
+la premiere structure CtudiCe (B). sans apporter d'amelioration no-
+table. A notre avis, la difficult6 du problkme reside plut8t dans le trop 
+grand nombre de rkflexions faibles (mesurkes avec trop peu de prC-
+cision). Cette correction d'absorption n'a donc pas CtC faite pour Ics 
+deux structures suivantes. Les structures ont CtC rCsolues. par inter-
+pretation de la fonction de Patterson qui a permis la localisation du 
+brome. Une sCrie de Fourier "diffkrence" a fait alors apparaitre les 
+autres atomes lourds. Les coordonnCes de ces atomes ont CtC affinCes 
+(leur agitation thermique Ctant supposCe anisotrope). Les atomes 
+d'hydrogtne ont tous pu Ctre placCs sur une sCrie de Fourier diffkrence; 
+leurs coordonnCes ont ete affinCes (pour A ct B) et on leur a attribuC 
+
+Can. J. Chem. Downloaded from www.nrcresearchpress.com by 87.160.185.190 on 03/27/14 
+
+For personal use only. 
+
+
+CAN. J. CHEM. VOL. 62. 1984 
+
+Donnees cristallographiques 
+
+Paramktres 
+ComposC A 
+CornposC B 
+CornposC C 
+
+Formule 
+PM 
+Fusion 
+Syst. crist. 
+
+a (4) 
+
+b (6) 
+
+c (A) 
+
+P ("1 
+
+V (A') 
+
+z 
+
+D, (g cm-') 
+
+Groupe spatial 
+CL (mm-'1 
+Dimension crist. (mm) 
+RCflexions observables 
+RCflexions conservCes 
+Critkre d'exclusion 
+R 
+R,,, 
+
+CzoH~oO~Brz 
+468 
+109°C 
+Monoclinique 
+16,644(5) 
+6,089(3) 
+19,807(7) 
+L08,7(1) 
+1901 
+4 
+1,63 
+P2,ln 
+4,52 
+0,2 X 0,2 X 0,5 
+3797 
+2267 
+
+F &lt; 2u ( F ) 
+
+0,065 
+0,068 
+
+CzzHz403Brr 
+496 
+160°C 
+Quadratique 
+15,135(5) 
+
+-
+
+9,301(4) 
+-
+2130 
+4 
+1 3 5 
+P42/t1 
+4,05 
+0.4 X 0,5 X 0,7 
+2 130 
+1124 
+
+F &lt; 2u ( F ) 
+
+0,052 
+0,058 
+
+C26H3203BrZ 
+552 
+2 16°C 
+Orthorhombique 
+19.31 5(8) 
+14,31 l(6) 
+9,267(4) 
+
+-
+
+2562 
+4 
+1,43 
+Pccn 
+3,37 
+0,3 X 0,3 X 0,7 
+2587 
+1156 
+
+F &lt; 2u ( F ) 
+
+0,052 
+0,056 
+
+TABLEAU I. CoordonnCes atorniques (compose A) 
+
+9 
+
+-
+-
+-
+-
+--
+
+Atome 
+~/ a 
+Y l b 
+
+Z/C 
+
+Be". 
+
+R r l 
+
+un facteur d'agitation therrnique isotrope, Cgal au B Cquivalent de 
+I'atorne porteur. L'affinement a CtC poursuivi jusqu'i ce que les varia-
+tions des pararnktres soient toutes infkrieures a 0,05 fois I'Ccart type. 
+Les dernikres series-diffkrences ne laissent alors apparaitre que des 
+
+rCsidus de 0.4 e A-'. En ce qui concerne C, le nornbre insuffisant de 
+
+reflexions conservCes en fonction du critkre F &gt; 2u ( F ) n'a pas perrnis 
+
+d'affiner leurs coordonnCes; de plus les pics correspondant aux atomes 
+d'hydrogkne des groupes mCthyle Ctaient diffus, en raison sans doute 
+du grand nornbre de ces groupes et de leur rotation quasi-libre. 
+Les affinernents par la mkthode des rnoindres carrCs ont CtC rCalisCs 
+
+t i I'aide du programme AFFINE adapt6 de ORXFLS (2), utilisant une 
+
+matrice complkte. Les reflexions ont CtC pondtrees par un facteur w 
+= I/uZ (F). On a tenu cornpte de la correction de dispersion anomale 
+(partie rCelle) pour le brome. 
+
+FIG. I. Vue en perspective du cornpose A indiquant la nurnCro-
+tation des atornes. 
+
+Les tableaux 1, 2 et 3 donnent les coordonnCes atomiques res-
+pectivement pour les cornposCs A, B et C ainsi que leurs Ccarts types. 
+Notons que pour le cornposC B (groupe P42/tl) nous avons choisi 
+I'origine sur un centre d'inversion. Les tableaux des amplitudes des 
+
+Can. J. Chem. Downloaded from www.nrcresearchpress.com by 87.160.185.190 on 03/27/14 
+
+For personal use only. 
+
+
+DANA ET AL 
+
+FIG. 2. Vue stCrtoscopique du compost B, montrant les orientations kquatoriales ou axiales des substituants des cycles tttrahydrofuranniques, 
+et I'orientation relative des diffkrents cycles. 
+
+TABLEAU 2. Coordonntes atomiaues (comoost B) 
+
+Atome 
+
+x l a 
+y l b 
+
+Z / C 
+
+Bcq 
+
+Br( 1) 
+0,4875(1) 
+0,2276(1) 
+0,3826(1) 
+5,6 
+o(1) 
+0,6693(2) 
+0,3303(2) 
+0,4777(4) 
+3,3 
+o(2) 
+0,75 
+0,25 
+0,3070(5) 
+3,2 
+c(2) 
+0,6709(4) 
+0,2541(4) 
+0,3925(6) 
+3,4 
+c(3) 
+0,5958(4) 
+0,2637(4) 
+0,2848(6) 
+3,3 
+c(4) 
+0,5997(4) 
+0,3619(4) 
+0,2536(6) 
+3,3 
+c ( 4 1) 
+0,5200(5) 
+0,4042(5) 
+0,1836(8) 
+3.3 
+c(5) 
+0,6259(4) 
+0,4017(4) 
+0,3993(6) 
+5,3 
+(351) 
+0,6877(4) 
+0,4803(4) 
+0,3916(6) 
+3,l 
+C(52) 
+0,7618(4) 
+0,482 l(4) 
+0,3037(7) 
+4,O 
+c(53) 
+0,8 162(4) 
+0,556 l(5) 
+0,3003(8) 
+5,2 
+c(54) 
+0,7976(5) 
+0,6263(4) 
+0,3906(9) 
+6,2 
+c(55) 
+0,7265(4) 
+0,6250(4) 
+0,4808(8) 
+5.7 
+C(56) 
+0,6705(4) 
+0,5523(4) 
+0,48 1 l(7) 
+4,2 
+
+facteurs de structure, des coordonntes des atomes d'hydrogtne, et des 
+facteurs d'agitation thermique anisotrope sont disponibles.' 
+
+Resultats et discussion 
+Les structures des 3 composts sont constitutes de moltcules 
+discretes, likes entre elles par des forces de van der Waals. Pour 
+
+B et C, la moltcule a une symttrie Cz, l'atome O(2) occupant 
+
+une position sptciale (a, a, z ) sur un axe binaire. 
+
+Pour A, les deux fragments de la moltcule sont syme-
+triquement independants, cependant on peut observer aussi une 
+symttrie C2 trks approximative (fig. 1). Les figures 1, 2 et 3 
+tractes B I'aide du programme ORTEP (3) reprtsentent les 
+
+moltcules et donnent la numtrotation des atomes; les 
+ellipso'ides correspondent a une probabilitk de prksence de 40% 
+et les tailles des atomes d'hydrogkne sont arbitraires, la molt-
+cule du composC C est projetee sur un plan perpendiculaire B 
+
+' On peut les obtenir a un prix nominal en s'adressant au DCpbt de 
+
+donnCes non publites, ICIST, Conseil National de recherches du 
+FIG. 3. Vue en perspective du compost C. 
+Canada, Ottawa, Ont., Canada KIA 0S2. 
+
+Can. J. Chem. Downloaded from www.nrcresearchpress.com by 87.160.185.190 on 03/27/14 
+
+For personal use only. 
+
+
+CAN. J. CHEM. VOL. 62. 1984 
+
+FIG. 4. Analyse conformationnelle des cycles tttrahydrofuranniques: angles dikdres, caractkre axial des substituants (8) et paramktres de 
+pseudorotation (6, 7). 
+
+TABLEAU 3. CoordonnCes atomiques (compost C) 
+
+Atome 
+
+xln 
+
+y l b 
+
+Z / C 
+
+Bcq 
+
+son axe binaire, la moltcule de A sur un plan perpendiculaire 
+B O(2)M (M est le milieu de C(2)-C'(2)). 
+Le tableau 4 donne les principales distances et les angles de 
+valence pour les trois composts. Bien que certaines liaisons 
+tquivalentes prtsentent des difftrences notables, celles-ci ne 
+sont pas significatives, compte tenu des tcarts types. 
+Le tableau 5 donne les diedres entre les substituants com-
+portant un atome lourd, aussi que les angles de ces substituants 
+avec le plan moyen tttrahydrofurannique T. Les angles de 
+torsion de ce cycle sont donnts dans la figure 4. 
+I1 apparait dans les trois cas examints que I'isomkre form6 
+dans la rtaction I est le produit 3 ractmique et non pas mesa, 
+c'est a dire que la duplication deshydratante ne se produit 
+qu'entre substrats de m&amp;me configuration absolue. Une ttude 
+plus dttaillte de cette Cnantiostlectivitt est en cours. 
+
+L'ttude conformationnelle des cycles pentagonaux connait 
+actuellement un grand dtveloppement utilisant le concept de 
+pseudorotation (4-6). 
+
+En dtsignant par 0,, O2 . . . les dikdres C3-C4, C2-C3, 
+0 I-C2 . . . , on tvalue (6) la phase de pseudorotation P par: 
+
+et le gauchissement du cycle 0, par 0, = 0,/cos P. 
+Nous pouvons alors comparer la conformation des cycles 
+tttrahydrofuranniques dans les trois structures Ctudites. Dans 
+la fig. 4, nous avons represend les 4 cycles obtenus pour A, 
+A', B et C en utilisant les dikdres des liaisons des cycles et le 
+caractkre axial des substituants (8) (pour les valeurs positives, 
+le substituant axial est vers I'avant; le caractere axial est rtputt 
+faible pour une valeur absolue inftrieure B 30 ou 40"). 
+1. Gauchissement du cycle 0," 
+On peut remarquer que le puckering 0, du cycle tttrahydro-
+furannique des moltcules B, C et de la premiere partie du 
+compost A est de I'ordre de 37" alors qu'il n'est que de 33,5" 
+pour la deuxikme partie de A (partie primte des tableaux). 
+Ce cycle est donc plus aplati que les trois autres. En re-
+cherchant les distances courtes entre atomes non lits, nous 
+avons remarqut que la distance de deux bromes apEartenant 
+aux parties A' de deux molecules voisines est de !,75 A, ce qui 
+est ltgkrement inftrieur B la somme (2 x 1,95 A) des rayons 
+de van der Waals de deux bromes. Une telle compression dans 
+I'empilement moltculaire ne se retrouve pas pour les autres 
+cycles. On peut penser que le faible puckering du cycle A' 
+rtsulte de l'tcrasement de cette partie de la moltcule et la 
+valeur 0, = 37" apparait comme la valeur normale pour les 
+moltcules de cette ttude. Cet tcrasement se manifeste tgale-
+ment par la rotation du cycle benztnique dont I'angle a avec T 
+(tableau 5) se rtduit a 50" alors qu'il est de 78 B 88" dans les 
+
+Can. J. Chem. Downloaded from www.nrcresearchpress.com by 87.160.185.190 on 03/27/14 
+
+For personal use only. 
+
+
+DANA ET AL. 
+
+TABLEAU 4. Principales distances (A) et principaux angles de liaison (0) 
+
+CornposC 
+
+Liaison 
+A 
+A' 
+B 
+C 
+
+O( 1)-C(2) 
+C(2)-C(3) 
+C(3)-C(4) 
+C(4)-C(5) 
+C(5)-0( 1) 
+C(2)-0(2) 
+C(3)-Br( 1) 
+C(4)-C(41) 
+C(5)-C(5 1 ) 
+C-C rnoyenS 
+C(2)-O(1)-C(5) 
+O( 1)-C(2)-C(3) 
+O( 1 )-C(2)-O(2) 
+C(3)-C(2)-0(2) 
+C(2)-C(3)-C(4) 
+C(2)-C(3)-Br( 
+1) 
+Br( 1)-C(3)-C(4) 
+C(3)-C(4)-C(5) 
+C(3)-C(4)-C(4 
+1) 
+C(4 1 )-C(4)-C(5) 
+C(4)-C(5)-O( 
+I ) 
+C(4)-C(5)-C(5 
+I ) 
+C(5 1 )-C(5)-O( 
+
+I ) 
+
+C(2)-O(2)-C(2)" 
+Angle rnoyenS 
+
+*Operation de symitrie, f -.r, f -v, z . 
+i Operation de symitrie, -.r. $ -v, z. 
+
+S Valeurs moyennes pour le noyau benzenique. 
+
+TABLEAU 5. (a) Diedres des substituants lourds* 
+
+CornposC 
+
+(b) Angles des substituants avec le plan rnoyen T du THF 
+
+CornposC 
+
+Plan Ar -plan T (a) 
+78,5(7) 
+50,7(8) 
+87,9(7) 
+78,6(7) 
+
+Liaison C(2)-O(2) avec T (P) 
+
+77,4(7) 
+77,0(7) 
+78,6(7) 
+68,6(7) 
+Liaison C(3)-Br(1) avec T (y) 
+8 1,7(7) 
+80,3(7) 
+82,2(7) 
+79,4(7) 
+Liaison C(5)-C(5 1) avec T (6) 
+43,1(8) 
+37,7(8) 
+41,6(8) 
+26,6(8) 
+
+* Les ditdres du cycle sont donnis dans la figure 4. 
+
+trois autres cas. De plus la densitt de A est particulierement 
+mier cycle A et le cycle B (m&amp;me forme enveloppe avec p = 
+tlevte (1,63 g/cm3) comparCe a celles des deux autres com-
+198" ? 1"). (Le cycle A' en raison de ses tensions particulieres 
+posts et sa temptrature de fusion (109°C) bien plus basse. 
+se rapproche plutbt d'une forme twist.) 
+2. Phase de pseudorotation P 
+Le groupe aromatique y occupe une position a peine Cqua-
+
+Notons la grande analogie des conformations entre le pre-
+toriale et ce n'est pas le groupe anornere (9) (-OR en 2) qui 
+Can. J. Chem. Downloaded from www.nrcresearchpress.com by 87.160.185.190 on 03/27/14 
+
+For personal use only. 
+
+
+916 
+
+CAN. I. CHEM. VOL. 62. 1984 
+
+occupe la position la plus axiale, mais le brome en 3 (cf. figures 
+
+1, 2, 3 et angles P et y du tableau 5). Pour B, on note que le 
+
+mtthyle occupe la position d'un hydrogkne Cquatorial de A et 
+n'introduit pas de nouvelle tension dans le cycle (m&amp;me valeur 
+P et On, pour A et B). Tout au plus, peut-on noter que l'angle 
+
+a du plan du benzkne avec le plan moyen du tttrahydro-
+furannique (tableau 5) augmente en presence du mCthyle et les 
+deux plans deviennent presque perpendiculaires ( a = 78'5 
+pour A devient 87'9 pour B). 
+
+Dans le cas du compost C, le groupe aromatique, plus volu-
+mineux, occupe une position plus nettement Cquatoriale. Mais 
+ceci semble obtenu au dttriment du caractkre axial de l'oxy-
+
+gkne anomkre (voir tgalement l'angle P, tableau 5). On peut en 
+
+effet noter que les mtthyles ortho du groupe mCsitylkne exer-
+
+cent une pression sur l'oxygkne O(2) qui entraine a la fois le 
+
+groupe aromatique dans une position plus Cquatoriale et le 
+groupe anomkre dans une position moiqs axiale; la distance 
+O(2)-C(521) n'est en effet que de 3,33 A, c'est-a-dire a peine 
+
+tgale la somme des rayoqs de van der Waals de l'oxygkne 
+(1,40 A) et du mtthyle (2 A). 
+Toutefois l'angle a entre les plans des deux cycles reste 
+identique h celui trouvt pour A (78,6'). 
+
+1. H. WYNBERG et B. FERINGA. Tetrahedron, 32, 2831 (1976). 
+2. W. R. BUSING, K. 0 . MARTIN et H. A. LEVY. Report ORNL-TM 
+305. Oak Ridge National Laboratory, Oak Ridge, TN. 1962. 
+3. C. K. JOHNSON. Report ORNL-3794. Oak Ridge National Labora-
+tory, Oak Ridge, TN. 1965. 
+4. C. ALTONA et M. SUNDARALINGAM. J. Am. Chem. Soc. 94,8205 
+(1972). 
+5. D. CREMER et J. A. POPLE. J. Am. Chem. Soc. 97, 1358 (1975). 
+6. D. CREMER et J. A. POPLE. J. Am. Chem. Soc. 97, 1354 (1975). 
+7. C. A. G. HAASNOOT, F. A. A. M. DELEEUW, H. M. P. DELEEUW 
+et C. ALTONA. Org. Magn. Reson. 15, 43 (1981). 
+8. R. BUCOURT. Bull. Soc. Chim. Fr. 2080 (1964). 
+9. P. DESLONGCHAMPS, D. D. ROWAN, N. POTHIER, G. SAUVE et J. 
+SAUNDERS. Can. J. Chem. 59, 1105 (1981). 
+
+Can. J. Chem. Downloaded from www.nrcresearchpress.com by 87.160.185.190 on 03/27/14 
+
+For personal use only. 
+
+
+
+	
+

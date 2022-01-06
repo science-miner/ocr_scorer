@@ -1,0 +1,620 @@
+
+	
+
+		
+
+	
+
+	
+
+Cinetique et mecanisme des reactions bromate-chlorite et bromate -dioxyde de chlore' 
+
+GUY SCHMITZ ET HENRI ROOZE 
+
+Foculre' des sciences opplique'es, Universire' libr-e de Br~i,relles, 50 Avenue F. Roosevelr, 1050 Br~~relles, Belgique 
+
+Resu le 3 juillet 1987 
+
+GUY SCHMITZ et HENRI ROOZE. Can. J. Chem. 66, 231 (1988). 
+
+Dans une solution acide contenant initialement de I'acide chloreux et un exces de bromate on observe deux reactions 
+
+consCcutives, l'oxydation de I'acide chloreux en dioxyde de chlore suivie de l'oxydation du dioxyde de chlore : Br03-+ 
+
+4C102 + 2H20 = 4C103-+ 3H' + HOBr. Nous avons 6tudiC la cinktique de cette reaction et proposC un mecanisme en 
+
+accord avec celui accepte pour la reaction apparentte entre le bromate et le Ce(lI1). Ce mecanisme, complCtC par des reactions 
+de l'acide chloreux, permet de reproduire les courbes expCrimentales d'evolution du dioxyde de chlore dans les solutions 
+d'acide chloreux et de bromate. Les valeurs des constantes d'equilibres et des constantes cinetiques sont discutkes. 
+
+GUY SCHMITZ and HENRI ROOZE. Can. J. Chem. 66, 231 (1988). 
+
+In an acidic solution, containing initially chlorous acid and bromate in excess, two consecutive reactions are observed, the 
+
+oxidation of chlorous acid to chlorine dioxide followed by the oxidation of chlorine dioxide: Br0,-+ 4C102 + 2 H 2 0 = 
+
+4C1O3-+ 3H' + HOBr. The kinetics of this reaction has been studied and a mechanism proposed. It agrees with the one 
+
+accepted for the related reaction between bromate and Ce(II1). Extended by reactions of chlorous acid, the mechanism 
+reproduces the experimental curves of chlorine dioxide evolution in chlorous acid -bromate solutions. The values of the 
+equilibrium and kinetic constantes are discussed. 
+
+Introduction 
+L'inttrst pour les rCactions ptriodiques en phase hornogene a 
+suscitC de nombreuses Ctudes de sous-systkrnes et de rtactions 
+apparenttes, en particulier celles du brornate et du chlorite. La 
+cornprthension de leurs rnkcanisrnes a forternent progresse ces 
+15 dernikres annees. Cependant celui de la rCaction entre le 
+brornate et le chlorite n'a jarnais CtC entibernent ClucidC. La 
+figure 1 donne un exernple de nos rksultats confirmant l'allure 
+gCnCrale obsewCe par Thompson (I) dans l'acide perchlorique 
+0,2-2 M. On utilise l'alcool allylique pour capter l'acide 
+hypobrorneux produit avant qu'il ne rCagisse avec le chlorite. 
+Ceci Cvite une sCrie de rkactions secondaires cornpliquant 
+forternent la stoechiomktrie et la cinCtique du systkrne. Avec 
+un excks de brornate on observe deux ptriodes : l'oxydation 
+du chlorite en dioxyde de chlore suivie d'une rCaction entre 
+le dioxyde de chlore et le brornate. Thompson a Ctabli les 
+caractkristiques stoechiornCtriques et cinCtiques de la prernikre 
+pCriode et a proposC un rntcanisrne qui en rend cornpte. Par 
+contre il n'a pas trouvC d'interprktation de la cinttique de la 
+rCaction entre le dioxyde de chlore et le brornate. Effectivernent, 
+dans ses conditions expkrirnentales, la cinttique de cette 
+rkaction ne se laisse pas reprkenter par une loi simple. En 
+Clargissant le dornaine de concentrations CtudiC nous avons pu 
+etablir son rnkcanisme et rnontrer qu'il est en accord avec celui 
+adrnis pour la reaction apparentke brornate-ce(111). 
+
+Partie experimentale 
+
+Le dioxyde de chlore est prCpa6 par la methode de Bray (2), lave 
+dans une solution acide de chlorite (pour Climiner des traces eventuelles 
+de chlore), dans une solution de nitrate d'argent (pour kliminer des 
+traces tventuelles d'acide chlorhydrique) et dissout dans l'eau distillee. 
+Les autres rCactifs sont de la qualit6 ((pour analyse,,. 
+Lors de 1'Ctude cinetique de la reaction entre le dioxyde de chlore et 
+un exces de bromate on melange les reactifs dans la cuvette thermo-
+statisee B 25°C d'un spectrophotometre Spectronic 2000 et on suit la 
+diminution de I'absorbance i 355 nm, maximum du spectre du dioxyde 
+
+de chlore. Son coefficient d'absorption molaire a ttC remesure et vaut 
+1265 M-I cm-I. Nous avons constate que l'alcool allylique n'a pas 
+d'effet sur les vitesses de cette reaction, ce qui indique que le HOBr 
+
+1. Article no 6 de la sCrie ccMCcanisme des reactions du chlorite et 
+du dioxyde de chlore,,. Article no 5, voir la reference 28. 
+
+T E M P S ( s ) 
+
+FIG. 1. Reaction bromate-chlorite. [HCI04] = 1 M; [NaC102] = 
+6,3 x lo-%; [C3H50H] = 5 x lo-' M; [KBrO'] = 2 X lo-' (a) et 
+
+5 X 10-'M (b). RCsultats exptrimentaux (-) et calculCs (a). 
+
+n'induit pas de reaction secondaire en absence de chlorite. Les risultats 
+prCsentCs ont donc CtC obtenus sans addition d'alcool. 
+Lorsque tout le dioxyde de chlore a CtC consomrnC. le spectre de la 
+solution correspond A celui d'un melange d'halogknates et de HOBr. 
+En utilisant les coefficients d'absorption molaire mesurks par Betts et 
+
+MacKenzie (3), on obtient [HOBr]/[C10210 = 0,245 * 0,005. On 
+
+verifie donc la stoechiomktrie [I]. 
+
+[I] 
+
+Br03-+ 4C1O2 + 2 H 2 0 = 4C10,-+ 3H' + HOBr 
+
+La figure 2 montre qu'apres une pCriode d'induction, les courbes 
+exptrimentales presentent une partie lineaire dont les pentes donnent 
+les vitesses reprises dans le tableau 1. Si la concentration en C102 est 
+suffisamment grande, les vitesses n'en dependent pas et on obtient la 
+loi cinetique [2]. Par contre lorsque la concentration en C102 est faible 
+il n'existe pas de loi cinetique simple. 
+
+Pnnled in Canada 1 Imprime au Canada 
+
+Can. J. Chem. Downloaded from www.nrcresearchpress.com by 87.160.185.190 on 03/27/14 
+
+For personal use only. 
+
+
+232 
+
+CAN. J. CHEM. VOL. 66, 1988 
+
+ibo 
+
+2b0 
+
+sbo 
+460 
+
+T E M P S (5') 
+
+FIG. 2. Reaction bromate -dioxyde de chlore. [HC104] = 1 M; 
+[KBr031 = 5 x 
+M; [C102],, = 1,46 x 
+M. RCsultats 
+expkrimentaux (-) et calculCs ( 0 ) . 
+
+TABLEAU 1. Effet des concentrations du bromate et 
+
+du dioxyde de chlore 
+
+[C10210 
+[KBr03] 
+Vitesse 
+
+kexp 
+
+M) 
+(10-3 M) 
+M s) 
+
+( M -~ S -I ) 
+
+TABLEAU 2. Effet de l'aciditk et de la force ionique 
+
+[HC1041 
+
+kexp 
+kcor 
+
+(MI 
+
+(M-3 S -I ) 
+(MP3 S -I ) 
+
+[C1O2Io = (0.4-3,2) X lo-' M; [KBrO,] = lo-'-
+
+lo-? M. 
+
+"Force ionique ajustie B 1 M avec du NaCIO,. 
+
+La variation de kexp en fonction de l'aciditk rksulte, au moins en 
+partie, de la diffkrence entre la concentration en bromate [KBr03] 
+
+correspondant L la quantitC de rkactif utilisee et les concentrations 
+
+rCelles en solution [Br03-] et [Br03H] calculees en tenant compte 
+de 1'Cquilibre [3]. 
+
+[3] 
+
+Br03-+ H' = Br03H 
+
+Avec la valeur K3 = 2,9 admise antkrieurement (4) on obtient les 
+valeurs de kcor reprises dans le tableau 2. 
+
+[H'] ' 
+
+kcor = [I + Xi] kexp 
+
+On dkduit des series de rnesures faites sans ajuster la force ionique que 
+la constante cinktique passe par un minimum aux environs de I = 
+1 M. 11 est classique d'obsewer ce type de variation des coefficients 
+d'activitks. 
+
+Mecanisme de la reaction bromate -dioxyde de chlore 
+
+Les observations precedentes peuvent Ctre expliquees par les 
+reactions [Rll-[R3]. On obtient la stoechiornCtrie [I ] en faisant 
+
+la sornrne 2[R1] + 4[R2] + [R3]. 
+
+[R3] 2HBr02+ Br03-+ H' + HOBr 
+
+Tant que la concentration [C1O21 est suffisarnrnent grande pour 
+
+avoir r + 2 &gt;&gt; r -, la quasi-stationnaritk des concentrations des 
+
+intermkdiaires B r 0 2 et HBr02 donne 
+
+On retrouve la loi experimentale avec kc,, = k:/k3. Lorsque 
+la concentration [C102] dirninue, la reversibilitk de [RI] cesse 
+d'Ctre nkgligeable. La concentration quasi stationnaire de 
+HBr02 est alors donnCe par une equation du troisikrne degre et 
+la loi cinCtique ne peut plus &amp;tre rnise sous une forme analytique 
+simple. 
+
+Periode d'induction de la reaction bromate -dioxyde de 
+
+chlore 
+
+La durCe ti de cette pCriode, en secondes, ne depend pas de 
+la concentration initiale en C102 et varie cornrne l'inverse des 
+concentrations en acide et en brornate. L'addition initialernent 
+de 2 X lop5 rnol L-I de Br-allonge notablernent la pCriode 
+d'induction rnais n'a pas d'effet sur la vitesse de disparition du 
+
+C102. L'addition de 2 x I o -~ 
+
+rnol L-' de C1-n'a aucun effet. 
+
+Montrons que l'on peut justifier cette relation en adrnettant que 
+la penode d'induction correspond au temps neckssaire pour que 
+la concentration [HBr02] atteigne sa valeur quasi stationnaire. 
+Si on peut faire l'approxirnation 2 r + = r + ~ 
+
+&gt;&gt; r -, on 
+
+obtient : 
+
+d[HBr02] 
+= kl[Br03-][H+][HBr02] -2k3[HBr0212 
+d t 
+
+On pose X = [HBr02]/[HBr02],, ou l'indice s designe la 
+valeur quasi stationnaire de la concentration, et on intkgre. 
+
+Le temps necessaire pour atteindre une valeur donnCe de X , 
+pour X o donnC, vane cornrne l'inverse de [Br03-][H+]. Ceci 
+peut expliquer la variation observCe de t i . L'intCgration des 
+equations gtnCrales associCes aux rCactions [Rll-[R3] (cf. 
+infra) a confirm6 cette interprktation de la pCriode d'induction. 
+
+La reaction bromate-chlorite 
+
+Ses caractenstiques ont CtC Ctablies par Thompson (1) dans 
+
+l'acide perchlorique 0,2-2 M en presence d'alcool allylique. 
+
+Elles peuvent se rksurner cornrne suit. 
+Can. J. Chem. Downloaded from www.nrcresearchpress.com by 87.160.185.190 on 03/27/14 
+
+For personal use only. 
+
+
+SCHMITZ ET ROOZE 
+
+233 
+
+En prtsence d'un large exces de chlorite la rCaction principale 
+est [5]. Elle est accompagnCe de la dismutation du chlorite (14). 
+
+[5] 
+
+Br03-+ 3HC102 = 2C10r + CIO3-+ HOBr + HrO 
+
+En prCsence d'un exces de bromate on obtient des courbes du 
+type de celles de la figure 1. Lorsque la concentration [C102] est 
+maximale le chlorite a Ct C entierement consommC. Les rCactions 
+bromate-chlorite et bromate -dioxyde de chlore sont donc 
+constcutives et bien sCpartes dans le temps. Le palier de la 
+
+concentration du C102 correspond 2 la pCriode d'induction 
+
+de la rCaction bromate -dioxyde de chlore. Le rapport 
+A[C102]/A[HC102] dCpend des conditions exptrimentales. 
+Pour [Br03-lo = (1,7-7,9) x 
+Met [HC10210 = (0,7-8,6) 
+x lop4 M, il vaut 0,48 dans l'acide perchlorique 1,9 M et 
+augmente si la concentration de l'acide diminue. I1 diminue si 
+la concentration en C10, augmente. La vitesse de formation du 
+C102 est proportionnelle a la concentration du bromate et a celle 
+du chlorite. Elle augmente plus que proportionnellement la 
+concentration de l'acide. 
+Thompson a interpret6 ces observations en considerant les 
+reactions [R2] et [R4]-[R6]. 
+
+[R6] HBr02 + HCIOr+ CI03-+ H' + HOBr 
+
+Lorsque la concentration en chlorite est grande le Br02 rCagit 
+
+principalement suivant [R5] et la somme [R4] + [R5] + [R6] 
+
+donne la stoechiomCtrie expkrimentale [5]. Si par contre le 
+Br02 rCagit Cgalement suivant [R2] on obtient Cgalement [6] = 
+
+[R4] + [R2] + [R6] et un rapport A [C102]/A [HC1O21 infkrieur 
+
+a 213. 
+
+[6] 
+
+Br03-+ 2HC102 = 2C103-+ H+ + HOBr 
+
+La competition entre [R2] et [R5] explique que ce rapport 
+diminue si la concentration [C102] augmente. Elle explique 
+qu'il augmente si la concentration en acide diminue a condition 
+d'Ccrire [R5] sous la forme [R5']. 
+
+Les rCactions [Rl] et [R3] sont nkgligeables pendant la reaction 
+bromate-chlorite car la concentration [HBr02] est beaucoup 
+plus faible que pendant la rCaction bromate -dioxyde de chlore. 
+La simulation numCrique ci-aprks prkcisera ce point. 
+
+Constantes d'equilibre des reactions [Rll-[R6] a 25°C 
+Les enthalpies libres de formation, en kJ/mol, des diffkrents 
+composCs intervenant dans ces rCactions peuvent Etre estimCes 
+comme suit. 
+
+ACy(c102 aq.) = 119 5 3 
+
+Cette valeur a CtC dCduite (5) de celle mesurCe en phase gazeuse 
+(6). Le potentiel standard du couple C102/C102-vaut 0,935 ? 
+0,005 V et sa valeur apparente en milieu perchlorique de force 
+ionique 1 M est 0,950 V (7-13). Cette diffkrence est compatible 
+(14) avec l'effet de la force ionique sur la constante d'aciditC du 
+
+HC102 (15). Avec K: (HC102) = 1,l X 
+
+on obtient: 
+
+ACB(HC102) = AC0(C102 aq.) -101,4 -t 0,5 
+
+Pour le chlorate et le bromate, nous adoptons les valeurs, et 
+les estimations d'erreurs, de Johnson et al. (16). Latimer (17) 
+avait admis respectivement -2,6 et 21 kJ/mol. La valeur 
+1,7 kJ/mol pour le brornate proposee recernrnent (18) est peu 
+vraisernblable. 
+
+TABLEAU 3. Constantes d'kquilibres et constantes 
+cinCtiques dans HC104 1 M 
+
+--
+
+Unites : rnol L-' s. 
+"Les vitesses correspondantes sont negligeables dans les 
+conditions etudiies. 
+
+L'enthalpie libre de formation du HOBr semble bien Ctablie 
+(17, 18). 
+
+La constante d'Cquilibre de [Rl] a Ct C mesuree par Field et 
+Forsterling (19) : 
+
+K1 = lop6 a 20°C dans H2S04 1 M 
+
+Pour en dCduire une relation entre les enthalpies libres de 
+formation de B r 0 2 et de HBr02 il faut tenir compte de la 
+
+formation de HBr03, en multipliant K , par (1 + [H+]/K3), et 
+
+de la force ionique. I1 faudrait Cgalement tenir compte de l'effet 
+de la temptrature mais on n'a aucune indication concernant 
+celui-ci. Avec K3 = 2,9 et y+ = 0,7 on obtient : 
+
+Une estimation ACY(Br02) a Ct C dCduite (20) des mesures de 
+vitesses d'echange isotopique de Betts et MacKenzie (21). 
+Cependant les calculs impliquent que lors de ces mesures le 
+
+systeme Ctait a 1'Cquilibre chimique. Betts et MacKenzie ayant 
+
+soulignC (rtf. 21, p. 664) que ce n'Ctait pas le cas, nous 
+prCfCrons nous baser sur des donnCes rtcentes permettant 
+d'estimer la constante d'Cquilibre de la rCaction [7]. 
+
+Field et Forsterling (ref. 19, note 33) ont obtenu k7 = 8 x 
+
+lo4 M P 2 S-' a 20°C dans H2SO4 1 M . Une courte extrapolation 
+
+des mesures de Sullivan et Thompson (22) donne k -= 9 x lo3 
+
+a 25°C dans H2SO4 1 M. Le rapport des deux constantes vaut 
+
+12. D'autre part Forsterling et al. (23) ont observe que dans une 
+solution 1 M en H2SO4 et 1 M en Br03-, 1'Cquilibre de [7] 
+
+correspond 2 80% du cerium sous la forme Ce(1V) lorsque 
+
+[BrO,] = 4,7 x 
+
+On en dtduit K7 = (1,9 X 10-5)/KI en 
+
+parfait accord avec l'estimation prCcCdente. Sachant que dans 
+l'acide sulfurique 1 M le potentiel du couple Ce(IV)/Ce(III) 
+vaut 1,44 V (18), on obtient 1,5 1 V pour le potentiel du couple 
+Br02/HBr02 et 
+
+On dispose ainsi de toutes les donnCes nCcessaires pour 
+calculer les constantes d'equilibre des reactions [Rll-[R6]. 
+A 25°C dans l'acide perchlorique 1 M, en incluant l'effet de 
+1'Cquilibre [3] dans les constantes apparentes, on obtient les 
+valeurs du tableau 3. I1 faut cependant souligner qu'une erreur 
+de 2 kJ sur les AG? entraine une erreur d'un facteur 2 sur 
+Can. J. Chem. Downloaded from www.nrcresearchpress.com by 87.160.185.190 on 03/27/14 
+
+For personal use only. 
+
+
+234 
+
+CAN. J. CHEM. VOL. 66, 1988 
+
+TABLEAU 4. Exemples de valeurs calcul6es dans les conditions de 
+la figure I b 
+
+Temps 
+(s) 
+
+ces constantes. Ceci constitue certainement une estimation 
+optimiste de l'incertitude relative aux valeurs adoptCes. Elles 
+permettent cependant d'Ctablir que lors de nos experiences 
+les rCversibilitCs des rCactions [R2]-[R6] Ctaient nkgligeables. 
+
+L'interpretation des rCsultats est donc insensible 2 la valeur 
+
+exacte des constantes d'equilibre correspondantes. 
+
+Constantes cinetiques a 25°C dans HC104 1 M 
+
+La rCaction [Rl] n'est pas ClCmentaire et rCsulte de B a 3 -+ 
+H+ + HBrOz = Br204 + H 2 0 et Br204 = 2Br02. La cinetique 
+
+de la reaction inverse, l'hydrolyse du B r 0 2 , a Ct C etudiee par 
+Buxton et Dainton (24). Si on admet qu'au cours de leurs 
+
+experiences de radiolyse la reaction B r 0 2 + OH -+ Br03-+ 
+
+H+ (25) Ctait nkgligeable et si les valeurs obtenues en milieu 
+neutre sont valables en milieu acide, on peut montrer qu'au 
+cours des expCriences considCrees igi, Br204 est en equilibre 
+
+avec Br02 et qu'on a r -I = 2 , l x 1 0 7 [ ~r o 2 1 2 . 
+
+Avec K1 = 
+
+lop6 on en dkduit k , = 2 1. 
+
+Nous avons mesure k:/k3 = 0,133 dans l'acide perchlori-
+
+que 1 M. Cette valeur apparente comprend, comme celle de k l 
+
+ci-dessus, l'effet de la formation de HBr03. On en dCduit k3 = 
+3,3 X lo3. L'accord avec les autres determinations de k3 (19, 
+23, 26, 27) est excellent : 1,4 X lo3 (24"C, H2SO4 0,15 M), 
+2,2 X lo3 (24"C, H2SO40,5 M), 3,8 X lo3 (24"C, H2S04 1 M) 
+
+et 3,5 x lo9 K 1 (20°C, H2SO4 1 M). Cet accord confirme 
+
+indirectement la valeur de k l ci-dessus, deux fois plus faible2 
+que celle adoptee par Field et Forsterling (19). 
+La valeur de k2 peut 6tre dCduite de notFe Ctude de la cinCtique 
+de la reaction bromate -dioxyde de chlore. Tant que [C102] 
+est assez grand pour que la rCaction [Rl] soit irrkversible, la 
+vitesse est donnC par [4]. Soit ro cette vitesse et [C102] 112 la 
+
+concentration telle que suite B la rCversibilitC de [Rl] la vitesse 
+
+soit tombCe Zi la moitik de cette valeur. 
+
+0,5ro = 2kl [Br03-1 [H+] [HBrO21 -2k-, [ B ~O ~] ~ 
+
+= k2[Br021 [C1021 I 12 
+= 4k3[HBr02] 
+
+2. Un rapporteur nous a demand6 de prtciser I'origine de cette 
+diff6rence. Les calculs de Field et Forsterling s'enchainent comme 
+suit. Ils adoptent k:/k3 = 0,60 et k3 = 3000et en dCduisent k, = 42, 
+ensuite K I = 
+donne k-, = 4,2 X lo7. Par contre nous partons 
+de kLl = 2,l X lo7 (24) et K , = 
+ce qui donne k, = 21. 
+Ensuite la valeur kf/k3 = 0,133, dCduite de notre Ctude cinCtique de 
+
+la rhction B103-+ CIOz, donne k3 = 3300. Aucune des valeurs 
+
+que nous avons adopt6es n'est bas6e sur les mesures de vitesses 
+d'tchanges isotopiques de Betts et MacKenzie (2 I), ces auteurs ayant 
+clairement prCcis6 que toute corrClation entre ces mesures et la loi 
+d'action des masses serait injustifiable. 
+
+En Climinant [HBrO,] et [Br02] on obtient 
+
+Avec k P l = 2 , l x lo7, nos mesures dans l'acide perchlorique 
+
+0,5-2M donnent k2 = (1,2 2 0,2) X lo5. 
+Nous avons mesurC antkrieurement (4) la valeur de k4. 
+Celle de k5 est deduite des mesures par Thompson (1) du 
+rapport k2/k5. I1 depend de l'acidite et vaut 0,32 dans l'acide 
+perchlorique 1 M. La constante k6 n'a d'effet que sur le temps 
+ecoule entre les pCriodes de production et de consommation 
+du C102 lors de la reaction bromate-chlorite. C'est le seul 
+paramktre ajustable du modkle. La valeur adoptCe doit 6tre 
+considCrCe comme une limite supCrieure car elle inclut l'effet 
+Cventuel de reactions de disparition du HC102 que nous avons 
+nCgligees. 
+Les Cquations differentielles associCes aux reactions [Rll-
+[R6] ont Ct C intCgrees par une mCthode de Gear en utilisant les 
+valeurs des constantes cinCtiques reprises dans le tableau 3. 
+Les figures 1 et 2 montrent que I'accord avec les resultats 
+expkrimentaux est excellent. Le tableau 4 donne les valeurs 
+
+des concentrations a quelques moments caractkristiques de 
+
+1'Cvolution du systkme. Au palier de la concentration [C102] 
+on a bien consommC tout le HC102 et on voit augmenter la 
+concentration [HBr02] vers sa valeur quasi stationnaire corres-
+
+pondant a la rtaction bromate -dioxyde de chlore. Avec les 
+
+constantes dlCquilibre donnCes dans le tableau 3 on peut verifier 
+que les rCversibilitCs des reactions [R2]-[R6] sont nkgligeables. 
+On voit par contre que lorsque la concentration [C102] diminue, 
+la rCversibilitC de la rCaction [Rl] devient importante. 
+
+Conclusions 
+Les rCactions [Rl.]-[R3] suffisent pour expliquer la cinCtique 
+de la reaction bromate -dioxyde de chlore. Ce ne sont pas des 
+
+rkactions ClCmentaires mais, mis i part l'effet de llaciditC, 
+
+les ordres correspondent aux coefficients stoechiometriques. 
+Lorsque la concentration en dioxyde de chlore est assez grande 
+pour que la reaction [Rl] soit irrkversible on obtient la loi 
+cinCtique [4]. Sinon il n'existe pas de loi cinetique simple. En y 
+ajoutant les reactions [R4]-[R6] on peut reproduire les courbes 
+de production et de consommation du C102 lors de la reaction 
+bromate-chlorite. Les constantes cinktiques utilisCes provenant 
+de diverses sCries de mesures independantes, l'accord entre les 
+courbes expkrimentales et calculees place ce travail dans le 
+cadre d'un ensemble cohCrent ayant permis ces dernikres annCes 
+de mieux comprendre le mCcanisme des rCactions des derives 
+oxygenes des halogknes. 
+
+1. R. C. THOMPSON. Inorg. Chem. 12, 1905 (1973). 
+2. W. C. BRAY. Z. Phys. Chem. 54, 569 (1906). 
+3. R. H. BETTS et N. MACKENZIE. Can. J. Chem. 29,666 (1951). 
+4. G. SCHMITZ et H. ROOZE. Can. J. Chem. 64, 1747 (1986). 
+5. G. SCHMITZ. J. Chim. Phys. 76, 209 (1979). 
+6. M. A. CLYNE et R. T. WATSON. J. Chem. Soc. Faraday I, 73, 
+1169 (1977). 
+7. G. HOLST. Svensk. Papperstidn. 48, 23 (1945). 
+8. I. E. FLIS. Zh. Fiz. Khim. 32, 573 (1958). 
+9. N. V. TROITSKAYA, K. P. MISCHENKO et I. E. FLIS. RUSS. J. Phys. 
+Chem. 33, 77 (1959). 
+10. T. NAITO. Kogyo Kagaku Zasshi, 65, 749 (1962); Chem. Abstr. 
+57, 16326e (1962). 
+11. V . M. ZOLOTUKHIN, I. E. FLIS et K. P. MISCHENKO. Zh. Prikl. 
+Khim. 38, 369 (1965); Chem. Abstr. 62, 12494a (1965). 
+12. 0 . SCHWARZER et R. LANDSBERG. J. Electroanal. Chem. 14,339 
+(1967). 
+Can. J. Chem. Downloaded from www.nrcresearchpress.com by 87.160.185.190 on 03/27/14 
+
+For personal use only. 
+
+
+SCHMITZ ET ROOZE 
+
+235 
+
+13. F. PERGOLA, R. GUIDELLI et G. RASPI. J. Am. Chem. Soc. 92, 
+21. R. H. BETTS et N. MACKENZIE. Can. J. Chem. 29, 655 (195 1). 
+2645 (1970). 
+22. J. C. SULLIVAN et R. C. THOMPSON. Inorg. Chem. 18, 2375 
+14. G. SCHMITZ et H. R o o z ~. Can. J. Chem. 63,975 (1985). 
+(1979). 
+15. C. C. HONG et W. H. RAPSON. Can. J. Chem. 46, 2053 (1968). 
+23. H. D. FORSTERLING, H. J. LAMBERZ et H. SCHREIBER. Z. 
+16. G. K. JOHNSON, P. N. SMITH, E. H. APPELMAN et W. N. 
+Naturforsch A: Phys. Phys. Chem. Kosmophys. 40A, 368 
+HUBBARD. Inorg. Chem. 9, 1 19 (1970). 
+(1985). 
+17. W. M. LATIMER. Oxidation potentials. 2' itd. Prentice-Hall, 
+24. G. V. BUXTON et F. S. DAINTON. Proc. R. Soc. A, 304, 427 
+New York. 1952. 
+(1968). 
+18. A. J. BARD, R. PARSONS et J . JORDAN (~cliteurs). Standard 
+25. R. J. FIELD, N. V. RAGHAvANetJ. G. BRUMMER. J. Phys Chem. 
+potentials in aqueous solutions. IUPAC monographs, M. Dekker, 
+86, 2443 (1982). 
+New York. 1985. 
+26. Z. NOSZTICZIUS, E. NOSZTICZIUS et Z. A. SCHELLY. J. Phys. 
+19. R. J. FIELD et H. D. F~~RSTERLING. J. Phys. Chem. 90, 5400 
+Chem. 87, 510 (1983). 
+(1986). 
+27. F. ARIESE et Z. NAGY-UNGVARAI. J. Phys. Chem. 90, 1 (1986). 
+20. R. J. FIELD, E. KOROS et R. M. NOYES. J. Am. Chem. Soc. 94, 
+28. G. SCHMITZ et H. R o o z ~. Can. J. Chem. 65, 497 (1987). 
+8649 (1972). 
+
+Can. J. Chem. Downloaded from www.nrcresearchpress.com by 87.160.185.190 on 03/27/14 
+
+For personal use only. 
+
+
+
+	
+

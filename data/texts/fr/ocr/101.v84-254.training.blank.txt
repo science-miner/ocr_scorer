@@ -1,0 +1,702 @@
+
+	
+
+		
+
+	
+
+	
+
+Photoreactivite des complexes nitriles -cuivre (I) et (11). 11. Systeme cyanure 
+
+d'allyle -cuivre (I) et (11) 
+
+MICHELE BOLTE ET JACQUES LEMAIRE 
+Laboratoire cle Photochimie, E.R.A. N 929, U~tiversite' de Cler~nont 11, B.P. 45, 63170 Auhizre, France 
+Requ le 6 dCcembre, 1982' 
+
+MICHELE BOLTE et JACQUES LEMAIRE. Can. J. Chem. 62, 1492 (1984). 
+La complexation du cuivre(1) avec le cyanure d'allyle se fait par transfert de charge entre le mital et le groupement nitrile. 
+Elle induit la transformation du cyanure d'allyle en crotonitrile (isomere a,P insaturk). Le cuivre(I1) se fixe Cgalement sur 
+I'azote du nitrile par un transfert de charge -C-N 
++ Cur'. La photor6activitC des complexes avec le cuivre(l1) montre que 
+le ligand complex6 se comporte comme un nitrile a,p insaturk. 
+
+MICHELE BOLTE and JACQUES LEMAIRE. Can. J. Chem. 62, 1492 (1984). 
+
+Through complexation with copper I, the allyl cyanide ligand has been shown to be converted in the dark into cis + trans 
+
+crotonitrile. The photoreactivity of ally1 cyanide -copper 11 complexes provides evidence that the ligand behaves like an a,P 
+unsaturated nitrile. In both cases, the copper atom is bonded with the nitrogen atom of the allyl cyanide by charge transfer from 
+the ligand to the metal (LMCT). 
+
+La photoreactivitC des complexes de cuivre(1) et (11) a connu 
+un dCveloppement important durant ces dernikres annCes. 
+Notamment, l'aptitude du cuivre I 2 se fixer sur les doubles 
+liaisons Cthylkniques a permis la synthkse photochimique de 
+nombreux dCrivCs cyclobutaniques (1, 2). L'emploi de CuCl 
+comme catalyseur a Ct C dCcrit pour la dimkrisation de mole-
+
+cules a cycle tendu telles que le norbornkne ou le bicyclopenta-
+
+dikne (1). L'utilisation du triflate de cuivre CF3S03Cu a permis 
+l'obtention de dCrivCs cyclobutaniques a partir de composCs 2 
+double liaison extracyclique (3): 
+
+complexe Cu" -macrocycle tCtraazote qui peut fixer photo-
+chimiquement un cinquieme ligand sur le cuivre (CO, CH3CN 
+ou la 1-mCthyl imidazole) (7). 
+Dans un precedent mtmoire, nous avons decrit la photoreac-
+tivitC des complexes du cuivre(1) et (11) avec diffirents nitriles 
+saturks ou a,P insaturks (8). La position en a,P de la double 
+liaison dans les complexes cuivre-nitrile insatures semble &amp;tre 
+un facteur determinant de la photorCactivitC de ces complexes. 
+Ainsi, nous avons pu Ctablir que la dtlocalisation existant dans 
+le ligand facilite le transfert de charge -C-N 
+-+ Cu du 
+ligand vers le cuivre: 
+
+hv 
+
+6 + c c ~3 ~~3 c u (ref. 3) 
+
+Par ailleurs, la photo-isomCrisation du norbornadikne en 
+quadricyclane, catalyske par un sel de cuivre I est un systkme 
+envisagC pour la rCcuperation de I'Cnergie solaire (4). 
+En ce qui concerne le cuivre(II), de nombreux systkmes 
+contenant des protkines complexes ou des macrocycles poly-
+
+azotCs ont Cte CtudiCs (5, 6). GagnC et al. ont dtcrit un 
+
+/I\ 
+
+h v (P~,PCIICI, bipy) 
+
+(rpf A l 
+
+'Revision reque le 14 fevrier, 1984. 
+
+Dans le cas du cuivre(I), cette dClocalisation favorise la 
+formation des complexes dans lequels le metal est lit5 la 
+double liaison ou au groupement nitrile; l'association avec la 
+double liaison reste cependant minoritaire. 
+
+\ CH2=C-C=N 
+
+4 Cu' 
+
+I 
+
+Les photorCactivitCs associCes a ces deux types de complexa-
+
+tion sont diffirentes. La complexation du cuivre sur la double 
+liaison induit ~Clectivement la photodimerisation cyclobutani-
+que du ligand. La complexation avec le groupement nitrile 
+
+augmente le rendement quantique d'isomCrisation t r a n w c i s : 
+
+ainsi le crotonitrile CH3-CH=CH-CEN 
+pour lequel les 
+
+valeurs des rendements quantiques d7isomCrisation +kc et + : 
+
+, 
+
+sont multipliCes par un facteur trois lors de l'irradiation en 
+
+presence de CuCl (9). I1 en est de mCme pour le cinnamonitrile 
+
+C,H,-CH=CH-C-N 
+
+dont le rendement +kc augmente 
+
+de 0,28 (sans CuCl) a 0,42 (avec CuC1) (10). De plus, dans les 
+
+deux cas, 1'isomCrisation de nitrile est assistCe par le complexe 
+Can. J. Chem. Downloaded from www.nrcresearchpress.com by 87.160.185.190 on 03/27/14 
+
+For personal use only. 
+
+
+BOLTE ET LEMAIRE 
+
+TABLEAU 1. Spectre Raman 
+
+CuCl dans le 
+Rtgion 
+Cyanure d'allyle 
+cyanure d'allyle 
+
+~ 
+
+-
+-
+
+1350-1700 cm-' 
+1410 m 
+1410 m 
+1420 mf 
+1420 mf 
+1620 f 
+1620 f 
+1624 f 
+1624 f 
+1629 f 
+1629 f 
+1647 TF 
+1647 TF 
+2000-2500 cm-' 
+2222 f 
+2222 f 
+2227 f 
+2227 f 
+225 1 F (large) 
+225 1 F (large) 
+v(C=nitrile) 
+2264 ep. 
+2264 ep. 
+2279 mf v(C-N 
+complexC) 
+
+R-CH=CH-CrN-Cu' 
+(effet catalytique du cuivre(1)). 
+L'etude des systkmes nitriles-cuivre(I1) a montrC que la 
+prksence d'une double liaison conjuguke avec le groupement 
+nitrile augmente aussi le rendement quantique de rCduction du 
+cuivre(I1) (8). 
+I1 apparaissait donc que la position de la double liaison en 
+
+a,p du groupement nitrile Ctait un facteur determinant de la 
+
+photorCactivitC des complexes nitriles-cuivre. Afin de verifier 
+cette conclusion, nous avons entrepris 1'Ctude de systkme cui-
+vre -nitrile P,y insaturt, soit: 
+
+Resultats experimentaux 
+Dans les systkmes CtudiCs, le nitrile sert de ligand avec le 
+cuivre et de solvant pour le complexe forme. Les spectres 
+d'absorption que nous dkcrivons correspondent aux transitions 
+supplCmentaires inherentes a la formation d'un complexe entre 
+le metal et le ligand. 
+
+(a) Systsme CH2=CH-CH2-CGN, 
+CuCl 
+CuCl est trks soluble dans le cyanure d'allyle, on peut obte-
+
+nir des solutions de concentration en CuCl Cgale 2 0,5 M. 
+
+Lorsqu'on dissout du chlorure cuivreux dans le nitrile, on note 
+une augmentation importante de densite optique entre 250 et 
+320 nm sans qu'il soit possible de determiner un maximum 
+d'absorption. 
+Le spectre Rarnan de ces solutions permet de mettre en 
+evidence un transition supplementaire a 2279 cm-' (Ta-
+bleau 1). On ne note, par ailleurs, aucune autre modification du 
+spectre. 
+
+Nous observons a l'obscurite, la transposition lente du 
+
+cyanure d'allyle en son isomkre a , p insaturk, le crotonitrile: 
+
+CH2=CH-CH2-C=N 
+
+-
+
+A , CH,-CH=CH-C=N 
+
+CuCl 
+0 = 20°C 
+
+(cis + trans) 
+
+50% 50% 
+
+Cette riaction d'ordre apparent 1 se fait avec une constante 
+de vitesse k = 5,7 x 
+mn-' calculCe sur l'apparition des 
+crotonitriles. La transposition en crotonitrile est catalysCe par 
+CuCl; l'emploi d'une solution, par exemple de concentration 
+Cgale a 0,l M en CuCl permet de transformer 20% du cyanure 
+
+d'allyle pris 2 l'ttat pur, soit 2,4 rnol. 
+
+FIG. I. Spectres d'absorption de CuCI2 dans le cyanure d'allyle. 
+
+TABLEAU 2. Spectres d'absorption de CuClz dans le cyanure d'allyle 
+
+A 
+B 
+C&gt; lo-' M 
+
+C &lt; ~X 
+
+M 
+
+A, , , (nm) 
+
+E,,,,, (M-' cm-I) 
+
+A,,,,,, (nm) 
+
+Emax (M-' cm-'1 
+
+Nous n'avons pas observi d'accC1Cration du phenomkne par 
+excitation photochimique a 254 nm. 
+
+(b) Syst2mes CH2=CH-CH2-C=N-CuC12 
+CuCI, est relativement peu soluble dans le cyanure d'allyle. 
+La concentration en sel de cuivre est gineralement comprise 
+entre 5 x lo-' M et 2 x 
+M. Dans ces conditions, on 
+obtient des spectres d'absorption cornportant deux transitions 
+en uv et une dans le visible (Fig. 1). Selon la concentration en 
+
+CuCl,, on observe deux spectres differents correspondant a des 
+
+complexes que nous designerons par "A" et "B"; le cornplexe 
+
+"A" apparait a des concentrations en CuClz supCrieures 2 . lo-' 
+
+M; le complexe "B" est observe quand la concentration en 
+CuCl, devient infkrieure a 5 x 
+M. La dilution d'une 
+solution contenant le cornplexe "A" entraine l'apparition rapide 
+du complexe "B". Les solutions concentrkes Cvoluent dans le 
+temps: on observe une modification spectrale lente conduisant 
+au spectre obtenu en solution diluCe. Cependant, on peut 
+conserver le cornplexe "A" quelques jours sans modification 
+notable de son spectre d'absorption. Le tableau 2 regroupe les 
+caractCristiques spectrales des spectres d'absorption observCs 
+dans les diffkrents domaines de concentration de CuC1,. 
+
+L'addition de LiCl (Cl/Cu -3) a la solution concentrCe de 
+
+CuC12 dans le cyanure d'allyle entraine une modification du 
+spectre d'absorption et notamment une trks forte augmentation 
+de la transition a 468 nm (E,,, = 1200 M-' cm-I). Une addition 
+
+supplCrnentaire de LiCl (Cl/Cu -8) ne modifie que trks 1Cge-
+
+rernent le spectre, on voit apparaitre un Cpaulement a environ 
+405 nm (Fig. 2). 
+Nous avons irradie le cornplexe "A" en lurnikre monochro-
+rnatique de longueur d'onde 254, 313 et 491,6 nm correspon-
+dant a chacune des transitions du complexe. Quelle que soit la 
+longueur d'onde utilisCe, on observe le m&amp;rne phenomkne en 
+deux Ctapes: la transformation de "A" en "B" durant laquelle le 
+faisceau des courbes correspondantes prCsente deux points iso-
+bestiques a 263 et 440 nm (Fig. 3); puis la disparition de la 
+Can. J. Chem. Downloaded from www.nrcresearchpress.com by 87.160.185.190 on 03/27/14 
+
+For personal use only. 
+
+
+1494 
+
+CAN. 1. CHEM. VOL. 62, 1984 
+
+TABLEAU 3. Rendements quantiques de transformation A+B et de disparition 
+
+-
+
+hi, = 296* ou 
+hi, = 253,7 nm 
+313** nm 
+hi, = 49 1,6 nm 
+
+CuC12 dans 
+
+&amp;-B 
+
+62, 
+
+4:-B 
+
+4:isp 
+4 1 -1 3 
++,"is, 
+
+CHZ=CH-CHZ-CEN 
+0,57 
+0,17 
+0,96** 
+0,27** 
+0,68 
+0,26 
+CH3C=No 
+0,20 
+0,02 
+0,20* 
+0,02 
+0,08 
+0,08 
+CH2=CH-C=N0 
+0,38 
+0,15 
+0,77* 
+0,18* 
+0,35 
+0,17 
+CH2=C-CEN" 
+
+I 
+
+0,19 
+0,lO 
+0,47* 
+0,17* 
+1 ,o 
+0,34 
+CH3 
+CH3-CH=CH-CzN 
+(cis)" 
+0,25** 
+0,50 
+
+"Notre pricedent travail (8). 
+
+FIG. 2. Spectre d'absorption de CuC1, dans le cyanure d'allyle en 
+presence d'un excks d'ions C1-: (a) Cl/Cu = 4; (b) Cl/Cu = 10. 
+
+FIG. 3. Evolution photochimique d'une solution de complexe cya-
+nure d'allyle -CuC1, (A). 
+
+transition dans le visible. En suivant cette reaction, on note la 
+prtsence d'un point isobestique ti 246 nm (A,, = 3 13 ou 49 1,6 
+nm) (Fig. 4). Les transitions ti 250 et 315 nm disparaissent 
+egalement. 
+Les rendements quantiques de transformation A + B et de 
+disparition de B sont rassemblCs dans le tableau 3. Ces derniers 
+ont CtC calculCs 2 partir du complexe "B" pur (solution diluke). 
+Dans tous les cas, les rendements quantiques ont Ct C mesurCs 
+
+FIG. 4. PhotorCduction du complexe cyanure d'allyle -CuC1, (B) 
+
+h hi, = 313 ou 491,6 nm. 
+
+FIG. 5. Spectres rpe de solutions du CuC1, dans le cyanure d'allyle: 
+Evolution du signal en fonction du temps d'irradiation: (1) tranforma-
+tion A + B; (2) disparition de B. 
+
+par spectroscopie uv sur la modification spectrale de la transi-
+tion dans le visible. 
+En rpe, le complexe "A" est caractCrisC par un signal symC-
+
+trique a g = 2,136 (Fig. 5); l'addition de LiCl n'entraine pas 
+
+l'apparition d'un nouveau signal. Lorsque la solution (com-
+plexe "A") evolue thermiquement ou photochimiquement, on 
+observe la disparition progressive du signal. Le complexe "B" 
+qui correspond a une absorption maximum dans le visible ne 
+
+Can. J. Chem. Downloaded from www.nrcresearchpress.com by 87.160.185.190 on 03/27/14 
+
+For personal use only. 
+
+
+BOLTE ET LEMAIRE 
+
+1495 
+
+frCquence du mode v(C=N) correspond a une complexation 
+du cuivre(1) avec le ligand, de type -C=N 
+-+ Cu(1). 
+La complexation avec la double liaison observCe avec les 
+
+nitriles a,p insaturts est done directement like a la conjugaison 
+
+prtsente dans la moltcule et a l'appauvrissement en Clectrons 
+qui en rtsulte: 
+
+Cu' 
+
+La transposition du cyanure d'allyle en crotonitrile B l'obs-
+curitt, est analogue a celle dCcrite par Mialhe et Vessikre (12) 
+pour les composts allyliques en prtsence d'une base: 
+
+FIG. 6. (A) avec CH,CN (a), 
+
+H 
+
+CH2=CH-CN 
+
+(f-C) et CH2=CH-CH2-CN 
+
+( 
+-
+
+1. 
+
+\ 
+
+I 
+
+B-
+
+I I 
+
+c=cH-c-c=N 
+'c=c=c-c=N 
+
+/ 
+
+B 
+
+HB 
+/ -
+prCsente aucun signal en rpe. Par irradiation de ce complexe, 
+il apparait de nouveau un signal quatre raies qui disparait en 
+fin de photoreaction. Cette Ctude a kt6 Cgalement rtalisCe avec 
+le systkme CuC1,-CH3CN pour lequel nous obtenons des rC-
+
+I 
+
+-C-CH=CH-CEN 
+sultats tout a fait analogues. 
+
+I 
+
+B-
+
+Discussion 
+
+A. Systkme cyanure d'allyle -cuivre(1) 
+
+Dans notre cas, en l'absence de base, l'hydrogkne plact en 
+L'ttude en spectroscopie Raman montre que le cuivre(1) se 
+a du groupement nitrile est rendu plus labile par la complexa-
+fixe uniquement sur le groupement nitrile. En effet, dans un 
+tion avec le cuivre, ce qui favorise la migration de la double 
+prectdent mCmoire (1 1), il a Ct C ttabli que l'augmentation de 
+liaison: 
+
+La stCrtochimie du carbanion form6 ne favorise aucun iso-
+mkre en particulier, les crotonitriles cis et trans se forment en 
+quantitts equivalentes. I1 n'apparait aucune modification nota-
+ble de ce processus par excitation photochimique. 
+L'ttude photochimique des systkmes crotonitrile (cis ou 
+trans) -Cu' (9) a montrC que le phenomkne majoritaire est la 
+dtsactivation par isomkrisation trans C cis du ligand. L'ttat 
+photostationnaire obtenu contient les deux isomkres en Cgales 
+proportions. Par ailleurs, la photodimtrisation cyclobutanique 
+observee avec le complexe crotonitrile cis -Cut est un phkno-
+mkne extrgmement minoritaire qu'il est done impossible de 
+
+mettre en evidence a partir du cyanure d'allyle. 
+
+B. Systkmes cyanure d'allyle -cuivre(l1) 
+Comme le montre la figure 6, les spectres d'absorption des 
+complexes "A" et "B" sont analogues B ceux obtenus avec un 
+ligand saturC (acttonitrile); la fixation du mCtal se fait exclu-
+sivement sur l'azote du groupement nitrile (8) (caractkre de 
+donneur a de ce groupement). 
+L'absorption a 470 nm dans le visible est caracttristique d'un 
+complexe tCtracoordont du cuivre(I1) (13). Sykora et al. indi-
+
+quent effectivement que la mise en. solution de CuCl, (ccuCll -
+
+M) dans l'adtonitrile correspond B l'apparition de difft-
+rents complexes CuCl (CH3CN)3f (17%), CuC13 (CH3CN)-
+(26%) et CuC12 (CH3CN), (52%) Cu2+ (4%). 11s indiquent 
+Cgalement la prtsence d'un signal rpe qui disparait par irra-
+diation. L'addition d'ions C1-B cette solution entraine la 
+formation de CuC1; (96% pour un rapport CuZf/C1-= 113) 
+puis celle de CUCI;-(A, , , = 404 nm) obtenu presque pur pour 
+un rapport CuZf /C1-= 118. 
+La mise en solution de CuC1, dans le cyanure d'allyle provo-
+que en proportions vraisemblablement diffkrentes, la formation 
+
+des complexes mentionnCes ci-dessus. L'addition,d'ions C1-ii 
+
+cette solution favorise la formation de CuCl,; par contre, une 
+addition supplCmentaire d'ions C1-ne permet l'obtention de 
+
+CUC~;-qu'en trks faible quantitt (Cpaulement ii 404 nm). 
+
+Le signal symktrique observt en rpe a g = 2,136 pour une 
+
+solution concentrte du CuC1, dans le cyanure d'allyle avec et 
+sans LiCl est attribut au complexe CuC1,RCN-. La disparition 
+de ce signal provisoire thermiquement ou photochimiquement 
+
+correspond B la transformation A -B mise en tvidence par 
+
+spectroscopie d'absorption. L'absence de signal rpe pour le 
+complexe "B" alors que I'absorption dans le visible est maxi-
+mum indique la prtsence de cuivre(I1) fortement solvat6 par les 
+Can. J. Chem. Downloaded from www.nrcresearchpress.com by 87.160.185.190 on 03/27/14 
+
+For personal use only. 
+
+
+1496 
+
+CAN. J. CHEM. VOL. 62, 1984 
+
+molCcules de nitriles. Par ailleurs, la reapparition d'un signal 
+rpe different du precedent, observee en poursuivant l'irra-
+diation, montre que le complexe "B" est effectivement un 
+complexe de cuivre(I1). L'hypothkse d'une structure dimere 
+pourrait expliquer la disparition du signal rpe soit par liaison 
+directe metal -metal, soit par super-echange par l'intermk-
+diaire du ligand. Cependant cette hypothkse est en contra-
+diction avec l'obtention du complexe "B" par dilution et son 
+existence dans un domaine de concentration infkrieure B 5 X 
+10-%. Le cuivre(I1) se trouve donc fortement solvate par les 
+molecules de nitriles et il y a couplage entre les electrons du 
+cuivre(I1) paramagnetique et les Clectrons du ligand. Ce m&amp;me 
+phenomkne a Ct C observe avec les complexes chrome(II1) -
+acides aminks pour lesquels I'addition en quantites croissantes 
+d'acide amine B une solution aqueuse de chrome(lI1) entraine 
+la disparition progressive du signal rpe (14). 
+L'ensemble de ces resultats nous conduit a decrire le com-
+plexe "B" present en solution dilute cornme une entit6 neutre 
+t~tracoordonnte autour du cuivre: 
+
+Le complexe "A" est, comme nous I'avons deja indiquC, un 
+melange instable de diffkrentes espkces dont CuCIt, CuCI, et 
+CuCI,. Par dilution, activation thermique ou photochimique, 
+on observe la transformation de ces differents complexes en 
+une seule entite, le complexe neutre solvat6 "B". 
+Par excitation dans chacune des trois bandes de transfert 
+de charge du complexe "B", on observe la destruction du 
+complexe (rtapparition du signal du cuivre(I1) en rpe) et photo-
+reduction du cuivre(I1) en cuivre(1). 
+En ce qui concerne la cinttique de photoreduction, les va-
+leurs des rendements quantiques (Tableau 3) sont Clevees, de 
+l'ordre de celles obtenues avec les nitriles a,P insatures; elles 
+sont bien supkrieures a celles obsewees avec l'acetonitrile. 
+Elles ne varient que relativement peu avec la longueur d'onde 
+d'excitation. 
+Cette similitude de comportement avec les nitriles a,P insa-
+turCs, indique que le cyanure d'allyle complexe avec le cuivre 
+
+posskde a 1'Ctat excite une conjugaison importante qui favorise 
+
+le transfert de charge du ligand vers le cuivre(I1) et donc la 
+reduction du CU" en Cu'. Cependant, en 1'Ctat actuel de nos 
+connaissances, il n'est pas possible de preciser si le cyanure 
+d'allyle complex6 se comporte deja a 1'Ctat fondamental 
+comme un ligand a,P insature. Nous n'avons pas observe, 2 
+I'obscurite, de transposition en crotonitrile induite par le 
+cuivre(I1). I1 convient toutefois de noter que les concentrations 
+de cuivre(I1) mises en jeu sont nettement inferieures B celles 
+observkes pour le cuivre(1) et que la mise en evidence d'une 
+telle transposition peut s'avCrer plus difficile. 11 s'est aver6 
+Cgalement impossible d'identifier les photoproduits d'oxyda-
+tion du cyanure d'allyle. 
+
+Conclusion 
+Les rksultats obtenus pour le systkrne cyanure d'allyle -Cu' 
+montrent que, lorsque la double liaison n'est pas conjuguee 
+avec le groupement nitrile, on n'observe pas de complexation 
+du cuivre(1) sur la double liaison. La seule complexation mise 
+en evidence est une liaison par transfert de charge entre le 
+groupement nitrile et le cuivre, quelle que soit la valence du 
+cuivre, (1) ou (11). 
+
+Avec le cuivre(I), cette complexation favorise la migration 
+de la double liaison et entraine la transposition du cyanure 
+d'allyle en son isomkre a,P insature, le crotonitrile (cis et 
+trans). La liaison -C-N 
++ Cu" observee avec le cuivre 
+divalent induit une photoreactivitii analogue a celle d'un com-
+plexe CuClz -nitrile a,P insature. 
+
+Partie experimentale 
+
+Le cyanure d'allyle (Merck) est distill6 afin d'tliminer les impuretCs 
+qu'il contient. Ainsi distillC, il ne peut &amp;tre conservC que quelques 
+semaines a l'obscuritt. Le liquide se teinte ensuite progressivement en 
+jaune et I'impuretC qu'il contient emp&amp;che toute complexation avec le 
+cuivre. 
+Les spectres d'absorption uv-visible ont Ct C enregistrks sur un 
+appareil Cary 1 18CX. les crotonitriles cis et h'nns ont ttC analysCs par 
+chromatographie en phase gazeuse sur un appareil Carlo Erba Frac-
+tovap 2101 Cquipt d'une colonne Carbowax 20M. Les mClanges 
+rtactionnels sont mis en solution dans I'acCtonitrileet analysts sur une 
+colonne dont la temperature est fixte 100°C. 
+Les spectres Raman ont Ct C faits sur un spectromktre Jobin Yvon, 
+
+modkle Ramanor HG 28 Cquipt de deux rCseaux holographiques 
+
+concaves. La raie d'excitation 5 14.5 nm est celle d'un laser a argon 
+
+ionist Spectraphysics Modele 164. 
+Les spectres de rpe ont t t C faits sur un appareil ER 200D Brucker. 
+Les solutions dtgazCes a I'argon, sont placCes dans des cellules plates 
+(Cpaisseur 0,l mm). Les conditions de travail sont les suivantes: 
+
+frCquence 9,52 MHz, modulation de champ 400 kHz, modulation 
+d'amplitude 4 G, puissance 56 mW. 
+
+La manipulation de sels et complexes de cuivre(1) est faite unique-
+
+ment en boite a gants sous atmosphere d'azote sec. Les solutions de 
+
+CuCI2 sont prCparCes a I'air mais elles sont dCgazCes puis irradiCes 
+sous vide. Les dCgazages sont faits par des cycles de congClation-
+dCcongClation dans I'azote liquide (trois cycles). 
+Les irradiations h 254 nm des solutions de CuCl dans le nitrile ont 
+Ct C faites dans un rCacteur en quartz cylindrique entour6 de six tubes 
+vapeur de mercure basse pression (I,, = 3 X 10'' photons/cm3 s). 
+Les actinomktries sont faites avec I'oxalate d'uranyle. Les irradiations 
+h 3 13 nm et 491,6 nm sont faites en faisceau parallkle avec une lampe 
+vapeur de mercure moyenne pression CquipCe d'un monochromateur 
+Bausch et Lomb "haute intensitt". Les solutions de CuC12 sont irra-
+dikes dans des cellules cylindriques de 1 cm de rayon et de 1 cm ou 
+1 mm de longueur. Les actinomktries sont faites avec le ferrioxalate 
+de potassium (0,006 M ou 0,15 M). 
+
+1. D. J. TRECKER, R. S. FOOTE, J. P. HENRY et J. E. MCKEON. J. 
+
+Am. Chem. Soc. 88, 3021 (1966). 
+
+2. R. G. SALOMON et J. K. KOCHI. J. Am. Chem. Soc. 96, 1137 
+
+(1974). 
+
+3. R. G. SALOMON et A. SINHA. Tetrahedron Lett. 16, 1367 (1978). 
+4. K. MARUYAMA, K. TARDA, Y. NARUTA et Y. YAMAMOTO 
+
+Chem. Lett. 1259 (1980). 
+
+5. U. SAKAGUCHI et A. W. ADDISON. J. Chem. Soc. Dalton Trans. 
+
+600 ( 1979). 
+
+6. P. G. GRAHAM et D. C. WEATHERBURN. Aust. J. Chem. 34, 291 
+
+(1981). 
+
+7. R. R. GAGNE, J. L. ALLISON, R. J. GALL et C. A. KOYAL. J. Am. 
+
+Chem. Soc. 99, 7170 (1977). 
+
+8: M. BOLTE et J. LEMAIRE. Nouveau J. Chim. 4, 461 (1980). 
+9. M. BOLTE et M. MASSAUX. Inorg. Chim. Acta, 52, 191 (1981). 
+10. M. BOJTE, M. MASSAUX et J. ZAREMBOVITCH. lnorg. Chim. 
+
+Acta. A paraitre. 
+
+1 1. J. ZAREMBOVITCH et M. MASSAUX. Inorg. Chim. Acta, 52, 183 
+
+(1981). 
+
+12. Y. MIALHE et R. VESSIERE. Bull. Soc. Chim. Fr. 4181 (1968). 
+13. J. SYKORA, E. HORVATH et J. GAZO. Z. Anorg. Allg. Chem. 442, 
+
+245 (1978). 
+
+14. B. ROBERT. These de Docteur-Ingtnieur n" 2, 10 ftvrier 1984, 
+
+UniversitC de Clermont-Ferrand 11, France. 
+
+Can. J. Chem. Downloaded from www.nrcresearchpress.com by 87.160.185.190 on 03/27/14 
+
+For personal use only. 
+
+
+
+	
+

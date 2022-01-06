@@ -1,0 +1,523 @@
+
+	
+
+		
+
+	
+
+	
+
+Destruction des oxydes d'azote a pression atmospherique 
+
+ODILE DESSAUX, PIERRE GOUDMAND, GERARD MOREAU ET BRIGITTE MUTEL 
+
+Laborntoire de Spectroscopic de la rtnctivitt chimique. Universitt des Sciences et Techniques de Lille, 
+59655 Villeneuve d'Ascq cede.^, France 
+
+Requ le 27 juillet 1983 
+
+ODILE DESSAUX, PIERRE GOUDMAND, GERARD MOREAU et B R I G I ~E MUTEL. Can. J. Chem. 62, 667 (1984). 
+Ce travail illustre I'intCrEt de l'utilisation d'une dCcharge microonde pour I'amClioration du coQt CnergCtique de destruction 
+des oxydes d'azote par I'azote active a pression atmosphCrique. Les facteurs dkterminants dans l'optimisation de ce coQt sont 
+prCcisCs: il importe d'effectuer l'introduction de NO, dans une zone visuellement bien limitte ou la concentration en atomes 
+d'azote est optimale, le coQt CnergCtique de destruction de NO., est alors trks proche du coQt thCorique. 
+
+ODILE DESSAUX, PIERRE GOUDMAND, GERARD MOREAU, and B R I G I ~E MUTEL. Can. J. Chem. 62, 667 (1984). 
+Active nitrogen produced at atmospheric pressure by a microwave discharge is found to require less energy consumption 
+for the decomposition of nitrogen oxides. Important parameters improving the energy cost are described: NO, must be 
+introduced in a visually well-limited zone where the nitrogen atom concentration is maximum, the energy cost is then nearly 
+equal to the theoretical cost. 
+
+Introduction 
+Les industries de I'acide nitrique rejettent dans l'atmosphkre 
+de grandes quantitCs d'oxydes d'azote (NO2, NO, NzO). Ces 
+rejets, souvent trks localisCs, ont des teneurs comprises entre 
+500 et 2000 ppm. Etant donnCe la tres grande toxicite de NO? 
+et NO, le risque de pollution est trks elevC a proximite de ces 
+usines. Plusieurs mCthodes sont utiliskes permettant de rCduire 
+les teneurs en oxydes d'azote contenus dans les effluents ga-
+zeux avant leur rejet dans l'atmosphkre (1-3). 
+Un procCdC de destruction des oxydes d'azote bas6 sur la 
+generation d'azote active a pression atmosphCrique a Ct C mis au 
+point au laboratoire (4). 11 existe essentiellernent deux agents 
+reactifs dans l'azote activC: les atomes d'azote N(4S) et les 
+molCcules d'azote a 1'Ctat Clectronique fondamental vi-
+brationnellement excitC. Cette derniere espkce est impliquCe 
+dans la synthese des oxydes d'azote selon une reaction de 
+nature essentiellement hCtCrogkne (5). Sa concentration decroit 
+rapidement lorsque la pression augrnente. Les atomes d'azote 
+constituent par contre un agent destructif efficace de NO., sui-
+vant la reaction: 
+
+[ I ] N + NO., + N2 + S O2 avec x = I ou 2 
+
+Cette rCaction est tres rapide, la rCaction inverse Ctant environ 
+loZ0 fois plus lente. Une dCcharge haute tension a pression 
+atmosphCrique (6) perrnet de dttruire complktement les oxydes 
+
+d'azote contenus dans les mClanges (N2 + NO.,) tels que 
+
+[NO,]/[N,] &lt; 1000 ppm. Pour des teneurs supkrieures, la 
+
+destruction n'est que partielle (83% a 1600 ppm). D'autre part, 
+
+l'energie Clectrique dCpensCe pour la destruction d'une mole de 
+NO est Cvaluee ? 
+I 1,5 kW-h. Ce rendement est peu satisfaisant, 
+1'Cnergie theorique nCcessaire Ctant de 0,13 kW-h. 
+L'objet de ce travail est d'Ctudier l'incidence de l'utilisation 
+d'un gCnCrateur de microondes sur le co0t Cnergttique de des-
+
+truction des oxydes d'azote a pression atmosphCrique et de 
+
+preciser les facteurs determinants permettant d'optimiser ce 
+co0t. Les oxydes d'azote purs sont introduits dans le flux 
+d'azote activC. La mesure des quantitCs de NO non dCtruites 
+apres leur rkaction avec les atomes d'azote est effectuCe pour 
+les deux oxydes NO et NO2 suivant des procCdures expCri-
+mentales appropriees. 
+
+Procedure experimentale 
+
+Production des atomes d'ozote 
+Le flux d'azote circulant dans un tube de quartz de 15 mm de 
+
+Gvacuat ion 
+I -
+
+I I 
+
+dans l 'atrnosphire 
+
+I 
+
+0 1 . 1 4 8 i H 
+
+L a r n ~e \ 
+
+v e r r e 
+
+\ 
+
+2 ~G n o n 
+
+Monochrornateur 
+
+FIG. 1. Dispositif expkrimental d'Ctude de la destruction de NO2; 
+d: distance entre la dCcharge et le conduit d'admission de NO,; PM: 
+photomultiplicateur; Ad Imp: adaptateur d'impkdance; Enr pot: en-
+registreur potentiomttrique. 
+
+diamktre intCrieur, est excitC par une cavitk rksonnante conque et 
+
+rCalisCe au laboratoire (7) relike a un gCnCrateur d'ondes centi-
+
+mktriques Thomson CSF 121 1 C pouvant dClivrer une puissance de 
+1500 watts a la frCquence v = 2450 MHz 2 25 MHz. Un wattmktre 
+permet de contr6ler les puissances incidente (P,) et rCflCchie (P,). On 
+
+dCsigne par P, = P i -P, la puissance transmise i la cavitC. La 
+
+connaissance de P, est trks importante car elle renseigne sur l'ktat de 
+couplage de la cavitC: I'adaptation est optimale lorsque P, est mini-
+male. L'obtention d'un plasma 2 1 pression atmosphCrique necessite P i 
+2 300 watts. P, reste faible (&lt; 40 watts) tant que Pi est 5 500 watts 
+
+puis augmente en fonction de P i pour Pi &gt; 500 watts. La valeur P i = 
+
+500 watts correspond donc a la valeur minimale de P, et maximale de 
+
+P,. Le tube a dCcharge est refroidi a l'air comprimC. Les gaz sont 
+
+directement CvacuCs dans I'atmosphkre. 
+
+Dosage du NOZ dktntit 
+Aprks la reaction de NO, avec I'azote active, l'ttude du spectre 
+d'absorption de NO, permet la dktection des quantitts de NOZ non 
+dktruites. Le dispositif de mesure spectroscopique utilise est dCcrit 
+dans la Fig. 1. Une lampe a Xe alimentCe sous 15 volts par un 
+gCnCrateur de courant continu Cclaire la fente d'un monochromateur.i 
+reseau couvrant la gamme proche uv-visible-ir. La cellule de mes-
+ure, longue de 80 cm a un diamktre interne de 40 mm. Elle est peinte 
+en noir afin d'Cviter les lumikres parasites et est munie de fengtres en 
+verre. Le photomultiplicateur de type RCA IP21, dont la rCponse 
+
+spectrale est maximale dans la gamme 400-500 nm, est reliC a un 
+
+enregistreur potentiomktrique. 
+Le spectre d'absorption de NO, ayant CtC prCalablement enregistrC, 
+le monochromateur est rCglC sur la bande d'absorption la plus intense 
+situCe ? i 
+448 nm et la variation dlintensitC de cette bande est enregistree 
+
+Can. J. Chem. Downloaded from www.nrcresearchpress.com by 87.160.185.190 on 03/27/14 
+
+For personal use only. 
+
+
+CAN. I. CHEM. VOL. 62. 1984 
+
+Mesure d e Q N 
+
+1 
+2 
+
+t 
+
+" m-
+
+Micro 
+
+P o m p e -
+I I 
+
+FIG. 2. Dispositif experimental d'etude de la destruction de NO; d: distance entre la decharge et le conduit d'admission de NO. 
+
+en fonction du debit de NOz (QNo?) ajoutk B I'azote active. Le debit 
+
+TABLEAU 1. Variation de Q: , 
+
+, 
+en fonction de QN: 
+maximal de NOz pouvant &amp;tre dCcompos6 par reaction avec N("S) est 
+note ~0 , ~~. 
+QN2 (L/h) 
+350 
+710 
+800 
+1240 
+1300 
+1600 
+1640 
+
+Dosaae de NO dkrruir 
+QLo, (L/h) 
+5.2 
+11 10,7 
+6,4 
+5.3 
+2,4 
+2,l 
+
+-
+
+La methode utilisee consiste en un dosage "en retour" de la concen-
+tration du NO ([NO]) restant apres sa reaction avec l'azote active. Le 
+dispositif experimental est decrit dans la Fig. 2. [NO] est directement 
+mesuree par un analyseur NO/NO, Beckrnan modele 95 1 A, bask sur 
+le principe de la chimiluminescence de I'ozone, et dont la gamme de 
+rtponse est 0-10 000 ppm. L'Cchantillon est prtleve B une distance 
+d'environ 80 cm de la dkcharge et est envoy6 dans I'analyseur avec un 
+debit de I'ordre de 2 L/min assure par une pompe. Le taux de destruc-
+tion T , exprime en %, est defini par T = (ppmi -ppm,)/pprn, ou ppmi 
+et ppm, dksignent respectivement les teneurs du melange en NO, 
+exprimees en particules par million, avant et aprks reactions avec 
+I'azote active; ppmi = (QNO x I O ~) / ( Q N ~ 
+
++ QNo); QNO et QN, dt-
+
+signent respectivement les debits de NO et de N2, mesures avec des 
+debitmetres respectivement Rota et Brooks; ppm, est determine B 
+I'aide de l'analyseur Beckman. Les erreurs relatives AQNo/QNo et 
+Appm,/ppm, sont faibles (-1%). La mesure de QN2 effectuee a l'aide 
+d'un debitmetre B flotteur est moins precise: AQN2/QN, = 10%. 
+L'erreur relative sur T est de 12%. 
+
+Resultats et discussion 
+Le calcul du coQt CnergCtique minimal de destruction des 
+oxydes d'azote implique la dktermination prCalable des para-
+mktres expkrimentaux permettant d70ptimiser d'une 
+le 
+taux de dissociation de l'azote et d'autre part, le rendement de 
+la rCaction des atomes d'azote sur NO,, c'est-a-dire la proba-
+bilitC de collision entre ces espkces. Les techniques de dosage 
+des NO, mises en oeuvre dans ce travail ont permis, par 1'Ctude 
+du debit maximal de NO* dCtruit, de prCciser les conditions 
+d'optimisation du rendement en N(~s), kt par celle du taux de 
+destruction de NO de dCfinir les conditions favorables aux 
+collisions N-NO,. 
+L'azote est de qualit6 U, Air liquide. La distance (dCnommCe 
+d, Fig. 1) entre la dCcharge et le conduit d'admission de NO, 
+est Cgale a 30 mm. L'incidence sur le coQt tnergetique de 
+destruction de NO, de l'adaptation de la cavitt est mise en relief 
+en ttudiant l'tvolution de Q i O Z en fonction de QN2. La cavitC 
+utilisCe ne permet pas d'annuler P, pour toutes les valeurs de 
+QNz, aussi la construction d'une nouvelle cavitC permettant de 
+
+remCdier ii cette insuffisance a-t-elle Ct C entreprise posttri-
+eurement ii ce travail (8). Pour la valeur Pi = 500 watts qui, a 
+
+pression atmosphCrique, correspond a la valeur minimale de P,, 
+la valeur du debit d'azote pour laquelle P, = 0 est 700 L/h. Le 
+
+tableau 1 rCsume 1'Cvolution de QiO1 en fonction de QN, pour 
+
+P i = 500 watts. La valeur maximale de Q i o 2 est observee pour 
+le debit d'azote (700 L/h) pour lequel P, s'annule. Cette opti-
+misation de la destruction de NO2 est attribuable essen-
+tiellement 2 une parfaite adaptation de la cavitC (7). Aussi, la 
+puissance incidente adoptCe dans la suite du travail est-elle 
+
+"P, = 500 watt; (1 = 30 mm. 
+
+TABLEAU 2. Influence sur QiO2 de la puretk de l'azote et Cvo-
+
+lution de Q i O 2 aprks 48 h 
+
+Qualit6 d'azote 
+
+QLoz (L/h) eLo2 (L/h) 
+
+(Air liquide) 
+PuretC (%) 
+t = 0 
+t = 4 8 h 
+
+" Q N ~ 
+
+= 700 L/h; d = 30 mm; P, = 500 watt. 
+
+choisie de f a ~o n B correspondre a la valeur maximale de P, 
+
+permettant de minimiser P, (P, = 500 watts). 
+Une augmentation de la teneur en O2 ou en H,O dans l'azote 
+soumis a la dCcharge amCliore le rendement de destruction de 
+NO, (Tableau 2). Ces rCsultats s'interprktent aisCment dans le 
+cadre d'une augmentation du taux de dissociation de la molC-
+cule d'azote en prCsence de traces de 0, ou de HzO (9). On 
+remarque que la valeur de Q i o 2 obtenue avec l'azote U: 22,8 
+L/h diffkre de celle correspondant aux m&amp;mes conditions ex-
+pkrimentales et figurant dans le tableau 1: 11 L/h. Cette di-
+vergence tCmoigne de l'influence d'un facteur important: 1'Ctat 
+des parois. On observe une diminution de la quantitC de NO2 
+dktruite au cours du temps. Les parois sont traitees a I'acide 
+fluorhydrique diluC a 50%, puis rincCes a l'eau, au methanol et 
+ii 1'Cther et enfin stchtes. Si cette prCcaution n'est pas res-
+
+pectCe, la valeur de QiOZ est nettement moins Clevee. Dans un 
+
+m&amp;me tube, deux stries de mesures sont effectuCes, l'une aus-
+sitat a p r k ce traitement, l'autre 48 heures plus tard; les rC-
+sultats sont rCsumCs dans le tableau 2. Une degradation de 1'Ctat 
+des parois entraine donc une diminution de la probabilitC de 
+destruction de NO,. Un nouveau dispositif recemment mis au 
+point (8) permet d'Cviter une telle dtgradation. Dans la suite 
+de cette Ctude, les tubes sont "traites" avant chaque mesure. 
+L'azote utilisC est de qualit6 R. 
+L'influence du lieu d'adjonction de NO ou NO, sur l'ef-
+ficacitt de leur destruction a Ct C envisagCe. 
+Pour une puissance incidente donnCe, quels que soient QNor 
+et QN, les conditions optimales de destruction de NO., corres-
+
+pondent a (30 &lt; d &lt; 40) mm. Pour des valeurs de d supt-
+
+rieures, on observe une decroissance rapide du taux de destruc-
+tion. La figure 3 reprtsente, en fonction de d, les Cvolutions de: 
+
+(a) Qio, (QN? = 890 L/h); (b) 7(QN2 = 700 L/h, .QNO = 4 , l 
+
+L/h). La concentration en atomes d'azote est donc maximale et 
+Can. J. Chem. Downloaded from www.nrcresearchpress.com by 87.160.185.190 on 03/27/14 
+
+For personal use only. 
+
+
+DESSAUX ET AL 
+
+TABLEAU 3. Variations de Ten fonction (a) de QN, pour QNo = 25 L/h; (b) de QNo 
+pour QN, = 2 150 L/h" 
+
+QN? (L/h) 
+
+" d = 30 mm; P, = 500 wart 
+
+TABLEAU 4. Variation de T en fonction de 
+QNo et QN; 
+
+" d = 30 mm; P, = 500 watt. 
+
+\. 
+
+k. '. 
+
+(P,/QN,) peut conduire a une valeur de [N(~S)] infkrieure a 
+
+\ 
+
+-. 
+
+\ 
+. 
+. 
+
+-0 
+
+=-----*------------* 
+
+[NO] et d o n ~ a une diminution de T . Dans le cadre de cette 
+hypothkse postulant une rkpartition homogkne des moltcules 
+
+0 
++ 
+30 
+
+LO 
+
+50 
+
+G o 
+
+70 
+
+d mmm 
+
+NO on devrait Cgalement observer dans le domaine ou [N(~s:I] 
+
+FIG. 3. Etude du debit maximal de NO2 dktruit: Q : 
+
+, 
+, 
+
+(QN? = 890 
+L/h) et du taux de destruction de NO: T (QN1 = 800 L/h, QNo = 4,1 
+L/h) en fonction de la distance dtcharge -zone d'introduction de 
+NO., (d); Pi = 500 watt. 
+
+constante pour (30 &lt; d &lt; 40) mm. Cette zone de concentration 
+
+optimale en N(4S) peut d'ailleurs &amp;tre aisCment visualide; elle 
+correspond a une extension du plasma, de forme conique, en 
+dehors de la limite en aval de la cavitC. Cette zone est dC-
+nommCe dard. En conclusion les moltcules de NO, prCsentes 
+dans le dard ont une probabilitC plus Clevte de rencontrer les 
+atomes N(4S) et donc d'Ctre dCtruites. Les conditions expCri-
+mentales d'optimisation de cette probabilitC de collision sont 
+dCterminCes en envisageant l'influence de QNo et QN, sur T . 
+L'observation de l'evolution de T en fonction de Q,, a QNo 
+donne (QNo = 25 L/h) met en Cvidence les caractCristiques 
+
+suivantes (Tableau 3): pour (300 &lt; QN, &lt; 650) L/h, T est 
+
+approximativement constant (eu Cgard a-la prkcision des me-
+
+sures) et trks ClevC (86 9 1 %); pour (1200 &lt; QN, &lt; 2600) L/h 
+
+les valeurs de T sont beaucoup plus faibles et T est une fonction 
+dkcroissante de QN2. L'Ctude n'a pu Ctre menCe pour des valeurs 
+
+de dCbits d'azote intermidiaires (650 &lt; QN, &lt; 1200) L/h, ppm, 
+Ctant alors &gt; 10 000 et donc non mesurable-dans nos conditions 
+
+expkrimentales. 
+Dans l'hypothkse d'une repartition homoglne des molCcules 
+de NO dans le milieu rkactionnel, les rCsultats ci-dessus peu-
+vent s'interprkter de la fagon suivante. Lorsque [N(4S)] est 
+supCrieur a [NO], T est proportionnel a la fraction du volume 
+total o c c ~~C -~a r 
+le dard i t donc indtpendant de QNo et QN,. Par 
+augmentation de QN,, la diminution de la densit6 d'Ciergie 
+
+est infkrieur h [NO] une diminution de T par augmentation de 
+
+QNo a QN, donne. Les resultats du tableau 3 font apparaitre une 
+Cvolution inverse et conduisent donc a rejeter l'hypothkse 
+
+d'une rkpartition homoglne de NO dans l'azote activC. 
+Les rkpartitions de NO et N("S) dans le milieu ne sont donc 
+pas homogknes et T , dont 1'Cvolution est parallkle h celle de 
+QNo/QN1, reprCsente le pourcentage de molCcules de NO pCnC-
+trant dans le dard. 
+Les rCsultats precedents mettent en Cvidence les parametres 
+expkrimentaux permettant d'optimiser la destruction de NO.,. 
+11s sont Cnumerts ci-apres, les conditions spCcifiques a la 
+prCsente Ctude sont prCcisCes pour chacun d'eux: la valeur de 
+P i doit permettre de minimiser P, (Pi = 500 watts); prksence 
+d'impuretks oxygCnCes (-0,5%) dans l'azote (azote qualitC R, 
+Air liquide); il faut Cviter la dkgradation des parois du rCacteur 
+(l'azote est vChiculC dans des tubes rkcemment "traitCs", cf. 
+ci-dessus); I'adjonction de NO, doit s'effectuer dans le dard ce 
+qui implique une contrainte d'une part sur le lieu d'adjonction 
+de NO, ( d = 30 mm) et d'autre part sur les valeurs respectives 
+
+de QN1 et QNo (QN1 &lt; 1000 L/h, la condition experimentale de 
+dCtection de NO: ppm, &lt; 10 000 suppose en outre de limiter les 
+
+valeurs maximales de QNo a 30 ou 100 L/h suivant QNZ). 
+Les valeurs de T pour diffkrentes valeurs de QNz et QNo sont 
+reportCes dans le tableau 4. Le taux de destruction maximum 
+(QN2 = 300 L/h, QNo = 100 L/h) correspond 2 un cotit Cner-
+gCtique de 0,14 kW-h/mol de NO, valeur trks proche du cotit 
+thCorique (0,13 kW-h/mol de NO). 
+La valeur optimale de Q:~, (26 L/h) correspond a un cotit 
+CnergCtique de 0,43 kW-h/mol de NO,. En rCalitC NO, n'Ctant 
+jamais pur mais en Cquilibre avec son dimkre, les valeurs de 
+Can. J. Chem. Downloaded from www.nrcresearchpress.com by 87.160.185.190 on 03/27/14 
+
+For personal use only. 
+
+
+670 
+
+CAN. J. CHEM. VOL. 62, 1984 
+
+Q;,? sont sous-estimCes et le cotit CnergCtique est surestimC. En 
+outre, le cotit CnergCtique thCorique de destruction de NOz ne 
+peut &amp;tre dCfini Ctant donnC que la rCaction globale de destruc-
+tion de NO, n'est pas stoechiomCtrique. On peut seulement 
+
+affirmer qu'il est supCrieur 2 0,13 kW-h/mol de NO?. 
+
+Conclusion 
+
+L'Cnergie microonde permet une destruction efficace de NO, 
+
+B pression atmosphCrique puisque le rendement CnergCtique 
+
+peut Stre, dans certaines conditions, proche du rendement thC-
+orique. Ce travail met en relief des facteurs diterminants dans 
+l'optimisation de cette destruction. Le dard constitue la zone 
+prCfCrentielle de destruction de NO,; il convient donc d'une 
+part de rendre son volume maximal et d'autre part, en agissant 
+sur les valeurs respectives des dCbits gazeux et sur la gComCtrie 
+de la chambre de mClange, d'effectuer une introduction de NO, 
+
+dans cette region fortement rtactive. En outre il importe de 
+
+concevoir une cavitC dont les facilitCs d'adaptation sont telles 
+
+que P, puisse s'annuler pour les diffkrents dtbits d'azote. Enfin 
+la dCtCrioration des parois du tube a decharge doit &amp;tre mini-
+
+miste. Une cavitC rCcemment realiste (8) permet de satisfaire 
+
+a ces difftrents critkres et laisse esptrer une amelioration sensi-
+
+ble du cotit de destruction de NO., dans une large gamme de 
+dtbits gazeux. 
+
+I. M. BARNEA et P. URSU. Pollution et protection de I'atmosphkre. 
+Ed. Eyrolles (1974). 
+2. 0. J . ADLHART, S. G. HINDIN et R. E. KENSON. Chern. Eng. Prog. 
+67, 73 (1971). 
+3. Inform. Chim. 108, 83 (1972). 
+4. 0. DESSAUX, P. GOUDMAND et M. MATTOT. Brevet franpis 
+ANVAR no 228-389/D/9247 ( 1978). 
+5. B. MUTEL, 0. DESSAUX et P. GOUDMAND. Ch International Sym-
+posium on Plasma Chemistry. Montreal 242 (1983). 
+6. M. MATTOT. MCrnoire dipldrne ingCnieur Conservatoire National 
+des Arts et MCtiers, Lille (1978). 
+7. G. MOREAU. 'These n" 1027. UniversitC des Sciences et Techniques 
+de Lille. (1983). 
+8. G. MOREAU, 0. DESSAUX et P. GOUDMAND. J. Phys. E: 16, 1160 
+(1983). A paraitre. 
+9. R. R. BAKER, A. JACOB et C. A. WINKLER. Can. J. Chern. 49, 
+1671 (1971). 
+
+Can. J. Chem. Downloaded from www.nrcresearchpress.com by 87.160.185.190 on 03/27/14 
+
+For personal use only. 
+
+
+
+	
+

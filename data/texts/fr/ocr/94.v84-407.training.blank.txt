@@ -1,0 +1,844 @@
+
+	
+
+		
+
+	
+
+	
+
+Effet de substitution dans les positions 3, 5 et 7 en serie spiropyrannique 
+benzothiazolinique 
+
+JACKY KISTER,' HENRI PAUL POMMIER ET JACQUES METZGER 
+
+L.A. 126. Laboratoire de Chimie Organique A, Centre Universitaire de St-JPrBme, 13397 Marseille Cedex 13, France 
+
+ROBERT GUGLIELMETTI 
+
+L.A. 322. Luboratoire de Synthtse Organique, UniversitP de Bretagne Occidentale, 6 , Avenue Le Gorgeu, 
+29283 Brest Cedex, France 
+R e p le 27 janvier 1984 
+
+JACKY KISTER, HENRI PAUL POMMIER, JACQUES METZGER et ROBERT GUGLIELMETTI. Can. J. Chem. 62, 2372 (1984). 
+
+L'Ctude de la substitution dans les positions 3, 5, 6, 7 et 8 des spiropyrannes benzothiazoliniques a permis de mettre en 
+Cvidence l'aspect tout-i-fait complCmentaire des positions 3 et 5, sur la stabilitC du systtme dClocalisC de type rnerocyanine. 
+Les interactions de non liaison ont une influence directe sur la fermeture de la molCcule de spiropyranne. Les paramttres 
+stCrCdlectroniques judicieusement choisis permettent de modifier 1'Cquilibre forme fermCe/forme ouverte dts le devel-
+oppement synthCtique. 
+
+JACKY KISTER, HENRI PAUL POMMIER, JACQUES METZGER, and ROBERT GUGLIELMET~I. Can. J. Chern. 62, 2372 (1984). 
+
+Benzothiazolinic spiropyrans substituted in the 3, 5, 6, 7, and 8 positions have been studied. The results obtained show the 
+equivalent role of the 3 and 5 substituted positions during the synthesis of merocyanin type compounds. Non-bonded 
+interactions play a direct role in ring closing to spiropyran compounds. The relative stabilities of open and closed ring 
+compounds depend on stereoelectronic parameters. 
+
+L'utilisation des spiropyrannes photochromiques comme 
+substrats photosensibles dans des proctdts photographiques 
+implique la recherche de composb dont la structure est adaptke 
+au proctdi que celui-ci comporte ou non une Ctape d'amplifica-
+tion du signal photonique primaire (1, 2). Les divers rksultats 
+obtenus dans ce domaine (2, 3) nous ont amen6 ttudier plus 
+particulikrement la strie benzothiazolinique substituie princi-
+palement dans les positions 3, 6, 8 sur la partie chromtnique et 
+3', 4', 6' sur la partie benzothiazolinique (schtma 1): 
+
+SCHEMA 1. Nomenclature officielle de la molCcule de spiropyranne 
+
+benzothiazolinique. 
+
+La numtrotation des atomes est conforme aux rbgles Cnon-
+ctes dans le "Ring-Index" et la nomenclature officielle est la 
+
+suivante: spiro [R3, &amp;, Rs benzo 2H [l] pyranne-2,2' methyl-
+3', G, RL benzothiazoline]. 
+
+I. Definition des effets de substitution 
+Si de tels composes sont interessants, en vue de leur utilisa-
+tion photochimique possible, par contre leur synthkse devient 
+particulikrement complexe et delicate (3, 4) en fonction des 
+substituants choisis correlativement l'optimisation des para-
+mktres spectro-cinktiques de la reaction de fermeture aprbs 
+irradiation uv (schema 2). 
+I1 est traditionnellement admis et dCmontrC que le caractere 
+photochromique des spiropyrannes azahCtCrocycliques est lie a 
+lqubstituion dans les positions 6 et 8 de la partie benzopyran-
+nique par des couples N02/R (3a, 5) ou R est souvent un 
+
+'Auteur i adresser toute correspondance. 
+
+groupement 0CH3 interessant par les propriCtCs conferees et 
+Cgalement par la commoditC d'accks synthttique. R peut tgale-
+ment Ctre du type CH2X ou OR' pour lesquels X = C1, OR', 
+
+N(R')2 avec R' = H, CH,, C2H5, ...( CH2),CH3, cycle ... (6). 
+
+En premikre approximation, on peut dire que les substituants 
+de chacune des deux parties benzopyrannique et benzothiazoli-
+nique affectent les cinetiques de f a ~o n indkpendante (3, 7 -9). 
+En rkgle gtntrale les substituants Clectron-attracteurs placts sur 
+la partie benzopyrannique ralentissent la fermeture des photo-
+mtrocyanines alors que les substituants electron-donneurs l'ac-
+ctlkrent. L'effet est inverse mais trks attCnuC pour la partie 
+benzothiazolinique. Les substituants places au voisinage du 
+carbone central et dont l'effet est essentiellement stkrique acct-
+lkrent la dtcoloration thermique (2, 3,8,9). La prtsence simul-
+tanCe de plusieurs substituants conduit 2 des rksultats difficile-
+ment interprktables (2, 4). 
+Dans ce present mtmoire, nous nous intiressons aux facteurs 
+sensibilisant la refermeture de la forme ouverte (FO) en forme 
+fermCe (FF) sans tenir compte des considtrations spectro-cinB 
+tiques de l'tquilibre photochromique. Par souci d'homogCnCit6 
+et pour presenter les resultats des etudes physico-chimiques et 
+l'analyse des effets de substitution en 3, 5 et 7, nous avons 
+realid la synthbse des composes dont le couple de substituants 
+en position 6/8 peut Ctre H/H, N02/H et H/OCH3. 
+En position 3', nous choisissons un groupement methyle, 
+lequel est rendu Clectrophile par ouverture de la liaison 
+C2-0,. I1 convient de rappeler que la labilite de ce methyle 
+peut Ctre mesurke en utilisant la reaction de dkmethylation par 
+la triphinylphosphine (1 0). 
+En position 6', le substituant place en position para de 
+l'atome d'azote heterocyclique exerce une influence impor-
+tante sur la dilocalisation Clectronique du systbme. C'est ainsi 
+que nous avons place un groupement methoxy correspondant a 
+une optimisation des photochromes adaptes aux procedes 
+photographiques avec amplification (3c, 4). 
+En position 3, position adjacente au carbone spiropyran-
+nique, les groupes fonctionnels oxygenes comme le methoxy et 
+le phenoxy exercent un important ralentissement sur les cineti-
+Can. J. Chem. Downloaded from www.nrcresearchpress.com by 87.160.185.190 on 03/27/14 
+
+For personal use only. 
+
+
+KISTER ET AL 
+
+SCHEMA 2. Equilibre photochromique forme fermkelforme ouverte (FFIFO). 
+
++ 
+
+CHO 
+3; 
+
+\ 
+
+I R # ou R = H et substitution en 5 
+
+= 
+
+R' attracteur pour les positions 618 
+3 R = H R, donneur 
+
+SCHEMA 3. Reactions de condensation spiropyrannique. 
+
+ques de dtcoloration thermique (3a, 7). Cette stabilisation de 
+la FO est d'autant plus forte que le substituant est moins en-
+combrant. La simultanCitC de substitution par le groupement 
+
+methoxy en position 3 et 6' a conduit B l'obtention d'une 
+
+mkrocyanine permanente (2, 3b, 7), I'Cquilibre photochromi-
+que Ctant totalement dCplacC vers la "photomCrocyanine." 
+En position 5 et 7: ces positions n'ont pas fait l'objet de 
+recherches approfondies en sCrie benzothiazolinique. Nous 
+avons CtudiC l'influence d'un groupement mCthyle en position 
+5, sur l'obtention de formes fermCes alors que la position 3 
+reste non substituke. Smets et coll. (11) avaient dCj2 CtudiC 
+cette position 5 en sCrie benzothiazolinique et ceci simultad-
+ment avec la substitution en position 3. La skparation des effets 
+de substitution en 315 n'avait pas Ct C rCalis6e. 
+La condensation du sel quaternaire de dimkthyl-2,3 benzo-
+thiazolium (donnant un hydrogkne en position 3) sur des 
+aldthydes salicyliques porteurs de groupements Clectron-
+
+attracteurs, conduit B des mtrocyanines (FO permanentes) (12) 
+
+tandis que la condensation sur des aldehydes salicyliques por-
+teurs de groupements Clectron-donneurs conduit a l'obtention 
+de composCs tricycliques de type spirodihydropyrannique (12), 
+schCma 3. 
+Enfin 1'Ctude de composCs porteurs de longues chaPnes ali-
+phatiques avait Ct C dCveloppCe dks 1972 (13) et l'influence de 
+
+ces chaines grasses sur la solubilisation des FO a Ct C utilisCe 
+pour 1'Ctude physicochimique des mCrocyanines (14, 15). Les 
+mCrocyanines classiques sont en effet particulikrement insolu-
+
+bles dans la plupart des solvants polaires ou apolaires B fortiori. 
+
+Par ailleurs, il n'Ctait pas venu 2 1'idCe de placer un hydrogkne 
+en position 3 puisque l'on cherchait Cgalement a accroitre le 
+systkme .rr susceptible de former des complexes stables par 
+adsorption sur semi-conducteurs. Les groupements phCnoxy et 
+
+p naphtoxy Ctaient alors particulikrement intkressants en posi-
+
+tion 3 (2, 3, 7). 
+L'ensemble de ces considCrations expkrimentales nous a 
+conduit ttudier les spiropyrannes et mCrocyanines prCsentCs 
+dans les tableaux 1 et 2. Les spiropyrannes 4-7 et 11-15 sont 
+prCsentb pour comparaison. Le mode de synthkse est mainte-
+
+nant connu (2 B 7); il ntcessite la synthkse intermkdiaire de sels 
+
+quaternaires de benzothiazolium par quaternisation de bases 
+benzothiazoliques. Celles utilisCes dans ce mCmoire ont fait 
+l'objet d'Ctudes et de publications (2-5,7). L'aldChyde salicy-
+lique utilisC pour la condensation finale avec le sel quaternaire 
+peut-Etre le classique nitro-5 mCthoxy-3 salicylaldChyde (3, 5). 
+Dans le cas des aldChydes conduisant aux composCs substituts 
+en 517, ils rksultent de synthkses d6licates (13, 16). L'alkyla-
+tion des aldChydes se fait par le tosylate d'hexadCcyle dans 
+1'Cthanol a reflux pendant 12 h; les composCs obtenus sont 
+
+Can. J. Chem. Downloaded from www.nrcresearchpress.com by 87.160.185.190 on 03/27/14 
+
+For personal use only. 
+
+
+2374 
+
+CAN. J. CHEM. VOL. 62, 1984 
+
+TABLEAU 1. Effet de substitution sur la partie benzopyrannique, la partie benzothiazolinique restant fixe et substituCe par un groupement mCthyle 
+
+en position 3' 
+
+Formes Rendement 
+6 fusion 
+isolCes 
+
+(%) 
+
+Substitution partie benzopyrannique 
+
+--
+
+(OC) 
+Solvant de 
+FF FO FF FO 
+Solvant de FF 
+FO 
+prkcipitation 
+No 
+R3 
+R5 
+R.5 
+R7 
+Rs 
+MEL 
+MEL 
+Photochrome 
+synthese 
+MEL 
+de la FF 
+Ref. 
+
+1 H 
+CH3 
+H 
+oC16H33 H 
+
+-+ -
+
+50 
+Non 
+EtOH 
+
+-
+
+EtOH 
+
+-
+
+rouge 
+2 H 
+H 
+H 
+OCl6H33 H 
+
+-+ -60 FO stable 
+
+EtOH 
+250 
+EtOH 
+
+-
+
+violet 
+3 H 
+oC16H33 H 
+oC16H33 H 
+
+-+ 
+
+50 
+Non 
+EtOH 
+180 
+EtOH 
+
+-
+
+marron 
+4 H 
+H 
+NO2 H 
+
+OCH3 -+ -70 FO stable 
+
+EtOH 
+260 
+EtOH 
+3 a 
+5 CH3 
+H 
+NO2 H 
+
+0CH3 + + 77 85 Oui 
+
+EtOH 
+182 
+
+-
+
+EtOH 
+5 
+6 OCH, H 
+NO2 H 
+
+OCH, + + 94 94 Oui 
+
+EtOH 
+195 
+
+-
+
+EtOH 
+36 
+
+TABLEAU 2. Effet de substitution sur la partie benzopyrannique: partie benzothiazolinique fixe, substituCe par un groupement mCthyle en 3' et 
+
+mCthoxy en 6' 
+
+Substitution 
+Rdt (%) 
+Formes 
+en F 
+Partie 
+isolCes 
+isolCe 
+
+--
+
+hCtCrocyclique 
+Partie benzopyrannique 
+FF FO FF FO 
+
+6 fusion 
+Solvant 
+(OC) 
+Solvant de 
+de 
+orkcioitation 
+No R; 
+R; 
+R3 
+R5 
+R6 
+R7 
+R8 
+MEL 
+MEL 
+Photochrome synthbse FF FO ' de ia FF 
+Ref. 
+
+Oui 
+
+Non 
+
+-
+
+-
+
+Oui 
+
+Non 
+Oui 
+Oui 
+
+EtOH 
+
+EtOH 
+EtOH 
+EtOH 
+EtOH 
+EtOH 
+
+EtOH 
+EtOH 
+EtOH 
+
+Ether de 
+p6trole 
+5 
+EtOH 
+
+-
+
+EtOH 
+
+-
+
+EtOH 
+(3a) 
+EtOH 
+7 
+Ether de 
+p6trole 
+4, 7 
+EtOH 
+16, 2 
+Pentane 
+16, 2 
+Pentane 
+16, 2 
+
+recristallists dans l'acttone. Les rendements sont de l'ordre de 
+70%. La prtparation des spiropyrannes s'effectue par reflux de 
+quantitts tquimoltculaires de sels de benzothiazolium, d'aldt-
+hyde et de piptridine dans l'tthanol; les rendements varient de 
+50 a 70%. 
+
+11. Analyses spectroscopiques 
+Les diverses ttudes spectroscopiques (ir, uv-vis, rmnlH) 
+ont t t t rtalistes. Les composes obtenus peuvent &amp;tre sous 
+forme de FF pure, de FO pure ou de mtlange FF/FO. Les 
+techniques d'identification s'averent fiables par le grand 
+nombre de caracttrisations FF/FO effectutes sur des stries 
+homogenes de spiropyrannes diversement substituts. 
+
+A. spectroscopie inffarouge 
+La spectroscopie infrarouge apparait comme la mtthode la 
+plus adaptte pour difftrencier rapidement les formes fermtes et 
+formes ouvertes et estimer la purett des produits obtenus 
+(17-19). Les spectres infrarouges ont ttt enregistrts sur spec-
+trographes Perkin Elmer 125 et 225. Les tchantillons ont t t t 
+examints sous forme de pastilles KBr (environ 1,50 mg de 
+produit pour 150 mg de KBr). 
+Les spiropyrannes FF sont caracttrise's par (17-19) (fig. 
+1): (i) quatre bandes entre 1700 et 1550 cm-I dont trois sont 
+imputables aux vibrations du noyau benzopyrannique et une au 
+
+noyau benzothiazolinique. Le sommet ir correspondant au 
+v(C=C) est faible et ne peut pas &amp;tre observt; (ii) une bande 
+forte vers 1515 cm-' correspondant au va(NO,); (iii) un som-
+met intense vers 1490-1470 cm-' dQ au noyau benzothiazoli-
+nique (17, 19); (iv) un maximum vers 1340 cm-' (v,(NO,); (v) 
+des bandes attribuables aux mouvements v(C0) intracycliques 
+et v(=C-OR) 
+et aux vibrations du noyau benzothiazolinique 
+entre 1300 et 1200 cm-'. 
+Les mtrocyanines FO sont caracttristes par (17-19): (i) la 
+prtsence d'un massif intense au dessous de 1600 cm-' (quatre 
+absorptions thtoriques) rtsultant du glissement des absorptions 
+du noyau benzopyrannique; (ii) un va(NOp) inchangte par rap-
+port 2 la FF; (iii) une bande forte vers 1500 cm-' correspondant 
+au glissement de la bande FF (1490-1470); (iv) l'apparition 
+d'un sommet intense vers 1400 cm-' qui peut &amp;tre attribute a 
+une vibration v(C=N); (v) une bande vers 1200 cm-', intense 
+non attribute; (vi) un massif complexe entre 1300 et 1200 cm-' 
+comportant les absorptions v(=C-OR), 
+les vibrations du 
+noyau benzothiazolinique, les v(C-0) intracycliques intenses 
+et tres larges et la bande correspondant aux v,(NO1) tres abais-
+ste par rapport 2 la FF. 
+De ces considtrations gtntrales on en dtduit pour nos com-
+posts (tableau 3): 
+Les composts 1, 3, 8 sont obtenus sous forme de mtlange 
+
+FF/FO . 
+
+Can. J. Chem. Downloaded from www.nrcresearchpress.com by 87.160.185.190 on 03/27/14 
+
+For personal use only. 
+
+
+TABLEAU 3. CaractCristiques infrarouge des spiropyrannes et mCrocyanines (e = Cpaulement, m = moyen, f = faible, F = fort et FF = intense) 
+
+FrCquences infrarouges et attributions caractCristiques entre 1700-1150 cm-' 
+
+Can. J. Chem. Downloaded from www.nrcresearchpress.com by 87.160.185.190 on 03/27/14 
+
+For personal use only. 
+
+
+CAN. J. ( 
+
+, , ' ". 
+
+0 
+
+m 2 q 
+
+PI* 
+Q O D D 
+00 0 
+
+m z _ l -
+f l m 
+
+a s : % me 
+
+r+u7n~.5+w4gz 
+
+m m m w . a g m m m m 
+
+S S .a 
+
+m V) 
+
+0 ~, ' 5 ' % 2 
+moo a a) c 
+
+* * $ $ 2 
+
+a,o 2 % g 
+
+" -l m c e q ) 
+
+V! 
+
+2 2 2 
+
+% 3 2 Z 
+
+m m * m 
+
+m m m 
+m 
+m m m 
+
+'a-coo m m m m 
+
+m 0 0 
+
+2 o m 
+
+0 
+
+m 
+
+m 
+
+m o o 
+
+PI 
+
+o m 
+
+0 
+
+l-
+
+m 1 0 m 
+m 
+
+{EM. VOL. 62, 1984 
+
+FIG. 1. Differenciation spectroscopique entre la FF (-) 
+et FO 
+(---) d'une molecule benzothiazolinique de type 5 dans la region 
+1100-1700 cm-'. 
+
+Les composCs 2 , 4 , 9 , 10, 11 donnent les spectres caracttris-
+tiques des FO. 
+Les composCs 5, 6, 7, 12, 14, 15 sont obtenus soit en 
+mClange soit en FF ou FO pure selon que le composC issu de 
+la rCaction de condensation est analysC sous forme brute en fin 
+de synthkse aprks refermeture complkte dans le tolukne chaud 
+(FF pure) ou aprks ouverture et photoprkcipitation (FO pure). 
+Le composC 13 donne directement la FF, il n'est pas pho-
+tochrome. 
+
+B. Spectroscopies ultraviolette et visible 
+Les spectres des spiropyrannes benzothiazoliniques ont Ct C 
+rCalisCs dans le dioxanne et 1'Cthanol sur un spectrophotomktre 
+Cary 14 a double faisceau et sur un spectrophotomktre Perkin 
+Elmer 137. La faible solubilitk des mCrocyanines ne permet pas 
+une grande prCcision pour l'estimation du coefficient d'extinc-
+tion molCculaire E. L'identification de certaines bandes caractC-
+ristiques a Ct C rkalisCe en dCcomposant la molCcule en deux 
+parties (3a, b). 
+P. Appriou et al. (20) ont CtudiC les interactions des deux 
+parties et la redistribution des niveaux d'inergie (20, 21). La 
+durCe de vie des FO en solution est gCnCralement courte et leur 
+solubilitC faible et la dCcoloration de la solution montre l'tvo-
+lution vers la FF. L'on obtient ainsi souvent le spectre d'un 
+mClange FF/FO. 
+Les rksultats sont regroupCs dans le tableau 4 et la fig. 2 
+montre la diffkrenciation entre la FF et la FO. Lors des mesures 
+des constantes cinktiques de refermeture des FO dans l'ithanol 
+et le tolukne (2, 3, 7, 9) effectuies par photolyse Cclair, les 
+caractCristiques spectroscopiques uv-visible des FF et FO 
+pures ont CtC mesurCes. Ces risultats sont regroupis dans le 
+tableau 4. Ces mesures ne sont foumies que pour les composis 
+
+photochromes conduisant i des mCrocyanines pouvant se refer-
+mer en solution (composCs 5, 6, 7, 12 et 14). 
+Ainsi on peut vCrifier que les composCs 1, 3, 8 sont obtenus 
+sous forme de mClange FF/FO; que les composts 2, 4, 9, 10 
+et 11 sont des mCrocyanines insolubles. Le composi 2 peut Ztre 
+analysC et 1Cgkement solubilisC du fait de la prCsence d'une 
+chaine grasse en position 7. 
+
+C. Analyse de re'sonance magnttique nucltaire du proton 
+Les dCplacements chimiques sont toujours exprimes en ppm 
+Can. J. Chem. Downloaded from www.nrcresearchpress.com by 87.160.185.190 on 03/27/14 
+
+For personal use only. 
+
+
+KISTER 
+
+os 1 1 
+
+, , , Forme ouverte 
+
+FIG. 2. Spectre d'absorption Clectronique du spiropyranne 6 et de 
+la photomkrocyanine correspondante (EtOH). 
+
+par rapport au TMS. Les spectres ont t t t rtalists sur des appa-
+reils de type Varian XL 100 et Cameca 250 MHz. L'enregistre-
+ment des spectres de FF pures ne pose aucun problkme, leur 
+solubilitt ttant acceptable (2, 3). 11 existe beaucoup moins de 
+rtsultats relatifs aux FO (22, 23). Cependant la rmn protonique 
+apporte des rtsultats importants sur la polaritt et la structure 
+des FO. Trois problkmes limitent l'ttude des FO: la solubilitt, 
+la stabilitt en solution et l'obtention de FO isoltes. La prtsence 
+de chalnes grasses et l'utilisation d'appareil a transformte de 
+Fourier permet l'ttude de solutions peu concentrtes tvitant la 
+photoprtcipitation et la refermeture de la FO dans un solvant 
+polaire tel que DMSO-d6. 
+Dans cette ttude nous nous inttressons plus sptcialement au 
+dtplacement chimique du groupe mtthyle fixt sur l'azote ben-
+zothiazolinique. Ainsi on peut constater une variation de son 
+dtplacement chimique de 0,9 a 1,5 ppm lorsque l'on passe 
+d'une Forme Fermte a une Forme Ouverte (2, 23). 
+Ce rtsultat confirme la dtficience tlectronique sur la partie 
+azahtttrocyclique et les dtplacements chimiques observts, 
+cornparts a ceux obtenus dans le cas des sels quaternaires de 
+
++ 
+
+benzothiazolium (4,30 &lt; GNCH, &lt; 4,70 dans le TFA), indi-
+
+quent une localisation importante de la charge positive sur cette 
+partie de la moltcule (ceci est confirm6 par le dtplacement 
+paramagnttique du proton H, (36, 23) et par l'ttude radiocris-
+tallographique aux rayons X effectute sur une mtrocyanine 
+benzothiazolinique (24). 
+La rmn des FF et FO montre bien l'existence d'interactions 
+sttrtotlectroniques entre le doublet libre de l'oxygkne en posi-
+tion 3 et le proton H5 quand il existe (36, 23). Ainsi le tableau 
+5 montre les dtplacements observts pour les composts 1 a 15. 
+Les dtplacements chimiques GNCH, des composts 1, 2 , 8 sont 
+
+bien caracttristiques d'un mtlange FF/FO avec 1,10 &lt; 
+AGNCH, &lt; 1,20 ppm. Les composts 2 , 4 , 9 , 10 et 11 donnent 
+
+un dtplacement chimique caracttristique d'une FO. Les com-
+posts 5, 6, 8 et 12 peuvent &amp;tre analysts a l'ttat de FO pures 
+ou FF pures. Les composts 7, 13, 14 et 15 sont par leur 
+
+SCHEMA 4. Visualisation des intkractions de non-liaison d'origine 
+stkrique et Clectronique (H3/RS-R3/HS). 
+
+TABLEAU 5. Analyse resonance magnktique 
+nuclkaire de 'H dans CDC13 (ref. TMS) des 
+FF/FO (dkplacements chimiques en ppm) 
+
++ 
+
+No 
+GNCH, FF 
+GNCH, FO 
+
+4,lO 
+3,80 *DMSO-d6 
+4,14 
+3,80 *DMSO-d6 
+mkrocyanine stable 
+4,14 
+4,33 
+
+-
+
+4,14 *DMSO-d6 
+3,85 *DMSO-d6 
+3,80 *DMSO-d6 
+4,38 
+4,38 
+
+-
+-
+-
+
+*SolubilitC partielle. 
+
+dtplacement chimique des FF pures. Ainsi pour l'ensemble de 
+ces composts 
+
+2,95 &lt; GNCH, , &lt; 3,24 ppm 
+
+(+) 
+
+3,80 &lt; 6 NCH, , &lt; 4,38 ppm 
+
+Dans un prtctdent travail, nous avons montrt que cette ttude 
+comparative permet d'haluer la capacitt d'une mtrocyanine a 
+ctder son mtthyle (2). Cette capacitt est mesurte par ailleurs 
+en mettant en oeuvre une rtaction de dtmtthylation (2, 10). 
+
+111. Conclusion 
+Ainsi les trois techniques spectroscopiques confirment bien 
+l'obtention partielle de FF dans le cas de non substitution en 
+position 3 mais avec encombrement sttrique en position 5. 
+L'on peut ainsi nettement mettre en tvidence les interactions 
+Cquivalentes H3/R5 et R3/H5 (schtma 4). Dans le cas des com-
+posts 3 et 6, une stabilisation compltmentaire des FO est 
+
+Can. J. Chem. Downloaded from www.nrcresearchpress.com by 87.160.185.190 on 03/27/14 
+
+For personal use only. 
+
+
+2378 
+
+CAN. J. CHEM. VOL. 62. 1984 
+
+obtenue par les interactions entre les hydrogenes en position 3 
+ou 5 et l'oxygkne du mCthoxy en 3 ou de l'hexadecyloxy en 5. 
+A Samat et al. ont effectuk des calculs d'interactions de 
+non-liaison dans le cas de mCrocyanines et photomCrocyanines 
+benzothiazoliniques (25); les rksultats obtenus montrent: 
+1. Une difference trks importante d e l'ordre de 190 kcal 
+d'Cnergie pour la forme la plus stable entre la mkrocyanine 
+
+stable (compost no 4, H en 3) et la photomCrocyanine issue du 
+composC no 5 (CH3 en 3). Ceci est en accord avec le fait qu'en 
+
+sCrie benzothiazolinique la F O est peu contrainte stkriquement 
+et la refermeture sous forme spiropyrannique n'a pas lieu. 
+2. Avec une atome d'hydrogkne en position 3, les Cnergies 
+d'interactions sttriques sont faibles, par contre la prksence d'un 
+groupement volumineux permet de nCgliger l'effet Clectrostati-
+que au profit d e l'effet sttrique. La sCrie benzoxazolinique (26) 
+
+conduit en gCnCral a des photomCrocyanines thermiquement 
+
+plus stables que leurs homologues benzothiazoliniques. 
+L'atome d'oxygkne allie les effets Clectroniques et stkriques 
+favorisant cette stabilisation, par contre on observe en strie 
+benzosClCnazolique les effets contraires (27). 
+
+I1 serait intkressant d'examiner dans la m&amp;me perspective les 
+problkmes lies a la substitution ou non dans les positions 5 et 
+
+7 lorsque la position 3 est occupCe par un atome d'hydrogkne. 
+
+I1 apparait nkanmoins que la position 7 doit jouer un r6le 
+
+beaucoup plus nkgligeable que la position 5 dans l'obtention 
+
+des FF lorsque la position 3 n'est pas substituke. Les interac-
+
+tions stCrCoClectroniques entre les groupements situkes en posi-
+tion 3 et 5 sur les mkrocyanines montrent un effet complkmen-
+
+taire dans l'obtention des FF ou des FO. 
+
+Remerciements 
+
+C e travail a CtC realid dans le cadre du contrat DRET 
+801084. Nous remercions la DRET pour l'aide financikre 
+apportte. 
+
+1 . ( a ) J. METZGER. Brevet Franqais, no 7328538 (1973); ( b ) J. 
+KISTER et J. METZGER. C.R. Acad. Sci. Ser. C, 287,281 (1978). 
+2. J. KISTER. These Sciences, Marseille (1977). 
+3. ( a ) R. GUGLIELME~I. Thtse Sciences, Marseille (1967); R. 
+G U G L I E L M E ~I , 
+E. DAVIN et J. METZGER. Bull. Soc. Chim. 
+Fr. 2812 (1967); ( b ) A. SAMAT. Thtse Sciences, Brest (1976); 
+A. SAMAT, R. GUGLIELMETTI et J. METZGER. Helv. Chim. Acta, 
+55, 1782 (1972); ( c ) J . KISTER. Thtse spkcialitt, Marseille 
+(1974). 
+4 . J. KISTER, A. BLANC, E. DAVIN et J. METZGER. Bull. Soc. Chim. 
+Fr. 2297 (1975). 
+
+5 . R. G U G L I E L M E ~I 
+et J. METZGER. Bull. Soc. Chim. Fr. 2824 
+(1967). 
+6 . ( a ) M. LE BACCON. These Sciences, Brest (1978); ( b ) M. 
+LE BACCON, F. GARNIER et R. G U G L I E L M E ~I . 
+Bull. Soc. Chim. 
+Fr. 315 (1979). 
+7 . A. SAMAT, J. KISTER, F. GARNIER, J. METZGER et R. 
+GUGLIELME~I. Bull. Soc. Chirn. Fr. 2627 (1975). 
+8 . R. G U G L I E L M E ~I , 
+M. MOSSE, J. C. METRAS et J. METZGER. 
+J. Chim. Phys. 65, 454 (1968). 
+9 . A. SAMAT, J. METZGER, F. MENTIENNE, F. GARNIER, J. E. 
+DUBOIS et R. GUGLIELME~I. J. Phys. Chem. 7 6 , 3554 (1972). 
+10. J. KISTER, U . BERG, R. GALLO et J. METZGER. Bull. Soc. Chim. 
+Fr. 484 (1979). 
+11. P. H. VANDEWYER, J. HOEFNAGELS et G. SMETS. Tetrahedron, 
+25, 3251 (1969). 
+12. A. SAMAT, C. RIOU, J. ROBILLARD et R. GUGLIELMETTI. 
+J. Photogr. Sci. 26, 34 (1978). 
+13. H. P. POMMIER. Thtse Docteur-Ingtnieur, Marseille (1972). 
+14. A. LE BEUZE, A. SAMAT, A. BOTREL, P. APPRIOU et R. 
+G U G L I E L M E ~I . 
+J. Chim. Phys. 7 5 , 46 (1978). 
+15. J. P. BESSE, A. SAMAT, A. LE BEUZE, J. Y . LE GALL et R. 
+GUGLIELMETTI Org. Magn. Reson. 11, 493 (1978). 
+16. H . P. POMMIER, J. BARIL, I. GRUDA et R. M. LEBLANC. Can. J. 
+Chem. 57, 1377 (1979). 
+17. E . DAVIN-PRETELLI, M. GUILIANO, G. MILLE et J. CHOUTEAU. 
+Helv. Chim. Acta, 60, 215 (1977); 61, 1092 (1978). 
+18. M. GUILIANO, G. MILLE, J. CHOUTEAU, J. KISTER et J. 
+METZGER. Anal. Chim Acta, 93, 33 (1977). 
+19. ( a ) E. DAVIN-PRETELLI. Thtse Sciences, Marseille (1983); ( b ) E. 
+DAVIN, M. GUILIANO, H. REYMOND, G. MILLE et J. KISTER. 
+Anal. Chim. Acta, 148, 271 (1983). 
+20. ( a ) P. APPRIOU. Thtse Sciences, Brest (1977); ( b ) P. APPRIOU, 
+R. G U G L I E L M E ~I 
+et F. GARNIER. J. Photochem. 8 , 145 (1978). 
+21. W . D. OLLIS, K. L. ORMAND et J . 0 . SUTHERLAND. J. Chem. 
+SOC. 1697 (1978). 
+22. J. B. FLANNERY. J. Am. Chem. Soc. 90, 5660 (1968). 
+23. A. SAMAT, G. MARTIN et R. GUGLIELMETTI. C. R. Acad. Sci, 
+Ser. C, 279, 573 (1974); Org. Magn. Reson. 8 , 62 (1976). 
+24. E . MILER-SPRENGER et R. G U G L I E L M ~I . 
+Acta Crystallogr. Sect. 
+B, 38, 1980 (1982). 
+25. A. SAMAT, R. GUGLIELMETTI, Y. FERRE, H. P. POMMIER et J. 
+METZGER. J. Chim. Phys. 69, 1202 (1972). 
+26. ( a ) M. MAGUET. T h b e Sciences, Brest (1980); ( b ) D. GAUDE, 
+R. GAUDRON, M. MAGUET et R. GUGLIELMETTI. Helv. Chim. 
+Acta, 66, 1 (1983); 66, 342 (1983). 
+27. R. GUGLIELMETTI, E . DAVIN et J. METZGER. Bull. Soc. Chim. Fr. 
+556 (1971). 
+
+Can. J. Chem. Downloaded from www.nrcresearchpress.com by 87.160.185.190 on 03/27/14 
+
+For personal use only. 
+
+
+
+	
+

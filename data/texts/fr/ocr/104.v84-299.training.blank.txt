@@ -1,0 +1,832 @@
+
+	
+
+		
+
+	
+
+	
+
+Etude par activation collisionnelle des ions [C4H,0]+ provenant des ions pentenols et 
+methylcetones [C5HIO0]" metastables 
+
+G. Bouc~otix ET Y. HOPPILLIARD 
+
+Laboratoire de Synthise Organique, Ecole Polytechr~ique. 91128 Palaiseau Cedex, France 
+
+ET 
+
+R. FLAMMANG, A. MAQUESTIAU ET P. MEYRANT 
+
+Laboratoire de Chimie Organique, Ut1iversit.4 de I'Etat, 19, avenue Maistriau. 7000 Mons, Belgique 
+R e ~u le 22 juin 1983' 
+
+G. Bouc~oux, Y. HOPPILLIARD, R. FLAMMANG, A. MAQUESTIAU et P. MEYRANT. Can. J. Chem. 62, 1740 (1984). 
+Les ions [C4H,0]+ rCsultant de la perte de CH, i partir de la pentanone-2 ( I ) , la mCthyl-3-butanone (2), le mCthyl-2-buthe-
+
+3-01-2 (3), le penthe-3-01-2-(4) et le methyl-3-buthe-3-01-2 (5) ont CtC CtudiCs par activation collisionnelle. Un spectromktre 
+de masse a triple secteur a CtC utilise afin de distinguer les ions fragments formds dans la source et dans la premikre region 
+libre de champ. Les spectres de dissociations induites par collisions confirment ou Cclairent les points suivants: (i) dans la 
+source. I'Climination du CH, occupant la position 1 des molCcules 1-5 conduit respectivement aux ions [n-C,H7CO]' (a), 
+[i-C,H7CO]' (b), [CH,COHCHCH,]' (c), [CH,CHCHCHOH]' (d) et [CH2C(CH1)CHOH]' (e), tandis que la perte de 
+mCthyle B partir de la chaine produit compCtitivemcnt I'ion c pour les cinq pricurseurs; (ii) en region libre de champ, les ions 
+1. 3. 4 et 5 conduisent a un m&amp;me mtlange de structures a, b et c, I'ion 2 conduit a I'ion acylium b de f a ~o n prCpondCrante. 
+
+Les mtcanismes et la thermochimie des rCactions d'isomCrisation des ions [CsHloO]" 1-5 sont discutis. 
+
+G. Bouc~oux, Y. HOPPILLIARD, R. FLAMMANG, A. MAQUESTIAU, and P. MEYRANT. Can. J. Chem. 62, 1740 (1984). 
+
+The [C4H70]' ions arising from 2-pentanone (I), 3-methylbutanone (2), 2-methylbut-3-en-2-01 (3), pent-3-en-2-01 (4), and 
+
+3-methylbut-3-en-2-01 (5) by methyl loss were studied by collisional activation. A triple sector (E/B/E) mass spectrometer 
+
+was used to distinguish between fragment ion structures produced in the source and in the first field free region. The collision 
+induced dissociations confirm or demonstrate that: (i) in the source, the methyl originally on the position 1 in compounds 1-5 
+is lost to give, respectively, [n-C3H7CO]' (a), [i-C3H7CO]' (b), [CH,COHCHCH,]' (c), [CH,CHCHCHOH]' (d), and 
+[CHZC(CH1)CHOH]' (e), while the methyl loss from the side chain gives, competitively, ion c for the five precursors; (ii) 
+in the first field free region molecular ions 1, 3, 4, and 5 produce an identical mixture of structures a, b, and c; the molecular 
+ion 2 leads essentially to acylium ion b. The mechanisms and the thermochemistry of the isomerization path of 1-5 are 
+discussed. 
+
+Introduction 
+L'Climination de CH3 est la fragmentation principale des ions 
+molCculaires [C,H,oO]'t mCtastables 1-5 ( 1 -4), (SchCma 1); 
+pour ces cinq exemples elle est en competition avec la perte 
+d'une molCcule d'ethylkne: 
+
+L'Ctude des spectres de masse des molCcules 1-5 spCcifi-
+quement deutCriCes dCmontre que le radical mCthyle CliminC 
+provient aussi bien du groupement acCtyle que de la chaine 
+propyle dans le cas de 1 (2) et 2 (3), du radical propCnyle pour 
+
+unimolCculaires des ions fragments [C4H70] t . Dans aucune 
+des Ctudes citCes, la structure des ions fragments formCs en 
+rCgion libre de champ (RLC) n'a CtC directement etablie. L'ar-
+gumentation repose toujours sur I'utilisation du marquage iso-
+topique et de ses consCquences sur le spectre de dissociation 
+
+unimolCculaire de I'ion M" et sur les charactkristiques structu-
+
+rales des ions fragments formes dans la source. Le but du 
+prisent travail est tout d'abord d'apporter avec les spectres de 
+collisions d'ions [C4H70It provenant de divers prCcurseurs, un 
+nouveau moyen d'identification des structures a-e (SchCma 2) 
+dont les dCcompositions unimolCculaires ont par ailleurs Ct C 
+dCcrites par Williams et al. (5) (pour a, b): 
+
+les alcools 4 (4) et 5 (4) et du radical vinyle pour-3 (4). 
+
+Les mCcanismes des rCactions [CSH,oO]" + [C4H7Olt + 
+
+Cette technique est ensuite utilisCe sur les ions [C4H70It 
+CH,'se produisant dans ]a source du spectrom&amp;tre de masse ant 
+provenant de 
+dans la premiere 
+libre de 
+d'un 
+alors .CtC Ctablis aprits examen des spectres de dissociations 
+spectromttre de 
+trip1e secteur (E/B/E). 
+Ces rCsultats seront cornparks aux donntes CnergCtiques as-
+
+'Revision r e y e le 9 fkvrier 1984. 
+
+sociCes aux rCactions d'isom~risation et de dissociation des 
+ions [C5H100]'t (1 -5). 
+Can. J. Chem. Downloaded from www.nrcresearchpress.com by 87.160.185.190 on 03/27/14 
+
+For personal use only. 
+
+
+BOUCHOUX ET AL. 
+
+1741 
+
+TABLEAU I . Spectres CID-MIKE" des ions [C4H70]+ formis dans la source a partir des pricurseurs 6-13 (spectres Ctalons des ions [C4H70]+ 
+
+a-e) 
+
+m l z , A 
+
+m l z , B 
+
+C B = 
+
+m l z , C 
+Structure 
+Pricurseurs 
+[C4H70]+ 
+56 55 
+53 
+
+51 50 C A 45 
+
+43 
+42 41 39 
+
+1000 31 29 27 26 C C 
+
+6 
+-CO2CH3 
+
+a 
+
+Z 16 74 (10) 3 7 30 -(407) 36 32 32 
+-1 1 67 22 130 
+
+M 20 70 
+(8) 4 
+5 
+33 -(674) 45 31 24 
+-18 67 15 48 
+
+0 
+10 
+
++ isobutane 
+
+e 
+
+Z 1 1 47 (31) 20 22 260 3 
+
+(46) 10 35 52 
+15 35 40 11 590 
+
+"Les intensitis de pics ont &amp; t i normalisees pour chaque massif en excluant la contribut~on des pics indiquis entre parentheses (composantes un~moliculaires). 
+
+, 
+Les participations globales de chaque massif au spectre complet sont les termes: C A , 1 B et Z C, elles comprennent cette fois les pics places entre parentheses, 
+
+elles sont rapporties a 1 B = 1000. 
+
+"2 = spectrometre de masse VG.ZAB.2F; M = spectromktre AEI.KRATOS.MS 902 rnodifie. 
+
+Resultats et discussion 
+1 . Spectres CID -MIKE2 des ions a -e 
+Les esters mCthyliques 6 et 7 (SchCma 3) conduisent aux ions 
+acylium a et b par simple rupture d'une liaison C-0. Les 
+spectres MIKE des ions [6-OCH,]+ et [7-OCH,]' ne compor-
+
+tent qu'un pic correspondant iI l'elimination exclusive de CO 
+
+(2), les energies cinetiques To.s sont trks differentes (5) (respec-
+tivement 18 meV et 2 meV, VG.ZAB.2F) permettant de distin-
+guer aisCment les deux structures a et b. 
+Les ions c, d et e peuvent Ctre formCs soit par protonation des 
+composCs carbonylCs 8, 9 et 10, soit par fragmentation des 
+alcools 11, 12 et 13 (Schema 3). Les d6compositions unimole-
+culaires des ions [C4H70]+ ainsi form&amp; conduisent a deux pics 
+m / z 53 (-HzO) et m / z 43 (-CO et -C2HJ). 
+
+Le profil du pic [C4H,0]+ + [C2H30]+ + C2H4 est caracte-
+
+ristique de la structure de l'ion prkcurseur, "dish-topped" pour 
+c (To., = 400 meV), "composite" pour d. 
+Les spectres CID-MIKE des ions [CJH70]+ formCs dans la 
+
+source iI partir des molecules 6-13 sont rassemblCs sur le 
+
+tableau 1. 
+Le comportement des ions a et b est tres largement domini 
+par l'klimination de 28 u.m.a. Cgalement observte sur les spec-
+tres MIKE. Parmi les fragmentations exclusivement induites 
+
+'On utilisera les acronymes anglosaxons MIKE (Mass, Analysed Ion 
+Kinetic Energy Spectra) et CID (Collision Induced Dissociations) -
+
+par collisions, la presence pratiquement isolCe du pic m / z 27 au 
+
+afin de dCsigner la technique expirimentale consistant a aria-
+
+coeur du massif C est caracteristique des ions acylium a et b. 
+
+lyser, 2 l'aide d'un secteur ilectrique, les ions produits par la dis-
+
+Seul a donne un pic m / z 29 appreciable et pour aucune des 
+
+sociation unimoliculaire (ou induite par collision) d'un ion pricurseur 
+
+deux structures on ne ditecte de pic m / z 3 1 . Dans le massif B, 
+
+stlectionn6 par un secteur magnCtique (voir par exemple la rifirence 
+
+on notera I'abondance particuliere des ions m / z 42, ce pic 
+
+15). 
+
+surpasse m / z 39 dans le cas de a. Enfin dans la zone m / z 
+
+Can. J. Chem. Downloaded from www.nrcresearchpress.com by 87.160.185.190 on 03/27/14 
+
+For personal use only. 
+
+
+CAN. J. CHEM. VOL. 62. 1984 
+
+TABLEAU 2. Spectre MIKE" de la pentanone 1,1,1 ,3,3-rls 
+
+Fragment neutre 
+CliminC 
+C H CHzD CHDz CD3 CzH4 CzHSD CzHzDz CzHDS 
+
+Abondance (%) 65 
+27 
+18 
+70 
+43 
+100 
+47 
+8 
+
+"Mesures effectuies sur VG.ZAB.2F. 70 eV 
+
+56-50 (A) la presence d'un pic intense m/z 56 est specifique 
+de l'ion b. 
+Les spectres des ions c, d et e sont assez differents de ceux 
+des ions acylium, des pics nouveaux apparaissent (mlz 45, 31) 
+ou prennent une plus grande importance (mlz 53, 5 1, 50, 29) 
+et rendent identifiables les deux categories d'ions [C,H7OIt. La 
+
+structure c se distingue par les intensites plus importantes des 
+
+pics m/z 55 et m/z 27 au sein de leurs massifs respectifs. Les 
+spectres des ions d et e presentent des massifs C et B extrkme-
+ment proches, la distinction entre ces deux structures est en 
+
+revanche realisable a partir des pics m/z 50-56 (le rapport m/z 
+
+55:mlz 51 est plus faible pour la structure d: 1,3 contre 2,5 
+pour e et 3,8 pour c), le pic m/z 53 domine cette region du 
+spectre. 
+
+2. Structure des ions [C4H70It provenant de 1 et 5 
+2. I La pentclnor~e-2 (I) 
+
+La perte du methyle occupant initialement la position I et 
+celle d'un groupement CH, contenant trois hydrogknes de la 
+chaine propyle a Ct C mise en evidence a partir des derives 
+spkcifiquement deutkries 1 5,5,5-d, ( I ) et 1 ] , I , 1,3-d, (2). Ces 
+eliminations compititives se produisent aussi bien dans la 
+source qu'en region libre de champ du spectromktre de masse. 
+Les ions fragments form&amp; dans la source ont Ct C identifies par 
+
+Krenmayr (2); a partir de 1 1,1,1 ,3,3-d, l'klimination de CD, 
+conduit a I'ion acylium a tandis que I'ion [M -CH,]' co-
+
+rrespond i c. Ces deductions sont basees sur le rapport des 
+
+eliminations de CO et de C2(H,D), se produisant en premikre 
+RLC d'un spectromktre Ci double focalisation Varian SM-IB. 
+Les spectres MIKE (VG.ZAB.2F) des ions [M -CH,]' et 
+[M -CD,It provenant de 1 1,1,1,3,3-d5 confirment les 
+
+conclusions preckdentes. L'ion [M -CD,] ' conduit exclusive-
+
+ment a [C,H5D2Ii, le pic metastable est gaussien et sa largeur 
+
+a mi-hauteur correspond a To,, = 17 meV en accord avec la 
+
+structure a. 
+L'ion [M -CH,]' Climine essentiellement C2H2D2, le pic 
+metastable correspondant est large 2 sommet creux, ce profil 
+est caracteristique (To., = 410 meV (3, 4, 6)) de la structure c. 
+Enfin le comportement de I'ion 1 1,1,1,3,3-d, metastable est 
+rapport6 sur le tableau 2, un Cchange HID non negligeable 
+preckde I'elimination de mkthyle. On constate toutefois que les 
+contributions des ions non CchangCs [M -CH,]' et [M -
+CD,]' predominent et possedent des valeurs comparables. Par 
+analogie avec les fragmentations se deroulant dans la source, 
+ces donnees peuvent s'interpreter par la formation competitive 
+d'ions a et c. L'Cchange partiel HID constate pour I'Climina-
+tion de mkthyle est accentue lorsque le fragment neutre expulse 
+est une molecule d'kthylkne. La distribution [M -C?(H,D),]" 
+observCe (Tableau 2) correspond une repartition du type H,D, 
+sur laquelle on effectue un prelkvement de deux atomes 
+(H2HD/D2 = 0,2:0,6:0,2). Cette observation, qui indique par 
+consequent que les tchanges HID qui prkckdent l'elimination 
+d'ethylkne n'impliquent que les positions I et 5 (Schema 4), est 
+en accord avec les resultats de Beynon et al. (I) concernant le 
+precurseur 1 5,5,5-d,: 
+
+Les spectres CID-MIKE des ions [I-CH,]' produits dans la 
+source et en region libre de champ (Tableau 3) presentent de 
+grandes similitudes. Par rapport au spectre de l'ion a 
+([6-OCH,]', Tableau 1) on distingue une augmentation d'in-
+tensite des pics m / z 5 1 et 50, une abondance plus Clevee du 
+massif A et surtout l'apparition des pics m/z 45 et 31 qui 
+trahissent la presence de la structure hydroxycarbknium c aussi 
+
+bien parmi les ions [I-CH,] ' form&amp; dans la source qu'en RLC. 
+
+En RLC on constatera Cgalement un leger enrichissement du 
+massif A en ions m/z 56 qui pourrait s'expliquer par l'appari-
+
+tion d'ions acylium b, ii cat6 des structures a et c a partir de 
+
+l'ion molCculaire 1 metastable. 
+Ajoutons enfin que 1'Cvolution du rapport [la-CH31t/ 
+[la-CD31t (0,4 en source et 0,9 en RLC) indique une plus large 
+participation des ions de type c en RLC. I1 se degage de ces 
+observations que les trajets de dissociation de 1 conduisant aux 
+
+ions a, par simple fragmentation, et aux ions b et c, aprks 
+
+isomirisation de l'ion molCculaire, possedent des energies 
+critiques extrkmement proches. 
+
+2.2 La methyl-3-butanone (2) 
+I1 est Ctabli que les ions de source [2a-CD,]' et [2a-CH3]' 
+(20: 1,1,1,3-d, methyl-3-butanone) sont, pour les premiers 
+constituts d'un melange d'ions b (majoritaire) et e, tandis que 
+les seconds sont exclusivement des ions c (3). 
+Les ions [2-CH,]' formes en source posskdent un spectre 
+CID-MIKE trks proche de celui de l'ion b ([7-OCH,]', Ta-
+bleau l ) , la presence des pics m/z 45 et 31 temoigne de l'exis-
+tence d'ions hydroxycarbknium c. 
+Un changement notable apparait sur le spectre CID-MIKE 
+des ions [2-CH,lt form&amp; en RLC, les pics m/z 45 et 31 
+disparaissent au profit de m/z 56: il ne subsiste pratiquement 
+plus que la structure acylium b en RLC. Cette conclusion 
+explique Cgalement la modification du rapport [2a-CH31t/ 
+[2a-CD,]' (0,5 dans la source contre 0,16 en RLC (3)). I1 faut 
+dkduire de ce resultat que le processus de dissociation de l'ion 
+2 ntcessitant le moins d'energie est la simple elongation de la 
+
+liaison C-C conduisant 2 b + CH,.. 
+
+2.3 Les per~tenols 3, 4 et 5 
+On constate tout d'abord qu'aucune difference n'est dkcela-
+ble entre les spectres CID-MIKE des ions [C,H70]' provenant 
+de 3 , s et 11 dans la source (Tableaux 1 et 3): les ions 13-CH,]' 
+sont donc essentiellement des ions c. Ce resultat est en accord 
+
+Can. J. Chem. Downloaded from www.nrcresearchpress.com by 87.160.185.190 on 03/27/14 
+
+For personal use only. 
+
+
+BOUCHOUX ET AL. 
+
+1743 
+
+TABLEAU 3. Spectres CID-MIKE" des ions [C4H,0]' provenant des composds 1-5. 40 ct 50 dans la source (S) ou dans la premikre region 
+libre de champ (RLC) 
+
+m/z, A 
+mlz. B 
+mlz, C 
+
+EL3 = 
+
+PrCcurseurs 
+Region 56 55 
+53 
+
+51 50 EA 45 
+
+43 
+42 41 39 
+1000 
+31 29 27 26 
+
+2 C 
+
+S 
+18 64 
+(61) 10 
+8 
+78 
+2 
+(1040) 39 33 26 
+7 1 8 6 0 15 
+40 
+
+1 
+
+RLC 
+24 54 
+(27) 1 1 10 255 
+3 
+(220) 38 25 33 
+9 18 60 13 
+170 
+
+S 
+41 21 
+(29) 
+4 
+4 
+100 
+
+1 
+
+(607) 36 29 34 
+
+2 
+
+4 
+9 67 20 
+52 
+RLC 
+73 19 
+(9) 
+4 
+5 
+96 
+
+-
+
+(378) 39 25 35 
+1 
+6 69 23 
+66 
+
+S 
+7 61 
+(69) 16 15 500 
+4 
+(270) 27 37 31 
+14 16 56 14 200 
+
+&amp; RLC I5 57 (26) I5 I2 430 5 (203) 31 29 35 
+
+1 1 15 60 14 248 
+
+S 
+8 57 
+(108) 19 16 410 
+3 
+(270) 20 42 35 
+17 19 52 1 1 
+158 
+RLC 
+16 55 
+(20) 16 14 365 
+4 
+(200) 34 28 33 
+13 15 59 13 203 
+
+S 
+9 50 
+(186) 24 17 325 
+1 
+(285) 19 44 36 
+19 25 46 10 
+116 
+
+40 
+
+RLC 
+24 55 
+(21) I2 
+8 
+115 
+1 
+(233) 41 29 29 
+
+CD3 
+
+5 17 63 15 
+116 
+
+OH 
+
+5a 
+
+S 
+13 53 
+(93) 18 16 
+160 
+2 
+(403) 19 41 38 
+17 28 46 10 
+86 
+
+CD3q RLC 33 49 (20) 10 7 97 -(245) 40 29 30 
+
+3 19 63 15 
+110 
+
+"Voir Tableau I. 
+
+avec la formation pratiquement exclusive (95%) d'ions [M -
+CD,lf partir de 3n (CD,)?COHCHCH? (4) dans la source du 
+spectrometre de masse. Dans le cas des precurseurs 4 et 5, 
+Zwinselman et a/. (4) constatent que les ions de source [M -
+CH,]' proviennent, pour ~6 0 % d'une elimination de CH, a 
+partir de la chaine propknyle pour donner I'ion c, et pour ~4 0 % 
+de la perte du methyle occupant la position 1 conduisant ainsi 
+aux ions d et e. Les spectres CID-MIKE des ions de source 
+
+[4-CH,] ' et [5-CH,]' sont assez proches, ils s'interpretent par 
+
+I'existence de deux melanges d'ions domines par la structure c 
+comme en tkmoigne en particulier la repartition des intensites 
+de pics m / z 3 1-27 et la ressemblance Ctroite avec le spectre 
+CID-MIKE de [3-CH,]'. Les ions [C4H70I4 provenant des 
+derives 4a et 5a permettent de contr6ler I'identite du second 
+constituant de chaque melange d'ions [4-CH,]' et [5-CH31t : 
+
+I1 existe un rapprochement certain entre les spectres 
+CID-MIKE des ions de source [4a-CD31t (Tableau 3) et d 
+
+(112-CzH5It, Tableau I) d'une part, et [Sn-CH,] ' (Tableau 3) 
+
+et e (113-C2H5lt, Tableau I) d'autre part. Les spectres CID-
+MIKE des ions [4a-CH,]' et [Sa-CH,]' sont identiques 
+(Fig. 1); ils confirment la formation d'une structure commune 
+de type c par Climination de CH, ii partir de la chaine pro-
+penyle. 
+Les spectres d'activation collisionnelle apportent donc une 
+confirmation aux conclusions de Zwinselman et nl. (4) concer-
+nant les ions 3, 4 et 5 de courte durke de vie ( T 5 
+s). 
+En region libre de champ, 3 a conduit a 75% d'ions [M -
+
+CD,] ' et 25% d'ions [M -CH31t, ces pourcentages devien-
+
+nent respectivement 65% et 35% pour les ions 4 a et 50 metas-
+tables (4). On constate (Tableau 3) que les ions [3-CH,]', 
+[4-CH,]' et [5-CH,]' formes en RLC possedent des spectres 
+identiques. Ces trois spectres sont de plus assez semblables B 
+celui des ions [I-CH,]' produits eux aussi en RLC. Compte 
+
+tenu des resultats presentes lors de I'Ctude du compose 1, il faut 
+conclure ici a la production d'un melange d'ions a, b et c ii 
+partir des pentknols 3, 4 et 5 metastables. 
+La composition du melange peut Ctre dkduite des spectres 
+des ions fragments issus de 4n et 50. Les spectres CID-MIKE 
+des ions 140-CD,]' et [Sn-CD,]' form&amp; en RLC (Tableau 3) 
+sont identiques. Par rapport aux spectres des ions de source, on 
+constate le diminution importante des pics m / z 31, 50 et 51 et 
+I'augmentation des pics m / z 56, 42 et 27 due ii une tres nette 
+predominance de structure acylium, un melange d'ions a (ma-
+joritaires) et b. 
+Les ions [4a-CH,]' et [Sn-CH,It formCs en RLC donnent 
+des spectres CID-MIKE identiques entre eux et identiques a 
+ceux qui ont Ct C presentis sur la figure 1 pour les ions de source 
+et dont la structure c est Ctablie (4). 11 ne fait donc aucun doute 
+que I'elimination de mCthyle ii partir de la chaine propknyle 
+
+conduit a l'ion c. 
+
+L'essentiel de la discussion prkcedente peut se resumer 
+comme suit. 
+(a) Dans la source du spectrometre de masse, I'Climination 
+
+du CH, occupant la position I des molecules 1, 2, 3, 4 et 5 
+conduit respectivement aux ions a, b, c, d et e (ce dernier Ctant 
+Cgalement form6 i partir de 2), tandis que, pour les cinq precur-
+
+seurs, la perte de methyle de la chaine produit compCtitivement 
+I'ion c. 
+(b) En region libre de champ, les ions 1 , 3 , 4 et 5 conduisent 
+
+i un mCme melange d'ions a, b (minoritaire) et c; seul 2 
+
+possede un comportement distinct, la formation de l'ion acy-
+lium b Ctant prCpondCrante. 
+Can. J. Chem. Downloaded from www.nrcresearchpress.com by 87.160.185.190 on 03/27/14 
+
+For personal use only. 
+
+
+CAN. J. CHEM. VOL. 62. 1984 
+
+(4 6 ) 
+
+1 
+
+I 
+
+I 
+
+E 
+
+0.5 E 
+
+FIG. I . Spectres CID-MIKE des ions [4a-CH,]+ et [Sa-CH,]+ formts dans la source du spectrometre de masse MS.902. 
+
+Can. J. Chem. Downloaded from www.nrcresearchpress.com by 87.160.185.190 on 03/27/14 
+
+For personal use only. 
+
+
+BOUCHOUX ET AL 
+
+FIG. 2. Schema d'isom6risation et de fragmentation des ions [C5HIoO]". Les fragments encadres d'un trait plein sont prCftrentiellement 
+formCs en RLC, les traits pointilles correspondent aux ions produits principalement dans la source. Les A H : sont exprimts en kJ mol-' (entre 
+parenthkses valeurs calculCes par la mkthode MIND013). 
+
+TABLEAU 4. Energies d'apparition (E.A. en eV) des principaux ions 
+
+ions molCculaires 1 et 2 (8). L'exactitude de ces deux derniers 
+
+fragments issus de 6 et 7" 
+
+chiffres repose sur l'hypothese de la formation exclusive des 
+ions a et b au seuil thermodynamique en partant de 1 et 2. Or 
+
+E.A. 
+E.A. 
+E.A. 
+
+il vient d'etre Ctabli que les ions a et b ne sont pas les seuls 
+
+Prtcurseur 
+( d z 71) 
+(mlz 74) 
+(mlz 87) 
+
+produits de l'tlimination de CH, sous impact Clectronique B 
+
+6 
+
+-C02CH3 
+10,s 
+110,21 
+10,s 
+
+70 e v . 
+Les ions a et b ont par consCquent CtC gCnkrCs a partir des 
+
+7 
+
+Y c02cH3 10,7 
+
+-
+10,5 
+
+esters 6 et 7. Les mesures d7Cnergie d'apparition consignCes 
+dans le tableau 4 conduisent aux estimations: 
+
+"Mesures effectuees sur Varlan.MAT.CH5 par la mCthode semi-
+logar~thmique. Aprks calibration, I'Cchelle des energies a 6tC calCe sur E.A 
+( m / z 74) = 10.2 eV (lo), la reproductibilite des mesures est de I'ordre de 
+0.05 eV. 
+
+3. Me'canismes et thermochimie 
+L'obsemation des deux pics d'intensitks voisines m / z 71 [M 
+
+-CH31t et m / z 58 [M -C2H4]" sur les spectres MIKE des 
+
+ions molCculaires 1-5 indique que les deux fragmentations 
+posskdent des Cnergies critiques similaires. La thermochimie 
+
+des ions 1-5 et de leurs dissociations conduisant a (a-e) + 
+CH3-(Schtma 2) et h f + C,H4 (SchCma 3) est connue (7-9). 
+
+Les AH: des ions [C4H7OIt hydroxycarbenium proviennent de 
+mesures d'affinitts protoniques (7), les valeurs de AH: (a) et 
+AH: (b) ont CtC dCduites des Cnergies de photodissociation des 
+
+AH: (a) = 580 -+ 5 kJ mol-' 
+
+AH: (b) = 565 -t 5 kJ mol-' 
+
+en utilisant AH: (6) = -451 kJ mol-' (lo), AH: (7) = -456 
+kJ mol-' (chiffre obtenu en combinant AH: (6) et les incrB 
+ments d'enthalpies des groupes n-C3H7 et iso-C,H7 (1 1)) et AH: 
+
+(CH,.) = 142 kJ mol-'. Les valeurs obtenues ici sont trks 
+
+1Cgkrement supCrieures aux apprCciations antkrieures ( A H : (a) 
+= 567 kJ mol-' et AH: (b) = 554 kJ mol-' (8, 9)). Aucune 
+
+correction aux mesures du tableau 4 n'a Ct C effectuCe en vue 
+dYCliminer un dkplacement cinktique compttitif Cventuellement 
+responsable de 1'Ccart observC. NCanmoins ces chiffres confir-
+ment d'une part la plus grande stabilitk de l'ion acylium ramifiC 
+
+b, et, d'autre part, l9extr&amp;me proximitk des valeurs de AH: (a) 
+et AH: (c) (569 -+ 12 kJ mol-' (7)). 
+
+Can. J. Chem. Downloaded from www.nrcresearchpress.com by 87.160.185.190 on 03/27/14 
+
+For personal use only. 
+
+
+1746 
+
+CAN. J. CHEM. 1 
+
+La formation d'un ion 13-CH,]' de structure dimethylcetkne 
+proton6 sur I'atome d'oxygkne [(CH3)2CCOq]' (1) a CtC envi-
+
+sagee (4). Aucune donnte experimentale ne permet de situer le 
+AH: d e cet ion, en revanche un calcul d'orbitales moleculaires 
+
+a etC entrepris. Ainsi les methodes M I N D 0 1 3 (12) et MNDO 
+
+(13) situent I'ion 1 90 kJ mol-' au-dessus de I'ion hydroxycar-
+benium c, la production de 1 , principalement en RLC, semble 
+
+devoir &amp;tre rejetee. 
+Un nombre restreint de reactions d'isomerisation des ions 
+
+moleculaires 1-5 permet d'expliquer I'apparition des divers 
+ions fragments a-f (Fig. 2). La formation des ions [M -
+CH,]' de type a et c en competition avec I'ion [M -C2H4]+ de 
+structure f a partir de 1 , 3 , 4 et 5 en RLC coi'ncide avec les 
+valeurs identiques des AH: des produits d e ces fragmentations, 
+
+soit environ 710 kJ mol-'. En consequence, lorsque ces frag-
+
+mentations sont globalement endothermiques, comme cela est 
+le cas pour 1 , les reactions d'isornerisation correspondantes 
+
+passent par des etats de transition dont les AH: sont inferieurs 
+
+a 7 10 kJ mol-'. 11 s'agit: de la migration 1,2 d'hydrogene (h @ 
+j); du transfert 1,2 du groupement CH3COH (i @ j) qui, a c6te 
+
+de I'enchainement i * h @ j , permet d e rendre compte de 
+
+l'isomerisation d e la chaine propyle avec un bilan energetique 
+plus favorable (14); et enfin des migrations 1,4 et 1,5 d'hydro-
+
+gkne (1 a j , 1 @ k). 
+
+On constate que I'etat final de plus basse enthalpie, b + 
+
+CH,, n'est atteint de manittre appreciable qu'a partir de l'ion 
+
+moleculaire 2 metastable. Comme cela a Cte suggert (3), c e 
+
+comportement particulier s'explique par la presence d'une ba-
+rriere d'isornerisation interdisant aux ions intermediaires i (pro-
+
+duits par 1 , 3 , 4 et 5) l'acces a la structure 2. 
+
+Ajoutons que l'isolement de 2 se traduit egalement par une 
+
+moindre importance du pic m l z 58 sur le spectre MlKE d e cet 
+
+ion moleculaire ( m l z 58: m l z 7 1 = 0,2 pour 2, contre 0,6 pour 
+les autres prtcurseurs 1 , 3, 4 et 5). 
+Le processus d'isomerisation 3 @ i @ g apporte une expli-
+
+cation simple a I'elimination de CH, donnee en RLC partant d e 
+
+[(CD,)2C(OD)CHCH21'' (4) ( 3 a ) (Schema 5). La formation 
+
+d'un ion de type c est en effet attestee par les spectres 
+
+CID-MIKE des ions [3-CH,]'. Ajoutons que I'etape 3 a i 
+
+autorise I'enchainement d'isombisation ulterieur conduisant a 
+
+I'ion acylium a et a f + CzH4. 
+
+Partie experimentale 
+
+Les spectres d'activation collisionnelle (gaz cible = hClium) des 
+ions [C,H70]+ ont Ct C relevCs sur un spectrometre VG-ZAB-2F et sur 
+un spectrometre AEI-MS.902.S modifiC par I'adjonction d'un secteur 
+Clectrique entre le secteur magnCtique et le collecteur (E/B/E (IS)). 
+La tension d'accC1Cration des ions a Ct C rCglCe de f a ~o n a confCrer une 
+Cnergie cinCtique voisine de 6,7 kV i tous les ions [C,H70]+ quelle 
+que soit leur origine. 
+Les composCs 1-5 et 8-10 sont d'origine commerciale tandis que 
+6 et 7 rCsultent d'une esterification. Les composCs 11, 13, 40 et 5a 
+sont issus de rtactions de Grignard sur les cCtones ou aldehydes 
+appropriCs. La pentanone I , I , 1 ,3,3-ds a CtC obtenue aprks deux cycles 
+dlCchanges H/D dans D20/BaC03 (10%). 
+
+1. J. H. BEYNON, R . M. CAPRIOLI et R. G. COOKS. Org. Mass 
+Spectrom. 9, 1 (1974). 
+2. P. KRENMAYR. Monatsh. Chem. 106, 925 ( 1975). 
+3. G. B o u c ~o u x , Y. HOPPILLIARD et P. JAUDON. J. Chem. Res. 
+(S), 148 (1983). 
+4. J. J. ZWINSELMAN, N. M. M. NIBBERING, N. E. MIDDLEMISS, 
+J. H. VAJDA et A. G. HARRISON. Int. J . Mass Spectrom. Ion 
+Phys. 38, 163 (1981). 
+5. D. H. WILLIAMS, B. J. STAPLETON et R. D. BOWEN. Tetrahedron 
+Lett. 2919 (1978). 
+6. A. G. HARRISON, N. E. MIDDLEMISS et J. H. VAJDA. Adv. Mass 
+Spectrom. 8, 853 (1980). 
+7. J. H. VAJDA et A. G. HARRISON. Int. J. Mass Spectrom. Ion 
+Phys. 30, 293 (1979). 
+8. E. MURAD et M. G. INGHRAM. J. Chem. Phys. 40, 3263 (1964). 
+9. G. MOUVIER et R. HERNANDEZ. Org. Mass Spectrom. 10, 958 
+(1975). 
+10. J. L. HOLMES et F. P. LOSSING. J. Am. Chem. Soc. 102, 1591 
+(1980). 
+I I. S. W. BENZON. Therrnochemical kinetics. John Wiley. New 
+York. 1968. 
+12. R. C. BINGHAM, M. J. S. DEWAR et D. H. LO. J. Am. Chem. 
+SOC. 97, 1285 (1975). 
+13. M. J . S. DEWAR et W. THIEL. J. Am. Chem. Soc. 99, 4899 
+(1977). 
+14. G. B o u c ~o u x , R. FLAMMANG. Y. HOPPILLIARD, A. MAQUES-
+TIAU et P. MEYRANT. Org. Mass Spectrom. 18, 340 (1983). 
+15. A. MAQUESTIAU, P. MEYRANT et R. FLAMMANG. Org. Mass 
+Spectrom. 17, 96 (1982). 
+Can. J. Chem. Downloaded from www.nrcresearchpress.com by 87.160.185.190 on 03/27/14 
+
+For personal use only. 
+
+
+
+	
+

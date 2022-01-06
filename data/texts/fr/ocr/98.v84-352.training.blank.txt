@@ -1,0 +1,470 @@
+
+	
+
+		
+
+	
+
+	
+
+Condensation inhabituelle d'un pyrrole et d'un benzaldehyde encombre 
+
+ALEXANDRA LECAS-NAWROCKA, JACQUES LEVISALLES, CLAIRE MARIACHER ET ERIC ROSE' 
+
+Laboratoire de Chitnie Organique (UA 408). UniversitP Pierre et Marie Curie. 4 Place Jus.sieu. 75230 Paris Cedex 05, Frar~ce 
+
+Requ le 17 janvier 1984 
+
+Cet article est dkdit au Professeur Paul de Mayo d I'occa.sion de son 6 0 anniversaire 
+
+ALEXANDRA LECAS-NAWROCKA, JACQUES LEVISALLES, CLAIRE MARIACHER et ERIC ROSE. Can. J. Chem. 62,2059 ( I 984). 
+
+La condensation du dinitro-2,6 benzaldthyde et d'un pyrrole ne conduit pas a un dipyrrylmtthane. mais a des produits 
+
+rtsultant soit d'un doublement des molCcules de pyrrole de dtpart, soit de rtactions d'oxydo-rtduction de I'intermtdiaire 9 
+correspondant a un dtbut de condensation entre une molicule de pyrrole et une molecule d'aldihyde. Les groupes nitro du 
+dinitro-2,6 benzaldehyde jouent un r61e important dans ces reactions inattendues. 
+
+ALEXANDRA LECAS-NAWROCKA, JACQUES LEVISALLES, CLAIRE MARIACHER. and ERIC ROSE. Can. J. Chem. 62, 2059 
+
+(1984). 
+The condensation between 2,6-dinitrobenzaldehyde and a pyrrole does not afford a dipyrrylmethane but products which 
+result from a duplication of the starting pyrrole or from oxydo-reduction reactions of the pyrryl-arylcarbinol9 which arise from 
+the condensation between one molecule of pyrrole and one molecule of aldehyde. The nitro groups of the benzaldehyde play 
+a crucial role in these reactions. 
+
+I1 est bien connu que la condensation d'un aldkhyde avec un 
+pyrrole dans le rapport 1 :2 conduit a un dipyrrylmCthane, 
+prCcurseur de porphyrines (1, 2) (Cq. ['I]). Le present mkrnoire 
+dCcrit le cours anormal de la condensation du dinitro-2,6 ben-
+zaldkhyde avec les pyrroles l a et l b , qui a Cte observe dans le 
+cadre des Ctudes de porphyrines du laboratoire (3, 4). 
+
+Au lieu des dipyrrylrnkthanes attendus, on observe la for-
+
+mation des trois produits 2a, 3a et 4a a partir de l a , et de 
+
+deux produits 2b et 4 b a partir de l b (kq. [2]). Les structures 
+
+de ces cornposks rksultent des observations spectroscopiques 
+suivantes. 
+
+Composes 2 et 3 
+Les spectres de rrnn 'H des cornposks 2 et 3 rnontrent qu'il 
+n'y a qu'un seul motif pyrrolique par motif dinitrobenzknique 
+(tableau 1). Le composCs 3a possede deux protons de plus que 
+le compose 2a (ce que confirrnent les spectres de rnasse), et 
+l'un de ces protons est kchangeable par traitement par DzO, 
+rnais le reste du spectre de rrnn est tres semblable a celui de 2a. 
+Les protons areniques des cornposks 2a, 2b et 3a prksentent 
+des signaux caractkristiques dont l'ernpreinte est analogue a 
+celle des protons areniques du dinitro-2,6 benzaldkhyde. 
+Les frkquences d'klongation observkes dans les spectres ir 
+pour les vibrateurs NH, CO et NO sont rassernblkes dans le 
+
+tableau 1. Les bandes a 17 10-1720 crn-' peuvent &amp;tre attri-
+
+butes aux groupes carbonyles libres des alcoxycarbonyl-2 pyr-
+roles, et les bandes a 1690-1685 crn-' aux rnkrnes groupes liks 
+par pont hydrogene au groupe NH pyrrolique (5-7). Quant aux 
+groupes carbonyles cetoniques, on peut leur attribuer les ban-
+des situCes entre 1650 et 1590 crn-', par analogie avec celle que 
+le benzoyl-2 trirnethyl-3,4,5 pyrrole prksente a 1608 cm-' (8). 
+Outre les bandes NH vers 3450-3280 crn-' on notera dans le 
+tableau 1 la bande prksentee par 3a vers 3500 crn-', probable-
+rnent due au groupe OH. Enfin la presence de groupe NO est 
+visible dans les spectres ir vers 1530-1540 crn-' (tableau 1) et 
+dans les spectres de rnasse (perte de 30 unitks de rnasse = NO) 
+(9). 
+Composes 4 
+
+ROzC 
+Les spectres de rmn rnontrent l'absence de groupernent 
+dinitrophknyle (notarnrnent pour 4a ou il n'y a aucun signal au 
+NHOH 
+dela de 4,2 uurn). En revanche, l'existence de deux singulets 
+
+20 R = Et 
+3a R = Et 
+
+(1,76 et 1,88'pprn pour 4a, 1,80 et 1,86 pprn pour 4 0 ) Fkvele 
+
+b R = CHzChH, 
+
+la prksence de deux groupes rnethyles diffit-eent de rnCrne 
+
++ 
+
+que l'existence de deux quadruplets presque superposks pour 
+4a (-COO-CH2-CH3) 
+et de deux singulets pour 4 b 
+'Auteur i qui toute correspondance doit Ctre adressee. 
+(-COO-CH2-C6H5) 
+rkvele la presence de deux groupes 
+Can. J. Chem. Downloaded from www.nrcresearchpress.com by 87.160.185.190 on 03/27/14 
+
+For personal use only. 
+
+
+TABLEAU 1. Spectroscopies de rtsonance magnttique nucltaire et infrarouges des composts 2, 3 et 4* 
+
+Rtsonance magnktique nucltaire 
+lnfrarouge 
+
+Compost 
+(a) 
+Rtgion ArH (d) 
+Rtgion 3600-3200 
+Rtgion 1750-1600 
+Region 1580-1300 
+
+-
+-
+
+2a 
+3H a 2,O CH3 (s) 
+7,65 dd, J = 9,1 et 9,O (1H) 
+3ArH 7,2-8 
+8,10 d, J = 8,6 (1H) 
+8,14 dd, J = 7,2 et 2,3 (1H) 
+
+2b 
+
+3H a 2,O CH, (s) 
+
+7,40 m (5H) 
+8ArH a 7,3-8,l 
+7,63 deux d, J = 9,O et 7,O (1H) 
+8,09 d, J = 8,9 (IH) 
+8,13d, J = 6,9(1H) 
+
+3a 
+
+3H a 1,7 CH3 (s) 
+
+3H a 7,l-7,5 m 
+7,01 dd, J = 7,5 et 2,2 (1H) 
+7,20 d, J = 7,5 (1H) 
+7,41 d de d, J = 7,5 et 2,2 (IH) 
+
+4a 
+3H a 1,80 CH3 (s) 
+
+3H a 1,86 CH3 (s) 
+2H a 4,2 q dtformt 
+
+2H a 4,2 q dtformt 
+4 b 
+3H a 1,80 CH3 (s) 
+7,35 m (10H) 
+3H a 1,86 CH, (s) 
+
+2H a 5,20 CHzCsH, (s) 
+2H a 5,26 CHzCsH, (s) 
+
+-
+
+3450 NH (c) 
+1710 C02Et libre (b) 
+1530 large (b) 
+3280 
+1685 C02Et lit 
+1535 (c) 
+3450, 3270 (b) 
+1650-1625 -1595 (C=O) 
+
+3457 NH (b) 
+1717 t p 1702, 1690 
+1540 large NO (b) 
+COzEt (b) 
+1655, 1620, 1590 (C=O) 
+
+3500-3435 (b) 
+1712-1700 (b) 
+1530 (c) 
+3500-3450-3410 (c) 1627-1600 (b) 
+3280 (c) 
+1725-1710 (c) 
+1636-1605 (c) 
+
+3440 (b) 
+1700 t p 1740 et 1660 (b) 
+
+3445 (b) 
+1710 t p 1745 et 
+3450 (c) 
+1680 (b) 
+1700 ep 1730 et 
+1670 (c) 
+
+*En ppm/TMS (a) CDCI,; (b) CHCI,; (c) CCI,); (d) Me,CO-d,. 
+
+Can. J. Chem. Downloaded from www.nrcresearchpress.com by 87.160.185.190 on 03/27/14 
+
+For personal use only. 
+
+
+LECAS-NAWROCKA ET AL.: 2 
+
+I (1) hv 
+
+(2) Air 
+
+2u X = NO R = Et 
+2b X = NO R = CH,C,,H, 
+3u X = NHOH R = Et 
+
+esters diffkrents (tableau 1). Ces donnCes suggerent la superpo-
+sition dans 4 de deux motifs differents dCrivCs de 1. 
+Dans la region des frkquences d'Clongation des vibrateurs 
+C=O, les spectres ir prCsentent de larges bandes centrkes vers 
+1700 cm-' pour 4a et 17 10 cm-' pour 4b. Par analogie avec les 
+
+I 
+
+frkquences observies pour les composes modeles 5 (lo), 6 
+(1 l), 7 (12) et 8 (13), qui sont de I'ordre de 1680 cm-' pour le 
+groupe CONH et de 1740 cm-' pour le groupe ester de 5, et par 
+analogie avec les frkquences observees pour les fonctions esters 
+de l a (1700, 1675, 1655 cm-I) et de l b (1700, 1680, 
+1655 cm-I) on peut considtrer que les larges bandes observCes 
+pour 4a et 4b resultent du recouvrement des bandes dQes aux 
+groupes amide conjuguk, ester conjuguC et ester non conjuguC. 
+Enfin dans les spectres de masse la perte du groupe ester non 
+
+conjuguC-C02R donne lieu A un pic intense (m/e = 359 = 
+
+M-C02CH2CH3 pour 4a, m/e = 421 = M -C02CH2C6H5 
+pour 4b), accompagni d'un autre pic a m/e = 3 13, correspon-
+dant a M -C02R -ROH, et commun aux spectres de masse 
+de 4a et de 4b. 
+L'ensemble des donnCes prCcCdentes est en accord avec les 
+structures de benzoyl-pyrroles substituCs pour 2 et 3 et de 
+pyrryl-pyrrolidones pour 4. 
+
+Discussion 
+Le tableau 2 donne les rendements en produits 2, 3 et 4 
+obtenus lors des essais de preparation des dipyrrylmCthanes, en 
+prCsence d'acide p-toluene sulfonique (TsOH). On voit que le 
+
+rapport 2 + 314 varie de 1,7 A 3,2. On notera que par rapport 
+
+au compost primaire attendu de la condensation, l'alcool9, les 
+composCs 2 et 3 sont plus oxydCs d'un c6tC (I'alcool est devenu 
+&amp;tone), moins oxydCs de l'autre (les groupes NO? sont deve-
+nus NO ou NHOH). Cette anomalie s'explique aisCment par le 
+comportement photochimique de I'alcool ortho-nitrobenzy-
+lique et de I'aldChyde ortho-nitrobenzoique qui se transforment 
+en aldthyde et en acide ortho-nitrosobenzoi'que respectivement 
+(14). En prCsence de lumiere l'alcool 9 peut donner la cttone 
+10, qui peut &amp;tre reduite en compost 2 ou 3 si un rtducteur est 
+prisent dans le milieu (schCma I). 
+La prCsence d'un rCducteur dans le milieu est plausible. II est 
+
+TABLEAU 2. Rendements des produits obtenus lors de la condensation 
+du pyrrole l a ou l b avec le dinitro-2,6 benzaldehyde DNB 
+
+Pyrrole I/DNB Solvant 2a 3a 40 2b 4 b Catalyseur 
+
+l a ou 
+1/0,55 ~thanol 
+Aucune rCaction 
+HCI 
+
+l b 
+l a 
+
+1/0,55 Tolukne 27 11 18 
+pTsOH (a)* 
+
+l a 
+
+1/0,55 Tolukne 0 16 13 
+pTsOH (b) 
+
+l b 
+
+1 / 1.8 Benzkne 
+
+36 20 pTsOH (a) 
+
+l b 
+
+8 
+Xylkne 
+40 24 pTsOH (a) 
+
+l b 
+
+1/18 
+Xylkne 
+39 12 pTsOH (a) 
+
+*(a) QuantitC catalytique; (b) pTsOHlpyrrole l a = 2. 
+
+en effet bien connu qu'en milieu acide, un pyrrole tel que 1 peut 
+se condenser sur lui-m&amp;me pour donner une pyrryl-pyrroline 
+(I) telle que 11 qui peut se transformer en composC 4, en 
+prCsence des oxydants que sont les groupes NO? de la cttone 10 
+et du dinitro-2,6 benzaldthyde. On sait par exemple que le 
+nitrobenzene peut oxyder photochimiquement l'isopropanol en 
+donnant la phCnylhydroxylamine en l'absence d'oxygene, ou le 
+nitrosobenzene en prksence d'oxygene (les arylhydroxylamines 
+s'oxydent spontaniment en nitrosoarenes en prksence d'air) 
+(15, 16). Comme la formation de la pyrroline 11 en milieu 
+acide est rtversible, c'est son oxydation par les groupes NO2 de 
+la cttone 10 ou du dinitrobenzaldkhyde, qui provoque la forma-
+tion irreversible du composC 4. Ceci peut &amp;tre vCrifie par le 
+traitement des pyrroles 1, qui, placts dans les conditions de la 
+formation de 4, mais sans aldChyde, sont rtcupCrCs inchangCs 
+apres 48 h, m&amp;me en presence d'air, ou de nitrobenzene, alors 
+que l'autoxydation a 50°C du N-mtthyl pyrrole et du trimethyl-
+2,3,4 pyrrole conduit respectivement aux composCs 12 (17) et 
+13 (18). 
+On peut se demander pourquoi un tel comportement n'a pas 
+Ct C observk avec l'ortho-nitrobenzaldthyde. I1 est vraisem-
+blable que ce dernier, moins encombre que le dinitro-2,6 ben-
+zaldthyde, rtagit rapidement avec une deuxieme moltcule de 
+pyrrole pour conduire au dipyrrylmtthane; en revanche le dini-
+Can. J. Chem. Downloaded from www.nrcresearchpress.com by 87.160.185.190 on 03/27/14 
+
+For personal use only. 
+
+
+2062 
+
+CAN. J. CHEM. VOL. 62, 1984 
+
+trobenzaldthyde, trks encombre, donne l'alcool 9 qui, trop 
+
+encombrt pour se condenser une deuxieme fois, subit les reac-
+
+tions photochimiques secondaires conduisant a 2, 3 et 4. 
+En conclusion, les essais de synthkse de dipyrrylmtthane, 
+infructueux a partir du dinitro-2,6 benzaldthyde, mettent en 
+
+evidence les produits qui rtsultent d'un debut de condensation 
+et qui par leur nature oxydante facilitent la formation de pro-
+duits de doublement des moltcules de pyrrole de dtpart. 
+
+Partie experimentale 
+
+L'action du pyrrole l a ou l b B reflux pendant 24 h ou plus en 
+
+prksence d'un derni Cquivalent de dinitro-2,6 benzaldehyde et d'acide 
+chlorhydrique en quantitk catalytique dans I'Cthanol ne conduit j. au-
+cun produit nouveau. Les produits de depart sont rCcupCrCs. 
+Dans un ballon surrnontC d'un Dean-Stark le pyrrole l a ou l b et 
+le dinitro-2,6 benzaldihyde DNB sont mis en solution dans le solvant 
+(tableau 2) en presence de quantitC catalytique d'acide para-tolukne 
+sulfonique p-TsOH. Le melange est porte ti reflux 48 h. Aprks 
+"traitement habituel" (3) comportant en plus un lavage avec une solu-
+tion de bisulfite de sodium pour Clirniner I'aldChyde qui n'a pas rCagi, 
+les diffkrents prduits sont chromatographiCs sur colonne de silice. Les 
+rendernents en produits form&amp; sont donnCs au tableau 2. 
+Dans le cas du pyrrole l a , la chrornatographie sur colonne de silice 
+fournit un premier produit 2a ICgkrernent rnoins polaire que le pyrrole 
+de depart l a qui est Clue avec le melange Cther -Cther de pCtrole EP 
+20:80, puis un deuxitrne produit 3 a plus polaire que le pyrrole de 
+dtpart l a Clue avec un rnClange Cther-EP 60:40 et enfin un troisikrne 
+produit 40 Clue avec un melange Cther-EP 65:35. 
+Dans le cas du pyrrole l b , les produits 2b et 4b sont Clues avec les 
+melanges Et20-EP 40:60 et 50:50. 
+2a, poudre jaune, F = 142°C; ir (CHCI,): 3450, 3270 (large), 
+17 10-1685, 1650-1625, 1595, 1530 et 1335 crn-'; (CCI,): 3450, 
+3290 (large), 1720, 1700, 1652, 1612, 1585, 1535 et 1340 c r n '; rrnn 
+'H (60 MHz, CDC1,): 0,8-1.6 (m, lOH), 2,O (s, 3H). 2.5-2,9 (m, 
+2H), 4,2 (q, J = 7 Hz, 2H), 7,2-8.0 (m, 3H), 9,5 (s large, IH); rmn 
+'H (90 MHz, Me2CO): rigion des arornatiques: 7.65 (d de d, 1H 
+
+(doublet A 7,69, J = 9, I Hz et doublet i i 7.62, J = 9,O Hz)), 8,10 (d, 
+
+J = 8,6 Hz, IH orthoi NO), 8,14(d ded, J = 7.2et 2.3 Hz, lH ortho 
+
+B NO); srn: 37 1, 267, 233, 180 (M, CIPHZIN,OS = 37 1). Anal. calc.: 
+
+C 61.44, H 5,70; tr.: C 61.16, H 5,97. 
+3a, huile jaune; ir (CHCI,): 3435, 1712, 1700, 1627, 1600, 
+1350 cm-'; (CCI,): 3500, 3450, 3410, 3280 (large), 1725, 1710, 
+1636, 1605, 1530, 1350 crn-'; rrnn 'H (60 MHz, CDCI,): 0.8-1.5 
+
+(m, lOH), 1,70 (s, 3H), 2,s-2,8 (m, 2H), 4,4-4,s (q dCforrnC, J = 
+
+7 Hz; si +DzO q, J = 7 Hz), 7,01 (d de d, J = 7,5 et 2,2 Hz, lH, 
+ArH meta par rapport au groupe NO), 7,20 (d, J = 7,5 Hz, lH, ArH), 
+7,41 (d ded, J = 7,5 et 2.2 Hz, IH, ArH), 9,5 (s large, lH s'Cchange 
+avec D,O); rmn 'H (90 MHz, Me2CO): 0,8-1,40 (10H dont un triplet 
+2 1,33, J = 7.1 Hz), 1,88 (s, 3H), 2,6-2,9 (m, 2H), 4,30 (q, J = 
+7,1), 7,l-7.5 (m, 3H); sm: 373, 343, 341, 328 ( M , ClPH2,N305 = 
+373). 
+40, huile rouge; ir (CHCI,): 3440, 1700 (large) (Cp 1740, 1660) 
+cm-I; rmn 'H (60 MHz, CDCI,): 0.8-1.5 (m, 20H), 1,80 (s, 3H), 
+1,86 (s, 3H), 2,l-2.8 (m, 4H), 4,2 (q, 4H), 6,56 (s, lH), 9.5 (s large, 
+1H); rmn 'H (90 MHz, Me,CO): 0.70-1,s (rn, 30H dont deux triplets 
+a 1,27(t,J = 7,l Hz)et 1,31 (t, J = 7,l Hz), 1,79(s, 3H), 1,82(s, 
+3H),2,1 B2,9(m,4H),4,26(q, J = 7.1 Hz, 3 H ) , 4 , 2 7 ( q , J = 7,l 
+Hz, 3H), 7,80 (s, lH), 10,38 (s large, 1H); sm: 432, 359, 3 13 (M, 
+Cz4H36NZOs = 432). Anal. calc.: C 66,64, H 8.39, N 6,48; tr.: C 
+66,80, H 8,41, N 6,23. 
+2b, cristaux jaunes, F = 137°C; ir (CHCI,): 3457, 17 17 Cp, 1702 
+Cp, 1690, 1655, 1620, 1590, 1540, 1355 crn-'; rmn 'H (60 MHz, 
+CDCl,): 0,8-1.6 (rn, 7H), 2,O (s, 3H), 2,s-2.9 (rn, 2H), 5, I (s, 2H), 
+7,3-8.1 (m, 8H), 9,5 (s large, IH); rrnn 'H (90 MHz, Me,CO): 
+0,8-1,s (m, 7H), 2,10 (s, 3H), 2,84 (t, J = 8.6 Hz, 2H), 5,19 (s, 
+2H), 7,40 (rn, 5H), 7,63 (d de d, J = 9,O et 7,O Hz, IH rnita 2 
+Ar-NO), 8,09 (d, J = 8.9 Hz, 1 H ortho a Ar-No), 8,13 (d, J = 6.9 
+Hz, IH orrho Ar-NO), 11.15 (s large, IH); srn: 433, 403 (M, 
+C2,H2,N305 = 433). Anal. calc.: C 66.50, H 5,35, N 9.69; tr.: C 
+66.44, H 5.56, N 9.77. 
+4b, huile visqueuse rouge; uv (EtOH): 280 (14 300), 235 (12 600), 
+207 (20000); ir (CHC1,): 3445, 1710 (large) (Cp 1745, 1680) cm-'; 
+(CC1,): 3450, 1700 (large) (Cp 1730, 1670) cm-'; rrnn 'H (60 MHz, 
+CDCI,): 0.8-1.5 (rn, 14H), 1,80 (s, 3H), 1,86 (s, 3H), 2,l-2.8 (rn, 
+4H), 5.20 (s, 2H), 5,26 (s, 2H), 6,73 (s, 1 H), 7-3 (s large, IOH); rmn 
+'H (90 MHz, Me2CO): 0.70-1,35 (rn, 14H), 1.77 (s, 3H), 1,80 (s, 
+3 H ) , 2 , 2 7 ( t , J = 7 , 1 Hz,2H),2,69(t,J = 7,0Hz,2H),5,26(~,2H), 
+5.28 (s, 2H), 7,35 (m, IOH), 7,98 (s large, 1H); srn: 556, 421 , 3 13 
+(M, C,4H,,Nz05 = 556). 
+
+I. D. DOLPHIN (Editeur). The porphyrins. Vol. I et 2. Academic 
+Press, New York. 1978. 
+2. J. P. COLLMAN, A. 0. CHONG, G. B. JAMESON, R. T. OAKLEY, 
+E. ROSE, E. R. SCHM~ITOU et J. A. IBERS. J. Am. Chem. Soc. 
+103. 516 (1981). 
+3. A. LECAS, J. LEVISALLES, C. MARIACHER. D. RENKO et E. ROSE. 
+Can. J. Chern. 62. 2054 (1984). 
+4. A. LECAS, J. LEVISALLES, D. RENKO et E. ROSE. Tetrahedron 
+Lett. 25, 1563 (1984). 
+5. M. P. SAMNES and A. R. KATRITZKY. Adv. Heterocycl. Chern. 
+32, 268 (1982). 
+6. L. J . BELLAMY. ' The infrared spectra of complex molecules. Me-
+thuen, London et John Wiley, New York. 1960. 
+7. A. R. KATRITZKY. Physical methods in heterocyclic chemistry. 
+Vol. IV. 1971. p. 302. 
+8. W. R. GUY et R. A. JONES. Austr. J. Chern. 19, 107 (1966). 
+9. G. SCHROLL, R. G. COOKS, P. KLEHNENSEN et S. 0 . LAWESON. 
+Arkiv Kemi, 28, 413 (1968). 
+10. P. BEY et J. P. VEVERT. J. Org. Chern. 45, 3249 (1980). 
+I I. J. BARLUENGA, F. PALACIOS, S. FUSTERO et V. GOTOR. Syn-
+thesis, 200 (1981). 
+12. D. SEEBACH. Chem. Ber. 96, 2723 (1963). 
+13. H. BREDERECK, R. GOMPPER et H. SEIZ. Justus Liebigs Ann. 
+Chern. 504, 178 (1957). 
+14. (a) E. BAMBERGER. Chern. Ber. 51, 606 (1918); ( b ) I. 
+TANASESCU. Bull. Soc. Chirn. Fr. 1718 (1926); 1443 (1926); 
+( c ) P. DE MAYO et S. T. REID. Q. Rev. 15, 393 (1961). 
+15. R. HURLEY et A. TESTA. J. Am. Chern. Soc. 88, 4330 (1966). 
+16. C. KANEKO, S. YAMADA et I. YOKOE. Tetrahedron Lett. 4729 
+(1966). 
+17. E. B. SMITH et H. B. JENSEN. J. Org. Chern. 32. 3330 (1967). 
+18. E. Horn, A. R. KATRITSKY et M. R. NESBIT. Tetrahedron Lett. 
+2028 (1968); 3041 (1967). 
+
+Can. J. Chem. Downloaded from www.nrcresearchpress.com by 87.160.185.190 on 03/27/14 
+
+For personal use only. 
+
+
+
+	
+

@@ -1,0 +1,820 @@
+
+	
+
+		
+
+	
+
+	
+
+Reduction electrochimique de derives carbonyles en milieu non aqueux 
+en presence de EuC13. 6H20 
+
+J A M A ~ DOUCH ET GUY MOUSSET 
+
+Laboratoire d'e'lectrochirnie organique, Unite' Associe'e Centre national de la recherche scientifique, 
+434 Universite' de Clermont 11, 24, Avenue des Landais, BP45, 631 70 -Aubit?re, France 
+
+R e p le 13 mai 1986 
+
+JAMAA DOUCH et GUY MOUSSET. Can. J. Chem. 65, 549 (1987). 
+Dans ce travail, nous avons realist5 1'Ctude de la reduction electrochimique en milieu non aqueux (DMF) de cttones aroma-
+tiques ou a,P CthylCniques aromatiques en prtsence de EuC13.6H20. Une Ctude prkalable par infra-rouge et par voltarnmttrie 
+cyclique a mis en Cvidence l'bchange de ligands H20-DMF et la liberation de trois ions C1-. Un examen dCtaillC des interac-
+tions entre le cation mCtallique et le dCrivt carbony16 met en Cvidence la formation de complexes de type 1-1 ou 1-2 selon 
+le site de complexation. La stCr6ochimie des produits d'hydro-dimkrisation est en accord avec la formation a 1'Clectrode d'un 
+
+\ 
+
+complexe de stoechiomttrie 1 Eu(I1) -2 /C=O. 
+
+JAMAA DOUCH and GUY MOUSSET. Can. J. Chem. 65, 549 (1987). 
+
+The electrochemical reduction of aromatic or a,p ethylenic aromatic ketones in nonaqueous solvent (DMF) has been per-
+
+formed in the presence of EuC13.6H,0. Ligand exchange between DMF and water molecules of the europium salt was first 
+studied. A voltammetric study shows that complexation involving electrogenerated Eu(I1) and ketone may occur at the elec-
+
+\ 
+
+trade interface or in solution, leading respectively to 1 Eu(I1) -2 &gt;C=O and 1 Eu(I1) -1 /C=O stoichiometries. The 
+stereochemistry of hydrodimerization products is studied. 
+
+Le chrome(II) a t t t frtquemment utilisC en chimie organique 
+comme agent rtducteur, par exemple, dans le cas de dCrivCs 
+nitrCs, halogtnts ou carbonylts (1, 2). Sa gineration ( ( i n 
+situ D par voie Clectrochimique en milieu non aqueux et son 
+r61e dans les processus de rtduction ont fait l'objet de quelques 
+travaux (3-7). Le comportement Clectrochimique des cttones 
+aromatiques simples ou substituies a ttC tres CtudiC aussi bien 
+en milieu aqueux (8-10) qu'en milieu organique (1 1-14), Leur 
+rCduction dans le dimethyl formamide (DMF) en prCsence de 
+cations mktalliques et la sttrCostlectivitt de la rtaction d'hy-
+drodimtrisation ont Ctt particulikrement dtvelopptes rtcem-
+ment (15, 16) en relation avec la nature du cation present dans 
+le milieu, son caractkre acide selon Lewis et son pouvoir 
+complexant. 
+Les complexes de l'europium sont tres utilisks en spectros-
+copie (17) ou en synthkse organique (18). Dans le cadre du 
+travail que nous avions rCalist avec les sels de chrome et dans 
+un but comparatif, nous avons consacrC cet article 2 l'ttude de 
+la rtduction Clectrochimique de dtrivts carbonylCs en prtsence 
+dleuropium(II) Clectrogtntre. Les sels d'europium hexahydratCs 
+(en particulier EuC13.6H20) prtsentent deux ttapes cathodi-
+ques sCpartes par un intervalle de potentiel beaucoup plus 
+important que pour le chrome. Ce fait peut &amp;tre avantageux 
+pour 1'Ctude de substrats difficilement rtductibles (aryl alkyl 
+cttones) si on dtsire s'affranchir de processus mettant en cause 
+une rtduction par un film de mttal colloi'dal dtposC sur l'tlec-
+trode (7) ou la formation d'amalgames avec le mercure (19) 
+lorsque 1'Ctape M(II)/M(O) est prCsente. Pour qu'une interac-
+tion entre l'europium(I1) et la fonction carbonyle puisse Ctre 
+observCe, il faut que la premikre Ctape de rtduction de la 
+cttone aromatique se situe entre les potentiels E(Al) de l'ttape 
+Eu(III)/Eu(II) et E(A2) de Eu(II)/Eu(O). Nous nous sommes 
+volontairement limitts, afin de comparer la nature et la sttrto-
+
+chimie des produits formts, a l'ttude de la rtduction des 
+cCtones 1-5 qui avaient fait l'objet de travaux anttrieurs en 
+
+prCsence de sels de chrome ou d'autres mCtaux. 
+
+Resultats experimentaux et discussion 
+I . Rkduction de EuC13-6H20 
+
+La rtduction Clectrochimique d e sels d'europium en milieu 
+aqueux ou non aqueux a Ctt dtcrite dans quelques travaux 
+(20-23). Dans le DMF, les courbes intensitt-potentiel de 
+EuC13.6H20 montrent la prtsence de deux Ctapes d e rkduction 
+EIl2(A1) = -0,250 V et Elj2(A2) = -1,530 V (rkftrence 
+
+Ag/AgI/I-O,1 M DMF) correspondant respectivement a des 
+
+tchanges de 1 et 2 Clectrons par moltcule. En voltammttrie 
+cyclique (fig. 1) on peut noter la prCsence de deux pics cathodi-
+
+ques (Al et A*) et de deux pics anodiques (A;) correspondant A 
+
+la rCoxydation de l'espece formte en A, (AE, = 95 mV) et A; 
+assez ma1 dtfini en relation avec les espkces formCes en A2. I1 
+est gCnCralement admis (24, 25) qu'un amalgame peut se 
+former 2 la seconde ttape de rtduction selon : 
+
+[I] EU" + Hg + 2e--+ Eu (Hg) 
+
+La diffkrence de potentiel (AE, = 1 Volt) existant entre A2 
+et A; laisse penser que ce dernier traduit la rioxydation d'espkces 
+formees par action de l'amalgame sur des impuretts du milieu 
+plut6t que celle de l'amalgame lui-mCme. Nous nous sommes 
+toujours efforcCs dlCviter la formation de Eu(0) et nous n'avons 
+pas chercht 6 tlucider l'origine de A;. 
+La mise en solution dans un solvant donneur S, d'un sel 
+
+hexahydratk, entraine des tchanges de ligands au niveau de la 
+sphkre interne de complexation se traduisant par 1'Cquation 
+
+Pnnled In Canada i lmpnmt au Canada 
+
+Can. J. Chem. Downloaded from www.nrcresearchpress.com by 87.160.185.190 on 03/27/14 
+
+For personal use only. 
+
+
+CAN. J. CHEM. VOL. 65, 1987 
+
+( a ) 
+
+E (3 
+
+A'l 
+
+A' I 
+
+FIG. 1. Reduction voltammCtrique du EuC13.6H20 ( c = 2 X 
+
+M) sur tlectrode h goutte de rnercure stationnaire u = 0,l V s-'. ( a ) : 
+Balayage 0-1,3 V. ( b ) : Balayage 0-2,O V. 
+
+Afin de dCfinir la nature du complexe final, nous avons rCa-
+list une Ctude spectroscopique et voltarnrnCtrique sur EuC13. 
+6H20. La vibration dans l'infra-rouge de la liaison OH de I'eau 
+&lt;&lt; libre w dans le DMF fournit une bande d'absorption prCsen-
+
+tant un maximum situC ti 3545 cm-' alors que les molCcules 
+
+complextes absorbent entre 3100 et 3200 cm-' (26). Le DMF, 
+que nous avons utilisC, a une teneur en eau initiale de 0,15% 
+(dosage par chromatographie en phase vapeur et par infra-
+rouge). L'tchange H20-DMF peut stre traduit par 1'Cquation 
+
+[3] (EU(H~O)~-,CI,)(~-")+ + (6 -n) DMF 
+
+Une courbe d'ktalonnage rCalisCe pour des solutions conte-
+nant des quantitCs d'eau connues permet de montrer que les six 
+molCcules d'eau de EuCl3-6H2O sont libCrtes dans le milieu 
+lors de la mise en solution dans le DMF (fig. 2). Ceci implique 
+que dans 1'Cquation [3] nous ayons n = 0 donc que la mise en 
+solution libkre Cgalement de la sphkre de complexation trois 
+ions C1-. 
+L'oxydation de l'eau libCrCe par la reaction d'Cchange, ou 
+contenue initialement dans le solvant, est repoussCe vers des 
+valeurs de potentiel plus anodiques en raison du phCnomkne de 
+solvatation par le DMF. I1 est alors possible comme dans le cas 
+du chrome(II1) (27) d'enregistrer la courbe d'oxydation des 
+ions C1-libres (fig. 3) et d'en dCduire la quantitt prCsente en 
+
+solution gr2ce B un ttalonnage rCalist avec LiCl (kdCDMF) = 2,9 
+x ~O -~M L -' ) 
+(28). La courbe voltammCtrique fournie par 
+EuC13.6H20 a une morphologie tout ?I fait semblable i celles 
+obtenues en absence d'ions E U ~+ , 
+ce qui laisse penser que ces 
+derniers ne perturbent pas le systkme. Elle permet effective-
+ment de mettre en evidence la libCration de trois ions C1-. 
+
+L'ensemble de ces rtsultats nous semble apporter des argu-
+ments en faveur de 1'Cquation d'tchange : 
+
+DMF 
+[4] E U ( H ~O ) ~C ~~ 
+
+-EU(DMF)~~+ + 6H20 + 3C1-
+
+2. Re'duction de ce'tones aromatiques en prksence de 
+
+EuC13.6Hz0 
+(a) ModiJication du processus d'e'lectrore'duction 
+Lorsqu'on ajoute des quantitts croissantes d'une cCtone ac-
+
+tivCe 1-5 i une solution de chlorure d'europium on constate : 
+
+(i) que la prCsence de cCtone ne modifie pratiquement pas la 
+partie cathodique du premier pic de rtduction (A,) de l'euro-
+pium(II1) alors que sa partie anodique disparait progressive-
+ment. De plus, il apparait une nouvelle Ctape (B) irrtversible 
+
+situCe i un potentiel E(B) moins cathodique que celui du 
+
+premier pic de reduction de la cCtone en son radical anion (C,) 
+(fig. 4) (tableau 1); et (ii) que I'intensitC de B croit avec la 
+concentration en cttone et devient maximum pour un rapport 
+de concentrations : 
+
+Jusqu'i 1'CquimolCcularit~ (m = 1) les voltammogrammes ne 
+prtsentent que deux pics (Al et B). Au-delh, ceux correspon-
+
+dant B la rtduction de la cCtone (C1 et CZ) apparaissent. On 
+peut constater Cgalement que la seconde Ctape (A2) relative B la 
+reduction de Eu(I1) en Eu(0) disparait dks la premikre addition 
+de &amp;tone. Des additions successives de chlorure d'europium 2 
+une solution de cCtone entrainent parallklement l'apparition 
+de B, une diminution des pics de reduction C1 et C2 du dtrivk 
+carbony16 ainsi que des pics correspondant ?I la rCoxydation du 
+
+\ 
+
+radical anion/C=07 
+(C;) ou de Eu(I1) en Eu(II1) (A;). Le 
+potentiel du pic B est nettement moins cathodique que celui 
+correspondant a la formation de l'europium mktallique. L'en-
+semble des faits expkrimentaux suggkre l'hypothkse, dtjk for-
+Can. J. Chem. Downloaded from www.nrcresearchpress.com by 87.160.185.190 on 03/27/14 
+
+For personal use only. 
+
+
+DOUCH ET MOUSSET 
+
+Courbe % H 0 ajoute 
+
+0,50 
+0,75 
+
+l , o o 
+
+FIG. 2. Dosage de I'eau dans le DMF par spectroscopic infra-rouge. (-) (1) 9 (6) courbes d'etalonnage. (. . . ) (7) DMF + EuC13 -6H20 (5 x 
+
+M ) . Les expkriences sont rCalisCes avec une cellule de compensation contenant du DMF. 
+
+FIG. 3. Oxydation des ions C1-sur electrode de platine pour diffkrentes concentrations en LiCl (-) (a) : 0 ; (b) : 2 X 
+M ; (c) : 4 x 
+M ; ( d ) : 6 X 
+M ; ( e ) : 8 X 
+M . (---) : oxydation de EuC13.6H20 2 x 
+11.1. u = 0 , l V s-I. Electrolyte TBA BF4 0 , 2 M (DMF). 
+Electrode de rkfkrence Ag/AgI/I-( 0 , l M DMF). 
+
+multe pour d'autres systkmes (4, 5), que l'espkce rtduite en B 
+l'ion ytterbium(I1). Dans cet exemple le couple yb3+/yb2+ se 
+rtsulte de l'association de molCcules de cCtone avec des ions 
+
+situe i un potentiel beaucoup plus cathodique que celui de 
+
+divalents Eu(I1). 
+Eu3+/Eu2+. 
+En absence de sel mttallique, des additions d'eau ou une 
+modification de la nature de l'tlectrolyte support ne provo-
+(b) Stoechiome'trie du complexe et site de cornplexatior~ 
+quent pas l'apparition de nouveaux pics de rtduction du dtrivt 
+La figure 5 montre l'tvolution d e l'intensite du pic B pour 
+carbonylt. Un travail rtcent (29) fait ttat d'une possibilitt de 
+une solution d'europium(II1) 6 laquelle on ajoute des quantitts 
+rtduction indirecte de la benzophtnone et du benzaldthyde par 
+croissantes de benzophtnone. La proximitt de la premikre 
+Can. J. Chem. Downloaded from www.nrcresearchpress.com by 87.160.185.190 on 03/27/14 
+
+For personal use only. 
+
+
+CAN. J . CHEM. VOL. 65, 1987 
+
+FIG. 4. RCduction de EuC13.6H20 (c = 2 x 10e3M) en prCsence de benzophCnone sur Clectrode a goutte stationnaire de mercure. 
+(BenzophCnone) : ( I ) c = 0; (2) c = 2 X lop3 M ; (3) c = 4 X lop3 M; (4) c = 7 X 
+M. 
+
+TABLEAU 1. Potentiels de rCduction de cCtones aromatiques en prC-
+
+sence de EuCI3 . 6H20 
+
+CCtone (4 x 
+
+M) 
+
+Ep(B) Ep(C,) AE = EP(C,) -Ep(B) 
+
++ EuC1, . 6H20 m (Volt) (Volt) 
+
+(Volt) 
+
+BenzophCnone 
+2 -],I5 
+-1,25 
+0,lO 
+1 -],I5 
+-1,25 
+0,lO 
+FluorCnone 
+2 -0,65 
+-0,77 
+0,12 
+1 -0,65 -0,77 
+0,12 
+
+Ctape de rkduction de la cCtone rend dilicate, en polarographie, 
+la mesure de l'intensitk de diffusion de la vague B, aussi avons 
+nous choisi comme pour les sels de chrome (4) d'utiliser la 
+voltammCtrie cyclique qui permet de mesurer plus facilement 
+le courant du pic (i,). On peut constater une augmentation 
+rapide de i, jusqu'a ce que le rapport des concentrations rn 
+atteigne la valeur 2, contrairement ? I ce que l'on observe en 
+prCsence d'ions C?+ O~ le maximum d'intensitk est atteint 
+pour rn = 1. La stabilisation du courant de pic observCe pour 
+m = 2 laisse supposer la formation d'un complexe europium-
+cCtone de stoechiomCtrie 1-2. Cependant I'intensitC du pic B 
+pour rn = 2 n'est pas exactement le double de celle observCe 
+pour rn = 1. De plus, la reapparition des pics de reduction de 
+
+la cCtone dks que rn est supCrieur a 1 indique que la formation 
+
+du complexe 1-2 n'est pas complkte pour ces concentrations. 
+Pour expliquer ce phCnomkne nous envisageons l'hypothkse 
+d'une destruction partielle du sel d'europium par hydrolyse en 
+raison du milieu rendu fortement basique au voisinage de 
+I'Clectrode par 1'excCs de radicaux anions, ce que nous pour-
+rons vtrifier lors des Clectrolyses prkparatives. Nous avons de 
+plus rCalis6 une Ctude des variations de i, (B) en fonction de la 
+concentration en mClange sel d'europium -cetone pour une 
+
+mCme valeur de rn (fig. 6). L'intensitC du pic B augmente 
+proportionnellement 2 la concentration e n mClange lorsque 
+celle-ci est faible puis tend vers une limite correspondant aux 
+concentrations de 2 X 
+M en EuC13-6H20 et 2 x 
+M 
+en benzophCnone si rn = 1 et de 2 X lop3 M en EuC13.6H20 
+et 4 X I O -~M en benzophknone si rn = 2. Cette limitation 
+peut Ctre due a un phenomkne d'adsorption des produits de 
+
+rkaction (pinacol ou pinacolate) (30) a la surface de la goutte 
+
+de mercure. 
+Afin de dtterminer si la complexation peut intewenir avec 
+l'europium(I1) en solution, nous avons rkalisC une reduction 
+partielle (0,8 F mol-') du sel mCtallique au potentiel de -0,60 V 
+prkalablement l'introduction de la cCtone. L'tvolution de la 
+solution est suivie par voltammCtrie sur electrode tournante de 
+
+carbone vitreux. La benzophCnone 1 est ajoutCe dks 1'arrCt de 
+
+1'Clectrolyse et des voltammCtries de contr6le sont rCalisCes 2 
+divers intervalles de temps sur la mCme solution. Pour un 
+rapport de concentrations rn = 0,5, on observe que le pic B 
+dCfini prCcCdemment et attribuC a la rCduction du complexe 
+Eu(I1) -cCtone est accompagnC d'une ttape supplCmentaire 
+(Br) situCe a un potentiel moins cathodique que B (fig. 7). Pour 
+une mCme concentration initiale en EuC13. 6H20 (4 x 
+M) 
+
+I'intensitC de B' comparCe t i celle de B est fonction de la 
+
+concentration en benzophCnone ajoutke. Ainsi, pour une faible 
+valeur (10-3M) c'est le pic B' qui est prCpondtrant; par 
+contre, si la concentration augmente, l'intensitt de B' diminue 
+par rapport 2 celle de B. On peut constater Cgalement que pour 
+des conditions donnCes, l'intensite de Br diminue en fonction 
+du temps au profit de B qui finalement subsiste seul. L'inten-
+
+site finale est alors Cgale a iP(B1) + i,(B) initiales. I1 est connu 
+
+que les sels d'europium peuvent donner des complexes de 
+stoechiomCtrie 1 -1 ou 1-2 (3 1, 32), ces derniers Ctant les plus 
+stables. Lorsque la concentration en cCtone est faible comparCe 
+a celle en europium, le complexe 1-1 est favorisC. Si la 
+concentration en dCrivC carbony16 est importante, c'est le com-
+plexe 1-2 qui devient prCpondCrant. La modification du pic B' 
+avec le temps traduit 1'Cvolution du complexe 1-1. 
+Si la benzophhone et le sel d'europium sont introduits 
+simultankment, le pic B r n'est pas observC. Les coefficients de 
+diffusion respectifs des deux espkces Ctant DEu]+ = 4,05 
+Can. J. Chem. Downloaded from www.nrcresearchpress.com by 87.160.185.190 on 03/27/14 
+
+For personal use only. 
+
+
+DOUCH ET MOUSSET 
+
+553 
+
+FIG. 5. Evolution de l'intensitt du pic B en fonction des concen-
+trations en EuC13.6H20 ou en benzophtnone. (a) c = 2 x 
+M en 
+EuC13.6Hz0; (b) c = 4 x 
+M en benzophtnone. 
+
+1 0 ~c m ~s -' 
+et D,c=o = 8,l X 106cm2s-', on peut penser 
+qu'8 1'Clectrode les conditions de concentration respectives des 
+deux espkces seront toujours plus favorables B la formation du 
+complexe 1-2. 
+Aprks 1'Clectrolyse partielle de l'europium(III) h -0,6 V, la 
+comparaison des intensites de pic obtenues en voltammCtrie 
+
+Pic B' 
+Pic B 
+
+FIG. 6. Evolution de l'intensitt du pic B en fonction de la concen-
+tration du mtlange EuC13 .6H20-benzophtnone pour m = 1. 
+
+cyclique sur goutte stationnaire de mercure donne la valeur de 
+3,5 pour le rapport 
+
+lorsque la cttone est introduite seulement a 1'arrCt de 1'Clectro-
+lyse. S'il y a introduction simultanie de la cttone et du sel 
+d'europium dans la solution (sans electrolyse prkalable) on 
+obtient q = 1,6. Les mCmes experiences rtalistes dans le cas 
+de CrC13.6H20 conduisent respectivement aux valeurs q = 
+1,77 et q = 1,75. Comme l'ont prouvC Sopher et Utley (5), ce 
+rCsultat montre que l'intermkdiaire clef dans le cas du chrome 
+est Cr(II1). Par contre, dans le cas de l'europium, le rapport 
+des intensit&amp; obtenu aprks Clectrolyse prtalable de Eu(II1) in-
+dique que la complexation peut Cgalement intervenir avec Eu(I1) 
+en solution. 
+
+3 . ~t u d e 
+des produits de rdduction 
+Nous avons rCalisC des macroClectrolyses au potentiel du pic 
+B pour les cCtones 1, 2, 3 et 5 afin de dCterminer la nature et 
+Cventuellement la stCrtochimie des produits formCs. Nous dis-
+tinguerons deux cas selon la valeur de rn : 
+(i) Cas ou m = 1 
+Les cCtones 1, 2 et 3 donnent essentiellement les glycols par 
+duplication. Pour I'acCtophCnone 3, un seul diastCrCoisomere 
+est obtenu; il s'agit du diol rackmique. Sa stCrCochimie a Ct C 
+
+attribuCe a partir de ses constantes physiques et de ses carac-
+
+tiristiques spectroscopiques (rmn 'H des groupements mtthyle) 
+(33-35). Avec la benzalacCtophCnone 5, la rCduction ne four-
+nit pas 1 ' ~ 
+dicetone attendue mais un cCtol. La encore, la 
+rtaction est stCrCospCcifique et conduit au cttol chtlatt cis 
+(tableau 2). Sa stCrtochimie a Ct C dCfinie par comparaison de 
+ses constantes physiques et de sa courbe voltammCtrique avec 
+celle d'un tchantillon authentique (13). La rmn 13C montre un 
+seul signal )C=O 2 204,9 ppm (CDC13). 
+
+Can. J. Chem. Downloaded from www.nrcresearchpress.com by 87.160.185.190 on 03/27/14 
+
+For personal use only. 
+
+
+CAN. J. CHEM. VOL. 65, 1987 
+
+FIG. 7. Voltammogrammes obtenus aprks addition de benzopht-
+none 21 une solution de EuC13.6H20 (c = 4 X 
+M) partiellement 
+
+electrolyske au potentiel de -0,6 V, 0,8 F mol-', u = 0,l V s-'. Evo-
+
+lution en fonction du temps. (a) : (benzophenone) = 
+
+M; (-) : to, 
+
+( ---) : to + 60min; (b): (benzophknone) = 2 X 10-3M; (-) : to, 
+(---) : to + 30 min; (c) : (benzophknone) = 4 X 
+
+M; (-) : to, 
+
+(---): to + 20min. 
+
+En presence de sel de chrome, la rkduction de I'acCtophCnone 
+est rendue delicate en raison de la proximitC de 1'Ctape Cr(II)/ 
+Cr(0). Nous avons rCalis6 une Clectrolyse au potentiel de -1,04 V 
+(Ag/AgI/IP 0 , l M DMF). Elle nous a fourni les deux glycols 
+diastCrCoisomkres dans un rapport mkso-50%/dl-50% assez 
+voisin de celui cite dans la littCrature (1 6). Avec la benzalack-
+tophinone, bien que le cCtol trans s7isomCrise dans CDC13 
+
+(15), deux pics sont obtenus en rmn 13c B 204,9 et 205,8 ppm. 
+
+(ii) Cas ou m = 2 
+Dans ces conditions, si des voltamm~tries de contrble sont 
+rtalisCes en cours dlClectrolyse, on peut constater que l'inten-
+sit6 du pic de rCduction A, de Eu(II1) dCcroit rapidement pour 
+ne plus reprksenter qu'environ 15% de la valeur initiale aprks 
+
+consommation de 1 F mol-'. Cette diminution qui peut corres-
+
+pondre a une riduction rapide de Eu(II1) en Eu(I1) (5, 15) est 
+accompagnte d'une diminution importante du pic du complexe 
+(40% de la valeur initiale) alors que les pics de riduction de la 
+&amp;tone libre ne sont pratiquement pas affectb. Dans le cas de 
+
+la fluorCnone, par exemple, une coloration rouge se dkeloppe 
+
+Cgalement i la surface de 17Clectrode de travail. Parallklement 
+
+ces modifications, on note l'apparition d'un prCcipitC dans le 
+milieu. Aprks filtration, celui-ci se rCvkle avoir les caractiristi-
+ques d'un produit minCral amorphe ne donnant pas de diffrac-
+togramme de rayons X. Les courbes therrnogravimCtriques 
+mettent en Cvidence une premikre perte de masse dks %"c 
+suivie d'une seconde ? i 
+850°C. Nous n'avons pas fait de dCter-
+minations quantitatives en raison de difficultis rencontrCes lors 
+de la pesCe initiale des Cchantillons (instabilitk due vraisembla-
+
+blement 5 une absorption d'eau ou de COz). Aprks chauffage i 
+
+850°C sous vide, le diffractogramme montre la prCsence de 
+Eu2O3 SOUS ses deux formes cristallines (cubique : 3,ld-2,7 1-
+2,56-2,31-2,20-2,13-1,92-1,80-1,76-1,70-1,63 
+A; mono-
+
+clinique : 3,18-3,04-2,98-2,89 A). Le produit recueilli en 
+
+cours d'tlectrolvse corres~ond certainement ?I la formation d'un 
+hydroxy carbonate rCsultant de la fixation de gaz carbonique 
+par l'hydroxyde d'europium (36). La premikre perte de masse 
+est attribuCe ?I un dCpart d'eau, la seconde celui de COz. La 
+forte coloration de la solution, dans le cas de la fluorknone, 
+indique la formation du radical-anion ou du dianion. Ceci peut 
+
+rCsulter soit de la presence 2 1'Clectrode de molCcules de cCtone 
+non complexCes (excCs par rapport 2 Eu(II)), soit d'une r6ac-
+
+tion de rCtropinacolisation rapide dans le cas ou l'europium(I1) 
+est en dCfaut (m = 2). L'obtention des alcools (tableau 2) dans 
+ces conditions serait en accord avec la seconde hypothkse. 
+La protonation, par les molCcules d'eau, des formes rCduites 
+contribue a augmenter la basicit6 du milieu provoquant ainsi 
+l'hydrolyse du sel d'europium : 
+
+air 
+
+Eu3+ + 30H-+ Eu(OH)~ ----t hydroxycarbonate 
+
+Ce ph6nomkne peut expliquer le fait que 1'intensitC maxi-
+mum de i, (B) pour un rapport m = 2 ne soit jamais le double 
+de celle obtenue pour m = 1 (fig. 4). Seules les Clectrolyses 
+
+priparatives des composts 1 et 2 ont 6tC rCalisCes dans ces 
+
+conditions. Elles fournissent beaucoup de cCtone de dCpart non 
+rCduite et une faible quantitC d'alcool resultant de la rCaction 
+de rCtropinacolisation. 
+L'Ctude stCrCochimique de la duplication de 1'acCtophCnone 
+a dCja donnC lieu ?I des travaux (37, 38) mettant en tvidence 
+l'influence de la nature de 1'Clectrolyte et des paires d'ions 
+susceptibles de se former. En prksence de sels d'europium, il 
+parait Ctabli que le complexe form6 possede une stoechiomC-
+Can. J. Chem. Downloaded from www.nrcresearchpress.com by 87.160.185.190 on 03/27/14 
+
+For personal use only. 
+
+
+DOUCH ET MOUSSET 
+
+555 
+
+TABLEAU 2. ElectrorCduction de cttones arornatiques en prCsence de EuC13.6H20 ou de CrC13 .6H20. StCrCochimie des produits de dirntrisation 
+
+Potentiel 
+impost 
+StCrCochimie 
+Ag/AgI/I-
+Nombre de 
+Produit 
+Rendement en prtsence de 
+Produits d'tlectrolyse en 
+CCtones 
+m 
+
+(v) 
+
+F rnol-' 
+dlClectrolyse 
+
+(%) 
+
+sel d'europiurn prtsence de sel de chrome (rtf.) 
+
+BenzophCnone 
+1 
+-1,17 
+2 
+Alcool 
+Diol 
+
+Alcool 10% 
+Diol70% 
+
+BenzophCnone 
+2 
+-1,20 
+1 
+Alcool 
+15 
+
+-
+
+-
+
+Fluortnone 
+1 
+-0,67 
+1,5 
+Diol 
+-
+Diol 38% 
+Alcool48% 
+
+Fluorinone 
+2 
+-0,75 
+1 
+Alcool 
+14 
+-
+
+-
+
+AcCtophCnone 
+1 
+-1,40 
+1 3 
+Diol 
+dl 100% 
+
+{"id CCtone 20% 80% {:e' i !' ;". % (*I 
+
+BenzalacCtophCnone 
+1 
+-0,80 
+1,6 
+CCtol 
+94 
+CCtone saturCe 4% 
+cis loo% 
+{Dicttone 2 0 9 
+trans 45% 
+CCtols 59% cis 14% 
+(15) 
+
+*Risultats personnels. 
+
+trie prCfCrentielle correspondant ii 1 Eu(I1) -2 &amp;tones. Si on 
+admet comme Bewick et Brown (37) que la configuration privi-
+lCgiCe est celle oh l'encombrement sttrique entre les noyaux 
+aromatiques est minimum : 
+
+La dirntrisation conduit dans ces conditions au diastCrCoiso-
+mkre racCmique (dl). En prksence de chrome, le complexe 
+de stoechiomCtrie 1 -1 peut presenter les deux configurations 
+
+qui conduisent aprks duplication au mClange mkso + rackrnique. 
+
+Une Clectrolyse au potentiel du pic B de la benzalacCtophC-
+
+none 5 ( E , = -0,80V) avec m = 1 conduit a la formation 
+
+d'un seul produit. La comparaison de sa tempCrature de fusion, 
+de son spectre ir et de son voltammogramme avec les rksultats 
+obtenus pour des Cchantillons authentiques (13) montre qu'il 
+s'agit du cCtol cis. La m&amp;me reaction effectuCe en prCsence de 
+sel de chrome conduit aux isomkres cis et trans (15). A l'issue 
+du transfert electronique intervenant au potentiel du pic B, 
+l'addition nuclCophile d'un carbanion sur l'une des fonctions 
+carbonyles conduit au cCtol cis. 
+
+En prCsence de sel de chrome, les deux structures A et B 
+sont possibles et conduisent aux isomkres cis et trans. 
+
+Une etude semblable effectuCe sur la benzalacetone 4 ne nous a 
+pas donnC de rCsultats exploitables. Les Clectrolyses prCpara-
+tives permettent d'isoler des produits prCsentant des fonctions 
+alcool et carbonyle sans qu'il soit possible de les purifier. I1 est 
+connu (39) que dans ce cas les cttols sont instables et sujets a 
+une rCaction d'ouverture avec rCgCnCration de la dicCtone. 
+
+Partie experimentale 
+
+I . Techniques e'lectrochimiques 
+
+Le dimethylformamide (DMF) est distill6 sous pression rCduite 
+aprks avoir Ct C sCcht sur carbonate de sodium. L'Clectrolyte indif-
+
+fCrent est le perchlorate de tCtrabutylamrnoniurn i la concentration de 
+0, I M. Les tensions sont indiqutes par rapport i l'tlectrode de rtft-
+rence Ag/AgI/I-(Bu4NI 0,l M dans le DMF). L'tlectrode de travail 
+est une goutte de mercure stationnaire. Toutes les mesures ont Ct C 
+rCalisCes a la tempkrature ambiante aprks dCsaCration par un courant 
+d'azote. 
+L'itude voltarnm&amp;trique a Ct C faite avec un ensemble Tacussel 
+comprenant un potentiostat type PRT 20-2X Cquipe d'un gCnCrateur 
+de signaux triangulaires et d'un arnplificateur diffkrentiel type ADTP. 
+Les dkterminations coulomttriques ont Ctt rkalistes dans une cel-
+lule contenant une nappe de mercure agitte pendant toute la durte de 
+1'Clectrolyse. L'installation comprend un potentiostat PRT 100 et un 
+intkgrateur Tacussel IG5 N. 
+
+2 . Electrolyses pr6paratives. Caracte'ristiques des produits 
+Les tlectrolyses prkparatives ont CtC effectutes dans une cellule i 
+
+trois cornpartirnents. L'Clectrode auxiliaire est constitute dans ce cas 
+
+Can. J. Chem. Downloaded from www.nrcresearchpress.com by 87.160.185.190 on 03/27/14 
+
+For personal use only. 
+
+
+556 
+
+CAN. J. CHEM. VOL. 65, 1987 
+
+d'une plaque de graphite. Aprks Clectrolyse, le catholyte est repris par 
+l'eau et les produits extraits a 1'Cther. Ces demiers sont identifies par 
+comparaison de leur point de fusion et de leurs caractkristiques spec-
+troscopiques avec les donnCes de la litttrature : benzopinacol ( F = 
+182-184°C); benzhydrol ( F = 69-70°C); fluoropinacol ( F = 186-
+187°C); fluorCno1 ( F = 154-155°C); diphCnyl-2,3 butane diol-2,3 
+(dl) ( F = 126°C); triphCny1-1,3,4 benzoyl-2 hydroxy-1 cyclopentane 
+cis ( F = 196"C), trans ( F = 2 10°C). 
+
+Les diffractogrammes ont Ct C rCalists a l'aide d'un appareil Sie-
+
+mens composC d'un goniomktre de type 501 et d'un gtnCrateur de 
+
+rayons X Kristalloplex 710. La radiation K, du cuivre (A = 1,5405 A) 
+
+a Ct C utilisCe. L'analyse thermogravimCtrique a Ct C faite avec une ther-
+mobalance Ugine Eyraud type 60 B commandCe par un appareil de 
+rkgulation et de programmation de la temperature RT 64. Les spectres 
+infra-rouge ont Ct C enregistrCs sur un appareil Perkin Elmer strie 18 
+avec des cellules en fluorure de calcium pour le dosage de I'eau. 
+
+Remerciements 
+Les auteurs remercient le CNRS (U.A. 434) pour son aide 
+financibre grdce B laquelle la rkalisation d e ce travail a CtC 
+
+possible. 
+
+1. R. HANSON. Synthesis, l(1974). 
+2. T. J. Ho et G. A. OLAH. Synthesis, 808 (1976); 815 (1976). 
+3. P. POUILLEN, M. PERRIN et P. MARTINET. C.R. Seances Acad. 
+Sci. SCr. C, 284, 955 (1977). 
+4. M. PERRIN, P. POUILLEN, G. MOUSSET et P. MARTINET. Tetra-
+hedron, 36, 221 (1980). 
+5. D. W. SOPHER et J. H. P. UTLEY. J. Chem. Soc. Perkin Trans. 
+2, 1361 (1984). 
+6. F. FOURNIER, J. BERTHELOT et Y. L. PASCAL. C.R. Acad. Sci. 
+SCr. 11, 294, 849 (1982). 
+7. F. FOURNIER, J. BERTHELOT et Y. L. PASCAL. Tetrahedron, 40, 
+339 (1984). 
+8. E. LAVIRON. Collect. Czech. Chem. Commun. 30,4219 (1965). 
+9. P. MARTINET et J. SIMONET. Bull. Soc. Chim. Fr. 3533 (1967). 
+10. P. ZUMAN, 0 . EXNER, R. F. BEKKER et W. T. NAVTA. Collect. 
+Czech. Chem. Commun. 33, 3123 (1968). 
+11. M. BAIZER. Organic electrochemistry: an introduction and a 
+guide. Dekker, New York. 1973. p. 347 et rCfCrences cittes. 
+12. L. NADJO et J. M. SAVEANT. J. Electroanal. Chem. 30, 41 
+(1971). 
+13. J. SIMONET et A. ALBISSON. Bull. Soc. Chim. Fr. 1125 (1971). 
+14. C. P. ANDRIEUX et J. M. SAVEANT. Bull. Soc. Chim. Fr. 2090 
+(1973). 
+
+15. F. FOURNIER, J. BERTHELOT et J. J. BASSELIER. Tetrahedron, 
+41, 5667 (1985). 
+16. F. FOURNIER et M. FOURNIER. Can. J. Chem. 64, 881 (1986). 
+17. A. F. COCKERILL, G. L. 0 . DAVIES, R. C . HARDEN et D. M. 
+RACKMAN. Chem. Rev. 73,553 (1973). 
+
+18. H. SCHUMANN. Angew. Chem. Int. Ed. Engl. 23, 474 (1984). 
+19. E. N. WISE et E. J. COCKAL. Anal. Chem. 32, 1417 (1960). 
+20. 0 . IKEDA, K. TSUURA et H. TAMURA. Bull. Chem. Soc. Jpn. 54, 
+
+661 (1981). 
+21. F. SANZ, E. VALLES et J. VIRGILI. An. Quim. Ser. A, 79, 33 
+(1983). 
+22. T. RABOCKAI et I. JORDAN. Anal. Lett. 7, 647 (1974). 
+23. A. ALBALAT, E. VALLES, F. SANZ et J. VIRGILI. Electrochim. 
+Acta, 30, 653 (1985). 
+24. M. KOHLTHOF et J. F. COETZEE. J. Am. Chem. Soc. 79, 1852 
+(1957). 
+25. A. LEVEQUE et R. ROSSET. Bull. Soc. Chim. Fr. 11, 4205 
+(1971). 
+26. A. B. F. DUNCAN, F. A. MATSEN, W. GORDY, C. SANDORFY, 
+R. N. JONES et W. WEST. Chemical application of spectroscopy. 
+Interscience, New York. 1956. 
+27. M. PERRIN et P. MARTINET. C.R. Seances Acad. Sci. SCr. C , 
+285, 51 1 (1977). 
+28. J. E:.PRuE et P. H. SHERINGSON. Trans. Faraday Soc. 57, 1795 
+(1961). 
+29. Yu P. SKOBOCHINA et Z. N. TIMOFEEVA. SOV. Electrochem. 
+(Engl. Transl.), 16, 1208 (1980). 
+30. E. LAVIRON. Bull. Soc. Chim. Fr. 4, 1637 (1970). 
+31. 0 . M. PARKASH, S. K. BHASIN et D. S. JAIN. J. Less-Common 
+Met. 60, 179 (1978). 
+32. M. SHIVARE et M. SINGH. Ind. J. Chem. Sect. A, 23, 458 
+(1984). 
+33. J. H. STOCKER, D. H. KERN et R. M. JENEVEIN. J. Org. Chem. 
+33, 412 (1968). 
+34. J. H. STOCKER et R. M. JENEVEIN. J. Org. Chem. 33, 2145 
+(1968). 
+35. J. H. STOCKER et R. M . JENEVEIN. J. Org. Chem. 34, 2807 
+(1969). 
+36. R. C. VICKERY. Nature, 164, 787 (1949). 
+37. A. BEWICK et D. J. BROWN. J. Chem. Soc. Perkin Trans. 2, 9 9 
+(1977). 
+38. A. BEWCK et H. P. CLEGHORN. J. Chem. Soc. Perkin Trans. 2, 
+1410 (1973). 
+39. J. KOSSANYI. Bull. Soc. Chim. Fr. 3, 722 (1965). 
+
+Can. J. Chem. Downloaded from www.nrcresearchpress.com by 87.160.185.190 on 03/27/14 
+
+For personal use only. 
+
+
+
+	
+

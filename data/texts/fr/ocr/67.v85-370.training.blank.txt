@@ -1,0 +1,1277 @@
+
+	
+
+		
+
+	
+
+	
+
+~t u d e cinetique de l'ouverture thermique de la liaison C-C d'aziridines et 
+d'epoxydes dipbles-1'3 potentiels: I. Methode d'etude experimentale 
+
+AICHA DERDOUR ET FERNAND TEXIER 
+
+Laboratoire de synthLse organique, ONRS 7581033, Institut de Chimie, Universitt d'Oran, Es-Se'nia, Alge'rie 
+R e ~u le 25 septembre 1984 
+
+1 
+
+AICHA DERDOUR et FERNAND TEXIER. Can. J. Chem. 63, 2245 (1985). 
+
+I 
+
+Les cyano-2 aziridines 1, les alcoxy carbonyl-2 aziridines 2, les aroyl-2 aziridines 3 et les dicyano-2,2 aryl-3 oxiranes 4 
+s'ouvrent thermiquement entre les deux carbones pour donner respectivement un ylure dlazomCthine et un ylure de carbonyle. 
+La rkactibh de ces ylures d'azomkthine avec I'ACDM (acCtyl8ne dicarboxylate de mCthyle) conduit ?i une pyrroline-3 qui 
+Cvolue, selon Ies substituants, en pyrroline-2 ou en pyrrole. L'addition des ylures de carbonyle donne des dihydrofuranes. Le 
+traitemerit cinttique de l'addition de ces hCtCrocycles 1 ?i 4 ?i I'ACDM permet la dktermination de la constante de vitesse 
+d'ouverture de la liaison C-C (k,). La rkaction est suivie ii l'aide de I'ir dans le cas des aziridines 1 et de la hplc dans tous 
+
+les autres cas. La constante expirimentale de vitesse (k,) est toujours d'ordre 1 par rapport ?i I'hCtCrocycle. Dans le cas des 
+N-cyclohexyl cyano-2 alkyl-3 aziridines et de la N-cyclohexyl carbomtthoxy-2 phknyl-3 aziridine, k, , depend de la concen-
+tration en ACDM, ce qui implique que la cycloaddition de l'ylure d'azomCthine et sa refermeture en aziridine ont des vitesses 
+
+comparables. Dans les autres cas, k. , est indtpendante de la concentration en ACDM, ce qui correspond ii une lente 
+
+transformation de I'hCtCrocycle en dip6le-1,3 suivie d'une cycloaddition rapide, k. , = k,. 
+
+A~CHA DERDOUR and FERNAND TEXIER. Can. J. Chem. 63, 2245 (1985). 
+The thermolysis of the 2-cyanoaziridines (I), 2-alkoxycarbonylaziridines (2), 2-arylaziridines (3), and 2,2-dicyano-3-
+aryloxiranes (4) leads to a rupture of the carbon-carboh bond yielding an azomethine ylide and the ylide of a carbonyl. The 
+reaction of these ylides of azomethine with methyl acetylene dicarboxylate (MADC) leads to the formation of a 3-pyroline, 
+which is transformed, according to the substituants, to a 2-pyrroline or to pyrrole. The addition of the ylides of cafbonyl leads 
+to the formation of dihydrofurans. 'Through the kinetic treatment of the addition of these heterocyclic compounds (1 to 4) to 
+MADC, it is possible to determine the rate constants for the opening of the C-C bond (k,). In the case of the aziridines 1, 
+the rates have been determined by ir while hplc has been used in the other cases. Relative to the heterocyclic compounds, the 
+order of the experimental rate constants (k,) is always equal to one. In the cases of the N-cyclohexyl-2-cyano-3-alkylaziridines 
+and of the N-cyclohexyl-2-carbomethoxy-3-phenylaziridine, k,, varies with the concentration of MADC and this implies that 
+the rate constants for the cycloaddition of the ylide of azomethine and its reclosing to give aziridine are similar. In the other 
+cases, k. , is independent of the concentration of MADC and this implies that the heterocyclic compounds are slowly 
+transformed into 1,3-dipoles, followed by a rapid cycloaddition, k, , = kl. 
+[Journal translation] 
+
+Introduction 
+
+R 
+v R 
+w R 
+v 
+h P X P ~~C N 
+
+Les aziridines et Cpoxydes convenablement substituCs s'ou-
+
+I 
+
+vrent therrniquement entre les deux carbones (1, 2). Les 
+
+H N ' "R' H N R ' 
+
+H ' N H 
+
+H 0 CN 
+
+dip6les-1,3 ainsi forrnCs ne sont pas isolb, mais ils peuvent 
+
+I 
+
+R 
+
+I 
+
+R 
+
+I 
+
+Ctre additionnts t i differents dipolarophiles perrnettant ainsi la 
+
+R 
+
+synthbse d'hCttrocycles h cinq chainons variCs (schCma 1). 
+
+1 
+2 
+3 
+4 
+Malgrt la diversit6 des rkactions de cycloaddition d'ylures 
+d'azomtthine et d'ylures de carbonyle obtenus par therrnolyse 
+
+du petit cycle h trois chainons correspondant, 1'Ctude cinttique 
+de ces rCactions n'a Ct C que partiellement abordke (3, 4) et le 
+
+but recherchC par ces auteurs n'Ctait pas 1'Ctude des facteurs qui 
+favorisent l'ouverture Clectrocyclique. 
+La stCrCochimie de l'ouverture de ces petits cycles en 
+dip61es-1,3 est bien expliquCe par les rkgles de Woodward et 
+
+Hoffmann (5). Par contre, les facteurs qui favorisent ces rCac-
+
+tions ne semblent pas avoir Ct C clairement dCgagCs malgrC 
+
+quelques tentatives faites par Epiotis (6) et Carpenter (7); rt-
+
+cernment, l'un d'entre nous a tent6 dYinterprCter la rCactivitC 
+
+pCricyclique des cycles h trois chainons h l'aide de la mtthode 
+
+des relaxations (8). C'est pourquoi, nous nous sommes pro-
+
+posCs d'Ctudier la vitesse d'ouverture des aziridines 1, 2 et 3 
+
+substitutes respectivement en 2 par un nitrile, un ester ou une 
+
+cCtone, et des Cpoxydes 4 substituts en 2 par deux nitriles; en 
+
+effet, selon la littkrature, l'ouverture pCricyclique des azi-
+ridines et Cpoxydes est facilitte par des substituants Clectro-
+attracteurs sur les carbones (1, 2, 8): 
+
+1. Position du probBme 
+
+Les ylures d'azomkthine ainsi que les ylures de carbonyle 
+
+obtenus par ouverture therrnique des hCtCrocycles h trois chai-
+
+nons correspondants sont des interrntdiaires rkactionnels qui ne 
+sont mis en Cvidence que par leurs produits de cycloaddition. 
+
+L'Cquilibre aziridine z 3 ylure d'azomCthine est consid6 
+rablement dCplacC vers I'aziridine (9), de telle sorte que les 
+
+ylures dlazomCthine ne sont pas dktectables par les mCthodes 
+spectroscopiques usuelles. Cependant, il peut Ctre dCmontrC, 
+
+grdce a des ttudes cinktiques, que l'addition d'une aziridine, ou 
+
+kl 
+' c C ' 
+
+-
+b 
+
+\ -4e-C/ 
++d=e 
+d-e 
+
+' ' 
+
+z " 
+
+7 , 
+
+-\ I I 
+
+, 
+
+-c, z' c-
+
+Z = N-R: ylure d'azomCthine 
+
+Z = 0: ylure de carbonyle 1 
+
+Can. J. Chem. Downloaded from www.nrcresearchpress.com by 87.160.185.190 on 03/27/14 
+
+For personal use only. 
+
+
+2246 
+
+CAN. J. CHEM. VOL. 63. 1985 
+
+d'un Cpoxyde, 2 un dipolarophile est prCcCdCe de la formation 
+rkversible d'un intermkdiaire d'Cnergie ClevCe (3, 9, 10). C'est 
+la raison pour laquelle nous avons CtudiC la cinCtique de l'ad-
+dition des aziridines 1 2 3 et des Cpoxydes 4 h I'acCtylkne 
+dicarboxylate de mCthyle (ACDM) afin de dCterminer les cons-
+tantes de vitesse correspondant h l'ouverture thermique de la 
+liaison C-C. 
+D'une manikre gCnCrale, l'addition d'une aziridine ylure 
+d'azomkthine potentiel 2 un dipolarophile peut Ctre schCmatisCe 
+comme suit (schCma 2): 
+
+raison pour laquelle nous avons utilisC I'ACDM qui est l'un des 
+meilleurs dipolarophiles vis-2-vis des ylures d'azomkthine et de 
+carbonyle. Dans ces conditions l'ouverture thermique des azi-
+ridines peut se mettre sous la forme: 
+
+k~ 
+
+k2 
+
+AZ 
+
+Y1 + Di-P 
+
+k-l 
+
+Az: aziridine; Y1: ylure d'azomkthine; Di: dipolarophile; P: 
+produit d'addition. 
+La vitesse de la rCaction s'exprime de la manikre suivante: 
+
+N 
+
+F! 
+
+Rl. 
+AX 
+
+H\ h e -d A X 
+
+En appliquant le principe de 1'Ctat stationnaire au rkactif 
+
+,,C-C. 
+
+.C-C.. 
+
+. ' H 
+
+~1 . . 
+
+intermkdiaire (ylure), on obtient 1'Cq. [2] 
+
+H ' 
+.H 
+
+AZ. cis 
+AZ. trans 
+
+d p kl k2 [AzI [Di] 
+[2] v = + -= 
+dt 
+
+k-+ k2 [Di] 
+
+k l l ~-l 
+
+. ; TI; 
+
+Cette expression de la vitesse peut slCcrire: 
+
+d P 
+
+R 
+R 
+
+[3] v = + -= kex [Az] 
+
+I 
+
+I 
+
+dt 
+
+Y1. trans 
+Y 1. cis 
+
+N 
+HI/ 
+\AX 
+
+C. 
+
+1 
+
+d-e 
+d-e 
+
+P. trans 
+P. cis 
+
+k l , kl: constantes cinCtiques d'ouverture des aziridines 
+
+k-k',: constantes cinktiques de refermeture des ylures 
+kZrrans, kzciS: constantes cinCtiques de la cycloaddition 
+ki, k-i: constantes d'isomkrisation 
+
+PC,, P,,,,: produits d'addition 
+Di = dipolarophile (d=e) 
+Az: aziridine 
+Y1: ylure d'azomCthine 
+
+Si l'on considkre une aziridine cis, son ouverture con-
+rotatoire,' dont la constante de vitesse est kl, conduit 2 l'ylure 
+d'azomkthine trans. En l'absence de dipolarophile, l'ylure 
+trans peut s'isomCriser en ylure cis; ce dernier peut se cycliser 
+en aziridine trans. Ce phCnomttne explique I'isomCrisation 
+
+avec 
+
+La constante expkrimentale de vitesse correspond h une 
+rCaction du pseudo ordre 1 et varie avec la concentration en 
+ACDM. La courbe reprisentant kex = f (kex/[Di]) est une droite 
+de pente k-,/k2 et d'ordonnCe h l'origine k,, la constante cinC-
+tique d'ouverture de l'aziridine. 
+L'expression de la vitesse peut encore Ctre simplifiCe lorsque 
+
+k-, &lt;&lt; k2[Di], c'est-h-dire dans le cas oh la vitesse de re-
+
+fermeture de I'ylure en aziridine est faible devant la vitesse de 
+cycloaddition. 
+La vitesse s'exprime alors par: 
+
+Dans ce cas, la constante cinCtique de la rCaction n'est autre 
+que la constante d'ouverture kl de l'aziridine. Celle-ci est alors 
+indkpendante de la concentration en dipolarophile. 
+
+2. Methode d'etude 
+La dktermination des constantes d'ouverture (kl) des hCtCro-
+cycles 1 2 4 se rCsume donc h suivre la vitesse de disparition de 
+l'aziridine ou de 1'Cpoxyde lors de sa rCaction avec !'ACDM et 
+d'appliquer, selon le cas, 1'Cq. [3] ou [4]. La cinCtique d'ouver-
+ture des cyano-2 aziridines 1 a Ct C suivie h l'aide de l'ir (infra-
+rouge), dans les autres cas, nous avons utilisC la chromato-
+graphie en phase liquide (cpl). 
+
+thermique des aziridines ylures d'azomkthine potentiels 
+2.1. Utilisation de l'infra-rouge 
+(10-12). En prksence d'un dipolarophile si la cycloaddition est 
+L'addition des ylures d'azomithine 5 rksultant de l'ouverture 
+rapide par rapport 2 I'isomCrisation, c'est-h-dire lorsque k2 [Di] 
+thermique des cyano-2 aziridines 1, 2 I'ACDM, conduit 2 des 
+
+&gt;&gt; ki, I'isomCrisation de l'ylure peut Ctre ignorke. C'est la 
+
+pyrroles 7 qui proviennent de 1'Climination spontanke de HCN 
+2 partir du produit de cycloaddition 6, une pyrroline-3 (12) 
+
+I L'ouverture conrotatoire peut se faire a priori de deux manikres 
+
+(schCma 3). 
+differentes conduisant i deux isomkres conformationnels de l'ylure 
+Aprks avoir vCrifiC que les aziridines 1 suivent la loi de 
+
+dlazomCthine (10, 13). 
+
+Lambert-Beer, nous avons suivi la disparition de 1 en me-
+Can. J. Chem. Downloaded from www.nrcresearchpress.com by 87.160.185.190 on 03/27/14 
+
+For personal use only. 
+
+
+DERDOUR ET TEXIER 
+
+2247 
+
+k 
+
+1 , Ylure 
+
++ACDM 
+Az 
+
+-
+
+k-l 
+AzomCthine 
+k2 
+
+R 
+8 (Y = C02R' ou COPh) 
+
+k 1 , Ylure 
+
+p ~~h + 
+
+-k_l Carbonyle 
+
+k2 
+
+H' 
+
+'CN 
+
+surant la transmission de la bande d'absorption VCSN vers 
+2240 cm-'; HCN absorbe a 2095 cm-' et il n'y a pas de 
+chevauchement des bandes de l'aziridine et des produits for-
+mCs. La constante expkrimentale de vitesse k,, est dCterminCe 
+graphiquement, aprks avoir fait pour chaque pointe un mini-
+mum de trois mesures de la transmission. La precision de la 
+mesure de la transmission Ctant de 1% (voir la partie expCri-
+mentale pour l'appareillage), k, est dCterminCe avec une prC-
+cision de l'ordre de 10% aprks calcul de rkgression linCaire. 
+MalgrC l'importance relative de l'erreur commise sur kl (ceci 
+
+Ctant dfi a la mCthode utilisCe), les valeurs obtenues avec les 
+
+aziridines diversement substitukes sont suffisamment diffC-
+rentes pour qu'elles puissent &amp;tre discutCes. 
+
+2.2. Utilisation de la chromatographie en phase liquide 
+L'addition des aziridines 2 et 3 et des Cpoxydes 4 conduit 
+respectivement ?I des pyrrolines-3 8 (1, 11, 15), qui parfois sont 
+isomCrisCes en pyrrolines-2, et ii des dihydrofuranes 9 (16). 
+(schCma 4). 
+Une Ctude ir et uv (ultraviolet) s'est avCrCe impossible a 
+cause des chevauchements des bandes d'absorption des pro-
+duits initiaux et des produits formCs, c'est pourquoi nous avons 
+
+suivi la vitesse de disparition des composCs 2, 3 et 4 en les 
+
+dosant tout au long de la rkaction a l'aide de la cpl. Les cons-
+tantes expCrimentales de vitesse sont obtenues avec un pour-
+centage d'erreur infkrieur ?I 5%. 
+Nous avons vCrifiC que les constantes de vitesse ainsi ob-
+tenues sont tout h fait comparables ?I celles obtenues par ir, 
+comme le montre l'exemple de l'aziridine l a ; les valeurs ob-
+tenues sont pratiquement les m&amp;mes, compte tenu des pour-
+centages d'erreur inhCrents 5 chaque mCthode. 
+
+3. Resultats et discussion 
+Les diffkrents Cpoxydes et aziridines dipBles-1,3 potentiels 
+
+TABLEAU 1. RCpertoire des aziridines 1, 2, 3 utilisCes au cours de ce 
+
+travail 
+
+RICH-C(R~)(Y) 
+
+' 
+1' 1: 
+Y = CN 
+2: Y = C0,R' 
+3: Y = COPh 
+
+No ComposC 
+R 
+R1 
+R~ 
+MCthodea Reference 
+
+l a (cis) 
+1 b (cis) 
+l c (cis) 
+Id (cis) 
+l e (cis) 
+
+1 f (cis) 
+
+l g (cis) 
+l h (cis) 
+1 i 
+l i 
+l k 
+2a 
+2b (trans) 
+2c 
+3a (cis) 
+3b (trans) 
+3c (trans) 
+3d (trans) 
+
+Ph 
+pClPh 
+p MeOPh 
+p NOzPh 
+pCNPh 
+pBrPh 
+pMezNPh 
+Me2CH-
+Me 
+H 
+H 
+Ph 
+Ph 
+C02Me 
+Ph 
+Ph 
+Ph 
+Ph 
+
+"A: MCthode de Cromwell; B: mCthode de Southwick; C: thermolyse de la 
+triazoline; D: mCthode de Deyrup. 
+Ce travail. 
+'Ester Cthylique R' = Et. 
+dY = COPhpOMe. 
+
+'Y = COPhpN02. 
+
+TABLEAU 1 bis. Repertoire des Cpoxydes 17 uti-
+
+lises au cours de ce travail (22) 
+
+PhCH-
+
+\N/cHcN 
+
+Solvant: tolukne; 
+kl (ir) 
+
+1 
+
+29,O X 
+s-I 
+C6Hll 
+
+T = 121,s c 0,I0C 
+
+l a 
+
+kl @PI) 
+
+28,8 X 10-5s-1 
+
+CtudiCs au cours de ce travail sont rCpertoriCs dans les tableaux 
+1 et 1 bis; ils sont prCparCs en utilisant des mtthodes connues 
+et dCcrites dans la litttrature. 
+Toutes les aziridines 1 utilisCes au cours de ce travail n'ont 
+pas Ct C CtudiCes prCcCdemment, c'est pourquoi, avant 1'Ctude 
+cinCtique, nous avons vtrifiC que l'addition ?I 17ACDM conduit 
+dans chaque cas a un pyrrole 7 (14) selon la rCaction dCcrite par 
+Merah et Texier (12). 
+La rkactivitt des Cpoxydes 4 vis-a-vis de I'ACDM a Ctt 
+CtudiCe par Robert et al. (16); toutefois, celle de 1'Cpoxyde 4d 
+(X = NOz) est si faible que le produit d'addition n'avait pas Ct C 
+isolC. Nous avons vCrifiC que la rkaction conduit bien au dihy-
+drofurane correspondant 9 d (X = NOz) que nous avons isolt et 
+purifiC. Les caractCristiques des nouveaux pyrroles 7 et du 
+Can. J. Chem. Downloaded from www.nrcresearchpress.com by 87.160.185.190 on 03/27/14 
+
+For personal use only. 
+
+
+2248 
+
+CAN. J. CHEM. VOL. 63, 1985 
+
+TABLEAU 2. Influence de la concentration en ACDM 
+TABLEAU 4. Influence de la concentration en ACDM sur k,, 
+
+sur k,, (cas des aziridines lh, l i et l j , T = 121,5 + 
+(cas des Cpoxydes 4a B 4d; T = 121,5 + O.l°C, solvant: 
+
+0, I°C, solvant: tolukne) 
+cCl4) 
+
+ComposC 
+R1 
+kla 
+[ACDMIb 
+kexa 
+[ACDM] X 10' (mol L-') 
+
+l h 
+CH(Me)z 
+0,10 
+8,16 
+0,16 
+2 
+4 
+6 
+16,32 
+0,23 
+24,48 
+0,29 
+Epoxyde 
+kl X lo5 (s-I) 
+
+k, , x lo5 (s-') 
+
+1~ 
+H 
+3.50 
+8,16 
+0,60 
+28,6 
+1,70 
+36,7 
+1,90 
+45,3 
+2,38 
+
+"kl: 105 S K I ; 
+
+k, : 105 S-I. 
+
+[ACDM]: lo2 mol L-' . 
+
+TABLEAU 3. Influence de la concentration en ACDM sur k,, (cas des 
+aziridines l a B l g et lk, T = 121,5 ? O,I°C, solvant: tolukne) 
+
+[ACDM] x 10' (mol L-') 
+
+TABLEAU 5. Constantes de vitesse d'ouverture kl mesu-
+
+rees en cinCtique initiale de I'aziridine 2b B diffkrentes 
+tempCraturesa 
+
+8,16 
+16,32 
+24,48 
+32,64 
+"K: constante de vitesse globale d'isomt5risation; kI et k-I 
+
+constantes directe et inverse d'isomirisation. 
+
+Aziridine 
+k, (lo5 s-I) 
+k,, (105 s-I) 
+
+l a 
+l b 
+l c 
+Id 
+l e 
+
+I f 
+
+l g 
+l k 
+3a cis 
+3b trans 
+3c trans 
+3d trans 
+
+compost 9d sont rassemblCes dans la partie expkrimentale. 
+Pour toutes les aziridines 1 et 3, I'isomCrisation de l'ylure 
+
+d'azomkthine peut Etre nCgligte (k2/[D,] &gt;&gt; k,). Les Cpoxydes 
+
+4 portent deux substituants identiques sur le carbone 2 et le 
+
+probleme d'isomCrisation ne se pose pas. 
+Lorsque R et R1 sont des alkyles (composCs l h h j), la 
+constante expirimentale de vitesse kex dCpend de la concen-
+tration en ACDM (tableau 2) et la constante kl est dCterminCe 
+graphiquement en rksolvant 1'Cq. [3]. Ces rksultats montrent 
+que dans ces cas, la cycloaddition de l'ylure d'azomkthine et sa 
+refermeture en aziridine ont des vitesses comparables. 
+Lorsque R ou R' est un aryle, la constante expkrimentale de 
+vitesse kex est pratiquement indkpendante de la concentration en 
+ACDM, comme le montrent les rksultats rassemblCs dans les 
+
+tableaux 3 et 4. Ceci correspond au fait que k-, &lt;&lt; k2 [ACDM]; 
+
+dans ces conditions, kex = kl, la constante d'ouverture de 
+1'hCtCrocycle. Ces rCsultats impliquent une lente transfor-
+mation de I'hCtCrocycle en dip81e-1,3 suivie d'une cyclo-
+addition rapide. 
+Les aziridines 2 (Y = CO2Rr) ont un comportement particu-
+lier. La vitesse d'isomCrisation des composCs 2a et 2b est du 
+mCme ordre de grandeur que la vitesse d'addition de l'ylure 
+d'azomkthine h I'ACDM et de ce fait, elle ne peut Ctre nCgli-
+
+gCe. A titre d'exemple, nous avons rassemblC dans le tableau 
+5 les constantes de vitesse globale d'isomCrisation de l'azi-
+
+ridine 2b cis. La constante kl doit donc Ctre dCterminCe en 
+cinCtique initiale h partir de 1'Cquation: 
+d [P trans] 
+
+v, = dt = k2 [Yl . trans] [ACDM] 
+
+De plus, la constante kex (dCterminCe en vitesse initiale) de 
+l'aziridine 2a (R = C6Hll) dtpend de la concentration en 
+ACDM, kl est obtenue en tracant la courbe kex = f(kex/ 
+[ACDM]). Dans le cas des composts 2b et 2c, 1'Cq. [6] est 
+
+applicable, kex = kl . Avec l'aziridine 2c nous avons observk un 
+
+phCnomene particulier, la cycloaddition est rCversible2 et l'ad-
+dition de l'aziridine h I'ACDM est CquilibrCe, ce qui explique 
+que, dans les conditions de synthkse, le rendement en 
+pyrroline-3 est toujours mCdiocre (23). La constante de vitesse 
+doit donc Ctre dCterminCe Cgalement en vitesse initiale; les 
+diffkrentes constantes de vitesse ainsi obtenues sont rassem-
+blCes dans le tableau 6. 
+Une partie des effets de substituant a Ct C discutCe dans deux 
+courtes communications (24). Une discussion dCtaillCe est ef-
+fectuCe dans l'article suivant, h partir des paramares d'ac-
+tivation dCterminCs aprks avoir mesurC la constante d'ouverture 
+k, ? i 
+diffkrentes tempkratures. 
+
+Partie experimentale 
+
+Les aziridines l a , l j , l k , 2 et 3 et les $oxydes 4 sont connus. 11s 
+sont prCparCs selon le mode optratoire dCcrit dans la rCf6rence corres-
+pondante du tableau 1. 
+Les aziridines l b B l i sont obtenues en appliquant la mCthode de 
+Cromwell, selon le mode operatoire decrit par Merah et Texier pour 
+
+'La riversibilitk de la cycloaddition dipblaire-1,3 a Ct C observCe 
+avec divers dipbles-1,3 (26) parmi lesquels les ylures d'azomtthine, 
+
+mais B notre connaissance, aucune rationalisation de ces rksultats n'a 
+
+Ct C tentCe. 
+
+Can. J. Chem. Downloaded from www.nrcresearchpress.com by 87.160.185.190 on 03/27/14 
+
+For personal use only. 
+
+
+DERDOUR ET TEXIER 
+
+TABLEAU 6. Influence de la concentration en ACDM sur k, (cas des aziridines 
+
+esters 2a i 2c; T = 1213 2 0,loC, solvant: tolukne) 
+
+[ACDM] x 10' (mol L-') 
+
+Aziridine 
+kl X lo5 (s-') 
+k,, x lo5 (s-I) 
+
+TABLEAU 7. Pourcentage relatif aziridine llenamine 11; solvant: 
+benzkne 
+
+% Rel." 65:35 
+57:43 
+73:27 
+61:39 
+70:30 
+70:30 
+
+"Dosage a I'aide de la rmn du produit brut de la rtaction. 
+
+la synthkse de I'aziridine l a (12). 
+Deux Cquivalents de cyclohexylamine (R = C6Hl,) sont ajoutts 
+
+goutte i goutte aux oltfines a-bromks 10, en solution dans le benztne 
+
+ou I'tther lorsque R' est un aroyle (soit 0,l mol de cyclohexylamine 
+dans 100 mL de solvant), dans I'acttonitrile lorsque R1 est un alkyle. 
+La temperature est maintenue entre 5 et 10°C. Le mtlange est alors 
+
+abandonnt i la temptrature ambiante, dans I'obscuritt. L'ttat d'avan-
+
+cement de la rtaction est suivi par pesee du bromhydrate qui prtcipite. 
+Finalement, le solvant est Cvapork et le rtsidu est recristallist dans 
+
+I'tthanol i 95%. L'aziridine l b a Ctk purifite par chromatographie sur 
+
+colonne d'alumine (80 g/l g d'huile) avec Ctherltther de pttrole 
+50: 50 comme tluant. 
+La synthkse des cyano-2 aziridines pour lesquelles R' est un substi-
+tuant aromatique s'accompagne toujours de la formation d'tnamines 
+11 isomkres (12). Dans tous les cas, I'aziridine prtcipite en premier, 
+et par recristallisation fractionnte dans I'tthanol i 95"C, on obtient 
+parfois I'tnamine qui prtcipite i partir du 3kme jet de cristallisation. 
+
+Le pourcentage relatif aziridineltnamine, dttermint par analyse rmn 
+
+(resonance magnttique nuclkaire) du produit brut rkactionnel, est don-
+
+nt dans le tableau 7, mais nous n'avons pas chercht i isoler et purifier 
+I'tnamine 11 dans tous les cas. 
+
+FN 
+
+pXPhCH=C 
+
++ 2RNH2 -+ pXPhCH-CH-CN 
+
+' ~r 
+' 
+N ' 
+10 
+
+I 
+
+R 
+1 
+
+P X P ~\ 
+
++ 
+
+C=CH-CN 
+
++ RNH3 + BF 
+
+R-NH / 
+
+1 
+
+11 
+
+Toutes les aziridines 1 ainsi obtenues pour lesquelles R' est un 
+substituant aryle ont la configuration cis (R' par rapport 21 CN). Les 
+caracttristiques physiques des aziridines ainsi que les rendements en 
+produits isolts sont rassemblts dans le tableau 8, les rtsultats des 
+analyses centtsimales figurent au tableau 9. 
+
+SynthPse des pyrroles 7 
+L'aziridine 1 (1 g) et I'ACDM en quantitt stoechiomttrique sont 
+portts i I'tbullition dans 30 cm3 de tolukne anhydre, pendant 24 h. Le 
+
+TABLEAU 8. Proprittts physicochimiques des aziridines 
+
+Resonance magnttique nucltaire 
+F (OC) 
+Infrarouge (CHC13) 
+(CDCI,); 8 (TMS) 
+Durte 
+ou 
+vC=N ou 
+No 
+Rdt%' 
+Cjour) 
+Eb ( " C l T ~r r ) ~ 
+vC=O 
+HA 
+HB 
+Me 
+
+JH*H~ 
+
+lh" 
+43 
+28 
+l i b 
+61 
+28 
+Multiplet entre 1 et 2 ppm 
+
+3c 
+75 
+28 
+133 
+1645 
+3,58 
+3,58 
+3,88 
+3d 
+64 
+28 
+126 
+1655 
+3 3 5 
+3 3 5 
+
+"L'aziridine l h a ttt purifite par chromatographie sur colonne d'alumine (80 g / l g d'huile), eluant: Ctherltther de 
+pttrole (50: 50). 
+bLes protons cycliques et ceux du cyclohexyle rtsonnent entre 1 et 2 ppm. 
+'Les rendements sont calcults par rapport au pourcentage relatif en aziridine ( l a a l g ) donnt par rmn. Pour les 
+aziridines l h et l i par rapport h l'oltfine a bromte. 
+1 Tom = 133.3 Pa. 
+
+Can. J. Chem. Downloaded from www.nrcresearchpress.com by 87.160.185.190 on 03/27/14 
+
+For personal use only. 
+
+
+CAN. J. CHEM. VOL. 63, 1985 
+
+TABLEAU 9. Analyse centksimale des aziridines 
+
+C% 
+N% 
+H% 
+0 % 
+
+N" 
+Formule brute 
+Calc. 
+Tr. 
+Calc. 
+Tr. 
+Calc. 
+Tr. 
+Calc. 
+Tr. 
+
+TABLEAU 10. Caractkristiques des pyrroles 7 (R2 = H) 
+
+Resonance magnetique nuclkaire 
+(CDCI,); 6 (TMS) 
+lnfrarouge (cm-I) 
+No 
+R 
+R' 
+R2 Rdt" (%) 
+F (OC) 
+vC=O 
+Me(esters) 
+H(cyc1.) 
+
+76 C ~H I I pClPh 
+H 
+84 
+128-129 
+1715 
+(3,62; 3,75) 
+(7,221 
+7c C6Hll p ~e O P h ' C ) H 
+87 
+100-101 
+1690 
+(3,80; 3,90) 
+(7,211 
+7d C6Hll 
+p(O2N)Ph 
+H 
+87 
+180 
+1700 
+(3,72; 3,88) 
+(7,381 
+7e C6Hll pNCPh 
+H 
+88 
+147-148 
+1713 
+(3,65; 3,80) 
+(7,301 
+7 f 
+C6Hll pBrPh 
+H 
+86 
+129-130 
+1702 
+(3,65; 3,83) 
+(7,251 
+7g C6Hll p(Me)~Nph H 
+89 
+168 
+1710 
+(3,72; 3,83) 
+(7,301 
+
+"L'analyse rmn du produit riactionnel brut montre que la reaction est pratiquement quantitative. Les rendements indiques dans le 
+tableau sont les rendements en produit rCcupCr6 et recristallisb. 
+
+TABLEAU I I. Analyse centesimale des pyrroles 7 
+
+C% 
+H% 
+N% 
+0 % 
+
+Formule brute 
+
+CzoHzz04NC1 
+C21H2505N 
+CzoHzz06Nz 
+C2 1 H2204N2 
+C2oHzz04NBr 
+CzzH2804N~ 
+C15H1504N 
+
+Calc. 
+Calc. 
+Tr. 
+Calc. 
+Tr. 
+
+5,79 
+3,73 
+3,82 
+6,79 
+3,77 
+3,69 
+5,82 
+7,25 
+7,27 
+5,94 
+7,65 
+7,72 
+5,21 
+3,33 
+3,50 
+7,28 
+7.29 
+7,17 
+5,55 
+5,13 
+4,76 
+
+Calc. 
+
+17,42 
+21,56 
+24,87 
+17,48 
+15,23 
+16,66 
+23,44 
+
+TABLEAU 12. Conditions expkrimentales utilistes pour le dosage des aziridines et tpoxydes 1 i 4 par hplc 
+
+Compost 
+
+Concentration 
+initiale 
+(lo4 mol L-I) 
+70 
+60 
+40 
+70 
+30 
+30 
+30 
+25 
+20 
+30 
+25 
+20 
+Eluant 
+n-hexane MeOH MeOH/eau MeOH/eau MeOH MeOH THF THF THF THF THF THF 
+(50 : 50) 
+(80 : 20) 
+Vitesse d'klution 
+2,O 
+0,5 
+1 ,o 
+1 ,o 
+1 ,o 
+1,O 
+1,0 
+1,0 
+2,O 
+2,O 
+2,O 
+2,O 
+(mL/min) 
+Rtftrences 
+des colonnesa 
+B 
+B 
+B 
+B 
+C 
+C 
+C 
+C 
+
+"A: Bondapak -CN; +: 3,9 mm; B: Bondapak -CIS; +: 3.9 mm; C: Styragel de 100 A, 500 A, 1 0 ' A, lo4 A, placCes en sbrie; + = 7,8 mm. 
+
+solvant est distill6 et le residu dissous dans le minimum de methanol. 
+
+Synthise du dihydrofurane 9d (X = NOz) 
+
+Par refroidissement, le produit d'addition cristallise; il est essork, lave 
+
+L'kpoxyde 4d (1 g) est additionnk i 0,66 g d'ACDM dans 30 cm3 
+
+puis stche. Les caracteristiques des pyrroles ainsi que les rendements 
+
+de xylkne anhydre. La solution est portte i reflux pendant 30 h. Aprks 
+
+sont consignks dans le tableau 10; leurs analyses centtsimales sont 
+distillation du solvant, le rksidu est dissous dans le minimum de 
+rassemblkes dans le tableau 1 1. 
+mkthanol chaud. Par refroidissement, le dihydrofurane 9d precipite. 
+
+Can. J. Chem. Downloaded from www.nrcresearchpress.com by 87.160.185.190 on 03/27/14 
+
+For personal use only. 
+
+
+DERDOUR ET TEXIER 
+
+225 1 
+
+Aprbs recristallisation dans le methanol, il fond a 124-125°C; ir: 1744 
+et 1758 cm-' (vC=O ester), 2250 (vCEN); m n (CDCI,): 3,85 et 
+4,05 (s, methyles ester), 6,95 (H, s). Anal. calc. pour C16Hl ]N3O7: C 
+53,78, N 11,77, 0 31,37; tr.: C 53,50, N 11,70, 0 31,48. 
+
+Solvants et ACDM 
+Les solvants utilisCs pour les etudes cinetiques sont purifies selon 
+les mCthodes dCcrites dans la IittCrature (25) et utilisCs fraichement 
+distillCs. 
+L'ACDM est un produit commercial Fluka purissimum. 
+
+Mtthodes d'analyse 
+L'infra-rouge 
+L'appareil utilisC est un spectrophotombtre Perkin-Elmer 457 h 
+double faisceau. La longueur d'onde est celle de la bande d'absorption 
+du nitrile, vers 2240 cm-'. 
+Aprbs avoir vCrifiC que les aziridines 1 suivent la loi de 
+Lambert-Beer, une courbe dlCtalonnage est Ctablie pour chaque cas. 
+La solution est prCparCe par dissolution de I'aziridine dans 9 cm3 de 
+solvant contenant I'ACDM h la concentration de 8 X 
+mol L-'. 
+La concentration initiale en aziridine est mesurCe par ir, elle est dC-
+
+duite de la courbe d'ktalonnage, elle est choisie de f a ~o n a obtenir une 
+
+densite optique initiale Do voisine de 0,75. Suivant I'aziridine, la 
+concentration varie de 0,2 a 0,4 X 
+mol L-'. Cette solution est 
+partagCe en 10 fractions qui sont placCes dans des tubes en verre de 2 
+cm3. Ces derniers sont scellCs et places au temps t = 0 dans un bain 
+themostat.5. Les tubes, prClevCs au cours du temps sont refroidis 
+immkdiatement dans I'azote liquide et dosCs par ir.3 
+Nous avons vCrifiC pour chaque aziridine qu'elle ne se degrade pas 
+
+au cours du temps a la temperature de I'exp5rience. Pour celh, I'azi-
+
+ridine est placCe dans un tube tCmoin, sans ACDM, dans les mimes 
+conditions de T ("C), concentration et solvant. Le dosage ir permet de 
+s'assurer que la dCgradation est nCgligeable aux temperatures utiliskes. 
+Dttermination exptrimentale de k, 
+La vitesse globale de la rkaction d'ouverture est d'ordre 1 par 
+
+rapport a la concentration en aziridine, elle s'exprime h I'aide de 
+
+1'Cq. [3] 
+
+A I'instant t = 0, [Az] = [AzIo et I'expression peut s'Ccrire: 
+
+En appliquant la loi de Beer-Lambert, nous pouvons Ccrire: 
+
+[6] log D = log E 1 + log [Az] 
+
+D Ctant la densite optique, E le coefficient d'extinction, et 1 la largeur 
+de la cuve. A t = 0: 
+
+[7] log DO = log E 1 + log [Az], 
+
+En comparant les Cquations [5] et [7], on en dCduit 1'Cq. [8]. 
+
+[81 log Do -log D = kc, t 
+
+La constante expkrimentale de vitesse est dCterminCe graphique-
+ment partir de la pente de la droite -log D = f(t); elle est prCcisCe 
+par un calcul de regression linkaire. Dans tous les cas, le coefficient 
+de correlation est de I'ordre de 0,999. 
+
+'L'ouverture des aziridines 1 en ylures dlazomCthine est nCgli-
+
+geable a la temperature ambiante, I'addition a I'ACDM ne se produit 
+
+que lorsque la solution est mise dans le bain themostate. Aussi, aprbs 
+refroidissement, la solution peut &amp;tre conservCe au froid plusieurs 
+
+heures avant d'effectuer le dosage ir. 
+
+TABLEAU 13. Determination des constantes globales 
+d'equilibre de l'addition de 2c a 1'ACDM h diffkrentes 
+temperatures 
+
+KI 
+
+2c + ACDM + pyrroline-3 
+
+K-I 
+
+T ("C): 
+60 
+78,5 
+105 
+121,2 
+138,5 
+
+Mtthode chromatographique 
+L'appareil utilisC est un Waters 440, ayant un systbme de dCtection 
+uv a 254 nm. Les rCfCrences des colonnes utilisCes, de longueur 30 
+cm, ainsi que les Cluants sont donnCs dans le tableau 12. 
+Le facteur de sensibilitC de l'appareil est donnC par la relation [9], 
+il est determink pour chaque produit. 
+
+m,: masse du composC p (g), mi: masse de 1'Ctalon interne, A,: surface 
+de pic du composC, Ai: surface de pic de 1'Ctalon interne. Connaissant 
+diffkrentes masses mi, m, et leurs surfaces correspondantes, on en 
+dCduit f,. 
+La quantitC d'aziridine (tableau 12) pesCe exactement est dissoute 
+dans 5 cm3 de solution, 0,5 c m h s t utilisC comme r6fCrence et dans 
+le reste de la solution, on ajoute en excCs (10: 1) la quantitC d'ACDM. 
+Cette solution est rkpartie dans 10 tubes en verre qui sont scellCs et 
+
+plongCs a t = 0 dans un bain thermostat6 a la tempkrature dCsir6e. 
+Les tubes sont prClevCs a diffkrents temps et refroidis dans I'azote 
+
+liquide. Ensuite ils sont doses aprbs y avoir ajoutC une quantitC bien 
+dCterminCe d'Ctalon interne. 
+Notre choix s'est port6 sur le mCthacrylate de dodCcyle qui a un 
+volume de rktention trbs diffkrent des produits rCactionnels. Nous 
+avons prCfCr6 ajouter 1'Ctalon interne aprbs rCaction pour Cviter de 
+fausser I'effet du solvant. Mais il est vrai que les erreurs engendrCes 
+par cette manibre d'opCrer ne sont pas nCgligeables, et nous avons 
+
+compar.6 la prCcision des mesures a celle obtenue par un dosage 
+statistique (injection d'une mime quantitC de solution a plusieurs 
+
+reprises) en mesurant directement la surface du pic. I1 s'est avCrC, 
+aprbs calcul de rkgression lineaire, que la prCcision des mesures par 
+ces deux mCthodes Ctait comparable. 
+
+Cas particulier: L'addition de I'ACDM a I'aziridine 2c est r6ver-
+
+sible et CquilibrCe. Dans le tableau 13 nous avons rassemblC les cons-
+
+tantes d'kquilibre a diffkrentes tempkratures. La variaiton de -log 
+[Az] = f (t) permet d'obtenir k, en prenant la tangente a I'origine de 
+
+la courbe reprksentative. La variation de log [Az],/[Az, -Az] = f (t) 
+pemet de calculer k-,, qui correspond a la constante de vitesse de 
+cyclorCversion. 
+
+1. J. W. LOWN. Rec. Chem. Prog. 32, 51 (1971). 
+2. R. M. KELLOGG. Tetrahedron, 32, 2165 (1976). 
+3. (a) R. HUISGEN et H. MADER. J. Am. Chem. Soc. 93, 1777 
+(1971); (b) R. HUISGEN. Angew. Chem. Int. Ed. Engl. 16, 572 
+(1977). 
+4. A. C: OEHLSCHLAGER, A. S. YIM et M. H. AKHTAR. Can. 
+J. Chem. 56, 273 (1978). 
+5. R. B. WOODWARD et R. HOFFMANN. The conservation of orbital 
+symmetry. Academic Press, New York. 1970. 
+6. N. D. EPIOTIS. Angew. Chem. Int. Ed. Engl. 13, 751 (1974). 
+7. B. K. CARPENTER. Tetrahedron, 34, 1877 (1978). 
+8. 0 . HENRI-ROUSSEAU, P. PUIOL et F. TEXIER. Bull. Soc. Chim. 
+Fr. 11, 496 (1980). 
+9. H. HERMANN, R. HUISGEN et H. MADER. J. Am. Chem. Soc. 93, 
+1779 (1971). 
+10. (a) R. HUISGEN, W. SCHEER et H. MADER. J. Am. Chem. Soc. 
+89, 1753 (1967); (b) Angew. Chem. Int. Ed. Engl. 8,602 (1969); 
+(c) R. HUISGEN. Angew. Chem. Int. Ed. Engl. 16, 572 (1977); 
+
+Can. J. Chem. Downloaded from www.nrcresearchpress.com by 87.160.185.190 on 03/27/14 
+
+For personal use only. 
+
+
+2252 
+
+CAN. 1. CHEM. VOL. 63, 1985 
+
+(d) R. HUISGEN et H. MADER. Angew. Chem. Int. Ed. Engl. 8, 
+604 (1969). 
+11. J. A. DEYRUP. J. Org. Chem. 34, 2724 (1969). 
+12. B. MERAH et F. TEXIER. Bull. Soc. Chim. Fr. 11, 553 (1980). 
+13. F. TEXIER et R. CARRIE. Bull. Soc. Chim. Fr. 310 (1974). 
+14. A. DERDOUR. 'Thkse de doctorat d'ttat, Oran, 1982. 
+15. P. B. WOLLER et N. H. CROMWELL. J. Org. Chem. 35, 888 
+(1970). 
+16. A. ROBERT, J. J. POMMERET et A. FOUCAUD. C.R. Acad. Sci. 
+Ser. C, 270, 1739 (1970). 
+17. TH. WAGNER-JAUREGG. Helv. Chim. Acta, 5, 1237 (1961); 5, 
+1249 (1961). 
+18. P. BARET. Thirse de doctorat d'ktat, Grenoble, 1975. 
+19. L. WARTSKI et C. WAKSELMANN. Bull. Soc. Chim. Fr. 1478 
+(1972). 
+20. M. S. OUALI, M. VAULTIER et R. CARRIE. Bull. Soc. Chim. Fr. 
+11, 633 (1979). 
+21. N. H. CROMWELL, R. D. RABSON et C. F. HARRIS. J. Am. Chem. 
+
+SOC. 65, 3120 (1943). 
+22. (a) J. J. POMMERET et A. ROBERT. Tetrahedron, 27,2977 (197 1); 
+(b) A. ROBERT et A. FOUCAUD. Bull. Soc. Chim. Fr. 2354 
+(1969). 
+23. M. VAULTIER. Thkse de doctorat d'ktat, Rennes, 1977. 
+24. (a) A. DERDOUR et F. TEXIER. C. R. Acad. Sci. Ser. C, 291, 101 
+(1980); (b) A. DERDOUR, 0 . HENRI-ROUSSEAU et F. TEXIER. 
+C. R. Acad. Sci. Ser. C, 296, 553 (1983). 
+25. A. I. VOGEL. A textbook of practical organic chemistry. %me ed. 
+Longmans, London. 1956. 
+
+26. (a) R. HUISGEN, H. HAUCK, R. GRASHEY et H. SEIDL. Chem. 
+
+Ber. 101,2568 (1968); (b) J. W. LOWN et K. MATSUMOTO. Can. 
+J. Chem. 50, 534 (1972); (c) M. JOUCLA, J. HAMELIN et R. 
+CARRIE. Bull. Soc. Chim. Fr. 3116 (1973); (d) F. TEXIER et J. 
+BOURGOIS. J. Heterocycl. Chem. 12,505 (1975); (e) G. LEFEVRE 
+et J. HAMELIN. Tetrahedron Lett. 1757 (1979); (f) G. 
+GUIHENEUF, C. LAURENCE et A. R. KATRITSKY. J. Chem. Soc. 
+Perkin Trans. 2, 1829 (1976). 
+
+Can. J. Chem. Downloaded from www.nrcresearchpress.com by 87.160.185.190 on 03/27/14 
+
+For personal use only. 
+
+
+
+	
+

@@ -1,0 +1,1012 @@
+
+	
+
+		
+
+	
+
+	
+
+Reactivite des a-halobutyrolactones a halogenes tertiaires 
+vis-a-vis des nucleophiles faiblement basiques 
+
+JOSYANE GHARBI-BENAROUS, MOUNIR M. ESSAYEGH ET GILBERT DANA' 
+
+Laboratoire de ste're'ochimie re'actionnelle, Bbt. F, Universite' Pierre et Marie Curie, 4 Place Jussieu, 75252 CEDEX 05, France 
+
+R e p le 11 juillet 19862 
+
+JOSYANE GHARBI-BENAROUS, MOUNIR M. ESSAYEGH et GILBERT DANA. Can. J. Chem. 65, 2031 (1987). 
+Le mithyl-2 phtnyl-4 butinolide 5 est prtpari quantitativement par Climination de HBr ti partir des bromolactones 
+correspondantes 3. La reaction, obtenue par action des ions halogtnures B 100°C dans des solvants polaires aprotiques 
+(DMF, DMSO) est accompagnte d'une substitution nuclCophile bimoliculaire. Dans ces riactions, le solvant semble jouer un 
+
+r61e actif. S'il est assez polaire, il provoque une activation du substrat (forte polarisation prCalable de la liaison C-Br) nCcessaire 
+
+au dkclenchement de la rCaction. En l'absence d'ions halogtnures une rtaction de type solvolytique intervient pour le dimarrage 
+
+de la riaction. Mais dks que la production des ions haloginures par tlimination devient notable, les mCcanismes bimolCculaires 
+deviennent prCpondCrants. L'activation des chlorolactones 4 s'avtre beaucoup moins aiste que celle des bromolactones 3, mais 
+dans les deux cas l'tlimination est du type E2ip avec semble-t-il, une approche du type E2C. 
+
+JOSYANE GHARBI-BENAROUS, MOUNIR M. ESSAYEGH, and GILBERT DANA. Can. J. Chem. 65, 2031 (1987). 
+2-Methyl-4-phenylbutenolide (5) is prepared in a quantitative nianner by an elimination of HBr from the corresponding 
+bromolactones 3. This reaction, induced by halide ions at 100°C in polar aprotic solvents (DMF, DMSO), is accompanied by a 
+
+bimolecular nucleophilic substitution. In these reactions, the solvent seems able to play an active role. Apolar solvent induces the 
+necessary activation of the substrate (by a prior strong polarization of the C-Br bond). In the absence of halide ions, a solvolytic 
+reaction takes place. As soon as the elimination reaction produces enough halide ions, the bimolecular reaction takes over. The 
+activation of the chlorolactones 4 is much more difficult than that of the bromolactones 3; however, each elimination is of the 
+Ezip type with some E2C type. 
+[Journal translation] 
+
+Dans un precedent mtmoire (I), nous avons propost une 
+nouvelle voie d'accts au mtthyl-2 phtnyl-4 buttnolide-2,3. La 
+mtthode utilise des dtrivts dihydro-2,3 furanniques (2-4) et 
+fait intervenir une rtaction d'tlimination d'hydracide sur les 
+a-bromobutyrolactones correspondantes. L'inttrzt que suscite 
+le motif butenolide pour les nombreuses proprittts physiologi-
+ques qui lui sont attachtes ( 5 , 6) nous a encouragts ii examiner 
+plus en dttail ses possibilitts de formation a partir des 
+halolactones. 
+La dtshydrohalogenation est effectute par une base faible en 
+milieu aprotique (LiBr, DMF, 100°C) dans des conditions qui se 
+sont rtvtltes tpimtrisantes pour le brome (schtma 1). 
+Cette rtaction de substitution peut jouer un r8le important 
+dans la reaction d'tlimination, dans la mesure ou, entrainant un 
+changement de sttrtochimie du brome, elle permet tventuelle-
+ment de former les sttrtoisomhes 1 susceptibles de subir 
+l'tlimination anti. 
+En fait, deux types de mtcanismes reconnus peuvent &amp;re 
+envisagts pour ces reactions d'tlimination/substitution. Le 
+premier, assez gtntralement admis, est un me'canisme birnolk-
+culaire de type E2C (en raison de la faible basicitt du 
+nucltophile mis en jeu) (7, 8) ou de type E2ip, mtcanisme par 
+paire d'ions (en raison de la forte polaritt du solvant) (9, 10). 
+L'autre possibilitt est un me'canisme solvolytique par formation 
+d'un carbocation en a du carbonyle. Des carbocations de ce type 
+ont t t t observts et ttudies aussi bien en a d'une cttone (1 1) que 
+d'un ester (1 1 d, 12). 11s sont gtntralement plus rtactifs dans le 
+cas des esters (1 l d ) . I1 nous a semblt inttressant d'envisager 
+le cas d'un substrat lactonique plus propice 2 l'hypothkse du 
+mtcanisme solvolytique que les lactones 1. 
+Dans le present mtmoire, nous examinerons le cas des 
+sttrtoisomkres a et b des a-mtthyl-halolactones 3 et 4. 
+L'utilisation de tels substrats tertiaires devrait privilegier les 
+mtcanismes solvolytique ou par paire d'ions au dttriment 
+
+LiBr 
+
+du mtcanisme E2C. Nous montrerons que des considtrations 
+cinttiques de nature semi-quantitative et que des observations 
+sttrtochimiques simples permettent, notamment par comparai-
+son du comportement dans divers solvants, de proposer un 
+schtma rtactionnel assez dttaillt. Nous tiendrons compte 
+tgalement de l'orientation de la rtaction vers le buttnolide 5 
+plut8t que vers la mtthylkne-lactone 6. 
+
+Resultats experimentaux 
+Les bromolactones 3 a et 3 b sont prtpartes 2 partir du 
+compost dihydrofurannique 7 en deux Ctapes (addition de 
+BrOH par action du N-bromosuccinimide dans le DMSO 
+humide suivie d'une oxydation douce) dans des conditions 
+cinttiques (I), avec un rendement global de 97% (voir partir 
+
+exptrimentale) . 
+
+1. Auteur B qui adresser toute correspondance. 
+
+2. Revision r e y e le 29 janvier 1987. 
+Can. J. Chem. Downloaded from www.nrcresearchpress.com by 87.160.185.190 on 03/27/14 
+
+For personal use only. 
+
+
+CAN. 1. CHEM. VOL. 65, 1987 
+
+TABLEAU 1. RtactivitC des brornolactones 3a et 36 dans le DMF 
+
+Produits forrnCs 
+Produits 
+Lactone 
+Experience 
+d e depart 
+Conditions 
+Sel 
+% E2(5) 
+
+% SN2 residuelle 
+( 3 b ) / ( 3 0 ) ~ 
+
+1 
+3a 
+100°C; 1 ha 
+LiBr, 2 tquiv. 
+80 
+
+b 
+
+= 20 
+2 
+3a 
+60°C; 3 h 
+LiBr, 2 Cquiv. 
+29 
+lO(36) 
+6 1 
+10161 = 0,164 
+3 
+3a 
+60°C; 1 h 
+LiC1, 2 Cquiv. 
+65 
+23(4b) 
+12 
+4 
+3a 
+50°C; 30 rnin 
+LiCI, 2 Cquiv. 
+25 
+lO(4b) 
+65 
+5 
+3a 
+50°C; 1 h 
+LiC1, 1 Cquiv. 
+28 
+lO(46) 
+62 
+6 
+3a 
+100°C; 1 hc 
+LiI, 2 Cquiv. 
+40 
+6(3b) 
+54 
+6/54 = 0,11 
+7 
+3a 
+60°C; 3 h 
+LiI, 2 Cquiv. 
+6 
+0 
+94 
+8 
+36 
+60°C; 15 rnin 
+LiC1, 2 Cquiv. 
+17 
+53(4a) 
+30 
+9 
+36 
+60°C; 30 rnin 
+LiC1, 2 Cquiv. 
+25 
+70(4a) 
+5 
+10 
+36 
+60°C; 3 h 
+LiBr, 2 Cquiv. 
+13 
+75 (3a) 
+12 
+12/75 = 0,16 
+1 1 
+36 
+60°C; I h 
+LiBr, 2 Cquiv. 
+7 
+72(3a) 
+21 
+21/72 = 0,29 
+
+"Dans les mimes conditions, mais au bout de 3 h, la transformation en butCnolide est totale. Le rendement en buttnolide purifit est 
+alors de 94%. 
+*Trace non dosable par rmn. 
+'Au bout de 3 h, on peut Cgalernent isoler apres traiternent (lavage a I'eau, extraction a I'Cther ... ) 10% de a-hydroxylactones (13). 
+dValeur rnesurCe en fin d'exptrience. L'Cquilibre correspond a une valeur de I'ordre de 0,16 $60°C. 
+
+N.B. Les dosages sont effectuts par intkgration en rmn et confirmCs par ccm preparative. Les experiences ont ttC reptttes (2-3 fois) 
+
+de fason indkpendante avec obtention d'tcarts infkrieurs i 3%. Les rtsultats obtenus dans les expkriences prtlirninaires et dans des 
+conditions intermkdiaires (ou plus stveres) sont cohtrents avec le reste du tableau et ne sont pas mentionnts. La nature de I'halogene 
+pdsent dans les produits de substitution est confirmie par spectrographie de masse et par analyse centtsimale. 
+
+TABLEAU 2. ~t u d e 
+
+d e la brornolactone 3a dans des solvants de differentes polaritCs 
+
+Produits forrnCs 
+Lactone 
+Exptrience 
+Solvant 
+Conditions 
+Sel 
+
+% E2 (5) % SN2 residuelle 
+
+(36)/(3a) 
+
+Tolukne 
+Ether 
+Acetonitrile 
+Acetone 
+Acetone 
+Acetone 
+
+DMF 
+DMF 
+DMF 
+DMF 
+DMF 
+DMF 
+DMF 
+DMF 
+DMF 
+DMSO 
+
+Reflux 
+Reflux 
+Reflux 
+Reflux 
+
+Reflux, 3 h 
+Reflux, 3 h 
+60°C; 3 h 
+60°C; 7 h 
+80°C; 1 h 
+80°C; 3 h 
+80°C; 8 h 
+80°C; 12 h 
+100°C; 1 h 
+60°C; 3 h 
+50°C; 30 h 
+80°C; 3 h 
+
+OM&amp;me rCsultat avec et sans LiBr. 
+bMime rCsultat avec et sans LiCI. 
+"Deux equivalents de sel(0,8 mmol LiBr ou LiCI) dans 10 mLde solvant pour 1 equivalent (0.4 mmol) de bromolactone 3a. 
+
+N.B. Voir tableau 1. 
+
+L'isomere majoritaire 3a correspond a l'attaque Clectrophile 
+du brome par la face la moins encombrte du dihydrofuranne 
+(face a) (1). 
+Les chlorolactones 4 sont obtenues de f a ~o n analogue en trois 
+ttapes. L'isombre 4a est alors initialement obtenu pur et son 
+Cpimere 4b est prtparC par isomtrisation dans la prksente Ctude. 
+Les quatre lactones sont aisCment identifiables par rmn du 
+proton et par chromatographie en couche mince sur silice (ccm). 
+Les dosages rtalises au cours de 1'Ctude qui suit (tableaux 1-4) 
+ont Ctt effectuCs par inttgration en rmn pour la rnise au point des 
+conditions expkrimentales jusqu'a obtention de rksultats repro-
+ductibles a 2 ou 3% prks. Les dosages sont alors confirmts par 
+
+ccm prtparative et les tchantillons purifits envoyts a I'analyse 
+
+et ti la spectrographie de masse pour vCrifier notamrnent la 
+
+nature de I'halogene prCsent (voir partie experimentale). 
+D'une f a ~o n gCnCrale, les halolactones 3 et 4 , a halogkne 
+tertiaire, sont moins rtactives (en ce qui concerne l'tlimination) 
+que les bromolactones 1. Dans les conditions ou ces dernikres 
+rtagissent totalement pour former le buttnolide 2 (isolt avec 
+un rendement de 95% (I)), les taux de transformation des 
+bromolactones 3 et des chlorolactones 4 en butCnolide 5 sont 
+seulement de 80 et 24% respectivement (action des sels LiBr ou 
+LiCl, dans le DMF, 1 h a 100°C, tableaux 1 et 3, experiences 
+no 1). Dans ces conditions, on peut observer l'tquilibration des 
+Can. J. Chem. Downloaded from www.nrcresearchpress.com by 87.160.185.190 on 03/27/14 
+
+For personal use only. 
+
+
+GHARBI-BENAROUS ET AL. 
+
+TABLEAU 3. RCactivitC des chlorolactones 4a et 46 dans le DMF 
+
+Produits formCs 
+Produit 
+Lactone 
+Exp6rience 
+de dCpart 
+Conditions 
+Sel 
+% E2 (5) % SN2 rksiduelle 
+(4b)/(4a) 
+
+1 
+4a 
+100°C; 1 h 
+LiC1, 2 Cquiv. 
+24 
+14(4b) 
+62 
+14/62 = 0,23 
+2 
+4a 
+100°C; 3 h 
+LiC1, 2 Cquiv. 
+54 
+12(4b) 
+34 
+12/34 = 0,351 
+3 
+4a 
+80°C; 3 h 
+LiC1, 2 Cquiv. 
+25 
+12(4b) 
+63 
+12/63=0,19 
+4 
+4a 
+80°C; 6 h LiC1, 2 Cquiv. 
+40 
+ll(4b) 
+49 
+11/49=0,23 
+5 
+4a 
+60°C; 1 h LiC1, 2 Cquiv. 
+0 
+0 
+100 
+6 
+4a 
+60°C; 3 h 
+LiC1, 2 Cquiv. 
+5 
+ll(4b) 
+84 
+11/84 = 0,13 
+7 
+4a 
+60°C; 6 h 
+LiC1, 2 Cquiv. 
+10 
+ll(4b) 
+79 
+11/79=0,14 
+8 
+4a 
+60°C; 6 h 
+LiBr, 2 Cquiv. 
+0 
+0 
+100 
+9 
+4a 
+100°C; 1 h 
+LiBr, 2 Cquiv. 
+10 
+3(4b) 
+87 
+3/87 = 0,035 
+10 
+4a 
+100°C; 3 h 
+LiBr, 2 Cquiv. 
+29 
+9(4b) 
+62 
+9/62 = 0,145 
+11 
+46 
+60°C; 1 h LiC1, 2 Cquiv. 
+0 
+0 
+100 
+12 
+4b 
+60°C; 3 h 
+LiC1, 2 Cquiv. 
+12 
+16(4a) 
+72 
+72/16=4,5 
+13 
+4b 
+100°C; 1 h LiC1, 2 Cquiv. 
+19 
+51(4a) 
+30 
+30151 = 0,59 
+14 
+4b 
+100°C; 3 h LiC1, 2 Cquiv. 
+41 
+37(4a) 
+22 
+22/37 = 0,59 
+
+N.B. Voir tableau 1 . 
+
+TABLEAU 4. ~t u d e de la chlorolactone 4a dans des solvants de diffkrentes polaritCs 
+
+Produits formCs 
+Lactone 
+ExpCrience 
+Solvant 
+Conditions 
+Sel 
+% E2 (5) % SN2 rCsiduelle 
+(4b)/(4a) 
+
+Tolukne 
+Ether 
+Acetonitrile 
+Acetone 
+DMF 
+DMF 
+DMF 
+DMF 
+DMF 
+DMF 
+DMF 
+DMF 
+DMSO 
+DMSO 
+DMSO 
+DMSO 
+
+Reflux 
+Reflux 
+Reflux 
+Reflux 
+100°C; 1 h 
+100°C; 1 h 
+100°C; 1 h 
+100°C; 3 h 
+100°C; 3 h 
+100°C; 3 h 
+80°C; 16 h 
+80°C; 3 h 
+100°C; 3 h 
+100°C; 1 h 
+80°C; 3 h 
+80°C; 3 h 
+
+"M&amp;me risultats avec et sans LiCI. 
+bDeux Cquivalents de sel (0,8 mmol LiBr ou LiCI) dans 10 mL de solvant pour 1 Cquivalent (0,4 mmol) de 
+chlorolactone 4a. 
+N.B. Voir tableau 1 . 
+
+stCrCoisornkres a et b sur les lactones rksiduelles. Contrairernent 
+au cas des lactones 1, l'expkrience rnontre que, pour les lactones 
+B halogkne tertiaire, on ne peut pas trouver de conditions 
+d'iauilibration (substitution) sans tlirnination (abaissernent 
+de la temperature, absence de nucltophile, changernent de 
+
+solvant . . .). Toutefois, par abaissernent de temperature, l'elimi-
+
+nation peut stre suffisarnment ralentie pour que la composition 
+d'kquilibre des brornolactones soit approxirnativernent observte 
+(K(3) = (3 b)/(3a) = 0,162 ? 0,002, exptriences no 2 et 10, 
+tableau 1). Pour les chlorolactones, bien que la vitesse d'ilirni-
+nation soit notablernent plus faible que pour les brornolactones, 
+la vitesse d'tpirnerisation du chlore reste toujours du rn&amp;rne 
+ordre de grandeur que la vitesse d'elirnination et le rapport 
+(4b)/(4a)stationnaire approxirnativernent atteint (0,4-0,6) ne 
+correspond pas forckrnent B la constante d'tquilibre (expe-
+riences no 2, 13 et 14, tableau 3). 
+Ces equilibrations sont etudiees sur des solutions de 10 rnL 
+
+de DMF contenant 0,4 rnrnol d'halolactone et 2 tquivalents 
+(0,8 rnrnol) du nucleophile (LiBr ou LiCl respectivernent) B 
+60°C pour les brornolactones et B 100°C pour les chlorolactones. 
+En l'absence du nucltophile, dans les rn&amp;mes conditions, 
+aucune reaction n'est observte (tableau 2, experience no 7, et 
+
+tableau 4, experience no 5). Pour developper 1'Ctude de ces 
+
+reactions, nous avons d'abord rnodifit la nature et la concentra-
+tion du nucltophile. 
+Au point vue prkparatif, signalons qu'on peut obtenir de 
+faqon optimum le butknolide 5 B partir de la brornolactone 3a, 
+en 3 h 2 100°C, dans les rntmes conditions (tableau 1, note a). 
+
+Changement de nuclkophile 
+L'utilisation des ions chlorures (LiCl) au lieu de brornure 
+(LiBr) avec les lactones brornCes 3 acctlkre la reaction 
+d'elirnination (tableau 1, experiences no 2 et 3 et experiences 
+no 9 et 10). On n'observe plus 1'Cpirnerisation du brorne et 
+Can. J. Chem. Downloaded from www.nrcresearchpress.com by 87.160.185.190 on 03/27/14 
+
+For personal use only. 
+
+
+2034 
+
+CAN. J. CHEM. VOL. 65, 1987 
+
+le seul produit de substitution trouve est la chlorolactone de 
+configuration inverse (4b a partir de 3 a et 4a a partir de 3b) 
+comme le montrent la chromatographie en couche mince 
+preparative (ccm), l'analyse centtsimale, la rmn du proton et la 
+spectrographic de masse. La comparaison des exptriences no 4 
+et 5 (tableau 1) montre que la vitesse de formation de la 
+chlorolactone 4b 2 partir de la bromolactone 3a est proportion-
+nelle a la concentration des ions chlorures : on obtient autant de 
+chlorolactone 4b (10%) en 1 h avec 1 tquivalent de C1-qu'en 
+30 min avec 2 Cquivalents. Aussi bien par sa stkrkochimie que 
+par son ordre, la rkaction est du type SN2. Notons que les deux 
+chlorolactones 4a et 4b sont stables dans les conditions de la 
+reaction (tableau 3, exptriences no 5 et 11). 
+L'utilisation des ions iodures (LiI au lieu de LiBr) ralentit au 
+contraire la reaction d'elimination qui reste tout de m&amp;me plus 
+rapide qu'en l'absence de sel (tableau 1, exptriences no 6 et 7, et 
+tableau 2, experiences no 7 et 13). La reaction de substitution 
+principalement observte est une lente tpimerisation du brome, 
+sans formation de lactones iodees. On observe en outre l'appa-
+rition d'une faible quantitt d'a-hydroxylactones (5-10%) 
+(lactols stCrtoisombres dtja decrits (13)). 
+En ce qui concerne les lactones chlortes 4, elles sont moins 
+reactives que les lactones bromCes 3. En prtsence de LiCl 
+dans le DMF, il faut attendre plusieurs heures 21 100°C, 
+pour approcher d'une composition stationnaire 4a 
+4b. En 
+prtsence de LiBr, la formation des lactones bromCes ne peut 
+&amp;we esptrCe que dans des conditions ou ces dernikres perdent 
+rapidement HBr (tableau 3, exptriences no 8 , 9 et 10). Dans ces 
+circonstances, on comprend qu'il n'est possible de changer 
+1'halogPne d'une halolactone que pour un halogPne plus lkger, 
+l'halolactone 21 halogkne plus lourd ttant notablement plus 
+rtactive que le produit de dtpart. 
+Notons que ce resultat est particulier aux halolactones 
+
+tertiaires puisque les bromolactones 1, a brome secondaire, 
+
+nous ont permis d'acctder par cette methode aux iodo-lactones 
+
+correspond ante^.^ 
+
+Injluence de la polarite' du solvant 
+Dans le DMF pur, lorsqu'on chauffe une solution de 
+bromolactone 3a i 80°C ou de chlorolactone 4a B 100°C, 
+on observe dans un premier temps une lente apparition du 
+buttnolide et de la lactone b isombre (tableau 2, exptrience 
+no 10, et tableau 4, exptrience no 8). De la m&amp;me fason qu'en 
+presence de sel, les deux rtactions apparaissent simultanement 
+vers ces temperatures (tableaux 2 et 4). Toutefois, les vitesses 
+de reactions sont trbs ralenties par rapport aux rtsultats observts 
+dans les conditions de reactions bimoltculaires (presence d'ions 
+Br-, C1-, I-). Nous avons donc entrepris l'ttude de l'influence 
+de la polaritt du solvant sur le declenchement de cette reaction 
+de type solvolytique. 
+L'Ctude a Ct C effectuee sur les lactones 3a et 4a dans des 
+solvants purs ou en prtsence d'un nucleophile (0,4 mmol dans 
+10 mL de solvant, avec tventuellement 2 tquivalents de sel, 
+tableaux 2 et 4). 
+Dans les solvants peu polaires (tolukne, ether, acttonitrile), 
+
+i reflux, aucune reaction n'est observte, m&amp;me en presence 
+
+de sels. 
+Dans les solvants plus polaires (DMF, DMSO) les reactions 
+d'tlimination et de substitution ont lieu, avec ou sans rtactifs 
+
+3. G. Dana et J. Gharbi-Benarous. Travaux non publiCs. 
+
+nuclCophiles, a des temptratures suffisamment tlevtes. A 
+
+temptrature ambiante aucune reaction n'est observte. I1 existe 
+enfin des temperatures intermtdiaires pour lesquelles les rtac-
+tions se produisent, mais seulement en prtsence de sels. C'est le 
+cas par exemple des reactions dans le DMF B 80°C pour la 
+chlorolactone ou 2 60°C pour la bromolactone. 
+L'acCtone se classe de ce point de vue parmi les solvants peu 
+polaires pour la chlorolactone (pas de rtaction, avec ou sans sel) 
+et comme solvant plus polaires pour la bromolactone (tableau 2, 
+experiences no 4 , 5 et 6), mais en raison de sa basse temptrature 
+d'tbullition, nous n'avons pu observer la rtaction en l'absence 
+de sel. 
+Avec la y-collidine, solvant basique, le milieu reste exempt 
+d'ions halogknures puisque le bromhydrate et le chlorhydrate 
+de collidine sont insolubles. Dans ces conditions nous avons 
+observe que la chlorolactone 4a donne lieu B une Climination 
+lente sans tpimerisation (formation de 10% de buttnolide 5 en 
+3 h 2 100°C) alors qu'avec la bromolactone 3a, l'tpimtrisation 
+du brome est rapide par rapport a l'tlimination (22% d'elimina-
+tion en 3 h a 100°C, avec un rapport (3b)/(3a) final = 0,15). 
+
+Discussion 
+I1 apparait que les reactions effectutes dans le DMF corres-
+pondent 2 un mecanisme complexe mettant en jeu, suivant les 
+conditions, des reactions de type solvolytique ou (et) des 
+reactions bimolCculaires : 
+
+Pour rendre compte d'une substitution typiquement bimolt-
+culaire sur un substrat tertiaire (15), nous envisageons l'hypo-
+thbse de la formation d'une paire d'ions sur laquelle s'effectue 
+l'attaque du nucltophile (16). Dans la paire d'ions, prtsentant 
+une liaison C-Br (ou C-Cl) activte, fortement polarisee, la 
+sttrtochimie de la molCcule de depart reste inchangke (10). 
+En effet, dans les solvants peu polaires (tolukne, tther, 
+acetonitrile), aucune reaction n'est observte, m&amp;me en prtsence 
+d'un nuclCophile. Dans de tels solvants, l'activation du substrat 
+ne se produit pas (k, = 0, schema 2). Ni le mtcanisme 
+bimolCculaire ni le mtcanisme solvolytique ne peuvent &amp;tre 
+d6clenchts. 
+Dans les solvants plus polaires comme le DMF ou le DMSO, 
+la paire d'ions 3 c se forme (k, f 0). Selon la temptrature, elle 
+peut reagir selon un mtcanisme bimoleculaire (6 condition qu'il 
+y ait un sel prbent) ou par voie solvolytique. Aux basses 
+temptratures (vers 50 ou 60°C pour la bromolactone 3a) et en 
+l'absence de sel, il n'y a pas de solvolyse, donc ks = 0 et aucune 
+reaction ne se produit malgre l'activation du substrat en paire 
+d'ions 3c. A la m&amp;me temptrature, mais en presence du sel 
+Li+Y-, [Y-] est difftrent de zero, et les reactions bimoltcu-
+laires apparaissent. Donc k2 et kr2 sont difftrents de ztro a une 
+temperature ou ks est encore pratiquement nul. Les produits 
+
+c1-
+
+observes dans ces conditions (3a -4b par exemple), 
+
+correspondent bien aux critbres cinttiques et stCrCochimiques 
+d'une rtaction bimolCculaire et il faut admettre que le mtca-
+nisme bimolCculaire se fait sur la paire d'ions 3c et non sur la 
+molCcule 3 a de depart puisqu'il ne se produit pas dans le tolukne 
+ou l'acttonitrile. 
+Toujours dans les solvants polaires, et en l'absence de sel 
+([Y-] = 0, la voie bimolCculaire est barrte), on peut declencher 
+les reactions de substitution et d'ilimination par la voie 
+solvolytique en augmentant la temptrature (ks devient alors 
+different de ztro). 
+Toutefois la formation du buttnolide, a partir de 3 a par 
+Can. J. Chem. Downloaded from www.nrcresearchpress.com by 87.160.185.190 on 03/27/14 
+
+For personal use only. 
+
+
+GHARBI-BENAROUS ET AL 
+
+exemple (schkma 2), entraine la liberation d'une quantite 
+Cquivalente d'ions bromures, et, trks rapidement, les mtca-
+nismes bimoleculaires entrent en competition avec la solvolyse 
+
+et deviennent prepondtrants, k2[BrP] &gt;&gt; ks : la paire d'ions 
+
+3c reagit beaucoup plus vite avec les reactifs nucleophiles 
+qu'avec le solvant. I1 suffit qu'il y ait tres peu de base Y-dans 
+le milieu rtactionnel pour que cette constante solvolytique soit 
+masquee par les constantes k2 et k r 2 , plus grandes. ~a n s 
+les 
+experiences de solvolyse (en l'absence de sel), on observe, en 
+effet, qu'aprks une ptriode d'induction (au cours de laquelle 
+les produits apparaissent lentement) l'tlimination s'accilkre de 
+fason considerable, et la reaction prend une allure autocataly-
+tique (tableau 2, experiences 10, 11 et 12) : il se forme plus de 
+butenolide en 4 h entre la 8" et la 12" heure ( + 2 3 % , 
+experiences 11 et 12) qu'en 5 h, entre la 3" et 8" heure (+9%, 
+exptriences 10 et 11) dans le DMF a 80°C, malgre la diminution 
+de concentration du substrat. Cette solvolyse ne semble pourtant 
+pas produire de carbocation libre puisque nous n'avons jamais 
+mis en tvidence de produits de substitution Clectrophile sur 
+l'anisole ou le toluene, en ajoutant ces reactifs (avec une 
+concentration de 10%) dans le DMF, dans les conditions de 
+la solvolyse. Dans le schema 2, nous avons donc represent6 
+l'intermediaire rtactionnel de la solvolyse sous forme d'une 
+paire d'ions intersolvatee R+//X-(10). 
+On voit que malgre la simplicite de l'idee de depart (eq. [I]) 
+une etude cinetique precise du schCma 2 n'est pas aisee d'autant 
+
+plus que l'isomkre 3b form6 ti partir de 3a va donner lieu aux 
+
+m&amp;mes reactions que 3a, mais avec des constantes de vitesses 
+propres. Ceci explique le point de vue semi-quantitatif adopte 
+dans cette ttude dans laauelle nous avons mis en evidence 
+la participation du solvant dans le processus bimoleculaire, 
+au cours d'une etape prkliminaire d'activation reversible des 
+halolactones. Cependant le mecanisme du transfert d'hydro-
+
+gkne dans l'ttat de transition reste a discuter. Compte tenu du 
+
+faible caractkre basique des rtactifs nucleophiles Y-(Cl-ou 
+Br-), on peut a priori envisager une approche de type E2C sur la 
+paire d'ions preformte 3c (schema 3). 
+Une telle structure de l'ttat de transition permet de rendre 
+compte de la grande difference de reactivitt entre les ions C1-, 
+Br-et I-pour des raisons tvidentes de difficult6 d'approche 
+dile a la presence du methyle. 
+
+DBN 
+
+-0 
+
+(Tolukne) 
+
+De la m&amp;me fason, les resultats obtenus suggkrent que les 
+rkgles de Saitzeff contr6lent l'orientation de l'elimination de 
+HBr. En effet, conduisant de preference aux olefines les plus 
+substitutes (17), un ttat de transition E2C privilegie la forma-
+
+tion du butenolide 5 par rapport 2 la mtthylene lactone 6, dont la 
+
+double liaison est moins substituee (18). 
+Une orientation exocyclique de l'tlimination sur un substrat 
+analogue a tt&amp; observe (19) pour la methyl bromolactone A. En 
+utilisant le DBN comme reactif, G. Ourisson et coll. ont obtenu 
+la mtthylkne-lactone B correspondante (schema 4). 
+
+Or, une ttude sur la reaction d'tlimination avec LiBr dans le 
+DMF ou avec le DBN dans le DMF pour les haloesters de type 
+ArCH2-CX(R)-COOEt 
+(20) a prouve que 1'Ctat de transition 
+avec le DBN est bien du type E2C sans variation notable de 
+
+gComCtrie par rapport a LiBr. En fait dans le cas de la molecule 
+
+A, on ne pouvait escompter d'elimination antiptriplanaire de 
+HBr que du c6tt du methyle, conduisant obligatoirement i la 
+lactone insaturte exocyclique B. La reaction conduite de fason 
+
+similaire sur notre substrat 3 a , a donne en 30 min, a 100°C, 
+
+40% de butenolide 5 sans apparition de methylkne-lactone 6. 
+
+Can. J. Chem. Downloaded from www.nrcresearchpress.com by 87.160.185.190 on 03/27/14 
+
+For personal use only. 
+
+
+2036 
+
+CAN. J. CHEM. VOL. 65, 1987 
+
+TABLEAU 5. Spectres rmn ('H) des halolactones 3 et 4 effectuCs a 80 MHz (TMS interne, S en pprn, J en Hz). ~t u d e des effets 
+
+de solvants entre CDC13 et C6D6 (cf. fig. 1)" 
+
+CornposC 
+Solvant 
+6 H(Me) 
+S H3P 
+6 H3a 
+6 H4a 
+6 H(Ph) 
+J (H3aH3P) 
+J (H3PH4) 
+J (H3aH4) 
+
+4,94 (dd) 
+5,47 (dd) 
+
+5,01 (dd) 
+5,47 (dd) 
+
+4,530) 
+5,40(t) 
+
+"Le mithyle en 2 donne un singulet fin. Les trois protons H3 et H4 foment un systtme ABX. Les diplacements chimiques et les couplages 
+affichts sont les valeurs obtenues par ajustement des param2tres (programme PANIC). 
+
+NOTA : La discussion des valeurs de ce tableau et I'itude confomationnelle des lactones sera diveloppie dans un prochain mimoire. 
+
+Conclusion 
+En conclusion, on peut dire, pour ce substrat tertiaire, que 
+l'activation de la liaison C-X en a du carbonyle en paire d'ions 
+peut avoir lieu sous l'effet de solvants suffisamment polaires. 
+Elle rend alors possible (avec des nucleophiles faiblement 
+basiques) des mecanismes bimolCculaires SN2, normalement 
+peu probables sur des substrats tertiaires, et E2. En l'absence 
+de nuclkophile, le mecanisme solvolytique peut intervenir pour 
+le dkclenchement de la reaction qui se poursuit alors selon le 
+processus bimolCculaire de f a ~o n 
+autocatalytique. On peut noter 
+qu'avec les lactones bromCes, cette activation est favoriske par 
+un meilleur groupe partant (Br-par rapport a C1-) et on observe 
+une grande diffkrence de rkactivitk entre les deux lactones 
+tertiaires, chlorke et bromke (3a et 4a). 
+Signalons enfin, que les deux substrats 3 et 1 presentent le 
+mCme interet preparatif pour les butenolides 5 ou 2, la reaction 
+d'klimination conduisant dans les deux cas avec des rendements 
+presque quantitatifs Bun butknolide pur a partir d'un melange de 
+lactones bromkes stCreoisom6res. 
+
+Partie experimentale 
+
+Les Ctudes spectroscopiques de ce travail et les microanalyses ont 
+Ct C effectuCes au Centre de spectrochirnie de Paris-Centre. 
+Les spectres rmn IH sont enregistrks sur spectrographe Bruker 
+WP-80, en solution dans CDC13 ou dans C6D6; les dkplacements 
+chimiques sont exprimes en 6 par rapport au tCtramCthylsilane utilist 
+cornrne rCfCrence interne. Les constantes de couplage sont exprirnCes 
+en hertz. 
+Les spectres de rnasse ont Ct C rCalisCs avec le spectrornttre Kratos 
+MS50 et les spectres ir en film liquide a 1'Ctat pur ou en pastille KBr, sur 
+un spectrographe Perkin-Elmer rnodtle 357. Les points de fusion ont 
+CtC dCtermines sur bloc Kofler. 
+Les differents produits sont purifies ou separes par chromatographie 
+en couche mince (ccrn) sur silice (gel de silice, Merck 60 PF 254). 
+Le systtrne de solvant utilisC cornrne Cluant est le melange Cther de 
+pttrole -Cther (EP:E), et la visualisation est effectuCe par uv. 
+
+Prkparation des bromolactones 3 
+Elles sont obtenues en trois Ctapes. 
+1. On prCpare le methyl-4 phenyl-2 dihydro-2,3 furarzne selon un 
+procCdC dCja dtcrit, par rCduction duplicative de I'aldChyde benzo'ique 
+et de l'a-rnCthyl acrolCine, en prCsence de rnagnCsiurn et d'acide 
+acetique (2c). La deshydratation de 1'hydroxytCtrahydrofuranne form6 
+par distillation en presence d'un cristal d'iode conduit au DHF 
+correspondant. L'analyse spectroscopique, en particulier la rrnn, est en 
+accord avec la description de ce produit dCji publiC (2b). 
+2. Les bromhydrines sont obtenues quantitativernent a partir du 
+dihydrofuranne selon une rnethode prCcCdernrnent utilisCe (1. 21). On 
+
+traite 500 rng de DHF avec 1,l g de NBS en solution dans le DMSO 
+
+(10 mL) hurnide, a froid (bain de glace). On ajoute une solution d'eau 
+
+bicarbonatte et on extrait B 17Cther. Par tvaporation du solvant on 
+obtient 8 10 rng de brornhydrines cristallisCes. Les deux brornhydrines 
+stCrtoisorntres 8 a et 8b sont stparCes par ccrn (EP:E = 80:20, 2 
+
+Clutions), R f (8a) = 0,36 (88%) et R f (8b) = 0,23 (12%), et 
+
+cristallisCes dans un melange EP:E = 90: 10. 
+Hydroxy -2P bromo-3a methyl-3P phenyl-5P titrahydrofuranr~e 
+(8a), F = 98°C; ir (KBr) : 3300 crn-'; rrnn 'H (C6D6) : 5,5 (H2a, s), 
+1,54 (H(Me), s), 2,17 (H4a), 1,82 (H4P), 5,4 (H5a), 7 (H(Ph)), 
+J (H4aH4P) = -14; J (H5H4a) = 5,8; J (H5H4P) = 10,2. Anal. 
+calc. pour CI1Hl3O2Br: C 51,36, H 5,06; tr. : C 51,17, H 5,07%. 
+Hydroxy-2 bromo-3P methyl-3aphe'nyl-5P tetrahydrofuranrze (8b), 
+
+F = 81°C; ir (KBr) : 3320 crn-' ; rmn 'H (C6D6) : la bandede R f = 0,23 
+
+correspond a deux isorntres en solution (anorntrisation au niveau du 
+
+carbone C2), 5,46 et 4,52 (H2, s), 1,58 et 1,34 (H(Me), s), 2,12 
+
+(H4, rn), 5,05 et 4,52 (H5a, t), 7,l (H(Ph)), J (H5H4a) + J (H5H4P) 
+
+= 14,5 et 16. Le rnerne dtdoublement du spectre apparait dans le 
+chloroforrne. Anal. calc. pour CllH1302Br : C 51,36, H 5,06; tr. : 
+C 51,65, H 5,12%. 
+3. L'oxydation a l'aide du rCactif de Jones du rnClange brut des 
+
+brornhydrines (1) (800 rng dans 20 mL d'acCtone), refroidi a O°C, 
+
+conduit au rnClange des deux lactones brornCes 3 a (88%) et 3b (12%) 
+cristallistes (782 rng) (dosCes par rmn) : rendernent 97% par rapport au 
+dihydrofuranne de depart. Les deux bromolactones 3a et 3b sont 
+
+stparables par ccm (EP:E = 80:20; R f (30) = 0,49, Rf (3b) = 0,26). 
+
+Ces deux isorntres cristallisent dans un melange EP:E = 90:lO. 
+Bromo-2a mkthyl-2P phe't~yl-4P butyrolactone (3a), F = 63°C; ir 
+(KBr) : 1780 cm-' ; rmn 'H (C6D6) et (CDC13) : tableau 5. Cet isorntre 
+
+est facilernent dosable en rmn, par son proton H4a ti 4,94 pprn dans 
+
+C6D6; mass m/e : 254 et 256 (Mf ). Ce doublet permet au cours de 
+cette Ctude de discerner sans arnbiguite cet isorntre 3a de son 
+hornologue chlorC 4a. Anal. calc. pour C1 IH1102Br : C 5 1,76, H 4,32; 
+tr. : C 51,72, H 4,52%. 
+Bromo-2P methyl-2 a phknyl-4P butyrolactone (3b), F = 6 1 "C; 
+ir (KBr) : 1780 crn-I; rmn 'H (C6D6) et (CDC13) : tableau 5. Cet 
+isorntre est dosable (et aisCment discernable de 3a) en rmn par la 
+position de son proton H4a a 4,53 pprn dans C6D6. La differenciation 
+entre 3b et le dCrivC chlort correspondant 4b s'effectue aisernent par 
+effet de solvant. 
+Notons en effet (tableau 5) que la partie AB du systtrne ABX a 
+merne aspect pour 3b et 4b dans C6D6, rnais se prksente de fa~on tres 
+
+differente dans CDCL3 : v~ -v~ est trts petit pour 3b (2,8 Hz a 
+
+80 MHz) et grand pour 4b (16 Hz). En fait, nous avons indiquC un 
+croisernent des dCplacernents chirniques de H3a et H3P entre ces deux 
+solvants. Ce croisernent eSt observe pour un melange CDC13-C6D6 = 
+
+70:30 pour 3b et 5050 pour 4b (fig. 1). Masse m/e : 254 et 256 ( ~t 1. 
+
+Ce doublet confirme la presence du brorne dans 3b par rapport a son 
+hornologue chlorC 4b. Anal. calc. pour CIIH1102Br : C 51,76, H 4,32; 
+tr. : C 51,85, H 4,49%. 
+
+Can. J. Chem. Downloaded from www.nrcresearchpress.com by 87.160.185.190 on 03/27/14 
+
+For personal use only. 
+
+
+Can. J. Chem. Downloaded from www.nrcresearchpress.com by 87.160.185.190 on 03/27/14 
+
+For personal use only. 
+
+
+2038 
+
+CAN. I. CHEM. VOL. 65, 1987 
+
+le buttnolide 5) est constituC principalement du substrat de dCpart et du 
+
+buttnolide, B partir de la chlorolactone 4a (10% 5 f 90% 4a en 3 h et 
+
+24% 5 f 76% 4a en 6 h); mais partir de 3a, on isole de plus son 
+
+isomere 3 b (22% 5 + 10% 3 b + 68% 3a en 3 h et 44% 5 f 8% 3b + 
+
+48% 3a en 6 h). 
+
+Elimination par le DEN 
+Unesolutionde 108,5 mg bromolactone3a (0,4 mmol) dans4 mLde 
+toluene anhydre est traitte avec 300 mL de DBN (diazo-1,5 bicyclo-
+nonene) et chauffke a 100°C pendant 30 min sous azote. Apres addition 
+d'Cther la phase organique est lavte avec une solution froide de HCl a 
+10% saturCe en sel. Toutes les phases aqueuses rCunies sont ensuite 
+
+extraites B 1'Cther. Les phases organiques stchtes sur sulfate de 
+
+sodium, CvaporCes sous vide, fournissent apres sCparation sur silice, 
+30 mg du butCnolide 5 (rendement : 40%). 
+
+1. J. GHARBI-BENAROUS, M. S. MORALES-RIOS et G. DANA. Can. J. 
+Chem. 63, 2384 (1985). 
+2. (a) J. WIEMANN. Bull. Soc. Chim. Fr. 2545 (1964); (b) P. 
+SCRIBE. C.R. Acad. Sci. SCrie C, 261, 160 (1965); (c) G. DANA 
+et A. ZYSMAN. Bull. Soc. Chim. Fr. 1951 (1970). 
+3. ( a ) J. C. PALAD~NI et J. CHUCHE. Bull. Soc. Chim. Fr. 197 
+(1974); (b) S. HOLLAND et R. EPSZTEIN. Synthesis, 706 (1977). 
+4. G. DANA, B. FIGADERE et E. TOUBOUL. Tetrahedron Lett. 26, 
+5683 (1985). 
+5. (a) D. CAINE et A. S. FROBESE. Tetrahedron Lett. 19, 5176 
+(1978); (b) E. J. COREY et G. SCHMIDT. TetrahedronLett. 21,731 
+(1980). 
+6. ( a ) Y. S. RAO. Chem. Rev. 76, 625 (1976); (b) E. DEMOLE et 
+D. BERTHET. Helv. Chem. Acta, 55, 1866 (1972). 
+7. (a) W. T. FORD. ACC. Chem. Res. 6, 410 (1973); (b) D. 
+MCLENNAN. Tetrahedron, 31, 2999 (1975). 
+8. ( a ) G. BIALE, D. COOK, D. J. LLOYD, A. J. PARKER, I. D. R. 
+STEVENS, J. TAKAHASHI et S. WINSTEIN. J. Am. Chem. Soc. 93, 
+4735 (1971); (b) P. BELTRAME, G. BIALE, D. J. LLOYD, A. J. 
+PARKER, M. RUANE et S. WINSTEIN. J. Am. Chem. Soc. 94,2240 
+(1972). 
+
+9. F. G. BORDWELL. ACC. Chem. Res. 5, 374 (1972). 
+10. R. A. SNEEN. ACC. Chem. Res. 6, 46 (1973). 
+11. ( a ) N. H. CROMWELL, R. P. AYER et P. W. FOSTER. J. Am. 
+Chem. Soc. 82, 130 (1960); N. H. CROMWELL et P. H. HESS. 
+J. Am. Chem. Soc. 83, 1237 (1961); (b) M. CHARPENTIER-
+MORIZE. Bull. Soc. Chim. Fr. 344 (1974); ( c ) K. TAKEUCHI, 
+T. KITAGAWA et K. OKAMOTO. J. Chem. Soc. Chem. Commun. 
+7 (1983); ( d ) A. C. HOPKINSON, L. H. DAO, P. DUPERROUZEL, 
+M. MALEKI et E. LEE-RUFF. J. Chem. Soc. Chem. Commun. 
+727 (1983); (e) L. H. DAO, M. MALEKI, A. C. HOPKINSON et 
+E. LEE-RUFF. J. Am. Chem. Soc. 108,5237 (1986). 
+12. (a) G. P. NILLES et R. D. SCHUETZ. Tetrahedron Lett. 4313 
+(1969); (b) A. C. HOPKINSON, E. LEE-RUFF et M. MALEKI. 
+Synthesis, 366 (1986). 
+13. G. LECLERC, C. G. WERMUTH et J. SCHREIBER. Bull. Soc. Chim. 
+Fr. 1302 (1967). 
+14. S. A. M. T. HUSSAIN, W. D. OLLIS, C. SMITH et J. F. STODDART. 
+J. Chem. Soc. Perkin Trans. 1, 1480 (1975). 
+15. C. A. GROB, K. SECKINGER, S. W. TAM et R. TRABER. 
+Tetrahedron Lett. 3051 (1973). 
+16. F. G. BORDWELL et T. G. MECCA. J. Am. Chem. Soc. 94,2119 
+(1972). 
+17. G. BIALE, A. J. PARKER, I. D. R. STEVENS, J. TAKAHASHI et 
+S. WINSTEIN. J. Am. Chem. Soc. 94, 2235 (1972). 
+18. (a) J. F. BUNNETT. Angew. Chem. Int. Ed. Engl. 1,225 (1962); 
+J. F. BUNNETT. Surv. Progr. Chem. 5, 53 (1969); (b) J. F. 
+BUNNETT et L. D. ECK. J. Am. Chem. Soc. 95, 1897 (1973); 
+95, 1900 (1973). 
+19. A. E. GREEN, J. C. MULLER et G. OURISSON. J. Org. Chem. 39, 
+186 (1974). 
+20. H. KWART, A. GAFFNEY et K. A. WILK. J. Org. Chem. 48,4509 
+(1983). 
+21. ( a ) D. R. DALTON, V. P. DUTTA et D. C. JONES. J. Am. Chem. 
+Soc. 90, 5498 (1968); (b) D. R. DALTON et V. P. DUTTA. 
+J. Chem. Soc. (B), 85 (1971). 
+22. G. DANA et C. Roos. Bull. Soc. Chem. Fr. 371 (1973). 
+
+Can. J. Chem. Downloaded from www.nrcresearchpress.com by 87.160.185.190 on 03/27/14 
+
+For personal use only. 
+
+
+
+	
+

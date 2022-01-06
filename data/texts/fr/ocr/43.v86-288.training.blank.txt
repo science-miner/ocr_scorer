@@ -1,0 +1,465 @@
+
+	
+
+		
+
+	
+
+	
+
+Utilisation de 1'ortho-tolidine pour !'etude des rkactions des halogenates et halogknitesl 
+
+GUY SCHMITZ ET HENRI ROOZE 
+
+Universite' libre de Bruxelles, Faculte' des sciences appliquees, 50 avenue F. Roosevelt, 1050 Bruxelles, Belgique 
+R e p le 29 janvier 1986 
+
+GUY SCHMITZ et HENRI ROOZE. Can. J. Chem. 64, 1747 (1986). 
+
+Nous avons montrC prCcCdemment, que l'ortho-tolidine simplifie fortement I'Ctude cinktique des rkactions redox du chlorite 
+en rCagissant avec des produits intermkdiaires et en supprimant des rCactions secondaires. Cette Ctude Ctablit la validit6 de la 
+mCthode dans le cas de rkactions du bromate. Pour la reaction bromate-bromure elle donne la loi classique d'ordre quatre avec 
+k = 1 3 4 M-j s f ' en milieu perchlorique de force ionique 1 MA 2S°C, et une constante d'aciditC de I'acide bromique valant 2,9. 
+Cette mtthode est ensuite utilisCe pour Ctudier la reaction entre le bromate et le chlorite, rkaction complexe en absence 
+d'ortho-tolidine. On obtient la loi cinCtique 
+
+avec k = 0,83 + 0,76 [H+] dans les m&amp;mes conditions. Si [H'] = 0,l M 1'Cnergie d'activation apparente vaut 47,4 kJ/mol. 
+
+Guy SCHMITZ and HENRI ROOZE. Can. J. Chem. 64, 1747 (1986). 
+
+We have shown previously that ortho-tolidine greatly simplifies the kinetic study of redox reactions of chlorite by reacting 
+with intermediate products and eliminating side reactions. The present study shows the validity of the method in the case of 
+bromate reactions. For the bromate-bromide reaction it gives the classical fourth-order rate law with k = 1.54 M-; S-' in 
+perchloric acid solutions at 25OC and 1 M ionic strength, and an acidity constant of bromic acid of 2.9. This method is then used 
+to study the reaction between bromate and chlorite, a complex reaction in the absence of ortho-tolidine. The rate law is 
+
+with k = 0.83 + 0.76 [H'] in the same conditions. If [H'] = 0.1 M the apparent activation energy is 47.4 kJ/mol. 
+
+Introduction 
+L'ortho-tolidine (biphenyl-4,4' diainino-3,3' dimethyl) per-
+met d'obtenir simplement et avec precision les caracteristiques 
+cinetiques de nombreuses rkactions redox des halogenates et 
+halogknites. Nous avons discutC antkrieurement ses proprietks 
+
+et les avons mises 2 profit pour etudier la cinetique de la 
+
+dismutation du chlorite catalyske par les ions C 1 (1) et par le 
+
+fer (2). 
+
+En rCsumC, ni le chlorate ni le chlorite n'oxydent l'ortho-
+tolidine avec une vitesse mesurable. Par contre le chlore, l'acide 
+hypochloreux et le dioxyde de chlore l'oxydent extrkmement 
+rapidement. Le produit de son oxydation prksente, si le pH 
+est inferieur a 2,5, une bande d'absorption intense aysnt son 
+maximum a 440nm. Les absorbances mesurees sont repro-
+ductibles et, si la concentration en ortho-tolidine n'est pas trop 
+ClevCe, suffisamment stables pour permettre des mehures tres 
+prkcises. Nous avons gCn6ralement utilise des concentrations 
+infkrieures a 5 X 
+M. 
+L'klimination de produits intermediaires des reactions Ctu-
+dikes simplifie leurs micanismes et le coefficient d'absorption 
+molaire Clevk de l'ortho-tolidine oxydee, 59 700 M-' cm-', 
+permet une mesure aisCe de leurs vitesses initiales. Nous 
+montrons dans cet article que cette methode est egalement utile 
+pour Ctudier des rkactions du bromate, en particulier la reaction 
+bromate-chlorite. 
+
+Technique exphimentale 
+
+Les solutions de chlorite de sodium sont prCparCes a partlr de chlorite 
+commercial purifiC par trois recristallisations successives. Elles sont 
+conservees dans le noir en milieu lkgerement basique et standardiskes 
+par iodomCtrie. Elles restent stables pendant plusieurs jours et donnent 
+
+1 . Article n04 de la sCrie c~MCcanisme des reactions du chlorite et 
+du dioxyde de chlore.,, 
+
+des rCsultats reproductibles. Le bromate de la qualit6 &lt;&lt;pour analyses,, 
+est recristallisk, les traces de bromure qu'il contient pouvant influencer 
+certains rksultats. L'aciditC est fixCe avec de l'acide perchlorique et la 
+force ionique avec du perchlorate de sodium &lt;&lt;pour analyses,), utilisCs 
+sans purification supplkmentaire. 
+Les rkactifs, conservks dans un thermostat, sont mClangCs rapide-
+ment et transfkrks dans la cuvette thermostatisCe d'un spectrophoto-
+mktre Beckman DBGT. Sauf prCcision contraire, la tempkrature est 
+
+maintenue a 25 i O,l°C. Les conditions expCrimentales sont toujours 
+
+telles que l'on mesure des vitesses initiales. En enregistrant, en 
+
+fonction du temps, l'absorbance a 440nm due a l'oxydation de 
+
+l'ortho-tolidine, on obtient des droites dont les pentes donnent ces 
+vitesses. La linCaritC des enregistrements est importante car elle assure 
+qu'au cours d'une mesure on peut nCgliger la dkgradation de l'ortho-
+tolidine oxydCe. Nous abrCgerons la formule de l'ortho-tolidine en 
+NH2RNM2 et celle de sa forme oxydCe en NHRNH. 
+
+Reaction de I'ortho-tolidine avec le brome 
+L'ortho-tolidine est oxydCe extrkmement rapidement par le 
+brome suivant [I]. Nous avons obtenu le m&amp;me maximum 
+
+d'absorbance 2 440 nm avec le m&amp;me coefficient d'absorption 
+
+molaire que dans le cas du chlore (cf. fig. 1). Comme dans ce cas 
+le pH doit &amp;tre infkrieur a 2,5 et il est preferable de limiter la 
+concentration en ortho-tolidine 2 t 5 x lop4 M. Avec un exces de 
+
+Br2 on obtient [NHRNH] = [NH2RNH210 ce qui montre que 
+1' ortho-tolidine n'est pas bromee. 
+
+[I] WH2RNH2 + Br2 NHRNH + 2Br-+ 2HL 
+
+En milieux tres acides (1 M en HC104) ou avec des 
+concentrations en B r supkrieures a 
+M nous avons obtenu 
+
+des rapports [NHRNH] / [Br210 infkrieurs a 1. Ceci ne rCsulte 
+
+pas de la rkversibilite de la reaction [I] (nous avons vkrifit 
+que Br-ne rCduit pas NHRNH) mais probablement de traces 
+Can. J. Chem. Downloaded from www.nrcresearchpress.com by 87.160.185.190 on 03/27/14 
+
+For personal use only. 
+
+
+1748 
+
+CAN. J. CHEM. VOL. 64. 1986 
+
+FIG. 1. Reaction de l'ortho-tolidine avec le brome. [NH2RNH2] = 
+5 x 
+
+M ; [HCIO,] = 0,02 M . 
+
+d'impuretts oxydables dans les reactifs. Par exemple, l'addition 
+prCalable d'un peu d'iodure rCduit la quantite de NHRNH 
+formte : une fraction du brome oxyde l'iodure en iode et celui-ci 
+n'oxyde pas l'ortho-tolidine. Un tel effet peut fausser le dosage 
+du brome par l'ortho-tolidine mais pas nos mesures cinktiques : 
+aprks oxydation de ces impuretCs la vitesse de formation de 
+NHRNH devient bien proportionnelle a la vitesse de reaction. 
+Quoi qu'il en soit. ce qui constitue la garantie finale de la 
+validit6 de nos mesures est la linearit6 des enregistrements de 
+l'absorbance en fonction du temps. Les vitesses sont dCduites 
+des pentes de ces droites et independantes du temps zero. 
+
+Cinetique de la reaction bromate-bromure en presence 
+d'ortho-tolidine 
+L'ortho-tolidine n'est pas oxydCe directement par le bromate 
+avec une vitesse mesurable. La trks faible vitesse d'oxydation 
+que l'on peut parfois observer depend de la purete des rCactifs. 
+I1 faut en particulier Climiner les traces d'halogCnures dans le 
+bromate. 
+Dans une solution acide de bromate et de bromure on obtient 
+la rCaction classique 121. 
+
+En prtsence d'ortho-tolidine le brome ainsi form6 rCagit 
+rapidemene suivant [I] et l'on obtient globalement [3]. 
+
+L'Ctude de cette rCaction nous a permis d'une part de 
+confirmer la validit6 de la mtthode 2 1' ortho-tolidine dans le cas 
+des rCactions du bromate, d'autre part de preciser l'effet du pH 
+sur la rkaction [2] en milieux trks acides. 
+
+La rCaction [2] obCit a la loi cinCtique [4] (3-8). 
+
+En ~r6sence d'ortho-tolidine 1'Cta~e dkterminante reste la 
+
+FIG. 2. RCaction bromate-bromw. [NH2RNH2] = lop4 M . [HClo,] 
+= 0,203, [NaBr03] = 5 X l o p 4 ~( 1 ) ; 
+[HC104] = 0,203, [NaBr03] = 
+M (2); [HC104] = 0,406, [NaBr03] = 5 X 
+
+M (3). 
+
+TABLEAU 1. RCaction bromate-bromure 
+
+T = 25"C, I = 1 M. Les nombres de mesures sont 
+indiques entre parentheses, les erreurs correspondent aux 
+ecarts-types. 
+
+sur la figure 2. Nous avons Cgalement verifiC l'ordre 1 par 
+rapport au bromate (10-4-10p3 M ) . Les vitesses sont indCpen-
+dantes de la concentration de l'ortho-tolidine (lop4 ou 4 x 
+lop4 M ) . Elles diminuent si la force ionique I augmente, 
+comme observt dans les travaux anterieurs. Avec [HC1041 = 
+0 , l M et [NaC104] variable, nous avons obtenu des vitesses 
+dans les rapports 1,52: 1,03 : 1,00 respectivement pour I = 0 , l , 
+0,5 et l ,O M . 
+Les valeurs des constantes cinetiques obtenues pour diffe-
+rentes aciditis, avec une force ionique fixCe a 1 M , sont 
+indiquCes dans le tableau 1. La colonne k,,, donne les valeurs 
+de k4 calcultes en prenant pour [BrO,-] la concentration totale 
+en bromate. On constate que k,,, diminue lorsque l'aciditC 
+augmente. Ceci s'explique par 1'Cquilibre 151. 
+
+Soient [NaBrO31 la concentration totale en bromate et K , la 
+constante dlaciditC de l'acide bromique. 
+
+En prenant K , = 2,9 M-' on obtient des valeurs de k4 
+
+Nos mesures de vitesses initiales de formation de l'ortho-
+indipendantes de 19acidid. Elles sont indiqukes dans le tableau 
+
+tolidine oxydCe sont en parfait accord avec cette loi. Quelques 
+1 et donnent en moyenne : 
+
+rCsultats montrant l'ordre 1 par rapport au bromure sont repris 
+k4 = 1,54 M -~ S-' 
+( T = 2s0@, 1 = 1 M) 
+Can. J. Chem. Downloaded from www.nrcresearchpress.com by 87.160.185.190 on 03/27/14 
+
+For personal use only. 
+
+
+SCHMITZ ET ROOZE 
+
+FIG. 3. Reaction bromate-chlorite. [NH2RNH2] = 10-QiZil. [HC104] 
+= 0,102. [NaC102] = 1,24 X 
+[NaBrO,] = 5 x 1 0 -9 (1); 
+[HC104] = 0,404, [NaC102] = l,00 X lo-? [[NaBrO?] = 5 X 
+M 
+(2). 
+
+L'effet de l'equilibre (51 n'Ctait pas apparu dans les travaux 
+
+antCrieurs car l'aciditi, soit Ctait trop faible pour qu'il appa-
+raisse, soit avait variC parallelement 2 la force ionique et l'effet 
+de celle-ci ttait dominant. La valeur adoptCe de Ka est tout a 
+fait raisonnable et se compare favorablement a une estimation 
+antCrieure : pK, = 0 , 7 (9). Les valeurs antCrieures de k4 
+permettant une comparaison avec la n6tre sont 2,32 et 1,18 pour 
+I = 1 M (4, 6) et 1,86 pour I = 0,8 M (8). 
+
+CinCtique de la reaction bromate-chlorite en presence 
+d'ortho-tolidine 
+Cette rCaction prCsente un intCret particulier d'une part dans 
+le cadre du micanisme de rCactions pkriodiques (101, d'autre 
+part parce que sa premiere Ctape correspond a 1'Cchange d'un 
+seul electron au contraire des rCactions classiques halogCnates-
+halogenures. 
+Lorsqu'on mClange des solutions de bromate et de chlorite on 
+obtient un systkme dont 1'Cvolution aussi bien stoechiomCtrique 
+que cinCtique est trks complexe. La premiere Ctape est [6]. 
+
+Le BrOz et le C1Q2 peuvent ensuite rCagir de diverses manihes. 
+Thompson (1 I) a CtudiC cette reaction en presence d'alcool 
+allylique qui, en captant le produit intermtdiaire HOBr, Climine 
+certaines complications. Cependant, m&amp;me ainsi la stoechio-
+mCtrie dCpend des conditions expCrimentales. Par contre, en 
+prisence d'ortho-tolidine on obtient simplement la stoechio-
+mitrie [7]. 
+
+Les expkriences de la figure 3 montrent que le chlorite n'est 
+pas consomm6 : la vitesse est inchangCe alors que I'on a oxydC 
+une quantite d'ortho-tolidine nettement superieure a la quantitC 
+de chlorite introduite. L'expCrience (2) a Ctt faite en presence de 
+5 x 10-5iong/L d'Agf pour Climiner l'effet des ions Br-
+produits par [7] qui sinon apparaitrait aux conversions ClevCes. 
+Par contre, lors de toutes les expkriences ci-aprks. les conver-
+sions sont resttes suffisamment faibles (quelques pourcents) 
+pour que cet effet soit nkgligeable. Rappelons que nos condi-
+
+FIG. 4. RCaction bromate-chlorite. [HC1O4] = 0,102, [NaBrO,] 
+
+= 
+
+[NH2RNH2] = lop%, I = 1 M. T = 25°C. 
+
+tions expirimentales sont toujours telles que les enregistrements 
+d'absorbances en fonction du temps soient lineaires et que l'on 
+mesure des vitesses initiales. 
+La simplification du mkcanisme se comprend aisCment. La 
+premiere Ctape reste [6] car l'ortho-tolidine ne rCagit ni avec le 
+bromate ni avec le chlorite. Ensuite nous savons qu'elle est 
+oxydie tres rapidement par le C102 suivant [8]. 
+
+[8] 2C102 + NH2RNH2 + 2HC102 + NHRNH 
+
+Le BrQ2 formi par [6] pourrait de m&amp;me &amp;tre rCduit par 
+l'ortho-tolidine en HBr02. Cependant celui-ci ne peut pas 
+s'accumuler dans le systeme et, quel que soit le micanisme de la 
+rtduction, on obtient la rCaction globale [9]. 
+
+[9] 2Br02 + SNH2RNH2 + 2Br-+ 2H-+ SNHRNH + 4H20 
+
+En combinant 161, [8] et [9] on obtient [7]. et 
+
+I . Rbultats a 25°C et I = 0 , I -I M 
+Les figures 4 et 5 donnent quelques exemples de nos mesures 
+
+Ctablissant l'ordre 1 par rapport au bromate et au chlorite. 
+L'ensemble des rCsultats obtenus est rCsumC dans le tableau 2. 
+Les constantes k,,, sont dCfinies par 
+
+oh [NaBr03] et [NaC1Q2] disignent les concentrations totales 
+et r ~, la vitesse de la catalyse par le fer de l'oxydation de 
+l'ortho-tolidine par Ie chlorite (2). Apres purification des 
+riactifs cette correction reste assez faible, gCnCralement moins 
+
+de 5 % , pour pennettre une dktermination prCcise de k,,, . Soient 
+
+Ka, et Ka2 les constantes d'aciditC de HBr03 et de HC1O2. 
+Posons 
+
+On obtient 
+Can. J. Chem. Downloaded from www.nrcresearchpress.com by 87.160.185.190 on 03/27/14 
+
+For personal use only. 
+
+
+1750 
+
+CAN. J. CHEM. VOL. 64. 1986 
+
+FIG. 5. RCaction bromate-chlorite. [HC104] = 0.102. [NaC102 1 = 
+
+1,69 X 
+[NH2RNH2] = 
+M , I = I M, T = 25°C. 
+
+TABLEAU 2. RCaction bromate-chlorite 
+
+T = 25°C; I = i M . 
+" I = 0.1 M . 
+bVCrification de l'invariance de la vitesse pour [NH,RNH,] = 5 x 1 0 ' -5 x 
+M. Les nombres de mesures sont indiques entre parentheses. les erreurs 
+correspondent aux Ccarts-type 
+
+Les valeurs de Ka2 ont Ct C mesurCes par Hong et Rapson (12) en 
+fonction de la force ionique. 11s ont obtenu K,, = 1,74 X l o P 2 
+pour I = 0,1 M et 2,4 x l o P 2 pour I = 1 M. La valeur de K,, 
+pour I = 1 M a Ct C dCduite de notre etude de la rCaction 
+bromate-bromure. Si elle varie en fonction de la force ionique 
+comme Ka2 on obtient K,, = 2 , l pour I = 0 , l M. Le choix de 
+cette constante n'influence quasi pas le calcul de k g . 
+
+Quelques mesures faites B des forces ioniques comprises 
+
+entre 0,1 et 1 M avec [HC104] = 0 , l M indiquent que k,,, varie 
+2 peu prks comme l'inverse de K,, , c'est-a-dire comme y H C I O ~. 
+L'examen du tableau 2 montre que k6 augmente avec 
+I'aciditC. Thompson (1 1) avait obtenu : 
+
+Nous verrons que, tenant compte de Kal et K,,, ses resultats 
+comme les n6tres se laissent mieux reprksenter par: 
+
+TABLEAU 3. RCaction bromate-chlorite. 
+Effet de la tempkrature 
+
+T ("c) 
+
+k,,, (M-2 S -I ) 
+
+33,3 
+
+5,04 1 0,35( 7) 
+25 ,O 
+2,98 (Tableau 2) 
+17,5 
+
+1,81 * 0,10( 6) 
+
+3,4 
+
+0,67 -C 0,04(11) 
+
+[HClO,] = 0 , l ; [NaCIO,] = 2,2 x 
+M; 
+[NaBrO,] = 5 X lo-,-0,01 M; I = 0 , l M. 
+
+FIG. 6.Constantes cinCtiques de la rCaction bromate-chlorite a 
+25°C. Cornparaison de nos valeurs (*) pour I = 1 M avec celles de 
+Thompson ( 0 ) pour I = 1,93 M. 
+
+2. Effet de la tempe'rature, I = 0,l M 
+Nos mesures de kc,, a diffkrentes tempkratures sont resumees 
+dans le tableau 3. On en dCduit une Cnergie d'activation de 
+47,4 kJ/mol. Comme k, , , depend 1'aciditC cette valeur n'est 
+
+en toute rigueur valable que pour 1'aciditC a laquelle elle a Ct C 
+
+dCterminCe, soit [HC104] = 0 , l M. Remarquons cependant 
+que Thompson a obtenu une valeur pratiquement identique, 
+47,7 kJ/mol, pour [HC104] = 1,92 M. 
+
+Conclusion et discussion 
+
+Pour discuter le mecanisme de rkactions complexes, telles 
+que les reactions phiodiques, il est souhaitable de connaitre les 
+constantes cinktiques de leurs composantes. La mCthode a 
+l'ortho-tolidine permet de mesurer simplement et avec prCci-
+sion certaines de ces constantes. 
+Nous avons confirme la validit6 de cette mCthode dans le cas 
+de reactions du bromate et determine la constante d'aciditC de 
+l'acide bromique. Nous l'avons cnsuite utiliske pour mesurer la 
+vitesse de 19Ctape dkterminante de la rCaction bromate-chlorite. 
+Pour interprCter l'effet de [H+] sur la vitesse de cette reaction 
+il faut tenir compte des constantes d'aciditC de l'acide chloreux 
+et de l'acide bromique. La figure 6 montre que la variation de k6 
+
+en fonction de [HA] est lineaire : k6 = 0,83 + 0,76[H-1. Cette 
+
+figure reprend Cgalement les valeurs de k6 dCdu~tes des mesures 
+de Thompson ( l l ) , en remarquant que ses constantes k, 
+correspondent, avec nos notations, a k,,,[H+] 13. Elles sont 
+
+compatibles avec les natres, compte tenu de la difference de 
+force ionique et des incertitudes affectant les mesures en 
+absence d'ortho-tolidine. Cette variation de k6 peut, par 
+exemple. &amp;tre interpretCe par [ 5 ] , [ l o ] , [ l 11 et [12]. 
+Can. J. Chem. Downloaded from www.nrcresearchpress.com by 87.160.185.190 on 03/27/14 
+
+For personal use only. 
+
+
+SCHMITZ ET ROOZE 
+
+1751 
+
+[I01 HBr03 + H+ = BrOzt, Hz0 
+
+5. A. SKRABAL et H. SCHREINER. Monatsh. 65, 213 (1935). 
+
+[11] Bro2+, H 2 0 + CIOz--+ BrOz + CIOz + H 2 0 
+
+6. W. C. BRAY et H. A. LIEBHAFSKY. J . Am. Chem. Soc. 57, 51 
+(1935). 
+
+[12] Broz+, H20 + HC102 -+ BrOz -t C102 + H 2 0 i-H+ 
+
+7. M. SCLAR et L. RIESCH. J. Am. Chem. Soc. 58, 667 (1936). 
+8. M. WRONSKA et M. WAWRZENCZYK. Z. phys. Chem. (Leipzig), 
+
+On obtient ainsi kg = k l l K 1 ~K a 2 / K a l 
+
++ k l Z K I O I H + ] / K a l . 
+
+256, 183 (1975). 
+9. PAUL PASCAL ( ~d i t e u r ) . 
+
+Nouveau trait6 de minCrale. 
+
+1. G. SCHMITZ et H. R o o z ~. Can. J. Chem. 59, 1177 (1981). 
+Tome XVI. Masson, Paris. 1960. p. 435. 
+2. G. SCHMITZ et H. R o o z ~. Can. J. Chem. 62, 2231 (1984). 
+10. M. ORBAN et I. R. EPSTEIN. J. Phys. Chem. 87, 3212 (1983). 
+3. A. SKRABAL et S. R. WEBERITSCH. Monatsh. 36, 21 1 (1915). 
+11. R. C. THOMPSON. Inorg. Chem. 12, 1905 (1973). 
+
+4. H. A. YOUNG et W. C. BRAY. J Am. Chem. Sot. 54, 4284 
+
+12, C. C. HONG et W. H. RAPSON. Can. J. Chem. 46. 2053 (1968). 
+(1932). 
+
+Can. J. Chem. Downloaded from www.nrcresearchpress.com by 87.160.185.190 on 03/27/14 
+
+For personal use only. 
+
+
+
+	
+

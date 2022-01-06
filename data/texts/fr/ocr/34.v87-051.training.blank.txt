@@ -1,0 +1,344 @@
+
+	
+
+		
+
+	
+
+	
+
+Chloration de I'acetanilide et de la benzanilide 
+en presence des cyclodextrines et de I'amylose 
+
+ROBERT C H ~N E V E R T 
+ET GUY AMPLEMAN 
+
+De'partement de chimie, Faculte' des sciences et de ge'nie, Universite' Laval, Que'bec (Que'.), Canada GIK 7P4 
+
+R e ~u le 28 avril 1986 
+
+ROBERT CH~NEVERT et GUY AMPLEMAN. Can. J. Chern. 65, 307 (1987). 
+La prksence des cyclodextrines ou de l'arnylose lors de la chloration de l'acktanilide ou de la benzanilide favorise la formation 
+de l'isomkre para au dktrirnent de l'isomkre ortho. La constante de dissociation du cornplexe acktanilide-a-cyclodextr~ne ainsi 
+que la disposition molkculaire de l'acktanilide dans la cavitC de l'a-cyclodextrine ont Ctk dkterminees par spectroscopie de 
+resonance magnktique nuclkaire du proton et du carbone-13. 
+
+ROBERT CH~NEVERT and GUY AMPLEMAN. Can. J. Chern. 65,307 (1987). 
+The ratio of ortho to para isomers in chlorination of acetanilide and benzanilide is changed in favour of the para isomer when 
+the reactants are entrapped in cyclodextrins or arnylose. The dissociation constant and the time-averaged position of acetanilide 
+in the a-cyclodextrin cavity have been determined by proton and carbon-13 nuclear magnetic resonance spectroscopy. 
+
+Introduction 
+Les cyclodextrines foment des composes d'inclusion en 
+solution aqueuse avec une grande varittt de substrats et elles 
+sont des catalyseurs de certaines rtactions organiques (1). Ces 
+systbmes sont des modbles de la rtaction enzymatique et leur 
+cinttique a t t t fortement Ctudite (2-4). Plus rtcemment, 
+lYinttr&amp;t s'est port6 vers l'ttude de la stlectivitt des rtactions en 
+prtsence de cyclodextrines. Les premiers travaux sont ceux de 
+Breslow et a l . sur la chloration de l'anisole par l'acide 
+hypochloreux en presence de 1' a-cyclodextrine (5, 6). Les 
+cyclodextrines ont aussi une influence sur la reaction de 
+Reimer-Tiemann (7), le rtarrangement photochimique de Fries 
+(8, 9), le rkarrangement du tttrafluoroborate de benzylmethyl-
+sulfonium (10) et sur la reduction des Cnones par le borohydmre 
+de sodium (1 1). D'autre part, l'amylose ou poly-(144)-a-
+D-glucose peut dans des conditions adtquates adopter la 
+conformation d'une helice a et inclure des substrats a l'inttrieur 
+de cette helice. Malgrt ce fait, l'amylose a rarement t t t 
+employee comme catalyseur dans les rtactions organiques. 
+
+I 
+
+Hui et a l . ont rapport6 une cinetique de saturation de type 
+enzymatique lors de l'ttude de l'hydrolyse d'esters en prtsence 
+de l'amylose ou de ses derivts (12). Plus rkcemment nous 
+avons dtcrit l'effet de l'amylose sur la reduction d'tnones 
+par le borohydmre de sodium (13) et sur un rtarrangement 
+photochimique de Fries (14). Nous dtcrivons dans cet article les 
+effets des cyclodextrines et de l'amylose sur la chloration de 
+l'acttanilide et de la benzanilide. 
+
+Resultats et discussion 
+La chloration de l'acttanilide et de la benzanilide par le chlore 
+a d'abord Ct C realiste dans l'eau pure, puis les resultats ont t t t 
+compares h ceux obtenus en presence de l'a-cyclodextrine 
+(a-CD), de la P-cyclodextrine (P-CD) ou de I'amylose. Un 
+equivalent molaire de cyclodextrine (a-CD et P-CD) a tte 
+employ6 alors que la concentration relative d'amylose ttait de 
+1 g/mmol de substrat. Les rtsultats sont dtcrits par I'tquation 
+[ l ] et le tableau 1. Dans tous les cas, la cyclodextrine favorise 
+
+, 
+
+I'introduction du chlore en position para et I'effet est plus 
+prononce avec l'a-CD. Nous avons donc CtudiC plus particu-
+ligrement le complexe a-CD-acttanilide. La constante de 
+dissociation Kd du cornplexe a t t t mesuree par spectroscopie de 
+rtsonance magnttique nucleaire du proton. Les dtplacements 
+
+1. Auteur i qui adresser la correspondance. 
+
+chimiques des protons aromatiques du substrat ont t t t mesurts 
+en fonction de la concentration de l'a-CD (tableau 2). Les 
+valeurs obtenues ont t t e traitees suivant la mtthode dtcrite par 
+Bergeron et a l . (1 5, 16) (diagramme de Benesi-Hildebrand). 
+
+La constante de dissociation trouvte est 5,O + 0 , 3 x lop2 M. 
+
+Cette constante est comparable B celle de I'acetate de phtnyle 
+(2,2 X lo-' M ) (17) ou du p-nitrotrifluoroacttanilide (6,l X 
+lop2 M ) (18) avec l'a-cyclodextrine. 
+La spectroscopie rmn h haute rCsolution (400 MHz) permet 
+aussi de dtterminer la position moyenne de I'acttanilide h 
+I'intCrieur de la cavite de la cyclodextrine. En effet, les protons 
+mtthine en position 3 et 5 de chaque unite de glucose pointent 
+vers I'interieur de la cavite de la cyclodextrine. L'obsewation 
+de ces protons en rmn montre qu'ils sont blindts lorsqu'ils se 
+trouvent dans le champ magnttique du nuage d'tlectrons T 
+d'un noyau aromatique (1 5, 16, 19-23). Les dtplacements 
+chimiques des protons de l'a-cyclodextrine en fonction de la 
+concentration de l'acttanilide sont rassemblts dans le tableau 3. 
+Les constantes de couplage entre les difftrents protons de 
+I'a-CD (JlV2 = 3,3 Hz, J2,3 = 9,8 Hz, J3,4 = 8 , 8 HZ, 54,s = 
+9,6 Hz) varient trbs peu lors d e l'addition d'acttanilide, ce 
+qui signifie qu'il n'y a pas distorsion des cycles de glucose. 
+
+A I'tchelle des temps de la rmn ' H , les six unitts d e glucose sont 
+
+dans des conformations identiques. Les valeurs des constantes 
+de couplage vicinaux sont en accord avec la conformation 
+chaise C1. I1 y a un dtplacement vers les champs forts des 
+protons H3 et H5, alors que les autres protons situ6s h l'exttrieur 
+de la cavitt ne montrent pas de dtplacements significatifs. Le 
+dtplacement de H3 est nettement plus prononct que celui de 
+H5. D'autre part, le dtblindage des protons en position ortho du 
+substrat est similaire a celui des protons meta et para. Ces 
+rtsultats montrent que le noyau aromatique se trouve vis-a-vis 
+le proton H3 de I'a-CD, c'est-a-dire du cot6 des hydroxyles 
+secondaires (cote le plus large du tore). Le schema 1 montre la 
+position du noyau aromatique dans la cavite de la cyclodextrine. 
+A priori, la molCcule d'acttanilide peut prendre deux orienta-
+Can. J. Chem. Downloaded from www.nrcresearchpress.com by 87.160.185.190 on 03/27/14 
+
+For personal use only. 
+
+
+308 
+
+CAN. J. CHEM. VOL. 65, 1987 
+
+TABLEAU 1. Chloration de l'acttanilide et de la benzanilide 
+
+0 
+
+Rendements 
+relatifs, %" 
+( ? 3%) 
+Rapport 
+Substrat 
+Conditions 
+ortho 
+para 
+ortholpara 
+
+R = CH3 
+Sans CD 
+a-CD 
+p-CD 
+Amylose 
+
+R = phenyl 
+Sans CD 
+a-CD 
+p-CD 
+Amylose 
+
+aMoyennes de trois essais. Taux de conversion : acttanilide (100%); 
+benzanilide (90%). Le taux de r6cup6ration des produits est supkrieur B 
+90% dans tous les cas. 
+
+TABLEAU 2. DCplacements chimiques des protons aromatiques de 
+carbone 4 est blind^ de 0,35 ppm (tableau 4). La fonction 
+
+l'acttanilidea dans le D 2 0 en fonction de la concentration de l'a-cyclo-
+
+amide Cmerge donc de la cavitt de la cyclodextrine par le cot6 
+
+dextrine (200 MHz) 
+
+des hydroxyles secondaires (schema 1). Cette disposition du 
+substrat permet d'expliquer la dlectivitt de la reaction de 
+
+8obs 
+
+h 8 
+chloration. Les positions ortho de l'acttanilide'sont masquCes 
+
+[a-CD] 
+
+Eobs 
+
+H para, mera 
+A 8 
+para 
+
+par la cyclodextrine alors que la position para qui occupe l'axe 
+
+(M) 
+H orrho (Hz) 
+(Hz) 
+ortho (Hz) 
+(Hz) 
+
+de la cavitt est relativement dtgagte. Le chlore pCnttre donc 
+dans la cavitt du cot6 des hydroxyles primaires pour r6agir avec 
+
+'Concentration de l'acttanilide fixe B 0,006 M. 
+
+tions difftrentes dans la cavitC de a-CD : le groupement amide 
+peut Ctre orient6 vers 1'intCrieur de la cavitt ou encore Cmerger 
+du cot6 des fonctions hydroxyles secondaires. L'orientation 
+rCelle pourrait &amp;tre Ctablie par une Ctude des dtplacements 
+chimiques (rmn 'H) des protons sur le noyau aromatique du 
+substrat : plus de dCblindage est fort plus le proton est inclu 
+profondement dans la cavitC de la cyclodextrine (21). Toutefois, 
+dans le cas de l'acetanilide, les dtplacements des protons ortho 
+sont presqu'identiques ii ceux des protons rne'ta et para et il est 
+impossible d'Ctablir l'orientation du substrat selon ce critkre. 
+L'orientation peut aussi &amp;tre dCterminCe par une etude des 
+dkplacements chimiques en rmn 13C des carbones du noyau 
+aromatique. Les carbones 1 et 4 situts dans l'axe de l'a-CD 
+seront blindts (dkplacement vers les champs forts) s'ils sont 
+profondement inclus dans la cavitt et dtblindts (dtplacement 
+vers les champs faibles s'ils sont dans la position inverse 
+(24-26)). I1 s'agit d'un effet de solvant, la cavitt de la 
+cyclodextrine fournissant un milieu moins polaire que son 
+environnement. Les dkplacements ont Ct C prtdits par des 
+calculs de mCcanique quantique et les orientations prCdites sont 
+
+conformes 2 celles dttermintes en solution par la rmn 'H et a 
+
+1'Ctat solide par des Ctudes de rayons-X (24). Ainsi, il a ttC 
+dCmontrC que l'acide benzoi'que, l'acidep-hydroxybenzoi'que et 
+le p-nitrophCno1 ont respectivement leurs groupements acide et 
+nitro orientts vers l'inttrieur de la cavitC de l'a-CD (24). Dans 
+le cas de l'acttanilide le carbon 1 est dCblindC de 0,29 ppm et le 
+
+la position para de l'acttanilide. Un mtcanisme similaire a Ctt 
+rapport6 par Komiyama et Hirai (27, 28) lors d'une Ctude de la 
+rCaction de Reimer-Tiemann en presence d e cyclodextrines. 11s 
+ont dtmontrC que l'addition de l'a-CD rend la rCaction sClective 
+en para et que le chloroforme ptnCtre dans la cavitC de l'a-CD 
+pour attaquer la position para du noyau aromatique. Lors de 
+1'Ctude de la chloration de l'anisole par l'acide hypochloreux en 
+prCsence de a-CD, Breslow a not6 une augmentation de vitesse 
+et une grande sClectivitC en para. Cet effet avait deux origines : 
+les positions en ortho sont masquCes par la formation du 
+complexe et la chloration en para est favorisCe par la formation 
+d'un ester hypochloreux avec un hydroxyle de la cyclodex-
+trine permettant une rCaction intra-complexe (5, 6, 29). Plus 
+rCcemment, Tee et Bennett ont Ctudit la cinttique de la 
+bromation de l'anisole par le brome en prksence de a-CD et ont 
+not6 une reduction du taux de bromation en prCsence de a-CD; 
+ils ont aussi dCmontrt que la rtaction n'implique pas l'acide 
+hypobromeux ou son ester (30). Dans notre cas, la formation 
+d'acide hypochloreux est possible par rCaction entre le chlore et 
+
+l'eau mais la constante d'Cquilibre est defavorable (K = 4,2 x 
+
+(3 1). Nos rtsultats doivent &amp;tre expliquts principalement 
+par un encombrement de position ortho car la formation d'un 
+ester hypochloreux et une rCaction intra-complexe devrait 
+conduire a une plus grande sClectivitt comparable a celle 
+rapportCe par Breslow. 
+Nous n'avons pas effectut d'Ctudes similaires de spectro-
+scopie rmn pour le complexe a-CD-benzanilide car la solubilitt 
+de la benzanilide est infime dans l'eau et la prtsence de deux 
+noyaux aromatiques sur le substrat rend l'interprktation des 
+donnCes complexes. La stlectivitt plus faible de la benzanilide 
+est due au moins en partie a la prtsence de deux noyaux 
+aromatiques, le noyau benzoyle occupant la cavitt de la 
+
+cyclodextrine environ la moitiC du temps. 11 est 2 noter que la 
+
+chloration d'un noyau aromatique par le chlore sans catalyseur 
+n'est possible que sur un noyau activC; la chloration est 
+impossible sur le noyau benzoyle car il est dCsactivC et nous 
+Can. J. Chem. Downloaded from www.nrcresearchpress.com by 87.160.185.190 on 03/27/14 
+
+For personal use only. 
+
+
+Can. J. Chem. Downloaded from www.nrcresearchpress.com by 87.160.185.190 on 03/27/14 
+
+For personal use only. 
+
+
+310 
+
+CAN. J. CHEM. VOL. 65, 1987 
+
+9. R. C H ~N E V E R T 
+et R. PLANTE. Can. J. Chem. 61, 1092 (1983). 
+10. M. MITANI, T. TSUCHIDA et K. KOYAMA. J. Chem. Soc. Chem. 
+Commun. 869 (1974). 
+1 1. R. C H ~N E V E R T 
+et D. CHAMBERLAND. Chem. Lett. 1 1 17 (1985). 
+
+12. Y. HUI, S. WANG et X. JIANG. J. Am. Chem. Soc. 104, 347 
+
+(1982). 
+13. R. C H ~N E V E R T 
+et G. AMPLEMAN. Chem. Lett. 1489 (1985). 
+14. R. C H ~N E V E R T 
+et N. VOYER. Tetrahedron Lett. 25,5007 (1984). 
+15. R. BERGERON, M. A. CHANNING, G. J. GIBEILY et D. M. 
+PILLOV. J. Am. Chem. Soc. 99, 5 146 (1 977). 
+16. R. BERGERON, M. A. CHANNING, K. A. MCGOVERN et W. P. 
+ROBERTS. Bioorg. Chem. 8, 263 (1979). 
+17. R. L. VAN ETTEN, J. F. SEBASTIAN, G. A. CLOWES et M. L. 
+BENDER. J. Am. Chem. Soc. 89, 3242 (1967). 
+18. M. KOMIYAMA et M. L. BENDER. J. Am. Chem. Soc. 99, 8021 
+(1977). 
+19. D. J. WOOD, F. E. HRUSKA et W. SAENGER. J. Am. Chem. Soc. 
+99, 1735 (1977). 
+20. P. V. DEMARCO et A. L. THAKKAV. J. Chem. Soc. Chem. 
+Commun. 2 (1 970). 
+21. R. J. BERGERON, M. A. CHANNING et K. A. MCGOVERN. J. Am. 
+Chem. Soc. 100, 2878 (1978). 
+22. R. BERGERON et R. ROWAN 111. Bioorg. Chem. 5,425 (1976). 
+
+23. M. KOMIYAMA et H. HIRAI. Polym. J. 13, 171 (1981). 
+24. Y. INOUE, H. HOSHI, M. SAKURAI et R. C H O J ~. J. Am. Chem. 
+SOC. 107, 2319 (1985). 
+25. R. I. GELB, L. M. SCHWARTZ, B. CARDELINO, H. S. FUHRMAN, 
+R. F. JOHNSON et D. A. LAUFER. J. Am. Chem. Soc. 103, 1750 
+(1981). 
+26. M. KOMIYAMA et H. HIRAI. Bull. Chem. Soc. Jpn. 54, 828 
+(1981). 
+27. M. KOMIYAMA et H. HIRAI. J. Am. Chem. Soc. 106,174 (1984). 
+28. M. K O M I Y A M A ~~H . 
+HIRAI. J. Am. Chem. Soc. 105,2018 (1983). 
+29. R. BRESLOW et P. CAMPBELL. Bioorg. Chem. 1, 140 (1971). 
+30. 0. S. TEE et J. M. BENNETT. Can. J. Chem. 62, 1585 (1984). 
+31. F. A. COTTON et G. WILKINSON. Advanced inorganic chemistry. 
+4' Cd. Interscience, New York. 1980. Chap. 17. p. 556. 
+32. Y. HUI, J. C. RUSSELL et D. G. WHITTEN. J. Am. Chem. Soc. 
+105, 1374 (1983). 
+33. A. HAYASHI, K. KINOSHITA et Y. MIYABE. Polym. J. 13, 537 
+(1981). 
+34. H. NAKATANI, K. I. SHIBATA, H. KONDO et K. HIROMI. 
+Biopolymers, 16, 2363 (1977). 
+35. D. P. SHOEMAKER, C. W. GARLAND et J. I. STEINFELD. 
+Experiments in physical chemistry. 3e Cd. McGraw-Hill, New 
+York. 1974. p. 392. 
+
+Can. J. Chem. Downloaded from www.nrcresearchpress.com by 87.160.185.190 on 03/27/14 
+
+For personal use only. 
+
+
+
+	
+

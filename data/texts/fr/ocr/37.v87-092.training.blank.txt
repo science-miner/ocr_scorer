@@ -1,0 +1,713 @@
+
+	
+
+		
+
+	
+
+	
+
+etude des complexes fluores et chlores du plomb dans les melanges eau-HF 
+
+R ~J E A N 
+BEAUDOIN ET HUGUES M ~N A R D 
+Dkpartement de chimie, Faculte' des sciences, Universitk de Sherbrooke, Sherbrooke (Qui.), Canada J1K 2R1 
+R e p le 24 juin 1986 
+
+R ~J E A N 
+BEAUDOIN et HUGUES M~NARD. Can. J. Chem. 65, 528 (1987). 
+L'ttude des complexes fluores et des complexes chlorts du plomb dans les mtlanges eau-HF a CtC effectuee par polaro-
+graphie. La diminution de I'ordre des complexes fluorts de PbF2 a PbF' est en accord avec la diminution de I'activitC en ions 
+fluorure, Ro(F), mesurCe en augmentant la concentration en HF. L'obtention de deux formes cristallines du PbF2 selon le 
+domaine de concentration en HF vient appuyer l'existence de deux complexes fluorks. L'observation du PbFCl confirme la 
+presence de complexe mixte fluorure-chlorure dans les mClanges eau-HF. 
+
+R ~J E A N 
+BEAUDOIN and HUGUES M~NARD. Can. J. Chem. 65, 528 (1987). 
+The polarographic study of lead fluoride and of lead chloride complexes has been done in water -hydrogen fluoride 
+solutions. The successive formation of PbF2 and of PbF' is in agreement with the reduction of the fluoride ion activity, Ro(F), 
+measured with the augmentation of the HF content of the solution. The formation of two crystalline structures of PbFz is in 
+accord with the existence of two complexes in solution. The formation of PbFCl shows the existence of mixed fluoride-
+chloride complexes in water-HF solutions. 
+
+Introduction 
+La polarographie dans des milieux extrCmement corrosifs 
+pour le verre, comme les mtlanges HF-H20, est maintenant 
+
+accessible a l'aide de capillaires prottgts du milieu (1). I1 est 
+
+possible par cette technique d'analyser la formation de com-
+plexes mttalliques. Une bonne connaissance des especes dans 
+les mtlanges HF-H20 (2-5) permet de calculer les constantes 
+de formation des divers complexes du fluor en solution. L'uti-
+lisation d'un systeme de rtftrence indtpendant du solvant est 
+une condition (6) ntcessaire car il ne s'agit plus de solutions 
+aqueuses dilutes mais de mtlanges de force ionique variable et 
+d'aciditC trks tlevte. 
+Mesaric et Hume (7) ont ttudit les complexes fluorts du 
+plomb en solution aqueuse. Le complexe PbF+ se forme 
+faible concentration en ions fluorure (PI = 18) et le PbF2 
+(p2 = 356) existe i plus grande concentration en ions fluorure 
+dans l'eau. D'autres auteurs (8) ont obtenu les m&amp;mes rtsultats 
+avec l'ion fluorure et ont dtmontrt que le plomb forme trois 
+complexes avec le chlore et le brome (9, 10). 
+La formation de complexes chlorts en solution aqueuse a tte 
+ttudite par Bond et Hefter (8, 9). 11s ont obsemt trois com-
+plexes avec l'ion chlorure alors que l'ion fluorure ne conduit 
+qu'i deux complexes dans les mCmes conditions. 
+Nous allons determiner les complexes fluorts du plomb dans 
+les mtlanges eau-HF jusqu'a une concentration de 55% en 
+poids et nous allons examiner la formation des complexes 
+chlorQ dans ces mCmes solutions. Le calcul des constantes de 
+formation permettra de prtciser les zones oh on retrouve les 
+difftrents complexes. 
+
+Partie experimentale 
+
+Appareils 
+
+Un potentiostat modkle PAR174A (Princeton Applied Research) a 
+
+CtC utilisk avec un systkme a trois Clectrodes. L'Clectrode au calomel 
+
+saturC est sCparCe de la solution par une jonction en Teflon poreux. Le 
+capillaire polarographique est recouvert de polyethylkne (1) et I'Clec-
+trode auxiliaire est faite d'un fil de platine. La cellule a Ctk fabriquke 
+dans nos ateliers A partir de KelF et de Teflon. La diffraction des 
+rayons-X a Ct C effectuee avec un appareil Philips PWI 14011 139. 
+
+voulue avec de l'eau distillee. Les autres produits utilisCs sont le grade 
+ACS. 
+La mCthode expCrimentale consiste i mesurer le potentiel de demi-
+
+vague du plomb par rapport a 1'Clectrode de r6fCrence au calomel 
+
+saturk. Le potentiel de demi-vague du systkme de rCfCrence indCpen-
+dant du solvant, le systkme ferricinium/fermckne, est ensuite mesure 
+dans la mCme solution lorsque c'est possible. Si les vagues polarogra-
+phiques sont trop prks I'une de I'autre, on prend les mesures sCpar-
+Crnent mais I'une aprks I'autre. 
+L'Ctude du plomb en prCsence d'ions chlorure se fait en ajoutant du 
+KC1 i4 une solution de 
+M en plomb. L'activitC en ions chlorure 
+
+est mesurte a I'aide d'une Clectrode sklective AglAgCl, de fa~on a 
+
+s'assurer que lYactivitC est prks de la concentration. Jusqu'i 55% en 
+HF, la correspondance est suffisarnment bonne pour assumer I'activitC 
+Cgale i4 la concentration. 
+
+R6ultats et discussion 
+Pour faire les calculs concernant les complexes fluorts, nous 
+avons besoin des mesures de l'activitt en ions fluorure, Ro(F), 
+et du potentiel de l'tlectrode au trifluorure de lanthane EF-
+mesurt par rapport au sysdme de rtftrence ferricinium/ferro-
+c6ne (Fc +/Fc). Les valeurs de Ro(F) et EF-sont les rn2mes que 
+celles publites par Vaillant et al. (3). 
+Les complexes fluorts tvoluent en fonction de l'activitt en 
+ions fluorure libres. Du point de vue exptrimental, on observe 
+
+un dtplacement du potentiel de demi-vague, E*, selon le milieu 
+
+fluort. On peut calculer 8 partir de l'tquation de Nernst, les 
+pentes que l'on devrait mesurer pour des complexes fluorts 
+d'ordre croissant. Les calculs sont faits par rapport a l'tlectrode 
+rtversible aux ions fluorure libres. 
+Le potentiel de l'tlectrode rtversible aux ions fluorure s'ex-
+prime selon 1'Cquation [I] 
+
+ou aF-est l'activitt des ions fluorure libres. Si on mesure 
+
+l'tcart AE* entre le potentiel de demi-vague du plomb et le 
+
+potentiel de l'tlectrode rkversible aux ions fluorure, on peut 
+dtfinir les tquations suivantes pour les complexes fluorts du 
+plomb. On choisit comme exemple un complexe bifluort : 
+
+Produits 
+
+Les solutions ont CtC prCparCes i partir de HF 48% en poids (J. T. 
+0,059 
+[3] Epb = E : 
+; 
+
+-EECS -y log ( a F I 2 
+
+Baker) et 2 partir de HF 100% (Matheson) diluC a la concentration 
+Kd[PbFz] 
+Can. J. Chem. Downloaded from www.nrcresearchpress.com by 87.160.185.190 on 03/27/14 
+
+For personal use only. 
+
+
+En combinant les Cquations [ l ] et [3] : 
+
+0,059 
+(aF-)' 
+
+[4] AE4 = ~p O d -E$ + 0,059 log aF---log -
+
+2 
+Kd 
+
+[5] AE4 = cte + 0,059 log aF--0,059 log aF-
+[6] AE4 = cte + 0 log aF-
+
+L'Cquation [6] montre clairement que pour le complexe PbF2, 
+la pente du potentiel de demi-vague en fonction du log aF-est 
+de 0 volt. De la mCme f a ~o n on peut dCmontrer que le com-
+plexe PbF+ produira une pente de +0,029 volt et le PbF3-
+produira une pente de -0,029 volt. 
+Les constantes de formation obtenues en prksence d'ions 
+chlorure ont Ct C calculCes a partir de la thkorie de DeFord et 
+Hume (1 1). Pour un ion mktallique complex6 dont le mCtal est 
+soluble dans le mercure, la rkduction a 1'Ctat mktallique peut 
+s'exprimer par 1'Cquilibre suivant, [7] : 
+
+Le terme xFb reprCsente l'espkce complexante et J reprksente 
+
+le nombre de ligands sur le mCtal. 
+Les constantes de formation cumulatives peuvent Ctre kvaluks 
+a partir des Cquations [8] et [9]. 
+
+nF 
+
+[9] Fo(X) = antilog 0,434 -(E4)s -(E4), + log 
+
+RT 
+
+Le terme Fo(X) est introduit pour reprksenter la quantitk mesu-
+
+rable du c8tC droit de 1'Cquation. Le terme P j reprksente la 
+
+constante de formation du complexe J et Cx la concentration 
+
+de l'espkce complexante. Les termes (E4) et (id), font rCfCrence 
+au potentiel de demi-vague et au courant de diffusion de l'ion 
+en solution sans l'espkce complexante alors que (E*), et (id), 
+rCfkrent l'ion en presence de l'espkce complexante. 
+On introduit par la suite la fonction Fl(X), [lo], ou 
+
+Po est la constante de formation du complexe zkro. Sa valeur 
+
+est donc de l'unitk. Si on porte en graphique Fl(X) en fonction 
+de la concentration en ligand, cx, l'extrapolation a cx = 0 de 
+la fonction Fl(X) nous donne la constante de formation PI. De 
+la mCme f a ~o n , 
+on peut obtenir les autres constantes de forma-
+tion par 1'Cquation gknCrale suivante, [ l l] : 
+
+Pour le dernier complexe, le graphique de Fn(X) en fonction 
+de cx donnera une droite parallkle a l'abscisse. Ceci permet de 
+dCterminer le nombre de complexes possible dans le mClange. 
+Shaap et McMaster (12) ont mis au point une mCthode pour 
+1'Ctude de complexes mixtes. On peut calculer les constantes 
+de formation des complexes rnixtes en autant que l'on comaisse 
+les constantes de formation de chacun des complexes simples 2 
+la m&amp;me force ionique et dans le m&amp;me solvant. Dans notre 
+Ctude, il n'est pas possible de faire ce calcul car le solvant est 
+lui-mCme une espkce complexante. On connait les constantes 
+de formation des complexes fluorks sur le domaine de concen-
+
+tration en HF jusqu'h 60%. 11 n'est cependant pas possible de 
+
+connaitre les constantes de formation des complexes chlorCs 
+pour chaque concentration en HF. La force ionique change peu 
+
+avec l'addition de KCl, mais d'une concentration en HF 2 
+
+TABLEAU 1. Potentiel de rkduction du plomb 
+
+E ~P ~+ ' / P ~ 
+E ~P ~+ ' / P ~ 
+
+EF-
+% HF 
+Fc+/Fc 
+EF-
+Fc+/Fc 
+(Poids) 
+(Volt) 
+Ro(F) 
+(Volt) 
+(Volt) 
+
+2 
+-0,550 
+2,1 
+-0,494 
+-0,056 
+5 
+-0,533 
+2,4 
+-0,493 
+-0,040 
+10 
+-0,505 
+2,9 
+-0,494 
+-0,011 
+15 
+-0,480 
+3,4 
+-0,499 
+$0,018 
+20 
+-0,450 
+4,O 
+-0,501 
+$0,051 
+25 
+-0,425 
+4,5 
+-0,504 
+$0,079 
+30 
+-0,395 
+
+5 ,o 
+
+-0,504 
+$0,109 
+35 
+-0,365 
+5,6 
+-0,507 
+$0,142 
+40 
+-0,339 
+6 2 
+-0,516 
+$0,177 
+45 
+-0,310 
+7,3 
+-0,550 
+$0,240 
+50 
+-0,275 
+9,O 
+-0,610 
+$0,335 
+55 
+-0,225 
+9,8 
+-0,607 
+$0,382 
+60 
+-0,187 
+10,3 
+-0,593 
+$0,406 
+65 
+-0,160 
+10,7 
+-0,585 
+$0,425 
+
+FIG. 1. Potentiel de rkduction du plomb vs. EF+ en fonction de 
+I'activitC en ions fluorures libres. 
+
+l'autre la diffkrence devient trks importante. Les concentra-
+tions en HF varient de 2 a 40 mol/L. 
+On ne peut pas calculer les constantes de formation des com-
+plexes mixtes contenant l'ion fluorure et l'ion chlorure mais on 
+peut intuitivement comprendre qu'en solution l'ion chlomre 
+remplacera successivement les ions fluomre sur le mktal. Si on 
+considkre un mClange oh on a le complexe MF,, l'addition 
+d'ions chlorure conduira aux complexes MFCI, MFC12-et 
+MC13-, selon la concentration en ions chlorure. 
+Les potentiels de rCduction du plomb en fonction de la con-
+centration en HF sont prCsent6s au tableau 1. Le tableau 1 montre 
+les mesures par rapport au systkme femcinium/ferrockne et les 
+rksultats calculks par rapport au potentiel de 1'Clectrode rCver-
+sible aux ions fluorure. 
+La figure 1 prCsente le graphique du potentiel de demi-vague 
+rkversible aux ions fluorure en fonction de Ro(F). On peut cal-
+culer la pente de E4 versus Ro(F) et dkterminer les complexes 
+fluorCs en solution. 
+Can. J. Chem. Downloaded from www.nrcresearchpress.com by 87.160.185.190 on 03/27/14 
+
+For personal use only. 
+
+
+530 
+
+CAN. J. CHEM. VOL. 65, 1987 
+
+TABLEAU 2. Pentes tirees du graphique de la reduction du plomb 
+
+Domaine de 
+
+% en HF 
+
+Pente 
+Pente calculee 
+(Poids) 
+(Volt) 
+Complexe 
+(Volt) 
+
+TABLEAU 3. Constantes d'equilibre 
+et de formation successives des com-
+plexes fluores du plomb 
+
+log K 
+
+log P 
+
+Les complexes jluorb du plomb 
+L'interprktation des rksultats se fait a partir de la pente du 
+graphique de EI versus Ro(F) (Ro(F) = -log aF-). Le tableau 
+2 donne les rCsultats pour les complexes du plomb obtenus en 
+solution. 
+La pente du potentiel de demi-vague en fonction de I'activitC 
+en ions fluorure nous permet de dire que dans le domaine de 2 
+a 35% en HF, le complexe en solution est le PbF,. Dans le 
+
+domaine de 35 a 55% en HF, le complexe est le PbF+. On peut 
+
+Ccrire les Cquilibres [12] et [13] : 
+
+Dans les solutions aqueuses, le complexe existant est PbF,. 
+Lorsque la concentration diminue, on passe a pbF+. On observe 
+le mCme comportement dans les solutions aqueuses de HF. On 
+
+peut noter que le changement de PbF, a PbF+ se fait entre 35 et 
+
+40% en HF. 
+I1 est possible d'Cvaluer les constantes de formation des com-
+
+plexes fluorCs a partir du changement de pente du potentiel de 
+
+derni-vague rkversible aux ions fluorure en fonction de llactivitC 
+en ions fluorure, Ro(F) (13). Si on Ctablit 1'Cquilibre suivant : 
+
+la constante d'kquilibre K2 s'Ctablit comme suit : 
+
+Au point d'inflection, a la figure 1, on peut faire l'approxima-
+
+tion que la concentration des deux complexes fluorCs est Cqui-
+valente. L'Cquilibre est alors contr61C par 1'activitC en ions 
+fluorure du milieu. La constante d'kquilibre du complexe peut 
+alors Ctre exprimCe de la f a ~o n suivante : 
+
+[17] log K2 = -log QF-= Ro(Fj 
+Une approche similaire nous permet de calculer K,. Le tableau 
+3 montre les constantes d'kquilibre K1 et K2 et le log des 
+
+constantes de formation pi et PZ 
+
+La figure 2 prCsente la distribution des complexes fluores du 
+plomb jusqu'a 60% en HF calculee 5 partir des constantes 
+successives de formation. 
+
+u 
+
+FIG. 2. Distribution des complexes fluores du plomb en fonction 
+
+de l'activitt en ions fluorure libres. 
+
+D'autre part, en diffraction des rayons-X, on a analysC 
+
+l'espkce formCe a la surface d'une plaque de plomb oxydCe 
+
+dans les mClanges eau-HF. Le fluorure de plomb PbF, a la 
+particularit6 de cristalliser sous deux formes dont les plans de 
+diffraction sont tres diffkrents. 
+On a la forme orthorhombique appelCe aPbFz et la forme 
+cubique appelCe PPbF2 (14). La forme orthorhombique a la 
+mCme structure que le PbCl2 et le PbBr,. I1 y a quatre groupe-
+
+ments PbF2 par maille. La distance Pb-F varie de 2,49 a 
+
+2,85A. Cette structure est stable 2 basse tempkrature. Le 
+aPbFz (orthorhombique) est prCparC en dissolvant du PbO 
+dans du HF 39%. La solution est CvaporCe puis le rCsidu est 
+sCchC sous atmosphkre inerte a une tempCrature de 80 a 100°C. 
+L'analyse par rayons-X a dCmontrC que 1'Cchantillon n'est pas 
+contamink par du PPbF2 cubique (1 5). Kennedy et al. (16) ont 
+rapport6 que la prkcipitation rapide de PbF2 partir d'une solu-
+tion de Pb(N03), et NH4F donne majoritairement du aPbF,. 
+Cependant, si la prkcipitation se fait lentement, la forme cubi-
+que sera prCdominante. Ceci implique que la forme cubique est 
+la plus stable 5 la tempCrature de la piece. 
+La forme cubique a la mEme structure que le CaF2. I1 y a 
+deux roupements PbF, par maille. La distance Pb-F est de 
+
+2,57 1 . Cette structure est stable haute tempkrature. Le PbF, 
+
+sous forme cubique est transparent tempCrature et pression 
+normale. La phase cubique se transforme en phase orthorhom-
+bique sous l'influence de la pression. La phase orthorhombique 
+a un volume environ 10% infkrieur a la phase cubique. Cette 
+transition avec la pression est non riversible (17, 18). 
+Nos mesures de diffraction des rayons-X ont montrC que le 
+PbF, sur les plaques de ploinb oxydCes dans les melanges 
+eau-HF se retrouve sous les deux formes cristallines. A faible 
+concentration en HF, on trouve du aPbF2 comme dans les solu-
+tions aqueuses concentrkes en ions fluorure (7). Les analyses 
+montrent que dans les mClanges jusqu'a 30% en HF on retrouve 
+du aPbF,. A 5, 10 et 20% en HF, on note la prisence d'une 
+tres petite quantitt de PPbF,. La hauteur des pics est dans un 
+rapport de 1 100. A 30% en HF, le aPbF, et le PPbF2 sont 
+
+presents en quantitC comparable. A 40% en HF, on retrouve 
+
+exclusivement la forme cubique du PbF2. 
+Can. J. Chem. Downloaded from www.nrcresearchpress.com by 87.160.185.190 on 03/27/14 
+
+For personal use only. 
+
+
+BEAUDOIN 
+
+TABLEAU 4. Constantes de formation successives des complexes 
+chlorCs du plomb 
+
+% HF 
+(Poids) 
+
+P I 
+
+Pr 
+
+P 3 
+
+56 
+30 OOOk 10 000 
+10 OOO? 3000 
+-4 000 
+47 
+3 700*200 
+5000?200 
+10000?2000 
+26 
+loo? 10 
+140&amp;20 
+100*50 
+5 
+11,5*0,2 
+12,0*0,2 
+
+-10 
+
+PbCI' 
+PbC12 
+PbC13-
+
+L o g I K C I I 
+
+FIG. 3. DCplacement du potentiel de demi-vague du plomb en 
+fonction du log de la concentration en KC1 pour differentes concentra-
+tions en HF. 
+
+Log [ K C [ I 
+
+FIG. 4. Evolution du courant de diffusion du plomb en fonction 
+du log de la concentration en KC1 pour differentes concentrations en 
+HF. 
+
+La transition de aPbF2 PPbF2 aux concentrations entre 30 
+et 40% en HF correspond trks bien a la brisure dans la relation 
+du potentiel de demi-vague en fonction de l'activitt en ions 
+fluorure Ro(F). La relation a la figure 1 change de pente 2 1 
+Ro(F) d'environ 5 3 . Ceci correspond 2 une concentration en 
+HF de 35%. A moins de 35% en HF, le PbF2 cristallise sous la 
+forrne orthorhombique, comme en solution aqueuse. On peut 
+donc conclure que le complexe en solution est PbF2 et la prCci-
+pitation ou cristallisation est rapide. La pente a la figure 1 est 
+de 0,O volt, ce qui avait permis de conclure au complexe PbF2 
+en solution. 
+A 40% en HF, on retrouve seulement du PPbF2. Pour toutes 
+les concentrations substquentes, l'espkce cubique est la seule 
+retrouvte a la surface du plomb. 
+La forrne cubique du PbF2 occupe un volume environ 10% 
+plus tlevt que la forrne orthorhombique. Dans le domaine de 
+concentration en HF entre 35 et 55%, l'espkce en solution est 
+PbF+. Cette espkce chargte est siirement stabiliste par le sol-
+vant. Dans les solutions concentrtes en HF, il y aura aussi 
+stabilisation par le solvant. I1 est donc raisonnable de penser 
+que le complexe chargt est stabilist en solution par le solvant 
+et que l'tvaporation ou la dtsolvatation soit responsable de la 
+cristallisation lente sous la forme la plus volumineuse. Dans ce 
+cas, on obtient la forrne cubique du PbF2. 
+
+Les complexes chlorks de plomb 
+Le dCplacement anodique du potentiel de demi-vague a t t t 
+
+relit a la formation de complexes chlorts en solution. Nous 
+
+0 
+0 
+
+-1 
+-2 
+-3 
+-4 
+-5 
+
+Log [KCLI 
+
+FIG. 5. Distribution des complexes chlorCs dans HF 5% en fonc-
+tion de la concentration en KCl. 
+
+allons calculer les constantes de formation a partir de la thtorie 
+de DeFord et Hume (1 1). Les dtplacements du potentiel de 
+demi-vague sont prtsentts a la figure 3 et l'tvolution du 
+courant de diffusion est montrte a la figure 4. 
+La diminution du courant de diffusion est due a la prkcipita-
+tion du plomb sous forme du complexe mixte PbFCl. Le prtci-
+pit6 a t t t identifit par diffraction des rayons-X. 
+Les tcarts entre nos valeurs et celles foumies par ASTM sont 
+
+a 19,intCrieur des limites de l'appareil que nous avons utilist. 
+
+A partir des constantes de formation donnCes au tableau 4, 
+on peut calculer la proportion de chaque complexe chlort dans 
+les mtlanges eau-HF. Les figures 5-8 montrent les propor-
+tions de chaque complexe en fonction de la concentration en 
+KC1 dans la solution. La figure 9 montre la distribution des 
+complexes chlorts en solution aqueuse calculte a partir des 
+constantes de formation de Bond et Hefter (9). 
+En solution aqueuse, le plomb donne trois complexes chlorts. 
+Dans les mClanges eau-HF on a aussi trois complexes chlorts. 
+A 5 et 26% en HF, le complexe fluort en solution est le PbF2. 
+La distribution des complexes chlorts resemble beaucoup ace 
+qu'on observe en solution aqueuse. Le complexe PbC13-appa-
+rait a des concentrations en KC1 ClevCes et dans la m2me 
+rkgion que PbC12. Les constantes de formation dans l'eau et 
+dans HF 5% sont du m2me ordre de grandeur. Dans HF, le 
+complexe PbC1+ forrne le PbFCl qui est non soluble et on 
+Can. J. Chem. Downloaded from www.nrcresearchpress.com by 87.160.185.190 on 03/27/14 
+
+For personal use only. 
+
+
+CAN. 1. CHEM. VOL. 65, 1987 
+
+Log [KCL I 
+
+FIG. 6. Distribution des complexes chlorks dans HF 26% en fonc-
+tion de la concentration en KC1. 
+
+Log [KCL I 
+
+0 
+0 
+-1 
+-2 
+-3 
+-4 
+
+-5 
+
+Log [KCL I 
+
+FIG. 8. Distribution des complexes chlorks dans HF56% en fonc-
+tion de la concentration en KC1. 
+
+L o g [KCLI 
+
+FIG. 7. Distribution des complexes chlorks dans HF 47% en fonc-
+FIG. 9. Distribution des complexes chlorks en solution aqueuse 
+tion de la concentration en KC1. 
+en fonction de la concentration en KC1. 
+
+observe une diminution importante du courant de diffusion en 
+polarographie. 
+
+[18] PbF+ + C1-$ PbFCl (pr6cipitC) 
+
+A 47 et 56% en HF, le complexe fluore en solution est le 
+PbF+. L'addition d'un ion chlorure 2 cette espkce devrait &amp;tre 
+
+facile. En effet, la constante de formation pl augmente de 
+
+f a ~o n trks importante et le courant de diffusion chute 2 zCro 2 
+cause de la formation de PbFCl insoluble. Aux figures 7 et 8, 
+on voit que le plomb est totalement sous forme de complexe 
+PbCl+ pour un important domaine de concentrations en ions 
+chlorure. 
+
+La formation du complexe insoluble PbFCl vient appuyer 
+l'hypothkse de la formation de complexes mixtes. Dans le 
+domaine de concentration en HF ou le complexe fluor6 est 
+PbF2, on a remplacement des ions fluorure par des ions chlorure 
+mais de f a ~o n successive. Dans la region ou on a PbF+, l'addi-
+tion d'un ion chlorure est largement facilitCe. Cependant le 
+remplacement de l'ion fluorure semble aussi difficile qu'2 plus 
+faible concentration en HF, si on considkre la proportion de 
+complexes chlorCs de degrts superieurs. En effet, le complexe 
+PbC13-apparait toujours vers un molaire en ion chlorure. Le 
+complexe PbC12 est peu reprCsentC 2 toutes les concentrations 
+en HF de m2me qu'en solution aqueuse. 
+Can. J. Chem. Downloaded from www.nrcresearchpress.com by 87.160.185.190 on 03/27/14 
+
+For personal use only. 
+
+
+Conclusion 
+
+5. P. A. GIGUERE et S. TURRELL. J. Am. Chem. Soc. 102, 5473 
+
+L'ttude de la vague polarographique du plomb a difftrentes 
+concentrations en H F a permis d e dtterminer la prtsence d e 
+
+deux complexes fluorts. Le PbF2 est prtsent jusqu'a 35% en 
+poids d e H F et le PbFf est prtsent d e 35 a 60% e n HF. L'ion 
+
+chlorure dtplace l'ion fluorure e t o n a formation d e complexes 
+mixtes chlorure-fluorure. 
+
+Remerciements 
+
+Les auteurs sont reconnaissants des octrois d e recherche du 
+Conseil d e recherche e n sciences n gtnie du 
+Canada et du Ministkre d e l'tducation du Qutbec qui ont rendu 
+c e travail possible. 
+
+1. H. M ~N A R D 
+et F. LEBLOND-ROUTHIER. Anal. Chem. 50, 687 
+(1980). 
+2. A. VAILLANT, J. DEVYNCK et B. TREMILLON. Anal. Lett. 6, 
+1095 (1973). 
+3. A. VAILLANT, J. DEVYNCK et B. TREMILLON. J. Electroanal. 
+Chem. 57, 219 (1974). 
+4. H. MBNARD, J. P. MASSON, J. DEVYNCK et B. TREMILLON. J. 
+Electroanal. Chem. 63, 163 (1975). 
+
+(1980). 
+6. H. STREHLOW. Dans The chemistry of nonaqueous solvents. 
+Vol. 1. Edit6 par J. J . Lagowski. Academic Press, New York, 
+NY. 1966. Chap. 4. 
+7. S. S. MESARIC et D. N. HUME. Inorg. Chem. 2, 788 (1963). 
+8. A. M. BOND et G. HEFTER. Inorg. Chem. 9, 1021 (1970). 
+9. A. M. BOND et G. HEFTER. J. Electroanal. Chem. 31, 477 
+(1971). 
+10. A. M. BOND et G. HEFTER. J. Electroanal. Chem. 42, 1 (1973). 
+11. D. D. DEFORD et D. N. HUME. J. Am. Chem. Soc. 73, 5321 
+(1951). 
+12. W. B. SHAAP et D. L. MCMASTER. J. Am. Chem. SOC. 83,4699 
+(1961). 
+13. J. DEWNCK, A. VAILLANT, B. TREMILLON, F. LEBLONDROUTHIER 
+et H. M ~N A R D . 
+J. Electrochem. Soc. 100, 885 (1979). 
+14. R. FAIVRE et R. WEISS. Dans Nouveau trait6 de chimie minirale. 
+Tome VIII. EditCpar P. Pascal. Masson et Cie., 1963. pp. 522, 
+552. 
+15. P. BOLDRINI et B. 0 . LOOPSTRA. Acta Crystallogr. 22, 744 
+(1 967). 
+16. J. H. KENNEDY, R. MILES et J. HUNTER. J. Electrochem. Soc. 
+123, 1441 (1973). 
+17. G. A. SAMARA. Phys. Rev. B: Solid State, 13, 4529 (1976). 
+18. G. A. SAMARA. J. Phys. Chem. Solids, 40, 509 (1979). 
+
+Can. J. Chem. Downloaded from www.nrcresearchpress.com by 87.160.185.190 on 03/27/14 
+
+For personal use only. 
+
+
+
+	
+

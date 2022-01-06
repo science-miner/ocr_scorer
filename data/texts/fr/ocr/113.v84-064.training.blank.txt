@@ -1,0 +1,327 @@
+
+	
+
+		
+
+	
+
+	
+
+ProprietQ physiques et basicite de l'oxydipropionitrile 
+
+JEAN-CLAUDE BOLLINGER,' GERMAINE YVERNAULT ET THEOPHILE YVERNAULT 
+
+Laboraroire de Chimie Ge'ne'rale et Analyrique, Faculte' des Sciences, 123 Avenue Albert-Thomas, 
+87060 Limoges Ckdex, France 
+
+RAYMOND HOURIET 
+Instirur de Chimie-Physique, Ecole Polytechnique Fe'de'rale, Ecublens, 1015 Lausanne, Suisse 
+
+R e p le 8 juillet 1983 
+
+JEAN-CLAUDE BOLLINGER, GERMAINE YVERNAULT, THEOPHILE YVERNAULT et RAYMOND HOURIET. Can. J. Chem. 62, 361 
+(1984). 
+On a dktermint les constantes physiques du 3,3'-oxydipropionitrile (ODPN) a 25°C (densit&amp;, indice de refraction, viscositt, 
+constante diklectrique, moment dipolaire, parametre de solubilitt), ainsi que certains critkres de basicit6 (nombre donneur, 
+dtplacement chimique du proton de CHC13, basicit6 en phase gazeuse). Ces rksultats sont compares a ceux de quelques autres 
+solvants usuels; ils permettent d'expliquer les proprietes de I'ODPN comme solvant pour des dosages acide-base, ainsi que 
+I'existence de l'homoliaison-hydrogkne dans ce milieu. 
+
+JEAN-CLAUDE BOLLINGER, GERMAINE YVERNAULT, THEOPHILE YVERNAULT, and RAYMOND HOURIET.. Can. J. Chem. 62, 
+361 (1984). 
+Physical constants (density, refractive index, viscosity, dielectric constant, dipole moment, solubility parameter) and some 
+basicity parameters (donor number, proton chemical shift variation for CHCl,, gas phase basicity) have been determined for 
+3,3'-oxydipropionitrile (ODPN) at 2S°C. These results are compared with those for other usual solvents; they permit an 
+explanation of its properties as a solvent for acid-base titrations, and the appearance of homohydrogen bonding in this medium. 
+
+Introduction 
+
+TABLEAU 1. Determination du moment diuolaire de 
+Plusieurs travaux rtcents ont montrt I'intCrCt du 3,3'-oxy-
+dipropionitrile 0(CH2CH2CN)2 ou ODPN, en tant que solvant 
+pour des etudes electrochimiques (1-5) et d'extraction 
+
+liquide-liquide (6, 7). Toutefois, on ne dispose pas actuel-
+
+lement d'un ensemble de valeurs ~r t c i s e s de ses constantes 
+
+physiques, mis a part certains resultats preliminaires indiquts 
+dans la rtf. 7; d'autre part, son emploi comme solvant pour des 
+dosages acide-base, pur (5) ou en melange avec l'eau (S), rend 
+
+interessantes les mesures que nous avo&amp; effectuees pour cer-
+
+tains critkres de basicit6 concernant ce produit. 
+
+Partie experimentale 
+
+L'ODPN Fluka "purum" est dCshydratC et conservC sur tamis 3 A. 
+
+Contrairement au solvant synthCtisC par Persin et Gal (5), nos Cchan-
+tillons ne contenaient pas dlimpuretCs acido-basiques; leur teneur en 
+
+eau, mesurCe par le Karl-Fischer coulomCtrique, Ctait de 50 a 80 mg 
+
+1 -I 
+
+L . 
+
+Les indices de refraction sont mesurCs pour la raie D du sodium 
+avec un rkfractomktre d'Abbe, thermostat6 a 25 % 0,05"C et CtalonnC 
+avec un verre d'indice n, = 1,5166. Les mesures diklectriques sont 
+rCalisCes, a la frCquence de 1 MHz, a l'aide d'un pont de capacitk 
+automatique Hewlett-Packard 4270 A, CquipC d'une cellule type CS 
+601 Fkrisol thermostatCe a 25 2 0,05"C; la cellule est CtalonnCe a la 
+mCme temperature avec des liquides organiques (9). Le moment di-
+
+polaire de l'ODPN, ir dilution infinie dans le benzkne Merck "pour 
+
+spectroscopie", a Ct C calcule selon la mCthode de Guggenheim et 
+
+Smith (lo), ir partir des rksultats rassembles dans le Tableau 1. 
+
+Pour les autres constantes physiques, on a utilisC: un densimktre 
+SODEV 02D (1 l), couplC un compteur/timer Hewlett-Packard 
+
+5308 A et ir un systkme de mesures Hewlett-Packard 5300 B, 
+thermostat6 It 25 t O,Ol°C et CtalonnC par de I'azote et de l'eau; ainsi 
+
+qu'un viscosimktre A capillaire (k = 15,05 x lo-' mZ s-') thermostat6 
+
+ir 25 t 0,05OC. 
+
+La mesure du diplacement chimique du proton de CHC13 (spec-
+
+tromktre Varian EM 360) est rCalisCe A 60 MHz, sur une solution de 
+
+10 pL de chloroforme Merck "pour spectroscopie" dans 0,4 mL 
+
+' ~u t e u r ir qui la correspondance doit &amp;tre adressCe 
+
+I'ODPN, h dilution infinie dans le benzkne (? = 25°C) 
+
+Fraction en poids ODPN 
+
+W2 
+
+n~ 
+
+E 
+
+d'ODPN. Le nombre donneur selon Gutmann a ttC dCtermine avec un 
+ensemble microcalorimCtrique LKB 8700, dans les conditions dtcrites 
+par ailleurs (12); on obtient les valeurs suivantes: enthalpie de dis-
+
+solution AHd = (0,45 % 0,06) X lo3 J mol-' et enthalpie de reaction 
+A H , = -(80,2 I+-0,2) x lo3 J mol-', d'oh DN = 79,75 kJ mol-I ou 
+
+19,O kcal mol-I. 
+La basicit6 en phase gazeuse (GB) de 1'ODPN a ete dCterminte par 
+resonance cyclotronique des ions, a l'aide d'un dispositif experimental 
+dont les caractCristiques sont indiquCes par ailleurs (1 3); afin de favo-
+riser la formation d'ions ODPN.H+, du methane a CtC ajoutC comme 
+gaz reactant. Une sCrie de mesures avec diverses bases B a Ctt rCa-
+lisCe, dans les conditions suivantes: PCHJ = 5 X 
+Torr, PODPN = 
+4 x 
+Torr, PB = 4 X 
+Torr (env.), temps de piCgeage = 100 
+ms. On aboutit a la sequence ci-dessous, pour laquelle on a fait dagir 
+les divers partenaires B citts avec I'ODPN: 
+
+ce qui donne comme resultat final GB(0DPN) = 797 + 2 kJ mol-' 
+
+(reference GB(NH3) = 821 ,74 kJ mol-I (14)). 
+
+Le paramktre de solubiliti de I'ODPN a Ct C calcule B l'aide de son 
+
+enthalpie de vaporisation, A H , = 67,3 kJ mol-', calculte par nous h 
+
+partir des valeurs rapportees dans la ref. 15, en utilisant la relation de 
+Van't Hoff. 
+
+Resultats et discussion 
+Le Tableau 2 rassemble les rtsultats de nos mesures sur 
+
+I'ODPN. On constate aisement que I'ODPN entre bien dans la 
+
+Can. J. Chem. Downloaded from www.nrcresearchpress.com by 87.160.185.190 on 03/27/14 
+
+For personal use only. 
+
+
+CAN. J. CHEM. VOL. 62. 1984 
+
+TABLEAU 2. PropriCtes physiques et basicites de I'ODPN a 25°C 
+
+Pararnktre 
+Valeur 
+Parametre 
+Valeur 
+
+Indice de rtfraction 
+1,4390 
+Pararnktre de solubilitC (MPa"') 
+23,4 
+Masse volurnique (g r n ~-' ) 
+1,04471, 
+Nornbre donneur (kJ rnol-I) 
+79,75 
+ViscositC (lo-' Pa s) 
+9,350 
+DCplacernent chirnique du proton de CHC13 (pprn) 
+0,25 
+Constante diilectrique 
+66,66 
+BasicitC en phase gazeuse (kJ mol-I) 
+797 
+Moment dipolaire (D; dans C6Hh) 
+4,91 
+
+cattgorie des solvants dipolaires a forte constante ditlectrique; 
+toutefois, on sait (5) que dans ce solvant les phenornenes d'as-
+sociation par homoliaison-hydrogene entre acide et base conju-
+g u t s sont frtquents: 
+
+AH + A-S AHA-; BH' + B S BHB' 
+
+c e qui le rapproche de l'acttonitrile (AN), du sulfolane (S) et 
+du carbonate de propylene (CP) de constante ditlectrique voi-
+sine; ce ne sont donc pas les seuls pararnetres ditlectriques qui 
+interviennent dans cette propriett (16). S a densitt est voisine d e 
+l'unitt, cependant sa viscositt Clevee peut limiter son ernploi. 
+
+L'enthalpie d e vaporisation de 1'ODPN peut Etre estirnee a 
+
+l'aide des parametres ernpiriques de groupes ou de liaisons 
+
+ttablis par Ducros et coll. (17), soit AH,. = 74,9 kJ rnol-' ou 
+
+a partir des pararnetres de Guthrie et Taylor (18), soit 72,O * 
+1,7 kJ rnol-' ou 74,9 * 1,7 kJ rnol-I. L'tcart avec la valeur 
+
+calculte par nous, AH, = 67,3 kJ rnol-', h partir d e donnees 
+
+d e la litttrature (l5), est important, rnais ceci peut Ctre expliqut 
+
+par la forte polaritt de I'ODPN. Le parametre d e solubilitt 
+
+obtenu, 6 = 23,4 M P ~' / ' , est tout h fait comparable B ceux d e 
+
+I'acttonitrile, 6 = 24,3 MP~'/', ou du propionitrile, 6 = 2 2 , l 
+
+M P ~' / ' 
+
+(19). 
+Afin de caracttriser ses proprittts basiques, nous avons d t -
+termine ici trois pararnktres difftrents: (a) le nornbre donneur 
+DN selon Gutrnann (20), qui correspond l'enthalpie de com-
+plexation avec SbCl,, en solution infinirnent dilute dans le 
+dichloro-1,2 tthane: 
+
+(b) la variation d e dtplacernent chirnique du proton du chloro-
+
+forme, A6, entre 1'Ctat libre et l'ttat lie par liaison-hydrogene 
+
+(21): 
+
+ODPN + HCCI, -+ ODPN . . . . HCC13 
+
+(c) la basicitt en phase gazeuse G B , qui est la variation d'en-
+thalpie libre pour la rtaction de dtprotonation en phase gazeuse 
+(14): 
+
+Ces trois criteres de basicitt correspondent B des phtno-
+
+rnenes fort difftrents, puisqu'ils caracttrisent respectivernent: 
+(a) la rnoltcule isolte, disperske dans un solvant inerte; (b) le 
+solvant en masse; (c) la moltcule isolte en phase gazeuse. 11s 
+
+donnent toutefois la rnCrne indication, a savoir que 1'ODPN est 
+un solvant tres faiblernent basique, comparable a I'ether di-
+
+tthylique Et,O; ceci permet de penser que le site basique d e 
+I'ODPN est probablernent I'atorne d'oxygene. 
+D'autre part, on observe les classernents suivants, pour des 
+solvants courants, avec les trois criteres considtres ici: 
+
+AN &lt; S = CP &lt; ODPN = Et'O &lt; H20 &lt; HMPT pour DN 
+
+ODPN &lt; AN &lt; Et20 = S &lt; HMPT 
+
+pour AS 
+
+HzO &lt; AN &lt; ODPN &lt; Et20 &lt; HMPT 
+
+pour GB 
+
+De plus, 1'ODPN se comporte Cgalernent cornme une base d e 
+Bronsted extrtrnernent faible, puisque nous n'avons pas pu le 
+doser par HC1O4 dans le melange sulfolane/benzene 9812 p/p, 
+
+qui perrnet pourtant des dosages de bases tres faibles (22), y 
+
+cornpris l'eau. O n cornprend ainsi rnieux les proprittts d e 
+l'ODPN, qui perrnet lui-mCme des dosages acidelbase non 
+rtalisables dans d'autres solvants, cornme d e diffkrencier les 
+acides qui sont forts dans l'eau, ou de doser des bases tres 
+faibles (urte, DMSO, HMPT) (5). 
+
+Remerciements 
+
+Les auteurs tiennent a rernercier pour son amicale collabo-
+
+ration Mr. Michel Ducros, du Groupe d e Calorimttrie e t 
+Thermochimie de l'E.N.S .T.A. (Palaiseau), chez qui JCB a 
+effectut la determination calorimetrique d u DN, ainsi que l e 
+Professeur Jean-Yves Gal (Universitt de Montpellier) pour les 
+nombreuses discussions qu'ils ont eues avec lui sur le sujet. 
+
+1. J . Y. GAL et M. PERSIN. C. R. Acad. Sci. (Paris) SCr. C, 280, 
+1259 (1975). 
+2. J . Y. GAL et M. PERSIN. C. R. Acad. Sci. (Paris) SCr. C, 280, 
+1305 (1975). 
+3. J. Y. GAL et M. PERSIN. C. R. Acad. Sci. (Paris) Sir. C , 283, 
+37 (1976). 
+4. J. Y. GAL et M. PERSIN. J. Electroanal. Chern. 77, 361 (1977). 
+5. M. PERSIN et J. Y. GAL. Can. J . Chern. 59, 2491 (1981). 
+6. J. Y. GAL et M. PERSIN. C. R. Acad. Sci. (Paris) Ser. C , 284, 
+987 (1977). 
+7. D. DE BARROS, J. Y. GAL, M. PERSIN et F. PERSIN. J. Electro-
+anal. Chern. 99, 347 (1979). 
+8. J. Y. GAL, M. PERSIN et B. CASTELAS. Can. J. Chern. 61, 1189 
+(1983). 
+9. H. Kl~NlTzet K. N. MARSH. Pure Appl. Chern. 53, 1847 (1981). 
+10. E. A. GUGGENHEIM. Trans. Faraday Soc. 45, 714 (1949); J. W. 
+SMITH. Trans. Faraday Soc. 46, 394 (1950). 
+11. P. PICKER, E. TREMBLAY et C. JOLICOEUR. J. Solution Chern. 3, 
+377 (1974). 
+12. J. C. BOLLINGER, G. YVERNAULT et T. YVERNAULT. Thermo-
+chirn. Acta, 60, 137 (1983). 
+13. R. HOURIET, H. RiJFENACHT, P. A. CARRUPT, P. VOGEL et M. 
+TICHY. J. Am. Chern. Soc. 105, 3417 (1983). 
+14. D. H. AUE et M. T. BOWERS. Dans Gas phase ion chemistry. 
+Vol. 2. Editt par M. T . Bowers. Academic Press, New York. 
+1979. Chapt. 9. 
+15. G. CARRIERE. Chem. Techn. (Dortrnund) 7, 145 (1952). 
+16. I. M. KOLTHOFF. Anal. Chern. 46, 1992 (1974). 
+17. M. D u c ~o s , 
+J. F. GRUSON et H. SANNIER. Therrnochirn. Acta, 
+36, 39 (1980); M. D u c ~o s , 
+J. F. GRUSON, H. SANNIER et J. 
+VELASCO. Therrnochim. Acta, 44, 131 (1981). 
+18. J. P. GUTHRIE et K. F. TAYLOR. Can. J. Chern. 61, 602 (1983). 
+19. A. F. M. BARTON. Chem. Rev. 75, 731 (1975). 
+20. V. GUTMANN. Electrochim. Acta, 21, 661 (1976). 
+21. M. L. MARTIN. Ann. Phys. 7, 35 (1962). 
+22. J. C. BOLLINGER, R. FAURE et T. YVERNAULT. Analusis, 10,270 
+(1982). 
+
+Can. J. Chem. Downloaded from www.nrcresearchpress.com by 87.160.185.190 on 03/27/14 
+
+For personal use only. 
+
+
+
+	
+

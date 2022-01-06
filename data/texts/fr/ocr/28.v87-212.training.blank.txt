@@ -1,0 +1,470 @@
+
+	
+
+		
+
+	
+
+	
+
+~t u d e 
+du comportement d'un alliage Cu-Ni 70:30 dans une solution de NaCl a 3% 
+par la determination de sa resistance de polarisation 
+
+YVAN MASSIANI, SYLVIE PETETIN, GUY NGO NGOC ET JEAN-PIERRE CROUSIER' 
+
+Laboratoire de chime des mate'riaux-corrosion, Universite' de Provence, 13331 Marseille CEDEX 3 France 
+
+R e p le 19 septembre 1986 
+
+YVAN MASSIANI, SYLVIE PETETIN, GUY NGO NGOC et JEAN-PIERRE CROUSIER. Can. J. Chem. 65, 1254 (1987). 
+L'utilisation d'une mCthode galvanostatique permet de suivre l'evolution de la rksistance de polarisation d'un alliage 
+
+cuivre-nickel 70:30, en fonction du temps, malgrC la prksence d'une couche de produits de corrosion formCe a la surface de 
+
+1'Cchantillon au bout de plusieurs jours d'immersion. La rksistance de polarisation de l'alliage qui est, au debut de l'immersion, 
+comparable a celle du cuivre, se rapproche, aprCs plusieurs jours de celle du nickel pur. 
+
+YVAN MASSIANI, SYLVIE PETETIN, GUY NGO NGOC, and JEAN-PIERRE CROUSIER. Can. J. Chem. 65, 1254 (1987). 
+A galvanostatic method can be used to measure the evolution of the polarization resistance of a 70:30 copper-nickel alloy 
+with time, in spite of the presence of a layer of corrosion products formed on the surface of the sample after a few days of 
+immersion. At the beginning, the polarization resistance of the alloy is similar to that of copper; after many days, it evolves 
+toward that of pure nickel. 
+[Journal translation] 
+
+Introduction 
+
+avec 
+Malgrt un grand nombre de travaux, le mtcanisme de 
+dissolution des alliages Cu-Ni 70:30 n'est pas totalement 
+Clucidt. Si la plupart des auteurs concluent, comme dans le cas 
+des alliages Cu-Zn, Cu-Mn, a la dissolution de l'tltment 
+allit au cuivre (1-3), d'autres envisagent la possibilitt d'une 
+dtcuprisation (4-6). Dans le cas des laitons, la dtzincification 
+est visible au microscope sur une coupe transversale (1). Dans le 
+cas des alliages Cu-Ni, la dtnicktlisation ou la dtcuprisation 
+n'a pas la mCme profondeur et ne peut Ctre mise en tvidence par 
+observation au microscope. Les mtthodes tlectrochimiques, 
+qui concement les atomes en surface, permettent d'observer des 
+variations de composition superficielle. 
+Certains auteurs (2,7-10) ont montrt que la dissolution d'un 
+alliage est difftrente en corrosion libre et sous polarisation 
+anodique ou mCme cathodique. Selon le potentiel, l'alliage 
+passe de la dissolution stlective de l'un des tltments a la 
+dissolution simultante de chacun d'eux. 
+Pour dttecter une tventuelle modification de la composition 
+a la surface de l'alliage, il faut suivre l'tvolution du courant 
+de corrosion en fonction de la durte de l'immersion. Cela est 
+possible en utilisant une mtthode qui permet d'effectuer des 
+mesures a difftrents intervalles de temps, sans interrompre 
+l'immersion de l'tchantillon, tout en tvitant de fortes surten-
+sions Cloignant trop l'tlectrode de l'tquilibre. 
+Les mesures de rtsistance de polarisation R , rtpondent a ces 
+exigences. Elles prtsentent plusieurs avantages : ( i ) elles sont 
+effectutes in situ; ( i i ) elles sont non destructives, permettant 
+ainsi des etudes ulttrieures du mCme tchantillon; (iii) elles sont 
+en gtntral tres rapides a effectuer; ( i v ) dans le cas d'exptriences 
+comparatives, elles constituent un test d'tvolution du comporte-
+
+Ctant la surtension. 
+Puisque la rtsistance de polarisation est inversement propor-
+tionnelle a l'intensitt du courant de corrosion, son evolution 
+au cours du temps permet de suivre l'tvolution du courant de 
+
+corrosion, si on admet que pa et PC sont constantes. 
+
+Mais cette hypothese est mise en dtfaut si, au cours du 
+mCme temps il-y a recouvrement de la surface comme dans 
+le cas de la formation d'une couche de produit de corrosion. 
+C'est la situation que nous avons rencontrte au cours de l'ttude 
+du comportement des alliages Cu-Ni dans des solutions de 
+NaCl a 3%. 
+
+Dans ce cas, d'une part la pente anodique P a varie et 
+
+augmente avec le temps d'immersion, d'autre part la partie 
+cathodique de la courbe de polarisation ne permet pas de tracer 
+
+une droite de Tafel a cause de la ccbosse cathodique,, dtja 
+
+signalte sur le cuivre pur ( 1 1 ) . I1 est donc difficile de passer de 
+
+R , a ice,. Ntanmoins une etude de l'tvolution de la R , en 
+
+fonction du temps d'immersion peut donner des indications sur 
+une modification de la composition en surface. Efird (12) a 
+Ctudit aussi les alliages Cu-Ni 70:30 et 90: 10 et montrt que si 
+dans les premieres minutes leur resistance de polarisation est 
+difftrente, celle du 90:lO ttant la plus faible, apres quelques 
+heures d'immersion leur valeur est la meme. Ce rtsultat peut 
+s'expliquer par un enrichissement en nickel de la surface. 
+Nous avons repris cette mtthode sur l'alliage Cu-Ni 70:30 
+mais aussi sur le cuivre et le nickel purs dont la modification en 
+surface n'est pas le rtsultat d'une dissolution selective comme 
+ment du mattriau. 
+dans le cas d%n alliage. 
+Si on utilise 1 'approximation de l'tquation de Butler-Volmer 
+Mesures des resistances de polarisation 
+
+a ~~l i q u a b l e , 
+pour une faible surtension, autour de E C O ~ 
+( T = 
+Trks souvent, la 
+par balayage de potentiels auteur 
+T l O m V ) , i est une fonction lintaire du potentiel d'tlectrode. 
+
+du potentiel de corrosion est utiliste. c ' ~~~ 
+
+un test tres rapide. 
+~a n s 
+ces conditions, R p et icor ~0 n t 
+relites par la relation 
+Cependant, on n'est pas 
+avec un tel 
+d7&amp;tre dans un 
+de Stem et Geary : 
+ttat quasi stationnaire; de plus avec les mtthodes a potentiel 
+
+1 . Auteur ? i 
+qui adresser toute correspondance. 
+
+contrblt, dans le cas oh KO, varie avec le temps, 1 
+
+; tension 
+appliqute peut ne plus correspondre la zone de lintarite entre 
+E et i. 
+Parcontre, si on impose le courant, quelle que soit l'tvolution 
+Can. J. Chem. Downloaded from www.nrcresearchpress.com by 87.160.185.190 on 03/27/14 
+
+For personal use only. 
+
+
+MASSIANI ET AL. 
+
+FIG. 1. Schema tquivalent de l'interface tlectrode-solution. 
+
+de E,,,, en choisissant convenablement 1'Cchelon d'intensite, 
+on peut ne perturber que trks faiblement le systkme. C'est ce 
+qui nous conduit a utiliser une methode a intensite contr6lCe. 
+Plusieurs methodes galvaniques sont utilisees : 
+Certains auteurs (13) appliquent un courant constant dont 
+l'intensite cree une surtension tres inferieure 2 10 mV. Puis 
+des increments d'intensite sont ajoutes successivement, jusqu'a 
+obtention d'une surtension de l'ordre de 10-15 rnV. Le temos 
+d'application du courant est le rn&amp;me, quelle que soit l'intensite 
+choisie. 
+On obtient ainsi des couples de points (E,i) pendant la 
+polarisation galvanostatique, dont le graphe est une droite de 
+pente AElAi = R(S1). Si iest exprime en A crnP2 et E en volts, 
+on obtient R, ((n cm2). 
+~e ~e n d a n t , 
+cette technique est peu adaptee dans deux cas : (i) 
+quand la resistance de l'tlectrolyte, R,, est grande : on introduit 
+alors un facteur IR, qui est trks important et qui conduit 2 une 
+erreur importante sur la mesure des potentiels; et (ii) quand 
+il y a modification des conditions i la surface, par exernple par 
+formation d'une couche de produits de corrosion. 
+
+Utilisation d'une me'thode galvanostatique alternative 
+Recemment, une methode galvanostatique a Cte utiliste pour 
+determiner des resistances de polarisation dans des sols (9). I1 
+s'agit d'appliquer un signal rectangulaire alternatif, d'intensite 
+constante en valeur absolue, choisi pour provoquer une surten-
+sion de l'elkctrode de travail qui n'exckde pas les lirnites de 
+linearite de E-i. c'est-a-dire n = 7 10 rnV. 
+Dans ces conditions, certaiAs inconvenients des differentes 
+autres rnethodes sont supprirnCs : le potentiel obtenu par appli-
+cation du courant suit les Cventuelles fluctuations du ootentiel 
+de repos, 1'Ctat quasi stationnaire est atteint rapidernent, et la 
+presence d'une couche de produit de corrosion n'est pas un 
+obstacle a la mesure. 
+Cette rnethode a CtC adaptee pour determiner la resistance de 
+polarisation du cuivre, nickel et du Cu-Ni 70:30. 
+
+Principe de la me'thode 
+Lorsqu'on applique un echelon de courant I i un systkme 
+represente par le schema Cquivalent (Fig. l ) , la surtension q = 
+E -E,,, de l'electrode de . travail . .. 
+peut s'exprirner par : 
+
+dll 
+-2,3q 
+
+1 = cd-dt + lco,[exp (F) -exp (-B; -) ] 
+
+Si q est petit ( q = ?20 mV), cette Cquation se reduit a : 
+
+avec Cd la capacite de double couche (cf. Cquation de Stem 
+et Geary). 
+Si l'impulsion de courant est alternative, carree et appliquee 
+a la frtquence f , l'equation prtcidente devient (14) : 
+
+Quand la frequence f est infiniment grande, cette equation 
+
+FIG. 2. Schema du signal applique et du signal recueilli sur 
+l'tchantillon. 
+
+tend vers une valeur lirnite telle que : 
+
+rnais quand f 4 0, E ( f ) = IR, + IR,. Par difference, on 
+
+trouve donc la valeur de R, . 
+
+Schernatiquernent, la figure 2 represente le signal applique, 
+et la forme du signal reponse. 
+On peut par suite tracer le graphe R en fonction de la 
+frequence de balayage des impulsions galvanostatiques (fig. 3). 
+Sur celui-ci, on repere directernent les paliers permettant 
+
+d'atteindre la valeur de R,, et de R, + R, donc de R,. 
+
+Partie experimentale 
+
+Les mesures ont 6tt rCalisCes avec des Cchantillons de 1 cm' de 
+
+surface prtparCs 2 partir d'un alliage Niclal30 prtpare par le Comptoir 
+
+Lyon Alemand Louyot (Paris). Ces tchantillons etaient polis sur papier 
+abrasif 600 sous courant d'eau puis rincCs plusieurs fois dans un bac a 
+ultra-sons. 
+Tous les essais sont effectues dans une solution de NaCl a 3% en 
+aeration naturelle et non agitke. 11s ntcessitent : un gtntrateur de 
+
+courant; un gentrateur de signaux rapides Tacussel type GSTP 3, 
+
+celui-ci permet de choisir la forme du signal et sa frequence entre 
+4 X 
+
+et 5000 Hz; un millivoltmi5tre 21 forte impedance d'entree 
+
+pour suivre la difference de potentiel entre 1'ClCctrode de travail 
+et l'tlectrode de reference; une table traqante JJ Instruments PL3; 
+un oscilloscope a deux voies permettant de visualiser le signal obtenu 
+
+par application de courant 5 haute frtquence, en m&amp;me temps que le 
+signal applique. L'oscilloscope utilise est un Hameg type HM 705; 
+et un amplificateur differentiel assurant un double fonction : l'amplifi-
+cation (jusqu'i 1000 fois) du signal choisi, et un r61e de filtre, 
+Climinant les phinomknes de ccretourn jusqu'i l'oscilloscope. La 
+limite d'amplification est de l'ordre de I0 V. 
+Le montage ainsi rCalisC permet d'appliquer un courant de 0,5 PA. 
+Ce courant de tres faible intensitt ne provoque qu'une faible surtension 
+qu'il faut considerablement amplifier pour pouvoir la mesurer. C'est 
+cette trks faible surtension qui nous permet de toujours nous placer dans 
+la zone ou la relation entre E et i est IinCaire. 
+Dans le cas du cupronickel70:30, dans une solution de NaCl a 3%, le 
+potentiel de corrosion est tgal a -210 mV/ecs; lorsque I'on applique 
+un courant alternatif carrt de 0,5 PA, la surtension de l'tlectrode est 
+trts faible et la rtponse en tension est apparemment identique a celle 
+
+Can. J. Chem. Downloaded from www.nrcresearchpress.com by 87.160.185.190 on 03/27/14 
+
+For personal use only. 
+
+
+CAN. I . CHEM. VOL. 65. 1987 
+
+Potentiostat 
+
+Amplificateur 
+dlff"rentie1 
+
+Boitier d e 
+
+compensation 1 E1ectvo.e 
+
+auxiliaire 
+
+Electrode d e 
+reference 
+
+Y/ Electrode d e travail 
+
+Table tracante 
+
+FIG. 4. Montage expkrimental. La rCsistance exttrieure, permettant 
+de transformer la rampe de tension en rampe d'intensitC, a CtC intCgrCe 
+au boitier de compensation. 
+
+log f (Hz) 
+
+FIG. 3. RCsistance de l'interface en fonction de la frCquence du 
+signal applique (9). 
+FIG. 5. Signal E = f(t) sur Cu-Ni aprks 64 jours d'immersion. 
+
+obtenue sans surimposer de signal carre, c'est-i-dire identique a la 
+tension dClivrCe par I'tlectrode au repos. I1 faut donc amplifier ce 
+signal. C'est le r6le de l'amplificateur diffirentiel. Mais ce dernier 
+amplifie tout le signal : la tension de l'tlectrode au repos plus la 
+surtension due au courant appliquC. On est, de ce fait, tres vite limit6 
+dans l'amplification, par le maximum de l'appareil fix6 i 10 V, soit 
+environ 50 fois notre signal. Nous avons dO dCcaler le signal de la 
+valeur du potentiel de corrosion, afin de n'amplifier que le signal 
+provoquC par l'application du courant. Un systkme de compensation 
+propre i notre montage a Ct C mis au point. 
+Deux potentiomktres permettent d'operer soit un rtglage grossier, 
+soit un rCglage fin de la ligne de base. Pour un gain maximum de 
+l'amplificateur differentiel et une bonne sensibilitt de l'oscilloscope, 
+celle-ci doit &amp;tre centrCe sur le zero de 1'Ccran. 
+Le montage dtfinitif est represent6 sur la figure 4. 
+Par cette technique nous avons mesure la resistance de polarisation 
+du cuivre, du nickel, du cupronickel 70:30 sans immersion prCalable, 
+et du cupronickel70:30 ap'res un temps d'immersion allant de quelques 
+heures i 73 jours. 
+Une fois le potentiel de corrosion stabilise (pour les mesures faites 
+aprts 15 rnin d'immersion), celui-ci est re@rC sur l'oscilloscope. 
+On branche alors le systkme de compensation, et par combinaison de 
+celui-ci et de l'amplificateur difftrentiel, on dCcale la ligne de base 
+sur le zCro de l'tcran, jusqu'i obtention du gain optimum. Ce rtglage 
+effectuC, on applique le courant alternatif carre d'intensite Cgale i 
+0,5 FA, en commenqant par les frtquences ClevCes. En effet, celles-ci 
+ne risquent pas d'endommager l'interface des Cchantillons. Nous 
+reviendrons ultkrieurement sur ce dernier point. On effectue un 
+balayage en frCquence entre 5 kHz et 
+Hz, parfois 
+Hz. Pour 
+chaque frequence, on relkve I'amplitude cr&amp;te i crete du signal du 
+potentiel de corrosion de 1'Clectrode de travail. Grdce i la rCmanence 
+de son tcran, l'oscilloscope permet de mesurer des signaux d'assez 
+basse frtquence : 2,5-3 Hz. En deqi, les signaux sont enregistrCs sur 
+une table traqante. 
+
+Resultats 
+
+Chacun des tchantillons d e cuivre, nickel et cupronickel 
+70:30 a fait l'objet d'une ttude de la resistance de polarisation e n 
+
+fonction de la frtquence du courant alternatif appliqut. L'allure 
+gtntrale des enregistrements sur table traGante ne differe pas 
+avec la nature de 1 ' tchantillon. Nous donnons 1 'exemple 
+d'enregistrement pour C u / N i 70:30 (fig. 5). Les valeurs des 
+
+rtsistances ainsi mesurtes sont ensuite reporttes sur un graphe 
+
+R = f (log f ) (fig. 6). 
+
+Le palier obtenu a basse frtquence reprtsente la somme de la 
+rtsistance d e la solution, R,, et d e la rtsistance d e polarisation, 
+R,. L e palier obtenu h haute frtquence donne la rtsistance d e 
+l'tlectrolyte R, seule. 
+Nous avons obtenu apres 15 min d'immersion des rtsistances 
+
+de polarisation pour le cuivre et le nickel purs, tgales a : 
+
+R,(Cu) = 9 OOOQ cm2 
+R,(Ni) = 115 OOOQ cm2 
+
+Ces mesures ont t t t effectutes un grand nombre de fois, 
+donnant des valeurs tres reproductibles pour le cuivre et pour le 
+nickel. 
+Les valeurs d e R, et R, obtenues pour le cupronickel 
+70:30 apres difftrents temps d'immersion sont reportes dans le 
+
+tableau 1. 
+La valeur trop grande d e R, pour des solutions aussi 
+conductrice que NaCl 3% pourrait provenir d e la limitation, 
+
+avec notre appareillage, du balayage aux frtquences trks 
+tlevtes. 
+La valeur d e la rtsistance d e polarisation du cupronickel 
+70:30 apres 15 min d'immersion est elle aussi tres reproduc-
+Can. J. Chem. Downloaded from www.nrcresearchpress.com by 87.160.185.190 on 03/27/14 
+
+For personal use only. 
+
+
+MASSlANI ET AL. 
+
+1257 
+
+551LOG Rp (OHM) 
+
+FIG. 6. Rtsistance de I'interface d'un Cu-Ni en fonction de la 
+
+frtquence du signal. 
+
+TABLEAU 1. Evolution de la rtsistance de 
+
+polarisation de l'alliage cuivre-nickel 70:30 
+en fonction du temps d'immersion 
+
+Temps d'immersion Rp (S1 cm2) R,(S1) 
+
+15 min 
+5 h 
+1,5 d 
+2 d 
+4 d 
+5 d 
+68 d 
+71 d 
+73 d 
+
+tible, elle est pratiquement egale ?I celle du cuivre pur et vaut 
+8950fl cm2. 
+Aprb environ 48 h, une couche de produits de corrosion se 
+forme ?I la surface du cupronickel. Cette couche ne gene en 
+
+rien la mesure de resistance (fig. 5), alors qu'elle la perturbait 
+grandement dans les methodes classiques. 
+
+Conclusion 
+Cette methode a permis de suivre 1'Cvolution de la resistance 
+de polarisation d'un alliage Cu-Ni 70:30 en fonction du temps 
+d'immersion dans une solution de NaC1, malgrC la formation 
+d'une couche de produit de corrosion. Sa valeur, qui est proche 
+de celle du cuivre pur au dtbut de l'immersion, se rapproche, 
+aprks plusieurs jours, de celle du nickel pur. Ceci indique 
+une diminution de la vitesse de corrosion de l'alliage lorsque 
+le temps d'immersion augmente; la vitesse de dissolution ne 
+change pas avec le temps d'immersion dans le cas du cuivre ou 
+du nickel pur et elle peut donc &amp;tre relite ?I une decuprisation de 
+la surface de l'tchantillon. 
+
+1. H. W. PICKEIUNG et P. J. BYRNE. J. Electrochem. Soc. 116, 
+
+1492 (1969). 
+
+2. M. J. PRYOR et K. S. KAR. J. Electrochem. Soc. 129, 2157 
+
+(1982). 
+
+3. D. S. KEIR et M. J. PRYOR. J. Electrochem. Soc. 127, 2138 
+
+(1980). 
+
+4. E. MOR, V. SCOTTO et A. TREVIS. Corros. Trait. Prot. Finition, 
+
+18, 7 (1970). 
+
+5. H. P. DHAR, R. E. WHITE, G. BURNELL, L. R. CORNWELL et 
+R. B. GRIFFIN. Corrosion (Houston), 41, 3 17 (1985). 
+6. S. PETETIN, J. CROUSIER et J.-P. CROUSIER. Mater. Chem. Phys. 
+
+10, 317 (1984). 
+
+7. R. G. BLUNDY et M. J. PRYOR. Corros. Sci. 12, 65 (1972). 
+8. H. W. PICKERING. Corros. Sci. 23, 1107 (1983). 
+9. H. W. PICKERING et P. J. BYRNE. J. Electrochem. Soc. 118, 
+
+209 (1971). 
+
+10. YA. M. KOLOTYRKIN. Electrochem. Acta, 25, 89 (1980). 
+11. A. L. BACARELLA et J. C. GRIESS. J. Electrochem. Soc. 120, 
+
+459 (1973). 
+
+12. K. D. EFIRD. Corrosion (Houston), 31, 77 (1975). 
+13. D. A. JONES. Corrosion (Houston), 39, 444 (1985). 
+14. K. KASAHARA et F. KAJIYAMA. Corrosion (Houston), 39, 475 
+
+(1983). 
+
+Can. J. Chem. Downloaded from www.nrcresearchpress.com by 87.160.185.190 on 03/27/14 
+
+For personal use only. 
+
+
+
+	
+

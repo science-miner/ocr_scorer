@@ -1,0 +1,932 @@
+
+	
+
+		
+
+	
+
+	
+
+Rkactivite du nuclCophile azoture vis-a-vis de cations heterocycliques aromatiques. 
+VIII. Rearrangement de P-tetrazolo-trans-benzalacetophCnones 
+
+JEAN-CLAUDE CHERTON, MARC BAZINET, MARIE-MADELEINE BOLZE, MARC LANSON ET PAUL-LOUIS DESBENE 
+Laboratoire de chimie organique structurale, Universitt a2 Paris VI, 8, rue Cuvier, 75230 Paris Ctdex, France 
+R e ~u le 13 novembre 1984 
+
+JEAN-CLAUDE CHERTON, MARC BAZINET, MARIE-MADELEINE BOLZE, MARC LANSON et PAUL-LOUIS DESBENE. Can. J. 
+Chem. 63, 2601 (1985). 
+Les P-tttrazolo-trans-benzalacCtophCnones (T) s'isomtrisent au chauffage en iminoazides (I.A.) correspondants. Ces 
+derniers, non isolables, subissent selon les conditions du milieu diverses Cvolutions. 11s peuvent &amp;tre intercept&amp; par les bases 
+organiques comme la triphCnylphosphine et la pyridine. En solvants aromatiques, ils Cvoluent avec perte d'azote par l'in-
+termCdiaire de diazirines et d'oxadiazCpines vers des hCtCrocycles diazotCs a cinq chainons: pyrazoles et imidazoles N-
+benzoylCs. L'emploi d'un solvant protique favorise I'isomCrisation des tttrazoles en iminoazides. On observe alors la solvolyse 
+des formes azidooxazines et m&amp;me oxazinium rksultant de la suite d'Cquilibres et reaction: 
+(T) % (I.A.) 
+azidooxazine + oxazinium. 
+
+JEAN-CLAUDE CHERTON, MARC BAZINET, MARIE-MADELEINE BOLZE, MARC LANSON, and PAUL-LOUIS DESBENE. Can. J. 
+Chem. 63, 2601 (1985). 
+P-Tetrazolyl-trans-benzalacetophenones (T) isomerize upon heating into the corresponding azido-azomethines (A). These 
+non-isolable products undergo various transformations depending on the reaction conditions. With organic bases such as 
+triphenylphosphine or pyridine, their interception can occur. In aromatic solvents, a rearrangement involving loss of nitrogen 
+leads to five-membered diazoted heterocycles: N-benzoyl imidazoles and pyrazoles, via intermediate diazirines and oxazepines. 
+Protic solvents have been found to facilitate the isomerisation of tetrazoles into azidoazomethines. Solvolysis of the azido-
+oxazine and in some cases of the oxazinium species resulting from the equilibrium and reaction: 
+(T) % (A) % azidooxazine + oxazinium 
+are then observed. 
+
+Dans un prkctdent article, nous avons dCcrit le com-
+portement de cations oxaziniums-1,3 1 (1) vis-a-vis du nuclto-
+
+I 
+
+phile azoture. Nous avons montrC que la formation des 
+P-tktrazolo-trans-benzalacktophCnones 2 (notCes plus rapi-
+
+I 
+
+dement "tttrazoles") rksultait selon toute vraisemblance d'une 
+attaque de N3-sur le pale C2 du cation hCtCroaromatique con-
+duisant transitoirement aux azido-2 2H-oxazines-1,3 3 cor-
+respondantes. La filiation azide 3 -+ tktrazole 2 Ctait interprktke 
+comme rksultant de la superposition de deux tautomkries de 
+type cycle-chaine autour de l'iminoazide 4 (cf. schCma 1). 
+L'obtention des tCtrazoles 2 constitue une dkrivation au schC-
+ma riactionnel qu'on pouvait escompter en se fondant sur le 
+comportement des pyryliums (2-4) puisqu'elle inhibe la for-
+mation des hCtCrocycles heptaatomiques. 
+
+tion s'apparente plutat au rCactif (I.A.) (quoique plus polarid) 
+qu'au produit (T) (7). 
+Ce rCsultat thCorique s'accorde aussi bien avec le postulat de 
+Hammond (prkdiction d'ktats de transition "reactant-like" pour 
+les systbmes rkactifs) qu'avec de nombreux rksultats de la lit-
+tkrature (ainsi qu'avec nos observations) qui montrent en g6-
+nCral une plus grande stabilitC pour la forme tktrazole (7, 8). 
+L'examen des donnCes de la littkrature permet de distinguer 
+deux types de facteurs jouant sur 1'Cquilibre (I.A.) % (T): des 
+facteurs structuraux (nature de R1, R ~) et des facteurs de milieu 
+(tempkrature, polarit6 et proticit6 du solvant). 
+
+Facteurs structuraux 
+La cyclisation implique une configuration cis entre la paire 
+libre de I'atome imino et le reste azido. Pour les iminoazides 
+linCaires (R1 et R2 non liCs) cette condition implique que l'iso-
+Cation hCtCro-N,-azide 
+-N ~, A httCrocycle azotC 
+aromatique 
+
+hCtCrocyclique -heptaatomique mCrisation syn % anti de la double liaison C=N soit possible. 
+
+Une telle inversion est trbs rapide si R1 est un groupe alkyle ou 
+
+NCanmoins, le mecanisme que nous proposons pour la for-
+mation des tCtrazoles (cf. schCma 1) laisse entrevoir la possi-
+bilitt d'un retour vers les formes azides 4 et mCme 3 en inter-
+venant sur les conditions des deux tautomCries. 
+
+Le travail prCsentC concerne 1'Ctude de la tautomkrie imi-
+
+noazide tttrazole pour le couple 412, entreprise comme une 
+tentative d'aboutir h un rkarrangement des formes azides 4 ou 
+3 en hktCrocycles diazotCs heptaatomiques. 
+De telles isomCrisations peuvent s'envisager soit comme des 
+rkactions Clectrocycliques (5) soit comme des cycloadditions 
+dipolaires-1,5 (6) soit encore comme des cycloadditions-1,3 au 
+cours de I'attaque d'un azide sur une imine (7). Un calcul 
+effectuC par la mkthode LCAO-SCF sur le modble le plus 
+simple (R' = R2 = H, cf. schCma 2) montre que dans l'iso-
+mkrisation iminoazide (I.A.) % tCtrazole (T), 1'Ctat de transi-
+
+aryle, la forme tetrazole est a ~o r s g ~n ~r a ~e m e n t 
+observke (9). 
+En revanche, si R1 est Clectro-donneur (OR, OH, SR, NR) 
+l'inversion est considkrablement ralentie et I'(1.A.) est la forme 
+tautombre prCpondCrante (9), voire unique comme dans le cas 
+des azidoximes (10). 
+
+Facteurs de milieu 
+L'emploi de solvants polaires, donc de solvants stabilisant 
+mieux 1'Ctat de transition polaris6 que la forme (I.A.) doit en 
+principe favoriser la cyclisation en tktrazole (7), cette prevision 
+s'accorde avec un ensemble d'observations (9). 
+Lorsque le groupe R1 est susceptible de se protoner l'emploi 
+de solvants protiques dtplace par contre 1'Cquilibre vers les 
+formes (I.A.) (9). Enfin, bien que cette rbgle ne soit pas d'une 
+gCnCralitC absolue, la formation des iminoazides est souvent 
+endothermique (1 1). 
+Can. J. Chem. Downloaded from www.nrcresearchpress.com by 87.160.185.190 on 03/27/14 
+
+For personal use only. 
+
+
+CAN. I. CHEM. VOL. 63, 1985 
+
+oxazinium-l,3 
+azido-oxazine 
+imino-azide 
+t e t r a z o l e 
+
+(a) Ar = CsHs 
+(b) AI = P C H ~O C ~H ~ (c) Ar = pNOzCsH4 
+
+Irninoazide (I .A) 
+
+t e t r a z o l e (T) 
+R' e t R1 eventuellernent l i e s . 
+
+SCHBMA 2 
+
+Resultats et discussion 
+Dans le cas des couples (I.A.)/(T) 412 les formes (I.A.) sont 
+
+des formes acycliques dont le groupe R' n'est pas Clectro-
+
+donneur, il est donc normal que la forme tCtrazole 2 soit la plus 
+
+stable B temptrature ambiante. Aussi n'avons nous pas tent6 
+
+d'intervenir sur les facteurs de structure mais sur les facteurs de 
+milieu, d'exploitation plus immCdiate. 
+
+1 
+
+1. Effets de solvant a tempe'rature ordinaire 
+
+I 
+
+Nous avons choisi l'infra-rouge comme mCthode d'Ctude de 
+I'equilibre en solution et procCdC 2 l'enregistrement des solu-
+
+I 
+
+tions du tCtrazole triphCnylC 2a (cf. schema 1) dans CCh, 
+
+I 
+
+CH3CN et CF3COOH. Dans ces conditions nous n'avons dCcelC 
+
+~ 
+
+aucune trace d'absorption dans la rCgion caractkristique des 
+vibrations d'klongation asymktrique du groupe N3 des imi-
+noazides (2160-2 120 cm-I) (12). 
+Le facteur solvant est donc 2 lui seul insuffisant pour dC-
+
+placer B tempkrature ambiante 1'6quilibre (T) = (I.A.) vers les 
+
+formes (I.A.). 
+
+2. Utilisation du facteur temptrature: thermolyse des te'tra-
+zoles 2 
+On pouvait envisager pour les tktrazoles 2 une isomCrisation 
+endothermique en les iminoazides 4 correspondants. Nous 
+avons donc procCdC 2 une ktude de la thermolyse des tttrazoles 
+
+2 dans diverses conditions (solvant, catalyseur. . .). 
+
+Le chauffage des tktrazoles 2 n'a pas permis d'isoler les 
+iminoazides 4 correspondants; on observe selon la nature du 
+solvant, aromatique ou protique, deux comportements bien 
+typCs des tttrazoles. 
+(a). Rtarrangements thermiques en solvant aromatique 
+11s conduisent par perte d'azote (-100%) 2 des mClanges 
+
+essentiellement constituCs d'hCtCrocycles B cinq chainons: les 
+
+pyrazoles 5 et 6 et les imidazoles 7 et 8 (schema 3). 
+
+La transformation totale du tCtrazole 2a nCcessite un chauf-
+fage h 160°C pendant 6 h. Elle conduit h un mClange complexe 
+d'une vingtaine de composks dont on a pu identifier ou isoler 
+les six constituants prkponderants reprCsentant environ 70% du 
+bilan (cf. tableau 1 et partie expkrimentale). 
+Le N-benzoyldiphknyl-3,5 pyrazole 5a et le N-benzoyldi-
+phCnyl-2,4 imidazole 7 a , composCs majoritaires, semblent Ctre 
+des produits primaires de la rkaction. En revanche, le diphCnyl-
+
+3,5 pyrazole 6 (13) et le N-benzoyl-diphknyl-2,5 imidazole 8 
+
+sont des produits secondaires rksultants de transformations 
+ultCrieures des produits majoritaires 5 et 7 respectifs dans les 
+
+conditions de la thermolyse (cf. tableau 2). 
+On note Cgalement la prksence de traces de p-benzamido-
+trans-benzalacCtophenone 9a "pseudo base" de l'oxazinium l a 
+(1, 14) ainsi que d'un composC 10a (il s'agit comme on le verra 
+d'un photoisomere de 2a). 
+(b). Rtarrangement thermique des te'trazoles en solvant 
+protique 
+Le tetrazole 2a ne subit pratiquement aucune modification au 
+cours d'un chauffage au reflux dans 1'Cthanol absolu. En re-
+
+vanche il se rCarrange par chauffage dans 1'Cthanol B 95%, 
+
+I'acide acetique ou l'acide trifluoroacCtique. On obtient, non 
+
+plus des hCtCrocycles azotts B cinq chainons et de l'azote mo-
+
+lkculaire, mais la p-benzamido-trans-benzalacCtophCnone 9a. 
+Comparativement aux rearrangements en solvants aromatiques, 
+ces rkarrangements en solvants protiques sont plus rapides et 
+
+s'effectuent B temptrature modCrCe. 
+I1 est B noter que lors du chauffage du tCtrazole 2a en solution 
+
+dans l'acide trifluoroacCtique se dCveloppe une coloration 
+
+jaune vif qui a pu Ctre attribuCe B la prksence du cation oxa-
+
+zinium, le trifluoroacktate d'oxazinium (cf. partie expCri-
+mentale). 
+(c). Chauffage du te'trazole 2a en prtsence de rtactifs spe'ci-
+fiques des azides organiques 
+L'emploi du cuivre comme kventuel catalyseur de dCcom-
+position du tCtrazole 2a (15) diminue effectivement la tem-
+perature du rkarrangement, mais il en modifie aussi le cours 
+(cf. tableaux 1 et 2) puisqu'il catalyse Cgalement la dC-
+benzoylation du N-benzoyl-pyrazole 5 et qu'il dCgrade le N-
+benzoylimidazole 7 . Ce catalyseur n'apporte donc pas d'amC-
+lioration aux rearrangements thermiques. 
+Nous avons Cgalement tent6 de mettre en Cvidence le retour 
+vers des formes azides par chauffage du tktrazole 2a, en opC-
+rant en presence de rkactifs spCcifiques d'azides organiques 
+comme la triphtnylphosphine P(Ph), (16a, b) ou les amines 
+aromatiques. 
+La triphknylphosphine est bien connue pour intercepter les 
+
+azides organiques en conduisant B des adduits 1: 1 plus ou 
+
+moins stables 2 tempCrature ambiante. On constate que son 
+emploi lors du chauffage du tCtrazole 2a modifie le cours 
+
+phosphoimine 
+
+habitue1 des rkarrangements thermiques. Ainsi, dans l'ortho-
+dichlorobenzbne (ODCB) aussi bien que dans l'ethanol 2 95% 
+on observe une diminution des rendements en produits habitu-
+els, respectivement hCtCrocycles azotCs majoritaires 5a et 7 a et 
+pseudo-base 9a. On note en revanche la formation de nouveaux 
+Can. J. Chem. Downloaded from www.nrcresearchpress.com by 87.160.185.190 on 03/27/14 
+
+For personal use only. 
+
+
+CHERTON ET AL. 
+
+TABLEAU 1. Thennolyse des tttrazoles 2a-c 
+
+ComposCs obtenus 
+TCtrazole 2 
+Autres 
+solvant; temp. (OC); durCe (h) 
+5 
+7 
+8 
+6 
+9 
+10 
+composts 
+
+1. 2a Ar = C6H5 
+ODCB; 160; 6 
+2. 2b Ar = CH30C6H4 
+ODCB; 160; 6 
+3. 2c Ar = NOzC6H4 
+ODCB; 160; 6 
+4. 2a 
+c6H6, 80; 48 
+5. 2c 
+C a b , 80; 48 
+6. 2a 
+EtOH abs.; 78, 48 
+7. 2a 
+EtOH 95%; 78; 2 
+8. 2a 
+CHsCOOH, 115; 1 
+9. 2a 
+CF,COOH, 75; 2 
+
+10. 2a + cuivre 
+
+ODCB, 120; 6 
+
+11. 2a + P(Ph), 
+
+ODCB, 160; 6 
+
+12. 2a + P(Ph), 
+
+EtOH 95%, 78; 6 
+
+13. 2a + pyridine 
+
+Traces 
+
+* Les rendements en % sont dCterminBs par ccm B I'exception de ceux entre parenthtses: dosage clhp. 
+t SCparation dClicate. 
+
+TABLEAU 2. ThennostabilitC du benzoyl-1 diphCnyl-3,s pyrazole 
+
+5a et du benzoyl-1 diphCnyl-2,4 imidazole 7a 
+
+-
+
+Conditions 
+solvant; temp. ("C); duke (h) 
+ComposCs obtenus 
+
+14. 5a 
+ODCB, 160; 12 
+5a 49% 6 
+4% rCsines 
+
+15. 5a + cuivre 
+
+ODCB, 160; 2 
+5a 10% 6 80% 
+
+16. 7 a 
+ODCB, 160; 12 
+7 a 28% 8a 3% resines 
+
+17. 7 a + cuivre 
+
+ODCB, 160; 2 
+7 a 
+0% 8a traces resines 
+
+18. 7 a + cuivre 
+
+DCgradation totale 
+rCsines 
+ODCB, 160; 12 
+des produits habituels 
+
+produits: oxyde de triphtnylphosphine et triphtnyl-2,4,6 py-
+3. Activation photochimique des tktrazoles 
+rimidine 11. Enfin, l'utilisation de la pyridine comme solvant 
+Nous avons tgalement envisagt d'intewenir sur 1'Cquilibre 
+de thermolyse de 2a modifie tgalement le comportement habi-
+(T) % (I.A.) par une dtcomposition photochimique de l'azide 
+tuel; comme prtctdemment, on obtient de la triphtnyl-2,4,6 
+(2, 18). 
+pyrimidine 11 2 c6tt d'un compost suppltmentaire: le 
+
+L'irradiation donne lieu B deux types de transformations: (i) 
+
+diphtnyl-3,5 isoxazole 12 (1 7). 
+une activation de courte durte et peu tnergttique provoque une 
+Can. J. Chem. Downloaded from www.nrcresearchpress.com by 87.160.185.190 on 03/27/14 
+
+For personal use only. 
+
+
+CAN. J. CHEM. VOL. 63, 1985 
+
+CF,cOO-
+SOL-
+CH,COO-
+
++(so L-H+) 
+
+/ Eta-
+
+r 
+
+SOL-
+SOL 
+
+photoisomCrisation du systbme Cnonique avec prkservation du 
+
+noyau tktrazole. Cette photoisomCrisation 2a = 10a s'ap-
+
+parente a la photoisomkrisation trans f= cis de la ben-
+
+zalacCtophCnone (19) et, comme celle-ci, peut se produire B la 
+lumibre solaire. (ii) Une irradiation prolongCe ? I plus courte 
+longueur d'onde provoque, outre la photois~mkrisation prCcC-
+dente, un rkarrangement du motif tCtrazole des deux isombres 
+
+2a et 10a. On aboutit rapidement ti un mtlange rkactionnel 
+
+beaucoup plus complexe que celui des thermolyses, les divers 
+produits primaires pyrazoles et imidazoles devant vraisem-
+blablement subir eux-mCmes des riarrangements photo-
+chimiques (20). 
+Ce mode d'activation n'a donc pas Ct C retenu pour le rkar-
+rangement des tktrazoles. 
+Le noyau tCtrazole est un cycle relativement stable en l'ab-
+sence de substituants le rendant sensible ? i 
+la chaleur (21). 
+Ainsi, les diaryl-1,s tCtrazoles se dkcomposent-ils par chauf-
+fage au dessus de leurs points de fusion (220-250°C) avec 
+perte d'azote et formation de mklange de carbodiimides et de 
+benzimidazoles (22). 
+La dCcomposition des tktrazoles 2 semble suivre un cours 
+diffkrent: elle se produit ? i 
+plus basse tempkrature, 160°C dans 
+I'ODCB et mCme 78°C dans 1'Cthanol ? i 
+95%, et ne fournit pas 
+de carbodiimide (absence de bande d'absorption N=C=N 
+vers 2160 cm-' en spectroscopie infra-rouge). 
+Ceci conduit ? i 
+envisager pour les P-tetrazolo-trans-benza-
+lacktophknones 2 plutdt qu'un rkarrangement "classique" de la 
+forme tetrazole, un rkarrangement des formes azides cor-
+respondantes: (I.A.) 4 voire azido oxazine 3. Nous proposons 
+donc un mkcanisme impliquant dans un premier temps la con-
+version des tCtrazoles 2 en (I.A.) 4 correspondants,' ces der-
+niers subissant dans un deuxi&amp;me temps diverses Cvolutions 
+selon les conditions de milieu. 
+
+' Cornparativernent aux diaryl-1,s tttrazoles on peut concevoir que 
+
+cette thermolyse soit favoriste par la presence d'un groupe R' trans-
+
+chalcone plus tlectroattracteur qu'un groupe aryle (cf. schtrna 2). I1 
+y aurait dtstabilisation du noyau tktrazole rtputt tlectroattracteur (23) 
+et stabilisation de la forme azide tlectrodonneur (24). 
+
+En solvant protique 
+L'obtention des pseudo-bases 9 s'interprbte en admettant la 
+solvolyse des azido-oxazines 3. Les 2H-oxazines 13 rksultantes 
+peuvent mCme selon les cas (sol-= CF,COO-ou CH,COO-) 
+Cvoluer selon une troisibme dissociation d'un type nouveau 
+(25) oxazine + oxazinium-1,3. Cette hypothbse d'une dis-
+sociation des oxazines en paires d'ions plus ou moins intimes 
+selon la nature du solvant est confirmCe par l'observation du 
+cation oxazinium dans le cas oii le solvant est CF,COOH. 
+En solvant aromatique neutre 
+La conversion (I.A.) + (T) ne bCnCficiant plus du facteur 
+favorable de la proticit6 exige un chauffage plus important. En 
+ce qui concerne le deuxibme kquilibre (I.A.) + azidooxazine, 
+il est vraisemblable que c'est la forme (I.A.) qui pridomine (en 
+raison de l'absence de solvolyse, et car c'est vraisemblable-
+ment la forme la plus stable si l'on se rapporte au systbme 
+a-pyranne -ditnone (26)). 
+Nous proposons donc de rationaliser les thermolyses en sol-
+vant aromatique ? i 
+partir de la forme (I.A.) 4 avec comme 
+Ctapes clks la formation d'intermkdiaires tels que la diazirine2 
+14 et les oxadiazepines 16 et 17. 
+La thermolyse des azides vinyliques fait intervenir des 
+azirines formCes par addition des nitrbnes intermediaires sur la 
+double liaison (27, 28). De fason analogue on peut concevoir 
+le passage (I.A.) 4 + cktodiazirine 14 via le nitrbne 15. 
+Deux kvolutions vers les oxadiazkpines 16 et 17 sont possi-
+b l e ~ pour cette cktodiazirine 14, par attaque du dip6le-1,3 
+qu'elle constitue sur le carbonyle du systbme Cnonique (2, 4). 
+(voies 1 et 2). Enfin, (i) le passage oxadiaztpine-1,3,4 16 + 
+pyrazole 5 s'effectuerait par transposition sigmatropique 
+d'ordre 1,3 (cf. la rCf. 31 dans le cas voisin des benz-
+(d)oxazkpines-1,3); (ii) alors que l'oxadiazkpine-1,2,4 17 
+conduirait ? I l'imidazole 7 par des transpositions faisant jouer 
+
+'Ce type d'intermtdiaire a dtjh t t t postult pour rendre cornpte de 
+la photodtcarboxylation de diverses sydnones (29, 30). 
+
+Can. J. Chem. Downloaded from www.nrcresearchpress.com by 87.160.185.190 on 03/27/14 
+
+For personal use only. 
+
+
+CHERTON ET AL. 
+
+interception 
+
+( ' . A J 4 
+
+A 
+
+-l . ~. / P ( $ ) a 
+
+~( $ 1 3 
+
+addui t 1 I1 
+
+-N 2 
+
+nitrene 
+
+1 phosphoimine 
+
+15 
+
+pyridine 
+
+16 + 17 
+
+-
+
+oxadiazCpines 
+
+NH 2 
+
+*Cvolution habituelle 
+
+l'oxirane 18 (32) ou l'imidazole C-benzoylt 19. 
+En prksence de P(Ph), ou de pyridine 
+
+I 
+
+La thermolyse du tktrazole 2a en presence de P(Ph), conduit 
+aux mCmes produits P(Ph),O et pyrimidine 11 que lors d'une 
+attaque de NaN3 sur l'oxazinium l a effectuCe en presence de 
+P(Ph), (1). Ceci suggkre une interception du m&amp;me azide: azi-
+dooxazine 3a ou plus vraisemblablement iminoazide 4a. Dans 
+la dernikre hypothbe, il s'agirait en fait d'une rtaction 
+"Wittig-like" intramolCculaire dont on connait un precedent 
+(33). 
+L'emploi de pyridine comme solvant conduit tgalement h la 
+formation de la pyrimidine 11. I1 s'agit vraisemblablement de 
+l'interception de l'imidonitrkne 15 avec formation de 1'Cnamine 
+intermidiaire 21. Un deuxikrne effet de la pyridine est de 
+limite? les rkarrangements des oxadiazCpines 16 et 17 en 
+pyrazoles 5 et imidazoles 7 au profit d'une autre Cvolution 
+conduisant au diphCnyl-3,5 isoxazole 12 par perte de benzo-
+nitrile (cf. schema 6). 
+
+Conclusion 
+L'Ctude de la tautomCrie tCtrazole 2 + (I.A.) 4 a montrk que 
+conformCment aux prCvisions la formation des (I.A.) est endo-
+thermique. En solvant aromatique, les (I.A.) kvoluent comme 
+
+attendu avec perte d'azote vers des h6tCrocycles a 7 chainons: 
+
+les oxadiazCpines. Ces composts sont malheureusement ins-
+tables et s'isomCrisent thermiquement en pyrazoles et imi-
+dazoles N-benzoylCs. Si l'emploi de solvants protiques favorise 
+I'isomCrisation (T) + (I.A.) il ne permet pas davantage 
+l'isolement des oxadiazCpines. En effet surviennent alors ex-
+clusivement des reactions de solvolyse de l'azidooxazine 3 
+resultant de llCquilibre (I.A.) 
+3. S'il a Ct6 observe que 
+l'introduction d'un groupe Clectroattracteur comme un p-
+nitrophCny1 sur le carbone du noyau tttrazolique joue dans un 
+
+sens favorable a 17isomCrisation (T) % (I.A.), l'exploitation 
+
+On connait en effet des rkarrangements d'oxazkpines-1,3 en N-
+
+benzoylpyrroles catalysks par les acides (34). 
+
+des facteurs structuraux reste encore h approfondir. Enfin, dans 
+le but dlCviter tout chauffage en vue d'isoler Cventuellement les 
+oxadiazepines, nous envisageons de faire appel a des aza-
+pyryliums, comme les oxaziniums-1,2 ou oxaziniums-1,4, tels 
+que la formation de tCtrazoles soit d'emblee impossible. 
+
+Partie experimentale 
+
+Les spectres d'absorption ultraviolet-visible et infra-rouge ont Ctk 
+respectivement emegistrks sur des appareils Hewlett-Packard 8450 A 
+ou Philips SP8-250 et Philips SP3-200. Les spectres de rmn 'H et rmn 
+I3C ont kt6 emegistrks sur appareil EM 360 Varian ou Bruker WP 80 
+et WM 250. Les spectres de masse ont kt6 effectuks par Mes-
+demoiselles J. Mercier et C. Lange que nous remercions, respec-
+tivement au centre de Mesures Physiques de Paris sur un spectromktre 
+AEI MS 50 et au laboratoire sur un spectrographe quadrup6laire 
+Nermag RlO-IOC. Les analyses klkmentaires ont kt6 effectukes par le 
+centre de Microanalyse du CNRS ou au laboratoire de Microanalyse 
+de 1'Universitk Pierre et Marie Curie. Les points de fusion non cor-
+rigts ont kt6 dkterminks de f a ~o n instantanke au banc de Kofler. 
+Le chromatographe liquide utilisk est constituk de: 2 pompes Waters 
+modkle 6000 A pilotkes par le moniteur de gradient Waters modkle 
+660; un injecteur universe] U6 K; un dktecteur uv-visible i filtres 
+interfkrentiels Waters M 440. 
+
+I. Effets de tempe'rature et de solvants sur I'iquilibre iminoazide 
+titrazole 
+Les thermolyses des tktrazoles 2a, b, c ont kt6 effectukes i I'abri de 
+la lumikre dans diverses conditions de temperature, de solvant ou de 
+rkactifs spkcifiques d'azides organiques. L'kvolution des rkactions est 
+suivie par chromatographie sur couche mince de silice (ccm) jusqu'i 
+cessation du dkgagement d'azote. 
+
+Thermolyse du titrazole 2a dans I'ODCB. Manipulation I 
+
+Une solution de 100 mg de tktrazole 2a dans 2 cm3 d'ODCB 
+anhydre est chauffke i 160°C pendant 6 h. La solution est concentrke 
+puis analyske par ccm prkparative sur silice (Merck) (cf. tableau 1). 
+Une analyse qualitative par chromatographie liquide hautes per-
+formances (clhp) rkvkle la prksence d'une vingtaine de composks. 
+Nous avons pu prockder a la quantification de six composks majo-
+ritaires au moyen d'kchantillons standards indkpendamment obtenus 
+en conjuguant la clhp semi-priparative et la ccm. 
+
+Can. J. Chem. Downloaded from www.nrcresearchpress.com by 87.160.185.190 on 03/27/14 
+
+For personal use only. 
+
+
+2606 
+
+CAN. I. CHEM. VOL. 63, 1985 
+
+Conditions d'analyse clhp: colonne: 2 (33 X 0,46 cm) p porasil 
+lop; solvant: gradient no 6 entre n-heptane et n-heptane/ 
+[CH2C12/AcOEt] (95:5) en 15 min jusqu'au mClange n-heptane/ 
+[CH2CI2/AcOEt] (75 : 25); de'bit: 2 mL/min; detection uv 254 nm; 
+temp6rature ambiante. 
+Thermolyse des te'trazoles 2b et 2c dans I'ODCB. Manipulations 2 
+et 3 
+On opere c o m e prtctdemment. Les pyrazoles 56 et 5c sont isolCs 
+par ccm sans difficult&amp; par contre, les imidazoles 76 et 7c n'ont pu 
+&amp;tre suffisamment purifies pour donner une analyse centtsimale satis-
+
+faisante. Ceci est dO a la presence de produits de polaritks voisines tels 
+
+que pseudo-bases 96, c et pyrazoles bases 66, c (cf. tableau 1). La 
+structure des produits majoritaires pyrazoles 5 , 6 , imidazoles 7 , s sera 
+discutCe dans le paragraphe suivant. 
+Thermolyse des te'trazoles dans le benzine. Manipulations 4 et 5 
+Le chauffage de 100 mg de te'trazole 2a (ou 26) dans 2 cm3 de 
+benzkne anhydre ne produit aucune modification en 48 h. Par contre, 
+dans les m&amp;mes conditions, le tttrazole 2c se rkarrange en partie: la 
+ccm permet d'isoler 20% de pyrazole 5c (19,5 mg), 10% de pseudo-
+base 9c ( 9 3 mg), et 40 mg de tCtrazole inchangk. 
+Thermolyse du te'trazole 2a en solvant protique. Manipulations 6 
+
+a 9 
+On chauffe les solutions de 2a dans divers solvants protiques au 
+
+reflux. Apres traitement: lavage a I'eau, extraction a 1'Cther ou sim-
+
+plement Cvaporation du solvant dans le cas de I'Cthanol, on purifie la 
+pseudo-base 9a par ccm. Dans le cas du chauffage dans CF3COOH, 
+
+la coloration jaune vif fluorescente a Ct C attribuCe a la formation du 
+
+cation oxazinium-1,3 l a par spectroscopie uv-visible. 
+Thermolyses du te'trazole 2a dans I'ODCB en pre'sence de P(Ph),. 
+Manipulation 11 
+Le tktrazole 2a (186 mg, 0,5 mmol) est chauffC dans 2 cm3 d'ODCB 
+
+anhydre a 160°C pendant 6 h en presence de 13 1 mg (0,5 mmol) de 
+P(Ph)3. Le traitement habitue1 conduit a un mClange de pyrazole 5 a 
+
+(18%, 30 mg), d'imidazole 7a (13%, 21 mg), de pseudo-base 9a (2%, 
+2,5 mg), de triphknyl-2,4,6 pyrimidine 11 (1) (20%, 31 mg) et de 
+I'oxyde de triphtnylphosphine (20%, 25 mg). On obtient le m&amp;me 
+genre de produits en op6rant au reflux de 1'Cthanol (manipulation 12). 
+Thermolyse du te'trazole 2 a dans la pyridine. Manipulation 13 
+Le tktrazole 2a (30 mg, 0,08 mmol) est chauffk 48 h dans 2 cm3 de 
+
+pyridine anhydre a 115°C. On obtient aprks traitement: de la tri-
+
+phCnylpyrimidine 11 (11%, 3 mg), du diphtnyl-3,5 isoxazole 12 (17) 
+(15%, 3,5 mg, Fi 140°C) ainsi que de la pseudo-base 10a (40%, 1 1 3 
+mg). 
+Thermostabilite' du pyrazole 5a (cf. tableau 2) 
+La manipulation 14 montre que le pyrazole 5a n'est pas stable dans 
+les conditions o t ~ il est produit par degradation du tktrazole 2a. 11 se 
+dCcompose en mClange de composCs dont le seul qui puisse Stre 
+identifiC est le pyrazole base 6a (4%). Cette dCcomposition est beau-
+coup plus propre et plus rapide en presence de cuivre (manipulation 
+15). 
+.Thermostabilite' de I'imidazole 7a (cf. tableau 2) 
+La manipulation 16 montre que I'imidazole 7a subit une dC-
+gradation importante au chauffage, le seul produit isolable Ctant son 
+isomere 8a en faible quantitk. La dCgradation de 7 a est complkte en 
+prCsence de cuivre m&amp;me pour un chauffage de courte durCe (exp. 1 7 
+et 18). 
+
+11. Structure des produits issus des thermolyses 
+Les pseudo bases 9a-c obtenues par chauffage des titrazoles en 
+solvant protique ont fait I'objet d'une Ctude spectroscopique dans un 
+precedent article (1). La triphCnyl-2,4,6 pyrimidine 11 dCjh connue 
+(34) a Ctt identifiCe (Fi, ir) a un Cchantillon authentique, de m&amp;me que 
+le diphknyl-3,5 isoxazole 12a (17). 
+
+1. Structure des pyrazoles 5 et 6 
+
+Seul le diphCnyl-3,5 pyrazole 6a Ctait connu, nous l'avons identifit 
+a un Cchantillon obtenu par action de l'hydrazine sur I'bxazinium l a 
+(35). 
+(a) Benzoyl-1 diphe'nyl-3,5 pyrazole 5a: A une solution de 76 mg 
+
+(0,34 mmol) de pyrazole 6a dans 5 cm3 d'Cther anhydre, on ajoute 
+lentement 20 p L de chlorure de benzoyle. Apres lavage a I'eau jusqu'i 
+neutralit6 le mtlange rkactionnel chromatographit (ccm sur silice) 
+fournit 56 mg (40%) de 5a pur, Fi 128°C (Cther); ir cm-' (KBr): 1700, 
+1600, 1580,900; uv v, , , (log E, , ) (ether): 242 (4, 53), 275 (4, 17); 
+rmn 'H (CDCI3) 6 ppm/TMS: 8,3-8,05 (m, 2H), 8,7-7,5 (m, 2H), 
+7,7-7,2 (m, 1 IH), 6,8 (s, lH, H4); masse m/e: M' 324 (25), 296 
+(12), 295 (17), 220 ( 3 3 , 191 (ll), 165 (3), 105 (100), 77 (39);Anal. 
+calc. pour C22H16N20: C 81,46, H 4,97, N 8,64; tr: C 81,42, H 5,01, 
+N 8,69. 
+
+La structure des autres N-aroyl-pyrazoles 5b et 5c se fonde sur la 
+
+comparaison de leurs propriCtCs spectroscopiques avec celles de 5a. 
+En infra-rouge, la prksence d'une bande d'absorption situCe vers 1710 
+cm-' Ccarte I'hypothese d'une structure de C-aroyl-pyrazole pour 
+laquelle le carbonyle se situerait vers 1660-1665 cm-' (36). Elle 
+s'accorde en revanche avec la structure proposCe de N-aroyl-pyrazole 
+(37). En rmn 'H, on constate que le dkplacement chimique du proton 
+not6 H4 est pratiquement constant pour les pyrazoles 5a-c. Ce rC-
+sultat Ctablit que le groupe aryle substituC est situC dans le motif aroyle 
+(qu'il influence d'ailleurs en ir au niveau de v(C=O)) et non pas sur 
+les sommets C3 ou C5. L'utilisation de la relation empirique de 
+Tensmeyer et Ainsworth (38) donnCe pour les pyrazoles-1,3,5 tri-
+substituCs confirme nettement dans le cas de 5a la structure de N-
+benzoyl-diphCnyl-3,5 pyrazole: 
+
+CDCI3 
+observe 6,85 
+calcult 6,86 
+6 H4 
+CCI4 
+observe 6,80 
+calcul6 6,75 
+
+(b) p-Me'thoxybenzoyl-1 diphe'nyl-3,5 pyrazole 5b: Fi 80-82°C 
+(Cther); ir cm-' (KBr): 2860, 1705, 1600, 1580,900; rmn 'H (CDCL) 
+6 ppm/TMS: 8,25-7,05 (sys. AA'BB', 4H), 8,l-7,3 (m, lOH), 6,9 
+(s, lH, H4), 3,9 (s, 3H); masse m/e: M' 354 (33,220 (go), 191 (20), 
+189 (12), 135 (loo), 105 ( 9 , 77 (40). 
+(c) p-Nitrobenzoyl-1 diphe'nyl-3,5 pyrazole 5c: Fi 150-152°C 
+(Cther); ir cm-' (KBr): 17 15, 1600,1575, 1350,920; rmn 'H (CDCI,) 
+6 ppm/TMS: 8,5-8,2 (m, 4H), 8,05-7,7 (m, 4H), 7,7-7,3 (m, 6H), 
+6,89 (s, lH, H4); masse mle: M' 369 (lo), 341 (8), 220 (100), 191 
+(40), 189 (30), 165 (lo), 150 (25), 105 (8), 77 (42). Anal. calc. pour 
+C22H15N303:C71,53, H4,09, N 11,38;tr: C71,68,H4,18, N 11,55. 
+
+2. Structure des imidazoles 7a et 7b 
+
+Les preuves structurales reposent essentiellement sur des arguments 
+chimiques. Ainsi I'hydrolyse (39) du diphinyl-2,4 N-benzoyl-
+
+imidazole 7a ( F 141°C), conduit-elle a la "base de Minovici": le 
+
+diphCnyl-2,5 imidazole via la "base de Kunckell" (40): le diphCny1-2,4 
+imidazole instable dans les conditions de I'hydrolyse. La benzoylation 
+de cette dernikre "base" selon la rtf. 41 conduit au N-benzoyl-
+diphCnyl-2,5 imidazole identifit au composC 8 a ( F 120-121°C) ob-
+tenu lors de la thermolyse du tttrazole 2a. 
+(a) N-Benzoyldiphe'nyl-2,4 imidazole 7a, obtenu par thermolyse du 
+tttrazole 2a aprks ccm (silice): Fi 141°C (Cther); ir cm-' (KBr): 17 15, 
+1600, 1580, 900; uv (Cther) v, . , nm (log E,,,): 257 (4, 33), 2,84 (4, 
+
+34); rmn 'H (CDC13) 6 ppm/TMS: 8,O-7,l (m); masse mle: M' 324 
+
+(16), 220 (5), 165 (I), 106 (lo), 105 (loo), 77 (10). Anal. calc. pour 
+C22H&amp;JZO: C 81,46, H 4,97, N 8,64; tr: C 81,42, H 4,91, N 8,52. 
+(b) Hydrolyse du benzoyl-1 diphe'nyl-2.4 imidazole 7a: 23 mg de 
+l'imidazole 7a sont hydrolysCs selon la mCthode de M. Weiss (39) en 
+prCsence dYacCtate d'ammonium (50 mg) et d'acide acktique (250 
+p L ) Au cours de la r6action suivie par ccm, on constate la trans-
+formation du produit primaire d'hydrolyse 7a en base de Minovici 8 a 
+de polarit6 sup6rieure. On isole apres traitement 11 mg (72%) de Sa, 
+
+Fi 141°C, identifiC a un Cchantillon authentique prCparC indCpen-
+
+damment (41). 
+(c) Benzoyl-1 diphe'nyl-2,5 imidazole 8a: 14 mg de 8 d sont chauffCs 
+
+20 min a 130°C dans 200 p L de @-COCI. Apres refroidissement et 
+
+agitation 30 min dans une solution Cthanolique d'amrnoniaque A lo%, 
+
+on lave a I'eau et extrait a I'tther jusqu'i neutralitC. On obtient aprks 
+
+ccm sur silice 8 mg (40%) d'imidazole Sa, Fi 120-121°C. 
+
+Ce compost est identique i l'imidazole obtenu (7%) par thermolyse 
+Can. J. Chem. Downloaded from www.nrcresearchpress.com by 87.160.185.190 on 03/27/14 
+
+For personal use only. 
+
+
+CHERTON ET AL. 
+
+2607 
+
+du tttrazole 2a dans I'ODCB ou par rearrangement thermique de 
+I'imidazole 7a (cf. tableau 2); ir cm-' (KBr): 1730, 17 10, 1600, 1580, 
+900; masse mle: M+ 324 (lo), 220 (4), 165 (I), 106 (1 I), 105 (loo), 
+77 (45). 
+
+111. Irradiation du tttrazole 2a 
+
+Irradiation de courte durte A &gt; 300 nm ou irradiation a la 
+
+lumitre solaire. Obtention du tttrazole IOa 
+La tttrazole 2a s'isomtrise lentement a I'ttat solide ou en solution 
+h la lumihe du laboratoire en tttrazole 10a (cf tableau 1). 
+Une solution de 200 mg (0,57 mmol) de tktrazole 2a dans 100 cm3 
+d'un mtlange de cyclohexane-benzkne (60:40) est prtalablement 
+dtgazte pendant 15 min par barbotage d'azote. L'irradiation est rtali-
+ste au moyen d'une lampe de type SP 500 Philips au travers d'un filtre 
+
+Pyrex (A &gt; 300 nm). I1 semble que la reaction, suivie par ccm, donne 
+
+lieu h un phototquilibre. Au bout d'l h on tvapore le solvant et obtient 
+aprts purification par ccm (silice) 150 mg (75%) de tttrazole IOU, Fi 
+
+116°C (tther); ir4 cm-' (KBr): 1670, 1620, 1595; uv (tther) v,,, nm 
+
+(log E, , , ): 
+238 (4, 38), 290 (3, 94); rmn 'H (CDC13) 6 ppm/TMS: 
+8,l-7,6 (m, 4H), 735-7,20 (m, llH), 7,15'(s, 1H); rmn 'H (C6Ds) 
+6 ppm/TMS: 7,9-7,7 (m, 4H), 7,2-6,65 (m, 1 lH), 6,6' (s, lH, H5); 
+rmn "C (CDC13) S ppm/TMS: carbones quatemaires 191,2, 155,2, 
+141.8, 137,3, 133,3, 131,3, 124,6; carbones tertiaires 134,7, 132,4; 
+masse m/e: M+ 324 (221), 310 (9), 247 (7), 105 (loo), 77 (45). Anal. 
+calc. pour C22H16N40: C 74,98, H 438, N 15,90; tr: C 74,69, H 4,70, 
+N 15,63. 
+
+1. J. C. CHERTON, P. L. DESBENE, M. BAZINET, M. LANSON, 
+0 . CONVERT et J. J. BASSELIER. Can. J. Chem. 63, 86 (1985). 
+2. (a) J. P. LE ROUX, J. C. CHERTON et P. L. DESBENE. C.R. Acad. 
+Sci. 280,37 (1975); (b) P. L. DESBENE, J. C. CHERTON, J. P. LE 
+Roux et J. J. BASSELIER. Tetrahedron, 40, 3539 (1984). 
+3. P. L. DESBENE, D. RICHARD, J. C. CHERTON et P. CHAQUIN. 
+Tetrahedron, 40, 3549 (1984). 
+4. P. L. DESBENE et J. C. CHERTON. Tetrahedron, 40, 3565 (1984). 
+5. J. ELGUERO. Bull. Soc. Chim. Fr. 1925 (1971). 
+6. H. REIMINGER. Chem. Ber. 103, 1900 (1970). 
+7. L. A. BURKE, J. ELGUERO, G. LEROY et M. SANA. J. Am. Chem. 
+SOC. 98, 1685 (1976). 
+8. W. LWOWSKI. The chemistry of the azido group. ~dite' par 
+S. Patai. Interscience, New York. 1971. p. 503. 
+9. B. STANOVNIK et M. TisLER. Tetrahedron, 25, 3313 (1969). 
+10. F. ELOY. J. Org. Chem. 26, 952 (1961). 
+11. M. TiSLER. Synthesis, 123 (1973). 
+
+4 0 n note entre 1340 et 690 cm-' la prtsence d'un ensemble de 
+bandes caracttristiques du noyau tktrazolique (1). 
+'Le recours h un rtactif de dtplacement chimique induisant des 
+dtplacements a champ fort P r ( f ~d ) ~ 
+a permis de localiser le proton H5 
+h la lirnite du massif aromatique vers les champs forts. Cette attri-
+
+bution est tgalement confirmte par la rmn i haut champ (250 MHz). 
+
+12. G. A. REYNOLDS, J. A. VAN ALLAN et J. F. TINKER. J. Org. 
+Chem. 24, 1205 (1959). 
+13. 1. SHIBUYA et M. KURABAYASHI. Bull. Chem. Soc. Jpn. 46,3902 
+(1973). 
+14. A. PADWA et N. EISENHARDT. J. Org. Chem. 35, 2472 (1970). 
+15. K. FRAUNBERG et R. HUISGEN. Tetrahedron Lett. 2599 (1969). 
+
+16. (a) J. E. LEFFLER, U. HONSBERG, Y. TSUNO et I. FORSBALD. 
+
+J. Org. Chem. 26, 4810 (1961); (b) L. F. KASUKHIN, M. P. 
+PONOMARCHUK, T. I. KLEPA, V. P. LYSENKO et YU GOLOBOY. 
+Zh. Obshch. Khim. 47, 2188 (1977). 
+17. C. MOUREU et M. BRACHIN. C.R. Acad. Sci. 137, 795 (1903). 
+18. F. L. BACH, J. KARLINER et G. E. VAN LEAR. Chem. Commun. 
+1111 (1969). 
+19. R. E. LUTZ et R. H. JORDAN. J. Am. Chem. Soc. 72, 4090 
+(1 950). 
+20. (a) P. BEAK, J. L. MIESEL et W. R. MESSER. Tetrahedron Lett. 
+5315 (1967); (b) P. BEAK et W. MESSER. Tetrahedron, 25, 3287 
+(1969). 
+21. M. C. EWAN et M. W. RIGG. J. Am. Chem. Soc. 73, 4725 
+
+-
+
+(1951). 
+22. P. A. S. SMITH et E. LEON. J. Am. Chem. Soc. 80,4647 (1958). 
+23. R. A. HENRY, W. G. FINEGAN et E. LIEBER. J. Am. Chem. Soc. 
+81, 4671 (1959). 
+24. E. LIEBER, R. L. MINNIS et C. A. RAO. Chem. Rev. 65, 377 
+(1965). 
+25. J. J. BASSEL~ER et J. P. LE Roux. C.R. Acad. Sci. Ser. C, 268, 
+622 (1969). 
+J. P. LE ROUX, G. LETERTRE, P. L. DESBENE et J. J. BASSELIER. 
+Bull. Soc. Chim. 4059 (1971). 
+G. SMOLINSKY. J. Org. Chem. 33, 241 1 (1068) et rtf. cittes. 
+P. L. DESBENE et J. C. CHERTON. Tetrahedron, 40,3567 (1984). 
+H. GUT~HARD et F. REITER. Tetrahedron Lett. 29, 2749 (1971). 
+A. CHINONE, Y. HUSEYA et M. OHTA. Bull. Chem. Soc. Jpn. 43, 
+2650 (1970). 
+0 . BUCHARDT, P. L. KUMLER et C. LOHSE. Acta. Chem. Scand. 
+23, 2149 (1969). 
+F. BELLAMY, J. STREITH et H. FRITZ. Nouv. J. Chim. 3, 115 
+(1979). 
+J. ACKRELL, E. GALEAZZI et J. M. MUCHOWSKI. Can. J. Chem. 
+57, 2696 (1979). 
+T. MUKAI et S. SUKAWA. Tetrahedron Lett. 1835 (1973). 
+R. R. SCHMIDT. Chem. Ber. 98, 334 (1965). 
+J. BASTIDE, 0. HENRI-ROUSSEAU et L. APART-PASCOT. Tetra-
+hedron, 30, 3355 (1974). 
+G. RIo et A. LECAS-NAWROLKA. Bull. Soc. Chim. Fr. 1723 
+(1971). 
+L. G. TENSMEYER et C. AINSWORTH. J. Org. Chem. 31, 1878 
+(1966). 
+M. WEISS. J. Am. Chem. Soc. 74, 5193 (1952). 
+R. BURTLES et F. LEE PYMAN. J. Chem. Soc. 123, 361 (1923). 
+0. GERNGROS. Chem. Ber. 46, 1908 (1913). 
+
+Can. J. Chem. Downloaded from www.nrcresearchpress.com by 87.160.185.190 on 03/27/14 
+
+For personal use only. 
+
+
+
+	
+

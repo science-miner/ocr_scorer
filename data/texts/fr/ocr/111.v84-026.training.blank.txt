@@ -1,0 +1,375 @@
+
+	
+
+		
+
+	
+
+	
+
+Resonance magnetique nucleaire I3C des derives allyliques de la colonne IV-A,' 
+de type (CaH5)3ECH2CH=CH-CH3. Effets electroniques du substituant 
+du noyau aromatique 
+
+E. MATARASSO-TCHIROUKHINE 
+Lahorntoire de Rec.11erche.s de Chinlie Orgrrrliylre de 1'E.N.S.C.P.. 11, Rue Pierre er Marie Curie, 
+75231 Paris Cedex 05, Frarlce 
+
+Requ le 24 janvier 1983' 
+
+E. MATARASSO-TCHIROUKHINE. Can. J. 62, 133 (1984). 
+L'ttude par rmn "C de la sCrie (C6Hs)3ECHZCH=CH-CH3 1E pour tous les Cltments de la colonne IV-A a mis au jour 
+
+les effets Clectroniques du substituant du noyau aromatique en fonction de I'ClCment E-IV-A; h savoir (a) un effet electro-
+accepteur par hyperconjugaison pour E = Si, Ge, Sn. (b) un effet inverse, Clectrodonneur par hyperconjugaison pour E = Pb, 
+impliquant une ClectronCgativitC plus ClevCe pour cet Clement et (c) un effet donneur par induction (I) pour E = C. L'Cnergie 
+
+moyenne d'excitation de la molCcule gouverne les dkplacements chimiques des carbones ipso et orrho. 11 semble qu'elle soit 
+
+Cgalement dCterminante quant au couplage 'J("C-"'~P~). 
+
+E. MATARASSO-TCHIROUKHINE. Can. J. Chern. 62, 133 (1984). 
+
+The "C nmr study of the series (C,Hs),ECH,CH=CH-CH, 
+
+1E shows, for the aromatic nucleus, a polarization consistent 
+
+with a rnesomeric electron withdrawing effect of the substituent in the case of E = Si, Ge, Sn; inversely, a mesomeric donating 
+effect, in the case E = Pb, involving a higher electronegativity for Pb; and a donating r inductive effect, in the case E = C. 
+The mean electronic excitation energy seems to dominate the chemical shifts of the aromatic carbons C,!,,, and C,,,-,,,,,, as well 
+
+as the coupling ' J("C-""~b). 
+
+L'ttude comparative des dtplacements chimiques et des cou-
+plages le long de la colonne IV-A pour une m&amp;me strie 
+R3ECH2CH=CH-CH3 
+l E , Z ou R3ECH(CH3)CH=CH2 2 
+avait permis d'interprtter les rtsultats obtenus en termes 
+d'hyperconjugaison a-IT (1). 
+Dans le but d'apporter des renseignements quant aux com-
+portement respectif des htttrotltments Si, Ge, Sn et Pb vis a 
+vis du noyau aromatique, il nous a paru souhaitable de com-
+pltter ces travaux par l'ttude comparative du fragment aro-
+matique de la strie (C6H,),ECH2CH=CH-CH3, 
+1 E. 
+En ce qui concerne la partie exptrimerztale, se rapporter a la 
+
+premiPre partie de ce travail ( 1 ) . 
+
+Resultats et discussion 
+
+TABLEAU I. DCplacements chirniques des carbones arornatiques, 
+
+S' ",,,; 
+
+composes 1E" 
+
+SI3CAr ppm 
+
+ParamPtres 6I3CA, 
+
+C 
+147,4 
+129,42 
+127,58 
+125,79 
+
+Les rtsultats numeriques exptrimentaux concernant les 
+[+ 18.91 
+
+[+0,921 
+[-0,921 
+[-2,7 11 
+
+dtplacements chimiques 6"CA, se trouvent consignts dans le 
+
+"Solut~ons saturees dans CDCI,: reference lnteme TMS; prec~s~on. +0,05 
+
+tableau 1. 
+
+ppm. Entre parentheses: deplacements chimiques rapportes au benzene, 
+
+11 convient de rappeler, d'une part, que l'introduction d'un 
+
+8"Cc6~6 = 128,50 PPm (12). 
+
+substituant sur le noyau benzknique conduit a une polarisation 
+des tlectrons IT du noyau phtnyle. Cette polarisation est gou-
+vernte a la fois par le facteur de polaritt a , , et le facteur de 
+rtsonance UR, du substituant; et, d'autre part, que (a) les dt-
+placements chimiques 6"CP et 6I7C,,, sont proportionnels a la 
+
+charge totale, q, = q, + q,, portte respectivement par les car-
+
+bones para et meta; ils sont lits aux paramktres d'induction al 
+et de rtsonance a, du substituant par une relation lintaire (2). 
+Pour les carbones ipso C,, et ortho, C,,, il faut ajouter l'effet 
+sttrique ainsi que toute contribution ayant pour origine l'effet 
+d'anisotropie du substituant (3); et que (b) le paramktre A6I3Cp 
+par rapport au benzkne est fonction lintaire de Aq,C~~, lui-m&amp;me 
+proportionnel a A q ~r ~. 
+I1 en rtsulte que le caractkre donneur ou accepteur d'un 
+substituant peut &amp;tre dtduit directement du dtplacement chimi-
+que du carbone en para. 
+I1 convient de distinguer Aqncp et E A ~, (transfert de charge 
+
+'Voir rCf. I. 
+'Revision reque le 20 juin 1983. 
+
+total) entre le substituant et le noyau aromatique, lequel dtpend 
+presque exclusivement de la constante UR, tandis que AqnCfl 
+dtpend de fagon relativement importante de la polaritt du sub-
+stituant (2). 
+Effets e'lectromtres des substituunts 
+-E(C6C5)?(CH2CH=CH-CH3) 
+Les effets tlectromi?res observts sont faibles (Tableau I). 
+(a) E = C 
+
+La polarisation du noyau benzknique (6I3C1, &lt; 6I3C,,,) est 
+
+congruente avec un effet donneur pour le substituant. Sur la 
+base de rtsultats acquis anttrieurement pour le methylbenzkne 
+(4), admis pour le tert-butylbenzkne (5) et sachant qu'une hy-
+perconjugaison a-T ntcessite des energies cornparables pour 
+les orbitales a et IT, ce qui est rtalist dans le cas des composts 
+organomttalliques (6), tandis que dans le cas d u compost 1 E 
+(E=C) cette hyperconjugaison se trouve trks vraisemblable-
+ment minimiste du fait de la difftrence d'tnergie entre les 
+orbitales a et T, nous concluons une polarisation du noyau 
+phtnyle par effets T inductifs du substituant. 
+Can. J. Chem. Downloaded from www.nrcresearchpress.com by 87.160.185.190 on 03/27/14 
+
+For personal use only. 
+
+
+134 
+
+CAN. J. CHEM. VOL. 62. 1984 
+
+(b) E = Si, G e , Sn 
+
+La polarisation du noyau benzenique (SI3C1, &gt; S'3C,,,) indi-
+
+que un effet e'lectroaccepteur pour le substituarzt. Cet effet ne 
+peut Ctre attribue a des effets inductifs, car d'apres l'tchelle 
+d'tlectrontgativitt ttablie les tltments E ( I ) , un effet n 
+inductif conduirait a un rtsultat inverse de celui observt. On 
+peut conclure a un effet Clectroaccepteur pal-re'sonance. 
+(c) E = Pb 
+
+La polarisation du noyau phtnyle (S1'C1, &lt; S1'C,,,) est con-
+
+gruente avec un effet donneur pour le substituant. Pour des 
+raisons expostes dans le cas prtcedent, on peut conclure a un 
+effet Clectrodonneur par rksonance. L'effet donneur par hyper-
+conjugaison de la liaison C-E, favorist par des energies sirn-
+ilaires pour les orbitales u et n concerntes, croit avec la densitt 
+Clectronique des orbitales p des atornes reliant les systernes n 
+et u (6); il est favorist par une tlectrontgativitt accrue de 
+1'Cltment E (5). Le caractere tlectrodonneur par rtsonance 
+distingue le dtrivt du plomb des autres groupements 
+-E(C6H5)2(CH2CH=CH-CH3) 
+de la strie E-IV-A; des rt-
+sultats sirnilaires ont t t t obtenus pour les groupements 
+E(C6H&amp; (E = Sn, Pb) (5, 10) rapprochant, de ce fait, les 
+dtrives du plomb des dtrivts arylrnercuriques plOtot que des 
+dtrivts de l'ttain (10). 
+La difference A = SI3Cp -S1'C,,, est fonction lintaire du 
+
+facteur de risonance u: (9); les donntes de la litttrature (9) ont 
+t t t rnises a profit pour determiner des ordres de grandeur pour 
+
+I 
+
+I 
+
+les effets de resonance u: des substituants, ttudits en fonction 
+de I'htttrotltment (Tableau 4). 
+La comparaison des parametres 6'3CA, (Tableau 1) pour la 
+strie 1E avec les parametres correspondants d'alkylbenzknes 
+
+(7, 8) d'une part, et ceux des phtnyllithium et bromure de 
+phtnylmagntsium (1 1) de l'autre rnontre que: (a) le profil du 
+spectre du derive I E du carbone (E = C) est similaire a ceux 
+
+du tolukne et du n-butylbenzene; (b) le profil des spectres des 
+composts htttroatorniques E = Si, Ge, Sn, Pb, prtsente une 
+analogie (surtout marqute pour les dtrivts du plornb) avec 
+celui des spectres du phenyllithium et du brornure et de phenyl-
+rnagntsiurn, a savoir, un dtblindage des carbones ipso (C,) 
+(5-25 pprnlbenzkne) et ortho (C,,) (7 ppm/benzene). 
+Les dtplacements chimiques pararnagnttiques SI3C, et SI3Cc, 
+pour le phtnyllithium et le bromure de phenylrnagnesium 
+avaient tte interprttts (I I) en suggtrant que l'anisotropie de la 
+liaison C,-M 
+
+ttait a I'origine des dtplacements para-
+
+magnttiques 6I3C, et SI3C, et que ceux-ci ttaient gouvernts par 
+l'tnergie moyenne d'excitation de la moltcule, AE (u,,-, + 
+
+n*); on sait que les dtplacernents chirniques du carbone sont 
+essentiellement dttermints par le terrne pararnagnttique de la 
+constante d'tcran, 6?, qui peut Ctre exprimt (2) en terrnes 
+d'tnergie moyenne d'excitation de la moltcule, AE, a laquelle 
+
+il est inversement proportionnel. 
+Pour les cornposts htttroatomiques ttudits IE, il parait 
+
+raisonnable d'interprtter les dtplacernents chirniques para-
+magnetiques des carbones C, et C,, de la rnCrne rnanikre; AE 
+
+dtcroit de Si a Pb (6) ce qui est en accord avec le deplacement 
+paramagnttique de C, lorsque E varie de Si a Pb. 
+On remarque (Tableau 1) que pour le dtrivt du siliciurn (a 
+I'encontre des autres dtrivts htttroatomiques), le profil du 
+spectre rmn "C correspond pour tous les carbones a une pola-
+risation du noyau phtnyle induite par un substituant tlectro-
+
+accepteur. SI3Cp &gt; SI3C,, et S"C,,,l,,, &gt; 6°C ,p,,; le rtsultat 
+
+s'accorde avec un effet tlectroaccepteur par rtsonance du 
+groupement (C6HS)2(CH3CH=CH-CH2)E-
+qui serait rela-
+tivement plus important pour le dtrivt du silicium par rapport 
+
+TABLEAU 2. Couplages 'J("CA,--E); composes lE, Z; 2 
+
+J('",,,-E) 
+(Hz) 
+
+Pb {l" 
+
+325,2 
+61,5 
+69,3 
+18,6 
+62,7 
+
+2 
+
+277,6 
+58.7 
+
+TABLEAU 3. Couplages ' J(I3cAr--H); 
+
+compose 1E 
+
+'J("CA,-H) 
+(Hz) 
+
+TABLEAU 4. Pararnktre de resonance, a : , pour le substituant, 
+,ChHs 
+-E-C6Hs 
+, au noyau aromatique; cornposC 1 E 
+
+'CH~CH=CH-CH~ 
+
+aux dtrivts du germanium et de l'etain et qui serait dtter-
+rninant; quant aux positions relatives des dtplacements 
+chimiques des carbones arornatiques. Ce rtsultat est en accord 
+avec les travaux thtoriques anttrieurs (6). 
+
+Couplages 
+Les rtsultats experirnentaux sont rassemblts dans les tab-
+leaux 2 et 3. 
+(a) Couplage htte'roe'le'ment-carbone 'J(I3C-E) 
+On rernarque (Tableau 2), pour le dtrivt de l'ttain 
+(E = Sn), un couplage 'J("C-"9~'7Sn) = 495,2; 472,8 Hz, 
+donc trks voisin d'un couplage "typique" d'une liaison ttain 
+tttrahtdrique sp3 -carbone sp2 (13); en revanche pour le 
+dtrivt du plomb, E = Pb, on observe un couplage bien 
+inftrieur aux valeurs admises comme valeurs caracteristiques 
+de la liaison plomb tetrahedrique sp3 -carbone sp2 (14), 
+a savoir, pour (C6H5)4Pb, 1J("C-207Pb) = 480,9 Hz et 
+pour (CH2=CH)4Pb, 'J("C-207Pb) = 454,l Hz. I1 con-
+vient igalement de noter que pour (C6HS)3PbCH3, 
+1J("C-207Pb) = 439 Hz (15); comme il a t t t montrt par de 
+Vos, 'J est fonction du nornbre de phtnyles lits au plomb et 
+
+dtcroit i 348 Hz, pour (C,HS)Pb(CH3),; I'auteur interprtte ce 
+
+phtnornkne en termes de charge effective portte par le plomb 
+et du caractere s de la liaison C-Pb. 
+Rappelons que le terme de contact de Fermi gouverne le 
+couplage 'J(E-X) 
+qui est (a) inversement proportionnel 2 
+l'tnergie moyenne d'excitation de la molecule, AE, et (b) 
+
+proportionnel a la charge effective du noyau et au caractkre s 
+
+de l'orbital hybride formant la liaison E-X. 
+Dans le cas du compose 1E (E = Pb) la faible valeur du 
+couplage 'J observte peut Ctre rationaliste en termes 
+Can. J. Chem. Downloaded from www.nrcresearchpress.com by 87.160.185.190 on 03/27/14 
+
+For personal use only. 
+
+
+MATARASSO-TCHIROUKHINE 
+
+135 
+
+d'hyperconjugaison u-7~ de la liaison C-E 
+et de la double 
+liaison allylique; en effet, l'existence d'une hyperconjugaison 
+
+conduit a un accroissement de la charge positive sur le plomb, 
+ayant pour consCquence, un accroissement de AE, ce qui est 
+
+congruent avec une diminution de J(I3C-'"'Pb). 
+
+(b) Coliplnge carbotze-proton J(I-'C-H) 
+Le tableau 3 montre les couplages J(I3C-H) les rk-
+
+sultats suivants: 'J("C,,,-H) 
+
+&lt; 'J(I3C,,-H) pour E = Si, Sn 
+et 'J('~C,,--H) &gt; 'J('.'C,,,-H) pour E = Pb. 
+
+Ces rCsultats laissent entendre que ces couplages sont gou-
+vernCs par la charge effective des carbones C,,, et C,,. Dans ce 
+
+cas les inCgalitCs observCes correspondraient i une polarisation 
+
+du noyau phCnyle induite par un substituant Clectro-accepteur, 
+pour E = Si, Sn et par un substituant Clectrodonneur pour 
+E = Pb; ce qui confirme les rksultats dCduits d e I'Ctude des 
+paramktres 6I3CAr. 
+
+I. E. MATARASSO-TCHIROUKHINE et P. CADIOT. 61, 2476 (1983). 
+2. W. J. HEHRE, R. W. TAFT, et R. D. TOPSOM. Prog. Phys. Ore. 
+Chem. 12, 173 (1976). et references cities. 
+
+3. H. S. GUTOWSKY, D. W. MCCALL, B. R. MCGARVEY, et L. H. 
+MEYER. J. Am. Chem. Soc. 74, 4809 (1952). 
+4. L. LIBIT et R. HOFFMANN. J. Am. Chem. Soc. 96, 1370 (1974). 
+5. M. L. BULLPITT, W. KITCHING, W. ADCOCK, et D. DODRELL. 
+J. Organomet. Chem. 116, 161 (1976). 
+6. C. G. PIT. J. Organomet Chem. 61, 49 (1973). 
+7. W. R. WOOLFENDEN. Ph.D. Thesis, University of Utah, 1965. 
+8. J . B. STOTHERS. Darn Carbon-13 NMR spectroscopy. Academic 
+Press, New York 1972. p. 97. 
+9. G. E. MACIEL et J . J. NATTERSTADT. J. Chem. Phys. 42, 2427 
+(1965). 
+10. A. N. NESMEYANOV, D. N. KRAVTSOV, B. A. KVACOV, E. N. 
+FEDIN et T. S. KHAZANOVA. Dokl. Akad. Nauk SSSR, 199, 1078 
+(1971). 
+I I. A. J. JONES, D. M. GRANT, J . G. RUSSEL et G. FRAENKEL. J. 
+Phys. Chern. 73, 1624 (1969). 
+12. G. L. NELSON, G. C. LEVY et J. D. CARGIOL~. J . Am. Chern. 
+SOC. 94, 3089 (1972). 
+13. H. G. KUIVILA, J. L. CONSIDINE, R. J. MYNOTT et R. H. SARMA. 
+
+J. Organomet. Chem. 55, C l l (1973). 
+14. R. H. COX. J . Magn. Reson. 33, 61 (1979). 
+15. D. DE Vos. J. Organomet. Chem. 104, 193 (1976). 
+
+Can. J. Chem. Downloaded from www.nrcresearchpress.com by 87.160.185.190 on 03/27/14 
+
+For personal use only. 
+
+
+
+	
+

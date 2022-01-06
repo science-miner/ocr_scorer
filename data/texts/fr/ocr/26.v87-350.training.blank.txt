@@ -1,0 +1,590 @@
+
+	
+
+		
+
+	
+
+	
+
+La dissolution anodique du cuivre en presence d'ions F-dans des solutions aqueuses acides 
+
+E. POTVIN, M . DROGOWSKA ET H . M ~N A R D 
+
+De'partement de chimie, Universite' de Sherbrooke, 2500, Boul. Universite', Sherbrooke (Que'bec), Canada JIK 2RI 
+
+L. BROSSARD 
+Institut de Recherche de 1' Hydro-Que'bec, P.O. Box 100, Varennes (Que'bec), Canada JOL 2P0 
+R e ~u le 21 novembre 1986 
+
+E. POTVIN, M. DROGOWSKA, H. M ~N A R D 
+et L. BROSSARD. Can. J. Chem. 65, 2109 (1987). 
+Nous avons CtudiC l'influence de l'ion F-sur la dissolution anodique du cuivre dans des solutions aqueuses acides (pH 1,6-6), 
+principalement h pH 5, en prCsence de KF O,1 M. La nature des changements se produisant sur 1'Clectrode durant l'oxydation a CtC 
+mise en Cvidence par la voltampCromCtrie cyclique ainsi que par diffkrentes techniques d'analyse de surface (SEM, XPS, AES). 
+Afin d'Ctablir le micanisme d'oxydation Clectrochimique du cuivre B pH 5, des Ctudes avec 1'Clectrode tournante h disque ont 
+Ct C menCes dans des conditions oh la dissolution du cuivre est gCnCralisCe. Aux pH 1,6-6, 1'Clectrode de cuivre se dissout 
+uniformkment i.e. sans qu'il y ait de zones prCfCrentielles sur la surface lorsqu'elle subit une polarisation potentiodynamique 
+(10 mV s-') h des potentiels supkrieurs B 0 VECS. A pH falblement acide (pH 5, KF 0,1 M), lorsque le balayage du potentiel 
+va jusqu'h +0,5 V, l'oxydation du cuivre dCbute par la corrosion gCnCralisCe de l'electrode suivi de la formation d'un film de 
+CuzO non passivant; au fur et h mesure que le temps d'oxydation augmente, le courant diminue et 1'Clectrode devient passivCe. 
+Un modkle de dissolution anodique est present6 pour les rCsultats obtenus h pH 5. Lorsqu'il y a corrosion uniforme de 1'Clectrode 
+tournante, le cuivre s'oxyde en ions Cu2+. Lorsque w + 0, la vitesse de dissolution de 1'Clectrode est limitCe par la diffusion de 
+l'ion Cu2+ de 1'Clectrode vers le coeur de la solution alors que lorsque w + m , le processus de transfert de charge limite la 
+cinktique de la dissolution. 
+
+E. POTVIN, M. DROGOWSKA, H. M ~N A R D , 
+and L. BROSSARD. Can. J. Chem. 65, 2109 (1987). 
+The influence of F-ions on the anodic dissolution of copper in aqueous acidic solutions (pH 1.6-6), mainly at pH 5 with 0.1 M 
+KF, has been studied. The nature of the changes that occur on the electrode during the oxidation has been examined by cyclic 
+voltamperometry as well as by different techniques of surface analysis (SEM, XPS, AES). To determine the mechanism of the 
+electrochemical oxidation of copper at pH 5, studies with rotating disk electrodes have been carried out under conditions giving 
+rise to a general dissolution of copper. At pH 1.6-6, the copper electrode dissolves uniformly, i.e., without preferential zones on 
+the surface, when it is submitted to a potentiodynamic polarization (10 mV s-') at potentials above 0 VECs . At slightly acidic pH 
+(pH 5, KF 0.1 M), with a sweep of potential up to +0.5 V, the oxidation of copper begins with a generalized corrosion of the 
+electrode and it is followed by the formation of a film of Cu20 that is not passivating; as the oxidation proceeds, the current drops 
+and the electrode becomes passivated. One model for the anodic dissolution is presented for the results obtained at pH 5. When a 
+uniform corrosion develops on the rotating electrode, the copper is oxidized to Cu2+ ions. When w + 0, the rate of dissolution of 
+the electrode is limited by the diffusion of the Cu2+ ions from the electrode to the solution, whereas when w + the process of 
+charge transfer is the limiting factor to the kinetics of the dissolution. 
+[Journal translation] 
+
+Introduction 
+
+Les travaux rapportts dans la litttrature concernant la 
+dissolution anodique du cuivre en solution aqueuse acide ont 
+surtout t t t rtalists en prtsence des anions C1-(1-7) et S042-
+(8-16). Ces ttudes ont dCmontrt l'influence dtterminante d e 
+l'anion en solution ainsi que la r81e c l t jouC par les complexes du 
+cuivre dans les proctdts d'oxydation d e c e mCtal. 
+En c e qui concerne les ions fluorures, l'oxydation Clectro-
+chimique du cuivre a CtC Ctudite dans le H F anhydre (17). 
+L'oxydation se produit en deux Ctapes soient la dissolution du 
+cuivre en ion Cu2+ et la prtcipitation du CuF, sur l'tlectrode. 
+A notre connaissance, la dissolution anodique du cuivre dans 
+des solutions aqueuses 1Cghement acides contenant des ions 
+F-n'a pas CtC abordCe dans la littkrature. 
+D e f a ~o n 
+plus gCnCrale, la forme stable du cuivre dissous dans 
+des solutions non complexantes comme les sulfates, les nitrates 
+et les perchlorates est le Cu(I1) alors que les espkces du Cu(1) 
+sont stables dans des solutions complexantes comme les C1-, 
+Br-, I-et l'ammoniaque (18). L a dismutation de l'espece Cu+ 
+est largement favorisCe lorsque l'ion n'est pas stabilist par la 
+formation d'un complexe. 
+L'ion fluorure est peu complexant pour le cuivre. A la 
+difference des autres halogCnures, la thermodynamique prCvoit 
+que les composCs et complexes du fluor avec le cuivre bivalent 
+
+seront favorists par rapport A ceux du cuivre monovalent 
+
+(19-22). 
+Au cours de c e travail, nous avons ttudit le comportement 
+anodique du cuivre e n solutions aqueuses acides (pH 1,6-6) en 
+
+prtsence d e KF 0 , l M, principalernent A pH 5. La nature des 
+
+changements se produisant sur l'tlectrode durant l'oxydation a 
+t t t mise en tvidence par la voltamptromttrie cyclique, ainsi 
+que par diffkrentes mCthodes d'analyse de surface (SEM, XPS 
+
+et AES). Des essais avec 1'Clectrode tournante i disque ont kt6 
+
+menCs A pH 5 dans des conditions o h la dissolution du cuivre 
+
+est gCnCralisCe afin d'Ctablir le mkcanisme d'oxydation Clectro-
+chimique du cuivre. 
+
+Partie experimentale 
+
+Une cellule Clectrochimique conventionnelle de verre, B trois 
+compartiments, a Ct C utilisCe pour les pH 5 et 6 et une cellule de 
+rnatkriaux inertes au HF, B deux compartiments, pour les pH allant de 
+1,6 B 5. 
+L'Clectrode de travail est constituCe d'un cylindre de cuivre 
+
+(diamktre -0,56 cm) coup6 B partir d'une tige de cuivre polycristallin 
+
+(Alpha-Ventron Corporation 99,99%) et scellC dans un tube de verre 
+avec de la colle Cpoxy ou dans une gaine de Kel F (pour 1'Clectrode 
+tournante). De cette manikre une surface circulaire en position 
+horizontale (-0,25 cm2) est en contact avec la solution. La surface de 
+1'Clectrode de cuivre a Ct C polie mkcaniquement sur une polisseuse 
+Can. J. Chem. Downloaded from www.nrcresearchpress.com by 87.160.185.190 on 03/27/14 
+
+For personal use only. 
+
+
+21 10 
+
+CAN. J. CHEM. VOL. 65, 1987 
+
+Leco avec une suspension de particules d'alumine de 5 0,3 p m puis 
+nettoyCe abondamment avec de I'eau triplement distillee. 
+
+Avant chaque essai, 1'Clectrode est plongCe en solution i un potentiel 
+
+de -0,4 V pour rCduire les oxydes se trouvant sur la surface; lorsque le 
+courant atteint -0,4 p A ~r n -~, 
+1'Clectrode est jugCe prete pour l'essai 
+proprement dit. 
+L'tlectrcde de kfCrence est 1'Clectrcde au calomel sa&amp; Hg/HgCl/KCl 
+(sat) (E = 0,24 VESH); elle est sCparCe du compartiment principal par 
+
+un pont qui est reliC i un capillaire de Luggin. Aux pH inferieurs a 5, 
+
+1'Clectrode de rCfCrence a Ct C sCparCe du compartiment principal par 
+un capillaire de Lugin de matCriau inerte au HF. Les potentiels sont 
+indiquCs par rapport a cette Clectrode. L'Clectrode auxiliaire est une tige 
+de carbone ou une grille de platine placCe dans un 2' compartirnent. 
+Pour les analyses de surface, les Cchantillons de cuivre ont Ct C IavCs 
+aprks I'essai avec de l'eau tridistillte et du methanol distill6 puis scellCs 
+dans un tube de verre sous atrnosphkre d'azote pour Ctre analysCs. La 
+pression rCsiduelle durant les analyses Ctait de 5 x lo-' Torr (1 Torr = 
+133,3 Pa). Les analyses par XPS ont Ct C faites avec une source de 
+
+Mg Ka de 480 W de puissance. Un canon i Clectrons de 10 kV a servi 
+
+aux analyses par AES; le courant ttait de 4 nA. 
+
+Les solutions acides ont Ct C prCparCes par un melange de KF et de 
+
+HF. Avant chaque essai, la solution a Ct C dCsatrCe par un barbottage 
+
+d'azote. Les expCriences ont Ct C menCes i 25°C. 
+
+Les essais en balayage linCaire de la tension ont Ct C rCalisCs avec un 
+potentiostat PAR rnodkle 173, contrBlC par un programmeur universe] 
+PAR rnodkle 175. Les charges ont Ctt mesurkes avec un coulomktre 
+intCgrC PAR rnodkle 179 et le courant avec un ampkremktre Keithley 
+modkle 177. 
+
+Resultats et discussion 
+La figure 1 montre un voltamptrogramme rCalisC dans une 
+solution de HF 1 M (pH = 1,6) a une vitesse de balayage en 
+tension de 10 mV s-'. Le courant d'oxydation du cuivre est 
+nCgligeable de -0,8 V jusqu'i -0 V oh la dissolution gtntra-
+lisCe du cuivre est observCe. En balayage inverse, le processus 
+de rCduction commence a un potentiel de -0 V et un pic catho-
+dique est formt. La charge anodique, Q,, (-300 mC cm-'), 
+est beaucoup plus grande que la charge cathodique, QEd 
+(-20 mC cm-'), ce qui est compatible avec la dissolution du 
+cuivre en solution. Au cours de l'oxydation, la surface de 
+l'tlectrode passe d'un tclat brillant a mat. La microscopie 
+
+optique a rev616 que ce changement est dO a une augmentation 
+
+de la rugositt de la surface. 
+Un essai dans une solution de KF 0,l M additionnee de HF 
+(pH = 5), a une vitesse de balayage de 10 mV s-', est effectuC 
+sur une Cchelle de potentiel allant du dtgagement de HZ 
+(--1,8 V) jusqu'i +2,8 V sans qu'il y ait formation apparente 
+de 0 2 (fig. 2). Le courant d'oxydation est negligeable jusqu'a 
+-0 V puis la dissolution genCralisCe commence. Au cours du 
+balayage anodique, on voit apparaitre un film sur 1'Clectrode 
+sans constater une baisse significative du courant d'oxydation. 
+On observe la prCsence de deux zones de reduction distinctes; 
+
+la premibre dCbute a --0,l V et la seconde a --0,9 V. 
+
+Lorsque 1'Clectrode est polarisee jusqu'a +0,5 V dans les 
+m&amp;mes conditions (fig. 3, ligne pleine), on voit a l'oeil nu 
+qu'un film anodique se forme et un pic de reduction est prCsent; 
+il dCbute autour de -0,8 V. 
+Dans une solution de KF 0,l M (pH = 5) tamponnee avec le 
+phtalate de potassium (P.P.) (fig. 3, ligne pointillee), un pic 
+anodique est present autour de +0,2 V; au-deli de ce potentiel, 
+la dissolution gCnCralisee de 1'Clectrode a lieu. Aucun produit 
+visible 2 l'oeil nu n'est observC sur le cuivre et l'electrode qui 
+avait initialement un Cclat metallique est devenue terne. Aucun 
+pic cathodique n'est present en balayage de retour avant le 
+dkgagement d'hydrogene. Ces courbes montrent une difference 
+significative du comportement de l'anode de cuivre en solution 
+
+FIG. 1. VoltampCrogramme dans une solution de HF 1 M, pH 1,6. 
+dE/dt = 10 rnV s-I. 
+
+E [V/EC~] 
+
+FIG. 2. VoltarnpCrogramme dans une solution de KF 0 , l M a pH 5. 
+
+dE/dt = 10 mV s-'. 
+
+FIG. 3. VoltampCrogrammes a pH 5, dans une solution de KFO, 1 M 
+
+(-) et dans une solution de KF 0,1 M additionnte du tampon phtalate 
+de potassium (---). 
+
+fluoruree selon qu'il y ait ou non du phtalate de potassium 
+dissous. I1 est en effet admis que le pouvoir complexant de l'ion 
+phtalate par rapport au cuivre est superieur 2 celui de l'ion 
+fluorure (22). Pour cette raison, les analyses ont Ct C effectukes 
+dans des solutions de KF O,1 M titrCes avec HF aux pH desires. 
+Dans une solution de KF 0,l M (pH = 5), 1'Clectrode a subi 
+un balayage en tension de -0,8 a +0,5 V a une vitesse de 
+10 mV s-I, suivi d'un m e t du potentiel 2 +0,5 V durant 
+plusieurs minutes. L'Clectrode de cuivre se recouvre peu a peu 
+d'un film. En prolongeant l'oxydation au-dela d'une heure, la 
+Can. J. Chem. Downloaded from www.nrcresearchpress.com by 87.160.185.190 on 03/27/14 
+
+For personal use only. 
+
+
+POTVIN ET AL 
+
+FIG. 4. Photographie par microscopie Clectronique a balayage du film anodique forme sur 1'Clectrode de cuivre dans une solution de KF 0 , l M 
+
+a pH 5. dE/dt = 10mV s-I. Balayage de -800 2 +580 mV; arrCt a +580 mV, 10 min. 
+
+surface est entih-ement recouverte et la vitesse de dissolution du 
+cuivre devient considCrablement rkduite. 
+
+La microscopie Clectronique a balayage (SEM) a Ct C utilisCe 
+
+pour Ctudier la morphologie du film anodique gCnCrC sur une 
+Clectrode qui a subi un balayage (10 mV s-') de -800 h 
+
++580 mV, avec un arriit a ce dernier potentiel durant 10 min, 
+
+dans une solution de KF 0,l M pH 5. Le film est poreux et il 
+est composC d'un produit qui conduit ma1 le courant (fig. 4). 
+Une analyse en spectroscopie des photoClectrons X (XPS) et en 
+spectroscopie des Clectrons Auger (AES) a rCvC1C que le film se 
+compose de Cu20 mais ne contient pas le composC fluorure qui 
+peut exister dans ces conditions h 
+5, i.e. le ~C U F ~-C U ( O H ) ~ 
+(23). 
+Afin d'ttablir le micanisme d'oxydation Clectrochimique du 
+cuivre h pH 5, des Ctudes avec 1'Clectrode tournante a disque ont 
+Ct C mentes dans des conditions oij la dissolution du cuivre est 
+gCnCralisCe. 
+
+L'Clectrode est plongCe dans une solution de KF ( a F -= 
+
+0,074) ayant un pH de 5, avec un potentiel imposC de -0,4 V. 
+
+Le courant est lu pour chaque vitesse de rotation allant de 8 1 a 
+
+4 rotations par seconde (rps). Une plage de potentiel de -0,05 
+
+? i 
+
++0,05 V est couverte en effectuant des sauts de potentiel 
+de +0,01 V. Les courbes i vs. w1I2 (w, vitesse de rotation 
+
+angulaire de 1'Clectrode en s-' ) sont montrkes a la figure 5. Les 
+
+courbes s'Ccartent d'une droite et ne passent pas parl'origine, ce 
+qui indique que l'oxydation du cuivre est quasi rkversible (24), 
+
+i.e. limitte a la fois par le transfert de masse et par une rkaction 
+
+de surface. 
+Dans ce cas ou le systkme est quasi rkversible, il est possible 
+de dCcomposer le courant total en deux termes associCs 2 chaque 
+processus lent comme suit : 
+
+[I] i-1 = i-1 + id,: 
+
+i , : composante du courant independante de w 1'2-rCaction de 
+surface; et id,= : courant de diffusion-convective anodique qui 
+obCit h 1'Cquation de Levich, [2] : 
+
+[2] id,= = 
+-C*) = ~w " ~ 
+(rCf. 24) 
+
+n : nombre d'Clectron; F : constante de Faraday; A : aire 
+geomCtrique de 1'Clectrode; D : coefficient de diffusion de 
+l'espkce oxydCe (cm2 s-I); y : viscositC cinkmatique (cm2 s-I); 
+w : vitesse de rotation angulaire de 1'Clectrode (s-I); C* : 
+concentration de l'esp6ce qui diffuse dans la solution (mol cmP3); 
+C\ concentration de l'espkce qui diffuse h la surface de 
+1'Clectrode (mol ~m -~) . 
+Les relations [I] et [2] conduisent a 
++ B-lw-I12 
+
+-130 
+
+[31 iP1 -'-I 
+Les courbes i-' en fonction de w -'I2 doivent donner une droite 
+pour chaque potentiel appliquC (fig. 6), dont les valeurs B-' 
+
+et iZ1 sont dkterminables 2 partir de la pente et de l'ordonnte 
+
+Can. J. Chem. Downloaded from www.nrcresearchpress.com by 87.160.185.190 on 03/27/14 
+
+For personal use only. 
+
+
+2112 
+
+CAN. J. CHEM. 
+
+FIG. 5. Courbes i = f(wl") pour diffirents potentiels appliques. 
+Solution KF-HF: a ~-= 0,074, pH = 5. 
+
+FIG. 6. Courbes i-' = f ( w -' I 2 ) pour diffkrents potentiels appliques. 
+Solution KF-HF : a~ = 0,074, pH = 5 . 
+
+a l'origine respectivement. L'inverse de la pente du graphique 
+i-' en fonction de w-'I2 correspond a B, c'est-8-dire au 
+produit, id,aw-112 alors que i i l est obtenu par extrapolation 
+de la droite jusqu'i w-'I2 Cgale zero. Les valeurs de B ou 
+idpaw-'I2 ont Ct C dCterminCes pour diffkrents potentiels. La 
+relation log id,+-'I2 VS. E est linCaire (fig. 7, ligne pleine) et la 
+pente moyenne obtenue pour plusieurs essais dans une solution 
+
+de KF (aF = 0,074) a pH 5 est de 29,2 &amp; 0,5 mV. La relation 
+
+log i, vs. E est linCaire ce qui indique que la rkaction de surface 
+
+VOL. 65, 1987 
+
+-q1: 
+
+2 
+
+V) 
+
+N 
+
+'5 
+
+a 
+
+E 
+
+Y 
+
+3 
+
+k 
+
+m 
+
+D 
+
+-
+
+FIG. 7. Courbes log id,=w -' I 2 = f (E). Solution KF-HF : a~ = 
+0,074, pH = 5. (-) courbe experimentale; (---) courbe calculie. 
+
+est une rCaction de transfert dYClectron. Nous obtenons avec la 
+relation log i, vs. E une courbe de Tafel dont la pente moyenne 
+est de 32 k 6 mV. 
+Le pouvoir peu complexant de l'ion fluorure favorise la 
+formation de l'ion Cu2+ (18). Considerons le cas ou le cuivre se 
+dissout sous forme de cu2+ et ou 1e transfert de masse fait 
+
+intervenir la diffusion du Cu2+ form6 ti 1'Clectrode. Nous 
+
+pouvons rCsumer la reaction globale d'oxydation du cuivre 
+en deux Ctapes : (1) 1'Ctape globale de transfert d'Clectron 
+
+conduisant i la formation de Cu2+, i.e. Cu = cu2+ + 2,-; (2) 
+
+la diffusion du cu2+ de 1'Clectrode vers la solution. 
+Lorsque w + 0, 1'Ctape (2) est lente et 1'Ctape (1) rapide; 
+
+le terme B-' w-'I2 de 1'Cquation [3] devient le terme dominant 
+
+et i -id,,. 
+
+Le courant de diffusion de l'ion Cu2+ est donnC par l'huation 
+de Levich : 
+
+ou C S C U z + : concentration de cu2+ ti la surface de 1'Clectrode et 
+
+C*CUz+ : concentration de Cu2+ en solution. 
+Puisque la vitesse de transfert de masse est lente par rapport a 
+la vitesse de transfert d'Clectron lorsque w + 0, 1'Cquation de 
+Nernst s'applique ce qui nous permet de calculer la concentra-
+tion de Cu2+ a la surface de 1'Clectrode : 
+
+f c u 2 + 
+
+: coefficient d'activitC du Cu2+. 
+En combinant les Cquations [4] et [5] et en tenant compte du 
+fait que C*CU2+ &lt; S CSCU2+, on obtient la relation du courant 
+de diffusion : 
+Can. J. Chem. Downloaded from www.nrcresearchpress.com by 87.160.185.190 on 03/27/14 
+
+For personal use only. 
+
+
+POTVIN ET AL. 
+
+21 13 
+
+Pour une rtaction procCdant d'un Cchange de 2 Clectrons 
+comme l'oxydation du cuivre sous forme de Cu2+, la relation 
+log id,,o-I'2 VS. E tirCe de 1'Cquation [6] donne une pente 
+de 29,6 mV (25°C). La courbe expkrimentale reprtsentte a la 
+figure 7 (ligne pleine) a deux pentes diffkrentes, 29,2 mV et 
+
+74 mV. La cassure des droites a lieu 5 -+ 15 mV. Nous 
+
+considCrons dans l'analyse des rtsultats uniquement la partie de 
+
+la courbe allant de -50 2 + 15 mV parce que la cassure apparait 
+
+prks du potentiel pour lequel un dCpBt noir commence a se 
+former sur l'tlectrode. Les composts prtvus a partir de la 
+thermodynamique dans ces conditions expkrimentales sont le 
+Cu20 et le ~C U F ~. C U ( O H ) ~ 
+(23). Nous avons obtenu a partir 
+
+de nos mesures une pente moyenne de 29,2 + 0,5 mV. Les 
+
+rtsultats expCrimentaux concordent trks bien avec la rtaction 
+d'oxydation du cuivre sous forme c u 2 + . 
+
+A partir de 1'Cquation [6], on a track la courbe calculCe de la 
+
+relation log id,ao112 en fonction de E (fig. 7, ligne pointillke), en 
+utilisant les valeurs suivantes : E ~~~~~~z + 
+= 0,105 VECS (1 8), 
+
+fcU?+ 
+
+= -0,40 (25), DCu2+ = 0,83 X lop5 cm2 s-I (26), y = 
+0,01 cm2s-' (24), A = 0,20cm2. 
+Les droites expkrimentale et calculCe (fig. 7) sont sCparCes 
+par un faible tcart; il y a donc harmonie entre les rCsultats 
+expCrimentaux obtenus a pH 5 et le modkle proposC pour 
+l'oxydation du cuivre. On explique 1'Ccart par la difference 
+
+entre les valeurs DCU2+ , fCU*+ , E ~~~~~~I + 
+
+utilisCes pour le calcul 
+et les valeurs rCelles du systkme exptrimental et possiblement 
+par une faible diffkrence de potentiel dans la jonction liquide. 
+La rtaction de transfert d'Clectron peut &amp;tre dCterminCe par 
+
+l'analyse de la courbe de Tafel, log i , vs. E . Lorsque o + m, 
+
+le terme i-' de 1'Cquation [3] devient dominant et i -i , , 
+
+c'est-a-dire que le transfert d'Clectron est 1'Ctape dtterminante. 
+
+Un mCcanisme conduisant a la formation de Cu2+ peut 
+
+&amp;tre envisagC (12). I1 fait intervenir deux Ctapes d'oxydation 
+Clectrochimique successives pour lesquelles la deuxikme Ctape 
+est dCterminante (l'espkce Cu+ reste adsorbCe sur 1'Clectrode) : 
+
+[7] Cu + Cu' + le 
+
+rapide 
+
+[8] Cu' 2 Cu2+ + 1e lente 
+
+Pour un tel mCcanisme. la Dente de la courbe de Tafel a une 
+valeur thCorique de 40 Av. itant donnC que la pente exptrimen-
+
+tale de la relation log i , vs. E est comprise entre 26 et 38 mV, le 
+
+mtcanisme procCdant des Ctapes [7] et [8] est envisageable. Par 
+ailleurs, la dismutation de ~' &amp; ~k c e 
+
+intermediaire CU+ est aussi 
+probable (27), ce qui conduit dans ce cas a une valeur pour la 
+
+pente de Tafel de 30 mV. 
+
+Conclusion 
+
+Cette Ctude nous a permis de mettre en Cvidence l'influence 
+de l'ion F-sur la dissolution anodique du cuivre dans des 
+solutions aqueuses acides (pH 1,6-6), principalement 5 pH 5, 
+en prtsence de K F 0 , l M. Aux pH 1,6-6, l'tlectrode de 
+cuivre se dissout uniformCment, i.e. sans qu'il y ait de zones 
+prkfkrentielles sur la surface lorsqu'elle subit une polarisation 
+
+potentiodynamique (10 mV s f ' ) a des potentiels supCrieurs 5 
+
+0 VEcs. A pH faiblement acide (pH 5 , KF 0 , l M ) , lorsque le 
+balayage du potentiel va jusqu'a +0,5 V, l'oxydation du cuivre 
+dCbute par la dissolution gCnCralisCe de 1'Clectrode suivi de la 
+
+formation d'un film de C u 2 0 non passivant; au fur et 2 mesure 
+que le temps d'oxydation avgmente, le courant diminue et 
+l'tlectrode devient passivCe. A pH 5, dans les conditions ou la 
+dissolution de l'tlectrode tournante est gtntralisCe, les courbes 
+i = f(wl") sont caractCristiques d'un systkme quasi rkversible. 
+
+Lorsque u -0, I'oxydation est limitte par 1'Ctape de diffusion 
+
+du c u 2 + de l'tlectrode jusqu'au coeur de la solution, alors 
+que lorsque o + m, l'oxydation du cuivre est limitCe par le 
+processus de transfert de charge conduisant a la formation 
+de Cu2+. 
+
+Remerciements 
+
+Ce travail a CtC support6 par 1'Institut de recherche de 
+1'Hydro-QuCbec (IREQ) et par le Conseil de recherches en 
+sciences naturelles et en gCnie du Canada (CRSNG). Nous 
+tenons 
+remercier Monsieur A. Adnot du c&lt;Laboratoire 
+d'analyse de surface du GRAPS )) (UniversitC Laval) pour les 
+analyses de XPS et AES. 
+
+1. K. KINOSHITA, D. HANDOLT et T. MULLER. J. Electrochem. Soc. 
+117, 1248 (1970). 
+2. V. K. ALTUKOV et T. A. MORGUNOVA. Zashch. Met. 17, 444 
+(1981). 
+3. A. MOREAU. Electrochim. Acta, 26, 1281 (1981). 
+4. T. HURLEN. Acta Chem. Scand. 15, 123 1 (1961). 
+5. L. BROSSARD. Can. J. Chem. 61, 2022 (1983). 
+6. A. L. BACARELLA et J. C. GRIESS. J. Electrochem. Soc. 120, 
+459 (1973). 
+7. M. BRAUN et K. NOBE. J. Electrochem. Soc. 126, 10 (1979). 
+8. R. ASTAKHOVA, J. SZALMA, J. FARKAS et L. KISS. Magy. Kem. 
+Foly. 85, 315 (1979). 
+9. A. H ~C K L ~N G 
+et D. TAYLOR. Trans. Faraday Soc. 44,262 (1948). 
+10. H. P. LECKIE. J. Electrochem. Soc. 117, 1478 (1970). 
+11. L. KISS, A. BOSQUEZ et M. L. VARSANYI. Acta Chim. Acad. Sci. 
+Hung. 108, 369 (1981). 
+12. E. MATTSON et J. O'M. BOCKRIS. Trans. Faraday Soc. 55, 1586 
+(1959). 
+13. G. W. TINDALL et S. BRUCKENSTEIN. Anal. Chem. 40, 1402 
+(1968). 
+14. W. H. SMYRL. Dans Comprehensive treatise of electrochemistry. 
+Vol. 4. Edirt par J. O'M. Bockris, B. E. Conway, E. Yeager et 
+R. E. White. Plenum Press, New York, NY. 1981. 
+15. C. P. KIM et K. NOBE. Corrosion, 27, 382 (1971). 
+16. T. HURLEN. Acta Chem. Scand. 15, 630 (1961). 
+17. B. BURROWS et R. JASINSKI. J. Electrochem. Soc. 115, 348 
+(1968). 
+18. U. BERTOCCI et D. R. TURNER. Dans Encyclopedia of electro-
+chemistry of the elements. Vol. 11. Edire' par A. J. Bard. Marcel 
+Dekker Inc., New York, NY. 1973. 
+19. I. LEDEN. J. Chem. Soc. 2936 (1955). 
+20. S. ARHLAND et K. ROSENGREN. Acta Chem. Scand. 10, 727 
+(1956). 
+21. R. E. CONNICK et A. D. PAUL. J. Am. Chem. Soc. 80, 2069 
+(1958). 
+22. A. RINGBOM. Les complexes en chimie analytique. Dunod, Paris, 
+France. 1967. p. 302. 
+23. P. DUBY. The thermodynamic properties of aqueous inorganic 
+copper systems. International Copper Research Association INCRA. 
+1977. 
+24. A. J. BARD. Electrochimie. Principes, mithodes et applications. 
+Masson, New York, NY. 1983. Chap. 8. 
+25. D. A. SKOOG. Principles of instrumental analysis. 3'Cd. Saunders 
+College Publishing, Montrial. 1985. p. 900. 
+26. P. W. WEST, J. DEAN et E. J. BREDA. Collect. Czech. Chem. 
+Commun. 13, 1 (1948). 
+27. S. A. AWARD, KH. M. KAMEL, Z. ABD EL-HADI et H. A. 
+BAYUMI. J. Electroanal. Chem. 199, 341 (1986). 
+Can. J. Chem. Downloaded from www.nrcresearchpress.com by 87.160.185.190 on 03/27/14 
+
+For personal use only. 
+
+
+
+	
+

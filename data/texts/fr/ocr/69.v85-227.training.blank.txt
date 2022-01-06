@@ -1,0 +1,1047 @@
+
+	
+
+		
+
+	
+
+	
+
+Polymerisation du chloroforrniate de vinyle et de ses derives 
+
+SYLVIANE BOIVIN, PATRICK HEMERY ET SYLVIE BOILEAU' 
+
+Coll2ge de Frrrnce, I 1 place Mrrrcelin Berthelot, 75231 Paris Ckdex 05, Frrrnce 
+
+Requ le 19 juin 1984 
+Cet article esr rle'die' a la mkmoire de Monsieur Li Xiao-Bni 
+
+SYLVIANE BOIVIN, PATRICK HEMERY et SYLVIE BOILEAU. Can. J . Chem. 63, 1337 (1985) 
+La polymCrisation radicalaire du chloroformiate de vinyle a CtC Ctudiee dans le chlorure de mtthylkne a 35"C, avec le 
+peroxydicarbonate de dicyclohexyle comme amorceur. Dcs mesures cinetiques ont Ct C effectuCes par dilatomktrie dans des 
+appareils entikrement scellts sous vide pousse. L'ordre de la rkaction de polymCrisation par rapport B la concentration en 
+
+monomkre est Cgal a I et celui relatif i la concentration en amorceur est Cgal B 0,5. 
+
+Par ailleurs, des polymkres nouveaux ont CtC prCparCs soit par polymCrisation radicalaire de monomeres dCrivCs du 
+chloroformiate de vinyle, soit par modification chimique du polychloroformiate de vinyle par des amines, des alcools, des 
+
+thiols, des acides carboxyliques, KCN . . . , par catalyse par transfert de phase. La structure de ces polymkres ainsi que leur 
+
+comportement thermique ont Ct C examinks. 
+
+SYLVIANE BOIVIN, PATRICK HEMERY, and SYLVIE BOILEAU. Can. J . Chem. 63, 1337 (1985). 
+The free-radical polymerization of vinyl chloroformate has been studied in methylene chloride at 3S°C using dicyclohexyl 
+peroxydicarbonate as initiator. Kinetic measurements performed by dilatometry under high vacuum have shown that the 
+reaction order in monomer is equal to one whereas that in catalyst is equal to 0.5. 
+New polymers have been prepared either by free-radical polymerization of monomers derived from vinyl chloroformate or 
+
+by chemical modification of poly(viny1 chloroformate) with amines, alcohols, thiols, carboxylic acids. KCN . . . using phase 
+
+transfer catalysis. The structure of these polymers as well as their thermal behaviour have becn studied. 
+
+Introduction 
+
+L'inttret croissant suscite par le chloroforrniate de vinyle 
+(CH2=CHOCOCI : VOCCI) provient du fait qu'il sert de rna-
+tiere premiere pour la preparation de nombreux rntdicarnents 
+ainsi que pour la synthese de rnonornkres vinyliques varits. 
+Toutefois, la polyrntrisation du chloroforrniate de vinyle (1) et 
+
+de certains de ses dtrivts -carbarnates vinyliques (1-3), 
+carbonates vinyliques (1, 4) et cyanoforrniate de vinyle (1) -
+
+a t t t tres peu ttudite jusqu'h ces dernieres annees, en raison 
+des difficultts de prtparation et de purification de ce rnono-
+mere. 
+Un nouveau proctdt de synthese de chloroforrniate d e vinyle 
+quasirnent exempt d'irnpuretts, avec un rendernent de 80% a 
+
+t t t rnis au point recernrnent (5). Ceci nous a incites a examiner 
+
+en dttail la polyrntrisation de ce monomere (6-8) et de quel-
+
+ques dtrivts (6, 8, 9) ainsi que la modification chirnique du 
+polychloroforrniate de vinyle (6, 10-12). 
+
+L'ernploi de peroxydicarbonates cornrne arnorceurs de la 
+polyrntrisation radicalaire du chloroforrniate de vinyle, en 
+
+rnasse et en solution, conduit a des polyrneres de masses 
+rnolaires Clevtes (7, 8). Les rtsultats de l'ttude cinttique effec-
+tute dans le chlomre de methylene a 35"C, en prtsence de 
+
+peroxydicarbonate de dicyclohexyle, sont exposts dans le 
+prtsent article. 
+Par ailleurs, d e nouveaux polyrnkres ont Ctt prtparts soit par 
+polyrntrisation radicalaire d e rnonorneres dtrivts du chloro-
+forrniate de vinyle, soit par modification chirnique du PVOCCl 
+par des arnines, des alcools, des phenols, des thiols, des acides 
+
+carboxyliques et leurs sels alcalins, KCN . . . en utilisant la 
+
+catalyse par transfert de phase. Les rtsultats rkcents obtenus 
+dans ce dornaine sont rnentionnts dans cet article. 
+
+Partie experimentale 
+
+La pureti du VOCCl (SocietC Nationale des Poudres et Explosifs) 
+
+'Laboratoire de Chimie MacromolCculaire associC au C.N.R.S. 
+no 24. 
+
+est gCnCralement supCrieure B 99%. Ce monomkrc cst introduit dans 
+un ballon scellC sous vide poussC; il est conservC dans des tubes 
+graduCs munis de joints fragiles, a -35"C, a I'obscuritC. 11 est dC-
+barrassC de son stabilisant juste avant emploi. 
+Les carbamates vinyliques tels que le carbamate de vinyle et de 
+N-diCthyle (VOCNEt2 ou VOC: CH2=CH-0-C(0)-) 
+et le car-
+bamate de vinyle et de N-piperidine (VOCNCSHlo) sont obtenus par 
+reaction du VOCCl avec la trikthylamine et la N-CthylpipCridine 
+respectivement, selon le procCdC gCnCral de dialkylation des amines 
+tertiaires dCveloppC par Schnur et Olofson et nl. (13-15). Les autres 
+carbamates vinyliques comme le carbamate de vinyle et de n-butyle 
+(VOCNHBu) et le carbamate de vinyle et de N-mCthyl cyclohexyle 
+(VOCN(CH3)C6H,,) sont preparks par rCaction du VOCCl avec 
+les amines correspondantes en prCsence d'un capteur d'acide 
+chlorhydrique (8, 13). 
+La rCaction du VOCCl avec le phCnol et le menthol en presence de 
+soude ou de pyridine conduit aux carbonates vinyliques cor-
+respondants (VOCOPh, VOCOMenthyle) (8, 13). Le thiocarbonate 
+de vinyle et de phCnyle (VOCSPh) cst prCparC selon une mCthode dCji 
+dCcrite (16). 
+Le chlorure de mCthylkne est purifiC sur PIOS puis sur des miroirs 
+de sodium successifs, selon la mCthode mise au point au laboratoire 
+(17). L'azobisisobutyronitrile (AIBN) et le peroxydicarbonate de 
+dicyclohexyle (DCPD) sont siches sous vide avant emploi. 
+La plupart des polymCrisations sont effectukes dans des appareils en 
+verre entierement scellCs sous vide pousse. selon la technique utiliske 
+pour les polymCrisations anioniques (I 8). Le monomkre (VOCCI) est 
+condens6 dans un tube annexe afin d'Climiner I'inhibiteur, avant d'etre 
+introduit par distillation sur paroi froide, ainsi que le solvant, dans un 
+ballon contenant I'amorceur. Les polymirisations des derives du 
+VOCCl sont effectuCes sous azote, dans des apparcils relies a une 
+ligne B vide. Le monomkre est introduit avec une seringue a travers un 
+bouchon de caoutchouc a jupe rabattable, dans un ballon contenant le 
+catalyseur qui est sCchC sous vide au prCalable. Dans tous les cas, 
+I'agitation du milieu est assurie par un barreau aimant6 enrob6 de 
+verre, a une tempirature donnee. Les polymkres sont rCcuperCs aprks 
+dissolution dans le chlorure de mCthylkne et pricipitation dans I'Cther 
+de pitrole. Ils sont ensuite sCchCs sous vide poussC. 
+Nous avons utilisC unc mCthode dilatometrique comme moyen 
+d'Ctude cinetique selon la technique experimentale mise au point au 
+laboratoire (19). Les masses sptcifiques du monomkre (VOCCl) et du 
+
+Can. J. Chem. Downloaded from www.nrcresearchpress.com by 87.160.185.190 on 03/27/14 
+
+For personal use only. 
+
+
+CAN. J. CHEM. VOL. 63. 1985 
+
+TABLEAU 1. Rtsultats cinttiques de la polymtrisation radicalaire du chloroformiate de vinyle 
+amorcte par le peroxydicarbonate de dicyclohexyle, dans CHzClz a 35°C 
+
+vp 
+
+x 10' 
+
+k,,, = -
+
+[MI [A] '" 
+
+[Mlo 
+[A]x 10' 
+
+V,,/[M]x lo3 
+
+Essai 
+
+(rnol L-' ) 
+
+(rnol L-') 
+
+(rnin-I) 
+( ~1 1 ' r n o l I/' 
+
+) 
+
+polyrnkres sont rnesurtes par osmomttrie dans le tolukne a 37°C. Les 
+temperatures de transition vitreuse sont dktermintes grdce 2 un ana-
+lyseur thermique du Pont 1090 et la stabilitC therrnique des polyrnkres 
+est exarninCe par therrnogravirnttrie en chauffant les Cchantillons de 
+
+20 700°C B S°C/rnin a I'air (9). 
+
+Resultats et discussion 
+1. Polyme'risation du chloroformiate de vinyle 
+Nous avons montrt que la polymtrisation radicalaire du 
+chloroformiate de vinyle donne des polymeres de masses 
+molaires &amp;levees, avec des rendements quantitatifs (7, 8). Les 
+
+meilleurs systkmes catalytiques sont les peroxydicarbonates, 
+en solution dans le chlorure de methylkne, car ils permettent 
+d'optrer ? I des temptratures n'exctdant pas 40°C. Dans ces 
+conditions, on n'observe pas de degradation des polymeres. 
+Nous avons donc effectue une etude cinetique de la poly-
+merisation du VOCCl amorcee par le peroxydicarbonate de 
+dicyclohexyle, dans CH2C12 a 35°C. Nous avons utilist une 
+technique dilatomttrique et nous avons effectue toutes les me-
+sures partir d'un meme lot de monomere afin d'avoir des 
+rtsultats reproductibles. 
+Le facteur de contraction a correspondant a la variation de 
+volume sptcifique lorsqu'on passe du monomere au polymkre 
+a ett determint par deux methodes. La premiere consiste a 
+conduire une reaction de polymerisation, dans un dilatomktre, 
+jusqu'a conversion totale. La mesure des differences de niveau 
+dans le capillaire, entre le debut et la fin de la reaction, permet 
+
+o 
+loo 
+
+200 
+300 
+
+de calculer a. La deuxieme technique consiste a mesurer les 
+
+FIG. I. Variations de In [MIo/[M] en fonction du temps lors de la 
+masses sptcifiques du monomkre, m35 (VOCCl), et du poly-
+polyrnCrisation radicalaire du VOCCl amorcte par le DCPD dans 
+
+mere, m35(PVOCCl), dans CH2C12 a 35°C. Le facteur de con-
+
+CH2C12 A 35°C: e [MIo = 1,98 rnol L-', [A] = 9,98 x lo-' mol L-'; traction, a35, est calcule d'aprks la relation: 
+
+0 [MIo = 1,98 rnol L-', [A] = 7,15 X 
+
+rnol L-I; [MIo = 1.98 
+rnol L-', [A] = 3,99 X lo-' rnol L-'. 
+1 
+
+-
+1 
+
+[ l l 0135 = m35 (VOCC1) m, (PVOCCI) 
+
+polymkre en solution dans CH,CI, i 35°C ont ttt rnesurCes avec un 
+densimktre Clectronique a tube vibrant (PAAR DMA 45). 
+La technique de modification chimique du PVOCCl a ttt dCcrite 
+prtctdernment (10). Les substituants sont des produits cornrnerciaux 
+
+utilists sans purification sptciale B I'exception des arnines qui sont 
+
+redistilltes avant emploi. Les catalyseurs: dicyclohexyl-18 couronne-
+6 (DCHE); sulfate acide de tttrabutylammonium (TBAH); Kryptofix 
+[222] sont des produits cornrnerciaux sCchCs sous vide pousst. Le 
+degrC de substitution est determink d'aprks I'analyse Cltmentaire des 
+polymkres modifies. Ceux-ci sont conservts j . -30°C dans des tubes 
+scellCs sous vide poussC. 
+Les polymeres sont examints par spectrophotornCtrie ir et par rmn 
+du carbone 13. Dans ce dernier cas, les spectres de solutions de 
+polymkres dans un mClange 90: 10 de trichloro-1,2,4 benzkne et de 
+
+nitrobenzkne deuttrit sont enregistrks B 100°C sur un appareil Bmcker 
+
+WP 250 h 62,5 MHz. Les masses rnolaires rnoyennes en nombre des 
+
+On obtient ainsi a, = 0,229 mL g-' pour des concentrations 
+
+en monomere et en polymkre (K = 18 500) egales ?I 1,96 rnol 
+
+L-I. Cette valeur est en excellent accord avec celles deter-
+minees lors de deux experiences dilatometriques (essais 3 et 7 
+du tableau 1): a = 0,23 mL g-I. 
+Les rtsultats cinttiques sont indiques dans le tableau 1. Sur 
+la fig. 1, nous avons porte les variations de In [M],/[M] en 
+fonction du temps, ou [MIo et [MI sont les concentrations en 
+monomere respectivement au temps ztro et 21 l'instant t, pour 
+les essais 1, 3 et 7. On obtient des droites passant par l'origine 
+
+jusqu'i des taux de conversion de 30 50%, ce qui montre que 
+l'ordre interne de la rtaction de polymCrisation par rapport a la 
+concentration en monomere est egal a 1. Les pentes de ces 
+droites sont tgales a V,/[M]. 
+Can. J. Chem. Downloaded from www.nrcresearchpress.com by 87.160.185.190 on 03/27/14 
+
+For personal use only. 
+
+
+BOIVIN ET AL 
+
+FIG. 2. Variations de Vp/[M] en fonction de [A]"' lors de la poly-
+mCrisation radicalaire du VOCCl amorcCe par le DCPD dans CHzClz 
+h 35°C. 
+
+Si I'on admet que l'hypothese de 1'Ctat stationnaire est vCri-
+fiCe pour ce systkme, la vitesse de polymerisation Vp est donnCe 
+par la relation suivante: 
+
+ou [M.] et [A] sont les concentrations en monomkre et en 
+amorceur; k,, k, et k, sont respectivement les constantes de 
+propagation, de dissociation de I'amorceur et de terminaison et 
+ou f reprksente l'efficacitk de l'amorceur. 
+Nous avons vkrifiC que la vitesse de polymerisation est pro-
+
+portionnelle a [MI et [A]"' car on observe bien des relations 
+
+lineaires entre V,/[M] et [A]"' d'une part et entre V,/[A]"' et 
+[MI d'autre part, ainsi qu'en tCmoignent les figures 2 et 3. La 
+valeur de la constante apparente de vitesse 
+
+V P 
+
+kapF' = [MI [A] 1 12 
+
+est Cgale 2 1,4 X lo-' 2 0,l X lo-' L"' mol-'I2 min-I. 
+
+2. Polymkres derives du polychloroformiate de vinyle 
+Deux voies d'accks aux polymkres dkrivCs du PVOCCl ont 
+Ctt examinkes: d'une part, la polymCrisation radicalaire de 
+composks provenant du VOCCl et d'autre part, la modification 
+chimique du PVOCCl par des substituants appropriCs. 
+Le tableau 2 rassemble les rksultats les plus significatifs de 
+la polymtrisation radicalaire, en masse, de quelques dCrivks du 
+chloroformiate de vinyle tels que des carbonates, thiocar-
+bonates et carbamates vinyliques. On obtient des polymkres de 
+masses molaires ClevCes avec de bons rendements. Les rC-
+sultats sont amkliores lorsqu'on opkre dans des conditions ri-
+goureuses de puretC (essais 15 et 16). 
+La modification chimique du PVOCCl par des amines et des 
+alcools a kt6 dCcrite par Schaefgen (1). Cependant, cet auteur 
+a gCnCralement observk des rkactions secondaires d'hydrolyse 
+conduisant a des polymkres rkticulCs dont le degrC de substi-
+tution ne dCpasse pas 30%. Nous avons mis au point des con-
+ditions opkratoires qui permettent d'Cviter les rkactions de dk-
+gradation (6, 10-12). Les polymkres ainsi modifiCs sont 
+solubles et les degrks de substitution sont excellents. Les 
+rendements en polymkres solubles sont de l'ordre de 80%. Les 
+rksultats concernant la modification chimique du PVOCCl par 
+les amines, les alcools, thiols et phCnols, les acides carboxy-
+
+FIG. 3. Variations de v,/[A]'/' en fonction de [MIo lors de la 
+polymCrisation radicalaire du VOCCl amorcCe par le DCPD dans 
+CHzClz i 35OC. 
+
+liques et les sels alcalins (carboxylates et cyanures) sont ras-
+semblCs dans les tableaux 3 a 7. 
+Les amines aliphatiques conduisent a des degrks de substi-
+tution voisins de 100% (essais 17 a 24, tableau 3) selon un 
+mkcanisme faisant intervenir une attaque nuclkophile du car-
+bonyle par ces amines. Parmi les diffkrents capteurs d'acide 
+chlorhydrique utilisks, c'est la soude a 50% qui est le plus 
+efficace comme le montrent les essais 18 et 19 effectuks avec 
+la N-mCthylbenzylamine. Les amines primaires rCagissent 
+aussi bien que les amines secondaires. De plus, dans le cas de 
+1'CthylCthanolamine (essai 23), la rkaction s'effectue de fagon 
+sklective par l'intermediaire de la fonction amine ainsi qu'en 
+tCmoigne le spectre ir du polymkre modifiC. Le faible caractkre 
+nuclCophile present6 par les amines aromatiques telles que le 
+carbazole ou le dimCthyl-2,3 indole nkcessite I'emploi de la 
+catalyse par transfert de phase. Les essais 25 et 26 montrent 
+qu'en absence d'un sel d'ammonium quaternaire, la rCaction 
+des groupements chloroformiate avec le carbazole n'a pas lieu 
+alors qu'elle s'effectue avec 100% de rendement aprks 3 h 2 
+20°C, en prksence de S04HNBu4. 
+I1 n'est pas possible de mesurer directement les masses mo-
+laires des Cchantillons de PVOCCl, par osmomCtrie ou par gpc, 
+en raison de la grande rkactivitk des fonctions chloroformiate. 
+Elles ont donc kt6 dkterminkes indirectement a partir des 
+masses molaires des polymkres modifiCs, en tenant compte du 
+degrk de substitution. Quelques rCsultats significatifs obtenus 
+avec trois lots diffkrents de PVOCCl sont rassemblks dans le 
+tableau 4. On observe un excellent accord entre les valeurs de 
+
+M, pour un m&amp;me Cchantillon de PVOCCl quelle que soit la 
+
+nature du substituant (essais 29 et 20; essais 31, 22 et 32) et 
+Can. J. Chem. Downloaded from www.nrcresearchpress.com by 87.160.185.190 on 03/27/14 
+
+For personal use only. 
+
+
+CAN. J. CHEM. VOL. 63. 1985 
+
+TABLEAU 2. Polymtrisation en masse de carbamates, carbonates et thiocarbonates vinyliques 
+
+([amorceur]/[monomkre] = 0,5%) 
+
+T 
+Temps 
+Rdt. 
+-
+Essai 
+Monomkre 
+Amorceur" 
+("c) 
+(h) 
+
+(%I 
+
+M,, osm. 
+
+VOCOPh 
+VOCOPh 
+VOCO Menthyle 
+VOCSPh 
+VOCNEtZ 
+VOCNHBu 
+
+~O 
+C 
+N 
+~ 
+
+I 
+
+CH, 
+
+V O C N ~ 
+
+V O C N ~ 
+
+DCPD 
+AIBN' 
+DCPD 
+AIBN 
+AIBN 
+AlBN 
+
+AIBN 
+
+AIBN 
+
+AIBN' 
+
+"DCPD: aeroxvdicarbonate de dicvclohexvle: AIBN: azobisisobutvronitrile. 
+"[A]/[M]' = I %. 
+'[A]/[M] = 1%; essai effectut dans un appareil entitrement scellC sous vide pousst. 
+
+TABLEAU 3. Rtaction des amines avec le PVOCCI dans CHzClz (PVOCCI: 5 X lo-' mol; CH,CIZ: 35 mL) 
+
+Degrt de 
+Base 
+TBAH" 
+T 
+substitution 
+Essai 
+Amine 
+[Amine]/[PVOCCI] 
+([Base:I/[CI]) 
+(mol. %) 
+("C) 
+Temps 
+
+(%I 
+
+17 
+n-C4H9NH2 
+
+I S 
+
+Na,C03(2) 
+-
+42 
+2 h 
+96 
+18 
+ChHsCHzNHCH3 
+1.5 
+KzC03(2) 
+
+-
+
+40 
+3 h 
+100 
+19 
+C6H5CHZNHCH3 
+2,3 
+NaOH 50%(1,5) 
+-
+20 
+10 min 
+100 
+20 
+(n-C4H9)?NH 
+1,5 
+NalC03(2) 
+-
+40 
+2.75 h 
+94 
+2 1 
+HzNCH2COOCzHs,HCI 
+
+1 2 
+
+Et,N(2) 
+-
+40 
+3 h 
+100 
+22 
+ChHsNHCH3 
+2.5 
+NaOH 50%(1,5) 
+
+-
+
+20 
+20 min 
+100 
+23 
+C2HSNHCH2CH20H 
+1,5 
+Na2C03(2) 
+-
+42 
+2 h 
+84 
+24 
+Amino-3 tthyl-9 carbazole 
+1.1 
+NaOH 50%(2) 
+-
+20 
+5 h 
+98 
+25 
+Carbazole 
+2,5 
+NaOH 50%(1,5) 
+-
+20 
+30 min 
+0 
+26 
+Carbazole 
+2,5 
+NaOH 50%( 1,5) 
+5 
+20 
+3 h 
+100 
+27 
+Carbazole 
+1 
+NaOH 50%( 1,5) 
+5 
+20 
+5 h 
+100 
+28 
+Dimtthyl-2,3 indole 
+2,5 
+NaOH 50%(1,5) 
+5 
+20 
+7 h 
+90 
+
+"Sulfate acide de tttrabutylammonium, pourcentage molaire par rapport au chlore du PVOCCI. 
+
+TABLEAU 4. Masses molaires des tchantillons de PVOCCI 
+
+Essai 
+Substituant 
+
+29 
+ChHsCHzNHCH3 
+20 
+(n-C,HV)ZNH 
+30 
+C~HSCH~NHCH~ 
+19 
+ChHsCHzNHCHz 
+3 1 
+ChHsCHzNHCH, 
+22 
+C6HsNHCH3 
+32 
+C6H5OHC 
+
+Base 
+
+Na2C0, 
+Na2C03 
+NaZCO3 
+NaOH 50% 
+NaOH 50% 
+NaOH 50% 
+NaOH 50% 
+
+Temps 
+
+2.5 h 
+2,75 h 
+2,5 h 
+10 min 
+15 min 
+20 min 
+1,5 h 
+
+D.S. " 
+
+(%I 
+
+A,, PVOCCI " 
+
+76 000 
+77 000 
+18 000 
+18 500 
+33 000 
+35 000 
+34 500 
+
+"DegrC de substitution dtterrninC d'aprts la microanalyse. 
+'CalculCe d'aprts la valeur de M,, du polymtre rnodifit mesurCe par osmomitrie dans le tolutne h 37°C et 
+d'aprts le degrC de substitution. 
+
+"+5 rnol. % TBAH. 
+
+quelles que soient les conditions operatoires pour un substituant 
+des alcools, des phenols et un thiol sont rassemblks dans le 
+donne (essais 30 et 19). En particulier, on peut conclure que la 
+tableau 5. Les phtnols et les alcools sont moins reactifs que les 
+modification chimique du PVOCCl en solution dans CH2C12, 
+amines aliphatiques vis-a-vis des chloroformiates (20). La cata-
+en presence de NaOH 50% et d'un catalyseur de transfert de 
+lyse par transfert de phase donne d'excellents risultats en ce qui 
+phase (essai 32) ne provoque pas de degradation du polymkre 
+concerne le phCnol et la mercapto-2 pyrimidine (essais 32 et 
+avec un substituant comme le phenol. 
+
+38). D'une faqon gCntrale, il faut noter que, contrairement a 
+
+Les rksultats de la modification chimique du PVOCCl par 
+certains rtsultats publies rkcemment (21), les conditions ope-
+Can. J. Chem. Downloaded from www.nrcresearchpress.com by 87.160.185.190 on 03/27/14 
+
+For personal use only. 
+
+
+BOlVlN ET AL. 
+
+TABLEAU 5. Reaction des alcools, des phenols et des thiols avec le PVOCCl dans CHzClz 
+([substituant]/[Cl] = 1 3 ; [base]/[Cl] = 2) 
+
+Catalyseur" 
+
+T 
+
+Temps 
+D.S. 
+Essai 
+Substituant 
+Base 
+(rnol. %) 
+("c) 
+
+(h) 
+
+(%) 
+
+33 
+NOzChHjOH 
+K,CO, 
+DCHE (1,s) 
+40 
+2 
+23 
+34h 
+Quinine 
+KzCO, 
+DCHE ( I ,5) 
+20 
+1,25 
+45" 
+
+Pyridine 
+
+36 
+CH,0C6H4CH20H 
+Pyridine 
+
+-
+
+0 
+3 
+93 
+37 
+ChH5OH 
+Pyridine 
+-10 
+3 
+88 
+32 
+C6H5OH 
+NaOH 50% TBAH (5) 
+20 
+1.4 
+96 
+38 
+Mercapto-2 pyrimidine 
+NaOH 50% TBAH (5) 
+20 
+4 
+98 
+
+"DCHE: dicyclohexyl-18 couronne-6; TBAH: SO,HNBu,; pourcentage molaire par rapport au chlore du 
+PVOCCI. 
+"Solvant: THF. 
+"Polymkre insoluble. 
+
+TABLEAU 6. Reaction des acides carboxyliques avec le PVOCCl dans les conditions de la 
+catalyse par transfert de phase i 20°C (PVOCCI: 4,7 X 10-"01; RCOOH: 5 X 10' rnol; 
+CH,C12: 100 rnL) 
+
+TBAH" 
+D.S. 
+Essai 
+RCOOH 
+[K2C03]/[PVOCCI] (rnol.%) Temps 
+
+(%) 
+
+39 
+C6H5COOH 
+0 
+0 
+19 h 
+0 
+40 
+CsHsCOOH 
+3,2 
+0 
+5 h 
+90" 
+41 
+ChH5COOH 
+3,5 
+5 
+20 rnin 
+94 
+42 
+CHz=CH-COOH 
+3 2 
+5 
+10 rnin 
+97 
+43 
+Acide acCtylsalicylique 
+3 2 
+0 
+5 h 
+54" 
+
+44 
+
+Acide acCtylsalicylique 
+3,2 
+5 
+40 rnin 
+81 
+45 
+CH,(CH,),COOH 
+3 2 
+5 
+10 min 
+80 
+
+"TBAH: SO,HNBu,; pourcentage molaire par rapport au chlore du PVOCCI. 
+hRCfCrence 22. 
+
+ratoires que nous avons utilistes conduisent 2 I'obtention de 
+
+polyrneres solubles posstdant des degrts de substitution t l e v b . 
+La catalyse par transfert de phase constitue une excellente 
+rntthode pour modifier le PVOCCl par les acides carboxyliques 
+ainsi qu'en ttrnoignent les rtsultats du tableau 6 (essais 41, 42, 
+44 et 45). On obtient des polyrneres solubles porteurs de fonc-
+
+tions anhydride rnixte -0COOCOR laterales (12). Ces poly-
+rnkres sont tgalernent prtparts par reaction de carboxylates 
+alcalins avec le PVOCCl au rnoyen de la catalyse par transfert 
+de phase solide-liquide. Les rtsultats sont indiquts dans le 
+tableau 7. En l'absence de catalyseur, on n'observe aucune 
+rtaction entre le benzoate de sodium et le PVOCCl dans le 
+chlorure de rnCthylkne rngrne apres 17 h a 20°C (essai 46). Par 
+contre, on obtient des degrts de substitution voisins de 100% 
+en prtsence d'un catalyseur de transfert de phase cornrne le 
+sulfate acide de tttrabutylarnrnoniurn (essai 48 et 49), un ether-
+couronne (essai 47) ou un cryptand (essai 50). La reaction avec 
+le benzoate de tttraCthylarnrnoniurn est extrernernent rapide 
+(essai 5 1); ceci rnontre que l'intermtdiaire rtactionnel dans le 
+cas des benzoates de sodium et de potassium, en prtsence de 
+TBAH, est un carboxylate de tetraalkylarnrnoniurn. Une ttude 
+cinttique dttaillee de ce type de rtaction est actuellernent en 
+cours. 
+
+TABLEAU 7. Reaction des carboxylates et du cyanure de potassium 
+avec le PVOCCl dans les conditions de la catalyse par transfert de 
+
+phase i 20°C ([substituant]/[PVOCCI] = 1 sauf pour l'essai 54 ( 1 3)) 
+
+Cataly seur" 
+D.S. 
+Essai 
+Substituant 
+(rnol. %) 
+Temps 
+
+(%I 
+
+C6HsCOONa 
+ChHSCOONa 
+C6HSCOONa 
+ChH5COOK 
+CbHsCOOK 
+ChH5COONEt 
+KCN 
+KCN 
+KCN 
+
+-
+
+DCHE (10) 
+TBAH (5) 
+TBAH (5) 
+[2221 (5) 
+
+-
+
+TBAH (5,3) 
+DCHE (5) 
+DCHE (2,2) 
+
+17 h 
+3 h 
+1,5 h 
+3 h 
+5,5 h 
+5 rnin 
+3,7 h 
+5 h 
+3 h 
+
+"DCHE: dicyclohexyl-18 couronne-6; TBAH: SO,HNBu,; Kryptofix [222]; 
+pourcentage molaire par rapport au chlore du PVOCCI. 
+"0.1 mL d'eau. 
+"Solvant: adtonitrile. 
+
+PVOCCl par des substituants varits. Cette rntthode permet 
+d'obtenir des polyrnbes solubles posstdant des degrts de 
+substitution tlevts, la ternptrature ordinaire. 
+
+Nous avons egalernent fait figurer, dans le tableau 7, quel-
+3. PropriPtts des dtrivts du polychloroformiate de vinyle 
+ques resultats relatifs a la reaction de KCN avec le PVOCCl 
+Les polyrneres obtenus soit a partir de dtrives du VOCC1, 
+(8). Un sel d'arnrnoniurn quaternaire cornrne le TBAH est un 
+soit par modification chirnique du PVOCCl ont t t t caracttrists 
+catalyseur plus efficace qu'un tther-couronne, dans CHzClz a 
+par spectrophotornttrie ir et par rrnn du carbone 13. La bande 
+20°C (essais 52 et 53). 
+d'absorption du groupe carbonyle est situte a 1770 crn-' pour 
+En conclusion, nous avons rnontri les avantages de la cata-
+le PVOCCI. Elle apparait a 1690 crn-' pour les polycarbarnates 
+lyse par transfert de phase lors de la modification chirnique du 
+vinyliques, 2 1735 crn-' pour le polycyanoforrniate de vinyle, 
+Can. J. Chem. Downloaded from www.nrcresearchpress.com by 87.160.185.190 on 03/27/14 
+
+For personal use only. 
+
+
+1342 
+
+CAN. J. CHEM. VOL. 63. 1985 
+
+TABLEAU 8. DCplacements chimiques des atomes de carbone de la 
+
+chaine principale et du groupe carbonyle de quelques dCrivCs du 
+PVOCCI: +CH2-CH-(0-C-R)-b 
+(ppm; ref.: HMDS; 
+
+II 
+
+0 
+100°C; C6HsCIs/C~D5N02 = 90: 10; 62,5 MHz; m: multiplet) 
+
+Essai 
+R 
+,C=O 
+-CH-
+-CHI-
+
+\ 
+
+h 1730 crn-' pour le polythiocarbonate de vinyle et de phCnyle 
+
+et 5 1750 crn-' pour le polycarbonate de vinyle et de phtnyle. 
+
+Les polymkres porteurs de fonctions anhydride rnixte 
+presentent deux bandes d'absorption des groupernents 
+carbonyle situees vers 1810 et 1745 crn-'. Ces bandes sont 
+suffisamrnent distinctes de celle correspondant au PVOCCl si 
+bien que l'on peut suivre la cinetique de la reaction de ce 
+polymkre avec les acides carboxyliques par spectrophoto-
+metrie ir. 
+Les dkplacernents chirniques des atomes de carbone de la 
+chaine principale et du groupement carbonyle sont indiquCs 
+dans le tableau 8, pour quelques polyrnkres derives du 
+PVOCCl. Dans tous les cas, on observe une stCrCosensibilitC 
+des carbones de la chaine principale. Les carbones rntthy-
+lCniques sont sensibles a des effets de diades, de tCtrades et 
+parfois rnCrne d'hexades. On observe des effets de triades pour 
+les carbones tertiaires. Les surfaces des trois pics cor-
+respondent approxirnativernent au rapport 1 : 2 : 1. On peut en 
+dkduire que tous les polyrnkres sont atactiques et qu'ils 
+obeissent probablernent 6 une statistique de Bemouilli cornrne 
+attendu pour des echantillons prepares par polyrnCrisation ra-
+dicalaire. Pour quelques polyrnkres, on observe une stereo-
+sensibilite du carbone du groupement carbonyle. I1 faut 
+rernarquer que ces polyrnbes posskdent des valeurs de T, plus 
+ClevCes que les autres ce qui correspond une rnoins grande 
+mobilitC des groupernents latCraux (tableau 9). 
+Les temperatures de transition vitreuse et la stabilite 
+
+TABLEAU 9. PropriCt6s thermique~ de quelques dCrivCs du PVOCCI: 
+--[-CH2-CH(0-C-R)-b 
+
+II 
+
+0 
+
+T, 
+T dCcomposition" 
+Essai 
+R 
+("c) 
+("c) 
+
+M,, 
+
+"Maximum de la dCrivCe du thenn3gramme. 
+"alculCe ti partir de la valeur de M,, du PVOCCl (34 000) car le polymkre 
+est insoluble dans le toluene. 
+
+thermique de quelques polyrnkres ont Ct C dCterminCes. Les 
+rCsultats sont rassernbles dans le tableau 9. La stabilite 
+thermique des polyrnkres sernble decroitre legkrement selon 
+
+l'ordre suivant: polycarbarnates &gt; polycarbonates &gt; poly-
+
+thiocarbonates. Par ailleurs, les valeurs de T, des poly-
+rnkres -[&lt;H2-CH--(OX-R-+h 
+decroissent 
+
+I 
+1 
+
+0 
+selon l'ordre suivant pour R: -0-Ph 
+
+&gt; -S-Ph 
+
+&gt; 
+
+-N(CH,)-Ph. 
+Les 1Cgkres differences observCes parmi les 
+valeurs de T, des polycarbarnates vinyliques peuvent &amp;tre expli-
+qukes par la structure des groupements lateraux qui influence la 
+rnobilite de la chaine principale (23). 
+En conclusion, nous avons dCtCrminC les pararnktres cinC-
+tiques de la polyrnCrisation radicalaire du chloroformiate de 
+
+vinyle arnorcee par le peroxydicarbonate de dicyclohexyle, B 
+
+35°C dans CH2CI,. Ceci nous a permis de preparer des 
+Cchantillons de polychloroformiate de vinyle bien dCfinis dont 
+nous avons examine la modification chirnique. La catalyse par 
+transfert de phase est une rnCthode de choix pour obtenir des 
+polymkres solubles possCdant des degres de substitution trks 
+ClevCs. Par ailleurs de nouveaux polyrnkres ont Cte prCparCs par 
+polyrnCrisation radicalaire de rnonornkres derives du chloro-
+formiate de vinyle. Les capacitks rCactionnelles rernarquables 
+du chloroformiate vinylique ainsi que du polyrnkre cor-
+respondant ou de ses copolyrnbes ouvrent un champ d'inves-
+tigations trks vaste et permettent d'envisager des applications 
+trks variCes. 
+
+Remerciements 
+Nous rernercions la SocietC Nationale des Poudres et 
+Explosifs pour son aide rnaterielle. Nous rernercions egalernent 
+Can. J. Chem. Downloaded from www.nrcresearchpress.com by 87.160.185.190 on 03/27/14 
+
+For personal use only. 
+
+
+BOIVIN ET AL. 
+
+1343 
+
+le Professeur R. Olofson et le Docteur G. Wooden pour la 
+prCparation de certains monomkres, le Professeur H. 
+ChCradame et Madame E. Rousset pour leur contribution a 
+l'analyse des polymkres par rmn du carbone 13 ainsi que 
+
+Madame C. Noel pour son aide dans l'interpretation des 
+thermogrammes. 
+
+1. J. R. SCHAEFGEN. U. S. Patent no 3 118 862 (1964); Am. Chem. 
+Soc. Polym. Prepr. 8, 723 (1967); J. Polym. Sci. C, 24, 75 
+(1968). 
+2. C. G. OVERBERGER, H. RINGSDORF et N. WEINSHENKER. J. Org. 
+Chem. 27, 4331 (1962). 
+3. Dow Chemical Co. Fr. Patent n" 1 478 633 (1966). 
+
+4. F. E. KUNG. U. S. Patent n" 2 370 549 (1945). 
+
+5. T. MALFROOT et M. PITEAU. Fr. Patents no" 381 739 (1977) et 
+2 421 866 (1977). 
+6. G. MEUNIER, P. HEMERY, J. P. SENET et S. BOILEAU. Polym. 
+Bull. 1, 809 (1979). 
+7. S. BOILEAU, S. JOURNEAU et G. MEUNIER. Fr. Patent no 2 475 
+558 (1980). 
+8. G. MEUNIER, P. HEMERY, S. BOILEAU, J. P. SENET et H. 
+CHERADAME. Polymer, 23, 849 (1982). 
+9. F. KASSIR, S. BOIVIN, S. BOILEAU, H. CHERADAME, G. WOODEN 
+et R. A. OLOFSON. Polymer, 26, 443 (1985). 
+
+10. G. MEUNIER, S. BOIVIN, P. HEMERY, S. BOILEAU et J. P. SENET. 
+Polymer, 23, 861 (1982). 
+11. S. BOIVIN, A. CHETTOUF, P. HEMERY et S. BOILEAU. Polym. 
+Bull. 9, 114 (1983). 
+12. S. BOIVIN, P. HEMERY, J. P. SENET et S. BOILEAU. Bull. Soc. 
+Chim. Fr. 11, 201 (1984). 
+13. R. C. SCHNUR. Ph.D. Thesis, Pennsylvania State Univ., (1973). 
+14. R. A. OLOFSON, R. C. SCHNUR et L. BUNES. U.S. Patent no 
+3 905 981 (1973). 
+15. R. A. OLOFSON, R. C. SCHNUR, L. BUNES et J. P. PEPE. 
+Tetrahedron Lett. 1567 (1977). 
+16. R. A. OLOFSON et J. CUOMO. J. Org. Chem. 45, 2538 (1980). 
+
+17. H. CHERADAME et P. SIGWALT. Bull. Soc. Chim. Fr. 843 (1970). 
+
+18. S. BOILEAU, G. CHAMPETIER et P. SIGWALT. Makromol. Chem. 
+69, 180 (1963). 
+19. J. C. FAVIER, S. BOILEAU et P. SIGWALT. Eur. Polym. J. 4, 3 
+(1968). 
+20. M. MATZNER, R. P. KURKJY et R. J. COTTER. Chem. Rev. 64, 
+67 (1964). 
+21. J. P. PAYAN, S. RAYNAL, J. P. MARTY, C. JACQUOT et 
+E. LEPAIN-PAYAN. Eur. Polym. J. 20, 487 (1984). 
+22. J. P. SENET. Fr. Patent no 81/85 873 (1981). 
+23. H. R. ALLCOCK et F. W. LAMPE. Contemporary polymer chem-
+istry. Prentice-Hall Inc., Englewood Cliffs, New Jersey. 198 1. 
+
+Can. J. Chem. Downloaded from www.nrcresearchpress.com by 87.160.185.190 on 03/27/14 
+
+For personal use only. 
+
+
+
+	
+

@@ -1,0 +1,603 @@
+
+	
+
+		
+
+	
+
+	
+
+Proprietes nucleophiles des phosphoranures' 
+
+B . GARRIGUES ET A. MUNOZ 
+
+E.R.A. N 926, UniversitP Paul Sabatier, 118 route de Narbonne, 31062 Toulouse CCdex, France 
+Requ le 19 octobre 1983 
+
+B. GARRICUES et A MUNOZ. Can. J. Chem. 62, 2179 (1984). 
+
+Les phosphoranures formCs par action des bases sur des phosphoranes liaison P-H contenant les ligands a hydroxyacide, 
+a aminoacide ou acide iminodiacttique, rkagissent avec des Clectrophiles comme les halogknures d'alcoyle, l'azoture de 
+phCnyle, le disulfure de carbone, les orthoquinones ou les cetoacides. Ces reactions ont permis de prCparer des phosphoranes 
+et des composCs phosphore hexacoordonnC nouveaux. 
+
+B. GARRICUES and A M u ~o z . 
+
+Can. J. Chem. 62, 2179 (1984). 
+The reaction of various bases with P-H bond-containing phosphoranes bearing a-hydroxy acid, a-aminoacid, or im-
+inodiacetic acid ligands leads to the formation of phosphoronates which react with electrophiles such as alkyl halides, phenyl 
+azide, carbon disulfide, orthoquinones, or keto-acids. New phosphoranes and hexacoordinated phosphorus compounds could 
+thus be prepared. 
+[Journal translation] 
+
+I. Introduction 
+Dans un travail prCcCdent (I), nous avons identifiC par rmn, 
+la base conjuguCe des phosphoranes 1, 2 et 3, en traitant ces 
+composCs par la trikthylamine. Leur dCprotonation conduit au 
+phosphite 1' seul dans le cas des premiers, a un Cquilibre entre 
+ie phosphoranure 2" et le phosphite 2' dans celui~des seconds 
+et au phosphoranure 3 seul en ce qui concerne le troisieme. 
+Quant au phosphorane 4 , il ne rCagit pas avec la triethylamine. 
+I1 est important de souligner que les composes 1-4 ne 
+prtsentent pas, en solution, et au regard de la rmn, 17Cquilibre 
+tautomkre phosphite phosphorane a I'exception des premiers 
+termes non substituCs l a et 2a (R = R' = H) (1, 2). Ces 
+rksultats nous inclinent a prendre en considkration, pour les 
+composCs 2 et 3, le phosphoranure 2 et 3 comme entitC 
+rCactive vis-a-vis des Clectrophiles, plut6t que les formes phos-
+
+phites tautomeres. Ce choix parait d'autant plus justifiC que les 
+phosphites contenant le motif dioxaphospholane sont peu nu-
+cleophiles et manifestent m&amp;me des propriCtCs d'Clectrophiles 
+(3). Nous montrerons, d'ailleurs, sur quelques exemples de 
+rCactions entre des phosphoranes et des Clectrophiles que I'es-
+pece rCactive est bien le phosphoranure et non les phosphite. 
+DCja en 1975, P. Savignac et al. (4) ont postulC I'in-
+tenention du phosphoranure et non du phosphite lors de la 
+rCaction d'iodures d'alcoyle sur un spirophosphorane, trait6 au 
+prCalable par des bases fortes. 
+Nous avons entrepris une Ctude systCmatique de la rCactivitC 
+des phosphoranures, bases conjuguCes des phosphoranes 2 et 3 , 
+vis-a-vis d'electrophiles variCs: halogenures d'alcoyle, azoture 
+de phtnyle, disulfure de carbone, orthoquinones et cCtoacides. 
+Les phosphoranures ont Ct C formCs en traitant par la tri-
+
+1 
+1' 
+a R = R f = H 
+d R = R' = CH, 
+
+-L 
+
+' Ce travail a fait I'objet de deux notes prkliminaires (22, 23). 
+
+Can. J. Chem. Downloaded from www.nrcresearchpress.com by 87.160.185.190 on 03/27/14 
+
+For personal use only. 
+
+
+2180 
+
+CAN. J. CHEM. VOL. 62, 1984 
+
+Na+ 
+
+O\ J 
+
++ HNa 5 [( 0 ' \N y K : H 1 CHI 
+
+ComposCs i liaison P=O 
+
+Cthylamine les phosphoranes. Nous avons men6 des essais 
+parallkles en metant en contact ces derniers avec les Clectro-
+philes, en l'absence de base. Nous avons Cgalement ttudit 
+l'action de l'iodure de mCthyle en presence de bases, sur les 
+spirophosphoranes 1 et 4, dont les phosphoranures n'on pas Ct C 
+identifits (1). 
+
+11. Resultats et discussion 
+1. Action des phosphoranures sur les haloge'nures d'alcoyle 
+(a) Rtaction du phosphorane 4 avec l'iodure de me'thyle en 
+prksence d'hydrure de sodium 
+Nous avons optrC de trois fasons diffkrentes: ( i ) addition 
+simultanke, a une solution de phosphorane 4 dans le DMF, de 
+l'iodure de mCthyle et de l'hydrure de sodium. Le spectre de 
+rmn de 31P montre la disparition du doublet P-H du composC 
+4 et l'apparition d'un quadruplet correspondant a un phos-
+
+phorane a liaison P-CH3. (ii) Addition de l'iodure de mCthyle 
+
+seul au spirophosphorane 4: aucune rCaction n'est observee au 
+bout de 24 h. En ajoutant alors l'hydrure, on obtient quan-
+
+titativement le mCme phosphorane a liaison P-CH3. (iii) Si on 
+
+inverse l'ordre d'introduction des rkactifs, le rksultat est diffC-
+rent: l'action de HNa sur le composC 4 conduit a l'ami-
+dosphosphite 4' qui a Ctt is016 (SchCma 1). Un rCsultat com-
+parable a dCjB Ct C dCcrit pour un phosphorane contenant deux 
+restes pinacol (4). Le composC 4' rCagit avec l'iodure de 
+
+mCthyle en donnant un mClange complexe de composCs du 
+phosphore tCtracoordonnC. 
+Le phosphorane a liaison P-CH3 5 a Ct C is016 complex6 a 
+0,4 molCcules d'iodure de sodium. Ce dernier a Ct C CliminC par 
+passage sur de l'alumine activte (voir partie experimentale). 
+Les rksultats prickdents excluent l'amidophosphite 4' com-
+me entitC rkactive dans la formation du phosphorane 5. En fait, 
+le produit cinCtique de la rCaction de HNa sur le phosphorane 
+4 doit Ctre le phosphoranure 4", qui, en presence d'iodure de 
+mCthyle, conduit au composC 5. En l'absence de ce reactif, il 
+se transforme en amidophosphite 4' qui est l'entitC thermo-
+dynamiquement stable (SchCma 1). 
+
+(b) Action des phosphoranes 1-3 sur les halogtnures d'al-
+coyle en pre'sence de trie'thylamine 
+La rCaction de l'iodure de mCthyle sur le sel de diCthyl-
+ammonium des phosphites 1' rCgCnkre les phosphoranes 1. Le 
+mCme rksultat est observk quand on ajoute un excks d'iodure au 
+
+mClange Id (R = CH3) + Et3N ou l e (R = C6H5) + Et3N. Ces 
+
+rCactions confirment le faible caractkre nuclCophile de l'atome 
+
+de phosphore des phosphites l', possCdant le motif dioxa-
+
+phospholane, prkalablement soulignC par Hudson et Brown 
+(3). En fait, c'est l'atome d'azote de la base, en Cquilibre avec 
+son cation ammonium, qui attaque le groupement mCthyle 
+(schCma 2). 
+Can. J. Chem. Downloaded from www.nrcresearchpress.com by 87.160.185.190 on 03/27/14 
+
+For personal use only. 
+
+
+GARRIGUES ET MUNOZ 
+
+2181 
+
+L'action d'un excks d'iodure de mCthyle sur les mClanges 
+
+phosphoranes 2 + base (Et3N, DBU, HNa) ne rCgCnkre pas, 
+
+comme prCcCdemment, le phosphorane 2. Dans tous les cas 
+essayts, nous avons observe la formation du phosphorane a 
+liaison P-CH, 
+6 que nous avons is016 en partant du phos-
+phorane 2e (R = R' = CsH5). Ce rCsultat montre encore que 
+llentitC rCactive est l'ion phosphoranure 2 et non le phosphite 
+2' (schCma 3). 
+Le phosphoranure 3 est moins rCactif que ses homologues 
+2 : la formation du phosphorane a liaison P-CH3 n'est pas 
+observCe, comme dans le cas des composCs 2 , immkdiatement 
+aprks l'addition de CH3-I. Cependant, en rempla~ant ce der-
+nier par le bromure de benzyle, nous avons prCparC, avec un 
+bond rendement, le phosphorane 7 (schCma 4). 
+
+2. Action des phosphoranures sur l'azoture de phtnyle 
+On sait que les phosphoranes rCagissent sur les azotures 
+organiques pour conduire, aprks Climination d'azote, a des 
+aminophosphoranes. Cette rtaction est facile quand le phos-
+phorane est en tquilibre avec sa forme a phosphore tri-
+coordonnC tautomkre (5). Dans le cas ou cette dernikre n'est 
+
+pas dCcelable a la temptrature ambiante, la reaction n'a lieu 
+
+qu'a temperature ClevCe (5). 
+Les phosphoranes 2d ou 3 ne rkagissent pas sur l'azoture de 
+phCnyle, a la. temperature ambiante. En revanche, avec leurs 
+phosphoranures de triithylammonium, il se produit un dCgage-
+
+ment immCdiat d'azote. Le spectre de rmn de 3'P du mClange 
+rCactionnel montre que les phosphoranes 2d et 3 ont Ct C trans-
+formCs quantitat,ivement en composCs du phosphore pen-
+tacoordonnC dCpourvus de liaison P-H, 
+8 et 9, que nous 
+avons isoles (schCma 5). 
+Nous pouvons proposer l'attaque du site dCficient en elec-
+trons de l'azoture par le phosphoranure, suivie de la dCcom-
+position du produit intermidiaire, avec Climination d'azote, et 
+de la formation d'un anion amidure, lequel, proton6 donne 
+finalement l'aminophosphorane 8 ou 9 (schCma 5). 
+
+3. Action des phosphoranures sur le disulfure de carbone 
+Le disulfure de carbone rCagit avec de nombreux composes 
+
+a phosphore tricoordonni pour donner, soit des composCs d'ad-
+
+dition (6), soit d'insertion, lorsque les substrats phosphorCs 
+contiennent des liaisons P-N (7). Des rCactions d'insertion 
+sont tgalement connues, dans le cas de phosphoranes a liaison 
+P-N. Dans ces derniers composCs l'atome de phosphore at-
+teint l'hexacoordination par retour d'un atome de soufre (8). 
+Cependant, aucune reaction d'addition entre un phosphorane et 
+le disulfure de carbone n'a encore Ct C dCcrite, a notre con-
+naissance. 
+Les phosphoranures de triCthylammonium 2 d (R = R' = 
+CH3) et 3" riagissent immkdiatement et a la tempirature ambi-
+ante, sur le disulfure de carbone. Nous avons is016 des subs-
+tances cristallines fortement colorCes. Dans le cas du phos-
+phoranure 2 d (R = R' = CH3) nous en avons determink la 
+structure par diffraction de rayons X. Nous avons affaire au sel 
+de triCthylammonium d'un dithiophosphorane 10 (9). Cette 
+structure est confirmte en solution, par les spectres de rmn (31P 
+et 'H). A partir du phosphoranure 3 , nous avons obtenu le 
+phosphorane homologue 11 (schCma 6). 
+Comme dans le cas de l'azoture de phtnyle, aucune rCaction 
+n'est observCe entre les phosphoranes 2d, 3 et le disulfure de 
+carbone. Nous pouvons encore postuler une attaque du site 
+tlectrophile, en l'occurrence l'atome de carbone du disulfure, 
+par le doublet du phosphoranure (schtma 6). 
+
+4. Action des phosphoranures 2" sur les composts carbonylts: 
+ditertiobutylorthoquinone et acide benzoylformique 
+Les rCactions des a dicCtones ou orthoquinones et des cC-
+Can. J. Chem. Downloaded from www.nrcresearchpress.com by 87.160.185.190 on 03/27/14 
+
+For personal use only. 
+
+
+2182 
+
+CAN. 1. CHEM. VOL. 62, 1984 
+
+toacides avec les composCs du phosphore tricoordonnC, ont Ct C 
+abondamment CtudiCes (10, 1 1). La formation de phosphoranes 
+qui en decoule a CtC expliquCe par des processus ayant comme 
+
+0 
+
+point de depart l'attaque du doublet de l'atome de phosphore 
+
+0-. 1 
+
+tricoordonne sur l'atome de carbone Clectrophile d'un groupe-
+ment carbonyle (10, 11). La forme phosphite tautomere des 
+phosphoranes a liaison P-H, peut Cgalement rkagir avec les cr. 
+
+CH3 
+0 
+dicetones pour donner un y hydroxyphosphorane, capable de se 
+
+0 
+
+transformer en presence de bases, en compose du phosphore 
+
+12 
+
+hexacoordonnC (1 2). Cependant, de telles rCactions peuvent 
+Cgalement se produire mEme quand 1'Cquilibre phosphite 
+phosphorane n'est pas dtcelable a tempCrature relativement 
+ClevCe. Ainsi le phosphorane 2d et la ditertiobutylorthoquinone 
+rbagissent, au bout de 12 h pour donner naissance au y hydro-
+xyphosphorane 12 (schtma 7). Sa structure est bien dCmontrCe 
+par son 63'P (-44), t r b proche de celui de composC isologue 
+
+H-B+ 
+
+14 ( 13). En milieu basique (DMF, DMSO, solvant neutre + un 
+
+equivalent de Et3N), le composC 12 se transforme quan-
+
+13 
+
+titativement d'aprks la rmn de 3'P, en composC du phosphore 
+hexacoordonnC 13. 
+
+0 ' 
+' 0 
+
+S C H ~M A 
+7 
+
+Ce dernier peut Etre obtenu directement et de faqon instanta-
+nCe, en mClangeant le phosphorane et la quinone en prCsence 
+de triethylamine. 
+Ces rksultats peuvent s'interpreter par des schCmas classi-
+ques 2 partir de la forme a phosphore tricoordonnC 2'd, aussi 
+bien par voie ionique (mecanisme proposC par Ogata et Yama-
+shita (10)) que par voie radicalaire (Boekenstein et al. (14)). 
+Cependant, nous pouvons Cgalement proposer un processus 
+inspirC des schCmas ioniques d'Ogata, faisant intervenir le 
+phosphoranure (schCma 7), sans oublier toutefois que des enti-
+tes radicalaires peuvent Cgalement jouer un r61e. 
+
+L'action des cCtoacides sur les spirophosphoranes a liaison 
+
+P-H, contrairement aux reactions avec les orthoquinones, n'a 
+pas encore Ct C dCcrite, 2 notre connaissance. Nous exposons, 
+dans ce travail, des rCsultats prtliminaires observCs lors de la 
+rCaction entre le phosphorane 2d et l'acide benzoylformique. 
+On sait que les composCs 2 phosphore tricoordonnC (phos-
+phites, phosphonites) contenant le motif dioxaphospholane rC-
+agissent avec les cCtoacides. Le composC, principal de la rCac-
+tion est un spirophosphorane contenant le ligand a hydroxy-
+acide resultant de la rkduction de la fonctioil'cCtone en fonction 
+alcool (1 I). 
+
+Les spirophosphoranes 2 ne rCagissent pas a la tempCrature 
+ambiante et sur une duree de plusieurs heures, sur l'acide 
+benzoylformique. Cependant, en prCsence de trikthylamine qui 
+entraine la formation du phosphoranure 2" on observe une 
+rCaction legkrement exothermique. Ainsi, avec le phos-
+phoranure 2"d, R = R' = CH3, on observe la formation de 
+composes dont le ti3'P correspond 2 des entitCs du phosphore 
+
+hexacoordonnC (-108 &lt; ti3'P &lt; -102). Stables en solution (le 
+
+spectre de rmn 3'P reste inchangC pendant plusieurs jours), ils 
+se degradent des qu'ils sont isolCs. Leur spectre de rmn de 'H 
+presente un multiplet a 6 = 5,4 attribuable 2 des protons 
+CH-C~HS. 
+La prCsence de ces signaux montre que la fonction cCtonique 
+a Ct C rCduite en fonction alcool et que le ligand cetoacide a Ct C 
+transformi en reste acide mandClique. Compte tenu de la valeur 
+absolue Clevte des Zi3'P, nous pouvons alors proposer la struc-
+ture 15 (schtma 8), qui est confirmCe par les intensitCs relatives 
+des diffkrents signaux de rmn 'H. La multiplicitC des signaux 
+de rmn 31P ainsi que celle des pics des protons CH-C6HS et 
+C-CH3, s'explique par l'existence possible de nombreux 
+diastCreoisomCres. 
+La formation des composes 15 peut encore s'expliquer par 
+l'attaque de l'atome de carbone Clectrophile de la fonction 
+Can. J. Chem. Downloaded from www.nrcresearchpress.com by 87.160.185.190 on 03/27/14 
+
+For personal use only. 
+
+
+GARRIGUES ET MUNOZ 
+
+phosphoranes originaux difficiles a prCparer par des mCthodes 
+
+plus classiques. C'est le cas, notamment des phosphoranes 5 et 
+6 qui n'ont pas CtC obtenus a partir des rkactions mises au point 
+pour les pyrocatCchols, les diols et les Cthanolamines (schema 
+9) (15). 
+De meme, les composCs a phosphore hexacoordonnk 15 
+n'ont pas CtC isoles par rCaction directe d'a hydroxyacides sur 
+le pentacholorure de phosphore alors que la condensation de 
+pyrocatechols (l2b) ou d'acides benzhydroxamiques ( 16) sur le 
+m&amp;me substrat conduit assez facilement aux composes a phos-
+phore hexacoordonne correspondants. 
+Quant aux phosphoranes isolCs a partir du disulfure de carbo-
+ne, ils reprksentent des exemples intkressants d'activation de ce 
+dernier par les phosphoranures. 
+Ces rksultats laissent entrevoir une utilisation systCmatique 
+
+cCtone de l'acide benzoylformique par le phosphoranure, suivie 
+de rkactions de rkanangement aboutissant finalement a la crC-
+ation de la fonction ester phosphorique P-0-CH-Ph 
+(schCma 8). On peut remarquer que dans le benzene, la tri-
+Cthylamine et l'ion benzoylformate ont une basicite compara-
+ble. Par consCquent le proton liC au phosphore peut &amp;tre arrachC 
+par l'une ou l'autre des deux bases, d'ou le schema 8. 
+
+111. Conclusion 
+Jusqu'a ce jour, la reactivite des phosphoranes a liaison 
+P-H a CtC envisagee, d'une fason gCnCrale, uniquement a 
+travers l'intervention des formes a phosphore tricoordonnC tau-
+tomeres. Les rCsultats exposes dans ce travail montrent qu'il 
+convient de prendre Cgalement en considCration les phos-
+phoranures. 
+Nous avons dCmontrC que dans les rkactions entre les phos-
+phoranes 2-4 et les halogknures d'alcoyle, en prCsence de 
+bases, les phosphoranures correspondants Ctaient les seules 
+entitCs phosphorkes rkactives. Dans tous les autres cas CtudiCs 
+nous pouvons affirmer que l'intervention exclusive de ces der-
+niers est tres probable. 
+Les rtactions ainsi CtudiCes nous ont permis d'acckder a des 
+
+de ces composCs comparable a celle des phosphines dont ili se 
+rapprochent par leurs propriCtCs nuclCophiles. 
+
+Partie experimentale 
+Les analyses ClCmentaires ont Ct C effectuCes dans le service central 
+d'analyse du CNRS (BP 22 69390 Vemaison). 
+Les spectres de rmn 3'P ont it6 enregistrks sur un appareil 
+
+Perkin-Elmer R32 a transformke de Fourier (36, 433 MHz). Les 
+dkplacements chimiques ont ttC comptCs nCgativement a champ fort 
+
+par rapport au signal de l'acide phosphorique pris comme rCfCrence. 
+Les spectres de rmn 'H ont C t t enregistrks sur un appareil Varian 
+T60 (60 MHz) ou Perkin-Elmer R24 (60 MHz). 
+
+I. Action des phosphoranes 1-4 sur CH31 et PhCHzBr en pre'sence de 
+
+bases 
+
+1. Action de HNa sur le phosphorane 4: prbparation du compost! 
+
+4' 
+
+La prkparation du phosphorane 4 a CtC dCcrite (17); 1,93 g de 
+phosphorane 4 (0,Ol mol) sont dissous dans 5 mL de DMF; 1,2 g de 
+HNa (0,05 mol) sont ajoutCs en une seule fois: un fort dtgagement 
+gazeux est obsewk. Le volume de gaz recueilli, 220 mL, correspond 
+environ 0,01 mol d'hydrogbne. Oh'maintient sous agitation pendant 
+30 min. L'excks d'hydrure est filtrC.'Le filtrat prCsente en rmn de "P 
+
+un seul pic a 6 + 135. I1 est repris par 50 rnL dlCther: un prCcipitC blanc 
+
+laiteux se forme que I'on centrifuge, lave a I'Cther et skche sous lo-' 
+Can. J. Chem. Downloaded from www.nrcresearchpress.com by 87.160.185.190 on 03/27/14 
+
+For personal use only. 
+
+
+Can. J. Chem. Downloaded from www.nrcresearchpress.com by 87.160.185.190 on 03/27/14 
+
+For personal use only. 
+
+
+GARRIGUES ET MUNOZ 
+
+2185 
+
+MHz): 9,7 (IH, s, OH), 7 (2H, s, C6HZ), 1,4-1,7 (30H, rn, tBu et 
+C(CH3)?). 
+Masse rnolCculaire: nous I'avons dCterrninCe par cryoscopie dans le 
+DMSO. Dans ce solvant, il faut prendre en cornpte les deux especes 
+
+chirniques anion hexacoordonnC et H+. . . DMSO qui constituent le 
+
+compost5 a phosphore hexacoordonnC 13. La valeur trouvCe est, dans 
+ces conditions, apparente et il est necessaire de la multiplier par deux 
+pour avoir la rnasse rCelle. PF, DMSO: 18,45"C; K = 4,4 K Kg rnol-'. 
+Cette constante a Ct6 dCterrninCe en Ctalonnant le solvant avec la 
+triphCnylphosphine et l'acide phCnylphosphinique. Celle est conforrne 
+aux valeurs de la IittCrature (20, 21). Poids de 12: 80,45 rng. Poids de 
+DMSO: 4985 rng. AT = 0,36"C. M apparente: 200; M rCelle: 400; 
+thCorique pour 12: 456. Anal. calc. pour Cz2H3,ORP: C 57,89, H 7,28, 
+P 6,78; tr.: C 55,82, H 7,41, P 6,78%. 
+Isolement de 13 (HB = HNEt3+) 
+La reaction est conduite cornrne pour la prtparation du phosphorane 
+12. A la solution brute de ce cornposC dans le THF, on ajoute 1,01 g 
+de Et3N (0,Ol rnol). 11 se produit un lCger Cchauffernent; rmn de 3'P 
+6: -98 (60%) et -100 (40%). Les deux pics correspondent a deux des 
+huit diasttrCoisornkres possibles du cornposC 13. On reprend par 20 
+rnL d'hexane: un prCcipitC brun se forrne qu'on laisse dCposer quel-
+
+ques heures a la temperature arnbiante. On filtre, lave B l'hexane et 
+
+skche. Une poudre brune est finalernent obtenue; Rdt: 80%; rmn de 3 ' ~ 
+(THF) 6: -98 (60%), -100 (40%); rmn 'H (CDCI,, TMS, 60 MHz): 
+6,7 (2H, rn, C ~H Z ) , 
+3,O (6H, q, JH-C-C-H = 7 HZ, N-CH2-), 
+1,7 
+(39H, m, N-CH2-CH3 
+
++ C-CH3 + C(CH&amp;). Anal. calc. pour 
+
+CzaH,9N08P: C 60,32, H 8,61, N 2,5 1, P 5,56; tr.: C 60,34, H 8,79, 
+N 2,56, P 5,39%. 
+
+V. Action de l'acide benzoylformique sur le spirophosphorane 2d 
+(R = R' = CH3) 
+Deux solutions sont prCparCes en dissolvant 1,18 g de phosphorane 
+2d (0,005 rnol) et 0,75 g de Ph-CO-COOH 
+(0,005 mol) dans 10 
+rnL de benzene. A l'une des deux, on ajoute 0,5 g de Et3N (0,005 
+rnol). Un Cchauffernent sensible se produit. On refroidit dans la glace. 
+On laisse pendant 20 h a la ternpCrature arnbiante; rmn 31P 6: -2, Jp-H 
+= 630 HZ, -1 (lo%), -104,3 (20%), -105,4 (45%), -107,2 (15%), 
+-108 (10%). Le benzkne est chasst sous LO-2 Torr. 11 reste une 
+substance rksineuse ICgCrernent arnbrCe; rrnn 'H (60 MHz, C6D6, 
+TMS): 8,7 (s, lH, NH+), 7 et 7,5 (rn, 5H, C6HS), 5,4 (rn, IH, 
+CH-C6H5), 2,6 (q, 6H, N-CHZ, 
+= 7 Hz), 1,6 (rn, 12H, 
+C-CH3), 0,85 (t, 9H, N-CH2CH2, J = 7 Hz). Ce spectre corres-
+pond aux cornposCs 15. 
+Essai de purification: la substance prCcCdente est dissoute dans 10 
+rnL de CH,C12 puis reprCcipit6e par 20 mL d'Cther. Une huile prCcipite 
+que l'on dCcante. Le filtrat, dCbarrassC du solvant, abandonne une 
+huile Cpaisse. Les spectres rmn 3 ' ~ 
+des deux fractions ainsi obtenues 
+
+sont B peu prks les rnCrnes que celui du produit de depart. Cependant, 
+
+la quantitC de phosphonate i liaison P-H est plus importante (entre 
+
+10 et 30%). Les cornposCs 15 se dCtCriorent. Le spectre du produit brut 
+en solution dans le benzene derneure inchangC pendant plusieurs jours. 
+Spectre rmn 31P de l'essai en ['absence de triethylarnine: 6 -48, Jp-H 
+= 934 Hz (phosphorane 2d de depart). I1 reste inchange apres une 
+
+semaine B la ternpkrature arnbiante. 
+
+Deux autres essais ont Ct C effectuCs avec les rnCrnes quantitCs de 
+rCactifs, en rernplacant le benzene par le chlorure de mtthylene; rmn 
+de 3'P (apres 20 h de reaction) 6: +2, -0,5, -6, -8 (lo%), -48, 
+Jp-, = 934 HZ (15%), -101,7 (15%) -102,6 (45%), -103,5 (7%), 
+-106,2 (8%). 
+Un fractionnernent par redissolution dans CH2C1, et reprkcipitation 
+
+par 1'Cther ou l'hexane conduit B deux fractions dont les spectres de 
+rmn "P sont cornparables B celui du produit brut. Ce dernier reste 
+
+stable en solution et s'altkre assez rapidernent une fois isole (augrnen-
+
+tation sensible du taux des phosphonates i liaison P-H). 
+
+Le spectre de rrnn de "P des rnClanges (2d + PhCOCOOH) dans 
+
+CH2CIZ prksente le doublet P-H du phosphorane de dCpart (S3'P: 
+-48, J,-, = 934 Hz). Vingt jours plus tard, ce doublet reste rnajo-
+
+ritaire. On note la prCsence de signaux larges a 6 + 7, J,-, = 727 
+
+Hz. 
+
+Remerciement 
+Nous remercions MM. Tran et Dall'ava pour leur collabo-
+
+ration technique. 
+
+1. B. GARRIGUES, D. BOYER et A. MUNOZ. Can. J. Chern. 62,2170 
+(1984). 
+2. A. MUNOZ, M. SANCHEZ, M. KOENIG et R. WOLF. Bull. Soc. 
+Chirn. Fr. 2193 (1974). 
+3. R. F. HUDSON et C. BROWN. ACC. Chern. Res. 5, 204 (1972). 
+4. P. SAVIGNAC, B. RICHARD, Y. LEROUX et R. BURGADA. J. Or-
+ganornetal. Chern. 93, 331 (1975). 
+5. M. SANCHEZ, J. F. BRAZIER, D. HOUALLA et R. WOLF. Nouv. J. 
+Chirn. 3, 775 (1979). 
+6. A. W. HOFMANN. Justus Liebigs Ann. Chem. Suppl. 1, l(1861); 
+K. A. JENSEN. J. Prakt. Chern. 148, 101 (1937); T. N. MARGULIS 
+et D. H. TEMPLETON. J. Chern. Phys. 36, 2311 (1962); M. A. 
+PUDOVIK, L. K. KIBARDINA, I. A. ALEKSANDROVA, V. K. KHAI-
+RULLEN et A. N. PUDOVICK. Zh. Obshch. Khirn. Traduc. Angl. 
+51, 23 (1981); 0 . DAHL. Acta. Chern. Scand. 25, 3163 (1971) et 
+rCfCrences incluses; E. NIECKE et R. RiJGER. Angew. Chern. Int. 
+Ed. Engl. 21, 62 (1982). 
+7. G. OERTEL, M. MALZ et H. HOLTSCHMIDT. Ber. 97,89 1 (1964); 
+K. A. JENSEN et 0. DAHL. Acta. Chern. Scand. 24, 1179 (1970); 
+H. J. VEITER et H. NOTH. Chern. Ber. 96, 1308 (1963); H. 
+BOUDJEBEL, H. GON~ALVES et F. MATHIS. Bull. Soc. Chirn. Fr. 
+1671 (1974). 
+8. R. G. CAVELL, K. I. THE et L. VANDEGRIEND. Inorg. Chern. 20, 
+3813 (1981). 
+9. A. DUBOURG, R. ROQUES, G. GERMAIN, 1. P. DECLERCQ. A. 
+MUNOZ, A. KLAEBE. B. GARRIGUES et R. WOLF. Phosphorus 
+Sulfur, 14, 121 (1982). 
+10. Y. OGATA et M. J. YAMASHITA. J. Am. Chern. Soc. 92, 4670 
+(1970); J. Org. Chern. 38, 3423 (1973) et rCfCrences incluses. 
+1 I. T. SAEGUSA, S. KOBAYASHI, Y. KIMURA et T. YOKOYAMA. 
+J. Am. Chern. Soc. 98, 7843 (1976). 
+12. (a) M. KOENIG, A. MUNOZ, D. HOUALLA et R. WOLF. J. Chern. 
+Soc. Chern. Comrnun. 182 (1974); (b) M. KOENIG, A. KLAEBE, 
+A. M u ~o z et R. WOLF. J. Chern. Soc. Perkin Trans. 2, 40 
+(1979). 
+13. A. M u ~o z , 
+B. GARRIGUES et R. WOLF. Phosphorus Sulfur, 4, 
+47, (1978). 
+14. G. BOEKESTEIN, W. G. VONCKEN, E. H. JANSEN et H. M. BUCK. 
+Recl. Trav. Chirn. Pays-Bas, 23, 69 (1974). 
+15. (a) M. WIEBER et K. FOROUGHI. Angew. Chern. Int. Ed. Engl. 
+12, 419 (1973); (b) C. MALAVAUD, Y. CHARBONNEL et J. BAR-
+RANS. Tetrahedron Lett. 497 (1975). 
+16. E. FLUCK et M. VARGAS. Z. Anorg. Allg. Chern. 437,53 (1977); 
+E. V. HINR~CHS et I. UGI. J. Chem. Res. (S), 338 (1978). 
+17. B. GARRIGUES, A. MUNOZ, M. KOENIG, M. SANCHEZ et R. 
+WOLF. Tetrahedron, 33, 635 (1977). 
+18. P. PIRET, Y. GOBILLON et M. VAN MURSSCHE. Bull. Soc. Chirn. 
+Fr. 205 (1963). 
+19. J. DELPUECH, M. KHADDAR, A. PEGUY et P. RUBINI. J. Am. 
+Chern. Soc. 97, 3373 (1975). 
+20. A. MUNOZ, L. LAMANDE. M. KOENIG. R. WOLF et J. BROSSAS. 
+Phosphorus Sulfur, 11, 71 (1981). 
+21. R. GARNSEY et J . E. PRUE. Trans. Faraday. Soc. 64, 1206 
+(1968). 
+22. B. GARRIGUES, M. KOENIG et A. MUNOZ. Tetrahedron Lett. 4205 
+(1 979). 
+23. B. GARRIGUES et A. MUNOZ. C. R. Acad. Sci. Paris, 293, 677 
+(1981). 
+
+Can. J. Chem. Downloaded from www.nrcresearchpress.com by 87.160.185.190 on 03/27/14 
+
+For personal use only. 
+
+
+
+	
+

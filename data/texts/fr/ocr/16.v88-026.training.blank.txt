@@ -1,0 +1,742 @@
+
+	
+
+		
+
+	
+
+	
+
+Syntheses des alkyl-1 cyclanols fonctionnalises aux positions a, P et y 
+
+de la chaine hydrocarbonee 
+
+P. CANONNE, M. BELLEY, G. FYTAS ET J. PLAMONDON 
+
+Dipartement de chirnie. Faculte' des sciences et de genie, Urziversite' Laval, Quebec (Quebec), Canada G I K 7P4 
+
+Requ le 16 mars 1987 
+
+P. CANONNE, M. BELLEY, G. FYTAS et J. PLAMONDON. Can. J. Chem. 66, 168 (1988). 
+Nous avons mis au point une synthese gCnCrale, efficace et a hauts rendements des N,N-dialkylaminoalkyl-, chloroalkyl-, 
+phCnoxyalkyl-, thiophCnoxyakyl-, diCthoxyalky1-et dithiolane-1,3 alkylcyclanols par action des a,w-bis(bromomagnCsio)alkanes 
+sur les esters fonctionnalisCs correspondants. 
+
+P. CANONNE, M. BELLEY, G. FYTAS, and J. PLAMONDON. Can. J. Chem. 66, 168 (1988). 
+We have developed a general and versatile synthesis of N,N-dialkylaminoalkyl-, I-chloroalkyl-, 1-phenoxyalkyl-, 
+1-thiophenoxyalkyl-, I-diethyoxyalkyl-, and 1 -(I ,3-dithiolane)alkylcyclanols in good yields by the reaction of a,w-bis(bromo-
+magnesio)alkanes with the corresponding functionalized carboxylic acid esters. 
+
+Plusieurs mtthodes de syntheses d'aminoalkyl-1 cyclanols 
+ont tte raportees dans la litterature (1, 2), mais ces mCthodes 
+mettent en jeu des transformations subskquentes des cyclanones 
+correspondantes nkcessitant parfois des reactifs cofiteux. 
+GCneralement, !'introduction du groupement amino s'effec-
+tue par trois voies differentes, selon la longueur de la chaine 
+aminoalkylte desiree. Par exemple, les a-aminoalkylcyclanols 
+sont plus facilement accessibles par modification des cyan-
+hydrines (3) ou des enamines (4) que les P-aminoalkylcyclanols, 
+car ces derniers ne peuvent Ctre formes que par des reactions 
+plus ClaborCes effectuees sur la chaine hydrocarbonCe (5). 
+Enfin, la synthese des y-aminoalkylcyclanols semble Ctre 
+encore plus difficile, car les rCsultats obtenus, lors des etudes 
+prCcCdemment rkalisees, montrent que les rendements rCaction-
+nels sont faibles (6). &gt; , 
+Nous avons alors pens6 que notre methode, basCe sur l'utili-
+sation des a,w-bis(bromomagnesio)alcanes (7), conduirait aux 
+com~osCs dCsir6s avec des bons rendements. L'examen de 
+l'ensemble des rCsultats que nous avons obtenus par l'action de 
+ces organodimagnCsiens sur les lactones (8) et anhydrides des 
+acides dicarboxyliques (9), nous suggere de ne pas vouloir tenir 
+compte de ceux d6jB rapportCs dans la 1ittCrature (10) en utilisant 
+quelques aminoesters avec ces mCmes rCactifs. En effet, les 
+rendements obtenus par ces auteurs sont anormalement trop 
+faibles et il nous est difficile d'attribuer un r61e important i la 
+presence de l'azote ou i la basicit6 de l'amine qui auraient 
+influencC grandement le cours de cette reaction. Rappelons que 
+dans une rCcente publication nous avons dCmontrt que les 
+isoxazolones-5 encombrkes fournissent les P-hydroxyoximes 
+a,a-bisubstitukes (1 1) avec de tres bons rendements par la 
+rCaction du bis(bromomagnCsio)-1,4 butane. 
+La question se posa alors i savoir, si les dialkylaminoalkyles-
+ters utilisCs dans les conditions des rkactions dlannClation que 
+nous avons mises au point, fourniraient d'aussi bons rCsultats 
+ou s'ils prksenteraient des particularitCs distinctes qui dimi-
+nueraient 17efficacitC de notre mCthode. 
+Dans ce but, nous avons alors entrepris la prksente Ctude en 
+utilisant systCmatiquement divers types d'aminoesters (1-10) 
+constituant ainsi une sene homogene. Nous avons repris 
+
+certains a -et P-N,N-dialkylaminoalkylesters que ces auteurs 
+
+avaient utilisCs mais aussi des y-aminoalkylesters afin de 
+demontrer l'influence Cventuelle de la position de l'azote et de 
+la basicitt de l'amine sur les reactions de Grignard inter-et 
+intramolCculaires (SchCma I). 
+La synthese des a-et p-aminoesters a Ct C effectuee, d'une 
+
+HO. 
+
+,(C 
+
+R 
+
+\ 
+N = ditthylamino 
+
+R/ 
+
+pyrolidinyle 
+piperidinyle 
+morpholinyle 
+
+part, a partir des halogCnoesters par substitution nuclCophile 
+(12) et, d'autre part, i partir du propCnoate d'Cthyle par addition 
+conjuguCe d'amines secondaires (1 3). 
+Le bis(bromomagnesio)-l,4 butane a Ct C prCparC dans le 
+THF en prCsence d'un exces de tournures de magnCsium et ses 
+rkactions avec les aminoesters ont fourni les aminoalkyl-1 
+cyclopentanols 11-20 avec des meilleurs rendements que celles 
+rapportCes prCcCdemment (10). Nous constatons que les fac-
+teurs ci-haut mentionnCs n'ont pas une influence considerable et 
+ainsi nous dkmontrons que la diffkrence de rendements trouvCs 
+ne peut Ctre attribuCe qu'aux conditions expCrimentales que 
+ces auteurs ont choisies, plut6t qu'a la structure des esters. 
+Ces rCsultats suggerent d'effectuer quelques rkactions sur des 
+aminoesters encombrCs tels que (pyrrolidinyl-1)-2 propanoate 
+dlCthyle (21), methyl-2 (pyrrolidinyl-1)-2 propanoate d'Cthyle 
+(22) et (morpholinyl-4)-2 propanoate d'Cthyle (23) afin de 
+cerner les limites de notre methode, i c e qui a trait l'influence de 
+l'encombrement stCrique sur la formation des cyclopentanols. 
+Nous avons alors fait rCagir le bis(bromomagnesio)-l,4 butane 
+sur les esters 21, 22 et 23 et avons constate que les amino-
+cyclopentanols 24, 25, 26 correspondants sont obtenus aussi 
+avec des bons rendements. Nous rappelons que les rendements 
+n'ont pas Ct C optimisCs et ont Ct C calculCs partir des composCs 
+dCji purifiCs (SchCma 2). 
+I1 apparait ainsi que l'encombrement stCrique influence peu le 
+Can. J. Chem. Downloaded from www.nrcresearchpress.com by 87.160.185.190 on 03/27/14 
+
+For personal use only. 
+
+
+CANONNE ET AL. 
+
+169 
+
+R' 
+
+R' 
+
+p -i -C 0 2 E t 
+
++ 
+
+3 
+
+R" 
+
+HOrcR-N 
+
+Rdt (%) 
+21 Rf=H; Rf=CH3 
+
+24 68 
+
+22 R'=RU=CH3 
+
+25 69 
+
+cours de la rCaction au niveau de la cyclisation. Les rtactions 
+compCtitives intermolCculaires ou intramoleculaires sont peu 
+favorides. En effet, nous n'avons pas trouvk en quantitt 
+appreciable ni les cCtones intermkdiaires, provenant de la 
+reaction d'knolisation. ni les aminoalcools secondaires chaine 
+ouverte provenant d'une rCaction de rCduction intramol~culaire. 
+Nous pouvons en dCduire que la rtaction d'anntlation a l'aide de 
+bis(bromomagnesio)-1,4 butane est gCnCrale et applicable aux 
+
+N,N-dialkylalkylaminoesters quelle que soit leurstructure. 
+La question se posa encore une fois B savoir si notre mCthode 
+
+est aussi gCnCrale pour la formation des cyclohexanols corres-
+pondants-en utilisant le bis(bromomagnesio)-l,5 pentane, 
+
+sachant que le cycle a six membres est plus difficile B former 
+
+par notre mtthode (1 1). 
+Nous avons alors entre~ris d'Ctudier les rtactions de cet 
+organodimagntsien avec les aminoesters 1-10 dans les mCmes 
+conditions expkrimentales et avons obsewt que les dialkyl-
+aminoalkyl-1 cyclohexanols 27-35 sont formts avec des 
+rendements 1Cgkrement plus faibles que ceux trouvCs lors de 
+la prkparation des dialkylaminoalkylcyclopentanols mais de 
+loin supCrieurs a ceux trouvks dans la litttrature (10) pour 
+l'ensemble des composCs (tableau 1). Cette diffkrence est 
+principalement due a l'encombrement stkrique au niveau du 
+carbonyle qui se traduit par la formation d'une faible quantitC 
+d'alcools secondaires a chaine ouverte (2-18%) formCs par 
+la rCaction de rCduction intramolCculaire (SchCma 3). De 
+l'ensemble des rksultats obtenus, il ressort que les rkactions 
+organodimagnCsiennes effectutes dans le tktrahydrofuranne, en 
+utilisant les conditions exptrimentales prCctdemment dCcrites 
+
+(3), sont applicables aux a-, P-et y-aminoesters. 
+
+Ce travail dCmontre que notre mkthodologie peut facilement 
+&amp;tre utilisCe pour la synthkse de divers alkyl-1 cyclanols 
+fonctionnalisCs. 
+I1 nous a semblC intiressant d'ttendre les rCactions de ces 
+organodimagnCsiens bis-primaires aux esters fonctionnalists 
+sur la chaine hydrocarbonCe par d'autres groupements impor-
+tants pour leurs applications synthktiques (Schema 4). Nous 
+avons alors dCcidC d'utiliser comme substrats, d'une part, le 
+phCnoxyacCtate d'Cthyle (36), le phknylthioacttate d'tthyle 
+(37), le chloro-2 propionate d 'Cthyle (38), le phCnoxy -2 
+propanoate d'tthyle (39) et, d'autre part, le diCthoxyacCtate 
+d'Cthyle (40) et le dithiolane-1,3 acktate d'kthyle (41). Les 
+rtsultats obtenus consignks au tableau 2 montrent que les 
+cyclanols correspondants 42-51 sont formCs avec des rende-
+ments trks satisfaisants. Les organomagnCsiens attaquent stlec-
+tivement la fonction ester plut8t que les autres fonctions. 
+
+TABLEAU 1 . Action des a,o-bis(bromomagnesio)alcanes sur les esters 
+N,N-dialkylaminoalkylcarboxyliques 
+
+R2N(CH2),,C02C2H5 R2N(CHZ),,COZCZH5 
+
++ BrMg(CH2)4MgBr + BrMg(CH?),MgBr 
+
+R2N(CH2),C02C2H5 Aminocyclopentanol Aminocyclohexanol 
+
+No 
+R2N 
+
+n 
+
+No Rdt (%) 
+No Rdt (%) 
+
+1 Pyrrolidinyle 
+2 Diperidinyle 
+3 DiCthylamino 
+4 Morpholinyle 
+5 Pyrrolidinyle 
+6 Piperidinyle 
+7 Morpholinyle 
+8 Pyrrodinyle 
+9 Piperidinyle 
+10 Morpholinyle 
+
+TABLEAU 2. (a) Action du bis(bromomagnCsio)-1,4 butane 
+sur les esters (36-41); (b) action du bis(bromomagnCsio)-1,5 
+pentane sur les esters 37 et 39 
+
+Cyclopentanols 
+
+Esters 
+
+(a) 
+36 PhCnoxyacCtate d'tthyle 
+37 PhCnylthioacCtate dlCthyle 
+38 ChloromCthylacttate dlCthyle 
+39 PhCnoxy-2 propanoate d'Cthyle 
+40 DiCthoxyacttate d'Cthyle 
+41 Dithiolane-1,3 acCtate d'Cthyle 
+
+(b) 
+37 PhCnylthioacCtate d'kthyle 
+39 PhCnoxy-2 propanoate d'Cthyle 
+Can. J. Chem. Downloaded from www.nrcresearchpress.com by 87.160.185.190 on 03/27/14 
+
+For personal use only. 
+
+
+Can. J. Chem. Downloaded from www.nrcresearchpress.com by 87.160.185.190 on 03/27/14 
+
+For personal use only. 
+
+
+3 ET AL. 
+
+17 1 
+
+on obtient le cycloalcanol par extraction a l'tther et Cvaporation du 
+solvant sous vide. 
+
+Pr&lt;paration des N,N-dialkylarninoalkylcyclopentanols 
+A une solution de bis(bromomagnCsio)-1,4 butane (1,2 Cquivalent), 
+
+on ajoute goutte a goutte un Cquivalent d'ester dissous dans 10 
+
+Cquivalents de THF anhydre i 0°C sous atmosphkre d'azote, puis on 
+laisse la rCaction se poursuivre durant 1 h 5 20-25°C. On hydrolyse i 
+
+froid par une solution saturee de chlorure d'ammonium. On extrait 
+I'Cther, on sCpare la couche ethCrCe, on skche sur sulfate de magnesium 
+et on distille sous pression reduite. 
+
+(Pyrrolidinyl-1)rnPthyl-1 cyclopentar~ol(10) (11) 
+En utilisant 4 g (26 mmol) d'ester 1 on obtient 3,2 g de (pyrrolidinyl-
+1)mCthyl-1 cyclopentanol par distillation fractionnee; Rdt = 70%; 
+Eb = 122-124°C (20Torr) (litt. (10) Eb 70°C (2Torr)); ir v,,, (film) : 
+3430, 2957, 2865, 2792 cm-'; rmn 'H (CDC13) 6 : 1,47-1,95 (12H, 
+rn, CH2 cycl.), 2,60-2,90 (6H, s, CH2-NCH2, -NCH2), 3,70 (lH, s, 
+OH) pprn; rmn I3C 6 : 80,O (C-1), 65,3 (C-If), 55,8 (C-2' et C-5"), 
+39,7 (C-2 et C-5), 24,l (C-3, C-4, C-3', C-4") ppm; sm m/e : 169,15 
+(Mf, 3,9), 84,20 (C4HsNCH2, loo%), 58,05 ( l l ) , 55,05 (12). 
+
+(Pipe'ridinyl-ljme'thyl-1 cycloper1tnnol(10) (12) 
+La reaction a Ct C effectuCe en utilisant 3,363 g (19,6 mmol) d'ester. 
+Aprks distillation, on recueille 2,5 g (72%) de (pipCridiny1-1)mCthyl-l 
+cyclopentanol; Eb = 47-49°C (24 Torr) (litt. (4) Eb 80°C (2 Torr)); 
+ir v, , , (CC14) : 3415, 2939 cm-I; rrnn 'H (CDCI,) 6 : 1,37-1.85 
+(14H, rn, CH2 cycl.), 2,36 (2H, s, NCH?), 2,40-2.65 (4H, m, 
+
+CH2N-), 3,12 (lH, s, OH) ppm; rmn I3c (CDCI,) 6 : 79,5 (C-I), 67.5 
+
+(C-1'), 56,3 (C-2", C-6"), 39,8 (C-2, C-5), 26,5 (C-3", C-5"). 24,2 
+(C-4"), 24 (C-3, C-4) ppm; sm m/e : 183,25 (M+, 1,6), 99,15 (7). 
+98,15 (C5HIONCH2, 100%), 55,05 (7). 
+
+Die'thylaminome'thyl-I cyclopentanol(10) (13) 
+En utilisant 3,243 g (20,4 mmol) de l'ester 3, aprks distillation on 
+obtient 2,350g de cyclopentanol 13; Rdt = 68%; Eb = 105-107°C 
+(20Tom); rmn 'H (CH2C12) 6 : 1,03 (6H, t, J = 7 Hz, CH3), 1,40-1,83 
+(8H, rn, CH2 cycl.), 2,53 (2H, s, NCH2), 2,60 (4H, q, J = 7 Hz, 
+CH2-CH,), 2,70 (lH, s, OH); rrnn I3C (CDC13) 6 : 79,4 (C-1), 62,6 
+(C-l '), 48,5 (CH3CH2), 39,6 (C-2, C-5), 23,9 (C-3, C-4), 12.2 
+(CH3); sm rn/e : 171,20 ( M f , 4,9), 142,15 (M -C2H5, 12), 86,15 
+(CZH5NCHZf, loo%), 58,10 (32). 
+
+(Morpholirlyl-4)rne'thyl-1 cyclopentnnol(14) 
+En utilisant 2,882 g (16,7 mmol) d'ester 4, aprks distillation on 
+obtient 2,258 g de cyclopentanol 14; Rdt = 73%; Eb = 60-62°C 
+(0,02Torr) (litt. (4) Eb 77°C (3 Torr)); ir v,,,, (CH2Cl2) : 3405, 2955, 
+2850,2870, 11 17 cm-I; rmn 'H (CDC13) 6 : 1,40-1,95 (8H, m, CH2 
+cycl.), 2,48 (2H, s, NCH20), 2,49-2,75 (4H, m, CH2N), 3,50 (IH, s, 
+OH), 3,62-3,85 (4H, m, CH2CH20) ppm; rmn I3C (CDC13) 6 : 80,O 
+(C-I), 67,6 (C-l'), 67,2 (C-2", C-6"), 55,3 (C-3", C-5'), 39,7 (C-2, 
+C-5), 23,9 (C-3, C-4) ppm; sm rnle : 185,20 (Mf, 3,1), 101,15 ( l l ) , 
+100,15 (C,HgONCH2+, 100%). 56,16 (1 1). 
+
+(Pyrrolidinyl-1)-2 Pthylcyclopentanol (15) 
+En utilisant 1,748 g (10,2 mmol) d'ester 5 on obtient, aprks 
+distillation, 1,450 g de cyclopentanol 15; Rdt = 75%; Eb = 68-70°C 
+(0,03 Torr); F = 67-68°C; irv,,,, (CH2C12) : 3190,2945,2870,2803, 
+1335,1133 crn-l;rmn 'H (CDCI,) 6 : 1,57-1,93 (14H, m, CH2cycl.), 
+2,43-2,93 (6H, m, CH2N), 6,30 (1H) ppm; rmn I3C (CDC1,) 6 : 82.6 
+(C-1), 54,l (C-2", C-5"), 53,9 (C-2'), 40,l (C-2, C-5), 37,3 (C-1'), 
+23,8 (C-3, C-4), 23,6 (C-3", C-4") ppm; sm m/e : 183,25 (M+, 2,3), 
+84,lO (C4H8NCHZf, loo%), 71,lO (12), 70,OO (9). Arlal. calcd. pour 
+CIIH21NO:C72,08,H 11,55,N7,64;tr. :C72,14, H 11,51,N7,61. 
+
+(Pipe'ridinyl-1)-2 Pthyl-I cyclopentanol(16) 
+En utilisant 1,81 g (9,80 mmol) de I'ester 6 on obtient, aprks 
+distillation, 76% (1,466 g) de (piperidinyl-1)-2 ethyl-l cyclopentanol 
+(16); Eb = 62-64°C (0,02 Torr) (litt. (10) Eb 104°C (25 Torr)); F = 
+38,5-39,5"C; ir v, , , (film) : 3206, 2922, 2841, 2798, 11 19 cm-'; 
+rmn 'H (CDC1,) 6 : 1,23-1,91 (16H, rn, CH2 cycl.), 2,30-2,77 (6H, 
+rn, CH2N), 6,63 (lH, s, OH) ppm; rmn I3C (CDC13) 6 : 82,6 (C-1), 
+
+56,9 (C-2'), 54,7 (C-2", C -6 ) , 40,l (C-2, C-5), 35,2 (C-l'), 26,2 
+(C-3", C-5"), 24,4 (C-4"), 23,8 (C-3, C-4) ppm; sm tn/e : 197,20 
+(M', 4), 98,lO (C5HloNCH2, loo%), 85,10 (14), 84,lO (1 1). 
+
+(Morpholinyl-4)-2 e'thyl-1 cycloper~tnnol (17) 
+En utilisant 1,872 g (10,OO mmol) d'ester 7 on obtient, apres de 
+distillation, 1,660 g de cyclopentanol 17; Rdt = 83%; Eb = 72-73°C 
+(0.02Torr); ir v,,, (film) : 3295,2945, 2842,2809, 1121 c m ' ; rmn 
+'H (CC14) 6 : 1,26-1,90 (IOH, m, CH2 cycl.), 2,37-2,77 (6H, m, 
+
+CH2N-0), 3,53-3,83 (4H, m), 4,97 (IH, s, OH) ppm; rmn I3c 
+
+(CDCI3) 6 : 82,7 (C-1),67,0 (C-2", C -6 ) , 56,6 (C-2'), 53,8 (C-3", 
+C-5"), 40,l (C-2, C-5), 35,O (C-l '), 23,8 (C-3, C-4) ppm; sm m/e : 
+199,20 (M -15), 100,15 (C4HsONCH2', loo%), 87,lO (16), 57,05 
+(lo), 55,95 (13). Atlnl. calc. pour CllHI2NO2 : C 66,29, H 10,62, 
+N 7,02; tr. : C 66,32, H 10,75, N 7,l I. 
+
+(Pyrrolidinyl-1)-3 propyl-1 c)~clopentnnol(18) 
+En utilisant 1,839 g (9,92 mmol) d'ester 8 on obtient, aprks 
+distillation, 1,611 g de cyclopentanol 18; Rdt = 82%; Eb = 78-80°C 
+(0,02 Torr); F = 33,5-35,0°C; ir v,,,, (film) : 3390, 2950, 2867, 
+2787, 1137 cm-'; rmn 'H (CDC1,) 6 : 1,43-1,97 (16H, m, CH2 
+cycl.), 2,40-2,73 (6H, s, CH2N), 6,77 (IH, s, OH) ppm; rmn "C 
+(CDCI,) 6 : 80,3 (C-1), 57,l (C-3'), 53,8 (C-2", C-5"), 41,6 (C-1'), 
+40,3 (C-2), 24,7,24,3, 23,5 ppm; sm m/e : 197,25 (Mi , 1,3), 85.10 
+(7), 84,20 (C,H~NCH~+, loo%), 70,lO (7), 55,05 (11). Annl. calc. 
+pour CI2Hz3NO : C 73,05, H 11,75, N 7,09; tr. : C 72,98, H 11,71, 
+N 6,98. 
+
+(Pipe'ridinyl-1)-3 propyl-1 cyclopentanol(19) 
+En utilisant 2,018 g (10,2 mmol) d'ester 9 on obtient, apres 
+distillation, 1,811 g de cyclopentanol 19; Rdt = 84%; Eb = 75-
+77°C (0,03 Torr) (litt. (14a) Eb 107-109°C (2 Torr)); F = 40-41°C; 
+ir v,,,, (film) : 3380, 3110, 2918, 2842, 2787, 2757 cm-'; rmn 'H 
+(CDC13) 6 : 1,25-1,90 (18H, m, CH2 cycl.), 2,24-2,60 (6H, m, 
+CH2), 6,78 (lH, s, OH) ppm; rmn I3C (CDC13) 6 : 80,3, 59,9, 54,5, 
+41,9,40,3, 25,6, 24,4, 24,3, 22,8 ppm; srn m/e : 215,15 (M+, 1,7), 
+98,15 (C5HIONCHZf, loo%), 84,15 (a), 55,10 (9). 
+
+(Morpholinyl-4)-3 propyl-1 cyclopentar~ol(10) (20) 
+En utilisant 2,0240 (10,l mmol) d'ester 10 on obtient, apres 
+distillation, 1,770 g de cyclopentanol 20; Rdt = 82%; Eb = 92-94°C 
+(0,03Tom); F = 49,5-50°C; ir v, , , 
+(film) : 3420, 3150, 2948, 2862, 
+2844, 2802, 1269, 1132 cm-' ; rmn I H (CDCI,) 6 : 1.30-1,35 (12H, 
+m, CH2 cycl.), 2,30-2,67 (6H, rn, CHZN), 3,60-3,87 (4H, m, 
+CH2-0), 5,50 (IH, s, OH) ppm; rmn I3C (CDCI,) 6 : 80,7,66,7,59,6, 
+53,6,41,0,40,2,24,1,22,0ppm;sm rn/e:213,30(Mf, 2,0), 100,20 
+(C4H80NCH2+, loo%), 56,10 (13), 55.10 (14). Anal. calc. pour 
+C12H23N02:C67,57,H 10,87,N6,56;tr. :C67,52, H 10,83,N6,62. 
+
+(Pyrrolidinyl-1)-1 Pthyl-1 cyclopentattol(24) 
+En utilisant 2,917 g (17,8 mmol) d'ester 21 on obtient, aprks 
+distillation, 2,128 g de cyclopentanol24; Rdt = 71%; Eb = 56-58°C 
+(0,03 Tom); ir v, , , 
+(film) : 3375, 3060, 2875, 2805 cm-'; rmn 
+'H (CDC1,) 6 : 0,93 (3H, d, J = 7 Hz, CH3), 1,27-2,97 (12H, rn, 
+CH2 cycl.), 2,43-2,83 (4H, S, CH2), 2,97 (IH, q, CHN), 4,73 
+(IH, s, OH) ppm; rmn I3C (CDC13) 6 : 82,4 (C-l), 61,5 (C-1), 4 9 3 
+(C-2", C-5"), 39,1 (C-5), 35,8 (C-2), 25,2 (C-4), 24,2 (C-3), 24,O 
+(C-3", C-4"), 7,4 (C-2') ppm; sm m/e : 183,25 (M+, 0,8), 28,20 
+(C4H8NCH+CH3, loo%), 55,lO (1 1). Anal. calc. pour CI IH21N0 : 
+C78,08, H 11,55, N7,64; tr.: C71,95, H 11,59, N7,55. 
+
+(Me'thyl-1)-pyrrolidinyl-1 e'thyl-1 cyclopentanol (25) 
+En utilisant 1,995 (10,9 mrnol) de methyl-2 pyrrolidinyl-2 propa-
+noate d'ithyle (22), on obtient aprks distillation, 1,446 g de (mCthyl-
+1)-pyrrolidinyl-1 Cthyl-1 cyclopentanol (24); Rdt = 72%; Ed = 
+58-60°C (0,05 Torr); ir v,,,, (film) : 3360, 2978, 2869, 2812, 1173, 
+1013cm-'; rmn 'H (CDC1,) 6 : 1,07 (6H, s, CH3), 1,23-1,87 (12H, 
+m, CH2 cycl.), 2,50-2,83 (4H, m, CHZO), 4,65 (IH, s, OH) ppm; 
+rmn I3C (CDCI,) 6 : 85,2 (C-1), 60,8 (C-l'), 47,6 (C-2", C-5"), 37,5 
+(C-2, C-5), 24,4 (C-3, C-4), 19,l (CH,); sm m/e: 197,35 (M+, 0,1), 
+113,20 (7), 112,lO (C4H8NC+(CH3),, loo%), 70,15 (17), 55 (8). 
+
+Can. J. Chem. Downloaded from www.nrcresearchpress.com by 87.160.185.190 on 03/27/14 
+
+For personal use only. 
+
+
+172 
+
+CAN. J . CHEM. VOL. 66, 1988 
+
+(Morpholinyl-4)-1 e'thyl-1 cycloper1tanol(26) 
+En utilisant 2,706 g (14,O rnmol) d'ester 23 on obtient aprks 
+purification 2,280 g de cyclopentanol26; Rdt = 80%; Eb = 8 1-83°C 
+(0,03 Tom); ir v,,, (film) : 3955, 2955, 2845, 1 1 18 crn-' ; rrnn 'H 
+(CDC13) 6 : 1,00 (3H, d, J = 7 Hz, CH3CH), 1,33-1,90 (8H, m, CH2 
+cycl.), 2,30-2,90 (5H, rn, CH,N, CH2N), 3,73 (4H, t, J = 4,5 Hz, 
+CH20), 4,63 (IH, s, 0H)pprn; rmn I3C (CDC13) 6 : 82,3 (C-I), 67,5 
+(C-2", C-6), 66,4 (C-l'), 50,5 (C-3", C-5"), 39,2 (C-5), 35,7 (C-2), 
+25,2 (C-4), 23,6 (C-3), 7,4 (C-2') pprn; srn m / e : 199,25 ( M + , 1,0), 
+115,20 (7), 1 14,10(C4HgONCHfCH3, loo%), 70,15 (6). Anal. calc. 
+pour CIlHzlNO2: C 66,29, H 10,62, N 7,02; tr. : C 66,19, H 10,72, 
+N 7,15. 
+
+Pre'paration des N, N -dialkylaminoalkylcyclohe'xanols 
+En suivant le rnCme mode opkratoire que pour la prkparation des 
+
+N,N-dialkylcyclopentanols, on constate que le produit brut contient 
+
+des quantitCs variant de 2 a 18% d'alcools secondaires insaturks. La 
+sCparation s'est avCrCe difficile dans certains cas. La spectroscopie de 
+rmn 'H rnontre des faibles quantitks d'alcool insaturC rnCme aprks 
+purification des aminoalkylcyclopentanols liquides. 
+
+(Pyrrolidinyl-1)mPthyl-1 cyclohexanol(10) (27) 
+En utilisant 1,852 (1 1,9 mrnol) de l'ester 1 on obtient, aprks 
+distillation, 1,356 g de cyclohexanol 27; Rdt = 66%; Eb = 62-65°C 
+(0,2 Tom); ir v,,, (CH2CI2) : 3420, 2930, 2848, 2800 crn-'; rrnn 
+IH (CDCI,) 6 : 1,lO-1,93 (14H, rn, CH2), 2,45 (2H, s, NCH,COH), 
+2,50-2,83 (4H, rn, CH2N), 3,47 (lH, s, OH) pprn; rrnn I3C (CDCI3) 
+6 : 70,O (C-I), 66,6 (C-1 '), 56,9 (C-2", C-5"), 37,2 (C-2, C-6), 26,O 
+(C-4), 24,3 (C-3", C-4"), 22,3 (C-3, C-5); ms m / e : 183,20 ( M f , 3, I), 
+85,15 (9), 84,15 (C4H8NCH2, loo%), 55,15 (9). 
+
+(Pipe'ridinyl-1)me'thyl-1 cyclohexanol(J0) ( 2 8 ) 
+En utilisant 3,802 g (22,2 mmol) de I'ester 2 on obtient, aprks 
+distillation, 1,601 g de cyclohexanol 28; Rdt = 68%; Eb = 56-58°C 
+(0,02 Tom); ir v,,, (film) : 3440, 2922, 2847, 2790, 11 I0 cm-I; 
+
+rmn 'H (CDCI3) 6 : 1,46 (16H, rn, CH2 cycl.), 2,27 (2H, s, CH2N), 
+
+2,43-2,70 (4H, m, CH2N), 3,45 (1 H, s, OH) pprn; rrnn I3c (CDCI3) 
+
+6 : 70,OO (C-I), 68,4 (C-If), 57,5 (C-2", C-6"), 37,2 (C-2, C-6), 26,6 
+(C-3", C-5"), 26,l (C-4), 24,l (C-4"), 22,4 (C-3, C-5) ppm; srn m / e : 
+197,30 (M+, 2), 99,15 (8), 98,15 (C5HloNCH2+, 100%). 55,05. 
+
+(Morpholirlyl-4)tnPthyl-1 cyclohexanol(29) 
+En utilisant 1,732 g (10,O rnrnol) de l'ester 4 on recueille 1,366 g de 
+cornposC 29; Rdt = 70%; Eb = 77-78°C (0,03 Tom); ir v,,, (filrn) : 
+
+3460, 2923, 2844, 2802, 1120, 1010 crn-'; rrnn 'H (CDCI3) 6 : 
+
+1,33-1,70 (lOH, m, CH, cycl.), 2,33 (2H, s, NCH,), 2,50-2,73 
+(4H, m, CH2N), 3,03 (lH, s, OH), 3,60-3,90 (4H, rn, CH20) ppm; 
+rmn I3C (CDC13) 6 : 70,6 (C-I), 68,5 (C-l'), 67,4 (C-2", C-6"), 
+56,3 (C-3", C-5"), 37,O (C-2, C-6), 26,O (C-4), 22,2 (C-3, C-5) pprn; 
+sm m/e : 199,30 (M+, 2,5), 101,15 (12), 100,15 (C4HgONCHyF, 
+100%). 56,05 (14). Anal. calc. pour CIIH21N02 : C 66,29, H 10,62, 
+N7,02; tr. : C 66,20, H 10,49, N 6,98. 
+
+(Pyrrolidinyl-1)-2 e'thyl-J cyclohexanol(30) 
+En utilisant 2,002 g (1 1,7 rnrnol) de l'ester 5 on recueille, aprks 
+distillation, 1,410 de l'aminocyclohexanol 30; Rdt = 65%; Eb = 
+71-72°C (0,04 Tom); F = 46,5-47,5"C; ir v,,, (CH2CI2) : 3200, 
+2936, 2860, 2809 crn-'; rmn 'H (CDCI3) 6 : 1,17-1,93 (16H, m, 
+CH2 cycl.), 2,42-2,90 (6H, m, CH2N), 6,27 (lH, s, OH) pprn; 
+
+rmn I3c (CDC13) 6 : 71,6 (C-l), 54,l (C-2", C-5"), 51,7 (C-2'), 38,3 
+
+(C-2, C-6), 37,6 (C-1'), 26.3 (C-4), 23,6 (C-3", C-4"), 22,4 (C-3, 
+C-5) pprn; rns m / e : 197,25 (M', 3,7), 85,05 (6), 84,15 (CJH~NCH~', 
+loo%), 71,70 (5), 70,lO (61, 55,15 (7). Anal. calc. pour CI2Hz3NO: 
+C73,04,H 11,75,N7,10;tr.:C72,98,H 11,79, N 7 , l l . 
+
+(Pipe'ridinyl-1)-2 e'thyl-1 cyclohexanol(31) 
+En utilisant 1,927 g (10,4 rnmol) de l'ester 6 on obtient aprts 
+purification 1,406 g de cristaux blancs; Rdt = 70%; Eb = 67-69°C 
+(0,03 Tom) (litt. (10) Eb 1 15°C (2,9 Tom)); F = 46,O-48,0°C; ir v,,, 
+(film) : 3220,2923,2848,2810,2758, 11 19 cm-'; rmn IH (CDC13) 6 : 
+1,28-1,87 (18H, m, CH2 cycl.), 2,33-2,77 (7H, m, CH2N) ppm; 
+
+rmn I3c (CDC13) 6 : 71,6 (C-1), 54,8 (C-2', C-2", C-6'7, 38,5 (C-2, 
+
+(Morpholinyl-4)-2 e'thyl-1 cyclohe.xanol(32) 
+En utilisant 1,872 g (10,O mmol) de I'ester 7 on obtient aprks 
+purification 68% (1,670 g) d'arninocyclohexanol 32; Eb = 91-93°C 
+(0,08 Tom); F = 37,5-39,O"C; ir v,,,, (filrn) : 3350, 2921, 2845, 
+2810, 1436, 1135, 1020, 1008 crn-' ; rmn 'H (CDCI,) 6 : 1,23-1,77 
+(12H, CH2 cycl.), 2,43-2,77 (7H, rn, CH2N), 3,64-3,86 (4H, rn, 
+
+CH20)pprn; rrnn I3c (CDC13) 6 : 71,6 (C-I), 67,O (C-2", C -6 ) , 54,6 
+
+(C-2'), 53,s (C-3", C-5"), 38,3 (C-2, C-6), 35,3 (C-If), 26,2 (C-4), 
+22,3 (C-3, C-5); sm m/e : 213,20 (M+, 3,0), 100,20 (C4H80NCH2', 
+loo%), 56,lO (10). Anal. calc. pour C12Hz3N02: C 67,57, H 10,87, 
+N 6,56; tr. : C 67,6, H 10,79, N 6,61. 
+
+(Pyrrolidinyl-1)-3 propyl-1 cyclohexanol(33) 
+En utilisant 1,872 g (10,O mrnol) de l'ester 8 on obtient aprts 
+purification 1,460 g d'aminocyclohexanol 33; Rdt = 67%; Eb = 
+85-87°C (0,03 Tom); ir v,,, (film) : 3100, 3025, 2928, 2870, 2833, 
+2799, 1458, 1442 crn-'; rmn 'H (CDCI3) 6 : 1,17-1,97 (18H, m, 
+CH2 cycl.), 2,33-2,77 (6H, m, CH2N), 5,70 (lH, s, OH) ppm; rrnn 
+
+13c (CHCI3) 6 : 69,3 (C-I), 57,l (C-3'), 53,9 (C-2", C-5"), 41,4 
+
+(C-1'), 38,2 (C-2, C-6), 26,3 (C-4), 23,5 (C-3", C-4"), 22,6 (C-3, C-5, 
+C-2') pprn; sm m / e : 21 1,15 (M', 1,9), 84,15 (C4HgNCH2+, loo%), 
+55,lO (10). Anal. calc. pour CI3Hz5NO: C 73,88, H 11,92, N 6,62; 
+tr. : C 73,80, H 11,98, N 6,67. 
+
+(Pipe'ridinyl-1)-3 propyl-1 cyclohenanol ( 3 4 ) 
+En utilisant 1,955 g (10,O rnrnol) de I'ester 9 on recueille, aprks 
+distillation, 68% de cyclohexanol 34; Eb = 86-87°C (0,05 Tom) 
+(litt. (14a) Eb 122-123°C (2Tom)); ir v,,, (filrn) : 3380, 3120,2922, 
+
+2843, 2795, 2760, 729 crn-l; rmn 'H (CDC13) 6 : 1,20-1,80 (20H, 
+
+rn, CH2 cycl.), 2,20-2,57 (6H, rn, CH2N), 5,95 (lH, s, OH) ppm; 
+rmn I3C (CDC13) 6 : 69,l (C-1), 59,9 (C-3'), 54,6 (C-2", C-6). 41,7 
+(C-1), 38.3 (C-2, C-6), 26,3 (C-4), 25,6 (C-3", C-5"), 24,4 (C-4"), 
+
+22,6 (C-3, C-5), 20 (C-2') pprn; srn m l e : 225,25 (M', 2, l), 99,15 (6), 
+
+98,15 (C5HloCH2+, loo%), 84,15 (6), 55,10 (8). Anal. calc. pour 
+CI4Hz7NO: C 74,61, H 12,08, N 6,21; tr. : 7439, H 12,05, N 6.17. 
+
+(Morpholinyl-4)-3 propyl-J cyclohexanol(35) 
+En utilisant 2,088 g (10,4 rnrnol) de l'ester 10 on recueille, aprks 
+distillation, 2,086 g decyclohexanol35; Rdt = 75%; Eb = 106-107°C 
+(0,03 Tom); ir v,,, (film) : 3440, 2929, 2850, 2804, 1120 crn-I; 
+rmn 'H (CDC13) 6 : 1 ,lo-1,85 (14H, rn, CH2 cycl.), 2,30-2,67 (6H, 
+
+rn, CH2N), 3,60-3,87 (4H, rn, CH20), 5,00 (IH, s, OH); rmn I3c 
+
+(CDCI,) 6 : 69,8 (C-I), 66,7 (C-2", C-6"), 59,8 (C-3'), 53,8 (C-3", 
+C-5"), 41 ,O (C-l'), 38,l (C-2, C-5), 26,l (C-4), 22,5 (C-3, C-5), 20,O 
+((2-2') pprn. Anal. calc. pour C,,H,,NO, : C 68,68, H 1 1,08, N 6,16; 
+tr.:C68,45,H 11,16,N6,11. 
+
+Phe'noxymPthylcyclopentanol(42) 
+En utilisant 1,915 g (10,6 mrnol) d'ester 36 on obtient 1,526 g de 
+cyclopentanol 42; Rdt = 80%; Eb = 80-81°C (0,05 Tom); F = 
+47-48°C; ir v,,, (film) : 3430, 2960,2862, 1602, 1590, 1498, 1249, 
+1044, 757, 694crn-'; rrnn I H (CDC13) 6 : 1,87 (8H, m, CH2 cycl.), 
+2,30 (lH, s, OH), 3,93 (2H, s, CH,O), 6,83-7,53 (5H, m, 4 
+
+arornatiques) ppm; rmn I3c (CDCI3) 6 : 159,3 (C-I"), 129,7 (C-3", 
+
+C-6), 121,2(C-4"), 115,O(C-2",C-6), 81,4(C-l), 75,O(C-l'), 37,5 
+
+(C-2, C-5), 24,4 (C-3, C-4); ms m / e : 193,20 ( M + 1, 7,8), 192,30 
+
+(M+, 15,7), 108,lO (C6H50CH3, loo%), 94,20 (CcjH@H+, 71), 85, 
+77,15, 67,15, 65,20, 51,20. Anal. calc. pour CI2H1602 : C 74,96, 
+H 8,39; tr. : C 74,81, H 8,28. 
+
+Phe'nylrhiome'thyl-1 cyclopentanol ( 4 3 ) 
+En utilisant 2,085 g (10,6 mmol) d'ester 37 on recueille 1,856 g de 
+cyclopentanol43; Rdt = 84%; Eb = 108-1 10°C (0,03 Tom); ir v,,, 
+(film) : 3427, 2958, 2862, 1579, 1474, 1000, 737, 688 cm-'; rmn 
+'H (CDCI3) 6 : 1,70 (8H, rn, CH2 cycl.), 2,20 (lH, s, OH), 3,27 (2H, 
+s, CH2S), 7,20-7,63 (5H, rn, arornatiques) pprn; rmn I3C (CDCI3) 6 : 
+137,3 (C-1), 129,9 (C-3", C-5), 129,l (C-2", C-6"), 126,4 (C-4'), 8 1,9 
+
+Can. J. Chem. Downloaded from www.nrcresearchpress.com by 87.160.185.190 on 03/27/14 
+
+For personal use only. 
+
+
+CANONNE ET AL. 
+
+173 
+
+(C-I), 46,8 (C-1'), 3 9 3 (C-2, C-5), 24,l (C-3, C-4) ppm; sm m / e : 
+
+209,15 (M + 1, 2), 208,15 (M', 14), 124,15 (C6H5CH3+, 21), 78,15 
+
+(C&amp;5+, l l ) , 77,15 (C6H5, 13), 67,15 (21), 65,20 (C6Hst, 15), 57,20 
+(11), 51,20 (14). Anal. calc. pour CI2HI60S : C 69,18, H 7,74; tr. : 
+C 69,27, H 7,70. 
+
+ChloromPthyl-1 cyclopentanol (44) 
+En utilisant 4,80 g (39,2 mmol) de chloroacCtate d'Cthyle (38) on 
+obtient 3,203 g de cyclopentanol 44; Rdt = 67%; Eb = 60-62°C 
+(7 Torr) (litt. (146) Eb 57758°C (6 Torr)); ir v,,,,, (film) : 3400, 2955, 
+2869, 1437, 1322, 1285, 1249, 1217, 1188, 1066, 990, 727 cm-'; 
+rmn 'H (CDC13) 6 : 1,55-1,90 (8H, m, CH2 cycl.), 2,23 (IH, s, OH), 
+3,62 (2H, s, CH2C1) ppm; rmn I3C (CDC13) 6 : 81,9 (C-I), 54,2 
+(C-l'), 38,3 (C-2, C-5), 24,4 (C-3, C-4) ppm; sm mle: 136,5 
+
+(M+ + 2, 0,4), 134,25 (M+, 1,4), 107,lO (C4H6O37C1, 12), 105,lO 
+
+(C4H6O35C1, 37), 92,lO (27), 85,25 (C3HsOH+, loo%), 67,15 
+(C5H7+, 44), 57,10, 55,10, 53,lO. Anal. calc. pour C6HIIOC1 : 
+C53,53, H8,23; tr.: C53,43, H 8,15. 
+
+(PhPnoxy-1 Pthy1)-1 cyclopentanol(45) 
+En utilisant 5,00 g (26 mmol) de phCnoxy-2 propanoate d'Cthyle (39) 
+onobtient, aprbs distillation, 4,043 g de cyclopentanol45; Rdt = 87%; 
+Eb = 125°C (0,03 Torr); ir v,,,, (film) : 3450,2960,2885, 1595, 1488, 
+1447, 1288, 1240, 1170, 1050, 740 cm-' ; rmn 'H (CDC13) 6 : 1,32 
+(3H, d, CH3), 1,74 (8H, m, CH2 cycl.), 2,11 (lH, s, OH), 4,27 
+(lH, q, CHCH3), 6,72-7,45 (5H, rn, 4 aromatiques) pprn. Anal. calc. 
+pour C13Hls02: C 75,69, H 8,79; tr. : C 75,52, H 8,74. 
+
+DiPthoxymPthyl-1 cyclopentanol(46) 
+En utilisant 5,00 g (28 mmol) de diCthoxyacCtate d'Cthyle (40) on 
+recueille, aprks distillation, 4,039 g de diCthoxymCthy1-1 cyclopenta-
+no1 46; Rdt = 76%; Eb = 48°C (0,08 Torr); ir v,,,, (film) : 3460,2970, 
+2865, 1100, 1065 cm-'; rmn 'H 6 : 1,25 (6H, t, CH2-CH3), 1,44-2,00 
+(8H, m, CH2 cycl.), 2,18 (I H, s, OH), 1,47-4,10 (4H, m, CH3CH2), 
+4,38 (IH, s, OH) ppm. Anal. calc. pour C]OHZ003 : C 63,79, H 10,71; 
+tr. : C 63,71, H 10,76. 
+
+(Dithiolane-1,3)-1 cycloper~tanol(49) 
+En utilisant 3 g (27 mmol) de dithiolane-1,3 acetate dlCthyle 41 on 
+obtient, aprks distillation, 2,131 g de cyclopentanol 49; Rdt = 67%; 
+Eb = 92-94°C (0,05 Torr); ir v,,,, (film) : 3440, 2950, 2865, 1355, 
+1278, 1000 crn-'; rmn 'H (CDC13) 6 : 1,79 (8H, m, CHI cycl.), 2,28 
+(IH, s, OH), 3,27 (4H, s, CH2-CH2), 4,72 (IH, s, CH) ppm. Anal. 
+calc. pour C8HI40S2 : C 50.49, H 7.4 1 ; tr. : C 50.42, H 7.46. 
+
+PhPnylthiomCthyl-1 cyclohexanol(50) 
+En utilisant 2,085 g (10,6 mmol) de l'ester 37 on recueille, aprbs 
+distillation, 1,080 g de cyclohexanol 50; Rdt = 55%; Eb = 112°C 
+(0,02 Torr); ir v,,,, (film) : 3440, 2930, 2860, 1587, 1483, 1442, 
+1032,987, 741, 695 cm-'; rmn 'H (CDC13) 6 : 1,17-1,70 (lOH, m, 
+CH2 cycl.), 2,23 (lH, s, OH), 3,10 (2H, s, CH2S), 7,24 (5H, m, H 
+arornatiques) ppm. Anal. calc. pour C13HlsOS : C 70,22, H 8,16; tr. : 
+C 70,21, H 8,14. 
+
+(PhPnoxy-1 Pthyl-1)-1 cyclohexanol(51) 
+En utilisant 4,00 g (21 mmol) de phCnoxy-2 propanoate d'Cthyle (39) 
+on recueille, aprks distillation, 3,291 g de liquide incolore. D'aprks 
+le spectre de rrnn 'H nous obtenons une quantitC apprCciable de 
+phCnoxy-2 heptkne-6 01-3. Le rendement approximatif en (phinoxy-1 
+Cthyl-1)-1 cyclohexanol(51) est de 38%; Eb = 90-104°C (0,02 Torr); 
+ir v,,, (film) : 3430, 2940, 2865, 1605, 1500, 1245, 918, 758, 
+700 cm-'; rmn 'H (CDC13) 6 : 1,30 (3H, d, CH3), 1,62 (lOH, m, 
+OH cycl.), 2,10 (lH, s, OH), 3,71 (IH, m, CHCH,), 4,03-4,43 
+
+(lH, m, CHCH3), 6,73-7,56 (5H, m, arornatiques) ppm. Anal. calc. 
+pour CI4HZ0o2 : C 76,32, H 9,15; tr. : C 76,28, H 9,03. 
+
+Remerciements 
+
+Nous remercions le Conseil de recherches en sciences 
+naturelles et en gCnie du Canada et le Ministhe de 1'Cducation 
+du gouvemement du QuCbec pour l'aide financikre apportCe 
+sous forme de subventions et bourses. 
+
+1. (a) A. G. COOK et E. K. FIELDS. J. Org. Chem. 27,3686 (1962); 
+(b) J. MAILLARD, M. VINCENT, P. DELAUNAY, M. RAPIN et Vo 
+VAN-TRI. Bull. Soc. Chim. Fr. 1683 (1966); (c) G. F. HENNION 
+et L. PRICE. J. Org. Chem. 27, 1587 (1962). 
+2. (a) K. M ~E S C H E R ~~ 
+A. MARXER. U.S. Appl. 2,590,638,25 mars 
+1952; Chem. Abstr. 46, 1 1236b (1952). 
+3. M. A. KIRA, M. N. ABOUL-ENEIN et G. TAMMAM. J. Chem. 
+U.A.R. 11, 51 (1968); Chem. Abstr. 70, 19753 q (2969). 
+4. T. KUDO et A. NOSE. Chern. Abstr. 82, 125255m (1975). 
+5. B. V. SHETTY et T. L. THOMAS. Ger. Offen. 250953 (CI,C07C), 
+11 sept. 1975; U.S. Appl. 447804, 04 Mars 1974; Chem. Abstr. 
+84, P.58889~ (1976). 
+6. (a) M. A. GALBRAITH, J. J . HOBBS et R. A. MASSY-WESTROPP. 
+Aust. J. Chem. 16, 112 (1963); (b) R. I. KRUGLIKOVA et N. A. 
+KAMENNOV. Zh. Org. Khirn. 2, 1227 (1966). 
+7. P. CANNONE, H. CARON et G. Fosco~os. Tetrahedron, 40, 865 
+(1984). 
+8. P. CANNONE, G. B. FOSCOLOS et D. B ~L A N G E R . 
+J . Org. Chem. 
+45, 1828 (1980). 
+9. P. CANNONE, D. B ~L A N G E R , 
+G. LEMAY et G. B. Fosco~os. 
+J. Org. Chern. 46, 3091 (1981). 
+10. S. HAYASHI, M. FURAKAWA, Y. FUJINO et T. OHKAWARA. 
+Chem. Pharm. Bull. 17, 1054 (1969). 
+11. P. CANNONE, D. THIBEAULT et G. FYTAS. Tetrahedron, 42,4203 
+(1986). 
+12. (a) M. VISCONTINI et J. MEIER. Helv. Chim. Acta, 33, 1773 
+(1950); (b) J. SCHMUTZ, R. HIRT, F. KUNZLE, E. EICHENBERGER 
+et H. LAUENER. Helv. Chirn. Acta, 36, 620 (1953); (c) R. A. 
+HENRY et W. M. DEHN. J. Am. Chem. Soc. 72,2280 (1950); ( d ) 
+W. V. DRAKE et S. M. MCELVAIN. J. Am. Chem. Soc. 56, 697 
+(1934) et rCfCrences citCes. 
+13. (a) R. B. MOFFETT. J. Org. Chem. 14, 862 (1949); (b) D. W. 
+ADAMSON. J. Chem. Soc. S, 144 (1949); (c) C. A. WEISEL, R. B. 
+TAYLOR, H. S. MOSHER et F. C. WHITMORE. J. Am. Chem. Soc. 
+67, 1071 (1945). 
+14. (a) I. N. NAZAROV, R. I. KRUGLIKOVA et G. M. NIKOLAEV. Zh. 
+Obshch. Khim. 30,462 (1960); Chim. Abstr. 54,22634b (1960); 
+(b) J. G. TRAYNHAM et 0. S. PASCUAL. Tetrahedron, 7, 165 
+(1959). 
+15. B. C. BARRASS, R. W. BRIMBLECOMBE, D. C. PARKES et P. RICH. 
+Br. J. Pharmacol. 34, 345 (1968). 
+16. (a) J. MUNCH-PETERSON. ActaChem. Scand. 5,519 (1951); (b) 
+A. MOREL. Bull. Soc. Chim. Fr. 21, 968 (1899). 
+17. W. E. TRUCE et R. J. STELTENKAMP. J. Org. Chem. 27, 2816 
+(1962). 
+18. J. ATTENBURROW, J. ELKS, B. A. HEMS et K. N. SPEYER. 
+J. Chem. Soc. 510 (1949). 
+19. R. RIPPS, C. DERAPPE, M. DUPONT et M. CRUCIFIX. Chim. Ther. 
+6, 45 (1971). 
+20. B. M. TROST and H. HIEMSTRA. Tetrahedron, 42, 3323 (1986). 
+21. H. J. CRISTEAU, A. BAZHOVS, PH. MORAND et E. TONELLES. 
+Tetrahedron Lett. 27, 3009 (1986). 
+
+Can. J. Chem. Downloaded from www.nrcresearchpress.com by 87.160.185.190 on 03/27/14 
+
+For personal use only. 
+
+
+
+	
+

@@ -1,0 +1,832 @@
+
+	
+
+		
+
+	
+
+	
+
+Can. J. Chem. Downloaded from www.nrcresearchpress.com by 87.160.185.190 on 03/27/14 
+
+For personal use only. 
+
+
+MONTI ET AL. 
+
+68 1 
+
+FIG. 1. Structure molkculaire de I'isaxonine (IAP) et numkrotation 
+
+employke. 
+
+I'IAP, alors que les difftrences d'energie de ces niveaux sont 
+conservCes. Notons que pour la molecule d'IAP, calculCe en 
+CNDO/S, l'orbitale dans laquelle intervient principalement le 
+doublet libre de l'azote N, est situCe entre les niveaux IT? et ns. 
+Le mtthode CND0/2 fournit des rtsultats indiquant une 
+stabilisation apparemment plus forte des niveaux (P.I.,, = 
+
+11,lO eV), tout en perturbant leur ordre: IT, &lt; 11, &lt; tzs &lt; ITZ 
+&lt; IT. 
+
+Ainsi la mkthode CNDO/S conduit a des rtsultats plus 
+proches de ceux obtenus pour la pyrimidine a l'aide de la 
+methode ab itzirio. Cependant cette dernikre mkthode ne 
+permettait pas de rendre compte de l'ordre experimental des 
+
+potentiels d'ionisation de la pyrimidine: tz, &lt; IT, &lt; ns &lt; IT?. Du 
+
+fait de sa paramttrisation qui dkstabilise les niveaux I T , la 
+CNDO/S ne donne pas non plus le classement attendu pour la 
+moltcule d'IAP, tout en conduisant a des valeurs des Cnergies 
+plus cohtrentes que celles obtenues par CND0/2. 
+
+2. Les charges Plectroniq~les et les grarzdeurs assocites 
+(a) Les charges Plecrroniques 
+Le tableau 1 regroupe les valeurs des charges Clectroniques 
+des atomes de l'IAP, I'IAPP et de 1'IAPDP calculCes par les 
+mCthodes CNDO/2 et CNDO/S. La protonation sur les atomes 
+d'azote intracycliques est confirmee par les valeurs des densites 
+de charge en NI, N,, et N,. En effet, les deux mCthodes de 
+calcul attribuent pour la forme non protonte les charges Clectro-
+niques les plus tlevtes aux atomes NI et N3. Mais ces deux 
+valeurs, peu differentes, ne permettent pas de prtvoir le site de 
+la protonation. Cependant, le calcul effectue sur les formes 
+monoprotonte en N, et monoprotonee en N3 montre que cette 
+
+dernikre est la moins stable, ce qui donne du poids a 
+
+l'hypothkse de la protonation sur l'atome d'azote intracyclique 
+le moins encombre. De plus, la formation de la liaison N+-H 
+s'accompagne d'une diminution de la densite de charge de 
+l'azote, diminution qui est le reflet de la transformation du 
+doublet libre de I'hCtCroatome en l'orbitale a de la liaison 
+Ni-H. 
+Les protonations successives entrainent la diminution des 
+
+charges totales de tous les protons a l'exception de celle de 
+l'hydrogkne 8 de la forme IAPDP. Cette variation des charges 
+est en bon accord avec les deblindages observes en rmn pour 
+tous les protons lorsque l'on passe de la forme IAP non pro-
+tonee a la forme IAPP monoprotonte puis la forme IAPDP 
+diprotonee (3). En effet, pour des series homogknes de molC-
+cules, il est classique de considCrer que la constante d'Ccran des 
+protons dtpend essentiellement du terme diamagnetique, lui 
+m&amp;me proportionnel a la densite Clectronique du noyau (13). A 
+une diminution de la densit6 electronique correspond alors une 
+diminution de la constante d'ecran ce qui traduit bien le de-
+blindage observe par rrnn pour chacun des protons. 
+L'examen du tableau 1 fait tgalement apparaitre une dimi-
+nution de la charge totale de chacun des atomes de carbone 
+aromatique lors des protonations successives. Cette diminu-
+tion, notable pour les carbones C2, C4 ou C6 (de l'ordre de 
+-0,060 en CND0/2 et -0,080 en CNDO/S), est nettement 
+plus faible pour le carbone C5 (de l'ordre de -0,013 en 
+CND0/2 et -0,036 en CNDO/S). Des effets analogues ont 
+deja Ct C mis en Cvidence par Pugmire et al. (14) dans le cas de 
+la pyrimidine en utilisant la methode EHT ou dans le cas 
+d'hCtCrocycles azotts apparent&amp; par la methode CNDO-SCF-
+M 0 (15, 16). Mais contrairement aux protons, dans le cas des 
+atomes de carbone, il est plus difficile de relier ces variations 
+des charges aux variations des dkplacements chimiques. En 
+effet, il n'est plus possible de ntgliger I'effet des orbitales p 
+donc du terme paramagnttique de la constante d'tcran dont le 
+calcul fait intervenir les populations de liaison entre les atomes 
+voisins. Nous discuterons de la validit6 des approximations 
+mises en oeuvre pour ce calcul dans le paragraphe se rapportant 
+aux deplacements chimiques des atomes de carbone. 
+
+(b) Les dkplacetnents chirniques des protons 
+I1 est classique d'essayer de correler le dCplacement chi-
+mique des protons avec les charges tlectroniques des atomes 
+qui les portent. Dans notre cas, la corrtlation ttendue h tous les 
+protons n'est pas significative, tant en CND0/2 ( r = 0,467) 
+qu'en CNDO/S ( r = 0,678). Par contre, la corrtlation est 
+d'une bonne qualitt si l'on considkre seulement les protons de 
+I'hCttrocycle ( r = 0,969 en CND0/2; r = 0,984 en CNDO/S) 
+pour lesquels l'effet des charges sur les deplacements chi-
+miques provient essentiellement des charges 7~ ( r = 0,964 en 
+CND0/2; r = 0,974 en CNDO/S). 
+L'impossibilitt de correler les dtplacements chimiques de 
+tous les protons avec les densites de charge provient du fait que 
+celles-ci n'interviennent que pour une part dans l'expression de 
+la constante d'kcran (17-20). 
+
+ou a, est l'effet dii aux charges, acc l'effet dii au courant de 
+cycle, u c ~ 
+l'effet dO aux doublets non partagts, a , l'effet dO 2 
+l'anisotropie des hCtCroatomes et enfin as,,v, est l'effet dri B la 
+solvatation. Nous avons utilist pour le calcul de chacune de ces 
+contributions les expressions classiques suivantes (21-25): 
+Aq; cos 8; 
+
+[2] a,= 1 2 3 C 
+
+i 
+
+Ri2 
+
+ou hq,: excks de charge pr sur l'atome i ; R,: distance H ---i ; 
+
+8;: angle C-H .-. i . 
+
+oh a : rayon moyen du cycle; pN et ZN: coordonnees cylindriques 
+Can. J. Chem. Downloaded from www.nrcresearchpress.com by 87.160.185.190 on 03/27/14 
+
+For personal use only. 
+
+
+CAN. J. CHEM. VOL. 62, 1984 
+
+EXF! 
+STO-3G 
+CNDO/S 
+CNDO/2 
+
+--
+
+PYRIMIDINE 
+I.A.P. 
+
+FIG. 2. Comparaison entre les valeurs des potentiels d'ionisation de I'IAP et de la pyrimidine et diagramme des orbitales molCculaires 
+correspondantes de I'IAP. 
+
+TABLEAU I. DensitCs de charge totale et densitis de charge dans I-orbitale p, 
+
+I AP 
+IAPP 
+IAPDP 
+
+CND0/2 
+CNDO/S 
+CND0/2 
+CNDO/S 
+CND0/2 
+CNDO/S 
+
+Atomes Q T ~I . 
+
+Q,,, 
+
+Q T ~, . 
+
+Qp, 
+Q T ~, . 
+Qp, 
+Q T ~ 
+
+Pi,, 
+
+Q T ~, 
+Qp, 
+Q T ~, . 
+Qp: 
+
+N, 
+5,248 
+1,195 
+5,315 
+1,304 
+5,073 1,513 
+5,1'09 1,657 
+5,073 1,511 
+5,091 
+1,649 
+Cz 
+3,674 0,860 
+3,691 0,773 
+3,614 0,802 
+3,588 0,698 
+3,562 0,784 
+3,511 0,655 
+N3 
+5,247 
+1,195 
+5,314 
+1,303 
+5,194 1,204 
+5,283 
+1,314 
+5,076 
+1,509 
+5,097 
+1,643 
+C, 
+3,852 0,887 
+3,883 0,802 
+3,806 0,846 
+3,812 0,768 
+3,725 0,718 
+3,726 0,627 
+Cs 
+4,106 
+1 ,I 16 
+4,079 
+1,132 
+4,084 
+1,092 
+4,040 1,090 
+4,080 
+1,097 
+4,006 
+1,080 
+C6 
+3,853 0,887 
+3,885 0,802 
+3,784 0,772 
+3,783 0,658 
+3,726 0,718 
+3,729 0,626 
+H, 
+1,012 
+0,941 
+0.945 
+0,902 
+0,893 
+0,860 
+H5 
+1,000 
+0,979 
+0,930 
+0,934 
+0,867 
+0,896 
+H6 
+1,012 
+0,941 
+0,950 
+0,898 
+0,894 
+0,861 
+N7 
+5,223 
+1,779 
+5,239 
+1,820 
+5,191 
+1,707 
+5,209 
+1,758 
+5,153 
+1,616 
+5,164 
+1,675 
+CK 
+3,861 
+1,004 
+3,933 
+1,026 
+3,858 
+1,034 
+3,931 
+1,044 
+3,867 
+1,050 
+3,936 
+1,053 
+C* (CH3) 4,03 1 
+1,007 
+4,065 
+1,011 
+4,037 
+1,004 
+4,057 
+1,006 
+4,043 
+1,008 
+4,049 
+1,006 
+H7 
+0,883 
+0,862 
+0,856 
+0,845 
+0,808 
+0,813 
+H, 
+1,010 
+0,959 
+0,992 
+0,952 
+0,999 
+0,958 
+H* (CH3) 0,993 
+0,975 
+0,974 
+0,966 
+0,954 
+0,956 
+
+*Valeurs moyennes. 
+
+du proton par rapport au centre du cercle (en unit6 de rayon). 
+
+F 
+
+[4] 
+UE = -2,7 x 
+
+7 (3 cos +, cos +2 -cos +,) 
+
+R 
+
+oh +,: angle entre le moment dipolaire j 
+i dii au doublet libre de 
+
+l'azote et la direction N ... H; +2: angle entre N H et la 
+
+liaison C-H; +3: angle entre jIi et C-H. 
+
+[5] 
+
+a, = -2 x, (1 -3 cos' 0;) 
+
+3NR3 
+
+oh xi: composantes de la susceptibilitt magnttique moltculaire 
+de l'htttroatome; 0,: angle entre la direction i et la direction 
+
+N...H . 
+
+2 ( ~ 
+-l ) ( n 2 -1) 
+[6] 
+u,,~,, = -2,7 X lo-'' 
+p cos 0 
+
+3 ( 2 ~ + nz) a 
+
+oh E: constante ditlectrique du solvant; n: indice de rtfraction 
+du solutt; a : polarisabilitt du solutk; 0: angle entre et la 
+liaison C-H. 
+Nous avons rapport6 dans la figure 3 les dtplacements chi-
+
+miques exptrimentaux en fonction des constantes calcultes a 
+
+partir des rtsultats de la CNDOIS. Cette figure nous a conduit 
+encore une fois a considtrer stparement les protons de 
+l'htttrocycle de ceux de la chaine isopropylamine. On obtient 
+alors les relations lintaires suivantes: 
+
+8Hcyclc = -0,36 a + 6,44 r = 0,990 
+8Hc,8inc = -0,96 a + 2,38 r = 0,973 
+
+Les valeurs des coefficients de corrtlation, plus Clevtes que 
+prtcedemment, notamment dans le cas des protons de la chaine 
+pour lesquels aucune relation significative n'avait ttk obtenue, 
+
+traduisent l'amtlioration diie i l'introduction des termes acc, 
+
+Can. J. Chem. Downloaded from www.nrcresearchpress.com by 87.160.185.190 on 03/27/14 
+
+For personal use only. 
+
+
+MONTI ET AL. 
+
+683 
+
+IAP 
+
+0 IAPP 
+
+'-
+--. 
+? 
+
+0 IAPDP 
+
+FIG. 3. Correlation entre les dkplacements chimiques expkri-
+rnentaux des protons et les constantes d'kcran calculCes (CNDOIS). 
+
+~C E , UA, usolv.. 
+
+Ainsi, seul le calcul de tous les terrnes de la constante 
+d'tcran conduit pour les deux classes de protons a une excel-
+lente estimation des dCplacernents chirniques et de leurs vari-
+ations lors des protonations successives de la rnolCcule d'IAP. 
+Notons enfin que les rtsultats obtenus a partir des calculs de 
+la rnCthode CNDO/2 sont voisins rnais que les regressions sont 
+rno:,~s significatives. 
+(c) Les cle'placetnents chimiques des carbones 
+Dans un premier temps, nous avons essay6 d'Ctablir des 
+relations classiques entre les dtplacernents chimiques et les 
+charges tlectroniques des carbones. Aucune de ces relations ne 
+s'est rCvClCe significative. 
+Nous avons alors envisagt un calcul plus &amp;labor6 de la con-
+stante d'tcran qui peut Etre dCcornposte en une somme de 
+terrnes (26, 27): 
+
+ou udia et up:,,;, sont respectivernent les contributions dia-
+rnagnttiques et pararnagnttiques de l'atorne considtrC, u , est 
+
+la contribution due a l'anisotropie des atornes voisins et usolv, 
+
+est la contribution due au solvant. 
+La encore, les calculs n'ont pas permis d'obtenir de relations 
+forternent significatives tant pour les atornes de carbone aro-
+
+rnatique que pour les atornes de carbone aliphatique. ( r &lt; 0,94 
+
+en CNDO/S). Cet tchec sernble provenir du terrne para-
+rnagnttique dont la contribution est prtponderante (28). En 
+effet, la protonation de l'atorne d'azote conduit a une diminu-
+tion des populations des liaisons engagCes par celui-ci. Ceci a 
+pour effet de dirninuer la valeur du terrne d'tcran para-
+magnttique (16). De plus la protonation tlirnine les niveaux de 
+basse Cnergie associts aux doublets libres des atornes d'azote 
+ce qui augrnente l'tnergie rnoyenne d'excitation et dirninue 
+encore la contribution pararnagnttique (16, 17). Ces deux ef-
+fets conduisent a prtvoir pour tous les atornes de carbone un 
+dkplacernent vers les champs forts constcutif a la protonation. 
+Le calcul rend bien compte du blindage observt pour les carbo-
+nes de 1'IAPP rnais il n'est pas vtrifit expkrirnentalernent dans 
+le cas des carbones C4, C5 et C, de la rnolCcule diprotonte 
+IAPDP ni dans le cas des carbones C8 des forrnes IAPP et 
+
+IAPDP pour lesquels on observe un dtplacernent vers les 
+champs faibles lors des protonations (3). 
+I1 faut noter que Fliszar et al. (29) ont rnontrt que, dans une 
+strie de rnoltcules arornatiques, les charges u et T varient en 
+sens contraire. A ces variations sont associCes des variations 
+des dtplacernents chirniques, une diminution de la charge u se 
+traduisant par un effet de blindage. Les rtsultats portts dans le 
+tableau 1 et inteprttts selon les conclusions de Fliszar (29) nous 
+permettent de prtdire qualitativernent le blindage du carbone C2 
+lors des deux protonations et le blindage du carbone C., lors de 
+la premiere protonation puis son dtblindage lors de la seconde. 
+Cependant, il n'est pas possible de rendre cornpte des dt-
+placements chirniques des carbones C5 et C6. 
+Au contraire, dans le cas de carbones sp3, a l'augrnentation 
+de la densitt de charge de l'orbitale 2s correspond un dt-
+placement vers les champs faibles (29). Dans ces conditions les 
+variations de la charge de l'orbitale 2s des carbones des grou-
+pernents rntthyl et du carbone Cx (Tableau 2) perrnettent de 
+prCdire qualitativernent le blindage observe pour les premiers et 
+le dtblindage observt pour le dernier lors des protonations. 
+
+3. Les liaisons et les grandeurs associe'es 
+(a) Les indices de liaison 
+Plusieurs indices de liaison ont Ct C proposts par les auteurs 
+afin de rendre cornpte des liaisons dans les molCcules (30-32). 
+Nous avons pour notre part choisi d'utiliser l'indice de Wiberg 
+(30) dont l'application peut &amp;tre Ctendue au calcul de 
+l'hybridation (33). Dans le cas d'une liaison A-B, 
+l'indice 
+
+W , 
+, 
+
+est tgal a la sornrne des carres des populations tlectro-
+niques P,,, oh les orbitales atorniques p et v appartiennent aux 
+atornes A et B. 
+
+Les valeurs des indices de liaison de I'IAP, 1'IAPP et 
+I'IAPDP calcultes en utilisant les populations tlectroniques de 
+la CNDO/S sont donntes dans le tableau 3. La cornparaison 
+des indices des liaisons C-C et C-N permet de constater que 
+la valeur la plus faible est obtenue pour la liaison N7-Cx et que 
+cette valeur dirninue encore lors des protonations du cycle 
+pyrirnidique. I1 est difficile de relier la valeur d'un indice qui 
+reflete la stabilitt intrinskque d'une liaison (34, 35) avec 
+l'tnergie requise pour rornpre celle-ci en spectrornttrie de 
+rnasse. Toutefois, 1'Cnergie de chacune des liaisons est un des 
+facteurs intewenant dans la production des difftrents fragments 
+(36). Aussi, sans vouloir en tirer de rkgles gCnCrales, nous 
+constaterons sirnplement que les valeurs faibles de l'indice de 
+Wiberg pour les liaisons N7-C8 vont de pair avec la possibilitt 
+de rupture de ces liaisons rnise en Cvidence par spectrornttrie 
+de rnasse pour 1'IAP et I'IAPP (3). 
+La dtstabilisation de cette liaison va de pair avec le gain de 
+stabilitt de la liaison C2-N7. En effet, pour I'IAP, la valeur de 
+l'indice de la liaison C,-N,, 
+interrntdiaire entre celles d'une 
+liaison u et celle d'une liaison T , traduit la faible conjugaison 
+du doublet libre de l'azote N7. Cette valeur se trouve t r b 
+forternent accrue par les deux protonations. L'augmentation du 
+caractere 7~ est bien retrouvCe experirnentalernent. En effet, les 
+spectres rmn rnontent que la libre rotation autour de la liaison 
+C2-N7 de I'IAP, ralentie par la prernikre protonation, est 
+ernpCchte dans le cas de la rnoltcule d'IAPDP (3). 
+L'analyse des indices des liaisons du cycle pyrirnidique per-
+met ainsi de noter l'augrnentation de la valeur obtenue pour la 
+liaison entre le carbone en position ortho et le carbone en 
+Can. J. Chem. Downloaded from www.nrcresearchpress.com by 87.160.185.190 on 03/27/14 
+
+For personal use only. 
+
+
+CAN. J . CHEM. VOL. 62. 1984 
+
+TABLEAU 2. DensitCs de charge dans l'orbitale 2s 
+
+I AP 
+IAPP 
+IAPDP 
+
+Atomes 
+CNDO/2 
+CNDO/S 
+CND0/2 
+CNDO/S 
+CNDO/2 
+CNDO/S 
+
+* Valeurs moyennes. 
+
+TABLEAU 3. Indices de liaison W,,, calculCs 
+
+h partir des rCsultats de la mCthode CNDO/S 
+
+Liaisons 
+IAP 
+IAPP 
+IAPDP 
+
+TABLEAU 4. Angles interorbitaux du cycle 
+
+pyrimidique calculCs h partir des rCsultats de la 
+mCthode CNDO/S 
+
+Angles 
+IAP 
+IAPP 
+IAPDP 
+
+l'hCtCrocycle, qui prksentent les plus fortes variations, sont 
+reportCes dans le tableau 4. 
+On observe principalement une augmentation de l'angle in-
+terorbital port6 par l'atome d'azote protonC. Une variation 
+analogue de l'angle internuclkaire C-N-C 
+de la purine a Ct C 
+mise en Cvidence thkoriquement par la mCthode MNDO (39) et 
+
+expkrimentalement au moyen des rayons X (37). 
+
+Les valeurs calculCes pour les angles portCs par les atomes de 
+carbone laissent supposer une tendance a la fermeture lors des 
+protonations. Bien qu'ici cette variation soit faible, elle a Ct C 
+observCe dans le cas de l'angle internuclCaire N-C-C 
+de la 
+pyrimidine (39). 
+
+position meta de l'azote protone, ce qui traduit le rac-
+courcissement de cette liaison. De plus, la formation de la 
+liaison N+-H s'accompagne d'une perte partielle de la conju-
+gaison des liaisons engagees par l'atome d'azote et de la liaison 
+entre le carbone mtta et le carbone para, donc d'un allon-
+gement de celles ci, comme en tCmoigne la diminution des 
+valeurs des indices de ces liaisons. 
+Ces effets mis en evidence par la methode CNDO/S ont dCjB 
+CtC observCs dans le cas de la protonation de la purine, experi-
+
+mentalement au moyen des rayons X (37) et theoriquement par 
+
+un calcul CNDO-SCF-MO (15, 16). 
+
+Les rksultats obtenus B partir des populations Clectroniques 
+
+de la CND0/2 conduisent aux m6mes conclusions. 
+A des modifications des longueurs de liaisons lors des pro-
+tonations correspondent des modifications des angles inter-
+nuclCaires et interorbitaux. 
+
+(c) Les constantes de couplage J1jc-" 
+En premikre approximation, la constante de couplage entre 
+les spins nuclCaires d'un atome de carbone I3C et d'un atome 
+d'hydrogkne qui lui est liC est directement proportionnelle au 
+pourcentage de caractkre S de l'orbitale hybride assurant la 
+liaison (40). Cependant, de nombreux auteurs ont montrC 
+qu'un terme constant, corrigeant certaines approximations, de-
+vait 6tre soustrait afin d'obtenir une bonne concordance entre 
+les valeurs expCrimentales et les valeurs calculCes (41 -44). 
+Les pourcentages de caractkres S calculCs utilisant la relation 
+(3 3) : 
+
+(b) Les angles interorbitaux 
+Dans le cas d'une liaison de type sp, entre les atomes A et 
+B, le rapport des populations Clectroniques: 
+ont Ct C corrClCs aux valeurs experimentales de JCPH. 
+La mCthode des moindres carres conduit aux relations li-
+nCaires: 
+
+dans le cas de la CND0/2, et 
+est une mesure du pourcentage du caractkre S de l'orbitale 
+hybride centrCe sur A et dirigCe vers B (33). Connaissant les 
+pourcentages SA-B et SA-C on peut alors calculer l'angle inter-
+orbital qe-A-c en utilisant la formule (38): 
+dans le cas de la CNDO/S (Fig. 4). 
+Les paramktres des deux relations sont trCs proches de ceux 
+obtenus dans le cas de travaux similaires utilisant la mCthode 
+INDO et un calcul plus ClaborC des constantes de couplage (45) 
+on une mCthode adoptant le critkre du recouvrement maximal 
+(46, 47). 
+Seules les valeurs correspondant B la gComCtrie de 
+Can. J. Chem. Downloaded from www.nrcresearchpress.com by 87.160.185.190 on 03/27/14 
+
+For personal use only. 
+
+
+MONTI ET AL. 
+
+685 
+
+mot 
+
+C-H .xP (HZ) 
+
+noter que la mCthode CNDO/S s'est rCvClCe mieux adaptee au 
+
+o 
+
+calcul des grandeurs associCes aux charges ou aux pour-
+centages d e caractkre S. 
+
+Ainsi notre travail nous a conduit h une meilleure con-
+
+naissance d e la structure Clectronique et d e la gComCtrie de 
+l'isaxonine en solution et a dCfinir les domaines d'application 
+de la CNDO dans \'etude d e cette molecule. Cette premiere 
+approche de la rCactivitC d e l'isaxonine va nous permettre, dans 
+un second temps, d e mieux apprkhender 1'activitC biologique 
+d e cette molCcule. 
+
+IAP 
+
+0 
+
+IAPP 
+0 IAPDP 
+
+FIG. 4. Correlation entre les constantes de couplages J ~J ~-, ~ 
+ex-
+ptrimentales et les pourcentages de caractkre S calcults (CNDOIS). 
+
+L'augmentation des valeurs expkrirnentales des constantes 
+de couplage lors des protonations, plus rnarquCe pour les liai-
+sons C-H 
+de l'hCtCrocycle, est bien traduite par les deux 
+relations. Elle peut Ctre attribuke sans arnbiguitk a une augmen-
+tation du caractkre S consCcutive aux variations d e la gCornetrie 
+et au transfert des charges Clectroniques que nous avons prC-
+cCdemrnent mis en Cvidence. 
+
+Conclusions 
+Aucune des rnethodes CNDO n'a perrnis d e rendre cornpte 
+d e l'inergie des niveaux ~l e c t r o n i ~u e s 
+correspondant aux dou-
+blets libres des atornes d'azote. L'Cchec provient de l'in-
+
+capacitC des deux mCthodes a dCcrire les Clectrons des doublets 
+
+libres. 
+L'analyse des charges electroniques rnontre qu'a leurs vari-
+ations lors des protonations correspondent des modifications 
+des dCplacements chirniques des protons. Ces rCsultats expCri-
+mentaux ont CtC bien rendus par un calcul de la constante 
+d'Ccran. 
+I1 n'a pas CtC possible, dans le cas des atornes de carbone d e 
+rendre cornpte des dkplacernents chirniques par le calcul. I1 
+convient de noter qu'une cornparaison des variations des densi-
+tCs d e charge permet d e prt5dire avec succCs les diplacements 
+chirniques d e la majorit6 des atomes de carbone. 
+Les deux protonations successives de la rnolCcule d'IAP 
+augrnentent la stabilitC de la liaison Cz-N7 et dkstabilisent la 
+liaison N7-C8. Les valeurs des indices de liaison ont perrnis 
+de vCrifier et de preciser les rCsultats experirnentaux obtenus 
+
+(3). 
+De plus, le calcul des pourcentages d e caractkre S a fait 
+
+apparaitre l'augrnentation de l'angle interorbital C-N-C 
+lors de la protonation de l'atorne d'azote et a perrnis de rendre 
+
+compte des valeurs des constantes de couplage J I J ~-~ 
+
+Enfin si en gCnCral les deux pararnCtrisations d e la mCthode 
+
+CNDO, appliquCes B la gCornCtrie adoptke, conduisent ti des 
+
+rCsultats thCoriques qualitativernent peu diffkrents, on peut 
+
+Remerciements 
+
+Nous tenons h exprirner nos rernerciements h Monsieur le 
+
+Professeur A. Crevat pour les discussions fructueuses que nous 
+avons eues et le soutien constant qu'il nous a apportk. Nous 
+
+rernercions Cgalernent Monsieur H. Bouteille et Mademoiselle 
+S. Lorenzi pour leur collaboration technique. 
+
+I . T. TARRADE et A. HUGELIN. Neurosci. Lett. 1, 545 (1978). 
+2. R. COELHO et M. ISTIN. Nouv. Presse MCd. 16. 1227 (1982)., 
+3. J. P. MONTI, D. BRAGUER, A. CREVAT et A. MURISASCO. A 
+paraitre. 
+4. J . A. POPLE, D. P. SANTRY et G. A. SEGAL. J. Chem. Phys. 43, 
+S129 (1965). 
+5. J. A. POPLEet G. A. SEGAL. J. Chem. Phys. 43,5236 (1965); 44, 
+3286 (1966). 
+6. J. DEL BENE et H. H. JAFFE. J . Chem. Phys. 48, 1807 (1968); 48, 
+4050 (1968); 49, 1221 (1968). 
+7. M. RAJZMANN. Thkse de Doctorat d'Etat, Marseille, 1973. 
+8. J . SCHEINBEIM et E. SCHEMPP. Acta Crystallogr. Sect. B. 32, 607 
+(1 976). 
+9. K. WUTHRICH. NMR in biological research: peptides and pro-
+teins. North Holland Pub. Comp., Amsterdam. 1976. p. 76. 
+10. L. E. SUITON. Tables of interatomic distances and configurations 
+in molecules and ions. Publ. No. 1 I. Chem. Soc., London. 1958. 
+11. W. VON NIESSEN, G. H. F. DIERCKSEN et L. S. CEDERBAUM. 
+Chem. Phys. 41, 113 (1979). 
+12. V. BARONE, C. LAULETTI, F. LEU, M. N. PIANCASTELL1 et N. 
+RUSSO. J. Am. Chem. Soc. 104, 4571 (1982). 
+13. M. L. MARTIN et G. J . MARTIN. Manuel de rtsonance mag-
+nCtique nucltaire. Azoulay Ed., Paris. 1971. p. 34. 
+14. R. J . PUGMIRE et D. M. GRANT. J. Am. Chem. Soc. 90, 697 
+( 1 968). 
+15. R. J. PUGMIRE et D. M. GRANT. J. Am. Chem. Soc. 93, 1880 
+(1971). 
+16. R. J. PUGMIRE, M. J. ROBINS, D. M. GRANT et R. K. ROBINS. 
+J. Am. Chem. Soc. 93, 1887 (1971). 
+17. A. SAIKA et C. P. SLICHTER. J. Chem. Phys. 22, 26 (1954). 
+18. J. A. POPLE, W. G. SCHNEIDER et H. J. BERNSTEIN. High resolu-
+tion nuclear magnetic resonance. McGraw-Hill, New York. 
+1959. 
+19. J . A. POPLE. J. Chem. Phys. 37, 53 (1962). 
+20. H. M. MCCONNEL. J. Chem. Phys. 27. 226 (1957). 
+21. M. P. SCHWEIZER, S. I. CHAN, G. K. HELMKAMP et P. 0 . P. 
+Ts'O. J. Am. Chem. Soc. 86, 696 (1964). 
+22. D. E. O'REILLY. Prog. Nucl. Magn. Reson. Spectrosc. 2, 27 
+(1967). 
+23. A. D. BUCKINGHAM. Can. J. Chem. 38. 300 (1960). 
+24. V. M. S. GIL et J. N. MURREL. Trans. Faraday Soc. 60, 248 
+(1964). 
+25. L. ONSAGER. J. Am. Chem. Soc. 58, 1486 (1936). 
+26. G. J. MARTIN, M. L. MARTIN et S. ODIOT. Org. Magn. Reson. 
+7, 2 (1975). et ref. cittes. 
+27. W. ADAM, A. GRIMISON et G. RODRIGUEZ. J. Chem. Phys. 50, 
+645 (1969). 
+28. M. KARPLUS et J. A. POPLE. J. Chem. Phys. 38, 2803 (1963). 
+29. S. FLISZAR, G. CARDINAL et M. T. BERALDIN. J. Am. Chem. 
+
+Can. J. Chem. Downloaded from www.nrcresearchpress.com by 87.160.185.190 on 03/27/14 
+
+For personal use only. 
+
+
+686 
+
+CAN. I. CHEM. VOL. 62. 1984 
+
+Soc. 104, 5287 (1982). et rCf. citCes. 
+30. K B. WIBERG. Tetrahedron, 24, 1083 (1967). 
+31. S. EHRENSON et S . SELTZER. Theor. Chirn. Acta, 20, 17 (1971). 
+32. R. L. FLURRY, JR., D. BREEN et D. L. HOWLAND. Theor. Chim. 
+Acta, 20. 371 (1971). 
+33. C. TRINDLE et 0 . SINANOGLU. J. Am. Chern. Soc. 91, 853 
+(1969); 91, 4054 (1969). 
+34. D. R. ARMSTRONG, P. G. PERKINS et J J. P. STEWART. J. Chem. 
+Soc. Dalton Trans. 838 (1976). 
+35. V. P. ZHUKOV et V. A. GUBANOV. J. Mol. Struct. 28, 247 
+(1975). 
+36. F. W. MCLAFFERTY. Spectrographle de rnasse. Ediscience, Parls. 
+1969. 
+
+37. H. STERNGLANZ et C. E. BUGG. J. Cryst. Mol. Struct. 8, 268 
+
+(1978). 
+38. D. W. DAVIS. Chern. Comrnun. 12, 258 (1965). 
+
+39. M. SCHUMACHER et H. GLJNTHER. J. Am. Chem. Soc. 104,4167 
+
+(1982). 
+
+40. N. MULLER et D. E. PRITCHARD. J . Chern. Phys. 31,768 (1959); 
+31, 1471 (1959). 
+41. Z. B. MAKSIC, M. ECKERT-MAKSIC et M. RANDIC.Theor. Chim. 
+Acta, 22, 70 (1971). 
+42. M. D. NEWTON, J. M. SCHULMAN et M. M. MANUS. J. Am. 
+Chern. Soc. 96, 17 (1974). 
+43. J. M. SCHULMAN et M. D. NEWTON. J. Am. Chem. Soc. 96,6295 
+(1974). 
+44. H. P. FIGEYS, P. GEERLINGS, P. RAEYMAEKERS, G. VAN LOM-
+MEN ct N. DEFAY. Tetrahedron, 31, 1731 (1975). 
+
+45. G. E. MACIEL, J. W. MCIVER, N. S . OSTLUND et J . A. POPLE. 
+
+J . Am. Chem. Soc. 92, 1 (1970). 
+46. M. RANDIC, Z. MEIC et A. RUBCIC. Tetrahedron, 28, 565 (1972). 
+
+47. Z. B. MAKsIC et M. RANDIC. J. Am. Chem. Soc. 95, 6522 
+
+( 1973). 
+
+Can. J. Chem. Downloaded from www.nrcresearchpress.com by 87.160.185.190 on 03/27/14 
+
+For personal use only. 
+
+
+
+	
+

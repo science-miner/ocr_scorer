@@ -1,0 +1,505 @@
+
+	
+
+		
+
+	
+
+	
+
+Bromation stereoselective d'alcynes par le tribromure de tetrabutylammonium 
+
+JACQUES BERTHELOT' 
+
+Laboratoire de chimie organique structurale, Unite' associie 455, Universite' Pierre et Marie Curie, 4, Place Jussieu, 
+
+75230 Paris CEDEX 05, France 
+
+ET 
+
+MICHEL FOURNIER 
+
+Laboratoire de physico-chimie inorganique, ~q u i ~e 
+de recherche associe'e 608, Universite' Pierre et Marie Curie, 4 , Place Jussieu, 
+
+75230 Paris CEDEX 05, France 
+R e p le 22 mai 1985 
+
+JACQUES BERTHELOT et MICHEL FOURNIER. Can. J. Chem. 64, 603 (1986). 
+L'action du tribromure de tCtrabutylammonium (TBABr3) sur diffCrents alcynes (R--R' , 
+avec R et (ou) R' = H, 
+alcoyle, phCnyle, carboxyle, carbonyle) dans le chloroforme i 20°C conduit i la formation exclusive et stCrCospCcifique de 
+l'isomkre E de l'alckne 1-2 dibromC correspondant. Pour expliquer ce resultat nous proposons un mCcanisme faisant intervenir 
+comme intermediaire un zwitterion bromC cyclique. 
+
+JACQUES BERTHELOT and MICHEL FOURNIER. Can. J. Chem. 64, 603 (1986). 
+The reaction of tetrabutylammonium tribromide (TBABr3) with alkynes (R--R' , 
+with R and (or) R' = H, alkyl, 
+phenyl, carboxyl, carbonyl) in chloroform at 20°C gives only the corresponding E 1 Jdibromo alkene in high yields. A 
+mechanism involving a cyclic brominated zwitterion is suggested to account for the results, especially the stereospecificity of 
+this E-addition. 
+
+De nombreux agents bromants, notamment les tribromures 
+
+d'alkylammonium (trim6thylphtnylammonium ( 1) , pyridinium, 
+
+quinoleum (2)), ont kt6 jadis utilises pour Cviter les incon-
+venient~ d'emploi du brome (trks toxique et corrosif). En 
+general, ils presentent l'inconvenient d'Ctre peu stables, d'avoir 
+un degre de brome actif diminuant rapidement au cours du 
+temps ou d'&amp;tre faiblement solubles. 
+Nous avons recemment decrit une mtthode simple, pour 
+additionner du brome sur les doubles liaisons Cthyleniques (3) 
+ou pour le substituer selectivement en a d'acetals (3), qui utilise 
+le tribromure de t~trabutylammonium (TBABr3).' Ce reactif, 
+solide orange (F = 84"C), tres stable, non toxique, a degre de 
+brome constant, est facilement utilisable dans des conditions 
+douces (20°C). 
+En outre, si l'addition Clectrophile du brome sur les olefines a 
+Cte trks CtudiCe, les principaux details ttant bien connus (4), la 
+reaction correspondante sur les alcynes l'est beaucoup moins et 
+n'a suscitt que peu d'attention (5). 
+L'halogtnation des alcynes (chloration, iodation et surtout 
+bromation) a ett effectuee soit par l'halogkne en solution 
+(principalement dans l'acide acetique) (6a, b), soit a l'aide des 
+halogenures metalliques (derives cuivriques essentiellement) en 
+phase liquide et au reflux du solvant (7a-e). Dans tous les case, 
+
+ces rkactions conduisent a des melanges d'alcenes 1-2 di-
+
+bromts (E et Z), le plus souvent souilles de produits secondaires 
+(alcknes monobromts, alcknes tribromes, composes d'addition 
+du solvant) difficilement separables. Dans les cas les plus 
+favorables (absence de produits secondaires), il se forme 
+toujours un melange d'isomkres E et Z, l'isomere E Ctant en 
+general majoritaire (8). En outre, les rendements globaux en 
+produits isolks purs sont souvent tres moyens (45-65%) et 
+
+l'halogkne ou le sel cuivrique doivent Ctre en large exces (de 5 a 
+
+20 fois la quantitk d'alcyne). Dans la plupart des cas, il faut 
+optrer au reflux du solvant. Par contre, nous signalons qu'en 
+effectuant l'addition du brome, assistee d'ions bromures en 
+
+'Auteur i qui adresser toute correspondance. 
+'TBABr3 est un produit pur et pr&amp;t i I'emploi, commercialise par 
+Janssen Chimica. 
+
+milieu hydroacetique, sur l'ester ethylique de l'acide phenyl-
+propionique, Berliner et al. n'obiennent que l'isomkre E 1-2 
+
+dibrome (9, 10). 
+
+Pour ces raisons, il etait tentant de comparer l'action de 
+TBABr3 sur les alcynes a celle des agents bromants habituelle-
+ment utilises en esperant un gain de rentabilite. 
+
+Resultats 
+
+Nous avons pris comme modkle d'etude la bromation du 
+diphtnyl-1,2 acetylene (1) ou tolane (figure 1). 
+L'tvolution de la reaction est suivie pour differents solvants, 
+a diverses temperatures, en faisant varier les concentrations 
+relatives des reactifs. Dans tous les cas, que ce soit a basse 
+temperature avec des conditions stoechiometriques des rtactifs 
+ou en prolongeant la duree de reaction, a temperature plus 
+elevte et avec une plus grande concentration en TBABr3, seul 
+l'isomere E est obtenu; nous n'avons jamais detect6 (meme en 
+ccm (chromatographie sur couche mince)) la presence de l'iso-
+m b e Z et aucun produit provenant de reactions secondaires ne 
+vient perturber la reaction. Ces resultats sont resumes dans les 
+tableaux 1 et 2. 
+Nous constatons que si la concentration relative de TBABr3 
+augmente par rapport a celle du tolane, le rendement en alcene 
+1-2 dibromt diminue par suite de l'apparition d'une resinifica-
+tion, mais nous ne recuptrons ni l'isomere Z de cet alcene, ni le 
+produit de depart. Quels que soient la temperature et le rapport 
+Br3-Ialcyne, nous n'avons jamais obtenu le tetrabromo-
+1,1,2,2 diphenyl-1,2 ethane. Comme nous l'avions deja remar-
+qut avec les alcknes (3) soumis a l'action bromante de TBABr3, 
+c'est le chloroforme, peu polaire, qui permet d'obtenir les 
+Can. J. Chem. Downloaded from www.nrcresearchpress.com by 87.160.185.190 on 03/27/14 
+
+For personal use only. 
+
+
+CAN. J. CHEM. VOL. 64, 1986 
+
+TABLEAU 1. Evolution de I'action de TBABr3 sur le tolane dans diffkrentes conditions* 
+
+C6H5\ 
+/Br 
+Br/C=C 
+Tolane de 
+
+A 
+
+Duree 
+\ c ~H , 
+depart 
+Essai 
+C6H5-X6H5 
+TBABr3 
+("c) 
+(h) 
+
+(%I 
+
+(%) 
+
+*Ces essais sont effectuCs sur 4 rnrnol de tolane, 4 rnrnol de TBABr, (1: 1) dans 18 rnL de CHCI,. Les rendernents indiquCs sont ceux des 
+produits isolCs et purs aprks separation par cp (Cluant: Cther de petrole 95 -Cther 5) s'il restait du produit initial. Les essais I et rn ont ete 
+effectuCs en rnklangeant TBABr, et le tolane solides et en portant i la fusion de TBABr, (84°C). 
+
+TABLEAU 2. Action deTBABr3 sur le tolane dans diffkrents solvants* 
+
+Solvant 
+Volume (mL) 
+2 obtenu (%) 
+1 restant (%) 
+
+CHC13 
+18 
+CC14 
+25 
+CH3CN 
+20 
+THF 
+30 
+EtOH 
+45 
+MeOH 
+45 
+
+*RCactions toutes effectuies sur 4 rnrnol de tolane et 4 rnrnol de TBABr, a 
+20°C pendant 30 h. Les rendernents sont indiques en produits purs et isoles (cf. 
+tableau 1). Les volumes de solvant utilists sont fonction de la solubilitC des 
+reactifs. 
+
+meilleurs rksultats; les alcools (plus polaires, mais solubilisant 
+rnoins bien les rCactifs) sont moins adapt&amp; a ces rCactions, ce 
+qui avait dCjh CtC remarquC par d'autres auteurs lors des 
+diffkrents essais d'halogknation (7a, 7e). 
+La diffkrence de vitesse d'addition d'un m&amp;me rCactif 
+conjointernent sur un alcene et l'alcyne correspondant est bien 
+connue (4, 10). I1 en est de m&amp;me lorsque nous faisons rCagir 
+TBABr3 sur le trans-stilbene et le tolane dans la m&amp;me solution 
+chloroformique (21 20") et en m&amp;me concentration (tableau 3). 
+En outre, si I'on soumet le dibromo-1,2 diphCnyl-l,2 Cthylkne E 
+(2), lui-rn&amp;rne, ?I l'action de TBABr3 dans des conditions 
+stoechiomttriques et pendant dix jours a 20°C, seul (2) est 
+rCcuptrC quantitativement. Ces rksultats obtenus avec le tolane 
+comme modele nous ont permis d'obtenir, dans les meilleures 
+conditions et avec la m&amp;me sClectivitC, uniquernent des alcenes 
+1-2 dibromCs E, lorsque differents alcynes ont Ct C sournis a 
+l'action de TBABr3 (tableau 4). 
+Dans tous ces essais, les rendements bruts sont pratiquement 
+quantitatifs; les rendements en produits isoles sont plus faibles 
+surtout dans le cas des liquides, s'ils sont purifies par distilla-
+
+tion, les alcenes 1-2 dibromCs Ctant fragiles B la chaleur 
+
+(polymCrisation facile). Dans ce cas, la meilleure mtthode de 
+purification est la chromatographie prkparative (cp) sur silice 
+(cas de d notamment). La structure et la sttrCochimie des 
+
+produits 9-14 a Ct C confirmCe par comparaison avec des 
+
+Cchantillons, connus, par leurs spectres de masse et de rmn 'H 
+
+(risonnance magnCtique nuclCaire) (cf. partie experimentale). 
+I1 est 2 noter que, comme avec le tolane, nous n'avons jamais 
+obtenu de composCs tCtrabromCs 
+
+Discussion 
+
+Dans les Ctudes antCrieures (7e, 12) la bromation des alcynes, 
+que ce soit par le brome ou par ses sels mktalliques, semble 
+toujours &amp;tre de nature ionique. De m&amp;me la bromation du tolane 
+par TBABr3 n'est par affectCe par la prCsence de me'ta-
+dinitrobenzkne ou d'oxygkne (rCputCs capteurs de radicaux), et 
+donne les rnernes rksultats a la lumikre ou a llobscuritC, sous gaz 
+inerte (argon) ou 2 l'air. La rCaction est toujours stCrCo-
+spCcifique, les rendements et les durCes de rCaction Ctant 
+inchangks. Nous pensons donc que cette addition de TBABr3 
+sur les alcynes est Cgalement de nature ionique. En utilisant le 
+brorne, ou CuBr2, la formation du mClange en proportions 
+variables des isornkres E et Z pose des problkmes pour 
+l'interprktation rnecanistique du phCnomkne malgrC des Ctudes 
+approfondies (7a, 7d, 12). I1 a dCjh CtC montrC que dans les 
+tribromures d'ammoniurn, l'anion Br3-avait une structure 
+linCaire (I), ou les liaisons entre les atomes de brome Ctaient 
+plus fragiles que celle de la structure rnolCculaire, et on a postule 
+qu'il pourraitr~agir suivant: 
+
+Cette formation de brome molCculaire devrait donc conduire 
+dans notre cas a la formation du mClange des isomeres E et Z soit 
+par addition analogue 2 1 celle du brome sur un alcyne soit par 
+isomCrisation ultCrieure de l'alckne 1-2 dibromC E catalysCe 
+par le brome (7e). Or nous n'obtenons jamais d'isomere Z, 
+m&amp;me en laissant rCagir d'une f a ~o n CquimolCculaire du 
+TBABr3 et du diphCnyl-1,2 dibromo-1,2 Cthylene pendant dix 
+jours dans les conditions de la rCaction. Par contre, si l'action du 
+brome sur le mCthylphCnylacCtylene conduit a un mClange 
+d'isomeres E, Z, seul l'isomkre E est pratiquement (99%) 
+obtenu quand il est soumis a l'addition du brome en prCsence de 
+LiBr (16). De plus, comme nous l'avons dCja signalt, par 
+addition de brome assistCe d'ions bromures sur le phtnylpro-
+pionate d7Cthyle, seul l'isomere E est form6 (9, 10). Ces rCsul-
+Can. J. Chem. Downloaded from www.nrcresearchpress.com by 87.160.185.190 on 03/27/14 
+
+For personal use only. 
+
+
+BERTHELOT ET FOURNIER 
+
+605 
+
+TABLEAU 3. Difference d'action de TBABr3 sur le tolane et le trans-stilbkne* 
+
+C6H5\ 
+/H 
+,C=C 
+
+\ 
+
+C6H5-C=C-C6H5 
+H 
+Tolane C6H5\ 
+/Br 
+C6H5 
+TBABr3 DurCe (C6H5CHBr)?-rCcupCrC 
+, , C=C 
+Essai 
+(rnrnol) 
+(rnrnol) 
+(rnrnol) (h) 
+miso (%) 
+
+(%) 
+
+Br 
+
+\ ~6 ~5 
+
+a 
+4 
+4 
+4 
+1 
+98 
+100 
+
+-
+
+b 
+4 
+4 
+4 
+30 
+98 
+100 
+Traces 
+
+c 
+
+4 
+4 
+8 
+1 
+97 
+100 
+5% 
+d 
+4 
+4 
+8' 
+30 
+98 
+
+-
+
+97% 
+
+*Les produits sont sCparCs par cp (Cluant: Cther de pCtrole 97 -Cther 3); pour l'essai a, cf. la rCf. 3. 
+
+tats avaient amen6 a postuler l'existence d'un ion Br3-, non 
+
+dissocik, et son addition sur l'alcyne par un processus tri-
+molCculaire d e type AdE3, passant par un Ctat d e transition de 
+
+nature comparable a celui de la fig. 2 , aprks attaque du brome et 
+
+de l'ion bromure sur les deux carbones de la triple liaison (10, 11). 
+En ce qui concerne TBABr3, nous pouvons rappeler que c e 
+dernier, agissant sur un alckne E, tel que le trans-stilbkne, 
+
+conduit exclusivement a l'alcane 1-2 dibromC me's0 (3), donc a 
+une addition en anti sur chaque carbone de la double liaison, 
+compatible avec la formation intermkdiaire, comme dans 
+llhalogCnation molCculaire (4), d'un ion bromonium cyclique. 
+De plus, nous opCrons en solvant chloroformique alors que 
+les essais d'addition du brome en prCsence d'ions bromures sont 
+effectuCs dans l'acide acCtique aqueux. C'est pourquoi, sans 
+rejeter le mecanisme AdE3 citC prCcCdemment, nous pouvons 
+Cgalement supposer que l'action de TBABr3 sur les alcynes se 
+fait selon un mCcanisme AdE2, impliquant le passage dans c e 
+cas par un zwitterion cyclique bromC intermediaire (fig. 3) suivi 
+d'une addition trans d'ion Br-(ou Br3-) sur c e zwitterion, 
+conduisant a l'alckne 1-2 dibromC E. On peut noter que ce 
+
+mCcanisme avec un intermkdiaire cyclique a dCja CtC Ctabli dans 
+le cas de l'addition d'halogknures d e sulfknyles sur le phenyl-1 
+propyne (fig. 4), ou aucune cis addition n'a CtC observee (17). 
+
+Conclusion 
+
+L'utilisation de TBABr3, reactif non toxique, trks facilement 
+utilisable (stable et a degrC d e brome constant) dans des 
+
+conditions expCrimentales douces et dans les solvants usuels a 
+donc permis de bromer, avec de bons rendements, des alcynes 
+d'une f a ~o n trks sClective (absence d e produits secondaires) et 
+trks stCrCospCcifique puisque seul l'isomkre 1-2 dibromC E est 
+
+obtenu, c e qui est d'un intCr&amp;t synthCtique Cvident. Bien que le 
+mCcanisme d'addition ne soit pas dkfinitivement Ctabli, nous 
+apportons les indices sur sa nature trks vraisemblablement 
+ionique. 
+
+Partie experimentale 
+
+Les points de fusion ont Ct C dCterminCs au banc de Kofler, les 
+spectres infrarouges (ir) ont Ct C obtenus avec un spectrometre Pye-
+Unicarn SP3-200, ceux de rmn IH (en solution dans CDCI3, rCfCrence 
+interne HMDS) avec un appareil Varian EM-360. Les spectres de 
+rnasse (sm) ont Ct C effectuks sur un appareil AEI MS-30. Les 
+chromatographie sur couche mince (ccm) et prCparatives (cp) ont Ct C 
+rCalisCes sur gel de silice fluorescente "Merck PF 254." Les alcynes 
+utilisCs sont des produits commerciaux (Merck ou Alfa). 
+
+Procidi ge'niral de bromation par TBABr3 (cas du tolane I ) 
+A 4 mmol d'alcyne dans 18 mL de chloroforme on ajoute lenternent, 
+B temperature ambiante et sous agitation, 4 mmol de TBABr3 (environ 
+20 min) ; la solution rouge intense vire lentement au rose puis au jaune. 
+On laisse agiter pendant plusieurs heures en suivant 1'Cvolution de la 
+rCaction par ccm (cf. tableau 1). La solution chloroformique est ensuite 
+lavCe deux fois par 20 rnL d'une solution aqueuse contenant 5% de 
+thiosulfate de sodium, puis trois fois par 20 mL d'eau, et enfin sCchCe 
+sur sulfate de sodium. Le solvant est CvaporC sous vide et le rCsidu est 
+cristallisC (MeOH), puis recristallisi (MeOH). L'alckne 1-2 dibromC 2 
+est obtenu brut quantitativement, puis avec un rendement de l'ordre de 
+95% aprks purification (controlCe par ccm) ; F net 214°C (litt. F (7a) 
+210°C). Quand le reaction est incomplkte (cf. tableau 1) le tolane 
+restant est sCparC de 2 par cp. Cornrne nous l'avons dCjB signal6 
+(tableau 4), si les rendements bruts sont quantitatifs, avec les autres 
+alcynes, ils sont plus faibles en produits purs quand ceux-ci sont 
+liquides, apres distillation (d'oh l'emploi de la cp pour les obtenir, cas 
+de 12 en particulier). 
+
+Principales caractiristiques spectrales des alcPnes 1-2 dibrornis E 
+La spectrographie de masse donne d'utiles indications,+notamment 
+par la prCsence dCjB signalCe (8) du pic molCculaire Ma caractCris-
+tique d'un composC dibromC (form6 de trois raies d'intensitk relative I, 
+2, 1). Ces alcenes dibromCs prCsentent Cgalement tous les pics 
+suivants : (M -Br)', form6 de 2 raies d'Cgales intensites et (M -
+2Br)+ qui est souvent le pic debase (cas de 2 , 9 , 1 0 , 1 1 et 12 ; pour 11 il 
+
+s'agit de (M -(2Br + C02))+). 
+
+En ce qui concerne la rmn 'H il a dCjB Ct C constatC, pour les alcknes 
+dibromCs vinyliques (8) ou contenant..un groupement mCthyle lie au 
+carbone sp2 (12), des diplacements differents pour les isomeres E et Z 
+en ce qui concerne cet hydrogene vinylique ou ce groupement mCthyle. 
+Avec les alcknes 1-2 dibromCs de cette nature que nous obtenons, nous 
+retrouvons bien uniquement ces pics caractkristiques d'isomkres E: 9: 
+6,7 ppm (s, 1H); 14: 6,6ppm (s, 1H); 10: 2,6ppm (s, 3H). 
+Can. J. Chem. Downloaded from www.nrcresearchpress.com by 87.160.185.190 on 03/27/14 
+
+For personal use only. 
+
+
+TABLEAU 4. Action d e TBABr3 sur diffkrents alcynes* 
+
+F o u E b ("C/Torr) 
+
+Spectre 
+DurCe 
+d e masse+ 
+Essai 
+Alcy n e 
+
+(h) 
+
+Produit 
+C e travail 
+Litt. (ref.) 
+
+R (%)i m / e = Me 
+
+*Essais effectuCs sur 4 mmol d'alcyne et 4 mmol de TBABr, 120°C dans 20 mL de CHCI, et suivis par ccm. Les produits obtenus ont Ct C comparCs i d e s echantillons connus (cas de 
+a-0. Si l'essai d est effectue dans I'Cthanol on n'obtient que 13, mais avec un faible rendement (30% en produit brut). 
+iLes R (%) sont indiquCs en produits isolCs purs; pour d, 12 est obtenu par cp (Cluant: ether de petrole 75 -Cther 25). 
+
+Can. J. Chem. Downloaded from www.nrcresearchpress.com by 87.160.185.190 on 03/27/14 
+
+For personal use only. 
+
+
+BERTHELOT ET FOURNIER 
+
+607 
+
+1. A. MARQUET, J. JACQUES et B. TCHOUBAR. Bull. Soc. Chim. Fr. 
+511 (1964). 
+2. K . W. ROSENMUND et W. KUHNHERM. Ber 56, 1263 (1923); 56, 
+2042 (1923). 
+3. M. FOURNIER, F. FOURNIER et J. BERTHELOT. Bull. Soc. Chim. 
+Belg. 93, 157 (1984). 
+4. P. B. DE LA MARE et R. BOLTON. Electrophilic addition to 
+unsaturated systems. Elsevier, New York. 1966. chapt. 7 . 
+5. R. C. FAHEY. Top. Stereochem. 3 , 279 (1968). 
+6. a ) G. H. SCHMID. Duns The chemistry of the carbon-carbon 
+triple bond. Part I. Editipar S. Patai. John Wiley, New York. 
+1978. Chapt. 8; ( b ) P. B. DE LA MARE et R. BOLTON. 
+Electrophilic addition to unsaturated systems. Elsevier, Amster-
+dam. 1982. chapt. 3. 
+7 . ( a ) C. E. CASTRO, E. J. GAUGHAM et D. C. OWSLEY. J. Org. 
+Chem. 30,587 (1965); ( b ) S. UEMURA, A. ONOEetM. OKANO. J. 
+Chem. Soc. Commun. 23, 925 (1975); ( c ) S. UEMURA, H. 
+OKAZAKI, A. ONOE et M. OKANO. J. Chem. Soc., Perkin Trans. 
+
+I 
+
+1, 676 (1977); ( d ) S. UEMURA, H . OKAZAKI et M. OKANO. J. 
+
+Chem. Soc. Perkin Trans. 1, 1278 (1978); ( e ) S. UEMURA, H. 
+
+OKAZAKI, M. OKANO, S. SAWADA et A. OKADA. Bull. Chem. 
+Soc. Jpn. 51, 191 1 (1978). 
+8. J. KONIG et V. WOLF. Tetrahedron Lett. 19, 1629 (1970). 
+9. S. DE YOUNG, S. EHRLICH et E. BERLINER. J. Am. Chem. Soc. 
+99, 290 (1977). 
+10. S. EHRLICH et E. BERLINER. J. Am. Chem. Soc. 100, 1525 
+(1978). 
+1 1 . S . DE YOUNG et E. BERLINER. J. Org. Chem. 44, 1088 (1979). 
+12. J . A. PINOCK et K. YATES. Can. J. Chem. 48, 332 (1970). 
+13. BEILSTEIN. Handbuch der Organischem Chernie. E III,7, 1385. 
+Springer Verlag, Berlin. 1952. 
+14. K. A u w ~~s e t M . 
+SAYFRIED. Justus Liebigs Ann. Chem. 484,212 
+(1930). 
+15. I NAZAROV et L. BERGLESON. Zh. Obshch. Khim. 27, 1540 
+(1957). 
+16. J . A. PINOCK et K. YATES. J. Am. Chem. Soc. 90,5643 (1968). 
+17. G. H. SCHMIDT et M. HEINOLA. J. Am. Chem. Soc. 90, 3455 
+(1968). 
+
+Can. J. Chem. Downloaded from www.nrcresearchpress.com by 87.160.185.190 on 03/27/14 
+
+For personal use only. 
+
+
+
+	
+

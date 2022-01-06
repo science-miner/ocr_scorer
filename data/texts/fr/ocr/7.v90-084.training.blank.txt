@@ -1,0 +1,591 @@
+
+	
+
+		
+
+	
+
+	
+
+Solvatation des electrons en exces dans les solvants polaires : 
+correlation entre les valeurs de emax, W1/2 et EAmax 
+
+J.-P. JAY-GERIN 
+
+Groupe du Conseil de recherches me'dicales du Canada en sciences des radiations et De'partement de me'decine nucle'aire 
+et de radiobiologie, Faculte' de me'decine, Universite' de Sherbrooke, Sherbrooke (Que'bec), Canada J1H 5N4 
+
+C. FERRADINI 
+
+Laboratoire de chimie-physique, Universite' Rene' Descartes, 45, Rue des Saints-Peres, 75270 Paris CEDEX 06, France 
+
+R e ~u le 1 " aofit 1989 
+
+J.-P. JAY-GER~N et C. FERRADIN~. Can. J. Chem. 68, 553 (1990). 
+
+D'apr2s les donnCes de la littkrature, nous montrons qu'une corrklation peut &amp;tre Ctablie entre le coefficient d'extinction 
+
+molaire au maximum du spectre d'absorption optique de l1Clectron solvat6 (em,,), la largeur de celui-ci i mi-hauteur (Wllz) et 
+1'Cnergie correspondant a ce m&amp;me maximum (EAmax). 
+
+Mots cle's : Clectrons solvatks, solvants polaires, spectres d'absorption optique. 
+
+I 
+
+J.-P. JAY-GER~N and C. F E R R A D ~N ~. 
+
+Can. J. Chem. 68,553 (1990). 
+
+On the basis of data found in the literature, it is shown that a correlation exists between the molar extinction coefficient at the 
+
+I 
+
+maximum optical absorption of the solvated electron (em,,), its width at half height (W112), and the energy corresponding to 
+
+I 
+
+that maximum (EAmax). 
+
+I 
+
+Key words: solvated electrons, polar solvants, optical absorption spectra. 
+
+I 
+
+[Journal translation] 
+
+i 
+
+~e s 
+spectres d'absorption optique correspondant 2 1 des Clec-
+trons en excss complktement relaxCs dans un liquide polaire 
+ont CtC dCterminCs expkrimentalement pour un grand nombre 
+
+I 
+
+de solvants, ainsi que nous l'avons dC$ soulign&gt; (1). 11 nous 
+
+1 est donc apparu possible, sur la base des donnCes disponibles 
+
+1 actuellement, de tenter dlClargir la systCmatique concernant 
+
+ces spectres, par exemple en essayant d7Ctablir une corrClation 
+entre le coefficient d'extinction molaire au maximum du spectre 
+(emax), la largeur a mi-hauteur de celui-ci (WlI2) et 1'Cnergie 
+(EAmax) correspondant a ce m&amp;me maximum. Sur le plan 
+pratique, il serait intkressant, tout particulikrement, de pouvoir 
+exprimer emax et WlI2 en fonction de EAmax. En effet, cela 
+permettrait d'obtenir une caractkrisation a priori de la forme du 
+spectre d'Clectrons solvatCs dans n'importe quel solvant polaire 
+2 partir de la seule dktermination expkrimentale de la longueur 
+
+, d'onde correspondant au maximum d'absorption. 
+
+-
+
+Dans le tableau 1, nous avons rassemblC les donnCes 
+expCrimentales trouvCes dans la 1ittCrature pour 43 solvants 
+de polaritCs diverses a la tempkrature ambiante (2-54). Les 
+solvants sont classCs par ordre des valeurs croissantes de emax. 
+
+I 
+
+On peut remarquer que les valeurs de emax et de WlI2 varient 
+
+respectivement entre 0,6 et 5 X lo4 M-' cm-l et entre 1,63 et 
+
+0,41 eV, alors que celles de EAmax sont comprises entre 2,33 
+
+I 
+
+et 0,SeV. 
+
+I 
+
+Nous avons track dans un diagramme semi-logarithmique 
+
+, (figure 1) la variation de emax en fonction de EAmax. Une 
+
+corrklation linCaire dCcrit de f a ~o n satisfaisante les donnCes 
+expCrimentales. La relation entre ces deux paramktres peut donc 
+
+I 
+
+s'Ccrire sous la forme 
+
+FIG. 1. Diagrarnrne semilogarithmique montrant la variation de 
+
+emax en fonction de EAmax. La droite en trait plein a Ct C obtenue 
+i l'aide d'un ajustement par la mkthode des moindres carrks de 
+
+1'Cquation [l] aux donnCes expCrimentales trouvCes dans la littCrature 
+
+pour 43 solvants de polaritks diverses 21 la tempkrature ambiante (voir 
+
+tableau 1). 
+
+0 
+
+I 
+
+[I] Emax = Emax exP (-@-E~max) 
+d'Clectrons solvatCs, ainsi que la courbe exponentielle reprCsen-
+Un ajustement utilisant la mCthode des moindres carres conduit 
+tant la relation [I]. 
+
+I 
+
+a 
+= 5,48 X lo4 M-' cm-I et pour la valeur de la pente 
+I1 est intCressant de souligner ici que l'existence d'une telle 
+
+I 
+
+de la droite a a = O,8l eV-' avec un coefficient de corrClation 
+corrClation entre emax et EAmax implique une importante 
+Cgal a 0,914. Afin de mieux visualiser la relation ainsi Ctablie, 
+consCquence. En effet, si nous appelons dNmax la variation de la 
+nous avons report6 sur la figure 2 quelques spectres typiques 
+concentration en Clectrons solvatCs susceptibles d'absorber un 
+
+Pr~nrcd In Canada i lmpr~mc au Canada 
+
+Can. J. Chem. Downloaded from www.nrcresearchpress.com by 87.160.185.190 on 03/27/14 
+
+For personal use only. 
+
+
+554 
+
+CAN. J. CHEM. VOL. 68, 1990 
+
+TABLEAU 1. Valeurs, pour des solvants de polaritCs diverses, du coefficient d'extinction molaire au maximum du spectre 
+
+d'absorption optique de I'Clectron solvat6 (emax), de la largeur de celui-ci a mi-hauteur (W1,2) et de 1'Cnergie correspondant 
+2 1 ce m&amp;me maximum (EAmax)O 
+
+Solvant 
+
+Propanediol-1,3 
+Butanediol-1,4 
+Butanediol-1,3 
+Propanediol-1,2 
+Butanediol-2,3 
+GlycCrol 
+Ethanol 
+MCthanol 
+Propanol-1 
+Butanol-1 
+Propanol-2 
+MCthoxy-2 Cthanol 
+Ethyltne glycol 
+DCcanol-l 
+Butanol-2 
+Octanol-l 
+MCthyl-2 propanol-1 
+Amino-2 Cthanol 
+
+H 2 0 
+
+Diamino-1,2 Cthane 
+D20 
+Hydrazine 
+MCthyl-2 propanol-2 
+Diamino-1,3 propane 
+Dimethyl-1,3 imidazolidinone-2 
+DimCthyl-1,3 oxohexahydropyrimidine-2 
+~utanone-2" 
+Ether n-butylique 
+Ether n-propylique 
+DiCthylamine 
+Isopropy lamine 
+N-MCthyl-py rrolidinone 
+HexamCthy lphosphoramide 
+n-Propy lamine 
+MCthy lamine 
+Diglyme 
+Ether Cthylique 
+DimCthoxy-1,2 Cthane 
+Ethylamine 
+Trigly me 
+MCthyl-2 tktrahydrofuranne 
+TCtrahydrofuranne 
+Ammoniac 
+
+"Valeurs sClectionnCes a la tempkrature ambiante. 
+bUtilisC dans les figures 1, 3 et 4. 
+'Valeur estimte. 
+
+"Les cCtones captent les Clectrons. 11 est possible que le spectre obtenu dans le butanone-2 (point a) corresponde a celui d'un radical anion 
+
+(G. R. Freeman, communication personnelle). 
+
+photon dont 1'Cnergie est comprise entre EAmax et EAmax + 
+
+dEAmax lorsqu'on passe d'un solvant au suivant, 
+
+U21 demax = P d N m a x = yemaxdEAmax 
+
+le nombre d'tlectrons Ctant proportionnel 2 l'elkment de surface 
+
+SOUS la courbe E,,,(E~,,,~~). Dans le cas general, on s'attendrait 
+
+a ce que p et y soient fonctions de la nature du solvant et donc 
+
+de EAmax. I1 n'en est cependant rien puisque la relation [2] est 
+
+identique 2 la relation exptrimentale [(I avec y = -a. Par 
+
+conskquent, la variation de emax avec EAmax provient essen-
+tiellement de la modification concomitante de la forme des 
+
+spectres, chaque Clectron solvat6 contribuant de la m&amp;me 
+
+manikre 2 la valeur de cmax quelle que soit la nature du solvant. 
+
+Ceci n'est valable que dans la inesure Cvidemment ou la relation 
+[ l ] est vCrifiCe. La dispersion des points expCrimentaux de la 
+figure 1 pourrait traduire la part due a l'influence de la nature 
+du solvant. 
+A notre connaissance, aucun modkle thCorique n'a prCdit 
+jusqu'ici une variation exponentielle deem,, avec EAmax. 11 faut 
+
+dire 2 ce sujet que la nature des transitions optiques responsables 
+
+du spectre d'absorption de l'klectron solvat6 reste encore 
+a ce jour relativement ma1 comprise. On sait en effet qu'un 
+Can. J. Chem. Downloaded from www.nrcresearchpress.com by 87.160.185.190 on 03/27/14 
+
+For personal use only. 
+
+
+FIG. 2. Spectres typiques d'absorption d'electrons solvatCs E(E), a la tempkrature ambiante, dans divers solvants : A A A , hexamethyl-
+
+phosphorarnide; e e e, tetrahydrofuranne; 
+
+0, n-propylamine; + + + , N-mkthylpyrrolidinone; --, diamino-1,2 ethane; ---, hydrazine; 
+
+H E l , HzO; ---, methanol; V V V, glyckrol. La courbe exponentielle en tirets represente le lieu gComCtrique des maxima E, , 
+
+, 
+
+des diffkrents 
+spectres tel que donne par la relation [I]. 
+
+1 / WI l 2 (ev-') 
+
+FIG. 3. Variation de em,, en fonction de 1/ Wllz. La droite en trait 
+plein a kt&amp; obtenue h l'aide d'un ajustement par la mCthode des 
+moindres carrks de l'kquation [3] aux donnees expkrimentales trouvCes 
+
+dans la littirature pour 41 solvants de polarites diverses a la temperature 
+
+ambiante (voir tableau 1). 
+
+, dCsaccord persiste entre les auteurs en ce qui concerne la nature 
+
+, physique des Ctats Clectroniques finals, la question poke restant 
+
+I 
+
+de savoir si les transitions mises en jeu se font vers des Ctats liCs, 
+
+I 
+
+ou bien vers un continuum d'Ctats dClocalisCs (55). Puisque 
+
+emax reflkte une mesure de la section efficace d'interaction 
+entre un Clectron solvatC et un photon d'inergie EAmax, la 
+relation [ I ] obtenue dans ce travail, bien qu'approximative, 
+pourrait apporter un indice utile 9 notre qukte d'une meilleure 
+comprChension de la nature du spectre d'absorption de 1'Clec-
+tron solvatC. 
+Dans la figure 3 nous avons track la variation de emax en 
+
+fonction de 1 / W l I z . Une corrClation linCaire est observCe, dont 
+
+l'extrapolation aux faibles valeurs de 1 / W l I 2 passe pratique-
+ment par l'origine. Une telle relation peut donc s'Ccrire sous la 
+forme 
+
+Un ajustement par la mCthode des moindres carrCs conduit 2i-q = 
+
+1,71 X lo4 M-' cm-I e~ et p, = 0,054 X lo4 M-' cm-' avec 
+un coefficient de corr6lation Cgal 9 0,921. 
+
+Cette corrClation linCaire entre emax et 1 / W 1 ,, pouvait Etre 
+
+attendue. En effet, de nombreux auteurs, et en particulier 
+Freeman et coll. ( 4 , 10, 41, 56), ont signal6 que la valeur de la 
+force d'oscillateur ( f ) correspondant au spectre d'absorption 
+de 1'Clectron solvat6 varie peu lorsqu'on passe d'un solvant a 
+l'autre. f est dCfini par (57) 
+
+oG e ( E ) est le coefficient d'extinction molaire a l'energie 
+
+E (eV). L'intCgrale de la relation [ 4 ] , qui reprisente l'aire 
+totale sous la courbe E ( E ) , peut Etre calculte avec une bonne 
+approximation par 1'Cquation 
+Can. J. Chem. Downloaded from www.nrcresearchpress.com by 87.160.185.190 on 03/27/14 
+
+For personal use only. 
+
+
+556 
+
+CAN. J. CHEM. VOL. 68, 1990 
+
+maximum. Cette corrtlation est inttressante sur un plan 
+pratique, car elle permet une estimation a priori de la forme du 
+spectre d'tlectrons solvatts dans un solvant polaire donnt. Sur 
+un plan plus fondamental, elle pourrait apporter un tltment utile 
+
+2 la comprthension de la nature du spectre de l'tlectron solvate. 
+
+1 
+
+Remerciements 
+
+Les auteurs tiennent 
+exprimer leurs remerciements au 
+Conseil de recherches mtdicales du Canada et au Programme 
+de coopkration franco-qutbtcoise en recherche mtdicale pour 
+l'aide financiere qu'ils leur ont apportte. 
+
+-
+-
+
+1. J.-P. JAY-GERIN and C. FERRADINI. J. Chem. Phys. 91, 3275 
+(1989). 
+2. K. OKAZAKI, K. M. IDRISS-ALI et G. R. FREEMAN. Can. J. Chem. 
+
+-
+
+-
+
+62,2223 (1984). 
+3. J.-P. JAY-GERIN et C. FERRADINI. Radiat. Phys. Chem. 33, 251 
+(1989). 
+
+-
+-
+
+4. F.-Y. Jou et G. R. FREEMAN. Can. J. Chem. 57, 591 (1979). 
+5. S. AMI et M. C. SAUER, JR. J. Chem. Phys. 44,2297 (1966). 
+6. T. KAJIWARA et J. K. THOMAS. J. Phys. Chem. 76, 1700 (1972). 
+7. M. C. SAUER, JR., S. ARAI et L. M. DORFMAN. J. Chem. Phys. 
+
+-
+
+-
+
+42, 708 (1965). 
+
+I 
+
+8. G. E. HALL et G. A. KENNEY-WALLACE. Chem. Phys. 32, 313 
+(1978). 
+
+I 
+I 
+
+I 
+
+I 
+
+I 
+
+9. A.-D. LEU, K. N. JHA et G. R. FREEMAN. Can. J. Chem. 61, 
+
+1 
+
+1 
+2 
+3 
+
+11 15 (1983). 
+10. F.-Y. Jou et G. R. FREEMAN. J. Phys. Chem. 81, 909 (1977). 
+
+E ~m a x (eV) 
+
+11. R. R. HENTZ et G. A. KENNEY-WALLACE. J. Phw. Chem. 78. 
+
+FIG. 4. Variation de Wllz en fonction de EAmax. La courbe en trait 
+plein illustre la relation [6]. Les donnCes experimentales du tableau 1 
+sont Cgalement reprCsentCes afin de verifier la validit6 de la loi 
+Wl12(EAmax) trouvee. La flkche indique la limite supkrieure pour 
+EAmm (-2,5 eV), telle que suggCrCe par Freeman (58). 
+
+D'apres les relations [4] et [5], on s'attend donc bien 2 ce que le 
+
+produit em, WlI2 soit peu modifit d'un solvant a l'autre, et par 
+
+constquent ii ce que emax varie de f a ~o n sensiblement inverse-
+ment proportionnelle avec WlI2. 
+On peut calculer, en utilisant les relations [3]-[5] et en 
+prenant en compte l'ensemble des solvants considtrts dans 
+
+cette etude, une valeur moyenne de f . Si l'on s'en tient ti la 
+
+dttermination prtcedente de q et p, on obtient f = 0,62. Une 
+
+telle valeur s'accorde bien avec les donntes de la litttrature 
+concernant les differents solvants. 
+L'existence d'une corrklation, d'une part entre emax et 
+EAmax, et d'autre part entre emax et WlI2, implique comme 
+consequence une corrtlation entre WlI2 et EAmax. Les relations 
+[I] et [3] donnent en effet immtdiatement 
+
+1 
+[61 w112 = a exp (-aEAmax) -b 
+
+avec a = ~:,,/q = 3,20 eV-' et b = I ~/ q 
+
+= 0,032 eV-', et 
+
+ou Wl12 et EAmax sont exprimts en eV. La relation [6] est 
+
+reprtsentte figure 4. Afin de vtrifier la validitt de la loi 
+WI12 (EAmax) ainsi trouvte, nous avons tgalement port6 sur 
+
+cette m&amp;me figure les donntes exptrimentales (voir tableau 1). 
+
+Comme on peut le voir, l'accord obtenu est satisfaisant. 
+En conclusion, nous avons montrt, sur la base des donntes de 
+la litttrature, qu'il est possible d'ttablir une corrtlation entre 
+le coefficient d'extinction molaire au maximum du spectre 
+
+d'absorption optique de l'tlectron solvatt, la largeur a mi-
+
+hauteur de celui-ci et l'energie correspondant 2 ce m&amp;me 
+
+514 (1974). 
+12. T. A. CHUBAKOVA et N. A. BAKH. Khim. Vys. Energ. 12, 373 
+(1978). (Traduction anglaise: High Energy Chem. 12, 315 
+(1979)). 
+13. R. S. DIXON et V. J. LOPATA. Radiat. Phys. Chem. 19, 495 
+(1982). 
+14. J. F. GAVLAS, F. Y. JOU et L. M. DORFMAN. J. Phys Chem. 78, 
+2631 (1974). 
+15. A. V. RUDNEV, A. V. VANNIKOV et N. A. BAKH. Khim. Vys. 
+Energ. 6, 473 (1972) (Traduction anglaise : High Energy Chem. 
+6, 416 (1973)). 
+16. K. OKAZAKI et G. R. FREEMAN. Can. J. Chem. 56,2305 (1978). 
+17. F.-Y. Jou et G. R. FREEMAN. J. Phys Chem. 83, 261 (1979); 
+88, 3900 (1984). 
+18. A. V. VANNIKOV. Usp. Khim. 44, 1931 (1975) (Traduction 
+anglaise: Russ. Chem. Rev. 44, 906 (1975)). 
+19. A. M. BRODSKY et A. V. TSAREVSKY. Int. J. Radiat. Phys. Chem. 
+8, 455 (1976). 
+20. J. P. KEENE. Radiat. Res. 22, 1 (1964). 
+21. E. J. HART et M. ANBAR. The hydrated electron. Wiley, New 
+York, NY. 1970. p. 39. 
+22. A. SINGH, W. J. CHASE et J. W. HUNT. Faraday Discuss. Chem. 
+SOC. 63, 28 (1978). 
+23. G. V. BUXTON, C. L. GREENSTOCK, W. P. HELMAN et A. B. 
+Ross. J. Phys. Chem. Ref. Data, 17, 5 13 (1988). 
+24. J. L. DYE, M. G. DEBACKER et L. M. DORFMAN. J. Chem. Phys. 
+52, 625 1 (1970). 
+25. J. L. DYE, M. G. DEBACKER, J. A. EYRE et L. M. DORFMAN. 
+J. Phys. Chem. 76, 839 (1972). 
+26. M. T. LOK, F. J. TEHAN et J. L. DYE. J. Phys Chem. 76, 2975 
+(1972). 
+27. J. A. D E L A I R E ~~J . 
+R. BAZOUIN. Can. J. Chem. 57,2013 (1979). 
+28. T. H. TRAN-THI, A. M. KOULK~S-PUJO, J. SUTTON et 0 . 
+ANITOFF. Radiat. Phys. Chem. 23, 77 (1984). 
+
+29. E. M. FIELDEN et E. J. HART. Radiat. Res. 33, 426 (1x8). 
+
+30. R. S. DIXON et V. J. LOPATA. Radiat. Phys. Chem. 11, 135 
+(1978). 
+31. F.-Y. Jou et G. R. FREEMAN. J. Phys. Chem. 83, 2383 (1979). 
+
+Can. J. Chem. Downloaded from www.nrcresearchpress.com by 87.160.185.190 on 03/27/14 
+
+For personal use only. 
+
+
+JAY-GERIN ET FERRADINI 
+
+557 
+
+32. J. DELAIRE, P. CORDIER, J. BELLONI, F. BILLIAU et M. 0. 
+DELCOURT. J. Phys Chem. 80, 1687 (1976). 
+33. W. A. SEDDON, J. W. FLETCHER et F. C. SOPCHYSHYN. Can. J. 
+Chem. 54, 2807 (1976). 
+34. J. DELAIRE. Doctorat &amp;-sciences physiques (Chirnie), UniversitC 
+de Paris-Sud, Orsay, France. 1980. 
+35. G. G. TEATHER et N. V. KLASSEN. Int. J. Radiat. Phys. Chem. 
+
+7, 475 (1975). 
+
+36. A.-D. LEU, K. N. JHA et G. R. FREEMAN. Can. J. Chem. 60, 
+
+2342 (1982). 
+
+37. L. M. DORFMAN et F. Y. JOU. Duns Electrons in fluids. The 
+nature of metal-ammonia solutions. Editeurs : J. Jortner et N. R. 
+Kestner. Springer, Berlin, Allemagne de I'Ouest. 1973. p. 447. 
+38. J. R. LANGAN, K. J. LIU, G. A. SALMON, P. P. EDWARDS, 
+A. ELLABOUDY et D. M. HOLTON. Proc. R. Soc. London, A : 
+
+421, 169 (1989). 
+
+39. A. V. VANNIKOV, E. I. MAL'TSEV, V. I. ZOLOTAREVSKY et 
+A. V. RUDNEV. Int. J. Radiat. Phys. Chem. 4, 135 (1972). 
+40. J.-P. DODELET et G. R. FREEMAN. Can. J. Chem. 53, 1263 
+
+(1975). 
+
+41. F.-Y. Jou et G. R. FREEMAN. Can. J. Chem. 54, 3693 (1976). 
+42. L. M. DORFMAN, F. Y. JOU et R. WAGEMAN. Ber. Bunsen-Ges. 
+Phys. Chem. 75, 681 (1971). 
+43. W. A. SEDWN, J. W. FLETCHER et F. C. SOPCHYSHYN. Can. J. 
+Chem. 56, 839 (1978). 
+
+44. J. M. B R O O K S ~~ 
+R. R. DEWALD. J. Phys Chem. 72,2655 (1968). 
+45. E. A. SHAEDE, L. M. DORFMAN, G. J. FLYNN et D. C. WALKER. 
+Can. J. Chem. 51, 3905 (1973). 
+46. F.-Y. Jou et G. R. FREEMAN. Can. J. Chem. 60, 1809 (1982). 
+47. W. A. SEDWN, J. W. FLETCHER et R. CATTERALL. Can. J. 
+Chem. 55, 2017 (1977). 
+48. W. A. SEDWN, J. W. FLETCHER, F. C. SOPCHYSHYN et R. 
+CATTERALL. Can. J. Chem. 55, 3356 (1977). 
+49. F. Y. Jou et L. M. DORFMAN. J. Chem. Phys. 58,4715 (1973). 
+50. M. F. Fox et E. HAYON. Chem. Phys. Lett. 25, 511 (1974). 
+51. G. A. SALMON, W. A. SEDDON et J. W. FLETCHER. Can. J. 
+Chem. 52, 3259 (1974). 
+52. J. BELLONI et J. FRADIN DE LA RENAUDI~RE. Nature, 232, 173 
+
+(1971). 
+
+53. FARHATAZIZ, L. M. PERKEY et R. R. HENTZ. J. Chem. Phys. 60, 
+
+4383 (1974). 
+
+54. J. BELLONI et J. L. MARIGNIER. Radiat. Phys. Chem. 34, 157 
+
+(1989). 
+
+55. T. R. TUTTLE, JR., S. GOLDEN et G. ROSENFELD. Radiat. Phys. 
+Chem. 32, 525 (1988). 
+56. K. N. JHA, G. L. BOLTON et G. R. FREEMAN. J. Phys. Chem. 76, 
+
+3876 (1972). 
+
+57. N. J. TURRO. Modem molecular photochemistry. Benjamin/ 
+
+Cumrnings, Menlo Park, CA. 1978. Chap. 5. p. 76. 
+
+58. G. R. FREEMAN. J. Phys Chem. 77,7 (1973). 
+
+Can. J. Chem. Downloaded from www.nrcresearchpress.com by 87.160.185.190 on 03/27/14 
+
+For personal use only. 
+
+
+
+	
+

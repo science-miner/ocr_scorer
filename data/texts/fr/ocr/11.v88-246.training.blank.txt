@@ -1,0 +1,473 @@
+
+	
+
+		
+
+	
+
+	
+
+~t u d e des courants periodiques observes lors de la dissolution electrochimique du nickel 
+en presence d'ions iodure et chlorure en milieu aqueux 
+
+Laboratoire d'ilectrochimie annlytique, Unitt nssociie no 41 7 du Centre nnfiorzc~l de In recherche scientGque, 
+Laboratoire des irlterphases, Urziversitk Lyon 1, 43 boulevcird du I1 novembre 1918, 69622 Ville~trbnnne CEDEX, Frnrzce 
+
+R e ~u le 24 novembre 1987 
+
+LI BEN LE et OLIVIER VITTORI. Can. J. Chem. 66, 1525 (1988). 
+
+Faisant appel a la voltamitrie a faible balayage ( &lt; 2 mV/s), on a CtudiC I'Clcctrodissolution du nickel en presence d'ions 
+
+chlorure et iodure. On a observk que la vitesse de dissolution du nickel est liie la concentration en chlorure et que I'addition 
+d'ioclure modifie la forme des courbes. On a noti que des oscillations du courant se produisent aprks un ddlai qui devient plus 
+court au fur et a mesure de I'augmentation de la concentration en iodure. Si la concentration en iodure est maintenue a un niveau 
+faible, ces oscillations se produisent sur un large eventail de potentiels. Une augmentation de cette concentration supprime les 
+oscillations et il apparait alors deux pics; le plus cathodique devient de plus en plus important. On discute de I'effet produit par 
+
+I'addition d'agents de surface; le p-octylbenzknesulfonate de sodium est le seul i supprimer les oscillations, mCme a faible 
+
+concentration alors que l'amidon agit progressivement de 1 a 40 g/L. Les changements de couleur qu'on note i la surface du 
+
+nickel durant les oscillations suggkrent qu'il se produit une dissolution prCfkrentielle aux jonctions des grains. Ceci explique la 
+couleur noire qu'on peut observer en alternance avec I'aspect mitallique; le nickel se couvre alors de particules finement divisCes 
+
+qui se dissolvent rapidement. L'iodure qui apparait occasionnellernent i de tels potentiels anodiques est probablcment impliquk 
+
+dans le processus de dissolution. 
+
+LI BEN LE and OLIVIER V ~T T O R ~. 
+Can. J. Chem. 66, 1525 (1988). 
+Electrodissolution of nickel in the presence of chloride and iodide ions has been investigated using low sweep voltammetry 
+( &lt; 2 mV/s). It has been observed that the rate of dissolution of nickel is related to the concentration of chloride, and that addition 
+of iodide modifies the shape of the curves. Oscillations of the current are noticed after a delay shortened by increasing the iodide 
+concentration. These oscillations occur over a wide range of potential provided the iodide concentration is kept low. Increasing 
+this concentration suppresses the oscillations, while two peaks appear, the more cathodic becoming progressively larger. 
+Addition of some surfactants is discussed and progressively larger. Addition of some surfactants is discussed and only SOBS 
+(sodium p-octylbenzene sulfonate) suppresses the oscillations even at low concentration, while starch acts progressively from 
+I to 40 g/L. Changes of color of the nickel surface during the oscillations suggests a preferential dissolution at the grain 
+boundaries, explaining the black color observed alternatively with a metallic appearancc, the nickel being at this time covered 
+with finely divided particles that dissolve quickly. Iodide, appearing only occasionally at such anodic potcntials. is probably 
+involved in the dissolution process. 
+
+L'etude du cornporternent anodique des rnCtaux est un vaste 
+dornaine d'un grand intCrCt pour les Ctudes de corrosion, comrne 
+l'a soulignC Rangarajan et coll. (1). Cet auteur a rassernblt un 
+grand nornbre d'exernples de courants pCriodiques apparaissant 
+lors d'un balayage anodique des potentiels, en milieu aqueux. 
+Ce phCnornene est observC avec diffCrents rnetaux tels que le 
+zinc (2), l'or (3), le fer (4), et le nickel (5). Sauf pour le zinc 
+qui prCsente des oscillations en milieu alcalin, tous les autres 
+exernples ont Ctt dCcrits en milieu acide (1, 3-5). D'autres 
+Ctudes dans les acides chlorhydrique et sulfurique ne citent pas 
+de telles oscillations mais soulignent le r61e des ions chlorure 
+dans l'accC1Cration du processus de corrosion (6-9). Un 
+cornportement identique a ett signal6 dans des melanges 
+methanol -acide chlorhydrique (10) ou en milieu neutre (I 1). 
+Dans ce dernier cas un film protecteur d'oxyde peut apparaitre, 
+rnais la prCsence d'ions chlorure, brornure et fluorure a une 
+grande influence sur la vitesse de destruction du film. Plusieurs 
+tentatives pour donner une explication thCorique satisfaisante 
+au comportement du nickel ont Ct C proposkes recernment par 
+Saraby-Reintjes (1 l), mais les modkles requikrent la connais-
+sance de plusieurs constantes du systkrne et de ce fait se rivelent 
+
+difficiles 2 appliquer. I1 apparait aussi que la corrosion par 
+
+piqSre du nickel est influencCe par la taille des grains cornrne 
+l'ont soulignC Cid et Petit (12), qui ont trait6 thermiquernent du 
+nickel polycristallin pour accroitre la taille des grains. Ainsi la 
+
+1. Adresse prCsente : UniversitC de Hangzhou, section de chimie, 
+Hangzhou, RCpublique populaire de Chine. 
+
+2. Auteur a qui toute correspondance doit Ctre adresste. 
+
+corrosion se produit en general d'abord aux joints de grains et 
+se trouve trks ralentie apres un tel traiternent. 
+Dans le prCsent article ondkcrit les oscillations du courant qui 
+peuvent Ctre observees quand un fil de nickel est immerge dans 
+une solution d'ions chlorure dans laquelle la concentration en 
+ion iodure est croissante, et que le potentiel appliquC est rendu 
+progressivement anodique. 
+
+Partie experimentale 
+
+Les balayages de potentiel ont 6tC appliquCs avec un polarographe 
+Tacussel (France), type PRG5, associC a un enregistreur EPL2 de 
+mCme marque. Les vitesses usuelles ont CtC 1 ou 2 mV/s. Une cellule 
+a trois ilectrodes a it6 employCe, avec une Clectrode de rCfCrence 
+au calomel, saturCe. L'Clectrode auxiliaire Ctait un fil de platine et 
+I'Clectrode de travail un fil de nickel de 0,5 mm de diarnetre de purete 
+99,99% Aldrich (U.S.A.). La longueur immergCe Ctait de 5 mm dans 
+tous les essais et la surface de I'ilectrode de 7,85 mm2. 
+Les rCactifs ont CtC choisis de qualit6 analytique. Le pH des solutions 
+a CtC a virifik et trouvk situC entre 6 et 7, exception faite pour NH4C1 
+1 M (tableau 2), pour lequel il Ctait de 5. L'eau Ctait dCionisCe puis 
+distillie. ~' o x ~~e n e 
+n'Ctait pas chassC par l'azote, et les essais ont CtC 
+
+effectuks a 20 + O,l°C. 
+
+Resultats et discussion 
+Le potentiel de depart a ett fixe a -0,l V/ecs, une valeur 
+a laquelle aucune rCaction Clectrochirnique ne se produit. La 
+vitesse maximum de balayage n'a jamais excCde 2 mV/s pour 
+s'approcher des conditions d'un Ctat quasi-stationnaire lors de 
+la dissolution. Les courbes intensite-potentiel tracCes dans des 
+solutions de concentration croissante en KC1 montrent que le 
+
+Printed in Canada I Imprime au Canada 
+
+Can. J. Chem. Downloaded from www.nrcresearchpress.com by 87.160.185.190 on 03/27/14 
+
+For personal use only. 
+
+
+CAN. J. CHEM. VOL. 66, 1988 
+
+-0.1 
+
+0.0 O,I 0.2 0.3 o 
+! 
+, 0.5 0.6 OJ 0,8 0.9 
+
+POTENTIEL V/ecs 
+
+FIG. 1. Courbes de dissolution Clectrochimique du nickel en fonction de la concentration en ions chlorure. Courbes : 1, 2,68 M; 2, 1,34 M; 
+
+3, l,00 M; 4, 0,67 M. 
+
+nickel se dissout progressivement plus rapidement. On observe 
+toujours un premier pic proche de 0,O V/ecs, dont l'importance 
+est en relation avec la concentration des ions chlorure, et si 
+celle-ci est faible le pic n'est pas observable (figure 1). I1 sernble 
+que ce pic peu important correspond a la formation d'une 
+couche d'hydroxyde de nickel Ni(OH)* en surface. Le second 
+pic trks intense correspond 5 la dissolution totale du nickel 
+(figure 1). En solution non agitCe on observe sous le fil de 
+nickel la formation d'une colonne liquide verticale de densite 
+supkrieure a celle de la solution. Cette observation visuelle est 
+d'autant plus nette que la dissolution est importante. La faible 
+stabilitC des ions complexes du nickel en prCsence d'ions 
+chlorure et iodure incline a penser que le nickel est sirnplement 
+sous forme d'aquocornplexes. 
+Les ions Ni2+ formCs descendent par gravitC au fond de la 
+
+cellule, ou ils riagissent avec les ions hydroxyles apparus a 
+
+1'Clectrode auxiliaire qui est alors cathodique. L'hydroxyde de 
+nickel apparait progressivernent mais le pH au voisinnage du fil 
+de nickel ne varie pas si la cellule est de dimension suffisante 
+(environ 100 rnL d'Clectrolyte support), et si 1'Clectrode auxi-
+liaire n'est pas trop proche. La correction de chute ohmique 
+ne s'impose pas ici compte tenu de la conductivitk ClCvCe de 
+1'Clectrolyte et de la faible vitesse de balayage. 
+Une concentration de 1 M en KC1 a Ct C retenue pour 1'Ctude 
+de l'influence des ions iodure. Un essai prkliminaire dans KI 
+0,024 M, soit 4 g/L, a montrC que le nickel ne se dissout que 
+trks lentement. L'addition de quantitCs croissantes de KI dans 
+KC1 1 M rCvkle une grande diffkrence par rapport aux tracks 
+prCctdents dans KC1 seul (figure 2). En premier on n'observe 
+
+plus le pic de faible intensitC, a 0,O V/ecs, mais on remarque 
+
+que la dissolution dtbute assez brutalement vers +0,15 V/ecs. 
+Puis la courbe intensitC-potentiel devient quasi-rectiligne et de 
+pente positive. La figure 3 montre 1'Cvolution progressive des 
+courbes. I1 faut noter l'apparition d'oscillations de f a ~o n assez 
+brutale au sommet de la partie rectiligne. Le potentiel auquel 
+se produisent ces oscillations est d'autant moins anodique que 
+la concentration en ions iodure s'accroit. Sur la figure 3 les 
+oscillations sont schCmatisCes pour simplifier le dessin. En fait 
+
+0 0.1 
+0,3 
+0.5 
+0,7 
+0.9 
+P O T E N TlEL V/ecs 
+
+FIG. 2. Courbes de dissolution Clectrochimique du nickel en fonc-
+
+tion de la concentration en ions iodure, pour une concentration 
+constante en ions chlorure ([KCI] = I M). Courbes : 1 , 0,012 M; 
+2,0,024M; 3, 0,048M;4, 0,12M. 
+
+leur frkquence fait que l'enregistrement apparait comme une 
+zone teintCe et il faut augmenter nettement la vitesse d'enregis-
+trement pour les discerner. Durant les oscillations le courant 
+moyen dtcroit et un second pic se forme d'importance crois-
+sante avec l'augmentation de la concentration en ion iodure. 
+Paralldement on constate que la zone d'oscillations diminue 
+
+pour pratiquement disparaitre si [I-] &gt; 0,12 M environ. Les 
+
+deux pics sont alors toujours observables et la dissolution est 
+totale. Durant les oscillations on observe que lorsque le courant 
+dtcroit le fil est de couleur mCtallique et lorsqu'il croit la couleur 
+devient noire. Des examens sur plaque de nickel de 0,5 cm2 de 
+surface ont confirm6 cette observation. La dissolution du fil 
+reste progressive et de symCtrie radiale. 
+Can. J. Chem. Downloaded from www.nrcresearchpress.com by 87.160.185.190 on 03/27/14 
+
+For personal use only. 
+
+
+LE ET VI'ITORI 
+
+1527 
+
+TABLEAU 1. Influence de quelques agents tensioactifs 
+
+Concentration 
+ColnposC tensioactif 
+(g/L) 
+Influence 
+
+Bromure de N-~CtyltrimCthylammonium 
+1 
+Sans 
+7 
+Faible 
+Chlorure de benzenethonium 
+1 
+Sans 
+8 
+Faible 
+SDS, dodCcylsulfate de sodium 
+1 
+Faible 
+Alizarine sulfonate de sodium 
+1 
+Sans 
+SOBS p-octylbenzene sulfonate 
+de sodium 
+
+1 
+
+Oui 
+Amidon 
+1-40 
+Oui 
+
+4 
+
+Ces observations suggkrent un double mecanisme pour la 
+
+dissolution du nickel lorsqu'il est port6 a un potentiel suffisam-
+
+ment negatif pour que deux rCactions se produisent. 
+
+5 f i 
+
+Dans la partie montante de la courbe i-E et jusqu'au dCbut 
+
+des oscillations il se produit la reaction simple : 
+
+TEMPS ( 5 ) 
+
+I 
+
+I 
+
+0 
+5 
+10 
+
+FIG. 3. Observation des oscillations de courant en milieu KC1 1 M 
+pour une concentration en ions iodure de 0,096 M , a diffkrents 
+potentiels. 1,640 mV; 2,660 mV; 3,700 mV; 4,750 mV; 5,860 mV. 
+
+On note l'apparition d'iode sous la forme 13-lors des 
+oscillations et pas avant dans la partie rectiligne croissante du 
+courant. De nouveau la densite plus ClevCe de la colonne liquide 
+sous le fil de nickel permet l'accumulation d'iode au fond de la 
+cellule. Toutefois les quantitCs d'iode forme restent tres faibles, 
+ce qui indique qu'il ne s'agit ici que d'une rCaction secondaire 
+minoritaire. Pour observer plus prCcisCment les oscillations on a 
+balaye en potentiel jusqu'a la zone ou elles se produisent, puis 
+enregistrk a grande vitesse en maintenant le potentiel fixe. En 
+fait la valeur moyenne du courant reste ClevCe (figure 3). On 
+constate sur la figure 3 que ces oscillations sont assez regulikres 
+
+a court terme : 10-20 oscillations, mais elles Cvoluent un Deu 
+
+au cours du temps. Parfois une oscillation irrCgulikre apparkt. 
+La forme du courant depend du potentiel appliquC et de la 
+concentration en iodure. On a m&amp;me constate entre des trains 
+d'oscillations des pCriodes de quelques secondes durant les-
+quelles le courant reste constant (exemple a +0,86 V/ecs, 
+figure 3 .) 
+L'Ctude par fluorescence X d'une plaque de nickel de 5 mm 
+
+de cote, souinise a des balayages de potentiels arrCtCs a +0,45 et 
++0,55 V/ecs dans KC1 1 M et KI 0,024 M montre que Ni(OH)2 
+
+est present (raie a 0,2340 nm). Le nickel seul donne deux raies 
+
+0,2020 et 0,1750 nm. Si on se rCfkre i la courbe 2, figure 3, on 
+
+constate que 0,45 V/ecs est situC avant les oscillations tandis 
+que +0,55 V/ecs est au dCbut de celles-ci. Ceci montre que les 
+ions iodure attaquent essentiellement le nickel metal. Comme 
+l'altemance de couleur, mCtallique et noire, traduit lors des 
+oscillations le passage d'un Ctat poli a un Ctat granulaire avec de 
+trks fines particules (type nickel de Raney), on est conduit a 
+penser que ce sont les joints de grains qui sont prkferentielle-
+ment attaauks. 
+Lors de changements alternQ de la couleur de la surface il a 
+Ct C observk, par examen 2 la loupe, que l'iode se forme quand la 
+surface du nickel a l'aspect mCtallique, ce qui provoque des 
+variations de teinte de lacolonne liquide sous l'iectrode. 
+
+Ni -+ Ni2+ + 2e 
+
+Compte tenu de la valeur du produit de solubilitC de Ni(OH), 
+
+qui est de l'ordre de 10-l4 et du fait que le milieu KC1 + KI peut 
+
+&amp;tre considCrC neutre, la formation de l'hydroxyde en surface 
+s'explique par le fait que c'est en surface que la concentration 
+instantannke de Ni2+ est la plus forte. Quand la zone des 
+oscillations dCbute, une deuxieme rCaction concurrence la 
+premikre : 
+
+Cependant la faible quantite d'iode observCe suggkre qu'il y a 
+reaction chimique selon : 
+
+Cette reaction se produit prkfkrentiellement aux joints de grains 
+que l'on peut considerer comme plus fragiles que les micro-
+cristaux. Ceci est en accord avec les remarques de Cid et 
+Petit (12) qui indiquaient que le recuit du nickel diminuait la 
+corrosion par piqhre. 
+Comme il s'agit d'un phCnomkne qui se produit a l'interface 
+metal-solution, on peut penser que l'addition de composes 
+organiques, tels que-les agents tensioactifs, peut modifier ou 
+supprimer les oscillations en limitant l'apparition d'iode, ou en 
+uniformisant l'attaque du nickel. Comme le montre le tableau 1 
+plusieurs composCs la concentration de 1 g/L ont Ct C essayes. 
+I1 s'avkre que seuls le SOBS, ou p-octylbenzenesulfonate de 
+sodium, et l'amidon provoquaient une disparition des oscilla-
+tions. Le SOBS est trks actif car dCs 0,001 M (figure 4) il fait 
+disparaitre les fluctuations de courant tandis que l'amidon a un 
+r6le progressif entre 1 et 40 g/L. Tous les agents tensioactifs 
+n'ont pas Ct C testes sur une large gamme de concentration et on 
+s'est limit6 a ceux qui donnaiint le rtsultat le plus net a 1 g/L. 
+Les sels d'ammonium quatemaire qui sont chargCs positivement 
+ne peuvent s'adsorber a ces potentiels et sont donc sans 
+influence. On peut Cgalement signaler que l'addition de faibles 
+quantitCs de thiourCe supprime les oscillations et decale la 
+
+courbe vers les potentiels cathodiques, c'est i dire rend plus 
+
+aisCe la dissolution du nickel et parait inhiber l'action des ions 
+iodure (figure 4). 
+Enfin on a recherchC d'autres milieux salins dans lesquels les 
+oscillations pouvaient apparaitre (tableau 2). Deux remarques 
+peuvent &amp;tre faites. La premikre est que seuls les milieux riches 
+en ions chlorure ou bromure permettent les oscillations a la 
+Can. J. Chem. Downloaded from www.nrcresearchpress.com by 87.160.185.190 on 03/27/14 
+
+For personal use only. 
+
+
+1528 
+
+CAN. J. CHEM. VOL. 66. 1988 
+
+0 0,l 
+0,3 
+0,5 
+0, 7 
+0.9 
+POTENTIEL V / e c s 
+
+FIG. 4. Courbes de dissolution Clectrochimique du nickel en milieu 
+KC1 I M en prCsence d'ions iodure 0,024 M. Courbe 1 : sans additif; 
+courbe 2 : avec 0,0001 M de SOBS; courbe 3 : avec 0,0026 M de 
+thiourke. 
+
+TABLEAU 2. Milieux donnant des oscillations 
+
+Concentration 
+Systkme 
+(g/L) 
+Oscillations 
+
+KC1 I M + KI 
+
+KBr 1 M + KI 
+
+NaCl 1 M + NaI 
+NH,CI 1 M + NH,I 
+NH4CI I M + KI 
+KC1 I M + KF 
+
+KC1 1 M + KBr 
+KF 1 M + K1 
+(NH,),S04 1 M + NH,I 
+
+NH400C-CH3 1 M + K1 
+
+Oui 
+Oui 
+Oui 
+Oui 
+Oui 
+Non 
+Non 
+Non 
+Non 
+Non 
+
+condition d'stre associts aux ions iodure. La seconde est que 
+la prtsence d'ions iodure n'est pas une condition suffisante 
+puisque les milieux sulfate et acetate n'ont pas permis d'obser-
+ver la moindre oscillation. L'insolubilitt d e certains sels ne 
+peut &amp;tre CvoquCe puisqu'avec les ions chlorure, iodure, acetate 
+et sulfate, le nickel donne des composts tres solubles, et le 
+
+fluorure moins soluble (4 g/L) ne peut intervenir dans un 
+
+blocage partiel de la dissolution, qui reste totale dans toutes les 
+exptriences. 
+En conclusion, l'ttude de l'oxydation anodique du nickel en 
+presence d'ions chlorure et iodure a r t v t l t un comportement 
+particulier du mttal, et les oscillations du courant ont t t t attri-
+
+butes 2 des rtactions paralleles avec formation intermkdiaire 
+
+d'iode, dont la rtactivitt se manifeste par une attaque du mttal 
+dans ses zones les moins rtsistantes. 
+
+I. K. S. INDIRA, S. K. RANGARAJAN et K. S. G. Doss. J. Electro-
+anal. Chem. 21, 57 (1969). 
+2. R. C. V. PIATTI, J. J. PODESTA et A. J. ARVIA. Electrochim. Acta, 
+25, 827 (1980). 
+3. J. J . PODESTA, R. C. V . PIATTI et A. J. ARVIA. Electrochim. Acta, 
+24, 633 (1979). 
+4. J. J. PODESTA, R. C. V. PIATTI et A. J. ARVIA. J. Electrochem. 
+SOC. 126, 1363 (1979). 
+5. J. OSTERWALD et H. G. FELLER. Electrochim. Acta, 7, 523 
+(1962). 
+6. A. BENGALI et K. NOBE. J. Electrochem. Soc. 126, 11 18 (1979). 
+7. M. ZAMIN et M. B. IVES. J . Electrochem. Soc. 121, 1141 (1974). 
+8. D. D. N. SINGH et M. K. BANERJEE. Corrosion, 42, 156 (1986). 
+9. K. CARR, S. BAER et C. A. MELENDRES. Corrosion, 42, 307 
+(1986). 
+10. B. MACDOUGALL et M. J. GRAHAM. J. Electrochem. Soc. 132, 
+2553 (1985). 
+11. A. SARABY-REINTJES. Electrochim. Acta, 30, 387 (1985); 30, 
+403 (1985). 
+12. M. ClDet M. C. PETIT. Proceedings of the 5th Intern. Symposium 
+on Passivity. Elsevier, Bombranes, France. 1983. p. 335. 
+
+Can. J. Chem. Downloaded from www.nrcresearchpress.com by 87.160.185.190 on 03/27/14 
+
+For personal use only. 
+
+
+
+	
+

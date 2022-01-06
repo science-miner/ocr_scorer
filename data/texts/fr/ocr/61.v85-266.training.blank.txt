@@ -1,0 +1,486 @@
+
+	
+
+		
+
+	
+
+	
+
+Capacite calorifique de polyelectrolytes en solution 
+
+HUBERT DAOUST, HOA LE THANH,' PIERRE FERLAND' ET DANIEL ST-CYR3 
+
+Dkpartement de Chimie, Universite' de Montreal, Montre'nl (Qut.), Canada H3C 3VI 
+
+Re~u le 8 aoiit 1984 
+
+Cet article est de'dik nu Professeur Carnille Sandorb ci I'occnsion de son 65' nnniversaire 
+
+HUBERT DAOUST, HOA LE THANH, PIERRE FERLAND et DANIEL ST-CYR. Can. J. Chem. 63, 1568 (1985). 
+Des mesures de capacitC calorifique de polyClectrolytes en solution dans I'eau ont Ct C rCalisCes a 25°C a I'aide d'un 
+microcalorimktre dynamique du type Picker. Cet appareil est d'une prCcision telle que le calcul de capacitC calorifique molaire 
+apparente (C,,,) du solutC devient possible mCme i haute dilution. Les polymkres CtudiCs furent I'acide polymCthacrylique 
+(HPMA) et I'acide polyacrylique (HPA) ainsi que son sel de sodium, de mCme que le polystyrenesulfonate de sodium. Les 
+rksultats montrent que pour les sels, la valeur de C,,, dCcroit rapidement avec la dilution a faible concentration en parfait accord 
+
+avec une relation obtenue a partir de la thCorie de Lifson et Katchalsky. Ude Ctude de la variation de Cp.+, a concentration fixe, 
+
+en fonction du degrC de neutralisation de I'HPA et de I'HPMA a aussi CtC rCalisCe. Comme il a dCji Cte dtmontrC par d'autres 
+travaux, la chaine de I'HPMA subit une transformation conformationnelle lorsque le degrC de neutralisation atteint environ 
+25%. Cette transformation se rCflkte par une augmentation de C,,,p. 
+
+HUBERT DAOUST, HOA LE THANH, PIERRE FERLAND, and DANIEL ST-CYR. Can. J. Chem. 63, 1568 (1985). 
+Heat capacities of polyelectrolytes in aqueous solutions have been measured at 25' C using a Picker-type dynamic micro-
+calorimeter. The precision of the apparatus is such that it is possible to calculate the apparent molar heat capacity (C,,,,) of 
+the solute, even at high dilution. The polymers that were studied include polymethacrylic acid (PMAH) and polyacrylic acid 
+(PAH), as well as its sodium salt and the sodium salt of the polystyrenesulfonate. For the salts, the results show that the value 
+of C,,+ decreases rapidly with dilution to low concentrations; this result is in perfect concordance with a relation derived from 
+the theory of Lifson and Katchalsky. A study of the variation of C,,,, at a constant concentration, with the extent of the 
+neutralization of the acids PMAH and PAH has also been conducted. As has been shown previously, the chain of the PMAH 
+undergoes a conformational transformation when the level of neutralization gets close to 25%. This transformation implies an 
+increase of the value of C,,,,. 
+[Journal translation] 
+
+Introduction 
+
+Les solutions de polyClectrolytes sans addition d'Clectrolyte 
+
+neutre prCsentent un dCfi a tout traitement thCorique global (1). 
+
+Le comportement d'une chaine polyClectrolytique change con-
+sidkrablement avec la dilution. En effet, cinq domaines de 
+
+concentrations ont etC dCcrits par Wolff (2) lors d'une etude sur 
+
+la viscosite de solutions de polyClectrolytes et par Odijk (3) qui 
+a appliqut la loi d'echelle aux solutions semi-dilutes de poly-
+Clectrolytes. Trois concentrations critiques ont alors CtC dl-
+finies: c: , 
+
+concentration a laquelle les chaines de polyions 
+
+fortement alongCes ne peuvant plus s'orienter librement com-
+
+mencent a former un rCseau tridimensionnel; C*, concentration 
+
+a laquelle les polyions interagissent assez fortement pour faire 
+plier les chaines; C**, concentration a laquelle le rCseau tri-
+
+dimensionnel est dktruit. Contrairement a C: et a C*, C** ne 
+
+dtpend pas de la longueur de la chaine CtalCe. Les cinq do-
+
+maines de concentrations sont alors (2,3): (I) C &lt; c:, domaine 
+
+trks diluC ou les chaines sont CtirCes leur longueur maximum 
+et oh les interactions entre polyions sont nCglFgeables; (11) C: 
+
+&lt; C &lt; C*, domaine diluC ou les chaines demeurent rigides 
+
+mais interagissent fortement de f a ~o n a former un rCseau tri-
+
+dimensionnel; (111) C* &lt; C &lt; C**, domaine semi-diluC ou le 
+
+rCseau est toujours existant mais les dimensions de chaines 
+
+dCcroissent; (IV) C &gt; C**, domaine ou le rkseau tri-
+
+dimensionnel disparait pour faire place a un systkme plus ou 
+
+moins ordonnCe de polyions de conformation spherique en 
+contact les uns avec les autres; (V), C &gt;&gt; C**, domaine ou les 
+
+'Nouvelle adresse: DCpartement de Chimie, UniversitC du Quebec 
+
+a MontrCal, Montreal (QuC.), Canada H3C 3P8. 
+
+'Nouvelle adresse: Alcan International LtCe, Laboratoire Arvida et 
+Centre de Genie Experimental, Jonquikre (QuC.), Canada G7S 4K8. 
+'Nouvelle adresse: Du Pont Canada Inc., Research Centre, P.O. 
+Box 5000, Kingston, Ont., Canada K7L 5A5. 
+
+polyions sont enchevEtrCs et leur conformation est gaussienne 
+tel un polymkre neutre. 11 serait trks interessant de pouvoir faire 
+des Ctudes expCrimentales couvrant tous les cinq domaines de 
+concentrations. Cependant, les valeurs calculCes pour C: pour 
+
+des chaines vinyliques ayant des degrCs de polymCrisation de 
+lo4 et lo5 sont 1 , l X 
+
+et 1 , l X 
+monomol L-' res-
+pectivement (1). Les valeurs correspondantes pour C * sont 
+7,6 x 
+et 7,6 x 
+monomol L-' . Les domaines I et I1 
+ne sont donc pas accessibles a l'expkrience, du moins pour des 
+
+macromolCcules ayant une masse molaire suffisamment ClevCe 
+pour &amp;tre considCrCes comme telles. D'autre part, le domaine 
+111 est accessible car la valeur de C** est estimte 4,3 x 
+
+monomol L-' (1). La loi dlCchelle telle qu'appliquke par Odijk 
+sous-Cvalue peut-Etre C * et C**. En effet, des risultats obtenus 
+en diffusion quasi-Clastique de la lumikre par des solutions de 
+polystyrknesulfonate de sodium indiquent que la dimension de 
+la chaine se rapproche de celle d'une chaine cornplktement 
+Ctendue (4). Les mEmes rksultats indiquent aussi un com-
+portement non-uniforme pour les chaines dans le domaine de 
+concentrations 111; ceci est confirm6 par des expkriences en 
+
+relaxation magnCtique nuclCaire dans le mEme domaine (5). 
+
+Les propriCtCs thermodynamiques de solutions de poly-
+Clectrolytes dCpendent de plusieurs facteurs. Entre autres, les 
+interactions Clectrostatiques sont trks importantes. De fait, elles 
+sont considCrCes comme Ctant l'unique facteur responsable de 
+la valeur de la chaleur de dilution de solutions de poly-
+Clectrolytes dans le domaine de concentrations 111 (6). Parmi les 
+fonctions thermodynamiques interessantes, il y a la capacitk 
+calorifique. 
+Dans un article prCcCdent (7), la capacite calorifique molaire 
+apparente a pression constante, C,,+, pour un polyClectrolyte a 
+
+CtC definie par la somme de deux termes. Le premier, C,,+,, est 
+la contribution venant des effets non-Clectrostatiques et le 
+second, C,*, la contribution venant des interactions Clectros-
+Can. J. Chem. Downloaded from www.nrcresearchpress.com by 87.160.185.190 on 03/27/14 
+
+For personal use only. 
+
+
+DAOUST ET AL. 
+
+1569 
+
+FIG. 1. Variation de la capacitC calorifique molaire apparente en 
+
+fonction de la molalitC dans I'eau a 25°C. 
+
+tatiques. En posant C,,+, = C,, il a Ct C possible d'obtenir une 
+relation pour C, a partir du modele cellulaire de Lifson et 
+Katchalsky (LK) pour un polyion en solution diluCe (8): 
+
+avec 
+
+[2] p, = (1 + p2) y + In {[(I -A)* -P2]/(l -p2)) + A 
+
+oh a est le degrC d'ionisation du polyClectrolyte; z , , le nombre 
+de charges des groupements ionises sur le polyion; z2, le 
+nombre de charges des contreions; A, le parametre de densite 
+de charges; D, la constante diilectrique du solvant; V, le 
+volume de la solution; (3, une constante d'intkgration et y, un 
+paramktre de la concentration. I1 a Ct C dCmontre que dans l'eau, 
+C, est une quantite negative (7) et varie d'une fagon 
+logarithrnique avec la concentration dans le domaine de con-
+centrations ou le modkle cellulaire le LK est applicable, soit 
+dans les domaines I et 11, et au debut du domaine 111. Des 
+rtsultats expCrimentaux obtenus autour de la concentration C** 
+semblent confirmer les pridictions thCoriques (7). Tant qu'i 
+C,+,, sa valeur est siirement affectfie par les forces Clectros-
+tatiques qui ont une trks grande influence sur les changements 
+de conformation des chaEnes et sur la mobilitC des segments 
+l'intkrieur des chaines en fonction de la concentration. D'autres 
+effets secondaires mais de tres grande importance tels 
+l'hydratation coulombique et les effets structuraux au niveau du 
+solvant affectent la valeur de C,+, (9). De plus, la solvatation 
+hydrophobe affecte aussi cette quantitC (9). 
+
+Dans le present travail, une Ctude plus approfondie de 
+la capacitk calorifique des polyClectrolytes en solution sans 
+addition d'&amp;lectrolyte neutre est prQentCe. Les effets du degre 
+d'ionisation sont discutes. 
+
+Partie experimentale 
+
+Produits utilists 
+
+Les difftrents polyrneres utilisks dans cc travail sont: un tchantillon 
+d'acide polyrnCthacrylique (HPMA) dCj8 dtcrit aillxrs (10) ayant un 
+degrt de polyrntrisation viscosirnttrique rnoyen (DP,) de 1920; un 
+Cchantillon d'acide polyacrylique (HPA) provenant de chez Poly-
+
+sciences, Inc. et ayant un E, de 2080; finalernent, un Cchantillon de 
+
+polystyr&amp;nesulfonate de sodium (NaPSS) provenancde chez Dow 
+Chemical International (Sarnia, Ontario) et ayant un DP, de 2750. Le 
+sel de sodium de HPA a CtC prepart selon une rnCthode dCcrite ailleurs 
+( 1 1). Tous les autres produits utilisCs Ctaient des rCactifs analytiques. 
+Les solutions ont CtC prCparCes par voie gravimktrique, I'eau utilisCe 
+Ctait distillee et dCioniste. 
+
+Me'thode expe'rimentale 
+
+Les capacitCs calorifiques volumiques (J rnL.-') des solutions ont 
+CtC dCterrninCes B l'aide d'un microcalorirnktre diffcrentiel dynamique 
+Picker; elles ont ett convertics en capacitCs calorifiques rnassiques (J 
+g-') en les divisant par les densites des solutions dCterrninCes a I'aide 
+d'un densirnktre dynarnique Picker. La technique expkrirnentale a dCja 
+CtC dCcrite prCctdernrnent (12). L'erreur estimCe sur le calcul de C,,+ 
+diminue sensiblernent lorsque la concentration augmente. Par exem-
+ple, elle est moins de f 10% pour une rnolalitC de 0,02 et moins de 
+22% pour une rnolalitC de 0,l. Tous les rtsultats sont exprimes pour 
+une mole de motif de base. 
+
+Resultats et discussion 
+La variation de Cp.? en fonction de la molalitC est representee 
+sur la fig. 1 pour les differents polymeres en solution dans l'eau 
+a 25°C. Les donnCes expCrimentales sont disponibles sur de-
+mande.4 Les rCsultats indiquent une diminution de C,.+ lorsque 
+la concentration augmente dans le cas des deux polyacides 
+faibles. Des rksultats similaires ont ete obtenus pour le poly-
+oxyCthylkne dans l'eau (12). L'augmentation de la concen-
+tration intensifie I'enchevCtrement des chaines, ce qui reduit 
+leur mobilitC ou leur rnouvement de reptation et cela se reflete 
+dans la valeur de Cp,+. Cependant, l'application de 1'Cq. [8] de 
+la rCf. 12 prCvoit une augmentation de C,,+ avec la concen-
+tration car le parametre enthalpique d'interaction est positif et 
+constant (0,48) a 25°C (13) et est positif mais plus petit et 
+variable a 35°C.5 I1 semble bien que l'application seule de la 
+thermodynamique des solutions de macromol~cules ne suffit 
+pas pour expliquer l'allure de la variation de C,., avec la 
+
+. , 
+
+concentration. 
+Les rCsultats obtenus pour les deux polyelectrolytes forts 
+sont aussi representes sur la mCme figure. Pour NaPSS, la 
+chute de cP,+lorsque la concentration dcminue vers le domaine 
+111 est remarquable. MCme lorsque la valeur de C,, indiquCe au 
+bas du graphique, est retranchee de celle de Cp,+, I'allure de 
+C,,+,, demeure tres fortement affectee par la dilution. La 
+dilution d'une solution aqueuse semi-diluee d'un poly-
+electrolyte fort est accompagnCe par la rupture ou le relh-
+chement de liaisons Clectrostatiques fortes entre les sites 
+chargCs sur les polyions et les contreions, ce qui donne lieu 
+a I'augmentation du degrC d'hydratation coulombique des 
+espkces ioniques ainsi IibCrCes. D'apres la loi de Born, la 
+
+4DCp8t de donntes non publites, ICIST, Conseil National de 
+recherches du Canada, Ottawa, Ontario, Canada KIA OS2. 
+'R. Daweau. Travaux non-publiCs. 
+
+Can. J. Chem. Downloaded from www.nrcresearchpress.com by 87.160.185.190 on 03/27/14 
+
+For personal use only. 
+
+
+1570 
+
+CAN. J. CHEM. VOL. 63, 1985 
+
+* HPMA 
+
+0 HPA 
+
+FIG. 2. Variation de la capacitk calorifique rnolaire apparente 
+moyenne en fonction du degrC de neutralisation ? i 
+25°C (rnolalitCs: 
+0,32 pour HPA et 0,20 pour HPMA). 
+
+solvatation coulombique doit apporter une contribution nega-
+
+tive a C,,? mais des rksultats exp&amp;imentaux obtenus dans le ;as 
+
+de petits ions en solvants non-aqueux ont contredit cette prtdic-
+tion theorique (9). La loi de Born serait peut-&amp;tre applicable 
+dans le cas de solutions aqueuses de polyelectrolytes. Par ail-
+leurs, si la dilution doit conduire 2 un systkme tridimensionnel 
+de polyions rigides (domaine II), en passant par un systkme 
+plus ou moins ordonnC de sphkres rigides (domaine 111), C,,+ 
+doit ntcessairement chuter vers une valeur plus faible et ce 
+passage devrait se faire graduellement. Dans le cas de NaPA, 
+l'allure des rtsultats est semblable quoique moins prononcte. 
+Cette difftrence pourrait &amp;tre due au pourcentage tlevt ( ~6 0 % ) 
+d'ions sodium qui demeurent liCs aux chaines m&amp;me a faible 
+concentration de polymkre (14). 
+La figure 2 reprCsente la variation de la valeur moyenne de 
+C,.+ en fonction du degrt de neutralisation, a concentration de 
+polymkre fixe, pour HPMA et pour HPA dans l'eau. Dans le 
+cas prtsent, la masse molaire moyenne d'un motif de base est 
+
+dtfinie par M A + (1 -a)MH + cx MNa ou M A est la masse 
+
+molaire du motif acrylate ou miithacrylate selon le cas, MH, 
+celle de l'hydrogkne et MNa, celle du sodium. L'allure gCnCrale 
+des rtsultats indique bien la diminution de C , + avec l'aug-
+mentation de cx en accord avec l'tq. [l], compte tenu du fait 
+que la contribution de l'ion sodium a C,,+ h dilution infinie est 
+de 23 J K-' mol-' plus tlevCe que celle de l'ion hydrogkne 
+(15). (Cette contribution par rapport au proton hydrogkne n'est 
+
+FIG. 3. Variation de I'incrCrnent de la capacitC calorifique rnolaire 
+apparente moyenne en fonction du degrC de neutralisation a 25°C 
+(molalitCs: 0,32 pour HPA et 0,20 pour HPMA). 
+
+pas connue.) Cette diminution de Cp,+ lorsque cx augmente, se 
+retrouve egalement lors de 1'Ctude de la neutralisation de 
+l'acide acCtique (16, 17). Cependant, le grand Ccart entre la 
+valeur de C,,+ a cx = 0 et sa valeur a cx = 1 ne peut &amp;tre expliquC 
+seulement que par des interactions Clectrostatiques. Lors de 
+l'ionisation, un effet destructeur de la structure de l'eau est 
+produit par les ions formts et cet effet amkne une contribution 
+nCgative a Cp,+ (9, 17). La figure 3 permet une meilleure 
+comparaison entre les rtsultats obtenus pour HPMA et HPA 
+dans l'eau. La valeur de L C , + reprtsente la diffkrence entre 
+celle de C,,+ pour l'acide ( a = 0) et la valeur moyenne de C,,+ 
+pour la valeur de cx correspondante. La valeur de LC,,+ diminue 
+d'une f a ~o n monotone depuis l'acide jusqu'au sel dans le cas 
+de HPA et cette courbe a la m&amp;me allure que celle du pour-
+centage d'ions sodium fixts sur les polyions en fonction de cx 
+
+(14); ceci revient a dire que LCp,+ varie linkairement avec ce 
+
+pourcentage d'ions liCs. Dans le cas de HPMA, deux anomalies 
+ressortent des rksultats. La premikre anomalie apparait autour 
+d'une valeur d'environ 0,3 pour a . Cette anomalie doit corres-
+pondre a la transition bien connue pour la chaine de HPMA qui 
+passe d'une structure compacte globulaire ou les groupements 
+mtthyles sont dirigCs vers l'interieur de la chaine a une 
+structure plus Ctendue ou ces m&amp;mes groupements deviennent 
+accessibles aux moltcules d'eau (1 8, 19). L'hydratation hydro-
+phobe accompagnant cette transition expliquerait l'augmen-
+tation de C,.+ (9) de HPMA partiellement neutralist par rapport 
+a HPA. Une augmentation de Cp.+ a aussi Ctt observCe lors de 
+la dknaturation de plusieurs protCines gobulaires en solution 
+dans l'eau par addition d'urte (16, 17). Cette dtnaturation 
+amkne la prottine a se dtplier en pelote statistique et l'aug-
+Can. J. Chem. Downloaded from www.nrcresearchpress.com by 87.160.185.190 on 03/27/14 
+
+For personal use only. 
+
+
+DAOUST ET AL. 
+
+157 1 
+
+H P M A 
+
+0 H P A 
+
+FIG. 4. Variation du volume rnolaire apparent rnoyen en fonction 
+
+du degrC de neutralisation h 25°C (rnolalitCs: 0,32 pour HPA et 0,20 
+pour HPMA). 
+
+rnentation de C,,+ est attribuCe a l'hydratation hydrophobe qui 
+accornpagne la dknaturation. La courbe pour HPMA devrait 
+derneurer sous celle de HPA au-dela de a = 0,3 car seulernent 
+I'ionisation et l'hydratation coulornbique devraient se pour-
+suivre. Mais une deuxierne anornalie se prCsente lorsque a 
+augrnente et cette fois C,,+ dirninue. La littkrature ne rapporte 
+pas de seconde transition lors de la neutralisation de HPMA. 
+L'explication de cette deuxierne anornalie pourrait se trouver 
+dans une dkshydratation partielle des groupernents rnkthyles. 
+Ce phCnornkne se passerait aussi dans le cas de solutions 
+dilutes d'espkces ioniques possCdant des groupernents hydro-
+phobes (10, 20). Lors de l'ouverture de la chaine poly-
+rnkthacrylique, il est permis de prCsurner que presque tous les 
+
+groupernents rnCthyles s'hydratent. Mais a ce moment, la 
+
+charge nette portCe par la chaine est faible. Au fur et 2 rnesure 
+que a augrnente, cette charge nette augrnente Cgalernent et le 
+champ Clectrostatique ainsi crCC peut briser la structure 
+pentagonale des rnolCcules d'eau (21) autour de quelques 
+groupernents rnCthyles. 
+La figure 4 reprCsente la variation du volume rnolaire ap-
+parent (V+) en fonction du degrC de neutralisation pour les deux 
+polyacides. L'allure des deux courbes est monotone et aucune 
+anornalie ne ressort de la courbe relative a HPMA autour de a 
+= 0,3 et a = 0,6. Cette absence de variation subite dans la 
+valeur de V+ lors de l'ouverture de la chaine polyrnCthacrylique 
+n'est pas unique au cas prksent. Alors que la valeur de C,,+ 
+augrnente apprkciablernent lors de la dknaturation des protCines 
+globulaires, la valeur de V+ varie peu ou ne varie pas lors de la 
+
+transformation conforrnationnelle (16). Cependant, la chute de 
+V+ en fonction de a est initialernent plus rapide lors de la 
+neutralisation de HPMA cornparativernent a HPA. La prCsence 
+du groupernent rnethyle sur le carbone porteur du groupernent 
+carboxylate et le changernent conforrnationnel de HPMA ne 
+sont sOrernent pas Ctrangers a ce phknornene. En effet, 
+l'hydratation hydrophobe, tout cornrne les interactions Clectros-
+tatiques et l'effet destructeur de la structure de l'eau, apporte 
+une contribution negative a Vm (9). 
+
+Conclusions 
+Le rnodkle cellulaire de LK pour un polyion en solution trks 
+diluCe et la structure d'une solution de polyClectrolyte Cvoluant 
+avec la concentration tel que propose par Wolff et Odijk sern-
+
+blent expliquer qualitativernent I'allure des risultats obtenus a 
+
+partir de rnesures de capacitCs calorifiques. Par ailleurs, 
+l'hydratation coulornbique et l'hydratation hydrophobe jouent 
+un r6le trks important dans la valeur de cette quantitC pour les 
+polyClectrolytes. 
+
+Remerciements 
+L'aide financikre fournie par le Conseil de Recherche en 
+Sciences Naturelles et en GCnie du Canada et par le Ministkre 
+de 1'Education du QuCbec a rendu ce travail possible. Nous les 
+en rernercions. 
+
+1. M. MANDEL. Eur. Polyrn. J. 19, 911 (1983). 
+2. C. WOLFF. J. Phys. (Paris), Colloq. 39, C2-169 (1978). 
+3. J. ODIIK. Macromolecules, 12, 688 (1979). 
+4. R. S. KOENE et M. MANDEL. Macromolecules, 16, 973 (1983). 
+5. M. LEVIJ, J. DE BLEYSER et J. C. LEYTE. Chern. Phys. Lett. 83, 
+
+183 (1981); 87, 34 (1982). 
+
+6. D. DOLAR. Darzs Polyelectrolytes. EdirC par E. SCICgny. Reidel, 
+
+Dordrecht. 1974. 
+
+7. H. DAOUST, P. FERLAND et D. ST-CYR. J. Polyrn. Sci. Polyrn. 
+
+Phys. Ed. 21, 1563 (1983). 
+8. S. LIFSON et A. KATCHALSKY. J . Polyrn. Sci. 13, 43 (1954). 
+
+9. J. E. DESNOYERS et C. JOLICOEUR. Dirns Treatise in electro-
+chemistry. Vol. 5. EditCpar J. O'M. Bockris, B. E. Conway, et 
+
+E. Yeager. Plenum Press, New York. 1982. Chap. I. 
+
+10. H. DAOUST et M.-A. CHABOT. Macromolecules, 13, 616 (1980). 
+1 1 . H. DAOUST et D. ST-CYR. Polyrn. J . 14, 831 (1982). 
+12. H. DAOUST et D. ST-CYR. Macromolecules, 17, 596 (1984). 
+13. J . P. CARTIER et H. DAOUST. Can. J. Chern. 49, 3935 (1971). 
+14. M. NAGASAWA, I. NODA, T. TAKAHASHI et N. SHIMAMOTO. 
+J. Phys. Chern. 76, 2286 (1972). 
+15. J. E. DESNOYERS, C. DE VISSER, G. PERRON et P. PICKER. 
+
+J. Solution Chem. 5, 605 (1976). 
+
+16. B. R~EDL. Thhse de doctorat, UniversitC de Sherbrooke, 
+
+Sherbrooke, QuCbec, Canada. 1984. 
+
+17. B. RIEDL et C. JOLICOEUR. J. Phys. Chern. 88, 3348 (1984). 
+18. V. CRESCENZI, F. QUADRIFOGLIO et F. DELBEN. J. Polyrn. Sci. C, 
+
+39, 241 (1971). 
+
+19. F. DELBEN, V. CRESCENZI et F. QUADRIFOGLIO. Eur. Polym. 
+
+J . 8, 933 (1972). 
+
+20. N. ISE, K. MITA et F. OKUBO. J. Chern. Soc. Faraday Trans. 1, 
+
+69, 106 (1973). 
+
+21. F. T. MARCHESE et D. L. BEVERIDGE. Chern. Phys. Lett. 105, 
+
+431 (1984). 
+
+Can. J. Chem. Downloaded from www.nrcresearchpress.com by 87.160.185.190 on 03/27/14 
+
+For personal use only. 
+
+
+
+	
+

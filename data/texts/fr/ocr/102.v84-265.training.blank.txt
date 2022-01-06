@@ -1,0 +1,359 @@
+
+	
+
+		
+
+	
+
+	
+
+Nouvelle synthese electrochimique de y-bisdioxolannes symetriques et dissymetriques 
+
+CHRISTOPHE D A U B I ~, 
+CATHY BACQUET-EINHORN ET DANIEL LELANDAIS' 
+
+Laboratoire de Chimie Orgarlique Structurale, Biitirnenf F , 4 Place Jussieu, 75230 Paris Cedex 05, France 
+
+R e p le 12 aoDt 1983 
+
+CHRISTOPHE DAUBIE, CATHY BACQUET-EINHORN et DANIEL LELANDAIS. Can. J. Chem. 62, I552 (1984). 
+La de dioxolannes a-iodes permet de preparer une serie de y-bisdioxolannes symetriques et 
+dissymetriques. 
+
+CHRISTOPHE DAUBIE, CATHY BACQUET-EINHORN, and DANIEL LELANDAIS. Can. J. Chem. 62, 1552 (1984). 
+The electrochemical reduction of a-iodinated dioxolanes leads to the preparation of a series of symmetrical and non-
+symmetrical y-bisdioxolanes. 
+[Journal translation] 
+
+Nous avons rtcemrnent rnis au point une nouvelle mtthode 
+de prtparation de cetals a-iodts ( I ) du type 
+
+avec R' = H ou radical, et il nous a semble inttressant d'ttudier 
+
+le comporternent Clectrochirnique de ces composes. 
+
+En effet, les iodures d'alkyle R1 ttant connus pour fournir un 
+
+radical R' par reduction electrochimique, nous pouvions es-
+
+ptrer dans notre cas aboutir, par dimtrisation du radical inter-
+
+mediaire, a des y-bisdioxolannes qui ont dtja t t t I'objet de 
+
+notre attention (2, 3). 
+Par ailleurs, I'obtention par rtduction Clectrochimique, du 
+dioxolanne de la cyclopropanone a partir du 2,2 bis(chlor0-
+mtthy1)-1,3 dioxolanne (4) et la rtactivitt plus grande des 
+dtrivts iodts par rapport aux analogues chlorts confortaient cet 
+espoir. 
+En fait les essais d'tlectrolyse rnents dans des conditions 
+analogues ou voisines (utilisation d'une concentration supt-
+rieure en dtrivt halogtnt destinte 2 favoriser la dirntrisation) 
+de celles dtcrites par Van Tilborg et a/. (4) ne nous ont conduits 
+qu'a de faibles quantitts de dimere. A c6tt du cttal des-
+halogtnt (80%) la rCaction fournit un melange cornplexe de 
+produits (probablernent issus de l'ouverture du cycle cttalique 
+et de diverses dtgradations). 
+Les essais d'tlectrolyse dans les conditions classiques ayant 
+Cchout, nous avons observt que la rtaction esptrte se pro-
+duisait avec de bons rendernents en dimere (Tableau 1) et des 
+rendernents rnoyens en courant en conduisant I'tlectrolyse de la 
+faqon suivante: (i) cellule a cornpartirnent unique; (ii) anode en 
+platine et cathode en platine portte a un potentiel pouvant 
+atteindre -5 V par rapport a I'electrode de rtftrence au calo-
+mel; (iii) milieu rnkthanolique anhydre 1 M en dioxolanne 
+a-iodt et 1 M en potasse. 
+Les conditions optratoires extrsrnes utilisees nous arnknent, 
+
+sans vouloir discuter du rntcanisme, a faire quelques re-
+
+marques: 
+1. L'tlectrolyse conduite en cellule 6. cornpartiments stparts 
+-dont seul le cornpartiment cathodique reqoit le substrat -
+libere le dimere avec des rendements qui ne sont pas suptrieurs 
+a ceux observts en compartirnent unique, tout en cornpliquant 
+le montage. 
+2. L'utilisation d'une quantitt tquimolaire de potasse est 
+indispensable, le substrat n'ttant modifit que proportion-
+
+TABLEAU 1. Preparation de y-bisdioxo-
+lannes symetriques 
+
+No. 
+
+R' 
+
+R' 
+
+Rendement (%) 
+
+1 
+
+Me 
+H 
+
+2 
+
+tBu 
+H 
+
+3 
+
+Me 
+Me 
+
+4 
+
+Me 
+Et 
+
+5 
+
+Me 
+iPr 
+
+6 
+
+Me 
+Pent 
+
+7 
+
+Ph 
+Me 
+
+8 
+
+-(CH2),-
+
+nellernent 5 la quantitt de potasse ajoutte. L'tlectrolyse 
+s'accornpagne d'ailleurs d'une forte prtcipitation d'iodure de 
+potassium. 
+3. Les dtrivts brornts sont retrouvts intacts dans les rnCrnes 
+conditions d'tlectrolyse. 
+4. Si les rtactions electrochirniques classiques ont perrnis 
+d'obtenir un peu (5%) des dirn6res attendus, nous avons pu 
+observer qu'il en etait de rnCme lors de diverses rtactions de 
+type Wurtz utilisant le sodium (5). Mais les rendements sont 
+tres faibles 18 encore et le produit principal est le dioxolanne 
+dtshalogent. 
+La rntthode proposte ici sernble donc satisfaisante. Elle 
+prtsente cependant des limitations: en effet les acttals a-iodts 
+ouverts fournissent essentiellernent des produits de dtgradation 
+tandis que les dioxannes-1,3 a-iodCs, homologues superieurs 
+des dioxolannes utilids. ne conduisent au'au dioxanne dC-
+
+I Auteur a qui adresser toute correspondance. 
+
+shalogtnt. Par contre, cette Clectrolyse s'est revtlte une syn-
+thkse rentable de y-bisdioxolannes dissymttriques. 
+Can. J. Chem. Downloaded from www.nrcresearchpress.com by 87.160.185.190 on 03/27/14 
+
+For personal use only. 
+
+
+D A U B ~E ET AL.: 2 
+
+TABLEAU 2. Prtparation de y-bisdioxolannes dissymttriques 
+
+No. 
+R1 
+R' 
+R" 
+R" 
+
+A (%)* 
+B (%)* 
+C (%)* 
+
+H 
+Me 
+Me 
+H 
+Me 
+Pent 
+H 
+iBu 
+iPr 
+
+Ces produits sont obtenus en utilisant une mtthode bien 
+connue pour d'autres dimtrisations radicalaires mixtes, la 
+tion de Kolbe en particulier (3): le cCtal a-iodt le plus prtcieux 
+est introduit de fagon controlte durant l'electrolyse d'un exces 
+du compost le plus accessible. 
+En conclusion, on peut remarquer que, si pour certains 
+y-bisdioxolannes (1, 2) les rendements sont ltgtrement inft-
+rieurs a ceux que nous avions obtenus par oxydation anodique 
+
+d'acides P-cttaliques ( 2 ) , la methode reste cornpttitive vu I'ac-
+
+ces tres aist aux produits de depart. En outre, contrairement a 
+
+la rtaction prtcedemment decrite, elle permet I'acces a des 
+y-bisdioxolannes substitues sur les carbones centraux, ce qui 
+accroit considtrablement la quantite de squelettes carbones sus-
+ceptible~ d'&amp;tre atteints par cette voie. 
+Enfin, sans prtjuger des applications nouvelles issues d'un 
+dtblocage selectif des cttals, en cours d'ttude au labora-
+toire, ces y-bisdioxolannes rnenent par deblocage total B 
+des y-dicttones dont I'inttrst comrne synthons n'est plus a 
+dtrnontrer. 
+
+Partie experimentale 
+Les spectres rmn ont ttt effectuts sur un appareil Brucker 80WP en 
+
+solution dans le deutkrochloroforme avec pour rtftrence interne 
+L'hexamtthy Idisiloxane. 
+
+I. Prkparation des dioxolannes a-iodls 
+
+11s ont t t C synthCtists de deux f a ~o n s diffkrentes: soit par une 
+
+rtaction d'Cchange brome-iode sur la cetone bromte selon la rtf. 6 
+suivie de la prtparation du dioxolanne selon Salmi (7), composts 1, 
+3-7; soit par iodation directe des dioxolannes de cttones selon la ref. 
+1, composts 2 et 8. 
+
+11. Obtention des bisdioxolannes 
+1. Conditions d'e'lectrol~~se: mode opkraroire g@nPrc~l 
+L'appareil utilist est un potentiostat Tacussel PRT 40-5X qui per-
+met d'imposer un potentiel fixe &amp; la cathode. Les mesures cou-
+
+lomktriques ont Ctt faites a I'aide d'un integrateur Tacussel IG5-LN 
+
+montt en strie sur le circuit. L'intensitt du courant est vtrifite par un 
+amperemetre montt sur le circuit de I'anode. La cellule d'tlectrolyse 
+est constitute par une cuve de verre entourte d'une jaquette permettant 
+de maintenir une circulation d'eau de refroidissement. L'anode est une 
+lame de platine de 3 cm' et la cathode une lame de platine de 9 cm'. 
+Cas de y-bisdio.rolannes syrnktriques 
+Dans la cellule non diviste une solution de 0,02 mol de dioxolanne 
+a-iodt dans 20 mL de mtthanol anhydre est introduite. L'tlectrolyse 
+est effectute sous agitation magnttique et la tension imposte est 
+comprise entre -2.5 et -5 V par rapport a 1'Clectrode de rtftrence au 
+calomel, la rtaction commence dks que I'on ajoute quelques pastilles 
+de potasse. L'addition de potasse doit se faire progressivement pour 
+eviter une trop forte intensitt de courant. L'tlectrolyse est arr2tCe 
+apres passage de 3 F/mol substrat. Le mtlange rtactionnel est tvapo-
+
+Can. J. Chem. Downloaded from www.nrcresearchpress.com by 87.160.185.190 on 03/27/14 
+
+For personal use only. 
+
+
+1554 
+
+CAN. J. CHEM. 
+
+re sous pression rCduite, le rtsidu est repris par 100 mL d'un melange 
+1 : 1 d'ither et de chloroforme. Le pricipiti jaune obtenu est filtrk. Le 
+filtrat est stchC au carbonate de sodium puis Cvaport. 
+Cas de y-bisdio.xolannes dissyme*triques 
+Dans la cellule, une solution de 0,02 mol du a-iodC le 
+plus accessible est mis en solution dans 20 mL de mtthanol anhydre. 
+L'Clectrolyse est dCmarree dans les m&amp;mes conditions que ci-dessus 
+mais une solution de 0,01 mol du dioxolanne a-iodt le plus prCcieux 
+dans 10 mL de methanol est ajoutee goutte j. goutte de telle sorte que 
+toute la solution soit verste aprks passage de 0,01 F. La potasse est 
+ajoutte dks l'introduction du produit le plus prtcieux et 
+progressivement tout au long de I'Clectrolyse de maniere a maintenir 
+une intensite de courant constante. La reaction est ensuite menCe 
+comme prCctdemment. 
+2. Produits isole's 
+Bis(methy1-2 dioxolanne-1,3 yl-2)-1,2 Pthane, 1 (2) 
+Rendement 70%. 
+Bis(tertiobuty1-2 dioxolanne-l,3 yl-2)-1,2 Pthane, 2 ( 2 ) 
+Rendement 70%. 
+Bis(mkthy1-2 dioxolanne-1,3 yl-2)-2,3 britane, 3 (2) 
+Rendement 66%. 
+Bis(mCthy1-2 dioxolanne-1,3 yl-2)-3,4 hexane, 4 
+Rendement 60%; sCpare sur S.E.30 i 210°C; rrnn (CDCI,): 3,95 (s, 
+8H), 2 8 1,2 (m, 6H), 1,2 (s, 6H), 1 (t, 6H) ppm. Anal. calc. pour 
+CI4H26O4: C 65-08, H 10,14; trouvke: C 65,30, H 10.08. 
+Bis(mPthy1-2 dioxolant~e-l,3 yl-2)-3,4 (dimethyl-2,5) hexane, 5 
+Rendement 69%; sipark sur S.E.30 a 210°C; rrnn (CDCI,): 3,9 (s, 
+8H), 1,8 B 1,2 (m, 4H). 1,2 (s, 6H), 0,9 (d, 12H) pprn. Anal. calc. 
+pour C16H3004: C 67,09, H 10,56; trouvCe: C 67,04, H 10,47. 
+Bis(me'thy1-2 dioxolanne-1,3 yl-2)-6,7 dodecane, 6 
+Rendement 58%; sipart sur S.E.30 i 210°C; rmn (CDCI,): 3,9 (s, 
+8H), 2 B 0,6 (m, 30H) ppm. Anal. calc. pour C2XH3X04: C 70,13, H 
+1 1,18; trouvCe: C 70,08, H 1 1,12. 
+Bis(phe'ny1-2 dioxolanne-1,3 yl-2)-2,3 butane, 7 
+Rendement 59%; F 115°C; rrnn (CDCI,): 7,5 a 7,2 (m, IOH), 4 B 
+3,5 (m, 8H), 2,5 a 2,l (m, 2H), I a 0,8 (m, 6H) ppm. Anal. calc. pour 
+C22H2604: C 74,55, H 7,39; trouvie: C 7433, H 7,37. 
+Bis(dioxa-1,4 spiro[4,5] dkcy1e)-6,6', 8 
+Rendement 57%; stpark sur S.E.30 B 210°C; rrnn (CDCI,): 3,95 (s, 
+8H), 2,2 1 (m, 18H) ppm. Anal. calc. pour Cl6H~604: C 68,05, H 
+9,28; trouvte: C 68,01, H 9,23. 
+(Methyl-2 dioxolanne-1,3 yl-2)-2 (methyl-2 dioxolanne-1,3 yl-2)-1 
+propane, 9 
+
+Rendement 54%; sipare sur S.E.30 a 210°C; rmn (CDCI,): 3,9 (s, 
+
+8H), 2 8 1,5 (m, 3H), 1,35 (s, 3H), 1,15 (s, 3H), 1,05 (d, 3H) ppm. 
+Anal. calc. pour CIIH2,O4: C 61,09, H 9,32; trouvie: C 61,05, H 
+9,28. 
+
+(Methyl-2 dioxolanne-1.3 yl-2)-2 (mtthyl-2 dioxolanne-1,3 yl-2)-I 
+heptane, 10 
+Rendement 52%; stpare sur S.E.30 a 210°C; rrnn (CDC13): 3,95 (s, 
+8H), 2 a 0.8 (m, 20H) ppm. Anal. calc. pour C15H2x04: C 66,14, H 
+10,36; trouvCe: C 66,08, H 10,32. 
+(Isobutyl-2 dioxolanne-1,3 yl-2)-2 (methyl-2 dioxolanne-1,3 yl-21-1 
+methyl-3 butane, 11 
+Rendement 55%; sCparC sur S.E.30 a 210°C; rmn (CDC13): 3,95 (s, 
+8H), 2 i 1,4 (rn, 7H), 1,4 (s, 3H), 1 i 0,8 (m, 12H) ppm. Anal. calc. 
+pour C16H300~: C 67,09, H 10,56; tro~vke: C 67,02, H 10.54. 
+(Cyclohexyl-2 dioxolanne-1,3 yl-2)-1 (methyl-2 dioxolanne-1,3 
+yl-2)-2 propane, I2 
+Rendement 37%; sCparC sur S.E.30 i 210°C; rrnn (CDCI,): 3,95 (s, 
+
+8H), 2 A 0,9 (m, 17H). 1,2 (s, 3H) ppm. Anal. calc. pour C16HzaO4: 
+
+C 67,57, H 9,93; trouvbe: C 67,54, H 9,91. 
+(Phknyl-2 dioxolanne-1,3 yl-2)-2 (methyl-2 dioxolanne-1,3 yl-2)-I 
+propane, 13 
+Rendement 30%; sCpart sur S.E.30 B 210°C; rrnn (CDCI,): 7,5 k 
+7,2(rn,5H),4,1 a 3 , 6 ( m , 8 H ) , 2 , 2 a 1,4(m,3H), 1,2(s,3H),0,95 
+(d, 3H) ppm. Anal. calc. pour C16H2204: C 69,04, H 7,97; trouvCe: 
+C 69,03, H 7,95. 
+(Tertiobutyl-2 dioxolanne-1,3 yl-2)-I (isobutyl-2 dioxolanne-1,3 
+yl-2)-2 methyl-3 butane, 14 
+Rendement 50%; sCpart sur S.E.30 i 210°C; rrnn (CDCI,): 4,1 B 
+3,9 (m, 8H), 1,9 i l , l (m, 7H), 1,05 i 0 , 9 (m, 21H) ppm. Anal. calc. 
+pour C19H3604: C 69,47, H 11,05; trouvke: C 69,40, H 11,03. 
+(Methyl-2 dioxolanne-1,3 yl-2)-2 (isobutyl-2 dioxolanne-1,3 yl-2)-3 
+methyl-4 pentane, 15 
+Rendement 47%; sCparC sur S.E.30 5 210°C; rrnn (CDCI,): 3,9 (s, 
+
+8H), 2,1 a 1,5 (m, 6H), 1,2 (s, 3H), l , l i 0,8 (m, 15H) ppm. Anal. 
+
+calc. pour C17H3204: C 67,96, H 10,74; trouvie: C 67,91, H 10,70. 
+[(Ethylenedioxy)-2,2 ~ropyll-6 dioxa-1.4 spiro[4,5] dicane, 16 
+
+Rendement 53%; sipari sur S.E.30 i 210°C; rrnn (CDCI,): 4,l A 
+
+3,7 (m, 8H), 2,2 B l , l (m, 14H) ppm. Anal. calc. pour CI3HZZO4: C 
+64,44, H 9,15; trouvte: C 64,38, H 9,09. 
+
+1. C. D A U B I ~, C. BACQUET-EINHORN et D. LELANDAIS. Can. J. 
+Chem. 62, 1548 (1984). 
+2. J. EINHORN, J. L. SOULIER, C. BACQUET et D. LELANDAIS. Can. 
+J. Chem. 61, 584 (1983). 
+3. C. BACQUET-EINHORN, J. L. SOULIER et D. LELANDAIS. Bull. Soc. 
+Chim. Belg. 92, 305 (1983). 
+4. W. J. M. VAN TILBORG, R. PLOMP, R. DE RUITER et C. J. SMIT. 
+Recl. Trav. Chim. Pays-Bas, 99, 206 (1980). 
+5. G. M. LAMPMAN et J. C. AUMILLER. Org. Synth. 51, 55 (1971). 
+6. B. MODARAI et E. KHOSHDEL. J. Org. Chem. 42, 3527 (1977). 
+7. E. J. SALMI. Chem. Ber. B, 71, 1803 (1938). 
+
+Can. J. Chem. Downloaded from www.nrcresearchpress.com by 87.160.185.190 on 03/27/14 
+
+For personal use only. 
+
+
+
+	
+

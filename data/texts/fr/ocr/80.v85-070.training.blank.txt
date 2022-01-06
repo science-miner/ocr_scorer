@@ -1,0 +1,676 @@
+
+	
+
+		
+
+	
+
+	
+
+Reactions de Wittig et d'Horner-Emmons en serie trifluoromethylee : synthese de 
+nouveaux F-alkyl esters isomhes a , P et P,y-insatures 
+
+HEDI TRABELSI, BRIGITTE BERTAINA ET AIME CAMBON 
+
+Laboratoire de Chimie Organique du Fluor, U.E.R. -I.M.S.P., Universite'de Nice, Pnrc Vnlrose, 06034 Nice Cedex, France 
+
+Requ le 8 mai 1984 
+
+HEDI TRABELSI. BRIGITTE BERTAINA et AIME CAMBON. Can. J . Chem. 63, 426 (1985). 
+
+Les reactions de Wittig et Horner-Emmons sont rt5alistes en utilisant la n-butyl trifluoromCthy1 cCtone et la benzyl 
+trifluoromCthy1 cCtone. De nouveaux F-alkyl esters a,P et P,y-CthylCniques sont obtenus. Le mode de formation de ces derniers 
+est discutC. 
+
+HEDI TRABELSI, BRIGITTE BERTAINA, and AIME CAMBON. Can. J . Chem. 63, 426 (1985). 
+
+New F-alkyl a$ and P-y-unsaturated esters were obtained by Wittig and Horner-Emmons reactions using n-butyl and 
+
+benzyl trifluoromethyl ketones. A mechanism for formation is discussed. 
+
+Introduction 
+alcknes F-alkyles activCs par des groupements Clectro-
+Les rCactions de Wittig, Wittig-Homer ou Homer-
+attracteurs (6-10): la reaction de condensation d'un dtrivt 
+
+Emmons, trks utilisCes en sCrie hydrocarbonke (I -3, se sont 
+
+carbonylC, d'acces facile (9), sur un ylure de phosphore ou un 
+Cgalement revCICes de bonnes mtthodes pour synthCtiser des 
+phosphonate conduit alors, essentiellement a un composC 
+a,p-insaturk et F-alkyle. 
+
+Rr = CF3 
+
+R = Me, Ph ... 
+
+Rr =C,F2,+1 ( n = 3 , 5 , 7 ... ) 
+
+R = Me, Ph, Et, nPr ... 
+
+X = COOMe, CN, COCH 3... 
+
+Nous avons souhait6 utiliser ces reactions pour synthktiser 
+Si la methode de Wittig a rCpondu a nos esptrances, celle 
+des composCs du type: 
+d'Horner-Emmons a conduit majoritairement a des esters 
+
+B,r-insaturks. . . 
+
+CF'xc=cHcooEt 
+R/ 
+
+Resultats et discussion 
+Dans le cas de la reaction de Wittig, la condensation de la 
+
+en vue de I'obtention de polymkres a bas indice de rkfraction 
+
+n-butyl trifluoromCthyl cetone avec le carboCthoxymCthylkne-
+utilisables dans I'industrie des fibres optiques (I I). 
+triphCnylphosphorane conduit aux rksultats suivants: 
+
+(A) isomkre E (90%) 
+
+Dans le cas de la reaction d'Horner-Emmons, la m&amp;me 
+phosphonate en presence de NaH. Les risultats sont les 
+cCtone a Ct C condensee avec le carboCthoxymCthyl diCthyl 
+suivants: 
+Can. J. Chem. Downloaded from www.nrcresearchpress.com by 87.160.185.190 on 03/27/14 
+
+For personal use only. 
+
+
+On voit clairement que la reaction d'Horner-Emmons 
+donne un mtlange de trifluoromtthyl oltfines activtes a,P-
+
+insaturtes (1) ((A) + (B) = 10%) et P,y-insaturtes (2) ((C) + 
+
+(D) = 90%). 
+La formation de 2 peut Ctre envisagCe par une isomtrisation 
+prototropique en milieu basique de 1 comme cela Ctt montrt en 
+sCrie hydrocarbonte ( l2-17). 
+
+En effet, il est bien connu qu'il existe un tquilibre entre les 
+formes a , P et p,y-insaturtes des ions carboxylates, des esters 
+carboxyliques, des cttones et des nitriles. 
+
+X = COO-, COOEt, COCH,, CN . . . 
+
+Afin de dtmontrer I'existence d'une telle prototropie en strie 
+trifluoromCthylte nous avons proctdt aux essais suivants. 
+
+(a) Nous avons fait agir sur le mClange (Z + E) du com-
+
+post 1 a temptrature ambiante et en milieu THF (conditions de 
+
+la rkaction dlHorner-Emmons). 
+(b) Nous avons mis le compost 1 au reflux dl1 THF pendant 
+24 h, afin de dtterminer si ce dernier etait responsable de 
+I'Cventuelle prototropie. 
+(c) NOUS avons fait rtagir Ph,P=CHCOOEt respectivement 
+sur les composts 1 et 2 au reflux du THF pour savoir si I'tven-
+tuelle isomtrisation se produisait sous l'influence de I'ylure. 
+
+CF3\ 
+
+/c=c /H 
+
+nBu 
+
+\COOE~ 
+(A) isomhe E (9%) 
+
+CF3\ 
+/COOEt 
+,C=C 
+nBu 
+\H 
+
+(9) isomkre Z (1%) 
+
+I CF3\ C=C /H 
+
+E~OOCCH~/ 
+
+\ n ~r 
+(C) isomkre E (8 1 %) 
+
+\ (D) isomkre Z (9%) 
+
+du phosphonate), nous constatons qu'environ 95% des compo-
+sCs 1 (isomeres Z et E) sont rtarrangts en composes 2. 
+Ceci permet de conclure que les esters P,y-insaturCs obtenus 
+au cours de la rtaction d'Horner-Emmons rksultent de la pro-
+totropie catalyste par le milieu basique des esters a,p-insaturts. 
+Seuls ces derniers sont obtenus par la reaction de Wittig qui ne 
+ntcessite pas I'utilisation d'une base. 
+En sCrie hydrocarbonnke, Kon et Linstead (13, 14) ont 
+montrt que l'tquilibre entre les formes a , p et y,p-insaturtes 
+dtpend peu de la nature de X, mais est trks sensible a la nature 
+des groupements sur I'atome de C en position y. 
+Ainsi, dans le cas ou R ' = Ph, R2 = H, I'equilibre est com-
+plktement dtplact vers la formation de I'ester P,y-ethyltnique. 
+Afin de dtmontrer une tventuelle analogie en serie trifluoro-
+mCthylCe, nous avons condenst la benzyl trifluoromtthyl 
+cCtone avec le carbotthoxymCthyl ditthyl phosphonate dans les 
+conditions d'Horner-Emmons.' Les rCsultats sont les suivants: 
+
+3 isomkre E 
+
+Dans ce cas, seul I'ester P,y-insature est obtenu et la rtaction 
+est sttrtosptcifique (100% E). 
+Nous avons alors synthttist I'isomkre a,P-Cthyltnique2 par 
+une rtaction de Wittig et nous I'avons soumis aux essais (a), 
+(b), (c) et (d). Nous avons constat6 que les essais (b) et (c) sont 
+nCgatifs comme prkctdemment alors que (a) et (d) donnent 
+uniquement le composC 3 (isomere E). Sous I'effet de la base 
+NaH ou du carbanion dtrivt du phosphonate, le benzyl-3 
+
+(d) Nous avons effectut la mCme reaction avec le-phos-
+phonate (EtO)zP(0)CH2COOEt. 
+'La reaction dlHorner-Emmons avec (CF,)C(O)Ph est sttr6osptci-
+fique et conduit au produit (CF3)C(Ph)=CH--COOEt (isomkre E). 
+Les rtsultats suivants ont Ct C obtenus: les essais (b) et (c) se 
+'Dans le cas de la rtaction de Wittig, cette cttone condenste avec 
+SOnt ~~V C I C S 
+ntgatif~ et les produits de dCpart Ont kt6 inttgrale-
+
+1, ~a ~b o ~t h o ~y m ~t h y ~~n e t ~i P h ~n y ~p h o s p h o r a n e 
+conduit au benzyl-3 
+ment rtcuptrts. Dans les essais (a) et (d), c'est-a-dire en milieu 
+trifluoro-4,4,4 butkne-2 oate dlCthyle (isomkre E (75%); isomkre Z 
+fortement basique (en prtsence de NaH ou du carbanion derivt 
+(25%)). 
+Can. J. Chem. Downloaded from www.nrcresearchpress.com by 87.160.185.190 on 03/27/14 
+
+For personal use only. 
+
+
+428 
+
+CAN. J. CHEM. VOL. 63. 1985 
+
+trifluoro-4, 4, 4 butene-2 oate d'tthyle (Z + E), s'isornerise 
+
+inttgralernent en un cornpost unique 3. 
+
+I(1etit~fication des divers composes obtetuu 
+
+(1) fE, Z) 
+
+L'analyse tltrnentaire jointe a la determination de la 
+rnasse rnoltculaire par spectrornttrie de rnasse (M-' 224), 
+conduit a la forrnule brute CIoHlSF,O2. Le spectre ir rnontre que 
+nous avons affaire a des olefines conjuguees avec un groupe-
+rnent ester: v,c=o, = 1709 crn-I, vfc=c, = 1653 crn-I. On note 
+tgalernent ~'(c-F) = 1 100-1250 crn-I. Le spectre' rrnn du 'H 
+rnontre: a 6,05 pprn et 6,33 pprn les signaux des H tthylt-
+niques; a 4,21 et 1,3 pprn respectivernent un quadruplet et un 
+triplet (OCH2CH,); entre 2,66 et 1,5 pprn un large rnultiplet 
+correspondant aux CH? de nBu; et a 0,95 pprn, le CH, du 
+groupernent n-butyle. 
+La prtsence de 2 signaux attribuables aux H tthyltniques, 
+I'un vers 6,33 pprn, I'autre vers 6,05 pprn (rnoins dCblinde et 
+environ 3 fois rnoins intense), rnontre I'existence d'un melange 
+de 2 stCrtoisorneres. 
+La configuration (Z, E) a t t t dtterrninte grlce au couplage 
+allylique du proton tthyltnique et du groupernent CF,. 
+En effet, en rrnn du "F, on observe sur le spectre du 
+
+melange, deux groupes de signaux a -63,s pprn et a 
+
+-69,6 pprn correspondant aux CF,. La rtsolution de ces 
+signaux a perrnis de dtduire les constantes de couplage 4J 
+allylique de H et CF,. Le CF, rCsonant a -69,6 pprn se prt-
+sente sous forrne de doublet 4JH-cF, = 1,6 HZ. La resolution du 
+
+signal de CF, a -63,s pprn ne fait apparaitre aucun couplage 
+
+('JH-CF, = 0 HZ). 
+II est cornrnuntrnent adrnis que la constante de couplage 
+' J allylique H-CF, est pratiquernent nulle si H est en trans par 
+rapport a CF, et peut atteindre 2,l Hz, si H est cis. La confron-
+tation de ces donntes exptrirnentales (18-20) avec celles 
+tirtes des spectres nous a perrnis d'attribuer la constante de 
+couplage 4J = 1,6 HZ au compost E. L'absence de couplage 
+
+4JH-cF, est donc attribuable au compost Z. L'intensitt relative 
+des signaux nous perrnet d'attribuer la configuration E au pro-
+duit rnajoritaire (90%). 
+(2) fE, Z) 
+
+La caracttrisation des composts 2 peut s'operer a partir des 
+observations suivantes. 
+Compose rnajoritaire 
+L'analyse tltrnentaire jointe a la rnasse rnolCculaire, dtter-
+rninte par spectrornttrie de rnasse (Mt 224), conduit a la for-
+mule brute CIOHlSF3O2. En ir, v f c = ~, = 1724 crn-' correspond 
+a un ester tthylique qui est confirm6 en rrnn du 'H par le 
+
+quadruplet 5 4,16 pprn d'intensitt 2 et un triplet a 1,3 pprn 
+
+d'intensitt 3. La frCquence de celui-ci est augrnentte de 
+15 crn-' par rapport a la bande v,c=~, du cornpost 1. Ceci 
+dtrnontre la non conjugaison du groupernent ester. Cette situa-
+tion suggkre qu'il existe au rnoins un groupernent rntthyltnique 
+susceptible de former un Ccran. Le singulet a 3,18 pprn d'inten-
+
+sit6 2 correspond 5 un CH2 en a d'un C=O. On a le groupe-
+
+' ~e spectre rmn a CtC rCalisC sur une fraction enrichie du melange 
+dans la proportion 75% : 25%. 
+
+rnent -CH?-C-0-CH2CHp 
+
+I I 
+
+0 
+Cornpte-tenu de la forrnule brute, il nous reste: C6H,F, avec 
+un centre d'insaturation. L'insaturation peut &amp;tre une double 
+liaison ou un cycle. 
+La position de la bande ir a 1669 crn-', la presence du triplet 
+d'intensitt 1 a 6,33 pprn dans la zone des "tthyltniques" et 
+le couplage rnis en evidence par ce triplet (J = 7,5 Hz), tt-
+rnoignent en faveur d'un systkrne du type: 
+
+Le couplage H-H est variable selon le schCrna envisagt: 
+
+La valeur experimentale J = 7,5 Hz dtrnontre que H est 
+couplt avec un CH2 gtrnint absorbant a 2,66 pprn. Ceci est 
+en accord avec la structure: 
+
+II reste donc a affecter C3HSF,. 
+
+L'infra-rouge suggkre que I'absorption a 1 100-1250 crn-' 
+
+peut Etre attribute 5 une vibration vfc-~, (confirrnte en rrnn du 
+
+fluor par un signal a -68,5 pprn, caracttristique d'un groupe-
+rnent CF,). 11 reste donc C2Hs. 
+Le triplet a 0,9 1 pprn (J = 7,5 Hz), d'intensitt 3 et le rnulti-
+plet a 1,43 pprn, d'intensitt 2 font partie du groupernent 
+CH3CH,CH, port6 par la double liaison. 
+Ceci nous conduit a la forrnule: 
+
+Ce compost peut exister sous deux forrnes sttrtoisorni?res: 
+
+Avant d'aborder la dtterrnination de la sttrtochirnie de ce 
+cornpost, nous allons voir si le cornpost rninoritaire est I'une 
+de ces deux forrnes sttrtoisornkres envisagtes. 
+
+ComposP minoritaire 
+Un raisonnernent analogue au prtctdent est appliqut. 
+L'analyse tltrnentaire associte a la rnasse rnoltculaire dtter-
+rninCe par spectrornttrie de rnasse (Mf 224), conduit 
+la 
+forrnule brute CIoHISF3OE Ce cornposC prtsente en ir, les 
+
+bandes suivantes: a 1728 crn-' vfc=o,, a 1667 crn-' U,C=C, et a 
+
+Can. J. Chem. Downloaded from www.nrcresearchpress.com by 87.160.185.190 on 03/27/14 
+
+For personal use only. 
+
+
+TRABELSI ET AL. 
+
+429 
+
+I 100-1250 cm-' V(C-F,. En rmn du 'H on observe: un triplet 
+
+a 5,88 ppm, un quadruplet a 4,16 ppm, un singulet a 3,16 ppm, 
+un multiplet a 2,28 ppm, un multiplet a 1,46 ppm, un triplet 2 
+1,23 ppm, un triplet a 0,93 pprn avec un rapport d'intensites 
+
+relatives 1/2/2/2/2/3/3. Le spectre rrnn du I9F montre un 
+signal a -60,2 pprn caractiristique d'un CF,. 
+La seule structure compatible avec les spectres ir, rrnn 'H, 
+"F, la masse et I'analyse elementaire (C, H, F, 0 ) est: 
+
+Les deux produits isolks sont donc bien deux stCrCoisom&amp;res. 
+La configuration correspondante a chaque isomere a ete 
+attribuee par etude des constantes de couplage ' J allylique du 
+proton et du fluor (rmn 'H, rrnn "F). 
+En rmn du 'H, le signal du proton Cthylenique, pour le 
+composC majoritaire, resonant a 6,33 ppm, est constitue 
+par un triplet de quadruplet dfi a la multiplicite avec le 
+CF3 'JH-,,, = 1,8 HZ. Ce couplage est compatible avec un 
+couplage allylique cis 'H-"F. La configuration attribuee a ce 
+compose est donc E. 
+
+Ceci est confirm6 par la rrnn du "F. Le signal correspondant 
+au CF, parait etre un quadruplet bien resolu. En realite, c'est un 
+faux quadruplet. En effet, le CF, est couple d'une part au 
+proton Cthylenique et d'autre part au CH? (b): 
+
+Le couplage 4 J C ~I (,)-CPl (gdn,in(.) n'est pas observable. 
+On devrait s'attendre a un triplet de doublet. Les com-
+
+posantes des triplets sont separees par 'JCH, (h)-CF, ,,,,,,\ = 2 HZ, 
+
+tandis que le dedoublement correspond a-4JH-CF3 (,.i.vl = 2 HZ 
+confirmant une configuration E pour ce compod. 
+Quant au compose minoritaire, en rrnn du 'H la resolution 
+du triplet a 5,88 pprn du proton Cthylenique fait apparaitre un 
+quadruplet ma1 resolu 'JH-CF, = 03-0,7 Hz resultant d'un 
+couplage trans du H et du CF3. La configuration attribuee a ce 
+compose est Z: 
+
+La rmn du "F est en accord avec cette stereochimie. En effet, 
+le signal du CF, est un triplet tres ma1 resolu et resulte d'un 
+couplage trans 'JH-cF, = 0 HZ. 
+Seul apparait le couplage homoallylique 'JCHl (hl-CF3 = 2 HZ. 
+(3) (El 
+L'analyse Clementaire jointe a la masse moliculaire determi-
+nCe par spectrometric de masse (Mt 258), conduit a la formule 
+brute CI3H13F30?. 
+L'infra-rouge montre une bande V,C=O, non conjuguee 
+d'ester ethylique 2 1724 cm-'. Cette fonction est confirmee en 
+
+rmn par un quadruplet 2 4,2 pprn d'intensite 2 et un triplet 2 
+1,26 pprn d'intensitk 3. 
+En ir, une bande a 162 1 cm-' correspond a vie=,-, conjuguie 
+avec un noyau aromatique (bandes fines entre 1450 et 
+1600 cm-I). La double liaison ainsi mise en evidence n'est 
+pas conjuguee avec la fonction ester Cthylique. Nous envisa-
+geons entre les deux un groupement CHI. Cette hypothese est 
+en accord avec un signal unique rencontri en rrnn du 'H a 
+3,36 pprn d'intensitt 2. 
+Par ailleurs, un signal a 7,4 pprn d'intensiti 6, indique que 
+le signal du noyau aromatique se superpose a I'absorption d'un 
+H ethylknique. En rrnn du fluor, on observe a -68 pprn un 
+signal attribuable a un groupement CF, porte par une double 
+liaison. La resolution de ce signal se presente sous forme d'un 
+doublet, la constante de couplage 1,6 Hz est compatible avec 
+un couplage JJH-CI:, (,.i.vl. 
+Deux structures peuvent Ftre proposees: 
+
+La structure (b) doit Ltre rejetee a cause de la multiplicit6 du 
+signal du CHI en a du groupement ester qui se prCsente sous 
+forme d'un singulet. 
+Le produit obtenu est donc le phenyl-4 trifluoromethyl-3 
+butene-3 oate d'ethyle, de configuration E. 
+
+Conclusion 
+Si nous recapitulons les resultats obtenus, nous observons 
+que quelque soit la cetone (CF3)C(0)R avec R = nBu et 
+PhCH?, la reaction de Wittig conduit toujours aux tri-
+fluoromethyl olefines activees a,p-insaturies. Par contre, la 
+reaction d'Horner-Emmons, rCalisCe sur les phosphonates 
+en milieu fortement basique, donne un melange d'esters 
+
+a,P-ethyleniques (I) (Z + E) et P,y-CthylCniques (2) (Z + E) 
+
+majoritaires quand R = nBu ou exclusivement le compose (3) 
+(E) quand R = PhCH,. 
+Le produit transpose est dfi a une prototropie de I'olefine 
+attendue sous I'influence de la base. 
+Donc la reaction d'Horner-Emmons ne permet pas d'obte-
+nir de maniere specifique les trifluoromethyl olefines activees 
+a,p-insaturees. 
+11 est a noter Cgalement une difference de rkactivite des 
+cetones en d r i e hydrocarbonie et fluoree vis-a-vis du phospho-
+rane Ph,P=CHCOOEt. Les reactions de condensation avec 
+les trifluoromCthyl cetones s'effectuent dans des conditions 
+douces (7) comparativement a celles requises pour les cetones 
+classiques hydrocarbonees. En effet, il est bien connu, en serie 
+hydrocarbonee, que les ylures stabilises par un groupement 
+carbonyle reagissent avec les aldkhydes, mais pas avec les 
+cktones sauf dans des conditions dures, alors que l'utilisation 
+d'un carbanion phosphonate permet une reaction beaucoup 
+plus aisee (21 -25). 
+
+Partie experimentale 
+Les spectres rrnn 'H et '"F ont CtC enregistgs sur Bruker Spectro-
+scope WH-90-DS ('H = 90 MHz; '"F = 84,67 MHz). Les spectres ir 
+ont CtC effectuCs sur un spectrornetre Leitz-Wetzlar, rnodele IIIG. 
+Les spectres de rnasse ont CtC enregistrks sur un appareil Riberrnag R 
+10-10 couplC i la chrornatographie en phase gazeuse. Les analyses 
+ClCrnentaires ont CtC effectuCes par les laboratoires d'analyse du 
+Can. J. Chem. Downloaded from www.nrcresearchpress.com by 87.160.185.190 on 03/27/14 
+
+For personal use only. 
+
+
+430 
+
+CAN. J. CHEM. VOL. 63. 1985 
+
+CNRS a Lyon. 
+La pureti des produits a CtC contr61Ce sur C.P.V. Girdel (sCries 30 
+et 3000), colonne 1,3 rn inox SE30 10% Chrornosorb WHMDS 
+80/100; colonne 1,5 m inox 5% OV 17 Gas-Chrom Q 80/100, 
+
+colonne capillaire Pyrex SE30 30 m, + = 0,30 mm, ct colonne 
+
+capillaire Carbowax 20M-25 rn. 
+
+' 3 . 3 , 
+
+Syntht.se de.~ trgluorotntthyl ~6tot1e.s 
+&gt;C=O 
+R 
+Deux trifluoromCthyl cCtones (R = nBu, Ph-CHZ) ont Ct C synthC-
+tisCes par action des organornagnCsiens sur les F-acides (26, 27). 
+
+Preparation du brotnure de n-butyl tnagnksium (ref. 228) 
+Dans un ballon rod6 de 500 rnL CquipC d'un agitateur rnagnktique, 
+
+d'une ampoule a brome et rnaintenu sous atmosphere d'azote, on 
+
+place 6,48 g (0.27 at-g) de Mg en tournure et un petit cristal d'iode. 
+Quinze millilitres d'une solution de 34 g (0.25 mol) de bromobutane 
+dans 100 rnL d'Cther anhydre sont ajoutCs par I'ampoule ii brome. Des 
+que la reaction a dCrnarrC, on ajoute le reste de la solution de bromo-
+
+butane de f a ~o n ii rnaintenir un ICger reflux. L'addition terrninCe, le 
+
+rnClange rkactionnel est rnaintenu au reflux de I'Cther pendant 30 min. 
+Synthtse de la &amp;tone 
+On ajoute 1 1.4 g (0. I rnol) d'acide trifluoroacCtique goutte 3 goutte 
+
+ii la solution de bromure de n-butyl magnesium agitCe et refroidie a 
+
+15°C par un bain d'eau thermostatC. L'addition terrninCe, I'agitation 
+est poursuivie pendant 3 h a ternpCrature arnbiante. Le mClange est 
+
+hydrolysC a froid par environ 100 rnL d'une solution de HCI a 15%. 
+
+La phase CthCrCe est sCparCe par decantation, traitCe 3 I'aide d'une 
+
+solution saturCe de bicarbonate de sodium, lavCe a I'eau, sCchCe sur 
+
+MgS04 puis PZOs. L'Cther est CvaporC aux 213 puis le rCsidu est 
+purifiC par distillation fractionnCe a pression atrnosphCrique. Nous 
+obtenons 8.47 g de produit, Rt 55%, Eb 89°C (lit. (26) Eb 91°C); ir 
+(CCI,) v en cm-': 1754 (C=O), 1100-1250 (C-F); rrnn "F 
+(CDCI,, rCfCrence interne CFCI,) 6 en pprn: -79,6 (CF'). 
+
+2. Betlzyl trif1uorornL:thyl cPtonc (phc;tyl-3 trijlrcoro-I , / . 1 
+propelnone-2) 
+Cette cCtonc cst obtcnuc dc la rnkrnc f a p n que la trifluoro-I, I, l 
+hexanone-2. A une solution de chlorurc dc bcnzylrnagnCsiurn, obtcnu 
+
+ii partir de 0,27 at-g de Mg en tournure ct 0.25 rnol dc chlorurc de 
+
+benzyle (refroidie 3 15°C par un bain d'cau therrnostatC), on ajoutc 
+lentement 1 1,4 g (0,l rnol) d'acidc trifluoroacCtiquc. LC rnClange est 
+ensuite agitC ii ternpirature arnbiante pcndant 3 h. Aprts traitemcnt. 
+I'Cther est CvaporC et le rCsidu cst distill6 sous vide. Nous obtenons 
+9,4 g de produit, Rt 50%, Eb/160 Torr 120°C (lit. (29) Eb 
+661 16 Torr) ( I Torr = 133.3 Pa); ir (CCI,) v cn crn -': 1754 (C=O), 
+1100-1250 (C-F); rrnn "F (CDCI,, rCfCrcncc intcrne CFCI?) 6 en 
+ppm: -78,7 (CF,). 
+
+Synthtse de 1 (E, Z) 
+Nous avons utilise la technique dkcritc dans la IittCraturc (7). A 
+partir de 0,015 rnol de carboCthoxyrnCthyltnetriphCnylphosphorane et 
+0,O 15 rnol de trifluoro-l , I , l hexanone-2 on obticnt un melange de 
+deux cornposCs avec un rendernent global de 90%, Eb/280 Torr 80°C. 
+La composition du rnClange a CtC dCterminCc par cpv (90110%); ir 
+(CCI,) v en crn-': 1709 (C=O), 1653 (C=C), 1 100-1250 (C-F); 
+rrnn 'H (CDCI). refkrence intcrne TMS) 6 en pprn: 6.05 et 6,33 (q et 
+s, H, =CH-
+(1) (E) et (1) (Z), 4Jtl-C.F, I,,rr = 1.6 HZ). 4, 21 (9, 2H, 
+-OCHI-. 
+
+'JH-H 
+
+= 7.5 HZ), 1,3 (t, 3H, -CHI, 'JII . H = 7.5 HZ), 
+2.66-1.5 (m, 6H, -(CH,),-), 
+0.95 (t, 3H, -CH,, 
+
+7tl-H = 
+
+7,5 Hz); rrnn '"F (CDCI.,, rCfCrencc interne CFCI,) 6 cn ppm: -69,6 
+et -63,s (d et s, CF, ( I ) (E) et ( I ) (Z), 4Jti-C.Fl I..,r, = l,6 HZ); 
+spectromktrie de rnasse: M+ = 224. Ancrl. calc. pour Cll,HI5F7O2: 
+C 5337, H 6,69, F 25.44; trouvC: C 53.42, H 6-82, F 25.28. 
+
+Sy?tht.se du mPlange 1 (E, Z) + 2 (E, Z) 
+
+A 0.96 g de NaH (prkalablernent lavC deux fois 3 I'hexane et deux 
+fois au THF) mis en suspension dans 30 rnL de THF anhydre, on 
+ajoute goutte h goutte 0.02 rnol de carboCthoxymCthyl diCthyl phos-
+phonate. On laisse I h sous agitation magnCtique et sous courant 
+
+d'azotc, puis on ajoutc lentcmcnt 0.02 rnol dc trifluoro-I, I , l 
+hexanonc-2. Aprts 3 h dc reaction, Ic rndlangc cst port6 au rcflux du 
+THF pendant 112 h. On laisse rcfroidir, puis Ic rnClangc cst trait6 par 
+I'cau et extrait 3 I'Cthcr. La phasc CthCrCc cst lavdc 3 I'cau ct sCchCc. 
+Aprts Cvaporation du solvant, Ic mClangc cst analysC par un apparcil 
+de spcctrornCtric dc rnassc coup16 3 la chromatographic cn phasc 
+vapeur. 
+Nous avons obtenu un rnClangc cornplcxc dc 2 produits attcndus 
+1 = 10%. dCj3 caractCrisCs ct 2 produits inattcndus 2 dans la propor-
+tion 8 119%. Rt 62%; 2 Eb/ 125 Torr 104°C; 1 Eb/380 Torr 80°C. 
+Les cornposCs 2 sont sCparCs par chromatographic cn phasc liquidc, 
+colonne d'alurninc d'activitC ncutrc, calibrc 0.063-0.200 rnrn. Cluant 
+hexane-Cthcr 9: 1 (v/v). 
+2 (E, Z) 
+lsomtre E: ir (CCI,) v cn crn ': 1724 (C=O), 1669 (C=C), 
+1100-1250 (C-F); rrnn 'H (CDCI', rCfCrcncc intcrnc TMS) 6 cn 
+pprn: 6.33 (tq, H, =CH-. 
+
+'JtI 
+
+= 7.5 Hz, 'J1, ,.,., ,,,,, = 1,8 Hz). 
+4,16 (q, 2H, -OCH,-. 
+. l ~t l I l = 7.5 HZ). 1.23 (t. 3H, -CH,, 
+
+7JII-.tl 
+
+= 7.5 HZ). 3.18 (s, 2H. -CHICOO-), 
+2.1 1 -1.43 (m, 4H. 
+-(CHZ)?-), 0.91 (t, 3H. -CH,, 7 ~1 1 = 7.5 HZ); rrnn '"F (CDCII, 
+
+-
+
+rCfCrence internc CFCI,) 6 cn pprn: -68.5 (q, CF,, 'JI, ,.,., ,,,,,, -
+
+5 ~J C t l ~-( . F 1 Irr.,,r,rr = 2 HZ); spcctrornCtric de rnassc: M+ = 224. Anell. 
+calc. pour CIIIH15FIOZ: C 53.57, H 6.69, F 25.44; trouvC: C 53,48, 
+H 6-72. F 25.31. 
+Isotntre Z: ir (CCI,) v cn cm ' : 1728 (C=O). 1667 (C=C). 
+
+1100-1250 (C-F); rrnn 'H (CDCI,, rCfCrcncc intcrnc TMS) 6 cn 
+
+pprn: 5 3 8 (tq. H, =CH-. 
+
+'JH. ti = 6.5 HZ. 'JtI, c.r7, , ,,,,,,, , = 0.8 HZ), 
+
+4.16 (q. 2H, -0CHl-. 
+'JII 11 = 7.5 HZ), 1.23 (t, 3H, -CH3, 
+'JII-,, = 7.5 HZ), 3.16 (s, 2H. -CHZCOO-), 
+2.28-1.46 (rn, 4H, 
+-(CHZ)?-), 0.93 (t, 3H. -CH3. 3 ~1 1 = 7.5 HZ); rrnn '"F (CDCI,, 
+reference internc CFCI,) 6 cn ppm: -60.2 (t. CF,. 5 ~t I = 2 Hz); 
+spectrornCtrie de rnassc: M+ = 224. Atlcrl. calc. pour CII,HISF.,O7: 
+C 53.57, H 6.69, F 25.44; trouvC: C 53.62, H 6.82, F 25.35. 
+
+Synthtse cIe 3 (E) 
+Les conditions opdratoircs sont idcntiqucs aux prCcCdcntcs 
+(Horncr-Emrnons), avec la benzyl trifluorornCthyl cCtonc; Rt 74.5%. 
+Eb/30 Torr 12 I "C; ir (CCI,) v en crn ': 1724 (C=O), 162 1 (C=C), 
+1 100-1250 (C-F); rrnn 'H (CDC13. rCfercncc intcrnc TMS) 6 cn 
+pprn: 7.4 (s, 6H. protons arornatiqucs ct proton CthylCniquc), 4.2 (q, 
+2H. -OCH2-. 
+
+'JIJHII 
+
+= 7.5 HZ), 1.26 (t. 3H. -CH3, 3 ~l l --H = 
+7,5 Hz). 3.36 (s. 2H. -CHZCOO-); 
+rrnn '"F (CDCI,. rCfCrcncc 
+interne CFCI') 6 en pprn: -67.6 (d, CF,, 'J~, ,.F, ,,,,, = 1,6 Hz); 
+spectromCtrie dc rnasse: M' = 258. Atlcrl. calc. pour CIIH13F30Z: 
+C 60.46. H 5,03. F 22.09; trouve: C 60,38. H 5.10, F 22,14. 
+
+1 . G. WITTIG. Experientia, 12, 41 (1956); Angcw. Chcm. 68, 505 
+( 1956). 
+2. L. HORNER, H. HOFFMANN et H. G. WIPPEL. Chcrn. Bcr. 91, 61 
+(1958). 
+3. L. HORNER, H. HOFFMANN, H. G. WlPPELet G. KLAHRE. Chcrn. 
+Ber. 92, 2499 (1959). 
+4. W. S. WADSWORTH, JR. et W. D. EMMONS. J. Am. Chern. Soc. 
+83. 1732 (1961). 
+5. A. W. JOHNSON. Dons Ylid chcrnistry. Eclitc: pclr A. T. 
+Blomquist. Academic Press, Ncw York. 1966. 
+6. 1. K. KNUNYANTS, N. P. GAMARYAN et CH'EN CH'ING YUN. 
+Bull. Acad. Sci. U.S.S.R. (Engl. Transl.), 633 ( 1 962). 
+7. D. L. DULL, 1. BAXTER et H. S. MOSHER. J. Org. Chcrn. 32, 
+1622 (1967). 
+8. H. MOLINES ct C. WAKSELMAN. J. Fluorine Chcrn. 16, 97 
+(1980). 
+9. M. C. CESARETTI. These de 36me Cyclc. Nicc ( 1976). 
+10. F. CAMP, J . COLL, A. MESSEGUER et A. ROCA. Tetrahedron Lett. 
+10, 791 (1976). 
+l I. H. DISLICH. Angew. Chcm. Int. Ed. Engl. 18, 49 (1959). 
+12. C. K. INGOLD. Structure and mechanism in organic chemistry. 
+Cornell University Press, Ithaca. NY. 1969. p. 823. 
+13. G. A. R. KON et R. P. LINSTEAD. Ann. Rep. Prog. Chem. 
+
+Can. J. Chem. Downloaded from www.nrcresearchpress.com by 87.160.185.190 on 03/27/14 
+
+For personal use only. 
+
+
+TRABELSI ET AL. 
+
+43 1 
+
+(Chem. Soc. London). 24, 109 (1927). 
+14. G. A. R. KON et R. P. LINSTEAD. Ann. Rcp. Prog. Chcm. 
+(Chem. Soc. London), 25. 119 (1928). 
+15. J. W. BAKER. Tautomcrism. Routledgc. London. 1934. Chap. 9. 
+16. H. GILMAN. Organic chemistry. Wilcy. New York. 1938. p. 819. 
+17. R. LESPIAU. Bull. SOC. Chim. Fr. 460 (1905). 
+18. D. J. BURTON, R. L. JOHNSON ct R. T. BOCAN. Can. J. Chcm. 
+44, 635 ( 1966). 
+19. W. R. CULLEN et W. R. LEEDER. Inorg. Chcm. 5. 1004 ( 1966). 
+20. D. J . BURTON, F. E. HERKES ct K. J. KLABUNDE. J. Am. Chem. 
+Soc. 88. 5042 ( 1966). 
+21. S. TRIPPETT ct D. M . WALKER. Chcm. Ind. 990 (1961). 
+22. A. MAECHER. Org. React. 14. 277 (1965). 
+
+23. 1. GOSNEY et A. G. ROWLEY. Dtrrls Organophosphorous reagents 
+in organic synthesis. Et1irc;lxrr J. I. G. Cadogan. Academic Press, 
+Londres. 1979. Chap. 2. p. 17. 
+24. L. A. YANOVSKAYA et V. F. KUCHEROV. Izv. Akad. Nauk 
+S.S.S.R. Scr. Khim. 1341 (1964); Chcm. Abstr. 61, 11887 
+(1964). 
+25. M . KIRILOU ct G. PETROV. Monatsh. Chcm. 165 1 (1972). 
+26. A. SYKES, J. C. TATLOW ct R. C. TOHAMAS. J. Chcm. Soc. 835 
+(1956); Chcm. Ind. 630 (1955). 
+27. K. T. DISHART ct R. LEVINE. J. Am. Chcm. Soc. 78, 2268 
+( 1956). 
+28. E. E. DRECER. Org. Synth. 1, 306 (1967). 
+29. F. E. HERKES et D. J. BURTON. J. Org. Chcm. 32. 13 1 1 ( 1967). 
+
+Can. J. Chem. Downloaded from www.nrcresearchpress.com by 87.160.185.190 on 03/27/14 
+
+For personal use only. 
+
+
+
+	
+

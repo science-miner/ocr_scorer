@@ -1,0 +1,514 @@
+
+	
+
+		
+
+	
+
+	
+
+Can. J. Chem. Downloaded from www.nrcresearchpress.com by 87.160.154.20 on 03/27/14 
+
+For personal use only. 
+
+
+2 122 
+
+CAN. J. CHEM. VOL. 61. 1983 
+
+TABLEAU I R6sultats des dlcctrolyscs cn prdscnce dc Mn'+ ct dc Cr" 
+
+-
+
+-E , / ~" (V) 
+-EI/z' (V) 
+-E,/?" (V) 
+
+Cttonc 10 ' M 
+Cetonc lo-' M 
+
+Cdtone 
+
+Cdtonc 10 ' M + Mn'l lo-' M Elcctlolysc cn plesencc dc Mn" 
+C13+ 10 ' M 
+
+Elcctloly5c cn p~dscncc dc Cr" 
+
+tl, I 
+Diol 85% 
+
+,,IL;SO 
+
+(1, 1 
+Diol 63% 
+,,lPso 
+
+1.53 
+tl, I 
+Diol 78% 
+lllPso 
+
+Dicl 64% ~r l , 
+1 
+1,48 
+Alcool 1 1% nz@so 
+Diol 74% 
+1.45 
+
+
+Alcool 90% 
+Diol 3870 
+1,08 
+Alcool 48% 
+
+4 
+Diol 64%-yI, 1 37% 
+1.89 
+1,56 
+Alcool 6% rllPso 27% 
+
+5 
+1,72 ct 2.01 
+1.57 
+Alcool 87% 
+
+6 
+1,63 
+1,505 
+Xanthonc 
+
+7 
+1.24 et 1,9 1 
+1.15 
+Fluortnone 
+
+"E,,, (V) = potcntiel de demi-vague polarog~ipliique, par rapporr B I'Clectr~ 
+
+"EIi2 (V) = vape du complexe cetone -Mn(l1). 
+El,, (V) = vague du complexe &amp;tone -Cr(l1). 
+
+~d e 
+i calomel au KC1 sature. Solvant DMF; sel de fond TBABr 0, I M. 
+
+Si C i une solution lo-' M en cetone, on ajoute des quantitks 
+croissantes de Mn(lI), on observe d'abord une diminution rCgu-
+liere des vagues de la cetone tandis qu'apparait une nouvelle 
+vague aux alentours de -1,50 V. La hauteur de cette vague 
+devient maximale pour un melange Cquimol6culaire de cCtone 
+et de sel de mangankse. Pour ce rapport I : 1 les vagues de la 
+cCtone ont completement disparu. 
+De la mCme faqon, lorsqulon ajoute la cetone une solution 
+lo-' M de chlorure de manganese(ll), la vague de reduction 
+Mn(Il)/Mn(O) se dCplace tres peu jusqu'a la valeur prkcedem-
+ment obtenue (-1,50 V) (melange cetone -sel de manganese). 
+Aprks I'CquimolaritC, les vagues propres a la cetone se superpo-
+sent a la courbe i-E precedente. 
+Les mCmes observations avaient ete faites dans le cas d'un 
+melange cetone -sel de chrome. Dans ce dernier cas, j . 
+I'Cquimolarite, la vague polarographique unique (systeme 
+Cr(Il)/Cr(O)) est controlee par la diffusion et avait CtC attribuee 
+I'existence d'un complexe chrome(I1)-cetone (2-5). 
+L'analyse par voltammCtrie cyclique de ce melange 
+Mn(l1)-cCtone a Ct C rCalisCe en prenant la tetralone comme 
+exernple. 
+Sur le voltan~mogramme du melange equirnolaire (Fig. 2) le 
+pic de reduction Mn(l1) en Mn(0) n'est pas modifik par la 
+presence de la cetone; de r n h e le pic de reduction de la cetone 
+n'est pas modifik par la presence de I'espece Mn(l1). Enfin au 
+balayage retour, apparait le pic de rkoxydation de la cetone 
+(systeme reversible). Cette independance des deux systemes en 
+presence est verifiee pour toute vitesse de balayage supkrieure 
+a 5 mV s -' . Pour 5 mV s ' (vitesse d'enregistrement usuelle du 
+
+FIG. 2. Voltammogrammes du mClange ietralone (lo-' M) et 
+Mn(I1) 
+M ) dans DMF, TBABr 0,I M. 
+
+polarogramrne), il apparait un seul pic de reduction a un poten-
+tie1 voisin du potentiel de reduction Mn(lI)/Mn(O) et en balaya-
+ge retour n'apparait aucun pic de rioxydation de la cCtone. A 
+cette vitesse, la seule espece rkduite forme avec son produit de 
+rtduction un systerne irreversible. 
+Pour un melange Cquimolaire de sel de manganese et de 
+cktone, la variation avec la vitesse de balayage ( v ) du potentiel 
+Ep, du premier pic de reduction (rtaction Mn(l1) -+ Mn(0)) est 
+la mCme qu'en absence de &amp;tone (dEp,/dlog v = -20 mV) 
+dans l'intervalle 10 a 500 rnV s-' et dans le rnCme temps, il 
+apparait le pic de rtduction de la tetralone libre vers -1,975 V 
+
+pour v &gt; 10 mV s-I. Celui-ci d'intensite d'abord tres faible et 
+
+se dCplaqant ICgerement vers des potentiels moins nkgatifs se 
+fixe a -1,96 V a partir de 100 mV s-' tandis que sa hauteur 
+relative croit et que le systkme devient de plus en plus 
+reversible. 
+I1 apparait donc que le complexe cktone-manganese, mis en 
+evidence par la polarographie, ne se forme que tres lentement 
+et n'affecte les voltammogramrnes que pour des balayages a 
+tres faible vitesse. Une confirmation est apportee par I'Ctude de 
+l'influence de la concentration en cCtone en presence de Mn(I1) 
+(lo-' M ) pour une vitesse de balayage fixee a 50 mV s-I. Le 
+premier pic de reduction reste fixe, celui de la cCtone n'appa-
+raissant que pour une concentration de 0,75 x lo-' M 
+Can. J. Chem. Downloaded from www.nrcresearchpress.com by 87.160.154.20 on 03/27/14 
+
+For personal use only. 
+
+
+FOURNIER ET AL 
+
+(-1,955 V) et se deplasant lkgerement vers des potentiels plus 
+negatifs, pour atteindre -2,015 V pour une concentration en 
+cCtone de lo-' M. Tout au long de cette etude, il a kt6 vCrifie 
+qu'une goutte de nlercure non renouvelee reste passivee, et 
+entraine en consequence la non-reproductibiliti des voltammo-
+grammes. Tout cela semble indiquer en fait, la formation d'un 
+film, les modifications irreversibles de la surface de l'klectrode 
+Ctant imputables aux especes Mn(0) formtes (amalgame ou 
+film de metal collo'idal); le film superficiel form6 sur l'electro-
+de Ctant plus ou moins inhibiteur pour la reduction des ions 
+complexes mCtalliques mais non pour les molCcules de cCtone. 
+On peut penser qu'il en est de mCme dans les conditions d'une 
+Clectrolyse preparative a un potentiel contr61C plus nigatif que 
+celui de la reduction de Mn(I1) en Mn(0). 
+
+Electr-olyse ci potentiel contrbl6 
+Une autre methode d'etude de la rCaction qui se produit au 
+niveau du pic correspondant au complexe manganese-cetone 
+est l'identification des produits prCparCs par Clectrolyse au po-
+tentiel de ce pic. Ces rCductions ont 6tC conduites sur des 
+mClanges, en proportions Cquimolaires de cetone et chlorure de 
+manganese. Le resultat des electrolyses preparatives pour 
+chaque cCtone Ctudiee est consigne dans le tableau 1 et peut &amp;tre 
+comparC aux resultats obtenus pour ces m&amp;mes cCtones en 
+presence de chlorure de chrome (4, 5). 
+Le potentiel de demi-vague correspondant au complexe 
+manganese-cCtone permet de classer les cktones 1 h 7 en 3 
+
+catigories. 
+( i ) Les cCtones beaucoup moins reductibles que Mn(I1) et 
+dont le E,,? du con~plexe est voisin de celui de Mn(II)/Mn(O) 
+seul: 1 4. Pour ces composes, la rkduction Clectrochimique en 
+
+presence de Mn(I1) conduit a des rCsultats semblables a ceux de 
+
+la reduction effectuee en prCsence de Cr(I1) en imposant le 
+potentiel de la vague du complexe Cr(I1)-cetone. 
+(ii) Une cetone de potentiel de rCduction legerement infe-
+rieur a celui de Mn(I1) kt dont le 
+du complexe est voisin de 
+celui de Mn(I1): la benzophCnone 5 qui conduit quantitative-
+ment au benzhydrol alors qu'avec Cr(II1) on isolait a c6tC du 
+benzhydrol ( l8%), un pourcentage assez Cleve de diol (74%). 
+(iii) Les cetones de potentiel de reduction voisin ou supCrieur 
+
+a celui de Mn(I1) et dont le Ellz du complexe est deplace vers 
+
+les potentiels moins negatifs: la xanthone 6 et la fluorCnone 7 
+
+ou il y a recuperation quantitative du produit de dtpart alors 
+
+qu'avec Cr(II1) la xanthone 6 donnait le xanthol et la fluore-
+
+none 7 un melange du diol (38%) et du fluoreno1 (48%). Pour 
+
+ces trois dernieres cktones (5, 6, 7), nous ne pouvons actuelle-
+
+ment apporter une explication satisfaisante de ces differences 
+
+experimentales. Une Clectrolyse a un potentiel correspondant 
+
+au palier de la vague de reduction du complexe 
+manganese-dtone, permet d'obtenir avec un bon rendement 
+les glycols-CY d'hydrodimCrisation lorsque le potentiel de demi-
+vague de la &amp;tone est beaucoup plus negatif que celui de 
+Mn(I1). Les glycols-CY obtenus avec les cetones dissymCtriques 
+sont en majorit6 comme avec le chrome (4, 5) les diastCrCoiso-
+mkres dl, ce qui s'explique bien par des effets steriques, si on 
+admet qu'au moment de la soudure des radicaux ions cetyles, 
+ceux-ci sont fixCs au manganese par leurs atomes d'oxygene, 
+conduisant alors au pinacolate fix6 sous sa forme ciso'ide, dont 
+la configuration, dl est beaucoup moins encombree (un raison-
+nement analogue est dCveloppC dans la ref. 8 pour la rtduction 
+chimique de I'indanone). Seules les configurations des diols 
+correspondants a 1 et 2 ont Ct C jusque la dCterminCes de fason 
+
+rigoureuse (8, 9), mais nous avons pu mettre au point une 
+
+FIG. 3. Elcctrolyse dc I dans Ic DMF-TBABr cn prCsence de 
+
+Mn(I1) cn quantitC Cquirnolairc. A. Polarogramrncs enregistris B 0 , L , 
+
+2 et 3 Faradays. B. Courbc i = f ' ( Q ) pour la rnernc Clcctrolyse. 
+
+methode spectrale d'attribution de toutes les configurations 
+(10). I1 est i~ remarquer que la rCduction directe des cetones 
+dans le DMF au potentiel de leur premiere vague polarographi-
+que donne surtout des polymeres (plus de 80%). 
+Pour tenter d'analyser le mecanisme de la reduction indi-
+recte, en prCsence de sel de manganese, particulierement dans 
+le cas des cCtones les moins rkductibles, nous avons enregistre 
+les polarogrammes sur des Cchantillons prClevCs en cours 
+d'Clectrolyse et ramenCs a des concentrations de 
+M 
+(Fig. 3). Pour I'CquimolaritC entre le manganese et la tetralone 
+1 par exemple, au debut de l'electrolyse, le polarogramme 
+
+presente la seule vague de reduction du con~plexe manganese 
+-cCtone. Pendant le passage du premier Faraday, outre la 
+decroissance de cette vague proportionnellement au nombre de 
+coulombs consommCs on note l'apparition de la vague de la 
+cCtone libre. Pour 1 Faraday, les deux vagues ont m&amp;me hau-
+teur. Entre l et 2 Faradays, la vague du cornplexe &amp;tone -
+manganese continue a decroftre pour disparaitre a 2 Faradays et 
+alors seule la vague de rtduction de la cCtone libre apparait. 
+Apres 2 Faradays la vague de la &amp;tone diminue et disparaft peu 
+apres 3 Faradays. L'intensiti du courant d'Clectrolyse (Fig. 3) 
+est faible et constante (70 mA) jusque vers 0,6 F, dCcroit 
+linkairement jusque 1 F 5 40 mA, reste de nouveau constante 
+jusque 1,6 F, decroit de nouveau 1inCairement pour rester sen-
+siblement constante et trks faible (de l'ordre de 10 mA) entre 
+2 et 3 F. Pour une Clectrolyse de Mn(I1) seul, le courant initial 
+est tres faible vers 30 mV, constant jusque 0,6 F puis decroit 
+1inCairement pour s'annuler a 2 F. 11 y a donc liberation d'une 
+partie de la cCtone en cours d'Clectrolyse, cela pourrait s'expli-
+quer par la disparition progressive de Mn(I1) sous forme de 
+Can. J. Chem. Downloaded from www.nrcresearchpress.com by 87.160.154.20 on 03/27/14 
+
+For personal use only. 
+
+
+2124 
+
+CAN. J. CHEM. \ 'OL. 6 1. 1983 
+
+mCtal dCposC et en suspension, ce qui libererait les n~olecules 
+de cttone complexees, quant aux courbes i = f ( Q ) elles se-
+raient en faveur d'un complexe Mn(1)-cetone montrC par 
+
+l'existence d'un palier d e courant de I a 1,6 F lors de l'electro-
+
+lyse du mClange Cquimolaire cetone -Mn(l1). L'Clectrolyse a 
+
+nCcessitC le passage total de 3 F pour obtenir les produits de 
+reduction et disparition totale de la cCtone initiale (I F est 
+nCcessaire a la rCduction de la cCtone, 2 F pour rCduire Mn(I1) 
+
+au stade Mn(0)). 
+Une autre f a ~o n d'Cvaluer le nombre d'Clectrons consommCs 
+par la rkaction est d'arrCter 1'Clectrolyse avant qu'elle soit ter-
+
+minCe. Aprks passage d e 2,2 F et traitement immkdiat, on 
+
+rCcupkre 19% de cktone (tetralone 1) et il s'est form6 63% de 
+diol (d, 1: 45%; 171e'so: 18%); 80% du produit initial a donc reagi 
+dks le passage d'environ 2 F. D'autre part, en amenant Mn(l1) 
+
+sous forme Mn(0) par electrolyse puis en ajoutant ensuite la 
+
+tCtralone 1 dans le milieu, la cCtone de dCpart est rCcupCrCe 
+
+intkgralement que l'on maintienne ou non le potentiel de rCduc-
+tion imposC lors des Clectrolyses normales. 
+I1 semble donc, que 1'hydrodimCrisation se fait pendant 
+I'Clectrolyse par rCaction entre la cCtone et une espkce Clectro-
+
+gCnCrCe instable contenant du mangankse a bas Ctat d'oxyda-
+
+tion. Une condition impCrative Ctant la presence de la cCtone 
+dks le dCbut d e I'Clectrolyse pour obtenir les meilleurs rende-
+ments (Tableau 1) (85% de diol pour la tetralone I ) , en effet, 
+
+I'addition de la cCtone a 1,5 F puis poursuite normale d e I'Clec-
+
+trolyse jusqu'i 3 F fournit 65% d e diol ((1, 1: 50%; me'so: 15%) 
+
+Conclusion 
+
+Comme dans le cas du chrome (2-5), le systkme actif est le 
+systkme Mn(II)/Mn(O). L'avantage certain du mangankse par 
+rapport 2 Cr(I1) est la stabilite de l'espkce Mn(II), ce qui en-
+traine une plus grande simplicit6 du-systkme et notakment 
+supprime toute sorte de reactions parasites. I1 faut aussi bien sClr 
+pour le temps d'Clectrolyse dCcompter 1'Ctape Cr(IIl)/Cr(II) 
+inutile a la reduction Clectrochimiaue. Ceci Dermet de distin-
+guer la rCaction ClectrocatalysCe (uniquement prCsentCe avec 
+Mn(l1)) de la rCduction chimique (cas de Cr(l1)). Cette reduc-
+tion parasite, qui complique les phCnomknes, explique peut-
+Ctre la non-rCactivitC de la xanthone et de la fluorCnone avec 
+Mn(I1) (Tableau l ) , bien que les 2 systkmes soient actifs avec 
+Cr(II1). 
+
+\ 
+, 
+
+L'existence d'un complexe entre le metal et le compose 
+carbony16 n'a pas pu Ctre Ctablie avec certitude mais est haute-
+
+ment probable. Pour les cCtones 1 a 4 (plus difficiles a rCduire 
+que Mn(I1) ou Cr(I1)) ob AV ( E l / ? mCtal -El,&gt; cCtone) est de 
+
+l'ordre d e 400 mV, les rCsultats sont a toute fin pratique iden-
+tiques en presence de Mn(I1) et en presence de ~r ( 1 1 ) : rende-
+ments, proportions de glycol et d'alcool, proportions de diastC-
+rCoisomkres dl et mtso. I1 semble que le mCcanisme puisse Ctre 
+
+le mCme avec les deux e s ~k c e s mCtalliaues: rCduction d'un 
+complexe entre le mCtal a bas degrk d'oxydation (I ou 0) et la 
+cCtone ou le radical cktyle, soit encore formation d'un film de 
+
+mCtal collo'idal 2 la surface de I'Clectrode (5) sans toutefois 
+
+~, 
+
+Climiner complktement la rCduction d'un complexe avec Cr(I1) 
+
+ou Mn(I1) (2-5). Par contre, avec les citones 5 et 6, oG AV est 
+
+voisin de 150 mV, le mCcanisme serait diffirent selon l'espkce 
+
+mCtallique formCe a 1'Clectrode. Avec la cCtone 7, plus reduc-
+
+tible que Cr(I1) ou Mn(I1) (AV de l'ordre de -300 mV), la 
+rtduction pourrait Ctre, au moins en partie, rCalisCe directement 
+par le mCtal(l1) ClectrogCnCrC pendant la durCe de l'Clectrolyse, 
+comme le montre la similitude des rCsultats des reactions chi-
+
+~niques et Clectrochimiques (5). Pour rendre compte de I'inhibi-
+tion de la polymerisation, il semble n6cessair.e que le radical 
+ClectrogCnCrC directement ou indirectement, soit fixe par coor-
+dination OLI chimisorption grdce 2 son atolne d'oxygkne sur un 
+site agissant comme acide de Lewis. Cela explique en rnCme 
+temps la formation prCfCrentielle des isomkres dl des diols 
+quand la cktone est dissymetrique, ainsi que le gain d'Cnergie 
+d'activation observe pour la rkduction de la cetone. 
+Nous ne pouvons, faute de donnCes suffisantes, proposer 
+pour l'instant un mCcanisme prCcis quant cette rCduction. 
+Nous avons entrepris 1'Ctude du film par des rnCthodes spec-
+troscopiques et electrochimiques. Cependant, un premier mC-
+canisme peut Ctre envisagC pour I'ensemble des diffkrentes 
+Ctapes rCactionnelles: 
+
+L = DMF 
+L , ~n " 
+
++ 5 $ Lr, ~n ' rapidc 
+
+L , Mnl + R1 R' C = 0 F? "complcxc citonc -~n ' " lent 
+
+"Cornplcxe" + E $ cCtonc + Mn" (colloi'dal) rapidc 
+
+~n " 
+
++ R1 R" = 0 -produits de reduction + Mnl lent 
+
+(diols ou alcool) 
+
+-
+
+C 
+
+(OU Mu + cCtonc -+ Mu... cetone adsorbdc -+ protluits dc reduction) 
+
+C e mecanisme rend conlpte de I'apparition de la cCtone libre en 
+cours d'Clectrolyse et du caractkre catalytique de la rCduction 
+(5). Nous poursuivons l'6tude de cette reaction electrochimique 
+avec d'autres sels d e metaux de transition. 
+
+Partie experimentale 
+
+Les points de fusion ont CtC determines au banc de Kotlcr et au 
+microscope h platine chauffantc Leitz. Lcs spectres ir ont CtC obtenus 
+avcc un spectrometre Pyc-Unicam SP 3 200; ccux dc rmn ' H avcc les 
+appareils Brukcr WP 80 et Bruker SY 250. Les chromatographies sur 
+couche mince ont t t C rkalistes sur gcl dc silicc tluorcscente "Mcrck 
+PF-254", (plaque 20 X 20, e = 0.1 cm). 
+En electrochimic, tous les potenticls ont CtC n~csurks par rapport h 
+unc Clcctrode dc rCf6rencc au calonlel et KC1 sature, B doublc jonction 
+Tacussel RDJ/C 10. Les polarogranimcs ont etC cnregistres sur une 
+table trapntc XY Iffelec 1F 3802 couplie h un polarographe PAR 174 
+
+A. Les voltammogrammcs ont 6tC rCalisCs gricc B un potentiostat PAR 
+
+173 gouverne par un genirateur de signaux PAR 175, sur goutte de 
+mcrcure fournie par une electrode de Kcmula h piston micrometrique. 
+
+Les electrolyscs ont etC realiskes en atmosphere d'argon, B 20°C, 
+
+avec un potentiostat PAR 173 muni d'un coulometrc PAR 179, sur une 
+cathode de mcrcure de 26 cm' environ de surface et agitee avcc un 
+barreau aimante. Les compartiments anodique ct cathodique sont sd-
+pares par une pastille de verre frittC de porositC 4 ct de 2,5 cm de 
+diametre. L'anode est un disque de platine dc 2 cm de diamttrc. 
+Le DMF utilisC contient du bromure de tCtrabutylamnionium 0, I M 
+et un peu d'eau 2 x 10-'M environ (dosage de Karl-Fischer). Ainsi 
+pour les analyses voltanimetriqucs avec des concentrations en 
+
+MnCl2-4H,O de lo-' M. la concentration d'eau cst de I'ordre de 2 B 
+
+3 x lo-' M, pour les Clectrolyses ou la concentration dc scl de 
+mangantse est en gCn@ral de 7 X lo-' M (5 X LO-.' mol dans 70 cm3 
+de solvant), la concentration d'eau est de 0,45 121 cnviron. 
+En fin de reaction (dkterminke par analyse polarographique) Ic 
+mClange obtenu est verse dans un grand volume d'eau (700 cm' au 
+moins), extrait h I'Cther et sCche sur sulfate de sodiuni. Le solvant est 
+chassC sous vide, le rCsidu separC par chromatographic en couche 
+mince de silice. 
+Beaucoup de produits obtenus sont connus ( 1 1-14) et nous les 
+avons identifits par leurs caracttristiques physiques et spectroscopi-
+ques, par comparaison avec celles d'6chantillons authentiques. Les 
+particularitks observkes et les spectres de rmn des glycols obtenus sont 
+donnCs dans Ies refs. 5 et 10. 
+Can. J. Chem. Downloaded from www.nrcresearchpress.com by 87.160.154.20 on 03/27/14 
+
+For personal use only. 
+
+
+FOURNIER ET AL 
+
+2125 
+
+1. J. P. SECUIN, J. P. DOUCET et R. UZAN. C. R. Acad. Sci. Ser. 
+6. F. C. FREDERICK et K. E. JOHNSON. J. Electrochem. Soc. 2070 
+C, 278, 129 (1974); M. A. MICHEL, G. MOUSSET et J SIMONET. 
+(1981). 
+J. Electroanal. Chem. 98, 319 (1979); C. P. ANDRIEUX et J. M. 
+7. G. ANTHOINE, J. NASIELSKI et B. WILMET-DEVOS. Bull. Soc. 
+SAVEANT. Bull. Soc. Chim. Fr. 2090 (1973); E. LAMY, L. NADIO 
+Chim. Belg. 78, 465 (1969). 
+et J. M. SAVEANT. Electroanal. Chem. 50, 141 (1974); W. R. 
+8. G. MAIERUS, E. YAX et G. OURISSON. Bull. Soc. Chim. Fr. 4143 
+FAWCETT et A. LASIA. Can. J. Chem. 59, 3256 (1981); P. H. 
+(1967). 
+GIVEN, M. E. PEOVER et J. SCHOEN. J. Chem. Soc. 2674 (1958); 
+9. D. SEEBACH, H. A. OEI et H. DAUM. Chem. Ber. 110, 2316 
+A. BEWICK et H. CLECHORN. J. Chem. Soc. Perkin Trans. 2, 140 
+(1977). 
+(1973). 
+10. Y. L. PASCAL, 0. CONVERT, J. BERTHELOT et F. FOURNIER. 
+2. M. PERRIN, P. POUILLEN, G. MOUSSET et P. MARTINET. Tet-
+Tetrahedron. Soumis a publication. 
+rahedron, 36, 221 (1980); C. R. Acad. Sci. Ser. C, 284, 955 
+11. G. MAJERUS, E. YAX et G. OURISSON. Bull. Soc. Chim. Fr. 4143 
+(1977) 
+(1 967). 
+3. D. W. SOPHER et J . H. P. UTLEY. J. Chem. Soc. Chem. 
+12. D. SEEBACH, H. A. OEI et H. DAUM. Chem. Ber. 110, 2316 
+Commun. 1087 (1979). 
+(1977). 
+4. F. FOURNIER, J. BERTHELOT et Y. L. PASCAL. C. R. Acad. Sci. 
+13. H. GOTH, P. CERUTTI et H. SCHMIDT. Helv. Chim. Acta, 48, 
+294, sCrie 11, 849 (1982). 
+1395 (1965). 
+5. F. FOURNIER, J. BERTHELOT et Y. L. PASCAL. Tetrahedron. A 
+14. Y. ALTMAN et D. GINSBURG. J. Chem. Soc. 1498 (1961). 
+paraitre. 
+
+Can. J. Chem. Downloaded from www.nrcresearchpress.com by 87.160.154.20 on 03/27/14 
+
+For personal use only. 
+
+
+
+	
+

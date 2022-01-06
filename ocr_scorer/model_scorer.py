@@ -108,7 +108,7 @@ class ModelScorer(object):
         # input size and avoid unreliable prediction scores of shortest text
         while len(text) < (self.max_length*2)+1:
             text += ' ' + text
-        print("extended length:", str(len(text)))
+        #print("extended length:", str(len(text)))
 
         preds = []
         while pos < len(text)-(self.max_length+1):
@@ -163,10 +163,10 @@ class ModelScorer(object):
         # score a set of texts
         result_preds = []
         for text in texts:
-            result_preds.append(self.score(text))
+            result_preds.append(self.score_text(text))
         return result_preds
 
-    def read_batch(self, training=True, batch_size=None):
+    def read_batch(self, training=True, batch_size=None, max_length=128):
         '''
         Read successively batches of data from a set of files. 
         If parameter training is True (default), the training data is read, otherwise the evaluation data.
@@ -215,18 +215,65 @@ class ModelScorer(object):
                             segments = []
                             next_chars = []
 
+    def read_files_sequence(self, target_dir=None, max_length=500):
+        # we use all .txt files in the target data repository, defaulting to the language evaluation ones
+        if target_dir == None:
+            target_dir = os.path.join(self.config['training_dir'], self.lang, "evaluation")
+        elif not os.path.isdir(target_dir):
+            raise ValueError('Invalid directory to be read: ' + target_dir)
+
+        for file in os.listdir(target_dir):
+            if file.endswith(".txt"):
+                with open(os.path.join(target_dir, file), "r") as text_file:
+                    pos = 0
+                    text = text_file.read()
+                    text = normalise_text(text)
+                    text = re.sub(r'([ \t\n\r]+)', ' ', text)
+                    text = text.strip()
+                    while True:
+                        upper_bound = min((pos*max_length)+max_length, len(text))
+                        segment = text[pos*max_length:upper_bound]
+                        yield segment
+                        pos += 1
+                        if upper_bound >= len(text):
+                            break
+
+    def read_file_sequence(self, target_file=None, batch_size=None, max_length=500):
+        if target_file == None:
+            raise ValueError('Unspecified file to be read')
+
+        if not os.path.isfile(target_file):
+            raise ValueError('Invalid file to be read: ' + target_file)
+
+        if not target_file.endswith(".txt"):
+            raise ValueError('File must be a .txt file: ' + target_file)
+
+        with open(target_file, "r") as text_file:
+            pos = 0
+            text = text_file.read()
+            text = normalise_text(text)
+            text = re.sub(r'([ \t\n\r]+)', ' ', text)
+            text = text.strip()
+            while True:
+                upper_bound = min((pos*max_length)+max_length, len(text))
+                segment = text[pos*max_length:upper_bound]
+                yield segment
+                pos += 1
+                if upper_bound >= len(text):
+                    break
+
     def build_model(self):
         '''
         vanilla LSTM layers
 
-        stateful RNN makes sense in long sequence and anomaly detection, it is then required to
+        stateful RNN makes sense in long sequence and anomaly detection, but it is then required to
         fix the batch size in the input layer 
         '''
         self.model = keras.Sequential(
             [
                 keras.Input(shape=(self.max_length, self.voc_size), batch_size=self.batch_size),
-                layers.LSTM(self.voc_size, recurrent_dropout=0.2, return_sequences=True, stateful=True), 
-                layers.Dropout(0.2),
+                layers.LSTM(self.voc_size, recurrent_dropout=0.5, return_sequences=True, stateful=True), 
+                layers.Dropout(0.5),
                 #layers.LSTM(128, recurrent_dropout=0.2, return_sequences=True, stateful=True), 
                 #layers.Dropout(0.2),
                 layers.LSTM(128, recurrent_dropout=0.2, stateful=True), 
@@ -250,7 +297,7 @@ class ModelScorer(object):
             start_epoch_time = time.time()
             losses = []
             accs = []
-            for i, (X, Y) in enumerate(self.read_batch()):
+            for i, (X, Y) in enumerate(self.read_batch(max_length=self.max_length)):
                 
                 loss, acc = self.model.train_on_batch(X, Y, reset_metrics=True)
                 if (i+1) % 10 == 0: 
@@ -280,16 +327,58 @@ class ModelScorer(object):
         print("best model: epoch", str(best_epoch))
 
     def evaluate(self):
+        
+        print("LM prediction evaluation...")
         start_time = time.time()
-        total_time = 0
         print("\nevaluating language model...")
-
-        loss, acc = self.model.evaluate(self.read_batch(training=False))
+        loss, acc = self.model.evaluate(self.read_batch(max_length=self.max_length, training=False))
         total_time = round(time.time() - start_time, 3)
         print("\nevaluation: accuracy = {:.5f}, ({:.3f}s)".format(acc, total_time))
-
         bpc = loss / math.log(2)
         print("bpc:", bpc, "\n")
+        
+        print("scoring sequence evaluation...")
+        start_time = time.time()
+        print("     scoring segments...")
+        text_scores = []
+        for text in self.read_files_sequence(max_length=500):
+            text_scores.append(self.score_text(text))
+        total_time = round(time.time() - start_time, 3)
+        print("\nscored", str(len(text_scores)), "text segments in {:.3f}s".format(total_time)) 
+        scores = np.array(text_scores)
+        print("\taverage score:", str(np.mean(scores)))
+        print("\tlowest score:", str(np.min(scores)))
+        print("\thighest score:", str(np.max(scores)))
+        deviation = np.std(scores, dtype=np.float64)
+        print("\tstandard deviation:", str(deviation))
+
+        print("scoring file evaluation...")
+        start_time = time.time()
+        print("     scoring files...")
+        files_scores = []
+        target_dir = os.path.join(self.config['training_dir'], self.lang, "evaluation")
+        for file in os.listdir(target_dir):
+            if file.endswith(".txt"):
+                print(file)
+                text_scores = []
+                for text in self.read_file_sequence(target_file=os.path.join(target_dir, file), 
+                                                    max_length=500):
+                    print("score text of lenght", len(text))
+                    print(text)
+                    text_scores.append(self.score_text(text))
+                local_file_score = np.mean(text_scores)
+                files_scores.append(local_file_score)
+                print("score for file", file, ":", str(local_file_score))
+        total_time = round(time.time() - start_time, 3)
+        print("\nscored", str(len(files_scores)), "files in {:.3f}s".format(total_time)) 
+        scores = np.array(files_scores)
+        print("\taverage score:", str(np.mean(files_scores)))
+        print("\tlowest score:", str(np.min(files_scores)))
+        print("\thighest score:", str(np.max(files_scores)))
+        deviation = np.std(files_scores, dtype=np.float64)
+        print("\tstandard deviation:", str(deviation))
+        
+        
 
     def save(self):
         target_dir = os.path.join(self.config["models_dir"], self.lang)
@@ -316,9 +405,12 @@ class ModelScorer(object):
         #self.chars = [c for c, i in enumerate(self.char_indices)]
 
 if __name__ == '__main__':
+
+    possible_actions = [ 'train', 'eval', 'test' ]
+
     parser = argparse.ArgumentParser(
         description="Simple command line OCR scorer. Use the service for more intensive/pipeline tasks.")
-    parser.add_argument("action", help="one of [train, eval, test]")
+    parser.add_argument("action", help="one of " + str(possible_actions), choices=possible_actions)
     parser.add_argument("--config-file", type=str, required=False, help="configuration file to be used", default='./config.yml')
     parser.add_argument("--lang", type=str, required=False, help="language code (two letters ISO 639-1) of the model", default='en')
 

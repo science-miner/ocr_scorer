@@ -1,0 +1,1471 @@
+
+	
+
+		
+
+	
+
+	
+
+Action des metaux sur les esters carboxyliques en presence 
+d'hexamethylphosphortriamide: une methode simple et efficace de reduction 
+des alcools en alcanes 
+
+HENRI DESHAYES ET JEAN-PIERRE PETE' 
+
+Laboratoire de Photochimie, Equipe de Recherche Associe'e au CNRS no 688. U.E.R. Sciences, 51062 Reirns cede.^, France 
+Recu le 7 fivrier 1984 
+
+Cet article est de'die' au Professeur Paul de Mayo ci I'occosion de son 60e atmiversaire 
+
+HENRI DESHAYES et JEAN-PIERRE PETE. Can. J. Chem. 62, 2063 (1984) 
+
+,I 
+
+Lorsqu'on traite un ester carboxylique (R-C-OR') 
+
+par une solution de sodium dans 1'hexarnCthylphosphortriamide 
+
+(HMPA), on observe essentiellement la formation de l'acide carboxylique, d'un melange de I'alcool R'OH et de I'alcane R'H 
+correspondant. La proportion d'alcane est trks importante pour les esters d'alcools encombres et diminue lorsque I'en-
+combrement au niveau du groupe carboxyle baisse. Le taux d'alcane augmente aussi en presence de tert-butanol. La discussion 
+de ces r6sultats et leur comparaison avec la reduction des esters dans les amines primaires indiquent que I'alcane provient 
+essentiellement de la dCcomposition d'un radical anion solvat6 ou non alors que I'alcool resulte de processus bimol6culaires 
+
+de dicomposition de I'ester. L'acide carboxylique est dQ a la fois a une reaction de fragmentation du radical anion et i des 
+
+reactions bimolCculaires. 
+
+HENRI DESHAYES and JEAN-PIERRE PETE. Can. J. Chem. 62, 2063 (1984). 
+
+Carboxylic acids, alcohols (R'OH), and alkanes (R'H) are the main products of the reduction of carboxylic esters (RC02R1) 
+by sodium in hexamethylphosphoric triamide (HMPA). Alkanes are preferentially formed from the carboxylic esters of 
+hindered alcohols. The alkane content, however, is lowered when there is less steric hindrance on the carboxylic group, and 
+increased when tert-butanol is introduced into the reaction mixture. The reduction of esters in HMPA has been compared to 
+the reduction in alkylamines. The alkane is produced mainly by the decomposition of a radical anion intermediate which can 
+be solvated by HMPA. ' The alcohol is the result of several possible bimolecular nucleophilic reactions; however, unimolecular 
+and bimolecular processes are involved in the production of the carboxylic acid. 
+
+Depuis l'observation a la fin du siecle dernier de la rCduction 
+des amides par l'amalgame de sodium en solution aqueuse et 
+depuis la mise en Cvidence par Bouveault et Blanc de la trans-
+formation des esters en alcools par action reductrice du sodium 
+dans les alcools Cthylique ou amylique anhydre ( I ) , de nom-
+breux travaux ont Ct C consacrCs a l'action des mCtaux sur les 
+dCrivCs d'acide et plus particulikrement sur les esters carbo-
+xyliques (2). Ainsi, il a pu Ctre montre qu'en solvant protique, 
+la rCaction de Bouveault et Blanc presentait une grande gCnC-
+ralitC et un certain intCrCt pour la transformation de la fonction 
+acide en fonction alcool. En solvant aprotique par contre, une 
+nouvelle rCaction rCductrice nommte condensation acyloi'ne est 
+observee prCfCrentiellement (3). Bien que 11intCr6t synthetique 
+de ces reductions ait Cte rapidement explork, 1'Ctude mi-
+canistique et la caracterisation d'intermediaires n'est inter-
+venue que beaucoup plus tard (4). Si la formation intermkdiaire 
+d'un radical anion par action du sodium sur un ester carbo-
+xylique ne fait aucun doute, les processus de formation des 
+produits de rCaction a partir de cet intermediaire sont encore 
+ma1 connus. 
+Ainsi, le mtcanisme de la condensation acylo'ine a pu Ctre 
+rCcemment remis en question ( 5 ) ; de mCme, l'isolement 
+d'acides carboxyliques par action des metaux alcalins sur les 
+
+esters carboxyliques dans l'ammoniac liquide (6)' ou dans 
+I'hexamCthylphosphortriamide (HMPA) (7) a conduit divers 
+
+auteurs a proposer une nouvelle voie de dCcomposition (Cq. [I.]) 
+
+pour le radical anion qui ferait intervenir la rCduction du groupe 
+alcoxy de l'ester. 
+
+/0-Nai 
+e -
+[I] R-C. 
+
+No 
+
++ R,-
+
++ R-C 
+
+\o-R' 
+
+\ O N a + 
+
+I H ' 
+
++ 
+R C 0 2 H + R'H 
+
+Cependant, si la formation d'hydrocarbures Ctait bien obser-
+vie au cours de la reduction d'esters benzyliques (7), il 
+n'existait pas d'exemple clair d'une telle reduction en absence 
+de groupes allyliques ou benzyliques, au moment ou nous 
+avons entrepris notre C t ~d e . ~ 
+Par ailleurs, au cours de travaux sur la photolyse, des esters 
+carboxyliques dans un mClange HMPA-eau, il a Ct C proposC 
+qu'un complexe de transfert de charge pouvait Ctre responsable 
+de la reduction des groupes alcoxy d'esters carboxyliques (9) 
+(Cq. [2]). I1 Ctait donc envisageable si le mCcanisme propose 
+
+h v 
+/O-
+
+n' A R-C. 
+
+[2] R-C 
+H M P T 
+\OR' 
+' 0-R' 
+
+HMPA 
+
+\OH 
+
+' Auteur a qui toute correspondance doit Ctre adressie. 
+
+I1 en est de mCme au cours des reductions cathodiques; la reduction 
+'La formation d'acide pourrait, dans ce cas, resulter aussi d'une 
+du groupe alcoxy de I'ester n'est observie que pour des derives d'al-
+attaque nuclCophile d'amidure sur le groupe mCthyle de I'ester. 
+cools benzyliques ou allyliques. cf. ref. 8. 
+
+Can. J. Chem. Downloaded from www.nrcresearchpress.com by 87.160.185.190 on 03/27/14 
+
+For personal use only. 
+
+
+VOL. 62. 1984 
+
+2064 
+
+CAN. J. CHEM. 
+
+TABLEAU 1. RCduction d'acCtates d'alkyle CH,COZ-R"' 
+
+Essai 
+
+-
+-
+
+R' 
+R'H (%) R'OH (%) 
+
+n-C9H ,, 
+
+n-C7HIs 
+Cyclohexyl 
+Bornyl 
+Menthyl 
+5a-Cholestanyl-3P 
+Cholestttne-5 yl-3P 
+DimCthyl-4,4 5a-cholestanyl-3P 
+Mtthyl-3P 5a-cholestanyl-3a 
+MCthyl-3a 5a-cholestanylL3P 
+TrimCthyl-3a,4,4 5a-cholestanyl-3P 
+TrimCthyl-3P,4,4 5a-cholestanyl-3a 
+
+"On arrite la reaction 5 min apres la fin de I'addition de I'ester (cf. partie 
+expirimentale). 
+
+" Determink par cpv. 
+
+'Le m&amp;me isomere est obtenu i partir des deux epimires avec un rendement 
+
+de 85% environ apres recristallisation. 
+
+pour la reaction photochimique Ctait fondC, de rendre prCpara-
+tive la rCduction du groupe alcoxy d'esters carboxyliques par 
+action du sodium ou d'autres metaux alcalins dans le HMPA en 
+presence d'un donneur de protons.4 Le HMPA, bon solvant des 
+mCtaux alcalins et du sodium en particulier ( 1 I), donne des 
+solutions bleues paramagnktiques caractCristiques de la prt-
+sence d'Clectrons solvatCs dans le milieu ( 1 1 , 12) et douCes 
+d'un fort pouvoir reducteur. Le potentiel dtveloppC entre une 
+Clectrode saturCe au calomel (SCE) en contact electrique avec 
+une solution de Na-HMPA et mesurC a 28°C est de -2,96 V 
+(13), alors que des valeurs de -2,2 et -2,3 V (vs. SCE) ont 
+Ct C dCcrites pour des solutions de sodium dans l'ammoniac 
+liquide a -33°C (14). 
+La reduction des alcools en hydrocarbures par action du 
+sodium dissous dans le HMPA sur les esters carboxyliques 
+correspondants est une rkaction efficace; nous rapportons dans 
+ce mtmoire la gCntralitC de la reaction, ses limites et nous 
+comparons nos rCsultats avec ceux dCcrits rtcemment pour 
+I'action sur les esters des mCtaux alcalins dissous dans 
+l'ethylamine et la tert-butylamine (15). 
+
+Resultats 
+1. Aspect pre'paratif 
+Lorsqu'on ajoute une solution diluee d'ester dans 1'Cther -
+t-BuOH (1 : 1) a une suspension de sodium dans le HMPA a une 
+vitesse telle que le milieu restement constamment colorC, les 
+rksultats de la reduction observte (tableau 1) peuvent &amp;tre re-
+sumts dans 1'Cq. [3]: 
+
+/O 
+Na 
+[3] R-C 
+
+k 
+
+HMPA -I-BuOH 
+"0-R' 
+
+R' H + R'OH + RC02H + RCH20H 
+
+Dans les rCactions utiliskes, les alcools primaires, secon-
+daires ou tertiaires sont transformes en hydrocarbures par re-
+duction des acetates correspondants. Les rendements en al-
+canes augmentent avec l'encombrement au niveau du groupe 
+alcoxy et la reduction devient mkme quantitative lorsque l'on 
+soumet au sodium-HMPA les esters d'alcools tertiaires. On 
+
+Une partie de ce travail a fait I'objet d'une note prdliminaire (10). 
+
+TABLEAU 2. Influence de la nature du groupc carboxyle sur la rtduc-
+tion d'esters de cholestanyle 
+
+/0 
+Na 
+R-c 
+HMpA-t-BuOH 
+
+R-H 
++ 
+"0-R 
+
+Essais 
+R-C0,-
+R'H (%)" R'OH (%jb 
+
+Forrniate 
+30 
+AcCtatc 
+69 
+Heptanoate 
+52 
+Pivalate 
+67 
+MCthyl-l cyclohexane carboxylate 
+67 
+Cyclohexane carboxylate 
+65 
+PhCnyl-2 acetate 
+52 
+Benzoate 
+45 
+Stkarate 
+56 
+
+" 5a-Cholestane. 
+"5a-Cholestanol-3P. 
+'Acide heptanoique 83%. 
+" ~c i d e sttarique 77%. 
+
+note qu'une quantitC notable d'alcool est obtenue dans le mt-
+lange riactionnel lorsqu'on rCduit dans le mClange HMPA -
+tert-butanol des esters d'alcools primaires et secondaires. 
+La nature de l'ester carboxylique influe Cgalement sur le 
+cours de la rtaction sans en modifier la gCneralitC. Le tableau 
+2 montre que l'augmentation de l'encombrement au niveau du 
+groupe carboxyle a aussi pour effet d'augmenter la part du 
+processus de rtduction, puisque la production d'alcool, trbs 
+majoritaire dans le cas des formiates, est fortement diminuCe 
+pour les autres esters de cholestanyle. Cependant, l'effet d'en-
+combrement est plus limit6 que lors du passage des dCrivts 
+
+d'alcools primaires 2 des dCrivts d'alcools tertiaires puisque le 
+
+passage de I'acCtate au pivalate et au methyl-1 cyclohexbne 
+carboxylate de cholestanyle nlamCliore plus le rendement de la 
+dtsoxygCnation. 
+Une des applications intkressantes de la rCaction de photo-
+rtduction du groupe alcoxy d'esters concernait la preparation 
+de deoxysucres. Nous avons essay6 d'obtenir ces mkmes de-
+oxysucres par action du sodium dans le HMPA. Mal-
+heureusement, la liberation d'alcool s'est rtvClCe plus efficace 
+et nous n'avons pu isoler le derive dCsoxy attendu par trai-
+tement par le sodium de I'acCtate suivant: 
+
+Les raisons de 1'Cchec de cette rCaction de rkduction par le 
+sodium dans le HMPA ne sont pas connues. Nous pouvons 
+toutefois remarquer que la prCsence des deux groupes ace-
+tonides dans la molCcule peut modifier la chClation aussi bien 
+du cation sodium que du tert-butanol. Le m&amp;me Cchec est 
+rencontrt lorsque la rtduction est conduite en absence de tert-
+butanol. 
+
+2. Aspect me'canistique 
+(a) RBle du tert-butanol 
+Les etudes de la photorCduction des esters carboxyliques en 
+Can. J. Chem. Downloaded from www.nrcresearchpress.com by 87.160.185.190 on 03/27/14 
+
+For personal use only. 
+
+
+DESHAYES ET PETE 
+
+TABLEAU 3. R61e du tert-butanol sur la rCduction des esters par le sodium dans le HMPA 
+
+0 
+
+II 
+
+R'-H (%) 
+R'OH (%) 
+
+R-c 
+
+Essai 
+Sans t-BuOH 
+
+1 
+CH3C02-C9HI9 
+27 
+2 
+CH3C02-C7H15 
+33 
+3 
+AcCtoxy-3P 5a-cholestane 
+35 
+4 
+AcCtoxy-3P cholestkne-5 
+60 
+5 
+Formyloxy-3P 5a-cholestane 
+7 
+6 
+AcCtoxy-3P methyl-3a 5a-cholestane 
+84 
+7 
+AcCtoxy-3a mCthyl-3P 5a-cholestane 
+84 
+
+Sans t-BuOH 
+
+En presence 
+de t-BuOH" 
+
+" HMPAIt-BuOH 90: 10. 
+
+Non dCterminC. 
+
+TABLEAU 4. Essai d'incorporation de deuterium sur un intermkdiaire carbanionique 
+
+RC02-R 
+
++ R O D 
+
+Na 
+
+A 
+
+HMPA 
+
+R'H + R'D +R'OH 
+
+Ester 
+
+Teneur en 
+R"OD 
+Hydrocarbure (%) 
+deutCrium 
+R'OH (%) 
+
+AcCtoxy-3P 5a-cholestane 
+t-BuOD 
+68 
+0,87 d l 
+29 
+t-BuOD" 
+42 
+0,65 d l 
+5 8 
+t-BuOD 
+40 
+0,76 d l 
+50 
+CH3OD 
+2 1 
+0,83 dl 
+74 
+MCthyl-l cyclohexane 
+carboxy-3P 5a-cholestane 
+t-BuOD 
+87 
+0,60 d l 
+
+b 
+
+"Addition inverse: la solution de sodium dans le HMPA est ajoutte ? i 
+la solution d'ester 
+
+*Nan dost. 
+
+prCsence de HMPA ayant montrC la ntcessitC de la presence 
+d'un agent protique dans le milieu, nous avons examine si la 
+rCduction de ces esters en alcanes par action du sodium dans le 
+HMPA Ctait sensible la presence de protons. Nous avons, 
+pour cela, effectuC la rCaction de rCduction d'esters en absence 
+
+de source de protons et comparC les resultats a ceux de temoins 
+
+rCalisCs en presence de tert-butanol (tableau 3). 
+La prCsence de tert-butanol dans le milieu favorise la for-
+mation d'alcanes aux dCpens de la formation d'alcools dans le 
+cas des esters peu encombris d'alcools primaires ou secon-
+daires. Dans le cas d'esters encombres, la prCsence de protons 
+dans le milieu ne semble pas amCliorer sensiblement le ren-
+dement en produit de riduction du groupe alcoxy. 
+(b) Nature des interme'diaires re'actioiznels 
+L'examen des essais 9 et 10 ou 1 1 et 12 decrits dans le 
+tableau 1 montre que le m&amp;me hydrocarbure est obtenu au cours 
+de la reduction de deux esters Cpimeres. 
+Afin de dkterminer la nature de l'intermediaire commun qui 
+rend compte de la formation de l'epimere le plus stable au cours 
+de la rCaction, nous avons procede a deux series d'expkriences 
+
+permettant de determiner si un radical R! Ctait ou non sur le 
+
+chemin rkactionnel. 
+Le remplacement du tert-butanol par un alcool deuterie 
+(R-OD) permet de deuterier les carbanions suceptibles de se 
+former dans le milieu. Le dosage de la teneur en deuterium 
+dans les hydrocarbures isoles indique dans quelle mesure l'ar-
+rachement d'hydrogene au HMPA par un radical intermediaire 
+est susceptible d'entrer en competition avec la protonation d'un 
+anion par I'alcool deutCriC. 
+Le tableau 4 fait apparaitre que la nature du donneur de 
+protons influe considCrablement sur la proportion des produits 
+
+obtenus puisque le methanol plus acide que le tert-butanol 
+favorise la liberation de cholestanol. D'autre part, le dosage du 
+deuterium dans le cholestane isole montre dans chaque cas une 
+incorporation importante de deutCrium. Un intermediaire 
+carbanionique est donc sur le chemin privilegiC qui conduit 
+l'alcane. Cependant, la teneur en deuterium inferieure a I'unitC 
+indique qu'une partie de l'alcane pourrait provenir d'un inter-
+mCdiaire radicalaire apres arrachement d'un atome d'hydro-
+gkne au solvant. La reduction d'un ester de cyclopropyl-
+carbinyle est susceptible de nous apprendre si I'intermCdiaire 
+form6 initialement par rupture de la liaison C-0 du groupe 
+alcoxy posskde une structure radicalaire ou anionique. En effet, 
+il a pu &amp;tre montre dans I'action de radicaux anions dans le 
+glyme sur le chloro-6P cyclo-3a, 5a-cholestane que le radical 
+
+intermediaire conduisait a 25°C a un dCrivC du cholestene-5, 
+alors que l'anion du systeme cyclopropylcarbinyle conduisait, 
+de preference, aux derives cyclopropaniques (16). La forte 
+proportion de cholestene-5 observe semble indiquer qu'un ra-
+dical intermediaire est initialement forme lorsque la rupture 
+C-0 du groupe alcoxy intervient. 
+Can. J. Chem. Downloaded from www.nrcresearchpress.com by 87.160.185.190 on 03/27/14 
+
+For personal use only. 
+
+
+2066 
+
+CAN. J. CHEM. VOL. 62. 1984 
+
+TABLEAU 5. Influence de la temperature sur la reduction de I'acdtoxy-
+
+3P 5a-cholestane 
+
+"C 
+Additif 
+5a-Cholestane 5a-CholestanolL3P CH7CO2R 
+
+(c) Influence des conditions rtactionnelles 
+Les divers produits observks, lorsqu'on fait reagir un metal 
+sur un ester, resultent de processus compCtitifs au niveau du 
+radical anion initialement peuple. Nous avons donc cherche a 
+determiner l'influence de la temperature, de la duree de rCac-
+tion et de la nature du metal sur le cours de la reduction de 
+l'acCtate de cholestanyle en cholestane. Bien que la reduction 
+des esters par les metaux dans les amines primaires soit sensible 
+
+a la temperature, nous n'avons pu mettre en evidence une 
+
+augmentation conskquente du taux d'alcane lorsqu'il y a aug-
+mentation de la temperature, surtout lorsque la rCaction est 
+rCalisCe en prCsence de tert-butanol. 
+La vitesse d'addition de l'ester dans la solution d'electrons 
+solvatCs a 25°C Ctant effectuee de maniere a eviter que la 
+couleur bleue ne disparaisse au cours de l'addition, nous avons 
+
+procCdC a l'isolement des produits de reaction des la fin de 
+
+I'introduction de l'ester dans le milieu reducteur. Le rendement 
+en alcane isole est alors optimum. Ceci nous permet de conclu-
+re que la transformation du radical anion intermediaire est 
+rapide a tempkrature ambiante. 
+Le pouvoir rCducteur ClevC des solutions de sodium dans le 
+HMPA permet la reduction des liaisons multiples ( 1 1) y com-
+pris les liaisons ethylkniques (17). I1 est neanmoins possible de 
+contr6ler le cours de la reduction d'un ester insaturk en contr6-
+lant le temps de contact de l'ester avec la solution reductrice. 
+Ainsi, nous pouvons orienter la reduction de l'acCtate de cho-
+lestkryle vers la formation de dCrivCs du cholestkne-5 ou du 
+
+AcO 
+HMPA -t-BuOH 
+H 
+H 
+
+5 min 
+68% 
+24 h 
+
+L'Ctude de l'influence de la nature du metal sur la reduction 
+est rendue difficile par la grande instabilite des solutions de 
+lithium et de potassium dans le HMPA (7). 11 a en effet Ct C 
+montre que les solutions de metal alcalin-HMPA voient ra-
+pidement leur conductibilit6 baisser pour le lithium ou le potas-
+sium, contrairement au cas des solutions de sodium pour les-
+quelles la conductibilitk reste constante durant des pCriodes 
+assez longues (18). La baisse de conductibilit6 semblerait like 
+a une dCcomposition du HMPA. 
+Un essai de reduction d'acCtate de cholestanyle par une solu-
+tion de Li-HMPA conduit a une formation prepondkrante d'al-
+cool (cholestanol 81%, cholestane 9%). Nous constatons en 
+outre que la dissolution du lithium dans le HMPA est bien plus 
+rapide que celle du sodium et que l'hydrolyse du brut de rCduc-
+tion par Li-HMPA conduit a la formation de produits gazeux a 
+odeur de phosphine. De plus, la liberation d'ions dimCthy1-
+amidure susceptibles de rCagir sur les esters (7) a deja etC notCe. 
+Des travaux rCcents ayant montre que des esters encombres 
+pouvaient Etre rCduits selectivement par le lithium dans une 
+amine primaire (15, 19, 20), nous avons compare le cours de 
+la reduction de l'acetate de cholestanyle pris comme modele 
+d'un acCtate d'alcool secondaire dans diffCrents milieux et nous 
+avons rassemblk les resultats dans le tableau 6. 
+Ces divers essais montrent d'une part que le taux d'alcane est 
+plus tlevC lorsque le HMPA est utilisC comme solvant, d'autre 
+part que la prCsence de tert-butanol dans le milieu accroit la 
+formation d'alcane aux dCpens de la reduction en alcool, aussi 
+bien dans I'tthylamine que dans le HMPA. 
+L'introduction d'une solution de sodium-HMPA prC-
+alablement titrCe (13) a une solution d'ester dans un melange 
+HMPA-Cther permet de determiner le nombre d'electrons nC-
+cessaires a la rCduction. On constate en effet, et a la prkcision 
+des dkterminations pres (tableau 7), qu'en absence de tert-
+butanol, il y a consommation de moins de deux Cquivalents de 
+
+sodium et donc de moins de deux electrons par mole d'ester au 
+moment ou la solution maintient une couleur bleue ~ersistante. 
+Un tel resultat est donc en accord a la fois avec la formation 
+rapide du radical anion derive de l'ester et avec la non com-
+pCtitivitC d'autres processus de reduction en absence de tert-
+butanol. 
+En presence de tert-butanol, on observe non seulement que 
+plusieurs Cquivalents "Clectrons solvates" sont nkcessaires 
+avant l'obs&amp;ation du maintien d'une couleur bleue ~ersis-
+tante, mais aussi une grande instabilite de ces colutions co-
+lorees mEme pour un nombre d'equivalents tres superieur a 2. 
+Des Drocessus de reduction successifs semblent devoir Etre 
+retenus dans la mesure ou nous avons vCrifiC que le tert-butanol 
+ne dCcolore pratiquement pas la solution de sodium dans le 
+HMPA. 
+Les proportions d'alcane et d'alcool obtenus au cours de ces 
+experiences de titrage sont conformes aux rCsultats prkparatifs 
+dCcrits dans les tableaux 3 et 7. On vkrifie ainsi qu'il y a 
+davantage de produits de reduction en presence de t-BuOH et 
+qu'il y a dans chaque cas formation d'une quantitk importante 
+d'alcool. 
+
+Discussion 
+La reduction des esters carboxyliques, par les mCtaux dis-
+sous, conduit a un mClange d'alcanes, d'alcools et d'acide 
+carboxylique. Le degre de substitution du groupe alcoxy de 
+l'ester, la nature du derive acide, les conditions de reaction et, 
+plus particulierement, la nature du milieu reactionnel, influ-
+encent les rendements respectifs dans les divers produits. Dans 
+tous les milieux cependant, on peut considCrer que la premiere 
+Ctape rkalise la fixation d'un electron sur l'ester et fournit un 
+radical anion d'ou dCcouleront les divers produits de rCaction. 
+L'alcane issu de la rCduction du groupe alcoxy et les alcools 
+peuvent, a priori, dtcouler d'une dCcomposition du radical 
+Can. J. Chem. Downloaded from www.nrcresearchpress.com by 87.160.185.190 on 03/27/14 
+
+For personal use only. 
+
+
+DESHAYES ET PETE 
+
+TABLEAU 6. Influence de la nature du milieu sur la reduction de I'acCtoxy-3P 5a-cholcstane 
+
+Essai 
+M 
+Solvant 
+5a-Cholestane (C/o) 
+5a-CholestanolL3P (%I) 
+
+I 
+Na 
+HMPA 
+35 
+2 
+Na 
+HMPA -t-BuOH 90: I0 
+69 
+3 
+Na 
+NH3 
+0 
+4 
+Li 
+HMPA -t-BuOH 90: 10 
+9 
+5 
+Li 
+PrNH2 
+0 
+6 
+Li 
+
+EtNH? + t-BuOH 90: 10 
+
+10 
+7 
+Li 
+EtNH2 
+
+&lt; 1 
+
+TABLEAU 7. RCduction d'cstcr par une solution titrCc de sodium-HMPA 
+
+QuantitC 
+QuantitC 
+Na intr. 
+R-COzR1 
+
+x lo-' mol 
+
+Na-HMPA 
+Conditions 
+x 10.' mol 
+RH (%) 
+ROH (%) 
+
+AcCtoxy-3P 
+1.88 
+0.119 M 
+HMPA-Cther 
+1.84 
+30 
+70 
+5a-cholestanc 
+1.23 
+0,119 M 
+HMPA-Cthcr 
+1.12 
+17 
+83 
+Cyclohcxane 
+2.65 
+0.088 M 
+HMPA-Cther 
+5.2 
+16 
+84 
+carboxy-36 
+5a-cholestane 
+2.65 
+0,088 M 
+HMPA-Cther 
+2.34 
+5 
+85 
+2.96 
+0,088 M 
+
+HMPA + t-BuOH 
+
+15 
+67 
+33 
+(90: 10) 
+
+/O-C(CH3)3 
+
+/O-
+R-C. 
+
+\ 
+
+t-BuOH 
+
+R 
+
+R-C 
+
++R'. 
+
+"0-
+
+/o-M 
+M+ (4) 
+/O-
+(3) 
+R-C: 
+
+' [A]= R-C: 
+
+R-d=0 + R'O-
+
+. -I 
+
+WOH 
+.-I(.) 
+
+RCHzOH 
+
+e-, Hf 
+
+/OM 
+R-C-
+
+-R-CH /O-
+
+T 
+
+-R'O-+ RCHO 
+
+' 
+OR 
+' OR' 
+
+anion selon les divers processus regroupCs dans le schCrna 1. 
+En milieu diluC, on peut nCgliger, dans le HMPA, la dupli-
+cation du radical anion conduisant aux a-cCtols et considCrer 
+que la dCcomposition de cette espece [A] va dependre essen-
+tiellement des conditions du milieu: prCsence ou non de pro-
+
+tons, solvatation spCcifique des cations, temperature. . . 
+
+La grande stabilitC de l'anion carboxylate permet la fragmen-
+tation selon la voie (1). Le radical R! ainsi formC, par ar-
+rachernent d'un atorne d'hydrogene au HMPA ou capture d'un 
+Clectron puis d'un proton, fournit l'alcane observC. Une telle 
+dCcomposition unimolCculaire est sensible a la variation de 
+contraintes stCriques. Le passage d'un ester d'alcool primaire a 
+un ester d'alcool tertiaire provoque une augmentation consi-
+dCrable de l'encornbrement. I1 est probable que les contraintes 
+
+stCriques sont rnodifiCes au niveau du radical anion qui tend a 
+adopter une structure tCtraCdrique aplatie (24). La relaxation 
+stCrique sera donc d'autant plus irnportante que le radical anion 
+[A] sera encombrk. I1 en rCsulte que plus l'encornbrement est 
+important, plus la vitesse de fragmentation est ClevCe, et rnoins 
+les rCactions parasites ont la possibilitC d'apparaitre. On obser-
+ve effectivement que l'encombrernent au niveau des groupes 
+alcoxy ou groupe carboxy (10, 22) augmente la proportion 
+d'alcane. 
+Le r6le du tert-butanol est sans doute complexe. On peut 
+cependant considerer qu'il est capable de solvater le radical 
+anion [A] dans le HMPA, voie (2), augrnenter ainsi les con-
+traintes stCriques ce niveau et accClCrer sa dCcomposition. En 
+effet, il est connu que les alcools sont susceptibles de solvater 
+Can. J. Chem. Downloaded from www.nrcresearchpress.com by 87.160.185.190 on 03/27/14 
+
+For personal use only. 
+
+
+2068 
+
+CAN. J. CHEM. VOL. 62. 1984 
+
+les radicaux anions dans le HMPA et de provoquer ainsi une 
+modification notable du spectre rpe de cet intermkdiaire (25). 
+De plus, nous avons pu montrer que la libhation d'acide 
+
+carboxylique a partir d'un radical R-C-/OH est possible 
+\OR' 
+lors de la photolyse des esters dans le HMPA, bien que celle-ci 
+soit sans doute moins favorable que la fragmentation de [A] en 
+ion carboxylate correspondant. 
+Le radical anion peut aussi fournir l'alcool R'O-selon divers 
+processus. La decomposition unimolCculaire de [A] en radical 
+acyle et R'O-, voie ( 3 ) , semble devoir Ctre exclue. En effet, 
+des calculs a b initio effectues sur le radical anion derive du 
+formiate de mtthyle indiquent que la fragmentation en radical 
+mCthyle et anion formiate est, de loin, plus favorable que la 
+fragmentation en radical acyle et anion mCthylate (AE = 263 
+kJ) (26). La capture d'un second Clectron par le radical anion 
+ne semble pas possible, ni dans le HMPA, ni dans une amine 
+en presence d'ethers couronnes. En effet, la repulsion Clectro-
+nique au niveau du dianion ainsi form6 est trop importante et 
+les processus compktitifs sont preponderants. C'est ainsi que 
+l'alcool RCHzOH attendu apres la capture d'un second Clectron 
+n'est pas observe, ou reste un produit trCs minoritaire aussi bien 
+dans le HMPA que dans un mClange de tert-butylamine et de 
+tetrahydrofuranne en presence d'Cther couronne (cf. rCfs. 22, 
+23, tableau 2, entries 1-5 et 12). La rCduction du radical anion 
+devient possible si I'anion reste liC au cation mttallique ou, 
+Cventuellement, de manikre concertCe avec la fixation d'un 
+proton (21, 22) dans les conditions de Bouveault et Blanc. 
+L'absence d'un taux 6levC de reduction en prCsence de tert-
+butanol indique que la protonation concertCe avec la fixation 
+d'un second Clectron par le radical anion est sans doute 
+considCrablement ralentie pour des raisons steriques. 
+La formation d'alcool R'OH peut rCsulter Cgalement d'un 
+deplacement de R'O-dans l'ester par une base presente dans 
+le milieu. La mise en Cvidence d'amides au cours de rCductions 
+par le lithium dans 1'Cthylamine (22) ou le lithium dans le 
+HMPA (7), montrent que le lithium est capable de produire 
+dans ces deux milieux des ions amidures susceptibles de libCrer 
+R'O-de l'ester correspondant. Cependant, les solutions de 
+sodium dans le HMPA sont stables sur de longues pCriodes 
+dans nos conditions de rCduction et ne conduisent donc pas la 
+formation d'amides. 
+
+Les pK, relatifs des amines primaires et secondaires (41 &lt; 
+pK, &lt; 44) sont plus ClevCs que ceux du tert-butanol (pK, = 
+
+32,2) (27). En prCsence d'un large exces de tert-butanol, nous 
+pouvons considerer que les ions amidures ou dimCthyl ami-
+dures sont entikrement et rapidement neutralisks, aussi bien 
+dans les amines primaires que dans le HMPA. La formation 
+d'alcool R'OH par action d'un ion amidure sur l'ester devrait 
+donc &amp;tre totalement inhibee par le tert-butanol, dks lors que la 
+decomposition de ce mCme ester par le tert-butylate de potas-
+sium, et selon le processus de Bouveault et Blanc, est exclue. 
+Or, il n'en est rien! Le tableau 6, entrCes 6 et 7, montre qu'en 
+prisence d'un grand exces de tert-butanol, on obtient une aug-
+mentation de 10% du rendement en cholestane et une diminu-
+tion de 10% de l'alcool correspondant. 
+Une autre base, l'hydroxyde de sodium, aurait pu resulter de 
+la prCsence d'une certaine quantitC d'eau dans le HMPA utilisC. 
+Nous pouvons exclure cette possibilitC pour plusieurs raisons: 
+(a) la coloration bleue caractkristique de la prCsence dlClectrons 
+solvatCs dans le milieu, est obtenue des que l'on ajoute du 
+sodium au HMPA anhydre utilise, sans qu'aucun dCgagement 
+
+gazeux puisse Ctre dCtectt; (b) pour une m&amp;me quantitC de 
+solvant HMPA-ether, la proportion d'alcool, si celui-ci rC-
+sultait au moins en partie d'une saponification de l'ester, de-
+vrait diminuer lorsque la quantite d'ester introduit est elle-
+mCme augmentCe. Lorsqu'on reduit, dans la mCme quantitk de 
+solvant 0,232 mmol ou 0,88 mmol d'acCtoxy-3P cholestane, 
+on obtient la mCme proportion de cholestane et de cholestanol. 
+Une trans estkrification de l'ester par le tert-butanol ou le 
+tert-butoxyde de sodium est peu probable en raison de l'en-
+combrement de l'ion tert-butoxyde et de la rapidite des reduc-
+tions. Une trans estkrification ayant Ct C dttectee lors de la 
+rCduction des esters dans les amines primaires (22) mais pas 
+dans nos conditions de rkduction, nous avons aussi examine le 
+r61e du cholestanol sur la reduction de l'heptanoate de methyle 
+par le sodium dans le HMPA. Contrairement aux rCsultats 
+obtenus dans les amines, nous n'avons pu detecter que des 
+traces (-1 %) de cholestane provenant de l'heptanoate de cho-
+lestanyle intermkdiairement forme par trans estkrification. Le 
+milieu rCactionnel Ctant trks basiaue. la formation d'Cnolate 
+
+. , 
+
+suivie d'une condensation de Claisen, pouvait Ctre responsable 
+d'une partie de l'alcool R'OH libCrC. Un tel processus a effec-
+tivement 6tC dCtectC lors d'une addition d'une solution d'Clec-
+trons solvates dans une solution d'ester (addition inverse). 
+Cependant, la quantitC d'acCtylacCtoxy-3P cholestane (10%) a 
+partir d'acCtoxy-3P cholestane reste tres faible tout comme la 
+proportion de produits issus de la condensation acyloi'ne. 
+Lors de la reduction des esters dans les diffkrents milieux, on 
+peut considerer que la formation d'une molCcule d'alcane 
+fournit nkcessairement un Cquivalent d'acide carboxylique. Ce-
+pendant, le rendement en RCO~H est bien supCrieur a celui de 
+R'H (tableau 8). Ce rendement sensiblement Cgal a la somme 
+des rendements en R'H et R'OH est voisin de 100%. I1 existe 
+donc une ou plusieurs voies susceptibles de conduire la fois 
+a RCOzH et R'OH.5 La discussion prtckdente met en Cvidence 
+que, dans le HMPA, ni l'anion dimCthylamidure ou l'ion hy-
+droxyle, ni l'ion tert-butoxyde ou l'ion enolate, ne peuvent Ctre 
+consideres comme responsables de la formation d'une quantitC 
+importante d'alcool. Une autre observation mCritant d'Ctre 
+soulignCe est que, pour 1 a 1,8 Cquivalent de sodium introduit 
+dans une solution d'acCtate de cholestanyle dans le HMPA, on 
+ne rCcupkre pas d'ester non transform6 d'une part, et la propor-
+tion de cholestane et de cholestanol (25 : 75) est Cquivalente a 
+celle obtenue en presence d'un grand exces de r~ducteur d'autre 
+part. 
+Le tableau 8 rnontre que le m&amp;me probleme de la formation 
+simultanCe d'alcool (R'OH) et d'acide carboxylique (RCO?H) 
+est rencontrC dans des milieux extrCmement differents. Une 
+interpretation commune pourrait impliquer, quel que soit le 
+milieu, la formation d'intermediaires semblables et suf-
+fisarnment instables pour Ctre hydrolysCs rapidement au mo-
+ment de I'isolement. Une telle possibilite reprCsentCe dans le 
+schema 2 mCrite d'Ctre considCrCe. L'addition nuclCophile de 
+radicaux anions sur des dCrivCs carbonyles a deja Ct C envisagCe 
+pour rendre compte de la rCaction de dismutation de ~annizzaro 
+et de certaines anomalies rencontrkes dans la rCaction de con-
+densation acylo'ine (5). Cette addition de [A] sur une molCcule 
+d'ester fournirait [B] susceptible de se fragmenter en R'. et [C] 
+
+'Le processus de Bouveault et Blanc conduisant a la fois a R'OH 
+et RCH20H est nigligeablc dans les exemples retenus. Dans les ri-
+sultats obtenus par Barrett er 01. (rif. 22). la formation de rerr-butyl 
+amldure intervient peu ou pas dans le milieu rdactionnel de m@mc quc 
+la riaction de Bouveault et Blanc. 
+
+Can. J. Chem. Downloaded from www.nrcresearchpress.com by 87.160.185.190 on 03/27/14 
+
+For personal use only. 
+
+
+DESHAYES ET PETE 
+
+TABLEAU 8. R61e des conditions sur la formation simultante d'alcool et d'acide carboxylique 
+
+0 
+Ester R-&lt; 
+Conditions 
+"C 
+RCOzH 
+RCHrOH 
+R'OH 
+R'H 
+Ref. 
+
+Adamantane-l carboxy-3P 
+
+K-t-BuNH? -THF (30: 10) 
+
+46 
+96 
+cholestane-5a 
+18-crown 6 
+20 
+86 
+K-DME -CHj1 (55 :2) 
+20 
+92 
+18-crown 6 
+
+K-t-BuNH2 -THF (30: 20) 
+
+-45 
+77 
+18-crown 6 
+K-Na (28 : 8.7) t-BuNH, -
+46 
+95 
+
+THF (IO:3), 18-crown 6 
+
+Heptanoate de 5a-
+Na-HMPA-t-BuOH 
+20 
+83 
+cholestanyl-3P 
+StCarate de 5a-
+Na-HMPA -t-BuOH 
+20 
+77 
+cholestanyl-3B 
+
+" Ce travail. 
+
+TABLEAU 9. Influence de la concentration cn acctoxy-3P 5a-cholestane sur la proportion 
+
+cholestane/cholestanol en prCsencc de sodium dans le HMPA 
+
+AcCtoxy-3P 5a-cholestane 
+Conditions 
+Cholestane (%) 
+Cholestanol (%) 
+
+2.5 x 10-3 M L-I 
+HMPA 
+43 
+54 
+
+2.4 x 10-' M L-' 
+
+HMPA 
+35 
+58 
+1.2 x 
+M L-' 
+HMPA -t-BuOH (20: 1 ) 
+64 
+33 
+
+7.7 x lo-.' M L-' 
+
+HMPA -t-BuOH (20: 6) 
+69 
+20 
+
+0 
+
+I 1 
+
+chaque electron pikg6 par I'ester. Tous les autres processus 
+
+. 
+
+R-C-OR' 
+/O\ 
+/R 
+
+bimoleculaires envisages pricedemment conduiraient a une 
+
+R-C 
+R-C. 
+
+F, o-molecule d'alcool et une molecule d'un derive d'acide suf-
+
+' OR' 
+
+I 
+
+OR' 
+OR' 
+
+fisamment stable dans le milieu pour Ctre isole. En fait, nous 
+constatons (essai 9, tableau 2) que le rapport acide carbo-
+
+[Bl 
+
+xylique -alcane est suptrieur a ]'unite. La quantite d'alcool 
+form6 devrait dependre de la concentration et nous avons test6 
+l'influence de la concentration sur le cours de la reaction dans 
+le HMPA. L'alcool, qui resulte uniquement d'une reaction 
+
+, -, 
+
+,--
+
+bimolCculaire, devrait voir son rendement diminuer alors clue 
+
+4 /" 
+
+I'alcane, qui provient surtout d'une fragmentation intra-
+
+R-C, 
+C-OR'+R'. 
+
+# R'.+RCOT+RCO2R' 
+
+/ \ 
+
+molCculaire, devrait voir son rendement augmenter pour une 
+
+' 0' 
+' R 
+
+diminution de la concentration. Or. les r ~s ~l t a t s 
+du tableau 9 
+
+SCHEMA 2 
+
+selon la voie (a) ou en R'., RC02R1 et RC0,-selon la voie (b). 
+Si l'addition du radical anion sur une molCcule d'ester inter-
+vient, l'alcane peut provenir, en partie, de la fragmentation de 
+l'intermediaire [B] selon les voies (a) et (b) du schema 2. De 
+mCme, la formation d'alcool pourrait resulter de la fragmen-
+tation, soit dans le milieu reactionnel, soit au moment de 
+I'isolement d'un intermediaire tel que [C] forme au cours de la 
+reaction. Le bilan de cette suite de rkactions indique qu'une 
+molCcule d'alcane, une molecule d'alcool et deux molCcules 
+d'acide carboxylique sont susceptibles d'Ctre produites pour 
+
+indiquent que la dilution du milieu nk modifie pas sensiblement 
+la proportion d'alcool et d'alcane, et qu'un derive du HMPA 
+pourrait Ctre implique dans la formation a la fois d'alcool et 
+d'acide. 
+En conclusion, la reduction des esters par le sodium dans le 
+HMPA est une reaction generale qui est d'autant plus efficace 
+que les esters sont encombres. Le rendement en alcane, a partir 
+d'un ester donne, augmente en presence du tert-butanol qui 
+peut a la fois neutraliser le dimethylamidure de lithium sus-
+ceptible de se former et accroitre, par solvatation, I'en-
+combrement au niveau du radical intermediaire. 
+De mCme, I'utilisation d'une faible concentration en ester 
+carboxylique permet d'eviter la reaction bimolCculaire de con-
+densation acylo'ine et favorise la formation d'alcane. L'alcane 
+provient essentiellement de la fragmentation du radical anion 
+forme aprks capture d'un electron par I'ester. La formation 
+d'alcool est due a ~lusieurs reactions bimoleculaires com-
+petitive~ impliquant le dimethylamidure, la tert-butylate de 
+sodium et, Cventuellement, un derive du HMPA comme nu-
+cleophile. 
+Can. J. Chem. Downloaded from www.nrcresearchpress.com by 87.160.185.190 on 03/27/14 
+
+For personal use only. 
+
+
+CAN. J . CHEM. VOL. 6 2 . 1984 
+
+TABLEAU 10. Reduction d'esters en presence de tert-butanol rnonodeutCric" 
+
+Rcndcmcnt 
+
+RH ('%I 
+
+Tcneur cn 
+Estcr 
+R"OD 
+(RD) 
+M' 
+
+M-' + I M ' + 2 dcutCrium R'OH 
+
+"La technique operatoire est la meme que dans le cas general 
+"Addition inverse. 
+
+Partie experimentale 
+
+Les spectres ir ont CtC enregistrts sur un appareil Philips SP2000, 
+rmn sur Varian A60. Les points de fusion sont determines sur banc 
+Kofler. 
+
+Produirs de depart 
+Formoxy-3P 5a-cholesrarle prepare par action de I'acide formique 
+2 98% sur le cholestanol-3P en presence de quantitC catalytique 
+d'acide perchlorique (28). 
+AcPtoxy-6P cyclo-3a, 5a-cholestane obtenu par traitement du 
+tosyloxy-3P cholestene-5 par I'acetate de potassium anhydre dans 
+I'acide acCtique (29). 
+Duns les autres cas: les esters sont obtenus par action du chlorure 
+d'acide sur I'alcool dans le HMPA (30). Le HMPA a CtC sCchC plu-
+sieurs jours sur CaHz puis distill6 sur CaH2. Les points de fusion et 
+analyses sont donnCs dans le tableau I I. 
+
+identification des produits 
+Les produits ont Ctt identifies par chromatographie sur couche 
+mince, point de fusion, spectroscopie ir et rmn. 
+
+RPduction par le sodium 
+Une solution d'ester ( I g) dans un melange Cther -t-BuOH (1 : 1) 
+(5 mL) est ajoutte une solution de sodium (I g) dans un melange 
+solvant (10 mL) -ether (5 mL) a une vitesse telle que la solution bleue 
+obtenue ne se dCcolore pas quand I'addition est terminte, I'exces de 
+sodium est CliminC. La solution versCe dans l'ethanol est ensuite 
+hydrolysCe. 
+
+MPthode ge'ne'rale dPcrite pour la reduction d'ester carboxylique par 
+la solution Na-HMPT 
+Du sodium finement divisC (1 g) est introduit dans le HMPA (10 
+cm3). A la solution bleue, une solution d'acetoxy-3P cholestane 
+(0,760 g) dans un melange d'Cther (10 cm3) et de tert-butanol(3 cm3), 
+
+est ajoutCe goutte a goutte a une vitesse telle que la solution n'est 
+
+jamais dCcolorCe. Dix minutes apres la fin de I'addition, I'exces de 
+sodium est filtri puis la solution est hydrolysie en milieu acide et 
+
+extraite B 1'Cther (3 x 50 cm'). Une chromatographie sur silice permet 
+
+de sCparer le cholestane (recristallisC dans I'acCtone, 454 mg, 69%) et 
+le cholestanol-3P (134 mg, 20%). 
+
+Reduction d'esters carbo.qliques par la solution Li-ethylamine 
+Du lithium finement divist (0,106 g) est introduit dans I'Cthylamine 
+(10cm3). A la solution bleue, on ajoute goutte a goutte un melange 
+d'acCtoxy-3P cholestane (0,098 g) avec du tert-butanol (2 cm3) et de 
+1'Cthylamine (5 cm3), de faqon Cviter IadCcoloration. Ce melange est 
+alors IaissC 1 h a reflux de I'Cthylamine, puis I'Cthylamine est distillie. 
+Une hydrolyse acide puis extraction avec de 1'Cther et une chro-
+matographie sur silice permettent d'isoler le cholestane (9 mg, 10%) 
+et le cholestanol-3P (68 mg, 77%). 
+
+RPduction de 1'acPtoxy-3P cholestPne-5 
+Dans une solution bleue de HMPA (10 crn3) sodium (0,5 g), est 
+
+ajoutC goutte a goutte I'acCtoxy-3P cholestene-5 (100 mg) en solution 
+dans ]'ether (5 cm3) et le tert-butanol (2 cm3). Cette addition dure 5 
+min en Cvitant la decoloration de la solution. Le sodium restant est 
+immidiatement filtre, la solution hydrolysCc en milieu acide puis 
+extraite a I'Cther (3 x 50 cm'). Une chromatographie sur colonne de 
+silice permet de siparer le cholestene-5 (59 mg, 68%) du cholesterol 
+(26 mg, 29%). Le cholestene-5 est contrdle par ccm sur silice impreg-
+nCe de AgN03 puis par rmn. 
+Si le temps de contact est de 24 h, le cholestane pur est is016 (58 mg, 
+64%) ainsi que le 5a-cholestanol-3P (21 mg. 28%). Le cholestane a 
+CtC contr81e par ccm sur silice imprignee de AgNO, et par rmn, le 
+cholestanol par rmn. 
+
+Dosage d'une solution de HMPA-Na 
+La solution bleue obtenue a partir de sodium (2 g) cn suspension 
+dans le HMPA (40 cm2) est versCe a I'aide d'une microburette dans 
+une solution ( I cm') de n-butanol0,214 M dans I'ether jusqu'a persis-
+tance de la coloration bleue (l,68 cm3 verse; c = 0 , l 19 M). 
+
+RCduction de l'acetoxy-3p 5a-cholesiane par la sol~ction de HMPA-
+Na 0, I19 M 
+La solution bleue de HMPA-Na 0.119 M est versCe goutte a goutte 
+dans I'acetoxy-3P 5a-cholestane (81 mg) mis en solution dans I'Cther. 
+(10 cm3) jusqu'a persistance de la coloration (I ,54 cm'). Apres hydro-
+lyse, extraction et chromatographie, le cholestane (21 mg, 30%) et le 
+cholestanol (51 mg, 70%) sont isolCs. 
+
+Action de la solution bleue de HMPA-Na sur le tert-butanol 
+Une solution bleue de HMPA-Na ( c = 0,0366 M ) est ajoutee goutte 
+a goutte au tert-butanol (191 mg) diluC dans l'ether (10 cm3) jusqu'i 
+persistance de la coloration. La persistance de la couleur bleue est 
+obtenue apres que 0,524 cm3 de solution ait CtC ajoutCe. 
+
+RPductiot~ de 1'acPto.uy-3P 5a-dzolestatze plcr par la solution bleue de 
+HMPA-Na 
+Une solution bleue de HMPA-Na (4,13 cm', c = 0,049 M ) est 
+ajoutCe rapidement sur I'acetoxy-3P 5a-cholestane pur (152 mg, 3,45 
+x 
+mol). Le melange obtenu est laisse 10 min la tempCrature 
+ambiante puis hydrolyst en milieu acide. Une chromatographie sur 
+silice permet d'isoler le cholestane (58 mg, 44%). I'acCtylacCtoxy-3P 
+5a-cholestane (17 mg, 10%) et le cholestanol-3P (54 mg, 39%). 
+
+Action de N d H ? sur l'acetoxy-3P 5a-cholestane en milieu HMPA 
+De l'amidure de sodium (253 mg) est mis en suspension dans le 
+HMPA (10 cm') puis l'acitoxy-3P Sa-cholestane (552 mg) est mis en 
+presence de ce mClange pendant 30 min. On ajoute alors rapidement 
+de I'alcool puis de I'acide chlorhydrique 3 M avant d'extraire a 1'6-
+ther. La chromatographie sur silice permet d'isoler de I'ester non 
+transform6 (477 mg, 86%) et le 5a-cholestanol-3P (75 mg, 14%). 
+
+Action de N a N H sur l'ester en milieu HMPA-Na 
+De l'amidure de sodium (325 mg) est mis en suspension dans le 
+HMPA (10 cm3) en prCsence de sodium (solution bleue). L'acCtoxy-
+
+Can. J. Chem. Downloaded from www.nrcresearchpress.com by 87.160.185.190 on 03/27/14 
+
+For personal use only. 
+
+
+DESHAYES ET PETE 
+
+TABLEAU 11. Caractirisation des esters d'alkyle 
+
+Ester 
+
+Analyse 
+
+TrouvC 
+CalculC 
+
+F ( " 0 
+C 
+H 
+C 
+H 
+
+AcCtate de trimethyl-3P.4.4 
+5a-cholestanyle-3 
+128-129 
+80.88 
+11.65 
+81.28 
+11.94 
+Pivalate de 5a-cholestanyle-3P 
+160-161 
+81.34 
+11.77 
+81.28 
+11.94 
+Cyclohexane carboxylate de 
+5a-cholestanyle-3P 
+158-159 
+81.79 
+11.73 
+81.86 
+11.72 
+Heptanoate de 5a-cholestanylc-3P 
+78-79 
+81.29 
+11.90 
+81.53 
+12.68 
+Methyl-l cyclohexane carboxylate 
+de 5a-cholestanyle-3P 
+136-137 
+81.46 
+11.80 
+81.97 
+11.80 
+
+Ester 
+F ("C) 
+F (litt.) 
+Ref. 
+
+Acetate de 5a-cholestanyle-3P 
+107 
+91-111 
+31 
+AcCtate de cholesten-5 yl-3P 
+114 
+111-116 
+32 
+Acetate de dimCthyl-4.4 5a-cholestanylL3P 
+138 
+138-139 
+33 
+Bcnzoate de 5a-cholcstanyl-3P 
+131 
+136-137 
+34 
+PhCnyl-2 acetate de 5a-cholestanyl-3P 
+90 
+91-92 
+35 
+Acetate de mCthyl-3P 5a-cholestanylL3a 
+87 
+
+-
+
+36 
+Acetate dc methyl-3a 5a-cholestanyl-3P 
+114 
+
+-
+
+36 
+
+3P 5a-cholestane (567 mg) en solution dans l'Cther est ajoutC et IaissC 
+7. T. CUVIGNY et M. LARCHEVEQUE. C.R. Acad. Sc. Paris (C), 275, 
+en prCsence de cette solution pendant 30 min. Aprts Climination du 
+241 (1972). 
+sodium, hydrolyse et chromatographie sur silice, le cholestane est 
+8. J. G. GOUREY, M. HODLER, B. TEREIN et J. H . P. UTLEY. 
+is016 (152 mg, 31%) ainsi que le cholestanol-3P (309 mg, 60%) et 
+J. Chem. Soc. Chem. Commun. 779 (1976). 
+I'acCtoxy-3P 5a-cholestane non transform6 (12 mp, 2%). 
+9. (a) H. DESHAYES, J. P. PETE, C. PORTELLA et D. SCHOLLER. 
+J. Chem. Soc. Chem. Commun. 439 (1975); (b) H. DESHAYES, 
+Action de NaNH2 sur ['ester en nliliert HMPA en prtserlce de 
+J. P. PETE et C. PORTELLA. Tetrahedron Lett. 2019 (1976); (c) 
+tert-butanol 
+J. P. PETE, C. PORTELLA, C. MONNERET, J. C. FLORENT et 
+De I'amidure de sodium (150 mg) est mis en suspension dans le 
+Q. KHUONG HUU. Synthesis, 774 (1977). 
+HMPA ( I 0 cm3) puis de "acCt0x~-3P 5a-ch01estane (860 mg) en 
+10, H, DESHAYES et J , P, PETE. J , Chem, Soc. Chem, Commun, 568 
+solution dans un mClange Cther -tert-butanol (9: 1 ) (10 cm3) pendant 
+30 min. On ajoute alors de I'alcool puis de I'acide chlorhydrique 3 M 
+(1978). 
+
+avant d'extraire i 1'Cther. La chromatographie sur silice permet de 
+
+l l . H. NORMANT. Bull. SOC. Chim. Fr. 791 (1968): Angew. Chem. 
+
+sCparcr de l'ester (150 mg, 22%) et du cholestanol-3P (423 mg, 69%). 
+
+Int. Ed. Engl. 6. 1046 (1967). 
+
+12. N. G R E M M O ~~ 
+I. RANDLES. J . Chem. Soc. FaradavTrans. I . 
+Action de NaNH? sur l'ester en milieu HMPA-Na en prtser~ce de 
+tert-butanol 
+De I'amidure de sodium (330 mg) est mis en suspension dans la 
+solution bleue HMPA-Na. L'acCtoxy-3P 5a-cholestane (703 mg) en 
+solution dans un mClange Cther -tert-butanol (9: 1 ) (10 cm3) est alors 
+
+additionnC et IaissC i la tempkrature ambiante pendant 30 min. Aprks 
+
+traitement identique au prCcCdent, le cholestane (317 mg. 52%), le 
+cholestanolL3P (280 mg, 44%) et l'ester de dCpart (4 mg, 0,5%) sont 
+isolCs. 
+
+I. L. BOUVEAULT et G. BLANC. Bull. Soc. Chim. Fr. 29, 787 
+(1903); 31, 666 (1904); 31, 672 (1904). 
+2. (a) C. A. BUEHLER and D. E. PEARSON. Survey of organic syn-
+theses. J. Wiley, New York. 1970. p. 199; (b) E. CHABLAY. 
+Ann. Chim. 8, 205 (1917); (c) Org. Synth. Coll. Vol. 11, 372 
+(1943). 
+3. (a) L. BOUVEAULT et R. LOCQUIN. C. R. Acad. Sci. Paris, 140. 
+1593 (1905); (b) L. BOUVEAULT et R. LOCQUIN. Bull. Soc. Chim. 
+Fr. 35, 629 (1906); 35, 633 (1906); 35, 637 (1906); (c) S. M. 
+MCELVAIN. Org. React. 4, 256 (1948); ( d ) J. J. BLOOMFIELD, 
+D. C. OWSLEY et J. M. NELKE. Org. React. 23, 259 (1976). 
+4. (a) F. F. BLICKE. J. Am. Chem. Soc. 47. 229 (1925); (b) M. S. 
+KHARASH, E. STERNFELD et F. R. MAYO. J. Org. Chem. 5, 362 
+(1940). 
+5. J. J. BLOOMFIELD, D. C. OWSLEY, C. A I N S ~O R T H 
+et R. E. 
+ROBERTSON. J. Org. Chem. 40, 393 (1975). 
+6. E. WENKERT et B. G. JACKSON. J. Am. Chcm. Soc. 80, 217 
+(1958). 
+
+1480 ( 1974). 
+13. K. W. BOWERS. R. W. GIESE. J . GRIMSHAW. H. 0. HOUSE. 
+N. H. KOLODNY, K. KRONBERGER ct D. K. ROC. J. Am. Chcm. 
+SOC. 92, 2783 (1970). 
+14. J. L. DYE. G. E. SMITH et R. F. SANKNER. J. Am. Chcm. Soc. 
+82. 4803 ( 1960). 
+15. R. B. BOAR. L. JOUKHADAR. J . F. MCGHIE, S. C. MISRA. A. G. 
+M. BARRETT. D. H. R. BARTON ct P. A. PROKOPIOU. J. Chem. 
+Soc. Chem. Commun. 68 (1978). 
+16. S. J. CRISTOL et R. V. BARBOUR. J . Am. Chcm. Soc. 88. 4262 
+(1966); 90. 2832 (1968). 
+17. G. WHITESIDES ET W. EHMANN. J . Org. Chcni. 35. 3565 (1970). 
+18. H. NORMANT. T. CUVIGNY, J. NORMANT ct B. ANGELO. Bull. 
+Soc. Chim. Fr. 3441 (1965): N. GREMMO ct J. E. B. RANDLES. 
+J. Chem. Soc. Faraday Trans. 1. 1480 ( 1974). 
+19. A. G. M. BARRETT. P. A. P R ~K O P I O U 
+ct D. H. R. BARTON. 
+J. Chem. Soc. Chem. Commun. 1 175 ( 1979). 
+20. D. H. R. BARTON et W. B. MOTHERWELL. Purc Appl. Chem. 53, 
+15 (1981). 
+21. M. BAIZER. Organic clcctrochemistry. Marccl Dckker. Inc.. New 
+York. 1973. p. 419. 
+22. A. G. M. BARRETT. C. R. A. GODFREY. D. M. HOLLINSHEAD. 
+P. A. PROKOPIOU, D. H. R. BARTON. R. B. BOAR. L. JOUK-
+HADAR. J. F. MCGHIE et S. C. MISRA. J. Chcm. SOC. Perkin 
+Trans. 1 , 1501 (1981). 
+23. A. G. M. BARRETT. P. A. PROK~PIOU. D. H. R. BARTON. R. B. 
+BOAR et J. F. MCGHIE. J. Chcm. Soc. Chcm. Commun 1173 
+(1979). 
+
+Can. J. Chem. Downloaded from www.nrcresearchpress.com by 87.160.185.190 on 03/27/14 
+
+For personal use only. 
+
+
+2072 
+
+CAN. J . CHEM. VOL. 62. 1984 
+
+24. D. SURYANARAYANA et M. D. SEVILLA. J. Phys. Chern. 84,3045 
+( 1980). 
+25. G. R. STEVENSON et C. A. CASTILLO. S. J. Am. Chern. Soc. 98, 
+7950 (1976). 
+
+26. P. CREMASCHI, G. MOROSI et M. SIMONETTA. Angew. Chern. 93, 
+
+712 (1981); Angew. Chern. Int. Ed. Engl. 20, 673 (1981). 
+27. R. B. BATES et C. A. OGLE. Carbanion chemistry, reactivity and 
+structure concepts in organic chemistry. Vol. XVII. Springer 
+Verlag, Berlin. 1983. p. 17. 
+28. 1. W. H u c u ~s , F. SMITH et M. WEBB. J. Chern. Soc. 3437 
+(1949). 
+29. E. S. WALLIS. J. Am. Chern. Soc. 59, 137 (1937). 
+30. J. F. NORMANT et H. DESHAYES. Bull. Soc. Chim. Fr. 2854 
+(1972). 
+
+31. F. SONDHEIMER et R. MECHOULAM. J . Am. Chern. Soc. 80,3087 
+(1958). 
+32. E. D. BERGMANN, M. RABINOVITZ et Z. H. LEVINSON. J . Am. 
+Chern. Soc. 81, 1239 (1959). 
+33. (a) Y. MAZUR et F. SONDHEIMER. J. Am. Chem. Soc. 80,5220 
+( 1958); (b) A. LABLACHE-COMBIER, J. LEVISALLES, J. P. PETE et 
+H. RUDLER. Bull. Soc. Chirn. Fr. 1689 (1963); (c) F. HEMMER, 
+A. LABLACHE-COMBIER, B. LACOUME et J . LEVISALLES. Bull. 
+Soc. Chim. Fr. 982 (1966). 
+34. W. BERGMANN, M. KITA et D. J. GIANCOLA. J. Am. Chem. Soc. 
+76, 4974 (1954). 
+35. J. ELLIS et R. SCHIBECI. Aust. J. Chern. 27. 429 (1974). 
+36. C. R. NARAYANAN et A. K. KULKARNI. Indian J. Chern. 12,677 
+(1974). 
+
+Can. J. Chem. Downloaded from www.nrcresearchpress.com by 87.160.185.190 on 03/27/14 
+
+For personal use only. 
+
+
+
+	
+

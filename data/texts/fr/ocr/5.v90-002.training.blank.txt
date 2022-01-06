@@ -1,0 +1,708 @@
+
+	
+
+		
+
+	
+
+	
+
+Solvatation et complexation des metaux dans les 
+melanges eau -fluorure d'hydrogene. Sn, Cd, Pb et T1 
+
+RBJEAN BEAUDOIN ET HUGUES M ~N A R D 
+
+Departernent de chirnie, Faculti des sciences, Ur~iversiti de Sherbrooke, Sherbrooke (Quebec), Canada J I K 2RI 
+R e p le 17 mai 1989 
+
+R ~J E A N 
+BEAUDOIN et HUGUES M ~N A R D . 
+Can. J. Chem. 68, 5 (1990). 
+Le comportement Clectrochimique de I'Ctain et du thallium dans les melanges eau-HF a ttC ttudit sur toute la gamme de 
+concentration. Le thallium ne forme pas de complexes fluorts. L'Ctain Sn2+ forme deux complexes fluorts, SnF2 et SnF+ , dans 
+les mtlanges contenant moins de 60% en HF. Le complexe SnF2 est suffisamment fort pour empecher la formation de complexes 
+chlorts. La formation de SnF2-et SnF5-a aussi Btt dCmontrCe pour l'Ctain Sn4+. La force relativement grande des complexes 
+fluorts de l'ttain se rtfltte bien sur la fonction Ro (M). Tous les mttaux Ctudits, Sn, Cd, Pb et TI, sont soins solvatts dans les 
+mClanges eau-HF que dans l'eau, sauf 18 oh la complexation par l'ion fluorure est importante, c.-a-d. 1'Ctain. Aux hautes 
+concentrations en HF, I'espkce HF2-semble devenir I'expkce complexante. 
+Mots cle's : polarographie, thallium, ttain, cadmium, plornb, fluorure d'hydrogtne 
+
+R ~J E A N 
+BEAUDOIN and HUGUES M ~N A R D . 
+Can. J. Chem. 68, 5 (1990). 
+The behavior of tin and thallium has been studied in water-HF mixtures. The formation of thallium fluoride complexes was not 
+observed. Tin sn2+ forms two complexes, SnF2 and SnF', in mixtures containing less than 60% in HF. SnF2 is strong enough to 
+prevent the formation of chloride complexes. SnF2-and SnF5-have been determined for Sn4+ in the same solutions. The 
+relatively high strength of the tin fluoride complexes is reflected in the Ro (M) function. In fact, all the metals studied, Sn, Cd, Pb, 
+and TI, are less solvated in water-HF mixtures than in water, except for the case where the fluoride complex is strong, i.e., tin. 
+HF2-seems to be the complexing species at high HF concentrations. 
+Key words: polarography, thallium, tin, cadmium, lead, hydrogen fluoride. 
+[Journal translation] 
+
+Introduction 
+Les melanges eau -fluorure d'hydrogene ont Ct C largement 
+utilisk pour la solubilisation de divers matCriaux et pour le 
+decapage de semi-conducteurs. Le comportement Clectrochi-
+mique des ions mCtalliques dans ces melanges a ete CtudiC 
+surtout pour des applications analytiques. Les variations des 
+propriCtCs d'oxydorCduction en fonction de la composition en 
+HF mCritent neanmoins d'etre mieux dCfinies. 
+Le comportement du melange eau-HF lui-m&amp;me est relative-
+ment bien dCfini, soit au niveau de l'acidite avec les fonctions 
+Ho (1,2) et Ro(H) (3,4), au niveau de l'activite en ions fluorure 
+libres Ro(F) (4, 5) de m&amp;me qu'au niveau de l'association 
+molCculaire grlce aux etudies par spectroscopie infrarouge 
+(6-9). 
+La fonction Ro(M) a ete utilise de fason a obtenir les 
+variations d'activite des ions mttalliques en fonction de la 
+
+composition du melange eau-HF (10). Il a cependant kt6 
+
+dCmontrC que la solvatation de l'ion F-est beaucoup plus 
+importante dans les melanges eau-HF que dans l'eau ( 3 , 
+
+principalement dfi a la formation de la paire d'ions (H30' . . . 
+
+F-) (6-8). I1 est donc evident que les ions metalliques seront 
+moins solvat6 dans les melanges eau-HF que dans l'eau. De 
+rCcentes etudes ont montrCes que le cadmium et le plomb sont 
+complexCs par l'ion fluorure aux basses concentrations en HF 
+mais que cette complexation diminue avec la concentration en 
+HF (1 1, 12). 
+Le comportement de 1'Ctain et du thallium sera discutC et des 
+conclusions gentrales pourront Ctre tirCes sur la solvatation sur 
+tout le domaine de concentration en HF. 
+
+Le potentiel de rtduction du metal a ttC mesurC par polarographie. 
+Un capillaire recouvert de polyCthyltne (13) resistant au HF a t t t utilist 
+c o m e electrode de mercure. Aux concentrations de HF infkrieures 8 
+60%, une tlectrode de rtfkrence au calomel a t t t utilisCe alors qu'aux 
+hautes concentrations en HF, le systkme Cu/CuF2 (14) offre une 
+
+meilleure stabilitC. Les mesures ont t t t effectuees 8 25 2 1°C pour les 
+concentrations en HF infkrieures 8 60% et 8 O°C pour les concentrations 
+supkrieores 8 60%. 
+Les polarograrnrnes ont t t t enregistrts a une concentration de 
+M pour I'espece ionique considCrte. Pour I'ttude des complexes 
+fluorks, le potentiel de rCduction du systkme de rtftrence indkpendant 
+du solvant (4, 10, 15) Fc+/Fc est mesurt dans la m&amp;me solution que 
+celle du mttal ttudiC. La precision sur le potentiel de demi-vague est de 
+2 5 mV. Pour 1es mesures de complexes chlorts, la concentration du 
+mttal est de lop3 M, auquel du KC1 est ajoutC en quantitC voulue. Une 
+description complete du systkme de mesure de la cellule et les donntes 
+exptrimentales sont prtsenttes aux rCfCrences 16 et 17. 
+
+L'e'tain dans les me'langes eau-HF 
+L'evolution des complexes fluorCs en fonction de la concen-
+tration en HF dCpend de I'activitC en ions fluorure libres. Un 
+dtplacement du potentiel de demi-vague (E,J mesure par 
+rapport au potentiel d'une tlectrode reversible aux ions fluorure 
+est donc indicatif du type de complexe fluor6 en solution. I1 faut 
+noter ici que la reduction des complexes CtudiCs presentent des 
+vagues polarographiques rkversibles. I1 est donc possible de 
+calculer, a partir de l'equation de Nernst, les pentes du 
+dkplacement de E, en fonction de l'activite en ions fluorure libres 
+que I'on devrait mesurer pour des complexes fluores d'ordre 
+croissant (1 1, 12). Les pentes thCoriques calculees en fonction 
+de l'activite en ions fluorure libres sont les suivantes : SnF', 
++0,029; SnF2, 0; SnF3-, -0,029volt. La figure 1 illustre 
+1'Cvolution du E, de rtduction de 1'Ctain et la figure 2 illustre le 
+comportement du E, de l'oxydation de m&amp;me mCtal en fonction 
+de I'activitC en ions fluorure libres Ro (F). Les pentes mesurees 
+sur ces graphiques, et prCsentCes aux tableaux 1 et 2, permettent 
+de determiner l'ordre des complexes fluores en solution. Les 
+complexes dCterminCs pour la reduction de I'Ctain, soit le 
+SnF3-, le SnF2 et le SnF', sont utilises comme complexe de 
+dCpart pour determiner les complexes de 1'Ctain oxydCs vers 
+1'Ctat Sn4'. 
+Can. J. Chem. Downloaded from www.nrcresearchpress.com by 87.160.185.190 on 03/27/14 
+
+For personal use only. 
+
+
+6 
+
+CAN. 1. CHEM. VOL. 68, 1990 
+
+TABLEAU 1. Pentes expkrimentales et calculCes pour sn2+/sn 
+
+Domaine de 
+% en HF 
+Pente 
+Pente calculCe 
+(poids) 
+( v ) 
+Complexe 
+( v ) 
+
+0-2" 
+-0,034 
+SnF3-
+-0,029 
+2-45 
+-0,002 
+SnF2 
+0 
+45-55 
++0,031 
+SnF + 
++0,029 
+55-70 
+$0,065 
+70-90 
+-0,010 
+90-100 
+Negative 
+
+"References 17, 18. 
+
+FIG. 1. Potentiel de reduction de 1'Ctain vs. EF-en fonction de 
+
+Ro(F). (Chaque point sur les figures reprisente la moyenne de 5-10 
+mesures.) Les pentes ont Ctt calculCes par regression 1inCaire. 
+
+FIG. 2. Potentiel d'oxydation de 1'Ctain vs. EF-en fonction de R o o . 
+
+L'ktain en prksence d'ions chlorure 
+La prtsence d'ions chlorure dans une solution eau-HF 
+contenant de 1'Ctain (sn2+) cause un dCplacement du E , de 
+rkduction 2 partir d'une concentration en HF supkrieure h 30% 
+et ce pour des concentrations en ions chlorure de l'ordre d'un 
+molaire. La figure 3 montre le dkplacement du potentiel de 
+demi-vague pour quelques concentrations en HF en fonction de 
+la concentration en ions chlorure. Le tableau 3 donne les 
+constantes de formation successives des complexes chlorCs de 
+l'ktain calculCes selon la thCorie de DeFord et Hume (19). 
+
+Le thallium dans les mklanges eau-HF 
+L'Ctude de la rkduction du thallium dans les mklanges 
+eau-HF nous donne une pente de E , vs. EF-en fonction de Ro 
+(F) (fig. 4 ) prbs de 0,059 V, ce qui indique que le thallium n'est 
+pas complex6 par l'ion fluorure dans les milanges eau-HF. Aux 
+trbs hautes concentrations en HF, c.'h'd. plus de 8096, la vague 
+de reduction du thallium se confond avec la rkduction de 
+l'hydrogbne, mais la tendance semble toujours &amp;tre la m&amp;me au 
+niveau de la pente. 
+
+Le thallium en prksence d'ions chlorure 
+La figure 5 montre le dCplacement de E , en prksence d'ions 
+
+TABLEAU 2. Pentes experimentales et calculCes pour Sn2+/sn4+ 
+
+Domaine de 
+% en HF 
+Pente 
+Pente calculCe 
+(poids) 
+(v) 
+Complexe 
+(v) 
+
+0-2" 
+-0,034 
+sn~6'-
+-0,029 
+2-40 
+-0,030 
+s ~F ~-~ 
+-0,029 
+40-50 
++0,013 
+SnF3 + 
++0,029 
+50-70 
+-0,130 
+70-95 
+-0,031 
+95-100 
+Negative 
+
+"RBf6rence 18. 
+bLe complexe de depart n'est pas le mime qu'en solution aqueuse. 
+
+-' 100 -
+
+1 
+
+-
+
+2 8 0 -
+
+W 
+
+x 
+
+6 0 -
+
+ZS 
+
+a L O -
+
+W 
+
+n 
+
+-3.0 
+-2.0 
+
+-1,O 
+
+9 0 
+1 , ' 
+
+J 
+
+Log [KCLI 
+
+FIG. 3. Dtplacement du potentiel de demi-vague de reduction de 
+
+1'Ctain en fonction de la concentration en KC1, i diffkrentes concentra-
+
+tions en HF. 
+
+TABLEAU 3. Constantes de formation successives 
+des complexes chlorCs de 1'Ctain 
+
+%HF 
+(poids) 
+
+PI 
+
+P 2 
+P 3 
+
+Can. J. Chem. Downloaded from www.nrcresearchpress.com by 87.160.185.190 on 03/27/14 
+
+For personal use only. 
+
+
+FIG. 4. Potentiel de riduction du thallium vs. EF_ en fonction de R,(F). 
+
+-3.0 
+
+-2.0 
+
+-1.0 
+0.0 
+
+1 . o 
+
+Log [ KC11 
+
+FIG. 5. DCplacement du potentiel de demi-vague de reduction du 
+thallium en fonction de la concentration en KCl, B differentes concen-
+trations en HF. 
+
+TABLEAU 4. Constantes de formation 
+successives des complexes chlorts du 
+thallium 
+
+% HF 
+(Poids) 
+
+PI 
+
+P 2 
+
+Discussion 
+L' e'tain 
+L'Ctain en solution aqueuse contenant l'ion fluorure a Ct C 
+CtudiC par plusieurs auteurs. Schaap et al. (18) puis Bond et 
+Taylor (20) ont dCterminC les constantes de formation des 
+complexes fluorCs en milieu acide et neutre. Le pourcentage de 
+distribution montre que le complexe SnF3-est prkdominant 
+jusqu'h 1OP7M en ions fluorure libres. Hall et Slater (21) ont 
+calcult les relations thermodynamiques AG, AH et AS pour la 
+rCaction [I] et ils concluent que le complexe fluorC est plus 
+stable, en solution aqueuse, que les complexes avec le chlore et 
+le brome. 
+
+[I] Sn2+ + 3F-SnF3-
+
+Donc on considkre que le complexe d'Ctain form6 a faible 
+concentration en HF sera le SnF3-. Le tableau 1 montre une 
+pente de -0,034 volt pour des concentrations en HF jusqu'a 
+2%, ce qui confirme que le complexe en solution est le SnF3-. 
+Dans le domaine de 2 a 60% en HF, il y a formation de deux 
+complexes fluorCs diffkrents de celui qui prCdomaine dans les 
+solutions infkrieures a 2% en HF. Les pentes mesurCes sur la 
+figure 1 permettent de dire qu'on a le complexe SnF2 dans le 
+domaine de 2 a 45% en HF et le complexe SnF' dans la rCgion 
+de 45 ?I 55% en HF. L'Cvolution des complexes dans les 
+milanges eau-HF s'explique bien puisque llactivitC en ions 
+fluorure libres diminue lorsque la proportion de HF augmente 
+dans la solution. 
+Schaap et al. (18) ont propost l'tquilibre suivant pour 
+l'oxydation de 1'Ctain dans les solutions aqueuses d'ions 
+fluorure : 
+
+Leblond-Routhier (17) a dCmontrC que la vague d'oxydation 
+
+due a la rCaction [3] est rCversible (pente de 29 mV) dans les 
+
+solutions aqueuses 
+
+de HF, quoiqu'aucune vague n'apparait pour la reduction de 
+1'Ctain au degrC d'oxydation plus quatre vers plus deux. M&amp;me 
+en voltamCtrie a balayage rapide, on n'observe pas la rkduction 
+de Sn(1V). On peut donc exprimer 1'Cquation de Nernst sous la 
+forme suivante : 
+
+Au potentiel de demi-vague [SnF3-] = [ s ~F ~~-] 
+et 1'Cquation 
+[4] devient 
+
+0,059 
+
+151 ( s n ) = (EQn) -7 log [F-I3 
+
+I 
+
+TlCl 
+T1C12-
+
+I 
+[6] EF-= E: --0,059 log [F-] 
+
+I 
+
+I 
+
+[7] AE, = (Esn) -(EF-) = cte + 0,059 log [F-] -
+
+I 
+chlorure a plusieurs concentrations en HF. Le dCplacement de 
+3 x 0,059 
+2 
+log IF-I 
+
+I E,est reliC a la formation de complexes chlorCs en solution mais 
+
+1 la faible amplitude du dCplace&amp;ent montre une complexation 
+
+[8] AE, = cte -0,029 log [F-1 
+relativement faible. Le tableau 4 donne les constantes de 
+formation successives pour les complexes chlores du thallium. 
+La pente du potentiel versus le logarithme de I'activitC en ions 
+fluorure devrait donc &amp;tre de -0,029 volt pour l'tquilibre [2]. 
+
+I 
+
+Le cadmium et le plomb duns les me'langes eau-HF 
+La pente mesuree 5 moins de 2% en HF esi de -0,034 volt, ce 
+
+1 Les vagues de rkduction du cadmium et du plomb ont Ct C qui permet donc de considerer le complexe s ~F ~I -
+
+en solution. 
+
+i mesuries a haute concentration en HF de f a ~o n a complCter les L'Ccart mesurt entre la valeur thCorique et les valeurs mesurCes 
+
+j rCsultats deja publies (1 1, 12). 
+
+pour les concentrations inferieures a 2% est dO a la vague 
+
+Can. J. Chem. Downloaded from www.nrcresearchpress.com by 87.160.185.190 on 03/27/14 
+
+For personal use only. 
+
+
+CAN. J. CHEM. 
+
+TABLEAU 5. Constantes d'equilibre et 
+de formation successives des complexes 
+fluorCs de 1' Ctain dans les mClanges 
+eau-HF 
+
+log K 
+
+log p 
+
+SnF2 
+9.5 
+16.0 
+SnF+ 
+6.5 
+9.5 
+
+d'oxydation qui n'est pas totalement rtversible pour ce domaine 
+de concentration par rapport aux hautes concentrations en HF oh 
+la vague d'oxydation est rtversible (17). 
+En solution aqueuse, on peut considtrer le complexe SnF3-
+pour Sn(I1) et SnF6'-pour Sn(1V) comme exprimt aux 
+tquations [ l ] et [2]. 
+Les rCsultats obtenus pour l'oxydation de Sn(I1) 2 Sn(1V) 
+dans les mtlanges eau-HF de 2 a 55% en HF montrent la 
+prtsence de deux complexes selon la concentration en HF. Si on 
+applique le mCme raissonnement que dans les solutions dilutes 
+de HF et la mCme fagon de calculer la pente, on peut ttablir 
+l'tquilibre suivant : 
+
+pour les mtlanges de 2 2 45% en HF. La pente est de -0,030 
+volt, ce qui correspond au complexe SnF5-. 
+Dans les mtlanges de 45 a 55% en HF, la pente est plus 
+
+difficile a mesurer avec prtcision. On peut seulement proposer 
+
+le complexe SnF3+. Les complexes de coordination 5 et 6 sont 
+relativement commun pour les ClCments du groupe IV. La 
+possibilitt d'utiliser les orbitales d pour la complexation rend 
+difficile la prtdiction du nombre de coordination cause de 
+la faible difftrence d'tnergie entre les deux ttats (22). Un 
+complexe chargt comme le SnF3+ a cependant peu de chance 
+d'exister 21 moins d'&amp;tre largement stabilist par une autre espece 
+en solution. 
+Aux concentrations en HF de plus de 60%, l'tvolution des 
+Eh de rtduction et d'oxydation permet de conclure que l'espkce 
+complexante en solution n'est plus l'ion fluorure. 
+I1 est possible d'tvaleur les constantes de formation ?I partir 
+du changement de pente du potentiel de demi-vague rtversible 
+aux ions fluorure en fonction de l'activitt en ions fluorure 
+
+Ro(F) (10, 11). Aux points d'inflection a la figure 1, le 
+
+logarithme des constantes de formation peut Ctre considtrk Cgal 
+?I Ro(F). Le tableau 5 montre les valeurs ainsi obtenues et la 
+figure 6 prtsente la distribution des divers complexes fluores en 
+fonction de l'activitt en ions fluorure dans le mClange eau-HF. 
+Le complexe SnF3-se retrouve seulement en solution ou la 
+concentration en HF est moins de 2%. 
+En solution aqueuse, l'ttain donne trois complexes chlorts. 
+D'autre part, dans les mtlanges eau-HF sans chlorure, 1'Ctain 
+donne deux complexes fluorts. Le complexe SnF2 existe de 
+fagon majoritaire dans les mClanges jusqu'a 30% en HF. En 
+
+presence de KC1 a la figure 3, on constate qu'il n'y a pas de 
+
+dtplacement du potentiel de demi-vague de 1'Ctain aux concen-
+trations inferieures 30% en HF. On peut donc supposer que 
+le complexe fluor6 est suffisamrnent fort pour empkcher la 
+formation de complexes chlorts. Dans HF 47% on observe un 
+dtplacement rapide du potentiel de demi-vague avec la concen-
+tration en KCl. L'espkce fluorte en solution eau-HF est le 
+SnF+. I1 semble qu'il soit possible dans ce mtlange d'ajouter 
+des ligands sur l'ttain. L'espkce en solution est probablement 
+
+FIG. 6. Distribution des complexes fluorCs de 1' Ctain en fonction de 
+Ro(F). 
+
+SnClF, un complexe mixte qui n'implique pas le remplacement 
+d'un ion fluorure sur le mttal. Le complexe SnClz n'apparait 
+qu'a tres grande concentration en ions chlorure. Le tableau 3 
+montre que les constantes de formation des complexes chlorts 
+de l'ttain augmentent avec la concentration en HF. Dans HF 
+56 et 65%, la diminution de la force des complexes fluorts 
+permet la formation de complexes chlorts de degrt suptrieur. 
+
+Le thallium 
+Les solutions aqueuses de thallium contenant l'ion fluorure 
+ont Ctt ttudit par plusieurs auteurs. Bond (23) a ttudie le 
+thallium en prksence d'ions fluorure par polargraphie et par 
+potentiomttrie. Les complexes du thallium sont en gentral trks 
+faibles. A partir de rksultats potentiomCtriques, il apparait 
+concevable que l'ion perchlorate soit plus complexant pour le 
+thallium que l'ion fluorure. La constante de stabilitt pour le 
+com~lexe T1F est trks faible. de l'ordre de 0.4 ou moins. Les 
+
+com~lexes chlorts sont relativement faibles avec PI et P2 de 
+
+1,00 et 0,36 respectivement. TlCl2-est d'ailleurs observC 
+seulement 2 force ionique tlevte. Notre graphique du potentiel 
+de demi-vague en fonction de l'activitt en ions fluorure donne 
+une pente de -0,056 V. Cette valeur est pres de la valeur 
+thtorique de -0,059 V et indique donc que le thallium n'est pas 
+complext par l'ion fluorure dans les mtlanges eau-HF. 
+En solution aqueuse contenant des ions C1-, le thallium n'est 
+que faiblement complext par ces ions. Selon la force ionique, 
+Bond (23) a observk soit un complexe ou deux complexes 
+chlorts. Dans les mtlanges eau-HF, la force ionique est tlevte 
+
+et en presence d'ions C1-on devrait donc s'attendre a obtenir 
+
+deux complexes chlorCs comme c'est le cas en solution aqueuse 
+
+a force ionique ClevCe. Dans HF 5%, nous observons deux 
+
+complexes chlorts, une diminution du courant de diffusion a t t t 
+reliC 2 la prkcipitation du chlorure de thallium. Le prkcipitt a 
+Ctt identifit par diffraction des rayons-X. Dans HF 26 et 47%, 
+nous observons aussi deux com~lexes chlorts. L'Cvolution du 
+courant de diffusion montre bien qu'il y a prtcipitation du 
+chlorure de thallium suivi d'une resolubilisation a plus haute 
+concentration en ions chlorure. 
+Le thallium ne forme pas de complexes fluorts dans les 
+mClanges eau-HF. Par contre, en prtsence des ions C1-, on 
+Can. J. Chem. Downloaded from www.nrcresearchpress.com by 87.160.185.190 on 03/27/14 
+
+For personal use only. 
+
+
+FIG. 7. Potentiel de rtduction des 
+des hautes concentrations en HF. 
+
+vs. EF-dans la rtgion 
+
+forme des complexes chlorts faibles dans les m&amp;mes mtlanges. 
+I1 est donc raisonnable, en prtsence d'ions C1-de supposer la 
+prtsence des complexes chlorts faibles dans les mtlanges eau-
+HF et une distribution de la m&amp;me f a ~o n que dans l'eau. La 
+principale distinction entre les deux milieux, c'est la force 
+ionique tlevte pour les mtlanges eau-HF. 
+
+Les hautes concentrations en HF 
+L'ttat d'ionisation dans les mtlanges eau-HF a t t t ttabli par 
+voie tlectrochimique (3-5) et spectroscopique (6, 7, 9). Les 
+tquations suivantes rtsument les tquilibres en solution : 
+
+Les mesures de Ro(F) montrent que l'tquilibre [13] est large-
+ment portt vers la gauche. 
+
+Des mesures spectroscopiques ont mis en evidence la prtsence 
+de HF2-
+haute concentration en HF et la formation de 
+polymeres de HF (9). 
+Pour les faibles concentrations,en HF, nous avons Ctabli la 
+presence de complexes fluorCs. A des concentrations en HF 
+suptrieures a 60%, 1'Cvolution du potentiel de demi-vague, tel 
+que prCsentC la figure 7, ne peut pas Ctre expliquC en terme de 
+complexes fluorts. 
+L'apparition de l'espece HF2-en solution peut venir expli-
+quer le diplacement important du potentiel de rCduction du 
+Cd2+/Cd et de sn2+/sn. I1 n'y a pas de techniques tlectro-
+chimiques qui permettent de mesurer l'activitt ou la concentra-
+tion de l'espece HF2-mais, sur une base purement qualitative, 
+on peut estimer que la concentration en HF2-suit la concentra-
+
+tion en H30+ dans le domaine de 70 a 80% en HF. Si on 
+calcule la molaritt de H30+ a 70% et a 80% en poids de HF, 
+on obtient respectivement 21 et 14 molaires. La variation est de 
+7 moles et la variation de Ro(F) est de 0,9 dans ce domaine. La 
+variation est donc comparable, log 7 = 0,85. 
+La pente du potentiel de reduction rtversible aux ions fluorure 
+des quatre mttaux ttudits est lintaire dans le domaine de 70 a 
+80% en HF. On peut donc considCrer que la pente rnesurte en 
+fonction de Ro(F) (-log a,-) est comparable a celle qu'on 
+pourrait tracer en fonction de -log [HF2-1, les deux fonctions 
+ayant une variation parallkle. 
+Dans la rtgion de 70 a 80% en HF nous mesurons les pentes 
+suivantes : thallium, +0,040 V; plomb, +0,010 V; ttain, -0,010 
+V; cadmium, -0,027 V. Si on introduit la concentration de 
+HF2-21 la place de a,-dans les equations de Nernst, il est 
+possible de dtfinir les complexes presents dans les mtlanges 
+eau-HF concentrts. 
+Le thallium ne forme pas de complexes fluorts. I1 est donc 
+raisonnable que celui-ci ne forme pas de complexe avec HF2-. 
+La pente mesurCe est la m&amp;me que pour les solutions peu 
+concentrtes en HF. Le comportement particulier du thallium est 
+trks bien illustrt a la figure 4. I1 nYy a pas de changement 
+notable en passant du systbme eau plus ions complexants aux 
+mtlanges de solvants eau-HF plus ions complexants, contraire-
+ment aux autres mttaux qui eux forment des complexes fluorts 
+a divers degrts. 
+Le plomb et 1'Ctain forment des complexes contenant deux 
+ions fluorure a faible concentration en HF. 11 apparait raison-
+nable que ces mttaux foment des complexes avec HF2-du 
+m&amp;me ordre qu'avec l'ion fluorure. Les pentes mesurtes sont 
+pres de ztro. Si on considere les approximations faites prtct-
+demment on peut conclure 2 la formation de complexes selon 
+les tquilibres suivants : 
+
+Le cadmium forme un complexe contenant trois ions fluorure 
+a faible concentration en HF. Comme pour le plomb et l'ttain, 
+on peut considtrer la formation d'un complexe contenant trois 
+
+ions HF2-a haute concentration en HF. La pente de -0,027 V 
+
+nous permet de dtduire le complexe Cd(HF2)3-. 
+
+Conclusion 
+
+L'analyse du comportement tlectrochimique des ions mttal-
+liques en milieu eau-HF montre que l'tnergie de solvatation y 
+est plus faible qu'en solution aqueuse, c'est-a-dire que le 
+potentiel de rtduction mesurC par rapport a une rtftrence 
+independante (Fc+/Fc) du solvant y est moins ntgatif qu'en 
+milieu aqueux. L'ion thallium qui ne forme que de tres faibles 
+complexes avec l'ion fluorure illustre bien ce comportement. 
+Dans certains cas, comme pour l'Ctain, la formation d'un 
+complexe fluort fort compense la perte de solvatation dans le 
+domaine des faibles concentrations en HF. Le fait qu'il n'y ait 
+pas de complexes chlorCs formes en prCsence du complexe SnF2 
+dCmontre bien la force de ce dernier. 
+Le dCplacement important du potentiel de rtduction de 
+certain ions mttalliques aux hautes concentrations en HF a Ct C 
+relit 2 la prtsence de l'ion HF2-qui devient l'espece complex-
+ante. L'ordre de ces complexes ne peut cependent qu'etre 
+propost car I'activitC de l'espbce HF2-n'est pas mesurable. 
+Can. J. Chem. Downloaded from www.nrcresearchpress.com by 87.160.185.190 on 03/27/14 
+
+For personal use only. 
+
+
+10 
+
+CAN. 1. CHEM. VOL. 68, 1990 
+
+Remerciements 
+
+10. J. DEVYNCK, A. VAILLANT, B. TREMILLON, F. LEBLOND-
+
+Les auteurs sont reconnaissants des octrois d e recherche du 
+
+Conseil d e recherches e n s ~i e n c e s naturelles et e n genie du 
+Canada e t d u Ministkre de 1'Education d u Quebec qui ont rendu 
+
+ce travail possible. 
+
+1. H. H. HYMAN, M. KILPATRICK et J. J. KATZ. J. Am. Chem. Soc. 
+79, 3668 (1957). 
+2. G. DALLINGA, J. GRAAF and E. L. MARKOR. Recl. Trav. Chim. 
+Pays-Bas, 89, 1068 (1970). 
+3. A. VALLIANT, J. DEVYNCK et B. TREMILLON. Anal. Lett. 6, 1095 
+(1973). 
+4. H. MBNARD, J. P. MASSON, J. DEVYNCK et B. TREMILLON. J. 
+Electroanal. Chem. 63, 163 (1975). 
+5. A. VAILLANT, J. DEVYNCK et B. TREMILLON. J. Electroanal. 
+Chem. 57, 219 (1974). 
+6. P. A. G I G U ~R E . 
+Chem. Phys. Lett. 41, 598 (1976). 
+7. P. A. G I G U ~R E , 
+C. MARTEL et S. TURRELL. Chem. Phys. Lett. 
+56, 231 (1978). 
+8. P. A. G I G U ~R E 
+et S. TURRELL. J. Am. Chem. Soc. 102, 5473 
+(1980). 
+9. R. BEAUDOIN, J. KHORAMI et H. MBNARD. Can. J. Chem. 65, 
+817 (1987). 
+
+R O U T H ~E R ~~ 
+H. MBNARD. J. Electroanal. Chem. 100,885 (1979). 
+11. R. BEAuDo1N et H. MBNARD. Can. J. Chem. 65, 528 (1987). 
+12. R. BEAUDOIN et H. MBNARD. Can. J. Chem. 66, 236 (1988). 
+13. H. MBNARD et F. LEBLOND-ROUTHIER. Anal. Chern. 50, 687 
+(1978). 
+14. B. BURROWS et R. JASINSKI. J. Electrochem. Soc. 115,348 (1968). 
+15. G. GRITZNER et J. KUTA. Pure J. Appl. Chem. 56, 461 (1984). 
+16. R. BEAUDOIN. These de doctorat, UniversitC de Sherbrooke, 
+Canada (1985). 
+17. F. LEBLOND-ROUTHIER. MCmoire de maitrise, UniversitC de 
+Sherbrooke, Sherbrooke, Canada (1978). 
+1s. W. B. SCHAAP, J. A. DAVIS et W. H. NEBERGALL. J. Am. Chem. 
+SOC. 76, 5226 (1954). 
+19. D. D. DEFORD et D. N. HUME. J. Am. Chem. Soc. 73, 5321 
+(1951). 
+20. A. M. BOND et R. J. TAYLOR. J. Electroanal. Chern. 28, 207 
+(1970). 
+21. F. M. HALL et S. J. SLATER. AUST. J. CHEM. 21, 2663 (1968). 
+22. F. A. COTTON et G. WILKINSON. Duns Advanced inorganic 
+chemistry. Interscience Publishers, John Wiley and Sons, New 
+York, NY. 1972. 
+23. A. M. BOND. J. Phys. Chem. 74, 331 (1970). 
+
+Can. J. Chem. Downloaded from www.nrcresearchpress.com by 87.160.185.190 on 03/27/14 
+
+For personal use only. 
+
+
+
+	
+

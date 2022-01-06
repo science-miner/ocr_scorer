@@ -1,0 +1,857 @@
+
+	
+
+		
+
+	
+
+	
+
+~t u d e 
+radiocristallographique comparee de quelques A-2 imidazolines substituees 
+
+Groupe d'e'tudes et de recherches en chitnie the'rapeutique organique et physique, Facultt de pharmacie, 
+27 boul. Jean-Moulin, 13385 Marseille CEDEX 5 , France 
+
+ALAIN MARSURA, CATHERINE SOULA ET CUONG LUU-DUC 
+
+Groupe de phartnacochimie, Faculte' de pharmacie, Domaine de la Merci, 38700 La Tronche, France 
+Requ le 7 janvier 1987 
+
+PIERRE BROUANT, JACQUES BARBE, ALAIN MARSURA, CATHERINE SOULA et CUONG LUU-DUC. Can. J. Chem. 65, 2217 
+(1987). 
+La comparaison des configurations de trois composCs de la serie des A-2 imidazolines fonctionnalistes, montre une gComCtrie 
+
+spatiale constante. Tous les substituants sont en position trans les uns par rapport aux autres et contribuent ainsi a une 
+
+minimisation des gCnes stCriques. D'apprks cette Ctude, il semble Cgalement que la nature du substituant a I'azote N(3) influe 
+de rnanikre importante sur la position du carbonyle. Les rCsultats confortent ceux d'une Ctude en resonance magnCtique 
+nucltaire antCrieure. 
+
+PIERRE BROUANT, JACQUES BARBE, A L A ~N MARSURA, CATHERINE SOULA, and CUONG LUU-DUC. Can. J. Chem. 65,2217 
+(1987). 
+The solid state structures of three compounds belonging to the A-2 imidazoline series have been compared. X-ray data and 
+molecular parameters are given. It is noteworthy to point out that substituents are tratzs to one another in these structures. 
+Moreover, the spatial orientation of the carbonyl group attached to C(4) depends on the nature of the substituent attached to 
+nitrogen N(3). In addition, results are in close agreement with those of nuclear magnetic resonance spectroscopy. 
+
+Introduction 
+
+Les A-2 imidazolines sont des substances dont I'intirCt 
+thkrapeutique deja ancien s'est encore affirm6 recemment. En 
+
+effet, ce sont des antidtpresseurs ( I ) , des antiparasitaires (2), 
+des bacttriostatiques (3), mais ces composts posskdent aussi 
+
+des proprittts hypotensives dont exemple est donne par la 
+
+clonidine et ses homologues (4). Cependant, a ce jour, peu 
+
+de derivts fonctionnalists ont t t t dtcrits. Le travail prtsentt 
+concerne l'analyse structurale par radiocristallographie d e 
+moltcules nouvelles dont la formule ginerale est donnts sur la 
+figure 1 et qui ont ete obtenues par action d e cetones a-bromees 
+a,P-tthyleniques avec des amidines N-substituies (5). I1 s'agit 
+plus particulikrement d e la benzyl-1 diphenyl-2,4 acetyl-5 A-2 
+
+imidazoline (2) et d e l'isopropyl-1 diphtnyl-2,4 benzoyl-5 A-2 
+imidazoline (3) qui ont ttC choisies comme ttmoins. Les 
+
+resultats, discutes en se reftrant t i ceux d'une ttude preliminaire 
+
+(6) consacrte B 1' isopropyl-1 diphtnyl-2,4 pivaloyl-5 A-2 
+
+imidazoline (I), permettent une discussion comparative des 
+
+configurations. 
+
+Partie experimentale 
+
+Les donnCes cristallines comparCes pour les deux composts sont 
+rapporttes dans le tableau I. 
+Les monocristaux des deux composCs ont Ct C obtenus par simple 
+
+Cvaporation a tempkrature ambiante de leurs solutions saturkes dans le 
+
+chloroforme (2) ou dans un melange Cquimolaire d'acetate d'Cthyle et 
+d'ether Cthylique (3). Les densitts ont Ct C mesurCes par flottaison. 
+La dktermination des mailles et l'enregistrement des intensitCs 
+diffractkes ont Ct C effectuCs sur un diffractomktre automatique 4 cercles 
+CAD-4 Fnraf Nonius a monochromateur de graphite : A(Mo KE) = 
+0,7107 A. Les parametres des mailles ont Ct C obtenus par moindres 
+canes a partir des positions angulaires de 25 rCflexions pour les deux 
+composCs. 
+Les conditions exp6rimentales d'enregistrement des intensitks peuvent 
+&amp;tre considCrCes comme identiques ( T = 293 K) pour les deux 
+
+1. Auteur i qui toute correspondance doit &amp;tre adressCe. 
+
+composCs. La technique de balayage en 8-28 a Ct C utilisCe. On a rCalisC 
+des contr6les d'orientation toutes les 300 mesures et des contr6les 
+dlintensitC toutes les 10 000 secondes. La dCviation angulaire maxi-
+mum acceptCe Ctait de 0,12 et les variations dlintensitC ont toujours CtC. 
+
+infkrieures a 3% (2) ou 2% (3). 
+
+Aucune correction particulikre d'absorption n'a Ct C effectuCe. Les 
+structures ont Ct C dCterminCes par les mCthodes directes (7). Elles ont 
+Ct C ensuite prCcisCes par une succession de synthkses de diffkrences-
+Fourier et de cycles d'affinements par moindres carrCs. 
+Les atomes d'hydrogkne, en partie 1ocalisCs sur les cartes de 
+densitCs-diffkrences et construits gComCtriquement pour les autres, ont 
+Ct C inclus mais non affinCs dans les deux derniers cycles d'affinement 
+qui ont eu lieu en matrice entikre. Tous les atomes ont Ct C affectts d'un 
+facteur d'agitation thermique anisotrope sauf les atomes d'hydrogkne 
+
+affect&amp; d'un facteur d'agitation fix6 a 5 A' pour les deux composCs. La 
+fonction a minimiser Ctait Cw(lF,I -I F , I ) ~ 
+
+avec w = I. Les facteurs 
+de diffusion atomique proviennent de la rCf. 8. Tous les calculs ont Ct C 
+effectuCs sur ordinateur DEC PDP 11/44 sous logiciel SDP (9). 
+L'enregistrement et les calculs ont Ct C rCalis6s dans le Service de 
+cristallochimie de I'UniversitC d'Aix-Marseille 111, rue Henri PoincarC 
+13397 Marseille Cedex 13. 
+Les tableaux 2 et 3 donnent les coordonntes a t ~m i ~u e s . ~ 
+Dans les 
+tableaux 4 et 5 sont portts les paramktres angulaires et de liaison. 
+Les valeurs des angles de torsion les plus significatives sont prCsentCes 
+dans le tableau 6. 
+On doit noter ici que la prCsence dans chacune des molCcules 
+considCrCes de centres asymCtriques implique I'existence d'images 
+non superposables. Les structures ont Ct C rCsolues dans des groupes 
+d'espace centrosymCtriques. Cependant, les coordonnCes atomiques 
+ont Ct C transformCes pour se rapporter toutes au mCme conformkre. 
+Les reprksentations gComCtriques de ces conformkres sont donnCes 
+sur la figure 2. 
+
+2. Les tableaux des amplitudes des facteurs de structure, des facteurs 
+d'agitation thermique, des paramktres positionnels et des Cquations des 
+principaux plans des moindres carrCs sont disponibles. On peut les 
+acheter en s'adressant au DCpGt de donntes non publiCes, ICIST, 
+Conseil national de recherches du Canada, Ottawa (Ont.), Canada 
+KIA 0S2. 
+
+Can. J. Chem. Downloaded from www.nrcresearchpress.com by 87.160.185.190 on 03/27/14 
+
+For personal use only. 
+
+
+CAN. J. CHEM. VOL. 65. 1987 
+
+FIG. 1. Formule gknkrale et numkrotation des composes etudiks. 
+
+TABLEAU 1. Donntes cristallines 
+
+Parametre 
+Compose 2 
+Composk 3 
+
+Formule brute : 
+Dimensions des cristaux en rnm : 
+
+Densitts mesurees, D,, : 
+Densitts calculCes en mg rnm-', D, : 
+
+Masse moltculaire relative M, : 
+Systkme : 
+Groupe : 
+Maille en et O, a : 
+b : 
+
+C : 
+
+P : 
+
+Volume de la rnaille en ii3, V : 
+Nombre de molkcules par rnaille, Z : 
+
+en mm-' : 
+
+F(000) : 
+Limites angulaires en 8 : 
+Nombre total de mesures : 
+
+Nombres de mesures avec I &gt; u ( I ) : 
+
+Nombre de rnesures utiliskes pour la rksolution : 
+Facteur d'accord sur toutes les intensitks 
+mesurkes, R,,, : 
+
+Nombre de rnesures avec I &gt; 3u(I) utiliskes pour 
+
+les affinements : 
+
+Limite de rejet en Fourier-diffkrence, (Ae),,, en e iip3 : 
+
+Rksidus R : 
+R," : 
+Variation sur erreur maximum, (A/u),,, : 
+Erreur sur une observation de poids unitaire : 
+
+C25H22N20 
+0,2 X 0,4 X 0,6 
+1,20(2) 
+1,223 
+354,46 
+Monoclinique 
+P 2 l / c 
+13,612(3) 
+14,667(3) 
+9,644(2) 
+90,80(5) 
+1925,2(7) 
+4 
+0,6 
+752 
+1 et 25 
+3648 
+Sans objet 
+3444 
+
+CrsH24Nz0 
+0,3 x 0,3 X 0,5 
+1,20(2) 
+1,193 
+368,48 
+Monoclinique 
+P 2 l/n 
+8,272(1) 
+16,138(4) 
+15,403(4) 
+94,02(5) 
+2051,1(7) 
+4 
+0,6 
+784 
+0 et 20 
+3495 
+2141 
+2055 
+
+Can. J. Chem. Downloaded from www.nrcresearchpress.com by 87.160.185.190 on 03/27/14 
+
+For personal use only. 
+
+
+B R O U A N T 
+
+TABLEAU 2. Coordonntes atomiques et deviations standards de 2 
+
+ET AL. 
+
+2219 
+
+TABLEAU 3. Coordonntes atomiques et dkviations standards de 3 
+
+Atome 
+
+x 
+
+Y 
+
+z 
+
+B (A2)* Atome 
+
+x 
+
+Y 
+
+z 
+
+B (A2)* 
+
+O(70) 
+-0,3830(2) 
+-0,3983(2) 
+0,483 l(3) 
+7,8 
+N(1) 
+-0,1365(2) 
+-0,4700(2) 
+0,2396(3) 
+3,6 
+N(3) 
+-0,3022(2) 
+-0,4501 (2) 
+0,2326(2) 
+3,O 
+C(2) 
+-0,2112(2) 
+-0,4430(2) 
+0,1690(3) 
+3,O 
+C(4) 
+-0,2863(2) 
+-0,5042(2) 
+0,3582(3) 
+3,1 
+C(5) 
+-0,1724(2) 
+-0,5074(2) 
+0,3721(3) 
+3,4 
+C(6) 
+-0,3950(2) 
+-0,4646(2) 
+0,1561(3) 
+3,5 
+C(7) 
+-0,3358(2) 
+
+0,4844(3) 
+4,3 
+C(21) 
+-0,1989(2) 
+-0,403 l(2) 
+0,0291(3) 
+3 2 
+C(22) 
+-0,2495(2) 
+-0,3264(2) 
+-0,O 146(3) 
+3,8 
+C(23) 
+-0,231 l(3) 
+-0,2893(3) 
+-0,1445(4) 
+4.7 
+C(24) 
+-0,1631(3) 
+-0,3291(3) 
+-0,2290(4) 
+5,3 
+C(25) 
+-0,1126(3) 
+-0,4055(3) 
+-0,1863(4) 
+5 ,o 
+C(26) 
+-0,1309(2) 
+-0,4427(2) 
+-0,0571(3) 
+3.9 
+C(51) 
+-0,1310(2) 
+-0,6005(2) 
+0,3990(3) 
+3,9 
+C(52) 
+-0,0634(3) 
+-0,6146(3) 
+0,5058(4) 
+5,7 
+C(53) 
+-0,0234(3) 
+-0,7002(4) 
+0,5241(5) 
+9,4 
+C(54) 
+-0,0490(4) 
+-0,7709(3) 
+0,4436(6) 
+10,5 
+C(55) 
+-0,1157(4) 
+-0,7579(3) 
+0,3389(6) 
+8,O 
+C(56) 
+-0,1558(3) 
+-0,6726(3) 
+0,3 157(4) 
+5 s 
+C(61) 
+-0,4114(2) 
+-0,5613(2) 
+0,1084(3) 
+3 2 
+C(62) 
+-0,3629(3) 
+-0,5944(3) 
+-0,0058(4) 
+4,7 
+C(63) 
+-0,3785(3) 
+-0,6824(3) 
+-0,0514(4) 
+6,1 
+C(64) 
+-0,4425(3) 
+-0,7382(3) 
+0,O 166(4) 
+5,8 
+C(65) 
+-0,4906(3) 
+-0,7072(3) 
+0,1301 (4) 
+5,1 
+C(66) 
+-0,4752(2) 
+-0,6188(2) 
+0,1762(3) 
+4,1 
+C(7 1) 
+-0,3231(3) 
+-0,5227(3) 
+0,6137(4) 
+5,4 
+
+*Les atomes affinis anisotropiquement sont donnis sous la forme d'iquiva-
+lents isotropiques definis ainsi au moyen des paramitres de la maille : 
+
+B,, = 4 / 3 [ a 2 ~( 1 , 1 ) 
+
++ b2B(2,2) + c2B(3,3) + ab(cos y)B(1,2) 
+
++ ac(cos P)B(1,3) + bc(cos a)B(2,3)] 
+
+Discussion 
+Les trois composes adoptent une conformation du cycle 
+imidazoline en forme d'enveloppe. Cela ressort du tableau 7, 
+qui donne les distances des atomes du cycle et celles du premier 
+atome de chaque substituant au plan moyen dCfini par les atomes 
+coplanaires N(l), C(2), N(3) et C(5). La position de C(4) est 
+nettement hors du plan moyen chez 1 et 2 mais, les cotes 
+Ctant opposCes par rapport ce plan, les conformations sont 
+inverstes. En revanche, le composC 3 est ce niveau plus plan 
+que les prCcCdents, la tendance au pliage ayant lieu, dans ce cas, 
+de part et d'autre d'un axe ima~inaire C(2)-C(4) avec un atome 
+N(3) qui ne s'ilkve qu'a 0,05 A au dessus d'un plan form6 par 
+C(4), C(5), N(1) et C(2). Quant aux substituants, leurs cotes 
+sont de mCme signe pour les trois composts et ils conservent 
+ainsi une mCme orientation trans, ce qui s'accorde avec les 
+mesures antCrieures des constantes de couplage 3 ~( ~4 -~5 ) 
+(10). On peut Cgalement Cvaluer la planiitt du cycle en 
+s'intiressant aux plans des moindres carris formis par N(l), 
+C(2), N(3), C(4) et C(5). 11 apparait alors que les di2tances 
+
+maxim!les au plan moyen sont de 0,089 A (I), 0,069 A (2) et 
+
+0,021 A (3). 
+En ce qui concerne les diffirences dans les longueurs de 
+liaison, elles s~nt~relativement faibles entre liaisons de natur? 
+identique : 0,018 A en moyenne, avec un maximum de 0,053 A 
+pour la liaison C(!)-C(7). 
+La liaison N(1)-C(2) 
+est en 
+moyenne de 1,28 A, les liai?ons N(3)-C(4), C(3)-C(6) et 
+N(1)-C(5) 
+sont de 1,48 A, celle entre C(2)-N(3) Ctant 
+
+O(70) 
+0,1664(7) 
+0,4222(3) 
+1,1207(3) 
+7,6 
+N(1) 
+0,1154(6) 
+0,2229(3) 
+1,0046(3) 
+4.7 
+c(2) 
+0,0316(8) 
+0,2789(4) 
+0,9630(4) 
+4,1 
+N(3) 
+-0,0502(6) 
+0,3349(3) 
+1,Ol lO(3) 
+4,2 
+C(4) 
+-0,0256(8) 
+0,3100(4) 
+1,1033(4) 
+4,1 
+c(5) 
+0,0934(8) 
+0,2332(4) 
+1,0983(3) 
+4,3 
+C(6) 
+-0,2068(8) 
+0,3738(4) 
+0,9785(4) 
+4,4 
+c(7) 
+0,0707(8) 
+0,3783(4) 
+1,1558(4) 
+4 3 
+c(21) 
+0,0253(7) 
+0,2848(4) 
+0,8669(4) 
+4.0 
+C(22) 
+-0,0074(8) 
+0,2140(4) 
+0,8175(4) 
+4,6 
+C(23) 
+-0,0102(8) 
+0,2169(4) 
+0,7276(4) 
+5 2 
+(324) 
+0,0179(9) 
+0,2910(5) 
+0,6870(4) 
+5,5 
+c(25) 
+0,0510(9) 
+0,3609(5) 
+0,7349(4) 
+5,8 
+C(26) 
+0,0536(9) 
+0,3581(4) 
+0,8243(4) 
+5,6 
+0,0255(7) 
+0,1552(4) 
+1,1363(4) 
+4,O 
+(352) 
+0,0537(8) 
+0,1386(4) 
+1,2241(4) 
+4 8 
+C(53) 
+-0,0080(9) 
+0,0680(5) 
+1,2610(4) 
+5,7 
+C(54) 
+-0,0983(9) 
+0,0125(4) 
+1,2096(5) 
+5 s 
+C(55) 
+-0,1244(9) 
+0,0275(5) 
+1,1222(5) 
+6 0 
+C(56) 
+-0,0644(9) 
+0,0978(4) 
+1,0863(4) 
+5 2 
+C(61) 
+-0,3431 (9) 
+0,3092(5) 
+0,9738(5) 
+6,4 
+C(62) 
+-0,241 l(10) 
+0,4499(5) 
+1,0358(5) 
+6 3 
+~( 7 
+1) 
+0,0502(7) 
+0,3858(4) 
+1,2512(4) 
+3,6 
+c(72) 
+0,1529(8) 
+0,4401(4) 
+1,2986(4) 
+4,7 
+(373) 
+0,1434(9) 
+0,4506(4) 
+1,3866(4) 
+5,3 
+(374) 
+0,0307(9) 
+0,408 l(4) 
+1,4280(4) 
+5,3 
+C(75) 
+-0,0761(8) 
+0,3542(4) 
+1,3834(4) 
+4,9 
+C(76) 
+-0,0643(9) 
+0,3430(4) 
+1,2947(4) 
+4,O 
+
+*Les atornes affinis anisotropiquement sont donnts sous la forme d'iquiva-
+lents isotropiques dtfinis ainsi au moyen des paramktres de la maille : 
+
+B,, = 4 / 3 [ a 2B(1,1) + b2B(2,2) + c2B(3,3) + ab(cos y)B(1,2) 
++ ac(cos P)B(1,3) + bc(cos a)B(2,3)] 
+
+de 1,38 A. Ces valeurs peuvent Ctre comparkes aux v:leurs 
+
+thioriques d'une double liaison ~a r b o n e ~a z o t e 
+(1,29 A) ou 
+d'une simple liaison carbone-azote (1,48 A). On en dCduit que 
+si la liaison N(1)-C(2) est bien une liaison double N,2-CSp2, 
+si les liaisons N(3)-C(4), N(3)-C(6) 
+et N(1)-C(5) sont 
+bien des liaisons simples N,3-C,,, 
+la liaison C(2)-N(3), 
+en revanche, prisente un caractkre partiel de double liaison 
+N,I-C,I. 
+On notera, en outre, que ces valeurs concordent 
+avec celles de 1,27(1) et 1,33(1) donnCes pour la dihydro-7,8 
+
+diphCny1-2,5 imidazo [1,2-f 1 [1,3,4,6] triazCpine (1 1) ou avec 
+
+celles de 1,28(3) et 1,37(2) donntes pour la (dihydro-4,5 
+imidazolyl-2)-2 benzophknone (12) ou encore avec celles de 
+1,28(7) et 1,38(2) donnies pour les N,N-dimCthylamidoximes 
+(13). 
+D'autre part, la moyenne des variations des angles n'est que 
+de 2,04". L'angle C(2)-N(3)-C(4) 
+a une valeur moyenne de 
+106,8". Ce rCsultat s'accorde avec ceux de Beagley et al. (1 1) et 
+ceux de MacKechnie et Paul (12) qui, dans le cas des composCs 
+dijh citis, donnent la valeur 105,8". De plus le substituant C(6) 
+port6 par l'azote N(3) est situC nettement hors du plan comme 
+cela apparait dans le tableau 7. Tout ceci, compte tenu par 
+ailleurs du caractkre partiel de double liaison pour la liaison 
+C(2)-N(3), est en faveur d'un Ctat intermkdiaire d'hybridation 
+de l'azote N(3). 
+Pour ce qui est des substituants portCs par le cycle en position 
+2, 3 , 4 et 5, on peut relever les observations suivantes lites aux 
+Can. J. Chem. Downloaded from www.nrcresearchpress.com by 87.160.185.190 on 03/27/14 
+
+For personal use only. 
+
+
+VOL. 65, 1987 
+
+2220 
+
+CAN. J. CHEM. 
+
+TABLEAU 4. Longueurs de liaisons et leur deviation standard en A 
+
+Atornes 
+Compose 1 
+
+1,214(7) 
+1,285(7) 
+1,473(7) 
+1,387(7) 
+1,480(7) 
+1,483(7) 
+1,496(8) 
+1,575(8) 
+1,528(8) 
+1,516(8) 
+1,534(9) 
+1,531(9) 
+1,556(8) 
+1,392(8) 
+1,380(7) 
+1,397(8) 
+1,356(9) 
+1,371(9) 
+1,389(9) 
+1,374(8) 
+1,387(9) 
+1,378(10) 
+1,359(11) 
+1,383(10) 
+1,384(9) 
+
+TABLEAU 5. Angles de liaisons et leur dkviation standard en " 
+
+CornposC 2 
+CornposC 3 
+
+-
+
+Atornes 
+CornposC 1 CornposC 2 Compost5 3 
+
+valeurs des angles de torsion prCsentCes dans le tableau 6 : 
+(i) Le phCnyle en 2 prend chez les trois composCs une angu-
+lation voisine afin de s7Cloigner au maximum du substituant 
+greffC en N(3). Donc il n'y pas de conjugaison entre ce groupe-
+ment et la liaison imine intracyclique comme en tCmoigne la 
+valeur moyenne de l'angulation qui est Cgale h 41 3 " . 
+( i i ) On note Cgalement une angulation assez voisine pour les 
+substituants isopropyle ou benzyle greffCs en N(3). Le cycle 
+
+ph6nyle du substituant benzyle dans le composC 2 prend la place 
+d'un des groupements mCthyles de 1 ou 3. Les angulations de 2 
+et 3 autour de la liaison N(3)-C(6) sont trks proche de 60" et 
+donc de la valeur thtorique pour une conformation dCcalCe. 
+D'autre part dans le cas de 3 le calcul des distances entre 
+l'hydrogkne port6 par C(4) et les hydrogknes respectivement 
+
+port&amp; par C(61) et C(62) : 2,37 A et 2,42 A, rCvkle une 
+
+proximit6 entre ces atomes conforme aux rCsultats observes 
+en rmn par effet Overhauser (10) et s'accorde avec 1'6tat 
+d'hybridation de N(3) mentionn6 prkctdement. De meme, la 
+
+distance de 2,55 A entre l'hydrogkne port6 par C(6) et l'hydro-
+
+gkne port6 par C(22) confirme aussi les r6sultats de rmn (10). 
+(iii) La projection de l'angle C(4)-N(3)-C(2) 
+dans un plan 
+
+perpendiculaire h la liaison N(3)-C(6), qui serait de 180" pour 
+un azote N(3) purement sp2 ou de 120" pour un azote purement 
+sp3, vaut respectivement 156,2(9)" pour 1, 136,0(5)" pour 2 et 
+131,1(5)" pour 3. On en dCduit 40% de caracthe sp3 pour 1, 
+73% pour 2 et 8 1 % pour 3. 
+(iu) La liaison C(7)-O(70) est, dans les trois cas, situCe 
+dans le m&amp;me quadrant que la liaison C(4)-N(3) ce qui 
+correspond 
+une forme cisoide, 3 ayant en outre m&amp;me 
+
+Can. J. Chem. Downloaded from www.nrcresearchpress.com by 87.160.185.190 on 03/27/14 
+
+For personal use only. 
+
+
+BROUANT ET AL. 
+
+TABLEAU 6. Principaux angles de torsion et leur dCviation standard en " 
+
+Atomes 
+
+Compost? 1 
+ComposC 2 
+ComposC 3 
+
+FIG. 2. ReprCsentations gComCtriques des composCs 2 ( a ) et 3 (6) rapportkes au m&amp;me rCft5rentiel. 
+
+TABLEAU 7. Distances au plan moyen dCfini par les atomes 
+C(5)-N(1)-C(2)-N(3) 
+
+Atomes 
+
+ComposC 1 
+ComposC 2 
+ComposC 3 
+
+N(1) 
+-0,021(7) 
+-0,019(3) 
+-0,011(5) 
+c(2) 
+0,023(8) 
+0,016(3) 
+0,012(7) 
+N(3) 
+-0,013(7) 
+-0,009(3) 
+-0,006(5) 
+c(4) 
+-0,243(8) 
+0,188(3) 
+0,045(7) 
+c(5) 
+0,011(9) 
+0,008(3) 
+0,006(7) 
+c ( 2 1) 
+0,059(8) 
+0,023(3) 
+0,025(6) 
+c(6) 
+0,546(9) 
+0,622(3) 
+0,658(7) 
+c(7) 
+-1,694(9) 
+-0,732(4) 
+-1,267(7) 
+c(5 1) 
+1,320(8) 
+1,076(3) 
+1,198(6) 
+
+conformation que 1. On doit souligner, a ce propos, que par 
+nOe-difference entre les atomes d'hydroghe portes par C(5) et 
+C(72) on avait abouti a la m&amp;me conclusion (10). 
+(u) Enfin, le phknyle greffe en 5 est toujours presque 
+quasiment perpendiculaire au plan du cycle imidazoline comme 
+le montre la distance entre l'atome d'hydroghe gorte par C(5) 
+et celui port6 par C(52). Cette valeur (2,36 A) est proche 
+du minimum observable par sipulation de rotation autour de 
+la liaison C(5)-C(51) (2,13 A). Ce resultat concorde avec 
+l'interaction notee par nOe-difference (10). 
+
+Conclusion 
+La difference structurale essentielle relevee dans cette etude 
+
+X ' 
+
+22,694 
+74,478 
+10,458 
+
+tient a une inversion d'enveloppe chez 2. Nkanmoins, la 
+similitude conformationnelle est particulikrement marquee entre 
+Can. J. Chem. Downloaded from www.nrcresearchpress.com by 87.160.185.190 on 03/27/14 
+
+For personal use only. 
+
+
+2222 
+
+CAN. J. CHEM. VOL. 65, 1987 
+
+1 et 3. I1 semblerait donc que les substituants greffts sur 
+N(3) influencent de maniere prtpondtrante la conformation du 
+carbonyle dans ces espkces fonctionnalistes. L'ensemble de 
+ces rtsultats est en stricte conformitt avec ceux observts en 
+solution. I1 reste a savoir dtsormais si cette particularitt 
+
+intewient dans une corrtlation avec les activitts biologiques. 
+
+1. H. DABIRE, P. MOUILLE, M. ANDREJAK, B. FOURNIER et H. 
+SCHMITT. Arch. Int. 'Ther. 252 (1981). 
+2. (a) F. GAEDCKE et F. ZYMALKOWSKI. Arch. Pharm. 312, 812 
+(1979); (b) F. GAEDCKE, R. KNORR et F. ZYMALKOWSKI. Arch. 
+Pharm. 313, 166 (1980). 
+3. H. FOKS et M. HANOWIEC. Acta Pol. Pharm. 39, 79 (1982). 
+4. (a) W. HOEFKE et W. KOBINGER. Arzneim. Forsch. 16, 1038 
+(1966); (b) P. B. TIMMERMANS, A. DE JONGE, J. VAN MEEL, 
+F. SLOTHORST-GRISDIJK, E. LAM et P. VAN ZWIETEN. J. Med. 
+Chern. 24, 502 (1981); (c) D. CAMBRIDGE. Eur. J. Pharmacol. 
+72,413 (1981). 
+5. A. MARSURA, C. LUU-DUC et G. GELLON. Synthesis, 537 (1985). 
+
+6. P. BROUANT, J. BARBE, A. MARSURA et C. Luu-Duc. Acta 
+Crystallogr. Sect. C: Cryst. Struct. Commun. 41, 1369 (1985). 
+7. P. MAIN, S. J. FISKE, S. E. HULL, L. LESSINGER, G. GERMAIN, 
+J. P. DECLERCQ et M. M. WOOLFSON. MULTAN 80. A system of 
+computer programs for the automatic solution of crystal structures 
+from X-ray diffraction data. Univ. York. (Angleterre) et Louvain 
+(Belgique), 1980. 
+8. International tables for X-ray crystallography. Tome IV. Kynoch 
+Press, Birmingham. 1974; distribui par D. Reidel, Dordrecht. 
+9. B. A. FRENZ. Computing in crystallography. EdirP par H. 
+Schenk, R. Olthof-Hazekamp, H. van Koningsveld et G. C. 
+Bassi. Delft Univ. Press, Pays-Bas. 1978. pp. 44-7 1. 
+10. A. MARSURA, C. Luu-Duc et R. NARDIN. Magn. Reson. Chern. 
+23, 639 (1985). 
+11. B. BEAGLEY, S. F. MOSS, R. G. PRITCHARD et R. D. TAYLOR. 
+Acta Crystallogr. Sect. B: Struct. Crystallogr. Cryst. Chem. 37, 
+486 (1981). 
+12. J. S. MACKECHNIE et L. C. PAUL. J. Chem. Soc. B, 984 (1968). 
+13. H. GOZLAN, R. MICHELOT, C. RICHE et R. RIPS. Tetrahedron, 
+33, 2535 (1977). 
+
+Can. J. Chem. Downloaded from www.nrcresearchpress.com by 87.160.185.190 on 03/27/14 
+
+For personal use only. 
+
+
+
+	
+

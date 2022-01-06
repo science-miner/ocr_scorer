@@ -1,0 +1,1140 @@
+
+	
+
+		
+
+	
+
+	
+
+~t u d e cinetique de l'ouverture thermique de la liaison C-C d'aziridines et 
+d'epoxydes dip6les-1'3 potentiels. 11. Influence des substituants 
+
+A ~C H A 
+DERDOUR ET FERNAND TEXIER 
+
+Lnbornroire de synthise orgnnique, ONRS 75B/033, Institlct de Chimie, Universirt d'Ornn, Es-Stnia, Algtrie 
+Requ le 25 septembre 1984' 
+
+AICHA DERDOUR et FERNAND TEXIER. Can. J. Chem. 63, 3605 (1985). 
+L'Ctude cinitique de I'ouverture thermique de la liaison C-C des cyano-2 aziridines 1, des alcoxycarbonyl-2 aziridines 2, 
+des aroyl-2 aziridines 3 et des dicyano-2,2 Cpoxydes 4 diversement substituks en I et 3 montre que (i) la stCrCochimie des 
+carbones cycliques a peu d'influence sur la vitesse d'ouverture Clectrocyclique; (ii) un substituant aryle en I favorise la rCaction 
+par rapport a un alkyle et d'une manikre gCnCrale, la rCaction est facilitke par des substituants qui rapprochent les niveaux 
+d'tnergie du doublet P de I'hCtCroatome et I'OM a:.,_,.,. 
+Elle est Cgalement favoriste par la dissymitrie de substitution des 
+carbones 2 et 3. Les rksultats sont discutis dans le cadre de la thCorie des relaxations. 
+
+AICHA DERDOUR and FERNAND TEXIER. Can. J. Chem. 63, 3605 (1985). 
+A kinetic study concerning the thermal opening of the C-C bond of 2-cyanoaziridines (I), 2-alkoxycarbonylaziridines (2), 
+2-aroylaziridines (3), and 1,3-substituted 2,2-dicyanoepoxides (4) has shown that (i) the stereochemistry of the cyclic carbon 
+atoms has little influence on the rate of the electrocyclic opening; (ii) the presence of an aryl substituent in position 1, as 
+opposed to an alkyl substituent, favors this reaction and, in general, the reaction is favored by the presence of substituents which 
+produce energy levels closer to those of the P doublet of the heteroatom and of the u , * . ~-~, 
+MO. This reaction is also favored 
+by a dissymmetry of the substitution on the 2 and 3 carbons. The results are discussed in terms of the theory of relaxations. 
+[Journal translation] 
+
+Les facteurs qui favorisent l'ouverture thermique des hetero-
+cycles isotlectroniques de l'anion cyclopropyle (aziridines, 
+tpoxydes.. .) en dip6les-1,3 correspondants ne semblent pas 
+&amp;tre complktement h t g a g b , malgre quelques travaux experi-
+mentaux (1 -3) et les explications basees sur la methode des 
+relaxations (4). 
+Afin de ~reciser I'influence des substituants sur la reaction 
+pericyclique, nous avons etudie, a I'aide des methodes dtcrites 
+dans I'article precedent ( 5 ) , la cinetique d'ouverture de la liai-
+son C-C des aziridines 1, 2 et 3 et des Cpoxydes 4. 
+
+Ri 
+
+C-C 
+H ' 
+\N/ 
+
+' 
+R2 
+
+I 
+
+R 
+
+Ri /C02R' 
+
+C-C 
+
+\N/ kR2 
+
+I 
+
+R 
+2 
+
+Ph\ C-C 
+/cOphpx 
+P X P ~\ C-C 
+
+pCN 
+
+H / \,/ kH 
+
+H/ \o/ \CN 
+
+L'objet de ce memoire est d'exarniner l'influence de la con-
+figuration relative des carbones cycliques de l'aziridine et celle 
+de divers substituants sur la reaction d'ouverture Clectro-
+cyclique schCrnatisCe cornrne suit: 
+
+Aziridine ------Ylure d'azomithine (Z = N-R) 
+Epoxyde ------Ylure de carbonyle (Z = 0 ) 
+
+' Revision reque le 30 juillet 1985. 
+
+Resultats experimentaux 
+1. Influence de la configuration relative des ccrrborles qcli-
+ques de l'aziridine 
+Huisgen et al. ont montre que la stereochimie cis ou trans 
+des deux aziridines isomkres 2d (cis) et 2e (trans) influe peu 
+sur leur vitesse d'ouverture electrocyclique (3a): 
+
+Me02C 
+
+\ 
+
+p C 0 2 M e Me02C\ 
+
+,c-c. 
+
+pH 
+
+c-c, 
+
+H,t \?/ . . H 
+
+H ' 
+' C O ~M ~ 
+I 
+pMeOPh 
+
+I 
+
+pMeOPh 
+2d (cis) 
+2e (trans) 
+
+Nous avons montre qu'il en etait de m&amp;me pour les deux 
+aziridines isomkres 3a (cis) et 36 (trans), quelle que soit la 
+temperature de la rtaction. Les resultats rassemblts dans le 
+tableau 1 indiquent que la configuration relative des carbones 
+cycliques ne joue qu'un r6le mineur sur la vitesse d'ouverture 
+du cycle, contrairement ce qui est observe lors de la trans-
+formation de derives cyclopropaniques en cations allyles, puis-
+que dans ces cas, la stereochimie joue un r6le preponderant sur 
+la vitesse de la reaction (6). 
+
+Ph\ 
+
+,COPh 
+
+c-c, 
+
+Ph\ C-
+
+c, lH 
+
+H,~' \N/ 
+'.H 
+
+H " ' \N/ 
+
+COP^ 
+
+I 
+I 
+
+~6 ~1 1 
+
+3a cis 
+
+2. Influence du substituant de l'azote (cas des aziridines) 
+Oehlschlager et al. ont rnontre que l'ouverture des N-aryl-
+aziridines 5 en ylures d'azorntthine 6 a 1 10°C est favoriste par 
+des substituants X et X' Clectrodonneurs (2). 
+Pour notre part, nous avons rnontre que l'ouverture de 
+l'aziridine est favoriste par substituant phenyle compare a un 
+alkyle. 
+Can. J. Chem. Downloaded from www.nrcresearchpress.com by 87.160.185.190 on 03/27/14 
+
+For personal use only. 
+
+
+CAN. J. CHEM. VOL. 63. 1985 
+
+TABLEAU I. Constantes cinktiques d'ordre I (kl, loJ ss') et parametres d'activation correspondant 2 
+I'ouverture thermique des aziridines 3 (soivant: tolukne) 
+
+3: 2 I'exception de 30, les substituants des carbones sont trans 
+
+N 
+
+X 
+
+T:h 80,2 
+101.2 
+121,s 
+140 
+AH+" 
+log A,, 
+A s f 
+AG+ 
+
+3a (cis) 
+H 
+1,45 
+9,1 
+43,4 
+200 
+22 
+10,3 
+-14 
+28 
+3b 
+H 
+1,25 
+8,9 
+35,8 
+109,2 
+22,s 
+10,5 
+-13 
+27 
+3c 
+Me0 
+1,05 
+2,68 
+15,60 
+68,5 
+23,5 
+I I 
+-1 1 
+27,5 
+3d 
+NO' 
+3,16 
+15,7 
+57,2 
+156,l 
+19 
+8,6 
+-21 
+26,5 
+
+"Les A H S sont exprimees en kcal mol-' (precision ? 1,5 kcal m o l l ) et les AS+ en unites d'entropie (prkcision 
+
+2 5 ue). 
+" T , 50,2OC. 
+
+TABLEAU 2. Constantes cinktiques d'ordre 1 ( k , , 1 0 % ~' ) 
+et pararnktres d'activation correspondant j. I'ouverture 
+thermique des aziridines 2 (solvant: tolukne) 
+
+RICH-c 
+
+/R2 
+
+\N/ 'CO~R' 
+
+I 
+
+2 (R' = Me sauf pour 2b, R' = Et) 
+
+-
+-
+-
+
+k, (loJ S-') 
+
+N 
+R 
+R ' 
+R' 
+T:" 60 
+105 
+121,5 
+AH'" 
+log A,, 
+AS"' 
+AG+ 
+
+20 
+C ~H I I 
+Ph 
+COzMe 
+
+-
+-
+
+6,35 
+2b 
+Ph 
+Ph 
+COzEt 
+2.9 
+34,O 
+100 
+17 
+7 s 
+-26 
+26,5 
+2c 
+Ph 
+COZMe COzMe 
+0,25 
+4,3 
+10,3 
+17 
+7,OO 
+-29 
+28 
+2d 
+pMeO Ph 
+H 
+COzMe 
+28,5" 
+-1,5 
+29 
+2e 
+pMeO Ph 
+H 
+CO'Me 
+
+" 
+
+I 
+I 
+
+29,5" 
++0,5 
+29 
+
+"T, ?0,2"C. 
+
+"Les A H + sont mesurees 1 partir de constantes de vitesse determinees en vitesse initiale (ref. 5); la precision est 2 2 kcal 
+mol-'. Les A S b sont obtenues avec precision de 2 5 ue. 
+
+"Compte tenu de la difficult6 a obtenir la constante de vitesse (ref. 5) nous nvons renonce i determiner les parametres 
+
+d'activation. 
+"Ces aziridines ont etC CtudiCes par Huisgen et Mader ( 3 a ) , dans I'acCtate d'ethyle. Les aziridines etudiees au cours de ce 
+
+travail ont des ASi largement negatives; ceci est dfi en partie B une solvatation spicifique des aziridines dans les solvants 
+
+aromatiques (1). 
+
+5 (cis) 
+6 (trans) 
+
+Ph 
+C02R' 
+Ph\ 
+
+yH 
+
+k 1 
+
+I 
+
+I 
+
+C-C 
+
+/ 
+
+-C\.4e-,,C 
+
+H' \N/ 
+'co~R' 
+k-, 
+H/ ' Y G / \ ~ 
+
+I 
+
+R 
+
+I 
+
+R 
+
+20: R = ChHII; R' = Me (cis par rapport au phknyle) 
+2b: R = Ph; R' = Et (trans par rapport au phknyle) 
+
+compart au cyclohexyle; ainsi a T = 121 3°C: kl ( l i ) = 0,86 
+x 
+s-' et k, ( l k ) = 1,5 X lo-' s-I. 
+
+Ainsi a la temperature de 121,5"C, I'aziridine 2 6 dont l'azote 
+
+R I 
+
+est substitut par un phtnyle s'ouvre 16 fois plus vite (kl (2a) 
+
+\ C-C 
+/"" 
+
+= 6,35 x lo-* s-I; k, (26) = 100 x 
+s-I) que l'aziridine 
+
+H/ \ 
+N 
+' 
+
+\R2 
+
+2 a dont l'azote est substitut par un cyclohexyle. 
+
+I1 en est de mtme pour l'ouverture des cyano-2 aziridines l i , 
+
+I 
+
+R 
+l i : R ' = M e ; R Z = H ; R = C 6 H l l 
+
+et l k ; la rtaction tlectrocyclique est favoriste par un phtnyle 
+
+lk: R' = H; RZ = Me; R = Ph 
+
+Can. J. Chem. Downloaded from www.nrcresearchpress.com by 87.160.185.190 on 03/27/14 
+
+For personal use only. 
+
+
+DERDOUR ET TEXlER 
+
+TABLEAU 3. Constantes cinktiques d'ordre I ( k , , 10" s-I) et pararnktres d'activation correspon-
+dant B l'ouverture therrnique des aziridines In, li, lj et lh (solvant: toluiine) 
+
+R'CH-CHCN 
+'N' 
+
+I 
+
+No 
+
+R ' 
+
+T:" 120 
+
+130 
+140 
+160 
+A H + 
+
+log A,, 
+
+AS' 
+AG' 
+
+" T , +0,2"C. 
+
+3. Influence des substituants des carbones cycliques 
+3.1. Influence des groupemetzts fonctiotznels substituant le 
+C? 
+
+Selon la littkrature, la formation d'un ylure d'azomethine a 
+
+partir d'une aziridine est favorisee par un groupement electro-
+attracteur activant, ester, citone ou nitrile, substituant le(s) 
+carbone(s) cyclique(s) (7). La comparaison de la vitesse d'ou-
+verture des aziridines 1, 2 et 3 substituees en I par un cyclo-
+hexyle et en 3 par un phenyle montre que la constante k, suit 
+l'aptitude du groupement fonctionnel a stabiliser une charge 
+negative: A T = 12 1,5"C, dans le toluene, kl (30): 43,4 x lo-" 
+
+sC1 &gt; k, (2a): 6,35 x lo-' s-I &gt; kl (la): 2,92 X 10'' s-I. 
+
+Si l'on considere les aziridines 3 dont le phenyle liC au 
+carbonyle est substitue en para par un groupement X, nous 
+remarquons que l'effet du substituant X est modCrC, mais 
+lorsqu'il est electrodonneur, il ralentit I'ouverture, alors qu'il 
+1'accClkre quand il est Clectroattracteur, conlme le montrent les 
+resultats rassembles dans le tableau 1. 
+Les parametres d'activation correspondant a I'ouverture des 
+aziridines 2 sont rassembles dans le tableau 2. 11s montrent que 
+le compose 2c s'ouvre plus facilement que les aziridines 2d et 
+e Ctudiees par Huisgen et al. (3c), malgrC la presence du mC-
+thoxy sur le phenyle lie a l'azote. I1 faut noter toutefois que 
+l'aziridine 2b s'ouvre plus aisement que les composes 2c et 2d. 
+A titre d'exemple, nous avons reporte ci-dessous les k, obser-
+vCes ? 
+I T = 120°C. 
+3.2. Substitution en position 3 par des groupernetzts alkyles 
+et aryles 
+3.2.1. Dans une publication preliminaire, nous avons montrC 
+que l'ouverture thermique des cyano-2 aziridines en ylures 
+d'azomethine est favorisee en rempla~ant l'hydrogkne en 3 par 
+un phCnyle (1). Les rCsultats rassembles dans le tableau 3 
+concernant les parametres d'activation des aziridines l a , i, j et 
+h, montrent que la facilite de formation de l'ylure d'azomethine 
+
+suit la sequence: R1 = Ph &gt; H &gt; Me &gt; MezCH. Ainsi, a la 
+
+temperature de 1 20°C, la constante kl est divisee par environ un 
+facteur 10 lorsque I'on remplace le phCnyle par un hydrogene 
+
+~C 0 2 M e (C02Me)CH-CH(C02Me) 
+
+-' 
+PC, 
+
+\N/ 
+
+N 
+
+' C O ~M ~ 
+
+1 
+I 
+
+pMeOPh 
+Ph 
+
+2c 
+2d cis 
+2e trans 
+
+10,3 
+
+&gt; 
+
+4,6 
+3,9 
+
+et par un facteur 40 lorsque R' = Me. Toutefois, la variation 
+de log k, en fonction des u* de Taft (8) n'est pas une relation 
+lineaire. 
+3.2.2. Cas des N-cyclohexvl-cvatio-2 pX phinyl-3 
+aziridines 
+Les rCsultats concernant l'ouverture d'une sCrie de phenyl-3 
+aziridines 1 dont le phCnyle est substitue en para par un grou-
+pement X (MezN-, MeO-, H, C1, Br, CN, NOz) sont ras-
+semblCs dans le tableau 4. 
+
+Contrairement a ce qui Ctait attendu, la reaction electro-
+cyclique est favorisee par un substituant X Clectrodonneur et 
+
+dkfavorisee par un groupement X Clectroattracteur. Si l'on 
+
+prend la constante de vitesse d'ouverture de l'aziridine la 
+(X = H) Cgale a l'unite, nous obtenons les valeurs relatives 
+suivantes ( T = 12 1,5"C, solvant: toluene): ky' (X = H) = 1,OO; 
+Me,N-
+= 4,41; MeO-= 1,97; CI = 0,95; Br = 0,94; 
+CEN = 0,89; NOz = 0,86. 
+
+L'influence du substituant X est donc modCree, mais elle est 
+
+l'inverse de celle observCe avec les aroyl aziridines dont le 
+phenyle lie au carbonyle est substituC en para. La figure 1 
+representant log k, en fonction des u de Hammett (8) montre 
+que les substituants ayant un u positif sont correctement align&amp; 
+(p = -0,08); le dimCthylamino et le methoxy sont Cgalement 
+align&amp; avec H, mais la droite n'a pas la m&amp;me pente (p = 
+-0,38). 
+3.2.3. Cas des dicyano-2,2 phinyl-3 k p o x y d 4 
+Les resultats relatifs I'ouverture thermique des Cpoxydes 4 
+en ylures de carbonyle correspondants sont rassembles dans le 
+tableau 5. 
+11s sont analogues a ceux obtenus avec les aziridines 1; 
+Can. J. Chem. Downloaded from www.nrcresearchpress.com by 87.160.185.190 on 03/27/14 
+
+For personal use only. 
+
+
+CAN. J. CHEM. VOL. 63. 1985 
+
+TABLEAU 4. Constantes cinktiques d'ordre 1 (kl, 10' s-I) et paramktres d'activation cor-
+
+respondant i i I'ouverture des N-cyclohexy, cyano-2, p X phenyl-3, aziridines (solvant: 
+toluene) 
+
+X 
+T:" 81 
+121,5 
+130 
+140 
+
+H 
+0,5 
+29,5 
+73 
+125 
+C1 
+0 2 
+27,8 
+-
+101 
+MeO" 
+1,O 
+57,5 
+-
+165 
+NO2 
+0,08 
+25,l 
+
+-
+
+101 
+CN 
+0,5 
+26,2 
+-
+
+-
+
+Me2N 
+9,3 
+129 
+210,7 
+-
+
+'IT, ?0,2"C. 
+"Lorsque la rCaction est effectuCe dans le CCI,, les paramktres d'activation deviennent: AH+ = 25 
+kcal mol-'; log A., = 12; AS+ = -7 ue et AG+ = f27 kcal mol-I. 
+
+FIG. 1. Variations de log k, en fonction des u de Hammett dans les cas des aziridines 1; T = 121,5"C. 
+
+l'ouverture est favorisCe par un substituant X Clectrodonneur tel 
+que Me0 et defavoriske par un substituant tlectroattracteur: 
+k;" (T = 121,S°C, solvant: CCl,) H = 1,OO; Me0 = 4,OO; 
+Cl = 0,91; NO, = 0,70. 
+3.2.4. ParamPtres d'activation 
+Si nous considkrons l'ensemble des paramktres d'activation 
+obtenus pour I'ouverture d'aziridines diversement substituCes 
+(tableaux 1 -5), nous remarquons que l'enthalpie d'activation 
+AHP varie en sens inverse du facteur de frkquence log A,, qui 
+
+est reliC simplement au ASP. Plus I'ouverture de l'aziridine est 
+facile (cas de I'aziridine 2b par rapport a l a ou 3a) et moins la 
+constante de vitesse est dependante de la tempkrature, ce qui se 
+traduit par un facteur de frkquence log A,, faible et par voie de 
+conskquence un AS+ largement nCgatif. 
+Les valeurs largement ntgatives des AS+ peuvent paraitre 
+surprenantes. Toutefois, il faut remarquer que la faible Cvo-
+lution des constantes de vitesse (pour une sCrie donnCe, le AG+ 
+
+varie peu) est dCle 5 la compensation de l'entropie d'activation. 
+
+Ce phCnomene semble Ctre une caracttristique des reactions 
+unimolkculaires puisque une Cvolution analogue des AH+ et 
+log A,, a Ctk obsewie lors d7isomCrisations unimolCculaires 
+effectuCes en phase gazeuse (9). 
+
+De plus, il a Ct C montrC 5 l'aide de la rmn (rCsonance ma-
+
+Can. J. Chem. Downloaded from www.nrcresearchpress.com by 87.160.185.190 on 03/27/14 
+
+For personal use only. 
+
+
+DERDOUR ET TEXIER 
+
+TABLEAU 5. Constantes cinetiques d'ordre I (kl) 
+d'ouverture des Cpoxydes 4 dont le phtnyle est sub-
+
+/ R' 
+
+"\ 
+
+stitue en para par X; solvant: CCI,; T = 1213 2 
+0 . 2 0 ~ 
+
+H L ~ ' 
+
+1 Dcis 
+
+w trans 
+
+R / N ~c . . 
+
+X 
+
+, 
+H 
+ouverture D 
+
+, c-Y 
+
+k I 
+76,7 
+19,2 
+17,5 
+13,6 
+logk, 
+-3,12 
+-3,72 
+-3,76 
+-3,87 
+
+P' 
+
+"\ 
+
+,p$j&gt;~ 
+
+k1 Gcis 
+
+,rR1 
+
+/ d 
+
+' "-v-u trans 
+
+RI 
+
+&gt;. R 
+
+//pH H ' f D t r 
+
+. , 
+
+H 
+ouverture G 
+Y 
+
+w cis 
+
+rH 
+
+R / N%c ., 
+
+SCHEMA 2. Ouverture conrotatoire d'une aziridine cis. 
+
+" 
+
+o u v e r r u r e D 
+
+Y' 
+
+o u v e r t u r e D 
+
+4 % ' , 
+
+R 
+
+Y 
+
+o u v e r t u r e G 
+
+SCHEMA 1. d'une aziridine trans. 
+
+Ouverture G 
+
+gnktique nuclkaire) que si une aziridine est dissoute dans un 
+solvant benztnique, le noyau aromatique a tendance a se placer 
+le plus loin possible du doublet de l'azote (10). C'est pourquoi 
+il a Ct C envisagt une interaction spkcifique entre les OF du 
+solvant aromatique et I'OM u: -, 
+destinee a se rompre (1). La 
+solvatation spkcifique des aziridines dans le toldne est donc en 
+partie a l'origine des AS+ largement ntgatifs (1 
+En effet, les 
+paramktres d'activation de l'aziridine l c mesurks dans le CCl, 
+sont plus classiques (tableau 4, note debase de tableau), le AS+ 
+est moins nkgatif; dans un tel solvant, il n'y a pas de solvatation 
+sptcifique. 
+
+Discussion 
+1. Influence de la stbrbochimie des aziridines 
+L'ouverture conrotatoire d'une aziridine peut se faire, "a 
+priori", de deux rnanikres (droite ou gauche) conduisant ainsi 
+a deux configurations U et W de l'ylure d'azornethine corres-
+pondant, selon les schtrnas 1 et 2. 
+La constante de vitesse d'ouverture d'une aziridine de s t 6 
+rtochirnie donnte est la sornrne des constantes de vitesse de 
+formation des deux configurations de l'ylure d'azomtthine cor-
+respondant: 
+
+k , (Az. trans) = kl (D tr) + kl (G tr) 
+kl (Az. cis) = kl ( D cis) + k l (G cis) 
+
+Ces diffkrentes configurations U et W n'ktant pas dktectables 
+par l'exptrience, les mesures experimentales ne peuvent dis-
+tinguer kl (D) et k l (G). 
+
+' Le changernent de solvant arornatique entraine une modification 
+
+des parametres d'activation de l'aziridine l a : ainsi, le rernplacement 
+du toluene par le nitrobenzkne entraine une diminution du A H + (de 27 
+
+i 24,5 kcal rnol-') et une diminution du AS+ (de -7 ii -14 ue). Ces 
+
+rCsultats sont en accord avec la regle gCnCrale; lorsque AH* dCcroit, 
+AS+ dCcroit algebriquement. 
+
+SCHEMA 3. Interactions orbitalaires lors de I'ouverture conrotatoire 
+d'une aziridine avec azote plan. 
+
+D'aprks nos rksultats et ceux de Huisgen et al. (3c), kl (Az. 
+trans) = k l (Az. cis). Un raisonnement bast sur la rnini-
+rnisation des contraintes stkriques dans l'ylure form6 (12) per-
+met de rnontrer que le mode d'ouverture le plus facile est celui 
+qui conduit a l'ylure W cis 
+
+k l (D trans) &gt; k , (D cis) ou k , (G cis) 
+
+Cependant, la stCrCochirnie de l'ouverture des cations et 
+anions cyclopropyles n'est pas gouvernte par des interactions 
+stkriques, rnais par les proprittes des orbitales (13). Lors de la 
+solvolyse des dCrivts cyclopropaniques, des deux modes d'ou-
+verture disrotatoires possibles "a priori", un seul a lieu effec-
+tivernent: il correspond a celui pour lequel I'energie de relaxa-
+tion est la plus grande en valeur absolue (4). 
+L'explication de la formation prtfkrentielle d'un ylure d'azo-
+rntthine l'aide des interactions steriques ne tient que dans la 
+rnesure ou les interactions orbitalaires pour les deux modes 
+d'ouvertures, D ou G, sont tquivalentes. Ceci serait toujours 
+verifie quels que soient les substituants portts par les carbones 
+de l'aziridine, si l'azote ttait plan dans l'etat de transition. Quel 
+que soit le mode d'ouverture conrotatoire D ou G, l'knergie de 
+relaxation diie au transfert de charge P-+ u: -, 
+serait la rn&amp;me 
+(voir schtrna 3). Si on se limite aux interactions entre les 
+Can. J. Chem. Downloaded from www.nrcresearchpress.com by 87.160.185.190 on 03/27/14 
+
+For personal use only. 
+
+
+CAN. J. CHEM. VOL. 63. 1985 
+
+TABLEAU 6. Charges totales 
+sur les atomes de I'ylure 
+d'azomCthine non substitut 
+
+orbitales frontieres, cette energie est representee par I'equation 
+[I1 (4): 
+
+Elle serait la rn&amp;rne pour les deux modes d'ouverture. 
+Toutefois, cornrne l'ont rnontri les calculs ab iizitio effectues 
+sur I'ouverture de I'anion cyclopropyle (14) ainsi que les cal-
+culs MIND0 effectuks sur l'ouverture d'une aziridine (15), 
+l'azote ne doit pas &amp;tre plan dans l'etat de transition et le 
+doublet P n'est pas syrnetrique. Ceci entraine que les inter-
+actions orbitalaires ne sont pas equivalentes des deux c6tCs du 
+plan du cycle en train de s'ouvrir. Ce raisonnernent irnplique 
+que pour des aziridines dissyrnCtriques, l'un des deux modes 
+d'ouverture conrotatoire doit &amp;tre privilkgie (16). 
+
+2. ltlflrterzce des substituants 
+Le concept de stablisation de charges partielles ne perrnet pas 
+d'expliquer la stereochirnie de l'ouverture Clectrocyclique et 
+nous ne pensons pas qu'il puisse expliquer les effets des substi-
+tuants observes. En effet, il faudrait adrnettre que dans 1'Ctat de 
+transition il se dkveloppe une charge partielle positive sur le 
+carbone 3. Or les calculs CND0/2 effectuks sur les ylures 
+d'azornkthine rnontrent que lors de I'ouverture de l'aziridine, 
+I'azote initialernent nigatif devient positif alors que les car-
+bones initialernent positifs deviennent nCgatifs (voir partie ex-
+pkrirnentale et tableau 6). 
+
+Cornpte tenu du fait que I'equilibre aziridine e ylure d'azo-
+methine ou epoxyde e ylure de carbonyle est consi-
+
+derablement dtplacC vers l'heterocycle ferrnt, selon le principe 
+de Harnmond, 1'Ctat de transition doit avoir une structure pro-
+che du dip61e-1,3 final. Des calculs ab initio effectuks sur 
+l'ouverture de l'anion cyclopropyle ont rnontre qu'il en devait 
+&amp;tre ainsi, tout au rnoins pour les longueurs de liaison (14). 
+Si l'on adrnet que la force rnotrice de la reaction est le 
+transfert de charge du doublet de I'hetCroatorne sur I'OM a : -, 
+et que la reactivitk est correctement interpr6tCe par la thCorie 
+des relaxations, l'ouverture est d'autant plus aisCe que I'energie 
+de relaxation (4) est grande en valeur absolue (eq. [I]). 
+2.1. Substitliants en position 1 
+Dans des series distinctes d'hCterocycles (aziridines et 
+Cpoxydes) ou dans des series d'hCtCrocycles portant les rnkrnes 
+
+SCHEMA 4. Interactions orbitalaires lors de I'ouverturc conrotatoirc 
+d'une aziridine. Etat de transition. 
+
+substituants sur les carbones, la difference d'energie entre le 
+
+doublet de l'hiteroatome et I'OM uz-, destinee i se rornpre, 
+
+gouverne l'aptitude a I'ouverture. 
+La r~activitt comparke des aziridines et epoxydes a ete dis-
+cutee precedernrnent (1, 4) et nos resultats sont en accord avec 
+le fait qu'a substituants identiques sur les carbones, les azi-
+ridines s'ouvrent plus ais~rnent que les epoxydes (17, 18). 
+L'Cnergie du doublet de l'oxygene est plus basse que celle du 
+doublet de I'azote (19), ce qui entraine un transfert de charge 
+du doublet P sur I'OM u : -, 
+plus important dans le cas des 
+aziridines. 
+L'influence des substituants donneurs sur le phenyle lie a 
+I'azote des aziridines 5 a etC expliquCe de la rn&amp;rne rnaniere (4). 
+
+La plus grande rCactivitC des aziridines N-phCnyles par rap-
+port aux aziridines N-alkyles observke expCrirnentalernent 
+s'explique par la rnCthode des relaxations, puisque I'tnergie 
+d'interaction du doublet P avec I'OM u ' ~ est la plus grande 
+lorsque le substituant de l'azote est un phCnyle.' 
+La facilitC d'ouverture du cycle suit la facilite d'inversion de 
+l'azote; en effet, la barriere d'inversion est plus faible dans le 
+cas d'une aziridine N-phCnyle que dans le cas des aziridines 
+N-alkyles; la difference est de l'ordre de 5 kcal rnol-' (20). 
+2.2. Substituarzts en 2 et 3 
+L'exarnen des tableaux rnontre que I'ouverture de la liaison 
+C-C est facilitee par une substitution dissymktrique des car-
+bones 2 et 3. Parrni les aziridines ttudikes, 2b est la plus 
+reactive. Puisque I'influence des substituants sur I'Cnergie des 
+OM est additive en premiere approximation, ceci indique que 
+dans une sCrie d'hCtCrocycles de structures peu differentes, 
+lorsque l'on passe d'un compose a I'autre, la variation du 
+nurnkrateur de I'equation [I] I'ernporte sur celle du dknorni-
+nateur. En effet, si la rkactivite pkricyclique Ctait gouvernee 
+uniquernent par la difference d'energie entre le doublet P et 
+I'OM uz-,, la rkactivite de 26 devrait se situer entre celle de 
+2e et 5. 
+
+Cela n'a de sens que si l'on adrnet que I'azote qui passe de 
+
+la forrne pyramidale i la forrne plane n'est pas encore plan dans 
+
+I'etat de transition (schema 4).4 
+
+' 0 . Henri-Rousseau et N. Nafi. Communication personnellc. 
+'Dans le cas des Cpoxydes, I'un des doublets jouc le r6le du doublet 
+de I'azote alors que I'autre joue le r61e de la liaison N-R. 
+Can. J. Chem. Downloaded from www.nrcresearchpress.com by 87.160.185.190 on 03/27/14 
+
+For personal use only. 
+
+
+DERDOUR ET TEXlER 
+
+361 1 
+
+Lorsque les substituants des carbones sont differents, I'OM 
+u2+st alors polarisee et les coefficients C2 et C3 sont d'autant 
+
+plus differents que l'on a d'une part un substituant Clectro-
+attracteur et d'autre part un substituant Clectrodonneur (effet 
+"push-pull"). Dans ces conditions, quel que soit le mode d'ou-
+
+verture conrotatoirelprivilCgiC a ou 6 , plus I'OM est dis-
+
+symetrique et plus H;,, _ ,, est important et plus I'ouverture est 
+
+aiske. 
+
+La sequence de reactivitt des aziridines lct, 2u et 3a suit 
+
+l'augmentation de la polarisation d e I'OM a:': due au substi-
+tuant Y. L'influence des substituants X sur la polarisation de 
+
+cette O M permet de comprendre la reactivite des aziridines et 
+des Cpoxydes dont le phinyle en 3 est substitue: plus X est 
+
+donneur et plus la dissymetrie de I'OM a:': augmenTe entrainant 
+
+un accroissernent de I'hamiltonien d'internction H i o -, 
+, 
+. Dans 
+
+les composes 1 et 4, les substitants X ont deux effets antago-
+
+nistes: (i) un substituant Clectrodonneur, en relevant l'energie 
+de I'OM a:':, dCfavorise le transfert d e charge PN + a:-,; 
+(ii) 
+ce m&amp;me substituant en augmentant la dissymetrie de I'OM a:$ 
+favorise la reaction. L'antagonisrne des deux effets pourrait 
+expliquer que l'influence des substituants X est globalement 
+
+faible, mais nos resultats experimentaux indiquent que I'in-
+fluence d'un tel substituant sur la dissymetrie (nurnerateur de 
+
+I'equation 111) l'emporte sur la variation du niveau d'energie 
+
+(denominateur de I'equation [I]). 
+
+Dans les cornposCs 3, X substitue le phenyle lie au carbonyle 
+
+et, dans ces conditions, les deux effets vont dans le m2nie sens; 
+ainsi, le groupement NO? abaisse 1'Cnergie d e I'OM a * et 
+accroit la polarisation de cette OM, favorisant la reaction Clec-
+trocyclique. 
+L'influence d'un methyle en 3 compare a un hydrogkne (cas 
+
+des aziridines l i , R = Me, et lj, R = H) s'explique d e la mCme 
+maniere. Un carbone sp3 Ctant plus electronegatif que 
+
+I'hydrogene, le methyle compense partiellement l'influence du 
+nitrile sur la dissymetrie d e ]'OM a:-_, et d e ce fait diminue la 
+vitesse d'ouvei-ture, par rapport ii l'hydrogkne. 
+Nos resultats semblent en accord avec les previsions 
+d ' ~~i o t i s 
+qui, dans une approche theorique diffkrente, pre-
+voyait une augmentation de la reactivite pericyclique avec 
+I'augmentation de la polarite d e I'etat de transition (21). 
+Le raissonnement qui preckde permet d e comprendre l'ou-
+
+verture aisCe des het6rocycles 7, 9 et 11. L'effet -I des substi-
+tuants en 2 et 3, en abaissant l'tnergie de I'OM u:"t 
+la forte 
+
+dissymetrie de cette O M due a I'effet "push-pull" des substi-
+
+tuants t M en 3 et -M en 2, favorise le transfert de charge 
+PN + a : -, 
+et, partant, I'ouverture du cycle. 
+
+C N 
+T ambiante 
+
+\ 
+
+/CN 
+instanlanee + C N 
+C-C 
+(rtf. 76) 
+\C 4 e .C(CNl2 
+
+CN / \s/ \CN 
+
+CN/ 
+
+D'aprks c e travail, on peut privoir que quand deux aziridines 
+portent des substituants identiques, celle qui prisente la plus 
+grande dissymetrie doit donner plus aisement I'ylure d'azo-
+methine correspondant. 
+En conclusion, cette etude permet d e degager les points 
+essentiels suivants: (i) la configuration relative des carbones 
+cycliques a peu d'influence sur la vitesse d'ouverture Clectro-
+cyclique des aziridines; (ii) l'ouverture est globalement favo-
+risee par des substituants qui rapprochent les niveaux d'energie 
+du doublet P d'une part et de I'OM a:-, d'autre part. Toute-
+fois, la dissymetrie d e substitution des carbones 2 et 3 joue un 
+r61e important; au fur et a mesure qu'elle croit, la vitesse 
+d'ouverture augmente. 
+
+Partie experimentale 
+
+1. DPtertnit~nr~on des constcrtrtes de vitesse k, 
+
+Les constantcs cinetiques conccrnant I'ouverture Clectrocycl~que 
+des composCs 1, 2, 3 et 4 CtudiCcs au cours de ce travail sont deter-
+minks en suivant la disparition dc I'hCtCrocycle au cours dc la reac-
+tion d'addition 3. I'ACDM. Le dosage des cyano-2 aziridincs 1 cst 
+effectuC 3. I'aidc dc I'ir (disparition de la bande VC.-., vcrs 2240 cm-') 
+
+ct celui des autres composCs, ii I'aide de la chromatographie cn phase 
+liquide selon le mode operatoire dCcrit dans un mkmoirc prdcCdent (5). 
+
+2. DCternzit~niiot~ des pctram2tre.s d'~cti\vrtiot~ 
+
+Les paramktres d'activation, AE':, AH^, A S ) et AG' sont deter-
+
+minks i I'aide de mtthodcs standard (9), aprks avoir mesure la con-
+stante de vitesse d'ouverture k l 9, c ~r l tt~oit~s, 5 temperatures diffi-
+rentes. 
+La pente de la droite (coefficient de correlation r = 0,996), reprC-
+sentant le log k l en fonction de IIT, permct de calculer I'Cnergie 
+d'activation AE+. L'ordonnCe 3. I'origine correspond i log A,,. 
+Compte tenu des diverses gammes dc tcmpCrature ktudiies en fonc-
+tion des substituants du cycle, Ic A H ) est calculC, dans chaque cas, 
+i la temperature moyenne, alors que le AS' est toujours calcule pour 
+T = 100°C. Dans les tableaux, nous n'avons reporte que les constantes 
+de vitesse obtenues aux m&amp;mes temperatures, dans une sCrie donnkc. 
+Les rtsultats rassembles dans les tableaux sont donnCs avcc un pour-
+centage de confiance de 90%. 
+
+3. Calcttls CNDOIZ 
+
+Les calculs CND0/2 ont etc cffcctuCs sur les aziridines 7 et 8 cn 
+considtrant les angles du cycle Cgaux 3. 60' ; I'azote Ctant pyramjdal et 
+les longueurs de liaison C-N = 1,487 A, C-C = 1,509 A. Lcs 
+valeurs des charges ainsi obtenues sont reportkcs ci-dessous. 
+Can. J. Chem. Downloaded from www.nrcresearchpress.com by 87.160.185.190 on 03/27/14 
+
+For personal use only. 
+
+
+36 12 
+
+CAN. J. CHEM. VOL. 63. 1985 
+
+La gCornCtrie des ylures d'azornithine n'etant pas connue, les an-
+gles de liaison sont pris egaux ii 120" pour les carbones terminaux du 
+dip6le et de I'azote central. 
+
+Les calculs rassemblCs dans le tableau 6 ont etC effectuCs sur I'ylure 
+d'azomkthine non substituk pour diverses longueurs de la liaison 
+C-N; ils rnontrent que les charges tvoluent peu. 
+Les calculs CND0/2 concernant les ylures d'azomethine rksultant 
+de I'ouverture des aziridines 2b nous ont Ct C aimablement comrnu-
+niquts par Monsieur le Professeur R. Carrie (UniversitC de Rennes) 
+que nous rernercions vivement. 
+
+I 
+
+Ph 
+R = Ph R' = H, qz = -0,264 q, = -0,061 
+R = H R' = Ph, qz = 0,245 
+q3 = -0,073 
+
+1. A. DERDOUR et F. TEXIER. C.R. Acad. Sci. Sir. C, 291, 101 
+(1980). 
+2. A. C. OEHESCHLAGER, A. S. YIM et M. H. AKHTAR. Can. J. 
+Chern. 56, 273 (1978). 
+3. ( a ) R. HUISGEN et H. MADER. J. Am. Chem. Soc. 93, 1777 
+(1971); (b) R. HUISGEN. Angew. Chem. Int. Ed. Engl. 16, 572 
+(1977); ( c ) R. HUISGEN, W. SCHEER et H. MADER. Angew. 
+
+Chern. Int. Ed. Engl. 8, 602 (1969). 
+4. 0 . HENRI-ROUSSEAU, P. PUJOL et F. TEXIER. Bull. Soc. Chim. 
+Fr. 11, 496 (1980). 
+5. A. DERDOUR et F. TEXIER. Can. J. Chem. 63, 2245 (1985). 
+6. T. S. SORENSEN et A. RAUK. Pericyclic reactions. Vol. 2. 1' " Cd. 
+~d i t e 
+par A. P. Marchand et R. E. Lehr. Academic Press, New 
+York. 1977. p. I. 
+7. (a) J. W. LowN. Rec. Chern. Prog. 32, 51 (1971); (b) R. M. 
+KELLOGG. Tetrahedron, 32, 2 165 ( 1976). 
+8. L. H. HAMMETT. Physical organic chemistry. Dans Series in 
+advanced chemistry. McGraw-Hill, New York. 1970. p. 347. 
+9. S. N. BENSON. The foundations of chemical kinetics. Dans Series 
+in advanced chemistry. McGraw-Hill, New York. 1960. p. 252. 
+10. T. YONEZAIRE, I. MORISHIMA et K. FUKUTA. Bull. Soc. Chim. 
+Jpn. 41, 2297 (1968). 
+l I. A. DERDOUR. Thkse, Oran. 1982. 
+12. R. HUISGEN et H. MADER. Angew. Chern. Int. Ed. Engl. 8, 604 
+(1969). 
+13. (a) R. B. WOODWARD et R. HOFFMANN. The conservation of 
+orbital symmetry. Verlag Chernie, Berlin. 1970; (b) NGUYEN 
+TRONG ANH. Les rkgles de Woodward et Hoffrnann. Ediscience, 
+Paris. 1970. 
+14. P. MERLET, S. PEYERIMHOFF, R. BUENKER et S. SHIH. J. Am. 
+Chem. Soc. 96, 959 (1974). 
+15. J. SAUER. Tetrahedron, 35, 2109 (1979). 
+16. A. DERDOUR et F. TEXIER. C.R. Acad. Sci. Ser. C, 296, 553 
+(1983). 
+17. R. HUISGEN, W. SCHEER, G. SZEIMIES et H. HUBER. Tetrahedron 
+Lett. 397 (1966). 
+18. V. MARKOWSKI et R. HUISGEN. Chern. Commun. 439 (1977). 
+19. W. JORGENSEN et L. SALEM. The organic chemist's book of 
+orbitals. Academic Press, New York. 1973. pp. 156 et 159. 
+20. J. L. PIERRE, P. BARET et P. ARNAUD. Bull. Soc. Chim. Fr. 3619 
+(1971). 
+21. N. D. EPIOTIS. Angew. Chern. Int. Ed. Engl. 13, 751 (1974). 
+22. F. TEXIER et R. CARRIE. Bull. Soc. Chim. Fr. 3 10 (1974). 
+23. F. TEXIER et J. BOURGOIS. J. Heterocycl. Chem. 12, 505 (1975). 
+
+Can. J. Chem. Downloaded from www.nrcresearchpress.com by 87.160.185.190 on 03/27/14 
+
+For personal use only. 
+
+
+
+	
+

@@ -1,0 +1,575 @@
+
+	
+
+		
+
+	
+
+	
+
+~t u d e comparative de l'adsorption d'acide deoxyribonucleique 
+sur le chrysotile et le chrysotile phosphoryle (chrysophosphate) 
+
+JEAN-CLAUDE TOURAY ET PATRICK BAILLIF 
+
+~c o l e 
+supe'rieure de l'e'nergie et des mate'riaux, Universite' d'Orle'ans, L'nite' associte du Centre national 
+de la recherche scientijque no 724, 45067 Orle'ans CEDEX 2 , France 
+
+MARIE-CLAUDE JAURAND' ET JEAN BIGNON 
+Institut national de la sante' et de la recherche me'dicale, Unite' 139 et Unite' associe'e du Centre tlational 
+de la recherche scientijque 604, Centre hospitalier universitaire Henri Mondor, 94010 Cre'teil CEDEX, France 
+
+LAURE MAGNE 
+
+Laboratoire d'e'tude des particules inhale's, 44 rue Charles Moureu, 75013 Paris, France 
+
+Requ le 18 fkvrier 1986" 
+
+JEAN-CLAUDE TOURAY, PATRICK BAILLIF, MARIE-CLAUDE JAURAND, JEAN BIGNON et LAURE MAGNE. Can. J. Chem. 65, 
+508 (1987). 
+L'adsorption d'acide dCoxyribonuclCique (ADN) sur un Cchantillon de chrysotile ainsi que sur deux Cchantillons de 
+chrysophosphate a Ct C CtudiCe par analyse chimique et par analyse de surface (spectromCtrie de photoClectrons, XPS). Le 
+chrysophosphate dCrive du chrysotile par un traitement au POC13 en voie gazeuse; l'un des Cchantillons de chrysophosphate a Ct C 
+dCfibrC par passage dans un dkfibreur Pallmann. L'analyse XPS des Cchantillons, avant traitement par l'ADN, a montrC qu'une 
+
+partie du phosphore fix6 a la surface des fibres de chrysophosphate n'Ctait pas stable puisqu'elle Ctait solubilisCe lorsque les fibres 
+
+Ctaient dispersCes dans l'eau distillke. Aprks traitement par l'ADN, la quantitC d'ADN adsorbCe par ces fibres Ctait infkrieure 
+
+celle adsorbCe sur les fibres de chrysotile non phosphorylkes (12,6 + 1,7 kg/mg et 74,O ? 4,O kg/mg respectivernent). 
+
+L'Cchantillon dCfibrC avait un comporternent intermediaire ce qui indiquerait qu'une partie des fibres a CchappC ti la 
+phosphorylation (28,3 ? 5,6 kg/mg). Les rCsultats indiquent que l'adsorption d'ADN est une mCthode sensible pour apprkcier 
+1'Ctat de surface des fibres de chrysotile. On peut Cgalement formuler l'hypothkse que ce processus de phosphorylation masque 
+ou bloque des sites superficiels, actifs dans l'adsorption d'ADN. 
+
+JEAN-CLAUDE TOURAY, PATRICK BAILLIF, MARIE-CLAUDE JAURAND, JEAN BIGNON, and LAURE MAGNE. Can. J. Chem. 65, 
+508 (1987). 
+Deoxyribonucleic acid (DNA) adsorption on one sample of Canadian chrysotile and two samples of chrysophosphate has been 
+studied using chemical analysis and a surface method of analysis (photoelectron spectroscopy, XPS). Chrysophosphate was 
+obtained using a phosphorylation process applied to chrysotile fibres; one chrysophosphate sample was opened in a Pallrnann 
+device. XPS analysis of the samples before DNA adsorption has shown that some surface phosphorus was dissolved following 
+suspension of the fibres in distilled water. After DNA treatment, the amount of DNA adsorbed at the surface of the 
+
+chrysophosphate sample was lower than that adsorbed at the chrysotile surface (12.6 ? 1.7 kg/mg and 74.0 + 4.0 kg/mg 
+
+respectively). In addition, the opened sample adsorbed an intermediary DNA amount (28.3 2 5.6 kg/mg), suggesting that the 
+
+phosphorylation process has not reached 41 the bulk fibres. The results indicate that DNA adsorption is a sensitive method for 
+
+investigation of the surface state of the fibre. Moreover, it seems that the phosphorylation process masks or blocks the reactive 
+surface sites for DNA adsorption. 
+
+Introduction 
+L'usage commercial des fibres d'amiante fait peu a peu 
+place a celui d'autres matCriaux, le plus souvent fibreux, dont 
+le potentiel toxique n'est pas toujours connu. Les donntes 
+reportCes dans la littCrature ont montrC que, in vitro, la toxicit6 
+des fibres d'amiante Ctait caractCrisCe par une diminution de la 
+viabilitC cellulaire (1-4), une alteration de la structure des 
+chromosomes (5, 6), et une transformation des cellules (7, 8). 
+Sur le plan physico-chimique, la rkactivitt de surface des fibres 
+dans les phtnomknes d'adsorption a Ct C suggtrCe comme Ctant 
+l'un des facteurs responsables de certains effets toxiques. Les 
+fibres d'amiante montrent, en effet, une capacitC 2 adsorber 
+diffkrentes moltcules, aussi bien des cancCrig6nes chimiques 
+exoghes tels que le benzo(a)pyrkne (9) que des macro-
+molCcules endogknes. Bien que non absolue, une relation a pu 
+&amp;tre trouvCe entre la capacitC des minCraux a adsorber des 
+membranes synthktiques et leur potentiel cytotoxique (10-12). 
+L'adsorption d'acide dCoxyribonucltique (ADN), macromolC-
+
+1. Auteur a qui adresser toute correspondance. 
+
+2. RCvision reque le 14 octobre 1986. 
+
+cule qui contient le materiel gCnCtique, a Ct C reportCe par Chang 
+et al. (12) qui, de plus, ont mis en Cvidence une modification 
+de 17activitC enzymatique de la DNAse aprks adsorption sur les 
+fibres de chrysotile. Compte tenu de ces differents travaux, 
+nous avons CtudiC les proprittCs d'adsorption des fibres de 
+chrysophosphate, fibres de chrysotile ayant subi un traitement 
+de phosphorylation en voie gazeuse par POC13. Les ttudes 
+ont port6 sur l'adsorption d'ADN analysee par la mCthode 
+de spectromCtrie de photoklectrons (XPS ) et par l'analyse 
+chimique. 
+
+Methodes 
+
+I . Mate'riel 
+Les fibres de chrysotile phosphorylC (chrysophosphates 3-4-5 et 
+3-13-5) et non phosphorylC (4-4-3) ont Ct C fournies par la SociCtC 
+Nationale de I'Arniante, Sherbrooke, Quebec, Canada. La phosphory-
+
+lation a CtC obtenue par traiternent des fibres a l'oxychlorure de 
+
+phosphore, POC13 (17). Un courant de gaz sec (air, azote) est charge 
+en POC13, par barbotage dans ce liquide rnaintenu a une ternpkrature 
+contr61Ce. Le gaz porteur, chargC de POC13 en quantitC variable, selon 
+la tempkrature utilisCe, est dirigC vers un cylindre rotatif contenant 
+I'amiante B traiter. Un arrangement a contrecourant a Ct C utilisk, 
+
+Prinlcd In Canada i Imprime au Canada 
+
+Can. J. Chem. Downloaded from www.nrcresearchpress.com by 87.160.185.190 on 03/27/14 
+
+For personal use only. 
+
+
+TOUR 
+
+I'amiante arrivant par une extrCmitC du cylindre et le POC13 par I'autre. 
+Les Cchantillons 3-4-5 et 3-13-5 se distinguent par le fait que le 
+second Cchantillon a Ct C soumis 
+un dkfibrage mCcanique apres 
+phosphorylation (dCfibreur Pallrnann). 
+
+2 . Caracte'risation des e'chantillons en XPS 
+
+Avant traitement par I'ADN, les fibres ont Ct C caractCrisCes par 
+analyse XPS. Celles-ci ont Ct C mises en suspension dans de l'eau 
+
+distillCe a la tempkrature ambiante pendant 5 min, puis filtrkes sur 
+
+membrane Millipore. Une expCrience complCmentaire de plus longue 
+
+durCe a Ct C rCalisCe en incubant les fibres a 37°C pendant 6 h dans 
+
+l'eau distillke. 
+
+3. Adsorption d'ADN 
+Pour le traitement par I'ADN, les fibres ont Ct C dispersCes par 
+sonication pendant 10 min (50 kHz, 20 watts); la concentration en 
+fibres Ctait de 2 mg/mL dans une solution de KCI/NaCl 0,145 M. 
+L'ADN utilisC provenait de la SociCtC Sigma, Saint Louis, Missouri, 
+U.S.A. (ADN de thymus de veau). Les suspensions de fibres ont Ctt 
+mClangCes, volume a volume, avec des solutions d'ADN 
+des 
+
+concentrations croissantes. Le melange Ctait incubi a 37°C pendant 
+
+15 min. 
+
+Aprks incubation, le melange Ctait centrifuge pendant 30 min a 
+
+10 000 tours/min (12 000 x g) et les fibres lavCes 2 fois a l'aide de la 
+solution de KCl/NaClO, 145 M. Pour I'analyse XPS, les fibres ttaient 
+recueillies, aprks lavage, sur un filtre, c o m e dCcrit prCcCdemment 
+(13). 
+
+4 . Me'thodes analytiques 
+Le tracC des isothermes d'adsorption a Ct C effectut, pour des 
+concentrations en ADN croissantes, par dktermination de la densite 
+
+optique, a 255 nm, du surnageant obtenu aprks centrifugation, et par 
+
+rCfCrence a une courbe d'ktalonnage. Les mesures ont Ct C effectuCes 
+
+l'aide d'un spectrophotomktre Beckman modkle 24 (Beckman 
+Instruments France, Gagny, France). 
+
+L'analyse XPS a Ctt rCalisCe a l'aide d'un spectromktre AEI ES 200. 
+
+Les pics de photoClectrons Si2, et Mgzs ont Ct C utilisCs comme 
+rCfCrence pour la matrice silicatke; les pics P2, et C12, ont Ct C 
+enregistrCs pour mettre en Cvidence le traitement par POC13. Enfin, 
+I'ADN a Ctt caractCrisC par le pic d'azote N,,. La puissance de 
+radiation (MgKa) Ctait de 240 W. Le temps de balayage du spectre 
+
+Ctait rCduit A 15 min/Cchantillon afin de minimiser les effets de 
+
+l'irradiation sur la molCcule dlADN. Le pic NIs caractkristique de la 
+moltcule d'ADN est un pic complexe qui prksente 2 composantes 
+principales qui ont pu &amp;tre dCterminCes par ajustement en utilisant la 
+mCthode des moindres carrCs l'aide d'un microordinateur HP 85 
+(fig. 1). 
+La spectromttrie XPS, mCthode d'analyse basCe sur le processus 
+
+photoClectronique, est quantitative lorsqu'elle est appliquCe a une sCrie 
+
+d'Cchantillons de meme nature. Pour un solide dont 1'Cpaisseur est 
+
+sup6rieure a 4 fois le libre parcours moyen ( A ) des Clectrons CtudiCs, 
+
+I'intensitC du signal XPS est de la forme : 
+
+oh a = aire de I'Cchantillon, F = flux des rayons X incidents, S = 
+facteur de transmission de l'analyseur, u = section efficace de pho-
+toionisation, et C = concentration atomique de 1'ClCment considCr6. 
+
+Resultats et discussion 
+1. Analyse XPS des kchantillons lessive's dans l'eau distille'e 
+Les rksultats sont prCsentCs dans le tableau 1 oil sont 
+indiqutes les intensites des pics XPS ainsi que les intensites 
+normalisCes au pic SiZp qui est utilisC habituellement comme 
+rtfkrence. 
+Sur les deux Cchantillons de chrysophosphate (3-4-5 et 
+3-13-3, on constate la prCsence de phosphore ( E l = 134,6 eV, 
+valeur proche d'un phosphate) et de chlore (El = 199,2 eV, 
+valeur observte g~nkraleiient pour un chlorure). L'Cchantillon 
+3-4-5 est le plus enrichi en ces deux ClCments. 
+
+FIG. 1. Spectre N de 1'ADN. Les 2 composantes ont Ct C determi-
+ntes par le calcul c o m e dCcrit dans le texte. u.a. : unites arbitraires; 
+e.V. : electron volt; E.C. : Energie CinCtique. 
+
+On peut noter que 1'intensitC du pic Mg2, normalisCe au pic 
+de silicium Si2, est, pour 1'Cchantillon 4-4-3, la mCme avant et 
+aprks traitement dans l'eau distillCe, alors que cette intensit6 
+est nettement plus faible, aprks lavage, pour les 2 chryso-
+phosphates. Pour ces derniers, l'abaissement significatif du 
+rapport Mg2,/SiZp s'accompagne d'une diminution importante 
+des pics P2, et C12, ainsi que des rapports P2,/Si2, et 
+C12,/Si2, qui sont diminuCs d'un facteur 4 et 10, respective-
+ment. Cependant, la composition superficielle semble se stabili-
+ser rapidement puisque l'essai 6 h 2 37°C fournit des rksultats 
+trks voisins de ceux obtenus aprks quelques minutes 2 la 
+tempkrature ambiante. 
+Les intensitCs des pics SiZp des echantillons avant traitement 
+par 1'ADN sont indiquCes dans le tableau 2. On peut remarquer 
+que les valeurs sont voisines pour les trois Cchantillons Ctudits. 
+En outre, les valeurs du rapport Mg2,/SiZp montrent que la 
+surface du chrysophosphate est appauvrie en magnCsium et 
+que 1'Cchantillon dCfibrC (3-13-5) prCsente une composition 
+intermkdiaire entre le chrysophosphate non dCfibrC (3-4-5) et le 
+chrysotile tCmoin (4-4-3). Ces rtsultats montrent qu'une partie 
+du phosphore fix6 a la surface des fibres de chrysophosphate 
+l'est sous forme soluble. Par ailleurs, lors du traitement par 
+POC13, l'extraction du magnesium sous la forme probable d'un 
+phosphate acide, mobilise essentiellement la couche brucitique 
+externe des fibrilles de chrysotile. Un argument est apportC par 
+la valeur thCorique du rapport XPS Mgz,/Siz,, pour une fibrille 
+ClCmentaire entikrement lixiviCe sur la premikre couche. Ce 
+rapport s'Ctablit 2 0,69 alors qu'il est de 0,81 pour le chrysotile 
+de rCfCrence (1 3, 14). La valeur 0,63 obtenue pour le chryso-
+phosphate (3-4-5) trait6 dans l'eau est donc trks proche de celle 
+qui caractCrise une fibre dont la couche brucitique externe aurait 
+Ct C lessivCe. 
+
+2. Adsorption d'ADN 
+2 .a. lsothermes d'adsorption : analyse chimique 
+
+Les rCsultats sont exprimis sur la figure 2. L'affinitC pour 
+I'ADN est la plus grande pour le chrysotile tCmoin (4-4-3) 
+pour lequel la quantitC d'ADN adsorbCe au plateau est 74,O t 
+4,O pg/mg (n = 6); elle est plus faible pour le chrysophosphate 
+non dtfibrt : 12,6 2 1,7 pg/mg (n = 6); elle est intermidiaire et 
+moins reproductible pour le chrysophosphate dCfibrC 28,3 t 
+5,6 pg/mg (n = 7), ce qui suggkre que llintCrieur des fagots de 
+fibrilles a pu Cchapper au traitement par POC13. En effet, on 
+Can. J. Chem. Downloaded from www.nrcresearchpress.com by 87.160.185.190 on 03/27/14 
+
+For personal use only. 
+
+
+CAN. 1. CHEM. VOL. 65, 1987 
+
+TABLEAU 1. Effet du lessivage dans l'eau distillee, donnees XPS 
+
+chant ill on" 
+
+-
+
+4-4-3 
+3-4-5 
+3-13-5 
+
+Mgzs 
+Sizp 
+Mgz, 
+Sizp 
+Pzp 
+Clzp 
+Mgzs 
+SiZp 
+Pzp 
+Clzp 
+Fibres avant mise en suspension 
+2 1 1 
+
+206 
+93 
+114 
+96 
+83 
+108 
+143 
+82 
+81 
+
+H20, 20°C, 5 min 
+
+296 
+286 
+182 
+290 
+66 
+19 
+190 
+282 
+38 
+20 
+
+H20, 37"C, 6 h 
+
+284 
+282 
+178 
+286 
+52 
+15 
+194 
+277 
+36 
+13 
+
+Bc 
+
+Mg2,/SizP 
+Mgzs/SizP PZ,/S~~,, Clzp/Sizp 
+Mgz,lSizp Pb/Sizp Cl9/Si2(, 
+Fibres avant mise en suspension 
+
+0,83 
+0,83 
+0,83 
+0,74 
+0,75 
+0 3 7 
+0,57 
+
+H20, 20°C 5 min 
+
+0,82 
+0,63 
+0,23 
+0,06 
+0,67 
+0,13 
+0,07 
+
+H20, 37"C, 6 h 
+
+0,84 
+0,63 
+0,19 
+0,06 
+0,70 
+0,13 
+0,06 
+
+"4-4-3 Chrysotile non traitC. 3-4-5 Chrysophosphate. 3-13-5 Chrysophosphate dCfibrC Pallmann. 
+b~ : Surface des pics (unite arbitraire). 
+
+' B : IntensitC normalisCe 1 Si,,. 
+
+TABLEAU 2. Surface des pics des tchantillons de 
+
+. 
+
+rtftrence. Les pics SFA (fibres longues et fines)" 
+
+D 
+
+4 -4 -3 
+
+et FCC (fibres courtes obtenues par flottaisonlb sont 
+
+v 
+
+prtsenttes h titre comparatif (unit6 arbitraire) 
+
+4-4-3 
+286+ 10 
+0,81*0,03 
+3-4-5 
+299k 5 
+0,63k0,01 
+3-13-5 
+291 k 10 
+0,69&amp;0,02 
+
+SFA 
+
+1502 15 
+0,76k0,03 
+
+FCC 
+289+ 15 
+0,79k0,03 
+
+"Don de J. C. Wagner, Penarth, Wales, G.B. 
+
+bDon de F. Kimmerle, Quebec, Canada. 
+
+'4-4-3 Chrysotile non traitC. 3-4-5 Chrysophosphate. 
+3-13-5 Chrysophosphate dCfibrC Pallmann. 
+
+peut admettre que le dCfibrage Pallmann a, de maniere plus ou 
+moins alCatoire, ouvert les fagots de fibrilles, permettant ainsi 
+d'exposer des fibres entieres et (ou) des parties de fibres vierges. 
+2 .b. Analyse XPS 
+Les rCsultats sont prtsentb sous la forme de courbes oh le 
+rapport Nls/Si2, a Ct C report6 en fonction de la concentration 
+initiale en ADN (fig. 3). 
+On peut constater, sur la figure 3, qu'il existe une dispersion 
+variable des rksultats, faible pour les Cchantillons 4-4-3 et 3-4-5, 
+et maximale pour 1'Cchantillon de chrysophosphate dCfibrC. 
+Ceci Ctait tgalement obsewC sur les isothermes (fig. 2). Par 
+ailleurs, l'examen des courbes indique que la valeur au plateau 
+est atteinte tres rapidement pour le chrysophosphate alors qu'il 
+faut des concentrations en ADN nettement supkrieures dans le 
+cas du chrysotile tCmoin. Le chrysophosphate dCfibrC prtsente 
+un comportement intermkdiaire entre les deux autres. Toute-
+fois, la comparaison des figures 2 et 3 montre que le rapport des 
+hauteurs des plateaux relatifs aux Cchantillons 4-4-3 et 3-4-5 est 
+d'environ 6 pour les isothermes d'adsorption alors qu'il est 
+d'environ 3 pour les courbes XPS. Nous n'avons pas d'explica-
+tion simple de ce fait qui, selon nous, pourrait traduire une 
+diffkrence dans la configuration des molCcules adsorbtes. Cette 
+hypothese repose sur un calcul simple qui compare les donnCes 
+de l'analyse XPS et de l'analyse chimique; elle est basCe sur les 
+risultats montrant que le chrysophosphate fixait 6 fois moins 
+d'ADN que le chrysotile tCmoin, alors que le taux de recouvre-
+ment ne diminuait pas dans les m&amp;mes proportions. 
+Si nous faisons l'hypothese que les macromolCcules d'ADN 
+
+adsorbtes a la surface des fibres ont une tpaisseur 1 &gt; 4X, le 
+
+FIG. 2. Isothermes d'adsorption de I'ADN sur les differents tchan-
+tillons. 4-4-3 Chrysotile non traitt. 3-4-5 Chrysophosphate. 3-13-5 
+Chrysophosphate dtfibrt Pallmann. 
+
+signal N,, , caracttristique de l'adsorbat, sera proportionnel au 
+taux de recouvrement 0 de I'ADN, tandis que le signal SiZp, 
+caractkristique du substrat, sera proportionnel a (1 -0). Le 
+paramktre R = I(NlS)/I(SiZp) (fig. 3) sera alors proportionnel 
+0/(1 -0). 
+Par ailleurs, on peut supposer que les molCcules d'ADN 
+adsorbtes sur le chrvso~hos~hate et sur le chrysotile tCmoin ont 
+
+&lt; 
+-
+
+A 
+
+le m&amp;me volume molCculaire; soit n , le nokbre de molCcules 
+d'ADN adsorbees sur le chrysophosphate et n', le nombre d e 
+molCcules d'ADN adsorbees sur le chrysotile temoin, on aura, 
+d'apres les rCsultats de l'analyse chimique, n' = 6n. L'analyse 
+XPS nous indique par ailleurs que R' = 3R; ou encore 
+
+Le taux de recouvrement du chrysophosphate par I'ADN est 
+Cgal au nombre n de molCcules par unit6 de surface multipliC par 
+s, aire d'une molCcule projetCe sur la surface. I1 vient : 
+
+De m&amp;me pour le chrysotile tCmoin : 
+
+[3] 0' = n's' = 6ns' 
+La combinaison des relations [I], [2] et [3] permet d'obtenir une 
+Can. J. Chem. Downloaded from www.nrcresearchpress.com by 87.160.185.190 on 03/27/14 
+
+For personal use only. 
+
+
+TOURAY ET AL. 
+
+t : " 
+
+kJg/m L 
+
+FIG. 3. Analyse XPS. Evolution du rapport d'intensitk des pics N Ir/Silp (aire des pics) en fonction de C,, concentration initiale en ADN. 4-4-3 
+Chrysotile non trait&amp; 3-4-5 Chrysophosphate. 3-13-5 Chrysophosphate dkfibrt Pallmann. 
+
+relation qui relie s, s t et 0' : 6 s 1 / s + 20' = 3; par exemple, 
+
+pour 8' = i, on obtient s = 3s' et, d'aprks [I], 0 = a. 
+
+Ce calcul simple ne permet pas de rCsoudre le systkme mais 
+les resultats de l'analyse chimique et ceux de l'analyse XPS 
+conduisent finalement a formuler l'hypothkse d'un plus grand 
+Ctalement des macromol~cules d'ADN 2 la surface du chryso-
+
+phosphate qu ' i celle du chrysotile tCmoin. 
+
+Conclusion 
+
+Les expCriences effectuCes montrent que l'adsorption d' ADN 
+est un test sensible pour apprCcier 1'Ctat de surface des fibres de 
+chrysotile. L'interprCtation complkte des resultats suppose des 
+comparaisons avec l'adsorption de molCcul~s biologiques de 
+plus petite taille et de fonne non fibrillaire. A l'heure actuelle, 
+les rCsultats relatifs h 1'ADN conduisent cependant ii formuler 
+l'hypothkse d'un blocage des sites superficiels actifs par le 
+phosphore ou par un compose phosphate. On soulignera qu'il 
+n'est pas indispensable que tous les sites actifs aient Cte bloquCs 
+par la phosphorylation pour expliquer les rCsultats obtenus : la 
+possibilitC de fixation d'une macromolecule organique est, en 
+particulier, fonction de sa dimension et de sa forme. Un effet 
+de b a n i h e sterique (15) peut jouer un r6le pour contr6ler 
+l'adsorption de macromolecules fibrillaires telles que 1'ADN. 
+La prCsence de phosphore fixe superficiellement diminue les 
+propriCtCs sorptives du mattriau vis-a-vis des molCcules biolo-
+giques telles que I'ADN; il a Ct C Cgalement observe une diminu-
+tion des capacitCs d'adsorption de certains phospholipides du 
+surfactant pulmonaire (rCsultats non publics). Ces diffkrents 
+rksultats peuvent &amp;tre en relation avec la diminution de l'effet 
+cytotoxique des fibres de chrysotile phosphatC (16). On peut par 
+ailleurs se demander si la diminution du pouvoir clastoghe 
+(cassures de chromosomes) de ces fibres (16), comparativement 
+au chrysotile non phosphatC, a un lien avec la diminution de 
+l'adsorption d7ADN reportCe ici. 
+
+Rernerciernents 
+
+Ce travail a CtC rCalisC a l'aide de financement SociCtC 
+
+Nationale de 1' Amiante, QuCbec, Canada et au moyen de fonds 
+
+du Centre National de la Recherche Scientifique et d e 1'Institut 
+National de la S a n d et de la Recherche MCdicale. 
+
+1. B. REISS, S. SOLOMON, J. WEISBURGER et G. M. WILLIAMS. 
+Environ. Res. 22, 109 (1980). 
+2. M. J. WADE, J. E. LIPKIN, R. W. ~' U C K E R et A. L. FRANK. 
+Nature, 264, 444 (1976). 
+3. M. CHAMBERLAIN et R. C. BROWN. Br. J. Exo. Pathol. 59. 183 
+(1978). 
+4. M. C. JAURAND, I. BASTIE-SIGEAC, J. BIGNON et P. STOEBNER. 
+Environ. Res. 30,255 (1983). 
+5. A. SINCOCK et M. SEABRIGHT. Nature, 257, 56 (1975). 
+6. G. K. LIVINGSTON, W. N. ROM et M. V. MORRIS. J. Environ. 
+Pathol. Toxicol. 4, 373 (1980). 
+7. T. W. HESTERBERG et J. C. BARRETT. Cancer Res. 44, 2170 
+(1984). 
+8. M. J. PATEROUR, J. BIGNON et M. C. JAURAND. Carcinogenesis. 
+6, 523 (1985). 
+9. H. MENARD, L. NOEL, F. KIMMERLE, L. TOUSIGNANT et M. 
+LAMBERT. Anal. Chem. 56, 1240 (1984). 
+10. M. C. JAURAND, L. MAGNE, J. L. BOULMIER et J. BIGNON. 
+Toxicology, 21, 323 (198 1). 
+11. M. C. JAURAND, L. MAGNE et J. BIGNON. Toxicol. Lett. 15,205 
+(1983). 
+12. M. J. W. CHANG, L. B. JOSEPH, R. E. STEPHENS et R. W. HART. 
+J . Am. Coll. Toxicol. 2, 187 (1983). 
+13. M. C. JAURAND, P. BAILLIF, J. H. THOMASSIN, L. MAGNE et 
+J. C. TOURAY. J. Colloid Interface Sci. 95, 1 (1983). 
+14. J. H. THOMASSIN, J. GONI, P. BAILLIF, J. C. TOURAY et M. C. 
+JAURAND. Phys. Chem. Miner. 1, 385 (1977). 
+15. M. J. ROSEN. Surfactants and interfacial phenomena. J. Wiley 
+and Sons, New York, Toronto. 1978. 
+16. M. C. JAURAND, A. RENIER, A. GAUD~CHET, L. KHEUANG, 
+L. MAGNE et J. BIGNON. Ann. NY Acad. Sci. Sous presse. 
+17. J. M. LALANCETTE et J. DUNNIGAN. U.S. Patent 4,356,057. 
+26 octobre 1982; Canadian Patent 1 169230. 1984; J. M. LALAN-
+CETTE, M. COSETTE et P. DELVAUX. U.S. Patent 4,495,223. 
+22 janvier 1985. 
+Can. J. Chem. Downloaded from www.nrcresearchpress.com by 87.160.185.190 on 03/27/14 
+
+For personal use only. 
+
+
+
+	
+

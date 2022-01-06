@@ -1,0 +1,513 @@
+
+	
+
+		
+
+	
+
+	
+
+Isomerisation des radicaux insatures. 
+111. Radicaux cx,cx,p-, cx,P,y-et cx,cx,y-trimethallyles 
+
+HELENE DESLAURIERS ET GUY J . COLLIN' 
+
+DPpartement des sciences fondamentales, Universitk du QuPbec a Chicoutimi, Chicoutimi (Qut.), Canada G7H 2BI 
+R e ~u le 21 dtcembre 1984 
+
+HELENE DESLAURIERS et GUY J. COLLIN. Can. J. Chem. 63, 3 168 (1985). 
+
+Nous avons gentrt les radicaux a , a , p -, a,P,y-et a,a,y-trimtthallyles en photolysant a 147,O nm les trimethyl-2,3,3 
+
+butkne-I, dimithyl-3,4 pentkne-2 et dimethyl-2,4 pentene-2 sous des pressions de quelques tom. Dans ces conditions, une part 
+importante de ces radicaux ont une Cnergie interne suffisante pour se fragmenter en divers dienes-1,3 et un peu de diknes-1,2 
+et -2,3. Afin d'expliquer la formation de ces produits, on fait appel a un micanisme d'isomerisation base sur un transfert interne 
+1,4 d'un atome d'hydrogkne. La fragmentation des radicaux allyles trimethylks se fait surtout par rupture d'un lien P(C-C), 
+puis P(C-H) et, de f a ~o n beaucoup moindre, par celle d'un lien central C-CH3. 
+
+HELENE DESLAURIERS and GUY J. COLLIN. Can. J. Chem. 63, 3 168 (1985). 
+a , a , p -, a,P,y-, and a,a,y-trimethallyl radicals have been generated in the 147.0-nm gas phase photolysis of 2,3,3-tri-
+methyl-I-butene, 3,4-dimethyl-2-pentene, and 2,4-dimethyl-2-pentene, respectively. Under these conditions, the majority of 
+allyl radicals have an internal energy sufficient for further decomposition: they give rise to the formation of various 1,3-dienes 
+and small amounts of either 1,2-or 2,3-dienes. An internal sigmatropic 1,4-hydrogen atom transfer process is part of the 
+proposed mechanism to explain such products. Moreover, the fragmentation of the trimethyl substituted allyl radicals involves 
+the split of one P(C-C) bond, then one P(C-H), and, to a lesser extent, one central C-CH3 bond. 
+
+Introduction 
+Dans de precedentes etudes, nous avons montrk que la 
+photolyse des alcknes entre 147,O et 184,9 nm constitue une 
+bonne source de radicaux allyles, puisque ceux-ci sont formes 
+avec des rendements quantiques qui depassent 0,5 et qui 
+atteignent parfois 0,9 (1, 2). Ces radicaux sont cependant 
+produits avec une energie vibrationnelle relativement im-
+portante, de telle sorte que ces radicaux "chauds" se fragmen-
+tent pouwu que la pression soit suffisamment faible pour ne pas 
+les stabiliser par collision (3, 4). Les precedents rapports de 
+cette sCrie ont de plus montre que ces reactions de fragmen-
+tation sont en competition avec des reactions d'isornerisation. 
+Par exemple, le radical a,P-dimethallyle s'isomerise vers la 
+forme a,a-dimethallyle et inversement (5). I1 en est de m&amp;me 
+du radical a,y-dimtthallyle qui s'isomerise vers la forme 
+a-tthallyle et inversement (6). 
+Le but de ce rapport est de verifier ces comportements sur les 
+trois radicaux trimCthallyles en scrutant leurs produits de frag-
+mentation. 
+
+Methode experimentale 
+
+Les trimethyl-2,3,3 buttne-1 (tM233B1), dimethyl-3,4 cis-
+penttne-2 (dM34P2) et dimethyl-2,4 pentene-2 (dM24P2) sont des 
+produits API. Les puretes affichies de m&amp;me que les analyses de ces 
+monomeres sont brikvement indiqutes dans le tableau 1. L'oxygene 
+(99,98%) et I'isobutene (99,9%) sont des produits Matheson du Ca-
+nada (gaz de qualit6 recherche). Tous ces produits sont utilises tels que 
+
+r e p s et manipults a I'aide d'une rampe a vide en Pyrex (1-6). 
+
+Les photolyses sont effectutes a 147,O nm en utilisant une lampe de 
+risonance xenon entrainee par un gentrateur micro-onde (7). La 
+purete spectrale de la lampe entre 120 et 250 nm est vkrifite a I'aide 
+
+d'un monochromateur McPherson de f m. L'actinometrie est realisee 
+
+en comparant les produits de dCcomposition a ceux obtenus dans la 
+photolyse de l'isobutkne cP(al1kne) = 0,52 (8). Toutes les irradiations 
+
+ont kt6 faites la temperature de la chambre (T -20°C). Les analyses 
+
+sont faites par chromatographie en phase gazeuse en utilisant soit une 
+colonne de squalane (9), soit une colonne de UCON (10) a la tem-
+perature de 50°C. 
+
+' Auteur a qui adresser la correspondance. 
+
+TABLEAU 1. Analyse des monomkres 
+
+Impureti affichee 
+Impuretts visibles par 
+Monomere 
+
+(%I 
+
+chromatographie (ppm) 
+
+Isobutene 
+0,1 
+Isobutane: 920550 
+Propane: 
+6 0 2 10 
+tM233B 1 
+0,06?0,04 
+Dimethyl-3,3 
+butkne-1 : 
+15 
+dM34P2(cis) 
+0,11?0,08 
+~t h ~l -2 
+methyl-3 butene-I: 
+400 t 5 
+dM24P2 
+0,1450,04 
+dM34P2 (trans): 650 
+Trimithyl-1,3,4 penthe-2 
+
+( ?) : 
+
+50 
+
+Resultats 
+Le tableau 2 montre les rendements quantiques des produits 
+obtenus dans les photolyses des tM233B 1, dM34P2 et dM24P2 
+en presence de 10% d'oxygkne. On observe une formation de 
+C, avec des rendements quantiques non negligeables. Par 
+exemple, le rendement en C,H, est 0,20 dans la photolyse du 
+tM233B 1. Par contre, les rendements en produits C, sont fai-
+bles et n'apparaissent que dans la photolyse du dM34P2. Les 
+dienes-1,3 sont les produits majeurs dans chacun des cas. Le 
+dimethyl-2,3 butadikne-1,3 est le produit majeur dans la photo-
+lyse du tM233B1. Dans le cas du dM34P2, l'isoprene et le 
+methyl-3 pentadiene-1,3 ont des rendements similaires et 
+importants. Finalement, le dM24P2 donne lieu ? i 
+la formation 
+de methyl-4 pentadikne-1,3, d'isoprkne et de methyl-2 
+pentadikne-1,3. L'effet de pression a etC CtudiC dans le cas du 
+melange tM233B1 -02 (100: 10). On observe que les ren-
+dements en dimethyl-2,3 butadikne-1,3 (A) et en methyl-3 
+butadikne-1,2 (B) dkcroissent avec l'augmentation de la pres-
+sion et que @(A)/@(B) = 7,5 (a = 0,65), quelle que soit la 
+pression de monomkre entre 2 et 50 Torr (1 Torr = 133,3 Pa). 
+Cet effet de pression est rapport6 dans la figure 1 sous la forme 
+de courbes de type Stern-Volmer: [ @ ( x ) ] -' = f ( P ) . 
+A ce point, il faut noter que les resultats semblent indiquer 
+une certaine invariance des rendements entre 5 et 10 Torr, tout 
+Can. J. Chem. Downloaded from www.nrcresearchpress.com by 87.160.185.190 on 03/27/14 
+
+For personal use only. 
+
+
+DESLAURIERS ET COLLIN 
+
+TABLEAU 2. Photolyse d'alcknes en prCsence de 10% d'oxygkne B 147,O nm. Rendements quan-
+
+tiques des rnonomkres 
+
+Rendement 
+
+tM233B I 
+dM34P2 
+dM24P2 
+
+Alckne 
+5 Torr 
+10 Torr 
+5 Tom 
+10 Torr 
+5 Torr 
+10 Torr 
+
+Propkne 
+Propyne 
+Allkne 
+Butadikne-l,2 
+Butyne-2 
+Methyl-3 butadikne-1,2 
+DimCthyl-2,3 butadikne-1,3 
+Isoprkne 
+
+Pentadikne-1,2 + 1,3 (cis) 
+
+Pentadikne-2,3 
+Pentadikne-1,3" (trans) 
+Ethyl-2 butadiene-1,3 
+MCthyl-3 pentadikne-1,3" 
+MCthyl-2 pentadikne-1,3' 
+MCthyl-4 pentadikne-I,? 
+DimCthyl-2,4 pentadikne-1,3 
+
+"Translcis = 1,5 C 0,2. 
+
+bTrans/cis = 1,9 * 0,2. 
+
+"n.m., non mesure. 
+
+TABLEAU 3. Rendements quantiques observes dans la photolyse de trois hep-
+tknes ramifiCs, purs, B 147 nm" 
+
+Produit 
+tM233B 1 
+dM34P2 (cis) 
+dM24P2 
+
+MCthane 
+Ethane 
+Isobutane 
+NCopentane 
+Methyl-2 butkne-1 
+DimCthyl-2,3 pentkne-2 
+DimCthyl-3,4 pentkne-2 (trans) 
+DimCthyl-3,3 pentkne-l 
+Ethyl-2 mCthyl-3 butkne-I 
+DimCthyl-4,4 pentkne-2 (trans) 
+
+MCthyl-3 hexkne-3 (trans) + 
+
+trimtthyl-2,2,4 pentane 
+TrirnCthyl-2,3,4 pentane 
+TrirnCthyl-2,2,3 pentane 
+TCtramCthyl-2,2,3,3 butane 
+
+"Pression de l'alckne: 5 Torr (665 N m-'), 
+'200 Tom de SF, ont et&amp; ajoutks. 
+
+au moins en ce qui concerne ceux obtenus dans les cas des 
+tM233B 1 et dM34P2. PrCcisons que sur une grande Cchelle de 
+pression, il y a plut6t dCcroissance lente des rendements avec 
+I'augmentation de la pression (fig. 1). Dans le cas du dM24P2, 
+il semble au contraire y avoir une augmentation des rendements 
+des produits avec l'augmentation de la pression (tableau 2, 
+colonnes 6 et 7). Comme nous n'avons pas essay6 d'Ctendre ces 
+mesures sur une plus grande Cchelle de pression, et compte tenu 
+des incertitudes experimentales apprkhendtes (voir, par exem-
+ple, la distribution des resultats rapportks sur la figure l), il 
+semble pr6maturC de discuter plus h fond cette apparente aug-
+mentation des rendements. 
+Les dM34P2 et dM24P2 ont ttC photolyses sans aucun addi-
+tif (tableau 3). On y a observe l'apparition d'un certain nombre 
+de produits. L'Cthane (@ = 0,5) est le produit majeur. D'autres 
+
+produits tels que l'isobutane, des heptanes, des heptknes et des 
+octanes (tous ramifies) sont aussi formCs, alors qu'ils 
+n'apparaissent pas dans les photolyses r6alisCes en presence 
+d'oxygkne. 
+Ces produits (sauf le methane) sont formCs par reactions de 
+combinaison entre les radicaux mCthyles et des radicaux 
+allyliques C7H,, ou satures C7Hj3. On ne rediscutera pas plus 
+loin de ces resultats. I1 suffit ici de rappeler que ces produits (et 
+leur mode de formation anticipee) appuient les schCrnas 
+rkactionnels proposes plus loin. 
+
+Discussion 
+Fragmentation des rnoltcules photo-excittes 
+I1 est maintenant bien Ctabli que les alcknes photo-excites, 
+Clectroniquement excites dans un Ctat singulet, retournent vers 
+Can. J. Chem. Downloaded from www.nrcresearchpress.com by 87.160.185.190 on 03/27/14 
+
+For personal use only. 
+
+
+3170 
+
+CAN. J. CHEM. 
+
+1 
+
+0 
+
+2 0 
+
+Torr 
+
+40 
+
+FIG. 1. Photolyse du mClange tM233B1-O2 (100: 10) ii 147 nm, 
+en fonction de la pression de I'alckne; . : 
+@(dimCthyl-2.3 butadikne-
+
+1,3)-' (y = 2,91 + 0,072 P (Torr), r2 = 0,97); @: @(mCthyl-3 
+
+butadikne-l,2)-'. 
+
+leur ttat fondamental en transformant leur Cnergie Clectronique 
+en Cnergie vibrationnelle, de sorte que la fragmentation obser-
+vCe est essentiellement le fait de la molCcule vibrationnelle-
+ment trks chaude. Dans ces conditions, et en premikre approxi-
+mation, la fragmentation implique la rupture du (des) lien(s) 
+
+le(s) plus fragile(s). Les molCcules photolystes a 147,O nm ont 
+toutes une liaison C-C situCe en position p par rapport a la 
+
+double liaison. Comme ce sont des liens relativement fragiles 
+
+(1 1-13), on ne peut que s'attendre a une scission primaire 
+
+P(C-C) importante (1, 14). 
+
+[21 
+CH,CH=C(CH,)CH(CH,)2 + CH, 
+
++ CH,CHC(CH,)CHCH~ 
+
+ou le double astkrisque denote la molCcule photo-excitie et 
+l'asttrisque simple, un radical allyle chaud. En effet, l'energie 
+
+du photon est de quelque 81 1 kJ einstein-' auxquels il faut 
+
+ajouter 1'Cnergie thermique de la molCcule a la temperature de 
+la chambre, soit environ 12 kJ mol-'. L'Cnergie du lien 
+P(C-C) est de quelque 293 kJ mol-I (1 1 -13). L'excCdent 
+dlCnergie du photon (-530 kJ mol-I) est distribue entre les 
+tissus vibrationnels des deux fragments et leur energie relative 
+cinktique et rotationnelle (2-4). 
+D'autres reactions de fragmentation sont egalement possi-
+b l e ~ mais avec une probabilitk beaucoup plus faible, puisque 
+les chaleurs de liaison sont plus ClevCes. Des ruptures 
+P(C-HI) (cas des dMP2), a(C-C) et a(C-H) sont dis-
+ponibles. La chaleur de liaison P(C-HI) est d'environ 30 kJ 
+m o l l plus Clevee que celle du lien P(C-C) (15). p s produits 
+issus des fragmentations des radicaux allyles C7H,, (des C7H,2 
+et des C6Hlo) sont sans doute formCs avec de faibles rendements 
+et seulement certains d'entre eux peuvent interferer avec les 
+produits mesuris ici. 
+Les produits en C,, et probablernent en C,, apparaissant dans 
+le tableau 2, sont certainement le resultat de fragmentation 
+primaire a(C-C), avec des rendements limit&amp;. Par exemple, 
+la formation de propyne et d'allkne est raisonnablement expli-
+quee sur la base du mecanisme impliquant la rupture primaire 
+d'un lien a(C-C) avec fragmentation subsequente du radical 
+propknyle-2 excite (1 6). 
+
+De la mCme manikre, le dM34P2 peut former le propyne, le 
+propene et le butyne-2: 
+
+Compte tenu du fait que (i) le lien P(C-C) 
+est le plus 
+fragile, et (ii) la rupture P(C-HI) semble moins probable, a 
+tout le moins dans les cas du methyl-3 butkne-1 (17) et du 
+dimethyl-2,3 butene-1 (5), l'intervention des intermediaires 
+resultant des fragmentations primaires P(C-H,) 
+peut Ctre 
+ignoree. Une preuve de la fragmentation de la molCcule photo-
+excitee par rupture primaire du lien P(C-C) et de son im-
+portance peut Ctre extraite de la lecture des rendements des 
+produits d'origine radicalaire (tableau 3). On peut observer en 
+effet la formation, en quantitks apprkciables, des radicaux 
+mCthyles (@ = 1,2 -+ 0,2) a travers les formations d'ethane 
+
+(CH, + CH,), d'isobutane (CH, + iso-C,H7), de trimethyl 
+pentanes (CH, + C7HI5), de dimethylpentenes (CH, + 
+C6Hl,), . . . I1 faut remarquer qu'un rendement superieur a 
+
+I'unitC n'est pas anormal puisque, comme on le verra plus tard, 
+a la rupture primaire principale, s'ajoutent des reactions secon-
+daires libCrant des radicaux mCthyles avec formation concomi-
+tante de diknes en C5. De la mCme manikre, bien que ce soit de 
+f a ~o n moins evidente sur le plan quantitatif, les structures des 
+divers heptenes ramifies formes sont compatibles avec soit le 
+radical allyle forme dans la rupture primaire, soit les radicaux 
+allyles issus de I'isomCrisation du precedent par transfert in-
+terne d'un atome d'hydrogkne entre les positions 1,4. 
+
+Radical a , a, P-trirnkthallyle 
+Form6 dans la reaction [I], ce radical excite ne posskde que 
+des liaisons P(C-H) 
+et une liaison centrale C-CH, 
+sus-
+ceptible~ de se fragmenter. 
+
+Les produits attendus sont ceux observes dans un rapport 
+7 3 : 1 a l'avantage de la formation du dimethyl-2,3 butadikne-
+1,3 (@ = 0,30). Cette fragmentation est en accord avec les 
+observations dkja rCalisCes dans la photochimie du tetramt-
+thylkthylkne -dimethyl-2,3 butene-2 (18). L'isomCrisation du 
+radical a,a,P-trimkthallyle, par deplacement interne d'un 
+atome d'hydrogkne entre les positions 1 et 4, est triviale: elle 
+reproduit le radical original. 
+I1 faut noter que les reactions [ l l ] sont endothermiques. La 
+chaleur de formation du radical a,a,P-trimkthallyle a Cte mesu-
+rCe: AH: = 40 r 4 kJ mol-' (15). En admettant que 1'Cnergie 
+d'activation de la reaction (1 l a ] est =5 kJ mol-' (19) et celle 
+de la reaction [I 1 b], = 25 kJ mol-I, cela conduit i estimer 1es 
+
+Can. J. Chem. Downloaded from www.nrcresearchpress.com by 87.160.185.190 on 03/27/14 
+
+For personal use only. 
+
+
+Can. J. Chem. Downloaded from www.nrcresearchpress.com by 87.160.185.190 on 03/27/14 
+
+For personal use only. 
+
+
+CAN. 1. CHEM. VOL. 63. 1985 
+
+SCHEMA 2. ~volution du radical a,a,y-trirnCthallyle (cercle median gauche). 
+
+0,13) et les methyl-2 pentadikne-1,3 (cis et trans) (@ = 0,06) 
+sont les produits principaux probablement formes au prorata 
+des atomes d'hydrogkne disponibles. Le diplacement 1,4 d'un 
+atome d'hydrogkne produit les radicaux soit a-isopropyles, soit 
+a-ethyl-P-mCthallyles et on peut s'attendre a une formation 
+subsiquente de pentadikne-1,3 (cis et trans) (@ = 0,04) et 
+d'isoprkne (@ = 0,09). 
+L'importance relative de la formation de pentadikne-1,3 et 
+d'isoprkne est probablement le resultat de plusieurs facteurs. 
+On peut cependant noter que le radical a,a,y-trimkthallyle a 
+deux voies rkactionnelles pour aller vers la forme a-ethyl-
+P-mkthallyle et une seule vers la forme a-isopropylallyle. 
+Cette proportion correspond au rapport @(pentadhe-1,3)/ 
+@(isoprkne). I1 est pertinent de revenir ici sur le mecanisme du 
+transfert interne en 1,4 d'un atome d'hydrogkne dans les radi-
+caux mCthallyles. La structure du groupe allyle est plane (22) 
+et le radical mCthyle est situe soit en position cis, soit en trans 
+(fig. 2). I1 est Cvident que, d'apres cette figure, le dkplacement 
+1,4 est nettement favorise dans la structure cis et probablement 
+beaucoup plus difficile dans le cas de la structure trans. I1 faut 
+rappeler-que 1'Cnergie interne des radicaux allyles qui se frag-
+mentent est considCrable (voir plus haut). Dans ces conditions, 
+il est probable que les formes cis et trans sont en Cquilibre, en 
+conformit6 avec ce qui est rapport6 dans la littkrature (23, 24). 
+Une valeur AG comprise entre 52 et 88 kJ mol-', et proba-
+blement infkrieure 60 kJ mol-', a Ctt estimCe pour cet Cqui-
+libre (24). Enfin, les schCmas reactionnels 1 et 2 ne prtvoient 
+pas de transferts internes en 1,5 d'atome d'hydrogkne. Ce type 
+de transfert commande la formation transitoire d'un cycle a six 
+c6tCs. On peut prevoir, dans ce cas, un facteur de frequence 
+plus favorable et une Cnergie de tension du cycle a peu prks 
+negligeable (20). Ce transfert ferait cependant disparaitre 
+1'Cnergie de rQonance du groupe allyle, ce qui introduit une 
+Cnergie d'activation de 50 kJ mol-'. En outre, puisque I'atome 
+CchangC provient d'un methyl terminal, cela ajoute quelques 
+
+autres kilojoules par mole 2 1'Cnergie d'activation, puisque les 
+
+liaisons C-H terminales sont plus rigides. 
+
+FIG. 2. ReprCsentation schkrnatique du transfert 1,4 de I'atorne 
+d'hydrogkne dans le radical rnCthallyle. 
+
+Remerciements 
+Les auteurs remercient I'Universite du Quebec a Chicoutimi 
+pour I'aide apportee sous diffkrentes formes a la rialisation de 
+ces travaux. 
+
+1. G. J. COLLIN, H. DESLAURIERS et S. AUCLAIR. Can. J. Chern. 57, 
+863 (1979). 
+2. H. DESLAURIERS et G. J. COLLIN. J. Photochern. 12, 249 (1980). 
+3. G. J. COLLIN et H. DESLAURIERS. NOUV. J . Chirn. 3, 701 (1979). 
+4. G. J. COLLIN et H. DESLAURIERS. Int. J. Chern. Kinet. 12, 17 
+(1980). 
+Can. J. Chem. Downloaded from www.nrcresearchpress.com by 87.160.185.190 on 03/27/14 
+
+For personal use only. 
+
+
+DESLAURIERS ET COLLIN 
+
+3 173 
+
+5 . H. DESLAURIERS et G. J. COLLIN. Can. J. Chern. 63, 62 (1985). 
+6. G. J. COLLIN et H. DESLAURIERS. Can. J. Chern. 63, 944 (1985). 
+7. R. GORDEN, JR., R. E. REBBERTet P. AUSLOOS. NBS-Tech. Note 
+
+496 ( 1969). 
+
+8. J. HERMAN, K. Herman et P. AUSLOOS. J. Chern. Phys. 52, 28 
+
+(1970). 
+
+9. R. A. HIVELY et R. E. HIFTON. J. Gas Chrornatogr. 6, 203 
+
+(1968). 
+
+10. J. GAWLOWSKI, J. WIEDZIELSKI et A. BIERZYNSKI. Chern. Anal. 
+(Warsaw), 15, 721 (1970). 
+11. W. TSANG. Int. J. Chern. Kinet. 1, 245 (1969); 5, 929 (1973). 
+12. A. B. TRENWITH. Trans. Faraday Soc. 66, 2805 (1970); A. B. 
+TRENWITH et S. P. WRIGLEY. J. Chern. Soc. Faraday Trans. 1, 
+73, 817 (1977). 
+13. K. D. KING. Int. J. Chern. K~net. 11, 1071 (1979). 
+14. N. NAKASHIMA, N. SHIMO, N. IKEDA et K. YOSHIHARA. J. Chern. 
+Phys. 81, 3738 (1984). 
+
+15. A. S. RODGERS et M. C. R. WU. J. Am. Chern. Soc. 95, 6913 
+
+(1973). 
+
+16. J. NIEDZIELSKI, J. GAWLOWSKI et T. GIERCZAK. J. Photochern. 
+21, 195 (1983). 
+17. D. HOUDE, H. DESLAURIERS et G. J. COLLIN. Can. J. Chern. 61, 
+
+962 (1983). 
+
+18. G. J. COLLIN, H. DESLAURIERS et A. WIFCKOWSKI. J. Phys. 
+Chern. 85, 944 (1981). 
+19. P. I. ABELL. Cornpr. Chern. Kinet. 18, 11 1 (1976), et les rkfC-
+rences qui y sont citCes. 
+20. S. BENSON. Dans Thermochernical kinetics. 2' Cd. J. Wiley &amp; 
+
+Sons, New York. 1976. pp. 257-258. 
+21. D. C. TARDY. Intern. J. Chern. Kinet. 7, 291 (1974). 
+22. T. TAKADA et M . DUPUIS. J. Am. Chern. Soc. 105, 17 13 (1983). 
+23. N. YOKOYAMA. Bull. Chern. Soc. Jpn. 43, 2975 (1970). 
+24. P. J. GORTON et R. WALSH. J. Chern. Soc. Chern. Cornrnun. 783 
+
+(1972). 
+
+Can. J. Chem. Downloaded from www.nrcresearchpress.com by 87.160.185.190 on 03/27/14 
+
+For personal use only. 
+
+
+
+	
+

@@ -1,0 +1,849 @@
+
+	
+
+		
+
+	
+
+	
+
+Ozonides de phosphite source d'oxygene singulet: rendement, mecanisme 
+
+ANNE MARIE CAMINADE, FAYEZ EL KHATIB ET MAX KOENIG' 
+
+U.A. 454, Utli\vrsitP Paul Sabatier, 31062 Torilorise Ctclex, Frnt~ce 
+
+ET 
+
+JEAN MARIE AUBRY' 
+Laborntoire cle Chitnie CPntrnle, FacriltP de Ptznrmacie. Rue clri Professeur Lnguesse, 59045 Lille Ctdex, France 
+Requ le 2 avril 1985 
+
+ANNE MARIE CAMINADE, FAYEZ EL KHATIB, MAX KOENIG et JEAN MARIE AUBRY. Can. J. Chem. 63, 3203 (1985). 
+Nous avons fait rCagir dans le dichloromethane les ozonides de plusieurs phosphites sur differents capteurs d'oxygkne 
+singulet ('0,): le rubrkne 2, la tCtraphenylcyclopentadienone 4 et le diphenyl-9.10-anthrackne 6. Ces ozonides riagissent lors 
+
+de leur dCcomposition (-47°C &lt; t &lt; 30°C) sur ces capteurs. Les droitcs de Foote obtenues en faisant varier les concentrations 
+
+respectives d'ozonides et de capteurs conduisent aux mtmes parametres que ceux obtenus lors de la photooxydation par '0, 
+de ces capteurs. Cela confirme I'aptitude de ces ozonides B engendrer 'O?. La valeur trouvCe du rendement absolu en 'O? est 
+de 100% (p = 1). Les rtsultats confirment aussi la grande efficacitd "is-B-vis de '0, du rubrene (y = 1) et la valeur moyenne 
+de la tCtraphCnylcyclopentadienone (y = 0,46). La valeur faible (y = 0.3) de I'efficacitC du diphtnyl-9,lO-anthrackne 4 est 
+par contre inattendue. 
+
+ANNE MARIE CAMINADE, FAYEZ EL KHATIB, MAX KOENIG, and JEAN MARIE AUBRY. Can. J. Chem. 63, 3203 (1985). 
+The ozonides of several phosphites in solution in dichloromcthane have been reacted with some scavengers of singlet oxygen 
+
+('04 like rubrene (2), tetraphenylcyclopentadienone (4). and 9,IO-diphenylanthracene (6). These ozonides react on the 
+scavengers (-47°C &lt; t &lt; 30°C) upon their decomposition. The Foote curves obtained by varying the respective concentrations 
+
+of ozonides and of scavengers lead to parameters similar to those obtained upon the photooxidation of the scavengers by 'Oz. 
+
+Results confirm that these ozonides can lead to the formation of lo2. The absolutc yield of 'Oz is 100% (p = I). These results 
+
+also confirm the high efficiency of the rubrene toward '02 (y = I ) and the lower efficiency of the tetraphenylcyclopentadienone 
+(y = 0.46). However, the low value (y = 0.3) for the efficiency of the 9,lO-diphenylanthracene (4) is unexpected. 
+[Journal translation] 
+
+De nombreuses sources chimiques d'oxygene singulet ('0,) 
+sont aujourd'hui facilement utilisables en milieu aqueux ou 
+dans des solvants organiques (I). A cet Cgard, les ozonides de 
+phosphite connus depuis 1961 (2) sont de bons gCnCrateurs 
+
+\ 
+
+d'oxygene active lors de leur decomposition thermique (3-5). 
+
+9 0 3 
+
+(i' 
+
+' ? A02 + ,P=O \ 
+
+De nombreuses reactions d'oxydation ont Ct C conduites a I'aide 
+
+de ces ozonides (I): elles aboutissent dans le cas des cyclo-
+additions-1,4 ou dans les he-reactions aux m&amp;mes rtsultats 
+que les reactions de photooxydation (6-8). Toutefois certaines 
+
+\ [lo21 7 
+
+reactions comme les cycloadditions-1,2 se produisent a des 
+
+(ii) 
+
+temperatures infkrieures a celle qui permet de libCrer '0, (9); de 
+
+plus, certaines d'entre elles prksentent une st6reospCcificitC 
+S C H ~M A 
+1. Chemins rkactionnels (i) et (ii) conduisant au produit 
+diffkrente des photooxydations (10). C'est ainsi que dans la 
+d'oxydation AOz a partir d'ozonides de phosphite. 
+littkrature les reactions observkes sont attribukes soit a l'oxv-
+gene singulet IibCrC par I'ozonide soit a la rCactivitC propre de 
+
+l'ozonide (schema I). 
+Afin dlCclairer les mkcanismes lies a la gCnCration chimique 
+
+d'oxygene active, des mesures des parametres cinktiques et du 
+
+rendement absolu en lo2 ont kt6 effectukes. C'est ainsi que 
+
+pour la reaction C10-+ H20, la valeur du rendement est de 
+
+100% (1 1, 12); elle est de 70% pour la dCcomposition des 
+peracides (13, 14), et varie entre 35 et 95% pour les endo-
+peroxydes (15). Dans le cas des ozonides de phosphite, le 
+rendement en ' 0 2 , bien que consider6 comme quantitatif par 
+certains auteurs (6, 7, 16), n'a jamais Cte mesure. Nous avons 
+mesure, dans le cas des reactions de cycloaddition-1,4 sur 
+
+diffkrents capteurs specifiques d"0, 2, 4, 6 le coefficient de 
+
+Foote (P), I'efficacitk du capteur (y) ainsi que le rendement en 
+
+oxygene singulet (p). 
+
+' Auteurs B qui adresser la correspondance. 
+
+Resultats 
+
+Nous avons fait reagir dans le dichloromCthane les differents 
+ozonides la-cl sur trois capteurs classiques d'oxygkne sin-
+
+gulet: le rubrene 2, la tCtraphtnylcyclopentadienone 4 et le 
+diphknyl-9,lO-anthracene 6. 
+Les ozonides CtudiCs ne rkagissent pas sur ces accepteurs 5 
+
+basse temperature (-78°C) mais ceux-ci sont oxydCs a des 
+temperatures correspondant B la dCcomposition thermique des 
+
+ozonides (reaction [I], tableau 1). 
+
+Le bilan de I'action des ozonides sur ces capteurs peut 
+s'Ccrire selon les reactions [2], [3] et [4]. Les concentrations 
+
+des produits d'oxydation obtenus dans chaque cas ( 3 , 5 , 7 ) sont 
+
+mesurtes par clhp ou uv. 
+Can. J. Chem. Downloaded from www.nrcresearchpress.com by 87.160.185.190 on 03/27/14 
+
+For personal use only. 
+
+
+CAN. J . CHEM. VOL. 63. 1985 
+
+TABLEAU 1. 6 3 1 ~ 
+et enthalpies libres d'activation de la reaction [l] dans CHrClz 
+
+AG* 
+
+Ozonides 
+6 3 1 ~ T (OC) 
+(kcal rnol-I) 
+Solvant 
+RCfCrences 
+
+/O 
+
+1 a 
+
+PhO O 
+
+I 
+
+\ 
+! 
+, 
+O 
+
+-63 
+-25 
+18 
+CHrClz 
+2, 16, 17, 18 
+
+PhO/ \0Ph 
+
+TABLEAU 2. Cornparaison des paramktres rCactionnels de I'oxydation des capteurs 2, 4, 6 par voie photochirnique et par dCcornposition des 
+ozonides de phosphite l a -l d 
+
+Methode 
+
+p lo4 
+
+kr 
+
+k, 
+
+k d 
+
+Capteurs 
+d'oxydation 
+Solvant 
+(M) 
+
+P 
+
+Y 
+(M-I s-I) 
+
+( M -I 
+
+sC1) 
+
+( I ) 
+
+RCfCrences 
+
+Ozonide 
+CHzC12 
+2,23 
+
+1 
+1 
+
+5,4 x lo7 
+-0 
+
+l a 
+
+Photochim. 
+CH2C1, 
+
+4 * 0,8 -1 4,2 t 1,3 x lo7 
+
+-0 
+
+Ozonides 
+CHrClr 
+
+1 
+1 
+
+0,46 
+5 x lo7 
+6 X 10' 
+
+l a , l b , l c 
+
+Photochirn. CClzFCClF2 
+0,5 
+-0,37 
+3,3 X lo6 
+5,6 X lo6 
+
+Ozonides 
+CH2Clz 
+10 
+
+1 
+
+0,3 
+4,2 x 10' 
+8 X lo6 
+
+l a , l b , Id 
+
+Photochirn. 
+
+cc14 
+
+6 
+
+-
+
+? 
+
+2,8 X lo6 
+Non donnCe 
+
+1,2 x lo4 
+Ce 
+travail 
+
+1,2 x 10" 
+
+Ce 
+travail 
+
+1,2 x lo4 
+
+Ce 
+travail 
+
+Les paramktres cinktiques correspondant aux reactions 121, 
+131, [4] obtenus a partir des droites de Foote (figures 1, 2, 3) 
+figurent dans le tableau 2. 
+L'oxydation du rubrkne 2 par l'ozonide l a , pour des rapports 
+[la]/[2] variables, nous a perrnis d'obtenir une droite de Foote 
+
+(fig. 1) dont la pente est P = 2 X 
+
+M et l'ordonnee 2 
+l'origine p X y = 1. Ces pararnktres conduisent, a partir des 
+
+valeurs de la durCe de vie de lo2 dans CH2C12 (2 1, 22) a une 
+
+constante de vitesse d'oxydation k, = 5,4 X lo7 M-' s-' dont 
+la valeur est la rnCrne (aux erreurs d'expkrience prks) que celle 
+obtenue lors de la photooxydation de 2 par lo2 (23, 24). Ce 
+resultat confirrne que la voie d'oxydation la plus probable 
+obtenue par l'ozonide l a est celle qui passe par la gtneration 
+d"02 (25) (voie (ii), schema 1). 
+
+De plus py = 1 entraine p = 1, et y = 1. Ces deux valeurs 
+indiquent que le rendernent absolu en '02 de l'ozonide l a est 
+de 100% et que l'efficacite du rubrkne est totale puisqu'il ne 
+
+desactive pas '02 (k, -0). 
+
+L'oxydation de 4 par les ozonides l a , 1 6 et l c conduit dans 
+
+les rnCmes conditions (fig. 2) aux paramktres P = 1 x 
+
+M 
+
+et py = 0,46. Cornrne l'ozonide l a se trouve sur la droite de 
+Foote, nous avons conserve sa valeur prCcCdente p = 1 et 
+attribue y la valeur 0,46. L'efficacitC de la tetraphenyl-
+
+cyclopentadienone 4 est donc trks rnoyenne (26). La constante 
+de vitesse d'oxydation k, = 5 x lo7 M-' s f ' posskde une valeur 
+proche de celle de la constante de vitesse de desactivation k,. 
+L'oxydation du diphknyl-9,lO-anthrackne 6 par les ozonides 
+
+l a , 16, I d (fig. 3) conduit a une valeur de la pente P = 10 X 
+
+Can. J. Chem. Downloaded from www.nrcresearchpress.com by 87.160.185.190 on 03/27/14 
+
+For personal use only. 
+
+
+FIG. 1. Droite de Foote correspondant a I'oxydation de 2 par I'ozonide l a . 
+
+Ph Ph 
+
+lod4 M. Cette valeur ClevCe confirme la faible rCactivitC de 6 
+
+comparCe a celle de 2 (k, = 4,2 X lo6 s-' et kr (2)/kr (6) -10 
+
+(27), mais aussi sa faible efficacitC puisque y = 0,3. 
+
+Discussion 
+Comme les ozonides l a -d ne rkagissent pas sur les accep-
+teurs 2, 4 et 6 a basse tempirature, nous avons Ccrit les reac-
+tions en considkrant '02 comme l'oxydant (nous aurions pu 
+conduire le mCme calcul avec des Cquations similaires en con-
+sidCrant les ozonides et non '0, comme l'oxydant). 
+Les rkactions ClCmentaires mises en jeu peuvent s'ecrire: 
+\ 
+ko \ 
+
+[5] --PO3 4 -P=O 
+
+f ' 0 2 
+
+/ 
+/ 
+
+la, lb, l c 
+4 
+
+/ 
+
+\ 
+-PO3: l a -d ; A: capteurs 2, 4, 6; S: solvant; AO,: capteur 
+
+/ 
+
+oxydC. 
+La variation de la concentration en 
+s'Ccrit alors: 
+
+-kd['O2] -(kr + kq) [lo2:! [A] 
+
+Ph X 
+P 
+
+h + CO + ~P = O oh (d['02]/dt)f est la vitesse de formation de lo2 par dCcom-
+
+0 0 
+position de l'ozonide -k0[PO3]; en appliquant l'hypothkse des 
+
+5 
+
+Ctats quasi stationnaires a lo2, on obtient: 
+
+d'autre part, 
+
+d[Al -
+dt 
+---kr['O2:I[Al 
+
+Ph 
+Ph 
+
+7 + ~P = O 
+
+kr [A1 
+
+l a , 16, Id 
+6 
+
+dt 
+
+f 
+
+kd + (kr + kq)[Al 
+
+Can. J. Chem. Downloaded from www.nrcresearchpress.com by 87.160.185.190 on 03/27/14 
+
+For personal use only. 
+
+
+CAN. J. CHEM. VOL. 63. 1985 
+
+FIG. 2. Droite de Foote correspondant i I'oxydation de 4 par les ozonides l a , l b , lc. 
+
+PhO ol? 
+
+1 , 4 
+
+-0 : 
+
+0 -p 
+
+* : 
+
+P ~O / \ 0 p h 
+
+'72 -
+
+FIG. 3. Droite de Foote correspondant i I'oxydation de 6 par les ozonides l a , l b , Id. 
+
+L'intkgration 2 t + m conduit alors 2 I'expression 
+
+[Ale -[A]-= -p In ([Alo/[AlJ 
+
+[91 
+tP0,lo 
++ PY 
+
+[Ale 
+
+-[Po310 
+
+P ln -+ [Alo -[A], = y['021f 
+
+-
+
+[Aim 
+
+Y 
+X 
+
+Soit en divisant par [P0310 concentration initiale d'ozonide 
+de forme gknkrale 
+
+['O,Ir 
+In [AM[AI. -[A]= 
+
+[lo] Y = -p x + py 
+
+r-=P [Po310 
+
+[Po310 
+[pollo 
+Cette expression est l'kquation de la droite de Foote dont la 
+
+pente donne p et I'ordonde a l'origine le produit py. Dans le 
+
+Avec p = kd/(k, + k,) coefficient de Foote, y = k,/(k, + k,) cas du mbrkne et du diphknylanthrackne, les valeurs des para-
+
+efficacitk du capteur et p = ['02]r/[P03]o rendement absolu en 
+mktres ainsi obtenus, en particulier k,, sont proches de celles 
+'O,, on obtient 1'Cquation gknkrale 
+obtenues lors des photooxydations. 
+Can. J. Chem. Downloaded from www.nrcresearchpress.com by 87.160.185.190 on 03/27/14 
+
+For personal use only. 
+
+
+CAMINADE E T AL. 
+
+3207 
+
+Par contre pour la tttraphtnylcyclopentadienone, si la valeur 
+
+de p est la mCme que celle obtenue par Evans et Tucker (26) 
+
+la valeur de k, diffkre sensiblement. Cet tcart est probablernent 
+dQ aux incertitudes exptrimentales mais aussi a la nature difft-
+rente du solvant (CC12FCCIF2) et a l'estimation de la durte de 
+vie de I'oxygene singulet dans ce solvant. Evidemrnent, cet 
+tcart peut aussi, dans ce cas, provenir d'un rntcanisme diffe-
+rent. 
+On remarquera tgalement que les constantes de vitesses 
+d'oxydation k, sont peu sensibles aux variations de temptrature 
+
+(dans le domaine -50°C &lt; t &lt; +20°C) puisque les droites de 
+
+Foote contiennent des valeurs de k, obtenues a des temptratures 
+difftrentes pour les ozonides la-d. Ces rtsultats confirment la 
+grande efficacitt du rubrkne (y = 1) (21, 23) et la valeur 
+moyenne de la tttraphtnylcyclopentaditnone (y = 0,46) (21, 
+
+26). Par contre malgrt certaines similitudes structurales, le 
+
+comportement du rubrkne et du diphtnyl anthrackne vis-a-vis 
+
+de '02 sont trks difftrents. Pour le diphtnylanthrackne la cons-
+
+tante de vitesse k, est 10 fois inftrieure celle du rubrkne et 
+de plus sur 10 rnoltcules d"02 qui rtagissent 7 sont quenchtes 
+(y = 0,3). La desactivation d"02 est mCme suptrieure dans ce 
+cas a celle du dimtthylanthrackne (y = 0,6) (21, 26). 
+Ainsi, il nous 
+raisonnable de considtrer que les rt-
+sultats obtenus confirment le schtrna rtactionnel propost. En 
+effet la formation des seuls endoperoxydes de rubrkne et de 
+diphenylanthrackne est caracttristique de l'oxygkne singulet. 
+La valeur de 100% du rendement obtenu pour 2 avec l'ozonide 
+l a confirme bien I'observation suivant laquelle la quantitt 
+d'endoperoxyde form6 correspond strictement a la disparition 
+du rubrkne. 
+Comme l'ozonide l a se retrouve sur les droites de Foote des 
+autres capteurs avec les autres ozonides, nous en concluons que 
+
+le rendement en '02 des ozonides l b , l c et I d est le m&amp;me que 
+
+celui de l a , soit 100%. Ceci nous amene a penser que si les 
+substituants influent sur la stabilitt des ozonides c'est-a-dire 
+sur la temptrature de dtcomposition, ils n'influent pas de rna-
+nikre sensible sur le mtcanisrne de dtcomposition. 
+En effet plusieurs rntcanismes sont envisageables: 
+(a) Un mtcanisme concertt qui conduit directement aprks 
+rupture et rtarrangement a l'oxygkne activt et au phosphate: 
+
+Ce mecanisme peut conduire directement a la production 
+quantitative d"02 Une telle interprttation est compatible avec 
+les resultats obtenus dans ce travail mais aussi avec le fait que 
+les constantes de vitesse de dtcomposition ko mesurtes a partir 
+de cinttiques de degagement d'oxygkne (16-18) sont les 
+mEmes lorsque ces cinetiques sont dttermintes par rrnn dans un 
+champ magnttique de I'ordre de 23 000 gauss (19, 20). 
+De plus, toutes les valeurs d'entropie d'activation de la rtac-
+tion [ l ] relevtes dans la litttrature, mesurtes par des mtthodes 
+difftrentes (17-20, 28) sont ntgatives et comprises entre -10 
+et -20 u.e. Ces rtsultats sont en accord avec ceux obtenus par 
+Turro et al. (15) dans l'ttude de la thermolyse des endo-
+peroxydes aromatiques. En effet ce dernier a etabli une cor-
+rtlation entre la valeur ntgative de l'entropie d'activation et les 
+hauts rendements en 'O? obtenus par un rntcanisme concert6 de 
+type (a). 
+Toutefois ce mecanisme simple ne rend pas compte de la 
+rtactivitt des ozonides basse temptrature ou de la prtsence de 
+radicaux. 
+
+(b) Un me'canisme de type biradicalaire (29) 
+L'existence de ce biradical a Cte confirmke en rpe par Pryor 
+et Govindan (30) lors de l'ttude de la dtcomposition de 
+(PhO),PO, en prtsence de "spin trap": a-phtnyl-N-tert-butyl-
+nitrone (PBN). 
+
+/O' 
+PBN 
+
+-
+
+\ 
+
+0-0. 
+
+Un tel mtcanisme a t t t envisagt dans le cas de la dtcorn-
+position des endoperoxydes aromatiques par Turro et al. (15) 
+et dans le cas des ozonides de phosphite par Mendenhall (16): 
+
+Selon ce schtrna, une homolyse d'une des liaisons 0-0 de 
+
+l'ozonide se produit (voie b) en fournissant un diradical singu-
+let qui peut tvoluer vers la formation d'oxygkne singulet (voie 
+d) ou vers un diradical triplet (voie c) par un croisernent inter-
+systeme. Ce dernier peut se scinder a son tour en phosphate et 
+en oxygkne fondamental (voie e) par un processus autorist par 
+la rkgle de conservation des spins. 
+Les rtsultats de notre ttude perrnettent d'tliminer I'hypo-
+these d'un intermtdiaire diradicalaire a longue durte de vie qui 
+conduirait a la formation d'une certaine proportion d'oxygkne 
+fondarnental et a l'oxydation du rubrkne en un produit difftrent 
+
+de I'endoperoxyde 3. En effet, la sensibilitt aux radicaux pe-
+roxyles ROO' des hydrocarbures aromatiques polycyclique~en 
+
+gtntral (31) et du noyau rubrtnique en particulier (12) est 
+connue. 
+
+Toutefois nos exptriences ne s'opposent pas a la proposition 
+
+de Pryor (30) de l'inte~ention d'un diradical de faible durte de 
+vie qui tvoluerait rapidernent, a ternptrature suffisante, vers la 
+formation de '02 (voie d) sans subir le processus relativernent 
+
+lent du croisement intersystkme (voie c). 
+En conclusion, la dualitt des deux processus (concert6 et 
+biradicalaire) subsiste. Cet aspect trks gtntral de nornbreuses 
+rtactions est peut-&amp;tre dans ce cas particulier lit a la nature 
+complexe des-ttats tlectroniques de-170xygkne singulet (1). 
+
+Partie experimentale 
+
+1 . Oxydation du rubrtne 
+
+Les solutions d'ozonide de rn&amp;rne concentration sont prCparCes a 
+
+-80°C et rajoutkes a cette tempCrature sur des solutions de rubrkne 2 
+de concentrations variables. La formation d'endoperoxyde 3 est dC-
+tectCe par son absorption 254 nm aprks separation d'une prise d'essai 
+du mClange rtactionnel par chromatographie liquide haute perfor-
+mance (clhp). 
+
+(a) Prc?pamtion des solutions 
+Le solvant utilisC est du dichloromCthane 99,8% (Aldrich) conserve 
+
+Can. J. Chem. Downloaded from www.nrcresearchpress.com by 87.160.185.190 on 03/27/14 
+
+For personal use only. 
+
+
+3208 
+
+CAN. 1. CHEM. VOL. 61. 1985 
+
+sur NaHC03 pour Cviter I'isomkrisation acido catalyske du rubrkne en 
+pseudo rubrkne (32). 
+D'autre part le rubrkne subit trks facilement une photooxydation 
+auto sensibiliske par la lumikre ambiante lorsque de I'oxygene dissous 
+est prksent dans la solution (24, 33) 
+
+hv(400 &lt; A &lt; 580 nm) 
+
+2* 
+2 
+. 
+
+11 est donc nkcessaire de protCger les rkacteurs de la lumikre et de 
+
+travailler dans une pikce kclairke par une lampe kmettant i A &gt; 580 
+
+nm. Toutes les mesures de volumes B tempkrature ambiante se font par 
+peste ( d H I C I Z 
+= 1,326). La concentration de la solution mere de 
+rubrkne est [2ImBrc = 2,699 X lo-' M. 
+On fait ensuite 8 prklkvements entre 1,7 et 5 mL, de faqon a obtenir 
+8 rkacteurs contenant entre 4,52 et 13,42 x 
+mol de rubrkne. 
+On prkpare kgalement un "blanc" qui sera traitt dans les m&amp;mes 
+conditions mais qui ne recevra pas d'ozonide, et une solution temoin 
+contenant la fois du rubrkne et son endoperoxyde: [2] = 1,254 x 
+
+10-'M et [3] = 6,80 X lo-" M. 
+
+L'endoperoxyde 3 est prepark indkpendamment en irradiant h A &gt; 
+
+530 nm une solution de 2 dans CH2CI, dans laquelle on fait barboter 
+de I'oxygkne jusqu'g dCcoloration complkte. Le solvant est ensuite 
+Cvaport: le rksidu est repris dans le mtthanol, pass6 aux ultra-sons, 
+
+centrifugk, repris dans I'kther, centrifuge i nouveau et skchk sous 
+
+vide. 
+(b) Prkparnlion de In solution ci'ozonide 
+La rkaction d'ozonation de I n (4,98 x lo-' mol) se fait 2 -80°C 
+(bain d'acktone/Carboglace) dans I0 mL de CH2C12. Le gaz vecteur 
+
+utilisk ti I'entrke de I'ozoneur est de I'oxygkne, qualitk aviation (con-
+
+centration en eau infkrieure ?I 20 mg/m3). La concentration en ozone 
+est 8 x 
+mol/L. 
+On fait passer 1,12 L de melange 03/02: I'excks d'ozone est dose 
+par iodomktrie. Ce dosage montre que la totalitk du phosphite a &amp;tk 
+oxydke avec une stoechiomktrie [phosphite]/03 = I : 1. 
+La solution d'ozonide est ensuite purgke en faisant passer 8 L 
+d'argon. Pour vkrifier que cette solution ne contient plus de traces 
+d'ozone, on fait un prklevement maintenu i -80°C sur lequel on 
+rajoute une solution trks diluke de mbrkne. On n'obsewe pas de 
+dkcoloration de cette solution de mbrkne a -80°C. 
+Le rendement en ozonide est dktermink par rmn "P 5 -80°C. En 
+faisant varier le temps entre deux impulsions de 2,8 10,8 s on 
+n'obsewe pas de modifications de l'intkgration des pics correspondant 
+k (PhO),PO' (6 = -62) et (PhO)3P=0 (6 = -18). On trouve ainsi 
+un rendement en ozonide de 853%. Cette solution initiale contenant 
+85.5% d'ozonide doit Stre diluke avant la rkaction sur le mbrkne. Pour 
+cela on prockde i des transferts dans des fioles jaugtes a travers des 
+aiguilles, par une surpression d'argon, puis on lave la fiole et I'aiguille 
+par la quantitk de CHzCll nkcessaire h la dilution. 
+Cette mkthode est utiliske pour toutes les dilutions i -80°C. Le 
+CH2C12 diminuant de volume B basse temperature, il est nkcessaire de 
+prockder i des corrections de volume. C'est ainsi que lorsqu'on passe 
+de -80°C i la tempkrature ordinaire, on observe une augmentation de 
+volume de 10% (mesurke par densitk). 
+Au total, pour atteindre la concentration adtquate en ozonide, il est 
+nkcessaire de proceder i 4 transferts (2 pour une dilution et 2 pour 
+transfkrer dans les solutions de mbrene). Ces transferts vont provoquer 
+une certaine dkgradation de l'ozonide. Nous avons effectu6 ces memes 
+opkrations de transfert sur une solution d'ozonide non diluke, puis 
+nous avons mesurk par rmn de "P le pourcentage d'ozonide qui 
+subsiste aprks ce traitement. On obtient alors une nouvelle valeur du 
+rendement de 74,7% par rapport au phosphite de dkpart. Ce rendement 
+sewira de base aux calculs ulterieurs. Ainsi aprks dilution et recti-
+fications dues i la dkgradation on obtient une solution mkre kquivalent 
+a 9,21 X lo-% dd'ozonide. 
+(c) Rkaction de In solulion d'ozonide sur les solulions de rubrkne 
+On fait 8 prtlkvements de 1,l mL de la solution mkre d'ozonide, 
+dans les mSmes conditions que prkcCdemment, que I'on transfkre 
+
+-80°C sur les diverses solutions de rubrene et on complkte par CHzClz 
+k 8,05 mL. 
+On laisse ensuite le melange rkactionnel remonter jusqu'a la tem-
+pkrature ambiante. On a 8 solutions de mSme concentration en ozonide 
+[ l a ] = 1,26 X lo-' M et de concentration initiale en rubrkne [2] 
+variable: 
+
+(d) Mesure de l'endoperoxyde fonnk pnr clhp 
+La colonne utilisCe a un diamktre de 5 mm et une longueur de 250 
+mm. Les particules de silice greffCe phase inverse RP18 ont un dia-
+mktre de 10 pm. 
+Le mklange kluant est constituC par 85% d'Cthanol, 15% d'eau. 
+Le dtbit est de 12F mL/h pour une pression de 200 atm. (I atm = 
+101.3 kPa). La dktection se fait par uv a 254 nm. 
+Le pic correspondant ii l'endoperoxyde a un temps de rktention de 
+6 min, celui du rubrkne de 9,4 min. 
+La solution tkmoin permet de relier la surface des pics de I'endo-
+peroxyde (S3) et du mbrkne (Sz) ramenks a une m&amp;me concentration. 
+Pour [2] = [3] on trouve S3/SZ = 2,15. 
+On vtrifie ensuite que le "blanc" (solution de mbrkne n'ayant pas 
+requ d'ozonide) ne s'est pas oxydC. L'inttgration des pics obtenus 
+
+pour chaque solution de I n + 2 permet de mesurer le pourcentage 
+
+On prend pour [2] une valeur moyenne 
+
+On vkrifie 
+= 540 nm que la disparition du mbrkne est Cgale B 
+I'apparition de son endoperoxyde. 
+
+2. Oxydntion de la te~raphknylcyclopen~ndienone 4 et du 
+9,lO-diphPnylan~hracP.ne 6 
+(a) On prtpare une solution mere de 4 ou de 6 dans CH1C12 de 
+concentration lo-' M. On prklkve des quantitks variables de 4 ou 6 
+refroidies P -80°C qui sont ajoutkes sur des solutions d'ozonides I n , 
+l b , l c , Id. 
+(b) Prkparnlion de la sol~ition d'ozonide 
+Une solution de phosphite de concentration IO-'M est prCparke. On 
+prClkve 1 mL de solution. Aprks ozonation on purge la solution avec 
+de l'argon. Le pourcentage d'ozonide form6 par rapport au phosphite 
+de depart est obtenu par rmn "P j. basse tempkrature. 11 est de 8070 
+pour les ozonides I n , Ib, I c et de 6070 pour Id. 
+(c) Rkaclion de 4 el 6 sur les .solutions d'ozonides 
+On ajoute 5 -78°C des quantitks croissantes de la solution mkre de 
+4 ou 6 sur une solution d'ozonide. On laisse le mClange rkactionnel 
+revenir lentement i tempkrature ambiante. On effectue ensuite les 
+dilutions nkcessaires pour les mesures par uv des concentrations de 
+produit non oxydte. 
+
+En effet 4 et 6 posskdent des bandes d'absorption dont les A,,,, sont 
+
+respectivement 510 nm et 370 nm. Nous avons vkrifik que les esters 
+phosphoriques correspondants et les produits d'oxydation de 4 et 6 
+n'absorbent pas ces longueurs d'ondes. La diminution d'absorption 
+
+obsewte lors de la rkaction par rapport un tkmoin correspond a la 
+
+concentration des produits oxydbs. 
+
+1. H. H. WASSERMAN et R. W. MURRAY. Singlet oxygen. Organic 
+chemistry. Vol. 40. Academic Press, New York. 1979. 
+2. Q. E. THOMPSON. J. Am. Chem. Soc. 83, 845 (1961). 
+3. R. W. MURRAY et M. L. KAPLAN. J. Am. Chem. Soc. 90, 537 
+(1968). 
+4. E. WASSERMAN, R. W. MURRAY, M. L. KAPLAN et W. A. 
+YAGER. J. Am. Chem. Soc. 90, 4160 (1968). 
+5. J. R. HURST, J. D. MCDONALD et G. B. SCHUSTER. J. Am. 
+Chem. Soc. 104, 2065 (1982). 
+6. R. W. MURRAY et M. L. KAPLAN. J. Am. Chem. Soc. 91,5358 
+(1969). 
+
+Can. J. Chem. Downloaded from www.nrcresearchpress.com by 87.160.185.190 on 03/27/14 
+
+For personal use only. 
+
+
+CAMINADE ET AL. 
+
+3209 
+
+7. R. W. MURRAY, J . WEI-PING et M. L. KAPLAN. Ann. New York 
+Acad. Sci. 171, 121 (1970). 
+8. E. KOCH. Tetrahedron, 3503 (1970). 
+9. P. D. BARTLETT et G. D. MENDENHALL. J. Am. Chem. Soc. 92, 
+210 (1970). 
+10. A. P. SCHAAP et P. D. BARTLETT. J. Am. Chem. Soc. 92,6055 
+(1 970). 
+11. A. M. HELD, D. J. HALKO et J. K. HURST. J. Am. Chem. Soc. 
+100, 5732 (1978). 
+12. J. M. AUBRY. T h b e Doctorat d'Etat, Paris (1982). 
+13. E. MCKEOWN et W. A. WATERS. J. Chem. Soc. (B), 1040 
+(1966). 
+14. M. BOTSIVALI et D. F. EVANS. J. Chem. Soc. Chern. Commun. 
+11 14 (1979). 
+15. N. J. TURRO, MING-FEA CHOW et J. RIGAUDY. J. Am. Chem. 
+SOC. 103, 7218 (1981). 
+16. G. D. MENDENHALL. Ph.D. Thesis, Harvard University ( 1 970). 
+17. L. M. STEPHENSON et D. E. MCCLURE. J. Am. Chem. Soc. 95, 
+3074 (1973). 
+18. (a) C. M. LONZETTA. Ph.D. Thesis, Harvard University (1976); 
+(b) P. D. BARTLETTet C. M. LONZETTA. J. Am. Chem. Soc. 105, 
+1984 (1983). 
+19. (a) M. KOENIG, F. EL KHATIB, A. MUNOZ et R. WOLF. Tetra-
+hedron Lett. 23,421 (1982); (b) A. M. CAMINADE, F. EL KHATIB 
+et M. KOENIG. Phosphorus Sulfur, 18, 97 (1983). 
+20. F. EL KHATIB, A. M. CAMINADE et M. KOENIG. Phosphorus 
+SuIfur, 20, 55 (1984). 
+
+21. F. WILKINSON et J. G. BRUMMER. J. Phys. Chem. Ref. Data, 10, 
+809 (1981). 
+22. M. A. J. RODGERS. J. Am. Chem. Soc. 105, 6201 (1983). 
+23. B. STEVENS, S. R. PEREZ et J. A. ORS. J. Am. Chem. Soc. 96, 
+6846 (1974). 
+24. H. D. BRAUER et H. WAGENER. Ber. Bunsenges. Phys. Chem. 
+79, 597 (1975). 
+25. (a) D. J. CARLSSON, G. D. MENDENHALL, T . SUPRUNCHUK et 
+D. M. WILES. J. Am. Chem. Soc. 94, 8960 (1972); (b) D. J. 
+CARLSSON, T. SUPRUNCHUK et D. M. WILES. Can. J. Chem. 52, 
+3728 (1974). 
+26. D. F. EVANS et J. N. TUCKER. J. Chem. Soc. Faraday Trans. 2, 
+72, 1661 (1976). 
+27. T. WILSON. J. Am. Chem. Soc. 88, 2898 (1966). 
+28. A. P. SCHAAP, K. KEES et A. L. THAYER. J. Org. Chem. 40, 
+1185 (1975). 
+29. T. A. HINRICHS, V. RAMACHANDRAN et R. W. MURRAY. J. Am. 
+Chem. Soc. 101, 1282 (1979). 
+30. W. A. PRYOR et C . K. GOVINDAN. J. Org. Chem. 46, 4679 
+(1981). 
+31. J. A. HOWARD et K. U. INGOLD. J. Am. Chem. Soc. 90, 1056 
+(1968). 
+32. C . MOUREU, C. DUFRAISSE et G. BERCHET. C. R. Acad. Sci. 
+185, 1085 (1927). 
+33. C. MOUREU, C. DUFRAISSE et P. M. DEAN. C. R. Acad. Sci. 182, 
+1584 (1926). 
+
+Can. J. Chem. Downloaded from www.nrcresearchpress.com by 87.160.185.190 on 03/27/14 
+
+For personal use only. 
+
+
+
+	
+

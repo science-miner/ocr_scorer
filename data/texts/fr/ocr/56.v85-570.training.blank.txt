@@ -1,0 +1,491 @@
+
+	
+
+		
+
+	
+
+	
+
+Selectivite du transport de Ca2'/Mg2' a travers une membrane liquide par 
+A.23187 (calcimycine) et son derive N-methyle 
+
+JEAN BOLTE, COLETTE DEMUYNCK ET GEORGES JEMINET 
+Laboratoire de Chimie Organique Biologique, ERA 392 du CNRS, Universitk de Clermont II 
+B.P. 45, 63170 Aubiere, France 
+Re~u le 14 janvier 1985 
+
+JEAN BOLTE, COLETTE DEMUYNCK et GEORGES JEMINET. Can. J. Chem. 63, 3478 (1985). 
+Le transport prCfCrentie1 de Ca2'/Mg2' par A.23187 est mis en evidence dans une cellule eau/CHCl,/eau. Par des mesures 
+de flux d'extraction et de flux de liberation dans une demi-cellule eau/CHCl,, on montre que la sClectivitC du transport est 
+liCe i une cinCtique de libtration nettement diffkrente pour les deux ions, qui pourrait s'expliquer par la structure des complexes 
+dimCriques formCs, si on se rCf6re aux Ctudes cristallographiques correspondantes. La mtthylation du groupement -NHCH, 
+entraine une inversion de la sClectivitC de transport. 
+
+JEAN BOLTE, C O L ~E DEMUYNCK, and GEORGES JEMINET. Can. J. Chem. 63, 3478 (1985). 
+Operating in a cell of water/CHCl,/water, it is shown that there is a preferential transport of Ca"/Mg2' by A.23187. On 
+the basis of measurements of flux of extraction and of flux of liberation in a half-cell of water/CHCI,, it is shown that the 
+selectivity of the transport is related to the kinetics of liberation, which is markedly different for the two ions and which could 
+be explained by the structure of the complex dimers that are formed, according to the corresponding crystallographic studies. 
+The methylation of the -NHCH3 entails an inversion of the selectivity in the transport. 
+[Traduit par le journal] 
+
+Introduction 
+L'Ctude du transport cationique induit par les antibiotiques 
+polyCthers carboxyliques, a travers une membrane liquide 
+Cpaisse, a Ct C abordCe au laboratoire dans le cadre plus gCnCral 
+d'une recherche menCe sur le mode d'action de ces composCs. 
+Un premier travail consacrC aux ionophores X.537A, 
+A.23187 et X. 14547A (I), classCs comme des transporteurs 
+des ions divalents (2), avait permis de rnettre en evidence dans 
+le systkme triphasique eau/CHCl,/eau: (i) l'existence d'une 
+courbe sigrno'idale de transport reliant le flux ionique JCaz+ au 
+pH du cornpartirnent d'extraction, et (ii) le dCcalage des 
+courbes d'un ionophore ii I'autre, attribue aux diffkrences de 
+stabilitC des associations forrnCes aux interfaces avec H+ et 
+Ca2+. 
+RCcemrnent, une Ctude semblable a Ct C abordCe d'une ma-
+niere approfondie pour des polyCthers couronnes de synthese 
+portant une ou deux fonctions -COOH (3). 
+Des trois ionophores citCs, A.23187 (cornposC 1, fig. 1) est 
+le seul qui transporte prCfCrentiellernent les cations divalents et 
+particulierement Ca" et Mg2+ presents "in vivo" dans les com-
+partirnents cellulaires (4). I1 paraissait donc intiresant d'Ctu-
+dier dans le systerne rnodkle CvoquC la sClectivitC de transport 
+de ces deux ions et d'en preciser l'origine. Dans les conditions 
+experimentales utilisCes mettant ou non en compCtition les 
+
+deux ions, on observe que Jc,l+ &gt; JM,z+ quel que soit le pH. J 
+
+represente le nornbre de moles transportCes par s et par crn2. Le 
+rn&amp;me transport preferentiel a Ct C rnentionnC dans des vCsicules 
+de D.M.P.C. (5), des B.L.M. (6), ou dans la membrane rnito-
+chondriale (7). Une Ctude rCcente fait apparaitre une augrnen-
+tation de cette sClectivitC pour un analogue brornC sur le cycle 
+benzinique de A.23187 (8). Par opposition, le prCsent travail 
+rnontre qu'une rnkthylation du groupernent -NHCH, (corn-
+
+posC 2, fig. 1) entraine une inversion de cette sClectivitC. 
+
+Les valeurs des constantes therrnodynamiques de cornplexa-
+tion rnesurCes dans le rnkthanol ne perrnettent pas de prCvoir 
+les ~Clectivites observkes; la determination des cinetiques 
+d'Cchange dans une derni-cellule eau/chloroforme autorise une 
+interpretation des rksultats en relation avec la structure des 
+complexes dirnCriques connus 1'Ctat cristallin. 
+
+A. ~t u d e 
+de la stlectivitk Ca2'/Mg2' pour A.23187 1 . Trans-
+port dans une cellule eau/CHCl,/eau 
+Les variations du flux ionique J en fonction du pH du com-
+partiment d'extraction sont reprCsentCes sur la fig. 1. 
+Pour Ca", J est infkrieur a lo-" rnol s-' ~r n -~ 
+(limite de 
+
+sensibilitC de la rnCthode) lorsque pH &lt; 6,6, puis il augmente 
+
+jusqu'a pH 9 sans atteindre un palier distinct. Pour Mg2', on ne 
+
+dCckle aucun transport a pH &lt; 7,4, au-dela duquel le flux reste 
+
+faible. 11 existe donc un transport preferentiel en faveur de Ca" 
+qui se trouve confirm6 si les deux cations sont presents en 
+cornpCtition dans la phase aqueuse d'extraction, la mesure du 
+flux a pH 8,s montre alors un transport exclusif de Ca" avec 
+une valeur J = 1 x lo-" mol s-' crn-'. 
+Une telle sClectivitC n'est pas apparente pour les constantes 
+de formation des complexes 1 : 1 et 2: 1 mesurCes dans le 
+rnCthano1 (1) exprirnees sous la forrne: 
+
+1% PA?,, = 16,2 log PA?,, = 15,9 
+
+ou pour 1'Cquation globale de I'echange: 
+
+PLM 
+
+[3] 2AH + M2+ 
+A2M + 2H+ 
+
+La diffkrence de flux ionique doit donc se crCer au cours des 
+Cchanges aux interfaces dans le processus global reprCsentC sur 
+la fig. 2 pour un transport par l'interrnkdiaire d'un cornplexe 
+2: 1. 
+Pour prCciser ce point nous avons utilisC une approche ex-
+~Crimentale en Ctudiant les cinCtiques d'Cchange dans une 
+demi-cellule eau/CHCl,, a partir de l'acide libre, pour obtenir 
+une information sur l'entrCe de M2+ dans la phase organique 
+ou, a partir du complexe 2: 1, pour la 1ibCration du cation dans 
+la phase aqueuse. Ces conditions expirimentales different donc 
+Can. J. Chem. Downloaded from www.nrcresearchpress.com by 87.160.185.190 on 03/27/14 
+
+For personal use only. 
+
+
+BOLTE ET AL 
+
+eau 
+
+CHCI3 
+
+eau 
+
+FIG. I . Transport non cornpetitif de Ca" et ME'+ par 1 (0) et 2 
+
+(a), dans une cellule eau/CHC17/eau. Variations du flux J en mol s-' 
+
+cm-' en fonction du pH de la phase aqueuse d'extraction. Conditions 
+initiales: [ionophore],,, = 4 X lo-' M, [M"],, = lo-' M. 
+
+necessairement du processus dynamique qui s'ktablit au cours 
+du transfert triphasique. L'information recueillie sous cette 
+forme permet cependant de proposer une explication a la 
+
+discrimination Ca2+/Mg'+ qui s'opkre. 
+
+Cine'tique d'extraction duns une demi-cellule euu/CHCll 
+On mesure la cinetique d'entree de ~a ' ' ou Mg" dans la 
+
+phase organique contenant l'antibiotique (4 x 10-4 M) a partir 
+d'une solution aqueuse lo-' M de ces cations tamponnee a pH 
+
+8,5 qui correspond a un maximum d'extraction. La pente des 
+
+droites representant la quantite de cation extrait en fonction du 
+temps permet d'acceder aux flux initiaux d'entree qui sont 
+respectivement: 
+
+Jc,z+ 
+
+= 1,l x lo-'' mol s-' cm-' 
+
+JMgl+ = 1,2 x lo-'' mol s-' cm-' 
+
+Ces valeurs ne refletent aucune difference notable entre les 
+deux cations. 
+
+Cinktique de libe'ration duns une detni-cellnle e u ~l C H C 1 . ~ 
+La cinetique d'apparition de Capk ou Mg" dans la phase 
+
+aqueuse tamponnee 2 pH 7,O est mesuree 2 partir des sels 
+
+cristallises de A.23187 dissous dans la phase organique a la 
+
+concentration 2 x 
+M. Les courbes ainsi obtenues sont 
+
+representees sur la fig. 3. La difference entre les vitesses de 
+liberation des deux ions est apparente, les flux initiaux sont 
+respectivement: 
+
+Jc,?+ = 4,5 x lo-'' mol s-' cm-' 
+
+soit un rapport J c , ~+ / J M g ~+ -13. Le m&amp;me type de courbe est 
+
+obtenu dans I'intervalle de pH 7,O-1 ,O. Les flux initiaux mesu-
+
+FIG. 2. Representation du mkcanisme d'kchange M" -2H+ aux 
+
+interfaces, dans le transport i travers une membrane liquide Cpaisse. 
+
+0 
+10 
+20 
+30 
+
+40 t min 
+
+FIG. 3. Liberation non competitive de ~a " et Mg" dans la phase 
+aqueuse, i partir des complexes cationiques dimeres de la Calci-
+mycine dissous dans la phase chloroformique, pour un systeme 
+
+eau/CHCI,. Conditions initiales: [complexe] = 2 X lo-'' M, pH de 
+
+la phase aqueuse = 7,O. 
+
+rCs sont independants de [H'] dans la phase aqueuse. 
+Les premieres etudes cinktiques entreprises en phase ho-
+mogkne dans le methanol ou le melange methanol 70/eau 30 
+(w/w) par des techniques de flux stoppe ou saut de temperature 
+
+(9) donnent pour la constante cinetique globale de dissociation 
+du complexe 1 : 1 qui constitue l'etape limitante (en s-I): 
+
+Ca" 
+MeOH 
+2.2 2 1.4 ME'+ 
+MeOH 0.3 2 0.2 
+
+" 
+
+-
+
+-
+
+MeOH 7O/eau 30 
+&gt;600 
+MeOH 70/eau 30 89 2 20 
+
+Ceci conduit les auteurs a admettre que si I'etape limitante dans 
+le transport est la liberation du cation, on doit attendre une 
+
+stlectivitk de l'ordre de 8 en faveur de Ca". Les resultats 
+
+mentionnks dans ce travail qui decrivent une cinktique globale 
+de liberation a I'interface eau/CHC13 sont en accord avec cette 
+
+proposition. 
+Les differences de proprietks des ions Ca" et Mglk en bio-
+logie ont kt6 frkquemment di:cutees notamment par Williams 
+(10). I1 note que Ca2+ (1,06 A) s'associe aux ligandes avec un 
+Can. J. Chem. Downloaded from www.nrcresearchpress.com by 87.160.185.190 on 03/27/14 
+
+For personal use only. 
+
+
+3480 
+
+CAN. I. CHEM. VOL. 63. 1985 
+
+indice de coordination minimum de 6 rnais plus frequernrnent 
+7 ou 8 dans une geometric irreguliere (angles et longueurs de 
+liaison), alors que Mg2' (0,78 A) est generalernent hexa-
+coordine dans une geornetrie proche de l'octaedre. Pour l'as-
+sernblage molCculaire trks particulier que represente le dirnere 
+de A.23187 la proposition de Williams est respectee si l'on 
+compare l'heptacoordination irrkgulikre de Ca" (1 1) et 
+l'hexacoordination octaedrique de Mg" ( 12). Cet aspect a etC 
+examine recernrnent par Gresh et Pullman (13) au rnoyen de 
+simulations t h ~o r i ~u e s 
+
+a partir des donnkes cristallographiques. 
+
+11s montrent que la presence d'une rnolCcule d'eau observke 
+dans le cristal du cornplexe avec Ca" cornrne 7krne site 
+coordinant (1 1) est necessaire pour assurer au cornplexe une 
+stabilite comparable a celle du cornplexe avec Mg2+; la possi-
+bilite d'un co-transport de molecules d'eau dans la migration 
+intrarnernbranaire est envisagee par les auteurs. 
+
+Ces differences structurales observ~es B I'Ctat cristallin cons-
+
+tituent un argument en faveur d'une differenciation entre les 
+vitesses de liberation des ions Ca" et Mg2' a partir de leurs 
+complexes, si I'on adrnet des structures cornparables en solu-
+tion. I1 serait interessant de preciser le rnecanisrne de cette 
+discrimination cinetique. Dans un premier temps nous nous 
+proposons d'etudier la presence eventuelle de molecules d'eau 
+dans l'espkce qui assure le transport; cela necessite la rnise au 
+point d'un processus experimental approprie. 
+
+B. SClectivitP Ca2'/Mg2' pour N-Me A.23187 2 
+Les deux substituants -NHCH, et -COOH (ou -COO-) 
+
+dans A.23 187 (fig. I, R = H) presentent une chelation intra-
+
+rnolCculaire -NH (CH3). . . O=C(. . . ) qui les rnaintient dans 
+
+le plan du benzoxazole, si l'on se rapporte aux resultats radio-
+cristallographiques donnes sur I'acide libre (14) et les sels 
+complexes (I 1, 12). L'introduction d'un deuxikrne groupement 
+rnethyle sur -NHCH, (15) (fig. 1, R = CH3) supprime cette 
+possibilite de chelation et entraine une modification des pro-
+
+priCtCs d'association avec les cations qui apparait B I'exarnen 
+des constantes de formation des complexes 1 : 1 et 2: 1 dans le 
+methanol (1 6) (equilibres [ 11 -[3]). 
+
+log PAT,,+ = 4,7 
+log PA*,,, = 8,5 
+
+log PA~M,+ = 5,2 log PA.,,, = 9,5 
+Pi,,ca = 1,26 X lo-', 
+Pa.,Mg = 1,25 X 10-l2 
+
+ou I'on observe une nette destabilisation des associations for-
+rnees. 
+Les resultats du transport cationique dans un systkrne 
+eau/CHCl,/eau par cet ionophore rnodifik sont representes sur 
+la fig. 1. L'ion Mg2+ est transporte preferentiellernent 2 Ca", 
+
+le flux rnaxirnun atteint ttant superieur B celui de Ca2+ pour 
+
+A.23 187 bien que la stabilite des complexes soit trks inferieure. 
+On avait d6jB observe un phenornkne semblable pour X.537A 
+(1). 
+Lorsque les deux cations sont presents en competition dans 
+la phase d'extraction, les flux initiaux rnesures B pH 8,5 sont 
+respectivernent 
+JCrz+ = 0,2 X lo-'' rnol s-' crn-' 
+
+JM,2+ = 2,3 X lo-'' rnol s-' crn-' 
+
+La faible modification introduite sur la structure naturelle a 
+donc pour effet d'inverser la sClectivitC du transport 
+Ca'+/Mg2+ dans ce systkrne rnernbranaire. 
+Cornrne precedernrnent, les flux initiaux correspondant aux 
+phenornknes d'extraction et de liberation des cations dans une 
+
+demi-cellule eau/CHCl, ont Cte rnesures; on obtient les valeurs 
+suivantes: 
+
+Flux d'extraction 
+Flux de libtration 
+
+Jc,,l+ = 1,7 X lo-" 
+Jc;,l+ = 8 X lo-" 
+JMgz+ = 5,3 X lo-'' 
+JMgl+ = 15 X lo-" 
+
+Les flux d'entree sont plus faibles si l'on se refkre i 
+A.23 187. Par ailleurs, tant B l'entree qu'i la sortie de la phase 
+organique les valeurs des flux sont en faveur de Mg" ce qui 
+peut entrainer un transport global preferentiel de ce cation. 
+Ainsi la transformation de -NHCH, en -N(CH,)? suffit pour 
+creer des effets steriques et klectroniques autour du -C02H 
+qui rnodifient la structure des complexes dirneriques forrnes et 
+par voie de condquence les cinetiques d'echange aux inter-
+faces, confirmant ainsi les observations faites pour A.23 187. 
+En conclusion, il est necessaire d'insister sur le fait que ces 
+resultats ne sont pas necessairernent transposables syste-
+
+rnatiquement B d'autres phases rnernbranaires, en particulier a 
+
+la membrane rnitochondriale (4) ou un bon ionophore des 
+cations divalents doit posseder des constantes d'associations 
+elevkes avec ces cations, cornpte tenu de la competition avec 
+les sites propres de la rnitochondrie; c'est le cas de A.23187, 
+rnais c'est un transporteur lent (9). 
+Les ~rerniers rtsultats obtenus avec N-Me A.23187 aui 
+forme des complexes rnoins stables montrent effectivement que 
+c'est un ionophore peu efficace dans cet organite.' 
+Le transport preferentiel de Ca2+/Mg2+ mis en evidence pour 
+A.23187 dans differentes conditions experimentales (5-7) est 
+trks vraisernblablement attribuable a une cinktique de liberation 
+differente pour ces deux ions comrne dans la membrane liquide 
+chloroforrnique qui constitue sur ce point un modkle inti-
+ressant. 
+
+Partie experimentale 
+Produirs 
+
+L'antibiotique A.23187 1 est is016 a partir d'une culture en fer-
+
+menteur de 20 L de la souche NRRL 3882 (Srrepromyces charrreusis) 
+(1). La prkparation du dCrivC 2 est dtcrite dans la ref. 15. 
+Les sels de Ca2+ et Mg2+ sont prCparCs et isolCs selon la technique 
+de Deber et Pfeiffer (17). Le complexe cristallisC obtenu avec Mg" 
+a servi conjointement pour les dkterminations radiocristallographiques 
+(12). Pour la N-mCthylcalcimycine 2, les sels de Ca" et Mg2* sont 
+prCparCs in siru en agitant au vortex une solution chloroformique 2 x 
+M du dCrivC et une solution aqueuse tamponnee pH 10,3 des 
+sels Mg(C104)2 ou Ca(C104)2 Merck, lo-%. La formation du com-
+plexe 2: 1 dans la phase chloroformique est totale, elle est vCrifiCe sur 
+une quantitC aliquote par IibCration des cations I'aide d'HCI 0, I N 
+et mesure de leur concentration par absorption atomique (appareil 
+Perkin-Elmer 420). 
+Les solutions aqueuses sont tamponnCes par un melange 
+tricine-trikthanolamine Merck 
+M, le pH est ajustC avec une 
+prCcision de 0,02 unitCs. 
+
+Transport rriphasique ea~/CHCl.~/eau (fig. I) 
+La cellule utilisCe et les conditions du transport ont CtC dCcrites 
+prCcCdemment (1). La phase chloroformique est prCalablement saturCe 
+d'eau, elle contient I'ionophore 1 ou 2 A la concentration 4 x lo-' M. 
+La phase aqueuse d'extraction ou d'entrCe est une solution lo-' M de 
+Ca(C104)2 ou Mg(C104)2 Merck. 
+
+On mesure les flux ioniques exprimCs en mol s-' cm-' a I'Cta-
+
+blissement du rCgime quasi-stationnaire dans la phase aqueuse de 
+liberation ou de sortie, maintenue a pH 7,0, pour chaque valeur du pH 
+
+' J. Guyot, travaux non publiCs. 
+
+Can. J. Chem. Downloaded from www.nrcresearchpress.com by 87.160.185.190 on 03/27/14 
+
+For personal use only. 
+
+
+BOLTE ET AL. 
+
+3481 
+
+de la phase d'entrte. Pour cela, un tchantillon de 1 mL est prtlevt 
+1, J , BOLTE, C, DEMUYNCK, G, JEMINET, J , jUILLARD et C, TISSIER. 
+dans la phase de sortie B intervalles de temps rtguliers et dose par 
+Can. J. Chem. 60, 981 (1982). 
+absorption atomique, la meme quantitt de phase aqueuse tamponnee 
+2. J . W. WESTLEY (Editor). Polyether antibiotics. Vol. 1. Biology. 
+est introduite dans la cellule en compensation. 
+M. Dekker, New York. 1982. 
+Le pH de la phase d'entrte est contrBlte en permanence. 
+3. L. M . DULYEA, T. M. FYLES et D. M. WHITFIELD. Can. J. Chem. 
+Cindtiques de libe'ration eau/CHCI., (fig. 3) 
+Une solution chloroformique (6 mL) prtalablement saturte d'eau 
+contenant le complexe de Ca'+ ou Mg" des composts 1 ou 2 a la 
+
+concentration 2 X lo-' M et 6 mL d'une solution aqueuse 2 pH 7,O 
+
+(tampon tricine 
+M ) sont mis en contact dans une cellule 
+cyclindrique thermortgulte B 25°C (diametre inttrieur 2 cm, hauteur 
+6 cm). 
+La phase organique est agitte par un agitateur magnetique tournant 
+B 600 tours/min et la phase aqueuse par une baguette de verre 
+(diametre 3 mm) terminte par une pale rectangulaire de 6 x 3 mm mue 
+par un moteur Clectrique synchrone tournant B 600 tours/min. La 
+concentration des cations dans la phase aqueuse est mesurte par 
+absorption atomique. 
+
+Cine'tiques d'extraction enu/CHCl., 
+La m&amp;me cellule que prtctdemment est utiliste. Une solution chlo-
+
+roformique (6 mL) de 1 ou 2 2 la concentration 2 x lo-' M et 6 mL 
+
+d'une solution tamponnte B pH 8,5 (tritthanolamine-tricine) de 
+Ca(C104)2 ou Mg(C1O4)' lo-' M sont mis en contact et agittes comme 
+ci-dessus. 
+La vitesse d'apparition du cation dans la phase organique est me-
+surte en prklevant 1 mL de celle-ci que I'on traite par I mL de HC1 
+0, I N pour libtrer le cation et le doser. Pour faire des mesures en 
+fonction du temps on opere avec une strie de cellules synchronistes. 
+Les valeurs de flux initiaux mentionnks portent sur trois mesures. 
+
+62, 498 (1984). 
+4. J. GUYOT, G. JEMlNETet R. DEBISE. Experientia, 40, 551 (1984). 
+5. M. A. KOLBER et D. H. HAYNES. Biophys. J. 36, 369 (1981). 
+6. Y. N. ANTONEUKO et L. S. YAGUZHINSKY. FEBS Lett. 163, 42 
+(1983). 
+7. D. R. PFEIFFER and H. A. LARDY. Biochemistry, 15, 937 (1976). 
+8. M. DEBONO, R. M. MOLLOY, D. E. DORMAN, J. W. PASCHAL, 
+D. F. BABCOCK, C. M. DEBER et D. R. PFEIFFER. Biochemistry, 
+20, 6865 (1981). 
+9. G. KRAUSE, E. GRELL, A. M. ALBRECHT-GARY, D. W. BOYD et 
+J. P. SCHWING. Stud. Phys. Theor. Chem. 24, 255 (1983). 
+10. R. J. P. WILLIAMS. In Calcium in biological systems. Cambridge 
+Univ. Press. 1976. pp. 1-17. 
+11. G. D. SMITH et W. L. DUAX. J. Am. Chem. Soc. 98, 1578 
+(1976). 
+12. M. ALLEAUME et Y. BARRANS. Can. J. Chem. 63, 3482 (1985). 
+13. N. GRESH et A. PULLMAN. Int. J. Quantum Chem. 10, 215 
+(1983). 
+14. M. 0 . CHANEY, P. V. DEMARCO, N. D. JONES et J. L. OC-
+COLOWITZ. J. Am. Chem. Soc. 96, 1932 (1974). 
+15. M. PRUDHOMME et G. JEMINET. Experientia, 39, 256 (1983). 
+16. J. BOLTE, S. CAFFAREL-MENDES, C. DEMUYNCK et G. JEMINET. 
+Stud. Phys. Theor. Chem. 24, 247 (1983). 
+17. C. M. DEBER et D. R. PFEIFFER. Biochemistry, 15, 132 (1976). 
+
+Remerciements 
+Ce travail a Ct C effectuC dans le cadre de la R.C.P. 801605 
+du C.N.R.S. 
+
+Can. J. Chem. Downloaded from www.nrcresearchpress.com by 87.160.185.190 on 03/27/14 
+
+For personal use only. 
+
+
+
+	
+

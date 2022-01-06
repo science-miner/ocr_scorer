@@ -1,0 +1,704 @@
+
+	
+
+		
+
+	
+
+	
+
+Hydrodesazotation de l'indole sur catalyseur fer supporte sur amiante 
+
+ROGER ZALMA, LIONEL BONNEAU, JEANINE FOURNIER, JOELLE GUIGNARD, FRAN~OISE BORG' 
+ET HENRI PEZERAT~ 
+Laboratoire de re'activitk de surjface et structure, Unite' associke 1106, Centre national de la recherche scientifique, 
+Universitk Pierre et Marie Curie, 4 Place Jussieu, Tour 54-55, 75252 Paris CEDEX 05, France 
+R e ~u le 15 juillet 1986 
+
+ROGER ZALMA, LIONEL BONNEAU, JEANINE FOURNIER, JOELLE GUIGNARD, FRANGOISE BORG et HENRI PEZERAT. Can. J. 
+Chem. 65, 523 (1987). 
+Dans ce travail, la rkaction de dCsazotation de l'indole a Ct C testCe en prksence de deux variCtCs d'amiante (chrysotile et 
+crocidolite) sous pression d'hydrogtne. Cette reaction s'effectue suivant deux voies competitives dont les principales Ctapes 
+ont Ct C dCterminCes. Les produits de dksazotation sont essentiellement 1'Cthylcyclohexane et le mCthylcyclohexane. L'augmen-
+tation de la tempkrature et de la pression et la prCrCduction des matCriaux favorisent la dCsazotation. La prCsence de particules 
+de F ~O en surface de fibres, formCes i partir du matkriau de dCpart, joue un r6le dans la premiere coupure des liaisons C-N et 
+dans 17hydrogCnation des cycles. 
+
+ROGER ZALMA, LIONEL BONNEAU, JEANINE FOURNIER, JOELLE GUIGNARD, F R A N ~O I S E 
+BORG, and HENRI PEZERAT. Can. 
+J. Chem. 65, 523 (1987). 
+The aim of this study is to examine hydrodenitrogenation (HDN) of indole on asbestos catalysts (chrysotile and crocidolite) 
+under hydrogen pressure. HDN is carried out according to two competitive pathways, either via ortho-ethylaniline or via 
+ortho-toluidine. This reaction is assisted by increase of temperature and pressure and by pre-reduction of the asbestos. Particles 
+of FeO on the fibre surface are formed from the original material. Their presence plays a role in the initial breaking of the C-N 
+bond and in the hydrogenation reaction. 
+
+Le processus d'hydrotraitement catalytique a pour but d'kli-
+
+miner les htteroatomes (S, N, 0 ) A partir des fractions lourdes 
+
+du pttrole en effectuant l'hydrodtsulfuration (HDS) et l'hydro-
+dtsazotation (HDN) qui s'avhe Etre l'etape la plus difficile. 
+L'hydrodbazotation des hydrocarbures azotes est un pro-
+
+cessus catalytique entrainant la formation de NH3 dont la presence 
+conduit A un empoisonnement des sites actifs des catalyseurs 
+
+acides utilises en craquage, reformage et isomerisation. 
+Actuellement, 1'HDN est effectute a partir de catalyseurs 
+
+heterogknes tels CoMo, NiMo sulfur&amp; supportts sur alumine. 
+Plusieurs auteurs ktudiant les mtcanismes des reactions d'HDN 
+
+sur ces catalyseurs (1, 2) ont avanct l'intervention de plusieurs 
+
+espkces de sites actifs. 
+Nos prtcedents travaux sur les amiantes ont mis en evidence 
+la presence dominante de sites donneurs d'electrons sur ces 
+matkriaux. Ces sites sont des groupements O H en basse coor-
+dination, situes en frontikre de la phase solide (3, 4). De plus, 
+nous avons rev616 le caractkre catalytique des amiantes, notam-
+ment dans l'oxydation d'un hydrocarbure polyaromatique, le 
+
+fluorhe (5). Aussi, Ctait-il interessant de tester ces solides 
+
+comme catalyseurs en HDN. 
+Pour cette Ctude, nous avons utilise deux minkraux, le chry-
+sotile et la crocidolite (une amphibole ferrifkre) reprisentatifs 
+des deux familles d'amiante. Ces deux mineraux contiennent 
+de la magnetite comme impurete principale (3-4%). Lors des 
+operations de reduction, la magnetite est rtduite en FeO ce qui 
+
+conduit A un solide qu'on peut considerer comme un catalyseur 
+
+fer supporte sur amiante. Dans la majoritt de nos travaux, 
+l'indole a ttC choisi comme molCcule de depart. 
+Le but de ce travail n'est pas de fournir des mecanismes 
+dCtaillCs des rtactions en cause, mais plutbt de mettre en Cvi-
+dence l'activite catalytique de mattriaux simples pour 1'HDN 
+de certains heterocycles. 
+
+Methodes experimentales 
+
+Les rCactions ont CtC rCalisCes dans un autoclave Prolabo (volume 
+de 250 mL) avec un systtme d'agitation oscillant (environ une oscilla-
+tion par seconde, non modulable). Le volume de solution est infkrieur 
+i lOOmL et la vitesse maximale de montte en tempCrature est de 
+4"C/min. L'inertie du four est telle que le refroidissement s'effectue 
+avec une vitesse de l'ordre de 1°C/rnin. Un tube central muni d'une 
+crCpine et d'un robinet permet des prises d'essai au cours du temps. 
+Le solvant utilisC est l'hexadkcane, sauf dans quelques expkriences 
+oh nous avons employC l'hexane. 
+Les matCriaux testis sont un chrysotile et une crocidolite commer-
+ciaux. Le chrysotile est trts proche des Cchantillons canadiens, en 
+particulier parce qu'il contient les mCmes contaminants minCraux : 
+magnCtite et nCmalite (brucite fibreuse). Le taux de fer total exprim6 
+en Fe203 est de 5,85%, celui de Fe2+ exprim6 en FeO, de 1,58%. La 
+crocidolite, en provenance d'Afrique du Sud, a une composition 
+proche de la formule thCorique, soit Na2Fe3Sis022(OH)z, avec A peu 
+prts le mCme taux de Fe2+ et de ~e ~+ . 
+Ces amiantes ont d'abord CtC sCchCs i 60°C puis broyCs 30 s dans 
+un broyeur Sl anneau. 11s sont ensuite lavCs deux fois avec du benzene 
+i llCbullition pour Climiner les impuretis susceptibles d'Ctre preadsor-
+bCes, puis sCchCs sous courant d'azote i 70°C. Ces matkriaux, suivant 
+les expkriences, peuvent ensuite subir d'autres traitements que nous 
+prkciserons ultkrieurement. 
+La reaction est effectuCe avec 75 mL de solvant, 2,25 g d'amiante 
+et 225 mg de produit organique h dCsazoter. Certaines expCriences ont 
+kt6 rCalisCes avec une ~rCr6duction du solide. consistant en un traite-
+ment dans l'autoclave' avec 50mL de sol"ant sous une pression 
+d'hydrogtne de 7 MPa et h une tempirature de 350°C pendant 6 h. 
+Aprts refroidissement on ajoute 25 rnL de solvant et le produit organi-
+que h traiter. 
+Les produits de la rkaction sont analyses en chromatographie phase 
+vapeur (cpv) sur un chromatographe Girdel E 330 (colonne Chromo-
+sorb W i 10% de silicone OV 17). 
+Aprts rkaction, les fibres sont sCparCes par filtration et la solution 
+est analysCe. 
+
+Nos &amp;sultats sont exprimis en pourcentage par rapport A I'ensemble 
+
+1. TOTAL-Compagnie Fran~aise de Raffinage, Centre de recherches, 
+des produits provenant de la rCaction d'HDN de l'indole. L'analyse 
+B.P. 27, 76700 Harfleur, France. 
+chromatographique et, dans quelques cas, la spectrographie de masse 
+
+2. Auteur i qui adresser toute correspondance. 
+
+ont permis de dCterminer les produits formCs. 
+
+Pnnted In Canada i lrnpnrni au Canada 
+
+Can. J. Chem. Downloaded from www.nrcresearchpress.com by 87.160.185.190 on 03/27/14 
+
+For personal use only. 
+
+
+CAN. I. CHEM. VOL. 65, 1987 
+
+POURC ENTAGE 
+
+t : 
+
+ORTHO TOLU l Dl NE 
+
+CYCLOHEXANE 
+
+(heures) 
+
+FIG. 1. Evolution du pourcentage des diffkrents produits en fonction du temps ? i 
+
+partir du chrysotile prCrCduit (350°C, 7 MPa Hz). 
+
+L'inertie du four utilisC ne permet pas de considCrer comrne nCgli-
+
+geable l'intemalle de temps nCcessaire i 1'Ctablissement des condi-
+tions ex@rimentdes choisies. Ceci nous a conduit i utiliser Wois modes 
+
+operatoires afin de rnieux apprChender les processus reactionnels : 
+(a) Des re'actions avec palier de tempe'rature 
+Un temps de 6 h est comptt entre l'instant de mise en marche du 
+four et celui de son mEt. La vitesse de montCe en temperature est de 
+4"C/min. L'analyse des produits contenus dans le rCacteur a lieu 
+apres refroidissement complet. Le choix d'un temps relativement long 
+de 6 h permet de nCgliger les Cventuels problemes de diffusion. Nous 
+verrons d'ailleurs (fig. 1) que 1'Cquilibre rCactionnel est atteint pour 
+un temps de 3-4 h. 
+(b) Des re'actions sans palier de tempe'rature 
+L'expCrience est menCe comme dans le cas prCcCdent si ce n'est 
+que le four est m&amp;tC des qu'il atteint la tempCrature choisie. 
+(c) Des riactions avec pre'livements (1 mL) au cours du temps 
+rCalisCes dans les m&amp;mes conditions opCratoires qu'en (a). Dans ce 
+cas le refroidissement est tres rapide ce qui permet d'admettre que les 
+reactions sont stoppkes instantankment. 
+Dans les trois cas, la pression d'hydrogene annoncCe est la pression 
+initiale h froid, la pression finale Ctant Cvidemment plus ClevCe compte 
+tenu de l'augmentation de la tempCrature. 
+
+Nous avons limit6 volontairement la tempkrature maximale i 380°C 
+
+pour Cviter une alteration structurale des solides utilisCs. 
+Le chrysotile et la crocidolite utilisCs contiennent en faible quantitC 
+de la magnCtite Fe304 que l'on met en Cvidence par diffraction des 
+rayons X apres extraction h l'aide d'un barreau aimante (agitation 
+dans le benzene). La formation de particules de F ~O lors des opera-
+tions est suivie par le m&amp;me mCthode. 
+
+Rbultats 
+(a), Etudes pre'liminaires 
+A 350°C sous 7 MPa d'hydrogkne et en absence des cataly-
+seurs, nous avons constate la formation de 0,8% d'indoline, 
+99% de l'indole ttant conserve. Dans une expirience effectuee 
+en palier de temperature h 380°C sous 7 MPa d'hydrogkne et 
+sans catalyseur, 1% de l'indole est consommt. Seulement des 
+traces de produits desazotts ont pu Ctre dtcelkes. 
+
+En prisence d'amiante et en abience d'indole on observe un 
+debut de craquage du solvant, l'htxadecane, 350°C sous 
+
+pression d'hydrogkne. Huit n-alcanes (de C5 i CI2) sont mis e n 
+
+tvidence. On les retrouve dans toutes les reactions et on ne les 
+prend pas en consideration dans les resultats. 
+Quelques experiences en palier de temperature a 250, 300 et 
+350°C, avec chrysotile et crocidolite, permettent d'identifier, 
+dans tous les cas, les trois grandes etapes ci-dessous : 
+
+(11) ortho-Cthylaniline 
+
+Indole ( I ) indoline -ortho-toluidine 
+
+(111) Cthylcyclohexane 
+
+-mCthylcyclohexane 
+
+cyclohexane 
+
+(6) Evolution des produits formb en fonction du temps 
+Cette etude, en palier d e temperature, a etC rtaliste partir 
+de chrysotile prereduit et en effectuant des prelkvements au 
+cours du temps. 
+Nous avons represente sur la figure 1 l'evolution du pour-
+centage des differents produits de la reaction en fonction du 
+temps. Sur le graphique nous avons choisi comme origine des 
+temps l'instant oh le four atteint 350°C. Les reactions en cause 
+dtbutent aux environs de 250°C, donc avant le point choisi 
+comme origine des temps. 
+Nos conditions expkimentales ne nous permettent pas d'acce-
+der aux constantes de vitesse de chacune des rtactions, mais on 
+peut cependant observer que les vitesses apparentes de dispari-
+tion de l'indoline, de l'ortho-ethylaniline et de l'ortho-toluidine 
+sont plus lentes que celles d'apparition. 
+
+Au dela de 30 min, i chaque instant la somme SE de l'ortho-
+
+tthylaniline et de 1'tthylcyclohexane d'une part et la somme ST 
+de l'ortho-toluidine, du mCthylcyclohexane et du cyclohexane 
+sont sensiblement constantes. 
+Les chemins rtactionnels probables sont donnes dans la 
+figure 2. 
+Au debut de la reaction, l'indole est reduit en indoline, qui, 
+Can. J. Chem. Downloaded from www.nrcresearchpress.com by 87.160.185.190 on 03/27/14 
+
+For personal use only. 
+
+
+ZALMA ET AL. 
+
+525 
+
+FIG. 2. SchCma des chemins rkactionnels. 
+
+au del2 d'une demi-heure, est totalement transformee en ortho-
+Cthylaniline et en ortho-toluidine selon des rkactions compCti-
+tives comme nous le montrerons ci-dessous. L'ortho-Cthylani-
+line conduit ensuite 2 1'Cthylcyclohexane (avec peut-&amp;tre 1'Cthyl-
+benzkne comme phase intermediaire) d'oh la quasi-constance 
+de la somme SE. De m&amp;me, nous pouvons dtduire que l'ortho-
+toluidine est dCsazotCe en mCthylcyclohexane. Le cyclohexane 
+provient directement de l'ortho-toluidine sans passer par le 
+mtthylcyclohexane, comme nous le montrerons ci-aprks. 
+
+(c) Influence de divers paramdtres 
+Influence de la pression 
+Les exptriences H3, et H26 (tableau 1) ont Ct C rCalisCes a 
+
+380°C sans palier (notees 7 380°C I) sous des pressions de 3 
+
+et 7 MPa, avec du chrysotile prCrCduit. 
+L'examen du tableau 1 rtvkle que la diminution de la pres-
+sion (de 7 a 3 MPa) abaisse le taux de dCsazotation de l'indole. 
+A faible pression on obtient une teneur ClevCe en ortho-Cthyl-
+aniline et ortho-toluidine, ce qui confirme qu'il s'agit bien de 
+produits intermkdiaires dans la formation de l'tthylcyclohexane 
+et du mCthylcyclohexane. Sur ce m&amp;me tableau on observe 
+aussi qu'une diminution de pression favorise la voie T au 
+dktriment de la voie E. Par exemple, la somme ortho-toluidine 
+
+plus mCthylcyclohexane (voie T) passe de 25,6 a 41% alors 
+
+que la somme ortho-Cthylaniline plus Cthylcyclohexane (voie 
+E) passe de 54 2 33%. 
+Nous avons dCsignC par G un produit non identifiC qui a un 
+temps de rktention en chromatographie gazeuse proche de celui 
+de 1'Cthylbenzkne. 11 apparait en faible quantitC et les exp6riences 
+complCmentaires ci-dessous nous font penser qu'il s'agit de 
+l'Cthylcyclohex?ne, compost5 dCji mis en Cvidence par Stem 
+(6) dans 1'HDN de l'indole. Ce composC serait intermkdiaire, 
+dans la voie E, entre Cthylbenzkne et 1'Cthylcyclohexane. 
+
+TABLEAU 1. Influence de la pression 
+
+Chrysotile prCrCduit 
+
+H33, 7' 380°CL H26, 7'380°CL 
+
+3 MPa (%)" 
+
+7 MPa (%) 
+
+Indole 
+Indoline 
+ortho-Ethylaniline 
+ortho-Toluidine 
+Ethylbenzkne 
+
+G 
+
+Ethylcyclohexane 
+MCthylcyclohexane 
+Cyclohexane 
+
+"% : pourcentage par rapport la somme des produits issus de I'indole. 
+
+Influence de la tempkrature 
+L'influence de la tempirature a Ct C CtudiCe d'une part avec le 
+chrysotile prCrCduit (H2=, , H27, H26) sans palier de tempkrature, 
+d'autre part avec la crocidolite (H18, H21) sans prCrCduction et 
+
++ -
+
+avec palier de temperature (not6 300°C et 380°C). 
+L'examen du tableau 2 dans le cas du chrysotile prCrCduit 
+fait apparaitre, d'une part que le taux de dksazotation varie 
+
+dans le m&amp;me sens que la tempCrature (37% 5 350°C, 60,6% a 
+
+365"C, 99% 5 380°C), et d'autre part que la variation de 
+tempCrature ne favorise pas sklectivement une voie de dbazo-
+tation (E ou T). 
+Dans le cas de la crocidolite, 5 300°C (H18) sans prCrCduc-
+tion du catalyseur, on observe une hyd~ogenation de l'indole 
+en indoline et formation d'kthylaniline. A 350°C (H21) l'indole 
+est complktement transform6 en produits dCsazotCs. La voie T 
+est trks favorisCe par rapport 5 la voie E quand on passe de 300 
+a 350°C. 
+
+Influence de la prkrkduction 
+Le tableau 3 permet de mettre en evidence le r61e de l? 
+prCrCduction a diverses tempkratures (250, 350 et 380°C). A 
+250"C, sans pr+rCduction, la transformation de l'indole est 
+faible (&lt;5%). A cette tempkrature, la prCrCduction entraine la 
+transformation de 93% de l'indole avec predominance de la 
+voie E (58% d'ortho-Cthylaniline). A 350°C, les expCriences 
+effectutes sans prCrCduction montrent que la dksazotation reste 
+faible (10%). La transformation de l'indole est cependant quasi 
+totale avec prkdominance de la voie T (60% contre 30% pour 
+la voie E). Par contre, lors de l'utilisation de catalyseurs 
+prCrCduits, on observe que la dCsazotation (&gt;35%) et la voie E 
+(60%) sont nettement favoriskes. 
+Les exptriences H29 et H30 rtalisCes avec la crocidolite a 
+380°C sans et avec prCrCduction font apparaitre une Cvolution 
+dans le m&amp;me sens. En effet, sans prerkduction on a 21,3% 
+pour la voie E contre 30% pour la voie T alors qu'avec 
+prerkduction on obtient 65,3% pour la voie E contre 23,6% 
+pour la voie T. 
+I1 est nCcessaire de prCciser que nos conditions expCrimen-
+tales entrainent l'apport de particules de F ~O en surface de nos 
+matCriaux dks la tempCrature de 300°C en particulier dans les 
+expiriences de prCrCduction a 350°C. Ce FeO provient de la 
+rkduction des contaminants rninCraux des deux variCtCs d'arniante 
+(en particulier de la magnCtite) et peut 6tre d'une fraction des 
+couches octakdriques de surface des N I-beam &gt;&gt; dans le cas de 
+la crocidolite. Les exptriences rapportCes dans le tableau 3 
+Can. J. Chem. Downloaded from www.nrcresearchpress.com by 87.160.185.190 on 03/27/14 
+
+For personal use only. 
+
+
+CAN. J. CHEM. VOL. 65, 1987 
+
+TABLEAU 2. Influence de la temptrature 
+
+Chrysotile prCrCduit 
+Crocidolite 
+
+__f 
+
+-
+
+H25, 7 350°C \ H2,, 7 36S°C \ HZ6, 7 380°C \ 
+H I 8 . 300°C H2Ir 350°C 
+7 MPa (%)" 
+7 MPa (%) 
+7 MPa (%) 
+7 MPa (%) 
+7 MPa (%) 
+
+Indole 
+
+1 3 
+
+0 
+0 
+58,2 
+0,11 
+Indoline 
+0 
+0 
+0 
+17,4 
+0 
+ortho-Ethylaniline 
+37,6 
+19,4 
+0,5 
+21,4 
+0 
+qrtho-Toluidine 
+23,6 
+20 
+0,s 
+0 
+0 
+Ethy lbenztne 
+0,7 
+1,3 
+1,9 
+0 
+0,66 
+
+G 
+
+0 
+5,9 
+4,4 
+0 
+0,34 
+~th~lc~clohexane 
+22,8 
+31,7 
+53,s 
+0,53 
+32,7 
+Mtthylcyclohexane 
+6 
+13,l 
+25.1 
+2,41 
+45,l 
+Cyclohexane 
+7,5 
+8,6 
+14,l 
+0 
+21,l 
+SE 
+61,l 
+58,3 
+60,3 
+ST 
+37,l 
+41.7 
+39,7 
+
+"% : pourcentage par rapport B la somme des produits issus de l'indole. 
+
+TABLEAU 3. Influence de la prCrCduction 
+
+Chrysotile 
+Crocidolite 
+
+H I prCrCduit , 
+
++ 
+
+H25 prtrCduit, 
+H30 prCrtduit, 
+HI4, 250°C 
+
+250"6 
+
+HZ4. 7350°CL 
+735O0CL 
+HZ9, 7' 380°C \ 
+7' 380°C \ 
+7 MPa (%)" 
+7 MPa (%) 
+7 MPa (%) 
+7 MPa (%) 
+7 MPa (%) 
+7 MPa (%) 
+
+Indole 
+Indoline 
+ortho-Ethylaniline 
+ortho-Toluidine 
+Ethylbenztne 
+
+G 
+
+Ethy lcyclohexane 
+MCthylcyclohexane 
+Cyclohexane 
+
+"% : pourcentage par rapport a la somme des produits issus de I'indole. 
+
+montrent que la presence de F ~O et la tempCrature Clevte 
+favorisent l'ttape hydrogenante. 
+
+(d) Expbiences comple'mentaires 
+En vue de prkciser les Ctapes de transformation de l'indole, 
+nous avons realis6 des expkriences en partant de difftrents 
+produits intermediaires. Toutes ces rtactions, en palier de 
+
+tempkrature, ont t t t effectuCes i 350°C sous une pression de 
+
+7 MPa d'hydrogkne avec du chrysotile prtrCduit comme cata-
+lyseur et en effectuant plusieurs prklkvements au cours du 
+temps. Sur la figure 2 nous avons not6 les diffkrents produits 
+mis en Cvidence au cours de nos analyses. I1 est possible sinon 
+probable qu'il existe d'autres produits intermtdiaires mais trop 
+instables pour qu'on ait pu les caractkriser. 
+Afin de vCrifier que la formation de l'indoline est une Ctape 
+intermkdiaire dans la rCaction de dCsazotation de l'indole, 
+qu'elle se fasse par la voie E ou la voie T, nous avons rtalisC 
+une rCaction en partant de l'indoline. Un prklkvement, effectut 
+d&amp;s que la temptrature de l'autoclave atteignait 350°C, mon-
+trait la formation d'orthotthylaniline et d'ortho-toluidine, dans 
+des proportions voisines de celles obtenues 6 partir de l'indole 
+dans des conditions comparables. 
+Par ailleurs, afin de vtrifier que l'ortho-toluidine n'Ctait pas 
+formCe B partir de l'ortho-Cthylaniline, nous avons realist une 
+
+rtaction en partant de l'ortho-tthylaniline. Des prklkvements 
+effectuts toutes les heures ont montrC que la dksazotation a 
+bien lieu sans formation ni d'ortho-toluidine, ni de mCthyl-
+cyclohexane, ni de cyclohexane. Seuls apparaissent 1'Cthylcy-
+clohexane, un peu d'tthylbenzkne et un peu de produit G qui 
+apparait bien comme un compost se formant dans la voie E. La 
+quantitC de G diminue en fonction du temps. 
+Une rtaction effectuCe, dans les mCmes conditions, a partir 
+de l'bthylbenzkne ne produit que de 1'Cthylcyclohexane. 
+En partant de l'ortho-toluidine, on forme essentiellement du 
+mCthylcyclohexane, et un peu de cyclohexane. Par contre, en 
+partant du mCthylcyclohexane on n'observe pas de transforma-
+tion. I1 semble donc que le cyclohexane puisse Ctre obtenu 2 
+partir de l'ortho-toluidine sans passer par le mCthylcyclohexane. 
+Afin d'examiner ce qui se passe dans le cas oh le carbone en 
+a de l'azote appartient a un cycle, nous avons essay6 la rCac-
+tion sur l'acridine avec le chrysotile et la crocidolite comrne 
+catalyseurs. Les produits de la rtaction ont Ct C identifies par 
+spectrographie de masse. 
+Les seuls produits mis en Cvidence sont des produits d'hy-
+drogCnation de l'acridine : les octahydroacridine et les tCtra-
+dtcahydroacridines. Des prClkvements successifs au cours de la 
+rCaction ont montrt que les octahydroacridines sont une Ctape 
+intermtdiaire de la formation des tttradCcahydroacridines. NOUS 
+Can. J. Chem. Downloaded from www.nrcresearchpress.com by 87.160.185.190 on 03/27/14 
+
+For personal use only. 
+
+
+ZALMA ET AL. 
+
+527 
+
+n'avons observC aucune coupure de la molCcule. Le chrysotile 
+et la crocidolite ne semblent pas Ctre capables d'assurer la 
+desazotation de l'acridine dans nos conditions expkrimentales. 
+
+Discussion 
+Les Ctapes de I'HDN de l'indole sur amiante rCvelent des 
+points communs et des diffkrences avec celles prCsentCes par 
+1'HDN de la mCme molCcule sur des catalyseurs a base de 
+sulfure de molybdkne et de sulfure de cobalt ou de nickel 
+supportCs sur alumine ou silice (6-8). 
+Les points communs sont : (i) le passage par l'indole, c'est-
+a-dire l'hydrogknation de la liaison 2-3, C,-Cp, a peu prks 
+dans les mCmes conditions de tempCrature et de pression. Ceci 
+confirme les observations faites par de nombreux auteurs (par 
+exemple, rCf. 9) sur la necessitC dlhydrogCner cette liaison avant 
+de pouvoir rtaliser la desazotation; (ii) le passage probable par 
+1'Cthylbenzkne entre les Ctapes ortho-Cthylaniline et Cthylcyclo-
+hexane (6, 8). 
+La difference principale entre la catalyse sur amiante et la 
+catalyse sur sulfures de Mo et Ni, est l'existence, dans le 
+premier cas, d'une seconde voie d'hydrogCnolyse de l'indoline 
+(voie T sur la figure 2), puisque nous avons montri que I'ortho-
+toluidine ne provenait pas de 1'Cthylaniline. Cette voie conduit 
+a la formation de methylcyclohexane et de cyclohexane. 
+La prCsence de cette seconde voie de degradation de l'indo-
+line (voie T) nous amkne a discuter sur la nature des sites 
+responsables de la coupure de la liaison C,-CB, 
+non consta-
+tie avec d'autres catalyseurs classiques d'HDN. Si les fibres 
+
+d'amiantes sont a l'origine, du moins pour une part, de cette 
+
+coupure, nous ne pouvons pas exclure le r61e du FeO. En effet, 
+nous avons test6 comme catalyseur, un oxyde de fer noir Pro-
+lab0 qui est un mClange d'hCmatite et de magnktite. PrCrCduit 
+dans les conditions habituelles (350"C), il donne Cgalement du 
+~e ' . Teste en palier a 350°C sous 7 MPa d'hydrogkne, aprks 
+reduction, il conduit a 43% d'indoline, 22% d'ortho-Cthylani-
+line et 7% d'ortho-toluidine. Dans cette expCrience, on n'arrive 
+pas au stade de la dCsazotation proprement dite. On constate 
+donc que le F ~O seul est capable d'une part de permettre la 
+premikre coupure des liaisons C-N et d'autre part de conduire 
+
+aux deux voies d'hydrogCnolyse en favorisant la voie E par 
+rapport a la voie T. 
+Le fait que la premikre coupure de la liaison C-N soit liee a 
+la prCsence de FeO dans nos matCriaux tendrait a confirmer les 
+propositions de Laine (10) sur le r61e des mCtaux. Cet auteur 
+fait appel a la formation transitoire de complexes ou le mCtal M 
+se lie a l'azote et au carbone situC en a. Ce micanisme est 
+voisin de celui proposC par Guttieri et Maier (1 1) qui utilise le 
+platine support6 sur silice comme catalyseur d'HDN. 
+A partir de toutes les expkriences ou nos matCriaux sont 
+prCrCduits, nous avons constat6 que la presence du FeO favorise 
+la formation de phases hydrogCnCes. Aussi est-il quasi certain 
+que le FeO joue Cgalement un r6le dans l7hydrogCnation du 
+cycle benzCnique pouvant conduire a partir de 1'Cthylaniline et 
+de l'ortho-toluidine aux amines saturtes correspondantes, trks 
+rCactives. 
+Si l'on se rCfkre aux mCcanismes catalytiques proposCs par 
+Nelson et Levy (9), la coupure des liaisons C-N 
+sur les 
+catalyseurs NiMo et CoMo sulfurCs serait un mecanisme basi-
+que. Cette proposition est cohCrente avec le fait que Ni3S2 est 
+l'une des phases actives dans les catalyseurs NiMo (12) et avec 
+le fait que cette phase a un caractkre donneur d'ilectrons (12, 
+13). De meme, Laine (10) fait appel ii ce mCcanisme pour 
+expliquer la trks nette augmentation d'activitC des catalyseurs 
+
+CoMo et NiMo en prCsence de H2S et mCme d'H20. En effet, 
+il fait rkfirence a une attaque nuclCophile sur le carbone situC 
+en a, ce qui revient a faire jouer un r61e important a des entitCs 
+a caractkre donneur. 
+Dans notre cas, les sites en cause peuvent Ctre ceux des deux 
+varietes d'amiante puisque nous avons montrC prCcCdemment 
+que ces matkriaux avaient essentiellement un caracthe don-
+neur d'ilectrons (3, 4). 
+
+Conclusion 
+Les prCsents travaux indiquent que le chrysotile et la croci-
+dolite rCduits constituent des catalyseurs d'HDN avec l'indole. 
+Par contre, avec des molCcules azotees ou les deux carbones en 
+a de l'azote sont engagis dans des cycles, 1'hydrogCnolyse de 
+1'hCtirocycle devient trks difficile. 
+A 380"C, sans palier de tempkrature et sous 7 MPa d'hydro-
+gkne, I'HDN de l'indole est quasi complkte avec les deux 
+mineraux prirCduits. Les premieres Ctapes confirment le fait 
+
+deja note (6,7) que les carbones en a et en p de l'azote doivent 
+
+Ctre saturCs avant qu'il y ait hydrogCnolyse. Par rapport aux 
+catalyseurs sulfures de molybdkne et de nickel, nos catalyseurs 
+presentent 1'originalitC d'une voie particulikre dans l'hydro-
+gknolyse du cycle a cinq atomes, avec perte d'un mithane, 
+cette voie interessant environ 50% des molecules d'indole de 
+
+dCpart . 
+
+Les sites donneurs de l'amiante peuvent jouer un r61e dans la 
+coupure des liaisons C-N des amines intermkdiaires, les sites 
+des particules de FeO participant selon le plus probable aussi 
+
+bien i la coupure des liaisons C-N qu'a celle des liaisons 
+
+C-C. Si les catalyseurs bifonctionnels contenant des mCtaux 
+supportts sur des solides prCsentant des sites acides ont Ct C 
+bien ttudits, il n'en est pas de mEme pour les catalyseurs ayant 
+des supports a caractkre basique. La prCsente Ctude est un 
+exemple de rkactivite catalytique mettant en jeu ces deux types 
+de sites. 
+Comme on pouvait s'y attendre, notre Ctude a montre que 
+pression et temperature favorisaient I'HDN, la pression sem-
+blant Cgalement favoriser la voie passant par l'ortho-ethylani-
+line par rapport a celle passant par l'ortlzo-toluidine. 
+
+Remerciements 
+Les auteurs tiennent a remercier la SociCtC TOTAL-CFR 
+pour son aide financike et technique, et notamment Mr Philippe 
+Doligez pour les analyses en spectrographie de masse. 
+
+1. J. MATERNOVA. Appl. Catal. 3, 3 (1982). 
+2. S. H. YANG et C. N. SATTERFIELD. Ind. Eng. Chem. Process 
+Des. Dev. 23, 20 (1984). 
+3. L. BONNEAU et H. PEZERAT. J. Chim. Phys. 80, 275 (1983). 
+4. L. BONNEAU, H. SUQUET, C. MALARD et H. PEZERAT. Environ. 
+Res. 41, 251 (1986). 
+5. R. ZALMA, J. GUIGNARD, E. COPIN et H. PEZERAT. Environ. 
+Res. 41, 296 (1986). 
+6. E. W. STERN. J. Catal. 57, 390 (1979). 
+7. J. L. OLIVE, S. B~YOKO, T. JEI et P. GENESTE. ArnClioration des 
+procCdCs d'hydroraffinage. Document DGRST. Mai 1981. (AR 
+92 18). 
+8. L. D. ROLLMANN. J. Catal. 46, 243 (1977). 
+9. N. NELSON et R. B. LEVY. J. Catal. 58,485 (1979). 
+10. R. M. LAINE. Catal. Rev. 25, 459 (1983). 
+11. M. J. GUTT~ERI et W. F. MAIER. J . Org. Chem. 49, 2875 (1984). 
+12. K. C. PRATT. J. V. SANDERS et N. TAMP. J. Catal. 66, 82 
+(1 980). 
+13. 0 . WEISSER et S. LANDA. Sulfide catalysts. Their properties and 
+applications. Pergamon, New York. USA. 1983. 
+Can. J. Chem. Downloaded from www.nrcresearchpress.com by 87.160.185.190 on 03/27/14 
+
+For personal use only. 
+
+
+
+	
+

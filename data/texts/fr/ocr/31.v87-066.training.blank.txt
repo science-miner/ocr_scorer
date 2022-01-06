@@ -1,0 +1,885 @@
+
+	
+
+		
+
+	
+
+	
+
+Isomerisation des radicaux insatures. IV. 
+Les radicaux methyl-1-, methyl-2-et dimethyl-l,2-propene-1 yles 
+produits dans la photolyse des tri-et tetramethylethylenes a 147 nm 
+
+GUY J. COLLIN' ET H ~~L I ~N E 
+DESLAURIERS 
+
+De'partement des sciences fondamentales, Universite' du Que'bec a Chicoutimi, Chicoutimi (Que'.), Canada G7H 2BI 
+
+GEORGE R. DE MAR^ 
+
+Laboratoire de chimie physique mole'culaire, Faculte' des sciences, C.P. 160, Universite' Libre de Brruelles, 
+50 ave F.-D. Roosevelt, B-1050 Bruxelles, Belgique 
+
+R e y le 7 juillet 1986 
+
+GUY J. COLLIN, HCL~NE DESLAURIERS et GEORGE R. DE MARC. Can. J. Chem. 65, 391 (1987). 
+On a utilisk la photochirnie directe i 147 nm pour gknkrer les radicaux vinyliques C4H7, mCthyl-1-et mkthyl-2-propene-1 yles, 
+ainsi que le radical C5H9, dimkthyl-l,2-propkne-1 yle, a partir des tri-et tCtramCthyltthylknes. Dans les deux cas, la 
+fragmentation primaire d'une liaison a(C-C) est suffisarnment importante. L'excCdent Cnergie du photon est suffisarnment 
+important pour que ces radicaux vinyliques C4H7 et C5H9 soient vibrationnellernent trks chauds pour pouvoir s'isomkriser vers 
+des structures allyliques avant de se fragrnenter. On montre q u ' i des pressions de l'ordre de quelques Torr, la majoritk des 
+radicaux vinyliques C4H7 ( ~7 0 % ) 
+ont atteint une structure allylique avant fragmentation et que leur temps de vie, evaluC 
+dans les prCsentes conditions, est infkrieur ? i 
+la nanoseconde. La situation est rnoins claire bien que trks similaire dans le cas 
+du radical vinylique C5H9. 
+
+GUY J. COLLIN, HCLBNE DESLAURIERS, and GEORGE R. DE MARC. Can. J. Chem. 65, 391 (1987). 
+Direct photolysis at 147 nm of tri-and tetramethylethylenes has been used to produce highly excited vinylic 1-methyl-and 
+2-methyl-1-propene-1-yl radicals (C4H7), as well as the 1,2-dirnethyl-1-propen-1-yl radical (C5H9). In both cases, the primary 
+fragmentation of the photoexcited molecules involved the split of an a(C-C) bond with high yields. The excess energy is 
+sufficiently important that the majority of the vinylic radicals are very hot, and are able to isomerize towards an allylic structure 
+before the occurrence of fragmentation. At a pressure of a few Torr, most of the vinylic C4H7 radicals (ca. 70%) isornerize to 
+an allylic structure, and its lifetime is estimated to be less than one nanosecond under the present conditions. Although the 
+mechanism is less simple, the excited vinylic C5H9 radical exhibits similar behaviour. 
+
+j 
+
+Introduction 
+
+I 
+
+Dans les trois prtctdentes publications de cette strie, nous 
+avons observt l'interconversion, l'isomtrisation mutuelle de 
+radicaux allyles diversement substituts par des groupes mtthyles 
+(1). Dans ces systkmes, des radicaux allyliques vibrationnelle-
+ment excites ont la possibilitt de transftrer un atome d'hydro-
+g&amp;ne entre les positions 1 et 4 via un intermtdiaire a cinq c6tts. 
+Nous n'avons pas pu observer l'isomtrisation de ces radicaux 
+allyles vers des structures vinyliques. Par contre, dans un travail 
+un peu plus ancien, lors de la photolyse du trimtthyltthylkne 
+(3ME), nous avions propost que les deux radicaux C4H7, 
+
+nommtment les radicaux mtthyl-1 -et mtthyl-2-propkne-1 yles, 
+
+doivent s'isomtriser au moins partiellement vers les formes 
+allyliques pour rendre compte de la formation de certains 
+produits (2, 3) 
+
+CH3 
+CH3 
+
+** 
+
+\ 
+\ 
+
+[I] 
+
+C=CH + hv -+ C==€H 
+
+/ 
+\ 
+/ 
+\ 
+
+CH3 
+CH3 
+CH3 
+CH3 
+
+CH3 
+
+* * 
+
+\ 
+
+[21 
+C S H 
+-+ C H ~~= C H C H ~ 
+
++ CH3 
+
+/ 
+\ 
+
+(Methyl-1 -prophe-1 yle) 
+CH3 
+CH3 
+AH F 363 kJ mol-' 
+
+[3] CH~~==CHCH~** -+ CH3CH=CH + CH, 
+
+EA = 161 kJ rnol-I (4) 
+
+1. Auteur i l qui adresser toute correspondance. 
+
+\ 
+
+[61 
+C S H 
+
++ CH~C(CH~)&amp;H* + CH3 
+
+/ 
+
+\ 
+
+(Methy 1-1 -propkne-l yle) 
+CH3 
+CH3 
+
+oh M**, M* et M representent respectivement la moltcule 
+
+photoexcitte, un fragment primaire radicalaire suffisamment 
+chaud et une moltcule quelconque. Le prtsent rapport constitue 
+une Ctude systtmatique de l'effet de pression dans les photo-
+
+lyses des tri-et tttramtthyltthylknes (3ME et 4ME) a 147,O nm 
+
+afin de mesurer l'importance de ces isomtrisations : processus 
+
+[4] et [8], ainsi que celle impliquant le radical dimkthyl-
+
+1,2-prophe-1 yle. 
+Methode experimentale 
+
+Mate'riaux 
+Les 3ME et 4ME sont des produits A.P.I. contenant respectivement 
+0,06 k 0,04% et 0,03 -C 0,02% d'impuretks. L'analyse chrornatogra-
+phique de 1'Cchantillon de 3ME montre la prksence de mCthyl-
+
+2-butkne-1 : 160 ppm, d'isoprhe : 93 pprn, depentkne-2 (cis + trans) : 
+
+230 ppm. Quant i l'kchantillon de 4ME, il ne contient que des traces 
+de propane : 45 ppm. L'hexafluorure de soufre provient de chez 
+
+Can. J. Chem. Downloaded from www.nrcresearchpress.com by 87.160.185.190 on 03/27/14 
+
+For personal use only. 
+
+
+392 
+
+CAN. J. CHEM. VOL. 65, 1987 
+
+-2 
+0 
+2 
+4 
+6 
+
+SF6 ~1 0 0 Torr 
+
+FIG. 1. Photolyse du 3ME a 147 nm. L'inverse du rendernent 
+quantique de divers produits en fonction de la ression de SF6. 
+
+Maanger 3ME: O2 (5 : 0,55 Tom). o : isoprene (rP = 0.996; aO = 
+
+0,39; interception axe de la pression : -140 Torr); x : allhe ( r 2 = 
+
+0,997; a. = 0,12; interception axe de la pression : -87 Torr); 0 : 
+butaditne-1,3 ( r 2 = 0,997; a. = 0,13; interception axede la pression : 
+
+-163 Torr). 
+
+Matheson Gas Products Canada (C.P. 99,8% rnin) et I'oxygkne 
+(99,995%) est achett chez Liquid Carbonic Canada. Ces deux produits 
+ne laissent pas voir de traces d'irnpuretks sur les chromatographies. 
+
+Photolyses, actinomttrie, analyses 
+Toutes ces informations ont CtC rCcernment prCcisCes dans la 
+litttrature (1). 
+
+Resultats 
+Cas du 3ME 
+La photolyse du 3ME 147 nm et en presence de 10% 
+d'oxygene molCculaire montre la formation de divers hydro-
+carbures. Ce sont l'isoprene, le butyne-2, les butadiene-1,3 et 
+-1,2, le propyne et l'allene. Les rendements quantiques de 
+ces produits decroissent avec l'ajout de quantitks croissantes 
+d'hexafluorure de soufre (figures 1 et 2). Lorsque la photolyse 
+est rCalisCe en l'absence d'oxygene, d'autres produits apparais-
+sent. Ce sont principalement l'ethane, le methyl-2-butkne-1, 
+le mithyl-3-butene-1, l'isopentane et le dimethyl-2,2-butane 
+(tableau 1). La formation de ces produits ainsi que celle d'autres 
+aux rendements plus faibles a d6ja CtC expliqute ailleurs (7). 
+
+Cas du 4ME 
+La photolyse du 4ME a 147 nm et en presence de 10% 
+d'oxygene molCculaire montre la formation de dimethyl-
+2,3-butadikne-1,3, de methyl-3-butadikne-1,2, de butyne-2, 
+d'isoprkne, de butadikne-1,2, de dimethyl-2,3-butkne-1 et de 
+propkne avec des rendements quantiques qui dicroissent avec 
+l'augmentation de pression de l'hexafluorure de soufre (voir 
+plus loin les figures 4 et 5). 
+En l'absence d'oxygkne, ou d'oxyde nitrique, on observe a 
+nouveau une formation importante d'kthane, de dimethyl-2,3-
+et de trimethyl-2,2,3-butane ainsi que d'un peu de divers 
+isomkres en C6H12 de m&amp;me qu'une formation appreciable de 
+dimethyl-2,3-butkne-1 (tableau 2). 
+
+0 
+2 
+4 
+6 
+
+S F6 
+
+x 100 Torr 
+
+FIG. 2. Voir fig. 1; x : propyne; o : butyne-2; 0 : butadiene-1,2. 
+NOTE: Les valeurs @(butadhe-1,2) ont CtC multiplites par 2. 
+
+Discussion 
+La photolyse du trimkthylkthyl2ne (3ME) 
+La photostabilite du 3ME sous rayonnement uv n'est pa: 
+inconnue. Plusieurs Ctudes partielles ont montrt! la complexiti 
+des mCcanismes de formation des produits (2, 3, 7, 8). Er 
+plus de la double liaison, la moltcule contient une liaisor 
+C-H situCe en position a par rapporl 9 cette double liaisor 
+-a(C-H)-, trois liaisons a(C-C) et neuf liaisons P(C-H) 
+Avec ce type de molCcules ne disposant pas de liaisons 
+P(C-C), la photofragmentation implique soit l'une ou l'autrc 
+des deux liaisons a(C-C) et P(C-H) avec une probabiliti 
+similaire (9). Compte tenu de 1'Cnergie du photon a 147 n u 
+
+( E = 8 11 kJ Einstein-'), le mecanisme retenu implique lez 
+
+reactions [I]-[lo] relatives a la scission primaire de l'une 
+des trois liaisons a(C-C). La rupture primaire d'une liaisor 
+P(C-H) implique les rCactions suivantes 
+
+ou k I 2 , k13 et k14 sont les constantes de vitesse des reactions 
+monomolCculaires de fragmentation des radicaux actives, et ks 
+est la constante de vitesse de stabilisation par collision de: 
+radicaux allyles C5H9. Quant aux reactions engendrkes par la 
+rupture primaire de la liaison a(C-H), elle sera discutie plus 
+en detail dans le cas de la photolyse du tCtram6thylCthyl6ne. 
+Notons seulement que le butyne-2 sera le resultat de cette 
+rupture a(C-H). Les reactions [I]-[15] rendent compte de la 
+formation du propyne, d e l'allkne, des butadikne-1,3 et -1,2 el 
+Can. J. Chem. Downloaded from www.nrcresearchpress.com by 87.160.185.190 on 03/27/14 
+
+For personal use only. 
+
+
+COLLIN ET AL 
+
+TABLEAU 1. Photolyse du trimCthylCthylkne ?i 147 nm. Rendements quantiques 
+
+Monombe (Torr) " 
+
+4,95 
+4,95 
+4,95 
+4,95 
+4,95 
+4,95 
+SF6 (Torr) 
+
+-
+-
+
+100 
+200 
+400 
+400 
+0 2 (Tom) 
+0,55 
+
+-
+
+-
+
+-
+
+-
+
+0,55 
+
+thane 
+
+Propyne 
+Allkne 
+Butadikne-1,3 
+Butadikne-1,2 
+Butyne-2 
+Isoprkne 
+MCthyl-2-butkne-1 
+MBthyl-3-buthe-1 
+Isopentane 
+DimCthyl-2,2-butane 
+
+Y cornC 
+
+"1 Tom = 133 N m-2. 
+
+bII y a aussi formation de traces de penttne-2 (cis + trans). 
+
+' Voir texte. 
+dNon mesure. 
+
+TABLEAU 2. Photolyse du tCtramCthylCthylkne ?i 147 nm. Rendements quantiques 
+
+Monomkre (Torr) 
+4,95 
+4,95 
+5,OO 
+4,95 
+4,95 
+4,95 
+4,95 
+4,95 
+SF6 (Torr) 
+
+-
+
+-
+-
+
+100 
+100 
+300 
+300 
+300 
+0 2 (Tom) 
+0,55 
+
+-
+-
+-
+
+0,55 
+
+-
+
+0,55 
+
+-
+
+NO (Torr) 
+
+-
+
+-
+
+0,63 
+
+-
+-
+-
+
+-
+
+0,55 
+
+thane 
+
+-
+
+0,205 
+
+-
+
+0,lO 
+
+-
+
+0,08 
+
+-
+-
+
+Propkne 
+0,07 
+0,04 
+0,02 
+0,025 0,06 
+0,016 0,03 
+0,008 
+Butadikne-1,2 
+0,02 
+0,02 
+0,02 
+0,012 0,014 0,008 0,007 0,007 
+Butyne-2 
+0,13 
+0,14 
+0,135 0,105 0,093 0,07 
+0,067 0,082 
+Isoprkne 
+0,156 0,156 0,13 
+0,03 
+0,073 0,Ol 
+0,025 0,037 
+MCthyl-3-butadikne-1,2 
+0,025 0,035 0,028 0,012 0,014 0,008 0,006 0,007 
+DimCthyl-2,3-butadikne-1,3 0,25 
+0,15 
+0,145 0,04 
+n.m. 
+n.m. 
+n.m. 
+n.m. 
+DimCthyl-2,3-butkne-1 
+0,070 0,34 
+0,05 
+0,11 
+0,023 0,11 
+0,013 0,Ol 
+DimCthyl-2,3-butane 
+
+-
+
+0,136 
+
+-
+
+0,11 
+
+-
+
+0,08 
+
+-
+
+-
+
+TrimCthyl-2,2,3-butane 
+
+-
+
+0,075 
+
+-
+
+0,05 
+
+-
+
+0,04 
+
+-
+-
+
+c6H 12" 
+
+-
+
+n.m.b 
+
+-
+
+0,02 
+
+-
+
+0,02 
+
+-
+-
+
+'Methyl-3-penttne-2 (cis + trans) = 63%; methyl-2-penthe-2 = 30%; dimethyl-3.3-butene-1 7 % . 
+
+b ~o m mesure. 
+
+de l'isoprene. Compte tenu des stabilisations Cventuelles par 
+exctdentaire. Dans le cas des fragments qui ont pour compl6 
+
+collision des intermediaires M*, le rendement quantique de 
+
+merit l'atome d'hydrogkne (rtaction [ l l]), onpeut penser qu'ils 
+chacun de ces produits est susceptible d'un comporternent de 
+ant une distribution de population en tnergie plus ttroite que si 
+type Stem-Volmer ( l o , 11) : l'inverse du rendernent quantique 
+ce complement est le radical rntthyle (reactions [2] et [6]). La 
+du produit X est une fonction lintaire croissante de la pression. 
+courbure sera ainsi rnoins prononcke dans les cas de l'isoprene 
+
+[I61 
+
+[@(XI]-' = [@o(X:lI-'(l + k,[MI/kd) 
+
+et du butadiene-1,2 cornparativement aux cas du propyne et de 
+l'allkne. Une deuxierne raison rtside dans le fait que deux 
+
+ou @(X) et a o ( X ) sont respectivernent les rendernents quanti-
+intermtdiaires diffkrents peuvent Ctre a l'origine d'un mCme 
+ques du produit X rnesurt a une pression M et extrapolle a 
+
+produit, mais avec des constantes de vitesse diffkrente (cas du 
+pression nulle, k, et kd sont les constantes de vitesse de 
+propyne : reactions [3] et [7]). Enfin, un produit peut Ctre le 
+stabilisation (ordre deux) et de dissociation (ordre un) des 
+resultat de la chimie de deux intermediaires ou plus intervenant 
+intermtdiaires radicalaires chauds. 
+successivement. Par exernple, rCactions [6]-[9], l'allene est le 
+La figure 1 rnontre l'excellente linearit6 obtenue dans le cas 
+resultat de I'isorntrisation du radical methyl-2-propene-1 yle et 
+de trois produits. La figure 2 par contre indique clairement une 
+de la fragmentation du radical P-methallyle. Toutes ces raisons 
+courbure plus ou rnoins negative dans le cas des rendements en 
+peuvent s'additionner ou se soustraire, de telle sorte que les 
+propyne, butyne-2 et butadiene-1,2. I1 existe plusieurs explica-
+apparentes lintaritks ou courbures ne permettent pas de pousser 
+tions a ces courbures (10-12). Parmi ces explications, il y a 
+
+plus avant la discussion. 
+le fait les radicaux prirnaires ne sont pas activts de fagon 
+On peut cependant mesurer l'importance de I'isomCrisation 
+monotnergetique. Les deux fragments primaires issus des 
+des radicaux rntthyl-1-et -2-propene-1 yles vers les structures 
+reactions [2], [6] et [ l 11 emportent chacun une part de l'tnergie 
+allyliques. En effet a pression nulle, le propyne est le resultat 
+Can. J. Chem. Downloaded from www.nrcresearchpress.com by 87.160.185.190 on 03/27/14 
+
+For personal use only. 
+
+
+394 
+
+CAN. J. CHEM. VOL. 65, 1987 
+
+de la fragmentation directe de ces radicaux chauds alors que les 
+formations d'allkne et de butadikne-1,3 rtclament d'abord. leur 
+isomtrisation vers les formes allyliques. Si y reprtsente le 
+pourcentage des radicaux vinyles isomtrists vers les formes 
+allyliques, alors 
+
+Cette valeur mesurke ?I 5 Torr de monomkre est de 0,53 
+(colonne 1, tableau 1). 
+Cette relation fait cependant la supposition qu'a cette 
+pression tous les radicaux methyl-1-et methyl-2-propkne-1 yles 
+d'une part et tgalement tous les radicaux a -et P-mtthallyles 
+se fragmentent. Cela est loin d'itre sQr. En effet en absence 
+d'oxygkne (tableau l), il y a formation de quantitts importantes 
+
+de methyl-2-butkne-1 (@ = 0,18) via la combinaison des 
+
+radicaux mtthyles et P-mCthy1lyle.s et de traces de methyl-
+
+3-butene-1 et de pentkne-2 (@ = 0,Ol) par combinaison des 
+
+radicaux mtthyles et a-mtthallyles. Cette observation requiert 
+que tous les radicaux P-methallyles ne se fragmentent pas a 
+pression nulle, et si l'on peut admettre comme approximation 
+que tous les radicaux a-mtthallyles se decomposent a cette 
+pression, c'est loin d'&amp;tre le cas pour les radicaux P-mtthal-
+lyles. Ce comportement different des radicaux a-mtthallyles se 
+comprend aisement si l'on se souvient que dans le cas prtsent 
+ils proviennent de l'isomtrisation partielle des radicaux chauds 
+mtthyl-1-propene-1 yles. I1 apparait que les radicaux qui ont 
+franchi la baniere de potentiel relative au processus [4] ont 
+
+l'tnergie suffisante pour se fragmenter en butadikne + H. Ce 
+
+n'est pas le cas des radicaux P-mtthallyles. En effet, seulement 
+une fraction de ces radicaux issus de l'isomtrisation des 
+radicaux mtthyl-2-propene-1 yles, processus [8], ont l'tnergie 
+suffisante pour donner lieu a la formation de l'allene et de 
+radicaux mtthyles. L'ttude des diagrammes d'tnergie poten-
+tielle est convaincante : voir figures 3 et 4 de la ref. 13. De ces 
+considtrations, il ressort que l'expression [17'] doit remplacer 
+la prectdente : 
+
+Cette valeur y,,, est de 0,70 sous une pression de 5 Torr 
+(tableau 1). On peut donc conclure que les processus d'isomtri-
+sation des radicaux vinyliques vers les structures allyliques sont 
+trks importants. 
+La reformation du monomere par la combinaison des radi-
+caux mtthyles avec les radicaux mtthylpropene-1 yles empiche 
+l'tvaluation directe de leur stabilitt. Par contre le bilan complet 
+de la fragmentation de la moltcule photoexcitee incite a penser 
+qu'il n'y en a pas, ou peu de stabilists dans les conditions 
+exptrimentales prtsentes. Naturellement, si certains radicaux 
+vinyliques sont stabilists et, par exemple, reforment le mono-
+mere par combinaison avec les radicaux mtthyles, le rapport 
+y,,, tout juste ttabli devrait Stre revue a la baisse. 
+Cette importante isomtrisation des radicaux vinyliques chauds 
+vers les structures allyliques doit &amp;tre mise en parallele avec le 
+fait que les rtactions inverses, les isomerisations des radicaux 
+allyles vers les structures vinyliques, n'ont jamais t t t invoqutes 
+pour expliquer les formations de produits dans les photolyses 
+de plusieurs alcenes (voir par exemple la rtf. 14). La prtsence 
+
+d'une tnergie de rtsonance allylique de quelque 50 kJ mol-' 
+
+dans les radicaux allyles (5) augmente d'autant la barrikre de 
+
+0 
+2 
+4 
+6 
+
+SF6 X 100 Torr 
+
+FIG. 3. Voir fig. 1; S = CD(propyne) + @(allene) + @(butadhe-
+1,3) + CD(mtthy1-3-butkne-1) + @(methyl-2-buthe-1) ( r 2 = 0,99; 
+
+CDo = 0,56; interception axe de la pression: -420Torr). 
+
+potentiel et que, si tquilibre il y a, au facteur pre-exponentiel 
+prks, 1'Cquilibre est nettement dtplact vers la formation des 
+radicaux allyles (13). La variation de la valeur y,,, qui semble 
+diminuer avec l'augmentation depression (tableau 1) est de peu 
+d'inttrst puisque a haute pression, il y a aussi stabilisation par 
+collision des radicaux vinyles. 
+I1 est par contre inttresssant de noter que si l'on confond les 
+radicaux mtthyl-1-et mtthyl-2-propkne-1 yles, et que l'on 
+regarde le comportement Stern-Volmer d e la somme 
+
+[ 181 S = @ (propyne) + @ (butadikne-1 ,3) 
++ @(mtthyl-2-butkne-1) + Q&gt;(mtthyl-3-butkne-1) 
+
++ @(allhe) 
+
+on obtient une lintaritt presqu'exemplaire (fig. 3). Aux 
+remarques prectdentes dtjh faites sur ces lintarites, on en dtduit 
+
+que le rapport kM/(kiso, + kdiss) des radicaux vinyles C4H7 
+
+est voisin de 450 Torr, ou encore en traduisant en terme de 
+frequence de collision, le temps de vie ccmoyen,, de ces 
+radicaux est de l'ordre de 0,3-0,4 X 
+s. Cette donnte, bien 
+que tres sptculative compte tenu des approximations faites et de 
+la mtthodologie utiliste, est quand m&amp;me inttressante. En effet, 
+on peut penser les moltcules photoexcittes, M**, sont elles-
+m&amp;mes susceptibles de stabilisation par collision. En supposant 
+que toute l'tnergie du photon incident rtside dans le tissu 
+vibrationnel de la moltcule, nous avons dtjg montrt qu'en utili-
+sant des calculs RRKM (Rice-Ramsperger-Kassel-Marcus) 
+approprits, le temps de la molecule penthe-1 photoexcitte a 
+147 nm correspond a une pression de stabilisation de 130 atm 
+(1 atm = 101.3 kPa). Ce resultat tient compte d'un transfert 
+d'energie de 21 kJ mol-' (5 kcal mol-') 5 chaque collision et 
+
+une Cnergie de la liaison P(C-C) de 301 kJ mol-' (15). 
+
+Compte tenu des tnergies plus rigides des liaisons individuelles 
+du 3ME, un temps de vie ecRRKM,, beaucoup plus long doit 
+&amp;re retenu pour le 3ME. Des calculs similaires ont montrt que 
+la pression de stabilisation est plut6t de l'ordre de 7 atm.2 I1 
+s'ensuit que l'on peut raisonnablement ignorer la rtaction de 
+stabilisation par collision du 3ME photoexciti a 147 nm. 
+Finalement, il est pertinent d'estimer l'importance de chacun 
+des processus primaires de fragmentation sous faible pression 
+(tableau 3). Bien qu'un peu d'isoprene soit aussi form6 suite a la 
+
+2. G. J. Collin, resultats non publiCs. 
+Can. J. Chem. Downloaded from www.nrcresearchpress.com by 87.160.185.190 on 03/27/14 
+
+For personal use only. 
+
+
+COLLIN ET AL. 
+
+TABLEAU 3. Photofragmentation du trimCthylCthylkne B 147 nm 
+
+Processus primaire 
+Produits 
+
+cPa 
+
+Note , 
+
+P (C-H) 
+
+Isoprkne 
+0,32 
+fig. 1 
+Butadikne-1,2 
+0,05 
+fig. 2 
+
+a(C-C) 
+Propyne 
+~utadiene-1,3 
+Allkne 
+0 , 5 6 ~ 
+fig. 3 
+
+(CsH10) 
+a(C-H) 
+Butyne-2 
+0,08 
+fig. 2 
+Isoprkneb 
+(0,077 
+
+Total 
+1,08 
+
+"Valeurs obtenues par extrapolation des rendements i i pression nulle 
+de SF6, donc sous une pression de TME de 5 Torr (665 N m-*). 
+bVoir texte. 
+
+rupture primaire a(C-H) (voir plus loin) il est tvidemment 
+impossible ici de distinguer cette formation de celle constcutive 
+la rupture primaire P(C-C). 
+On peut raisonnablement 
+estimer que cette formation rtsiduaire d'isoprkne est au plus 
+
+similaire a celle du butyne-2 (voir plus loin). Le total des 
+
+processus de fragmentation est ltgkrement suptrieur a l'unitt. 
+Ce dtpassement traduit en partie l'incertitude exptrimentale 
+ainsi que certaines subtilitts de mtcanismes non-discuttes ici. 
+
+La photolyse du tktramkthyle'thyl2ne (4ME) 
+
+La photofr?gmentation du 4ME a 147 nm est relativement 
+
+plus simple. Etant donnC la structure symttrique de la moltcule, 
+et en l'absence d'une isomtrisation de la moltcule photo-
+excitee, celle-ci ne dispose que de deux types de liaisons 
+disponibles pour la fragmentation. Ce sont les 12 liaisons C-H 
+
+situtes en position p par rapport a la double liaison -P(C-H)-
+
+et quatre liaisons a(C-C). 
+Avec ce type de moltcules ne 
+disposant pas de liaisons P(C-C), 
+la photofragmentation 
+implique soit l'une ou l'autre des deux liaisons a(C-C) et 
+P(C-H) avec une probabilitt similaire (9). Compte tenu de 
+
+l'tnergie du photon 2 147 nm (E = 81 1 kJ in stein-I), le 
+
+mtcanisme retenu est le suivant : 
+
+1191 (CH3)rCS(CH3)2 + hv + ( C H ~) Z C S ( C H ~) ~* * 
+
+suivies des rtactions [13]-[15]. Comme on le voit, ce mtca-
+nisme explique aistment la formation des produits observts 
+dans la photolyse du 4ME. I1 explique aussi la formation du 
+butyne-2 dans celle du 3ME, et y ajoute de l'isoprkne et du 
+butadibne-1,2. Quantitativement, les rendements sont en accord 
+avec le comportement de type Stem-Volmer avec les remarques 
+dtja faites sur les courbures des droites Stem-Volmer (figures 4 
+
+I 
+
+I 
+
+I 
+
+I 
+
+0 
+1 
+2 
+3 
+SF6 x 100 Torr 
+
+FIG. 4. Photolyse du 4ME a 147 nm. L'inverse du rendement 
+quantique de quelques produits en fonction de la pression de SF6. 
+Mklanges 4ME: O2 (5 :0,55 Torr); 
+
+: isoprene; 0 : butyne-2 (r' = 
+
+0,98; cPo = 0,134; interception axe de la pression : -288 Torr). 
+
+Mtlange en l'absence d'oxygkne : 
+
+: butyne-2 ( r 2 = 0,95; cPo = 
+
+0,125; interception axe de la pression : -330 Tom). 
+
+0 
+1 
+2 
+3 
+S F 6 x 1 0 2 Torr 
+
+FIG. 5. Voir fig. 4. MClange4ME: Oz (5 :0,55 Torr). 0 : butadikne-
+
+1,2 ( r 2 = 0,99; cPo = 0,02; interception axe de la pression : 
+
+-160 Tom); 
+
+: mCthyl-3-butadikne-1,2 (r2 = 0,99; cPo = 0,03; 
+
+interception axe de la pression : -80 Torr). MClange en l'absence 
+
+d'oxygkne : : butadikne-1,2 ( r 2 = 0,95; cPo = 0,02; interception 
+
+axe de la pression : -180 Torr). 
+
+et 5). En outre, dans le cas prtsent, il n'est pas silr que I'on 
+puisse ignorer la stabilisation par collision de la molecule 
+photoexcitte. Cette demikre remarque est pertinente puisque 
+m&amp;me en presence d'oxygkne moltculaire, on a toujours 
+observe une formation de dimtthyl-2,3-butkne-1, un isomkre 
+Can. J. Chem. Downloaded from www.nrcresearchpress.com by 87.160.185.190 on 03/27/14 
+
+For personal use only. 
+
+
+396 
+
+CAN. J. CHEM. VOL. 65, 1987 
+
+dont la formation a dCja CtC reportCe dans la photolyse du 4ME a 
+plus longues longueurs d'onde (16). Sans enber dans le dCtail 
+
+du mtcanisme impliquC dans l'isomCrisation, celle-ci peut bien 
+entendu &amp;tre le rCsultat de 1'Ctat Clectronique fondamental 
+vibrationnellement chaud, mais aussi faire intervenir des Ctats 
+Clectroniques excitCs Rydberg (12). En l'absence de preuves 
+
+suffisantes, il y a lieu seulement de ne pas Ccarter la possibilitC 
+de la stabilisation de la molCcule fondamentale vibrationnelle-
+ment tr&amp;s chaude. 
+
+Remerciements 
+
+Nous voulons remercier trks vivement la Division des 
+Affaires Scientifiques de I'OTAN ( # 85 /0484) pour l'aide 
+
+ginireuse qu'elle a apportCe i ce projet. 
+
+4. T. GIERCZAK, J. GAWLOWSKI et J. NIEDZIELSKI. J. Photochem. 
+33, 145 (1986). 
+5. K. W. EGGER, D. M. GOLDEN et S. W. BENSON. J. Am. Chem. 
+Soc. 86,5420 (1964); A. B. TRENWITH. Trans. Faraday Soc. 66, 
+2805 ( 1 970). 
+6. W. TSANG. Int. J. Chem. Kinet. 5, 929 (1973). 
+7. G. J. COLLIN et C. M. GAUCHER. Can. J. Chem. 52,34 (1974). 
+8. G. J. COLLIN et H. DESLAURIERS. NOUV. J. Chim. 5,447 (198 1). 
+9. H. DESLAURIERS et G. J. COLLIN. J. Chim. Phys. 82, 1033 
+(1985). 
+10. W. FORST. Duns Theory of unimolecular reactions. Academic 
+Press, New York. 1973. pp. 235-245. 
+11. J. A. BARLTROP et J. D. COYLE. Duns Principles of photo-
+chemistry. J. Wiley and Sons, New York. 1975. pp. 148-155. 
+12. M. D. SHETLAR. Mol. Photochem. 6, 143 (1974); 6, 166 (1974); 
+6, 191 (1974). 
+13. G. J. COLLIN. Rev. Chem. Interned. 4, 377 (1979). 
+H. DEsLAURIERs et G. J. COLLIN. Can. J. Chem. 63, 3168 
+14, D. HoUDE, H. D 
+E 
+~~~ 
+et G . J. COLLIN. Can. J , Chem. 61, 
+2. G. J. COLLIN, H. DESLAURIERS et J. DESCH~NES. Can. J. Chem. 
+
+57, 870 (1979). 
+962 (1983). 
+15. J. GAWLOWSKI et G. J. COLLIN. J. Photochem. 23,241 (1983). 
+3' " J ' 
+et H' DESLAURIERS' In'' 
+
+12, l7 
+16. G. J. COLLIN et H. DESLAURIERS. Can. J. Chern. 61,1510 (1983). 
+(1980). 
+
+Can. J. Chem. Downloaded from www.nrcresearchpress.com by 87.160.185.190 on 03/27/14 
+
+For personal use only. 
+
+
+
+	
+

@@ -1,0 +1,586 @@
+
+	
+
+		
+
+	
+
+	
+
+Polymerisation de l'acide molybdique induite par l'acide metatungstique 
+
+P. COURTIN ET J. LEFEBVRE' 
+
+Laboratoire de chirnie des polyrnPres inorganiques, Universite' Pierre et Marie Curie, 4 , place Jussieu, 75230 Paris Ce'dex 05, France 
+Regu le 17 janvier, 1985' 
+
+P. COURTIN et J. LEFEBVRE. Can. J. Chem. 64, 220 (1986). 
+En solution aqueuse, I'acide metatungstique se dCcompose tres lentement en oxyde tungstique, haut polymkre insoluble, et la 
+polymtrisation de I'acide molybdique prCpart par tchange d'ions A partir du molybdate, Na,MoO,, est limitte ( n = 24). L'addi-
+
+tion d'acide metatungstique i l'acide molybdique entraine la formation relativement rapide de hauts polymkres solubles. Ce sont 
+
+des acides mixtes molybdotungstiques dont la composition dtpend de la fraction molaire f = [Mo]/[Mo + W] du mtlange. En 
+
+particulier si 0,80 c f &lt; 0,95, la rtaction des acides est totale; c'est une mtthode pour obtenir des sols tres riches en molybdkne, 
+puisque le rendement en haut polymkre est tgal i 80%. La formation de l'acide mixte peut rtsulter soit de l'interaction directe 
+
+des deux acides, soit de la dtcomposition de l'acide mttatungstique substitut par le molybdkne, formt transitoirement. Durant 
+la polymCrisation suivie par ultracentrifugation et tchange d'ions, la teneur en Mo et W des acides mixtes ne varie pas. 
+
+P. COURTIN and J. LEFEBVRE. Can. J. Chem. 64, 220 (1986). 
+In acid media, metatungstic acid very slowly decomposes into tungstic oxide, an insoluble high polymer; under the same 
+conditions, the polymerization of molybdic acid, prepared by ion exchange from the molybdate, NazMo04, is limited ( n = 24). 
+The addition of metatungstic acid to molybdic acid involves the relatively rapid formation of soluble high polymers. These are 
+
+mixed molybdotungstic acids whose compositions vary according to the molar fraction, f = [Mo]/[Mo + W], of the reaction 
+
+mixture. When 0.80 S f c 0.95, this reaction is complete: this is a method of obtaining colloids very rich in molybdenum since 
+
+the yield in high polymer is equal to 80%. The formation of the mixed acid can be due either to the direct interaction of the two 
+acids or to the decomposition of the metatungstic acid, substituted by the molybdenum, which would be formed transiently. As 
+determined by ultracentrifugation and by ion exchanges, the relative proportions of Mo and W in the mixed acids do not vary 
+during the course of the polymerization. 
+[Journal translation] 
+
+Introduction 
+
+Beaucoup d'oxydes d e rnCtaux de transition ( W 0 3 , Vz05) 
+
+peuvent &amp;tre obtenus 1'Ctat colloi'dal ou d e gel; ce sont alors des 
+matCriaux aux propriCtCs intiressantes, qui se prktent a d e 
+
+nombreuses applications: rCalisation de cellules electrochromi-
+ques ou de dispositif d'affichage, ernploi comme serni-conduc-
+
+teur (1). Les gels tungstiques ou vanadiques sont facilement 
+obtenus suivant une mCthode dCveloppCe au laboratoire (2): 
+preparation d'un acide a partir d'un sel pass6 sur une resine 
+
+Cchangeuse d e protons, suivie d e la polyrnerisation de cet acide 
+par tlirnination d e H 2 0 entre deux groupements M-OH 
+voisins. Les gels molybdiques, par contre, ne sont pas obtenus 
+par cette voie parce que la polymerisation de l'acide molybdique 
+
+formt est lirnitie. I1 est donc nCcessaire d'utiliser la preparation 
+d e Graham-Murgier (3) qui part d e solutions tres concentrees. 
+
+Cependant, un autre moyen d ' a c d d e r aux gels molybdiques 
+dans des conditions moins restrictives d e concentration pourrait 
+
+consister a incorporer a l'acide rnolybdique peu condense un 
+
+autre acide pouvant Cvoluer spontanernent vers une forme 
+hautement condensie, par exemple, l'acide tungstique, afin 
+d'induire la formation d'un haut polyrnkre mixte. En effet, des 
+
+composCs mixtes a base d e tungstkne et de molybdkne sont 
+
+aisCment obtenus aussi bien dans le dornaine des faibles 
+condensations (hexa-et dodCca-mCtallates (4)) que dans celui 
+
+des condensations ClevCes caractkristiques des gels (5). Le 
+probleme est donc d e savoir si la texture hauternent condensee 
+
+d e l'acide tungstique est susceptible de se maintenir dans le 
+polymkre mixte, m i m e lorsqu'il y est present en faible 
+proportion. 
+Dans ce travail, le tungstkne a etC introduit dans la solution 
+aqueuse molybdique sous forme d'hCtCropolyacide possedant la 
+
+structure d e Keggin (6) d e formule gCnCrale H(8-,,,[X W12040] 
+
+'Auteur i qui adresser la correspondance. 
+'~Cvision regue le 19 septembre 1985. 
+
+oh n est le degrt d'oxydation d e 1'hCtCro-Clement X (X = Si, 
+HZ). En effet, nous avons O ~S ~N C 
+
+qu'en solution aqueuse pure, 
+l'un d e ces cornposCs faiblernent condenses, l'acide mCtatungs-
+tique (X = Hz), avait la propriCtC d e se transformer trks 
+
+lentement en acide tungstique trks con dens^.^ C'est donc sous 
+
+cette forme que le tungstene a principalement CtC introduit dans 
+la solution aqueuse molybdique, avec l'avantage de ne pas 
+apporter d'autre Clement Ctranger que le tungstkne. D'autres 
+hCtCropolyacides du type prCcCdent (X = Si) ou mixtes lui ont 
+CtC ensuite comparCs pour tenter d e prCciser le rnCcanisme d e 
+formation des acides mixtes molybdotungstiques po1yrnCrisC.s. 
+
+Partie experimentale 
+
+1. Re'actijs 
+1.1 Acide rnolybdique 
+I1 est prCparC par tchange d'ions sur une rtsine cationique de type 
+Dowex 50 W X-2, 100-200 mesh, sous forme Hf, a partir d'une 
+solution de molybdate de sodium Na2Mo04.2H20 a 20°C. 
+1.2 He'te'ropolyacides tungstiques 
+Ils sont prCparts suivant les mtthodes classiques (8), par extraction 
+ou par Cchange d'ions. 
+1.3 He'te'ropolyacides substitue's rnolybdotungstiques 
+Les sels sont d'abord prCparCs (4, 9), puis les acides, par tchange 
+d'ions. 
+
+Le s y s t h e mixte i Ctudier est prtpart soit par mtlange des rCactifs 
+
+1.1 et 1.2, soit par dissolution de 1.3. I1 est dCfini par sa fraction 
+
+molaire f = [Mo]/[Mo + W]. Les reactions sont lentes; elles sont 
+
+suivies pour la plupart i temptrature constante de 20°C. 
+
+2. Techniques et rnkthodes analytiques 
+2.1 Ultracentrifugation pre'parative 
+RtalisCe dans un appareil Beckman Spinco, rnodele E Cquipt d'un 
+
+rotor i godets SW65E, i 36 000 rlmin pendant 100 min, elle permet la 
+
+separation des hauts polymeres qui sont rassemblis au fond du tube 
+sous forme d'un gel. En surface, on dispose d'une solution pure de 
+composCs Itgers. 
+
+3 ~. Courtin, rCsultats non publies 
+
+Can. J. Chem. Downloaded from www.nrcresearchpress.com by 87.160.185.190 on 03/27/14 
+
+For personal use only. 
+
+
+COURTIN ET LEFEBVRE 
+
+2.2 change d'ions 
+
+Par passage sur une resine Amberlite CG-400, 100-200 mesh, sous 
+forme C1-, les ions polymolybdiques sont fixes. En utilisant 2 mCquiv. 
+de resine pour 0,lOmCquiv. de molybdkne, 1'Cchange est complet 
+quelle que soit la concentration. 
+2.3 Hydrolyse rapide a pH contrdle' 
+
+RCalisCe sous azote, a pH constant Cgal a 8, par addition de soude 
+pendant 1 min a l'aide d'un combititreur Methrohm E 415, elle permet 
+
+la dCgradation alcaline en ions ~0 0 4 ' -et ~0 ~' -
+des formes labiles du 
+mClange exclusivement. 
+2.4 Hydrolyse totale 
+
+RCalisCe par un excks de soude t i llCbullition, elle permet la 
+
+dCcomposition totale du systkrne a I'Ctat d'ions Moo4'-et wO4'-. 
+2.5 Analyse 
+Les hCtCropolyanions substituts [XMOW,,O~~](~-")-sont dosts 
+par polarographie en milieu acide chlorhydrique 1,O X lo-' M (X = 
+
+Hz) et par spectrophotomCtrie d'absorption a 500 nm, aprks rkduction, 
+
+pH 2, du molybdkne par le chlorure stanneux en solution dans le 
+glycirol (10) (X = Si). Les autres dosages sont effectuCs aprks 
+hydrolyse des melanges: 
+
+Hydrolyse rapide: la somme [Mood2-+ WOq2-] labile est titrie par 
+
+dosage protomCtrique avec l'acide chlorhydrique en prCsence de 
+
+mannitol (1 l), et Moo4*-est ditermint, a 475 nm, par spectro-
+
+photomitrie d'absorption du complexe color6 form6 avec le pyrocatC-
+chol en tampon phosphate (pH 7,50) (12); le mitatungstate est dosC par 
+polarographie en tampon phosphate de pH 7,50 (13). 
+Hydrolyse totale: MOO,'-et ~0 ~' -
+sont dosCs simultanement, a 
+475 et 350 nm, par spectrophotomCtrie d'absorption du complexe 
+form6 avec le pyrocattchol en tampon phosphate de pH 7,50, ou par 
+polarographie en milieu acide chlorhydrique 8 M (14). 
+
+3. Masse molaire 
+La condensation est mesurCe par ultracentrifugation analytique a 
+I'aide d'un appareil Beckman Cquipt de l'optique Schlieren. 
+3.1 Les coefficients de skdimentation appnrents, (s,),,,, sont 
+
+dtterminCs en cellule de 12mm d'tpaisseur, a double secteur, a 
+
+diffCrentes vitesses de rotation (14 000 &lt; v &lt; 26 000 rlmin), dans des 
+
+solutions suffisamment diluCes pour Climiner les effets dus aux 
+
+interactions molCculaires (1,O x lo-' M &lt; Mo &lt; 5,O x 10-'M). Le 
+
+solvant ajouti au moment de la mesure est constituC de chlorure de 
+
+lithium a la concentration 5,O X 10-'M. La distribution des coeffi-
+
+cients (s),,, est obtenue au moyen de la fonction de distribution 
+normalisie g(s) = l/C(dC/ds) ou C est la concentration du solutC (15). 
+3.2 Les coefficients de diSJusion, D,, sont obtenus par centrifugation 
+
+basse vitesse, v = 10 000 rlmin, en cellule t i frontikre synthttique a 
+
+capillaire, selon la mtthode de Fujita -Van Holde (16). 
+
+3.3 La masse tnolaire des composCs lourds est calculie a l'aide de la 
+
+relation de Svedberg (17); celle des composCs lCgers est obtenue par 
+construction du diagramme d' Archibald aprks centrifugation en transi-
+
+tion vers 1'Cquilibre de skdimentation (18). a diffkrentes vitesses 
+(15 000 &lt; v &lt; 42 000 rlmin), avec cellule a double secteur, a remplis-
+
+sage homogkne. 
+
+Resultats experimentaux 
+
+I. tat du systeme 6 l'e'quilibre 
+
+I1 est determine lorsque les concentrations des constituants ne 
+varient plus avec l'iige, c'est-a-dire au bout de 3 0 jours i 20°C. 
+Le systkme est toujours homogkne. 
+
+1. Polyme'risation du systeme 
+
+L e coefficient de sedimentation apparent est suptrieur a 50 
+svedbergs pour tous les mClanges dont la fraction molaire 
+
+f = [Mo]/[Mo + W ] est comprise entre 0,08 et 0,94. I1 se forme 
+
+donc des hauts polymeres dans un domaine Ctendu de composi-
+tions. L e systkme est assez polydispersC (fig. 1) mais ne 
+renferme qu'une famille de composCs lourds de coefficient de 
+sedimentation moyen de l'ordre de 100 svedbergs quelle que 
+
+soit la valeur de f entre 0 et 1 , la concentration e n molybdene 
+
+FIG. 1. Distribution du coefficient de skdimentation apparent (s,),,, 
+mesurC dans les mClanges de fraction molaire f = 0,50 (a); 0,66 (b); 
+0,75 (c) et 0,80 (d). 
+
+dans le haut polymkre Ctant voisine de 1,O x 
+M. La 
+distribution des coefficients de sedimentation tend ii se resserrer 
+lorsque f augmente. 
+2. Compose's lourds forme's dans le systeme 
+
+11s sont recueillis apres ultracentrifugation preparative, sous 
+
+forme d'un gel amorphe aux rayons X. La proportion de 
+
+molybdkne et de tungstkne polymCrisC peut &amp;tre importante-
+80% de c e qui a ete introduit. Elle est atteinte dans un domaine 
+
+de compositions qui est plus large pour le molybdkne, 0,14 &lt; 
+f &lt; 0,94 (fig. 2, courbe a), que pour le tungstkne, 0,80 &lt; f &lt; 
+
+0,94 (fig. 2, courbe b), en raison de la persistance de la forme 
+
+metatungstique dans les melanges d e f &lt; 0,80 (fig. 2, courbe c). 
+
+A partir des rCsultats de l'analyse ClCmentaire (tableau l ) , on 
+
+peut exprimer la composition des acides mixtes dans le haut 
+
+polymkre (H.P.), en fraction molaire fH.P. = [ M o ] ~. ~. / [ M o 
+
++ 
+
+W1H.p.. Elle depend de la composition initiale du melange (fig. 
+
+3): d'abord constante et Cgale 2 0,50 pour les faibles valeurs de f 
+
+(0 &lt; f &lt; 0,30), elle crolt ensuite jusqu'en f = 0,90 de f a ~o n 
+
+pratiquement linCaire. Au-deli d e f = 0,95, la precision des 
+analyses n'est plus suffisante pour preciser le mode de variation 
+de fH,P,, en particulier l'existence Cventuelle d'une limite vers 
+
+~H . P . 
+
+= 0,95. 
+La masse molaire des composes lourds calculee partir des 
+mesures de coefficients de sedimentation et de diffusion du gel 
+remis en solution est de l'ordre de 1,O x lo5 pour une 
+concentration moyenne de (1,O-4,O) x 
+M en molybdkne 
+
+(tableau 2). 
+
+11. ~volution des me'larzges avec l'cige 
+1. Masse molaire 
+
+Durant les trois premiers jours d'Cvolution, la masse molaire 
+apparente des melanges reste Cgale a la masse moyenne des 
+Can. J. Chem. Downloaded from www.nrcresearchpress.com by 87.160.185.190 on 03/27/14 
+
+For personal use only. 
+
+
+Can. J. Chem. Downloaded from www.nrcresearchpress.com by 87.160.185.190 on 03/27/14 
+
+For personal use only. 
+
+
+COURTIN ET LEFEBVRE 
+
+223 
+
+TABLEAU 3. Valeurs du coefficient de skdimentation apparent (s,),,, dans le mklange f = 0,17 en fonction de l'bge 
+
+(?P)~PP 
+(svedberg) 
+25 
+40 
+48 
+65 
+74 
+80 
+85 
+95 
+110 
+125 
+Age 
+(iours) 
+6 
+7 
+
+8 
+
+9 
+11 
+12 
+15 
+18 
+22 
+35 
+[MoIH.~. 
+M ) 
+0,15 
+0,17 
+0,22 
+0,275 
+0,35 
+0,40 
+0,54 
+0,64 
+0,75 
+0,80 
+
+TABLEAU 4. Valeurs des coefficients de skdimentation apparents ( s ~! , ~~ 
+
+des gels isolts i des ages diffkrents (en jours) des melanges de fraction 
+
+molaire f 
+
+TABLEAU 5. Analyse Clementaire des composts lkgers en fonction de la 
+fraction molaire f du melange 
+
+% 
+
+Charge par 
+
+f 
+
+Mo 
+W 
+MoIW 
+
+mole (Mo + W) 
+
+TABLEAU 6. Valeurs du rapport [Mo/W],,,~~,~ i des bges diffkrents (en 
+
+jours), dans les melanges de fraction molaire f 
+
+[MolW] 
+[MoIW] 
+[MoIW] 
+[MoIW] 
+
+f 
+
+(6 d) 
+(13 d) 
+(20 d) 
+(30 d) 
+
+s'annule au bout de 30 jours a 20°C (fig. 4, courbe b): sa vitesse 
+de rtaction peut se mettre sous la forme v = k3[acide substituC], 
+
+avec k3 = 0,123 d-I a 20°C; elle ne dCpend pas de la 
+
+concentration en acide molybdique Cventuellement prbent. Au 
+terme de l'Cvolution, le coefficient de skdimentation vaut 57 
+svedbergs et le molybdkne est totalement dosC sous une forme 
+labile a pH 8, tandis que le tungstkne se rCpartit sous formes 
+labile (en quantitC Cgale au molybdkne) et inerte (seul, a 1'Ctat de 
+mktatungstate). Les produits de la rtaction sont donc l'acide 
+mktatungstique et un acide mixte, de rapport MoIW = 1, qui se 
+polymCrise. 
+
+Discussion 
+
+1. Les rCsultats montrent qu'il est possible d'obtenir des 
+acides mixtes hautement polymCrisCs en solution, par interac-
+tion des acides molybdique et mktatungstique, dans un grand 
+
+intervalle de fraction molaire f = [Mo]/[Mo + W] des mtlan-
+
+ges. En particulier si 0,80 &lt; f &lt; 0,95, la rtaction est totale; ce 
+
+sont les conditions de prkparation de sols riches en molybdkne. 
+
+FIG. 4. ~volution du systkme avec l'bge: (a) solution d'acides mkta-
+tungstique et molybdique de fraction molaire f = 0,17: pourcentage 
+de Mo combine; (b) solution d'acide metatungstique substituk par du 
+molybdkne (H6[H2MoW 
+pourcentage d'acide restant. 
+
+La fraction molaire du haut polymkre fH,p, est alors Cgale a celle 
+
+du melange. Toutefois au-deb de f = 0,90, sa determination 
+
+prCcise devient vite difficile, en raison justement du pour-
+centage trks Clevt de Mo par rapport a celui de W. La fraction 
+molaire fH,p, devrait tendre vers une limite correspondant a celle 
+de l'espkce 1Cgkre formte. ExpCrimentalement, elle se situe 
+au-dessus de fH,P. = 0,94, ce qui correspond a l'introduction 
+d'un tungstene dans une moltcule de 18 ou 24 centres 
+mktalliques (fH,P, = 0,944 ou 0,958). 
+Les sols sont constitues de deux familles de composCs de 
+m&amp;me rapport MoIW, mais de masses tres diffkrentes. La 
+rCpartition entre les deux s'ttablit en gCnCral ainsi: 80% 
+d'espkces lourdes et 20% de legkres. Du point de vue polymCri-
+sation, le systeme ttudit ici se comporte comme les autres 
+systkmes mixtes, a base d'acide antimonique en particulier, 
+CtudiCs au laboratoire. Tous ces systkmes sont constituCs de 
+plusieurs familles d'espkces de masse molaire diffkrente en 
+Cquilibre. Si les deux acides en prCsence peuvent Cvoluer 
+spontankment vers une forme hautement condensCe, les famil-
+les d'espkces en prCsence different a la fois par leur masse 
+molaire et leur composition. Ceci a Ct C vCrifiC sur le systkme 
+acide antimonique -acide tungstique (19). Par contre, si l'un 
+des ClCments en prCsence nlCvolue pas spontanCment vers une 
+forme hautement condensCe, les familles d'espkces en prCsence 
+ne different que par leur masse molaire. Cette conclusion 
+valable dans le cas des composCs de l'acide antimonique et des 
+acides phosphorique, arsCnique et arsCnieux (20) est aussi 
+Can. J. Chem. Downloaded from www.nrcresearchpress.com by 87.160.185.190 on 03/27/14 
+
+For personal use only. 
+
+
+224 
+
+CAN. J. CHEM. VOL. 64. 1986 
+
+vtrifiCe dans le cas des composts molybdovanadiques (7) et 
+
+dans le cas prtsent des composts molybdotungstiques. 
+2. La fraction molaire fH,P, ne varie pas de fagon continue 
+
+comme la fraction molaire f du mtlange, puisqu'elle est 
+
+constante dans l'intervalle 0 &lt; f &lt; 0,30. Cette particularitt est 
+
+le signe d'un comportement difftrent des mtlanges selon la 
+valeur de leur fraction molaire. C'est probablement au niveau de 
+la formation de l'espkce ltgkre que se situe cette difference, 
+puisque la polymtrisation ne modifie pas la fraction molaire de 
+l'espkce mixte. 
+
+A partir des rtsultats obtenus avec les deux hettropolyacides 
+tungstiques (X = H2 et Si) d'une part, et avec les acides 
+
+substituts correspondants d'autre part, nous proposons le 
+schtma suivant pour rendre compte de la formation des acides 
+mixtes. 
+(i) L'action de l'acide molybdique sur I'hCttropolyacide est 
+double: 
+
+[I] formation d'espkce ltgkre mixte 
+
+[2] formation d'espece substitute [ X M O W ~~O ~~] ~" 
+(ii) Suivant la nature de X, une troisikme rtaction peut avoir 
+lieu: 
+
+[3] formation d'espkce ltgkre mixte 2 partir de I'espkce 
+
+substitute. 
+
+L'influence de la valeur de la fraction molaire f du mtlange 
+intervient au niveau de la compttition entre les reactions 1 et 2: 
+
+aux faibles valeurs de f, la rtaction 1 est negligeable devant 
+
+I'autre, dans le cas des mtlanges avec l'acide mktatungstique. 
+
+Les rtactions 1 et 2 sont bien mises en tvidence dans le cas de 
+
+l'acide silico-12 tungstique; elles sont simultantes, puisque la 
+
+polymtrisation ne se fait pas a partir de l'acide substitut, m&amp;me 
+
+en prtsence d'acide molybdique. Dans le cas de l'acide 
+mttatungstique, nous pouvons penser que la rtaction se dtroule 
+suivant le m&amp;me processus, bien qu'aucun rtsultat ne montre la 
+prtsence de l'espkce substitute correspondante (en particulier, 
+
+la presence de molybdene sous une forme inerte a pH 8). Pour 
+
+I 
+
+que la rtaction 2 ne soit pas observte exptrimentalement, il 
+suffit que sa vitesse soit tgale 2 celle de la rtaction 3 qui a lieu 
+obligatoirement dans ce cas. C'est ce qui est vtrifit exptri-
+
+mentalement: les deux constantes de vitesse k, et k3 sont 
+voisines et kl est bien la constante de vitesse de la rtaction 2 si la 
+
+rtaction 1 est ntgligeable en f = 0,17. Dans ces conditions 
+
+(0 &lt; f &lt; 0,30), l'acide mixte ne se forme que suivant [3] et sa 
+
+composition est constante. Aux plus fortes valeurs de f, la 
+
+rtaction 1 n'est plus ntgligeble, et la composition varie. 
+
+1. J. LIVAGE et J. LEMERLE. Annu. Rev. Mater. Sci. 12, 103 (1982). 
+2. J. LEMERLE, L. NEJEM et J . LEFEBVRE. J. Inorg. Nucl. Chem. 42, 
+17 (1980). 
+3. P. PASCAL. Nouveau trait6 de chimie rnintrale. Vol. XIV. 
+Masson, Paris. 1958. pp. 666-667. 
+4. P. COURTIN. Bull. Soc. Chim. Fr. 2747 (1974); 2751 (1974); 
+P. COURTIN et J. LEFEBVRE. Bull. Soc. Chim. Fr. 1983 (1975); 
+C. SANCHEZ, J. LIVAGE, J. P. LAUNAY, M. FOURNIER et 
+Y. JEANNIN. J. Am. Chem. Soc. 104, 3194 (1982). 
+5. P. COURTIN et J. LEFEBVRE. Bull. Soc. Chim. Fr. 1727 (1976). 
+6. J. F. KEGGIN. Nature, 131, 908 (1933). 
+7. J. MANDAVO. Thkse de 3' cycle, Paris (1983). 
+8. M. MARGUERITTE. Ann. Chim. Phys. 17, 477 (1946); H. 
+COPEAUX. Ann. Chirn. Phys. 17,217 (1909); E. F. SMITH. Chem. 
+News, 136, 129 (1927). 
+9. T. J. R. WEAKLEY. Stmct. Bonding (Berlin), 18, 131 (1974). 
+10. S. ARRIBAS, R. RINCON, R. MORO et M. L. ALVAREZ. Anal. 
+Chim. Acta, 33, 205 (1965). 
+11. P. SOUCHAY. Polyanions et polycations. Gauthiers-Villars, Paris. 
+1963. p. 93. 
+12. S. SEIFTER et B. NOVIC. Anal. Chem. 23, 188 (1951). 
+13. P. SOUCHAY et J. P. LAUNAY. C. R. Acad. Sci. 268, 1354(1969). 
+14. I. M. KOLTHOFF et J. LINGANE. Polarography. Vol. 2. Inter-
+science, New York. 1952. pp. 457-461. 
+15. V. N. SCHUMAKER et H. K. SCHACHMAN. Biochim. Biophys. 
+Acta, 23, 268 (1957). 
+16. K. E. VAN HOLDE. J. Phys Chem. 64, 1582 (1960). 
+17. T. SVEDBERG et K. 0 . PEDERSEN. The ultracentrifuge. Johnson 
+Reprint Co., New York. 1940. p. 39. 
+18. W. J. ARCHIBALD. J. Phys. Colloid Chem. 51, 1204 (1947). 
+19. J. LEMERLE et J. LEFEBVRE. Bull. Soc. Chirn. Fr. 409 (1976). 
+20. J . P. JOLIVET, J. LEMERLE et J. LEFEBVRE. Bull. Soc. Chim. Fr. 
+2415 (1975). 
+
+Can. J. Chem. Downloaded from www.nrcresearchpress.com by 87.160.185.190 on 03/27/14 
+
+For personal use only. 
+
+
+
+	
+

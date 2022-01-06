@@ -1,0 +1,562 @@
+
+	
+
+		
+
+	
+
+	
+
+L'azote, site basique des amides encombrkes ? 
+
+GEORGES GUIHENEUF,' JosB-LUIS M. ABBOUD~ ET ABDELJALIL LACHKAR 
+
+Laboratoire de chimie physique organique, UniversitP Cadi Ayyad, BP S 15, Marrakech, Maroc 
+Requ le 16 avril 1 9873 
+
+GEORGES GUIHENEUF, JosB-LUIS M. ABBOUD et ABDELJALIL LACHKAR. Can. J. Chem. 66, 1032 (1988). 
+L'augmentation de la taille des subs~ituants R des amides R1CONR2 entraine une ClCvation des constantes de complexation 
+avec la molCcule d'iode si R = CH3. A l'inverse, lorsque R est un groupe alkyle different de CH3, les constantes diminuent 
+jusqu'h un seuil critique d'encombrement de R et R'. Au-dela de cette limite les valeurs des constantes augmentent brutalement 
+dans des proportions importantes. Ce comportement s'explique par un changement du site de fixation de l'iode. Alors que 
+gCnCralement le site basique des amides N,N-disubstitukes est l'atome d'oxygkne du carbonyle, les contraintes stCriques en 
+
+diminuant la conjugaison des groupes CO et NR2 rCduisent la basicit6 de l'oxygkne et au-dela d'un seuil critique conferent a 
+
+l'atome d'azote un caractere basique proche de celui des amines. Cette interprktation est confinnee par la position de la bande 
+de transfert de charge et par la comparaison avec les constantes de formation des complexes iode-amines et iode -composCs 
+carbonylCs a-aminks. 
+
+GEORGES GUIHENEUF, JosB-LUIS M. ABBOUD, and ABDELJALIL LACHKAR. Can. J. Chem. 66, 1032 (1 988). 
+If R = CH3, an increase in the bulk of the R groups of the amides R1CONR2 provokes an increase in the complexation constants 
+with iodine. Conversely, if R is an alkyl group (but not a CH3), the constants decrease up to a critical size for the bulkiness of R 
+and R'. Above these limits, an abrupt increase of the constants is observed. This behaviour is rationalized in terms of a change in 
+the point of fixation of the iodine. While the basic site of the N,N-disubstituted arnides is the oxygen of the carbonyl, steric hindrance 
+reduces the conjugation of the CO and NR2 groups and hence the basicity of the oxygen; above the critical size and due to steric 
+hindrance, the basicity of the nitrogen atom becomes similar to that of amines. This explanation is confirmed by the position of 
+the charge transfer band and by a comparison with the formation constants of the complexes iodine-amines and iodine -a-amino 
+carbonyl compounds. 
+[Journal translation] 
+
+Introduction 
+Les pivalamides N,N-disubstitutes (CH3)3CCONR2 sont 
+moins basiques que les acttamides disubstitutes CH3CONR2 
+correspondantes (1). Les effets tlectroniques des groupes 
+mtthyle et tert-butyle ttant tquivalents (2), la diminution des 
+constantes d'association avec un acide de Lewis donnt ne Deut 
+rtsulter que des contraintes sttriques induites par les groupes 
+(CH3)3C et NR2. Nous avons, dans un travail prtctdent (I), 
+compart les effets sttriques des substituants N(CH3)2 et 
+N(C2H5)2 a l'aide de la difftrence des enthalpies libres de 
+complexation des amides CH3CONR2 et (CH3)3CCONR2 avec 
+l'iode. En tlargissant la gamme des substituants R a d'autres 
+groupes plus encombrants, tel le cyclohexyle, nous avons 
+observt que les constantes d'association des pivalamides avec 
+l'iode deviennent trks grandes. L'ttude de divers substituants R 
+nous a permis de determiner l'origine de cette particularitt. 
+
+Partie experimentale 
+
+Les valeurs des constantes et des enthalpies libres de formation des 
+complexes amides-iode, A 25°C en solution dans l'heptane, sont 
+rCunies dans le tableau 1. La similitude des conditions expCrimentales 
+autorise une comparaison directe avec nos rksultats antCrieurs (1, 3). 
+
+Lorsque les constantes sont infkrieures a 1000 L mol-l, nous 
+
+utilisons la mCthode dCcrite prCcCdemment (3). Dans tous les cas ou la 
+
+valeur est supCrieure a 1000 L mol-l, la dktermination est faite par des 
+
+mesures spectrophotomCtriques sur la bande de transfert de charge (274 
+nm) dont le coefficient d'extinction molaire supCrieur 2 X lo4 L 
+mol-' cm-' autorise I'emploi de solutions trks diluCes. Pour eviter la 
+formation des ions 13-il est nCcessaire que la concentration en iode soit 
+de l'ordre de 
+mol L-I et que la concentration en donneur ne 
+dCpasse pas 5 X 
+mol L-l; ces limites sont le resultat des nombreux 
+
+1. Adresse pour toute correspondance: Institut universitaire de 
+technologie, B.P. 420, 44606 Saint-Nazaire CEDEX, France. 
+2. Adresse actuelle : Instituto de Quimica Fisica &lt;&lt; Rocasolano &gt;&gt;, 
+C.S.I.C. Serrano, 119, 28006 Madrid, Espagne. 
+3. RCvision reque le 20 novembre 1987. 
+
+essais auxquels nous avons procCdC. Ces contraintes nous ont conduit a 
+
+retenir la mCthode proposCe par Bellon (4). La solution d'iode est 
+placCe dans une cellule de 10 cm d'Cpaisseur et le spectre est enregistre, 
+puis la solution de donneur est ajoutCe par fraction de 0,l cm3, le 
+
+volume total ajoutC Ctant de 2 A 3 cm3. Aprks chaque addition le spectre 
+
+est enregistre. Les concentrations en iode et en donneur sont calculCes 
+en supposant les volumes additifs, ce qui, en raison de I'extrCme 
+dilution des solutions, ne peut entrainer d'erreur ~i~nificative.~ La 
+valeur de la constante est ensuite dCterminCe par la procedure de Rose 
+et Drago (5). 
+
+Mesures spectrophotomPtriques 
+Tous les spectres dans le domaine uv-visible ont Ct C enregistres sur 
+un spectrophotomktre Cary 219. La tempkrature est maintenue cons-
+
+tante par une circulation d'eau a partir d'un cryostat Lauda K2R. 
+
+SynthPse des produits 
+Les amides ont Ct C prCparCes par action des amines convena-
+bles sur les chlorures d'acide correspondants; le composk (C6H1 1)2-
+NCH2COOC2H5 a Ct C obtenu en faisant agir la dicyclohexylamine sur 
+le chloroacCtate d'Cthyle. Tous les produits ont Ct C purifiCs par 
+distillation, recristallisation ou sublimation. 
+
+Resultats et discussion 
+1. Influence du substituant R duns la se'rie CH3CONRp 
+L'examen du tableau 1 met immtdiatement en tvidence 
+l'augmentation des valeurs Kc ou AGO avec la taille du 
+substituant NR2: Kc est multiplite par deux en passant du 
+groupe N(CH3), a N(C6Hl 
+NOUS trouvons ici une variation 
+
+analogue A celle observte pour la basicitt des alcools aliphati-
+
+ques (6) pour lesquels la basicitt augmente avec la longueur de 
+la chaine du substituant. Or la somme des effets inductif et de 
+
+4. On peut acheter les tableaux des valeurs experimentales des 
+concentrations en iode, en amides et des absorbances correspon-
+dantes, utilisCes pour la detkrmination des constantes de complexation 
+12-amides, en s'adressant au DCp6t des donnCes non publikes, ICIST, 
+Conseil national de recherches du Canada, Ottawa (Ontario), Canada 
+KIA 0S2. 
+
+Can. J. Chem. Downloaded from www.nrcresearchpress.com by 87.160.185.190 on 03/27/14 
+
+For personal use only. 
+
+
+GUIHENEUF ET AL. 
+
+1033 
+
+TABLEAU 1. Constantes et enthalpies libres de formation des complexes 
+avec I'iodea 
+
+Kc 2 SK, 
+AGO k SAG0 
+ComposCs 
+(L mo1-I) 
+
+C H ~C O N ( C H ~) ~~ 
+15 2 1 
+
+-6,7 + 0,4 
+
+C H ~C O N ( C ~H ~) ~~ 
+18,8 2 0,s 
+(CH3)3CCON(CH3)2' 
+
+6,7 + 0,4 
+
+(CH~)~CCON(C~HS)~' 
+
+6,7 + 0,9 
+
+CH~CON[CH(CH~)ZIZ 
+
+27 + 4 
+
+CH3CON[CH2CH(CH3)2]2 
+
+21,5 + 3 
+
+CH,CON(C&amp; 11)z 
+31 ? 4 
+
+-8,6 + 0.4 
+
+C~HSCON(C&amp;II)~ 
+15 &amp; 1 
+
+-6,7 + 0,4 
+
+(CH~)ZCHCON(C&amp;I 112 
+
+1350 + 200 
+-18,O -t 0,4 
+
+(CH~)~CCON(C~HI 1)2 
+
+4300 + 600 
+
+-21,O + 0.3 
+
+(CH3)3CCON[CH(CH3)212 
+350 2 150 
+-14,6 -C 1,7 
+(CH313CCON tCHzCH(CH3)zIz 
+
+250 * 50 
+
+-13,8 &amp; 0,6 
+CZH~~COCHZN(C~HI I )2 
+
+3800 + 320 
+
+-20,5 * 0.3 
+
+300 
+400 
+500 
+
+25"C, en solution dans I'heptane, reproductibilitt pour un degrt de con-
+fiance de 95%. 
+b ~a l e u r 
+extraite de la rtftrence 3. 
+'Valeur extraite de la rtfkrence 1. 
+
+FIG. 1 . Absorption de l'iode dans les mtlanges iode-N,N-dicyclo-
+hexylac6tamide (T = 298 K; solvant : heptane). [I2] = 8,3 x 
+rnol 
+L-I; [CH3CON(C&amp;11)2] X loF3 rnol L -I : (a) = 0; (b) = 2.8; (c) = 
+5,l; (d) = 9,6; (e) = 17,3; (f) = 23,7. 
+
+rtsonance demeure pratiquement constante alors que la polari-
+sabilitt augmente avec le nombre de groupes CH2 (7). I1 semble 
+donc que l'augmentation de la basicitt des amides N,N-disub-
+stitutes soit like 2 la polarisabilitt croissante du substituant 
+NR2. 
+Ces rtsultats confirment Cgalement l'absence de contrainte, 
+sttrique notable entre les groupes NR2 et CH3, ceci indtpen-
+damment de la taiHe des groupes alkyles R; cette supposition, 
+.base de notre estimation des interactions sttriques (I), trouve 
+ainsi une justification suppltmentaire. 
+Pour tous les composts de la strie CH3CONR2, les spectres 
+des solutions mixtes iode-amides, dans l'heptane, sont analo-
+gues. La figure 1 illustre ces spectres pour le complexe 
+
+iode-N,N-dicyclohexylacttamide. Nous relevons les prtsences 
+
+FIG. 2. Evolution de I'absorption d'un mtlange iode-N, N-dicyclo-
+hexylpivalamide au cours du temps (T = 298 K; solvant : he tane). [I21 
+
+B 
+
+= 1,2 x 
+
+rnol L-I; [(CH3)3CCON(C6H1 = 10-rnol L-I . 
+
+Temps : (a) = 0; (b) = 30 rnin; (c) = 60 min; (d) = 90 rnin; (e) = 120 
+min; (f) = 150 min. 
+
+de la bande de l'iode libre (520 nm) et de la bande de l'iode 
+complex6 (maximum au voisinage de 470 nm) dont l'intensitt 
+augmente avec la concentration en amide (la concentration en 
+iode est maintenue constante). Hormis ces deux bandes il 
+n'existe pas d'autre absorption caracttristique; en particulier il 
+est impossible de mettre en tvidence, dans le domaine de 
+
+longueur d'onde accessible (A &gt; 200 nm), une absorption de 
+
+transfert de charge. 
+
+2 . Association 12-(CH3)3CCON(CaHI I)z 
+En choisissant des domaines de concentrations, pour l'iode et 
+l'arnide, identiques 2 ceux retenus prtctdemment (I2, 
+rnol 
+L-'; amide, 
+rnol L-') les spectres enregistrts prtsentent 
+des diffkrences apprtciables. 
+(a) La bande de l'iode complex6 (470 nm) n'apparait pas, 
+quelle que soit la concentration en iode et en amide. De meme, 
+le point isobestique, prtsent sur le spectre de la figure 1, est 
+absent. 
+(b) Une absorption intense se manifeste au voisinage de 
+350 nm dont l'intensitt croit plus rapidement que la concentra-
+tion en amide. 11 ne peut donc s'agir d'une bande de transfert de 
+charge, puisque dans cette hypothkse, les variations d'absor-
+bance seraient inftrieures 2 celles rtsultant de la relation de 
+Beer-Lambert. 
+(c) I1 n'existe pas de relation entre les variations d'absorbance 
+aux difftrentes longueur d'onde et aucun rtsultat significatif ne 
+peut Ctre calcult pour les constantes Kc. 
+(d) Les spectres tvoluent trks rapidement dans le temps et 
+nous avons remarqui la formation d'un prtcipitt, m&amp;me aux 
+faibles concentrations. 
+Par ailleurs, et parallblement 2 l'absorption situte 2 350 nm, 
+une bande apparait entre 280 et 300 nm. Ces deux bandes sont 
+
+semblables aux bandes des ions 13-(8). Nous pouvons donc 
+
+penser que des ions 13-se foment trks rapidement dans le cas du 
+complexe 12-(CH3)3CCON(C6H1 1)2, m&amp;me en solution dans 
+l'heptane, qui ne favorise pas la formation de ces ions, et pour 
+des solutions trks dilutes en iode et en donneur. C'est la 
+premikre fois qu'un tel comportement des complexes iode -
+composts carbonylts est observt. 
+Can. J. Chem. Downloaded from www.nrcresearchpress.com by 87.160.185.190 on 03/27/14 
+
+For personal use only. 
+
+
+CAN. 1. CHEM. VOL. 66, 1988 
+
+h (n m) 
+
+FIG. 3. Absorption des mClanges 12-(CH3)2CHCON(C6HI I)2 ( T = 
+298 K; solvant : heptane). [I2] X lo5 rnol L-' : (a) = 1,67; (b) = 1,65; 
+(c) = 1,63; (d) = 1,615; (e) = 1,60; (f) = 1,58. [(CH3)2CHCON(C6-
+X lo5 rnol L-' (a) = 0; (b) = 2,88; (c) = 6,42; (d) = 9,70; (e) 
+= 13,5; (f) = 16,l. 
+
+L'enregistrement des spectres en fonction du temps permet de 
+prtciser la suite des reactions (figure 2). Initialement, un choix 
+convenable des concentrations (I2 = 1,2 X lop5 rnol L-'; 
+amide = 
+rnol L-') tlimine la prtsence de la bande a 350 
+nm; en revanche, nous notons une absorption trbs intense a 274 
+nm. Au cours du temps, l'intensitt de cette demibre bande 
+diminue pendant qu'apparaissent les bandes a 350 nm et 287 
+nm. Ensuite, en laissant une durte suffisante d'tvolution, les 
+bandes a 350 et 287 nm disparaissent. 
+La bande situte a 274 nm qui n'appartient ni a I'iode ni a 
+l'amide doit &amp;tre attribute au com~lexe. L'existence d'une 
+bande de transfert de charge dans ce domaine de longueur 
+d'onde est tout a fait remarquable; en gtntral il est impossible 
+d'observer les transitions de transfert de charge des complexes 
+iode -composts carbonylts. 
+L'tvolution des spectres dans le temps conduit proposer le 
+processus suivant : dans un premier stade, il y a formation du 
+
+complexe par transfert de charge identifit par la bande a 274 nm. 
+
+Ensuite ce complexe tvolue vers un complexe ,ionique avec 
+
+apparition des ions 13-(bande a 290 et 350 nm). A ce jour, une 
+
+tvolution de ce type n'avait pas t t t observte pour les complexes 
+CO. .I2 alors que des phtnomknes semblables sont frtquents 
+avec les complexes arnines-iode (9); si nous prenons l'exemple 
+du complexe iode-tritthylamine, la bande de transfert de 
+charge, 278 nm, prtsente au moment de la mise en solution 
+disparait ensuite progressivement. Nous remarquons la simili-
+tude des positions des bandes de transfert de charge pour les 
+deux types de complexes iode-amine (278 nm) et iode-N,N-
+dicyclohexylpivalamide (274 nm). 
+Nous avons ensuite proctdC a la recherche des conditions 
+exptrimentales et des concentrations permettant une dttermina-
+tion de la constante deformation du complexe initial. Ceci nous 
+a conduit 21 modifier la mtthode utiliste habituellement (cf. 
+Partie exptrimentale). En choisissant une concentration en iode 
+t&amp;s faible (lop5 rnol L-') et en faisant varier la concentration en 
+
+amide de 
+
+rnol L-' a environ 5 x lop4 rnol L-' il est 
+
+possible d'avoir des solutions qui n'tvoluent pas significative-
+ment pendant le temps de l'exptrience (1-2 h). Un exemple de 
+spectre et donnt sur la figure 3. 
+En exploitant la mesure de l'absorbance au maximum de la 
+
+bande de transfert de charge, la valeur calculte de Kc est tgale a 
+
+4300 L mol-' (AGO = -21 kJ mol-'). Cette valeur est trks 
+
+suptrieure a celle habituellement obtenues pour les complexes 
+
+iode -composts carbonylts et est totalement incompatible avec 
+la valeur Kc du complexe 12-CH3CON(C6H1 : en raison de la 
+contrainte sttrique entre les groupes (CH3)3C et N(C6H11)2, la 
+
+constante devrait &amp;tre inftrieure a 30 L.mol-' pour le complexe 
+
+1,-N,N-dicyclohexylpivalamide. 
+Ces anomalies et l'analogie remarqute plusieurs reprises 
+avec les proprittts des complexes iode-amines, permettent de 
+conclure une complexation au niveau de l'atome d'azote de la 
+N, N-dicyclohexylpivalamide. 
+Le site basique des amides N,N-disubstitutes est toujours 
+l'atome d'oxygkne, aussi bien pour les complexes par transfert 
+de charge (10, 11) que par liaison hydrogkne (3). 11 s'agit donc 
+du premier exemple de fixation d'un acide de Lewis sur l'atome 
+d'azote d'une amide acyclique. Cette particularitt peut s'expli-
+quer par l'effet sttrique trks grand du groupe N(C6H11)2. Pour 
+les substituants N(CH3)2 et N(C2H5)2, la substitution du groupe 
+CH3 par le groupe (CH3)3C entraine une diminution importante 
+de Kc et de la stabilitt du complexe. Cet abaissement est plus 
+marqut avec N(C2H5)2 en raison de l'effet sttrique plus 
+important du groupe tthyle. La contrainte sttrique est levte soit 
+par une ouverture de l'angle C-CO-N 
+soit par une rotation 
+du substituant NR, autour de la liaison C-N. I1 en rtsulte une 
+diminution de l'effet mtsomkre donneur du groupe NR2 et un 
+abaissement de la basicitt du groupe carbonyle. Lorsque la 
+contraite sttrique devient trks forte comme c'est le cas avec le 
+substituant N(C6HI 
+l'angle de rotation peut devenir tel que 
+la conjugaison entre les groupes CO et NR2 est pratiquement 
+absente. Le site le plus basique devient alors l'atome d'azote qui 
+
+posdde une basicitt analogue a celle de l'azote d'une amine 
+
+porteur d'un substituant attracteur par effet inductif et sans effet 
+mtsomkre. 
+
+3. Influence de l'encombrement stkrique du substituant R' de 
+R' CON(C6Hll)2 
+Afin de confirmer l'interprttation proposte, nous avons fait 
+varier l'encombrement du substituant not6 R' et avons dtter-
+mint les Kc de formation des complexes avec l'iode pour la strie 
+R' = CH3, CH2CH3, CH(CH3)2 et C(CH3). La substitution 
+progressive des atomes d'hydrogkne par des groupes mtthyles 
+s'accompagne d'abord d'une diminution de Kc, similaire 
+
+A celle qui se produit en passant de CH3CON(CH3)2 a 
+
+C2H5CON(CH3)2. h i s une brutale inversion est provoqute par 
+le groupe isopropyle, la constante Kc devient tgale a 1350 L 
+mol-' et la bande de transfert de charge 21 274 nm apparait alors 
+qu'elle ttait absente avec les composCs prtctdents. La substitu-
+tion par le groupe isopropyle donne un compost dont les 
+proprittts de basicitt sont les m&amp;mes que celles de la N,N-dicy-
+clohexylpivalamide. La valeur Kc moins tlevte s'explique par 
+une contrainte sttrique moins forte qu'avec --le tert-butyle et une 
+conjugaison rtsiduelle entre les groupes CO et NR,. confor-
+
+mtment aux prtvisions faites a partir du modkle propost, la 
+
+basicitt commence par diminuer, puis augmente au-deli d'un 
+encombrement sttrique cc critique &gt;&gt; des substituants. En fait, 
+
+la basicitt de I'oxyggne continue a diminuer puisque la 
+
+conjugaison s'affaiblit, mais la dttermination exptrimentale de 
+sa valeur est impossible. 
+Can. J. Chem. Downloaded from www.nrcresearchpress.com by 87.160.185.190 on 03/27/14 
+
+For personal use only. 
+
+
+GUIHENEUF ET AL. 
+
+1035 
+
+4 . Substitutions sur l'atome d'azote 
+La substitution des groupes alkyle de l'atome d'azote exerce 
+tgalement une influence sur la nature de l'association avec 
+l'iode. Ainsi, pour les composts (CH3)3CCON[CH(CH3)2]2 et 
+
+(CH3)3CCON[CH2CH(CH3)2)]2, apparait tgalement une bande 
+
+de transfert de charge vers 275 nm, mais pour avoir une intensitt 
+d'absorption significative il est ntcessaire d'accroitre les con-
+centrations en iode et en amide. Dans ces conditions. la 
+formation des ions 13-et l'tvolution des solutions sont trks 
+rapides. Les constantes de formation des complexes ont t t t 
+
+dttermintes B partir de l'absorption de l'iode h 520 nm en nous 
+
+assurant que les ions 13-ne perturbaient pas les mesures. Pour 
+cela, nous avons t t t contraints de nous placer dans des 
+domaines de concentrations oh la proportion d'iode complex6 
+est faible; la reproductibilitt est alors moins satisfaisante que 
+pour les autres valeurs de constantes. Toutefois, en raison des 
+difftrences importantes entre les constantes, les tcarts sont 
+significatifs. Pour les deux composts, les constantes sont 
+comprises entre 250 et 350 L mol-I, le site basique est donc a 
+nouveau l'atome d'azote, mais en raison de la conjugaison 
+rtsiduelle, sa basicitt et plus faible que celle de la N,N-dicyclo-
+hexylpivalamide. L'augmentation progressive des constantes 
+avec l'encombrement sttrique des substituants est parfaitement 
+en accord avec une complexation sur l'azote provoqute par les 
+contraintes sttriques. 
+
+5 . Comparaison avec les amines et les compose's carbonyle's 
+
+a-amine's 
+La constante dtterminte pour le complexe iodo-dicyclo-
+
+, 
+
+hexylpivalamide est compatible avec celles relevtes dans la 
+litttrature pour les complexes iode -amines tertiaires. Dans 
+l'heptane, h 20°C, ces valeurs sont, par exemple, de 13 804 L 
+
+et l'azote. L'atome d'azote doit donc posstder des proprittts 
+basiques proches de celles de l'azote de la N,N-dicyclohexyl-
+pivalamide. La bande de transfert de charge du complexe est 
+
+situte B 280 nm; les solutions tvoluent tgalement dans le temps 
+
+avec disparition de la bande de transfert de charge et formation 
+des ions 13-caracttrists par les bandes h 350 et 287 nm. La 
+constante de complexation dtterminte B partir de l'absorption 
+
+de transfert de charge est se 3 800 L mol-l, comparable 2 la 
+
+valeur 4300 obtenue pour le complexe iode-N,N-dicyclo-
+hexylpivalamide. 
+
+e ensemble des donntes spectrales, thermodynamiques et 
+
+d'effets structuraux sur ces grandeurs vont dans le sens d'un 
+changement du site basique dans les amides encombrees. I1 faut 
+remGquer que cette conclusion s'applique au cas de l'iode, 
+acide mou dans la classification de Pearson (1 3, 14); elle ne peut 
+
+pas 6tre ttendue, sans vtrification exptrimentale prtalable, B 
+
+des acides durs tels que les donneurs de liaison hydrogkne. 
+
+1 . G. GUIHENEUF, J. L. M. A B B O U D ~~ 
+C. RAFIK. J. Org. Chem. 48, 
+
+4761 (1983). 
+
+2. R. W. TAFT et C. A. GROB. J. Am. Chem. Soc. 95, 1236 (1974). 
+3. C. LAURENCE, G. GUIHENEUF et B. WOJKOWIAK. J. Am. Chem. 
+SOC. 101, 4793 (1979). 
+4. L. Bellon. Thkse de doctorat, Bordeaux (1960). 
+5. N. J. ROSE et R. S. DRAGO. J. Am. Chem. Soc. 81,6138 (1959). 
+6. J. L. M. ABBOUD, K. SRAIDI, G. GUIHENEUF, M. J. K A M L E T ~~R . 
+W. TAF-T. J. Org. Chem. 50, 2870 (1985). 
+7. W. J. HEHRE, C. F. PAU, A. D. HEADLEY et R. W. TAR. J. Am. 
+Chem. Soc. 108, 1711 (1986). 
+8. R. E. BUCKLES, J. P. YUKet A. I. P o ~o v . 
+J. Am. Chem. Soc. 74, 
+
+4379 (1952). 
+
+9. H. D. BIST et W. B. PERSON. J. Phys. Chem. 73, 482 (1969). 
+10. E. AUGDAHL et P. KLABOE. Acta Chem. Scand. 19. 1637 (1962). 
+m0l-' pour le ~0mplexe I ~-( c H ~) ~N ( c ~H ~ 
+1) et de 2 344 L 
+1 1. C. D. SCHMULBACH et R. S. DRAGO. J. ~m . 
+~h e m . ' ~o c . 
+
+82,1637 
+
+m01-' pour 12-CH3N(C6H1 (12). 
+
+(1960). 
+
+Pour confirmer cet accord, nous avons ttudit le complexe I*-
+12. C. TAKAYAMA, T. FUJITA et M. NAKAJIMA. J. Org. Chem. 44, 
+C2H50COCH2N(C6HI L'encombrement autour de l'azote 
+
+2871 (1979). 
+
+est proche de celui existant dans la N,N-dicyclohexylpiva1-
+13. R. G. PEARSON. J. Am. Chem. Sot. 85: 3533 
+amide et le groupe CH2 elimine la conjugaison entre le carbonyle 
+14. W. B . JENSEN. Chem. Rev. 78, 1 (1978). 
+
+Can. J. Chem. Downloaded from www.nrcresearchpress.com by 87.160.185.190 on 03/27/14 
+
+For personal use only. 
+
+
+
+	
+

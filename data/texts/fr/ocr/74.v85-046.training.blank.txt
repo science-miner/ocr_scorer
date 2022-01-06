@@ -1,0 +1,184 @@
+
+	
+
+		
+
+	
+
+	
+
+Etude de I'anharmonicite electrique dans 12C1602 
+
+PHILIPPE MILLIE 
+Dkpartement de Physico-Chimie, CENISACLAY, 91 191 Glf-.sur-Yvette Cedex, France 
+Requ le 24 avril 1984 
+
+PHILIPPE MILLIE. Can. J . Chem. 63, 278 (1985). 
+Le dtveloppement du moment dipolaire dans la moltcule I2C'"O2 en fonction des coordonntes normales est dttermint 
+jusqu'au quatrikme ordre par ajustement sur valeurs exptrimentales des intensitts de transition. La convergence du 
+dtveloppement est rapide, mais les termes d'ordre trois jouent un r61e tres important si on veut obtenir une precision de I'ordre 
+de 20%. 
+
+PHILIPPE MILLIE. Can. J . Chem. 63, 278 (1985). 
+The dipole moment derivatives up to the fourth order are determined for the "C"OZ molecule by fitting the experimental 
+values of several transition intensities. The convergence is fast, but the third order is significant in order to obtain an acceptable 
+accuracy (-20%). 
+
+Introduction 
+Le moment dipolaire d'une molCcule polyatomique peut Ctre 
+dCcrit dans n'importe quel systeme de coordonnCes reprksen-
+tant le dCplacement des atomes par rapport a la configuration 
+dlCquilibre. Cependant, en gCnCral, on utilise un developpe-
+ment en puissance en fonction des coordonnCes normales sans 
+dimension (q,) 
+
+[ I ] M U = M: + z P:q, + f C Pl,sqsq,. + . . . 
+
+s.s' 
+
+avec 
+
+La question essentielle est la rapidit6 de convergence d'un tel 
+dCveloppement, c'est-a-dire le r61e de I'anharmonicitt Clec-
+trique dans les intensitts de transition. 
+La molCcule de bioxyde de carbone se prCte particulierement 
+bien a une telle Ctude, car d'une part, sa fonction potentiel est 
+bien connue ( I ) , d'autre part, l'intensitk d'un grand nombre de 
+ses transitions a CtC dtterminte (2). 
+Cette Ctude se distingue des Ctudes prCcCdentes (3, 4) sur le 
+mCme sujet sur trois plans: (i) I'utilisation d'une fonction po-
+tentiel plus raffinCe, (ii) le nombre de transitions utilisCes pour 
+
+dkterminer les coefficients P,, P,,, etc. . , beaucoup plus grand 
+
+(7 a 10 fois), et (iii) la fonctionnelle utilisCe: on a cherchC a 
+reproduire au mieux les intensites de transition et non les mo-
+ments dipolaires. 
+L'emploi de ces derniers pose en effet le probleme du signe 
+des valeurs experimentales, et oblige, soit a tester tous les jeux 
+de signe possibles, soit a ne garder que les transitions les plus 
+intenses pour lesquelles le signe est certain (3), ce qui restreint 
+I'ichantillonnage dans les deux cas. 
+
+Considerations theoriques 
+I. Principe gknkral 
+L'intensitC d'une transition donnee entre deux Ctats vi-
+brationnels $i et $j est proportionnelle a 
+
+(*iJMI*;)2 
+
+Compte tenu de 1'Cq. [I], on obtient: 
+
+Si on connait par ailleurs les fonctions d'ondes 4; et $,, on 
+
+peut aisement calculer (+,(q,I$,), (+;(q,q,~I$.,), etc. (9;IM"I$j)2 
+
+devient une fonction des seuls paramhtres PP, P:&gt;, etc. . et ces 
+
+derniers sont alors obtenus a partir d'un Cchantillonnage de 
+
+valeurs expCrimentales de (&amp;I M ~I +,)? 
+
+2. Obtention des forlctions d'ondes 
+Elle consiste a Ccrire les fonctions d'ondes comme des pro-
+duits des fonctions harmoniques et a diagonaliser I'hamiltonien 
+
+T + V dans cette base. Le potentiel utilisC est celui determine 
+
+par A. Chedin ( I ) . La validit6 de ce potentiel, la convergence 
+des fonctions d'ondes et des ClCments de matrice de I'opCrateur 
+moment dipolaire ont Ct C discutCes dans un article prtckdent 
+(5). La dimension de la base utilisCe est de 246 pour chacune 
+
+des symCtries X: , Xi, n,, nu, A,, A, alors que les intensitCs 
+
+des transitions utilisCes ne font intervenir au maximum que les 
+vingt premiers niveaux dans chaque symetrie. 
+
+3. DPveloppement du moment dipolaire 
+Le diveloppement, au quatrieme ordre, en fonction des co-
+ordonnkes normales sans dimension compte tenu des res-
+trictions dues a la symetrie, s'Ccrit sous la forme (i) pour les 
+
+transitions paralleles (2: -X: , n, -nu, A, -A,) 
+
+(ii) pour les transitions perpendiculaires (n,,, -X:, , , A,, -
+
+nu,,), si on utilise les coordonnees polaires p et cp, on obtient: 
+
+Conduite du calcul et rQultats 
+I. Choix de I'kcharitillonnage 
+Bien qu'on ne puisse pas dtfinir un critere absolu de choix, 
+cet tchantillonnage doit rCpondre aux qualitis suivantes: 
+(a) Le nombre d'echantillons doit Ctre nettement suptrieur au 
+nombre de parametres, ici huit. 
+(b) Les transitions choisies doivent permettre une dtter-
+mination significative des parametres. Elles doivent donc faire 
+intervenir ces derniers avec des poids comparables sur I'ensem-
+ble a determiner. I1 est notamment nCcessaire pour cela de 
+choisir aussi bien des transitions intenses que des transitions 
+trhs faibles. 
+Can. J. Chem. Downloaded from www.nrcresearchpress.com by 87.160.185.190 on 03/27/14 
+
+For personal use only. 
+
+
+Can. J. Chem. Downloaded from www.nrcresearchpress.com by 87.160.185.190 on 03/27/14 
+
+For personal use only. 
+
+
+280 
+
+CAN. J. CHEM. VOL. 63. 1985 
+
+lioration trks nette de la valeur minimale de la fonctionnelle F 
+en fonction du nombre de paramktres et notamment I'im-
+portance du troisieme ordre pour obtenir une erreur relative 
+moyenne infirieure a 30%; ( i v ) la bonne fiabilite des resultats 
+
+obtenus en fonction des erreurs expkrimentales: un changement 
+aliatoire de toutes les valeurs experimentales (limitee a 15% au 
+maximum) ne modifie que peu les valeurs obtenues, mEme les 
+plus faibles (comparer les colonnes 4 et 5 des tableaux 1 et 2). 
+
+I 
+
+On peut ainsi estimer notre erreur a 1 % sur le ler terme et a 5% 
+
+I 
+
+sur les autres. (v) le bon accord que I'on obtient avec les 
+valeurs expirimentales aussi bien pour des transitions trks in-
+tenses que pour des transitions de trks faible intensite (huit 
+ordres de grandeur) (voir tableau 3). 
+
+Conclusion 
+
+Comme il a CtC deja discute ( 3 , le potentiel utilise dans ce 
+
+travail semble apte a reproduire thkoriquement les intensitis de 
+transition observees. Le large Cchantillonnage utilisk permet 
+d'amiliorer la fiabilitk du developpement du moment dipolaire, 
+notamment pour les plus petits termes qui jouent un r6le im-
+portant pour les transitions presque interdites. 
+Une evaluation a priori, d'intensitis de transitions non en-
+core observees dans COz, semble maintenant possible avec une 
+precision de I'ordre de 20%. 
+
+I. A. CHEDIN. J. MoI. Spectrosc. 76, 430 (1979). 
+2. A. CHEDIN. N. HUSSON, N . A. SCOTT, I. COHEN-HALLALEH et 
+A. BERROIR. Tables Geisa Laboratoire de Mtttorologie Dyna-
+mique du C.N.R.S. Notes internes nus 108, 1 13 et 1 16 (1982). 
+3. 1. SUZUKI. J. Mol. Spectrosc. 80, 12 (1980). 
+4. J. BORDE. J. Phys. 39, 369 (1978). 
+5 . PH. MILLIE. Can. J. Chem. 62, 736 (1984). 
+
+Can. J. Chem. Downloaded from www.nrcresearchpress.com by 87.160.185.190 on 03/27/14 
+
+For personal use only. 
+
+
+
+	
+

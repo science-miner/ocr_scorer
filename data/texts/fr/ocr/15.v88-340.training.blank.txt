@@ -1,0 +1,1257 @@
+
+	
+
+		
+
+	
+
+	
+
+~t u d e experimentale et modelisation theorique de la decomposition du radical ethyle 
+
+YVES SIMON, JEAN FRANGOIS FOUCAUT ET G ~R A R D 
+SCACCHI' 
+
+Dtpnrfernetzf de chimie physique des re'acrions,, Ut~ife' associte 11" 328 du Cetzfre tz~tiot~al de la recherche scierzf@que, 
+lrzsfifur-nariond polyfechrzique de Lorraine -Ecole rlc~fionale supe'rieure des industries clzirniqrres, I , rrte Grc~r~dville, 
+54042 Nar~cj CEDEX, France 
+
+R e p le 8 fCvrier 1988 
+
+YVES SIMON, JEAN FRANCOIS FOUCAUT et G ~R A R D 
+SCACCHI. Can. J. Chem. 66,2142 (1988). 
+
+Une Ctude bibliographique sur la dCcomposition thermique du radical Cthyle montre une assez grande dispersion des 
+paramktres cinttiques pour les conditions limites haute et basse pression. C'est la raison pour laquelle nous avons repris une Ctude 
+de ce processus tltmentaire dans la pyrolyse de I'Cthane, vers 800 K, en rkacteur fermC et pour des pressions d'hydrocarbure pur 
+comprises entre 1 et 300 Torr. Les rksultats expkrimentaux sont traitts grice trois approches thCoriques : la thCorie RRKM 
+et deux mCthodes proposCes par Troe. On obtient, chaque fois, un excellent ajustement des courbes thCoriques aux points 
+experimentaux, ainsi que des expressions dlArrhenius pour les constantes de vitesse a haute et basse pression. Une analyse 
+critique dktaillke de nos propres rksultats et de ceux de la IittCrature montre qu'il n'existe pas encore une trks bonne compatibilitC 
+entre les travaux les plus rkcents sur ce sujet. NCanmoins il est possible de donner deux expressions d'Arrhenius pour les 
+constantes limite haute et basse pression qui representent un bon compromis entre les rksultats des divers auteurs : 
+
+k,(s-l) = 1013.2 exp (-F) 
+
+YVES SIMON, JEAN FRANCOIS FOUCAUT, and G ~R A R D 
+SCACCHI. Can. J. Chem. 66, 2142 (1988). 
+
+A bibliographical study of the thermal decomposition of the ethyl radical shows that the kinetic parameters for the upper and 
+lower limits of the pressure are rather scattered. This observation explains why we have carried out a new study of this 
+elementary process in the pyrolysis of ethane, around 800 K, in a closed vessel and at pressures of the hydrocarbon varying from 
+1 to 300Torr. The experimental results have been treated according to three theoretical approaches: the RRKM theory and two 
+methods proposed by Troe. In each case, an excellent fit of the theoretical curves with the experimental data is obtained, as well 
+as Arrhenius expressions for the reaction rate constants at high and low pressures. A detailed critical analysis of our results as 
+well as those found in the literature shows that as yet there is no good agreement between recent studies on this subject. 
+However, it is possible to present two Arrhenius expressions for the reaction rate constants at high and low pressures; these 
+expressions represent a good compromise for the results obtained by various authors: 
+
+[Journal translation] 
+
+Introduction 
+La dCcomposition thermique du radical tthyle en tthylkne et 
+hydrogene atomique est une rtaction tltmentaire omniprksente 
+dans les reactions en phase gazeuse d'hydrocarbures : pyro-
+
+lyses, oxydations, chlorations, etc.. . Une bonne connaissance 
+
+des parametres thermochimiques et cinCtiques de ce processus 
+est donc ntcessaire si l'on desire modtliser les rCactions 
+complexes prtctdentes. C'est la raison pour laquelle un certain 
+nombre d'ttudes experimentales ont Ct C consacrkes, en particu-
+lier. a la variation de la constante de vitesse du Drocessus avec la 
+pression. Ce phtnomkne (&lt;&lt;fall-off))), o b s e k d'abord dans 
+la pyrolyse du butane (I), a Ct C confirmC par des travaux sur la 
+pyrolyse (2) et sur la dtcomposition photosensibilisee par le 
+mercure (3) de l'ithane, ceci des tempkratures infirieures 
+
+a 1000 K. Cette m&amp;me rtaction thermique a Ct C CtudiCe plus 
+rtcemment en tube a onde de choc entre 1200 et 1600 K (4) et 
+
+vers 1000 K dans un rtacteur &lt;&lt;sans ~aroi)) ( 5 ) . Les diffkrents 
+
+sant des mtthodes d'extrapolation ou de simulation theorique 
+variCes. On observe une assez grande dispersion des paramktres 
+cinCtiques et c'est la raison pour laquelle nous avons repris une 
+Ctude expkrimentale de la pyrolyse de 1'Cthane vers 800 K, en 
+rCacteur fermt .* 
+Pendant ce travail deux travaux importants, l'un sur le 
+processus qui nous inttresse (7), l'autre sur le processus inverse 
+(8, 9), ont Ct C menCs a bien. Une cornparaison dCtaillCe de ces 
+nouveaux rCsultats et de ceux de notre Ctude sera prCsentCe a la 
+fin du prksent article. 
+
+Conditions experimentales 
+
+La pyrolyse de 1'Cthane a Ct C Ctudite en rCacteur fermC, isothenne, 
+a volume constant. L'Cthane utilisC a Ct C prepark par la SociCtC 1'Air 
+Liquide. I1 contient moins de 10 ppm d'ithylkne et moins de 1 ppm 
+d'oxygtne. Par suite de la grande sensibiliti de la reaction aux traces 
+d'oxygtne (10, 1 l), nous avons pris soin de dCgazer soigneusement 
+
+. , 
+
+auteurs de ces travaux proposent des expressions d'Arrhenius 
+
+2. Ce travail a t t t rCsumt dans le mCmoire de Thkse de Doctorat 
+
+pour la constante de vitesse limite A haute pression (et parfois 
+
+de Troisitme Cycle prCsentC par I,un d,entre nous (Y.S,) en mai 
+
+pour la constante bimoltculaire, a trks basse pression) en utili-1986 Nancy (6). Les principaux r~sultats fait ITobjet d'une 
+
+1. Auteur B qui adresser toute correspondance. 
+
+communicatidn-poster a; c c ~x h International Symposium on Gas 
+Kinetics w , Bordeaux (France), 20-25 juillet 1986. 
+
+Printed in Canada I Irnprirnd au Canada 
+
+Can. J. Chem. Downloaded from www.nrcresearchpress.com by 87.160.185.190 on 03/27/14 
+
+For personal use only. 
+
+
+SIMON ET AL. 
+
+2143 
+
+le rCactif avant chaque expkrience par piCgeage dans I'air liquide et 
+pompage. Pour la m&amp;me raison toute I'installation Ctait CquipCe en 
+
+robinets a soufflets mCtalliques, Ctanches a l'air. I1 a kt6 observC 
+
+(12-15) que la dCcomposition thermique de 1'Cthane Ctait sensible aux 
+effets de parois, en particulier dans des rCacteurs en silice. On pense 
+(12, 14-16) que ce phCnomkne est dfi aux terminaisons hktkrogknes 
+d'atomes d'hydrogkne aux parois. Pour limiter I'importance de ce 
+facteur nous avons choisi de pyrolyser 1'Cthane dans un rCacteur en 
+aPyrexn oh les effets de parois et les irreproductibilitCs sont moindres 
+qu'avec la silice (IS), de rapport surface/volume le plus faible 
+possible. Un volume de un litre nous a paru un bon compromis entre un 
+faible s/v (0,48cm-I) et une bonne homogCnCitC de temperature a 
+l'intkrieur du rCacteur (moins facile a obtenir avec un riacteur plus 
+gros). Les parois du rCacteur ont CtC, de plus, traitCes successivement 
+
+a la soude puis I'acide nitrique (17) pour diminuer encore ces effets 
+
+perturbateurs. 
+L'utilisation du Pyrex a la place de la silice a limit6 la tempkrature 
+maximale d'Ctude vers 540°C (8 13 K). La mesure du mkthane, produit 
+de transfert en faibles quantitCs, a impost la temperature plancher vers 
+520°C (793 K). Le plus grand soin a Ct C apportC au contrble et la 
+mesure de la tempkrature. L'enregistrement continu de ce paramktre 
+n'a jamais montrk des variations de plus de 0,l degrC, ce qui 
+correspond une modification de I'avancement de 0,6% maximum. 
+Pour les raisons prCcCdentes, nous avons donc men6 a bien une ktude 
+de la pyrolyse de 1'Cthane entre 793 et 813 K (4 temperatures) et pour 
+13 pressions initiales dlCthane pur, comprises entre 1 et 300 Tom 
+(1 Tom = 101 3251760 Pa). Les produits de la rkaction, en particulier 
+le mCthane et llCthylkne, ont Ct C suivis par chromatographie en phase 
+
+gazeuse (colonne de 1,s m de Carbo Sieve 100/120 mesh, a 135°C). 
+
+Principe de la mesure de la constante de vitesse et rQultats 
+experimentaux 
+11 est gCnCralernent bien adrnis que la pyrolyse de l'ithane, 
+vers 800 K, et trks faible avancernent, releve d'un mecanisrne 
+radicalaire en chaines (18) : 
+
+[ l ] 
+C2H6(+M)+ 2CH3.(+M) 
+
+On dCduit de ce mecanisme les relations suivantes 
+
+[5] vitesse d'arnorqage = vitesse de terminaison : 
+
+k 1 (C2H6)0 = k4(C2H5' l2 
+
+[6] vitesse initiale de production de C2H4 : 
+
+r°C2H4 = k2(C2H5') 
+
+[7] vitesse initiale de production de CH4 : r°CH4 = 2kl(C2H6)~ 
+Ces expressions amenent les cornrnentaires suivants : 
+L'expression [5] suppose que l'unique processus de terminai-
+son est [4]. Une Ctude dttaillCe (6) des rapports (H.)/(C2H5-) et 
+(CH3.)/(C2H5.), s'appuyant sur nos propres rCsultats et sur 
+ceux de Pacey et Purnell (19), montre que les vitesses des 
+
+processus de terminaison en He + C2H5., 2CH3 -( + M) ou 
+Ha + CH3-(+M) sont toujours ntgligeables devant celle de 
+
+[4]. En revanche, a tr2s basse pression (1 Ton) il se peut que 
+le processus 
+
+reprCsente 3 ou 4% des terminaisons. 
+La relation [6] n'est correcte que si C2H4 provenant de [4] ou 
+de [8] est negligeable devant C2H4 venant de [2], c'est-a-dire si 
+les chaines sont suffisarnrnent longues. L'expCrience (6) rnontre 
+
+que la longueur de chaine n'est jarnais infkrieure a 120 dans 
+tout le dornaine de pression et ternpkrature explore, ce qui 
+justifie [6]. 
+La relation [7] suppose que les radicaux CH3. sont essen-
+tiellement produits par l'arnorqage [I] et consommts par le 
+transfert [x]. La aussi une Ctude dCtaillee (6), utilisant nos 
+propres rCsultats et des constantes de vitesse de la litterature, 
+
+permet de rnontrer que les processus H + C2H6 + CH4 + 
+CH3-et H. + C2H5' + 2CH3. sont, dans tout le dornaine 
+
+experimental couvert, nCgligeables devant l'arnorqage [I]. Les 
+
+processus: CH3. + H -( + M ) + CH4(+M) et 2CH3.(+M)+ 
+
+C2H6(+ M) qui tendent consornrner des CH3. sont Cgalernent 
+d'irnportance nCgligeable devant le transfert [x]. En revanche, 
+cornrne il a Ct C signale plus haut, le processus [8] peut inter-
+venir, trks lCgkrernent, a trks basse pression pour concurrencer 
+[XI. 
+Des trois relations [5], [6] et [7] on tire : 
+
+Cette expression est valable dans tout le dornaine de pression et 
+de ternpkrature, a l'exception peut-itre de la pression Po = 
+1 Torr. I1 faudrait alors rernplacer [9] par: 
+
+Si [8] reprCsente environ 4% des terrninaisons, donc 2% de 
+r°CH,, on voit que la correction sur k2 est extrimernent faible, 
+de l'ordre de grandeur des erreurs experimentales sur les 
+vitesses initiales. 
+En revanche il n'est pas possible de savoir quelle est 
+l'irnportance et quelles sont les consCquences d'un processus de 
+terminaison hCtCrogkne du type : 
+
+[l 11 H. + parois 
+
+signal6 plus haut. 
+
+Vers 800 K et Po -50 Torr il a Ct C rnontrC (10, 15) que, dans 
+
+un rCacteur en Pyrex vide, [ l 11 Ctait cornplktement negligeable 
+devant [4] rnais ce travail n'a pas Ct C fait pour Po = 1 Torr. Le 
+fait que les courbes de formation de CH4 et C2H4 pour Po = 
+1 Torr soient parfaiternent rCgulieres et que nous n'ayons pas 
+observe dlirreproductibilitC sernble rnontrer que mime a cette 
+faible pression on peut nCgliger [ l I.]. Dans son dernier article, 
+Trenwith (7) pense, au contraire, que la variation qu'il observe 
+du rapport dismutation/cornbinaison du processus [8] avec la 
+pression ne peut s'expliquer que par la participation de [ l l ] . 
+Peut-ttre la nature des parois (silice) de son rCacteur est-elle a 
+l'origine du phCnomene? 
+La figure 1 rnontre qu'a 813 K, les courbes de formation 
+d'Cthylkne sont des fonctions 1inCair:s du temps, a faible 
+avancernent (toujours infkrieur a 1%). A plus fort avancernent 
+la courbure vers le bas deviendrait visible. Aux trois autres 
+tempiratures (793, 801 et 807 K) il en est de rntrne. Seules 
+les courbes correspondant aux deux pressions extrirnes sont 
+montrCes. Les pressions intermediaires conduisent Cgalernent a 
+des droites. Les vitesses initiales roCIH4 sont ainsi dCterminCes 
+avec grande precision. Les courbes de formation de rnCthane 
+
+(fig. 2) sont 1inCaires a trks faible avancernent rnais on note, 
+
+pour Po = 300 Torr, l'allure autoaccC1Cree au-dela de t = 2 rnin 
+(=0,2% d'avancernent), due a la formation de rnCthane 
+
+secondaire (20). Ce phCnornkne, visible uniquernent a haute 
+
+pression dans notre Cchelle de temps, ne perturbe pas la rnesure 
+des vitesses initiales r°CH4. 
+
+En adoptant k4 --1013 crn3.rnol-' .sP1 (21-23), la relation 
+
+[9] fournit les valeurs de k2 (s-l ) du tableau 1. 
+Can. J. Chem. Downloaded from www.nrcresearchpress.com by 87.160.185.190 on 03/27/14 
+
+For personal use only. 
+
+
+CAN. J. CHEM. VOL. 66, 1988 
+
+FIG. 1. Courbes de formation d'kthyltne pour les deux pressions 
+extremes d'Cthane. TempCrature de r6action : 8 13 K. 
+
+FIG. 2. Courbes de formation de mithane pour les deux pressions 
+
+extremes d'Cthane. Tempkrature de rCaction : 8 13 K. 
+
+TABLEAU 1. Valeurs de kl (s-I) aux differentes 
+pressions et temptratures 
+
+Po (Torr) 
+793 K 801 K 807 K 813 K 
+
+11 
+
+I 
+
+I 
+
+I 
+I 
+
+I 
+
+-1 
+
+0 
+1 
+2 
+3 
+
+log P, (Torr) 
+
+FIG. 3. Courbes de &lt;&lt;fall-off,, expirimentales aux deux tempCra-
+
+tures extremes : 793 et 8 13 K. 
+
+La figure 3 montre les deux courbes de ccfall-off*, en coor-
+donntes logarithmiques, pour les deux tempiratures extremes 
+793 et 813 K. On voit qu'a 1 Torr l'ordre de k2 est environ 
+0,90-0,95 : k2 est trks proche de la constante limite basse 
+pression. En revanche, pour Po = 300Torr, l'ordre est encore 
+environ 0,35, donc assez iloigni de l'ordre thtorique limite 0 a 
+haute pression. 
+
+Exploitation des resultats experimentaux 
+
+L'exploitation des rtsultats experimentaux a t t t faite g r k e a 
+
+la thtorie RRKM et a deux approches dues a Troe. 
+
+1. The'orie RRKM 
+Nous avons utilist le programme mis au point par Gilbert 
+(24). 
+
+Paramktres choisis pour le radical C2H5 -: frtquences (25,26) 
+
+en cm-' : 2995 (5), 1432 (4), 1037 (2), 988 (2), 540 (1); rotation 
+Can. J. Chem. Downloaded from www.nrcresearchpress.com by 87.160.185.190 on 03/27/14 
+
+For personal use only. 
+
+
+SIMON ET AL 
+
+TABLEAU 2. Methode RRKM : valeurs de k2,=, k2.0 et des parambtres d'Arrhenius 5 
+pression infinie, aux differentes temperatures 
+
+T(K) 
+
+2 
+
+, s 
+log A2,, (s-I) 
+E2,= (kcal.mol-') 
+k2,0 (cm3.mol-' . s f 1 ) 
+
+interne : B = 14,l cm-' (Ired = 1,3 uma A2); symttrie externe : 
+
+a,,, = 1 ; nombre d'isomkres optiques : n = 1 ; symktrie interne : 
+aint = 6. 
+Parametres choisis pour le complexe activC : frCquences (25) 
+en cm-' : 3047 (4), 1466 (3), 1023 (2), 933 (3) plus 400 
+(2) cm-' , frCquence ayant semi 5 obtenir le meilleur ajustement 
+avec les points expCrimentaux; symCtrie externe : a*,,, = 1; 
+nombre d'isomeres optiques : n* = 1. 
+
+Autres paramktres : Cnergie seuil 9 0 K : E0 = 38,8 kcal-mol-' ; 
+
+diametre &lt;&lt;apparent&gt;&gt; de collision : a = 2,9 A; rapport des 
+
+moments d'inertie : 1' 11 = 1,14-1,20 selon la tempkrature. 
+
+Le programme fournit, pour chaque tempkrature, les para-
+mktres 2 pression infinie : k2,, , E2,,, et log A2,,. L'ajustement 
+
+entre les courbes thCoriques et expCrimentales se fait essentielle-
+
+ment, aprks que l'on s'est fix6 EO, grAce 2 la frCquence la plus 
+
+basse du complexe activC (400 cm-' ici), au rapport I*/I et au 
+diamktre apparent de collision a . En rCalitC c'est le facteur 
+d'efficacitk de dksactivation A, dans le produit ha2, qui est 
+le paramktre ajustable. Ainsi, si l'on admet pour C2H5' un 
+
+diametre de collision proche de celui de C2H6 : a d = 4,45 A 
+
+(valeur viscosimttrique (27)) l'adoption d'un diamktre apparent 
+
+de 2,9 A correspond a A = 0,4. 
+
+La figure 4 prksente, pour les deux tempkratures extremes, les 
+courbes thtoriques comparCes aux points &lt;&lt;expCrimentaux&gt;&gt; 
+(ces points tiennent compte, dans cette reprksentation, de la 
+valeur k, donnte par le programme RRKM. 11s sont donc 
+modifiCs a chaque essai d'ajustement). L'accord est trks bon, 
+quelle que soit la tempkrature, la qualitC de l'ajustement Ctant 
+comparable pour les deux tempkatures intermkdiaires. 
+Le programme a permis le calcul de k2 pour des pressions 
+trks basses : 0,Ol-0,l Torr, en conservant les valeurs des 
+paramktres ajustables prCcCdents. La variation, linCaire, de k2 
+dans ce domaine fournit la valeur de la constante bimolCculaire 
+k2.0. 
+
+Le tableau 2 regroupe les valeurs des paramktres B pression 
+
+infinie donnCes directement par le programme ainsi que les 
+valeurs de la constante bimolkculaire k2:0. 
+
+2. Premi2re me'thode de Troe (notCe Troe 1) 
+Dans cette premikre mCthode, Troe (28, 29) propose une 
+expression modifiCe de 1'intCgrale de Kassel : 
+
+x S ~-I exp (-x) dx 
+
+avec : 
+
+1 
+
+r x 
+
+Io(SK,BK) = -
+1 (x + BK)'rP1 exp (-x) dx 
+
+~( S K ) 
+
+0 
+
+log P, (Torr) 
+
+0 
+0 
+
+1 
+2 
+3 
+4 
+
+I 
+
+I 
+
+FIG. 4. Ajusternent des courbes theoriques RRKM aux points 
+expCrimentaux, pour les deux tempkratures extrsmes : 793 et 813 K. 
+
+-2 
+
+E, Cnergie courante; EO, Cnergie seuil a OK. 
+SK et BK sont les valeurs effectives des paramktres de Kassel 
+S (paramktre ajustable dans la thCorie RRK) et B (= E O / k B ~ 
+dans llintCgrale de Kassel). SK et BK sont calculables a priori 2 1 
+partir uniquement de E 0 et des frtquences de la molCcule de 
+rCactif (28). On peut alors calculer I'intCgrale I en fonction du 
+paramktre k,/koPo ou intemient la pression Po du rCactif. 
+
+La mCthode de determination de k, et ko 2 partir des rCsultats 
+
+experimentaux que nous avons mise au point est la suivante. 
+L'expression [12] se rCCcrit : 
+
+/ 
+
+I 
+I 
+
+I 
+I 
+
+I 
+
+log I = log k -log k, 
+
+0 
+
+1 
+2 
+3 
+
+log P, ( T o r r ) 
+
+koPo 
+k 
+ko 
+log-
+
+= log Po + log -+ log-
+
+k, 
+k, 
+k 
+
+= log Po -log k + log ko + log I 
+
+On peut alors tracer la courbe the'orique : log I vs. log (ko Polk,) 
+
+-log I en prenant koPo/k, comme paramktre soit encore 
+
+log k -log k, vs. log Po -log k + log ko. 
+
+Les mesures expCrimentales de k en fonction de Po peuvent 
+etre reprCsentCes par la courbe dite c&lt;expe'rimentale&gt;&gt; : log k 
+VS. log Po -log k. 
+Alors la courbe thCorique se dCduit de cette courbe expCri-
+Can. J. Chem. Downloaded from www.nrcresearchpress.com by 87.160.185.190 on 03/27/14 
+
+For personal use only. 
+
+
+2146 
+
+CAN. J. CHEM. VOL. 66, 1988 
+
+ko Po 
+
+log -----109 1 
+
+k, 
+
+i' 
+
+. * 
+
+/ 
+
+. 
+a 
+
+-2 [ 
+
+I 
+I 
+I 
+
+1 
+
+1 
+10 30 
+
+100 300 
+
+po (Ton) 
+
+log P, (Torr) 
+
+0-' 
+0 
+
+1 
+
+2 
+3 
+4 
+
+I 
+I 
+
+I 
+
+I 
+I 
+
+-
+
+mentale par une translation selon l'axe des abscisses de log ko et 
+une translation selon l'axe des ordonnees de -log k,, ce qui 
+permet l'evaluation de ko et k,. 
+Les valeurs de E0 et des 14 frCquences de vibration de C2H5 
+sont les msmes que pour le traitement RRKM et la rotation 
+interne est ici remplacee par une vibration de frequence 
+350 cm-'. Les valeurs des paramktres efficaces sont alors, a 
+8 1 3 K : S K = 4 , 7 6 e t B K = 11,66. 
+L'Cvaluation de ko et k, se fait par optimisation au sens des 
+moindres canCs, c'est-a-dire que l'on cherche le couple ko,k, 
+qui donne la valeur minimale de la somme des carres des 
+distances entre les deux courbes experimentales translatee et 
+thCorique, cette distance Ctant calculCe pour chaque point 
+experimental . 
+Pour tenir compte de l'efficacitk de desactivation (corres-
+pondant au facteur A dans la thCorie RRKM) Troe propose de 
+modifier 1Cgkrement la valeur de SK obtenue a priori par la 
+formule qu'il prCconise (28). Ainsi divers essais ont montrC que 
+
+le meilleur ajustement possible, a 8 13 K, de la courbe thCorique 
+
+aux points experimentaux Ctait obtenu pour ASK = +0,6. Ceci 
+est illustrC sur la figure 5. Le tableau 3 regroupe les valeurs 
+de k2,0 et k2,, obtenues par ajustement pour les quatre 
+temperatures. 
+La courbe thCorique de &lt;&lt;fall-off)) calculCe, a 813 K, par 
+la formule [12], partir des valeurs k2,, et k2,0 du tableau 
+prCcCdent est reprCsentCe, avec les points exptrimentaux, sur la 
+figure 6. Comme pour la theorie RRKM l'ajustement est de trks 
+bonne qualitC. I1 en est de m&amp;me aux trois autres tempkratures. 
+
+3. Deuxikme me'thode de Troe (notCe Troe 2) 
+Troe et collaborateurs (29-33) ont proposC une reprksenta-
+tion des courbes de &lt;&lt;fall-off)) en double tchelle rCduite, de 
+la forme : 
+
+k 
+[13] log-= 
+log 
+(koPolkx) 
+k, 
+
+1 + (koPo/k,) 
+
++ 
+
+1% Fcent 
+
+0,75 -1,27 log Fcent 
+
+TABLEAU 3. Premikre mCthode de Troe : valeurs 
+de k2,= et k2,0 aux differentes tempkratures 
+
+T(K) 
+k2,,(s-I) 
+
+k z , o ( ~m 3 ~m o l -~~s -' ) 
+
+FIG. 5. Premikre mkthode de Troe : ajustement de la courbe 
+
+I 
+
+thCorique transfornee aux points ccexpCrimentaux)), permettant la 
+determination de k2,, et kzVo (cf. texte). TempCrature : 8 13 K. 
+
+Le paramktre Fcent reprksente 1'Ccart par rapport la courbe 
+de Lindemann-Hinshelwood (broadening factor) au centre de 
+
+FIG. 6. Premikre mithode de Troe : courbe thkorique, calculCe a 
+partir de k2,-et k2,0 obtenus grice B la figure 5, et points expCri-
+mentaux. TempCrature : 8 13 K. 
+
+cette courbe (lorsque la variable rCduite y = koPo/k, vaut I). 
+Fcent se met sous la forme : Fcen, = F S.C.cen, X F w . C . c e n t . 
+
+Le facteur FS.C.cent, correspondant a l'hypothkse des colli-
+
+sions fortes dans la dksactivation de C2H5. activC, peut &amp;tre 
+
+estimC a partir des paramktres effectifs SK et BK CvoquCs dans 
+la mCthode prkctdente. Ceux-ci sont calcules (33) a partir de 
+
+1'Cnergie seuil E0 ( = 38,8 kcal-mol-' ) et des 14 frCquences de 
+
+vibration du radical tthyle, la rotation interne Ctant prise en 
+compte sCparCment (les 14 frequences sont celles choisies dans 
+
+la thCorie RRKM) . 
+
+A 813 K on obtient ainsi : SK = 4,76 et BK = 12,29 (formule 
+un peu diffkrente de celle utiliste dans la premikre mCthode de 
+Troe), d'oh FS.C.cent = 0,5 1. 
+
+Le facteur Fw.C.cent est la correction a apporter lorsque les 
+
+collisions sont faibles. 
+
+Fw.c.cent = P ~~, ~~ 
+oh PC est l7efficacitC de collision qui 
+
+dCpend de la tempCrature selon : 
+
+(AE) est 1'Cnergie moyenne CchangCe par collision. F E , facteur 
+statistique rendant compte de la dkpendance de la densitt d'etats 
+vibrationnels (harmoniques) pvib.,h vis-a-vis de l'tnergie, est 
+
+calculable (32) a partir de E0 et des frkquences de vibration du 
+
+radical Cthyle. 
+Si l'on se donne (AE) (cf. par exemple, rtf. 31), la courbe 
+
+log klk, vs. log koPo/k, peut ainsi &amp;tre calculte a priori a partir 
+
+de SK, BK et P C . Si I'on dCsire cornparer cette mtthode aux 
+deux prLcCdentes, il est nCcessaire de pouvoir passer de la 
+Can. J. Chem. Downloaded from www.nrcresearchpress.com by 87.160.185.190 on 03/27/14 
+
+For personal use only. 
+
+
+SIMON ET AL. 
+
+2147 
+
+variable rtduite log koPo/k, a la variable log Po, donc de 
+connaitre ko et k,. Troe propose l'expression factoriste de ko 
+suivante : 
+[15] k o = 
+
+On indique ci-dessous la signification de ces diffkrents termes, 
+les grandeurs ntcessaires a leur Cvaluation et leur valeur 
+
+numerique a 8 13 K calculte a partir des formules de rCf. 32. 
+
+ZL1 : frtquence de collision de Lennard-Jones; P , ~~, ~( E O ) 
+
+: 
+
+densitt d'ttats vibrationnels (oscillateurs harmoniques) pour 
+l'tnergie seuil E"; Qvib. : fonction de partition vibrationnelle 
+du rtactif (oscillateurs harmoniques); FE dCfini prtckdemment; 
+Fanh : tient compte de l'anharmonicite des vibrations; Fro,, : 
+rend compte du changement de moments d'inertie (rotations 
+extemes) entre rCactif et complexe active; F,,. in,. : represente 
+la contribution des rotations internes du reactif. 
+
+Grandeurs nkcessaires a 1'Cvaluation des termes prkcedents : 
+
+Cnergie seuil E0 (38,8 kcal.mo1-I), nombre S = 14 et valeurs 
+des frtquences vibrationnelles $u rCactif (celles de RRKM), 
+diamktre de collision : u = 4,4 A (27); Cnergie d'interaction de 
+Lennard-Jones : E A-M = 1,79 X lo3 J emol-' (27); nombre de 
+rotations internes dans le rtactif : r = 1; nombre d'oscillateurs 
+qui disparaissent durant la reaction : m = 3; rapport des 
+moments d'inertie I*/I entre le complexe activt et le rtactif: 
+I*/I = 1,14-1,20 selon la tempkrature. A 813 K on calcule 
+ainsi : Zu = 3,96 X 10" cm3-mol-'.s-'; P , , ~~. , ~( E O ) 
+= 33,66; 
+Qvib = 4,80; F E = 1,40; Fanh = 1,125; Fro, = 1,16; Fro,. in,, = 
+1,79. 
+Pour exploiter les rtsultats ex@rimentaux, plusieurs mkthodes 
+sont envisageables : 
+(i) On peut Cvaluer k, par une mtthode d'extrapolation 
+comme celle de Oref et Rabinovitch (34), ko directement partir 
+
+des rCsultats expCrimentaux a basse pression, en admettant que 
+
+l'on se trouve dans le domaine bimoltculaire, et calculer Fcen, 
+
+par S K , B K et PC (en se donnant une valeur, a priori, de (AE); 
+
+par exemple 10 kJ-mol-' (31)). Dans cette mtthode, adoptCe 
+par Trenwith (7), il n'y a pas de paramktre ajustable et la 
+courbe thCorique, calculte a priori, est comparCe aux rksultats 
+expCrimentaux. 
+
+(ii) Dans une ttude du processus inverse H + C2H4 + 
+
+C2H5', Lightfoot et Pilling (9) envisagent une autre approche. 
+
+11s calculent Fcen, a priori par S K , B K et en se donnant p, et ils 
+
+ajustent courbe thCorique et points expkrimentaux en prenant 
+comrne paramktres ajustables k, et ko. En revanche ils ne 
+cornparent pas, ensuite, la valeur de ko ainsi obtenue avec 
+l'expression thCorique [15] de Troe. On ne sait donc pas s'il y 
+a ou non compatibilitt. 
+(iii) Une autre mCthode a Ctt retenue. Nous calculons S K et 
+BK a priori (33) et nous ajustons d'abord courbe experimentale 
+
+et points thkoriques en prenant comme paramktres k, et PC 
+et en dCduisant ko de PC par la formule [15]. Ce travail 
+
+d'optimisation, aux quatre tempkratures, permet de constater 
+
+que PC reste toujours voisin de 0,45 (entre 0,45 et 0,48). La 
+valeur de PC a 813 K (0,45) a alors Ct C choisie pour calculer la 
+
+valeur supposk indkpendante de la tempkrature de (AE) par la 
+formule [14]. Cette valeur (AE) = 13 kJ.mol-' permet de 
+
+calculer PC aux trois autres tempCratures par [14] et ko par la 
+
+formule [15]. L'ajustement, repris ?I 793, 801 et 807 K avec k, 
+comme unique paramktre, a conduit aux rtsultats du tableau 4. 
+La figure 7 montre l'excellente qualit6 de l'ajustement aux 
+
+deux temptratures extremes. 11 en est de m&amp;me a 801 et 807 K. 
+
+TABLEAU 4. Deuxikme mkthode de Troe : valeurs de kz,,, kz,o, de 
+
+l'efficacite de collision PC et du parametre F,,,, (((broadening 
+
+factor&gt;&gt;) aux differentes temptratures 
+
+T(K) 
+
+P c 
+
+FCC,, 
+
+k2,-( s f r ) 
+k 2 . 0 ( ~m 3 . m ~l -' 
+.s-') 
+
+793 
+0,459 
+0,463 
+530 
+5,87 x 10' 
+801 
+0,456 
+0,459 
+710 
+
+7,43 x lo8 
+
+807 
+0,453 
+0,457 
+860 
+8.73 x 10' 
+813 
+0,45 
+0,454 
+1100 
+1,05 x 10' 
+
+log Po (Torr) 
+
+0 
+
+0 
+
+1 
+2 
+
+3 
+
+4 
+
+I 
+
+I 
+
+I 
+
+I 
+
+&gt; 
+
+FIG. 7. Seconde mCthode de Troe : ajustement des courbes thkori-
+ques aux points experimentaux, pour les deux temperatures extrgmes : 
+793 et 813 K. 
+
+Discussion et comparaison avec les resultats de la litterature 
+Comme on vient de le voir, les trois mtthodes prectdentes 
+permettent un trks bon ajustement des courbes thtoriques aux 
+points expCrimentaux. Parmi les diffirents travaux sur la 
+dtcomposition du radical Cthyle, seul le traitement RRKM, par 
+Lin et Laidler ( 3 3 , des rksultats de Lin et Back (2) et de Loucks 
+et Laidler (3), conduit a un ajustement de qualit6 comparable 
+
+(pour des pressions suptrieures a 30 Torr). I1 a dCjB Ct C signal6 
+
+(32,36) que la dktermination de k, et ko partir des courbes de 
+
+&lt;&lt;fall-off D est dClicate et relativement peu prtcise, a moins de 
+
+disposer de points expCrimentaux dans un trks grand domaine 
+de pression, ce qui est rarement le cas. En particulier nous 
+pensons, comme Clark et Quinn (36), que les mCthodes 
+d'extrapolation purement empiriques comme celle de Oref et 
+
+Rabinovitch (34) ne conduisent pas a des valeurs prCcises de k,. 
+
+Ntanmoins la comparaison des tableaux 2, 3 et 4 montre 
+qu'en ce qui concerne k2,=, la deuxikme mCthode de Troe 
+foumit des valeurs qui ne diffkrent que de 5-6% de celles 
+donntes par RRKM. Ce pourcentage est de 15-25% pour la 
+premikre mtthode de Troe. Dans le cas de k2,0 la dispersion est 
+
+plus importante : 30-35% pour Troe 2 par rapport a RRKM et 
+
+un facteur 2 pour Troe 1. La cohCrence entre les trois mCthodes 
+et en particulier entre RRKM et Troe 2 est donc trks correcte. 
+I1 est difficile de proposer des expressions d7Arrhenius 
+prkcises, pour k2,, et k2,0, lorsque les points expkrimentaux ne 
+couvrent qu'un domaine restreint de tempCrature (20°C). Un 
+traitement d'Arrhenius sur les rksultats des tableaux 2, 3 et 4 
+conduit aux paramktres figurant en bas du tableau 5, les valeurs 
+
+Can. J. Chem. Downloaded from www.nrcresearchpress.com by 87.160.185.190 on 03/27/14 
+
+For personal use only. 
+
+
+CAN. J. CHEM. VOL. 66, 1988 
+
+TABLEAU 5. Comparaison des expressions d'Arrhenius pour k2,, et k2,0 proposkes dans la littkrature et dans 
+le present travail 
+
+1% Az,, 
+E2.m 
+log A 2 i ~ 
+E2.0 
+Rkfkrences 
+Mkthodes d'exploitation 
+(s-I) 
+(kcal.mo1-I) 
+(cm3.mol-.s-l) 
+(kcal.mo1-I) 
+
+2 
+Mkthode de Powell (37) 
+13,43 
+38,0*2 
+18,ll 
+32,4-t 2 
+-+ k , et ko 
+3 
+Extrapolations par : 
+Lindemann -+ k , et ko 
+et Oref et Rabinovitch 
+14,28 
+40,9 
+17,68 
+3 1 3 
+(33) -+ km 
+RRK 
+
+35 
+RRKM 
+14,35" 
+41,l" 
+18,39" 
+34,6" 
+4 
+Simulation informatique 
+12,75 
+38,O 
+Seul paramktre 
+ajustable : A, 
+
+25 
+RRKM 
+14,Ub 
+42,5b 
+
+5 
+Simulation informatique 
+13,5 ? 0,7 
+41,8? 2,9 
+Seul paramktre 
+ajustable : k , 
+
+7 
+Oref et Rabinovitch 
+
+-+ km 
+12,95+0,20 
+38,0?0,8 
+
+Rksultats i basse 
+
+pression -+ ko 
+
+Prksent 
+RRKM 
+14,02+0,02 
+41,020,04 
+18,26 
+34,9 
+
+travail 
+Troe 1 
+16,80 
+51,5 
+17,93 
+32,5 
+Troe 2 
+15,lO 
+45 ,O 
+18,97 
+37,O 
+
+"Valeurs obtenues par un traitement dlArrhenius (par nos soins) des risultats RRKM de I'article. 
+
+bLe traitement RRKM porte sur les rCsultats expCrimentaux des rCfs. 2 et 3 et sur ceux des auteurs lors de 1'Ctude de I'activation 
+
+chimique H. + C2H4 + C2HS.. Le traitement d'Arrhenius a Ct C fait par nos soins. 
+
+log A2,m et E2,m pour RRKM Ctant celles calculCes directement 
+par le programme (moyenne sur le tableau 2). 
+Le tableau 5 rassemble les parambtres proposCs par les 
+differents auteurs ainsi que les mCthodes d'exploitation uti-
+lides. 11 faut noter que les expressions originales figurant dans 
+les references 2 , 3 , 4 , 2 5 et 35 ont Ct C modifikes en prenant k4 = 
+1013cm3~mol-'~s-1 (au lieu de 2 X 1013). 
+
+Comparaison des paramdtres a pression injinie 
+Si l'on Ccarte les valeurs de E2,=, manifestement trop 
+ClevCes, donnCes par les deux mCthodes de Troe, on s'aperqoit 
+que les autres se regroupent en deux domaines : l'un aux 
+environs de 38 kcal-mol-', l'autre autour de 41 kcal.mo1-'. La 
+valeur AHof(C2H5-) = 25,8 kcal.mo1-' (300 K) couramment 
+
+admise (38) conduisait AH^^(^^^^) = 40,O kcal-mol-' soit 
+
+E2,m -EP2,= = 38,4 kcal mrnol-' donc E2,= = 40,6 kcal Smol-', 
+compatible avec les valeurs expkrimentales ClevCes. Mais il 
+semble que des travaux (39-43), confirmks par 1'Ctude rCcente 
+
+de 1'Cquilibre He + C2H4 C2H5' par Pilling et coll. (8), 
+
+tendent a attribuer 2 A H 0 f ( C 2 ~5 . ) 
+une valeur plus ClevCe : 
+
+=28,4 kcal-mol-' qui conduit E2,0: -E-2,x --35,8 kcal.mo1-' 
+
+? i 
+
+800 K. La valeur E-2,-= 2,16 kcal.mo1-' proposCe par 
+Lightfoot et Pilling (9) vers 600 K donne alors : E2,= = 
+38,O kcal.mo1-' en accord avec les faibles valeurs expCrimen-
+tales, en particulier celle de Trenwith (7), ainsi qu'avec la valeur 
+admise par Tsang (43) : 38,4 kcal.mo1-', 
+600 K. 
+En revanche, dans un article trks recent, Grela et Colussi (44) 
+
+estiment 1'Cnergie d'activation E2,= a 0 K B 39,7 kcal.mo1-', ce 
+
+qui, compte-tenu des frkquences qu'ils adoptent pour le radical 
+
+Cthyle et le complexe active (45), conduit a : AU2"+ = 
+
+40,2 kcal.mo1-' a 800 K donc a une valeur ClevCe de E2,= = 
+
+41,8 kcal-mol-' a 800 K. I1 est a noter que ces auteurs admettent, 
+dans leurs calculs, la nouvelle valeur de A H O ~( C ~H ~. ) 
+
+= 
+
+28,2kcal*mol-' et un jeu de frkquences qui leur permet de 
+retrouver certaines caracttristiques de 1'Ctat de transition obte-
+nues par les calculs &lt;&lt;ab inition de Schlegel (45) ainsi qu'un 
+facteur de frCquence de 1013v5 S-' a 600 K, tres voisin de celui 
+(10'3,4 s-l 
+600 K) retenu par Tsang (43). MalgrC cela, il 
+semble y avoir une incoherence interne dans ce travail puisque 
+la nouvelle valeur de A H O ~( C ~H ~-) 
+conduit, comme on l'a vu, 
+
+a E2,, -E-2,3: = 35,8 kcal-mol-' a 800 K, ce qui donnerait 
+E-2,m --. 6 kcal . mol-' , valeur manifestement trop ClevCe. 
+
+Dans le tableau 6 on a rassemblC nos valeurs expCrimentales 
+
+de k2,= et k2,0 ii 8 13 K et celles, calculCes, a 8 13 et 902 K, de ces 
+
+mCmes grandeurs ii partir des parametres cinttiques du tableau 
+5. Figurent Cgalement les valeurs dCduites des travaux de Pilling 
+et coll. sur la thermochimie (8) et sur la cinttique de la reaction 
+inverse (9). Enfin on y trouve les valeurs propostes a la seule 
+tempCrature de 902 K par Pacey et Wimalasena (23) ainsi que 
+celles calculCes 2 partir des expressions de Tsang (43) et Grela 
+et Colussi (44). 
+Compte-tenu de l'incertitude indiquCe par Pilling, on voit 
+qu'i 813 K, l'accord est excellent entre nos valeurs k2,= et la 
+sienne. En particulier 1'Ccart par rapport notre valeur RRKM 
+n'est que de 5%, ce qui est remarquable. Les rksultats obtenus 
+2 partir de l'expression de Tsang sont Cgalement compatibles 
+avec les precedents. Compte-tenu des incertitudes, la valeur 
+proposCe par Pacey est trks voisine des prCcCdentes 2 902 K. 
+Can. J. Chem. Downloaded from www.nrcresearchpress.com by 87.160.185.190 on 03/27/14 
+
+For personal use only. 
+
+
+SIMON ET AL 
+
+TABLEAU 6. Comparaison des valeurs numCriques de k z , , et k 2 , , a 813 et 902 K, 
+
+tirkes des expressions du tableau 5 (a 813 K les valeurs du prCsent travail sont les 
+valeurs ccexpCrimentales,,) 
+
+PrCsent RRKM 
+Troe 1 
+travail Troe 2 
+
+I1 n'en est pas de m&amp;me pour les rtsultats de Trenwith, 
+
+systCmatiquement trop bas, vraisemblablement a cause du 
+
+faible facteur prkexponentiel. MCme remarque pour les valeurs 
+rkcentes de Grela et Colussi, la raison ttant cette fois la trop 
+forte tnergie d'activation. 
+Compte-tenu de ce qui prkckde on peut donc proposer une 
+expression d'Arrhenius de la forme : 
+
+38 000 
+k,,,(s-l) = 1 0 ~~~~ 
+exp ( P T ) 
+
+compatible avec les expressions foumies par Trenwith (7), 
+Pilling (8, 9) et Tsang (43) et avec les valeurs exptrimentales 
+de Pacey (23) et les n6tres. 
+
+Comparaison des paramttres a basse pression 
+Comme le montre le tableau 5 il n'y a pas d'expression 
+dlArrhenius rtcente pour k2,0 dans la littkrature. On peut 
+toutefois dtduire des deux articles de Pilling et coll. (8, 9) 
+l'expression : k2,0 = 101875 exp (-37 0 0 0 1 ~~) cm3.mol-l .s-1 
+vers 800 K. La valeur E2,0 = 37 kcal-mol-' correspond trks 
+exactement a celle obtenue, dans notre travail, par la mtthode 
+Troe 2. Rappelons que Pilling et coll. ont utilisC cette mCme 
+mtthode pour le traitement de leurs rCsultats sur la reaction 
+inverse. I1 y a donc la une excellente cohtrence des deux 
+travaux. 
+NCanmoins cette valeur est probablement trop forte. En effet, 
+1'Ccart entre les valeurs E2,= et EzVo dtduites de l'ttude de 
+Pilling est environ 1 kcal.mo1-I. Or il a Ct C montrt (32,33) que 
+Ex -Eo = SKRT soit ici environ 7,5 kcal-mol-' (a 813 K). 
+M2me si l'incertitude sur SK est 1, cette difftrence est encore 
+de l'ordre de 5-6 kcal.mo1-'. Ce probleme est encore aggravt 
+par le fait que la valeur E2,0 = 37 kcal-mol-I est dtduite de 
+travaux sur la rtaction inverse utilisant l'htlium comme gaz 
+inerte. Cette valeur correspondrait donc a la dtcomposition du 
+radical Cthyle dans le cas de collisions faibles. L'Cthane Ctant un 
+partenaire de choc plus efficace que l'htlium on devrait observer 
+
+une valeur E2,0 &gt; 37 kcal-mol-'. On aurait alors une valeur 
+
+E2,0 voisine, ou m&amp;me suptrieure, a 1'Cnergie critique EO, ce 
+qui n'est pas raisonnable (46). 
+Nous pensons que des valeurs E2,0 de l'ordre de 34-
+
+35 kcal-mol-I sont plus vraisemblables. Notons que notre 
+valeur RRKM (34,9 kcal.mo1-l) est compatible avec la valeur 
+correspondante E2,= = 41 kcal-mol-I et 1'Ccart E2,= -E2,0 
+signal6 plus haut. I1 en est de mCme avec les expressions de Lin 
+et Laidler (35) et tgalement de Lin et Back (2), compte-tenu 
+des incertitudes. 
+Comme le montre le tableau 6, il existe un facteur 2, a 8 13 K, 
+entre notre valeur k2,0 (RRKM) et la valeur obtenue a partir des 
+travaux de Pilling. Ce facteur se retrouve a 902 K mais les deux 
+rtsultats sont compatibles avec la valeur ponctuelle proposee 
+par Pacey et coll. (23), ce qui est remarquable. 
+La coherence des rtsultats entre le traitement RRKM effectuC 
+par Lin et Laidler (35) (sur les travaux de Lin et Back et Loucks 
+et Laidler) et notre propre traitement RRKM nous amkne a 
+proposer, pour k2,0, une expression du type : 
+
+qui conduit 2 1 une valeur a 902 K en tres bon accord avec celle 
+
+de Pacey . 
+
+Conclusion 
+L'analyse des rCsultats les plus rtcents sur la dtcomposition 
+thermique du radical Cthyle montre qu'il existe maintenant 
+un assez bon accord entre les valeurs numtriques de k2,= et 
+k2,0 obtenues, ponctuellement, a certaines temptratures. En 
+revanche les expressions d'Arrhenius de ces deux constantes 
+limites diffkrent encore sensiblement les unes des autres. Si l'on 
+tient compte de la nouvelle valeur de A H O ~( C ~H ~. ) 
+et de la 
+diffkrence prCvue thtoriquement entre E,,, et E2,0, il nous 
+semble que les deux expressions : 
+
+38 000 
+k2,,(s-l) = 
+
+exp (-T) 
+
+reprksentent au mieux l'ensemble des rtsultats expCrimentaux. 
+
+L'efficacitC de dtsactivation A ou PC de la molCcule d'Cthane 
+
+Can. J. Chem. Downloaded from www.nrcresearchpress.com by 87.160.185.190 on 03/27/14 
+
+For personal use only. 
+
+
+2150 
+
+CAN. I. CHEM. VOL. 66, 1988 
+
+semble &amp;tre voisine d e 0 , 4 vers 800 K (0,4 par RRKM et 0,45 
+par Troe 2), en parfait accord avec les travaux de Trenwith (7), 
+
+ce qui correspond ( AE) = 13 kJ.mol-' . L a valeur ( AE) = 
+
+20 kJ-mol-I (31), adoptCe par Lightfoot et Pilling (9) parait 
+
+trop ClevCe et conduirait 2 une valeur PC -0,55 vers 800 K , 
+
+incompatible avec nos risultats et ceux de Trenwith. 
+
+1 . J. H. PURNELL et C. P. QUINN. Proc. R. Soc. London, A, 270, 
+267 (1 962). 
+2. M. C. LIN et M. H. BACK. Can. J. Chem. 44, 2357 (1966). 
+3. L. F. L o u c ~s et K. J. LAIDLER. Can. J. Chem. 45,2795 (1967). 
+4. J. N. BRADLEY et M. FREND. J. Phys. Chem. 75, 1492 (1971). 
+5. G. L. PRATT et D. ROGERS. J. Chem. Soc. Faraday Trans. 1 , 
+75, 1089 (1979). 
+6. Y. SIMON. Thkse de Troisikme Cycle, Nancy (1986). 
+7. A. B. TRENWTH. J. Chem. Soc. Faraday Trans. 2, 82, 457 
+(1986). 
+8. M. BROUARD, P. D. LIGHTFOOT et M. J. PILLING. J. Phys Chem. 
+90,445 (1986). 
+9. P. D. LIGHTFOOT et M. J. PILLING. J. Phys Chem. 91, 3373 
+(1987). 
+10. G. SCACCHI. T h h e de Doctorat d ' ~t a t , 
+Nancy (1969). 
+1 1 . G. SCACCHI, R. MARTIN et M. NICLAUSE. C.R. Acad. Sci. Paris, 
+Ser. C : 275, 1347 (1972). 
+12. K. J. LAIDLER et B. W. WOICIECHOWSKI. Proc. R. Soc. London, 
+A, 260, 91 (1961). 
+13. C. P. QUINN. ROC. R. SOC. London, A, 275, 190 (1963). 
+14. A. S. GORDON. Symposium. Kinetics of pyrolytic reactions. 
+Ottawa (Canada). 9-1 1 sept. 1964. 
+15. J. FUSY, G. SCACCHI, R. MARTIN, A. COMBES et M. NICLAUSE. 
+C.R. Acad. Sci. Paris, 261, 2223 (1965). 
+16. R. M. MARSHALL et C. P. QUINN. Trans. Faraday Soc. 61,267 1 
+(1965). 
+17. A. SEPEHRAD, R. M. MARSHALL et H. PURNELL. Int. J. Chem. 
+Kinet. 11, 41 1 (1979). 
+18. G. L. PRATT. Gas kinetics. Wiley, London. 1969. 
+19. P. D. PACEY et J. H. PURNELL. J. Chem. Soc. Faraday Trans. 1 , 
+68 (1972). 
+20. M. C. LIN et M. H. BACK. Can. J. Chem. 44, 2369 (1966). 
+21. D. A. PARKES et C. P. QUINN. J. Chem. Soc. Faraday Trans. 1 , 
+72, 1952 (1976). 
+
+22. D. M. GOLDEN, K. Y. CHOO, M. J. PERONA et L. W. 
+PISZKIEWCZ. Int. J. Chem. Kinet. 8, 381 (1976). 
+
+24. R. G.' GILBERT. Programme QCPE no 460, Chemistry Depart-
+ment, Indiana University, Bloomington, IN 4740 1 , U.S. A. 
+25. J. V. MICHAEL et G. N. SUESS. J. Chem. Phys. 58,2807 (1973). 
+26. J. PACANSKY et M. DUPUIS. J. Chem. Phys. 68,4276 (1978). 
+27. R. C. REID et T. K. SHERWOOD. The properties of gases and 
+liquids. 2e ed. McGraw-Hill, New York. 1966. 
+28. J. TROE. Ber. Bunsen-ges. Phys. Chem. 78, 478 (1974). 
+29. J. TROE. Ber. Bunsen-ges. Phys. Chem. 87, 161 (1983). 
+30. R. G. GILBERT, K. LUTHER et J. TROE. Ber. Bunsen-ges. Phys. 
+Chem. 87, 169 (1983). 
+31. M. QUACK et J. TROE. Dans Gas kinetics and energy transfer. 
+Vol. 2. Editeurs: P. G. Ashmore et R. J. Donovan. Chemical 
+Society, London. 1977. 
+32. J. TROE. J. Phys Chem. 83, 114 (1979). 
+33. W. C. GARDINER, JR. et J. TROE. Dans Combustion chemistry. 
+Editeur : W. C. Gardiner. Springer-Verlag, Berlin. 1984. Chap. 
+4. 
+34. I. OREF et B. S. RABINOVITCH. J. Phys Chem. 72,4488 (1968). 
+35. M. C. LIN et K. J. LAIDLER. Trans. Faraday Soc. 64,79 (1968). 
+36. J. A. CLARK et C. P. QUINN. J. Chem. Soc. Faraday Trans. 1 , 
+72,706 (1976). 
+37. R. E. POWELL. J. Chem. Phys. 30, 724 (1959). 
+38. D. F. MCMILLEN et D. M. GOLDEN. Annu. Rev. Phys. Chem. 
+33,493 (1982). 
+39. P. D. PACEY et J. H. WIMALASENA. J. Phys. Chem. 84, 2221 
+(1980). 
+40. W. TSANG. Int. J. Chem. Kinet. 10, 821 (1980). 
+41. A. L. CASTELHANO, P. R. MARRIOT et D. GRILLER. J. Am. 
+Chem. Soc. 103, 4262 (198 1). 
+42. J. R. CAO et M. H. BACK. Int. J. Chem. Kinet. 16, 961 (1984). 
+43. W. TSANG. J. Am. Chem. Soc. 107, 2872 (1985). 
+44. M. A. GRELA et A. J. COLUSSI. Int. J. Chem. Kinet. 19, 869 
+(1987). 
+45. H. B. SCHLEGEL. J. Phys. Chem.,86,4878 (1982). 
+46. M. J. ~L L I N G et I. W. M. SMITH (Editeurs). Modem gas kinetics. 
+Blackwell Scientific Publications, Oxford. 1987. p. 10. 
+
+Can. J. Chem. Downloaded from www.nrcresearchpress.com by 87.160.185.190 on 03/27/14 
+
+For personal use only. 
+
+
+
+	
+

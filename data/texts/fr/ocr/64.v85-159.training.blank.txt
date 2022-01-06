@@ -1,0 +1,667 @@
+
+	
+
+		
+
+	
+
+	
+
+Stereochimie des complexes du chlorure d'iode avec les bases carbonylees 
+
+MICHEL BERTHELOT, MARYVONNE HELBERT ET CHRISTIAN LAURENCE' 
+
+Laboratoire de Spectrochirnie MolPculaire -U.E.R. de Chirnie, Universitt de Nantes, 2, rue de la Houssinitre, 44072 Narztes, 
+Frarlce 
+
+R e ~u le 13 juillet 1984 
+
+MICHEL BERTHELOT, MARYVONNE HELBERT et CHRISTIAN LAURENCE. Can. J. Chem. 63, 958 (1985). 
+Le dCdoublement des bandes v(l-CI) et v(C=O) des complexes du chlorure d'iode avec des bases carbonylees en solution 
+
+trks diluCe dans I'heptane a C t t attribuC a I'existence de deux complexes I : I stCrCoisorneres: un complexe IinCaire (ICI dans 
+
+I'axe de la liaison carbonyle) et un complexe angulaire (ICI dans la direction d'une paire libre de I'oxygkne). Dans les sCries 
+RCOOEt, RCOPh, RCOt-Bu, RrCO, RCONPhz et RCONMez ou R = Me, Et, i-Pr ou t-Bu, on passe progressivement du 
+complexe angulaire pour R = Me au complexe IinCaire pour R = t-Bu car la presence de substituants encombrants sur le groupe 
+carbonyle dtstabilise le complexe angulaire. Dans les series RCOH et RCOMe Ic complexe est angulaire quel que soit I'effet 
+stCrique de R car 1C1 se fixe sur la paire libre proche de H ou Me, substituants non encombrants. En prCsence d'un excks de 
+1CI un cornplexe 1 : 2 apparait. 
+
+MICHEL BERTHELOT, MARYVONNE HELBERT, and CHRISTIAN LAURENCE. Can. J . Chem. 63, 958 (1985). 
+The splitting of the v(1-C1) and v(C=O) bands of ICI complexes with carbonyl bases in highly diluted heptane solutions 
+is explained by the existence of two 1 : I stereoisomeric complexes: a linear complex (ICI along the axis of the carbonyl bond) 
+and an angular complex (IC1 in the direction of a lone pair). In the series RCOOEt, RCOPh, RCOt-Bu, R2C0, RCONPhr, 
+and RCONMe2, where R = Me, Et, i-Pr, or I-Bu, the angular complex for R = Me transforms into the linear complex for 
+R = t-Bu, since bulky substituents on the carbonyl group destabilize the angular arrangement. In the series RCOH and RCOMe 
+the complex is angular whatever the steric effect of R, since 1CI is located on thc lone pair near the small H or Me substituents. 
+When ICI is added in excess, a 1 : 2 complex appears. 
+
+Introduction 
+Dans un article prCcCdent ( I ) nous avons mis en Cvidence 
+
+R I 
+R1 
+I 
+R1 
+I 
+/ "I 
+
+deux complexes sterCoisomeres (a) et (b) lors de la formation 
+
+\ 
+
+C=O ... I-C1 
+
+\ 
+
+\ 
+
+d'une liaisor~ hydrogkne sur le groupe carbonyle a partir du 
+R ~/ 
+R2/' ="' 
+R2/' =" 
+'I 
+dkdoublement d e la vibration de valence v(XH. . .). Dans le 
+
+complexe (a) la gComCtrie est determinee par une optimisation 
+(a) 
+(b) 
+(c) 
+
+\c I 
+
+d e l'interaction electrostatique et dans le complexe (b) par 
+une optimisation d e I'interaction covalente. L'Cnergie d e repul-
+sion dCpend de I'encombrement sterique du donneur de 
+
+proton et des substituants R' et R2 et est minimum dans la 
+
+configuration (a). 
+I1 est intCressant de savoir si d'autres acides d e Lewis que 
+les donneurs de proton prCsentent cette stCreoisomCrie d e 
+complexation en solution. Parmi les acides d e Lewis d'encom-
+
+brement et de caractkre Clectrostatique/covalent differents 
+
+d e ceux des donneurs d e proton, le chlorure d'iode a CtC 
+choisi dans ce travail car sa vibration de valence v(I-C1) 
+(a 375,6 cm-' dans l'heptane) s'abaisse forternent par com-
+plexation avec des bases d e Lewis (2-6) et il donne des 
+complexes suffisamment forts avec les bases carbonylCesZ 
+pour provoquer Cgalement un abaissement important d e la 
+
+vibration v(C=O) (7). 
+
+En confrontant les rCsultats obtenus par 1'Ctude simultanee 
+des vibrateurs v(C=O) et v(I-C1) 
+
+il est alors possible d e 
+
+mettre en Cvidence trois types de complexes (a), (b) et (c) dans 
+les solutions d'lC1 et d e base carbonylee dans l'heptane. 
+
+Partie experimentale 
+
+Produits 
+La purification et la desiccation de I'heptane et des bases carbony-
+ltes ont Ctt prkcedemment decrites (I). Le chlorure d'iode Aldrich, 
+
+garanti a 98%, est conservC et rnanipulC a I'abri de I'humiditC. 
+
+Spectres 
+Ils sont enregistres immediatement aprks prkparation de la solution 
+sur un spectrophotometre Perkin-Elmer 580B balayt par de I'air sec, 
+travaillant a une rCsolution de 2 cm-' dans les rkgions v(C0) et 
+v(1-CI). Les opCrations de stockage, soustraction (des spectres du 
+solvant et de ICI libre ou de la base Iibre), expansion et lissage des 
+spectres s6nt effectuCes sur une station de donnees PE 3500 gdce au 
+logiciel PE 580. 
+
+Cellules et solutions 
+Les solutions sont effectutes dans I'heptane, solvant apolaire qui 
+doit minimiser I'ionisation des compIexes (5,6). Dans la rkgion 
+~(1-CI) une cellule en polyCthyl6ne avec unc cale dlCpaisseur en 
+Teflon permet d'tviter I'attaque des faces et de la cale par ICI. Une 
+Cpaisseur de 6 mm permet de travailler avec des concentrations en ICI 
+environ lo-' M suffisamment faibles pour retarder d'eventuelles rCac-
+tions dlhalogCnation de la base ou pour Cviter la precipitation des 
+
+complexes. La concentration de la base varie de 0,5 M t i 10-'M selon 
+
+la stabiliti du complexe. Dans la rkgion v(C0) une cellule CaF' de 
+1 mm permet de travailler avec des concentrations de I'ordre de celles 
+de la region v(1-CI). Les solutions sont prkparkes et les cellules sont 
+remplies en boite skche. Dans le spectrophotometre les cellules sont 
+thermoregulCes a 20°C. 
+
+--
+
+Dtcornposition des spectres 
+'Auteur h qui toute correspondance doit Etre adressCe. 
+La soustraction de la bande v(C0) libre ou de la bande v(ICI) libre 
+' ~e s enthalpies de formation varient de -25.5 kJ mol-' pour 
+est effectuie directement sur la station de donnCes, ce qui Cvlte une 
+MeCOOEt (8) a -39,7 kJ mol-' pour MeCONEt' (9). 
+dtcomposition mathtmatique du massif constituC par la superposition 
+
+Can. J. Chem. Downloaded from www.nrcresearchpress.com by 87.160.185.190 on 03/27/14 
+
+For personal use only. 
+
+
+BERTHELOT E T AL. 
+
+059 
+
+FIG. 1. Bandes v(l-CI) libre (a) et cornplexte (b) rnontrant la 
+formation tquilibrke d'un cornplexe cyclobutanone-1C1 dans I'hep-
+
+tane. Concentrations: IC1 -0,Ol M et cyclobutanone -0,03 M. 
+
+des bandes du cornplexe et des rnoltcules libres. Dans les cas ou les 
+bandes de plusieurs complexes se recouvrent la dCcornposition est 
+effectuee rnathkrnatiquernent cornrne prtckdernment ( I ) . 
+
+Resul tats 
+RPgion v(1-C1) 
+La bande d'absorption infrarouge v(1-C1) a 375,6 cm-' 
+dans l'heptane prtsente un Cpaulement aux basses frCquences 
+attribue a I'isotope I'~CI. Les rapports experimentaux des frt-
+quences et des absorbances au maximum des deux compo-
+santes du massif obtenues apres dCcomposition sont en bon 
+accord avec le rapport V ( I -~~C ~) / V ( I -~) = 0,9786 calculC 
+dans I'approximation de I'oscillateur harmonique et avec 
+I'abondance 24,5% de l'isotope 17CI. 
+Comme I'illustre la fig. I, I'addition d'une base carbonylte 
+
+a une solution de ICI dans l'heptane provoque, par formation 
+
+CquilibrCe d'un complexe, I'apparition d'une nouvelle bande 
+aux basses frkquences, dCplacCe de 3,5 cm-' pour CF,COOEt 
+
+a 42,6 cm-' pour la dimCthyl-2,6-y-pyrone. 
+
+Pour un certain nombre de cttones et d'esters, deux nou-
+velles bandes dCnot6es b (basse frCquence) et h (haute frC-
+quence) apparaissent (fig. 2F, 2G). L'examen de 1'Cvolution 
+des frkquences et des intensitts des deux nouvelles bandes 
+dans les stries RCOOEt, RCOPh, RCOt-Bu et R2C0, ou 
+R=Me puis Et puis i-Pr puis t-Bu, montre que c'est prin-
+cipalement la bande b qui est prksente quand R=Me et la 
+bande h quand R=t-Bu, alors que pour R=i-Pr ou Et, gCn6 
+ralement les deux bandes b et h coexistent en proportions 
+
+variables (fig. 2E a 2H). 
+
+Pour quelques complexes la bande ~(1-Cl) du complexe est 
+
+-
+
+v /cm-' 
+
+FIG. 2. Bandes v(l-CI) et v(C=O) des complexes de 1C1 avec 
+
+MeCOOEt (A et E), EtCOOEt (B et F), i-PrCOOEt (C et G) et 
+t-BuCOOEt (D et H). Les bandes libres ont t t t soustraites dans la 
+region v(1-C1). (a) Bande v(C=O) libre, (h) complexe lintaire, (b) 
+cornplexe angulaire. 
+
+plus fine que la bande v(1-C1) libre. Ceci provoque une 
+meilleure rksolution des deux isotopes et il apparait, comme 
+dans le cas prCctdent, deux bandes mais leurs frkquences et 
+leurs intensit&amp; sont dans les rapports isotopiques 0,9786 et 
+24,5% ce qui permet de les attribuer aux deux isotopes et non 
+aux bandes b et h prCcCdentes (fig. 2H). 
+
+RPgion v(C=O) 
+L'addition de ICI a une solution de base carbonylCe dans 
+l'heptane provoque l'apparition d'une nouvelle bande aux 
+
+basses frkquences, dtplade de 22 cm-' pour MeCOH a 
+
+72 cm-' pour EtCONMe?. 
+Quand deux bandes b et h Ctaient apparues dans la region 
+~(1-Cl), on observe egalement deux nouvelles bandes dans 
+la rCgion v(C=O) dans un rapport d'intensitk voisin de celui 
+observC pour v(1-C1) (fig. 2B et 2C). 
+Dans de rares cas deux nouvelles bandes apparaissent dans 
+la rCgion v(C=O) par addition de IC1, alors qu'une seule 
+nouvelle bande avait C t t observke dans la region ~(1-CI) par 
+addition debase carbonylCe. La propension de la fondamentale 
+Can. J. Chem. Downloaded from www.nrcresearchpress.com by 87.160.185.190 on 03/27/14 
+
+For personal use only. 
+
+
+960 
+
+CAN. J . CHEM. VOL. 63, 1985 
+
+TABLEAU I. DCplacernents Av(1-Cl) (cm-') pour les complexes IinCaire (bande h) et angulaire (bande b) de ICI avec les bases 
+carbonylCes dans I'heptane 
+
+Av(1-CI) 
+Av(1-C1) 
+Av(1-C1) 
+
+Base 
+h 
+b 
+Base 
+h 
+b 
+Base 
+h 
+b 
+
+Esters, carbonates 
+CC1,COOEt 
+CFTCOOEt 
+ClCOOEt 
+HCOOPh 
+Ethylhe carbonate 
+HCOOMe 
+HCOOEt 
+Propy lkne carbonate 
+MeOCOOMe 
+MeOCOOEt 
+EtOCOOEt 
+PhCOOMe 
+MeCOOMe 
+Cyclohexyl COOMe 
+PhCOOEt 
+EtCOOEt 
+i-PrCOOEt 
+MeCOOEt 
+t-BuCOOEt 
+yButyrolactone 
+Cyclopropyl COOMe 
+Cyclopropyl COOEt 
+
+Ure'es 
+
+Carbamates 
+
+Atnides 
+ClCONPhz 
+CICONMe2 
+CF3CONMez 
+CCI,CONMe2 
+PhCONPhz 
+HCONPhz 
+HCONMePh 
+PhCONMez 
+N-mCthylpipCridone-2 
+i-PrCONMez 
+I-BuCONMe* 
+MeCONMe2 
+EtCONMe, 
+MeCONEtz 
+HCONMe, 
+p-MeOC6H,CONEtz 
+HCONEtz 
+N-forrny IpipCridine 
+MeCON Ph2 
+i-PrCONPh* 
+
+Alde'hydes 
+
+MeCOH 
+EtCOH 
+34,4 
+i-PrCOH 
+36,4 
+Cyclohexyl COH 
+I-BuCOH 
+PhCOH 
+p-MeOC6H4COH 
+21,4 
+p-MeC6H,COH 
+20,2 
+18,2 
+Chlorures d'acide 
+16,7 
+15,9 
+MeCOCl 
+PhCOCl 
+
+"PrCsence d'une bande h difficilement pointable. 
+
+Cetones 
+Cyclobutanone 
+Cyclopentanone 
+Cyclohexanone 
+MeCOMe 
+MeCOEt 
+MeCOi-Pr 
+MeCOt-Bu 
+MeCO Adamantyl 
+EtCOEt 
+i-PrCOi-Pr 
+13,6 
+t-BuCOt-Bu 
+10,9 
+I-BuCOEt 
+12,5 
+t-BuCOi-Pr 
+13,s 
+Cyclopropyl COMe 
+(Cyclopropy l)*CO 
+15,5 
+MeCOCCI, 
+MeCOCF, 
+PhCOCF, 
+PhCOMe 
+p-N02C6H,COMe 
+m-N02C6H4COMe 
+p-0MeC6H4COMe 
+PhCOEt 
+13,1 
+PhCOi-Pr 
+13,l 
+PhCOt-Bu 
+12 
+PhCOPh 
+I-Naphtyl COMe 
+2-Naphtyl COMe 
+a-Tetralone 
+Indanone-1 
+Xanthone 
+17,9 
+Chrornone 
+y-Pyrone 
+Dimethyl-2,6-y-pyrone 
+Flavone 
+
+Dimethyl-5,5-cyclohexCnone 
+
+Isophorone 
+Dimethyl-5,5-
+C1-3-cyclohexCnone 
+
+v(C=O) 2 1 entrer en resonance de Fermi avec des bandes 
+harmoniques ou de combinaison dans ces molCcules complexes 
+gCntralement sans element de symetrie peut expliquer cette 
+discordance. 
+L'addition d'un e x d s de ICl, correspondant a la quasi-
+disparition de la bande v(C=O) libre, permet d'observer dans 
+de nombreux cas l'apparition d'une bande supplementaire au 
+massif v(C=O) obtenu en solution diluCe de IC1 (fig. 3). 
+Les tableaux 1 et 2 rassemblent les dkplacements de frC-
+quence Av(1-Cl) 
+= v(1-C1)libre 
+-v(1-C1)complexe et 
+
+Av(C=O) = v(C=O)libre -v(C=O)complexe, mesurks 
+
+pour un certain nombre d'esters, carbonates, urCes, carba-
+mates, amides, aldehydes et dtones. Ces Av se rapportent aux 
+complexes b et/ou h, en fonction de la discussion ci-dessous. 
+
+Discussion 
+
+Complexe angulaire et complexe lintaire 
+
+Bien qu'aucun calcul thkorique n'ait ete effectuk, a notre 
+
+connaissance, sur les complexes de ICl avec les composes 
+carbonyles, il est evident que trois principaux termes contri-
+buent a l'energie d'interaction entre ICI et une base carbonylte: 
+un terme Clectrostatique (le moment dipolaire de ICl vaut 1,48 
+D dans le cyclohexane (lo)), un terme covalent et un terme de 
+repulsion. I1 est clair que I'interaction~lectrost tique est opti-
+
+2 
+
+misee dans la configuration IinCaire C=O . . . I 1. I1 est proba-
+
+ble que, comme pour les donneurs de proton, l'interaction 
+covalente est optimisie lorsque ICl se place dans I'axe d'une 
+paire libre. Une telle configuration angulaire a Cte trouvee, 2 
+l'ktat solide, pour le complexe acetone-dibrome (1 1). I1 est 
+
+enfin Cvident que la presence de groupes volumineux R' et R2 
+
+sur le carbonyle augmente plus 1'Cnergie de repulsion dans le 
+coinplexe angulaire que dans le complexe IinCaire. 
+La concordance entre les regions v(C=O) et ~(1-Cl) et la 
+dilution des solutions CtudiCes indiquent qu'il peut se former 
+deux complexes 1 : 1 en solution. Par analogie avec les com-
+plexes des bases carbonylkes avec des donneurs de proton (I), 
+Can. J. Chem. Downloaded from www.nrcresearchpress.com by 87.160.185.190 on 03/27/14 
+
+For personal use only. 
+
+
+BERTHELOT ET AL. 
+
+96 1 
+
+TABLEAU 2. DCplacements Av(C=O) (cm-') pour les complexes IinCaire (bande h) et angulaire (bande b) de ICI avec les 
+bases carbonylCes dans I'heptane 
+
+Av(C=O) 
+Av(C=O) 
+Av(C=O) 
+
+Base 
+h 
+b 
+Base 
+h 
+b 
+Base 
+h 
+b 
+
+Esters 
+MeCONPh2 
+67,5 
+MeCOi-Pr 
+37,9 
+i-PrCONPhz 
+55,9 
+MeCOt-Bu 
+34,5 
+MeCOOEt 
+-35 
+5 4 3 N-mCthylpipCridone-2 
+66,5 
+EtCOEt 
+22,l 
+38,6 
+EtCOOEt 
+38,7 54,9 CF3CONMe2 
+31,6 
+i-PrCOi-Pr 
+26,4 
+43,9 
+i-PrCOOEt 
+40 
+57 
+I-BuCOt-Bu 
+25,6 
+I-BuCOOEt 
+37,9 
+Aldthydes" 
+I-BuCOEt 
+26,2 -39 
+Cyclopropyl COOMe 
+38,8 51,4 
+I-BuCOi-Pr 
+26,4 
+MeCOH 
+22.8 
+PhCOMe 
+3 8 
+Amides 
+I-BuCOH 
+26,8 
+PhCOEt 
+25,3 
+46,4 
+PhCOi-Pr 
+27,9 
+MeCONMe2 
+65,2 Cttones 
+PhCOt-Bu 
+23,l 
+EtCONMe2 
+71,6 
+(Cyclopropyl),CO 32.9 
+5 1,4 
+i-PrCONMe2 
+52,2 
+MeCOMe 
+26,8" 
+t-BuCONMe2 
+50 
+MeCOEt 
+34,6 
+
+"Des multiplets de Fermi perturbent I'Ctude de EtCHO et i-PrCHO. 
+
+"Valeur faible comparativement i MeCOEt du fait d'une rCsonance de Fermi sur la fondamentale libre. 
+
+FIG. 3. Modification de la region v(C=O) de I'acCtophCnone 
+0,015 M dans l'heptane par addition de quantitCs croissantes de ICI: 
+(1) 0 (2) 0,03 M (3) 0,15 M (4) 0,5 M. (a) Bande libre, (b) cornplexe 
+angulaire I : 1, (c) cornplexe 1 : 2. 
+
+nous pensons que ces deux complexes sont l'un le complexe 
+angulaire, l'autre le complexe 1inCaire. 
+
+Attribution de la bande b au complexe angulaire et de la 
+bande h au complexe line'aire par variation stkrique dans 
+les skries RCOOEt, RCOPh, RCOt-Bu et RzCO 
+La bande b disparait au profit de la bande h dans les dries 
+RCOOEt, RCOPh, RCOt-Bu et R,CO quand l'encombrement 
+du substituant variable R, mesurC par le param6tre sterique 
+S0(12), augmente en passant de Me a t-Bu (fig. 4). Les substi-
+tuants constants OEt, Ph et t-Bu Ctant suffisamment volumi-
+neux (So = -1,36, -1,82 et -3,94 respectivement) pour res-
+treindre l'approche de ICl de leur c8tC, nous expliquons ce 
+phtnomkne par un empechement progressif de l'attaque angu-
+laire de ICl sur la paire libre voisine de R, lorsqu'on passe de 
+
+FIG. 4. Rapports d'intensitk des bandes h et b (rigion v(C=O)) 
+pour les complexes RCOOEt-1CI en fonction du paramktre stCrique 
+
+s0 de R. 
+
+R = Me a R = t-Bu. Nous attribuons donc la bande b au 
+complexe angulaire et, par voie de constquence, la bande h 
+au complexe linCaire, beaucoup moins sensible aux effets 
+stCriques. 
+
+Attribution angulaire ou line'aire dans le cas d'un complexe 
+unique. Skries RCOMe, RCOH, RCONMe? et RCONPh? 
+Dans les sCries RCOMe et RCOH, on observe toujours un 
+seul complexe quel que soit le volume stCrique de R. De plus 
+ce complexe ne change pas de structure pour R=Me, Et, i-Pr 
+ou t-Bu puisque les dkplacements Av(1-C1) 
+et Av(C=O) 
+varient peu, ou rCguli6rement, dans ces series (ce qui Ctait 
+attendu du fait des effets Clectriques voisins de ces quatre 
+alkyles sur la basicit6 de l'oxygkne). L'Ctude de la serie RCOt-
+Bu ayant montre que pour MeCOt-Bu ce complexe est angu-
+laire, il s'ensuit que pour MeCOEt, MeCOi-Pr et Me,CO ce 
+
+complexe est Cgalement angulaire car SO(Me,Et ou i-Pr) &lt; 
+
+SO(t-BU). A fortiori HCOMe, HCOEt, HCOi-Pr et HCOt-BU 
+
+donnent aussi un complexe angulaire puisque SO(H) &lt; SO(Me). 
+
+Can. J. Chem. Downloaded from www.nrcresearchpress.com by 87.160.185.190 on 03/27/14 
+
+For personal use only. 
+
+
+962 
+
+CAN. J. CHEM. VOL. 63. 1985 
+
+L'invariance de structure du complexe en dtpit de 1'Cvolution 
+dramatique de l'encombrement sttrique de R dans les series 
+RCOMe et RCOH provient a l'tvidence de la fixation de IC1 
+sur la paire libre restee dtgagte du cGtC des petits substituants 
+constants H(S' = 0) et Me(SO = -0,73). 
+Dans la serie RCONMez on observe Cgalement toujours un 
+seul type de complexe. Mais les valeurs de Av(1-C1) montrent 
+que l'on passe d'un complexe angulaire pour R=Me et Et 
+(Av = 3 4 3 et 35,l cm-I) a un complexe lintaire pour R=i-Pr 
+et t-Bu (Av = 25,3 cm-I). Par analogie il est probable que la 
+valeur Av(1-C1) = 30 cm-' de MeCONPhz correspond au 
+cornplexe angulaire et la valeur 22,5 cm-' de i-Pr CONPhz au 
+complexe lintaire. 
+Pour les autres bases carbonyltes R'COR' montrant des 
+bandes ~(1-C1) et v(C=O) de complexe uniques, une tenta-
+tive d'attribution "angulaire" ou "lintaire" est effectute dans 
+les tableaux sur la base (i) de l'encombrement des paires libres: 
+les faibles valeurs de So pour un substituant (stries HCOR2, 
+ClCOR2 et MeCOR') et la cyclisation qui dCgage les paires 
+(carbonates cycliques, lactones, cycloalcanones, lactames) 
+favorisent le complexe angulaire tandis que les fortes valeurs de 
+So pour les deux substituants R' et R2 (urees, carbamates) et la 
+conformation s-cis,s-cis des carbonates favorisent le complexe 
+lintaire; (ii) des stquences de basicit6 obtenues prtckdemment 
+avec les donneurs de proton (1): ainsi Av(1-C1) = 11,5 et 
+16,5 cm-' respectivement pour C6H,,COOMe et MeCOOMe 
+alors que C6HllCOOMe apparait plus basique vis-a-vis du 
+mtthanol; l'inversion est attribuee au passage d'un complexe 
+angulaire pour MeCOOMe a un complexe lintaire pour 
+C6H1 ICOOMe. 
+
+Complexe 1 : 2 . 
+Puisqu'une bande supplementaire apparait lorsque ICl est en 
+excks par rapport a la base carbonylte, nous l'attribuons a un 
+complexe d'ordre suptrieur a 1 : 1. La possibilitt pour une 
+
+moltcule de base oxygtnee de fixer deux moltcules d'acide de 
+Lewis grice aux deux paires libres de l'oxygkne dtja et6 mise 
+en tvidence (i) pour les donneurs de proton avec les bases 
+carbonyltes (13), (ii) pour le cyanure d'iode avec l'oxyde de 
+triphtnylarsine (14) et (iii) pour 1'iodophCnylacCtylkne et 
+l'iodocyanoacttylkne avec l'oxyde de triphenylarsine (15). 
+Nous attribuons donc cette bande supplementaire au complexe 
+1 : 2 du type (c) reprtsente ci-dessus. 
+
+1. C. LAURENCE, M. BERTHELOT et M. HELBERT. Spectrochim. 
+Acta Part A. Sous presse. 
+2. W. B. PERSON, R. E. HUMPHREY, W. A. DESKIN et A. I. POPOV. 
+J. Am. Chem. Soc. 80, 2049 (1958). 
+3. W. B. PERSON, R. E. ERICKSON et R. E. BUCKLES. J. Am. Chem. 
+SOC. 82, 29 (1960). 
+4. J. YARWOOD et W. B. PERSON. J. Am. Chem. Soc. 90, 3930 
+(1968). 
+5. S. G. W. GINN et J. L. WOOD. Trans. Faraday Soc. 62, 777 
+(1968). 
+6. G. A. BOWMAKER, K. H. TAN et M. J. TAYLOR. Aust. J. Chem. 
+33, 1743 (1980). 
+7. E. AUGDAHL et P. KLABOE. Acta Chem. Scand. 16, 1647 (1962). 
+8. D. G. BROWN, R. S. DRAGoet T. F. BOLLES. J . Am. Chem. Soc. 
+90, 5706 (1 968). 
+9. M. QUEIGNEC et C. LAURENCE. J . Chim. Phys. 79, 603 (1982). 
+10. A. L. MCCLELLAN. Tables of experimental dipole moments. 
+Freeman, San Francisco. 1963. 
+11. 0 . HASSEL et K. 0. STROMME. Acta Chem. Scand. 13, 275 
+(1959). 
+12. U. BERG, R. GALLO, G. K L A ~E et J. METZGER. J. Chem. Soc. 
+Perkin Trans. 2, 1350 (1980). 
+13. P. COMBELAS, C. .GARRIGOU-LAGRANGE et J. LASCOMBE. Ann. 
+Chim. (France), 5, 315 (1970). 
+14. J. GRUNDNES et R. DAHL. Spectrochim. Acta Part A, 26, 541 
+(1970). 
+15. C. LAURENCE, M. QUEIGNEC-CABANETOS et B. WOJTKOWIAK. 
+J. Chem. Soc. Perkin Trans. 2, 1605 (1982). 
+
+Can. J. Chem. Downloaded from www.nrcresearchpress.com by 87.160.185.190 on 03/27/14 
+
+For personal use only. 
+
+
+
+	
+

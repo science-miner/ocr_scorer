@@ -1,0 +1,240 @@
+
+	
+
+		
+
+	
+
+	
+
+998 
+
+CAN. J. CHEM. VOL. 63. 1985 
+
+DECL-ERCQ, G. GERMAIN, and M. VAN MEERSSCHE. Tctrahcdron, 
+37, 179 (1981). 
+3. P. A. COLLINS and D. WECE. Aust. J . Chcm. 32, 1819 (1979). 
+4. W. O P P ~L Z E R , 
+H. F. STRAUSS, and D. P. SIMMONS. Tctrahcdron 
+Lett. 23, 4673 (1982). 
+5. W. OPPOLZER, T. BEGLEY, and A. ASHCROFT. Tctrahcdron Lctt. 
+25, 825 ( 1984). 
+6. K. A. PARKER and R. W. KOSLEY, JR. Tct~ahcdron Lctt. 691 
+(1975). 
+7. Y. ITO, T. HIRAO, and T. SAEGUSA. J . Org. Chcnl. 43, 101 1 
+( 1978). 
+
+8. E. PIERS and E. H . RUEDIGER. J . 01.2. Chcm. 45, 1725 (1980); 
+E. PIERS. G. L. IUNG, and N . Moss. Tctrahcdron Lctt. 25, 3959 
+(1984). 
+9. S. J. RHOADS and N. R. RAULINS. Org. Rcact. 22. 1 (1975); 
+J . E. BALDWIN and K. E. GILBERT. J . Am. Chcrn. Soc. 98, 8283 
+(1976). 
+10. C. W. SPANGLER. Chcm. Rcv. 76. 187 (1976); E. M. 
+MIL'VITSKAYA. A. V. TARAKANOVA, and A. F. PLATE. Russ. 
+Chcni. Rcv. 45, 469 (1976). 
+
+Formation de l'etat triplet du benzaldehyde dans sa reaction en phase gazeuse 
+avec I'azote active 
+
+ODILE DESSAUX, CHRISTIAN DUPRET ET PIERRE GOUDMAND' 
+
+Laboratoire de Spectroscopic de la rPncrivit.4 chimique, Chimie Physique, UrliversitP des Sciences et Techniques de Lille, 
+Domaine Universitaire Scientifique, 59655 Villerleuve d'Ascq Cedex, France 
+R e ~u le 10 octobre 1984 
+
+ODILE DESSAUX, CHRISTIAN DUPRET et PIERRE GOUDMAND. Can. J. Chern. 63, 998 (1985). 
+La reaction en phase gazeuse de I'azote active avec le benzaldkhyde donne une rkaction chirnilurninescente attribuke 
+essentiellernent B la transition Tl(n.rr*) + So du benzaldkhyde. Deux ktapes dans le ~nkcanisrne de la rkaction sont proposkes. 
+
+ODILE DESSAUX, CHRISTIAN DUPRET, and PIERRE GOUDMAND. Can. J. Chern. 63, 998 (1985). 
+The reaction of active nitrogen with benzaldehyde gives a chemilu~ninescent reaction mainly attributed to the Tl(nn*) + 
+So transition of benzaldehyde. Two steps of the mechanism are proposed. 
+
+Introduction 
+L'azote activC par dCcharge Clectrique microonde est un vec-
+teur d'Cnergie de rCactivitC physicochimique tres importante 
+(1). I1 constitue un milieu en Cvolution dynamique du fait du 
+mecanisme complexe de recombinaison des atomes d'azote (2, 
+3) mettant en jeu des Ctats molkculaires triplets ou singulet 
+vibrationnellement excites (4). Le comportement de l'azote 
+activC apparait diffkrent suivant 1'Ctat physique du reactif sur 
+lequel il rCagit: en phase gazeuse il entraine, en gCnCral, une 
+fragmentation de la cible molCculaire pour former des radicaux 
+ou molCcules mono, di ou triatomiques, pouvant Ctre ac-
+compagnCe d'une fixation d'azote atomique (I), tandis que 
+ses rtactions avec des matrices solides contenant un dCrivt 
+
+aromatique 5 faible tempkrature (77 K ou 4,2 K) ont pour effet 
+essentiel une excitation 5 1'Ctat triplet par transfert radiatif (5). 
+
+La possibilitC de l'intervention de 1'Ctat triplet de la molCcule 
+cible comme intermkdiaire primaire dans la rCaction de l'azote 
+activC est souvent postulte (1) sans aucune preuve directe: 
+l'une des raisons essentielles de la difficult6 de la mise en 
+Cvidence d'une telle ttape est le caractere fortement inhibiteur 
+des atomes N(4S) pour des Ctats triplets; c'est ainsi que s'in-
+terprkte la faible concentration stationnaire de N~('C:) dans le 
+gaz activC ou cette molCcule a 1'Ctat triplet le plus bas est 
+dCtruite par la rkaction trks rapide [l]: 
+
+Nous rendons compte de la mise en Cvidence expkrimentale 
+de 1'Ctat triplet de la cible molkculaire dans la rCaction 
+
+'Auteur qui adresser la correspondance. 
+
+chimiluminescente, en phase gazeuse, de l'azote activC sur le 
+benzaldkhyde. 
+
+Partie experimentale 
+
+L'azote active est produit et reagit sur le benzaldkhyde C,H5CH0 
+B I'aide d'un dispositif dkja dkcrit anterieurernent (3). Les reactifs sont 
+des produits chirniquernent purs utilisks sans purification cornplk-
+rnentaire. Le dispositif d'observation spectroscopique est constitue 
+par la chaine de dktection et d'enregistrernent: rnonochrornateur 
+"Coderg MSV" -photornultiplicateur "EM1 9558 QB" coup16 B un 
+enregistreur. 
+La rkaction se presente cornrne une chimilu~ninescence bleue tres 
+localiske, dans la zone de rnklange des deux flux gazeux. Ce phkno-
+rntne ne peut Ctre mis en Cvidence que dans des conditions tres strictes 
+de debit des deux rkactifs qui irnpliquent la consornmation complete 
+des atornes d'azote qui se traduit par une disparition totale de la 
+chirnilurninescence jaune. 
+Le spectre d'kmission de la chirnilurninescence (fig. 1) presente 
+essentiellernent la transition triplet-singulet Tl(nn*) -So du ben-
+zaldehyde. Les longueurs d'onde sont rnesurkes, avec une prkcision de 
+
+1 nrn, a 460 nrn, 426 nrn et 397 nrn, ce qui correspond avec une bonne 
+
+precision B la vibration d'tlongation de C=O dont la frkquence 
+moyenne apparait Ctre de 1725 crn-' dans notre travail. L'emission du 
+
+systkrne 2Z+ -'Z+ du radical CN est Cgalernent prksente rnais sous 
+
+une intensite faible; la cornparaison des spectres la et Ib rnontre 
+qu'elle est prksente sur le spectre d'un t h o i n enregistre apres I'arrCt 
+de l'arrivee du benzaldkhyde et sernble indiquer que I'origine de cet 
+krnetteur trks sensible est une irnpurete. 
+
+Discussion 
+Deux Ctapes mCcanistiques de la rkaction peuvent Ctre dC-
+gagCes dans ce travail prkliminaire. 
+Can. J. Chem. Downloaded from www.nrcresearchpress.com by 87.160.185.190 on 03/27/14 
+
+For personal use only. 
+
+
+COMMUNICATIONS 
+
+FIG. 1. (a) Enregistrement du spectre de la chimiluminescence 
+du benzaldthyde avec I'azote activC. (b) Enregistrement ttmoin en 
+I'absence de benzaldkhyde. 
+
+(a) L'excitation de l'ttat T,(n.sr*) du benzaldthyde peut Ctre 
+interprttte, a priori; soit par un transfert d'tnergie a partir de 
+moltcules d'azote presentes dans le milieu N2(311g): T2 ou 
+~~( ' 2 : ) : T~ 
+
+[2] Nz(T) + +CHO(So) -
+&gt; N&gt;(So) + +CHO(T,nn*) 
+
+soit par une triple collision 
+
+Les rtactions du modkle [2] ne sont efficaces qu:: si elles sont 
+trks rapides, ttant donnt la court durte de vie des espkces 
+N2(T) dans l'azote activt: N2(T2), du fait de sa transition radia-
+tive permise vers N2(Tl), cette dernikre a cause de la rtaction 
+
+[I]. La reaction [3] apparait ainsi la plus probable comme 
+responsable du peuplement de l'ttat triplet de 4-CHO. En tout 
+ttat de cause les rtactions [2] ou [3] de formation de 
++CHO(T,n.sr*) ne sont pas des reactions Cltmentaires et en 
+
+particulier la rtaction [3] peut mettre en jeu des Ctats tlectro-
+
+niquement excites de l'azote. Le diagramme tnergttique (fig. 
+
+I 
+
+N f N ( 
+
+I 
+
+I 
+
+I 
+
+I 
+
+I 
+
+I 
+
+I 
+
+I 
+I 
+
+I 
+
+I 
+
+I 
+
+I 
+
+I 
+
+N*[Tll 1 
+
+I 
+
+I 
+
+FIG. 2. Diagramme knergttique. (a) Niveaux d'Cnergie suscep-
+tible~ d'Ctre mis en jeu dans les rkactions de I'azote active. (b) 
+Niveaux d'tnergie des premiers singulets de +CHO. (c) Niveau 
+d'knergie de I'ttat triplet de +CHO. 
+
+2) permet de comparer les energies susceptibles d'&amp;tre mises en 
+jeu dans le transfert -qui doit se faire d'une manikre iso-
+tnergttique: l'tnergie de 1'ttat triplet Tl(n.sr*) du benzaldt-
+hyde, et celles de ses Ctats excites singulets -qui constituent 
+une limite superieure pour l'tnergie de l'ttat triplet corres-
+pondant. Ce schema montre que 1'Ctat T,(n.sr*) ne peut Ctre 
+produit qu'aprks un processus de relaxation Cnergttique im-
+portant mettant en jeu des mtcanismes de conversion interne 
+(par cascade d'ttats triplets successifs), mais tventuellement 
+aussi des conversions intersystkmes vers des Ctats singulets. 
+(b) La ntcessitt d'operer dans des conditions de disparition 
+totale des atomes N(4S) etaye l'hypothkse d'une dtsactivation 
+cinttique trks rapide: 
+
+[4] +CHO(Tlnn*) + N4S) -z +CHO(So) t N('S). 
+
+1. A. N. WRIGHT et C. A. WINKLER. Active nitrogen. Academic 
+Press, New York. 1968. 
+2. ( a ) I. M. CAMPBELL et B. A. THRUSH. Proc. R. Soc. A, 296,201 
+(1967); (b) R. A. YOUNG. J. Chem. Phys. 60, 5050 (1974). 
+3. ( a ) 0 . DESSAUX, P. GOUDMAND et B. MUTEL. J. Quant. 
+Spectrosc. Radiat. Transfer, 30, 137 (1983); (b) 0 . DESSAUX, 
+P. GOUDMAND et B. MUTEL. J. Quant. Spectrosc. Radiat. 
+Transfer, 30, 3 1 1 (1983). 
+4. B. MUTEL, M. BRIDOUX, M. CRUNELLE-CRAS, 0 . DESSAUX, 
+F. GRASE, P. GOUDMAND et G. MOREAU. Chem. Phys. Lett. 104, 
+290 (1984). 
+5. ( a ) 0 . DESSAUX. J. Chim. Phys. 67, 1137 (1970); (b) P. 
+DEVOLDER, 0 . DESSAUX et P. GOUDMAND. J. Photochem. 15, 
+265 (1981). 
+6. ( a ) Y. HIRATA et E. C. LIM. J. Chem. Phys. 72,5505 (1980); (b) 
+L. GOODMAN, M. LAMOT~E et M. KOYANAGI. Chem. Phys. 47, 
+329 ( 1980). 
+Can. J. Chem. Downloaded from www.nrcresearchpress.com by 87.160.185.190 on 03/27/14 
+
+For personal use only. 
+
+
+
+	
+

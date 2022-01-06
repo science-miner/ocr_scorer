@@ -1,0 +1,1353 @@
+
+	
+
+		
+
+	
+
+	
+
+Orientation et dynamique moleculaire de sondes paramagnetiques en phase 
+lamellaire dibutylephosphate de sodium/eau 
+
+C . CHACHATY 
+
+Dipartetnetzt cle Physico-Chimie, Centre d'Erucles Nuclkaires cle Saclay, 91191 G!f-sur-Yvette Cecle.r, Fratzce 
+
+R e ~u le 24 mai 1983' 
+
+C. CHACHATY. Can. J. Chem. 62, 1246 (1984). 
+Les solutions aqueuses de dibutylephosphate de sodium (NaDBP) en concentrations de 3 a 4 mol L--' forment, entre 280 
+et 340 K , une phase cristalline liquide lamellaire. On Ctudie par rpe I'orientation ct la dynamique moltculaire dans cette phase, 
+de sondes paramagnktiques telles que I'ion vanadyle et les radicaux nitroxydes, tempoamine, tempone et tempobutanamide. 
+L'ion V02+ forme, avec le groupe phosphate, un complexe dont I'axe magnttique z est orient6 en moyenne selon la normale 
+au plan lamellaire. La mobilitd moltculaire h i'interface entre les couches d'eau et de DBP-est donnCe par le temps de 
+corrClation de nutation de I'axe z que I'on dtduit de la largeur totale du spectre par la relation empirique TR = a[I -(AII/Axx)I1'. 
+Les parametres a = 2,95 X lo-" s et b = -1,42 sont dttermints par des mesures en fonction de la viscositd, des largeurs 
+de raies et de l'anisotropie du couplage hyperfin de vO" 
+La tempoamine et la tempone se localisent dans les domaines polaires de la mCsophase avec une reorientation rapide autour 
+de la direction N-0 orientte en moyenne selon le directeur de la phase lamellaire. L'anisotropie de rkorientation de ces 
+radicaux est attribuable selon les cas h la formation de liaisions hydrogene avec les groupes phosphates ou les molCcules d'eau 
+interstitielles. On Ctablit quelques corrClations entre la rpe de ces sondes paramagnttiques et la rmn de ' H et "P des molCcules 
+de substrat. 
+
+C . CHACHATY. Can. J. Chem. 62, 1246 (1984). 
+Aqueous solutions of sodium dibutylphosphate (NaDBP) give rise to lamellar liquid crystalline phase between 280 and 340 
+K for NaDBP concentrations ranging from 3 to 4 mol L-'. The orientation and dynamic behaviour of several paramagnetic 
+probes such as the vanadyl ion, tempoamine, tempone and tempobutanamide dissolved in this phase have been investigated 
+by esr. 
+The vanadyl ion binds to the phosphate group, forming a complex. the z magnetic axis of which is on the average 
+perpendicular to the lamellar plane. The molecular mobility at the H20/DBP-interface is given by the reorientation correlation 
+time of the z axis, which is derived from the total width of the spectrum, using the empirical relation rR = a[1 -( A ~~/ A ~) ] ~. 
+The parameters a = 2.95 X lo-" s and b = -1.42 are obtained from the viscosity dependence of the esr line widths and of 
+the anisotropic hyperfine couplings. 
+The tempone and tempoamine are localized in the polar domains of the mesophase, reorienting rapidly about the N-0 
+direction which is, on the average, parallel to the director of the lamellar plane. The anisotropic motion of these radicals is 
+assigned to hydrogen bonding which occurs, according to the cases, with water molecules or phosphate groups. Some 
+correlations are established between the esr of spin probes and ' H and "P nmr experiments on substrate molecules. 
+
+I. Introduction 
+L'Ctude par rksonance magnktique de solutions aqueuses 
+micellaires de dibutylephosphate de sodium (NaDBP) nous a 
+
+conduits a mettre recemment en Cvidence la formation de cris-
+
+taux liquides lyotropes pour des concentrations ClevCes en 
+NaDBP (I). L'kvolution avec la temperature et la concentration 
+en NDBP de I'anisotropie de dCplacement chimique de ''P ou 
+du couplage quadrupolaire de deutCrium de l'eau, ainsi que 
+I'observation au microscope polarisant, ont permis de dklimiter 
+le domaine d'existence d'une phase lamellaire (Fig. 1). Cette 
+
+phase, caractkride par diffraction de rayons X, consiste en une 
+
+alternance de doubles couches hydrocarbonCes et de domaines 
+polaires contenant les groupes phosphates et l'eau interstitielle, 
+
+d'kpaisseurs respectives 8,5 &lt; Dl &lt; 9,8 et 9,2 &gt; D2 &gt; 7,l 
+
+selon la teneur en eau (Fig. 2). 
+Nous nous sommes proposCs d'Ctudier par rksonance ma-
+gnktique nuclCaire (rmn) et par rCsonance paramagnktique Clec-
+tronique (rpe) I'orientation et la dynamique des molCcules de 
+substrat ou de sondes paramagnktiques dissoutes dans ce mi-
+lieu. Nous nous limiterons ici aux principaux rCsultats de 
+I'Ctude par rpe, ceux de la rmn, dont l'interprktation est en 
+cours, ayant fait l'objet d'une publication prkliminaire (2). 
+Les sondes paramagnktiques intervenant dans ce travail ont 
+Ct C choisies en fonction de leurs dimensions molCculaires, infC-
+rieures ou comparables it celles de NaDBP et de leur aptitude 
+
+' Revision recue le l l janvier 1984. 
+
+B s'associer it des degrks divers avec les molecules de substrat. 
+
+Ainsi I'ion vanadyle forme un complexe de coordination avec 
+I'anion DBP-alors que les nitroxydes mentionnCs au Tableau 
+1 sont susceptibles soit de s'incorporer dans la couche hydro-
+carbonCe (tempobutanamide), soit de former des liaisons hy-
+drogkne avec les constituants polaires de la mesophase (tem-
+pone et tempoamine). Les radicaux nitroxydes et a un moindre 
+degrk I'ion VO" sont souvent utilisCs pour 1'Ctude par rpe de 
+cristaux liquides thermotropes ou de membranes phos-
+pholipidiques (3). I1 n'existe par contre que peu d'exemples 
+d'ktudes analogues sur des mksophases lyotropes formkes 2 
+partir de petites molCcules amphiphiles oG, comme dans le cas 
+present, on tente d'Ctablir des corrClations entre la rkorientation 
+de ces sondes mesurke par rpe et celle des molkcules de substrat 
+dCduites d'expkriences de rCsonance et de relaxation nuclC-
+aires. 
+
+11. Conditions experimentales 
+L'acide dibutyle phosphorique (OS1, France) a ttt purifiC par dis-
+
+solution dans I'eau alcaline pour Climiner le tributylephosphate in-
+soluble dans ce milieu. L'acide dibutylephosphorique Ctait stpark de 
+I'acide monophosphorique par acidification de la solution aqueuse et 
+extraction au tktrachlorure de carbone, suivie d'une distillation sous 
+oression rkduite oour Climiner le solvant. La ouretC de I'acide di-
+butylephosphorique, supCrieure h 98% Ctait contr6lte par rmn de 'H, 
+'jC et "P. 
+La phase cristalline liquide Ctait formte soit par addition 
+progressive d'une solution concentrke NaOH/H20 ii I'acide di-
+
+Can. J. Chem. Downloaded from www.nrcresearchpress.com by 87.160.185.190 on 03/27/14 
+
+For personal use only. 
+
+
+FIG. 1. Variation avec la temperature de 1'Ccart quadrupolaire de 'H et de l'anisotropie de dkplacement chimique Au = /atl -u,/ de "P dans 
+le systkme NaDBP/H20 pour une fraction molaire Xu = 0,165 de NaDBP. Diagramrnes de phases: I, phase lamellaire; 11, liquide isotrope; 111, 
+
+gel ou solide hCtCrogene (coagel). 
+
+butylephosphorique, soit par dissolution de NaDBP dans H'O. La 
+solution visqueuse Ctait homogenCisCe par chauffage a 50-60°C 
+pendant plusieurs heures. Les radicaux 2.2.6.6-tetramethyl-4-pipe-
+
+ridinone-I-oxyl (tempone) et 4-amino-2.2,6,6-tCtrarntthylpipe-
+
+ridine-I-oxyl (tempoamine) ainsi-que le sulfate de vanadyle pro-
+viennent d'Aldrich Chemical. La tempobutanamide a Cte synthCtisCe 
+par action du chlorure d'acide correspondant sur la 2,2,6,6-tCtra-
+mCthylpipCridine-I-oxyl-4-01 et purifite par chromatographie. 
+Les experiences de rpe ont Cte effectuees sur un spectromktre Varian 
+E9 une frkquence de 9,15 GHz et avec une modulation de 100 KHz. 
+L'Cchantillon Ctait place dans un systkme a temperature variable V 
+257. Dans la plupart des experiences nous avons utilist une cellule 
+rectangulaire de section interne 3,5 X 0.5 mm (Wilrnad WG 808) que 
+I'on orientait par rapport au champ rnagnetique. 
+Le champ magnktique Ctant calibre a I'aide d'un magnktomktre 
+Varian F8, les facteurs g Ctaient mesures par rapport a une reference 
+
+externe de DPPH (systtme Varian Fieldial Mark 11) dont le g effectif, 
+compte tenu de sa position par rapport a la cavite, est de 2,00375 k 
+0,00005. 
+
+111. Parametres d'ordre et largeurs des raies 
+Param2tres d'ordre 
+L'orientation molCculaire par rapport au directeur de la me-
+sophase est dkfinie par les parametres d'ordre Sii qui ont pour 
+expression (4, 5): 
+
+1 
+
+[I] S i i = Z ( 3 ~~~Z 0 ' i ( r ) 
+
+-1) 
+
+Ori(t) ttant l'angle dependant du temps entre un axe i du sys-
+tkme de rkftrence moleculaire et le directeur de la mtsophase. 
+Le systkme de reference choisi ttant celui des axes principaux 
+Can. J. Chem. Downloaded from www.nrcresearchpress.com by 87.160.185.190 on 03/27/14 
+
+For personal use only. 
+
+
+CAN. J . CHEM. VOL. 62, 1984 
+
+. . 
+. 
+. . . 
+
+FIG. 2. Delimitation des domaines polaires (Dz) et non polaires (Dl) de la phase lamellaire NaDBP/H20. 
+
+TABLEAU I. Valeurs principales des tenseurs A et g 
+
+A= (G) Axx A Y Y 
+
+An 
+g u 
+gxx = ~Y Y 
+go 
+
+vO" (211 V-0) 
+204 
+78 
+120 
+1,932 
+1,987 
+1,969 
++-2 
++-2 
++-2 
++-0,003 
++-0,003 
++-0,003 
+
+Nitroxydes 
+
+A u 
+Axx 
+A Y Y 
+An* 
+g u 
+gxx 
+
+~Y Y 
+
+go* 
+
+Tempone 
+
+CH2 CO 
+/ \ / \NH 
+CH3 
+
+Tempobutanamide 
+34,6 
+6,475 
+15,85 
+2,0024 
+2,0092 
+2,0066 
+2,00607 
++-0,2 
+
+* 0,OS +-0,0002 +-0,0003 +-0,0003 +-0,0001 
+
+CH3 0 . 
+
+* Mesurt en phase Isotrope. 
+
+x , y et z , communes aux tenseurs de couplage hyperfin A et au 
+l'orbitale de l'klectron non appariC, centree sur l'azote et l'axe 
+tenseur g, dCsignCs tous deux par T, la rkorientation molCcu-
+
+x est align6 i quelques degrts prks selon la liaison N -0 (6). 
+
+laire autour du directeur nous donne (4, 5): 
+Dans le cas de I'ion V 0 2 + I'axe z est orient6 selon la liaison 
+
+[2I 
+
+-TL = S I I Tcr + S227',, + 5'33 T z z 
+
+V -0 et les axes x et y sont pratiquement Cquivalents. Les 
+valeurs principales de ces tenseurs, indiqukes dans le tableau 1, 
+Pour les radicaux nitroxydes, l'axe z coincide avec celui de 
+ont Ct C dCterminCes par simulation des spectres de rpe en ma-
+Can. J. Chem. Downloaded from www.nrcresearchpress.com by 87.160.185.190 on 03/27/14 
+
+For personal use only. 
+
+
+CHACHATY 
+
+1249 
+
+FIG. 3. DCtermination des valeurs principales des tenseurs A et g 
+du radical tempobutanamide par simulation des dCrivees premiere et 
+seconde du spectre rpe en milieu rigide; (-) spectres expkrimentaux; 
+(---) spectres calculCs avec les paramktres du Tableau I. Les flkches 
+verticales correspondent g = 2,00375. 
+
+trice rigide NaDBP/H20 T &lt; 120 K. Alors que les tenseurs 
+
+A de ces sondes pararnagnktiques et le tenseur g de V02+ 
+peuvent Ctre considires cornme axiaux autour de z , le tenseur 
+g des nitroxydes dCvie notablement de la syrnktrie axiale. 
+Dans nos conditions expCrimentales, la rCsolution limitCe de 
+la dCrivCe premikre d'absorption des spectres de nitroxydes en 
+
+milieu rigide ne donne que g,; et 4 (g., + g,.). La position des 
+
+singularitts de la dCrivCe seconde depend par contre beaucoup 
+plus fortement de I'asymCtrie du tenseur g, dCfinie par Ag = 
+
+(g,, -g&gt;:?,.)/(g:: -go) avec go = f (g.1.) + gl?. + RZ:) Nous avons 
+donc determine les valeurs principales de g a partir de la dt-
+
+rivCe seconde des spectres de rpe en vCrifiant cette mesure par 
+simulation des spectres (Fig. 3). Les valeurs de Ag obtenues 
+sont respectivement de -0,75, -0,92 et -1 pour la tempo-
+butylamide, la ternpone et la tempoamine, en bon accord avec 
+les valeurs que l'on calcule d'aprks les donntes de la litttrature 
+(voir par ex. les references 7, 8). 
+
+La mesure des pararnktres d'ordre a Ctt effectute a partir de 
+
+la position des singularitks associkes aux valeurs principales 
+des tenseurs A et g en Ccrivant la relation [2] sous la forme: 
+
+Comme A,, = A?,?, SJ3 est donnt directernent par mesure de 
+
+I'tcart hyperfin alors que S,, et Sz2 sont obtenus B partir de 
+l'anisotropie de g. Cette rnesure n'est valable que si la 
+rtorientation moleculaire est rapide par rapport a AAlh et 
+Ag pBo/h (9), AA et Ag reprksentant l'anisotropie des tenseurs 
+
+A et g et Bo le champ magnCtique directeur. 
+
+Largeurs de raies 
+Dans le domaine des movements rapides sptcifiC plus haut, 
+les largeurs de raies IiCes au temps de relaxation tlectronique 
+T,, perrnettent de dkterminer les temps de corrClation de 
+rtorientation moltculaires par une expression de la forme ( 10): 
+
+[4] 
+
+T2-' = yo AB (m,) = a + bm, + cm,' 
+
+yo = go p/h est le rapport gyrornagnktique de I'electron, m, le 
+nornbre quantique nucleaire et AB ( t n , ) la derni-largeur de raie 
+B mi-hauteur d'une lorentzienne (Clargissernent homogene). 
+Pour un couplage hyperfin exprirne en gauss, les constantes 
+a , b et c ont pour expressions ( 10): 
+
+I 
+
+2 
+
+[5] a = -~' h ' p * C (-~)KF~(K)F(-KIG(K) 
+
+6 ' 
+' K = -2 
+
+I 
+
+(w) 
+
+G I ' K ) ( ~) 
+et G 2 K ' ( ~) sont des cornbinaisons IinCaires des densi-
+tCs spectrales J(w) qui seront explicitees plus loin 
+
+avec os = yoBo, o4 = yoAo, A, Ctant la constante de couplage 
+
+hyperfin de contact. 
+
+FiK' avec K = 0, + 1, +-2 designe I'une des cornposantes des 
+
+tenseurs A ou g en base spherique: 
+
+1 
+
+[7] do' = \/% (T:; -2 (T,, + Ttl) 
+
+Dans le cas d'une reorientation autour d'un axe molCculaire 
+AM, ces composantes deviennent: 
+
+[8] F"""= 
+D : ! ~( O , ~, ~) F ' ~' 
+
+K = -2 
+
+D: ! ~ ddtsignant la rnatrice de Wigner d'ordre 2. 
+Les densitts spectrales de la relation [6] sont de la forme (1 1, 
+12): 
+
+[9] JMK (o, 8 ) = J1 + J1' P2 (cos 8 ) + JU'P4 (cos 8 ) 
+
+P2 (COS 8 ) et P4 (cos 8 ) dCsignent les polyn6rnes de Legendre 
+d'ordre 2 et 4, 8 ttant I'angle entre Bo et AL (Fig. 4). J ' , J" et 
+J"' sont des combinaisons lintaires des densitks spectrales cor-
+
+respondant a 8 = 0, et qui ont pour expression gCnCrale (1 1, 
+
+13): 
+
+avec K ou M = 0, +1, a 2 . 
+Les temps de corrClation TO, T,, T~ sont lits aux coefficients 
+de diffusion rotationnelle DII et DL, par la relation (14, 15): 
+
+oh C est un coefficient dependant du modkle de mouvernent 
+(diffusion Brownienne ou rtorientation par sauts). Ceci nous 
+donne: 
+Can. J. Chem. Downloaded from www.nrcresearchpress.com by 87.160.185.190 on 03/27/14 
+
+For personal use only. 
+
+
+CAN. I. CHEM. VOL. 62, 1984 
+
+FIG. 4. Definition des angles et des axes. N: axe de rtftrence de I'tchantillon, gtntralement normal au plan de la cellule rectangulaire ou 
+au plan moyen de la phase lamellaire orientke; A,: directeur local; AM: axe de rotation moltculaire prtftrential; T: tenseurs A ou g. Ces tenseurs 
+sont moyennts par rtorientation autour de AM et A,. 
+
+670 
+670 
+
+[I2] " = 5 + (Dll/D,) ' " = 2 + 4 (D!\/D,) 
+
+70, que l'on dCsignera Cgalement par 7, correspond au mou-
+vement de nutation de l'axe molkculaire AM autour du directeur 
+
+A,. Dans la relation [lo] diM est le carrC moyen d'un ClCment 
+
+de la matrice de rotation entre les axes ~olkculaires et un 
+systkme de rCfkrence fixe. L'expression de diM en fonction des 
+
+paramktres d'ordre P2 (cos P') = 4 (3 cos' P' -1) et 6 (COS 
+p') = 6 (35 cos4 P' -30 cos2 P' + 3) est donnC dans les 
+
+rkfirences 1 1 ou 13, pour un modkle de riorientation par sauts, 
+
+p' Ctant l'angle dkpendant du temps entre AM et AL (Fig. 4). Pz 
+
+(cos p') est donnk par 1'Ccart hyperfin des raies de rCsonance: 
+
+parametres d'ordre Sii et des largeurs de raies par simulation des 
+spectres de rpe. Dans ce but nous avons Ccrit un programme 
+APL qui permet de calculer ces spectres en fonction des para-
+mktres citks plus haut, pour une forme de raie gaussienne ou 
+lorentzienne selon que l'on se trouve dans les conditions de 
+mouvements lents (V02') ou rapides (nitroxydes). Pour une 
+forme de raie lorentzienne par exemple, la dCrivke premikre 
+d'absorption a pour expression (18) 
+
+X 
+
+G (+) G (0) P (0, +) AB (B -BR) sin 0 d+ d0 
+
+(AB' + (B -B ~) ' ) ~ 
+
+[ 131 
+
+Al l -A, 
+
+1 -
+
+= -p2 (cos p') [3 cos2 p -j ] = s,, 
+
+B est le champ magnktique variable, AB la demi-largeur de raie 
+
+A L Z -t (A,=" + AYY) 2 
+
+a mi-hauteur. 0 l'angle entre le directeur local A, et I'axe 
+
+oh p dksigne l'angle entre AM et l'axe z du tenseur de couplage 
+
+hyperfin. 
+
+La relation entre P2 (cos P') et 6 (cos P') dCpend du modele 
+
+de rkorientation proposC. Dans le cas prCsent P4 (cos P') a kt6 
+dCduit de P2 (cos P') mesurk expCrimentalement en admettant 
+
+que l'axe molCculaire A M effectue un mouvement alCatoire de 
+iutation 2 l'intkrieur d'&amp; cane centrC sur AL (Fig. 4) (16) ou 
+que ce mouvement dipend d'un potentiel de la forme U(P1)/kT 
+
+---A sin' p' (17). Une Ctude en cours sur la dkpendance 
+
+angulaire de la relaxation de "P dans le systkme NaDBP/H20 
+montre que ce second modkle rend le mieux compte des 
+rksultats expkrimentaux, de sorte que nous l'avons Cgale-
+ment adopt6 pour le calcul des largeurs de raies des radicaux 
+nitroxydes. 
+Du fait de la distribution statique d'orientation des directeurs 
+AL des domaines formant la phase cristalline liquide, il est 
+gknkralement nkcessaire de confirmer la dktermination des 
+
+rCfkrence N, ' + 17angre entre la projection de Bo s i r un plan 
+
+perpendiculaire B N et la projection de AL sur ce plan (Fig. 4). 
+BR et P(0, +) dksignent respectivement le champ magnitique 
+de rCsonance et la probabilitk de transition. G(0) et G(+) re-
+prksentent les fonctions de distribution statique du directeur AL 
+
+centrkes sur ou +o, assimilCes i~ une gaussienne (16): 
+
+Pour une orientation donnCe de A,, qui est l'axe de symCtrie des 
+tenseurs A et g moyennks par la rkorientation molCculaire 
+autour du directeur, le champ magnCtique de rksonance BR a 
+pour expression (18): 
+hv,/P -[ ( A ~~~~~) ~ 
+
+cos2 8 + (A:~:) sin2 8]'12m, 
+
+[I61 BR = 
+
+(g; cos' 8 + g', sin' 8)11' 
++ BrR 
+
+Can. J. Chem. Downloaded from www.nrcresearchpress.com by 87.160.185.190 on 03/27/14 
+
+For personal use only. 
+
+
+CHACHATY 
+
+avec 8 = arc cos (cos 0 cos + + sin 0 cos + sin +), vo ttant 
+
+la frtquence du spectrometre et B t R le terme du second ordre 
+dont on trouvera l'expression dans la ref. 18. 
+Le temps de calcul des spectres a t t t considtrablement rtduit 
+
+en repla~ant I'inttgration sur 0 et + de l'tquation [14] par une 
+
+simple inttgration sur 8 (Fig. 4): 
+
+" 
+
+n / ' G ( 8 ) P ( 8 ) A B ( B -B R ) 
+
+[17] F ( B ) = -$ 
+
+j 
+
+, = -o 
+
+(AB' -(B -B ~) ~) ' 
+d 8 
+
+I 
+
+P ( 8 ) est la probabilitt de transition (19): 
+
+[18] P ( 8 ) = f g : ( 1 + 
+
+8 1 1 
+
+g; cos' 8 + sin' 8 
+
+G ( 8 ) est la distribution de probabilitts de l'angle 8 calculte 
+
+numtriquement a partir de l'expression: 
+
+G (+) G (0) sin 0 A 8 
+
+[Ig1 ' 
+
+(' ) 
+
+= ' 8 (0 + A0, + + A+) -8 (0. +) 
+
+A@, A0 et A+ ttant des pas angulaires constants et . N un facteur 
+
+de normalisation. Le nombre de points d'inttgration sur 8 est 
+
+rtduit par troncature de G ( 8 ) et cette fonction peut &amp;tre utiliste 
+dans des calculs successifs. 
+La dtpendance angulaire de AH intervient dans les relations 
+[14] et [17]. Elle est soit ajustte empiriquement sous la forme: 
+
+[20] AB = ( A B ~ 
+
+cos2 8 + AB: sin' 8)'12 
+
+soit calculCe en fonction des parametres dlordre et des temps de 
+FIG. 5. Orientation des axes principaux des tenseurs A et g de 
+V02+ pour $ = 0, O,, = 0, .r et y &amp;ant Cquivalents. Tenseur de 
+corrtlation TK. Dans ce second cas, on tient compte de 
+
+dCplacernent chirnique de 3 , P , 
+
+l'tlargissement inhomogene par une largeur de raie addi-
+tionnelle: 
+
+[21] AB' = AB, + AB' COS' 8 
+
+ABl et ABz sont des paramktres ajustables qui correspondent 
+respectivement aux parties scalaire et dipolaire du couplage 
+hyperfin non rtsolu des protons. Pour une orientation donnte, 
+la largeur pic a pic de la dtrivte d'une raie d'absorption dans 
+l'approximation d'une forme lorentzienne est donc: 
+
+2 
+
+[22] ABpp = --[(Y,T~)-' + AB')] 
+
+v3 
+
+T, ttant calcult a partir des relations [4]-[12]. 
+Dans le cas des nitroxydes ttudits ici, le second terme de la 
+relation [21] est ntgligeable ttant donnt le faible couplage 
+dipolaire des protons, moyennt a ztro par la rtorientation mo-
+ltculaire rapide. La simulation des spectres nous a donnt les 
+
+valeurs optimales AB' = 0,3 + 0,05 G pour la tempone et AB' 
+
+= 0,9 ? 0 , l G pour la tempoamine et la tempobutanamide. 
+
+Ces valeurs sont voisines de la demi-largeur a mi-hauteur: 
+
+de l'enveloppe de la structure hyperfine des protons assimilb 
+2 une gaussienne. Les constantes de couplage hyperfin a~ des 
+protons de la tempone (20) et de la tempoamine (21) donnent 
+
+en effet respectivement AB' = u = 0,225 G et 0,83 G. 
+
+Pour certaines simulations, la contribution de la structure 
+hyperfine non rksolue a Ct C introduite par convolution gaus-
+sienne des spectres. Cette procedure ne donne pas de diffk-
+rences notables avec l'utilisation de la relation [22]. 
+
+IV. Resultats et discussion 
+Ion vanadyle 
+L'ttude par rmn de la complexation de vO" par DBP-en 
+milieu micellaire indique la formation d'un complexe bidentate 
+avec deux molecules de monomere (1) reprtsentt sur la figure 
+5. Dans la phase lamellaire ce complexe donnera une orien-
+tation moyenne de l'axe V-0 perpendiculaire aux doubles 
+couches de DBP-. Le spectre rpe de V 0 2 + apportera donc des 
+informations sur la distribution d'orientation du directeur et la 
+mobilitt moltculaire a l'interface DBP-/H20. 
+Les amplitudes des singularitts du spectre de VO" corres-
+pondant aux orientations de l'axe de symttrie et du plan prin-
+cipal des tenseurs g et A paralleles a Bo, varient par rotation de 
+la cellule rectangulaire. On observe que les singularitks paral-
+
+lkles, correspondant a TI, ont une amplitude maximale ou mini-
+
+male selon que Bo est perpendiculaire ou parallkle au plan de la 
+cellule, alors que les singularitts perpendiculaires varient en 
+sens inverse (Fig. 6). Cette dtpendance angulaire indique que 
+les doubles couches de la phase lamellaire s'orientent prtftren-
+tiellement dans le plan de la cellule. On observe parfois un 
+comportement inverse, qui correspond a une orientation 
+alkatoire de AL dans le plan de la cellule. L'apparition de I'un 
+ou l'autre type d'orientation depend d'une maniere critique du 
+traitement thermique de l'tchantillon. La transition entre la 
+
+phase lamellaire et la phase 111 par refroidissement a T &lt; 280 
+
+K entraine la disparition de l'effet d'orientation, que l'on re-
+trouve par recuit prolong6 de l'tchantillon entre 300 et 330 K. 
+
+De la symttrie quasi-axiale et de l'orientation des tenseurs 
+magnttiques de VO", il rtsulte que la relaxation tlectronique 
+de cet ion ne dtpend au premier ordre que du seul temps de 
+Can. J. Chem. Downloaded from www.nrcresearchpress.com by 87.160.185.190 on 03/27/14 
+
+For personal use only. 
+
+
+CAN. J . CHEM. \ 'OL. 62. 1984 
+
+Frc. 6. Spectres de I'ions VO" en phase lamellaire NaDBP/H20, 
+
+XM = 0,13 pour les orientations perpendiculaires ($ = 0") et parallkle 
+(I) = 90") de la cellule par rapport B B,. Ces spectres indiquent que 
+
+I'axe V-0 s'oriente prCfCrentiellement selon la norrnale au plan de 
+
+la cellule (0, = 0). 
+
+correlation T, = TO de nutation de l'axe V-0 autour du direc-
+teur local A, de la phase larnellaire. La rpe de V02' en solu-
+tions de viscositk variable (1) indique que la determination de 
+T, par des mesures de largeurs de raies (Cq. [4]) ne s'applique 
+
+que pour TR &lt; 3 X lo-'' S, Ctant donne la grandeur de l'aniso-
+
+tropie du couplage hyperfin (All -A, = 3,5 X lo8 Hz). La 
+comparaison des spectres de V02' dans la mesophase 
+NaDBP/H20 avec des systkmes analogues (22) ou des spectres 
+thkoriques (23, 24) montre que 1'Cchelle de temps des rnou-
+vements de reorientation se situe entre 
+et 
+s. 
+Dans ces conditions, la largeur totale AA = 7 All du spectre 
+de V02', rnesuree entre les pics extrgrnes sur un Cchantillon 
+polyorientC, depend du temps de corrilation T, (23) et donne un 
+
+paramkre d'ordre -0,7 &lt; S*,, &lt; 1 supCrieur au paramktre 
+
+d'ordre S3, = P 2 (COS p') donnant l'orientation moyenne de 
+
+V-0 
+autour de AL. La distinction entre S,, et S*,,, que 
+McConnell dksigne respectivement par "ensemble-average 
+order parameter" et "frequency-amplitude order parameter" est 
+discutte dans la rtf. 9. L'anisotropie de dtplacement chimique 
+du phosphore donne S,, = 0,5 h 0,65 selon la fraction molaire 
+de NaDBP; on peut admettre des valeurs assez proches de 
+celles-ci pour l'ion V02' lit aux groupes phosphates. 
+En milieu isotrope, TR peut 2tre CvaluC par la relation empi-
+rique (14, 23): 
+
+[24] TR = a (1 -S)P 
+
+valable pour 0,8 &lt; S = AIl/A, &lt; 1, a et P etant des constantes 
+
+FIG. 7. DCtermination des paramttres a et P de la relation T , = (Y 
+
+(I -AII/A,)% partir du spectre rpe de VO(AA)2 dans I'acide di-
+butylphosphorique. ( 0 ) T X T , est donnC par la dCpendance des lar-
+
+geurs de raies en fonction de m,, pour TR &lt; 3 X lo-'" s (relation [4]). 
+
+(0) T x TR est calculC B partir des rapports AIl/Az pour (Y = 2,95 x 
+10-" s et p = -1,42. 
+
+dependant du modkle de reorientation ( 14). L'application de 
+cette relation a un milieu anisotrope a 6tC effectut par Pol-
+naszek et al. (25) dans le aas de radicaux nitroxydes, en tenant 
+compte de la contribution, dans un certain domaine, de la 
+decroissance de S,, avec la temperature. Dans le cas present, on 
+ne note pas de discontinuite dans la variation de S entre 280 et 
+350 K malgrk les transitions de phase 111 -+ 1 et 1 -+ 11 (Fig. 
+l), cette dernikre annulant S3,. On peut donc admettre que la 
+decroissance de S avec la temperature ne depend que de 7,. Des 
+
+valeurs de a et p ont kt6 donnkes par Bruno et al. (23) pour un 
+
+rnodkle de diffusion Brownienne, en fonction de la largeur de 
+
+raie rksiduelle AB' (a = 1,02 X lo-" s, P = -1,97 et a = 
+1,38 X lo-'' s, P = -1,84 pour AB' = 1 G ou 7,5 G). 11 nous 
+
+a paru preferable de determiner ces deux paramktres en rne-
+surant la variation avec la temperature de S pour I'acCtyla-
+cktonate de vanadyle (VO(AA)J dans l'acide dibutylephos-
+phorique (HDBP). 
+La relation de Stokes-Einstein, avec une viscositt variant 
+exponentiellement avec 1/T (voir par exernple, la ref. 26), 
+nous donne: 
+
+oh V est le volume rnoltculaire et 7 la viscosite du solvant. A 
+
+des temperatures superieures a 360 K pour lesquelles TR &lt; 3 X 
+
+lo-'' s, ce temps de correlation est obtenu par la dependance 
+des largeurs de raies avec m, (eq. [4]). Ayant vCrifiC que log (7, 
+x T) varie lineairement avec 1/T, avec une Cnergie d'ac-
+tivation de 3,9 k 0,2 kcal mol-I, I'extrapolation de cette fonc-
+
+tion dans le domaine des mouvements lents (128 &lt; T &lt; 320 K) 
+
+permet de calculer T,, En mesurant le rapport S dans ce do-
+
+maine, on obtient a = (2,95 ? 0,03) X lo-'' s et P = -1,42 
+
+f 0,02, par les rnoindres carrCs (Fig. 7). 
+La variation de T, avec la temperature pour des fractions 
+
+molaires de NaDBP XM = 0,13 et XM = 0,165 est donnee par 
+
+Can. J. Chem. Downloaded from www.nrcresearchpress.com by 87.160.185.190 on 03/27/14 
+
+For personal use only. 
+
+
+CHACHATY 
+
+1253 
+
+FIG. 8. Temps de corrilation de nutation de I'axe z des tenseurs A 
+et g de V 0 2 + et du tenseur u de "P autour du directeur AL perpendi-
+culaire i la phase lamellaire, dtterminis par la largeur totale du spectre 
+
+de V02' (*) ou par relaxation longitudinale de "P (0). (-) XM = 
+
+0,165; (---) XM = 0,13. 
+
+la figure 8. Le temps de corrtlation TR dttermint par la rpe de 
+
+VO" a Ctt compart a celui fourni par la relaxation nucltaire 
+
+longitudinale de 31P, qui donne la mobilitt des groupes phos-
+
+phate 2 l'interface entre les domaines polaires et non polaires 
+
+de la mtsophase, les axes z des tenseurs magnttiques de V02+ 
+et du tenseur de dtplacement chimique de 31P ttant orientts 
+perpendiculairement au plan lamellaire. La relaxation de 31P 
+comporte une contribution de l'anisotropie de dtplacement 
+chimique (ADC) et de l'interaction dipolaire avec les protons 
+voisins (DIP), qui ont pour expressions respectives: 
+
+[26] (TI-'),, 
+
+= o : 
+
+F'*' F'-K) J I K ( 
+
+K = -2 
+
+avec: 
+
+uii Ctant les valeurs principales du tenseur de dtplacement 
+chimique de 31P donnies dans la figure 5, et: 
+
+avec: 
+
+FD(*l) = FD(f?) = 0 
+
+r p ~ 
+
+ttant la distance effective proton-phosphore tvalute a 2,3 
+
+A d'aprks la relaxation de 31P en milieu micellaire (1). Les 
+
+densitts spectrales sont donntes par les relations [9] et [lo]. On 
+remarque sur la figure 8 que pour la plus forte de ces concen-
+trations, qui correspond a peu prks a la rigiditt maximum de la 
+phase lamellaire, ces deux mtthodes sont en accord et nous 
+
+donnent TR = (2,4 * 0,2) X exp [4200 (1 /T -1 /300)] 
+
+s soit Eo = 8,3 + 0,3 kcal mol-I. TR se situe donc dans une 
+
+echelle de temps de 
+a 3 X 
+s, comparable a celle 
+observte par rpe de V02' (22) ou de radicaux nitroxydes (4) 
+
+dans d'autres mtsophases lyotropes, qui correspondrait a un 
+
+mouvement moltculaire cooptratif entrainant une dtformation 
+de l'interface entre les domaines polaires et non polaires (22) 
+et donc une fluctuation d'orientation du directeur de la phase 
+lamellaire. 
+A plus faible concentration en NaDBP ( X , = 0,13), la 
+relaxation nucltaire de "P et la rpe de V02+ donnent res-
+
+pectivement TR = ( 5 3 + 0,5) X lo-'' exp [2500 (1/T -
+
+1/300)] s et (1,O + 0 , l ) x 
+
+exp [2200 ( l / T -1/300)] s 
+
+soient Eo = 5,O + 0,3 kcal mol-I et Eo = 4,3 t 0,3 kcal mol-I. 
+
+Cette difftrence d'un facteur deux entre ces dtterminations de 
+TR est interprttable par un accroissement de la libertt de rt-
+orientation avec la teneur en eau. En effet, la rtorientation 
+moltculaire autour de I'axe z intervient dans la relaxation de jlP 
+mais non dans le spectre rpe de I'ion VO" dont les tenseurs 
+magnttiques sont axiaux selon cette direction. Ce point doit 
+&amp;tre vtrifit par une ttude en cours sur l'effet de la concentration 
+sur la relaxation de j'P et la largeur totale du spectre rpe du 
+complexe V02+/NaDBP dans tout le domaine d'existence de la 
+phase lamellaire. 
+
+Radicaux nitroxydes 
+En phase lamellaire NaDBP/H20, les constantes de cou-
+plage des radicaux nitroxydes sont de 14,9, 15,9 et 15,85 G 
+respectivement pour la tempone, la tempoamine et la tempo-
+butanamide. Pour ces m&amp;mes radicaux a~ est de 13 G en milieu 
+apolaire et de 16 G (tempone) ou de 17 G (tempoamine) en 
+solution aqueuse. Le groupe nitroxyle de ces sondes para-
+magnttiques est donc localist dans les domaines polaires de la 
+mtsophase. 
+L'anisotropie du couplage hyperfin de l'azote qui, en phase 
+lamellaire, croit dans l'ordre tempobutanamide, tempone, tem-
+poamine, ainsi que l'anisotropie de g permettent de dtterminer 
+les paramktres d'ordre Sii. Cette mesure, gtntralement effec-
+tute en cellule rectangulaire, est rtaliste en orientant la cellule 
+parallklement puis perpendiculairement au champ magnttique 
+et vtrifite par simulation des spectres selon ces deux 
+orientations. 
+La tempobutanamide posskde une chaine de longueur com-
+parable a celle du dibutylephosphate et susceptible de s'in-
+corporer dans des doubles couches hydrocarbontes de la phase 
+lamellaire. Son spectre prtsente une faible variation d'tcart 
+hyperfin et un dtplacement de la raie centrale par rotation de 
+
+l'tchantillon entre les angles I JJ = 0" et I JJ = 90' qui nous 
+donnent All -A, = 1,4 ? 0,2 G, gll -g, = -3,14 X 
+
+et 
+donc S33 = 5 X 
+S22 = -1,2 X 
+et Sl = -3,8 X lo-', 
+sans variation notable avec la temptrature. La simulation des 
+spectres de la tempobutanamide (Fig. 9) indique une rtorien-
+tation quasi-isotrope. Etant donnt la faible-anisotropie du 
+couplage hyperfin, les temps de corrtlation TR dont la variation 
+avec la temperature est donnte dans la figure 10, ont Ctt dtter-
+
+mints a 
+
+des largeurs de raies mesurees directement sur les 
+spectres comme en phase isotrope. Le comportement de la 
+tempobutanamide, t r b voisin de celui que I'on observe en 
+phase liquide isotrope, suggbre une forte perturbation de 
+l'ordre local de la mtsophase, ce qui nous a conduit a ttudier 
+plus en dttail d'orientation et la dynamique de la tempoamine 
+
+et de la tempone dont les dimensions sont inftrieures 2 celles 
+
+des moltcules de NaDBP. 
+Can. J. Chem. Downloaded from www.nrcresearchpress.com by 87.160.185.190 on 03/27/14 
+
+For personal use only. 
+
+
+1254 
+
+CAN. J. CHEM. VOL. 62, 1984 
+
+FIG. 9. Tempobutanamide en phase lamellaire ( T = 300 K, XM = 
+
+0,13). Les spectres en pointillCs sont simulks avec les parametres: S, , 
+
+= -0,0125, S Z Z = -0,0385, SIX = 0,051, TR = 1,5 X lo-' S , AB' 
+= 0.8 G. 
+
+FIG. 10. DCpendance avec la temperature de TO = 7 , : (1) tempo-
+
+amine, (11) tempobutanamide, (111) tempone en solution dans 
+NaDBP/H20, XM = 0,13. Le trait pointill6 correspond a la transition 
+
+entre les phases lamellaire et isotrope. Les facteurs preexponentiels et 
+les energies d'activation sont donnes dans le Tableau 2. 
+
+Les spectres de la tempoamine polyorientte ou partiellement 
+orientte (Fig. 11) ont Cti: enregistrts immtdiatement aprks la 
+
+transition 111 + I (280 K) puis aprks recuit de l'tchantillon 
+
+jusqu'i 320 K, quelques degres au-dessus de la transition I + 
+11 (-325 K). Les spectres correspondant aux orientations $ = 
+0" et $ = 90" de la cellule rectangulaire montrent que la tempo-
+
+FIG. I I. Spectres de la tempoamine en phase lamellaireXM = 0,13 
+a 290 K, avant richauffement i la transition lamellaire + isotrope. A: 
+
+Orientation aleatoire des radicaux; B: radicaux partiellement orientks 
+dans le plan de la cellule rectangulaire (AO,,, = 4O0, Oo = 90'). (-) 
+Spectres expCrimentaux; (---) spectres calculks avec: TO = 2,5 x lo-' 
+s; 7 2 = 5 X lo-" s; S I I = 0,73; SZZ = -0.46; S33 = -0,27. 
+
+L'klargissement inhomogene est introduit par convolution gaussienne 
+du spectre avec AS' = 0,8 G. 
+
+amine se rtoriente prtftrentiellement autour de l'axe N-O' 
+(Ali = 10,7 G, A, = 18,4 G, gil = 2,0085, g, = 2,005) et que 
+le directeur AL est orient6 en moyenne parallelement au plan de 
+la cellule. La simulation de ces spectres indique en outre que 
+la distribution angulaire statique de AL peut Stre representee par 
+une gaussienne de largeur 40" centrte sur 0, = 90". 
+Aprks rtchauffement de l'tchantillon au-dela de la transition 
+entre la phase lamellaire et la phase isotrope, puis re-
+froidissement lent dans le champ magnetique, on observe un 
+alignement de l'axe N-0 de la tempoamine selon l'axe de 
+l'tchantillon. La rotation de l'tchantillon autour de cet axe 
+n'entraine qu'une faible difference entre les spectres en-
+registrts selon les orientations $ = 0 et $ = 90°, dont on peut 
+rendre compte par une distribution ttroite d'orientation de A, 
+
+autour des angles +, = 90" et 0, = 90" (Fig. 12). Ce com-
+
+portement que I'on observe tgalement par rmn de 2H et 31P (2) 
+correspond a une orientation de AL perpendiculaire au champ 
+magnttique. 
+Pour une orientation perpendiculaire de la cellule par rapport 
+i B, ($ = O), le spectre rpe de la tempoamine est pratiquement 
+symttrique par rapport i la ligne de base (Fig. 12). L'ecart 
+hyperfin de ce spectre et le facteur g de la raie centrale qui 
+
+varient de 18,3 G i 18,l G et de 2,0053 i 2,005 1 entre 295 K 
+
+et 325 K (Tableau 2) donnent les valeurs moyennes de para-
+metres d'ordre S , , = 0,6, Sz2 = -0,35, S33 = -0,25. 
+Dans I'hypothkse d'une reorientation axiale, S33 est donnt 
+par la relation [13]. On montre facilement que les autres para-
+mktres d'ordre peuvent s'tcrire: 
+Can. J. Chem. Downloaded from www.nrcresearchpress.com by 87.160.185.190 on 03/27/14 
+
+For personal use only. 
+
+
+CHACHATY 
+
+TABLEAU 2. Pararnktres d'ordre et temps de correlation de rkorientation des radicaux nitroxydes en 
+phase lamellaire NaDPB/H20 (XM = 0.13) 
+
+T (K) 
+
+Ternpoarnine 
+SI I 
+0,608 
+0,606 
+0,603 
+0,603 
+0,597 
+Szz 
+-0,352 
+-0,355 
+-0,357 
+-0,357 
+-0,362 
+
+s 3 3 
+
+-0,256 
+-0,251 
+-0,246 
+-0,246 
+-0,235 
+
+T (K) 
+
+288 
+293 
+303 
+308 
+313 
+
+Ternpone 
+SI I 
+0,1396 
+0.1385 
+0,1403 
+0,1474 
+0,1514 
+
+szz 
+
+-0,1083 
+-0,1005 
+-0,0985 
+-0,1034 
+-0,1054 
+
+s 3 3 
+
+-0,0314 
+-0,038 
+-0,0425 
+-0,044 
+-0,046 
+Tempobutanarnide 
+
+Temps de corrClation 
+
+Tempoarnine 
+( T R ) . ~~~) = 2-35 X lo-' S, E = 3.75 kcal rnol-' 
+T(K) 
+288 
+292 
+296 
+30 1 
+306 
+3 16 
+
+Dll/D I 
+
+6 
+8 
+9 
+10 
+I 1 
+9 
+
+Ternpone 
+
+Dl l 
+
+( T R ) &gt; ( ~I = 1.1 X 1 0 -~" s , 
+E = 5.9 kcal mol-I ---2.5 ? 0,5 
+
+' D l 
+
+Tempobutanarnide 
+
+Dl l 
+
+( T ~) ~( ~~ 
+
+= 1.15 X lo-' S, E = 5.6 kcal rnol-' --
+
+' D l 
+
+-I 
+
+FIG. 12. Spectres de la tempoarnine orientCe par refroidissernent de 
+
+1'Cchantillon dans le champ rnagnktique, a partir de la phase isotrope 
+
+(XM = 0,13). (-) Spectres experimentaux; (---) spectres calculCs a 
+
+partir des parametres du Tableau 2. Le spectre correspondant a + = 
+
+90" est calculC pour une distribution gaussienne d'orientations de A, 
+
+avec A&amp;,, = lo0, 80 = 90", A+,,, = 25", 4o = 90" (Cq. [15]). La 
+distribution des angles 4 n'a pas -d'influence sur les spectres corres-
+
+pondant it + = 0" alors que la distribution des angles 8 contribue it 
+
+IIClargissernent inhomogkne des raies. 
+
+S l l = I F2 (cos p') [3 sin2 P cos' y -I ] 
+
+2 
+
+P O I 
+
+S,, = F, (COS p') [3 sin2 p sin2 y -I] 
+
+2 -
+
+ou y dtsigne l'angle azimuthal de A, dans le systerne d'axes 
+
+rnoltculaires x, y , z (Fig. 4), ici tgal a ztro, etant donnt la 
+
+syrnktrie du radical ternpoarnine. L'angle P entre AM et I'axe z 
+
+des tenseurs A et g est alors donnt par la relation: 
+
+~3 1 1 p = arccos I P-
+
+L 3 (P 1 : )1' 21 
+
+que l'on dtduit des tquations [13] et [30] en prenant p = ( S I l 
+
+-S,,)/S,3. On obtient ainsi P -72" soit une dtviation de 18" 
+
+entre les axes x et AM, avec F, (cos p') -0,7. 11 est peu 
+
+probable qu'une telle deviation corresponde a la rtalitk, d'une 
+
+part parce que la rpe et la cristallographie des nitroxydes Ctu-
+dits ici indiquent que l'angle entre l'axe x et l'ax'e de rnoindre 
+inertie (direction N-0') 
+ne dtpasse pas 10" (6), d'autre part 
+parce que le rneilleur accord entre les largeurs de raies calculees 
+
+et observtes est realiste pour p = 90" et F, (cos p') = 0,6. 11 
+
+n'est pas exclu que la difftrence entre cette valeur effective de 
+
+l'angle P et celle donnee par la relation [3 11 rtsulte de ce que 
+
+le tenseur de diffusion rnoleculaire n'est pas parfaiternent axial, 
+cornrne nous l'avons adrnis en prenant pour simplifier les cal-
+
+culs de largeurs de raies, Dl, = D ,r,,, D, = (D!.. + D;;). 
+
+La dynarnique de rtorientation de la ternpoarnine a t t t dtter-
+rninee a partir des largeurs de raies rnesurtes sur les spectres 
+
+syrnktriques obtenus pour l'orientation I) = 0 de 1'Cchantillon 
+par rapport au champ rnagnktique (Fig. 12). Pour cela on a 
+utilist un programme qui recherche par la rnethode des rnoin-
+dres carrCs le meilleur accord entre les largeurs de raies et celles 
+calcultes a partir des relations [4]-[13] en prenant cornrne 
+Can. J. Chem. Downloaded from www.nrcresearchpress.com by 87.160.185.190 on 03/27/14 
+
+For personal use only. 
+
+
+CAN. J. CHEM. VOL. 62. 1984 
+
+FIG. 13. Spectres de la tempone i 300 K (XM = 0.13). Les paramttres utilisCs pour la simulation de ces spectres sont donnCs dans le Tableau 
+
+2, avec une distribution gaussienne d'orientations de AL de largeur A@,, = 25" autour de 0,) = 90" et une largeur inhomogtne de raie de 0,3 G. 
+
+pararnetres ajustables TO, T? et donc DII/D,, ainsi que la largeur 
+inhomogene de raie AB' (eq. [22] que l'on trouve comprise 
+entre 0,8 et 1 G. La validitt de cette mtthode a ett vtrifite par 
+simulation des spectres, pour une forme Lorentzienne de raie 
+(Fig. 12). Dans tout le dornaine de ternptrature ttudit, on 
+observe que 7 2 G TO, ce qui indique une rtorientation rapide 
+
+autour de l'axe AM. Le rapport DII/D, varie de 5 a 1 1 entre 295 
+
+K et 325 K (phase larnellaire) et dirninue a 3 en milieu isotrope. 
+Que l'on envisage une rtorientation par sauts ou une diffusion 
+brownienne, ce rapport est beaucoup plus tlevt que celui au-
+quel on peut s'attendre d'aprbs les dimensions rnoltculaires de 
+la ternpoamine, comparables a celles de la ternpone que nous 
+verrons plus loin. L'association par liaison hydrogene de la 
+tempoamine avec les groupes phosphates du NaDBP est sug-
+
+gtrte par la valeur quasi tquivalente du parametre F2 (cos P') 
+
+que l'on obtient par rpe (Tableau 2) et par rmn du phosphore. 
+On note Cgalement sur la figure 10 que T, est du m&amp;rne ordre 
+de grandeur que le temps de corrtlation du rnouvernent de 
+nutation de l'axe z du groupe phosphate (Fig. 8) avec Eo = 3.75 
+kcal mol-' pour la tempoarnine et Eo = 4.3 kcal mol-I pour ce 
+
+. . 
+
+groupe. 
+Des exptriences similaires ont ett effectutes sur la tempone 
+dissoute en phase larnellaire. Les spectres obtenus pour les 
+
+orientations IJJ = 0 et IJJ = 90" de la cellule rectangulaire (Fig. 
+
+13) ont t t t interpretts comme pour la tempoamine par une 
+orientation de N-0 en moyenne parallele au plan de la cellule 
+avec une distribution angulaire de largeur -25" autour de €I0 = 
+90". Les positions des singularitts du spectre correspondant a 
+
+IJJ = 90" donnent en moyenne SII = 0,14, S22 = -0,lO et S33 
+
+= -0,04. Les relations [13] et [31] nous donnent f 3 = 67" et 
+
+F2 (cos p') 2 0,15, cependant ici encore les amplitudes rela-
+
+tives et les largeurs de raies calcultes concordent mieux avec 
+
+l'exptrience pour P = 90". 
+
+La dynarnique de rtorientation de la tempone en phase 
+lamellaire a t t t ttudite en dtterminant TO et DII/D, par com-
+paraison des amplitudes relatives de raies lo/l+l et I-,/I+, du 
+
+. . . . 
+
+spectre experimental obtenu pour IJJ = 0, avec celles calcultes 
+
+en fonction de ces deux pararnetres, pour une distribution gaus-
+sienne d'orientations de AL de largeur 25" autour de €I0 = 90". 
+
+En phase larnellaire, le rapport Dli/D, = 2,5 + 0,5 est net-
+
+tement superieur a la valeur de 1,36 calculteoa partir des dimen-
+sions rnoltc~laires~de la tempone d,. = 4,2 A selon la direction 
+
+N-q, d;, = 2,7 A dans le plan de symttrie rnoltculaire et d,, 
+
+= 3 A (7). En phase isotrope on obtient par contre Dil/D, = 
+
+1 avec TO = T~ = 6 X lo-'' s a 330 K. En phase larnellaire 70 
+
+= T, est inferieur d'un facteur 10 environ a celui de la ternpo-
+arnine (Fig. 10) et comparable a celui des rnolCcules d'eau 
+
+interstitielles mesure par relaxation de ' H et "0 (8 X lo-'' &lt; 
+T, &lt; 2,5 X lo-'' pour 320 &gt; T &gt; 300 K) (2). On note 
+
+tgalement que les pararnetres d'ordre Sf; augrnentent en valeur 
+absolue avec la temperature. Ce phtnornbne, pour lequel nous 
+n'avons pas trouvt jusqu'a prtsent d'interpritation satis-
+faisante, est tgalernent observt pour le deuterium (Fig. 1) et 
+l'oxygbne 17 de l'eau (2). Ces deux faits nous suggerent que 
+l'anisotropie de rtorientation de la ternpone en phase larnellaire 
+rtsulte de la formation de liaisons hydrogenes entre les rnolt-
+cules d'eau et les oxygenes des groupes nitroxyle et carbonyl 
+qui dtfinissent l'orientation de l'axe de rotation moltculaire 
+AM. 
+
+V. Conclusion 
+Ce travail, men6 en parallkle avec des exptriences de reso-
+nance nucltaire, constitue une premiere partie d'une ttude sur 
+la dynamique et l'orientation molkculaire dans les phases cris-
+tallines liquides provenant de solutions aqueuses concentrkes 
+d'alkylphosphates. 
+Le spectre rpe de l'ion vanadyle, l i t au groupe phosphate, 
+permet de mesurer, en compltrnent de la relaxation de "P, la 
+mobilite moltculaire a l'interface des dornaines polaire et non 
+polaire de la mtsophase. 
+La tempobutanamide effectue un rnouvement de rtorien-
+
+tation quasi-isotrope avec un parametre d'ordre moltculaire &amp; 
+(COS p') = 0 en raison soit de rotations internes multiples, soit 
+
+d'une dtsorganisation du rtseau bidirnensionnel de la mtso-
+phase due a la dimension de ces sondes, comparable a celles de 
+dibutylphosphate. 
+La ternpone et la tempoamine sont localistes dans les cou-
+ches polaires de la rntsophase et se reorientent prtftren-
+Can. J. Chem. Downloaded from www.nrcresearchpress.com by 87.160.185.190 on 03/27/14 
+
+For personal use only. 
+
+
+CHACHATY 
+
+1257 
+
+tiellement autour de la liaison N-0 
+
+dont I'orientation 
+moyenne est parallkle au directeur de la phase lamellaire. Bien 
+a u e ces d e u x sondes aient des dimensions molCculaires com-
+parables, les temps de correlation de reorientation et le para-
+
+mktre d'ordre P2 (cos P') sont beaucoup plus importants pour 
+
+la tempoamine que pour la tempone. I1 est probable que la 
+
+tempoamine forme a la fois des liaisons hydrogkne avec I'eau 
+
+et avec les oxygknes d'un groupe phosphate alors que la 
+tempone ne se lie qu'aux mol~cules d'eau. Ces interactions 
+paraissent seules susceptibles d'expliquer la forte anisotropie. 
+de reorientation de ces deux radicaux nitroxydes en phase 
+lamellaire. 
+
+1. S. BELAID et C. CHACHATY. J . Colloid Interface Sci. 86, 277 
+(1982). 
+2. C. CHACHATY et J. P. QUAEGEBEUR. J. Phys. Chem. 87, 4341 
+(1983). 
+3. L. J. BERLINER (Edlteur). Spin labelling, theory and applications. 
+Vol. I et 11. Academic Press, New York. 1976 et 1979. 
+4. H. SCHINDLER et J. SEELIG. J. Chem. Phys. 59, 1841 (1973). 
+5. J. SEELIG. Dons Spin labelling, theory and applications. Vol. I. 
+Edire' par L. J. Berliner. Academic Press, New York. 1976. 
+Chap. 10. 
+6. J. LAJCZEROWITZ-BONNETEAU. Dnns Spin labelling, theory and 
+applications. Vol. I. Ed&amp; por L. J. Berliner. Academic Press, 
+New York. 1976. Chap. 6. 
+7. J. S. HWANG, R. P. MASON, L. P. HWANG et J. H. FREED. J. 
+Phys. Chem. 79, 489 (1975). 
+8. E. MEIROVITCH. J. Phys. Chem. 87, 845 (1983). 
+
+, 9. H. M. MCCONNELL. Dons Spin labelling, theory and applica-
+
+1 
+
+tions. Vol. I. Edirt par L. J. Berliner. Academic Press, New 
+
+1 
+
+York. 1976. Chap. 13. 
+
+10. P. L. NORDIO. Dons Spin labelling, theory and applications. Vol. 
+I. Edirt par L. J. Berliner. Academic Press, New York. 1976. 
+Chap. 2. 
+1 1. J . H. FREED. J. Chem. Phys. 66, 4183 (1977). 
+12. G. R. LUCKHURST et C. ZANNONI. Proc. R. Soc. Lond. Ser. A, 
+353, 87 (1977). 
+13. C. ZANNONI, G. F. PEDULLI. L. MASOITI et A. SPISINI. J. Magn. 
+Reson. 43, 143 (1981). 
+14. J. H. FREED. Dons Spin labelling, theory and applications. Vol. 
+I. Edirt par L. J. Berliner. Academic Press, New York. 1976. 
+Chap. 3. 
+15. W. J. LIN et J. H. FREED. J. Phys. Chem. 83, 379 (1979). 
+16. 0. H. GRIFFITHS et P. C. JOST. Dons Spin labelling, theory and 
+applications. Vol. I. Edirt par L. J. Berliner. Academic Press, 
+New York. 1976. Chap. 12. 
+17. G. R. LUCKHURST, M. SETAKA et C. ZANNONI. Mo1. Phys. 28, 
+49 ( 1974). 
+18. W. GORDY. Theory and applications of electron spin resonance. 
+John Wiley. New York. 1980. Chapt. 5. 
+19. B. BLEANEY. Proc. Phys. Soc. 75, 62 1 (1960). 
+20. R. W. KREILICK. J . Chem. Phys. 46, 4260 (1967). 
+21. J. LABSKY, J. PlLARetJ. LOVY. J. Magn. Reson. 35,515 (1980). 
+22. R. F. CAMPBELL et M. W. HANNA. J . Phys. Chem. 30, 1892 
+(1976). 
+23. G. V. BRUNO, M. P. EASTMAN et J. K. HARRING. J. Phys. Chem. 
+81, 1 1 1 (1977). 
+24. R. F. CAMP BELL^^ J. H. FREED. J. Phys. Chem. 84,2666 (1980). 
+25. C. F. POLNASZEK, D. MARSH et I. C. P. SMITH. J. Magn. Reson. 
+43, 54 (1981). 
+26. G. M. BARROW. Physical chemistry. McGraw Hill, New York. 
+1973. pp. 535-536. 
+
+Can. J. Chem. Downloaded from www.nrcresearchpress.com by 87.160.185.190 on 03/27/14 
+
+For personal use only. 
+
+
+
+	
+

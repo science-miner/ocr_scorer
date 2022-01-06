@@ -1,0 +1,607 @@
+
+	
+
+		
+
+	
+
+	
+
+Regioselectivite de la reaction des radicaux hydroxyle 
+et hydroxy-2 propyle-2 avec l'hypoxanthine 
+
+JEAN ZYLBER, NICOLE ZYLBER ET DANIEL LEFORT 
+
+Laboratoire d'e'lectrochimie ratalyse et synth2se orgnr~iqlre, Centre r~ntior~al rle la recherche scierltijqrte, 2 , rue H. Dunarlt, 
+94320 Thinis, France 
+
+CHRISTIANE FERRADINI 
+
+Laborntoire de chimie physique, Universite' Rent Descnrtes, 45, rrte drs Snir~ts-Psres, 75270 Paris CEDEX 06, Frar~ce 
+
+BERNARD HICKEL 
+
+Institrtt de recherche et de cle'veloppement ir~dustriel -De'parternerlt de physico-chirnie -Service de chirnie tnole'culnire -
+Unite' nssociie art Cer~tre rlational de la recherche scierltijque, r~" 331. Cer~tre d'irltrles rl~tcle'nires de Snclny, 
+B. P. no 2 , 911 90 Gif-srtr-Yvette, France 
+R e p le 17 fCvrier 1987 
+
+JEAN ZYLBER, NICOLE ZYLBER, DANIEL LEFORT, CHRISTIANE FERRADINI et BERNARD HICKEL. Can. J. Chem. 66, 283 
+
+(1988). 
+La rtactivitk des radicaux OH et (CH,),COH avec I'hypoxanthine a CtC CtudiCe dans des conditions d'irradiation y 
+comparables. Une diffkrence de rCgiosClectivitC de l'attaque du radical OH, Clectrophile, et du radical (CH3)2COH, nuclCophile, 
+est mise en Cvidence. Ce dernier conduit au produit substituC en C-8 avec un rendement de 70%; la constante de vitesse d'addition 
+
+du radical 21 l'hypoxanthine dCterminte, en milieu acide, par radiolysepulsCeest k = 1,4 X 10' M-I S-I, et k = 7 x 10' M -' S -I 
+
+en milieu neutre. Le radical OH, beaucoup plus rCactif, conduit essentiellement a des produits de dCgradation dont le point de 
+depart serait, entre autres, l'attaque en C-2 (donc formation de xanthine qui disparait rapidement); l'attaque en C-8, environ trois 
+
+fois moins rapide, conduit a la dictto-6,8 purine qui rtsiste aux rCactions ultCrieures et s'accumule dans le milieu. 
+
+JEAN ZYLBER, NICOLE ZYLBER, DANIEL LEFORT, CHRISTIANE FERRADINI, and BERNARD HICKEL. Can. J. Chem. 66, 283 
+
+(1 988). 
+The reactivity of OH and (CH,)~COH radicals with hypoxanthine was studied under comparable ,y-irradiation conditions. 
+A difference in regioselectivity of attack by the electrophilic OH radical and the nucleophilic (CH,),COH radical is observed, 
+the latter leading in 70% yield to a C-8 substituted product. The rate constants of the addition of the radical to hypoxanthine were 
+
+determined by pulse radiolysis to be k = 1.4 X 10' M-' s-' in acid medium, and in neutral medium k = 7 X lo5 M-' S-' . The 
+
+much more reactive OH radical leads essentially to degradation products arising, inter nlin, from attack on C-2 (resulting in 
+the formation of xanthine, which disappears rapidly), while attack at C-8, approximately three times less rapid, leads to the 
+6,8-diketo purine, which does not undergo further reactions and thus accumulates in the medium. 
+[Journal translation] 
+
+L'action des radicaux hydroxyle produits par radiolyse de 
+l'eau sur les bases puriques a fait l'objet de nombreux travaux 
+dans le but de dCterminer le mCcanisme de dCgradation des 
+acides nuclkiques soumis a l'irradiation y (1). 
+La position 6 du noyau purique est le site privilCgiC d'attaque 
+aussi bien des radicaux .OH (2) que des radicaux carbonis (3). 
+De nombreuses Ctudes ont montrC que lorsque cette position 6 
+est substituke, la substitution par des radicaux carbonCs se 
+fait prCfCrentiellement en 8 (4). La comparaison des resultats 
+
+obtenus pour diffkrents moddes a permis a certains auteurs 
+
+(2, 5) de proposer la sCquence de rCactivitC C6 &gt; C8 &gt; C2 
+
+en accord avec les conclusions d'une Ctude thCorique (6). 
+La rCgiosClectivitC de substitution des radicaux .OH sur les 
+bases puriques et en particulier sur l'hypoxanthine, premier 
+maillon de la dCgradation oxydative biochimique, n'est pas 
+aussi Cvidente. En effet, selon certains auteurs, les radicaux 
+.OH produits lors de la radiolyse y de l'eau, en solution 
+oxygCnCe, rCagissent quantitativement avec la double liaison 
+centrale 4,5 pour conduire 
+des produits carbonylCs de 
+dkgradation (7); d'autres auteurs ont montrC que .OH, obtenu 
+partir du rCactif de Fenton, attaque l'hypoxanthine sur le cycle 
+imidazole en position 8 pour donner la dicCto-6,8 purine (2). 
+Cette substitution en 8 a ttC Ctablie Cgalement dans le cas de la 
+radiolyse y de I'adCnine (8). Par ailleurs, l'un d'entre nous (9) 
+a montrC par une Ctude de radiolyse pulsCe, que la rkaction de 
+
+1. Revision reque le 30 septembre 1987. 
+
+.OH sur l'hypoxanthine conduit principalement a la xanthine. 
+Ni les Ctudes thCoriques (10, 1 l), ni les analyses de spectres 
+(resonance paramagnttique Clectronique) (12) ne permettent 
+de prtvoir ou d'expliquer sans ambigui'tC les rksultats expCri-
+mentaux; dans le premier cas l'ordre de rCactivitC d'un radical 
+sur les diffCrents atomes de carbone du noyau purique varie 
+selon la mCthode de calcul; dans le second, si le spectre du 
+radical rCsultant de l'addition de .OH en 8 est parfaitement 
+dCfini pour le cas de la cafkine, il n'en est pas de m&amp;me pour 
+ceux obtenus avec les purines non substitukes en 2 ou 6. 
+Pour lever cette ambigui'tC d'attaque par .OH en 2 ou en 8 
+nous avons donc CtudiC les produits obtenus lors de la radiolyse 
+y d'une solution aqueuse d'hypoxanthine dCsaCrCe et saturCe 
+en N20. Les radicaux .OH sont produits par les processus bien 
+connus : 
+
+Puisque la rCactivitC et la rCgiosClectivitC d'un radical 
+dipendent, pour un substrat donnC, de son caractttre nuclCophile 
+ou Clectrophile (13, 14), il Ctait intkressant de comparer les 
+rksultats obtenus, dans les m&amp;mes conditions expCrimentales, 
+avec le radical .OH Clectrophile et avec un radical nucltophile 
+comme le radical 1 (hydroxy-2 propyle-2). 
+Celui-ci est form6 lors de la radiolyse d'une solution aqueuse 
+d'isopropanol; conformCment aux travaux pricedents (4), la 
+
+Pnmcd In Canada 1 Inipr~nie au Canada 
+
+Can. J. Chem. Downloaded from www.nrcresearchpress.com by 87.160.185.190 on 03/27/14 
+
+For personal use only. 
+
+
+284 
+
+CAN. J . CHEM. VOL. 66. 1988 
+
+reaction avec l'hypoxanthine se dkroule selon le schema 
+classique de substitution aromatique homolytique (14, 15) : 
+
+CH3 
+CH3 
+
+I 
+
+kl 
+
+I 
+
+[a] -OH + H-C-OH 
+d H 2 0 + , C-OH 
+
+I 
+
+I 
+
+k4 
+
+[dl ~( C H ~) ~~O H 
+
+-Produits non radicalaires 
+
+TABLEAU 1. Disparition de l'hypoxanthine 2 (2,2 X 
+M 
+en solution aqueuse) par irradiation y (1055 rad/min) au 
+cours du temps 
+
+Temps (h) 
+2 restant (%) 
+712" x 10"/ 22t 
+X 10' 
+
+*2 restant. 
++2 consommC 
+
+(0,5 mol) de propanol-2 dans 500 mL d'eau, saturCe en N20, est 
+irradiCe pendant 16 h. La solution est ensuite IyophilisCe; le rCsidu 
+obtenu est chromatographiC sur Si02 (70-230 mesh); par Clution avec 
+
+CHC13 a 10% MeOH on obtient une fraction brute de 219 mg dont le 
+
+dosage par rmn 'H permet de dCterminer la presence de 100 mg 
+
+de produit 4 (73% par rapport l'hypoxanthine ayant rCagi). La 
+
+cristallisation dans l1acCtate d'Cthyle fournit 20 mg d'un Cchantillon pur 
+d'(hydroxy-2' mCthyl-2' ethyl)-8 hypoxanthine; F = dCcomposition 
+au dessus de 350°C; uv (EtOH) : A,,, 
+= 250 nm (log E = 4,05); 
+rmn 90 MHz (DMSO-d6) 8 : 1,53 (S, 6H, 2CH3, C-8 dimethylcarbi-
+nol), 7,93 (S, lH, H en 2). Ce signal persiste aprks chauffage a 
+
+reflux dans DzO. Masse, m/e : 194. Anal. calc. pour CaHloN40r + 
+
+1/2H20 : C 47,28, H 5,41, N 27,41; t r o d : C 48,08, H 5,25, 
+N 27,58. 
+
+(Hydroq-2' me'thyl-2' ethyl)-8 cafe'ine 5 
+Une solution de 0,970 g (5 mmol) de cafCine et 30 g (0,5 mol) de 
+propanol-2 dans 500 mL d'eau, saturCe en NzO, est irradiCe pendant 
+16 h. L'extraction avec CHCI3 donne 1 g de produit. Par chromatogra-
+phie sur silice (70-230 mesh) et Clution parl'acCtated'Cthyleon obtient 
+
+L~ produit 4 a deja ete 0bte.u par d7autres rnkthodes 
+
+0,240 g de produit 5 chromatographiquement Pur (95% par rapport 
+
+photochirniques uv avec ou sans sensibilisateur ( 5 , 16). De plus, 
+
+a la cafCine ayant rCagi). La cristallisation dans un melange acCtate 
+d'Cthyle-mCthanol fournit 170 mg de cristaux, pf 200-202°C (sublim. 
+
+par radiolyse pulsee, nous awns pu determiner la constante de 
+
+a 1800C) (lit, (5) pf 199-2000C)~ rmn MHz (DMSO-d6) : 
+
+vitesse d'addition du radical 1 sur l'hypoxanthine et la cornparer 
+
+(S, 6H, 2CH3, C-8 dimCthylcarbinol), 3,4 (S, 3H), 3,6 (S, 3H), 4,25 
+
+2 celle obtenue prkckdemrnent pour .OH (9). 
+(S, 3H) (3CH3 en N-1 , N-3 et N-7); masse, m/e : 252. Anal. calc. pour 
+
+Partie experimentale 
+
+Le dkroulement de la reaction est suivi par ccm (chromatographie sur 
+couche mince) sur gel de silice (Kieselgel60F2.54, Merck). Les points 
+de fusion sont pris sous microscope. Les chromatographies hplc sont 
+effectuCes avec un appareil Varian 5000 muni d'un dCtecteur uv 
+Shirnadzu SPD/6A. Les spectres de masse sont obtenus avec un 
+
+appareil de Ribermag 10-10. Les spectres de rmn sont enregistrks i 90 
+
+ou 200 MHz sur des appareils Bruker. Les dkplacements chimiques 
+sont exprimCs en ppm avec le tCtramCthylsilane cornrne rCfCrence 
+interne. Les analyses sont exCcutCes par le Service central d'analyse du 
+C.N.R.S. Toutes les expCriences ont Ct C effectuCes sur des solutions 
+aqueuses prkalablement saturCes en N 2 0 et irradiCes l'aide d'une 
+
+source de 6 0 ~o a une dose de 1055 rad/~nin.~ 
+
+Matiires premiPres 
+Les matikres prernikres sont des produits commerciaux : hypoxan-
+thine (Ega), acide urique (Aldrich), xanthine (Fluka), thymidine 
+(Sigma). 
+Les solvants pour hplc sont des produits Carlo Erba. 
+
+(Hydroq-2' me'thyl-2' Pthy1)-8 hypoxanthine 4 
+Une solution de 0,340 g (2,5 mrnol) d'hypoxanthine et 30 g 
+
+2. L'Ctape d'oxydation [c] peut se faire par diffkrents processus 
+selon la nature du milieu : dismutation avec un autre radical, oxygkne 
+
+de l'air, etc ... 
+
+3. Nous rernercions M. Chapiro, C.N.R.S. a Thiais, d'avoir rnis a 
+
+notre disposition l'installation d'irradiation y . 
+
+CllH16NJ03 : C 52,37, H 6,39, N 22,21; trouvC : C 52,32, H 6,33, 
+N 22,6. Par Clution avec un mClange d'acCtate d'Cthyle -mkthanol 
+(99 : 1) on rCcupkre 0,776 g (80%) de la cafkine de dCpart. 
+
+Irradiation de I'hypoxanthine dans H20. Dice'to-6,8 purine 7 
+Une solution de 0,3 g (2,2 rnmol) d'hypoxanthine dans 500 rnL 
+d'eau bidistillke, saturCe en N20, est irradiCe pendant 8, 16, 24 et 
+48 h. Pour chaque pCriode la solution est 1yophilisCe; le produit obtenu 
+est analysC par hplc; colonne Lichrosorb SRP 18, 150 X 46 mm; Cluant 
+eau/CH3C02H/MeOH = 7 9 3 : 0,5 : 20. DCtection a 270 nm. Dosage 
+
+de l'hypoxanthine par rapport a la thyrnidine comme Ctalon interne. 
+
+RCsultats tableau 1. Temps de rktention (min) : acide urique, 3,3; 
+dicCto-6,8 purine 7, 3 3 ; xanthine, 3,9; hypoxanthine, 4,2. DCbit 
+0,7 mL/rnin. 
+
+Isolement et identification du produit 7 
+Le mClange de produits obtenu aprks 48 h d'irradiation est 
+chromatographi6 sur Si02 (200-400 mesh) sous pression (technique 
+chromatographie ((flash,, et CluC par CHC13/MeOH/NH40H 16 M : 
+40 : 10 : 1. On obtient 0,024 g de produit chrornatographiquement pur 
+(7% par rapport 3 l'hypoxanthine de dCpart). La cristallisation dans un 
+rnklange eau/MeOH fournit 8 mg de cristaux, pf : dCcomp. au dCla de 
+350°C; les spectres uv sont diffkrents de ceux de l'hypoxanthine et de 
+la xanthine; aux pH 1 et 5, A,, 
+= 257 nm (log E = 4,05) avec un 
+
+Cpaulement caractCristique a 280 nm (log E = 3,77); a pH 10, A, , , = 
+
+265 nm (log E = 4,04), a pH 12, A, , , = 271 nm (log E = 4,l) (17); 
+rmn 90 MHz (DMSO-d6) 8 : 7,88 (S, lH, H en 2), 11,07 (S, IH, 
+Cchangeable), 11,95 (S, 2H, Cchangeable); masse, m/e : 152, 124 
+(perte CO), 101 (pic mktastable). 
+
+Can. J. Chem. Downloaded from www.nrcresearchpress.com by 87.160.185.190 on 03/27/14 
+
+For personal use only. 
+
+
+ZYLBER ET AL. 
+
+Re'action de l'hypoxanthine avec le propanol-2 en radiolyse pulse'e 
+
+Une solution aqueuse a pH 0,95 d'hypoxanthine (l,9 X 
+
+M), de 
+propanol-2 (0,75 M) et de HC104 (0,117 M) est soumise a la radiolyse 
+pulsCe. 
+La source d'Clectrons est un accClCrateur type Febetron 707 situC au 
+CEN de Saclay (DPC) ( I 8). Dans cet appareil la dtcharge d'une strie 
+de modules comportant chacun deux rCsistances, deux condensateurs et 
+
+un Cclateur, est appliquCe une cathode a Cmission de champ contenue 
+
+dans un tube sous vide. Une sClection magnCtique des Clectrons de 
+1,8 MeV est alors utiliste pour rCduire la durte de l'impulsion aenviron 
+20 nanosecondes. Ces solutions sont contenues dans une cellule en 
+Spectrosil (2,5 X 2,5 X 0,25 cm). A chaque impulsion 1'Cnergie 
+absorbCe par la solution varie entre 70 et 700 Gray de sorte que la 
+concentration initiale en radicaux libres .OH est comprise entre 4 x 
+et 4 X 
+M. 
+L'analyse spectrophotomCtrique est effectute par un montage 
+optotlectronique classique incluant une lampe au xCnon, un mono-
+chromateur et un photomultiplicateur. Le trajet optique est de 2,5 cm. 
+Pour chaque longueur d'onde CtudiCe, le changement d'absorption est 
+analysC en fonction du temps, le dCbut de l'impulsion Ctant pris comme 
+origine de 1'Cchelle des temps. 
+
+Resultats et discussion 
+
+FIG. 1. Spectre differentiel d'absorption uv d'une solution aqueuse 
+d'hypoxanthine ( I ,9 X lop3 M ) et de propanol-2 (0,75 M); 10 ps 
+aprks l'impulsion; pH 0,95 (HCIO, 0,117 M). 
+
+A. Re'action avec le propanol-2 
+1. Produit de re'action 
+Une solution aqueuse d'hypoxanthine (5 x lop3 M) conte-
+nant de l'isopropanol(1 M) est irradiee sous N20 a tempkature 
+ambiante end ant 16 h. Le taux de conversion est de 28%: le 
+
+une dose de 700 Gray environ, prksente un maximum a 285 nm 
+
+(fig. 1). Celui de l'hypoxanthine substitute 4 donne, en milieu 
+neutre, deux maxima h 202 et 250 nm. Le dtplacement 
+
+produit 4, identifit par rmn et sm, est obtenu avec des 
+rendements respectifs de 20 et 7 1 % par rapport A l'hypoxanthine 
+mise en oeuvre ou ayant rtagi. Les 29% de produits secondaires 
+formts n'ont pas Ct C identifiks; toutefois aucun d'eux ne 
+
+bathochrome est donc conforme a ce que l'on sait des spectres 
+uv des radicaux libres (15). 
+En milieu acide la rtaction d'addition du radical hydroxy-
+correspond au composk substitut en 2. Le produit disubstitut en 
+2 et 8 a kt6 isolk en trks petite quantitt. Ce rtsultat montre que 
+
+l'ordre de rtactivitt est bien C8 &gt;&gt; C2. 
+
+propyle 1 sur l'hypoxanthine est rapide. On peut suivre en 
+fonction du temps l'apparition du radical 3 h 300 nm qui suit 
+une cinttique de pseudo premier ordre avec un coefficient de 
+corrklation de 0,999. En effet, la concentration initiale de 
+
+l'hypoxanthine (1,9 X lop3) est 40 fois suptrieure a celle du 
+
+radical hydroxypropyle 1. La valeur de la constante de vitesse 
+de la rtaction [b] est alors kJacide) = 1,4 x 10' M-'s-'. 
+
+Dans ce systkme, le fait que les radicaux .OH rkagissent 
+exclusivement avec l'isopropanol selon [a] pour conduire 
+finalement au produit 4 plut6t qu'avec l'hypoxanthine (vide 
+infra) n'est passurprenant. En effet, les constantes de vitesse de 
+.OH avec l'hypoxanthine et avec l'isopropanol sont respective-
+ment de 6,5 x lo9 M-'s-' (9) et environ de 2 x lo9 M-'s-' 
+I1 est intkressant de comparer cette valeur a celles dtja 
+connues pour des rtactions de substitution homolytique de 
+bases hktCroatomiques4 dont la rtactivitk vis-h-vis de radicaux 
+
+(19). Mais comme la concentration en isopropanol est 200 fois 
+
+suptrieure 5 celle de l'hypoxanthine, la rtaction [a] de OH 
+
+avec l'alcool est environ 60 fois plus rapide. 
+nucltophiles est plus ClevCe sous leur forme protonte que sous 
+leur forme neutre (21) (dans le cas de la pyridine le facteur est 
+
+de 70 environ) . 
+
+Dans les m&amp;mes conditions rtactionnelles nous avons obtenu 
+
+avec la caftine le produit 5 substitut en 8, avec un rendement de 
+
+En milieu neutre, une dktermination directe de k2 n'est pas 
+possible car seulement une faible fraction de radicaux hydroxy-
+propyle 1 rt-gissent sur l'hypoxanthine. Les autres disparais-
+sent par dimCrisation et dismutation selon la rtaction [dl, dont 
+la valeur de la constante de vitesse est k4 = 7 X 10' M-' s-I 
+(22). Ntanmoins, en faisant l'hypothkse que l'absorption h 
+300 nm est due au radical 3 et aue E est du m&amp;me ordre de 
+grandeur en milieu acide et en milieu neutre (23), on peut 
+calculer la fraction des radicaux hydroxypropyle 1 ayant rkagi 
+sur l'hypoxanthine et avoir ainsi une estimation de la valeur de 
+95% par rapport a la caftine ayant rCagi et un taux de conversion 
+analogue a celui obtenu avec l'hypoxanthine. 
+Un tel produit a dkja t t t obtenu par d'autres auteurs (5, 20) 
+k2 en rtsolvant numtriquement le systkme d'kquations difftren-
+tielles simultantes correspondant aux reactions [b] et [dl. On 
+
+trouve alors kZ (neutre) = 7 x lo5 M-' s -I . Celle-ci, comparte 
+
+par irradiation uv ou y . Nos rksultats confirment la grande 
+~Clectivitt du radical nucltophile hydroxypropyle 1 pour le 
+sommet 8, en particulier dans le cas de la cafCine oh la 
+a celle de OH, et dtterminte tgalement en milieu neutre 
+(9) (vide supra), montre que le radical tlectrophile OH est 
+transformation est pratiquement quantitative. 
+
+4. Les constantes de vitesse d'addition d'un radical primaire sur la 
+quinoxaline et la yridine protonCes sont respectivement de 2,7 x lo7 
+et l , l x 10' M-'s-' 
+(21). 
+
+2. Cine'tique d'addition du radical 1 sur l'hypoxanthine 
+L'ttude a Ct C faite en radiolyse pulste; le spectre uv du radical 
+intermtdiaire 3 dttermink 10 ps aprks une impulsion dklivrant 
+
+Can. J. Chem. Downloaded from www.nrcresearchpress.com by 87.160.185.190 on 03/27/14 
+
+For personal use only. 
+
+
+286 
+
+CAN. J. CHEM. VOL. 66. 1988 
+
+beaucoup plus rCactif (environ 10 000 fois) que le radical 
+hydroxypropyle 1 sur l'hypoxanthine. 
+On peut noter qu'en radiolyse y la concentration stationnaire 
+des radicaux hydroxypropyle 1 est de plusieurs ordres de 
+grandeur plus faible qu'en radiolyse pulsCe; par consCquent, 
+dans le premier cas, la rCaction [dl est nCgligeable par rapport 
+a la rCaction [b], mCme en milieu neutre. 
+
+B. Re'actiorz avec les radicaux OH 
+L'action des radicaux .OH sur l'hypoxanthine peut conduire 
+soit a la xanthine 6 (attaque en 2), soit a la dioxo-6,8 purine 7 
+(attaque en 8) : 
+
+Par ailleurs l'attaque sur la double liaison centrale selon 
+Hollian et Garrison (7) conduirait a des produits de dkgradation 
+carbonylCs. En regime permanent de production de .OH, 
+comme c'est le cas dans le prCsent travail, les produits 6 et 7 
+peuvent &amp;tre oxydes en acide urique qui lui-mCme est dCgradC. 
+L'irradiation pendant 48 h d'une solution 5 x lop3 ll1 
+d'hypoxanthine, saturCe en N,O, conduit a un mClange de 38% 
+de produit de dCpart, 6% de dioxo-6,8 purine 7 (caractCrisC par 
+les-spectres uv kt de masse et par hplc) et 56% de produits 
+non identifiCs mais parmi lesquels nous n'avons pu mettre en 
+Cvidence ni xanthine, ni acide urique. 
+Nous avons suivi au cours du temps la disparition de 
+I'hypoxanthine par hplc en utilisant la thymine comme Ctalon 
+interne. Par un traitement de lissage de courbe on trouve que la 
+vitesse de disuarition obCit a une loi d'ordre 0.80. ce aui traduit 
+
+. , 
+
+. 
+
+bien la complexit6 de la rCaction. En l'absence d'un echantillon 
+authentique de dioxo-6,8 purine nous n'avons pu faire de 
+dosage exact de ce composC mais nous avons pu Cvaluer la 
+quantitC formCe par rapport a celle de l'hypoxanthine restante. 
+Les rCsultats donnCs dans le tableau 1 permettent de faire deux 
+constatations : 
+(i) La quantitC de dioxopurine 7 croit au fur et a mesure de la 
+disparition de l'hypoxanthine. 
+(ii) Le rapport de la quantitC de dioxopurine 7 a celle 
+de l'hypoxanthine consommCe reste constant au cours de 
+l'exptrience. 
+Nous pouvons donc conclure que la dioxopurine 7 formCe a 
+partir de l'hypoxanthine ne subit pas ou peu de dkgradation 
+ulttrieure par irradiation. A partir de cette dCduction un 
+raisonnement cinCtique montre que OH est environ 3 fois plus 
+rCactif en position 2, on peut-&amp;tre sur d'autres sites, qu'en 
+position 8.5 
+
+5. A partir du schema : 
+
+.OH 
+
+I . 
+
+b xanthine + autres produits 6 
+
+2 Hypoxanthine 
+
+diceto-6,8 purine 7 
+k7 
+
+Les constantes de vitesse de rCaction de OH sur la xanthine et 
+sur l'hypoxanthine sont i peu pres Cquivalentes (9). NCan-
+moins, nous avons voulu vCrifier la vitesse de disparition de la 
+xanthine dans nos conditions expCrimentales. 
+Dans ce but nous avons irradiC a la mCme dose que prC-
+cCdemment une solution aqueuse 0,87 X 10-% de xanthine. 
+Apres 4 h, l'analyse par hplc montre qu'il reste seulement 5% 
+de produit de dCpart; aucune trace d'acide urique n'a pu Ctre 
+dCtectCe. 
+
+Conclusion 
+Les rCsultats de ce travail permettent de comparer la reactivite 
+et la rCgiosClectivitC des radicaux OH et hydroxy-2 propyle-2 1 
+sur l'hypoxanthine dans des conditions expirimentales compa-
+rable~. 
+Le radical hydroxy-2 propyle-2 1, nucleophile, conduit 
+principalement au produit substituC en C-8 avec un rendement 
+de 70%. Sa constante de vitesse d'addition sur l'hypoxanthine 
+dCterminCe par radiolyse pulsCe est k = 1,4 X 10sM-' s-' en 
+milieu acide et environ 7 x lo5 M-' s-' en milieu neutre. 
+Aucun produit de substitution en C-2 n'est dCcelable. Ceci 
+confirme donc la plus grande rCactivitC d'un radical nuclCophile 
+en C-8 qu'en C-2 (cf. ref. 4 et rCf. 5). 
+Le radical .OH, Clectrophile, tres rCactif (environ 10 000 fois 
+plus que 1) conduit surtout a des produits de degradation. 11 y a 
+tout lieu de penser (cf. rCf. 9) que le premier intermkdiaire est la 
+xanthine, rCsultant de l'attaque en C-2, qui disparait rapidement 
+par rtaction avec .OH. NCanmoins il se forme une certaine 
+quantitC de dicCto-6,8 purine qui resiste aux rCactions ultC-
+rieures. Ce rCsultat suggere que la presence du carbonyle en 
+C-8 diminue considCrablernent la rCactivitC du carbone C-2 ou 
+d'autres sites vis-a-vis de OH. 
+
+Remerciements 
+Nous remercions vivement de Dr Jacques Fossey pour les 
+discussions fructueuses que nous avons eues au cours de ce 
+travail, Mme AndrCe Druilhe pour les analyses qualitatives 
+et quantitatives par hplc et J. Potier pour les experiences de 
+radiolyse pulsCe. 
+
+(a) L. MYERS. Dans Free radicals in biology. Vol. IV. ~d i t e u r : 
+W. Pryor. Academic Press, New York. 1980. p. 95; ( 6 ) J. CADET 
+et M. BERGER. Int. J. Radiat. Biol. 47, 127 (1985). 
+C. NOFRE, A. LEFIER et A. CIER. C.R. Hebd. Seances Acad. Sci. 
+
+253. 687 (1961). . 
+
+, 
+
+3. (a) H. LINSCHITZ et J. CONNOLLY. J. Am. Chem. Soc. 90,2979 
+
+Supposons que le produit 7 ne disparait pas au cours de la reaction; 
+en faisant le rapport des vitesses d'apparition de 7 et de disparition 
+de 2 on obtient : 
+
+En intkgrant entre le temps initial (0) et final (f) 
+
+au temps initial 17 lo = 0, donc : 
+
+En prenant a = 0,26 (tableau I), on obtient k 6 / k 7 = 2,85, c'est-a-
+dire que OH rkagit environ 3 fois plus rapidement sur la position 2 
+(ou peut-&amp;tre sur d'autres sites) qu'en position 8. 
+
+Can. J. Chem. Downloaded from www.nrcresearchpress.com by 87.160.185.190 on 03/27/14 
+
+For personal use only. 
+
+
+ZYLBER ET AL. 
+
+287 
+
+(1968); (b) B. EVANS et R. WOLENDEN. J. Am. Chern. Soc. 92, 
+4751 (1970). 
+4. (a) D. ELAD. Duns Photochemistry and photobiology of nucleic 
+acids. Vol. 1. Editeur : S . Y. Wang. Academic Press, New York. 
+1976. pp. 357-380; (b) D. LEONOV et 0 . ELAD. J. Org. Chern. 
+39, 1470 (1974) (et references contenues); ( c ) M. ZADY et J . 
+WONG. J. Org. Chern. 45, 2373 (1980) (et references contenues). 
+5. H. STEINMAUS, I. ROSENTHAL et D. ELAD. J. Org. Chem. 36, 
+3594 (1971). 
+6. B. PULLMAN. J. Chem. Soc. 1621 (1959). 
+7. ( a ) J. HOLLIAN et W. GARRISON. J. Phys. Chem. 71,462 (1967); 
+(b) J. Chem. Soc. Chern. Commun. 676 (1967). 
+8. J. VAN HEMMEN et J. BLEICHRODT. Radiat. Res. 46,444 (197 1). 
+9. J . SANTAMARIA, C. PASQUIER, C . FERRADINI et J. PUCHEAULT. 
+Radiat. Res. 97, 452 (1984). 
+10. Z. NEIMAN. Isr. J. Chem. 9, 119 (1971). 
+11. T. MASUDA, H. SHINOHARA et M. KONDO. J. Radiat. Res. 16, 
+153 (1975). 
+
+12. J. SCHMIDT et D. BORG. Radiat. Res. 65, 220 (1976). 
+13. F. MINISCI et A. CJTTERIO. Dans Advances in free-radical 
+chemistry. Vol. 6. Editcur : G . Williams. Heyden, London. 
+1980. p. 65. 
+14. F. M I N I ~~I . 
+Top. Curr. Chern. 62, 1 (1976). 
+15. D. NONHEBEL et J . WALTON. Free-radical chemistry. Cambridge 
+University Press, London. 1974. 
+16. S. BOSE et R. DAVIES. Photochern. Photobiol. 31, 195 (1980). 
+17. S. MASON. J. Chern. Soc. 2071 (1954). 
+18. B. HICKEL. J. Phys. Chern. 82, 1005 (1978). 
+19. B. BIELSKI et J. GEBICKI. Dans Free radicals in biology. Vol. 111. 
+Editeur : W. Pryor. Academic Press, New York. 1977. p. 35. 
+20. J. SALOMON et D. ELAD. J. Org. Chern. 38, 3420 ( 1973). 
+21. A. CITTERIO, F. MINISCI, 0 . PORT et G . SESANA. J . Am. Chem. 
+SOC. 99, 7960 (1977). 
+22. M. SIMIC, P. NETA et E. HAYON. J . Phys. Chem. 73, 3794 
+(1969). 
+
+23. P. HOORTHY et E. HAYON. ;. Am. Chem. Soc. 97, 3345 (1975). 
+
+Can. J. Chem. Downloaded from www.nrcresearchpress.com by 87.160.185.190 on 03/27/14 
+
+For personal use only. 
+
+
+
+	
+

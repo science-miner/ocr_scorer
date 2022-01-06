@@ -1,0 +1,776 @@
+
+	
+
+		
+
+	
+
+	
+
+Syntheses et analyses structurales de perchlorates anhydres d'In(II1) et de Tl(II1) 
+M(C104)3 et C102M(C104)4; (M = In, T1) 
+
+MOHIEDDINE FOURATI, MONCEF CHAABOUNI ET HASSINE FERID AYEDI 
+
+~c o l e 
+Nationale d'ltzgtnieurs de Sfax, Laboratoire de Chitnie Physique et Itzorgnt~ique, B.P. W . 3038 Sfax, Tunisie 
+
+ET 
+
+JEAN-LOUIS PASCAL ET JACQUELINE POTIER' 
+Laborrrtoire des Acides MitzCraux, U . A. 79 C.N.R.S., Utliversite des Sciences et Techt~iqrtes du Languedoc, 
+Place EugP.tle Bamillotz, 34060 Mot~tpellier CPdex, France 
+
+R e ~u le 20 mars 1985 
+
+MOHIEDDINE FOURATI, MONCEF CHAABOUNI, HASSINE FERID AYEDI, JEAN-LOUIS PASCAL et JACQUELINE POTIER. Can. J. 
+Chem. 63, 3499 (1985). 
+Les reactions du trioxyde de chlore (C1206) sur les InCI, et TIC13 anhydres ou InCI3,4HIO ont conduit a deux nouveaux 
+perchlorato mCtallates de chloryle C1Ozln(C1O4), et CI02TI(C104)4. Par degradation thermique sous vide dynamique, ces deux 
+sels de chloryle donnent respectivement, vers 80°C, In(C104)3 et TI(C104)3. TI(CI04)3 se transforme des 95°C en T100.s(C_104)2 
+alors que In(C104), est stable jusqu'i 272°C. In(CI04) et TI(CIO,), cristallisent dans le mCme groupe d'espace P3. La 
+meilleure interpretation des spectres de vibration ir et Raman peut Ctre effectute en considerant une molCcule polymere de type 
+Asl,. Les groupes (C104) sont bidentCs en pont et fortement lies au mttal. Les composCs C102M(CI04), (M = In, TI) sont 
+des complexes dCfinis comportant le cation ~1 0 ~' 
+en interaction avec I'anion M(C104)4-. II existe dans cet anion des groupes 
+(Clod) monodentCs et bidentCs. 
+
+MOHIEDDINE FOURATI, MONCEF CHAABOUNI, HASSINE FERID AYEDI, JEAN-LOUIS PASCAL, and JACQUELINE POTIER. Can. 
+J. Chem. 63, 3499 (1985). 
+Reactions of chlorine trioxide (CIZOh) with anhydrous InCI,, TIC],, and InC13.4Hz0 have been investigated. They give two 
+chloryl perchlorato metallates: C10zln(C104)4 and C102TI(CI04)4, which can be decomposed on heating (80°C) under dynamic 
+vacuum. They yield respectively In(CI04), and T1(C104)2. TI(CI04)3 appears to have weaker thermal stability than In(C104)3, 
+which is stable up to272"C; the former decomposes starting at 95°C to give T100.s(C104)2. In(CI04)3 and TI(C104), have the 
+same space group P3. The best assignment of their ir and Raman vibrational spectra can be made on the basis of a polymeric 
+structure (As13 type) with bridging bidentate perchlorato groups strongly bonded to the metal. The C102M(C104)4 (M = In, 
+TI) salts are well defined. The cation C102' is unambiguously characterized; it interacts with the anion M(CI04),-, which has 
+monodentate and bidentate perchlorate groups. 
+
+Introduction 
+L'utilisation d'agents perchloratants efficaces tels que C1206, 
+
+HCIO,, ClCIO,, ... a permis ? I Schmeisser et Brandle (I), Ros-
+
+olovskii et coll. (2), Christe et coll. (3) et nous-mCmes (4) de 
+prtparer plusieurs complexes perchlorato anhydres des mttaux 
+de transition et d'tltments du bloc p. 
+Dans la colonne 111, il a ttC mis en tvidence des complexes 
+de type MCl(ClO,), (M = B (5)); MC12(C10,) (M = B (5) et 
+Ga (6)); M(C104)3 (M = B ( 9 , A1 (2a) et Ga (6)); 
+A,,M(C104)3+,, (M = B, n = 1, A = alcalin, NH,', NO?'; M 
+
+= Al, n = 1, A = CIOzf; I &lt; n &lt; 3, A = alcalin, NH,', NOz+; 
+
+M = Ga, n = 1, A = CIOz+ (5-11). Aucun perchlorate 
+anhydre d'In(II1) ou de Tl(II1) analogue aux prtctdents n'est 
+connu. Seuls sont signalts dans la litterature des perchlorates 
+In(1) et de Tl(1) (12a, 13) ainsi que des complexes de type 
+ML,(CIO,),; M = In, TI, L = base organique (12b, 13). 
+L'ttude des structures de Sn,OzC1,(C1O,),, Sb2C16(0)(0H)-
+(CIO,) par RX (rayons X) (14, 15) et des complexes de type 
+M(CIO4), (M = Cu (1 6a), Co, Ni (1 6b)) par EXAFS (Extend-
+ed X-Ray Absorption Fine Structure) a permis d'affiner les 
+donntes de la spectroscopie de vibration. 
+On a pu Ctablir d'une fason rigoureuse les corrtlations: frC-
+
+quences des vibrations -longueurs des liaisons et nombre de 
+vibrations -gtometrie du ligand (monodentt, bidentt en 
+
+pont, trident6 en pont.) 
+Nous prksentons ici le mode de prkparation des perchlorates 
+anhydres d'indium(II1) et de thallium(II1) et proposons une 
+
+' Auteur a qui adresser la correspondance. 
+
+analyse structurale des composCs obtenus. Cette analyse repose 
+sur les donntes de la spectroscopie de vibration ir et Raman, 
+des diagrammes de poudre X et de rtcents rtsultats en EXAFS 
+sur Ga(ClO,)? (17). 
+
+Partie experimentale 
+
+Attention: Le trioxyde de chlore et les perchlorates anhydres sont 
+des composCs tres rkactifs, particulierement au contact des matieres 
+organiques ou sous les chocs. Les reactions doivent Etre surveilltes 
+attentivement. Les complexes sont extrCment hygroscopiques; ils sont 
+manipules sur une ligne de vide (18) ou dans une boite a gant con-
+tenant de l'azote tres sec. 
+
+Produits de base 
+La preparation et la purification du trioxyde de chlore ont deji Ct C 
+dCcrites (19). InC1, (Alfa Ventron ou Merck pour analyse) et TICI, 
+(Cerac (99,9)) sont utilisks sans purification prealable. 
+InC1,,4H20 est obtenu par recristallisation dans I'eau de InC13 anhy-
+dre et chauffage sous vide a 50-60°C jusqu'i poids constant. 
+
+MPthodes d'analyse 
+Les appareils d'analyse ir, Raman et RX sur poudre ainsi que les 
+mCthodes dlCchantillonnage sont presentkes par ailleurs (4, 5). 
+Pour I'analyse chimique, la mise en solution des perchlorates anhy-
+dres est effectute avec beaucoup de prtcautions (4). Les dosages de 
+In (20), TI (20), de C102' (4, 21) et de CI04-(22) sont effectues 
+gtneralement de f a ~o n classique comme indiqut dans la ICgende du 
+tableau I. Seule I'analyse de 
+dans les complexes du thallium 
+fait I'objet d'une mCthode originale mise au point au cours de ce 
+travail. 
+Par suite d'une reaction de complexation secondaire (23), les com-
+plexes du thallium ne peuvent pas Ctre titrCs par potentiomktrie gr2ce 
+
+Can. J. Chem. Downloaded from www.nrcresearchpress.com by 87.160.185.190 on 03/27/14 
+
+For personal use only. 
+
+
+3500 
+
+CAN. I. CHEM. VOL. 63. 1985 
+
+FIG. 1. Spectres ir et Rarnan de In(C104)3. 
+
+A 
+
+r . 
+
+FIG. 2. Spectres ir et Rarnan de Tl(C104)~. (I) v,, Clot; (2) v, Clot; 
+
+(3) v,, v,, C10,; (4) p,, p, et 6 C10,; (5) p, et 6 CIO,; (6) v,, v,, 1T1061. 
+
+au chlorure de tCtraphCnyl-arsoniurn (22). 
+La concentration en C1O4-est dCterminCe en utilisant une courbe 
+d'ktalonnage prialablement Ctablie h partir des potentiels d'Clectrode 
+de plusieurs solutions Ctalons de perchlorates de potassium (5 X 
+
+&lt; M &lt; 5 X lo-'). Pour tous les Cchantillons la force ionique est 
+
+maintenue constante par addition de (NH4)2S04. 
+
+Synthise des complexes perchlorato d'indium et de thallium 
+Les mCcanismes de synthbes et de dCcomposition obeissent des 
+rkgles dCji rencontrkes (4): 
+(i) A partir d'un chlorure anhydre: 
+
+(ii) A partir d'un chlorure hydrate: 
+
+FIG. 3. Spectres ir et Rarnan de C1021n(C104). A C102+; I groupe 
+
+C1O4 monodenti. 
+
+FIG. 4. Spectres ir et Rarnan de C102T1(C104)4. A et I, cf. figure 
+
+3. 4 en ir indique les vibrations proches de celles de Cl,06 liquide 
+
+(-C102-C104-),,, 
+rCf. 31. 
+
+Contrairement au bore (5) et au gallium (6), on n'obtient jamais 
+avec l'indiurn et le thallium, dans un premier stade, des complexes de 
+type MCI,, -,(C104),,. 
+Dans une expCrience classique on distille h -180°C sur 0,5 i 6 X 
+lo-' mole de chlorure, un exces de C1206 (2 i 5 fois plus). On laisse 
+ensuite rechauffer doucement ce mClange jusquh 10°C, puis on agite 
+plusieurs heures (de 3 i 8 h) jusqu'h ce que le maximum de trioxyde 
+de chlore soit consornrnC. Durant I'agitation on note un fort dC-
+gagement de C102, Oz, Clz. Ces gaz doivent &amp;tre CliminCs pCriodi-
+quement sous vide dynamique du milieu rkactionnel. Aprks avoir 
+enlevC par pompage l'excks de C1206, on aboutit un composC orange 
+qui enrobe souvent des particules de chlorure qui n'ont pas rCagi. On 
+broit ce mClange en boite h gant puis on le retraite par C1206. Le 
+
+Can. J. Chem. Downloaded from www.nrcresearchpress.com by 87.160.185.190 on 03/27/14 
+
+For personal use only. 
+
+
+FOURATI ET AL. 
+
+3501 
+
+TABLEAU I. Synthkse des complexes perchlorato d'indium et de thallium 
+
+Analyse (%)' 
+
+Produit de base" 
+ClzO; 
+T h 
+Produit obtenu 
+Couleur 
+M 
+C104 
+CIOz 
+Go.' " 
+
+InCI3 
+(0,615) 
+l 6 
+10 
+C I O ~I ~( C I O ~) ~ 
+20,9 
+68,20 
+10,64 
+s. orange 
+InC1,,4H20 (1,672) 
+12 
+(19,79) 
+(68,57) 
+(10,60) 
+
+TICI, 
+(0,165) 
+5 
+10 
+CIOzTI(C104)4 
+s. orange 
+30,41 
+59,20 
+10,44 
+(30,52) 
+(59,40) 
+( I 0,07) 
+
+C1021n(C104)4 (0,46 14) 
+
+-
+
+85 
+In(C104)? 
+s. blanc 
+27,00 
+71,81 
+
+-
+
+0,3389 
+(27,78) 
+(72,21) 
+
+-
+
+(0,3286) 
+
+CIOzTI(C104)4 (1,2363) 
+
+-
+
+80 
+TI(C104); 
+s. blanc ivoire ou 
+38,89 
+59,85 
+
+-
+
+0,9281 
+s. laune orang6 
+(40,65) 
+(59,35) 
+
+-
+
+(0,9273) 
+
+C1O2T1(Cl04)4 (2.8 164) 
+
+-
+
+95 
+~10o.~(C104)z/ 
+s. jaune clair 
+
+-
+-
+-
+
+1,7298 
+( 1.7243) 
+In(C104)3 
+(0,1056) 
+
+-
+
+272 
+III(CIO~)~ 
+s. blanc 
+
+-
+-
+
+"QuantitC en g (experience type). 
+hTempCrature de la reaction ou de la decomposition ("C). 
+"Les valeurs attendues sont donnies entre parentheses. Analyse: In par complexomCtrie (20); TI(II1) sous forme de 'TI(1) par iodomitrie (20); Clod-
+dans les complexes d'ln par potentiomitrie (22); pour ceux de TI, cf. texte; CIO1' sous forme de C103 par reduction au sel ferreux (21). 
+"G: thermogravimitrie. 
+'Quelque soit sa couleur, TI(CI04), a les mCmes propriitis (ir, Raman, RX). 
+' Le diagramme de poudre X et le spectre Raman indiquent qu'il s'agit d'un milange. On releve I'existence de TI(CI04).,, T1,0, et d'un ox,operchlorato 
+non identifii comportant des groupes Clod monodentis fortement liCs et des groupes CIO, bidentis faiblement liis. 
+
+TABLEAU 2. Diagramme de poudre 
+
+In(C104)3 
+Tl(C104)3 
+C1OzIn(C1O4)4 C102Tl(C104)4' 
+
+I 
+d obs 
+d calc. 
+I 
+d obs 
+d calc. 
+Indexation 
+I 
+d obs 
+I 
+d obs 
+
+(sh) 
+3,60 
+15 
+3.36 
+15 
+3,25 
+30 
+2.82 
+10 
+2,71 
+5 
+2,61 
+5 
+2,55 
+20 
+2,39 
+15 
+2,28 
+
+"Les Cchantillons de C102TI(C104)4 sont protigis par une feuille en Kapton; elle ne permet pas de faire de bonnes mesures d'intensitis 
+relatives. La signification de s, m, w est donnie dans le tableau 3. 
+
+produit final est un sel de chloryle pur, C102M(C104)4. Par chauffage 
+
+Resultats 
+
+sous vide dynamique du sel de chloryle on obtient M(C104)3. Cette 
+dernikre operation doit Ctre men6e avec precaution, avec le sel de 
+Analyse 
+
+thallium pour Cviter la formation d'un 0x0 perchlorato complexe. 
+
+Les composCs synthetises sont anhydres car les spectres ir et 
+
+Les caractCristiques des reactions, l'analyse des cornposCs isolCs 
+
+Raman (figures 1-4) ne ~resentent aucune b a d e ou raie dans 
+
+sont reportees dans le tableau I. On doit remarquer que In(CI04), est 
+
+les domaines de vibrations du vibrateur 0-H (3600-3000 
+
+stable jusqu'i 272°C. 
+
+cm-' et 1800-1500 cm-'). 
+Can. J. Chem. Downloaded from www.nrcresearchpress.com by 87.160.185.190 on 03/27/14 
+
+For personal use only. 
+
+
+3502 
+
+CAN. J. CHEM. VOL. 63. 1985 
+
+In(C104I3 
+La similitude des spectres ir et Raman de In(C104)3 et 
+Ga(ClO,), (fig. 1 et rCf. 6) indique que l'environnement du 
+mCtal et la symCtrie locale sont identiques dans les deux com-
+plexes. 
+
+Leurs diagrarnrnes de poudre sont cependant diffkrents. I1 est 
+possible Cindexer les raies de celui de Ga(CI04)3 partir du 
+
+groupe R3 (17). Pour In(C104), on est conduit 2 adopter le 
+
+groupe P 3 pour lequel les arrangements dans la rnaille sont 
+voisins (tableau 2). On reste ainsi cohirent avec les donnCes de 
+la spectroscopie de vibration. 
+Une Ctude structurale par EXAFS de Ga(C104), (17) a rnon-
+tre que sa structure dCrive de celle de Asl, (24). C'est un 
+
+polyrncre a structure larnellaire, la distance Ga-Ga est de 
+
+4,71 A. Les groupes C104 sont bidentes en pont (fig. 5 et 
+rCf. 17). 
+Autour de chaque atome de rnCtal la syrnetrie locale est D3. 
+Dans le cristal le groupe facteur est S6. Ceci conduit au tableau 
+de corrClation 3a pour le squelette M06. 
+
+Pour les groupes ClO, on peut dresser le tableau de cor-
+rClation 3b. 
+
+I1 est bien Cvident que l'on ne pourra observer, pour les 6 
+molCcules contenues dans la rnaille, les ((3 x 16 x 6) -3 = 
+285) vibrations attendues. Par contre, on peut rendre cornpte 
+des perturbations et effets de rnultiplicitC pour les groupes ClO, 
+et des vibrations du squelette mCtal-oxygkne. 
+
+Frc. 5. Environnement de Ga dans Ga(CI04)? d'aprks rtf. 17. 
+
+On note, pour les 18 modes de vibration attendus du groupe 
+C104 entre 1400 et 400 cm-I, 14 cornposantes principales en 
+Rarnan et 12 en ir. L'activitt sClective ir-Rarnan prkvue est 
+vCrifiCe en particulier dans le dornaine des vibrations de va-
+lence C10, ( 0 , = oxygkne terminal) (fig. 1). 
+La prCsence de ligands ClO, bidentCs est confirmCe par 4 
+groupes de bandes ou raies dans le dornaine des vibrations de 
+valence (18, 25) (cf. tableau 4). Sous l'effet du groupe facteur 
+(tableau 3b) chacun de ces modes de vibrations se dedouble en 
+deux cornposantes A, et E, en Rarnan et A, et E, en ir (tableau 
+4). Par exemple v,, C10, est observe a 1326 et 1306 crn-' en 
+Rarnan et 1290 et 1275 crn-' en ir et v, C10, apparait a 1202 et 
+1156 crn-' en Rarnan et 1165 et 1143 crn-' en ir. L'effet de 
+
+rnultiplicitt dO a la prCsence de 6 motifs dans la rnaille permet 
+
+d'expliquer, notarnment les cornposantes 1305 cm-' en ir et 
+
+2 1293 cm-' en Rarnan. La plus faible rCsolution dans le do-
+
+rnaine des modes de deformation de C1O4 (700-400 crn-I) ne 
+permet pas de voir l'ensernble des cornposantes attendues (fig. 
+1). Les attributions les plus logiques sont donnees dans le 
+tableau 4. 
+Quatre raies en Rarnan (autour de 241 cm-I) et deux bandes 
+en ir (vers 222 crn-I) caracterisent les vibrations de valence du 
+squelette. 
+Bien que le grqupe ClO, soit forternent lie au metal, 
+d(ln-0) = 2,19 A (17), les frequences moyennes v In-0 
+(-230 crn-I) sont infkrieures a celles notees pour l'act-
+tylacetonate, v,: 444 crn-' (27), les acetates, v,: 300 crn-' (28) 
+ou d'autres complexes organo rnttalliques signales dans la lit-
+tCrature (29). Ceci est bien sur lie a la faible basicite du groupe 
+clod. 
+En dessous de 150 crn-' on attend les vibrations de dCfor-
+rnation de l'octaedre et les modes de rkseau. Une attribution 
+spCcifique semble delicate, cependant, sans ambigui'tC, les 
+
+raies a 143, 137 et 107 crn-' doivent plut6t dCcrire des modes 
+
+de deformation de syrnCtrie A, et E,. 
+
+T ~( C ~O ~) J 
+La comparaison des diagrarnrnes de poudre de In(Clo4), et 
+Tl(ClO,), (tableau 2) montre que ces deux complexes cris-
+tallisent dans le r n h e groupe d'espace. Leurs spectres ir sont 
+identiques, ainsi qu'une grande partie de leurs spectres Raman. 
+Par contre, le dornaine des vibrations de valence C10, presente 
+en Rarnan une grande difference. Pour l'indiurn on releve trois 
+
+raies 2 872, 945 et 896 crn-' et deux pour le thallium a 799 et 
+
+917 cm-I. Les vibrations du pont Ctant les plus affecttes par le 
+mode de coordination, on pourrait expliquer ces differences par 
+Can. J. Chem. Downloaded from www.nrcresearchpress.com by 87.160.185.190 on 03/27/14 
+
+For personal use only. 
+
+
+!T AL. 
+
+3503 
+
+TABLEAU 4. Attributions des bandes ir et des raies Raman de 
+In(CI04)3 (s: fort, rn: rnoyen, w: faible, sh: Cpaulernent) 
+
+Rarnan 
+Infrarouge 
+Attributions 
+
+1326 (15) (A,) 
+1306 (15) (E,) 
+1293 (sh) 
+
+1202 (45) (A,) 
+
+1156 (15) (E,) 
+
+945 (100) (A, + E,) 
+
+896 (10) (E,) 
+872 (70) (A,) 
+
+661 (15) (A, + E,) 
+
+616 (35) (A, + E,) 
+
+606 (30) (A, + E,) 
+
+514 (5) 
+
+486 (65) (A, + E,) 
+
+458 (40) (A, + E,) 
+
+430 (3) 
+270 (10) (E,) 
+253 (80) (A,) 
+
+1305 (sh) 
+
+1 
+
+1290 (s) (A,) 
+1275 (s) (E,) 
+
+1165 (sh) (A,) 
+
+1 143 (s) (E.) 
+
+lolo (m) (E, + A,) 
+902 (s, br) (E, + A.) 
+
+652 (rn) (A,, + E. 1 
+
+1 
+
+608 (s) (A, + Eu) 
+
+I 
+
+1 
+598 (s) (A. + E,,) 
+
+J 
+
+485 (w) (A, + E,) 
+
+1 
+
+1 
+
+244 (sh) (A,) 
+199 (3) (Ed 
+
+143 (20) 
+137 (20) 
+107 (10) 
+89 (sh) 
+80 (sh) 
+52 (sh) 
+
+v;,, CIO, 
+
+v, ClO, 
+
+v, CIO, 
+
+v,, CIO, 
+
+Pr 
+
+P w 
+
+6 C10, 
+
+PI 
+
+s CIO, 
+
+v GaOn 
+
+6 GaOh 
+
+RCseau 
+
+I'existence de groupements T1(C104), discrets comportant des 
+groupes C104 bidentes chelatants. Cependant, ce type d'en-
+gagement est rare (26). En l'absence de toute autre informa-
+tion, on conservera pour TI(ClO,), le mCme type d'analyse que 
+precedemment. On admet que 1'Cvolution des vibrations v Clop 
+est liee aux differences de masse et de rayon ionique de 
+1'ClCment central. La moyenne des frequences v Clop (889 
+cm-') dans TI(C104), subit un deplacement normal par rapport 
+aux complexes de la mCme sCrie AI(CIO,),: 935 cm-', 
+
+Ga(C104),: 90 1 cm-' , In(ClO,),: 906 cm-' . 
+
+Comme attendu, les vibrations de valence v MO du squelette 
+T106 apparaissent 2 des frequences plus basses que celui de 
+In06: Av, = -18 cm-I. Les principales attributions sont notees 
+sur le spectre (fig. 2). 
+C10M(C104)4 (M = In, T1) 
+Les diagrammes de poudre (tableau 2) montrent que ces sels 
+sont des complexes difinis puisque on n'y retrouve pas les raies 
+de M(C10,),. Les spectres ir et Raman sont donnks sur les 
+figures 3 et 4. On note une certaine similitude. 
+
+Le cation CIOzt est defini par les bandes ou raies carac-
+teristiques vers 1300 (v,,), 1055 (v,) et 5 15 (6) cm-'. 
+Sur les spectres on releve des composantes a des frequences 
+voisines de celle observees pour le perchlorato metal corres-
+
+pondant. Elles sont attribuees a des groupes ClO, bidentes en 
+
+pont. I1 apparait en outre des bandes et raies supplementaires, 
+par exemple pour l'indium, dans le domaine des vibrations de 
+valence 1225 (ir), 1240 (R), 1000 (ir), 1023 (R), 855 (ir) et 
+759 (R). Elles sont caracteristiques de groupes CIO, mono-
+dentes, ainsi que la raie a 375 cm-' (balancement de C10,) 
+(18). 
+L'existence des deux types de ligand est confirme par la 
+presence de trois bandes dans le domaine des vibrations v MO 
+alors qu'on en observe au plus deux pour le perchlorato metal 
+(par exemple, pour les complexes d'indium, on a res-
+pectivement en ir: 290, 270, 220 et 250, 195 cm-I). 
+On doit noter que a la difference du ligand NO3 (30) le ligand 
+
+ClO, ne parait pas apte a donner une environnement 8 pour TI. 
+
+La raie Raman vers 760 cm-' attribute a v, Cl-0, 
+
+du 
+
+groupe ClO, monodenti est caracteristique d'une coordination 
+forte entre le metal et le ligand. Ceci devrait se traduire par 
+
+l'apparition, vers 1300 cm-', de bandes correspondant a v,, 
+
+C1-0, (5). Ici cette vibration est relevee autour de 1220 (ir), 
+1240 cm-' (R), alors que pour C1O2Ga(C10,), elle est observCe 
+vers 1235 cm-'. Pour le complexe du gallium, ce deplacement 
+vers les basse frequences a Cte explique par une interaction 
+metal-perchlorate supplementaire conduisant a une semi-
+coordination (18). I1 semblerait plus logique d'admettre une 
+interaction entre CIOzt et les groupes ClO, monodentes dans 
+M(CIO,),-. Ceci tendrait a recrier des enchainements com-
+
+parables a ceux rencontres dans CI1o6 liquide (31). Cette hy-
+
+pothkse n'est pas aberrante puisque des interactions 
+CIO?+-anion ont tte observees lors de l'etude structurale de 
+C1O2Sb2FI I, C102GeFS et C102BF, (32). Elle permet de plus, de 
+rendre compte du mecanisme rkactionnel de la transformation 
+relativement facile de C102M(C10,)4 en M(CIO,), avec elimi-
+nation de C1OlC1O4. 
+
+Conclusion 
+G r k e a ce travail, on a pu completer l'etude des complexes 
+perchlorato des elements du groupe IIIB. L'action de C1206 sur 
+InCll (ou InC1,,4Hz0) et TlCl, conduit a la formation de quatre 
+nouveaux perchlorates anhydres, deux perchlorato-metal 
+M(C10,), et deux sels de chloryle C1O2M(C10,), (M = In, TI). 
+L'analyse structurale par spectroscopie de vibration in-
+frarouge et Raman et diagrammes de poudre RX a permis de 
+montrer que les perchlorato metal, M(CI04), (M = In, T1) ont 
+des structures proches de celle de Ga(CIO,),. Ce sont des poly-
+meres avec des groupes ClO, bidentes en pont ou tous les 
+groupes C104 sont en interactions forte avec le metal, alors que 
+dans C10zIn(C10,)4 et C10,T1(C104)4 il faut distinguer des 
+groupes ClO, de mCme nature que les precedents et des groupes 
+CIO, monodentes presentant une interaction importante avec 
+I'ion chloryle. Par ailleurs, on a pu mettre en evidence les 
+evolutions des frequences de vibration v C10, et v MO dans la 
+colonne lllB pour la sirie M(C104)3 (M = Al, Ga, In et TI). 
+
+Elles sont directement likes aux rayons ioniques et a la masse 
+
+de l'klement central. 
+
+Remerciements 
+Ce travail a Cte rtalise dans le cadre d'accords de cooperation 
+CNRS (France) -DRST (Tunisie). Les auteurs du memoire 
+remercient ces organismes pour les liens qu'ils ont su renforcer 
+Can. J. Chem. Downloaded from www.nrcresearchpress.com by 87.160.185.190 on 03/27/14 
+
+For personal use only. 
+
+
+3504 
+
+CAN. J. CHEM. \ 
+
+entre les deux laboratoires et I'aide financibe qu'ils leur ont 
+apportC. 
+
+1. M. SCHMEISSER et K. BRANDLE. Adv. Inorg. Chem. Radiochem. 
+5, 41 (1963). 
+2. (a) Z. K. NIKITINA, A. I. KARELIN et V. YA. ROSOLOVSKII. RUSS. 
+J. Inorg. Chem. (Trad. Anglaise), 25, 71 (1980); et rifirences 
+citkes; (b) V. P. BABAEVA et V. YA. ROSOLOVSKII. Zh. Neorg. 
+Khim. 29, 2731 (1984). 
+3. C. J. SHACK, D. PILIPOVICH et K. 0 . CHRISTE. J. Inorg. Nucl. 
+Chem. Supp. 76, 207 (1976). 
+4. J. L. PASCAL, J. POTIER et C. S. ZHANG. J. Chem. Soc. Dalton 
+Trans. 297 (1985), et rifirences cities. 
+5. T. CHAUSSE, J. L. PASCAL, A. POTIER et J. POTIER. Nouv. J. 
+Chim. 5, 261 (1981), et rtfirences cities. 
+6. M. CHAABOUNI, J. L. PASCAL et J. POTIER. J. Chem. Res. (S), 
+SO ( 1 977). 
+7. Z. K. NIKITINA, A. I. KARELIN et V. Y. ROSOLOVSKII. Bull. 
+Acad. Sci. USSR (Trad. Anglaise), 22, 705 (1973). 
+8. T. CHAUSSE. Thkse Docteur lnginieur Universiti des Sciences et 
+Techniques du Languedoc, Montpellier. 1980. 
+9. T. CHAUSSE, A. POTIER et J. POTIER. J. Chern. Res. (S), 316 
+(1980). 
+10. Z. K. NIKITINA et V. YA. ROSOLOVSKII. RUSS. J. Inorg. Chern. 
+(Trad. Anglaise), 23, 1293 (1979). et references cities. 
+I I. Z. K. NIKITINA et V. YA. ROSOLOVSKII. Bull. Acad. Sci. USSR 
+(Trad. Anglaise), 27, 449 (1978). 
+12. ( a ) M. ASHRAF, A. MAZBZ et J. B. HEDDRIDGE. J. Chern. Soc. 
+Dalton Trans. 170 (1977); (b) A. J. CARTY et D. G. TUCK. Prog. 
+Inorg. Chern. 19, 243 (1975), et rifirences cities. 
+13. P. PASCAL. ComplCments du Nouveau Traiti de Chirnie MinCrale 
+I I, 64 ( 1978). Masson, Paris. 
+14. C. BELIN, M. CHAABOUNI, J. L. PASCAL, J. POTIER et J. RO-
+ZIERE. J. Chern. Soc. Chern. Comrnun. 105 (1980). 
+15. C. BELIN. M. CHAABOUNI, J. L. PASCAL et J. POTIER. Inorg. 
+Chern. 21, 3557 (1982). 
+16. (a) J. L. PASCAL, J. POTIER, D. J. JONES, J. ROZIERE et A. 
+MICHALOWICZ. Inorg. Chern. 23, 2068 (1984); (b) 24, 238 
+
+'OL. 63. 1985 
+
+(1985). 
+17. (a) J. L. PASCAL, J. POTIER, A. SEIGNEURIN, D. J. JONES, J. 
+ROZIERE, J. POTIER et A. MICHALOWICZ. Communication aux 
+Journtes EXAFS Lure-Orsay, 6-7 Dtcembre 1984; (b) 
+Progress in X-ray studies by synchroton radiation. Strasbourg. 
+avril 1985. 
+18. M. CHAABOUNI. Thkse, Montpellier, 1979. 
+19. A. C. PAVIA, J. L. PASCAL et A. POTIER. C.R. Acad. Sci. Paris 
+Ser. C, 272, 1495 (1971). 
+20. G. CHARLOT. Chimie analytique quantitative. Masson, Paris. 
+1974. 
+21. H. MATHIEU. Analyse quantitative. Masson, Paris. 1946. 
+22. (a) R. J. BACZUCK et W. G. BOTTELER. Anal. Chem. 40, 687 
+
+(1968); (b) Guide des mithodes analytiques. 9' i d . Orion Re-
+
+search. 1979. 
+23. W. T. SMITH, JR. Anal. Chern. 20, 937 (1948). 
+24. J. TROTTER. Z. Kristallogr. 121, 81 (1965). 
+25. B. J. HATHAWAY et A. E. UNDERHILL. J. Chem. Soc. 3091 
+(1961). 
+26. E. A. GENKINA, V. P. BABAEVA et V. YA. ROSOLOVSKII. Koord. 
+Khirn. 10, 1415 (1984). 
+27. R. E. ESTER et R. A. PLANE. Inorg. Chem. 3, 513 (1964). 
+28. J. J. HABEEB et D. G. TUCK. J. Chem. Soc. Dalton Trans. 243 
+(1973). 
+29. E. MASLOWSKY. Vibrational spectra of organo-metallic com-
+pounds. John Wiley and Son. New York. 1977. 
+30. D. W. AMOS. J. Chern. Soc. Chem. Commun. 19 (1970). 
+31. (a) J. L. PASCAL. Thkse Universiti des Sciences et Techniques du 
+Languedoc, Montpellier. 1978; (b) J. L. PASCAL, A. C. PAVIA, 
+J. POTIER, J. M. BENY et B. SOMBRET. VIth International Confer-
+ence on Raman Spectroscopy, Bangalore, Inde. Septembre, 
+1978. 
+32. A. J. EDWARDS et R. J. C. SILLS. J. Chem. Soc. Dalton Trans. 
+1776 (1974); T. E. MALLOUK, B. DESBAT et N. BARTLETT. 
+Inorg. Chem. 23, 3160 (1984); T. E. MALLOUK, G. L. ROSEN-
+THAL, G. MULLER, R. BRUSASCO et N. BARLEIT. Inorg. Chern. 
+23, 3167 (1984). 
+
+Can. J. Chem. Downloaded from www.nrcresearchpress.com by 87.160.185.190 on 03/27/14 
+
+For personal use only. 
+
+
+
+	
+

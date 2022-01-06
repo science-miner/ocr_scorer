@@ -1,0 +1,844 @@
+
+	
+
+		
+
+	
+
+	
+
+~t u d e cinetique de la N-chloration de l'acide cyanurique en phase aqueuse 
+
+DENISE MATTE,' BERNARD SOLASTIOUK, A N D R ~ 
+
+MERLIN ET XAVIER DEGLISE~ 
+Universite' de Nancy I , Laboratoire de phdtochimie applique'e (Unite' associe'e no 238 du 
+Centre national de la recherche scientifique), Boire postale 239, 54506 Vandauvre-les-Nancy CEDEX, France 
+
+R e p le 10 fCvrier 1988 
+
+DENISE MATTE, BERNARD SOLASTIOUK, A N D R ~ 
+MERLIN et XAVIER DEGLISE. Can. J. Chem. 68, 307 (1990). 
+Nous prCsentons une ttude des mCcanismes et dCterminons les constantes de vitesse des N-chlorations d'acide cyanurique 
+en milieu aqueux basique. Les tnergies d'activation des processus mis en cause ont Ct C dCtermintes. Ces cinCtiques rapides ont 
+Ct C CtudiCes sur spectrophotometre a Ccoulement bloqut. Dans le domaine de pH CtudiC nos rtsultats expkrimentaux sont en 
+accord avec un modele cinCtique comprenant la contribution de deux couples de processus indiscemables. 
+
+k2 
+
+H3Cy + C10--produits 
+
+OU 
+
+k3 
+
+H2Cy-+ ClOH -produits 
+
+et 
+k4 
+
+H2CyP + C10--produits 
+
+OU 
+
+HCy2-+ ClOH k5 + produits 
+
+Les valeurs limites des constantes de vitesse dans le cas oG, pour chaque couple, un seul des processus participe a la cinktique 
+de chloration sont les suivantes : 
+
+k2 = (5,4 X 10") exp ( -3 5 5 0 0 / ~~) M-'s-' 
+
+k3 = (2,O x 10") exp (-36700/RT) M-I s-' 
+
+k4 = (1,4 X 1013) exp (-55200/RT) M-' s-' 
+
+kg = 2,2 X lo7 M-' s-' (a 298 K) 
+
+A partir de ces valeurs, nous avons pu calculer les constantes de vitesse d'hydrolyse des derives monochlorCs de l'acide 
+cyanurique. 
+
+Mots cle's : cinCtique, N-chloration, 1,3,5-triazine 2,4,6-trione, phase aqueuse, spectrophotomCtrie a tcoulement bloquC. 
+
+DENISE MATTE, BERNARD SOLASTIOUK, A N D R ~ 
+MERLIN, and XAVIER DEGLISE. Can. J. Chem. 68, 307 (1990). 
+A complete kinetic study of the N-chlorination, in basic aqueous medium, of cyanuric acid by the stopflow spectrophoto-
+metric method is presented. Our experimental results can be interpreted by two pairs of kinetically indistinguishable mechanisms. 
+
+k, 
+
+H3Cy + C10--products 
+
+or 
+k3 
+
+H2CyP + ClOH -products 
+
+and 
+k4 
+
+H2Cy-+ C10--products 
+
+or 
+k5 
+
+HC~'-+ ClOH -products 
+
+The rate constants and their corresponding activation energies were determined in the limiting case where one of the elemen-
+tary steps in each pair is involved alone in the kinetics of reaction. 
+
+k2 = (5.4 X 10") exp (-35500IRT) M-' s-' 
+
+k3 = (2.0 X 10") exp ( -3 6 7 0 0 1 ~~) M-' s-' 
+
+k4 = (1.4 X 1013) exp (-55200/RT) M-' s-' 
+
+k5 = 2.2 x lo7 M-' s-' (at 298 K) 
+
+The rate constants for hydrolysis of the monochlorinated cyanuric acid derivatives were derived from our experimental values. 
+Key words: kinetics, N-chlorination, 1,3,5-triazine-2,4,6-trione, aqueous medium, stopped flow. 
+
+1. Adresse actuelle : DCpartement de genie chimique, Universitt Laval, Qutbec (Qutbec), Canada G1K 7P4. 
+2. Auteur 2 qui adresser toute correspondance. 
+
+Printed in Canada 1 Imprime au Canada 
+
+Can. J. Chem. Downloaded from www.nrcresearchpress.com by 87.160.185.190 on 03/27/14 
+
+For personal use only. 
+
+
+308 
+
+CAN. I. CHEM. VOL. 68, 1990 
+
+Introduction 
+
+C1,3-,jCyH, + H 2 0 e HOCl + C1,2-x,CyH,x+,, 
+
+Les derives N-chlores de la triazine-1,3,5 trione-2,4,6 ou 
+est compris entre 0 et 2. 
+acide cyanurique (H3Cy) sent des sources skches de chlore 
+Suivant les conditions de pH, la concentration en ions chlo-
+couramrnent utilisees dans les detergents et les eaux de piscines. 
+,re, et 1, rapport [chlore]/[Cy] et compte tenu des proprietCs 
+Mises en solution, ces m016cules constituent un reservoir de 
+acido-basiques de ces derives, on peut recenser en solution dix 
+chlore actif pouvant Ctre libire par leurs hydrolyses successives : 
+composts comprenant un noyau cyanurique en presence de 
+difftrentes espkces du chlore libre (Cl,, ClOH, C10-). 
+
+K h 
+
+HICICy &amp; H C l C y # c1cy2-
+
+Les constantes d'tquilibre entre,ces composts ont t t t dtter-
+mintes par O'Brien et al. (1, 2). A partir de ces valeurs, nous 
+avons mis au point un mode de calcul applique la micro-
+informatique permettant de dtterminer la composition com-
+plete de ce systeme dans des conditions variees (3). 
+Ce calcul permet de verifier qu'en milieu basique, le sys-
+teme precedent se simplifie notablement, en particulier un excks 
+d'acide cyanurique permet de ne tenir compte que de la reac-
+tion de premiere chloration de celui-ci : 
+
+Pour le chlore libre, dans ces mCmes conditions, on ne tient 
+compte que de l'tquilibre entre l'acide hypochloreux et les 
+ions hypochlorites : 
+
+K2 
+
+ClOH 7 -10-+ Hf 
+
+A ces pH, la composition de ce milieu ne depend donc pas 
+des ions chlorures en dehors d'un effet de force ionique. 
+I1 n'existait pas de donnees cinttiques ou mecanistiques sur 
+ces rtactions rapides et tquilibrees. Nous nous sommes donc 
+
+intt5ressCs a l'ttude cinttique de la prernikre chloration de l'acide 
+
+cyanurique en milieu basique. 
+
+ionisation 
+
+Techniques experimentales (ref. 4) 
+
+Nous avons suivi la chloration de l'acide cyanurique par des solu-
+tions diluCes d'ions hypochlorites. Le maximum d'absorption de C10-
+se situant h 290 nm et les dCrivCs monochlor6s de H3Cy absorbant h 
+des longueurs d'onde plus faibles, nous avons pu, par spectrophoto-
+rne'trie a e'coulernent bloque', dCtenniner les paramktres cinCtique de 
+cette rkaction en observant la disparition de C10-h cette longueur 
+d'onde. 
+En operant en large excks d'acide cyanurique par rapport au chlore, 
+nous avons pu mesurer une constante de vitesse expCrimentale du 
+
+pseudo-premier ordre (kobs), pente de la droite In (A -A, ) en fonc-
+
+tion du temps (A est la densite optique de la solution 2 un instant 
+donnC). Dans ces conditions, le chlore est totalement consommC et la 
+reaction s'arrCte h la formation du composC monochlorC. 
+
+Rbultats experimentaux 
+Nous avons tout d'abord verifie que les rtsultats obtenus 
+dans les conditions prtcidemment dtcrites ttaient parfaitement 
+representts par le modele d'une cinetique du pseudo-premier 
+ordre. La relation liant In (A -A, ) avec le temps ttant lineaire, 
+la rtaction est du premier ordre par rapport a la concentration 
+en chlore total [CI],. La vitesse globale de reaction s'exprime 
+
+donc, en presence d'un exces d'acide cyanurique ([Cy], &gt; &gt; 
+
+[Cllt), Par : 
+
+A pH constant, nous avons observe que kobs est proportion-
+nelle a la concentration totale d'acide cyanurique (fig. 1). 
+La reaction est donc globalement du second ordre et d'ordre 
+Can. J. Chem. Downloaded from www.nrcresearchpress.com by 87.160.185.190 on 03/27/14 
+
+For personal use only. 
+
+
+MATTE ET AL. 
+
+FIG. 1. Influence de la concentration en acide cyanurique : T = 
+
+298K; pH = 8,60; C1, = 3,5 X 10-4M pour [Cy,] &lt; 4 X 1oP3M; 
+
+C1, = 7,O X 1oP4M pour [Cy,] 2 4 X 1oP3M. k pente de la droite 
+In (A -A,) en fonction du temps. 
+
+1 
+
+I 
+
+, 1 par rapport a chacun des deux reactifs 
+
+I 
+
+: oh k, , , la constante de vitesse globale du second ordre s'exprime 
+
+simplement pour nos conditions experimentales a partir de [l] 
+et [2] : 
+
+Les variations de k, , , en fonction du pH a 25°C sont reprC-
+sentees sur la figure 2. 
+Nous avons aussi suivi l'influence de la temperature sur ce 
+
+paramktre a differents pH (fig. 3). Les relations exprimant 
+
+In (k,,,) en fonction de la temperature pour les pH CtudiCs sont 
+regroupees dans le tableau 1. 
+
+Interpretation 
+L'acide cyanurique est un triacide faible que l'on peut trou-
+ver en solution sous les quatre formes H3Cy, H2CyP, HCy2-et 
+Cy3-en equilibre dans des proportions qui dependent du pH 
+(fig. 4). Corrtlativement la concentration totale en acide cya-
+nurique sera la somme des concentrations de ces espCces : 
+
+Compte tenu du domaine de pH des solutions utilisks (pH &gt; 8) 
+
+et de la vitesse de la reaction qui exclut qu'une espCce trop 
+minoritaire intervienne dans le mecanisme, nous considerons 
+le chlore libre sous forme d'acide hypochloreux ou d'ions hypo-
+chlorites qui sont les espkces majoritaires de ce milieu (fig. 5) : 
+
+[5] [Cl], = [ClOH] + [ClO-] 
+
+Les concentrations de ces differentes espkces peuvent &amp;tre 
+exprimies en fonction des constantes d'equilibre K2, K,, Kb et 
+Kc, de leurs coefficients d'activite (y,), du pH et de [Cy], et 
+[Cl],. Le detail de ce calcul qui conduit aux expressions [6]-[9] 
+est present6 en annexe. 
+
+FIG. 2. Constante de vitesse exp6rirnentale de chloration de I'acide 
+cyanurique en fonction du pH; T = 298 K; [Cy,] = 5 x ~o -~M ; 
+[cI,] = 7 x 
+M. 
+
+6,50 
+
+1000/T 
+
+1 1 a h 1 , 1 , t 1 t u a 1 t t 1 1 l t l 
+
+3,15 3,25 3.35 
+345 3,55 
+
+FIG. 3. ~n e r ~i e s 
+
+d'activation globales diffkrents pH. 0 : pH = 
+
+8,15; m : p~ = 9,30; * : p~ = 10,05; A : p~ = 10,80; A : p~ = 11,15. 
+
+Can. J. Chem. Downloaded from www.nrcresearchpress.com by 87.160.185.190 on 03/27/14 
+
+For personal use only. 
+
+
+[lo] [ClOH] = 
+
+(H+)Yc10-
+d 
+[Cll, 
+
+310 
+
+CAN. J. CHEM. VOL. 68, 1990 
+
+TABLEAU 1. Energies d'activation globales de la chloration 
+
+PI : H3Cy + ClOH + produits 
+
+de I'acide cyanurique a diffkrents pH 
+
+P2 : H3Cy + C10-+ produits 
+
+Energie d'activation 
+
+P3 : H2Cy-+ ClOH + produits 
+
+PH 
+1 k / M ' ) 
+globale (kJ rnol-I) 
+
+P4 : H2Cy-+ C10---* produits 
+
+8,15 
+
+-(3190/T) + 20,O 
+
+26,5 
+
+P5 : H C ~~-+ ClOH + produits 
+
+9,30 
+
+-(3800/T) + 21,3 
+
+31,6 
+
+P6 : H C ~~-+ C10-+ produits 
+
+10,05 
+
+-(4070/T) + 22,O 
+
+33,s 
+10,80 
+
+-(4540/T) + 23,4 
+
+37,7 
+
+P7 : CY3-+ ClOH --* produits 
+
+11,15 
+
+-(4850/T) + 24,2 
+
+40,3 
+
+P8 : Cy3-+ C10---* produits 
+
+Le comportement de la constante de vitesse expkrimentale 
+
+Les kquilibres de protonation et d'ionisation caractkrists par 
+les constantes K2, Ka, Kb et Kc sont rapides devant la cinttique 
+de chloration et les relations [4]-[ll] restent vkrifites au cours 
+de la rkaction. 
+Compte tenu de la mise en Cvidence expkrimentale d'un ordre 
+
+un par rapport i chacun des rkactifs, nous pouvons envisager 
+
+huit processus diffkrents susceptibles de limiter la vitesse glo-
+bale de rkaction : 
+
+-loo. 
+
+50-
+
+Cette expression permet de regrouper les processus en fonc-
+tion de la dkpendance de leur contribution vis a vis de l'activitt 
+du proton hydratC : PI; (P2, P3); (P4, Ps); (PG, P7) et P8. 
+Pour chacun des couples, (P2, P3), (P4, Ps) et (P6, P7), nous 
+pouvons vtrifier que les deux complexes activks a l'intkrieur 
+de chaque couple ont m&amp;me charge et m&amp;me composition. Ainsi 
+leurs coefficients d'activitt peuvent &amp;tre considtrts cornme Cgaux 
+ou en tout cas comme variant de f a ~o n identique avec la force 
+ionique du milieu. Comme le pH influe de la m&amp;me manikre 
+sur leurs contributions a la vitesse globale de reaction, les pro-
+
+% MOLAlRE 
+
+en fonction du pH (fig. 2) semblant indiquer la participation de 
+
+plusieurs processus ti la cinCtique globale de la rkaction, nous 
+
+envisagerons tout d'abord une participation ( u ( ~, ) ) 
+de chacun 
+des processus PI-P8. 
+
+u = 
+d[CyClI, 
+dt 
+
+= U ( ~l ) + 
+
++ 
++ U ( ~4 ) 
+
++ U ( ~3 + U ( ~6 ) + 
+
++ U(P,) 
+
+--
+
+Pour un processus bimolkculaire en solution rkelle (A + B 
+
+% C' +) oh C' est le complexe activk du processus : 
+
+-.-.-
+
+0 YAYB 
+
+-----
+
+[I21 U(P,) = k, -
+Yc' 
+[A1 [Bl 
+
+o YH,C~YCIOH 
+u = kl 
+Yc1' 
+[H3CyI [ClOHI 
+
+YH,C~YCIO-
+
++ k : 
+[H3Cy] [ClO-] + . . . 
+
+5 
+10 
+pH 
+Yc2' 
+
+FIG. 4. Fractions malaires de ,-haque esp&amp;ce dans une wlution 
+
+A panir des 
+
+[61-111 I dOnnant les 
+
+des 
+
+aqueuse d'acide cyanurique en fonction du pH (courbes calculCes). 
+
+diffkrentes es~eces et en POsant 
+
+X = YH,CY YCIOHYCIO-
+
+K a ~~3 ~y 
+
+KYI, 
+
+d d 
+[7] [ H ~C ~-l 
+
+= 
+
+nous obtenons l'expression de la vitesse globale de rkaction en 
+
+2-
+
+-K a K b ~~3 ~ 
+
+fonction de [Cy], et [Cl], : 
+
+181 [HCY I -d ( ~+ ) 2 y H c ; 2 [Cylt 
+
+3--K a K b K c ~~, ~y Icy11 
+U = [ $ ( H i ) + ( 3 K 2 + , K a 
+
+Y2 
+
+19] Icy I -d ( ~~) ~~~~3 -
+
+klo 1 
+
+Y3 
+
+Pour le chlore en posant : d = KayClOH + 
+
+Can. J. Chem. Downloaded from www.nrcresearchpress.com by 87.160.185.190 on 03/27/14 
+
+For personal use only. 
+
+
+MATTE ET AL. 
+
+100 
+
+50 
+
+% MOLAIRE 
+
+%oo -log 10 (y) 
+
+-
+
+1,oo -
+
+0,oo -
+
+-1,oo -
+
+-
+
+--
+
+---
+
+I 
+
+I 
+
+-3,OO 
+
+t 
+l 
+r 
+l 
+
+I 
+1 
+
+I 
+
+t 
+
+I 
+
+7 
+
+8 
+9 
+10 
+11 
+12 
+
+I 
+
+I 
+
+pH 
+
+I 
+
+FIG. 6. Loglo(Y) en fonction du pH 
+
+! 
+
+\ 
+
+I 
+
+d d 
+Y = kt,, 
+
+\ 
+
+\ 
+
+YH~C~YCIOHYCIO-
+
+\. 
+\ 
+
+\ 
+A pH &gt; 10, les points obtenus sont portts par une droite de 
+
+\. 
+\ 
+pente 1, ce qui indique une participation exclusive dans ce do-
+
+I 
+
+maine des processus 4 ou 5. Pour des pH plus faibles, l'amor-
+
+5 
+
+10 
+
+pH 
+
+tissement de la courbe indique que la participation des processus 
+
+FIG, 5 , Fractions rnolaires de chaque espkce du &amp;lore en solution 
+
+OU est prtpondtrante (pH &lt; 'y5). I1 a ~~a r a i t que, dans 
+
+aqueuse en fonction du pH (courbes calcultes). 
+
+le domaine de pH ttudit, les rtsultats exptrimentaux sont cor-
+rectement dtcrits en considtrant une expression de la forme : 
+
+cessus sont indiscemables ii l'inttrieur de chaque couple et notre 
+d d 
+
+F4-5 
+
+ttude se ramkne a cinq cas : P,; p2 ou p3; p4 ou p5; P6 ou p7 et 
+1131 Y=k,xp YH~C~YCIOHYCIO-
+(H 
+
+= (F2.3 + , 
+) 
+
+ps. 
+N~~~ avons dtjg observt et dtcrit ce phtnomkne d'indiscer-
+
+Une optimisation permet de trouver les valeurs de ces para-
+nabilitt de processus pour la N-chloration d'amines secondaires 
+
+a 298 : 
+
+(4, 8). 
+En notant F les facteurs caracttrisant ces contributions (les 
+k2" 
+k3" 
+
+F2.3 = , K2 + 7 K, = 1 1 3 X lop3 s-I 
+
+facteurs F ne dtpendent pas du pH et restent constants a force 
+
+Y2 
+Y3 
+
+ionique constante) nous obtenons : 
+k4" 
+k5" 
+F 4 -5 = K 2 K a + 7 K,Kb=2,35 X 1 0 -I I M ~-' 
+
+( 
+
+F4-5 
+F6-7 
+Y4 
+Y5 
+
+u = F1(H+) + F2.3 + --
+
+(H+) (H+I2 
+Dans le cas limite oh l'un des processus de chaque couple 
+devient prtpondtrant, nous pouvons calculer la valeur thtorique 
+
++ 5) X~CYI,[C~I, maximale des constantes de vitesse ii 25°C : 
+
+(H'I3 
+k2" 
+k3" 
+si 
+
+, K2&gt;&gt; Ka k i = 3,25 X 105M-Is-' 
+
+et en identifiant ii la relation [2] une expression thtorique de la 
+
+Y2 
+Y3 
+
+constante de vitesse exptrimentale : 
+
+( 
+
+k i 
+k3" 
+
+4 
+F6-7 
+
+fl ) 
+
+si 
+,K2&lt;&lt; 
+K, 
+k:= 7,27 X 1 0 4 ~-' s -' 
+
+kexp = Fl(H+) + F2.3 + -(Hi) + (Hi)' (Ht)l 
+
+Y2 
+Y3 
+
+k4" 
+kS" 
+si 
+
+K2K, &gt; &gt; 
+
+K,Kb 
+k j = 2,92 X lo3 M -I sC1 
+Soit Y, obtenu ? i partir de nos points exptrimentaux et des 
+
+Y4 
+
+Ys 
+valeurs de X calcultes pour les conditions correspondantes, 
+dtfini par : 
+si 
+,K2Ka&lt;&lt;,K,Kb kf 
+kS" 
+k!=2,16X1O7M-Is-' 
+
+( 
+
+Y4 
+Y5 
+
+Y = k , , = F 
+F4-5 
+
+F6-7 
+F S 
+
+X 
+
+'(H+) + F2.3 + -
+
+(H+) (H+12 (H+)3 
+La dttermination des constantes de vitesse exptrimentales 
+obtenues pour une strie de pH constants 2 des temptratures 
+En portant loglo(Y) en fonction du pH (fig. 6), nous pouvons 
+variant de 10 2 45°C (tableau 1) a permis l'ttude de l'influence 
+dtterminer les facteurs qui influencent la cinttique de rtaction. 
+de ce facteur sur les paramktres F2.3 et F4.5. Le calcul des 
+Can. J. Chem. Downloaded from www.nrcresearchpress.com by 87.160.185.190 on 03/27/14 
+
+For personal use only. 
+
+
+Can. J. Chem. Downloaded from www.nrcresearchpress.com by 87.160.185.190 on 03/27/14 
+
+For personal use only. 
+
+
+MATTE ET AL. 
+
+313 
+
+Conclusions 
+Annexe 
+
+Les rksultats obtenus pour la premikre chloration de lYacide 
+Les expressions des concentrations des diffkrentes espkces 
+cyanurique peuvent itre compares aux valeurs correspondantes 
+plus ou moins ioniskes de l'acide cyanurique sont Ctablies d'une 
+des amines aliphatiques. Nous avons aussi CtudiC prCcCdem-
+
+part ti p a i r du 
+
+en 
+c~anurique total 
+ment (8) la N-chloration de la diethylamine : 
+
+[Cyl, = [HKyl + [HzCy-I + [HCy2-I + Icy3-I 
+
+kh 
+
+Et2NCl + H20 7 Et,NH + ClOH 
+
+~C I O H 
+
+et kooH = 5,3 x lo7 M-' s-' ti 25°C (8). 
+
+Ce qui correspond ti une constante d'hydrolyse kh = 4,3 x 
+lop8 s-', soit un temps de demi rtaction de 4500 h. 
+Comparativement les temps de demi-rCaction des hydrolyses 
+des chlorocyanuriques n'excCdent pas quelques secondes. 
+Du point de vue cinCtique et thermodynamique, le chlore 
+fix6 par un noyau cyanurique apparait beaucoup plus labile qu'un 
+chlore liC a une amine. 
+Sachant de plus que dans l'utilisation habituelle de ces pro-
+duits, en prksence d'un excks d'acide cyanurique (25-60 ppm 
+d'acide cyanurique pour 1 ppm de chlore dans une eau de piscine), 
+la majeure partie du chlore est sous forme d'acide monochloro-
+, cyanurique et est ainsi protCgCe de la photolyse due au rayonne-
+, ment solaire (3). Nos rksultats confirment que dtrivts chloro-
+cyanuriques sont une excellente source de chlore actif pour la 
+
+i dksinfection et stabilise' vis a vis des pertes par photolyse. 
+
+I 
+
+1 
+
+1 
+
+Remerciements 
+
+) Les auteurs remercient la socittC ORKEM et le C.N.R.S. 
+
+I pour l'aide apportCe a l'un d'entre eux (D.M.) dans la rtalisa-
+
+I tion de ce travail. 
+
+I 
+
+/ 1. J. E. O'BRIEN. Thbse, Harvard University, Cambridge, MA. 
+
+I 
+
+1972. 
+
+/ 2. J. E. O'BRIEN, J. C. MORRIS et J. N. BUTLER. Chem. Water 
+
+1 
+Supply Treat. Distrib. Symp. 1973. Editertr: Alan J. Rubin. Ann 
+
+( 
+
+Arbor Sci., Ann Arbor, MI. 1974. pp. 333-358. 
+
+1 3. B. SOLASTIOUK et X. DEGLISE. Can. J. Chem. 66, 2188 (1988). 
+
+1 
+
+4. D. MATTE. Thbse, UniversitC de Nancy I, Nancy. 1986. 
+
+1 5. J. CARREL MORRIS. J. Phys. Chem. 70, 3798 (1966). 
+
+6. B. SOLASTIOUK. Thtse de llInstitut National Polytechnique de 
+
+1 
+
+Lorraine, Nancy. 1989. 
+
+. . 
+
+I 
+
+7. R. A. ROBINSON et R. H. STOKES. Electrolyte solutions. 2' ed. 
+Butterworth, London. 1970. 
+8. D. MATTE, B. SOLASTIOUK, A. MERLIN et X. DEGLISE. Can. J. 
+Chem. 67, 786 (1989). 
+
+et d'autre part ti partir des trois lois d'action de masse correspon-
+dant aux Cquilibres acido-basiques : 
+
+Par substitutions successives dans ces relations d'tquilibre, 
+nous obtenons l'expression des concentrations des espkces ionisees 
+en fonction de celle de H3Cy. 
+
+D'ou la relation liant [Cy], ti [H3Cy] : 
+
+En posant 
+
+nous retrouvons la relation [6] : [H3Cy] = [Cy],/d, puis par 
+dCductions successives les relations [7]-[9] du texte. 
+
+Can. J. Chem. Downloaded from www.nrcresearchpress.com by 87.160.185.190 on 03/27/14 
+
+For personal use only. 
+
+
+
+	
+

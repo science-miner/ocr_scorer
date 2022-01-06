@@ -1,0 +1,923 @@
+
+	
+
+		
+
+	
+
+	
+
+Complexation du cuivre(I1) par les phenylserines threo et erythro: 
+etude thermodynamique 
+
+PATRICK SHARROCK 
+
+Dtpc~rrerner~r de chirnie, Foculrt des .scier~ce.s. Urliversirk rle Sherbrooke, Sherbrooke (Qut.). Cnrltrcln JIK 2Rl 
+
+R e p le 24 avril 1984 
+
+PATRICK SHARROCK. Can. J. Chem. 63, 46 (1985). 
+Les complexes cuivriques de la phCnylsdrinc rhrto et Cryrlzro ont CtC ttudits en solution par conductimdtric ct potcntiomitrie. 
+Les constantes de formation dc complcxcs ont kt6 obtenues en fonction de la tcmpdraturc. La dtprotonation en milieu basique 
+du groupement OH des acidcs aminCs P-hydroxylds est favorisCe par la prtsence de I'ion mCtallique. La phCnylsCrine rhrto 
+
+a donnt a 298 K les constantes de formation suivantcs: Cu(L), Kl = 7.99; Cu(L)?, K2 = 6.71; Cu(L,H .,), K, = -931; 
+
+Cu(L2H -?), K, = -10,83. Les constantes correspondantes pour I'isomcre Prythro sont: Kt = 7,70; K2 = 6.70; K3 = -9,82 
+et K, = -11.20. Les parametres thermodynamiques pour la formation des complexes successifs Cu(L) et Cu(L)? sont: -A H 
+= 21,3 et 44,7 kJ m o l l ; AS = 82 et I32 J K -' mol-', respectivement, pour la forme rhrbo ainsi que -A H = 20.7 et 44.1; 
+
+AS = 79 et 129 pour la formc iryrhro. Une enthalpie additionnelle de -21 kJ m o l ' correspond a la deprotonation des 
+
+complexes. Ces rksultats et les structures des complexes sont commentes. 
+
+PATRICK SHARROCK. Can. J. Chem. 63, 46 (1985). 
+Conductimetric and potentiometric measurements in aqueous solution as a function of tcmpcraturc show that cupric ions 
+promote the deprotonation of the hydroxy side chain of threo and eryrhr-o P-phenylserines. The rhreo ligand yields at 298 K 
+the formation constants: Cu(L), Kl = 7.99; Cu(L)?. Kz = 6.71; Cu(L2H-I ) , K3 = -9.51; C U ( L ~H --~) , 
+K, = -10.83. The 
+eryrhro isomer yields the corresponding constants: K, = 7.70, Kz = 6.70. K, = -9.82, and K, = -11.20. Thermodynamic 
+parameters for the first two complexation steps are -A H = 21.3 and 44.7 kJ m o l I; AS = 82 and 132 J K-' mol-~', 
+respectively, for the rlzreo form and -A H = 20.7 and 44. I, AS = 79 and 129 for the eryrhro form. Deprotonation of the 
+complexes corresponds to an additional enthalpy of -21 kJ m o l l . Thesc results and the structures of the complexes are 
+discussed. 
+
+Introduction 
+La premikre synthkse de la phCnylsCrine fut dCcrite par Er-
+lenmeyer en 1892 (I). La phCnylsCrine reste un acide arnink 
+rare et a kt&amp; peu Ctudiee en presence d'ions rnCtalliques rnis a 
+part quelques travaux sur ses bases de Schiff utilis~es cornrne 
+rnodkles enzyrnatiques (2). Une Ctude rapporte la formation de 
+complexes cuivriques avec la phCnylsCrine (3) rnais cornrne il 
+existe deux isomeres de la phCnylsCrine, a savoir les forrnes 
+rhre'o et bythro, il nous a paru utile de clarifier 1'Ctude des 
+complexes des phenylsCrines pures, ce qui n'a encore jarnais 
+etC fait. Shaw et Fox reussirent a sCparer les deux isorneres dks 
+1953 (4) et la thrko phCnylsCrine (L) fut relike via une dCcar-
+boxylation enzymatique a la (-) artereno1 (5). Le chlo-
+ramphCnico1 est un bactericide dont la structure est reliee a celle 
+de la phCnylsCrine, ce qui laisse presager des propriktes biolo-
+giques intkressantes pour cet acide arninC. Nous avons dkja 
+dCcrit une synthkse de la thrko phCnyls6rine via une conden-
+sation catalyske par les ions cuivriques (6), synthese qui passe 
+par I'interrnediaire d'une isoxazolidine cornplexee aux ions 
+cuivriques. Nous rapportons rnaintenant I'etude physicochi-
+mique en solution aqueuse de l'interaction des phenylserines 
+thre'o et krythro avec les ions cuivriques. 
+
+Partie experimentale 
+
+SynrhPse 
+
+L'acide 2-amino, 3-hydroxy, 3-phtnylpropano~que, soit la phCnyl-
+sCrine, a CtC synthCtisCe par la mithode de Shaw et Fox (4) avec un 
+rendement de 70%. La forme trythro a Ct C obtenue avec une modi-
+fication du protocole comme suit. Dans 150 rnL d'eau on dissout 30 
+g de glycine et 24 g de NaOH. On ajoute 82 mL de benzaldehyde et 
+on refroidit la solution i 8°C. Un precipitt se forme aprks 4 min et 
+aprhs I0 min, on laisse la tempkrature monter jusqu'i 20°C juste assez 
+longtemps pour que tout le mClange se liqutfie. On refroidit de nou-
+veau entre 8 et 10°C tout en agitant pendant 4 h. On acidifie lentement 
+avec HCI glacC en mClangeant rCgulitrement. Les grosses boules de 
+produit coagulC sont IavCes avec 250 mL EtOH 95% froLd, suivi 
+d'Cthanol absolu bouillant. A ce stade on a de la phknylserine brute 
+
+dont le rapport r h r t o l t r ~~r h r o 
+(dCterminC par rmn ct chromatographie) 
+est d'environ 1. L'isomere rhrto recristallise dans 400 mL d'eau 
+bouillante alors qu'apres concentration et addition de 400 mL de 
+dioxane-eau 50% on obtient l'isomere tryrhro avec un rendement de 
+47%. 
+Nous avons Cgalement obtenu les hydrochlorurcs des esters tthy-
+liques des isomeres rhrto et Pryrhro avec des rendements respectifs de 
+98 et 83% en partant des acides aminks hydratCs, par la methode de 
+Fisher. Ces hydrochlorures d'ester sont intkressants car ils ne sont pas 
+hydroscopiques ct redonnent les acides aminks de dCpart par simple 
+hydrolyse. L'hydrochlorure d'ester thrto est tres soluble dans 1'Ctha-
+nol, tandis que celui de la forme trythro ne l'est pratiquement pas, ce 
+qui permet de confirmer la separation des deux isomeres. Nous 
+n'avons pas rCussi a &amp;parer les deux isomeres de cette fason car la 
+forme trythro devient soluble en presence de la forme rhrto. 
+
+Mesures physiques 
+
+Les mesures de conductivitC ont CtC effectuCes avec une Clectrodc 
+CMO5g de Tacussel et un conductimetre de type CD6N de Solea 
+(Lyon). Les surfaces dc 5 mm' et distantes de 5 mm Ctaient 
+fraichement rCactivCes et calibrtes avec du KC1 0.10 M . 
+Pour les mesures potentiomCtriques, nous avons prCparC une solu-
+tion NaOH = 0, I M dans de I'eau fraichement distillie que nous avons 
+conserve sous azote et standardise avec KHP. L'acide nitrique utilisC 
+pour abaisser le pH entre 2.2 et 2,5 avant les titrages a Ct C titrCe par 
+la solution de NaOH. Les solutions d'acides aminks et de nitrate de 
+cuivre ont CtC prCparCes immkdiatement avant les titrages qui ont Cte 
+effectuCs avec K N O 0,10 M comme Clectrolyte de support. Des 
+
+rapports de ligand a mCtal de I : I a 2.5: 1 ont CtC utilisis avec une 
+
+concentration d'ions cuivriques de l'ordre de 0,01 M . La cellule de 
+titrage thermostatic Ctait munie d'un capuchon Metrohm par lequel 
+
+passait des Clectrodes au calomel et de verre (Sargent Welch 150 M a ) 
+
+et une arrivCe d'azote. Les lectures de pH effectuCes avec un 
+"lonalyser Orion Research Model 801 Digital pH meter" Ctaient pre-
+
+cises a 20,002. 
+
+Nous avons dClivrC le titrant par I'intermCdiaire d'un tube special en 
+Teflon rigide provenant d'une seringue d'autoburette ABU 12 de 
+Radiometer (Copenhagen). L'autoburette se lit au centihme de milli-
+litre et les rCsultats, enregistrks sur papier graphique avec un Fisher 
+Recordall series 100, ont CtC accumulCs entre 17 et 45'C par intewalle 
+
+Can. J. Chem. Downloaded from www.nrcresearchpress.com by 87.160.185.190 on 03/27/14 
+
+For personal use only. 
+
+
+SHARROCK 
+
+de 5°C en calibrant le pH-mktre i chaque temperature a pH 4 et pH 10. 
+
+Les donnCes en vue de I'affinement des constantes de formation ont 
+tte obtenus i partir des courbes de titrage avec un "Bendix datagrid 
+digitizer" relie a un miniordinateur. Sur le coordinatographe, I'axe de 
+pH Ctait pris pour l'axe y et I'axe .r Ctait ajustC pour correspondre avec 
+l'axe de volume. Les donntes x en fonction de y ont CtC prClevCes par 
+le coordinatographe avec des increments mesurts le long des deux 
+
+axes (mode A* + by). Prks des points Cquivalents, le mode A,r a CtC 
+
+utilisC, ce qui diminue le nombre de points prelevCs lors de grandes 
+variations de pH. L'effet d'eventuelles errcurs analytiques cst ainsi 
+minimist. Le programme SC0GS a CtC modifiC afin que les matrices 
+puissent accommoder jusqu'a 200 lectures par expkrience. Nous avons 
+utilist un coefficient d'activitk pour I'ion hydrogene de 0,78 et avons 
+tenu compte de la variation avec la temperature de la valeur du produit 
+ionique de l'eau. 
+Dans un premier temps les constantes KI et Kz ont CtC affinCes pour 
+les ligands. Un graphique a Ctt construit des logarithmes des cons-
+tantes de dissociation en fonction de la temperature et les valeurs 
+retenues comprenaient trois dCcimales et une erreur estimCe a t 0 , 0 0 5 . 
+Dans un deuxikme temps, ces constantes ont CtC utilisCes en con-
+jonction avec les estimCs provenant de la mCthode graphique de la 
+fonction de formation ( i a log A-), pour affiner les valeurs des 
+constantes de formation de complexes. Les deux premieres constantes 
+deformation ont CtC obtenues en Climinant les donnCes 2 pH 2 10. Les 
+
+donntes i pH basique ont CtC rkintroduites en mZme temps que deux 
+
+estimCs pour les constantes de dCprotonation des complexes. Ccs deux 
+dernieres constantes ont CtC affinCes indipendemment des quatre au-
+tres impliquCes. 
+Les valeurs de AH et AS, ajustCes par moindres carrks, ont CtC 
+obtenues d'aprks la pente et I'intercept des graphiques de log K vs. 
+1/T. Les courbes de distribution des espkces ont kt6 dessinCes d'aprks 
+les rksultats du programme SC0GS. 
+
+Resultats 
+Les courbes de titrages conductim6triques permettent gene-
+ralement de mettre en evidence la formation successive de 
+complexes 1 : 1 et 2: 1. Cependant des titrages d'ions cuivriques 
+par des solutions d'acide amink de divers pH n'ont pas donne 
+de bons resultats. Nous avons donc proctde au titrage conduc-
+timetrique de solutions contenant des rapports stoichiomttri-
+ques ligandlmetal de 2: 1 par de la soude de titre connu. Ainsi, 
+apres correction pour les conductivites equivalentes des ions 
+sodium ajoutes et correction pour les conductivites des ions Hi 
+et O H effectutes apres rnesure du pH, nous avons observe une 
+augmentation de la resistance avec augmentation du pH, suivi 
+d'une diminution en milieu basique. Les courbes de titrage 
+presenttes dans la fig. 1 montrent des brisures dans la pente des 
+droites pour des rapports stoichiometriques des ions Na' /Cu2' 
+de 1, 2 et 4. 
+Les courbes de titrages potentiometriques sont typiques des 
+courbes observees lors de titrages de complexes cuivriques. 
+Nous remarquons cependant que dans le cas d'un rapport 
+ligand/mttal de 1 , on observe la formation d'un precipiti 
+d'hydroxyde cuivrique qui provoque un plateau vers pH neutre 
+correspondant la disproportionation en complexe 2: 1 et en 
+Cu(OH), insoluble. I1 est interessant de noter la dissolution du 
+
+precipiti, ce qui conduit progressivement a une solution lirn-
+
+pide en milieu fortement basique. M&amp;me s'il est impossible de 
+calculer une constante de formation de complexe dans ces 
+conditions, les donnies indiquent la formation d'une espece 
+distincte en milieu basique. Nous avons retenu la formation des 
+complexes CuA', CuA2, CuH-,A2-et CUH-~A,'-ou H2A 
+reprksente le ligand protone aux fonctions carboxyliques et 
+amintes. Quelques titrages en fonction de la dilution n'ont pas 
+permis de dttecter la formation de dimeres du genre M2A4. 
+
+FIG. I. Courbes de titrages conductimktriques pour les complexes 
+cuivriques de la phCnylsCrine thre'o (a) ct tnlthro (b). La courbe (c) 
+correspond au complexe de la serine. Les concentrations de complexes 
+sont -0.01 M. 
+
+Les constantes de formation sont regroupees dans le tableau 
+1. On constate que les valeurs dirninuent progressivement lors-
+que la temperature augrnente et qu'elles sont Iegerernent plus 
+petites pour la phknylserine e'rythro que pour la forme thrto. 11 
+
+est a noter que les constantes cumulatives log P3 et log P4 
+
+diminuent par rapport a log pz. Ceci provient de la nature de log 
+K, et log K, qui sont negatives car elles correspondent a des 
+constantes de deprotonation des complexes. 
+Les courbes de distribution des especes sont representees a 
+la fig. 2. La difference principale entre la cornplexation par 
+I'isomere thrto et celle par I'isornbre trythro reside dans le pH 
+de formation des especes deprotonees, celles-ci se formant plus 
+facilement avec la thre'o phenyldrine. 
+
+Les valeurs des parametres thermodynamiques AGO, AH' et 
+
+AS' obtenues d'apres la variation en fonction de la tempkrature 
+des constantes d'equilibre paraissent dans le tableau 2. Dans ce 
+tableau nous presentons aussi les enthalpies de formation des 
+complexes CuA' et CuAz dtcomposees en terrnes Clectros-
+tatiques et covalents d'apres les equations [ l ] a [3]: 
+
+[I] AH, = AH -AH, 
+
+[2] 
+
+AH, = ( T -v) (AS + An R In 55.5) 
+
+[3] 
+
+AG, = -v (AS + An R In 55.5) 
+
+v est une constante obtenue a partir de la variation de la cons-
+tante dielectrique du solvant en fonction de la temperature (v 
+= 219 K pour H?O), An represente le changement dans le 
+
+nombre de particules de solute au cours de la rkacti~n. De 
+rnCme AG,, la contribution Clectrostatique a l'energie libre qui 
+
+[4] AG = An RT In 55.5 + AG, + AG, 
+
+depend de la temperature et AG,, la contribution covalente 
+invariable en fonction de la temperature sont donnees d'aprb 
+[4]. Dans notre cas, la formule [5] permet de trouver la 
+temperature To r 100°C et puisque nos riactions de formation 
+de complexes sont exothermiques, log K dirninue avec aug-
+mentation de la temperature et on s'attend ii une importante 
+
+contribution des forces covalentes. Nous remarquons dans le 
+tableau 2 que les AH, ne varient pas entre la formation du 
+monochelate et du dichelate et sont caracttristiques des acides 
+aminis utilises. La variation observte dans AH pour les com-
+
+plexes successifs est donc attribuable a la variation dans AH,. 
+
+Pour prtciser les rbultats, nous avons corrige la difference AG, 
+Can. J. Chem. Downloaded from www.nrcresearchpress.com by 87.160.185.190 on 03/27/14 
+
+For personal use only. 
+
+
+CAN. 1. CHEM. VOL. 63. 1985 
+
+TABLEAU 1. Constantes de formation des complexes cuivriques de la phtnylsCrine 
+
+Temperature ("C) 
+Isomtre 
+fhrto 
+45 
+40 
+35 
+30,7 
+25 
+21,7 
+17,4 
+
+PKI 
+pK2 
+log KI 
+log Kz 
+log p2 
+-log K3 
+log p3 
+-log K4 
+-1% p4 
+
+Isomkre 
+trythro 
+
+PKI 
+pK2 
+log KI 
+log KZ 
+
+log pz 
+
+-log K3 
+
+log p, 
+
+-log K4 
+-log p4 
+
+TABLEAU 2. Paramktres thermodynamiques pour la formation des complexes cui-
+
+vriques d'acides aminCs P-hydroxylCs 
+
+RCaction" 
+-A G ( ' ~ -AH() 
+AS() 
+A H 
+-AH: 
+
+Cu" + TPS + (CuTPS)+ 
+
+45,8 
+21,2 
+82 
+9,1 
+30,4 
+
+(CUTPSI+ + TPS + CUTPS, 
+
+38,5 
+2 3 3 
+50 
+6,6 
+30,l 
+
+CuZ+ + 2TPS + CuTPSz 
+
+84,2 
+44,7 
+132 
+15,7 
+60.5 
+
+Cu" + EPS + (CuEPS)+ 
+
+44.4 
+20.7 
+79 
+8,9 
+29,6 
+
+(CUEPS)' + EPS + CuEPSr 
+
+38.3 
+23,4 
+50 
+6,6 
+30,O 
+
+Cu" + 2EPS + CuEPS? 
+
+82,7 
+44,1 
+29 
+15,5 
+59,6 
+
+Cu" + SER + (CuSER)+ 
+
+44.8 
+23 ,O 
+73 
+8,4 
+31,4 
+
+(CuSER)' + SER + CuSERz 
+
+37.9 
+25.6 
+41 
+5,9 
+31,5 
+
+Cu" + 2SER + CuSERz 
+
+82.6 
+48,6 
+114 
+14.3 
+62,9 
+
+Cu" + PS + (CUPS)+ 
+
+4 4 2 
+20,9 
+78 
+8 8 
+29.7 
+
+(CUPS)' + PS + CUPS, 
+
+36,l 
+22,9 
+45 
+6,1 
+29.1 
+
+Cu" + 2PS + Cupsz 
+
+80.4 
+43,9 
+122 
+14,9 
+58,8 
+
+"TPS = thrCophCnylsCrine, EPS = trythrophtnylsirine. SER et PS sont serine et phtnylstrine 
+de la ref. 15. 
+
+"Les unites sont: AG et AH en kJ rnol-' et AS en J K -' rnol-I. Les erreurs sont estirnkes 1 20.2 
+
+kJ rnol-' et + I J K -' rnol-'. 
+
+= AG, -AGz pour tenir compte de l'effet statistique pour la 
+tivites equivalentes faibles, ce qui indique qu'ils sont faible-
+reaction [6] 
+ment dissocies, en accord avec les constantes de formation 
+
+K, 
+
+trouvCes assez grandes. Les phtnylserines agissent comme la 
+
+[6] 
+
+Cu2+ + CuLl 
+
+2 Cu L+ 
+
+sCrine (7) et differemment de la glycine qui ne montre aucune 
+discontinuit6 dans la valeur de la conductivitC en fonction de la 
+K,,,, serait la valeur de K, si la rCaction procedait suivant une 
+quantitC de base ajoutke apres le rapport molaire Na+/cu'+ 
+loi purement statistique. Les equations utiliskes sont [7] a [lo] 
+2: 
+Ceci indique que dans le cas des acides aminks 
+et les rCsultats sont consign&amp; au tableau 3, avec K,,,, = 4. 
+P-hydroxyles, il s'opere un changement particulier quand deux 
+
+[7] AG, = -RT In KsIal + AG,,, + AG,, 
+
+moles de base ont Ct C aioutCes par mole d'acide aminC. Ceci 
+
+[8I AH,, = (T -v) (AS, -R In K,,aO 
+peut s'expliquer par un changement dans la dimension ou la 
+mobilitC des complexes, ou par la formation de complexes 
+[9] AH,, = AG,,, = AH, -AH,, 
+dCprotonCs ou hydroxylCs. Dans la mesure ou la formation de 
+complexes hydroxyles n'est pas dCtectCe dans le cas de la 
+
+[lo] AS,,, = AS, -AS ,,,, 
+
+glycine et qu'elle devrait dependre du pH et non de la quantite 
+stoechiomCtrique de base ajoutCe, on peut affirmer qu'il y a 
+Discussion 
+dtprotonation des fonctions P-hydroxylCes et formation de 
+Les complexes cuivriques des phknylserines ont des conduc-
+complexes cuivriques anioniques. 
+Can. J. Chem. Downloaded from www.nrcresearchpress.com by 87.160.185.190 on 03/27/14 
+
+For personal use only. 
+
+
+SHARROCK 
+
+TABLEAU 3. Cornparaison des complexes successifs 
+
+Ligand 
+logK, 
+A 
+AH, 
+AS, 
+AG,., 
+AS,,, 
+AGr.&lt; AHr,c AGr,c AHr,&lt; 
+
+Strine" 
+
+1,20 
+-6,8 
+2,4 
+31 
+-3,4 
+20 
+-4,4 
+
+1,6 
+
+1,o 
+
+0,8 
+
+serineb 
+
+1,23 
+-7,2 
+2,5 
+32 
+-3,8 
+21 
+-4.6 
+1,6 
+0,8 
+0,8 
+
+PS" 
+
+1,42 
+-8,l 
+2,O 
+34 
+-4,6 
+22 
+-4.9 
+1.7 
+0,3 
+0,2 
+
+TPS 
+
+1,27 
+-7,3 
+2,3 
+32 
+-3,8 
+20 
+-4.5 
+1,6 
+0,7 
+0,7 
+
+EPS 
+
+1,04 
+-6,l 
+2,7 
+29 
+-2,6 
+18 
+-3,9 
+1,4 
+1,3 
+1,3 
+~l ~c i n e " 1,42 
+-8,l 
+2,5 
+33 
+-4,6 
+24 
+-5,3 
+1,9 
+0,7 
+0,6 
+
+"Valeurs calculCes d'apres les donntes de la rCf. 15. 
+"Valeurs provenant de la rCf. 19. 
+
+"Ces unitts sont: AG et AH en kJ mol-' et AS en J K ' mol-' 
+
+FIG. 2. Courbes de rtpartition des esptces en fonction du pH pour 
+
+les complexes cuivriques de la phenylserine thre'o (I) et trythro (11). 
+Les complexes sont 1: [Cul,]'; 2: CuLZ; 3: [CuL2H-,]-et 4: 
+[CUL~H-~]*-; 5: reprtsente la concentration totale de cuivre et d, la 
+
+concentration d'ions CuZ' libres. a, bet c sont respectivement I'acide 
+amint proton&amp;, le zwitterion et I'acide amine dCproton6 non 
+complexCs. 
+
+L'ttude potentiomktrique confirme la formation de plusieurs 
+espkces. Les differences entre les titres calculCs et observts 
+sont minimistes avec le programme S0CGS en tenant compte 
+des complexes CuAt , CuAz et CuH-I A'-et CuH-2 A,'-. La 
+detection de complexes deprotonks ou hydroxylks n'est pas 
+nouvelle (7-lo), ce phenomene ayant dkja kt6 dCcrit pour la 
+sCrine et la thrtonine. On ne s'attend pas 5 ce que des com-
+
+plexes hydroxylks soient solubles, ce qui favorise la conclusion 
+qu'il s'agisse d'une deprotonation du ligand coordid. Les ions 
+cuivriques peuvent aussi dkprotoner le carbone a dans des 
+complexes analogues ( 1 1). 
+Pour les acides amints, nous observons que les pK, et pK2 
+sont plus petits pour la forme Prythro (8,70 et 10,35) que pour 
+la forme thrPo (8,87 et 10,57) de la phCnylsCrine. Ceci est en 
+accord avec les tendances generales observtes et en particulier 
+le cas de la thrkonine et la allo-thrkonine. L'ordre dkcroissant 
+
+de pK, et pK2 est serine &gt; thrkonine &gt; allo-threonine &gt; thre'o-
+phenylskrine &gt; Prythro-phtnylstrine. L'ordre de stabilite des 
+complexes est Cu(thr6onine)' &gt; Cu(thre'o-phenylserine)' &gt; 
+Cu(strine)' &gt; Cu(al1o-thrkonine)' &gt; Cu(trythro-phenyl-
+serine)'; et aussi Cu(thrtonine), &gt; Cu(thrio-phenylserine), 
+&gt; C ~( s t r i n e ) ~ &gt; Cu(Prythro-phtnyl~krine)~ &gt; Cu(al10-
+
+threonine)'. Cet ordre n'est pas le m&amp;me que I'ordre de basicitt 
+des ligands et on peut en deduire que les effets structuraux sont 
+importants. En effet, par rapport aux complexes de la strine 
+(qui ne peut exister que sous une seule forme), les complexes 
+avec les acides aminks substituks en position a sont plus stables 
+lorsque la substitution donne une forme thre'o et ils sont moins 
+stables dans le cas d'une forme Prythro. Ceci implique que la 
+stabilitt des complexes dtpend non seulement de l'influence 
+des groupes fonctionnels des ligands mais aussi de la geometric 
+globale des complexes resultants. 
+Des rtsultats thermodynamiques montrent que les para-
+mktres AH et AS obtenus pour les complexes d'acides aminks 
+hydroxylts sont semblables a ceux obtenus pour les acides 
+amints ordinaires. Raju et Mathur ont CtudiC les complexes de 
+la sCrine et de la thrtonine avec une sCrie de mCtaux de transi-
+tion (12). 11s trouvkrent que les valeurs de AG et de AS Ctaient 
+beaucoup plus grandes pour le cuivre qui formait des com-
+plexes plus stables. Par ailleurs, ils trouverent que c'etait dans 
+le cas du cuivre qu'il y avait la plus petite difference entre les 
+valeurs observees pour la serine et la a-alanine d'une part, et 
+la thrkonine et l'acide a-aminobutyrique d'autre part. 11s con-
+cluerent de ces observations que les complexes du cuivre 
+Ctaient stabilisks par le champ cristallin et que le groupement 
+OH n'entrait pas dans la premiere sphere de coordination. La 
+comparaison de leurs rksultats avec ceux de Stack et Skinner 
+(1 3) rCvCla une difference anormalement large dans les valeurs 
+de AH et AS pour la formation de C~(sCrine)~. 11s trouvaient 
+40,l kJ mol-' et 142 J K-' mol-' alors que Stack et Skinner 
+donnaient 58,9 kJ mol-' et 79 J K-' mol-I, respectivement. 11s 
+expliquerent alors la difference comme etant attribuable aux 
+conditions expkrimentales. En effet, Stack et Skinner avaient 
+utilise un assez considerable exces d'acide amink et avaient 
+suppose la formation d'un complexe du cuivre avec plus de 
+deux acides amines. 11s avaient par consequent applique une 
+Can. J. Chem. Downloaded from www.nrcresearchpress.com by 87.160.185.190 on 03/27/14 
+
+For personal use only. 
+
+
+50 
+
+CAN. J. CHEM. \ 'OL. 63. 1985 
+
+correction pour obtenir une valeur de AH correspondant exclu-
+
+sivement B la formation de CuA2. 
+
+Thornton et Skinner etudikrent de nouveau les mCmes com-
+plexes (14) dans une sCrie de mesures plus detaillies et se 
+rendirent compte alors qu'il y avait un changement brusque 
+dans AH des que le pH depassait 10. -AH etait de I'ordre de 
+54 kJ mol-I pour la formation de C ~( s e r i n e ) ~ 
+et de 
+Cu(threonine)? B pH 5 10, ce qui se compare bien avec les 
+valeurs pour Cu(glycine)? (-56 kJ mol-I) et pour Cu(alanine)? 
+(= 48 kJ mol-I). Ces valeurs montaient a 96 et 102 kJ mol-' 
+a pH = 12 pour la sCrine et la thrkonine respectivement. Donc, 
+en milieu basique, les reactions Ctaient presque deux fois plus 
+exothermiques. Ceci n'arrivait pas dans le cas des complexes 
+de Ni ou du Zn, ou des prtcipitks apparaissaient en milieu 
+basique. Les auteurs conclurent que leurs donnCes demon-
+traient la formation d'autres especes en plus de C~(sCrine)~ en 
+milieu alcalin et proposerent des complexes polyhydroxylCs et 
+polynuclCaires. Cependant ils remarqubent que le complexe 
+Cu(glycine), donnait un precipitk en milieu basique et aucun 
+changement de AH en fonction du pH et ne purent expliquer 
+ces faits. 
+Letter et Bauman Ctudikrent les complexes du Cu et du Ni 
+avec une sCrie d'acides aminks relies a la serine (15) et a la 
+tyrosine (16). Les enthalpies de formation des complexes suc-
+cessifs Ctaient toutes com~rises entre 20 et 26 k~ mol-I. la 
+formation du deuxikme cdmplexe itant toujours un peu plus 
+exothermique que la formation du premier (d'environ 2 kJ 
+mol-I). Les entropies variaient de 58 a 75 J K-' mol-' pour la 
+formation du premier complexe et de 42 a 50 J K-' mol-' pour 
+le deuxikme. 11s expliqukrent leurs resultats comme suit: 
+1. L'enthalpie negative est attribuke principalement a la for-
+mation des liens cuivre-azote (la moitiC des enthalpies de 
+complexation du cuivre avec I'hhylknediamine Ctant de 27 kJ 
+mol-' pour CuL et de 26 kJ mol-I pour CuL2). 
+2. L'entropie positive est relit5 a u depart des molCcules 
+d'eau coordonnees lors de la neutralisation des charges du 
+cuivre par les groupements carboxyliques (la moitiC de l'en-
+tropie de complexation de Cu2+ avec l'ion oxalate Ctant de 59 
+J K-I mol-I). 11s concluerent que leurs donnkes ne leur permet-
+taient pas de retenir l'hypothkse de la formation de liens cuivre 
+hydroxyles car les interactions cuivre-azote et cuivre -acide 
+carboxylique semblaient adequates et suffisantes. 
+Gergely et al. Ctudikrent de nouveau une sCrie de complexes 
+en partant du principe qu'il fallait considirer la possibilitk des 
+liaisons metal -groupement hydroxyle (17). Ils obsewhent 
+que tous les metaux CtudiCs (Co, Ni, Cu et Zn) et en particulier 
+le cuivre, avaient une enthalpie de formation de complexe plus 
+exothermique dans le cas de la sCrine et de la thrkonine que 
+dans le cas de I'alanine et de I'acide a-aminobutyrique. 11s 
+objectkrent a la comparaison de Letter et Bauman entre I'iso-
+serine et les autres acides amin6 hydroxylks, preferant baser 
+leurs conclusions sur des comparaisons entre les acides amines 
+ou -CH20H Ctait remplacC par -CH,. 
+L'inspection des differences pH -log K montra que les 
+complexes des acides aminis hydroxylis ktaient relativement 
+plus stables que ceux des acides aminks non hydroxylts. De 
+plus, les complexes de la thrkonine paraissaient encore plus 
+stables que ceux de la sCrine. Cette stabilitk accrue se rtfletait 
+par des reactions plus exothermiques pour les acides aminks 
+hydroxylb. Pourtant, I'effet inductif du groupement OH etait 
+naturellement d'affaiblir les liens Cu +-N. Gergely et al. 
+conclukrent donc: "The greater enthalpy change resulting in 
+spite of this can be explained only by the formation of a further 
+
+bond". 11s proposkrent par consequent que les groupements OH 
+
+non ionisCs des acides aminks en question participaient B la 
+
+formation de liens faibles a I'interieur de la premikre sphkre de 
+coordination du metal. 
+D'autres auteurs ont Ctudit les complexes cuivriques de la 
+sCrine sans detecter les complexes deprotonks a pH basique ( I8 
+19). Nos resultats sur la phtnylserine thrto et trythro (voir 
+tableau 2) sont semblables a ceux de Letter et Bauman sur la 
+sCrine et la phenylstrine. Nous remarquons que les AH, sont 
+caractCristiques des acides aminks et ne varient pas entre la 
+formation du monochtlate et du dichelate. Ces observations 
+concordent avec les resultats de 1 et Nancollas (19). La vari-
+ation obsewee dans AH pour les complexes successifs est donc 
+attribuable a la variation dans AH,. 
+Nous obsewons que AG,, est nkgatif, ce qui s'explique 
+comme suit: les rCpulsions Clectrostatistiques entre ligands re-
+duisent la stabilite des complexes dichelates et favorisent la 
+formation des monochClates. Par contre, les valeurs de AG,,, 
+(OU AH,,,) sont positives et reflktent les interactions covalentes 
+et I'influence mutuelle des ligands. 1 et Nancollas (19) ont 
+expliquk cet effet comme probablement relie a la plus grande 
+facilitk d'enlever l'eau de coordination du monocomplexe que 
+de I'ion Cu2'. Letter et Bauman ont montrC que pour tous les 
+complexes d'acides aminis, AH2 est plus exothermique que 
+AH,. Ceci montre que la coordination du premier acide amin6 
+facilite le depart des molCcules d'eau restantes. Les change-
+ments d'entropie corroborent ces conclusions car ASI est beau-
+coup plus grand que AS2. La formation du monocomplexe, 
+compare a la deuxikme Ctape, correspond donc a la liberation 
+d'une plus grande quantitC d'eau, avec un accroissement cor-
+respondant du dCsordre resultant. Les changements d'entropie 
+positifs sont essentiellement relies aux differences dans la 
+solvatation des especes participant aux reactions d'association. 
+Nancollas a considCrC que la serine Ctait un acide amin6 
+ordinaire (bidentate) mais il a remarque que toutes les valeurs 
+
+de AS,,, Ctaient semblables a I'exception de celles pour les 
+
+complexes de la drine. Nos resultats montrent que la phCnyl-
+sCrine thrto et trythro resemble a la sCrine, c'est-a-dire qu'ils 
+different eux aussi des valeurs obsewtes pour les acides aminis 
+ordinaires. Voici I'explication de Nancollas: "The lower value 
+of AS,,, for serine can be attributed to the electron-withdrawing 
+property of the hydroxyl group in the P-position which renders 
+the net positive charge on Cu(ser)+ higher than for the other 
+mono (amino acid) complexes. Interaction with the solvent wilI 
+therefore be stronger in the case of Cu(ser)+ resulting in a lower 
+AS,,,". Cet argument est tendancieux, car si I'effet inductif est 
+important dans le cas du monocomplexe, il doit Ctre important 
+aussi dans le cas de Cu(serine),. Autrement dit, on ne peut 
+observer dans la difference qu'est AS,,,, aucune particulariti5 
+
+attribuable B I'effet inductif, a moins que cet effet disparaisse 
+
+dans le dichelate, ce qui semble douteux. A notre avis, les 
+rtsultats thermodynamiques peuvent Ctre expliquks rai-
+sonnablement si on postule que les acides aminks P-hydroxylks 
+sont tridentates, avec le groupe OH en position axiale. Les 
+structures proposees par 'les complexes sont presentees dans la 
+
+fig. 3. On ne s'attend pas a une grande difference entre I'en-
+
+thalpie d'un lien Cu-H20 et d'un lien Cu-ROH ou R repre-
+sente le reste de l'acide a m i d . Par consequent, on peut mCme 
+s'attendre 5 un Cquilibre, en solution aqueuse, entre des com-
+plexes avec soit H20, soit ROH coordonnes. 
+La question des changements d'entropie est plus delicate. En 
+effet, la formation d'un chelate entraine normalement un AS 
+plus grand resultant en une plus grande stabilite d'un complexe 
+Can. J. Chem. Downloaded from www.nrcresearchpress.com by 87.160.185.190 on 03/27/14 
+
+For personal use only. 
+
+
+SHARROCK 
+
+5 1 
+
+conclusions thermodynamiques et feront le sujet d'une autre 
+publication. 
+Nos exptriences sur la phtnylstrine representent la troisikme 
+occurrence de la dttection d e complexes dtprotonts et tend a 
+
+Ph 
+
+confirmer la gtneralite d e ce phenomene pour les acides amints 
+
+I y -----o 
+
+P h 
+
+P-hydroxyles. 
+
+FIG. 3. Structures propostes pour les complexes cuivriques de la 
+phtnylskrine. A a un pH neutre, B a un pH basique. 
+
+chelate par rapport a un complexe analogue non cyclique. 
+L'effet chelate est justement un effet d'entropie. Pourtant on 
+observe encore une fois des valeurs de AS typiques de ligands 
+
+bidentates seulement. Cependant, les acides amints 
+
+P-hydroxylts existent deja sous forme cyclique en solution, 
+(20-22), cycle form6 par une liaison hydrogkne entre les 
+groupements O H et NH3. I1 est donc difficile d'interprtter les 
+changements d'entropie lors de la formation du chtlate mttalli-
+que. 
+
+Conclusion 
+
+En conclusion, l'hypothkse que la strine et la phtnylstrine 
+sont des acides amints tridentates offre une rneilleure expli-
+cation des rtsultats thermodynamiques. Cette hypothese expli-
+que pourquoi les acides amints P-hydroxylts ont des A G (et 
+des constantes de formation de complexes) proches des AG 
+obsewts pour les acides amints ordinaires. De plus elle sug-
+gkre une bonne possibilitt pour la formation des complexes 
+dtprotones: la dtprotonation du groupement O H coordonne et 
+la formation d'un lien Cu-alcoxyde en milieu basique expli-
+querait l'augmentation de l'exothermicitt de la rtaction cuivre 
+
++ acide amint au dessus de pH 10. D'apres la variation de log 
+
+p3 et log pq en fonction d e la temperature, nous obtenons une 
+
+valeur voisine d e 21 kJ mol-' pour chaque dtprotonation (-23 
+
+et -19 + 2 kJ mol-' pour la phtnylstrine thre'o et e'rythro, 
+
+respectivement). On retrouve donc l'augmentation totale de 
+-42 kJ mol-' dtcouverte par Thornton et Skinner pour le cas 
+des complexes d e la strine (14). Des etudes compltmentaires 
+par spectroscopie visible montrent un acroissement d e la force 
+
+du champ cristallin a pH basique. De plus des rtsultats rpe 
+
+montrent l'apparition d'une structure hyperfine a 5 raies pour 
+
+le complexe dtprotonnt, en accord avec la transformation de 
+l'acide amint en un ligand tridentate moins labile a pH basique. 
+Les temps de relaxation en rmn concordent aussi avec les 
+
+Remerciements 
+
+Nous remercions le CRSNG pour l'aide financiere accordte 
+a ce travail. 
+
+I. E. ERLENMEYER. Ber. 3445 (1892). 
+2. K. TATSUMOTO et A. E. MARTELL. J. Am. Chem. Soc. 100,5549 
+(1978); M. S. MOHAN et E. H. ABBOTT. Inorg. Chem. 17, 3083 
+(1978). 
+3. P. SHARROCK. Synthese de la phtnylsCrinc et ttude de ses com-
+plexes cuivriques. Thksc de Ph.D., Facult6 des sciences, Univer-
+site de Sherbrooke (1 976). 
+4. K. SHAW et S. W. FOX. J. Am. Chem. Soc. 75, 3417 (1953); 75, 
+3421 (1953). 
+5. J. GREENSTEIN et M. WINITZ. Chemistry of the amino-acids. 
+J . Wiley, New York. 1961. pp. 2595-2602. 
+6. P. SHARROCK et S. ARABI. Arab Gulf J. Sci. Res. 1, 105 (1983). 
+7. P. SHARROCK et R. HARAN. J. Coord. Chem. 11, 117 (1981). 
+8. P. GRENOUILLET, R. P. MARTIN, A. Ross1 et M. PTAK. Biochim. 
+Biophys. Acta, 322, 185 (1973). 
+9. H. C. FREEMAN et R. P. MARTIN. J. Biol. Chem. 18, 4823 
+(1969). 
+10. T. P. KRUCK et B. SARKAR. Can. J. Chem. 51, 3555 (1973). 
+l I . P. SHARROCK. Polyhedron, 2, 1 I (1983). 
+12. E. V. RAJU et H. B. MATHUR. J . Inorg. Nucl. Chem. 30, 2181 
+( 1968). 
+13. W. F. STACK et H. A. SKINNER. Trans. Faraday Soc. 63, 1136 
+(1967). 
+14. A. C. R. THORNTON et H. A. SKINNER. Trans. Faraday Soc. 65, 
+2044 ( 1 969). 
+15. J. E. LETTER et J. E. BAUMAN. J. Am. Chem. Soc. 92, 437 
+(1970). 
+16. J. E. LETTER et J. E. BAUMAN. J. Am. Chem. Soc. 92, 443 
+(1970). 
+17. A. GERGELY, J. MOJZES et ZS. KASSAI BAZSA. J. Inorg. Nucl. 
+Chern. 34, 1277 (1972). 
+18. D. R. WILLIAMS. J. Chem. Soc. Dalton Trans. 1064 (1973). 
+19. T. P. I. et G. NANCOLLAS. Inorg. Chem. 2414 (1972). 
+20. J. MARCHAND, M. PAIS et F. X. JARREAU. Bull. Soc. Chirn. Fr. 
+3742 (1971). 
+21. S. FUTAGAWA, T. INUI et T. SHIBA. Bull. Chem. Soc. Jpn. 3308 
+(1973). 
+22. H. OGURA, Y. ARATA, et S. FUJIWARA. J. Mol. Spectrosc. 23,76 
+(1967). 
+
+Can. J. Chem. Downloaded from www.nrcresearchpress.com by 87.160.185.190 on 03/27/14 
+
+For personal use only. 
+
+
+
+	
+

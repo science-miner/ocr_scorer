@@ -1,0 +1,1797 @@
+
+	
+
+		
+
+	
+
+	
+
+~t u d e 
+chimique et cinetique de l'oxydation homogene en phase gazeuse d'alcanes legers. 
+11. Propane et mecanisme generalise 
+
+B. VOGIN,' F. BARONNET' ET G. SCACCHI 
+
+Dipartement de chimie physique des riactions, Uniti de recherche associie no 328 du Centre national de la 
+recherche scientifique, Institute-national polytechnique de Lorraine -Ecole nationale supirieure des industries chimiques, 
+
+I, rue Grandville, BP 451,54001 Nancy CEDEX, France 
+
+R e p le 3 1 mai 1990 
+
+B. VOGIN, F. BARONNET et G. SCACCHI. Can. J. Chem. 69, 43 (1991). 
+
+Une Ctude expirimentale detaillee de l'oxydation du propane en phase gazeuse homogkne 2 350°C et a pression 
+
+subatmosphCrique a Ctt entreprise dans le but d'identifier et de doser les produits primaires principaux de la rkaction. Les rCsultats 
+expCrimentaux ont Ct C interprCtCs par un mecanisme radicalaire en chaines s'appuyant sur ces rCsultats et sur l'tvaluation des 
+constantes de vitesse des processus ClCmentaires proposCs par les mCthodes de la CinCtique Thermochimique. Les processus 
+ClCmentaires proposCs sont discutCs et comparCs aux observations expCrimentales. Les rCsultats obtenus et leur interpretation font 
+I'objet d'une comparaison avec une Ctude dCtaillCe de m&amp;me nature faite sur l'exemple de l'isobutane. Cornrne dans ce dernier 
+cas, il apparait deux chemins rkactionnels parallkles, l'un prkdominant conduisant a I'olCfine conjuguCe (ici propylkne) et 
+l'autre a la formation de 1'Cpoxyde de cette olefine (ici oxyde de propylkne). De substantielles similitudes entre l'oxydation de 
+l'isobutane et celle du propane ont pu &amp;tre mises en evidence, ce qui renforce la coherence des rtsultats obtenus. 
+Mots clis : oxydation, cinttique, mecanisme reactionnel, propane, cinCtique thermochimique. 
+
+B. VOGIN, F. BARONNET, and G. SCACCHI. Can. J. Chem. 69, 43 (1991). 
+
+An experimental study of the homogeneous gas phase oxidation of propane at 350°C and subatmospheric pressure has been 
+performed in order to identify and to measure the major primary products of the reaction. The experimental results have been 
+interpreted by a chain radical mechanism, deduced from these results and from estimates of the rate constants for the elementary 
+steps obtained by the methods of Thermochemical Kinetics. The proposed elementary steps are discussed and compared with 
+the experimental observations. The results that we have obtained and their interpretation are compared with a similar detailed 
+investigation performed on the oxidation of isobutane. As in the case of isobutane, two parallel reaction pathways appear, a 
+dominant one leading to the conjugated alkene (propylene) and another one leading to the epoxide of this olefin (here propylene 
+oxide). The oxidation of isobutane and that of propane appear to be quite similar, which corroborates the results that we have 
+obtained. 
+Key words: oxidation, kinetics, reaction mechanism, propane, thermochemical kinetics. 
+
+I. Introduction 
+1.1. Ge'nbalite's et rappels 
+Ce second mtmoire fait suite a un premier travail publit sur 
+l'oxydation de l'isobutane (1). Dans ce premier article, nous 
+avions fait une mise au point bibliographique assez complkte 
+sur les publications traitant de l'oxydation des alcanes 1Cgers. 
+Rappelons seulement que notre objectif est essentiellement 
+de proposer un mtcanisme rkactionnel suffisamment complet 
+permettant de rendre compte des observations expkrimentales 
+effectuCes lors de l'oxydation d'alcanes lCgers vers 300-350°C 
+a relativement faible avancement. 
+L'Ctude bibliographique prCcitCe ( I ) nous avait conduits 
+? I conclure que les donnCes publites dans la littkrature ne 
+permettaient pas de constniire-un mCcanisme suffisamment stir 
+et dCtaillC. Cette situation nous avait incitCs a reprendre une 
+Ctude expkrimentale specifiquement orientCe vers les rkactions 
+d'oxydation d'alcanes lCgers a faible avancement. 
+Nous nous Ctions d'abord intCressCs au cas de l'isobutane (1). 
+Dans le present travail, nous allons examiner l'exemple du 
+propane et gCnCraliser les conclusions auxquelles nous avons 
+abouti. 
+1.2. Donne'es bibliographiques de l'oxydation du propane 
+I1 existe un certain nombre d'articles gCnCraux sur les 
+reactions d'oxydation d'alcanes mentionnCs dans le mCmoire 
+prCcCdent, tels ceux de Pollard (2) et de Benson (3,4). D'autres 
+
+travaux de Benson (5, 6 ) abordent ces questions mais sont plus 
+
+1. Nouvelle adresse : RhBne-Poulenc, Usine de ChalampC, 68490 
+Ottmarsheim, France. 
+2. Auteur 2 qui adresser toute correspondance. 
+
+orient&amp; vers les problbmes lits aux flammes froides ou aux 
+inflammations; une recherche bibliographique a souligni le 
+faible nombre de publications susceptibles d'apporter des 
+rtponses aux questions que nous nous posons sur les reactions 
+du propane; c'est ainsi que, dans la mise au point de Pollard (2), 
+aucun article sur la chimie de l'oxydation de cet alcane n'est 
+
+rtpertorit . 
+
+La majeure partie des articles publies sur l'oxydation du 
+propane concerne les rCactions catalytiques qui ont des applica-
+tions industrielles plus directes que la rCaction non catalytique. 
+Comme dans le cas de l'isobutane, nous avons CliminC les 
+articles correspondant a des Ctudes effectuCes a trop grand 
+avancement, l'analyse du mCcanisme devenant alors quasi 
+impossible, ainsi que les articles dCcrivant la rkaction non-
+isotherme (flammes froides et inflammations de 2kme stade). 
+Dans le cas de l'oxydation homogene du propane, il apparait 
+que les quelques auteurs qui ont CtudiC la rCaction se sont 
+penchCs surtout sur les effets de parois. En effet, la grande 
+quantitt de C 0 2 formCe dans les premiers instants de la rkaction 
+observCe par Shtern et co-auteurs (7-9), ainsi que la formation 
+de propene, ont conduit ces auteurs a associer ces observations 
+a une hCtCrogCnCit6 de la rkaction. Cependant l'addition de 
+gaz inerte ou l'augmentation du rapport surface sur volume du 
+rkacteur ne modifiant pas la rkpartition des produits, ces mCmes 
+
+auteurs ont conclu, dans une Ctude postCrieure, i 1'homogCnCitC 
+
+de la rkaction, ce qui parait d'ailleurs plus en accord avec les 
+observations faites sur d'autres alcanes legers, n-butane par 
+exe;mple (10, 11). 
+Etant donnC que notre Ctude prCcCdente sur l'isobutane sug-
+gCrait qu'il Ctait illusoire d'appliquer directement les thCories de 
+
+Printed in Canada I lmprimf au Canada 
+
+Can. J. Chem. Downloaded from www.nrcresearchpress.com by 87.160.185.190 on 03/27/14 
+
+For personal use only. 
+
+
+CAN. 1. CHEM. VOL. 69. 1991 
+
+Temps (min) 
+
+FIG. 1. Oxydation du propane 2 avancement modtrt : courbes de formation des produits principaux en fonction du temps. Pression initiale du 
+mClange CquimolCculaire propane-oxygtne : 125 Torr. TempCrature de rCaction 350°C (623 K). 
+
+Fish (12) ou de Knox (13) pour tenter de dtcrire en dCtail la 
+chimie du systkme, une approche rationnelle de 1'Ctude de la 
+rkaction d'oxydation du propane a faible avancement nCcessitait 
+une investigation exPCrimentale suffisamment dCtaillCe. 
+Le choix du propane paraissait justifiC Cgalement d'un point 
+de vue pratique car il prCsente l'avantage de possCder un atome 
+de carbone en moins que les butanes, ce qui devrait restreindre 
+la gamme des produits formb et faciliter 1'Ctude experimentale, 
+en particulier au niveau des analyses. 
+
+11. ~t u d e experimentale de I'oxydation du propane 
+
+11.1. Appareillage et analyses 
+
+L'appareillage utilisC (rtacteur statique i volume constant), le mode 
+
+optratoire et les mkthodes analytiques (chromatographie en phase 
+gazeuse essentiellement) ont Ct C dCcrits dans notre mCmoire prkctdent 
+(1). Rappelons que le formaldChyde est dost par colorimttrie, mCthode 
+nettement moins sensible que la chromatographie en phase gazeuse 
+utiliste pour les hydrocarbures, d'oU une certaine dispersion des 
+
+points, car i la moindre sensibilitC de la mCthode s'ajoutent les erreurs 
+
+likes au piCgeage et 2 la rnise en solution du formaldChyde formC. 
+
+11.2. Conditions expe'rimentales 
+La plupart des expCriences ont Ct C effectutes 2 350°C, 2 une 
+pression de rnClange Cquimoltculaire C3H*/O2 de 125 Torr (1 Torr = 
+133,3 Pa), dans un rCacteur de Pyrex de 250 cm3, pour des temps de 
+rCaction gCnCralement compris entre 1 et 20 min; I'avancement de la 
+riaction est voisin de 1% pour un temps de rkaction de 5 min. 
+Contrairement au cas de I'isobutane, nous n'avons pas jug6 
+nCcessaire de redkterminer un diagramme pression-temptrature, de 
+tels diagrammes ayant &amp;ti ttablis a plusieurs reprises par difftrents 
+auteurs (14-16). Celui de Newitt et Thornes (14) est d'ailleurs un 
+c&lt;classique,, figurant dans de nombreux ouvrages. A partir de ces 
+diagrammes, corroborts par des modClisations (17), nous avons pu 
+vCrifier que les conditions choisies correspondent a une zone de 
+rtaction lente. 
+Les probltmes lits a la reproductibilitC des expCriences avaient fait 
+
+I'objet d'investigations dCtaillCes dans le cas de l'isobutane; I'oxyda-
+tion du propane n'appelle pas de commentaires particuliers de ce point 
+de vue, compte-tenu de I'expCrience acquise avec I'isobutane. Comme 
+le montrent les points reprksentatifs de la formation des produits 
+en fonction du temps, la reproductibilitt des exptriences apparait 
+suffisante pour 1'Ctude entreprise. 
+
+Par ailleurs nous avons dtcidt d'Ctudier directement la rCaction a 
+
+faible avancement, compte-tenu des Ctudes faites avec l'isobutane; en 
+effet, nos mtthodes d'analyse permettent de mettre en tvidence avec 
+une sfiretC suffisante les produits primaires principaux de la rkaction. 
+
+I1 ne paraissait donc pas ntcessaire de faire des bilans a plus fort 
+
+avancement (de f a ~o n 2 ce qu'ils soient significatifs) entre propane 
+consommt et produits formts. Ceci justifie les conditions exptri-
+mentales indiqutes prCcCdemment. 
+
+11.3. Re'sultats expe'rimentaux pour les me'langes propane-oxygkne 
+Les produits dosCs se composent d'hydrocarbures : proptne, Cthyltne 
+et mCthane, et de produits oxygtnCs : formaldChyde, acttaldkhyde, 
+propionaldthyde, acCtone, mCthyloxiranne, oxttanne, monoxyde et 
+dioxyde de carbone et eau oxygtnte. Le dosage de I'eau prtsentant 
+des difficultts, les quantitCs d'eau formte n'ont pas Ct C dCterminCes, 
+mais sa production est relativement importante. 
+Les courbes de formation au cours du temps des produits sont 
+rassembltes sur les figures 1-3 comportant des Cchelles differentes. 
+Afin de dtterminer la nature primaire ou secondaire des produits 
+dosCs, nous avons Ctabli figure 4 un &lt;&lt;diagramme horizontaln ou 
+nous avons reprCsentt en fonction du temps le pourcentage molaire 
+de chaque produit dosC (pression du produit considCrC diviste par la 
+somme des pressions des produits dosts) 2 I'exclusion des rCactifs et de 
+I'eau; ceci ne donne que des valeurs relatives puisque l'eau n'est pas 
+comptabiliste et, en particulier, il n'est pas possible de remonter 2 
+partir de ce diagramme des tquations stoechiomCtriques. 
+
+Les produits qui s'extrapolent i une valeur non nulle pour t = 0 
+
+peuvent &amp;tre considtrCs comme les produits primaires de la rtaction. 
+La gamrne de produits primaires comprend donc le propkne, le 
+formaldthyde, I'acttaldChyde, I'eau oxygCnte, le mCthyloxiranne et 
+peut-&amp;tre 1'Cthylene. 
+
+Can. J. Chem. Downloaded from www.nrcresearchpress.com by 87.160.185.190 on 03/27/14 
+
+For personal use only. 
+
+
+VOGIN ET AL 
+
+Temps (min) 
+
+FIG. 2. Oxydation du propane i avancement modkrk : courbes de formation des produits en fonction du temps. MCmes conditions 
+
+expCrimentales que fig. 1. 
+
+I 
+
+Temps (min) 
+
+FIG. 3. Oxydation du propane B avancement modkrk : courbes de formation des produits en fonction du temps, fa~sant apparaitre les produits 
+
+rmneurs. MCmes conditions expkrimentales que fig. 1. 
+
+Can. J. Chem. Downloaded from www.nrcresearchpress.com by 87.160.185.190 on 03/27/14 
+
+For personal use only. 
+
+
+46 
+
+CAN. J. CHEM. VOL. 69, 1991 
+
+Temps ( ;in) 
+
+FIG. 4. Reprtsentation du pourcentage rnolaire des difftrents pro-
+duits : pression du produit i/C(pressions des produits rnesurts) en 
+fonction du temps. MCrnes conditions exptrirnentales que fig. 1 (l'eau 
+est exclue de cette reprtsentation). 
+
+Par ailleurs, les produits secondaires sont composts de rnonoxyde et 
+dioxyde de carbone, rntthanol, oxttanne, acttone, propionaldthyde et 
+rntthane. Le tableau 1 regroupe les estimations du pourcentage initial 
+de ces produits, ainsi qu'ti 5 rnin de rtaction (colonnes propane seul). 
+
+11.4. Resultats experimentaux pour les melanges propane-propene-
+oxygdne 
+Cornpte-tenu de la. rtactivitt des alctnes, il parait logique de 
+supposer que l'alctne conjugut formt lors de I'oxydation d'un alcane 
+s'oxyde ti son tour, et vient superposer son mtcanisrne a celui de 
+l'alcane. I1 peut ainsi devenir difficile de dtterminer l'origine exacte 
+des produits lorsqu'il y a ambigu'itt possible, comme c'est souvent le 
+cas. Nous avons tentt de lever en partie la difficult6 en ttudiant 
+
+l'oxydation de l'alcane a trts faible avancernent pour tviter certaines 
+
+rtactions secondaires parasites. Pour essayer de cerner de plus prts la 
+nature des produits forrnes, nous avons dtcide d'effectuer I'etude de 
+l'oxydation du rntlange alcane -alctne conjugut en ajoutant du 
+proptne au propane dans la proportion de 5% de la pression totale des 
+hydrocarbures, le rapport hydrocarbures-oxygtne restant fix6 a 1 pour 
+modifier le rnoins possible le cornporternent du systtrne par rapport ti 
+l'oxydation de l'alcane seul. De meme, la temperature de rtaction est 
+rnaintenue ti 350°C et la pression initiale 125 Torr. 
+Les courbes de formation au cours du temps des produits de 
+l'oxydation commune propane-proptne sont rassernbltes sur les 
+figures 5-7 cornportant des tchelles difftrentes. 
+
+TABLEAU 1. Pourcentages rnolaires des produits formts dans l'oxyda-
+tion du propane et de rntlanges propane-proptne (5% de proptne) 
+
+g 5 rnin de rtaction et extrapolts a avancernent nu1 (t = O), d'aprts 
+
+les figures 4 et 8 
+
+Pourcentages rnolaires 
+
+Mtlange 
+propane-proptne 
+Propane seul 
+
+Produit 
+t = O 
+t = 5 m i n 
+t = O 
+t = 5 r n i n 
+
+CH4 
+0 
+0 , l 
+0 
+0 
+C2H4 
+2,5 
+3,4 
+0,6 
+1,2 
+C3H6 
+Kg$] 
+17,O 
+64,8 
+57.4 
+HCHO 
+[37,5] 
+23,9 
+8,4 
+11,7 
+CH3CH0 
+9,4 
+9,1 
+13,O 
+7 8 
+C2H5CH0 
+0 
+0 2 
+0 
+0,1 
+CH3COCH3 
+Traces 
+0,1 
+Traces 
+0 2 
+CH30H 
+0 
+0,9 
+0 
+0,5 
+CO 
+0 
+15,O 
+0 
+9 2 
+CO2 
+O 
+6,O 
+O 
+4,9 
+H202 
+[30,01 
+13,7 
+10,2 
+5,5 
+CH3-CH-CH2 
+
+Lo J 
+
+10,3 
+9,9 
+3,O 
+2,1 
+
+CH2-CH2 
+
+I 
+I 
+
+0,7 
+0,7 
+Traces 
+0 2 
+CH2-0 
+Total 
+[100,0] 
+100,O 
+100,O 
+100,O 
+
+La distinction des produits prirnaires est a nouveau rCalisCe par la 
+construction d'un diagramme horizontal reprtsentant le pourcentage 
+du produit considtrt (rapport6 a la somrne des produits dosts) en 
+fonction du temps (fig. 8). Les valeurs utilistes pour ce diagrarnrne 
+sont obtenues aprts lissage des valeurs exptrirnentales par le tract de 
+courbes optirnales : celles des figures 5-7. 
+
+Nous pouvons a nouveau tenter une dtterrnination des produits 
+
+prirnaires : formaldthyde, eau oxygtnte, rntthyloxiranne, acttal-
+dthyde, proptne, tthyltne et oxttanne, et secondaires : rntthane, 
+propionaldehyde, acetone, rntthanol, rnonoxyde et dioxyde de carbone. 
+
+Les pourcentages initiaux et a 5 rnin de rtaction, sont rapportts 
+
+dans le tableau 1, ob figurent aussi les valeurs des rnCrnes grandeurs 
+dans le cas de l'oxydation du propane seul. 
+I1 faut noter que la valeur du pourcentage donnte pour le proptne 
+dans le cas de l'oxydation du rntlange propane-proptne n'a gutre de 
+signification. D'une part, elle rtsulte de la difftrence de deux valeurs 
+du rnCrne ordre de grandeur (valeur du dosage -valeur de la quantitt 
+initiale) ce qui donne un rtsultat trts faible et par constquent une 
+incertitude d'un niveau trts tlevt. D'autre part, ce rtsultat lui-mCme 
+reprtsente en rtalitt la difftrence entre la quantitt de proptne produite 
+par la rtaction d'oxydation du propane et la quantitt consommte 
+par oxydation du proptne. I1 est donc prtftrable de cornparer les 
+pourcentages relatifs des produits en excluant le prophe. Les valeurs 
+correspondantes figurent dans le tableau 2. Ce mime tableau men-
+tionne les rapports des pourcentages initiaux des produits prirnaires : 
+pourcentage pour l'oxydation du rntlange propane-proptne divist par 
+le pourcentage pour l'oxydation du propane seul, le proptne Ctant 
+toujours exclu des calculs. On observe alors que l'ajout de proptne 
+favorise la formation d'tthyltne, de formaldthyde, d'eau oxygtnte, 
+de mtthyloxiranne et d'oxttanne, tandis que celle de l'acetaldthyde 
+est fortement diminute, ce qui est contraire des hypothtses utilistes 
+dans des modtlisations anttrieures (17). 
+Comme pour I'oxydation de l'isobutane, nous allons proposer un 
+mecanisme qui sera confront6 aux resultats exptrirnentaux. 
+
+Can. J. Chem. Downloaded from www.nrcresearchpress.com by 87.160.185.190 on 03/27/14 
+
+For personal use only. 
+
+
+VOGIN ET AL 
+
+FIG. 5. Oxydation du mClange propane-propbne A 5% de propbne 
+
+propkne 
+
+propbne + propane 
+
+= 0,05 
+= 1 
+
+propbne + propane 
+propbne + propane + oxygbne 
+
+Courbes de formation des produitsprincipnux en fonction du temps. Pression initiale 125 Tom. TempCrature : 350°C (623 K). 
+
+du temps. 
+
+Can. J. Chem. Downloaded from www.nrcresearchpress.com by 87.160.185.190 on 03/27/14 
+
+For personal use only. 
+
+
+48 
+
+CAN. J. CHEM. VOL. 69, 1991 
+
+Temps (min) 
+
+FIG. 7. Oxydation du mklange propane-propkne : m&amp;mes conditions que fig. 5. Reprksentation des produits mineurs. 
+
+111. Determination du mecanisme de la reaction et 
+commentaires 
+IIl . l . De'termination du rne'canisme 
+Nous avons suivi la rnerne rntthodologie que dans l'ttude 
+conduite dans le cas de l'isobutane (1) en nous appuyant d'une 
+part sur les rtsultats exptrirnentaux et d'autre part sur les 
+connaissances fondamentales acquises en chirnie radicalaire, en 
+utilisant tgalernent les techniques d'estirnation des constantes 
+de vitesse des processus tltrnentaires. Ici encore, ce que nous 
+cherchons B tcrire, ce ne sont pas des rkactions globales rnais 
+des processus tltrnentaires vrais compatibles avec les principes 
+de la cinttique (rtversibilitt rnicroscopique, rnoindre change-
+rnent de structure, etc.. .) et les donntes rtcentes acquises en 
+therrnochirnie. Cornrne dans le cas de l'isobutane, les processus 
+retenus tiennent compte aussi des schtrnas gtniraux tcrits par 
+d'autres auteurs (Fish (12) et Knox (13) en particulier) pour 
+rendre cornpte des oxydations d'alcanes. 
+Nous avons chercht B tcrire le rntcanisrne rkactionnel de 
+rnanikre rationnelle et systtrnatique, en analysant les diverses 
+cattgories de processus tltmentaires pouvant intervenir, cornpte-
+tenu de la structure des radicaux derives de la rnoltcule de 
+propane par arrachernent d'hydrogkne. 
+Amorcage 
+Deux forrnes isornkres du radical propyle C3H7. (iso-et n-) 
+sont susceptibles d'stre formtes par la reaction : 
+
+gkntralernent retenue cornrne amorsage prirnaire dans les 
+reactions d'oxydation en phase gazeuse homogkne, bien que 
+
+3. Dans l'ensemble de ce travail nous utiliserons les unitks : L, mol, 
+s, kcal. 
+
+sujette B controverse et discutte par certains auteurs (4, 5) en 
+ce qui conceme en particulier les valeurs prtconistes pour sa 
+constante de vitesse. En rkalitt ce point n'est pas fondamental 
+car trks rapidernent le relais de l'amor~age est pris par les 
+branchernents dtgtntres. 
+Les radicaux susceptibles d'etre forrnts sont donc : 
+(i) par arrachernent d'un des deux atornes d'hydrogkne 
+secondaires : 
+
+CH3-.CH-CH3 
+radical isopropyle : 
+
+DHO (iC3H7 -H) = 95,O kcal mol-I 
+(18,21) 
+
+(ii) par arrachernent d'un des six atornes d'hydrogkne 
+prirnaires : 
+
+CH3-CH2-*CHI 
+
+radical n-propyle :@ ou nC3H7 
+
+DHO (nC3H7 -H) = 98,O kcal mol-I 
+(1821) 
+
+A 350°C, la formation du radical isopropyle est environ 5,5 
+fois plus rapide que celle du radical n-propyle, cornpte-tenu de 
+la difference des tnergies d'activation des deux processus et du 
+nornbre d'atornes d'hydrogkne arrachables dans les deux cas. 
+Addition d'une mole'cule d'oxyge'ne sur les radicaux alcoyle. 
+On considkre ensuite l'addition reversible de l'oxygkne sur les 
+radicaux isopropyle et n-propyle : 
+
+(2) 
+R.+ 0 2 
+R02* 
+
+Les deux radicaux peroxyalcoyle obtenus sont : 
+
+CH3-CH-CH3 
+et 
+CH3-CH2-CH200 
+
+Can. J. Chem. Downloaded from www.nrcresearchpress.com by 87.160.185.190 on 03/27/14 
+
+For personal use only. 
+
+
+VOGlN ET AL. 
+
+49 
+
+valeurs des grandeurs thermodynamiques ntcessaires a l'esti-
+mation des constantes de vitesse. Les processus (3.3) et (3.4) 
+issus tous deux du radical n C3H7CO0. (R202 .) apparaissent 
+plus rapides que le processus (3.1) selon les calculs des 
+constantes de vitesse qui seront .donnts plus loin dans le 
+tableau 7. Cette tendance n'est pas cornpenste par les valeurs 
+des constantes d'tquilibre prtsenttes dans le tableau 3, si l'on 
+tient compte du r6le des processus inverses. 
+Les concentrations des radicaux . Q 3 0 0 ~ 
+et .Q400H seraient 
+donc a priori plus tlevtes que celle de .Q'OOH, renversant 
+ainsi l'ordre d'importance estimt premikre vue a partir de la 
+facilitt de formation des radicaux alcoyle. 
+
+Temps (min) 
+
+FIG. 8. ReprCsentation du pourcentage molaire en fonction du 
+temps des difftrents produits formts dans l'oxydation du mtlange 
+propane-proptne. M&amp;mes conditions exptrimentales que fig. 5 . 
+
+et ils sont supposts se former avec la m&amp;rne vitesse, cornme 
+toute oxydation de radical alcoyle. 
+
+Isome'risation des radicaux peroxyalcoyle. En accord avec 
+les schtrnas retenus par Fish (12), les radicaux peroxyalcoyle 
+sous les deux formes isomkres R102. et R202., comme dans le 
+cas de l'isobutane, peuvent s'isomtriser par transfert interne 
+d'hydrogkne en radicaux hydroperoxyalcoyle -QOOH 
+
+Ces processus d'isomtrisation des deux formes isomkres 
+des radicaux peroxyalcoyle conduisent a 5 formes de radicaux 
+hydroperoxyalcoyle .QIOOH-. Q 5 0 0 H par formation de com-
+plexes actives a 6 centres (rtaction (3.4)),4a 5 centres (rtactions 
+(3.1) et (3.3)) et 4 centres (rtactions (3.2) et (3.5)). Ces deux 
+demiers processus sont ntgligeables devant les autres en raison 
+
+de l'tnergie d'activation tlevte ntcessaire a la formation du 
+
+complexe activt a 4 centres. 
+Les formules semi dtvelopptes de ces cinq formes seront 
+donntes ulttrieurernent dans le tableau 6 qui rtcapitule les 
+
+4. La numtrotation des rtactions correspond h celle des tableaux 8 
+et 9 prtsentts plus loin. 
+
+Formation des produits de re'action 
+A partir des difftrentes formes isornkres des radicaux 
+.QOOH, nous proposons dans le tableau 4 les difftrents 
+processus Clhentaires possibles, y compris dans le souci d'&amp;tre 
+complet, ceux qui poukaient a priori &amp;tre considtrts cornrne 
+ntgligeables; ils portent des numtros suptrieurs 4.7 (cf. 
+tableaux 8 et 9). 
+Pour interprtter la formation d'aldthydes, il parait logique 
+de tenir cornpte de la dtcornposition des deux radicaux alcoxy 
+RO. (R'O. et R20.) obtenus par disrnutation des radicaux 
+peroxyalcoyle R102 et R202 . 
+Ces rtactions de disrnutation sont souvent envisagtes et leur 
+
+constante de vitesse peut etre estirnte proche de logs5 L mol-' s-'. 
+
+Les donntes relatives aux radicaux alcoxy figurent dans le 
+tableau 5. 
+Les remarques que nous avons faites dans le cas de 
+l'isobutane ( I ) derniurent valables dans le cas du propane. Ici 
+encore, l'tcriture de tous les processus tltrnentaires possibles 
+conduirait ? I un rntcanisrne global particulikrernent cornplexe 
+qui ne serait que d'une efficacitt trks limitte, voire inexistante, 
+pour interprtter nos rtsultats exptrirnentaux. Ce que nous 
+cherchons, c'est ?I simplifier ce schtma rtactionnel pour 
+determiner les rtactions tltrnentaires essentielles permettant 
+de rendre compte des caracttristiques cinttiques et chirniques 
+obsemtes exptrimentalement. I1 va de soi que les concentra-
+tions relatives des diverses espkces radicalaires permettent une 
+prernikre simplification. 
+Mais, pour rnener a bien cette simplification, il faudrait 
+disposer aussi des constantes de vitesse de tous les processus 
+tltrnentaires pouvant &amp;tre tcrits. Les donntes disponibles dans 
+la litttrature sont gtntralement incornplktes et peu prtcises et il 
+peut se poser des problernes de cohtrence entre ces donntes. 
+Nous avons donc utilist ? I nouveau, comme dans le cas de 
+l'isobutane (I), la rntthode semi-ernpirique d'estirnation des 
+constantes de vitesse dtveloppte par Benson sous le nom de 
+Cinttique Thermochimique (18). Rappelons que ces mtthodes 
+ntcessitent d'abord l'estirnation des grandeurs thermodynarni-
+ques (AHO~, SO, CP0) par des mtthodes d'additivitt de groupes 
+pour les moltcules ou en tenant compte des parametres 
+structuraux pour les espkces radicalaires (rntthode dite du 
+
+compost rnodkle) . 
+
+Dans cet exemple, nous avons effectut les calculs de AHof et 
+
+So a 300 K; ils sont utilists a 623 K sans corrections en raison du 
+
+nombre important de valeurs de C : non tabultes. Remarquons 
+que les variations en fonction de la tempkrature sont gtntrale-
+ment relativement faibles et que les erreurs sur AH O et AS0 se 
+cornpensent, au rnoins en partie, lors du calcul de AGO. 
+Les rtsultats des calculs des grandeurs thermodynarniques 
+sont donnts dans le tableau 6. 
+A partir de la relation entre ces grandeurs thermodynarniques 
+Can. J. Chem. Downloaded from www.nrcresearchpress.com by 87.160.185.190 on 03/27/14 
+
+For personal use only. 
+
+
+CAN. J. CHEM. VOL. 69, 1991 
+
+TABLEAU 2. Pourcentages rnolaires des produits forrnes dans l'oxydation du propane et 
+de melanges propane-propkne (5% de propkne) calculCs en excluant le propkne. Valeurs 
+donnCes ?i 5 rnin de reaction et a avancernent nu1 ( t = 0) 
+
+Pourcentages rnolaires 
+Rapport des 
+Melange 
+pourcentages 
+propane-propkne 
+Propane seul 
+initiaux 
+
+/ % rntlange \ 
+
+-
+-
+-
+
+Produit 
+
+t = O 
+
+t=5rnin 
+t = O 
+t=5rnin 
+\ % ~~~~s e u l ) 
+
+CH4 
+0 
+0,1 
+0 
+0 
+
+-
+
+CzH4 
+2,s 
+4,1 
+1,7 
+2,s 
+1,65 
+HCHO 
+[41,4] 
+28,s 
+23,9 
+27,5 
+1,73 
+CH3CH0 
+10,4 
+11 ,O 
+36,9 
+16,4 
+0,28 
+C2H5CH0 
+0 
+0 2 
+0 
+0 2 
+
+-
+
+CH3COCH3 
+Traces 
+0,1 
+Traces 
+0 3 
+
+-
+
+CH30H 
+0 
+1,1 
+0 
+1 2 
+
+-
+
+CO 
+0 
+l8,l 
+0 
+21,6 
+
+-
+
+co2 
+
+0 
+7,3 
+0 
+11,5 
+H202 
+[33,21 
+16,5 
+29.0 
+12,9 
+1,14 
+CH3-CH-CH2 
+
+Lo J 
+
+11,4 
+11,9 
+8,5 
+4,9 
+1,34 
+
+CH CH2 
+
+1 2 -~ 
+
+0,s 
+0,s 
+Traces 
+0 3 
+
+&gt;&gt; 1 
+
+CH2-0 
+Total 
+100,O 
+100,O 
+100,O 
+100,O 
+
+TABLEAU 3. Constantes d'equilibre ?i 623 K et tailles des cycles 
+dans 1' Ctat de transition lors de l'isornerisation des radicaux 
+peroxyalcoyle (RIOz. et R202.) dtrivts du propane en radicaux 
+
+hydroperoxyalcoyle . QOOH 
+
+-
+-
+
+--
+
+Taille du cycle 
+Constante 
+dans l'ttat 
+Rkaction 
+d'tquilibre 
+de transition 
+Radical form6 
+
+AH' et AS' et la constante dlCquilibre K 
+
+la connaissance de AH', AS' et de la constante de vitesse de la 
+
+riaction directe kd ou inverse ki conduit ti l'estimation de la 
+
+valeur de l'autre, ce qui suppose souvent des approximations 
+raisonnables obtenues par des analogies avec des rCactions 
+voisines. 
+Les rCsultats de l'tvaluation des grandeurs cinCtiques sont 
+
+donnCs dans le tableau 7. 
+Dans ce tableau, nous donnons les valeurs estimCes a l'aide 
+des calculs dtcrits prCctdemment du facteur prtexponentiel A , 
+
+de 1'Cnergie d'activation E et de la constante k calculCe a 623 K 
+(unitCs : L, mol , s). 
+
+Les processus Cltmentaires, Ccrits en tenant compte de 
+I'expCrience anttrieure dans des syst2mes voisins (1) et des 
+connaissances acquises en chimie radicalaire, que nous avons 
+retenus, compte-tenu de la discussion prkddente et de l'estima-
+
+tion des constantes de vitesse calcultes 21 623 K, sont donnCs 
+
+dans les tableaux 8 et 9, le premier prtsentant les processus 
+
+TABLEAU 4. PTocessus tlernentaires de dCcornposition des radicaux 
+hydroperoxyalcoyle .QOOH intervenant dans I'oxydation du propane 
+
+14, -1 . 3 . 1 0 ~ 
+
+C H -C H = C H , + HO; 
+
+CI(,-CH-' MI 
+
+I 
+
+OOH 
+\\"-lo3 
+
+c 
+
+CH,=CH.OOH+'CH, 
+
+\ 140"O 
+
+C h -Ctk -CHO + 'CH 
+
+OOH 
+
+CH, -.M -M W H 
+
+a+-CH2.'CH33H 
+
+' 14t1 = 4 . 8 
+
+L 
+
+CHp = CH -OOH + 'CY 
+
+h . ! 2 = 0 
+
+L CI(, -W -M , + 'OH 
+
+u 
+
+Can. J. Chem. Downloaded from www.nrcresearchpress.com by 87.160.185.190 on 03/27/14 
+
+For personal use only. 
+
+
+VOGIN ET AL. 
+
+5 1 
+
+TABLEAU 5. Processus ClCrnentaires de dCcomposition des radicaux 
+TABLEAU 6. Grandeurs thermodynamiques (AH0, et SO) pour les 
+
+alcoxy i 3 atomes de carbone susceptibles de figurer dans le schCma 
+eseces intervenant dans le micanisme proposi d'oxydation du propane 
+d'oxydation du propane 
+(calcul i 300 K) 
+
+: CH3-TH-CH, 
+
+/ 
+
+0. 
+
+\ k 5 , -2.1 . 10" 
+
+w CH, -CHO + 'CH, 
+
+k S 2 -1.6. 10'' 
+
+/ 
+
+. HCHO+Cti,-'CH2 
+
+: CY -CH, -CH, O. 
+
+(5 3) 
+
+W 
+
+CH3CH0 + 'CHI 
+
+\ k 5 , -1 , 5 . 1 0 7 
+
+CH, -CH, -CHO + H' 
+
+ClCrnentaires gCnCrCs 5 partir du radical isopropyle, le second 
+
+a partir du radical n-propyle. 
+
+111.2. Commentaires sur le me'canisme et discussion 
+Ge'ne'ralite's 
+I1 serait fastidieux de discuter ici chaque chernin rCactionne1 
+retenu, d'une part par rapport aux autres chernins riactionnels 
+possibles et d'autre part en le cornparant avec les formations de 
+produits observtes exptrirnentalernent, d'autant plus que des 
+formations de nature secondaire, au sens cinCtique du terme, 
+peuvent cornpliquer cette analyse. Une telle cornparaison 
+dCtaillCe a Ct C faite dans un rnCrnoire de these (25); nous n'en 
+donnerons ici que les points les plus importants. 
+Une premiere Ctape dans une telle cornparaison est d'estirner 
+les rapports des concentrations des radicaux .QOOH, en 
+utilisant des calculs effectuts a partir de l'approxirnation 
+de l'ttat quasi-stationnaire, cornpte-tenu de l'estirnation des 
+constantes de vitesse mentionnee prCcCdernrnent. Ces calculs 
+font apparaitre en particulier des Ccarts substantiels par rapport 
+
+aux concentrations tvalutes a partir des Cquilibres isolCs. C'est 
+
+le cas par exernple pour les radicaux .QIOOH a la suite du 
+processus (4.1) 
+
+OOH 
+
+AHODOQ K 
+
+so,, K 
+
+Espkce 
+(kcal mol-I) (cal mol-I K-') 
+
+.CH3 
+H. 
+C3H6 
+C2H4 
+CH2-CH2 
+
+CH3-CH-CH2 
+
+L O J 
+CH2-CH2 
+
+I 
+I 
+
+CH2-CH2 
+HCHO 
+CH3-CHO 
+CH3-CH2-CHO 
+CH3COCH3 
+CH2=CHOOH 
+
+"Calculi avec DHO (tC4H9 -H) = 92,O kcal mol-I (18). 
+bCalculi avec DHO (RCH, -H) = 98,O kcal mol-I (18). 
+
+'Calculi avec DHO (ROO -H) = 87,6 kcal mol-I (19). 
+
+dCalculi avec DHO (RCH(O0H) -H) = 9 1 3 kcal mol-' (21) et d'apres la 
+rif. 20. 
+'Calculi avec DHO (RO -H) = 104,O kcal mol-I (18). 
+
+qui, par sa constante de vitesse ClevCe (1,3 x lo9), agit 
+
+rcalculi avec DHO (HOOCH, -
+= 98.0 kcal mol-l (21). 
+
+cornrne une sorte de ccpornpe a radicauxn. L'Cquilibre isole 
+
+*Valeur donnee dans la rif. 20. 
+
+( . Q ' O O H ) / ( R ' ~~. ) 
+peht &amp;ire estirne a 1,25 X 
+alors que 
+
+"Valeur donnee dans la rif. 18. 
+
+dans notre schema rkactionnel la valeur du rapport des concen-
+
+'Calculi par la mithode d'additiviti de liaisons. 
+JCalculC avec DHO ((CH,),CH -H) = 94,5 kcal m o l l (18). 
+
+trations stationnaires serait de l'ordre de 1,9 X lo-' dans nos 
+
+valclcule avec D ~O (RR.C(OOH) -H) = 88,0 kcal mol-l et d.apres 
+
+conditions expCrirnentales. 
+
+la d f . 20. 
+
+Un ph~nomene analogue est observC avec . Q 3 0 0 ~ 
+puisque 
+l'on obtient un rapport (.Q~OOH)/(R~OO.) voisin de 0,11 a 
+I'Cquilibre is016 alors que dans notre schCrna reactionnel nous 
+obtenons une valeur du rapport des concentrations stationnaires 
+de (.Q300H) et ( R 2 0 0 . ) voisine de 2,4 X lop4, suite 2 un 
+diplacement analogue dQ au processus (4.3) : 
+
+avec k4.3 = 3,9 x lo8. 
+
+On peut obtenir les rapports des concentrations des radicaux 
+hydroperoxyalcoyle en Clirninant dans les calculs les concentra-
+tions des radicaux peroxyalcoyle. I1 apparait ainsi que pour un 
+radical .QIOOH, il y a 1,2 x 
+radical . Q 2 0 0 ~ 
+et que pour 
+un radical .Q300H, il y a 20 radicaux . Q 4 0 0 H et 1,7 X lo-' 
+radical .Q500H, toujours dans les conditions de 1'Ctat quasi-
+
+stationnaire. Les concentrations des radicaux . Q 2 0 0 H et 
+.Q500H sont donc ntgligeables. I1 est Cgalernent possible de 
+cornparer la concentration des radicaux .QIOOH a celles des 
+radicaux . Q 3 0 0 ~ 
+et -Q 4 0 0 H . 
+Pour un radical .QIOOH, il y a : 
+
+1,2 X lop5 radical . Q 2 0 0 H 
+
+1,3 radical . Q 3 0 0 H 
+
+26 radicaux . Q 4 0 0 H 
+
+2 , l x lo-' radical . Q 5 0 0 ~ 
+Le radical hydroperoxyalcoyle prCpondCrant est donc .Q400H, 
+.CH2-CH2-CH2-OOH, ce qui parait logique puisqu'il n'est pas 
+consomme par un processus rapide. 
+Can. J. Chem. Downloaded from www.nrcresearchpress.com by 87.160.185.190 on 03/27/14 
+
+For personal use only. 
+
+
+CAN. J. CHEM. VOL. 69, 1991 
+
+TABLEAU 7. Paramktres cinCtiques calculCs pour les diffkrents processus Clkmentaires 
+proposks dans le mkcanisme d'oxydation du propane (A, E et constante calculCe a 623 K) 
+
+RCactions 
+
+A 
+
+E (kcal mol-I) 
+k (s-I) (a 623 K) 
+
+(14) 
+Parois 
+
+"Pour I'arrachement d'un atome H primaire. 
+bPour I'arrachement d'un atome H secondaire. 
+'Pour I'arrachement d'un atome H tertiaire. 
+
+I1 est certain que pour verifier l'adequation du mtcanisme 
+Comparaison des formations de propPne et de m&amp;thyloxiranne 
+propost et de l'exptrience, l'idtal serait de simuler la formation 
+Les chaines issues des deux radicaux alcoyle produisent 
+de l'ensemble des produits formes, pour obtenir en particulier 
+copjointement le prophe et le mtthyloxiranne : 
+les courbes de pressions partielles des produits en fonction du 
+A partir du radical .QIOOH : 
+temps, en effectuant les ajustements requis des valeurs numtri-
+(4.1) 
+ques des constantes de vitesse. Une premikre tentative faite dans 
+CH3-CH=CH2 
+
++ HO?' 
+
+k = 1,3.109 
+ce sens (26) a montrt la complexit6 du problkme, tant au niveau 
+des mtthodes numtriques requises qu'8 celui de l'ajustement 
+des constantes puisque les methodes de Benson ne conduisent 
+'QIOOH 
+qu'8 une valeur approximative. 
+
+r 
+
+I1 nous a donc paru plus rtaliste de nous borner dans le cadre 
+de ce mtmoire 2 Ctudier de manikre plus qualitative un certain 
+CH3-CH-CH, 
+
++ 'OH 
+
+k = 3,3.106 
+nombre d'exemples caracttristiques. 
+LOJ 
+Can. J. Chem. Downloaded from www.nrcresearchpress.com by 87.160.185.190 on 03/27/14 
+
+For personal use only. 
+
+
+Can. J. Chem. Downloaded from www.nrcresearchpress.com by 87.160.185.190 on 03/27/14 
+
+For personal use only. 
+
+
+CAN. J. CHEM. VOL. 69, 1991 
+
+Can. J. Chem. Downloaded from www.nrcresearchpress.com by 87.160.185.190 on 03/27/14 
+
+For personal use only. 
+
+
+VOGIN ET AL. 
+
+55 
+
+A partir du radical . Q 3 0 0 ~ 
+
+En nkgligeant les rtactions inverses on obtient le rapport des 
+vitesses de formation : 
+
+Remarque : le propkne est produit en quantitts pratiquement 
+tquivalentes par les deux processus (4.1) et (4.3). 
+La valeur exptrimentale du rapport des vitesses de formation 
+correspond au rapport des pourcentages initiaux des deux 
+produits : 
+
+On retrouve les ordres de grandeur obtenus lors de l'ttude 
+de l'isobutane et on peut donc admettre tgalement une concor-
+dance relativement bonne entre les rtsultats exptrimentaux et 
+les valeurs estimtes par la cinttique thermochimique. 
+Nous n'avons pas tenu compte des parts de prophe suscep-
+tible dl&amp;tre form6 par la voie oltfinique (6) et aux parois, car 
+elles sont ntgligeables : 
+Processus oltfinique : 
+
+Le rapport thtorique des vitesses de formation est alors : 
+
+Comme dans le cas de l'oxydation de l'isobutane, ce rtsultat 
+fait apparaitre une anomalie, car l'exptrience montre que l'on 
+obtient au moins 10 fois plus d'tthylkne que d'oxttanne. 
+Cependant, lors de l'oxydation du propane, nous avons pu doser 
+cet htttrocycle alors que son homologue (le mtthyl-3-oxktanne) 
+n'a pas t t t mis en evidence dans les produits de l'oxydation de 
+l'isobutane. Nous pouvons examiner le rapport thtorique des 
+
+Rkactions aux parois : 
+parois 
+
+R1OO. 
+
+C3H6 + H02' 
+
+kp 0,5 S-' (24) 
+
+~2 0 0 . 
+
+parois 
+
+C3H6 + H02' 
+
+Importance de la voie olkfinique : 
+
+(R' .) x k6(02) X [l + 0,181 
+
+= m 
+
+La part oltfinique semble trks faible : voisine de 1 % , ce qui n'est 
+pas en accord avec les theories de Knox. Cependant la valeur du 
+rapport obtenue ne permet pas d'stre cattgorique, compte-tenu 
+des im~rkcisions des mkthodes d'estimation. 
+Importance des reactions aux parois : 
+
+La formation de propkne. aux parois serait ntgligeable d'aprks 
+nos estimations ce qui n'est pas l'avis d'Atherton et al. 
+qui considkrent que l'alckne conjugut est formt de manikre 
+prtdominante a la surface dans le cas de l'oxydation du propane 
+aux environs de 600 K (24). 
+~t u d e 
+de l'e'thyle'ne et de l'oxe'tanne 
+Le radical . Q 4 0 0 H peut se dtcomposer principalement selon 
+deux processus : 
+
++ CH2-CH2 + 'OH 
+
+I 
+I 
+
+CH2-0 
+
+vitesses de formation du propene et de l'oxttanne pour vtrifier 
+la cohtrence entre les processus issus de radicaux .QOOH 
+difftrents. 
+Can. J. Chem. Downloaded from www.nrcresearchpress.com by 87.160.185.190 on 03/27/14 
+
+For personal use only. 
+
+
+56 
+
+CAN. J. CHEM. 
+
+En utilisant ce rapport et d'aprks le pourcentage initial 
+exphimental du propkne qui est 64,8, celui de l'oxttanne 
+devrait donc Etre 1,4. Ce rtsultat est trop tlevt car la valeur 
+exptrimentale observte est de l'ordre de 0,l; cependant l'tcart 
+n'est pas extravagant, compte-tenu des mtthodes d'estimation 
+des constantes de vitesse. 
+Pour en revenir l'tthylkne, il faudrait proposer un autre 
+processus permettant d'expliquer sa formation de f a ~o n plus 
+importante. Nous proposons la dtcomposition du radical alcoxy 
+R20. : 
+
+CH3-CH2-CH2-0. 
+(5.2) 
+
+HCHO + CH3-.CH2 
+
+k = 1,6.101° 
+
+I 
+
+Cependant, comme dans le processus (4.6), la formation de 
+propkne est accompagnte de celle de formaldthyde dont le 
+pourcentage initial est 8,4, soit 10 fois plus que l'tthylkne. 
+Comme le formaldthyde n'est pas forme par d'autres processus 
+indtpendants, on peut considtrer que le radical tthyle s'oxyde 
+plus rapidement qu'il ne donne d'tthylene, ceci pour expliquer 
+le dtficit par rapport au formaldthyde. Les valeurs des 
+constantes confirment cette proposition. 
+
+C2H5' + O2 + C2HS00' 
+
+k = 109.5-k(02)~5.106 (18) 
+
+Quoi qu'il en soit, une partie non ntgligeable de radicaux 
+tthyle doivent conduire, directement ou indirectement par 
+&lt;&lt;dtshydrogtnation&gt;&gt;, la formation d'ethylene en quantitts 
+suffisantes pour expliquer les rksultats exptrimentaux. 
+Autres produits dont produits carbonyle's 
+I1 parait inttressant d'examiner tgalement la formation 
+d'autres produits dont les produits carbonylts et les peroxydes. 
+Ace'talde'hyde. Cet aldthyde est un produit primaire impor-
+tant de l'oxydation du propane. Cependant, sa formation 
+ntcessite la perte d'un atome de carbone a partir du squelette du 
+propane et la fermeture d'une double liaison carboxylique. Seul 
+un processus de dtcomposition du radical alcoxy RIO. permet 
+d'tcrire directement la formation d'acttaldthyde par coupure 
+relativement facile d'une liaison C-C : 
+
+Pour conserver le caractbe primaire du produit, il est 
+indispensable de considtrer les radicaux R1O. provenant de la 
+dismutation des radicaux R'OO. et non pas ceux provenant de 
+la dtcomposition d'hydroperoxydes intermtdiaires. 
+Le radical R 2 0 -peut tgalement donner de l'acttaldthyde : 
+
+Cependant ce processus est certainement moins important que 
+le prtctdent car il nCcessite, aprks la rupture de la liaison C-C, 
+le transfert d'un atome d'hydrogkne pour rapprocher le centre 
+radicalaire de l'atome d'oxygkne, lui aussi porteur d'un electron 
+ctlibataire. 
+La reaction concurrentielle est la fermeture du biradical, 
+suppose formt, en oxiranne. Nous avons dtja mentionnt dans 
+l'ttude de l'isobutane que Flowers et Parker considerent que 
+
+la rtaction de transfert est prtponderante devant la formation 
+d'tpoxyde (28, 29). 
+Les radicaux mtthyle accompagnant la formation d'acttal-
+dChyde ne donnent pas de mtthane puisque les rtsultats 
+exptrimentaux le font apparaitre comme nettement secondaire. 
+En effet, l'addition d'une moltcule d'oxygkne sur un radical 
+mCthyle est un processus plus facile que la mttathkse. 
+Formalde'hyde. Nous avons deja mentionnt la formation du 
+formaldthyde lorsque nous avons exploit6 les rtsultats concer-
+nant l'tthylkne; elle peut avoir lieu par deux processus : 
+
+(4.6) 
+
+CH2=CH2 + .CH200H 
+
+k = 1,7.103 
+
+L HCHO +.OH 
+
+(5.2) 
+
+HCHO + CH3-.CH2 
+
+k = 1,6.101° 
+
+dont le deuxibme est trks probablement prtpondtrant. I1 faut 
+noter que cet aldthyde provient exclusivement de la chaine 
+issue du radical n-propyle. 
+Certains auteurs, comme Quinn (communication privte), 
+envisagent la formation de formaldthyde a partir de radicaux 
+mtthyle, ce qui serait une f a ~o n de consommer ces derniers, 
+produits par des processus dtja mentionnts, par exemple : 
+
+On peut se demander si ce processus est rtellement Cltmen-
+taire en raison des multiples ruptures de liaison ntcessaires 
+l'obtention des produits. 
+On peut comparer les rapports thtoriques et exptrimentaux 
+des deux aldthydes en ne considerant que le processus suppose 
+prtpondtrant : (5.2) pour le formaldthyde et (5.1) pour l'act-
+taldthyde : 
+
+HCHO + CH3-'CH2 
+
+on peut estimer que le rapport des concentrations des radicaux 
+RO. est le m&amp;me que celui des radicaux ROO. : 
+
+ainsi 
+Can. J. Chem. Downloaded from www.nrcresearchpress.com by 87.160.185.190 on 03/27/14 
+
+For personal use only. 
+
+
+VOGIN ET AL 
+
+Le rapport exptrimental ttant % CH3CHO/% HCHO = 
+
+13/8,4 = 1 , 6 ( , la cohtrence des rksultats est correcte. 
+
+Propionalde'hyde. Les analyses des produits mettent en 
+Cvidence la nature secondaire du propionaldthyde, ce qui est 
+envisageable suite l'ktude des processus de formation : 
+
+(4.7) 
+
+CH3-CH2-CHO 
+
++ 'OH 
+
+k g 1,8.109 l 
+
+La rupture d'une liaison C-H lors du processus (5.4) rend 
+celui-ci ntgligeable devant son homologue (5.2) oh intervient 
+la rupture d'une liaison C-C : 
+
+R20' : CH3-CH2-CH2-0' 
+
+(5.2) 
+
+HCHO + CH3-.CH2 
+
+k = 1 , 6 . 1 0 ~0 ~ 
+Par contre, le processus (4.7) est rapide, mais le radical 
+WQ~OOH qui se dtcompose rtsulte d'une isomirisation du 
+radical R 2 0 0 . avec passage par un complexe activC B 4 centres, 
+donc difficile et ntgligeable devant les isomerisations condui-
+sant aux radicaux .Q300H et . Q 4 0 0 ~. I1 est donc logique de 
+n'avoir pas mis en tvidence la formation de propionaldthyde 
+dans les instants initiaux de la rtaction d'oxydation du propane. 
+Ace'tone. Le cas de l'acttone est exactement identique a celui 
+du propionaldthyde. Ce demier ttait issu exclusivement du 
+radical n-propyle de f a ~o n B ce que l'atome d'oxygene restant 
+dans la molecule soit situt en bout de chaine. Dans le cas de 
+
+C-H et le deuxieme, (4.0), correspond a la dtcomposition du 
+radical . Q 2 0 0 ~ 
+issu d'une isomtrisation a 4 centres. 
+
+.Q200H : CH3-.C-CH3 
+
+(4.0) 
+
+CH3-C-CH3 
+
++ *OH 
+
+I 
+
+k g 1,8.109 
+
+OOH 
+
+I I 
+
+0 
+
+L'observation de traces d'acttone B l'instant initial est 
+compatible avec ce qui prtcede. 
+Peroxydes. Le dosage des peroxydes a t t t rtalist en utilisant 
+la mtthode que nous avons mise au point au laboratoire et 
+amkliorte entre 1'Ctude de l'isobutane (1) et celle du propane 
+(31, 32). Nous avons constatt que l'oxydation du propane 
+donne des quantitts notables de peroxydes,5 ce qui n'ttait pas 
+le cas de l'oxydation de l'isobutane. En effet, le pourcentage 
+initial obtenu est 10,2, ce qui les place parmi les produits 
+importants, apres le propene et l'acttaldehyde et juste avant le 
+formaldthyde. I1 peut s'agir d'hydroperoxydes provenant de la 
+rtaction (12) : 
+
+ROO. + RH (I2) 
+
+ROOH+ R. 
+
+ou d'eau oxygtnte produite selon le m&amp;me type de processus et 
+selon la rtaction entre deux radicaux hydroperoxyle : 
+
+I 
+
+l'acttone, l'atome d'oxygene doit &amp;tre port6 par le carbone 
+Nous pouvons estimer un rapport des vitesses de formation des 
+
+1 central impliquant l'oxydation du radical isopropyle. Ainsi le porteurs de chaine .OH et H02. afin de vtrifier la cohtrence de 
+
+j premier processus (5.0) fait intervenir la rupture d'une liaison 
+rtsultats : 
+
+I 
+
+i 
+
+I 
+
+I1 y a effectivement prtdominance des radicaux H02. mais 
+elle n'est pas marqute de faq&amp; tres nette. 
+Autres produits. Deux autres produits de rtaction ont tgale-
+ment retenu notre attention : l'eau et le dioxyde de carbone. 
+Contrairement au cas de l'isobutane, nous observons une 
+formation secondaire de dioxyde de carbone, ce qui parait plus 
+logique compte-tenu du schtma mkcanistique homogene retenu 
+ainsi que de la nature secondaire de l'oxyde de carbone. 
+I1 est certain que l'eau est formte en quantitts importantes 
+mais son analyse prtsente un certain nombre de difficultts qui 
+nous ont fait renoncer B son dosage : condensation et adsorption 
+dans les tubulures de l'appareillage statique, adsorption dans 
+l'ampoule de chromatographie et difficult6 de l'analyse chro-
+matographique elle-m&amp;me d'oh une importante dispersion des 
+rtsultats. Une estimation a partir d'une comparaison des bilans 
+en carbone et hydrogene laisse prtvoir que la formation d'eau 
+est environ 50% plus importante que celle du propene a 5 min 
+de rtaction. 
+
+111.3. Influence du prope'ne 
+I1 est certain qu'une ttude logique de l'influence de cet alcene 
+
+sur l'oxydation du propane aurait ntcessitt, a titre de rkftrence, 
+
+l'ttude de l'oxydation homogene du propene, rtaction pour 
+laquelle la litttrature semble peu abondante. Cependant l'impor-
+tance de cette tdche et la connaissance limitte atteinte jusqu'a 
+prtsent des schtmas gCntraux d'oxydation des alcenes nous 
+ont conduits B difftrer cette ttude et B nous contenter d'une 
+Ctude plus superficielle. 
+I1 avait ttk montrt dans un article publit en 197 1 par Sochet 
+et al. (35) que les principaux produits d'oxydation du propane et 
+
+5. La rntthode de dosage ne permettant pas de distinguer les 
+hydroperoxydes de l'eau oxygtnie, nous pouvons &amp;tre arnents 2 utiliser 
+indifftrernrnent I'un ou l'autre terrne pour dtnornmer l'ensernble des 
+peroxydes dosts. Nous avons dtj2 mentionnt les difficultis d'ttablir 
+une distinction entre les difftrents peroxydes (33). 
+6. Pour I'arrachement d'un atorne d'hydrogkne secondaire (23). 
+Can. J. Chem. Downloaded from www.nrcresearchpress.com by 87.160.185.190 on 03/27/14 
+
+For personal use only. 
+
+
+58 
+
+CAN. J. CHEM. VOL. 69, 1991 
+
+du propkne sont sensiblement les m&amp;mes ce qui parait impliquer 
+une certaine similitude dans les mtcanismes rtactionnels. De 
+mime, il apparait (cf. Lucquin et coll. (36); Shtern (37)) 
+une apprtciable similitude dans l'allure des limites de zones 
+rtactionnelles (rkaction lente, flammes froides, inflammation 
+de 2kme stade) dans le plan pression-temptrature, le propkne 
+tendant cependant 2 s'auto-enflammer pour des pressions moins 
+tlevtes que le propane, ce qui parait suggtrer une rtactivitt 
+plus tlevte. 
+
+L'ajout de propkne (5% du total propane + propkne) 
+
+provoque une augmentation de la quantitt des produits formts. 
+Une estimation de l'avancement a 5 min de rtaction donne 
+0,47% pour le propane seul et 0,60% pour le mtlange propane 
+
++ propkne. Ces rtsultats sont en accord avec ceux de la 
+
+litttrature (37, 38) qui ont constatt le r61e promoteur du 
+propkne lors de l'oxydation du propane. Nous avons mentionnt 
+prtctdemment dans le tableau 2 les rapports des pourcentages 
+de formation des produits primaires, lors de l'oxydation du 
+propane seul et du mtlange propane-propkne, le propkne 
+n'ttant pas comptabilist dans les produits. 
+I1 est connu que la prtsence de la double liaison dans la 
+moltcule de propkne modifie les tnergies de liaison C-H (1 8). 
+
+TABLEAU 10. MCcanisme simplifiC d'oxydation du propane 
+
+C&amp; -C H 2 -C Y 
+
+C b -CH, -CH, 
+
+13,/ 1 1 isom6risation 
+
+a 5 centres 
+
+HO,' 
+
+1 
+
+propane : DHO(~C,H~ -H) 
+= 98,O kcal mol-' 
+DHO(~C~H~ -H) 
+= 94,5 kcal mol-I 
+
+propkne : DHO(allyl-H) 
+= 87 kcal mol-I 
+DHO((CH,-CH=CH) -H) = 108 kcal mol-I 
+
+DHO ((z2;C) 
+-H) 
+
+-104 kcal mol-I 
+
+rtaction d'oxydation du radical allyle est dtplact, relativement 
+2 l'oxydation des autres radicaux alkyle, plut6t dans le sens de 
+la dtsoxydation. Ceci rejoint donc les conclusions de Benson 
+2 propos de l'oxydation des radicaux mtthylallyle (3). Ceci 
+confirme aussi des observations rtcentes de Slagle et Gutman 
+(39). 
+Ces observations nous paraissent tgalement susceptibles de 
+
+La moltcule de propkne est ainsi plus rtactive que celle du 
+propane en raison de l'affaiblissement des liaisons C-H 
+allyliques. 
+Ces rtsultats nous paraissent prtsenter de plus l'inttrit de 
+conduire 2 des donntes sur l'oxydation du radical allyle. En 
+effet, il ne fait aucun doute que le radical, stabilist par 
+rtsonance, joue un r61e important dans la rtaction. Le radical 
+allyle peut s'oxyder et donner le radical allylperoxy CH2=CH-
+CH200.. Cependant, cette rtaction parait essentiellement 
+difftrente de celle de l'oxydation du radical isopropyle; dtve-
+loppons un peu cette comparaison en estimant les constantes 
+d'tquilibre des rtactions (2.1) et (2.1 '). 
+
+donner une interprttation, au moins qualitative, des carac-
+ttristiques sptcifiques de l'oxydation du cyclopentane (indice 
+d'octane de recherche de mtlange 141) par rapport a d'autres 
+cyclanes, cyclohexane par exemple (indice d'octane recherche 
+84) (40). 
+Une ttude plus pousste des reactions du radical allylperoxy 
+suggkre d'ailleurs que le sort prtdominant de ce radical dans 
+la rtaction serait le retour au radical allyle par perte d'une 
+moltcule d'oxygkne et non une isomtrisation comme dans le 
+cas de radicaux peroxyalcoyle (25) en accord avec des travaux 
+rtcents de Slagle et Gutman (39). 
+I1 parait ainsi raisonnable de penser que l'oxydation du 
+
+propene (seul ou en mtlange avec C3Hs) a lieu a la suite de 
+
+rtactions sur la double liaison de la moltcule, en particulier de 
+l'addition de radicaux H 0 2 . et les produits obtenus suggkrent 
+une addition de type anti-Markownikoff (radical CH3-CH-
+CH200H). 
+
+A R ~0 2 , 1 -12,9 -0 -17,l = -30,O kcal mol-' 
+
+A R ~0 2 , 1 , 
+= 22,4 -0 -39,l = -16,7 kcal m01-' 
+
+IV. Synthese des resultats obtenus et comparaison avec 
+l'isobutane 
+Les rtsultats exptrimentaux que nous avons obtenus et les 
+calculs de Cinttique Thermochimique ont donc conduit a 
+interprtter l'oxydation du propane par le mtcanisme prtsentt 
+dans les tableaux 8 et 9. Comme dans le cas de l'isobutane (I), 
+il apparait que le propkne est formt selon deux processus 
+d'importance voisine aprks isomtrisation des deux radicaux 
+peroxyalcoyle. 
+Les valeurs des constantes montrent que l'tquilibre de la 
+Can. J. Chem. Downloaded from www.nrcresearchpress.com by 87.160.185.190 on 03/27/14 
+
+For personal use only. 
+
+
+VOGIN ET AL 
+
+Can. J. Chem. Downloaded from www.nrcresearchpress.com by 87.160.185.190 on 03/27/14 
+
+For personal use only. 
+
+
+60 
+
+CAN. J. CHEM. VOL. 69, 1991 
+
+La formation de mkthyloxiranne (oxyde de propene) a lieu 
+parallelement a celle du propene. L'eau oxygCnCe est produite 
+en quantitks notables a partir des radicaux hydroperoxyle H 0 2 . 
+dont la formation est relativement importante dans les premiers 
+instants de la reaction. 
+Le schema rkactionnel tres simplifie des processus prepon-
+derant~ est represent6 dans le tableau 10. Cette representation 
+schematique du mecanisme de l'oxydation du propane apparait 
+tres similaire a celle du mecanisme d'oxydation de l'isobutane 
+qui a Cte presentee dans le memoire correspondant (1). 
+En realitC, si l'on compare de maniere plus precise le 
+mecanisme detaille de l'oxydation de l'isobutane presente dans 
+notre premier memoire (1) et le mecanisme dCtaille qui figure 
+dans les tableaux 8 et 9 du present memoire une nette similitude 
+apparait. Une comparaison dttaillee, par exemple en prenant 
+les processus elkmentaires un par un ou mCme en les regroupant 
+par classes (decomposition, isomCrisation, etc.. .) serait parti-
+culierement fastidieuse. 
+Nous preferons faire cette comparaison sur une base plus 
+originale en regroupant les mecanismes rendant compte de 
+l'oxydation du propane et de l'isobutane sur un seul tableau, en 
+adoptant une presentation adaptCe a cette comparaison. 
+La moltcule de propane et celle d'isobutane sont representees 
+par la mCme formule : 
+
+CH3 
+
+Lorsqu'on s'interesse au propane, la formule correspondante 
+s'Ccrit 
+CH3-CH-CH3 
+
+I 
+
+pour passer du propane a l'isobutane, il suffit de remplacer dans 
+
+la formule gCntrale l'atome d'hydrogene represente par H par 
+
+un groupe methyle CH3. 
+En effectuant cette substitution, on s'aper~oit dans le tableau 
+11 que les deux mecanismes sont remarquablement semblables. 
+I1 existe donc une bonne coherence entre les deux mecanismes 
+d'oxydation prksentes : isobutane (1) et propane (present 
+travail) ce qui conduit ainsi a un schema general d'oxydation 
+des alcanes Iegers. 
+
+V. Conclusion 
+
+En dehors de .la -gtneralisation mentionnee ci-dessus, le 
+present travail, ainsi d'ailleurs que celui effectuC sur l'exemple 
+de I'isobutane, souligne l'importance d'allers et retours con-
+stants entre l'experience et le calcul. L'evaluation des constantes 
+de vitesse des processus Clementaires par les mCthodes de la 
+Cinetique Thermochimique constitue un guide precieux pour la 
+simplification des schemas reactionnels. 
+I1 aurait pu Ctre inttressant de developper egalement dans 
+le cadre de ce travail une comparaison plus poussee avec les 
+rksultats d'autres auteurs. Cependant cette comparaison est deja 
+partiellement implicite, en particulier au niveau des estimations 
+des constantes de vitesse et lors de I'utilisation des donnees 
+de la litdrature, le present mecanisme reprenant frequemment 
+des reactions Clementaires deja proposees par d'autres auteurs 
+comme Benson (4, 5), Fish (12) ou Knox (13). 
+
+L'aspect original de cette contribution, en dehors de l'utilisa-
+tion systematique de la Cinetique Thermochimique et de la 
+
+comparaison interactive avec I'expCrience, nous parait aussi 
+d'avoir toujours insist6 sur la nature primaire des processus 
+present&amp;, afin de proposer un mecanisme d'oxydation de 
+l'alcane CtudiC, et non pas des produits de cette reaction, comme 
+l'alcene conjuguk. Un rapide examen d'articles traitant de 
+l'oxydation d'alcanes ltgers montre que ces prCoccupations 
+sont souvent absentes de l'esprit de la plupart des auteurs ayant 
+travail16 dans ce domaine. Les processus ecrits ne sont pas 
+toujours des processus elkmentaires et la nature, primaire ou 
+secondaire, des produits en resultant est le plus souvent ignorCe. 
+Les tentatives de correlation semi-quantitatives (comparaison 
+entre vitesses de formation des produits et ordre de grandeur 
+des constantes de vitesse) sont genkralement inexistantes. C'est 
+egalement pour cette raison que nous ne nous sommes pas 
+interesses aux reactions faisant intervenir des flammes froides, 
+oh les resultats experimentaux sont plus spectaculaires, mais 
+ou, egalement, les mecanismes d'oxydation presentent une bien 
+plus grande complexite, ne serait-ce qu'en raison de la non 
+isothermicite de la reaction. Or, pour faire de la cinetique, il 
+est essentiel de maitriser le parametre temperature. 
+I1 nous semble egalement intkressant de mentionner que, 
+compte-tenu de la complexit6 des reactions abordkes, un certain 
+nombre de points seraient susceptibles de justifier des dCve-
+loppements supplCmentaires. I1 serait certainement interessant 
+de tenter une simulation de la reaction a partir du schema que 
+nous proposons. Cependant, les premiers essais que nous avons 
+faits ont montre la complexit6 d'une telle tbche, complexite 
+pouvant provenir d'une part de l'impr6cision des constantes 
+de vitesse et d'autre part de l'insuffisance des mCthodes 
+numeriques mises en oeuvre dans ces essais. 
+Des progres tres importants ont certainement Ct C realises 
+grsce a des mecanismes complexes comportant un nombre tres 
+tlevC de processus comme ceux proposes par Dryer et co-auteurs 
+(41) sur l'exemple du n-butane. A l'oppod tout en reconnais-
+sant les merites de tels travaux, P. Gray (30) insiste egalement 
+sur l'apport tres positif de schCmas tres simples. La presente 
+approche nous parait un compromis entre ces deux points de 
+vue qui a surtout l'interst de mettre en evidence les ttapes 
+essentielles permettant de rendre compte de la chimie de la 
+reaction. 
+
+Remerciements 
+Les auteurs remercient la SociCte ATOCHEM (initialement 
+PCUK) pour l'aide materielle apportee sous la forme d'une 
+bourse de these (B.V.) lors de la realisation de ce travail. 
+
+1. B. VOGIN, F. BARONNET et G. SCACCHI. Can. J. Chem. 67,759 
+
+(1989). 
+
+2. R. T., POLLARD. Duns Comprehensive chemical kinetics. Vol. 
+17. Editeurs : C. H. Bamford et C. F. H. Tipper. Elsevier, 
+Amsterdam. 1977. p. 249. 
+3. S. W. BENSON. Duns The mechanigms of pyrolysis. oxidation 
+and burning of organic materials. Editeur : L. A. Wall. NBS 
+Publication, U.S. Government Printing Office, Washington, DC. 
+
+1972. p. 121. 
+
+4. S. W. BENSON et P. S. NANGIA. ACC. Chem. Res. 12,223 (1979). 
+5. S. W. BENSON. Prog. Energy Combust. Sci. 7, 125 (1981). 
+6. S. W. BENSON. Oxid. Commun. 2, 169 (1982). 
+7. I. A. OGORODNIKOV, S. S. POLYAK et V. YA. SHTERN. Kinet. 
+Katal. 10, 1210 (1969). 
+8. M. M. ALEKSISHVILI, S. S. POLYAK et V. YA. SHTERN. Ref. 
+Zh. Khim. Abstr. no 3, N4 (1972). 
+9. M. M. ALEKSISHVILI, S. S. POLYAK et V. YA. SHTERN. Kinet. 
+Katal. 15, 290 (1974). 
+Can. J. Chem. Downloaded from www.nrcresearchpress.com by 87.160.185.190 on 03/27/14 
+
+For personal use only. 
+
+
+10. C. A. EUKER et J. P. LEINROTH. Combust. Flame, 15, 275 
+(1 970). 
+11. R. R. BALDWIN et R. W. WALKER. Combust. Flame, 21, 55 
+(1973). 
+12. A. FISH. Adv. Chem. Ser. 76, 69 (1968). 
+13. J. H. KNOX. Duns Photochemistry and reaction kinetics. ~diteurs : 
+P. G. Ashmore, T. M. Sugden et F. S. Dainton. Cambridge 
+University Press, Cambridge. 1967. p. 250. 
+14. D. M. NEWITT et L. S. THORNES. J. Chem. Soc. 1656 (1937). 
+15. J. F. GRIFFITHS, B. F. GRAY et P. GRAY. 13th Symp. (Int.) on 
+Combustion, The Combustion Institute, Pittsburgh, PA. 1971. 
+p. 239. 
+16. A. ANTONIK et M. LUCQUIN. Combust. Flame, 19, 311 (1972). 
+17. F. BARONNET, M. P. HALSTEAD, A. PROTHERO et C. P. QUINN. 
+C.R. Acad. Sci. 275C, 17 (1972). 
+18. S. W. BENSON. Thermochemical kinetics, 2e Cd. John Wiley, 
+New York. 1976. 
+19. M. WEISSMAN, L. G. S. SHUM, S. P. HENEGHEN et S. W. 
+BENSON. J. Phys. Chem. 85, 2863 (1981). 
+20. J. C. BROCARD, F. BARONNET et H. E. O'NEAL. Combust. 
+Flame, 52, 25 (1983). 
+21. D. F. MACMILLEN et D. M. GOLDEN. Annu. Rev. Phys. Chem. 
+33,493 (1982). 
+22. M. M. ALEKSISHVILI, S. S. POLYAK et V. YA SHTERN. Kinet. 
+Katal. 17, 1110 (1976). 
+23. R. W. WALKER. React. Kinet. 1, 161 (1975). 
+24. J. G. ATHERTON, A. J. BROWN, G. A. LUCKETT et R. T. 
+POLLARD. 14th Symp. (Int.) on Combustion, The Combustion 
+Institute, Pittsburgh, PA. 1973. p. 513. 
+25. B. VOGIN. Thbse de Docteur-Ingenieur, INPL, Nancy (1984). 
+26. M. H. AMETRANO. DiplBrne d'Etudes Approfondies en GCnie 
+des ProcCdCs, Nancy (1987). 
+
+27. Y. SIMON, J. F. FOUCAUT et G. SCACCHI. Can. J. Chem. 66, 
+2142 (1988). 
+28. M. C. F ~o w E ~s e t R . 
+M. PARKER. J. Chem. Soc. B, 1980(1971). 
+29. M. C. FLOWERS et R. M. PARKER. Int. J. Chem. Kinet. 3, 443 
+(1971). 
+30. P. GRAY. ConfCrence aux Journees de chimie physique, ~c o l e 
+nationale supkrieure de chimie de Paris. 22-24 mai 1989. 
+31. B. VOGIN, F. BARONNET et J. C. ANDRE. Oxid. Commun. 3, 51 
+(1983). 
+32. B. VOGIN, F. BARONNET et J. C. ANDRE. Anal. Chem. Acta, 
+142,293 (1982). 
+33. Z. F. SAVAYA. Ph.D. Thbse, Dundee University (1982). 
+34. S. N. FONER et R. L. HUDSON. Adv. Chem. Ser. 36, 34 (1962). 
+35. L. R. SOCHET, N. V. HAI et M. LUCQUIN. Bull. Soc. Chim. Fr. 
+1571 (1971). 
+36. N. VAN HAI, S. ANTONIK, L. R. SOCHET et M. LUCQUIN. Bull. 
+Soc. Chim. Fr. 2150 (1970). 
+37. V. YA. SHTERN. The gas phase oxidation of hydrocarbons. 
+Pergamon Press, Oxford. 1964. 
+38. C. N. SATTERFIELD et R. C. REID. 5th Symp. (lnt.) on 
+Combustion, The Combustion Institute, Pittsburgh, PA. 1955. 
+p. 511. 
+39. I. R. SLAGLE et D. GUTMAN. 21st Symp. (Int.) on Combustion, 
+The Combustion Institute, Pittsburgh, PA. 1986. p. 875. 
+40. F. BARONNET. Communication au Congrbs Commun des Sec-
+tions Britannique et Fran~aise du Combustion Institute, Rouen, 
+18-21 avril 1989, Recueil des Actes du Congrbs. p. 81. 
+41. W. J. PITZ, C. K. WESTBROOK, W. M. PROSCIA et F. L. DRYER. 
+20th Symp. (Int.) on Combustion, The Combustion Institute, 
+Pittsburgh, PA. 1984. p. 831. 
+
+Can. J. Chem. Downloaded from www.nrcresearchpress.com by 87.160.185.190 on 03/27/14 
+
+For personal use only. 
+
+
+
+	
+

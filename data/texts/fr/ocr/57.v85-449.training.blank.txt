@@ -1,0 +1,430 @@
+
+	
+
+		
+
+	
+
+	
+
+Reduction photochimique des polytungstates. Mise en evidence 
+d'un effet photogalvanique 
+
+G . FOLCHER ET J. PARIS 
+
+L.R.M.C.I. (LA 331), Diparternent de physico-chimie, Cen-Saclay, 91191 Gif-sur-Yvette Cidex, France 
+
+AND 
+
+F. CHAUVEAU 
+
+Laboratoire de Chimie des Polymkres Inorganiques, Universiti Pierre et Marie Curie, 75005 Paris, France 
+
+R e p le 6 novembre 1984 
+
+G. FOLCHER, J. PARIS et F. CHAUVEAU. Can. J. Chem. 63, 2703 (1985). 
+Une cellule photogalvanique est rCalisee avec une solution de decatungstate (wloOft;) de tCtrabutylarnmonium dans l'act-
+tonitrile h la concentration 0,2 M en atome-gramme de tungstkne. Le dispositif utilisC comporte une Clectrode de platine 
+Cclairee et une Clectrode de graphite dans l'obscurite. Les conditions d'utilisation de la pile pour obtenir le meilleur rendement 
+tlectrique sont dtterminies. Un mkcanisme global est propose: le dicatungstate excitC par la lumikre est rkduit reversiblement, 
+un donneur dlClectron ou l'eau est oxydk pendant la rkaction. Nous montrons que le mCcanisme fait vraisemblablement 
+intewenir deux photons. La fem dCvelopp5e est de 650 mV et le rendement expkrimental (puissance de la pileltnergie 
+lumineuse) est voisin de 1%. 
+
+G. FOLCHER, J. PARIS, and F. CHAUVEAU. Can. J. Chem. 63, 2703 (1985). 
+A photogalvanic cell which functions with an acetronitrile solution of tetrab~t~lammonium decatungstate ( ~~~0 ~~) 
+(0.2 M 
+in gram-atoms of tungsten) has been realized. This cell utilizes an irradiated platinum electrode with a non-illuminated graphite 
+electrode. The conditions giving the best conversion of light to electric power have been determined. An overall mechanism 
+has been proposed. The decatungstate photooxidizes an electron donor like water. The involvement of a two-photon process 
+has been demonstrated. The emf produced is about 650 mV, and the experimental yield is in the neighborhood of 1%. 
+
+I 
+I 
+
+La recherche des reactions de transfert d'Clectrons capables 
+de stocker 1'Cnergie solaire s'oriente vers des systemes micro-
+hCtCrogenes (lo), micelles et colloi'des. Les polyanions peuvent 
+
+; constituer une alternative indressante (9): la structure dCter-
+
+rninCe h 1'Ctat solide est conservte en solution (1) et on peut 
+
+faire varier dans une certaine rnesure la taille et la forme des 
+arrangements rnolCculaires. Ceux-ci prksentent des propriCtCs 
+bien spCcifiques cornme le rnontre la chimie des polytungstates 
+(2). 
+
+Le tungstine VI engagC dans le polyanion est photosensible 
+
+et joue le r6le de capteur d'Clectron (3). C'est prCcisCrnent ce 
+
+qui est observC dans le cas du dkcatungstate ~~~0 ; ; . 
+
+Celui-ci 
+
+a la structure prCsentCe sur la figure 1 (4). Une bande de 
+
+transfert de charge centrCe i 325 nm rnais ttendue dans le 
+domaine visible peut &amp;tre utilisCe pour accroitre son affinitC 
+Clectronique. 
+Dans le cas de l'uranium hexavalent, nous avons pu utiliser 
+les propriCt6s oxydantes de l'uranyle excite pour crCer un effet 
+photogalvanique, c'est-i-dire l'apparition d'une difference de 
+potentiel entre deux Clectrodes plongies dans une solution 
+d'uranyle quand l'une d'entre elle est CclairCe (5). 
+Le montage utilisC dans cette exptrience a pu Ctre reconduit 
+dans le cas des solutions de polytungstates. Les premiers rk-
+sultats obtenus nous ont ament i Ctudier ce phCnomine en 
+dktail. 
+
+Partie experimentale 
+
+Le montage de la cellule a Ct C dCcrit par ailleurs (5). Nous rappelons 
+que la lumikre Cclaire une Clectrode de platine fajldis qu'une Clectrode 
+de graphite reste non irradiee. La principale difficult6 rCside dans le 
+reglage de la distance optimale entre la fen&amp;&amp; et 1'Clectrode. L'uti-
+lisation d'une electrode circulaire appliquec sur la paroi Cclairte 
+permet de pallier cet inconvknient (fig. 2). 
+Le decatungstate de t6trabutylammonium est prCpar6 par acidi-
+fication convenable d'une solution de tungstate de sodium suivant les 
+modes ogratoires dejh dtcrits (7, 8) (16,5 g de W0,Na2-2H20 dis-
+
+sous h Cbullition dans 100 mL d'eau, acidifiCe par 90 mL de HCl 
+normal Cgalement h la m&amp;me temperature. La solution rapidement 
+refroidie est prCcipitCe par 7 g de bromure de tCtrabutylammonium). 
+Le produit prCcipitC est lave successivement h I'eau, I'alcool et h 
+I'acttone. Une fois stchC, il est recristallisC dans I'adtonitrile. Anal. 
+calc.: W 55,37, C23,26, N 1,69, H4,37%; tr.: W 55,25, C23,1, N 
+2,68, H 4,33%. 
+La concentration adoptCe dans les exgriences dCcrites est de 0,2 M 
+en atome-grarnme de tungstkne, 0,2 mol-' dans I'acttonitrile Merck. 
+L'irradiation est rCalisCe par une lampe xenon 900 W, filtrCe par une 
+cellule de 10 cm d'une solution aqueuse de sulfate de cuivre. 
+Pour les mesures de rendement quantique on opkre de la fa~on 
+suivante: 
+La lumikre Cmise par une lampe xCnon est mesurCe par un joule-
+mktre, aprks passage dans un monochromateur, sur toute 1'Ctendue du 
+spectre. Le faisceau est ensuite envoy6 sur une Clectrode de taille 
+inftrieure au diamktre du faisceau. On suppose que toute la lumikre est 
+absorb6e et on mesure la puissance de la pile. 
+
+L?lectrochimie 
+
+Les potentiels d'oxydorCduction de wloO;; dans l'acC-
+tonitrile ont CtC ddtermink en prCsence de perchlorate de tCtra-
+
+butylammonium 0,l M. On observe alors deux vagues de 
+
+rkduction rkversibles sur le rnercure (1'Clectrode de rCfCrence 
+
+est une Clectrode au calomel saturC i double jonction). On sait 
+
+aue dans ces conditions les E l l 7 sont assirnilables aux potentiels 
+
+., -
+
+normaux d'oxydorCduction. Les deux vagues observCes corres-
+
+pondent respectivement h 1 et 2 Clectrons par mole. Elles sont 
+analogues h celles que Termes et Pope ont observCes dans le 
+
+carbonate de propylkne (6). Les potentiels sont respectivement 
+
+de -0,61 et -1,08 V par rapport i H, normal (6). 
+
+Dans les conditions de fonctionnement de la pile, des phC-
+nombnes diffkrents dus aux Clectrodes peuvent se rnanifester. 
+Nous avons mesurC par voltamCtrie cyclique sur Clectrodes 
+de platine poli les potentiels de reduction d'une solution de 
+
+w,~o~; dans CH,CN, dans des conditions voisines de celles du 
+
+Can. J. Chem. Downloaded from www.nrcresearchpress.com by 87.160.185.190 on 03/27/14 
+
+For personal use only. 
+
+
+CAN. J. CHEM. VOL. 63, 1985 
+
+FIG. 1 . Representation polyedrique de la structure de W100324-. 
+Les atornes de tungstkne W1 et WIl occupent approxirnativernent le 
+centre des octakdres. 
+
+FIG. 2. Coupe schernatique de la cuve avec son Clectrode de pla-
+tine; (a) cuve en Pyrex; (b) g6nCratrice de contact entre le platine et le 
+verre; (c) electrode de platine; (d) localisation des es@ces bleues en 
+fonctionnement. 
+
+fonctionnement de la pile en utilisant une Clectrode de Pleskov 
+comme r6fCrence. La figure 3 prCsente le premier balayage qui 
+met en Cvidence une rkduction a -0,55 V par rapport 2 l7Clec-
+trode de Pleskov. Pour des valeurs plus negatives, il y a for-
+mation d'un dtpdt sur I'Clectrode qui modifie sensiblement le 
+comportement du systkme. Vers les potentiels positifs, un sys-
+t?me apparait vers +0,20 V qui n'est pas dO 2 l'oxydation du 
+solvant, observC dans ces conditions ? 
+I +0,40 V. Ce systkme 
+apparait aussi comme instable dans le temps. 
+En prCsence de lumikre, le voltamogramme est diffkrent: il 
+prCsente un accroissement considkrable des courants d'oxy-
+dation sur le platine avant -0,5 V et une vague trks intense 
+pour les potentiels plus nCgatifs. 
+I1 apparait donc que la lumikre crCe des espkces rCduites de 
+polytungstate qui peuvent donc Ctre rkduites dans un deuxikme 
+temps ? 
+I des potentiels infkrieurs a -0,5 V. 
+
+Photochimie 
+Nous utilisons le montage photogalvanique (fig. 2). La dif-
+fCrence de potentiel mesurCe en circuit ouvert entre 1'Clectrode 
+de platine CclairCe et 1'Clectrode de graphite est de 650 mV, le 
+platine constituant la cathode. 
+
+La coupure de I'Cclairement conduit A I'annulation rapide de 
+
+cette difference de potentiel. De mCme, en rallumant la lampe 
+la valeur de 650 mV est atteinte en quelques secondes (fig. 4). 
+
+I 
+
+I 
+
+I 
+
+I 
+
+-
+
+1 ox 
+ENH 
+
+-0, 5 
+
+-1 Vvolts 
+
+FIG. 3. Diagramme de voltarnitrie cyclique obtenue dans CH3CN, 
+sans Clectrolyte support et sur electrode de platine. Vitesse de balayage 
+1 V/nrn. L'klectrode de rkfkrence est une Clectrode de Pleskov; (a) 
+obscurite; (b) lurnitre. 
+
+FIG. 4. Potentiel obtenu sur le platine; (a) Cclairement; (b) obs-
+curite. 
+
+La figure 5 prCsente la courbe de la puissance fournie dans 
+les conditions expCrimentales prCcCdentes, en fonction du po-
+tentiel entre les electrodes. Elle est obtenue en faisant varier la 
+rksistance introduite sur le circuit. En se pla~ant au maximum 
+de cette courbe, on peut faire dCbiter la pile pendant plusieurs 
+heures sans observer une variation notable des constituants de 
+la solution ni de variation importante des performances. 
+En fonctionnement on voit apparaitre sur 17Clectrode CclairCe 
+deux bandes colorCes en bleu, le long des generatrices du 
+cylindre, symitriques par rapport ? 
+I la gCnCratrice de contact, 
+entre 1'Clectrode et la paroi (fig. 2). Nous verrons que cette 
+coloration est due ? 
+I une espkce rCduite de tungstkne qui est 
+formte par action de la lumikre et d'un rkducteur. Cette espkce 
+qui est rCoxydCe au contact du platine est donc visible en 
+concentration stationnaire. Elle illustre le rdle critique jouC par 
+1'Cpaisseur de la couche de liquide entre la fenCtre d'entrke et 
+I'Clectrode. En se plaqant au maximum de la courbe de la figure 
+5, nous avons CtudiC la variation de la puissance Cmise en 
+fonction de la longueur d'onde. Nous interposons entre la 
+lampe et la cellule un monochromateur dont nous ouvrons 
+
+largement la fente. Le rendement est port6 en fonction de la 
+
+longueur d'onde (fig. 6). On constate que la courbe ne coyncide 
+pas avec la courbe d'absorption mais est dCcalCe vers le rouge. 
+Can. J. Chem. Downloaded from www.nrcresearchpress.com by 87.160.185.190 on 03/27/14 
+
+For personal use only. 
+
+
+FOLCHER ET AL. 
+
+I Pen pw 
+
+RG. 5. Puissance Clectrique fournie en fonction de la tension dis-
+ponible. 
+
+Absorbance (A) 
+
+Puissance ilectrique (B) U arbitraires 
+
+fwrnie 
+
+I 
+
+FIG. 6. (A) Spectre d'absorption Clectronique en fonction de la 
+longueur d'onde. (B) Puissance tlectrique fournie en fonction de la 
+longueur d'onde. 
+
+Plusieurs interpretations peuvent Ctre donnCes de ce phCno-
+mkne parmi lesquelles un processus faisant intervenir un 
+deuxikme photon absorb6 par l'espkce formee par le premier. 
+Si l'on porte maintenant (fig. 7) le rendement en fonction du 
+flux lumineux, on note qu'une valeur constante n'est atteinte 
+qu'h partir d'une valeur 6levCe de l'intensitk incidente. Dans le 
+cas simple de I'utilisation d'un seul photon on devrait observer 
+
+FIG. 7. Rendement en fonction du flux lumineux. 
+
+un rendement independant du flux lumineux au moins aussi 
+longtemps que l'on n'a pas atteint la saturation. 
+
+Discussion 
+D'aprks les spectres uv-visibles r6alisCs dans I'acCtonitrile 
+la structure en solution est celle de 1'Ctat solide (fig. 1). 
+La molCcule comporte deux entitCs compactes constituCes de 
+5 octakdres W06, dont le tungstkne occupe le centre, et reliCs 
+entre eux par une mise en commun d'aretes. Les deux moitiCs 
+de la molCcule sont reliCes entre elles par une mise en commun 
+de sommets. I1 en rksulte deux variCtCs de tungstkne W, et WII 
+et deux types de points WlOW,, et Wl1OWlI, les derniers Ctant 
+quasiment lintaires (175") (6). 
+La bande h 325 nm que nous irradions serait liCe h l'existence 
+des ponts (6) et suggkre que seul un type de liaison participe 
+aux transferts de charge responsable de la photochimie. 
+Dans I'acCtonitrile, les mesures de conductibilitC ont montr6 
+que les sels du polyanion sont entikrement dissociCs. Les ex-
+periences de rmn en cours confirment la presence de deux types 
+de tungstene. 
+Aucune determination des potentiels d'oxydorCduction des 
+polyanions de tungstkne n'avait Ct C realike dans CH3CN mais 
+les travaux de Pope (2) avaient montre que la reduction Clectro-
+chimique a 1 et 2 Clectrons Ctait r6alisCe rkversiblement. Nous 
+avons pu voir dans nos conditions: CH3CN et electrode de 
+platine, une premikre reduction reversible h l'electron a 0,515 V 
+par rapport h 1'Clectrode de Pleskov (soit sensiblement h 0,40 
+
+V par rapport h 1'Clectrode hydrogkne. A lumikre de la mise au 
+
+point rkcente (1) sur les propriCtCs photochimiques des poly-
+tungstates on peut penser que I'espkce bleue dont la concen-
+tration stationnaire peut Ctre observCe au contact de 1'Clectrode 
+est l'espkce rCduite un electron ~~~0 : ; . 
+Elle sera rCoxydCe 
+sur le platine h un potentiel de 0,35 V en circuit ouvert. C'est 
+l'espece dont la quantitC augmente lors de l'irradiation de la 
+solution mais elle peut Ctre limitCe par la reaction de 
+dismutation 
+
+La reaction sur le graphite est plus difficile h caracteriser. 
+Son potentiel mesure h +300 mV en circuit ouvert lors de 
+l'irradiation de la solution, est aussi celui oil se trouvent les 
+deux electrodes en I'absence de lumikre. 11 correspond bien h 
+
+Can. J. Chem. Downloaded from www.nrcresearchpress.com by 87.160.185.190 on 03/27/14 
+
+For personal use only. 
+
+
+2706 
+
+CAN. J. CHEM. VOL. 63, 1985 
+
+la vague d'oxydation observCe sur la solution de polytungstate 
+sans que l'on puisse en dCfinir la nature avec precision. Chem-
+seddine et al. (1 1) ont montrC que l'espbce rCduite Bun Clectron 
+(Wlo03z)5-prtsente une bande d'absorption intense a 370 nm. 
+I1 est donc possible de rendre compte du dCcalage vers le rouge 
+de la courbe de rendement dont le maximum est h 350 nm en 
+supposant qu'un deuxikme photon est absorb6 par l'espbce 
+
+donnCe par reduction B 1 Clectron dks sa formation. On obtien-
+
+drait alors en rCgime stationnaire I'espkce doublement rkduite. 
+Nous pouvons proposer le schCma suivant: 
+
+et finalement 
+
+( W ; I W ~O ~~) ~-
+
+3 (wyi032)~-+ 2 e-
+
+Graphite 
+
+2 D' + 2e--2 D 
+
+ou nous appelons D l'espkce oxydable. D doit rCaliser plusieurs 
+conditions. Cette espbce doit Ctre prCsente au voisinage de l'ion 
+excitC et sa forme oxydCe devrapouvoir se mettre sous une 
+forme stable qui sera rCduite sur le graphite. 
+La cation tCtrabutylammonium ne pourra pas jouer ce r6le: 
+son potentiel d'oxydation est trks ClevC et nous n'avons pas mis 
+en evidence de produits de rkactions tels que le butkne. On peut 
+aussi penser ? 
+I I'acCtonitrile plus facilement oxydable. 
+On sait (12) que llacCtonitrile est oxydC en CH2CN et que le 
+produit final est gCnCralement le succinonitrile en absence 
+d'oxygkne. Sinon il rCagit sur l'oxygkne pour donner le pe-
+roxyde O2CH2CN (13). 11 parait peu probable que ces produits 
+puissent Ctre rCduits sur le graphite avec un potentiel con-
+venable. 
+Yamase a montrC dans le cas de polytungstate par mCthode 
+de capteur de spin que wV1* Ctait capable d'arracher un hydro-
+gkne de l'eau pour donner le radical OH' (3). On peut donc 
+supposer comme dans le cas de l'uranyle que ces radicaux se 
+recombinent pour produire H202 qui serait rCduit sur le gra-
+phite. Le r6le de 1'Clectrode de platine peut &amp;tre invoquC pour 
+favoriser la reaction bimoltculaire de recombinaison des radi-
+
+caux hydroxyles. 
+Comme dans le cas de l'uranyle, nous pensons que l'eau joue 
+le r61e de donneur. Nous avons observC que l'addition d'une 
+petite quantitC d'eau h la solution provoquait une petite amClio-
+ration de l'effet photogalvanique. 
+Cependant en mesurant directement le potentiel du couple 
+OH-/H202 sur du platine ou du graphite on obtient une valeur 
+voisine de 0,6 V qui ne rend pas compte des rksultats obtenus 
+dans le fonctionnement de la pile. I1 est probable que le schCma 
+propost est approximatif. 
+Au plan de 17intCrCt pratique du systkme nous soulignons le 
+rendement relativement ClevC qui a Ct C obtenu dans des condi-
+tions non optimistes. La valeur du rendement maximale ob-
+tenue comme le rapport de la puissance de la pile h 1'Cnergie 
+lumineuse monochromatique incidente est de l'ordre de 1%. 
+Cette valeur est affectke de la mauvaise utilisation de la surface 
+de l'tlectrode CclairCe et devrait Ctre amCliorCe par un montage 
+ou 1'Cpaisseur optimale serait rkalisee sur l'ensemble de la 
+surface CclairCe. Enfin le systkme prksente une bonne stabilitC 
+dans le temps en accord avec les hypotheses de mCcanisme 
+proposCes ou aucune espkce chimique n'est consommCe. 
+
+Remerciement 
+Nous remercions M. William Mooney pour sa participation 
+aux discussions fmctueuses. 
+
+1. H. A. LEVY, P. A. AGRON et M. D. DANFORD. J. Chem. Phys. 
+30, 1486 (1959). 
+2. M. T. POPE. Heteropoly and isopoly exometallate. Inorg. Con-
+cepts 8. Springer Verlag. 1983. 
+3. T. YAMASE. Inorg. Chim. Acta, 76, 425 (1983). 
+4. J. FUcHs, H. HARTH, W. SCHILLER et U. GERLACH. Acta Crys-
+tallogr. Sect B, 32, 740 (1976). 
+5. G. FOLCHER et J. PARIS. NOUV. J. Chim. 5, 149 (1981). 
+6. S. C. TERMES et M. T. POPE. Inorg. Chem. 17, 500 (1978). 
+7. F. CHAUVEAU, M. BOYER et B. LEMCUR. C.R. Acad. Sci. Ser. 
+C, 268, 479 (1969). 
+8. E. BIRHOLZ, F. FUCHS, W. SCHILLER et M. P. STOCK. Z. 
+Naturforsch. B, 26, 365 (1971). 
+9. E. PAPACONSTANTINOU. J. Chem. Soc. Chem. Commun. 12 
+(1982). 
+10. M. S. Dc. GROOT, J. M. HENDRICHS et J. C. M. BROHHENZIJP. 
+Chem. Phys. Lett. 6, 521 (1983). 
+11. A. CHEMSEDDINE, C. SANCHEZ, J. LIVAGE, J. P. LAUNAY et 
+M. FOURNIER. Inorg. Chem. 23, 2609 (1984). 
+12. D. BRADLEY et D. WILKINSON. J. Chem. Soc. A, 531 (1967). 
+13. T. TRAN THI, A. M. KOULKES PUJO et L. GILLES. Radiat. Phys. 
+Chem. 15, 209 (1980). 
+Can. J. Chem. Downloaded from www.nrcresearchpress.com by 87.160.185.190 on 03/27/14 
+
+For personal use only. 
+
+
+
+	
+

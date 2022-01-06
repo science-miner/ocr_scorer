@@ -1,0 +1,890 @@
+
+	
+
+		
+
+	
+
+	
+
+~t u d e de l'action des organomagnbiens sur les derives carboxyliques de la pyridine 
+
+P. CANONNE ET M. BELLEY 
+
+DPpartemerlt de chimie, Universite Laval, QuPbec (Que.), Carzada 
+
+Requ le 2 dCcembre 1986 
+
+Cet article est dPdiP au Professeur John T. Edward 
+
+P. CANONNE et M. BELLEY. Can. J. Chem. 65, 1885 (1987). 
+La rCaction de Grignard avec les esters pyridinecarboxyliques 1, 2, l'acide pyridinecarboxylique-2 (3), et l'anhydride pyri-
+dinedicarboxylique-2,3 (5) a montrC une rtgioselectivit6 au niveau du groupe carbonyle rattach6 h la position 2 de I'ester ou de 
+l'anhydride. Ceci nous a permis de dCvelopper une nouvelle voie de synthbse des dialkyl-7,7 (7H) furo(3,4-b) pyridinones-5. 
+
+P. CANONNE and M. BELLEY. Can. J. Chem. 65, 1885 (1987). 
+Reactions of Grignard reagents with pyridinecarboxylic esters 1, 2, pyridine-2-carboxylic acid (3), and 2,3-pyridinedicar-
+boxylic acid anhydride (5) show regioselectivity at the carbonyl in position 2. This is exemplified by an efficient synthesis of 
+7,7-dialkylated-7H-furo[3,4-b]-substituted pyridin-5-ones. 
+
+Dans le cadre gtntral de l'utilisation des anhydrides d'acides 
+dicarboxyliques pour la prtparation des lactones dialkyltes (1) 
+et monoalkylCes (2), nous avons entrepris le prtsent travail afin 
+de dtmontrer que la rtaction des organomagntsiens constitue 
+une mtthode gtnCrale qui peut &amp;tre appliqute pour la synthkse 
+des lactones htttroaromatiques. Ceci nous a aussi semblt 
+interessant car l'examen de la litttrature a montrt qu'aucune 
+ttude systtmatique n'a t t t effectuCe sur les dtrivts de la 
+pyridine. De plus, il apparait que les lactones mono-et bisubs-
+titutes sont difficilement accessibles par d'autres mtthodes et 
+surtout les (7H) furo[3,4-b] pyridinones-5 (3). 
+En effet, rtcemment (4) il a kt6 observt que l'ortholithiation 
+du N, N-diisopropylpyridinamide-2 conduit aistment au com-
+post lithit en position 3 lequel a son tour rtagit avec un 
+aldthyde ou cttone pour donner la lactone correspondante. 
+Cependant, l'ortholithiation du N, N-diisopropylpyridinamide-3 
+
+fournit uniquement le compost lithit en position 4 sans aucune 
+trace du compost lithie en position 2. Toute tentative d'intro-
+
+duction, d'une fonction en position 2, n'a pu donnt les rtsul-
+tats escomptts. D'autre part, les rendements obtenus lors de 
+l'action des organomagntsiens sur l'ester acide issu de l'anhy-
+dride pyridinedicarboxylique-2,3 sont peu concluants et trks 
+faibles (5). 
+I1 nous a donc semblt intkressant d'entreprendre l'ttude de 
+l'action des organomagntsiens sur les esters pyridinecarboxy-
+liques (1 et 2), sur l'acide (3) et aussi sur l'anhydride pyrazine-
+dicarboxylique (4) et l'anhydride pyridinecarboxylique-2,3 (5) 
+
+afin d'ttudier systtmatiquement leurs reactions avec les orga-
+nomagntsiens et mettre en tvidence l'influence de la position 
+de l'azote sur les rendements rkactionnels (6). 
+En premier lieu, nous avons CtudiC les facteurs qui influen-
+cent les rtactions organomagntsiennes (addition, rtduction et 
+Cnolisation). Pour ce faire, nous avons ttudit l'action du bro-
+mure de propylmagntsium avec les deux esters 1 et 2, car cet 
+
+organomagntsien favorise les rtactions compttitives (7) 9 celle 
+de l'addition et notamment lorsque le soivant utilist est le 
+THF. 
+Nous avons optrk avec un excks d'organomagntsienl aussi 
+bien dans l'tther, dans le THF, et avons trouvC que le produit 
+de la rtaction de diaddition n'est le produit principal de la 
+rtaction que lorsque le solvant utilist est l'tther. Nous suppo-
+
+1. Nous avons observC une grande sensibilitC de ces substrats vis-
+a-vis des organomagntsiens 2 25°C se traduisant par la formation 
+d'une quantitk importante des composCs haut poids molCculaire. 
+
+sons que la rtaction est plus rapide dans le solvant le moins 
+basique. Dans les deux solvants, nous n'avons observt aucune 
+rCaction de dimtrisation. 
+En revanche, nous avons observe le propyl-4 pyridinecar-
+boxylate-3 d'tthyle 11 (12%) qui correspond a la reaction 
+
+d'alkylation du noyau pyridinique. Cependant, ceci n'est obte-
+nu que lorsque la rtaction est effectute dans l'tther ditthylique 
+et a la temptrature ambiante. 11 est a noter que cette rtaction 
+s'effectue moins facilement que dans le cas de la cyano-3 
+pyridine (9) et de la cyano-3 quinoline (10). 
+Les deux esters fournissent les alcools tertiaires correspon-
+dants par un processus de diaddition et les deux alcools secon-
+daires par un processus d'addition-rtduction. On note tgale-
+ment la formation de la (pyridinyl-2)-1 butanone-1 (6) qui 
+correspondrait a un processus d'addition-tnolisation plutbt 
+qu'i un processus de non reaction de la cttone intermtdiaire. I1 
+semble qu'une telle cttone se forme plus difficilement dans le 
+cas de la rtaction avec l'ester 2. On constate gtntralement que 
+le solvant joue un r61e important dans la distribution des 
+produits de ces reactions. I1 est fort probable que cette difft-
+rence soit due au fait que les organomagntsiens aux concentra-
+tions utilistes sont monomkres dans le tttrahydrofuranne et 
+dimkres dans l'tther ditthylique (1 1). Cette difftrence est trks 
+grande entre la rtaction de diaddition et la rtaction d'addi-
+tion-rtduction. Le tttrahydrofuranne favorise la formation de 
+l'alcool secondaire (47% contre 16% dans 1'Cther). Les rtsul-
+tats obtenus sont rassemblks au tableau 1. 
+11 en rtsulte donc de ces exptriences que les alcools secon-
+daires ou tertiaires peuvent &amp;tre obtenus selon le choix du 
+solvant. Une exptrience rtaliste avec l'acide pyridinecarboxy-
+lique-2 dans le tttrahydrofuranne montre que la (pyridinyl-2)-1 
+butanone-1 peut Ctre obtenue avec un rendement de 55%. 
+Nous dtcrivons ainsi une mtthode importante de synthkse 
+de cttones sans passer par les chlorures d'acide ou encore les 
+anhydrides en utilisant des organocadmiens (12) ou les com-
+posts organiques du mangankse (13). 
+Les rtsultats obtenus avec les rtactions sur les esters suggk-
+rent que les anhydrides pyrazinedicarboxylique (4) et pyridine-
+dicarboxylique (5) conduiraient, selon le solvant utilist, 
+l'obtention sptcifique des lactones monoalkyltes et des lac-
+tones dialkyltes. 
+
+Aussi nous avons CtC inttressts a synthttiser les spirolacto-
+
+nes correspondantes en faisant rtagir le di(bromomagnCsio)-l,4 
+butane avec les deux anhydrides 4 et 5 afin de dtmontrer l'in-
+fluence de l'azote. Nous avons constatt alors que l'anhydride 4 
+Can. J. Chem. Downloaded from www.nrcresearchpress.com by 87.160.185.190 on 03/27/14 
+
+For personal use only. 
+
+
+CAN. 1. CHEM. VOL. 65. 1987 
+
+TABLEAU 1. RCaction du bromure de 11-propylmagnCsium sur les esters 1 et 2 et I'acide 3 
+
+Cetone 
+Alcool 11"' " 
+Alcool 111"' " 
+Ester alkyle 
+
+Compose 
+Solvant 
+
+No Rdt (%) 
+No Rdt (%) 
+No Rdt (96) 
+No Rdt (7~) 
+
+1 
+
+THF 
+
+6 
+
+10 
+7 
+48 
+8 
+30 
+
+2 
+THF 
+-
+9 
+47 
+
+10 
+
+48 
+Ether 
+
+&gt; 2 
+
+9 
+63 
+
+10 
+
+16 
+
+11 
+
+12 
+
+3 
+THF 
+6 
+55 
+
+-
+
+-
+
+-
+
+-
+
+fournit la lactone correspondante 12 difficilernent rn&amp;rne a basse 
+temperature, et que l'anhydride 5 conduit toutefois a la forrna-
+tion de la spiro[cyclopentane-1,7' (5'H) furo[3,4-b] pyridinl-
+one-5' (13) avec un rendernent de (45%) (schema 1). En outre, 
+cette reaction rnontre une rt5gioselectivitC trks marquee. En 
+effet la spiro[cyclopentane-13' (7'H) furo[3,4-b] pyridinjone-
+7' (14) isornkre n'est obtenue qu'en faible quantitC (8%). Nous 
+supposons que cette r6giostlectivitC peut &amp;tre attribuke la 
+proximite de l'atorne de l'azote qui forme une liaison de coordi-
+nation avec l'atorne de magnesium, favorisant ainsi l'attaque 
+
+preferentielle du carbonyle rattache 2 la position 2 de l'anhy-
+dride 5 (schema 2). Ainsi, le carboxylate forme reagit a son 
+tour avec une seconde fonction organornagnesienne et conduit 
+aprks hydrolyse a la lactone 13 (schema 3). 
+
+Nous avons en premier lieu realist une etude dans le titrahy-
+
+drofuranne a diffkrentes temperatures et nous avons observe 
+qu'a basse temperature (-20 a -60°C) le rendernent global en 
+lactones est superieur B celui trouvC a la temperature arnbiante. 
+
+Ceci peut &amp;tre attribuk 51 une rtactivite plus faible du groupe-
+rnent carboxylate intermediaire aux temperatures comprises 
+entre -20 et -60°C. Cette reactivitt sernble &amp;tre plus accuste 
+dans le cas du carboxylate rattach6 5 la position 2 de la 
+pyridine que dans le cas du carboxylate situt en position 3. En 
+effet, les rendernents en lactones 21 et 22 ne varient pas avec la 
+temperature de la reaction alors que le rendement de la lactone 
+23 passe de 0 2 13%. De plus, on constate une forte augmenta-
+
+tion de la propyl-7 (7H) furo[3,4-b] pyridinone-5 (22) (de 10 a 
+
+28%). Cette lactone est probablement formee par un processus 
+
+d'addition-rkduction (schema 4). Cornrne nous n'avons pas 
+isole la propyl-5 (5H) furo[3,4-b] pyridinone-7, nous suppo-
+sons encore que la formation de lactone 22 peut &amp;tre attribuee a 
+la presence de l'azote. Enfin une Ctude rkalisee dans le melange 
+de solvants ether-tolukne rnontre que la formation des lactones 
+21 et 22 est favorisee au detriment de la lactone 23 (tableau 2). 
+Ces observations sont en accord avec la grande rtactivitC de 
+
+l'acide pyridinecarboxylique-2 (3) (tableau I). 
+
+De l'ensernble de ces risultats, il apparait que les reactions 
+secondaires sont favorisees en un rnoindre degrC lorsque les 
+conditions ci-dessous sont respecties : 
+1. Preparation et reaction des organornagntsiens dans un 
+solvant hydrocarbone en presence de 1'Cther diethylique. 
+2. Utilisation d'une temperature de reaction comprise entre 
+-20 et -60°C. 
+Nous constatons ainsi que l'anhydride 5 est un substrat de 
+choix pour la synthkse de (7H) furo[3,4-b] pyridinones-5 diffi-
+cilernent accessibles par d'autres voies de synthkse. 
+
+Partie experimentale 
+
+Les spectres ir ont Ct C enregistrks 21 I'aide d'un appareil Beckman 
+IR4250, et les spectres de rmn 'H sur un appareil Bruker (90 MHz) et 
+sur un appareil Varian XL-200 (200 MHz). Les spectres rmn I3C ont 
+Ct C enregistrCs sur un appareil Bruker MP-80 (20 MHz). Les spectres 
+de masse ont Ct C effectuCs sur un appareil Hewlett-Packard 5992 
+(GSIMG). Les ~Cparations chromatographiques sur colonne ont Ct C 
+effectuCes sur gel de silice (Woelms 32-63). Le nicotinate d'Cthyle, 
+l'acide picolique, le picolinate d'Cthyle et I'acide pyridinedicarboxy-
+lique-2,3 sont commercialement accessibles chez Aldrich. Les micro-
+analyses ont Ct C effectuees par Galbraith Laboratories Inc. 
+
+Materiel de dbpart 
+Le tktrahydrofuranne a Ct C distill6 sur sodium et gardC sous atmo-
+sphkre d'azote, les anhydrides pyridinedicarboxylique-2,3 et pyrazine-
+carboxylique-2,3 ont Ct C prtparCs selon la mCthode classique en 
+utilisant l'anhydride acCtique (14). Les organomagnCsiens ont Ct C 
+prCparCs selon les modes opCratoires prCcCdemment dCcrits (1, 8). 
+
+Rbacrion du bromure de n-propylmagnisium avec le pyridine-
+carboxylate-2 d'bthyle ou picolinate d'ithyle (I) 
+On prepare dans 1'Cther un excgs de bromure de n-propylmagnC-
+
+sium (4 Cquivalents), et on ajoute l'ester (7,603 g) B O°C, puis on 
+
+laisse rCagir sous agitation pendant 16 h h la tempkrature ambiante. 
+Aprks hydrolyse et traitement habituel, on sCpare les produits par 
+chromatographie sur gel de silice en utilisant le mClange d'Cluants 
+acetate d'Cthyle -Cther de petrole 1.99-20:80. On isole respective-
+
+Can. J. Chem. Downloaded from www.nrcresearchpress.com by 87.160.185.190 on 03/27/14 
+
+For personal use only. 
+
+
+CANONNE ET BELLEY 
+
+: + RMgX -
+
+N 2 
+0 
+
+0 
+XMgO 
+
+q: + %; MgX qR + @ : 
+
+k '"',R 
+
+' N 
+
+/o 
+
+N' 
+
+J 
+
+X-Mg-0 
+0 
+
+J 
+
+X-Mg-0 
+0 
+
+-
+
+G i M g x 
+a RMgx 
+
+@: Wgx 
+
+* QfrR COIMgX 
+
+X ~~~~M g -0 
+R 
+0 
+
+// 
+
+COzMgX 
+COzMgX 
+
+-
+
+R R " GR 
+
+0---MgX 
+Mg-0 
+R 
+
+I 
+
+X 
+
+S C H ~M A 
+3 
+
+ment la (pyridinyl-2)-1 butanone-1 (6), le (pyridinyl-2)-1 butanol (7) 
+
+5 Hz) ppm; rmn I3c (CDC13) 6 : 164,5, 147,3, 136,8, 121,6, 1 19,8, 
+
+et le (pyridinyl-2)-4 heptanol (8). 
+76,2, 44,9, 16,8, 14,5 ppm. Anal. calc. pour CIzHl9NO : C 7437, H 
+
+(Pyridinyl-2)-1 butanone-1 (6) : Rdt : 10% (0,153 g) liquide; ir v,,, : 
+
+9,91, N 7,24; tr. : C 74,43, H 9,80, N 7,19. 
+(film) 2960, 2930, 2870, 2851,2802, 1715, 1455, 1293, 1270, 1160, 
+1140,1116,1008,871 cm-l; rmn 'H (CDC13) 6 : 1,02 (3H, t , J = 7 Hz, 
+Rtacrions du brotnure de n-propybnagne'siu~n nvec le ~Yridinecar-
+CH3CH2), 1,78 (2H, q, J = 7 HZ, CH3CH2), 1.78 (2H, q, J = 7 HZ, 
+boxylnte d'e'rhyle 011 nicotinare d'e'thyle (2) 
+CH3CH2CH2), 3,33 (2H, t, J = 7 Hz, CH,CO), 7,35-8,33 (3H, m), 
+1. Dans le THF 
+8,77 (lH, dd) ppm; rmn I3C (CDC13) 6 : 202,1, 154,0, 149,1, 136,9, 
+On utilise 4 Cquivalents de rCactif de Grignard par Cquivalent d'ester 
+127, 121,8, 39,7, 17,6, 13,9 ppm. Anal. calc. pour C9HIINO: C 
+
+(2) (3,063 g) et on prockde comme prCcCdemment. On sipare les 
+
+72,46, H 7,43, N 9,38; tr. : C 72,38, H 7,31, N 9,30. 
+composCs obtenus par chromatographie sur gel de silice ? 
+I l'aide du 
+
+(Pyridinyl-2)-1 butanol-1 (7) : Rdt : 48% (0,763 g) liquide; ir v,,,, 
+
+mClange Cluant Cther de pCtrole-acCtate d'Cthyle. 
+(film) : 3380, 2968, 2933, 2871, 1599, 1575, 1468, 1439, 1128, 
+
+(Pyridinyl-3)-1 butanol (9) : Rdt : 47% (1,421 g) liquide; ir v , , , 
+
+1069, 1040, 751 cm-I; rmn 'H (CDC13) 6 : 0,73-2,00 (7H, m), 4,77 
+(film) : 3330, 2949, 2862, 1423, 1028, 71 1 cm-I; rmn 'H (CDC13) 6 : 
+(lH, t, J = ~H z , 
+-CHOH), 5,17 (lH, s, OH), 7,03-7,90 (3H, m), 
+0,70-1,90 (7H, m), 4,68 (lH, t, J = 6Hz, CHOH), 5,32 (lH, s, 
+8,53 (lH, dd) ppm; rmn I3C (CDCI~) 6 : 163,2, 148,4, 136,8, 122,3, 
+OH), 7,23 (lH, dd, J = 5 et 8 Hz), 7,77 (lH, dd, J = 1,5 et 8 Hz), 
+120,5,73,1,40,7,18,7,14,0ppm.A1~al.calc.pourC~H~~NO:C 8,23-8,50(2H,m)ppm;rmn13~(CDCl3)6:148,1,147,7,141,4 
+
+71,49, H8,66, N9,36; tr.: C71,58, H8.72, N 9 , l l . 
+134,2, 123,6, 71,5, 41,3, 18,9, 13,gppm. Anal. calc. pourC9H13NO: 
+
+(Pyridinyl-2)-4 heptanol-4 (8) : Rdt : 30% (0,604 g) liquide; ir v,,,, 
+
+C 71,49, H 8,66, N 9,26; tr. : C 71,58, H 8,71, N 9,18. 
+(film): 3403, 2958, 2934, 2872, 1599, 1574, 1471, 1440, 1403, 
+(Pyridinyl-3)-4 heptanol-4 (10) : Rdt : 46% (1,775 g) liquide; ir 
+1166, 1031, 798, 756 cm-I; rmn IH (CDC13) 6 : 0,67-2,00 (14H, m, 
+
+v,,, (film) : 3250, 2960, 2932, 2873, 1470, 1420, 718 cm-'; rmn 'H 
+
+CH3CHzCHz), 5,40 (lH, s), 7,07-7,90 (3H, m), 8,60 (lH, d, J = 
+(CDCI3) 6 : 0,60-1,97 (14H, m), 3,97 (lH, s, OH), 7,20 (lH, dd, 
+
+Can. J. Chem. Downloaded from www.nrcresearchpress.com by 87.160.185.190 on 03/27/14 
+
+For personal use only. 
+
+
+CAN. J . CHEM. VOL. 65, 1987 
+
+TABLEAU 2. Rtactions des organomagntsiens sur l'anhydride pyridinedicarboxylique-2,3 (5) 
+
+5 
+I 
+I I 
+111 
+
+Lactone 1 
+Lactone I1 
+Lactone 111 
+
+Rtactif 
+No 
+Rdt (%) 
+No 
+Rdt (%) 
+No 
+Rdt (%) 
+
+"Dans le THF a 25°C. 
+bDans le THF -70°C. 
+
+'Ether-toluene 1 :3 a 25°C. 
+
+COzMg X 
+C02MgX 
+RMgX 
+
+C-R 
+J-
+II 
+0 
+X ~~~~M g t O 
+
+J = 5 et 8 Hz), 7 3 0 (lH, dd), 8,40 (lH, dd), 8,61 (IH, d) ppm; rmn 
+I3C (CDC13) 6 : 147,3, 142.7, 133,8, 123,1, 75,7, 45,4, 16,8, 14,4 
+ppm. Anal. calc. pour C,,H19N0 : C 7437, H 9,91, N 7.24; tr. : C 
+74,37, H 9,80, N 7,20. 
+
+2. Dans l'e'ther die'thylique 
+
+A une solution CthCrte de bromure de n-propylmagntsium (4 tqui-
+valents) on ajoute goutte a goutte 1,603 g (10,6 mmol) de nicotinate 
+d'tthyle dilut dans le meme solvant et on procede suivant le meme 
+mode optratoire que prtcCdemment. Aprks chromatographie sur co-
+lonne de gel de silice on obtient 63% (1,287 g) de (pyridinyl-3)-4 
+heptanol-4 (lo), 16% (0,257 g) de (pyridinyl-3)-1 butanol (9), 2% 
+(0,033 g) de pyridinyl-3 butanone-1 et 12% (0,250 g) de propyl-4 
+pyridinylcarboxylate d'tthyle (11). 
+
+Propyl-4pyridinylcarboxylate-3 d'e'thyle (11) : Rdt : 12% (0,250 g) 
+liquide; ir v , , , (film): 2951, 2950, 2862, 1861, 1721, 1587, 1271, 
+1101 cm-'; rmn 'H (CDC13) 6 : 0,97 (3H, t, J = 7 Hz), 1,40 (3H, t, 
+J = 7 Hz), 1,20-1,90 (2H, m), 2,97 (2H, t, J = 7Hz), 4,40 (2H, q, 
+J = 7 Hz), 7,20 (lH, d, J = 5 Hz), 8,60 (lH, d, J = 5 Hz), 9,10 (lH, 
+
+S) ppm; rmn I3c (CDC13) 6 : 166,5, 153,4, 152,2 151,8, 126,4, 
+
+125,4, 61,2, 35,8, 24,0, 14,3, 14,Oppm; sm m l e : 194,30 (M + 1, 
+
+6,3), 193,20 (M+, 56,6), 150,2 ( 3 9 , 148,20 (loo%), 135,25 (54), 
+119,15 (38), 118,15 (36), 91,20 (31), 65,lO (32). Anal. calc. pour 
+C l l H 1 5 N 0 2 : 
+C68,37, H7,82, N7,24; tr. :C68,30,H7,75,N7,20. 
+
+Re'action du bromure de propylmagnPsiurn avec l'acide pyridine-
+carbo.rylique-2 ou picolique (3) 
+A 3,013 g (24,5 mmol) d'acide 3 en suspension dans le THF an-
+
+hydre, on afoute goutte a goutte le rtactif de Grignard prtpart a partir 
+
+de 18,733g (152mmol) de bromopropane et 4,102g de Mg dans 
+150 rnL de THF, puis on laisse rtagir 20 h. Aprks hydrolyse avec une 
+solution saturte de chlorure d'ammonium, on ramhe la phase aqueuse 
+
+a pH 7, puis on extrait au dichloromtthane. Apres chromatographie 
+
+sur colonne de gel de silice du produit brut de rtaction, on isole 
+2,011 g (55%) de (pyridinyl-2)-1 butanone-1 (6). 
+
+RPaction des dibromomagrtbiens avec les anhydrides 
+RPaction du di(brotnornagne'sio)-1,4 butane avec l'anhydride 
+pyrazinedicarboxylique (4) 
+A une solution de 64 mL de THF contenant 15,3 mmol de (dibro-
+
+momagnCsio)-1,4 butane (8), on ajoute a -5°C 2,255 g (15,2mmol) 
+d'anhydride 4 dissous dans 14 mL de THF. Aprks 10 min d'agitation a 
+
+-20°C, on hydrolyse le mtlange rtactionnel. Par chromatographie 
+sur colonne de gel de silice, en utilisant le mtlange d'tluants acttate 
+d'tthyle-benzkne 3:97, on isole 0,275 g de spirolactone 12 (Rdt 10%). 
+Le dosage par chromatographie en phase gazeuse donne 13% de spiro-
+[cyclopentane-1,5' (7'H) furo[3,4-b] pyrazinlone-7' (12); ir v,,,, 
+(CH2C12) : 1777 (C=O) cm-'; rmn 'H (CDC13) 6 : 1,90-2,35 (8H, s, 
+
+H), 8,93 (2H, s) ppm. Ce compost semble etre sensible a l'air et donc 
+
+n'a pu Ctre analyst de f a ~o n satisfaisante. 
+RPactions du di(bromomagnPsio)-l,4 butanti avec l'anhydride 
+
+pyridinedicarboxylique-2,3 (5) 
+
+A une solution de 29 mmol de di(bromomagntsio)-1,4 butane dans 
+89 mL de THF maintenue a O°C, on ajoute 2,88 g (19,3 mmol) d'an-
+
+Can. J. Chem. Downloaded from www.nrcresearchpress.com by 87.160.185.190 on 03/27/14 
+
+For personal use only. 
+
+
+CANONNE ET BELLEY 
+
+1889 
+
+hydride 5 dissous dans 30 mL de THF anhydre, puis on laisse rkagir 
+sous agitation pendant 16 h. Aprks chrornatographie sur colonne de 
+gel de silice en utilisant un melange acCtate d'Cthyle -Cther de pCtrole 
+75:25 cornrne Cluant, on obtient 1,443 g de spirolactone 13, Rdt 45% 
+(0,252 g), et 8% de la lactone isornkre 14. 
+Spiro[cyclopentane-I, 7' (5'H) furo[3,4 -b] pyridinl-one-5 (13) : 
+F = 102,8-103,3"C; ir v,,,, (CH2C12) : 1762 (C=O), 1609, 1590, 
+1108, 1093, 966 crn-I; rrnn 'H (CDC13) 6 : 1,85-2,45 (8H, s), 7,50 
+(lH, dd, J = 5 et 8 Hz), 8,23 (lH, dd, J = 2 et 8 Hz), 8,93 (lH, dd, 
+J = 2 et 5 Hz) pprn; rrnn I3C (CDC13) 6 : 171,4, 168,0, 155,5, 133,8, 
+
+123,9, 119,9, 96,4, 38,2, 25,4ppm; sm m/e: 190,10 (M + 1, 4,7%) 
+
+189,20 (M', 27,5%). Anal. calc. pour C1 I H I l N 0 2 : C 76,27, H 6,40, 
+N 8,08; tr. : C 76,40, H 6,51, N 7,98. 
+Spiro[cyclopentane-I ,5 (7H) furo/3,4-blpyridinl-one-7 (14) : F = 
+8446°C; ir v,,, (CH2C12) : 2958, 2859, 1770, 1599, 1585, 1470, 
+1342,1306, 1102,988,959, 801 cm-'; rmn 'H (CDC13) 6 : 1,93-2,30 
+(8H, s),7,67 (lH, dd, J = 5 e t 8 H z ) , 7,99(1H,dd, J = 2 e t 8 H z ) , 
+8,97 (lH, dd, J = 2 et 5 Hz) ppm; rrnn I3C (CDC13) 6 : 167,6, 152,5, 
+146,8, 144,8, 130,0, 127,6, 93,7, 39,6, 25,Oppm; sm m l e : 190,lO 
+
+(M + 1, 15), 189,20 (M', 100%) 166,15 (140). 160,05, 147,05 (94), 
+
+133,lO (42), 132,lO (78), 106,05 (56), 105,05 (84), 104,05 (43), 
+78,05 ( 3 3 , 77,05 (67), 51,lO (36). Anal. calc. pour C I I H I I N 0 2 : 
+C 
+76,27, H 6,40, N 8.08; tr. : C 76,20, H 6,38, N 7,90. 
+Reaction du bromure de phe'nylmagnisium acec 1 'anhydride 
+pyridinedicarboxylique-2,3 (5) 
+Une solution de brornure de phCnylmagnCsium prCparCe dans le 
+THF (29,5 mmol) est ajoutte a une solution de l'anhydride 5 (13,4 
+
+mmol) dans le THF -70°C et on laisse agiter 20 h i -10°C avant 
+
+d'hydrolyser. Aprks chromatographie sur gel de silice du produit brut 
+en utilisant comrne Cluant le mClange acetate dlCthyle -Cther de pCtrole 
+11:89, on recueille 1,910 g de la lactone 15 (Rdt 50%) et 1,862 g de 
+son isomere 16 irnpur que l'on recristallise pour obtenir 1,456 g (Rdt 
+40%). A la temperature ambiante on obtient 31% (1,264g) de lactone 
+15. 
+Diphinyl-7,7 (7H) furo[3,4-b] pyridinone-5 (15) : F = 162-163°C; 
+ir v, , , (CH2C12) : 1768, 1600, 1586, 1491, 1160, 1126, 1076, 967, 
+953crn-I; rmn 'H (CDCl,) 6 : 7,20-7,70 (IIH, rn), 8,27 (lH, dd, 
+J = 2 et 8 Hz), 8,97 (lH, dd, J = 2 et 5 Hz) ppm; rrnn I3C (CDC13) 
+6 : 170,8, 167,6, 155,3, 139,9, 134,4, 128,6, 127,O. 124,2, 119,7, 
+
+90,7; srn m/e: 288,25 (M + 1, 1 I), 287,15 (M', 60,7), 286,15 (21), 
+
+243,20 (24), 242,20 (20), 210 (loo%), 182,lO (32), 154,25 (22), 
+lO5,OO (28), 77,15 (52), 51.10 (25). 
+Diphinyl-5,5 (5H) furo[3,4-b] pyridinone-7 (16) : F = 126,2-
+126,6"C; ir v,,,, (CH2C12) : 1780, 1600, 1161, 1125, 11 10, 968 cm-I; 
+rmn 'H (CDC13) 6 : 7,43 (lOH, s), 8,13 (IH, dd, J = 2 et 8 HZ), 9,00 
+(lH, J = 2 et 5 Hz) pprn; rmn I3C (CDC13) 6 : 167,3, 152,9, 146,4, 
+144,1, 140,2, 132,8, 129,0, 128,9, 127,5, 127,0, 89,9ppm; srn 
+
+m/e: 288,15 (M + 1, 3,3), 287,15 (M', 18,7), 244,20 (18), 243,20 
+
+(loo%), 242,20 (34), 241,20 (21), 210.05 (48), 182.10 ( I l ) , 154,25 
+(23), 127,lO (31), 120,60 (lo), 105 (17), 77,15 (31), 51,lO (22). 
+Re'action du bromure de p-tolymagt~e'sircm avec l'anhydride 
+pyridinecarboxylique-2,3 (5) 
+A une solution de 2 g (13,4 mrnol) de l'anhydride 5 dans 30 rnL de 
+
+THF, on ajoute goutte a goutte la solution organomagnksienne (4 
+
+Cquivalents) prtparCe dans le THF a -6OoC, puis on laisse agiter 
+
+pendant 20 h 2 -1O0C, puis on hydrolyse. Apr2s chrornatographie 
+
+flash sur gel de silice en utilisant le mClange acCtate d'Cthyle-benzkne 
+5:95 et 8:92 on recueille 2,075 g (49%) de di(p-toly1)-7,7 (7H) furo-
+[3,4-b] pyridinone-5 (17) et 1,439g (34%) de di(p-to1yl)-5,5 (7H) 
+furo[3,4-b] pyridinone-7 (18). 
+Di(p-roly1)-7,7 (7H)furo[3,4-b] pyridinone-5 (17) : F = 112-113°C; 
+irvmaX(CH2Cl2): 1771, 1604, 1511, 1158, 1127, 1121cm-I; rrnn 'H 
+(CDCI3) 6 : 2,33 (6H, s), 7,07-7,64 (9H, m), 8,27 (IH, dd, J = 2 et 
+8 Hz), 9,00 (lH, dd, J = 2 et 5 Hz) ppm; rmn I3C (CDC13) 6 : 170,7, 
+167,8, 155,3, 138,4, 137,1, 134,3, 129,2, 127,0, 124,0, 119,7, 
+
+91,0, 21,Oppm; srn m/e: 317,20 (M + 2, 2), 316,20 (M + 1, 16,6), 
+
+315.20 (M', 75,2), 271.30 (70), 256,30 (21), 241,lO (21), 224,15 
+(loo%), 196,20 (25), 167,25 (38), 119,20 (34), 91,15 (42), 77,15 
+
+(22), 65,lO (26). Anal. calc. pour C21H17N02: C 79,98, H 5,43, N 
+4,44; tr.:C79,91, H5,38, N4,32. 
+Di(p-toly1)-5,5 (5H) furo[3,4-b] pyridinone-7 (18) : Rdt : 34% 
+(1,439 g); F = 157-158°C; ir v,,,, (CH2C12): 1777, 1512, 1157, 
+1128, 1109, 960crn-I; rrnn 'H (CDC13) 6 : 2,33 (6H, s), 7,23 (8H, 
+s), 7,63 (IH, dd, J = 5 et 8 Hz), 8,07 (lH, dd, J = 2 et 8Hz), 8,97 
+(IH, dd, J = 2 et 5 Hz) pprn; rmn I3C (CDC13) 6 : 167,6, 152,9, 
+146,9, 144,1, 139,0, 137,5, 132,8, 129,5, 127,5, 127,7, 90,1, 21,l 
+
+ppm; sm m/e : 3 16,20 ( M + 1, 7,4), 3 15,20 (M', 34,5),272,30 (21), 
+
+271,30 (loo%), 270,30 (22), 257,20 (22), 256.30 (85), 254,20 (20), 
+224,15 (47), 167,25 (29), 91,15 (29). Anal. calc. pour C21H17N02 : 
+C 79,98, H 5,43, N 4 4 4 ; tr. : C 79,80, H 5,45, N 4,38. 
+Rkaction du bromure de me'thylmagne'sium avec l'anhydride 
+pyridinedicarboxylique-2,3 (5) 
+On prepare ce rkactif de Grignard en faisant barbotter un courant de 
+bromomkthane dans le ballon riactionnel refroidi contenant 0,757 g 
+de magnesium et 30 mL de THF anhydre, puis on y ajoute goutte a 
+
+goutte 2 -60°C 2,O g (13,4rnmol) d'anhydride 5 dissous dans 50mL 
+
+de THF, et on laisse la rCaction se poursuivre sous agitation pendant 
+
+16 h a 10°C. Apres hydrolyse et traiternent habituel, on recueille par 
+
+chrornatographie sur gel de silice, en utilisant comme Cluant le mC-
+lange de solvants acetate d'ethyle-Cther de pCtrole 35:65, deux lac-
+tones 19 et 20. 
+Dime'thyl-7,7 (7H) furo[3,4-b] pyridinone-5 (19) : Rdt : 50%; F = 
+85-86°C; ir v, , , (CH2C12) : 1766, 1606, 1589, 1475, 1326, 1200, 
+1168, 1143, 1092, 1047, 950, 907, 789 cm-'; rmn 'H (CDC13) 6 : 
+1,73 (6H, s), 7 3 3 (lH, dd, J = 5 et 8 Hz), 8,27 (lH, dd, J = 2 et 
+8 Hz), 8,93 (IH, dd, J = 2 et 5 Hz) ppm; rmn 13C (CDC13) 6 : 1730, 
+167,8, 155,3, 134,3, 124,1, 119,0, 86,4, 25,7 ppm; sm m l e : 163,lO 
+(17), 149,lO (8), 148,20 (loo%), 105,05 (9), 92,lO (21), 77,lO (9), 
+65,15 (lo), 51,15 (8). 
+Dimithyl-5,5 (5H)furo[3,4-b] pyridinone-7 (20) : Rdt : 20%; F = 
+104-104.5"C; ir v,,, 
+(CH2C12) : 1772, 1318, 1206, 1167, 1090, 
+1050, 949, 900, 801 crn-I; rrnn 'H (CDC13) 6 : 1,73 (6H, s), 7,61 
+(lH, dd, J = 5 et 8Hz), 7,98 (IH, dd, J = 2 et 8 Hz), 8,92 (lH, dd, 
+
+J = 2 et 5 Hz) ppm; rrnn I3c (CDCl,) 6 : 167,6, 152,6, 149,0, 144,1, 
+
+129,9, 127,7, 83,9, 27,3 ppm; sm m/e: 164,lO (M + 1,4,1), 16320 
+
+(M + 37), 148,10 (loo%), 120,05 (52), 118,15 (21), 104,05 (15), 
+
+92,10 (39), 72,10 (17), 51.15 (22). Anal. calc. pour C9H9NO-,: C 
+66,25, H 5,56, N 8 3 8 ; tr. : C 66,15, H 5,48, N 8,51. 
+
+Riaction du bromure de propylmagnbium avec lafilro[3,4-b] 
+pyridinedione-5,7 ou l'anhydridepyridinedicarboxyliqlle-2,3 (5) 
+I . THF a 25°C 
+A 120 mmol de brornure de propylmagnCsium dans le THF on 
+ajoute 34,3 rnmol (5,119 g) d'anhydride 5. Aprks agitation durant 
+24 h, on hydrolyse le mtlange rCactionne1 et, par separation chroma-
+tographique, on obtient 1,128 g (Rdt 19%) de dipropyl-7,7 (7H) 
+furo[3,4-b] pyridinone-5 (21) et 0,687 g (Rdt 10%) de propyl-7 (7H) 
+furo[3,4-b] pyridinone-5 (22). 
+2. Riaction du bromure de propylmagnisium avec l'anhydride 
+pyridinedicarboxylique-2,3 dons un melange ether die'thylique -tollline 
+1:3 a 25°C 
+On prCpare le brornure de propylrnagnCsium a partir de 4,537 g 
+(36,9 mmol) de brorn~propane et 0,986 g de magnesium dans 40 mL 
+
+d'kther ditthylique. A ce reactif refroidi a 0°C. on ajoute goutte j. 
+
+goutte 2,O g (13,4 rnrnol) d'anhydride 5 dissous dans 120 rnL de tolu-
+
+kne anhydre bouillant. On laisse agiter pendant 16 h i la temperature 
+
+ambiante avant d'hydrolyser le mClange rkactionnel. Aprks chromato-
+graphie sur gel de silice en utilisant cornme Cluant les melanges acCtate 
+d'Cthyle-benzkne 5 195 et acetate d'Cthyle -benzkne 10:90, on isole 
+trois produits dans les proportions citCes ci-dessous. 
+Dipropyl-7,7 (7H) jilro[3,4-b] pyridinone-5 (21) : 1,150 g (Rdt 
+39%). 
+~i o ~~l -7 
+(7H) furo[3,4-b] pyridinone-5 (22) : 0,272 g (Rdt 11%). 
+Dipropyl-5,5 (5H) furo[3,4-b] pyridinone-7 (23) : 0,096 g (Rdt 
+3%). 
+
+Can. J. Chem. Downloaded from www.nrcresearchpress.com by 87.160.185.190 on 03/27/14 
+
+For personal use only. 
+
+
+1890 
+
+CAN. J. CHEM. VOL. 65, 1987 
+
+3 . A basse tempe'rature duns le te'trahydrofuranne 
+220,lO (15), 219,lO (loo%), 218,20 (87), 188,15 ( l l ) , 148,lO (39), 
+On refroidit a -60°C le rtactif de Grignard obtenu a partir de 
+134,05 (16), 130,05 (9), 106,05 (27), 105,05 (9), 79,lO (12), 78,10 
+4,124 g (33,s mmol) de bromopropane et 0,897 g de magnesium dans 
+(91, 77,10 (101, 55,05 (10%). Anal. calc. pour C19H29N02 : C 74,71, 
+28 mL de THF anhydre, puis on y ajoute goutte a goutte 0,986 g 
+H 9,57, N 4,58; tr. : C 74,63, H 9,62, N 4,52. 
+(6,61 rnrnol) d'anhydride 5 dissous dans 25 mL de THF en trois 
+Hexyl-7 (7H) furo[3,4-b] pyridinone-5 (25) : Rdt : 28% (1,25 g); 
+
+reactions (1-3) a differentes temperatures : (1) h -60°C, 10 min; (2) 2 
+
+F = 54,O-55,0°C; ir v , , , (CH2C12) : 2920, 2852, 1769, 1609, 1590, 
+-40°C, I0 min; (3) -20°C, 10 min. Aprks hydrolyse on dose par 
+1180, 1107, 1069 cm-I; rmn 'H (CDC13) 6 : 0,87 (3H, s), 1,lO-1,67 
+chromatographie en phase gazeuse les lactones obtenues en utilisant 
+
+(8H, s), 1,67-2,30 (2H, m), 5,50 (lH, dd, J = 4 et 6 Hz), 7,50 (lH, 
+
+comme standard interne le phtnanthrene. Les rendements correspon-
+
+dd, J = 5 et 8 Hz), 8,33 (1 H, dd, J = 2 et 8 Hz), 8,91 (lH, dd, J = 2 
+
+dants obtenus dans chacune des rtactions sont donnts ci-dessous. 
+et 5 Hz) ppm; rmn I3C (CDC13) 6 : 169,5, 168,7, 153,3, 134,0, 
+
+( I ) A -60°C: dipropyl-7,7 (7H) furo[3,4-b] pyridinone-5 (21) : 
+
+124,0, 120,1, 82,5, 33,2,31,6,29,0, 24,7, 22,5,14,0 ppm; sm m/e : 
+21%; propyl-7 (7H) furo[3,4-b] pyridinone-5 (22): 31%; dipropyl-5,5 
+
+220,15 (M + 1, 0,8), 219,05 (M+, 5,4), 148,05 (191, 135,lO (loo%), 
+
+(5H) furo[3,4-b] pyridinone-7 (23) : 12%. 
+134,lO (27), 107,OO (43), 106,OO (37), 79.05 (17), 78,05 (25), 51,lO 
+(2) A -40°C: dipropyl-7,7 (7H) furo[3,4-b] pyridinone-5 (21): 
+(14). 
+20%; propyl-7 (7H) furo[3,4-b] pyridinone-5 (22) : 31%; dipropyl-5,5 
+Dihexyl-5,5 (5H)firo[3,4-b] pyridinone-7 (26) : Rdt : 14% (0,865 g); 
+(5H) furo[3,4-b] pyridinone-5 (23) : 13%. 
+F = 68,8-69,5"C; ir v , , , (CH2C12): 2950, 2920, 2850, 1772, 1597, 
+(3) A -20°C : dipropyl-7,7 (7H) furo[3,4-b] pyridinone-5 (21) : 
+1569, 1091 cm-'; rmn 'H (CDC13) 6 : 0,83 (6H, s), 0,90-1,40 (16H, 
+19%; propyl-7 (7H) furo[3,4-b] pyridinone-5 (22) : 28%; dipropyl-5,5 
+
+m), 1 ,SO-2,18 ( 4 ~; m), 7,55 (lH, dd, J = 5 et 8 Hz), 7,84 (lH, dd, 
+
+(5H) furo[3,4-b] pyridinone-7 (23) : 13%. 
+J = 2 et 8 Hz), 8,97 (1 H, dd, J = 2 et 5 Hz) ppm; rmn I3C (CDC13) 
+Dipropyl-7,7 (7H) furo[3,4-b] pyridinone-5 (21): F = 59-60°C; 
+6 : 168,1, 152,4, 146,8, 145,6, 130,2, 127,2, 88,7, 38,7, 31,5, 29,3, 
+irv,,,(CC1,):2910,2876,2812,1776,1612,1592,1288,1184, 
+23,3,22,5,13,9ppm;smm/e:304,30(M+1,0,8),303,30( 
+1096, 1074, 952 cm-'; rmn 'H (CDC13) 6 : 0,80-0,90 (6H, m), 
+4,9), 219.00 (18), 218,lO (loo%), 200,15 (25), 148,lO (14), 132,15 
+0,90-135 (4H, m), 1,94-2,20 (4H, m), 7,49 (IH, dd. J = 5 et 
+(1 I), 130,05 (13), 106,05 (34), 78,lO (23). 
+
+8Hz), 8,20 (lH, dd, J = 2 et 8Hz), 8.89 (lH, dd, J = 2 et 5Hz) 
+
+ppm; rmn I3C (CDCl-,) 6 : 171,5, 168,4, 155,1, 133,8, 123,8, 121,0, 
+
+Remerciements 
+
+91,2, 39,7, 16,5, 14,Oppm; sm m/e: 177,lO (71), 176,lO ( 9 3 , 
+Nous remercions le Conseil d e recherches en sciences natu-
+148,15 (29), 134,lO (loo%), 130,lO (171, 106,00 (271, 78,05 (21). 
+
+relies et en gtnie du Canada et les Fonds pour la formation d e 
+
+Anal. calc. pour C I ~H I ~N O ~ 
+: C 7 1 ,20r H 7 3 2 , N 6.38; tr. : C 71,02, 
+
+chercheurs et l'aide la recherche au ~i ~i ~~k 
+
+de 17tducation 
+H 7,91, N 6,46. 
+Propyl-7 (7H) furo[3,4-b] pyridinone-5 (22) : F = 35-35,8"C; ir 
+du QuCbec pour I'aide financiere apportCe sous forme de sub-
+
+v , , , 
+(CC1,) : 2915, 2883, 2820, 1781, 1613, 1596, 1 161, 1 105, 
+
+ventions et de bourse d'Ctudes (M.B.). 
+
+1060, 962 cm-'; rmn 'H (CDC1,) 6 : 1,00 (3H, t, J = 7 Hz), 1,20-2,37 
+(4H,m),5,53(1H,dd,J=4et6Hz),7,55(1H,dd,J=5et8Hz), 1. P. CANONNE, M. AKSSIRA et G. FYTAS. Tetrahedron, 40, 1809 
+
+8,27 (lH, dd, J = 2 et 8 Hz), 8,97 (IH, dd, J = 2 et 5 Hz) ppm; rmn 
+
+(1 984). 
+
+I3c (CDC13) 6 : 169,3, 168,8, 155,3, 134,2, 124,2, 120,4, 82,2, 
+
+2. P. 
+et M. AKsslRA' 
+41, 3695 
+35,1, 18,1, 13,8 ppm; sm m/e: 135 (loo%), 134,lO (41), 133,20 
+3' ( a ) M' OzuTsuM1' MryAzAwA' S' OGAwA1 S' ISHIGE&gt; A' 
+
+(16), 107,05 (56), 106,05 (54), 79,lO (16), 78,lO (38), 77,lO (14), 
+WATANABE et K. KAEKI. Ger. Offen. 2412 640 (ct. B41 m) 26 
+
+51,15 (25). Anal. calc. pour CloHloN02: C 68,17, H 5,72, N 7,95; 
+sept 1974; Japan, Apple 7 329 468, 15 mars 1973; Chem. Abstr. 
+
+tr. : C 68.32, H 5,79, N 8,Ol. 
+92, 37353m (1975); (b) T. E. HOOVER, S. FARBER et W. J. 
+
+Dipropyl-5,5 (5H) furo[3,4-b] pyridinone-7 (23) : F = 108-109°C; 
+BECKER. Ger. Offen. 3 008 494 (ct. C07D5 13/04), 18 sept 1980; 
+
+ir v , , , (CH2C12) : 2949, 2920, 2860, 1770, 1593, 1 183, 1 160, 1 101, 
+U.S. Appl. 17 765 05 mars 1979; Chem. Abstr. 95, 25057y 
+
+1079, 938 cm-'; rmn 'H (CDC13) 6 : 0,80-1,00 (6H, m), 1,OO-135 
+(1981); (c) C. M. JEPHCOTT. J. Am. Chem. Soc. 50, 1189 
+(1 928). 
+(4H, m), 1,66-2,17 (4H, m), 7,63 (1H, dd, J = 5 et 8 Hz), 7,85 (1H, 
+4. J. EPSZTAJN, Z, BERSKI, J. Z, BRZEZINSKI et A. JozwARAK, 
+dd, J = 2 et 8 Hz), 8,90 (IH, dd, J = 2 et 5 Hz) ppm; sm m/e : 
+219.10 (M+, 5,3), 177,lO (13), 176,20 (loo%), 148,15 (9), 134,lO 
+Tetrahedron Lett. 21, 4739 (1980). 
+
+(12), 210,lO (lo), 106,16 (53), 78,20 (28), 71,20 ( l l ) , 51,15 (9). 
+5. H. SIMONIS et H. COHN. Ber. Dtsch. Chem. Ges. 47, 1238 
+(1914). 
+Anal. talc. pour C I ~H I ~N O ~ 
+: C 71 r20, H 7,82, N 6,38; tr. : C 71,36. 
+6. J , BARASSIN, G. QUEGUINER et H. LUMBROSO, Bull, Sot, Chim. 
+H 7,95, N 6.43. 
+Fr. 4707 (1967). 
+Re'action du bromure d'hexyltnagne'sium avec l'anhydride pyridine-
+carboxylique-2,3 (5) 
+A une solution de bromure d'hexylmagntsien prtparee dans le THF 
+
+(4 Cquivalents),on ajoute a -20°C 3,047 g (20,4 mmol) d'anhydride 5 
+dissous dans 42mL de THF. On laisse rCagir a -20°C pendant 
+
+20 min, puis on hydrolyse avec HC1 10%. La chromatographie sur gel 
+de silice avec acktate dlCthyle-benzene 3:97 fournit les trois lactones 
+comme precedemment. 
+Diheql-7,7 (7H)@ro[3,4-b] p~lridinone-5 (24) : Rdt : 14% (0,863 g) ; 
+F = 28-29°C ; ir v , , , 
+(CH2C12) : 2941, 2919, 2827, 1760, 1604, 
+1588, 1101, 1080 cm-I; rmn 'H (CDC13) 6 : 0,82 (6H, s), 0,93-1,45 
+(16H, s), 2,08 (4H, m), 7,48 (lH, dd, J = 5 et 8Hz). 8,23 (IH, dd, 
+
+J = 2 et 8 Hz), 8,91 (lH, dd, J = 1 et 5 Hz) ppm; rmn I3c (CDC13) 
+
+6 : 171,6, 168,4, 155,0, 133,8, 123,7, 120,9, 91,3, 3 7 3 , 31,s. 29,2, 
+23,0, 22,5, 13,9 ppm; sm m/e : 303.30 (M', 0,7), 259,25 (9), 
+
+7. P. CANONNE, G. B. FOSCOLOS, H. CARON et G. LEMAY. Tetra-
+hedron, 38, 3563 (1982). 
+8. P. CANONNE, D. B ~L A N G E R , 
+G. LEMAY et G. B. Fosco~os. J. 
+Org. Chem. 46, 3091 (1981). 
+9. R. L. FRANK et C. WEATHERBEE. J. Am. Chem. Soc. 70, 3482 
+( 1948). 
+10. M. FERLES, P. JONCAS et 0. KOCIAN. Collect. Czech. Chem. 
+Commun. 44, 2672 (1972). 
+11. E. C. ASHBY. Pure Appl. Chem. 52, 545 (1980). 
+12. J. MICHEL, E. HENRY-BASCH et P. F R E O ~. Bull. Soc. Chim. Fr. 
+4898 (1968). 
+13. (a) G. FRIOUR, A. ALEXAKIS, G. CAHIEZ et J. F. NORMANT. 
+Tetrahedron, 40, 683 (1984); (b) G. FRIOUR, G. CAHIEZ et J. F. 
+NORMANT. Synthesis, 37 (1984). 
+14. L. FRIEDMAN. Org. Synth. 43, 80 (1963). 
+
+Can. J. Chem. Downloaded from www.nrcresearchpress.com by 87.160.185.190 on 03/27/14 
+
+For personal use only. 
+
+
+
+	
+

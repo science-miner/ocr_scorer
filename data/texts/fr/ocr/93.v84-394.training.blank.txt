@@ -1,0 +1,344 @@
+
+	
+
+		
+
+	
+
+	
+
+Decomposition homolytique du peracide phenyl-5 pentanoi'que: reactivite du radical 
+phenyl-4 butyle et competition entre deux mecanismes en chai'ne 
+
+JEAN-YVES NEDELEC, JACQUES FOSSEY, DANIEL LEFORT ET JEANINE SORBA 
+
+C.N.R.S., G.R. 12, 2 , rue H . Dunant, 94320 Thiais, France 
+
+Recy le 28 dicembre 1983 
+
+JEAN-YVES NEDELEC, JACQUES FOSSEY, DANIEL LEFORT et JEANINE SORBA. Can. J. Chem. 62, 23 17 (1984). 
+
+Le peracide phenyl-5 pentanoi'que, en solution h ebullition dans le cyclohexane, se decompose essentiellement en acide 
+correspondant au lieu de se dicarboxyler en phenyl-4 butanol comme les termes inferieurs ou suerieurs; cette difference de 
+comportement est expliquee par la cyclisation du radical phenyl-4 butyle, lequel ne peut pas propager le mecanisme en chaine 
+conduisant au phenyl-4 butanol et le peracide se transforme alors en acide par un autre mecanisme radicalaire en chaine 
+cometitif. 
+
+JEAN-YVES NEDELEC, JACQUES FOSSEY, DANIEL LEFORT, and JEANINE SORBA. Can. J. Chem. 62, 2317 (1984). 
+
+5-Phenyl pentanoic peracid decomposes in boiling cyclohexane solution to the corresponding acid instead of decarboxylation 
+as is observed for the related cases. This difference in behaviour is explained by the cyclization of the 4-phenyl butyl radical 
+which can then no longer propagate any chain reaction leading to 4-phenyl butanol. The peracid, therefore, reacts by a 
+competitive radical chain mechanism leading to the corresponding acid. 
+[Journal translation] 
+
+L'intCrCt des peracides RCO3H en chimie radicalaire rCsulte 
+d'une double spCcificitC: ils sont a la fois source de radicaux 
+libres R' et substrat pour differents radicaux libres nucltophiles 
+(R') pour former des alcools. Ainsi, la dCcomposition ther-
+mique d'un peroxyacide aliphatique conduit B l'alcool ROH 
+selon le mecanisme en chaine suivant (I) (1). 
+
+[l] RC03H + RC02' + OH 
+[2] RC02' + R' + C 0 2 
+[3] R' + RCO3H + ROH + RC02' 
+
+Reactions de terminaison 
+
+Cependant dans certains cas lies au milieu rkactionnel (2, 3) 
+(nature du solvant, presence d'oxygkne) ou lorsque le radical R' 
+est Clectrophile (3, 4), le produit principal est l'acide corres-
+pondant. 
+Ainsi nous avons dCja montrC (3) que lorsque l'on n'opkre 
+pas a ebullition de la solution, l'oxygkne dissous bloque le 
+mecanisme I et que l'acide se forme par le mecanisme en 
+chaine 11. 
+
+[4] RC03H + RCO; + OH 
+
+[5] OH + RC03H + H20 + RCO,' 
+[6] RC03' e RCO + O2 
+
+[7] RCO + RC03H e RCHO + RCO,' 
+
+[8] RCHO + RCO3H + 2 RCOzH 
+
+MECANISME I1 
+
+Dans 1'Ctude prCsentCe ici nous allons montrer que ces deux 
+mCcanismes, qui diffkrent radicalement par la nature des entitts 
+radicalaires mises en jeu (RC02' et R' dans I, RCO,' et R ~O 
+dans 11), Cvoluent de manikre compCtitive; nos travaux ant&amp; 
+rieurs (1-4) ont Ctabli que la chaine I est gCnCralement plus 
+rapide que la chaine I1 quand le radical R' est nucltophile. 
+Au cours de notre Ctude sur les transferts intramoltculaires 
+d'hydrogkne de cabone a carbone, nous avons produit une sCrie 
+de radicaux o-phtnyl alkyle a partir des peracides correspon-
+dants. 
+
+41-(CHZ), CH2 -CO3H 
+
+Dans les conditions habituelles (decomposition dans un hy-
+drocarbure ? i 
+Cbullition) la quantitC d'acide est inferieure a 20% 
+sauf quand n = 3: le peracide phCnyl-5 pentanoi'que conduit en 
+effet a 80% d'acide (5). 
+Pour expliquer les raisons de la particularit6 de ce peracide 
+par rapport a ses homoloques et vCrifier du mCme coup notre 
+hyothkse de la competition des mCcanismes I et 11, nous avons 
+approfondi 1'Ctude de la dCcomposition thermique de ce pe-
+racide, par comparaison avec la dCcomposition de l'homologue 
+immkdiatement inferieur. 
+
+Resultats 
+Les peracides sont dCcomposCs en solution dans le cy-
+clohexane ci tbullition pour CGminer l'oxygkne dissous. 
+
+-
+
+Le tableau 1 montre la difference trks nette de la distribution 
+des produits, pour une mCme concentration initiale (0,l M), 
+entre les deux peracides phCnyl-4 butanoi'que et phtnyl-5 
+pentanoi'que. Pour ce dernier, quand on augmente la-concen-
+tration initiale en peracide on constate, d'une part, que la quan-
+tit6 de phCnyl-4 butanol croit au detriment de l'acide phCnyl-5 . . 
+pentanoi'que et, d'autre part, que les quantites de phtnyl-
+butane, de tetraline et de cyclohexanol restent faibles et a 
+peu prks constantes. On notera qu'a 0 , l M le temps de demi-
+reaction est supkrieur pour le peracide phCnyl-5 pentanoi'que; 
+ce ralentissement de la vitesse de dCcomposition, rCsultat de 
+plusieurs mesures, est significatif. 
+Quand on dCcompose un mClange CquimolCculaire des pe-
+
+-
+-
+
+racides d o d t c a n o ~~u e 
+et phCnyl-5 pentanoi'que (Tableau 2),-on 
+observe une augmentation trks nette de la quantitC de phCnyl-4 
+butanol par rapport a celle rCsultant de la dCcomposition du 
+peracide phenyl-5 pentanoi'que seul (tableau 1); de plus, l'aug-
+mentation des concentrations initiales a pour consCquence 
+d'accroitre les quantitCs d'alcool RCH?OH et +-(CH2),CH20H 
+issus de chacun des peracides. On note Cgalement que la quan-
+tit6 de cyclohexanol est accrue mais que celles de ph~nylbutane 
+et de tttraline restent du mCme ordre de grandeur. 
+
+Discussion 
+I1 est raisonnable d'admettre que 1'Cnergie de la liaison 
+0--0 n'est pas influencCe par la position du phCnyle par rap-
+port a la fonction peroxydique. 
+Le micanisme I ne peut donc Ctre ralenti qu'au niveau de la 
+Can. J. Chem. Downloaded from www.nrcresearchpress.com by 87.160.185.190 on 03/27/14 
+
+For personal use only. 
+
+
+2318 
+
+CAN. J. CHEM. VOL. 62, 1984 
+
+TABLEAU 1. DCcomposition des peracides phCnyl-4 butanoique et phCnyl-5 pentanoique en solution dans le 
+
+cyclohexane, a Cbullition 
+
+Conc. 
+Produits formCs 
+Peracide 
+(M) t l / ~ 
+(min) 
+(en mole par mole de peracide) 
+Cyclohexanol 
+
++(CH~)~CHZOH +(cH;)~co~H +(CHZ),CH3 TCtraline 
++(CHZ)~CO~H O,l 
+30 
+Traces 
+0,84 
+0,lO 
+0,03 
+0,lO 
+0,2 
+0,lO 
+0,60 
+0,05 
+0,08 
+0,07 
+0,s 
+20 
+0,30 
+0,35 
+0,06 
+0,08 
+0,07 
+
+TABLEAU 2. DCcornposition de rnClanges de peracides dodCcanoYque et phCnyl-5 pentanoique en solution dans le cyclohexane 
+
+h Cbullition: produits formCs en mole par mole de peracide 
+
+MClange 
+Conc. 
+des peracides 
+
+(M) 
+
+ROH RCOzH +(CHz),CHK)H +(CHZ)~CO,H +(CHz),CH3 
+Cyclohexanol 
+
+rtaction [2] ou de la rtaction [3]. 
+L'hypothkse d'une stabilisation du radical carboxyle par 
+complexation intramolCculaire (6-8) expliquerait le ralen-
+tissement de la chaine I par une diminution de k2, constante de 
+vitesse de dCcarboxylation. 
+
+mClange riactionnel de phtnyl-4 butanol qui se forme 2 partir 
+du radical phCnyl-4 butyle montre bien que ces rtactions ont 
+lieu mais elles sont moins importantes que celles du mCcanisme 
+I1 pour les raisons que nous allons exposer. 
+La propagation de la chaine peut etre ralentie au niveau de 
+la rtaction [3]. Dans l'expression de la vitesse 
+
+k3 exprime la rCactivitC intrinskque d'un radical carbon6 pri-
+
+maire R1-CH2'. Or celle-ci ne peut etre influencke no-
+tablement par un groupement phCnyle en position 4. C'est donc 
+la concentration [R'] qui doit determiner la vitesse v3. 
+On sait que le radical phCnyl-4 butyle se cyclise rapidement 
+
+(9, 11) (kc, -5 X s-I) (12, 13) et de f a ~o n irrCversible en 
+
+Ar2-6 et riversible en Arl-5 (14). 
+
+L'acide rtsulterait alors d'une rCaction de ce radical sur le 
+solvant 
+
+1 Peracide 
+
+Mais on devrait alors trouver des quantitts Cquivalentes de 
+cyclohexanol 
+
+comrne c'est le cas pour +C03H dCcomposC dans C6HI2 h 
+Cbullition (2). 
+De plus, un tel phCnomkne de complexation devrait jouer 
+dans la dtcomposition du peroxyde de diacycle correspondant 
+(9, lo), et devrait &amp;tre accent&amp;, pour des raisons entropiques, 
+avec I'homologue infirieur, ce qui n'est pas le cas (5). 
+I1 y a donc tout lieu de penser que les rCactions de rupture 
+homolytique [l] et de dCcarboxylation [2] sont aussi rapides 
+que pour l'homologue inftrieur. D'ailleurs la prCsence dans le 
+
+I1 y a donc compttition entre la cyclisation et la reaction sur 
+le peracide. La rtaction unimolCculaire est la plus rapide quand 
+[PI = 0 , l M puisque dans ce cas I'on trouve des quantitCs 
+faibles de phCnyl-butane et de phCnyl-4 butanol. 
+On s'attend dks lors a trouver des quantitks importantes de 
+produits bicycliques, titraline et dCrivCs. Mais le radical Ar,-6 
+ne rtagit pas sur le peracide ni non plus sur le solvant (il y a peu 
+de cyclohexanol). Ainsi, puisqu'aucun radical ne peut propager 
+Can. J. Chem. Downloaded from www.nrcresearchpress.com by 87.160.185.190 on 03/27/14 
+
+For personal use only. 
+
+
+NEDELEC ET AL. 
+
+2319 
+
+la chaine I, celle-ci est tout simplement inhibCe et le peracide 
+se dtcompose essentiellement selon le mecanisme 11. t o m m e 
+les deux chaines n'ont pas d'entitC rkactionnelle commune, il 
+ne peut y avoir passage de l'une a l'autre. 
+NCanmoins ces deux chaines sont bien compCtitives comme 
+le montrent l'ttude de l'effet de la concentration et 1'Ctude de 
+la dtcomposition du mClange de peracides. 
+Quand on augmente la concentration en peracide, on accC-
+lkre la rCaction [3] qui est 1'Ctape limitante de la chaine I alors 
+
+que le micanisme I1 n'est pas sensible a la concentration ini-
+
+tiale en peracide et l'alcool se forme bien aux dCpens de 
+l'acide. ~u a n d la concentration en peracide est sup&amp;rieure a 
+0,l M on observe donc le dCroulement simultane des deux 
+mtcanismes en chaine. 
+Quand on dCcompose le peracide phtnyl-5 pentano'ique 
+en prksence d'une quantite Cquimolaire de peracide dodt-
+cano'ique, on lkve l'inhibition du fait que le dernier se dCcom-
+pose normalement: le peracide dodCcano'ique produit en effet 
+des radicaux alkyles rCactifs qui quand-ils-rtagissent sur 
+C$-(CH~)~-CO~H redonnent de l'importance a la decompo-
+sition selon le mecanisme I en gtntrant les radicaux 
++-(CH2)4-COz' 
+En conclusion: si pour l'essentiel, le dttail de chacun des 
+mkcanismes en chaine Ctait Ctabli, la prCsente Ctude montre 
+clairement la dClicate balance qui rCgit la compCtition des deux 
+mCcanismes. Quand le radical alkyle produit par dCcar-
+boxylation disparait rapidement, soit par rCaction avec O2 soit 
+
+, par rCaction unimolCculaire comme la cyclisation, la chaine I 
+
+s'interrompt et la chaine I1 devient prCpondCrante. 
+
+I 
+
+I 
+Partie experimentale 
+
+Le cyclohexane utilisC est de qualit6 "spectroscopique". Les ana-
+lyses cpg sont effectuies avec un appareil Girdel-75 et les spectres ir, 
+en solution dans CC14, avec un appareil Hitachi-EPI G2. Les indices 
+de peroxyde sont dCterminCs par iodometrie (15). 
+
+Preparation des peracides 
+On utilise la mithode dCcrite par Swem et coll. (16), a laquelle nous 
+
+avons apporti quelques modifications (17) et qui consiste a faire agir 
+H202 85% sur l'acide en solution dans CH3S03H. 
+Le peracide est recristallisk. dans l'hexane; sa puretk est contr61Ce 
+par les spectres ir et par determination de l'indice de peroxyde. On 
+obtient aisCment des peracides 2 1 96-98%. 
+
+Dtcomposition des peracides 
+Nous utilisons le mime protocole que celui dCcrit precedemment 
+(3). Les mtlanges rkactionnels sont analyses, aprks esterification par 
+
+CHZN2, en cpg (Carbowax 20 M, 15%, 2 m, 150 a 160°C) en utilisant 
+
+pour le dosage quantitatif, comme t h o i n interne, llhexadCcanoate de 
+mithyle. 
+
+1. J. FOSSEY et D. LEFORT. Tetrahedron, 36, 1023 (1980). 
+2. J. SORBA, J. FOSSEY, D. LEFORT et J. Y. NEDELEC. Tetrahedron, 
+37, 69 (1981). 
+3. J. SORBA, J. FOSSEY, J. Y. NEDELEC et D. LEFORT. Tetrahedron, 
+35, 1509 (1979). 
+4. J. SORBA, J. FOSSEY, J. Y. NEDELEC et D. LEFORT. Tetrahedron, 
+38, 2083 (1982). 
+5. D. LEFORT et J. Y. NEDELEC. Tetrahedron, 38, 2681 (1982). 
+6. M. MARTIN et G. GLEICHER. J. Am. Chem. Soc. 86, 233 (1964); 
+86, 238 (1964). 
+7. D. NEWKIRK, G. GLEICHER et V. KOCH. Tetrahedron, 28, 449 
+(1972). 
+8. D. Newkirk et G. GLEICHER. J. Am. Chem Soc. 96,3543 (1974). 
+9. D. DETAR et C. WEISS. J. Am. Chem. Soc. 78, 4296 (1956). 
+10. D. LEFORT, D. TEMPIER et J. SORBA. Bull. Soc. Chim. Fr. 442 
+( 1960). 
+I 1. J. WILT. Duns Free radicals. Vol I. EditP par J . Kochi. Wiley , 
+New York. 1973. p. 433. 
+12. J. KOCHI et R. GILLION. J. Am. Chem. Soc. 85, 5251 (1964). 
+13. A. BECKWITH. Essays on free radical chemistry. Chem. Soc. 
+Spec. Publ. no 24, p. 239, Chem. Soc. London (1970). 
+14. M. JULIA et B. MALASSINE. Tetrahedron, 30, 695 (1974). 
+15. R. JOHNSON et I. SIDDIQUI. The determination of organic per-
+oxides. Pergamon Press, Oxford. 1976. 
+16. L. SILBERT, E. SIEGEL et D. SWERN. J. Org. Chem. 27, 1336 
+(1962). 
+17. J. Y. NEDELEC, J. SORBA et D. LEFORT. Synthesis, 823 (1976). 
+
+Can. J. Chem. Downloaded from www.nrcresearchpress.com by 87.160.185.190 on 03/27/14 
+
+For personal use only. 
+
+
+
+	
+

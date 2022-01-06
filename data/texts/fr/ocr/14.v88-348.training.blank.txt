@@ -1,0 +1,758 @@
+
+	
+
+		
+
+	
+
+	
+
+~t u d e thermodynamique du melange chlore -acide isocyanurique en milieu aqueux 
+
+BERNARD SOLASTIOUK ET XAVIER DEGLISE' 
+
+Laboratoire de photochimie applique'e (Unitt associe'e no 238 du Centre rzational de la recherche scienrzj'ique), 
+Universite' de Nancy I, Boite postale 239, 54506 Vandoeuvre-les-Nancy CEDEX, France 
+
+R e p le 8 fCvrier 1988 
+
+BERNARD SOLASTIOUK et XAVIER DEGLISE. Can. J. Chem. 66,2188 (1988). 
+
+Nous presentons un mode de calcul permettant d'obtenir les concentrations &amp; I'tquilibre en solution aqueuse, de I'acide 
+cyanurique et de ses dCrivCs chlorks en fonction du pH, du rapport chlore/acide cyanurique et de la concentration en ions 
+chlomres. Une Ctude de l'influence de chacun de ces parametres sur les diffkrents tquilibres est prtsentee, dans des conditions 
+proches de celles de l'utilisation de ces composCs dans les eaux de piscines. 
+
+BERNARD SOLASTIOUK and XAVIER DEGLISE. Can. J. Chem. 66,2188 (1988). 
+
+A method of calculation of the equilibrium concentrations in aqueous solution of cyanuric acid and its chlorinated derivatives 
+as a function of pH, mold ratio of chlorine/cyanuric acid, and chloride ion concentration is presented. The influence of each of 
+these parameters is studied in conditions close to those used for these compounds in swimming pools. 
+
+Introduction 
+Les dCrivCs N-chlorCs de la triazine-1,3,5 trione-2,4,6 ou 
+acide cyanurique(Cy) sont des produits couramment utilisCs 
+comme sources de chlore dans les detergents et les eaux de 
+piscines. En effet ces produits solides reprksentent une source 
+de chlore plus facilement transportable et utilisable par exemple 
+que l'eau de javel ou le chlore gazeux. 11s emptchent surtout 
+la photolyse rapide du chlore car les molCcules mono-, di-, et 
+trichlorkes de l'acide cyanurique (CyCl, CyC12, CyCl,) tout en 
+conservant un pouvoir chlorant efficace pour la dksinfection 
+des eaux sont d'une relative stabilitC vis a vis du rayonnement 
+solaire. 
+Les constantes d'kquilibres entre ces composts ont Ct C 
+dCterminCes par O'Brien et al. (1, 2) et c'est a partir de ces 
+valeurs que nous dkterminons la composition d'une solution 
+aqueuse de ces produits. Dans ces Cquilibres il n'est pas tenu 
+compte des diffkrentes formes tautomkres que peuvent prendre 
+ces molCcules (voir figure 1). 
+
+1. Le chlore en solution aqueuse 
+Le chlore moltculaire dissous dans l'eau est soumis a 
+diffirents Cquilibres et forme de faqon rapide et rkversible 
+diffkrentes espkces (acide hypochloreux, hypochlorites, et ions 
+trichlorures) dont les proportions sont rCgies par les Cquilibres 
+suivants : 
+
+C12 + H20 + ClOH + H+ + C1-
+
+ClOH % C10-+ H+ 
+
+K2 = [C1o-l[Htl = 2,gg x lop8 M a 298 K 
+
+[ClOH] 
+
+Bell et Gells (7) ont Ctudit la stabilitC en solution aqueuse du 
+cation C1+ et du cation solvat6 H20.C1+. Eigen et Kustin (8) 
+quant eux ont estimC celle de Cl2OHP. Ces espkces restant 
+
+1. Auteur ? i 
+qui adresser toute correspondance. 
+
+Printed in Canada 1 Imprim6 au Canada 
+
+k 
+
+s Triazine trione 
+
+H 
+
+s Triazine trio1 
+
+FIG. 1. Structures mol6culaires des dCrivCs concernCs. CyC13 : 
+
+acide trichlorocyanurique (N-trichloro-2,4,6 s triazine trione-1,3,5); 
+HCyC12 : acide dichlorocyanurique (N-dichloro-2,4 s triazine trione); 
+CyC12-: ion dichlorocyanurates; H3Cy : acide cyanurique (s triazine-
+2,4,6 trione-1,3,5 et s triazine-2,4,6 triol-1,3,5). 
+
+dans toutes conditions trks minoritaires, sinon inexistantes, en 
+solution aqueuse; nous n'en tenons donc pas compte. 
+Nous regroupons sous le terme gCnCrique de ccchlore libre)) 
+indiffkremrnent les quatre espkces Cl,, ClOH, C10-et C13-, 
+par opposition au chlore liC aux atomes d'azote. 
+Les ions chlorures sont pris en excks par rapport au chlore 
+actif total en sorte que leurs concentrations puissent ttre 
+considCrCes comme invariantes aux cours des diffkrentes mises 
+
+a 1'Cquilibre considCrCes ([Cl-] &gt;&gt; [C1],,,,l). 
+
+2. Le melange chlore -acide cyanurique en solution aqueuse 
+
+Lorsqu'on mClange chlore et acide cyanurique en solution 
+aqueuse chaque azote du cycle triazinique est susceptible de 
+fixer un atome de chlore (1-4). 
+Can. J. Chem. Downloaded from www.nrcresearchpress.com by 87.160.185.190 on 03/27/14 
+
+For personal use only. 
+
+
+SOLASTIOUK ET DEGLISE 
+
+Pour dtcrire ce systeme, les valeurs des constantes d'tqui-
+libre seront donntes pour les tquilibres types suivants (ou x est 
+
+compris entre 0 et 2) : 
+
+C1(3-,)CyH, + H20 * HOCl + C1(2-xlCyH,,+ 1 ) 
+
+De plus les proprittts acido-basiques de ces dtrivts imposent 
+de tenir compte d'espkces suppltmentaires plus ou moins 
+ionistes. 
+Le schtma suivant (schema 1) prtsente ces difftrents produits 
+et les tquilibres dans lesquels ils interviennent : 
+
+llK1 K2 
+
+ClOH + 
+
+. 
+
+ClO-+ Hi 
+
+ionisation 
+
+Les dix espkces cornprenant un noyau cyanurique (C3N3O3), 
+et les quatre formes de chlore libre, sont susceptibles d'tchanger 
+protons et atomes de chlore. 
+
+3. Mode de calcul 
+Nous voulons ttudier le devenir i l'tquilibre d'une solution 
+
+aqueuse d'un mtlange d'acide cyanurique (H3Cy) et de chlore 
+en tenant compte : 
+
+de la concentration initiale en acide cyanurique : Co = 
+[H3Cylo; 
+de la concentration initiale en chlore considtrte comme 
+multiple de Co [C1210 = G -Co; 
+du pH : h = [H+] = 10-pH; 
+de la concentration en chlorure : C1 = [Cl-1; 
+des valeurs des constantes d'tquilibres; 
+de la temptrature supposte constante et tgale B 25°C. 
+
+Nous utilisons les notations suivantes pour les difftrentes 
+sommes des concentrations molaires 
+
+des dtrivts du chlore libre (Chl) : 
+
+Xchl = [ClOH] + [ClO-] + [C12] + [C13-] 
+
+des dtrivb non-chlorts : 
+
+c(q = [H3Cyl + [HzCy-I + [Hcy2-1 + [cy3-1 
+
+des dtrivts monochlorts 
+
+des dtrivts dichlorts 
+
+et pour le dtrivt trichlort : 
+
+La concentration de chacune des 14 especes prtsentes en 
+solution est une inconnue. Pour rtsoudre ce systeme nous 
+disposons de deux bilans (bilan en chlore et bilan en noyaux 
+cyanuriques) et de 15 lois d'action de masse, il suffit d'en 
+choisir arbitrairement 12 qui soient indtpendantes. 
+Avec nos notations les bilans s'tcrivent : 
+
+co = Z(0) + Z(1, + ~( I I ) 
+
++ C(111) 
+
+(Bilan en noyaux cyanuriques) 
+
+G.Co = 
+
++ C(I) + 2x(i1) + ~~( I I I ) 
+
+(Bilan en chlore) 
+
+Et i partir de l'expression des constantes d'tquilibre on peut 
+
+exprimer les sommes en fonction de la concentration de l'espkce 
+non ioniste de la strie : 
+
+Z(,) = [H3Cy]{l + Ka/h + K , K , / ~~ + KaKbK,/h3) 
+
+= [H,Cyla 
+
+x(,) = [H2C1Cy]{l + Kg/h + ~, ~h / h ~) 
+
+= [H2ClCy] P 
+
+~( I I ) 
+
+= [HCl2Cyl{ 1 + K I I h ) = [ H C ~~C Y I Y 
+
+~( I I I ) 
+
+= [C13CyI 
+La somme des concentrations des espkces de chlore libre peut 
+
+s'exprimer i partir de celle de ClOH 
+
+XChl = [ClOH](l + (Cl.h/K1) + ( K ~' c ~~. 
+
+h / ~, ) 
+
++ (K2/h)) = [ClOHIS 
+
+Les coefficients a , p, -y et S sont tvidemment facilement 
+
+calculables et constants pour un pH et une concentration en 
+chlorures donnts. 
+Les bilans s'tcrivent alors : 
+bilan en noyaux cyanuriques : 
+
+CO = a[H3Cyl + P[H2ClCyI + y[HC12Cyl + [C13Cyl 
+
+bilan en chlore : 
+
+G.Co = S[ClOH] + P [H2C1Cy] + 2y[HC12Cy] 
+
++ 3[C13Cyl 
+
+et sont exprimts en fonction de [ClOH] et [H3Cy] : 
+
+[ClOH] 
+[C10HI2 
+
+CO = [ H F Y I ( ~ + PT 
+
++ Y -KdKi 
+KdKiKm 
+
+[ClOH] + 2-y-[cIOH]~ + [CIOH]') 
+
+Kd Ki 
+Kd Ki Km 
+En remplaqant dans la seconde tquation la valeur de [H3Cy] 
+par celle obtenue a partir de la premikre on trouve, aprb 
+simplification et regroupement des difftrents termes, l'tquation : 
+
+tquation du quatrikme degrt qui, rtsolue numtriquement, nous 
+Can. J. Chem. Downloaded from www.nrcresearchpress.com by 87.160.185.190 on 03/27/14 
+
+For personal use only. 
+
+
+CAN. J. CHEM. VOL. 66, 1988 
+
+TABLEAU 1. Valeurs des constantes d'tquilibre 
+
+~~u i l i b r e s 
+K (298 K) 
+
+P K 
+
+No 
+Ref. 
+
+H3Cy e H2Cy-+ H+ 
+
+1,32 x lo-7 
+
+6,88 
+a 
+1 
+
+H2Cy-a H C ~I -+ H+ 
+
+3,98 X 10-l2 
+11,40 
+b 
+1 
+
+HCy2-e Cy3-+ H+ 
+
+3,16x 10-l4 
+13,50 
+c 
+1 
+
+H2ClCy + H20 S H3Cy + ClOH 
+
+8,51 x lo-' 
+
+4,07 
+d 
+1 
+
+HCICy-+ H20 S H2C -+ ClOH 
+
+2,40X 
+5,62 
+e 
+1 
+
+C l C y 2 + H20 S HCJ-+ ClOH 
+
+1,26 X 
+6,90 
+f 
+1 
+
+H2ClCy e HClCy-+ H+ 
+
+4,68 X 
+5,33 
+g 
+1 
+HClCy-
+
+c1cy2-+ H+ 
+
+7,59x lo-" 
+10,12 
+h 
+1 
+
+HClzCy + H20 e H2ClCy + ClOH 
+
+1,17X lo-3 
+2,93 
+
+1 
+
+1 
+
+CI2Cy-+ H20 e HClCy-+ ClOH 
+
+3,09x lo-' 
+4,51 
+j 
+1 
+
+HCI2Cy e CI2Cy-+ H+ 
+
+1,78 X 
+6,90 
+1 
+1 
+
+CI3Cy + H20 HC12Cy + ClOH 
+
+1,58 x lo-' 
+1 $0 
+rn 
+1 
+
+C12 + H20 e ClOH + C1-+ H+ 
+
+3 , 9 4 ~ lo-4 
+3,40 
+1 
+5 
+
+ClOH C10-+ H+ 
+
+2,88 x lo-' 
+7 3 4 
+2 
+6 
+
+CI2 + C1-S C13-
+
+1,80 x lo-' 
+0,74 
+3 
+9 
+
+FIG. 2. Influence du pH sur la composition du rntlange chlore -
+
+acide cyanurique en solution aqueuse. [H3Cylo = 
+M; [Cl2I0 = 
+
+3 x 
+
+M Cquivalent a [CyC1310 = 
+M (232 rng/L); [Cl-] = 
+lo-' M. (-) 
+C13Cy; (-.-.) 
+C12Cy sornrne des composts 
+dichlorks; (--) 
+
+ClCy s o m e des cornposCs rnonochlorCs; (.-a-.-. 1 
+
+Cy sornrne des cornposCs non-chlorts; (----) chlore libre (C12, CIOH, 
+c10-, c13-). 
+
+donnera la valeur de [ClOH] pour les conditions fixtes. La 
+rtsolution de cette tquation ne prtsente pas de difficult6 
+particulikre, en effet la racine recherchte [C1OHleq, prend une 
+valeur forctment comprise entre 0 et la concentration en chlore 
+initiale soit G x Co. I1 est d'ailleurs facile de vtrifier que pour 
+C = 0 la fonction prend la valeur ntgative -u G. Co alors que 
+pour C = G X Co elle prend la valeur : 
+
+FIG. 3. Influence du pH sur la composition du melange chlore -
+acide cyanurique en solution aqueuse. [H3Cylo = lo-' M; [C1210 = 
+
+3 x lo-' M Cquivalent ? i 
+
+[CyC1310 = lo-' M (2,32 rng/L); [Cl-] = 
+lo-' M. (-a-) 
+CI2Cy sornrne des composts dichlorts; (--) 
+ClCy 
+
+s o m e des composCs rnonochlorCs; ( . -, -, -.) Cy s o m e des cornposCs 
+
+non-chlorCs; (----) chlore libre (C1, , CIOH, C10-, CI3-). 
+
+qui est positive, les coefficients 6 ttant toujours suptrieurs ou 
+tgaux k 1. Un simple calcul infomatique pemet d'extraire 
+rapidement cette racine. 
+Les concentrations des autres espkces se dtduisent lintaire-
+ment de la valeur de [ClOH]. Nous avons mis au point 
+un logiciel b2ti autour de ce calcul qui nous donne, pour 
+une composition et un pH donnts, toutes les concentrations 
+recherchtes. 
+Les valeurs des difftrentes constantes d'tquilibres que nous 
+
+G4(6 -1) + G~ 
+G3(6 -1) + 2G2 
+
+avons utilistes sont reporttes dans le tableau 1. 
+
+Ki Kd Km 
+
+G + Y 
+
+Ki Kd 
+
+c: 
+
+4. Resultats 
+
+G2(6 -1) + G C; + u ~( 6 
+
+-l ) c o 
+4.1 Influence du pH 
+
+f p 
+K i 
+
+Les figures 2 et 3 sont obtenues par le calcul prtctdent 
+
+Can. J. Chem. Downloaded from www.nrcresearchpress.com by 87.160.185.190 on 03/27/14 
+
+For personal use only. 
+
+
+SOLASTIOUK ET DEGLISE 
+
+maximum de CI2Cy (pH=7) 
+
+I $ surconcentrai-ion en chlore 
+
+I 
+
+FIG. 4. Influence de la surconcentration en chlore; : proportion 
+maximale de C12Cy; 0 : proportion maximale de C13Cy. [H3Cylo = 
+
+1 
+
+~o -~M ; 
+[Cl-] = 10-'M. 
+
+effectuC dans tout le domaine de pH d'une solution aqueuse. 
+
+1 Elles correspondent a deux dilutions diffkrentes de CI3Cy, 
+
+respectivement lop3 M (232 mg/L) et lop5 M (2,3 mg/L). 
+Les courbes qui y apparaissent reprksentent les pourcentages 
+molaires pour chaque catCgorie de composCs, chlore libre 
+(XChl/(G X CO)), mono, di, et trichlorC (X(,,/Co) en fonction 
+du pH. 
+La figure 2 montre une certaine symttrie, avec au centre (de 
+pH 4-8) une large zone de predominance du composC dichlorC, 
+cette plage correspond aussi au minimum de chlore libre en 
+solution. Notons que les pH d'utilisation des dCrivCs chlorCs 
+de l'acide cyanurique se situent dans cette zone proche de la 
+
+neutralit6 (eau de piscine par exemple) et a un minimum de 
+
+chlore libre en solution correspond un minimum de la vitesse 
+de disparition du chlore actif par photolyse. 
+De part et d'autre de cette plage apparaissent deux zones 
+de predominance du compost monochlorC en milieu acide 
+(pH 1-3) et milieu basique (pH 9-12) et pour des solutions trks 
+acides ou trks basiques l'hydrolyse est totale. 
+
+Dans les conditions de calcul de cette figure, c'est a dire trois 
+
+chlores pour un noyau cyanurique, la proportion maximale de 
+trichlorocyanurique en solution ne dCpasse pas 4 ou 5%. Par 
+dissolution de C13Cy on obtient donc dans des pH proches de la 
+neutralit6 principalement C12Cy, le tiers de chlore restant Ctant 
+libCrC sous forme d'acide hypochloreux. 
+Pour la figure 3 la symCtrie prtctdente est conservCe avec 
+une baisse trks sensible de la proportion des formes les plus 
+
+1 
+
+chlorkes, C13Cy n'y apparait plus en quantitC notable et C12Cy 
+
+n'est plus majoritaire a pH 7. Ceci est gCnCral, pour un m&amp;me 
+
+I 
+
+rapport Cl/Cy, plus la dilution est grande plus le chlore libre 
+est abondant par rapport au chlore liC aux atomes d'azote des 
+cycles cyanuriques. 
+
+4.2 Influence de la surconcentration en chlore 
+I1 est Cvident a priori que plus le chlore sera en excks dans le 
+
+I -consommai-ion du chlore / / 
+
+0 
+
+10 
+
+/ 
+
+0 
+
+'O-
+
+FIG. 5. Influence de la baisse du rapport CI/Cy (dispariton du 
+chlore) : proportion de chlore libre. [H3Cylo = lo-' M; [Cl-] = 
+lo-' M. 
+
+propori-ion de CHLORE LIBRE 
+
+en Fonci-ion de CI /Cy 
+
+p~ = 7 C, consi-ante 
+
+P 
+
+P 
+
+milieu (plus le rapport Cl/Cy sera grand) plus la chloration 
+relative de ces composes sera forte. 
+La figure 4 montre 1'Cvolution des maxima en acide dichloro 
+et trichlorocyanurique en fonction de ce rapport. 
+I1 apparait que pour une faible surconcentration de chlore 
+on obtient facilement au pH adCquat une proportion proche de 
+100% en ClzCy alors qu'il est trks difficile d'obtenir une grande 
+proportion de C13Cy. 
+La figure 5 montre la quantite de chlore libre par rapport 
+au chlore actif total pour des valeurs du rapport chlorelacide 
+cyanurique comprises entre 0 et 3. La baisse de Cl/Cy peut 
+reprksenter la consommation du chlore dans une eau ou l'on 
+aurait dissous C13Cy. 
+Cette figure montre que la dissolution du dCrivC dichlork 
+(rapport Cl/Cy = 2) amkne moins de chlore libre, donc moins 
+de chlore sensible i une photodCgradation rapide en solution. 
+Pour mieux illustrer ce fait la figure 6 montre, a quantitC de 
+chlore actif total constant, l'influence directe du rapport Cl/Cy 
+sur la proportion de chlore libre. 
+
+[Cl actif] = [Cl liC a Cy] + [Cl libre] 
+
+Nous avons pris dans cet exemple [Cl actif] = 1,5 mg/L, 
+ce qui est de l'ordre de grandeur requis dans l'eau d'une piscine. 
+(La quantitC de chlore rksiduel conseillC aprks surchloration et 
+stabilisation d'une eau de piscine est de 1 a 1,5 ppm.) 
+
+4.3 Influence de la dilution (C,) 
+I1 existe un effet de dilution pour un m&amp;me rapport Cl/Cy; la 
+chloration est plus complkte i concentration ClevCe en noyaux 
+cyanurique. 
+La figure 7 reprCsente la proportion maximale du dCrivC 
+dichlorC en fonction du logarithme de [H3Cyl0 pour un rapport 
+Cl/Cy constant et Cgal a 3. 
+
+4.4 Influence des ions chlorures 
+Hormis l'influence de la force ionique, les ions chlorures ont 
+un effet sur la composition du mClange en milieu acide, plus la 
+Can. J. Chem. Downloaded from www.nrcresearchpress.com by 87.160.185.190 on 03/27/14 
+
+For personal use only. 
+
+
+2192 
+
+CAN. J. CHEM . VOL. 66, 1988 
+
+FIG. 6. Influence du rapport Cl/Cy sur la proportion de chlore 
+libre B quantitC de chlore actif constante : proportion de chlore libre. 
+
+[ClzJo = 1.5 mg/L; [Cl-] = lo-' M. 
+
+6 0 
+
+40 
+
+20 
+
+MOLAIRES 
+
+% MOLAlRES 
+-
+
+proportion de CHLORE LIBRE 6 pH 7 
+
+a concentration Fixe de CHLORE 
+
+/ O 
+
+-ACTlF 
+
+1 
+P 
+
+-
+
+/ ' 
+
+/O 
+
+/O 
+
+-
+
+/O 
+
+P 
+
+P 
+
+/ O 
+0 
+
+I 
+
+I 
+
+I 
+
+I 
+I 
+
+FIG. 7. Influence de la dilution globale : proportion maximale 
+de dichlore versus loglo (Co) Ra port Cl/Cy = constante = 3. 
+
+P 
+
+[H3Cyl0 (Co) variant de lop5 B 10-M; [Cl-] = 10-I M. 
+
+1 
+2 
+CI /Cy 
+
+concentration en ions chlorures augmente plus la formation du 
+dtrivt trichlort est dtfavoriste. 
+Sur la figure 8 les concentrations en ions chlorures variant 
+de 0,l 2 1 M; nous avons reprtsentt le pourcentage maximum 
+de CyC13 par rapport 2 la concentration initiale de noyaux 
+cyanuriques en fonction de [Cl-1, ceci en ntgligeant l'effet de 
+
+I 
+
+proportion maximale e n 
+
+FIG. 8. Influence des ions chlorure : proportion maximale de 
+trichlore versus [Cl-1. Rapport Cl/Cy = 5. [H3Cylo = 2 X 
+M; 
+[Cl-] variant de 0,l B 1 M. 
+
+la force ionique du milieu sur les coefficients d'activitts et les 
+dtplacements d'tquilibres susceptibles d'en rtsulter. 
+Ces prtcautions ttant prises, il apparait clairement qu'une 
+forte concentration en ions chlorures favorise l'hydrolyse de 
+CyC13. 
+En milieu basique les ions chlorures n'influencent pas 
+directement la composition de la solution. 
+
+Conclusions 
+Le calcul utilist ici permet de trouver facilement par la 
+rtsolution de l'tquation [l] les concentrations de toutes les 
+espkces en solution aqueuse du systkme chlorelacide isocya-
+nurique dans toutes les conditions de pH et de dilution voulues. 
+Ceci est du au fait que nous tenons compte de toutes les espkces 
+de chlore libre qu'il est possible de trouver en tquilibre rapide et 
+rtversible sur toute la gamme de pH alors qu'habituellement la 
+plupart des auteurs ne tiennent compte que des espkces ClOH et 
+C10-. Le fait de prendre en compte la formation tventuelle de 
+C12 et C13-permet l'ttude du milieu acide ce qui peut prtsenter 
+un inttret vis-2-vis de problkmes de synthkse (de C13Cy en 
+
+particulier) . 
+
+Nous avons pu constater que l'acide trichlorocyanurique 
+n'ttait majoritaire en solution qu'en prtsence d'un large excks 
+de chlore, soit dans des conditions trks difftrentes de celles des 
+eaux de piscines; dans les conditions normales d'utilisation la 
+dissolution des dtrivts chlorocyanuriques conduit principale-
+ment 2 la formation d'acide dichloro et monochlorocyanurique. 
+Les rtsultats obtenus rejoignent les conclusions de O'Brien 
+et al. (2) qui corrklent la plus forte inhibition de la photo-
+dtcomposition du chlore au minimum de chlore libre par rapport 
+au chlore total entre pH 6 et 8, et celles de Pinsky et Hu (3) qui 
+relie logiquement cette inhibition 2 la surconcentration en acide 
+cyanurique. 
+Dans la mesure oii le chlore lit aux noyaux isocyanurates 
+reste actif en ce qui concerne son r81e dtsinfectant, il s'avkre, 
+pour gtrer la composition d'une eau de piscine que 2 une teneur 
+en chlore donnte, qu'il est prtftrable de maintenir un rapport 
+Can. J. Chem. Downloaded from www.nrcresearchpress.com by 87.160.185.190 on 03/27/14 
+
+For personal use only. 
+
+
+Cl/Cy le plus faible possible, ceci permettant d'obtenir un 
+&lt;&lt;reservoir&gt;&gt; d e chlore actif peu sensible ? i 
+la plus grande partie 
+du rayonnement solaire. 
+
+1. J. E. O'BRIEN. Thkse, Harvard University, Cambridge, MA. 
+1972. 
+2. J. E. O'BRIEN, J. C. MORRIS et J . N. BUTLER. Chem. Water 
+Supply Treat. Distrib. Symp. (1973) (Pub. 1974). pp. 333-358. 
+3. M. L. PINSKY et HUA-CHING Hu. Environ. Sci. Technol. 15, 
+423 (1981). 
+
+4. J. CARREL MORRIS. Environ. Impact Water Chlorination, Proc. 
+Conf. 1975. Edited by Robert L. Jolley. NTIS. 1976. pp. 21-35. 
+5. R. E. CONNICK et Y. T. CHIA. J. Am. Chem. Soc. 81, 1280 
+(1959). 
+6. J. CARREL MORRIS. J. Phys. Chem. 70(12), 3798 (1966). 
+7. R. P. BELL et E. GELLS. J. Chem. Soc. 2734 (1951). 
+8. M. EIGEN et K. KUSTIN. J. Am. Chem. Soc. 84, 1355 (1962). 
+
+9. G. ZIMMERMANN et F. C. STRONG. J. Am. Chem. Soc. 79, 
+
+2063 (1957). 
+
+Can. J. Chem. Downloaded from www.nrcresearchpress.com by 87.160.185.190 on 03/27/14 
+
+For personal use only. 
+
+
+
+	
+

@@ -1,0 +1,782 @@
+
+	
+
+		
+
+	
+
+	
+
+~t u d e 
+cinCtique et thermodynamique de I'interaction d'un complexe de Pd(I1) 
+avec I'inosine et I'acide polyinosinique 
+
+ROBERT M ~N A R D 
+
+' ET MIKLOS Z A D 0 R 2 
+
+Dipartement de chirnie, Universite' de MontrPal, C.P. 6128, succursale A, MontrPal (Qutbec), Catlada H3C 357 
+
+R e p le 26 mai 1987 
+
+ROBERT M ~N A R D 
+et MIKLOS ZADOR. Can. J. Chem. 66, 178 (1988). 
+Les rCactions du complexe (dien)Pd(II) avec I'inosine et I'acide polyinosinique ont Ct C CtudiCes a I'aide de mtthodes 
+spectroscopiques et de flux-stoppC. Dans les deux cas, le metal se lie initialement au site N7 de la base hypoxanthine. Les 
+rCsultats des etudes cinCtiques indiquent que le mecanisme implique deux voies rCactionnelles : une substitution nuclkophile 
+directe ainsi qu'une reaction via un intermediaire aquo. Les rCactions sont plus rapides dans le cas du poly(I), due a la forte 
+densit6 de charges nCgatives de ce polymkre. La rCaction initiale au site N7 est suivie d'une redistribution lente du metal 
+vers le site NI thermodynamiquement plus stable. La fixation du (dien)Pd(II) au poly(1) induit la formation d'une structure 
+multi-hClicoi'dale stable du polymkre. Cette structure a Ct C caractCrisCe par des mesures d'absorbance et de dichroi'sme circulaire 
+ainsi que par la dktermination de la courbe de fusion du polymkre. I1 a aussi Ct C observC qu'en prCsence du complexe de Pd(II), 
+le poly(1) peut Ctre hydrolysC B pH alcalin, dans des conditions relativement douces. 
+
+ROBERT M ~N A R D 
+and MIKLOS ZADOR. Can. J. Chem. 66, 178 (1988) 
+Reactions of the (dien)Pd(II) complex with inosine and polyinosinic acid were studied by spectroscopic and stopped-flow 
+methods. In both cases, the metal initially binds at the N7 site of the hypoxanthine base. The results of kinetic studies indicate the 
+existence of a two-path mechanism: a direct nucleophilic substitution and a solvent path with formation of an aquo intermediate. 
+The reactions are faster for poly(I), due to the high density of negative charges for this polymer. The initial reaction at N7 is 
+followed by a slow redistribution of the metal towards the thermodynamically more stable N I site. Binding of (dien)Pd(II) to 
+poly(1) leads to formation of a stable, multistranded helicoidal structure of the polymer. This structure was characterized by 
+absorption and circular dichroism measurements and by the melting curve of the polymer. It was also observed that in presence 
+of the Pd(I1) complex, poly(1) can be hydrolyzed at relatively mild conditions at high pH. 
+
+Introduction 
+
+A cause de la complexit6 des polynuclCotides, les premiers 
+
+travaux fondamentaux sur l'interaction des acides nuclCiques 
+avec les complexes de Pd(I1) et de Pt(I1) ont CtC orient&amp; vers 
+1'Ctude des unitCs constituantes plus simples, tels les bases 
+nuclkiques et les nuclCosides (1-4). La plupart de ces travaux 
+ont pour but la dktermination des sites d e liaison et d e la stabilitC 
+des complexes form&amp;. Parmi les divers nuclCosides CtudiCs, 
+l'inosine s'est avCrC Ctre un cas relativement complexe dQ a la 
+prCsence de deux sites potentiels de liaison pour le palladium et 
+le platine : les azotes N1 et N 7 (5-9). Le site N1 est protone en 
+
+solution neutre et la liaison ce site depend du pH. Divers types 
+
+de complexes peuvent alors exister et, pour un compose tel 
+(en)PdC12, des espkces polymkriques sont connues (7). La 
+
+formation d'un chelate entre les sites N 7 et 0 6 a aussi CtC 
+
+proposCe a quelques reprises (10, 11) mais son existence est 
+
+contestee (3). 
+
+Le complexe (dien)Pd(II), qui a l'avantage de ne p o s d d e r 
+qu'un seul groupe labile, a fait l'objet d'ktudes exhaustives 
+(6, 8 , 9, 12-14). Martin et coll. ont utilisC la rmn pour Ctudier 
+l'importance des liaisons a chacun des sites e n fonction du pH. 
+Les rCsultats pour l'inosine indiquent que la liaison au site N7 
+
+est prkdominante a pH &lt; 4 , tandis qu'a pH &gt; 8 , la liaison se fait 
+
+presque exclusivement a N 1. En solution neutre, les espkces 
+
+Pd-N1, Pd-N7 ainsi que l'espkce binucleaire sont prksentes. 
+Avec l'inosine monophosphate, la distribution des espkces est 
+similaire sauf que la prCsence du groupe phosphate tend 
+favoriser la liaison a N7. D e plus, la presence du palladium en 
+
+N7 cause une diminution du pK, du site N1, ce qui conduit 
+
+a une redistribution des ions mktalliques et a la formation d e 
+
+liens avec le site N1 dCprotonC (8). 
+
+I . Adresse prtsente : Institut de recherche en biotechnologie, 6100, 
+avenue Royalmount, Montreal (Quebec), Canada H4P 2R2. 
+2. Auteur B qui toute correspondance doit Stre envoyCe. 
+
+Bien que l'importance des facteurs cinCtiques ne soit pas 
+mise en doute, trks peu dlCtudes quantitatives ont cependant CtC 
+
+consacrCes 2 1 cet aspect. Quelques Ctudes cinCtiques ont CtC 
+
+publiCes impliquant la reaction d e complexes de Pd(I1) avec 
+
+l'inosine, le poly(I).poly(C) ainsi que la cytidine et ses dCrivCs 
+
+(12, 15-18). Les rCsultats ont permis de dCmontrer l'existence 
+de deux voies rCactionnelles principales conduisant au produit 
+final : une substitution nuclkophile directe ainsi qu'une rCaction 
+via un ou des intermediaires aquo. I1 a aussi kt6 observC, dans le 
+cas des polynuclCotides, que les facteurs de type electrostatique 
+ont un effet prCdominant sur la cinCtique des rCactions ainsi q u e 
+
+sur la stabilitk des complexes for me^.^ 
+
+L e but de ce travail est d e dCfinir avec prCcision le mecanisme 
+
+de la rCaction entre le (dien)Pd(II) et l'inosine, et de verifier 
+si ce mCcanisme s'applique dans le cas du polynuclCotide 
+correspondant, le poly(1). Nous examinerons aussi comment la 
+
+structure de ce polymkre est affectCe lors de la fixation d e l'ion 
+
+mktallique. 
+
+Partie experimentale 
+
+L'inosine (In) et I'inosine-5'-monophosphate (IMP, sel de sodium) 
+ont Ct C obtenus de Sigma Chemical Co. tandis que l'acide polyino-
+sinique (poly(I), sel de potassium) provenait de Miles Laboratories 
+Inc. La concentration du poly(1) est donnCe en termes d'unitk mono-
+nuclCotide. Tous ces produits sont de haute puretC et furent utilisCs 
+sans purification suppltmentaire. Les complexes [(dien)PdCl]Cl et 
+[(dien)Pd(H20)](C104)2 (dien : dikthylknetriamine) ont Ct C prCparCs 
+tel que dCcrit prtctdemment (16). La force ionique est fixCe par 
+addition de NaCIO,, prCpart B partir de HClO, (Biopharrn) et de NaOH 
+(Fisher Scientific Co.), &amp;ant donnC que le NaC10, commercial contient 
+souvent des impuretts pouvant interftrer avec nos rksultats. Le pH a Ct C 
+ajustt a l'aide de solutions concentrtes de HC10, et de NaOH. Aucun 
+
+tampon n'a Ct C utilist, de f a ~o n i Cviter les interactions possibles avec 
+
+les complexes de Pd(I1). 
+Les mesures d'absorbance ont Ctt effectuCes B I'aide d'un spectro-
+
+3. R. MCnard et M. Zador, article sournis pour publication. 
+
+Can. J. Chem. Downloaded from www.nrcresearchpress.com by 87.160.185.190 on 03/27/14 
+
+For personal use only. 
+
+
+MENARD ET ZADOR 
+
+179 
+
+photometre Perkin-Elmer modele 552, equip6 d'un systkme tlectro-
+nique de contrble de la temperature permettant la dktermination de 
+la courbe de fusion d'un polynuclCotide (vitesse d'accroissement de 
+
+0!50 
+
+temperature utilisee : 1°C/min). Les reactions rapides ont kt6 suivies 
+
+A 3 2 0 
+
+par spectrophotomttrie flux-stoppe en utilisant un systkme dCcrit 
+prCcCdemment (16). Les spectres de dichroisme circulaire ont CtC 
+
+0,45 
+
+enregistres au moyen d'un spectropolarimetre Cary modkle 61 a la 
+temperature de la pikce (21-23°C). en utilisant des cellules circulaires 
+de chemin optique 1 = 1 cm. Les conditions standards pour ce travail 
+sont : pH 7,0, force ionique 0,20 M, temperature 25,0°C. Les condi-
+
+0,40 
+
+tions experimentales differentes seront specifiees. 
+
+-(a) 
+
+\ 
+
+-
+
+-
+
+1 
+3 
+5 
+7 
+9 
+11 
+
+Resultats et discussion 
+PH 
+Inosine 
+La cinCtique de la reaction entre le (dien)PdCl+ et l'inosine a 
+
+d'abord Ct C CtudiCe en melangeant les rkactifs i un pH initial de 
+7. On observe la prCsence de deux signaux distincts a 300 nm, 
+
+kexp 
+
+6 
+
+le premier Ctant une augmentation relativement rapide ( t l l z = 
+
+0,4 s) et importante de l'absorbance et attribuke i la fixation du 
+
+(s-') 4 
+(dien)Pd(II) au site N7 de l'inosine. Cette rCaction est suivie 
+
+0 
+
+2 
+
+-( b ) 
+
+-
+
+-
+
+&gt;PNH 
+
+i"QH2+ 
+
+&lt;k 1 
+
+: 
+
+0 
+1 
+3 
+5 
+7 
+9 
+11 
+
+pH 
+
+/ \ c l 
+
+"OW FIG. 1. Influence du pH sur I'absorbance ( a ) et sur la constante de 
+
+H2N 
+
+3' 2' 
+
+vitesse de reaction (b) du systkme (dien)Pd(II)-inosine. Conditions : 
+
+--
+
+--
+
+(a) inosine 1,O x lo-' M , [(dien)PdCl]Cl 1,O X 
+M, NaCl 
+H 6 6 H 
+0,10 M, NaC104 0,lO M; (b) inosine 5,O x lop3 M, [(dien)PdCIlCI 
+5.0 X 1oP4M, NaClO,lOM, NaC104 0,lOM. 
+(dien)PdCl+ 
+Inosine 
+
+d'une autre, beaucoup plus lente ( t llz = 120 s), produisant 
+
+rkaction, tel qu7observC a pH &gt; 9. La combinaison de ces deux 
+
+une tres faible augmentation d'absorbance et correspondant a 
+
+effets permet d'expliquer l'allure de la courbe a pH &gt; 7. La 
+
+la formation du complexe Pd-N1 a partir de Pd-N7 avec 
+
+vitesse maximum se situe aux environs de pH 9, position qui est 
+
+libkration de protons. Ce transfert a lieu entre pH 4 et 8, tel 
+relativement sfire Ctant donne que la variation du pH durant la 
+qu'illustrk a la figure l(a). Le mecanisme de ce processus lent 
+
+rkaction devient negligeable a p H &gt; 8. Entre pH 3 et 7, la valeur 
+
+n'a pas CtC CtudiC, a cause du faible signal dans ces conditions. 
+de kexp est constante et reflkte la rCaction du (dien)Pd(II) au site 
+Par ailleurs, des travaux anttrieurs (6, 8) ont dCmontrC que ce 
+
+N7 de l'inosine. La diminution de vitesse observke a pH &lt; 2 
+
+processus rCsulte d'une sCrie de rCactions impliquant plusieurs 
+peut Etre expliqu6e en considerant la protonation du site N7 a 
+especes. A A = 350 nm, ou les especes Pd-N1 et Pd-N7 
+ce pH (pK, = 1,O (3)). 
+possedent pratiquement la mEme absorbance, un seul signal est 
+La cinCtique de la rkaction a pH 7 a aussi CtC CtudiCe en 
+observC, correspondant a la formation du complexe Pd-N7. La 
+fonction de la concentration en inosine et a diverses concentra-
+cinktique de la rCaction au site N7 a donc CtC CtudiCe en suivant 
+
+tions en ions chlorure ajoutes. Les rksultats sont donnCs a la 
+les variations d'absorbance a 350 nm. On considere que la 
+
+figure 2. On remarque que la rCaction est inhibCe par l'addition 
+variation du pH durant cette rkaction n'affecte pas la cinttique 
+d'ions chlorure et que l'ordre par rapport a l'inosine est inferieur 
+de la fixation en N7. Cette variation est d'autant plus faible que 
+
+2 un a faible concentration en ion C1-. Les rksultats sont 
+
+la concentration d'inosine en excks est importante. 
+semblables a ceux obtenus prCcCdemment pour la reaction du 
+La figure l(b) montre l'influence du pH sur la constante 
+(dien)Pd(II) avec la cytidine (16). On peut donc proposer un 
+de vitesse de cette reaction. On note une augmentation de 
+mkcanisme similaire pour la formation du complexe Pd-N7 
+
+la constante de vitesse a pH &gt; 7 suivie d'une importante de l'inosine. Deux voies rCactionnelles sont possibles : une 
+diminution a pH &gt; 9. A pH Cleve, la deprotonation du site substitution nucltophile directe ainsi qu'une rCaction via un 
+
+N1 de l'inosine (pK, = 8,7 (3)) conduit a l'apparition de 
+intermCdiaire aquo. 
+concentrations importantes d'inosine dCprotonCe [InH-
+Avec 
+
+k 
+
+k i , et kil comme constantes de vitesse pour la rkaction du 
+
+121 In + (dien)PdCli &amp; (dien)pd(ln)'* + C I voie directe 
+
+(dien)Pd(II) aux sites N7 et N1 dCprotont respectivement, on 
+
+k-I 
+
+obtient 1'Cquation [ l ] : 
+
+k 
+
+[3] (dien)PdCli + H 2 0 &amp; ( d i e n ) ~d ( ~, O ) ~+ 
+
++ C1-voie 
+[ll kexp = ki-i[Inl + kiltInH-11 
+
+k -2 
+
+i du 
+
+k 
+
+A pH ClevC, la contribution du deuxieme terme devient 
+
+[4] In + (dien)~d(H~O)~' 2 (dien)pd(1n12' + H20 solvant 
+
+importante et les rCsultats indiquent que la rCa,ction au site N1 
+
+k-3 
+
+dCprotonC est plus rapide que celle au site N7. A partir de pH = 
+La constante d'kquilibre pour la rCaction du (dien)PdCl+ au 
+8, on a maintenant apparition du dCrivC (dien)Pd(OH)+. Cette 
+site N7 de l'inosine (Cquation [2] du mkcanisme) a Ct C CvaluCe 
+espkce, moins rCactive, conduit a un ralentissement de la 
+par titrage spectrophotomCtrique en prksence d'ions chlorure et 
+Can. J. Chem. Downloaded from www.nrcresearchpress.com by 87.160.185.190 on 03/27/14 
+
+For personal use only. 
+
+
+180 
+
+CAN. J. CHEM. VOL. 66, 1988 
+
+FIG. 2. Variation de la constante de vitesse expkrimentale en 
+fonction de la concentration en inosine, ti diverses concentrations en 
+ion C1-ajoutC. Conditions : [(dien)PdCl]Cl 5,00 x 
+M, force 
+
+ioniqueconstante (0,20 M NaCl + NaC104), pH 7, NaCl ajoutC : ( 1 ) 0, 
+
+(2) 0,0030 M, (3) 0,0080 M, (4) 0,020 M, (5) 0,10 M. Les courbes sont 
+calculCes, d'aprks le mecanisme dCcrit par les Cquations [2]-[4]. 
+
+TABLEAU 1. Paramktres cinktiques pour 
+la reaction du (dien)PdCl+ au site N7 de 
+l'inosine a pH 7 
+
+a pH 4 afin d'tlirniner l'interftrence du cornplexe Pd-N 1. Une 
+
+valeur de K1 = 240 + 40 a t t t obtenue. Les constantes de 
+
+vitesse individuelles ont pu &amp;tre tvalutes en proctdant tel que 
+dtcrit prtctdemrnent pour la cytidine. Les rtsultats sont donnts 
+au tableau 1. 
+La plus grande rtactivitt du dtrivt aquo du (dien)Pd(II) 
+permet d'expliquer l'inhibition par l'ion C1-observte. Les 
+constantes de vitesse kl et k3 sont comparables a celles obtenues 
+pour le systeme analogue irnpliquant le (dien)PdBrf (12). Les 
+difftrences sont dues a la force ionique plus tlevte ainsi qu'a la 
+contribution de l'espece (dien)Pd(OH)+ en l'absence d'ion C1-
+pour les exptriences rtalistes avec le (dien)PdBrf. Les valeurs 
+des constantes de vitesse individuelles diffkrent beaucoup 
+cependant de celles obtenues pour la cytidine. En particulier, la 
+valeur de kl pour l'inosine est six fois plus tlevte que celle pour 
+
+0 
+0,25 
+0,50 
+
+r 
+
+FIG. 3. Influence du (dien)Pd(II) sur l'absorbance (a) et sur la 
+tempkrature de fusion (b) du poly(1). Conditions : poly(1) 6,14 X 
+M, NaC104, 0,20 M, pH 7. r = [(dien)PdCl]Cl/[poly(I)]. 
+
+la cytidine (450 M-I s-' vs. 75 M-' s-') tandis que pour k3, 
+
+le rapport est de neuf (27 000 M-' s-' vs. 2900 M-' s-I). 
+L'inosine est donc un meilleur nucltophile pour les rtactions de 
+substitution des complexes du (dien)Pd(II) et, en prtsence de 
+cytidine, la reaction au site N7 de l'inosine serait cinttiquernent 
+favoriste. 
+Induction d'une forme he'licoi'dale du poly(I) par le (dien)Pd(II) 
+Le cornplexe forrne entre le (dien)Pd(II) et le poly(1) a t t t 
+caracttrist a l'aide de rnesures d'absorbance, de dichroi'srne 
+circulaire et de temptrature de fusion. Pour les mesures 
+d'absorbance, la bande d'absorption du polynucl~otide, dont 
+le maximum se situe a 247 nrn, a ttC utiliste. L'addition du 
+complexe de palladium cause un lCger dtplacement du maxi-
+mum vers 249 nrn, accompagnt d'une irnportante diminution de 
+l'absorbance. L'irnportance de cette diminution est inhabituelle 
+pour un systkme (dien)Pd(II)-polynucltotide et suggbe la 
+formation d'une structure htlicoi'dale ordonnte avec recouvre-
+ment des bases hypoxanthine. La valeur de l'absorbance 
+247 nrn 2 25°C en fonction du rapport r = [(dien)Pd(II)]/[poly(I)] 
+est donnte a la figure 3 ( a ) . La diminution d'absorbance est 
+de type cooptratif, caracttristique des systkrnes irnpliquant 
+des polynucltotides htlicoi'daux. La complexation du Pd(I1) 
+
+l'inosine produit une t r b ltgkre diminution de l'absorbance a 
+247 nrn (de 0,78 a 0,74) cornparativernent a celle observte pour 
+
+le poly(1) (de 0,65 a 0,45). 
+Pour vtrifier l'existence d'une telle structure, la variation de 
+l'absorbance en fonction de la temptrature a t t t ttudite. Les 
+courbes obtenues a divers rapports r sont reprtsenttes a la 
+figure 4. Pour r = 0, une trks ltgere transition peu cooptrative 
+est observte a basse temperature, indiquant la prtsence de 
+faibles proportions de poly(1) associt en l'absence de Pd(I1). 
+Lors de l'addition de concentrations croissantes de (dien)Pd(II), 
+la transition est dtplacte i des temperatures plus tlevtes 
+
+Can. J. Chem. Downloaded from www.nrcresearchpress.com by 87.160.185.190 on 03/27/14 
+
+For personal use only. 
+
+
+FIG. 4. Courbe de fusion du poly(1) en prCsence de diverses 
+concentrations de (dien)Pd(II). Conditions : poly(1) 6,14 X lo-' M, 
+
+NaC1040,20M, pH 7. r = [[(dien)PdCl]Cl]/[poly(I)]. 
+
+et devient plus importante et cooperative. Ce comportement 
+indique la formation d'une structure hilicoi'dale de stabiliti 
+croissante avec l'addition du (dien)Pd(II). La temperature de 
+fusion, correspondant au maximum de la courbe diffirentielle 
+
+dAZ4,/dT en fonction de T, est representee a la figure 3(b) en 
+
+fonction du rapport r. La courbe obtenue demontre clairement 
+l'effet cooperatif de la fixation du (dien)Pd(II) sur la stabiliti 
+du produit forme. La temperature de fusion passe de 28°C en 
+l'absence de Pd(I1) a 72°C pour r = 0,49. A temperature 
+ClevCe, oh le polynuclCotide est sous forme de pelote statistique, 
+
+l'absorbance a 247 nm dCcroit aussi lorsque le rapport I-
+
+augmente (figure 3(a)). Cette faible diminution est non-
+cooperative et reflkte la fixation du Pd(I1) la base hypoxanthine 
+du poly(1). D'ailleurs, le minimum de la bande d'absorption du 
+
+poly(1) a 95°C se situe toujours a 249 nm en presence de 
+(dien)Pd(II), comparativement a 247 nm pour le poly(1) libre, 
+
+ce qui montre que le Pd(I1) est complex6 au poly(1) dans ces 
+conditions. La diminution graduelle de la temperature conduit 
+a une renaturation trks lente du polymkre, caractiristique du 
+poly(1) (19). La vitesse de renaturation semble augmenter 
+cependant avec la concentration en (dien)Pd(II). Le systeme 
+est seulement partiellement reversible pour des temps courts 
+(&lt; 1 h). 
+En l'absence du complexe de palladium, le poly(1) peut 
+
+s'auto-associer en solution a force ionique ClevCe et a basse 
+
+temperature (19-23). Les deux structures proposees pour ce 
+polymkre contiennent trois et quatre brins respectivement tenus 
+
+ensemble par des ponts hydrogkne N 1 -H . . . 0 6 (2 1, 23). Un 
+
+modkle alternatif implique des ponts hydrogkne N 1-Ha . .N7 
+
+(19). L'addition du complexe de Pd(I1) peut faciliter la 
+formation de la multiple helice. Comme le site de fixation du 
+(dien)Pd(II) se situe a N7 ou N 1, la dernikre structure proposee 
+
+sernble improbable. Pour les deux structures a ponts hydrogkne 
+
+Nl-H...06, 
+le site N7 est suffisamment accessible pour 
+permettre la complexation du (dien)Pd(II). Une fois fixC, le 
+complexe de Pd(II), charge positivement, neutralise les charges 
+negatives des phosphates voisins, reduisant les repulsions 
+interchaine et favorisant ainsi l'association de plusieurs brins. 
+Comme le (dien)Pd(II) est fix6 plus fortement que des cations 
+
+tels Na+, l'effet structurant est plus important (Tf = 72°C a 
+
+une force ionique de 0,20 M NaC104) et est rencontre a des 
+
+FIG. 5. Spectre de dichroi'srne circulaire du poly(1) en prtsence 
+de diverses concentrations de (dien)Pd(II). Conditions : poly(1) 8,02 
+x lo-' M, NaCl 1,O x 
+M, NaC104 0,20 M, pH 7. r = 
+
+[[(dien)PdC1lC1l/[poly(I)l = (1) 0, (2) 0,1, (3) 0,3, (4) 0,5. 
+
+concentrations plus basses en metal (3,O X lop5 M). Acker-
+mann et coll. ont dija suggCrC que la formation de la multiple 
+helice du poly(1) Ctait due principalement i la diminution des 
+repulsions Clectrostatiques entre les brins a force ionique ClevCe 
+(22). De plus, comme la fixation du (dien)Pd(II) en N7 accroit 
+l'acidite du proton en N 1 pour l'inosine (6, 8), un effet similaire 
+avec le poly(1) contribuerait i la stabilisation des ponts 
+
+hydrogkne N 1 -H . . . 0 6 . 
+
+La stabilisation de la multiple hilice est possible avec des ions 
+mCtalliques bivalents possidant une affinitC reconnue pour le 
+groupe phosphate, tels ~g ' + et Ca2+ (24). I1 y apeu d'exemples 
+similaires impliquant un metal qui se fixe prCf6rentiellernent aux 
+
+bases nucleiques. L'ion Ag+ peut conduire i la formation d'une 
+
+multiple helice avec le poly(1) (25). Cependant, cette structure 
+
+est formCe a l'aide de ponts interchaine, avec I'ion Ag+ lie 
+
+sirnultaniment aux sites N1 et 0 6 de deux hypoxanthines. Un 
+tel complexe est impossible avec le (dien)Pd(II) possidant un 
+seul groupe labile. 
+Lors de 1'Ctude de l'interaction du poly(I).poly(C) et du 
+poly(1) avec le (dien)Pt(II), une autre hypothkse a ete avancee 
+qui implique des ponts hydrogkne entre les groupes amino du 
+dien et les sites N7 des bases hypoxanthines voisines du site de 
+complexation du metal (26). Ces ponts hydrogkne contribue-
+raient a la stabilisation du poly(1) .poly(C) et existeraient aussi 
+dans le cas du poly(I), bien que le degre de structuration ne soit 
+pas quantifiable. Bien que de telles interactions puissent Ctre 
+presentes, nous croyons que les facteurs de type tlectrostatique 
+jouent un rdle predominant, tel que demontre precedernment 
+
+lors de 1'Ctude du systkme (dien)Pd(II)-poly(I).poly(C) (17). 
+
+Les spectres de dichroi'sme circulaire du poly(1) libre et en 
+presence de (dien)Pd(II) sont represent&amp; a la figure 5 . Le 
+spectre du poly(1) est relativement peu intense. L'addition du 
+Can. J. Chem. Downloaded from www.nrcresearchpress.com by 87.160.185.190 on 03/27/14 
+
+For personal use only. 
+
+
+CAN. J. CHEM. VOL. 66, 1988 
+
+FIG. 6. Influence du H sur l'absorbance du poly(1) libre ( I ) et du complexe (dien)Pd(II)-poly(1) (2). Conditions : (I) poly(1) 5,04 X 
+M; 
+
+P 
+
+(2) poly(1) 5,04 X 10-M, [(dien)PdCI]Cl 2,50 X 
+M. Dans les deux cas : NaCIOJ 0,20 M. 
+
+FIG. 7. Influence du pH ( a ) et de la concentration en ion chlorure (b) sur la constante de vitesse d'ordre 2 de la rCaction du (dien)Pd(II) avec le 
+poly(1). Conditions : (a) poly(1) 3,08 X 
+M, [(dien)PdCl]Cl 1,00 X 
+M, NaCl0,lO M, NaClO, 0,10 M; (b) poly(1) 3,07 X 
+M, 
+[(dien)PdCl]Cl l,00 x 
+
+M, force ionique constante (0,20 M NaCl + NaClO,), pH 7. 
+
+complexe de Pd(I1) modifie profondtment le spectre et accroit 
+I'intensitt des bandes. Un tel accroissement de I'intensitt 
+peut &amp;tre attribue a la formation d'une structure helicoi'dale 
+ordonnee. La forme de ce spectre est differente cependant de 
+celles generalement attribuees la multiple helice du poly(1) 
+
+a force ionique elevee ou i basse temperature (19, 20). En 
+
+particulier, la bande negative vers 280 nm pour le poly(1) 
+libre est remplacee par une bande positive en presence du 
+(dien)Pd(II). Une bande negative, absente dans le cas de la 
+multiple helice du poly(1) libre, est aussi rencontree vers 
+240 nm. Ces resultats suggkrent, pour le complexe poly(1)-
+Pd(dien), une geometrie differente de celle de la multiple helice 
+du poly(1). Une inversion de la bande positive, lors de l'addition 
+de complexes de Pt(II), a deja ete remarquee (27). Cette 
+
+inversion a CtC attribuke a une modification de l'empilement des 
+bases et de la structure secondaire du polymkre lors de la fixation 
+du metal aux bases nucleiques. 
+La figure 6 illustre l'influence du pH sur l'absorbance a 
+260 nm du poly(1) et de son complexe avec le (dien)Pd(II). 
+Pour le polynucleotide libre, la deprotonation du site N1 cause 
+
+une importante augmentation de l'absorbance a pH &gt; 7,5, 
+correspondant un pK, de 9,3. Un debut de transition a pH &lt; 3 
+
+est aussi visible, attribuC a la protonation du site N7 dont le pK, 
+est voisin de 1. 
+La valeur de l'absorbance a 260 nm est legkrement plus faible 
+en presence du complexe de palladium. Deux transitions sont 
+maintenant observees en milieu alcalin. La premikre, possedant 
+un pK, apparent de 9,2, correspond probablement a la deproto-
+Can. J. Chem. Downloaded from www.nrcresearchpress.com by 87.160.185.190 on 03/27/14 
+
+For personal use only. 
+
+
+MENARD ET ZADOR 
+
+183 
+
+Force ionique (M) 
+
+FIG. 8. Influence de la force ionique sur la constante de vitesse 
+d'ordre 2 de la rkaction du (dien)Pd(II) avec I'inosine (I), IMP (2) 
+et poly(1) (3). Conditions : (1) inosine 2,5 X 
+M, [(dien)PdCl]CI 
+2,5 X lo-, M; (2) IMP 2,5 X 
+M, [(dien)PdCl]C12,5 X 
+M; 
+(3) poly(1) 3,10 X 
+M, [(dien)PdCl]Cl 1,0 X 
+M. Dans les 
+trois cas : NaCl0,020 M, pH 7. La force ionique a Ct C ajustke par addition 
+de NaCIO,. 
+
+nation des sites N! des bases hypoxanthine non-complextes 
+
+par le palladium. A pH &gt; 11, une augmentation abrupte et 
+
+importante de l'absorbance est aussi observCe. Cette trans-
+formation est irrtversible et trks lente, ntcessitant au minimum 
+
+3 h. Le spectre de la solution ramenee a pH 7 correspond ii celui 
+
+du complexe (dien)Pd-IMP, suggtrant l'hydrolyse du poly(1). 
+Le poly(1) libre peut Ctre degrade en milieu fortement basique 
+(KOH, 0 , 2 M , 40°C, 4 h ) et il a d t j i ttC observt que certains 
+ions mttalliques pouvaient conduire A sa dtgradation en milieu 
+moins basique (28). Toutefois, contrairement aux ions intera-
+gissant fortement au phosphate (tels Mn(II), Zn(II), Cu(II), 
+etc.), un pH relativement t l e v t est requis dans le cas du 
+palladium. 
+
+Cine'tique de l'interaction (dien)Pd(ll)-poly(1) 
+La cinttique de la reaction du complexe de Pd(I1) avec le 
+poly(1) a t t t itudite en fonction du pH, de la concentration en 
+ion chlorure et de la force ionique. En plus de la reaction rapide 
+habituelle au site N7, on observe substquemment des variations 
+d'absorbance lentes. Ces phtnomknes lents, qui n'affectent 
+pas la dCtermination des constantes de vitesse, peuvent Ctre 
+
+attributs a des rtarrangements conformationnels du polymkre 
+
+aprks la fixation du (dien)Pd(II) ainsi qu'au transfert du 
+complexe Pd-N7 au complexe Pd-N 1. Le transfert ou fixation 
+du Pd(I1) au groupement phosphate ne devrait pas avoir une 
+influence significative, dii a la faible stabilitt par rapport au 
+
+complexe Pd(I1)-N (16). 
+L'influence du pH sur la constante de vitesse d'ordre deux de 
+la rtaction au site N7 du poly(1) (figure 7(a)) est trks similaire au 
+cas de l'inosine (voir figure l ( b ) ) . Les effets observts peuvent 
+donc Ctre attribu6 aux mernes facteurs : diminution de la vitesse 
+
+a pH &lt; 3, due la protonation du site N7, et augmentation de la 
+constante de vitesse pH &gt; 7 , due a la contribution du site N1 
+dCprotont, suivie d'une diminution i pH &gt; 9 attribuable a la 
+
+presence du complexe (dien)Pd(OH)+ peu rtactif. I1 est a noter 
+
+que le maximum de rCactivitC se situe aux environs de pH 9, tout 
+
+comme dans le cas de l'inosine. L'inhibition par l'ion chlorure 
+
+2 pH 7 est aussi observte avec le poly(1) (figure 7(b)). La 
+
+constante de vitesse en l'absence d'ion C1-ajoutt est trks 
+
+tlevte, ko2 = 4 , l x 10' M ' s-' (non-represent6 sur la figure). 
+Le comportement est identique 2 celui de l'inosine et des autres 
+
+systkmes ttudits (16) et indique que le mtcanisme gCntral est 
+le m&amp;me dans tous les cas. 
+
+L'influence de la force ionique est reprksentte 2 la figure 8 
+
+pour les rtactions du (dien)Pd(II) avec le poly(I), 1'IMP est 
+l'inosine. L e poly(1) rCagit beaucoup plus rapidernent avec 
+les complexes de Pd(I1) ti faible force ionique, dii au champ 
+tlectrostatique fort de c e polytlectrolyte. La vitesse de cette 
+rtaction est, de plus, fortement influencte par la force ionique 
+
+de la solution, i cause de l'effet d'tcran et de la condensation 
+
+des ions autour du polymere, facteurs trks importants pour un 
+polytlectrolyte. La grande acctltration, en passant de l'inosine 
+a I'IMP, est attribuCe ii la proximitt du site N7 et du groupe 
+phosphate dans la conformation anti favoriste de I'IMP (3). 
+
+Ceci conduit i un effet catalytique plus important du phosphate 
+
+dans ce cas que dans le cas du C M P (16). 
+
+Remerciements 
+
+Nous tenons 2 remercier le Conseil de recherches en sciences 
+
+naturelles et en gtnie du Canada et le Fonds pour la formation 
+
+de chercheurs et l'aide a la recherche du Qutbec pour l'aide 
+
+financikre et les bourses d'ttudes supCrieures (R.M.) accordtes. 
+
+1. L. G. MARZ~LLI. Prog. Inorg. Chem. 23, 255 (1977). 
+2. R. W. GELLERT et R. BAU. Met. Ions Biol. Syst. 8, 1 (1979). 
+3. R. B. MARTIN et Y. H. MARIAM. Met. Ions Biol. Syst. 8, 57 
+(1 979). 
+4. J. K. BARTON et S. J. LIPPARD. Met. Ions Biol. 1, 31 (1980). 
+5. G. Y. H. CHU et R. S. TOBIAS. J. Am. Chem. Soc. 98, 2641 
+(1976). 
+6. K. H. SCHELLER, V. SCHELLER-KRATTIGER et R. B. MARTIN. 
+J . Am. Chem. Soc. 103,6833 (1981). 
+7. U. K. HARING et R. B. MARTIN. Inorg. Chirn. Acta, 80, 1 (1983). 
+8. R. B. MARTIN. ACS Symp. Ser. 209, 231 (1983). 
+9. S.-H. KIM et R. B. MARTIN. Inorg. Chirn. Acta, 91, 11 (1984). 
+10. G. PNEUMATIKAKIS, N. H A D J ~L ~A D I S ~~ 
+T. THEOPHANIDES. Inorg. 
+Chem. 17,915 (1978). 
+11. G. PNEUMATIKAKIS. Inorg. Chim. Acta, 66, 13 1 (1982). 
+12. J.-Y. S ~G U I N 
+et M. ZADOR. Inorg. Chim. Acta, 20, 203 (1976). 
+13. F. D. ROCHON, P.-C. KONG, B. COULOMBE et R. MELANSON. 
+Can. J. Chem. 58, 381 (1980). 
+14. I. SOVAGO et R. B. MARTIN. Inorg. Chem. 19, 2868 (1980). 
+15. W. KADIMA et M. ZADOR. Inorg. Chirn. Acta, 78, 97 (1983). 
+16. R. M ~N A R D , 
+M. LACHAPELLE et M. ZADOR. Biophys. Chem. 20, 
+29 (1984). 
+17. R. M ~N A R D 
+et M. ZADOR. Inorg. Chirn. Acta, 123, L23 (1986). 
+18. R. M ~N A R D , 
+M. T. PHAN VIET et M. ZADOR. Inorg. Chim. Acta, 
+136, 25 (1987). 
+19. D. THIELE et W. GUSCHLBAUER. Biophysik, 9, 261 (1973). 
+20. J. C. MAURIZOT et G. BOUBAULT. Biochimie, 55, 1209 (1973). 
+21. A. RICH. Biochim. Biophys. Acta, 29, 502 (1958). 
+22. H.-J. HINZ, W. HAAR et T. ACKERMANN. Biopolyrners, 9, 923 
+(1970). 
+23. C. H. CHOU, G. J. THOMAS, JR., S. ARNOTT et P. J. CAMPBELL 
+SMITH. Nucleic Acids Res. 4, 2407 (1977). 
+24. Y. A. SHIN. Biopolymers, 12, 2459 (1973). 
+25. Y. A. SHIN et G. L. EICHHORN. Biopolymers, 19, 539 (1980). 
+26. D. HERMANN, G. V. FAZAKERLEY et W. GUSCHLBAUER. Bio-
+polymers, 23, 973 (1984). 
+27. Y. A. SHIN et G. L. EICHHORN. Biopolymers, 16, 225 (1977). 
+28. J. J. B u ~z o w et G. L. EICHHORN. Biopolymers, 3, 95 (1965). 
+Can. J. Chem. Downloaded from www.nrcresearchpress.com by 87.160.185.190 on 03/27/14 
+
+For personal use only. 
+
+
+
+	
+

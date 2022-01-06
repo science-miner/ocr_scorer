@@ -1,0 +1,712 @@
+
+	
+
+		
+
+	
+
+	
+
+~t u d e comparative dans la serie des dibenzamido-alcanes, composes modeles 
+des poly(oligomethy1enes terephtalamides) 
+
+JOSEE BRISSON ET F R A N ~O I S 
+BRISSE' 
+
+De'partetnent de chitnie, Universite' de Montre'al, C.P. 6210, Succ. A. Montrtal (Qut.), Canada H3C 3VI 
+Requ le 2 avril 1985 
+
+JOSEE BRISSON et F R A N ~O I S 
+BRISSE. Can. J. Chern. 63, 3390 (1985). 
+
+La sCrie des dibenzarnido-alcanes (nDBN) a Ct C synthCtisCe pour n = 2-10 et caracttriste par diffraction de rayons X et 
+par spectroscopies infrarouge et Rarnan. L'Ctude par diffraction des rayons X rCvkle que I'angle dikde E entre le cycle 
+arornatique et le groupernent arnide varie peu, Ctant en rnoyenne de 28,3". Par contre, I'angle de torsion T entre le groupernent 
+arnide et la chaine aliphatique prend des valeurs prks de 180" pour t z = 4, 6, 8 et 10, et prks de 98", pour tz = 2, 3, 5 et 7. 
+Dans ces derniers cas, le plan de la chaine aliphatique est perpendiculaire au groupernent arnide. L'Ctude des spectres ir et 
+
+Rarnan a perrnis de constater que la position de la bande amide V depend de I'angle T et peut servir 2 Ctablir si celui-ci est 
+
+prks de 180" ou non. 
+
+J O S ~E BRISSON and FRAN~OIS BRISSE. Can. J. Chern. 63, 3390 (1985). 
+
+The dibenzamido alcanes, tzDBN, for n = 2-10, have been synthesized and characterized by X-ray diffraction and infrared 
+and Rarnan spectroscopy. From X-ray diffraction it was observed than the dihedral angle E between the aromatic ring and the 
+arnido group averaged 28.3" and did not vary significantly with n. The torsion angle T between the amide group and the-aliphatic 
+chain was found to bc near 180" for n = 4, 6, 8, and 10. However, for n = 2, 3, 5, and 7, T averaged 98". In this last case 
+the plane of the aliphatic chain is nearly perpendicular to the plane of the amide group. The study of ir and Rarnan spectra 
+in relation to conformation revealed that the position of the arnide V band depends on the value of the T angle and could be 
+used to infer if the latter is close to 180" or not. 
+
+Introduction 
+Dans le cadre d'une Ctude portant sur la corrClation entre 
+structure et proprikte, nous nous sornrnes interesses aux poly-
+(oligornCthylknes terephtalarnides) ou Nylons nT. Cornme la 
+structure de ces polyarnides n'est pas facile 2 obtenir en diffrac-
+tion de rayons X, en raison du faible nornbre de taches de 
+diffraction enregistrees, on fait appel l'etude de composes 
+rnodkles pour Ctablir les conformations prifkrentielles de ce 
+type de cornpose ainsi que les parametres gCornCtriques des 
+rnolCcules (distances et angles) et leurs modes d'assemblage 
+par ponts hydrogkne. Les composes rnodkles doivent avoir un 
+motif chirnique trks sernblable 2 celui des polyrnkres appa-
+rentes, aussi avons nous choisi d'Ctudier les dibenzarnido-
+alcanes (nDBN), pour n variant de 2 a 10 atornes de carbone. 
+La relation entre l'un des cornposCs rnodkles et le polyrnkre 
+parent est reprCsentee en schema 1. 
+Des etudes structurales par diffraction de rayons X et par 
+spectroscopies infrarouge et Rarnan ont Cte effectukes sur ces 
+produits ainsi que sur les deux series d'analogues deutiries, les 
+nDBN-d, pour lesquels les protons sur l'azote sont rernplaces 
+par des deuteriums, et les nDBN-d,, pour lesquels les protons 
+des cycles arornatiques sont remplacks par des deuteriurns. 
+
+Partie experimentale 
+
+Synthese des dibenzamido-alcanes et rle le~trs analogues deute'rits 
+La synthkse des dibenzamido-alcanes s'effectue par acylation de la 
+diamine par le chlorure de benzoyle, tel que dCcrit par Palmer et Brisse 
+(I). La preparation des nDBN-d2 se fait par reflux, durant environ 6 h, 
+des nDBN dans EtOD 95%. Les nDBN-d,o sont synthttisCs a partir de 
+C6D5COCI, de la rn&amp;rne faqon que les nDBN. Tous ont Ct C synthCtists 
+pour tl = 2-10. 
+Les poly(oligornCthylknes tCrCphtalarnides) ont Ct C synthCtisCs, 
+pour n = 2-10, par polycondensation interfaciale selon la rnethode de 
+Shashoua et Eareckson (2), puis lavC avec NaOH 5%. 
+Les spectres infrarouges ont Ct C enregistrCs j. partir de pastilles de 
+KBr, avec un appareil IRTF Nicolet 7199 dot6 d'un laser HeNe de 
+
+' Auteur a qui adresser la correspondance. 
+
+classe 11. Les spectres Raman en phase solide ont Ct C enregistrCs sur 
+un double spectrornktre Spex 14018 dot6 d'un photornktre digital 
+DPC-2 a partir de la raie i 5 14,5 nrn d'un laser i argon ionis6 Coherent 
+Innova 90 sCrie 1 12. Les fentes du monochromateur Ctaient i 100-200 
+
+pm-' , ce qui correspond i une rCsolution de 2 crn-' . 
+
+Les densites ont Ct C rnesurtes par flottation dans une solution 
+aqueuse de ZnC12. Les points de fusion ont Ct C rnesurCs sur un appareil 
+Mettler FP61 avec un taux de chauffe de 1 K rnin-'. 
+Les dCtails des rnesures de diffraction des rayons X sont rapportCs 
+dans les sections spkcifiques j. chacun des composts (1, 3-8). 
+
+Discussion 
+Les proprietes physiques des nDBN ayant un nombre pair de 
+groupes rnethyleniques sont sernblables; les densites et les 
+Can. J. Chem. Downloaded from www.nrcresearchpress.com by 87.160.185.190 on 03/27/14 
+
+For personal use only. 
+
+
+BRISSON ET BRISSE 
+
+FIG. 1. Variation des points de fusion et des densites en fonction de la longueur de la chaine. 
+
+points de fusion diminuent rCgulierement lorsque le nombre 
+d'atomes de carbone augmente en raison de la diminution rela-
+tive du volume du groupement amide par rapport au restant de 
+la molCcule (fig. 1). Ces composCs ont Cgalement des solu-
+bilitCs voisines, et l'obtention de monocristaux dans 1'Cthanol 
+est rapide. 
+Cependant, lorsque le nombre d'unites mCthyltniques de la 
+chaine est impair, on remarque une diminution significative des 
+densitCs et des points de fusion, ce qui indique une cohCsion 
+molCculaire moins grande. Les solubilitiCs sont plus ClevCes, et 
+il devient plus difficile d'obtenir des monocristaux. 
+Les dimensions des mailles et d'autres donntes cris-
+tallographiques des nDBN sont prCsentCes au tableau 1. Alors 
+
+que les dimensions a et b et l'angle P varient trks peu, on 
+
+remarque (fig. 2) une augmentation rCgulikre de la dimension 
+c de la maille en fonction du nombre d'atomes de carbone de 
+la chaine aliphatique, pour n = 4, 6, 8 et 10. On peut exprimer 
+cette variation lineaire des parametres a , b et c (Angstrom) et 
+du volume (Angstrom cube) de la maille des nDBN pairs en 
+fonction de n par les relations: 
+
+I1 est probable qu'il en sera de m&amp;me pour les autres composCs 
+pairs de cette sCrie. Cependant, le 2DBN ne fait pas partie de 
+cette drie, et il n'existe pas de relation semblable pour les 
+composts ayant un nombre impair de CH2. 
+Les dimensions des mailles des produits deuteriCs ont Ct C 
+mesurCes pour les 2DBN-d,,, 6DBN-d,,, IODBN-dl,, 
+6DBN-d2 et 8DBN-d2. Les dimensions des rnailles cristallines 
+des produits deutCriCs sont tres semblables celles de leurs 
+homologues non deutCries (tableau 2). Les changements sont 
+surtout notables sur la dimension c et le volume de la maille. 
+
+FIG. 2. Variation des paramktres de maille en fonction du nombre 
+de mithyl&amp;nes, pour n = 4, 6, 8 et 10. 
+
+pour n = 2 (I), 3 (6), 4 (4), 5 (6), 6 (5), 7 (3), 8 (7) et 10 (8). 
+Les conformations des molecules de nDBN sont comparees a 
+la figure 3. La structure du 5DBN prCsentait, a tempCrature de 
+la pikce, un dCsordre Cvident au niveau de la chaine ali-
+phatique. Pour essayer d'atttnuer ce desordre, nous avons ef-
+fectuC une seconde collection de donnCes T = 173 K. Effec-
+tivement, a cette temptrature, il n'y avait plus de dCsordre et 
+les distances et facteurs de tempCrature etaient alors cornpara-
+bles i ceux des autres dibenzamido-alcanes connus. 
+
+Toutefois, on observe que, systkmatiquement, les nDBN-dl, 
+Distances et angles 
+ont des volumes 1Cgkrement infkrieurs a ceux de leurs 
+Les distances et angles moyens des dibenzamido-alcanes 
+homologues non deutCriCs, alors que c'est l'inverse pour les 
+sont rapport&amp; au tableau 3, except6 pour le lODBN, car les trks 
+nDBN-d2. 
+faibles dimensions du cristal n'on pas permis un affinement trks 
+Les structures des dibenzamido-alcanes ont Ct C dCterminCes 
+poussC de la structure. Les distances et angles moyens sont 
+Can. J. Chem. Downloaded from www.nrcresearchpress.com by 87.160.185.190 on 03/27/14 
+
+For personal use only. 
+
+
+CAN. J. CHEM. VOL. 63. 1985 
+
+comparables a 2 a prks, sauf pour les angles C(sp3)-C(sp3) 
+-C(sp3) dont la moyenne est de 112,4(3)" pour les 4DBN, 
+6DBN et 8DBN. Pour les 3DBN, SDBN et 7DBN, cette valeur 
+augmente ligkrement avec le nombre d'atomes de carbone en 
+chaine: elle passe de 112,9(3)" pour le 3DBN, a 1 13,5(2)" pour 
+le SDBN et 115,3(5)" pour le 7DBN. On ne remarque pas 
+d'effet notable sur les moyennes des distances et des angles du 
+SDBN dont la structure a Ct C mesurCe basse tempkrature. 
+Si l'on Ctudie de plus prks les distances et angles du cycle 
+aromatique des compods, on remarque que l'angle a situk sur 
+le carbone porteur du groupement amide est systkmatiquement 
+
+infkrieur de 1 a 2" a la moyenne de 120" des angles intra-
+
+cycliques. Domenicano et Vaciago (9) ont attribuk ceci 2 un 
+effet de conjugaison entre le cycle aromatique et le substituant. 
+Ces auteurs observaient Cgalement des valeurs supkrieures a 
+
+120" pour les angles P adjacents a l'angle du carbone substituk, 
+
+ce qui est aussi le cas pour tous les nDBN, sauf pour un des 
+angles du 6DBN. 
+
+Conformation 
+On peut distinguer trois ClCments importants de la con-
+formation des dibenzamido-alcanes: (i) l'angle dikdre E entre 
+les plans du cycle aromatique et du groupement amide; (ii) 
+l'angle de torsion T qui dCsigne l'angle entre le groupement 
+amide et la chaine aliphatique; (iii) la conformation de la chaine 
+aliphatique. 
+On remarque, pour tous les ILDBN, une constance au niveau 
+de la valeur de l'angle E (fig. 4a). Celui-ci est de 28,3", en 
+moyenne, avec des valeurs extrCmes de 19,O (2DBN) et 34,1° 
+(3DBN). Ces valeurs concordent bien avec celles obtenues par 
+analyse conformationnelle des benzamides par Laupktre et 
+Monnerie (10). Ces auteurs notaient un minimum d'knergie 
+conformationnelle pour E = 30°, avec une barrikre d'energie de 
+rotation peu ClevCe entre 0 et 30". La valeur de l'angle E ne 
+dkpend pas de la longueur de la chaine aliphatique. 
+Pour ce qui est de l'angle T (fig. 4b), on remarque une 
+beaucoup plus grande dispersion des rCsultats avec, cependant, 
+certaines constances. Pour les tzDBN pairs, la valeur de cet 
+angle se situe aux alentours de 180°, sauf dans le cas du 2DBN 
+pour lequel cet angle est de 91,5". Dans le cas des nDBN 
+impairs, on n'observe pas d'angle T prks de 180". La valeur de 
+cet angle se rapproche plutat de celle observCe pour le 2DBN, 
+
+la moyenne de IT) etant de 98". Ceci, ainsi que le mode d'empi-
+
+lement molCculaire, nous fait inclure le 2DBN dans le groupe 
+des nDBN impairs au point de vue structural. 
+Trois autres composks, les N,NJ-dibenzoyl-para-phCny-
+lknediamine (1 1 ), N, Nr-dikthyladipamide (12) et N, Nf-bis(P-
+chloro-kthy1)pimklamide (1 3), prCsentent des angles de torsion 
+T diffkrents de 180°, soient -56,3, -124 et 162", respective-
+ment . 
+La conformation de la chaine aliphatique des nDBN, pour n 
+= 4, 6, 8 et 10, est entikrement trans coplanaire. C'est le cas 
+aussi du 2DBN et du 7DBN. Par ailleurs, dans les cas du 3DBN 
+et du SDBN, on note des conformations a-tgtat et gtgttgttat 
+
+(t = 180"; g -60"; a est non trans, non gauche), soit une 
+
+alternance d'angles gauche et trans si l'on fait abstraction des 
+premiers et derniers angles de ces sCquences qui sont les angles 
+
+7 . 
+
+Cohe'sion mole'culaire et ponts hydrogbne 
+Les molCcules des dibenzamido-alcanes sont maintenues en-
+tre elles par ponts hydrogkne. L'empilement molCculaire re-
+flkte les disparitks entre nDBN pairs et impairs (fig. 5). Pour 
+n = 4, 6, 8 et 10, chaque molCcule est like par ponts hydrogkne 
+Can. J. Chem. Downloaded from www.nrcresearchpress.com by 87.160.185.190 on 03/27/14 
+
+For personal use only. 
+
+
+TABLEAU 2. Comparison des dimensions des mailles cristallines des nDBN deutCriCs 
+
+Composk 
+a (A) 
+b (A) 
+c (A) 
+
+P (") 
+
+v (A') AV/V (%) 
+
+FIG. 3. Diverses conformations adoptCes par les moltcules de nDBN selon n. 
+
+FIG. 4.(a) Variation de I'angle E en fonction du nombre de mCthylknes. (b) Variation de I'angle T en fonction du nombre de mCthylknes. 
+
+a deux autres, formant ainsi de longs rubans. Ces derniers sont 
+cule est like a deux voisines par ponts hydrogene, formant aussi 
+imbriquts les uns vis-2-vis des autres par un assemblage en 
+de longs rubans, tel que l'on peut le voir sur la figure 5. 
+ar&amp;te de poisson. MalgrC des differences de conformation, le 
+Alors que dans les cas prtctdents chaque moltcule ttait 
+3DBN adopte aussi le m&amp;me arrangement. Bien que le 7DBN 
+relite a deux voisines par ponts hydrogene, dans le cas du 
+prtsente un empilement moltculaire difftrent, chaque molt-
+2DBN et du SDBN, chaque moltcule est maintenant relite 
+Can. J. Chem. Downloaded from www.nrcresearchpress.com by 87.160.185.190 on 03/27/14 
+
+For personal use only. 
+
+
+CAN. 1. CHEM. VOL. 63. 1985 
+
+TABLEAU 3. Distances ct angles moyens des nDBN et pkriode de fibre thCorique pour les polymkres parents pairs 
+
+2DBN 
+3DBN 
+4DBN 
+5DBN 
+6DBN 
+7DBN 
+8DBN 
+
+PCriode de fibre thkorique a 
+des polymkres parents (A) 
+E = 300.T = 1800 
+11,09 
+E = 300, T = 98' 
+10,90 
+
+"a. angle intracyclique i I'atorne porteur du groupement arnide; P, rnoyenne des angles intracycliques adjacents ti a. 
+
+TABLEAU 4. GComCtrie des ponts hydrogkne des dibenzamido-alcanes 
+
+Distance (A) 
+
+Angles (") 
+
+Alcane 
+N-H 
+H...O 
+N...O 
+N-H...O 
+N...O--C 
+
+3DBN 
+
+N(1)-H(N1) ... O(1) 
+N(2)-H(N2). . . O(2) 
+
+SDBN 
+N(1)-H(Nl),..O(2) 
+
+N(2)-H(N2). . . O(2) 
+
+7DBN 
+
+N(1)-H(N1) ... O(1) 
+N(2)-H(N2). . . O(2) 
+
+2DBN 
+
+N(1)-H(N1) ... O(1) 
+
+4DBN 
+
+N(1)-H(N1) ... O(1) 
+
+6DBN 
+
+N(1)-H(N1) ... O(1) 
+
+8DBN 
+
+N(1)-H(N1) . . .O(l) 
+
+quatre molCcules diffkrentes. Pour le 2DBN, ceci est dQ a un 
+glissement des molCcules perpendiculairement a la direction de 
+propagation des ponts hydrogene, et a pour effet de crier un 
+rCseau bidimensionnel de ponts hydrogkne, les molCcules re-
+unies entre elles formant des feuillets. On retrouve un rCseau de 
+ponts hydrogene semblable pour le N,N1-bis(P-chloro-Cthyl)-
+pimelamide (13). Le 5DBN ne peut &amp;tre apparent6 a aucune 
+autre structure prCcCdemment decrite dans cette sCrie; celui-ci 
+forme un rCseau tridimensionnel de ponts hydrogkne ou le 
+premier groupement amide de chaque moltcule est perpendi-
+culaire au second. 11 s'ensuit que chaque molecule est reliCe a 
+quatre voisines selon deux directions diffkrentes, perpendi-
+culaires entre elles, et perpendiculaires j. la direction d'elon-
+gation de la chaine aliphatique. Si l'on compare la gComCtrie 
+des ponts hydrogene des dibenzamido-alcanes (tableau 4), on 
+remarque d'abord une deviation de la 1inCaritC des ponts hydro-
+gene des 2, 3, 5 et 7DBN par rapport aux 4, 6, 8 et IODBN, 
+car pour l'angle N.. .O-C, on observe une variation d'au 
+moins 10" en passant d'un groupe a l'autre. Les distances 
+
+0.. . N et H . . . 0 sont comparables, avec des valeurs particu-
+
+lierement courtes pour le 5DBN. M&amp;me la structure mesurCe a 
+la tempCrature de la pikce donnait des distances N.. . O plus 
+courtes que celles des autres tzDBN. Leur raccourcissement 
+n'est donc pas un effet attribuable 2 la temperature a laquelle 
+la mesure a Ct C prise. 
+
+Spectroscopies itlfrarouge et Raman 
+Depuis plusieurs annCes, on remarque la publication de 
+nombreux articles ou il est question de la determination de la 
+conformation de polymkres partir des spectres ir et Raman. 
+Les Nylons aliphatiques (15-18) et, plus recemment, les 
+poly(oligomethy1enes terkphtalates) (19-21) ont ainsi CtC 
+CtudiCs. Nous avons voulu etudier la possibilitk d'appliquer 
+1'Ctude des spectroscopies ir et Raman aux poly(oligom6 
+thylknes tCrCphtalamides). Afin d'Ctablir une base solide pour 
+1'Ctude des spectres des polymkres, nous avons d'abord exa-
+mink les spectres ir et Raman des nDBN. Les spectres de leurs 
+analogues N-deutCriCs (nDBN-dz) et deutCriCs sur le cycle 
+Can. J. Chem. Downloaded from www.nrcresearchpress.com by 87.160.185.190 on 03/27/14 
+
+For personal use only. 
+
+
+FIG. 5. RCseaux de ponts hydrogene des nDBN. 
+
+arornatique (nDBN-d,o) ont Cte utilises pour l'attribution des 
+bandes.' Les spectres ir des arnides sont caractCrisCs par la 
+prCsence de cinq bandes bien distinctes. Les bandes arnide 11, 
+arnide V, et la region de cisaillement des rnethylenes seront 
+surtout CtudiCes ici (fig. 6 et tableau 5). 
+(1) Position de la bande amide 11 
+On observe une variation de la frequence de la bande arnide 
+11: celle-ci passe de 1535 crn-' approximativernent, pour la 
+plupart des cornposCs, 1562 cm-' pour le 2DBN et 1553 cm-' 
+pour le 5DBN. On aurait pu attribuer cette variation aux diffe-
+rences de valeur de l'angle T dans les deux forrnes, rnais ce 
+n'est pas le cas puisque le 3DBN et le 7DBN ne presentent pas 
+un tel deplacement de la bande arnide 11. Cornrne ces deux 
+cornposCs prisentent des ponts hydrogene avec quatre mole-
+cules voisines, on peut supposer que la frkquence de vibration 
+est plus ClevCe, dans ce cas, en raison des contraintes accrues 
+dans un tel rCseau de ponts hydrogkne. 
+(2) Batzde amide V 
+Cette bande du spectre ir est la plus informative au point de 
+vue conforrnationnel. Elle est en effet sensible a la valeur de 
+l'angle T. Sa valeur passe de 644-652 cm-', lorsque l'angle T 
+
+est prks de 180°, a 664-673 crn-I, lorsque celui-ci est diffkrent 
+
+de 180" (fig. 6 et tableau 5). Cette bande est due a la vibration 
+de deformation hors plan S(N-H). Lorsque l'angle T est de 
+180°, la chaine aliphatique se trouve dans le rnCme plan que le 
+groupement arnide et la vibration hors plan peut s'effectuer 
+sans interaction avec les rn6thylenes. Par ailleurs, lorsque 
+l'angle T est diffkrent de 180°, les groupernents rnCthylenes se 
+retrouvent dans un plan perpendiculaire au groupement amide, 
+
+'On peut se procurer les tableaux des frequences infrarouge et 
+Raman des nDBN, nDBN-dl et IIDBN-dlo en s'adressant au DCpbt 
+des donnCes non publiCes, ICIST, Conseil national de recherches du 
+Canada, Ottawa (Ont.), Canada K I A 0S2. 
+
+FIG. 6. Spectres infrarouges des 2DBN, 3DBN et 4DBN. (a) Rt-
+gion de cisaillement des mithylenes. (b) Region de la bande arnide V, 
+dCformation hors plan 6(N-H). 
+
+et la vibration hors plan N-H peut Ctre gCnee par la presence 
+des hydrogenes rnCthylCniques, ce qui se traduit par une aug-
+mentation de la frequence de vibration S(N-H). 
+(3) Re' giorz de cisaillement des me'thyl2tzes 
+Cette rCgion qui s'etend de 1465 a 1431 crn-' est particu-
+lierernent irnportante. En effet, on observe des bandes d'in-
+tensit6 rnoyenne entre 1465 et 1431 crn-', dans le cas des 
+2DBN, 3DBN, 5DBN et 7DBN en infrarouge, alors que celles-
+ci sont tres faibles pour les 4DBN, 6DBN, 8DBN et IODBN. 
+Ces bandes sont attribuees ?i des vibrations de cisaillement des 
+rnethylenes. Dans les spectres Raman, par contre, les bandes 
+entre 1465 et 1445 crn-' sont d'intensite rnoyenne pour tous les 
+dibenzamido-alcanes. Ceci nous mene ti penser que la faible 
+intensite de ces bandes en ir, pour les 4 , 6 , 8 et 10 DBN, serait 
+due a la presence du centre de symetrie cristallographique au 
+milieu du lien CH,-CH, 
+central de ces molecules. Les spec-
+
+tres du 2DBN revdent que la bande 5 1441 cm-' est prksente 
+
+en ir, et absente en Rarnan. C'est l'inverse qui est observee 
+pour les autres rlDBN pairs. Ceci pourrait Ctre dG au fait que, 
+dans ce cas, le plan des rnCthyl6nes est perpendiculaire au plan 
+des groupernents arnides. Cette vibration serait due au ci-
+
+saillernent des rnkthylenes adjacents a la fonction arnide. L'in-
+
+tensit6 de ces bandes serait donc fonction de la symetrie de la 
+chaine et de son orientation par rapport au groupement arnide. 
+(4) Structure du dibetzzamido-1,9 rlonatze (9DBN) 
+Jusqu'ici, la structure du dibenzarnido-1,9 nonane n'a pas pu 
+Can. J. Chem. Downloaded from www.nrcresearchpress.com by 87.160.185.190 on 03/27/14 
+
+For personal use only. 
+
+
+CAN. 1. CHEM. VOL. 63. 1985 
+
+TABLEAU 5. Bandes caractkristiques des spectres 
+
+4DBN 
+6DBN 
+8DBN 
+lODBN 
+
+Infrarouge 
+Rarnan 
+lnfrarouge Rarnan 
+lnfrarouge Rarnan 
+lnfrarouge Rarnan 
+
+Bande arnide I1 
+1535TF 
+1540f 
+1535TF 
+1540f 
+1530TF 
+1530tf 
+1534TF 
+1540tf 
+6(C-H) 
+1482 rn 
+1480F 
+1478111 
+1476f 
+1476111 
+1475f 
+1476111 
+
+-
+
+Cisaillernent 
+1456 tf 
+
+-
+
+1461 f 
+1460 rn 
+1452 f 
+1462 f 
+1465 tf 
+des rnCthylknes 
+1447 f 
+1447 rn 
+1446 tf 
+1452 rn 
+1447 f 
+1446111 1455tf 
+1445m 
+1441 tf 
+
+-
+
+1436 f 
+1439 f 
+
+Bande amide V 
+652 m 
+
+-
+
+647 m 
+645 rn 
+
+-
+
+644 rn 
+
+-
+
+*TF: trts forte; F: forte; rn: rnoyenne; f: faible; tf: trts faible; ep: Cpaulernent. 
+
+&amp;tre itablie par diffraction de rayons X, car nous n'avons pas 
+
+pu obtenir de monocristaux de taille adiquate. Cependant, nous 
+
+avons pu determiner les parametres a , b et P de la maille par 
+
+precession sur un cristal maclC. Ceci nous a permis d'indexer 
+le diagramme de poudre du 9DBN. Les dimensions de la maille 
+
+cristalline presentees au tableau 1 sont tres comparables 2 celles 
+
+du 7DBN. 
+L'etude des spectres ir et Raman nous permet d'affirmer que 
+l'angle T sera different de 180" en raison de la position de la 
+bande amide V qui se retrouve vers 668 cm-', comme dans le 
+cas des 2DBN, 3DBN, SDBN et 7DBN. On retrouve la bande 
+
+amide 11 a 1538 cm-', comme dans le cas de la plupart des 
+
+dibenzamido-alcanes, sauf du 2DBN et du SDBN, ce qui nous 
+fait supposer que les molecules devraient Stre assemblkes entre 
+elles par ponts hydrogkne formant des rubans, et non par un 
+reseau de ponts hydrogene bi-ou tri-dimensionnel. De meme, 
+les bandes a 1467 et 1431 cm-' sont dlintensitC moyenne en ir 
+
+et en Raman, ce qui confirme la presence d'angles T diffkrents 
+de 180". 
+Le 9DBN aurait donc une structure comparable soit a celle 
+du 3DBN soit a celle du 7DBN, dependant de la conformation 
+de la chaine aliphatique qui n'est pas ttablie. On serait porte a 
+
+dCcrire la structure du 9DBN de la m&amp;me maniere que celle du 
+7DBN, puisque leurs mailles cristallines ont de grandes 
+analogies. 
+
+(5) spectroscopie des polymtres 
+(a) Spectre infrarouge du Nylon 6 
+
+Si l'on confronte les rksultats obtenus par 1'Ctude des spec-
+
+tres ir et Raman des dibenzamido-alcanes 2 ceux obtenus prC-
+
+ctdemment pour le Nylon 6 (IS), on remarque une analogie 
+Cvidente. Le Nylon 6 est polymorphique et l'on observe des 
+
+frkquences differentes pour les bandes amide 11 et V des formes 
+
+a et y. 
+
+Arimoto (15) notait un dtplacement de la bande amide I1 de 
+1545 pour le Nylon 6, forme a , a 1562 cm-' pour le Nylon 6, 
+forme y. Le Nylon 6, forme a, est entierement trans co-
+
+planaire, alors que dans le modkle propost par Vogelsong (14) 
+pour la forme y du Nylon 6, on note un rtseau de ponts 
+
+hydrogkne tridimensionnel, semblable a celui du SDBN. Ceci 
+
+viendrait appuyer la relation entre ce deplacement de frequence 
+et le type de rkseau de ponts hydrogene. 
+D'autre part, on constate une augmentation de la frtquence 
+de la bande amide V lorsque l'on passe de la forme a 2 la forme 
+y du Nylon 6; celle-ci varie de 692 a 708 cm-' (15). Comme 
+
+Qn observe une valeur de l'angle T de -93" (14) pour la forme 
+
+y du Nylon 6, on peut ici aussi attribuer ce dkplacement a la 
+
+valeur de l'angle T , comme pour les dibenzamido-alcanes. 
+(b) Structure du Nylon 6T 
+
+La periode de repetition du Nylon 6T est connue; elle est 
+
+de 15,60 A (22, 23). Si ce compose Ctait entierement trans 
+
+coplanaire avec des angles E $e +30°, on observerait une PC-
+riode de repetition de 16,lO A. L'Ccart entre ces deux valeurs 
+peut s7exp1iquer soit par la presence d'un angle de torsion 
+gauche au sein de la chaine aliphatique, soit par une valeur de 
+
+l'angle T de 99". L'itude du spectre ir du Nylon 6T est en ac-
+cord avec une valeur de ]'angle T differente de 180°, puisque 
+l'on observe des bandes d'intensite moyenne entre 1450 et 
+
+1420 cm-' et que la bande amide V se retrouve 2 une frequence 
+
+de 670 cm-' comme pour les 2DBN, 3DBN, SDBN et 7DBN. 
+
+Conclusion 
+
+L'analyse des dibenzamido-alcanes nous a permis d'ttablir: 
+(i) que la valeur de l'angle E entre le groupement aromatique et 
+le groupement amide varie tres peu et est en moyenne de 28,3"; 
+(ii) que l'angle T entre le groupement amide et la chaine ali-
+phatique peut varier et prend des valeurs proches de 180 ou 90"; 
+(iii) que la conformation trans coplanaire et les conformations 
+composees d'une altemance d'angles gauche et trans sont fa-
+voristes; (iv) qu'on peut, a l'aide de la spectroscopie ir, dtter-
+
+miner si l'angle T est pres de 180" ou non. 
+
+1. A. PALMER et F. BRISSE. Acta Crystallogr. Sect. B, 36, 1447 
+( 1980). 
+2. V. E. SHASHOUA et W. M. EARECKSON. J. Polym. Sci. 15, 343 
+(1959). 
+3. J . BRISSON et F. BRISSE. Acta Crystallogr. Sect. B, 38, 2663 
+(1982). 
+4. S. HARKEMA, G. J. VAN HUMMEL et R. J. GAYMANS. Acta 
+Crystallogr. Sect. B, 36, 3182 (1980). 
+5. C. PINEAULT et F. BRISSE. Acta Crystallogr. Sect. C, 39, 1434 
+(1983). 
+6. J. BRISSON et F. BRISSE. Eur. Polym. J. Soumis. 
+7. C. PINEAULT et F. BRISSE. Acta Crystallogr. Sect. C, 39, 1437 
+(1983). 
+8. C. PINEAULT. MCrnoire de M.Sc., Universitt de MontrCal. 
+(1982). 
+9. A. DOMENICANO et A. VACIAGO. Acta Crystallogr. Sect. B, 31, 
+221 (1965). 
+10. F. LAUPETRE et L. MONNERIE. Eur. Polym. J. 14, 415 (1978). 
+I I. A. FRATINI et D. R. WIFF. Acta Crystallogr. Sect. B, 34, 954 
+(1978). 
+12. E. BENEDETTI, M. R. CIAJOLO et P. CORRADINI. Eur. Polym. J. 
+Can. J. Chem. Downloaded from www.nrcresearchpress.com by 87.160.185.190 on 03/27/14 
+
+For personal use only. 
+
+
+BRISSON ET BRISSE 
+
+infrarouge et Raman des nDBN* 
+
+Infrarouge 
+Raman 
+Infrarouge 
+Raman 
+Infrarouge 
+Raman 
+Infrarouge Raman Infrarouge 
+Raman 
+
+9, 101 (1973). 
+13. M. R. CIAJOLO, V. PAVONE et E. BENEDETTI. Acta Crystallogr. 
+Sect. B, 33, 1295 (1977). 
+14. D. C. VOGELSONG. J. Polym. Sci. Part A, 1, 1055 (1963). 
+15. H. ARIMOTO. J. Polym. Sci. Part A, 2, 2283 (1964). 
+
+16. 1. SANDEMAN et A. KELLER. J. Polym. Sci. XIX, 401 (1956). 
+17. I. MATSUBARA et J. H. MAGILL. J. Polym. Sci. Polym. Phys. Ed. 
+11, 1173 (1973). 
+18. B. SCHNEIDER, P. SCHMIDT et 0. WICHTERLE. Collect. Czech. 
+
+Chem. Commun. 27, 1749 (1962). 
+19. 1. M. WARD et M. A. WILDING. Polymer, 18, 327 (1977). 
+20. J. L. KOENIG et S. B. LIN. J. Polym. Sci. Polym. Phys. Ed. 21, 
+2067 (1983). 
+21. A. PALMER, S. POULIN-DANDURAND, J. F. REVOL et F. BRISSE. 
+Eur. Polym. J. 20, 783 (1984). 
+22. R. G. QUYNN. Text. Res. J. 40, 677 (1970). 
+23. P. W. MORGAN et S. L. KWOLEK. Macromolecules, 8, 104 
+(1975). 
+
+Can. J. Chem. Downloaded from www.nrcresearchpress.com by 87.160.185.190 on 03/27/14 
+
+For personal use only. 
+
+
+
+	
+

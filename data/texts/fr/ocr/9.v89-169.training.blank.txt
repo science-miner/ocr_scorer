@@ -1,0 +1,915 @@
+
+	
+
+		
+
+	
+
+	
+
+Une application du cycle pyrazoline a la lactamisation et a la formylation de 
+6H thiazines-1,3 
+
+RBMY TULOUP, RENBE DANION-BOUGOT ET DANIEL DANION' 
+
+Groupe de recherches de physicochimie structurale, Unit6 associ6e au Centre national de la recherche scient~3que, n O 704, 
+UniversitP de Rennes 1 , 35042 Rerlrles CEDEX, France 
+
+JEAN-PAUL P R A D ~R E 
+
+Laboratoire de chimie organique, Unit6 associPe au Centre natio?al de la recherche scientijque, no 475, 
+2 , Rue de la Houssiniere, 44072 Nantes CEDEX 03, France 
+
+Loi'c TOUPET 
+
+DPpartemerlt de physique cristalline, Unit6 associPe au Centre natio~al de la recherche scientijque, n" 804, 
+UniversitP de Rerlrles 1 . 35042 Retlnes CEDEX. France 
+Refu le 27 septembre 1988 
+
+RBMY TULOUP, RENBE DANION-BOUGOT, DANIEL DANION, JEAN-PAUL P R A D ~R E 
+et LoIc TOUPET. Can. J. Chern. 67, 
+
+1125 (1989). 
+Le cycle pyrazoline est utilisC a la fois comme groupe masquant, groupe stCrCodirecteur et groupe formyle latent dans une 
+synthkse d'amino-7 formyl-4 cCphkmes a partir de 6H-thiazines-1,3. 
+Mots clPs : thiazine, cCphkme, pyrazoline, anhydride benzenesC1Cninique. 
+
+RBMY TULOUP, RENBE DANION-BOUGOT, DANIEL DANION, JEAN-PAUL PRAD~RE, and LoIc TOUPET. Can. J. Chem. 67, 
+
+1125 (1989). 
+A pyrazoline ring is used as a masking, a stereodirecting, and a latent formyl group in the synthesis of 7-amino-4-formyl 
+cephems from 6H-1,3-thiazines. 
+Key words: thiazine, cephem, pyrazoline, benzeneseleninic anhydride. 
+
+Introduction 
+
+H Ph 
+
+Les 6H-thiazines-1,3 1 sont des intermkdiaires de synthese 
+facilement accessibles par reaction de Diels-Alder (I). Leur 
+
+X 
+
+valorisation comme prkcurseurs de cephkmes implique une 
+rkaction de lactarnisation avec un kquivalent synthktique d'amino-
+
+H 
+CHO 
+
+cktkne et l'introduction d'une fonction acide carboxylique po-
+
+1 
+4 
+tentielle en position 4. 
+Ces rkactions ne sont pas rkalisables avec les thiazines 1. 
+D'une part, la fonction imine est trop peu rkactive vis a vis des 
+
+CH2N2 
+
+cCt&amp;nes a cause de la conjugaison; d'autre part, il est tres 
+
+I 
+
+difficile d'introduire un groupement fonctionnel en position 4. 
+Les rkactifs nuclkophiles attaquent en 2 ou 6 (2), les rkactifs 
+klectrophiles attaquent en 3.' 
+
+H Ph 
+
+Nous dkcrivons dans ce memoire une methodologie permet-
+tant d'atteindre ces objectifs. Elle fait appel a un cycle pyrazo-
+line intermkdiaire (schema 1). 
+
+H 
+N 
+
+1. Addition du diazomethane 
+
+2 
+3 
+
+Les rksultats d'un calcul MNDO, effectue sur une thiazine 
+
+X = C02CH3 (composCs a ) ou COCH3 (composCs b ) 
+
+modele3 (gkometrie optimiske selon la methode inhkrente au 
+SCHEMA 1 
+programme), montrent que les reactions de cycloaddition dipo-
+laire avec le diazomkthane sont susceptibles d'avoir lieu sklec-
+ti,,, avec les thiazines l a et 16. Les pyrazolines 2a et 2 6 , 
+tivement sur la liaison C4-C5. On note, en particulier, une 
+obtenues de fagon rkgio et stkrkosklective, sont stables jusqu'a 
+BV basse en knergie, avec des coefficients importants en C4 et 
+1 0 0 0 ~. 
+C5 (schema 2). 
+Comme nous l'avons monk6 dans un travail prkliminaire 
+2 . Reactions de lactamisation 
+(3), le diazomkthane rkagit lentement, mais de fagon quantita-
+rinkoduction du cvcle ovrazoline oermet un masauaee tem-
+
+4 
+
+L, 
+
+. " 
+
+1. Auteur a qui adresser toute correspondance. 
+
+poraire de la double liaison C4-C5 et rend possible la rCac-
+
+2. J. P. Pradkre, communication personnelle. 
+tion de lactamisation (4). Les reactions sont effectuees avec le 
+
+3. calculs effectu~s a 1 ' ~~i ~~~~i ~~ 
+
+, -J ~E ~~~~~~~ 
+
+(R.F.A.) par A. J. 
+systkme chlorure de l'acide phtalimidoacktique -triethylamine 
+KOS, que nous remercions vivement. HO et BV dCsignent respective-
+dans le dichloromkthane, la temperature ambiante (5). 
+
+ment l'orbitale rnolCculaire la plus haute occupCe et la plus basse 
+
+Les pyrazolinothiazines 2 conduisent aux lactames 3 a et 36 
+
+vacante. 
+
+avec des rendements superieurs a 80%, contrairement aux thia-
+
+Pnnled In Canada / ImpnmC au Canada 
+
+Can. J. Chem. Downloaded from www.nrcresearchpress.com by 87.160.185.190 on 03/27/14 
+
+For personal use only. 
+
+
+CAN. J. CHEM. VOL. 67, 1989 
+
+0 
+
+d 
+
+O.R.T.E.P. du compose 5a4 
+
+4. Les coordonnCes de tous les atomes avec les P, , , les longueurs 
+
+et angles de liaisons avec Ccart-type ainsi que la liste des facteurs de 
+structure sont disponibles. On peut les acheter en s'adressant au DtpBt 
+de donntes non publikes ICIST, Conseil National de Recherche du 
+Canada, Ottawa (Ont.), Canada KIA OS2. 
+On peut aussi obtenir les coordonnCes des atornes, les longueurs et 
+angles de liaisons, en s'adressant au Directeur, Cambridge Crystallo-
+graphic Data Centre, University Chemical Laboratory, Lensfield Road, 
+Cambridge CB2 IEW, U.K. 
+
+zines 1 qui ne rCagissent pas. Comme attendu, le cycle pyrazo-
+line a un effet stCrCodirecteur trks important. La rCaction con-
+duit &amp; un seul stCrCoisomkre, dont la configuration a Ct C Ctablie 
+sans difficult6 par radiocristallographie X; 1'Ctude a Ct C rCalisCe 
+sur la pyrazoline-2 5a (isomerisation de 3a en presence de 
+trikthylamine) (schCma 3). 
+Les cycles p-lactame et pyrazoline sont disposCs en trans, 
+de m&amp;me que le groupe phtalimido et le noyau thiazine. Ce 
+rhultat est en bon accord avec un contr8le stkrique de la reaction. 
+
+3. Preparation de methyl-4 cephkmes et etude de leur 
+oxydation allylique 
+La conversion des pyrazolinoctphames 3 en formyl-4 c t -
+phkmes 4 a Ct C realisee selon deux approches convergentes. La 
+premikre mCthode est basCe sur la preparation du dCrivC mCthylC 
+6 , qui est ensuite oxydt selon des techniques dCj&amp; utiliskes 
+pour les mCthyl-3 ou hydroxymCthyl-3 cCphkmes (dCacCtoxy 
+ou dCacCtyl ~Cphalosporines) (6, 7) (schema 4). 
+La thermolyse des pyrazolines 3 a fait l'objet d'un travail 
+prkliminaire (3). Elle conduit de f a ~o n exclusive aux cephkmes 
+mCthylts 6 . L'oxydation allylique a CtC rCalisCe sur le seul 
+compost 6a (X = C02CH3). 
+L'action de la N-bromosuccinirnide, a la tempt5rature arnbiante 
+dans le dichloromCthane, donne dans de bonnes conditions le 
+bromomCthyl-4 cCphkme 7, qui peut &amp;tre converti en composC 
+8 par action du nitrate d'argent dans 1'acCtonitrile. 
+L'hydrolyse du composC 7, en prCsence de nitrate d'argent, 
+conduit &amp; la lactone 9. Le com~osC 8 donne lieu a une Climina-
+tion d'acide nitreux par traitement a la triethylamine. Dans ces 
+conditions, il se forme, &amp; l'equilibre, un mClange du formyl-4 
+cCphkme 4 et d'un composC tautomkre 10 auquel nous avons 
+attribuC une structure A-2 ctphkme sur la base des donntes de 
+Can. J. Chem. Downloaded from www.nrcresearchpress.com by 87.160.185.190 on 03/27/14 
+
+For personal use only. 
+
+
+TULOUP ET AL. 
+
+H Ph 
+H Ph 
+
+phtN@&amp; 0 
+X 
+
+CHO 
+
+l l b ( E = NO) 
+
+RMN. Ce type d'isomCrisation en milieu basique est frCquem-
+ment rencontrC en sCrie ckpheme (6, 7). 
+Ces rksultats nous ont conduits a privilkgier une seconde 
+approche, plus rapide, et qui permet de s'affranchir des milieux 
+basiques. 
+
+4. Oxydation des pyrazolinocephames par l'anhydride 
+benzeneseleninique 
+La mise au point d'une technique d'ouverture oxydante du 
+
+cycle pyrazoline nous a conduits ii etudier de faqon systemati-
+
+que sur les pyrazolines-2 de formule 5 l'action des principaux 
+oxydants utilisks pour le clivage des hydrazones (8). Une ma-
+jorite de reactifs conduisent a.des produits de N ou C substitu-
+tion, stables dans le cas des pyrazolines ttudiees (schtma 5). 
+La formation de ces deux types de composCs s'interprkte 
+bien si l'on admet que la reaction peut &amp;tre sous contr6le cinCti-
+que ou thermodynamique. 
+
+N-substitution 
+I1 s'agit de la rCaction la plus classique (alkylation ou acyla-
+tion des pyrazolines-2) (9). Nous l'avons obsemCe lors de la 
+nitrosation de 5b, conduisant a 11 b. 
+
+C-substitution 
+Cette rCaction, sous contr6le thermodynamique, est obsemke 
+lorsque les rCactifs donnent des liaisons fragiles avec l'azote. 
+La N-bromosuccinimide, en milieu eaulacktone, conduit a 12a 
+et 12b. De m&amp;me, le chlomre de benzknese1CnCnyle donne lieu 
+a la formation de 13a. 
+Les essais d'ouverture de ces pyrazolines substituCes 11 ou 
+
+12a, 12b ( E = Br) 
+13a ( E = SePh) 
+
+12 n'ont permis d'isoler que le pyrazole 14, dans le cas ou il 
+n'y a pas dkgradation du noyau ckphame. 
+
+Action de 1 'anhydride benzdnese'le'ninique 
+Ce rkactif, prCconisC par Barton et al. pour rCaliser le cli-
+vage des hydrazones encombrCes (lo), permet l'ouverture oxy-
+dante du cycle pyrazoline dans des conditions trks douces. La 
+rkaction est gLnCrale et elle a fait l'objet d'une note prClimi-
+naire (11). AppliquCe a la pyrazoline-2 5a, elle conduit 2 un 
+melange de formyl-4 cCphkme 4 et de formyl-4 cCphame 15 
+(schtma 6). 
+Un contr6le assez satisfaisant des proportions des deux pro-
+duits est obtenu par le choix de la temperature. Lorsque l'oxy-
+dation est effectuke a 1'Cbullition du tolukne, le cCphkme 4 est 
+isole a 1'Ctat pur avec un rendement de 50%. Sous l'action de 
+
+la triethylamine ii la temperature ambiante, il s'isomCrise en 
+quelques minutes, en donnant un mClange identique a celui 
+obtenu 2 partir du composC 8. 
+Une autre reaction a CtC mise en evidence : lorsque la pyra-
+zoline-2 bromCe 16a (isomCrisation de 12a par Et3N) est sou-
+
+mise ii l'action de l'anhydride benzknestlCninique, le produit 
+
+isole est le 4-H cCphkme 17 (schema 7). 
+Can. J. Chem. Downloaded from www.nrcresearchpress.com by 87.160.185.190 on 03/27/14 
+
+For personal use only. 
+
+
+CAN. J. CHEM. VOL. 67. 1989 
+
+H Ph 
+0 
+0 
+
+I I 
+1 I 
+
+H Ph 
+PhSe-0-SePh 
++ PhtN 8 N 5 4 
+X 
+N 
+
+4' 
+
+CHO 
+CHO 
+5a 
+
+4 
+
+15 
+
+% relatifs (spectre de RMN 'H) 
+
+H 
+
+-
+
+p2;?,"' t 3. A [ : 9 y co2Me] 
+
+PhtN 8 N s 4 3 
+
+0 H 'v-/ 
+
+P 
+
+PhSe-0 
+Br 
+
+-PhSeBr 
+
+L 
+
+Compte tenu de l'instabilite des azocomposCs cycliques a-
+carbonylks (12), le mkcanisme le plus vraisemblable est la 
+formation d'un ester ~Cltninique intermkdiaire, qui conduit a 
+
+une 0x0-3 pyrazoline-1 . Une retrocycloaddition [2u + 2u + 2u] 
+
+permet alors d'expliquer la formation de l'alcene 17. 
+L'introduction de groupes carbonyles sur des modeles plus 
+ilabores de thiazines ou de ciphemes (1 3) sera envisagee ulte-
+rieurement. D'autre part, ce travail montre que les pyrazolines 
+peuvent etre utiliskes comme intermediaires pour la formyla-
+tion d'alcenes. L'application synthktique de ce resultat est actuel-
+lement en cours de dtveloppement (1 1). 
+
+Partie experimentale 
+
+Les spectres de RMN sont emegistrCs sur des solutions dans CDC13 
+(sauf indication contraire) l'aide d'appareils Bruker WP 80 CW 
+(80MHz; 'H), WP 80 DS a transfomke de Fourier (20,115 MHz; 
+I3C) ou AM WB 300 (300,113 MHz pour 'H; 75,472 MHz pour I3C); 
+les deux demiers appareils sont du Centre RCgional de Mesures Phy-
+
+siques de I'Ouest (C.R.M.P.0 .) . Les dkplacements chimiques 6 sont 
+
+exprimCs en ppm/TMS et les constantes de couplage J en hertz (les 
+signaux correspondant aux groupements phCnyles ne seront pas donnCs). 
+Un spectrophotomktre Perkin Elmer 1420 est utilisk pour les dCtermi-
+nations infrarouges; les Cchantillons sont examinks en suspension dans 
+le Nujol; les frkquences de vibration caracteristiques sont exprimCes 
+
+en cm-'. Les spectres de masse sont emegistrCs soit a l'aide d'un 
+
+appareil Varian MAT 311 du C.R.M.P.O. (Cnergie du faisceau Clec-
+tronique 70eV, intensit6 du courant d'kmission 300 pA et tension 
+d'accC1Cration des ions 3 kV), soit a l'aide d'un appareil Varian MAT 
+112 de I'UniversitC de Nantes (Cnergie du faisceau Clectronique 70 eV, 
+
+intensite dans le filament 1,5 mA). Les points de fusion sont dCter-
+
+minks a l'aide d'un banc chauffant Kofler ou sur une platine chauf-
+
+fante CquipCe d'un microscope. Les analyses ClCmentaires sont effec-
+tuCes par le Service Central de Microanalyse du C.N.R.S. 
+
+Les 6-H thiazines-1,3 1 (I b , 1 c ) et le diazomethane (14) sont 
+
+prCparCs selon les mCthodes dCcrites dans la 1ittCrature. 
+
+1. Synthkse des pyrazolinothiazines 2 
+Une solution de 2 x lo-' mol de thiazine 1 dans 20 cm3 de dichlo-
+romkthane est additionnke d'une solution CthCrCe (6 X lo-' mol dans 
+150cm3) de diazomkthane (14). Le melange rCactionne1 est aban-
+
+donne 8 jours a la tempkrature ambiante, a I'abri de la lumikre. Aprks 
+
+Climination du solvant, la pyrazoline 2 cristalline. 
+2a : F = 65OC (acCtate d'CthylelCther de pCtrole); Rdt = 95%; IR 
+v : 1732 (c=O), 1610 (C=N); RMN 'H (80 MHz) 6 : 3,52 et 3,91 
+(systkme AB, J = 13,5; H6); 3,78 (s; C02CH3); systkme ABX (H4 
+et H4') 6 : 4,64 (A); 4,84 (B) et 4,98 (X); JAB = 18,6; JAX = 9,3 et 
+
+JBx = 1,6; RMN I3c 8 : 27,6 (t, 'J = 146; C6); 53,4 (d, 'J = 151; 
+
+C4); 56,9 (q, 'J = 149; C02CH3); 85,8 (t, 'J = 145; C4'); 91,5 (s 
+large; C5); 160,5 (s; C2); 168,O (s; C02CH3). Anal. calc. pour 
+Cl-,Hl3N3O2S: C 56,73, H 4,72, N 15,27; tr. : C 56,73, H 4,73, N 
+15,22%. 
+2b : F = 78°C (Cther); Rdt = 95%; IR v : 1699 (C=O), 1593 
+(C=N) ; RMN 'H (300 MHz; C6D6), 6 : 1.87 (S ; COCH3) ; 2,90 et 
+2,97 (systkme AB, J = 13,4; H6); systkme ABX (H4 et H4') 6 : 4,31 
+(A); 4,42 (B) et 4,64 (X); JAB = 18,3; JAX = 8,2 et JBx = 3,4; 
+RMN 13c 6 : 26,8 (q, 'J = 129; COCH-,); 28,2 (t, 'J = 145; C6); 
+55,O (d, 'J = 151; C4); 84,3 (t, 'J = 145; C4'); 96,5 (s large; C5); 
+159,2 (s; C2); 201,3 (s; COCH-,). Anal. calc. pour CI3H1-,N30S : C 
+60,23, H 5,02, N 16,22; tr. : C 60,16, H 5,09, N 16,14%. 
+
+Can. J. Chem. Downloaded from www.nrcresearchpress.com by 87.160.185.190 on 03/27/14 
+
+For personal use only. 
+
+
+TULOUP ET AL. 
+
+1129 
+
+2. Synthdse des pyrazolino-1 ce'pharnes 3 
+
+trope (R = 0,072). A ce stade, les atomes d'hydrogkne sont dCfinis a 
+
+A 5 x 
+mol de pyrazolinothiazine 2 en solution, dans 25 cm3 
+l'aide d'une diffkrence de Fourier (entre 0,57 et 0,19 e k 3 ) . 
+de dichloromCthane anhydre, est ajoutCe 5,5 X 10-'mol de chlorure 
+Le rneilleur affinernent par rnatrice cornplkte de l'ensernble de la 
+d'acide (5) en solution dans 10 crn3 de dichlorornCthane anhydre. Le 
+
+molCcule (x, y, z, Pij atornes non-hydrogkne et x, y, z atornes d'hydro-
+
+mClange rkactionnel est alors additionnC de 5,5 x 
+rnol de triCthy-
+gene) donne pour 1525 observations : R = 0,059; R,, = 0,058; S,, = 
+
+lamine et abandonnC 12 h a la ternpkrature ambiante. Aprks lavage 2,2; Ae = 0,15 e A-9 
+
+avec une solution saturke d'hydro~Cnocarbonate de sodium, puis a 
+l'eau, la phase organique est sCchCe sur MgS04. Aprks elimination du 
+solvant, le rCsidu est cristallisC dans un melange de 20cm3 d'Cthanol 
+et 2 cm3 dlacCtone. 
+3 a : F = 210°C; Rdt = 82%; 1R v : 1793 (C=O lactame), 1730 
+(C=O ester); RMN 'H (80MHz) 6 : 3,60 (s large; H2); 3,87 (s; 
+C02CH3); 4,87-5,37 (systkme ABC; H4 et H4'); 5,79 (s; H7); RMN 
+"C 6 : 27,4 (t, 'J = 145; C2); 48,5 (d, 'J = 147; C4); 53,7 (q, 'J = 
+149; C02CH3); 69,l (d, 'J = 153; C7); 71,2 (s, large; C6); 80,5 (t, 
+'J = 144; C4'); 93,4 (s large; C3); 166,O (s; C8); 167,3 (s large; 
+C02CH3). SpectromCtrie de masse (Varian Mat 31 1) : pour [MI?, masse 
+calculke : 462,099; trouvte : 462,100. Anal. calc. pour C23H18N405S. 
+114 H20: C 59,16, H 3,96, N 12,OO; tr. : C 59,05, H 3,76, N 
+11,86%. 
+3 b : F = 209°C; Rdt = 76%; 1R v : 1792 (C=O lactarne), 1725 
+(C=O cktone); RMN 'H (80MHz) 6 : 2,45 (s; COCH3); 3.53 (s 
+large; H2); 4,75-5,38 (systkme ABC; H4 et H4'); 5,75 (s; H7); 
+RMN "C 6 : 26,7 (q, 'J = 129; COCH3); 28,l (t, 'J = 142; C2); 
+46,5 (d, 'J = 148; C4); 69,l (d, 'J = 152; C7); 71,l (s large; C6); 
+79,5 (t, 'J = 143; C4'); 100,l (s large; C3); 166,O (s; C8); 199,6 (s 
+large; COCH3). Anal. calc. pour C23H18N404S : C 61,88, H 4,04, N 
+1235; tr. : C 61,66, H 4,05, N 12,55%. 
+
+3. Synthdse des pyrazolino-2 ce'pharnes 5 
+De la trikthylamine (1,5 x lo-' mol) est ajoutCe 5 x 
+rnol de 
+pyrazolino-1 cCphame 3 en solution dans 25 cm3 de dichloromCthane 
+
+anhydre. Ce rnklange est abandonnC 24 h a la temperature ambiante. 
+
+Aprks Climination du solvant, le rCsidu est cristallisC dans un melange 
+de 20 cm3 d9Cthanol et 2 cm3 d'acktone. 
+5 a : F = 259°C; Rdt = 92%; 1R v : 3310 (NH), 1792 (C=O 
+lactame), 1728 (C=O ester); RMN 'H (80MHz; CDC13/CF3C02H, 
+90: 10) 6: 2,96 et 3,42 (systkme AB, J = 15,O; H2); 3,98 (s; C02CH3); 
+
+5,84 (s; H7); 6,33 (s large; H4); 7,22 (s large; H4'); RMN I3c 
+
+(CDCI3/CF3COrH, 90: 10) 6 : 29,4 (t, 'J = 144; C2); 54,O (q, 'J = 
+148; C02CH3); 60,9 (d, 'J = 144; C4); 65,3 (s large; C6); 67,9 (d, 
+'J = 154; C7); 72,2 (s large; C3); 141,5 (d, 'J = 198; C4'); 166,7 (s 
+large; C8); 178,2 (s large; C02CH3). Anal. calc. pour C23H18N405S : 
+C 59,74, H 3,90 N 12,12; tr. : C 59,48, H 4,01, N 11,93%. 
+5 b : F = 250°C; Rdt = 90%; 1R v: 3290 (NH), 1785 (C=O lac-
+tame), 1720 (C=O cCtone); RMN 'H (80 MHz; CDC13/CF3C02H, 
+90: 10) 6 : 2,40 (s; COCH3); 2,84 et 3,39 (systkrne AB, J = 15,O; 
+H2); 5,84 (s; H7); 6,13 (s large; H4); 7,15 (s large; H4'); RMN I3C 
+(CDCl3/CF3C02H, 90: 10) 6 : 25,6 (q, 'J = 128; COCH,); 28,7 (t, 
+'J = 145; C2); 60,4 (d, 'J = 144; C4); 67,9 (d, 'J = 154; C7); 70,6 
+(s large; C6); 71,8 (s large; C3); 141,4 (d, 'J = 195; C4'); 167,O (s; 
+C8); 205.4 (s large, COCH3):. Anal. calc. pour C23H18N404S : C 
+61,88, H4,04, N 12,55; tr. : C 61,82, H 3,98, N 12,25%. 
+
+4. Analyse cristallographique du compose! 5 a 
+S05N4C25Hi8 
+
+M, = 462.5 
+
+Orthorhombique, Pbca, a = 14,689(4), b = 16,243(4), c = 18,118(9) A, 
+
+V = 4322,6(6)k3, Z = 8, D, = 1,42 ( ~~m -~) , 
+
+h (MoKa) = 
+
+0,71073 A, p = 1,8 cm-', F(000) = 1920, T = 296 K. L'Ctude a Ct C 
+
+rCaliste a I'aide d'un diffractomktre automatique Enraf-Nonius : Les 
+
+pararnktres de la maille ont Ct C dCtenninCs et affints A partir d'un 
+
+ensemble de 25 rkflections angle Clevk. L'Cchantillon, tail16 a 0,15 
+x 0,23 x 0,26 rnrn, a fourni 4251 rCflexions (20,,, = 50") dont 1044 
+
+independantes avec I &gt; u(l) : domaine analysC h (0 -+ 17) k (0 -+ 19) 
+
+1 (0 -+ 21), balayage w/20 = 1, vitesse de balayage variable (t,, = 
+60 s), variation de 1,5% sur les contrbles dlintensitC. 
+
+La structure a Ct C rCsolue a I'aide des MCthodes Directes qui per-
+
+mettent de localiser tous les atomes non-hydrogkne. L'ensemble du 
+motif est affinC en mode isotrope (R = 0,084) puis en mode aniso-
+
+5. SynrhPse des me'thyl-4 ce'phimes 6 
+Une solution de 
+mol de pyrazolino-1 cCphame 3 dans 30 cm3 
+de tolukne est portCe a reflux pendant 72 h. Apres elimination du 
+solvant, le rCsidu est cristallisk dans 10 crn3 d'Cthano1. 
+6 a : F = 244°C; Rdt = 85%; 1R v : 1790 (C=O lactame), 1724 
+(C=O ester); RMN 'H (80 MHz) 6 : 2,87 et 3,77 (systkme AB, J = 
+15,O; H2); 2,95 (s; =CCH3); 3,75 (s; C02CH3); 5,60 (s; H7); RMN 
+I3C 6 : 18,O (q, ' J = 131; =CCH3); 25,7 (t, 'J = 141; C2); 51,8 
+(q, 'J = 147; C02CH3); 65,l (d, 'J = 152; C7); 70,O (s; C6); 108,l 
+(s large; C3); 144,7 (s large; C4); 161,O (s; C8); 166,9 (s large; 
+C02CH3). Anal. calc. pour C23H18N205S : C 63,59, H 4,15, S 7,37; 
+tr.:C63,09, H4,12, S 7,22%. 
+66 : F = 240°C; Rdt = 85%; 1R v : 1785 (C=O lactame), 17 18 
+(C=O acCtone); RMN 'H (80MHz) 6 : 2,34 (s; COCH3); 2,92 et 
+3,66 (systkme AB, J = 17,O; H2); 2,86 (s; =CCH3); 5,58 (s; H7); 
+RMN "C 6 : 18,2 (q, 'J = 130; =CCH3); 26,4 (t, 'J = 143; C2); 
+30,6 (q, 'J = 127; COCH3); 65,l (d, 'J = 152; C7); 69,9 (s; C6); 
+116,8 (s large; C3); 142,2 (s large; C4); 165,9 (s; C8); 198,2 (s large; 
+COCH,). SpectromCtrie de masse (Varian Mat 1 12) : [M]t = 418. 
+Anal. calc. pour C23H18N204S.H70 : C 63,30, H 4,59, N 6,42; tr. : 
+C 63,89, H 4,38, N 6,48%. 
+
+6. Synthdse du bromorne'thyl4 ce'phdme 7 
+Du N-bromosuccinimide (3 X 
+mol) est ajoutC a une solution 
+de 2 X 
+rnol de cCphkme 6 a dans 15 cm3 de dichloromCthane et le 
+
+mClange est maintenu 6 h a reflux. Aprks lavage a l'eau et sCchage sur 
+
+MgS04, le solvant est CliminC. Le rCsidu est recristallisk a froid dans 
+le melange acttate d'CthylelCther de pCtrole; F = 198°C; Rdt = 91%; 
+1R v : 1795 (C=O lactame), 1727 (C=O ester); RMN 'H (80 MHz) 
+6 : 2,91 et 3,82 (systkme AB, J = 18,4; H2); 3,80 (s; C02CH3); 5,14 
+et 5,41 (systkme AB, J = 10,4; CH2Br); 5,62 (s; H7). Anal. calc. 
+pour C23H17N204SBr: C 53,80, H 3,34, S 6,25; tr.: C 53,69, H 
+3,44, S 6,37%. 
+
+7. Synthdse du compose' 8 
+Du nitrate d'argent (7 x lop4 rnol) est ajoutC, sous agitation magnC-
+
+tique, a une solution de 7 x 
+
+rnol de bromornCthylcCpheme 7 
+dans 10 cm3 d'acetonitrile anhydre. Le mClange est abandonnC sous 
+
+agitation pendant 24 h a la tempkrature ambiante et I'abri de la 
+
+lumikre. Le solvant est alors CliminC et le rCsidu repris avec du dichlo-
+
+romCthane, puis lavC a l'eau. Aprks sCchage sur MgS04, le dichloro-
+
+methane est Climint et le produit obtenu recristallisk froid dans le 
+mClange acCtate d'ithyleltther de pCtrole; F = 179°C; Rdt = 89%; 
+IR v : 1805 (C=O lactame), 1727 (C=O ester); RMN 'H (80MHz) 
+6 : 2,82 et 3,70 (systkme AB, J = 19,2; H2); 3,69 (s; C02CH3); 5 3 3 
+(s; H7); 5,91 et 6,24 (systkme AB, J = 12,4; CH20N02). Spectro-
+mCtrie de masse (Varian Mat 112) : [MI* = 495. Anal. calc. pour 
+C23H17N308S.1/2H20: C 54,76, H 3,57, S 6,35; tr. : C 54,77, H 
+
+8. ,SynthGse de la lactone 9 
+A une solution de 4 X 
+rnol de bromomCthylcCph~me 7 , dans 
+20 cm3 d'acCtone, est ajoutCe 8 x 
+rnol de fluoroborate d'argent 
+(celui-ci, soluble dans l'eau et dans I'acCtone, est prCparC par action 
+de 2 rnol de HBF4 sur 1 rnol de AgC03, lui-mCme obtenu par action de 
+NaHC03 sur une solution de AgN03). Le melange est maintenu a 
+
+reflux sous agitation rnagnktique, pendant 24 h, a l'abri de la lumikre, 
+
+puis concentrk au 114. Du dichloromCthane (100 cm3) et 200 cm3 d'eau 
+sont alors ajoutks. La phase organique est CpuisCe au dichloromCthane, 
+sCchCe et le solvant CliminC. Le produit ainsi obtenu est recristallisC 
+dans 1'Cthanol; F = 260°C; Rdt = 92% ; IR v : 18 15 (C=O lactame), 
+1770 (C=O lactone); RMN 'H (80 MHz; CDC13/CF3C02H, 90 : 10) 
+6 : 3,15 et 3,40 (systkme AB, J = 16,O; H2); 5,50 (s large; CH2 
+lactone); 5,84 (s; H7). SpectromCtrie de masse (Varian Mat 31 1) : 
+
+Can. J. Chem. Downloaded from www.nrcresearchpress.com by 87.160.185.190 on 03/27/14 
+
+For personal use only. 
+
+
+1130 
+
+CAN. J. CHEM. 
+
+pour [Mlt, masse calculte : 418,062; trouvte : 418,063. Anal. calc. 
+pour CZZHI4NZO5S : C 63,16, H 3,35, N 6,70; tr. : C 62,65, H 3,29, 
+N 6,64%. 
+
+9. Essai d'obtention du formyl-4 cPphPrne 4 a partir du compose' 8 
+De la tritthylamine (6,4 x lop4 mol) est ajoutCe k une solution de 
+3,2 X lop4 mol de composC 8 dans 20 cm3 de chloroforrne. Le mi-
+lange est abandonnC 15 min a la temperature ambiante, puis versC 
+dans 10cm3 d'acide chlorhydrique molaire. Apres Cpuisement au 
+dichloromCthane et sechage sur MgS04, le solvant est CliminC et le 
+rtsidu analyst5 par RMN 'H. C'est un melange de forrnyl-4 cCphkme 4 
+(20%) et d'un isomere (80%) auquel nous avons attribuC la structure 
+A-2 ctpheme CnolisCe 10; les caracteristiques de ces deux produits 
+seront donntes plus loin. 
+10. SynthPse du nitrosopyrazolino-2 ce'pharne 11 b 
+A une solution de 5 x 
+
+mol de pyrazolino-2 cCphame 5 6 dans 
+
+2cm3 d'acide trifluoroacCtique, portCe B O°C, est ajoutte 2,5 X 
+
+mol de nitrite de sodium en solution dans 2cm3 d'eau, sous vive 
+agitation magnttique. Cette agitation est maintenue pendant 5 min, 
+puis le mtlange est verse dans 20cm3 d'eau. Aprks essorage, le 
+produit obtenu est recristallisC dans 1'acCtone; F = 235°C; Rdt quanti-
+tatif; IR v : 1789 (C=O lactame), 1710 (C=O cCtone); RMN 'H 
+(80MHz) 6 : 2,22 (s; COCH,); 33.5 et 3,72 (systeme AB, J = 15,8; 
+H2); 5,99 (d, 3~ = 2,O; H4); 6,08 (s; H7); 7,85 (d, 3~ = 2,O; H4'). 
+SpectromCtrie de masse (Varian Mat 1 12) : ion fragment [M -COCH3 
+-NO]+ = 402. 
+11. SynthPse des brornopyrazolino-1 ce'pharnes 12 
+Du N-bromosuccinimide (3,3 x 
+mol) est ajoutC, sous agita-
+
+tion magnktique, i une solution de 3 x 10-3mol de pyrazolino-2 
+
+cCphame 5 dans 100 cm3 d'acitone. Le mClange est abandonnC 1 h ? i 
+la 
+temp6rature ambiante et le solvant CliminC. Le rksidu est repris par 
+50 cm3 de dichloromCthane, puis lavt successivement par une solution 
+saturCe d'hydrogCnosulfite de sodium, une solution saturCe d'hydro-
+gCnocarbonate de sodium et h I'eau. Aprks sCchage sur MgS04 et 
+elimination du solvant, le rCsidu est recristallist dans I'tthanol. 
+12a : F = 188°C (dCc.); Rdt = 87%; IR v : 1790 (C=O lactame), 
+1730 (C=O ester); RMN 'H (80 MHz) 6 : 3,26 et 3,63 (systeme AB, 
+J = 16,O; H2); 3,94 (s; C02CH3); 5,35 (d, 3~ = 6,O; H4); 5,75 (s; 
+
+H7); 6,25 (d, 3~ = 6,O; H4'); RMN I3c 6 : 28,l (t, 'J = 148; C2); 
+
+54,2 (q, 'J = 148; C02CH3); 58,8 (d, 'J = 152; C4); 6 8 3 (d, 'J = 
+153; C7); 71,6 (s large; C6); 79,9 (d, 'J = 168; C4'); 93,O (s large; 
+C3); 166,O (s; C8); 166,7 (s large; C02CH3). Anal. calc. pour 
+C23H17N405SBr:C51,02, H 3,14, N 10,35;tr.: C51,18,H3,30, N 
+10,23%. 
+126 : F = 195-200°C (dtc.); Rdt = 89%; IR v : 1787 (C=O lac-
+tame), 1725 (C=O cttone); RMN 'H (80 MHz) 6 : 2,59 (s; COCH3); 
+3 3 3 (s large; H2); 5,39 (d, 3~ = 5,O; H4); 5,87 (s; H7); 6,35 (d, 3J = 
+
+5,O; H4'); RMN I3c 6 : 26,6 (q, 'J = 129; COCH3); 27,5 (t, 'J = 
+
+146; C2); 55,4 (d, 'J = 151; C4); 68,l (d, 'J = 155; C7); 70,7 
+(s large; C6); 7 9 3 (d, 'J = 171; C4'); 98,8 (s large; C3); 165,7 (s; 
+C8); 199,9 (s large; COCH3). Anal. calc. pour C23H17N404SBr : C 
+52,57, H 3,24, N 10,66; tr:': C 52,47, H 3,45, N 10,79%. 
+
+12. SynthPse du phe'r~ylse'le'nopyrazolino-1 cPphame 13a 
+Du chlorure de benz&amp;nesClCnenyle 
+mol) est ajoutC a une solu-
+tion de lo-' mol de pyrazolino-2 ctphame 5 a dans 50 cm3 de dichlo-
+
+romCthane. Le mtlange est maintenu 18 h A reflux. Apres Climination 
+
+du solvant, le rCsidu est recristallis6 dans l'acttone; F = 236°C; 
+Rdt = 95%; IR v : 1791 (C=O lactame), 1733 (C=O ester); RMN 
+'H (80 MHz) 6 : 3,13 et 3,56 (systkme AB, J = 15,4; H2); 3,72 (s; 
+C02CH3); 5,06 (d, 3~ = 6,8; H4); 5,69 (s; H7); 5,82 (d, 3~ = 6,8; 
+
+H4'); RMN 13C 8 : 28,l (t, 'J = 145; C2); 53,8 (q, 'J = 148; 
+C02CH3); 55,l (d, 'J = 150; C4); 66,3 (d, 'J = 153; C7); 71,4 (s 
+large; C6); 85,6 (d, 'J = 156; C4'); 91;6 (s large; C3); 165,9 (s 
+
+large; C02CH3); 167,O (s; C8). Spectre de masse (Varian Mat 31 1) : 
+pour [Mlt, masse calculCe : 590,041; trouvte : 590,041. Anal. calc. 
+pour C29H22N405SSe.H20 : C 54,80, H 3,78, N 8,81; tr. : C 55,12, 
+H 3 3 5 , N 8,96%. 
+
+13, Obtention du pyrazole 1 4 
+A une solution de 3 x lop4 mol de bromopyrazolino-1 cCphame 
+
+VOL. 67, 1989 
+
+12, dans 40 cm3 de mtthanol, est ajoutee 3 x 
+mol de potasse en 
+solution dans le minimum de mtthanol. Le mClange est maintenu 
+20min sous agitation magnktique, i la temperature ambiante, puis 
+additionnt de 25 cm3 d'acide chlorhydrique 0,5 M. Apres extraction 
+
+au dichloromtthane, la phase organique est lavCe a l'eau, puis sCchCe 
+
+sur MgS04 et le solvant Climint. Les cristaux obtenus aprks addition 
+de 20 cm3 d'tther sont recristallises dans 1'Cthanol; F = 260°C; Rdt = 
+87%; IR v : 3260, large (NH), 1795 (C=O lactame); RMN 'H (80MHz; 
+CDC13/CF3C02H, 90 : 10) 6 : 3,50 et 4,2 1 (systeme AB, J = 18,4; 
+H2); 5,78 (s; H7); 8,49 (s; H pyrazole). Spectromttrie de masse 
+(Varian Mat 112) : [MI? = 402. 
+
+14. Oxydation avec 1 'anhydride benzPnesPlPninique 
+( a ) Synthdse des formyl-4 ce'phkrne 4 et forrnyl-4 cipharne 15 
+Une solution de 2 X 
+mol de pyrazolino-2 cCphame 5 a dans 
+100 cm3 de toluene est portCe i reflux sous vive agitation. Sont alors 
+ajoutCes lo-' mol dlhydrogCnocarbonate de sodium en poudre, puis 
+
+2,2 x lop3 mol d'anhydride benzbnesC1Cninique. Le mClange est main-
+tenu 5 min i reflux sous vive agitation magnCtique, puis lave avec 2 
+
+fois 50 cm3 d'eau, sCchC sur MgS04 et le solvant Climint. Le produit 
+brut, analysC en RMN 'H, montre la formation des composCs 4 (68%) 
+et 5 (32%). I1 est repris par un mClange de tttrachlorure de carbone 
+(20cm3) et dlacCtone (10cm3). Le milieu, abandonnt a l'air libre, 
+laisse dCposer les aldehydes, qui sont sCparCs par recristallisation a 
+chaud dans 1'acCtate dlCthyle. 
+4 : F = 241°C; Rdt = 50%; IR v : 1808 (C=O lactame), 1735 
+(C=O ester), 1729 (C=O aldChyde); RMN 'H (80MHz) 6 : 2,98 
+et 3,82 (systeme AB, J = 19,2; H2); 3,79 (s; C02CH3); 5 3 5 (s; 
+H7); 10,25 (s; CHO); RMN 13c 6 : 26,O (t, 'J = 147; C2); 53,O (q, 
+'J = 148; C02CH3); 65,6 (d, 'J = 153; C7); 69,O (s; C6); 117,8 
+
+(s large; C3); 141,3 (s large; C4); 159,5 (s; C8); 165,2 (s large; 
+C02CH3); 184,9 (d, 'J = 199; CHO). Anal. calc. pour C23H1&amp;06S : 
+C 61,61, H 3 3 7 , N 6,25; tr. : C 61,50, H 3,48, N 6,32%. 
+15 : F = 229°C; Rdt = 10%; IR v : 1800 (C=O lactame), 1733 
+(C=O ester), 1726 (C=O aldthyde); RMN 'H (300MHz): sys-
+tkme ABCX analysC par dCcouplage successif des diffkrents protons, 
+6 : 2,82 (A) (H2); 3,06 (C) (H3); 3,17 (B) (H2); 5,56 (X) (H4); 
+
+JAB = 14,5; JAC = 11,4; JBC = 2,7; JBX = 0,8; Jcx = 5,2; JH3H4' = 
+
+1 ,I; 6 : 3,70 (s; C02CH3); 5,54 (s; H7); 9,78 (d, JH4sN3 = 1 H4'); 
+
+RMN I3c 6 : 24,3 (t, 'J = 143; C2); 40,2 (d, 'J = 125; C3); 52,4 (q, 
+
+'J = 148; COZCH3); 5 7 3 (d, 'J = 138; C4); 69,l (d, 'J = 156; C7); 
+71,O (s; C6); 163,5 (s; C8); 169,3 (s large; COZCH3); 193,7 (d, 'J = 
+184; CHO). SpectromCtrie de masse (Varian Mat 31 1) : pic molCcu-
+laire correspondant h C23H18N206S ( M = 450) trop faible pour mesu-
+rer la masse exacte; ion fragment [M -0CH3]t, masse calculCe : 
+419,070; trouvie : 419,07 1. 
+
+( b ) Obtention du 4 -2 cPphPrne 1 0 
+De la triethylamine 
+
+mol) est ajoutCe ti une solution de 2 x 
+
+mol de cCpheme 4 dans 15 cm3 de dichloromCthane anhydre. La 
+
+solution se colore immkdiatement et, apres 5 min 2 la tempCrature 
+
+ambiante, elle est versCe dans 25 cm3 d'acide chlorhydrique 0,2 M. 
+Apres extraction au dichloromCthane, la phase organique est sCchCe 
+sur MgS04, puis le solvant est CliminC. L'analyse en RMN 'H montre 
+que le produit obtenu est un mClange des composCs 4 (20%) et 10 
+
+(80%). La recristallisation, i chaud dans I'acCtate d'Cthyle, permet 
+
+d'isoler 10 pur; F = 230°C; Rdt = 75%; IR v : 1795 (C=O lactame), 
+1720 (C=O ester) ; RMN 'H (80 MHz) 6 : 3,75 (s; C02CH3) ; 5,6 1 
+(s; H7); 7,12 (s imbriquC dans les signaux du noyau phCnyle) et 7,73 
+(s) (H2 et =CHOH); le signal relatif au proton Cnolique n'est pas 
+dCtectC; RMN 13C 6 : 52,3 (q, 'J = 148; C02CH3); 65,2 (d, 'J = 
+156; C7); 68,2 (s; C6); 1 10,7 (s) et 1 18,3 (s large) (C3 et (ou) C4); 
+126,5 (d, 'J = 180; C2); 141,4 (d, 'J = 190; =CHOH); 161,O (s; 
+C8); 163,2 (s large; C02CH3). SpectromCtrie de masse (Varian Mat 
+3 11) : pour [M]t &lt; c ~~H ~~N ~o ~s ) 
+masse calculCe : 448,072; trouvte : 
+448,072. 
+
+( c ) Obtention du 4-H ckph2rne 1 7 a partir du bromopyrazolino-1 
+ckpharne 12a 
+(1) Synthbe des brornopyrazolino-2 ckpharnes 1 6 : 
+mol de 
+
+triCthylamine est ajoutCe 2 une solution de 3 x 
+
+mol de bromo-
+pyrazolino-1 cCphame 12 dans 30 cm3 de dichloromCthane et le mt-
+
+Can. J. Chem. Downloaded from www.nrcresearchpress.com by 87.160.185.190 on 03/27/14 
+
+For personal use only. 
+
+
+TULOUP ET AL. 
+
+1131 
+
+lange est maintenu au reflux pendant 2 h. Aprks elimination du solvant 
+et de la triCthylamine, le produit obtenu est recristallisC dans I'Cthanol. 
+16a : F = 248°C; Rdt = 90%; IR v : 3335-3280 (NH), 1780 (C=O 
+lactame), 173 1 (C=O ester); RMN 'H (80 MHz; CDC13/CF3C02H, 
+90: 10) 6 : 2,81 et 3,36 (systkme AB, J = 14,4; H2); 3,92 (s; C02CH3); 
+
+5,66 (s; H7); 6,18 (s; H4); RMN I3c (CDC13/CF3C02H, 90 : 10) 6 : 
+
+29,4 (t, 'J = 145; C2); 54,9 (q, '3 = 149; C02CH3); 64,2 (d, 'J = 
+150; C4); 66,4 (s large; C6); 67,O (d, 'J = 154; C7); 74,O (s large; 
+C3); 133,4 (s large; C4'); 167,6 (s; C8); 169,9 (s large; C02CH3). 
+Anal. calc. pour C23H17N405SBr: C 51,02, H 3,14, N 10,35; tr. : C 
+50,97, H 3,32, N 10,22%. 
+16b : F = 257°C; Rdt = 90%; IR v : 3330-3280 (NH), 1787 (C=O 
+lactame), 1724 (C=0 &amp;tone); RMN 'H (80 MHz; CDC13/CF3C02H, 
+90: 10) 6 : 2,41 (s; COCH,); 2,84 et 3,30 (systkme AB, J = 15,6; 
+
+H2); 5,72 (s; H7); 6,03 (s; H4); RMN I3c (CDC13/CF3C02H, 90 : 10) 
+
+6 : 25,4 (q, 'J = 129; COCH,); 28,7 (t, 'J = 143; C2); 63,2 (d, 'J = 
+149; C4); 67,2 (d, 'J = 154; C7); 70,s (s large; C6); 73,s (s large; 
+C3); 133,6 (s large; C4'); 167,4 (s; C8); 204,s (s large; COCH3). 
+Anal. calc pour Cz3H17N404SBr: C 52,57, H 3,24, N 10,66; tr. : C 
+52,93, H 3,40, N 10,24%. 
+(2) Synrhsse du ckph2rne 17 : 1,98 X 
+mol d'anhydride ben-
+zknesCl6ninique est ajoutCe B une solution de 3 X 
+mol de bromo-
+pyrazolino-2 cCphame 16a dans 25 cm3 de dichloromCthane. Le melange 
+est maintenu 2 h sous agitation magnttique, B la tempirature ambiante. 
+Aprks lavage par une solution saturie d'hydrogCnocarbonate de sodium, 
+puis B I'eau, la phase organique est sCchCe sur MgS04. Le produit 
+obtenu aprks Climination du solvant est recristallisC dans 1'Cthanol; 
+F = 253°C; Rdt = 77%; IR v : 1805 (C=O lactame), 1723 (C=O 
+ester); RMN 'H (80MHz) : Systkme ABX (H2 et H4) 6 : 2,35 (A); 
+
+1 
+
+3,80 (B) et 8,27 (X); JAB = 18,4; JAX = 2,2 et JBX = 0,O; 6 : 3,90 (s 
+
+I 
+
+C02CH3); 5,78 (s; H7). SpectromCtrie de masse (Varian Mat 112), 
+
+, 
+
+[MI* = 420. Anal. calc. pour C22H16N205S.H20 : C 60,27, H 4,10, 
+
+I 
+
+N 6,39; tr. : C 60,89, H 3,89, N 6,42%. 
+
+1 
+
+I. (a) J. C. MESLIN et H. QUINIOU. Bull. Soc. Chim. Fr. 347 
+
+I 
+
+(1979); (b) J. P. P R A D ~R E , 
+J. C. RozB, H. QUINIOU, R. DANION-
+BOUGOT, D. DANION et L. TOUPET. Can. J. Chem. 64, 597 
+(1986); (c) M. CHEHNA, J. P. P R A D ~R E 
+et A. GUINGANT. Synth. 
+Comm. 17, 1971 (1987); (d) D. L. BOGER et S. M. WEINREB. 
+
+Hetero Diels-Alder methodology in organic synthesis. Vol. 47. 
+Academic Press, New York, London. 1987. 
+2. C. G. TEA, J. P. P R A D ~R E , 
+J. VILLIERAS et H. QUINIOU. Tetra-
+hedron Lett. 24, 3713 (1983); C. G. TEA, J. P. P R A D ~R E , 
+B. 
+BUJOLI, H. QUINIOU et L. TOUPET. Bull. Soc. Chim. Fr. 149 
+(1987). 
+3. R. DANION-BOUGOT, D. DANION, J. P. P R A D ~R E , 
+J. C. RozB, 
+H. QUINIOU et A. J. Kos. Sulfur Lett. 3, 51 (1985). 
+4. B. CHRISTIENSEN, K. HOOGSTEEN, F. FLAVAC et R. RATCLIFFE. 
+Dans Recent advances in the chemistry of p-lactam antibiotics. 
+Edireur : J. Elks. The Chemical Society, Special publication no 
+28. 1977. chap. 26. 
+5. A. K. BOSE. Org. Synth. Coll. Vol. V, 973 (1973); J. C. SHEEHAN, 
+D. W. CHAPMAN et R. W. ROTH. J. Am. Chem. Soc. 74, 3822 
+(1952). 
+6. E. FLYNN. Cephalosporins and penicillins. Academic Press, New 
+York, London. 1972. Chap. 3, 4 et 5. 
+7. H. PETER et H. BICKEL. Helv. Chim. Acta, 57, 2044 (1974); H. 
+PETER, B. MWLLER et H. BICKEL. Helv. Chim. Acta, 58, 2450 
+(1975). 
+8. L. CAGLIOTTI, F. GASPARRINI, D. MISITI et G. PALMIERI. Syn-
+thesis, 207 (1979) et rCf. citkes; B. DAKOVA, M. EVERS, L. 
+CHRISTIAENS et M. GUILLAUME. Bull. Soc. Chim. Belg. 96, 219 
+(1987) et ref. cities; T. CHIBA, M. OKIMOTO, H. NAGAI et Y. 
+TAKATA. J. Org. Chem. 48, 2968 (1983) et rCf. citCes. 
+9. L. BEHR, R. FUSCO et C. JARBOE. Pyrazoles, pyrazolines, inda-
+zoles and condensed rings. Editeur : R. Wiley. Interscience Pub-
+lishers, J. Wiley and Sons, New York, London. 1967. 
+10. D. H. R. BARTON, D. J. LESTER et S. V. LEY. J. Chem. Soc. 
+Chem. Commun. 277 (1978); J. Chem. Soc. Perkin Trans. 1, 
+1212 (1980). 
+11. R. TULOUP, R. DANION-BOWGOT, D. DANION et J. P. P R A D ~R E . 
+Tetrahedron Lett. 29, 6249 (1988). 
+12. E. FAHR et H. LIND. Angew. Chem. Int. Ed. Engl. 5, 372 
+(1966); R. KENT et J. P. ANSELME. Can. J. Chem. 46, 2322 
+(1968). 
+13. J. C. RozB. Thkse de Doctorat d ' ~t a t , Nantes (1986); M. CHEHNA. 
+Thkse de Doctorat d'Etat, Nantes (1987). 
+14. T. J. DE BOER et H. J. BACKER. Org. Synth. Coll. Vol. IV, 250 
+(1 967). 
+
+Can. J. Chem. Downloaded from www.nrcresearchpress.com by 87.160.185.190 on 03/27/14 
+
+For personal use only. 
+
+
+
+	
+

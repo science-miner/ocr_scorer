@@ -1,0 +1,1018 @@
+
+	
+
+		
+
+	
+
+	
+
+Transposition des cations radicaux amines en spectrometrie de masse 
+
+HENKI E D ~U A K D 
+AUDIEK, JEAN PIERRE DENI-IEZ, AKIELLE MILLIET ET G E ~K G E S 
+SOZZI 
+
+Lrrhorrr!oirc, rle S~r1111fise Orgrrr~irl~re. Ecwle Pol~!er.llr~irl~re. 91 I28 Prrlrri.secr~r Cerler. Frrrr1c.e 
+
+Rcqu Ic I I juillct I983 
+
+Cc&gt; !r.ri~~rri/ e.s! c/br/icercc; ( I L I Prr~fe.s.sc~~rr~ E , Lc~r/erer h /'o(~(~r1,sio11 r/c&gt; .so11 756111c&gt; r ~r ~~f i ~~e r ~. s ( r i r ~~ 
+
+HENRI EDOUAKD AUDIEK, J E A N PIERRE D E N ~I E Z , 
+ARIELLE MILLIET ct GEOKGES SOZZI. Can. J . Chcm. 62, 93 1 (1984). 
+
+11 cst montrd cn spcctromctric dc niassc, quc Ics cations radicaux dc faiblc Cncrgic intcrnc dcs alkylnniines substituecs cn 
+position 2. s'isomdriscnt au travcrs d'intcrmcdiaircs constituCs par dcs cyclopropancs ionisds. liCs h unc molCculc d'arnnioniac. 
+Cc proccssus cst induit par Ic transfcrt sur I'azotc d'un hydrogknc dc la chainc situc cn position.3. L'ouvcrturc ct la dissociation 
+dc ces co~nplcxcs conduiscnt h dcs ions fragments rrl/r 44. 58 ct 72 dc structure [CH1(CH2),,CH NH2]. LC nikcanisme dc lcur 
+formation cst dCmontrd par Ics donnCes dcs spcctrcs MlKE dc composCs niarquCs, soit au "C, soit au dcutCriuni. Lcs rCsultats 
+cxpcrimcntaux sont cn accord avcc ccux prCcCdcnimcnt obtcnus par Gross ct coll. qui ont CtudiC Ics produits dc fragmentation 
+du complexc rCsultant clc la rCaction cntrc unc moldculc d'amnioniac et dcs cyclopropancs substituCs ionisds. cn phasc gazcusc. 
+
+HENRI EDOUARD AUDIER, JEAN PIERRE DENHEZ, ARIELLE MILLIET, and GEORGES SOZZI. Can. J . Chcni. 62, 93 1 (1984). 
+
+It is dcnionstratcd in mass spcctromctry that alkylamincs substitutcd at C2 and containing weak internal cncrgy isorncrizc 
+in thc gas phasc into intermediary ions composcd of ionizcd cyclopropanes co~nplexcd with an ammonia niolcculc. This process 
+is induced by a C3 hydrogen shift on thc nitrogen atom.. Aftcr opening of thc cyclopropanc, thc dissociation of thcsc complcxcs 
+lcads to rn/z 44, 58. and 72 ions having [CH3(CH2),,CH NHZ] structures. Thc nicclianisni of thcir formation is dcmonstratcd 
+
+by thc MlKE spectra of I3C and deutcriurn labcllcd compounds. Thc cxpcrirncntal rcsults arc in good agrccment with thosc 
+
+described by Gross e! ell.. who studied thc fragmcntation of thc complcxcs fornicd during thc reaction bctwccn substitutcd 
+ionizcd cyclopropancs and ammonia in thc gas phasc. 
+
+Introduction 
+Dans un travail prkliminaire, un mecanisme de transposition 
+des chaines alkylCes a Ct C proposC ( I ) pour expliquer la Crag-
+mentation en phase gazeuse de cations radicaux organiques de 
+faible Cnergie interne. 
+Ce mode de rkarrangenient (schema I ) a Ct C mis en evidence 
+Iors de I'Ctude des Cthers ( I . 2), des benzoates d'alkyle (3) et 
+de I'acide isopentao'ique (4). 
+II est induit par le transfert d'un hydrogkne de la chaine sur 
+la fonction prCsente dans la molCcule, conduisant h un inter-
+mCdiaire dans lequel un ion cyclopropanique substitue est lie a 
+une molCcule neutre. 
+Le mCme mode de transposition est observe pour les amines. 
+Alors qu'a 70 eV, le spectre de masse des ions aminks 
+[R-CH?-NH?]" 
+ne prCsente qu'un seul pic trks intense: m / z 
+
+30 (CHI -NH?). ce pic est le plus souvent absent du spectre 
+
+MlKE dks lors que la longueur de la chaine exckde trois car-
+bones ( I , 5-7). Des pics intenses apparaissent a m / z 44, 58, 
+72. etc. . . Ils correspondent h des ions plus substitues et donc 
+plus stables dont la formation implique-une transposition prC-
+alable de la niol6cule. 
+Ainsi la dCcomposition metastable de I'isoamylamine (1) 
+conduit h I'obtention d'un ion fragment abondant m / z 58 de 
+
+. . . . 
+
+structure [(CH3)?-C ' -NH,] (8) dont la formation a Ct C expli-
+
+. . 
+
+quie par le mCcanisme reprCsentC schCma 2. 
+
+. . 
+
+Afin de vCrifier la validit6 et la gCnCralit6 de ce mCcanisme, 
+les amines alkylCes et substituees en position 2 ont Ct C CtudiCes 
+dans ce travail (1 h 5. schCma 3). 
+
+Resultats et interpretation 
+I . Dotltlkes e,rpkritnc~tltcrles 
+(a) Les spectres MlKE des Ions 1 a 5 (tableau 1 ) prksentent: 
+des ions correspondant h I'Climination d'un radical (tn/z 44, 
+58, 72 et m / z 30 dans le seul cas de 1) qui sont gCn6ralement 
+intenses; des ions dCcoulant de la perte d'une molCcule d'alckne 
+dks lors que la chaine principale contient cinq carbones au 
+moins (ions m / z 59 et 73 dans les amines 3 et 5); des ions m / z 
+
+32, [CH3-NH3]' de faible abondance; enfin des ions [M -
+NH31k dont 1'Ctude est rendue difficile par la presence frC-
+quente d'ions situCs a une unite de masse inferieure et dont 
+I'origine n'a pu Ctre prCcisCe. 
+(b) Les spectres ont Ct C compares h ceux d'amines isonikres. 
+Seuls ont Ct C rapportCs les rCsultats relatifs aux aniines 6 a 10 
+h cinq atomes de carbone, isomeres de 2. Tous ces spectres 
+diffkrent fondamentalement de celui de 2, ce qui indique que 
+cette amine ne s'isomCrise pas en une forme molCculaire ioni-
+see avant dissociation. 
+(c) TOUS les pics correspondant h la perte d'un radical sont 
+fins, les valeurs de 
+Ctant faibles et inferieures a 0,020 eV 
+(tableau 2). 
+(d) Les structures des ions tn/z 44 et 58 ont dCja fait l'objet 
+d'une Ctude particulitre (8). Dans le cas des amines 1 4 , I'ion 
+m / z 44 a toujours la structure [CH3-CH-NH?]' 
+et I'ion m / z 
+
+58: [CH3-CH,-CH-NH?I t . 
+
+(e) Enfin de nombreux composCs marques ont CtC prCparCs 
+(tableaux 3, 4 et 5). 
+
+2. Les spectres MlKE des c.otnpo.sks 1 ci 5 ct de leurs de'rivks 
+
+tnclrquks sotlt en clcc.ord llvec. le mkctrtlisme d'isotne'ri-
+sntiotl proposk 
+R~ipt~ires simples et re'crrrc~~lget~~olrs 
+Le comportement de I'isobutylamine 1 se distingue nette-
+ment de celui des homologlies supkrieurs 2 a 5: le pic tn/z 30 
+est trks intense dans le spectre MlKE de 1 (tableau I); i l est 
+totalement dCplace a tn/z 32 pour I'isobutylamine I, I-d? et 
+correspond donc a une rupture simple; et les pics tnlz 44 et 58 
+sont de trks faible intensitk. 
+Par contre I'absence de pic tn/z 30 dans les spectres MIKE 
+des amines 2 a 5 (tableau I ) , I'Climination totale des hydro-
+gknes en position 1 lors de la formation des ions m / z 44 no-
+tamment (tableaux 3, 4 et 5) prouvent qu'il y a rearrangement 
+des ions molCculaires avant leur dissociation. 
+En particulier, les spectres MlKE des amines isomkres 3 et 
+4 prksentent des pics intenses aux mCmes unitCs de masse avec 
+des valeurs de T0,5 trks proches. Seules les intensitCs respectives 
+Can. J. Chem. Downloaded from www.nrcresearchpress.com by 87.160.185.190 on 03/27/14 
+
+For personal use only. 
+
+
+CAN. J . CHEM. VOL. 62, 1984 
+
+TABLEAU 1 . Spectres MIKE des composCs 1 a 10 (intensitks relatives) 
+
+m / z 
+
+ComposC 
+30 
+31 
+32 43 44 45 
+55 56 57 
+58 
+59 
+69 
+70 
+72 
+73 83 84 
+8 6 8 7 97 
+98 
+
+TABLEAU 2. Valeurs de T (meV) pour les 
+transitions M + m / z 44, m / z 58, m / z 72 
+
+T (meV) 
+
+ComposC 
+
+m / z 44 
+
+m / z 58 
+m / z 72 
+
+des pics et notamment l'existence d'un pic important B m/z 59 
+
+pour 3 , permettent de differencier les deux spectres. Ces obser-
+vations suggkrent l'existence d'intermediaires de fragmen-
+tation communs. 
+
+Me'canisme de rCarrangement de la me'thyl-2 pentylainine 3 
+La fragmentation de l'amine 3 est prCcCdCe d'un Cchange des 
+hydrogknes du groupe NH, (tableau 3: 3a). Toutefois cet 
+Cchange n'implique pas les hydrogknes en position 1 (3b) ou 2 
+(3c); la m&amp;me observation a dejh Ct C faite pour les amines 
+lineaires (7). Les hydrogknes portes par le C3' ne s'echangent 
+que lentement; par contre, ceux portis par les groupes CH2 sont 
+nettement impliques (3e). C'est donc par la migration sur 
+l'azote de l'un des hydrogknes echangeable que dibute la frag-
+mentation; cette premiere etape conduit aux ions a , b et c 
+(schema 4). 
+Les ions a et b conduisent aux formes d dans lesquelles un 
+ion cyclopropane ionise est lie a une molecule d'ammoniac. 
+Ces entites s'isomerisent par fixation de NH, sur un carbone 
+substitue du cyclopropane qui s'ouvre pour donner les ions 
+intermediaires de type e dont la dissociation conduit aux ions 
+Can. J. Chem. Downloaded from www.nrcresearchpress.com by 87.160.185.190 on 03/27/14 
+
+For personal use only. 
+
+
+fragments m/z 44, 58 et 72 (schtma 4). 
+Les mtcanismes de formation de ces fragments sont con-
+firmts par l'ttude des spectres des composts sptcifiquement 
+marques (tableau 3). (i) La formation de l'ion nz/z 44, de 
+structure [CH3-CH-NH?] 
+
+' (8), se produit avec retention des 
+
+hydrogknes du C2 (3c) et du groupe CH3 en position 3' (3~1, 3 f 
+et 3g) mais avec tlimination des hydrogknes du C 1 (3b), ce qui 
+est conforme au mtcanisme propost. (ii) Le pic m/z 72 est 
+
+deplace m/z 74 pour le compost 3b, a m/z 73 pour 3c et 3 f, 
+
+ti m/z 75 pour 3d et 3g, ce dont rend compte le schema 4. (iii) 
+Enfin, conformtment i ce schtma, I'ion m/z 58, de structure 
+
+[CH,-CHI-CH-NH2It 
+(8), a deux origines. Pour 20% 
+environ (tableau 3) cet ion se forme k partir de a avec tlimi-
+nation des hydrogknes portts par les carbones C 1, C2 et C3'. 
+La fraction dominante de l'ion m/z 58 dtcoule de b: selon ce 
+
+mtcanisme, l'ion est dtplact a m/z 59 pour 3c et 3 f, h 60 pour 
+
+3b et a 61 pour 3d et 3g. 
+Dans les dtrivts marquts pour lesquels il y a tchange 
+d'hydrogkne avant isomtrisation, les rtsultats exptrimentaux 
+
+ont t t t comparts 2 ceux d'un calcul statistique en supposant 
+
+I'tchange rapide d'atomes d'hydrogkne portts par le groupe 
+NH, avec les quatre portts par les groupes CH2 en positions 3 
+et 4. Un tel calcul revient a rechercher par exemple dans le 
+dtrivt 3a, les intensitts respectives des pics m/z 44, 45 et 46 
+en considtrant un systkme H4D2 (9) avec retention de deux de 
+ces atomes dans I'ion comme le prtvoit le mtcanisme propose. 
+Les bonnes corrtlations obtenues pour les dtrivts 3a (H4D2) et 
+3e (H4D2 avec retention du groupe CD3) confirment que 
+I'tchange des hydrogenes en 3 et 4 est facile et celui des 
+hydroghnes en 3' beaucoup plus lent (tableau 3). 
+Enfin l'ion c ne saurait 6tre precurseur des ions fragments 
+ttudits: en effet, la fixation de NH, sur le carbone 4 a partir de 
+c conduirait a un ion m/z 44 contenant les carbones 4 et 5, ce 
+qu'infirment les spectres des dtrivts marques. Par contre, par 
+rupture simple, c donne l'ion m/z 59 (schema 4). 
+
+Intermkdiaires de fragmentation commurzs a la me'thyl-2 
+
+pentylamine 3 et a l'e'thyl-2 blitylamine 4 
+
+Du fait de son caractere symktrique, la fragmentation de 
+I'amine 4 est plus simple (schtma 5). Le transfert d'un hydro-
+gkne de la position 3 sur I'azote conduit au complexe d l , puis 
+aprhs isomtrisation a dl et d3. 
+Les ions m/z 44, 58 et 72 dtcoulent des ruptures de d2 et d3. 
+Les intermtdiaires d l , d2 et d3 sont identiques a ceux formts 21 
+partir de l'amine 3 (schtmas 4 et 5): l'identitt des valeurs de 
+
+TOlj pour les ions m/z 44 et 72 (tableau 2) dans les spectres de 
+
+3 et 4 ttmoigne de l'existence de ces intermtdiaires communs. 
+Les composts marquCs (tableau 4) corroborent le mt-
+canisme: il y a tlimination des H1 et H2 lors de la formation 
+de l'ion m/z 44, retention de ces hydrogknes lors de celle de 
+I'ion m/z 72 et tlimination des H l lors de celle de I'ion m/z 58. 
+I1 y a par ailleurs tchange rapide des H3 et H4 avec ceux du 
+groupe NH2 avant isomtrisation. 
+Les comportements de 3 et 4 se distinguent toutefois sur 
+deux points: ( i ) le pic m/z 58 est nettement plus intense dans 
+le spectre de 3: comme il a t t t montrt, la fraction principale de 
+ce pic provient dans ce compost de la fragmentation de I'ion b 
+qui ne peut se former a partir de 4 (schtma 4); I'tlimination 
+d'alchne est une fragmentation importante pour I'amine 3 (mlz 
+59, [M -C3H61t) alors que le pic correspondant m/z 73 [M -
+C2H41t est pratiquement inexistant dans le spectre de 4. La plus 
+grande stabilitt de la moltcule de propkne par rapport a celle 
+d'ethylkne serait a l'origine de ce phtnomkne. 
+
+ET AL. 
+
+-
+
+al 
+
+u 
+
+X 
+
+B 
+
+L 
+
+. -
+
+0 
+
+I 
+
+V1 
+
+w 
+
+2 
+
+3 0 
+
+-
+
+m 0 
+
+M 
+
+3 
+
+[r 
+
+. -
+
+u V1 
+
+. -
+
+u 
+
+m 
+
+u 
+V1 
+
+2 
+
+0 
+
+. -
+
+u 
+
+.-
+
+5 a 
+
+2 
+
+V1 
+
+w 
+
+-
+
+V1 
+
+2 
+
+rw 
+
+G 
+
+C 
+
+2 
+
+m 
+
+a 
+
+2 
+
+u 
+
+C al 
+
+-
+
+m 
+
+w 
+
+u 
+
+V1 
+
+'w 
+
+3 
+
+F 
+
+2 
+
+VJ 
+
+\al 
+
+. -
+
+' a 3 
+
+u 
+
+VJ 
+
+al 
+
+u 
+
+VJ 
+
+2 
+
+u 
+
+0 al 
+
+2 
+
+V1 
+
+al 
+
+-
+
+VJ 
+
+s 
+
+u 
+
+V1 V 
+
+. -
+
+a 
+
+VJ 
+0 
+
+u 
+
+u 
+
+c e, 
+
+E 
+
+U m 
+
+4 
+
+a 
+
+B 
+
+m 
+
+2 
+
+4 
+W 
+
+2 
+
+m 
+
+s 
+
+w 
+
+I I I I I 2 = la, 
+
+I I I 1 1 % ; 
+1 % 
+
+I r n 15 l o w I m 
+
+6 
+
+t-
+
+-m N -
+
+; w 
+
+I m l i d 
+
+-d 
+
+N v l I w h -N 
+
+b m 
+
+d 
+
+$ N 
+
+a, 0 
+
+-?3 " 
+
+m " a , 
+
+2 
+-? 
+
+mC.4 I ---
+1 21 
+
+-
+
+d-4 
+
+X 
+
+-
+
+C 
+
+.-
+
+0 
+
+. &gt; 
+
+--
+
+2 c 
+
+-E 
+
+" 3 
+
+r-4 ' , 
+
+z m 
+
+" " 
+
+-E 
+z ." 
+
+, E 
+
+0 m 
+
+0; g $ 
+' l i .= c 
+
+N m O 
+
+\ c ' = 
+5 '2 c 
+
+" I = -
+
+0 ." '2 
+
+z : : 
+
+g 2 2 
+
+8 m c a 
+
+m m m 
+
+-.,a?-? 
+
+u E E 
+
+a w e , 
+
+u u u 
+
+z z z 
+
+m m m 
+
+5 5 5 
+
+&gt; &gt; &gt; 
+
+% % % 
+
+g g g 
+
+--" 
+
+Can. J. Chem. Downloaded from www.nrcresearchpress.com by 87.160.185.190 on 03/27/14 
+
+For personal use only. 
+
+
+934 
+
+CAN. J. CHEM. VOL. 62. 1984 
+
+TABLEAU 4. Deplacement des pics dans les spectres MIKE des derives marques de 4 
+
+m/z 
+
+TABLEAU 5. Deplacement des pics dans les spectres MIKE des derives marquCs de 2 
+
+DerivC 
+
+44 45 46 47 48 49 58 59 60 61 62 63 
+
+2 
+93 
+7 ----
+92 
+8 ----
+2a 
+N,N-d2 
+1 8 40 42 ---42 48 
+8 
+2 --
+2b 
+1,l-dz 
+94 
+4 
+3 ----
+2 9 4 
+4 --
+2c 
+2-dl 
+41 57 
+2 ---
+20" 79 
+1 ---
+2d 
+3',3',3'-d, 
+32 
+8 
+5 45 
+9 --
+1 2 9 7 --
+2g 
+3,3,3',3',3'-ds -
+8 35 23 29 
+5 --
+2 50 44 
+4 
+2e 
+3'-"C 
+4 3 5 3 
+4 ---
+6 9 1 
+3 ---
+
+2 f 
+
+3.3-d2 
+1 9 40 41 ---45 45 
+9 
+1 --
+2h 
+N,N,3,3-d, 4 25 23 25 23 -1 7 52 25 
+5 
+
+1 
+-
+
+"Ce pic, beaucoup plus fin, correspond tr?s probablement a une impureti qui n'a pu itre Climinee. 
+
+e 2 
+
+-NH, 
++ 
+
+I 
+
+L'ensemble de ces donnees permet de conclure que 3 et 4 se 
+
+arnine 2 montrent tout d'abord que les modes d'echange des 
+fragmentent au travers des intermediaires communs d l , d2 et d3 
+hydrogknes sont les m&amp;mes que ceux deji decrits: absence de 
+
+et que les riactions 3 ou 4 + d ne sont pas rkersibles. 
+participation des H1 et H2, Cchange lent des H3' primaires, 
+Cchange rapide des H3 secondaires (comparaison des spectres 
+La me'thyl-2 butylamine 2 conduit a un interme'diaire dans 
+de 2a et 2 f ) . 
+lequel les carbones en positions 3 et 4 jouent un rSle 
+Le transfert d'un H3 ou d'un H3' conduit aux ions h et i puis 
+syme'trique 
+aux formes cyclopropaniques j. 
+Les composCs marques (tableau 5) de la methyl-2 butyl-
+
+Dans le micanisme propose, I'ion j, etant symetrique doit 
+Can. J. Chem. Downloaded from www.nrcresearchpress.com by 87.160.185.190 on 03/27/14 
+
+For personal use only. 
+
+
+AUDIER ET AL. 
+
+3 
+I 
+
+4+++ 
+
+" , 
+; 
+&gt; e 4 -p : -
+
+/=p -++f 
+
+NH, 
+H , N . ' . ' ~ 
+
++ NH, 
+
+H,N--.H 
+NH2 
+
+SCHEMA 7 
+
+conduire aprks isomCrisation a deux ions m/z 44 de structure 
+a pas isomCrisation kz + 8 ou 9. La formation de l'ion m / z 44 
+CH3-CH-NH2 
+(8) contenant des carbones places diffC-
+?i partir de k2 rCsulte donc de la rupture d'une liaison C-C 
+remment dans l'ion molCculaire initial (schCma 6). 
+concertte avec le transfert sur le radical d'un hydrogkne du 
+ConformCment a ce schCma, le pic m/z 44 est dCplacC envi-
+groupe NH, (schCma 6). 
+
+ron pour moitiC1 2 m/z 45 dans les spectres des dCrivCs 2c et 2e 
+De m&amp;me le spectre de 10 (schema 6) prisente un pic m/z 57 
+et m/z 47 pour 2d tandis que les H1 sont CliminCs (2b) (tableau 
+
+liC a 1'Climination d'ethane, phknomkne qui n'est pas observC 
+
+5). 
+pour l'amine 2 (tableau 1). L'absence d'isomkrisation k5 + 10 
+
+La formation de l'ion m/z 58 CH,CH,--6~-NH, (8) est est confinnee par les spectres des composCs marquis: si un tel 
+
+induite par le transfert sur l'azote d'un hydrogkne en 3' (schC-
+processus avait lieu avant formation de l'ion m/z 58, celui-ci 
+ma 6): il y a bien retention des H1, H2 et H3' (tableau 5). 
+ne conserverait que la moitiC des H1 et des H3', ce qui n'est pas 
+
+Afin de prCciser le mecanisme conduisant a la dissociation de 
+
+le cas (schCma 7). 
+2, le spectre de 2 a tte compare ceux des isomeres 8, 9 et 10. 
+Deux types de facteur dkterminent le mode de fragmentation 
+Le spectre de 8 comme celui de 9 presente un pic intense m/z 
+des ions k (ou des ions e provenant de 3 et 4): (i) la nature du 
+
+43 (tableau 1) lie a 1'Climination d'une molCcule de propane 
+
+radical ClininC n'est pas sans incidence sur le processus. Ainsi 
+(10). Ce pic est totalement absent dans le spectre de 2: il n'y 
+un radical mCthyle s'Climine difficilement: les pics [M -
+CH,]' sont tres gCnCralement de faible intensite ou inexistants 
+
+1 La prtsence d'un pic de faible intensitC m/z 45 dent l'origine n'a 
+
+dans les dCrivCs 1 a 5; (ii) quand un ion de type k eSt susceptible 
+
+pu &amp;tre prtciste rend difficile une apprtciation exacte du taux de 
+dlCliminer deux radicaux identiques mais suivant des Ctats de 
+dtplacement de l'ion m/z 44. 
+transition diffirents ([C2H5]' partir de k5 par exemple: schCma 
+Can. J. Chem. Downloaded from www.nrcresearchpress.com by 87.160.185.190 on 03/27/14 
+
+For personal use only. 
+
+
+CAN. J. CHEM. VOL. 62. 1984 
+
+Frc. I . Profil rkactionnel de fragmentation de l'amine 2. Les A H f sont exprimes en kJ mol-I. 
+
+7), il y a rCtention dans I'ion de la chaine portant initialement 
+le radical. 
+Dans le but de vCrifier le caracthe general de la sClectivit6 
+de ce mode de rupture, l'amine 5 a Ct C Ctudike. Le spectre de 
+ce composC prCsente un pic m / z 72 qui est dCplacC pour 80% 
+a 74 dans le spectre de sont dtrivC bideutCriC en position 1, 5a: 
+schCma 8. 
+
+au-dessus du AH, de l'ion molCculaire 2. 
+(b) La premihe Ctape de lafragmentation -la protonation 
+de l'azote par un hydrogkne de la chafize -est fortement exo-
+thermique. Ainsi le AHf de l'ion h (656 kJ mol-') est 60 kJ 
+mol-' plus faible que celui de l'ion 2 dont il provient. 
+Le AH, de 1'Ctat de transition conduisant a l'ion m / z 30 Ctant 
+au moins Cgal ii 797 kJ mol-', les isomCrisations de h con-
+duisant a un ion stable et dont 1'Cnergie critique est infkrieure 
+a 14 1 kJ seront observees (fig. 1). 
+
+Toutefois, m&amp;me si AHi ( h ) &lt; AH, (2), la rCaction de pro-
+
+tonation de l'azote prksente une Cnergie critique qui dCpend de 
+la nature et de la position de l'hydrogene transferk. I1 apparait 
+notamment que les migrations des hydrogknes en positions 1 et 
+2 ne s'effectuent pas (tableau 5). 
+L'Ctude de la formation du pic m / z 30 dans l'isobutylamine 
+
+1 explique cette constation. Ce pic est totalement deplacC 2 m / z 
+
+32 dans le derivC bideuttriC en position 1 et demeure a m / z 30 
+
+dans le compose 2-dl. L'Cnergie critique nCcessaire a des trans-
+
+Discussion 
+(a) Les ions rn/z 44, 58 qu 72 sontplus substitues donc plus 
+stables que l'ion m/z 30, CH2-NH? (fig. 1). Lossing et al. 
+(1 1) ont en effet ?is en Cvidence une difference de 88 kJ mol-' 
+entre le+AHr de CH2-NH2 (744 kJ mol-I) et celui de I'ion 
+CH3-CH-NH2 
+(656 kJ mol-I). 
+Dans ces conditions, alors que la rupture simple 2 + [30]+ 
+nCcessite 81 kJ (voir partie experimentale), le AHi correspon-
+
+dant 5 1'Ctat final de l'ion m / z 44 est situe 26 kJ seulement 
+
+Can. J. Chem. Downloaded from www.nrcresearchpress.com by 87.160.185.190 on 03/27/14 
+
+For personal use only. 
+
+
+ET AL. 
+
+937 
+
+ferts et echanges de ces hydrogknes est donc supkrieure a 
+
+I'Cnergie d e la rupture 1 -[30]', soit 85 kJ. Ces transferts ne 
+
+peuvent donc Ctre observCs lors de la formation des ions m / z 
+44, 58, ou 72 dans les amines 2 A 5. 
+(c) Des formes intermtdiaires ou des ttats de transition de 
+type cycloproparzique orzt kt6 proposks pour expliquer la frag-
+rnentatiorz de nornbreux composts: alcenes (12-14), alcanes 
+
+(15), acides et esters (16, 17) dCrivCs phCnoliques (18), etc. . . 
+
+Par ailleurs, l'existence de formes stables dans lesquelles un 
+ion [C,,H2,,]' d e structure tthyltnique, carbknique ou cyclo-
+
+propanique est lie 2 une molecule d'eau ou d'ammoniac a 
+
+CtC montree (19-24). Quand l'entitC C,,H,,, a une structure 
+
+Cthylenique ou carbenique, ces formes stables ont des AHr 
+
+souvent inferieurs i ceux des alcools et amines isomeres. I1 
+n'existe par contre pas d e donnCes thermodynamiques quant 
+aux complexes cyclopropaniques proposCs dans ce travail. 
+Toutefois les donnCes experimentales indiquent que les reac-
+tions donnant ces intermkdiaires constituent une barriere dans 
+le processus d'isomtrisation. 
+Tout d'abord ces reactions sont irrCversibles. En effet, dans 
+l'hypothese d'une rCversibilitC d e la reaction h j (schtma 6), 
+l'ion nz/z 58 form6 2 partir d e 2 contiendrait -fut-ce par-
+
+tiellement -le carbone en position quatre, ce qui est contraire 
+aux donnCes experimentales (tableau 5 , s c h ~m a 6). Les diffC-
+
+rences de comportement de 3 et 4 deji CvoquCes vont dans le 
+
+m t m e sens. 
+
+Par ailleurs, alors que dans les amines 2, 3 et 4, les hydro-
+
+genes en position 3 s'echangent statistiquement avant for-
+mation d e l'ion m/z 44, 1'Cchange de ces mEmes hydrogenes 
+est tres lent avant formation du m t m e ion m/z 44 dans la 3,3-d2 
+
+heptylamine. 
+Ceci montre que l'energie critique nicessaire a la formation 
+de I'ion m/z 44 au travers d'une forme cyclopropanique est 
+supCrieure B celle necessaire i sa formation i partir des amines 
+
+linCaires pour lesquelles l'intermkdiaire propose est constituC 
+
+par un ion alcene lie 5 une molecule de NH, (7). 
+
+Enfin la stabilitC du complexe intermediaire propose depend 
+nkcessairement du nombre et de la nature des substituants du 
+cyclopropane. I1 est connu en effet (25) que 1'Cnergie d'ioni-
+sation du methyl-cylopropane est supCrieure a celle de l'ethyl-
+cyclopropane et plus encore 
+celle d'un dimCthy1-cyclo-
+propane. 
+
+Dans le cas d e l'isobutylamine 1, l'intermkdiaire d e trans-
+position donnant l'ion m/z 44 est prCcistment le mCthyl-
+cyclopropane ionis6 liC ii NH3 moins stable que les complexes 
+
+cyclopropaniques form&amp; B partir des homologues supkrieurs. 
+
+Cette observation peut expliquer la faible intensit6 de I'ion 
+m / z 44 et corrClativement l'abondance de l'ion m/z 30 decou-
+lant d e la rupture simple d e 1. 
+
+Conclusion 
+Un mode gCnCral d'isomCrisation en phase gazeuse des ca-
+tions anlinks a CtC mis en Cvidence dans ce travail sur la base 
+de nombreuses donnCes expCrimentales. 
+Le mecanisme proposC est en accord avec les rCsultats ob-
+tenus par Gross et Lin (26) qui ont CtudiC a 15 et 25 eV les 
+
+fragmentations des complexes formCs par action d'un ion cy-
+
+clopropane substituC et d'une molCcule de NH,: un ion m / z 44 
+
+est observC quand un carbone du cyclopropane est substituC par 
+un groupe mCthyle, un ion m / z 58 est form6 quand l'un des 
+
+carbones porte, soit un groupe Cthyle, soit deux groupes 
+mtthyles. 
+D'autres travaux sur la fragmentation des amines sont en 
+
+cours afin de priciser si les "complexes" proposCs dans ce 
+travail constituent des formes mktastables ayant une certaine 
+durCe de vie ou ne sont simplement que des Ctats de transition. 
+
+Partie experimentale 
+Les A H f des radicaux propyle (86 kJ), isopropyle (73 kJ) et sec-
+butyle (53 kJ) figurent dans les tables (25). 
+Le AH1 (2) = 716 kJ mol-' a tte calculC a partir du AHr de la 
+molCcule neutre (-120 kJ mol-I) dCterminCe par la mCthode de Ben-
+son (25) et de 1'Cnergie d'ionisation de l'isobutylamine, soit 8,70 eV 
+(25). 
+Le mCme calcul et les mCmes sources conduisent a AHf (1) = 732 
+
+kJ mol-I et 5 AHr (8) = 709 kJ mol-I. 
+
+Les AHf [CHZ-NHZ] = 744 kJ mol-' et AH1 [cH,-6~-NH?] 
+= 656 kJ mol-' ont CtC dCterminis par Lossing et 01. ( I I). 
+Le AHr ( h ) = 653 kJ mol-' est calculi a partir du AHr de la 
+methyl-2 butylamine (-120 kJ mol-I) de I'affinitC protonique (27) de 
+I'isobutylamine (932 kJ mol-I) et de 1'Cnergie de dissociation d'une 
+liaison CH-H (28). 
+Les spectres MIKE ont Cte realisis sur un appareil VG.ZAB.2F. 
+Les valeurs de To,, ont Ct C dCterminCes a partir de la largeur a mi-
+hauteur des pics apres correction like a la largeur du faisceau principal. 
+Les composCs marquis ont Ct C prCparCs suivant des procidCs clas-
+siques: alkylation en a des nitriles, reduction par AILiD,, etc. . . 
+
+I. H. E. AUDIER et A. MILLIET. Int. J. Mass Spectrom. Ion Phys. 
+47, 475 (1983). 
+2. H. E. AUD~ER, G. BOUCHOUX, Y. HOPPILLIARD et A. MILLIET. 
+Org. Mass Spectrom. 17, 382 (1982). 
+3. H. E. AuDIER et A. MILLIET. Org. Mass Spectrom. 15, 477 
+(1980). 
+4. H. E. AUDIER et G. SOZZI. Soumis pour publication. 
+5. S. HAMMERUM. Tetrahedron Lett. 22, 157 (1981). 
+6. S. HAMMERUM, J. B. CHRISTENSEN, H. EGSGAARD, E. LARSEN, 
+P. J. DERRICK et K. F. DONCHI. Int. J. Mass Spectrom. Ion Phys. 
+47, 351 (1983). 
+7. H. E. AUDIER, A. MILLIET et J. P. DENHEZ. Org. Mass Spcctrom. 
+18, 131 (1983). 
+8. H. E. AUDIER, A. MILLIET, G. SOZZ~ et J. P. DENHEZ. Org. Mass 
+Spectrom. Sous presse. 
+9. R. G. COOKS, J. H. BEYNON, R . M. CAPRIOLI et G. R. LESTER. 
+Metastable ions. Elsevier, Amsterdam. 1973. p. 257. 
+10. S. HAMMERUM, K. F. DONCHI et P. J. DERRICK. Int. J. Mass 
+Spectrom. Ion Phys. 47, 347 (1983). 
+I I. F. P. LOSSING, Y. T. LAM et A. MACCOLL. Can. J . Chem. 59, 
+2228 (1981). 
+12. A. HARRISON et P. P. DYMERSKI. Org. Mass Spectrom. 12, 703 
+(1977). 
+13. M. S. H. LIN et A. G. HARRISON. Can. J. Chem. 52, 1813 
+(1 974). 
+14. A. HARRISON et K. R . LAREDOUTE. 9th International Mass Spec-
+trometry Conference, Vienna (Austria). 1982. 
+15. M. YAMAMOTO, T. TAKEUCHI et K. NISHIMOTO. Int. J. Mass 
+Spectrom. Ion Phys. 46, 239 (1983). 
+16. D. J. M c A ~o o et D. N. WITIAK. Org. Mass Spectrom. 13, 499 
+(1978). 
+17. P. H. HEMBERGER, J. C. KLEINGELD, K. LEVSEN, N. MAINZER, 
+A. MANDELBAUM, N. M. M. NIBBERING, H. SCHWARZ, R. 
+WEBER, A. WEISZ et C. WESDEMIOTIS. J. Am. Chem. Soc. 102, 
+3736 (1980). 
+18. C. B. THEISSLING et N. M. M. NIBBERING. Adv. Mass Spectrom. 
+7, 1287 (1978). 
+19. J. L. HOLMES, F. P. LOSSING, J. K. TERLOUW et P. C. BURGERS. 
+9th International Mass Spectrometry Conference, Vienna (Aus-
+tria). 1982. 
+20. P. C. BURGERS, J. K. TERLOUW et J. L. HOLMES. Org. Mass 
+Spectrom. 17, 369 (1982). 
+21. J. K. TERLOUW, W. HEERMA et G. DIJKSTRA. Int. J. Mass Spec-
+Can. J. Chem. Downloaded from www.nrcresearchpress.com by 87.160.185.190 on 03/27/14 
+
+For personal use only. 
+
+
+938 
+
+CAN. J. CHEM. VOL. 62, 1984 
+
+trom. Ion Phys. 47, 147 (1983). 
+25. S. W. BENSON. Thermochemical kinetics. J. Wiley, New York 
+22. J. L. HOLMES, F. P. LOSSING, J . K. TERLOUW et P. C. BURGERS. 
+1968. 
+J. Am. Chem. Sac. 104, 2931 (1982). 
+26. M. L. GROSS et P. H. LIN. Org. Mass Spectrom. 9, 1 I94 (1974). 
+23. H. M. ROSENSTOCK, K. DRAXL, B. W. STEINER et J. T. HERRON. 
+27. R. WALDER et J. L. FRANKLIN. Int. J . Mass Spectrom. Ion Phys. 
+J. Phys. Chem. Ref. Data, 6 , (1977). 
+36, 85 (1980). 
+24. W. J . BOUMA, J. M. DAWES et L. RADOM. Org. Mass Spectrom. 
+28. J. A. KERR. Chem. Rev. 66, 465 (1966). 
+IS, 12 (1983). 
+
+Can. J. Chem. Downloaded from www.nrcresearchpress.com by 87.160.185.190 on 03/27/14 
+
+For personal use only. 
+
+
+
+	
+

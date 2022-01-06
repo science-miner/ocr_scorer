@@ -1,0 +1,713 @@
+
+	
+
+		
+
+	
+
+	
+
+~t u d e 
+de la metallation des carbamates d'hydroxy-2,3,4 quinoleines 
+
+J . M. JACQUELIN, Y. ROBIN, A. GODARD ET G. QUEGUINER 
+
+Institut national supirieur de chimie industrielle de Rouen, Institut national des sciences appliqutes, B.P. 8, 
+76130 Mont-Saint-Aignan, France 
+
+R e ~u le 16 juin 1987 
+
+J. M. JACQUELIN, Y. ROBIN, A. GODARD et G. QUEGUINER. Can. J. Chem. 66, 1135 (1988). 
+
+Les N,N-dialkyl o-quinolyl-3 ou 4) carbamates sont lithies rCgiosClectivement en 4 (respectivement en 3) par le DIPAL dans le 
+
+THF i -78°C. La mktallation de l'isomkre substituC en position 2 s'Cffectue en ortho en utilisant le chClate S-BuLi/TMEDA 
+dans le THF i -105°C. L'utilisation d'aldkhydes comme Clectrophiles a permis de mettre en Cvidence l'importance de 
+
+l'encombrement stkrique autour de l'atome d'azote de la fonction carbamate. De nombreux dCrivis disubstituCs ont Ct C prCparCs. 
+
+J. M. JACQUELIN, Y. ROBIN, A. GODARD, and G. QUEGUINER. Can. J. Chem. 66, 1135 (1988). 
+
+When N,N-dialkyl o-(quinolyl-3 or 4) carbamates are reacted with LDA in THF at -78OC lithiation occurs regioselectively at 
+the ortho positions (respectively at C4 and C3). With the 2-substituted isomer better results can be obtained by using 
+sec-butyllithium/TMEDA chelate instead of LDA in THF at -105OC. Each of the lithiated intermediates is treated with various 
+electrophiles. The results of experiments with aldehydes afford convincing evidence of the influence of steric hindrance around 
+the nitrogen of the carbamate functional group. Various disubstituted hydroxyquinolines have been prepared. 
+
+Si les reactions d'additions nuclCophiles de rkactifs orga-
+nomCtalliques sur la quinolCine et ses dtrivts sont connues 
+depuis longtemps, la metallation directe par ces mCmes com-
+poses n'a Ct C que peu CtudiCe. La reaction d'addition nuclCo-
+phile concurrente a longtemps masquC la rCaction de mCtalla-
+tion. Cependant Bouley, Marsais et coll., dans notre labo-
+
+ratoire, sont parvenus i lithier puis i fonctionnaliser des 
+
+halogCno-quinolCines avec des bons rendements par reaction 
+avec le DIPAL (diisopropylamidure de lithium) (1, 2). Les 
+premieres mCtallations d'hydroxy-quinolkines masquCes ont Ct C 
+rCalisCes par Gilman et Bee1 en 1951 (3). Cette rkaction a 
+
+notamment permis i Narasinham et al. de prkparer des alca-
+
+loides dans la sCrie des furoquinolCines par mitallation des 
+mCthoxy-2 et dimCthoxy-2,4 quinolCines substitukes (4). Le 
+groupement orthodirecteur alkoxy n'a cependant permis que 
+l'obtention de faibles rendements en produits lithiCs. RCcem-
+ment, un nouveau groupement orthodirecteur a Ct C utilisC pour 
+la mktallation de phenols et de pyridinols par Snieckus et coll. 
+11s dCcrivent la mktallation de N,N-dialkyl 0-arylcarbamates (5, 
+6). Pour ces auteurs, le groupement carbamate est plus puissant 
+que les groupes Cther et prCsente une meilleure rCgiosClectivitC 
+
+lors de la mktallation de sites ortho non Cquivalents. ' 
+
+Le groupe N,N-dialkylcarbamate, utilisC pour la premikre 
+fois par Snieckus (7) Fn sCrie .rr dkficitaire, en tant que groupe-
+ment orthoorienteur de la metallation des hydroxypyridines, 
+nous a permis de metaller les hydroxyquinolCines substitukes 
+sur le noyau benzenique en utilisant la mCthode de dkplacement 
+(9). Nous dCcrivons dans cette publication la mCtallation des 
+hydroxyquinolCines substitutes sur le noyau pyridinique. 
+
+Resultats et discussion 
+N,N-Dialkyl O-(quinolyl-2) carbamates 1 
+Les N,N-dialkyl o-(quinolyl-2) carbamates 1 (R = Me; R = 
+Et) sont mCtallCs par action du DIPAL i -78°C. Cependant les 
+
+lithio-3 quinolCines formCes ne rCagissent pas avec des Clec-
+
+trophiles car elles subissent in situ i -78°C un rearrangement 
+
+anionique conduisant aux hydroxy amides correspondants 2 (R 
+= Me; R = Et). Cette reaction notCe, rkarrangement anionique 
+de Fries, a Ct C prCcCdement constatke par Snieckus lors de 
+
+l'action d'organomCtalliques sur les 0-pyridyl carbamates i 
+
+temptrature ambiante (fig. 1). 
+Cependant par action du DIPAL sur le carbamate N,N-
+
+1. M. A. J. Miah et V. Snieckus, rksultats non publiCs. 
+
+1. Dipal, THF -780C 
+2. CH3OD 
+
+1 R = Me, Et 
+
+2 R = Me, Et 
+
+FIG. 1 
+
+1. R'Li 
+1 R = E t 
+
+THF; -105OC ' 
+
+R'Li = DIPAL 
+
+diethy16 1 (R = Et) i une temptrature plus basse (-105"~) et 
+
+avec l'utilisation du mCthanol deutCriC c o m e Clectrophile, on 
+prCpare le N,N-diethylo-((deutirio-3) quinolyl-2) carbamate 4 
+avec un rendement de 40%. La formation du produit 2 (R = Et) 
+n'est pas CvitCe. L'utilisation du chilate sec-butyllithiuml-
+TMEDA (tetramethyl ethylene diamine) comme agent metal-
+lant, dans les mCmes conditions de tempkrature et de solvant, 
+
+permet de porter le taux de conversion en composC 4 i 80% (fig. 
+2). Ayant mis en Cvidence la formation du dCrivC lithiC 3 dans les 
+conditions citCes plus haut nous avons test6 sarCactivitC vis i vis 
+
+d'aldkhydes. Dans tous les cas la substitution a lieu de f a ~o n 
+rCgiosClective sur le carbone 3 (fig. 3). Nous avons is016 les 
+alcools secondaires attendus 5 (R1 = Et 30%; R1 = Ph 28%), 
+ainsi qu'un isombre 6 (R' = Et 19% ; R1 = Ph 24%) auquel nous 
+avons attribuC une structure de type quinolinone caractCrisCe par 
+
+la prksence en infrarouge de deux groupes carbonyle i 1700 
+cm-' et 1660 cm-'. La transformation 5 + 6 peut s'expliquer 
+par l'attaque nucltophile de l'alcoolate intermkdiaire sur la 
+fonction carbonyle du composC 5 (fig. 3). 
+
+Prinled in Canada 1 Imprimt au Canada 
+
+Can. J. Chem. Downloaded from www.nrcresearchpress.com by 87.160.185.190 on 03/27/14 
+
+For personal use only. 
+
+
+CAN. I. CHEM. VOL. 66. 1988 
+
+R 7 2 -105OC , 
+
+puis H20 
+OCONEt2 
+
+5 R' = Et, Ph 
+6 R' = Et, Ph 
+
+&amp;0c0"R2 
+
+DIPAL THF , 
+
+Electrophile 
+-78°C 
+
+7 
+
+puis H20 ' 
+
+7 
+
+R = Me, Et; R' = Li 
+R = Me, Et; R' = D 
+7 R = Me, Et; R' = H 
+R = Me; R' = SiMei 
+FIG. 4 
+
+ArCHO 
+7 R = Me; R' = Li 
+pun H20 
+
+N,N-Dialkyl O-(quinolyl-3) carbamates 7 
+Les N,N-dialkyl 0-(quinolyl-3) carbamates sont mCtallCs rC-
+
+giosClectivement sur C4 par le DIPAL a -78°C. Les interm6 
+
+diaires lithiCs sont caractCrisCs sous forme de dCrivCs deutkrib 
+ou silylCs obtenus respectivement par action du mCthanol 
+
+deutkrit ou du chlorotrimCthylsilane a -78°C (fig. 4). La posi-
+
+tion de mktallation est Ctablie en comparant les spectres de rmn 
+'H des composCs 7, R1 = H et R' = D. 
+L'absence de tout produit issu d'un rkarrangement anionique 
+deFries montre la bonne stabilitC des dCrivCs lithiCs 7 (R' = Li). 
+De plus les rendements ClevCs rendent ces rkactions tres intCrCs-
+santes en synthbe. Nous avons donc test6 la rCactivitt des 
+quinolyl-lithiums intermediaires avec plusieurs aldkhydes. 
+Nous avons prtctdement montrC que la rkaction d'aldChydes 
+aromatiques sur le dCrivC lithiC du carbamate N,N-dimithylt 7 
+(R = Me; R' = Li) conduisait de fason inattendue aux N,N-
+dimethyl (hydroxy-3 quinoly1)-4 aryl mCthane 8 (R3 = NMe2) 
+avec de bons rendements (Ar = phCnyl, para-mCthoxyphCny1, 
+ortho-mCthoxyphCnyl, dimCthoxy-2,4 phCnyl, chloro-2 phCnyl, 
+0-thiCnyl, pyridyl-2) (8) (fig. 5). 
+
+Rappelons qu'un carbamate 8 (Ar = C6H5; R~ = 0CONMe2) 
+
+a pu etre is016 lorsque le benzaldihyde a Ct C utilisC comme 
+Clectrophile. Cependant ce compost est peu stable et perd facile-
+ment une molkule de C 0 2 pour donner l'amine 8 (Ar = C6H5; 
+R3 = NMe2). L'utilisation des autres aldthydes donne directe-
+ment l'amine dans les conditions de la rCaction, la meme rCac-
+tion conduite avec le derive N,N-diCthylC 7 (R = Et; R' = Li) et 
+le benzaldChyde comme Clectrophile fournit un mClange de 
+carbamate 8 (Ar = C6H5; R~ = 0CONEt2) et d'amine 8 (Ar = 
+
+C6H5; R3 = NEt2) (fig. 6). Le taux de conversion du rCactif est 
+constant (75-80%) mais les proportions aminelcarbarnate sont 
+variables et dependent des conditions de traitement du mClange 
+brut rCactionnel. Contrairement au dCrivC N,N-dimCthylC la 
+transformation du carbamate N,N-diCthylC en amine demande 
+un chauffage prolongC. 
+Lorsque le para-mCthoxybenzaldChyde est utilist comme 
+electrophile on isole exclusivement le carbamate 8 (Ar = p-
+MeOC6H4; R3 = 0CONEt2) (fig. 7). Ce compost s'avere stable 
+puisque chauffC dans le xylbne pendant 24 h il ne se dtcarboxyle 
+pas. 
+L'isolement de carbamates de type 8 ( R ~ 
+= 0CONR2) permet 
+de proposer un mtcanisme en deux Ctapes : 
+(i) L'obtention du carbamate s'explique par un intermkdiaire 
+cyclique obtenu par action de l'alcoolate sur le carbonyle du 
+carbamate initial (fig. 8). 
+(ii) Nous avons envisagt deux mkcanismes pour expliquer la 
+dkcarboxylation, soit une reaction intramolCculaire comprenant 
+l'attaque de l'amine sur le carbone extracyclique dans un inter-
+mCdiaire cyclique A, soit une reaction intermolCculaire avec 
+formation d'une paire d'ions B et attaque de l'amine libCrCe (fig. 
+
+9).2 
+Afin de mettre en kvidence le mecanisme mis en jeu dans cette 
+derniCre Ctape nous avons effectuC la reaction de metallation 
+avec le carbamate N,N-dimCthylC 7 (R = Me; R' = H) et utilisC 
+le benzaldkhyde comme Clectrophile. AprCs hydrolyse nous 
+avons, a toutes les Ctapes du traitement, ajoutC de la diCthyla-
+mine. Nous avons ainsi obtenu un mtlange des deux amines 8 
+(Ar = C6H5; R = NMe2, NEt2). Ce resultat indique qu'un 
+mCcanisme intermolCculaire B peut &amp;tre envisagC. Avec l'es-
+pbce lithite issue du carbamate N,N-dimCthylC 7 (R = Me; R' = 
+Li) les aldthydes aliphatiques rCagissent de fason indentique a 
+celle des aldthydes aromatiques. Les amines 9 analogues des 
+amines 8 ( R ~ 
+= NMe2) sont obtenues avec des rendements de 
+
+2. Nous remercions sinctrement Monsieur le professeur V. Snieckus 
+de nous avoir suggkrk lors d'une discussion de prendre en considkration 
+ce deuxikme mkcanisme. 
+Can. J. Chem. Downloaded from www.nrcresearchpress.com by 87.160.185.190 on 03/27/14 
+
+For personal use only. 
+
+
+JACQUELIN ET AL. 
+
+1137 
+
+R = Et; R1 = Li 
+puis H20 
+
+FIG. 6 
+
+pMeO-C6H4CH0 
+
+7 R = Et; R' = Li 
+
+t 8 Ar = pMeO-C6H4 , 
+puis H20 
+R3 = 0CONEt2 
+
+7 R = Me; R' = Li 
+
+9 R4 = Me, Et 
+
+A, HNMe2 
+
+(pour R4 = Et) 
+
+1 
+
+R4CH0 , &amp;0c0NEt2 
+
+7 R = Et; R' = Li 
+puis H20 
+
+OH 
+
+11 R4 =Me, Et 
+
+H20 
+
+/ 
+
+\ o 
+
+FIG. 11 
+
+\ 
+
+N' 
+
+FIG. 8 
+
+isole avec un rendement de 43%. Dans les m&amp;mes conditions, 
+l'action du benzaldkhyde conduit un mClange de produits que 
+nous n'avons pu dparer et qui, aprks reflux dans la soude, sont 
+
+Et2N 
+0 
+
+integralement convertis en un seul derive 14. L'analyse du 
+
+spectre de rmn 'H ne permet pas son identification. L'analyse du 
+
+spectre infrarouge presente une seule vibration attribuCe a un 
+groupe carbonyl a 1660 cm-', caractCristique d'une forme 
+quinolone. L'analyse ClCmentaire nous permet alors de proposer 
+pour 14 la structure phCnyl-hydroxymethyl-3 dihydro-1,4 0x0-4 
+quinolkine (fig. 12). 
+
+60%. Ces mines 9 peuvent en outre &amp;tre transformkes en 
+dCrivCs vinyliques 10 par simple chauffage (fig. 10). Par contre, 
+avec l'espkce lithike issue du carbamate N,N-diCthylt 7 (R = Et; 
+R1 = Li) l'action des aldehydes aliphatiques conduit aux alcools 
+secondaires 11 avec des rendements assez faibles (25 et 30%) 
+(fig. 11). 
+
+N,N-Dialkyl O-(quinolyl-4) carbamates 12 
+
+Les N,N-dialkyl(0-quinolyl-4) carbamates 12 sont mCtallCs 
+
+par action du DIPAL -78°C dans le THF. La forme lithiCe 12 
+(R = Me; R' = Li) issue du carbamate N,N-dimCthylC 12 (R = 
+Me; R' = H) subit le rtarrangement anionique de Fries et 
+conduit la N,N-dimtthyl carbamoyl-3 1H-quinolone-4 13 
+(80%) (fig. 12). L'intermCdiaire lithiC 12 (R = Et; R1 = Li) 
+provenant du carbamate diCthylC 12 (R = Et; R' = H) ne subit 
+pas ce rkarrangement et peut &amp;tre caract6risC par rCaction avec 
+divers tlectrophiles. Les dCrivb substituCs en position 3 12 (R 
+= Et; R' = D, Me, SiMe3) sont alors obtenus. Les bons 
+rendements (75-95%) et la parfaite rCgiosClectivitC nous ont 
+amen6 2 faire rtagir l'intermtdiaire 12 (R = Et; R' = Li) avec 
+des reactifs carbonylks : des aldChydes. Ainsi, aprks action du 
+propanal, l'alcool secondaire 12 (R = Et; R' = CHOH-Et) est 
+
+Conclusion 
+Nous avons ttendu la mCthode de fonctionnalisation proposCe 
+par Snieckus dans les series du benzkne et de la pyrihine aux 
+carbamates d'hydroxy-2, -3 et -4 quinolkines. L'utilisation d'un 
+groupe orthodirecteur puissant permet dans notre cas l'utilisa-
+tion du DIPAL moins nuclCophile dtfavorisant les rkactions 
+d'addition nuclCophile sur le cycle de la quinolCine qui y est t r b 
+sensible. L'utilisation dlaldChydes en tant qu'agents Clec-
+trophiles a montrt l'importance de la substitution de l'azote de la 
+fonction carbamate. La mise en oeuvre de cette reaction t r b 
+rCgiosClective a permis l'obtention de nombreux dCrivCs disub-
+stitues. Nous Ctudions actuellement la possibilitk d'utilisation 
+de ces synthons pour la preparation d'alcaloi'des dans la sCrie des 
+
+furoquinolCines . 
+
+Partie experimentale 
+
+Les points de fusion sont determinks au banc de Kofler. Les spectres 
+infrarouges sont enregistrks sur un spectrophotom&amp;tre Beckman Accu-
+
+lab TM2. Les microanalyses sont effectdes avec un appareil Carlo 
+Erba CHNOS 1106. Les spectres de rrnn 'H sont enregistrks dans le 
+chlorofome deutkrik sauf precision contraire (rkfkrence TMS) h 60 
+
+MHz sur un appareil Varian EM-360L. Note : Dans les conditions 
+
+d'enregistrement utilisCes les sigaux de certains protons mobiles ne 
+peuvent &amp;re attribuCs car ils sont trop CtalCs. Nous avons not6 E pour 
+electrophile. 
+
+Can. J. Chem. Downloaded from www.nrcresearchpress.com by 87.160.185.190 on 03/27/14 
+
+For personal use only. 
+
+
+CAN. J. CHEM. VOL. 66, 1988 
+
+12 R = Me, Et; R' = H 
+12 R = Me, Et 
+
++ Electrophile 
+
+puis A, NaOH 
+
+N,N-Dialkyl 0-(quinolyl-X) carbarnates 
+Voie A 
+Dans 30 mL de pyridine, on chauffe durant 12 h 0,05 rnol de 
+quinolinol et 0,06 rnol de chlorure de N,N-dialkylcarbamoyle. Aprks 
+hydrolyse par 30 mL d'eau, dkcantation, la phase aqueuse est extraite 
+par2 x 50 mL de dichloromCthane. Le pyridine rCsiduelle est CliminCe 
+parentrainement azCotropique au tolukne et le produit brut et purifiC par 
+filtration sur colonne d'alumine neutre (Cluant CH2C12) et recristallisC 
+dans l'hexane. 
+Voie B 
+Dans 100 mL de THF anhydre 0,05 rnol de quinolinol et 0,06 rnol de 
+NaH sont agitts 30 min h temp6rature ambiante. On introduit alors 0,06 
+rnol de chlorure de N,N-dialkyl carbamoyle et le mClange rCactiome1 
+
+est port6 h reflux 2 h. Le produit brut est rCcupCrC et purifiC de faqon 
+
+indentiques h la voie A. 
+
+Voie C 
+Identique B la voie B en utilisant 3 Cquivalents d'hydrure de sodium 
+et 3 Guivalents de chlorure de N,N-dialkyle carbamoyle. 
+1 (R = Me) : F = 76°C; rendement : 65% (voie B); ir (KBr; cm-I) : 
+3060,2920, 1720; r m n ' ~ : 2,9(s, 3H, CH3), 3,05(s, 3H, CH3), 7,2(d, 
+lH, H3), 7,6(m, 3H, H5, H6, H7), 8,0 (dd, lH, H8), 8,15(d, lH, H4); 
+J-= 9 Hz. Anal. calc. pour C12H12N202 : C 66,65, N 12,95, H 539; 
+trouv6e : C 66,35, N 12,88, H 5,52. 
+1 (R = Et) : Huile; rendement : 75% (voie B); ir (KBr; cm-I) : 3050, 
+2970, 1720; rmn 'H : 1,2(t, 6H, 2CH3), 3,4(q, 2H, CH2), 3,45(q, 2H, 
+CH2), 7,2(d, lH, H3), 7,6(m, 3H, H5, H6, H7), 8,0(dd, lH, HS), 
+8,15(d, lH, H4); JCHICHl = 8 HZ; Jw = 9 HZ. Anal. calc. pour 
+Cl4H1&amp;J2O2 : C68,83, N 11,47, H6,60; trouvte : C 69.1 1, N 11,55, H 
+6.72. 
+7 (R = Me; R' = H) : F = 76°C; rendement : 72% (voie A); ir (KBr; 
+cm-') : 3050, 2930, 1725; rmn 'H : 2,95(s, 3H, CH3), 3,05(s, 3H, 
+CH3), 7,5(m, 3H, H5, H6, H7), 7,85(d, lH, H4), 8,l(dd, lH, H8), 
+8,75(d, lH, H2); 52-4 = 2.5 HziJ7-8 = 7,5 HZ; JLR = 2Hz.Anal. C ~C . 
+pour C12H12N202 C 66,65, N 12i95, H 5,59;-douv~e : C 66,69, N 
+12.95. H 5.61. 
+7 (R = ~t ; 
+R' = H) : F = 60°C; rendement : 63% (voie A); ir (KBr; 
+cm-') : 3070, 2980, 1720; rmn 'H : 1,33(m, 6H, 2CH3), 3,5(m, 4H, 
+2CH2), 7,6(m, 3H, H5, H6, H7), 8,0(d, IH, H4), 8,15(dd, lH, H8), 
+8,8(d, lH, H2); 52-4 = 2,5 Hz.Ana1. calc. pourC14H1&amp;J202 : C 68.83, 
+N 11,47, H 6,60; trouvte : C 68,85, N 11,47, H 6,56. 
+
+12 R1 = D, Me, %Me2, 
+CHOHEt 
+
+12 (R = Me; R' = H) : F &lt; 50°C; rendement : 45% (voie C); ir (KBr; 
+
+cm-') : 3060, 2940, 1730; rmn 'H : 3,05(s, 3H, CH3), 3,23(s, 3H, 
+CH3), 7,37(d, lH, H3), 7,4-7,85(m, 2H, H6, H7), 8,0(dd, lH, H5), 
+8,l(dd, lH, H8), 8,9(d, lH, H2);J2-3 = 5 HZ, 5-= 57-8 = 7,5 HZ; 
+JS7 = Jb8 = 2Hz.AnaI. calc. pourC12H12N202: C 66,65, N 12,95, H 
+539; trouvte : C 66,90, N 12,85, H 5,38. 
+12 (R = Et; R' = H) : F = 54°C; rendement : 60% (voie C); ir (KBr; 
+cm-') : 3050,2960, 1730; rmn 'H : 1,23(m, 6H, 2CH3), 3,4(m, 4H, 
+2CH2), 7,38(d, lH, H3), 7,4-7,8(m, 2H, H6, H7), 8,0(dd, lH, H5), 
+8,l(dd, 1H, H8), 8,86(d, lH, H2);J2-3 = 4 3 Hz;J7-8 = J-= 8 HZ; 
+JS7 = JGS = 2Hz. Anal. calc. pourC1.J11&amp;J202 : C 68,83, N 11,47, H 
+6.60; trouvCe : C 68,80, N 1 1,49, H 6,66. 
+
+Techniques ge'ne'rales de me'tallation 
+Voie A 
+A une solution de 0,0050 rnol de DIPAL dans 30 mL de THF 
+anhydre, on ajoute B -78°C 0,0045 rnol de carbamate dans 8 mL de 
+THF. Aprbs 1 h d'agitation 1'Clectrophile est introduit h cette tempLra-
+ture et laissC rCagir 1 h. Aprks hydrolyse et extraction au chloroforme h 
+pH neutre le produit brut est purifiC par chromatographie liquide sur 
+silice. 
+Voie B 
+Une solution de 0,005 rnol de chClate S-BuLi/TMEDA (prCparCe h 
+78"Cen coulant la TMEDA dans I'alkyllithium) dans 30 mL de THFest 
+refroidie h -105°C. Le carbamate (0,0045 rnol dans 8 mL de THF) est 
+introduit, laissC rCagir 1 h, puis l'electrophile est coulC h -105°C. La 
+rkup6ration et la purification du produit brut sont identiques h celles 
+utilisCes dans la voie A. 
+2 (R = Me) (E = MeOD) : F = 220°C; rendement : 90% (voie A); ir 
+(KBr; cm-') : 3050, 2980, 2930, 1665, 1635; rmn 'H (DMSO 6 
+ppm/HMDS) : 2,83(s, 3H, CH3), 2,95(s, 3H, CH3), 7,2-7,7(m, 4H, 
+H5, H6, H7, H8), 7,95(s, lH, H4). Anal. calc. pour C12H12N202 : C 
+66,65, N 12,95, H 539; trouvCe : C66,72, N 13,18, H5,44. 
+2 (R = Et) (E = MeOD) : F = 167°C; rendement : 90% (voie A); ir 
+(KBr; cm-') : 3060, 2980, 2940, 1665, 1630; rmn 'H : 1,16(t, 3H, 
+CH3), 1,33(t, 3H, CH3), 3,36(q, 2H, CHI), 3,68(q, 2H, CH2), 7 2 -
+7,7(m, 4H, H5, H6, H7, H8), 7,9(s, lH, H4). Anal. calc. pour 
+C1.J11&amp;J202 : C 68,83, N 11,47, H 6,60; trouvCe : C 68,55, N 11,20, H 
+6,51. 
+
+4 (E = MeOD; 5 equiv.) : analyse du produit brut aprks extraction 
+
+(bilan massique : 100%) indique la prCsence du produit 4. L'intCgration 
+
+Can. J. Chem. Downloaded from www.nrcresearchpress.com by 87.160.185.190 on 03/27/14 
+
+For personal use only. 
+
+
+JACQUE ILIN ET AL. 
+
+1139 
+
+du proton H4 sur le spectre de rmn 'H montre une incorporation du 
+deuterium de 40% par la voie A et de 80% par la voie B; rmn 'H : 1,2(t, 
+
+6H, 2CH3), 3,40(q, 2H, CHI), 3,45(q, 2H, CHI), 7,5 (m, 3H, H5, H6, 
+H7), 8,0(dd, lH, H8), 8,15(s, lH, H4). 
+5 (R' = Et) (E = EtCHO; 5 Cquiv.) : Huile incolore: rendement : 
+30% (voie B); ir (film; cm-') : 3420,2980,2940, 1730; rmn 'H : 1,0(t, 
+
+3H, CH3), 1,35(2t, 6H, CH3-CHIN), 
+1,85(m, 2H, CHOHCH?), 
+3,5(m, 5H, CH-N 
+et OH), 4,85(t, IH, CH-OH), 7,4-8,0(m, 4H, 
+H5, H6, H7, H8), 8,33(~, lH, H4); JCH2xH3 = 7,5 HZ; JCH-CH2 = 5 
+Hz. Anal. calc. pour C17H12N203 : C 67,55, N 9,27, H 7,28; trouvCe : 
+C 67,35, N 8,98, H 6,89. 
+5 (R' = Ph) (E = PhCHO; 1,2 Cquiv.) : Huile incolore; rendement : 
+24% (voie B); ir (film; cm-') : 3400, 2980, 1720; rmn 'H : 1,2(m, 6H, 
+2CH3), 3,4(m, 4H, 2CH2), 4,05(m, lH, OH), 6,l(s, lH, CHOH), 
+7,33(s, 5H, phCnyl), 7,3-8,25(m, 4H, H5, H6, H7, HS), 8,3(s, lH, 
+H4). Anal. calc. ~o u ~C ~~H ~~N ~~~ 
+: C 69,47, N 7,37, H 6,3 1; trouvCe : 
+C69,45, N 7,59, H 6,19. 
+6 (R' = Et) (E = EtCHO ; 5 equiv.) : F = 141°C; rendement : 19% 
+
+(voie B); ir (KBr; cm-') : 2980, 2940, 1700, 1660; rmn 'H : 0,95-
+
+1,5(m, 6H, 3CH3), 2,05(m, 2H, C H d O H ) , 3,45(q, 4H, 2CH2), 
+6,10(t, CHOH), 7,O-7,7(m, 4H, H5, H6, H7, H8), 7,8(s, lH, H4); 
+JCHqH2 = 6 HZ; JCHrCH3 = 8 HZ. Anal. calc. pour C17H22N203 : C 
+67,55, N9,27, H7,28; touvCe: C67,33, N8,95, H6,91. 
+6 (R' = Ph) (E = PhCHO; 1,2 Cquiv.) : F = 250°C; rendement : 24% 
+(voie B); ir (KBr; cm-') : 3400,2980, 1700, 1660; rmn 'H : 1,3(m, 6H, 
+2CH3), 3,45(m, 4H, 2CH2), 7,2-7,85(m, 9H, H5, H6, H7, H8, 
+phtnyl), 7,9(s, lH, H4), 6,06(s, lH, CH-O). Anal. calc. pour 
+C2lH22N2O3:C69,47, N7,37, H6,31;trouvCe:C69,11,N7,63,H 
+6,Ol. 
+7 (R' = D) (E = MeOD ; 5 Cquiv.) : (Voie A) L'analyse des spectres 
+
+de rmn 'H indique la presence des produits deutCriCs dans tous les cas 
+(R = Me, Et). Le taux d'incorporation du deuterium, dCterminC par 
+intCgration des signaux des protons H4 est de 80%. 
+7 (R = Me ; R' = D) : rmn 'H : 2,95(s, 3H, CH3), 3,05(s, 3H, CH3), 
+7,2-7,8(m, 3H, H5, H6, H7), 8,1 (dd, 1 H, H8), 8,8(s, IH, H2). 
+7 (R = Et; R' = D) : rmn 'H : 1,4(m, 6H, 2CH3), 3,4(m, 4H, 2CH2), 
+7,25-8,0(m, 3H, H5, H6, H7), 8,5(s, H2), 8,2(m, lH, H8). 
+7 (R = Me; R' = SiMe3) (E = C1SiMe3; 1,2 Cquiv.) : F = 58°C; 
+rendement : 90% (voie A); ir (film; cm-') : 3060, 2950, 1725, 1260; 
+rmn 'H : 0,35(s, 9H, SiMe3), 2,85(s, 3H, CH3), 2,95(s, 3H, CH3), 
+7,4(m, 2H, H6, H7), 8,0(m, 2H, H5, H8), 8,55(s, lH, H2). Anal. 
+calc. pour C15H21N202Si : C 62,46, N 9,71, H 6,98; trouvCe : C 61,95, 
+N 9 3 3 , H 6,75. 
+8 (Ar = C a 5 ; R~ = NEt2) (E = PhCHO; 1,2 Cquiv.) : Huile 
+incolore; rendement variable (env. 40%) (voie A); ir (film; cm-') : 
+
+3400, 2970, 1595; rmn 'H : I, l (t, 6H, 2CH3), 2,85(q, 4H, 2CH2), 
+
+5,5(s, lH, CH), 7,05-7,75(m, 7H, phCnyl, H6, H7), 7,75-8,25(m, 
+2H, H5, H8), 8,7(s, lH, H2); JCHrCHrCH3 = 7 HZ. Anal. calc. pour 
+C20H18N20 : C 78,43, N 9,15, H 7,19; trouvCe: C 78,39, N 8,94, H 
+7,13. 
+8 (Ar = pMeOCJ34; R3 = 0CONEt2) (E = pMeOPhCHO; 1,2 
+Cquiv.) : F = 133°C; rendement = 53% (taix de conversion 80%) (voie 
+A); ir (KBr; cm-') : 3400, 2970, 1720; rmn 'H : 1,15(t, 6H, 2CH3), 
+3,3(q, 4H, 2CH2), 3,7(s, 3H, MeO), 4,4(m, IH, OH), 6,45(s, lH, 
+CHO), 6,85(d, 2H, H'3, H15), 7,15-7,85(m, 4H, Hr2, H'6, H6, H7), 
+8,O-8,33(m, 2H, H5, H8), 8,4(s, lH, H~);JH,I-H'~ = 9Hz;JCHrCH3 = 
+7 Hz. Anal. calc. pourC22H24N204 : C 69,47, N 7,37, H 6,31; trouvke : 
+C 69,37, N 7,31, H 6,26. 
+8 (Ar = C a 5 ; R3 = 0CONEt2) (E = PhCHO; 1,2 Cquiv.) : Huile 
+incolore; rendement variable (voie A); ir (film; cm-') : 1730, 1715; rmn 
+'H : 1,2(t, 6H, 2CH3), 3,35(m, 4H, 2CH2), 6,65(s, lH, CH), 7,25-
+7,9(m, 7H, phCnyl, H6, H7), 8,05-8,45(m, 2H, H5, H8), 8,7(s, IH, 
+H2). Anal. calc. pour C21H22N203 : C 72,0, N 8,0, H 6,28; trouvCe : 
+C71,89, N7,99, H 6,30. 
+9 (R4 = CH3) (E = CH3CHO; 5 Cquiv.) : rendement : 60% (voie A); 
+Huile incolore: ir (film; cm-') : 3050, 2970, 2800, 1595; rmn 'H : 
+1,4(d, 3H, CH3), 2,32(s, 6H, N(CH3)2), 4,08(q, 1H, CH3--CH), 
+7,5(m, 2H, H6, H7), 8,0(m, 2H, H5, H8), 8,65(s, 1H, H2); JCH3-&lt;~ 
+= 7,5 Hz. Anal. calc. pour C13H,$r120 : C72,19, N 12,95, H 7,46; 
+trouvCe : C 72,28, N 13,12, H7,35. 
+
+9 (R4 = Et) (E = CH3CH2CHO; 5 Cquiv.) : Huile incolore; rende-
+ment : 58% (voie A); ir (film; cm-') : 3055,2970,2800, 1595; rmn 'H : 
+0,75(t, 3H, CH3), 2,00(dt, 2H, CH2), 2,40(~, 6H, N(CHg3)I), 4,10(t, 
+lH, CH), 7,50(m, 2H, H6, H7), 8,00(m, 2H, H5, H8), 8,65(s, lH, 
+H2); JCH3qH2 = 7,5 Hz; JCH2-CH = 6 HZ. Anal. calc. pour CI4Hl8N20 : 
+C73,01,N12,16,H7,88;trouvCe:C72,56;N 11,64,H7,84. 
+11 (R4 = Me) (E = CH3-CHO; 3 Cquiv.) : Huile incolore; rende-
+ment : 25% (voie A); ir (film; cm-I) : 3400,2980,2965,1720; rmn 'H : 
+1,2(m, 6H, C H d H -N ) , 
+1,65(d, 3H, CH3), 3,45(m, 4H, CH-
+N), 3,5-4,0(m, lH, OH), 5,6(q, lH, CHOH), 7,3-7,8(m, 2H, H6, 
+H7), 8,05(m, lH, H8), 8,5(s, lH, H2), 8,65(m, lH, H5);JCH-cH3 = 7 
+Hz. Anal. calc. pour C16H20N203 : C 66,67, N 9,72, H 6,94; trouvCe : 
+C66,67, N9,51, H7,05. 
+11 (R4 = Et) (E = CH3&lt;H2-CHO; 
+3 Cquiv.) : Huile; rendement : 
+35% (voie A); ir (film, cm-') : 3400, 2970, 1720; rmn 'H : 1 ,O(t, 3H, 
+CH3), 1,2(t, 6H, C H A H -N , 
+2,0(m, 2H, CH2-CHO), 3,4(q, 4H, 
+CH-N), 
+4,6(s, lH, OH); 5,3(t, lH, CHOH), 7,55(m, 2H, H6, H7), 
+8,0(m, lH, H8), 8,5(s, lH, H2), 8,5(m, lH, H5); JCH3qH2 = 7 HZ; 
+JCHrCH = 7 HZ. Anal. calc. pour C17H22N203 : C 67,55, N 9,27, H 
+7,28; trouvCe : C 67,34, N 9,30, H 7,03. 
+
+13 Obtenu i partir de 12 (R = Me; R' = H) lors de l'utilisation de la 
+
+mCthode de mCtallation notCe voie A; F = 236-237°C; rendement : 
+80%; ir (KBr; cm-') : 3440,2940, 1720, 1660, 1630; rmn 'H : 3,05(s, 
+6H, N(CH3)2), 7,2-7,9(m, 3H, H6, H7, H8), 8,l(s, lH, H2), 8,4(m, 
+lH, H5). Anal. calc. pour Cl2HI2N2O2 : C 66,65 N 12,95, H 5 3 9 ; 
+trouvCe: C66,18, N 12,58, H5,37. 
+12 (R = Et; R' = D) (E = MeOD) : rendement : 85% (voie A); ir 
+(KBr; cm-') : 2980, 1725; rmn 'H : 1,3(m, 6H, CH3), 3,5(m, 4H, 
+CH2), 7,&amp;7,8(m, 2H, H6, H7), 8,0(dd, lH, H5), 8,12(dd, lH, H8), 
+8,86(s, lH, H2); J-= J7-8 = 8 HZ; JS7 = JG8 = 2 Hz.Ana1. calc. 
+pour CI4Hl5DN2O2 : C 68,57, N 11,52, H 6,12; trouvCe : C 68,79, N 
+11,54, H6,33. 
+12 (R = Et; R' = Me) (E = CH31; 10 Cquiv.) : rendement : 75% (voie 
+A); ir (KBr; cm-') ; 3050, 2960, 1730; rmn 'H : 1,33(m, 6H, CH3), 
+2,3(s, 3H, CH3), 3,53(m, 4H, CH2), 7,55-8,0(m, 3H, H5, H6, H7); 
+8,15(dd, lH, H8), 8,85(s, 1H, H2); J7-8 = 8 HZ; Jg6 = 2 HZ. Anal. 
+calc. pour C15H18N202 : C 69,76, N 10,85, H 6,97; trouvCe : C 69,45, 
+N 10,74, H 6,95. 
+12 (R = Et; R' = SiMe3) (E = C1SiMe3) : Huile incolore; rende-
+ment : 95% (voie A); ir (film; cm-') : 3060,2975, 1725; rmn 'H : 0,4(s, 
+9H, SiMe,), 1,36(t, 6H, CH,), 3,5(q, 4H, CHI), 7,3-7,95(m, 3H, H5, 
+H6, H7), 8,15(dd, lH, H8), 8 , 9 5 ( ~, lH, H2); JCHrCH3 = 13 HZ; Jg7 = 
+8Hz;JM = 2Hz.Anal. calc. p o ~r C ~~H ~~N ~0 ~S i : 
+C64,51, N8,85,H 
+7,64; trouvCe : C 64,65, N 8,91, H 7,90. 
+12 (R = Et; R' = EtCHOH) (E = EtCHO; 3 Cquiv.) : rendement : 
+43% (voie A); ir (film; cm-') : 3400,2970,2940, 1730; rmn 'H : 1,0(t, 
+3H, C H A H A H ) , 1,6(m, 6H, CH3), 1,6-2,1 (m, 2H, CHr 
+CH), 3,5(m, 4H, CH-N), 
+4,9(t, lH, CHOH), 7,3-8 ,O(m, 3H, H5, 
+H6, H7), 8,15(m, lH, H8), 9,0(s, lH, H2); JCH-CH2 = 6 HZ. Anal. 
+calc. pour C17H12N203 : C 67,55, N 9,27, H 7,28; trouvCe : C 67,32, N 
+8,99, H 7,48. 
+N,N-Dime'thylcarbamoyl-3 dihydro-l,4 quinolinone-4 14 
+
+Le mClange brut issu de la rCaction de mCtallation de 12 (R = Et; 
+
+R' = H) par la voie A et utilisant le benzaldkhyde cornme Clectrophile 
+
+(1 Cquivalent) est chauffC i Cbullition dans la soude (20%) pendant 2 h. 
+Le compost obtenu a les caractCristiques suivantes : ir (film; cm-') : 
+
+3400, 3300-2600, 1660, 1620; masse molaire dCterminCe par spec-
+tromCtrie de masse = 25 1 g (masse calculCe pour 13 : 251,287 g). Anal. 
+calc. pour C 1 a I 3 N o 2 : C 76,49, N 5,57, H 5,18; trouvCe : C 76,27, N 
+5,71, H 5,08. 
+
+Hydroxy-3 (propinyl-l)-4 quinole'ine 10 
+
+Une quantitC (100 mg) de l'amine 9 (R4 = Et) est chauffCe i une 
+
+tempirature supirieure 2 150°C. La reaction est suivie gr2ce au degage-
+ment de dimkthylamine. Le rendement est pratiquement quantitatif; F 
+= 189°C; ir (KBr; cm-'); 3060, 2960, 2640, 1575; rmn 'H : 2,05(dd, 
+3H, CH3), 6,7(dm, 2H, C H S H ) , 7,45(m, 2H, H6, H7), 7,95(m, 2H, 
+H5, H8), 8,7(s, IH, H2), 9,7(m, 1H, OH), JCHrCH = 3 HZ; JCH=CH = 
+1 Hz; JG7 = 3 HZ. Anal. calc. pour C12HllN0 : C 77,80, N 7 3 6 , H 
+5,94, trouvte : C 77,92, N 7,56, H 6,02. 
+
+Can. J. Chem. Downloaded from www.nrcresearchpress.com by 87.160.185.190 on 03/27/14 
+
+For personal use only. 
+
+
+1140 
+
+CAN. J. CHEM. VOL. 66. 1988 
+
+Remerciements 
+
+ALURKAR. Tetrahedron, 27. 1351 (1971): (6) N. S. NARASIMHAN 
+
+Nous remercions M. le Professeur V. Snieckus pour les 
+
+et R. S. MALI. ~etrahedron, 30,4153 (1974); (e) A. C. RANADE, 
+
+discussions fructueuses propos d e ce travail. Ces discussions 
+
+R. S. MALI, R. M. GIDWANI et H. R. DESHPANDE. Chem. Ind. 
+310 (1977); V) N. S. NARASIMHAN et S. P. BHAGWAT. Synthesis, 
+
+ont CtC rendues possibles grlce i un contrat OT,4N. 
+
+903 (1979). 
+5. M. P. SIBI et V. SNIECKUS. J. Org. Chem. 48, 1937 (1982). 
+
+1. F. MARSAIS et G. QUEGUINER. TCtrahCdron, 39,2009 (1983). 
+
+6. M. A. J. MIAH et V. SNIECKUS. J. Org. Chem. 50,5438 (1985). 
+
+2. F. MARSAIS, E. BOULEY et G. QUEGUINER. J. OrganomCtal. 
+
+7. V. SNIECKUS. Lectures in heterocyclic chemistry. Editedby R. N. 
+Chem. 171,273 (1979). 
+Castle. Heterocorp, Tampa, FL. 1984. p. 95. 
+3. H. GILMAN et J. A. BEEL. J. Am. Chem. Soc. 73, 32 (1951). 
+8. Y. ROBIN, A. GODARD, et G. QUEGUINER. J. Heterocycl. Chem. 
+4. (a) N. S. NARASIMHAN et M. V. PARADKAR. Chem. Ind. 831 
+Sous presse. 
+(1967); ( b ) N. S. NARASIMHAN et R. H. ALURKAR. Chem. Ind. 
+9. Y. ROBIN, A. GODARD, et G. QUEGUINER. J. Organomet. Chem. 
+515 (1968); (c) N. S. NARASIMHAN, M. V. PARADKAR et R. H. 
+
+Sous presse. 
+
+Can. J. Chem. Downloaded from www.nrcresearchpress.com by 87.160.185.190 on 03/27/14 
+
+For personal use only. 
+
+
+
+	
+

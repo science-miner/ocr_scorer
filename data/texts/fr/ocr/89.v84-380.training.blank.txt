@@ -1,0 +1,500 @@
+
+	
+
+		
+
+	
+
+	
+
+Mecanisme des reactions du chlorite et du dioxyde de chlore. 2. Cinetique des 
+reactions du chlorite en presence d'ortho-tolidine 
+
+GUY SCHMITZ ET HENRI ROOZE 
+
+FacultP des Sciences AppliquPes, Universite' Libre de Bruxelles, 50 avenue F . Roosevelt, 1050 Bruxelles, Belgique 
+Requ le 17 octobre 1983 
+
+GUY SCHMITZ et HENRI ROOZE. Can. J. Chem. 62, 2231 (1984). 
+
+En prCsence d'ortho-tolidine (NH2RNH2), utilisCe pour Climiner les complications dues aux rCactions des produits inter-
+
+mkdiaires de la dismutation du chlorite, la stoechiomCtrie est HC102 + 2NHzRNHz -; , C1-+ H' + 2NHRNH + 2H20. On 
+
+ne forme pas de chlorate. La loi cinCtique, en l'absence de chlorure, est 
+
+-d[HC102]/dt = k [ClO,] [Fe3+] 
+
+k = 269 M -' s-' a 25°C et une force ionique de 1 M. Sans fer ajoutC, la vitesse observCe est due uniquement aux traces de 
+
+fer toujours prCsentes comme impureti des rkactifs. La rCaction 2HC102 -; , HClO + C103-+ H' n'est donc pas une rCaction 
+
+ClCmentaire. 
+
+GUY SCHMITZ and HENRI ROOZE. Can. J. Chem. 62, 2231 (1984). 
+
+With added ortho-tolidine (NH2RNH2) in order to eliminate complicating side reactions of the intermediate products of the 
+
+disproportionation of chlorite, the stoichiometry is HC102 + 2NH2RNH2 -; , C1-+ H+ + 2NHRNH + 2H20. No chlorate 
+
+is formed. The rate law, in the absence of chloride ions, is 
+
+k = 269 M -' s-' at 25°C and 1 M ionic strength. Without added iron, the observed rate is only due to the small amount of 
+
+iron always present as an impurity in the reactants. Thus the reaction 2HC102 -; , HClO + C10, + H+ is not an elementary 
+
+reaction. 
+
+Introduction 
+et obtenu 1'Cq. [5] en bon accord avec les travaux prCcCdents; 
+ConservCes a l'abri de la lumikre, les solutions de chlorite 
+kll = 9.1 x 
+M-' s-' a 25°C et I = 1 M; v1 reprCsente la 
+sont stables en milieux alcalins. En milieux neutres elles se 
+vitesse en l'absence de chlorure, objet de notre etude actuelle. 
+d6composent lentement suivant 1'Cq. [I]. La vitesse n'est no-
+
+[5] -d [ ~c l o , ] / d t = + k,, [HC~O,I[C~-] [H+] 
+
+table que dans les solutions chaudes (1, 2). 
+Cherchant l'explication des Ccarts a la loi [4] observes par 
+
+[I] 
+
+3C10, = 2C10, + C1-
+
+Kieffer et Gordon (8) nous avons fait une observation qui remet 
+En milieux acides elles se dCcomposent des la temperature 
+ordinaire, d'autant plus vite que I'aciditC est grande. En ab-
+sence de chlorure 1'Cq. [2] est la plus frCquemment citCe mais 
+des Ccarts importants ont Cte observes (refs. 1 a 8). 
+
+Les ions chlorures augmentent la vitesse de dCcomposition et 
+modifient la stoechiomCtrie. En milieux tres acides et t r b ri-
+ches en chlorures elle tend vers [3]. 
+
+Dans notre article precCdent (9), nous avons montrk qu'une des 
+causes de la variation des rapports stoechiomCtriques est l'exis-
+tence d'une bifurcation dans le mtcanisme, que l'on peut 
+schematiser comme suit: 
+
+HClOz 
+ClO, 
+
+HCIOz + HClO A ClzOz , 
+
+En absence de chlorure la loi cinCtique [4] proposCe par Barnett 
+(10) est gCnCralement admise, avec Cventuellement un effet de 
+l'aciditt sur la constante k, (rtfs. 4 a 8, 11, 12). 
+
+en cause les conclusions de plusieurs travaux antirikurs. La 
+dismutation du chlorite est catalyste par des traces de fer, de 
+l'ordre de celles que l'on trouve couramment comme impureti 
+des rtactifs. La figure 1 en donne un exemple. Pour Ctudier la 
+cinCtique de cette catalyse nous avons mis a profit les propriCtCs 
+de l'ortho-tolidine, comme nous l'avions fait pour la catalyse 
+par les ions chlorures. 
+
+Tkhnique experimentale 
+
+Nous avons vu (9) que l'ortho-tolidine ne rCagit pas directement 
+avec le chlorite mais est oxydCe extrgmement rapidement par le dio-
+xyde de chlore, le chlore et l'acide hypochloreux. Elle permet ainsi 
+dlCtudier la cinCtique de la dismutation du chlorite en Cvitant les 
+complications dues a la reaction entre le chlorite et le chlore ou l'acide 
+hypochloreux. Toutes les vitesses indiquCes dans cet article sont des 
+vitesses initiales obtenues dans des conditions telles que l'effet des 
+ions chlorures soit nkgligeable. Elles ont CtC mesuries en suivant 
+l'absorbance des solutions due au dCrivC oxydC de l'ortho-tolidine. 
+Son absorbance molaire Ctant ClevCe (E = 59 750) on obtient aiskment 
+des valeurs prCcises des vitesses initiales. Pour plus de dCtails, cf. la 
+rCf. 9. Les symboles suivants seront utilisCs: NH2RNH2 et NHRNH, 
+formules abrCgCes de l'ortho-tolidine et de son dCrivC oxydC; 
+
+[NaC102], concentration totale du chlorite, c'est-a-dire [HC102] + 
+
+[ClO,]; [Fe] concentration totale du fer ajoutC. 
+
+Kieffer et Gordon ont vCrifiC la loi [4] en milieux 2 et 1.2 
+Resultats en presence de fer ajoute 
+molaires en HC104 mais ant constate qu'elle n'est pas satisfaite 
+Stoechiome'trie 
+en milieux 0.2 molaires. 11s n'on pas trouvC de loi satisfaisante 
+On ajoute le chlorite a un melange d'acide perchlorique 
+dans ces conditions. 
+(0.1 M), d'ortho-tolidine en exces et de fer. Lorsque la rCac-
+Nous avons ttudie l'effet accClCrateur des ions chlorures (9) 
+tion est terminCe on mesure le pouvoir oxydant de la solution 
+Can. J. Chem. Downloaded from www.nrcresearchpress.com by 87.160.185.190 on 03/27/14 
+
+For personal use only. 
+
+
+2232 
+
+CAN. J. CHEM. I IOL. 62, 1984 
+
+o 
+
+5 
+10 
+15 
+
+20 min 
+
+FIG. 1. Effet catalytique du fer sur la production de C102. 
+[NaCI02] = 2,5 X lo-? M, [HC104] = 0,l M. (a) Sans addition de 
+fer. (b) Addition de 5 X 
+
+M de fer. 
+
+RG. 2. Effet de I'ortho-tolidine sur la vitesse de [6]. [HCIO,] = 
+0,105 M, [NaCI02] = 1,97 X 
+
+M, [Fe] = 1,O X 
+M . 
+
+par iodomCtrie et l'ortho-tolidine oxydCe par absorptiomktrie. 
+On constate que le pouvoir oxydant est conservC, normalit6 
+
+finale = 4.0 + 0.2 [NaC10210, et que le rapport [NHRNH]/ 
+
+[NaC102], vaut en moyenne 2.08 ? 0.15. L'ortho-tolidine 
+supprime donc la formation de chlorate et le systkme Cvolue 
+conformCment a [6]. 
+
+Cinttique 
+L'effet de la force ionique I entre 0.2 et 1 M est faible. Elle 
+a Ct C fixCe a 1 M avec du NaClO,. La figure 2 montre que la 
+vitesse de [6] est independante de la concentration de l'ortho-
+tolidine, 2 condition que celle-ci soit suffisamment grande. La 
+valeur minimale de la concentration a utiliser augmente avec 
+I'aciditC et avec la concentration du chlorite. La raison de 
+l'augmentation de la vitesse aux faibles concentrations 
+apparaitra lorsque nous discuterons la figure 5. 
+Les figures 3 et 4 montrent que la vitesse de [6] est propor-
+tionnelle 2 la concentration du fer. Nous ne considCrons ici que 
+les pentes des droites, les ordonnCes 2 l'origine seront discutCes 
+dans le paragraphe suivant. Les rksultats ne dCpendent pas de 
+la nature du sel de fer utilisC, nitrate de Fe(III), sulfate de 
+Fe(II1) ou sel de Mohr. Les pentes des droites de la figure 3 
+Ctant proportionnelles a [NaC102] posons 
+
+FIG. 3. Vitesses en presence d'ortho-tolidine. [HClO,] = 
+0,107 M; [NaC102] = 8,66 x 
+M ( I ) , 3,98 x 
+M (2), 1,99 
+
+x 
+
+M (3), i,i9 x 
+
+M (4). 
+
+[7] d.[NHRNH]/dt = k' [NaC10211 [Fe] 
+L'effet de l'aciditC sur k' est donne dans le tableau 1. On 
+
+constate que ilk' est proportionnel a 1 + [H+]/K, avec K, = 
+
+2.4 X lo-', valeur obtenue par Hong et Rapson (7) pour la 
+constante d'aciditC de HC102 si T = 25°C et I = 1 M. L'Ccart 
+a la valeur thermodynamique K, = 1.1 X lo-' (9) correspond 
+a une valeur vraisemblable du coefficient d'activitC, y+ = 
+0.66. On en dCduit la loi cinCtique [8]. 
+
+Lors de la discussion du modkle cinCtique nous montrerons 
+qu'au cours de nos expCriences la quasi-totaliti du fer est main-
+tenue sous forme de Fe(II1). D'autre part la constante de pre-
+mikre hydrolyse du Fe(II1) vaut 9 X 
+(13, 14). Aux aciditis 
+
+considCrCes on a donc [FeOH++] &lt;. [Fe3+] et [Fe3+] = [Fe]. Les 
+
+valeurs du tableau 1 donnent k8 = 538 + 18 M-' s-'. 
+
+Effet de la temptrature 
+Nous avons vCrifiC la proportionnalitC entre la vitesse de [6] 
+et la concentration du fer a trois autres tempkratures. Si 
+[HC104] = 0.41 M on obtient k' = 7.0 (15.1°C), 110 (35.6"C), 
+267 (44.2"C) et une Cnergie d'activation apparente de 95 
+kJ/mol. Pour obtenir 1'Cnergie d'activation relative a k8 il fau-
+drait connaitre la variation de K, en fonction de la tempkrature. 
+
+Resultats sans addition de fer 
+Dans la zone de pH CtudiCe le chlorite se dismute en absence 
+de fer introduit intentionnellement, mais cela ne signifie pas 
+qu'il existe un chemin rCactionnel indCpendant du fer. Les 
+ordonnCes a l'origine des figures 3 et 4 rCsultent des traces de 
+fer inevitablement prCsentes dans les rCactifs. Cette affirmation 
+Can. J. Chem. Downloaded from www.nrcresearchpress.com by 87.160.185.190 on 03/27/14 
+
+For personal use only. 
+
+
+FIG. 4. Vitesses en presence d'ortho-tolidine. [NaC102] = 2,13 X 
+
+M; [HCIO,] = 0,0087 M (I), 0,055 M (2), 0,075 M (3), 
+0,107 M (4), 0,208 M ( 3 , 0,416 M (6). 
+
+SCHMITZ ET ROOZE 
+
+2233 
+
+TABLEAU 1. Constantes cinttiques; 25"C, I = 1 M 
+
+[HCIOJ] 
+[NaC102] 
+k' 
+ks 
+(MI 
+M) 
+(M-I S -I ) 
+(M-I S-') 
+
+0,107 
+1,19 
+98,9 
+539 
+0,107 
+1,99 
+103,6 
+564 
+0,107 
+3.98 
+101,3 
+552 
+0,107 
+8,66 
+102,2 
+557 
+0,0087 
+2,13 
+392 
+534 
+0,055 
+2,13 
+154,5 
+506 
+0,075 
+2.13 
+124,4 
+515 
+0,208 
+2,13 
+55,4 
+536 
+0,416 
+2,13 
+30,O 
+55 1 
+0,305 
+1,64 
+38,2 
+524 
+1,02 
+1,64 
+12,5 
+544 
+
+remettant en cause un aspect important du mecanisme de la 
+dismutation du chlorite nous dktaillerons quelque peu nos ob-
+servations. 
+Si l'on purifie davantage les reactifs les vitesses diminuent. 
+On ne peut cependant les rendre negligeables ii cause de la 
+grande sensiblite de la reaction et de l'impossibilite d'eliminer 
+suffisamment le fer des reactifs. L'acide perchlorique Merck 
+"Suprapur" et le chlorite recristallise plusieurs fois contiennent 
+assez de fer pour catalyser la rkaction. L'un de nous a montrk 
+(15) que les ordonnees l'origine de droites telles que celles 
+des figures 3 et 4 correspondent bien aux vitesses calculees par 
+[7] en utilisant les valeurs des teneurs en fer des rkactifs deter-
+minkes par spectroscopie d'emission de plasma. 
+En milieux perchloriques 1 M et en absence d'ortho-tolidine 
+la dismutation du chlorite obeit a une loi d'ordre deux. La 
+figure 5 montre nos resultats en presence d'ortho-tolidine. Si la 
+concentration de celle-ci est faible on obtient une somme de 
+deux termes, l'un d'ordre un, l'autre d'ordre deux. Si on l'aug-
+mente, on supprime le terme d'ordre deux. Les analyses par 
+spectroscopie d'kmission de plasma ont montre que lors des 
+experiences de la figure 5 le fer provenait principalement de 
+l'acide perchlorique, pour le reste de la solution d'ortho-
+tolidine et que la concentration totale du fer Ctait quasi-
+independante du chlorite. Le terme d'ordre un est ainsi con-
+
+4 . 
+
+3 . 
+
+2 
+
+1 . 
+
+forme B la loi [7]. 
+La reaction d'ordre un Ctant catalysee par le fer on prevoit 
+qu'un agent complexant tel que I'EDTA reduise sa vitesse, ce 
+que nous avons vkrifie. Par exemple si [HC104] = 0.1 M, 
+[NaClO,] = 8.7 X 
+M et [NH2RNH2] = 2.5 X 
+
+M 
+
+nous avons obtenu d[NHRNH]/dt = 5.48 
+M s-' sans 
+EDTA et 0.33 X 
+M s-' avec 5 x lo-' mol/L d'EDTA. 
+Par contre, dans nos conditions experimentales, il n'y a pas lieu 
+de considerer de complexe avec l'ortho-tolidine, la vitesse de 
+la rkaction d'ordre un Ctant indkpendante de sa concentration. 
+
+lo5 
+
+dlNHRNH) 
+
+l NaCIO,) d t 
+
+(NaCIO,) 
+
+Discussion 
+La loi [8] peut Ctre interprktke' en admettant 1'Ctape deter-
+minante [9]. 
+
+0 
+
+5 
+10 
+
+M ) 
+
+(Fa) 
+FIG. 5. Suppression par l'ortho-tolidine de la reaction d'ordre 
+deux. [HCIO,] = 1 M, [NH,RNH~] = 2,5 X lo-" M (+), 2,5 X 
+
+o 
+
+1 
+
+2 104M 
+
+lo-, M (0). 
+
+Nous savons (9) que le dioxyde de chlore oxyde trks rapi-
+dement l'ortho-tolidine suivant [lo]. 
+
+[lo] 2C102 + NH2RNH2 -+ 2HC102 + NHRNH 
+
+Pour completer le mecanisme nous nous basons sur les rksultats 
+d'ondms et Gordon (16). 11s ont etudik l'oxydation du Fe(I1) 
+
+' Remarquons que nos rtsultats pourraient Cgalement &amp;tre inter-
+
+prCtCs par HClO, + F~OH" -+ CIOZ + ~e " + H20, sans que cela 
+
+change nos conclusions. 
+
+Can. J. Chem. Downloaded from www.nrcresearchpress.com by 87.160.185.190 on 03/27/14 
+
+For personal use only. 
+
+
+2234 
+
+CAN. J. CHEM. VOL. 62, 1984 
+
+par le chlorite, en prtsence de phhol pour capter le HClO, et 
+ont obtenu 
+
+kabs est une fonction decroissante de l'aciditk. 11s ont montre 
+que l'etape determinante correspond a l'echange d'un seul elec-
+tron et ont admis le mecanisme suivant. 
+
+En considerant que I'intermCdiaire qu'ils designent par Cl(I1) 
+est le radical C10 leur mecanisme s'ecrit: 
+
+[l 11 HC102 + Fez' -t C10 + FeOH" 
+
+[I31 C10 + Fe2' + H' -t HClO + Fe3' 
+
+F ~( O H ) ~ 
+
++ H' FeOH" + HzO 
+
+FeOH" + H' = Fe3' + HzO 
+
+Dans le domaine d'aciditk Ctudit les concentrations des formes 
+hydroxylees du Fe(II1) sont ntgligeables. En presence d'ortho-
+tolidine, il est probable que le C10 est reduit directement, la 
+reaction globale [14] rempla~ant [13]. 
+
+On obtient la stoechiometrie [6] en faisant la somme [9] + 112 
+[lo] + [ l l ] ou [12] + 112 [14]. 
+
+En vitesse initiale, l'effet des ions C1-est ntgligeable et la 
+vitesse est determinee par [9]. On retrouve ainsi la loi experi-
+mentale. 
+
+Pour obtenir les valeurs de k l l et k12 nous avons recalcule les 
+valeurs de kobs donnees par Ondms et Gordon (16). 
+
+Ayant [HClO,] = 0.05 ii 1 M le second nombre de cette re-
+
+lation depend peu de Ka. Nous l'avons calcult en prenant K, = 
+2.4 X lo-'. Un ajustement par la methode des moindres carrts 
+donne 
+
+Ces valeurs nous permettent de vtrifier que nous pouvions 
+interpreter [7] en admettant [Fe3'] S [Fez+]. L'approximation 
+de la stationnarite donne 
+
+Conclusions 
+En presence d'assez d'ortho-tolidine on obtient uniquement 
+
+la reaction [6], sans formation de chlorate, obeissant ii la loi 
+
+[7]. 11 n'y a pas de reaction directe entre le chlorite et l'ortho-
+tolidine mais uniquement une decomposition du chlorite cata-
+lyste par le fer et l'oxydation de l'ortho-tolidine par les pro-
+duits de cette dtcomposition. 
+Les vitesses observees en absence de fer ajoute sont dues aux 
+traces de fer presentes dans les reactifs. La reaction 2HC102 -+ 
+
+HClO + C10, + H+ d'ordre deux obtenue en absence d'ortho-
+
+tolidine n'est pas une rtaction simple, car si elle l'etait, elle 
+subsisterait en sa presence. Le mecanisme propose pour la 
+rtaction [6] nous fournit les premiers tltments du mecanisme 
+de la dismutation du chlorite en absence d'ortho-tolidine, objet 
+de notre prochain article. 
+
+1. M. C. TAYLOR, J. F. WHITE, G. P. VINCENT et G. L. CUNNING 
+HAM. Ind. Eng. Chem. 32, 899 (1940). 
+2. J. F. WHITE, M. C. TAYLOR et G. P. VINCENT. Ind. Eng. Chem. 
+34, 783 (1942). 
+3. W. BUSSER et H. HANISCH. Helv. Chim. Acta, 35, 2547 (1952). 
+4. F. STITI', S. FRIELANDER, H. J. LEWIS et F. E. YOUNG. Anal. 
+Chem. 26, 1479 (1954). 
+5. F. BOEMLANDER. Von Wasser, 29, 78 (1962); Gas Wasserfach. 
+104, 518 (1963). 
+6. G. M. NABAR, V. A. SHENAI et S. SUNDARAM. Indian J. Tech-
+no]. 2, 7 (1964). 
+7. C. C. HONG et W. H. RAPSON. Can. J. Chem. 46, 2053 (1968). 
+8. R. G. KIEFFER et G. GORDON. Inorg. Chem. 7, 235 (1968); 7, 
+239 (1968). 
+9. G. SCHMITZ et H. R o o z ~. Can. J. Chem. 59, 1177 (1981). 
+10. B. BARNETI'. Dissertation, University of California, 1935. 
+11. H. F. LAUNER, W. K. WILSON et J. H. FLYNN. J. Res. Natl. Bur. 
+Stand. 51, 237 (1953). 
+12. H. F. LAUNER et Y. TOMATSU. J. Am. Chem. Soc. 76, 2591 
+(1954). 
+13. B. 0 . HEDSTROM. Ark. Kemi, 6, 1 (1953). 
+14. R. ARNEK et K. SCHLYTER. Acta Chem. Scand. 22, 1327 (1968). 
+15. H. R o o z ~. Anal. Chem. 56, 601 (1984). 
+16. M. G. ONDRUS et G. GORDON. Inorg. Chem. 11, 985 (1972). 
+
+Can. J. Chem. Downloaded from www.nrcresearchpress.com by 87.160.185.190 on 03/27/14 
+
+For personal use only. 
+
+
+
+	
+

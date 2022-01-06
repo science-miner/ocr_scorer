@@ -1,0 +1,784 @@
+
+	
+
+		
+
+	
+
+	
+
+Addition d'ylures d'azomethine aux methoxycarbonyl cyclopentenes et cyclohexenes 
+benzocondenses. Diastereoselectivite de la cycloaddition 
+
+JOEL VEBKEL 
+La11orcltoir.e de Chirrrie c~pplicl~tPe, FrrcrrltP rles Scierrces et Tec.hrliq~res de Bescrrlqorl. Roltte tle Grry, 25030 Be.sarl&lt;.nrl CPrler, 
+Fr.crrrre 
+
+DANIELLE G R ~E ET ROBERT C A R K I ~ 
+
+Grolcl~e de Phy.sicochirrlie Str.~rct~tr.crle, Urrive~sitP de Rerrrles. E.R.A. C.N.R.S., N 389, Averlrte el 11 GPrlPr.rrl Leclerc, 35042 
+
+. . 
+. 
+. 
+
+Rerrrles CPcles. Frcrrrce 
+
+R e p le 5 aoct 1983 
+
+JOEL VEBREL, DANIELLE GREE et ROBERT CARRIE. Can. J. Chern. 62. 939 (1984) 
+Les ylures d'azomCthinc s'additionncnt d'une manicre stCrCospCcifique aux mCthoxycarbonyl-3 dihydro-1,2 naphtalkncs 
+substitubs en I ou 2. La diastCrCospCcificit6 dc la rCaction cst discutCc. Le comportcmcnt dcs mCthoxycarbonyl-2 ou -3 indcncs 
+et du mCthoxycarbonyl-4 dihydro-I ,2 naphtalknc cst Cgalemcnt CtudiC. 
+
+JOEL VEBREL, DANIELLE GREE, and ROBERT CARRIE. Can. J. Chem. 62, 939 (1984) 
+Azomethinc ylids add stereospccifically to 3-mcthoxycarbonyl-I-2-dihydronaphthalcncs substituted in thc I or 2 position. 
+
+. . 
+
+Thc diastereospecificity of the rcaction is discussed. Thc bchaviour of 2-or 3-mcthoxycarbonyl indcnes and of 4-mcthoxy-
+carbonyl-l,2-dihydronaphthalcne is also studied. 
+
+Dans le cadre d'une Ctude de la diastCrCosClectivitC des rCac-
+tions de cycloaddition dipolaire-1,3 l'addition d'ylures d'azo-
+methine rCsultant de l'ouverture therniique d'aziridines aux 
+methoxycarbonyl-3 dihydro-1,2 naphtalenes monosubstituCs 
+en 1 ou 2 (composCs 1) a Ct C Ctudiee. 
+L'objet essentiel de ce travail Ctait de prCciser si la dias-
+tCrCospCcificitC observCe lors de ces reactions avec les azides 
+(2) (dip6les de la classe propargyl allknique ( I ) persistait avec 
+les dip6les de la classe allylique tels que les ylures d'azo-
+mCthine. 
+En outre, les recherches entreprises ont permis de prCciser la 
+rCactivitC dipolarophilique des olefines bicycliques 1, et des 
+composCs apparentCs dihydro-1,2 naphtaleniques et indCniques 
+
+2, 3 et 4 vis a vis des ylures d'azomkthine et notamment 
+
+d'Ctablir I'orientation de I'addition. 
+
+I. Obtention d'ylures d'azomethine et addition aux 
+composes ethyleniques 
+Depuis les travaux de Padwa et Hamilton (3), Heme et al. 
+(4), Huisgen et collaborateurs (5, 6), 11 est connu que certaines 
+aziridines sont susceptibles de s'ouvrir photochimiquement ou 
+thermiquement entre les atomes de carbone cycliques. L'azi-
+ridine est en Cqullibre avec I'ylure d'azoniCthine ainsi formC. 
+Lors de nos recherches les ylures d'azoniCthine 50 et 5 b 
+proviennent de I'ouverture des aziridines 6 0 et 6 b prCparCes a 
+partir des olCfines 70 et 7 b selon le schema I. 
+L'aziridine 60 est obtenue quantitativement par thermolyse 
+
+de la triazoline 8 a (15 a 20 min 2 170°C) sous atmosphere 
+
+d'azote sec (70). L'aziridine 6 b rCsulte de la dCcompos~tion 
+thermique de la triazol~ne 8 b (8) dans les mCmes conditions. 
+L'Cquilibre entre I'aziridine 6 a et I'ylure dlazomCthine corres-
+pondant 50 intervient des la tempkrature ambiante (7 ti 10). 
+L'aziridine 6 b n'est en Cquilibre avec I'ylure correspondant 5 b 
+qu'a plus haute tenipCrature. L'existence de 5 b a CtC mise en 
+evidence dans le xylene bouillant (8). 
+Etudiant l'addition de I'ylure d'azomkthine 5 a rCsu1tant de 
+I'ouverture thermique de I'aziridine 6 0 a diverses olCfines 
+monoactivCes, Texier et CarriC (7) remarquent que I'orientation 
+de l'addition dCpend de L a stCrCochimie de 1'olCfine. Le cinna-
+
+mate de mCthyle et le cinnamonitrile cis conduisent chacun a 
+deux pyrrolidines rCsultant d'une addition dans les deux sens 
+alors qu'un seul cycloadduit est obtenu avec les olCfines trans. 
+Pour celles-ci l'orientation unique se fait de telle sorte que le 
+carbone nuclCophile du dip6le se lie au carbone Clectrophile du 
+dipolarophile ( I I). 
+L'importance des facteurs stCriques intervenant lors de I'ap-
+proche du dipolarophile par le dip6le et dkterminant la stCrCo-
+chimie des cycloadduits a CtC soulignke (12). Cependant les 
+travaux de Texier et CarriC ( 1 3) montrent qu'il convient de tenir 
+compte des effets orbitalaires. Ainsi, lors de la rCaction de 5 a 
+avec l'acrylate de mCthyle l'approche des deux rCactifs (sup-
+poses dans des plans pratiquement paralleles) est telle que le 
+phCnyle liC au carbone du dip6le se place sous le groupement 
+ester du dipolarophile (obtention d'un adduit cis, schCma 1). 
+Can. J. Chem. Downloaded from www.nrcresearchpress.com by 87.160.185.190 on 03/27/14 
+
+For personal use only. 
+
+
+CAN. I. CHEM. VOL. 62. 1984 
+
+TABLEAU I . Obtention des pyrrolidines 9 j. 13. Conditions operatoires. Rendements 
+
+Tempkrature de DurCe de la 
+Pyrrolidines n 
+
+R 
+X 
+
+R 1 ~"r~action 
+("C) 
+riaction (h) Rdt (C/o)" 
+
+9a 
+
+2 
+
+9 a 
+2 
+9b 
+2 
+100 
+1 
+100 
+1 
+l l a 
+
+1 
+
+l l b 
+
+1 
+
+12b 
+2 
+130 
+
+-
+
+13a 
+
+-
+
+13b 
+
+-
+
+13a 
+
+-
+
+13a 
+
+-
+
+13b 
+
+-
+
+"Rendement en produit pur. 
+bEnviron 5% de ll'olifine de dipart n'ont pas riagi (rrnn). 
+'Environ 10% de I'olCfine de dipart sont mis en ividencc i I'aide de la chromatographie 
+"87'0 d'olifine n'ont pas riagi (chromatographie). 
+'Moins de 5% d'olifine restante (chromatographie). 
+
+Les influences orbitalaires qui en rtsultent ont ett discuttes en 
+dttail avec d'autres dip6les comme les nitrones et les esters 
+nitroniques (14); elles sont suffisamment importantes pour sup-
+planter l'effet sttrique attendu. Des comportement analogues 
+ont t t t observts avec d'autres oltfines Z activtes (8). 
+Lors de ce travail, les cycloadditions aux dipolarophiles 1 5 
+4 sont conduites en milieu anhydre sous atmosphkre d'azote en 
+solution dans le xylene ou le mtsitylkne bouillant, les rtactifs 
+ttant en proportion tquimoltculaires. Les conditions exptri-
+
+mentales et les rendements des pyrrolidines 9 2 13 obtenues 
+
+sont precists dans le tableau 1. 
+
+11. Addition des ylures d'azomethine 5 aux composes 
+indeniques et dihydronaphtaleniques 2 et 3 
+Les diffkrentes rtactions (Schtma 2) s'effectuent avec des 
+rendements pratiquement quantitatifs. 
+On constate (Tableau I ) que le dipolarophile indenique ma-
+nifeste, avec le mCme ylure d'azomtthine, une plus grande 
+rtactivitt que son homologue dihydronaphtaltnique. 
+Les principales caracteristiques spectroscopiques des pyr-
+rolidines obtenues (ir, rmn 'H) sont donntes dans le tableau 2. 
+L'examen du tableau 2 met en tvidence les points importants 
+suivants: I'addition est unidirectionnelle et son orientation est 
+en accord avec celle que laissent prtvoir les donntes de la 
+
+littkrature (7). Les signaux des protons H3 et H5 des pyrro-
+lidines 9 et 10 sont en effet des singulets. 
+I1 est connu qu'en strie pyrrolidinique (13) les protons d'un 
+groupement ester sont nettement blindts par un phenyle en cis 
+(blindage minimum de 0,3 2 0,4 ppm), lorsque ces deux 
+
+groupements sont portes par des carbones vicinaux. 
+L'examen des donntes relatives aux composts 9a et 1Oa 
+(R = Ph, X = C02Me) montre que les protons de deux 
+groupements esters sont blindts, ce qui laisse penser que l'ester 
+portt par le carbone 4 (X = C0,Me) est en cis du phinyle 
+substituant le carbone 5 (R = Ph). Les donntes relatives au 
+composC 9a (X = CN) dont les mtthyles d'un seul groupe-
+ment ester sont blindts, confirment ]'attribution de la sttrCo-
+chimie prtcCdente. 
+La sttrtochimie des composCs 9b et lob (R = COZMe) 
+n'est pas ttablie. Elle est supposte Ctre analogue 2 celle des 
+composts 9a et 1Oa. 
+
+111. Addition de I'ylure d'azomethine 5 aux compods 
+indenique et dihydronaphtalenique 4 
+11 nous a paru inttressant de comparer le comportement des 
+composts 2 et 3 avec celui des dipolarophiles 4 isomkres diffe-
+rant des prtcedents par la position du groupement ester. Les 
+riactions suivantes (Schtma 3) ont ett effectutes. 
+Les rendements sont excellents sauf pour 12b (Tableau 1). 
+Dans ce cas le rendement n'est pas optimist. 
+Les principales caracttristiques ir et rmn 'H des pyrrolidines 
+obtenues 11 et 12 sont donntes dans le tableau 3. L'analyse du 
+spectre de rmn du compost l l a s'est rtvt1Ce dtlicate et a 
+ntcessitt des dtcouplages de spin. 
+L'orientation de I'addition est parfaitement ttablie. Le pro-
+ton H5 est un doublet rtsultant du couplage 3J avec H,. Ces 
+deux protons sont donc portts par deux carbones vicinaux. La 
+litttrature (7, 11) laissait prtvoir l'orientation inverse. La com-
+prthension des rtsultats ntcessiterait une etude thCorique dtli-
+cate Ctant donnt que les ylures d'azomtthine ne sont pas iso-
+lables et par suite leurs gComCtries ne sont pas connues. 
+Si les donntes de rmn sont en accord avec les structures 
+propostes, la configuration relative des carbones 4 et 5 ne peut 
+Ctre priciste avec certitude. Toutefois, la faible valeur obser-
+Can. J. Chem. Downloaded from www.nrcresearchpress.com by 87.160.185.190 on 03/27/14 
+
+For personal use only. 
+
+
+VEBREL ET AL. 
+
+TABLEAU 2. CaractCristiques spectroscopiques ir et de rmn (100 MHz) des pyrrolidines 9 et 10 
+
+RCsonance magnktique nuclkaire 'H (CDCI,, TMS) 
+
+Infrarouge (KBr) 
+6 (Protons 
+N" 
+
+t2 
+
+X 
+R 
+v(C=O) (cm-') 
+6 H3 et HS 
+~co~CH, 
+6(CHz),, 
+benzCniques) 
+
+90 
+2 
+CN 
+Ph 
+1725, 1742" 
+4,96 (lH, s) 
+3,04 
+5,02 (IH, s) 
+3,85 
+
+6,5-7,6 (m) 
+
+6,5-7,5 (m) 
+
+3,lO 
+1730, 1736, 
+4,68 (lH, s) 
+3,60 
+1,6-2,7 
+9b 
+2 
+C O N e 
+C O M e 
+1742,1752 
+5,30 (lH, S) 
+3,67 
+(4H, m) 
+6,6-7,8 (m) 
+3,81 
+
+100 
+1 
+COZMC 
+Ph 
+1720, 1733, 1744 
+5,20 (2H, s)" 
+3,08 
+3,60 (A) z~ = 16 Hz 6,4-7,6 (m) 
+4,04 
+3,84 (B) 
+
+2,92 
+lob 
+1 
+C02Me C02Me 
+1722, 1732, 
+4,90 (IH, s) 
+3,60 
+3,48 (2H, s) 
+6,5-7,4 (m) 
+1746, 1752 
+5.22 ( l H , s) 
+3,80 
+
+"v(C=N) 2230 cm-'. 
+" ~o r s ~u e 
+
+le spectre est enreg~stre dans ChDh on mesure 6 = 5,28 (IH, s) et 6 = 5,44 ( I H , s) 
+
+vte pour le couplage ' J entre H, et H5 pour 12b (3,9 Hz) semble 
+
+R ~= H . R ~= M , O U P ~ 
+
+indiquer que ces deux hydrogknes sont en trans. 
+
+IV. Addition de I'ylure d'azomethine 5a a quelques 
+composes dihydronaphtaleniques substitues 1 
+Le comportement des mtthoxycarbonyl dihydro-1,2 naph-
+
+talknes 1 substitues en a (R' + H, R' = H) et en P (R' = H, 
+R2 + H) a ttC CtudiC. Comme nous l'avons indiqut le but 
+
+essentiel poursuivi Ctait de voir si la diasttrtosptcificitt cons-
+tatte lors de la cycloaddition des azides (2) aux dipolarophiles 
+1 , s'observait tgalement avec les ylures d'azomtthine. 
+
+Chaque dipolarophile ttudie conduit a une seule pyrrolidine. 
+La reaction est a la fois rtgio et diastCreosptcifique. Les rtac-
+
+tions effectutes figurent au schCma 4. 
+Les rendements (rmn du produit brut) sont excellents; ce-
+pendant l'examen du tableau 1 montre que l'introduction d'un 
+
+substituant R' ou R' + H diminue considtrablement la vitesse 
+
+de cycloaddition. Remarque: Toutes ces cycloadditions con-
+
+duisent a une seule pyrrolidine (isolable) contrairement a ce 
+
+que nous avons publit (15) en discutant uniquement le spectre 
+de rmn 'H du produit brut de la rtaction. 
+Les principales donntes spectroscopiques (ir et rmn 'H) des 
+pyrrolidines obtenues 13 figurent au tableau 4. (Les caractbis-
+tiques des protons aromatiques entre 6,40 et 7,90 ppm ne sont 
+pas prtcistes.) 
+
+L'orientation de I'addition est dtterminte sans ambiguitt, 
+les protons H, et H5 n3Ctant pas couplts. 
+La rmn 'H ne permet pas d'ttablir la stCreochimie des pyr-
+rolidines. Cependant, un certain nombre de prtcisions inttres-
+santes peuvent itre apportkes lorsque R = Ph. 
+(a) Les protons de deux des trois groupements esters sont 
+fortement blindes ce qui donne la configuration relative des 
+carbones 4 et 5 (ester et R = Ph en cis). 
+(b) L'enregistrement des spectres des composts 13 B haut 
+champ (270 MHz) permet une analyse au premier ordre et 
+l'examen des constantes de couplage des protons du carbocycle 
+benzocondenst foumit des renseignements conformationnels 
+interessants: quelle que soit la nature de R' (Me ou Ph) des 
+composes 13a, R = Ph, R' = H, le proton Hi n'est jamais 
+fortement couplt avec H, et R2 ce qui exclut un couplage de 
+
+type trans diaxial supCrieur gtntralement a 10 Hz. Le substi-
+
+tuant R' (Me ou Ph) occupe donc prtfkrentiellement une posi-
+
+tion pseudo axiale. Lorsque R* = Me ou Ph, R = Ph, R' = H 
+
+(composts 13a, le proton H, est couplt sensiblement de la 
+
+mime f a ~o n avec R' et Hi (5,O &lt; J &lt; 7,5) ce qui lui confkre 
+
+Can. J. Chem. Downloaded from www.nrcresearchpress.com by 87.160.185.190 on 03/27/14 
+
+For personal use only. 
+
+
+CAN. J . CHEM. VOL. 62. 19x1 
+
+TABLEAU 3. Caractiristiqucs S ~C C ~~O S C O ~~~U C S 
+
+dcs pyrrolidincs 11 ct 12 
+
+Rksonancc magnitiq~lc nucliairc 'H (C&amp;), S" 
+
+Infra-rouge (KBr). 
+Protons 
+No 
+v(C=O) (cni ') 
+CHI cycliques ( J ) 
+HA ( J ) 
+
+Hr ( J ) 
+
+COICHl 
+bcnzdn~qucs 
+
+SystPmc AB 
+4,89 (IH, d) 
+3.82 (dcl) 
+3.14 
+4.65 (IH, dd) 
+('J = 7,l ct 
+4.93 (d) 
+3.32 
+6,5-7,8 (m) 
+('J,,B = 7,4. 'J = 7.1) 
+' J I I , ~~~ = 6.9) 
+('J = 6.9) 
+3,51 
+3,OO 
+
+4.69 (d) 
+3.62 
+2.1 -3,5 (5H) m 
+3,73 
+6,6-7.9 (m) 
+('J = 3,9) 
+3.81 
+
+"Spectres dc rrnn protontquc enregistris par un apparel1 WP 80 BruLcr (transfortnee de Fourier) 
+
+TABLEAU 4. Carilctkristiqucs s p c ~t r ~s c ~p i q u c s 
+
+dcs pyrrolidincs 13 
+
+Kisonancc n~agnktiquc nuclkairc 'H (CDCIT) 6 ct J 
+Infra-rougc (KBr) 
+R 
+R ' 
+R' 
+v(C=O) 
+6(H,) S(R' = H) 6(H,) J(H,R1) J(H,H,) J(H,RI) 6 ( ~' ) ( J ) 6(H,) ct 6(H,) ~( C O ~C H I ) 
+
+1725 
+5.09 
+2.80 
+PI1 
+H 
+Me" 
+1730 
+1.92 
+2.57 
+3.05 
+14,O 
+7.5 
+5,O 
+I .24 (7,O) 
+5.24 
+3,04 
+1745 
+3.94 
+1725 
+5.07 
+2,67 
+Ph 
+H 
+Ph" 
+1738 
+2.41 
+2.91 
+4,26 
+14.0 
+6.0 
+6.2 
+
+-
+
+2.89 
+1755 
+5.38 
+3.97 
+1715 
+3,05 
+
+COzMc H 
+MC 
+1720 
+2.20 i 3.10 (nl) -1,14 (6,5) 
+4,66 
+3,65 
+1735 
+5.38 
+3.66 
+1750 
+3,79 
+
+CO'Me Me H 
+1730 
+1741 
+2.40 i 3.00 (m) -
+
+"Spectres de ces composis enregistris a 270 MHz (Bruker, S/HMDS) ct 6 I00 MHz (JEOL MHz 100) pour les autres pyrrolidines (S/TMS) 
+
+une position pseudo equatoriale prCf6rentielle et implique que 
+nlent ester lie au m&amp;me cycle. On remarque comme I'analyse 
+le substituant R' soit pseudo axial. 
+rmn le laissait supposer que ce mkthyle R ' ou R' est dans les 
+deux cas en position pseudo axiale. 
+V. Diastereospecificite de la cycloaddition 
+
+( L I ) Dkter.mi~zatiorz de la ste'r.&amp;ochirnie cles cycloadcluits 
+La discussion nicessite la connaissance de la stereochimie 
+des pyrrolidines. La structure des composCs 13a, R = Ph, 
+R' = H, R2 = Meet 13a, R = Ph, R ' = Me, R2 = H, a ete 
+dCtern~inCe a I'aide de la diffraction des rayons-X par I'Cquipe 
+du Professeur Meinnel que nous remercions (16). Les figures 
+1 et 2 permettent de discuter cette stCreochimie. 
+Les structures obtenues montrent sans ambiguite que le 
+mkthyle substituant le cycle a six chainons est en cis du groupe-
+
+(6) Discussior~ de la rliaste'r-CosPlectivite' 
+Les rCsultats observes avec les azides sont confirm&amp; (2) et 
+les interpretations avancCes restent valables. 
+Les dipolarophiles 1, R ' # H , R' = H et 1, R' = H , 
+R' # H adoptent des conformations privilCgiees pour les-
+quelles les substituants R' ou R' sont en position pseudo axiale 
+(2). Lors d'une cycloaddition, les rCactifs sont en general sup-
+poses s'approcher dans deux plans paralleles. Le dipBle attaque 
+la face du dipolarophile allti par rapport aux substituants R ' ou 
+Can. J. Chem. Downloaded from www.nrcresearchpress.com by 87.160.185.190 on 03/27/14 
+
+For personal use only. 
+
+
+VEBREL ET AL 
+
+FIG. I. Pyrrolidine 130 (R = Ph, R' = Mc, R' = H). 
+
+FIG. 2. Pyrrolidine 130 (R = Ph, R ' = H. R' = Me). 
+
+R2 qu'ils soient en a (Fig. 3) ou en P (Fig. 4) de l'insaturation. 
+
+Le dip6le approche la face la moins encombree de I'olCfine 
+conduisant aux adduits 13 (groupement ester du dipolarophile 
+en cis des substituants R' ou R2). 
+Les conclusions tirkes des recherches conduites avec les 
+azides semblent donc gCnkralisables. La conformation du di-
+polarophile a une influence determinante sur la diastkreochirnie 
+de la rkaction. L'etude experirnentale et theorique de l'addition 
+du diazomethane est actuellement en cours. 
+
+Partie experimentale 
+
+Les spectres de rrnn ont CtC enregistrCs soit h I'a~de d'un appareil h 
+onde contlnue (JEOL MH, 100 MHz) soit avec un appareil h trans-
+forrnCe de Fourier (Bruker WP 80 DS, 80MHz pour 'H et 
+20,115 MHz pour ''C et Bruker WH 270 (270 MHz pour 'H)). Les 
+caractCr~stiques ~nfra-rouge sont obtenues h I'aidc d'un spec-
+trophotornetre Pcrkin-Elmer, rnodele 325; Ics Iiquides sont examinks 
+sous forrne de films, les cornposCs solides sont pastlllCs dans KBr Les 
+spectres de rnasse sont enregistrCs en utilisant un appareil Varian mat 
+31 1 (Centre de Mesures Physiques de Rennes) avec unc source h 
+
+impact Clcctronique; I'Cnergie du faisceau Clcctroniquc cst 70 cV, 
+I'intensitC du courant d'Cmission 300 FA et la tension d'accCICration 
+des ions 3 kV. Les points de fusion sont pris a I'aidc d'un banc 
+chauffant Kotler et les analyses Clernentaires effectuees par le Servicc 
+Central de Microanalyses du C.N.R.S. 
+
+I. Sytith@ses des dipolrrrophiles 
+A I'exception du cyano-3 dihydro-1.2 naphtaltne obtenu sclon la 
+technique dicrite par Julia (17). la synthkse des dipolarophiles a CtC 
+dCcrite pricidernrncnt ( 18). 
+
+11. Sytltl~e.se rles tricrzolines 8 
+(a) Olefitres RCH=C(CO:Me)? 7 
+La mCthode dc Allen et Spranglcr (19) est utilisee pour la prkpara-
+tion du benzylidenc rnalonate de rnethyle. Lorsque R = C02Me, h la 
+mCthode de Housc et al. (20) rnodifike par Hall ct Ykrnan (2 1 ). nous 
+avons prCfCrC la technique de Ouali et al. (22) qui donne d'excellents 
+rendements (95%). 
+(b) Tria;olines 8 
+Le phenylazidc et Ic compost5 Cthyl6niquc sont rnClangCs cn quan-
+titCs ~quirnolCculaires. Le melange est rnaintenu sans solvant h 60°C 
+pendant un rnois pour 80 (70) ou h 40°C pendant 15 jours pour 8 b (8). 
+Compose 80, Rdt 70% F, 172°C (MeOH); rrnn (CDC12) 6: 5.90 
+( s . IH). 3.18 (s, 3H). 3.88 (s. 3H). CornposC 8b, Rdt 4470, F 118°C 
+(MeOH); rrnn (CDCId 6: 5.45 (s, IH), 4.00 (s, 3H). 3,94 (s, 3H), 
+3.79 (s. 3H). 
+
+Ill. SvnthPse rles pyrrolirlines 
+(a) Modes operatoires g6nera~r.r 
+Procedure A 
+Le rnClange CquirnolCculaire dc triazoline 80 et de dipolarophile 
+dissous dans 20 crn2 de rnCsityl6ne anhydre est port6 progressivernent 
+h 160-165°C sous atrnosphtre d'azotc. Une coloration caracttristique 
+de I'ylure d'azornithine (rose d'abord, rouge violacC ensuite) se dive-
+loppe. La therrnolyse s'accornpagne d'un intense dCgagernent gazeux. 
+Lorsque celui-ci a cessC (30 h 45 rnin), on porte alors h rcflux du 
+rnCsityltne (160-165°C). Les temps de rCaction sont compris entre 24 
+et 72 h. Aprts refroidisserncnt, le rnCsityltne est distill6 sous pression 
+riduite. Le rCsidu huileux cst rcpris avec un peu d'Cther qui provoque 
+
+Can. J. Chem. Downloaded from www.nrcresearchpress.com by 87.160.185.190 on 03/27/14 
+
+For personal use only. 
+
+
+944 
+
+CAN. I. CHEM. VOL. 62. 1984 
+
+la cristallisation de la pyrrolidine. Dans le cas contraire, le produit brut 
+huileux est chrornatographiC. 
+
+ProcPdure B 
+I1 consiste a rernplacer le rnCsitylene par le xylkne dont la tern-
+pCrature d'Cbullition est suffisante pour assurer une therrnolyse rapide 
+de la triazoline 80 (la therrnolyse commence des 1 LO-115°C). La 
+solution d'aziridine 60 en Cquilibre avec I'ylure d'azornithine 5b a 
+une coloration jaune tres caractkristique. Aprks distillation du solvant 
+et addition d'une petite quantitC d'Cther la pyrrolidine cristallise. 
+CornposC 9a, n = 2. R = Ph, X = CO'Me. Procedure A. Rdt 
+96%; F 162-163°C (rnkthanol). Anal. calc. pour C ~~H Z P N O ~: 
+C 
+72,13, H 5,85, N 2,80; trouvCe: C 72,3, H 5,9. N 2,8. 
+CornposC 90, n = 2, R = Ph, X = CN. Procedure A. Rdt 92%; F 
+186-187°C (rnkthanol). Anal. calc. pour CZPHZ6NZO4: C 74,68, H 
+5,58, N 6,Ol; trouvCe: C 74,4, H 5 3 , N 6 , l . 
+CornposC 9b, n = 2, R = X = C02Me. Procedure B. Rdt 89%; 
+F 89-90°C (Cther-hexane). Anal. calc. pour C26H27N08: C 64,86, 
+H 5,61, N 2,91; trouvCe: C 64,6, H 5,7, N 2,9. 
+CornposC 100, n = 1, R = Ph, X = COZMe. Procedure A. Rdt 
+92%; F 188-189°C (rnkthanol). Anal. calc. pour CZ9HZ7NO6: C 
+71,74, H 5,61, N 2,89; trouvCe: C 71.7, H 5,4, N 3 , l . 
+CornposC l o b , n = L, R = X = C0,Me. Procedure B. Rdt 95%; 
+F 16 1 -162°C (rnithanol). Anal. calc. pour C,,H2,NOx: C 64,24, 
+H 5,37, N 2,99; trouvte: C 64,4, H 5,4, N 2,9. 
+CornposC 110, n = 1, R = Ph. Procedure A. Le rCsidu (huile 
+rougeitre), apres distillation du rntsitylene, est chromatographit sur 
+gel de silice (230-400 mesh; Cluant: cyclohexane-Cther, 50: 50). Rdt 
+87%; F 201-202°C (mithanol). Anal. calc. pour C2&amp;7N06: C 
+71,75, H 5,61, N 2,89; trouvCe: C 71.8, H 5,7, N 2,8. 
+CornposC l l b , n = I, R = C02Me. ProcCdure A. Aprks Clirnina-
+tion du rnCsityl6ne le rCsidu est chromatographiC sur gel de silice 
+(70-230 mesh; Cluant: cyclohexane Cther, 5 0 5 0 ) . Rdt 89%; F 
+134-135°C (Cthanol a 95°C). Anal. calc. pour C,sH,,NOx: C 64,24, 
+H 5.37, N 2,99; trouvCe: C 64,0, H 5,4, N 3,O. 
+CornposC 12b, n = 2, R = COZMe. ProcCdure A. Le solvant 
+ClirninC, l'huile rougeitre rCsiduelle est chromatographite sur gel de 
+silice (230-400 mesh; tluant: cyclohexane-Cther, 50: 50). Rdt 78%; 
+F 124-125°C (Cthanol a 95°C). Anal. calc. p o ~r c ~6 H ~~N O ~: 
+C 64,86, 
+H 5.61, N 2.9 1; trouvee: C 64,6, H 5,7, N 2,9. Lors de la chro-
+
+matographie on isole environ 5% d'aziridine 6 b (huile) caractCrisCe B 
+I'aide de la rmn (8) 'H (TMS, C6D6) 6: 3,94 (H cyclique), 3,06, 3,39 
+
+et 3,60 (C02CH3). 
+CornposC 13a, R = Ph, R1 = Me, R' = H. Procedure A. Puri-
+fication par chrornatographie sur gel de silice (230-400 mesh; Cluant: 
+hexane-tther, 60:40). Rdt 70%; F 158-159°C (rnkthanol). Spec-
+trornttrie de rnasse, rnasse rnoltculaire calc. pour C3,H3,N06: 
+
+5 13,215; trouvCe: 513,213. Les cristaux CtudiCs B l'aide de la diffrac-
+
+tion des rayons X (16) sont obtenus par cristallisation lente 5 0°C 
+
+d'une solution de pyrrolidine pure dans le melange methanol-acetone 
+(95 : 5). 
+CornposC 13a, R = Ph, R' = Ph, R' = H. Procedure A. On dis-
+sout dans le mClange acCtone -Cther Cthylique (60:40) le rCsidu 
+obtenu aprks distillation du mCsityltne. La pyrrolidine cristallise len-
+tement au rCfrigCrateur. Rdt 75%; F 232-233°C (melange acetone -
+Cther Cthylique, 5050). SpectrornCtrie de rnasse, rnasse rnolCculaire 
+calc. pour C36H33N06: 575,231; ~I ' o u v ~~: 
+575,227. 
+composC 13b, R = C02Me, R ' = Me, R' = H. Procedure A. 
+A ~r k s Clirnination du rnCsitvlene l'huile iaune oraneke rCsiduelle est 
+
+-
+
+chromatographiCe sur gel de silice (70-230 mesh; tluant: 
+
+cyclohexane-Cther, 50: 50). Rdt. 70%; F 135-136°C (Cthanol B 
+
+95°C). SpectrornCtrie de rnasse, rnasse rnolCculaire calc. pour 
+Cz7HzpNOs: 495,189; trouvCe: 495,188. La chromatographie perrnet 
+d'isoler sous forme dlhuile environ 10% d'aziridine 6 b qui est carac-
+tCrisCe Dar son suectre de rmn 'H. 
+CornposC 13a, R = Ph, R1 = H, R' = Me. ProcCdure A. On 
+
+ajoute une petite quantitC d'Cther Cthylique B l'huile jaune obtenue 
+
+apes distillation du mCsitylene. Par iefroidissement a O°C, la pyr-
+
+rolidine cristallise en partie. Les eaux meres de filtration sont chro-
+
+matographikes sur gel de silice (230-400 mesh; Cluant: hexane-
+Cther, 60: 40). Rdt 72%; F 158-159°C (methanol). SpectrornCtrie de 
+rnasse, rnasse mol6culaire calc. pour C31H31NOh: 5 13,2 15; trouvke: 
+
+513,213. Les cristaux Ctudits a I'aide de la diffraction des rayons X 
+
+(16) sont obtenus par cristallisation lente a 0°C d'une solution de 
+pyrrolidine pure dans un rnClange rnkthanol-acCtone (95 : 5). 
+ComposC 130, R = Ph, R1 = H, R2 = Ph. ProcCdure A. L'huile 
+rouge Cpaisse obtenue apres Clirnination du rnksitylene est chrornato-
+graphiCe sur gel de silice (230-400 mesh; Cluant: hexanc -Cther 
+Cthylique, 60:40). Rdt 80%; F 186-187°C (melange hexane -Cther 
+Cthylique, 60:40). Anal. calc. pour C36N33N06: C 75,13, H 5,74, N 
+2,43; trouvee: C 74,9, H 5,8, N 2.4. 
+Compost 13b, R = CO'Me, R' = H, R' = Me. Procedure A. 
+Apres Climination du rnCsitylkne, il reste une huile rouge-orangee qui 
+est chrornatographiCe sur gel de silice (70-230 mesh; Cluant cy-
+clohexane -Cther Cthylique, 5 0 5 0 ) . Rdt 85%; F 180-181°C (Ctha-
+
+no1 a 95°C). Anal. calc. pour CZ7Hz,NOx: C 65,45, H 5,86, N 2,83; 
+
+trouvCe: C 65,3, H 5,9, N 2,7. Lors de la chrornatographie on isole 
+environ 5% d'aziridine 6 b caractCrisCe par son spectre de rrnn 'H. 
+
+I. R. HUISGEN. J. Org. Chern. 33, 2291 (1968). 
+2. J. VEBREL et R. CARRIE. Tetrahedron. 39, 4163 (1983). 
+3. A. PADWA et L. HAMILTON. Tetrahedron Lett. 4363 (1965); 
+A. PADWA et L. HAMILTON. J. Heterocycl. Chern. 4 , 1 18 (1967). 
+4. H. HEINE et R. PEAVY. Tetrahedron Lett. 3125 (1965); H. HEINE, 
+R. PEAVY et A. DURBETAKI. J. Org. Chem. 31, 3924 (1966). 
+5. R. HUISCEN, R. GRASHEY et E. STEINCRUBER. Tetrahedron Lett. 
+1441 (1963). 
+6. R. HuIsGEN, W. SCHEER, G. SZEIMIES et H. HUBER. Tetrahedron 
+Lett. 397 (1966); R. HUISGEN, W. SCHEER et H. HUBER. J. Am. 
+Chern. Soc. 89, 1753 (1967); R. HuIscEN. Helv. Chirn. Acta, 
+254, 2421 (1967). 
+7(a) F. TEXIER et R. CARRIE. Tetrahedron Lett. 823 (1969); ( b ) F. 
+TEXIER. These de Doctorat d'Etat, Rennes, 1970; (c) F. TEXIER 
+et R. CARRIE. Bull. Soc. Chirn. Fr. 41 19 (1971); 258 (1972); 
+2373 (1972); 2381 (1972); 3437 (1973). 
+8. M. VAULTIER. These de Doctorat d'Etat, Rennes, 1977. 
+9. M. VAULTIER, R. DANION-BOUGOT, D. DANION, J. HAMELIN et 
+R. CARRIE. Tetrahedron Lett. 1923 (1973). 
+10. J. PERROCHEAU. These de 3eme Cycle, Rennes, 1979. 
+I I. M. VAULTIER, R. DANION-BOUGOT, D. DANION, J. HAMELIN et 
+R. CARRIE. Tetrahedron Lett. 2883 (1973); C. R. Acad. Sci. Ser. 
+C. 277, 1041 (1973); 280, 213 (1975); J. Org. Chern. 40, 2990 
+(1975); Bull. Soc. Chirn. Fr. 1537 (1976); M. VAULTIER et 
+R. CARRIE. Tetrahedron, 32, 2525 (1976); 35, 1357 (1979). 
+12(a) R. HUISGEN, W. SCHEER et H. MADER. Angew. Chern. Int. Ed. 
+Engl. 8 , 602 (1969); ( b ) R. HUIsGEN, W. SCHEER, H. MADER et 
+E. BRUNN. Angew. Chern. Int. Ed. Engl. 8 , 604 (1969); (c) 
+R. HUISGEN et H. MADER. Angew. Chern. Int. Ed. Engl. 8 , 604 
+(1969). 
+13. F. TEXIER et R. CARRIE. Bull. Soc. Chirn. Fr. 310 (1974). 
+14. R. CREE, M. JOUCLA, F. TONNARD, J. HAMELIN et R. CARRIE. 
+4erne Congr. Int. de Chirnie HCtCrocyclique, Salt Lake City, 
+U.S.A., Juillet 1973; M. JOUCLA, F. TONNARD, D. CREE et 
+J. HAMELIN. J. Chem. Res (S), 240 (1978). 
+15. J. VEBREL, E. CERUTTI et R. CARRIE. C. R. Acad. Sci. Ser. C, 
+288, 265 (1979). 
+16. L. TOUPET et J. C. MESSACER. Acta Crystallogr. C 39, 750 
+(1983). 
+17. S. JULIA. Ann. Chirn. 7 , 129 (1952). 
+18. J. V E B R E L ~~ 
+R. CARRIE. Bull. Soc. Chirn. Fr. 11, 116 (1982); 161 
+(1982). 
+19. C. F. ALLEN et F. W. SPRANCLER. Org. Synth. 25, 42 (1949). 
+20. H. 0 . HOUSE, F. J. SAUTER, W. G. KENYON et J. J. RIEHL. J. 
+Org. Chern. 33, 957 (1968). 
+21. H. K. HALL et P. YKMAN. J. Am. Chern. Soc. 97, 800 (1975). 
+22. M. S. OUALI, M. VAULTIER et R. CARRIE. Synthesis, 626 (1977). 
+
+Can. J. Chem. Downloaded from www.nrcresearchpress.com by 87.160.185.190 on 03/27/14 
+
+For personal use only. 
+
+
+
+	
+

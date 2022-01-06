@@ -1,0 +1,754 @@
+
+	
+
+		
+
+	
+
+	
+
+Etudes des complexes metalliques de Ac-Asp-Val-Asp-Ala-OH par potentiometrie et 
+resonance magnetique nucleaire du 'H 
+
+MARCEL ASSO' ET DAVID BENLIAN 
+
+hboratoire de Chimie de Coordination, Centre de St-Je'rhe, 13397 Marseille Cedex 13, France 
+
+LILIANE ASSO 
+
+hboratoire d'e'lectrochirnie, Centre de St-Charles, 13331 Marseille Cedex 3, France 
+
+CLAUDE GRANIER 
+
+hboratoire de Biochimie, ERA 61 7 , Secteur Nord, 13326 Marseille Cedex 15, France 
+R e ~u le 23 novembre 1983 
+
+MARCEL ASSO, DAVID BENLIAN, LILIANE ASSO et CLAUDE GRANIER. Can. J. Chem. 62, 2379 (1984). 
+
+Les constantes de stabiliti des complexes formis entre I'acitylaspartylvalylaspartylalanine (Ac-DVDA-OH) et divers cations 
+mktalliques ont it6 diterminies par mesures potentiomktriques. Les spectres rmn des protons ont permis d'apporter des 
+informations sur la conformation des espkces pripondirantes en solution. Les diplacements induits par le cation praseodyme 
+sont fortement dkpendant du pH. Au pH physiologique, en prisence de Ca(II), les risonances relatives aux deux residus 
+aspartyl subissent d'importantes modifications. Ces risultats montrent une interaction sp6cifique entre le tetrapeptide syn-
+thktique et les cations Ca2' ou Pr3' au niveau des deux groupements carboxylates des risidus aspartyl en milieu neutre, avec 
+le groupement carboxylate C-terminal en milieu acide. 
+
+MARCEL ASSO, DAVID BENLIAN, LILIANE ASSO, and CLAUDE GRANIER. Can. J. Chem. 62, 2379 (1984). 
+
+Formation constants for complexes between acetylaspartylvalylaspartylalanine (Ac-DVDA-OH) and a number of transition 
+metal cations have been determined by potentiometric titrations. The 'H nmr spectra have been recorded in order to support 
+the potentiometric results and to obtain information concerning the conformation of the detected species. The praseodymium 
+induced shifts of most resonances are observed to be strongly dependent on pH. The Ca2' complexes generate a different 'H 
+nmr spectrum for the aspartyl resonances at neutral pH. These observations are shown to be consistent with stepwise binding 
+of the Ca2' or Pr3' cations to the carboxylate of Ala C-terminus in acidic medium, and to the carboxylates of aspartyl residues 
+in neutral pH. 
+
+Introduction 
+Les Ctudes de la sClection exercCe par les systbmes biologi-
+ques lors de la fixation d'C1Cments mttalliques mettent en jeu 
+
+des facteurs liCs B la stCrCochimie du ligand et B la gComCtrie 
+
+de coordination prkfkrentielle du cation mCtallique (1 -5). 
+Une approche possible est la simulation de la partie active de 
+la protkine par un peptide de synthbse qui constitue un modde 
+de l'environnement du mCtal (6-9). 
+Dans plusieurs prodines telles que la concanavaline (10) et 
+la thermolysine (1 l), l'tltment mCtallique notamment Ca(I1) 
+est liC prtfkrentiellement au groupement carboxylate de risidus 
+
+aspartyl ou glutamyl. L'examen des sCquences actives vis B vis 
+
+&lt;7 
+
+du calcium rCvkle, pour la thermolysine l'alternance AS^-
+
+cn 
+
+la-.dip). 
+
+Comme les fragments complexants dans ces protCines 
+contiennent ~Cquentiellement soit deux rCsidus aspartyl soit un 
+rCsidu aspartyl et un rCsidu glutamyl skparks par un rCsidu 
+d'acide aminC non fonctionnel, nous avons rCalist la synthkse 
+d'un peptide reprksentant un modble simplifiC ayant la sC-
+quence suivante: Ac-Asp-Val-Asp-Ala-OH (fig. 1). 
+Dans ce travail, nous prCsentons une dttermination des 
+groupes fonctionnels coordinants du titrapeptide synthktique 
+Ac-DVDA-OH (cf abriviations), en prCsence de divers 616-
+ments mCtalliques afin dlCtablir un ordre dlaffinitC dlectif. Les 
+complexes ont Ct C caractCrisCs en solution acide et neutre par 
+titrages potentiomCtriques et pour certains d'entre eux, par les 
+mesures des dkplacements chimiques des noyaux 'H. 
+
+'Auteur ? i 
+qui adresser toute correspondance. 
+
+CH3.C0.NH.CH.C0.NH.CH.C0.NH.CH.C0.NH.CH.COOH 
+
+I 
+
+CH2 
+
+I 
+
+CH 
+
+I 
+
+CH2 
+
+I 
+I 
+
+/ \ 
+
+I 
+
+CH3 
+
+COOH CH3CH3 
+COOH 
+
+FIG. 1. Acetylaspartylvalylaspartylalanine. 
+
+Notations 
+Tous les acide aminCs sont en configuration L. La nomencla-
+ture IUPAC des acides aminks a Ct C employCe. D: acide aspar-
+tique; A: alanine; V: valine; Ac: acetyl; Boc: tertiobutoxycar-
+bonyl. 
+CA, CM: concentration analytique du ligand Ac-DVDA-
+OH, de l'ion mitallique M: M = Ca2+, Cu2+ 
+
+etc ... 
+
+H,A = L,: titrapeptide sous la forme monomkre contenant 
+q protons dissociables: q = 0, 1 , 2 et 3 (ex: A = 
+Lo: forme trianionique) 
+
+-
+
+4: 
+nombre moyen de protons Cchangeables par mo-
+lCcule de ligand 
+
+-
+
+r : 
+nombre moyen de ligands complexCs par atome 
+mCtallique 
+
+k,: 
+
+constante de dissociation partielle: [H,-, A] [HI/ 
+[Hq A1 
+Ppqr: 
+constante de stabilitC globale issue de l'tquilibre 
+
+pM + qH + rA MPH,Ar 
+
+pq si p = 1 et r = 1, cas de complexes mononu-
+
+cltaires B un seul ligand 
+
+fLq, fMLq: 
+fractions molaires des espbces libres L,, com-
+plexCes ML, 
+
+Can. J. Chem. Downloaded from www.nrcresearchpress.com by 87.160.185.190 on 03/27/14 
+
+For personal use only. 
+
+
+2380 
+
+CAN. 1. CHEM. VOL. 62. 1984 
+
+FLq, ZMLq: deplacements chimiques d'un noyau dans le cas 
+d'especes libres L,, complexCes ML, 
+AML,: 
+
+deplacement induit limite: (SMLq -SLq) 
+
+A, pour les complexes monomCtalliques a un 
+seul ligand 
+
+Principe 
+Mtthode potentiomttrique 
+Le reseau des courbes normalisees pH = f(ij) permet 
+en principe, d'effectuer une estimation des parametres p, 
+q. r caracterisant l'espece M,,H,A,. relative a l'equilibre de 
+complexation:' 
+
+La determination des constantes de formation PI,,/, est alors 
+effectuee selon un procede classique (14-16), a partir des 
+relations exprimant la conservation des especes: 
+
+en formulant les differentes combinaisons pour p, q et r. Signa-
+lons cependant que les hypothkses peuvent Etre reduites si l'on 
+
+prockde a une estimation de Y, nombre moyen de coordinats 
+
+fixes par atome metallique (17): 
+
+[51 Y = (CA -a ) l ( C ~) 
+
+Les valeurs des constantes ainsi pretablies sont ensuite opti-
+
+malisees par un calcul en retour q = f (pH). 
+
+A l'aide des valeurs de k,, PI,,,, C , et C , , on calcule succes-
+
+sivement a , m puis q (4 cal) que l'on compare a ij experimental 
+
+(15). 
+
+Titrages de la rtsonaizce magntriqlte tzucltaire 
+La constante de complexation Pi,,,. donne le bilan de I'etat 
+stationnaire obtenue entre les diffkrents constituants d'une so-
+lution. Si les echanges sont rapides par rapport au temps d'ob-
+servation de la rmn, on n'observe qu'un pic moyen integrant 
+pour un noyau donne. 
+Dans ces conditions, en presence d'un cation paramagne-
+tique fort reactif de deplacement chimique (18), et a pH fixe, 
+le deplacement chimique observe est la moyenne ponderee des 
+deplacements des especes libres et complexees (19, 20). 
+
+[61 Zobs = f ~, , . 
+
+ZL,, + ~M L , ! . ~M L , 
+
+avec fLq + fMLy = 1. Cette expression peut Etre transformee en 
+
+(20, 21): 
+
+[71 6 = ~M L ~. 
+AML, 
+
+ou 6 = 6obs -tiL, est une fonction lineaire de la quantite de 
+
+complexe forme en solution. 
+
+En donnant a P,,, des valeurs fixees arbitrairement et au 
+
+moyen des relations [ l ] 2 [4], on calcule la quantite f,,,, = 
+
+[ML,]/CA pour chaque rapport CM/CA donne, les valeurs de k, 
+et [HI etant connues. 
+
+Les valeurs de P, , , , retenues sont celles qui conduisent a des 
+
+valeurs de fML,, qui portees dans la relation [7] donnent par 
+
+'Pour une commoditt d'ecriture, les charges positives, neutres ou 
+negatives n'ont pas Ct C mentionnees. 
+
+regression lineaire le meilleur coefficient de correlation (20). 
+Dans le cas d'un complexe unique, mononuclCaire, la rela-
+tion permettant de determiner fMLq se reduit a: 
+
+[81 [MLq12 -[ML,I(l + P,(CA + CM)) + P,.CA.CM = 0 
+
+Dans le cas d'un complexe dit "fort" (P,,, eleve), on peut 
+atteindre sans probleme le deplacement induit limite AMLJ 
+
+m&amp;me si l'echange est rapide par extrapolation a CM + CA ou 
+
+I'espkce totalement complexCe est seule presente (22). La 
+constante de stabilite a alors pour expression: 
+
+[91 PPqr = ( Y.CA)/ 
+
+(CA -CM -Y . C ~ -Y.CA.CM + Y ~. c ~) 
+
+avec Y = (sobs -~L ~) / ( ~M L ~ 
+-6 ~~) . 
+
+Partie experimentale 
+Mate'riaur 
+Les sels mCtalliques CaC1, .2H20, MnCI,. 6H,O, NiC12. 6Hz0, 
+CuClz. 2Hz0, CoClz. 6H20, ZnSO, *7H20, CdCI,.2,5 H20, KC1 et 
+K2C03 sont des produits Fluka. 
+PrC13 est obtenu par attaque de I'oxyde Pr601 (Fluka) a chaud dans 
+HC1 concentre. Les acides aminks N protCgCs: Na Boc alanine, Na 
+Boc valine, Na Boc, y Benzyl acide aspartique sont Cgalement des 
+produits Fluka. 
+Le tetrapeptide Ac-DVDA-OH a Ct C synthetist selon le proctdC en 
+phase solide (12), la preparation ayant Ct C effectuee sur 5 g de rCsine 
+chlorosubstituCe UCB. Notons seulement que la fixation du rksidu C 
+terminal a Cte obtenue en prkparant au prCalable le sel de cesium 
+Boc-Ala-Cs suivant la mCthode developpee par Gisin (13). Le ren-
+dement aprks rCaction dans HF est de 61%. La purification a CtC 
+effectuie par chromatographie liquide i haute pression avec un instru-
+ment Waters Associates modkle 204 sur colonnes Merck Lickrosorb 
+RP 18. 
+L'analyse des acides aminCs a Cte effectuke sur un Analyseur Bio-
+tronik CC 7000 et a donnte la composition suivante: Asp: 2,02; Ala: 
+1,OO; Val: 0,99. 
+
+Appareillage 
+Les titrages potentiomCtriques ont Ct C rCalisCs 25 2 1°C dans une 
+enceinte thermostatCe sous azote, a l'aide d'un pHmktre Metrohm E 
+603 couple a une micro-electrode Metrohm EA 120. Toutes les me-
+sures ont t t C effectuCes sur des solutions contenant 4 x 
+M de 
+Ac-DVDA-OH et des concentrations croissantes en sels mCtalliques (0 
+i 8 x 
+M) et en milieu de force ionique KC1 = 0,5 M et K,S04 
+= 0,5 M. 
+Les spectres mm ont Ct C enregistrks sur un spectromktre Bruker 200 
+MHz CquipC d'un microprocesseur Aspect 2000 dans D,O (pD = pH 
+
++ 0,39) dans les m&amp;mes conditions de temperature. La concentration 
+
+en substrat aprks deutCration de tous les protons echangeables est de 
+1,08 X 
+M, celle en cations varie de 0 i 5,40 x lo-, M. 
+
+Resul tats 
+Titrages potentiomttriques 
+Les reseaux des courbes de neutralisation pH = f(q) de 
+Ac-DVDA-OH en presence de divers cations metalliques, 
+
+montre une acidification dans la zone de pH etudiC 3 &lt; pH &lt; 
+
+7 (fig. 2). 
+A titre d'exemple nous avons porte sur la figure 3 , les 
+courbes obtenues en presence de Ni(I1) a differentes concentra-
+tions. Un equilibre de complexation existe donc, en milieu 
+acide, lorsque les fonctions carboxyliques des deux residus 
+aspartyl commencent a Ctre dissociees (pk2 = 3,70; pk, = 
+4,84). 
+
+L'examen des courbes Y = f(log L,)-pour les diffkrents 
+rapports CM/CA montre que les valeurs de r sont faibles (0,l &lt; 
+
+Can. J. Chem. Downloaded from www.nrcresearchpress.com by 87.160.185.190 on 03/27/14 
+
+For personal use only. 
+
+
+A S S 0 ET A L . 
+
+238 1 
+
+FIG. 2. Courbes de neutralisation pH = f(q) de Ac-DVDA-OH 
+
+(4 X lo-' M) en prksence de divers cations mktalliques (4 X 10-'M). 
+
+7 &lt; 0,4) pour tout l'intervalle de pH considCre. 
+
+Compte tenu de ce resultat, nous nous sommes limites dans 
+un premier temps, la formation de complexes a un seul 
+ligand. D'autre part, la concentration en sel metallique etant 
+peu ClevCe ( C M max = 8 x 
+M), nous avons envisage, en 
+premiere approximation, la formation des complexes mononu-
+clCaires a un seul ligand, issus des equilibres. 
+
+H2A e Ha + H ( k 2 ) 
+I101 M + HA e MHA ( P I , ! ) 
+
+oh H2A, HA et A representent respectivement le tktrapeptide a 
+
+1, 2 et 3 charges nCgatives. Les constantes de stabilitC PI I et 
+Plol sont dCtermintes successivement pour 2 &lt; q &lt; I puis 1 &lt; 
+q &lt; 0. 
+
+La calcul donne alors une valeur approchCe de ces cons-
+tantes. Ces valeurs sont ensuite optimalisees par un calcul 
+complet des courbes de titrage a l'aide d'un microprocesseur 
+Commodore 8032. 
+Afin de mieux cerner le phCnomkne de complexation, nous 
+avons tenu compte des Cquilibres pouvant apparaitre dans les 
+
+zones de pH (ou 4) extrCmales du rbeau. En milieu acide, pour 
+
+q = 2, ia prCsence du complexe MHzA forme 
+du 
+tetrapeptide chargC nkgativement sur le groupement carboxy-
+late du residu alanine C terminal doit Ctre considCree, mCme si 
+
+FIG. 3. Courbes de neutralisation pH = f ( y ) de Ac-DVDA-OH 
+
+(4 x 1 0 -9 ) en presence de NiCIZ: A, NiZ+ = 2 X 10-'M; B, Ni" 
+= 4 X lo-' M; C, Ni" = 8 X lo-' M. 
+
+l'ecartement des courbes du rCseau pH = f (q) est peu impor-
+tant. La dktermination de la constante PI?, est de ce fait peu 
+
+precise. Elle a Ct C estimee 4 + 1 . Une meilleure approche du 
+
+milieu acide a pu Ctre effectuCe par rmn, grace a l'utilisation du 
+cation paramagnttique P?'. 
+
+La dernikre partie du rCseau (q &lt; 0,15) est caracterisee par 
+
+une evolution trks lente des potentiels des solutions, contenant 
+les elements Zn(II), Cu(I1) et Cd(I1), peu avant la zone de 
+precipitation. Outre la presence d'hydroxocomplexes du type 
+M(0H)' Ctablie par certains auteurs (23), il est nCcessaire 
+d'envisager la formation possible de complexes polynucle-
+aires. Cependant, les calculs basks sur l'abaissement du pH des 
+solutionsdans cette zone instable ne sont pas assez rigoureux 
+pour formuler une estimation convenable du phenomene. 
+L'ensemble des rCsultats sont regroupCs dans le tableau 1. 
+
+Des valeurs des constantes P, , , , on tire les concentrations des 
+
+espkces presentes en solution. Les courbes de rkpartition en 
+
+fonction de pH ou de q permettent de preciser les proportions 
+
+relatives des espkces ainsi que leur domaine de formation, 
+comme on peut l e constater sur la figure 4. 
+Cette Ctude a Ct C necessaire pour suivre par rmn les varia-
+tions des dCplacements chimiques des protons en prCsence des 
+cations Ca2+ et P?+. 
+
+Titrages de la rksotzance magtzttiq~te tzlrclkaire 
+Dkplacements chimiques en pre'sence de PrClj 
+Les variations de dCplacement chimique de tous les protons 
+du tetrapeptide Ac-DVDA-OH ont Ct C suivies sur des solutions 
+Can. J. Chem. Downloaded from www.nrcresearchpress.com by 87.160.185.190 on 03/27/14 
+
+For personal use only. 
+
+
+CAN. I. CHEM. VOL. 62. 1984 
+
+FIG. 4. Repartition en fonction du pH des espbces libres et complexCes du tetrapeptide Ac-DVDA-OH: (a) en presence de Ca(ll), CM/CA = 
+2; (b) en presence de Zn(II), CM/CA = 2. 
+
+TABLEAU 1. Constantes de stabilite des complexes metal-
+liques de Ac-DVDA-OH (25"C, KC1 = 0,5 M, K2S04 = 
+
+0,5 M ) 
+
+Constantes de dissociation k, de Ac-DVDA-OH 
+
+Constantes de stabilitk des complexes M,H,A, 
+
+Ca2+ 
+Cd2+ 
+co2+ 
+cu2+ 
+Mn2+ 
+Ni2+ 
+
+Pi" 
+
+zn2+ 
+
+log PI,,* 
+log P l l l 
+log PI01 
+
+*Pour les differents cations mCtalliques CtudiCs par poten-
+
+tiomttrie la valeur moyenne retenue est log P121 = 0.60. 
+
+de concentration 1,08 X lo-* M ajustees a pH = 2,50 et 7,OO. 
+Le fait le plus marquant est le diplacement vers les champs 
+forts des groupements -CH, et Ha des deux residus aspartyl 
+ainsi que celui de H, du residu alanyl, lors de la neutralisation. 
+Les experiences ont CtC ensuite reproduites dans des conditions 
+identiques en presence de quantites croissantes de PrCI3 (0 a 5,4 
+X lo-' M). Les resultats des deplacements des pics sont 
+groupCs sur les figures 5 et 6. L'introduction du cation Pr3+ 
+provoque: en milieu acide, une variation importante des reso-
+nances des protons H, et -CH, de I'alanine, alors que les 
+
+FIG. 5. Variation du deplacement chimique (ppm) des noyaux 'H 
+de Ac-DVDA-OH en fonction de la concentration en PrC1, i pH = 
+2,50. 
+
+autres protons sont peu perturbts; en milieu neutre, les groupe-
+ments -CH2 des rCsidus aspartyl subissent le plus fort glisse-
+meht chimique (fig. 6). 
+A partir de ces variations nous avons procCdC une estima-
+
+tion des constantes de stabilite au moyen des relations [l] a [4] 
+
+et [7]. 
+Can. J. Chem. Downloaded from www.nrcresearchpress.com by 87.160.185.190 on 03/27/14 
+
+For personal use only. 
+
+
+TABLEAU 2. Constantes de stabilitk pZ et dkplacements induits limites Az (Hz) des complexes Ac-DVDA-OH -
+
+Pr(ll1) = ML? B pH = 2.50, KC1 = 0.5 M 
+
+Paramtttre HP (Asp') H, (Val) Me (Val) H, (Asp" 
+HHe (Asp3) H,, (Ala) Me(Ala) Me (Ac) 
+
+1% PZ 
+
+0,78 
+0.83 
+0.72 
+0,74 
+0.80 
+0,76 
+0.81 
+0,80 
+Az 
+22 1 
+88.3 
+265 
+629 
+309 
+1766 
+1148 
+44 
+
+TABLEAU 3. Constantes de couplages 3 J H C m C ~H (HZ) et conformkres de rotation* autour de la liaison 
+Ca-CP des rksidus aspartyls a pH = 7,00 
+
+[Ca2+] 
+Asp 1 
+
+[Ac-DVDA-OH] 
+
+J A X 
+J B X 
+
+PI 
+PII PIII 
+
+Asp 3 
+
+*Par convention les protons HB resonnent 5 fort, les rotameres I, 11, I11 correspondent aux angles de 
+torsion X , = -60 (I), 180 (11). 6 0 (111). 
+
+4 
+
+qui aprks transformation s'tcrit: 
+
+(PP~I 
+
+[I31 6 = fML2 AML2 = fML2. A2 (cf. notations) 
+
+FIG. 6. Variation du dkplacement chimique (ppm) des noyaux 'H 
+
+de Ac-DVDA-OH en fonction de la concentration en PrC13 a pH = 
+
+7.00. 
+
+3 . 
+
+A pH 2,50 les espkces H3A, H2A et MH2A sont essentielle-
+ment presentes. La relation [6] devient: 
+
+[ 121 60,s = fL3 ' 8L3 + f L 2 ' 8L2 + fML2 ' 6ML2 
+
+Le meilleur accord est obtenu pour PlzI = P2 = 6 2 1. 
+Rappelons que la determination de PI,, effectuee par potentio-
+
+metrie a permis d'avoir seulement un ordre de grandeur de la 
+constante de complexation du fait de la faible modification des 
+valeurs de pH. 
+
+Discussion 
+
+Les rksultats concernant la determination des constantes P2 et 
+
+les diplacements induits limites A2 sont regroupes dans le 
+tableau 2. 
+Couplages en prtsence de CaClz 
+Alors qu'en milieu acide, l'addition de CaC12 n'apporte pas 
+
+2 .. 
+
+de modifications de la partie spectrale correspondant aux rkso-
+nances des residus Asp, au pH physiologique les couplages JAX 
+et JBX subissent une variation en fonction du rapport [Ca2+]/ 
+[Ac-DVDA-OH]. Nous observons en particulier, une augmen-
+
+tation de J, : (5,98 B 10,2 Hz) pour le rksidu aspartyl en posi-
+
+tion 3 (tableau 3). 
+L'analyse des constantes de couplage vicinales, effectuke au 
+moyen de la relation de Karplus-Bystrov (24): 
+
+[ 141 3JHcmc~H = 1 1 cos2 8 -1,4 cos 8 + 1,6 sin2 8 
+
+donnent un angle dikdre 8 = 148" (HaCaCPHP') et 8 = 70° 
+(HaC"CPHP2) pour le risidu Asp 3. 
+
+Le rotamkre caractirise par l'angle X, (NCaCPCY) = -60" est 
+
+le principal conformbe prisent en solution (-69%). Ces resul-
+tats sont a rapprocher de ceux obtenus pour un autre peptide 
+transporteur de calcium (25). 
+
+Les constantes d'iquilibre des systkmes Ac-DVDA-OH -
+cations metalliques Ctablies dans ce travail ont permis de dega-
+ger les points suivants. 
+
+En milieu acide, l'examen de la constante p2 obtenue par 
+
+titrage rmn en presence de PrC13 montre qu'un complexe labile, 
+certainement monodentate, est form6 par interaction entre le 
+
+cation PI^' et le groupement -COO-C terminal du residu 
+
+alanine. Les diplacements chimiques ayant pour origine une 
+interaction dipolaire sont exploitables dans un calcul en raison 
+Can. J. Chem. Downloaded from www.nrcresearchpress.com by 87.160.185.190 on 03/27/14 
+
+For personal use only. 
+
+
+2384 
+
+CAN. J. CHEM. VOL. 62. 1984 
+
+de la relation gComCtrique simple existant entre la position du 
+cation paramagnitique et celle du noyau perturb6 (26). Cette 
+relation, dans le cas ou le complexe prisente un axe de symttrie 
+principal, s'Ccrit: 
+
+ou D est un terme constant pour un complexe donne, ri est la 
+distance entre le noyau i et le centre paramagnktique, Oi est 
+
+l'angle zntre l'axe de symCtrie principal du complexe et le 
+vecteur ri. On remarque, effectivement, que les noyaux les plus 
+proches du site d'interaction subissent la plus forte variation: 
+Ha et le groupement Me de l'alanine. L'interaction s'attknue 
+trks rapidement avec la distance ( l l r l ) ; de ce fait les autres 
+noyaux subissent peu de variation (fig. 5). 
+En milieu neutre, 1'Ctude basCe sur la variation du pH des 
+solutions et celle des frCquences de resonances des 'H montre: 
+
+une forte augmentation de la constante de stabilitC (environ lo3 
+
+fois) pour les diffkrents systkmes CtudiCs; une perturbation im-
+portante des noyaux -CH2 des deux groupements aspartyl 
+mCme en prCsence de faibles quantitCs de PrC13; une augmenta-
+
+tion de la constante de couplage JAx relative aux groupements 
+
+aspartyl notamment pour le rCsidu Asp3, lorsque la concentra-
+
+tion de CaC12 est supCrieure a celle du ligand. L'affinitt relative 
+
+des cations CtudiCs vis a vis des groupements carboxylates du 
+tktrapeptide diminue du cuivre au manganese selon: Cu(I1) .&gt; 
+
+Ni(I1) &gt; Ca(I1) &gt; Zn(I1) &gt; Pr(III), Cd(I1) &gt; Co(II), Mn(I1). 
+
+Par comparaison avec les donnees etablies par Williams (27), 
+il ressort de cette Ctude que le tetrapeptide Ac-DVDA-OH a une 
+nette affinite vis 2 vis de Ca2+. Le cuivre montre egalement une 
+forte interaction avec le modele synthetisC. ~ne-stabilisation 
+importante due au cuivre est d'ailleurs vCrifiCe pour la plupart 
+des systemes peptidiques analogues (28, 29). 
+Pour rendre compte de ces resultats, il s'impose d'avoir 
+
+recours a la formation possible d'un chelate ou le cation mCtal-
+
+lique, ici Ca2' ou Pr3+, interagit fortemment, a la fois avec 
+
+deux groupements carboxylates des deux rCsidus aspartyl. 
+
+Cette hypothkse est a comparer aux modeles proposCs pour 
+
+l'interaction Angiotensine-Yb3' (30). Nous ne disposons en-
+core que de donnCes trop peu nombreuses pour formuler des 
+propositions sur une conformation prCfCrentielle. I1 est vrai-
+semblable que la portion de la chaine comprise entre Asp' et 
+Asp3 garde une souplesse importante. Cette etude a permis de 
+
+souligner l'importance de l'interaction du calcium vis a vis 
+
+d'un modele peptidique prksentant deux groupements carboxy-
+lates rapprochCs sur les chaines laterales. Cette affinitC montre 
+donc une coordination sClective de 17C1ement alcalino terreux 
+dans un environnement favorable. Les mesures de constantes 
+de couplage mettent en evidence une rkorientation prkferentiel-
+le du systeme en prksence de Ca(II), en particulier la formation 
+privilCgiCe d'un conformere de rotation autour de Ca--CP. 
+
+Conclusion 
+
+Le tktrapeptide Ac-DVDA-OH homologue d'un fragment 
+actif de proteines contenant du calcium, montre une affinitC 
+pour Ca2' nettement plus importante que pour d'autres peptides 
+courts etudies jusqu'ici. 
+La substitution isomorphe des cations Ca2+ par les cations de 
+lanthanides utilises comme reactifs de dCplacement chimique, 
+
+P9' dans l'Ctude, .permet de mettre en evidence en solution 
+aqueuse l'existence de deux modes de complexation dont l'un 
+concerne la fonction carboxylique situCe en bout de chaine en 
+milieu acide, et l'autre les deux rCsidus aspartyl des chaines 
+1atCrales pour le pH physiologique. 
+
+Rernerciernents 
+
+Les auteurs remercient bien vivement Mlle. M. Noailly pour 
+l'obtention des spectres rmn. 
+
+1. R. J. SUNDBERG et R. B. MARTIN. Chem. Rev. 74, 492 (1974). 
+2. P. M. COLMAN, J. N. JANSONIUS et B. W. MATTHEWS. J. Mol. 
+Biol. 70, 701 (1972). 
+3. S. LINDSKEG et J. E. COLEMAN. Proc. Nat. Acad. Sci. U.S.A. 70, 
+2505 (1973). 
+4. H. SIGEL, B. E. FISHER et B. PRIJS. J. Am. Chern. Soc. 99, 4489 
+(1977). 
+5. K. D. HARDMAN et C. F. AINSWORK. Biochemistry, 11, 4910 
+(1972). 
+6. T. P. A. KRUCK, S. J. LAU et B. SARKAR. Can. J. Chem. 54, 
+1300 (1976). 
+7. H. LAKUSTA, C. M. DEBER et B. SARKAR. Can. J. Chern. 58,757 
+(1980). 
+8. K. S. IYER, J. P. LAUSSAC et V. SARKAR. Int. J. Pept. Protein 
+Res. 18, 468 (1981). 
+9. M. ASSO, C. GRANIER, J. VAN RIETSCHOTEN et D. BENLIAN. 
+J. Chim. Phys. 79, 455 (1982). 
+10. A. D. SHERRY, M. A. LINDORFER, P. ADAMS STEMLER et 0 . A. 
+MILANES. Biochemistry, 20, 3492 (1981). 
+11. A. P. SNYDER, D. R. SUDNICK, V. K. ARKLE et W. DE W. 
+HORROCKS. Biochemistry, 20, 3334 (1981). 
+12. R. B. MERRIFIELD. J. Am. Chem. Soc. 85, 2149 (1963). 
+13. B. F. GISIN. Helv. Chim. Acta, 56, 1476 (1973). 
+14. R. OSTERBERG. Acta Chem. Scand. 19, 1445 (1965). 
+15. L. Asso, M. Asso, J. MOSSOYAN et D. BENLIAN. J. Chim. Phys. 
+75, 561 (1978). 
+16. L. ABELLO, A. ENSUQUE, M. JOUINI et G. LAPLUYE. J. Chim. 
+Phys. 77, 537 (1980). 
+17. J. BJERRUM. Metal amine formation in aqueous solutions. Haase 
+and Son, Copenhague. 1957. 
+18. C. D. BARRY, A. C. T. NORTH, J. A. GLASEL, R. J. P. WILLIAMS 
+et A. V. XAVIER. Nature (London), 232, 236 (1971). 
+19. A. D. SHERRY et E. PASCUAL. J. Am. Chem. Soc. 99, 5871 
+(1977). 
+20. J. MOSSOYAN, M. Ass0 et D. BENLIAN. J. Magn. Reson. 46, 289 
+(1982). 
+21. M. Asso, J. MOSSOYAN, L. ASSO et D. BENLIAN. J. Chim. Phys. 
+80, 251 (1983). 
+22. J. GARIEPY, B. D. SYKES et R. S. HODGES. Biochemistry, 22, 
+1765 (1983). 
+23. S. CHABEREK, R. C. COURTNEY et A. E. MARTELL. J. Am. 
+Chem. Soc. 74, 5057 (1952). 
+24. V. F. BYSTROV. Prog. Nucl. Magn. Reson. Spectrosc. 10, 44 
+(1976). 
+25. D. W. HUGHES et C. M. DEBER. Biopolymers, 21, 169 (1982). 
+26. H. M. McCoNNELet R. E. ROBERTSON. J. Chem. Phys. 29, 1631 
+(1968). 
+27. R. J. P. WILLIAMS. Q. Rev. 24, 231 (1970). 
+28. T. P. A. KRUCK et B. SARKAR. Can. J. Chem. 51, 3555 (1973). 
+29. B. SARKAR, J. P. LAUSSAC et S. J. LAU. Biological aspects of 
+metals and metal related diseases. Raven Press, New York. 1983. 
+30. R. E. LENKINSKI et R. L. STEPHENS. J. Inorg. Chem. 18, 175 
+(1983). 
+Can. J. Chem. Downloaded from www.nrcresearchpress.com by 87.160.185.190 on 03/27/14 
+
+For personal use only. 
+
+
+
+	
+

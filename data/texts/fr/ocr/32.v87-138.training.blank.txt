@@ -1,0 +1,655 @@
+
+	
+
+		
+
+	
+
+	
+
+~t u d e 
+des melanges eau-HF par spectroscopie infrarouge a transformee de Fourier 
+
+JALEH KHORAMI, R ~J E A N 
+BEAUDOIN ET HUGUES M ~N A R D ' 
+
+DPpartement de chimie, FacultP des sciences, Universiti de Sherbrooke, Sherbrooke (QuP.), Canada JIK 2R1 
+
+R e p le 28 juillet 1986 
+
+JALEH KHORAMI, R ~J E A N 
+BEAUDOIN et HUGUES M ~N A R D . 
+Can. J. Chem. 65, 817 (1987). 
+L'analyse des spectres infrarouges des mtlanges HF-H20 entre 10 et 97% en HF nous a permis de determiner l'tvolution des 
+esptces ioniques de HF. Les rtsultats obtenus montrent la presence des ions H30f F-, H30+, F-ainsi que H20 dans des 
+
+solutions HF-H20 a moins de 46% en poids de HF. A partir de 50% HF en poids, on a constatt I'apparition des bandes 
+
+caracttristiques de HF2-dont les intensitts augmentent avec la concentration jusqu'a 90% en HF. D'autre part, nous avons mis 
+en tvidence I'existence des polymtres (HF), dans les solutions B haute concentration en HF. Ces rtsultats expliquent le 
+comportement tlectrochimique des solutions HF-H20 que nous avons entreprises. 
+
+JALEH KHORAMI, R ~J E A N 
+BEAUDOIN, and HUGUES M ~N A R D . 
+Can. J. Chem. 65, 817 (1987). 
+An analysis of the ir spectra of HF-H20 mixtures containing from 10 to 97% of HF has been used to determine the evolution 
+of the ionic species of HF. The results indicate that water and the ions H30f F-, H30+, and F-are present in the solutions 
+containing less than 46% w/w of HF. In the solutions containing at least 50% w/w of HF, bands characteristic of the ion HF2-
+start appearing and their intensity increases with the concentration of HF, up to a concentration of 90%. As well, polymers of 
+(HF), have been detected in the solutions containing the highest concentration of HF. These results can be used to explain the 
+electrochemical behaviour of solutions of HF-H20. 
+[Journal translation] 
+
+Introduction 
+Les proprittts des mtlanges eau-HF mesurtes par voie 
+Clectrochimique indiquent des changements importants au 
+niveau de l'ionisation en solution (1-3) en passant des solutions 
+diluCes aux mtlanges trks concentrts. En particulier dans la 
+rtgion de 45 a 75% en poids de HF, plusieurs proprittts passent 
+par un maximum ou une transition. La temperature d'tbullition 
+(4), la conductivitt (I), l'activitt en ions fluorure (2, 3) et la 
+densitt (1) en sont des exemples. 
+L'ttude des mtlanges eau-HF par spectroscopie infrarouge 
+effectute par Gigukre et Turrell (5, 6) permet d'ttablir de fason 
+claire les espkces prtsentes jusqu'h 46% en HF. A plus grande 
+concentration en HF, la comprthension des proprittts tlectro-
+chimiques et physiques ntcessite la connaissance des espkces 
+ioniques et moltculaires en solution. 
+L'utilisation de la spectroscopie infrarouge nous permet donc 
+de mettre en tvidence l'tvolution des espkces formtes en 
+
+solution avec la concentration croissante en-^^ de 10 a 90%. 
+
+Par ces ttudes, on mettra en tvidence les especes ioniques 
+H30', HF2-et la probabilitt de la formation des espkces 
+polymtriques du fluorure d'hydrogene. Ces rtsultats confirment 
+et expliquent les proprittts particulieres des mtlanges eau-HF 
+observCes lors des ttudes en tlectrochimie. 
+
+Partie experimentale 
+Les solutions de HF sont prtpartes A l'avance. Les spectres ont tte 
+e~egistrts i la temptrature ambiante B I'aide d'un appareil infrarouge 
+B transformte de Fourier Nicolet MXI avec une rtsolution de 2 cm-I. 
+Le temps de balayage se situe entre 30 et 60 secondes. 
+Pour les mtlanges eau-HF contenant moins de 46% en poids de HF, 
+nous avons utilist un film capillaire form&lt; en pressant une fine goutte 
+de liquide entre deux pastilles de KBr. A plus grande concentration 
+en HF, nous avons utilist la m2me technique avec des pastilles de AgCl 
+cause de la rtactivitt de la solution vis-a-vis le KBr. Le spectre est 
+e~egistrt rapidement B cause de la haute pression partielle du HF. 
+
+Resultats et discussion 
+La figure 1 montre une superposition des spectres qui permet 
+de voir l'tvolution des bandes attributes aux difftrentes espkces 
+en solution. 
+
+1. Auteur a qui adresser toute correspondance. 
+
+Les tableaux 1-4 rtsument les attributions des bandes entre 
+4000 et 2500 cm-', 2500 et 1600 cm-', 1600 et 800 cm-' et 
+
+800 et 400 cm-'. 
+
+Re'gion de 4000 a 2500 em-' 
+Lorsqu'on ajoute du HF a l'eau, on peut remarquer l'appari-
+tion d'un tpaulement vers 2700 cm-'. 
+L'intensitt de cet tpaulement augmente jusqu'i une concen-
+tration de HF 51% en poids et se dCplace ltgerement vers les 
+frtquences plus tlevtes. A partir de 61% de HF, on observe une 
+diminution de l'intensitt pour cet tpaulement par rapport au pic 
+situt vers 3500 cm-'. 
+Les deux bandes foment un ensemble qui s'ttend entre 
+3700 et 2500 cm-' pour les solutions plus concentrtes en HF. 
+
+Giguere et Turrell(5,6) ont attribuC cette bande vers 2700 cm-' 
+
+a une vibration v3 de H30' pour les mtlanges contenant moins 
+que 46% de HF. Cette bande qui est due aune liaison hydrogkne 
+trks forte entre H30' et l'ion de fluorure en solution se dtplace 
+vers les frtquences plus basses en comparaison avec les 
+mtlanges similaires de HCl et l'eau qui se trouve vers 
+
+2900 cm-'. 
+
+Pour ces mtlanges, la force de liaison hydrogkne entre les 
+ions de C1-et H30' est considtrte trks faible. 
+Dans nos ttudes, le dtplacement et la diminution de 
+l'intensitt de la bande vers 2700 cm-' sont peut-&amp;tre dus 
+respectivement a une baisse de la force de liaison hydrogene 
+enGe H30' et l'ion de fluorure et la dtcroissance des especes 
+ioniques H30' dans les solutions concentrtes de HF. 
+D'autre part, on a remarqut que les bandes v et v3 de l'eau 
+situte dans cette rtgion vers 3500 cm-I persistent toujours et 
+m&amp;me augmentent d'intensitt a partir des solutions contenant 
+61% de HF. 
+D'apr6s les ttudes suivantes qui montrent la disparition quasi 
+totale des bandes caracttristiques de l'eau sur les spectres ir a 
+partir de 61% en HF, cette bande vers 3500 cm-' ne peut pas 
+appartenir l'eau. 
+Si on se rtfere aux travaux de Couzi (7) qui ont t t t effectues 
+pour HF gazeux et les travaux de Gennick et al. (8) pour HF 
+dans un milieu aqueux en prtsence des ions d'alkylammonium 
+ainsi que les ttudes de Desbat et Huong (9) qui comparent 
+Can. J. Chem. Downloaded from www.nrcresearchpress.com by 87.160.185.190 on 03/27/14 
+
+For personal use only. 
+
+
+818 
+
+CAN. J. CHEM. VOL. 65, 1987 
+
+4 4 0 0 
+
+3200 
+2000 
+
+1 4 0 0 
+
+eoo 
+
+200 
+
+cm-' 
+
+FIG. 1. Spectre infrarouge des m6langes HF-H20 en poids. 
+
+les spectres ir des melanges concentrks en HF et ceux de HF 
+gazeux, on est convai,ncu que cette bande large situee vers 
+3500 cm-I est due a la formation des espkces de polyrneres 
+ioniques de HF. 
+D'autre part, les Ctudes prCcCdentes (10, 11) confirment nos 
+rksultats et montrent que les spectres infrarouges des melanges 
+concentres en HF sont comparables a ceux du HF gazeux. 
+
+La rkgion de 2500 a 1600 cm-' 
+La comparaison des spectres infrarouges de l'eau (12) et des 
+mClanges eau-HF jusqu'a 97% rnontre les points suivants : 
+1. Les vibrations de l'eau situCes vers 1645 et 2125 cm-' 
+diminuent d'intensite avec l'augmentation de la concentration 
+en HF a partir de 61% en HF; ces bandes caractCristiques 
+disparaissent complktement pour donner leurs places 2 une 
+bande de vibration large situCe entre 1600 et 2000 cm-'. 
+L'intensitC de cette bande augmente et son maximum se trouve 
+vers 1730 cm-' aux hautes concentrations en HF. 
+2. On peut noter que, pour les solutions de 10 a 50% en HF, 
+la disparition des deux bandes caractCristiques de l'eau est 
+
+TABLEAU 1. Les bandes de vibration observkes dans la rCgion entre 
+4000 et 2500 cm-' 
+
+3480 cm-I 
+2770 cm-' 
+
+% Poids 
+Intensit6 
+Intensite 
+HF/H20 
+relative 
+Attribution 
+relative 
+Attribution 
+
+H20 
+TF 
+v, et v3 H20 
+-
+-
+10 
+
+TF d J 
+
+vl et v3 H-0 
+(2720) ep v3 H30+.F-
+20 
+
+TF d J 
+
+vl et v3 H20 
+(2750) f 
+v3 H30+.F-
+46 
+F d J 
+v l e t v 3 H 2 0 F 
+v3 H30+'F-
+5 1 
+F 
+v l e t v 3 H 2 0 
+F 
+v3 H30t.F-
+v HnF,, 
+
+I, H ,, F,, 
+
+6 1 
+F 
+v H , l F f l F 
+v3 H30+.F-
+
+v H ,, F,, 
+
+7 1 
+F 
+v H,,F,, 
+F 
+
+d J v3H30+.F-
+
+78 
+TF 
+v H,,F,, 
+F 
+
+d J v3H30+.F-
+
+v H,, F,, 
+86 
+
+TFd T 
+
+v H,,F,, M d J v3H30+.F-
+
+lJ H , I F,, 
+90 
+T F d 
+v H,,F,, ep d J 
+v3H30+.F-
+v H,,F, 
+
+"RCfCrence 9. TF = trts forte; F = forte; M = moyen; f = faible; tf = trts 
+
+faible; ep = Cpaulement; L = large; d t = dCplacement vers les frequences 
+
+plus ClevCes; d = diplacement vers les frequences plus basses. 
+
+suivie par l'apparition d'une bande dont le maximum est situe 
+vers 1880 cm-'. 
+Dans les solutions aqueuses de HF, la bande de vibration 
+
+centrte a 1880 cm-' est symCtrique. Par analogie avec le spectre 
+
+des autres acides mineraux (1 l), Gigukre et Turrell (5, 6) 
+ont attribuk cette bande au pliage (bending mode) v4 de l'ion 
+H30+. Cette frkquence, beaucoup plus ClevCe que dans l'acide 
+chlorhydrique (1750 cm-I), a Ct C attribuCe a la formation de 
+paires d'ions liCs par liaison hydrogkne. On peut representer ces 
+ions a partir de 1'Cquilibre suivant : 
+
+Cette frequence, trks 6levCe pour un pliage hors plan, est 
+ind?catrice d'une tr&amp;s grande force de rappel. 
+A partir de 50% en HF, on note un Clargissement et le 
+dCplacement du pic a 1800 cm-I vers 1730 cm-'. La bande 
+devient non symetrique et s'Ctend encore de 200 a 1600 cm-I. 
+Le maximum a 1730 cm-' apparait d'abord comme un Cpaule-
+rnent et augmente d'intensite avec la concentration en HF 
+jusqu'a 90%. 
+D'aprks les Ctudes effectuees par Emsley (1 2) sur les spectres 
+infrarouges de HF2-et qui fait intervenir les resultats de 
+recherches de differents auteurs, il est fort probable que 
+l'apparition de 1'Cpaulement vers 1730 cm-' et le dCplacement 
+
+de la bande de vibration a 1880 crn-' vers 1730 cm-' sont dus 
+
+2 la formation de l'espece ionique HF2-selon les equilibres 
+suivants : 
+
+La bande de vibration v3 de HF2-peut &amp;tre retrouvCe entre 
+1450 et 1900 cm-'. Harmond et al. (13) ont observe cette bande 
+
+a 1740cm-'. 
+
+D'aprks nos rksultats de spectroscopie infrarouge, il est 
+possible de prCvoir les conclusions suivantes sur les espkces 
+Can. J. Chem. Downloaded from www.nrcresearchpress.com by 87.160.185.190 on 03/27/14 
+
+For personal use only. 
+
+
+KHORAMI ET AL 
+
+'TABLEAU 2. Les bandes de vibration observ6es dans la rigion entre 2500 et 1600 cm-I 
+
+2140 cm-I 
+1645 cm-' 
+1880-1730 cm-' 
+
+% HF 
+Intensit6 
+Intensit6 
+Intensit6 
+(poids) 
+relative 
+Attribution 
+relative 
+Attribution 
+relative 
+Attribution 
+
+-
+
+(1800) M 
+
+(1 880) M 
+(1880) M, L 
+(1805) TF, L 
+
+(1790) TF, L 
+
+(1775) TF, L 
+
+(1730) TF, L 
+
+(1730) TF, L 
+(1730) TF, L 
+(1730) TF, L 
+(1700) ep, L 
+
+"RCfkrence 9. TF = trts forte; F = forte; M = moyen; f = faible; tf = tres faible; ep = epaulement; L, = large; 
+
+d 
+
+= deplacement vers les frequences plus Clevees; d = dCplacement vers les frequences plus basses. 
+
+ioniques et moltclilaires dans les milanges eau-HF : 
+
+1. La diminution a partir de 10% en HF et la disparition 
+
+quasi-totale de l'eau alibre)) a partir de 60% en HF. 
+2. L'apparition et l'augmentation de la concentration de la 
+
+paire d'ions H3O+.FP de 10 a 50% en HF. 
+
+3. L'apparition partir de 50% en HF et I'augmentation de la 
+concentration de HF2-jusqu'h 85% en HF. 
+
+La rigion de 1600 a 800 cm-' 
+Dans cette rCgion de vibration, l'eau ne posskde aucune 
+bande en infrarouge. Par contre, on peut constater sur le spectre 
+des mtlanges eau-HF l'apparition d'un Cpaulement situe vers 
+1035 cm-'. D'autre part, on peut noter qu'avec l'augmentation 
+de la concentration en HF jusqu'a 50%, 1'Cpaulement 
+1030 cm-' se transfofme en un pic large dont le maximum se 
+situe a 1000 cm-'. A plus de 50% en HF, ce pic diminue 
+d'intensitC et on veit apparaitre vers les frequences plus ClevCes 
+une bande large. A partir de 60% en HF, on observe une bande 
+
+large centree 2 1260 cm-' et dont l'intensite augmente jusqu'h 
+
+90% en HF. Le tableau 3 rCsume 1'Cvolution des diffkrentes 
+bandes . 
+Les observations ci-dessus ainsi que les interprktations citees 
+pour les bandes de vibration situCes entre 1600 et 2500 cm-' 
+nous conduisent aux conclusions suivantes : 
+
+1. On peut interprkter l'apparition de 1'Cpaulement a 1035 cm-' 
+
+dont l'intensitt suit celle du pic a 1800 cm-' a une bande de 
+
+vibration de l'ion H30+. Gigukre (5) a attribuC la faiblesse et 
+la largeur anormalement ClevCe de cette bande au complexe 
+H30+.F-. Dans les autres acides minCraux, v2 de H30' est 
+
+beaucoup plus intense et centrC 2 1200 cm-'. Cette particularit6 
+
+est consistante du point de vue du mornent dipolaire de 
+H30+.FP. 
+2. La diminution d'intensite de la bande centrCe a 1035 cm-' 
+
+suivie de l'apparition de la bande a 1260 cm-' qui augmente 
+
+d'intensitk avec la concentration en HF de ia m&amp;me f a ~o n 
+
+que la bande a 1730 cm-' doit &amp;tre due a la formation et 
+
+l'augmentation de concentration de l'espkce HF2-. Selon 
+Emsley (12), la bande v2 de HF2-est un mode de vibration 
+dCgCnCrC. Ceci pourrait expliquer la largeur importante de la 
+
+bande a 1260 cm-'. 
+
+TABLEAU 3. Les bandes de vibration observkes dans la rkgion entie 
+1600 et 800 cm-I 
+
+1260 cm-I 
+1035 cm-' 
+
+% HF 
+Intensit6 
+Intensit6 
+(poids) 
+relative 
+Attribution 
+relative 
+Attribution 
+
+Eau 
+
+-
+-
+
+-
+10 
+
+-
+
+-
+ep 
+V 2 H30+'F-
+20 
+-
+-
+f, L 
+v2H30i .F-
+46 
+-
+-
+F, L 
+v2 HiOi .F-
+5 1 
+tf, L 
+vl HF2-
+eP 
+V ? H30+.F-
+61 
+f , L 
+vz HF2-
+eP 
+~2 H3Ot.F-
+7 1 
+F, L 
+~2 HF2-
+
+-
+
+-
+78 
+TF, L 
+v z HF2-
+
+-
+-
+
+86 
+TF, L 
+V ? HF2-
+
+-
+-
+
+90 
+TF, L 
+V I HF2-
+
+-
+-
+
+97 
+f , L 
+v2 HF2-
+-
+-
+HF 
+eP 
+V L HnFn 
+-
+-
+
+La re'gion de 800 a 400 cm-' 
+Dans cette rCgion de vibration, l'eau posskde une bande 
+large situCe entrt 300 et 700 cm-' avec un maximum centrC 
+
+ti 500 cm-'. 
+
+Sur les spectres infrarouges des mtlanges eau-HF, on peut 
+Olsse-
+constater une diminution de l'intensitk de ce pic et.un Clar,' 
+ment avec l'augmentation de la concentration en HF. A partir 
+de 46% en HF, on observe aussi l'apparition d'un Cpaulement 
+puis d'un pic vers les frCquences plus Clevtes. On observe 
+encore un maximum vers 650 cm-' pour des concentrations de 
+78 5 90% en HF. Le tableau 4 rCsume l'Cvolutior! des bandes 
+dans cette region. 
+Par ailleurs, on peut remarquer que l'apparition de 1'Cpaule-
+ment et l'augmentation de ce pic, deplacC vers les frequences 
+plus ClevCes, suivent de fason Cvidente la prCsence et l'augmen-
+tation d'intensite des deux bandes vers 3500 et 2770 cm-'. Ces 
+deux bandes de vibration avaient Ct C attribuCes a la formation 
+des espkces polymtriques de HF avec l'augmentation de la 
+concentration de HF jusqu'a 90%. Ces observations nous 
+Can. J. Chem. Downloaded from www.nrcresearchpress.com by 87.160.185.190 on 03/27/14 
+
+For personal use only. 
+
+
+820 
+
+CAN. J. CHEM. VOL. 65, 1987 
+
+TABLEAU 4. Les bandes de vibration observkes dans la rtgion entre 
+800 et 400 cm-I 
+
+650 cm-' 
+475 cm-
+
+% HF 
+Intensite 
+Intensite 
+(poids) 
+relative 
+Attribution 
+relative 
+Attribution 
+
+Eau 
+10 
+20 
+46 
+5 1 
+61 
+71 
+78 
+86 
+90 
+97 
+HF 
+
+(550) TF, L 
+V L H 2 0 
+(550) TF, L 
+V L Hz0 
+(550) F, L 
+V L HzO 
+(600) F 
+V L H,,F,, 
+(610) M 
+V L HIIF,, 
+(620) M 
+V L H,,Fl, 
+M 
+V L HnFn 
+M 
+V L H,,F,l 
+M 
+V L HnFn 
+F 
+V L HnF,, 
+F 
+V L HnF,, 
+(700) F 
+V L HnFn 
+
+poussent a croire que l'apparition d e cette bande de vibration a 
+
+650 crn-' doit Etre like B la formation des espbces polymCriques 
+
+en solution (14). D'autre part, dans H F gazeux, on observe 
+des vibrations d e dtformation 2 800 cm-' attribuCes aux 
+rnultimbtres du fluorure d'hydrogkne. 
+
+Conclusion 
+A partir des rnesures d e spectroscopie infrarouge sur le 
+
+systbrne eau-HF, on peut dCduire le points suivants : 
+1. Dans les mtlanges eau-HF jusqu'h 50% en poids de HF, 
+l'espkce ionique dominante est le H 3 0 + fortement lit5 a l'ion 
+fluorure. 
+
+2. A partir d e 50% en HF, la concentration de HF2-
+
+augmente pour atteindre au maximum entre 8 0 et 90% en HF. 
+
+3. Ces travaux nous ont rnontrC aussi la probabilitC d e 
+
+formation des especes polymCriques dans le systeme aqueux de 
+
+HF, cornrne c'est le cas pour H F gazeux (7, 9) et en presence 
+
+d'ions alkylarnrnonium (8). 
+I1 faut noter que les conclusions dtduites de la spectroscopie 
+infrarouge confirment les travaux effectuCs en Clectrochirnie. La 
+conductivitC reste ClevCe jusqu'a 65% en HF; I'activitC en ions 
+fluorure baisse rapidement entre 4 5 et 65% en HF; le potentiel 
+de rtduction des rnCtaux est affect6 par une espbce en solution 
+diffkrente d e l'ion fluorure entre 5 0 et 100% en HF. 
+
+Remerciements 
+
+Les auteurs rernercient pour l'appui financier le Conseil de 
+recherches en sciences naturelles et en genie du Canada, le 
+Ministkre d e 1'Education du QuCbec et 1'Institut d e 1'Amiante. 
+
+1. E. G. HILL et A. P. SIRKAR. Proc. R. Soc. London, A, 83, 130 
+(1909). 
+2. A. VAILLANT, J. DEVYNCK et B. TR~MILLON. J. Electroanal. 
+Chem. 57, 219 (1974). 
+3. H. M ~N A R D , 
+J. P. MASSON, J. DEVYNCK et B. TR~MILLON. 
+J. Electroanal. Chem. 63, 163 (1975). 
+4. H. H. HYMAN et J. J. KATZ. Dons Non-aqueous solvent systems. 
+T. C. Waddington (Rkdncteur). Academic Press, New York. 
+1965. 
+5. P. A. GIGUERE. Chem. Phys. Lett. 41, 598 (1976). 
+6. P. A. GIGUERE et S. TURRELL. J. Am. Chem. Soc. 102, 5473 
+(1980). 
+7. M. C o u z ~. Thtse de doctorat. Bordeaux, France. 1970. 
+8. I. GENNICK, K. M. HARMON et M. M. POTVIN. Inorg. Chem. 16, 
+
+2033 (1977). 
+9. B. DESBAT et P. V. HUONG. J. Chem. Phys. 78, 6377 (1983). 
+10. J. G. BAYLY, V. B. KARTHA et W. H. STEVENS. Infrared Phys. 3, 
+211 (1963). 
+11. M. FALK et P. A. GIGUERE. Can. J. Chem. 35, 1195 (1957). 
+12. J. EMSLEY. Chem. Soc. Rev. 9 , 9 1 (1980). 
+13. K. M. HARMOND, S. L. MADEIRA et R. W. CARLING. Inorg. 
+Chem. 13, 1260 (1974). 
+14. P. V. HUONG et M. Couzr. J. Chim. Phys. Phys. Chim. Biol. 66, 
+1309 (1969). 
+
+Can. J. Chem. Downloaded from www.nrcresearchpress.com by 87.160.185.190 on 03/27/14 
+
+For personal use only. 
+
+
+
+	
+

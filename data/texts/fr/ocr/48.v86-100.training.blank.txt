@@ -1,0 +1,670 @@
+
+	
+
+		
+
+	
+
+	
+
+Le lithio-2 naphtalene carbonitrile-1 et ses produits de substitutions 
+
+R. R. FRASER ET S. SAVARD' 
+Ottawa-Carleton Chemistry Institute, Universite' d'ottawa, Ottawa, Ont., Canada KIN 9B4 
+Re~u le 23 juillet 1985 
+
+R. R. FRASER et S. SAVARD. Can. J. Chem. 64, 621 (1986). 
+La lithiation du naphtalkne carbonitrile-l conduit i la formation du dCrivC lithio-2 exclusivement. La rCaction de cet 
+intermkdiaire avec dix diffkrents Clectrophiles perrnet d'obtenir les dCrivCs substituCs en position 2 avec des rendements de 
+rnodCrCs 2 bons. Les alkyl-2 naphtalkne carbonitriles-1 sont facilement lithiCs et subsCquemment alkylCs pour donner un 
+substituant alkyle rnodifiC sur la position a. Les valeurs des pK, pour les hydrogknes de la position 2 du naphtalkne carbonitrile-1 
+et du methyl-2 naphtalkne carbonitrile-l ont CtC dCterminCes et sont respectivernent de 36,3 et 28,5. 
+
+R. R. FRASER and S. SAVARD. Can. J. Chern. 64, 621 (1986). 
+Lithiation of 1-naphthonitrile provides the 2-lithio derivative exclusively. Reaction of this intermediate with ten different 
+electrophiles produces 2-substituted derivatives in moderate to good yields. 2-Alkyl-1-naphthonitriles are readily lithiated and 
+further alkylated to provide alkyl substituents modified at the a position. The pK, values for the hydrogen at the 2-position of 
+1-cyanonaphthalene and 2-methyl-1-cyanonaphthalene have been determined to be 36.3 and 28.5, respectively. 
+
+L'ortho-lithiation directe de composts aromatiques est une 
+mtthode efficace pour la prtparation d'intermtdiaires aryl-
+lithiums utilisables ensuite dans les difftrentes syntheses. 
+Plusieurs substituants sont bien connus pour diriger et stabiliser 
+1' ortho-mktalation, par exemple le CH(OR)2, 0CH20CH3, 
+N(R):! et CH2N(CH3), (1). De mEme, certains tlectrophiles se 
+sont avCrts trks efficaces comme agent activateur d'une telle 
+lithiation dont le CONR, le CSNR, le CONR2, l'oxazoline et le 
+0CONR2 (1). Dans ce demier cas, trois mtthodes ont ett 
+utilistes pour Cviter la condensation du carbanion avec le 
+produit de dCpart afin de permettre une concentration acceptable 
+d'aryllithiurn avant l'addition d'un tlectrophile exteme (2): (i) 
+l'utilisation d'une basse temperature de rtaction (-78°C ou 
+moins); (ii) l'utilisation d'un tlectrophile sttriquement (oxazo-
+line (3)) ou Clectroniquement (carbamate, amide (1 c)) dtactivt 
+qui rCagit suffisamment lentement avec la base nucltophile 
+(alkyllithium) ou avec l'anion formt, pour permettre l'attaque 
+subsCquente d'un agent Clectrophilique; (iii) l'addition in situ de 
+l'tlectrophile pour piCger l'intermtdiaire aryllithium immtdia-
+tement aprks sa formation par une base trks sttriquement 
+encombrk, le tktrarntthylpip6ridine amidure de lithium (LTMP) 
+(2, 4). Cette dernikre mtthode appliqute par Krizan et Martin 
+permet d'obtenir des dtrivts benzonitrile-2 et (dicyano-1,3 
+benzene)-2 dans d'excellents rendements, comme dans le cas des 
+rtsultats obtenus prtcedemrnent avec un Cchange halogene-
+mttal (S), contmirement a ceux obtenus par une lithiation directe 
+(lb, 6). 
+Le groupement nitrile a Ctt aussi utilist comme agent 
+activateur dans la mttalation directe d'autres composts aroma-
+tiques, dont le thiophene (7, 8) et le stltnophkne (8). 
+Nous voulons presenter ici la formation du lithio-2 naph-
+talene carbonitrile-1, 1 provenant d'une ortho-lithiation directe 
+(LTMP, THF, -78°C). L'anion formt dans ces conditions est 
+suffisamment stable pour rtagir par la suite avec une grande 
+varittt dlClectrophiles sans que de condensation nitrile-anion 
+ne soit dCcelte. Cette rtaction perrnet d'obtenir un naphtalkne 
+substitut-1,2 possCdant le groupement nitrile-1 transformable 
+par la suite de diverses fa~ons. 
+La tableau 1 prtsente les divers tlectrophiles utilises: les 
+
+I~rCsente adresse: CRIQ (Centre de Recherche lndustrielle du 
+QuCbec), 333, rue Franquet, C.P. 9038, Sainte-Foy (QuC.), Canada 
+GlV 4C7. 
+
+halogtnures d'alkyles, les disulfures, l'iode ainsi que le 
+
+chlomre de trimtthylsilyle conduisent ti de bons rtsultats. La 
+
+constatation gCntrale est, toutefis, que l'utilisation d'un 
+tquivalent de base ne permet pas un rendement suptrieur 9 85%. 
+L'utilisation de composts carbonylts comme agent tlec-
+
+trophilique conduit B l'obtention de deux types de produits 
+
+suivant la nature du produit de dCpart. Ces composCs se foment 
+probablement lors de l'isolement lorsque le melange rtactionnel 
+est trait6 avec l'acide chlorhydrique diluC. Le benzaldthyde 
+avec le lithio-2 naphtalkne carbonitrile-1, 2 donne la lactone 
+
+cyclique 12, identique 2 celle obtenue par Watanabe et Snieckus 
+
+lors de la rtaction du lithio-2 naphtalkne carboxamide-1 
+N,N-ditthyle avec le benzaldthyde (9). Lorsque la cyclohep-
+tanone est utiliste, la formation d'une lactame 11 (ir (CHC13): 
+1668 cm-I; sm: 265 (M+)) est constatte. 
+Le ditthylchlorocarbamate, le chlorure d'acetyle, le bromure 
+de benzyle et la benzophtnone ne permettent pas l'obention de 
+rtsultats utilisables dans les conditions telles aue dtcrites. Avec 
+cette dernikre, toutefois, la prtsence d'un compost de masse 
+335 correspondant au produit de substitution (alcool tertiaire, 
+lactame ou imine) peut Etre dCtectCe par gc-ms parmi les 
+produits multiples de la reaction. 
+Le tableau 2 prtsente les pourcentages de deuttration obtenus 
+lors de la rCaction du naphtalene carbonitrile-1, 1 avec le 
+diisopropyl amidure de lithium (LDA) et le LTMP, suivi d'un 
+pitgeage avec D20. Avec le LTMP, 83% de deuttration sur la 
+position 2 est constatt alors qu'avec la LDA on n'en retrouve 
+que 23%. Aucune deuteration sur un autre site n'est obsewte. 
+Ces rtsultats indiquent une aciditt intermtdiaire entre les deux 
+
+bases qui correspond a un pK, approximatif de 36,3 * 0,6 (10). 
+
+Cette mesure n'ttaient valable que si la quantite de produit 
+deuttrt correspond a la valeur a l'tquilibre de l'espece lithike en 
+prtsence de base.2 La mttalation complkte du nitrile aromatique 
+est donc impossible avec le LTMP (pK, = 37,3) (lob, c) si un 
+equivalent de base est utilist, expliquant le fait que le rendement 
+maximum obtenu dans le tableau I soit de 85%. Le LDA n'est 
+pas assez basique pour dtprotonner de f a ~o n efficace le 
+naphtalkne carbonitrile-1 , 1. I1 est inttressant de constater que le 
+
+'Une expCrience dCmontrant que la quantitC de produit lithiC, 
+rnesurCe par deuteration aprks 15 et 45 rnin de rCaction, est identique, 
+permet de supposer une rtaction a 1'Cquilibre. 
+Can. J. Chem. Downloaded from www.nrcresearchpress.com by 87.160.185.190 on 03/27/14 
+
+For personal use only. 
+
+
+CAN. J. CHEM. VOL. 64. 1986 
+
+TABLEAU 1. Substitutions du naphtalene carbonitrile-1 par lithiation directe avec LTMP 
+
+YN 
+YN 
+YN 
+
+W H + LTMP WLi -WE 
+
+1 
+
+2 
+
+3-10 
+
+Electrophile 
+Produit 
+Point de fusion ("C)" 
+~endemknt~ 
+
+CISi(CH3)3 
+
+C H ~I 
+
+CH3CH21 
+CH3CH2CH21 
+CH3SSCH3 
+PhSSPh 
+I2 
+
+3, E = Si(CH3)3 
+4, E CH3 
+5, E = CH2CH3 
+6 , E = CH2CH2CH3 
+7, E = SCH3 
+8, E = SPh 
+9 , E = I 
+
+10, E = 
+
+Cycloheptanone 
+111 
+
+70-7 1 
+85-86 (Litt. (19) 87-88) 
+66-67 (Litt. (20) 66,5-67,5) 
+
+C 
+
+933-943 
+100-101 
+97-99 
+
+(Litt. (21a) 171-173) 
+(Litt. (21b) 164-166) 
+
+"Le compose isole indique habituellement une purete 98% par gc-ms. 
+bMatiriel isole aprts purification (recristallisation ou chromatographie). On utilise 10 equivalent de LTMP et 1.1 equivalent 
+d'Clectrophile. 
+
+'Liquide incolore. 
+
+"Recristallisation dans I'hexane. 
+'Recristallisation dans I'Cther. 
+f2 equivalents d'electrophile utilises. 
+84 equivalents d'ilectrophile utilises. 
+*Rendement maximum avec I'equivalent de base et d'electrophile, 50%. 
+'Isole par chromatographie. 
+'Une autre structure, I'iminolactone correspondante proposee par un examinateur, est aussi possible. L'evidence de I'infra-
+rouge et de la rmn de "N n'est pas claire a cause du manque de modtles appropries. 
+
+pK, du produit 1 est environ de 2 unites (100 fois) plus acide que 
+celui du benzonitrile (6). 
+
+Lors de l'addition des halogtnures d'alkyles sur le lithio-
+
+nitrile 2, un produit secondaire (de 3 9 8%) est detect&amp; Une 
+
+analyse par gc-ms indique que pour l'iodure de mtthyle, ce 
+produit correspond au derive ethyl-2 naphtalene carbonitrile-I , 
+5.3 La sequence de formation de ce compose est present6 dans le 
+schema 1. Ainsi, aprks l'addition du groupement alkyle en 
+position 2 (A, B) une faible quantite du produit form6 reagit 
+
+avec le lithio-2 nitrile 2 provenant de la metalation de 1 (C) pour 
+
+donner le compose lithie en position benzylique qui reagit 
+ensuite (D) avec l'halogenure d'alkyle. Un phenomkne sem-
+blable a d6jB ete observe par Krizan et Martin (2) lors de 
+l'addition in situ d'iodure de methyle au lithio-2 dicyano-1,3 
+
+benzene, l'utilisation d'un equivalent de l'halogenure conduit B 
+
+la formation presqu'exclusive du derive ethyl-2. Dans notre 
+experience, la quantitt faible presente de ce dCrivt 5 indique que 
+
+l'attaque de l'tlectrophile (B) semble plus rapide que l'tchange 
+
+3 ~e s 
+fragmentation par spectroscopie de masse et rmn 'H sont 
+identiques au produit 5. 
+
+entre l'aryllithium et le derive alkyl-2 (C). Des resultats 
+identiques sont obtenus avec l'utilisation de l'iodure d'ethyle 
+(gc-ms, 5% d'un compose, 209 (M')) et de l'iodure de 
+n-propyle (gc-ms, 3% d'un compost, 237 (M+)). Avec 
+l'utilisation du bromure d'allyle le seul produit d'alkylation 
+is016 correspond au produit de diaddition 10. Dans ce cas, 
+l'acidite des protons allyliques est accrue par la presence du lien 
+double. 
+Ces resultats suggkrent une aciditt plus importante pour les 
+protons benzyliques que pour le proton aromatique de la 
+position 2. Dans l'article de revue de Ronald et Winkle (1 l), 
+la rCaction d'un alkyllithium sur differents toluenes ortho-
+substituts dont, par exemple, le 2-CH2NMe2, le 2-COOH (12) 
+et le 2-CONHMe, conduit a une mttalation exclusive de la 
+position benzylique. 
+Le pK, de cette position a donc kt6 vCrifie et le tableau 2 
+presente les pourcentages de deuttration obtenus lors de la 
+
+lithiation de 4. Le produit est presque entikrement deprotonne 
+
+par le n-propyltrimCthylsily1 amidure de lithium (94% D, aprks 
+addition de D20) alors qu'aucune reaction n'a lieu avec le 
+bis-trimethylsilyl amidure de lithium (LHMDS) (13), indiquant 
+Can. J. Chem. Downloaded from www.nrcresearchpress.com by 87.160.185.190 on 03/27/14 
+
+For personal use only. 
+
+
+FRASER ET SAVARD 
+
+623 
+
+TABLEAU 2. Lithiation et deutiration du naphtalkne carbo-
+nitrile-1 et de son dCrivC mCthyl-2 
+
+CN 
+
+LTMP 
+
+1 -2 -
+
+13 
+
+CN 
+CN 
+
+LTMP 
+
+Lithio-nitrile 
+Base 
+% Do 
+
+PK," 
+
+2 
+
+DIPA 
+23d 
+
+36,7 k 0,6' 
+
+2 
+
+LTMP 
+
+83" 
+
+35,9 * 0,6' 
+
+4a 
+
+HMDS 
+
+-0 
+
+&gt;28.3 
+
+OMesure h partir des valeurs obtenues par rmn 'H et sm. 
+bpKa approximatif en tenant compte d'un tquilibre atteinte entre la 
+base et le nitrile et bas6 sur les valeurs suivantes d'aciditt pour les bases, 
+H 
+DIPA: 35,7; LTMP: 37,3; HMDS: 25.8; / V N S i = : 30,9 (IOc). 
+Valeur moyenne de 2 experiences avec des temps de lithiation de 15 
+et 45 min. 
+dValeur moyenne de 2 experiences avec des temps de lithiation de 25 
+et 240 min. 
+'La valeur de 36.3 ? 0.6 dans le texte provient de la moyenne de 
+ces deux valeurs. 
+
+un pK, approximatif de 28,5 2 0,6, les protons benzyliques 
+Ctant environ 10' fois plus acides que celui de la position 2. 
+Cette grande acidit6 des protons benzyliques permet le 
+prolongement ou la modification de la chaine laterale de f a ~o n 
+efficace (tableau 3). Ainsi la metalation, suivi de l'addition 
+d'iodure de mtthyle, sur le dtrivt ethyl-2, 5 conduit a la 
+formation du dtrivC isopropyl-2, 15. 
+
+L'influence du substituant nitrile-1 sur 1'aciditC du groupe-
+ment mtthyl-8 a CtC aussi Ctudike. La lithiation du mCthyl-8 
+naphtalkne carbonitrile-1, suivie de l'addition de chlorure de 
+trimCthylsilyle conduit uniquement au derive trimethylsilyl-2, 
+17 (tableau 3). Si ce dtrivC est trait6 a nouveau dans les m&amp;mes 
+conditions, aucun derive silylC sur les protons benzyliques de la 
+position 8 n'est observe. L'utilisation d'une base plus forte 
+(lOc), le (cyclohexyl-1 nCopenty1) tertio-butyl amidure de 
+lithium conduit au mCme rtsultat. Ainsi 1'aciditC du mCthyl-8 
+(pK, 42) est beaucoup plus faible que celle retrouvee avec le 
+methyl-2. 
+Certains substituants en position 1 sur le naphtalkne pouvant 
+activer l'hydrogkne de la position 8 (1 a, 1 b) (OCH3 (14), NHR 
+(15), CH2N(CH3)2 (16), S02NHC4H9-t (17)), l'effet du nitrile 
+a Ct C analysk. En bloquant prtalablement la position 2, la 
+plus acide, par un groupement trimCthylsilyle 3, une tentative de 
+lithiation avec le LTMP et ensuite le (cyclohexyl-1 neopentyl) 
+tertio-butyl amidure de lithium, suivie d'une addition de 
+chlorure de trimkthylsilyle, n'a donne aucun resultat obser-
+vable. Avec le n-butyllithium et le tCtramCthylknediamine 
+(TMEDA) dans le THF, suivi de l'addition de l'iodure de 
+mtthyle, le seul produit isole correspond au produit d'addition 
+
+de l'alkyllithium sur le nitrile et i la N-methylation de l'imine 
+
+formC. 
+Dans le cas du naphtalkne carbonitrile-1, 1, le groupement 
+nitrile n'induit une forte influence qu'en position 2, l'aciditt de 
+la position 8 semblant trks peu affectee par la presence de ce 
+substituant. 
+La mCtalation directe du naphthalkne carbonitrile-1, 1, est 
+une mCthode efficace pour obtenir un derive substituk en 
+position 2. L'aryllithium forme a partir d'une base non-
+nucltophile comme le LTMP est suffisamment stable a basse 
+temperature (-78°C) pour effectuer ensuite l'addition d'un 
+Clectrophile. De plus, les protons benzyliques obtenus lors de 
+l'alkylation de la position 2 ttant beaucoup plus acides que ceux 
+sur le cycle aromatique, il est d'autant plus facile de modifier la 
+chaine laterale introduite anttrieurement. Un autre avantage 
+observe est que le groupement nitrile, activant trks peu le proton 
+
+TABLEAU 3. MCtalation et reacton des dCrivCs alkyl-2 et -8 du naphtalkne carbonitrile-1 
+
+R1 F N 
+R' CN 
+
+Rendementb 
+Point de fusion 
+
+R' 
+R2 
+
+~lectro~hile 
+Produit (R1 , R3) 
+
+(%I 
+
+("(3" 
+
+'Le compose isole indique habituellement une purete &gt;98% par gc-ms. 
+bMatCriel isole aprts purification. 
+'Liquide incolore. 
+dCompos&amp; identique a celui obtenu precedemment (Tableau I). 
+'Recristallisation dans l'hexane. 
+fIso16 par chromatographie. 
+
+Can. J. Chem. Downloaded from www.nrcresearchpress.com by 87.160.185.190 on 03/27/14 
+
+For personal use only. 
+
+
+CAN. J. CHEM. VOL. 64, 1986 
+
+CN 
+CN 
+
+de la position 8, ou les protons benzyliques attach&amp; a cette 
+
+7,0, 8,0), H8 = 8,21 (d, 8,0), CH3 = 2,74 (s); rmn 13c: C1 = 109,2, 
+position, leur acidit6 demeure donc trop faible pour obtenir une 
+C2 = 142,9, C3 = 1266, C4 = 132,6, C4a = 1328, C5 = 128,4, C6 
+d6protonation par les amines lithiCs. 
+= 127,7,C7 = 128,5, C8 = 124,9,C8a = 131,2,CN = 1 17,1,CH3 = 
+21,3; sm: 167 (Mf, 100,0), 166 (Mf -1, 38,9), 140 (Mf -27, 
+
+Partie experimentale 
+
+Tous les nouveau composCs ont Ct C charactCrisCs par gc-ms ainsi 
+que par rmn du 'H (300 MHz) et du 13C (20 MHz). 
+Les spectres du carbone 13 Ctaient enregistrks sur un spectrombtre 
+rmn Varian FT-80, operant a une frCquence de 20 MHz. Les dCplace-
+ments chimiques Ctaient obtenu dans des solutions de CDC13 utilisant 
+
+comme rCfCrence interne la bande i 77,OO ppm du CDC13. L'attribution 
+
+des rCsonances Ctait faite A partir d'experiences de dCcouplage 
+
+hors-rCsonance et des effets de substituants connus (18). Les spectres 
+des protons Ctaient enregistrks sur un spectromktre rmn Varian 
+
+XL-300, optrant i une frCquence de 300 MHz. Les Cchantillons Ctaient 
+
+en solution dans le CDC13 et la rCfCrence interne Ctait la rCsonance 2 
+7,24 ppm du chloroform. Les dCplacements chimiques sont donnCs en 
+ppm, avec entre parenthbse la multiplicitC et la constante de couplage 
+en Hz (s = singulet, d = doublet, t = triplet, q = quadruplet, m = 
+multiplet). Les spectres infrarouges Ctaient enregistrCs sur un spec-
+tromttre ir Perkin Elmer 783 la valeur des absorptions est donnCe en 
+cm-I et les Cchantillons Ctaient prCparCs en solution dans le chloro-
+forme. Les spectres de masse Ctaient enregistrCs sur un spectromktre 
+VG 7070-E. 
+
+Pre'pararion du me'thyl-2 naphralenecarbonitrile-I, 4 (Procedure 
+habiruelle de lithiation et de substitution du naphtalene carboni-
+trile-1 et de ses de'rives alkyl-2) 
+Une solution de 1,02 mL (0,006 mol) de TMP dans 25 mL de THF 
+
+(anhydre) est refroidie i 0°C et agitCe pendant 30 min sous atmosphere 
+
+inerte (argon) aprbs l'addition de 4,85 mL (0,006 mol) d'une solution 
+de mCthyl lithium dans 1'Cther diCthylique (1,25 M). On refroidit 2 
+
+-78°C et une solution du nitrile 1 (0,926 g, 0,006 mol dans 3 mL de 
+
+THF) est additionnCe lentement. La solution bmne est agitCe pendant 
+35 min avant l'ajout de l'iodure de mCthyle (0,42 mL, 0,0066 mol). 
+Aprbs 2 h ?I -7S°C, le mClange rkactionnel est rCchauffC a la 
+tempCrature de la pibce et agitC pendant 1 h. Pour isoler, 20 mL d'eau 
+glacCe sont ajoutCs, la phase organique est lavCe avec HC1 10% (2 X 
+50 mL), avec une solution de NaCl (saturC) (4 X 50 mL) et sCchCe sur 
+MgS04 avant d'Cvaporer le solvant. Le solide obtenu est purifiC par 
+chromatographie sur gel de silice (hexane) et recristallisC dans 
+l'hexane; 809g (80%) d'un solide blanc (pf: 84-85°C) est ainsi 
+recueilli, le mCthyl-2 naphtalkne carbonitrile-1, 4. 
+
+Propriete's spectroscopiques 
+Naphtalkne carbonitrile-I, 1: rmn 'H: H2 = 7,92 (dd, 7,1, 1,2), H3 
+= 7 3 3 (dd, 7,1, 8,7), H4 = 8,09 (dd, 8,7, 1,2), H5 = 7,96 (d, 8,1), 
+H6 = 7,62 (dd, 8,1, 7,0), H7 = 7,73 (dd, 8,5, 7,0), H8 = 8,25 (d, 
+8,5); rmn 13C: C1 = 109,9, C2 = 132,1, C3 = 124,8, C4 = 132,4, 
+C4a = 132,1, C5 = 128,6, C6 = 127,4, C7 = 128,4, C8 = 124,8, C8a 
+= 132,7, CN = 117,6; sm: 153 (Mf, 100,0), 126 (M' -27, 14,5). 
+Trimethylsilyl-2 naphtal2ne carbonitrile-I, 3: ir: 3018, 2960, 2222 
+(CN), 1588, 1255,880, 855,847; rmn 'H: H3 = 7,66 (dd, 8,5), H4 = 
+8,Ol (d, 8,5), H5 = 7,90(d, 8,2), H6 = 7,61 (dd, 8,2,7,0), H7 = 7,70 
+(dd, 8,2, 7,0), H8 = 8,33 (d, 8,2), Si= = 0,52 (s); rmn I3C: C1 = 
+117,5, C2 = 147,0, C3 = 131,4, C4 = 133,1, C4a = 134,8, C5 = 
+130,1, C6 = 129,3, C7 = 130,1, C8 = 126,4, C8a = 134,9, Si-= 
+-0,4, CN = 119,7; sm: 225 (M', 36,5), 21 1 (M' -14, 35,6), 210 
+(Mf -15, 100,0), 183 (M' -42, 20,O). 
+Methyl-2 naphtalene carbonitrile-I, 4: ir: 3020, 2970, 2220 (CN), 
+1520, 1425, 1140, 1110,930;rmn 'H: H3 = 7,41 (d, 8,0), H4 = 7,96 
+(d,8,0),H5 = 7,88(d,8,0),H6 =7,56(dd,8,0,7,0),H7 =7,67(dd, 
+
+18,7), 139 (Mf -28, 16,l). 
+Ethyl-2 naphtalPne carbonitrile-I, 5: ir: 3010, 2970, 2220 (CN), 
+1509, 825; rmn 'H: H3 = 7,47, (d, 8,5), H4 = 8,02 (d, 8,5), H5 = 
+7,91 (d, 8,3),H6 = 7,58(dd, 8,3, 7,0),H7 = 7,69((dd,8,2,7,0),H8 
+= 8,25 (d, 8,2), CH2 = 3,09 (q, 7,0), CH3 = 1,38 (t, 7,O); rmn I3c: C1 
+= 108,4, C2 = 149,0, C3 = 126,3, C4 = 132,9, C4a = 133,2, C5 = 
+128,3, C6 = 126,6, C7 = 128,4, C8 = 124,9, C8a = 131,3, CN = 
+116,8, CH2 = 28,6, CH3 = 15,3; sm: 181 (Mf, 65,7), 180 (Mf -1, 
+7,5), 166 (Mf -15, 100,0), 140 (M' -41, 12,s). 
+n-Propyl-2 naphtalkne carbonitrile-I, 6: ir: 3015,2960,2220 (CN), 
+1508,821;rmn1H:H3=7,40(d,8,5),H4=7,97(d,8,5),H5=7,86 
+(d, 8,5), H6 = 7,54(dd,8,5,7,0),H7 = 7,66(dd,7,0, 8,3),H8 = 
+8,21 (d, 8,3),CH2 = 3,01 ( t , 7 , 0 ) , C H 2 = 1,77(sext,7,0),CH3 = 
+0,98 (t, 7,O); rmn I3C: C1 = 108,9, C2 = 147,5, C3 = 126,6, C4 = 
+132,6, C4a = 132,8, C5 = 128,3, C6 = 126,9, C7 = 128,4, C8 = 
+125,0,C8a= 131,3,CN= 117,0,CH2= 37,2,CH= 24,3,CH3 = 
+13,7; sm: 195 (Mf, 5.53, 194 (M' -1,9,4), 166 (M' -29, 100,0), 
+140 (Mf -55, 16,O). 
+Thiorne'thoq-2 naphtalene carbonitrile-I, 7: ir: 3010, 2927, 22 18 
+(CN), 1585, 1502, 1434,811; rmn IH: H3 = 7,41 (d, 8,8), H4 = 7,94 
+(d,8,8),H5 =7,81 (d,8,5),H6=7,49(dd,8,5,7,0),H7=7,62(dd, 
+7,0, 8,2), H8 = 8,11 (d, 8,2), CH3 = 2,62 (s); rmn I3C: C1 = 107,2, 
+C 2 = 144,4,C3 = 124,1,C4= 132,8,C4a= 133,1,C5 = 129,1,C6 
+= 126,5,C7 = 128,4,C8 = 123,0,C8a = 130,3,CN = 115,9,CH3 = 
+15,9; sm: 199 (Mf, 100,0), 198 (Mf -1, 11,6), 167 (Mf -32, 
+12,6), 166 (M' -33, 55,3), 140 (M' -59, 56,6). 
+Thiophenoq-2 naphtaldne carbonitrile-I, 8: ir: 3020, 2220 (CN), 
+1583, 1501, 1134, 819; rmn 'H: H3 = 7,14 (d, 9,0), H4 = 7,82 (d, 
+9,0),H5 = 7,81 (d,8,0),H6 = 7,54(dd,7,0,8,0), H7 = 7,67(dd, 
+7,0,8,5), H8 = 8,19 (d, 8,5), CH(ortho) = 7,52 (m), CH (mkta, para) 
+= 7,42 (m); rmn I3C: C1 = 108,5, C2 = 143,2, C3 = 129,0, C4 = 
+132,8, C4a = 133,1, C5 = 128,4, C6 = 127,0, C7 = 128,9, C8 = 
+124,6, C8a = 131,6, CN = 115,8, C1' = 130,8, C2' = 133,6, C3' = 
+129,7, C4' = 125,9; sm: 261 (M', 100,0), 260 (M' -1, 37,8), 259 
+(Mf -2, 13,0), 234 (M' -27, 13,7). 
+lodo-2 naphtalkne carbonitrile-I, 9: ir: 3020, 2230 (CN), 1500, 
+1117,818,670;rmn1H:H3=7,83(d,9,0),H4=7,67(d,9,0),H5= 
+7,80(d,8,5),H6 = 7,54(dd,7,0,8,5),H7 = 7,61 (dd,7,8,8,5),H8 
+= 8,14 (d, 8,5); rmn 13C: C1 = 110,2, C2 = 100,1, C3 = 133,4, C4 = 
+135,0, C4a = 131,6, C5 = 129,3, C6 = 127,8, C7 = 128,6, C8 = 
+125,2, C8a = 134,3, CN = 118,2; sm: 279 (M', 100,0), 152 (M' -
+127, 49,0), 125 (M' -154, 10,s). 
+(Hexadiene-1,5 yl-3)-2-naphtalkne carbonitrile-I, 10: ir: 3082, 
+3065,3015,2220 (CN), 1640, 1625, 1596, 1508,992,922,825; rmn 
+'H: H3 = 7,43 (d, 8,0), H4 = 8,00 (d, 8,0), H5 = 7,86 (d, 8,5), H6 = 
+7,56 (dd, 7,0, 8,5), H7 = 7,66 (dd, 7,0, 8,0), H8 = 8,21 (d, 8,0), 
+CH = 2,58 (m), CH = 2,66 (m), CH = 4,15 (m), CH2 = 4,98 (m), 
+
+CH2=5,16(m),CH=5,71(m),CH=6,02(m);sm:233(~f,10 
+
+193 (M' -40, 16,7), 192 (M' -41, 100,0), 191 (M' -42, 13,7), 
+190 (Mf -43, 16,2), 166 (M' -67, 15,5), 165 (Mf -68,29,5). 
+Spiro [3H Benz[e] isoindole-11-3, I '-[cycloheptane], 11: ir: 3290, 
+3010, 2930, 2860, 1668 (CO), 1519, 1158, 1080,997,980, 820; rmn 
+'H: H3 = 7,43 (d, 8,2), H4 = 8,06 (d, 8,2), H5 = 7.93 (d, 8,0), H6 = 
+
+7,60(dd,7,0,8,0),H7=7,76(dd,7,0,8,1),H8=9,31(d,8,1), 12H 
+
+= 1,60-2,06 (m); rmn I3C: C1 = 122,0, C2 = 154,4, C3 = 124,4, C4 
+= 133,3, C4a = 133,2, C5 = 128,2, C6 = 126,4, C7 = 128,2, C8 = 
+117,8, C8a = 129,0, C-N = 90,4, CH2 = 40,0, CH2 = 29,2, CH2 = 
+23,0, CO = 167,4; sm: 265 (M', 56, l), 209 (M' -56, 19,8), 208 
+
+Can. J. Chem. Downloaded from www.nrcresearchpress.com by 87.160.185.190 on 03/27/14 
+
+For personal use only. 
+
+
+FRASER ET SAVARD 
+
+625 
+
+(M' -57, 71,2), 195 (M' -70, 59,8), 180 (M' -85, 35,7), 153 
+(M' -112, 100,0), 152(Mf -113, 18,7), 143(M' -122, 18,2), 
+126 (M' -139, 27.6). 
+Phenyl-3, naphto[l,2c] furane(3H) one-I, 12: ir: 3060,3020, 1752 
+(CO), 1580, 1520, 1108, 1040,960,820; rmn 'H: H3 = 7,33 (d, 8,2), 
+H4 = 8,07 (d, 8,2), H5 = 7,94(d, 8,0), H6 = 7,63 (dd, 7,0, 8,0), H7 
+= 7,74 (dd, 7,0, 8,0), H8 = 9,04 (d, 8,0), CH(ortho) = 7,29 (m), CH 
+(mita, para) = 7,37 (m), CH = 6,45 (s); rmn I3C: C1 = 119,7, C2 = 
+151,2, C3 = 123,7, C4 = 135,7, C4a = 133,4, C5 = 129,2, C6 = 
+127,4 = 129,3, C7 = 129,3, C8 = 119,3, C8a = 129,0, CH = 82,1, 
+CO = 17O,8,Cl1 = 136,0, C2' = 127,2, C3' = 129,0,C4' = 128,4; 
+sm: 260 (M', 39,7), 156 (M' -104, 16,5), 155 (M' -105, 100,0), 
+127 (M' -133, 33,1), 126 (M' -134, 12,6). 
+Deute'ro-2 naphtaldne carbonitrile-I, 13: rmn 'H: H3 = 7,53 (d, 
+
+8,5),H4=8,09(d,8,5),H5=7,96(d,8,1),H6=7,62(dd,8,1,7,0), 
+
+H7 = 7,73 (dd, 8,5,7,0), H8 = 8,25 (d, 8,s); sm: 154 (M', 100,0), 
+127 (M' -27, 14,6). 
+Deute'ro methyl-2 naphtaldne carbonitrile-I, 14: rmn 'H: H3 = 7,41 
+(dd, 8,0), H4 = 7,96 (d, 8,0), H5 = 7,88 (d, 8,0), H6 = 7,56 (dd, 7,0, 
+8,0),H7 = 7,67(dd,7,0, 8,0),H8 = 8,21 (d,8,0),CH2D =2,72(t, 
+2,2); sm: 168 (M', 100,0), 167 (M' -1, 36,0), 141 (M' -27, 
+14,0), 140 (M' -28, 15,9); t = triplet intensite 1:l:l. 
+Isopropyl-2 naphtaldne carbonitrile-I, 15: ir: 3065, 3015, 2970, 
+2935,2875,2200 (CN), 1598,825; rmn 'H: H3 = 7,47 (dd, 8,5), H4 
+= 7,98 (d, 8,5), H5 = 7,83 (d, 8,0), H6 = 7,51 (dd, 7,0, 8,0), H7 = 
+7,62(dd, 7,0,8,5),H8 = 8,18(d, 8,5),CH = 3,62(sept,7,0),CH3 = 
+1,36 (d, 7,O); rmn I3C: C1 = 107,9, C2 = 153,0, C3 = 125,1, C4 = 
+133,1, C4a = 132,7, C5 = 128,3, C6 = 126,6, C7 = 128,4, C8 = 
+
+1 
+
+123,0,C8a=131,4,CN=116,8,CH=33,2,CH3=23,2;sm:195 
+
+1 (M' -38,5), 180 (M' -15, 100,0), 153 (M' -42, 17,7), 152 (M' 
+
+-43, 12,4). 
+Trime'thylsilyl-I ethyl)-2-naphtaldne carbonitrile-I, 16: ir: 3015, 
+2960,2215 (CN), 1620, 1592, 1250,840; rmn 'H: H3 = 7,32(d, 8,8), 
+H4 =7,94(d, 8,8),H5 = 7,83(d, 8,0),H6 = 7,50(dd,7,0, 8,0),H7 
+= 7.63 (dd, 7,0, 8,5), H8 = 8,16 (d, 8,5), CH = 3,02(q, 7,0), CH3 = 
+1,50 (d, 7,0), Si-= -0,02 (s); rrnn I3C: C1 = 107,0, C2 = 151,7, 
+C3 = 124,9, C4 = 132,4, C4a = 132,9, C5 = 128,2, C6 = 126,0, C7 
+= 128,4, C8 = 124,3,C8a = 130,5,CN = 117,7,CH = 29,6,CH3 = 
+14,8, Si= = -3,2; sm: 253 (M', 58,0), 258 (M' -1, 17,5), 238 
+(M' -15, 24,4), 73 (M' -180, 100,O). 
+Me'thyl-8 trime'thylsilyl-2 naphtaldne carbonitrile-I, 17: ir: 3020, 
+2980,2960,2215 (CN), 1462, 1420, 1253, 1 140,868, 840,828; rmn 
+'H:H3=7,68(d,8,1),H4=8,03(d,8,1),H5=7,77(d,7,5),H6, 
+H7 = 7,46 (m), CH3 = 3,16 (s), Si= = 0,53 (s); rmn I3c: C1 = 
+114,3, C2 = 147,8, C3 = 131,2, C4 = 132,5, C4a = 132,5, C5 = 
+127,6, C6 = 126,9, C7 = 129,4, C8 = 128,3, C8a = 134,5, CN = 
+121,1, CH3 = 23,4, Si-= -1.0; sm: 239 (M', 44,7), 225 (M' -
+14,21,9),224(M' -15,100,0), 197(M'-42,5,7), 167(M'-72, 
+4,3). 
+
+(Lithio me'thy1)-2 naphtaldne carbonitrile-I, 4a: rmn I3C: C1 = 
+143,0, C2 = 146,7, C3 = 115,2, C4 = 130,6, C4a = 129,8, C5 = 
+128,3, C 6 = 127,8, C7 = 128,0, C8 = 118,3,C8a = 133,1,CH2Li = 
+63,8, CN = 126,3. 
+
+1. (a) N. S. NARASIMHAN et R. S. MALI. Synthesis, 957 (1983); (b) 
+H. W. GSCHWEND et H. R. RODRIGUEZ. Org. React. 26, 1 
+(1979); (c) P. BEAK et V. SNIECKUS. ACC. Chem. Res. 15, 306 
+(1984); (d) V. SNIECKUS et M. P. SIBI. J. Org. Chem. 48, 1935 
+(1983). 
+2. T. D. KRIZAN et J . C. MARTIN. J . Org. Chem. 47, 2681 (1982). 
+3. M. REUMAN et A. I. MEYERS. Tetrahedron, 41, 837 (1985). 
+4. T. D. KRIZAN et J. C. MARTIN. J. Am. Chem. Soc. 105, 6155 
+(1983). 
+5. W. E. PARHAM et L. D. JONES. J. Org. Chem. 41, 1187 (1976). 
+6. R. R. FRASER, M. BRESSE et T. S. MANSOUR. J. Am. Chem. Soc. 
+105, 7790 (1983). 
+7. S. GRONOWITZ et B. ERIKSSON. Ark. Kemi, 21, 335 (1983); 
+Chem. Abstr. 59, 13918 F(1963). 
+8. P. DUBUS, B. DECROIX, J. MOREL et P. PASTOUR. Bull Soc. 
+Chim. Fr. 628 (1976). 
+9. M. WATANABE et V. SNIECKUS. J. Am. Chem. Soc. 102, 1457 
+(1980). 
+10. (a) R. R. FRASER, A. B A I G N ~E , 
+M. BRESSE et K. HATA. 
+Tetrahedron Lett. 4195 (1982); (b) R. R. FRASER, M. BRESSE et 
+T. S. MANSOUR. Chem. Cornrnun. 620 (1983); (c) R. R. FRASER 
+et T. S. MANSOUR. J. Org. Chem. 49,3442 (1984); J. Org. Chem. 
+49, 5284 (1984). 
+11. R. C. RONALD et M. R. WINKLE. Tetrahedron, 39,2031 (1983). 
+12. P. L. CREGER. J. Am. Chem. Soc. 92, 1396 (1970). 
+13. R. R. FRASER, T. S. MANSOUR et S. SAVARD. J. Org. Chem. 50, 
+3232 (1985). 
+14. N. S. NARASIMHAN et R. S. MALI. Synthesis, 796 (1975). 
+15. (a) C. EABORN, P. GOLBORN et R. TAYLOR. J. Organomet. 
+Chem. 10, 171 (1967); (b) N. S. NARASIMHAN et A. C. RANADE. 
+Ind. J. Chem. 7, 538 (1969). 
+16. R. L. GAY et C. R. HAUSER. J. Am. Chem. Soc. 89,2297 (1967). 
+17. J. G. LOMBARDINO. J. Org. Chem. 36, 1843 (1971). 
+18. (a) W. KITCHING, M. BULLPITT, D. GARTSHORE, W. ADCOCK, 
+T. C. KHOR, D. DODDRELL et I. D. RAE. J. Org. Chem. 42,241 1 
+(1977); (b) P. E. HANSEN. Org. Magn. Reson., 12, 109 (1979). 
+19. R. C. FUSON, C. H. MCKEEVER et L. C. BEHR. J. Am. Chem. 
+Soc. 63, 2648 (1949); J. J. MCCULLOUGH, W. K. MACKINNIS, 
+C. L. LOCK et R. FAGGIANI. J. Am. Chem. Soc. 104, 4644 
+(1982). 
+20. R. C. F u s o ~ 
+et D. H. CHADWICK. J. Org. Chem. 13,484 (1948). 
+21. (a) J. M. RUXER et G. SOLLADIB. J. Chem. Res. (M), 4944 
+(1978); (b) V. SNIECKUS et M. WATANABE. J. Am. Chem. Soc. 
+102, 1457 (1980). 
+
+Can. J. Chem. Downloaded from www.nrcresearchpress.com by 87.160.185.190 on 03/27/14 
+
+For personal use only. 
+
+
+
+	
+

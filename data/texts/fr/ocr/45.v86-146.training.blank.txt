@@ -1,0 +1,1458 @@
+
+	
+
+		
+
+	
+
+	
+
+Transferts d'Clectrons assist&amp; par les mCtaux de transition : influence de la nature du cation 
+
+, 
+
+mCtallique sur la rCduction de composCs carbonylCs en milieu aprotique 
+
+FRANCOISE FOURNIER 
+
+Laboratoire de chimie organique structurale, Centre national de la recherche scientifique, Unite' associe'e 455, 
+Universite' Pierre et Marie Curie, 4 Place Jussieu, 75230 Paris ce'dex 05, France 
+
+ET 
+
+MICHEL FOURNIER' 
+Laboratoire de physico-chimie inorganique, Centre national de la recherche scientijique, Unite' associe'e 419, 
+Universite' Pierre et Marie Curie, 4 Place Jussieu, 75230 Paris ce'dex 05, France 
+
+Requ le 18 mars 19852 
+
+F. FOURNIER et M. FOURNIER. Can. J. Chem. 64, 881 (1986). 
+L'Clectropinacolisation de cCtones est favorisCe en prksence de cations des mktaux de transition. C'est un phCnomkne gCnCral 
+qui se produit avec Cr2+, Mn2+, ~e ~+ , 
+Co2+, zn2+, mais pas avec Ni2+. La rCduction conduit aux a-glycols, avec un bon 
+rksultat, sans rCsinification et un potentiel moins nkgatif que celui de la cCtone de depart. La rkpartition des composCs isolCs 
+depend du caractere acide, au sens de Lewis, et du pouvoir complexant du cation mCtallique. Ainsi, la plus grande spCcificitk, 
+en dimkre gCnCralement, est obsemke avec Fez+, sauf pour la chalcone, oh Zn2+ conduit h la meilleure stkrCosklectivitC. 
+Aucun complexe prkexistant, entre le dCrivC carbony16 et I'ion mCtallique, n'a pu Ctre mis en Cvidence. 
+
+F. FOURNIER and M. FOURNIER. Can. J. Chem. 64, 88 1 (1986). 
+The pinacolisation of ketones is enhanced when a bivalent transition metal cation is present. This phenomenon is general 
+and occurs with Cr2+, ~n ~+ , 
+Fez+, Co2+, zn2+ but not with Ni2+. The cathodic reduction leads to a-glycols with a good 
+yield, without any resin production, and at a less negative potential than that of the ketone itself. The distribution of all isolated 
+compounds is dependent on the Lewis character-acidity and complexing power of the metallic cation. Thus, for the dimerization, 
+
+I 
+
+the greatest specificity is generally observed when ~e ~+ 
+is present. For the chalcone, the better stereoselectivity is obtained with 
+
+I 
+
+zn2+. No evidence of initial carbonyl complex of the metal ion was shown. 
+
+Les rkactions catalysCes par transferts d'Clectrons et plus 
+
+les cCtones a-P CthylCniques, les hydrodimbres formts peuvent 
+
+particulibrement celles assistees par les complexes de mCtaux de 
+avoir des structures diverses, le radical anion crCC existant sous 
+
+transition, font l'objet d'Ctudes intensives (1). 
+
+plusieurs formes tautombres. Ainsi selon les liaison formCes : 
+Le cas des composts carbonylb, spkcialement celui des 
+cCtones aromatiques, suscite depuis ces dernibres anntes 
+quelques controverses (2). En effet, le problbme essentiel qui se 
+C=C-C=O 
+
+4-4' 
+
+posz dans I'interprCtation du mCcanisme de la rCduction 
+et 3-2, b cCtol 
+Clectrochimique duplicative de la fonction carbonyle est celui de 
+
+4' 
+
+3' 
+2' 
+
+1' 
+
+2-2' + diol bisCthylCnique 
+1'Ctape de couplage. Ainsi aprbs formation initiale de l'anion 
+C=C+=O 
+radical A' , Cventuellement suivie de sa protonation, trois 
+uranne 
+
+types de couplage peuvent &amp;tre envisagCs : ( I ) radical-radical ; 
+(2) radical-substrat ; (3) ion-substrat. Ce qui peut &amp;tre rCsumC 
+
+par le SchCma suivant : 
+
+~t a ~e 
+
+initiale A + e e A&gt; et AT + H+ , --' AH' 
+
+MCcanisme 1 2 AT e D ~-, 
+
+AT + AH' e DH-, 2 AH' e DH2 
+
+D = dimere 
+DH-= dimere anion proton6 
+DH2 = dimkre 
+
+MCcanisme 2 A + A' . * DT, A + AH' e DH' 
+
+. . . . . 
+
+. . . . . . . -I 
+
+. . . . . . . . . .: 
+
+Puis Cventuellement D' + e * D ~-, 
+
+DH' + e = DH-
+
+.-:.:..I 
+
+. . . . . . 
+
+. . ~. . ! Mtcanisme 3 A~ + e e A ~-, A2-+ H+ e AH-
+
+(fixation d'un 2kme ; 
+
+) A ~-+ A = D ~-, AH-+ A = DH-
+
+et Cventuellement A ~-+ 2H+ e AH2 
+
+! ce qui se traduit sur le plan priparatif, par l'obtention de 
+
+I diffkrents produits, monombres ou dimbres. 
+
+Par exemple, avec les cCtones aromatiques, on obtient 
+uniquement des alcools (monoalcool ou diol). Par contre, avec 
+
+, 
+
+1. Auteur a qui adresser toute correspondance. 
+2. RCvision requ le 16 dCcembre 1985. 
+
+De plus, si le milieu est aprotique, DMF par exemple, 
+
+1'ClectrorCduction des cCtones aromatiques conduit souvent i un 
+fort pourcentage d'alcools par rapport i celui des glycols-cx (3). 
+
+Elle s'accompagne malheureusement d'une intense rksinifica-
+tion. Le rapport monombre-dimbre dCpend de nombreux 
+parambtres (4), et en particulier de la concentration d'eventuels 
+donneurs de protons introduits en cours de rkduction (2b, 2c). 
+La rksinification est souvent moins importante pour les cCtones 
+
+insaturCes, les composCs obtenus correspondant rarement i 
+I'hydromCrisation, mais A I'oligomCrisation du rCactif (dimC-
+
+risation, trimCrisation .. .) (5, 6). 
+
+Des Ctudes polarographiques et voltampCromCtriques ont 
+Cgalement montrC que lors de 1'ClectrorCduction de quelques 
+cCtones aromatiques en prksence de cations alcalins ou alcalino-
+
+terreux (2e, 7) (Na', L i f , K f , Ba2+), il se forme des paires 
+
+d'ions souvent instables qui disparaissent par dimkrisation ou 
+dismutation. Le schCma rkactionnel couramment proposC est 
+alors le suivant : 
+Can. J. Chem. Downloaded from www.nrcresearchpress.com by 87.160.185.190 on 03/27/14 
+
+For personal use only. 
+
+
+882 
+
+CAN. J. CHEM. VOL. 64, 1986 
+
+De notre cBtC, nous avions pu montrer qu'en prksence d'un 
+cation mktallique de transition tel que Cr(III) ou Mn(II), la 
+riduction Clectrochimique des cCtones aromatiques (8, 9) ou 
+a-P insaturkes (5) conduisait prtfkrentiellement aux hydro-
+dimkres avec inhibition totale des polymCrisations, et ce, au 
+potentiel mCme de rtduction du mttal(II) lorsque ce dernier a un 
+potentiel de demi-vague plus positif que celui de la cttone. 
+Cet effet entraine un gain d' cc Cnergie B pouvant atteindre 
+500 mV. L'interprttation de ce processus d'ClectrorCduction 
+assistke est complexe bien que certains auteurs pensent en avoir 
+ClucidC le mCcanisme (10, 11). De plus, leurs ttudes sont resties 
+limitCes au seul cas du chrome, alors que nous avons montrC que 
+le mangankse prtsente une action Cgalement btnCfique (9). 
+I1 nous a paru indispensable d'Ctablir la gCnCralitC du 
+phCnomkne en variant la nature du cation mktallique. 
+Notre choix, affect6 par la solubilitt dans le DMF du chlorure 
+correspondant, a privilCgiC les ClCments de la premi5re ssCrie de 
+transition (Cr, Mn, Fe, Co, Ni, Zn) pour ttudier l'influence de la 
+configuration Clectronique sur l'orientation du processus de 
+rkduction. Puisque nous avions suggCrC antirieurement que le 
+caractkre acido-basique du cation mCtallique pouvait influer sur 
+le mkcanisme de l'hydrodimtrisation ( 3 , il nous a paru 
+judicieux de pratiquer parallklement 1'Ctude Clectrochimique et 
+les Clectrolyses prkparatives en prCsence de Li', dont le 
+caractkre acide est bien connu dans ce milieu. 
+
+1 
+
+I 
+
+Pour tviter toute ambigu'itC quant B la structure des composts 
+
+formCs et pour faciliter l'Ctabl&amp;sement des bilans r~actionnels, 
+
+notre Ctude s'est volontairement limitCe B quelques cCtones 
+
+aromatiques, cycliquement ou 1inCairement encombrkes, dont 
+le potentiel de rkduction diffkre de, ou avoisine, celui du cation 
+
+mktallique, et B une cCtone a-p CthylCnique. Ces composCs sont 
+
+prCsentCs dans la figure 1. 
+
+A. Analyse polarographique (tabl. 1 ) et voltamme'trique (tabl. 2 ) 
+I . Ions des me'taux de transition 
+Les polarogramrnes et voltammogrammes des espkces Cr(II1) 
+et Mn(II) dans le dimCthylformamide (DMF) ont Ct C prCcCdem-
+ment dCcrits (8, 9). En ce qui concerne les autres cations, leur 
+polarogramme, pour des solutions de concentration 
+M 
+dans le DMF, prksente, soit une seule vague de rCduction 
+biClectronique (cas de FeC12-4H20 ou de NiC12.6H20), soit 
+deux vagues de rCduction monoClectroniques de hauteurs 
+sensiblement Cgales (cas de CoC12.6H20). 
+L'analyse par voltamttrie cyclique de ces diffkrents systkmes 
+montre que les pics correspondants aux processus 
+
+sont de nature irrtversible. 
+
+I 
+
+Sur tlectrode stationnaire, sans renouvellement de la goutte 
+
+de mercure, les voltamrnogrammes se modifient B chaque cycle 
+
+jusqu'i disparition complkte du phtnomkne de reduction. Si 
+l'on renouvelle la goutte aprks chaque balayage, et aprks 
+agitation de la solution par barbottage d'argon, une variation 
+linCaire du potentiel du premier pic de reduction Epc, avec le 
+logarithme de la vitesse de balayage ( v ) est observte. Ces 
+risultats sont rassemblCs dans le tableau 2. 
+La solution de ZnC12 anhydre ne prCsente pas de vague de 
+rkduction dans le domaine d'Clectroactivitt accessible dans ces 
+
+conditions . 
+
+Cette absence de rCductibilitC, surprenante au premier exa-
+
+tetralone 1 
+indonone 2 
+chromanone 3 
+
+P h C H O 
+P h C O C H 3 
+
+oldkhyde benzoique 4 
+oc6tophinone 5 
+
+P h C O Ph 
+
+benzophknone 6 
+
+xonthone 8 
+f~uorknone 9 
+
+P h C O C H = C H P h 
+
+chalcone 10 
+
+FIG. 1 
+
+men, miritait d'Ctre confirmke. Des essais rCpCtCs en solvant 
+anhydre nous ont permis d'Ctablir ce resultat sans ambigui't6. 
+Toutefois, l'addition de traces d'eau (1% en volume) ou 
+l'utilisation de DMF insuffisamrnent dtshydratt permet de 
+rCvCler, vers -2 V, une vague de hauteur sensiblement tgale B 
+celle de Mn2+ lorsau'on l'enregistre dans les mCmes conditions. 
+
+-
+
+Cette vague est trks sensible B la presence d'eau et peut mCme se 
+
+diplacer jusqu'i -1,8 V si le zinc est complktement hydratk. 
+Ce phCnomkne n'est pas affect6 par la nature de I'anion du sel 
+de fond puisque les rksultats sont inchangCs en prCsence de TBA 
+C104. Le cation Zn2+, solvat6 par le DMF, est donc non 
+rauctible dans ce domaine d'tlectroactivitC (-0,4 V ; -3 V). 
+Ce resultat fera l'objet d'une publication pr~chaine.~ 
+
+II. Ce'tones 
+Elles prksentent toutes une premikre vague de rkduction 
+
+polarographique qui correspond B 1'Cchange d'un Clectron. En 
+effet, leur hauteur est tgale B moins de 10% prks B celle de la 
+
+vague de rkduction du benzaldthyde enregistrCe dans les mCmes 
+conditions et dont il est ttabli (12) qu'elle traduit un tchange 
+
+monoClectronique rkversible . 
+
+Cette premikre vague est rtversible, pour toute vitesse de 
+balayage, dans le cas des cttones aromatiques (composts 1-9). 
+Par contre pour la chalcone 10, si le balayage est infkrieur B 0,5 
+V s-', la rtduction devient irrkversible. 
+Dans tous les cas, la seconde vague de rCduction est, 
+lorsqu'elle n'est pas masquCe par la dCcharge de 1'Clectrolyte 
+support, irrCversible et sensiblement monoClectronique. 
+
+III. Me'langes ce'tone -cation me'tallique 
+Dans un souci de simplicit6 Cvidente, nous n'avons considCrC 
+
+3. Un des rapporteurs s'est ttonnt de la non rtductibilitt de znZ+ 
+dans ce milieu et suggtre une intervention des anions halogCnures in-
+troduits simultantment aux cations puisque les sels de depart sont des 
+chlorures et le sel de fond un bromure. I1 nous parait, que la prtsence 
+d'eau, m2me h 1'Ctat de traces, est le facteur essentiel, ce qui expli-
+querait nos divergences avec les rksultats publiCs anttrieurement. 
+
+Can. J. Chem. Downloaded from www.nrcresearchpress.com by 87.160.185.190 on 03/27/14 
+
+For personal use only. 
+
+
+FOURNER ET FOURNIER 
+
+883 
+
+TABLEAU 1. Potentiels de demi-vague polarographique d'un mClange Cquimolaire 
+
+M de cation mktallique et de cCtone dans du DMF 
+contenant TBABr 0,l M (ECS) 
+
+-E'/~(v) cCtone 
+
+DMF -TBABr 0,l M 
+Li + 
+Cr2+ 
+~n ~+ ~e ~+ co2+ 
+Ni2+ 
+zn2+ 
+
+-
+-
+
+-E"~(v) cation mttallique 
+
+-E " ~( V ) 
+cation mCtallique 
+
++ cCtone 1 
+
+2 
+
+8 
+1,63 
+1 3 4 
+1 9 4 
+1,505 
+1,42 
+1 3 4 
+
+A 
+
+1,58 
+9 
+1,24 
+1,17 
+1,15 
+1,15 
+1,15 
+1,16 
+
+A 
+
+1,19 
+
+1 
+10 
+1,39 
+1,19 
+1,26 
+1,33 
+1,21 
+1,34 
+
+A 
+
+1,34 
+
+I 
+
+/ 
+
+"A: Additivitk de tous les systltmes prksents. 
+
+TABLEAU 2. Variation du premier pic de reduction en fonction de log v 
+
+~i + cr2+ 
+~n ~+ ~e ~+ co2+ 
+Ni2+ 
+zn2 + 
+
+Chalcone 
+10 
+32 
+22 
+38 
+100," 40 
+
+65 ," 400 
+
+0 
+32 
+
+"Changement de pente pour v = 50 mV s-'. 
+
+*Gas oh il y a additivitk des systltmes prtsents, le premier pic de rkduction ktant alors celui du cation mktallique. 
+
+'Electrolyte support DMF -TBABr 0,1 M, v variant de 5 i 500 mV s-' (ECS). 
+
+que l'influence du cation mttallique sur la premibe vague de 
+kduction du composC carbonylC. 
+(a) Cations non rkductibles : Li+, Zn2+ 
+Quelle que soit la cetone, leur action est un simple abaissement 
+du potentiel de reduction dans un effet rappelant celui des 
+
+I protons. En voltamCtrie cyclique, le pic correspondant devient 
+
+I alors irriversible pour toute vitesse de balayage. 
+Ceci rappelle l'effet bien connu des ions alcalins ou alcalino-
+terreux, habituellement interprCtC par la formation de paires 
+d'ions entre le radical anion et le cation. Toutefois, cette 
+interaction est souvent plus importante sur l'espkce A2-que sur 
+le radical anion AS, ce qui se traduit, sur les polarogrammes, 
+par un rapprochement des deux ttapes monoClectroniques, 
+pouvant mCme conduire h leur confusion. Ceci est particulibre-
+ment bien rnis en evidence dans le cas des quinones (7c). Dans 
+notre cas, seule la premikre vague est trks notablement affectte 
+et le zinc prCsente un effet moindre que celui du lithium. 
+
+(b) Cation beaucoup plus rkductible que la cktone : Ni2+ 
+On observe alors (polarographie et voltarnrnCtrie cyclique) la 
+simple additivitt des systkmes en presence, sans intkraction. 
+(c) Cationsdepotentielder6ductionvoisindeceluiducompose' 
+carbony16 : C?+ , Mn2+, Fez+ 
+Dans le cas oii le potentiel de rkduction du cation metallique 
+est plus nCgatif que celui de la premikre vague de rCduction de la 
+cCtone (fluorinone 9, chalcone lo), la vague de reduction du 
+systkme M(II)/M(O) disparait et la premibre vague de rkduction 
+de la cCtone se trouve avancke vers des potentiels plus positifs 
+(de 50 h 100mV selon les cas), rappelant ainsi l'action des 
+cations non rkductibles. I1 en est de m2me avec le cation zinc 
+aquo, Z ~. ( H ~O ) ~~+ 
+lorsque sa vague de rCduction peut Ctre 
+observie. 
+Si le potentiel de rCduction du cation mCtallique est moins 
+negatif que celui de la cCtone (cCtones aromatiques 1 4 , la 
+vaque de reduction de cette dernikre disparait complktement 
+Can. J. Chem. Downloaded from www.nrcresearchpress.com by 87.160.185.190 on 03/27/14 
+
+For personal use only. 
+
+
+CAN. J. CHEM. VOL. 64, 1986 
+
+FIG. 2. Spectres d'absorption Clectronique des mClanges sel de cobalt -chalcone. 
+
+pour des quantitCs Cquimolaires de cttone et de sel mCtallique. 
+La vague de rkduction du mCtal M(II) + M(0) est trbs peu 
+affectte et se dCplace 1Cgbrement vers les potentiels positifs (de 
+
+l'ordre de 10 mV) . 
+
+La voltamrnCtrie cyclique montre, pour toute vitesse de 
+balayage supCrieure h 5 mV s-', la simple additivitC de systbmes 
+en prksence pour quasiment toutes les cCtones aromatiques. 
+Par contre, pour la chalcone 10, l'addition de quantitts 
+croissantes de cation mttallique entraine l'apparition d'un 
+nouveau pic, irrkversible, qui remplace progressivement le 
+premier pic de reduction de la chalcone. Sa hauteur croit et le 
+potentiel de pic EPcl se dCplace ltgbrement vers des potentiels 
+moins nCgatifs. A 19CquimolaritC, ce nouveau pic, traduit une 
+rkaction monoClectronique. L'addition d'un excbs de cation 
+mttallique n'affecte pas le potentiel de pic, mais augmente 
+Itgbrement sa hauteur. Les pics de rCduction propres au cation 
+mktallique ne rCapparaissent jamais. 
+Le comportement des systkmes 6d, 7 c et 8 b est inter-
+mtdiaire ; il dCpend fortement de la vitesse de balayage, et nous 
+verrons plus loin que dans ces cas le monoalcool est obtenu seul 
+et quantitativement. 
+(d) Cas du cobalt Co2+ 
+Les vagues polarographiques sont ma1 dCfinies en raison de la 
+complexit6 du systbme Co2+/Co(0). Toutefois, quelques effets 
+marquCs peuvent &amp;tre observb. Pour les cCtones dont la 
+prernibre vague de rkduction est situCe entre les deux vagues de 
+rCduction Co2+ + CO', CO' -+ CO(' ) du cation rnttallique 
+(cCtone aromatiques 1-8) la deuxikme vague de rkduction du 
+cation mCtallique (Co' -+ coo) disparait sans que la vague 
+correspondant au systkme Co2+ + CO' soit affectCe. La vague 
+de rtduction de la cCtone est alors 1Cgerement dCplacCe vers des 
+potentiels moins ntgatifs. Le phknombne est proche de celui 
+observC dans le cas du chrome(III) et dCcrit antkrieurement (5, 
+10, 11). 
+
+Pour les cttones dont la reduction se fait avant celle du 
+systbme mCtallique (florCnone 9 et chalcone lo), les vagues du 
+systbme Co2+/Co disparaissent c o m e dans le cas prtcCdent 
+(III(c)) et la premikre vague de rCduction de la cCtone se dtplace 
+vers des potentiels moins nCgatifs. 
+En voltammttrie cyclique, le phCnombne est analogue h celui 
+
+dCcrit en III(c) . 
+
+IV. Discussion 
+Dans tous les cas de cCtones aromatiques, il apparait que 
+l'interaction composC carbony16 -espbce mttallique est cintti-
+quement lente, puisqu'elle n'affecte les voltammograrnrnes que 
+
+pour des vitesses de balayage infkrieures B 5 mV s-', domaine 
+
+oh les processus de diffusion deviennent prCpondtrants. Aux 
+vitesses supkrieures, les systkmes cation mCtalliquelmCta1 -
+cttone/radical anion se comportent indkpendamment, y compris 
+en terme de rCversibilitC de la premibe Ctape du dCrivC 
+carbonylC. Les modifications observtes aux faibles vitesses ne 
+peuvent donc provenir que d'une rCaction lente impliquant 
+l'espbce mCtallique. Par contre, dans le cas d'insaturation 
+(chalcone 10) ou dans les cas 8 b , 6d et 7 c , l'interaction est soit 
+trbs rapide, soit d'une autre nature ; puisque la disparition du pic 
+de rkduction du mCtal est observte m&amp;me pour des vitesses 
+
+supCrieures B 5 mV s-' et jusqu'h des vitesses Cgales h 500 
+mV s-' , limite suptrieure accessible avec notre appareillage. La 
+
+variation du potentiel du premier pic de rtduction du systbme 
+cCtone -cation mCtallique en fonction de log v4 (6Epc,/6 log v) 
+est fortement dependante du cation mCtallique present comme le 
+
+4. Un des rapporteurs suggkre de discuter plut6t de la dipendance de 
+
+Ep, avec la concentration CR du substrat, en considkrant les valeurs 
+des pentes 6Ep,/6 log CR. Cette remarque fondCe nkcessite toutefois de 
+
+pouvoir explorer un domaine de concentration suffisamment Ctendu, ce 
+qui nous Ctait difficile compte tenu de la faible solubilitC des halogC-
+nures utilisCs. 
+
+Can. J. Chem. Downloaded from www.nrcresearchpress.com by 87.160.185.190 on 03/27/14 
+
+For personal use only. 
+
+
+FOURNIER ET FOURNIER 
+
+montre le tableau 2, et ceci que cette premiere Ctape soit 
+variable selon le composC carbony16 et telle que 
+attribuke 2 la rCduction du cation ou i lan5duction du-dCrivC 
+carbonvlt. 
+~e c ; suggbre donc que 17Cchange Clectronique a lieu sur 
+chaque espbce indkpendamment, bien que suivi d'une interac-
+tion forte entre les espbces formtes, interaction dont la cinttique 
+peut Ctre lente ou trbs rapide selon le cas. 
+
+B . Etude spectrophotome'trique 
+
+Dans le but de mettre en Cvidence un Cventuel complexe 
+cCtone -ion mCtallique prkexistant dans la solution avant 
+Clectrolyse et de dCterminer l'influence des ions halogknures 
+(chlorures et bromures) presents en concentration importante, 
+nous avons choisi dYCtudier l'influence du dCrivC carbonylt sur 
+le spectre d'absorption du cation mttallique. Cette Ctude a Ct C 
+me&amp;e avec le cobalt, dont le spectre d'absorption Clectronique 
+est caractkristique (fig. 2), dans les conditions de concentration 
+
+des Clectrolyses prkparatives . 
+
+Dans le DMF, pour l'ion cobalteux, si le contre ion n'est pas 
+complexant (nitrate par exemple), le spectre est voisin de celui 
+de l'ion hexa aquo (A,, 
+520 nm, E = 22,s). Par contre, a la 
+meme concentration, le chlorure cobalteux hexahydratC fournit 
+un spectre caractCristique du complexe tCtraCdrique ~o C l ~~-
+en 
+prCsence de la quantitk Cquivalente du complexe aquo. Si le sel 
+est dissout en presence de TBABr 0,l M, alors la proportion de 
+
+, cobalt cationique dCcroit au profit du mtlange des complexes 
+
+I 
+
+halogtnCs. 
+
+j 
+
+L'addition de benzophCnone 6 B la solution dans le DMF du 
+
+I composC cationique aquo C O ' ( H ~O ) ~~+ ne modifie pas le 
+
+, ' 
+
+spectre du complexe cationique. I1 en est de mCme dans le cas du 
+
+I 
+
+complexe anionique. Aucune modification dans la rkpartition 
+
+' des deux espbces n'est perceptible. Ainsi, peut-on considCrer 
+
+qu'il n'y a pas d'interaction preexistante significative dans ce 
+
+' 
+
+cas. 
+La mCme Ctude a Ct C menCe avec la chalcone 10. LA encore, 
+aucune interaction ne se manifeste sur le spectre de lYC1Cment 
+mttallique. I1 en est de mCme du spectre de la chalcone 10, qui 
+
+, 
+
+n'est pas influencC par la prCsence du cobalt. La mCme 
+observation peut &amp;tre faite pour une solution de chalcone dans 
+LiCl0,l M. 
+
+C. ~lectrol~ses a potentiel contrdle' 
+Les bilans rtactionnels globaux, en produits effectivement 
+isolts, pour chaque composC et chaque systbme mCtallique sont 
+rassemblts dans le tableau 3. Les rksultats des Clectrolyses 
+prtparatives confirment la diffCrence de comportement des 
+cCtones aromatiques et d'un composC a-P insaturk, c o m e la 
+chalcone, telle qu'elle est suggCrk par la voltammCtrie cyclique. 
+
+I. Coulome'tries 
+(a) Chalcone 10 
+
+, RCalisCes dans les conditions d7Cquimolaritt cCtone -cation 
+
+i mCtallique, au palier de la nouvelle vague de rkduction de 10, 
+
+1 les coulomCtries confirment, pour tout metal, un Cchange 
+
+monotlectronique (1-1,2 F/mol selon les cas). 
+
+(b) Ce'tones aromatiques 1-9 
+La proportion respective R de cation mCtallique et de cCtone a 
+Ct C dCterminCe empiriquement par variation continue de telle 
+sorte que ces conditions expkrimentales permettent la conver-
+sion totale du compost carbony16 de d$art. 
+Dans le cas oii le cation metallique n'est pas rkductible (Li', 
+Zn2), l1CquimolaritC (R = 1) des composants suffit pour 
+transformer la totalit6 de la cCtone par rCduction au palier de sa 
+premibre vague et aprbs passage d'une quantitC d'ClectricitC Q 
+
+2 F S Q s 3 F pour Zn2+ 
+
+Lorsque le cation mitallique est lui-mCme rCductible (C$+, 
+~n ~+ , 
+Fe2+, Co2+), mais de potentiel de rkduction voisin de 
+celui de la cCtone, la reduction a Ct C menCe au potentiel du palier 
+de la vague de riduction du cation mCtallique (systkme M"/MO) 
+dans le cas des com~osCs 1-8. Dans le cas du com~osC 9. c'est 
+la premibre vague de rCduction de la fluorenone qui est touchee 
+
+et nous considCrerons ce compost A part. 
+
+Pour un compost donne, les proportions respectives des 
+constituants dtpendent fortement du metal. Si ~'k~uimolarit~ 
+(R = 1) suffit pour C$+ et Mn2+, il faut doubler la quantitC du 
+cation (R = 2) dans le cas ou M = Fe ou Co. Ainsi, pour la 
+tktralone 1 en prCsence de Fe2+, 1'Clectrolyse ne conduit aprbs 
+sCparation qu'a un taux de conversion de 78% (60% de diol d,l 
+et 18% de diol me'so) si R = 1. 
+Ceci s'explique si l'on prend en compte les quantitCs 
+respectives anionlcation dans ces deux cas prCcis (fig. 2) oh 
+1'Ctude spectrophotomttrique indique une ~~ui~artitionkntre les 
+complexes cationiques et anioniques, et si l'on admet que c'est 
+l'espbce cationique qui intervient dans le phtnombne d'Clectro-
+
+. 
+
+-
+
+caGlyse. I1 en est vraisemblablement d e m ~m e dans le cas du 
+fer(II). Les quantitCs d'tlectricitC sont telles que les taux de 
+conversion de 100% ne sont obtenus que pour 
+
+Si l'on considbre (8) que le systbme C$+ + C$+ consomme 1 F 
+sans intervenir dans le processus, ce qui est confirm6 par 
+l'utilisation de chrome(II), alors chrome et manganese sont 
+Cquivalents du simple point de vue de la coulomCtrie (3 F). Par 
+contre, apres prise en compte de l'excbs d'espbce mCtallique, 
+fer et cobalt induisent un Cchange tel que 1 F S Q S 3 F selon le 
+cas; c'est-a-dire un comportement intermkdiaire entre Li+ et 
+C?+ ( ~n ~+ ) . 
+Si le cation mCtallique est beaucoup plus 
+rCductible que la cttone ( ~i ~+ ) , 
+le taux de conversion T est 
+touiours nu1 quel que soit R. 
+~a fluorhone 9se distingue des autres cCtones aromatiques. 
+Le taux de conversion est nu1 (T = 0) avec Li+, Mn2+ et Ni2+ 
+quel que soit R. I1 est maximum (T = 100%) avec c$+(R = 1, 
+
+Q = 4F);Co2+(R = 2, Q = 1,7F);(R = 2, Q = 1,2F). 
+
+Dans ce cas encore, si le rapport ferlfluorCnone est R = 1, le 
+taux de conversion est T = 80% et aprbs traitement le mtlange 
+wmprend 80% de diol et 20% de fluorenone non transformCe. 
+
+11. Re'sultats et discussion 
+L'influence de Ni2+ est nulle et les rtsultats des Clectrolyses 
+prCparatives confirment les prtvisions qui pouvaient Ctre faites 
+de l'examen des polarograrnmes et des voltammograrnmes. 
+Par contre, comme le montre le tableau 3, la nature et la 
+rkpartition des produits obtenus dependent plus ou moins du 
+cation prisent selon la cCtone ttudite. 
+
+(a) Ce'tone a-p insature'e 10 
+
+La structure des hydrodimbres obtenus par ClectrorCduction 
+de la chalcone 10 a Ctt rksolue dans une publication anterieure 
+(5). La prise en compte des facteurs orbitalaires et des donnCes 
+Clectrochimiques a permis de proposer, pour chaque hydro-
+dimbre, un mCcanisme de formation. Dans ce mCmoire (5), 
+nous avions montrC qu'en I'absence de cation mCtallique, la 
+reduction Clectrochimique (DMF, TBABr 0,l M) conduit, par 
+une rCaction d'oligomCrisation radicalaire, a un trimbre cCtoni-
+Can. J. Chem. Downloaded from www.nrcresearchpress.com by 87.160.185.190 on 03/27/14 
+
+For personal use only. 
+
+
+TABLEAU 3. RCsultats des Clectrolyses prkparatives 
+
+Li + 
+cr3+ 
+~n ~+ 
+~e ~+ 
+co2+ 
+~i ~+ 
+Zn2+ 
+CCtones 
+a 
+
+b 
+
+c 
+d 
+
+e 
+
+f 
+
+g 
+
+Diol88% 
+miso 4 
+
+Diol70% 
+me'so 4 
+
+Diol64% 
+miso 4 
+
+Diol80% 
+miso 9 
+
+Diol85% 
+miso 3 
+
+Diol 84% 
+
+Diol 70% [ : 
+
+i 
+: 
+: 
+20 
+
+Diol93% 
+miso 5 
+
+Diol 100% 
+
+[:k:: 
+
+39 
+
+Diol 92% 
+
+Diol84% 
+
+Diol73% [ l t ?: : 17 
+
+Diol83% 
+me'so 3 
+
+Diol 78% [ : 
+
+i 
+: 
+: 
+25 
+
+Diol84% 
+
+RCsinification 
+Diol81% 
+[ : 
+e! : 
+17 
+
+RCsinification 
+Diol68% 
+Diol63% 
+
+Diol 78% [ : e?: 16 
+Diol70% [ : 
+
+e 
+: 
+: 
+28 
+
+RCsinification 
+
+Diol93% [ : 
+
+e 
+: 
+29 
+
+AldChyde benzoique 
+Diol65% 
+45 
+me's020 
+
+9 
+z 
+
+7 
+
+AcCtophCnone 
+Diol64% 
+
+0 
+
+[: el : 21 
+
+8 
+
+Alcool23% 
+
+3 
+
+C 
+
+0 
+
+r 
+
+Alcool25% 
+DCsoxy benzoyne 
+
+$ 
+
+-
+
+Diol 172°C 44% 
+
+w 00 m 
+
+Diol49% [ 13 
+
+Alcool4% 
+AcCtophCnone 49% 
+Alcool 1 1 % 
+Diol 212°C 47% 
+Diol 172°C 17% 
+
+Alcool 10% 
+AcCtophCnone 39% 
+
+Alcool 6% 
+Diol 21 2°C 37% 
+Diol 172°C 27% 
+
+Alcool 2% 
+
+Diol 172°C 76% 
+
+Benzhydrol96% 
+
+Xanthone 26% 
+
+Diol56% 
+
+Alcool 18% 
+Diol212"C 2% 
+Diol 172°C 70% 
+Diol63% 
+
+Benzhydrol25% 
+
+Xanthone 72% 
+
+Diol 26% 
+Diol48% 
+
+Alcool97% 
+
+Diol 85% 
+
+Benzhydrol4% 
+
+Diol 97% 
+
+BenzophCnone 
+Benzhydrol 100% 
+
+Benzhydrol 18% 
+
+Xanthone 
+Xanthol 100% 
+Xanthol 90% 
+Xanthone 
+
+Diol 21 % 
+FluorCnone 
+Fluortnol60% 
+
+Chalcone 49% 
+DicCtone 5% 
+j3-CCtol trans 97% 
+p-CCtols 18% 
+
+(cis + trans), resines 
+
+Diol 38% 
+
+FluorCnone 
+FluorCnone 
+Diol 91 % 
+FluorCnol48% 
+CCtone saturCe 1 1 % 
+DicCtone 27% 
+p-CCtols 44% 
+
+(cis + trans) 
+
+CCtone saturCe 4% 
+DicCtone 20% 
+p-CCtols 59% 
+
+(cis + trans) 
+
+CCtone saturCe 8% 
+Furannes 20% 
+P-CCtols 60% 
+
+(cis + trans) 
+
+CCtone saturCe 7% 
+DicCtone 22% 
+p-CCtols 58% 
+
+(cis + trans) 
+
+p-CCtols 92% 
+
+(cis + trans) 
+
+Can. J. Chem. Downloaded from www.nrcresearchpress.com by 87.160.185.190 on 03/27/14 
+
+For personal use only. 
+
+
+FOURNIER ET FOURNIER 
+
+887 
+
+que cyclique avec un rendement de 60%, B c6tC de resines non 
+~Cparables. Nous avions montrC Cgalement qu'en presence d'un 
+cation mCtallique, tel que C?, le taux de conversion et le 
+rendement chimique sont toujours de loo%, le produit majori-
+taire Ctant toujours un p-cttol. 
+Qu'en est-il, en prCsence d'ions mCtalliques de polarisabilitC 
+diffkrente, mais qui, dans ce cas, se rkduisent toujours aprks le 
+composC carbonylC, et dont les v o l t a m o g r a m e s suggkrent 
+une interaction cCtone-cation forte rapide qui Ctre de 
+type paire d'ions? 
+(i) Cations non r&amp;ductibles 
+En prCsence de Li', le p-cCtol est obtenu de f a ~o n stlective, 
+avec un rendement trbs ClevC, sous ses deux formes cis (46%) et 
+trans (46%). 
+En prCsence de Zn2+ anhydre, le meme cCtol est obtenu avec 
+un rendement de 97%, mais uniquement sous sa forme trans. 
+Dans ces deux cas, un seul produit est form6 et la variation du 
+potentiel de pic de riduction de la cCtone avec la vitesse de 
+balayage est une droite de pente -32 mV. La pente thCorique 
+pour un mkcanisme de couplage radical anion -substrat est de 
+30 mV (13). Ceci suggkre que le mCcanisme de formation du 
+p-cCtol dCbute par l'attaque d'un radical anion sur une molCcule 
+neutre. Un tel couplage a d'ailleurs Ct C proposCpar SavCant dans 
+le cas de milieux aprotiques trks secs (14). Le radical anion 
+serait stabilisC par formation d'une paire d'ions avec le cation 
+mktallique, ce qui est consCquent avec la variation du ptoentiel 
+de demi-vague du composC carbony16 vers les potentiels 
+~ositifs. De telles interactions sont fondamentales dans les 
+processus biochimiques oh l'ion Zn2+ est particulikrement 
+efficace dans l'hydrolyse des chaines peptidiques. De la mCme 
+fa~on, l'influence de l'ion Mg2+ a dCji Ct C signalee lors de la 
+ruuction de composCs carbonylks (15). 
+(ii) Cations rkductibles : C?' , F$+, co2+, Mn2+ 
+Les composCs obtenus sont les mCmes pour tous ces cations : 
+&amp;tone, dicktone, BcCtols, mais leur rkpartition dipend sensible-
+ment du cation mCtallique antagoniste. La diffkrence de 
+comportement est maximum avec Co2+. Avec ~n " , on note la 
+prCsence d'un composC nouveau hydroxy-4 furannique en place 
+de la dicCtone. Ce nouveau compost est prCsent sous forme d'au 
+moins trois diastCrCoisombres. 
+L'ensemble de ces observations peut se relier au caractkre 
+acide de Lewis de ces cations si l'on se rCfkre B 1'Cchelle de 
+durett au sens de Jorgensen (16): 
+
+UA reprisentant la douceur, , 
+! 
+? le potentiel standard du couple 
+
+Mz+/MO, z la charge de l'ion, et l'on suppose que les cations sont 
+solvatCs d'une manikre Cquivalente. 
+Dans ces conditions, les ions se classent c o m e ci-dessous : 
+
+1.48 
+1,65 
+1,79 
+1,87 
+2,03 
+2,11 
+
+douceur 
+
+I1 apparait bien que le caractkre acide de Mn, Fe, Cr, est de 
+mCme nature, l'ion Co2+ Ctant un peu moins dur d'oh une 
+moindre proportion de cCtol si l'on admet que c'est bien une 
+interaction de nature acide qui favorise ce composC (5). 
+Le mCcanisme primaire est complexe puisque la nature des 
+
+produits obtenus est variee et l'examen des pentes 6Epc/6 log v 
+
+est d'un faible secours puisque la compttition entre plusieurs 
+micanismes est probable. Le cas de C$+ est peut Ctre le plus 
+
+simple puisque le systbme mCtallique seul n'interfbre pas (pente 
+nulle pour l'ion isolt). 
+Dans ce cas, une pente de 22 mV est obtenue en presence de 
+chalcone, ce qui peut Ctre interpret6 comme une dim~risation 
+primaire du radical anion conduisant i la dicCtone, ce processus 
+imposant sa vitesse. Le caractkre Clectrophile du substrat 
+d~pendant de la force de l'interaction avec le mCtal de transition, 
+un acide dur orientera prCfCrentiellement la duplication vers une 
+
+rCaction de type radical anion -substrat; un acide mou 
+
+dkfavorisera cette interaction d'autant plus qu'il est mou et la 
+reaction radical anion -radical anion ne s'en exprimera que 
+mieux. 
+
+(b) Ce'tones aromatiques 1-9 
+La plupart des cations se rkduisent avant le composC 
+carbonylt et c'est sur cette vague que nous conduisons 
+17Clectrolyse. Dans les quelques cas oh le cation mCtallique se 
+rkduit aprks le composC carbonylt (Li', Zn2+), on conduit 
+1'Clectrolyse au potentiel de rCduction de la cCtone, valeur 
+dCplacCe vers les potentiels moins nCgatifs, vraisemblablement 
+par un effet de type paires d'ions comme en la rCf. 7. Les 
+rCsultats des Clectrolytes prkparatives sont plus complexes i 
+analyser, quel que soit le cation mktallique. 
+Toutefois, dans le DMF, en prCsence de cation mitallique, 
+nous dCgageons quelques points importants : 
+Les rksinifications sont totalement supprimCes. 
+Les cCtones aromatiques encombrCes sont rCduites au poten-
+tie1 de rkduction du cation mCtallique, ce qui reprCsente souvent 
+
+un gain supkrieur i 400 mV (1, 2, 3, 5, 7) par rapport au 
+
+potentiel de rCduction de la cCtone seule. 
+La rkpartition des produits obtenus, diols ou alcools, dCpend 
+beaucoup du mCtal. Les diffirences les plus marquCes sont 
+
+obtenues dans le cas des composCs 5, 6, 7, 8 et 9. 
+
+De tous les cations Fez+ est le plus sClectif puisque dans 
+presque tous les cas le diol est obtenu comme produit unique, 
+sous forme mkso ou dl, avec un rendement supCrieur B 85%. 
+Le rendement faradique (exprim6 comme le rapport entre la 
+coulomCtrie thkorique de rtduction de la cCtone (1 Flmol) et la 
+coulomCtrie rCelle) est toujours infkrieur h 1. 11 est mCme 
+quelque fois trbs faible (0,2) contrairement au cas de la chalcone 
+10 oh le rendement faradique est toujours voisin de 1. 
+Dans tous les cas oh le monoalcool est obtenu seul (cas 8b 
+avec C s + , 7c avec Mn2+, 6d avec Fez+), on n'observe, en 
+voltammetrie cyclique, que le pic de rkduction du composk 
+carbony16 et ceci quelles que soient les vitesses de balayage. Le 
+pic du cation mktallique n'apparait jamais. Au contraire, dans le 
+cas oh le diol est formi, la voltammCtrie cyclique montre une 
+simple additiviti des systbmes ; il est logique de supposer que le 
+systkme mttallique est le premier touchC. 
+Les taux de conversion ne sont en gCnCral pas proportionnels 
+i la quantitC d'ClectricitC CchangCe. Ainsi lorsque le diol est le 
+seul produit formC, on attend un rendement de 0,33 F puisque 2 
+F sont consommCs dans la rkaction M" -+ M0 en sus d'une 
+Cventuelle rkduction du composC carbonylt. C'est en particulier 
+le cas de C s + et Mn2+. Un test simple permet de confirme cette 
+observation. Dans le cas de la tetralone 1, si l'blectrolyse en 
+presence de Mn2+ est arretke aprbs 2,2 F, seulement 63% de diol 
+se sont formCs et 20% de 1 n'ont pas Ctt transformks ; 0,8 F sont 
+donc nCcessaire i la transformation des 20% restants. Le mCme 
+test men6 avec C s + , conduit aprks passage de 1,5 F i un 
+mClange de 60% de produit de dtpart 1 et 29% de diol. I1 faut 
+donc 1,5 F pour transformer les 60% restants. 
+La prCsence simultanCe du cation mCtallique et du composk 
+Can. J. Chem. Downloaded from www.nrcresearchpress.com by 87.160.185.190 on 03/27/14 
+
+For personal use only. 
+
+
+CAN. J. CHEM. VOL. 64, 1986 
+
+S = s o l v a n t 
+
+MOE Hg metal adsorb,&amp; 
+
+MO-Hg ama Lgame 
+
+(MO)n : p a r t i c u l e s m e t a l l i q u e s agregees 
+
+A r = P h ou CH2Ph 
+
+i n t e r m e d i a i r e t r e s r a c t i f 
+
+7 
+
+MO-H~ ou (MO)n 
+
+-r e d u c t i o n chimique 
+
+R-C-Ph Ph-C-R 
+
+I 
+
+I 
+O----MT[---O 
+
+-
+
+-
+
+P 
+
+s o l v a n t 
+
+Th qh 
+
+@ R -C -P ~ P~-C-R -----R -c -c -R + Ms:+ 
+
+A r ~c -~---
+
+M ~+ 
+Ar, ,C-0'-
+
++ 
+
+M S ~~+ 
+Ph' 
+Ph 
++ s o l v a n t 
+
+@ 2 1 I mole cetone dans Le car de L 1 6 q u i r n o l ~c u l a r i t ~ 
+
+@ il / mole cetone (ou 2F) p a r Le b i a i s du t r a n i f e r t i n t e r n e 
+
+FIG. 3. SchCma rCactiomel possible pour 1'ClectrorCduction catalysCe de cCtones aromatiques. 
+
+carbony16 est indispensable au processus d'6lectrorCduction. 
+Ainsi, un test de prCClectrolyse du cation jusqu'h 1'Ctat 
+
+mktallique (2 F) suivi de l'introduction de la cCtone 1 dans le 
+
+compartiment cathodique en maintenant le potentiel du mercure 
+au potentiel de reduction du mttal ne conduit h aucune 
+duplication (on rkcupbre integralement la cCtone de depart si le 
+cation est Mn2+ ; la rtsinification est totale avec Fe2+). 
+Le rendement final dCpend fortement de la quantitC de cation 
+prksente. Ainsi si la prCClectrolyse du cation n'est menCe que 
+jusqu'h 1,5 F (cas de MnC12) puis poursuivie normalement, 
+aprbs ajout de la cCtone I, jusqu'h son terme (3 F), on rCcupbre 
+aprks sCparation 50% de diol et 35% de 25% de la 
+quantitk initiale de cation ont permis 50% de duplication. 
+
+D. Interprttation 
+L'ensemble de ces observations, bien que ne permettant pas 
+d'elucider compl2tement et dkfinitivement les mCcanismes mis 
+en jeu, suggbre cependant quelques voies d'approche. 
+Dans les cas les plus simples (chalcone 10, cations peu ou non 
+rkductibles), le compose carbony16 est le premier rCduit et le 
+
+radical anion form6 interagit plus ou moins fortement avec le 
+cation mCtallique dans une interaction de type paire d'ions 
+
+R7 . . . M+ ou R7 . . . M2+ . . . R-. Ceci est assez classique. Le 
+
+radical ainsi stabilise peut alors rCagir sur une molCcule neutre 
+ou sur lui-mCme. Dans tous les cas, si le cation Ctait rkductible 
+son potentiel de demi-vague devient plus nCgatif dans cette 
+interaction et peut se trouver repoussC lors de la zone d'tlectro-
+activitk. 
+L'interprCtation des autres systbmes est plus dClicate. La 
+premikre Ctape de rkduction doit Ctre nicessairement le passage 
+du cation 11 1'Ctat mCtallique, le carbonyle n'Ctant pas touch6 ; 
+une interaction de type paire d'ions entre le radical et l'ion 
+mktallique est impossible. 
+Comrne 1'Ctude spectrale, dans la zone des transferts Clectro-
+niques du mCtal de transition, n'a mis en Cvidence aucune 
+interaction priexistante importante, la presence ntcessaire de la 
+cCtone en dCbut d'blectrolyse ne peut s'expliquer que par 
+interaction entre des centres mktalliques rCduits ? 
+I la surface du 
+mercure et le systbme aromatique du composC carbonyl6, avant 
+que le mCtal ne puisse diffuser dans 1'Clectrode (amalgame) ou 
+Can. J. Chem. Downloaded from www.nrcresearchpress.com by 87.160.185.190 on 03/27/14 
+
+For personal use only. 
+
+
+FOURNIER E 
+
+s'agrCger en particules inertes (fig. 3). Cette participation du 
+mktal de la cathode (mercure) est suggkrke par l'observation de 
+
+la passivation d'une Clectrode a goutte de mercure deposke sur 
+
+tlectrode d'or et polariske au potentiel de rkduction du cation 
+mktallique. Aprbs un tel traitement l'klectrode reste inactivk 
+vis-a-vis du composk carbonylk mCme aprbs lavage. 
+L'amalgame ou le mktal divisk peut Ctre reducteur et conduire 
+&amp;la formation de rksines, cornme dans une rkduction classique.' 
+La rkpartition des produits de rkaction depend donc des 
+
+cinktiques de toutes ces interactions. Le comportement de tous 
+
+ces composks carbonyles peut, peut-Ctre, s'expliquer par le 
+
+passage progressif d'une interaction forte de type complexe a 
+
+l'interaction faible de type &lt;( acide-base &gt;&gt; selon la variation 
+des facteurs orbitalaires, les deux types d'interaction pouvant se 
+manifester conjointement. La force de l'interaction forte dkpen-
+
+drait essentiellement de I'aptitude de l'klkment mktallique a 
+
+former des complexes intermkdiaires de type IT, donc du 
+nombre d'klectrons c&lt; d &gt; &gt; du mktal. Ainsi dans le cas du 
+chrome (d6) et lorsque le noyau benzknique (3 doublets IT) n'est 
+pas fortement conjuguC avec le carbonyle (composks 1,2,3,4, 
+
+S), les composks -type &lt;&lt; sandwich &gt;&gt; a 18 Clectrons sont 
+
+sfirement favorisks. Dans le cas du mangantse, du fer et du 
+
+cobalt, les complexes ainsi crtks seraient a 19, 20 et 21 
+
+Clectrons, ce quiles rendrait particulibrement aptes au transfert 
+Clectronique interne suivi de la dimkrisation des radicaux anions 
+formCs et de la libkration du mktal dans son ktat d'oxydation 
+2+. Dans tous ces cas, ce modtle rend compte de la non 
+rMuctibilitk du ligand organique aprbs interaction avec le metal. 
+
+Dans le cas oh la conjugaison croit (6, 7,s) l'ensemble du 
+
+systtme n, dkfavorisant le complexe ((type sandwich &gt;&gt; (20 E 
+pour Cr, puis 21, 22, 23 E pour Mn, Fe, Co) au profit de 
+l'interaction de type acidobasique au niveau du carbonyle, un 
+Cchange biklectronique conduisant au monoalcool devient alors 
+possible. 
+Toutefois trop de parambtres ne sont pas encore maitrids, 
+rendant alkatoire une conclusion formelle. La rk~artition des 
+produits obtenus dkpend fortement du cation mktallique pour un 
+compost donnL6 Retenons que, cornme nous l'avions suspect6 
+en considkrant l'influence des ions Mn2+ (9), le phCnombne de 
+rkduction duplicative observk en prksence de C s + n'est pas 
+
+spkcifique de ce cation mktallique. Le phknomtne est gknCral 
+
+pour toute la premitre sCrie des elkments de transition et son 
+mCcanisme, malgrC des indices nouveaux, reste encore a 
+
+dkmontrer sans arnbiguitk. 
+
+Partie experimenale 
+
+Les points de fusion ont CtC dCterrninCs au banc de Kofler. Les 
+spectres iront Ct C obtenus avec un spectromktre Pye-Unicam SP 3-200, 
+
+ceux de rmn 13c avec un appareil Briiker WP 80 et 'H avec un appareil 
+
+Briiker SY 250. Les spectres uv ont Ct C enregistrCs sur Perkin-Elmer 
+555. Les spectres de masse ont Ct C effectuCs sur un appareil AEI type 
+MS 30. Les analyse ClCmentaires ont Ct C effectutes au laboratoire de 
+rnicroanalyse de 1'UniversitC de Paris VI que nous tenons i remercier 
+vivement. Les chromatographies sur couche mince ont Ct C rCalistes sur 
+gel de silice fluorescente Merck PF-254 (plaque 20 X 20, e = 0,l cm). 
+En Clectrochimie, tous les potentiels ont Ct C mesurCs par rapport i 
+
+5. Un des rapporteurs rappelle que la plupart des mCtaux CtudiCs sont 
+peu solubles dans le mercure et qu'une adsorption du compod organi-
+que sur les cristallites mCtalliques est possible, modifiant le processus 
+d'ClectrorCduction. Ce phCnom2ne est difficilement discernable d'une 
+vraie complexation au sens organomCtallique comrne nous le proposons. 
+6. Undes rapporteurs rappelle aussi I'influence des mCtaux de transi-
+tion dans I'kolution de la rCaction des rCactifs organomagnCsiens avec 
+les fonctions carbonyles (24). 
+
+,T FOURNIER 
+
+889 
+
+une Clectrode de rtfCrence au calomel -KC1 saturC (ECS) munie d'une 
+jonction remplie avec une solution de TBA Br 0,l M dans le DMF 
+(Clectrode Tacussel RDJIC 10). Les polarogrammes ont Ctt enregistrts 
+sur une table tra~ante XY Iffelec IF 3802 couplCe i un polarographe 
+PAR 174 A. Les voltammogrammes ont Ct C rCalisCs grlce i un 
+potentiostat PAR 173 gouvernk par un gtnkrateur de signaux PAR 175, 
+sur goutte de mercure fournie par une Clectrode de KCmula 2 1 piston 
+micromCtrique (Tacussel). 
+Les Clectrolyses ont Ct C rCalisCes en atmosphkre d'argon, 2I temp6 
+rature ambiante, avec un potentiostat PAR 173 muni d'un coulomktre 
+PAR 179, sur une cathode de mercure de 26 cm2 environ de surface et 
+agitte avec un barreau aimante. Les compartiments anodique et 
+cathodique sont sCparCs par une pastille de verre frittt de porositt 4 et 
+de 2,5 cm de diamktre. L'anode est un disque de platine de 2 cm de 
+dimstre. 
+Le DMF utilisC est d'origine Merck; il est prCalablement distill6 sur 
+P205. I1 contient du bromure de tCtrabutylammonium 0,l M et un peu 
+d'eau 2 X 
+M environ (dosage de Karl-Fischer). Ainsi pour les 
+analyses voltammCtriques avec des concentrations en CrC13.6H20 ou 
+MnCI2.4H20 de 
+M, la concentration d'eau est de I'ordre de 2-3 X 
+lo-' M; pour les Clectrolyses oh la concentration de sel mCtallique est 
+en gCnCral de 7 X 
+M (5 X 
+moles dans 70 cm3 de solvant), la 
+concentration d'eau est de 0,45 M environ. 
+En fin de rCaction (dtterminCe par analyse polarographique), le 
+mClange obtenu est versC dans un grand volume d'eau (700 cm3 au 
+moins), extrait 2I 1'Cther et sCchC sur sulfate de sodium. Le solvant est 
+chassC sous vide, le rCsidu sCparC par chromatographie sur couche 
+mince de silice. 
+Les produits rtsultants des Clectrolyses ont dCji Ct C dCcrits (5, 
+17-20) et nous les avons identifiCs par leurs caractCristiques physiques 
+et spectroscopiques, par comparaison avec celles d'khantillons authen-
+tiques. Les particularitis observks et les spectres de rrnn des produits 
+obtenus sont donnCs dans les rCfs. 5 et 21. Le pourcentage respectif des 
+forrnes me's0 et dl, pour les diols de I'acCtophCnone 5 et du 
+benzaldChyde 4, a Ct C CvaluC par spectroscopie rrnn (22,23). Dans tous 
+les autres cas, les deux isomkres m b o et dl ont pu 2tre sCparCs. 
+Les haloginures mCtalliques hydratCs sont des produits Prolabo, les 
+composCs anhydres Ctant fournis par Ventron. Dans le cas du chrome 
+les m2mes rCsultats sont obtenus i partir de la solution de chlorure 
+chromique Clectrolyste i 1'Ctat de chlorure chromeux ou i partir de 
+chlorure chromeux anhydre. 
+
+Remerciements 
+
+Les auteurs remercient vivement les rapporteurs pour leurs 
+pertinentes remarques et suggestions. 
+
+1. M. CHANON et M. L. TOBE. Angew. Chem. Int. Ed. Engl. 21, 
+1 (1982). 
+2. (a) J. P. SEGUIN, J. P. DOUCET et R. UZAN. C. R. Acad. Sci. S&amp;r. 
+C, 278, 129 (1974); (b) M. A. MICHEL, G. MOUSSET et J. 
+SIMONET. J. Electroanal. Chem. 98, 319 (1979); (c) C. P. 
+ANDRIEUX et J. M. SAVEANT. Bull. Soc. Chim. Fr. 3281 (1972); 
+(d) E. LAMY, L. NADJO et J. M. SAVEANT. Electroanal. Chem. 
+50, 141 (1974); (e) W. R. FAWCETT et A. LASIA. Can J. Chem. 
+59,3256 (1981); (f) P. H. GIVEN, M. E. PEOVER et J. S~HOEN. J. 
+Chem. Soc. 2674 (1958); (g) A. BEWCK et H. CLEGHORN. J. 
+Chem. Soc. Perkin Trans. 2, 1410 (1973)., 
+3. M. M. BAIZER. Organic electrochemistry. Editeur: M. M. Baizer. 
+Marcel Dekker, New York. 1973. Chap. 9. 
+4. K. KOSTER et H. WENDT. J. Electroanal. Chem. 138, 209, 
+(1982). 
+5. F. FOURNIER, J. BERTHELOT et J.-J. BASSELIER. Tetrahedron, 
+41, 5667 (1985). 
+6. F. FOURNIER, D. DAVOUST et J.-J. BASSELIER. Tetrahedron, 41, 
+5677 (1985). 
+7. (a) A. LASIA et M. K. KAL~NOWSKI. J. Electroanal. Chem. 36, 
+51 1 (1972); (b) A. LASIA. J. Electroanal. Chem. 102,117 (1979); 
+(c) T. FUJINAGA, K. IZUTSU et T. NOMURA. J. Electroanal. 
+Chem. 29,203 (1971). 
+Can. J. Chem. Downloaded from www.nrcresearchpress.com by 87.160.185.190 on 03/27/14 
+
+For personal use only. 
+
+
+890 
+
+CAN. J. CHEM. VOL. 64. 1986 
+
+8. F , FOURNIER, J. BERTHELOT et Y. L. PASCAL. Tetrahedron, 40, 
+339, (1984); C. R. Acad. Sci. S6r. 3, 294, 849 (1982). 
+9. F. FOURNIER, J. BERT HELOT^^ Y. L. PASCAL. Can. J. Chem. 61, 
+2121 (1983). 
+10. D. W. SOPHER et J. H. P. UTLEY. J. Chem. Soc. Chem. 
+Comrnun. 1087 (1979); J. Chem. Soc. Perkin Trans. 2, 1361 
+(1984). 
+11. M. PERRIN, P. POUILLEN, G. MOUSSET et P. MARTINET. 
+Tetrahedron, 36,221 (1980). 
+12. G. ANTHOINE, J. NASIELSKI et B. WILMET-DEVOS. Bull. Soc. 
+Chim. Belg. 78, 465 (1969). 
+13. E. LAMY, L. NADJO et J. M. SAVEANT. Electroanal. Chem. 42, 
+189 (1973). 
+14. J. M. SAVEANT. Acta Chem. Scand. SCr. B, 37,365 (1983). 
+15. F. BASOLO et R. PEARSON. Mechanisms of inorganic reactions. 
+John Wiley and Sons, Inc., New York 1967. 
+
+16. C. K. JORGENSEN. Top. Curr. Chem. 56, 1, (1975). 
+17. G. MAJERUS, E. YAX et G. OURISSON. Bull. Soc. Chim. Fr. 4143 
+(1967). 
+
+18. D. SEEBACH, H. A. OEI et H. DAUM. Chem. Ber. 110, 2316 
+
+(1977). 
+19. H. GOTH, P. CERUTTI et H. SCHMIDT. Helv. Chim. Acta, 48, 
+1395 (1965). 
+20. Y. ALTMAN et D. GINSBURG. J. Chem. Soc. 1498 (1961). 
+21. Y. L. PASCAL, 0 . CONVERT, J. BERTHELOT et F. FOURNIER. Org. 
+Magn. Reson. 22, 580 (1984). 
+
+22. J. H. STOCKER, D. H. KERN et R. M. JENEVEIN. J. Org. Chem. 
+
+33,412 (1968). 
+23. H. J. STOCKER et R. M. JENEVEIN. J. Org. Chem. 33, 2145 
+(1968). 
+24. J. K. KOCHI. Organometallic mechanisms and catalysis. Aca-
+demic Press, New York. Chap. 14 p. 514. 
+
+Can. J. Chem. Downloaded from www.nrcresearchpress.com by 87.160.185.190 on 03/27/14 
+
+For personal use only. 
+
+
+
+	
+

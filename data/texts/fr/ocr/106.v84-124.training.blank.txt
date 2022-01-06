@@ -1,0 +1,653 @@
+
+	
+
+		
+
+	
+
+	
+
+Calcul des intensites des transitions laser dans lZC1bOz et ses molecules isotopiques 
+
+PHILIPPE MILLIE. Can. J . Chern. 62, 736 (1984). 
+
+Les intensitks des raies lasers B 9 et I0 Km dc "C1"02 et scs molCculcs isotopiqucs sont calculCes thkoriquemcnt. Les 
+
+fonctions d'ondes vibrationnclles sont obtenues par diagonalisation directe B partir d'une fonction potenticl dcterminke 
+antCrieurement. Unc comparaison avec les valeurs cxpCrimentalcs est prksentke. LC r81c de l'anharmonicitk Clcctrique cst 
+
+discutk ainsi que les errcurs dues B la mCthode de transformation dc contact dans Ic calcul dcs nivcaux d'kncrgic. 
+
+PHILIPPE MILLIE. Can. J. Chcni. 62. 736 (1984). 
+
+The laser emission-line intensities of '"'"o~ and several isotopes were theoretically calculated. The vibrational wave 
+
+functions were obtained to a direct diagonalization by utilizing a prcviously known potential function. Thesc values are 
+compared to the experimental ones. Thc effect of electrical anharmonicity is discussed. The validity of the contact trans-' 
+formation method is briefly analyzed. 
+
+Introduction 
+Les lasers CO, constituent encore une des seules sources de 
+rayonnement coherent de puissance dans l'infra-rouge. Pour en 
+augmenter I'accordabilitt ou couvrir des domaines que ne per-
+met pas d'atteindre ]'isotope usuel '2C'602, ]'attention s'est 
+portCe depuis quelques anntes sur la possibilitt de lasers 
+"isotopiques". Ainsi, fonctionnent dtja ceux utilisant les molt-
+cules '2C'X02, 13C1602 et "C'60'X0 ( I ) . Or, la possibilitt 
+d'obtenir un effect laser et le gain qu'on peut escompter sont 
+ttroiternent lies aux moments dipolaires de transition ( I ) . Si 
+certains sont connus exptrirnentalernent, il n'en est pas de 
+m&amp;me pour les rnoltcules isotopiques les rnoins abondantes (2). 
+Par ailleurs, d'un point de vue thCorique, le calcul precis de 
+tels moments dipolaires exige la dtterrnination de tres bonnes 
+fonctions d'ondes, donc l'utilisation d'une fonction potentielle 
+la meilleure possible. A notre connaissance, aucuncalcul n'a 
+utilist jusqu'a prtsent la fonction potentielle dtterrninte par A. 
+Chedin (3), dont la convergence est tres bonne et ou le terme 
+du troisieme ordre par rapport au potentiel harmonique qui joue 
+un r61e non nCgligeable dans le couplage de Ferrni a t t t expli-
+citement intr~duit contrairement aux determinations antt-
+rieures (4, 5 ) . Sa valeur a t t t testte aussi bien en ce qui 
+
+concerne les constantes rnoltculaires sur des transitions jus-
+qu'alors inobservtes (6, 7) que sur I'analyse des intensitts 
+Raman des raies laser d'un certain nombre de moltcules iso-
+topiques (8). 
+Enfin, comme on le verra par la suite, cette ttude permet de 
+comparer la mtthode de la transformation de contact 2 la 
+mtthode "brutale" de diagonalisation et de discuter de leurs 
+rntrites respectifs. 
+
+I. Obtention des fonctions d'ondes 
+1. NPcessitC de fotzctions d'ondes pricises 
+Les deux transitions impliqutes sont les transitions (0, 0°, 1) 
++ I et (0, 0°, 1) + 11, ou I et 11 sont, en premiere approxi-
+mation, des combinaisons lintaires des ttats harmoniques (1, 
+0°, 0) et (0, 2", 0) entre lesquels existe un tres fort couplage de 
+
+Fermi (v, correspond 2 I'allongement symttrique C i , v3 2 l'al-
+longement dissymttrique Cut et v2 au bending de syrnttrie IT,). 
+
+L'optrateur moment dipolaire de transition est lui-rn&amp;me de 
+
+syrnttrie C, et peut s'tcrire i I'ordre ztro = aQ3 (oh Q, est 
+
+la coordonnte normale sans dimension associte au mode v3). 
+On voit que si on ne tient cornpte que du couplage de Fermi et 
+qu'on nCglige l'anharmonicitt du moment dipolaire, on trouve 
+des intensitts nulles: ces deux transitions ne sont permises que 
+
+grice aux anharrnonicitks mCcaniques et Clectriques (9) et la 
+dttermination de leurs intensitts exige donc des fonctions 
+d'ondes precises. 
+
+2. MPthocle lrtiliske 
+Elle consiste sirnplement a Ccrire les fonctions d'ondes 
+cornme somme de produits des fonctions harmoniques et donc 
+
+B diagonaliser l'optrateur tnergie cinttique + potentiel har-
+rnonique + potentiel anharrnonique dans cette base. Nous 
+
+avons ntgligt l'interaction rotation-vibration, ce qui semble 
+raisonnable pour des niveaux vibrationnels aussi bas, compte 
+tenu par ailleurs de la prtcision du potentiel utilist (cf. itzfra) 
+et de la complexitt que son introduction entraine pour le calcul. 
+Dans ces conditions, pour les rnoltcules symttriques, la 
+matrice a diagonaliser se scinde en deux sous-matrices cor-
+respondant aux Ctats de syrnttrie 
+[tz'v,, 2tz2v2, 2tz3v3] et 
+
+Cut [tZIvl, 2tZ2v2, (2113 + 1) v3]. 
+
+3. Etude de la cotzvergetzce 
+La qualitt de la fonction d'onde obtenue dtpend bien en-
+tendu de la dimension de la base utiliste. Pour Cviter tout 
+arbitraire, il semble qu'une bonne f a ~o n de proctder soit 
+d'ttudier comment varient les valeurs propres, c'est a dire les 
+tnergies des niveaux vibrationnels, en fonction de la dimension 
+de la base. Pour cela, on effectue la diagonalisation en ag-
+randissant progressivement la base utiliste (mtthode des 
+matrices "emboittes"): on sait que, dans ces conditions, les 
+difftrentes valeurs propres tendent, de f a ~o n monotone et par 
+valeur suptrieure, vers leur valeur lirnite pour une dimension 
+infinie ( 10). Deux criteres ont t t t retenus pour cet agrandisse-
+ment: un critere tnergttique d'un part, et le fait que I'on doive 
+diagonaliser ensemble tous les ttats correspondant a une m&amp;me 
+
+valeur (2vl + v2) i cause du couplage de Ferrni, d'autre part. 
+
+On trouvera dans I'annexe 1, les bases utilistes dans le cas des 
+molCcules symttriques. 
+L'examen de la table 1 montre clairement que l'tnergie d'un 
+niveau donnt se stabilise 2 partir d'un certaine dimension, 
+dimension d'autant plus tlevte que le niveau ttudit est plus 
+haut en tnergie. Dans notre cas, on a convergence du niveau 
+fondamental et des niveaux 1 et 11 (construits sur 1, 0°, 0 et 0 , 
+2", 0) 2 partir de la dimension 34. Au total, en base 90, 
+I'Cnergie des dix premiers niveaux a convergt a mieux que 
+0 , l cm-' pres. 11 en rCsulte que les vraies observables, c'est i 
+dire les niveaux d'tnergies rapporttes au niveau fondamental, 
+ont aussi converge avec une prtcision quasiment identique. Les 
+
+m&amp;mes constatations pourraient Etre faites pour la syrnttrie Xu+. 
+
+Can. J. Chem. Downloaded from www.nrcresearchpress.com by 87.160.185.190 on 03/27/14 
+
+For personal use only. 
+
+
+MILLIE 
+
+Ajoutons qu'en supposant, ce qui est raisonnable, que le niveau 
+fondamental converge au moins aussi vite que les autres, on 
+obtient ainsi des valeurs des niveaux d'energies rapportCes au 
+fondamental qui sont supCrieures aux tnergies que l'on ob-
+tiendrait en diagonalisant une matrice infinie. 
+. 
+
+" 
+
+Une Ctude similaire, quoique moins poussCe, a kt6 effectute 
+dans le cas des molCcules non symCtriques. En effet, il n'y a 
+plus sCparation en C,' et C,: et, pour obtenir des rCsultats de 
+qualite similaire, il faudrait diagonaliser des matrices de di-
+mension environ 200. L'Ctude du cas symttrique montrant 
+qu'en fait, une convergence raisonnable est atteinte des la di-
+mension 34 pour les niveaux qui nous intiressent, on peut 
+penser qu'une dimension de I'ordre de 92 est amplement suf-
+fisante, ce que confirme I'examen de la table 2. 11 faut, ce-
+pendant, noter que les criteres pour agrandir progressivement la 
+base sont nettement moins clairs que prCcCdemment. Si les 
+termes de couplage anharmonique, nuls dans le cas des molC-
+cules symCtriques, sont tres petits devant les autres, il est clair 
+qu'il faut simplement juxtaposer les bases utilisCes prCcCdem-
+
+ment pour les cas C i et Cut. C'est le principe utilisC pour les 
+
+bases 20,48 et 68 (respectivement Cgales a 10 + 10, 24 + 24, 
+34 + 34). Si, par contre, tous les termes de couplage sont du 
+
+mCme ordre, le critere Cnergetique est prCpondCrant; c'est lui 
+que l'on a utilist au moins en partie pour passer de la base 68 
+la base 92 (ceci explique qu'il y ait plusde niveaux de type 
+( v , , v2, 0) que de type (v,, v2, 1) ayant convergC). 
+
+4. Cornparaison avec la rnkthorle rle transformation de contact 
+La mtthode de la transformation de contact consiste, par des 
+changements de base appropriCs, a annuler certains Clements de 
+matrice non-diagonaux du potentiel. Ceci revient, en fait, a 
+diagonaliser une matrice infinie par perturbation, puis a diago-
+naliser par une mCthode exacte l'interaction de Fermi (voir par 
+example refkrence 11). Si cette methode semble de loin la plus 
+praticable pour extraire un potentiel de donnCes exptri-
+mentales, par contre, a cause notamment de la tres grande 
+valeur de la constante de couplage anharmonique k133 
+(-250 cm-I), l'erreur introduite par le traitement de per-
+turbation peut Ctre importante et augmente de f a ~o n signifi-
+cative avec le nombre quantique v, (voir table 15 de la rkfirence 
+3). Les diffkrences entre les energies exptrimentales et les 
+Cnergies obtenues par diagonalisation directe ont Ct C ras-
+
+semblCes dans la table 3. Les erreurs sont de I'ordre de 0,5 a 
+
+1.2%, sont significativement plus grandes pour les niveaux (v,, 
+vz,-1) que pour les niveaux (v,, vz, 0) et augmentent avec 
+
+(2vl + v2). 11 en resulte que l'erreur sur la fonction potentielle 
+
+est du m&amp;me ordre de grandeur et ce rksultat peut justifier dans 
+une certaine mesure le fait de nCgliger l'interaction rotation-
+vibration. 
+Au total, la mCthode de la transformation de contact semble 
+
+suptrieure a celle de la diagonalisation directe, au moins en ce 
+
+qui concerne C 0 2 (1 l), mais elle a le desavantage de ne pas 
+fournir directement les fonctions d'onde. 
+
+11. Calcul des forces oscillatrices de transition 
+1. Expressions thkoriques 
+La force oscillatrice d'une transition donnte entre deux Ctats 
+vibrationnels cpi et cp, est donnte par: 
+
+m r -m a r --
+-r -r -b r -w 
+
+N . o1 -. 01 '? 
+
+b m b r -r -r -
+
+N W W r -r -r -
+
+w r -r -r -r -r -
+m m m m m m 
+
+0 -w -'3 -
+
+-w b m w m 
+
+'? 6 . 09 N -. -. 
+
+N m w b b b 
+m m m m m m 
+m m m m m m 
+
+N N N N N N 
+
+e , O e , O e , O 
+
+Y l Y l v l V l Y l V l 
+
+r j n n m m m 
+
+m m m m m m 
+
+oh M est I'opbateur de moment dipolaire. 
+Cet opCrateur M peut lui-mCme &amp;tre dtveloppC en serie en 
+fonction des coordonnees normales sans dimension tandis que 
+Can. J. Chem. Downloaded from www.nrcresearchpress.com by 87.160.185.190 on 03/27/14 
+
+For personal use only. 
+
+
+738 
+
+CAN. I. CHEM. VOL. 62. 1984 
+
+TABLE 2. Etude de la convergence des Ctats C' dans le cas d'une molCcule non symktrique: cas 1'C1h0'80 
+
+(0,O0, 0) 
+( I , oo, 0) 11 
+(1, oO, 0) I 
+(0, oO, 1 ) (2, oo, 0) 111 
+(2, oO, 0) 11 
+(2, oo, 0) I 
+(1, oO, 1) I1 
+(1, on, I) I 
+
+Base 20 
+-9,363 
+1254,3 15 
+1360,187 
+2327,354 
+2506,393 
+2622,338 
+2760,535 
+3576,084 
+3682,390 
+Base 48 
+-11,942 
+1250,918 
+1356,876 
+23 19,439 
+2493,092 
+2608,308 
+2748,833 
+3568,810 
+3672,877 
+Base 68 
+-11,982 
+1246,993 
+1353,243 
+23 18,622 
+2492,5 17 
+2607,528 
+2748,155 
+3557,544 
+3661,332 
+Base 92 
+-11,985 
+1246,830 
+1353,129 
+2318,577 
+2487,658 
+2602,013 
+2743,855 
+3555,600 
+3659,661 
+
+TABLE 3. Valeurs (en cm-') de (Ec,pc,,nen,i,l -E,hc,,r,quc). Pour les niveaux couplCs par rCsonance de Fermi, seule cette diffkrence moyennCe sur 
+
+le multiplet est indiquee 
+
+-
+-
+
+T A B ~E 4. Convergence des moments dipolaires de transition: cas de "C"02 
+
+Paramtttres 
+Base 10 
+Base 24 
+Base 34 
+Base 52 
+Base 69 
+Base 90 
+
+(0, 00, I ~Q ~I I , 
+00, 0'') 
+0,0575 17 
+0,081461 
+0,085660 
+0,086087 
+0,086267 
+0,08629.1 
+(0, O", I ~Q I 
+
+Q , ( l , oO, 0") 
+
+0,369298 
+0,385585 
+0,397438 
+0,398830 
+0,398984 
+0,399053 
+
+(0, o", I lQ3I 1, oO, 0') 
+
+0,07 1327 
+0,100203 
+0,101398 
+0,101552 
+0,101753 
+0,101785 
+(0, 0". ~( Q I Q , ~, 
+oO, 0') 
+0,363447 
+0,362327 
+0,3653 1 1 
+0,365585 
+0,365628 
+0,365708 
+
+I 
+
+(0, 0°, l/Q3Il, 0°, 0') ] 
+
+1,5378 
+1,5131 
+1,4012 
+1,3916 
+1,3912 
+1,3914 
+(0, 0°, lIQ311, 0°, 0") 
+
+cp, et cp, sont obtenues comme des sommes de produits de 
+fonctions harmoniques. 
+Dans le cas des transitions laser qui sont des transitions 
+paralleles, M peut donc s'ecrire: 
+
+M = Al(a3Q3 + a1 QI) 
+
++ hz(a13Q1 Q3 + all Q: + a33~:) + . . . 
+
+Par ailleurs, pour une moltcule lineaire triatomique XYZ, on 
+peut tcrire, au premier ordre, si X et Z sont deux isotopes: 
+
+aM 
+
+M = ar(AX + AZ -2AY) 
+
+ou AX, AY et AZ sont les diplacements suivant l'axe inter-
+nucleaire des trois atomes. 
+
+On peut exprimer AX + AZ -2AY en fonction des 
+
+coordonntes normales sans dimension: AX + AZ -2AY = 
+b3 Q3 + bl Q l , oh b3 et bl sont fonctions de l'isotope considere 
+
+alors que aM/ar est une caracteristique de la molCcule etudiee. 
+
+Dans le cas ou X -Z, a , = a l l = a33 = 0. Dans le cas 
+
+non-symetrique, on a donc a l l , a33 &lt; a 1 3 et on peut negliger 
+
+leur contribution (voir aussi la reference 12). Par contre, o n n e 
+peut ntgliger, a priori, le terme Xzal3Ql Q3 devant le terme 
+h,a3Q3: si les differentes etudes anterieures (12 -16) mon-
+
+trent que -0,05 &lt; hza13/hla3 &lt; 0,0, par contre il est evident 
+
+que: 
+
+(91 1 QI Q3 1%) @ (91 1 Q3 1%) 
+
+pour ce qui concerne les transitions lasers. Comme nous ne 
+nous interessons qu'aux intensites de ces transitions rapportees 
+
+a celles de 12C1602, les seuls coefficients a determiner sont 
+a 3 = b3 et a l --bl que l'on trouvera rassemblis dans l'annexe. 
+
+Le terme correctif hza13/hla3 sera pris comme un parametre, 
+suppose en premikre approximation independant de l'isotope. 
+
+2. Etude de la convergence 
+Comme dans le cas des energies, nous avons ttudie la vari-
+ation des elements de matrice des operateurs Q3, Ql et Ql Q3 en 
+fonction de la dimension de la base utilisie. Les resultats sont 
+rassembles dans la table 4 pour 12C1602 et la table 5 pour 
+1zC160180. Comme on pouvait s'y attendre, les elements de 
+matrice convergent beaucoup moins vite que les energies car le 
+test est beaucoup plus severe et base directement sur la qualit6 
+des fonctions vibrationnelles obtenues. On obtient une prC-
+cision superieure h 1% avec une base 90 dans le cas des mole-
+cules syr&amp;triques, de l'ordre de 1% avec une base 92 pour les 
+non-symetriques sauf pour les elements de matrice de Ql qui 
+dependent beaucoup des tout petits coefficients dans le 
+developpement de la fonction vibrationnelle (erreur d'environ 
+3%). Au total, cependant, compte tenu de la precision des 
+valeurs experimentales et de l'imprtcision sur l'anharmonicite 
+du moment dipolaire, la convergence peut Ctre considCree 
+comme suffisante. 
+
+3. Discussion des re'sultats 
+Sont rassemblCs dans la table 6, un certain nombre de re-
+sultats theoriques et expkrimentaux concernant les moments 
+dipolaires des deux transitions laser pour l'isotope 12C1602. 
+Le critere retenu est le rapport des forces oscillatrices des 
+deux transitions calcule pour trois valeurs du rapport 
+K = h2a13/hla3:0,0, -0,03 et -0,05. 
+On voit que, bien que les valeurs theoriques ne different 
+guere entre elles de plus de lo%, l'tcart sur le rapport des 
+forces oscillatrices peut Ctre considerable et seules permettent 
+d'encadrer les rtsultats exptrimentaux les valeurs de la ref6 
+Can. J. Chem. Downloaded from www.nrcresearchpress.com by 87.160.185.190 on 03/27/14 
+
+For personal use only. 
+
+
+MILLIE 
+
+TABLE 5. Convergence des moments dipolaires de transition: cas de l'C1"OIXO 
+
+Parametres 
+Base 20 
+Base 48 
+Base 68 
+Base 92 
+
+TABLE 6. Valeurs expCrimentales et thtoriques des forces oscillatrices: cas de "C1602 
+
+Parametres 
+Ref. 13 
+Ref. 16 
+RCf. 14 
+Ce travail 
+Experience 
+
+TABLE 7. Comparaison avec l'exptrience pour un certain nombre de molCcules isotopiques 
+
+-
+-
+
+I2 16 18 
+
+C O O 
+'2C1"* 
+
+*R.,, tirt des donntes de la ref. 2; R: m&amp;me signification que dans la table 6; R 1: force oscillatrice de 
+la transition (I, O0, 0)" + (0, 0". 1) rapportee a 12C'6001; R2: force oscillatrice de la transition 
+(I, 0". 0)'+ (0, O0, I) rapportee 12C1602. 
+
+tLes deux valeurs indiqutes correspondent respectivement a K = 0 et K = -0.05. 
+
+TABLE 8. Valeurs thCoriques des forces oscillatrices pour l'ensemble des isotopes ttudiCes ( R , R I , R2: mCme signification que pour la 
+table 7) 
+
+rence 16 et celles de ce travail. 
+thtorique, sauf pour "C'60'80. L'accord est nettement moins 
+Ce bon accord avec l'exptrience est aussi valable pour 
+bon en ce qui concerne les forces oscillatrices des deux transi-
+d'autres isotopes (voir table 7), compte tenu du fait que la 
+tions laser rapporttes a celles de '2C'602 et il ne nous semble 
+valeur exptrimentale tirte des tables Geisa (2) pour 1'C'60180 
+pas simple de departager entre les erreurs dues aux approxima-
+nous semble entachte d'une erreur importante. On peut re-
+tions faites dans ce travail et les erreurs exptrimentales. Au 
+marquer en effet, que la valeur exptrimentale de R diminue 
+total, cependant, on doit pouvoir accorder une assez grande 
+rkgulikrement de "CI6O2 12C1802, comme d'ailleurs la valeur 
+confiance aux rtsultats thtoriques obtenus pour d'autres iso-
+Can. J. Chem. Downloaded from www.nrcresearchpress.com by 87.160.185.190 on 03/27/14 
+
+For personal use only. 
+
+
+740 
+
+CAN. J . CHEM. VOL. 6 2 . 1984 
+
+topes qui sont rassemblks dans la table 8 et qui permettent de 
+
+deceler quelles seront les transitions sur lesquelles on peut 
+espkrer obtenir un effet laser. 
+
+Conclusion 
+
+On a montrC que les erreurs dues a l'emploi de la mkthode 
+de transformation de contact pour la determination de la 
+fonction potentielle partir des valeurs experimentales se tra-
+duisent, au niveau des energies calculCes, par une erreur rela-
+tive de I'ordre de 
+
+L'emploi d'un bon potentiel est tout a 
+
+a ~t crucial en ce qui concerne la dktermination theorique des 
+moments dipolaires de transition. Le potentiel determine dans 
+
+la reference 3 donne des resultats en bon accord avec I'ex-
+
+perience en ce qui concerne les intensites des raies laser. 
+L'anharmoniciti Clectr~que joue un rble considerable dans le 
+rapport des intensites des deux transitions laser; il joue, par 
+contre, un rble negligeable en ce qui concerne les intensites de 
+
+ces deux raies pour les molCcules isotopiques a condition de les 
+
+rapporter h celles de I'isotope "C'602. 
+
+Remerciements 
+Je tiens a remercier Messieurs A. Chedin, B. Levy et 
+G. Salvetat pour les nombreuses discussions que nous avons pu 
+
+avoir, Messieurs Weulersse et Botter pour avoir attire mon 
+attention sur I'intCrgt du problkme et Madame Vinh pour 
+m'avoir facilite l'accks du centre de calcul de I'ENSJF. 
+
+I. M. SILVER, T. S. HARTWICK et M. J. POSAKONY. J. Appl. Phys. 
+41, 4566 (1970). 
+2. A. CHEDIN. N. HUSSON, N. A. SCOIT, I. COHEN-HALLALEH et 
+A. BERROIR. Tablcs Geisa. Laboratoire de Mkteorologie dyna-
+mique du CNRS. Notes internes no 108, 1 13 et 1 16 (1982). 
+3. A. CHEDIN. J. Mol. Spectrosc. 76, 430 (1979). 
+4. P. K. L. YIN. Appl. Opt. 8, 997 (1969). 
+5. I. SUZUKI. J. MoI. Spectrosc. 25. 479 (1968). 
+6. A. BALDACCI, C. P. RINSLAND, M. A. H. SMITH et K. NARAHARI 
+RAO. J. MoI. Spectrosc 94. 351 (1982). 
+7. M. L. HOKE ct J. H. SHAW. Appl. Opt. 21, 935 (1982); 22, 328 
+(1983). 
+8. H. FINSTERHOLZL. Ber. Bunsengcs. Phys. Chem. 86,797 ( 1982). 
+9. K. G. B ~o w ~e t 
+W. B. PERSON. J. Chem. Phys. 65,2367 (1976). 
+10. J. K. MCDONALD. Phys. Rev. 43, 830 (1933). 
+
+l I. M. LACY. Mol. Phys. 45, 253 (1982). 
+12. R. AKHMEDZHANOV et M. 0. BULANIN. Opt. Spectrosc. (USSR) 
+44. 45 (1978). 
+13. H. STATZ, C. L. TANG et G. F. KOSTER. J. Appl. Phys. 37,4278 
+(1966). 
+14. 1. SUZUKI. J. MoI. Spectrosc 80, 12 (1980). 
+15. A. N. GARAND. These 36me cycle, UniversitC Picrre et Marie 
+Curie, Paris (Juil. 1972). 
+16. J. BORDE. These dc Doctorat d'Etat, Universitk Pierre et Maric 
+Curie, Paris (Mai 1975). 
+
+Annexe 1 
+
+Bases utilisees dans le cas des molCcules symetriques. Cas 
+
+des niveaux C : . Les bases pour les niveaux Xu' s'obtiennent en 
+ajoutant un quantum dans le mode Xuk. 
+
+Base de dimension 10: (0, 0°, O), (1, 0°, O), (0, 2", O), 
+(2, oO, 01, (1, 2", 01, (0,4", 01, (3, oO, 01, (2, lo, 01, (1,4", 01, 
+(0, 6", 0). 
+
+Base de dimension 24 = base 10 + (4, 0°, O), . . . (0, So, O), 
+
+(5, oO, 0) . . . (0, lo0, O), (0, oO, 2), ( I , oO, 2), (0, 2", 2). 
+
+Base de dimension 34 = base 24 + (6, 0°, O),. . . (0, 12", O), 
+
+(2, oO, 2), . . . (0, 4", 2). 
+
+Base de dimension 52 = base 34 + (7, 0°, O), . . . (0, 14", O), 
+
+(3, 0°, 2), . . . (0, 6", 2), (4, 0°, 2), . . . (0, So, 2), (0, 0°, 4). 
+
+Base de dimension 69 = Base 52 + (8, 0°, O),. . .(0, 16", 
+
+O), (5, oO, 2), . . . (0, lo0, 2), (1, 0". 4). (0, 2", 4). 
+
+Base de dinlension 90 = Base 69 + (9, 0°, O), . . . 
+
+(0, 18", 0), (6, 0°, 2), . . . (0, 12", 2), (2, 0°, 4), . . . (0, 4", 4), 
+
+(0, 0°, 6). 
+
+Annexe I1 
+
+Coefficients b, et bl du dkveloppement AX + AZ -2AY = 
+
+b3 Q3 + bl QI 
+
+b3 
+LJ I 
+b3 
+b I 
+
+"C1%O1 0,677004 0,O 'JC16002 0,64087 1 
+0,o 
+I2Cl7O2 0,671550 0,O 1 2 ~1 6 0 1 7 0 
+0,674270 -0.003834 
+"C1'02 
+0,666667 0,O " ~' ~0 ~~0 
+0,669105 -0,0033 14 
+
+1 3 ~1 % 2 
+
+0,657794 0,O '"1%''0 0,67181 6 -0,007 149 
+
+13 17 
+
+C 0 2 0,652180 0,O 1 3 ~1 6 0 1 7 0 
+0,654979 -0,004160 
+13 C I K O2 0,647149 0,O '3C1601n0 0,652446 -0,007744 
+
+Can. J. Chem. Downloaded from www.nrcresearchpress.com by 87.160.185.190 on 03/27/14 
+
+For personal use only. 
+
+
+
+	
+

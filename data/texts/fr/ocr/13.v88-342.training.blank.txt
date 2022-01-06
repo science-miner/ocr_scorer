@@ -1,0 +1,548 @@
+
+	
+
+		
+
+	
+
+	
+
+DCrivCs hydrosilylCs des complexes (q-arene) tricarbonylchrome, de type 
+(q C6R6)(CO)2Cr(H)SiHPh2; liaison a 2 Clectrons/3 centres, Cr-H-Si 
+
+ELISABETH MATARASSO-TCHIROUKHINE ET G ~R A R D 
+JAOUEN 
+
+~c o l e 
+nationale supirieure de chimie de Paris, Unit6 AssociPe 403, 11, rue Pierre ct Marie Curie, 
+75231 Paris CEDEX 05, France 
+Requ le 26 octobre 1987 
+
+ELISABETH MATARASSO-TCHIROUKHINE et GBRARD JAOUEN. Can. J. Chem. 66, 2157 (1988). 
+
+L'action photochimique, 2 basse tempkrature, du diphCnylsilane sur les complexes (q arkne) tricarbonylchrome conduit a des 
+
+dCrivCs hydrosilylCs instables, de type (q C6R6)(CO)2Cr(H)SiHPh2, qui posskdent une liaison a 2 Clectrons/3 centres, 
+
+Cr-H-Si. 
+
+Le degrC de cette liaison est supCrieur a celui de la liaison Mn-H-Si 
+
+dans les complexes isoClectroniques du 
+mangankse, (q C5R5)L2Mn(H)SiHPh2, d'une part, et a celui de la l~aison Cr-H-Si 
+dans le complexe permethylC, (q 
+C&amp;e6)(C0)2Cr(H)SiHPh2, d'autre part. La variation de I~J(c~-H-s~)I est discutCe en fonction de la densit6 Clectronique sur 
+le mCtal. 
+
+ELISABETH MATARASSO-TCHIROUKHINE and GBRARD JAOUEN. Can. J. Chem. 66, 2 157 (1 988). 
+
+Diphenylsilane reacts photochemically, at low temperature, on the q(tricarbony1chromium) arenes, to give unstables hy-
+drosilylcomplexes, (q-C6R6)(C0)2Cr(H)SiHPh2 with a three-center two-electron bond, Cr-H-Si; 
+according to 29Si NMR 
+data, the degree of this bond is higher than both the degree of the Mn-H-Si 
+bond in isoelectronic manganese compounds, 
+(q-C5R5)L2Mn(H)SiHPh2, and the degree of the three-center Cr-H-Si 
+bond in the permethylated complex, (q-
+C&amp;e6)(CO)2Cr(H)SiHPh2, of chromium. The variation of l2J(Si--Cr-H)I depending on the electron density of the metal is 
+discussed. 
+
+Introduction 
+L'addition oxydante des silanes sur les mCtaux de transition 
+
+I se rattache a un probleme qui a suscitt beaucoup d1intCr2t au 
+
+1 cours des deux dernikres dCcennies (1,2); en effet, elle conduit A 
+
+I 
+
+des complexes qui jouent un r6le d'intermtdiaires important 
+
+/ dans les hydrosilylations catalystes par ces mttaux. 11 a Ct C 
+
+suggCrC que ces reactions proc2dent en faisant intervenir une 
+
+I 
+
+liaison a 2 Clectrons/3 centres (3-5) (cf. schCma 1). 
+
+I 
+
+Les complexes du manganese de type (q C5R;)L2Mn(H)-
+
+/ siR1R2R3, dCcrits dCja en 1970-197 1 (6, 7), ont CtC, depuis, 
+
+l'objet d'Ctudes exhaustives (8,9). En effet, la mise en Cvidence 
+dans ces complexes d'une liaison a 2 Clectrons/3 centres 
+Mn-H-Si, 
+
+comparable a la liaison agostique C-H-M 
+
+(lo), permet de les considCrer comme des Ctats &lt;&lt;gelCs n des 
+coordonnCes de la rkaction d'addition oxydante des silanes (1 1). 
+Afin dlCtudier l'influence sur le degre' 2e/3c de la liaison 
+M-H-Si 
+de la nature du rne'tal, d'une part, et de la densite' 
+e'lectronique sur le rne'tal, d'autre part, nous avons Ctendu 
+1'Ctude de l'addition oxydante du diphknylsilane aux complexes 
+(q arbne) tricarbonylchrome. 
+
+Resultats et discussion 
+Les complexes (q arkne) tricarbonylchrome l(a-d) rCagis-
+
+sent sur le diphCnylsilane, par irradiation UV t i basse temptra-
+
+ture et sous atmosphkre inerte, pour conduire aux complexes 
+2(a-d) (cf. schema 2), caractCrisCs par spectroscopie RMN des 
+'H, 2 9 ~i et 13c. 
+Les complexes 2(a-d) prbentent, d'une part, une trPs 
+grande instabilite' a l'air et, d'autre part, une trPs grande 
+instabilite' therrnique. Sous atmosphere inerte, a temptrature 
+ambiante, 2a est dCcomposC en quelques jours, 2(c et d) instan-
+tanCment et ils le sont rapidement au-dessus de -20°C. 
+Les complexes 2(a,b) ont Ct C isolCs cristallisCs; seul2a a pu 
+2tre purifiC par recristallisation (2b subit une dCcomposition). 
+
+1. Pendant la demfre phase de ce travail est paru un article de U. 
+Schubert et al. (12), concemant la structure et les propriCtCs du 
+complexe (q Me6C6)(C0)2Cr(H)SiHPh2. 
+
+H 
+
+,H\, 
+
+8 ' 
+
+k 
+
+L n M + I L Ln M------SiR3 = L n M /H 
+
+SiR3 
+'siR3 
+
+(a) 
+(b) 
+(c) 
+
+l a , 2a R1 = R2 = CH3; R' = H 
+l b , 26 R1 = CH2N(CH3)2; R' = R' = H 
+l c , 2c R' = COOCH3; R2 = R3 = H 
+I d , 2d R1 = R~ = COOCH3; R2 = H 
+
+Les complexes 2(c,d) tres instables n'ont pu &amp;tre cristallisCs; les 
+rksultats obtenus, par specroscopie RMN des produits bruts, ont 
+Ct C confirmCs par leur action sur PPh3 qui conduit dans de 
+bonnes conditions, par Climination riductrice du silane, aux 
+complexes (q R ' R ~c ~H ~) ( c o ) ~c ~P P ~~ 
+(schtma 3). 
+Les complexes 2(a-d) (cf. tableau 1) posskdent un proton lie 
+
+au chrome (6l H --12 ppm) et un proton liC au silicium (6' H 
+-6-7 ppm) dont le couplage 12J(Si-~r-H)I ClevC, de 
+
+l'ordre de 80 Hz, tCmoigne d'une liaison a 2 Clectrons/3 
+centres, Cr-H-Si. 
+En effet, on sait (8) qu'une valeur ClevCe 
+de 12J(Si-M-H)I, 
+comme 12J(C-M-H)I 
+pour la liaison 
+agostique M-H-C 
+(lo), est caractkristique d'une liaison a 2 
+Clectrons/3 centres, M-H-Si, 
+et sert de sonde pour la 
+dktermination du degrC d'inttraction du silicium et de l'hydro-
+gene: sa valeur absolue est en fonction croissante de cette 
+
+Pnnlcd In Canada / lrnpnrne au Canada 
+
+Can. J. Chem. Downloaded from www.nrcresearchpress.com by 87.160.185.190 on 03/27/14 
+
+For personal use only. 
+
+
+CAN. I. CHEM. VOL. 66. 1988 
+
+inttraction, c.a.d. du degrC 2e/3c de la liaison a 2 tlectrons/3 
+
+centres M-H-Si. 
+Le degre' 2e/3c de la liaison Cr-H-Si 
+est supe'rieur a 
+
+celui de la liaisotz Mn-H-Si 
+dans les complexes du manga-
+n b e , de type (q C5R;)(CO)LMn(H)(SiR3) (8), pour lesquels 
+'J(M~-~i-H) 
+
+5 69 Hz; 'J(s~-~r-H) 
+
+et 'J(Si-H) 
+sont 
+fonction de'croissantes de la densite' e'lectronique sur le me'tal 
+(cf. tableaux 1 et 2).' 
+L'accroissement de l'~(Si-H)I a pour origine l'accroisse-
+ment de 1'Clectro-nCgativitt du substituant au silicium ( q 
+C6R6)(C0)2Cr (13). 
+L'accroissement de 12J(Si-Cr-H)I 
+peut avoir pour origine 
+deux facteurs : (a) l'accroissement de 1'ClectronCgativitt du 
+substituant (q C6R6)(C0)2Cr, au silicium, et (b) l'accroisse-
+ment du degrt de la liaison a 2 tlectrons/3 centres, Cr-H-Si. 
+Si l'on compare (cf. tableau 1) la variation, A12JI du couplage 
+
+'J(Si-Cr-H) 
+
+a la variation, AI ' J I , du couplage '~(si-H), il 
+
+apparait que : 
+1. Lorsqu'on passe du de'rive' perme'thyle' au complexe 2a 
+AI'JI (-13%) est importantpar rapport a Al'Jl (-2%), ce qui 
+permet de conclure a un accroissement du degre'de la liaison a 2 
+
+e'lectrons/3 centres, Cr-H-Si. 
+2. Lorsqu'on passe du complexe 2a au complexe 2d A12Jl 
+(-2%) est faiblepar rapport a Al 'JI (-10%) et peut avoir pour 
+
+origine aussi bien la diminution de la densitt Clectronique sur 
+le metal que l'accroissement du degrC de la liaison 2e/3c 
+Cr-H-Si. 
+Toutefois, l'instabilite' thermique des complexes 2(a-d), 
+tgalement fonction dtcroissante de la densitt tlectronique sur le 
+mttal, temoignerait en faveur de cette dernikre hypothese. En 
+effet, on sait que l'instabilitt therrnique de ce type de complexes 
+est liCe a la tendance du silane a une elimination reductrice 
+
+d'autant plus a i d e que le degrt d'intkraction Si-H est grand, 
+nous avons montrC par action de PPh3 que l'elimination 
+reductrice du silane dans le cas du complexe 2c, tres lente a 
+-40°C, devient aiste a O°C, la vitesse de la rtaction ttant dtter-
+
+minte par la dissociation du complexe (14, 15) (cf. schtma 3). 
+
+La tres faible variation de 'J (dans les limites des erreurs 
+
+expkrimentales) observte (cf. tableau 1) en dtpit d'une varia-
+tion consistante de la densitt electronique sur le mttal, comme 
+l'indique en spectroscopie IR la variation des frCquences 
+V(CO)~, (cf. tableau 2), suggere que la densit6 Clectronique sur 
+le mCtal n'a qu'une influence tres faible, sinon nulle, sur le 
+caractkre 2e/3c de la liaison Cr-H-Si 
+pour les complexes 
+2(a-d) de la sCrie ( q C6R6)(CO)2Cr(H)SiHPh2 Ctudite. 
+
+Le dCrivC perrnCthylt ( q C6Me6)(CO)2Cr(H)SiHPh2 (12) se 
+
+2. Une conclusion identique a CtC Cmise (8) dans le cas des dCrivCs 
+du mangadse, de type (q C5R;)(CO)LMnHSiR3, L = CO, PR3, 
+P(OR)3, CNR. L'effet inverse observC dans le cas des composCs (q 
+C5MeS)(C0)2Mn(H)SiHPh2, ' J = 65,4 Hz, et (q C5H4Me)(C0)'-
+Mn(H)SiHPh2, ' J = 63,5 Hz, a CtC attribuC a un effet stCrique du noyau 
+permethyl6 (8). 
+
+(q R'R2C6~4)(C0)2Cr + H2SiPh2 
+
+PPh3, THF, P C 
+
+1 
+
+rapide 
+
+situe a part dans la sCrie, avec un degrC 2e/3c de la liaison 
+
+Cr-H-Si, 
+I~J(s~-c~-H)I = 70,8 Hz (12), relativement 
+faible par rapport 
+ceux des autres complexes de la serie 
+
+12J(Si-~r-H)I -80 Hz, qui representeraient des Ctats geles 
+
+des coordonnCes de l'addition oxydante du silane moins 
+avancts, en d'autres terrnes, des Ctats plus proche de (b) (cf. 
+schtma 1). 
+Le diplacement chimique 6 2 9 ~i Cvolue vers les champs forts, 
+lorsque la densit6 Clectronique sur le mttal dCcroit. Un rtsultat 
+analogue a CtC observe pour les complexes isoelectroniques du 
+manganese ( q C5R5)(CO)LMn(H)SiHPh2 (8). 
+L'addition oxydante du diphknylsilane aux complexes (q 
+arene) tricarbonylchrome l(c,d), s'accompagne, dans les con-
+ditions exptrimentales mises en jeu, d'une rCaction secondaire 
+non nkgligeable, qui conduit a des composCs renfermant llentitC 
+
+(SiH), mis en evidence dans le milieu rkactionnel, en particu-
+lier, par la RMN du 29Si. 
+Une premikre approche conduit 5 penser que ce sont des 
+produits d'hydrosilylation, dont les complexes 2(c,d) seraient 
+les espkces prkcurseurs. Leur Ctude est en cours et fera l'objet 
+d'une publication ultCrieure. 
+
+Partie experimentale 
+
+Toutes les manipulations concernant les produits sensibles a I'air 
+ont kt6 conduites en atmosphere inerte (argon) en utilisant la 
+technique de Schlenk. Tous les solvants ont CtC distillCs sur benzo-
+phinone Na avant usage. H2SiPh2 est prCparC au laboratoire selon la rCf. 
+16; il est distill6 et conservC sous argon. C6HS(COOCH3), dCbarrasst 
+de I'acide qu'il pouvait contenir, a Ct C distill6 sous argon sur hydrure de 
+calcium et gardC sous argon. C6H4(COOCH3)2 et Cr(C0)6, commer-
+ciaux, ont Ct C dCgazCs sous pression rCduite (environ 0,l Torr; 1 Ton = 
+133,3 Pa) et gardCs sous argon. 
+
+Complexes (v-arLne) tricarbonyle chrome 
+Les complexes l a , b ont Ct C fournis par Monsieur G. Jaouen; les 
+complexes lc,d ont Ct6 prCparC au laboratoire par action de Cr(C0)6 
+sur I'arkne correspondant avec une modification des techniques 
+dCcrites (17, 18).' 
+CH3COOC6H5Cr(CO)3 I c : Une solution de C6HS(COOCH3) (6 
+
+mL) et de Cr(C0)6 (2 g, 42) dans de l'oxyde de butyle (75 mL) a 10% 
+
+de THF est portCe a reflux a l'aide d'un bain d'huile 3 130°C pendant 62 
+h. Le solvant est CliminC au rotavapor. Le solide residue1 est dissout 
+dans du benzene et chromatographi6 sur colonne de silice, Cluant 
+hexane/benzene/Cther (5: 1: 1); trois fractions sont isolCes : I (tCtes) 
+(produits secondaires et C6H5(COOCH3) n'ayant pas rCagit; I1 (lc, 
+produits secondaires et traces de C6H5(COOCH3); 111 (orangke), qui 
+conduit au C6H5(COOCH3)Cr(CO)3 (lc) par Climination du solvant au 
+
+3. Les reactions sont dClicates a conduire du fait de rCactions 
+secondaires et, a notre connaissance, non signalCes dans la littkrature, 
+conduisant, en particulier a C6H6Cr(CO)3, l'c, et CH3C6HSCr(CO)3, 
+l"c. Les vitesses de la complexation, ainsi que de la formation des 
+complexes secondaires (qui atteint rapidement loo%), sont fonctions 
+croissantes de la temgrature de la reaction; il existe un rapport 
+optimum t°C)/temps de la rCaction. 
+Can. J. Chem. Downloaded from www.nrcresearchpress.com by 87.160.185.190 on 03/27/14 
+
+For personal use only. 
+
+
+MATARASSO-TCHIROUKHINE ET JAOUEN 
+
+TABLEAU 1. Donntes spectroscopiques RMN" des complexes arkne Cr(CO)2(H)SiHPh2, 2(a-6) 
+
+Arkne 
+6 (Cr H ) ~ 6 ( S ~-H ) ~ 6 (I3CO) 8 2 9 ~i c 'J(Si--H)/HZ 
+2 ~( S i -~r -~) / ~z 
+
+"En ppm, rapportCes au TMS, t = -40°C; solvant: toluene-d,, sauf indication contraire. 
+bDoublet. 
+'Quadruplet. 
+d3~(H-Cr-Si-H) 
+= 5,6 Hz. 
+'THF-d8. 
+
+TABLEAU 2. DonnCes spectroscopiques IR des composes arkne Cr(C0)3, l(a-d), et 
+arkne Cr(CO)2(H)SiHPh2, 2(a-d) 
+
+Arkne Cr(C0)3 
+Arkne Cr(CO)2(H)SiHPh2 
+
+A r h e 
+V ( C O ) ~~/ C ~-' " 
+~( C 0 ) ~, / c m -' 
+v(Si-H)/cm-' 
+
+Me6C6 (1 2, 
+1922 (vs), 1 8 6 8 ( ~~) 
+2016 (w) 
++-Me2C6H4 (2a) 
+1975 (s), 19 10 (s) 
+1943 (s), 1885(s)" 
+2035 (w) 
+(CH3)2NCH2C6H5 (2 b) 
+1980 (s), 19 10 (s) 
+1945 (s), 1 892b 
+1930,1917,1867,1853' 
+2037 (w) 
+
+(COOCH3)C6H5 (2c) 
+1992 (s), 1931 (s) 
+1958 (s), 1907 ( s ) ~ 
+(COOCH3)2Ca4 ( 2 4 
+1994 (s), 193 1 (s) 
+1965 (s), 19 15 ( s ) ~ 
+
+"Hexane. 
+b3-Me-pentane. 
+'Fluorolub, Nujol. 
+
+, 
+
+TABLEAU 3. Conditions experimentales de la reaction photochimique d'hydrosilylation (cf. schema 2) 
+
+DurCe de 
+T du liquide I'irradiation td'klimination 
+Complexes l(a-d) 
+H2SiPh2 
+Solvant 
+refrigerant ("C) 
+(h) 
+du solvent ("C) 
+Complexes 2(a-4 
+
+1 a 
+1,4 mL 
+3-Mepentane, 50 mL 
+-15 
+3 
+0 
+2a 
+447 mg = 1,85 mmol = 7,5 mmol Tolukne, 10 mL 
+Cristaux jaunes 
+purifikes par recristallisationa 
+
+l b 
+1,5 mL 
+3-Mepentane, 50mL 
+-40 
+2b 
+530 mg = 1,96 mmol = 8 mmol Tolukne, 10 mL 
+-26 
+4-5 
+
+la fin a 
+
+Cristaux jaunes 
+-28 
+non recristallists (decomposition) 
+1 c 
+1 m L 
+2c 
+220 mg = 0,75 mmol = 5,4 mmol Toluene, 30 mL 
+-36 
+4 
+-20 
+Non isole du melange 
+reactionnel brut rouge-brun 
+
+I d 
+1 mL 
+2d 
+318 mg = 0,96 mmol = 5,4 mmol Toluene, 35 mL 
+-35 ti -30 
+2,s 
+-20 
+Non isole du melange 
+reactionnel brut 
+
+"Anal. calc. : C 65,12; H 5,54; Cr 13,06; Si 7,0370; tr. : C 66,33; H 5.50; Cr 12,ll; Si 6,909'0. 
+
+rotavapor; Rdt = 1,52 g soit 50%; RMN 'H (tolukne-d8) 6 ppm/TMS4 : 
+(CH3C00)2C,&amp;Cr(CO)3 I d : MCme procMC que pour l c . I d : RMN 
+3,32(s)(CH3); 4,23(t), 4,52(t), 5,52(d). Dans les fractions de tCte 
+'H (benzkne-d6) 6 ppm/TMS : 3,31(s) (CH3); 5.49(s) aromatiques. 
+on a identifie par spectroscopie IR et RMN 'H les complexes (a) 
+Ca6Cr(C0)3 l r c (majoritaire); IR (hexanel v(CO)cr cm-' : 1985; 
+Complexes (7 arkne) Cr(CO)2(H)SiHPhz, 2 (a-d) 
+1917; RMN 'H (t01ukne-d8) 6 P P ~/ T M S : 4928(s) aromatiques; et 
+L , tableau 3 rassemble les conditions exgrimentales de la reaction 
+(b) C H ~C ~~C T ( C O ) ~ 
+1 " ~; IR (hexane) v(CO)cr cm-' : 1975, 1909; 
+photochimique. De f a p n gCnCrale, on hadie par une lampe Hanovia-
+RMN 'H (tolukne-ds) 6 p p m / ~~S : 1,54(s) (CH3); 4,21-4,55 
+
+450W, refroidie par une gaine a ciculation d'eau en quartz et placee a 
+
+(aromatiques). 
+5-10 cm du melange reactionnel, une solution du complexe arkne 
+tricarbonyle chrome et de diphenyle silane en excks, contenue dans un 
+4. s : singulet; d : doublet; t triplet. 
+
+reacteur en Pyrex a double paroi, qui permet de refroidir le melange 
+
+Can. J. Chem. Downloaded from www.nrcresearchpress.com by 87.160.185.190 on 03/27/14 
+
+For personal use only. 
+
+
+2160 
+
+CAN. J. CHEM. VOL. 66. 1988 
+
+rCactionnel par la circulation d'un liquide approprik maintenu basse 
+
+Remerciements 
+
+.. . 
+
+temperature. Durant l'irradiation on fait passer un faible courant 
+d'argon dans le mClange rCactionnel agitC. La rCaction est suivie par 
+spectroscopie infra-rouge, dans la rigion 2200-1700 cm-(cf. tableau 
+2). La reaction terminCe, le traitement du mClange rCactionne1 varie 
+1Cgkrement suivant le complexe 2(a-d) obtenu. 
+Dans le cas du composC 2a, qui est obtenu cristallisC dans le melange 
+rCactionnel, le solvant est siphon6 et le solide rksiduel lave plusieurs 
+fois au 3-Me-pentane. I1 est recristallisC i -40°C par addition de 
+3-Me-pentane, jusqu'i un lCger trouble, i sa solution dans le minimum 
+de toluene. Dans le cas du complexe 2b le mClange rkactionnel est 
+rCduit 1-2 mL en Climinant les solvants sous pression riduite, 20 rnL 
+de 3-Me-pentane sont ajoutCs A la solution (formation d'un prCcipitC 
+flaconneux jaune) qui est maintenue i -40°C pendant 48 h. Un produit 
+cristallisC, jaune-orangC, est ainsi obtenu; il est lavC plusieurs fois avec 
+du 3-Me-pentane; les traces de solvant sont CliminCes sous pression 
+reduite -40°C. Le produit brut ne se prCte pas i la recristallisation 
+selon la technique mise en jeu pour le composC 2a (dCcomposition). 
+Dans le cas des complexes 2(c,d), 1'Climination du solvant A basse 
+temperature conduit a un produit rouge-bmn cristallisC pdteux.5 Les 
+tentatives de recristallisation ayant CchouC (dCcomposition), les Ctudes 
+spectroscopiques ont Ct C rCalisCes sur les produits bmts. 
+Les spectres IR ont Ct C e~egistrCs soit sur appareil Bomem-
+Michelson 100, soit sur appareil Bmker FT-IR 45. 
+Les spectres RMN ont Ct C e~egistrCs sur appareil Bmker AM 250; 
+les dCplacements chimique de 29Si ont Ct C dCterminCs par rapport au 
+diphCnylsilane, pris comme rCfCrence interne, et reconvertis par 
+rapport au TMS en prenant 6 29Si diphenylsilane/TMS = -33,254 
+ppm, obtenu sur le mCme appareil avec le TMS comme rCfCrence 
+interne. 
+
+I 
+
+5. Dans le cas du complexe 2d, en operant cornme dans le cas du 
+complexe 2b, une seule et unique fois on a pu isoler des cristaux rouge 
+vif se dCcomposant instantankment par ClCvation de t ou au contact de 
+l'air. I1 est vraisemblable que des traces d'impuretCs accilkrent 
+considCrablement la dCcomposition. 
+
+Nous remercions Madame HClkne L e Pesant et Monsieur 
+Yvon Besace pour leur assistance technique en spectroscopie 
+IR-FT et RMN. 
+
+1. E. LUKEVICS, Z. V. BELYAKOVA, M. G. POMERANTSEVA et M. G. 
+J. VORONKOV. J. Organomet. Chem. Libr. 5, 1 (1975), et 
+rCfCrences citCes. 
+2. J. L. SPEIER. Adv. Organomet. Chem. 17, 407 (1979). 
+3. A. J. CHALK et J. F. HARROD. J. Am. Chem. Soc. 87, 16 (1965). 
+4. J. F. HARROD, C. A. SMITH et K H ~M AYE THAN. J. Am. Chem. 
+SOC. 94, 8321 (1972). 
+5. C. EABORN, D. J. TUNE et D. R. M. WALTON. J. Chem. Soc. 
+Dalton Trans. 2255 (1973). 
+6. W. JETZ et W. A. G. GRAHAM. Inorg. Chern. 1 0 , 4 (1971). 
+7. W. L. HUTCHEON. Ph.D. thesis, University of Alberta, Edmon-
+ton. 1971. 
+8. U. SCHUBERT, G. SCHULZ, J. MULLER, K. ACKERMANN, B. 
+WORLE, et R. F. D. STANSFIELD. J. Organornet. Chem. 306,303 
+(1986), et rCfCrences citCes. 
+9. E. COLOMER, R. J. P. CORRIU, C. MARZIN et A. VIOUX. Inorg. 
+Chem. 21, 368 (1982), et rCfCrences cities. 
+10. M. BROOKHART et M. L. H. GREEN. J. Organomet. Chem. 250, 
+395 (1983). 
+11. H. D. KAESZ. Adv. Chem. Ser. 167, 215 (1978). 
+12. U. SCHUBERT, J. MULLER et H. G. ALT. Organometallics, 6,469 
+(1987). 
+13. CF. H. MARSMANN. NMR: Basic Princ. Prog. 17, 120 (1981). 
+14. G. KRAFT, C. KALBAS et U. SCHUBERT. J. Organomet. Chem. 
+289, 247 (1985). 
+15. A. J. HART DAVIS et W. A. G. GRAHAM. J. Am. Chem. Soc. 93, 
+4388 (1971). 
+16. R. A. BENKESER, H. LANDESMAN et D. J. FOSTER. J. Am. Chem. 
+SOC. 74, 648 (1952). 
+17. C. A. L. MAHAFFY et P. L. PAUSON. Inorg. Snyth. 19, 154 
+(1979). 
+18. S. TOP et G. JAOUEN. J. Organomet. Chem. 182, 154 (1979). 
+
+Can. J. Chem. Downloaded from www.nrcresearchpress.com by 87.160.185.190 on 03/27/14 
+
+For personal use only. 
+
+
+
+	
+

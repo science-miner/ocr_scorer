@@ -1,0 +1,807 @@
+
+	
+
+		
+
+	
+
+	
+
+Sur une nouvelle methode de synthese de 6-lactones cyclopenteniques 
+
+JEAN CLAUDE CAILLE, MICHEL FARNIER ET ROGER GUILARD' 
+
+Laboratoire de synthese et d'klectrosyntht?se organomktallique (UA 33), Facultk des sciences n Gabriel n, 21 100 Dijon, France 
+
+A N D R ~ 
+AUBRY ET CLAUDE LECOMTE 
+
+Laboratoire de minkralogie et cristallographie ( ~~u i ~e 
+de recherche associke 162), Facultk des sciences, Centre de 2' cycle, B . P . No 239, 
+54506 Vandoeuvre-les-Nancy, France 
+
+Requ le 4 janvier 1985~ 
+
+JEAN CLAUDE CAILLE, MICHEL FARNIER, ROGER GUILARD, ANDRB AUBRY et CLAUDE LECOMTE. Can. J. Chem. 64, 831 
+(1986). 
+
+La synthese de deux &amp;lactones cyclopenteniques, l'hexahydro-1,3,4,4a,5,6 cyclopenta[c]pyrannone-1 et son analogue 
+
+substituC en position 4a par un cyclopenttnyle, est decrite au dtpart de la cyclopentanone et de la cyclopentylidkne-2 
+cyclopentanone. La rCactivitC singulikre des tosylhydrazones permet la transformation de ces cyclopentanones en cyclopentknes 
+fonctionnalisCs en vue de leur cyclisation ultkrieure en 6-lactone. Les conditions de cyclisation dependent de la nature de la 
+
+cyclopentanone. La structure des deux 6-lactones synthetisees est etablie par analyse des spectres rmn 'H, 13C et de masse, et 
+
+dans un cas, par analyse radiocristallographique. 
+
+JEAN CLAUDE CAILLE, MICHEL FARNIER, ROGER GUILARD, ANDRB AUBRY, and CLAUDE LECOMTE. Can. J. Chem. 64,831 
+(1 986). 
+
+Synthesis of two cyclopentenic 6-lactones, 1,3,4,4a,5,6-hexahydrocyclopenta[c]pyran-1-one and its analogue possessing a 
+cyclopentenyl group bonded to the carbon atom 4a is described, starting from the cyclopentanone or cyclopentylidene 
+cyclopentanone. The remarkable reactivity of the tosylhydrazones allows transformation of these compounds into substituted 
+cyclopentenes, which lead to 6-lactones by cyclization. The conditions of cyclization depend on the nature of the 
+
+cyclopentanone. The structure of the two 6-lactones is established by 'H and I3C nIIx data, mass spectrometry, and, in one case, 
+
+by X-ray analysis. 
+
+Introduction 
+Dans le mtmoire prectdent (I), nous avons montrt que la 
+
+rkaction de Shapiro (2) appliqute a des arknesulfonylhydra-
+
+zones de cyclopentanones a,p-insaturtes permet d'introduire 
+rCgiosptcifiquement un groupe alkyle sur l'atome de carbone 
+substitut par un reste insaturt et situt en a de la fonction 
+
+hydrazone. Le produit d'alkylation soumis a l'action d'un 
+
+alkyllithien conduit A un dianion qui se dCcompose a tempCra-
+ture ambiante en un anion vinylique trks rCactif vis-A-vis 
+d'tlectrophiles. En utilisant cette rCactivitt particulikre et au 
+dtpart d'hydrazones non cycliques, Adlington et Barrett (3) ont 
+rkcemment mis au point une synthkse d'a-mtthylkne y-
+butyrolactones. Nous nous sommes proposCs d'utiliser des 
+hydrazones de cyclopentanones pour acctder a des 6-lactones 
+cyclopentCniques. En effet, ce motif 6-lactonique est frtquem-
+ment retrouvC dans un grand nombre de substances naturelles 
+tels les monoterpknes bicycliques (4). Nous dtcrivons dans ce 
+mCmoire la synthkse de deux 6-lactones cyclopentCniques 1 et 
+2, une partie de ce travail ayant dtja fait l'objet d'une note 
+prtliminaire (5). 
+
+n 
+
+o 
+
+Resultats et discussion 
+Les premikres ttapes de la synthkse des 6-lactones cyclopen-
+tCniques 1 et 2, communes aces deux dtrivts, sont schtmatistes 
+en figure 1. 
+
+1. Auteur i qui adresser toute correspondance. 
+2. Revision r e p le 8 novembre 1985. 
+
+Les tosylhydrazones 3 et 4, prCparCes selon des modalitCs 
+classiques A partir des cyclopentanones correspondantes, sont 
+alkylCes aprks traitement par le n-butyllithium dans le mClange 
+THF (tttrahydrofuranne) -hexane a -78"C, par l'iodo-1 
+
+mCthoxy-2 tthane. Les dtrivts alkylts 5 et 6 sont obtenus avec 
+
+des rendements respectifs de 64 et 45%. 
+
+Les hydrazones 5 et 6 sont A nouveau traittes -78°C par une 
+
+solution de n-butyllithium dans le mtlange TMEDA (tttra-
+mCthylCthylknediamine) -hexane. Les anions vinyliques gtntks 
+aprks retour du milieu rkactionnel temperature ambiante sont 
+soumis A un courant de COz; les acides obtenus aprks hydrolyse 
+acide sont directement transformCs en chlorures 7 et 8 corres-
+pondants par traitement au chlorure d'oxalyle (rendements de 
+l'ordre de 50%). 
+Les divers essais de lactonisation des chlorures 7 et 8 sont 
+respectivement reprCsentCs sur les figures 2 et 3. A partir du 
+chlorure d'acide 7, les esters mtthylique 9a, Cthylique 9b et 
+tertiobutylique 9c sont prCparCs classiquement avec des rende-
+ments de l'ordre de 90%. Le trichlorure et le tribromure de bore 
+ont deja Ct C utilisCs avec succks (6,7) pour lactoniser des esters 
+porteurs d'un groupe mCthoxy. Aussi, nous avons tout d'abord 
+tentt une lactonisation directe de l'ester 9a en le traitant par le 
+tribromure de bore, mais dans notre cas, la proportion de lactone 
+1 recherchte n'a jamais atteint 5%. Par ailleurs, une tentative de 
+cyclisation de l'acide 10 obtenu par saponification de l'ester 9b 
+s'est Cgalement soldte par un tchec. Nous avons alors chercht a 
+utiliser avec profit les rCactifs prtconids par Olah et al. (8, 9) 
+pour rCgCnCrer des fonctions acide et alcool A partir d'ester ou 
+d'tther. Au dCpart de l'ester Cthylique 96 et par action 2 
+tempCrature ambiante de l'iodure de dichloromtthylsilyle, 
+l'alcool 11 uniquement est formt. Par contre, l'utilisation de 
+l'ester tertiobutylique 9c permet d'obtenir la lactone 1 selon 
+deux voies : en optrant au reflux de l'adtonitrile en prksence 
+d'iodure de dichloromtthylsilyle, la lactonisation s'effectue 
+Can. J. Chem. Downloaded from www.nrcresearchpress.com by 87.160.185.190 on 03/27/14 
+
+For personal use only. 
+
+
+CAN. J. CHEM. VOL. 64, 1986 
+
+tosyl 
+tosyl 
+
+I 
+
+I 
+
+N , 
+
+N 
+
+N\ N 
+
+(1)n-BuLi, TMEDA, -789: 
+
+COCl 
+
+(1) n-BuLi, THF, -78' C 
+
+kocH3 12) 208C 
+
+( 2 ) I C H 2 C H 2 0 C H 3 
+
+(3) C02 , H3O ' 
+
+(4) ( ~0 ~1 ) ~ 
+
+, CgHs 
+
+3 R = &lt; H 
+
+5 R ' = H 
+7 R ' = H 
+
+H 
+
+KOH, OMSO 
+
+n 
+
+I 
+
+C6H6 t APTS 
+
+n 
+
+directement mais seulement avec un rendement de 44%; il est 
+prCfCrable d'employer l'iodure de trimtthylsilyle, car celui-ci 
+permet, via l'iodo-acide 12, d'isoler la m&amp;me lactone avec un 
+rendement de 63%. 
+La m&amp;me stratCgie pouvait B priori Ctre ttendue B la synthese 
+de la lactone 2. Lors de l'estkrification du chlomre d'acide 8 par 
+l'Cthano1, outre l'ester 13 attendu, il y a formation de chloro-
+ester 14 dans une proportion d'environ 17% (fig. 3). Tous nos 
+
+essais de lactonisation de l'ester 13 par l'iodure de dichloro-
+mCthylsilyle se sont soldCs par un Cchec. Pour accCder a la 
+lactone 2 recherchte, nous avons utilisC le chloro-ester 14 qui 
+peut par ailleurs &amp;tre obtenu avec un rendement de 96% en 
+chauffant le chlomre d'acide 8 au reflux du benzkne. Le derive 
+14 trait6 par la potasse dans le DMSO (dirnCthy1-sulfoxyde) 
+conduit B l'hydroxy-acide 15 avec un rendernent de 80%. La 
+cyclisation de ce dtrivt est aistrnent rCalisCe par chauffage au 
+reflux du benzkne en prtsence d'acide p-toldnesulfonique et la 
+lactone 2 est isolCe avec un rendement de 80%. 
+Le chloro-ester 14 peut Ctre Cgalement utilisC pour accCder au 
+6-lactame 17 correspondant (fig. 4), en le transformant en 
+phtalimide 16 cyclist en prtsence d'hydrate d'hydrazine. 
+
+~tablissement des structures 
+La structure des divers produits synthCtists est Ctablie par 
+analyse des spectres de rmn (rCsonance magnCtique nuclCaire) 
+protonique dont les donnCes figurent dans la partie expCrimen-
+tale. Dans le cas des lactones 1 et 2, des informations 
+stmcturales complkmentaires sont apportCes par la spectro-
+metric de masse et par la rmn I3C et, pour l'une des deux 
+lactones, 2, une analyse radiocristallographique a Ct C effectute. 
+Cette Ctude radiocristallographique montre la presence d'un 
+cycle 6-lactonique accolC B un cyclopentkne et porteur en 4a 
+d'un reste cyclopentCnyle, comme represent6 en figure 5. 
+
+. 
+. 
+
+L'angle form6 par les -plans moyens des cycles lactonique 
+(C(4a)-C(7a jC(1)-O(2)-C(3)-C(4)) 
+et cyclopentCnyle 
+
+(C(4a)-C(5)-C(6)-C(7)-C(7a)) 
+
+est Cgal B 17,9O et 
+l'angle form6 par le plan moyen du reste cyclopentCnyle avec le 
+plan rnoyen du bicycle lactonique est de 9 1,2". Les valeurs des 
+longueurs et angles de liaisons (tableau 1) confirment la 
+Can. J. Chem. Downloaded from www.nrcresearchpress.com by 87.160.185.190 on 03/27/14 
+
+For personal use only. 
+
+
+CAILLE ET AL.: 2 
+
+=OZ"e 
+Phtalimide d e K 
+
+C%Me 0 
+
+$N-NH2, 
+H 2 0 
+
+DMF, Nal, A 
+
+MeOH, 20°C 
+
+0 
+
+FIG. 5. Vue ORTEP de la structure cristalline de 2. 
+
+TABLEAU 1. Longueurs (A) et angles de liaisons (") 
+
+Liaison 
+Longueur 
+Liaison 
+Longueur 
+
+Liaisons 
+Angle 
+Liaisons 
+Angle 
+
+pr6ence de deux liaisons doubles C(7)-C(7a) et C(1')-
+C(2'). Enfin l'examen des distances intennolCculaires montre 
+que la cohCsion du cristal est assurCe par des forces de type van 
+der Waals. 
+
+Les donnCes spectrales sont en accord avec cet arrangement 
+structural : le spectre rmn 13C du composC 2 montre effective-
+ment la prCsence d'un carbone quaternaire C(4a) ? I 51 ppm; en 
+rmn protonique, pour cette lactone, seuls les protons CthylC-
+niques et ceux du mCthylkne en position 3 peuvent Ctre 
+individualisb. Par contre, en rmn protonique 400 MHz et 
+l'aide d'expCriences de corrklation homonuclCaire (COSY), 
+l'attribution de tous les signaux des protons est possible pour la 
+lactone 1 et ses prCcurseurs. 
+Enfin, la configuration des hydrazones 5 et 6 est diffkrente : 
+en effet, de f a ~o n classique (2b), l'hydrazone 5 est Z, alors que 
+nous avons montrC dans l'article prCcCdent (1) que la configura-
+tion E de l'hydrazone 4 est conservCe lors de sa transformation 
+en 6. 
+
+Conclusion 
+L'application de la rCaction de Shapiro des hydrazones de 
+cyclopentanones constitue une voie d'accks aisCe ? i 
+des cyclo-
+pentknes fonctionnalisCs. La lactonisation ultCrieure des cyclo-
+pentknes dCpend Ctroitement de la nature des fonctions portCes 
+par le cycle. Les rCactifs silylCs de Olah ont permis une lactoni-
+sation uniquement lorsque la 6-lactone cyclopentCnique recher-
+chCe n'est pas substituCe par un reste cyclopentCnyle. Dans ce 
+cas, la lactonisation a Ct C rCalisCe via la cyclisation classique 
+d'un acide alcool. 
+Les deux nouvelles 6-lactones que nous avons synthCtisCes 
+renferment le motif de base de divers produits naturels de la 
+famille des monoterpknes bicycliques. La fonctionnalisation 
+ultCrieure des 6-lactones obtenues devrait pennettre la prkpara-
+tion d'analogues structuraux d'iridoi'des. 
+
+Partie experimentale 
+
+Le dkroulement des reactions est suivi par ccm (chromatographie sur 
+
+Can. J. Chem. Downloaded from www.nrcresearchpress.com by 87.160.185.190 on 03/27/14 
+
+For personal use only. 
+
+
+834 
+
+CAN. J. CHEM. VOL. 64, 1986 
+
+couche mince) sur gel de silice (Kieselgel60F254, Merck 5535). Les 
+points de fusion mesurCs sur banc Kofler ne sont pas corrigCs. Les 
+spectres infrarouges (ir) sont enregistrks sur spectrophotomktre Perkin 
+Elmer 580 B. Les spectres de masse sont obtenus par impact Clectroni-
+que (30-70eV) sur appareil Finnigan 3300. Les spectres m n sont 
+
+enregistrks 100 MHz sur spectromktre JEOL FX 100 et i 400 MHz sur 
+
+appareil Briiker WM 400. Les dkplacements chimiques sont exprimes 
+en parties par million et le tCtramCthylsilane est pris c o m e rCfCrence 
+interne (s, singulet; d, doublet; t, triplet; q, quadruplet; m, multiplet; 
+M, massif). Les analyses sont effectuCes par le Service central de 
+microanalyses du Centre national de la recherche scientifique. 
+Le tCtrahydrofuranne est distill6 sur LiAlH4, l'hexane et le tetra-
+mCthylCthylknediamine sur CaH2. Les solutions d'alkyllithien sont 
+commerciales. La lithiation des hydrazones est rCalisCe sous atmos-
+phkre d'argon. 
+
+Matidres premidres 
+Les produits de dCpart suivants sont prCparCs par les mCthodes citCes 
+
+-
+
+-
+
+en rCfCrence : tosylhydrazone de la cyclopentanone, 3 (2); tosylhydra-
+zone de la cyclopentylidkne-2 cyclopentanone-1, 4 (10). La synthkse 
+
+de la tosylhydra~one-6 est d~crite dans le mimoire prCcCdent i 1). 
+
+Toylhydrazone de la (me'thoxy-2 e'thy1)-2 cyclopentanone-1 5 
+A une solution de tosylhydrazone 3 (2,52 g, 10 mmol) dans le THF 
+(60mL) est ajoutCe, goutte goutte et a -78"C, une solution de 
+n-butyllithium dans I'hexane (20mmol). L'addition terminCe, on 
+
+ajoute, goutte a goutte et a -78"C, de 1'iodo;l mCthoxy-2 Cthane 
+
+(2,05 g, 11 mmol) (1 1) dans le THF (10 mL). A la fin de I'addition 
+l'agitation est maintenue 15 min, puis on laisse le milieu rkactionnel 
+
+revenir a temperature ambiante et maintient 30 min I'agitation. Aprks 
+
+hydrolyse par une solution saturCe de NH4CI (40 mL), on extrait par 
+1'Cther Cthylique (3 x 20mL). La phase organique lavCe a l'eau 
+(30 mL), puis sCchCe et CvaporCe, abandonne 2 g (64%) d'hydrazone 5 
+sous fome d'une solide blanc recristallisC dans 1'Cther isopropylique; 
+pf 115°C; Rf 0,14 (Cther Cthylique -hexane, 2 : 1); v,,,(KBr): 3140 
+(NH), 1645 (C=N), 1 170 (S02N), 1120 (OCH3) cm-'; rmn 100 MHz 
+(CDCI,) 6 : 7,85 et 7,30 (2d, 4H, -C6H4-), 
+3,39 (t, 2H, J = 
+6,59Hz, -CH20CH3), 3,28 (s, 3H, 0CH3), 2,42 (s, 3H, 
+-C6H4CH3), 2,20-1,20 (M, 9H, protons cyclopentaniques et 
+-CH2CH20CH3). Anal. calc. pour C15H22N203S : C 58,06, H 7,09, 
+N 9,03, S 10,32; trouvC: C 58,13, H 7,07, N 9,30, S 10,39. 
+
+Pre'paration des chlorures d'acide 7 et 8 
+A une suspension de tosylhydrazone 5 ou 6 (30mmol) dans le 
+mClange TMEDA -hexane (1 : 1; 100 mL) est ajoutCe a -78°C une 
+solution de n-butyllithium dans l'hexane (105 mmol). La solution 
+
+obtenue est agitCe pendant 15 min a -78"C, puis 8 h a temptrature 
+
+ambiante. Aprks avoir nouveau refroidi a -78"C, la solution est 
+traitCe par un rapide courant de C02. Aprks retour a tempkrature 
+ambiante, la solution est hydrolyste par I'eau (300 mL) puis extraite 
+par 1'Cther Cthylique (3 x 50 mL). La phase aqueuese est acidifiCe par 
+l'acide chlorhydrique concentrC jusqu'a pH 1 et extraite par l'tther 
+Cthylique (3 X 100 mL). Cette dernikre phase CthCrCe lavte a I'eau (5 x 
+40 +), puis sCchCe, fournit par Cvaporation I'acide correspondant. 
+A une solution de cet acide dans le benzkne anhydre (100 mL) est 
+
+ajoutC goutte a goutte, sous courant d'azote et a temperature ambiante, 
+
+le chlorure d'oxalyle (15 mL, 171 mmol). Aprks 3 h d'agitation a cette 
+tempCrature, puis Cvaporation du solvant et de l'excks de reactif, on 
+recueille le chlorure d'acide 7 ou 8 sous fome d'une huile (rendement 
+= 50%) utilisCe sans autre purification pour les synthkses ultCrieures. 
+
+Pre'paration des esters 9a, 9b et 9c 
+(a) (Me'thoxy-2 e'thy1)-3 cyclopentdnecarboxylate-2 de me'thyle 9a 
+Une solution de 2,65 g (14 mmol) du chlorure d'acide 7 dans 200 mL 
+de mCthanol est portCe a reflux pendant 1 h. Le solvant est CvaporC et le 
+rCsidu est purifiC par chromatographie sur gel de silice dans le solvant 
+Cther Cthylique -hexane (1 : 4). On obtient 2,32 g (89%) d'une huile 
+
+jaune; pk 125"C/3 Torr (1 Torr = 133,3 Pa); Rf0,39 (Cther Cthylique -
+
+hexane, 1 : 4); v,,,(film) : 1715 (C02Me), 1625 (C=C), 1 120 (OCH,) 
+cm-I; m n 400MHz (CDCl,) 6 : 6,78 (m, lH, H-1), 3,73 (s, 3H, 
+
+-C02CH3), 3,43 (dd, 2H, J = 6,40 et 7,38 Hz, -CH20CH3), 3,32 
+(s, 3H, -OCH,), 3,O 1 (M, 1 H, H-3), 2,49 et 2,4 1 (2m, 2H, (CH2)-5), 
+2,10 (m, 2H, H-4a et H-l'a), 1,75 (m, lH, H-4b), 1,51 (m, 1H, 
+H-l'b). Anal. calc. pour C10H1603 : C 65,20, H 8,75,026,05; trouvC : 
+C 64,87, H 8,82, 0 26,40. 
+(b) (Me'thoxy-2 e'thy1)-3 cyclopent6necarboxylate-2 d'e'thyle 9b 
+
+Le mode opkratoire est identique a celui decrit pour 9a, et on isole 
+
+l'ester 9b avec un rendement de 94%; pC 13OoC/3 Torr; Rf 0,42 (Cther 
+Cthylique -hexane, 1 : 4); v,,,(film) : 1715 (C02Et), 1625 (C=C), 
+1120 (OCH3) cm-I; m n 400 MHz (CDCI,) 6 : 6,77 (m, lH, H-1), 4,19 
+(m, 2H, -C02CH2CH3), 3,43 (dd, 2H, J = 6,89 Hz et 7,38 HZ, 
+-CH20CH,), 3,32 (s, 3H, OCH,), 3,00 (M, lH, H-3), 2,48 et 2,40 
+(2m, 2H, (CH2)-5), 2,10 (m, 2H, H-4a et H-1 'a), 1,74 (m, lH, H-4b), 
+1,51 (m, lH, H-l'b), 1,30 (t, 3H, J = 7,39 Hz, -C02CH2CH3). 
+Anal. calc. pour CllHl8O3: C 66,64, H 9,15, 0 24,21; trouvC: C 
+66,37, H 8,86, 0 24,41. 
+(c) (Mkthoxy-2 e'thy1)-3 cyclopentdnecarboxylate-2 de tertiobutyle 
+9c 
+Cet ester a Ct C prCparC selon la mCthode dCcrite par M. Yamaguchi et 
+col!. (12). 
+A une solution de 2,65 g de chlorure d'acide 7 dans le benzkne 
+anhydre (50 mL) sont ajoutCs, sous courant d'azote, le cyanure 
+d'argent (3,75 g, 30mmol) et I'alcool tertiobutylique (15mL). Le 
+mClange est port6 a reflux pendant 1 h, puis filtrC. Aprks Cvaporation 
+du filtrat et Clution sur gel de silice dans le melange Cther Cthylique -
+hexane (1 : 4), on recueille 2,91 g (92%) d'ester 9c sous fome d'une 
+huile jaune; pC 14OoC/3 Torr; Rf 0,45 (Cther Cthylique -hexane, 1 : 4); 
+v,,(film) 
+: 1710 (C02tBu), 1625 (C=C), 1120 (OCH3) cm-'; m n 
+400 MHz (CDCI,) 6 : 6,67 (m, lH, H-1), 3,42 (dd, 2H, J = 6,90 et 
+7,38Hz, -CH20CH3), 3,33 (s, 3H, -OCH3), 2,94 (M, lH, H-3), 
+2,49et2,41 (2m, 2H, (CH2)-5), 2,08 (m, 2H, H-4aetH-l'a), 1,71 (m, 
+lH, H-4b), 1,54 (m, lH, H-l'b), 1,49 (s, 9H, -C(CH3),). Anal. 
+calc, pour Cl3HZ2o3 : C 68,99, H 9,80, 0 21,21; trouvC : C 68,62, H 
+9,50, 0 21,44. 
+(Hydroxy-2 e'thy1)-3 cyclopentdnecarboxylate-2 d'e'thyle 11 
+A une suspension d'iodure de sodium (5,25 g, 35 mmol) dans 
+I'acCtonitrile (60 mL) sont ajoutks, sous courant d'azote, le trichloro-
+mCthylsilane (5,23 g, 35 mmol) et l'ester 9b (6g, 30 mmol). Le 
+
+mClange est agitC a tempkrature ambiante pendant 8 h, puis hydrolysC 
+
+par I'eau (60 mL). Aprks extraction par 1'Cther Cthylique (3 x 50 mL), 
+la phase organique est lavCe par une solution saturCe de thiosulfate de 
+sodium (30 mL) puis par I'eau (30mL), sCchCe et Cvaporte. Aprks 
+Clution sur gel de silice par le mClange Cther Cthylique -hexane (4 : l), 
+on obtient 4 g (72%) d'ester alcool 11 sous forme d'une huile incolore; 
+pC 143"C/1 Torr; Rf 0,23 (Cther Cthylique -hexane, 1 : 1); v,,,(film) : 
+3420 (OH), 17 15 (C02Et), 1620 (C=C) cm-'; rmn 400 MHz (CDCl,) 
+6 : 6,81 (m, lH, H-1), 4,20 (q, 2H, J = 6,90 Hz, -C02CH2CH3), 
+3,64 (m, 2H, -CH20H), 3,08 (M, lH, H-3), 2,50 (m, 2H, (CH2)-5), 
+2,17 (m, 2H, H-4a et H-l'a), 1,84 (m, lH, H-4b), 1,65 (m, lH, 
+H-1 'b), 1,30 (t, 3H, J = 6,90 Hz, -C02CH2CH3). Anal. calc. pour 
+C10H1603 : C 65,21, H 8,70, 0 26,08; trouvk : C 65,43, H 8,73, 0 
+25,84. 
+
+Acge (iodo-2 e'thy1)-3 cyclopentdnecarboxylique-2 12 
+A une suspension d'iodure de sodium (1,35 g, 9mmol) dans 
+I'acCtonitrile (15 mL) sont ajoutts, sous courant d'azote, I'ester 9c 
+(0,60 g, 3 mmol) puis le trimCthylchlorosilane (0.98 g, 9 mrnol). Le 
+mClange est port6 a reflux pendant 16 h, puis hydrolysC par 15 mL 
+d'eau. Aprks extraction par 1'Cther Cthylique (3 x 10 mL), la phase 
+organique est lavCe par une solution saturCe de thiosulfate de sodium 
+(10 mL) puis par I'eau (10 mL), stchte et CvaporCe. On recueille 0,56 g 
+(70%) de l'iodo-acide 12 recristallisC dans le cyclohexane; pf 104°C; Rf 
+0,30 (Cther Cthylique -hexane, 1 : 1); v,,,(KBr) : 3240 (OH), 1670 
+(C02H), 1625 (C=C); rmn 400 MHz (CDCI,) 6 : 6,97 (m, lH, H-l), 
+3,25 (td, lH, J = 4,75 et 9,63 Hz, H-2'a), 3,12 (td, lH, J = 7,52 et 
+9,63 Hz, H-2'b), 3,00 (M, lH, H-3), 2,5 1 (m, 2H, (CH2)-5), 2,43 (m, 
+lH, H-4a), 2,17 (m, lH, H-l'a), 1,80 (m, lH, H-4b), 1,70 (m, lH, 
+H-l'b). Anal. calc. pour CsHIL021: C 36,00, H 4,13, I47,74; trouvC : 
+C 36,47, H 4,18, I47,68. 
+
+Can. J. Chem. Downloaded from www.nrcresearchpress.com by 87.160.185.190 on 03/27/14 
+
+For personal use only. 
+
+
+CAILLE ET AL.: 2 
+
+835 
+
+Actde (me'thoxy-2 e'thy1)-3 cyclopentbnecarboxylique-2 10 
+A une solution d'ester 96 (1,21 g, 6,l mmol) dans le DMSO (50 mL) 
+est ajoutCe une solution de potasse 2 N (20 mL). On chauffe pendant 4 h 
+100°C. La solution est ensuite hydrolysCe par l'eau (50 mL), puis 
+extraite par 1'Cther Cthylique (3 X 15 mL). La phase aqueuse est alors 
+acidifiCe par HCl concentre, puis i nouveau extraite par 1'Cther 
+Cthylique (3 x 20 mL). Cette dernibre phase organique lavCe jusqu'a 
+neutralit&amp;, sCchCe, puis CvaporCe, abandonne 0,83 g (80%) de l'acide 
+10 sous forme d'un liquide incolore; vmax(film): 3240 (OH), 1685 
+(C02H), 1620 (C=C), 11 14 (OCH3) cm-I; rmn 400 MHz (CDC13) 6 : 
+6,92 (m, lH, H-1), 3,44 (dd, 2H, J = 6,40 et 7,38 Hz, -CH20CH3), 
+3,33 (s, 3H, -OCH3), 3,02 (M, lH, H-3), 2,50 (m, 2H, (CH2)-5), 
+2,13 (m, 2H, H-4a et H-l'a), 1,75 (m, lH, H-4b), 1,53 (m, lH, 
+H-l'b). Anal. calc. pour CgHI4o3 : C 63,51, H 8,29,O 28,20; trouvC : 
+C 63,39, H 8,40, 0 28,28. 
+Hexahydro-I ,3,4,4a,5,6 cyclopenta[c]pyrannone-I 1 
+Cette lactone a Ct C isolCe soit a partir de l'ester 9c, soit i partir de 
+
+l'acide 12. 
+(a) Synthbse d partir de l'ester 9c 
+A une suspension d'iodure de sodium (12,l g, 81 mmol) dans 
+I'acCtonitrile (60 mL) sont ajoutks, sous courant d'azote, le trichloro-
+mCthylsilane (12,l g, 81 mmol) et l'ester 9c (7 g, 31 mmol). Le 
+mClange est portC a reflux pendant 24 h. On ajoute 50 mL d'eau puis on 
+
+extrait par 1'Cther Cthylique (3 X 50 mL). La phase organique est lavCe 
+par une solution saturCe de thiosulfate de sodium (30 mL) puis par l'eau 
+(30 mL), sCchCe et CvaporCe. L'huile obtenue est purifiCe par chro-
+matographie sous pression moyenne sur gel de silice avec le mClange 
+Cther Cthylique -hexane (1 : 1). On isole ainsi 1,9 g (44%) de lactone 1. 
+
+sous forme d'une huile; pC 130°C/0,1 Torr; Rf 0,30 (Cther Cthylique -
+
+hexane, 1 : 1); vmax(film) : 1721 (C02-), 1630 (C=C) cm-I; rmn 
+400 MHz (CDC13) 6 : 6,99 (m, lH, H-7), 4,46 et 4,31 (2m, 2H, 
+= 4,65, 
+= 2,05, 
+= 2,76, 
+= 12,37 et 
+
+= 
+
+11,47 Hz, (CH2)-3), 2,98 (M, lH, H-4a), 2,46 (m, 2H, (CH2)-6), 2,37 
+(m, lH, H -5 4 , 2,11 (m, lH, H -4 4 , 1,66 (m, 2H, H-5P et H-4P); 
+spectre de masse : M+' 138 (69%), 108 (34), 94 (40), 80 (100). Anal. 
+calc. pour C8HI0o2: C 69,56, H 7,25, 0 23,19; trouvk: C 69,30, H 
+7,38, 0 23,32. 
+(b) Synthbse a partir de l'acide 12 
+A une solution de I'acide 12 (0,2 g, 0,75 mmol) dans I'acCtonitrile 
+(IOmL) on ajoute, sous courant d'azote, le perchlorate d'argent 
+
+monohydrati. (0,31 g, 1,5 mmol). On agite durant 48 h a tempkrature 
+
+ambiante; le prCcipitC obtenu est filtrC et la phase organique est lavCe a 
+
+l'eau (3 X 20 mL) puis par une solution saturCe en NaCl, sCchCe et 
+CvaporCe. On recueille ainsi 93 mg (90%) de lactone 1. 
+
+Pre'paration des esters 13 et 14 
+(a) Action de l'e'thanol sur le chlorure d'acide 8 
+Une solution de 3,58 g de chlorure d'acide 8 dans 200 mL d'Cthano1 
+
+est portCe a reflux pendant 1 h. Aprbs Cvaporation de l'Cthano1, le rCsidu 
+
+est Clue sur gel de silice par le melange Cther Cthylique -hexane (1 :4) 
+et on recueille dans I'ordre : 0,64g (15%) de (chloro-2 Cthy1)-3 
+(cyclopentCny1-1')-3 cyclopentbnecarboxylate-2 de mCthyle, 14; 
+
+p5 13OoC/0,05 Torr; Rf 0,58 (Cther Cthylique -hexane, 1 : 4); v,,(filrn) : 
+
+1718 (C02Me), 1620 (C=C), 655 (C-Cl) cm-'; rmn lOOMHz 
+(CDC13) 6 : 6,87 (m, lH, H-1), 5,37 (m, lH, H-2'), 3,69 (s, 
+3H, -C02CH3), 3,43 (m, 2H, -CH2Cl), 2,65-1,60 (M, 12H, 
+mCthylknes cyclopentCniques et -CH2CH2Cl). Anal. calc. pour 
+CI4Hl9O2C1 : C 66,14, H 7,48,O 1239; trouvC : C 66,41, H 7,60, 0 
+12,86; et 2,77 g (75%) de (cyclopentCny1-1')-3 (mCthoxy-2 ethyl)-3 
+
+cyclopentknecarboxylate-2 dlCthyle, 13; pC 135"C/0,05 Tom; Rf 0,37 
+
+(Cther Cthylique -hexane, 1 :4); vmax(film) : 1718 (C02Et), 1625 
+(C=C), 11 14 (OCH3) cm-I; rmn 100 MHz (CDC13) 6 : 6,84 (m, lH, 
+H-1), 5,35 (m, lH, H-2'),4,11 (q, 2H, J = 7,20 Hz, -C02CH2CH3), 
+3,34 (m, 2H, -CH20CH3), 3,27 (s, 2H, -OCH3), 2,43-1,60 (M, 
+12H, mkthylbnes cyclopentCniques et -CH2CH20CH3), 1,25 (t, 3H, 
+J = 7,20 Hz, --C02CH2CH3). Anal. calc. pour C16H2403 : C 72,69, 
+H 9,15, 0 18,16; trouvC: C 72,98, H 9,03, 0 18,26. 
+(b) Chauffage du chlorure d'acide 8 au reflux du benzbne 
+Une solution de 3,58 g de chlorure d'acide 8 dans le benzbne 
+
+(100 mL) est portke reflux pendant 12 h. Aprks Cvaporation du solvant 
+et purification sur gel de silice dans le melange Cther Cthylique -hexane 
+(1 :4), on obtient 3,43 g (96%) du chloro-ester 14. 
+
+Acide (cyclopente'nyl-1')-3 (hydroxy-2 e'thy1)-3 cyclopentbnecarboxy-
+lique-2 15 
+A une solution du composC 14 (0,3 g, 1,18 mmol) dans le DMSO 
+(20 mL) est ajoutCe une solution de potasse 2 N (5 mL). On porte i 
+100°C durant 4 h , puis on hydrolyse par l'eau (40mL). La phase 
+aqueuse est extraite par I'Cther Cthylique (3 X lOmL), puis acidifiCe 
+
+par l'acide chlorhydrique concentre et extraite a nouveau par 1'Cther 
+
+Cthylique (3 X 20 mL). Cette dernibre phase organique est lavCe l'eau 
+(4 X 15 mL), sCchCe et CvaporCe. On recueille 0,21 g (80%) d'acide 
+alcool 15, recristallisC dans le benzbne; pf 130°C; v,,,(KBr): 3400 
+(OH), 1688 (C02H), 1618 (C=C) cm-'; rmn 100 MHz (CDC13) 6 : 
+7,00(m, lH,H-1),5,40(m, 1H,H-2'),4,49(M, 1H,-OH),3,66(m, 
+2H, -CH20H), 2,53-1,75 (M, 12H, mCthylbnes cyclopentCniques et 
+-CH2CH20H). Anal. calc. pour CI3Hl8o3 : C 70,24, H 8,16, 0 
+21,59; trouvC: C 69,89, H 8,29, 0 21,82. 
+
+(Cyclopenttnyl-11)-4a hexahydro-1,3,4,4a,5,6 cyclopenta[c]pyran-
+none-1 2 
+On porte 
+reflux pendant 3 h dans un appareil Dean-Stark 
+l'hydroxy-acide 15 (2,6 g, 11,7 mmol) dissous dans le benzbne 
+anhydre (100 mL) en prCsence d'acide p-tolubnesulfonique (0,05 g). 
+Le mClange rkactionnel est versC sur de l'eau glacCe et extrait par 1'Cther 
+
+Cthylique (3 X 50 mL). La phase organique est lavCe a l'eau, sCchCe et 
+
+CvaporCe. Le rCsidu Clue sur gel de silice par le melange Cther Cthyli-
+que -hexane (1 : 1) fournit, aprbs recristallisation dans l'hexane, 1,90 g 
+
+(80%) de lactone 2; pf 74°C; Rf 0,41 (Cther Cthylique -hexane, 1 : 1); 
+
+v,,(KBr) 
+: 1709 (C02-), 1630 (C=C) cm-'; rmn400 MHz (CDC13) 
+
+6:7,00(m, 1H,H-1),5,38(m, lH,H-2'),4,29et4,16(2m,2H, 
+
+= 4,89, 
+= 1,60, 
+= 2 3 4 , 
+= 13,06 et 
+
+= 
+
+11,36Hz, (CH2)-3), 2,41-1,62 (M, 12H, methylknes cyclopentCni-
+ques et-CH2CH20-); 
+spectre de masse : M+' 204 (loo%), 176 (43), 
+148 (40). Anal. calc. pour Cl3Hl6O2: C 76,47, H 7,84, 0 15,69; 
+trouvC : C 76,89, H 7,68, 0 15,54. 
+
+(Cyclopente'nyl-1')-3 (phtalimido-2 e'thy1)-3 cyclopentbnecarboxy-
+late-2 de me'thyle 16 
+A une solution du composC 14 (0,5 g, 1,97 mmol) dans le DMF 
+(dimCthylformarnide) anhydre (IOmL) sont ajoutCs, sous courant 
+d'argon, le phtalimide de potassium (0,46 g, 2,5 mmol) et l'iodure de 
+
+sodium (0,45 g, 3 mmol). On chauffe a 100°C durant 24 h. On 
+
+hydrolyse par l'eau (30 mL) et extrait la phase aqueuse par 1'Cther 
+Cthylique (3 X 15 mL). La phase organique est lavCe i l'eau, sCchCe et 
+CvaporCe. Aprks Clution sur gel de silice par le mClange Cther Cthylique 
+-hexane (1 : l), on obtient 0,3 g (42%) du phtalimide 16 recristallisC 
+
+dans 1'Cthanol; pf 118°C; Rf 0,42 (Cther Cthylique -hexane, 1 : 1); 
+
+vmaX(KBr) : 1771 (imide), 171 1 (C02Me), 1614 (C=C), 1608 
+(aromatique); rmn lOOMHz (CDC13) 6 : 7,82 et 7,69 (2m, 4H, 
+aromatiques), 6,88 (m, lH, H-1), 5,45 (m, lH, H-27, 3,65 (s, 
+3H, -C02CH3), 3,64 (m, 2H, -CH2N-), 
+2,58-1,63 (M, 12H, 
+mCthylknes cyclopentCniques et -CH2CH2N-). 
+Anal. calc. pour 
+C22H23N04: C 72,33, H 6,30, N 3,83, 0 17,53; trouvC : C 72,25, H 
+6,39, N 3,75, 0 17,77. 
+
+(Cyclopente'nyl-11)-4a hexahydro-1,3,4,4a,5,6 2H-cyclopenta[c]-
+pyridinone-1 17 
+A une solution du composC 16 (1,5 g, 4,l mmol) dans le mCthanol 
+(20mL) est ajoutCe une solution aqueuse d'hydrate d'hydrazine 
+
+(13,7 mmol). On agite pendant 3 h a tempkrature ambiante, puis on 
+
+ajoute une solution de 6,9 mL d'acide acCtique dans 30 mL de 
+mkthanol. On agite pendant 5 min 20°C et filtre le prCcipitC forme. 
+Aprks Cvaporation du filtrat, on ajoute 40 mL de CH2C12. La phase 
+organique est lavCe par une solution saturCe de NaHC03 puis par l'eau, 
+sCchCe et CvaporCe. L'huile obtenue est purifiCe par chromatographie 
+sous pression moyenne sur gel de silice h I'aide du melange Cther 
+Cthylique -hexane (1 : 1). On isole, aprbs recristallisation dans le 
+
+benzbne, 0,2 g (24%) de lactame 17; pf 200°C; Rf 0,17 (Cther Cthylique 
+
+-hexane, 4: 1); v,,(KBr): 
+3200 (NH), 1656 et 1639 (CONH-) 
+
+Can. J. Chem. Downloaded from www.nrcresearchpress.com by 87.160.185.190 on 03/27/14 
+
+For personal use only. 
+
+
+836 
+
+CAN. J. CHEM. VOL. 64, 1986 
+
+TABLEAU 2. CoordonnCes fractionnaires des atomes de carbone et 
+d'oxygkne 
+
+Atome 
+x/a 
+
+Y I ~ 
+
+z/c 
+Be, (A2) 
+
+cm-';rmn400MHz(acCtone-d6, D20) 6 : 6,55 (m, lH, H-l), 5,26 (m, 
+
+IH, H-27, 3,24 (m, lH, J3u3P = 12,70, J3a4a = 5,30 et J3a4P = 
+1,90Hz, H-3a), 3,12 (m, lH, J3a3P = 12,70, J3P4a = 12,70et J3P4P 
+= 3,69 Hz, H-3P), 2,33-1,64 (M, 12H, mCthylknes cyclopentCniques 
+et-CH2CH2NH-). 
+Anal. calc. pourC13H17N0 : C 76,81, H 8,43, N 
+6,89, O7,87; trouvC: C76,80, H 8,53, N6,77, O7,71. 
+
+Analyse radiocristallographique du compose' 2 
+C13H1602 
+
+M = 204 
+
+Monoclinique 12/c(h + k + 1 = 2n; h01,l= 2n); a = 17,144(7), b = 
+
+6,274(3), c = 20,977(7) A; P = 98,66(3)"; V = 2231 A3; Z = 8; pc = 
+
+1,21 g/cm3; F (0, 0, 0) = 880; p (MoKa) = 0,45 cm-I. 
+Les cristaux du composC 2 ont Ct C obtenus par recristallisation dans 
+l'hexane. Aprks de multiples essais, un cristal de taille 0,2 x 0,4 x 
+0 , l mrn a Ct C utilisC pour enregistrer, sur un diffractomktre automatique 
+CAD4 Enraf-Nonius, 2310 rkflexions avec le rayonnement K&amp; du 
+
+molybdkne monochromatisC au graphite (1 &lt; 28 &lt; 60°, largeur de 
+
+balayage (0,90 + 0,35 tan 8)"). Seules 935 reflexions ont Ct C 
+
+conservtes pour affiner la structure rCpondant au critkre statistique I &gt; 
+
+3,3u(I). Les intensitks ont Ct C corrigCes des phCnomknes de Lorentz et 
+de polarisation, l'absorption a Ct C nCgligCe. L'ensemble des rCflexions 
+a Ct C renormalis6 par suite de la dCcomposition du cristal (AI,/Ic = 
+
+0,25 B la fin de l'enregistrement) en ajustant une droite au sens des 
+
+moindres carrCs A l'intensitt de deux rCflexions de contrBle (312, 112). 
+
+La structure a Ct C rksolue dans le groupe 12/c (x, y , z; f , j , i; x, j , 1 /2 
+
++ z; f , y, 112 -z; + 112, 1/2,1/2) pour conserver un angle P proche 
+
+de 90". Les coordonnCes fractionnaires des atomes de carbone et 
+d'oxygkne ont Ct C dCterminCes A l'aide du programme MULTAN (13). 
+Au cours de l'affinement (SHELX 76 (14)), chaque atome non-
+hydrogkne a Ct C affect6 d'un coefficient d'agitation thermique ani-
+
+sotrope. L'ensemble des atomes d'hydrogkne a Ct C trouvC dans les 
+sections de la difference de la densite Clectronique et affinC avec un 
+facteur d'agitation thermique isotrope. L'affinement a convergt 
+jusqu'aux indices suivants : R(F) = 0,057; R,(F) = 0,051;3 R(F') = 
+
+0,058; S = 1,47;3 N, = 198; N, = 935; w = l,7/[u2(F) + 0,0016 F2]; 
+
+max A/u = 0,23 pour z de C(11); p risiduelle maximum = 0,2 E / A ~. 
+
+Les coordonnCes fractionnaires des atomes autres que les atomes 
+d'hydrogkne sont rassemblkes dans le tableau 2. La numkrotation des 
+atomes est visualisCe en figure 5. Les coordonnCes fractionnaires des 
+atomes d'hydrogkne, les facteurs d'agitation thermique et une liste des 
+facteurs de structure ont Ct C dCposCs sous forme de matkriel supplC-
+mentaire .4 
+
+1. J. C. CAILLE, M. FARNIER et R. GUILARD. Can. J. Chem. 64,824 
+(1986). 
+2. (a) R. H. SHAPIRO. Org. React. 23,405 (1976); (b) M. F. LIPTON 
+et R. H. SHAPIRO. J. Org. Chem. 43, 1409 (1978). 
+3. R. M. ADLINGTON et A. G. M. BARRETT. J. Chem. Soc. Chem. 
+Commun. 1071 (1978). 
+4. A. F. THOMAS. Duns The total synthesis of natural products. Vol. 
+2. Editeur : J. ApSimon. Wiley -Interscience, New York. 1973. 
+p. 62 et rCfCrences citCes. 
+5. J. C. CAILLE et R. GUILARD. Tetrahedron Lett. 2771 (1984). 
+6. K. MORI, T. TAKIGAWA et M. MATSUI. Tetrahedron Lett. 3953 
+(1976). 
+7. P. A. GRIECO, M. NISHIZAWA, T. OGURI, S. D. BURKE et N. 
+MARINOVIC. J. Am. Chem. Soc. 99, 5773 (1977). 
+8. G. A. OLAH, S. C. NARANG, B. G. BALARAM GUPTA et R. 
+MALHOTRA. J. Org. Chem. 44, 1247 (1979). 
+9. G. A. OLAH, A. HUSAIN, B. G . BALARAM GUPTA et S. C. 
+NARANG. Angew. Chem. Int. Ed. Engl. 20, 690 (1981); G. A. 
+OLAH, A. HUSAIN, B. P. SINGH et A. K. MEHROTRA. J. Org. 
+Chem. 48, 3667 (1983). 
+10. J. T. SHARP, R. H. FINDLAY et P. B. THOROGOOD. J. Chem. Soc. 
+Perkin Trans. 1, 102 (1975). 
+11. K. KUROSAWA, H. OBARA et H. UDA. Bull. Chem. Soc. Jpn. 39, 
+530 (1966). 
+12. S. TAKIMOTO, J. INANAGA, T. KATSUKI et M. YAMAGUCHI. Bull. 
+Chem. Soc. Jpn. 49, 2335 (1976). 
+13. P. MAIN, M. M. WOOLFSON, L. LESSINGER, G. GERMAIN et J. P. 
+DECLERCQ. MULTAN. A system of computer programs for the 
+automatic solution of crystal structures from X-ray diffraction 
+data. York University, Angleterre et UniversitC de Louvain, 
+Belgique. 1974. 
+14. G. M. SHELDRICK. Programs for crystal structure determination. 
+Cambridge University, Angleterre. 1976. 
+
+3. R,(F) = CH 
+
+-Fc)I/CH W'~~F,; S = [C w(F, -F,)' + 
+
+(m -n)]li2. 
+4. On peut acheter ces donnCes en s'adressant au DCpBt des donnCes 
+non publiCes, ICIST, Conseil national de recherches du Canada, 
+Ottawa (Ontario), Canada KIA 0S2. 
+
+Can. J. Chem. Downloaded from www.nrcresearchpress.com by 87.160.185.190 on 03/27/14 
+
+For personal use only. 
+
+
+
+	
+

@@ -1,0 +1,433 @@
+
+	
+
+		
+
+	
+
+	
+
+~t u d e polarographique du niobium dans les melanges eau -fluorure d'hydrogene 
+
+DPptirternent de chimie, FncultP des science.^, UniveositP tle Sherbrooke, Sher-br-ooke (QuP.). Cnnndtr J I K 2Rl 
+RCcu le 8 mars 1983 
+
+H. MENARD et R. BEAUDOIN. Can. J. Chem. 61, 2699 (1983). 
+L'analyse de certains rninerais requiert leur solubilisation dans le fluorure d'hydrogene. Nous avons elabort une methode 
+d'analyse directement applicable aux melanges eau -fluorure d'hydrogkne. 
+
+Cependant, dans I'acide fluorhydrique 50% le niobium est soluble sous la forrne du cornplexe NbF, qui est rCductible a 
+
+I'tlectrode polarographique a un potentiel de -0,880 volt vs. ECS. Pour des concentrations inferieures 2 45% en HF, le 
+complexe du niobium s'hydrate pour donner l'ion N~OF,' non rCductible. 
+
+H. MENARD and R. BEAUDOIN. Can. J. Chem. 61, 2699 (1983). 
+Solubilization in hydrogen fluoride is required for the analysis of some minerals. A method of analys~s directly applicable 
+to water -hydrogen fluoride mixtures was worked out. 
+However, in 50% hydrofluoric acid niobium is soluble as NbF, complex, which can be reduced with a polarographic 
+electrode at a potential of -0.880 V vs. E.C.S. For concentrations lower than 45% in HF, the niobium complex is hydrated 
+and exists as a non-reducible ion N~oF,'. 
+[Journal translation] 
+
+Introduction 
+
+La polarographie du niobium peut s'effectuer dans un grand 
+nombre de milieux ( l ) , pour autant que les Clements inter-
+fCrents soient absents au facilement Climinables. Le minerai de 
+niobium contient gCnCralement du tantale. I1 est donc important 
+de pouvoir analyser le mClange de ces deux metaux douts de 
+propriCtCs similaires. Quoique le tantale ne donne que rarement 
+une vague polarographique (2), il peut toutefois interfkrer dans 
+certains milieux en formant un complexe contenant h la fois le 
+tantale et le niobium. Ces complexes diffusent plus lentement 
+
+2 cause de leur taille accrue, ce qui contribue a la diminution 
+
+du courant de diffusion liC la rCduction du niobium. 11 existe 
+quelques Ctudes polarographiques de la rtduction du niob~um 
+dans divers solvants et Clectrolytes supports ( 1 , 3-6). 
+Les solutions sont gCnCralement prCparCes par fusion de 
+l'oxyde de niobium dans le carbonate de potassium, suivie de 
+la dissolution du mClange dans le milieu choisi. 
+La reduction dans I'acide chlorhydrique diluC est impossible 
+a cause de 17instabilitC de la solution. Selon Henrion et Alder 
+(7) et Elving et Olson (8), la vague prksente son amplitude 
+
+maximale pour une concentration de 11 mol/L en HC1. Aux 
+concentrations plus faibles, il y a formation hydrolytique 
+d'acide niobique. McCullough et Meites (9, 10) ont CtudiC en 
+detail le mkcanisme du transfert d'ilectrons. 11s arrivent a la 
+
+conclusion que le transfert monoClectronique est suivi par une 
+disproportion du type suivant: 
+
+[l] Nbt5 + 6 + NbtJ 
+[2] 2Nbt4 + Nbt5 + Nbt" 
+
+la contribution de la rtaction [2] Ctant relativement nkgligeable. 
+L'oxyde de niobium est tres soluble dans les mClanges 
+
+eau -fluorure d'hydrogkne a partir de faibles concentrations 
+
+en HF. La polarographie dans ce milieu permet donc d'Climiner 
+1'Ctape de la fusion alcaline suivie de la redissolution dans le 
+milieu dCsirC. De plus le tantale ne donne pas de vague de 
+reduction et n'interfere pas sur celle du niobium dans ce milieu; 
+il n'est donc pas nkcessaire d'Climiner le tantale de la solution 
+avant la determination du niobium. La presence des complexes 
+N b F i et N ~O F ; ~ 
+
+peut aussi &amp;tre mise en Cvidence, l'ion 
+N~oF~-* n'Ctant pas Clectroactif. Plusieurs auteurs (1 1 -14) ont 
+
+CtudiC les complexes du niobium dans les melanges eau -
+fluorure d'hydrogene. Pour des solutions contenant plus de 
+35% en HF, le complexe prCdominant est N b F i , alors que pour 
+
+une concentration infkrieure 2 25% en HF, I'espkce prCpon-
+
+dCrante devient N~oF;'. 
+
+Partie experimentale 
+
+La cellule polarographique est constitutCe d'un bCcher en poly-
+rnithylpentane d'une capacitC de 50 rnL surmontC d'un couvercle de 
+Teflon qui sert a rnaintenir les Clectrodes. L'Clectrode de rCfCrence au 
+calomel saturC est rnunie d'une double jonction sCparCe de la solution 
+par une gaine de Teflon et un disque de polyCthylkne poreux. L'Clec-
+trode auxiliaire est un fil de platine. L'Clectrode de travail est un 
+capillaire polarographique Sargent-Welch S-2418 recouvert de poly-
+Cthylkne (15) et dont la pCriode de chute est contrBlCe par un dispositif 
+Clectronique rCalisC dans nos ateliers. Tous les potentiels se rCfi5rent 5 
+I'Clectrode de calomel saturC. L'analyseur polarographique PAR est le 
+modkle 364. La table traqante est une techneurop, Sefrarn T.G.M. 
+101. 
+Les produits utilisks sont: niobium rnetallique en poudre de Pfaltz 
+and Bauer; Nb'O, 99.9% de Alfa Product et HF 49% de Baker. 
+Le niobium rnCtallique n'est soluble que dans un melange d'acide 
+nitrique et fluorhydrique. Pour faire une mesure polarographique, il 
+suffit d'Cvaporer sec pour Clirniner I'acide nitrique et redissoudre 
+dans l'acide fluorhydrique. Le rCsidu obtenu apri5s Cvaporation dans 
+un bain d'huile est un fluorure de niobium qui peut Ctre redissous en 
+un temps trks court. 
+La mise en solution du minerai s'effectue en pesant environ 0,25 g 
+dans un erlenmeyer de polyCthyli5ne auquel au ajoute 10 mL d'acide 
+fluorhydrique 
+49% puis 5 mL d'acide nitrique concentrt. Le 
+melange est agitC et CvaporC h sec sur bain d'huile. Le rCsidu est 
+redissous dans HF 49% et jaugC a 100 rnL. Le polarograrnme peut &amp;tre 
+pris directernent ou en diluant a la concentration requise. 
+Pour I'analyse des rninerais bruts dont la teneur en niobium se situe 
+entre 0 et 1%, il est preferable d'utiliser la mkthode des ajouts dosts. 
+La technique consiste a peser des tchantillons du rninerai (soit un 
+gramme) auxquels on additionne des quantitks croissantes de Nb'O,. 
+Aprks resolubilisation, les polarograrnrnes sont enregistrks et la con-
+centration de niobium dans le minerai est dCduite par extrapolition. 
+
+Resultats 
+
+Dans I'acide fluorhydrique, on observe une vague de rCduc-
+tion de niobium. La figure 1 montre la vague obtenue par 
+rapport au courant rCsiduel du H F 49%. Quoiqu'assez pres du 
+Can. J. Chem. Downloaded from www.nrcresearchpress.com by 87.160.185.190 on 03/27/14 
+
+For personal use only. 
+
+
+CAN. J. CHEM. VOL. 61. 1983 
+
+FIG. I. Polarogramme du niobium dans HF 49,1%. 
+
+mur de rkduction de l'hydrogene la vague est suffisamment 
+bien rtsolue. Le potentiel de demi-vague est de -0,880 V. 
+La rkversibilitk de la vague a ete verifite a partir de difft-
+rentes techniques polarographiques: le graphique du potentiel 
+en fonction du log i/(id-i) prksente une droite dont la pente est 
+de 59 mV; le potentiel de demi-vague obtenu par polarographie 
+impulsionnelle est le m&amp;me que celui obtenu par polarographie 
+classique; le pic que l'on obtient par polarographie impulsion-
+nelle difftrentielle est situt 2 la valeur de potentiel prkvue par 
+Parry et Osteryoung (16), plus positive de 25 mV que la valeur 
+obtenue par polarographie classique, dans le cas d'une impul-
+sion de 50 mV. 
+A partir de l'tquation du courant en polarographie impul-
+sionnelle difftrentielle: 
+
+ou T' est le temps immtdiatement avant l'impulsion et T est le 
+temps juste avant la fin de l'impulsion, 
+
+nF A E 
+[5] 
+a = exp --
+RT 2 
+
+oh A E est le saut de potentiel. 
+
+On dtmontre facilement par dkrivation d(6i)/d PA que 6i est 
+
+maximum pour PA = 1. 
+Des lors: 
+
+IUiobium (PPM) 
+
+FIG. 2. Courbe d'italonnage pour la determination quantitative du 
+niobium en milieu HF 49%, en regime polarographie impulsionnelle 
+diffirentielle. 
+
+La largeur du pic ? I mi-hauteur augmente avec l'amplitude de 
+I'impulsion imposte (17); elle est de 100 mV pour une ampli-
+tude de 50 mV. 
+Ces mesures confirment le caractere rtversible et mono-
+tlectronique de la reaction. 
+
+Cette conclusion peut &amp;tre correlke au fait que Senderoff et 
+Mellors (17) ont etabli que la reduction du niobium V au 
+niobium 1V est tgalement une rtaction rkversible en milieu 
+fluorure fondu. 
+Les rtsultats polarographiques permettent de calculer le co-
+efficient de diffusion du niobium dans HF commercial a 49% 
+a partir de l'kquation d'llkovic. La valeur est de 9 , l X 
+
+cm2/s. 
+Du point de vue analytique, il est prefkrable d'utiliser la 
+polarographie impulsionnelle difftrentielle. Le niobium prt-
+sente un pic a un potentiel de -0,855 V pour une hauteur 
+d'impulsion de 50 mV et une vitesse de balayage de 2 mV par 
+seconde, le temps de chute de la goutte de mercure ttant de 
+1.00 s. 
+La hauteur du pic est proportionnelle a la concentration. La 
+figure 2 montre une courbe d'ktalonnage a laquelle correspond 
+une limite de dttection de l'ordre de 15 ppmT Cette valeur est 
+essentiellement dkterminte par l'interfkrence entre le mur de 
+rtduction de l'hydrogkne et le pic de rkduction du niobium. 
+
+I1 est a remarquer que la concentration minimale dttectable 
+
+ne varie pas en fonction du vieillissement des solutions de 
+niobium dans le fluorure d'hydrogene. 
+Le tableau 1 montre les rtsultats obtenus pour des kchan-
+tillons de minerais concentrts ayant une teneur en niobium de 
+l'ordre de 60%. Ces rtsultats sont reproductibles a environ 1 %. 
+Lorsaue l'on diminue la concentration en HF. la hauteur de 
+la vague de niobium dtcrott et finit par disparaitre complkte-
+ment pour un pourcentage en HF de 22% (Fig. 3). Le potentiel 
+de demi-vague n'ktant pas dtplack, on peut conclure a la simple 
+disparition de l'espece tlectroactive. L'observation de la solu-
+tion ne montre aucun signe de prkcipitation, la dtcroissance de 
+l'onde polarographique Ctant due a la formation d'un nouveau 
+complexe, selon 
+Can. J. Chem. Downloaded from www.nrcresearchpress.com by 87.160.185.190 on 03/27/14 
+
+For personal use only. 
+
+
+TABLEAU 1. Analyse de minerais 
+
+Echantillon 
+% Nb205 
+% Moyen 
+% Fluorescence X* 
+
+*Valeurs fournies par la compagnie Niobec. 
+
+1 
+
+FIG. 3. Polarogrammes en rkgime impulsionnel diffkrentiel du nio-
+bium dans des solutions de HF a: (1) 49,1%; (2) 39,3%, (3) 29,5%; 
+(4) 25,5%; (5) 19,6%. 
+
+Les espkces HNbF6 et H2NbOF5 Ctant les espkces ioniques 
+fortement solvatCes, 1'Cquilibre est essentiellement contr81C par 
+l'activC du HF et de H 2 0 en solution. Les activitCs sont calcu-
+lies selon Vaillant (18) a partir des valeurs de pression partielle 
+de l'eau, PHlo et de HF, PHF publies par Munter et al. (19). 
+L'activitC de l'eau est calculCe a l'aide de la loi de Raoult (Ctat 
+de rCfCrence: eau pure): 
+
+L'activitt du fluomre d'hydrogkne est calculCe a partir de la 
+
+FIG. 4. Influence de la concentration en HF sur le courant de pic 
+aux concentrations suivantes en niobium: (1) 2,21 x lo-' mol/L; (2) 
+1,67 x 10-bol/L; (3) 1.23 x lo-' mol/L. 
+
+loi de Henry (rCfCrence: solution infiniment diluCe de HF dans 
+l'eau): 
+
+Le coefficient de Henry, KHF, est dCterminC a partir de la 
+courbe de variation de PHF en fonction de la concentration (en 
+molaritC). 
+La constante d'kquilibre peut &amp;tre calculCe si on fait l'ap-
+proximation que 1'activitC des complexes du niobium est'Cgale 
+a leur concentration. A la concentration en HF ou le courant est 
+la moitie de sa valeur maximale (HF a SO%), la valeur est de 
+0,7 X 10'. 
+
+Le complexe N~OF,' n'est pas rkductible a l'electrode 
+polarographique et il est responsable de la disparition de la 
+vague de rCduction. La figure 4 montre les courbes obtenues 
+pour trois concentrations de niobium en fonction de la concen-
+tration en HF. Le point de convergence pour la disparition 
+complkte de la vague du niobium est le m&amp;me dans les trois cas, 
+soit 22% en HF. 
+Keller (13) puis Howell et Moss (15) ont dCmontre par spec-
+troscopie que la totalite du niobium se retrouve sous la forme 
+de NbF, dans HF 50% et sous forme N ~O F ~~ 
+dans une solu-
+tion contenant moins de 20% en HF. A partir des donnCes 
+polarographiques, confirmCes par spectroscopie, il est aisC de 
+calculer le pourcentage de chacun des deux complexes en fonc-
+tion de la concentration en HF (Tableau 2). L'accord entre 
+les donnCes spectroscopiques et Clectrochimiques dCrnontre 
+que la reaction d'interconversion est trks lente, a 1'Cchelle de la 
+pCriode de chute de 1'Clectrode a goutte. 
+Keller et Chetham-Strode (20) ont compart le comportement 
+du niobium et du tantale dans les n~Clanges eau -fluorure 
+d'hydrogkne. Le niobium a tendance a s'hydrater lorsque la 
+concentration en HF diminue (1 1). En milieu chlorhydrique, on 
+observe la prkcipitation d'acide niobique a acidit6 dicroissante 
+(7). Dans l'acide fluorhydrique, le complexe N~OFT' trks 
+stable s'observe pour des concentrations infkrieures a 40% en 
+HF. Le tantale forme Cgalement un complexe oxyfluomre mais 
+celui-ci disparait a une concentration de 0 , l mol/L en HF pour 
+faire place au complexe heptafluorC (18). Les complexes hep-
+tafluores Ctant gCnCralement instables, le niobium ne donne le 
+Can. J. Chem. Downloaded from www.nrcresearchpress.com by 87.160.185.190 on 03/27/14 
+
+For personal use only. 
+
+
+2702 
+
+CAN I CHEM. VOL 61. 1983 
+
+TABLEAU 2. Pourcentage des deux complexes fluores du niobium en 
+fonction du pourcentage en fluorure d'hydrogene 
+
+Polarographie 
+Bandes infrarouge actives* (cm-') 
+
+% HF 
+
+N ~F ; N~OF;' 
+N ~F ; 
+
+%N~oF;' 
+
+50 
+-100 
+-0 
+685 (forte) 
+
+-
+
+40 
+93 
+7 
+685 (forte) 
+
+-
+
+3 5 
+7 8 
+22 
+686 (moyenne) 935 (fabile) 
+30 
+60 
+40 
+685 (moyenne) 935 (faible) 
+25 
+36 
+64 
+685 (faible) 
+935 (moyenne) 
+22 
+-0 
+-100 
+
+-
+
+930 (moyenne) 
+
+complexe N~F,' qu'en sel fondu (21) ou la concentration en 
+
+fluorure libre est tres elevCe par rapport aux melanges eau -
+fluorure d'hydrogene. 
+
+Conclusions 
+
+Nous avons ttudiC le comportement polarographique du nio-
+bium dans les melanges eau -fluorure d'hydrogene jusqu'a 
+
+50%. Dans les melanges a 50%, on observe une reduction 
+
+monotlectronique reversible dont le potentiel d e demi-vague 
+
+est de -0,880 V. 
+
+Du point d e vue analytique, il est possible d e determiner la 
+concentration d e niobium contenue dans un minerai avec une 
+
+limite d e detection d e 15 ppm, m&amp;me en presence de tantale. 
+Pour des concentrations en H F inferieures a 45% il y a 
+formation du complexe N ~O F ; ~ 
+
+non riductible, qui devient 
+
+preponderant aux concentrations en H F inferieures a 25%. 
+
+Remerciements 
+
+Nous remercions le Ministere d e 1'Education du Quebec et le 
+Conseil de Recherches en Sciences naturelles et en Genie du 
+Canada pour leur support financier. Nous remercions aussi la 
+
+compagnie NIOBEC pour nous avoir fourni des Cchantillons d e 
+
+minerais analysCs par fluorescence des rayons X. 
+
+1. P. PASCAL. Nouveau trait6 de chimie minirale. Tome VI. Masson 
+et Cic, Paris (1961). 
+2. A. A. VLCEK. Chem. Listy, 49, 260 (1955). 
+3. E. I. KRYLOV, V. S. KOLEVATOVA et U. A. SAMARINA. Zh. 
+Anal. Khim. 11, 144 (1965). 
+4. J. H. KENNEDY. Anal. Chem. 33, 943 (196 1). 
+5. J. D. FERRE'IT et G. W. C. MILNER. J. Chem. Soc. London, 1186 
+(1956). 
+6. G. POPA, R. LERCH et 1. C. CAZACU. An. Univ. Bucuresti Chim. 
+19, 9 (1970). 
+7. G. HENRION et F. ALDER. Z. Chem. 15, 321 (1975). 
+8. P. J. ELVING et E. C. OLSON. Anal. Chem. 28, 338 (1956). 
+9. J. G. MCCULLOUGH et L. MEITES. J. Electroanal. Chem. Inter-
+facial Electrochem. 18, 123 (1968). 
+10. J. G. MCCULLOUGH et L. MEITES. J . Electroanal. Chem. Inter-
+facial Electrochem. 19, l l l (1968). 
+I I . N. S. NIKOLAEV et Yu. A. BUSLAEV. RUSS. J . Inorg. Chem. 4, 
+84 (1959). 
+12. 0. L. KELLER. Inorg. Chem. 2, 783 (1963). 
+13. K. J . PARKER et E. L. MUE'ITERTIES. J . Am. Chem. Soc. 85, 
+3035 (1963). 
+14. J . A. S. HOWELLet K. C. MOSS. J . Chem. Soc. A, 2481 (1971). 
+15. H. MENARD et F. LEBOND-ROUTHIER. Anal. Chem. 50, 687 
+(1978). 
+16. E. P. PARRY et R. A. OSTERYOUNG. Anal. Chem. 37, 1634 
+(1965). 
+17. S. SENDEROFF et G. W. MELLORS. J . Electrochem. Soc. 113, 66 
+(1966). 
+18. A. VAILLANT. These de troisieme cycle. Universit6 Paris 6 
+( 1976). 
+19. M. E. MUNTER, P. AEPLI et H. G. KOSSATY. Ind. Eng. Chem. 
+41, 1504 (1949). 
+20. 0. L. KELLER et A. CHETHAM-STRODE. Inorg. Chem. 5, 367 
+(1966). 
+21. J. S. FORDYCE et R. L. BAUM. Abstract, 150"' National Meeting 
+of the American Chemical Society, Atlantic City, NJ, Sept. 
+13-17, 1965. 
+
+Can. J. Chem. Downloaded from www.nrcresearchpress.com by 87.160.185.190 on 03/27/14 
+
+For personal use only. 
+
+
+
+	
+

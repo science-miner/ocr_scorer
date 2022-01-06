@@ -1,0 +1,886 @@
+
+	
+
+		
+
+	
+
+	
+
+Correlation pK, -activite catalytique des thiols dans la reaction d'hydrolyse 
+
+de l'acetate de p-nitrophenyle 
+
+ALAIN BREMBILLA, DENIS ROIZARD, JACQUELINE SCHOENLEBER ET PIERRE LOCHON' 
+
+Laboraroire de Chinlie-physiq~te Mncromoleculaire, C.N.R.S. -E.R.A. 23, 
+Ecole Nariorlale S~tperieure des 11lclusrrie.s Chirniq~tes, I , r~te Grcl~ldville. 54042 Nancy Cedex, Frarzce 
+Recu le 6 fCvrier 1984 
+
+ALAIN BREMBILLA. DENIS RoIZARD, JACQUELINE ~C H O E N L E B E R et PIERRE LOCHON. Can. J. Chem. 62, 2330 (1984). 
+
+L'Ctude cinitique de I'hydrolyse de I'acCtate dep-nitrophknyle en prCsencc de thiols primaires montre une activitC catalytique 
+provenant de I'ion thiolate seul. La comparaison des constantes de second ordrc k ~~-met en evidence un comportement 
+diffirent des thiols primaires purement aliphatiques et des thiols primaires substituis en position a par un groupement 
+
+aromatique. Dans ce dcrnier cas apparait une corrClation de Bronsted log ~R S -= PpKsH + C avec P = 0,40 et C = -0,85. 
+
+ALAIN BREMBILLA, DENIS ROIZARD, JACQUELINE SCHOENLEBER, and PIERRE LOCHON. Can. J. Chem. 62, 2330 (1984). 
+
+The kinetic study of the hydrolysis of p-nitrophenylacetate in the presence of primary thiols indicates the thiolate anion as 
+the sole catalytic species. Comparison of the true second order rate constants (kRs-) reveals that purely aliphatic primary thiols 
+behave differently from aromatic a-substituted primary thiols. In the latter group a correlation can be established between the 
+
+true second order rate constants and the pKsH values by means of the Bronsted equation log kRs-= PPKsH + C , with P equal 
+
+to 0.40 and C equal to -0.85. 
+
+Introduction 
+Les enzymes protColytiques comme la papa'ine, la ficine ou 
+la bromela'ine possedent en plus du noyau imidazole de 
+l'histidine un groupe thiol contenu dans le motif cystei'ne qui 
+est essentiel pour leur activitC d'esterases. Le mCcanisme d'ac-
+tion de ce type d'enzymes apparait comme le rCsultat probable 
+d'une coopCration entre un groupe nucleophile et un site basi-
+que dans une catalyse plurifonctionnelle. Cette hypothese a 
+incitC certains chercheurs a rCaliser l'association des fonctions 
+prCcCdentes sur des molCcules simples (mercaptoalcoyl-4 
+imidazoles) (1, 2) ou sur des macromol~cules formCes 
+d'enchainements peptidiques allant du dipeptide a quelques 
+polypeptides (3, 4). Une premikre Ctude a Ct C rCalisCe au La-
+boratoire sur de nouvelles molCcules formCes d'une chaine 
+alcoylthiol en position 2 d'un cycle benzimidazole, (les 
+
+mercaptoalcoyl-2 benzimidazoles) (3, dans la rCaction 
+
+d'hydrolyse de l'acktate de p-nitrophCnyle. Cependant, 
+I'interprCtation des effets catalytiques particuliers de ces thiols 
+hCtCrocycliques exige la connaissance des propriCtCs gCnCrales 
+de la fonction sulfhydryle seule dans ce domaine. 
+Les travaux mentionnks actuellement dans la littCrature con-
+cement soit des thiols aliphatiques comportant un substituant 
+susceptible d'engendrer une activitt catalytique supplCmentaire 
+(6-8), soit des thiols aromatiques (9, 10). Ces composes cons-
+tituant des cas particuliers, il est apparu necessaire d'etendre 
+1'Ctude sur des exemples plus nombreux, en Clargissant 1'6-
+chelle des pK, et tout en Cvitant d'introduire des fonctions 
+
+RS-+ PNPA # 
+
+parasites. Pour permettre une meilleure comparaison avec les 
+molCcules bifonctionnelles (en particulier les mercaptoalcoyl-2 
+benzimidazoles) la structure des mercaptans CtudiCs prCsente 
+une certaine similitude (-CH2-SH) 
+au voisinage du groupe 
+
+fonctionnel. Les composCs repondant le mieux a cette condi-
+
+tion sont les benzylmercaptans, facilement synthitisables et 
+dont la nature et la position du substituant (para ou me'ta) sur 
+le noyau benzCnique permettent d'obtenir une gamme assez 
+Ctendue de pKsH. L'activitC catalytique de ces thiols est com-
+parCe 2 celle de composCs prCsentant une structure voisine 
+
+comme le furyl-2 mkthanethiol et d'autre part 2 celle d'C-
+
+thanethiols P substituCs tels que la cystkamine, le mercapto-2 
+
+Cthanol ou le phCnyl-1 Cthanethiol. 
+
+Proprietes catalytiques 
+Les propriCtCs catalytiques de ces thiols ont Ct C CtudiCes en 
+prenant comme rkaction de base l'hydrolyse de l'acktate de 
+
+p-nitrophenyle (PNPA). Celle-ci est suivie 2 un pH donnC en 
+
+dkterminant par spectromCtrie uv la quantitC d'ion p-nitro-
+phtnolate (PNP-) libCrCe en fonction du temps. 
+Dans ce type de rCaction catalysCe par un thiol, il a Ct C 
+dCmontrC (7) que la premiere Ctape est l'etape lente avec for-
+mation d'un thiolester via un intermediaire tCtraCdrique d'addi-
+tion, qui est ensuite trks rapidement hydrolysC si le pH est 
+
+supCrieur a 6,9; il n'est alors plus possible de dCceler une 
+
+quantitC apprCciable de ce composC dans le milieu rkactionnel. 
+Pour dCfinir un ordre 1 par raport a l'ester, il n'est donc pas 
+
+' Personne i qui toute correspondance devrait Ctre adressie. 
+
+Can. J. Chem. Downloaded from www.nrcresearchpress.com by 87.160.185.190 on 03/27/14 
+
+For personal use only. 
+
+
+-LA ET AL. 
+
+233 1 
+
+FIG. 1. ReprCsentation de I'avancement de la rkaction d'hydrolyse 
+de I'acCtate de p-nitrophinyle (2 X 
+M) catalysCe par le nitro-4 
+benzylrnercaptan ?i diffkrents pH et ?i differentes concentrations. Tern-
+pCrature: 30°C, solvant: eau-Cthanol(28,5% d'Cthanol vol.), tampon: 
+phosphates (0,134 M) 1 = 0,268; pH = 7,65, c = 2,23 x 
+M; pH 
+= 7,85, c = 1,69 x lo-" M; pH = 8,05, c = 1,96 x 
+
+M. 
+
+nCcessaire d'utiliser le thiol en large excks. Dans ces condi-
+tions, la cinCtique du pseudo premier ordre s'exprime par la 
+relation: 
+d [PNPA] d [PNP-] 
+V(vitesse globale) = -
+
+-
+
+dt 
+dt 
+-kobs [PNPAl 
+kobs = constante de vitesse globale de la rCaction avec 
+
+kobs = kl + khydr 
+
+k, = constante de vitesse de pseudo-premier ordre de la 
+reaction catalyske 
+khydr = constante de vitesse globale de la rkaction non 
+catalysee (hydrolyse propre de I'ester). 
+
+Les valeurs de khydr sont dCterminCes stparCment pour chaque 
+valeur du pH dans des conditions identiques a celles de la 
+catalyse. 
+
+Comme pour les dtrivCs imidazoliques simples ne possCdant 
+qu'une seule fonction a caractkre catalytique nuclCophile 
+(l'imidazole et le benzimidazole (1 1 -13)) la reaction 
+d'hydrolyse du PNPA catalysCe par ces thiols simples est du 
+pseudo premier ordre pour des concentrations e n catalyseur 
+Cgales et mCme inferieures a celles du substrat (fig. 1). En 
+effet, pour un pH donnC (fix6 par la solution tampon), 
+l'expressionx = f (t), reprksentant l'avancement de la rkaction, 
+varie 1inCairement avec le temps. Ce comportement a pu Ctre 
+verifiC pour certains composCs jusqu'a un taux de conversion 
+voisin de 50%, mais dans la pratique, les essais ont Ct C limitCs 
+a 25% d'avancement afin d'analyser principalement le dCbut de 
+la rCaction et d'kiter par la suite le phinomkne d'oxydation du 
+catalyseur qui intervient de manikre non dgligeable. 
+
+examen en du tableau 1 montre que la constante apparente du 
+
+second ordre k; = kl/[thiol],o,,, qui caractCrise I'efficacitC du 
+catalyseur a un pH donnC, croit avec celui-ci mais reste inva-
+riante quelle que soit la valeur de rapport [catalyseurll 
+[substrat] (supCrieur ou infkrieur a l), pour ce mCme pH. 
+Dans la sCrie des benzylmercaptans, la constante k; dCpend, 
+a pH donnC de la basicit6 de I'ion thiolate et par consCquent de 
+la nature du substituant sur le noyau benzknique. Sa variation 
+est identique en premikre approximation a celle du pouvoir 
+donneur du substituant, ce dernier diminuant selon la sCquence 
+
+de substitution p-0CH3 &gt; -&gt; p-NO?. 
+
+St!paration des effets catalytiques 
+L1interprCtation de I'activitC catalytique des thiols implique 
+la prise en considkration des diffkrentes formes sous lesquelles 
+peuvent exister ces composts dans le milieu rkactionnel: RS-, 
+l'ion thiolate, caractiris6 par la constante spCcifique kRS-, et 
+Cventuellement la forme neutre RSH (constante spicifique 
+kRSH). Ces deux constantes sont relikes a kl et k; par les relations 
+suivantes: 
+
+k, = k; ([RS-] + [RSH]) = kRs-[RS-] + ~RS,[RSH] 
+
+En combinant avec la relation donnant la constante d'equilibre 
+acide-base 
+
+KSH 
+
+RSH + Hz0 
+RS-+ H10+ 
+
+nous obtenons I'expression: 
+
+kRS-+ ~R S H avec aH = [H30'] 
+
+La dktermination des constantes spCcifiques du deuxibme 
+ordre pour la rCaction d'hydrolyse du PNPA catalysCe par quel-
+
+ques thiols courants associes i une autre fonction conduisait 
+Whitaker (7), puis Ogilvie et al. (8) a admettre que seul l'ion 
+thiolate est responsable de I'activitC catalytique. Les rksultats 
+que nous rapportons portent sur un plus grand nombre de com-
+posCs ne comportant que la fonction thiol et pour une Cchelle 
+de pK, beaucoup plus large. 11s confirment et gCnCralisent la 
+conclusion prCcCdente. En effet, mCme en tenant compte de 
+I'imprCcision expCrimentale, le track du diagramme Y = 
+f (l/aH) se compose d'un ensemble de droites passant par l'ori-
+gine (fig. 2), I'ordonnCe a l'origine calculCe, qui reprCsente la 
+constante spCcifique kRsH de la molecule a 1'Ctat neutre, a une 
+
+valeur nkgligeable (-0,4 &lt; kRSH &lt; +0,4). L'espkce thiol neu-
+
+tre ne prisente donc dans ce cas aucune rCactivitC sur la fonc-
+tion carbonyle de l'ester et l'effet catalytique est uniquement 
+attribuC l'ion thiolate. La constante specifique kRs-(tableau 1) 
+est dCterminCe a partir de la pente de la droite Y = f(l/aH) 
+correspondante (mCthode des moindres carris). Nous obser-
+vons en outre une bonne concordance entre les valeurs de kRS-
+ainsi obtenues et celles calculCes (tableau 1) pour chaque valeur 
+du pH et de la concentration en catalyseur, par la relation: 
+
+(I'imprCcision Ctant plus grande dans le cas du cyclohCxyl-
+mkthanethiol, qui prCsente une trks faible rCactivitC). 
+Pour l'ensemble des thiols CtudiCs, la constante spkcifique 
+kRS-est indkpendante de la concentration en catalyseur et du 
+pH. L'invariance de kRS-montre que mCme a des pH ou la 
+concentration en ions thiolate est faible, la forme non ionique 
+du groupe thiol ou le reste de la molCcule (cycle benzCnique, 
+furanne) n'ont pas d'action dCcelable. Ce rksultat est Cgalement 
+observC dans le cas des thiols comportant une fonction sus-
+ceptible d'accroitre I'activitC catalytique certains pH (supt-
+Can. J. Chem. Downloaded from www.nrcresearchpress.com by 87.160.185.190 on 03/27/14 
+
+For personal use only. 
+
+
+2332 
+
+CAN. J. CHEhl. VOL. 62. 1984 
+
+TABLEAU 1. Constantes de vitesse de premier et second ordre pour la rCaction d'hydrolyse de I'acCtate de p-nitrophinyle (2 x lo-' M) catalysCe 
+par les diffkrents thiols" 
+
+PKSH 
+PH 
+[RSHI, 
+[RS-I 
+kotn -khydr 
+ki(+2%) 
+kRs-(+6%)" 
+k ~s -' 
++0,02 
+t 0 , 0 2 
+10' M -' 
+10' M -I 
+10' min-' 
+
+M -l 
+
+min-l 
+
+M-I 
+Thiols 
+M -' min-' 
+
+7-65 
+5.14 
+0,0315 
+52.1 -9,2 
+8,3 
+7.24 
+0,044 
+68.3 -9,2 
+8,2 
+p-Mithoxybenzy l 
+4-13 
+0,04 
+67.7 -13.9 
+13 
+mercaptan 
+9.86 
+6.45 
+0,063 
+97,9 -13,9 
+13 
+7,85 
+
+10 
+0,152 
+227 -19,5 
+20,s 
+8105 
+10.47 
+0,160 
+239 -19,5 
+2 1 
+
+5.43 
+0,042 
+54,4 -9,2 
+7,65 
+8,3 
+3,OO 
+0.023 
+34 -9.2 
+8 2 
+p-MCthy lbenzyl 
+3,85 
+0.047 
+64.7 -13.9 
+13,2 
+mercaptan 
+9.76 
+7385 
+4.8 
+0.058 
+76 -13.9 
+13 
+5.86 
+0,11 
+I39 -19.5 
+20.4 
+8,05 
+5.3 
+0,lO 
+127 -19.5 
+20,3 
+
+7.57 
+0,088 
+84.7 -9.2 
+10,O 
+7,65 
+3,47 
+0.04 
+42.7 -9.2 
+9.8 
+m-Methylbenzyl 
+4.35 
+0,08 
+82 -13.9 
+15,7 
+mercaptan 
+9.58 
+7385 
+3.88 
+0.07 
+75.5 -13,9 
+15,9 
+7-36 
+0,21 
+197 -19,5 
+24.1 
+8,05 
+6 7 
+0.19 
+180.7 -19,5 
+24 
+
+Benzylmercaptan 
+
+p-Fluorobenzyl 
+mercaptan 
+
+p-Chlorobenzyl 
+mercaptan 
+
+p-Bromobenzyl 
+mercaptan 
+
+m-Fluorobenzyl 
+rnercaptan 
+
+6,96 
+0,238 
+145,s -9,2 
+19,65 
+573 
+7,65 
+7,12 
+0,244 
+151 -9,2 
+19,9 
+582 
+
+(Furyl-2) 
+5,44 
+0,289 
+183 -13,9 
+3 1 
+585 
+576 
+rnithanethiol 
+9.10 
+5.52 
+0,294 
+183,7 -13,9 
+3 1 
+579 
+7,85 
+log kRs-= 2,76 
+7,90 
+0,646 
+389,s -19,5 
+46,9 
+573 
+8,05 
+6,74 
+0,55 1 
+339.7 -19,5 
+4 7 3 
+580 
+
+Can. J. Chem. Downloaded from www.nrcresearchpress.com by 87.160.185.190 on 03/27/14 
+
+For personal use only. 
+
+
+BREMBlLLA ET AL. 
+
+TABLEAU 1. (suite et fin) 
+
+PKSH 
+
+PH 
+[RSHI, 
+[RS-I 
+
+kobr -khydr 
+
+k;(f2%) 
+k ~s -( 5 6 % ) ~ 
+
+kuS-' 
+
+Thiols 
+?0,02 
+f0,02 
+lo4 M-' 
+lo4 M-' 
+loJ rnin-' 
+
+M -l 
+
+M-I rnin-l 
+M-' min-' 
+
+p-MCthylsulfonyl 
+benzylmercaptan 
+
+m-Nitrobenzyl 
+rnercaptan 
+
+p-Nitrobenzyl 
+mercaptan 
+
+PhCnyl-2 
+Cthanethiol 
+
+Mercapto-2 
+Cthanol 
+
+CyclohCxylmCthane 
+thiol 
+
+"Solvant: eau-ethanol (28,596 d'ethanol vol.), T = 30°C. tampon phosphates (0,134 M ) I = 0,268. 
+b k ~~-calcule pour chaque valeur de la concentration en catalyseur et du pH. 
+' ~R s -par la pente de la droite Y = f(l/aH); pKsH determints dans un melange eau-ethanol (28,596 d'ethanol vol.), T = 3OoC, (solutions 10-3 M 
+sans addition de KCI). 
+
+rieurs au pK,) pour le mercapto-2 tthanol et la cysttamine. 
+(15). Pour les dCrivCs para ou mtta substituCs nous obtenons 
+Dans ce dernier cas, l'espkce R(NH:)S-est prCpondCrante aux 
+une droite unique d'Cquation: 
+pH Ctudits (7,65 a 8,05) (14) et donc responsable de l'activitt 
+catalytique. 
+
+pKsH = -1,300 + 9,5 avec R = 0,99 
+
+Influence de la basicitt de l'anion sur sa nucltophilie 
+Le but de cette Ctude cinitique sur ces thiols simples est essen-
+La basicitt de l'ion thiolate dCfinie par la mesure du pKsH 
+tiellement d'examiner s'il existe une relation entre 1'activitC 
+varie avec la nature du substituant dans une serie de composCs 
+catalytique de l'ion thiolate et sa basicitC. Pour cela nous uti-
+homologues. Dans le cas des benzylmercaptans il est possible 
+lisons une con~lation de Bronsted entre la constante spCcifique 
+dYCtablir une conklation de Hammett (fig. 3) entre le pKsH de 
+de l'anion et le pK, de la fonction thiol. Le diagramme log kRs-
+la fonction thiol et les constantes classiques de substituants 
+vs. pKs, (fig. 4) prCsente un bon alignement des points reprt-
+Can. J. Chem. Downloaded from www.nrcresearchpress.com by 87.160.185.190 on 03/27/14 
+
+For personal use only. 
+
+
+2334 
+
+CAN. I. CHEM. VOL. 62. 1984 
+
+FIG. 2. ReprCsentation de Y = f (l/aH) pour I'hydrolyse de I'acC-
+tate de p-nitrophCnyle catalysCe par les differents thiols: ben-
+zylmCthanethiols me'ta ou para substituis, 1 cystCamine, 2 mercapto-2 
+Cthanol, 3 phCnyl-2 Cthanethiol, 4 cyclohexylmCthanethiol,5 (furyl-2j 
+methanethiol; T = 30°C; melange eau-Cthanol (28,5% d'tthanol 
+vol.); tampon phosphates (0,134 M) I = 0,268. 
+
+sentatifs des benzylmercaptans mtta et substituCs ainsi 
+que du composC de mCme structure, le furyl-2 mkthanethiol. 
+
+La mCthode des moindres carrCs conduit 5 la relation: 
+
+Pour les ions thiolate avec un environnement sterique et Clec-
+tronique diffkrant peu d'un composC a l'autre, il existe un 
+parallkle entre la vitesse d'attaque du nucleophile sur le centre 
+Clectrophile et 17affinitC de ce mCme nuclCophile pour le proton 
+exprim6 par sa basicitC. 
+
+Dans le cas particulier des dCrivCs P substituks de 1'6-
+
+thanethiol (cystearnine, mercapto-2 Cthanol et phCnyl-2 
+Cthanethiol), la dCviation negative de leurs points reprksentatifs 
+
+par rapport a la droite pr6cCdente ne peut etre attribuCe a des 
+
+erreurs experimentales, mais plut6t 2 une diminution de l'ac-
+tivitC catalytique de l'anion due une augmentation de la lon-
+gueur de la chaine aliphatique entre le site catalytique et le 
+noyau aromatique ou toute autre fonction. Nous constatons 
+ainsi un accroissement de nuclCophilie de l'anion lorsque le 
+
+centre rCactionnel n'est sCpart d'un cycle a caractere aro-
+
+matique que par un seul groupe mkthylkne. Une observation 
+analogue est faite lors de 1'Ctude de la rCactivitC d'un thiol 
+comportant un groupe cyclohexyle separC du site actif par un 
+
+FIG. 3. CorrClation de Hammett pour les pKsH des benzylmkthane-
+thiols. 
+
+seul methylene (le cyclohexylmethanethiol). La diminution de 
+nuclCophilie de l'anion par rapport a celle d'un ben-
+zylmercaptan de mCme pKsH semble provenir du caractere 
+
+saturC du groupe fix6 en position P. 
+
+L'Cquation de Bronsted trouvCe pour la sCrie des benzyl-
+mercaptans est tres comparable a celle obtenue par Ogilvie 
+et al. (8) (0,38 pKsH -0,75) pour la reaction d'alcanethiols sur 
+le PNPA dans un melange eau-dioxanne (1 % de dioxanne en 
+
+volume) a 25°C. La valeur P = 0,4 que nous obtenons con-
+
+firme que la sensibilitC a la basicit6 d'un nuclkophile dans les 
+rCactions avec I'acCtate de p-nitrophknyle est plus faible dans 
+le cas des bases contenant un atome de soufre que pour les 
+bases oxygCnCes ou azotCes (12). Ce rCsultat rejoint les conclu-
+sions d'ogilvie et al. (8) selon lesquelles, d'un point de vue 
+purement biologique, un thiol possCdant un faible pKsH sera un 
+nuclCophile tres efficace dans le domaine des pH phy-
+
+siologiques. Toutefois, la cornparaison des constantes P pour 
+
+diffkrents types de nuclCophiles nkcessite certaines rkserves 
+dans la mesure ou la structure de 1'Ctat de transition varie avec 
+la nature des composCs (16). 
+
+Conclusion 
+L'Ctude des propriCtCs catalytiques sur l'hydrolyse de 1'acC-
+tate de p-nitrophknyle d'une sCrie de mkthanethiols a substituks 
+par des groupements aromatiques confirme et gCnCralise les 
+premieres conclusions avancCs par Whitaker (7) en montrant 
+que la fonction thiol est effectivement un catalyseur de type 
+
+nucleophile uniquement sous la forme thiolate, mCme a tres 
+
+faible concentration, selon un mCcanisme caracterisk par une. 
+premikre Ctape lente d'attaque sur le groupe carbonyle. La 
+molCcule a 1'Ctat neutre ne participe aucunement a la reaction. 
+
+Partie experimentale 
+Me'thode ge'ne'rale de pre'paration des benzylmercaptans 
+(MCthode i la thiourke -i l'exception des dCrivCs nitrCs, qui nCces-
+sitent un proctdt particulier). 
+A partir d'un alcool (17, 18) 
+On porte i reflux, sous courant d'azote pendant 24 h, un mtlange 
+de 0,l mol d'alcool benzylique appropriC, 0,3 mol d'acide brom-
+hydrique i 48% et 0,l mol de thiourke. Au mClange prtalablement 
+refroidi on ajoute 129 mL d'une solution de soude i 10%. On laisse 
+poursuivre la rtaction d'hydrolyse pendant 6 h i 100°C. toujours sous 
+courant d'azote, mais sans agitation. 
+I1 se forme une couche huileuse qui est sCparCe de la phase aqueuse. 
+Can. J. Chem. Downloaded from www.nrcresearchpress.com by 87.160.185.190 on 03/27/14 
+
+For personal use only. 
+
+
+BREMBILLA ET AL 
+
+FIG. 4. ComClation de Brijnsted pour la reaction des ions thiolates avec I'acetate de p-nitrophknyle dans un melange eau-Cthanol (28,5% 
+
+dlCthanol vol.) a la temperature de 30°C; e benzylmCthanethiols; @ 1 cystearnine, 2 mercapto-2 ethanol, 3 phenyl-2 ethanethiol, 4 cyclohexyl-
+
+mithanethiol, 5 (furyl-2) mithanethiol. 
+
+Apres refroidissement, la phase aqueuse est acidifiee et le thiol extrait 
+
+B 1'Cther. L'extrait ether6 est m6langC a la phase organique, puis sCch6 
+
+sur sulfate de calcium. Apres evaporation du solvent, I'huile est dis-
+tillee sous vide pour donner le benzylmercaptan recherche qui est 
+consew6 sous argon et a l'abri de la lumiere. 
+Le rendement de la reaction varie entre 60 et 80% selon l'alcool 
+utilisi. 
+
+A partir d'un dirivi halogini 
+Un melange de 1,12 mol de thiourCe et 0,37 mol de derive halogen6 
+
+dans 60 mL d'eau est porte i reflux sous courant d'azote pendant 6 h. 
+
+A la solution refroidie on ajoute 2 mol de potasse dans 200 mL d'eau 
+et on laisse poursuivre l'hydrolyse a 100°C pendant 6 h sous courant 
+d'azote et sans agitation. La suite des operations est identique a celle 
+dCcrite dans la methode precedente. 
+
+CaractCristiques physiques 
+(solvant de recristallisation, 
+Benzyltnercaptans 
+Produit de 
+point d'ibullition, 
+(substituant nuclkaire) 
+depart 
+point de fusion) 
+
+p-CH, 
+Alcool 
+Eb 53°C sous 1 Tom 
+litt. (19) Eb14 = 99°C 
+tn-CH, 
+Alcool 
+Eb 49°C sous I Tom 
+litt. (19) Eblz = 90°C 
+P-F 
+Alcool 
+Eb 45°C sous I Tom 
+m-F 
+Alcool 
+Eb 23°C sous 0,6 Tom 
+litt. (20) Eb, = 45°C 
+p-Br 
+Bromure 
+P.F. = 25°C litt. (21) 
+
+F" = 25°C 
+
+p-CH,SO2 
+Bromure 
+Distillation sous vide 
+
+F" = 46°C 
+
+Cyclohexylmethanethiol 
+Alcool 
+Ebl = 54°C sous I I Tom 
+
+La cystearnine, le mercapto-2 ethanol et le phCnyl-2 ethanethiol 
+sont des produits commerciaux, ainsi que le furyl-2 methanethi01 et les 
+benzylmercaptans (p-OCH,, p-CI. H). 
+
+mL) et 2,3 mL de dimethylformamide. Aprks elimination du chlorure 
+de thionyle excedentaire par distillation, le chlorure d'acide est ensuite 
+recristallise dans le benzene; F = 129"C, rendement 85%. 
+
+Preparation drc mithylsulfonyl-4 benzoate d'6thyle 
+On ajoute i froid, par petites quantites, 0,086 mol du chlorure 
+d'acide dans un melange alcool-pyridine. Celui-ci est chauffk au bain 
+marie pendant 3 h, tout le chlorure passe alors en solution. Apres 
+refroidissement le produit pricipite en masse. 11 est essorC, puis 
+
+abondamment lave l'eau pour eliminer la pyridine, puis 21 1'Cther de 
+
+pitrole. L'ester est recristallisC dans le benzene; F = 96-97°C. Ren-
+dement apres recristallisation: 84%. 
+
+Riduction cle l'esrer 
+Borohydrure de lithium (0,025 mol) 6 99% dans 25 mL de diglyme 
+anhydre sont verses dans un ballon tricol equip6 d'une agitation. On 
+ajoute par petites portions 0,04 rnol de mCthylsulfonyl-4 benzoate 
+d'tthyle (9, 12 g) et on chauffe le melange au bain marie pendant 3 h. 
+La solution obtenue est ensuite versCe dans 50 g de glace pilie con-
+tenant 5 mL d'acide chlorhydrique concentre. Apres extraction a 
+I'Cther et evaporation j. sec, l'alcool obtenu a un aspect sirupeux et 
+
+recristallise trks difficilement. I I sera utilise sans autre purification. 
+
+Rendement en produit brut: 90%. Le diglyme utilisC est purifiC selon 
+une mCthode decrite par Brown er al. (22). 
+
+Bronlation de I'alcool rnithylsulfbrz~~l-4 benz.vliqlre 
+Nous avons adapt6 une methode de bromation des alcools decrite 
+par Kamm ct Marvel (23). On ajoute goutte i goutte 2 g d'acide 
+sulfurique concentre dans un melange de 0,04 mol de I'alcool prCcC-
+dent, 0,49 mol d'acide bromhydrique h 48% et 2.5 g d'acide sul-
+furique concentre. La solution est portee h reflux pendant 6 h, puis 
+versee dans de la glace pilee. Le bromure prkcipite sous forme de fines 
+plaquettes. Le produit est recueilli sur verre fritte. et lave i l'eau froide 
+pour tliminer I'acide. Recristallation dans un melange (mCthylcyclo-
+hexane-benzkne, 50:50 en volume); rendement quantitatif; F = 
+97°C. 
+
+Priparation des p-et m-~~itrober~zyl~nercaptat~s 
+
+Synthhe du brotnure de mithylsulfonyl-4 benzyle 
+Les thiocyanates 
+
+Ce compost n'est pas commercialisC, il a donc fallu envisager sa 
+
+A 0, I mol de chlorure de p-ou m-nitrobenzyle dissoute dans 150 
+synthkse i partir de l'acide p-mCthylsulfonylbenzo'ique. 
+
+mL d'alcool absolu. on ajoute par petites quantites et sous bonne 
+agitation 0 , l rnol de thiocyanate de potassium sec et on porte le 
+Priparation du chlorure de mirhylsulfor~yl-4 benzoyle 
+
+melange A reflux pendant 6 h. La suspension est ensuite filtr~e-8 chaud 
+
+On porte 21 reflux pendant 4 h un melange de 0,101 mol d'acide 
+afin de sCparer le chlorure de potassium qui a pr6cipitC au cours de la 
+p-mCthylsulfonylbenzoYque, 0,303 mol de chlorure de thionyle (23 
+reaction. Le thiocyanate cristallise aprks refroidissement du filtrat. 
+
+Can. J. Chem. Downloaded from www.nrcresearchpress.com by 87.160.185.190 on 03/27/14 
+
+For personal use only. 
+
+
+2336 
+
+CAN. I. CHEM. \ IOL. 62. 1984 
+
+Recristallisation dans l'alcool; rendement: 93%; derive para: F = 
+86°C; dCrivCe mPta: F = 72°C. CaractCrisation par spectroscopie 
+infrarouge, w(SC-N): bande fine et intense a 2150 cm-'. 
+Hydrolyse du thiocyanat~ par l'acide sulficrique 
+Le dCrivC thiocyanatC (1 g) est ajoutC dans 10 g d'acide sulfurique 
+36 N refroidi 0°C. La solution est ensuite maintenue a 0°C sous 
+agitation pendant une nuit, puis versCe dans un mtlange eau-glace. 
+Le prCcipitt forme (thiolamide) est essorC et lave plusieurs fois a l'eau; 
+rendement quantitatif. 
+Le compost para est recristallise dans l'alcool absolu, F = 
+140-141 "C; le dCrivC mPta dans le benzkne, F = 122-123°C. Sur le 
+spectre infrarouge on remarque la disparition de la bande v(SCN) et 
+
+l'apparition de la bande amide 1 w(C=O) i 1660 cm-I. 
+
+Hydrolyse de la thiolarnide 
+Un melange de 0,l mol de thiolamide dans 150 mL d'acide chlo-
+rhydrique 6 Nest port6 a reflux sous azote pendant 12 h. Le mercaptan 
+lib&amp;re au cours de la rCaction est extrait ii I'Cther, sCcht sur sulfate de 
+calcium puis distill6 sous vide ou recristallisk; rn-nitro, Eb 1 10°C sous 
+0,6 Torr (1 Torr = 133.3 Pa); p-nitro recristallisC dans 1'Cther de 
+pCtrole F = 55"C, litt. (24) F = 55°C. 
+
+CaractPristiques spectrales des dzffirents thiols 
+Spectroscopie infrarouge 
+Les spectres ir ont Ct C enregistrts sur un spectrometre Unicam SP 
+1200, cependant, l'absorption lite au mouvement d'klongation w(SH) 
+se manifeste vers 2550 cm-' mais elle est trop peu intense pour la 
+considCrer comme dkterminante. 
+SpectromPtrie de re'sonance magnktique nucliaire (proton) 
+Les caractkristiques sont obtenues a partir d'un appareil Hitachi R 
+24-A 60 Mz. Les composts sont CtudiCs a I'Ctat pur pour les liquides 
+et en solution dans le chloroforme deutCriC pour les solides (la rCfC-
+rence interne Ctant le TMS). Le signal qui caractkrise la fonction thiol 
+apparait dans les benzylmercaptans et le cyclohexylmethanethiol sous 
+la forme d'un triplet resultant du couplage du proton SH et des protons 
+mCthyleniques. La position du pic central de ce signal se situant aux 
+environs de 1,7 ppm. 
+Dosage chimique du groupe mercaptan 
+L'analyse ClCmentaire ne permet pas de s'assurer que la totalit6 du 
+soufre contenu dans ces composes est prCsent uniquement sous la 
+forme de fonctions thiols. Nous avons eu recours a une methode de 
+caractkrisation chimique quantitative du groupe mercaptan dCcrite par 
+Saville (25). L'tvaluation du taux de fonction thiol est en outre rendu 
+nCcessaire pour les essais cinCtiques. 
+Etude acidimktrique 
+Les fonctions thiols incluses dans les composes examines peuvent 
+&amp;tre dostes par acidimktrie. Les pKsH correspondants sont obtenus a 
+partir des courbes de neutralisation et les pH mesurCs au moyen d'un 
+
+appareil Tacussel TS 70/NI. On opkre i 30°C -+ 0,1, sous atmosphkre 
+
+d'azote dans le melange eau-Cthanol (28,5% d'ethanol en volume). 
+La prCcision est estimke a -+0,02. 
+Mesures cinitiques 
+Les mesures ont lieu dans des milieux constituCs, en raison de la 
+solubilitt de certains thiols, de 28,5% d'alcool et 71,5% d'eau. Le pH, 
+ainsi que la force ionique du milieu, sont maintenus constants ii l'aide 
+de solution tampons, tandis que la temperature est fixCe a 30°C 2 0 , l . 
+Les tampons normalement utilisks sont des solutions aqueuses de 
+dihydrogCnophosphate de potassium et d'hydrogCnophosphate de so-
+dium selon Clark et Lubs (26) la concentration totale de 0,134 M et 
+une face ionique I = 0,268. 
+La concentration en ester est fixte 2 X 
+M. L'ester et le 
+
+catalyseur sont intimement mClangCs puis dissous dans la quantitC 
+nCcessaire d'alcool. On complkte alors au volume desirC (100 mL) par 
+la solution aqueuse tampon a 30°C. Le temps t = 0 est pris au moment 
+oh I'on atteint le volume final. Une partie de la solution est alors 
+transvasCe dans la cellule de mesure. Les vitesses de rCaction sont 
+suivies par enregistrement a l'aide d'un spectrophotometre uv-visible 
+Hitachi 320. Les mesures sont faites a 405 nm maximum d'absorption 
+du p-nitrophinolate. La formation d'ions est relite a la disparition de 
+l'ester par la relation [ester] = [esterlo -D/E,~, X 1 avec 1 = 1 cm, 
+D = densitt optique a 405 nm, E, , , est le coefficient d'extinction 
+molaire apparent a 405 nm et au pH considCrC. 11 est directement 
+determine dans les memes conditions que les mesures cinttiques sur 
+le p-nitrophtnol et varie de 1,38 a 1,85 x lo4 L M -' cm-' dans le 
+domaine des pH utilisCs. 
+
+1. F. SCHNEIDER. Hoppe Seyler's Z. Physiol. Chem. 348, 1034 
+(1967). 
+2. F. SCHNEIDER et H. WENCK. Hoppe Seyler's Z. Physiol. Chem. 
+350, 1653 (1969). 
+3. J. C. SHEEHAN, G. B. BEN NET^ et J. A. SCHNEIDER. J. Am. 
+Chem. Soc. 88, 3455 (1966). 
+4. E. KATCHALSKI, G. D. FASMAN, E. SIMONS, R. BLOUT, F. R. N. 
+GURD et N. L. KOLTON. Arch. Biochem. Biophys. 88, 361 
+(1960). 
+5. P. LOCHON et J. SCHOENLEBER. Tetrahedron, 32, 3023 (1976). 
+6. W. P. JENCKS et J. CARRIUOLO. J. Am. Chem. Soc. 82, 1778 
+(1960). 
+7. J. R. WHITAKER. J. Am. Chem. Soc. 84, 1900 (1962). 
+8. J. W. OGILVIE, J. T. TILDON et B. S. STRAUCH. Biochemistry, 3, 
+754 (1964). 
+9. G. R. SCHONBAUM et M. L. BENDER. J. Am. Chem. Soc. 82, 
+1900 (1960). 
+10. G. GUANTI, C. DELL'ERBA, F. PERO et G. LEANDRI. J. Chem. 
+Soc. Perkin Trans. 2, 212 (1975). 
+11. T. C. BRUICE et G. L. SCHMIR. J. Am. Chem. Soc. 79, 1663 
+(1957). 
+12. T. C. BRUICE et R. LAPINSKI. J. Am. Chem. Soc. 80, 2265 
+(1958). 
+13. T. C. BRUICE et G. L. SCHMIR. J. Am. Chem. Soc. 80, 148 
+(1958). 
+14. R. E. BENESCH et R. BENESCH. J. Am. Chem. Soc. 77, 5877 
+(1955). 
+15. H. H. JAFFE. Chem. Rev. 53, 91 (1953). 
+16. F. G. BORDWELL et W. J. BOYLE. J. Am. Chem. Soc. 94, 3907 
+(1972). 
+17. J. M. SPRAGUE et T. B. JOHNSON. J. Am. Chem. Soc. 58, 1837 
+(1937). 
+18. R. L. FRANK et P. V. SMITH. J. Am. Chem. Soc. 68, 2103 
+(1946). 
+19. J. V. BRAUN, W. MAY et R. MICHAELIS. Ann. 490, 189 (1931). 
+20. C. VON SZCEPANSKI, J. HEINDL, E. SCHROEDER, H. J. KESSLER 
+
+et U. REDMANN. Ger. Offen. 2,114, 653 (Cl C07 C,A 61 k, 5 
+Oct. 1972, Appl. P 21 14653.2, 23 Mar. 1971). 
+21. C. L. JACKSON et G. T. HARTSHORN. Am. Chem. J. 5, 268 
+(1883). 
+22. H. C. BROWN, E. J. MEAD et B. C. SUBBA RAO. J. Am. Chem. 
+SOC. 77, 6209 (1955). 
+23. 0. KAMM et C. S. MARVEL. Org. Synth. Coll. Vol. 1,25 (1941). 
+24. R. POGGI. Atti R. Accad. Naz. Lincei. Vol. 11, 423 (1925). 
+25. B. SAVILLE. Analyst, 86, 29 (1961). 
+26. W. M. CLARK et H. A. LUBS. J. Biol. Chem. 25, 479 (1916). 
+Can. J. Chem. Downloaded from www.nrcresearchpress.com by 87.160.185.190 on 03/27/14 
+
+For personal use only. 
+
+
+
+	
+

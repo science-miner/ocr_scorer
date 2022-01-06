@@ -1,0 +1,790 @@
+
+	
+
+		
+
+	
+
+	
+
+~t u d e physico-chimique, spectres de vibration et structure dm sulfamethoxazole 
+
+LUC MAURY, JOELLE RAMBAUD, BERNARD PAUVERT, YVES LASSERRE, G. BERGE ET MICHEL AUDRAN 
+
+"Groupe polyrnorphisme et Biodisponibilitk", U.F.R. de Phar~nacie, Avenue Charles Flahaut, 34060 Montpellier, France 
+
+R e ~u le 22 mars 1985 
+
+LUC MAURY, JOELLE RAMBAUD, BERNARD PAUVERT, YVES LASSERRE, G. BERGE et MICHEL AUDRAN. Can. J. Chern. 
+63, 3012 (1985). 
+Les auteurs ont identifiC et caractCrisC deux polymorphes et une forme solvatCe pour le sulfarnCthoxazole en utilisant de 
+nombreuses mCthodes thermiques et spectrales. La structure de la forme 11 a Cte resolue et comparCe a celle de la forme I dCji 
+publiCe: les differences portent essentiellement sur les longueurs des liaisons hydrogkne intermolCculaires. L'analyse des 
+spectres Raman et infrarouge a permis de proposer une attribution des vibrations caractCristiques des groupements amine, amide 
+et sulfone impliquCs dans les liaisons hydrogkne. 
+
+LUC MAURY, JOELLE RAMBAUD, BERNARD PAUVERT, YVES LASSERRE, G. BERGE, and MICHEL AUDRAN. Can. J. Chern. 
+63, 3012 (1985). 
+Two polymorphic and one solvate forms of sulfarnethaxozole have been identified and characterized using various thermal 
+and spectral methods. The crystal structure of form I1 has been solved and compared with that of form I recently published: 
+the lengths of the intermolecular H bonds mainly differentiate the two polymorphic forms. An assignment of the fundamental 
+vibrations of the amine, arnide, and sulfone groups involved in the H intermolecular bonds has been proposed from the analysis 
+of the Raman and infrared spectra. 
+
+Introduction 
+Poursuivant nos recherches sur le polyrnorphisrne de subs-
+tances rntdicarnenteuses, nous avons entrepris 1'Ctude du 
+sulfarntthoxazole ou N-(rntthyl-5 isoxazolyl-3) sulfanilamide. 
+
+Dans un travail antCrieur (1) nous avons rnontrt que seul 
+l'ernploi sirnultanC de nornbreuses techniques peut permettre 
+d'affirmer la presence de plusieurs formes cristallines pour un 
+rn&amp;rne cornposC; c'est pourquoi nous avons utilist dans cette 
+Ctude des rnCthodes thermiques et spectrales traditionnelles-
+thermogravirnttrie, analyses thermique et calorirnetrique difft-
+rentielles, spectrornttrie d'absorption infrarouge et diffrac-
+tion des rayons X-auxquelles nous avons ajoutC la diffusion 
+Rarnan, notarnrnent dans le dornaine des basses frtquences. 
+Nous avons tgalernent rtsolu la structure du polyrnorphe I1 
+afin de la cornparer 2 celle du polyrnorphe I, publiCe antt-
+rieurernent (2). 
+Shiu Shiang Yang et Guillory (3), dans un travail gCntral sur 
+les sulfarnides, ont rnis en tvidence pour ce compost l'exis-
+tence de trois formes polyrnorphes, dont deux seulernent carac-
+ttristes par leur spectre infrarouge. Si nous retrouvons bien les 
+formes I et I1 des auteurs prtcitCs, nous n'avons pu isoler la 
+forme 111; en revanche, nous avons identifie et caracttrisC une 
+forme solvatte non signalte prtctdernrnent. 
+
+Materiel et methode 
+
+1. Obtention des d~re'rentes formes 
+Le sulfamCthoxazole (produit Roche) a CtC recristallise dans plu-
+sieurs solvants (eau, acttone, ethanol, propanol, butanol et pentanol) 
+ainsi que dans diffkrents melanges: eau-Cthanol et eau-acttone. 
+Pour chaque expkrience, nous avons suivi la cristallogCnkse en fonc-
+tion de la tempkrature. Les cristaux recueillis aprks filtration Ctaient 
+sCchCs sous vide durant 48 h. 
+
+2. Analyse thermique 
+L'analyse therrnogravimktrique a Ctt effectuCe avec une balance 
+SCtaram Ugine Eyraud B60, en double version ATD-ATG, CquipCe 
+
+d'un prograrnmateur de tempkrature RT 64. La prise d'essai Ctait de 
+50 mg et la substance de rCfCrence l'alurnine. 
+L'analyseur enthalpique diffkrentiel Perkin Elmer DSC 1B nous a 
+permis de diffirencier les changernents d'Ctats physiques en fonction 
+de la tempkrature et de rnesurer I'Cnergie calorifique qui accornpagne 
+
+ces changements d'Ctats. Les prises d'essai Ctaient de 2 a 5 rng et la 
+
+rnontCe en tempkrature de 2 ou 4OC/rnin. 
+Les phCnornknes therrniques ont Ctt vCrifiCs par visualisation au 
+microscope A platine chauffante Leitz. 
+
+3. Mkthodes spectrales 
+Diffraction des rayons X 
+Les diagrarnrnes ont CtC rtalisCs sur un diffractomktre CGR avec 
+tube de cuivre et rnonochromateur A quartz rnontk sur un gCnCrateur 
+Sigma 80. 
+Spectrome'trie infrarouge 
+Les spectres infrarouge ont CtC enregistrks a temperature ambiante 
+sur un spectrornktre Perkin Elmer 457. Nous avons vCrifiC, par enre-
+gistrement des spectres Raman de la poudre en 1'Ctat ou comprirnte, 
+que le broyage et la rnise sous forme de pastilles KBr n'entrainaient 
+aucune modification des spectres. 
+Spectrotne'trie de drffusion Raman 
+Les spectres Raman ont CtC enregistres ternpkrature ambiante sur 
+un spectromktre de haute rCsolution Jobin et Yvon "Ramanor HG 2s". 
+
+La technique utilisCe ttait celle de diffusion a 90" en incidence nor-
+
+male, l'excitatrice Ctant la radiation 514,5 nm d'un laser Spectra 
+
+Physics a argon ionisC. La puissance du laser sur I'Cchantillon Ctait 
+
+maintenue une valeur faible de 100 mW, pour Cviter tout risque de 
+degradation des composts. 
+
+4. De'termination de la structure de la forme II 
+Un monocristal de 0,20 x 0,15 x 0,25 mm a CtC soumis au 
+rayonnernent X sur un diffractornktre autornatique Syntex P2,. Quinze 
+rkflexions indipendantes ont perrnis de definir les paramktres de la 
+maille cristalline. Les extinctions systirnatiques ont donne deux 
+groupes d'espace Cc et C2/c. Sur 1769 intensitis mesurkes, 1246 
+
+Ctaient considCrCes comme observkes conformCment a I 2 2,5 a (I). 
+
+La longueur d'9nde utiliske Ctait celle de la raie K a du rnolybdkne soit 
+
+A = 0,71069 A, l'angle de Bragg maximum Ctant 2 8 = 47". La 
+
+rCsolution a CtC effectuke avec le programme MULTAN 80 (4). La 
+carte de Fourier a donnC cinq atomes. Trois syntheses de Fourier ont 
+CtC requises pour faire apparaitre tous les atomes non hydrogkne de la 
+molCcule. L'affinement a CtC alors poursuivi avec le programme 
+SHELX 76 (5). Les atomes lourds ont CtC affines de f a ~o n anisotrope. 
+
+Can. J. Chem. Downloaded from www.nrcresearchpress.com by 87.160.185.190 on 03/27/14 
+
+For personal use only. 
+
+
+MAURY ET AL. 
+
+170 'C 
+
+166 "C 
+
+Forme II 
+
+170 "C 
+
+Forme I 
+
+FIG. 1. Courbes d'analyse calorimCtrique diffkrentielle (vitesse 
+8"Imin). 
+
+Les hydrogknes ont subit un affinement isotrope avec un Be, de 9 A. 
+
+Le groupe d'espace s'est avCrC Ctre C2/c. En fin d'affinement, le 
+coefficient de reliabilitC Ctait R = 0,0408. 
+
+Resultats et discussion 
+Analyse thermique 
+Les courbes d'analyse calorimttrique differentielle donnent 
+trois accidents endothermiques difftrents: 108, 166 et 170°C 
+(fig. 1). 
+
+I parla de midl 
+
+Forrne I I 
+
+andolharmiqua 
+
+I ATD 
+
+I . . . . 
+
+I 
+~' 
+~' 
+' 
+' 
+' 
+' 
+' 
+I 
+~ 
+
+* 
+
+5 0 
+100 
+150 
+2 0 0 
+
+C" 
+
+I ATG 
+
+Solvale 
+
+FIG. 2. Thermogrammes (ATG-ATD couplCes) des trois cristal-
+lisations diffkrentes. 
+
+Les thermogrammes obtenus pour ces trois accidents mon-
+trent que le premier s'accompagne d'une perte de poids de 3%, 
+correspondant a la perte d'une demi-moltcule d'eau (fig. 2). 
+Les deux autres ne sont accompagnts d'aucune perte de poids. 
+I1 semble donc que l'on soit en prCsence de 2 polymorphes et 
+d'un solvate. Les deux formes ont des tempkratures de fusion 
+t r k proches et il n'est possible de les sCparer qu'en effectuant 
+
+des mesures a une vitesse de 2"C/rnin. 
+
+La forme "haute temptrature" a Ct C obtenue dans tous les 
+solvants. La forme solvattie est extraite par recristallisation 
+dans un melange eau-acCtone ou dans l'eau. I1 a Ctt plus 
+difficile d'obtenir la forrne "basse ternpCrature" (forme 11), qui 
+apparait par traitement thermique de la forme I (fusion de 
+la forme I et trempe 0°C) ou par recristallisation dans le 
+mtthanol. 
+Le passage de la forme I a la forme I1 Ctant thermique-
+ment rtversible, nousen concluons que les deux formes sont 
+tnantiomorphes. 
+
+A partir des courbes d'analyse calorimttrique diffkrentielle 
+
+Can. J. Chem. Downloaded from www.nrcresearchpress.com by 87.160.185.190 on 03/27/14 
+
+For personal use only. 
+
+
+3014 
+
+CAN. I. CHEM. VOL. 63. 1985 
+
+Etude comparative des structures cristallines des deux 
+formes 
+Cette ttude est particulierement intkressante; en effet, les 
+deux forrnes cristallisent dans le mgme systeme (monoclinique) 
+
+Forme I 
+
+et le m&amp;me groupe d'espace (C2/c ): un fait analogue avait dkja 
+Ct C observC pour d'autres sulfamides (7, 8). De plus, les para-
+metres (a,b,c) de la forme 1 sont respectivement voisins des 
+paramktres (c,b,a) de la forme I1 comme le montre le tableau 
+suivant: 
+
+Forme I 
+Forme I1 
+
+a (4) 
+
+16,046 (5) 
+25,106 (2) 
+
+b (6) 
+
+5,470 (2) 
+7,229 (3) 
+
+5 
+
+lo 
+
+15 
+
+c (A) 
+25,747 (1) 
+14,847 (9) 
+
+I3 ((kg) 
+
+96,12 (2) 
+117,9 (4) 
+
+v (A3) 
+
+2247 
+238 1,3 
+
+FIG. 3. Diagrammes de diffraction des rayons X. 
+
+d (g cm-') 
+1,49 
+1,418 
+
+z 
+
+8 
+8 
+
+TABLEAU 1. Distances interatomiques (A) et angles de valence (deg) 
+
+Coups/r 
+
+du polymorphe I1 
+
+Atomes 
+Distance 
+Atomes 
+Angle 
+
+C1 ---C 2 
+1,384(5) 
+C2 --C l --C6 
+117,5 (3) 
+CI ---C6 
+1,397(5) 
+C2 --CI --N7 
+122,6 (3) 
+CI ---N7 
+1,358(5) 
+C6 --C1 --N7 
+119,9 (3) 
+C2 ---C3 
+1,355(5) 
+CI --C2 --C3 
+122,3 (4) 
+C3 ---C 4 
+1,389(5) 
+C2 --C3 --C4 
+120,O (4) 
+C4 ---C5 
+1,388(5) 
+C3 --C4 --C5 
+118,8 (3) 
+C4 ---St3 
+1,734(3) 
+C3 --C4 --S8 
+121 ,I (3) 
+C5 ---C6 
+1,370(5) 
+C5 --C4 --S8 
+120,O (3) 
+S8 ---0 9 
+1,424(2) 
+C 4 --C 5 --C 6 
+120,6 (4) 
+S8 ---0 1 0 
+1,434(2) 
+CI --C6 --C5 
+120,7 (3) 
+S8 ---N I I 
+1,645(3) 
+C4 --S8 --0 9 
+110,4 (2) 
+Nl l ---C12 
+1,393(4) 
+C 4 --S 8 --0 1 0 
+108,0(2) 
+C12---C13 
+1,411 (5) 
+0 9 --S8 --0 1 0 
+119,8(1) 
+C12---N16 
+1,302(4) 
+C4 --S8 --NII 
+107,4(1) 
+
+5 
+
+10 
+
+15 
+
+.e 
+
+C13---C14 
+1,327(5) 
+0 9 --S8 --NII 
+103,6 (2) 
+C14---015 
+1,347(4) 
+010--S8 --NII 
+106,8 (1) 
+
+C o u p r ~r 
+
+C14---C17 
+1,481 (5) 
+S8 --Nl l --C12 
+122,4 (2) 
+015---N16 
+1,407(3) 
+Nll--C12--C13 
+129,3 (3) 
+Nl l --C12--N16 
+119, I (3) 
+C13--C12--N16 
+1 1 1,6 (3) 
+C12 --C13 --C14 
+104,7 (3) 
+C13--C14--015 
+110,3 (3) 
+C13--C14--C17 
+133,7 (4) 
+015--C14--C17 
+115,9 (3) 
+C14--015--N16 
+108,0(3) 
+C12--N16--015 
+105,4 (3) 
+
+Forrne II 
+
+(fig. 1 ), nous avons calcult les enthalpies de fusion soit: 
+
+AH (f,) = -26,200 kJ mol-' 
+
+AH (fir) = -24,300 kJ mol-' 
+
+ce qui donne en premiere approximation une enthalpie de trans-
+formation de 2,100 kJ mol-' (6). 
+Diffraction des rayons X 
+Les diagrammes de poudre (fig. 3) des trois cristallisations 
+
+5 
+10 
+15 
+
+'e 
+permettent de mettre en Cvidence des raies spkcifiques de cha-
+que espece: 
+
+Coupr/s 
+
+forrne I: 7, 10,5, 12,05 8" 
+
+I 
+
+forme 11: 8, 11,9, 16,30 0" 
+solvate: 9,7, 10,7, 11,15, 12,9 8" 
+
+Can. J. Chem. Downloaded from www.nrcresearchpress.com by 87.160.185.190 on 03/27/14 
+
+For personal use only. 
+
+
+MAURY ET AL. 
+
+S U L F A M ~T H O X A Z O L E FORME I ' 
+
+FIG. 4. Ernpilernent moltculaire dans la rnaille des dcux polyrnorphes (PLUTO (rCf. 20)) 
+
+TABLEAU 2. Liaisons interrnolCculaires "type hydrogene" des poly-
+rnorphes I et I1 
+
+Forme I 
+Forrne I1 
+
+Code de symCtrie 
+
+I 
+
+x , 
+
+Y, z 
+11 
+
+x , 
+
+I + y, z 
+
+111 
+
+x , -I + y,z 
+IV 0,5 + x , 0,5 + y, z 
+
+N11Hll----091r 
+3,232A 
+
+C13 H13----N16111 3,227 A 
+
+N7 H7 ----0101v 3,275A 
+
+Code de symttrie 
+
+I 
+
+.r, 
+
+Y, 
+
+z 
+
+I1 
+
+x, 
+
+1 -y, -0,5 + z 
+
+I11 
+
+x , 
+
+-y, -0,5 + z 
+
+IV 0,5 -x , 0,5 -y, 
+
+z 
+
+N7 H7 ----0911 3,007 A 
+
+N7 H7 ----0 1 O I l r 3,1484 
+N11 HI1 ----N161v 2,952 A 
+
+L'ensernble des valeurs des angles de valence et des dis-
+tances interatomiques de la forme I1 (tableau 1) fait appa-
+raitre un effet guinonique plus marque que dans la forme I, 
+avec des liaisons C1-N7, C 2 -4 3 et C 5 -4 6 plus courtes 
+
+(A1 = 0,02 A). ExceptCes ces 1Cgkres differences, les mole-
+
+cules I et I1 sont identiques et I'ernpilernent molCculaire dans la 
+rnaille (fig. 4), trks semblable. Les ecarts les plus rnarquants se 
+situent au niveau des liaisons hydrogkne (tableau 2). Les simi-
+litudes de ces deux polyrnorphes, tant au niveau des pararnetres 
+cristallins qu'au niveau des pararnetres internes de la rnolCcule, 
+expliquent d'une part les points et chaleurs de fusion trks voi-
+sins, d'autre part-la difficult6 i diffkrencier ces deux formes. 
+
+sur les vibrations propres d'une molCcule, l'absorption infra-
+rouge-au moyen de spectromktres conventionnels-se revkle 
+parfois insuffisante. En outre, la technique gkneralernent adop-
+tee de rnise sous forrne de pastilles KBr necessite le broyage et 
+la compression de la poudre, manipulations qui peuvent faire 
+Cvoluer une forme instable vers une forme stable. La spectro-
+rnCtrie de diffusion Rarnan rend possible l'analyse d'un Cchan-
+tillon polycristallin sans lui faire subir de traitements suscepti-
+b l e ~ de le modifier. Elle permet en outre, comrne l'absorption 
+infrarouge, d'etudier le dornaine des vibrations internes, mais 
+elle trouve tout son intCr6t dans l'obtention aisCe du spectre 
+des vibrations externes. Ces vibrations, qui correspondent aux 
+rnouvernents de rotation et de translation des molCcules au sein 
+du reseau cristallin, sont d'un trks grand intCr&amp;t pour caract&amp; 
+riser le polymorphisrne, qui se rnanifeste par des changernents 
+
+au niveau du rkseau. Les raies caracttristiques apparaissent 2 
+
+des frCquences trks basses et ne sont facilernent accessibles 
+que par diffusion Rarnan. Cette technique, d'application rC-
+cente au medicament (9, lo), est trks peu employee et nous 
+l'avons d6ji rnise en oeuvre lors de 1'Ctude de differents sulfa-
+rnides (1, 11, 12, 21). 
+Domaine des vibrations externes 
+Les spectres Rarnan des vibrations du rkseau, reprCsentis sur 
+la figure 5, permettent irnmediatement d'identifier les deux 
+polyrnorphes et le solvate. Le solvate se caractkrise principale-
+rnent par la raie 31 crn-I, la plus intense de tout le spectre; les 
+Spectrome'trie infrarouge et Raman 
+raies 49,5, 68 et 102 crn-' peuvent egalement permettre de 
+La spectromCtrie infrarouge est une rnCthode uti]isCe depuis 
+
+l'identifier. Les raies 41, 63, 79, 113 et 123 ern-' peuvent &amp;tre 
+
+de nornbreuses annees pour rnettre en evidence le polymer-
+utilisees pour caracteriser la forrne 11. Enfin, la forme 1 Se 
+phisme de substances rn&amp;jicamenteuses, rnais le domaine 
+reconnait par la raie 88 cm-' trks intense, le massif centre 
+
+spectral gCnCralernent analysC s'Ctend seulernent de 4000 2 
+
+130 cm-l et le triplet 45, 37 et 31 cm-'. 
+200 crn-' et ne porte donc que sur les vibrations internes de la 
+Domaine des vibrations internes 
+rnolCcule. Le polyrnorphisme pouvant n'influer que tres peu 
+Les spectres Rarnan (fig. 6) et infrarouge (fig. 7) permettent 
+Can. J. Chem. Downloaded from www.nrcresearchpress.com by 87.160.185.190 on 03/27/14 
+
+For personal use only. 
+
+
+3016 
+
+CAN. J. CHEM. \ IOL. 63, 1985 
+
+FIG. 5 . Spectres Raman des vibrations du rCseau du sulfamC-
+thoxazole. 
+
+de difftrencier les trois formes polymorphes bien que les diffk-
+rences, en particulier celles relevkes sur les spectres Raman, 
+soient moins significatives dans ce domaine que dans celui des 
+vibrations externes. 
+La presence simultanke dans cette molkcule d'un noyau 
+benzknique et d'un noyau mtthoxazole rend complexe l'inter-
+prttation des spectres de vibration. Nous avons signal6 prk-
+ckdemment que les formes I et I1 prksentent de nombreuses 
+analogies structurales et diffkrent essentiellement par les liai-
+sons hydrogene intermoltculaires, qui intkressent principale-
+ment les groupements amine, amide et sulfone. Par suite du 
+nombre important de vibrations attendu et des nombreux cou-
+plages possibles nous limiterons nos propositions d'attribution 
+2 certains modes caractkristiques. Ces propositions sont baskes 
+d'une part sur les travaux antkrieurs portant sur des moltcules 
+voisines, d'autre part sur la comparaison des spectres avec ceux 
+de diffkrents sulfamides dtja ktudits. 
+
+FIG. 6. Spectres Raman de trois formes de sulfamCthoxazole 
+(1700-100 cm-'). 
+
+FIG. 7. Spectres infrarouge du sulfamCthoxazole. 
+
+Re'gion 4000-2000 em-' 
+Les spectres infrarouge des trois formes Ctudites rkvelent 
+d'importantes modifications dans ce domaine. Les vibrations 
+du groupement mtthyle ne donnent lieu qu'a de faibles absorp-
+tions et ne seront pas discutees. En revanche, les vibrations 
+v(NH2) et v(NH) se traduisent par de fortes bandes infrarouge. 
+Les bandes 3475 et 3384 cm-' de la forme I traduisent sans 
+ambigui'te les modes antisymttrique et symttrique du groupe-
+Can. J. Chem. Downloaded from www.nrcresearchpress.com by 87.160.185.190 on 03/27/14 
+
+For personal use only. 
+
+
+MAURY ET AL. 
+
+3017 
+
+ment amine: ces valeurs sont en accord avec celles trouvees 
+pour d'autres sulfamides (1, 10, 11, 12). Ces vibrations sont 
+peu perturbies par les liaisons hydrogkne donto les longueurs 
+
+N-H. . . O (tableau 2) sont supCrieures a 3,2 A, ce qui con-
+
+firme les conclusions de Novak et coll. (13), qui ont montrC, 
+qu'au dela d'une telle distance, l'influence de la liaison H sur 
+la frkquence de vibration est peu importante. Dans la forme 11, 
+
+ces modes v,, (NH,) et v, apparaissent a des 
+
+voisines de celles de la forme I, 3490 et 3400 cm-I. 
+Si dans le solvate le mode v,, (NH,) est trouvC isole 
+3475 cm-', en revanche, le mode v , (NH,) apparait sous forme 
+d'un doublet a 3400 et 3360 cm-I: un tel dCdoublement a Ct C 
+reliC a la formation de dimkres cycliques (14), comme cela a 
+dCja Ctt observC sur des barbituriques (15, 16) et le sulfamC-
+thoxypyridazine (17). La determination de la structure de ce 
+solvate devrait nous permettre de confirmer cette hypothkse. 
+La frCquence v (N-H) d'un groupement RS0,-NH-R' 
+est gCnCralement attendue vers 3300 cm-I: la raie 3305 cm-' 
+
+(forme I) correspond donc a cette vibration. Shiu Shiang Yang 
+
+et Guillory (3) avaient attribuC les raies 3300 et 3150 cm-' a ce 
+mouvement. Si l'attribution de la premiere frCquence nous 
+parait raisonnable, nous ne pensons pas que l'attribution de la 
+seconde a ce m&amp;me mode puisse &amp;tre retenue; en effet, la raie 
+3145 cm-' a Ct C attribute (17), dans des complexes d'aniline 
+en particulier, au mode v(N-H) engag6 dans une liaison 
+N-H. . .N. Or, la dktermination de la structure montre qu'il 
+n'existe pas de telle liaison dans la forme I. Nous proposons 
+d'attribuer cette raie soit h une combinaison soit 2 une rCso-
+nance de Fermi entre une vibration v (CH) du noyau et l'harmo-
+nique de la raie 1592 cm-I, ce qui justifierait son intensite. Sur 
+les spectres du solvate, le mode v (N-H) est abaisse 3200 
+cm-I, preuve que le vibrateur N-H est impliquC dans une 
+liaison hydrogkne. 
+La forme 11, quant a elle, prCsente plusieurs bandes d'inten-
+site moyenne entre 3300 et 2700 cm-I, parmi lesquelles il est 
+difficile de retrouver ce mode. L'ttude structurale montre que 
+
+dans ce poly~orphe il existe une liaison N-H. . .N de lon-
+
+gueur 2,952 A, donc relativement forte pour une liaison de ce 
+type (18); nous proposons d'attribuer la bande 3100 cm-' au 
+mode v (N-H) engag6 dans le pont hydrogkne (1 8, 19). 
+RPgion 1700-200 em-' 
+Seules certaines vibrations caractCristiques seront discutCes. 
+Quelle que soit la forme, deux bandes intenses apparaissent 
+vers 1600 et 1625 cm-' la lkre traduisant une vibration du 
+noyau, la seconde le cisaillement 6 (NH,). La forme I1 presente 
+en outre une bande supplCmentaire a 1645 cm-', trks intense, 
+que nous proposons d'attribuer au mode S(N-H) bien que 
+cette frkquence soit ClevCe pour une telle vibration. A l'appui 
+de cette attribution, signalons que Novak et coll. (13) ont mon-
+
+trt que l'existence d'un pont hydrogene du type N-H. . . N 
+
+abaisse la frtquence du mode v (N-H) et dCplace vers les 
+hautes frequences le mode 6 (N-H) attendu vers 1400 cm-I. 
+Les dernikres frCauences aue nous discuterons sont en rau-
+port avec le groupement sulfone. Le mode antisymttrique v,, 
+(SO,) apparait tres intense sur les spectres d'absorption, a 1365 
+cm-' (forme 1). La raie trks fine 1383 cm-I qui traduit une raie 
+du noyau benzknique, est retrouvte la m&amp;me frCquence dans 
+tous les composCs. Cette vibration v,, (SO?) voit sa frtquence 
+
+s'abaisser a 1335 cm-' (forme 11) et 1310 cm-I (solvate). Ces 
+
+abaissements de friquence sont 2 mettre en relation avec l'exis-
+tence des liaisons hydrogkne. Cette influence se manifeste Cga-
+lement au niveau du mode symCtrique v, (SO,), trks intense en 
+Raman, qui apparait gCnCralement sous forme d'un doublet 
+
+(12). Dans la forme I, les spectres Raman et infrarouge revelent 
+
+1 145 -1 160 (ir) et 1 14 1 -1 156 (Raman) deux raies, d'egales 
+
+intensitCs, attribuables 2 ce mode. En revanche, on observe une 
+diminution trks importante de la bande de plus basse frequence 
+(forme 11) et un dkdoublement de cette bande (solvate). Enfin, 
+le cisaillement 6 (SO,) donne un doublet vers 545-572 cm-' 
+tant sur les spectres Raman qu'en infrarouge. 
+
+ConcIusion 
+L'Ctude du sulfamCthoxazole nous a permis de mettre en 
+tvidence deux polymorphes et un solvate non rCpertoriC dans la 
+1ittCrature. 
+Chaque forme a Ct C identifiCe et caractCrisCe par des mt-
+thodes thermiques et spectrales. L'analyse thermique diffkren-
+tielle nous a rCvClC l'existence du solvate qui a Ct C caractCrisC, 
+comme les deux polymorphes, par son diagramme de rayons X 
+et ses spectres infrarouge et Raman. La determination de la 
+structure cristalline de la forme I1 a Ct C rCalisCe, ce qui nous a 
+amen6 a la comparer a celle de la forme I dCja publiCe. Cette 
+comparaison rCvele que les polymorphes I et I1 cristallisent 
+dans le m&amp;me systkme cristallin (monoclinique) et que I'em-
+pilement dans les mailles est tres semblable. Les molCcules 
+I et I1 sont pratiquement identiques quant aux distances 
+interatomiques et aux angles de valence, les diffkrences les 
+plus importantes se situant au niveau des liaisons hydrogkne 
+intermolCculaires. 
+
+L'existence de ces ponts hydrogene nous a conduit a rialiser 
+
+une analyse, par spectromCtrie d'absorption infrarouge et 
+de diffusion Raman, des vibrations des groupements amine, 
+amide et sulfone principalement intCressCs par ces liaisons. 
+Nous proposons donc une attribution des modes caractCris-
+tiques de ces groupements en relation avec les longueurs des 
+liaisons. 
+L'obtention de cristaux mesurables du solvate doit nous per-
+mettre de diterminer la structure de ce composC et d'effectuer 
+une Ctude des cinCtiques de dissolution des diffkrentes formes. 
+
+1. J. RAMBAUD, L. MAURY, C. LEFEBVRE et R. ROQUES. Int. J. 
+Pharm. 15, 199 (1983). 
+2. J . RAMBAUD, R. ROQUES, S. ALBEROLA et F. SABON. Bul. Soc. 
+Chim. Fr. 1, 56 (1980). 
+3. SHru SHIANG YANG et J. K. GUILLORY. J . Pharm. Sci. 61, 26 
+(1972). 
+4. P. MAIN, S. J . FISKE, S. E. HULL, L. LESSINGER, G. GERMAIN, 
+J. P. DECLERCQ et M. M. WOOLFSON. MULTAN 80. A system 
+of computer programs for the automatic solution of crystal struc-
+tures from X-ray diffraction data. Univs. of York, England, and 
+Louvain-la-Neuve, Belgium. 1980. 
+5 . G. M. SHELDRICK. SHELX 76. Program for crystal structure 
+determination. Univ. of Cambridge, England. 1976. 
+6. A. BURGER et R. RAMBERGER. Mikrochim. Acta, If, 273 (1979). 
+7. J. RAMBAUD. Thkse Montpellier (1 982). 
+8. G. J. KRUGER et G. GAFNER. Acta Crystallogr. Sect B, 27, 326 
+(1971). 
+9. J. C. BELLOWS, P. C. FREE MAN^^^. N. PRASAD. Drug. Dev. Ind. 
+Pharm. 3, 451 (1977). 
+10. A. BARBARA, B. A. BOLTON et P. N. PRASAD. J. Pharm. Sci. 70, 
+789 (1981). 
+11. L. MAURY, J. RAMBAUD, B. PAUVERT, M. AUDRAN, Y. LAS-
+SERRE et G. BERGE. Pharm. Acta Helv. 59, 112 (1984). 
+12. L. MAURY, J. RAMBAUD, B. PAUVERT, G. BERGE, M. AUDRAN 
+et Y. LASSERRE. Pharm. Acta Helv. 60, 22 (1985). 
+13. A. NOVAK, J. LASCOMBE et M. L. JOSIEN. J. Phys. (Paris), 
+Colloq. 5, 38 (1966). 
+14. J. BELLAMY. The infrared spectra of complex molecules. Chap-
+Can. J. Chem. Downloaded from www.nrcresearchpress.com by 87.160.185.190 on 03/27/14 
+
+For personal use only. 
+
+
+3018 
+
+CAN. 1. CHEM. VOL. 63, 1985 
+
+man and Hall, London, England. 1975. 
+19. A BERTOLUZZA, C. FAGNANO, P. FINELLI, M. A. MORELLI, 
+15. M. DRAGUET-BRUGHMANS, R. BOUCHE, J. P. FLANDREet A. VAN 
+R. S ~M O N I 
+et R. TOSI. J. Raman Spectrosc. 14, 386 (1983). 
+DEN BULCKE. Pharm. Acta Helv. 54, 140 (1979). 
+20. W. D. S. MOTHERWELL et W. CLEGG. Program for plotting 
+16. M. DRAGUET-BRUGHMANS, PH. DRAUX et R. BOUCHE. J . Pharm. 
+molecular and crystal Univ. of Cambridge, 
+Belg. 36, 397 (1981). 
+(1978). 
+17. C. ENGELTER et D. A. THORNTON. J. Mol. Struct. 33, 119 (1976). 
+21. L. MAURY, J. RAMBAUD, B. PAUVERT, Y. LASSERRE, G. BERGE 
+18. A. NOVAK. Struct. Bonding (Berlin), 18, 177 (1974). 
+et M. AUDRAN. J. Pharm. Sci. 74, 422 (1985). 
+
+Can. J. Chem. Downloaded from www.nrcresearchpress.com by 87.160.185.190 on 03/27/14 
+
+For personal use only. 
+
+
+
+	
+

@@ -1,0 +1,817 @@
+
+	
+
+		
+
+	
+
+	
+
+Macrocycles polyoxygenes a structure benzodioxinique. 
+Synthese et etude de la complexation du sodium et du potassium dans le methanol 
+
+MICHEL MPASSI ET G ~R A L D 
+GUILLAUMET 
+
+Laborc~toire de chitnie organique, Universitt d'orle'atls, Rue de Chartres, BP 6759, 45067 Orle'ans CEDEX 2 , France 
+
+G ~R A R D 
+COUDERT 
+
+Centre dri midicament, Universite' de Nancy I , Unite' associe'e au Centre t~c~tiot~al de la recherche scientijique, n" 597, 
+30, Rue Lionnois, 54000 Nancy, France 
+
+MADELEINE TISSIER ET JEAN JUILLARD~ 
+
+Laboratoir-e de chimie physique des solutions, Universite' Blaise Pascal (Clermont), 
+UtlitP associe'e an Centre national cie la recherche scientijique, n" 434, 63/77 Aubiere CEDEX, France 
+
+R e p le 24 octobre 1988 
+
+MICHEL MPASSI, G ~R A L D 
+GUILLAUMET, G ~R A R D 
+COUDERT, MADELEINE TISSIER et JEAN JUILLARD. Can. J. Chem. 67, 
+
+1132 (1989). 
+La synthkse de deux nouvelles h i e s de macrocycles polyoxygtnes, 1 et 2, a CtC realisCe. Ces derivCs prCsentent en commun 
+une structure benzodioxinique 1,4 et sont apparent&amp; aux ethers-couronnes, aux Cthers-couronnes benzo et aux ethers-lassos. 
+L'Ctude de la complexation des cations sodium et potassium par les diffkrents composCs prCparks a CtC effectuCe par 
+potentiomktrie dans le mithanol; ces resultats sont compares aux donnees de la IittCrature concernant d'autres composCs 
+macrocycliques polyoxygCnCs. 
+Mots cle's : macrocycles polyoxygCnCs, benzodioxine-1,4, ethers-lassos, complexes du sodium et du potassium, solvant 
+methanol. 
+
+MICHEL MPASSI, G ~R A L D 
+GUILLAUMET, G ~R A R D 
+COUDERT, MADELEINE TISSIER, and JEAN JUILLARD. Can. J. Chem. 67, 
+
+1132 (1989). 
+The synthesis of two new series of polyoxygenated macrocyclic derivatives, 1 and 2, was realised. All these compounds 
+have a 1,4-benzodioxinic moiety and are related to crown ethers, benzocrown ethers, and lariat ethers. The complexing 
+properties of sodium and potassium ions were studied using potentiometry in methanol; results thus obtained are compared to 
+data, previously reported in the literature, for classical polyoxygenated macrocyclic compounds. 
+Key words: polyoxygenated macrocycles, 1,4-benzodioxin, lariat ethers, sodium and potassium complexes, solvent methanol. 
+
+Introduction 
+Depuis la dtcouverte quelque peu fortuite des tthers-
+couronnes effectute par C. J. Pedersen il y a 20 ans (1) un 
+nombre considtrable de travaux ont t t t rtalists dans ce 
+domaine. Apres la synthese des premiers composts cycliques 
+polyoxygtnts, des ligands organiques cycliques neutres incor-
+porant des atomes de soufre (2), d'azote (3) ou de phosphore (4) 
+ont aussi t t t prtpares; l'ensemble de ces dtrivts sont regroupts 
+sous le terme de coronands. Parallelement aux recherches 
+rtalistes en strie monocyclique, Lehn a dtveloppt un nouveau 
+groupe de composts, celui des cryptands ( 5 ) , ligands bi-ou 
+tri-cycliques oxygtnts et azotts caracttrists par l'existence 
+d'une cavitt tridimensionnelle de taille modulable. Des travaux 
+visant a l'obtention de dtrivts a chaine ouverte apparentts soit 
+aux coronands soit aux cryptands (6) ont tgalement t t t rtalists. 
+Tous ces composts, du fait de leur structure et de leur aptitude 
+
+i complexer les cations, constituent des modeles potentiels 
+
+des ionophores naturels. Cependant, le pouvoir complexant et 
+la stlectivitt observts dans le cas des coronands se rtvelent 
+souvent trop faibles, alors que les cryptands, ligands puissants 
+et stlectifs des cations, prtsentent l'inconvtnient de conduire a 
+des complexes, les cryptates, souvent trop stables. On pouvait 
+des lors estimer qu'un compromis favorable du point de vue 
+topologique devait Ctre realist entre ces deux types de ligands 
+avec les tthers-lassos (lariat-ethers) tlaborts tout d'abord par 
+Gokel et al. (7). 
+I1 est souvent difficile de fixer des chaines lattrales sur des 
+
+1. Auteur a qui adresser toute correspondance. 
+
+cycles polyoxygtnts dans des conditions dtfinies; trois d'entre-
+nous ont propost, pour ce faire, une mtthode originale utilisant 
+comme structure de base le motif benzodioxine (8). Lors de 
+cette synthese il est aist d'introduire en a du cycle benzodioxi-
+
+nique un ou deux bras susceptibles de participer ou non 21 la 
+
+complexation des cations par le macrocycle. Ce travail a tte 
+dtveloppt et le pouvoir complexant des moltcules obtenues 
+systtmatiquement testt. 
+Nous avons prtpart deux types de composts, 1 possedant une 
+chaine lattrale de nature et taille variable et un motif cattchol 
+comrne moyen de fermeture, et 2 comportant une cavitt de taille 
+variable et quelques bras reprtsentatifs. Les groupements R1 et 
+R* peuvent Ctre soit des chaines alkyle ou aryle, soit des groupes 
+porteurs de sites de complexation suppltmentaires susceptibles, 
+comme dans le cas des tthers-lassos simples, de participer a 
+
+Printed in Canada I lrnprimC au Canada 
+
+Can. J. Chem. Downloaded from www.nrcresearchpress.com by 87.160.185.190 on 03/27/14 
+
+For personal use only. 
+
+
+MPASSI ET AL. 
+
+kg) 
+
+S C H ~M A 
+
+1. (a) iPr2NLi, THF, -78°C; (b) CIC02CH2CH3 puis ~~0 ' ; 
+(c) CH2N2; (d) PhCHO puis ~~0 ' ; 
+(e) R'-CO-R' 
+puis ~~0 ' ; 
+( f ) iBu2A1H; (g) LiAlH4. 
+
+. .., 
+
+la capture du cation. Quelques produits du type 1 prCparCs 
+prCcCdemment ont dCja Ctt dtcrits (8). 
+Tous sont ici Ctudits en ce qui concerne leur aptitude a 
+complexer les cations sodium et potassium. Cette Ctude est 
+effectuee dans le mCthanol par une mCthode potentiomCtrique 
+utilisant des electrodes de verre sklectives ces deux cations; 
+beaucoup des donnCes similaires concernant les macrocycles 
+polyoxygents ont CtC obtenues dans ce solvant, ce qui doit 
+permettre de comparer les performances de nos produits a celles 
+d'autres composCs obtenus par d'autres auteurs. 
+
+Methodes et resultats 
+Synthbse des macrocycles polyoxygdnds 1 et 2 
+Les schCmas 1 et 2 rendent compte de la stratCgie adoptCe 
+pour prCparer de tels composCs a partir du carboxy-2 benzo-
+dioxine-1,4 3. 
+
+La premikre Ctape de cette sCquence reactionnelle est con-
+stituke par la fonctionnalisation de la position 3 du cycle 
+benzodioxinique par action du dianion de l'acide 3 sur des 
+Clectrophiles appropries (9). Cette rtaction permet tres aisement 
+de faire varier la nature des substituants R1 et R* et ainsi de 
+moduler les caractCristiques topologiques et physico-chimiques 
+des composts recherchCs. De surcroit, le mode de fermeture du 
+cycle polyoxygCnC permet de faire varier la taille de la cavitC et 
+le nombre d'atomes d'oxygkne impliquts dans le processus de 
+complexation. 
+Nous avons dCja dtcrit le mode de preparation des composCs 
+la-k pour lesquels la fermeture du cycle est assurCe par 
+un noyau cattchol ainsi que les caractkristiques physiques et 
+spectrales de le-k (8). Dans tous les cas le nombre d'atomes 
+d'oxygkne du macrocycle est &amp;gal a six. 
+Nous avons par ailleurs rCalis6 la prCparation des macro-
+Can. J. Chem. Downloaded from www.nrcresearchpress.com by 87.160.185.190 on 03/27/14 
+
+For personal use only. 
+
+
+CAN. J. CHEM. VOL. 67, 1989 
+
+8 (a-k) 
+
+1 (a-k) 
+
+SCHBMA 2. (h) CICH2CH20CH2CH2CI, NaOH 50%, nBu4N+HS04-; (i) catkchol, NaOH, butanol; 
+(j) NaH, TsO(CH2CH20),Ts. 
+
+cycles 2 dans lesquels la fermeture du cycle est assuree par une 
+chaine polytthylkneglycol de longueur variable. Les composes 
+2c ont kt&amp; prtparts en fixant la nature des substituants R1 et R' 
+(R1 = R2 = CH3) et en faisant varier la taille de la cavitt. Les 
+dCrivts 2e (R' = CH,; R2 = CH2CH20CH2Ph) et 21 (R1 = 
+CH,; R2 = CH2CH2(OCH2CH2)20CH2Ph) sont du type 
+ethers-lassos et font apparaitre au contraire une cavitt de 
+taille fixe, la longueur de la chaine lattrale ttant variable et 
+incorporant un ou trois atomes d'oxygkne susceptibles d'inter-
+venir dans le processus de complexation. 
+La cyclisation des diols 7 c , 7 e , et 71 est rCalisCe au sein 
+du tktrahydrofuranne en utilisant l'hydmre de sodium comme 
+base. Les macrocycles 2 sont isolCs aprks purification sur 
+colonne de silice avec des rendements compris entre 45 et 55%. 
+
+Complexes avec le sodium et le potassium 
+
+etude potentiomCtrique utilisant une tlectrode stlective, 
+
+soit au sodium, soit au potassium, a permis de mettre en 
+Cvidence une possible formation de deux complexes EM+ et 
+E2M+, entre l'tther couronne E et le cation mttallique M + , 
+selon les reactions successives [ l ] et [2] : 
+
+Le plus souvent, la formation de E2M+ est ntgligeable. Elle 
+n'est apprtciable que pour les interactions entre l'ion potassium 
+et des composts de type 2 oh n 3 4. Dans ce cas les deux 
+constantes K1 et K2 ont t t t dttermintes conjointement. Les 
+resultats sont reportts sur les tableaux 1 et 2. 
+
+Discussion 
+Couronnes cyclise'es par les polye'thyleneglycols (con~pose's 
+2cI-2c6) 
+Si l'on compare les constantes de formation des complexes 
+
+EM+ a celles obtenues avec les couronnes (10, 11) et les 
+
+benzocouronnes simples (12, 13) de m&amp;me nombre d'atomes 
+d'oxygene dans le macrocycle, il apparait qu'elles sont beau-
+coup plus faibles pour les produits benzodioxiniques (10-100 
+fois). D'autre part, le fort maximum de complexation observt 
+pour des cycles a 6 oxygknes (fig. 1) est perdu. Un petit 
+maximum apparait cependant ici pour les cycles a 7 oxygenes. 
+Les constraintes stCriques imposees par la liaison CthylCnique 
+conduisent un rttrtcissement de facto du macrocycle, les deux 
+atomes d'oxygene de ce dernier les plus proches de la double 
+
+liaison se rtvtlant par ailleurs a l'examen des modeles CPK 
+
+peu utilisables lors du processus de complexation. De ce fait, 
+les performances de ces composts n'approchent celles des 
+couronnes et benzocouronnes a m&amp;me nombre d'oxygene dans 
+le cycle que pour un nombre Clevt d'atomes d'oxygene (fig. 1). 
+La ~Clectivitt S = K1 (K+) : K , (Na+) est en faveur du 
+
+potassium de faqon a peu prks similaire pour les cycles de 6 a 10 
+
+oxygknes, 2c2-2c6 (10 &lt; S &lt; 20). Elle est plus faible, S --3, 
+
+pour le cycle a 5 oxygknes 2cl. Une tendance analogue avait 
+t t t observte avec les couronnes simples pour lesquelles la 
+stlectivitt potassium/sodium est forte pour 18-couronne-6 (10) 
+et 21-couronne-7 (1 I), S = 60. Celle de 24-couronne-8 (1 l), S 
+= 15, est de l'ordre de celle mise ici en tvidence pour les 
+composts 2c2-2c6. La stlectivitC est faible pour 12-couronne-
+4, S = 1,3, et 15-couronne-5, S = 3; une inversion est m&amp;me 
+observte, S = 0,65, pour benzo-15-couronne-5 (1 2). 
+Can. J. Chem. Downloaded from www.nrcresearchpress.com by 87.160.185.190 on 03/27/14 
+
+For personal use only. 
+
+
+MPASSI ET AL. 
+
+1135 
+
+TABLEAU 1. Constantes de formation des complexes des composCs 1 
+avec le sodium et le potassium dans le mCthanol i 25,0°C (Cchelle 
+molaire des concentrations, mol dm-') 
+
+R' R2 
+
+Couronnes cyclise'es p a r le cate'chol (conzpose's l a -1 d ) 
+Le composCs 2c2 ne diffkre du derive l c que par la presence 
+d'un noyau aromatique. La constante de formation du com-
+
+plexe avec le sodium croit lors du passage de 2c2 i 1 c, celle du 
+
+complexe avec le potassium dCcroit; de ce fait, la sklectivite 
+potassium/sodium dCcroit fortement, de 15 2 2. Le m&amp;me 
+phinomkne a ete observe lors du passage des couronnes 
+aux dibenzocouronnes; la selectivite diminue, elle est m&amp;me 
+inverske, S = 0 , 6 pour le dibenzo-15-couronne-5 (12). 
+La presence d'un noyau aromatique l b ou d'un cycle 
+
+spiranique I d aboutit i une forte restriction de la cavitC; ceci 
+
+induit un abaissement de la complexation notable dans le cas du 
+sodium, important dans le cas du potassium. Ce phenomene 
+entraine pour ces deux composCs une inversion de la selectivite 
+favorable ici au sodium. 
+
+L'adjonction des divers bras et, en particulier, polyoxyethy-
+
+lkniques sur l'un des carbones du cycle a conduit a des amelio-
+
+rations plus ou moins notables des proprietks complexantes de 
+
+15-couronne-5, pour le sodium et honc, dans certains cas, i 
+
+un accroissement sensible de la sClectivitC sodium/potassium 
+(14, 15). 
+Dans le cas des composes 1 CtudiCs ici, aucune des chaines 
+laterales greffkes n'amkliore, par rapport au produit l c , les 
+
+proprietes complexantes vis 5 vis du potassium; elles les 
+
+diminuent ~l u s 
+
+ou moins vis a vis du sodium. Ceci est sans doute 
+
+dfi i un mauvais positionnement de la chaine laterale par rapport 
+
+au macrocycle. Dans le cas des ethers-lassos simples la presence 
+d'un groupement mkthyle sur carbone pivot favoriserait une 
+orientation correcte du bras ( 16. 17). Les conformations sont ici 
+trks diffkrentes, la presence du carbone pivot au voisinage du 
+cycle benzodioxinique introduit en effet une forte rigidification, 
+la chaine laterale entrainant plutat une gene sterique determi-
+nant une restriction de la cavitC complexante. 
+Par contre, dans le cas des composes 2e et 21 la cavite 
+complexante se trouve agrandie du fait de la presence d'un 
+maillon oxyethylkne supplkmentaire, et les chaines laterales 
+
+TABLEAU 2. Constantes de formation des complexes des composCs 2 avec le sodium et le 
+potassium dans le methanol h 25,0°C (echelle molaire des concentrations, mol dm-') 
+
+Can. J. Chem. Downloaded from www.nrcresearchpress.com by 87.160.185.190 on 03/27/14 
+
+For personal use only. 
+
+
+1136 
+
+CAN. J. CHEM. VOL. 67, 1989 
+
+FIG. 1. Constantes de formation K dans le methanol 25,0°C des 
+complexes avec le potassium de quelques polyCthers cycliques en 
+fonction du nornbre N d'atorne d'oxyghe dans le cycle. 
+Cthers-
+
+couronnes (d'aprks les rCfCrences 10 et 11); 0 Cthers-couronnes benzo 
+(d'aprks les rCfCrences 12 et 13); 1 nos produits no 2cl-2c6. 
+
+favorisent legkrement la complexation du potassium et par 
+contre defavorisent fortement celle du sodium. 
+La presence d'un carbone asymttrique dans un certain 
+nombre de composes doit entrainer pour chaque stereoisomkre 
+des variations notables des proprietes complexantes. Cepen-
+dant, les etudes de complexation n'ont pas conduit 5 des 
+resultats suffisamment convaincants pour qu'ait Cte entreprise 
+la synthkse CnantiosClective ou specifique des derives 1 et 2. 
+A la lumikre des resultats obtenus il semble que les 
+performances recherchees : augmentation de la complexation 
+et de la selectivite, pourraient &amp;tre ameliorees en adaptant la 
+longueur et le nombre de sites de la chaine laterale. I1 est de 
+surcroit indeniable que la nature du substituant R' determine la 
+position du bras R' et influe de ce fait de f a ~o n considerable 
+sur le processus de complexation. 
+
+Mesures physiques 
+Les spectres de rtsonance rnagnktique 
+
+enregistrCs a I'aide de spectrornetres Perkin 
+
+Bruker AM 300 (300 MHz) en utilisant le 
+rCfCrence interne. Les spectres infra-rouge 
+
+nucltaire (rrnn) ont Ct C 
+Elmer R 12B (60 MHz) et 
+tCtrarnCthylsilane cornrne 
+(ir) ont it&amp; traces sur des 
+appareils Perkin Elmer i97 et 580 B. ~e i 
+spectres de rnasse (srn) ont 
+Ct C rCalisCs sur un appareil Nerrnag R. 1O.lOC. 
+Les points de fusion ont Ct C dCterrninCs sur un banc de Kofler et ne 
+sont pas corrigts. 
+Les chromatographies sur couche mince (ccrn) ont ttC effectutes 
+sur gel de silice 60 F254 (Merck). Toutes les analyses centCsirnales 
+sont en accord avec les valeurs calculCes a ?0,35% prks. 
+
+Priparation des composis carbonylis 4 , 5 et 6 
+Le dianion de I'acide 3 (18) est obtenu par action de 17,5 mmol de 
+diisopropylarnidure de lithium sur 8 rnrnol de l'acide 3. La rCaction est 
+rCalis&amp;e sous atrnosphkre inerte, a -78"C, au sein de 30 mL de THF. 
+
+Au bout de 4 h a -78"C, on additionne 12 rnrnol du cornposC 
+
+Clectrophile appropriC (chloroforrniate d'ithyle, aldkhyde benzoi'que 
+ou cCtones) en solution dans 10 mL de THF. On laisse en contact 
+
+2 h supplCrnentaires a -78"C, puis on hydrolyse. Aprks extraction 2 
+1'Cther en milieu basique, la phase aqueuse est acidifiCe, puis extraite 
+au chlorure de rnCthylkne. La phase organique est sCchCe sur MgSO,, 
+puis CvaporCe sous vide. 
+Dans le cas du chloroforrniate d'Cthyle et du benzaldChyde les 
+produits bruts sont estCrifiCs par traiternent au diazornithane, puis 
+purifies sur colonne de silice. 
+Dans le cas OD les Clectrophiles sont des cttones, les produits bruts 
+sont IactonisCs aprks dissolution dans 30 rnL de dioxanne par action 
+
+de 30 mL d'une solution HC1 a 10%. Les lactones sont purifiees sur 
+
+colonne de silice. 
+1,4-Benzodioxin-2,3-dicarboxylic acid Cthyl ester,'rnCthyl ester 4 
+(58%); huile; ir (film) : 1735, 1670 crn-I; rrnn I H (CCI,) 6 : 1,35 
+(1, 3H, CH2-CH3, J = 6,6 Hz), 3,82 (s, 3H, OCH,), 4,29 (q, 2H, 
+CH2-CH3, J = 6,6 Hz), 6,65-7,05 (rn, 4H, arornatiques). 
+
+3-(HydroxyphCnylrntthy1)-1,4-benzodioxin-2-carboxylic acid Cthyl 
+ester 5 (72%); F = 123-124°C; ir (KBr) : 3100-3700; 1710, 
+
+1660crn-I; rmn 'H (CDC13) 6 : 3,82 (s, 3H, OCH,), 6,23 (s, IH, 
+CHOD), 6,60-6,95 (rn, 4H, arornatiques), 7,20-7,70 (rn, 5H, 
+arornatiques). 
+
+3,3-DirnCthyl-fur0[3,4-b] [1,4]benzodioxin-1 (3H)-one 6 c (88%); 
+
+F = 118-119°C; ir (KBr) : 1780, 1725 crn-I; rmn 'H (CCI,) 6 : 
+1,56 (s, 6H, CH3), 6,80-7,00 (rn, 4H, arornatiques). 
+Spiro[cyclohexane-1 , I ' (3'H)-furo[3,4-b] [1,4] benzodioxinl-3'-
+one 6d (95%); F = 117-1 18°C; ir (KBr) : 1770, 1720 crn-'; rrnn 
+IH (CCl4) 6 : 1,37-2,25 (rn, 10H, -(CH2)5-), 6,65-7,05 (rn, 4H, 
+arornatiques). 
+
+3-MCthyI-3-[2-(phCnylrnCthoxy)Cthyl]-furo[3,4-b] [1,4]benzodiox-
+
+in-1 (3H)-one 6 e (94%); F = 57-58°C; ir (KBr) : 1780, 1710 crn-' ; 
+rmn 'H (CDC13) 6 : 1,48 (s, 3H, CH3), 2,04 (t, 2H, CH,CH20, J = 
+5,5 HZ), 3,43 (t, 2H, CH2CH,0, J = 5,5 HZ), 4,29 (s, 2H, 0CH2Ph), 
+6,60-6,90 (rn, 4H, arornatiques), 7,02 (s, 5H, arornatiques). 
+
+3-MCthyl-3-[2-[(2-rntthoxyphCnyl)rnCthoxy]Cthyl]-furo[3,4-b]-
+[1,4]benzodioxin-1 (3H)-one 6 f (70%); F = 80°C; ir (KBr) : 1780, 
+1720 crn-I; rmn IH (CC1,) 6 : 1,53 (s, 3H, CH,), 2,08 (1, 2H, 
+CH2CH20, J = 5,3 HZ), 3,52 (t, 2H, CH2CH20, J = 5,3 Hz), 
+3,70 (s, 3H, OCH,), 4,38 (s, 2H, 0CH2Ar), 6,45-7,25 (rn, 8H, 
+arornatiques). 
+
+3-MCthyl-3-[2-[(3-rnCthoxyphCnyl)rnCthoxy]Cthyl]-furo[3,4-b]-
+
+[1,4]benzodioxin-1 (3H)-one 6g (85%); F = 88°C; ir (KBr) : 1780, 
+1720 crn-I; rmn 'H (CDC1,) 6 : 1,49 (s, 3H, CH,), 2,03 (t, 2H, 
+CH?CH,O, J = 5,3 HZ), 3,44 (t, 2H, CH2CH20, J = 5,3 HZ), 
+3,61 (s, 3H, OCH,), 4,25 (s, 2H, 0CH2Ar), 6,50-7,15 (rn, 8H, 
+arornatiques). 
+
+3-MCthyl-3-[2-[(4-rnCthoxyphCnyl)rnCthoxy]Cthyl]-furo[3,4-b]-
+
+[1,4lbenzodioxin-1 (3H)-one 6h (73%); F = 58-59°C; ir (KBr) : 
+1780, 1720 crn-'; rrnn 'H (CCI,) 6 : 1,54 (s, 3H, CH,), 2,11 (t, 2H, 
+CH2CH20, J = 5,2 HZ), 3,49 (t, 2H, CH2CH20, J = 5,2 HZ), 
+3,68 (s, 3H, OCH,), 4,19 (s, 2H, 0CH2Ar), 6,55-7,30 (rn, 8H, 
+arornatiaues). 
+
+&gt; 
+. 
+
+3-MCthyl-3-[2-[(2,3-dimCthoxyphCnyl)mCthoxy ] tthyll-furo[3,4-
+b] [1,4]benzodioxin-1 (3H)-one 6i (60%); F = 74-75°C; ir (KBr) : 
+1780, 1710crn-'; rrnn IH (CDCI,) 6 : 1 3 6 (s, 3H, CH,), 2,13 (t, 2H, 
+CH~CHZO, J = 5,2 HZ), 3,59 (t, 2H, CH2CH20, J = 5,2 Hz), 3,75 
+et 3,79 (2s, 6H, OCH,), 4,45 (s, 2H, 0CH2Ar), 6,60-7,05 (rn, 7H, 
+arornatiques). 
+
+3-MCthyl-3-[2-[(3,4-dirnCthoxyphCnyl)rnCthoxy]Cthyl]-furo[3,4-
+
+b][l,4]benzodioxin-1 (3H)-one 6 j (67%); huile; ir (film) : 1780, 
+1720 crn-I; rmn 'H (CC1,) 6 : 1,52 (s, 3H, CH,), 2,03 (t, 2H, 
+CH2CH20, J = 5,2 HZ), 3,44 (t, 2H, CH2CH20, J = 5,2 HZ), 
+3,69 (s, 6H, OCH,), 4,23 (s, 2H, 0CH2Ar), 6,55-7,00 (rn, 7H, 
+arornatiques). 
+
+3-MCthyl-3-[(2-rnCthoxy)Cthyl]-furo[3,4-b~~[1,4]benzodioxin-1 
+
+(3H)-one 6k (66%); F = 70°C; ir (KBr) : 1780, 1700 crn-l; rmn 'H 
+(CDC13) 6 : 1,59 (s, 3H, CH,), 2,11 (t, 2H, CH2CH20, J = 5,3 HZ), 
+3,22 (s, 3H, OCH,), 3,45 (t, 2H, CH2CH20, J = 5,3 HZ), 6,80-7,15 
+(rn, 4H, arornatiques). 
+
+3-Mtthyl-3-[2-[2-[2-(phCnylrnCthoxy)Cthoxy]Cthoxy]Cthyl]-furo-
+
+[3,4-b] [1,4]benzodioxin-1 (3H)-one 61 (55%); huile; ir (film) : 1780, 
+1720 crn-'; rmn 'H (CDC13) 6 : 1,53 (s, 3H, CH,), 2,07 (t, 2H, 
+
+Can. J. Chem. Downloaded from www.nrcresearchpress.com by 87.160.185.190 on 03/27/14 
+
+For personal use only. 
+
+
+MPASSI ET AL. 
+
+1137 
+
+CH2CH20, J = 5,2Hz), 3,30-3,65 (m, IOH, 0CH2CH20), 4,38 (s, 
+7k (66%); huile; ir (film) : 3600-3200, 1680cm-'; rnln 'H (CC14) 6 : 
+2H, 0CH2Ar), 6,68 (s, 4H, aromatiques), 7,08 (s, 5H, aromatiques). 
+1,38 (s, 3H, CH3), 1,80-2,10 (m, 2H, CH2CH20), 3,20-3,80 avcc 
+forte rksonance ? i 3,24 (m, 5H, CH30 et CH2CH20), 4,28 (s, 2H, 
+Re'duction des cotnpose's carbonyle's 4, 5 et 6 
+CH,OD), 6,40-6,90 (m, 4H, aromatiques). 
+Re'ducrion du diester 4 
+a-MCthyl-a-[2-[2-[2-(phCnylmCthoxy)~thoxy]Cthoxy]~thyl]-1 ,4-
+Apres avoir dissous 4 mmol du diester 4 ou de ['ester alcool5 dans 
+benzodioxin-2,3-dimCthanol 71 (60%); huile; ir (film) : 3600-3200, 
+10 mLde THF, la solution est refroidie aO°C; puis on additionne goutte 
+1680 cm-' ; rmn 1~ (cDc~,) 6 : 1,31 (s, 3 ~, CH,), 1,70-2,10 
+agoutte 16 mL d'une solution l,OM de DIBALdans le toluene. Aprks 
+(m, 2H, CH2CH20), 3,30-3,60 (m, 12H, 0CH2CH20), 4,31 (s, 2H, 
+3 h d'agitation a P C , le milieu rkactionnel est hydrolysk par I'eau, filtrC 
+0CH2Ar), 6,30-6,80 (m, 4H, aromatiques), 7,0] (s, 5H, aomatiques). 
+sur CClite, puis extrait ?i 1'Cther. La phase organique est sCchCe sur 
+MgS04, puis CvaporCe sous vide pour conduire aux dials 7 0 ou 70 qui 
+Pri~arali0,l des de'rive's dichlorks 8 
+sont purifiCs sur colonne de silice. 
+Le mode de prkparation de ces composCs ainsi que les caractkris-
+1,4.Benzodioxin-2,3-dim~thanol 7a (83%); F = 1 5 2 0 ~; ir ( K B ~) : 
+tiques spectrales de 8e, 8 f , 8g, 8h, 8i, 8 j et 8k ont dCjh fait l'objet 
+3750-3100, 1710 cm-I; rmn 'H (acktone d6) 6 : 3,99 (s, 4H, 
+d'une 
+dCtaillCe (8). 
+CH20D), 6,50-7,00 (m, 4H, aromatiques). 
+2,3-Bis[[2-(2-chlorokthoxy)Cthoxy]mCthyl j -l,4-benzodioxin 8a 
+a-PhCnyl-1,4-benzodioxin-2,3-dimkthanol 7 b (95%); F = 141-
+(57%); huile; ir (film) : 1710, 1100cm-'; rmn 'H (CCI,) 6 : 3,50-3,75 
+142°C; ir (KBr) : 3650-3000, 1710 cm-'; rmn 'H (acktone d6) 6 : 
+(m, 16H, OCH2CH?O), 4,01 (s, 4H, CH20), 6,60-6,90 (m, 4 ~, 
+4,29 (s, 2H, CH20D), 5,62 (s, lH, CHOD). 6,55-6,95 (m, 4H, 
+arOmatiques). 
+aromatiques), 7,20-7,70 (m, 5H, aromatiques). 
+2-[[2-(2-ChloroCthoxy)Cthoxy]mCthyl]-3-[[2-(2-chloroCthoxy)Cth-
+Re'duction des lactones 6 
+oxy]phCnylmCthyl]-l,4-benzodioxin 8 b (55%); huile; ir (film) : 1700, 
+
+Apr&amp; dissolution de 4 mmol de lactone dans 20 mL d3Cther anhydre 
+1090 cm-' ; rmn 'H (CCl4) 6 : 3&gt;30-3&gt;90 (m, 16H, OCHZCH~O), 
+
+on additionne par petites fractions LiAIH, a temperature ambiante. 
+4,12 (s, 2H, CH20), 5,12 (s, lH, PhCHO), 6,40-6,85 (m, 4H, 
+L'Cvolution de la riaction est suivie en ccm. La rCaction est hydrolysCe 
+aromatiques)3 7, 10-7'60 (m9 5H, aromatiques). 
+
+apres disparition de la lactone de dipart, les sels sent filtrCs sur C61ite et 
+
+2-[ [2-(2-Ch10roCthox~ ) C t h o x ~ 
+
+1 mtth~1]-3-[1-[2-(2-ch10roCth0x~)-
+
+la phase organique sCchCe sur MgSO,. Aprks Cvaporation des solvants 
+Cthoxyl-1-mCthylCthyl]-1,4-benzodioxin 8 c (66%); huile; ir (film) : 
+les diols sont purifiCs sur colonne de silice en utilisant un mClange 
+1690-1100 cm-'; rmn 'H (CCI,) 6 : 1,41 (s, 6H, CH3), 3,30-3,85 
+
+Cther -Cther de pCtrole (6 : 4). 
+(m, 16H, 0CH2CH20), 4,19 (s, 2H, CH20), 6,40-6,85 (m, 4H, 
+a,a-DimCthyl-1,4-benzodioxin-2,3-dimCthan01 7 c (90%); F = 
+aromatiques)' 
+
+147-148°C; ir (KBr) : 3700-3000,1700 cm-' ; rmn 'H (DMSO d6) 6 : 
+
+2-[I -[2-(2-ChloroCthoxy)Cthoxy]cyclohexyl]-3-[ [2-(2-chlorokth-
+
+,37 (s, 6H, CH3), 4,29 (s, 2H, CH20D), 6,60-6,90 (m, 4H, 
+~xy)Cthoxy)lmCthylI-134-benzodioxin 8 d (58%); huile; ir (film) : 
+
+aromatiques). 
+1690-1 100 cm-'; rmn 'H (CCl,) 6 : I ,lo-2,00 (m, 10H, -(CH2),-), 
+
+3-(1-Hydroxycyclohexyl)-1,4-benzodioxin-2-mCthanol7d (85%); 
+3,30-3,85 (m, 16H, 0CH2CH20), 4,18 (s, 2H, CH20), 6,40-6,90 
+F = 98-99°C; ir (KBr) : 3600-3100, 1680 cm-'; rmn 'H (CDCl-,) 6 : 
+(m, 4H, aromatiques). 
+
+1,10-2,10 (m, ]OH, -(CH2)5-), 4,39 (s, 2H, CH20D), 6,50-7,00 
+Pre'paration des nlacrocycles I 
+(m, 4H, aromatiques). 
+La synthese de ces dCrivts et les caractkristiques spectrales dc 
+a-MCthyl-2-[2-(phCnylmCthoxy)Cthyl]-l,4-benzodioxin-2,3-di-l e , 1 f , l g , l h , l i , l j et l k ant dkji fait l'objet d'une description 
+mCthanol 7 e (90%); huile; ir (film) : 3600-3100, 1680 cm-'; rmn 
+dCtaillCe (8). 
+
+'H (CC1,) 6 : 1,42 (s, 3H, CH3), 1,80-2,15 (m, 2H, CH2CH20), 
+6,8,9,11,12,19,20,22,23,25-DCcahydro-[1,4]benzodioxino[2,3-
+
+3,50-3,90 (m, 2H, CH2CH20), 4,22 et 4,29 (2s, 4H, OCH2Ph et 
+i][1,4,7,12,15,18]-benzohexaoxacycloeicosin l a (40%); F = 118°C; 
+CH20D), 6,45-6,85 (m, 4H, aromatiques), 7,13 (s, 5H7 aromatiques). 
+ir (KBr) : 1710, 1100 cm-' ; rrnn 'H acetone d6 6 : 3,70-4,30 avec 
+a-M~thy~-~-[2-~(2-m~thox~ph~~~~)m~thoxyl~thy~l-l,4-be~zodiox-forte rCsonance i 3,75 et 4,15 (m, 20H, CH20), 6,60-7,00 (m, 8H, 
+in-2,3-dimethanol 7f (70%); huile; ir (film) : 3600-3200, 1680 cm-'; 
+aromatiques); sm (m/z) : 444 (Mt). Anal. calc. pour C24H280e : 
+rmn 'H (CC14) 6 : 1,37 (s, 3H, CH3), 1,80-2,10(m, 2H, CH2CH20), 
+
+C 64,85, H 6,35; trouvC: c 64,71, H 6,47. 
+
+3,50-3,90 avec forte rCsonance a 3,71 (m, 5H, 0CH3 et CH2CH20), 
+
+6,8,9,11,12,19,20,22,23,25-DCcahydro-6-phCnyl-[1,4]benzodiox-
+
+4,18 et 4,41 (2s, 4H, OCH2Ar et CH30D), 6340-73 (my 8H, 
+ino[2,3-i][l,4,7,12,15,18]-benzohexaoxacycloeicosin 1 0 (40%); huile; 
+aromatiques). 
+ir (film) : 1705, 1100 cm-' ; rmn 'H (CCl,) 6 : 3,25-4,50 (m, 18H, 
+
+~-M ~t h ~l -a -[ 2 -[ ( 3 -m ~t h o x ~~h ~n y l ) m ~t h o x ~---
+
+CH20), 5,21 (s, lH, PhCH-0), 6,35-7,05 (m, 8H, aromatiques), 
+in-2,3-dimCthanol7g (85%); huile; ir (film) : 3600-3100, 1680 cm-'; 
+7,05-7,60 (m, 5H, aromatiques); sm (tn/z) : 520 (Mt). Al~al. calc. 
+rmn 'H (CC14) 6 : 1 3 (s, 3H, CH3), 1,80-2,10 (m, ZH, CH2CH20), 
+pour C30H3208: C 69,22, H 6,20; trouvC: C 69,37, H 6,29. 
+3 3 -3 3 5 avec forte rksonance a 3,67 (m, 5H, OCH3, CH2CH201, 
+
+6,8,9,11,12,19,20,22,23,25-DCcahydr0-6,6-dimCthyl-[1,4]b~~~o-
+
+4,20-4,45 (m, 4H, OCHzAr . ., et CHrOD), 6,40-7,30 (m, 8H, 
+dioxino[2,3-i][1,4,7,12,15,18]-benzohexaoxacycloeicosin l c (68%); 
+aromatiques). 
+huile; ir (film) : 1690, 1105 cm-'; rmn 'H (CC14) 6 : 1.41 (s, 6H, CH3), 
+
+a-MCth~l-a-[2-[(4-mCthox~~hCnyl)mCthox~l~-1,4-benzodiox-3,35-4,20 (m, 16H, CH20), 4 , 3 1 (s, 2H, CHrO), 6,60-7,00 (m, 8H, 
+
+in-2,3-dimCthanol7h (73%); huile; ir (film) : 3600-3200, 1680 cm-'; 
+aromatiques); sm (m/z) : 472 (M'). Anal. talc. pour C 2 6 ~3 2 0 8 
+
+: 
+
+rmn 'H (CC14) 6 : 1,36 (s, 3H, CH3), 1,80-2,10 (m, 2H, CH2CH2O), 
+C 67,99, H 6,87; trouvC : C 68,15, H 6,73. 
+
+3,30-3,80 avec forte risonance a 3,71 (m, 5H, OCH2CH20), 4,10-
+
+8,9,11,12,19,20,22,23-Octahydro-spiro-[1,4] benzodioxino[2,3-
+
+4,40 (m, 4H, OCHzAr et CH20D). 6,50-7,20 (m, 8H, aromatiques). 
+
+i 1 [1,4,7,12,15,18]-benzohexaoxacycloeicosin-6 (25H)-1 '-cyclohex-
+
+a -~C t h ~l -a -[ 2 -[ ( 2 , 3 -d i m C t h o x y p h C n y 1 ) m ~t h y l -
+,4-benzo-
+ane l d (52%); huile; ir (film) : 1685, 1100 cm-'; rmn 'H (CC14) 6 : 
+dioxin-2,3-dimkthanol 7i (62%); huile; ir (film) : 3600-3100, 
+1,20-2,10 (m, OH, -( C H ~) ~-) , 
+3,30-4,10 (m, 16H, CH?O), 4,21 
+1680 cm-' ; rmn 'H (CDC13) 6 : 1,41 (s, 3H3 CH3), 1,80-2,15 (m, 2H3 
+(s, 2H, CH,O), 6,50-6,70 (m, 8H, aromatiques); sm (m/z) : 512 
+CH~CHIO), 3,70-4,05 avec forte rksonance a3,78 (m, 8H, OCH3 et 
+(Mt). Anal. calc. pour C29H3608 : C 67,95, H 7,08; trouvC : C 67,72, 
+CH2CH20), 4,29 et 4,45 (2s, 4H, 0CH2Ar et CH20D), 6,60-7,20 
+H 7,21. 
+(m, 7H, aromatiques). 
+
+a-MCthyl-a-[2-[(3,4-dimCthoxyphCnyl)mCthoxy]Cthyl]-1 ,4-benzo-
+Prbparafion des macrocycles 2 
+dioxin-2,3-dimCthano1 7 j (67%); huile; ir (film) : 3600-3 100, 
+Mode ope'ratoire ge'ne'ral 
+1680cm-'; rmn 'H (CC1,) 6 : 1.36 (s, 3H, CH3), 1,70-2,10 (m, 2H, 
+On soumet 4 mmol de diol en solution dans 30 rnL de THF 5 l'action 
+CH2CH20), 3,20-3,90 avec forte rCsonance i 3,69 (m, 8H, CH30 et 
+de 4,4 mmol de NaH. Aprks 2 h de contact a reflux on additionne 
+CH2CH20), 4,23 et 4,32 (2s, 4H, 0CH2Ar et CH20D), 6,40-6,80 
+4 mmol du bistosylate du polyCthyleneglyco1 appropriC en solution 
+(m, 7H, aromatiques). 
+dans 70 mL de THF. On laisse i reflux pendant 24 h. Aprts retour 
+a-M~thyl-a-[(2-mCthoxy)~thyl]-l,4-benzodioxin-2,3-dimCthanol B tempirature ambiante, on hydrolyse, extrait i 1'Cther et skche la 
+
+Can. J. Chem. Downloaded from www.nrcresearchpress.com by 87.160.185.190 on 03/27/14 
+
+For personal use only. 
+
+
+1138 
+
+CAN. J. CHEM. 
+
+phase organique sur MgS04. Apres Cvaporation des solvants, les 
+rnacrocycles 2 sont purifies sur colonne de silice en utilisant cornrne 
+Cluant un rnClange CH30H-CH2C12. 
+6,8,9,11,12,14,15,17,18,20-DCcahydro-6,6-dirnCthy1-[1,4]benzo-
+dioxino[2,3-c] [1,6,9,12,15]-pentaoxacycloheptadecin 2cl huile; ir 
+(film) : 1685, 1100 crn-'; rmn 'H (CDCI,) 6 : 1,41 (s, 6H, CH,), 
+3,40-3,90 (rn, 16H, 0CHaCH20), 4,41 (s, 2H, CH,O), 6,50-6,90 
+
+(m, 4H, arornatiques); srn (mlz) : 398 (MC + 18). Anal. calc. pour 
+
+C20H2807 : C 63,14, H 7,42; trouve : C 62,91, H 7 3 9 . 
+
+6,8,9,11.12,14,15,17,18,20,21,23-Dodtcahydro-6,6-dirnCthy1-
+[1,4]benzodioxino[2,3-c] [I ,6,9,12,15,18]-hexaoxacycloeicosin 2c2 
+huile; ir (film) : 1685, 1100 crn-'; rmn 'H (CDCI,) 6 : 1,37 (s, 6H, 
+CH3), 3,40-3,90 (rn, 20H. 0CH2CH20), 4,17 (s, 2H, CH?O), 
+
+6,40-6,80 (rn, 4H, arornatiques); srn (tnlz) : 442 (M' + 18). Anal. 
+
+calc. pour C12H3206 : C 62,25, H 7,60; trouvk : C 62,47, H 7,43. 
+6,8,9,11,12,14,15,17,18,20,21,23,24,26-TCtradCcahydro-6,6-di-
+rntthyl-[l,4]benzodioxino[2,3-c~~[1,6,9,12,15,18,21]-heptaoxacyclo-
+tricosin 2c3 huile; ir (film) : 1685, 1100 crn-' ; rrnn IH (CDCI,) 6 : 1,37 
+(s, 6H, CH,), 3,40-3,70 (rn, 24H, 0CH2CH20), 4,11 (s, 2H, CH20), 
+
+6,40-6,70 (m, 4H, arornatiques); srn (tn/z) : 486 (M' + 18). Anal. 
+
+calc. pour C24H3609 : C 61,52, H 7,74; trouvk : C 61,39, H 7.90. 
+
+6,8,9,11,12,14,15,17,18,20,21,23,24,26,27,29-Hexad~cahydro-
+6,6-dirnCthyl-[1,4]benzodioxino[2,3-c] [1,6,9,12,15,18,21,24]-octa-
+
+oxacyclohexacosin 2c4 huile; ir (film) : 1685, l 100 crn-I; rrnn 'H 
+(CDC13) 6 : 1,44 (s, 6H, CH3), 3,40-3,85 (rn, 28H, 0CH2CH20), 
+4,33 (s, 2H, CH20), 6,60-7,00 (rn, 4H, arornatiques); srn (mlz) : 
+
+(M' + 18). Anal. calc. ~o u ~C ~~H ~~~~~ 
+
+: C 60,42, H 7,91; trouvk : 
+C 60,18, H 7,75. 
+6,8,9,11,12,14,15,17,18,20,21,23,24,26,27,29,30,32-0ctadCca-
+hydro-6,6-dirntthyl-[1,4]benzodioxino[2,3-c~[1,6,9,12,15,18,21,-
+
+24,271-nonaoxacyclononacosin 2c5 huile; ir (film) : 1685, 1090 crn-I; 
+rrnn 'H (CDCI,) 6 : 1,47 (s, 6H, CH,), 3,55-3,90 (rn, 32H, 
+0CH2CH20), 4,36 (s, 2H, CH20), 6,60-6,90 (rn, 4H, arornatiques); 
+
+srn (mlz) : 574 (M' + 18). Anal. calc. pour C28H44011 : C 59,98, 
+
+H 8,05; trouvC : C 60,21, H 7,88. 
+
+6,8,9,11,12,14,15,17,18,20,21,23,24,26,27,29,30,32,33,35-Ei-
+cosahydro-6,6-dimethyl-l1,4] benzodioxino[2,3-cJ [1,6,9,12,15,18,-
+2 1,24,27,30]-dtcaoxacycloditiacosin 2c6 huile; ir (film) : 1685, 
+1090 crn-I; rmn 'H (CDC13) 6 : 1,45 (s, 6H, CH,), 3,50-4,00 
+(rn, 36H, 0CH2CH20), 4,29 (s, 2H, CH20), 6,60-6.90 (rn, 4H, 
+
+arornatiques); srn (tn/z) : 618 (M' + 18). Anal. calc. pour C30H4sO12 : 
+
+C 63,89, H 7,74; trouvt : C 63,67, H 7,56. 
+
+6,8,9,11,12,14,15,17,18,20,21,23,24,26-TCtradCcahydro-6-rnCth-
+yl-6-[2-(phtnylrnCthoxy)~thyl]-[1,4]benzodioxino[2,3-c][1,6,9,12,-
+15,18,21]-heptaoxacyclotricosin 2e huile; ir (film) : 1680, 1 1 0 0 ~r n -~; 
+rrnn I H (CDCI3) 6 : 1,42 (s, 3H, CH3), 2,05-2,30 (rn, 2H, CHICH20), 
+3,45-4,00 (rn, 26H, 0CH2CHrO), 4,25-4,65 (rn, 4H, CH20 et 
+0CH2Ph), 6,60-6,90 (rn, 4H, aromatiques), 7,26 (s, 5H, arornati-
+
+ques); srn (mlz) : 606 (M+ + 18). Anal. calc. pour C32H44010 : 
+
+C 65,29, H 7 3 3 ; trouve: C 65,01, H 7,70. 
+
+6,8,9,1 I ,I 2,14,15,~,1,8,20,21,23,24,26-T~tradCcahydro-6-rnCth-
+yl-3-[2-[2-[2-(phCnylrnCthoxy)Cthoxy]Cthoxy]tthy~]-[1,4]benzodiox-
+ino[2,3-c][1,6,9,12,15,18,21]-heptaoxacyclotricosin 21 huile; ir (film) : 
+1685-1 100crn-I; rmn I H (CDCI,) 6 : 1,42 (s, 3H, CH3), 2,OO-2.20 
+(m, 2H, CH20), 3,45-3,90 (rn, 32H, 0CH2CH20), 4,lO-4,45 (rn, 
+4H, CH20), 4 3 7 (s, 2H, 0CH2Ph), 6,60-7,00 (rn, 4H, arornatiques), 
+
+7,32 (s, 5H, arornatiques); sm (mlz) : 694 (M' + 18). Anal. calc. pour 
+
+C36H52012 : C 63,89, H 7,74; trouvt : C 63,67, H 7,56. 
+
+Ditermination potentiomitrique des constntztes de conlplexation des 
+ions sodium et potassi~itn par les produits priparis 
+Celle-ci est effectuCe i I'aide d'un millivoltrn~tre Orion 701/A. 
+La determination des constantes est basCe sur la mesure de la tension 
+
+rCversible d'une cellule galvanique forrnCe d'une Clectrode spkcifique 
+au cation Ctudit et d'une Clectrode de rCfCrence. L'Clectrode de mesure 
+est une Clectrode de verre sensible soit aux ions sodium (Jena" glass), 
+soit aux ions potassium (Tacussel type pKV3). 
+L'tlectrode de reference est une Clectrode au calomel satur@ 
+dans le methanol rnunie d'une jonction constituee par une solution 
+0,08 rnol dm-, de perchlorate de tCtraCthylarnrnonium dans le metha-
+nol. Lors des rnesures, les solutions sont rnaintenues i 25,O"C et une 
+agitation rnagnCtique est assurCe en permanence. 
+Les chlorures de potassium et de sodium sont des produits Merck 
+Suprapur, le rnCthanol utilisC est aussi un produit Merck &lt;(RCactif pour 
+
+analyse)) de teneur en eau infkrieure i 0,01%. 
+
+A un certain volume de rnCthanol pur, placC dans la cellule, 
+sont ajoutCes des quantites croissantes d'une solution concentrke du 
+chlorure alcalin dans le mtthanol, ce qui rCalise 1'Ctalonnage. Nous 
+ajoutons alors des aliquotes successives d'une solution concentrte de 
+1'Cther couronne dans le rnithanol. 
+Les rCactions 111 et [2] sont isoClectriques. La correction d'activite 
+peut donc ktre nkgligte. La constante de formation de EM', K I , est 
+calculCe pour les divers rapports Cther : cation. Les valeurs obtenues 
+sont le plus souvent, cornpte-tenu de la prtcision, invariablcs. Dans le 
+cas contraire, oh une variation systtmatique de K I avec le rapport 
+Cther : cation est observke, nous prenons en cornpte la formation du 
+second complexe EzM+ et utilisons alors, pour traiter les rksultats, la 
+rnCthode de calcul de Leden. 
+
+I . C. J. PEDERSEN. J. Am. Chern. Soc. 89, 2495 (1967); 89, 7017 
+(1967). 
+2. J. S. BRADSHAW et J. Y. K. Hut. J. Heterocycl. Chern. 11, 649 
+(1974). 
+3. G. W. GOKEL, D. H. DISHONG, R. A. SCHULTZ et V. J. GATTO. 
+Synthesis, 997 (1982). 
+4. G. W. GOKEL et S. H. KORZENIOWSKI. Macrocyclic polyether 
+syntheses. Springer-Verlag. Berlin, Heidelberg, New York. 
+1982. 
+5. J. M. LEHN. ACC. Chern. Res. 11, 49 (1978). 
+6. F. VOGTLE et E. WEBER. Angew. Chern. 91, 813 (1979). 
+7. G. W. GOKEL, D. M. DISHONG et C. J . DIAMOND. J. Chern. 
+Soc. Chern. Cornrnun. 1053 (1980). 
+8. G. COUDERT, G. GUILLAUMET et M. MPASSI. Synthesis, 1 12 
+(1985). 
+9. G. GUILLAUMET, G. COUDERT et B. LOUBINOUX. Tetrahedron 
+Lett. 4379 (1979). 
+10. G. MICHAUX et J. REISSE. J . Am. Chern. Soc. 104,6895 (1982). 
+11. G. W. GOKEL, D. M. GOLI, C. MINGANTI et L. ECHEGOYEN. 
+J. Am. Chern. Soc. 105, 6786 (1983). 
+12. D. G. PARSONS, M. R. TRUTER et J. N. WINGFIELD. Inorg. Chirn. 
+Acta, 47, 81 (1980). 
+13. D. E. FENTON, D. PARKIN et R. F. NEWTON. J . Chern. Soc. 
+Perkin Trans. 1, 449 (1 98 1 ). 
+14. Y. NAKATSUJI, T. NAKAMURA et M. OKAHARA. Chemistry Lett. 
+1207 (1982). 
+15. Y. NAKATSUJI, T. NAKAMURA, M. OKAHARA, D. M. DISHONG et 
+G. W. GOKEL. Tetrahedron Lett. 1351 (1982). 
+16. Y. NAKATSUJI, T. NAKAMURA, M. OKAHARA, D. M. DISHONG et 
+G. W. GOKEL. J . Org. Chern. 48, 1237 (1983). 
+17. M. OUCHI, Y. INOUE, K. WADA, S. IKETANI, T. HAKUSHJ et 
+E. WEBER. J. Org. Chern. 52, 2420 (1987). 
+18. L. LALLOZ, V. LOPPINET, G. COUDERT, G. GUILLAUMET, B. 
+LOUBINOUX, C. LABRID, M. BEAUGHARD, G. DURENG et J. C. 
+LAMAR. J. Med. Chem. 24, 994 (1981). 
+
+Can. J. Chem. Downloaded from www.nrcresearchpress.com by 87.160.185.190 on 03/27/14 
+
+For personal use only. 
+
+
+
+	
+

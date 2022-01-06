@@ -1,0 +1,782 @@
+
+	
+
+		
+
+	
+
+	
+
+Chimie des radioprotecteurs : 
+synthese d'alkylamino-2 ethanethiols encombres sur l'atome d'azote 
+
+JOELLE LADURANTY, FRANCIS BARBOT ET L ~O N E 
+
+MIGINIAC' 
+
+Laboratoire de synthbse organique, Unite' Associe'e 574 Centre national de la recherche scient~j'ique, Universite' de Poitiers, 
+40, avenue dn Recterir Pinean, 86022 Poitiers, France 
+R e p le 30 juillet 1986 
+
+JOELLE LADURANTY, FRANCIS BARBOT et L ~O N E 
+MIGINIAC. Can. J. Chem. 65, 859 (1987). 
+
+La mise au point de la synthtse d'alkylamino-2 tthanethiols portant un groupe tertiaire sur l'atome d'azote a ttC rtaliske. 
+L'action de magntsiens allyliques sur les thiazolidines, les alkyl-2 thiazolines et les thiomtthyl-2 thiazolines s'est rtvtlee 
+une mtthode de choix pour obtenir ces composts avec un groupe tertiaire comportant respectivement un, deux et trois 
+motifs allyliques. 
+
+JOELLE LADURANTY, FRANCIS BARBOT, and L ~O N E 
+MIGINIAC. Can. J. Chem. 65, 859 (1987). 
+
+Synthesis of 2-alkylaminoethanethiols with a tertiary group fixed to the nitrogen atom has been achieved. A very convenient 
+method of access to such 2-alkylaminoethanethiols with one, two, and three ally1 substituents is the reaction between allylic 
+organomagnesium compounds and thiazolidines, 2-alkylthiazolines, and 2-methylthiothiazolines respectively. 
+
+Introduction 
+Au cours de ces dix dernikres annCes, l'emploi des radio-
+protecteurs chimiques a pris un essor considtrable. En effet, de 
+tels composCs sont d'une utilitC potentielle dans le traitement du 
+cancer : en radiothkrapie, ils posskdent la propriCtt de prottger 
+les cellules saines et, en chimiothkrapie, ont Cgalement un effet 
+bCnCfique sptcifique en ((saturant)) ces mCmes cellules et en 
+minimisant ainsi la toxicit6 des antimitotiques utilists (1, 2). 
+Ces travaux ont en particulier mis en Cvidence lYinttrCt de la 
+
+cystkamine I et de ses dCrivCs aliphatiques (1-8), ainsi que le 
+
+r6le dtterminant du vecteur. Cependant la cystCamine prtsente 
+une certaine toxicite : certaines transformations, par exemple 
+la formation de thiazolidines (9-12) ou bien celle de ponts 
+disulfure (13, 14), permettent de la diminuer; le passage de la 
+cystearnine a sa forme S-phosphorylte I1 (1 5-18) ou encore sa 
+transformation en acides S-[(aminopropyl-3)aminoCthyl-21 et 
+S-[(N-mCthylaminopropy1-3)aminotthyl-21 phosphorothioiques 
+I11 et IV (15-17, 19) conduit Cgalement a des radioprotecteurs 
+trks intkressants : 
+
+H2N-CH2-CH2-SH 
+H2N-CH2-CH2-S-P03HNa 
+I 
+I1 
+
+H2N-(CH2)3-NH-CH2-CH2-SP03H2 
+I11 
+
+CH3-NH-(CH2)3-NH-CH2-CH2-SP03H2 
+
+. IV 
+La substitution d'un hydrogkne de la fonction amine de 
+la cysttamine par un groupe alkyle saturt, insaturC et (ou) 
+fonctionnel, d'encombrement stCrique notable, ttant suscep-
+tible de jouer un r6le important sur les proprietes radioprotec-
+trices (libtration retardCe de la cystearnine par dkalkylation 
+stlective par mCtabolisme) et sur la toxicitt de la cysttamine, 
+nous nous sommes proposCs de mettre au point des mCthodes 
+simples et gCnCrales d'accks aux dtrivts de type : 
+
+I. Acces aux alkylamino-2 ethanethiols par action d'une 
+amine primaire sur le mercaptoethyl-2 carbonate d'ethyle 
+L'ouverture par une amine primaire (selon rCfs. 21, 22) du 
+thiotpoxyde (produit peu stable) conduisant des rCsultats 
+dCcevants ou difficilement reproductibles, nous avons prtfCrt 
+utiliser le schCma rkactionnel suivant : 
+
+toluene 
+[I] R2-L-NH2 
+
++ C2H50CO-0CH2CH2SH -
+
+I 
+20 h reflux 
+
+En prCsence d'une base, le mercaptoCthy1-2 carbonate d'Cthyle 
+se dCcompose en thioCpoxyde selon le micanisme rCactionne1 
+proposC dans la rCf 20. 
+Nos essais ont Ct C rCalisCs avec l'amino-1 tCtramtthy1-1,1,3,3 
+butane et l'amino-2 mCthyl-2 propanol, ainsi qu'&amp;ec trois 
+autres amines primaires a groupe tertiaire, prCparCes selon les 
+rtfs. 23-25, pour lesquelles R1, R2, R3 = cycloalkyle, allyle, 
+tthynyle, vinyle ou alkyle fonctionnel; nous avons Cgalement 
+considtrC le cas particulier d'une diamine primaire de type 
+nCopentylique, le dimethyl-2,2 diamino-1,3 propane. 
+Les rksultats du tableau 1 montrent que la rCaction a lieu dans 
+tous les cas et conduit avec des rendements de 30-68% a 
+l'aminothiol attendu; la rtaction n'a lieu qu'une seule fois avec 
+la diamine, malgrt I'utilisation d'une quantitC double de rtactif. 
+Enfin, signalons la cyclisation partielle in situ de l'aminothiol 
+a fonction acttylCnique en sulfure vinylique (26) : 
+
+--
+
+R I , R2, R, = alkyle, allyle, propargyle, alkyle fonctionnel 
+R4, R5 = H alkyle 
+
+Cette mCthode permet donc d'atteindre des aminothiols 
+secondaires a groupe alkyle encombrt, lorsque l'amine primaire 
+1. Auteur i qui adresser toute correspondance. 
+nCcessaire est commerciale ou facile a prCparer; cependant, 
+Can. J. Chem. Downloaded from www.nrcresearchpress.com by 87.160.185.190 on 03/27/14 
+
+For personal use only. 
+
+
+Can. J. Chem. Downloaded from www.nrcresearchpress.com by 87.160.185.190 on 03/27/14 
+
+For personal use only. 
+
+
+LADURANTY ET AL. 
+
+TABLEAU 2. Preparation d'amino-2 thiols par action de magnksiens a-insaturks sur les thiazolidines 
+
+Thiazolidine 
+RMgX 
+Produit obtenu 
+Rdt (%) 
+
+*RCsidus abondants 
+
+En rCsumC, cette rkaction constitue donc une trts bonne 
+organomCtallique deux, puis trois groupements allyles sur le 
+mkthode de prkparation d'alkylamino-2 Cthanethiols secon-
+
+groupe carbon6 rattachk B l'azote. 
+
+daires a groupe tertiaire. 
+Nous avons donc envisage de partir de thiazolines et d'ktudier 
+leur comportement vis a vis d'organomagnksiens allyliques; 
+111. Acces aux alkylamino-2 ethanethiols par action d'un 
+
+cette 
+peut se dtrouler de la manitre suivante en 
+organomagnesien a-insature sur une thiazoline 
+impliquant vraisemblablement d'ailleurs le passage a une 
+Compte tenu des rksultats precedents, il ktait intkressant 
+thiazoiidine N-mCtallte analogue 2 celles intervenant dans le 
+d'essaier, ? I partir d'un substrai adCquat, d'introduire par voie 
+paragraphe prkckdent 
+Can. J. Chem. Downloaded from www.nrcresearchpress.com by 87.160.185.190 on 03/27/14 
+
+For personal use only. 
+
+
+862 
+
+CAN. J. CHEM. VOL. 65, 
+
+De mCme : 
+
+MgBr 
+Mg Br 
+
+I 
+
+\ /CH2-CH=CH2 
+
+I 
+
+[ d &gt; ~-~~2 -~~= ~~2 -cN S' \CH2-cH=CH2 + [ t i z A : ~2 -~~= ~~2 ) 3 I 
+
+A notre connaissance, l'action des magntsiens allyliques sur des thiazolines simples n'a pas Ct C envisagte; signalons cependant 
+les travaux rtcents relatifs 2 l'action de divers magnksiens sur les benzothiazoles (35-38). 
+Alors que les magnCsiens saturCs rCalisent gkntralement une reaction de mCtallation au niveau du groupe R (36), les magnksiens 
+allyliques conduisent gCnCralement a une ouverture de cycle (35, 37), les auteurs n'isolant pas l'aminothiol resultant, mais 
+
+I 
+
+directement le disulfure : 
+
+I 
+
+I 
+
+I 
+
+I 
+
+MgBr 
+MgBr 
+
+I 
+I 
+
+181 a N y R 
+S 
+
++ 2 CH2=CHCH2MgBr -+ 
+
+a:xzH 2-CH=CH2 
+
+En outre, les auteurs signalent I'arrCt possible 2 la benzothia-
+zoline, en utilisant le dichloromtthane au lieu de l'tther (38). 
+Nous avons prCparC par des mCthodes usuelles plusieurs 
+alkyl-2 thiazolines diversement substitutes (39-41; voir Cgale-
+ment la rtf. 56) ainsi que deux thiomkthyl-2 thiazolines 
+
+(42-44), et ttudiC leur comportement vis a vis des magntsiens 
+
+allyliques. 
+Les rCsultats obtenus dans cette Ctude figurent dans le tableau 
+3 et permettent de faire les remarques suivantes : 
+(a) La rCaction a lieu dans tous les cas et permet d'atteindre 
+les aminothiols attendus avec des rendements moyens (30-
+50%) avec une thiazoline non substituCe sur la chaine carbonCe, 
+et avec des rendements un peu plus faibles (20-40%) avec une 
+thiazoline substitute. Le rendement est aussi plus faible lors de 
+l'action du chlorure de mCthallylmagntsium sur une thiazoline 
+simple, la structure ttant plus encombrte que dans le cas du 
+
+thiazoline du bromure d'allylmagnCsium, au sein de l'tther ou 
+du dichloromCthane, conduit toujours au produit d'ouverture. 
+(b) La rkaction permet tgalement d'atteindre, i. partir de 
+la thiazoline non substituCe en C2, des aminothiols 2 groupe 
+secondaire. Ce rtsultat est intCressai~t, car il se forme le mCme 
+dCrivk que celui qui rtsulterait de l'action d'un hydrure sur la 
+thiazolidine : 
+
+NH CH2-CH=CH2 
+
+LA CH2-CH=CH2 
+
+d'acces trks difficile, puisqu'impliquant l'emploi d'une cttone 
+P,P1-ditthylknique. 
+L'action des magnCsiens allyliques sur les thiazolines permet 
+donc de prCparer aisCment des aminothiols 5. groupe tertiaire 
+comportant deux ou trois substituants allyliques. 
+Conclusion 
+groupe allyle. La encore, fes rendements en-aminothiols isolts 
+Nous avons pu rtaliser, dans des cas structuraux variCs, 
+dCpendent beaucoup des prCcautions prises lors de l'isolement 
+la synthese d'alkylamino-2 Cthanethiols possCdant un groupe 
+(voir partie experimentale). 
+tertaire sur l'atome d'azote. 
+A noter que contrairement a la rCf. 38, l'action sur une 
+Nos rksultats montrent egalement que la voie de synthese 
+Can. J. Chem. Downloaded from www.nrcresearchpress.com by 87.160.185.190 on 03/27/14 
+
+For personal use only. 
+
+
+ET AL. 
+
+TABLEAU 3. Preparation d'amino-2 thiols par action de magnesiens a-insatures sur les thiazolines 
+
+Thiazoline 
+RMgX 
+Produit obtenu 
+Rdt (%) 
+
+Can. J. Chem. Downloaded from www.nrcresearchpress.com by 87.160.185.190 on 03/27/14 
+
+For personal use only. 
+
+
+864 
+
+CAN. J. \ 
+
+organomktallique impliquant l'action d'organomagnksiens al-
+lyliques sur les thiazolidines, les alkyl-2 thiazolines et les 
+
+thiomethyl-2 thiazolines est une mkthode trks intkressante, car 
+gknkrale et facile h mettre en oeuvre. 
+
+Partie experimentale 
+
+Introduction 
+Les chromatographies en phase gazeuse ont Ct C effectuCes avec un 
+
+appareil Intersmat IGC 12 M (dCtecteur a conductibilitC thermique) 
+
+Cquipt de colonnes analytiques de 2 m (diamktre : 0,63 cm), remplis-
+sage soit 20% SE 30, soit 20% Carbowax 20 M sur Chromosorb W. 
+Les spectres infrarouges ont Ct C enregistrCs sur les produits 1'Ctat 
+pur entre lames de chlorure de sodium avec un appareil IR 4240 
+Beckrnan. Intensites des bandes : F, forte; m, moyenne; f, faible; 
+tf, trks faible. 
+Les spectres rmn ont ttC enregistrks en solution dans CC14 60 MHz 
+sur un appareil Perkin-Elmer R 24 A. Les dCplacements chimiques 
+sont exprimCs en ppm par rapport au tCtramCthylsilane utilisC comme 
+rkfkrence. 
+Les analyses ClCmentaires ont Ct C effectukes par le service central 
+d'analyse du CNRS. 
+L'Cther et le tktrahydrofuranne utilisCs ont Ct C prkalablement 
+dessCchCs et dCsoxygCnCs par distillation sur benzophCnone/sodium, 
+sous courant d'azote sec. 
+
+Priparation des magne'siens 
+Les bromures d'allylmagnCsium, chlorure de mCthallylmagnCsium 
+et bromure d'allCnylmagnCsium ont Ctt prCparCs au sein de 1'Cther 
+(45, 46). 
+
+Pre'paration des matiPres premiires 
+( 1 ) Amines primaires a groupe tertiaire 
+Les tCtramCthyl-1,1,3,3 butylamine, dimCthyl-I, 1 hydroxy-2 Cthyl-
+amine et dimethyl-2,2 diamino-1,3 propane sont des produits commer-
+ciaux utilisCs aprks redistillation. Les amino-4 mCthoxymCthy1-4 
+heptadikne-1,6 (23), amino-1 Cthynyl-1 cyclohexane (24, 25, 47) et 
+amino-1 vinyl-1 cyclohexane (25) ont Ct C obtenus selon des mtthodes 
+usuelles. 
+(2) Thiazolidines 
+Elles sont obtenues selon les rCfs. 29 et 30. Les cCtones employCes 
+dans cette rkaction sont des produits commerciaux (pentanone-2 
+et pentanone-3) ou ont Ct C prCparCes selon des techniques usuelles : 
+mCthoxy -1 butanone-2 (52), thiomCthy1-1 propanone-2 (49, 53), 
+mCthoxy-1 butanone-3 (48) et thiomkthyl-1 butanone-3 (49-51). 
+Les constantes physiques des thiazolidines figurent dans le tableau 4. 
+(3) Alkyl-2 thiazolines 
+Elles sont prCparCes selon les refs. 39-41. Les aminoalcools 
+impliquCs dans cette reaction sont des produits commerciaux (utilisks 
+aprks redistillation) ou sont prCparCs selon des mCthodes usuelles 
+(54, 59). 
+Les constantes physiques des alkyl-2 thiazolines figurent dans le 
+tableau 5. 
+(4) Thiome'thyl-2 thiazolines 
+Elles sont prCparCes selon les rCfs. 42-44. Leurs constantes 
+physiques figurent dans le tableau 5. 
+
+Modes ope'ratoires 
+PremiPre mithode 
+
+On o@re sous atmosphkre d'azote dans un ballon i trois tubulures 
+
+de 250 mL Cquip6 d'une ampoule, de deux rCfrigCrants ascendants 
+
+(le premier a circulation d'eau, le second rCfrigCrC par un courant 
+d'alcool refroidi h -30°C). 
+
+L'amine primaire (0,3 mol) en solution dans 50 mL de tolukne 
+anhydre est chauffCe reflux; 0 , l mol de mercaptoCthy1-2-carbonate 
+
+d'kthyle est alors ajoutCe par un goutte a goutte rapide et le milieu 
+
+rkactionnel est chauffi B reflux pendant 20 h environ. Aprks concentra-
+
+tion du milieu rCactionnel B 1'Cvaporateur rotatif a l'aide d'un bain 
+
+d'eau ii 45°C environ, le rCsidu est distill6 sous pression rtduite la plus 
+faible possible. 
+
+TABLEAU 4. Constantes physiques des thiazolidines 
+
+r:x; 
+
+-
+-
+-
+
+RCf. 
+Eb. 
+R 1 
+R~ 
+Litt. 
+("C/Torr) 
+n: 
+Rdt (%) 
+
+DeuxiPme me'thode 
+
+(a) Cas d'un magntsien allylique. Dans un ballon a trois tubulures de 
+
+1000 mLprCalablement sCchC i la flamme sous atmosphkre d'azote, on 
+place une solution de 0,06 rnol de thiazolidine dans 220 mL dlCther. On 
+
+introduit goutte goutte, a t = 0-5"C, le magnCsien, prtalablement 
+
+dCcantC, prCparC selon la rCf. 45 partir de 13,O g (0,535 mol) de Mg, 
+0,22 rnol de bromure allylique et 190 mL d'Cther. 
+A la fin de I'addition, le milieu rCactionnel est chauffC 2 reflux 
+pendant 2 h. Aprks retour 1 temperature ambiante, il est refroidi a 
+t = 0-5°C et hydrolysC sous courant d'azote par addition lente d'une 
+solution saturCe de chlorure d'ammonium (420 mL). 
+Aprks decantation, extraction par 4 x 100 mL d'Cther et sCchage 
+sur sulfate de magnCsium, la phase organique est concentrte, puis 
+I'aminothiol est distill6 sous pression rCduite la plus faible possible. 
+(b) Cas du bromure d'alle'nylmagnbium. A la solution du mag-
+nCsien dCrivant du bromure de propargyle, prCparCe ? i 
+tempkrature 
+infkrieure 18°C selon la rCf. 46, B partir de 14,3 g (0,12 mol) de 
+bromure de propargyle, 6,O g de Mg broyC (0,247 mol) et de 85 mL 
+
+d'ither, on additionne goutte a goutte une solution de 0,03 rnol de 
+
+thiazolidine dans 30 mL d'Cther dCsoxygCnC, en maintenant la tempkra-
+ture a 0-5°C. L'agitation est poursuivie pendant 2,5 h a une tempCra-
+ture infkrieure ou Cgale 18°C. Aprks I'hydrolyse in situ cornme 
+prtcidement et les traitements usuels, le rCsidu est distill6 sous pression 
+rCduite la plus faible possible. 
+TroisiPme me'thode 
+(a) Action du bromure d'allylmagnbium sur une alkyl-2 thiazoline. 
+Une solution de bromure d'allylmagnCsium (prCparCe sous azote, 0-
+
+5"C, a partir de 19,4 g (0,16 mol) de bromure d'allyle, 10 g de Mg 
+
+broyC (0,411 mol) et 140 mL d'Cther est additionnke goutte 2 goutte 
+
+(durke 2,5 h environ) a une solution de 0,04 mol d'alkyl-2 thiazoline 
+
+dans 300 mL de dichloromCthane distill&amp;, refroidie h 0-5°C. Aprks 
+retour B temperature ambiante, le milieu est maintenu sous agitation 
+pendant 2 h. I1 est ensuite refroidi i P C et hydrolysC par addition lente 
+
+d'une solution aqueuse saturCe de chlorure d'ammonium (300 mL). 
+Aprks les traitements usuels, le produit est distill6 sous pression rCduite 
+la plus faible possible, en Cvitant les surchauffes. N.B. Dans le cas de 
+I'action du chlorure de mCthallylmagnCsium sur une alkyl-2 thiazoline, 
+on o@re au sein de 1'Cther dCsoxygCnC seul, la rCaction nsquant d'&amp;tre 
+incompkte au sein du mClange Cther/dichloromCthane (38). 
+(b) Action du bromure d'allylmagnbium sur une thiomtthyl-2 
+thiazoline. Une solution de bromure d'allylmagnCsiurn (prCparCe sous 
+
+azote h 0-5°C i partir de 24,2 g (0,2 mol) de bromure d'allyle, 12,6 g 
+
+de Mg broyC (0,55 mol) et 170 mL d'Cther) est ajoutte lenternent 
+
+sous azote, A 0-5"C, a une solution de 0,04 rnol de la thiomkthyl-2 
+
+thiazoline dans 170 mL de tktrahydrofuranne dCsoxygtnC. Aprks retour 
+
+a temp6rature ambiante, le milieu est chauffC B reflux pendant 2 h, 
+
+puis IaissC sous agitation pendant une nuit. Aprks refroidissement, une 
+hydrolyse dans les m&amp;mes conditions que prCcCdemment est effectute 
+par addition d'une solution saturCe de chlorure d'ammonium (400 mL). 
+Aprks les traitements usuels, le produit brut est distill6 sous pression 
+rCduite la plus faible possible. 
+
+Can. J. Chem. Downloaded from www.nrcresearchpress.com by 87.160.185.190 on 03/27/14 
+
+For personal use only. 
+
+
+Can. J. Chem. from www.nrcresearchpress.com by 87.160.185.190 on 03/27/14 
+
+For personal use only. 
+
+
+866 
+
+CAN. CHEM. VOL. 65, 1987 
+
+(rn, 4H, NCH2CH2S), 2,05 (d, 2H, J = 7 Hz, CH,C=), 1,l-1,7 
+(rn, 4H, CCH2C, NH, SH), 0,8 (t, 3H, J = 6 Hz, CH3C). Anal. calc. 
+pour CloH,INOS : C 59,07, H 10,41, N 6,89, S 15,76; trouvCe : 
+C59,01,H 10,40,N6,86,S 15,79. 
+N-[(Me'thylthio-1 me'thyl-2 pentthe-5 y1)-2]amirzo-2 e'thanethiol13 : 
+Rdt = 44%; Eb. 95"C/0,04 Torr; niu = 1,5270; ir (cm-') : 3300 tf 
+(NH); 3080 f, 1640 f, 995 f, 915 m (CH=CH,); 2560 tf (SH); rmn 
+(CC14, 6 ppm) : 5,4-6,l (rn, 1 H, CH=), 4,7-5,25 (m, 2H, CH2=); 
+2,35-2,9 (m, 4H, NCH2CH2S), 2,5 (s, 2H, CCH2S), 1,95-2,35 
+(rn, 2H, CH2C=), 2,05 (s, 3H, CH3S), 1,6 (s Clargi, 2H, NH, SH), 
+1,05 (s, 3H, CH3).Anal. calc. pour C9HI9NS2 : C 52,63, H 9,33, 
+N 6,82, S 31,22; trouvee: C 52,59, H 9,36, N 6,80, S 31,26. 
+N-[(Me'thoxy-1 me'thyl-3 hexine-5 y1)-3lamino-2 e'thanethiol 1 4 : 
+Rdt = 72%; Eb. 85"C/0,05 Torr; niO = 1,4891; ir (cm-') : 3325 tf 
+(NH); 3070 f, 1635 f, 995 f, 910 rn (CH=CH2); 2550 tf (SH); 1 105 F 
+(C-0-C);rmn(CC14, 
+Spprn) : 5,35-6,15(m, lH,CH=),4,7-5,2 
+(rn, 2H, CH2=), 3,35 (t, 2H, J = 7 Hz, CH20), 3,15 (s, 3H, CH30), 
+2,3-2,9 (rn, 4H, NCH2CH2S), 2,l (d, 2H, J = 7 Hz, CH2C=), 1 3 5 
+(t, 2H, J = 7 Hz, CH2C), 1,35 (s Clargi, 2H, NH, SH), 1,O (s, 3H, 
+CH3C). Anal. calc. pour CIOH21NOS : C 59,07, H 10,41, N 6,89, 
+S 15,76; trouvCe: C 59,10, H 10,38, N 6,90, S 15,74. 
+N-[(Me'thylthio-1 me'thyl-3 hextne-5 y1)-3]amino-2 Pthanethiol1.5 : 
+Rdt = 60%; Eb. 1 10°C/0,05 Tom; tziO = 1,5274; ir (crn-') : 3310 tf 
+(NH); 3070 f, 1635 f, 995 rn, 910 m (CH=CH,); 2550 tf (SH); rmn 
+(CC14, 6 pprn) : 5,3-6,l (m, lH, CH=), 4,7-5,2 (rn, 2H, CH2=), 
+2,O-2,9 (rn, 8H, NCH2CH2S, CH2SCH3, CH2C=), 2,O (s, 3H, 
+CH3S), 1,3-1,8 (rn, 2H, CCH2CH2S), 1,25 (s Clargi, 2H, NH, SH), 
+0,95 (s, 3H, CH3C). Anal. calc. pour Cl0H2,NS2 : C 54,74, H 9,65, 
+N 6,38, S 29,23; trouvCe : C 54,78, H 9,62, N 6,36, S 29,27. 
+
+N-Alkylamino-2 e'thanethiols pre'pare's selon la me'thode 3 
+N-[(Heptadi.?ne-1,6 y1)-4lamino-2 e'tharzethiol 16 : Rdt = 38%; 
+Eb. 50°C/0,05 Torr; n',O = 1,5018; ir (cm-') : 3310 tf (NH), 3070 m, 
+1635 m, 990 m, 910 F (CH=CH,); 2550 tf (SH); rmn (CCI4, 6 ppm) : 
+5,35-6,15 (m, 2H, CH=), 4,75-5,35 (m, 4H, CH2=), 2,3-2,95 
+(rn, 5H, NCH2CH2S, CH), 1,9-2,3 (m, 4H, CH2C=), 1,35 (s Clargi, 
+2H, NH, SH). Anal. calc. pour C9H ,,NS : C 63,11, H 10,00, N 8,18, 
+S 18,71; trouvCe: C 63,15, H 10,02, N 8,15, S 18,68. 
+N-[(Me'thyl-4 heptaditne-1,6 y1)-4larnitzo-2 e'thanethioll7 : Rdt = 
+50%; Eb. 67"C/0,05 Torr; tziO = 1,5035; ir (crn-I) : 3310 tf (NH); 
+3070 m, 1635 rn, 990 m, 905 F (CH=CH2); 2550 tf (SH); rrnn (CCI4, 
+Sppm) : 5,4-6,l (rn, 2H, CH=), 4,7-5,2 (m, 4H, CHI=), 2,3-2,8 
+(m, 4H, NCH2CHzS), 2,05 (d, 4H, J = 6 Hz, CH2C=), 1,25 (s Clargi, 
+2H, NH, SH), 0,95 (s, 3H, CH3). Anal. calc. pour CloH19NS : 
+C 64,81, H 10,33, N 7,56, S 17,30; trouvCe : C 64,80, H 10,31, 
+
+. . 
+. 
+
+. . . . 
+
+. 
+. 
+. . 
+
+N 7 3 4 , S 17,22. 
+N-[(Trime'thyl-2,4,6 heptadiPne-1,6 y1)-4lamino-2 e'thanethiol18 : 
+Rdt = 20%; Eb. 78-80°C/0,05 Torr; puretC 2 90%; ir (cm-I) : 
+3300 tf (NH); 3065 m, 1620 m, 885 F (CH2=C); 2560 tf (SH); 
+rmn (CC14, 6 pprn) : 4,4-4,9 (m, 4H, CH,=), 2,3-2,8 (m, 4H, 
+NCH2CH2S), 2,O (s, 4H, CH2C=), 1,75 (s, 6H, CH3C=), 1.25 
+(s, Clarg,i, 2H. NH, SH), 1,O (s, 3H, CH3C). 
+N-[(Ethyl-4 heptaditne-1,6 y1)-4]amirlo-2 Ptharzethiol 1 9 : Rdt = 
+39%; Eb. 65"C/0,02 Torr; n',0 = 1,5110; ir (cm-I) : 3315 tf (NH); 
+3070 rn, 1640 m, 995 m, 910 F (CH=CH,); 2560 tf (SH); rmn (CC14, 
+
+.. . . . 
+
+6 ppm) : 5,3-6,l (m, 2H, CH=), 4,7-5,2 (m, 4H, CH2=), 2,2-2,8 
+
+... . 
+
+. . 
+
+. 
+
+.. . . 
+
+. . . . 
+
+(rn, 4H, NCH2CH2S), 2,O (d, 4H, J = 8 Hz, CHZC=), 1,05-1,6 
+
+. . . \ . ' 
+. . . 
+
+(m, 4H, CH2CH3, NH, SH), 0,8 (t, 3H, J = 6 Hz, CH3). Anal. calc. 
+pour CllHZINS : C 66,27, H 10,62, N 7,03, S 16,08; trouvCe : 
+C 66,30, H 10,65, N 7,06, S 16,05. 
+N-[(Propyl-4 heptadiene-1,6 y1)-4]atnitzo-2 e'thatzethiol20 : Rdt = 
+38%; Eb. 74"C/0,03 Torr; tziO = 1,5001; ir (cm-I) : 33 10 tf (NH); 
+3070 rn, 1635 m, 990 rn, 905 F (CH=CH2); 2555 tf (SH); rmn (CC14, 
+6 ppm) : 5,3-6,l (m, 2H, CH=), 4,7-5,2 (m, 4H, CH2=), 2,3-2.8 
+(rn, 4H, NCH2CH2S), 2,O (d, 4H, J = 7 Hz, CH,C=), 1,05-1,6 
+(rn, 6H, CCH2CH2C, NH, SH), 0,85 (t, 3H, J = 5 Hz, CH3). Anal. 
+calc. pour C12H23NS : C 67,55, H 10,86, N 6 3 6 , S 15,03; trouvCe : 
+
+-.... . 
+
+. . 
+. 
+. 
+~ 
+. . 
+
+. . . . 
+
+C67,52, H 10.85, N 6,54, S 15,07. 
+
+. . 
+. .. . 
+
+N-[(Me'thyl-4 heptadisne-1,6 y1)-4larnino-2 me'thyl-1 e'tharzethiol 
+21 : ~d t 
+= 40%; ~b . 
+66"~/0,05 ~o r r ; 
+n z = 1,4910; ir(cm-I): 3310 tf 
+
+(NH); 3070 rn, 1640 rn, 995 rn, 910 F (CH=CH2); 2550 tf (SH); rmn 
+(CC14, 6 pprn) : 5,3-6,l (rn, 2H, CH=), 4,7-5,2 (rn, 4H, CHI=), 
+2,3-3,O (m, 3H, NCH2CHS), 2,05 (d, 4H, J = 7 Hz, CH2C=), 
+1,2-1,5 (rn, 2H, NH, SH), 1,25 (d, 3H, J = 6 Hz, CH3CH), 0,9 
+(s, 3H, CH3C). Anal. calc. pour CI1HZINS: C 66,27, H 10,62, 
+N7,03, S 16,08; trouvCe: C 66,29, H 10,60, N 7,00, S 16,ll. 
+N-[(Me'thyl-4 heptadi2ne-1,6 y1)-4]amirzo-2 Pthyl-2 ithanethi0122 : 
+Rdt = 35%; Eb. 65"C/0,01 Torr; n; O = 1,5011; ir (cm-I) : 3340 tf 
+(NH); 3080 rn, 1640 m, 995 rn, 910 F (CH=CH2); 2550 tf (SH); rrnn 
+(CCI,, 6 pprn) : 5,35-6,2 (rn, 2H, CH=), 4,7-5,25 (m, 4H, CH2=), 
+2,3-2,95 (rn, 3H, NCHCH2S), 2,05 (d, 4H, J = 7 Hz, CHIC=), 
+1,l-1,8 (m, 4H, CH,CH, NH, SH), 1 ,O (s, 3H, CH3C), 0,85 (t, 3H, 
+J = 7Hz, CH3CH2). Anal. calc. pour C12H23NS : C 67,55, H 10,86, 
+N 6,56, S 15,03; trouvCe: C 67,50, H 10,83, N 6,59, S 15,OO. 
+N-[(Me'thyl-4 heptadidtze-l,6 y1)-4]amino-2 dime'thyl-1 , l e'thane-
+thiol23 : Rdt = 28%; Eb. 65"C/0,05 Torr; niO = 1,4842; ir (cm-I) : 
+3330 tf (NH); 3070 m, 1635 rn, 995 m, 910 F (CH=CH2); 2550 tf 
+(SH); rmn (CC14, 6 pprn) : 5,25-6,15 (m, 2H, CH=), 4,7-5,2 (m, 
+4H, CH2=), 2,45 (s, 2H, CH2N), 2,1 (d, 4H, J = 6 HZ, CH2C=), 
+1,15-1,85 (m, 2H, NH, SH), 1,25 (s, 6H, (CH3)2C), 0,95 (s, 3H, 
+CH3). Anal. calc. ~O U ~C ~~H ~~N S 
+: C67,55, H 10,86, N 6,56, S 15,03; 
+trouvCe : C 67,59, H 10,88, N 6,60, S 15,08. 
+N-[(Allyl-4 heptadikne-1,6 y1)-41amino-2 Pthar~ethiol 24 : Rdt = 
+30%; Eb. 79"C/0,05 Torr; niO = 1,5250; ir (cm-I) : 3320 tf (NH); 
+3080 m, 1640 rn, 995 rn, 910 F (CH=CHI); 2570 tf (SH); rmn (CC14, 
+6 pprn) : 5,3-6,2 (rn, 3H, CH=), 4,65-5,2 (rn, 6H, CHI=), 2,2-2,9 
+(m 4H, NCH2CH2S), 2,05 (d, 6H, J = 7 Hz, CH2C=), 1,3 (s Clargi, 
+2H, NH, SH). Anal. calc. pour C12H2,NS : C 68,19, H 10.01, N 6,63, 
+S 15,17; trouvte:C68,25,H 10,04, N6,60, S 15,18. 
+N-[(Allyl-4 heptadidne-1,6 y1)-41amino-2 me'thyl-1 dtharzethiol2.5 : 
+Rdt = 25%; Eb. 114-1 16"C/0,05 Tom; puretC 2 90%; ir (crn-I) : 
+3300 tf (NH); 3080 m, 1640 rn, 995 m, 910 F (CH=CH2); 2550 tf 
+(SH); rmn (CCI4, 6 pprn) : 5,3-6,2 (m, 3H, CH=), 4,7-5,3 (m, 6H, 
+CHZ=), 2,3-3,2 (rn, 3H, NCHzCHS), 2,05 (d, 6H, J = 7 Hz, 
+CH2C=), 1,5-1,9 (s tlargi, 2H, NH, SH), 1,O-1,5 (rn, 3H, CH3C). 
+
+Remerciements 
+
+Cette etude a ete rCalisCe dans le cadre d'une collaboration 
+avec la Direction des recherches, etudes et techniques, Division 
+Chimie-Pharmacologie, que nous remercions vivement pour 
+son aide materielle. 
+
+1. J. M. YUHAJ. Dans Radiation-drug interactions in the treatment 
+
+of cancer. Editeurs : G. H. Sokol and R. P. Maickel. J. Wiley, 
+New York. 1979. p. 113; J. M. YUHAS, J. M. SPELLMAN et F. 
+CULO. Dans Radiation sensitizers. (Proc. Conf. 1979), Editeur : 
+L. W. Brady. Masson, New York. 1980. p. 303; J . M. YUHAS, 
+J. M. SPELLMAN, S. M. JORDAN, M. C. PARDINI, S. M. J. AFZAL 
+et F. CULO. Br. J. Cancer, 41, 832 (1980); 42, 574 (1980); 
+J. M. YUHAS. J . Radiat. Oncol. Biol. Phys. 8,513 (1982); 8,519 
+(1982); 8, 571 (1982); 8, 575 (1982). 
+2. T. L. PHILLIPS. Br. J. Cancer, 39, 987 (1977); P. R. TWENTY-
+MAN. Br. J. Cancer, 43, 745 (1981); 47, 57 (1983); A. ROJAS, 
+F. A. STEW ART^^ J. DENEKAMP. J. Radiat. Oncol. Biol. Phys. 8, 
+527 (1982); 9, 507 (1983); Br. J. Cancer, 47, 65 (1983). 
+3. H. M. PATT, E. B. TYREE, R. L. STRAUBE et D. E. SMITH. 
+Science, 110, 213 (1949). 
+4. Z. M. BACQ, A. HERVE, J. LECOMPTE, P. FISHER, J. BLAVIER, 
+G. DECHAMPS, H. LE BIHAN et P. RAYET. Arch. Int. Physiol. 59, 
+442 (1951). 
+5. D. G. DOHERTY, W. T. BURNETT et R. SHAPIRA. Radiat. Res. 7, 
+13 (1957). 
+6. B. HANSEN et B. SORBO. Acta Radiol. 56, 141 (196 1). 
+7. D. L. KLAYMAN, M. M. GRENAN et D. P. JACOBUS. J . Med. 
+Chern. 12, 510 (1969). 
+8. YA. L. KOSTYUKOVSKII, V. G. VLADIMIROV, Y. E. STREL'NIKOF 
+et N. M. SLAVACHEVSKAYA. Radiobiologiya, 11, 14 1 (197 1 ). 
+9. R. GRANGER, H. ORZALESI, Y. ROBBE, J. P. CHAPAT, M. 
+
+RANDON, J. BITOUN et F. SIMON. Chim. Ther. 6,439 (1971 1. 
+
+Can. J. Chem. Downloaded from www.nrcresearchpress.com by 87.160.185.190 on 03/27/14 
+
+For personal use only. 
+
+
+LADURANTY ET AL. 
+
+867 
+
+M. FATOME, P. POUTRAIN, R. GRANGER, H. ORZALESI, Y. 
+ROBBE et M. RANDON. Chim. Ther. 5, 312 (1970). 
+11. A. TEROL, J. P. FERNANDEZ, Y. ROBBE, J. P. CHAPAT, R. 
+GRANGER, M. FATOME, L. ANDRIEU et H. SENTENAC-ROUMA-
+NOU. Eur. J. Med. Chem. 13, 149 (1978); 13, 153 (1978). 
+12. D. MESNARD, L. MIGINIAC, M. FATOME, J. D. LAVAL, H. 
+SENTENAC-ROUMANOU et C. LION. Eur. J. Med. Chem. 15, 
+247 (1980). 
+13. Z. M. BACQ et P. ALEXANDER. Fundamentals of radiobiology. 
+Pergamon Press, Oxford. 1965. p. 460 et rkfkrences incluses. 
+14. V. S. YUSIPOV, P. G. ZHEREBCHENKO et N. M. SLAVACHEV-
+SKAYA. Radiobiologiya, 9, 850 (1969). 
+15. J. R. PIPER, C. R. STRINGFELLOW, R. D. ELLIOT et T. P. 
+JOHNSTON. J. Med. Chem. 12, 236 (1969); 12, 244 (1969); 18, 
+803 (1975). 
+
+16. J. R. PIPER et T. P. JOHNSTON. J. Org. Chem. 33, 636 (1968). 
+17. J. R. PIPER et T. P. JOHNSTON. U.S. Patent No. 3,892,824. 
+July 1, 1975; Chem. Abstr. 83, 16363 1j (1975). 
+18. S. AKERFELD. Acta Chem. Scand. 13, 1479 (1959). 
+19. J. LADURANTY, C. LION, D. MESNARD et L. MIGINIAC. Bull. 
+Soc. Chim. Belg. 93, 903 (1984). 
+20. D. D. REYNOLDS, D. L. FIELDS et D. L. JOHNSON. J. Org. Chem. 
+26, 5119 (1961); 26, 5125 (1961). 
+
+21. H. R. SNYDER, J. M. STEWART et J. B. ZIEGLER. J. Am. Chem. 
+SOC. 69, 2672 (1947). 
+22. G. I. BRAZ. Chem. Abstr. 45, 9473g (1951). 
+23. B. B. ALLEN et H. R. HENZE. J. Am. Chem. Soc. 61, 1790 
+(1939). 
+24. F. BERNADOU. Thbe de Docteur-hgknieur. Universitk de Poitiers, 
+1976. A 0 CNRS 12334. 
+25. L. BRANDSMA et H. D. VERKRUIISSE. Synthesis of acetylenes, 
+allenes and curnulenes. Elsevier Publishing Company, Amster-
+dam. 1981. p. 230; G. F. HENNION et C. V. DIGIOVANNA. J. Org. 
+Chem. 30, 2645 (1965). 
+26. J. M. SURZUR, C. DUPUY, M. P. CROZET et N. AIMAR. C.R. 
+Acad. Sci. Paris Ser. C, 269, 849 (1969). 
+27. B. MAUZE et L. MIGINIAC. Bull. Soc. Chim. Fr. 2544 (1968); 
+
+3832 (1968). 
+28. I. E. POLLAK, A. D. TRIFUNAC et G. F. GRILLOT. J. Org. Chem. 
+32, 272 (1967); 32, 2892 (1967). 
+29. R. TONDEUR, R. SION et E. DERAY. Bull. Soc. Chim. Fr. 2493 
+(1 964). 
+30. 1. R. SCHMOLKA et P. E. SPOERRI. J. Am. Chem. Soc. 79,4716 
+(1957). 
+31. E. L. ELIEL, E. W. DELLA et M. M. ROGIC. J. Org. Chem. 27, 
+4712 (1962). 
+32. G. LISO, G. TRAPANI, A. REHO et A. LATROFA. Synthesis, 288 
+(1985). 
+
+33. W. G. YOUNG et J. D. ROBERTS. J. Am. Chem. Soc. 68, 1472 
+
+(1946). 
+
+34. R. C. ELDERFIELD et E. C. MCCLENACHAN. J. Am. Chem. Soc. 
+82, 1982 (1960). 
+35. F. BABUDRI, G. BARTOLI, F. CIMINALE, S. FLORIO et G. 
+INGROSSO. Tetrahedron Lett. 25, 2047 (1984). 
+36. F. BABUDRI, F. CIMINALE et S. FLORIO. Tetrahedron Lett. 25, 
+2051 (1984). 
+
+37. S. FLORIO, E. EPIFANI et G. INGROSSO. Tetrahedron, 40, 4527 
+
+(1984). 
+38. F. BABUDRI, S. FLORIO et G. INGUSCIO. Synthesis, 522 (1985). 
+39. J. ROGGERO. Th6se de Doctorat 6s-Sciences Physiques, Univer-
+sit6 d'Aix-Marseille. 1964. 
+40. J. L. LARICE, J. ROGGERO et J. METZGER. Bull. Soc. Chim. Fr. 
+3637 (1967). 
+41. H. WENKER. J. Am. Chem. Soc. 57, 1079 (1935). 
+42. C. S. DEWEY et R. A. BAFFORD. J. Org. Chem. 30,491 (1965). 
+43. R. A. BAFFORD, F. CHANON, M. CHANON et J. METZGER. Bull. 
+Soc. Chim. Fr. 971 (1973). 
+44. T. A. FOGLIA, L. M. GREGORY, G. MAERKER et S. F. OSMAN. 
+J. Org. Chem. 36, 1068 (1971). 
+45. R. H. DEWOLFE et W. G. YOUNG. Chem. Rev. 56,753 (1956) et 
+rkfkrences incluses. 
+46. M. GAUDEMAR. Ann. Chim. France, 1[13], 161 (1956). 
+47. G. F. HENN~ON et E. G. TEACH. J. Am. Chem. Soc. 75, 1653 
+(1953). 
+
+48. R. C. ELDERFIELD, B. M. PITT et I. WEMPEN. J. Am. Chem. Soc. 
+
+72, 1334 (1950). 
+49. P. R. SHILDNECK et W. WINDUS. Org. Synth. Coll. Vol. IV. 
+J. Wiley, New York. 1963. pp. 345 et 411. 
+50. D. B. REISNER. J. Am. Chem. Soc. 78, 2132 (1956). 
+51. J. R. CATCH, A. H. COOK, A. R. GRAHAM et I. HEILBRON. 
+J. Chem. Soc. 1609 (1947). 
+52. H. R. HENZE et N. E. RIGLER. J. Am. Chem. Soc. 56, 1350 
+
+(1934). 
+53. C. K. BRADSHER, F. C. BROWN et R. J. GRANTHAM. J. Am. 
+Chem. Soc. 76, 1 14 (1954). 
+54. S. P. MCMANNUS, C. A. LARSON et R. A. HEARN. Synth. 
+Commun. 3, 177 (1973). 
+55. J; D. LOUDON. Duns Chemistry of carbon compounds. Vol. IV. 
+
+Editeur : E. H. Rodd. Elsevier Publishing Company, Amsterdam. 
+
+Part A. 1957. p. 404. 
+56. G. R. HANDRICK, E. R. ATKINSON, F. E. GRANCHELLI et R. J. 
+BRUNI. J. Med. Chem. 8, 762 (1965). 
+57. S. GABRIEL. Chem. Ber. 22, 1 139 (1 889). 
+58. P. HIRSCH. Chem. Ber. 23,964 (1890). 
+59. Dictionary of Organic Compounds. Eyre and Spottiswoode 
+Publishers, London. 1965. 
+60. L. J. BELLAMY. The infrared spectra of complex molecules. 
+J. Wiley, New York. 1964. p. 96. 
+
+Can. J. Chem. Downloaded from www.nrcresearchpress.com by 87.160.185.190 on 03/27/14 
+
+For personal use only. 
+
+
+
+	
+

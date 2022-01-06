@@ -1,0 +1,841 @@
+
+	
+
+		
+
+	
+
+	
+
+Etude de la dissolution du bromure cuivreux forme sur le cuivre 
+
+Institut de recherche d8Hydro-Qukbec. C.P. 1000, 1800 Motzte'e Ste-Julie, Varetznes (Quk.), Catzada JOL 2P0 
+
+Requ le 19 octobre 1983 
+
+ROBERT-LOUIS BROSSARD. Can. J. Chem. 62, 1 1 12 (1984). 
+
+La dissolution du bromure cuivreux, form6 par oxydation Clectrochimique du cuivre immergC en solution aqueuse de NaBr, 
+
+a CtC CtudiCe. La concentration en NaBr a Ct C variCe de 0,l M a 1,2 M alors que le pH Ctait de 4. Le produit de corrosion 
+
+accumulC sur 1'Clectrode est constituC de cristaux de CuBr y. La prtsence de ce composC contribue a I'enrichissement local 
+de la solution en cuivre dissous pr6s de I'Clectrode. Cet enrichissement se traduit par une tension d7Clectrode en circuit ouvert 
+
+bien caractkristique. Elle est Cgale a environ -149 mV (ECS) sur une Clectrode en position stationnaire immergte dans une 
+
+solution 0,2 M NaBr. La dissolution complete du CuBr coincide, pour sa part, a une chute rapide de la tension. Cette chute 
+de tension a permis de dCfinir le temps de transition T a partir duquel la vitesse de dissolution du CuBr a Ct C calculte. Par 
+exemple, la vitesse de dissolution est de 0,074 f 0,003 mA cm-' en courant tquivalent pour une Clectrode en position 
+stationnaire en prCsence d'une solution 0,2 M NaBr non agitCe. Elle est aussi constante jusqu'i la disparition complkte du 
+
+composC. Par ailleurs, I'utilisation de I'Clectrode a disque tournant a mis en evidence que la dissolution est entierement dominee 
+
+par la diffusion des ions en phase liquide. Les rCsultats experimentaux sont compatibles avec la presence simultanCe du CuBr, 
+et du ~u ~r t -
+comme especes diffusantes. Enfin, les courbes de polarisation potentiodynamiques montrent deux vagues 
+d'oxydation. Une portion non nkgligeable du courant de dissolution, sinon la quasi-totalitt, se traduit par la formation de CuBr 
+sur I'tlectrode qui est le seul produit de corrosion prCsent. 
+
+ROBERT-LOUIS BROSSARD. Can. J . Chem. 62, 1 1 12 (1984). 
+
+' The dissolution of cuprous bromide, formed by the electrochemical oxidation of copper immersed in aqueous NaBr, has been 
+studied. NaBr concentration was varied between 0. I and 1.2 M at pH 4. The corrosion product accumulating on the electrode 
+is crystalline y-CuBr. The presence of this material contributes to the local enrichment of dissolved copper close to the 
+electrode. This enrichment leads to a characteristic electrode voltage in open circuit, which is about -149 mV (ECS) at a 
+stationary electrode immersed in a solution of 0.2 M NaBr. The complete dissolution of CuBr coincides with a rapid fall in 
+voltage which permits the definition of the transition time T from which the speed of CuBr dissolution has been calculated. 
+For example, the speed of dissolution is 0.074 2 0.003 mA cm-' in a current equivalent for a stationary electrode in the 
+presence of a non-stirred solution of 0.2 M NaBr. This is constant until the complete disappearance of the CuBr. On the other 
+hand, use of a rotating disc electrode demonstrates that the dissolution is entirely dominated by the diffusion of ions in the liquid 
+
+phase. The experimental results are compatible with the simultaneous presence of CuBr, and CUB^:-as diffusing species. 
+
+Finally, the potentiodynamic polarization curves show two oxidation waves. A non-negligible portion of the dissolution 
+current, if not almost all, is associated with the formation of CuBr as the sole corrosion product on the electrode. 
+[Journal translation] 
+
+Introduction 
+La formation de bromure cuivreux sur le cuivre a l'abandon 
+dans des solutions bromurees non dCsaerCes a Ct C observte ( 1 
+a 3). Dans les solutions dCsaCrCes de NaBr 1Cgerement acides, 
+le recouvrement de la surface par le CuBr y coi'ncide avec la 
+premikre vague d'oxydation observCe sur les courbes E vs. i 
+obtenues par balayage de la tension en mode linCaire (4). Ce-
+pendant, la solubilitC relative de ce composC dans les solutions 
+qui contiennent des ions Br-(5) contribue a le rendre plus ou 
+moins stable en prCsence de ces solutions. 
+Le prCsent travail se propose d'approfondir 1'Ctude de la 
+dissolution du bromure cuivreux fraichement form6 durant 
+l'oxydation du cuivre polaris6 anodiquement. Les solutions 
+contiennent entre 0,1 M et 1,2 M de NaBr. 
+
+phtalate de potassium a C t t utilisC pour stabiliser le pH a 4. 
+
+La mtthode employCe par Shoesmith et Lee et al. (7, 8) a Ct C 
+retenue pour le polissage du cuivre; I'Cchantillon Ctait poli mtca-
+niquement par abrasion avec du papier au carbure de silicium pour se 
+terminer par un polissage avec de l'alumine de 1 Km. L'tchantillon 
+
+ttait alors rinqt a l'alcool, a I'acttone puis a I'eau distillte avant son 
+
+immersion. 
+
+2.3 Les techniques expkrimentales utilistes 
+Les courbes tension-courant ont CtC obtenues en balayage IinCaire 
+de la tension. La vitesse de balayage gtniralement utilisC Ctait de 12 
+mV s-'. Un coulom6tre servait a mesurer la quantitC d'ClectricitC qui 
+traversait I'Clectrode durant I'oxydation et la rkduction. 
+Par ailleurs, I'oxydation et la rkduction ont Ctt effectuCes en I'ab-
+sence de toute agitation sur une Clectrode de travail en position station-
+naire. Le cas CchCant, I'agitation ttait imposCe par barbotage d'un gaz 
+inerte ou par rotation de I'tlectrode durant les ptriodes en circuit 
+
+Partie experimentale 
+
+ocvert seulement. 
+2.1 La cellule 
+Les dCtails 
+klectrodes de 
+L'Clectrode de 
+
+et ses accessoires 
+relatifs a la cellule et ses accessoires ainsi qu'aux 
+travail sont donnees dans un article prCcCdent (6). 
+cuivre se prisentait sous la forme d'un fil de 0,064 cm 
+de diamktre dont la surface Ctait de -0,4 cm2, d'une plaque de 4 cm2 
+ou d'un disque de 0,71 cm'. Le fil et la plaque Ctaient en position 
+verticale et immobile. Pour sa part, le disque ttait animC d'un mou-
+vement de rotation et Ctait en position horizontale. 
+
+2.2 La prkparation des essais 
+Un barbottage d'azote de 6 h prCcedait I'immersion de I'tlectrode 
+de cuivre dans la solution m&amp;me si 0,5 h ttait suffisant. Les solutions 
+contenaient entre 0,l et 1,2 M de NaBr dissout. Un tampon a base de 
+
+Enfin, I'approche expirimentale mise au point pour la mesure de la 
+vitesse de dissolution du bromure cuivreux est dCcrite plus loin alors 
+
+que les valeurs de la tension d'klectrode sont donnCes par rapport a 
+
+I'Clectrode au calomel saturC, sauf indication contraire. 
+
+Resultats experimentaux 
+3.1 Apparition du bromure cuivreux 
+Les enregistrements E vs. i reproduits a la figure 1 sont bien 
+reprksentatifs du comportement de 1'Clectrode de cuivre. La 
+vitesse de balayage de la tension est de 12 mV s-' alors que la 
+solution non agitCe contient 0,2 M de NaBr. Deux vagues 
+d'oxydation et une vague de rCduction bien dCfinies sont obser-
+Can. J. Chem. Downloaded from www.nrcresearchpress.com by 87.160.185.190 on 03/27/14 
+
+For personal use only. 
+
+
+BROSSARD 
+
+Tension d' klectrode ( mV) 
+
+FIG. I . Courbes de polarisation sur un fil de cuivre dans une solution 0,2 M NaBr. La solution est non agitke alors que dE/dr est &amp;gal 12 
+
+mV s-I. EculCuB,: tension rkversible de la rkaction Cu + Br-= CuBr + 6. E,=,: tension a courant nul. 
+
+vees. Le sommet de la premiere vague d'oxydation a comme 
+quantitt de CuBr accumule sur 1'Clectode pour des valeurs 
+coordonntes -35 mV (ED,) et 26 mA cm-' (iDl) alors que le 
+croissantes de EL. 
+
+j sommet de la seconde co'incide avec + 195 ~V ' ( E ~~) 
+
+et 30 mA 
+
+1 cm-' (ip2). Ainsi, les vagues d'oxydation sont anodiques par 
+
+i rapport a la tension reversible (EcUlcue,) de la reaction: 
+
+[I] 
+
+Cu + Br-= CuBr + e 
+
+qui est donnee par (9, 10) 
+
+ou EcUlcUB, est en volt par rapport B 1'Clectrode au calomel 
+
+saturt. 
+Le CuBr y fait son apparition sur la surface de 1'Clectrode 
+dans la region de la premikre vague d'oxydation (4). 
+Par ailleurs, le courant est ltgkrement plus tlevt lors du 
+balayage de retour entre -340 mV et 450 mV. Ce com-
+portement est attribue soit a l'oxydation partielle du bromure 
+cuivreux, soit a sa redissolution partielle, soit a des variations 
+
+dans sa morphologie ou les trois B la fois. 
+
+La vague cathodique, pour sa part, a un sommet qui est de 
+
+70 mV inferieur B la tension reversible EcUlcUsr Dans l'exemple 
+illustre B la figure 1, pour lequel la tension limite (EL) est de 0 
+
+mV, les quantites d'electricite mises en jeu sont de 230 mC 
+cm-' du cGtt anodique (Q,,,) et de 230 mC cm-' du cBtt 
+cathodique (QKd). I1 est alors raisonnable de penser que le 
+CuBr, form6 par oxydation anodique du cuivre, est com-
+pletement rtduit. La rtduction quasi complkte de ce compose 
+est confirmee par l'examen de la surface de l'electrode retiree 
+
+apres le retour du courant de rkduction B une valeur ntgli-
+
+geable. 
+Enfin, la vague de reduction devient visible sur les courbes 
+E vs. i dks que EL franchit le pied de la premikre vague 
+d'oxydation (Fig. 2). Pour des valeurs croissantes de EL, le 
+profil de la vague de reduction demeure inchangC alors que Q,, 
+
+tend B augmenter. On en dtduit qu'il y a augmentation de la 
+
+3.2 Passivatiorz transitoire du cuivre 
+Dans 1'Cventualite ou le bromure cuivreux forme se dissout, 
+dks le retour en circuit ouvert, il est envisageable qu'il y ait 
+enrichissement local de la solution en cuivre dissous. 11 est 
+alors previsible que la tension du cuivre traduise cet en-
+richissement local, si celui-ci est significatif. 
+La tension en circuit ouvert (E,,) du cuivre, en l'absence de 
+
+prtcipitt B sa surface, est representte en fonction de la concen-
+tration en cuivre dissous B la fig. 3 alors que E,, du cuivre, en 
+
+presence de prtcipitt a sa surface, est donnte en fonction du 
+temps a la fig. 4. E,, du cuivre en presence de precipite montre 
+
+deux plateaux. Le premier plateau correspond A une tension 
+
+voisine de -149 mV et est de 19 mV inferieur B la tension a 
+
+courant nu1 (E,,,) trouvCe sur les courbes E vs. i (Fig. 2). La 
+tension du premier plateau, -149 mV, co'incide avec une con-
+centration en cuivre dissous de 0,53 X lo-' M d'aprks la figure 
+3 alors que la saturation en cuivre dissous est de 1,4 x 
+M. 
+I1 est ainsi raisonnable de considher qu'il y a enrichissement de 
+la solution en cuivre dissous prks de l'tlectrode lorsque celle-ci 
+est recouverte de prtcipite. 
+Prks du temps de transition T , une chute rapide de la tension 
+est obsemte et un deuxikme plateau, compris entre -232 mV 
+et -236 mV, est atteint. La tension du deuxikme plateau dt-
+pend de la concentration en cuivre dissous au coeur de la 
+solution. Quant au temps de transition T , il est dtfini en suivant 
+la m&amp;me proctdure que Shoesmith et Lee (8) pour l'ttude de 
+films d'oxydes du cuivre metastables. 
+
+L'examen de la surface au microscope A balayage a mis en 
+
+evidence la disparition graduelle du produit de corrosion entre 
+t = 0 et t = T (Fig. 5a, 5b, 5c) alors que sa presence est 
+marginale a partir de T (Fig. 5d, 5e). 
+La dissolution du prtcipite doit aussi se traduire par un 
+enrichissement de la solution en cuivre dissous jusqu'au temps 
+de transition T. La determination de la concentration en cuivre 
+Can. J. Chem. Downloaded from www.nrcresearchpress.com by 87.160.185.190 on 03/27/14 
+
+For personal use only. 
+
+
+CAN. J. CHEM. VOL. 62. 1984 
+
+Tension d'electrode (mV) 
+
+FIG. 2. Influence de la tension limite sur la vague de reduction. La solution est non agitke alors que I'Clectrode est un fil de cuivre. NaBr = 
+0,2 M, dE/dt = 12 mV s-'. 
+
+-160 0 
+
+02 
+0,4 
+
+0,6 0,8 10 
+
+2P 
+Cuivre dissous 
+M ) 
+
+FIG. 3. Tension du cuivre en circuit ouvert en l'absence de prCci-
+pit6 en fonction de la concentration en cuivre dissous. La solution est 
+dCsaCr6e et non agitCe alors que I'Clectrode est un fil de cuivre. NaBr 
+
+= 0,2 M. E,,: tension de 1'Clectrode en circuit ouvert. 0: correspond 
+
+a la saturation en CuBr. 
+
+a t t t obtenue a l'aide de la spectroscopie par absorption ato-
+rnique entre t = 0 et t = T. Ce qui a permis de confirrner 
+l'enrichissernent de la solution en cuivre dissous entre t = 0 et 
+t = 7. 
+3.3 Mesure de la quantitt de bromure cuivreux prtsent sur le 
+cuivre 
+La surface de cuivre, complktement a nue au dtpart, su-
+bissait une oxydation tlectrochimique par enclenchement 
+
+-260r I 
+I 
+
+I 
+
+I 
+
+I 
+
+I 
+
+I 
+
+I 
+
+I 
+
+I 
+
+I 
+
+I 
+
+0 
+8 
+16 
+24 
+32 
+
+40 
+
+Temps (mid 
+
+FIG. 4. Tension de 1'Clectrode en circuit ouvert apres la formation 
+de CuBr. E,,: tension d'electrode en circuit ouvert. NaBr: 0,2 M 
+solution non agitCe. El = , 
+
+, 
+
+: tension a courant nu1 obtenue sur les en-
+
+registrements potentiodynamiques (Fig. 2). Le fil de cuivre a Cte 
+
+polaris6 a la vitesse de 12 mV s-', depuis -450 mV jusqu'a 0 mV, 
+
+pour 6tre IaissC a l'abandon des 0 mV atteint. 
+
+d'une tension de -300 rnV suivi d'un balayage lintaire de la 
+tension. La vitesse de balayage ttait de 12 rnV s-' alors que 
+
+l'oxydation Ctait arr&amp;tte 2 0 mV. Irnrntdiaternent aprks llarr&amp;t 
+
+de l'oxydation, une tension de rtduction constante et Cgale a 
+-300 mV Ctait imposCe a 1'Clectrode. Les charges Clectriques 
+mises en jeu durant l'oxydation (Q,,,) et la reduction (Q,,),=, 
+ttaient mesuries. Plus precistrnent, (Qmd),=, reprCsente la 
+quantitC d'ClectricitC obtenue par rtduction cornplkte du CuBr 
+irnmtdiaternent a p r b formation de ce cornposk. 
+La reduction du brornure cuivreux, rCalisCe dans ces condi-
+tions, est complCtCe a p r b une demi-minute environ; le courant 
+de rtduction devient alors nkgligeable. La rtduction complkte 
+
+de ce compose a t t t confirrnte a partir de l'examen de la 
+
+Can. J. Chem. Downloaded from www.nrcresearchpress.com by 87.160.185.190 on 03/27/14 
+
+For personal use only. 
+
+
+BROS 
+
+FIG. 5. Aspect de la surface de l'tlectrode durant la dissolution du C 
+solution non agitCe. L'Clectrode est un fil de cuivre. Les durtes en circ 
+
+surface au microscope et de la rnesure de la tension en circuit 
+ouvert. Le cornporternent du brornure cuivreux sournis a une 
+
+' 
+
+rtduction rappelle celui du Cu(OH)? en solution alcaline (8). 
+Par ailleurs, la charge de reduction (Qrcd),=, dCpend de la 
+charge en oxydation (Q,,,) alors que le rapport ( Q r c d ) r = ~/ Q ~~~ 
+est constant lorsque les conditions d'oxydation sont identiques 
+et ce, rnalgrC les variations irnportantes de Q,,, (Fig. 6) qui ont 
+t t t obseytes. Dans l'exernple choisi ici, les charges Q,,, et 
+(Qred),=, ont Ct C rnesurtes pour plusieurs cycles successifs 
+oxydation-reduction dans une solution non agitte de 0,2 M 
+NaBr. Le rapport (Q,d),=,/Qo,y derneure voisin de 0,98 alors 
+que Q,,, est cornpris entre 75,2 rnC crn-' et 137,8 rnC crn-?. 
+Ce rapport tend a dirninuer lorsque l'electrode est en position 
+
+uBr. Les conditions d'oxydation sont celles de la fig. 4. NaBr = 0,2 M, 
+:uit ouvert sont: (a) 0,5 T; (b) 0,88 T; (c) 0,98 T; (d) l,Ol T; (e) 1,06 T. 
+
+horizontale. La perte, qui correspond a la diffkrence entre Q,,, 
+et (QrCd),=, est attribute a la non precipitation du cuivre qui va 
+en solution, a la dissolution partielle du prCcipitC et, enfin, au 
+fait que des cristaux de brornure cuivreux sont capables de 
+
+n'ktre pas retenus a la surface de I'electrode. 
+
+La Constance du rapport (Q,d),=o/Qo,y perrnet de dtduire la 
+
+quantitt de prtcipitt present en terrne de charge (Qred),=, a 
+
+partir de la valeur de Q,,,. Le rapport (Qrcd),=O/Qoxy varie 
+peu d'un Cchantillon a l'autre mkrne si les conditions exptri-
+rnentales sont les rnkrnes. Par constquent, ce rapport a Ctt 
+dCterrninC pour chaque tchantillon et la quantitt de prCcipitt 
+prCsent sur le cuivre, dks le retour de I'tlectrode en circuit 
+ouvert, a ett calculte partir de Q,,,. 
+Can. J. Chem. Downloaded from www.nrcresearchpress.com by 87.160.185.190 on 03/27/14 
+
+For personal use only. 
+
+
+1116 
+
+CAN. J. CHEM. VOL. 62. 1984 
+
+FIG. 6. Rapport (Q,,d),=a/Q,,y en fonction de Q,,,. Q,,,: quantitt 
+d'ClectricitC rnesurte durant l'oxydation. (Q,,,),=,: quantitC d'tlec-
+tricitC mesurte par rCduction complkte du CuBr immCdiatement aprks 
+oxydation. Condition d'oxydation: balayage en tension de -300 rnV 
+i 0 mV avec 12 mV s-'. Condition de reduction: -300 mV durant 2 
+min. Solution 0,2 M NaBr, non agitCe. L'Clectrode est un fil de 
+cuivre. 
+
+a 
+I 
+
+I 
+
+I 
+
+I 
+
+I 
+
+I 
+
+I l l 
+
+I 
+
+I 
+
+I 
+10 
+20 
+3 0 
+40 
+5 0 
+Temps (min) 
+
+FIG. 7. QuantitC de prCcipitC qui passe en solution durant la ptriode 
+en circuit ouvert. (Q,,,), = ,: quantitC d'ClectricitC obtenue par reduction 
+du prtcipitt aprks le temps t . (Q,,,),=, -(Q,,,),=,: quantitC d'Clec-
+tricitC Cquivalente en prtcipitC qui va en solution durant le temps t . Les 
+autres conditions expCrimentales sont celles de la fig. 6. 
+
+3.4 Vitesse de dissolution du bromure cuivreux sur une e'lec-
+trode immobile 
+On a vue, d'une part, que la quantitt de brornure cuivreux 
+
+present a la surface de 1'Cchantillon est dkterrninable et que, 
+
+d'autre part, la dissolution du CuBr en circuit ouvert s'achkve 
+cornplkternent au temps de transition T. De plus, il y a en-
+richissernent de la solution en cuivre entre t = 0 et t = T. 
+La reduction du prCcipitC aprks des durCes variables de sejour 
+en circuit ouvert (Fig. 7) a rnis en Cvidence que la vitesse de 
+dissolution (v) du CuBr est constante. La diffkrence entre 
+
+(Qred)r = 0 et (Qrcd), = , est associCe a la perte de brornure cuivreux 
+
+durant le temps t oh 1'Clectrode est en circuit ouvert alors que 
+
+-2 8 0 b 
+
+2 I 
+4 I 
+6 I 
+
+1 
+1 
+1 
+
+8 
+10 I 
+
+I 
+
+12 
+
+Temps (min) 
+
+FIG. 8. Influence de la vitesse de rotation de l'tlectrode sur la 
+tension en circuit ouvert. w: vitesse de rotation. NaBr = 0,2 M. 
+L'tlectrode est un disque qui tourne. Conditions d'oxydation: Ba-
+layage en tension de -300 rnV i 0 mV avec 12 rnV s-'. 
+
+v est calculable a partir de la pente de la droite obtenue. 
+
+Pour une solution 0,2 M NaBr non agitCe, vest de 0,077 rnA 
+crn-'. De plus, l'ordonnte a l'origine de la relation [(Q,c,),,o -
+
+(QrCd)(= ,] en fonction du temps passe par zCro alors que la perte 
+
+en CuBr cesse au temps T ou la dissolution de ce compost est 
+complete. 
+La Constance de v entre t = 0 et t = T autorise donc le calcul 
+
+de v a partir du rapport (Qrcd),=o/~. Cette approche a donne v 
+
+Cgal 2 0,071 rnA crn-' en courant equivalent pour 0,2 M NaBr 
+
+(Fig. 4). 
+Enfin, la vitesse de dissolution est intirnement like a l'agi-
+tation de la solution rCalisCe a l'aide d'un barbottage d'un gaz 
+inerte, par exernple. L'utilisation d'une Clectrode a disque tour-
+nant en cuivre a permis de fixer les conditions d'agitation et 
+d'ttablir que la vitesse de dissolution est contr61Ce par la dif-
+fusion en phase liquide. 
+
+3.5 Vitesse de dissolution du CuBr sur une Clectrode tournante 
+Les enregistrernents de la tension en circuit ouvert en fonc-
+tion du temps, reproduits 
+la figure 8, confirrnent que la 
+
+vitesse de dissolution est ltroiternent like a l'intensitk de l'agi-
+
+tation. La valeur de v , calculke a partir de la variation transi-
+toire de la tension en circuit ouvert, est donnee en fonction de 
+la racine carrCe de la vitesse de rotation de 1'Clectrode (Fig. 9) 
+pour o cornpris entre 25 et 509 rad s-I alors que la solution 
+contient 0,2 M en NaBr dissous. 
+La linearite de la relation v vs. ol/' avec une ordonnte a 
+l'origine qui passe par zero est la signature d'un processus de 
+dissolution entierernent contr6lC par la diffusion dans la phase 
+liquide (1 1). 
+Dans le cas de la figure 9,. 1'Cquation est: 
+
+ou v est exprim6 en rnC crn-' s-' et o en rad s-I. La pente, 
+0,074, est en rnC crn-' sf1/'. 
+
+3.6 Influence de la concentration en ions bromures 
+
+Pour une Clectrode immobile, on observe que l'allure des 
+courbes Eco vs. temps est inchangee entre 0,08 M et 0,8 M en 
+NaBr dissous (Fig. 10). Cependant, Eco se dCplace vers des 
+valeurs plus positives alors que le temps de transition augrnente 
+
+considCrablernent lorsque la concentration va de 0,8 M 5 
+
+0,08 M en NaBr dissous. 
+Can. J. Chem. Downloaded from www.nrcresearchpress.com by 87.160.185.190 on 03/27/14 
+
+For personal use only. 
+
+
+BROSSARD 
+
+1117 
+
+I 
+I 
+I 
+I 
+
+5 
+10 
+15 
+20 
+25 
+
+w1/2 ( rod1/2. s-1/2 1 
+
+FIG. 9. Vitesse de dissolution en fonction de o"'dans une solution 
+0,2 M NaBr. v: vitesse de dissolution du CuBr en densite de courant 
+equivalent. Les valeurs de v sont dCduites des courbes de la fig. 8 
+obtenues sur une electrode qui tourne. 
+
+Temps ( rnin I 
+
+FIG. 10. Influence de la concentration en ions Br-sur la tension en 
+circuit ouvert. L'Clectrode est un fil de cuivre immobile et la solution 
+est non agitCe. Les Cchantillons ont Ct C oxydCs de telle sorte que 
+
+(Qr,d),=o 
+
+soit de 130 * 6 mC cm-'. 
+
+FIG. 11. Influence de la concentration en ions bromures sur la 
+vitesse de dissolution du CuBr. Les valeurs de v sont dCduites des 
+courbes E,, vs. temps de la fig. 10. 
+
+La valeur de v , dtterminte a partir des relations Eco vs. temps 
+montrtes a la figure 10, est donnte en fonction de la concen-
+
+tration en ions Br-a la fig. 11. Ainsi, l'ordre de la rtaction par 
+rapport aux ions Br-est de 1,5. 
+
+3.7 Quantite' de bromure cuivreux accumulCe durant 
+l'oxydation anodique du cuivre 
+Rappelons que Q,,, qui correspond a la vague de rtduction 
+
+sur les courbes E vs. i (Fig. 2), tend a augmenter pour des 
+
+valeurs croissantes de EL. Pour leurs parts, les enregistrements 
+Eco vs. temps, obtenus aprks oxydation tlectrochimique dans 
+une solution 0,2 M NaBr sont reproduits a la figure 12 pour 
+difftrentes valeurs de EL. L'oxydation tlectrochimique a t t t 
+rtaliste dans les conditions experimentales donntes a la fig. 2. 
+Les relations Eco vs. temps sont caracttristiques de la dis-
+solution du bromure cuivreux dks que EL est Cgal ou suptrieur 
+a -80 mV, environ. Par ailleurs, une augmentation consi-
+derable du temps de transition est observte avec un ac-
+croissement de EL entre -80 mV et +450 mV. Les valeurs de 
+T sont donntes en fonction de EL a la fig. 13 alors que les 
+tensions E,, et E,, sont aussi indiqutes. La quantitt de CuBr a 
+t t t dtterminte en charge tquivalente (QcuB,) partir du produit 
+de la vitesse de dissolution, qui est voisine de 0,071 mA cm-2 
+(Fig. 2), par le temps de transition. 
+La relation QcuB, vs. tension indique que l'accumulation du 
+Can. J. Chem. Downloaded from www.nrcresearchpress.com by 87.160.185.190 on 03/27/14 
+
+For personal use only. 
+
+
+11 18 
+
+CAN. I. CHEM. 
+
+I I 1 1 1 1111 
+I I l l l l l l l 
+I I 1 1 1 1 1 d 
+
+104 
+102 
+103 
+
+to4 
+
+Temps ( s 1 
+
+FIG. 12. Courbes E,, vs. temps pour differentes valeurs de la ten-
+sion limite. Conditions de polarisation: Balayage en tension de -450 
+
+mV a la tension voulue (tension limite) a la vitesse de 12 mV s-I. 
+
+Solution: 0,2 M NaBr, non agitie. L'electrode est un fil de cuivre 
+immobile. 
+
+produit de corrosion commence dans la partie ascendante de la 
+premiere vague d'oxydation pour se poursuivre avec une ten-
+sion croissante. Ainsi, QCuBr est de 95 rnC crn-' a E,, comparte 
+a 350 rnC cm-' a Ep2 lorsque dE/dt est tgal a 12 mV s-' pour 
+une solution 0.2 M NaBr. 
+
+Discussion 
+
+4.1 Dissolution du bromure cuivreu.~ 
+La relation v vs. o'12 (Fig. 9) suggkre que la diffusion d'une 
+espkce ionique en solution est l'ttape lente de la dissolution du 
+bromure cuivreux (1 1). Par ailleurs, la formation d'in-
+
+termtdiaires cornrne le CuBr, (4) et le CUB~S-(5) est envisa-
+
+geable dans la garnrne de concentration considtrte dans le 
+prCsent travail. Dans ce cas, les ttapes les plus probables sont 
+
+[4] 
+
+CuBr + X B r = (CuBr;,,), Ctape rapide 
+
+qui est suivie de 
+
+[5] 
+(CuBr;, ,), + (CuBrl;,), Ctape lente 
+
+les indices i et s indiquent la concentration a la surface de 
+I'Clectrode et au sein de la solution, respectivernent. La 
+
+d e u x i h e Ctape, qui est l'ttape lente, correspond B la diffusion 
+du CUB^;,.^) depuis la surface jusqu'au sein de la solution. La 
+
+premikre ttape, qui est une rtaction globale, represente la for-
+mation du cornplexe CuBr, lorsque X = 1, du cornplexe 
+~u ~r i -
+lorsque X = 2 ou un rntlange des deux espkces lorsque 
+1 &lt; X &lt; 2 . 
+L'ttape lente est la diffusion des ions (CuBr;;,), et la vitesse 
+de la rtaction forrnCe par les Ctapes [4] et [5] est donnte par la 
+prernikre loi de Fick, dont la forrne sirnplifite est: 
+
+[6] 
+v = XFD 
+
+[(CuBG, ,)i -(CuBr;,,),l 
+6 
+
+ou v est la vitesse de la rtaction en courant tquivalent. 
+
+Lorsque CUB^;,,)^ % (CuBr;,,), la relation [6] devient: 
+
+Tension limite ( mV) 
+
+FIG. 13. Temps de transition et quantite de bromure cuivreux accu-
+mule sur le fil de cuivre en fonction de la tension limite. Les conditions 
+experimentales sont celles de la fig. 12. 
+
+(CuBrTi ,I, 
+
+[7] 
+v = XFD 
+
+Pour sa part, I'utilisation de l'tlectrode ii disque tournant per-
+met d'tcrire l'tquation de Levich (1 1): 
+
+La substitution de 6 dans la relation [7] donne: 
+
+ou X, la charge de ou des espkces qui diffusent, est comprise 
+entre I et 2; v, la viscositt cintrnatique, est voisine de 0,96 x 
+
+lo-' cm' s-' (12); Dc,Br;;,r est le coefficient de diffusion de 
+l'espkce CuBr,, ~u ~r i -
+ou des deux espkces a la fois, selon la 
+valeur de X; (CuBr;,,), est la concentration en cuivre a la 
+surface de 1'Clectrode alors que o est la vitesse de rotation de 
+l'tlectrode en radians par seconde. 
+Par ailleurs, la premiere ttape, qui est l'ttape rapide, perrnet 
+d'envisager cette rCaction dans un ttat voisin de l'tquilibre, ce 
+qui conduit 5 Ccrire: 
+
+ou Kc est la constante d'tquilibre de la rtaction [4] 
+
+Les relations [9] et [lo] perrnettent d'tcrire: 
+
+D'apres la figure I 1, X est tgal a 1 3 . Pour sa part, le coeffi-
+cient de diffusion est calculable a partir de l'expression [9] B la 
+
+condition de connaitre la relation experimentale v vs. o'12 ainsi 
+que la concentration en cuivre dissous au voisinage de l'tlec-
+
+trode. Dans l'exernple rnontrC a la fig. 8, E,, est tgal 2 -140 
+
+mV durant la dissolution du CuBr, ce qui perrnet de dtduire 
+une concentration de 0,7 X lo-' M en cuivre dissous (Fig. 3). 
+La valeur exptrirnentale de la pente dvldo"' est de 0,074 rnC 
+
+ern-' s-l/2 rad-'I2 (Fig. 9). Ces valeurs conduisent h un coeffi-
+
+cient de diffusion tgal a 1,26 X 
+crn2 s-', ce qui est en 
+harmonie avec la valeur de 1,4 X 
+crn' s-' trouvte prC-
+ctdernrnent (4). 
+Le fait que X soit tgal a 1,5 (Fig. 11) tend a confirrner la 
+
+formation concomittante des interrntdiaires CuBr, et CUB^:-
+
+Can. J. Chem. Downloaded from www.nrcresearchpress.com by 87.160.185.190 on 03/27/14 
+
+For personal use only. 
+
+
+BROSSARD 
+
+1119 
+
+en quantites tgales. Comme nous venons de le voir, la prtsence 
+de ces intermkdiaires comme espkces ioniques qui diffusent 
+permet d'expliquer l'ensemble des rCsultats expkrimentaux de 
+f a ~o n cohkrente. 
+
+Enfin, d'aprks la relation [lo], la valeur de CUB^^,,)^ est 
+
+dCterminCe par 1'Cquilibre de la rCaction [4]. I1 est alors prC-
+visible que la vitesse de dissolution du bromure cuivreux soit 
+independante de la quantite de CuBr prCsent sur le cuivre jus-
+qu'a sa dissolution complete; ce qui est confirm6 exptri-
+mentalement (Fig. 7). 
+
+4.2 Accumulation du bromure cuivreux 
+
+I 
+
+1 
+
+Les enregistrements E,, vs. temps (Fig. 12), obtenus aprks 
+oxydation tlectrochimique pour differentes valeurs de EL, sug-
+gkrent que le seul produit de corrosion qui s'accumule sur 
+l'tlectrode est le bromure cuivreux dans la rigion de la pre-
+mikre et de la deuxikme vague d'oxydation. 
+Par ailleurs, le courant equivalent pour l'accumulation du 
+
+CuBr sur l'tlectrode (dQcuBr/dt) est calculable a partir du pro-
+
+duit de (dQcuBr/dE) (Fig. 13) par la vitesse de balayage impo-
+see, dE/dt. Le courant equivalent ainsi trouvC est de 12,3 mA 
+cm-2 entre 0 et 200 mV (Fig. 13). Pour sa part, le courant de 
+dissolution est en moyenne de 18,7 mA cm-2 entre 0 mV et 200 
+mV (Fig. 1). On en deduit qu'une fraction non negligeable du 
+courant de dissolution rksulte en la formation de bromure 
+cuivreux sur 1'Clectrode dans la zone de la deuxikme vague 
+d'oxydation. 
+
+Conclusion 
+1. La prksence de bromure cuivreux sur la surface du cuivre, 
+suite a l'oxydation Clectrochimique de ce mCtal, contribue a 
+l'enrichissement de la solution en cuivre dissous en contact 
+avec 1'Clectrode de cuivre. Cet enrichissement se traduit par 
+une tension d'electrode bien caractCristique qui tombe dks la 
+dissolution complkte de ce composC. 
+
+2. La vitesse de dissolution du CuBr est constante jusque 
+dans les instants qui prickdent sa dissolution complkte. 
+3. La dissolution du bromure cuivreux est entierement 
+dominee par la diffusion d'une ou de plusieurs especes ioniques 
+qui se deplacent depuis 1'Clectrode jusqu'au coeur de la solu-
+tion. Les rksultats expkrimentaux s'expliquent entikrement 
+
+partir de la prCsence simultanee des espkces CuBr, et CUB^:-
+
+comme espkces ioniques qui diffusent. 
+4. Dans la rCgion des vagues d'oxydation le seul produit de 
+corrosion qui s'accumule sur 1'Clectrode est le bromure cui-
+vreux. La quantitC d'ClectricitC impliquee dans la region de la 
+premikre vague se traduit presqu'entikrement par la formation 
+de CuBr a la surface de cuivre alors que la formation de ce 
+composC explique une part importante du courant de dis-
+solution dans la rCgion de la deuxikme vague. 
+
+1. S. NAGESWAR et T. H. SEITY. Proc. Ind. Acad. Sci. Sect. A, 71, 
+282 (1972). 
+2. J. FRANCO et N. K. PATEL. J. Inst. Chem. (India), 50, 243 
+(1978). 
+3. J. FRANCO et N. K. PATEL. J. Electrochem. Soc. (India), 22, 172 
+(1973). 
+4. L. BROSSARD. Can. J. Chem. 62, 36 (1984). 
+5. K.-TH. WILKE. Krist. Tech. 3, K53 (1968). 
+6. R. L. BROSSARD. Can. J. Chem. 60, 616 (1982). 
+7. D. W. SHOESMITH, T. E. RUMMERY, D. OWEN et W. LEE. J. 
+Electrochem. Soc. 123, 790 (1976). 
+8. D. W. SHOESMITH et W. LEE. Electrochim. Acta, 22, 1411 
+(1977). 
+9. W. LATIMER. Oxidation potentials. 2' Cd. Prentice-Hall, New 
+York. 1952. 
+10. C. E. WICKS et F. E. BLOCK. Bulletin 605, U.S. Bureau of 
+Mines, Washington. p. 43. 
+11. V. G. LEVICH. Physicochemical hydrodynamics, Prentice-Hall, 
+Englewood Cliffs, NJ. 1962. 
+12. R. PARSONS. Handbook of electrochemical constants. Butter-
+worths Scientific Publ., London. 1959. p. 77. 
+
+Can. J. Chem. Downloaded from www.nrcresearchpress.com by 87.160.185.190 on 03/27/14 
+
+For personal use only. 
+
+
+
+	
+

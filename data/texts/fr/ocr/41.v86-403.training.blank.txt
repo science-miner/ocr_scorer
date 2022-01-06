@@ -1,0 +1,787 @@
+
+	
+
+		
+
+	
+
+	
+
+Cellules photoelectrochimiques de phtalocyanine 
+d'hydroxyaluminium deposees par rotation 
+
+G ~R A R D 
+PERRIER ET LI? H. DAO' 
+
+Institut National de la Recherche Scientifique ( I N R S -E ~~~~L ~) , 
+C.P. 1020, Varennes (QuP.), Canuda JOL 2P0 
+R e p le 12 mai 1986 
+
+G ~R A R D 
+PERRIER et L!? H. DAO. Can. J. Chem. 64, 243 1 (1986) 
+Des cellules photoClectrochimiques a base de phtalocyanine d'hydroxyaluminium (PcAIOH) ont Ct C fabriqukes par la mCthode 
+de dCposition par rotation ((&lt;spin-coating,,). Le comportement spectral et electrique des cellules NESA/PcAIOH/BQ/HQ/Pt 
+est CtudiC et comparC a celui de cellules ou les films de PcAlOH sont produits par sublimation. A cause de la faible solubilitC de 
+PcAlOH dans les solvants organiques volatils, le DMSO utilisC pour la dCposition par rotation semble rester piCgC dans le film 
+solide et diminue le rendement de la cellule photoClectrochimique. L'Ctude de l'influence de la contre-Clectrode sur l'efficacite 
+des cellules a permis de montrer qu'une contre-electrode en vanadium conduisait a des valeurs plus ClevCes de J,, , V,,, et q 
+comparee a une contre-electrode en platine, mais prCsentait des phCnomknes de corrosion. 
+
+GBRARD PERRIER and L t H. DAO. Can. J. Chem. 64, 2431 (1986). 
+The spin-coating technique was used to produce hydroxyaluminum phthalocyanine (PcAlOH) photoelectrochemical cells. 
+The spectral and electrical behavior of NESA/PcAIOH/BQ/HQ/Pt cells is studied and comparisons are made with cells based 
+upon sublimed PcAlOH films. Due to the weak solubility of PcAlOH in volatile organic solvents, the DMSO used in the 
+spin-coating method seems to be trapped in the solid film, and leads to a decrease in the photoelectrochemical cell efficiency. 
+Studies on the influence of the counter-electrode showed that a vanadium counter-electrode gave higher values of Js,, V,, , and q 
+than a platinum one, but corrision phenomena were observed in that case. 
+
+1. Introduction 
+Une approche intkressante de la conversion de 1'Cnergie 
+lumineuse en Cnergie Clectrique consiste en l'utilisation de cel-
+lules solaires a base de semiconducteurs organiques. L'intCrEt 
+en est surtout Cconomique, le coilit du mattriau semiconducteur 
+Ctant peu ClevC car les techniques de synthitse et de purification 
+sont en gCnCral assez simples, de m&amp;me que les mCthodes de 
+fabrication des films minces. 
+Les propriCtCs des semiconducteurs organiques ont CtC 
+connues dits les annees 1950 alors que leurs forces photo-
+Clectromotrices ont Ct C mesurees sur des substrats inorganiques 
+(1,2). Des progres remarquables ont CtC rCalisCs dans l'augmen-
+tation de I'efficacitC de conversion des cellules photovoltai'ques 
+organiques, passant de 
+au debut des annCes 1970 
+1% actuellement (3). Les composCs de type phtalocyanine 
+ont r e p une attention particuliere en tant que colorants pour la 
+sensibilisation spectrale et la stabilisation de semiconducteurs 
+inorganiques (4-9) et en tant que semiconducteurs formant des 
+jonctions liquides avec des couples redox (10-25). 
+On connait de nombreuses formes polymorphiques de phtalo-
+cyanines, en particulier les formes a , f3 et x (26). Ces 
+formes correspondent a un empilement diffkrent des molCcules 
+planaires; les formes a et x sont les plus conductrices (27-29). 
+La prksence de l'oxygitne augmente grandement la conductivite 
+des phtalocyanines (30) et intervient dans la formation d'itats 
+de surface accepteurs d'klectrons (3 1). 
+La sublimation est la technique de deposition la plus 
+frequemment utilisCe pour la fabrication de films de phtalo-
+cyanines (10-19), mais on retrouve aussi 1'ClectrodCposition 
+(20) et la dCposition par monocouches (32, 33). Les phtalo-
+cyanines peuvent Etre aussi dispersees dans un polymere et 
+le mClange obtenu peut Etre CtalC en films minces a l'aide 
+d'un couteau ou d'un rouleau (23, 24), ou dCposC par rotation 
+(27, 34) sur un support transparent. 
+Ce travail presente une nouvelle cellule phototlectrochi-
+mique a base de phtalocyanine d'hydroxyaluminium ou le 
+
+1. Auteur a qui adresser toute correspondance. 
+
+film mince de semiconducteur organique pur a Ct C depose 
+par rotation (ccspin-coating,,). Le comportement spectral et 
+Clectrique de ces cellules est CtudiC et comparC a celui de cellules 
+ou le film mince de phtalocyanine d'hydroxyaluminium a CtC 
+depose par sublimation; la cellule est ensuite optimisee et un 
+diagramme des niveaux d'Cnergie est ClaborC. 
+
+2. Partie experimentale 
+
+2.1 Mat6riaux 
+La phtalocyanine d'hydroxyaluminium (PcAIOH) a Ct C prCparCe 
+comme suit. La phtalocyanine de chloroaluminium a d'abord Ct C 
+synthCtisCe en chauffant de 1'0-phtalonitrile et du chlorure d'alumi-
+nium dans de la quinoline; le produit purifiC est ensuite chauffC 
+reflux dans une solution aqueuse d'ammoniaque (30%) en presence de 
+pyridine (35) pour donner PcAlOH. Aprks des extractions rCpCtCes 
+avec des solvants organiques, PcAlOH est dissoute dans l'acide 
+sulfurique concentre et la solution obtenue est versee dans un melange 
+eau-glace. Le solide bleu foncC est filtrC et lave successivement avec 
+l'eau, 1'Cthanol et I'acCtone. 
+Les films organiques ont Ct C dCposCs sur des supports conducteurs 
+transparents de dimensions 25 mm x 50 mm constituCs de lamelles de 
+NESA (Sn02 d o g , PPG Industries); ces lamelles ont Ct C nettoykes 
+par immersion successive dans une solution de dCtergent, dans l'eau 
+du robinet et l'eau distillte, puis dans le methanol. La mCthode de 
+dCposition par rotation consiste en la dCposition d'une goutte d'une 
+suspension de PcAlOH dans du DMSO au centre du substrat en 
+rotation; la force centrifuge permet ainsi 1'Ctalement de la goutte sur le 
+substrat. L'Cpaisseur des films (de 100 a 3000 A) peut &amp;tre variCe en 
+jouant sur la vitesse de rotation (de 1000 a 3500 r/min) ainsi que sa 
+durCe, et sur la concentration de PcAlOH dans le DMSO; le sCchage est 
+effectuC a l'air libre pendant une dizaine de jours. La mCthode de 
+dCposition par sublimation utilise le systkme dCcrit par Linkous et al. 
+(13); la tempkrature de sublimation est de 520°C a des pressions 
+typiques de 5 X 
+Torr (1 Torr = 133.3 Pa). L'epaisseur du film 
+(de 100 a 5500 A) peut &amp;tre variee en jouant sur la duree de la 
+sublimation (de 5 min 1 h). 
+Les contacts Clectriques sont rCalisCs a l'aide d'un fil de cuivre colle 
+sur la partie conductrice du substrat et recouvert d'une peinture a 
+l'argent (G.C. Electronics). Une surface active variant de 1 a 4 cm2 est 
+definie en recouvrant 1'Clectrode d'un vernis incolore limitant le contact 
+avec la solution. L'Cpaisseur des films est dCterminCe a l'aide d'un 
+
+Can. J. Chem. Downloaded from www.nrcresearchpress.com by 87.160.185.190 on 03/27/14 
+
+For personal use only. 
+
+
+Can. J. Chem. Downloaded from www.nrcresearchpress.com by 87.160.185.190 on 03/27/14 
+
+For personal use only. 
+
+
+PERRIER ET DAO 
+
+2433 
+
+FIG. 1. Photographies obtenues au microscope Clectronilue A balayage de la surface de films de PcAlOH : A : film d'kpaisseur 700 ~$ C ~o s k 
+
+p a 
+
+rotation, grossissement 2 000; B : film d'bpaisseur 700 A deposC par rotation. grossissement 20 000; C : film d'Cpaisseur 600 A sublimC, 
+grossissement 20 000. 
+
+735 nm; celle-ci se trouve en plus grande quantitC dans les films 
+Cpais, obtenus pour des temps de sublimation plus longs, ou le 
+substrat a atteint des tempCratures plus Clevees. 
+Les spectres d'action des cellules a base de PcAlOH dCposee 
+par rotation et sublimke sont pres~ntes aux figures 4B et 5B pour 
+des Cpaisseurs de 250 A et 150 A, respectivement. Le courant 
+mesure doit Etre corrigC pour I'intensitC de la lampe, ainsi que 
+pour la reponse du detecteur et la variation du courant J,, 
+avec l'intensite lumineuse I (variee en modifiant la tension 
+d'alimentation de la lampe). Cette variation prend la forme 
+(29) : 
+
+ou k est une constante de proportionnalite et y l'exposant de 
+lumibe de la cellule, dont la valeur se situe autour de 0,90 pour 
+toutes les cellules. Les spectres d'action corriges representent 
+alors le photocourant obtenu en court-circuit pour un flux 
+constant de photons a chaque longueur d'onde; il est donne par 
+la formule : 
+Can. J. Chem. Downloaded from www.nrcresearchpress.com by 87.160.185.190 on 03/27/14 
+
+For personal use only. 
+
+
+2434 
+
+CAN. J CHEM. VOL. 64, 1986 
+
+t I 
+
+I 
+I 
+I 
+
+I 
+I 
+I 
+
+I 
+
+0 
+2 
+
+4 
+6 
+8 
+
+L' H 
+
+FIG. 2. Variation de J,, et V,, avec le pH de la solution ([BQ] = 
+[HQ] = lo-' M et I = 10mW ~m -~) . 
+
+qui peut aussi s'tcrire 
+
+FIG. 3. A : Variation de J,, et V,, avec la concentration du couple 
+rCdox ([BQ] = [HQ]; pH 2,5; I = 10 mW ~m -~) . 
+B : Variation de J,, et 
+V, , avec la concentration du rCducteur ([BQ] = 4 X 
+M; pH 2,5; 
+I = 10mW cm-'1. 
+
+ou N,,, et N , sont le flux de photons incidents maximum et le 
+flux de photons incidents pour la longueur d'onde consideree, 
+respectivement. Le flux de photons maximum est ici de 8,3 x 
+
+1014 photons cm-* s ' pour une irradiation directe de l'interface. 
+
+Les spectres d'action suivent l'allure des spectres d'absorption 
+pour les deux types de films. Dans le cas d'un film sublime. la 
+
+forme a serait la plus photoactive; la contribution de la forme P 
+
+au photocourant est assez faible et ne varie que tres peu avec 
+1'Cpaisseur du film de PcAlOH. 
+
+FIG. 4. A : Spectre d'absorption d'un film d'kpaisseur 250 A de 
+PcAlOH dCposC par rotation. B : Spectre d'action du m&amp;me film. 
+
+On peut tirer le rendement quantique de la cellule partir du 
+
+spectre d'action a l'aide de l'eq. [3] (39) : 
+
+ou hv est 1'Cnergie du photon, q la charge de 1'Clectron et N le 
+
+flux de photons incidents. Le rendement quantique est alors le 
+rapport entre le nombre d'electrons collectes et le nombre de 
+photons incidents et p r e ~d une valeur de 1,58% a 628 nm pour 
+un film d'epaisseur 250 A depose par et 0,93% a 618 nm 
+pour un film sublimC d'epaisseur 150 A. la reponse 
+spectrale d'un film sublime couvre une part plus grande du 
+spectre visible. 
+
+3.4 Courbes courant-tension 
+La figure 6A nous montre les caracteristiques J-V d'une 
+cellule NESA/PcAlOH/BQ/HQ/Pt dans les conditions opti-
+males d'electrolyte; la courbe 1 represente les caracteristiques 
+du NESA dans le noir, les courbes 2 et 3 celles d'un film 
+dlCpaisseur 250 A depose5 par rotation, dans le noir (2) et sous 
+illumination (3), &amp;t les courbes 4 et 5 celles d'un film sublime 
+d'epaisseur 150 A dans le noir (4) et sous une mtme illumina-
+tion (5). Les courbes J-V de PcAlOH dans le noir montrent 
+des rectifications moyennes, les rapports de rectification etant, 
+a 0,2 volts, de 5,8 pour le film dCposC par rotation et de 2,2 pour 
+le film sublime. Lorsque les electrodes sont irradiees en lumiere 
+blanche, on note l'apparition de photocourants cathodiques 
+dans la zone de polarisation inverse, indiquant que les electrons 
+provenant du semiconducteur organique vont reduire la benzo-
+quinone en solution. 
+Dans la region ou la polarisation de l'electrode est directe, un 
+Can. J. Chem. Downloaded from www.nrcresearchpress.com by 87.160.185.190 on 03/27/14 
+
+For personal use only. 
+
+
+PERRIE :R ET DAO 
+
+2435 
+
+FIG. 5. A : Spectre d'absorption de films sublimCs de PcAlOH pour 
+
+diffkrentes Cpaisseurs. B -: Spectre d'action d'un film sublimC de 
+PcAlOH d'Cpaisseur 150 A. 
+
+0,6 
+0,4 
+0,2 
+0,O 
+0,2 
+0,4 
+
+POTENTIEL ( V ) 
+
+FIG. 6. A : Caract$ristiques J-V (1) du NESA dans le noir; (2) d'un 
+film d'Cpaisseur 250 A de PcAlOH dCposC par rotation, dans le noir et 
+(3) sous illumination en lumikre blancbe de 10 mW 
+(4) d'un film 
+de PcAlOH sublimC dlCpaisseur 150 A, dans le noir et (5) sous mCme 
+
+illumination. B : DCtermination graphique de J,, et V,, . 
+
+photocourant anodique apparait pour le film sublime, contraire-
+ment au film depost par rotation, pour lequel il n'existe aucun 
+photocourant. D'autre part, la pente des courbes J-V en 
+polarisation directe dans le noir est assez diffkrente; ces portions 
+de courbes suivent l'tquation suivante (20) : 
+
+TABLEAU 1. Courant d'Cchange a 1'Cquilibre Jo, paramktre de 
+la diode rn et rCsistance en sCrie R , de la cellule NESA/ 
+
+PcAIOH/BQ/HQ/Pt sclon la technique de dkposition du film 
+organique 
+
+MCthode de dCposition 
+Jo ( p ~/ c m 2 ) 
+
+rn 
+
+R, (0) 
+
+Rotation 
+0,4 
+1,4 
+500 
+Sublimation 
+0,1 
+1,2 
+1220 
+
+oii Jo est la densite de courant d'echange, m est un paramktre 
+ajustable et Rs est la resistance en strie de la cellule photo-
+
+electrochimique. Cette expression est similaire 2 celle qui dkcrit 
+
+les caractCristiques J-V dans l'obscurite pour une barrikre de 
+Schottky a la jonction metal-semiconducteur (40). 
+Lorsque V 2 3 kT/q, le dernier terme entre parenthkses peut 
+Ctre ntglige (20). Si R, = 0 , un graphique de In J en fonction de 
+V donne une droite avec Jo comme ordonnee a l'origine; m est 
+obtenu 2 partir de la valeur de la pente. Si R, i : 0 , sa valeur 
+
+peut Ctre dCterminCe par la deviation de la courbe a la linearite 
+lorsque le potentiel applique est elevt. Les valeurs de Jo, m et R, 
+
+pour les deux types de films sont rapportees dans le tableau 1. 
+On remarque principalement que le film depose par rotation 
+presente une rtsistance en sCrie beaucoup plus faible que 
+film sublime. Ce phenomkne ainsi que l'absence de courant 
+
+anodique dans le film depost par rotation pourrait Ctre dQ 2 la 
+
+presence de traces de solvant dans la masse du semiconducteur 
+organique. 
+L'intersection de la courbe J-V sous illumination avec 
+les axes des courants et tensions nous donne le courant en 
+court-circuit J,, et la tension en circuit ouvert Voc, respective-
+ment (fig. 6B ). On peut ainsi calculer le facteur de remplissage 
+ff dCfini comme suit : 
+
+161 ff = 
+
+( J . V ) ma, 
+
+Jsc . voc 
+
+Cette valeur de ff varie peu d'une cellule a l'autre et se situe 
+autour d'une valeur moyenne de 0,35. L'efficacitC des cellules 
+est alors donnee par : 
+
+Les valeurs de J,, , Voc , ff et q sont presentees dans le tableau 
+
+2 pour les deux types de films. Des courants plus tlevCs et des 
+tensions plus faibles sont produits lorsque le film de PcAlOH est 
+depose par rotation, conduisant a des valeurs trks semblables de 
+rendement de conversion qui se situent pour les deux types de 
+films aux alentours de 5 x 
+
+3.5 Photocourants et potentiels de b a d e plate 
+Les variations d'amplitude et de signe du photocourant en 
+lumiere blanche avec le potentiel applique sont tracees sur la 
+figure 7 pour un film d'epaisseur 250 A depose pfr rotation a pH 
+2,5 (a) et pour un film sublime d'ipaisseur 230 A a pH 2,5 (b), 
+4,5 (c) et 6,O (d). Le couple rtdox est BQ/HQ aux conditions 
+optimales de concentration; les potentiels redox dans les 
+conditions de pH sont indiques par de flkches. 
+Dans la gamme de potentiels utiliske, le photocourant atteint 
+un maximum lorsque le potentiel est augment6 dans la direction 
+cathodique. La decroissance du courant cathodique lorsque 
+des tensions cathodiques tlev6es sont appliquees est due a la 
+Can. J. Chem. Downloaded from www.nrcresearchpress.com by 87.160.185.190 on 03/27/14 
+
+For personal use only. 
+
+
+CAN. J. CHEM VOL. 64. 1986 
+
+TABLEAU 2. Courant de court-circuit J,,, tension en circuit ouvert V,,, facteur de 
+ff et rendement de conversion pour des films de PcAlOH dCposCs par 
+rotation et par sublimation (I = 10 mW ~m -~) 
+
+MCthode de dCposition 
+J S C (pA/cm2) 
+VOC (mV) 
+
+ff 
+
+rl(10-~%) 
+
+Rotation 
+Sublimation 
+
+TABLEAU 3. Potentiel de bandes plates Vfb, potentiel redox Ercd, tension maximale A V 
+et tension en circuit-ouvert V, , selon la methode de dCposition du film organique et le 
+pH de la solution 
+
+Methode de dkposition 
+PH 
+Vfi (V) 
+Ere, (V) 
+AV(V) 
+
+voc (v) 
+
+Rotation 
+Sublimation 
+
+compCtition entre les Clectrons produits dans le noir et les 
+Clectrons photogenCrCs pour les espkces oxydCes disponibles a 
+l'interface (20). Cette conlpetition est visible sur la figure 6A 
+ou les valeurs des courants dans le noir rkjoignent celles des 
+courants sous illumination. 
+On observe des photocourants cathodique et anodique lorsque 
+le film est depose par sublimation, tandis qu'aucun courant 
+anodique n'apparait pour un film dCpose par rotation, comme 
+l'indique la figure 6A. 
+Dans le modele de bande du semiconducteur organique, en 
+considerant que le contact PcAlOH/NESA est ohmique (24), 
+le point ou le photocourant passe de cathodique a anodique 
+correspond au potentiel de bandes plates (V%) du pigment (10). 
+Si un potentiel est appliquC du cBtC cathodique de V f b , une 
+rCgion de charges d'espace est dans PcAlOH; les trous et 
+les Clectrons photogCnCr~s sont sCparCs le champ Clectrique 
+present dans la region de charges d'espace, et les Clectrons sont 
+inject&amp; dans la solution. Du cBtC anodique de V f b , PcAlOH se 
+comporte comme une rCsistance variable pour le transfert des 
+trous dans la solution. Lorsque PcAlOH est illuminCe. sa 
+
+rCsistance diminue 2 cause de l'augmentation de la densit6 en 
+
+porteurs de charges. Les photocourants anodiques ne sont pas 
+dus a une sensibilisation de S n 0 2 car ils sont presents aussi 
+lorsque le substrat est le platine. PcAlOH dCposCe sur du NESA 
+n'est pas une simple couche resistive, mais sa presence modifie 
+
+la disponibilite du redox B l'interface comme le montre la figure 
+
+6 A si on compare les courbes directes pour le NESA nu et 
+recouvert de PcAlOH. Le tableau 3 rapporte les valeurs de Vfb 
+mesurCes sur la figure 7. Quand aucun photocourant anodique 
+existe, on utilise une extrapolation des courbes pour determiner 
+
+Vfb. La difference A V est definie comme suit : 
+
+et correspond la tension maximale que peut fournir la cellule. 
+Le potentiel de bande plate varie beaucoup avec le pH de la 
+solution dans le cas du couple rtdox BQ/HQ, alors qu'il a Ct C 
+trouvC indCpendant du pH dans le cas du couple rCdox 13-/Ip. 
+Un comportement identique a CtC observC (20) pour un film de 
+SAIPc. I1 peut Ctre expliquC en formulant l'hypothkse de la 
+formation d'un faible complexe de transfert de charge entre 
+PcAlOH et la benzoquinone a la surface du film. Un complexe 
+de transfert de charge a 1'Ctat fondamental a dCja Ct C observC 
+
+FIG. 7. Variation du photocourant avec le potentiel appliquC sur un 
+film d'epaisseur 250 A dt osC par rotation 2 pH 2,5 (a) et pour un film 
+
+sublimC d'epaisseur 230 1 pH 2,5 (b), 4,5 (c) et 6,O (d). 
+
+entre H2Pc et le chloranil; il augmente la conductivite dans 
+le noir et la photoconductivitC du pigment (14, 41, 42). La 
+benzoquinone est un accepteur plus faible que le chloranil, mais 
+un complexe a 1'Ctat fondamental a CtC rapport6 dans I'acktone 
+entre BQ et des tCtratolylporphines libres et de zinc (43), qui 
+sont des molCcules tres proches de PcAlOH. La diminution de 
+Ere,,, est de 0,059 V par unit6 de pH, et la prCsence de la 
+benzoquinone sur 1'Clectrode doit causer un dkplacement du 
+potentiel de bande plate si l'hydroquinone est aussi adsorbCe 
+
+sur la surface du semiconducteur. De pH 2,s B pH 6,0, la 
+
+diminution de E,,,,, doit &amp;tre de 0,21 V (valeur mesuree : 
+0,17 V), et la variation de V, avec le pH est de 0,36 V dans 
+le mCme sens. Cet effet est similaire au dkplacement de V f b 
+avec le pH pour les oxydes semiconducteurs (44). Si BQ/HQ 
+n'affectait pas le potentiel de bande plate de PcAlOH. on 
+s'attendrait a une augmentation de la tension en circuit ouvert 
+V, , avec le pH, le potentiel rCdox devenant de plus en plus 
+cathodique. Ceci n'est pas observe exptrimentalement. 
+Can. J. Chem. Downloaded from www.nrcresearchpress.com by 87.160.185.190 on 03/27/14 
+
+For personal use only. 
+
+
+Can. J. Chem. Downloaded from www.nrcresearchpress.com by 87.160.185.190 on 03/27/14 
+
+For personal use only. 
+
+
+2438 
+
+CAN J CHEM VOL 64, 1986 
+
+TABLEAU 4. Variation du courant de court-circuit sous illumination (J,,) et dans le noir (J,,,,), du rapport IJnOlri/J,,, de la 
+tension en circuit ouvert sous illumination (V,,) et dans le noir (Vn,,,), du rapport I V,,,,I/Voc et de I'efficacitk de conversion q 
+en fonction de 1'Cpaisseur du film de PcAlOH, de la puissance lumineuse incidente et de la nature de la contre-Clectrode 
+(films dCposCs par rotation) 
+
+Puissance 
+~~a i s s e u r lumineuse 
+Contre-
+
+JSC 
+J ~O I I 
+
+1 n o 1 / , 
+
+V,, 
+
+Vmlr 
+
+1 I 
+
+/ 
+
+v 
+(A) 
+
+(mw cm-') 
+electrode (p,A ~m -~) cmP2) 
+
+(%) 
+
+(mV) 
+(mV) 
+
+faibles (Ta, Nb, Pb, Sn, Cu, Fe, Ti, Zn, Al) ou s'oxydent tres 
+rapidement (Sc). Les Clectrodes du tableau 4 (Pt, Au, Zr, V) ont 
+une rCponse stable (films de PcAlOH dCposCs par rotation). 
+Le meilleure rtponse est fournie par une contre-Clectrode en 
+vanadium avec J,, = 175,2 F ~/ c m ~ 
+
+et V , , = 337 mV pour une 
+
+puissance lumineuse de 85 mw/cm2. Des valeurs ClevCes sont 
+aussi obtenues avec le zirconium (J,, = 117,2 FA/cm2 et V, , , = 
+226 mV). I1 semble donc que le rendement de la cellule soit 
+limit6 par le taux de rCaction du rCducteur a l'klectrode 
+mCtallique. Cependant, I'Clectrode de zirconium est soumise a 
+une corrosion assez rapide (10 h) due a un mCcanisme Clectro-
+chimique catalyse par les photocourants, et on pense qu'il en est 
+de mCme avec le vanadium; en effet, les courants et tensions 
+dans le noir sont importants (15,6% et 64,1470 des courants et 
+tensions totaux), bien qu'aucune corrosion ne soit visible la 
+surface de 1'Clectrode mCtallique. Les contre-electrodes en 
+platine et en or sont par contre tres inertes dans les conditions 
+d'expkrience et nous permettent d'Cviter la corrosion, mais elles 
+
+conduisent 2 des valeurs plus faibles. 
+
+3.8 Mod2le de bandes 
+L'absorption de photons par 1'Clectrode semiconductrice 
+conduit, a travers un processus excitonique, a la crCation de 
+paires Clectron-trous; ces derniers se sCparent sous l'effet 
+du champ Clectrique de la jonction. Les Clectrons (porteurs 
+minoritaires) arrivent i i l'interface semiconducteur-Clectrolyte 
+et vont rtduire une espkce oxydante en solution. Les trous 
+se dCpiacent travers le semiconducteur lui-m6me; ils recom-
+binent ensuite au contact ohmique (NESA) avec les Clectrons 
+venant du circuit extirieur qui sont foumis par la rCaction 
+d'oxydation du reducteur la contre-Clectrode. Le transfert 
+d'klectrons du semiconducteur a l'espece Clectroactive de 
+1'Clectrolyte est possible thtoriquement si la distribution d'tner-
+gie de l'espece en solution recouvre la bande de conduction du 
+semiconducteur de type p. 
+Ainsi, il est possible de tracer un diagramme montrant les 
+niveaux d'Cnergie du semiconducteur et le potentiel rCdox du 
+couple en solution (fig. 10). Le niveau de Fermi, E F , de la 
+solution est reprCsentC par le potentiel redox du couple, mesurt 
+
+dans les conditions expkrimentales (Ered = 0.29 V/ECS pour 
+BQ/HQ a pH 2,5) et les bandes d'energie du semiconducteur 
+sont celles trouvCes par Lawrence et al. (46) pour SAlPc, soit 
+E, = 3,90 eV pour la bande de conduction et E, = 1,80 eV pour 
+le saut de bande interdite. Le potentiel de bandes plates, Vfb, 
+correspondant au niveau de Fermi du semiconducteur sous 
+illumination, est determine par l'intersection avec l'axe des 
+
+NESA 
+P c A l OH 
+~l e c t r o l ~t e 
+
+tats de 
+
+surface 
+
+FIG. 10. Diagramme des bandes d'energie de la cellule NESA/ 
+PcAlOH/BQ/HQ/Pt B pH 2.5. 
+
+tensions de la courbe photocourant-tension appliquee (photo-
+courant = courant sous illumination -courant dans le noir). 
+Quand aucun photocourant anodique n'est mesure, on utilise 
+
+une extrapolation de la courbe pour trouver Vfb. Dans le ca: 
+
+de la cellule formCe d'un film de PcAlOH d'kpaisseur 250 A 
+obtenu par rotation, la valeur de Vfb mesuree est de 0,43 V/ECS 
+pour BQ/HQ. Aprks le contact avec I'Clectrolyte, les electrons 
+passent de la solution au semiconducteur pour Cgaliser les 
+niveaux de Fermi. I1 en resulte une distribution de charges a 
+l'interieur du semiconducteur sur une profondeur W, ce qui 
+cree un champ electrique conduisant a la separation des paires 
+electron-trou-genir~es par la lumiere. La vitesse de transfert 
+des charges entre la phtalocyanine et l'oxydant en solution est la 
+plus rapide quand 1'Cnergie de 1'Ctat excite de la phtalocyanine 
+(represente par 1'Cnergie de la bande de conduction) est proche 
+de celle de l'accepteur d'electrons. D'aprks Gerisher (47), les 
+fonctions de distribution des niveaux d'energie du couple rCdox 
+BQ/HQ sont donnCes par leur potentiel redox et leur Cnergie de 
+reorientation A = 0,5 eV. Le recouvrement entre les niveaux 
+Can. J. Chem. Downloaded from www.nrcresearchpress.com by 87.160.185.190 on 03/27/14 
+
+For personal use only. 
+
+
+PERRIER ET DAO 
+
+2439 
+
+d'inergie de la benzoquinone et de la bande d e conduction de 
+la phtalocyanine n'est pas grand, mais de nombreuses donnCes 
+
+experimentales (21, 23, 24) portent a croire qu'il existe chez les 
+
+phtalocyanines des etats de surface par l'intermediaire desquels 
+se fait 1'Cchange de charges. Ces Ctats de surfaces sont situes 
+autour de -0 , l V/ECS et on observe alors un bon recouvrement 
+d'knergie entre ces Ctats de surface et la benzoquinone en 
+solution, comme le represente la figure 10. 
+
+4. Conclusion 
+
+Des films minces de semiconducteurs organiques ont CtC 
+prepares par deposition par rotation sur des substrats trans-
+parents. Les efficacitks des cellules photoClectrochimiques ainsi 
+obtenues sont du mCme ordre de grandeur que celles obtenues 
+pour des films sublimes. Cependant, le solvant DMSO utilisC 
+
+durant la dCposition est difficile a eliminer et sa presence tend a 
+
+diminuer l'efficacite des cellules photoelectrochimiques. 
+La formation d'un faible complexe de transfert de charge 
+
+entre la benzoquinone et PcAlOH peut Ctre a l'origine du 
+
+dCplacement du potentiel de bande plate avec le pH de la 
+solution. L'emploi d'une contre-Clectrode en vanadium a 
+permis d'atteindre des valeurs ClevCes pour le courant de 
+
+court-circuit (J,, = 0,175 mA/cm2) et pour la tension en circuit 
+ouvert (V,, = 0,337 V) sous une irradiation de 85 mW/cm2 en 
+
+lumiere blanche avec le couple redox BQ/HQ. Le rendement de 
+la cellule est alors de 2,4 X l o p 2 % , mais des phCnomenes de 
+
+corrosion apparaissent a la contre-Clectrode. Une cellule stable 
+
+NESA/PcAlOH/BQ/HQ/Pt possede une efficacite de conver-
+sion de 0 , 0 0 6 7 ~ sous illumination de lumiere blanche d'intensitC 
+
+10 mW/cm2. Ce rendement peut &amp;tre amCliorC en augmentant la 
+
+photoconductivite et en Clargissant le spectre d'absorption de la 
+phtalocyanine d'hydroxyaluminium par un traitement chimique 
+approprik (38, 48, 49). 
+
+Remerciements 
+
+C e travail est supporte par des subventions du Conseil de 
+recherches en sciences naturelles et en genie. Les auteurs 
+
+tiennent a remercier Monsieur J. P. Ricbourg et I'INRS-
+
+GCoressources pour les experiences de microscopie Clectro-
+
+nique a balayage, ainsi que le professeur F. Rheault de I'INRS-
+
+Energie pour son soutien constant. 
+
+1. H. KALLMAN et M. SILVER ( ~d i t e u r s ) . 
+Symposium on electrical 
+conductivity in organic solids. Wiley Interscience, New York. 
+1961. 
+2. F. GUTMAN et L. E. LYONS. Organic semiconductors. Wiley 
+Interscience, New York. 1967. 
+3. G. A. CHAMBERLAIN. Sol. Cells. 8, 47 (1983). 
+4. C. D. JAEGER, F.-R. F. FAN et A. J. BARD. J. Am. Chem. Soc. 
+102, 2592 (1980). 
+5. A. GIRAUDEAU, F.-R. F. FAN et A. J. BARD. J. Am. Chem. Soc. 
+102. 5137 (1980). 
+6. Y. NAKATO, M. SHIOJI et H. TSUBOMURA. J. Phys Chem. 85, 
+1670 (1981). 
+7. T. M. MEZZA, C. L. LINKOUS, V. R. SHEPARD, JR., N . R. 
+ARMSTRONG, R. NOHR et M. KENNEY. J. Electroanal. Chem. 
+124. 311 (1981). 
+8. N. R. ARMSTRONG et V. R. SHEPARD, JR. J. Electroanal. Chem. 
+131. 113 (1982). 
+9. P. LEEMPOEL, M. CASTRO-ACUNA, F.-R. F. FAN et A. J . BARD. 
+J. Phys. Chem. 86, 1396 (1982). 
+10. H. TACHIKAWA et L. R. FAULKNER. J. Am. Chem. Soc. 100, 
+4379 (1978). 
+11. N. MINAMI, T. WATANABE, A. FUJISHIMA et K. HONDA. Ber. 
+Bunsenges. Phys. Chem. 83, 476 (1979). 
+
+12. N. MINAMI. J. Chem. Soc. Faraday Trans. 2, 78, 1871 (1982). 
+13. C. LINKOUS, T. KLOFTA et N. R. AMSTRONG. J. Electrochem. 
+SOC. 130, 1050 (1983). 
+14. P. LEEMPOEL, F.-R. F. FAN et A. J. BARD. J. Phys. Chem. 87, 
+2948 (1983). 
+15. P. C. RIEKE, C. L. L I N K O U S ~~ 
+
+N. R. AMSTRONG. J. Am. Chem. 
+
+Soc. 88, 1351 (1984). 
+16. P. C. RIEKE et N. R. ARMSTRONG. J. Am. Chem. Soc. 106, 47 
+(1984). 
+17. T. J. KLOFTA, P. C. RIEKE, C. A. LINKOUS, W. J. BUTTNER, 
+A. NANTHAKUMA, T. D. MEWBORN et N. R. ARMSTRONG. 
+J. Electrochem. Soc. 132, 2134 (1985). 
+18. B. MARSAN, G. B ~L A N G E R 
+et D.-L. PIRON. Can. J. Chem. 63, 
+1580 (1985). 
+19. W. J. BUTTNER, P. C. RIEKE et N. R. ARMSTRONG. J. Am. Chem. 
+Soc. 107, 3738 (1985). 
+20. D. BPLANGER, J. P. DODELET, L. H. DAO et B. A. LOMBOS. 
+J. Phys. Chem. 88, 4288 (1984). 
+21. F.-R. F. FAN et L. R. FAULKNER. J. Am. Chem. Soc. 101,4779 
+(1979). 
+22. H. T. TIEN et J. HIGGINS. Chem. Phys. Lett. 93, 276 (1982). 
+23. R. 0. LOUTFY et L. F. MCINTYRE. Sol. Energy Mater. 6, 467 
+(1982). 
+24. R. 0. LOUTFY et L. F. MCINTYRE. Can. J. Chem. 61, 72 (1983). 
+25. J. R. HARBOUR, B. DIETELBACH et J. DUFF. J. Phys Chem. 87, 
+5456 (1983). 
+26. J. SIMON et J. J. ANDRP. Molecular semiconductors, Springer 
+Verlag, Berlin. 1985. 
+27. R. 0 . LOUTFY, C. K. HSAIO et R. Ho. Can. J. Phys. 61, 1416 
+(1983). 
+28. A. M. H o ~e t 
+R. 0 . LOUTFY. Thin SolidFilms, 106, 291 (1983). 
+29. H. MEIER. Organic semiconductors. Verlag Chemie, Weinheim. 
+1974. 
+30. G. H. HEILMEIER et S. E. HARRISON. Phys Rev. 132, 2010 
+(1963). 
+31. S. C. DAHLBERG et M. E. MUSSER. J. Chem. Phys. 72, 6706 
+(1980). 
+32. S. BAKER, M. C. PETTY, G. G. ROBERTS et M. V. TWIGG. Thin 
+Solid Films, 99, 53 (1983). 
+33. G. J. K o w ~c s , 
+P. S. VINCETT et J. H. SHARP. Can. J. Phys. 63, 
+346 (1985). 
+34. N. MINAMI, K. SASAKJ et K. TSUDA. J. Appl. Phys. 54, 6764 
+(1983). 
+35. J. P. LINSKY, J. R. PAUL, R. S. NOHR et M. E. KENNEY. Inorg. 
+Chem. 19, 3131 (1980). 
+36. A. T. DAVIDSON. J. Chem. Phys. 77, 168 (1982). 
+37. M. S. MINDORFF et D. E. BRODIE. Can. J. PhyS. 59, 249 (1981). 
+38. L. H. DAO et G. PERRIER. Chem. Lett. 8, 1259 (1986). 
+39. J. P. DODELET, H.-P. POMMIER et M. RINGUET. J. Appl. Phys. 
+53, 4270 (1982). 
+40. E. H. RHODERICK. Metal-semiconductor contacts. Calendon 
+Press, Oxford. 1980. 
+41. D. R. KEARNS, G. TOLLIN et M. CALVIN. J. Chem. Phys. 32, 
+1020 (1960). 
+42. S. C. DAHLBERG et M. E. MUSSER. Surf. Sci. 90, 1 (1979). 
+43. S. YAMADA, T. SATO, K. KANO et T. AGAWA. Photochem. 
+Photobiol. 37, 257 (1983). 
+44. K. L. HARDEE et A. J. BARD. J. Electrochem. Soc. 122, 739 
+(1975). 
+45. M. MARTIN, J. J. A N D R ~ 
+et J. SIMON. J. Appl. Phys. 54. 2792 
+(1983). 
+46. M. F. LAWRENCE, J. P. DODELET et L. H. DAO. J. Electrochem. 
+SOC. 131, 2977 (1984). 
+47. H. GERISCHER. Top. Appl. Phys. 31, 115 (1979). 
+48. G. PERRIER et L. H. DAO. J. Electrochem. Soc. Soumis pour 
+publication. 
+49. G. PERRIER, L. H. DAO et K. COLE. J . Phys. Chem. Soumis pour 
+publication. 
+
+Can. J. Chem. Downloaded from www.nrcresearchpress.com by 87.160.185.190 on 03/27/14 
+
+For personal use only. 
+
+
+
+	
+

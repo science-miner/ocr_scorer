@@ -1,0 +1,1264 @@
+
+	
+
+		
+
+	
+
+	
+
+a-Aminophosphonates. 111.' Cycloaddition anionique-1,3 des esters a,p-insatures : 
+Preparation et transformations des A'-pyrrolines2 
+
+A N D R ~ 
+D E H N E L ~ ET JOLANTA M. KANABUS-KAMINSKA 
+
+Cotlseil tzatiotzal de recherches rill Catzndn, Dipartetnetzt de chitnie, 100 Susses Drive, Ottawa, Ont., Canada KIA OR6 
+
+GILBERT LAVIELLE 
+
+lnstitut de recherches Servier, 11, rue des Mo~rlitiaux, 92150 Surest~es, France 
+
+R e ~u le 14 juin 1987 
+
+A N D R ~ 
+
+DEHNEL, JOLANTA M. KANABUS-KAMINSKA et GILBERT LAVIELLE. Can. J . Chern. 66, 310 (1988). 
+
+Les anions des aza-2 allylphosphonates 1 se cornbinent avec les esters a,p-insaturCs 2 en donnant les intermtdiaires chargts 
+
+4'. Ces intermkdiaires conduisent ii la suite de protonation aux diCthoxyphosphonyl-2 Cthoxycarbonyl-4 pyrrolidines 4, ou bien ii 
+
+la suite de I'tlirnination de I'anion du diCthylphosphonate aux Cthoxycarbonyl-4 Al-pyrrolines 5. Les proportions de ces deux 
+produits dCpendent des conditions de la rCaction et de I'encornbrernent de substrats. La formation de produits cycliques a Ct C 
+CtudiCe pour de nornbreux substrats et en prtsence de diverses bases. La rCaction est rCgiosClective et stCrtospCcifique et 
+l'obtention d'un diastCrCoisom6re cinCtique plus encornbrt permet de dCterrniner que c'est une cycloaddition concertke. Les 
+diastCrCoisornkres thermodynarniques moins encornbrts 6 et 7 sont obtenus ii partir de 4 et 5 respectivement par I'action d'une 
+base dans un milieu protique. Les autres Cpimkres de 4, cornposCs 8 et 9, ont Ctt obtenus par l'addition de ditthylphosphite sur 
+les pyrrolines 5 et 7. Les pyrrolines 5 ont CtC rtduites pour donner les Cthoxycarbonyl-3 pyrrolidines 12. L'isornCrisation de 
+pyrrolines 5 possCdant un substituant phCnyle dans la position 5 rnene vers les Cthoxycarbonyl-3 phCnyl-2 A'-pyrrolines 10. 
+Ces dernieres s'oxydent spontankment avec l'oxygkne de I'airjusqu'au Cthoxycarbonyl-3 hydroxy-3 phCnyl-2 A'-pyrrolines 11. 
+
+A N D R ~ 
+
+DEHNEL, JOLANTA M. KANABUS-KAMINSKA, and GILBERT LAVIELLE. Can. J. Chern. 66, 310 (1988). 
+
+The anions of the 2-azaallylphosphonates 1 react with the a,P-unsaturated esters 2 to yield the intermediates 4'. These 
+intermediates form the 2-diethoxyphosphonyl-4-ethoxycarbonylpyrrolidines 4 following a protonation while an elimination of 
+the anion of the diethylphosphonate leads to the 4-ethoxycarbonyl-A'-pyrrolines 5 . The proportions of these two products vary 
+with the experimental conditions and the bulkiness of the substrates. The formation of the cyclic products has been studied for 
+numerous substrates and in the presence of a number of bases. ' The reaction is regioselective and stereospecific and on the 
+basis of the formation of the kinetically more strained diastereoisorner it is possible to conclude that the cycloaddition is a 
+concerted one. The thermodynarnically less strained diastereoisorners 6 and 7 are obtained from the compounds 4 and 5 
+respectively when they are subjected to the action of a base in a protic media. The other epirners of 4, the compounds 8 and.9, 
+have been obtained by the addition of diethylphosphite to the pyrrolines 5 and 7. The pyrrolines 5 have been reduced to the 
+3-ethoxycarbonylpyrrolidines 12. The isornerization of the pyrrolines 5 with a phenyl substituent in position 5 leads to the 
+formation of the 3-ethoxycarbonyl-2-phenyl-A'-pyrrolines 10. The latter spontaneously oxidize with atmospheric oxygen to 
+yield the 3-ethoxycarbonyl-3-hydroxy-2-phenyl-A'-pyrrolines 11. 
+[Journal translation] 
+
+Introduction 
+operatoires sur le dkroulement de la rCaction et, par ce moyen , le 
+L~~ aza-2 allylphosphonates 1 se sent 
+de pr~cieux mecanisme rtactionnel. D'autre part nous Ctudierons certaines 
+
+intermediaires de synthkse. Gdce 2 la prCsence de deux groupes 
+
+des A1-~~rrO1ines. 
+activants leurs anions se foment aisCment sous l'action de 
+diverses bases. Ces carbanions ont trouve une premikre applica-
+Resultats 
+tion dans une sequence, comprenant leur acylation, menant vers 
+la synthkse de ~Cphalosporines (1). Par la suite nous avons 
+CtudiC leur alkylation (2, 3), leurs reactions de type Wittig-
+Homer avec les dCrivCs carbonyles (3, 4) et enfin les reactions 
+avec les esters a,p-insaturks menant vers des composCs 
+cycliques (3, 5). Le prCsent travail est consacre a l'ttude 
+dttaillte de cette demiere rCaction. Elle donne, d'une manikre 
+rCgiosClective et stCrCosptcifique, acces aux ditthoxyphos-
+phonyl-2 Cthoxycarbonyl-4 pyrrolidines 4 ainsi qu'aux Cthoxy-
+carbonyl-4 A'-pyrrolines 5 (cf. schema 1) (3, 5). Les A1-
+pyrrolines, intermediaires de synthkse tres intkressants, sont 
+difficilement accessibles par une autre voie (Sa, 6). 
+Dans ce travail, nous analyserons l'influence des conditions 
+
+1. Partie I, cf. ref. 4; partie 11, cf. ref. 2. 
+2. Publication du CNRC no 27762. 
+
+3. Auteur 2 qui adresser toute correspondance. Adresse perrnanente : 
+
+Institut universitaire de technologie d'OrlCans, B.P. 6729, 45067 
+OrlCans CEDEX 2, France. 
+
+A . Cycloadditions 
+
+La rCaction entre les carbanions formes 2 partir des imines 1 
+et les esters a,p-insatures 2 (schema 1) a Ct C CtudiCe sur de 
+nombreux exemples (tableau 1). Comme il est indiquC dans 
+le schCma 1 elle peut mener vers trois produits : le compod 
+linCaire 3 provenant de l'addition de Michael, la pyrrolidine 
+4 et la pyrroline 5, obtenues 2 partir de l'intermediaire 4 ' , 
+
+respectivement par sa protonation et par 1'Climination de l'anion 
+du diethylphosphonate. L'obtention du composC 3 Ctant acces-
+soire, nous nous concentrerons sur les conditions de synthese 
+des deux produits principaux. 
+A l'issue de la cycloaddition nous obtenons la pyrrolidine 
+et tant que diastertoisomere unique 4 possedant les groupes 
+Cthoxycarbonyle et phosphonyle orient&amp; mutuellement cis et 
+Cgalement cis par rapport au substituant R2 (s'il est plus 
+encombrant que R3). De m6me nous obtenons une seule 
+A'-pyrroline 5. Or, si on tient compte de l'asymetrie unique-
+ment dans les positions 2, 4 et 5, les pyrrolidines resultant 
+
+Printcd in Canada i lmprimi au Canada 
+
+Can. J. Chem. Downloaded from www.nrcresearchpress.com by 87.160.185.190 on 03/27/14 
+
+For personal use only. 
+
+
+DEHNEL ET AL. 
+
+TABLEAU I. Conditions et resultats de cycloaddition d'anions lithiens formes au BuLi et LDA 
+
+Risultants de cycloaddition 
+
+Anion obtenu au LDA 
+Anion obtenu au BuLi 
+
+Substituants 
+
+Temperature 
+Temperature 
+("c) 
+Rdt (%) 
+("c) 
+Rdt (%) 
+
+--
+
+Code 
+R' 
+R' 
+R3 
+R4 
+R5 
+R6 
+add. 
+hyd. 
+4 
+5 
+
+add. 
+hyd. 
+4 
+5 
+
+H 
+H 
+H 
+H 
+H 
+H 
+H 
+H 
+
+Me 
+
+H 
+Me 
+
+H 
+H 
+H 
+H 
+H 
+Ph 
+H 
+H 
+H 
+H 
+
+Me 
+Me 
+
+H 
+
+"Riaction rtalisie en prtsence de 20% de base. 
+iRtaction commentie dans le texte. 
+SProduit obtenu par une autre voie. 
+Les rendements inferieurs ? i 
+20% sont des estimations d'apres les spectres de rmn. Les autres sont les rendements en produits purifits. 
+
+Les substituants sont indiquts par le code du tableau 1. 
+S C H ~M A 
+1 
+
+de la cycloaddition peuvent exister sous forme de quatre 
+
+Les dCrivCs 6 et 7 sont obtenus respectivement a partir 
+
+diastCrCoisomkres, et les pyrrolines sous forme de deux dia-
+
+des composCs 4 et 5, si R~ est un atome d'hydrogkne, par 
+
+stCrCoisomkres, visualisCs dans le schima 2. Par la suite nous 
+I'CpimCrisation dans des conditions basiques (Cthylate de sodium 
+
+appelerons les composCs 4 et 5 produits cis, et 6 et 7, trans, 
+
+dans I'Cthanol) menant vers 1'Cquilibre thermodynamique. 
+Les substituants seront indiquts par le code du tableau 1. 
+Remarquons donc que la cycloaddition donne des produits 
+Can. J. Chem. Downloaded from www.nrcresearchpress.com by 87.160.185.190 on 03/27/14 
+
+For personal use only. 
+
+
+CAN. J. CHEM. VOL. 66, 1988 
+
+TABLEAU 2. RCsultats de cycloaddition en presence de I'hydrure de sodium et donnCes analytiques de pyrrolidines 4 
+
+Cycloaddition en prCsence 
+de NaH 
+Analyse calculC/trouvC 
+Temps 
+Temp 
+Rdt (%) 
+DCrivC, 
+Formule, 
+Code 
+(min) 
+("C) 
+4 
+
+F ("C) 
+M.M. 
+C 
+H 
+N 
+P 
+
+Picrate 
+123 
+Base 
+70 
+Picrate 
+140 
+Base 
+53 
+Picrate 
+168 
+Base 
+121 
+Picrate 
+140 
+Base 
+84 
+Base 
+105 
+Base 
+115 
+Picrate 
+98 
+Base 
+87 
+HCI 
+219 
+Base 
+102 
+
+*Obtenu sur une autre voie. Les autres : rendements de produits purifiCs. 
+
+cinttiques plus encombrks que les produits thermodynamiques 
+obtenus par l'tquilibration. C'est une information importante 
+pour determiner le mecanisme de la cycloaddition. 
+La structure de pyrrolidines obtenues dans ces reactions a Ct C 
+ttablie i l'aide de la spectroscopie de la rmn (56). 
+1. Conditions de prkparation de produits cycliques 
+La cycloaddition a ete realisee selon deux procedes differents 
+pr6sentCs ci-dessous. 
+(a) La reaction entre les composCs du type 1 et les composCs 
+du type 2 en presence de quantitCs catalytiques de l'hydrure 
+de sodium temperature ambiante et arrCtCe par l'addition de 
+l'eau donne les pyrrolidines 4 avec d'excellents rendements 
+(cf. tableau 2). Elle reste cependant limitee aux substrats 
+posskdant en tant que R2 un substituant aromatique. Dans ces 
+conditions on n'observe pas la formation de pyrrolines 5. 
+(6) Les carbanions des imines 1 sont formes par l'action du 
+butyllithium ou du diisopropylamidure de lithium, habituelle-
+
+ment i -70°C. L'ester a,p-insature est ajoute i la mCme 
+
+temperature. La reaction est arr&amp;tCe par l'addition de l'eau a 
+la temperature indiquke. La composition du melange resultant 
+depend de la nature des substrats et de cette temperature. Les 
+'conditions et les rendements de produits 4 et 5 dans ces reactions 
+sont prksentes dans le tableau 1. 
+De l'examen de ces rtsultats on peut tirer les conclusions 
+suivantes : 
+(i) Le taux d'elimination du diethylphosphite, menant vers la 
+formation du produit 5, est generalement plus Clevt dans les 
+
+COOEt 
+R' 
+
+COOEt 
+R' 
+
+, R' 
+
+R' 
+COOEt 
+
+" R , J 5 
+
+R' 
+
+R' 
+'COOEt 
+
+. , 
+
+R' 
+
+Dans les cas ou R' = R3 et R4 = R ~, I'isomCrie cis-trans n'existant 
+pas, les produits sont arbitrairement joints ii la classe cis. 
+Can. J. Chem. Downloaded from www.nrcresearchpress.com by 87.160.185.190 on 03/27/14 
+
+For personal use only. 
+
+
+DEHNEL . ET AL. 
+
+313 
+
+reactions ou le carbanion est obtenu avec du butyllithium en 
+comparaison au LDA ( h , I, m). 
+(ii) Pour la m&amp;me base, la proportion de produit d'ilimination 
+5 croit avec la temperature d'hydrolyse (c, i). 
+(iii) D'une manikre genirale, les esters Cthyltniques 2, trks 
+
+encombres en position P (par exemple, cyclohexCnylacCtate 
+
+d'ithyle, cf. m et t), ne reagissent pas 2 la temperature de 
+
+-70°C. La rCaction a lieu dans ce cas entre -70°C et 0°C et la 
+proportion de la pyrroline 5, par rapport a la pyrrolidine 4, 
+est ClevCe. 
+(iv) L'encombrement de l'imine 1 semble &amp;tre le facteur 
+limitatif de la cycloaddition. Ainsi le produit 5q est obtenu avec 
+le rendement de 77% accompagni de 18% du produit lineaire 
+39, tandis que l'imine 1 avec R2 = tert-butyle et R3 = mCthyle 
+dans les m&amp;mes conditions uniquement l'adduit de Michael 3. 
+Dans certains cas nous avons rCalist des cycloadditions dans 
+des conditions diffkrentes : 
+(i) Les produits 4 a et 4c sont obtenus, avec des bons 
+rendements, en prtsence de dCfaut de base (environ 20% mol de 
+
+BuLi ou LDA) par rapport 2 l'imine 1. Les reactions, avec 
+
+les m&amp;mes substrats realisCes dans des conditions standard, 
+donnent dans le cas a le melange contenant des produits de 
+polycondensation de l'acrylate d'Cthyle, dans le cas c un 
+melange de produits dont nous parlerons dans le paragraphe 
+
+suivant . 
+
+(ii) Si nous essayons de synthetiser le produit 41 en menant 
+la rCaction entikrement a -90°C, l'anion Ctant forme au 
+butyllithium, nous obtenons essentiellement le produit lineaire 
+31. Les produits cycliques sont cependant obtenus dans la 
+riaction rCaliste 5 temperature plus ClevCe. 
+(iii) Dans certains cas (c et e) de reactions rCalisCes a 
+temperature comprise entre -70°C et -100°C (le carbanion 
+
+Ctant prCparC au butyllithium) nous obtenons B part les produits 
+
+habituels 4 et 5 tgalement leurs diasttrCoisomkres 6 et 7 ainsi 
+que les produits 1inCaires 3. 
+Le tableau 3 donne les resultats de synthese de produits c dans 
+des conditions variables. 
+Pour pouvoir expliquer ces anomalies nous avons rtalise 
+quelques experiences qui ne sont pas des cycloadditions a 
+proprement parler : (i) Le produit 4c, obtenu prkalablement, en 
+
+presence d'un Cquivalent de butyllithium B -100°C se trans-
+
+forme en produit linCaire 3 c avec le rendement de 30%. On 
+n'observe pas cette ouverture du cycle en prCsence de LDA. (ii) 
+L'adduit de Michael 3 e , obtenu sur une autre voie, soumis 
+
+a l'action d'un Cquivalent de LDA B -70°C donne le produit 
+
+trans 7e avec le rendement de 70%. 
+
+2. Me'canisme deformation de produits cycliques 
+Deux mCcanismes peuvent expliquer la formation de produits 
+cycliques : cycloaddition concertCe ou bien la formation d'un 
+intermediaire lintaire 3 et sa cyclisation. La formation, dans la 
+majeure partie des cas pour les trois bases utilisCes, d'un produit 
+unique cinttique semble indiquer un mecanisme concerte. Pour 
+Ctayer cette hypothkse, en ce qui concerne les rCactions en 
+presence de l'hydrure de sodium, hous avons verifit que les 
+produits 1inCaires 3, obtenus sur une autre voie, ne se cyclisent 
+pas sous l'action de cette base. 
+La formation, dans certains cas particuliers, du mtlange de 
+produits comprenant les composts trans doit s'expliquer par 
+la cyclisation d'un intermkdiaire 1inCaire. L'exemple present6 
+dans le tableau 3 nous montre 17influence de la temptrature sur 
+la coniposition du mtlange riactionnel. La pyrroline trans 7 c 
+
+obtenue B tempCrature Clevte ne peut pas provenir directement 
+
+TABLEAU 3. Rendement~ de pyrrolidines et pyrrolines 
+ayant les substituants c obtenues dans des conditions 
+variables 
+
+Rendement (%) 
+Temperature 
+
+("c) 
+
+cis 
+trans 
+LinCaire 
+add. 
+hyd. 
+4 
+5 
+
+6 
+7 
+3 
+
+"Les rendements estimts par la rmn. Les autres : rende-
+ments de produits purifies. 
+
+de cyclisation car 2 basse tempCrature nous observons unique-
+
+ment les produits cis. Elle ne peut non plus &amp;tre le rtsultat d'une 
+CpimCrisation, le substituant R6 Ctant un mCthyle. La seule 
+explication de sa formation est donc l'ouverture de l'inter-
+mkdiaire 4c' et sa cyclisation en produit trans. 
+
+Pour certains substrats, B une temperature de l'ordre de 
+
+-100°C, la formation de l'adduit de Michael est CnergCtique-
+
+~ 
+
+-
+
+ment plus favorable que la cycloaddition. Dans ces cas les 
+produits trans peuvent provenir de la cyclisation secondaire 
+de ces intermidiaires. 
+I1 nous faut donc conclure que les produits cycliques sont 
+obtenus par deux voies diffkrentes dont la premikre est unique 
+dans le cas de l'hydrure de sodium et gtnkralement pridominante : 
+(1) ~~c l o a d d i t i o n 
+concertte conduisant d'une f a ~o n stereo-
+spCcifique (7), avec un bon rendement, au produit unique 
+cinCtique, peu stable. 
+(2) Cyclisation d'un produit linCaire menant vers un melange 
+de produits. Le rendement est gkneralement faible car c'est une 
+cyclisation du type 5-endo-trig qui est geometriquement 
+dCfavorisCe (8). ~, 
+Quel que soit le mCcanisme de la fermeture du cycle le produit 
+form6 posskde toujours le groupe phosphonyle en position cis 
+
+par rapport 2 R2 plus volumineux que R3. Ce fait explique par la 
+stabilite de la conformation trans-trans du carbanion 1' (7) : 
+
+3. Les transformations des amidures 4 ' 
+Dans les cas ou le substituant R2 est un phtnyle la cycloaddi-
+tion peut avoir lieu en presence de quantitCs catalytiques de 
+base. Ceci signifie que l'amidure cyclique 4', form6 en petite 
+quantitC, est suffisamment basique pour dCprotoner les mole-
+cules suivantes du substrat 1 et ainsi perpttuer la reaction (9). 
+Nous observons dans ce cas une rkaction univoque car 
+l'amidure 4 ' proton&amp; par le substrat 1 ne peut plus Cvoluer dans 
+le sens de l'elimination de I'anion phosphonate ou de l'ouver-
+ture du cycle. 
+
+D'une f a ~o n analogue, une plus faible tendance 2 1'Climina-
+
+tion du diCthylphosphite et l'absence de produits trans dans le 
+cas de reactions rCalisCes en prtsence de LDA indiquent que 
+I'intermCdiaire 4' est proton6 par la diisopropylamine. 
+
+La p Climination des anions phosphoniques, que nous 
+
+observons, est beaucoup mieux connue pour les esters des 
+acides a-hydroxyalkylphosphoniques (10) que pour les com-
+poses azotCs (1 1). 
+Can. J. Chem. Downloaded from www.nrcresearchpress.com by 87.160.185.190 on 03/27/14 
+
+For personal use only. 
+
+
+CAN. J. CHEM. VOL. 66. 1988 
+
+NaH 
+
+O2 
+
+st R3-H 
+
+sl R ~= H 
+
+R' 
+
+TABLEAU 4. RCsultats d'addition de diCthyl-
+
+phosphite sur les pyrrolines 5 et 7 
+
+Addition sur 5, Addition sur 7, 
+
+rendement (%) rendement (%) 
+
+Code 
+4 
+6 
+8 
+9 
+
+c 
+
+-
+
+100 
+33 
+66 
+h 
+30 
+70 
+100 -
+
+J * 
+
+30 
+70 
+1 
+-
+100 
+50 
+50 
+
+rn 
+
+50 
+50 
+100 -
+P 
+50 
+50 
+
+*Le rendement global 80%. Les rendements 
+dans les cas de melanges sont CvaluCs d'apr2s 
+la rmn. 
+
+B . Transformations de A'-pyrrolines 5 et 7 
+Les pyrrolines 5 et 7 peuvent subir certaines transformations 
+qui soit presentent un intCr&amp;t thCorique (Cclaircissement de 
+la structure de produits synthCtisCs), soit peuvent avoir une 
+application pratique dans la synthkse. Les trois transformations 
+que nous avons CtudiCes sont visualisCes dans le schCma 3. 
+1 . Addition du die'thylphosphite 
+Parmi quatres diastCrCoisomkres possibles de pyrrolidines 
+Ctudites deux seulement sont obtenus par la cycloaddition (ou 
+cycloaddition suivie d'tpimkrisation). Afin de pouvoir dttermi-
+ner indubitablement la structure des pyrrolidines, nous avons 
+synthCtisC les diastCrCoisomkres manquants en faisant rCagir les 
+pyrrolines 5 et 7 avec le diCthylphosphite. A l'issue de cette 
+rCaction nous avons obtenus les mClanges de pyrrolidines 4 et 8 
+(en partant de 5) ou 6 et 9 (en partant de 7) dont la composition 
+est indiquCe dans le tableau 4. 
+
+Le groupe phosphonyle a tendance a s'additionner sur la face 
+
+opposCe au carboxyle. Ainsi nous obtenons les pyrrolidines 6 c , 
+61, 8h et 8m en tant que produits uniques. Cette tendance 
+
+peut &amp;tre contrebalancie par la presence des autres substituants 
+encombrants et nous constatons alors la formation de melanges 
+(cf. tableau 4). 
+2. Pre'paration de pyrrolines isome'rise'es 10 et leur oxydation 
+Sous l'action de l'exces de l'hydmre de sodium les pyrrolines 
+5 et 7, si elles posskdent un atome d'hydrogene en tant que 
+substituant R3, sont transformCes en pyrrolines 10. Pratique-
+ment nous rkalisons plut6t une sCquence ininterrompue de 
+reactions qui en partant de 1 et 2 , en prCsence de l ' h y d ~r e de 
+sodium, abouti a la formation de 10. Le produit de cycloaddition 
+4 forme initialement sltpimCrise jusqu'au 6 , celui-ci subit 
+1'Climination du diethylphosphonate de sodium pour donner la 
+pyrroline 7, qui a la suite de la migration de la double liaison 
+donne la pyrroline 10. 
+Dans des cas ou le substituant R' est un phCnyle, cette 
+sequence s'arrste au stade de l'tlimination, la migration de la 
+double liaison n'ayant pas lieu. Ainsi nous obtenons dans des 
+conditions identiques le produit 7g avec le rendement de 60% 
+et, dans une autre exptrience, le mClange de 25% de produit 5k 
+avec 42% de 7k. 
+Ces rCsultats signifient que la migration de la double liaison a 
+lieu s'il en rCsulte un systeme plus stable ou la double liaison 
+C=N est conjuguCe avec le noyau aromatique. Dans le cas oh 
+un tel systkme existe a l'origine, I'isomCrisation ne se fait pas. 
+Les produits 10 obtenus ainsi sont des huiles. ExposCs a l'air 
+ils s'oxydent spontantment, si le substituant R6 est un atome 
+d'hydrogkne, pour donner les dCrivCs hydroxyles cristallins 11. 
+Nous avons obtenu de cette maniere les produits l l a , l l b , 
+l l d et l l m . 
+L'oxydation spontanCe de composCs semblables est connue 
+(12). 
+3 . Riductions menant vers les pyrrolidines 12 
+La rkduction de pyrrolines 5 et 10 au borohydrure de sodium 
+donne, avec un excellent rendement, les pyrrolidines 12. Ont 
+Ct C obtenus : les produits 12p-u par la rCduction de pyrrolines 
+5 correspondantes, ainsi que 12a par la rCduction du composC 
+10a. Dans tous ces cas on obtient le produit ayant le substituant 
+Can. J. Chem. Downloaded from www.nrcresearchpress.com by 87.160.185.190 on 03/27/14 
+
+For personal use only. 
+
+
+DEHNEL ET AL 
+
+TABLEAU 5. Diplacements chimiques 6 'H pour les pyrrolidines 4, 6, 8 et 9 
+
+6 IH/TMS (ppm) 
+COOEt 
+P(O)(OEt)z 
+
+Produit 
+R' 
+R' 
+R3 
+R4 
+R5 
+R6 
+OCHz CH3 OCHz CH3 
+
+R~ en position cis par rapport au carboxyle. Dans le cas de la 
+reduction de produits du type 5, la sttrtochimie est sauvegardte 
+et la rtduction de composCs du type 10a conduit a des produits 
+
+avec la m&amp;me sttrtochimie, l'approche du borohydrure se 
+faisant du cote moins encombre, c'est-&amp;dire oppose au groupe 
+
+carboxy le . 
+
+Conclusion 
+
+La nouvelle mithode d e synthkse, presentte dans ce travail, 
+permet d'obtenir un grand nombre de produits difficilement 
+accessibles entre autres d'inttressants composes spiranniques 
+ou polycycliques. 
+Le choix judicieux de conditions permet d'orienter la riaction 
+vers des pyrrolidines ou des pyrrolines. 
+Les transformations de produits initialement obtenus offrent 
+d'inttressants dtbouchts ~y n t h t t i ~u e s . ~ 
+L'analyse dttaillte d e produits obtenus a permis de proposer 
+un mecanisme rtactionnel pour la cycloaddition. 
+
+Partie experimentale 
+
+Les points de fusion ont Ct C dCterminCs sur le banc de Kofler. Les 
+analyses ClCmentaires ont Ct C effectukes au Laboratoire central de 
+microanalyse du Centre national de la recherches B Thiais ou par le 
+Laboratoire de sciences biologiques du Conseil national de recherches 
+du Canada B Ottawa. Les spectres rmn du proton ont Ct C enregistrCs 
+sur le spectromttre Hitachi Perkin-Elmer R-24B, 60 MHz, et sur le 
+spectromktre Bruker WP-80 FT, 80 MHz. Ce dernier appareil a servi 
+
+Cgalement pour enregistrer les spectres du I3c B 20.15 MHz. Les 
+
+chromatographies sur couche mince (ccm) ont Ctt rCalisCes sur gel de 
+silice G type Merck 60 F-254 en plaques pretes 9 l'emploi. L'Cluant 
+utilisC est un mClange chlorure de mtthylene -mtthanol 90 : 10 et le 
+rCvClateur utilisC est le rtactif de Dragendorff. Les chromatographies 
+sur colonne ont Ct C effectuCes sur gel de silice 60 0,2-0,s mm, Merck; 
+l'tluant est habituellement le chlorure de mCthyltne pur ou mClangC 
+avec 1-5% de methanol. 
+Les a-aminoalkylphosphonates de die'thyle ont Ct C prCparCs par 
+des mtthodes connues : aminomtthylphosphonate de diCthyle (I), 
+a-arninotthylphosphonate de ditthyle (13) et phCnylaminomtthy1-
+phosphonate de diCthyle (14). 
+Les imines 1 ont Ct C prkpartes par la rtaction entre les a-aminoalkyl-
+phosphonates et dCrivCs carbonylCs appropriCs. Le compost 1 R1 = H, 
+R2 = R3 = Me est prCparC par la reaction entre 1 mol de aminomCthy1-
+phosphonate de ditthyle et 10 mol d'acCtone B temptrature ambiante 
+pendant 48 h en presence de 30 g de tamis molCculaires du type 5A. 
+
+4. Les auteurs prksenteront bient6t un travail concernant l'obtention 
+des nitrones par l'oxydation des pyrrolidines 12. 
+
+Les tamis sont filtrks, la solution CvaporCe et l'imine 1, obtenue sous 
+forme d'huile, est utilisCe brute dans 1'Ctape suivante. Dans tous les 
+autres cas une mole de a-aminoalkylphosphonate est mise en presence 
+d'une mole de dCriv.6 carbonylt dans 500 mL de benzene. Dans le cas 
+de llacttophCnone on ajoute 0,s g de l'acide p-toluenesulfonique. La 
+solution est chauffCe B 1'Cbullition et l'eau formCe sCparte dans le 
+separateur de phases (Dean-Stark). Le temps de reaction varie de 0,s 
+jusqu'k 4 h. Le solvant est Cvaport (si l'acide p-toluknesulfonique est 
+employ6 la solution est lavCe prkalablement avec la solution saturCe 
+du bicarbonate de sodium, de l'eau et stchte). Les imines 1 obtenues, 
+sous forrne d'huile, avec un rendement de 92-98% sont utilisCe brutes. 
+
+Cycloadditions en pre'sence de I'hydrure de sodium 
+Une solution de 20 mmol de l'aza-2 allylphosphonate 1 et de 
+20 mmol de l'ester CthylCnique 2 dans 30 mL de THF est ajoutCe, sous 
+agitation (cf. tableau 1 pour la temperature), en une seule fois, B une 
+suspension de 0,2 g (4 mmol) d'hydrure de sodium dans 50 mL de 
+THF. Une augmentation de temperature de l'ordre de 10°C est 
+observee. Quand la tempCrature commence a diminuer, le mClange est 
+refroidi B la glace et trait6 avec 50 mL d'une solution aqueuse de 
+chlorure d'akmonium B 10%. La couche organique est sCparCe et la 
+couche aqueuse extraite avec de 1'Cther. Les extraits rCunis sont sCchCs 
+sur sulfate de sodium et CvaporCs sous pression rCduite. La pyrrolidine 
+4 est purifite par recristallisation dans I'Cther isopropylique ou 
+transformCe en picrate. 
+Les conditions de rCaction, les rendements de pyrrolidines 4 et les 
+donntes analytiques sont indiquCs dans le tableau 2. Les donnCes rmn 
+des produits qui n'ont pas Ct C publiCes auparavant (56) sont rapporttes 
+dans le tableau 5. 
+
+Cycloaddition des sels lithiens des carbanions de 1 
+Une solution de 20 mmol de l'aza-2 allylphosphonate 1 dans 30 mL 
+de THF est ajoutCe, goutte a goutte, B une solution dans le THF de 
+20 mmol (ou 4 mmol dans certains cas indiquCs dans le tableau 1) de 
+butyllithium, ou bien de LDA prCparCe prealablement. Cette addition 
+est effectuCe en atmosphtre inerte, sous agitation, a la temperature 
+indiqute dans le tableau 1. La solution devient rouge carmin. Ensuite, B 
+la m&amp;me temptrature, est additionnte une solution de 20 mmol d'ester 
+2 dans 20 mL de THF. La reaction est suivie en rmn et terminCe par 
+l'addition de l'eau B la temptrature indiquCe dans le tableau 1. La 
+couche organique est stparCe et la couche aqueuse extraite avec de 
+1'Cther. Les extraits rtunis sont sCchts sur sulfate de sodium et CvaporCs 
+sous pression rCduite. Dans le cas oh un des produits est nettement 
+majoritaire il est stpark par la cristallisation dans I'tther isopropylique 
+ou par la formation du picrate. Dans le cas contraire les produits 
+sont stparCs par la chromatographie sur silice. Les rendements sont 
+indiquCs dans le tableau 1, les donnCs analytiques de pyrrolidines 4 
+dans le tableau 2, leurs donntes rmn dans le tableau 5, les donnCes 
+analytiques et rmn de pyrrolines 5 dans le tableau 6. 
+
+Can. J. Chem. Downloaded from www.nrcresearchpress.com by 87.160.185.190 on 03/27/14 
+
+For personal use only. 
+
+
+316 
+
+CAN. J. CHEM. VOL. 66, 1988 
+
+TABLEAU 6 . Donntes rrnn et analytiques des pyrrolines 5 et 7 
+
+6 'H/TMS (ppm) 
+J (Hz) 
+Analyse calculC/trouvt 
+Picrate 
+Formule 
+Produit 
+R' 
+R' 
+R3 
+R' 
+R5 
+R6 
+
+JRjR3 
+JRlR6 
+
+F (OC) 
+M.M. 
+
+c 
+
+H 
+
+N 
+
+TABLEAU 6 a . Les valeurs de 6 pour les 
+groupes tthoxycarbonyle 
+
+R' = Ph 
+
+R2 + Ph 
+
+5 
+7 
+5 et 7 
+
+6 CH3 
+0,75 
+1,20 
+1,23 
+6 0 C H 2 
+3,40 
+4,10 
+4,13 
+
+*Spectre enregistrk dans CDCl,. Tous les 
+autres spectres enregistrks dans CC14. 
+
+~~ime'risation de de'rive's cis 4 et 5 
+
+La pyrrolidine 4 ou la pyrroline 5 est sournise a l'action d'une 
+
+quantitC Cquirnolaire de la solution 1 M d'Cthylate de sodium dans 
+
+1'Cthanol a temptrature arnbiante. La rCaction est suivie en ccm. Le 
+
+mtlange rCactionne1 est concentre sous vide jusqu'i un tiers du volume 
+initial et dilut avec I'Cther. La solution rtsultante est lavCe avec de 
+l'eau, sCchCe sur du sulfate de sodium et le solvant CvaporC sous 
+pression rtduite. Le rtsidu, pyrrolidine 6 ou pyrroline 7, est purifiC par 
+
+recristallisation de 1'Cther isopropylique ou par formation du picrate. 
+Les rendements sont de 80-90%. Le taux de transformation cis-trans 
+
+est habituellement de 75 a 100%. Les donnCes analytiques pour les 
+
+pyrrolidines 6 sont rapporttes dans le tableau 7, leur donnCes rmn 
+dans le tableau 5. Les donnCes analytiques et rrnn de pyrrolines 7 se 
+trouvent dans le tableau 6.5 
+
+Pre'paration de I'adduit de Michael 3 e 
+Une quantitC (0,9 mL) de solution Cthanolique de Triton B (2 rnrnol) 
+est dilute avec 30 mL de benzbne anhydre et on lui ajoute 20 mrnol de 
+l'imine 1 (R' = Me, R2 = Ph, R3 = H). Ensuite, une solution de 
+20 mmol d'acrylate dlCthyle dans 10 mL de benzbne est ajoutte goutte 
+
+a goutte, a la ternpCrature de 15°C. Apres 1 h le rntlange rtactionnel 
+
+est trait6 par 15 mL de la solution saturCe de chlorure d'arnmoniurn et 
+
+lave a l'eau. La phase organique est sCchCe et le solvent est CvaporC 
+
+sous pression rCduite. Le rendement est de 90%. Le produit 3 e obtenu 
+
+5. Les pyrrolines 7 se distinguent facilernent des pyrrolines 5 grhce 
+la difference de dtplacements chimiques de groupes Cthyles d'ester 
+respectivement cis et trans par rapport a R2 si celui-ci est un phCnyle 
+(56); cf. tableau 6 a . 
+
+Can. J. Chem. Downloaded from www.nrcresearchpress.com by 87.160.185.190 on 03/27/14 
+
+For personal use only. 
+
+
+DEHNEL ET AL. 
+
+TABLEAU 7. DonnCes analytiques de pyrrolidines 6 et 8 
+
+Analyse calculC/trouvC 
+DCrivC, 
+Formule 
+Produit 
+F ("C) 
+M.M. 
+C 
+H 
+N 
+P 
+
+6 a 
+Picrate Cz3H29N4012P 47,26 5,00 9,59 
+182 
+584,47 
+47,34 5,lO 9,91 
+6d 
+Picrate C24H31N4012P 48,16 5,18 9,36 
+178 
+598,50 
+48,29 5,39 9,78 
+6 e 
+Picrate CZ4H31N4012P 48,16 5,18 9,36 5,18 
+140 
+598,50 
+48,15 5,17 9,45 5,40 
+6 f 
+Picrate C29H33N4012P 52.73 5,04 8,48 4,69 
+20 1 
+660,57 
+52,94 4,97 8,45 3,89 
+6h 
+Base 
+C19H30N05P 
+59,51 7,88 3,65 8,07 
+101 
+383,42 
+59,76 7,72 3,67 7,98 
+6 m 
+Base 
+C22H34N05P 
+62,39 8,09 3.30 7,31 
+
+w -
+
+136 
+423,48 
+62,47 7,98 3,28 7,23 
+
+-a, 
+
+8c 
+Base 
+C18H28N05P 
+58,52 7.64 3,79 8,39 
+
+= 
+
+65 
+342,18 
+58,64 7,42 4,Ol 8,22 
+
+in 
+
+8 1 
+
+. -
+
+Picrate C25H33N4012P 49,02 5,43 9,15 5,06 
+
+3 
+
+13 
+
+135 
+612,53 
+49,12 5,37 9,02 4,88 
+8m 
+Base 
+C22H34N05P 
+62,39 8,09 3,30 7,31 
+
+E 
+
+Huile 
+423,48 
+62,64 8,23 3,07 7,18 
+
+-2 
+
+in 
+
+a, 
+3 
+
+G-
+
+.-
+
+u 
+
+h 
+
+contenant environ 5% de produit cyclique 6 e est utilisC brut. 6 H, ppm 
+
+-m 
+
+(CCl,/TMS) : 1,O-1,4 (9H, m, 3 Me), 1,43 (3H, d 3 J ~~ 
+= 16 HZ, 
+
+.-
+
+a rn 
+
+Me), 2,O-2,5 (4H, m, (CH2)2), 3,6-4,3 (6H, m, 3 OCH,), 7,O-7,3 et 
+
+a, 
+
+7.6-7,8 (2H et 3H, m, Ph), 8,20 (IH, d ' J H ~ = 5 HZ, HC=N). 
+
+z 
+
+V1 
+
+Cyclisation de l'adduit de Michael 3e 
+
+\a, a, 
+
+L'adduit de Michael 3e est additionnC a une solution d'une quantitC 
+
+c 
+
+Cquimolaire de LDA dans le THF a -70°C. La tempCrature est 
+
+0 
+
+13 
+
+remontte jusqu'i -10°C et l'eau est additionnke. La couche organique 
+
+-
+
+C) 
+
+est sCparCe et la couche aqueuse extraite trois fois a 1'Cther. Les extraits 
+
+0 
+
+w 
+
+rCunis sont sCchts et le solvant CvaporC sous pression rCduite. Le 
+
+. u in -
+
+melange obtenu, comprenant la pyrrolidine 6 e et les pyrrolines 5 e et 
+-u 3 
+7 e , est sCpare par chromatographie. Le rendement en pyrroline 7 e est 
+
+g 
+
+de 70%. 
+
+a, 
+
+13 
+
+c 
+
+Ouverture du cycle de la pyrrolidine 4c 
+
+.-u o 
+
+Une solution de 10 mmol de pyrrolidine 4 c dans 30 mL de THF est 
+ajoutCe a une solution de 13 mmol de butyllithium dans 50 mL de 
+
+; 
+
+a 
+
+THF 2 -100°C. Le spectre rmn d'un Cchantillon prClevC indique la 
+2 
+
+a 
+
+prCsence du produit linCaire 3 c (bande imine i 8,2 ppm). Le mClange 
+
+C) 
+
+13 
+
+est rCchauffC progressivement (1,5 h) jusqu'i +35"C. La composition 
+
+2 
+
+du mClange en fonction de la temperature, determinee d'aprks les 
+
+0 
+
+. -
+. -
+
+spectres rmn, est la suivante : temperature ("C), part de 4 c , 5 c , 6 c , 7 c , 
+-u c 
+
+3c(%) : -100,70,0,0,0,30; -55,60, 15,5,5, 15; -10,45,30, 10, 
+
+15, 0; +35, 20, 40, 20, 20, 0. Le traitement habitue1 donne 2,3 g de 
+
+3 
+
+00 
+
+melange qui est sCparC par chromatographie. 
+
+3 
+
+Q 
+
+W 
+
+Addition du die'thylphosphite sur les pyrrolines 5 et 7 
+
+ei 
+
+m 
+
+La pyrroline 5 ou 7 est chauffCe avec cinq equivalents du 
+diCthylphosphite a 130°C pendant 3 h. La reaction est suivie en ccm. 
+
+9 
+
+Apres &amp;tre refroidi le melange rtactionnel est trait6 avec l'acide 
+
+chlorhydrique a 5% et la solution ainsi obtenue est extraite avec 
+
+deux portions d'Cther. Ensuite elle est rendue basique par addition de 
+carbonate de potassium et extraite trois fois a l'tther. L'extrait CthCrC 
+est stchC sur sulfate de sodium et le solvant est CvaporC sous pression 
+rCduite. Le rCsidu (comprenant les pyrrolidines, cf. tableau 4) est 
+purifiC par recristallisation de la base ou du picrate, ou bien par 
+chromatographie. Les rendements de diastCrCoisomkres obtenus sont 
+indiquCs dans le tableau 4, les donnCes analytiques dans le tableau 7 
+en rmn dans le tableau 5. 
+
+Priparation de pyrrolines 10 
+
+Une solution de 20 mmol de 1 et de 20 mmol d'ester CthylCnique 
+2 dans 40 rnL de THF est ajoutCe 2 une suspension de 22 mmol 
+
+'a, 
+
+3 
+
+2 g 
+
+2&lt; 
+
+g z = 
+
+4 2 
+
+-
+
+rJ 
+
+U 
+
+-t -w c c 
+w m m m 
+
+0 -
+
+% *. 
+
+'0 a-
+
+w w --
+m m e e 
+
+C o m N c C 
+m m m N 
+
+*-t--q? 
+
+=? 0-a-
+w w w w 
+w t -t -t -
+
+m O N N 
+m C o m 0 
+
+T '? *-
+
+? *. r' 09 
+
+a t ---
+w w w w 
+
+t-t---
+
+w w t -P 
+
+Can. J. Chem. Downloaded from www.nrcresearchpress.com by 87.160.185.190 on 03/27/14 
+
+For personal use only. 
+
+
+318 
+
+CAN. J. CHEM. 
+
+d'hydrure de sodium dans 50 rnL de THF. Apres la fin de la reaction 
+
+exothermique, le mClange est port6 a 1'Cbullition (cf. tableau 8). 
+
+Ensuite, il est refroidi et trait6 avec 50 mL d'une solution de chlorure 
+
+d'ammonium a 10%. La couche organique est sCparCe et la couche 
+
+aqueuse extraite avec de 1'Cther. Les extraits reunis sont sCchCs et 
+le solvant CvaporC sous pression rCduite. Le rCsidu, pyrrolidine 10, 
+est transform6 en picrate et celui-ci recristallisC. Les conditions de 
+reaction ainsi que les rCsultats analytiques et rmn sont prCsentCs dans 
+le tableau 8.6 
+Les hydro.^ pyrrolines 11 sont obtenues par oxydation spontanke 
+de pyrrolines 10. A la suite de l'exposition de ces dernieres a I'action 
+de l'air pendant plusieurs jours est observCe la transformation de 
+l'huile en masse semi-cristalline. Celle-ci est cristallisCe dans 1'Cther 
+isopropylique et recristallisCe dans ce solvant ou 1'acCtate dlCthyle. Les 
+rendements sont d'environ 85%. Les donnees analytiques et rmn sont 
+rassemblCes dans le tableau 8.6 
+Lespyrrolidines 12 sont prCparCes par reduction des pyrrolines 5 au 
+borohydrure de sodium dans 1'Cthanol (pour Cviter la transestCrification). 
+121 : rendement 90%; 6 H, ppm (CC14/TMS) : 0,88 (3H, t, Me), 
+1,05 (3H, d, R~ = Me), 1,60 (3H, s, R~ = Me), 2,3-3,3 (4H, m), 
+3,70 (2H, q, 0CH2), 7,25 (5H, m, Ph). Picrate, F (ethanol) 167°C. 
+CZ1Hz4N4O9 (476,41) calculC/trouvC : C 52,94/52,77; H 5,08/5,04; 
+N 11,76/11,74. 
+Ethoxycarbonyl-7 aza-15 dispiro[5.1.5.2]pentadecane 12t, rende-
+ment 87%; F (Cther isopropylique) 51°C; 6 H, ppm (CDC13/TMS) : 
+1,27 (3H, t, Me), 1,2-1,8 (20H, m, deux cyclohexyles), 2,32 ( l H , s, 
+NH), 2,38 (lH, s, CH), 2,86 (2H, d de d, CH2), 4,11 (2H, q, OCH?); 
+6 I3C (CDC13/TMS) : 14,45 (q, Me), 23,03, 23,36, 23,76, 24,05, 
+25,88 (double intensitC), 33,32, 33,76, 39,23 (double intensite) (lot, 
+deux cyclohexyles), 48,43 (s, C-8), 55,58 (t, C-14), 59,67 (t, OCH*), 
+64,89 (d, C-7), 65,36 (s, C-6), 172,33 (s, C=O). C17H27N02 
+(279,41) calculC/trouvC: C 73,07/72,70; H 10,46/10,37; N 5,01/4,88. 
+12u : rendement 79%; 6 H, ppm (CC14/TMS) : 1,27 (3H, t, Me), 
+1,2-2,O (19H, m, deux cyclohexyles et NH), 2,7-3,O (3H, m, 
+CH-CH2-N), 
+4,10 (2H, q, OCH?). Chlorhydrate, F (Cthanol, eau) 
+212°C. C16H27N02.HC1 (301,85); calculC/trouvC : C 63,66/63,70; 
+H 9,35/9,38; N 4,64/4,69; C1 11,75/11,89. 
+
+6. La forme du signal rmn du groupe phCnyle, deux multiplets 
+centrCs sur 7,2 et 7,7 ppm, indique la position a de la double liaison 
+par rapport ce substituant dans les produits 10 et 11. 
+
+RPduction du picrate de 1Oa 
+Borohydrure de sodium (0.5 g) est ajoutC progressivement en 
+refroidissant, a une suspension de 1,5 g (3 mmol) de picrate de 
+pyrroline 100 dans 20 mL de methanol. Le mClange devient homogene. 
+Quand I'addition est finie, le melange est agitC encore 20 min 
+temperature ambiante. Le solvant est CvaporC sous pression rCduite et 
+
+le rCsidu repris avec une solution de soude a 5%. Cette solution est 
+
+extraite 3 fois avec 30 mLdechlorure de methylhe. L'extrait est sCchC 
+et le solvant CvaporC sous pression rCduite. On obtient 0,6 g d'huile 
+claire, 85% de rendement de cis-ethoxycarbonyl-3 phCnyl-2 pyrroli-
+dine 120; 6 H, ppm (CC14/TMS) : 0,80 (3H, t, Me), 2,O-2,4 (2H, m, 
+H-4), 2,8-3,3 (3H, m, H-3 et H-5), 3,65 (2H, q, OCH,), 4,35 
+(IH, d, H-2), 7,25 (5H, m, Ph). Picrate, F (ethanol) 181°C. 
+CI9Hz0N4O9 (448,38) calculC/trouvC : C 50,89/50,99; H 4,50/4,50; 
+N 12,50/12,22. 
+
+1. R. W. RATCLIFFE et B. G. CHRISTENSEN. Tetrahedron Lett. 4645 
+(1973). 
+2. A. DEHNEL et G. LAVIELLE. Bull. Soc. Chim. Fr. 11, 95 (1978). 
+3. A. DEHNEL. Thkse, UniversitC dlOrlCans, Orleans, France. 1983. 
+4. A. DEHNEL, J. P. FINET et G. LAVIELLE. Synthesis, 474 (1977). 
+5. (a) A. DEHNEL et G. LAVIELLE. Tetrahedron Lett. 21, 1315 
+(1980); (b) C. RABILLER, A. DEHNEL et G. LAVIELLE. Can. J. 
+Chem. 60, 926 (1982). 
+6. T. SAEGUSA, Y. ITO, H. KINOSHITA et S. TOMITA. J. Org. Chern. 
+36, 3316 (1971). 
+7. TH. KAUFFMANN. Angew. Chem. Int. Ed. Engl. 13,627 (1974). 
+8. J. E. BALDWIN. J. Chem. Soc. Chem. Commun. 734 (1976). 
+9. TH. KAUFFMANN et R. EIDENSCHINK. Chem. Ber. 110, 645 
+(1 977). 
+10. D. REDMORE. Chem. Rev. 71, 333 (1971). 
+11. D. REDMORE. Dans Topics in phosphorus chemistry. Vol. 8. 
+EditPpar E. J. Griffith et M. Grayson. Wiley, New York. 1976. 
+pp. 515-585. 
+12. (a) D. ST. C. BLACK et L. M. JOHNSTONE. Angew. Chem. Int. 
+Ed. Engl. 20,669 (1981); (b) K. BURGERet S. TREMMEL. Chem. 
+Ztg. 106, 302 (1982). 
+13. R. TYKA. Tetrahedron Lett. 677 (1970). 
+14. K. D. BERLIN, R. T. CLAUNCH et E. T. GAUDY. J. Org. Chem. 
+33, 3090 (1968). 
+
+Can. J. Chem. Downloaded from www.nrcresearchpress.com by 87.160.185.190 on 03/27/14 
+
+For personal use only. 
+
+
+
+	
+

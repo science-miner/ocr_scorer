@@ -1,0 +1,727 @@
+
+	
+
+		
+
+	
+
+	
+
+Nouveaux modeles silicies derives de la quinoleine 
+
+MICHELINE GRIGNON-DUBOIS,' MICHELLE FIALEIX ET BERNADETTE REZZONICO 
+
+Laboratoire de chimle orga~uque et organom&amp;tallrque, Univer:\it&amp; de Bordeaw 1, 351, Cours de la ltbkratlon, 
+33405 Talerzce C ~D E X , 
+France 
+
+Resu le 19 dCcembre 1989' 
+
+MICHELINE GRIGNON-DUBOIS, MICHELLE FIALEIX et BERNADETTE REZZONICO. Can. J. Chem. 68, 2153 (1990). 
+
+La silylation de la quinolCine par le systkme Me3SiCI/Li/THF a Ct C rCexaminCe. Elle nous a permis d'isoler de nouveaux 
+
+produits tri-, tCtra-et hexasiliciCs dont nous avons CtudiC la stCrCochimie. La comparaison de nos rCsultats i ceux obtenus avec 
+
+le naphtalkne montre I'influence de I'atome d'azote sur I'orientation de la silylation. 
+Mots clks : silylation, quinolkine, polysilyl-hydro-quinolkines. 
+
+MICHEL~NE GRIGNON-DUBOIS, MICHELLE FIALEIX, and BERNADETTE REZZONICO. Can. J. Chem. 68, 2153 (1990). 
+
+Silylation of quinoline with MesSiC1/Li/THF reagent has been studied. We obtained new tri-, tetra-, and hexasilylated 
+derivatives whose stereochemistry has been established using NMR data. Comparison of these results to those previously 
+obtained from naphthalene shows the effect of nitrogen on the silylation process. 
+Key words: silylation, quinoline, polysilyl-hydro-quinolines. 
+
+La voie organosilicique est aujourd'hui reconnue comme 
+une methode de choix pour la fonctionnalisation des substrats 
+organiques (1). D'autre part, la quinoleine constitue un sque-
+lette important en chimie thCrapeutique (2). La silylation de la 
+quinoltine constituait donc une stratCgie attractive pour accCder 
+
+B des synthons polysiliciCs prtcurseurs de quinolkines fonction-
+
+nelles. Elle avait dCjB donnC lieu i quelques travaux. Ainsi, 
+l'utilisation de Me3SiHgSiMe3 conduit i la bis-4,4'(N-tri-
+mtthylsilyl dihydro-l,4-quinoltine) avec 75% de rendernent 
+(3). Par ailleurs, le rCactif Me3SiC1/Li/Et20/tolukne avait 
+
+perrnis B Nogaideli et Akhobadze (4) d'isoler, a c6tC de ce 
+
+rn&amp;me dCrivC (rdt. 20%), la bis-trimCthylsily1-1,4 dihydro-1,4 
+quinolCine, 1, avec 15% de rendement. Enfin, Sulzbach et 
+Iqbal (5) en remplaqant le mtlange EtzO/tolukne par le THF 
+avaient pu favoriser le produit de disilylation 1; cependant, 
+le rendement restait faible (31%) et aucune prtcision n'ttait 
+apportCe sur la prCsence Cventuelle d'autres produits ou de 
+substrat n'ayant pas rCagi. 
+L'intCrgt de cette rtaction et le caractere incomplet des 
+rCsultats de la litterature nous ont conduits i la rtexaminer en 
+utilisant, cornrne rtactif, le systkme Me3SiC1/Li/THF. 
+
+Resultats et discussion 
+Nos premiers essais ont ttC conduits dans les conditions 
+dCcrites par Sulzbach et Iqbal (5) a savoir : 3 Cquiv. de Li, 
+
+3 Cquiv. de Me3SiC1 ti 0°C. Au bout d'une heure (durte utiliste 
+
+par ces auteurs), on constate que le milieu contient encore du 
+lithium et de la quinoleine qui n'a pas rtagi (CCM, Si02; 
+Cluant : hexane/EtOH : 80 : 20 (vol.)). Nous avons donc laissC 
+les rCactifs en contact jusqu'i disparition totale du produit de 
+depart soit 6 h. Par distillation, nous avons ainsi pu isoler, B 
+cat6 de de la bis-trimCthylsily1-1,4 dihydro-1,4 quinoltine, 1 
+(rdt. 35%), deux produits originaux 2 (rdt. 15%) et 3 (rdt. 25%) 
+qui sont respectivement tCtra-et hexasiliciks (fig. 1). 
+Ces rCsultats nous ont conduits a examiner l'influence de la 
+quantitt de rCactifs sur l'orientation de la reaction (tableau 1). 
+Nous avons ainsi constatt que : 
+(i) avec 2 tquivalents, conditions theoriquement optimales 
+pour favoriser le dCrivC disilicit, celui-ci ne se forme qu'avec 
+30% de rendement; les produits 2 et 3 sont dCjB prCsents dans le 
+
+1. Auteur 2 qui adresser toute correspondance. 
+2. RCvision resue le 2 aoOt 1990. 
+
+Pnnled in Canada i Imprime au Canada 
+
+mClange rtactionnel, ce qui indique que la rtaction s'effectue 
+sous contr6le cinCtique; 
+(ii) avec 4 ou 6 tquivalents, les rendements en produits de 
+di-et tCtrasilylation 1 et 2 varient peu; par contre, la proportion 
+d'hexasilylation (3) augmente. Avec 12 tquivalents, cette 
+dernikre devient largement prtpondCrante et le dCrivt 3 devient 
+le produit rnajeur de la rCaction. 
+Notons que la fragilitC de la liaison Si-N rend les composts 
+1-3 tres sensibles 
+l'air ou a I'hurniditC. En particulier, 
+I'isolement du produit 3, qui, en outre, est stkriquement 
+encombrt, nCcessite de travailler en atmosphkre parfaitement 
+inerte. 
+La figure 1 rend compte de l'obtention de ces composCs,Elle 
+ferait intervenir la formation initiale d'un anion radical Q-par 
+transfert d'tlectron du rnttal au substrat, mtcanisme gCnCrale-
+ment admis avec les systkmes conjuguts (6). Une premiere 
+silylation sur I'atome d'azote conduit au radical rCsonnant Q' 
+
+qui, par capture d'un electron permet une deuxikme silylation. 
+Elle peut intervenir sur le sornrnet 4, donnant naissance au 
+dCrivC 1 qui est stable dans le milieu ou sur le sommet 2. Dans 
+ce dernier cas, le dCrivt disiliciC qui en rCsulte, tres rCactif, se 
+
+silyle nouveau, donnant lieu B une compCtition entre l'attaque 
+
+de la double liaison de type styrtnique et celle du noyau aroma-
+tique adjacent qui s'effectue en 6-7. Le produit tttrasilicik 
+rCsultant de cette dernikre n'a jamais Ctt isolt; il conduit a une 
+nouvelle rCaction perrnettant la formation du dtrivt 3. 
+Ces rCsultats prCsentent une certaine analogie avec ceux 
+
+observes par Laguerre et al. (7) B partir du naphtalkne qui 
+
+leur avait perrnis d'isoler aussi un produit hexasilicik (fig. 2). 
+Cependant la fixation des 3' "' et 4e111e groupes silyle Ctait 
+univoque puisque l'analogue carbon6 de 2 ne se forrnait pas et 
+les 5"' 
+et 6*"" silylations s'effectuaient sur des sommets 
+difftrents. Ceci montre l'influence de l'atome d'azote dans ces 
+reactions. 
+AbandonnC au contact de l'air ou de silice, le dtrivC disilicie, 
+
+1, s'aromatise avec perte d'un groupe silyle, conduisant B 
+la trirnCthylsily1-4 quinoltine (4, rdt. 80%) (fig. 3) qui est 
+identique au produit obtenu avec 36% de rendernent par 
+silylation de la bromo-4 quinoleine (8). Par action de chlorure 
+d'acktyle, on isole la N-acCtyl trirnethylsilyl-4 dihydro-1,4 
+quinolCine (5, rdt. 82%). 
+
+De m&amp;me, l'aromatisation de la tCtrasily1-1,2,3,4 tttrahydro-
+
+1,2,3,4 quinoltine, 2, par l'oxygene de l'air conduit B la 
+
+Can. J. Chem. Downloaded from www.nrcresearchpress.com by 87.160.185.190 on 03/27/14 
+
+For personal use only. 
+
+
+CAN. I. CHEM. VOL. 68. 1990 
+
+TABLEAU 1. Influence de la quantitt 
+de rtactif sur la silylation 
+
+Rdt en produits 
+(Li/Me3SiC1) 
+nOd'Cquivalents 
+
+1 
+2 
+3 
+
+MB3 S' 
+
+M3 Si -SiMg 
+
+trimCthylsily1-4 quinolCine, 4, et non pas a son isomkre 6 , 
+
+comme on aurait pu s'y attendre (fig. 3). Pour le confirmer, nous 
+avons synthetisC ce"dernier (rdt. 20%) a partir de la bromo-3 
+quinoltine. A partir de la tCtrakis-trimCthylsily1-1,2,3,4 tetra-
+hydro-1,2,3,4 quinolCine, 2, nous avons Cgalement is016 le 
+dCrivC 7 par mtthanolyse de la liaison N-Si 
+(rdt. quant.); 
+son obtention nCcessite dlopCrer sous atmosphkre parfaitement 
+inerte faute de quoi il Cvolue, vers la trimCthylsily1-4 quino-
+]Cine, 4. L'action du chlorure d'acCtyle conduit au dCrivC 
+N-acCtylC, 8 (rdt. 70%) (fig. 3). Notons que les composes 2, 7 
+et 8 sont originaux. 
+La quinolkine hexasilicike, 3, est particulikrement fragile et 
+Cvolue soit a l'air, soit par chauffage prolongC, soit enfin en 
+prCsence de rCactif B caractkre acide (silice, chlorure d'acktyle) 
+avec perte de silicium et aromatisation du cycle azote. On isole 
+ainsi les composCs 9 et 10 avec un rendement global de 
+
+80-90% : 9/10 -70 : 30 (fig. 4). PlacC en solution dans 
+
+1'Cthanol absolu, le dtrivC 3 se dCsilyle et conduit au composC 
+10 en quelques heures (rdt. 89%). Par ailleurs, l'addition 
+
+SiM3 
+
+MB3 S' 
+
+M3sJ3$ 
+
+SiMa, SiMg 
+
+d'Cther provoque la formation d'un prCcipitC que nous avons 
+
+identifiC au tttrakis-trimCthylsily1-2,5,6,7 tCtrahydro-5,6,7,8 
+
+quinoltine (11, rdt. 80%) (fig. 4). Les produits 9, 10 et 11 sont 
+originaux et confirment la structure proposee pour le dCrivC 
+hexasilicik 3. 11 est vraisemblable que le compose 10 se forme 
+B partir de I'intermCdiaire 11 dont le groupe silyle en a de 
+
+l'azote doit &amp;tre labile en milieu acide. Le passage du composC 
+Can. J. Chem. Downloaded from www.nrcresearchpress.com by 87.160.185.190 on 03/27/14 
+
+For personal use only. 
+
+
+GRIGNON-DUBOIS ET AL. 
+
+3 au produit aromatique 11 en presence d'Cther peut s'expliquer 
+
+par la presence de traces d'eau, d'oxygene ou de pCroxyde qui 
+permettent une aromatisation douce du squelette. 
+Les structures spatiales de tous les dCrivCs obtenus ont Cte 
+
+essentiellement dCterminCes par RMN 'H et 13c (tableaux 2-4). 
+Ainsi dans le cas de la tCtrakis-trimCthylsily1-1,2,3,4 tetrahydro-
+1,2,3,4 quinolkine, 2, la presence de trois signaux couplCs entre 
+
+eux entre 1,9 et 3,l ppm avec des intkgrations correspondant a 
+
+un proton, auxquels associe les 3 observes en I3C entre 
+30 et 47 ppm confirnient"1'enchainement proposC. De plus, a 
+
+partir des valeurs des constantes de couplage 3 ~( 1 H , 1 H ) 
+et en 
+utilisant la relation Ctablie par Laguerre et ~0 1 1 . ~ 
+dans le cas de 
+
+cyclanes polysilicies, 3J = 11,5 cos2 0 -1,6 cos 0 + '0,6, nous 
+
+sommes en mesure de proposer les stCreochimies relatives de 
+
+tous nos composCs (fig. 5). Ces rCsultats montrent que les 
+disilylations de type 1-2, conduisant a la fixation des siliciums 
+sur les sommets 3 et 4 (composC 2) et 6 et 7 (composC 3), 
+j s'effectuent en trans alors que I'addition de type 1-4, cohduisant 
+
+I 
+
+au composC 3 (somrnets 3 et 5), s'effectue en cis. Les contraintes 
+
+stiriques jouent vraisemblablement 18 un r61e important. 
+
+Partie experimentale 
+
+Re'action de silylation 
+Nous avons utilisC du THF distillt sur sodium et benzophCnone afin 
+d'enlever les traces d'eau. Le lithium est prkalablement granult par 
+
+3. C. Biran, M. Laguerre et J. Dunogues, communication privCe. 
+
+Compos6s 2 , 7 e t 8 
+
+I \ 
+
+( Z = SiMe3, H o u C O C H ~) 
+
+Z 
+
+S itle 3 
+
+Composfs 9 -11 
+
+( C -H . SiMe3 e n I o u e n ? ) 
+
+fusion dans l'huile de vaseline puis lavC au THF., La rCaction est 
+
+conduite i la rampe a vide sous atmosphkre d'argon. A une suspension 
+
+de 0,2 at.g de lithium finement granulC, dans 150 mL de THF et 
+0,26 mol de Me3SiC1 fraichement distillt, on ajoute goutte a goutte 
+0,l mol de quinolCine de telle sorte que la temperature du milieu 
+rCactionne1 soit maintenue entre 0 et 5'C. L'avancement de la rCaction 
+est suivi par CCM (SOz; hexane/EtOH : 80 : 20). Au bout de 5 h 
+environ, on note la disparition du produit de dCpart. Le THF est alors 
+CvaporC i la rampe a vide. On ajoute ensuite 120 mL de cyclohexane, 
+solvant dans lequel LiCl prCcipite ce qui permet de 1'Climiner par 
+filtration. Le filtrat est ensuite Cvaport et redissout dans 120 mL de 
+Can. J. Chem. Downloaded from www.nrcresearchpress.com by 87.160.185.190 on 03/27/14 
+
+For personal use only. 
+
+
+CAN. J. CHEM. VOL. 68, 1990 
+
+TABLEAU 2. CaractCristiques de RMN 'H (CDC13, 250 MHz) des composCs 1, 2, 4, 5, 7 et 8 
+
+6, ppm (multiplicitC : J , Hz) 
+
+ComposCs 
+H2 
+H3 
+H4 
+H5 
+H6 
+H7 
+H8 
+SiMe3 
+C 
+
+6,04 
+(d : 7,3) 
+
+6,53 
+(d : 7,O) 
+8,71 
+signal large 
+
+3,21 
+(d : 5,3) 
+
+3,30 
+(d : 2,9) 
+
+4,63 
+( d : 7,3) 
+
+4,73 
+(dd : 5,9 et 
+7,3) 
+5,40 
+( d : 6et7,O) 
+
+7,34 
+signal large 
+
+2,1 
+(dd : 9,5 et 
+5,3) 
+1,38 
+(dd : 2,9 et 
+1,2) 
+2,13 
+(t : 7,20) 
+
+2,73 
+(d : 5,9) 
+
+2,74 
+(d : 6,O) 
+
+-
+
+2,56 
+(d : 3,2) 
+
+2,36 
+signal large 
+
+2,2 
+(d : 7,2) 
+
+massif de 6,s ti 7,2 
+
+massif de 6,80 a 7,12 
+-0,03 
+(s) 
+8,02 
++0,34 
+( d : 8,4) 
+(s) 
+
+7,91 
+2 massifs a 7,36 a 7 3 3 
+(d : 8,2) 
+
+massif (4H) i 6,9 
+
+3s -0,lO 
+0,oo 
++0,29 
+6,77 
+3s -0,08 
+(dd : 7,5 
+0,oo 
+et 1,3) 
++0,17 
+
+6,39 
+6,86 
+6,52 
+(dd : 7,9 
+(dt : 7.7 
+(dt : 7,3 
+et 1,O) 
+et 1,5) 
+et 1,2) 
+massif (4H) B 6,92 
+
+TABLEAU 3. Caracttristiques de RMN 'H (CDCl,, 250 MHz) des composts 3 et 9-11 
+
+6, ppm (multiplicitC : J , Hz) 
+
+9 
+8,6 
+
+-
+
+7,3 
+2,32 
+(s tlargi) 
+
+(5) 
+
+(s elargi) 
+
+. . . . . . 
+
+I ,42 
+(dd : I ,2 
+et 9,2) 
+
+1,l 
+(ddd : 4,8, 
+9,2 et 14,2) 
+
+2,s 
+(dd: 14,2 
+et 14,5) 
+
+3.16 
+(dd : 4,s 
+et 14,5) 
+
+0,95 
+(ddd : 9,14, 
+4,6 et 14,2) 
+
+0,93 
+(ddd : 9,5, 
+13,9 et 4,4) 
+
+2,36 
+(dd : 14,2 
+et 14,5) 
+
+2,73 
+(dd : 4,67 
+et 14,5) 
+4,24 
+(dd: 14,2 
+et 4,2) 
+
+2,2 
+(dd: 14,2 
+et 13,9) 
+
+cyclohexane afind'tliminer les sels quipourraient subsister. Onobtient 
+
+chlorure d'acCtyle sont Climints i 1'Cvaporateur rotatif. Le produit 
+
+ainsi une huile jaune dont les constituants sont isolCs par rectification 
+dlacCtylation est ensuite purifiC sur colonne de silice. 
+
+B la rampe i vide. 
+Les produits d'aromatisation 4, 6 et 9-11 sont purifiCs sur colonne 
+de silice. 
+Ace'tylation 
+Le chlorure d'acCtyle (0,04 mol) prCalablement distill6 sur mag-
+Caracttristiques physico-chimiques des produits obtenus 
+nCsium est additionnk i 0,02 mol de substrat N-silylC. Le melange est 
+Les points de fusion ont Ct C mesurCs sur un appareil Mettler FP 61. 
+
+agitC a tempirature ambiante pendant 6 h. Puis le solvant et l'excks de 
+
+Les analyses centCsimales ont Ct C effectuees au service central 
+
+Can. J. Chem. Downloaded from www.nrcresearchpress.com by 87.160.185.190 on 03/27/14 
+
+For personal use only. 
+
+
+GRIGNON-DUBOIS ET AL 
+
+TABLEAU 4. CaractCristiques de RMN I3C (CDCl3, 62,9 MHz) des composCs 1-4 et 6-11 
+
+61 PPm 
+
+ComposC 
+CH3 
+CH2 
+CH 
+C 
+
+1 
+-3,50; 0,58 
+
+-
+
+32,20 
+102,71; 116,99; 121,21; 
+132,8; 142,l 
+128,05 (2); 130.02 
+
+2 
+0,Ol; 0,51; 1,22, 
+
+-
+
+30,32; 36,79; 47,ll; 
+135,48; 148,03 
+1,33 
+119,7, 124,03; 123,62; 
+129,76 
+
+3 
+-1,97; -1,60; 
+-
+15,05; 25,43; 28,30; 
+128,71; 136,31 
+-0,73; -0,40; 
+29,OO; 
+2,16; 2,7 
+43,28; 
+110,05; 119,06 
+
+4 
+-0,25 
+
+-
+
+126,14; 127,4; 127,90, 
+131,75; 147,54 
+128,71; 
+
+I 
+
+130,63 
+
+I 
+
+6 
+-0,78 
+
+-
+
+126,95; 128,29; 129,81; 
+133,26; 148,79 
+
+I 
+
+130,23; 
+
+I 
+
+142,6 
+
+7 
+-2,16; -1,65 
+22,67; 33,68; 46,41; 
+136,05, 149,9; 
+0,32 
+113,90; 116,39; 125,23; 
+159,54 
+128,64 
+
+8 
+-0,81, -0,05; 
+-
+29,95; 30,42; 46,21; 
+138,8; 139,7 
+0,03 
+124,17; 125,62; 128,96 
+22,7 (CH3CO) 
+167,55 (C=O) 
+
+9 
+
+-1,68; -1,54; 
+
+35,ll 
+19,42; 21,43; 33,15; 
+131,97; 135,36; 
+-1,03 (2) 
+141 3 5 ; 148,92 
+160,28 
+
+10 
+-1,28; -1,53; 
+35,05 
+18,99; 21,03; 32,94; 
+135,94; 159,65; 
+-1,67 
+128,26; 135,33; 145,57 
+
+11 
+-2,04; -1,83; 
+28,8 
+18,91; 20,02; 33,41; 
+140,65; 157,87 
+-1,38; -1,30 
+128,73; 139 
+
+I 
+
+d'analyse du CNRS (F-69390 Vernaison). Les spectres de masse (SM) 
+(SO2; C6Hlz/THF : 90 : 10); Rdt. 82%. Anal. calculee pour 
+
+I 
+
+ont CtC enregistrks sur un appareil VG micromass 16 F (70 eV) et les 
+CI4Hl9NOSi : C 68,52, H 7,8, N 5,71, 0 6.52; trouvCe : C 68,31, 
+
+I 
+
+spectres IR sur un spectromktre Perkin-Elmer 1420; tous les dCrivCs 
+H 7,65, N 5,69, 0 6,58. 
+sIliciCs isolks pr~sentent en IR des bandes de trks forte intensit6 a 1250 
+et 850 cm-' caractkristiques des groupes SiMe3 qui peuvent masquer 
+le reste du spectre. Les spectres de RMN ont Ct C enregistrks sur un 
+appareil Bruker AC 250 functionnant a 250 MHz dans le cas du proton 
+
+et 62,9 MHz pour le I3c (solvant, CDC13; C6HIZ ref. int. a 1,4 ppm 
+
+('H) ou 27,08 ppm (I3C)). Les dCplacements chimiques et les 
+constantes de couplage sont rassemblCs dans les tableaux 2-4. 
+Bis-trirne'thylsilyl-1,4.dihydro-1,4 quinole'ine (1): Rdt. 35%; Eb 
+88"C/0,06 Torr (1 Torr = 133,3 Pa) (litt. (5) Eb 100°C/O,l); IR 
+(film NaC1, cm-I) : 3040,3010,2950,2895,2840, 1640, 1595,1480, 
+1440, 1275, 1250, 1190, 1105, 1090, 1040,990, 975, 965, 850, 830, 
+780, 750, 730,705, 685, 655, 610. 
+Te'trakis-trirne'thylsilyl-l,2,3,4 te'trahydro-1,2,3,4 quinole'ine (2) : 
+Rdt. 15%; Eb 125-127"C/0,01 Torr; IR (film NaC1, cm-') : 3040, 
+3020, 2930, 2880, 1590, 1570, 1470, 1450, 1400, 1250, 850, 830, 
+740, 680, 630, 620. Anal. calculCe pour C21H43NSi4 : C 59,78, 
+H 10,27, N 3,32; trouvCe: C 59,81, H 10,25, N 3,27. 
+Hexakis-trirne'thylsilyl-1,2,3,5,6,7 hexahydro-1,2,3,5,6,7 quino-
+le'ine (3) : Rdt. 25-70% selon la quantitk de rCactif utilisCe (cf. tableau 
+1); IR (film NaC1, cm-I): 3040,3020,2940,2880,2840, 1480, 1280, 
+1250, 850, 830, 740, 680. Anal. calcul6e pour C27H6]NSi6: C 57,07, 
+H 10,82, N 2,46; trouvCe: C 56,92, H 10,75, N 2,53. 
+Trimtthylsilyl-4 quinole'ine (4): Rdt. 80%; Eb 118"C/68 Torr (litt. 
+(8) Eb 11416.5). 
+N-Ace'tyl trirne'thylsilyl-4 dihydro-1,4 quinole'ine (5) : il est isole par 
+acCtylation du composC 1 et est purifie par chromatographie liquide 
+
+Trirne'thylsilyl-3 quinole'ine (6): Rdt. 20%; Eb 99"C/68 Torr (litt. (8) 
+Eb 96"C/65). 
+Tris-trirne'tlylsilyl-2,3,4 te'trahydro-1,2,3,4 quinole'ine (7) : Rdt. 
+95%; IR (film NaC1, cm-I): 3400, 3040, 2940, 2840, 1595, 1570, 
+1250, 850, 690, 650. Anal. calculte pour C18H35NSi3 : C 61,82, 
+H 10,09, N 4,OO; trouvCe: C 61,5, H 11,21, N 3,89. 
+N-Acttyl tris-trime'thylsilyl-2,3,4 te'trahydro-1,2,3,4 quinole'ine (8) : 
+solide blanc obtenu par acCtylation du composC 2 et purifiC par 
+chromatographie liquide (SOz; hexane/THF : 90 : 10; Rf 0,53), Rdt. 
+70%; F9I0C (EtOH); IR (KBr, cm-I) : 3060,3040,2940,2880,2840, 
+1650, 1600, 1570, 1490, 1370, 1250, 850, 750, 680. Anal. calculCe 
+pour C20H37NOSi3 : C 61,31, H 9,52, N 3,58, 0 4,08; trouvCe : 
+C 61,45, H 9,48, N 3,52, 0 4,Ol. 
+
+Titrakis-trirne'thylsilyl-3,5,6,7 te'trahydro-5,6,7,8 quinole'ine (9) : 
+huile jaune pile purifiCe par chromatographie liquide (SiOz; C6H12/ 
+THF : 95 : 5; Rf0,42); IR (film NaCl, cm-I) : 3020,2950,2890,2840, 
+1640, 1360, 1310, 1250, 850, 830, 750, 680, 620; SM (rnle (%)) : 
+421 (5,2), 406 (11,7), 348 (73,6), 274 (11,5), 260 (59,1), 73 (100). 
+Anal. calculCe pour C2'Hj3NSi4 : C 59,78, H 10,27, N 3,32; trouvCe : 
+C 59,84, H 10,29, N 3,28. 
+
+Tris-trirne'thylsilyl-5,6,7 te'trahydro-5,6,7,8 quinole'ine (10) : huile 
+purifiCe par chromatographie liquide (SiOz; C6H12/THF : 95 : 5; 
+Rf0,39), Rdt. 89%; IR (film NaC1, cm-I): 3040, 2940, 2920, 2880, 
+2840, 1630, 1430, 1250, 900, 830, 780, 740, 670; SM (m/e (%)) : 
+348 (6,9), 333 (13,1), 274 (76,2), 260 (13,6), 186 (48,1), 73 (100). 
+
+Can. J. Chem. Downloaded from www.nrcresearchpress.com by 87.160.185.190 on 03/27/14 
+
+For personal use only. 
+
+
+2158 
+
+CAN. J. CHEM. VOL. 68, 1990 
+
+Anal. calcul6e pour CI8H3~NSi3 : C 61,82, H 10,09, N 4,OO; trouvee : 
+C 61,37, H 10,18, N 3,91. 
+
+TPtrakis-tritnPthylsdyl-2,5,6,7 tPtra/zy(~ro-5,6,7,8 quitzolf'ine (11) : 
+
+sollde blanc, Rdt. 80%; F 208°C (EtOH); SM ( m / e (%)) : 421 (7,8), 
+406 (10,4), 348 (75,4), 274 (12,0), 260 (57,0), 186 (50,4), 73 (100). 
+
+Anal. calculte pour C21H43NSi4 : C 59,78, H 10,27, N 3,32; trouvCe. 
+
+C 59,10, H 10,51, N 3,28. 
+
+Remerciements 
+
+Ce travail a bCneficiC d'une subvention des Laboratoires 
+
+SARGET (Avenue J. F. Kennedy, BP 100, 33701 Merignac 
+
+1. (a) E. W. COLVIN. Silicon in organic synthesis. Butterworths, 
+Londres. 1983; ( b ) W. P. WEBER. Silicon reagents for organic 
+synthesis. Springer Verlag, Berlin. 1983; ( c ) J. DUNOGUES. 
+L'actualitt chimique. 11 mars 1986. 
+
+2. ( a ) A. LESPAGNOL. Chimie des mtdicaments. Tome 1. Technique 
+
+et Documentation, Genkve. 1974; (0) M. SCHORDERET. Des 
+
+concepts fondamentaux aux applications thirapeutiques. Frison 
+Roche, Paris. 1989. 
+3. H. P. BECKER et W. P. NEWMANN. J. Organomet. Chem. 37,57 
+(1972). 
+4. A. I. NOGAIDELI et D. CH. AKHOBADZE. Bull. Acad. Sc. 
+Georgian SSR, 87 (3), 62 1 (1977). 
+5. R. A. SULZBACH et A. F. IQBAL. U.S. Patent 3,781,291. 25 
+dtcembre 1973. 
+6. R. CALAS et J . DUNOGUES. J. Organomet. Chem. Library, 2, 
+277 ( 1976). 
+7. M. LAGUERRE, J . DUNOGUES et R. CALAS. Tetrahedron Lett. 22 
+(13), 1227 (1981). 
+8. A. FISHER, M. W. MORGAN ct C. EABORN. J. Organornet. Chern. 
+136, 323 (1977). 
+
+Can. J. Chem. Downloaded from www.nrcresearchpress.com by 87.160.185.190 on 03/27/14 
+
+For personal use only. 
+
+
+
+	
+

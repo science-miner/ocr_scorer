@@ -1,0 +1,686 @@
+
+	
+
+		
+
+	
+
+	
+
+Interactions entre les cations et les sucres. I. valuation de I'enthalpie libre 
+
+d'interaction Ca2' -D-(-)-ribose dans l'eau a 25°C 
+
+JEAN-PIERRE MOREL' ET CLAUDE LHERMET 
+
+Laboratoire d'~tude des lnteractions Solutks-Solvants, U.A. au C.N.R.S. no 434, 
+Universitk de Clermont 2, 631 70 AubiPre, France 
+Recu le 17 dCcembre 1984 
+
+JEAN-PIERRE MOREL et CLAUDE LHERMET. Can. J. Chem. 63, 2639 (1985). 
+
+L'interaction des deux pentoses isomkres D-(-)-ribose et D-(-)-arabinose avec l'ion CaZ' en solution aqueuse est CtudiCe 
+
+ii l'aide de deux types de cellules Clectrochimiques (avec et sans jonction) comportant une Clectrode ii membrane liquide 
+stlective ii CaZ+. Certains isomkres du D-(-)-ribose possMent une sequence d'hydroxyles susceptible d'interagir spCci-
+
+fiquement avec le cation. La mesure de l'enthalpie libre de transfert de I'ion Ca2+ entre I'eau et les solutions sucrCes permet 
+de calculer un paramktre d'interaction par paire caractkristique. D'autre part, cette interaction spCcifique est Cgalement 
+
+caractCris6e par sa constante d'association: pl = 0,93. Les deux approches sont CtudiCes et leur cohkrence est dCmontrCe. 
+
+JEAN-PIERRE MOREL and CLAUDE LHERMET. Can. J. Chem. 63, 2639 (1985). 
+
+The interaction of the two isomeric pentoses D-(-)-ribose and D-(-)-arabinose with the Ca2' ion in aqueous solution is 
+studied with the help of two types of electrochemical cells (with and without liquid junction) including a liquid-membrane 
+Caz+-selective electrode. Some of the D-(-)-ribose isomers contain a sequence of hydroxyl groups which can interact 
+specifically with the cation. The measurement of the Gibbs free energy of transfer of Ca2+ between water and the sugar 
+solutions allows one to calculate a characteristic pair-interaction parameter. This specific interaction can also be characterized 
+
+by its association constant: PI = 0.93. The two approaches are studied and their coherence is shown. 
+
+Introduction 
+
+I 
+
+Les interactions en solution aqueuse entre les cations metal-
+liques et les saccharides, malgrC leur relative faiblesse, sont 
+d'une grande importance pour la chimie et la biochimie des 
+sucres. Elles intiressent Cgalement des domaines de la biologie 
+
+I 
+
+tels que le stockage du calcium ou l7adhCsion des cellules. 
+
+I 
+
+Les travaux de S. J. Angyal(1, 2) ont d'abord montrC le r61e 
+
+, 
+
+jouC par la presence des sCquences d'hydroxyles axial-
+e'quatorial-axial dans les cycles a 6 atomes, et cis-cis-cis 
+dans les cycles B 5 atomes des molCcules de sucres, de leurs 
+dCrivCs ou des composCs cycliques polyhydroxylb. Des Ctudes 
+quantitatives ont permis de prkciser l'ordre de grandeur des 
+constantes d'association entre certaines cations et certains 
+sucres. Le D-(-)-ribose, en particulier, a fait l'objet de plu-
+sieurs Ctudes; il s'agit en effet d'un des rares sucres simples qui 
+prCsente des structures favorables 2 la complexation: les deux 
+conformeres 4C, et 'C, de la forme a-pyranose et le conformkre 
+'C4 du P-pyranose prksentent une sequence ax-eq-ax alors 
+que la forme a-furanose prCsente une sequence cis-cis-cis 
+d'hydroxyles. Les Ctudes en rmn de Lenkinski et Reuben (3) et 
+de Symons et al. (4) ont permis de proposer des valeurs de 
+constante d'association pour les diffkrentes formes ci-dessus 
+avec l'ion Ca2+. Des mtthodes potentiomCtriques ont Cgale-
+ment Ct C appliqutes a l'ttude de ce couple (5, 6). 
+Si la rmn est une mCthode de choix qui permet de distinguer 
+les diffkrents isomkres prCsents 2 llCquilibre, elle nCcessite 
+1'Ctude de solutions oh le sucre est souvent present des con-
+centrations de l'ordre de 1 M alors que la concentration du sel 
+de calcium peut varier jusqu'g 2 M. Dans ces conditions, les 
+constantes obtenues sont apparentes et comparatives mais sans 
+nu1 doute assez CloignCes des valeurs thermodynamiques; de 
+plus, aux fortes concentrations en sel, l'effet des anions peut 
+fausser notablement l'interpritation des rksultats. 
+L'Ctude thermodynamique des interactions sucre-cation n'a 
+pas Ct C rCalisCe de fagon approfondie. Si la premikre Ctape 
+d'une telle Ctude est logiquement la dktermination des para-
+
+'Auteur ii qui adresser toute correspondance. 
+
+mktres d'enthalpie libre, on peut penser que la connaissance 
+d'autres grandeurs thermodynamiques (en particulier l'en-
+thalpie et l'entropie d'interaction) seraient Cgalement trks utile 
+h la comprkhension du phCnomkne. Nous nous proposons 
+d'aborder ces problkmes par une interpretation de rtsultats 
+exptrimentaux obtenus en potentiomCtrie. Les Clectrodes B 
+membrane liquide sClectives 2 l'ion Ca2+ permettent des me-
+sures trks prCcises de I'activitC de cet ion en solution aqueuse. 
+Dans les cellules galvaniques mettant en oeuvre une telle 
+Clectrode, le D-(-)-ribose sera compark au D-(-)-arabinose, 
+
+pentose isomkre dont les formes pyraniques prCsentes iI 
+
+1'Cquilibre ne comportent aucune stquence d'hydroxyle favo-
+rable 2 la complexation. 
+
+Theorie 
+La premikre cellule galvanique CtudiCe est: 
+
+[I] Electrode ii Ca ICaC12(m), sucre (ms)lAgCIIAg 
+
+ou m est la molalitC de CaCl, et m, celle du sucre, ribose (mR) 
+ou arabinose (m,). La reaction de cellule s'Ccrit: 
+
+[2] Ca (tlectrode) + 2 AgCl = Ca2+ + 2C1-+ Ag 
+
+Une Etude prtliminaire, pour laquelle m, = 0, nous permet de 
+
+vCrifier la rCversibilitC de cette cellule dont la tension s7Ccrit, iI 
+
+T et P constantes, 
+
+[3] U(m) = U@ + 3k/2 log m y , 
+
+ou U@ est la tension standard dans 1'Cchelle des molalitb, 
+
+k = In 10 RT/F = 0,05916 V 2 25°C 
+
+En utilisant les valeurs de y, (CaCl,) donnCes par Robinson et 
+Stokes (7) et les valeurs expkrimentales de U, on peut calculer 
+une pente de 88,8 mV en excellent accord avec la valeur ther-
+modynamique. 
+Le principe de la mesure consiste 2 ajouter une solution 
+concentrCe de sucre contenant CaCI2 a la molalitC m par rapport 
+
+au solvant (eau + sucre) dans une solution aqueuse initiale de 
+
+meme molalitt m en CaCl, contenue dans la cellule (8). On 
+Can. J. Chem. Downloaded from www.nrcresearchpress.com by 87.160.185.190 on 03/27/14 
+
+For personal use only. 
+
+
+2640 
+
+CAN. J. CHEM. VOL. 63, 1985 
+
+explore ainsi une gamme de concentration en sucre variant par 
+exemple de m, = 0 a m, = 0,4 en maintenant m constant. Les 
+tensions de cellule s'expriment en utilisant 1'Ctat standard cor-
+respondant a CaC12 infiniment diluC dans I'eau d'une part et 
+dans la solution sucrCe d'autre part. 
+
+[4] 
+
+U(m) = U@ + 3 k/2 log m y,(m) 
+
+[5] 
+
+U(m, m,) = @(m,) + 3k/2 log m y,(rn, m,) 
+
+ou les y, tendent vers 1 dans les deux cas lorsque m + 0. On 
+voit que: 
+
+U(m, m,) -U(m) = [U@(m,) -@] 
+
++ 3k/2 log ? d m , ms) 
+
+r d m ) 
+et lorsque m + 0 
+
+[U(m, m,) -U(m)l+ [@(m,) -@I 
+
+L'expCrience montre que pour des concentrations en CaC12 
+m = 5 X 
+et m = 1 X lo-', la diffkrence des tensions ne 
+dCpend que de m, et represente la diffkrence des tensions stan-
+dard, c'est-a-dire qu'on peut considkrer que 
+
+Cette expCrience permet donc d'accCder a l'enthalpie libre stan-
+
+dard de transfert de 1'Clectrolyte CaC12 de l'eau pure la solu-
+tion sucrCe de molalite m, (8). 
+
+[6] 
+A G ~ 
+= 2 ~[ U @ ( m , ) 
+
+-UO] 
+
+oh F est le Faraday. Cette grandeur standard de transfert peut 
+s'interprkter en terme de parametre d'interaction par paires, 
+
+triplets etc . . . (9) sous la forme 
+
+[7] 
+A G ~ 
+
+= 2v g, ms + 3 v gms m: + . . . 
+
+ou v est le nombre d'ions de 1'Clectrolyte E, c'est-a-dire, ici, 
+v = 3 pour CaC12. Ce formalisme fait apparaitre le parametre 
+d'enthalpie libre de la paire Clectrolyte-sucre, g, , qui est la 
+moyenne des paramktres d'interaction des paires cation-sucre 
+et anion-sucre de telle f a ~o n que 
+
+[8] 
+
+~E S = (gca2+s + 2 ~c I -s ) / ~ 
+
+Dans cette Ctude, le sucre CtudiC sera successivement le 
+D-(-)-ribose et le D-(-)-arabinose. Si l'on adpet que les inte-
+ractions non spCcifiques de ces deux sucres avec les cations et 
+
+anions sont identiques, la diffkrence g,, -g,, sera caractCris-
+
+tique de l'interaction spCcifique entre le D-(-)-ribose et le 
+cation Ca2+ par l'intermkdiaire des sCquences d'hydroxyles 
+favorables a la complexation. 
+Une deuxieme interprktation des rksultats expirimentaux 
+donnCs par cette cellule consiste a exprimer une constante 
+d'association spkcifique entre le ribose et Ca2+. On utilise, dans 
+ce cas, une expression de la tension de cellule qui se rCEre 
+1'Ctat infiniment dilut dans l'eau pour CaC12 et pour le sucre. 
+
+[91 U(m, m ~) = UO + k/2 log [Ca], mtl y3,(m, mR) 
+
+2 
+3 
+
+[lo] U(m, m,) = @ + k/2 log mca mc, y,(m, m,) 
+
+pour respectivement le ribose et l'arabinose. Si dans l'expres-
+sion [lo], mca est toujours la molalitC analytique en Ca2+, dans 
+[9], la concentration en ions libres est [Ca],, une fraction de 
+ceux-ci Ctant associCe avec le ribose. En faisant l'hypothbe 
+que pour m, = m ~, y+(m, mA) = y,(m, mR), on tire 
+
+[Gal, 
+
+[ l l ] U(m, m,) -U(m, mA) = k/2 log -m 
+
+Comme nous l'avons dit plus haut, cette difference ne dCpend 
+pratiquement pas de m. La mCthode de Leden (10) nous permet 
+d'Ccrire la fonction 
+
+Puisque nous opCrons avec un exces de ribose et que le taux 
+d'association est faible, il est normal d'obsemer que 
+
+m 
+
+[14] ---1 + P,[R] + P2[R]Z -constante 
+
+[CaIR 
+
+quel que soit m si [R] -m,. De toute f a ~o n , 
+
+cette mCthode 
+consistera 2 calculer F (R) connaissant m/[Ca],, c'est-a-dire 
+
+[Ca], et [R] = m~ -m + [Ca], 
+
+L'Ctude d'une deuxikme cellule galvanique comportant une 
+jonction liquide va nous permettre d'acdder aux mCmes gran-
+deurs que ci-dessus moyennant des hypothkses diffkrentes. La 
+cohCrence des rksultats obtenus par les deux mCthodes pourra 
+Ctre considCrCe comme un critkre de leurs validitis respectives. 
+La cellule 
+
+[IS] Electrode h CalCaCl,(rn), sucre (rnJ I ~~3 ~~~~! I H g z 
+
+posskde une double jonction liquide qui permet d'Cviter la 
+jonction directe de la solution CtudiCe avec 1'Clectrode au calo-
+mel (I'expCrience montre, dans ce cas, une grande instabilitC 
+
+des tensions mesurtes due probablement a la prCsence des ions 
+
+mercureux). Avec ce montage, les tensions sont parfaitement 
+stables et reproductibles. La tension de cette cellule s'Ccrit: 
+
+o i ~ UZ est la tension standard de llClectrode 2 calcium, UR la 
+
+tension de 1'Clectrode de rCfCrence et U, la tension de la pre-
+mikre jonction liquide. Les hypotheses de travail sont ici 
+
+c'est-a-dire que la valeur de la tension de jonction ne dCpend 
+pas de la nature du sucre. De plus, comme plus haut, 
+
+Exptrimentalement, on constate que la difference U(m, m,) -
+
+U(m)dCpend de la concentration m en Clectrolyte, contraire-
+ment 2 ce que nous avions constate avec la cellule sans jonction 
+
+(ceci traduit trks probablement la variation de Uj avec m). Par 
+
+contre, la diffkrence U(m, mR) -U(m, mA) est sensiblement 
+indkpendante de m. On pourra donc, comme plus haut, acctder 
+a la grandeur m/[Ca], et calculer la constante d'association 
+spCcifique Ca2+-ribose. 
+
+Partie experimentale 
+L'Clectrode sClective aux ions CaZC est une Orion 93-20,l'klectrode 
+AgCllAg une Tacussel et I'klectrode au calomel h double jonction une 
+Tacussel RDJ 17. Le millivoltmMre tlectronique Tacussel ISIS 20000 
+Can. J. Chem. Downloaded from www.nrcresearchpress.com by 87.160.185.190 on 03/27/14 
+
+For personal use only. 
+
+
+MOREL ET LHERMET 
+
+264 1 
+
+d'obtenir les parambtres d'interaction. Un tel traitement graphi-
+que donne ici: 
+
+2vgER = -1160 J mol-2 kg 3vgERR = +750 J m ~l -~ 
+kg2 
+
+FIG. 2. Variation de tension 6U, de la cellule Clectrochimique 
+[15] avec la rnolalitC en sucre m,. O A mcaclz = 5 x 
+
+. 
+A mcaclz 
+
+= 2 x lo-' (molalitCs en Ca2' par rapport 5 I'eau). 
+
+(4 
+
+-3 -
+
+Les valeurs de A U(R -A) = SUR -SUA permettent de 
+calculer (relations [l 11 et [12]) la fonction de Leden F (R). Pour 
+
+a r a binose A 
+
+la cellule [I], les valeurs de AU correspondent aux inter-
+polations effectutes sur la courbe moyenne de 3 essais B des 
+
+permet de lire le 1 / 100' de mV. 
+
+L'eau est tridistillke et dCgazCe avant usage. 
+Les sucres sont des produits Fluka Puriss pour analyse utilises 
+comme tel; le chlorure de calcium un produit Merck Pro Analysi. 
+Toutes les solutions sont rCalisCes par pesCe et I'addition de la 
+
+solution concentrke en sucre se fait i I'aide d'une burette gravirnk-
+
+trique Mettler P 160 N. La cellule de rnesure est thermor6gulCe par 
+circulation d'eau, la stabilite en ternpkrature Ctant de I'ordre de 1/100' 
+de degrC. 
+
+.5-
+
+Resultats 
+Les figures 1 et 2 montrent, respectivement, les variations de 
+la tension des deux cellules galvaniques ttudites, soit SU, = 
+U(m, m,) -U(m) en fonction de la concentration en sucre de 
+la solution. Notons que malgrt le faible domaine de variation 
+des tensions mesurtes (au maximum 5 mV), celles-ci sont 
+connues avec une prtcision remarquable (la reproductibilitt des 
+mesures et de l'ordre de 20,02 mV). Pour la cellule [I] (fig. 
+l), on voit que SU, est identique pour m = 5 X 
+et m = 
+1 X lo-' en CaC12, ce qui justifie notre prtctdente hypothbse. 
+Au contraire, pour la cellule B jonction liquide [ 151 (fig. 2), S Us 
+dtpend de la concentration en CaC12. 
+Les rtsultats des calculs sont regroupts dans le tableau 1. 
+Les enthalpies libres standard de transfert de CaCl, de l'eau aux 
+solutions de ribose ( A G ~) et aux solutions d'arabinose ( A G ~) 
+sont calcultes grice B la relation [6]. En portant AGy/rn, en 
+fonction de m, (relation [7]), une extrapolation lintaire permet 
+
+I 
+tion ne met donc pas en tvidence la formation du complexe 
+
+0,1 
+42 ms 
+
+03 
+
+0,4 
+
+CaR,, puisque la pente P2 devrait alors Ctre positive. L'extra-
+polation B concentration nulle en sucre conduit B PI = 0,89 2 
+
+FIG. 1. Variation de tension 6U, de la cellule Clectrochimique 
+0,10 environ. pour la cellule ~151, les calculs de F(R) sent 
+
+[l] avec la molalitC en sucre m,. . 
+A mcacl, = 0 , l ; 0 mcaclz = 
+
+5 x 
+(molalit6s en CaZ' par rapport a I'eau). 
+
+effectuts pour deux concentrations en CaC12 (m = 0,005 et 
+0,02) et l'on voit que AU dtpend peu de cette concentration. 
+
+r i b o s e 
+
+.o 
+
+Les valeurs de F (R) sont pratiquement indtpendantes de m,, 
+concentration en sucre, et le complexe CaR, n'est pas mis en 
+tvidence dans le domaine ttudit; on admettra donc que F(R) = 
+
+PI. Pour m = 0,005 on trouve une valeur moyenne PI = 0,93 
+
+* 0,07 et pour m = 0,02, PI = 0,93 2 0,16. 
+
+molalitts difftrentes en CaCl, (0,005, 0,02, 0,l). La fonction 
+F(R) dtcroit de faqon significative quand m, croit; cette varia-
+
+Discussion 
+L'enthalpie libre standard de transfert de CaC12 de l'eau aux 
+solutions de ribose est ntgative alors que la grandeur de trans-
+fert de l'eau aux solutions d'arabinose est positive. C'est la 
+manifestation immtdiate de l'interaction sptcifique du premier 
+de ces deux pentoses isombres avec I'ion Ca2+. Quantita-
+tivement,. cette interaction sptcifique est caracttride par la 
+difference 
+
+2v(gER -gEA) = 2gcs = -21 10 J mol-I (voir relation [8]) 
+
+si l'on fait l'hypothbse de l'identitt des interactions non sptci-
+fiques entre CaCl, d'une part, et ribose ou arabinose d'autre 
+part. Nous n'interprtterons pas ici les parambtres g relatifs aux 
+triplets, mais remarquons cependant que g,,, est positif, ce qui 
+ne plaide pas pour I'existence du complexe CaR2. 
+
+Les calculs de la constante d'association conduisent B PI = 
+0,89 avec la cellule [l] et PI = 0,93 avec la cellule [15]. 
+
+Compte tenu des incertitudes tvalutes, la bonne concordance 
+de ces deux rtsultats montre que les hypothbses formultes sont 
+satisfaisantes en premibre approximation. Ces calculs ne con-
+duisent pas, eux non plus, B la prise en compte d'un complexe 
+du type CaR,. 
+Les rtsultats obtenus prtctdemment par des mtthodes poten-
+
+tiomttriques sont: d'une part (5), PI = 1,6 par une mtthode de 
+
+compttition entre Ca2+ et Pb2+ en prtsence de NaC104 1 M, la 
+concentration en ribose ttant 0 , l M et celle en ion Ca2+ variant 
+
+jusqu7B0,15 M; d'autre part (6), PI = 1,l et P2 = 8,5 avec une 
+
+solution 0,l M en ribose et des concentrations en Ca2+ allant 
+jusqu'a 0,16 M. Au contraire des exptriences rtalistes ci-
+dessus, les mtthodes que nous prtsentons consistent B faire 
+
+varier la concentration en sucre alors que celle de CaC12 reste 
+constante. Compte tenu de l'importance des facteurs d'activitt 
+dans I'expression de la constante thermodynamique d'tqui-
+libre, il est important de prouver, comme nous l'avons fait, que 
+les rtsultats obtenus ne dtpendent pas de la concentration en 
+CaCl,. On s'affranchit tgalement de la prtsence de tout sel de 
+fond dont on ne peut, a priori, ntgliger les interactions des ions 
+avec la moltcule de sucre. 
+La valeur que nous obtenons pour PI, soit environ 0,9, est en 
+Can. J. Chem. Downloaded from www.nrcresearchpress.com by 87.160.185.190 on 03/27/14 
+
+For personal use only. 
+
+
+CAN. 1. CHEM. VOL. 63, 1985 
+
+TABLEAU 1. Enthalpies libres standard de transfert de CaCI, de I'eau aux solutions d'arabinose et 
+
+de ribose de molalitC m, (cellule [I]) et fonctions de Leden F (R) de la complexation du calcium par 
+le ribose (cellule [l] et cellule [IS]) 
+
+Cellule [l] 
+Cellule [I 51 
+
+m, 
+
+-A G ~ 
+A G ~ -AU 
+-AU 
+-AU 
+
+(mol kg-') 
+(J mol-') 
+(J mol-') 
+(mV) 
+F(R) 
+(mV) 
+F(R) 
+(mV) 
+F(R) 
+
+0,05 
+55 
+45 
+0,55 
+0,lO 
+108 
+95 
+1,06 
+0,15 
+160 
+145 
+1,52 
+0,20 
+205 
+195 
+1,98 
+0,25 
+245 
+240 
+2 9 
+0,30 
+280 
+285 
+2,86 
+0,35 
+315 
+335 
+3,27 
+0.40 
+340 
+380 
+3,66 
+0,45 
+370 
+430 
+3,98 
+
+accord passable avec la moyenne que l'on peut calculer en 
+considCrant, qu'a l'kquilibre, la solution de ribose contient 
+environ: 35% (soit 60% de 59%) de P-pyranose 'C4 (P = 0,8), 
+21% de a-pyranose (P = 3,4) et 6,5% de a-furanose (P = 5,3) 
+(1). Avec ces valeurs donnCes a 31°C par Angyal, le calcul 
+
+conduit en effet h une valeur moyenne pour PI Cgale a 1,3. Les 
+
+deux expressions de l'enthalpie libre d'interaction spCcifique 
+entre le calcium et le ribose, d'une part gcaR et d'autre part PI, 
+sont naturellement reliCes. La relation qui existe entre 
+deuxibme coefficient du viriel et constante d'association en 
+phase gazeuse peut &amp;tre ttablie de faqon trbs simple (1 1). Pour 
+ce qui concerne la thermodynamique statistique des solutions, 
+Wood et al. (12) ont comparC les dCveloppements possibles du 
+coefficient osmotique d'une solution, +MM, exprim6 dans les 
+conditions de McMillan-Mayer (T, n, c): d'une part le dkve-
+loppement en strie des activitks oh intewiennent les constantes 
+de "Sociation", d'autre part le dkveloppement en sCrie des 
+concentrations molaires avec les coefficients du viriel. On peut 
+montrer que les coefficients d'interaction par paires de type g,, 
+de la relation [7] intewiennent dans le dkveloppement du coef-
+ficient osmotique +LR (conditions de Lewis et Randall qui sont 
+celles de nos mesures, soit T, P, m) sous la forme 
+
+si on se limite au coefficient d'interaction par paires d'espbces 
+diffkrentes dans le cas mi = mj = m, pour simplifier la prC-
+sentation. Dans les conditions de McMillan-Mayer, le dkve-
+loppement du coefficient osmotique s'Ccrit 
+
+[I81 + M M = 1 + BMM c 
+
+et l'on peut montrer (13) que 
+
+ou p0 est la masse volumique et Po le coefficient de compres-
+
+sibiliti5 isotherme du solvant, vy et v? les volumes molaires 
+
+partiels h dilution infinie des espbces i et j en interaction. Ici, 
+
+vf = 0,095 L mol-' (14) et vg2+ = -0,029 L mol-' (15). Le 
+
+dernier terme de [19] Ctant nigligeable, on trouve 
+
+Compte tenu de la forme des dCveloppements en fonction des 
+
+concentrations que nous avons utilisCs ici, on peut montrer que 
+la relation fondamentale CvoquCe plus haut s'Ccrit 
+
+ou, en toute rigueur, PI est la constante thermodynamique 
+
+d'association dans 1'Cchelle des molaritks. Celle-ci, dans l'eau, 
+est naturellement trbs voisine de celle que nous avons calculCe 
+plus haut dans 1'Cchelle des molalitCs. Comme on voit, cette 
+relation est vCrifiCe de faqon trbs satisfaisante dans le cas que 
+nous venons d'examiner. Notons que la relation [20] peut 
+s'Ccrire avec une approximation en ginbra1 acceptable 
+
+Cet exemple nous permet d'apprkcier la cohCrence des deux 
+diffkrents langages utilisCs pour exprimer l'interaction entre 
+deux espbces en solution. En thermodynamique statistique, 
+c'est B M M , 
+grandeur directement like au potentiel de force 
+moyenne (12), qui caracttrise fondamentalement cette inte-
+raction. 
+On peut s'interroger sur les causes de la petite diffirence 
+
+obsewke sur les valeurs de PI obtenues respectivement avec les 
+
+cellules [I] et [15], soit 0,89 et 0,93. La premibre cellule fait 
+
+intewenir les interactions des anions chlorures avec le sucre, 
+interactions qui sont eliminCes en supposant que 
+
+Si l'on considbre les valeurs des termes triplet ERR et ~E A A , 
+on 
+voit qu'elles sont de signes opposCs; on peut en conclure que 
+les interactions non spkcifiques avec les deux pentoses iso-
+mBres peuvent Ctre notoirement diffkrentes. 
+I1 est tout 2 fait probable que les interactions impliquant les 
+ions C1-contribuent 2 cette diffkrence et que l'hypothbse ci-
+dessus n'est pas rigoureusement exacte. Ainsi, les rksultats 
+obtenus en Ctudiant la cellule [15], et dont on a vCrifiC qu'ils ne 
+dipendaient pas de la concentration en CaCl,, peuvent Ctre 
+considCrCs comme plus satisfaisants. 
+
+Conclusion 
+Nous avons utilisC et discutC deux mCthodes potentio-
+mbtriques qui permettent de mesurer de faqon satisfaisante 
+l'interaction spkcifique entre le cation Ca2+ et les skquences 
+d'hydroxyles favorables h la "complexation" d'un sucre. Ces 
+mCthodes consistent a comparer le sucre en question avec un 
+Can. J. Chem. Downloaded from www.nrcresearchpress.com by 87.160.185.190 on 03/27/14 
+
+For personal use only. 
+
+
+MOREL ET LHERMET 
+
+2643 
+
+isomkre dont la structure ne permet pas d'interaction spCcifique 
+avec le cation. 
+Nous proposons pour l'interaction sptcifique Ca2+ -
+
+D-(-)-ribose dans l'eau, B 25"C, une valeur de la constante 
+d'association Cgale B 0,93. Le complexe comportant deux 
+
+sucres pour un calcium n'a pas CtC mis en Cvidence. 
+Cette Ctude nous a permis de comparer les deux langages 
+possibles pour caractkriser le phCnombne de "complexation", 
+celui de l'interaction par paire et celui de la constante d'asso-
+ciation. 
+
+1. S. J. ANGYAL. Aust. J. Chem. 25, 1957 (1972). 
+2. S. J. ANGYAL. Carbohydrates in solution. Advances inchemistry 
+Series 117, American Chem. Soc., Washington, D.C. 1973. 
+3. R. E. LENKINSKI et J. REUBEN. J. Am. Chem. Soc. 98, 3089 
+(1 976). 
+4. M. C. R. SYMONS, J. A. BENBOW et H. PELMORE. J. Chem. Soc. 
+Faraday Trans. 1, 78, 3671 (1982). 
+5. L. G. EK~TROM et A. OLIN. Acta Chem. Scand. Ser. A, 31, 838 
+
+(1 977). 
+
+6. M. TOMASKOVIC, Z. CIMERMAN, Z. STEFANAC, E. PRETSCH et 
+J. BENDL. Microchem. J. 27, 372 (1982). 
+7. R. A. ROBINSON et R. M. STOKES. Electrolyte solutions. 2&amp;me 
+Cd. Butterworths, London. 1959. p. 481. 
+8. Y. POINTUD, J. JUILLARD, J.-P. MOREL et L. AVEDIKIAN. Elec-
+trochim. Acta, 19, 229 (1974). 
+9. G. PERRON, D. JOLY, J. E. DESNOYERS, L. AVEDIKIAN et J.-P. 
+MOREL. Can. J. Chem. 56, 552 (1978). 
+10. F. R. H~RTLEY, C. BURGESS et R. ALCOCK. Dans Solution equi-
+libria. Edite' par Ellis Horwood. Chichester, U.K. 1980. p. 67. 
+11. K. S. PIZER. Dans Activity coefficients in electrolyte solutions. 
+Vol. I. ~dite' par R. M. Pytkowicz. CRC Press, Boca Raton, 
+U.S.A. 1979. 
+12. R. H. WOOD, T. H. LILLEY et P. T. THOMPSON. J. Chem. Soc. 
+Faraday Trans. 1, 74, 1301 (1978). 
+13. H. L. FRIEDMAN. J. Solution Chem. 1, 387 (1972). 
+14. F. FRANKS. Duns Biochemical Thermodynamics. Edit6 par 
+M. N. Jones. Elsevier Scientific Publishing Company, New 
+York. 1979. p. 64. 
+15. F. J. MILLERO. Duns Water and aqueous solutions. Editk par 
+R. A. Home. Wiley -Interscience, New York. 1972. p. 545. 
+
+Can. J. Chem. Downloaded from www.nrcresearchpress.com by 87.160.185.190 on 03/27/14 
+
+For personal use only. 
+
+
+
+	
+

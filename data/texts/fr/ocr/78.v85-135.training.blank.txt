@@ -1,0 +1,743 @@
+
+	
+
+		
+
+	
+
+	
+
+Synthese et hydrolyse d'orthoesters trioxa-2'7'8 bicyclo[3.2.1] octanes et 
+trioxa-2'8'9 bicyclo[3.3.1] nonanes 
+
+OTMANE BOUAB ET G ~K A R D 
+
+LAMATY 
+Laboratoire de Chirnie Orgat~ique Physique, Univer-.site des Sciences et Tectirliq~ies du Languedoc, 
+Place Eugetze Batcrillon, 34060 Motltpellier Cedex, Franc,e 
+
+ET 
+
+CLAUDE MOREAU 
+
+Laboratoire de Chitnie Orgcrt~ique Physique et Cit~Ptiqrie Chimique AppliquPes (U.A.CNRS 4 / 8 ) , 
+Ecole Natiot~ale Supe'rieure de Chitnie de Montpellier, 8.. rue Ecole Nortnale, 34075 Montpellier Cedex, France 
+
+Requ le 30 mars 1984 
+
+OTMANE BOUAB, GERARD LAMATY et CLAUDE MOREAU. Can. J . Chem. 63, 816 (1985). 
+Les vitesse d'hydrolyse des orthoesters trioxa-2,7,8 bicyclo[3.2. I] octanes et trioxa-2,8,9 bicyclo[3.3. I ] nonanes substituts 
+
+en position I (R = H, CH?, C,HS) ont ttt dttermintes i deux temptratures dans un rntlange eauldioxanne 40:60 en volume. 
+
+Ces nouveaux resultats confirment le cornportement gtntralernent observt dans I'hydrolyse des orthoesters ayant une con-
+formation favorable pour s'hydrolyser avec contr6le sttr6oClectronique. 
+
+OTMANE BOUAB, GERARD LAMATY, and CLAUDE MOREAU. Can. J. Chem. 63, 816 (1985). 
+The rates of hydrolysis of I-substituted 2,7,8-trioxabicyclo[3.2. I]octanes and 2,8,9-trioxabicyclo[3.3. Ilnonanes (R = H, 
+CH3, ChH5) have been determined at two temperatures in dioxanlwater (60:40 by volume). These new results confirm the 
+behaviour generally observed in the hydrolysis of orthoesters which have a favourable conformation to hydrolyze under 
+stereoelectronic control. 
+
+Introduction 
+Dans un prCcCdent travail concernant l'hydrolyse des trioxa-
+2,4,10 adamantanes ( I , 2) nous avons Cmis l'hypothkse que 
+I'Ctape dCterminant la vitesse de rCaction Ctait I'addition de 
+I'eau sur l'ion carboxonium intermkdiaire et non la formation 
+de cet ion; en effet, I'encombrement sterique dQ a la presence 
+d'un cycle cyclohexanique est tel que le rCaction favorisCe est 
+le retour vers I'acide conjugue du substrat (Ctape k-?, schCma 
+I), hypothbe conf~rmCe depuis par des travaux recents de 
+
+McClelland (3). ' 
+
+Afin de vkrifier que le changement d'Ctape lente observC 
+dans I'hydrolyse des trioxaadamantanes Ctait dQ a un en-
+combrement stkrique a I'approche de l'eau dans l'ion carboxo-
+nium intermediaire, nous avons procede a 1'Ctude de modkles 
+simples (4) et nous presentons maintenant I'Ctude rCa11sCe sur 
+deux sCries de composCs dont la structure est trks voisine de 
+celle des trioxaadamantanes -les trioxa-2,7,8 bicyclo[3.2.1] 
+octanes substituCs en position I :1 (R = H), 2 (R = CH,), 3 (R 
+= C6H5) et les trioxa-2,8,9 bicyclo[3.3.1] nonanes substituCs 
+en position 1 : 4 (R = H), 5 (R = CHI) et 6 (R = C6H5) -mais 
+dans lesquels le retour interne vers l'acide conjuguC du substrat 
+
+5 partir de l'ion carboxonium intermkdiaire est fortement im-
+
+probable (schCma 2), I'encombrement stCrique d'une chaine 
+hydroxylCe Ctant moindre que celui d'un cycle cyclohexanique. 
+
+Dans un premier temps, nous avons procedC ti la synthkse 
+
+des produits qui n'ktait pas connue pour quatre d'entre eux, 2, 
+3, 5 et 6; dans un deuxieme temps, nous avons procCdC a 
+
+I'analyse des produits de la rCaction d'hydrolyse et a la dCter-
+mination des constantes de vitesse d'hydrolyse et des grandeurs 
+d'activation. 
+
+Resultats experimentaux 
+
+Synth2se 
+
+Les orthoesters 1, 2 et 3 ont CtC prCparCs par reaction de 
+transesterification ? i 
+partir du butanetriol-1,2,4 et des ortho-
+carboxylates de trimtthyle ou triethyle correspondants; les or-
+thoesters 4, 5 et 6 ont Ct C synthCtisCs, par reaction de trans-
+estkrification egalement, a partir du pentanetriol-1,3,5 et des 
+orthocarboxylates de trimithyle ou triCthyle correspondants. 
+Les proprietCs physico-chimiques des quatre nouveaux pro-
+duits -2 , 3 , 5 et 6 -sont donnees dans la partie expkrimentale. 
+
+Analyse des produits d e la rkaction 
+
+L'analyse des produits d'hydrolyse peut apporter Jes ren-
+seignements utiles sur le sens d'ouverture des orthoesters. 
+L'hydrolyse des orthoesters 1, 2 et 3 peut conduire, tout en 
+respectant les rkgles sttrCoelectroniques, a trois produits (10, 
+11 et 12, schCma 3); un seul produit d'hydrolyse (10) est 
+observC. De msme, l'hydrolyse des orthoesters 4, 5 et 6 peut 
+conduire, tout en respectant les m&amp;mes rkgles stCrCo-
+Clectroniques, a deux produits (13 et 14, schCma 4); la aussi, 
+un seul produit d'hydrolyse est observe (13). 
+Ces aspects seront dCveloppCs plus en detail dans la partie 
+discussion. 
+
+lent 
+
+0 
+0 
+0 
+
+' Aussi R. A. McClelland. Cornrnunicatlon personnelle 
+
+Can. J. Chem. Downloaded from www.nrcresearchpress.com by 87.160.185.190 on 03/27/14 
+
+For personal use only. 
+
+
+BOUAB ET AL. 
+
+TABLEAU 1. Hydrolyse des trioxa-2.7.8 bicyclo[3.2. I] octanes substituCs en posi-
+tion I 
+
+Trioxa-2,7,8 bicyclo[3.2. I] octane (1) 
+HCI 
+
+M 
+
+k,,,, = 0,134 X lo-' s ' i 29,0°C 
+
+k,,,, = 0,360 x lo-.' s-' i 41 3°C 
+
+HCOOH/HCOONa [HCOOH]/[HCOON~] = I ; pH,,,, = 5.56" 
+
+HCOOH (M) 
+0,0805 
+0,0402 
+0,O 103 
+0 (intercept)" 
+k,,,, x lo's-' i 29,0°C 
+0,172 
+0,160 
+0,156 
+0,153 (r = 0,981) 
+
+HCOOH (M) 
+0,0402 
+0,0205 
+0,0103 
+0 (intercept)" 
+
+kc,,, x 10' 
+
+i 28,7"C 
+0,871 
+0,800 
+0.768 
+0,73 1 ( r = 0,999) 
+k , , , , , x I O s ~l i 4 1 , 8 " C 
+0,205 
+0,186 
+0,176 
+0,166(r=0,999) 
+
+CH2COOH/CH2COONa [cH~COOH]/[CH~COON~] = I ; ~H,,,I = 6 , 8 9 
+
+CHICOOH (M) 
+0.082 
+0.042 
+0.01 1 
+0 (intercept)" 
+
+k,,,, X 10' s-' 29,0°C 5,89 
+
+4.8 1 
+3.96 
+3.66 ( r = 0,999) 
+
+Phitlyl-1 trio,ra-2,7,8 bi(.yclo[3.2. I] oc.tcrtle (3) 
+HCOOH/HCOONa [HCOOH]/[HCOON~] = I ; pHmcl = 5,57" 
+
+HCOOH (M) 
+0,0803 
+0,0405 
+0,0104 
+O(intercept)" 
+k , , , , x l 0 ' s ' i 2 8 , 7 " C 
+0.485 
+0,421 
+0.348 
+0,333(r=0,993) 
+
+k , , , , x 1 0 ' s ' i 41,4"C 
+
+1,147 
+0,971 
+0,789 
+0,747 (r = 0,996) 
+
+CHzCOOH (M) 
+0,082 
+0,042 
+0,01 1 
+0 (intercept)" 
+k,,,, x 10' s-' a 29,0°C 
+4,46 
+3,35 
+2,67 
+2.35 (r = 0,998) 
+
+"pH,,, = pH lu + 0,4 (5). 
+
+"Extrapolation B concentration nulle (rigression linkdire). 
+
+trioxa-2,7,8 bicyclo[3.2. I] octanes substitues en position 1 et 
+
+~J 
+
+R K J R des trioxa-2,8,9 bicyclo[3.3.1] nonanes substitues en position 
+
+1 est soumise a une catalyse acide genkrale, type de catalyse 
+compatible avec le concept de contr6le stereoelectronique qui 
+0 
+0 
+0 
+
+irnplique que la rupture d'une liaison C-0-alkyle 
+est favo-
+
+l R = H 
+4 R = H 
+7 R = H 
+
+risee si les deux autres heteroatomes ont chacun une paire 
+
+2 R = CH2 
+5 R = CH2 
+8 R = CHI 
+
+d'electrons libres antiperiplanaire par rapport a cette liaison 
+
+3 R = ChHs 
+6 R = ChHs 
+9 R = C,Hs 
+
+(7). 
+
+Re'sultats cinttiques 
+L'hydrolyse acido-catalyske des trioxa-2,7,8 bicyclo[3.2.1] 
+octanes substituts en position 1 et des trioxa-2,8,9 bicyclo-
+[3.3.1] nonanes substituks en position 1 a Cte effectuee dans le 
+solvant eauldioxanne 40: 60 en volume et 2 deux temperatures. 
+Les couples acidelbase utilisks pour tamponner le milieu sont 
+acide formique/formiate de sodium et acide acCtiquelacCtate 
+de sodium. La force ionique a ete rnaintenue constante a 0,1 M 
+par addition de chlorure de potassium. Les resultats cinktiques 
+sont rassemblCs dans les tableaux I et 2 (la reproductibilitii 
+moyenne est de 3%). Les constantes catalytiques k E l , ~+ , 
+
+kHCooH 
+
+et kcH3cooH ont Ct C obtenues en exploitant les resultats des 
+tableaux I et 2 et en tenant compte des effets dus a la presence 
+du dioxanne (5, 6); ces constantes ainsi que les grandeurs 
+d'activation sont reportees dans le tableau 3. 
+
+lnterprttation des rtsultats expe'rimerztaux 
+L'exarnen des tableaux I et 2 rnontre que I'hydrolyse des 
+
+Par ailleurs, les resultats expkrimentaux sont en accord avec 
+un mecanisme dans lequel l'etape determinant la vitesse de 
+rkaction est la formation d'un ion carboxonium intermediaire 
+(8, 9): les entropies d'activation sont du m&amp;me ordre de gran-
+deur que celles reportees dans I'hydrolyse d'autres systkmes 
+cycliques (4), faiblement negatives dans la reaction catalyske 
+par H30+ (mecanisrne unimolCculaire Al) et forternent nCga-
+tives dans la reaction catalyske par les acides faibles (me-
+canisme bimolCculaire A S,2); le remplacernent d'un hydro-
+gene par un mkthyle oh un phenyle entraine une augmentation 
+de la vitesse de I'hydrolyse en accord avec une meilleure sta-
+bilisation de l'etat de transition pour les produits substituks et 
+en accord Cgalement avec I'absence dlemp&amp;chernent stCrique a 
+la conjugaison dans les derives cycliques, ernpechernent stC-
+rique observe en serie aliphatique (tableau 4) par Kresge et coll. 
+(10). 
+Ces resultats font donc apparaitre un comportement totale-
+rnent different de celui observe avec les trioxa-2,4,10 ada-
+mantanes substituks en position 3 (tableau 5) et confirrnent la 
+particularit6 du systerne adamantyle. 
+Can. J. Chem. Downloaded from www.nrcresearchpress.com by 87.160.185.190 on 03/27/14 
+
+For personal use only. 
+
+
+CAN. J. CHEM. VOL. 63. 1985 
+
+Discussion 
+Sens d'ouverture duns l'hydrolyse des trioxa-2,7,8 bicyclo-
+13.2 .I] octanes substituts en position 1 
+En appliquant les regles ster~oelectroniques (1 I), I'hydro-
+lyse des orthoesters 1, 2 et 3 peut s'effectuer par rupture de 
+I'une quelconque des liaisons C-0, 
+C(1)-0(7), 
+C(I)-O(8) ou C(1)-O(2) (schCma 5 ) pour donner les ions 
+carboxoniums cycliques a 5 , 6 ou 7 C!Cments et conduire aux 
+produits d'hydrolyse 10, 11 ou 12. Experimentalement, 
+I'hydrolyse de I'orthoester 3 (R = C6H5) conduit a ua seul 
+produit (10) ce qui exclurait la formation de I'ion carboxonium 
+
+cyclique a 7 Clements et donc la rupture, en particulier au cours 
+
+de 1'Ctape cinktique, de la liaison C(1)-O(8). Par ailleurs, si 
+
+on Climine le facteur tension de cycle dans I'etat initial, facteur 
+qui favoriserait la rupture de la liaison C( I )-O(7) ( lo), il ne 
+reste que les stabilitCs relatives des ions carboxonium pour 
+trancher et les avis sont partagCs; selon Paulsen (1 l), les ions 
+dioxolCnium-1,3 seraient plus stables que les ions dioxCnium-
+
+1,3 alors que pour McClelland ce serait I'inverse (1 2) .' 
+
+Sens d'ouverture duns l'hydrolyse des trioxa-2,8,9 bicyclo-
+[3.3.1] nonanes substituts en position I 
+En ce qui concerne le sens d'ouverture des orthoesters 4, 5 
+et 6, la situation est moins complexe; deux ions cycliques 
+peuvent se former tout en respectant les mCmes regles stirCo-
+Clectroniques (schema 6); il ne peut y avoir que deux produits 
+d'hydrolyse, 13 ou 14. ExpCrimentalement, I'hydrolyse de 
+I'orthoester 6 conduit au produit 13 ce qui exclurait la for-
+mation d'un ion carboxonium 5 8 ClCments et par conskquent la 
+rupture cinCtique de la liaison C(1)-O(9). 
+
+Position de l'e'tat de transition 
+Nous avons montrC dans un precedent travail (4) que les 
+effets de substituant Ctaient un des critkres qui permettaient 
+d'elucider le mCcanisme de I'hydrolyse des acCtals et des ortho-
+esters; le rapport kc,,,/kcH, permet, en particulier, de mieux 
+apprkcier la position de I'ttat de transition le long du chemin 
+rkactionnel: dans I'hydrolyse des orthoesters, ce rapport est 
+voisin de l'unit6, tant6t inferieur, tant6t supkrieur, mais loin du 
+rapport kc,H,/kcH, que I'on trouve dans I'hydrolyse des acCtals 
+(kChHS/kCH3 2 . 3O). 
+Les rapports kc,H,/kcH, determines dans ce travail, (kC~,HsIkCH3 
+= 0,4 i 0,9 pour la serie bicyclo[3.2. I] octane et kC,,,/kcH, = 
+0,7 a 1,l pour la sCrie bicyclo[3.3.1] nonane), confirment 
+I'analyse que nous avions faite, a savoir que seul un Ctat de 
+transition ayant peu de caractere ion carboxonium peut con-
+duire a un rapport kc,,,/kCH, inferieur a l'unitk, les effets in-
+ductifs (+I pour CH3 et --I pour C6HS) pouvant entrer en 
+
+Aussi H. K. Hall, Jr. Communication personnelle. 
+
+Can. J. Chem. Downloaded from www.nrcresearchpress.com by 87.160.185.190 on 03/27/14 
+
+For personal use only. 
+
+
+B O U A B ET A L 
+
+TABLEAU 2. Hydrolyse des trioxa-2.8.9 bicyclo[3.3. I] nonancs substituks cn posi-
+
+tion I 
+
+-
+-
+
+HCOOH (M) 
+0,0803 
+0,0405 
+0.0 104 
+0 (intcrccpt)" 
+
+k,,,, x 10' s-' B 28.8"C 
+
+0,894 
+0.810 
+0.723 
+0,703 ( r = 0.996) 
+
+k,,,, x 10's ' B 42,2"C 
+
+0,236 
+0,215 
+0.194 
+0,189 ( r = 0,997) 
+
+Mirhyl-1 frioxcr-2.8.9 biqclo[3.3.1] tlotlcrtle (5) 
+HCOOH/HCOONa [HcOOH]/[HCOON~] = I; pH,,,, = 5 , 5 6 
+
+HCOOH (M) 
+0,0803 
+0,0405 
+0.0 104 
+
+0 (intercept)" 
+
+x lo2 s -' B 13.7OC 
+
+0,715 
+0,609 
+0.469 
+0.446 ( r = 0.987) 
+k,,,,x10's'B29,2"C 
+0,201 
+0.160 
+0,132 
+0.120(r=0.999) 
+
+CH,COOH (M) 
+0,083 
+0,042 
+0.01 1 
+0 (intcrccpt)" 
+
+kclh, X lo2 s -' B 29.0°C 
+
+0,164 
+0.137 
+0. l l I 
+0.104 ( r = 0.998) 
+k , , h , x 1 0 ' s ' i 4 2 . 0 0 C 
+0,372 
+0.289 
+0,242 
+0.218(r=0.997) 
+
+Phinyl-1 rrioxcr-2 -8.9 bi(:vclo[3.3. I] trotlrrtle (6) 
+HCOOH/HCOONa [HcOOH]/[HCOON~] = I; pHwcl = 5-56" 
+
+HCOOH (M) 
+0.0405 
+0,0210 
+0,0104 
+
+0 (intercept)" 
+
+k , , , , x 1 0 s ' i 2 9 , 0 °C 
+0,132 
+0,107 
+0,0985 
+0,0853(r=0,994) 
+
+k,,,, x 10 s-' B 42,0°C 
+
+0.301 
+0.241 
+0,216 
+0.184 0-= 0.998) 
+
+CH,COOH (M) 
+0,082 
+0,042 
+0.01 1 
+0 (intercept)" 
+
+k,,,, x 10' s ' i 29,0°C 
+
+1,19 
+0,874 
+0,664 
+0,575 ( r = 0,999) 
+k , , , , ~l O ' s -' B 4 2 , O ~C 0,304 
+0.230 
+0,166 
+0 . 1 4 6 ( r = 0 , 9 9 9 ) 
+
+"pH,;,, = pH lu + 0.4 (5). 
+
+"Extrapolation i concentration nulle (regression IinCaire) 
+
+TABLEAU 3. Hydrolyse des orthoesters 1, 2. 3, 4, 5 et 6. Constantes cata-
+
+lytiques et grandeurs d'activation B 25,0°C 
+
+Produits 
+Catalyseur 
+
+k M ' s ) 
+
+AH* (kcal/rnolc)' 
+AS* (ue)" 
+
+1 
+
+H,O+ 
+HCOOH 
+H,O' 
+2 
+HCOOH 
+CH+2OOH 
+H,O+ 
+3 
+HCOOH 
+CH,COOH 
+4 
+H,O+ 
+HCOOH 
+H,O+ 
+5 
+HCOOH 
+CH,COOH 
+H'O' 
+6 
+HCOOH 
+CH,COOH 
+
+" I = 29.0°C. 
+
+"Erreur sur k,,,, &lt; 3%. 
+' Erreur sur AH ' &lt; 0,8 kcal/mol. 
+"Erreur sur AS* &lt; 3 cal/mol/K. 
+Can. J. Chem. Downloaded from www.nrcresearchpress.com by 87.160.185.190 on 03/27/14 
+
+For personal use only. 
+
+
+CAN. 1. CHEM. VOL. 63. 1985 
+
+TABLEAU 4. Constantes dc vitcssc relatives k k l ~ dans I'hydrolysc d'orthoestcrs 
+
+cvclioues et non cvcliaucs 
+
+OEt 
+
+I 
+
+R-C-OEt 
+
+R 
+
+0 
+
+I 
+
+RxOMe 
+OEt 
+
+TABLEAU 5. C~mparaison avec I'hydrolysc dcs trioxa-2.4, I0 adamantanes 
+
+Substrats 
+
+~H ~O + 
+
+AS' 
+Substrats 
+
+k11,o 
+
+AS* 
+Substrats 
+
+~H &gt; O I, 
+
+AS* 
+
+competition avec les effets rnksomkres (stabilisation de I'ion 
+
+carboxonium a la fois par CH, et C6H5). 
+
+Re'activite' 
+L'examen du tableau 3 rnontre qu'll n'existe pratiquernent 
+pas de difference de rCactivitC entre les series bicyclo[3.2. I] 
+octane et bicyclo[3.3.1] nonane pour un substituant donne, 
+confirmant ainsi de f a ~o n plus precise les rCsultats obtenus par 
+Hall et al. (12) pour les derives non substitues 1 et 4. 
+L'introduction d'un cycle a cinq chainons en sCrie 
+bicyclo[3.2. I] octane n'a donc pas de consCquence notable sur 
+la rCactivitC des orthoesters. Des observations s~milaires ont 
+d6ja t t t faites anterieurernent: il n'existe pas de difference de 
+reactivitk entre le ditthoxy-2,2 tetrahydrofuranne et le 
+diethoxy-2,2 tktrahydropyranne (7) pas plus qu'il n'en existe 
+entre les rnkthoxy-2 dioxolannes-1.3 et les methoxy-2 
+dioxannes-1,3 (4). De m&amp;rne un trava~l recent de Kresge en 
+sCrie blcyclo[2.2. I] heptane conflrlne I'absence de tension de 
+
+cycle ou tension angulaire dues la presence de cycles a cinq 
+ClCments dans I'hydrolyse des orthoesters (13). 
+Le fait que I'Ctat de transition de la reaction soit peu avancC 
+le long du chernin reactionnel n'est probablement pas etranger 
+au "tassernent" de la reactivitk des orthoesters; cependant, une 
+caractkristique commune a tous les orthoesters CtudiCs jusqu'g 
+rnaintenant est une orientation favorable des paires d'klectrons 
+libres sur les atornes d'oxygkne perrnettant I'hydrolyse avec 
+contr6le stCrCoClectronique. 
+
+Partie experimentale 
+
+Les spectres de rmn ' H ont CtC enregistrCs sur un appareil Varian 
+
+EM 390 (rCfCrence interne: TMS). 
+
+Synthkse 
+
+Les orthoesters I , 2, 3, 4. 5 et 6 ont Ct C prCparCs par rCaction de 
+
+transcstCrification a partir du butanetriol-1,2,4 (1, 2 ct 3) ou du 
+
+pcntanctriol-1,3,5 (4,s ct 6) et des orthocarboxylates de trimithylc ou 
+Can. J. Chem. Downloaded from www.nrcresearchpress.com by 87.160.185.190 on 03/27/14 
+
+For personal use only. 
+
+
+BOUAB ET AL. 
+
+tritthyle comespondants (schtrna 7). 
+1: La rnethode reportee par Crank et Eastwood (14) conduit i des 
+rendernents mtdiocres. Ce produit a Ctt obtenu en rnodifiant la pro-
+cedure reportee par Hall er 01. (12): un rntlange de 14,8 g (0.1 rnol) 
+d'orthoforrniate d'tthyle et l0,6 g de butanetriol-1,2,4 (Aldrich) est 
+chauffe i 100°C pendant 3 h sous pression norrnale. On recupkre ainsi 
+les deux prernikres rnolCcules d'alcool. La temperature est abaisste 
+50°C et on fait barboter de I'acide chlorhydrique gazeux sec pendant 
+2 rnin. Le melange est agitk pendant 15 rnin et la pression abaissee a 
+20 Tom (1 Tom = 133.3 Pa). En chauffant progressivernent, la troi-
+sikrne rnoltcule d'ethanol est libtrte et I'orthoester distillt. Une deu-
+xikrne distillation soignee perrnet d'obtenir 6 g d'orthoester 1 pur; Eb. 
+= 66-67"C/20Tom; rendernent: 52% (litt. (12) Eb. = 82"C/30Tom; 
+rendernent: 70%); rrnn 'H (CDCI,) 6: 1,2-1,4 ( I H, deux rnultiplets, 
+H4a), 2,l-2,5 (IH, rnultiplet syrnttrique, H4e), 3,6-4,l (4H, rnulti-
+plet, H rnethyleniques sur C3 et C6), 4,5 ( IH, rnultiplet, H5), 5,s 
+(IH, singulet, HI). 
+2: 16,2 g (0,I rnol) d'orthoacetate d'tthyle et 10,6 g de butane 
+triol-1,2,4 (0,l rnol) sont dissous dans 50 rnL d'alcool isobutylique 
+anhydre. Ce melange est chauffk progressivernent jusqu'i 100°C. Une 
+prernikre fraction distille i 78°C; une deuxikrne fraction distille i 
+
+100°C; en abaissant la pression a 20 Tom on recueille I'orthoester entre 
+
+67°C et 72°C. Aprks redistillation, on obtient 5 g d'orthocstcr 2 pur; 
+Eb. = 70°C/20 Tom; rendernent: 38%; rrnn 'H (CDC13) 6: 1,2-1,5 
+
+(IH, deux rnultiplets, H4a), 1.58 (3H, singulet, rntthyle sur CI). 
+2,2-2,5 (I H, rnultiplet syrnttrique, H4e), 3,7-4.2 (4H, rnultiplet, H 
+rntthyltniques sur C3 et C6). 4.6-4,8 (IH, rnultiplet, H5). 
+3: 3.7 g (0,02 rnol) d'orthobenzoate dc rntthyle et 2,2 g (0,02 rnol) 
+de butanetriol-1.2.4 sont chauffes progressivernent jusqu'i 140°C, 
+ptriode pendant laquelle on recueille du rntthanol. Le risidu visqueux 
+qui reste dans le ballon est distill6 pour donner 2 g d'orthoester 3; Eb. 
+= 120°C/0,5 Torr; rendernent: 60%; rrnn 'H (CDCI,) 6: 1,3-1,6 ( 1 H, 
+deux rnultiplets, H4a), 2,2-2,6 (IH, rnultiplet syrnttrique, H4e), 
+3,9-4,5 (4H, rnultiplet, H rntthyltniques sur C3 et C6), 4.80 (IH, 
+rnultiplet, H5), 7,3-7,8 (3H, massif, H arornatiques). 
+4: Cet orthoester a Ctt synthttist suivant la procedure dtcrite par 
+Hall et nl. (12); Eb. = 78"C/ 10 Tom; rendement: 83% (litt. (12) Eb. 
+= 78"C/ 10 Tom; rendernent: 75%; rrnn 'H (CDCI,) 6: 1,4-2,6 (4H, 
+massif, H rntthyltniques sur C4 et C6); 3,5-4,4 (5H, massif, H 
+mtthyltniques sur C3, C5 et C7), 5,78 (IH, singulet, HI). 
+
+5: Ce nouveau produit est prtpart selon la procedure utiliste pour 
+le compost 4; Eb. = 125"C/0,03 Tom; rendernent: 8 1 %; rrnn 'H 
+(CDCI,) 6: 1,4-2,6 (3H, singulet i 1,45, rntthyle surC1; 4H, massif, 
+H rnethyltniques sur C4 et C6), 3,5-4,5 (5H, massif, H methy-
+leniques sur C3, C5 et C7). 
+6: 2,4 g (0,02 rnol) de pentanetriol-1.3.5 et 3,7 g (0,02 rnol) 
+d'orthobenzoate de rntthyle sont dissous dans 80 rnL de xylkne anhy-
+dre et portes i reflux pendant 48 h en presence de 100 rng d'acide 
+paratoluknesulfonique. Au melange refroidi on ajoute une solution 
+saturte de carbonate de sodium. Aprks extraction du solvant, le pro-
+duit brut est distille. On obtient ainsi 1,5 g d'orthoester 6 pur; Eb. 
+I I I -I 13"C/0,08 Tom; rendernent; 37%; rrnn 'H (CDCIJ 6: 1,4-2,6 
+(4H, massif, H rntthyleniques sur C4 et C6), 3,4-4,6 (5H, massif, H 
+rnCthylCniques sur C3, C5 et C7), 7,2-7,7 (5H, massif, H aro-
+rnatiques). 
+
+Al~nlyse des produits d'hydrolyse 
+
+Aprks hydrolyse des orthoesters arornatiques 3 et 6 dans les condi-
+tions cinetiques, les produits d'hydrolyse sont analysts par rrnn 'H 
+(CDCI,). Dans les deux cas, la rrnn ne rtvkle, aux emeurs d'in-
+ttgration prks, qu'un seul proton en a de la fonction benzoate. 
+L'hydrolyse de 3 conduit donc essentiellernent h I'ester 10 (cf. schtrna 
+
+3) et I'hydrolyse de 6 conduit, quant a elle, uniquernent i I'estcr 13 
+
+(cf. schtrna 4). 
+
+Can. J. Chem. Downloaded from www.nrcresearchpress.com by 87.160.185.190 on 03/27/14 
+
+For personal use only. 
+
+
+822 
+
+CAN. J. CHEM. VOL. 63. 198.5 
+
+Ctrrtrc.tPristique,s rmr~ 'H des produits d'hjlclrolj~se (CDCI,) 
+10: 6 1.8-2.4 (2H. massif, CHI-CH20H), 2.85 (2H. massif, 
+
+0-H), 3.8-4.2 (4H. massif, CHI-0). 5,4-5.7 (IH, rnultiplet, 
+
+CH-OCOC6H,s), 7,3-7,6 et 7.9-8.1 (3H + 2H, deux rnultiplets. H 
+
+aromatiques). 
+
+13: 6: 1.6-2,4 (4H, massif, CH2-CH20H), 3.2-4,6 (6H. massif. 
+CH?OH), 5.1-5.4 ( I H, multiplet, CH-OCOCoHI). 7,3-7,6 et 
+
+7,9-8,l (3H + 2H, deux rnultiplets, H aromatiques). 
+
+Methodes cinetiques 
+
+Les rnkthodes cinCtiques sont analogues i celles dCcrites par ailleurs 
+(2, 5). 
+
+4. 0 . BOUAB, G. LAMATY, C. MOREAU et 0 . POMARES. NOUV. J. 
+Chim. 5, 175 (1981). 
+5. G. LAMATY, C. MOREAU et Z. MOULOUNCUI. Can. J. Chem. 61, 
+2643 (1983). 
+6. G. DouHERET. Bull. Soc. Chim. Fr. 1412 (1967). 
+7. 0 . BOUAB, C. MOREAU et M. ZEH AKO. Tetrahedron Lctt. 61 
+(1978). 
+8. E. H. CORDES et H. G. BULL. Chem. Rev. 74, 581 (1974). 
+9. T. H. FIFE. ACC. Chem. Res. 5, 264 (1972). 
+10. Y. CHIANC, A. J. KRESGE, P. SALOMAA et C. I. YOUNG. J. Am. 
+Chem. Soc. 96, 4494 ( 1974). 
+I I. P. DESLONGCHAMPS. Stereoelectronic effects in organic chem-
+istry. Pergarnon Press, London. 1983. 
+O. BOUAB, G. 
+et C. 
+12. H. K. HALL, JR., F. DE BLAUWE et T. PYRIADI. J. Am. Chern. 
+Cornmun. 678 (1978). 
+SOC. 97. 3854 (1975). 
+2. 0. B0UAB3 G. LAMAT', C. MOREAU. O. 'OMARES3 P. 
+13. R. A. BURT, Y. CHIANG, H. K. HALL, J R . et A. J. KRESGE. 
+
+DESLONGCHAMPS et L. RUEST. Can. J . Chem. 58. 567 (1980). 
+J. Am. Chern. Soc. 104. 3687 (1982). 
+3. R. A. MCCLELLAND et P. K. W. LAM. Can. 
+627 
+14. G. CRANK et F. W. EASTWOOD. Aust. J . Chern. 17, 1385 (1964). 
+(1984); 62, 1074 (1984). 
+
+Can. J. Chem. Downloaded from www.nrcresearchpress.com by 87.160.185.190 on 03/27/14 
+
+For personal use only. 
+
+
+
+	
+

@@ -1,0 +1,393 @@
+
+	
+
+		
+
+	
+
+	
+
+La photolyse du cyclohexene gazeux a 184,9 nm 
+
+GUY J . COLLIN ET H ~L ~N E 
+DESLAURIERS 
+Di/&gt;or.tettle/lt tles Scierlc~s Fot~tltr~~~er~tt~les, Ut~ive,:tifk tl~r Q~rPl&gt;ec. ir Cllico~ifirlii, 
+Cl~ico~ititni (Q~ii.), Ctrtiridn G7H 2Bl 
+Rcqu le 10 janvicr 1983 
+
+GUY J. COLLIN ct HELENE DESLA~RIERS. Can. J . Chem. 61, 1970 (1983). 
+La photolyse du cyclohcx&amp;ne gazeux a CtC systdmatiqucment dtudide h 184.9 nrn I'absence ou cn prCsence d'intcrcepteur 
+radicalairc tel que Oz, NO, H2S ou H1 entre 1 ct 70 Torr. En outre. le propane ou le soufre hcxafluord a CtC utilisC cornme 
+agent stabilisant. L'Cthylkne et Ic butadiknc-1,3 ont Ctd les seuls produits majeurs obscrvCs avec des rendcrnents quantiqucs 
+supdrieurs i 0.5 quelles quc soient les conditions expCrimentales. Lcs analyscs isotopiques de I'Cthylknc formd dans la 
+photolyse du cycIohexknc-3,3,6,6-(1, montrent la prksence preponddrantc dc la varidtd perhydrogknCe. Ces rdsultats, avec 
+d'autres observations tiries dc la IittCrature, favorisent un mdcanisme dc fragmentation de la moldcule cxcitde en unc Ctape 
+ou en deux dtapcs, mais dans ce cas via un intermediaire dont Ic temps dc vie cst plus court que cclui de la molCcule 
+photoexcitCc. 
+
+GUY J. COL-LIN and HELENE DESLAURIERS. Can. J . Chem. 61, 1970 (1983). 
+We have studied the 184.9 nrn photolysis of gaseous cyclohcxcne either in the absence or in the presence of radical 
+scavengers such as 02. NO, HZS, or HI at pressures between I and 70 Torr. Propane or sulfur hexatluoride has also been used 
+as stabilizing agent. In all cases, ethylene and I ,3-butadicne have rather high quantum yields (@ 2 0.5). The isotopic analysis 
+of the ethylene formed in the photolysis of cyclohexene-3,3,6.6-rl, shows the high importance of the perhydrogenated species. 
+These results, togcthcr with others taken from the literature, favor a one-step fragmentation mechanism or a double-step 
+mechanism involving an intermediate which has a lifetime shorter than that of the photocxcited molecule. 
+
+Introduction 
+
+La photochirnie du cyclohexene est relativernent bien 
+connue. DCja en 1965, DeMare et al. ont CtudiC la mercuri-
+sensibilisation de cet hydrocarbure a 254 nrn (I). L'ethylene et 
+le butadiene-1,3, en rendernents sirnilaires, sont les produits 
+rnajeurs avec toutefois des quantites fort appreciables de vinyl-
+cyclobutane et de cyclohexane. L'augrnentation de la pression 
+a un effet negatif sur les rendements des deux hydrocarbures 
+insaturCs tandis que celui du vinylcyclobutane atteint un rnaxi-
+mum a une pression de 5-10 Torr (665-1 330 N rn-I). Plus 
+tard, Lesclaux et al. ont CtudiC la photolyse directe de cet 
+hydrocarbure cyclique a 147, 123,6 et vers 105 nrn en presence 
+ou en l'absence de divers intercepteurs radicalaires (2). A 147 
+nm (8,4 eV) le systerne est relativernent simple: horrnis la 
+formation d e petites quantites d'hydrogkne et d e pentadienes 
+(@ 5 0,04), les produits rnajeurs sont l'ethylene (@ = 0,83) et 
+le butadiene-1,3 (@ = 0,7 1). I1 ne sernble pas que des radicaux 
+stables soient forrnes en quantitts apprCciables sauf l'atorne 
+d'hydrogkne qui a un rendernent de I'ordre de 0,2 (2). Finale-
+ment, il apparait que la photolyse du tetradeutCrocyclohexene-
+3,3,6,6-d4 forme principalement l'ethylene-c&amp; et le butadikne-
+I , I ,4,4-d4. 
+
+A plus courtes longueurs d'onde, 123,6 nrn (10,O eV) et 
+106,7-104,8 nrn (1 1,6-1 1,8 eV) les rn&amp;rnes processus sern-
+blent actifs, de facon prtpondirante. Cependant l'augrnenta-
+tion de I'Cnergie du photon, et donc de celle de la molCcule 
+photoexcitCe, favorise la fragmentation secondaire de I'ethy-
+lene et du butadikne, de telle sorte que le rapport 
+@(C2H4)/@(C4H6), qui est voisin de 1,2 a 147 nrn, passe a 2 , l 
+
+et 2i presque 4 ti 123,6 et a 106,7-104,8 nrn, respectivement 
+
+(2). 11 faut ajouter que I'apparition d e paires d'ions -le poten-
+
+tie1 d'ionisation du cyclohexene est de 8,94 eV (3) -vient 
+
+cornpliquer I'interprktation quantitative relative a la fragrnenta-
+
+tion d e la rnol6cule photoexcitke. 
+A plus longue longueur d'onde, soit a 184,9 nrn (6,4 eV), 
+Inoue et al. ont Cgalernent rnontre que les produits majeurs sont 
+toujours I'Cthylene et le butadiene-1,3 avec un rapport 
+@'(C2H4)/@'(C4H6) voisin de 1,05-1,10 (4). Bien que les 
+rendernents quantiques n'aient pas ete rnesures, ils sont forte-
+rnent affectes par l'augrnentation de la pression: ils dkcroissent 
+de rnoitie entre 5 et 30 Torr (650 et 4 000 N rn-'). Ces auteurs 
+ont aussi observe la formation d e mini-quantites de methy-
+I&amp;necyclopentane et de bicyclohexane[3.1 .O] dont les rende-
+ments ne semblent pas affect&amp; par l'augrnentation de la pres-
+sion (4). En phase liquide, ces deux isomkres sont forrnes 
+chacun avec des rendernents quantiques de l'ordre d e 0,06 (5). 
+Nous avons repris ce dernier travail avec bien entendu l'in-
+tention de le completer en orientant nos efforts vers l'identifica-
+tion d'indices permettant d'apprecier a leur juste valeur, et s'ils 
+
+existent, les processus d'isomerisation et d e f a ~o n plus gene-
+rale les cornporternents de la molecule photoexcitte. 
+
+Methode experimentale 
+
+Le cyclohexkne est un produit "A.P.I." dont le contenu affichd en 
+
+impuretCs est de 0,023 + 0,020 rnol%. Aucune impureti couramment 
+
+analysCe par chromatographie en phase gazeuse B-l'aide d'un double 
+dktecteur a ionisation de flamme, n'y est decelde. L'oxygkne 
+(99,99%) et I'oxyde nitrique (99,0%) sont des produits achetCs chez 
+Matheson du Canada. Le cyclohexene-3,3,6,6-4 a dCji C t t dCcrit (2). 
+Les techniques photolytiques utilisees i 184,9 (6) et vers 163 nm (7). 
+les actinometries (6, 8), les analyses chromatographiques (6, 8) de 
+mCme que celles rCalisCes par spectromCtrie de masse (2) ont toutes CtC 
+dCcrites. Des analyses ont aussi CtC effectuCes ii I'aide d'une colonne 
+de SE-30 afin de confirmer I'absence d'une Cventuelle formation de 
+vinylcyclobutane (1). 
+
+Resultats 
+
+a. La formation des produits 
+
+La photolyse 2 184,9 nrn du rnonomere pur, ou en presence 
+
+Can. J. Chem. Downloaded from www.nrcresearchpress.com by 87.160.185.190 on 03/27/14 
+
+For personal use only. 
+
+
+COLLIN ET I IESLAURIERS 
+
+1971 
+
+d'oxygkne, d'oxyde nitrique, d'hydrogkne sulfurC, d'isoprkne 
+ou d'iodure d'hydrogkne, rnontre la prCsence d'kthylkne et de 
+butadiine-1,3 avec des rendements supirieurs B 0.5 quelle que 
+soit la pression du cyclohexkne entre I et 60 Torr (133-8 000 
+N n1-'). On observe en quelques produits supplC-
+rnentaires avec des rendernents rnineurs. 11 faut mentionner en 
+prCsence d'iodure d'hydrogkne: le methane (@ = 0,02), le 
+
+propkne ((P = 0,Ol). En presence d'hydrogkne sulfur6 on ob-
+
+serve, en outre, du cyclohexane: @ = 0,12 et 0,07 B 2,5 et 30 
+Torr. 11 faut enfin ajouter que tous les efforts rCalisCs en vue de 
+rnettre en evidence la formation Cventuelle de cornposCs iso-
+rnkres acycliques ou du vinylcyclobutane ont CtC vains, que ce 
+soit en prCsence du cyclohexene pur ou en presence du propane 
+
+ou de soufre hexafluorC i des pression de 400-500 Torr. 
+
+b. L'effer de In pression ir 184,Y I I I ~ 
+La figure I rnontre la variation du rendernent quantique de 
+1'Cthylene entre 10 et 70 Torr (1 330 et 9 300 N rn-'). 11 faut 
+tout de suite rernarquer l'irnpoi-tance du rendernent quantique 
+un peu inferieur h l'unitC h faible pression. Horrnis une erreur 
+systernatique toujours possible, il est clair que la fragmentation 
+de la rnolCcule photoexcitCe h cette longueur cl'onde produit 
+essentiellement de 1'Cthylkne avec en contre partie du 
+butadiene-1,3 (Fig. 2). La encore existe un lCger deficit en 
+butadiene. L'addition de l'atorne d'hydrogkne sur la double 
+liaison du monomere a dCjB Ct C signalCe cornme pouvant 
+ajouter de 1'Cthylene (9). L'effet de la pression sur le rapport 
+@(C2H,)/@(C,H6) pourrait Ctre alors expliquC sur la base de la 
+stabilisation d'un interrnkdiaire: 
+
+A H = -15 kcal mol-.' 
+
+[4] CaH7' + He + CaHh 
+
+A H = 41 kcal mol-' 
+
+La reaction [4] Ctant endotherrnique, il est assurC que la rCac-
+tion de stabilisation par collision, processus [5], lui fait une 
+concurrence d'autant plus vive que la pression s'accroit. 11 faut 
+aussi ajouter que le butadikne-1,3 est plus sensible, reactif que 
+1'Cthylkne vis-h-vis les radicaux usuels, de telle sorte qu'il peut 
+aussi Ctre consornrnC dans des riactions secondaires. 11 faut 
+finalernent ajouter que la presence de quantitCs rninimes de 
+radicaux est rCvClCe par la formation de methane, de propkne 
+et de cyclohexane lorsque le rnonornkre est photolysC en prC-
+sence d'iodure d'hydrogkne ou de sulfure d'hydrogkne: (R = 
+
+H a , CH3 ., ou C3HS1) 
+
+[6] R. + HX + RH + X (ou X = 1 ou HS) 
+
+c. La plzorolyse du cyclohexPne-3,3,6,6-d, 
+Le tableau 1 rnontre les analyses isotopiques de 1'Cthylkne 
+obtenu h diverses longueurs d'onde. Au fur et 5 rnesure que 
+
+celle-ci croit, l'kthylene perhydrogCnC croit en importance en 
+rnCrne temps que dirninue celle de 1'Cthylene-4. Par contre, 
+entre 147 et 184,9 nrn, il sernble y avoir un peu plus de C2D, 
+et de C2D3H. 11 faut ajouter que l'addition signalCe plus haut 
+d'un atorne'd'hydrogkne sur ce cyclohexkne partiellernent deu-
+tCriC libkre norrnalernent une rnolCcule d'kthylkne-1,l -dl (9). 
+Dans ce cas, la tendance observCe dans ce tableau rnontre sans 
+arnbiguitk possible la diminution de l'irnportance de ce produit 
+avec l'allongement de la longueur d'onde. 
+
+I 
+
+I 
+
+* 
+
+I 
+
+I 
+
+I 
+
+I 
+
+I 
+
+L 
+
+0 
+2 0 
+4 0 
+6 0 
+
+Torr 
+
+FIG. I . Rcndement quantlquc de I'Cthyltnc en fonct~on de la press-
+
+ion du cyclohextne. 0: aucun additif; A: 10% 02; V: 10% NO. Note: 
+
+la dCcroissance du rendenlent quantiquc i des pressions infkrieures i 
+10 Torr est liCc i I'absorption partielle du faisccau photonique. 
+
+Torr 
+
+FIG. 2. Variation du rapport @(CaH(,)/@(C2Ha) cn fonction de la 
+pression du cyclohcxkne. 
+
+Puisque le rnonornkre contient 40% d'atornes d'hydrogkne 
+lourds, et sur la base ou tous les atornes d'hydrogkne seraient 
+Cquivalents, 1'Cthylene form6 devrait Ctre constituC prin-
+cipalernent des variCtCs -d? (43%) et -d, (38%). I1 est Cvident 
+que ce n'est pas le cas. 
+
+Discussion 
+La rnolCcule, en absorbant un photon, est portCe dans un Ctat 
+Clectronique, S,,. Le spectre d'absorption de la rnolCcule n'est 
+pas trop bavard et la nature de 1'Ctat Clectronique excitC n'est 
+pas Cvidente. La vibration d'elongation de la liaison C-C est 
+cependant visible et le spectre prCsente cei-taines sirnilaritks 
+avec celui du tCtrarnCthylCthylkne (10). La photochirnie des 
+alcknes acycliques en phase gazeuse a CtC, en general, expli-
+quCe sur la base de la rupture prirnaire de la liaison P(C-C) 
+
+(I 1) et ce probablernent 2 partir de 1'Ctat fondarnental Clectro-
+
+nique vibrationnellernent excitC. Le rnkcanisrne dCja proposi 
+par ailleurs pour le cyclohexkne met plus directernent en cause 
+les Ctats Clectroniques S , et Rydberg (4, 5). 
+
+Me'canisme re'acrionizel 
+L'effet de pression est Cvidernrnent intCressant. S'il perrnet 
+une estimation grossikre du temps de vie d'un interrnkdiaire 
+irnpliquk dans la formation de l'ethylkne, il n'en indique pas la 
+nature. Tous les efforts faits en vue de stabiliser un hydro-
+carbure acyclique en C6 ou le vinylcyclobutane ont CtC vains. 
+Cet Cchec est peut-Ctre le resultat d'une pression de stabilisation 
+insuffisante de la chambre experimentale bien que d'autres 
+Ctudes ont montre par ailleurs que, vers 60 Torr, la moitiC des 
+Can. J. Chem. Downloaded from www.nrcresearchpress.com by 87.160.185.190 on 03/27/14 
+
+For personal use only. 
+
+
+CAN. J. CHEM. VOL 61. 1983 
+
+TABLEAU I . Photolysc du cyclol1cx~nc-3,3.6.6-~l,. Analyscs isotopiqucs dc 
+I'dthylknc 
+
+Prcssion 
+A (nm) 
+(Torr) 
+C2D4 
+C2D1H C2DZH2 
+C ~D H I C2H4 
+
+"TirL. de la ref. 2. 
+
+" Non ddtcrn11nC. 
+
+molCcules hexhne-1 (C6H,2), dans I'Ctat fondamental vibra-
+
+tionnellement excitC h 184,9 devraient 2tre stabiliskes par 
+collision.' Cette pression est de l'ordre d e 1 500 Torr dans le 
+cas du pentene-1 (CSH,,,). Cet Cchec peut Ctre aussi le resultat 
+des propriCtCs physiques associCes du ou des Ctats Clectroniques 
+de la molCcule photoexcitees. 
+
+fission 
+
+0 
+
+\ 
+
+J 
+
+reaction 
+\ 
+
+r C=C + G + 
+
+concertee 
+
+Mecanisme 
+Reactionnel 
+
+La decomposition therniique du cyclohexene a CtC, elle 
+aussi, CtudiCe par plusieurs laboratoires. La constante de vi-
+
+tesse du processus 3 -en systenie thernlique -est telle que log 
+k2 = 15,3 -66900/RT (9) ou 14,93 -65200/RT (13). L'Cn-
+
+ergie d'activation et le facteur de frCquence sont plus faibles 
+que ceux observCs dans le cas des ruptures de liaisons P(C-C) 
+(13). Cette remarque a dCji CtC faite ailleurs (14) de telle sorte 
+
+que l'ethylene et le butadiene-1,3 sont le rCsultat d'une frag-
+
+mentation concertCe du cyclohexene telle que cela a CtC calculC 
+thkoriquement (15) plutdt qu'en deux Ctapes. C'est donc une 
+fragmentation d e type rCtro-Diels-Alder ( 16) permise selon les 
+rkgles de conservation de symCtrie des orbitales de Woodward 
+
+et Hoffmann (1 7). I1 est pertinent de rappeler ici que la'mercuri-
+
+sensibilisation semble gCnCrer plut6t un mCcanisme en deux 
+Ctapes puisque vinylcyclobutane, qui y est observe, est le rC-
+sultat de la cyclisation de I'intermediaire radicalaire n-propyl-
+allyle. 
+
+' J . GawXowski et G. J . Collin. J . Photochcm. AcccptC pour publi-
+
+cation. 
+
+Rernerciements 
+
+Nous voudrions remercier le ministere des Affaires Inter-
+gouvernementales du Quebec (CoopCration belgo-quCbCcoise) 
+
+qui a perrnis des Cchanges fructueux avec monsieur G. DeMarC 
+
+(UniversitC Libre de Bruxelles) dont le concours a CtC vivement 
+
+apprCciC. La gCnCreuse hospitalite de monsieur P. Ausloos 
+
+(NBS, Washington) a aussi contribue h enrichir cette Ctude. 
+
+1 . G. R. DEMAIZ!~, 0 . P. STRAUSZ ct H. E. GUNNING. Can. J. 
+Chem. 43, 1329 (1965). 
+2. R. LESCLAUX, S. SEARLES. L. W. SIECK ct P. AUSLOOS. J. 
+Chcm. Phys. 53, 336 (1970). 
+3. D. A. DEMEO ct M. A. EL-SAYED. J. Chcm. Phys. 52, 2622 
+( 1970). 
+4. Y. INOUE, S. TAKAMUKU et H. SAKURAI. J. Cheni. Soc. Perkin 
+Trans. 2, 1635 (1977). 
+5. R. SRINIVASAN et K. H. BROWN. J . Am. Chcm. Soc. 100, 4602 
+(1978). 
+6. G. J. COLLIN, H. DESL~URIERS ct A. W I ~C K O W S K I . 
+J. Phys. 
+Chem. 85. 944 (1981). 
+7. A. WlIjCKOwSKl ct G. J . COLLIN. Can. J. Chcm. 56, 1435 ( 1 978). 
+8. G . J. COLLIN. H. DESLAUR~ERS ct B. SIMARD. J. Photochem. 21, 
+19 (1983). 
+9. W. TSANG. Int. J . Chcm. Kinct. 2. 31 1 (1970). 
+10. D. F. EVANS. Proc. Chem. Soc. 378 (1963). 
+I I. G. J. COLLIN, H. DESLAURIERS ct S. AUCLAIR. Can. J . Chem. 57, 
+863 ( 1979). 
+12. D. C. TARDY, R. IRETON et A. S. GORDON. J . Am. Chem. Soc. 
+101, I508 (1979). 
+
+13. A. B. TRENWITH. Int. J . Chcm. Kinet. 5, 67 (1973). 
+
+14. S . W. BENSON. Dnt~s Thermochemical kinetics. 2c ed. J . Wiley 
+&amp; Sons, New York. 1976. pp. 108-1 14 et 140. 
+15. R. E. TOWNSHEND. G. RAMUNNI, G. SEGAL. W. J . HEHRE et L. 
+SALEM. J. Am. Chem. Soc. 98, 2 190 (1976). 
+16. J. A. BARLTROP et J . D. COYLE. Dn~zs Principles of photo-
+chemistry. J. Wilcy &amp; Sons. Ncw York. 1978. pp. 164-169. 
+17. R. B. WOODWARD ct R. HOFFMANN. Dnrls The conservation of 
+orbital symmetry. Verlap Chemie, Wcinheim. 1970. 
+
+Can. J. Chem. Downloaded from www.nrcresearchpress.com by 87.160.185.190 on 03/27/14 
+
+For personal use only. 
+
+
+
+	
+

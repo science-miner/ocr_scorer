@@ -1,0 +1,599 @@
+
+	
+
+		
+
+	
+
+	
+
+Synthese et caractdrisation du a-hydroxy, o-(4-N,N-dimethylaminopheny1) polystyrene 
+
+GPRARD BEINERT 
+
+Institut Churle~ Sadrorz, Centre national de la recherche sclent$que, 6 , rue Bous~zngnult, 67083 Strusbourg, France 
+
+MITCHELL A. WINNIK 
+
+Lash Mlller Chemlcal Laboratories, Department of Chemlstq and Erindale College, Universitj of Toronto, 
+Toronto, Ont., Canada M5S 1Al 
+
+R e p le 13 aoet 1985 ' 
+
+G ~R A R D 
+BEINERT et MITCHELL A. WINNIK. Can. J. Chem. 64, 1743 (1986). 
+Dans le but d'Ctudier la formation d'exciplexes intramolCculaires, nous avons prCparC comme intermkdiaires de synthkse des 
+polystyrknes qui portent quantitativement i I'une des extrCmitCs de la chaine une fonction alcool, et i l'autre le groupe 
+N,N-dimCthylaminophCnyle. Ce groupe chromophore a it6 introduit dans le polymkre par amorqage de la polymCrisation 
+anionique du styrkne au moyen d'une solution contenant du potassio-1 (N,N-dimethylamino-4)phCnyl-1 Cthane. En desactivant 
+ensuite le polymkre &lt;&lt;vivant&gt;&gt; par de l'oxiranne. on obtient la fonction alcool. Une mCthode simple de prkparation de cet 
+amorceur consiste a faire rCagir un excks de potassium sur une solution d'Cthoxy-1 (N:N-dimCthylamino-4)phCnyl-1 Cthane dans 
+le THF. MalgrC son instabilitC relative, cette solution se presente comme un amorceur efficace de la polymCrisation du styrene. 
+
+G ~R A R D 
+BEINERT and MITCHELL A. WINNIK. Can. J. Chem. 64, 1743 (1986). 
+To prepare polymers carrying a donor chromophore at one end and an acceptor chromophore at the other, anionic initiators 
+carrying the 4-N,N-dimethylaminophenyl group were synthesized by two different methods. These polymers were neededfor the 
+purpose of studying intramolecular cyclization via observation of exciplex formation. It was established that metal cleavage of 
+appropriately substituted ethers was the most advantageous way to synthesize these functionalized initiators. These compounds 
+proved very reactive toward styrene, yielding quantitatively polymers bearing 4-(N,N-dimethylaminophenyl) groups at one end 
+of the chain. At the other end of the chain. induced deactivation of the "living" sites by means of oxirane created a hydroxy 
+function that could be used in alater step to attach various other groups. Attachment of pyrene to this end would lead to a system in 
+which intramolecular exciplex formation could occur. 
+
+Introduction 
+
+La dynamique de cyclisation de chahes macromolCculaires 
+par formation intramolCculaire de complexes de type excimere 
+ou exciplexe suscite depuis quelques annCes un vif intCr&amp;t (1). 
+Pour rCaliser de telles Ctudes, il est necessaire de disposer 
+de polymkres 1inCaires-et si possible bien dCfinis-portant 
+des fonctions aux extrCmitCs de leur chaine. Dans le cas des 
+exciplexes qui nous occupe ici, les deux fonctions doivent &amp;tre 
+de nature diffkrente, l'une ayant ur, caractke donneur, l'autre 
+accepteur d'klectrons. Nous avons choisi la fonction N,N-
+dimethylamino-4 phCnyle (DAP) comme groupe donneur. Le 
+prCsent article a pour objet de dCcrire la prkparation de 
+
+polystyrenes portant cetre fonction a une extrCmitC de leur 
+
+chaine, l'autre Ctant dotee d'une fonction alcool susceptible de 
+servir ultkrieurement de point d'ancrage pour diffkrents groupes 
+chromophores de type accepteur. 
+L'objectif que nous nous sommes fix6 implique l'utilisation 
+d'un amorceur anionique comportant la fonction DAP afin de 
+pouvoir utiliser l'oxiranne pour la formation de la fonction 
+hydroxy a l'autre extrCmitC de la chaine. 
+
+Nous avons donc conqu deux methodes permettant de 
+prCparer des composCs organo-mCtalliques fonctionnalisCs par 
+le groupe en question et nous avons Ctudie le comportement 
+de ces composCs en tant qu'amorceurs de la polymkrisation 
+anionique du styrkne. 
+On sait en effet que la polymCrisarion anionique sans 
+iransfert, ni terminaison. constitue une mkthode de choix pour 
+la prkparation de polymkres de masse molaire dCterminCe et de 
+faible polymolCcularitt, et pour la fonctionnalisation des 
+extrCmitCs de chaine par dCsactivation sClective a l'aide d'un 
+
+rkactif appropriC. L'objectif visC pourrait donc &amp;Ire atteint s'il 
+
+1. WCvision reque le 2 avril 1986. 
+
+s'avkre possible d'amorcer la polymCrisation du styrkne par un 
+compost organo-metallique portant la fonction DAP, et si la 
+dtsactivation par l'oxiranne conduit effectivement a une fonc-
+
+tion OH a l'autre extremite de la chaine (schCma 1) : l'action du 
+
+chlorure de (pyrCnyl-11-4 butyryle sur cette derniere devrait en 
+
+effet permettre d'accCder B des chaines polymi.res portant des 
+
+fonctions diffkrentes 
+leurs extrCmitCs. et susceptibles de 
+
+conduire B la formation d'exciplexes intramolCculaires. 
+
+RQultats et discussions 
+I1 semble Ctabli que le groupe N,N-dimCthylamino n'entraine 
+
+pas de rCactions parasites en polymCrisation anionique. Par 
+exemple Worsfold (2) a obtenu des polystyrenes marques 
+
+quantitativement B l'une des extrCmitCs de leur chaine en 
+
+amorqant Ia polymCrisation du styrene par le lithio-1 (N,N-
+dimCthyl)amino-3 propane. 
+
+Le probleme consiste donc 2 prCparer un amorceur organo-
+
+metallique portant la fonction DAP. Deux voies s'offrent B 
+
+nous : (i) la rCaction d'addition d'un composC organo-mCtal-
+
+lique R-Mf sur le (N,N-dimithylamino-4)isopropCnyl benzkne 
+(DAB) dans des conditions choisies de f a ~o n a Cviter la 
+
+polymerisation intempestive de ce monomere; et (ii) la reaction 
+de clivage par le potassium d'un Cther comportant un groupe 
+DAP. 
+
+Me'thode proce'dunt p a r addition 
+
+Le (N,N-dimCthylamino-4)isopropCnyl benzene a Ct C prepark 
+
+selon la mCthode de Seymour et Wolfstirn (3). La reaction 
+d'addition d'un comgosC organo-mktallique sur un dCrivC de 
+l'a-rnCthylsryr2ne ne peut se produire de f a ~o n satisfaisante 
+que si le caractere nuclCophile de l'organo-mCtallique est tres 
+accusC. C'est pourquoi nous avons choisi les trois composCs 
+suivants : le sec-butyllithium (sBuLi), le potassio-2 phCnyl-2 
+propane (PIK) et le potassio-1 phCnyl-1 Cthane (PEK), dont 
+Can. J. Chem. Downloaded from www.nrcresearchpress.com by 87.160.185.190 on 03/27/14 
+
+For personal use only. 
+
+
+1744 
+
+CAN J CHEM VOL 64, 1986 
+
+l'efficacite en tant qu'amorceurs n'est plus a demontrer. Le 
+s'expliquer par la lenteur de la reaction d'addition de R-M' sur 
+dernier mentionne a Ctt utilise en particulier pour la synthese 
+le DAB. I1 faut noter que les conditions de concentration et de 
+de polystyrknes de structure ccidCale&gt;&gt; ne comportant aucun 
+
+temperature n'ttaient pas propices B la polymerisation du DAB. 
+
+groupe Ctranger au polymkre (4) ainsi que pour la synthkse de 
+Par consequent, la fonctionnalisation incomplete ne peut 
+copolymeres sequences polystyrene-polyoxyCthylene. 
+rtsulter que de la presence d'amorceur rCsiduel non fonctionnel 
+(sBuLi, PIK, PEK) qui a participe a l'amorcage de la 
+
+H(-CH2-CH),-H 
+I 
+
+polymerisation du styrene. 
+
+Le potassio-1 phCnyl-1 Cthane peut &amp;tre obtenu selon le 
+procedt de Benkeser et al. (6) qui consiste a mCtaller I'Cthyl-
+benzene par un alkyl-potassium. Une mCthode plus facile 
+consiste a traiter une solution de bis(phCny1-1 Cthy1)Cther dans 
+le THF par du potassium. Cette reaction, CtudiCe par Gillman 
+et McNinch (7) dans le cas du lithium, est transposable au 
+potassium et conduit a une solution d'amorceur efficace pour la 
+polymerisation du styrene (8). I1 faut noter que, dans le cas qui 
+nous occupe, la presence de phknyl-1 Cthanolate de potassium, 
+qui se forme simultanCment, n'est pas gCnante. 
+La reaction d'addition a Cte conduite a 50°C dans le benzene, 
+dans le cas du sBuLi, et 2 25°C dans le THF pour les deux autres 
+composCs organo-mCtalliques. La solution est agitCe pendant 
+2 h. On ajoute ensuite le styrene goutte goutte, puis l'oxiranne 
+
+destine a la formation de fonctions hydroxyle. I1 faut noter cet 
+
+Cgard que lorsque le potassium est le contre-ion, il est impCratif 
+d'opber a une temptrature suffisamment basse pour qu'un seul 
+motif -CH2-CH2-0-
+se fixe en bout de chaine, et que la 
+polymtrisation de l'oxiranne ne puisse avoir lieu. 
+Les rCsultats de nos essais sont rassembles au tableau 1, et 
+appellent quelques commentaires : 
+Pour verifier le taux de fixation du groupe DAP en bout de 
+chaine, nous avons compare entre elles les valeurs de la masse 
+
+molaire moyenne en nombre fin obtenue par chromatographie 
+
+liquide d'exclusion (SEC) et de la masse molaire calculCe 21 
+partir de l'absorption du chromophore, en faisant I'hypothkse 
+
+que chaque chaine porte une telle fonction, I%., . Nouc avons 
+
+suppose que le coefficient d'absorption molaire E du groupe 
+DAP est Cgal a celui d'un composC modele : le N,N-dimethyl-
+
+Me'thode proce'dant par clivage 
+La reaction deji mentionnee de clivage du bis(phCny1-1 
+
+6thyl)Cther par le potassium nous a incite B avoir recours a 
+
+une methode semblable pour la synthkse du potassio-1 (N,N-di-
+mtthylamino-4)phCnyl-1 ethane. La synthese de 1'Cther corres-
+
+pondant, le bis[(N,N-dimtthylamino-4)phCnyl-1 CthylJCther, et 
+de 1'Cther dissymktrique, le (N,N-dimCthylamino-4)phCnyl-I 
+
+ethyl Cthyl ether, sont originales, le rendement ttant bien 
+meilleur dans le second cas. 
+La reaction de clivage s'effectue en milieu THF a -20°C. 
+avec un exces de potassium. Le milieu reactionnel devient rouge 
+foncC et contient alors un amorceur de polymerisation efficace, 
+qui doit etre consomm6 (schema 2) dans les heures qui suivent, 
+car sa stabilite n'est par tres ClevCe. MCme conservee a -20°C la 
+solution Cvolue, sa viscosite s'accroit et son utilisation devient 
+hasardeuse. Par contre, conservee a -75"C, elle est utilisable 
+pendant une semaine. 
+Nous avons constate que le dosage classique des sites actifs 
+par l'acktanilide conduit dans ce cas a des resultats errones. 
+I1 suffit en effet de 0,5 molCcule d'acktanilide pour titrer un 
+site organo-metallique. Ce resultat peut surprendre, mais il est 
+reproductible, et peut Etre lie au caractkre fortement nuclCophile 
+d'un carbanion benzylique substitue en para par un groupe 
+donneur. 
+Les rtsultats des exphiences de polymerisation effectukes 
+l'aide des solutions d'amorceur fonctionnel obtenues par 
+clivage d'ether figurent au tableau 2. Comme precedemment, le 
+taux de fonctionnalisation rCalisC par amorcage a Ct C determine 
+
+par le rapport a ,/au,. Le composC modkle que nous avons 
+
+utilise pour la determination du coefficient d'absorption molaire 
+E est ici le N,N-dimtthylamino-4 isopropyl benzene prCparC par 
+
+amino-4 tert-butyl benzene q;e nous avons prepark au lago-
+
+CH3-CH-O-C2H~ 
+
+CH~-CH K t 
+
+ratoire (9) par alkylation de l'amino-4 tert-butyl benzirne. 
+La valeur de F que nous avons trouvee a 300 nm est de 
+
+K 
+
+2 530 L mol-' cmp', cette mesure Ctant effectuCe sur un 
+
+THF 
+
+melange d'isombes para (96,7%) et ortho (3,2%) caractCrisC 
+par chromatographie en phase gazeuse. Le point d'Cbullition du 
+
+@ N(CH3)2 -$ N(CH3)2 
+
+compost modele est de 121°C sous 1 600 Pa. 
+11 qparait dans le tableau 1 que les valeurs du rapport 
+
++ KO-C2H5 + produ~t 
+
+fi ./IM .. sont dans tous les cas inferieures a I'unitC. Cela peut 
+
+S C H ~M A 
+
+2 
+Can. J. Chem. Downloaded from www.nrcresearchpress.com by 87.160.185.190 on 03/27/14 
+
+For personal use only. 
+
+
+BEIKERT ET WIKNIK 
+
+TABLEAU 1. Conditions expkrimentales et rCsultats de la polymtrisation amorcCe par DAB 
+
+-
+-
+
+Tam DurCe T,,, 
+M, 
+M I , 
+
+, 
+j 
+
+Amorceur 
+Solvant 
+("c) 
+(h) 
+("c) 
+(g mol-') 
+(g mol-') 
+
+M ,/M .. 
+
+DAB + sBuLi Benzbne 50 
+
+2 
+50 
+21 000 
+65 000 
+0,32 
+
+DAB + PIK 
+
+THF 
+25 
+2 
+-65 
+18 000 
+70 500 
+0,25 
+
+DAB + PEK 
+
+THF 
+25 
+4 
+-65 
+25 000 
+52 600 
+0,48 
+
+Tam : temperature i laquelle on prepare la solution d'amorceur; durke : temps durant lequel on laisse 
+riagir le DAB sur l'organoalcalin R -M I ; T,,, : tempkrature i laquelle s'effectue la polymeiisation du 
+gyr2ne; M , : masse molaire moyenne en nombre dCterminee par chromatographie liquide d'exclusion; 
+Mu, : masse molaire moyenne determink par spectrom6trie uv. 
+
+TABLEAU 2. Masse molaire des polymeres prCparCs par la mCthode 
+procCdant par clivage 
+
+A , 
+M , 
+
+u, 
+
+(gmol-I) 
+(gmol-') 
+(gmol-') 
+
+M , v / M n 
+M n / M u . 
+
+M,, &amp;f, : masse molaire moyenneen nombre et en poids dCterminCe par 
+
+chromatographie liquide d'exclusion; M .. : masse molaire moyenne determinie 
+
+par spectromCtne uv. 
+
+rkaction de deux molCcules d'iodure de mtthylmagntsium sur 
+la N,N-dimethylamino-4 benzaldehyde selon la mkthode de 
+Sachs (10, 11). Le produit brut est purifie par distillation, puis 
+par chromatographie liquide sur silice, 1'Cluant Ctant le benzene, 
+et enfin par redistillation. Son point d'kbullition se situe 64°C 
+sous 30Pa. Le coefficient d'absorption molaire mesure en 
+
+solution dans le THF est de E = 2 050 L mol-' c m l a 304 nm. 
+
+D'autre part, 1'Ctude des chromatogrammes d'exclusion 
+(SEC) permet d'Cvaluer la polymolCcularitC des Cchantillons. 
+like elle aussi a l'efficacitk de l'amorceur. 
+En vue de s'assurer que des adsorptions imputables aux 
+groupes fonctionnels ne conduisent pas a des valeurs erronCes 
+des masses molaires dkterminees par SEC, nous avons com-
+par6 sur guelques Cchantillons les masses molaires moyennes 
+
+en poids M , et M ddl dCterminCes par SEC et par diffusion de 
+
+la lumiere. Nous avons aussi vCrifiC que l'incriment d'indice de 
+rCfraction d n l d c du polystyrene fonctionnalisC est le m&amp;me que 
+
+celui du polystyrene classique soit 0,186 mL g-' 21 632 nm dans 
+
+le THF. Ces valeurs figurent au tableau 3. Les Ccarts relevables 
+
+ne sont pas supCrieurs aux erreurs de mesures habituelles. 
+Bien que nos essais couvrent un large domaine de masses 
+molaires, on peut considCrer que la mCthode proposCe donne 
+
+entikre satisfaction. En effet, les valeurs de M,,/M.. voisines 
+
+de l'unitk attestent une fonctionnalisation quantitative. Les 
+valeurs plus ClevCes sont probablement dues a des especes 
+chromophores rtsiduelles retenues par le polymhe. 
+
+Dans le tableau 4 figure 19Cvolution de M u , en fonction du 
+
+nombre des prCcipitations d'un polymkre; les variations obser-
+v6es Ctayent notre hypothitse. 
+Le tableau 5 rassemble les caractkristiques des produits isoles 
+lors d'un essai special qui avait pour objectif la preparation 
+d'un polymkre fonctionnel de tres faible masse molaire. Ce test 
+
+supplementaire d'efficacitk de l'amorceur fonctionnel a pleine-
+ment confirm6 les conclusions antkrieures. 
+
+Partie experimentale 
+
+Toutes les opCrations mettant en oeuvre un carbanion ont Ct C 
+effectuCes sous une 1Cgkre surpression d'argon dans un appareillage 
+Ctanche dCsomais classique. 
+Le THF est sCchC sur KOH, puis distill6 sur fil de sodium; il 
+est redistille sur complexe benzophCnone-sodium dans une ampoule 
+Ctanche, puis consem6 sous argon. Le styrkne est sCchC sur CaCI,, puis 
+distill6 sur fil de sodium. L'oxiranne est dCgaze, puis distille sur fil de 
+sodium. Les mesures de SEC ont Ct C rCalisCes sur un appareil CquipC de 
+3 colonnes Shodex A 801, A 802 et A 803, la dCtection Ctant assurCe par 
+un rCfractomktre diffkrentiel Waters. 
+Les dtterminations spectrophotomCtriques uv ont Ct C effectuCes sur 
+un appareil Beckman Acta V. 
+(N, N-Dirne'thylarnino-4jphe'nyl-1 e'thyl e'thyl e'ther 
+Dans un ballon muni d'un dCcanteur de type Dean et Stark, on porte 5 
+Cbullition durant 24 h 700 mL de benzbne,. 300 mL d'ethano1,-100 g 
+
+(0,61 mole) de (N,N-dimCthylamino-4)phCnyl-1 ethanol (10, 11) et 
+
+0,50 g d'acide p-tolubne sulfonique. Aprks refroidissement, on ajoute 
+10 mL d'une solution de mCthanolate de sodium (0,4 mol L-') dans du 
+mCthanol. On Cvapore les solvants, on redissout le produit dans 500 mL 
+d'Cther, puis on lave et on skche sur sulfate de sodium. Enfin on 
+Cvapore 1'Cther et on distille le rCsidu (1 15 g). On recueille 80 g. Eb. : 
+80-85°C (200 Pa). On conserve le produit sous argon. 
+
+Arnorceur 
+On place 10 g (0,25 mol) de potassium dans 100 mL de THF, puis on 
+
+abaisse la temperature a -20°C. On ajoute ensuite 10 mL (0,lO mol) 
+de (N,N-dimCthylamino-4)phCnyl-1 Cthyl Cthyl Cther (Cthoxy-1 (N,N-
+dimCthylamino-4)phCnyl-1 Cthane). La solution devient rapidement 
+rouge. On maintient l'agitation la nuit. DosCe par I'acCtanilide, la 
+
+concentration en sites carbanioniques de cette solution est 0,34 mol L-'. 
+
+Polyrne'risation du sQr2ne 
+Fernple 1 
+A 250 mL de THF maintenu a -70°C on ajoute goutte a goutte 9 mL 
+d'une solution de l'amorceur a une concentration de 0,34 mol L-'. On 
+ajoute ensuite goutte a goutte 25 g de styrkne. La tempCrature croit 
+
+rapidement 21 -40°C. Quand elle revient -70°C, on ajoute 2 mL 
+
+d'oxiranne, puis on enlkve le bain rCfrigCrant. La dCcoloration du 
+milieu rkactionnel n'est pas immCdiate. Quand elle se produit, vers 
+-50"C, on ajoute successivement un peu de mCthano1, 1 mL d'acide 
+chlorhydrique, puis 2 mL d'ammoniaque. On filtre la solution pour 
+Climiner le KCI, puis on prkcipite le polymbre par 2 L de mCthanol. 
+On dissout et reprkcipite le polym?re avec l e ~ m&amp;mes volumes de 
+THF et de mCthanol. Rendement quantitatif : M , = 7 700 g mol-I; 
+
+M , = 9 200 g mol-', M u , = 7 440 g mol-'. 
+
+Exernple 2 
+
+A 250 mL de THF maintenu a -70°C on ajoute 70 mL d'une solution 
+d'amorceur de concentration 0,48 mL L-'. On ajoute ensuite goutte a 
+
+goutte 25 g de styrbne. La temptrature croit jusqu'i -50°C. On ajoute 
+alors 5 mL d'oxiranne puis on enlkve le bain rCfrigCrant. Aprks 
+
+Can. J. Chem. Downloaded from www.nrcresearchpress.com by 87.160.185.190 on 03/27/14 
+
+For personal use only. 
+
+
+CAN J. CHEM VOI. 64. 1986 
+
+TABLEAU 3. Comparaison des masses molaires moyennes dCterminCes par SEC et par 
+diffusion de la lumikre 
+
+-
+-
+-
+
+a n 
+
+Mw 
+
+M ddl 
+
+A!f uv 
+
+(g mol-') 
+(g mol-') 
+(g mol-') 
+(g mol-') 
+
+M d d i / M . 
+M d d l / M , , , 
+
+Mn/Muv 
+
+--
+-
+
+a,, M , gasse molaire moyenne en nombre et en p o ~d s determinee par chromatograph~e llquide 
+
+d'exclus~on, M , 
+, 
+, masse molaire moyenne en poids dCterminCe par d~ffusion de la lumlere, M u , 
+
+masse molaire moyenne dCtermlnCe par spectrometne uv 
+
+TABLEAU 4. ~volution de la masse 
+molaire moyenne en fonction du 
+nombre des precipitations 
+
+-
+
+Nombre des 
+M uv 
+pr6cipitations 
+(g mol-l) 
+
+-
+
+M , , : mass molaire moyenne deter-
+
+mink par spectromttrie uv. 
+
+TABLEAU 5. CaractCristiques du polymere de faible mass molaire 
+
+M ,, h ' , : Fasse molaire moyenne en nombre et en poids dCterminCe par chromatographie liquide 
+
+d'exclusion; M .. : masse molaire moyenne determinee par spectrometrie uv; 0 % ((c) : taux en oxygene 
+
+calculi, soit le rapport 16/M .; 0 % ( t ) : taux en oxygene determine par analyse chimique Clementaire. 
+
+dCcoloration du miiieu reactionnel, a -30"C, on introduit 7 mL d'acide 
+chlorhydrique puis 9 mL d'ammoniaque. On filtre la solution pour 
+Climiner le KC1, puis on prCcipite le polymere par 4 L de mkthanol. On 
+filtre 11,5 g de polymere. Ce produit est dissous dans 50 rnL de THF 
+puis reprCcipitC par 1 L de mCthanol contenant 2 mL d'ammoniaque. 
+Enfin on filtre 10,5 g (F 1) de polymere. 
+Les filtrats sont alors rassembl6s. On Cvapore les solvants, redissout 
+le rCsidue dans 150 mL de benzene, agite la solution avec un peu de gel 
+de silice, filtre, puis prCcipite le polymbre par un melange de 2 L de 
+mCthano1, 200 mL d'eau et 2 mL d'ammoniaque. Ce polymere est 
+d'aspect collant. On le redissout dans 10 mL de benzene. AprPs lyophi-
+lisation, on obtient 6,9 g (F 2) de polymPre sous forme poudreuse. 
+
+Conclusion 
+
+Wemerciements 
+Les auteurs expriment leurs vifs remerciements a M. F. Isel 
+
+pour l'aide efficace qu'il leur a apport6e dans la rkalisation de ce 
+travail. 
+
+1. M. A. WINNIK, A. M. SINCLAIR et G. BLINEKI. Can. J. Chem. 
+63, 1300 (1985). 
+2. D. J. WORSFOLD. J. Polym. Sci. Polym. Chem. Ed. 21. 2237 
+(1983). 
+3. D, SEYMOUR et K. B. WOLFSTIRN. J. Am, Chem. Soc. 70, 1177 
+11948). 
+L'action du potassium sur une solution de (N,N-dimkthyla-
+
+4. S. s. MakromO1 Chem 8L. 152 (1965), 
+
+mino-4)phtnyl-l &amp;hyl kthyl ither conduit 
+
+un compos~ 5. H. XIE et P. ZHoU. P o l ~m . 
+
+Mat. Sci. Eng. 51, 664 (1984). 
+6. R. A. BENKESER, A. E. TREVILLYAN et J. Hooz. J. Am. Chem. 
+organo-mitallique qui est un amorceur anionique efficace 
+Soc. 84, 4971 (1962). 
+
+agissant par addition. Lorsqu'on proVoque la polymkrisation du 
+
+7, H, GILMAN et H, A, MCNINCH, J , Org, Chem, 26. 3723 ( 1961). 
+
+styr2ne par cette solution d'amorceur, et lorsqu'on fait reagir 
+8. A, L ~P P , 
+G, B~~~~~~ et G , PICOT, ~~k 
+~~~~ 
+them, 185, 453 
+ensuite de l'oxiranne sur les sites carbanioniques, on obtient un 
+11984). \ 
+
+, 
+
+p o l y m b e portant 2i l'une des extr6mitCs de sa chaine le groupe 
+9, D , CRAIG. J. Am. Chem. Soc. 57, 195 (1935). 
+
+N,N-dimtthylamino-4 phknyle et 2 l'autre extrimit6 la fonction 
+
+10. F. S A C H ~ 
+et L. SACHS. Ber. 38, 517 (1905). 
+alcoolate. 
+11. F. S A C H ~ 
+et L. SACHS. Ber. 38, 51 1 (1905). 
+
+Can. J. Chem. Downloaded from www.nrcresearchpress.com by 87.160.185.190 on 03/27/14 
+
+For personal use only. 
+
+
+
+	
+

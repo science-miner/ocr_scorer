@@ -1,0 +1,661 @@
+
+	
+
+		
+
+	
+
+	
+
+Volumes molaires partiels de composes tensioactifs dans les milieux salins 
+concentres eau-KC1 
+
+SABAH BOUGUERRA, HAMED BAHRI ET PIERRE LETELLIER' 
+
+Luboratoire de Physiochimie des Solutions, Universitt Pierre et Marie Curie, E.N.S.C.P. 11 Rue Pierre et Marie Curie, 
+75231 Paris Ctdex 05, France 
+
+R e ~u le 7 juin 1 9842 
+
+SABAH BOUGUERRA, HAMED BAHRI et PIERRE LETELLIER. Can. J. Chem. 63, 2476 (1985). 
+Les volumes molaires apparents de quatre detergents cationiques CHs(CH2),N(CHs)sBr pour n = 9, 11, 13 et 15 ont CtC 
+
+dCterminCs dans les mClanges eau -chlorure de potassium a 298 K, pour des concentrations en Clectrolyte support comprises 
+
+entre 0.5 et 3,5 mol L-'. La tres faible dCpendance des volumes molaires apparents des tensioactifs, une fois micellists, avec 
+la concentration du sel de fond laisse supposer que les interactions entre les amphiphiles eux-mEmes et entre les amphiphiles 
+et leur environnement ne sont pas fondamentalement modifiCes par I'addition de sel. L'utilisation de rCsultats antCrieurs obtenus 
+pour ces m&amp;mes milieux, concernant le comportement des sels d'ammonium symktriques permet d'accCder aux volumes 
+intrinskques des amphiphiles et, par condquence, d'estimer le volume rCel occupC par la phase micellaire dans la solution. 
+Des mesures des volumes molaires apparents du bromure de dodCcyltrimCthylammonium et du dodCcylsulfate de sodium dans 
+les melanges eau-NaC1 permettent de confirmer les r8les dissymCtriques jouCs par les anions et les cations en milieu salin 
+concentre. 
+
+SABAH BOUGUERRA, HAMED BAHRI, and PIERRE LETELLIER. Can. J. Chem. 63, 2476 (1985). 
+Apparent molar volumes of 4 cationic detergents CH3(CH2),N(CH3),Br (n = 9, 11, 13, and 15) have been determined in 
+water -potassium chloride mixtures at 298 K over a wide range of concentrations (from 0.5 to 3.5 mol L-I). The small 
+dependence of values of apparent molar volume of micellized detergent on the salt concentration suggests the interactions 
+between amphiphiles themselves and between amphiphiles and their surroundings are not modified by the variation of KC1 
+concentration. Previous results lead to estimates of intrinsic volumes of micellized detergents and consequently actual volumes 
+of the micellar phase in the solution. In addition, apparent molar volumes of dodecyltrimethylammonium bromide and sodium 
+dodecylsulfate have been determined in water -sodium chloride mixtures. The results agree fairly well with the previous 
+conclusions and prove the dissymmetric behaviour of the anions and cations in very highly concentrated aqueous salt solutions. 
+
+L'Ctude des volumes molaires partiels et apparents des com-
+posCs tensioactifs est g ~n ~r a l e m e n t 
+entreprise dans le but de 
+dtterminer avec prkcision des valeurs de concentration mi-
+cellaire critique (cmc) (3), le phCnomkne de micellisation 
+s'accompagnant le plus souvent,-dans l'eau d'une irnportante 
+variation des propriCtCs volumiques des amphiphiles. 
+
+A ce titre, diffkrents travaux ont Ct C rCalisCs dans l'eau pure, 
+
+mais Cgalernent en prCsence de faibles quantitCs d'additifs mo-
+
+ICculaires (4) ou ioniques (5) dont on a pu ainsi prCciser les 
+
+modes d'action dans le processus de micellisation. 
+
+Peu d'Ctudes, en revanche, s'attachent a dCcrire le com-
+
+portement volurnique des dCtergents en milieu salin concentrC, 
+bien que de nombreux travaux se basant sur la mesure d'autres 
+
+pararnetres physiques (viscositC, diffusion de la lumiere . . .) 
+
+(6-9) montrent que les edifices micellaires sont profondkment 
+affect&amp; par la presence d'un Clectrolyte concentrC. 
+Des travaux anttrieurs (l,2) nous ayant permis de prtciser 
+les proprie'te's volumiques individuelles des anions et des 
+cations, minCraux et organiques, mono chargks dans les mC-
+langes eau-KC1 pour des concentrations en chlorure de potas-
+sium comprises entre 0,5 et 3,5 mol L-', nous avons entrepris 
+
+1'Ctude des volumes molaires partiels v, et apparents +i de 
+
+composes tensioactifs dans ces memes milieux. 
+
+Nous nous sommes plus particulierement interessks a quatre 
+halogtnures d'alkyltrimCthylammonium de formule gCnCrale 
+
+CH3(CH2),N+(CH3)3X-: les brornures de dCcyl (n = 9) dTA, 
+dodCcyl (n = 11) DTA, tCtradtcy1 (n = 13) TTA, hexadCcyl 
+(n = 15) HTA trimCthylammonium. 
+Afin de juger de l'influence de la nature de 1'Clectrolyte 
+support et du signe de la charge portCe par l'amphiphile, les 
+
+'Auteur qui adresser la correspondance. 
+'~evision reye le 28 janvier 1985. 
+
+comportements du dodtcylsulfate de sodium DSNa et du DTA 
+ont CtC Cgalement ttudits dans les milieux eau-NaC1 pour une 
+garnme de concentrations comprise entre 0,25 et 0,75 mol L-' 
+en chlorure de sodium. 
+
+I. Conditions experimentales 
+
+Le bromure de dCcyltrimCthylammonium est un produit Eastman 
+Kodak; les autres detergents cationiques sont des produits Sigma. 
+DiffCrents essais de reoroductibilitt ont montrC aue les rksultats ex-
+p6rimentaux obtenus avec des produits recristallisCs ne differaient pas 
+notablement de ceux obtenus a partir des produits bruts. La puri-
+fication n'a donc pas CtC systCmatiquement effectu~e. 
+Le dodCcylsulfate de sodium, d'origine Prolabo RP, ne conduit en 
+
+revanche a des rksultats reproductibles que recristallisC au moins deux 
+
+fois dans un mClange methanol -ether Cthylique. Les chlorures de 
+potassium et de sodium sont des produits Prolabo RP. L'eau utilisCe 
+est fraichement distillCe. Sa masse volumique a 298 K a CtC prise Cgale 
+a 0,997047 g ~m -~. 
+Les mesures de masses volumiques ont CtC rCa-
+lisCes au moyen d'un "densimi5tre vibratometre a flux" Sodev (modele 
+
+03D) maintenu a la tempCrature constante de 298 5 2 X lo-' K par 
+
+un thermostat Setaram. Les mesures des pCriodes ont Ct C effectuCes sur 
+un frCquencembtre Hewlett Packard 53 15A. Le calcul de la valeur du 
+
+volume molaire apparent +; du solutt i, de masse molaire M , , a la 
+
+molalitt m r6fCrCe a 1000 grammes de la solution eau-KC1 consi-
+dCrte, s'effectue a partir de la relation classique: 
+
+pi et po sont respectivement les masses volumiques de la solution i et 
+du solvant eau-KC1. 
+
+11. Resultats experimentaux 
+
+11-1. Dk3nition des systkmes CtudiCs 
+
+L'addition d'un electrolyte i une solution de tensioactif 
+
+Can. J. Chem. Downloaded from www.nrcresearchpress.com by 87.160.185.190 on 03/27/14 
+
+For personal use only. 
+
+
+BOUGUERRA ET AL. 
+
+TABLEAU 1. Concentrations micellaires critiques des dCtergents CtudiCs (dans l'eau a 298 K) 
+
+DCtergent 
+
+dTA 
+DTA 
+TTA 
+HT A 
+NaDS 
+
+cmc (mol L-') (30,31) 6,5 X lo-' 
+1,5 X lo-' 
+3,5 X lo-' 
+9,2 X 
+8,l X 
+
+TABLEAU 2. Volumes molaires apparents a diffirentes 
+molalitCs du TTA dans le mClange eau-KC1 2 M 
+
+MolalitC (mol kg-') 
+p (g cm-') 
+
++ (cm' mol-') 
+
+favorise, en rkgle gCnCrale, le phCnornkne de rnicellisation, ce 
+qui se traduit par un abaissernent de la valeur de la crnc (10). 
+La technique de determination des volumes rnolaires appa-
+rents rnise en oeuvre dans cette etude, nCcessite l'emploi d'une 
+concentration minimale de solute Cgale a 
+rnol kg-' (1 1). 
+A cette concentration les tensioactifs utilisCs, qui posskdent 
+dCjh dans l'eau des seuils critiques rnicellaires relativernent 
+faibles (tableau l), se trouvent pour la plupart partiellement ou 
+mCrne,totalement micellisCs en presence de 1'Clectrolyte sup-
+port. A titre d'exemple, les variations des volumes molaires 
+apparents du dTA en fonction de la molalitC en dCtergent, pour 
+diffkrentes teneurs de la solution en chlorure de potassium, sont 
+reportees sur la fig. 1. On peut ainsi constater que mCme pour 
+la plus faible concentration de KC1 utilisee, 5 x lo-' rnol L-', 
+le dTA a 
+rnol kg-' est dCjh partiellernent associC. 
+I1 n'est donc pas envisageable d'Ctudier, au moyen de la 
+technique de mesure prCcCdemment dCcrite, le cornportement 
+des amphiphiles sous leur forme monomkre dans les mClanges 
+eau -KC1. 
+En revanche, l'utilisation d'une concentration suffisante en 
+dCtergent permet d'obtenir des systkmes totalement micellise's 
+pour lesquels les propriCtCs physicochimiques des arnphiphiles 
+sont parfaitement definies. 
+C'est dans ce cadre prCcis que s'inclut la prCsente Ctude. 
+
+11-2. Volumes molaires apparents des bromures d'alkyltri-
+me'thylammonium micellise's 
+11-2.1. Variations avec la molalite' du tensioactif 
+Les rCsultats expdrimentaux regroupks dans le tableau 2 et 
+illustres par ailleurs sur la fig. 2 montrent que dans un milieu 
+eau-KC1 donne', une fois le systkrne totalement micellisd, les 
+volumes molaires apparents des dktergents, de la mCme 
+rnanikre que ceux des halogknures alcalins (I), sont indCpen-
+dants de leur molalite dans la gamme de concentration utilisCe 
+
+(m &lt; 3 X lo-' rnol kg-'). On pourra donc caracteriser le 
+
+detergent micellis6 par un volume molaire apparent +, cor-
+
+' respondant h cette valeur constante. 
+
+FIG. 1. Variations du volume molaire apparent du dTA avec sa 
+molalitC pour diffkrents mClanges eau-KC]. 
+
+de comparaison, les variations de + , pour les quatre detergents 
+
+cationiques, et celles des volumes rnolaires apparents h dilution 
+infinie de deux autres Clectrolytes KBr et (C,H&amp;NBr sont 
+reprksenttes sur la fig. 3. La diffkrence de comporternent entre 
+ces deux derniers sels a Ct C justifiCe dans une Ctude prCcCdente 
+(2). 
+Les mesures rCalisCes avec le DSNa et le DTA dans les 
+rntlanges eau-NaC1 seront 6voquCes ulterieurernent dans le 
+chapitre consacre h I'interprCtation des rksultats. 
+
+11-3. Discussion des re'sultats 
+La modification des propriCtCs structurales des systkmes mi-
+cellaires, en'prisence de quantitb variables de sel a fait l'objet 
+de nornbreux travaux et une littkrature abondante existe actuel-
+lement sur ce sujet (6-9). 
+Nous en retiendrons les conclusions suivantes en rapport 
+avec notre Ctude: 
+A. La crkation d'kdifices micellaires dans l'eau pure conduit 
+h l'apparition en solution de structures comportant un nornbre 
+elev6 de charges identiques. Pour des raisons Clectrostatiques 
+Cvidentes la rnajeure partie des contre-ions se trouve situCe dans 
+
+I 
+
+11-2.2 Variations avec la concentration en KC1 
+l'environnement immkdiat de la rnicelle. 
+
+Les valeurs rnoyennes des volumes rnolaires apparents +,n 
+
+La repartition des contre-ions s'effectue selon une loi de 
+pour les diffkrents detergents CtudiCs, h plusieurs concentra-
+distribution radiale continue, partant d'une forte concentration 
+tions en chlorure de potassium sont regroupees dans le tableau 
+pr?s de la surface de la rnicelle qui dCcroit rkgulikrement 
+3. On remarque que ces valeurs varient trks peu, pour un 
+lorsque l'on s'en Cloigne (12,13). 
+tensioactif donnC, avec la teneur de la solution en KC]. A titre 
+Ce ph6nornkne de "surconcentration" au voisinage de l'inter-
+Can. J. Chem. Downloaded from www.nrcresearchpress.com by 87.160.185.190 on 03/27/14 
+
+For personal use only. 
+
+
+CAN. 1. CHEM. VOL. 63, 1985 
+
+C, , , =2 
+
+mol L-' 
+
+329 t 
+
+TTA 
+
+FIG. 2. Variations en fonction de leur molalitk des volumes mo-
+
+laires apparents des dktergents micellisks dans le melange eau-KC1 
+2 M et de KBr dans le milieu 3 , s M en KCI. 
+
+38 
+
+TABLEAU 3 . Valeurs des volumes molaires moyens +, , des 
+
+dktergents micellisks dans les mklanges eau-KC1 ti 298 K 
+
+Dktergent 
+
+---.-.---
+
+-
+
+K B r 
+m (mol kg31 
+
+I 
+
+* 
+
+CKCl (mol L-I) 
+
+0 
+
+OJ 
+
+0 2 
+
+DTA 
+
+294,5 
+295,2 
+295,7 
+
+-
+
+2 9 5 3 
+295,8 
+295,8 
+295,8 
+
+TTA 
+HTA 
+
+328,O 
+360,8 
+
+-
+
+361,4 
+328,8 
+
+-
+-
+
+328,8 
+
+-
+
+328,8 
+
+-
+
+328,8 
+
+-
+
+328,8 
+
+-
+
+face micelle-solvant peut &amp;tre traitt au moyen d'un concept 
+d'association qui suppose des contre-charges "lites" h la mi-
+celle au niveau de sa surface par l'intemtdiaire d'un tquilibre 
+d'tchange (14). 
+Cependant, la notion de "liaison" dans ce type de modble 
+doit Etre prise au sens large car elle n'implique pas l'existence 
+de sites sptcifiques sur la micelle pour l e rattachement des 
+contre-ions (15). I1 en rtsulte que l'on ne difftrenciera pas au 
+niveau de leurs proprittts thermodynamiques et en particulier 
+de leurs volumes molaires partiels, les contre-ions qui se 
+"fixent" sur la micelle des autres ions de la solution, cette 
+stparation ttant essentiellement formelle. 
+Lorsque ]'on ajoute h ces solutions une quantitt importante 
+d'tlectrolyte, on modifie notablement la rtpartition des contre-
+ions dans I'environnement des tdifices micellaires. Deux cas 
+peuvent alors se presenter: 
+(a) L'tlectrolyte possbde le m&amp;me contre-ion que le dtter-
+gent (ajout par exemple du sel M'Y-a une solution de dtter-
+gent cationique T+Y-). 
+Cette optration a pour constquence d'augmenter la concen-
+
+296LUyG-o--
+DTA 
+
+FIG. 3 . Variations des volumes molaires apparents moyens +, des 
+
+dktergents micellisks et des volumes molaires apparents ti dilution 
+infinie +O de KBr et (Bu),NBr (bromure de tktrabutylammonium) dans 
+les mklanges eau-KC1. 
+
+tration des ions Y-dans l'environnement immtdiat de la 
+micelle. Ceci peut se traduire dans le concept de l'tquilibre 
+d'association par un dtplacement de l'tquilibre d'tchange 
+(contre-ions associts 
+contre-ions libres) vers la forme as-
+socite, ce qui correspond h une saturation en contre-ions de 
+l'interface micelle-solvant. 
+Ce phtnombne dont la consCquence est un affaiblissement 
+des rtpulsions tlectrostatiques entre les "tEtes" polaires des 
+amphiphiles de la micelle est h l'origine de l'abaissement du 
+seuil critique micellaire (1 6). 
+(b) L'tlectrolyte possbde un contre-ion difftrent (par exem-
+ple l'ajout du sel M'X-h une solution de dttergent cationique 
+T' Y -). 
+Les ions X-introduits tendent h participer, en concurrence 
+avec les ions Y-, h 1'Clectroneutralitt des edifices micellaires. 
+Divers travaux (17-20) montrent que la rtpartition des ions 
+dans le proche environnement de la micelle n'est pas control6 
+exclusivement par le facteur entropique, mais qu'il faut Cgale-
+ment prendre en compte la nature chimique des contre-ions. 
+Dans le cadre du concept de l'tquilibre d'association, on 
+considbre qu'il s'ttablit un Cquilibre d'tchange entre les ions 
+X-et Y-plus ou moins dtplact vers l'une ou I'autre des deux 
+formes assocites (T+,X-et T+,Y-) selon la se'lectivitt relative 
+de la micelle pour les ions X-et Y-. 
+Can. J. Chem. Downloaded from www.nrcresearchpress.com by 87.160.185.190 on 03/27/14 
+
+For personal use only. 
+
+
+BOUGUERRA ET AL. 
+
+Toutefois, en presence de fortes quantitts d'tlectrolyte MX 
+il se crte, par simple "effet de masse", un environnement de la 
+micelle constitut presque exclusivement d'ions X-. 
+On peut ainsi admettre que les edifices micellaires catio-
+niques en prtsence de KC1 a forte concentration sont associts 
+aux ions chlorure, mCme si a l'origine les dttergents com-
+portaient un contre-ion different (Br-). 
+Les remarques prtctdentes permettent d'interprtter les pro-
+prittts des dttergents cationiques dans les milieux eau-KC1 et 
+
+en particulier le fait que leur volume molaire apparent +, , ne 
+
+depend pas de leur molalitt. Ce comportement est identique 2 
+celui observt pour les halogbnures alcalins mais sa justification 
+en est difftrente. En effet dans le cas d'un sel mintral P+Y-
+introduit dans une solution concentrte eau-KC1, il est ltgitime 
+de considtrer qu'aux faibles concentrations les ions P+ et Y-se 
+comportent dans le milieu comme des entitts indipendantes 
+(pas d'interactions P+-P+, P+-Y-, Y--Y-) (2) et en con-
+stquence que les proprittts de ces ions peuvent Ctre dtcrites par 
+les lois des solutions dilutes. La valeur du volume molaire 
+apparent de PY est alors constante tant que la concentration du 
+sel reste faible devant celle de l'tlectrolyte support. Elle s'iden-
+tifie alors 2 sa valeur extrapolte 2 dilution infinie. 
+
+[I1 +: Y = +: + + 4:-
+
+Dans le cas des tensioactifs, au contraire, les cations T+ sont 
+agrtgts sous forme d'tdifices micellaires et seuls les contre-
+ions Y-peuvent Ctre supposts sans interactions rtciproques 
+tant que la concentration en detergent reste faible. 
+La valeur constante observke indique donc, selon toute 
+vraisemblance, que 1' intensitk des interactions entre les amphi-
+philes T+ eux-m&amp;mes dans l'kdifice micellaire, mais tgalement 
+entre T+ et C1-ne varie pas lorsque la concentration du tensio-
+actif augmente. 
+B. Lorsque la concentration de l'tlectrolyte support croit, la 
+structure de l'tdifice micellaire se modifie. La configuration 
+initialement sphtrique tvolue selon la nature du detergent vers 
+des structures de symttrie moindre (15). 
+Toutefois au cours des ces modifications. les interactions 
+entre les tCtes polaires des amphiphiles et lei constituants du 
+solvant ne sont pas fondamentalement modifites, pas plus 
+d'ailleurs que celles qui existent entre les chaines aliphatiques 
+regrouptes au coeur de la micelle. I1 faut donc s'attendre 2 ce 
+que ces modifications n'entrainent pas de variations notables 
+des volumes molaires apparents des amphiphiles micellaires. 
+
+L'indtpendance des valeurs de +, , avec la concentration en 
+
+KC1 confirme cette hypothbse. I1 a t t t en effet montrt dans une 
+ttude prtctdente que les volumes molaires apparents indivi-
+
+duels A faible concentration des halogenures Y-s'identifiaient 
+
+2 leurs volumes intrinsbques ceux-ci Ctant eux-m2mes relies 
+
+2 leurs volumes cristallins (calcults 5 partir des rayons de 
+
+Pauling) par l'tquation: 
+
+[2] +y-= v: -= 1,92 v: -
+
+Les volumes molaires apparents +, des detergents T+Y-ttant 
+
+indipendants de la concentration en KCl, 4,-l'ttant tgale-
+
+ment, il en est ntcessairement de mCme pour les amphiphiles 
+
+T+ . 
+
+Les valeurs de +, (T') ne varient done pas avec la teneur de 
+
+la solution en chlorure de potassium. 
+
+111. Exploitation des resultats 
+Une prtctdente ttude sur le comportement des bromures de 
+tttraalkylammonium symttriques ((CH3(CH2),)JBr) a permis 
+
+FIG. 4. Variations des volumes intrinseques des arnphiphiles mi-
+cellisks CH3(CH2),N'(CH3)3 et des volumes intrinskques des titra-
+alkylammoniurn (CH~(CHZ),)~N' en fonction de n ou x. 
+
+de montrer que les volumes molaires apparents des ions orga-
+
+niques de grande taille (x &gt; 2) pouvaient Ctre identifits A leur 
+
+volume intrinsbque en solution saline concentrte (2). 
+
+L'indtpendance de +, (Tt) avec la concentration en KC1 
+
+laisse supposer qu'il doit en Ctre de mCme pour l'amphiphile 
+dans l'tdifice micellaire. S'il est ainsi, on peut alors tcrire: 
+
+soit encore en utilisant la relation [2]: 
+
+Les amphiphiles ttudits appartenant A une mCme famille de 
+
+composts CH3(CH2)nN(CH3)3 (n = 9, 11, 13 et 15), il est 
+possible de scinder leur volume intrinsbque en deux contribu-
+tions: V: relative au groupement polaire (CH3)J+, et nvkHI 
+relative aux n groupements CH2 constituant la chaine ali-
+phatique, en supposant que chacun d'entre eux possbde des 
+proprittts voisines (v:,~). 
+Le volume intrinsbque de T+ s'tcrit alors: 
+
+Les valeurs de v;+ ont t t t calcultes pour les quatre dtter-
+
+gents cationiques (tableau 4) et reporttes en fonction de n sur 
+
+la fig. 4. Le graphe reprtsentatif est une droite de pente v: , , = 
+
+16,5 cm3 mol-I et d'ordonnte A l'origine V: = 78,5 cm3 
+
+mol-I. 
+
+Le volume intrinsbque de l'amphiphile CH3(CH2),N+(CH3)3 
+
+s'tcrit donc: 
+Can. J. Chem. Downloaded from www.nrcresearchpress.com by 87.160.185.190 on 03/27/14 
+
+For personal use only. 
+
+
+CAN. 1. CHEM. VOL. 63, 1985 
+
+TABLEAU 4. Volumes intrinskques des amphiphiles 
+micellists dans les milieux salins concentrks eau-
+
+KC1 (v;,-= 35,9 cm3 mol-') 
+
+Dttergent 
+
+dTA DTA 'ITA HTA 
+
+TABLEAU 5. Volumes molaires moyens de NaDS et 
+DTA micellists et volumes molaires apparents de 
+NaCl et NaBr dans les mtlanges eau-NaC1 
+
+Electrolyte 
+
+CNaCl (rnol L-') NaBr NaCl NaDS DTA 
+
+La valeur trouvte pour le volume intrinskque du groupement 
+tttramtthylammonium (n = 0) s'identifie a celle que l'on cal-
+cule pour l'ion te'trame'thylammonium 2 p!rtir du rayon ionique 
+propost par Masterton et al. (r = 2,51 A) (21) en appliquant 
+la relation [2]. L'incrtment de volume pour chaque CH2 corres-
+
+pond a celui observt pour les alcanes purs (8 &lt; n &lt; 14) (22), 
+
+laissant ainsi supposer que l'association des chaines alipha-
+
+tiques au sein de l'tdifice micellaire conduit a la constitution 
+d'un "milieu interne" dont les proprittts s'apparentent a celles 
+
+des carbures saturts. 
+Cet incrtment est nettement suptrieur celui que l'on dtter-
+mine dans ce mCmes milieux pour les ions ammonium qua-
+ternaires symttriques (CH3(CH2),),N+ pour lesquels les CH2 
+posskdent un environnement aqueux (23). La representation 
+des variations du volume intrinskque des cations ammonium en 
+fonction de x conduit au tract d'une droite de pente tgale 21 
+4vkH, et d'ordonnte a l'origine V: relatif au mCme groupement 
+tttramtthylammonium (fig. 4). On obtient: 
+
+V: = 78,5 cm3 mol-' 
+
+MCme si l'on tient compte de la faible prtcision des extrapo-
+
+lations, il est a noter que l'on retrouve pour cette famille de 
+
+composts, une valeur identique a la prtctdente pour le volume 
+intrinskque du groupement (CH3),N+, ce qui semble justifier 
+les partitions des volumes telles qu'elles ont t t t rtalistes. 
+La diffkrence de volume intrinskque observte entre les 
+groupements -CH2-
+selon qu'ils posskdent un environne-
+
+ment ionique aqueux ou hydrophobe est a I'origine du phtno-
+mkne d'expansion lit a la micellisation qui apparait ainsi 
+
+comme une constquence du changement d'environnement de 
+la partie hydrophobe du dttergent (24, 25). 
+
+Cas d u n de'tergent anionique: le dodkcylsulfate de sodium 
+L'influence des Clectrolytes sur les micelles de NaDS et entre 
+autres, les variations de la cmc avec la teneur en sel ont fait 
+l'objet de nombreux travaux (26-29). Dans le cas du sel NaC1, 
+il a t t t ttabli que le volume des micelles et donc leur rayon, ne 
+varie que trks faiblement (27) tant que la concentration de 
+l'tlectrolyte reste inftrieure 0,45 mol L-' (26,28). Au dela de 
+
++ N a D S 
+
+a N a C I 
+o N a B r 
+
+975 (rnol c' -) 
+
+FIG. 5. Variations des volumes molaires moyens de NaDS et DTA 
+et des volumes molaires apparents de NaCl et NaBr dans les milieux 
+eau-NaC1 a 298 K. 
+
+cette limite la forme sphtrique Cvolue vers une forme cylindri-
+que (28) dont la stabilitt a pu &amp;tre ttudite thermodynamique-
+ment (29). Toutefois, comme nous l'avions fait remarquer 
+prtctdemment, il est probable que cette transition n'affecte pas 
+de manibre notable les volumes molaires partiels des amphi-
+philes et l'on pourra considtrer que le volume molaire apparent 
+de l'ion dodtcylsulfate (DS-) reste identique 51 son volume 
+intrinskque, c'est-a-dire invariant avec la teneur de la solution 
+en Clectrolyte support dbs que celle-ci est suffisamment 
+importante. I1 n'en sera pas de mCme, en revanche, pour le 
+volume molaire apparent individuel du cation associt puisque 
+celui-ci varie avec la teneur de la solution en tlectrolyte support 
+(2). I1 s'ensuit que contrairement aux dttergents cationiques, il 
+
+faille attendre re a observer pour les anioniques une variation de 
+
+leur volume molaire apparent avec la concentration du sel de 
+fond. 
+Pour des raisons de solubilitt, nous n'avons pas pu ttudier 
+le comportement de NaDS dans les mtlanges eau-KC1. 
+La verification des hypothkses prtctdentes a donc t t t tentte 
+dans les mtlanges eau-NaC1 entre 0,25 et 0,75 molaire 
+en chlorure de sodium ou nous avons ttudit a titre de compa-
+raison les volumes molaires partiels de NaDS, NaBr, NaCl, 
+c12H25N(CH3)3~~ 
+Les rtsultats exptrimentaux sont regroupts dans le tableau 
+5. Comme on peut le remarquer sur la fig. 5, le volume molaire 
+apparent du dttergent cationique est indtpendant de la con-
+
+centration de la solution en NaCl, alors que l'on assiste a 
+des variations tout a fait comparables pour NaDS, NaCl et 
+
+NaBr, dues essentiellement au comportement particulier de 
+l'ion sodium. 
+
+Le volume molaire intrinsbque attribuable a l'ion dodtcyl-
+sulfate est de l'ordre de 262 cm3 mol-'. Cette valeur est tout a 
+
+fait comparable avec celle calculte pour le volume intrinskque 
+de l'amphiphile cationique, ayant mCme chaine aliphatique 
+(CH~(CH~)~~N(CH~):) qui est de l'ordre de 260 cm3 mol-'. 
+Ces rtsultats confirment les r6les dissymttriques jouts par 
+les cations et les anions dans les solutions salines concentrtes. 
+La connaissance des valeurs des volumes intrinskques des 
+amphiphiles micellists (anioniques ou cationiques) dans les 
+mtlanges eau-sel permet tgalement d'estimer de manitre prt-
+cise la contribution volumique de la phase micellaire au volume 
+total de la solution. 
+Can. J. Chem. Downloaded from www.nrcresearchpress.com by 87.160.185.190 on 03/27/14 
+
+For personal use only. 
+
+
+
+	
+

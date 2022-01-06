@@ -1,0 +1,400 @@
+
+	
+
+		
+
+	
+
+	
+
+Effets de solvant sur les complexes par transfert de charge iode -composes thiocarbonyles 
+
+GEORGES GUIHENEUF,' Josfi-LUIS M. ABBOUD~ ET WIDDED BOUAB 
+
+Laboratoire de chimie physique organique, Universiti Cadi Ayyad, BP S 15, Marrakech, Maroc 
+R e p le 25 aoClt 1986 
+
+GEORGES GUIHENEUF, Jose-LUIS M. ABBOUD et WIDDED BOUAB. Can. J. Chem. 65, 2106 (1987). 
+
+Les effets de solvant sur divers complexes par transfert de charge iode -bases thiocarbonylCes de stabilitk variable ont Ct C 
+dtterminCs et sont comparCs aux effets de solvant sur les complexes iode -composes carbonylCs. L'inversion de l'effet des 
+solvants donneurs de liaison hydrogkne en passant d'une serie 5 I'autre rCsulte du caractkre dur des bases carbonylCes et mou des 
+bases thiocarbonylkes. 
+
+GEORGES GUIHENEUF, Josg-LUIS M. ABBOUD, and WIDDED BOUAB. Can. J. Chem. 65,2106 (1987). 
+
+The effects of solvents on different iodine -thiocarbonyl base charge-transfer complexes of variable stability have been 
+examined and these are compared with the effects of solvents of the iodine -carbonyl compound complexes. There is an 
+inversion of the effect of those solvents that can form hydrogen bonds on going from one series to the other, which is attributed 
+to the fact that the carbonyl compounds are hard bases while the thiocarbonyl compounds are soft bases. 
+[Journal translation] 
+
+Introduction 
+Parmi les multiples facteurs qui gouvernent la stabilitC des 
+complexes par transfert de charge, le milieu : phase gazeuse ou 
+solution exerce une influence diterminante (1). La nature du 
+solvant, elle-m&amp;me, modifie notablement les constantes de 
+complexation. En gCnCral, ces valeurs diminuent lorsque la 
+polaritt du solvant augmente; c'est le cas, par exemple, pour 
+les complexes entre un donneur d'Clectron et un accepteur n 
+(2). Lorsque l'accepteur dYClectron est la moltcule d'iode, 
+un changement de solvant peut, selon le donneur considtrC, 
+conduire aussi bien a un accroissement (3-7) qu'a une diminu-
+tion (8-11) des constantes Kc de complexation. Ainsi pour le 
+complexe entre l'iode et la N,N dimtthylacCtamide, Kc diminue 
+de 15 dm3 mol-' (12) lorsque le solvant est l'heptane, a 
+1,4 dm3 mol-' avec le dichloromCthane (8). Au contraire, 
+si l'on considkre la complexation de l'iode avec la tetra-
+mCthylthiourte, la constante subit une forte augmentation de 
+
+13 000 dm3 mol-' dans l'heptane (3) i 49 000 dm3 mol-I dans 
+
+CH,C12 (3). 
+Pour expliquer ces divergences dans les variations de Kc avec 
+le ~o l v a n t ~~u ~d a h l 
+et coll-(3) ont tmis l'hypothkse que le sens 
+de l'effet de solvant depend du pourcentage de transfert de 
+charge dans 1'Ctat fondamental et donc de la grandeur de la 
+constante de formation du complexe. Si le transfert de charge 
+est faible (N,N dirntthylacCtamide par exemple) la constante 
+dtcroit lorsque la polaritt du solvant augmente (1 1). A l'inverse, 
+si le comdexe correspond 
+un transfert de charge Clevt 
+(tCtramCthylthiourCe) un solvant polaire stabilise le complexe et 
+entraine une forte augmentation de la constante d'kquilibre. Le 
+sens de variation de K c avec la polaritt du solvant dCpendrait 
+donc uniquement de la stabilitC du complexe et par con-
+sequence, pour un accepteur donnC, de la basicit6 du donneur 
+d'blectron. I1 est ~ossible de tester la validit6 de ce modkle en 
+Ctudiant l'effet des solvants sur les complexes de l'iode avec des 
+composCs thiocarbonylCs dont la basicit6 est voisine de celle de 
+la dimCthylacCtamide. Si l'hypothkse d'Augdahl et coll. est 
+justifite, on doit alors observer le mCme sens d'effet de solvant 
+pour les bases carbonyltes et thiocarbonylCes. 
+
+1. Adresse pour la correspondance : Institut Universitaire de 
+Technologic, B.P. 420, 44606 Saint-Nazaire CEDEX, France. 
+2. Adresse pour la correspondance : Institute de Quimica Fisica 
+~cRocasolanon, C.S.I.C. Serrano, 119, 28006 Madrid, Espagne. 
+3. RCvision reGue le 3 avril 1987. 
+
+TABLEAU 1. Constantes de formation K c des complexes de l'iode 
+
+avec le dithioester C4H9CSSCH3 et le thiocamphre 
+
+Solvants 
+
+nC7H16 
+C C 4 
+CHC13 
+C6H5Cl 
+CH3CCI3 
+CH2C12 
+0-C6H4C12 
+CH2CICH2CI 
+
+-
+-
+
+Kca (C4H9CSSCH3) Kca (thiocamphre) 
+
+' En dm3 mol-', 2 25"C, la reproductibilitC correspond ? i 
+un degrk de 
+confiance de 95%. 
+
+Resultats 
+Deux bases thiocarbonylCes ont CtC retenues : le thiocamphre 
+et le dithioester C4H9CSSCH3. Les constantes de complexation 
+du tableau 1 ont CtC calcultes a partir des absorbances des 
+bandes de l'iode libre et complex6 qui se trouvent entre 400 et 
+520 nm. Les deux bases absorbent Cgalement dans ce domaine 
+de longueur d'onde; une correction a Ct C effectute pour chaque 
+solution. La mCthode de calcul est celle de Rose et Drago ou une 
+mtthode dtrivCe (1 3). 
+Nous avons vCrifiC qu'il n'y avait pas prtcipitation du com-
+plexe dans les solvants apolaires et que les spectres n'kvoluaient 
+pas pendant la durCe de l'exptrience. Nous nous sommes 
+Cgalement assurts de l'absence des ions 13-qui apparaissent 
+frCquemment dans les milieux polaires et entrainent des erreurs 
+importantes sur les valeurs des constantes. 
+
+Discussion 
+Parmi les solvants, aucun ne posskde un caractkre basique 
+suffisant pour entrer en competition avec les bases thiocar-
+bonyltes. La presence d'un ou deux atomes de chlore sur le 
+noyau abaisse sensiblement la basicit6 du cycle aromatique du 
+chloro ou de l'ortho-dichlorobenzkne. Les constantes mesurCes 
+dans ces deux solvants ne rCvklent pas une prtsence significative 
+de complexe iode-solvant analogue au complexe iode-benzkne 
+(8). 
+Avec les bases thiocarbonylCes CtudiCes nous constatons, 
+comme pour les thioamides et les thiourees, une augmentation 
+des valeurs de Kc avec la polarit6 du solvant, caractCrisCe par sa 
+Can. J. Chem. Downloaded from www.nrcresearchpress.com by 87.160.185.190 on 03/27/14 
+
+For personal use only. 
+
+
+GUIHENEUF ET AL. 
+
+2107 
+
+TABLEAU 2. Constantes de complexation de I2 avec CH3CON(CH3)2 (DMA) et HCON(CH3)* (DMF) 
+
+Solvants 
+
+Kca(DMA ... 12): 
+
+1 5 ~ 
+6,9' 
+1,4' 
+0,6?0,3 
+7,35 1 
+8,72 1 
+Kca (DMF.. .I2) : 
+6,45b 
+2,9d 
+0,95I+-0,2 
+
+-
+
+2,7 2 0,5 
+5,3 2 0,7 
+
+" K c en dm3 mol-', 2 25°C. La reproductibilite, indiqute uniquement pour les valeurs determinees au cours de 
+cette etude, correspond 2 un degrC de confiance de 95%. 
+bRCfirence 12. 
+'Reference 8. 
+dRCfirence 21. 
+
+constante dielectrique. Nous pouvons donc immkdiatement en 
+conclure que le modkle d'Augdahl et coll. n'est pas satisfaisant : 
+ccle sens de l'effet de solvant, diminution ou augmentation 
+de la constante de complexation, n'est pas lit? uniquement au 
+pourcentage de transfert de charge dans l't?tat fondamental et 
+ci la grandeur de la constante d'kquilibre,,. I1 apparait au 
+contraire comme une propriCtC qui dCpend de la nature chimique 
+du site donneur d'ilectron. Pour tous les donneurs d'electrons 
+thiocarbonylCs le sens de l'effet de solvant est identique, quel 
+aue soit la valeur de la constante d'association avec l'iode. I1 
+iaut donc rechercher ailleurs les raisons de l'inversion des effets 
+de solvant entre les bases carbonylCes et thiocarbonylCes. 
+I1 est indispensable, auparavant, de prCciser la notion, 
+souvent ambigiie, de polarit6 des solvants. Nous distinguerons 
+les effets liCs rCellement a la polaritC-polarisabilitC de ceux qui 
+dCpendent des interactions spCcifiques (14). Ces interactions, 
+liaison hydrogkne ou transfert de charge, sont fonction de la 
+basicit6 (ou de 1'aciditC) du solvant d'une part, de l'aciditk 
+(ou de la basicitC) de l'accepteur et du donneur d'Clectron, 
+d'autre Dart. Or les basicitCs relatives d'une sCrie de donneurs 
+d'Clectron dCpendent de l'acide choisi comme rCfCrence; il est 
+impossible de caractiriser la basicit6 par un paramktre unique 
+qui Ctablirait une Cchelle intrindque des basicitCs (15, 16). Pour 
+pallier cette difficultk, Pearson a propost5 de distinguer entre 
+acidit6 et basicit6 dures et molles (17). Ce modkle permet 
+de prCvoir les interactions privilCgiCes entre acides et bases 
+possCdant des caractkres durs ou mous semblables. Nous avons 
+pu expliquer, de cette faqon, que les constantes d'association de 
+l'iode (acide mou) avec les bases thiocarbonylCes (bases molles) 
+sont beaucoup plus grandes que les constantes d'association 
+avec les bases carbonylCes (bases plus dures) (18). L'inverse est 
+observC avec les donneurs de liaison hydrogkne (acides relative-
+ment durs) : par exemple, a 20°C, dans CC14, la constante 
+d'association du phCnol avec la dimCthylacCtamide est de 
+
+152 dm3 mol-' alors qu'elle n'est que de 12 dm3 mol-' avec la 
+
+dimCthylthioacCtamide (1 9). 
+Jusqu'a prCsent, ces paramktres de duretC, ou de mollesse, 
+n'ont pas Ct C pris en considCration lors de la comparaison des 
+effets des solvants CtudiCs bien que ceux-ci soient donneurs de 
+liaison hydrogkne (CH2C12, CHC13) ou accepteur d'Clectron 
+(CC14) (20). Compte tenu des observations prCcCdentes nous 
+prCvoyons, dans le cadre de ce modkle, que les interactions par 
+liaison hydrogkne de CH2C12 et CHC13 sont privilCgiCes avec 
+les bases les plus dures, c'est-a-dire les composCs carbonylCs. 
+Elles sont, en revanche, faibles avec les bases thiocarbonylees. 
+En condquence, la composante prkdominante de l'effet de 
+CH2C12 ou CHC13 sur la stabilitC des complexes iode -bases 
+carbonylCes est l'interaction par liaison hydrogkne du solvant 
+avec la base. I1 en rCsulte, par rapport a l'heptane, une 
+
+diminution de la constante de complexation avec l'iode. Au 
+contraire, dans le cas des bases thiocarbonylCes, l'incidence 
+des liaisons hydrogkne est nkgligeable; ce sont les effets de 
+polaritC-polarisabilitC qui vont determiner le sens de variation 
+de la constante. Or le complexe avec l'iode posskde, en raison 
+du transfert de charge, un moment dipolaire plus important que 
+celui du donneur libre ce qui conduit, puisque la polarit6 du 
+solvant s'accroit de l'heptane 9 CH2C12 ou CHC13, a un terme 
+CnergCtique favorable qui stabilise le complexe et augmente la 
+constante. L'inversion du sens des effets de solvant est donc une 
+consCquence de la dualit6 du caracthe basique, mou et dur, des 
+donneurs d'klectron. 
+Plusieurs rCsultats confirment cette interprktation et la vali-
+ditC du modkle : 
+(i) Le chloroforme est un donneur de liaison hydrogkne plus 
+fort que le dichloromCthane, l'abaissement de la constante 
+d'association iode -base carbonylCe doit &amp;tre plus importante 
+avec le chloroforme. ConformCment a cette prkcision, la 
+constante de formation du complexe iode-dimCthylacCtamide 
+
+est de 1,4 dm3 mol-' dans le dichloromCthane (8) et seulement 
+de 0,6 dm3 mol-' dans le chloroforme (tableau 2). 
+
+(ii) CH2C12 (E = 8,93) est plus polaire que CHC13 (E = 4,8); 
+la stabilisation des complexes iode-dimCthylthioacCtamide et 
+iode-thiocamphre doit donc &amp;tre plus forte dans CH2C12. Les 
+valeurs expCrimentales vCrifient cet ordre : les constantes sont 
+plus ClevCes dans CH2C12 que dans CHC13. 
+(iii) Les abaissements des constantes enpassant de l'heptane 
+au tktrachlorure de carbone sont importants avec les bases 
+carbonylCes; dans le cas des bases thiocarbonylCes, les valeurs 
+diffkrent peut entre les deux solvants. Ici encore, les rCsultats 
+corroborent pleinement le modkle proposC. Le chlore, atome 
+accepteur du CC14, est un site relativement dur, les complexes 
+carbonyle-CC14 sont donc plus stables que les complexes 
+thiocarbonyle-CC14. La compCtition entre les deux complexes 
+base-I2 et base-CC14 est plus marquCe dans le cas des bases 
+carbonylCes d'ou les variations plus importantes qu'avec les 
+bases thiocarbonylCes. 
+(iv) Avec les solvants non donneurs de liaison hydrogene 
+
+(CH3CC13, C1C6H5, 0-C12C6H4, . . .) les interactions polaires 
+
+sont seules prisentes, quel que soit la base. Elles conduisent 9 
+des augmentations des constantes de formation avec la polarit6 
+du milieu, indkpendantes de la stabilitC des complexes iode-
+thiocarbonyles. 
+Dans le cadre de ce modkle des effets de solvant et en 
+se limitant aux solvants non donneurs de liaison hydrogkne, 
+nous attendons Cgalement une augmentation des constantes 
+de complexation de l'iode avec la dimCthylacCtamide et la 
+dimCthylformamide lorsque la polarit6 du solvant s'accroit. 
+Nous avons, pour ces deux amides, Clargi la gamme de polarit6 
+Can. J. Chem. Downloaded from www.nrcresearchpress.com by 87.160.185.190 on 03/27/14 
+
+For personal use only. 
+
+
+2108 
+
+CAN. J. CHEM. VOL. 65. 1987 
+
+des solvants aux chloro et ortho-dichlorobenzkne (tableau 2). 
+Nous observons effectivement un accroissement rCgulier des 
+
+valeurs Kc en passant de CC14 a ClC6H5 et o-C12C6H4. 
+Cependant, m&amp;me dans ce dernier solvant, la valeur Kc est 
+
+inferieure a celle de l'heptane. I1 faudrait, pour retrouver une 
+
+valeur identique, accroitre encore la polarit6 du solvant, ce 
+qui est difficile ? i 
+
+rkaliser expirimentalement : les ions 1,-se 
+
+f o m e n t alors trks rapidement et interdisent une determination 
+significative d e la constante. Lors de la formation du complexe, 
+
+une molkcule d'iode se substitue a une molecule d e solvant dans 
+
+la couche de solvatation, c e qui introduit sur le plan Cnergetique 
+un terme de destabilisation du complexe. Pour avoir une 
+
+augmentation de la constante, il faut que la stabilisation due a 
+
+l'interaction dipolaire du solvant avec le complexe compense 
+le terme dkfavorable. L e pourcentage de transfert d e charge 
+peut alors intervenir; il doit Etre suffisant pour que l'interaction 
+suppltmentaire complexe-solvant l'emporte sur l'effet rCsul-
+tant de l'approche de l'iode. Ces deux facteurs antagonistes 
+peuvent expliquer les variations observkes dans le cas des bases 
+carbonylkes : diminution puis augmentation des constantes 
+lorsque la polarite des solvants s'accroit. En l'absence de 
+modkle autorisant une Cvaluation quantitative des diverses 
+
+contributions nous devons nous limiter a l'interprktation quali-
+
+tative fondee sur la dualit6 des caracteres acides et basiaues. 
+Nous retiendrons que les solvants polaires non donneurs 
+de liaison hydrogkne (0-dichlorobenzkne, par exemple) stabi-
+lisent, en rkgle gCnCrale, les complexes par transfert d e charge 
+avec l'iode. Les solvants polaires donneurs de liaison hydro-
+gkne (CHCI,), qui sont des acides durs au sens de Pearson, 
+stabilisent tgalement les complexes par transfert de charge de 
+l'iode avec les bases molles (thiocarbonylCes) car ils inter-
+viennent quasi exclusivement par leurs effets non specifiques de 
+polaritt. En revanche, ces solvants destabilisent les complexes 
+de iode avec les bases dures (carbonylees) puisqu'ils entrent en 
+competition avec l'iode pour se complexer avec la base. 
+
+Partie experimentale 
+
+Les mesures d'absorbance ont Ctt rtalisCes sur un spectrometre Cary 
+219 tquipt de cellules quartz de 1 cm. La tempirature etait maintenue 
+constante, ?I 25"C, par une circulation d'eau ?I partir d'un cryostat 
+Lauda K2R. 
+Le thiocamphre, prepart par action de P4Slo sur le camphre (22) a 
+kt6 recristallisk dans un mtlange eau-alcool puis chromatographit sur 
+colonne de gel de silice (tluant : hexane). I1 a ensuite C t t sCchC sous 
+vide sur P2O5. Le dithioester C4H9CSSCH3, obtenu par la mtthode de 
+Meijer et al. (23), a CtC purifiC par distillations rCpCtCes. 
+
+Tous les solvants ont tte purifits avant usage (24) et stchts sur tarnis 
+
+moltculaires 4 A. 
+
+1. K. M. C. DAVIS. Daris Molecular association. Vol. 1. Edite' par 
+R. Foster. Academic Press, New York. 1975. 
+2. J. P. MOUCHET et Y. ROUSSET. J. Chim. Phys. 77, 529 (1980). 
+3. H. MOLLENDAL, J. GRUNDNES et E. AUGDAHL. Acta Chern. 
+Scand. 23, 3525 (1969). 
+4. E. AUGDAHL, J. GRUNDNES et P. KLABOE. Inorg. Chern. 4, 1475 
+(1965). 
+5. F. A. DEVILLANOVA et G. VERANI. Tetrahedron, 35,511 (1979). 
+6. I. URUSKA. Spectrochim. Acta Part A : 36, 639 (1980). 
+7. A. SUSZKA. J. Chem. Soc. Perkin Trans. 2, 531 (1985). 
+8. R. S. DRAGO, T. F. BOLLES et R. J. NIEDZIELSKI. J. Am. Chern. 
+Soc. 88, 2717 (1966). 
+9. J. D'HONDT, C. DORVAL et T. ZEEGER-HUYSKENS. J. Chirn. 
+Phys. 69, 516 (1972). 
+10. B. B. BHOWMIK et S. P. CHATTOPADHYAY. Spectrochim. Acta 
+Part A : 36, 543 (1980). 
+11. C. DORVAL-BURNOTTE et T. ZEEGER-HUYSKENS. Ann. Soc. 
+Chim. Belg. 89, 559 (1975). 
+12. C. LAURENCE, G. GUIHENEUF et B. WOJTKOWIAK. J. Am. 
+Chem. Soc. 101, 4793 (1979). 
+13. R. FOSTER. Organic charge-transfer complexes. Academic Press, 
+New York. 1969. 
+14. J. L. M. ABBOUD, R. W. TAFT et M. J. KAMLET. J. Chem. Soc. 
+Perkin Trans. 2, 815 (1985). 
+15. R. S. DRAGO, G. C. VOGEL et T. E. NEEDHAM. J. Am. Chem. 
+Soc. 93, 6014 (1971). 
+16. C. LAURENCE, M. QUEIGNEC-CABANETOS, T. DZIEMBOWSKA 
+R. QUEIGNEC et B. WOJTKOWIAK. J. Am. Chem. Soc. 103,2567 
+(1981). 
+17. R. G. PEARSON. J. Am. Chem. Soc. 85, 3533 (1963). 
+18. G. GUIHENEUF,,W. BOUAB, J. L. M. ABBOUD et A. BOUSSAOUD. 
+Can. J. Chem. A paraitre. 
+19. T. GRAMSTAD et J. SANDSTROM. Spectrochim. Acta Part A : 25, 
+31 (1969). 
+20. J. M. DUMAS, H. PEUR~CHARD et M. GOMEL. J. Chem. Res. (S), 
+54 (1978). 
+21. R. S. DRAGO, D. A. WENZ et D. A. CARLSON. J. Am. Chern. 
+Soc. 84, 1106 (1962). 
+22. J . W. SHEEREN, P. H. J. OOMS et R. J. F. NIVARD. Synthesis, 149 
+(1973). 
+23. J. MEIJER, P. VERMEER et L. BRANDSMA. Recl. Trav. Chirn. 
+Pays-Bas, 92, 601 (1973). 
+24. J . A. RIDDICK et W. B. BUNGER. Organic solvents. Wiley-
+Interscience, New York. 1970. 
+
+Can. J. Chem. Downloaded from www.nrcresearchpress.com by 87.160.185.190 on 03/27/14 
+
+For personal use only. 
+
+
+
+	
+

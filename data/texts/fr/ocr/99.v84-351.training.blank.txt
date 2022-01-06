@@ -1,0 +1,707 @@
+
+	
+
+		
+
+	
+
+	
+
+Synthese de meso-a,? bis(diamin0-2,6 phenyl) porphyrines 
+
+ALEXANDRA LECAS-NAWROCKA, JACQUES LEVISALLES, CLAIRE MARIACHER, ZAFIARISOA RENKO ET ERIC ROSE' 
+
+Laboratoire de Chimie Organique (UA 408), UniversitP Pierre et Marie Curie, 4 Place Jussieu, 
+75230 Paris, Cedex 05, Fratlce 
+
+Re~u le 17 janvier 1984 
+
+Cer article esr dtdiP nu Professeur Pcrul de Mayo ci l'ocv.a.siot~ de son 60' anniver.scrire 
+
+ALEXANDRA LECAS-NAWROCKA, JACQUES LEVISALLES, CLAIRE MARIACHER, ZAF~ARISOA RENKO et ERIC ROSE. Can. J. 
+Chem. 62, 2054 (1984). 
+Les synthkses de miso-a,y bis(diamin0-2,6 phCnyl) octaalkyl-porphyrines ont ttt r6alisCes ?i partir de diacitamido-2,6 
+phinyl bis(benzyloxycarbony1-2' dialkyl-3',4' pyrryl-5') mithanes. La synthese de telles porphyrines A double piquet permet 
+la fonctionnalisation des quatre groupes amino de maniere a proteger les deux faces de la porphyrine. 
+
+ALEXANDRA LECAS-NAWROCKA, JACQUES LEVISALLES, CLAIRE MARIACHER, ZAFIARISOA RENKO, and ERIC ROSE. Can. J. 
+Chem. 62, 2054 (1984). 
+The syntheses of a,?-meso-bis(2,6 diaminophenyl) octaalkyl-porphyrins are described starting from 2.6-diacetamidophenyl-
+bis(2'-benzyloxycarbonyl, 3',4'-dialkyl, 5'-pyrryl) methanes. The synthesis of such double-picket-fence porphyrins enables 
+the four amino groups to function in such a way as to protect both faces of these porphyrins. 
+
+La recherche de modeles de l'hkmoglobine a conduit divers 
+groupes a synthktiser des porphyrines a piquets (1) ou des 
+porphyrines a anses (2). Les porphyrines a anses dkja syn-
+thktiskes ne cornportent qu'une seule anse, ou deux anses indk-
+pendantes (une sur chaque face du squelette porphyrinique). 
+Cet arrangement confere a ces molkcules une mobilitk con-
+formationnelle notablement supkrieure a celle de l'hkmo-
+globine, donc en fait des rnodkles imparfaits. S'il ktait possible 
+de coupler mkcaniquement le mouvement des deux anses, la 
+mobiliik conformationnelle devrait Ctre dirninuie, et les mo-
+dkles ainsi synthktisks devraient Etre rneilleurs. Ce couplage 
+mkcanique peut en principe Ctre obtenu en greffant les deux 
+anses sur des groupes phknyles, fixes sur des positions rne'so 
+opposkes ( a et y) du squelette porphyrinique et disubstituks en 
+positions 2 et 6, par des groupernents fonctionnels permettant 
+la greffe (3). 
+
+-. , 
+
+La prkparation de porphyrines mkso (a,y) disubstitukes par 
+des groupes phknyles 2,6 disubstituks fait I'objet du present 
+mkmoire. 
+
+Resultats 
+Trois pyrroles ont kt6 ernployks dans la reaction de synthese: 
+le dimethyl-3,4 pyrrole carboxylate de benzyle l c , a cause de 
+la simplicitk de sa prkparation, est un candidat kvident, rnais les 
+octamethyl porphyrines sont notoirernent insolubles, ce qui 
+peut poser des problernes pour le greffage des anses. C'est 
+pourquoi les butyl-3 mkthyl-4 pyrrole carboxylates d'kthyle l a 
+et de benzyle 16 ont Ct C egalernent prkparks avec l'espoir que 
+les tetramkthyl-tktrabutyl-porphyrines obtenues auraient des 
+solubilitCs satisfaisantes. 
+Les pyrroles l a et l b sont synthktises par la mkthode em-
+ployee pour le pyrrole Id (4). L'Cthoxycarbonyl-2 dimethyl-
+3,5 butyl-4 pyrrole 2a est prkparC selon la rnkthode de Klein-
+spehn (5) par condensation de I'oxirninornalonate de dikthyle 
+(6) sur l'acktyl-3 heptanone-2 (7). 
+La transestkrification (5) de l'ester kthylique 2a livre l'ester 
+benzylique 26. Le pyrrole 26 est transform6 en pyrrole l a selon 
+la mCthode de McDonald et al. (8): l'oxydation du pyrrole 26 
+par 3 Cquivalents de chlorure de sulfuryle, suivie d'un trai-
+tement a 1'Cthanol conduit au diester 2c dont l'hydrogknolyse 
+
+fournit l'acide 2d. La dkcarboxylation de l'acide 2d selon la 
+methode de Battersby et al. (9) conduit au pyrrole l a qui est 
+transestkrifik en pyrrole 16. Le rendernent global du pyrrole lb 
+a partir du malonate d'kthyle est de 18%. 
+La rkactivitk du pyrrole lb a kt6 testCe sur le dikthoxy-3,3 
+propionate d'kthyle selon le mode opkratoire classique (10) en 
+prksence de p-TsOH. Le dipyrrylmkthane correspondant 3a se 
+forme avec un rendernent de 70%. 
+Dans les conditions habituelles (EtOH, HC1) (10) utilistes 
+lors de la condensation d'un pyrrole avec un aldehyde, les 
+pyrroles l a et 16 ne rkagissent pas en presence de dinitro-2,6 
+benzaldkhyde, rnais sont rkcupkrks intacts. Lorsque la conden-
+sation est effectuee en prksence de p-TsOH, les produits qui se 
+
+H 
+
+A 
+
+l a R' = Bu R = COOEt 
+2a R = Me R" = COOEt 
+b R' = Bu R = COOCH,Ph b R = Me R" = COOCH,Ph 
+c R' = Me R = COOCH,Ph c R = COOEt R" = COOCHIPh 
+d R' = Et R = COOCH,Ph d R = COOEt R" = COOH 
+e R = COOEt R" = I 
+
+40 X = NO R = Et 
+b X = NHOH R = Et 
+L. X = NO R = CH2Ph 
+
+' Auteur ?i qui toute correspondance doit Ctre adressee. 
+
+Can. J. Chem. Downloaded from www.nrcresearchpress.com by 87.160.185.190 on 03/27/14 
+
+For personal use only. 
+
+
+LECAS-NAWROCKA ET AL.: I 
+
+6u R = COOEt 
+b R = COOCH,Ph 
+(. R = COOCH,Ph 
+rl R = COOCH,Ph 
+e R = COOH 
+,f R = COOH 
+R R = COOH 
+h R = COOH 
+i R = CO,CH,Ph 
+
+X = NO, 
+X = NO, 
+X = NHAc 
+X = NHAc 
+X = NO, 
+X = NHAc 
+X = NHAc 
+X = NH, 
+X = NO? 
+
+f o m e n t ne sont pas des phenyl-dipyrrylmethanes. Leurs stmc-
+tures 4 et 5 et leur mode de formation sont decrits dans le 
+
+memoire suivant (1 1). 
+
+En revanche, lorsque la condensation est effectuee en pre-
+sence de quantites catalytiques de CF3C03H dans le benzene, 
+
+les dipyrrylmethanes attendus 6a et 6b sont obtenus a cBte de 
+faibles quantites des produits 4 et 5. Le choix des conditions 
+experimentales est assez limite, car le dipyrrylmkthane 6a est 
+
+obtenu avec un rendement de 63% si l'on opere dans le benzene 
+
+2 temperature ordinaire, de 3470 si l'on opere au reflux du 
+benzene pendant 1 h, et de 8% si l'on opere dans le chloro-
+
+forme. 
+Si on emploie le diacetamido-2,6 benzaldehyde (12)' dans le 
+
+benzene, en presence de p-TsOH, les pyrroles l c et l b con-
+duisent respectivement aux dipyrrylmethanes 6c et 6d. C e pa-
+
+ssage par le diacetamido benzaldehyde est rendu nicessaire par 
+le fait que l'hydrolyse (acide ou basique) du dipyrrylmethane 
+
+6b ne conduit qu'a des polyrneres, que I'hydroginolyse de 6b 
+conduit apparement au diacide 6e, mais que celui-ci n'est pas 
+
+transformable en porphyrine et que la reduction des groupes 
+
+NO2 ne conduit 2 aucun produit renfermant le squelette du 
+
+dipyrrylmethane. 
+
+L'hydrogenolyse des dipyrrylmCthanes 3n, 6c et 6d conduit 
+aux diacides 3b, 6 f et 6q respectivement. 
+
+Afin de verifier que les g-oupes n-butyles ne gEnent pas la 
+
+formation de porphyrines, le diacide 3b a kt6 traite par 
+
+HC(OEt)3 et CC13C02H ou CF3C02H, ce qui conduit apres 
+
+deshydrogenation par la dichlorodicyanoquinone (DDQ), a la 
+porphyrine 7a. De m t m e les diacides 6 f et 6g conduisent 
+respectivement aux porphyrines 7c et 7b. 
+La dksacttylation de 7c en 7d et la transformation en derive 
+trimCthylacetyle de 7d en 7 e ont egalement pu Ctre effectuees. 
+
+En conclusion, la synthese de porphyrines meso-
+
+disubstituees en a et y par des groupes-phenyles ortho di-
+substitues est possible. La synthese et les proprietes des por-
+phyrines a deux anses couplees, qui en derivent, seront decrites 
+
+dans des memoires ultirieurs. 
+
+Partie experimentale 
+
+Les spectres rmn ont Ct C enregistrts sur un appareil JEOL C 60 HL 
+(60 MHz). Les spectres d'absorption ir ont t t C enregistrts sur un 
+spectrophotomktre Beckman 4240. Les spectres uv sont rCalisCs avec 
+un appareil Beckman DK 2A. Les spectres de masse ont C t t rtalists 
+sur un appareil Crantos MS 30 MS 50. Les spectres de rmn "C et 
+
+'La synthkse du diacttamido-2,6 benzaldthyde a CtC rCalisCe au 
+laboratoire par une autre mCthode qui sera dtcrite dans une autre 
+publication. 
+
+b R = 
+
+AcNH 
+
+c R = 
+R f = Me 
+
+AcNH 
+
+d R = 
+
+H2N) 
+
+R' = Me 
+
+H2N 
+
+e R = 
+
+rBuCONH 
+
+certains spectres rmn 'H ont Ctt effectuts sur un apparcil JEOL FX 
+
+90Q. Les microanalyses ont Ct C effectukes au service de microanalyse 
+de I'UniversitC Pierre et Marie Curie. 
+Lorsque la mCthode d'isolement des produits rCactionnels comporte 
+une dilution tventuelle du milieu par I'eau, une extraction par solvant 
+organique par I'eau et tventuellement une solution diluee d'acide ou 
+de bicarbonate, un stchage sur Na,S04 et I'tvaporation du solvant, 
+l'expression "traitement habituel" sera utiliste. 
+La chromatographie sur gel de silice se fait avec un tluant qui 
+consiste en un melange en quantitt variable d'Cther de pttrole (EP) 
+(fraction Eb = 35-60°C) et d'tther (EtZO). 
+
+1. Synth2se de pyrroles 
+Ethoxycarbonyl-2 dime'thyl-3,5 butyl-4 pyrrole 2a 
+L'acCtyl-3 heptanone-2 (1 mol, 156 g) dans I'acide acCtique (716 
+
+mL) est chauffte a 80°C avec agitation. On y additionne dans un 
+
+premier temps le mtlange de zinc (3,3 mol, 218 g) et dlacCtate de 
+sodium (3,l mol, 260 g) puis durant 40 min une solution d'oximino 
+malonate de ditthyle (I91 g) dans le mtlange acide acCtique (376 g), 
+eau (155 mL). Le milieu rtactionnel est maintenu encore 20 min entre 
+95 et 105"C, puis versC dans un mtlange eau-glace. Le pyrrole 2a est 
+recristallist dans I'tthanol et obtenu sous forme d'un solide blanc 
+nacre; tn = 155 g, Rdt 70%; F = 102OC; M, CI3HZINO2 = 223; ir 
+(CHCI,): 3460, 1670 cm-'; rmn (CCI,): 0,9-2,5 (m, IOH), 2,2 (s 
+large, 8H), 4,2 (q, J = 6.5 Hz, 2H); rmn "C (CDCI,): 162,20 
+(C=O), 129.99, 126,92, 122.2 1, 1 16,76 (C pyrroliques), 59,49 
+(C02CH2), 33,09, 23,73,22,45, 14,53, 13,93, 11,25, 10,63 (nBu, 2 
+pyrroles Me, C02-CH,); sm (M = 223): pics a 223, 180, 134. 
+Benzyloxycurbot~yl-2 dimithyl-3,5 butyl-4 pyrrole 2b 
+Le pyrrole 2u (89 g, 0.4 mol) en solution dans I'alcool benzylique 
+(300 mL) contenant du sodium (5 g) est chauffi vers 80°C sous une 
+pression de 15 Torr (1 Torr = 133.3 Pa) durant 4 h. L'tthanol form6 
+est distillt, puis sous pression de 2 Torr I'alcool benzylique est distillC. 
+Aprks extraction de fason habituelle, le pyrrole 26 est rccristallisC 
+dans l'hexane; tn = 72 g, Rdt 67%; F = 75-76°C M, CI8HZ3NO2 = 
+285; ir (CCL): 3430, 1675 cm-I; rmn (CC14): 0,9-1,5 (m, 7H), 2,l 
+(s, 3H), 2.2 (s, 3H), 2-2.4 (m, 2H), 5,l (s, 2H), 7,l (s large, 5H), 
+
+10,O (s, 1H). Anal. calc.: C 75,76, H 8,12, N 4,91; tr.: C 75,62, H 
+
+8,26, N 5,Ol. 
+Benzylo,r\~cor~bonyl-2 nlithyl-3 butyl-4 e'thoxycurbonyl-5 pyrrole 2c 
+A une solution de pyrrole 2b (0,23 mol) dans I'tther anhydre (500 
+mL) est ajoutt le chlorure du sulfuryle (89 g, 0,66 mol). Le melange 
+est agitC 18 h en maintenant la tempkrature entre 10 et 15°C. L'Cther 
+est Cvaport. puis on ajoute sous la hotte goutte a goutte I'Cthanol (325 
+mL) puis I'eau (455 mL). Le milieu rkactionnel est trait6 de la fafon 
+habituellc comprenant en plus un lavage avec une solution de bisulfite 
+de sodium. Le pyrrole 2c est recristallisC dans I'hexane; m = 67 g, Rdt 
+85%: F = 74°C; M, CZoHzsNO, = 343; ir (CCI,): 3430, 1712, 1700 
+
+Can. J. Chem. Downloaded from www.nrcresearchpress.com by 87.160.185.190 on 03/27/14 
+
+For personal use only. 
+
+
+CAN. J. CHEM. VOL. 62, 1984 
+
+TABLEAU I. Formules molCculaires, points de fusion, rendements, analyses A et (ou) spectres 
+de rnasse 
+
+CornposCs 
+
+Formule 
+Analyses et (ou) 
+Point de 
+molCculaire 
+spectres de masse 
+fusion ("C) 
+Rendernents (%) 
+
+102 
+75 -76 
+74 
+216 
+103 
+46 
+64-65 
+Huile instable 
+Huile rose 
+Huile rouge 
+F d e c = 58 
+128 
+149 
+166-167 
+
+* A = Analyses: cf. partie expirimentale. 
+
+crn-I; rmn (CDC13): 0,9-1,5 (m, lOH), 2,2 (s, 3H), 2,5-2,8 (rn, 
+2H), 4,l (q, 2H), 5,2 (s, 2H), 7,2 (s large, 5H), 9.6 (s, 1H). 
+Ethoxycarbonyl-2 butyl-3 methyl4 carboxyl-5 pyrrole 2d 
+Le pyrrole 2c (10 g, 0,03 rnol) est mis en solution dans le THF 
+anhydre (100 mL) contenant du palladium sur charbon a 10% (100 
+
+rng) et une goutte de trikthylamine. Le ballon est reliC i un systkrne 
+
+de burettes contenant de I'hydrogkne. Une forte agitation est mainte-
+nue. 11 y a absorption de 500 mL dlHz. Le mClange rCactionne1 est 
+filtrC B chaud sur CClite. Aprks Cvaporation est obtenu un solide blanc 
+insoluble dans HzO, C6H6, CH2Clz, CHC13, CH3COCH,, m = 5,l g, 
+Rdt 70%; F = 216°C; M, C13H1yN04 = 253; ir (KBr): 3210, 1695, 
+1660 crn-'; rmn (DMSO): 0,9-1.5 (rn, ]OH), 2,2 (s, 3H), 2,6 (m, 
+2H), 4,2 (q, J = 7 Hz, 2H), 5,8 (m, 1H): s'Cchange avec D,O; 11,5 
+(s, 1H): slCchange avec D20; srn (M = 253): pics B 253, 210, 192, 
+182, 138, 120. Anal. calc.: C 61.64, H 7,56, N 5 3 3 ; tr.: C 61,47, H 
+7,81, N 5,63. 
+Erhoxycarbonyl-2 butyl-3 methyl4 iodo-5 pyrrole 2e 
+Le mClange bicarbonate de sodium (32 X 
+mol, 2.7 g) dans 
+
+l'eau (1 1,3 rnL) et le dichloro-1,2 Cthane (13,2 mL) est chauffC a 
+
+50°C. On y ajoute successivement le pyrrole 2d (2,l g, 9 x 1 0 -h o l ) , 
+puis durant 5 rnin la solution d'iodure de sodium (3,5 g, 23 x lo-, 
+mol) et d'iode (2,8 g, I1 x 10-"01) 
+dans l'eau (1 l,3 rnL). Le reflux 
+est maintenu 1 h, puis une solution saturCe de thiosulfate est addi-
+tionnCe, la solution est traitCe de faqon habituelle. Le pyrrole obtenu 
+est recristallisC dans l'hexane: il se prCsente sous forme de cristaux 
+blancs roses; m = 2,6 g, Rdt 85%; F = 103°C; M, CllHlxNOJ = 335; 
+ir (KBr): 3280, 1670 cm-I; (CHC13): 3260, 1705, 1680 cm-'I; rmn 
+(CDCI,): 0,9-1,8 (s, lOH), 2,O (s, 3H), 2,7 (rn, 2H), 4,4 (q, J = 7 
+Hz, 2H), 9,5 (rn, 1H); rmn I3C (CDC13): 161,06 (C=O), 131.95, 
+127.8, 125,61, 123,40 (C pyrroliques), 60,32 (C02CHz), 32,91, 
+25,52, 22,69, 14,50, 14,00, 11,98 (nBu, C02-CH2-CH,, 
+pyrrole 
+-CH3); srn (M = 335): pics 335, 293, 264, 246, 220. Anal. calc.: 
+C 43,00, H 5,41, N 4,18, I37,86; tr.: C 42,66, H 5,63, N 4,49, 1 
+37,47. 
+Ethoxycarbotlyl-2 butyl-3 mtrhyl-4 pyrrole 1 a 
+A une solution du pyrrole prCcCdent 2e (41 g, 0,13 rnol) dans 
+I'Cthanol bouillant est additionnC goutte a goutte tout d'abord I'iodure 
+de sodium (31.1 g, 0,21 mol) dans I'eau (250 rnL), puis l'acide 
+chlorhydrique (0,19 rnol), le reflux est maintenu 1 h. Aprks addition 
+
+d'une solution de bisulfite de sodium a 37% (55 mL, soit 0,2 mol 
+
+NaHS03) le milieu reactionnel est refroidi doucement, puis extrait de 
+la faqon habituelle (CH2CIz). Le pyrrole recristallisC dans I'hexane est 
+obtenu sous forme de cristaux blancs rosCs; m = 24 g, Rdt 88%; F = 
+46°C; M, ClzHIyNOz = 209; ir (CHC13): 3470, 1665 large (Cp-
+aulement 1720 et 1655) cm-'; rmn (CDCI,): 0.8-1,6 (rn, lOH), 1,9 
+(s, 3H), 2,5-3,O (m, 2H), 4,2 (q, J = 7 Hz, 2H), 6,5 (d, lH), 9.3 
+(m, 1H); sm (M = 209): pics a 94, 138, 166, 167, 180. Anal. calc.: 
+C 68,86, H 9,15, N 6,69; tr.: C 68,86, H 9.07, N 6,88. 
+
+Benzyloxycarbonyl-2 butyl-3 tntthyl-4 pyrrole I b 
+On opkre par transCstCrification de la mCme faqon que prC-
+cCdemment lors de la formation de 2b. Le pyrrole l b se prCsente sous 
+la forme d'un solide blanc qui est recristallisC dans l'hexane; m = 5,2 
+g, Rdt 70%; F = 64-65°C; M, CI7HzINOI = 271; ir (CDCI,): 3465, 
+1700, 1680 crn-I; uv (EtOH): 205 (35 000). 275 (17 000); rmn 
+(CDCl,): 0,8-1,5 (m, 7H), 1,9 (s, 3H), 2,5-2,9 (rn, 2H), 5,l (s, 
+2H), 6,4 (d, J = 3 Hz, lH), 7,2 (s, 5H), 9,3 (s large, IH); rmn I3C 
+(CDCI,): 161,42 (C=O), 136,51, 132,28, 120,21, 118,66 (C py-
+rroliques), 12853, 128,23, 128,ll et 120,78 (Ar), 65,75 (C02CHz), 
+33,12, 24.84, 22,81, 13,99 et 9,88 (n-Bu, pyrrole -Me); (C6Dh): 
+161,64 (C=O), 137,03, 132,26, 119,89 et 119,03 (C pyrroliques), 
+128,54, 128,15 et 121,24 (Ar), 65.82 (COrCHz), 33,58, 25,23, 
+23,09, 14,18 et 9,98 (n-Bu et pyrrole -Me); sm (M = 271): pics a 
+91, 138, 180, 229.Anal. calc.:C75,25, N7,80, N5,16;tr.:C75.03, 
+H 7,79, N 5,08. 
+
+2. Synthkse de dipyrryltnethanes 
+Bis(benzyloxycarbony1=5, butyl-4, methyl-3, pyrryl-2)-3,3 propio-
+tlate d'ethyle 3a 
+A une solution de pyrrole l b (15 x 
+mol, 0,136 g) dans le 
+benzkne ( l , 5 rnL) est ajoutC l'acide paratoluene sulfonique (2 mg). La 
+solution est portCe reflux sous azote et on y ajoute le diCthoxy-
+propionate d'Cthyle (9 x 
+mol, 0,171 g). Le reflux est rnaintenu 
+24 h sous azote. Aprks traiternent habitue1 et filtration sur colonne de 
+silice, une huile jaune est obtenue (0,l 1 g); Rdt = 70%; ir (CHCI,): 
+3450, 3360, 1685 (large) cm-'; rmn (CClJ: 0,8-1,5 (rn, 17H). 2,O 
+(s, 6H), 2,4-2,8 (rn, 4H), 3,1 (d, J = 8 Hz, 2H), 3.8 (q, J = 7 Hz, 
+2H), 4,7 (t, J = 8 Hz, lH), 5,1 (s, 4H), 7,l (s, lOH), 10,2 (s large, 
+2H); rmn (CDC1,): 0,7-1,4 (m, 17H), 1,90 (s, 6H), 2.62 (rn, 4H), 
+
+Can. J. Chem. Downloaded from www.nrcresearchpress.com by 87.160.185.190 on 03/27/14 
+
+For personal use only. 
+
+
+3KA ET AL.: I 
+
+2057 
+
+3,06(d, J = 8Hz,2H),4,00(q, J = 7 H z , 2H),4,70(t,J = 8 H z , 
+IH), 5,20 (s, 4H), 7,25 (s, IOH), 9,60 (s, 2H). De la mCme manikre 
+est obtenu le bis(Cthoxycarbonyl-5, butyl-4, methyl-3 pyrryl-2)-3,3 
+propionate dlCthyle 3c. Rdt 70%; M , C19H3qNZ06 = 516. Anal. calc.: 
+C 67,35, H 8,51, N 5,42; tr.: C 67,31, H 8,52, N 5 3 9 . 
+Bis(carboxy-5, butyl-4, me'thyl-3, pyrryl-2)-3,3 propionate d'e'thyle 
+3 b 
+Une solution de dipyrrylmCthane 3a (1,7 x lo-" mol, 0, I I g) dans 
+le THF (3 mL) contenant du palladium sur charbon a 10% (10 mg) et 
+une goutte de tritthylamine est mise en contact d'hydrogene pendant 
+4 h sous forte agitation. Le contenu du ballon est filtrC sur CClite, lavC 
+au THF et le solvant CvaporC sous vide a temperature ambiante. Le 
+solide jaune clair obtenu (0,08 g) est utilise tel quel pour la synthese 
+de la porphyrine 7 a ; ir (CHC13): 3330, 3250, 1728, 1665 cm-'; rmn 
+(CCL): 0,8-1,5 (m, 17H), 2,00 (s, 3H), 2,03 (s, 3H), 2.4-2.8 (m, 
+4H), 3,16(d, J = 8 H z , 2H), 3,80(q, J = 7 H z , 2H), 4,73 (t, J = 
+8 Hz, lH), 5,13 (s, 4H), 7,10 (s, IOH), 10,20 (s large, 2H). 
+Dinitro-2,6 phe'nyl-bis(mPthyl-3', butyl-4', Pthoxycarbonyl-5' , 
+pyrryl-2') me'thane 6a 
+Dans un ballon sumonti d'un Dean-Stark le pyrrole l a (5 x lo-* 
+rnol, 0,105 g) et le dinitro-2,6 benzaldChyde (2.7 x 
+rnol, 0,053 
+g) sont rnis en solution dans le toluene contenant I'acide tri-
+fluoromethane sulfonique (1 X 
+rnol). Le melange est port6 a 
+reflux 2 h sous azote. Aprks traitement habituel cornprenant en plus un 
+lavage avec une solution de bisulfite de sodium pour Climiner l'al-
+dChyde n'ayant pas rCagi et un traitement au noir animal dans le THF, 
+les differents constituants sont sCparCs par chrornatographie sur silice. 
+Un premier produit 4a (1 1) (5 rng) moins polaire que le pyrrole de 
+dCpart est CluC avec le melange ether-EP (20:80).3 Ce produit a Ct C 
+obtenu dans une autre reaction (1 I). Le dipyrrylmCthane 6a (60 rng) 
+est alors Clue avec un mClange Cther-EP (35:65), Rdt 40%, huile 
+rouge, M, CslH,N408 = 596. Deux autres produits 4b et 5a carac-
+tCrisCs par ailleurs ( I I ) sont alors CluCs: 10 mg 4b avec un melange 
+Cther-EP (60: 40); puis 10 mg 5a avec un melange Cther-EP (65: 35). 
+6a, ir (CHC13): 3440, 1700-1680, 1500, 1360 cm-'; rmn (CDC13): 
+0,8-1,6(m, 20H), 1,76(s, 6H), 2,5-2,9 (m, 4H), 4,23 (q, J = 7Hz, 
+4H), 6,16 (s, IH), 7.5-7,9 (m, 3H), 8,8 (s large, 2H). 
+Dinitro-2,6 phe'nyl bis(me'thyl3', butyl-4', benzyloqlcarbonyl-5', 
+pyrryl-2) methane 6b 
+Dans un ballon surmontt d'un Dean-Stark, le melange constituC du 
+pyrrole l b (9,68 X lo-, rnol), de dinitro-2,6 benzaldkhyde (4,84 x 
+mol) et d'acide trifluoromCthane sulfonique (2 x lo-' rnol) dans 
+le benzene (10 mL) est laissC avec agitation 1 h a tempCrature am-
+biante, puis port6 a reflux 10 min. En traitant comme prCcCdemment 
+15 mg de 4c (1 l), 1,2 g de 6 b (Rdt = 34%) et 0,25 g de 5b (1 1) sont 
+obtenus. 
+
+En effectuant la rCaction i temperature ordinaire le melange consti-
+
+tuC du pyrrole 1 b (30 x 
+mol, 8,l g), de dinitro-2,6 benzaldChyde 
+(15 x 
+mol) et d'acide trifluorornCthane sulfonique (6 x 
+mol) dans le benzene (30 mL) est agitC 3 h; aprks traiternent habituel, 
+une chromatographie sur colonne de silice foumit les quatre produits 
+suivants: 1'Clution avec le mClange Cther-EP (10:90)3 foumit le pyr-
+role de dipart l b (0,8 g), puis le produit 4c, caractCrisC par ailleurs 
+( I I ) (0,l g) avec le mClange Cther-EP (40:60), puis le dipyrryl-
+mithane 6 b (6,2 g, Rdt 57%, F dCc. = 58"C, M, C41H,N408 = 720) 
+avec le melange Cther-EP (45:55), puis le produit 5 b (1,4 g) carac-
+tCrisC par ailleurs (1 1) avec le rnClange Cther-EP (50:50). 6b, ir 
+(CHClj): 3420, 1700-1680, 1540, 1355 crn-'; uv (EtOH): 280 
+(31 900), 240 (31 500), 209 (74 600); rmn (CDCI,): 0,8-1,6 (m, 
+14H), 1,8 (s, 6H), 2,5-2,9 (rn, 4H), 5,1 (s, 4H), 6,2 (s, lH), 7,9 (m, 
+13H), 9,l (s large, 2H). Anal. calc.: C 68,33, H 6,15, N 7,77; tr.: 
+C 6 8 3 , H 5,93, N 7,98. 
+
+De la mCme manikre est obtenu le dipyrrylmethane 6i A partir du 
+
+pyrrole l c et du dinitro-2,6 benzaldkhyde. 6i,Rdt 70%; F = 
+166-167°C; M, C35H32N40, = 636. ir (CHC13): 3440, 1690, 1540, 
+
+DDQ: dichloro, dicyano, parabenzoquinone; EP: ether de pCtrole 
+fraction Eb = 35-60°C; p-TsOH: acide paratoluene sulfonique. 
+
+1360 cm-'; rmn 'H (CDCI,): 1,7 (s, 6H), 2,2 (s, 6H), 5,2 (s, 4H), 6,2 
+(s, IH), 7.2-7,8 (m, 13H), 8,8 (s large, 2H). Anal. calc.: C 66,02, 
+H 5,06, N 8.80; tr.: C 66,28, H 5,06, N 8,96. 
+Diamino-2,6 phe'nyl bis(me'thy1-3 ' , butyl-4', carboxy-5', pyrryl-2) 
+me'thane 6h 
+Le dipyrrylrnethane 6b (3 X lo-' mol, 2,16 g) en solution dans le 
+THF (75 mL) est introduit dans le THF (20 mL) contenant la tri-
+
+Cthylamine (6 gouttes) et le palladium sur charbon a 10% (0,3 g). Le 
+ballon est reliC a un systkme de burettes contenant de I'hydrogkne, en 
+
+10 h il y a absorption de 24 X lo-' rnol d'hydrogene. 
+Le contenu du ballon est filtrC sur CClite, lave au THF, on opere 
+sous atmosphere d'azote dans une boite gants du fait de I'instabilitt? 
+du diacide botenu. Le solvant est CvaporC sous vide a tempirature 
+ordinaire et l'on obtient une huile jaune, m = 1,5 g (composC instable 
+que l'on utilise tel quel et que l'on suppose Ctre 6h); ir (CHCl,): 3440, 
+
+large bande 3000, 1660 cm-' ; rmn (DMSO): 0,8-1,5 (m, 14H), 1,63 
+
+(s, 6H), 2,4-2,7 (m, 4H), 4,5 (s large (s'Cchange avec D1O), IH), 5,8 
+(s, IH), 6,7-7,4 (rn, 3H), 9,8 et 10,O (deux massifs qui s'Cchangent 
+avec DzO). 
+
+3. Synthese de porphyrines 
+Bis(e'tho.rycarbony1)-5,15 te'trabutyl-2,8,12,18 te'trame'thyl-
+3,7,13,17 porphyrine 7a 
+Le rnClange constituC de diacide 3b (0,l mrnol), d'acide trichloro-
+acCtique (0,23 mL d'une solution 5,2 M CCI3COOH/CH2CI2 soit 0,12 
+mol) et d'orthoformiate de trirnCthyle (0,8 mmol) est portC 2 reflux 
+18 h. Du D D Q ~ (0,l mmol) est alors ajoutC et le reflux est continu6 
+
+90 min. La solution est lavCe avec une solution de bicarbonate a 20%, 
+
+puis ? 
+I I'eau, sCchCe puis CvaporCe. Apres filtration sur colonne de 
+silice, la porphyrine 7 a CluCe au CHICll est obtenue (2 rng) (Rdt 
+
+2,6%), M, C48H66N403 = 762; uv (CH2C12 + 1 goutte N(Et),): bande 
+
+de Soret 408 et bandes 1,11, 111,lV a 630,577,545, 510 nm; (CH2Clz 
+
++ 1 goutte HCl): bande de Soret 435 et bandes t p 537,570 et 620 nm; 
+
+ir (CHC13): 1720 (large) crn-'; rmn (CDCI,): 10,07 (s, 2H), 5,91 (s, 
+
+4H), 4,40 (q, J = 8 Hz, 4H), 4,00 (t, J = 8 Hz, 8H), 3,40 (s, 12H), 
+1 3 -1,l (m, 28H); srn: 762. 
+Bis(diacPtamido-2,6 phPny1)-5,15 te'trabutyl-2,8,12,18 tetrame'-
+thyl-3,7,13,17 porphyrine 7b 
+Dans un ballon sumonti d'un Dean-Stark, le pyrrole l b (0,3 
+rnrnol, 81,6 mg) et le diacktamido-2,6 benzaldihyde (12) (0,15 mmol, 
+33 mg) sont mis en solution dans le benzene en prCsence d'acide 
+paratoluene sulfonique (2 mg). Le mClange est port6 a reflux pendant 
+48 h sous azote. Aprks traitement habituel, l'huile obtenue est chro-
+matographike sur silice. Le dipyrrylmCthane 6d est CluC avec le me-
+lange acetone-Cther (15 : 85) (Rdt 60%). Le dipyrrylmithane 6d (22 
+rng) est trait6 en solution dans le THF (5 rnL) et la triethylamine (1 
+goutte) en prCsence de Pd/C sous hydrogene pendant 100 min. Aprks 
+filtration et evaporation du solvent, le produit obtenu 6g utilisC sans 
+autre purification (produit instable) est dissout dans CHzC12 (15 mL), 
+puis trait6 avec CC1,COzH (1 rnmol, 163 mg) et HC(OMe), (0,15 
+mmol, 16 mg). La solution est agitCe 4 jours puis traitCe au DDQ. 
+Apres traitement habituel, le brut est chrornatographie sur colonne de 
+silice, la porphyrine 7 b est CluCe au chloroforme: m = 4 mg, Rdt 10%. 
+Diace'tamido-2,6 benzalde'hyde (12): M , Cl lHIZN203 = 220; ir 
+(CHCl,): 1700, 1670, 1617, 1597 crn-I; (KBr): 3300-3285, 1700, 
+1685, 1645, 1620, 1600 cm-'; rmn (CDC13): 9,86 (s, IH), 7 3 3 (rn, 
+3H), 2,15 (s, 6H); rmn (Me2CO): 10,3 (s large s'Cchange avec D20), 
+9,8 (s, IH), 7,6 (m, 3H), 2,06 (s, 6H); sm: 220, 192 (-CO), 177 
+(-CH3), 150 (-CH2CO), 108 (-CH2CO). Anal. calc.: C 59,99, H 
+5,49, N 12.72; tr.: C60,32, H 5,79, N 12,93. 
+DipyrrylmPthane 6d: F = 149°C; M, C ~S H S ~N , ~~ 
+= 744; ir 
+(CHCl,): 1710, 1645 cm-'; rmn (CDC13): 9,27 (s large, IH), 7,28 (m, 
+13H), 6,70 (s large, 2H), 5,17 (s, 4H), 2,69 (m, 4H), 1,74 (s, 6H), 
+1,30 (m, 14H). Anal. calc.: C 72,55, H 7,04, N 7,52; tr.: C 72,79, 
+H 7,20, N 7,78. 
+
+Porphyrine 7b: M , C60H7?N8o4 = 970; ir (CHC13): 1695 (large) 
+
+cm-'; uv (CH2C13): 405,504,531,567,617; (CHC13): 407,505,537, 
+
+568, 618; uv (CHC13 + HC1): Cp 400-451, Cp 540-583, 629; rmn 
+
+(CDC1,): 10,4 (s, 2H), 8,5 (m, 4H), 7,9 (rn, 2H), 6,3 (s, 4H), 4,O (m, 
+
+Can. J. Chem. Downloaded from www.nrcresearchpress.com by 87.160.185.190 on 03/27/14 
+
+For personal use only. 
+
+
+2058 
+
+CAN. J. CHEM. VOL. 62, 1983 
+
+8H), 2.6 (s, 12H), 1,2 (s, 12H); srn: 970. 
+Bis(diact9amido-2,6 phiny1)-5,IS octamtthyl-2,3,7,8,12,13,17,18 
+porphyrine 7c 
+Dans un ballon surmontC d'un Dean-Stark, le pyrrole lc3 (10 
+rnrnol) et le diacetarnido-2,6 benzaldihyde (5,5 rnrnol) sont rnis en 
+solution dans le benzene en prCsence de quantitt catalytique de p-
+TsOH. Le melange est port6 i reflux sous azote pendant 17 h. Aprtts 
+traiternent habituel, I'huile obtenue est chrornatographiee sur colonne 
+de silice. Le dipyrrylrnCthane 6c est Clue avec le melange acCtone-
+Cther (15 :85) (3,9 rnrnol; Rdt 78%), F = 128°C; M, C ~~H Z O N J O ~ 
+660; ir (KBr): 3450, 17 10, 1645 crn-I; rmn (CDCI,): 9.47 (s, 2H, 
+NH), 7,66 (s, 13H, ArH), 5,73 (s, IH, CH-Pyr), 5,20 (s, 4H, 
+CH2Ar), 2,25 (s, 6H, COCH,), 1,83 (s, 6H, Me), 1.75 (s, 6H, Me). 
+Anal. calc.: C 70,88, H 6,10, N 8,48; tr.: C 70,53, H 6,17, N 8,43. 
+Le dipyrrylrnCthane 6c (1 rnrnol) est dissout dans le THF (30 rnL) 
+en prCsence de NEt, (3 gouttes) et de Pd/C sous pression atrnos-
+phkrique d'H2 jusqu'a ce que la quantiti d'Hz devant &amp;tre absorbCe 
+
+corresponde a 2 rnrnol (44,8 rnL). Aprbs filtration et Cvaporation du 
+
+solvant, le produit obtenu 6f est dissout sans autre purification dans 
+CHzClz sec. A cette solution est ajoute CCI,C02H (1,89 g) dissout 
+dans 25 rnL de CH2C12 puis HC(OMe), (0,9 rnL) a l'abri de la lurnittre, 
+
+a ternpkrature arnbiante. La solution est agitee pendant 4 jours, puis 
+
+traitCe au DDQ3 (220 rng) pendant 2 jours. Aprks traiternent habitue], 
+le brut est filtrC sur colonne de silice: la tCtraacCtamido-porphyrine 7c 
+est Clu6e avec le rnClange CH2C12/acCtone (85 : 15) (88 rng; Rdt 1 1 %; 
+M, CZ8HSONX04 = 802); uv (CHCI,): 401, 504, 538, 571, 624; ir 
+(CHCI,): 1690-1670 cm-I; rmn (CDCI,): 10,4 (s, 2H rneso), 8,5 (d, 
+J = 8 Hz, 2H, ArH), 7,9 (t, J = 9 Hz, 2H, ArH), 6,4 (s large, 2H, 
+NH), 3,6 (s, 12H, CH,), 2,6 (s, 12H. CH,), 1.20 (s, 12H, COCH,); 
+
+(CDCI, + CF,C02H): 9,37 (s, 2H rneso), 8,2 et 8,O (ArH); Me (3.3); 
+
+Me (2,45); NHAC (1,35); srn m/e: 802. 
+Bis(dipiva1amido-2,6 phiny1)-5,15 octamethyl-2,3,7,8,12,13,17, 
+18 porphyrine 7e 
+L'hydrolyse de la porphyrine 7c par HC1 6 N (13) sous azote, 
+
+l'abri de la lurnittre i reflux pendant 2 h foumit une solution verte qui 
+
+est traitte par NaOH 10%. Le prCcipitC rouge 7d forme est filtrC, puis 
+
+lavC i I'eau (Rdt 94%), M, CZ,,HZ2N8 = 634; uv (CH2C12): 408, 506, 
+
+538, 571, 625; rmn (CF3C02D): 8,35 (m, ArH), 3,5 (s, Me), 2,7 (s, 
+Me). La tktraamino-porphyrine 7d dissoute dans une solution de 
+
+CH2C12 et de CF,C02H est traitCe a temperature ordinaire pendant 8 
+
+h avec un excbs de chlorure de pivaloyle dissout dans du chlorure de 
+rnCthylbne et de la pyridine (13). La rCaction foumit aprtts lavage a 
+I'eau une huile qui est chrornatographi6e sur colonne de silice. L'C-
+luant 50% Et,O/EP livre la tetrapivalarnido porphyrine 7e qui est 
+recristallisCe dans le rnClange Cther-cyclohexane; Rdt 60% (solide 
+rouge violet); M, C60H,ZNx01 = 970; uv (CH2C12): 405, 505, 537, 
+572,637; ir (KBr): 3430, 1690 crn-'; (CHCI,): 3425, 1690 crn-I; rmn 
+
+(CDCI,): 10.22 (s, CH rneso), 8,48 (d, J = 8 Hz, 4H, ArH), 7,8 1 (t, 
+J = 8 Hz, 2H, ArH), 6.83 (s, 4H, NH), 3,5 (s, 12H, CH,), 2,55 (s, 
+12H, CH,), 0,04 (s, 36H, tBu); srn m/e: 970. 
+
+1. (a) J. P. COLLMAN. Acc. Chern. Res. 10, 265 (1977); (b) J. P. 
+COLLMAN, J. P. BRAUMAN, T. J. COLLINS, B. IVERSON et J. L. 
+SESSLER. J. Am. Chern. Soc. 103, 2450 (1981); (c) G. B. 
+JAMESON, F. S. MOLINARO, J. A. IBERS, J. P. COLLMAN, J . 1. 
+BRAUMAN, E. ROSE et K. S. SUSLICK. J. Am. Chern. Soc. 102, 
+3224 (1980). 
+2. ( a ) A. R. BATTERSBY, S. G. HARTLEY et M. D. TURNBULL. 
+Tetrahedron Lett. 3169 (1978); ( b ) A. R. BATTERSBY et A. D. 
+HAMILTON. J. Chern. Soc. Chern. Cornrnun. 117 (1980); (c) M. 
+MOMENTEAU, J. MISDELTER, B. LOOCK et E. BISAGNI. J . Chern. 
+Soc. Perkin Trans. 1, 189 (1983); (d) M. MOMENTEAU et B. 
+L o o c ~. J. Mol. Catal. 7, 315 (1980); (e) J. E. BALDWIN, T. 
+KLOSE et M. PETERS. J. Chern. Soc. Chern. Cornrnun. 881 
+(1976); (f) J. R. BUDGE, P. E. ELLIS, JR., R. D. JONES, I. E. 
+LINARD, T. SZYNANSKI, F. BASOLO, J . E. BALDWIN et R. H. 
+DYER. J. Am. Chern. Soc. 101, 4762 (1979); (g) A. R. 
+BATTERSBY, S. A. J. BARTHOLOMEW et T. NITTA. J. Chern. Soc. 
+Chern. Cornrnun. 1291 (1983); (h) J. E. BALDWIN et P. PERL-
+MUTTER. Top. Curr. Chern. 121, 181 (1984), et rkfkrences citkes; 
+(i) T. G. TRAYLOR, M. J. MITCHELL, S. TSUCHIYA, S. CAMP-
+
+BELL, D. H. STYNES et D. V. KOGA. J. Am. Chern. Soc. 103, 
+
+5234 (1981); (i) C. K. CHANG. J. Am. Chern. Soc. 99, 2819 
+(1977). 
+3. A. LECAS, J. LEVISALLES, Z. RENKO et E. ROSE. Tetrahedron 
+Lett. 25, 1563 (1984). 
+4. ( a ) G. M. BADGER, R. A. JONES et R. L. LASLETT. Aust. J. 
+Chern. 17, 1157 (1964); (b) E. R. SCHMITTOU. These 1979, 
+Universite de Stanford, U.S.A. 
+5. G. G. KLEINSPEHN. J. Am. Chern. Soc. 77, 1546 (1955). 
+6. A. J. ZAMBITO et E. E. HoWE. Org. Synth. Coll. Vol. 5, 373 
+(1973). 
+7. A. W. JOHNSON. E. MARHAM et A. PRICE. Org. Synth. 42, 75 
+(1962). 
+8. J. L. ARCHIBALD, D. M. WALKER, K. B. SHAW, A. MARKOVAC 
+et J. F. MCDONALD. Can. J. Chern. 44, 345 (1966). 
+9. A. R. BATTERSBY, E. HUNT, E. MCDONALD, J. B. PAINE et J. 
+SAUNDERS. J. Chern. Soc. Perkin Trans. 1, 1008 (1976). 
+10. F. DOLPHIN. The porphyrins. Vol. I. Academic Press, New York. 
+1978. 
+I I. A. LECAS, J. LEVISALLES, C. MARIACHER et E. ROSE. Can. J. 
+Chern. 62, 2059 (1984). 
+12. B. D. ANDREWS et I. D. RAE. Aust. J. Chem. 24, 413 (1971). 
+13. M. J. GUNTER et L. N. MANDER. J. Org. Chem. 46,4792 (1981). 
+
+Can. J. Chem. Downloaded from www.nrcresearchpress.com by 87.160.185.190 on 03/27/14 
+
+For personal use only. 
+
+
+
+	
+

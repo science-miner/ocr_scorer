@@ -1,0 +1,734 @@
+
+	
+
+		
+
+	
+
+	
+
+Interactions de l'ion Ag' avec la glutarimide 
+
+JOHANNE PERRON ET ANDRE L. BEAUCHAMP' 
+
+Dtpartement de Chirnie, Universitt de Montrtal, C.P. 6210, Succ. A , Montrtal (Qut.), Canada H3C 3VI 
+Requ le 1 dCcembre 1983 
+
+JOHANNE PERRON et ANDRE L. BEAUCHAMP. Can. J. Chem. 62, 1287 (1984). 
+Le compost 1 : 1 de l'ion Ag+ avec la glutarimide a Ct C CtudiC par diffr!ction des rayon: X, par spectroscopie infrarouge 
+
+et par rmn 'H et "C. Les cristaux sont monoclinques, C2/c, a = 13,497(3) A, b = 9,503(2) A, c = 9,600(4) A, P = 92,30(3)", 
+
+Z = 4 molecules par maille. La structure a t t C affinCe au moyeh de 1086 rCflexions MoKcl d'intensiti significative jusqu'a 
+un facteur R de 0,027. La moitit des atomes d'argent est IinCairement coordonnCe aux atomes d'azote de deux coordinats 
+glutarimides dtprotonCs, tandis que I'autre moitiC est entourCe d'un tttrakdre dCformC de quatre oxygknes carbonyles appar-
+
+tenant a deux ensembles [Glu-Ag-Glu] adjacents. Les groupes [Glu-Ag-Glu]-rCunis par I'atome Ag a coordination 
+
+tCtraCdrique foment des chaines infinies selon I'axe c. La complexation produit plusieurs changements dans le spectre 
+infrarouge de la glutarimide. Ils peuvent Ctre reliCs la disparition du vibrateur N-H et a la modification des indices de liaison 
+dans la portion -C(O)-N-C(0)-
+du coordinat. Les spectres rmn montrent que la glutarimide coordonnke conserve un 
+
+miroir lorsque le composC d'argent est dissous dans DMSO. Ceci laisse supposer que les atomes Ag liCs a I'oxygkne sont 
+
+largement dissocits en solution, ce qui laisse les ions lintaires [Glu-Ag-Glu]-comme espkce complexe prtdominante. 
+
+JOHANNE PERRON and ANDRE L. BEAUCHAMP. Can. J. Chem. 62, 1287 (1984) 
+The 1 : 1 complex formed between Ag+ ions and glutarimide was inve!tigated by X-ra~~diffraction, infrared spectroscopy, 
+
+and 'H and I3C nmr. The crystals are monoclinic, C2/c, a = 13.497(3) A, b = 9.503(2) A, c = 9.600(4) A, P = 92.30(3)", 
+
+Z = 4 molecules per cell. The structure was refined on 1086 nonzero MoKcl reflections to R = 0.027. One half of the Ag 
+atoms are linearly coordinated to the N atoms of two deprotonated glutarimide ligands, whereas the other half are surrounded 
+by an approximate tetrahedron of four carbonyl oxygens belonging to two adjacent [Glu-Ag-Glu]-
+units. The 
+[Glu-Ag-Glu]-groups are joined by tetrahedrally coordinated Ag atoms into infinite chains along the c axis. Complexation 
+introduces a number of changes in the infrared spectrum of glutarimide. They can be related to the disappearance of the N-H 
+vibrator and the change of bond orders in the -C(O)-N-C(0)-
+portion of the ligand. The nmr spectra show that 
+coordinated glutarimide retains a mirror plane when the Ag complex is dissolved in DMSO. This suggests that the 0-bonded 
+Ag atoms dissociate to a large extent in solution, leaving the linear [Glu-Ag-Glu]-ions as the major glutarimide complex 
+species. 
+
+Introduction 
+Dans le but de prtciser la nature des interactions de l'ion Agt 
+avec les acides nucleiques (I), les rtactions de cet ion avec 
+difftrents composts modeles ont t t t etudites dans notre labora-
+toire. Nous avons montrt que l'uridine (1) forme avec l'ion 
+
+Ribose 
+
+\ 
+
+B 
+
+/"*\ 
+
+HC 6 
+
+a 5 
+
+.TH 
+
+HC-C 
+
+Ag' en milieu aqueux des espkces de stoechiomttries 2: 1 et 
+2:~2. Toutefois, la structure de ces espkces n'a pu &amp;tre dtter-
+minte sur des tchantillons solides a cause de leur grande solu-
+bilitt et de l'instabilitt de leurs solutions saturtes. Avec la 
+
+mCthyl-1 thymine (HMT, 2), un compost de formule 
+
+CH 
+
+\. P 
+
+lNWC\ 
+
+HC 
+
+iH 
+
+HC-
+C 
+
+b 
+
+2 
+
+Ag[Ag(MT)2] a Ct C prepart (2). La moitit des atomes d'argent 
+dans ce compost est lintairement relite a l'atome N(3) d t -
+proton6 de la thymine pour crier des motifs [MT-Ag-MT]-, 
+
+alors que I'autre moitit est entourte d'un tttrakdre dtformt 
+constitut de fonctions carbonyles appartenant a deux ensem-
+bles [MT-Ag-M'r]-voisins dans le cristal. Des solides de 
+type M1[MT-Ag-MT] (ou M' = Nat , K t ) ont t t t obtenus, 
+
+mais sous une forme qui ne se pr&amp;te pas 5 un travail cris-
+
+tallographique (3). Nous nous sommes donc tournts vers les 
+imides cycliques, qui renferment un ensemble -C(O)-
+N(H)-C(0)-
+semblable a celui de I'uracile et de la thymine. 
+L'Ctude du systeme Agt-succinimide (3) par plusieurs mt-
+
+thodes a effectivement montrt l'existence de deux sortes d'ions 
+Agt (4, 5) comme pour les dtrivts de l'uracile. Le prtsent 
+article dtcrit les rtsultats obtenus avec la glutarimide (HGlu, 
+
+4), qui posskde un cycle a six atomes la rapprochant de I'uracile 
+
+et la thymine. 
+
+' Auteur a qui adresser toute correspondance. 
+
+Can. J. Chem. Downloaded from www.nrcresearchpress.com by 87.160.185.190 on 03/27/14 
+
+For personal use only. 
+
+
+1288 
+
+CAN. J. CHEM. VOL. 62. 1984 
+
+Partie experimentale 
+
+Instruments et rtactfi 
+Les spectres infrarouges ont ttC obtenus a I'aide d'un spectrophoto-
+rnktre Beckrnan 4250 au rnoyen de pastilles de KBr ou d'Crnulsions 
+dans le Nujol ou I'hexachlorobutadikne. La prtcision des nornbres 
+d'onde est de 5 5 crn-' entre 4000 et 2000 crn-' et 5 3 crn-' entre 
+2000 et 500 crn-'. 
+Les spectres rrnn ont Ctt enregistrks au rnoyen d'un appareil Bruker 
+
+rnodkle WH-90 pour les spectres 'H et rnodkle WH-80 (en opkrant a 
+20,l 1 MHz) pour les spectres ITC. Le solvant utilist pour les deux 
+
+noyaux Ctait le DMSO-d, Silanor (Merck, Sharp et Dohrne Canada) 
+d'une pureti isotopique de 993% et contenant 1% de tttrarnt-
+thylsilane cornrne rCftrence interne. 
+La glutarirnide (Aldrich Chemicals) a C t t utilisCc sans autre puri-
+fication. 
+
+Prtparation du composts Ag-glutarimide 
+Ce cornposC est connu depuis longternps (6). Nous l'avons prepart 
+sous forme de fines aiguilles a partir d'un rntlange de glutarirnide, de 
+AgN03 et de NaOH selon des rapports I : I : 1. Les cristaux utilisCs 
+pour les Ctudes aux rayons X ont C t t obtenus lors de tentatives de 
+preparation de Li[Ag(Gl~)~l et Na[Ag(Gl~)~l, qui n'ont pas pu &amp;tre 
+isolCs. A une solution de 0,70 g (6 rnrnol) de glutarirnide et 0.43 g (2,5 
+rnrnol) de AgN03 dans 20 rnL d'eau la ternptrature arnbiante, on 
+
+ajoute goutte a goutte une solution de 5 rnrnol d'hydroxyde (0,22 g, 
+
+LiOH . H20 ou 0.20 g NaOH). Aprks addition de la rnoitie de 
+
+I'hydroxyde, un prCcipitC blanc apparait, puis se redissout lorsqu'on 
+
+poursuit I'addition. Par tvaporation a I'abri de la lurniere, on isole des 
+
+cristaux incolores prisrnatiques de composition AgGlu. 
+
+Donntes cristallographiques 
+CIOH 1zAgzNrO4 
+rn = 439,95 
+
+Monoclinique, C2/c, a = 13,497(3), b = 9,503(2), c = 9,600(4) A, 
+
+p = 92,30(3)", V = 1230,3 A" Z = 4, D,, = 2,32(2) g crn-', D, = 
+
+2,374 g c r f 3 , h(MoK6) = 0,71069 A (rnonochrornateur de graphite), 
+
+T = 298(3) K, dimensions du cristal: 0,066 rnrn x 0,08 1 rnrn x 0,188 
+
+rnrn, p(MoKa) = 31,6 crn-I, transmission = 0,71-0,82. 
+
+Mesures d'intensitt et rtsolution de la structure 
+Les groupes spatiaux Cc et C2/c sont compatibles avec les ex-
+tinctions systCrnatiques. La structure a CtC interprCtCe selon le groupe 
+centrosyrnCtrique C2/c et ce choix a CtC ultCrieurernent confirm6 par 
+le succks de l'affinernent. La dkterrnination prtcise des constantes 
+rkticulaires et les rnesures d'intensitts ont t t k faites au rnoyen d'un 
+diffractornktre Enraf-Nonius CAD4, selon la rnCthode dCcrite antC-
+rieurernent (7). Un ensemble de 1086 taches hkl et hki dans une sphkre 
+
+lirnitCe par 20 5 50" a Ct C rnesurt et 750 d'entre elles ( I &gt; 3u(I)), 
+
+corrigCes pour l'absorption, ont Ctt retenues pour la rtsolution. 
+La structure a Ct C rCsolue par la rnCthode del'atorne lourd et affinCe 
+
+par rnoindres carrts sur IF.~ en inversant la totalit6 de rnatrice. Les 
+
+positions atorniques ont ttC affintes pour tous les atornes, y cornpris 
+ceux d'hydrogkne. Les facteurs d'agitation therrnique affinCs Ctaient 
+isotropes pour I'hydrogkne, anisotropes pour les autres atornes. Le 
+
+fond contip sur la carte de Fourier diffkrence finale Ctait infkrieur a 
+
+?0,28 e/A3. Les facteurs d'accord sont R = 0,027 et R,,. = 0,033. 
+Les coordonnCes atorniques sont rtunies au tableau 1. Les facteurs 
+d'agitation therrnique et le tableau des facteurs de structure sont 
+dtposCs en a r ~h i v e . ~ 
+
+Resultats et discussion 
+Description de la structure 
+Les trois sites potentiels de coordination, soit 0(1), O(2) et 
+N(I), sont pleinement utilises (Fig. 1). Le composC contient 
+
+Les facteurs de structure, les facteurs d'agitation therrnique, les 
+calculs de plans rnoyens, ainsi que les distances et angles irnpliquant 
+les atornes d'hydrogkne peuvent &amp;tre obtenus en s'adressant au DCpBt 
+de DonnCes Non-publiCes, ICIST, Conseil National de Recherches du 
+Canada, Ottawa, Ont., Canada KIA 0S2. 
+
+TABLEAU I. Coordonntes atorniques (X lo4, Ag 
+
+x I@, H x 103 
+
+Atorne 
+X 
+Y 
+Z 
+
+103~8 \ -
+-
+
+e 
+
+0(2) 
+
+FIG. 1. SchCrna du motif rnoltculaire avec les distances inter-
+atorniques et les angles de liaisons. Les atornes d'hydrogkne ne sont 
+
+pas reprCsentCs. Les Ccarts-types sont: 0,004-0,005 A, Ag-O(N); 
+0,007-0,009 A, autres; 0,2", angles autour de Ag; 0,4-0,5", autres. 
+
+L'angle N-Ag-N 
+
+est rigoureusernent Cgal i 180" par syrnCtrie. 
+
+deux atomes d'argent non Cquivalents. L'atome Ag(1) occupe 
+un centre de symCtrie cristallographique. I1 se trouve donc 
+linkairement coordonnC (180" par symCtrie) B l'atome d'azote 
+de deux molCcules de glutarimige dCprotonCe. La longueur des 
+liens Ag(1)-N(1) (2,106(5) A) est 1Cgkrement supCrieure B 
+~e l l e s 
+de composCs analogues avec la ?ethylthymine (2,08 l(4) 
+A) (2) et de la succinimide (2,079(5) A) (4). Les deux coordi-
+nats de l'ensemble [Glu-Ag-Glu]-
+
+sont ii peu prks co-
+
+planaires, de sorte que chacun des c6tCs de cet ensemble peut 
+
+jouer le r61e de chClatant griice ii une paire de groupes carbo-
+nyles. De fait, chaque ensemble [Glu-Ag-Glul-est lie ii deux 
+
+atomes Ag(2) distincts dans le cristal. RCciproquement, chaque 
+atome Ag(2) est entoure de deux paires d'oxygknes carbonyles 
+appartenant B deux ensembles [Glu-Ag-Glu]-, qui lui assu-
+rent un environnement B peu prks tetraCdroique (Fig. 1). Les 
+distances Ag(2)-0 (2,429(4) et 2,288(4) A) sont un peu plus 
+courtes qu? celles obtenues avec la mkthylthymine (2,5 12(4) et 
+2,333(4) A). L'Ccart entre les distances Ag(2)-O(1) 
+et 
+Can. J. Chem. Downloaded from www.nrcresearchpress.com by 87.160.185.190 on 03/27/14 
+
+For personal use only. 
+
+
+PERRON El 
+
+FIG. 2. Vue stCrio de l'enchainement molCculaire le long de I 
+
+Ag(2)-O(2) semble lit essentiellement a des conditions de 
+rangement moltculaire, puisque O(1) et O(2) sont chimique-
+ment tquivalents. 
+Les liaisons C-N (moy. 1,363, u = 0,007 A) soct plus 
+courtes et les liaisons C=O (moy. 1,239, u = 0,007 A) sont 
+plus longues que dansola glutarimide m&amp;me (moy. 1,382 et 
+1,215 A, u = 0,003 A, respectivement) (8). Ces variations 
+sont en accord avec une contribution accrue des formes limites 
+5 b et 5 c dans l'anion (5). La coordination de I'argent aux 
+
+atomes d'oxygkne favorise encore davantage ces formes li-
+mites, tandis que la coordination sur I'azote tend a en diminuer 
+I'importance, bien qu'a un degrt moindre que ne le ferait 
+I'hydrogkne dans la glutarimide neutre. La distribution tlectro-
+nique dans l'anion de glutarimide complexe est donc inter-
+mtdiaire entre celle de l'anion libre et celle de la forme neutre 
+protonte. Ces changements se rtpercutent tgalement sur les 
+angles de liaisons: I'angle C(1)-N(1)-C(5) 
+diminue de 5,6" 
+et les angles N(1)-C-C 
+voisins augmentent de -33" par 
+rapport i ceux de la glutarimide (8). Un effet analogue a t t t 
+not6 pour la succinimide (4) et se rencontre couramment pour 
+les purines (9). Notons que ces changements angulaires dans le 
+cycle ne provoquent pas de changement notable des angles 
+N-C-0 
+et que seuls les angles C-C-0 
+sont modifits. 
+La glutarimide conserve dans le complexe la conformation 
+observte pour la moltcule neutre (8). Les atomes N(l), C(l), 
+C(2), C(4) et C(5) dtfinissent un ensemble a peu prks plan. Les 
+tcarts des atomes a c t plan sont significatifs (6,5u), mais assez 
+faibles (50,040(6) A). Le groupe mtthylkne C(3), le plus 
+
+tloignt de l'azote, se trouve 5 0,633(6) A de ce plan et confkre 
+
+i la glutarimide une conformation "enveloppe". L'oxygkne 
+carbonyle O(1) n'est qu'i 0,034(4) Aode ce plan, tandis que 
+O(2) s'en tcarte davantage (0,168(5) A), dans la direction de 
+l'argent auquel il est lit. 
+~' e m ~i l e m e n t 
+
+moltculaire est reprtsentt B la figure 2. Le 
+
+cristal est constitut d'ensembles [Glu-Ag-Glu]-lintaires et i 
+peu prks plans, relits entre eux par des atomes Ag(2) de ma-
+nikre 2 constituer des colonnes infinies orienttes selon l'ar&amp;te 
+c de la maille. De telles colonnes traversent la face ab au centre 
+
+r BEAUCHAMP 
+
+'axe c. Le motif en traits pleins correspond a celui de la figure 1. 
+
+et ?i chacun des coins. Entre les colonnes, il n'existe que des 
+contacts de van der Waals normaux. 
+
+Spectroscopic it~fraroiige 
+Les spectres infrarouges de la glutarimide en solution dans le 
+chloroforme et I'acttonitrile ont t t t discutts par Thompson 
+et al. (10). L'influence de la concentration sur les rtgions 
+spectrales v(N-H) et v(C=O) a permis de conclure 5 un 
+tquilibre entre le monomkre et un dimkre lie par ponts hydro-
+gkne dans ces solvants. Le spectre rapporte au tableau 2 a t t t 
+obtenu sur le solide. De maniere gtnerale, il differe peu de 
+celui des solutions, et les rtgions v(N-H) et v(C=O) sont 
+semblables a celles de la forme associte en solution. Ceci est 
+attribuable au fait que les vibrateurs N-H et C=O se trouvent 
+dans des conditions analogues dans le solide et dans le dimkre 
+en solution. En effet, les moltcules de glutarimide dans le 
+cristal sont assocites en rubans au moyen de liaisons 
+
+N-H . . . 0 impliquant l'une des fonctions carbonyles et lais-
+
+sant l'autre libre (8). Les attributions propostes au tableau 2 ont 
+t t t faites par comparaison avec les rtsultats de Thompson et al. 
+(10). 
+Comme le complexe d'argent renferme la forme anionique 
+de la glutarimidei les bandes dues au lien N-H 
+doivent 
+disparaitre du spectre. C'est bien le cas de la bande v(NH) 
+dtdoublte 5 3 195 et 3095 cm-'. L'absorption rtsiduelle i 3150 
+cm-' est probablement due a une harmonique de la vibration 
+v(C=O) observte a 1582 cm-', puisque ce m&amp;me mode appa-
+
+raissant B 1665 cm-' dans la glutarimide semble tgalement 
+
+produire une harmonique a 3375 cm-'. La bande large situte i 
+835 cm-' est attribute a la dtformation N-H hors-plan, par 
+comparaison avec la position et la forme de la bande analogue 
+de la succinimide a 823 cm-' (4, 11). Dans le complexe 
+Ag-glutarimide, il ne reste dans cette rtgion que deux absorp-
+tions faibles a 853 et 869 cm-', que Thompson et al. (10) 
+
+attribuent B des mouvements v(CC) et G(CCH). Quant it la 
+
+dtformation N-H 
+dans le plan, elle semble se coupler 2 
+d'autres mouvements, pour contribuer aux bandes situtes vers 
+1330 et 1055 cm-'. La rtgion 1330 cm-' est trop compliqute 
+pour qu'on puisse clairement identifier des changements dans 
+le compost d'argent, mais le dtplacement de la bande i 1061 
+cm-' vers 969 cm-' semble relit B la dtprotonation du coordi-
+
+nat dans le complexe. 
+Les rtsultats cristallographiques indiquent que la redis-
+tribution des electrons dans le coordinat complex6 entraine une 
+diminution de l'indice de la liaison C=O et une augmentation 
+de celui de la liaison C-N. Le spectre infrarouge appuie cette 
+conclusion. Les modes carbonyles se dtplacent depuis 1720 et 
+1670 cm-', vers 1625 et 1580 cm-', respectivement, lors de la 
+complexation. L'accroissement de l'indice de liaison C-N se 
+Can. J. Chem. Downloaded from www.nrcresearchpress.com by 87.160.185.190 on 03/27/14 
+
+For personal use only. 
+
+
+1290 
+
+CAN. J. CHEM. VOL. 62. 1984 
+
+TABLEAU 2. Spectres infrarouges de la glutarimide et de son 
+
+complexe d'argent 
+
+HGlu 
+Ag[AgGluzI 
+
+2v,(C=O) 
+3375 tf 
+3150 tf 
+A' u(NH) 
+3195 F 
+
+[ 3095 F 
+
+-
+
+-
+
+Af,A" u(CH) 
+
+[ 
+
+2975 m 
+2995 m 
+2915 m 
+2960 m 
+2855 f, ep 
+2900 f 
+2835 f 
+2870 f 
+1825 f 
+A" v(C=O) 
+1730 F 
+1628 F 
+
+[ 1715 F 
+
+A' v(C=O) 
+
+[ 
+
+1587 F 
+1575 Cp 
+1556 f 
+1555 f 
+1536 f 
+1537 f 
+
+A ' , A G(CH,) + G(CCH) 
+
+1475 m 
+1472 f 
+
+A1,A" G(CHz) + G(CCH) 
+
+1430 F 
+1448 M 
+
+[ 1416 F 
+
+1424 M 
+
+A' G(CCH) + S(CH2) 
+
+1372 F 
+1380 F 
+
+A" G(CCH) + G(CH2) 
+
+1359 F 
+1365 F 
+
+A' w(NH) + y(C=O) 
+
+1342 F 
+1347 F 
+
+A" y(NH) + G(CCH) 
+
+1331 F 
+1329 F 
+
+A' w(C-N) + G(CCH) 
+
+1277 F 
+1303 M 
+
+A" w(C-N) + y(NH) 
+
+1260 F 
+
+-
+
+A ' , A G(CCH) 
+1186 F 
+1189 F 
+A" G(CCH) 
+1151 F 
+1145 F 
+
+A' G(CCH) + w(NH) 
+
+1061 F 
+969 M 
+
+A" y(C=O) + G(CCH) 
+
+927 M 
+929 M 
+
+A' G(CCH) + w(CC) 
+
+869 tf 
+
+A' w(CC) + G(CCH) 
+
+853 tf 
+A" y(NH) 
+840 M. large 
+-
+
+A" w(C-C) + w(CN) 
+
+763 M 
+778 M 
+
+A' G(CCH) + w(C-C) 
+
+673 M 
+682 M 
+
+A" G(CCH) + y(C=O) 
+
+613 M 
+626 M 
+
+A' w(C-N) + w(CC) 
+
+552 F 
+575 f 
+
+A G(CCN) + w(C=O) 
+
+445 F 
+
+repercute sur le doublet 127711260 cm-', qui donne une bande 
+a 1303 cm-'. Un dkplacement semblable sur la bande situee a 
+1 193 cm-' dans la succinimide a Ct C proposC comme un indice 
+de diprotonation de l'imide (4). Certains autres deplacements 
+sont Cgalement notCs; par exemple, les bandes a 763 et 673 
+cm-' passent respectivement a 778 cm-' et 682 cm-' dans le 
+composC d'argent. 
+
+Spectroscopic de re'sonance magne'tique nucliaire ' H et I3C 
+Les spectres de la glutarimide et de son complexe d'argent 
+ont Ct C CtudiCs dans le DMSO-d,. Les pics du spectre I3C ont 
+Ct C attribuks par Hasan (12). Le spectre 'H est interprete au 
+moyen de la multiplicite et l'integration des pics. Les valeurs 
+des deplacements chimiques sont donnCes au tableau 3. L'en-
+semble des modifications observCes lors de la complexation est 
+semblable a ceux qu'on retrouve pour les complexes de la 
+phtalimide et la succinimide (4). 
+Dans le spectre 'H, on retrouve a champ faible (10,58 ppm) 
+la rCsonance du proton N-H qui disparait comme prCvu lors 
+de la complexation. Les deux spectres (coordinat et complexe) 
+presentent un triplet correspondant aux quatre protons en a du 
+carbonyle. Un multiplet plus blinde, intigrant pour deux pro-
+
+tons, est dO aux protons en p du carbonyle. Le triplet a 2,45 
+
+pprn et le multiplet a 1,83 pprn de HGlu apparaissent a 2,36 et 
+
+1,77 pprn respectivement dans le complexe. Ce blindage est 
+
+relit a I'accroissement de densite Clectronique introduit dans le 
+cycle par la substitution du proton par l'argent moins Clectro-
+attracteur. 
+Dans le spectre I3C, Ie signal C=O apparait a champ trks 
+faible (173,75 ppm) pour le ligand et a champ plus bas pour le 
+complexe (18 1,14 ppm, A6 = +7,39 ppm). Ce dkplacement 
+Cgalement reliC a la poussCe des Clectrons vers le cycle, rCsulte 
+de la hausse de polarit6 du lien C=O lors de la complexation 
+
+(4, 13). Les carbones en a et en p des carbonyles subissent 
+
+Cgalement un blindage, mais a un degrC moindre (A6 = +0,74 
+
+pprn et A6 = + 1,91 pprn respectivement). 
+
+Discussion 
+La structure cristalline du complexe de la glutarimide et celle 
+du compose analogue de la mCthyl-1 thymine prCsentent plu-
+sieurs points communs. Dans les deux cas, la moitiC des atomes 
+d'argent est lineairement reliCe aux atomes d'azote de deux 
+coordinats dCprotonCs, tandis que l'autre moitie est entouree de 
+deux paires de fonctions carbonyles provenant de deux ensem-
+bles [L-Ag-L]-differents. Cette resemblance tient au fait 
+que le segment -C(O)-N-C(0)-
+adopte la mCme repar-
+tition spatiale dans les deux cas. En effet, si l'on excepte le 
+groupe methylene en position 4, la glutarimide posskde comme 
+la thymine un cycle a peu prks plan et ce cyle posskde six 
+
+atomes. 11 s'ensuit que la separation 0 . . . 0 est la mCme des 
+
+deux c6tCs de l'ensemble [L-Ag-L]-(Fig. 1) et que cette 
+sCparation est juste suffisante pour donner une interaction bi-
+dentate chClatante avec un autre atome d'argent. Cette gto-
+metrie particulikre permet de construire des chaines infinies 
+t r b stables, dans lesquelles chaque ensemble [L-Ag-L]-in-
+teragit des deux c6tes avec des atomes Ag(2) et chaque atome 
+Ag(2) interagit avec deux anions complexes. Par contre, pour 
+un cycle a 5 atomes comme celui de la succinimide, les angles 
+
+internes plus petits placeraient les groupes carbonyles A une 
+
+distance plus grande l'un de l'autre dans l'espkce linCaire 
+[Suc-Ag-Sucl-. Pour donner une interaction bidentate avec 
+un premier atome d'argent, une paire de carbonyles doit se 
+rapprocher l'un de l'autre (6), ce qui rend impossible une 
+
+seconde interaction bidentate chelatante par l'autre paire de 
+groupes carbonyles du mCme anion complexe, comme nous 
+l'avons prCcCdemment observC (4). La conformite particulikre 
+
+pour le cas des cycles a six atomes semble donc conduire a une 
+
+stabilisation accrue des solides Ag[AgL2], qui par leur plus 
+faible solubilite empCchent d'obtenir des sels comme Li[AgL] 
+et Na[AgL2], qui sont isolables avec la succinimide (4). 
+Les chaines infinies presentes dans le cristal doivent se 
+rompre pour permettre au composC d'entrer en solution dans le 
+DMSO. Les spectres rmn 'H et I3C montrent que le miroir 
+passant par l'azote et le groupe methylhe en position 4 de la 
+glutarimide est conservC dans le complexe prCsent en solution. 
+A cause de la stabilitC du lien Ag-N indiquee par la courte 
+distance interatomique et l'obtention d'ensembles 1inCaires 
+N-Ag-N 
+dans les composCs de ce genre (2, 4), il est fort 
+Can. J. Chem. Downloaded from www.nrcresearchpress.com by 87.160.185.190 on 03/27/14 
+
+For personal use only. 
+
+
+PERRON ET BEAUCHAMP 
+
+TABLEAU 3. Spectres de resonance magnttique nucltaire 'H et "C de la glu-
+tarimide et du complexe d'argent 
+
+IH 
+"C 
+
+NH 
+(CH2)(a) 
+(CH2)(P) 
+C=O 
+C(a) 
+U P ) 
+
+probable que l'ion lintaire [Glu-Ag-Glu]-
+persiste en solu-
+tion. Une interaction additionnelle avec d'autres ions Ag', qui 
+
+ne pourrait se faire qu'avec une seule paire de groupes carbo-
+nyles a la fois, serait incompatible avec l'tquivalence des deux 
+rnoitits du coordinat indiqute par la rmn, 6 rnoins que cet 
+
+atorne d'argent s'Cchange rapidernent d'une paire d e carbo-
+
+nyles a l'autre. Une explication Cgalernent plausible serait une 
+
+DMSO 
+Ag[~gGlu,] 
+
+[A~(DMSO),,]' + [AgGlu,]-
+
+1847 (1975); M. DAUNE, C. A. DEKKER et H. K. SCHACHMAN. 
+Biopolymers, 4, 51 (1966); G. L. EICHHORN, J. J. BUTZOW, P. 
+CLARK et E. TARIEN. Biopolymers, 5.283 (1967); R. H. JENSEN. 
+Ph.D. Thesis, California Institute of Technology, 1965; F. 
+KLOTZ. Doctorate Dissertation. Resumt par M. Daune. Met. Ions 
+Biol. Syst. 4, 1 (1974). 
+2. F. GUAY et A. L. BEAUCHAMP. J. Am. Chem. Soc. 101, 6260 
+(1979). 
+3. F. GUAY. Thkse de Doctorat, Universitt de Montreal. 1983. 
+4. J. PERRON et A. L. BEAUCHAMP. Inorg. Chem. Sous presse. 
+5. J. Y. HUOT, D. SERVE et J. LESSARD. Can. J. Chem. 61, 1890 
+(1983). 
+
+dissociation du c o r n ~l e x e dans le DMSO, Pour dormer une 
+6. Beilstein Handbuch fur Organischen Chemie. Vol. XXI. 1935. 
+
+cation Ag' solvatt par DMSO et l'anion [Glu-Ag-Glu]-
+p. 382. 
+a p e r ~u dans le solide. 
+7. F. BELANGER-GARIEPY et A. L. BEAUCHAMP. J. Am. Chem. Soc. 
+102, 3461 (1980). 
+
+Remerciements 
+Nous rernercions M . J. Olivier pour l'acquisition des don-
+ntes de diffraction des rayons X, J. Lessard qui a bien voulu 
+nous transrnettre une copie de la rtftrence 5 avant publication, 
+
+ainsi que le Conseil National de Recherches en Sciences 
+Naturelles et en GCnie du Canada pour son support financier. 
+
+1. G. L. EICHHORN. Inorganic biochemistry. Elsevier, Amsterdam. 
+1973. chap. 34; S. K. ARYA et J. T. YANG. Biopolymers, 14, 
+
+8. C. S. PETERSEN. Acta Chem. Scand. 25, 379 (1971). 
+9. R. TAYLOR et 0 . KENNARD. J. Am. Chem. Soc. 104, 3209 
+(1982). 
+10. J. W. THOMSPON, JR., G. E. LEROI et A. I. POPOV. Spectrochim. 
+Acta Part A, 31, 1553 (1975). 
+11. T. WOLDBAEK, P. KLAEBOE et D. H. CHRISTENSEN. Acta Chem. 
+Scand. Ser. A, 30, 531 (1976). 
+12. M. U. HASAN. Org. Magn. Reson. 14, 447 (1980). 
+13. V. GALLASSO, G. PELLIZER, H. LEBAIL et G. C. PAPPALARDO. 
+Org. Magn. Reson. 8, 457 (1976). 
+
+Can. J. Chem. Downloaded from www.nrcresearchpress.com by 87.160.185.190 on 03/27/14 
+
+For personal use only. 
+
+
+
+	
+

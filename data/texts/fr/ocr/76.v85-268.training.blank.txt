@@ -1,0 +1,764 @@
+
+	
+
+		
+
+	
+
+	
+
+Photoelectrochimie des phtalocyanines sans metal, de cuivre et de fer 
+
+BENoiT MARSAN ET GUY BBLANGER 
+
+Insrirur de Recherche d'Hydro-Qukbec, C.P. 1000, Varennes (Quk.), Canada JOL 2P0 
+
+DOMINIQUE-LOUIS PIRON 
+
+Dkpar~emenr de Gknie Mtmllurgique. ~c o l e Polyrechnique, Utliversirk de M o t ~~r t a l , 
+C.P. 6079, Succursale A, 
+Mon~rkal (Qut.), Catzadrz H3C 3A7 
+
+R e ~u le 16 aodt 1984 
+
+Cer article esr dkdik au Professeur Camille Sandorb ci l'occasion de son 65' anniversaire 
+
+BENOIT MARSAN, GUY BELANGER et DOMINIQUE-LOUIS PIRON. Can. J. Chem. 63, 1580 (1985). 
+Le comportement cathodique et photocathodique d'Clectrodes de phtalocyanine sans metal, de cuivre et de fer (H2Pc, CuPc 
+et FePc) a CtC Ctudit en solutions acide, neutre et alcaline. Dans le noir, la courbe de polarisation de I'Clectrode de FePc prCsente 
+deux pics de reduction qui n'ont pas CtC observks avec les autres phtalocyanines; ils sont associCs ii la rCduction du cation 
+central. L'illumination des Clectrodes semiconductrices n'a produit aucun effet sur la rCaction du dCgagement de l'hydrogkne. 
+L'analyse des courbes capacitC-tension a r@vtlC la prCsence de niveaux intermtdiaires IocalisCs ii I'intCrieur de la bande 
+interdite des semiconducteurs et recouvrant environ I% de leurs sites de surface. Les resultats sont expliquCs en considtrant 
+les phtalocyanines comme des Clectrodes semiconductrices de typep. L'energie des bandes et des Ctats de surface a CtC illustrte 
+dans un modkle d'interphase semiconducteur-electrolyte et la nature des transferts de charges inhibes par la prtsence de ces 
+Ctats interfaciaux a Ct C discutCe. 
+
+BENOIT MARSAN, GUY BELANGER, and DOMINIQUE-LOUIS PIRON. Can. J. Chem. 63, 1580 (1985). 
+The cathodic and photocathodic behavior of electrodes of phthalocyanines without metal or complexed to copper or iron 
+(H2Pc, CuPc, and FePc) has been studied in acidic, neutral, and alkaline media. In the dark, the polarization curve of the 
+electrode of FePc shows two peaks of reduction which are not observed with the other phthalocyanines; these are associated 
+with the reduction of the central cation. Lighting the semiconducting electrodes does not produce any effect on the reaction 
+of production of hydrogen. An analysis of the curves of capacity vs. potential indicates the presence of intermediate levels 
+localized within the forbidden band of the semiconductors and covering about 1% of their sites on the surface. The results can 
+be explained if the phthalocyanines are considered to be semiconducting electrodes of type p. The energy of the bands and 
+of the surface states can be depicted with a semiconductor-electrolyte interphase model and the nature of the charge transfers 
+inhibited by the presence of these interfacial states is discussed. 
+[Journal translation] 
+
+1. Introduction 
+
+Les phtalocyanines ont recernment retenu beaucoup d'atten-
+tion, en particulier sous forme de films minces. Leurs propri-
+CtCs catalytiques, principalernent vis-a-vis la reaction de rCduc-
+tion de l'oxygkne (piles a combustible), ont CtC CtudiCes de 
+
+f a ~o n approfondie (1 -5). Les phtalocyanines sont des semi-
+
+conducteurs organiques de type p (6) et leurs propriCtCs Clec-
+triques ont CtC abondarnment Ctudiees. La semiconductivitC 
+intrinskque est associee aux electrons n mobiles des doubles 
+liaisons conjuguCes. 
+Le recouvrement important entre les orbitales n de la phtalo-
+cyanine et les orbitales d du mCtal suppose que ce dernier joue 
+le r61e de pont lors d'un transfert Clectronique d'une molCcule 
+a une autre (7). Les impuretCs ont Cgalement une influence sur 
+la conductivitC, en particulier l'oxygkne qui diminue l'energie 
+d'activation de conduction des phtalocyanines (8). Ces dopants 
+agissent cornme pikges h Clectrons, entrainant la creation d'un 
+plus grand nombre de trous mobiles. 
+~t a n t 
+donnC que les phtalocyanines absorbent fortement dans 
+la region visible du spectre solaire, avec une bande interdite de 
+l'ordre de 1,8-2,l eV (3), il a CtC suggere de les utiliser dans 
+des cellules photovoltai'ques (9-16). Bien que le rendement de 
+conversion de 1'Cnergie solaire en Cnergie Clectrique soit trks 
+
+faible (&lt; 1 %), a cause principalement du faible rendernent 
+
+quantique, certaines phtalocyanines (H,Pc, CuPc, NiPc, 
+MgPc) ont manifest6 des activitCs intkressantes. 11 a CtC observC 
+que le rendement quantique peut Etre accru si les couches 
+minces organiques sont exposCes a l'air ambiant (1 1). Des 
+Ctudes Clectrochirniques et photoClectrochimiques mettant en 
+
+cause des Clectrodes de quelques phtalocyanines (H2Pc, ZnPc, 
+FePc, CuPc, NiPc) en couches minces ont Cgalernent CtC rap-
+portCes (17, 18). De plus, des films de phtalocyanines ont CtC 
+utilisCs pour de la sensibilisation spectrale dans des cellules 
+photoClectrochimiques ( 19-23). 
+Le prCsent travail se propose d'etudier le comporternent 6lec-
+trochimique et photoClectrochimique des phtalocyanines sans 
+metal, de cuivre et de fer Cvaporees en films minces dans des 
+milieux acide. neutre et alcalin. Les rCsultats sont discutCs en 
+fonction des positions relatives des niveaux d'energie des serni-
+conducteurs, des couples Ht(H20)/H2 et 02/H20(OH-) en 
+solution et des Ctats de surface dCterminCs a partir des rnesures 
+de capacitC differentielle. 
+
+2. Partie experimentale 
+
+2.1 Prkpararion des tlecrrodes de phmlocyanine 
+Une couche mince de H2Pc, CuPc ou FePc provenant d'Eastman 
+Kodak Co. et n'ayant Ct C soumis ii aucune autre purification ou aytre 
+traitement quelconque, d'une Cpaisseur approximative de 1000 A, a 
+C t t dtposCe par evaporation ij 5 X 
+Tom ( 1 Tom = 133.3 Pa) sur 
+un mince film d'or (-500 A) prCalablement form6 sur une surface 
+polie de cuivre dans une gaine de Kel-F (fig. 1). L'Cpaisseur des films 
+a Ct C CvaluCe par un contr6leur Varian modkle 980-6005. Les Clec-
+trodes de phtalocyanine ont ensuite CtC chauffkes dans une Ctuve a une 
+tempkrature voisine de 100°C durant environ 2 h, puis exposCes a l'air 
+ambiant pendant 46 h avant leur immersion dans la solution, de ma-
+
+nikre a augmenter la conductivitC des films semiconducteurs (17). Des 
+
+Cvaporations successives d'or et de phtalocyanine (H2Pc, CuPc ou 
+FePc], formantodes couches respectives d'une Cpaisseur voisine de 
+500 A et 3000 A, ont CtC effectuCes sur une surface de graphite pour 
+Can. J. Chem. Downloaded from www.nrcresearchpress.com by 87.160.185.190 on 03/27/14 
+
+For personal use only. 
+
+
+MARSAN ET AL. 
+
+1581 
+
+FIG. 1. ~lectrode de phtalocyanine utilisCe pour les ttudes photo-
+Clectrochimiques. 
+
+les mesures de capacitC diffkrentielle. Des traitements identiques a 
+
+ceux subis par les Clectrodes employCes pour les Ctudes potentio-
+dynarniques ont par la suite Ct C soumis aux Clectrodes avant leur 
+immersion dans la solution. 
+Une cellule en Pyrex a trois cornpartirnents sCparCs avec une Clec-
+trode de travail (phtalocyanine), une Clectrode auxiliaire en platine et 
+une Clectrode de rCfCrence rkversible d'hydrogkne, ERH, (Clectrode 
+dans le mCme milieu que 1'Clectrode de travail; milieux acide et neutre) 
+ou Hg/HgO (milieu alcalin) a Ctt utilisie pour les Ctudes photo-
+Clectrochimiques. La cellule est rnunie d'une fenCtre de quartz et une 
+lampe au tungstkne-halogbne d'une puissance norninale de 650 W a 
+Ct C utilisCe comrne source lurnineuse pour son spectre d'ernission 
+continu dans le proche ultraviolet et le visible. 
+
+2.2 La prkparation des essais 
+Un barbotage d'htliurn de 3 h a precCdC I'irnrnersion de 1'Clectrode 
+de phtalocyanine dans la solution appropriee, laquelle est demeurCe 
+sous atmosphbre inerte pour toute la duree des essais. Les solutions 
+prCparCes avec de I'eau triplement distillCe posskdent les compositions 
+suivantes: HZS04 (Ultrex, J. T. Baker Chemical Co.) 0, 1 N; tampon 
+KH2P04 0,025 M -Na2HP04 0,025 M (Fisher Scientific Co.); et 
+KOH (Aristar, BDH Chemicals) 0,l N dont le pH est de 1,4, 6,8 et 
+12,6 respectivernent. 
+
+2.3 Les techniques expkrimentales utiliskes 
+Les courbes cyclovoltarnmCtriques ont Ct C obtenues par la methode 
+conventionnelle. Par ailleurs, la rnethode utilisee pour les rnesures de 
+capacitt diffkrentielle est celle dCcrite par Morcos (24) et employant 
+
+une perturbation a une frequence de 200 Hz qui represente la frt-
+
+quence optirnale pour le systtme a 1'Ctude. 
+
+3. Resultats experimentaux et discussion 
+3.1 Courbes capacitt-tension 
+Des films de H2Pc, CuPc et FePc, polarises anodiquement 
+par intervalles d'environ 50 mV dans la region de potentiel 
+correspondant a un courant residue1 negligeable, ont etC soumis 
+iI des mesures d'impidance aux trois pH. Ainsi, les valeurs 
+
+de capaciti relevees representent les capacites diffkrentielles 
+
+FIG. 2. Courbe capacitt-tension pour la phtalocyanine sans metal 
+(H2Pc) en milieu neutre. 
+
+Claclrodo do trovail: 3 0 0 0 i FsPc 
+
+Solulion : H2S0, 0.1 N ( pH=1,4) 
+Fripuanca da ia perturbotion ca. : 2 0 0 Hz 
+
+-Amplitude da l'ando : 5 mV crate ' o sr6to 
+
+FIG. 3. Courbe capacitC-tension pour la phtalocyanine de fer 
+(FePc) en milieu acide. 
+
+de l'interface semiconducteur-electrolyte sans contribution 
+faradique. 
+Comme I'illustre la fig. 2, la capacite diffkrentielle de 
+1'Clectrode de H2Pc montre un maximum a 0,03 V/ECS. Cette 
+caractkristique peut Ctre expliquee en termes de niveaux inter-
+mediaires situes a l'interieur de la bande interdite du semicon-
+ducteur, lesquels augmentent la capacite diffkrentielle en 
+agissant comme reservoir de charges. Cela suggkre donc une 
+zone d'etats de surface avec une densite maximale localisee a 
+0,27 V/ENH ou iI une energie de 4,77 eV sous le niveau du 
+vide puisque 1'Cnergie de Fermi standard du couple H+/H2 a 
+I'equilibre (ENH) est approximativement de 4,5 eV sous le 
+niveau du vide (25); cette valeur est comparable a celle obtenue 
+par Fan et Faulkner (4,75 eV) (18). Une courbe similaire est 
+obtenue avec l'electrode de CuPc et un second pic est observe 
+dans le cas de la FePc (fig. 3). 
+L'analyse de ces courbes suggkre une zone d'etats de sur-
+face avec une densite maximale localisee a 0,40 V/ENH 
+(-4,90 eV) pour la CuPc et deux zones d'Ctats de surface dont 
+la densitt est maximale 21 0,34 V/ENH (-4,84 eV) et a 
+0,52 V/ENH (-5,02 eV) pour la FePc; ces Ctats de surface 
+seront discutes plus loin. I1 est a souligner qu'un changement 
+de pH de la solution ne modifie pas l'allure des courbes 
+capacite-tension. 
+Can. J. Chem. Downloaded from www.nrcresearchpress.com by 87.160.185.190 on 03/27/14 
+
+For personal use only. 
+
+
+CAN. J. CHEM. VOL. 63. 1985 
+
+Solulion: tampon KH2P0, 0.025 M-N02HP0, 0 , 0 2 5 M ( p H = 6 , 8 1 
+
+~r i p u a n c a da lo parturbotion co. : 2 0 0 Hz 
+
+\ 
+
+Ampliluda do l'onds : 5 m V c r a t e b crate 
+
+Ubp + E = 0 , 6 6 V 
+
+\ 
+
+a 
+
+\ \ 
+
+I 
+
+TENSION D ~~L E C T R O D E 
+(V/ECS) 
+
+FIG. 4. Courbe Mott-Schottky pour la phtalocyanine sans mCtal (H2Pc) en milieu neutre. 
+
+Une seconde Cvidence supportant 1'idCe de la presence 
+TABLEAU 1. Variation de Ubp avec le pH et la 
+d'Ctats de surface est la valeur de la capacitk diffkrentielle qui 
+
+phtalocyanine 
+
+est de l'ordre de 18 pF/cm2 (H2Pc), 20 pF/cm2 (CuPc) et 
+
+13 pF/cm2 (FePc) alors qu'elle est typiquement infkrieure B 
+
+Ubp (VIENH) 
+
+1 pF/cm? dans le cas d'une electrode semiconductrice (26). La 
+
+(+0,02 V) 
+
+densit6 maximale de ces Ctats de surface (N,) peut &amp;tre estimCe 
+
+pH 
+(+-0,1) 
+H2Pc 
+CuPc 
+FePc 
+
+a partir de la hauteur de la capacitC maximale des courbes 
+capacitC-tension (27): 
+
+1,4 
+0,92 
+0,87 
+0,84 
+
+ou c!, reprCsente la capacite maximale a l'tquilibre des Ctats de 
+
+surface; e, k et T correspondent respectivement a la charge de 
+l'electron, la constante de Boltzmann et la temptrature abso-
+lue. Les valeurs obtenues sont de l'ordre de 10'3/cm2, ce 
+qui est Cquivalent a un recouvrement des sites de surface 
+d'environ 1 %. 
+
+3.2 Courbes Mott-Schottky 
+La connaissance du potentiel de bandes plates (Ubp) d'un 
+semiconducteur nous indique si la photodCcomposition de l'eau 
+peut avoir lieu spontankment, c'est-a-dire sans l'application 
+
+d'une tension a 1'Clectrode semiconductrice en sus de 
+
+l'illumination. Pour en dCterminer la valeur, on applique en 
+premittre approximation la relation de Mott-Schottky pour un 
+semiconducteur non dCgCnCrC, donnte par 
+
+pour un semiconducteur du type p. Dans cette Cquation d'une 
+droite, C,, est la capacitC de la rCgion d'appauvrissement de 
+charges a l'intbieur du semiconducteur, E est la constante 
+diklectrique du semiconducteur, EO est la permitivitt du vide, 
+N A est la concentration des accepteurs d'Clectrons et U,,,, est la 
+tension de 1'Clectrode. La pente de la droite est proportionnelle 
+
+B la concentration du dopant dans le semiconducteur et 
+
+l'intersection avec l'axe des Uappl (1/CSc2 = 0) donne Ubp si le 
+terme kT/e est nCgligC. 
+
+La courbe Mott-Schottky correspondant B une Clectrode de 
+
+H2Pc Ctudite en milieu neutre est prCsentCe dans la fig. 4, d'ou 
+
+l'on tire Ubp = 0,63 V/ECS (kT/e = 0,026 V B 24°C). Les 
+
+valeurs obtenues pour les autres phtalocyanines sont donnCes 
+au tableau 1 qui indique Cgalement l'effet du pH sur ces 
+
+*Instabilitt de la FePc en milieu alcalin. 
+
+valeurs. On remarque qu'une augmentation du pH de la solu-
+tion tend a diminuer la valeur du potentiel de bandes plates, 
+mais d'une faqon trtts peu significative. Cette constatation sug-
+gttre qu'aucune adsorption spCcifique d'espkces ioniques ne se 
+produit sur la surface des semiconducteurs qui permettrait de 
+
+changer la chute de potentiel B travers la double couche 
+
+d'Helmholtz lors d'une variation du pH de la solution, comme 
+dans le cas de la plupart des semiconducteurs. Jaeger et al. (19) 
+ont d'ailleurs observC que les niveaux d'Cnergie de H2Pc 
+demeuraient pratiquement inchanges lors d'une variation 
+de pH. 
+Le tableau met Cgalement en Cvidence l'effet de l'atome 
+central de la molCcule de phtalocyanine. On constate que la 
+
+valeur du potentiel de bandes plates croit dans l'ordre FePc &lt; 
+CuPc &lt; H,Pc, bien que le changement soit a nouveau peu 
+
+prononcC compte tenu de l'erreur experimentale (*0,02 V). 
+
+Dahlberg et Musser (12) ont mesurC les photovoltages B satu-
+
+ration dans des cellules photovolta~ques utilisant les m&amp;mes 
+tlectrodes de phtalocyanine et ils ont observC qu'ils croissaient 
+suivant le m&amp;me ordre. La valeur du photovoltage leur apparait 
+Ctroitement relike a l'alignement de 1'Cnergie des orbitales d du 
+mCtal central avec la limite supCrieure de la bande de valence 
+
+de la phtalocyanine, dCterminC i partir des spectres de photo-
+
+Cmission de ces mattriaux semiconducteurs. Ainsi, les 
+orbitales 3d de symCtrie e, (d,,, d,,) de l'ion femque sont 
+localisees au m&amp;me niveau d'Cnergie que la plus haute orbitale 
+occupCe par des electrons n de la phtalocyanine et aucun photo-
+voltage ne s'est manifest6 avec la FePc. Par ailleurs, les 
+orbitales 3 d de l'ion cuivrique montrent une bonne stparation 
+CnergCtique avec cette orbitale et un photovoltage 1Cgerement 
+Can. J. Chem. Downloaded from www.nrcresearchpress.com by 87.160.185.190 on 03/27/14 
+
+For personal use only. 
+
+
+MARSAN ET AL 
+
+V I D E 
+
+I 
+
+4 : zone d ' b t a t s de s u r f a c e 
+
+FIG. 5. Diagrammes de niveaux dlCnergie pour la phtalocyanine sans mCtal (H2Pc): (a) milieu acide; (b) milieu neutre; (c) milieu alcalin. 
+
+infkrieur a celui prtsente par la H2Pc, ne possCdant aucun 
+Clectron d, a Ct C observC avec la CuPc. ~t a n t donnC que la 
+
+valeur du photovoltage a saturation correspond a la courbure 
+
+des bandes du semiconducteur a 1'Cquilibre (dans le noir), 
+les raisons ci-haut mentionntes expliquent les difftrences 
+obtenues dans les valeurs de potentiel de bandes plates. 
+La concentration des accepteurs d'Clectrons ( N A ) dtterminCe 
+a partir de la pente de 1'Cquation Mott-Schottky est de 
+l'ordre de 102'/cm3 pour les trois phtalocyanines CtudiCes (E 
+
+mesurte = 3,8 * 0,3); ceci reprCsente une valeur trks ClevCe, 
+
+car les semiconducteurs hautement dopts posskdent des con-
+centrations supkrieures a 10'8/cm3. Ces rCsultats montrent le 
+signe evident d'imperfections a la surface des phtalocyanines 
+donnant lieu a des niveaux d'Cnergie discrets situCs a I'intCrieur 
+de la bande interdite. Ces Ctats de surface pikgent les Clectrons 
+provenant de la bande de valence en y crCant un surplus de trous 
+mobiles. I1 est connu que les phtalocyanines sont activCes 
+lorsqu'elles absorbent l'oxygkne, leur structure Ctant analogue 
+a celle du groupe prosthttique de I'hCmoglobine (28). De ce 
+fait, l'oxygene doit Ctre grandement responsable de la concen-
+tration ClevCe en porteurs majoritaires. Nos rCsultats sont en 
+accord avec ceux obtenus prCcCdemment par Crine' qui a utilist 
+la mCrne mtthode de mesure. 
+A la lumikre des potentiels de bandes plates dtduits des 
+courbes Mott-Schottky, nous pouvons ttablir les diagrammes 
+de niveaux d'tnergie reliCs aux cellules d'Clectrolyse photo-
+assistCe de l'eau utilisant les Clectrodes de H,Pc, CuPc et FePc, 
+bien que l'on soit conscient des limitations de la mesure en 
+raison de la prksence des Ctats de surface et de la seule frC-
+quence utilisCe (200 Hz). La figure 4 nous donne un potentiel 
+de bandes plates de 0,63 V/ECS (-5,37 eV) pour H2Pc Ctudite 
+en milieu neutre. Prenant une diffkrence CnergCtique d'environ 
+0 , l eV entre la limite supkrieure de la bande de valence et le 
+
+'J. P. Crine. Communication privte. Varennes. 1979. 
+
+niveau de Fermi (le semiconducteur est tres dopC) et con-
+naissant la valeur de la bande interdite des phtalocyanines (2,O 
+eV), on peut situer la limite infkrieure de la bande de conduc-
+tion a -3,47 eV (fig. 5(b)). Sur cette figure, la zone d'Ctats de 
+surface dCduite de la courbe capacitt-tension (fig. 2) posskde 
+
+une densit6 maximale localisCe a -4,77 eV. 
+
+A pH 6,8, les couples Ht/H2 et 0 2 / H 2 0 sont situCs 
+respectivement a 4,10 et 5,33 eV sous le niveau du vide. ~t a n t 
+donnC que les concentrations d'hydrogkne et d'oxygene dans la 
+cellule sont nulles au dCbut de l'Clectrolyse, le niveau de Fermi 
+de 17Clectrolyte est fix6 en plein centre des niveaux Ht/H2 et 
+0 2 / H 2 0 , soit a -4,72 eV. Les potentiels de bandes plates 
+dCterminCs en solutions acide et alcaline ont permis d'etablir les 
+diagrammes de niveaux d'Cnergie illustrCs dans les figures 5(a) 
+et 5(c). Des analyses similaires concernant les autres phtalo-
+cyanines (CuPc, FePc) ont men6 aux diagrammes reproduits 
+dans les figures 6 et 7. 
+
+3.3 Courbes cyclovoltamme'triques 
+La voltametrie cyclique a kt6 utilisCe pour caractiriser le 
+comportement Clectrochimique et photoClectrochimique des 
+films de H2Pc, CuPc et FePc vis-a-vis la rCaction du dt-
+gagement de l'hydrogene. En l'absence de film phtalocyanine, 
+1'Clectrode d'or montre une densit6 de courant beaucoup plus 
+importante a partir de -0,40 V/ERH. Les courbes obtenues 
+dans le noir rkvklent un phCnomkne dlhysttrCsis entre les ba-
+layages d'aller et de retour, la densitt de courant Ctant 
+plus faible lors du balayage de retour (figures 8 et 9). 
+L'irrCversibilitC du processus est attribute a des espkces rtduc-
+tibles sur la surface du semiconducteur: au cours du balayage 
+d'aller, la surface se nettoie par rkduction irrkversible des irn-
+puretCs. Cet hystCrCsis diminue toutefois avec les cycles. La 
+densite de courant correspondant a une tension d'Clectrode 
+donnCe diminue 1Cgkrement avec les cycles, ce qui peut Ctre 
+expliquC par la formation de bulles 2 la surface de 1'Clectrode 
+Can. J. Chem. Downloaded from www.nrcresearchpress.com by 87.160.185.190 on 03/27/14 
+
+For personal use only. 
+
+
+CAN. J. CHEM. VOL. 63, 1985 
+
+CuPc 
+pH=1,4 
+P I 
+
+I I CuPc p H = 6 , 8 P t 
+I I 
+
+FIG. 6. Diagrammes de niveaux d'knergie pour la phtalocyanine de cuivre (CuPc): (a) milieu acide; (b) milieu neutre; (c) milieu alcalin. 
+
+i c h e l l e 
+
+( C 
+d ~e c t r o c h i r n i ~u e 
+
+( V/ENH ) 
+
+VIDE 
+
+-
+
+i c h s l l e d e 
+
+l ' i t a t solid@ 
+
+( e v ) 
+
+4 : zone d'e'tats de s u r f a c e 
+
+d c h e l l e 
+
+( b ) 
+;lectrochimique 
+
+( V/ENH) 
+
+FIG. 7. Diagrammes de niveaux d'knergie pour la phtalocyanine de fer (FePc): (a) milieu acide; (b) milieu neutre. 
+
+i c h e l l e do 
+
+l'dtot aolide 
+
+( e v ) 
+
+lors du dCgagement d'hydrogene, bloquant ainsi certains sites 
+pics ne sont pas associb a la reduction de la molCcule 
+rkactionnels. Notons que les Clectrodes de H,Pc et CuPc 
+organique de phtalocyanine, mais plut6t a celle du cation cen-
+prCsentent des courbes similaires. 
+tral. Compte tenu du traitement de l'electrode, le fer est pro-
+La courbe de polarisation cathodique de l'electrode de FePc 
+bablement a l'etat d'oxydation 111 donnant lieu au complexe 
+(fig. 9) prCsente deux pics de rkduction, ce qui n'a pas Ct C 
+densit6 de spin ClevC Fe"' PC' 0,. En effet, l'existence de Fe"' 
+observe avec les autres phtalocyanines. Cela indique que ces 
+a 1'Ctat stable implique la presence d'un ligand supplementaire 
+Can. J. Chem. Downloaded from www.nrcresearchpress.com by 87.160.185.190 on 03/27/14 
+
+For personal use only. 
+
+
+.N ET AL. 
+
+1585 
+
+TENSION D'ELECTRODE (v/ERH) 
+
+-
+
+k l a c t r o d a d l travail: 1 0 0 0 1 HIPc 
+
+Solution: HISO, 0,I N ( p ~. 1 . 4 ) ; ~= 2 4 ~~ 
+
+V i t a a r e de balayage: 10 mv/s 
+
+-Condition d'illumination: dans le noir 
+
+-Prmmier cycle 
+
+--D b u r i i m e cycle 
+
+-8 0 0 -
+
+-9900 -
+
+FIG. 8. Courbe de polarisation cyclovoltammCtrique de la phtalo-
+cyanine sans mCtal (H2Pc) en milieu acide. 
+
+accepteur (Ox) situC entre deux atomes de fer de deux molt-
+cules voisines pour des raisons de symttrie (29). 
+Les essais rtalisCs en solutions acide, neutre et alcaline ont 
+permis d'Ctudier l'effet du pH de la solution: la densitt de 
+courant cathodique correspondant a une tension d'tlectrode 
+donnee est rtduite de f a ~o n apprtciable en solution neutre 
+(pH = 6,8), alors qu'elle varie peu lorsque le pH de la solution 
+passe de 1,4 a 12,6. En solution neutre, la concentration 
+ionique de 1'Clectrolyte est plus faible et par consequent la 
+densit6 de courant cathodique mesurte est moins importante 
+qu'en solutions acide et alcaline ou les concentrations en ions 
+H' et OH-sont t r b ClevCes. 
+Lors de l'illumination des Clectrodes de phtalocyanine par 
+une lampe au tungstene-halogkne (150 mW/cm2 effectifs en 
+surface de l'e'lectrode), aucun changement n'a kt6 observi dans 
+la variation de la densitt de courant avec la tension imposte 
+a 1'Clectrode semiconductrice. Notre modkle d'interphase 
+semiconducteur-tlectrolyte (figures 5-7) peut expliquer cette 
+absence d'effet de la lumikre sur le dCgagement d'hydrogkne. 
+Lorsqu'un photon est absorb6 a l'tlectrode semiconductrice, 
+une paire tlectron-trou est crtte. Les paires photogtntrtes 
+dans la rtgion d'appauvrissement de charges sont immCdia-
+tement stpartes par le champ tlectrique qui s'y trouve. Les 
+Clectrons (porteurs minoritaires) sont dirigts vers la surface de 
+l'tlectrode pour remplir des ttats interfaciaux qui agissent de 
+mtdiateurs de transferts de charges a des accepteurs en solution 
+(espkces oxydees) dont la densitt des ttats d'Cnergie recouvre 
+celle des Ctats interfaciaux. Cornme ces densitCs ne peuvent se 
+recouvrir selon nos diagramrnes de niveaux d'Cnergie (figures 
+5-7), les Ctats de surface agissent plut6t comme centres de 
+recornbinaison, inhibant ainsi tout effet de lumikre. Par ail-
+
+~l e c t r o d e de I r o v o i l : 1 0 0 0 H F a P c 
+
+Solution : H 2 S 0 4 0 , I N ( p ~= 1 . 4 ) : T = 2 4 ' ~ 
+V i l e a r e do b a l a y a g e : 10 mv/r 
+
+Condition d'illumination: dana Ib noir 
+
+-Premier cycle 
+
+--Deuri;me 
+cycle 
+
+... T r o i r i i m e cycle 
+
+FIG. 9. Courbe de polarisation cyclovoltammCtrique de la phtalo-
+cyanine de fer (FePc) en milieu acide. 
+
+leurs, la concentration trks Clevte en porteurs majoritaires con-
+fkre aux phtalocyanines une region d'appauvrissement de 
+charges relativement mince qui diminue de f a ~o n significative 
+la quantitt de photons absorbts. 
+En absence d'Ctats de surface, le transfert d'ilectrons de la 
+bande de conduction aux espkces oxydCes H30' ou HxO en 
+solution serait facilitt en milieu alcalin en raison du 
+recouvrement plus important de la densitt des Ctats d'tnergie 
+de ces espkces (niveaux non occupCs par des tlectrons) avec la 
+bande de conduction; ce transfert devrait Etre plus apprtciable 
+dans le cas de l'tlectrode de H2Pc en raison de la position moins 
+tlevte de ses bandes d'Cnergie. Par ailleurs, les diagrammes 
+de niveaux d'tnergie suggkrent un apport en tnergie Clectrique 
+moindre a pH alcalin pour initier la photodCcomposition de 
+l'eau, ce qui favorise un rendement de conversion de l'tnergie 
+optique en tnergie chimique plus Clevt. En effet, une tension 
+cathodique (U,) doit Etre appliqute a l'tlectrode de phtalocya-
+nine en sus de l'illumination pour abaisser le niveau de Fermi 
+de l'tlectrode auxiliaire mCtallique (EF,,,) au-dessous du 
+niveau E021Hz0 (EOzlOH-) et ainsi assurer l'oxydation de l'eau. 
+La tension minimale (thtorique) requise pour mener cette rCac-
+tion d'oxydation ((Uc),i,) diminue avec l'augmentation du pH 
+de la solution, passant de 0,53 V (pH = 1,4) a 0,25 V (pH = 
+6,8) puis a 0 V (pH = 12,6) dans le cas de la cellule utilisant 
+une tlectrode de H,Pc (fig. 5). On peut remarquer qu'une 
+courbure de bandes de l'ordre de 0,3 V, ntcessaire a une 
+stparation adCquate des paires electron-trou 
+photo-
+gtntrtes par le champ Clectrique (30), a Ct C respectee dans 
+l'ttablissement des diagrammes de niveaux d'energie. 
+En comparant les figures 5 a 7, on est en mesure de constater 
+
+que l'apport en tnergie Clectrique croitrait dans l'ordre HxPc &lt; 
+CuPc &lt; FePc, faisant ttat des diffkrences dans les valeurs du 
+
+potentiel de bandes plates. En effet, un potentiel plus ntgatif 
+Can. J. Chem. Downloaded from www.nrcresearchpress.com by 87.160.185.190 on 03/27/14 
+
+For personal use only. 
+
+
+1586 
+
+CAN. J. CHEM. VOL. 63, 1985 
+
+s'tloigne davantage de la tension uOIlHzO (UO1lObl-) exigeant 
+
+par constquent une tension suptrieure pour amorcer 
+l'oxydation de l'eau. Concemant 1'Clectrode de FePc immergte 
+en solution acide, la courbure de bandes rksultant de la jonction 
+
+semiconducteur-Clectrolyte est 1Cghement infkrieure a 0,3 V, 
+
+ce qui implique que l'illumination de cette Clectrode serait 
+inefficace compte tenu du taux ClevC de recombinaisons des 
+paires Clectron-trou photogCnCrCes. 
+
+4. Conclusion 
+L'illumination des electrodes de phtalocyanine n'a produit 
+aucun effet sur la rCaction du dtgagement de l'hydrogkne. Un 
+
+modele d'interphase semiconducteur-electrolyte Ctabli a partir 
+
+des mesures de capacite diffkrentielle peut expliquer cette 
+absence de photocourant. L'analyse des courbes capacitC-
+tension a rCvC1C la presence de niveaux intermkdiaires 1ocalisCs 
+
+a I'intCrieur de la bande interdite des semiconducteurs et 
+
+recouvrant environ 1% de leurs sites de surface. Ces Ctats 
+interfaciaux qui pi2gent les Clectrons photogCnCrCs dans la ban-
+de de conduction ne peuvent permettre leur transfert en solution 
+en raison du non recouvrement de leur densite d'knergie avec 
+la densit6 des Ctats d'Cnergie des espkces oxydCes H30+ ou 
+HZO; ils agissent plutBt comme centres de recombinaison, 
+empkhant la manifestation d'un photocourant. De plus, la 
+concentration trks ClevCe en porteurs majoritaires (-10" /cm3) 
+confere aux phtalocyanines une rCgion d'appauvrissement de 
+charges trks mince qui diminue de f a ~o n significative la 
+quantitt de photons absorbks. 
+L'Clectrolyse photoassistee de l'eau deviendrait possible 
+avec des Clectrodes de phtalocyanine qui absorbent fortement 
+dans le visible par 1'Climination des Ctats de surface. Selon nos 
+diagrammes de niveaux d'knergie, la rCaction photocathodique 
+du dCgagement de l'hydrogkne serait facilitCe en milieu alcalin 
+et avec une Clectrode semiconductrice de H,Pc. Par ailleurs, 
+l'apport en Cnergie Clectrique serait moins important dans ce 
+m i k e milieu et avec la m2me Clectrode de phtalocyanine pour 
+
+initier la rCaction anodique du dkgagement de l'oxygkne a 
+
+1'Clectrode auxiliaire mktallique, ce qui favoriserait Cgalement 
+un rendement de conversion de I'Cnergie optique en Cnergie 
+chimique supCrieur; les rendements diminueraient dans l'ordre 
+
+H2Pc &gt; CuPc &gt; FePc. Une exposition moins prolongCe des 
+
+films de phtalocyanine a l'atmosphkre attCnuerait probable-
+
+ment la densit6 des Ctats de surface, l'oxygkne Ctant sans doute 
+responsable de leur prCsence. Cependant, la grande rCsistivitC 
+des phtalocyanines (17) nCcessite la prCsence d'une concen-
+tration suffisamment ClevCe d'oxygkne jouant le rBle de do-
+pant. En effet, il a Ct C observC que le rendement quantique est 
+accru lorsque les couches minces organiques sont exposCes 2 
+l'air ambiant (1 1). 
+
+Remerciements 
+Les auteurs tiennent a remercier les Drs J. P. Crine, A. K. 
+Vijh (IREQ) et A. Yelon ( ~c o l e 
+Polytechnique) avec qui ils ont 
+eu des discussions fructueuses. 
+
+1. G. SANSTEDE. From electrocatalysis to fuel cells. University of 
+Washington Press, Seattle. 1972. 
+2. M. ICHIKAWA, M. SOMA, T. ONISHI et K. TAMARU. Trans. 
+Faraday Soc. 63, 1215 (1967). 
+3. F. H. MOSER et A. L. THOMAS. Phthalocyanine compounds. 
+Reinhold, New York. 1963. 
+4. S. TANAKA, T. ONISHI et K. TAMARU. Bull. Chern. Soc. Jpn. 41, 
+2557 (1968). 
+5. M. SUDO, M. ICHIKAWA, M. SOMA, T. ONISHI et K. TAMARU. 
+J. Phys. Chern. 73, 1174 (1969). 
+6. F. GUTMANN et P. E. LYONS. Organic semiconductors. Wiley, 
+New York. 1967. 
+7. S. E. HARRISON et J. M. ASSOUR. J. Chem. Phys. 40,365 (1964). 
+8. G. H. HEILMEIER et S. E. HARRISON. Phys. Rev. 132, 2010 
+(1963). 
+9. A. K. GHOSH, D. L. MOREL, T. FENG, R. F. SHAW et C. A. 
+ROWE, JR. J. Appl. Phys. 45, 230 (1974). 
+10. F. R. FAN et L. R. FAULKNER. J. Chern. Phys. 69, 3341 (1978). 
+11. G. A. CHAMBERLAIN et P. J. COONEY. Chem. Phys. Lett. 66, 88 
+(1979). 
+12. S. C. DAHLBERG et M. E. MUSSER. J. Chern. Phys. 70, 5021 
+(1979). 
+13. R. 0 . LOUTFY et J. H. SHARP. J. Chern. Phys. 71, 1211 (1979). 
+14. R. 0 . LOUTFY, J. H. SHARP, C. K. HSIAO et R. Ho. J. Appl. 
+Phys. 52, 5218 (1981). 
+15. R. 0 . LOUTFY, Y. SHING et K. MURTI. Sol. Cells. 5,331 (1982). 
+16. M. SHIMURA et H. BABA. Denki Kagaku, 50, 678 (1982). 
+17. H. TACHIKAWA et L. R. FAULKNER. J. Am. Chem. Soc. 100, 
+4379 (1978). 
+18. F. R. FAN et L. R. FAULKNER. J. Am. Chem. Soc. 101, 4779 
+(1979). 
+19. C. D. JAEGER, F. R. FAN et A. J. BARD. J. Am. Chern. Soc. 102, 
+2592 (1980). 
+20. A. GIRAUDEAU, F. R. FAN et A. J. BARD. J. Am. Chem. Soc. 
+102, 5137 (1980). 
+21. R. 0 . LOUTFY et L. F. MCINTYRE. Sol. Energy Mater. 6, 467 
+(1982). 
+22. R. 0 . LOUTFY et L. F. MCINTYRE. Can. J. Chern. 61, 72 (1983). 
+23. P. LEEMPOEL, F. R. FAN et A. J. BARD. J. Phys. Chem. 87, 2948 
+(1983). 
+24. 1. M o ~c o s . 
+J. Electroanal. Chem. 72, 389 (1976) 
+25. A. E. DIXON et J. D. LESLIE. Solar energy conversion, an intro-
+ductory course. Pergamon Press, Toronto. 1979. p. 907. 
+26. A. K. VIJH. Electrochemistry of metals and semiconductors. 
+Marcel Dekker, New York. 1973. p. 33. 
+
+27. H. EYRING, D. HENDERSON et W. JOST. Physical chemistry, an 
+
+advanced treatise. Tome IXA. Academic Press, New York. 1970. 
+28. H. JAHNKE et M. SCHONBORN. 19th CITCE Meeting, Detroit. 
+Septembre 1968. 
+29. M. SAVY, C. BERNARD et G. MAGNER. Electrochim. Acta, 20, 
+383 (1975). 
+30. M. S. WRIGHTON. ACC. Chem. Res. 12, 303 (1979). 
+
+Can. J. Chem. Downloaded from www.nrcresearchpress.com by 87.160.185.190 on 03/27/14 
+
+For personal use only. 
+
+
+
+	
+

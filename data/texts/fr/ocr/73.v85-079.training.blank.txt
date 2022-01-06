@@ -1,0 +1,265 @@
+
+	
+
+		
+
+	
+
+	
+
+~t u d e structurale d'un C-glycoside insature; 
+le tri-O-acetyl-3,4,6-desoxy-2-a-~-threo-hexeno-2-pyrannosyle benzene 
+
+HELENE GILLIER-PANDRAUD ET RACHID BRAHMI 
+Laborntoire de Chimie Structurnle BiomolPculaire, Univer.sitP Pnris-Norrl. 74 rue Mnrcel Cnchin, 93000-Bobigny, France 
+
+VERONIQUE BELLOSTA-DECHAVANNE ET STANISLAS CZERNECKI 
+Lnborntoire de CinPtique el MCcnt1ismr.s dr RPnctions Orgnniqrrrs. UniversitP Pierre et Marie Curie. 
+CNRS ER 84, 4 place Jussieu, Pnris, France 
+
+R e p le 24 fCvrier 1984 
+
+HELENE GILLIER-PANDRAUD, RACHID BRAHMI, VERONIQUE BELLOSTA-DECHAVANNE et STANISLAS CZERNECKI. Can. J. 
+Chern. 63, 491 (1985). 
+La structure du tri-O-acCtyl-3,4,6-dCsoxy-2-a-~-thrPo-hexCno-2-pyrannosye benzkne 1 a CtC dCterrninCe par diffraction des 
+rayons X. Les cristaux de 1 sont orthorhornbiques et appartiennent au groupe d'espace P2,2,2, avec n = 22,946(10), b = 
+
+10,319(6), c = 7,684(4) A, V = 18 19,42 A" Z = 4, p, = I ,27 g crn-'. La conformation du cycle glucidique est derni-chaise 
+
+"H, dans laquelle le noyau arornatique est quasi-axial. Le carbone anomere posskde la configuration a . La cornparaison des 
+donnCes de rrnn 'H avec les donnCes cristallographiques a perrnis d7Ctablir que la conformation de 1 en solution-est trks vite 
+voisine de celle adoptCe i I'Ctat cristallin. 
+
+HELENE GILLIER-PANDRAUD, RACHID BRAHMI, VERONIQUE BELLOSTA-DECHAVANNE, and STANISLAS CZERNECKI. Can. J. 
+Chem. 63, 491 (1985). 
+The structure of 3,4,6-tri-0-acetyl-2-deoxy-a-~-t/~reo-hexeno-pyranosyl benzene 1 has been determined by X-ray diffrac-
+tion methods. Crystals of 1 are orthorhornbic, space group P212121 with n = 22.946(10), b = 10.3 19(6), c = 7.684(4) A, 
+
+V = 1819.42 A' , Z = 4, p, = 1.27 g cm-! The sugar moiety exhibits a half-chair "H, conformation in which the aromatic 
+
+ring is quasi-axial. The anorneric carbon has the a configuration. The comparison of the 'H nrnr data with the crystallographic 
+data established that, in solution, the conformation of 1 is very similar to that in the crystalline state. 
+
+L'arylation des glycals peracCtyles catalysee par les sels de 
+palladium constitue une nouvelle methode de synthkse de C-
+
+glycosides ( I). Appliqute au tri-0-acetyl-3,4,6-anhydro-1,5-
+dtsoxy-2-D-lyxo-hexene-I-itol (tri-0-acetyl-D-galactal), elle 
+conduit a des C-glycosides insaturb, selon la reaction: 
+
+Pd (OAc) 
+
++ ArH AcOH, 1200c 
+
+AcO 
+
+La structure de ces composts a CtC determinee par les me-
+
+thodes spectroscopiques classiques (1) exceptte la configu-
+
+ration du carbone anomkre. En effet, i ? cause de la prtsence 
+
+d'une double liaison entre les carbones C-2 et C-3, I'examen du 
+spectre de rmn ' H ne permet pas de trancher, car le couplage 
+
+-'J,.? se fait ii travers un carbone hybride sp2 et la valeur obser-
+
+v t e (3,9 Hz) est compatible avec les deux configurations, sans 
+prtjuger de la conformation. D'autre part, cornrne la reaction 
+est stCrtosptcifique, nous ne possedons qu'un seul des ano-
+meres, et, de ce fait, I'utilisation du pouvoir rotatoire ne peut 
+&amp;tre que sptculative. En effet, si les C-glycosides pyranniques 
+suivent, en gtntral, les regles de Hudson (2), des exceptions 
+
+concernant des composts a cycle pyrannique insaturt ont Ctt 
+
+cependant signaltes (3). 
+
+Aussi la structure du tri-0-acetyI-3,4,6-dCsoxy-2-a-~-thrPo-
+hexkno-2-pyrannosyle benzkne, 1 (Ar = Ph), a-t-elle t t t deter-
+minte par diffraction des rayons X et corrCl6e avec les donntes 
+
+de rmn 'H pour Ccarter toute arnbiguitt en c e qui concerne la 
+sttrtochimie de la reaction. 
+
+Partie experimentale 
+
+Les cristaux, obtenus par recristallisation dans I'Cthanol 95% se 
+prCsentent sous I'aspect de petites plaquettes transparentes allongCes. 
+Les parametres de la rnaille orthorhornbique ont Ctt dkterrnines sur 
+diffractomktre automatique Philips PW l I00 a partir de 24 rCflexions 
+
+telles que 20 &lt; 0 &lt; 50" pour ACU Ka. 
+
+Les donnCes de diffraction, enregistries en premier lieu avec le 
+rayonnement MoKa, ont Ct C rnesurCes i nouveau avec celui du cuivre 
+en raison du pouvoir diffractant limit6 des cristaux, dans les conditions 
+
+suivantes: ACuKa monochromatisCe, 20,,,.,, = l38", -27 &lt; h &lt; 27, 
+0 5 k &lt; 12, 0 5 I &lt; 9, balayage 8/28, = 8,36 cm-'. Sur les 3989 
+
+intensites rnesurCes, 1964 Ctaient indkpendantes. Parrni celles-ci 
+
+1786. telles que I &gt; 2u(I). ont CtC dCclarCes observCes. 
+
+La mise en oeuvre de la chaine de programmes MULTAN (4) a 
+fourni les positions des atornes de carbone et d'oxygkne qui ont Ct C 
+affinCes par rnoindres carrCs dans I'hypothkse d'une agitation ther-
+mique isotrope puis anisotrope (X RAY (5)). Les atornes d'hydro-
+genes ont CtC localists sur des sCries de Fourier difference et pris en 
+compte dans les derniers cycles d'affinement, leurs paramktres restant 
+toutefois bloquCs. Le facteur R final non ponder6 est de 0.08 (valeurs 
+maximale et moyenne du rapport dCplacernent/erreur: 0,9 et 0,3), S 
+= [CW(F,, -~,)'/(m -n)]":: 10.2. La densite Clectronique 
+rCsiduelle est de l'ordre de 0,3 e A-.'. 
+Les coordonnCes et le B Cquivalent' des atomes de carbone et 
+d'oxygkne sont donnCs dans le tableau I. 
+Le spectre de rmn a Ct C enregistrC dans CDCI, 250 MHz sur un 
+appareil Briicker en utilisant le tCtramCthylsilane cornrne rCfCrence 
+interne: 7,3-7,5 (5H, s, H aromatiques), 5.54 (H-I, d, J,-2 = 3,9 
+
+' Les valeurs des six coefficients d'agitation thermique anisotrope 
+
+de chacun de ces atomes et les coordonnCes des atornes d'hydrogene 
+
+ont Ct C dCposCes et peuvent Ctre obtenues i un prix nominal, en 
+
+s'adressant au DCpBt de donnCes non publikes, lCIST, Conseil natio-
+nal de recherches du Canada, Ottawa, Ont., Canada KIA 0S2. 
+
+Can. J. Chem. Downloaded from www.nrcresearchpress.com by 87.160.185.190 on 03/27/14 
+
+For personal use only. 
+
+
+492 
+
+CAN. J . CHEM. 
+
+TABLEAU I . Coordonnkes rkduitcs des atornes dc carbone et 
+d'oxygene. Pararnktre d'agitation therrnique isotrope 
+
+Atorne 
+r 
+. v 
+
+B,,,, 
+
+HZ), 6,07 (H-2, d), 5.44 (H-4, d, J J -s = 1,5 HZ), 4.19 (H-6, dd, JS-6 
+= 9 Hz), massif centrk B 4,07 (H-5 et H-6'). 1.96-2.14 et 2.18 (3s. 
+3 X OCOCH,). 
+
+Resultats et discussion 
+La figure 1 donne la representation de la molCcule, dessinee 
+a I'aide du programme ORTEP (6), et precise le numerotage 
+adopt6 pour les atomes. Les valeurs des distances intera-
+tomiques et Ies angles de valence sont prCsentCes dans les 
+tableaux 2 et 3 respectivement. 
+
+Conformation duns le cristal 
+Le cycle du cornposC CtudiC, 1, adopte la conformation 
+demi-chaise OH5 dans laquelle les atomes C(1), C(2), C(3) et 
+C(4) dkterminent un plan (IT) de part et d'autre duquel se situent 
+les atomes c(5) et O(5) aux distances respectives de 0,32(1) et 
+de 0,44(1) A (fig. 2 et tableau 4). Cette conformation de cycle 
+se retrouve dans les compos6s analogues suivants qui peuvent 
+
+Etre compares a 1: le tri-0-acCtyl-1,4,6-N-acetylacetamido-2-
+didesoxy-2,3-a-D-thrto-hexCno-2-pyrannose 2 (7a), le di-0-
+acetyl-4,6-didesoxy-2,3-a-~-thr&amp;o-hexeno-2-pyrannoside de 
+rntthyle 3 (7b), le (methyl N-acetylamino-2-0-acCtyl-6-tri-
+dCsoxy-2,3,4-P-~-thr&amp;o-hexeno-2-pyrannosidyle-4)-7 theo-
+phylline 4 (7c) et le (O-ac6tyl-4-didCsoxy-2,3-P-~-glyctro-
+pentkno-2-pyrannosyI)-2-dichloro-5,6-benzotriazole 5 (7d). 
+Pour le compose 1, la configuration de l'atome C(1) est telle 
+que le noyau benzenique qui lui est lie se situe de I'autre c6tC 
+
+du plan moyen IT par rapport a C(6): elle correspond donc a 
+
+l'anomkre a qui, du fait de la conformation du cycle Cno-
+pyrannique, impose la position axiale au noyau benzenique. 
+Le plan IT et celui du benzkne sont proches de l'orthogonalitk 
+(81, 7(7)"). Cette valeur est en bon accord avec celle trouvee 
+
+pour les eno-2-pyrannosides 4 et 5 qui sont lies a un h6tCrocycle 
+
+en a de la double liaison (7c, d). L'orientation du noyau 
+
+VOL. 63. 1985 
+
+k c 1 6 
+
+FIG. 1 . ReprCsentation en perspective de la rnolCcule. 
+
+TABLEAU 2. Distances interatorniques 
+
+Liaison 
+
+Distance (A) 
+
+Liaison 
+
+Distance (A) 
+
+aromatique autour de la liaison hCt6rocyclique C( 1)-C(7) 
+(fig. 3) I'amene a s'engager sous le cycle Cno-pyrannique du 
+c6tC oh la coplanCitC de C(l), C(2), H(2), C(3) et C(4) resultant 
+de la pr6sence de la double liaison occasionne une r6pulsion 
+moindre. Ce phknomene est encore plus prononce dans le cas 
+de 5 (7d), car le cycle triazole est moins volumineux qu'un 
+
+noyau aromatique. 
+La conjugaison entre la double liaison cyclique et le groupe 
+ac6tyle port6 par I'atome C(3) devrait assurer la coplaneit6 
+entre ce groupe et le plan IT. I1 n'en est rien, puisque I'angle 
+entre les deux plans est de 74(7)". Une situation analogue se 
+prCsente avec le d6rivC 2 dont I'atome C(2) est porteur d'un 
+groupe N-acCtyl-acetamide. Dans ce cas, ['absence de co-
+plankit6 (angles dikdres de 79,3 et 74,7") se justifie par un 
+encombrement sterique trks important. 
+La configuration de l'atome C(4) met en position axiale le 
+groupe ac6tyle qui lui est 1%. L'CpimCrisation qui Ctait a 
+craiidre pour un acetate allylique e n presence he sel de 
+palladium ne s'est donc pas produite. Le plan de ce groupe 
+acCtyle est quasi-orthogonal au plan IT (85(7)"). L'augmen-
+tation de cette valeur par rapport a celle observ6e pour les 
+derives dCsoxy-3,2 et 3 qui posskdent Cgalement un acktoxy en 
+
+Can. J. Chem. Downloaded from www.nrcresearchpress.com by 87.160.185.190 on 03/27/14 
+
+For personal use only. 
+
+
+Can. J. Chem. Downloaded from www.nrcresearchpress.com by 87.160.185.190 on 03/27/14 
+
+For personal use only. 
+
+
+494 
+
+CAN. J. CHEM. VOL. 63, 1985 
+
+tallogr. Sect. B, 32, 1833 (1976); (b) J. W. KRAJEWSKI, Z. 
+9. C. ALTONA et C. A. G. HAASNOOT. Org. Magn. Reson. 13, 417 
+URBANCZYK-LIPKOWSKA, P. GLUZINSKI, J. BLEIDELIS et A. 
+(1980). 
+KEMME. Acta Crystallogr. Sect. B, 35, 2625 (1979); ( c ) B. 
+10. E. W. GARBISCH, JR. J. Am. Chem. Soc. 86, 5561 (1964). 
+KOJIC-PRODIC. ActaCrystallogr. Sect. B, 35, 1162 (1979); (d) J. 
+I I. H . H . BAER et Z. S. HANNA. Can. J. Chem. 59, 889 (1981). 
+LOPEZ DE LERMA, S. MARTINEZ-CARRERA et S. GARCIA-
+12. E. F. L. J. ANET. Carbohydr. Res. 1, 348 (1966). 
+BLANCO. Acta Crystallogr. Sect. B, 29. 537 (1973). 
+13. K. JANKOWSKI, J. BELANGER, F. SOLER et A. ZAMOJSKI. Org. 
+8. D. AVENEL, J. OHANESSIAN et H. GILLIER-PANDRAUD. Acta 
+Magn. Reson. 12. 544 (1979). 
+Crystallogr. Sect. B, 38. 225 (1982). 
+
+Can. J. Chem. Downloaded from www.nrcresearchpress.com by 87.160.185.190 on 03/27/14 
+
+For personal use only. 
+
+
+
+	
+

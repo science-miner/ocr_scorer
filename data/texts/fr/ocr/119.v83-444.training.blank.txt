@@ -1,0 +1,995 @@
+
+	
+
+		
+
+	
+
+	
+
+Reaction entre solvant et especes intermediaires apparues lors de 
+l'electroreduction-acylation de la fluorenone et de la fluorenone-anil 
+dans l'acetonitrile 
+
+CHANTAL DEGRAND' 
+
+Lnborntoire rle Syrztk2se et rl'Electro.syr~thG.se Orgar1orn6tcrlliq~(es. nssocie' a~r CNRS (LA 33), 
+Foculte' des Scier~ces Gabriel, 21100 Dijorl, Frnrlce 
+
+PAUL-LOUIS COMPAGNON ET F R A N ~O I S E 
+
+GASQUEZ 
+Lnborntoire de Cl~irnie Orgarlique, Fnculte' rle Phnrrnncie, Bd Jerrrzrle &amp;Arc, 21100 Dijorl, France 
+
+Requ le 8 avril 1983 
+
+CHANTAL DEGRAND, GERARD BELOT, PAUL-LOUIS COMPAGNON et F R A N ~O I S E 
+GASQUEZ. Can. J. Chem. 61, 258 1 (1983). 
+Dans I'acCtonitrile, les anions -CH,CN ClectrogCnCrCs provoquent la regression de divers composCs de rCduction-acylation 
+de la fluorknone In et de son anil l b vers In et l b ; cette Cvolution est contr61Ce par I'introduction fortuite d'oxygkne 
+molCculaire. Les anions -CH,CN catalysent alors la transformation de In et l b en fluorknylidkneacttonitrile FIC=CHCN 17, 
+dont dCrrvent les nitriles FIC=CHC(CN)=C(NH2)CH, 8, FIC=C(CN)CHFI 10 et FIC=C(CN)CH,CN 11. Ces rCsultats 
+permettent d'interpreter 1'Cvolution de la nature des produits apparus pendant I'Clectrolyse de la fluorknone dans I'acetonitrile, 
+en prCsence d'un Cquivalent de chlorure ou d'anhydride d'aclde w-chlorC. Apparalssent successivement les dCrivCs de 
+
+riduction-acylation, puis les nitriles FIC(OH)CH2CH2CN 3n, 10, F1C(OH)CH2CN 24 et des polymkres. Grice i sa basicitC, 
+
+le radical-anion de la fluorknone est le promoteur des reactions avec le solvant, I'olCfine 17 Ctant un IntermCdiaire privilCgiC. 
+Le bis-fluorenol, le fluorknol, enfin le fluorkne accompagnent In et les produits ci-dessus. 
+
+CHANTAL DEGRAND, GERARD BELOT, PAUL-LOUIS COMPAGNON, and F R A N ~O I S E 
+GASQUEZ. Can. J. Chem. 61,2581 (1983). 
+The electrogenerated anions -CH2CN induce the conversion of the various reduction-acylation products of fluorenone In 
+and its anil l b in acetonitrile into l a and l b ; this phenomenon is controlled by the fortuitous introduction of molecular oxygen. 
+The -CH2CN anions catalyse the transformation of l a and l b into fluorenylideneacetonitrile (FIC=CHCN) 17, convertible 
+into the nitriles FIC=CHC(CN)=C(NH2)CH3 8, FIC=C(CN)CHFI 10, and FlC=C(CN)CH,CN 11. These observations 
+allow us to interpret the formation of the products appearing during the electrolysis of fluorenone in acetonitrile in the presence 
+of an equivalent of chloride or anhydride of w-chloro acid. The products of reduction-acylation appear successively, followed 
+by the nitriles, FIC(OH)CH,CH,CN 30, 10, FIC(OH)CH,CN 24, and polymers. Because of its basicity the fluorenone radical 
+anion promotes reactions with the solvent, olefin 17 being a preferred intermediate. Bis-fluorenol, fluorenol, and finally 
+fluorene are found with l a and the above products. 
+[Journal translation] 
+
+Introduction 
+Au cours d'Clectrortductions effectuees dans l'acttonitrile, 
+divers exernples de cyanomCthylation ont Ct C signalts (I-11). 
+L'aciditt de ce solvant est telle que de nombreuses formes 
+reduites (dianions, rnonoanions, voire rn&amp;me radicaux-anions) 
+sont suffisarnrnent basiques pour le dkprotoner. Les anions 
+-CH2CN ainsi formCs rkagissent avec diverses espkces prC-
+sentes au sein du catholyte pour livrer une grande varied de 
+nitriles. 
+Nous avons pour notre part (12) observt que la riduction 
+acylante de la fluorknone l a et de sa base de Schiff l b dans 
+l'acitonitrile en prCsence du chlorure d'acide 2a conduit, entre 
+autres, la formation de produits mineurs inattendus, les pro-
+pionitriles 3a et 3b. En cours d'Clectrolyse, nous avions obser-
+vC une Cvolution des forrnes rtduites acylees 4a, b et Sa, b de 
+la fluorknone; la nature de cette Cvolution n'avait pas Ct C Cta-
+blie, celle-ci fait l'objet de ce travail. 
+Dans la partie A, nous ttudions le cornportement des compo-
+sCs 4a-c, Sb, 6a, b , 7a, b vis-a-vis des anions -CH,CN Clec-
+trogtntrts par reduction de l'azobenzkne en son dianion au sein 
+de l'acttonitrile (2, 6, 13). Ces composCs sont obtenus par 
+ClectrorCduction-acylation de la fluorknone l a ou de son anil 
+
+' ~u t e u r 
+
+i qui adresser la correspondance. 
+
+11 
+
+RCOX 
+
+z 
+
+l a : Z = 0 
+20: R = (CH2),CI, X = Cl 
+l b : Z = NPh 
+2b: R = (CH,),CI, X = OCO(CH,),Cl 
+2: R = CH3 
+, X = OCOCH, 
+
+30: ZH = OH 
+4a: R = cycloPr 
+3b: ZH = NHPh 
+4b: R = (CH,),CI 
+4c: R = CH3 
+
+OCOR 
+
+/ 
+
+FlCHNPh 
+
+I 
+
+RC=O 
+
+Can. J. Chem. Downloaded from www.nrcresearchpress.com by 87.160.185.190 on 03/27/14 
+
+For personal use only. 
+
+
+CAN. I. CHEM. VOL. 61. 1983 
+
+TABLEAU I. Rendernents en produits isolts aprks addition de C H z C N (2 equivalents) aux 
+
+differents substrats 
+
+Rendernents en nitriles (%) 
+Conc. 
+Rendernents en 
+ExpCrience 
+Substrat (rnM) 
+8 
+9n 
+10 
+11 
+cornposCs divers (%) 
+
+40 
+1 ,o 
+30 
+4b 
+0.85 
+25,5 
+4c 
+
+1 ,o 
+
+59 
+5b 
+1 ,o 
+7 
+60 
+0,7 
+52 
+6b 
+1,7 
+26 
+7n 
+0.5 
+Traces 
+76 
+1,6 
+Traces 
+17 
+1 ,o 
+43 
+
+48 
+45 
+In (traces) 
+35 
+1b (10) 
+30 
+l b (6), FlCHNHPh (3) 
+7n" 
+76 (50) 
+23 
+
+"Produit principal, rendement non calculi 
+
+l b , les agents acylants Ctant le chlorure et l'anhydride d'acide 
+TABLEAU 2. Valeur~ des PKJ dans le INbISO de divers cornposes a H 
+w-chlore 2a et 2b (12) et l'anhydride acCtique 2c. 
+
+mobile 
+
+Dans la partie B, nous examinerons en detail l'tlectroreduc-
+tion de la fluorenone conduite dans l'acttonitrile, en presence 
+
+CH ICN 
+FlCHz 
+FICHOH 
+FICHOCH, 
+
+d'un equivalent d'agent acylant 2a ou 26. L'Cvolution de la 
+
+p ~, 
+31.3" 
+22,6" 
+16' 
+16' 
+
+nature des produits en fonction du degrC d'avancement de 
+l'tlectrolyse est interpretee compte ten" des resultats de la 
+premiere partie. 
+
+Resultats et discussion 
+A. Stabilitt? des formes re'duites acyle'es de 1afluorPnoize ou de 
+sa base de Schiff vis-a-vis d'anions -CH?CN e'lectroge'ne're's 
+L'addition de deux equivalents de -CH,CN aux diverses 
+formes rCduites acylCes ttudiCes conduit a l'obtention des ni-
+triles 8 , 9 a , 10 et 11. Les rendements obtenus apres purification 
+par chromatographie sont indiquts dans le Tableau 1 (expe-
+riences 1 a 8). 
+
+Les rtsultats des experiences 1 a 8 du Tableau 1 conduisent 
+aux conclusions suivantes. 
+(i) Dans la moitie des experiences, la fluorknone ou sa base 
+de Schiff est isolee en faible quantite. 
+(ii) Dans toutes les experiences, on obtient le diknaminoni-
+trile 8. Nous avons montrt recemment (14) que l'attaque par 
+-CH,CN de la fluorenone et de ses bases de Schiff conduit 
+
+egalement a 8, a l'abri de l'air. En presence de traces d'oxy-
+
+gkne, la formation de 8 est en competition avec celle de 11 
+(15). 
+(iii) L'attaque par -CH,CN des formes reduites N-acylees 7a 
+et 70 est lente puisque le substrat est en grande partie recupere 
+aprks les temps de contact choisis (experiences 7 et 8). 
+(iv) L'Cnaminonitrile cyclopropyle 9a est isolt dans toutes 
+
+" Voir rif. 3 1 . 
+
+" Voir rif. 32. 
+
+' Voir rif. 33. 
+"Voir ref. 34. 
+"Voir ref. 35. 
+
+les experiences ou le substrat possede un reste cyclopropyle 
+preexistant ou potentiel (CO(CH,),Cl) sauf dans l'experience 7 
+pour la raison prtcedente. 
+(v) A partir des derives de la fluorknone, on obtient le produit 
+de couplage 10 (16a), exception faite de l'exptrience 3 ou, en 
+revanche, le rendement en 8 est ClevC. 
+La formation de fluorenone ou de son anil se con~oit comme 
+resultat de l'action conjointe des anions -CH,CN ClectrogtnC-
+rCs dans un premier temps et de traces d'oxygene qui peuvent 
+s'introduire de f a ~o n altatoire dans la seconde phasq non-
+Clectrochimique. 
+Le tableau 2 rassemble les pK, dans le DMSO de quelques 
+molCcules afin de montrer que -CH,CN peut gCnCrer leurs 
+anions et provoquer les rearrangements evoquts ci-dessous. Le 
+DMSO est retenu comme solvant de reference pour son carac-
+tere dipolaire non-hydroxyle ("aprotique") qui est celui de 
+MeCN. 
+Esters de flf7uorenol 4a-c 
+11s doivent se cliver en premier lieu selon [I]. 
+L'alcoolate libtre se rearrange spontanement en carbanion 
+12 (17). Ce carbanion est trks sensible aux traces d'oxygkne 
+puisque par voltametrie cyclique dans le DMF, on observe son 
+potentiel de pic d'oxydation E, , a -1,21 V/ECS (17) tandis 
+que l'oxygene se rtduit vers -0,7 V. La fluorenone est regink-
+rCe dans le milieu basique selon le processus catalytique 
+[3]-[6]: la formation de la fluorknone provient de la rupture du 
+bis-fluorenol intermtdiaire par une base B-telle que l'anion 12 
+(21). L'ion superoxyde constitue eventuellement une autre 
+base; il Cvolue probablement vers la formation d'eau oxygtnee. 
+L'enol de la reaction [l] conduit l'anion correspondant 13 
+selon [7]. 
+Can. J. Chem. Downloaded from www.nrcresearchpress.com by 87.160.185.190 on 03/27/14 
+
+For personal use only. 
+
+
+DEGRAND ET AL 
+
+[61 FlCHOH + CH~CN + F~COH + CH3CN 
+
+12 
+
+Dkrivk diacylk 5b 
+I1 conduit aussi a la fluorenone puisque le dCrivC acylC 4b se 
+forrne interrnkdiairernent. 
+
+Dkrivb C-ncylks 6a, b 
+Apres liberation de l'anion 15, un processus d'oxydation par 
+
+Oz conduit a la base de Schiff l b selon [ I I]-[13]. Le mica-
+
+nisrne proposC tient cornpte des observations suivantes. 
+
+L'anion 15 est facilernent oxydable par I'oxygene [ l 11 puis-
+
+qu'on observe son oxydation a E, , = -0,93 V/ECS par volta-
+rnCtrie cyclique dans le DMF (18). Les bases fortes B-dCpro-
+
+tonent le radical apparu (18). Le radical-anion de la base de 
+Schiff s'oxyde, lui aussi tres facilernent, a -1,4 V (12); en 
+consequence, il rCduit instantanernent les traces d'oxygene. On 
+peut Cgalernent envisage? que le radical apparu dans [ l l ] se 
+dirnCrise selon [13] avant de livrer la base de Schiff l b . 
+
+I I 
+
+PhHN NHPh 
+
+FlC-CFl 
+
++ l b + 15 
+I I 
+
+-NPh NHPh 
+
+De'rive's N-acylks 7a, b 
+La diprotonation de 7a, b est certainernent plus rapide que 
+l'addition nuclCophile au carbonyle de 6a, b. On observe ce-
+pendant que l'anion 16 ainsi form6 [14] Cvolue difficilernent: le 
+produit principal est le produit initial. L'anion 16 est plus stable 
+
+et moins facilernent oxydable que l'anion 15; ceci justifie la 
+lenteur d'evolution des cornposCs 7a, b. 
+
+14 
+'Suggestion de l'un des examinateurs. 
+
+Can. J. Chem. Downloaded from www.nrcresearchpress.com by 87.160.185.190 on 03/27/14 
+
+For personal use only. 
+
+
+2584 
+
+CAN. J. CHEM. VOL. 61. 1983 
+
+-
+1 ,?H2;N -L 
+
+2 1 
+
+B a 
+
+FlC=CHCN 
+
+17 
+
+(2) (1) +H20 Tautornerie 
+
+?? (1) +ZH-
+
+/ /NH2 
+
+P-add. FlC-CHCN -FIC-CHCN (2) +CH3cN ' FICECH-C=C 
+
+19 
+22 
+(3) +H20 
+
+CN 1 \ C H ~ 
+
+Les anions 13, issus des p-cetonitriles RCOCH2CN, se com-
+portent comme de bons nuclCophiles. Leur condensation avec 
+1'acCtonitrile-solvant conduit aux enaminonitriles 9a-c. Que 
+
+nitriles derivent bien de 17. Le dinitrile 11 rCsulte de l'oxyda-
+tion de l'anion 18 par l'oxygkne moleculaire (15). Le potentiel 
+d'oxydation de 18 n'est pas connu, mais il est voisin de celui 
+
+des anions fluorknyles FlCH-, E, = -0,67 V/ECS dans le 
+
+DMF (19) et F I ~C H , , 
+Eo = -0,78 V/ECS dans le DMF (17). 
+Le dikneaminonitrile 8 provient de I'olCfine 20 et/ou du dCrivC 
+cyclopropylC 22 (14), dont l'ouverture rCsulte de l'attaque de 
+bases telles HO-, PhNH-(ZH-accompagne la formation de 
+17). L'attaque du dCrivC cyclopropyle 22 par les bases HO-et 
+PhNH-permet Cgalement d'accCder aux propionitriles 3a, b 
+[17] qui sont apparus lors de 1'ClectrorCduction-acylation de la 
+fluorknone (1 2). 
+
++-CH2CN 
+[I61 
+FlC=Z 
+
+-FlC=CHCN 3. ZH-
+
+l a : Z = 0 
+
+17 
+
+l b : Z = NPh 
+
+l'on parte de 4a, 6a, ou de 4b, 5b, seul9a est isolC; dans le cas 
+de 4b, 5b, la basicit6 du milieu induit la cyclisation de 9b en 
+9a. En revanche, l'homologue mCthylC 9c n'a pu Etre isole a 
+partir de 4c, 6b, et 7c. L'Ctude spectroscopique de 9a montre 
+un Cquilibre tautomkre entre les formes knamine et imine. 
+
+La fluorenone l a et son anil l b rCgCnCrCs a partir des divers 
+substrats sont eux-mCmes sensibles ? 
+I l'attaque nuclCophile des 
+anions -CH2CN (14): il en resulte un nitrile a,P-CthylCnique 17 
+trks Clectrophile [16]. En quelques Ctapes (Schema l), on ac-
+ckde aux nitriles 8 et 11 8 partir du promoteur 17 (14, 15). Les 
+rCsultats de llexpCrience 9 (Tableau 1) confirment que ces deux 
+
+L'attaque nuclCophile du nitrile a,P-Cthylenique 17 par les 
+anions -CH,CN implique une rCgiosk%ectivitC particulikre. 
+
+L'attaque du C-P conduirait 2 un produit classique d'addition-
+
+1,4, avec formation de l'anion intermediaire 19. La protonation 
+de 19 par le solvant ou lors du traitement final par l'eau livrerait 
+le dinitrile F1C(CH2CN), que nous n'avons pas isolC. Des ni-
+triles analogues, les glutaronitriles PhRC(CH2CN)2 ont Ct C ob-
+tenus par ClectrorCduction de PhCOR et d'olCfines activCes 
+PhRC=CHCN dans l'acetonitrile; seule intervient alors la 
+P-addition d'anions -CH,CN ClectrogCnCrCs (1, 2, 6, 9-11). 
+Dans notre cas, l'attaque du C-a livre l'anion fluorknyle 18 
+beaucoup plus stable. L'anion 19 est donc peu cornpetitif vis-
+8-vis de 18; s'il apparait, il s'isomCrise plut8t en anion 18. 
+L'attaque du C-a du nitrile 17 est aussi sensible a d'autres 
+
+nuclCophiles tels les anions 14 F~COCOR issus de 5b [8] ou de 
+
+4a-c. On obtient alors un anion trks dClocalisC 23 dont le 
+traitement final par l'eau livre le nitrile 10. Le pK, dans le 
+
+DMSO du fluorknylidknemethyl-9 fluorkne est CvaluC 2 14,2 
+
+Can. J. Chem. Downloaded from www.nrcresearchpress.com by 87.160.185.190 on 03/27/14 
+
+For personal use only. 
+
+
+DEGRAND ET AL 
+
+TABLEAU 3. Potentiel de demi-vague Ell? ou de pic E,, de formes rkduites acylkes de I n et de l b et des nitriles 
+insaturks 8, 10, 11 et 17 
+
+Substrats 
+Nitriles insaturCs 
+
+Solvant 
+
+40 
+4b 
+50 
+
+6a 
+
+8 
+10 
+11 
+
+17 
+
+MeCN 
+-2,30 
+-2.30 
+-2,12 
+-1,86* -1,42* -1,22* -1,35* 
+
+E l / ? OU E,'* 
+DMF 
+-2,21 
+-2.06 
+-2,25 
+-1,90 
+-1,18 
+
+(V) 
+
+(16b), celui de 10 est inferieur a 14 grice it l'effet -I du groupe 
+
+partir de 4c, B -2,2 V dans I'acttonitrile conduit a un mtlange 
+
+cyano. 
+de fluorene, de fluorenone l a et d'alcool 24 en proportions 
+relatives de 24, 40 et 36%. Ce dernier apparait Cgalement lors 
+B a 
+
+[ I ~I F~C=CHCN + FIG-OCOR 
+
+de la rtduction de l a (voir partie B). Les nitriles insaturts 
+
+FIC 
+/OH 
+'CH~CN 
+
+24 
+
+FIc-C-CFI 
+
+e FICHC-CFI 
+
+I I 
+
+I I 
+
+8, 10, 11 et 17 sont plus faciles a reduire. Le premier stade de 
+
+CN OCOR 
+NC OCOR 
+rtduction correspond a la fixation d'un tlectron. La voltamttrie 
+cyclique indique que les radicaux-anions obtenus ont des stabi-
+
+23 
+
+litts difftrentes: le plus stable est issu de 10. Dans ce cas, le 
+catholyte devient bleu intense; de plus cette coloration persiste 
+FICH-C-CFI 
+
+-RCOO-, FI~-C=CF~ 
+
+malgrt un barbotage d'oxygene. Nous suggtrons que le 
+
+I I 
+
+&gt; I radical-anion conduit deux especes tres stables: l'anion dtlo-
+
+CN OCOR 
+CN 
+calist bleu 23 et le radical encombrt 25. Le mkcanisme [19] 
+
+23 
+
+fera l'objet d'une ttude ulttrieure. 
++H20 
+FIC=C-CFI 
+
+-FIC=C-CHFI 
+
+I 
+I 
++ e 
+
+CN 
+
+[191 FI~=C(CN)CHFI * 10.-
+
+CN 
+
+10 
+10 
+
+Une grande dispersion caracterise les rendements exposts au 
+tableau 1. Le taux de rtcuptration du noyau fluorene varie de 
+44 66% (en moyenne 55%) car la formation de polymkres est 
+
+Une ~lectror~duction prtparative de 17 conduit a une solu-
+
+frtquente. En ce qui concerne l'acyl-enaminonitrile 9a, son 
+tion vert bronze. Aprks passage de 1 F, on note a c6tt d'oltfine 
+instabilitt lors de l'hydrolyse est sans doute cause des varia-
+rtsiduelle 17, la 
+principale de polymkres, 
+tions de rendement observtes. Par ailleurs, si la formation d'un 
+compost depend de la concentration altatoire en oxygene mo-
+leculaire rtsiduel, il faut s'attendre 2 des fluctuations de son 
+rendement. Ainsi le nitrile 11, resultat du processus oxydatif de 
+
+l'anion 18 (Schtma l), a un rendement variant de 0 B 30% selon 
+
+l'tlectrolyse. Si ce processus est limitt, la formation de 8 est 
+favoriste. Enfin, les nitriles 8 et 10 sont en compttition a partir 
+de l'oltfine 17 (Schtma 1 et [18]). Dans le meilleur cas, 10 
+atteint un rendement de 45% au lieu des 1 a 5% de la rtftrence 
+16a; la mtthode tlectrochimique constitue donc une bonne voie 
+d'acces j. cette moltcule. 
+Pour aborder la deuxieme ~a r t i e de notre ttude. il est ntces-
+saire de determiner les proprittts tlectrortductrices (potentiel 
+
+de demi-vague E,lz sur tlectrode a gouttes de mercure ou poten-
+
+tie1 de pic E, sur electrode stationnaire de carbone vitreux) de 
+quelques derives acylCs des types 4 , 5 et 6 et des divers nitriles 
+
+insaturts prtparts. Ces donntes sont rassembltes dans le ta-
+bleau 3. La rtduction de tous les dtrivts acylts survient au-dela 
+de -2 V. Elle provoque la rupture des ~o ~~o s t s 
+4a, c libtrant 
+l'anion fluorenyle FlCH-rouge intense qui, apres traitement, 
+
+livre du fluorene et de la fluorenone. L'anion F~CH est, en 
+
+effet, trks sensible aux traces d'oxygene, et donne de la fluore-
+none (20). Par exemple, une tlectrortduction preparative ? i 
+
+B. Electrorkduction acylante de la jluort?none duns l'ackto-
+nitrile like a la presence d'un kqiiivalent de chlorure ou 
+d'anhydride d'acide 2 a OK 2 b 
+Une strie d'tlectrolyses preparatives sur nappe de mercure a 
+t t t effectute a des potentiels contr6lts E, qui correspondent 21 
+la formation initiale du radical-anion de la fluorenone (E, = 
+
+-1,35 + 0,15 V); un tquivalent de 2a ou 2b est initialement 
+
+prtsent. Ces expCriences sont resumtes dans le Tableau 4 (tlec-
+trolyses 1-4). Elles correspondent ? I divers degrts d'avance-
+ment de l'tlectrolyse, le nombre n de faradays consommts 
+
+variant de 1,7 i 3,2. Les rendements indiquts sont calcults 
+
+apres purification par chromatographie sur colonne. 
+Le degrt d'avancement de l'tlectrolyse se traduit par une 
+tvolution de la couleur du catholyte, ce qui permet de distin-
+guer six Ctapes successives. Le Tableau 5 rassemble ces don-
+
+ntes ainsi que la nature des produits identifits a chaque ttape 
+
+par chromatographie en couche mince. Ces deux tableaux rtvk-
+lent la complexitt des reactions qui se produisent au sein du 
+catholyte. Cette complexitt se retrouve dans l'tvolution du 
+courant faradai'que prtsentee par la Fig. 1. Aprks une dCcrois-
+sance normale, on note deux reprises successives de l'tlectro-
+lyse quand n = 1,6 F et n = 2,4 F. 
+Can. J. Chem. Downloaded from www.nrcresearchpress.com by 87.160.185.190 on 03/27/14 
+
+For personal use only. 
+
+
+2586 
+
+CAN. J. CHEM. VOL. 61. 1983 
+
+TABLEAU 4. Electroreduction preparative de l a en presence (Clectrolyses 1-4) ou en l'absence (Clectrolyse 5) d'un equivalent de 2a ou 26. 
+
+Influence du nombre n de F consommCs sur la nature et les rendements des produits isolks 
+
+Rendements (%) 
+
+Derives acyles 
+Dtrivts nitriles 
+l a 
+Agent 
+Electrolyse 
+(mM) 
+acylant 
+
+n 
+
+Etape" Fluorhone Fluorenol 
+Fluorene 
+4n 46 5a 
+56 
+3a 
+10 
+17 
+24 
+
+"L'etape est difinie en fonction de 11 et de la couleur du catholyte dans le Tableau 5. 
+
+" Voir la reference 12. 
+
+' Des substances polymeriques non identifites sont egalement isolees. 
+
+l'exces originel d'agent acylant autorise a partir de l'anion 14, 
+la formation du diacylC 5c. La rapidit6 des acylations cause la 
+disparition immCdiate du radical-anion 26 rouge et de l'anion 
+14. Le catholyte reste jaune m2me au voisinage immCdiat de la 
+nappe de mercure. Le dCrivC diacylC 5c disparait des cette Ctape 
+en dktruisant 26. La chromatographie sur couche mince (Ta-
+
+bleau 5) revkle dCja 56, B cat6 du bisfluorenol, de l'ester 46 et 
+
+du fluorknol qui proviennent du traitement par l'eau des anions 
+14 et 12 respectivement. 
+
+FIG. 1. Electroreduction preparative h -1,4 V de l a en presence 
+d'un equivalent de 20. Les conditions sont celles du Tableau 5. Influ-
+ence du nombre n de F consommts sur I'intensitt du courant 
+faradaique. Les nombres romains indiquent les ttapes successives 
+dCfinies dans le Tableau 5, h partir de la couleur du catholyte. 
+
+Les Clectrolyses conduisent aux remarques suivantes. 
+(i) La prksence de fluorenone est constante. Son taux oscille 
+autour de 20% de fagon alCatoire: lorsque 1'Clectrolyse pro-
+gresse, il peut augmenter ou diminuer. 
+(ii) L'Cvolution de 1'Clectrolyse ne semble pas corrClCe a la 
+nature de l'agent acylant. L'utilisation du chlorure d'acide 2a 
+favorise cependant la formation des formes rkduites diacylkes 
+aux dCpens des formes monoacylCes. 
+(iii) Le bis-fluorknol et le fluorknol se forment des l'origine, 
+mais le premier disparait plus prCcocement que le second. 
+(iv) Le fluorkne apparait tardivement avec 1'Ctape V. 
+(v) Les dCrivCs acylCs disparaissent en fin d'Clectrolyse. 
+(vi) Les Ctapes finales se caractkrisent surtout par l'appari-
+tion des nitriles 3a, 10 et 24. 
+Etape I 
+Elle correspond la rCduction acylante de la fluorenone; 
+
+Etape I1 
+Avec la progression de l'Clectrolyse, les concentrations rela-
+tives de 2a, b diminuent: le radical-anion 26 rCagit avec le 
+derivC diacylC 5c dont la cyclisation progresse de 56 vers 5a. 
+La coloration rouge du catholyte au voisinage de la nappe de 
+mercure montre l'accumulation du radical-anion 26. En cons6 
+quence, la cyclisation 56 + 5a, sous l'influence de 26, est 
+relativement lente. 
+Etape Ill 
+Elle s'acheve avec la rkduction totale de la fluorenone et la 
+formation des esters 4b, 5a, 6 , d: fluorknol et de bis-fluorenol. 
+Le courant farada'ique devient nkgligeable et le catholyte 
+incolore. 
+Etape IV 
+Elle correspond a la reprise du courant faradai'que et a une 
+nouvelle coloration en rouge du catholyte; des radicaux anions 
+26 reapparaissent tandis que le bis-fluorenol disparait. Les es-
+ters 4b et 5a, b n'Ctant pas rkductibles au potentiel utilisk 
+
+(Tableau 3), la formation de radicaux-anions 26 est like B la 
+
+rkapparition de fluorhone au sein du catholyte. La rCgentra-
+Can. J. Chem. Downloaded from www.nrcresearchpress.com by 87.160.185.190 on 03/27/14 
+
+For personal use only. 
+
+
+DEGRAND ET AL. 
+
+tion de la cttone est provoqute par la prtsence de bases telles 
+
+que F~COH qui catalysent la transformation du bis-fluorknol en 
+
+fluorknone (21) (voir partie A, [4] a [6]). 
+Les radicaux-anions 26 a nouveau apparus sont suffisam-
+ment basiques pour deprotoner le solvant. Ceci est dtmontrt 
+par l'tlectrolyse 5 du tableau 4, effectute sans agent acylant. 
+Les rtsultats de cette tlectrolyse annexe sont inttressants car, 
+nous le verrons, ils entrent en ligne de compte dans I'interprB 
+tation du cours de cette ttape et des suivantes. L'electrolyse 5 
+montre une intervention des anions -CH2CN puisqu'elle 
+conduit a la formation des nitriles 17 et 24 selon [22] a [26]. La 
+transformation de la fluorknone en oltfine 17 est un processus 
+catalytique (stquence [23]-[25]) en raison de la basicitt de 
+I'ion HO-dans l'acttonitrile (cf. les pK, du tableau 2). 
+
+[251 HO-+ CHjCN ;--+ HOH + C H ~C N 
+
+Compte tenu des rtsultats de cette tlectrolyse, on c o n ~o i t 
+que dans l'ttape IV, les radicaux anions 26 a nouveau apparus, 
+livrent l'oltfine 17 selon [22] a [24]. Dans cette ttape, la 
+formation de polymkres est induite partir de 17 selon [27] et 
+celle du nitrile 3a s'effectue probablement selon [28] (cf. partie 
+A, Schtma 1 et [17]). La consommation continuelle et rapide 
+de la fluorknone provoque la chute du courant faradai'que. 
+
+SCHEMA 1 
+
+[28] 
+
+FICzCHCN -FIC-CHCN 
+
+17 
+
+\ / 
+
+/ 
+
+CH2 
+
+hydrolyse 
+
+FIC(OH)CH~CHCN ( 
+-
+
+30) 
+
+Etape V 
+Elle dtbute quant 5b est totalement cyclist en 5a. Les bases 
+fortes prtsentes (FlC-0-, HO-, -CH2CN) entrainent la cycli-
+sation de 4b en 4a. L'oltfine activte 17 formte dks l'ttape IV 
+constitue toujours un pikge pour d'tventuels radicaux F ~~O H , 
+d'ob l'apparition de polymkres [27]. Par ailleurs, 17 est elle-
+mCme rtductible en polymkres au potentiel appliqut (Tableau 
+
+3). 
+
+Can. J. Chem. Downloaded from www.nrcresearchpress.com by 87.160.185.190 on 03/27/14 
+
+For personal use only. 
+
+
+2588 
+
+CAN. J. CHEM. VOL. 61. 1983 
+
+Le nitrile 24 se forme, lors de l'extraction, selon [23] et [26]. 
+Le nitrile insature 10 FlC=C(CN)CHFI derive de 17 a la suite 
+de deux types d'addition. Nous avons montrk dans la partie A , 
+que ['addition a 17 des anions 14 issus du derive monoacyle 40, 
+conduit B 10 [18]; on note en consequence une disparition 
+progressive d e 40. L'anion du fluorenol FICOH peut lui aussi 
+se condenser avec 17 [29] entrainant la disparition du fluoreno1 
+B cette Ctape. La presence de l'anion 23 issu d e 10 provoque la 
+
+coloration bleu fonce du catholyte. Du f l u o r h e est identifie 
+
+dont l'origine est discutee ci-dessous. 
+
+Etape VI 
+
+Elle est caracterisee par la reprise d'un courant farada'ique de 
+faible intensite, suggerant la reapparition de traces d e fluore-
+none. La couleur violette du catholyte resulte du melange 
+
+d'anions bleus 23 du nitrile 10 et du radical-anion 26 d e la 
+
+fluorknone. Du fluorene et de la fluorenone sont encore identi-
+
+fits dans cette etape. Enfin, le derive diacyle 5a disparait a son 
+tour. Dans la partie A, nous avons montre que la presence d e 
+traces d'oxygene est favorable B une decomposition de 4a, b et 
+50, b en fluorknone; nous avons aussi rappele que l'anion 
+fluorenyle livre de la fluorknone en presence de O2 (20). 
+
+Les bases fortes presentes (HO-et -CH2CN) provoquent 
+
+Cgalement la rupture de 5a selon [30] et [31]. L'anion 140 
+libere est pikg6 par 17, donnant I'anion bleu 23 [18]. Le 
+
++ COO-+ HOH 
+
+fluorene, d e j i trouvt ?i 1'Ctape V, est le stade final de reduction 
+de l a . Plusieurs composes form&amp; pendant I'electrolyse se re-
+duisent en fluorkne, mais au-deli de -2 V: le fluorenol et ses 
+ethers se rornpent entre C et 0 (17, 22-24); de m&amp;me,.les esters 
+4a, b se reduisent avec coupure i i -2,3 V (Tableau 3). Le 
+
+bis-fluorknol dont le stade final de reduction est aussi le fluo-
+rkne, est reduit dans une premiere Ctape en fluorenol (refs. 17 
+
+et 22). Ici, le potentiel d'Clectrolyse ne depasse pas -1,5 V . La 
+
+reduction d'un intermediaire instable non identifie peut con-
+duire au fluorkne; mais nous Cmettons Cgalement I'hypothkse 
+suivante, en raison de la nature hyperbasique du catholyte (25). 
+Le pouvoir reducteur des electrons serait exalte par le milieu 
+
+hyperbasique, i l'image de I'accroissernent considerable du 
+
+pouvoir reducteur de HNa par les alcoolates RONa (26) decou-
+verts par Caubere et coll. Selon Bordwell et Clernens (27), plus 
+un carbanion est basique, plus grande est la probabilite qu'il 
+
+reagisse selon un processus de transfert (mono) Clectronique 
+plut6t que par un processus SN2. Cet accroissement du pouvoir 
+de transfert expliquerait la reduction finale en fluorene. 
+
+Conclusion 
+
+Nos resultats montrent que 1'evolution de I'electro-
+reduction-acylation de la fluorenone est orientee par la reac-
+tion du solvant, l'acetonitrile, avec les interrnediaires apparus, 
+en particulier le radical-anion de la fluorenone. 
+
+Partie experimentale 
+
+Un potentiostat Amel-552 et un intkgratcur Tacussel 1G5-N sont 
+utilises pour I'elcctrosynthese; une unite Tacussel UAP 4 et un gene-
+rateur de fonctions Tacussel GST pour les exptriences en voltarnktrie. 
+Les voltarnograrnrnes sont enregistrts sur un appareil lfelec 2025 
+CX-Y. Les spcctres de rrnn ' H sont tracks sur un spectrornetre 
+Perkin-Elmer R-24, les spectres de rnasse sur un spectrornttre 
+Finnigan 3003 (introduction directe; 70 cV), les spectres ir sur un 
+spectrornttre Beckrnan 1R-8. Les points de fusion sont dCterrninCs sur 
+un banc de Koflcr. Les ctirornatographics sur colonne sont conduites 
+sur gel de silice Kieselgel 70, 70-230 mesh, Merck 7734 et celles en 
+couche mince sur plaques de Kieselgcl 60F 254 Merck 5554 (eluant: 
+acktone/hexane 3 : 7). 
+Les solvants (MeCN et DMF) de pudete analytique sont soigneuse-
+rnent sdchks sur tarnis rnoleculaire 4 A, puis sur alurnine neutre. 
+Tous les potentiels indiquCs se referent h I'Clectrode au calomel 
+saturC (ECS). 
+L'Clectrosynthese des dtrives acyles 40, 40, 50, 50, 60 et 7a est 
+deja dtcrite (12). L'tlectrorCduction de la fluortnonc dans I'aci-
+tonitrile en presence d'un equivalent d'anhydride acktique, a perrnis 
+I'obtention de 4c. Les composes 60 et 7b sont obtenus Clectro-
+chirniquernent h partir de I'anil lb. Ils sont identiques h ceux dkcrits 
+dans la littkrature: 4c (28), 60 (29) et 7b (30). 
+Les anions -CH2CN (2 equivalents) sont ClectrogCntrts par reduc-
+tion de I'azobenzkne dans l'acetonitrile selon la procCdure dtcrite dans 
+la reference 14. L'tlectrortduction de la fluorenone en prCsence d'un 
+Cquivalent de 2a ou 2b est effectute selon la rnkthode B de la rtftrence 
+12. 
+Les nitriles sont separes par chrornatographie dans l'ordre d'Clution 
+suivant: 10 (16b), 11 (15), 90 et 8 (14). 
+
+Atnino-3 cyor~o-2 cyclopropyl-1 b~ltkrle-2 one-1 9a 
+Cristaux beiges, F = 141°C (Cther diethylique -hexane); ir (KBr) 
+crn-I, V N ~, ~ 
+et v,,: 3320 (Cpaulernents a 3400, 3300, 3250) et 3140, 
+VC-C-C~N: 2230, vc=c-c=o: 1700, VC=C ou VC=N: 1645, 1530, 
+1400, 1320, 1200, 940; rrnn 'H (CDCI,, refkrence interne TMS) 6 
+pprn: 0,7-1,2 (rn, 4H, cyclopropyle), 1,3-1,7 (rn, IH, cyclopro-
+pyle), 2,20 (s, 3H, CH,), 6,40 (s, IH, H-C-2), 7,85 (large s, IH, 
+NH); spectre de rnasse mle (intensite relative %): 151 (1 I), 150 (M'+, 
+100). 149 (4). 122 (M -1 -HCN, 12), 82 (16), 70 (15). En raison 
+de son instabilitk, I'analyse centtsirnale de 9a n'a pu Ctre effectute. 
+
+Fluorenyl-9 fluorenylidene-9' acetonitrile 10 
+Aiguilles jaunes, solution bleue dans I'acCtone, F = 264-267°C 
+(heptane) (litt. (16b) F = 218°C); ir (KBr) crn-', VC=,-,,N: 
+2200, 
+1440; rrnn 'H (CDCll) 6 pprn: 6,O (s, IH), 7,15-7,95 (rn, 14H), 
+8,lO-8.35 (rn, IH), 8,35-8.70 (rn, IH); spectre de rnasse mle (in-
+tensitt relative %): 368 (13), 367 (M +, 37), 340 (M -HCN, 16), 339 
+
+(M -1 -HCN, 22), 201 (18), 176 (13), 175 (19). 166 (14), 165 
+
+(100, cation fluortnyliurn), 164 (41), 163 (35), 139 (14). Anal. calc. 
+pourCHN:C91,52,H4,66, N3,81; trouvC:C90,6, H5,30,N3,86. 
+
+1. E. M. ABBOT, A. J. BELLAMY et J. B. KERR. Chern. Ind. 
+(London) 828 (1974). 
+2. A. J. BELLAMY. J. Chern. Soc. Chern. Cornrnun. 944 (1975). 
+3. Y. TAKAHASHI, M. TOKUDA, M. ITOH et A. S U S U K ~. 
+Chern. Lett. 
+523 (1975). 
+4. B. F. BECKER et H. P. FRITZ. Justus Liebigs Ann. Chern. 1015 
+( 1976). 
+
+Can. J. Chem. Downloaded from www.nrcresearchpress.com by 87.160.185.190 on 03/27/14 
+
+For personal use only. 
+
+
+DEGRAND ET AL. 
+
+2589 
+
+5. W. J. M. VAN TILBORG, C. J. S M I T ~~ 
+J. J. SCHEELE. Tetrahedron 
+Lett. 21 13 (1977). 
+6. A. J. BELLAMY, G. HOWAT et I. S. MAC KIRDY. J. Chern. Soc. 
+Perkin Trans. 2, 786 (1978). 
+7. G. C. BAR RE^ et T. J. G R A ~A N . 
+Tetrahedron Lett. 4237 
+(1979). 
+8. L. KISTENBRUGGER, P. MISCHKE, J. VOSS et G. WIEGAND. Justus 
+Liebigs Ann. Chern. 461 (1980). 
+9. A. J. BELLAMY et I. S. MAC KIRDY. J. Chern. Soc. Perkin Trans. 
+2, 1093 (1981). 
+10. A. J. BELLAMY, J. B. KERR, C. J. MCGREGOR et I. S. MAC 
+KIRDY. J. Chern. Soc. Perkin Trans. 2, 161 (1982). 
+11. E. M. ABBOT, A. J. BELLAMY, J. B. KERR et I. S. MAC KIRDY. 
+J . Chern. Soc. Perkin Trans. 2, 425 (1982). 
+12. G. BELOT, C. DEGRAND et P. L. COMPAGNON. J. Org. Chern. 47, 
+325 (1982). 
+13. K. G. BOTO et F. G. THOMAS. Aust. J. Chern. 26, 1251 (1973). 
+14. C. DEGRAND, P. L. COMPAGNON et F. GASQUEZ. J. Org. Chern. 
+47, 4586 (1982). 
+15. C. DEGRAND, P. L. COMPAGNON et F. GASQUEZ. J. Chern. Soc. 
+Chern. Cornrnun. 383 (1983). 
+16. (a) H. BAUER, C. MOERLER et D. REWICKI. Chern. Ber. 112, 
+1473 (1979); (b) R. KUHN et D. REWICKI. Angew. Chern. 79,648 
+(1967); Ann. Chern. 706, 250 (1967). 
+17. C. NUNTNARUMIT et M. D. HAWLEY. J. Electroanal. Chern. 133, 
+57 (1982). 
+18. J. H. BARNES, F. M. TRIEBE et M. D. HAWLEY. J. Electroanal. 
+Chern. 139, 395 (1982). 
+
+19. K. J. BORHANI et M. D. HAWLEY. J. Electroanal. Chern. 101, 
+407 ( 1 979). 
+20. R. DIETZ et H. LUND. Balls Organic electrochemistry. Edite' par 
+M. M. BAIZER. Marcel Dekker, New York. 1973. Chap. 24. 
+p. 831. 
+21. C. NUNTNARUMIT, F. M. TRIEBE et M. D. HAWLEY. J. Electro-
+anal. Chern. 126, 145 (1981). 
+22. H. LUND, H. DOUPEUX, M. A. MICHEL, G. MOUSSET et J. 
+SIMONET. Electjochirn. Acta, 19, 629 (1974). 
+23. E. SANTIAGO et J. SIMONET. Electrochirn. Acta, 20, 853 (1975). 
+24. M. A. MICHEL, G. MOUSSET et J. SIMONET. Electrochirn. Acta, 
+20, 143 (1975). 
+25. P. CAUBERE. ACC. Chern. Res. 7,301 (1974) et rtftrences citCes. 
+26. J. MOREAU et P. CAUBERE. Tetrahedron, 27, 5741 (1971) et 
+references citCes. 
+27. F. G. BORDWELL et A. H. CLEMENS. J. Org. Chern. 46, 1035 
+(1981). 
+28. J. SCHMIDT et R. MEZGER. Chern. Ber. 39, 3895 (1906). 
+29. M. MASAKI et M. OHTA. Bull. Chern. Soc. Jpn. 34, 1257 (1961). 
+30. A. J . HAILWOOD et R. ROBINSON. J. Chern. Soc. 1292 (1932). 
+31. F. G. B O R D W E L L ~~ 
+H. E. FRIED. J. Org. Chern. 46,4327 (1981). 
+32. F. G. BORDWELL, G. E. DRUCKER et H. E. FRIED. J. Org. Chern. 
+46, 632 (1981). 
+33. M. NOVAK et T. C. BRUICE. J. Am. Chern. Soc. 99, 8079 (1977). 
+34. W. N. OLMSTEAD, Z. MARGOLIN et F. G. BORDWELL. J. Org. 
+Chern. 45, 3295 (1980). 
+35. F. G. BORDWELL, D. ALGRIM et N. R. VANIER. J. Org. Chern. 
+42, 1817 (1977). 
+
+Can. J. Chem. Downloaded from www.nrcresearchpress.com by 87.160.185.190 on 03/27/14 
+
+For personal use only. 
+
+
+
+	
+

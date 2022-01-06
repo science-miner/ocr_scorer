@@ -1,0 +1,858 @@
+
+	
+
+		
+
+	
+
+	
+
+Substitution regioselective d'arenesulfonylhydrazones a,p-insaturees via la reaction de Shapiro 
+
+JEAN CLAUDE CAILLE, MICHEL FARNIER ET ROGER GUILARD' 
+
+Laboratoire de synthPse et d'e'lectrosynthPse organome'tallique associe'au Centre national de la recherche scientifique (UA 33), 
+Faculte' des sciences &lt;&lt; Gabriel w , 2 I100 Dijon, France 
+
+R e ~u le 4 janvier 1985" 
+
+JEAN CLAUDE CAILLE, MICHEL FARNIER ET ROGER GUILARD. Can. J. Chem. 64, 824 (1986). 
+Les arknesulfonylhydrazones de cyclopentanones a,p-insaturtes de type isopropylidene et cyclopentylidene cyclopen-
+tanones, ont CtC soumises i l'action successive d'organolithiens a -78°C et de divers agents tlectrophiles. La rCactivitt des 
+hydrazones depend Ctroitement de la nature de 1'Clectrophile dont le choix permet d'orienter rCgiosClectivement la substitution. 
+La structure des produits est Ctablie par analyse des spectres rmn 'H et I3C. Les hydrazones conservent leur configuration au cours 
+de la rkaction. Un mtcanisme rCactionne1 faisant intervenir un intermkdiaire a ((six centres D esr proposC. Par ailleurs, la 
+rCactivitC de ces hydrazones est mise i profit pour Claborer une nouvelle stratCgie de synthbse dlaldChydes monoterpCniques. 
+
+JEAN CLAUDE CAILLE, MICHEL FARNIER, and ROGER GUILARD. Can. J. Chem. 64, 824 (1986). 
+Arenesulfonylhydrazones of a$-unsaturated cyclopentanones such as isopropylidene and cyclopentylidene cyclopentanones 
+have been treated with alkyllithium reagents at -78OC followed by trapping with a variety of electrophiles. The reactivity of these 
+hydrazones depends on the nature of electrophile that controls the regioselectivity of the reaction. The structure of all the products 
+is established by 'H and I3c nmr. The reaction occurs with no inversion of configuration of the hydrazones. The formation of a 
+"six centers" intermediate is discussed. Moreover, such a reactivity is used to prepare monoterpenic aldehydes. 
+
+Introduction 
+OpposCs aux dtrivCs organolithiens, les tosylhydrazones 
+prksentent une rCactivitC singuliere (1) mise a profit dans un 
+grand nombre de synthbes (2). Les travaux de Lipton et Shapiro 
+(3) dkmontrent de plus que l'action des alkyllithiens s'accom-
+pagne de la formation d'un syn-dianion rtagissant tres aistment 
+avec de nombreux agents tlectrophiles pour conduire a une 
+hydrazone substitute en a (voie A, fig. 1). Par ailleurs, la 
+
+dCcomposition du dianion conduit i~ un lithien vinylique 
+
+pouvant Cgalement rCagir avec un Clectrophile (voie B, fig. 1). 
+En outre la dCcomposition du dianion est plus aiste dans le cas 
+d'hydrazones encombrtes telles les trisylhydrazones (4), sans 
+que la rCactivit6 a l'tgard des tlectrophiles soit altCrCe. 
+Cependant, peu de travaux ont t t t consacrts aux arknesul-
+fonylhydrazones a,p-insaturkes, depuis les Ctudes de Shapiro, 
+Dauben et coll. (5). Dauben et al. ont toutefois montrC le r6le 
+dtterminant de la sttrCochimie de l'hydrazone et de la nature du 
+solvant (6). Or nous avons rapport6 dans une note prtliminaire 
+(7) qu'il Ctait possible d'alkyler rCgiostlectivement la tosyl-
+hydrazone de la cyclopentylidene cyclopentanone. Dans ce 
+travail nous nous sommes proposts de montrer l'influence de 
+1'Clectrophile sur la rCgiospCcificit6 de la rCaction et d'ttudier 
+l'tvolution de la stCrtochimie des hydrazones. Dans ce but, nos 
+travaux rCalisCs initialement au dCpart de la cyclopentylidene 
+
+cyclopentanone ont CtC ttendus i l'isopropylidene cyclopenta-
+
+none, modele plus proche de celui utilist par Dauben et al. (6). 
+De plus, nous avons tent6 d'tlaborer une voie d'acces a des 
+aldthydes monoterpCniques, applicable a la synthkse d'analo-
+gues naturels. 
+Resultats 
+Rkactivitk d'hydrazones a , p-insaturkes vis-a-vis d'klectro-
+philes 
+
+Les hydrazones 1 ont Ctt soumises a l'action du butyllithium, 
+
+puis de divers agents Clectrophiles, selon la voie A schCmatiste 
+sur la figure 1. Les proportions des produits 2 et 3 obtenus (fig. 2) 
+dtpendent Ctroitement de la nature de 17Clectrophile, et l'ensem-
+ble de nos rCsultats est regroup6 en tableau 1. 
+
+'Auteur i qui adresser toute correspondance. 
+2RCvision repe le 8 novembre 1985. 
+
+Au dtpart de l'hydrazone l b de l'isopropylidkne cyclopenta-
+none, et apres transformation en dianion correspondant, l'action 
+de l'ioduie de mtthyle et du propionald~hyde conduit unique-
+ment et respectivement aux produits 2c et 2d, resultant de 
+l'attaque de 1'Clectrophile sur l'atome de carbone porteur du 
+reste isoproptnyle. Dans le cas du sulfure de dimtthyle, 2 c6tt 
+de l'hydrazone 2b issue du m&amp;me type d'attaque, il est possible 
+d'isoler dans une faible proportion (5%) un mClange des 
+
+isomkres 3 d correspondant a une attaque sur les sommets y et yr 
+
+du reste isopropylidkne. 
+Dans la strie des hydrazones de la cyclopentylidkne cyclo-
+pentanone, l'action du sulfure de dimtthyle est alors rtgio-
+spCcifique et ne conduit qu'i l'hydrazone 2f. Cette m&amp;me 
+rCgiosp6cificitC est observte par action de l'iodure de mCthoxy-2 
+Cthyle: seules les hydrazones 2e et 2g sont isolCes, ceci 
+ind~~endarnrnent de la nature du reste aryle, tosyl (-SO2 
+p-tolyle) ou trisyl ( --SO; : 
+triisopropyl-2,4,6 phenyle), port6 par 
+l'hydrazone de dtpart. A l'oppost et, curieusement, lorsque 
+l'on met en oeuvre le sulfure de diphtnyle, l'attaque ne porte 
+jamais sur le carbone 2 de l'hydrazone de dtpart mais toujours 
+sur les sommets y et yr du reste alkylidkne, quelle que soit la 
+nature du reste alkylidkne et celle du groupe aryle-port6 par 
+l'hydrazone : dans tous les cas, seuls les mtlanges d'hydrazones 
+3a, 3 c et 3f sont obtenus. De plus, nous avons vtrifit que 
+l'introduction d'un groupe alkylesur le sommet 5 de 17hydrazo-
+
+ne 1 de dCpart ne modifie pas cette sptcificitt : a partir de 
+
+l'hydrazone l c , seul se forme le mClange 3e. Toutefois, la 
+rCgiosClectivitt n'est pas toujours aussi marquCe puisque dans 
+un cas, en utilisant le chloroformiate de mCthyle, nous isolons 
+conjointement les hydrazones 2 a et 3b dans des proportions de 
+68 et 32%. 
+Ainsi la rCactivit6 des hydrazones a,p-insaturkes ne parait 
+dipendre ni de la nature du groupe alkylidkne, ni de la nature du 
+reste aryle port6 par l'hydrazone. Par contre, le choix de I'agent 
+Clectrophile est un facteur dtterminant de la spCcificitC de la 
+reaction. 
+
+Synthese d'aldkhydes monoterpkniques 
+Selon le schema rtactionnel reprCsentt en figure 1 (voie B), 
+les hydrazones l b et l c sont traittes par le sec-butyllithium en 
+exces dans le tttrahydrofuranne a -78°C. Le retour du milieu 
+
+Printcd in Canada / Imprime au Canada 
+
+Can. J. Chem. Downloaded from www.nrcresearchpress.com by 87.160.185.190 on 03/27/14 
+
+For personal use only. 
+
+
+CAILLE ET AL.: 1 
+
+,NH-
+tosyl 
+
+voie A 
+
+N 
+
+TABLEAU 1. Rtactivite d'hydrazones 1 vis-A-vis d'agents Clectrophiles 
+
+ComposC 
+de dtpart 
+A 
+
+Hydrazones 2 Hydrazones 3 
+(proportions 
+(proportions 
+Rendement 
+Ar 
+
+R I 
+
+R 
+relatives, %) 
+relatives, %) 
+
+(%I 
+
+Isopropylidkne 
+Isopropylidkne 
+Isopropylidkne 
+Isopropy lidkne 
+Isopropylidkne 
+Isopropylidkne 
+Isopropylidkne 
+Cyclopenty lidkne 
+Cyclopenty lidkne 
+Cyclopentylidkne 
+Cyclopentylidkne 
+
+p-Tolyle 
+p-Tolyle 
+TriisopropylphCnyle 
+TriisopropylphCnyle 
+Triisopropylphtnyle 
+TriisopropylphCnyle 
+TriisopropylphCny le 
+p-Tolyle 
+TriisopropylphCny le 
+TriisopropylphCnyle 
+TriisopropylphCnyle 
+
+trisyl 
+
+I 
+
+HN\ 
+N 
+, 
+
+CH 0 
+
+R 
+
+(1) sec-Buli, THF, -78' C 
+
+r R 1 DMF! H ~O * R&amp; 
+
+rkactionnel a 0°C permet d'acctder aux lithiens vinyliques 
+rksultant de la dCprotonation du sommet 1' (fig. 3). La 
+condensation du dimCthylformamide (8) livre les aldehydes 
+correspondants 4b et 4c avec des rendements de l'ordre de 35%. 
+Or, l'isomtre 5 de I'aldChyde 4 c ainsi synthCtisC est le 
+prkcurseur du chrysomClidia1 (9). 
+
+C H O 
+CHO CHO 
+
+Nous avons tent6 de proposer une voie d'accts plus simple a ce 
+prkcurseur en utilisant les deux types de rCactivitC des artnesul-
+
+fonylhydrazones. En effet, l'introduction d'un groupement a 
+priori facilement Climinable devait permettre la formation de la 
+double liaison dans la position recherchte. Nos resultats sont 
+schematises en figure 4. 
+Comme nous l'avons dCj2 dCcrit, l'hydrazone 1 b traitCe par le 
+sec-butyllithium puis le sulfure de dimCthyle conduit rCgio-
+~Clectivement au dCrivC 26. L'alkylation de ce dernier par 
+l'iodure de mCthyle fournit l'hydrazone 6 avec un rendement de 
+
+40%. 11 est a noter que l'obtention de cette hydrazone a Ct C 
+
+Cgalement envisagee en traitant directement l'hydrazone l c par 
+le sulfure de dimtthyle, mais cette voie ne permet d'isoler le 
+compose 6 qu'avec un trts faible rendement (de l'ordre de 
+10%). L'hydrazone 6 , traitCe comme dCcrit precedemment pour 
+
+Can. J. Chem. Downloaded from www.nrcresearchpress.com by 87.160.185.190 on 03/27/14 
+
+For personal use only. 
+
+
+Can. J. Chem. Downloaded from www.nrcresearchpress.com by 87.160.185.190 on 03/27/14 
+
+For personal use only. 
+
+
+CAILLE ET AL.: I 
+
+827 
+
+I3C (tcho de spin)3 de 3 d : des signaux distincts apparaissent 
+pour les divers atomes de carbone des deux isomkres. Nous 
+avons de plus v6rifit qu'aprks coupure de la fonction hydrazone 
+(12) en cttone, ces dtdoublements obsew6s sur les spectres rmn 
+13c persistent, ceci pour exclure l'existence tventuelle d'un 
+mtlange des deux configurations syn et anti d'hydrazones. 
+D'autres arguments en faveur de la prtsence d'une seule 
+configuration pour ces hydrazones sont discutts dans le para-
+graphe suivant. 
+Les spectres rmn 'H de toutes les hydrazones 2 mettent en 
+tvidence des protons Cthyl6niques sous la forme de deux 
+singulets entre 4,O et 5,2 ppm pour un reste isoproptnyle, et 
+d'un multiplet entre 5,l et 5,7ppm pour un reste cyclo-
+penttnyle. De plus, la prtsence d'un carbone quaternaire en 
+position 2 est confinnee dans un cas particulier par le relevt du 
+spectre rmn 13C (tcho de spin) pour l'hydrazone 2c. 
+Enfin, il convient de souligner que l'hydrazone 6 correspond 
+ii un mtlange de diasttrtoisomkres, ce qui se traduit sur le 
+spectre rmn 'H par la presence de deux doublets pour le groupe 
+mtthyle en position 5. 
+
+Ste're'ochimie des hydrazones 
+En optrant ii tempirature ambiante, il est classique (6) de 
+n'obtenir que des hydrazones l a (E) ii partir des cttones 
+correspondantes. Les caracttristiques rmn reportees au tableau 
+2 et dans la partie exp6rimentale pour les hydrazones 1, 
+correspondent toujours ii la forme E, sauf dans le cas de 
+l'hydrazone l a oh nous avons de plus prtpart l'isomkre Z aux 
+fins de comparaison des donntes rmn 'H. L'examen de ces 
+donn6es pour les hydrazones l a ( E ) et l a (Z) montre que les 
+glissements chimiques des divers protons de la forme E sont 
+toujours suptrieurs ii ceux de la forme Z. Les donntes rmn des 
+autres hydrazones 1 synthttistes confirment la configuration E 
+du produit obtenu sauf pour l'hydrazone l c . Dans ce cas, nous 
+obtenons en fait un m6lange des configurations E et Z dans des 
+proportions relatives de 80 et 20% : en effet, sur le spectre rmn 
+
+'H, ii c6t6 des signaux relatifs aux groupes mtthyle en 1 ' et 3' de 
+
+la forme E respectivement ii 1,89 et 1,74ppm, apparaissent 
+deux autres singulets ii 1,61 et 1,54ppm correspondant aux 
+mCmes protons de la forme Z. 
+Nous avons voulu pr6ciser si la configuration de l'hydrazone 
+ttait ~0 n ~e ~6 e 
+ou non au cours de la rtaction conduisant aux 
+hydrazones 2 et 3. La st6rtochimie des hydrazones d'alktnylcy-
+clopentanones 2 est dtmontrte sur un cas particulier: par 
+coupure de l'hydrazone 2e, on isole la cttone 8 ii partir de 
+laquelle l'hydrazone E est r6gCntrte ii temptrature ambiante 
+(2g) (fig. 5). Les caracttristiques physicochimiques et rmn 'H 
+du produit ainsi obtenu s'avkrent identiques ii celles de 
+l'hydrazone 2e mise en jeu qui doit donc Ctre de configuration 
+E. 
+La comparaison des glissements chimiques obsewts pour les 
+protons des groupes mtthyle en 1' et 3' des deux isomkres l a 
+( E ) et l a (Z) et de ceux des mCmes groupes mtthyle du mtlange 
+des hydrazones 3a issu de la(E) montre encore que la configura-
+tion de la fonction hydrazone est consewte lors de la transfor-
+mation envisagte. L'examen des donntes rmn 'H des autres 
+hydrazones 3 permet de gtntraliser ce rtsultat. Un dernier 
+argument confirme la sttrtochimie E des hydrazones 2 et 3 : la 
+protonation ii -78°C du dianion issu de 1 b de configuration E ne 
+modifie pas la sttrtochimie de cette hydrazone. 
+Le fait que la configuration E de l'hydrazone reste toujours 
+
+3~icroprogramme d'tcho de spin, &lt;&lt; JMODXH.AU ,,, Briiker. 
+
+inchangte lors de la prtparation des composts 2 et 3 nous a 
+conduit ii proposer un mtcanisme r6actionnel prtcisant la nature 
+du dianion intermtdiaire. 
+
+Me'canisme re'actionnel 
+Lipton et Shapiro (3), puis Chamberlin et Bond (13), ont 
+montrt que l'alkylation d'hydrazones E en a prockde par 
+l'intermtdiaire d'un syn-dianion (voie A, fig. 1). Le mCme 
+mtcanisme appliqut aux hydrazones a,p-insaturtes 1 que nous 
+avons ttudites, aurait dii conduire aux produits de substitution 
+en position 5. Or, nous n'avons jamais pu isoler de tels 
+compods, mais uniquement les hydrazones de type 2 et 3. De 
+plus, nous avons prtcist dans le paragraphe prtctdent que la 
+rtaction s'effectue sans isom6risation de la fonction hydrazone 
+E. I1 n'est donc pas possible d'envisager un intermediaire 
+syn-dianion dans notre cas. L'hypothkse la plus plausible pour 
+expliquer ces rtsultats parait Ctre l'intewention d'un inter-
+'m6diaire ii &lt;&lt; six centres &gt;&gt; qui se forme par dtprotonation 
+rtgiosptcifique du sornrnet 1'. Le mtcanisme rtactionnel 
+propost est reprtsent6 en figure 6 : l'intermtdiaire ii six centres 
+(A) conduit au dianion allylique (B), prtcurseur des hydrazones 
+2 et 3. 
+
+I1 est ii noter qu'un intermtdiaire ii six centres avait kt6 tvoqut 
+par Bunnell et Fuchs (14) pour des hydrazones de P-ctto ester. 
+Une interpritation possible du changement de rtgiosptcificit6 
+obsewt lors de l'emploi du sulfure de diphtnyle comme agent 
+tlectrophile serait la suivante: ? i 
+partir du dianion (B), il y 
+aurait formation initiale d'une sulfimine conduisant ulttrieure-
+ment aux hydrazones 3a, 3c, 3e et 3f selon 
+
+SOpAr 
+
+Conclusion 
+L'ttude de la rtactivitt d'hydrazones a,p-insaturtes vis-2-
+vis d'agents 6lectrophiles montre que la dtprotonation rtsultant 
+de l'action de l'alkyllithien est rtgiosptcifique et conduit ii un 
+Can. J. Chem. Downloaded from www.nrcresearchpress.com by 87.160.185.190 on 03/27/14 
+
+For personal use only. 
+
+
+828 
+
+CAN. I. CHEM. 
+
+intermediaire a six centres. La configuration E des hydrazones 
+
+est consemee au cours de la reaction. La formation d'un dianion 
+allylique permet d'expliquer la formation concomitante ou non 
+d'hydrazones d'alkenyle et d'alkylidkne cyclopentanones, la 
+rt5giosClectivite de la reaction etant sous la dkpendance essen-
+tielle de la nature de l'electrophile mis en jeu. 
+
+Cette reactivite particulikre a i t 6 appliquee a la synthkse 
+
+d'aldehydes monoterpeniques et sera Cgalement mise en oeuvre 
+dans l'article suivant pour proposer de nouvelles voies d'accks 
+
+a des 6-lactones cyclopenteniques. 
+
+Partie experimentale 
+
+Le dkroulement des rCactions est suivi par ccrn (chromatographie sur 
+couche mince) sur gel de silice (Kieselgel60F254, Merck 5535). Les 
+points de fusion mesurCs sur banc Kofler ne sont pas corrigCs. Les 
+spectres infrarouges (ir) sont obtenus sur spectrophotom&amp;tre Perkin 
+Elmer 580 B. Les spectres de rksonance magnCtique nuclCaire (rmn) 
+
+sont enregistrks a 400MHz sur appareil Briiker WM 400. Les 
+
+dCplacements chimiques sont exprimCs en ppm, le TMS Ctant pris 
+c o m e rCfCrence interne (s, singulet; d, doublet; t, triplet; q, 
+quintuplet; h, heptuplet; m, multiplet; M, massif). Les analyses sont 
+effectuCes par le Service central de microanalyses du Centre national de 
+la recherche scientifique. 
+Le tktrahydrofuranne est distill6 sur LiAIH4, l'hexane et le tCtra-
+mCthylCthylbnediamine sur Call2. Les solutions d'alkyllithien sont 
+commerciales. La lithiation des hydrazones est rCalisCe sous atmos-
+phkre d'argon. 
+Les produits de dkpart suivants sont prCparCs par les mCthodes 
+citCes en reference : isopropylidkne-2 cyclopentanone-1 (15); isopropy-
+lidbne-2 mtthyl-5 cyclopentanone-1 (16); tosylhydrazone de la cyclo-
+pentylidbne-2 cyclopentanone-1 , Id (17). 
+
+Tosylhydrazones de l'isopropylid&amp;neZ cyclopentanone-1 l a (E) et l a 
+(Z) 
+(a) Tosylhydrazone 1 a (E) 
+On dissout au bain-marie 11,2 g (60 mmol) de tosylhydrazide dans 
+20mL d'Cthano1 ? 
+I reflux en prCsence d'une goutte d'acide chlor-
+hydrique concentre, puis on ajoute, a temperature ambiante, I'iso-
+propylidbne-2 cyclopentanone-1 ( 7 3 g, 60 mmol). Aprbs 12 h au 
+rCfrigCrateur, puis filtration, on obtient 14g (80%) d'un solide 
+recristallisC dans 1'Cthanol; pf 216°C; Rr 0,27 (Cther Cthylique -
+hexane, 1 : 1); v,,(KBr) : 3250 (NH), 1650 (C=C), 1600 aromati-
+que, 1330 et 1150 (S02N) cm-'. Anal. calc. pour C15H20N202S :C 
+61,63, H6.90, N9,58,O 10,95, S 10.95; trouvC: C61,79, H7,01, N 
+9,70, 0 11,00, S 11,19. 
+(b) Tosylhydrazone 1 a (Z) 
+A une suspension de tosylhydrazide (5,O g, 26,9 mmol) dans 
+1'Cthanol (50 mL), on ajoute I'isopropylid&amp;ne-2 cyclopentanone-1 
+(3,33 g, 26,9 mmol) et 0,4 mL d'acide chlorhydrique concentrk. Le 
+
+mClange est portC a reflux pendant 3 h, puis CvaporC sous pression 
+
+rCduite; I'huile brune obtenue est purifiCe par chromatographie sur gel 
+de silice (Cluant : Cther Cthylique -hexane, 4 : 1). On recueille 4,7 g 
+(60%) d'un solide recristallisC dans 1'Cthanol; pf 196°C; Rf 0,10 (Cther 
+
+Cthylique -hexane, 1 : 1); vma,(KBr) : 3200 (NH), 1640 (C=C), 
+
+1600 (aromatique), 1365 et 1160 (S02N) cm-'. Anal. calc. pour 
+C15H2$IJ202S : C 61,63, H 6 , 9 0 , 0 10,95; trouvC : C 61,36, H 6,72,O 
+11,27. 
+
+Trisylhydrazones 1 b, 1 c et l e 
+Le rn&amp;me mode opiratoire est utilisC pour prkparer ces trois 
+
+hydrazones : i une suspension de triisopropyl-2,4,6 benzknesulfonyl-
+
+hydrazide (29,8 g, 100 mmol) dans le methanol (100 mL), on ajoute 
+I'alkylidbne cyclopentanone fraichement distillCe (100 mmol) et 1 mL 
+d'acide chlorhydrique concentrk. On agite vigoureusement jusqu'a 
+formation d'un prCcipitC abondant. Le mClange est ensuite dCposC au 
+rCfrigCrateur pendant la nuit. Le prCcipitC obtenu est filtrk, lavC au 
+mCthanol froid (3 X 50 mL), sCchC, puis recristallisC dans 1'Cthanol. 
+(a) Trisylhydrazone de l'isopropylid&amp;ne-2 cyclopentanone-1 1 b 
+Rendement : 80%; pf 196°C; Rr 0,62 (Cther Cthylique -hexane, 
+
+VOL. 64, 1986 
+
+1 : 1); v,,(KBr) : 3250 (NH), 1655 (C=C), 1 6 h (arornatique), 1330 
+(S02N), 1160 et 1150 (S02N) crn-'. Anal. calc. pour C23H36N202S : C 
+68,29, H 8,97, N 6,92; trouvC: C 68,21, H 8,98, N 6,81. 
+(b) Trisylhydrazone de l'isopropylid&amp;ne-2 me'thyl-5 cyclopentanone-
+I l c 
+Rendernent : 40%; pf 158°C; Rf 0,69 (Cther Cthylique -hexane, 
+1 : 1); v,,(KBr) : 3240 (NH), 1650 (C=C), 1600 (arornatique), 1330 
+(SOIN), 1160 et 1150 (S02N) cm-'. Anal. calc. pour C24H38N202S : C 
+68,87, H 9,15, N 6,69, S 7,64; trouvC: C 68,52, H 8,91, N 6,69, S 
+733. 
+(c) Trisylhydrazone de la cyclopentylid&amp;ne-2 cyclopentanone-1 l e 
+
+Rendernent: 80%; pf 206°C; Rr 0,59 (Cther Cthylique -hexane, 
+
+1 : 1); v,,(KBr) : 3240 (NH), 1665 (C=C), 1600 (aromatique), 1330 
+
+(S02N), 1160 et 1150 (S02N) cm-' . Anal. calc. pour C25H38N202S : C 
+
+69,74, H 8,90, N 6,51, 0 7,43, S 7,43; trouvC: C 69,68, H 9,01, N 
+6,40,0 7,47, S 7,61. 
+Re'activite' des tosylhydrazones l a (E) et I d vis-a-vis d'agents 
+e'lectrophiles 
+Le mode opiratoire gCnCral est le suivant : une solution de 
+tosylhydrazone l a ou Id (6,84mmol) dans le tktrahydrofuranne 
+(30mL) est ajoutCe, 2 -78°C et goutte ? 
+I goutte, une solution de 
+n-butyllithium dans I'hexane (17,l mmol). L'agitation est poursuivie 
+pendant 20 min avant d'introduire goutte a goutte l'agent Clectrophile 
+(10,26 mmol) en solution dans 5 mL de tktrahydrofuranne. A la fin de 
+l'addition le milieu rkactionnel est agitC pendant 15 min a -78"C, puis 
+
+30 min a tempirature ambiante. Apr&amp;s hydrolyse par NH4C1 (50 mL), 
+
+extraction par 1'Cther Cthylique, lavage a l'eau et par une solution 
+saturCe en NaCl, puis evaporation du solvant, on obtient une huile CluCe 
+sur colonne de gel de silice par le mClange Cther Cthylique -hexane 
+(1 : 1). 
+(a) Action du suljiure de diphe'nyle sur l a (E) 
+Aprbs recristallisation dans l'kthanol, on isole 0,87 g de tosylhydra-
+zone de (phtnylthio-1 '(3') isopropy1idkne)-2 cyclopentanone-1 3a; pf 
+188-189°C; Rr 0,44 (Cther Cthylique -hexane, 1 : 1); vmaX(KBr) : 3200 
+(NH), 1650 (C=C), 1600 (aromatique), 1340 et 1 170 (S02N) cm-'. 
+Anal. calc. pour C21H24N202S2 : C 62,98, H 6,04, 6,99, 0 7,99, S 
+15,98; trouvC: C 63,27, H 5,89, N 6,85, 0 8,53, S 15,69. 
+(b) Action du chloroformiate de me'thyle sur l a (E) 
+Aprbs recristallisation dans l'kthanol, on obtient successivement : 
+0,50g de la tosylhydrazone de I'isopropCnyl-2 mCthoxycarbony1-2 
+cyclopentanone-1 2a; pf 124°C; Rr 0,52 (Cther Cthylique -hexane, 
+3 : 2); v,,(KBr) : 3200 (NH), 1725 (C02CH3), 1640 (C=C), 1600 
+(arornatique), 1340 et 1170 (S02N) cm-'; rmn (CDC13) 6 : 7,82 et 7,29 
+(2d, 4H, -Ca4-), 
+4,93 et 4,64 (2s, 2H, -C=CH2), 
+3,63 (s, 3H, 
+-C02CH3), 2,41 (s, 3H, -C6H4-CH3), 
+2,31 (ddd, lH, 
+
+= 
+
+12.98, J3a4a = 6,24 et J3a4b = 9,83 Hz, H3a), 2,22 (dd, 2H, J4a5 = 
+6,11 etJ4b5 = 8,81 HZ, (CH2)-5), 2,04(ddd, lH, J3a3b = 12,98, J3Ma 
+= 6,08, J3Mb = 4,24 HZ, H3b), 1,8O (m, 1 H, J4as = 6,11, J4a4b = 
+12,15, J3a4a = 6,24 et J3Ma = 6,08Hz, H4a), 1,73 (s, 3H, 
+H3C-C=C), 
+1,69 (Ill, 1H, J4b5 = 8,81, J4a4b = 12,15, J3a4b = 9,83 
+et J3b4b = 4,24 Hz, H4b). Anal. calc. pour C17H22N204S : C 58,28, H 
+6,33, N 7,99,O 18,26, S 9,13; trouvC: C58,13, H6,24, N 8,24, 0 
+18,11, S 9,02; et 0,24g de la tosylhydrazone de (mCthoxycarbonyl-
+l'(3') isopropy1idbne)-2 cyclopentanone-l3b; pf (dec.) 90°C; Rf 0,36 
+(Cther Cthylique -hexane, 3 : 2); vmaX(KBr) : 3200 (NH), 1722 
+(C02CH3), 1655 (C=C), 1600 (aromatique), 1340 et 1 170 (SOIN) 
+cm-'.Anal. calc. pour C17H22N204S : C 58,28, H 6,33, N 7,99, 0 
+18,26, S 9,13; trouvC: C 58,46, H 6,28, N 7,96, 0 17,92, S 9,05. 
+(c) Action de l'iodo-1 me'thoxy-2 &amp;thane sur Id 
+Aprbs recristallisation dans le cyclohexane, on recueille 1,03 g de la 
+tosylhydrazone de la cyclopentCny1-2 (mCthoxy-2 Cthy1)-2 cyclo-
+pentanone-1 2e; pf 127°C; Rf 0,23 (Cther Cthylique -hexane, 2: 1); 
+v,,(KBr) : 31 80 (NH), 1662 (C=C), 1600 (aromatique), 1360 et 
+1160 (S02N), 1120 (OCH3) crn-'; rmn (CDCI,) 6 : 7,86 et 7,25 
+(2d, 4H, -Ca4-), 
+5,10 (rn, lH, -C=CH-), 
+3,30 (m, 2H, 
+-CH20CH3), 3,23 (s, 3H, -OCH3), 2,41 (s, 3H, -C6H4-CH3), 
+2,00-1,60 (M, 14H, mCthyl6nes cycliques et -CH2CH20CH3). 
+Anal. calc. pour C20H28N203S : C 63,80, H 7,45, N 7,45, S 830; 
+trouvC:C64,17, H7,52, N7,38, S8,33. 
+
+Can. J. Chem. Downloaded from www.nrcresearchpress.com by 87.160.185.190 on 03/27/14 
+
+For personal use only. 
+
+
+CAILLE ET AL.: I 
+
+829 
+
+Re'activite' des trisylhydrazones Ib, I c et l e vis-a-vis d'agents 
+aectrophiles 
+
+Le mode op5ratoire gCnCral est le suivant: i une solution de 
+trisylhydrazone (4,65 mmol) dans le titrahydrofuranne (20mL) i 
+-78°C est ajoutte, goutte i goutte, une solution de sec-butyllithium 
+dans le cyclohexane (1 1,62 mmol). Aprks agitation i -78°C pendant 
+1,5 h on ajoute lentement, et i cette mCme tempkrature, l'agent 
+
+Clectrophile (7 mmol) en solution dans le tktrahydrofuranne (5 mL). On 
+maintient le milieu rCactionnel sous agitation pendant 7 h i -78°C. On 
+
+rCalise l'hydrolyse i l'aide d'une solution saturte de NH4C1, l'extrac-
+tion par 1'Cther Cthylique, puis on lave 2 l'eau et i l'aide d'une solution 
+
+saturCe de NaCl et l'on Cvapore les solvants organiques. 
+(a) Action du sulfure de diphe'nyle sur I b 
+L'huile obtenue est CluCe sur gel de silice, sous pression moyenne, 
+par le melange Cther Cthylique -hexane (1 : 2,5). Aprks recristallisation 
+dans l'Cthano1, on obtient 1,45 g de trisylhydrazone de (phknylthio-
+l'(3') isopropy1idkne)-2 cyclopentanone-13c; pf 120°C; Rf0,55 (Cther 
+Cthylique -hexane, 1 : 1); v,,(KBr) 
+: 3250 (NH), 1650 (C=C), 1600 
+et 1565 (aromatique), 1330 (S02N), 1165 et 1155 (S02N) cm-I. Anal. 
+calc. pourC29H40N202S2 : C 67,90, H 7,86, N 5,46,O 6,24, S 12,48; 
+trouvC: C67,89, H 7,86, N 5,34, O6,17, S 12,39. 
+(b) Action du sulfure de dime'thyle sur I b 
+Aprks chromatographie sur gel de silice (Cluant : Cther Cthylique -
+hexane, 1 : 2,5), on recueille, aprks recristallisation dans l'Cthano1, 
+1,15g de trisylhydrazone de l'isoprop5nyl-2 mCthylthio-2 cyclo-
+pentanone-1 2b; pf 140-141°C; Rf 0,63 (Cther Cthylique -hexane, 
+1 : 1); v,,(KBr) 
+: 3240 (NH), 1640 (C=C), 1600 et 1560 (aromati-
+que), 1330 (S02N), 1 165 et 1 150 (S02N) cm-'; rmn (CDC13) 6 : 7,13 
+(s, 2H, aromatiques), 5,14 et 4,86 (2s, 2H, -C=CH2), 4,19 (h, 2H, J 
+= 6,80Hz, o-CH(CH,),), 2,88 (h, lH, J = 6,80 HZ, p-CH(CH3),), 
+2,47 et 2,33 (2m, 4H, (CH2)-3 et (CH2)-5), 1,77 (m, 2H, (CH2)-4), 
+1,60 (s, 3H, H3C-C=C), 
+1,37 (s, 3H, -SCH3), 1,30 (d Clargi, 
+18H, J = 6,80Hz, -HC(CH3)2). Anal. calc. pour C24H38N202S2 : C 
+63,97, H 8 3 0 , N 6,22,O 7,10, S 14,20; trouvC : C 63,90, H 8,69, N 
+6,09, 0 7,27, S 14,20; et 0,062 g de trisylhydrazone de (mkthylthio-
+l'(3') isopropy1idkne)-2 cyclopentanone-134 pf 160°C; Rf0,59 (Cther 
+Cthylique -hexane, 1 : 1); v,,,(KBr) : 3250 (NH), 1650 (C=C), 1600 
+et 1565 (aromatique), 1335 (S02N), 1165 et 1150 (S02N) cm-I; rmn 
+I3C (CDC13) 6 : 160,3 et 160,2 (C-1), 153,9 et 153,8 puis 151,9 et 
+15 1,8 (2C, quaternaires aromatiques), 135,2 et 134,7 (C quaternaires 
+aromatiques), 133,l et 133,Opuis 131,9et 131,8 (C-2etC-2'), 41,2et 
+35,6 (-CH2SCH3) ppm. Anal. calc. pour C24H38N202S7 : C 63,97, H 
+8,50, 0 7,10, S 14,20; trouvC: C 63,90, H 8,69, 0 7,27, S 14,20. 
+
+(c) Action de l'iodure de mtthyle sur I b 
+L'huile obtenue traitCe par le pentane abandonne 1,13 g de tri-
+sylhydrazone de 1'isopropCnyl-2 mCthyl-2 cyclopentanone-l2c recris-
+tallisCe dans 1'Cthanol; pf 137°C; Rf 0,65 (Cther Cthylique -hexane, 
+1 : 1); v,,(KBr) : 3240 (NH), 1635 (C=C), 1600 et 1560 (aromati-
+que), 1330 (S02N), 1170 et 1155 (S02N) cm-I; rmn (CDC13) 6 : 7,12 
+(s, 2H, aromatiques), 4,55 et 4,31 (2s, 2H, -CH=CH2), 
+4,19 (h, 
+2H, J = 6,80 HZ, 0-CH(CH3)2), 2,88 (h, lH, J = 6,80 Hz, 
+P-CH(CH~)~), 2,20-1,60 (M, 6H, mCthylknes cyclopentaniques), 
+1,45 (s, 3H, H3C-C=C), 
+1,30 (d Clargi, 18H, J = 6,80Hz, 
+-CH(CH3)2), 1,12 (s, 3H, C-CH3); rmn I3C (CDC13) 6 : 162,9 
+(C-l), 153,9, 15 1,9 et 147,6 (3C, quaternaires aromatiques), 131,l 
+(C-27, 124,3 (CH aromatique), 1 12,2 (C-1 '), 52,8 (C-2 quaternaire), 
+38.2 (C-5), 34,9 (C-3'), 27,7 et 21,5 (C-3 et C-4) ppm. Anal. calc. 
+pourC24H38N202S : C 68,87, H 9,15, N 6,69,O 7,64, S 7,64; trouvC : 
+C 69,12, H 9,34, N 6,46, 0 7,65, S 7,94. 
+(d) Action du propionalde'hyde sur I b 
+Aprks Clution sur gel de silice, sous pression moyenne, par le 
+mClange Cther Cthylique -hexane (1 : 1) et recristallisation dans 
+l'Cthano1, on isole 1,03 g de trisylhydrazone de ll(hydroxy-1 propy1)-
+2 isopropCny1-2 cyclopentanone-1 2 4 pf 150°C; Rf 0,33 (Cther 
+Cthylique -hexane, 1 : 1); vmax(KBr) : 3460 (OH), 3260 (NH), 1630 
+(C=C), 1600 et 1565 (aromatique), 1340 (S02N), 1170 et 1155 
+(S02N), 1110 (CHOH) cm-I; rmn (CDC13) 6 : 7,17 (s, 2H, aromati-
+ques), 4,90 et 4,60 (2s, 2H, -C=CH2), 
+4,15 (h, 2H, J = 6,80 Hz, 
+o-CH(CH3),), 3,73 (dd, lH, J = 8,54 et 4,92 Hz, -CHOH-), 
+3,47 
+
+(d, lH, J = 4,92Hz, -CHOH-), 
+2,89 (h, lH, J = 6,80Hz, 
+P-CH(CH~)~), 2,40 et 2,31 (2m, 4H, (CH2)-3 et (CH2)-5), 2,20-1,70 
+(M, 4H, (CH2)-4 et (-CHOHCH2CH3)), 1,60 (s, 3H, H3C-C=C), 
+1,30 (d Clargi, 18H, J = 6,80Hz, -CH(CH3),), 0,83 (t, 3H, J = 
+7,32 Hz, -CH2CH3). Anal. calc. pour C26H42N203S : C 67,50, H 
+9,15, N6,05, 0 10,37, S 6,92; trouvC: C 67,59, H 9,22, N 6,00, 0 
+10,51, S 7,20. 
+
+(e) Action du sulfure de diphe'nyle sur I c 
+Aprks chromatographie sur gel de silice sous pression moyenne 
+(Cluant: Cther Cthylique -hexane, 1 :5) et recristallisation dans 
+l'kthanol, on recueille 1,27 g de trisylhydrazone de mCthyl-5 (phinyl-
+thio-l'(3') isopropy1idkne)-2 cyclopentanone-1 3e; pf (dec.) 50°C; Rf 
+0,61 (Cther Cthylique -hexane, 1 : 1); vmax(KBr) : 3200 (NH), 1650 
+(C=C), 1600 et 1570 (aromatique), 1330 (S02N), 1160 et 1150 
+(S02N) cm-'. Anal. calc. pour C30H42N202S2 : C 68,42, H 8,04, S 
+12,15; trouvC: C 68,26, H 7,94, S 12,47. 
+
+(f) Action du sulfure de diphe'nyle sur l e 
+Aprks Clution sur gel de silice, sous pression moyenne, par le 
+mClange Cther Cthylique -hexane (1 :5) et recristallisation dans 
+llCthanol, on recueille 1,78 g de trisylhydrazone de (phCnylthio-l'(3') 
+
+cyclopenty1idkne)-2 cyclopentanone-1 38 pf 140°C; Rf 03.5 (Cther 
+
+Cthylique -hexane, 1 : 1); v,,(KBr) 
+: 3240 (NH), 1650 (C=C), 1600 
+et 1570 (aromatique), 1330 (S02N), 1 165 et 1150 (S02N) cm-I. Anal. 
+calc. pow C31H42N202S2 : C 69,12, H 7,86,O 5,94, S 11,88; trouvC : C 
+69,01, H 7,94, 0 5,75, S 1 2 , l l . 
+
+(g) Action du sulfure de dime'thyle sur l e 
+L'huile obtenue abandonne dans le pentane 1,20 g de trisylhydrazone 
+de la cyclopentCny1-2 mCthylthio-2 cyclopentanone-1 2f, recristallisCe 
+dans 1'Cthanol; pf 163°C; Rf 0,65 (Cther Cthylique -hexane, 1 : 1); 
+v,,(KBr) : 3240 (NH), 1640 (C=C), 1600 et 1570 (aromatique), 
+1330 (S02N), 1170et 1150 (S02N) cm-I; rmn (CDC13) 6 : 7,13 (s, 2H, 
+aromatiques), 5,62 (m, 1 H, -CH=C-), 
+4,20 (h, 2H, J = 6,80 Hz, 
+o-CH(CH3)2), 2,88 (h, lH, J = 6,80Hz, p-CH(CH3)2), 2,40-130 
+(M, 12H, mtthylknes cycliques), 1,37 (s, 3H, -SCH3), 1,30 
+(d Clargi, 18H, J = 6,80Hz, -HC(CH3)2). Anal. calc. pour 
+C 2 6 H ~2 0 2 S 2 
+: C 65,52, H 8,46, N 5,88, S 13,43; W O U V ~ : C 65,44, H 
+832, N 5,87, S 13,07. 
+
+(h) Action de l'iodo-1 me'thoxy-2 e'thane sur l e 
+L'huile obtenue traitte par le pentane abandonne 1,50 g de trisylhy-
+drazone de la cyclopentCny1-2 (mCthoxy-2 Cthy1)-2 cyclopentanone-1 
+2g, recristallisCe dans 1'Cthanol; pf 144°C; Rf 0,48 (Cther Cthylique -
+hexane, 1 : 1); v,,(KBr) 
+: 3240 (NH), 1650 (C=C), 1600 et 1570 
+(aromatique), 1330 (S02N), 1165 et 1155 (S02N), 11 14 (OCH3) 
+cm-I; rmn (CDC13) 6 : 7,13 (s, 2H, aromatiques), 5,11 (m, lH, 
+-C=CH-), 
+4,18 (h, 2H, J = 6,80 Hz, o-CH(CH3)2), 3,16 (m, 2H, 
+-CH20CH3), 3,14 (s, 3H, -OCH3), 2,88 (h, lH, J = 6,80 
+Hz, p-CH(CH3)2), 2,30-1,50 (M, 14H, mCthylknes cycliques et 
+--CH2CH20CH3), 1,30 (d Clargi, 18H, J = 6,80 Hz, -CH(CH3)2). 
+Anal. calc. pour C28H44N203S : C 68,82, H 9,07, N 5,73, 0 9,82, S 
+6,55; trouvC: C 68,81, H 9,32, N 5,73, 0 9,97, S 6,69. 
+
+Trisylhydrazone de l'isoprope'nyl-2 me'thyl-5 me'thylthio-2 cyclopen-
+tanone-1 6 
+Selon le mode opCratoire dCcrit pour prCparer 2c, on obtient, i partir 
+
+de 2,l g (4,65 mmol) de 2b et 1,Og dliodure de mCthyle, une huile 
+CluCe sur gel de silice, sous pression moyenne, par le mClange Cther 
+Cthylique -hexane (1 : 5). Aprks recristallisation dans l'Cthano1, on 
+obtient 0,86 g (40%) d'un solide jaune pile; pf 145°C; Rf 0,66 (Cther 
+Cthylique -hexane, 1 : 1); v,,(KBr) 
+: 3172 (NH), 1635 (C=C), 1600 
+et 1560 (aromatique), 1380 (S02N), 1160 et 1154 (S02N) cm-'; rmn 
+(CDCl3 6 : 7,13 (s, 2H, aromatiques), 5,07 et 4,83 (2s, -C=CH2), 
+4,15 (h, 2H, J = 6,80Hz, o-CH(CH3)2), 2,88 (h, lH, J = 6,80Hz, 
+p-CH(CH3)2), 2,20-1,60 (M, 5H, protons cyclopentaniques), 1,66 (s, 
+3H, H3C-C=C), 
+1,34 (s, 3H, -SCH3), 1,30 (d Clargi, 18H, J = 
+6,80 Hz, -CH(CH3)2, 1,29 et 1,14 (2d, JS-CH, = 8,00 HZ, -CHCH3). 
+Anal. calc. pour C25H40N202S2 : C 64,63, H 8,68, N 6,03, 0 6,88, 
+S 13,77; trouvC: C 64,42, H 8,41, N 5,93, 0 6,99, S 13,49. 
+
+Can. J. Chem. Downloaded from www.nrcresearchpress.com by 87.160.185.190 on 03/27/14 
+
+For personal use only. 
+
+
+830 
+
+CAN. J. CHEM. 
+
+Me'thode ge'ne'rale de synthkse des alde'hydes 4b, 4c et 7 
+A une solution de trisylhydrazone (10 mmol) dans le tktrahydro-
+
+furanne (20 mL) est ajoutte, A -7S°C et goutte h,g?utte, une solution de 
+
+sec-butyllithium dans le cyclohexane (35 mmol). A la fin de l'addition, 
+
+le milieu rCactionne1 est agitC pendant 1 h A -7S°C, puis 1 h A 0°C. On 
+
+ajoute alors le dimCthylfomamide (3,l mL, 40 mmol) en solution dans 
+le t6trahydrofurame (5 mL). La solution obtenue est agitte 0°C 
+durant 1 h, hydrolyste par une solution saturCe de NH4Cl, puis extraite 
+
+par 1'Cther tthylique. Les phases organiques sont lavCes A l'eau et par 
+
+une solution saturCe en NaCl, puis CvaporCes. Apres Clution du rtsidu 
+sur gel de silice (solvant : Cther tthylique -hexane, 1 :5), l'aldthyde 
+est is016 sous forme d'une huile jaune p2le. 
+(a) lsoprope'nyl-2 cyclopentknecarbalde'hyde-1 4 b 
+
+A partir de l b , on obtient 0,48g (35%) de 4b; Rf 0,57 (Cther 
+
+tthylique -hexane, 1 : 4); v,,(film) 
+: 1661 (CHO), 1607 (C=C) 
+cm-'; rrnn (CDC13) 6 : 9,92 (s, 1 H, -CHO), 5,20 et 5,08 (2s, 2H, 
+-C=CH2), 2,72 (tt, 2H, J340u54 = 7,60 et J3, = 2,00Hz, (CH2)-3 
+ou -5),2,63 (tt, 2H, J540u34 = 7,60 et J3, = 2.00 HZ, (CH2)-5 ou -3), 
+1,96 (s, 3H, CH3-C=C), 
+1,90 (q, 2H, J43 et J4, = 7,60Hz, 
+(CH2)-4). Anal. cdc. pour C9HI20: C 79,37, H 8,88, 0 11,75; 
+trouvt : C 79,03, H 9.05, 0 11,90. 
+(b) Isoprope'nyl-2 me'thyl-5 cyclopentPnecarbalde'hyde-1 4c 
+
+A partir de l c , on obtient 0,55 g (37%) de 1'aldChyde 4c; Rf 0,60 
+
+(Cther tthylique -hexane, 1 :4); v,,,(film) : 1662 (CHO), 1605 
+(C=C) cm-'; rrnn (CDC13) 6 : 9 3 8 (s, lH, -CHO), 5,20et 5,05 (2s, 
+2H, -C=CH2), 3,14 (m, lH, H-5), 2,75,2,66,2,09 et 1,5 1 (4m, 4H 
+(CH2)-3 et (CH2)-4), 1,94 (s, 3H, H3C-C=C), 
+1,13 (d, 3H, J = 
+6,89Hz, -C-CH3). 
+Anal. calc. pourCloHI40 : C 79,95, H 9,39,O 
+10,65; trouvC: C 80,20, H 9,01, 0 11,12. 
+(c) Isoprope'nyl-3 me'thyl-1 me'thylthio-3 cyclopentPnecarba1de'-
+hyde-2 7 
+
+A partir de 6, on obtient 0,74g (38%) de I'aldChyde 7; Rf 0,33 
+
+(Cther Cthyli ue 
+hexane, 1 :7); v,,(film) 
+: 1678 (CHO), 1615 
+(C=C) cm' ; 
+(CDC13) 6 : 9.76 (s, IH, -CHO), 
+4,99 
+(m, 2H, -C=CH2), 
+2,5 1-2,44 (M, 2H, (CH2)-5), 2,23 (t, 3H, 
+JS-CH3 = 1,lO Hz, H3C-C=C-CHO), 
+2,20 (m, 2H, (CH2)-4), 
+
+-
+
+1,96 (s, 3H, -SCH3), 1,83 (dd, Jlc,.cH3 = 1,28 et Jl'b-CH, -
+0,55 Hz, H3C-C=C). 
+Anal. calc. p 0 u r C ~~H ~~0 S 
+: C67,32, H 8,22, 
+0 8,15, S 16,31; trouvC: C 67,29, H 8,15, 0 8,40, S 16,Ol. 
+
+Cyclopente'nyl-2 (me'thoxy-2 Pthy1)-2 cyclopentanone-1 8 
+A une solution d'hydrazone 2e (0,38 g, 1 mmol) dans le mClange 
+acttone-eau (10: 1, 11 mL) est ajoutt 1'CthCrate de trifluorure de bore 
+
+(0,63 mL, 5 mmol) (12). Le milieu rkactionnel est agitC pendant 48 A 
+72 h A temp6rature ambiante. Le solvant est tvaport puis le rtsidu 
+
+repris par le pentane (3 x 20 mL). Les phases organiques sont rtunies 
+
+puis tvaportes pour donner 0,13 g (61 %) de cCtone 8; p t 135"C/3 Ton 
+
+(1 Torr = 133,3 Pa); Rf 0,78 (Cther Cthylique -hexane, 1 : 1); 
+
+v,,(film) 
+: 1735 (CO), 1638 (C=C), 11 14 (OCH3) cm-I; m n 
+(CDC13) 6 : 5,50 (m, lH, -CH=C-), 
+3,33 (m, 2H, -CH20CH3), 
+3,27 (s, 3H, -OCH3), 2,30-1,83 (M, 14H, mCthyBnes cycliques et 
+-CH2CH20CH3). Anal. calc. pour C13H2002 : C 74,96, H 9,68, 0 
+15,36; trouvC: C 74,89, H 9,76, 0 15,37. 
+
+1. R. H. SHAPIRO. Org. React. 23,405 (1975). 
+2. (a) A. R. CHAMBERLIN, J. E. STEMKE et F. T. BOND. J. Org. 
+Chem. 43, 147 (1978); (b) R. M. ADLINGTON et A. G. M. 
+BARRETT. J. Chem. Soc. Chem. Commun. 1071 (1978); (c) T. 
+NAKAI et T. MIMURA. Tetrahedron Lett. 53 1 (1979); (d) R. M. 
+ADLINGTON et A. G. M. BARRETT. J. Chem. Soc. Perkin Trans. 
+1,2848 (1981); (e) L. A. PAQUETTE, W. E. FRISTAD, D. S. DIME 
+et T. R. BAILEY. J. Org. Chem. 45,3017 (1980); (f) F. T. BOND 
+et R. A. DIPIETRO. J. Org. Chem. 46, 1315 (1981); ( 8 ) R. 
+BAUDOUY, J. SARTORETTI et F. CHOPLIN. Tetrahedron, 39,3293 
+(1983); (h) K. KON et S. I s o ~. Helv. Chim. Acta, 66,755 (1983); 
+
+(i) J. C. CAILLE, F. BELLAMY et R. GUILARD. Tetrahedron Lett. 
+
+2345 (1 984). 
+3. M. F. LIITON et R. H. SHAPIRO. J. Org. Chem. 43, 1409 (1978). 
+4. N. J. CUSACK, C. B. REESE, A. C. RISIUS et B. ROOZPEIKAR. 
+Tetrahedron, 32, 2157 (1976). 
+5. W. G. DAUBEN, M. E. LORBER, N. D. VIETMEYER, R. H. 
+SHAPIRO, J. H. DUNCAN et K. TOMER. J. Am. Chem. Soc. 90, 
+4762 (1968). 
+6. W. G. DAUBEN, G. T. RIVERS et W. T. ZIMMERMAN. J. Am. 
+Chem. Soc. 99, 3414 (1977). 
+7. J. C. CAILLE et R. GUILARD. Tetrahedron Lett. 2771 (1984). 
+
+8. P. C. TRAAS, H. BOELENS et H. J. TAKKEN. Tetrahedron Lett. 
+
+2287 (1976). 
+9. T. H. JONES, M. S. BLUM et H. M. FALES. Tetrahedron Lett. 1701 
+(1 980). 
+10. K. KONDO et M. MATSUMOTO. Tetrahedron Lett. 391 (1976). 
+11. A. F. THOMAS. Dans The total synthesis of natural products. Vol. 
+
+2. Editeur : J. ApSimon. Wiley -Interscience, New York. 1973. 
+
+p. 62. 
+12. C. E. SACKS et P. L. FUCHS. Synthesis, 456 (1976). 
+13. A. R. CHAMBERLIN et F. T. BOND. Synthesis, 44 (1979). 
+14. C. A. BUNNELL et P. L. FUCHS. J. Am. Chem. Soc. 99, 5184 
+(1 977). 
+
+15. J. M. CONIA et J. P. SANDRB. Bull. Soc. Chim. Fr. 744 (1963). 
+
+16. R. CORNUBERT et C. BORREL. Bull. Soc. Chim. Fr. 301 (1930). 
+17. J. T. SHARP, R. H. FINDLAY et P. B. THOROGOOD. J. Chem. Soc. 
+Perkin Trans. 1, 102 (1975). 
+
+Can. J. Chem. Downloaded from www.nrcresearchpress.com by 87.160.185.190 on 03/27/14 
+
+For personal use only. 
+
+
+
+	
+

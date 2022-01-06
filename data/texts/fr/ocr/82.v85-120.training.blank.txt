@@ -1,0 +1,1246 @@
+
+	
+
+		
+
+	
+
+	
+
+Deprotonation de N-oxydes d'amines aliphatiques: schema reactionnel general et 
+nouvelle synthese de pyrrolidines 
+
+RENE BEUGELMANS, LETLA BENADJILA-IGUERTSIRA, JACQUELINE CHASTANET, GUILLERMO NEGRON 
+ET GEORGES ROUSSI' 
+Itzstitut de Chimie des Substatzces Naturelles, C.N.R.S., 91 190 GiJ-sur-Yvette, France 
+Requ le 25 janvier 1984 
+Ce metnoire est didie' au Professeur Paul cle Mayo ci 1'occa.sion de sotz 6 0 anniversaire 
+
+RENE BEUGELMANS, LEILA BENADJILA-IGUERTSIRA, JACQUELINE CHASTANET, GUILLERMO NEGRON et GEORGES ROUSSI. 
+Can. J . Chem. 63, 725 (1985). 
+Sous I'action du diisopropyl amidure de lithium, les N-oxydes d'amines aliphatiques de structures diverses 1, 5, 10, 15, 21, 
+23 sont dCprotonts. La rnonodCprotonation livre des arnines secondaires et du benzaldkhyde risultant de I'hydrolyse d'un 
+imoniurn (I), ou des hydroxylarnines issues d'un rearrangement de type Stevens observe pour la premiere fois a partir d'un 
+N-oxyde. La double deprotonation livre un intermediaire ylure d'irnoniurn (Y) pouvant Cvoluer en fonction de la structure de 
+l'arnine tertiaire initiale soit vers des piptrazines "tete-t&amp;te" (cornporternent de radical double (DD)), soit vers des aziridines. 
+L'ylure d'irnoniurn (Y5) dCrivant du N-oxyde de trirnethylarnine dont la formation et la rCactivitC sont decrites pour la premiere 
+fois posskde la proprittC rernarquable d'entrer dans des rCactions de cycloaddition avec des olefines non activtes, perrnettant 
+ainsi une synthkse originale et efficace de pyrrolidines diverses. 
+
+RENE BEUGELMANS, LEYLA BENADJILA-IGUERTSIRA, JACQUELINE CHASTANET, GUILLERMO NEGRON, and GEORGES ROUSSI. 
+Can. J. Chern. 63, 725 (1985). 
+Amine oxides, 1, 5, 10, 15, 21, 23, when treated by lithium diisopropylarnide undergo deprotonation. Monodeprotonation 
+gives rise either to secondary arnines and benzaldehyde resulting from the hydrolysis of an intermediate irnrnoniurn (I) or to 
+hydroxylarnines via a Stevens-like rearrangement observed for the first time on an arnine oxide. Double deprotonation gives 
+an immoniurn ylid (Y) which, depending upon the structure of the initial tertiary arnine yields either "head to head" piperazines 
+(biradical-like behavior of (DD)) or aziridines. The immoniurn ylid (Y5) derived from trirnethylarnine oxide, whose formation 
+and reactivity are reported for the first time, has the remarkable property of undergoing cycloaddition reactions with unactivated 
+olefins, leading to a new and efficient synthesis of various pyrrolidines. 
+
+La dCprotonation des arnrnoniums quaternaires est une pro-
+priCtC bien connue (RCactions d e Stevens, d e SommeIet-
+Hauser), rnais celle des N-oxydes d'arnines aliphatiques ter-
+tiaires, structuralernent proches restait inexplorCe.' Cette 
+constation fut a I'origine d e I'Ctude systematique (2) prCsentCe 
+
+ici, dont quelques resultats prkliminaires furent publiCs (3, 4). 
+
+Resultats 
+Le N-oxyde de benzyldirnCthylarnine 1, en prCsence d'un 
+Cquivalent d e BuLi conduit au benzaldkhyde 2, a la benzyla-
+
+mine 3 et au melange d e pipCrazines cis + trans 4 (15%). Le 
+
+rendernent en pipCrazine 4 atteint 30% en prCsence d e 2 Cquiva-
+
+lents ou plus de cette base. La nature de la base est irnportante 
+et nous avons constat6 que seules les bases lithikes RLi (R = 
+CH7, n-Bu, r-Bu, Ph, NH2, N(Etl2, N(i-prop)?, tetrarnCthyl-
+piperidine) sont actives et que, parrni elles, le diisopropyl 
+arnidure d e lithium (DAL) a permis le rendement en piperazine 
+
+4 le plus ClevC (61%), dans des conditions reproductibles 
+
+(exp. 1). 
+
+C'est donc cette base qui a CtC utilisee pour traiter les N-
+
+oxydes benzyliques 1, 5, 10 (tableau 1). 
+Le N-oxyde 5 livre une hydroxylarnine 7 (exp. 3) qui ne se 
+forrne pas 2 partir d e 1 tandis que la quantitC de piperazine 
+
+dCcroit. cornparativement a l'exp. 1. Cette tendance est plus 
+
+accentuCe pour le N-oxyde 10 dont la rCaction ne livre plus d e 
+pipirazine, l'hydroxylarnine 13 Ctant le produit rnajoritaire 
+
+(exp. 5). Selon une publication rkcente, due 2.H. Takayarna et 
+T. Nornoto (5) qui ont CtudiC la reactivitk d e N-oxydes tri-
+benzyliques diffCremrnent substituCs en prCsence d e DAL, les 
+aziridines seraient les seuls produits forrnCs ii 0°C. En parti-
+culier, les auteurs rapportent la formation d e 14 (41%) 9 partir 
+d e 10. Nous avons donc pratiqut les expCriences no 2, 4 et 6 
+dans le but d'exarniner la rkactivitC de 1, 5, 10 a 0°C. Pour le 
+N-oxyde 1, nous n'avons pas constat6 de diffkrence significa-
+tive entre les expiriences no 1 et 2. Par contre, I'aziridine 9 est 
+forrnCe a partir de 5 trait6 a 0°C (exp. 4), alors qu'elle ne I'Ctait 
+pas a -78°C (exp. 3). En ce qui concerne la rCactivitC d e 10 B 
+0°C (exp. 6), nous avons bien retrouve 14, avec le rendement 
+
+CH3 
+CH3 
+
+C H 3 
+/ C H 3 
+
+I CbH5 
+I 
+
+I 
+
+CbH5 
+GHS-CH2-N-CH3 
+
+C6H5-CHO + C6HS-CH2-N 
+1 
+
+0 
+
+' H + (Z)=CbH5 I 
+
+(El ' 
+
+I " t 6 ~' 
+
+1 
+2 
+3 
+
+CH3 
+CH3 
+
+cis 
+
+trans 
+
+'Auteur a qui toute correspondance doit &amp;tre adresste. 
+' ~n e breve revue rCcente de la rtactivitk des N-oxydes est contenue dans la ref. I . 
+Can. J. Chem. Downloaded from www.nrcresearchpress.com by 87.160.185.190 on 03/27/14 
+
+For personal use only. 
+
+
+CAN. J. CHEM. VOL. 63, 1985 
+
+TABLEAU I . RCactivitC des N-oxydes benzyliques 1, 5, 10 en prCsence de DAL 
+
+Produit de dCpart 
+Produits obtenus 
+
+R3 
+
+R3 
+R3 
+
+I 
+
+R3 
+
+I 
+I 
+
+I 
+
+R'CH~-N-CH~R~ 
+R~CHO R~CH~-N-H 
+R1CH-N/R3 
+
+cx: 6 
+
+ExpCrience 
+
+I 
+
+0-
+
+CH2-R2 I 
+
+' OH 
+
+1 
+
+CsHs C ~H S 
+
+n" 
+
+R3 
+
+"I = -78°C. 
+"Produit pur (cpg ou cm) dont la structure est prouvte par des mtthodes spectrales, mais obtenu en quantiti trop faible pour qu'un rendement 
+significatif puisse &amp;tre indiqut. 
+' Rendement dttermint par peste du produit isolt et pur. 
+
+"I = 0°C. 
+
+"ldentifit par comparaison avec un tchantillon authentique. 
+
+TABLEAU 2. RCactivitC de N-oxydes dCrivCs de la dimkthylaniline et de la trimkthylamine i -78°C 
+
+Produit de dCpart 
+Produits obtenus 
+
+R3 
+R3 
+
+R3 
+R3 
+
+1 
+1 
+
+I 
+I 
+
+R1CH2-~-CH2~2 
+R1CH2NHR3 R1CH2-N-CH2R4 
+
+( NN) aRS 
+
+Exp6rience 
+no 
+
+I 
+
+0-
+
+I 
+
+R3 
+
+"I-BuLi. 
+"Produit pur (cpg ou cm, dont la structure est prouvte par des mtthodes spectrales, mais obtenu en quantitt trop faible pour qu'un 
+rendement significatif soit indiqut. 
+' 17, 18 et 16 sont dans le rapport 7,2: 1.7: 1 (cpg). 
+"Avec barbottage d'tthyltne. 
+"17, 18 et 16 sont dans le rapport 3,6:0,85: 1 (cpg). 
+'11-BuLi. 
+'lhalut par cpg. 
+"Rtaction en prtsence de I'hextne. 
+'DAL. 
+'Peste de picrate. 
+'Reaction effectute en presence de styrkne. 
+'Peste du produit purifit. 
+
+annonck par Takayama et Nomoto, mais de plus, nous avons 
+is016 la dibenzylamine 12 (12%) et I'hydroxylamine 13 (20%). 
+C'est pour 10 que le contraste est le plus net puisqu'a 0°C 
+(exp. 6) I'aziridine 14 est le produit majoritaire tandis que les 
+quantitks d'hydroxylamine 13 et de dibenzylamine 12 sont 
+rkduites de plus de la moitik par rapport a l'expkrience 5. Le 
+benzaldkhyde 2 est toujours present, en quantitks plus notables 
+2 0°C qu'a -78°C. 
+Le N-oxyde de dimkthylaniline 15 trait6 par le t-BuLi prk-
+sente une rkactivitk diffkrente de celle des N-oxydes benzyli-
+ques puisque les produits obtenus (exp. 7) (tableau 2) sont la 
+N-mkthylaniline 16, I'amine tertiaire 17, la phCnyl-1-
+
+pyrrolidine 18. Le t-BuLi est manifestement la source des 4 
+atomes de carbone fixks sur 17 et par ailleurs, la formation de 
+la pyrrolidine 18 implique la fixation de 2 atomes de carbone 
+sur 15. Or, le t-BuLi est une base suffisamment puissante pour 
+dkcomposer le tktrahydrofuranne et donner de I'Cthylkne (6), 
+source des deux atomes de carbone requis pour la formation de 
+18. Un barbottage d'kthylkne (exp. 8) provoque le doublement 
+de la quantitk de pyrrolidine et vient appuyer cette hypothkse. 
+L'obtention de butyl-3 pyrrolidine 20 en prksence de I'hexkne-
+1 (exp. 9) confirme bien que les 2 atomes de carbone nkces-
+saires 2 la formation des pyrrolidines 18 ou 19 proviennent d'un 
+enchainement -CH=CH-. 
+Le N-oxyde de mksidine 21 
+Can. J. Chem. Downloaded from www.nrcresearchpress.com by 87.160.185.190 on 03/27/14 
+
+For personal use only. 
+
+
+BEUGELMANS ET AL 
+
+-
+
+RLi 
+
+QH I "R-
+
+OLi 
+
+Q-I 
+
+OLi 
+
+R3 
+R3 
+R3 
+R3 
+
+I 
+
++ 1 
+
++I 
+I 
+
+R ~C H ~N -C H ~R ~ 
+
+-R'-cH-N-CH~R~ 4 R'-cH=N-CH~R~ " R'-CH-N-CH~R~ 
+
+1 
+
+R4L1 
+
+0 
+
+l S I 
+
+,H 
+OLi 
+-0Li 
+
+I 
+
+OLi 
+
+SCHEMA 2. Produits derivCs de I'imonium (I). 
+
+TABLEAU 3. Fonctionnalisation a et a,a' des N-oxydes 
+
+I 
+
+RICH?-N-CH~R' 
+
+Fonctionnalisation a 
+Fonctionnalisation a,a' 
+
+I 
+
+0-
+
+Benzaldehyde Amines Hydroxylamines PipCrazines Aziridines Pyrrolidines 
+
+comporte un cycle benzknique stkriquement encombrC sur les 
+positions 2 et 6, et ne donne lieu qu'a la formation du produit 
+22. Le N-oxyde de trimithylamine 23 livre la pipCrazine 24 
+(exp. 11) et la pyrrolidine 25 en prCsence de styrkne (exp. 12). 
+
+Discussion 
+La formation des produits obtenus 2 partir des N-oxydes 1, 
+5, 10, 15, 21, 23 implique la dCprotonation d'un ou de deux 
+carbones adjacent(s) 2 la fonction N-oxyde (tableau 3). 
+
+Monodeprotonation 
+Le premier cas clairement dCfini de rCactivitC anionique du 
+carbone situC en a de la fonction N-oxyde est celui rapport6 par 
+nous en 1977, qui concerne le N-oxyde de quinuclidine (7). 
+La structure des amines tertiaires d'ou dCrivent les N-oxydes 
+1, 5, 10, 15, 21 et 23 permet contrairement a celle de la 
+
++ 
+
+quinuclidine ]'existence d'une liaison imonium C=N= attes-
+tCe par I'obtention de produits d'hydrolyse et d'attaque par un 
+rCactif nuclCophile. En effet, l'intermkdiaire formulC soit par 
+(1)' OLi (sel d'imonium) soit par (1') (amino alcoolate de Li) 
+est hydrolysC en aldehyde R'-CHO et en amine secondaire 
+HN (R')-CH,R2, tout comrne dans les cas ou il a Ct C engendri 
+2 partir de la N-dimCthylbenzylarnine par d'autres voies 
+(oxydation chimique ou Clectrochimique de l'arnine, rCduction 
+ou dCcomposition catalysCe par les mCtaux, du N-oxyde') 
+(schema 2). 
+L'imonium (1) est Cgalernent form6 en sCrie aniline et est 
+caractCrisC non seulement par I'obtention de I'amine secondaire 
+
+'Une discussion de ces rCactions est donnCe dans une revue rCcente 
+
+(8). 
+
+Can. J. Chem. Downloaded from www.nrcresearchpress.com by 87.160.185.190 on 03/27/14 
+
+For personal use only. 
+
+
+CAN. J. CHEM. VOL. 61. 1085 
+
+R3 
+R3 
+'CH2R2 
+CH2R2 
+
+I 
+
+-
+
++I 
+
+R'-CH2-N-CH2R2 
+R1-CH-N-CH2R2 
+-+ R 1 -e ~-N 
+
+I 
+
+/CH3 
+
++ RI-CH-N 
+
+1 
+
+0 
+
+I 
+
+OLi 
+' OH 
+7 
+5 R' = R G CH5; R' = CH, 
+13 
+LO R' = R' = C,H5; R' = CH,C6H5 
+
+SCHEMA 3. Formation des hydroxylamines. 
+
+1 -+ (11) R1 = C6H5; R 2 = R 3 = H -(Y1) + t (Dl) -(DDI) -4 
+5 + (12) R1 = R2 = C6H5; R3 = H -(Y2) 
+
+(D2) -(DD2) -8 
+
+10 + (13) R1 = R2 = R3 = C6H5 -(Y3) -(D3) 
+
+SCHEMA 4. Formation des pipkrazines t&amp;te-t&amp;te. 
+
+16 provenant de l'hydrolyse, mais aussi par celle des amines 
+tertiaires 17 et 19 rCsultant de I'attaque nucleophile de t-C4H9-
+
++ 
+
+ou n-C4H9-sur C6HS-N(CH?)=CH,. 
+Le rkarrangement en hydrolyxamines 7 (a partir de 5) et 13 
+(a partir de 10) observC pour la premiere fois sur des N-oxydes 
+
+serait dC 2 un mCcanisme radicalaire analogue a celui interve-
+
+nant sur les sels d'ammonium quaternaires soumis 2 l'action 
+des bases (RCaction de Stevens) (9, 10). 
+Parmi les N-oxydes Ctudits ici, seuls 5 et 10 engendrent des 
+
+anions pouvant subir la rupture homolytique nkcessaire, avec 
+formation de .CH2C6H, (schCma 3). 
+Dans le cas du N-oxyde 10, le processus radicalaire menant 
+a I'hydroxylamine est plus efficace a -78°C qu'ii O°C, ce qui 
+indique qu'il y a compCtition entre la migration du radical 
+CH2C6H, et la seconde dCprotonation discutCe plus loin. 
+
+Deprotonation double 
+Comme le montre 1e"tableau 3, la monodCprotonation des 
+N-oxydes qui est 2 I'origine de la formation de I'aldehyde, des 
+amines primaires et des hydroxylamines n'est pas elective, 
+puisque des pipkrazines, des aziridines, des pyrrolidines sont 
+formCes Cgalement, mCme dans les reactions effectuCes avec 
+un seul Cquivalent de base. Cette seconde serie de produits 
+a pour origine une entitC rkactionnelle intermediaire difotzc-
+tionnaliske. 
+La dCprotonation des sels d'imonium par les bases fortes a 
+dCj5 Ct C rapportCe dans des cas particuliers et les produits, 
+
+aziridines ( I I) ou pipkrazines (12) selon la structure des imo-
+
+niums initiaux, proviennent d'un ylure d'imonium qui a pu Ctre 
+piCgC par le norbornhe. Nous obtenons Cgalement des aziri-
+
+dines (9, 14) et des pipCrazines (4, 8) a partir des N-oxydes 
+
+benzyliques 5, 10, et de ceux dCrivCes de I'aniline 21 ou de la 
+trimkthylamine 23. De plus, les pyrrolidines 18, 20, 25, sont 
+formCes en prCsence d'une olCfine. L'origine de tous ces pro-
+
+duits peut Ctre rationalisee en invoquant I'existence d'un ylure 
+d'imoniuni (Y) intermediaire form6 par dCprotonation de (I). 
+
+Formation des pipkrc~zines 
+Les pipkrazines obtenues par duplication d'ylures d'imo-
+nium engendrks selon diffCrentes voies possedent toutes une 
+structure "tCte-queue" (substituants en positions 2 et 5) 
+
+rCsultant d'une cycloaddition (3 + 3) (12-14). 
+
+Or, les pipkrazines 4 et 8 que nous obtenons a partir des 
+N-oxydes respectifs posskdent des structures "tCte-tCte" (subs-
+tituants en positions 2 et 3), excluant un couplage d'ylures (Y I ) 
+ou (Y2). Cependant, ces ylures sont isoClectroniques de diradi-
+caux (Dl) et (D2) o" le site benzylique (c,H,~H-N serait 
+stabilise par I'effet captodatif dCfini par H. Viehe et coll. (15). 
+Le radical mCthylenique N-CH; 
+plus rCactif rCagirait donc le 
+premier en se dupliquant, donnant ainsi un radical double 
+(DDI) (DD2) prCcurseur des pipCrazines "tCte-tCte" finales. 
+L'interconversion photochimique 4 cis + 4 trans par I'inter-
+mCdiaire d'un Ctat excite menant a un radical double fournit un 
+argument important en faveur de I'existence de (DDl) (16). 
+Selon cette hypothese, seuls les ylures d'imonium, gCnCrCs B 
+partir de N-oxydes d'aniines portant au moins un substituant 
+mCthyle, prkcurseur du radical tnkthylkze devraient donner des 
+pipkrazines, ce qui est vCrifiC. 
+
+Formation des azirillines 
+Nous avons vCrifit que I'aziridine 26 est stable dans les 
+conditions reactionnelles utilisCes pour le traitement du N-
+oxyde 5 et qu'elle n'est donc pas a l'origine de la pipkrazine 8. 
+L'espece monodCprotonCe (1) issue de 5 se dkprotonne une 
+
+seconde fois pour mener a (Y2) isoClectronique de (D2). Celle 
+
+issue de 13 subit a -78OC une rCaction compktitive menant a 
+I'hydroxylamine 13 (exp. 5), la seconde dCprotonation n'inter-
+venant qu'a tempkrature plus ClevCe (exp. 6). La gComCtrie cis 
+
+des phCnyles 2 et 3 portCs par les aziridines 9 et 14 est conforme 
+
+Can. J. Chem. Downloaded from www.nrcresearchpress.com by 87.160.185.190 on 03/27/14 
+
+For personal use only. 
+
+
+BEUGELMANS ET AL. 
+
+729 
+
+CH2R3 
+CH2R2 
+
++/ 
+
+I 
+
+R~CH=N \ -
+
+CHR3 
+R' 
+R2 
+
+(Y1) R ' = C HS; R 2 = ~3 = H -----jt---t 
+
+(Y2) R1 = R$ = C6H5; R3 = H -9 
+
+(Y3) R1 = R2 = R3 = C6HS 
+
+-14 
+
+SCHEMA 5. Formation des aziridines. 
+
+C H ~ \ /C=C, / 
+
+R-N + / 
+
+-R-~3 
+
+'CHI 
+
+SCHEMA 6. Formation des pyrrolidines. 
+
+SCHEMA 7. RtactivitC de (Y5) vis-h-vis d'olCfines simples. 
+
+a celle attendue pour la cyclisation conrotatoire d'un intermC-
+diaire ionique (Y2) ou (Y3) de conformation trans. 
+Formation des pyrrolidines 
+La dCprotonation de I'irnoniurn provenant du N-oxyde 15 
+livre un ylure (Y4), suffisamment rCactif pour s'additionner i 
+des olCfines simples (ethylene ou hexene-I). L'ylure d'imo-
+nium (Y5) est form6 a partir du N-oxyde 23, sans que I'exis-
+tence d'un intermkdiaire imoniurn soit CtayCe comrne prCcC-
+demment par l'obtentionde'l'amine secondaire HN(CH-()? que 
+nous avons recherchte sans succes. Ceci laisse penser que, en 
+I'absence d'un substituant phCnyle port6 sur le carbone (N-
+oxydes 1 , 5, 10) ou sur I'azote (N-oxyde 15), I'irnonium initial 
+tres rCactif est dCprotonC (de manikre synchrone?) poufdonner 
+I'ylure (Y5). 
+Le styrkne ajoutC dans le milieu reactionnel ne se polymCrise 
+pas et livre 25 (50%), indiquant que I1interrnCdiaire n'est pas de 
+nature radicalaire. D'autre part, l'addition de (Y5) au cis ou au 
+trans stilbene livre la mCthyl-l diphCnyl-3,4 pyrrolidine cis 26 
+ou trans 27, en conformit6 avec le processus de cycloaddition 
+
+(3 + 2) (pour des revues rCcentes voir la rCf. 17) (schema 6). 
+
+En l'absence d'oltfine, le seul produit isolable4 a partir de 23 
+
+4La N-n~tthyl aziridine dont nous avons prepark un Cchantillon 
+au laboratoire n'a pas CtC trouvCe dans les produits issus de cette 
+exptrience. 
+
+est la pipkrazine 24, qui n'ktant pas substituke sur le cycle, ne 
+peut fournir d'indice quant a la nature de I'intermediaire mis en 
+jeu. 
+Parmi les divers produits rapportes dans le tableau 3, les plus 
+intkressants du point de vue de la synthese sont ceux resultant 
+de la double fonctionnalisation en a et a ' : piperazines, aziri-
+
+dines et pyrrolidines. La reaction de cycloaddition (3 + 2) entre 
+
+(Y5), premier tertne de la strie des ylures d'itnonium ne 
+portant aucun substituant et donc non stabilise et des dipo-
+larophiles non ou tres peu actives par des groupes attracteurs 
+d'klectrons est nouvelle et nous sernble Ctre susceptible de 
+dCveloppements synthktiques importants dont nous prisentons 
+ici quelques CICments. 
+Rtactivite' cle (Y5) vis-ci-vis d'ol{fines sitnples 
+La rtactivitk de (Y5) est importante puisqu'il entre, a basse 
+temperature, dans des rCactions de cycloaddition avec des ole-
+fines simples, ainsi qu'avec des cycloalcenes de taille variee:' 
+cyclopentene, cycloheptene, cyclooctene, pour donner les sys-
+temes hetCrobicycliques 28, 29, 30. 
+
+Re'activitk de (Y5) vis-ci-vis d'ol{fitzs ~fo~zctiotztzt~li.se'es 
+Les possibilites synthetiques de la cycloaddition de (Y5) sont 
+en fait plus vastes que celles montrees dans le schtma 7 puisque 
+la double liaison de I'alcool allylique ou celle de la cyclopente-
+none dont la fonction carbonyle est protCgCe, la subissent pour 
+donner 31 et 32. La double liaison de la 3-pipCridCine est moins 
+reactive et le rendement en systerne hetCrobicyclique 33 est 
+moindre. 
+Rtactivitt de (Y5) vis-ii-vis de diPnes 
+Les dienes conjuguis cyclooctadiene, diphenyl-1,4 buta-
+diene livrent des mklanges de produits resultant d'une cyclo-
+addition simple (34, 36) ou double (35, 37). Alors que 34 est 
+instable, la pyrrolidine insaturCe 36 isolCe et traitCe une se-
+conde fois avec le N-oxyde 23 livre la bipyrrolidine 37; aucun 
+produit resultant d'une cycloaddition en 1,4 sur le systeme 
+diCnique n'a Ct C obtenu. L'hexadikne-1,5 et I'hexadiene-1,5 
+3-01 se comportent de la m&amp;me rnanikre que les diknes conju-
+guCs, c'est-a-dire qu'ils subissent une ou deux cycloadditions 
+
+avec (Y5) pour donner respectivement le melange 38 + 39 et 
+
+40. 
+Limites de la rtactiotz de cycloaddition 
+La rCaction s'avkre sensible a I'encombrernent stCrique du 
+
+dipolarophile comme nous I'avons observC a propos du com-
+
+portement de (Y5) vis-a-vis du methyl-l cyclopentene et de 
+I'alcool mCthyl-2-allylique contrastant avec I'addition facile 
+sur les homologues inferieurs. 
+Par ailleurs, (Y4) issu de 15 via (14) possede une rCactivitC 
+satisfaisante vis-a-vis de 1'Cthylene et de I'hexkne-I et en ce qui 
+concerne I'addition au norbornhe, une expCrience prClimi-
+naire conduit au produit attendu 41 dont la sttrCochimie n'a pas 
+Ct C deterrninke. 
+
+Conclusion 
+Les rksultats de ce travail permettent de proposer pour la 
+premiere fois un schCma rkactionnel rendant compte de I'en-
+semble des donnCes actuellernent connues concernant la rkacti-
+vitC des N-oxydes d'amines aliphatiques traites par les bases 
+fortes; ce schCma est susceptible, selon nous, de servir de fil 
+
+5 ~a faible rCactivitC du cyclohexkne est actuellement CtudiC plus en 
+dCtail au laboratoire, et peut, selon la remarque de I'un des rappor-
+teurs, avoir des implications concernant le mCcanisme rkactionnel rnis 
+en jeu. 
+Can. J. Chem. Downloaded from www.nrcresearchpress.com by 87.160.185.190 on 03/27/14 
+
+For personal use only. 
+
+
+CAN. J. CHEM. VOL. 63. 1985 
+
+33 
+
+SCHEMA 8. Rtactivitt de (Y5) vis-a-vis d'oltfins fonctionnalistes. 
+
+35 cis (7%) 
+34 (5%) 
+trans (18%) 
+
+SCHEMA 9. Rtactivitt de (Y5) vis-a-vis de diknes. 
+
+conducteur pour dkvelopper de nouvelles applications synthCti-
+ques. En ce qui concerne celles-ci notre mCthode de synthkse 
+de pyrrolidines substituCes en 3 ou disubstitukes en 3 et 4 
+complkte de manikre appreciable les methodes connues fondCes 
+sur diverses rCactions (18, 19) et particulierement sur la cyclo-
+
+addition (3 + 2) d'ylures dlazomCthines stabilists ( l 2 , 2 0 , 21), 
+
+masquCs (22) ou diversement protCgCs (23, 24) avec des 
+olefines qui dans tous les cas sont activCes (25). 
+
+Partie experimentale 
+
+L'analyse des mtlanges rtactionnels et la stparation des composts 
+
+ont t t C effectutes par chromatographie: en phase liquide sur colonne 
+
+d'alumine alcaline (AA), de Florisil 60 Mesh (F), ou de gel de silice 
+
+(S); sur couche mince de gel de silice Merck HF 254 + 366 neutre ou 
+
+alcaline (ccm). Les proportions des solvants d'tlution ont ttt expri-
+
+mtes en volume; en phase gazeuse (cpg) 8 I'aide d'un chromatographe 
+Girdel strie 300. Les analyses et dosages ont t t t rtalists sur une 
+
+Can. J. Chem. Downloaded from www.nrcresearchpress.com by 87.160.185.190 on 03/27/14 
+
+For personal use only. 
+
+
+BEUGELMANS ET AL. 
+
+73 1 
+
+colonne A: OVI 5% (phCnyl rnCthyl-silicone 300 x 0,3); B: OVI 10% 
+(300 x 0,3); C: Pennwalt 323 (28%, KOH 4%, 300 x 0,3); D: SE30 
+QFI 8% (300 x 0.3) ou E: Craig-Polyester 20% (300 x 0,3). 
+L'identification par cpg des produits obtenus a C t t effectuCe par corn-
+paraison de leur temps de rktention (tr) avec ceux des produits de 
+rCfCrence. -~-
+Les spectres infra-rouge (ir) ont CtC enregistrks sur un appareil 
+Perkin-Elmer 297, en utilisant le chloroforrne comrne solvant. Les 
+spectres ultra-violet (uv) ont C t t rCalisCs en solution dans le rntthanol, 
+h I'aide d'un spectrornktre Jobin-Yvon. Les spectres de rtsonance 
+rnagnktique nuclCaire du proton (rrnn) ont CtC enregistrks sur un appa-
+
+reil Perkin-Elmer R 12 a 60 MHz ou Bruker WM400 i 400 MHz. Le 
+
+chloroforrne deutCriC a CtC utilist cornrne solvant et le TMS cornrne 
+rCfCrence interne. Les spectres de rnasse (rns) ont kt6 enregistrCs sur 
+un spectrornktre AEI, MS 50 our sur un appareil couplt avec un 
+chrornatographe gc/rns Hewlett Packard 5992A. Les points de fusion 
+( F ) des cornposCs cristallisCs ont CtC rnesuris au banc Kofler ou sur un 
+appareil Biichi. 
+Les organolithiens utilisCs (n-BuLi dans I'hexane, PhLi dans I'Cther 
+ou t-BuLi dans le pentane) sont des prtparations cornrnerciales qui ont 
+
+ttt titrkes avant ernploi par une solution I M d'isobutanol dans le 
+
+-
+-
+
+tolukne en prCsence de phknantroline-I , 10. Le tktrahydrofuranne 
+(THF) employ6 a CtC trait6 par passage sur colonne d'alurnine alcaline 
+puis distill6 sur sodium en prksence de benzophknone, avant chaque 
+usage. 
+Toutes les olCfines et les diknes sont des produits cornrnerciaux ainsi 
+que le N-oxyde de trirnethylarnine qui a CtC utilisC soit aprks sCchage 
+prolong6 sous un vide pousst, soit aprks sublimation. 
+
+Pre'paration des N-oxydes 
+N-oxyde de dime'thylbenzylamine I 
+La dirnCthylbenzylarnine cornrnerciale (10 g, 66 rnrnol) dissoute 
+dans le rnkthanol distill6 (60 rnL) est traitCe pendant une nuit par 1 I0 
+rnL d'eau oxygCnCe h 110 volumes, selon la rnCthode de Cope et 
+Towle (26). L'excks d'eau oxygCnCe est dCtruit par du palladium sur 
+
+charbon activt a 10%. Un sCchage poussC a 60°C sous 
+
+Torr ( I 
+Torr = 133.3 Pa) livre le N-oxyde 1 (9,8 g, 65 rnrnol), Rdt = 98%; 
+F = 62°C (acttate d'Cthyle) (litt. (26) F = 64,5"-67°C); F picrate = 
+162°C (litt. (26) F = 158-160°C); ir V N -O : 975 crn-I; rmn: 3,l (s, 
+6H), 4.4 (s, 2H), 7,4-7,6 (rn, 5H). 
+N-oxyde de dibenzylmPthylamine 5 
+L'oxydation de la dibenzylrnCthylarnine (10 g, 44 rnrnol) dans les 
+conditions dCcrites ci-dessus, conduit aprks stchage prolong6 a 8 g 
+(35,2 rnrnol, 75%) de N-oxyde 5; F = 150°C (acCtate d'Cthyle) (litt. 
+(26) F = 150°C). 
+N-oxyde de tribenzylanlirle 10 
+L'oxydation de la tribenzylarnine (I0 g, 35 rnrnol) en solution dans 
+30 rnL de chloroforrne par I'acide m-chloroperbenzo'ique (12 g, 69 
+rnrnol) conduit aprks purification sur colonne AA (CHC13-MeOH 
+
+3: 1) a 10,3 g (33,9 rnrnol, 97%) de N-oxyde 10; F = 138°C 
+
+(hexane-acttone) (litt. (27) F = 133°C). 
+
+N-oxyde de dime'thylaniline 15 
+L'oxydation par I'eau oxygtnCe de la dimethylaniline cornrnerciale 
+
+(3 g, 24,7 rnrnol) conduit a 1,5 g ( I l rnrnol, 44%) de N-oxyde 15; F 
+
+= 150°C (rnCthanol) (litt. (27) F = 150°C). 
+N-oxyde de dime'thylmtsidine 21 
+La dirnCthylrnCsidine (2,89 g, 17,73 rnrnol) prCparCe par mithyla-
+tion de la rnCsidine par le sulfate de rnCthyle (28), et oxydCe par I'acide 
+m-chloroperbenzo'ique (2.93 g, 18,7 rnrnol), conduit aprks chrornato-
+graphie sur colonne AA au N-oxyde 21 (364 rng, 2,01 rnrnol), Rdt = 
+l I%, arnorphe; rrnn: 2,2 (s, 3H), 2,7 (s, 6H), 3.7 (s, 6H), 6,9 (s, 2H). 
+
+Action du DAL sur les N-oxydes benzyliques ci -78°C et a 0°C 
+
+ExpCrience type 
+Toutes les riactions sont effectuees sous azote. Le DAL ( 3 3 rnrnol) 
+
+en solution dans le THF est ajoutC a I'aide d'une seringue, a I rnrnol 
+
+de N-oxyde en suspension dans 25 rnL de THF 6 -78°C. L'Cvolution 
+de la rkaction est suivie par des prClkvernents analysts en ccrn 
+(MeOH/CH2C12 1 : 99). Aprks disparition du produit de dtpart (envi-
+ron 4 h) I'hydrolyse et I'extraction (CH2C12) conduisent un rntlange 
+qui est stpar6 par chrornatographie sur colonne. 
+A 0°C les conditions expCrirnentales sont identiques a celles dtcrites 
+
+dans le cas de rCactions effectuCes a -78°C. seuls les rapports des 
+
+concentrations N-oxydelbase changent ( 1 :3, 5 a -78°C; 1: 1,2 
+0°C). 
+
+Action du DAL sur le N-oxyde de dime'thylbenzylarnine I 
+(a) ExpCrience no I (-78°C) 
+Le N-oxyde 1 (306 rng, 2,02 rnrnol) trait6 dans les conditions 
+dCcrites ci-dessus, par le DAL (13.5 rnrnol) donne 310 rng de produit 
+brut qui est chrornatographit sur colonne AA. L'Clution (pentane) 
+livre des traces de benzaldkhyde identifiC par cpg et par ccrn analy-
+tique. L'Clution (pentane/chlorure de rnkthylkne: 90: 10) livre un rnC-
+lange de pipCrazines-2.3 diphknyl N,N-dirnethyl cis (4c) et trans (41) 
+dont I'analyse par cpg sur colonne A indique un rapport 4c/4t = 2.4 
+(tr 4t = 20 rnin; 4c = 28 rnin a 195°C sous 1 , 1 atrn) (I atrn = 101,3 
+kPa). La cpg prkparative sur colonne E perrnet d'obtenir 41 (25 rng) 
+
+et 4c (60 rng), identifiks a des Cchantillons authentiques. 
+
+PipCrazine 4 trans: F = 263°C (cyclohexane) (litt. (29) F = 
+263-264°C); rrnn: 2 (s, 6H), 2,5-3,l (systkrne AA'BB', 4H), 2,82 
+(s, 2H), 7-7,5 (rn, IOH arorn); "C: 4334 ( c , CI et C4), 54,78 (t, C5 
+et C6), 75,06 (d, C2 et C3), 128,16 (d, C3:" C4* et C5*), 130,69 (d, 
+C2* et C6*). 138,03 (s, CI*); srn mle: 266 (M+), 146, 118. 
+
+PipCrazine 4 cis: F = 90°C (cyclohexane) (non decrit dans la litt.); 
+rrnn: 2,l (s, 6H), 2,5-3,2 (systkrne AA'BB', 4H), 3,7 (s, 2H), 
+6,9-7,5 (rn, IOH, arorn); "c: 4334 (q, C1 et C4), 52,85 (t, C5 et 
+C6), 7 1,8 1 (d, C2 et C3), 127,12 (d, C4*), 127,4 (d, C3* et C5*), 
+130,6 (d, C2* et C6*), 136,9 (s, CI*); srn: identique a 4 trans. 
+
+SynthPse de 4c et 4b 
+SynthPse de la diphe'nyl-2,3 dihydro-5,6 pyrazine (a) 
+Le benzil (10 g, 47 rnrnol) est rnis a rkagir avec de I'Cthylknedi-
+arnine (2,8 g , 47 rnrnol) dans 250 rnL d'Cthanol distillC. Une recris-
+tallisation dans I'Cthanol livre a (9 g, 38 rnrnol), Rdt = 81%; F = 
+161°C (litt. (29) F = 161°C); rmn: 3,7 (s, 4H), 7,2-7,7 (rn, 10H 
+arorn). 
+Obtentiotz des diphe'nyl-2.3 pipe'razirles (b cis et b trans) 
+Le traiternent de a (3,5 g, 15 rnrnol) par le sodium (7 g, 300 rnrnol) 
+dans I'Cthanol a reflux livre, aprks une prernikre extraction des eaux 
+rnkres en milieu alcalin, le compost b (3 g, 13 rnrnol) sous forme de 
+rnClange d'isornkres b cis et b trans (Rdt = 85%). sCparCs par cristal-
+lisation des tartrates dont I'extraction en milieu alcalin conduit a b 
+trans (I g, 4,2 rnrnol) et b cis (1.8 g, 7,6 rnrnol). 
+CornposC b trans: F = 123°C (litt. (30) F = 123-124°C); rrnn: 
+
+Can. J. Chem. Downloaded from www.nrcresearchpress.com by 87.160.185.190 on 03/27/14 
+
+For personal use only. 
+
+
+732 
+
+CAN. J. CHEM. VOL. 6 3 . 1985 
+
+3,15 (s, 4H), 3,75 (s, 2H). 7.15 (s large, I CI H arom). 
+Compose b cis: F = 1 12°C (litt. (30) F = 108-109°C); rmn: 
+3-7-33 (systtmc AZA'?, 4H), 4.3 (s, 2H), 7-7,6 (m, IOH arom). 
+Un autre modc dc rdduction de n par I'hydrure dc lithlum et d'alu-
+minium dans I'Cther anhydre, pcrmct d'obtenir 11 cis ct 1 1 trnr~s avec un 
+rendement dc 37%. 
+Mtthylntior~ de b cis el b trans 
+L'action d'un excts d'iodure de methylc distill6 sur b trat1.s (0,5 g, 
+
+2,2 mmol) dans I'Cthanol B chaud livre 4 trans (0,55 g, 2 rnmol), Rdt 
+
+= 97%. cristallisant aprks chrornatographie sur colonne F (Clution: 
+Cther/pentane, 50:50 jusqu'i 70:30). Un traiternent analogue livre 4 
+
+cis (0.47 g, 1,7 mmol), Rdt = 84%, B partir de 1 1 cis (0.5 g, 2.2 
+mmol). Ces produits sont identiques (ir, mln) B ceux issus de la 
+
+rkaction du N-oxyde 1. 
+
+(b) Expe'riet~e 12" 2 (0°C) 
+
+Le N-oxyde 1 (906 mg, 6 mmol) trait6 par le DAL (7.2 mmol) livre 
+aprtts chromatographic sur colonne S (Clution: chlorure de 
+mCthylttne/hexane, 5 :95): (i) les pipkrazines 4c et 41 (530 rng, 1.99 
+mmol), Rdt = 66%, c/t = 1,4; (ii) le benzaldthyde 2 (60 mg, 0.56 
+mmol), Rdt = 9%; (iii) le N-oxyde 1 (Clution: mCthanol/chlorure de 
+rnCthylene, 3:97) (35 mg) contenant de 121 benzylmCthylamine 3. 
+
+Action rlu DAL srrr le N-oxyrie rle diber~z~~l~~~ttl~yln~ni~~e 5 
+(a) Experience 12" 3 (-78°C) 
+Le N-oxyde 5 (908 mg, 4 mmol) trait6 par le DAL (14 rnmol) livre 
+apres chrornatographie sur colonne S: (i) la pipkrazine 8 (229 mg, 
+0,55 mmol), CluCe par CHIClz/hexane, 5:95), Rdt = 27%, F = 
+185°C (CH2CI2/hcxane): rmn (400 MHz): 2.3 (d, 2H. J = 8 HZ) 
+2.7-2,9 (d, 2H, J = 8 Hzet d, 2H, J = 14 Hz), 3.35 (s, 2H), 
+3.6-3,s (d, 2H, J = 14 Hz), 7-7.3 (m, 20H arom); sm m/e: 417 
+
+(M' -I), 327, 210; srn (ionisation chimique): 419 (M + I)+. (ii) Le 
+
+composC 8. non dkcrit dans la IittCrature, est identique (ir, rmn) B un 
+
+Cchantillon de rCfCrence prCparC par le traitement de b trans avec le 
+
+bromurc de benzyle. (iii) L'hydroxylamine 7 (250 mg, I, I rnmol, 
+CluCe par McOH/CH2C12, 1 :99), F = 104-105°C (Cther), Rdt = 
+27%; ir vobl: 3580 cm-'; rrnn (400 MHz): 2,5 (s, 3H). 3 (2d, IH. 
+J = I Hz), 3,4-3,s (2H). 6.7-7,3 (m, IOH arom); ''C: 40,358 
+(t, C I ), 46,40 (q, C3). 76,62 (d, C2), 1253 (d, C4), 127,5 (d, C4), 
+127,9 (d, C3C5"), 128,2 (d, C5'"C3"), 128.7 (d, C2'C6'), 129,4 
+(d, C2"C6'"), 138.6 (s, Cl'), 139,4 (s, CI'$); sm rnle: 226 (M+ -I), 
+18 1, 136, 1 18. At~nl. calc. pour Cl5Hl7NO: C 79-20, H 7,48, N 6,16, 
+0 7.04; tr: C 79.18, H 7.52, N 5,90, 0 7.45%. 
+(b) Exptrience n" 4 (0°C) 
+Le N-oxydc 5 (908 mg, 4 mmol) trait6 par le DAL (4,s rnmol) livre 
+aprtts chromatographie sur colonne F: (i) Ic benzaldChyde 2 (30 mg, 
+0.28 mrnol), Rdt = 7% (tlution: CH2C12/hexane, 30:70); (ii) la 
+pipCrazine 8 (260 mg, 0,62 mmol). Rdt = 31%, (Clution: CHrCII/ 
+hexane, 30:70); (iii) I'aziridine 9 (23 mg, 0.12 mmol), Rdt = 3% 
+(Clution: CHZ/CII 30:70); rmn: 2.7 (3H, s), 2,s (2H, s), 7,15 (]OH, 
+s Clargi); M+ 209, rn/e 194; (iv) I'hydroxylamine 7 (250 mg, l,l 
+mmol), Rdt = 27% (Clution: CHzC12/hexane, 5050); (v) la mithyl-
+benzylamine 6 (30 mg, 0.24 mmol), Rdt = 6% (Clution: CHICl2); (vi) 
+le N-oxyde 5 (90 mg, 0,4 mmol), Rdt = 10% (Clution: CHICI2/MeOH 
+90: 10). 
+
+Action du DAL srcr le N-o,~yde de triberlzylarnine I0 
+(a) Exptrierlce 11" 5 (-78°C) 
+Le N-oxyde 10 (909 mg, 3 mmol), trait6 par le DAL (10.5 mmol) 
+livrc aprks chromatographie sur colonne S: (i) I'hydroxylamine 13 
+(430 mg, 1,42 mmol), Rdt = 47% (Clution: CH2C12/hexane, 5050); 
+F = 115°C (CHrC12/hexane); ir: 3580 cm-' (OH); rmn (400 MHz): 
+
+3 (2d, 1H.J = 7 Hz), 3,6(2d, 2 H , J = 7Hz; I d , J = 13 Hz), 3,s 
+(d, IH, J = 13 HZ), 3,9 (2d. IH, J = 7 HZ), 6.9-7,4 (m, IOH); sm 
+m/e: 304 (M' -I), 196, 122, 106. At~nl. calc. pour C11H2,NO: C 
+83,13, H 6,98, N 4.62, 0 5,27: tr.: C 82,98, H 6-90, N 4.83, 0 
+5,21%; (ii) la dibenzylarninc 12 (109 mg, 0,86 mmol), Rdt = 29% 
+(Clution: CHICI2/hcxane, 30:70); (iii) Ic N-oxydc 10 (60 mg, 0,2 
+mmol), Rdt = 6% (elution: CH,CII/MeOH, 90: 10). 
+
+(b) E.rpirience t ~" 6 (0°C) 
+Le N-oxyde 10 (900 mg, 3 mmol) trait6 par le DAL (3,6 rnmol) livre 
+aprts chrornatographie sur colonne S: (i) I'aziridine 14 (350 mg, 1,22 
+mmol), Rdt = 42% (Clution: CHIC12/hcxane, 40:60); rmn identique 
+i celle dtcrite (5). (ii) I'hydroxylamine 13 (175 mg, 0,58 mmol), Rdt 
+= 20% (Clution: CHICII/hexane, 50:50); (iii) la dibenzylamine 12 
+(75 mg, 0,38 rnmol), Rdt = 12% (Clution: CH2CI,/MeOH, 99: 1); 
+(iv) le N-oxyde 10 (45 mg, 0,15 mmol), Rdt = 5% (Clution: 
+CH2C12/MeOH, 90: 10). 
+
+Actiorl du t-BttLi sur le N-o,ryrle de dir?~tth~~lar~iline 
+Exptrier~ce n" 7 
+Le N-oxyde 15 (1,25 g. 9 mmol) trait6 par le I-BuLi (30 mmol) en 
+solution dans le THF livre un mClange (0,600 g), analyst par cpg 
+(colonne A, t = 100°C). Trois composCs 17, 18 et 16 dans le rapport 
+7,2: 1.7: 1 sont identifiCs et la cpg prkparativc perrnet d'obtenir des 
+Cchantillons pour la spectioscopie dc masse. N-mCthyl aniline 16: 
+(cpg: (tr) = l l min), sm rn/e: 107 (M'). N-phCnylpyrrolidine 18: 
+(cpg: (tr) = 7 min), sm n~/e: 147 (M+) 119, 104, identique h un 
+Cchantillon de rCfCrence prCpare selon la IittCraturc (31). N-mtthyl 
+N-isopcntyl aniline 17: (cpg: (tr) = 4.8 min) sm rn/e: 177 (M') 162, 
+120. 
+
+Renctior~ de 15 en prtsence rl'tthylene 
+Exptrier~ce 12" 8 
+De I'Cthylttnc est mis a barboter i -78°C dans unc solution de 15 
+(400 mg, 2,9 mmol) dans le THF. Le traitemcnt par le t-BuLi (3.9 mL, 
+
+6 mmol) conduit B un mClange (0.2 g) analyst par comparaison (cpg, 
+
+colonne A, I four = 170°C) h un essai tCmoin ne contenant pas 
+d'kthylttne. Les calculs h partir des chromatogrammes montrent que la 
+quantitC de 18 est doublCe par rapport i I'expCriencc nu 7. 
+
+Rtaction de 15 en prtsence rl'hexine-1 
+Exptrierlce 11" 9 
+
+De I'hexkne-l (500 mg, 6 mmol) est ajout6 B 15 (400 mg, 2,9 
+
+mmol) en solution dans le THF i -78°C. Le tout est trait6 par du 
+
+tl-BuLi (4.5 mL, 7.3 rnmol) puis hydrolysC B basse ternpkrature. Unc 
+
+premiere extraction (chlorure dc mkthylttne) suivie d'une deuxikme 
+extraction (butanol) livre 0,26 g d'un mClange chromatographi6 sur 
+colonne AA. L'Clution (pentanelether, 50:50) conduit h la N-methyl 
+N-penty l aniline 19, Rdt = 10% (cpg); sm m/e: 177 (M'), 120, (M' 
+
+-57, CAHe), 106; 1'6lution par I'Cther conduit B la N-phCnyl butyl-3 
+
+pyrrolidine 20, Rdt = 18% (cpg); rmn: 0.8-1,6 (m, 9H), 1,9-2,4 
+(m, 2H), 2,6-3 (rn, IH), 3,l-3,6(m, 4H), 6,5-7(m, 3H arom), 
+7-7.5 (m, 2H arom); sm m/e: 203 (M+), 119, 104. 
+
+Actiot~ du t-BuLi sur 21 
+Experience t i ' 10 
+Le N-oxyde dc dimCthylmCsidine 21 (181 mg, 1.52 mmol) en 
+solution dans 25 mL de THF trait6 h -78°C par 4 mmol de I-BuLi 
+pendant 30 min livrc aprtts chromatographie (colonne S) la pipkrazine 
+22 (54 mg, 0,17 mmol), Rdt = 22%. F = 190-191°C (EtOH) (litt. 
+(32) F = 190-191°C). 
+
+Action du DAL sur le N-oxyrle rle trirntthylnmir~e 23 
+Experience 71" I I 
+Le N-oxyde 23 (345 mg, 4,6 mmol) trait6 par Ic DAL (16 mmol) 
+
+i -7S°C, conduit aprtts hydrolyse et extraction au CHICII i un mi-
+
+lange brut (72 rng) qui, sous I'action d'une solution alcoolique saturCe 
+d'acide picriquc, donne le dipicrate de dimCthylpipCrazinc 24 (86 mg, 
+0,26 mmol), Rdt = l2%, F = 277°C (EtOH). Une solution aqueuse 
+de soude 10% libttre la piperazinc 23 identique (cpg, rmn) au produit 
+commercial. 
+
+Can. J. Chem. Downloaded from www.nrcresearchpress.com by 87.160.185.190 on 03/27/14 
+
+For personal use only. 
+
+
+BEUGELMANS ET AL. 
+
+733 
+
+Methyl-1 phdtyl-3 pyrrolidine 25 
+ExpPrietlce 1," 12 
+Le N-oxyde de trimkthylamine 23 (9 1 mg, 1,2 1 mmol) ct du styrkne 
+(138 mg, 1,33 mmol) en solution dans 25 mL de THF trait6 5 -78OC 
+par le DAL (4,2 mmol), conduit la pyrrolidine 25 ( I l l mg, 0,60 
+mrnol), Rdt = 50%. Picrate: F = 158-160°C (EtOH) (litt. (33) F = 
+155-158°C). 
+
+Methyl-1 diphinyl-3,4 pyrrolidine cis 26 
+Le N-oxyde de trimethylamine 23 (85 mg, 1,13 mmol) et le cis 
+stilbkne (21 1 mg, 1,17 mmol) en solution dans 25 mL de THF trait6 
+
+a -78°C par le DAL (3.9 rnmol) livre la pyrrolidine 26 ( I 65 mg, 0.70 
+
+mmol), Rdt = 62%; F = 67-69°C (EtOH); rmn: 2,55 (s, 3H), 
+2,93-3,33 (m, 4H), 2,73-4.0 (m, 2H), 7.1 (s Clargi, IOH); sm tnle: 
+237 (M'), 180, 57. Anal. calc. pour CI7HION: C 86.00, H 8,07, N 
+5,93; tr.: C 85,86, H 8,08, N 5,94%. 
+
+Methyl-1 diphe'nyl-3,4 pyrrolidirle trans 27 
+Le N-oxyde de trimkthylamine 23 (106 mg, 1,42 mmol) et le trans 
+stilbkne (295 mg, 1,55 mmol) en solution dans 25 mL de THF trait6 
+a -78°C par le DAL (4.9 mmol), livre la pyrrolidine 27 (241 mg, l,Ol 
+mmol), Rdt = 72%; rrnn: 2,45 (s, 3H), 2,7-3,8 (m, 6H), 7,2 (s 
+tlargi, IOH). sm rn/e: 237 (M'), 180, 57. Picrate: F = 186-187°C 
+(EtOH). Anal. calc. pour Cz3H22N40x: C 59,22, H 4,75, N 12,02, 0 
+24,Ol; tr.: C 58,97, H 4,72, N 12,00, 0 23,73%. 
+
+Mtfhyl-3 aza-3 bicyclo[3.3.0]ocfane 28 
+Le N-oxyde de trimkthylamine 23 (92 mg, 1,23 mmol) et du cyclo-
+pentkne (92 mg, 1.35 mmol) en solution dans 25 mL de THF trait6 
+-78°C par le DAL (4,4 mmol) conduit a la pyrrolidine 28 (34) (65 
+mg, 0,52 mmol), Rdt = 42%; rmn: 1,3-1,8 (m, 6H), 1.8-2,3 (m, 
+2H), 2,3 (s, 3H), 2,4-2,9 (rn, 4H); sm m/r: 237 (M+). Picrate: F = 
+203 -205°C (EtOH). 
+
+MPthyl-3 aza-3 bicyclo[5.3.0]dPcane 29 
+Le N-oxyde de trimkthylamine 23 (161 mg, 2,14 mmol) et du 
+cycloheptkne (235 mg, 2,35 mmol) en solution dans 25 mL de THF 
+
+trait6 i -78°C par le DAL (5,5 mmol) conduit h la pyrrolidine 31 (201 
+
+mg, 1,31 mmol), Rdt = 61%; rmn: 1-2 (m, 12H), 2-2,6 (m + Is, 
+
+5H), 2,6-3 (m, 2H); sm mle: 153 (M+), 57. Picrate: F = 238-240°C 
+(EtOH). Anal. calc. pour C16Hz2N407: C 50,25, H 5,80, N 14,66, 0 
+29,29; tr.: C 50,37, H 5,87, N 14,64, 0 29,32%. 
+
+Me'thyl-3 bicyclo[6.3.O]unde'cme 30 
+Le N-oxyde de trimCthylamine 23 (80 mg, 1,06 mmol) et du cy-
+clooctkne (129 mg, 1,16 mmol) en solution dans 25 mL de THF trait6 
+
+a -78°C par le DAL (4,2 mmol) livre la pyrrolidine 30 (159 mg, 0,95 
+
+mmol), Rdt = 90%; rmn: 1 -1,2 (m, 14H), 1,9-2,4 (m, 3H), 2,25 
+(s, 3H), 2,8-3,2 (m, 2H); sm m/e: 167 (M'), 57. Picrate: F = 
+218-219°C (EtOH); Anal. calc. pour C17H24N,07: C 51,51, H 6,lO, 
+N 14,14, 0 28,25; tr.: C 51,44, H 6,09, N 13,96, 0 28,14%. 
+
+Mdfhyl-1 me'fhanol-3 pyrroliditze 31 
+Le N-oxyde de trimkthylamine 23 (1 15 mg, 1,52 mmol) et du 
+propen-2 ol (192 mg; 1,67 mmol) en solution dans 25 mL de THF 
+
+trait6 B -78°C par le DAL (4,2 mmol) livre la pyrrolidine 31 (106 mg, 
+
+0,92 mmol), Rdt = 60%; rmn: 1-2 (m, 3H), 2-3 (m, 7H), 2,35 
+(s, 3H), 3,6 (d, 2H), 4,2 (s Clargi, IH); sm tn/e: 115 (M'), 57. 
+
+Me'fhyl-1 aza-1 (dioxolane-1,31-4 bicyclo[3.3.0]hrpfar1e 32 
+Le N-oxyde de trim6thylarnine 23 (96 mg, 1,24 mmol) et du dioxo-
+lane de la cyclopenten-2 one (17 1 mg, 1,36 mmol) en solution dans 
+25 mL de THF trait6 h -78°C par le DAL (4,3 mmol) livre la 
+pyrrolidine 32 (152 mg, 0,83 mmol), Rdt = 67%; rmn: 1.4-2,3 (m, 
+6H), 2,3 (s, 3H), 2,4-3 (m, 4H), 3,9 (s, 4H); sm m/e: 183 (M+), 99, 
+57. Picrate: F = 17 1 -172°C (EtOH). Anal. calc. pour C16H2,,N,0,,: 
+C 46,60, H 4,89, N 13,59, 0 34,92; tr.: C 46,10, H 4,86, N 13,43, 
+0 34,27%. 
+
+Dirntfhyl-3,8 diaza-3,8 bicyclo(4.3 .O]noncztze 33 
+Le N-oxyde de trimkthylamine 23 (281 mg, 3,75 mmol) et de la 
+mCthyl-l tetrahydro-1,2,3,6 pyridine (400 mg, 4,12 mmol) en solu-
+
+tion dans 25 mL de THF trait6 i -78'C par Ic DAL (13 mmol) livrc 
+un mClange de produits (209 mg) dont le spectre de massc indiquc 
+qu'il est constitu6 dc dirnkthylpipkrazine 24 (M' 114) ct de pyrro-
+lidine 33 (M' 154). 
+
+Mdthyl-1 aza-1 bicyclo[6.3.0.(3. 10)]~111elecet7e-4 34 ef clitne'fhyl-1,6 
+dicrztr-1,6 fricyclo[4.3.0.(3.10)(4.8j]~dfrcrcIece,le cis 35c el 
+trans 35 t 
+Le N-oxyde de trim6thylaminc 23 (415 mg, 5.53 nimol) et du 
+cyclooctadikne-1.3 (330 mg, 3,06 mmol) en solution dans 50 mL de 
+
+THF trait6 a -78°C par le DAL (19 mmol) livre un melange dont la 
+
+chromatographie sur colonne donnc la pyrrolidine instablc 34 (46 mg, 
+0,27 mmol), Rdt = 5%, la dipyrrolidine cis 35c (40 mg, 0.18 mmol), 
+Rdt = 7%, et la dipyrrolidine frt1n.s 35t (108 mg, 0,48 mmol), Rdt = 
+18%, sCpar6es sous forme de picrates: 
+34 (46 mg, 0,27 mmol) instable, Rdt = 5%; sm tt~/e: 165 (M'), 57. 
+35c (40 mg, 0,18 mmol), Rdt = 7%; rmn: I -1,8 (m, 8H), 1,8-2,7 
+(m, 8H), 2,45 (s, 6H), 2.7-33 (m, 4H); sm m/e: 222 (M'), 57. 
+Dipicrate: F = 178-180°C (EtOH). 
+351 (106 mg, 0,48 mmol), Rdt = 18%; rmn: 1-1,7 (m, 8H), 
+1,7-2,7 (m, 8H), 2.3 (s, 6H), 2,7-3,5 (m, 4H); sm tn/e: 22'2 (M+), 
+57. Dipicrate: F = 108-llO°C (EtOH). Atrrrl. calc. pour 
+C ~~H ~~N X O I ~: 
+C 45,88, H 4.74, N 16,46, O 32,91; tr.: C 45,71, H 
+4,76, N 16,28, 0 32,84%. 
+
+Me'thyl-1 phbnyl-3 (phet~yl-2' efhene-j'?l)-4 pyrrolidine 36 rf bis-
+(methyl-1 phdnyl-3 pyrolidit1e)-4,4 37 
+Le N-oxyde dc trimkthylamine 23 (243 mg, 3,34 mmol) ct du 
+1,4-diphinyl-I ,3-butadiknc (350 mg, 1.7 mmol) en solution dans 50 
+
+mL de THF trait6 B -78°C par le DAL ( I I mmol) conduit i un 
+
+m6lange dont la chromatographie sur colonne AA pcrmet de s6parer: 
+36 (327 mg, 1,22 mmol), Rdt = 38%; uv A ,,,.,,: 257 nm (E = 
+20 200), 285 nm (E = 800), 294 nm (E = 400); rmn: 2,4 (s, 3H), 
+2,5-3,2 (m, 6H), 6,3 (s Clargi, IH); 7,35 (s Clargi, I IH); sm tnlr: 
+263 (M'), 57. Picrate: F = 130-131°C (EtOH). AIINI. calc. pour 
+C2,Hz4N,07: C 60,97, H 4,91, N 11,38, 0 22,74; tr.: C 60.73, H 
+4,80, N 1 1,60, 0 22,66%. 
+37 (131 mg, 0,43 mmol), Rdt = 26%; rmn: 2.1 -3,2 (m, 9H), 2,4 
+(s, 3H), 7,25 (s Clargi, IOH); sm mlr: 320 (M'). Dipicratc: F = 
+240-242°C (EtOH). Anal. calc. pour C3,H,NxOl,: C 52,44, H 4,40, 
+N 14,39, 0 28,77; tr.: C 52,65, H 4.59, N 14,33, 0 28,52%. 
+Trait6 par un excks de N-oxyde de trirn6thylamine 23, la pyrrolidine 
+36 a conduit, quantitativement, en presence de DAL, au compos6 
+disubstituk 37. 
+
+MPft1yl-I(brcf2ne-2'yl)-3 pyrrolidine 38 ef bis(tne'fhy1-1 pyrro1idine)-3 
+ethane-1,2 39 
+Le N-oxyde de trimkthylamine 23 (216 mg, 2.88 mmol) et 
+I'hexadikne-1,5 ( 1 3 I mg, 1.60 mmol) en solution dans 50 mL de THF 
+
+trait6 a -78°C par le DAL (10.1 mmol) conduit, aprks chromatogra-
+
+phie (AA) a: 
+38 (28 mg, 0,20 mmol), Rdt = 7%; sm m/e: 139 (M+), 57. 
+39 (18 mg, 0,09 mmol), Rdt = 3%; rmn: 0,9-1.5 (m, 8H), 1,5-3 
+(m, IOH), 2,3 (s, 6H); sm m/r: 196 (M'), 57. 
+
+Methyl-l(b~rtc?t~e-2' yl 01-1 ')-3 pyrrolidine 40 
+Le N-oxyde de trimithylamine 23 (245 mg, 3.26 mmol) et 
+
+I'hexadikne-I ,5 01-3 ( 1 76 mg, 1,79 mmol) trait6s B -78°C par le DAL 
+
+(16,4 mmol) conduisent a la pyrrolidine 40 (170 mg, 1,09 mmol), Rdt 
+= 34%; ir: 3350, 1625,920 cm-I; rmn: 1-2 (m, 4H), 2-3 (m, 5H), 
+2.35 (s, 3H), 3,2-3,7 (m, IH), 4,5-6,2 (m, 3H); sm tn/e: 155 (M'), 
+57. 
+
+N-phPnyl-perhydro tne'fl~anoisoindole 41 
+Le N-oxyde de dimkthylaniline 15 (274 mg, 2 mmol) et du norbor-
+
+nkne (198 mg, 2 mmol) en solution dans 25 mL de THF trait6 a -78OC 
+
+par le DAL (4 mmol) pendant 30 min, conduit aprks chromatographie 
+
+(ccm) i la pyrrolidine 41 (29 mg, 0.13 mmol), Rdt = 7%; rmn: 
+I -1 , I 8 (m, 6H), 1,8-2.5 (m, 4H), 2.6-3,l (m, 2H), 3,1-3,7 (m, 
+2H), 6,2-6,8 (m, 3H), 6,8-7,5 (m, 2H); sm tn/e: 213 (M+), 119. 
+
+Can. J. Chem. Downloaded from www.nrcresearchpress.com by 87.160.185.190 on 03/27/14 
+
+For personal use only. 
+
+
+734 
+
+CAN. J. CHEM. VOL. 63, 1985 
+
+I. S. OAE et K. OGINO. Heterocycles, 6, 583 (1977); P. A. S. 
+SMITH. Dans Open chain nitrogen compounds: Vol. 2. ~enjami;, 
+New York. 1966. Chap 8. p. 21. 
+2. L. BENADJILA-IGUERTSIRA (1980); G. NEGRON (1983). Th&amp;ses de 
+spCcialitC, UniversitC de Paris-Sud, Orsay, France. 
+3. R. BEUGELMANS, L. BENADJILA-IGUERTSIRA et G. Rouss~. 
+J. Chem. Soc. Chem. Commun. 544 (1982). 
+4. R. BEUGELMANS, G. NEGRON et G. ROUSSI. J. Chem. Soc. 
+Chem. Commun. 31 (1983). 
+5. H. TAKAYAMA et T. NOMOTO. J. Chem. Soc. Chem. Commun. 
+408 (1982). 
+6. M. E. JUNG et R. B. BLUM. Tetrahedron Lett. 379 1 (1977). 
+7. D. H. R. BARTON, R. BEUGELMANS et R. N. YOUNG. NOUV. J. 
+Chim. 2, 363 (1977). 
+8. Y. L. CHOW, W. C. DANEN, S. F. NELSEN et D. H. ROSENBLAIT. 
+Chem. Rev. 243 (1978). 
+9. A. R. LEPLEY. J. Am. Chem. Soc. 91, 1237 (1969). 
+10. C. L. BUMGARDNER, H. B. HSU, F. AFGHAHI, W. L. ROBERTS et 
+S. T. PURRINGTON. J . Org. Chem. 44, 2348 (1979). 
+I I. J. A. DEYRUP et W. A. SZABO. J. Org. Chem. 40, 2048 (1975). 
+12. J. A. DEYRUP et G. S. KUTA. J. Org. Chem. 43, 501 (1978). 
+13. R. HUISGEN. J. Org. Chem. 33,2291 (1968) et r6fCrences citCes. 
+14. M. S. OUALI, M. VAULTIER et R. CARRIE. Bull. Soc. Chim. Fr. 
+633 (1979) et rCfCrences citCes. 
+15. L. STELLA, Z. JANOUSEK, R. MERENYI et H. G. VIEHE. Angew. 
+Chem. Int. Ed. Engl. 17, 691 (1978). 
+16. L. BENADJILA-IGUERTSIRA, J. CHASTANET et G. ROUSSI. Hetero-
+cycles, 19, 213 (1982). 
+
+17. R. HUISGEN. Angew. Chem. Int. Ed. Engl. 19, 497 (1980); 
+R. M. KELLOGG. Tetrahedron, Report n" 20, 32, 2165 (1976). 
+18. R. LIVINGSTON. Dans Rodd's chemistry of carbon compounds. 
+Vol. IV A. 26me Cd. EditP par S. Coffey. Elsevier, Amsterdam. 
+1973. p. 379. 
+19. J. BARLUENGA, C. NAJERA et M. Yus. J. Heterocycl. Chem. 18, 
+1297 (1981). 
+20. R. HUISGEN. Angew. Chem. Int. Ed. Engl. 2, 565 (1963). 
+21. M. VAULTIER, R. DANION-BOUGOT, D. DANION, J. HAMELIN et 
+R. CARRIE. J. Org. Chem. 40, 2990 (1975). 
+22. G. A. KRAUS et J. 0 . NAGY. Tetrahedron Lett. 22, 2727 (1981). 
+23. T. LIVINGHOUSE et R. SMITH. J. Chem. Soc. Chem. Comrnun. 
+210 (1983). 
+24. K. AKIWA et M. SEKIYA. Tetrahedron Lett. 23, 2589 (1982). 
+25. C. BIANCHI, C. DE MICHELI et R. GANDOLAHI. The chemistry of 
+double bonded functional groups. Suppl. A. Edit&amp; par S. Patai. 
+John Wiley and Sons, New York. 1977. 
+26. A. C. C o ~~e t 
+P. H. TOWLE. J. Am. Chem. Soc. 71,3423 (1949). 
+27. J. CYMERMAN CRAIG et K. K. PURUSHOTHAMAN. J. Org. Chern. 
+35, 1721 (1970). 
+28. C. E. INGHAM et G. C. HAMPSON. J. Chem. Soc. 981 (1939). 
+29. A. J. MASON. J. Chem. Soc. 55, 101 (1 889). 
+30. T. HAYASHI. Sci. Papers Inst. Phys. Chem. Res. 38,446 (1941). 
+31. J. VON BRAUN et G. LEMKE. Ber. 55, 3556 (1922). 
+32. A. LAITES et A. VERDIER. Bull. Soc. Chim. Fr. 2044 (1965). 
+33. F. BERGEL, N. C. HINDLEY, A. L. MORRISON et R. RINDER-
+KNECHT. J. Chem. SOC. 269 (1944). 
+34. R. GRIOT. Helv. Chim. Acta, 42, 67 (1959). 
+
+Can. J. Chem. Downloaded from www.nrcresearchpress.com by 87.160.185.190 on 03/27/14 
+
+For personal use only. 
+
+
+
+	
+

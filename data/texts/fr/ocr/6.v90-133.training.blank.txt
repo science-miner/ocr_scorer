@@ -1,0 +1,846 @@
+
+	
+
+		
+
+	
+
+	
+
+Nouvelle voie de synthese d'isoindolones et d'isoquinoleines 
+par condensation d'iminophosphoranes avec l'ortho-phtalaldehyde : 
+reactions, mecanismes et etude structurale 
+
+THIERRY AUBERT, MICHEL FARNIER ET ROGER GUILARD' 
+
+Laboratoire de synthkse et d'e'lectrosynthkse organorne'tallique associt au Centre national de la recherche scientijique 
+(Unite' associe'e 33), Faculte' des sciences Gabriel, 6, Boulevard Gabriel, 21100 Dijon, France 
+R e p le 13 mai 1989 
+
+THIERRY AUBERT, MICHEL FARNIER et ROGER GUILARD. Can. J. Chem. 68, 842 (1990). 
+Des isoindoline-ones-1 N-substitukes et des isoquinoltines 3-acyltes ont it&amp; synthttistes en une Ctape par condensation de 
+l'ortho-phtalaldthyde sur divers iminophosphoranes. Trois types de schtmas rkactionnels sont proposts, en fonction de la 
+nature de l'iminophosphorane et des conditions opkratoires. Tous les composts obtenus ont ttk pleinement caractkrisks, en 
+particulier par spectroscopic de rtsonance magnttique nuclkaire mono-et bi-dimensionnelle. 
+Mots cle's : isoindolones, isoquinolkines, iminophosphoranes. 
+
+THIERRY AUBERT, MICHEL FARNIER, and ROGER GUILARD. Can. J. Chem. 68, 842 (1990). 
+The condensation of various iminophosphoranes with o-phthalaldehyde led directly to N-substituted isoindoline-1-ones and 
+3-acylisoquinolines. 'Three different mechanisms, depending on the nature of the iminophosphorane and reaction conditions, 
+are proposed. All the compounds have been fully characterized, particularly by one-and two-dimensional nuclear magnetic 
+resonance spectroscopy. 
+Key words: isoindolones, isoquinolines, iminophosphoranes. 
+
+Introduction 
+Les iminophosphoranes, obtenus gCnCralement par action 
+d'un azide sur un composC trisubstitue du phosphore selon la 
+rkaction de Staudinger (pour une revue, voir ref. l ) , sont connus 
+pour rCagir avec la plupart des composes monocarbonylCs selon 
+la reaction d'aza-Wittig 1 (2-6). 
+En revanche, la rCactivitC d'iminophosphoranes vis-a-vis 
+de composes dicarbonyles n'a jusqu'alors pas Ct C exploree 
+
+systCmatiquement. Ainsi, mis B part quelques rkactions de 
+
+condensation ou l'une des deux fonctions du dCrivC dicarbonylC 
+n'a qu'un r61e secondaire et reste inchangCe aprks rkaction (7,8), 
+seules sont dCcrites dans la littCrature des condensations 
+de composCs dicarbonylCs avec des bis-iminophosphoranes 
+(9, 10). Ce type de rCaction ne fait donc pas apparaitre une 
+rtactivite nouvelle puisque chacune des fonctions iminophos-
+phoranes reagit selon le schCma 1. En revanche, Garcia et al. 
+(1 1) a signal6 recemment la condensation de monoiminophos-
+phoranes avec l'anhydride phtalique qui conduit directement B 
+des phtalimides. Ceci permettait d'envisager une rkaction de 
+cyclisation analogue au depart d'autres composCs dicarbonyles. 
+Dans le cadre des travaux rCalisCs au laboratoire sur I'intCrCt 
+des iminophosphoranes en synthkse hCtCrocyclique (12, 13), 
+nous avons donc entrepris 1'Ctude de la rCactivitC de synthons 
+porteurs d'une seule fonction iminophosphorane vis ii vis de 
+divers composCs dicarbonylCs. Dans une communication prC-
+liminaire (14), nous avons dCcrit les rCsultats obtenus lors de la 
+condensation sur l'ortho-phtalaldkhyde (OPTA) d'iminophos-
+phoranes comportant un groupe mCthylkne en a d'une fonction 
+cCtone. Afin de proposer un schtma riactionnel general en 
+fonction de la nature du synthon mis en jeu et des conditions 
+opCratoires, 1'OPTA a Ct C opposC a une sCrie beaucoup plus 
+large d'iminophosphoranes et nous reportons dans ce memoire 
+l'ensemble de nos rksultats. 
+
+Resultats et discussion 
+Comme la reaction de Staudinger (1) est quantitative, nous 
+avons rCalisC toutes les condensations au depart des azides en 
+
+1. Auteur i qui adresser toute correspondance. 
+
+Printed in Canada 1 Imprime au Canada 
+
+TABLEAU 1. Rendements des condensations d'iminophosphoranes 
+sur I'OPTA 
+
+R 
+Isoindolone 1 Isoindolone 2 Isoquinoltine 3 
+
+"En op6rant avec 1,s moles d'OPTA par mole d'iminophosphorane. 
+bTh = thi6nyl. 
+'Rtaction A temgrature ambiante. 
+dR6action A -20°C. 
+
+gCnCrant in situ les iminophosphoranes correspondants. Outre 
+la rapidit6 de la methode, ce procede presente l'avantage de ne 
+
+pas avoir a isoler les iminophosphoranes, composCs souvent 
+
+sensibles aux traces d'humiditk ou susceptibles de rkactions 
+d'autocondensation (15). Ainsi l'addition a temgrature arnbiante 
+d'une solution d'iminophosphorane dans le dichloromethane 
+$ une solution d'OPTA dans le mCme solvant conduit, avec 
+les rendements indiquCs dans le tableau 1, a un mClange des 
+isoindolones 1 et 2 ou uniquement aux isoquinolCines 3 selon la 
+nature de l'iminophosphorane (schCma 1). Dans le premier 
+cas, les isoindolones 1 sont obtenues majoritairement quand 
+1'OPTA et l'iminophosphorane sont utilisCs dans les proportions 
+stoechiomCtriques. Les proporti?ns peuvent Ctre inversCes en 
+operant avec un excks d'OPTA. A titre d'exemple, en utilisant 
+1,5 moles d'OPTA par mole d'iminophosphorane Ph-NPPh3, 
+nous avons isole les isoindolones l a et 2a avec des rendements 
+respectifs de 10 et 44%. Contrairement ii nos previsions, 
+en operant avec un plus large excks d'OPTA (2 Cquiv.), le 
+Can. J. Chem. Downloaded from www.nrcresearchpress.com by 87.160.185.190 on 03/27/14 
+
+For personal use only. 
+
+
+AUBERT ET AL. 
+
+rendement en 2a est sensiblement le mCme. De plus, il est alors 
+difficile d'isoler l'isoindolone l a en raison de la presence 
+d'OPTA qui n'a pas rCagi car ces deux composts sont de 
+polarit6 voisine. D'autre part, lorsqu'on inverse l'addition de 
+rkactifs (OPTA en dkfaut), le rendement en isoindolone 2a 
+diminue (10%) c o m e attendu, mais le rendement en l a reste 
+voisin de 20%. Par ailleurs, sauf dans le cas oh deux kquivalents 
+d'OPTA sont mis en jeu, ce rkactif est consommk entikrement 
+lors de la formation des isoindolones. Le bilan (isoindolone 
+
+1 + isoindolone 2 ) fait donc apparaitre une perte de masse de 
+
+35-70% selon les cas. Cette donnCe expkrimentale rCsulte pour 
+l'essentiel de la grande polarit6 des iminophosphoranes et des 
+
+dCrivCs qui peuvent Cventuellement se former lors de la rkaction. 
+En effet, l'iminophosphorane inaltCrC ou les intermkdiaires 
+iminiques ne peuvent pas Ctre sCparCs de l'oxyde de triphknyl-
+phosphine lui-mCme trks polaire. 
+Le mCcanisme que nous proposons pour expliquer la forma-
+tion des isoindolones l est reprksentC sur le schCma 2. Aprks 
+Climination d'oxyde de triphknylphosphine, une attaque nuclCo-
+phile de l'atome d'azote sur la deuxikme fonction aldthyde 
+suivie d'une migration d'un ion hydrure conduit aux isoindo-
+lones 1. I1 faut souligner que des migrations d'ions hydrure 
+sur des carbones de type iminique ont dCjh Ct C proposkes par 
+plusieurs auteurs (16, 17) et en particulier quelques exemples 
+Can. J. Chem. Downloaded from www.nrcresearchpress.com by 87.160.185.190 on 03/27/14 
+
+For personal use only. 
+
+
+CAN. 1. CHEM. VOL. 68, 1990 
+
+de migration 1-3 ont ete signales pour des systkmes cycliques 
+h cinq chainons (17-19). De plus, l'hypothkse d'une inter-
+vention d'un intermediaire iminique est fortement supportte 
+par l'obtention, au dtpart des iminophosphoranes cttoniques 
+RCOCH2NPPh3, de systkmes cycliques prtsentant le motif 
+iminique. 
+La formation des isoindolones 2 implique de plus la conden-
+sation d'une deuxikme moltcule d'OPTA qui s'effectue proba-
+blement sur l'intermtdiaire (C) (schtma 2) selon un mtcanisme 
+que nous n'avons pas tlucidC. En effet, il est peu probable que 
+cette condensation intewienne au niveau des intermtdiaires (A) 
+ou (B) car l'tlimination d'oxyde de triphenylphosphine et la 
+formation de la liaison C-N par attaque nucltophile de l'atome 
+d'azote sont a priori des rCactions plus rapides. Enfin, et de 
+manikre inattendue, nous n'avons pas obsewt la formation de 
+l'isoindolone 2a par chauffage h reflux prolong6 de l'isoindo-
+lone l a et de I'OPTA en excks (2 tquiv.) dans le dichloro-
+mithane. 
+Dans le cas de la formation des isoquinolCi'nes 3, en raison de 
+1'Cquilibre ctto-tnolique reprtsentt sur le schtma 3, la cyclisa-
+tion conduit h un systkme hydroxylt h six chainons qui subit 
+ensuite une rtaction de dtshydratation. Nous avons mis en 
+tvidence l'intewention d'un dtrivt hydroxylt c o m e entit6 
+intermtdiaire en op6rant au dtpart d'un iminophosphorane 
+porteur d'un seul hydrogkne mtthyltnique (schtma 4). Nous 
+avons alors obtenu majoritairement llisoquinolCine 4, l'ttape 
+finale du mtcanisme dtcrit dans le schtma 3 ttant bloquCe. 
+Conjointement au dCrivC 4, nous avons tgalement isolt une 
+faible proportion de l'isoindolone l g . Dans ce cas, il y a donc 
+compttition entre les deux centres nucltophiles, l'atome de 
+carbone a-Cnolique et l'atome d'azote iminique. Celle-ci 
+rtsulte vraisemblablement de la prtsence du groupe mCthyle 
+qui induit une diminution de la mobilitt de l'atome d'hydrogkne 
+mCthylCnique et dCfavorise donc la forme Cnolique. 
+
+Ar-CH 
+Ar-
+C H 
+
+Ajoutons que la condensation sur I'OPTA de l'iminophos-
+phorane Et02CCH2NPPh3 a conduit uniquement aux isoindo-
+lones l e et 2e bien que cet iminophosphorane prCsente 
+Cgalement un groupe mtthylkne en a d'une fonction carbonyle. 
+Ce rtsultat est en bon accord avec le micanisme proposC pour 
+les iminophosphoranes cttoniques (schtma 3). En effet, les 
+Cquilibres ctto-tnoliques n'intewiennent que rarement dans le 
+cas des fonctions ester et la cyclisation en isoquinoltines n'est 
+donc pas favoriste pour l'iminophosphorane Et02CCH2NPPh3. 
+Grigg et al. (20) a cependant montrt rtcemment que des imines 
+comportant une fonction ester en a de l'atome d'azote sont en 
+tquilibre avec une forme dipolaire grke h l'existence d'une 
+liaison hydrogkne intramoltculaire selon le schCma 5. Or, aprks 
+la condensation de l'iminophosphorane Et02CCH2NPPh3 sur 
+l'une des fonctions aldthydes de l'OPTA, un Cquilibre de ce 
+type Ctait envisageable. La prtsence d'un carbanion en a de 
+l'atome d'azote suggtrait alors la possibilitt d'orientation de la 
+cyclisation vers la formation d'une isoquinolCine. Pour vtrifier 
+cette hypothkse, nous avons optrt h basse temptrature (-20°C) 
+de manikre 2 favoriser la forme pour laquelle intewiendrait une 
+liaison hydrogkne : nous avons alors isolt 1'isoquinolCine 3e 
+(3, R = OEt) attendue mais le produit de cyclisation majoritaire 
+reste cependant l'isoindolone l e . 
+
+En rCsumt, le schtma 6 reprtsente les trois types de mtca-
+
+Can. J. Chem. Downloaded from www.nrcresearchpress.com by 87.160.185.190 on 03/27/14 
+
+For personal use only. 
+
+
+AUBERT ET AL. 
+
++ RNPPh3 
+
+R = Ar-, Ar CH2-, NCCH2-, EtO,CCH,-Temp. Amb., 
+
+-isaindolones 
+
+R = Et02CCH2, -2O"C 
+
+I 
+
+H 
+
+nisme que nous avons proposts pour expliquer la cyclisation 
+en isoindolones et en isoquinoltines, en fonction de la nature 
+de l'iminophosphorane et des conditions optratoires. Nous 
+pensons que la condensation d'iminophosphoranes sur des 
+composts dicarbonylts est une nouvelle voie de synthese 
+trks prometteuse d'htttrocycles azotts puisque, comme nous 
+l'avons montrt en utilisant l'OPTA, la cyclisation peut s'effec-
+tuer en une seule ttape d partir d'azides organiques t r b aistment 
+accessibles. Ainsi, d l'exception des isoindolones de type 1, 
+notre mtthode se rtvkle suptrieure, quant aux rendements, a 
+celles dtcrites dans la litttrature. En effet, dans le cas des 
+isoindolones de type 2 qui n'ont t t t signalees anttrieurement 
+que par DoMinh et al. (2 l), l'isoindolone 2a a t t t obtenue par 
+cet auteur avec un rendement de 39% en produit brut alors 
+que dans les mCmes conditions de stoechiomttrie, nous avons 
+isolt la mCme isoindolone avec un rendement de 44% aprks 
+recristallisation. Enfin, les quatre synthkses d'isoquinoltines 
+acyltes en position 3 reportees dans la litttrature cornportent de 
+nombreuses ttapes et la prtparation prtalable d'isoquinoltines 
+substituCes en position 3 par un reste de type halogkne (22,23), 
+mtthyle (24) ou carboxylate d'tthyle (25). Enfin les multiples 
+possibilitCs synthttiques au depart des cttones rendent notre 
+mtthode particulierement inttressante pour acceder 2 la famille 
+des isoquinoltines substitutes en position 3, composts qui 
+ont Ct C ttudiCs en tant qu'inhibiteurs d'enzymes (26), inter-
+mtdiaires de synthbe (27), ou modkles biologiques (25). 
+Ajoutons egalement que certains mttabolites fongiques appar-
+tiennent cette classe d'htttrocycles (28). 
+
+~t u d e 
+structurale 
+Les isoindolones l a , b , 2a et isoquinoltines 3a,d,e, dtcrites 
+dans la litttrature, ont t t t identifites en cornparant leurs 
+caracttristiques physicochimiques ii celles dtja reportees ou 
+h celles des composts de la mCme strie (voir partie exptri-
+mentale). La structure des nouvelles isoindolones lc-g, 2b-e 
+et isoquinoltines 3b,c a t t t ttablie en particulier par analyse 
+des spectres de rmn protonique dont les caractCristiques sont 
+rassembltes dans les tableaux 2, 3 et 4. I1 faut noter que 
+l'isoindolone l e a dtjd t t t signalte, mais seulement sous forme 
+de mtlange et donc sans prtcision sur ses caracttristiques (voir 
+partie exp6rimentale). 
+L'attribution des signaux singulets correspondants aux mtthy-
+lknes intra-et extracycliques des isoindolones lc-f a t t t 
+
+effectuee sans ambigui'tt par enregistrement des spectres COSY 
+LR (Long Range) pour l c , l e et 1 f et par comparaison avec l c 
+pour Id. A titre d'exemple, le spectre COSY LR de l'isoindo-
+lone l c prtsente deux taches de corrtlation entre le singulet le 
+plus dtblindt et les signaux des protons thiophtniques H31 ( 4 ~) 
+et H4, ( 5 ~) respectivement, ce qui permet d'attribuer ce singulet 
+au methylkne extracyclique. De mCme, le singulet le plus blind6 
+prtsente deux taches de corrtlation avec deux des multiplets 
+correspondant aux protons H4-H6. 
+Concernant la strie des isoindolones 2 , seul le compost 2a 
+(R = Ph) a t t t dtcrit par DoMinh et al. (21). Celui-ci n'a 
+cependant foumi aucune preuve formelle pour confirmer la 
+structure proposte et en particulier Climiner une structure de 
+type isoquinoltine. Les deux structures (I) et (11) (schtma 7) 
+ttaient en effet envisageables d'aprks les donntes spectrosco-
+piques et nous avons chercht i confirmer, par voie chimique, 
+la structure des composts 2 obtenus. Pour cela, nous avons 
+rtalist successivement, au depart du dtrivt 2a (schtma 8), une 
+rtaction de dtshydratation dans l'acide acetique et une reaction 
+d'ozonolyse dans le dichloromtthane du derive 5 obtenu. Nous 
+avons ainsi isolt le phtalimide 6, identifit par comparaison avec 
+un tchantillon de reference, ce qui permet de proposer une 
+strufture de type isoindolone pour le produit de dtshydratation 
+5. A l'exception du singulet 2 5,59 ppm correspondant au 
+mtthylkne en position 3', les signaux du spectre de rmn 
+protonique unidimensionnel du derive 5 se situent de manibre 
+inattendue entre 6 et 8,4 ppm. Nous avons donc confirm6 la 
+structure proposte par l'enregistrement du spectre COSY de ce 
+compost (figures 1 et 2). En supposant que le signal le plus 
+deblindt correspond au proton H7, c o m e c'est le cas dans 
+toute la strie des isoindolones 1 et 2 , on peut attribuer aistment 
+les trois signaux qui sont corrtlts 2 H7 aux protons du cycle A. 
+Par suite, le deuxikme systkme de quatre signaux corrtlts 
+correspond au cycle B. Enfin, le dernier systkme de trois 
+signaux corrtlts est attribut au cycle C (figure 2). Ainsi, bien 
+que le mecanisme de la rtaction de dtshydratation conduisant 
+au produit 5 soit encore ma1 compris, l'obtention d'une 
+isoindolone permet sans ambigui'tt d'tcarter l'hypothkse d'une 
+structure de type isoquinoltine (LI) pour les composts 2. 
+L'examen des spectres de rmn protonique des isoindolones 2 , 
+dont les caracttristiques sont rassembltes dans le tableau 4, 
+montre qu'il se forme toujours un melange de deux diasttrtoiso-
+mbres dont les proportions relatives dtpendent de la nature du 
+Can. J. Chem. Downloaded from www.nrcresearchpress.com by 87.160.185.190 on 03/27/14 
+
+For personal use only. 
+
+
+CAN. 1. CHEM. VOL. 68, 1990 
+
+TABLEAU 2. Caractiristiques RMN des isoindolones 1 (400 MHz, CDC13) 
+0 
+
+Dtplacement chimique des protons en ppm 
+Constantes de couplage 
+ComposC 
+R 
+(CHz)3 
+H7 
+CH2 extracyclique 
+Autres protons 
+J (Hz) 
+
+HZ, et H6' : 7,88, m/2H 
+Aromatiques : 7,16 a 7,62, 
+m/6H 
+
+Aromatiques : 7,26 a 7 3 3 , 
+m/8H 
+
+H4-H6 : 7,38 a 7,54, m/3H 
+H3,:7,04, m/lH 
+H4a : 6,96, dd/lH 
+H5s : 7,23, dd/lH 
+
+H4-H6: 7,38 a 7,53, m/3H 
+
+Hz$ : 7,20, m/lH 
+H4s : 7,05, dd/lH 
+HS, : 7,29, dd/lH 
+
+H4-H6 : 7,45 a 7,58, m/3H 
+CHI-CH3 : 4,22, q/2H 
+CH2-CH3 : 1,28, t/3H 
+
+H4-H6 : 7,49 a 7,64, m/3H 
+
+HZ, et H6, : 8,10, m/2H 
+
+Aromatiques : 7,39 t~ 7 3 7 , 
+
+m/6H 
+CHCH3 : 6,12, q/lH 
+CHCH3 : 1,55, d/3H 
+
+reste lie 2 l'atome d'azote. La comparaison des dtplacements 
+chimiques des protons de l'isoindolone 2a reportts par DoMinh 
+
+et al. (21) et nous-mCmes tend a indiquer qu'il s'agit du mCme 
+
+diasttrtoisomkre (majoritaire). Toutefois, nous proposons une 
+attribution difftrente de celle de cet auteur pour les signaux 
+situts a 5,78 et 6,11 ppm. En effet, le signal a 6,11 ppm apparait 
+sous forme de doublet, inchangt aprks deuttriation, et ne peut 
+donc &amp;tre attribut qu'au proton H3 et non HI,. Le signal a 
+
+5,78 ppm est quant a lui attribuable a HI, et non a H3,, puisqu'il 
+
+apparait sous forme de pseudo-triplet par couplage avec H3 et 
+H3, avec des valeurs de constante de couplage voisines. 
+Enfin, les signaux des protons HI et H4 des isoquinoltines 3 
+rtsonnent sous forme de multiplets en raison de la prtsence de 
+couplages 4~ et ' J de l'ordre de 0,8-1 Hz. Leur attribution a t t t 
+realiste par comparaison des valeurs des glissements chimiques 
+
+avec les valeurs donnees dans la littkrature pour des isoquino-
+leines non substitutes en position 1,3 et 4 (29) ou pour des 
+thienopyridines (30, 3 I), dont l'attribution des signaux du cycle 
+azott est non ambigiie. 
+
+Partie experimentale 
+
+Les points de fusion ont t t t dttermints sur un banc de Kofler et ne 
+sont pas corrigts. Les spectres ir ont Ct C enregistrts sur un spectro-
+photomktre Perkin Elmer 580 B a partir de dispersions a 1% dans 
+l'iodure de cesium ou le bromure de potassium. Les spectres de masse 
+ont Ct C obtenus sur appareil Finnigan 3300 (70 eV, 0,4 mA). Les 
+spectres de rmn ont t t t relevts a 400 MHz sur un appareil Bruker 
+
+WM 400 du CEREMA (&lt;Centre de RCsonance MagnCtiquen de 
+
+1'UniversitC de Bourgogne). Les valeurs de 6 sont exprimCes en ppm, le 
+tCtramCthylsilane Ctant pris cornme rtfkrence (s : singulet, d : doublet, 
+dd : double doublet, t : triplet, q : quadruplet, m : multiplet). Les 
+analyses ont Ct C effectuCes par le Laboratoire central de microanalyses 
+du C.N.R.S. 
+
+Mate'riel de de'part 
+Les azides ont Ct C prtparCs par les mCthodes cittes en rCfCrence : 
+PhN3 (32), Ph-et Th-CH2N3 (33), RCOCH2N3 (R = Me ou EtO) (34), 
+PhCOCHRN3 (R = H ou Me) (35), ThCOCH2N3 (36). 
+
+M&lt;thode ge'ne'rale de synthkse des isoindolones 1 et 2 
+A une solution d'azide (0,Ol mol) dans le dichloromtthane anhydre 
+(ou le benzkne dans le cas de I'azidoacCtate dlCthyle) (10 mL), est 
+
+ajoutCe a temp6rature ambiante et goutte a goutte une solution de 
+
+9phCnylphosphine (2,62 g, 0,01 mol) dans 20 mL du mCme solvant. 
+
+A la fin de l'addition, I'agitation est maintenue 2-4 h B tempbrature 
+Can. J. Chem. Downloaded from www.nrcresearchpress.com by 87.160.185.190 on 03/27/14 
+
+For personal use only. 
+
+
+AUBERTETAL 
+
+Can. J. Chem. Downloaded from www.nrcresearchpress.com by 87.160.185.190 on 03/27/14 
+
+For personal use only. 
+
+
+CAN. J. CHEM. VOL. 68. 1990 
+
+u 
+
+cycle 8 
+
+. . 
+
+I 
+
+. ortho 
+
+1 
+
+J meta 
+
+* para 
+
+meta 
+
+ortho 
+
+1 para 
+
+cycle A 
+
+I 
+I 
+
+I 
+
+I 
+
+I 
+
+I 
+i 
+I 
+
+I 
+
+1 
+
+I 
+
+I 
+
+I 
+
+8.0 
+7.0 
+6.0 
+
+, I 
+
+FIG. 1. Spectre COSY (400 MHz, CDC13) de I'isoindolone 5 (voir agrandissement du cycle C sur la figure 2). 
+
+0 3 , m2a2 
+
+-
+
+temp. mb. 
+
+Can. J. Chem. Downloaded from www.nrcresearchpress.com by 87.160.185.190 on 03/27/14 
+
+For personal use only. 
+
+
+AUBERT ET AL 
+
+FIG. 2. Agrandissement du spectre COSY (400 MHz, CDC13) de l'isoindolone 5. 
+
+TABLEAU 4. CaractCristiques RMN des isoquinolCines 3 (400 MHz, CDCI3) 
+
+H3* : 8,48, dd/lH 
+J3,q, = 3,95 
+
+&amp;, : 7,22, dd/lH 
+
+J3,-5, = 1,32 
+Hsr dans le massif 
+J4,-y = 5,05 
+avec H6, H7 
+HZ' : 8,90, dd/lH 
+J2'-4' = 1,14 
+
+&amp;, : 7,92, dd/lH 
+
+Jz,-5, = 2,85 
+H5, : 7,37, dd/lH 
+J4,-5, = 5,13 
+
+CH3 : 2,84, s/3H 
+
+Can. J. Chem. Downloaded from www.nrcresearchpress.com by 87.160.185.190 on 03/27/14 
+
+For personal use only. 
+
+
+850 
+
+CAN. J. CHEM. VOL. 68, 1990 
+
+ambiante. Cette solution est ensuite ajoutte goutte a goutte a une 
+solution d'ortho-phtalaldehyde dans le dichloromCthane anhydre 
+
+(50 mL). Aprts 2-4 h d'agitation ti tempkrature arnbiante, Cvaporation 
+
+du solvant, Clution du rCsidu sur gel de silice par le melange 
+dichloromCthane-acCtone (30 : 1) et recristallisation, on isole les 
+isoindolones 1 et 2. 
+Phe'nyl-2 isoindoline ( l a ) : Rdt 22% (0,46 g); F = 164°C 
+(dichloromCthane-hexane) (litt. (37) F = 162-163°C). 
+Phe'nylme'thyl-2 isoindoline one-1 (1 b) : Rdt 45% (1,OO g); F = 
+90-92°C (Cther Cthylique -hexane) (litt. (38) F = 90-91°C). 
+(Thie'nyl-2 me'thy1)-2 isoindoline one-1 (1 c) : Rdt 35% (0,80 g); F = 
+92-94°C (Cther Cthylique); ir v , , 
+(CsI) : 1674 (CO), 1468, 1301,733, 
+710 cm-'; sm m/z : 229 (M+, loo), 228 (51), 196 (19), 146 (lo), 
+145 (IS), 132 (18), 119 (82), 97 (78), 91 (47). Anal. calc. pour 
+
+C13H1INOS:C68,10,H4,84,N6,11,S13,98;tr.:C67,91,H4,83, 
+
+N6,11, S 13,67. 
+(Thie'nyl-3 me'thy1)-2 isoindoline one-1 (1 d) : Rdt 40% (0,92 g); F = 
+65-66°C (tther Cthylique -hexane); ir v,,, (KBr) : 1685 (CO), 1454, 
+1297,743 cm-I; sm m/z: 229 (M+, 88), 228 (21), 196 (9), 146 (ll), 
+145 (lo), 132 (36), 119 (51), 97 (loo), 91 (43). Anal. calc. pour 
+
+C13H11NOS:C68,10,H4,84,N6,11,S 13,98;tr.:C68,25,H4,94, 
+
+N 6,13, S 14,17. 
+Ethoxycarbonylme'thyl-2 isoindoline one-I ( l e ) : Rdt 16% (0,35 g); 
+
+(ce composC a Ct C signal6 (39) mais n'a jamais Ct C isolC a l'ttat de puretC 
+
+analytique); F = 78-80°C (Cther Cthylique -hexane); ir v,,, (KBr) : 
+1738 (C02Et), 1681 (CON), 1207,740 cm-' ; srn m/z : 219 (M+, 15), 
+146 (loo), 145 (57), 132 (6), 118 (9), 91 (28). Anal. calc. pour 
+CI2Hl3NO3: C 65,74, H 5,98, N 6,39; tr. : C 65,57, H 5,83, N 6,39. 
+Cyanome'thyl-2 isoindoline one-1 (1 f ) : Rdt 31% (0,53 g); F = 
+119-120°C (Cther Cthylique -heptane); ir v,,, (CsI) : 2244 (CN), 
+1698 (CO) cm-'; sm m/z : 172 (M+, loo), 171 (42), 143 (41), 
+11 8 (29), 104 (29), 89 (24), 77 (24). Anal. calc. pour CIOHBN20 : 
+C 69,76, H 4,68, N 16,27; tr. : C 69,84, H 4,71, N 16,29. 
+Hydroxy-3 dihydro-1,3 isobenzofurannyl-1)-3 phe'nyl-2 isoindoline 
+one-1 (2a) : Rdt 17% (0,58 g); F = 200-201°C (litt. (21) F = 
+196-198°C). 
+A noter que lorsqu'on optre avec 1,s moles d'ortho-phtalaldthyde 
+par mole de PhNPPh3, les rendements respectifs en isoindolones l a et 
+2a sont de 10 et 44%. 
+(Hydroxy-3 dihydro-l,3 isobenzofurannyl-1)-3 phe'nylme'thyl-2 iso-
+indoline one-1 (2 b) : Rdt 5% (0,18 g); F = 204°C (dichlororntthane); 
+
+ir v , , 
+
+(KBr) : 3312 (OH), 1665 (CO), 1414, 1000 cm-I; sm m/z : 
+358 (0,2), 357 (M+, 0,1), 340 (0,1), 223 (loo), 132 (28), 91 (73). 
+Anal. calc. pour C23H19N03 : C 77,29, H 5,36, N 3,92; tr. : C 76,76, 
+H 5,41, N 3,92. 
+(Hydroxy-3 dihydro-l,3 isobenzofurannyl-1)-3 (thie'nyl-2 mtthy1)-2 
+isoindoline one-1 (2 C) : Rdt 4% (0,15 g); F = 202°C (dichloromCthane-
+hexane); ir v 
+, 
+, 
+(KBr) : 3346 (OH), 1674 (CO), 1427, 1040, 
+693 cm-'; sm m/z : 345 ([M -18]+, 0,2), 229 (55), 145 (60), 
+135 (19), 132 (12), 97 (100). Anal. calc. pour C21H17N03S : C 69,40, 
+H4,72,N3,85, S8,82;tr.:C69,50,H4,75,N3,77, S 8,88. 
+
+(Hydroxy-3 dihydro-l,3 isobenzofurannyl-1)-3 (thie'nyl-3 me'thy1)-2 
+isoindoline one-1 (2d) : Rdt 5% (0,18 g); F = 214°C (dichlororntthane-
+hexane); ir v , , 
+(KBr) : 3352 (OH), 1668 (CO), 1434cm-'; srn m/z: 
+363 (M+, 0,2), 345 (0,2), 229 (loo), 145 (7), 132 (20), 97 (38). Anal. 
+calc. pour C21H17N03S : C 69,40, H 4,72, N 3,85, S 8,82; tr. : 
+C 70,00, H 4,66, N 3,81, S 8,59. 
+(Hydroxy-3 dihydro-l,3 isobenzofurannyl-1)-3 e'thoxycarbonyl-
+me'thyl-2 isoindoline one-1 (2e) : Rdt 17% (0,60 g); F = 174-175°C 
+(dichloromCthane-hexane); ir v,, (KBr) : 3379 (OH), 2925 (CO), 
+1732 (C02Et), 1688 (CON), 1215 cm-I; sm m/z : 353 (M+, 4), 
+336 (20), 335 (1 I), 308 (65), 280 (loo), 262 (46), 248 (20), 232 (51). 
+Anal. calc. pour CZoHl9NO5 : C 67,98, H 5,41, N 3,96; tr. : C 67,98, 
+H 5,19, N 3,92. 
+
+M&lt;thode ge'ne'rale de synthPse des isoquinole'ines 3 
+A une solution d'azidocCtone (2,5 rnmol) dans 50 mL de dichloro-
+
+methane anhydre est ajoutCe a O°C et goutte a goutte une solution 
+de triphCnylphosphine (0,66 g, 2,5 mrnol) dans le meme solvant. La 
+solution est maintenue a O°C jusqu'g disparition des produits de depart 
+
+(suivie en chromatographie sur couches minces) puis ajoutCe a la meme 
+
+temperature, a une solution d'ortho-phtalaldchyde (0,34 g, 2,s mmol) 
+
+dans 20 mL de dichloromtthane anhydre. A la fin de l'addition, la 
+
+solution est maintenue 30 rnin a 0°C et on laisse ensuite remonter 
+
+la tempkrature lentement jusqu'h l'ambiante. Aprts Cvaporation du 
+solvant, Clution du rCsidu sur gel de silice par le melange dichloro-
+mtthane-acetone (40 : 1) et recristallisation on isole les isoquinolCines 
+3. 
+Phe'nyl isoquinolyl-3 ce'tone (3c) : Rdt 30% (0,17 g); F = 82°C 
+(Cther Cthylique -hexane) (litt. (22) F = 79-81°C). 
+Thie'nyl-2 isoquinolyl-3 ce'tone (3 b) : Rdt 35% (0,21 g); F = 124°C 
+
+(Cther Cthylique -hexane); ir v,,, (KBr) : 1641 (CO), 1614, 1498, 
+
+1404 cm-I; sm m/z : 239 (M+, 25), 211 (loo), 128 (16), 128 (16), 
+1 1 1 (67). Anal. calc. pour C14H9NOS : C 70,27, H 3,79, N 5,85, 
+S 13,40; tr. : C 70,49, H 3,69, N 5,81, S 13,43. 
+Thie'nyl-3 isoquinolyl-3 ce'tone (3c) : Rdt 30% (0,18 g); F = 
+89-90°C (Cther Cthylique -hexane); ir v , , 
+(KBr) : 1661 (CO), 1618, 
+1508, 1391 cm-'; sm m/z : 239 (M+, 56), 211 (60), 210 (53), 
+128 (23), 11 1 (100). Anal. calc. pour CI4H9NOS : C 70,27, H 3,79, 
+N 5,85, S 13,40; tr. : C 69,95, H 3,74, N 5,88, S 13,30. 
+Me'thyl isoquinolyl-3 ce'tone (3d) : Rdt 30% (0,13 g); F = 90-92°C 
+(Cther Cthylique -hexane) (litt. (40) F = 92-92,8"C). 
+
+Condensation de l'iminophosphorane de'rive' de l'azide PhCOCH(Me)N3 
+sur I'OPTA 
+Le mode opkratoire dCcrit pour la synthtse des isoquinolCines 3 
+conduit, aprts chrornatographie sur gel de silice par le mClange 
+
+dichloromCthane-acCtone (40 : I), a l'isoindolone l g et l'isoquino-
+
+ltine 4. 
+(Me'thyl-1 phe'nacy1)-2 isoindoline one-1 ( l g ) : Rdt 10% (0,53 g); 
+F = 80-82°C (Cther Cthylique -hexane); ir v 
+, 
+, 
+(KBr) : 1690 (CO 
+extracyclique), 1678 (CO intracyclique), 1220, 740 cm-' ; sm m/z : 
+265 (M+, l), 174 (7), 160 (100), 132 (8), 119 (4), 105 (5), 91 (14), 
+77 (10). Anal. calc. pour CI7Hl5NO2: C 76,96, H 5,70, N 5,28; tr. : 
+C 76,83, H 5,71, N 5,06. 
+Benzoyl-3 hydroxy-4 me'thyl-3 dihydro-3.4 isoquinole'ine (4) : Rdt 
+30% (1,59 g); F = 137-138°C (Cther Cthylique -hexane); ir v , , 
+(KBr) : 3 132 (OH), 1680 (CO), 1672 (CN) cm-'; rrnn IH (DMSO-d6) 
+6 : 1,12 (3H, s, CH3), 4,79 (lH, d, J = 5,23 Hz, singulet aprts 
+deutkriation, CHOH), 5,74 (lH, d, J = 5,23 Hz, slCchange avec D20, 
+OH), 7,43-7,61 (7H, m, ArH), 7,86 (2H, m, H2, et H6'), 8,49 (lH, s, 
+H1) ppm; sm m/z : 265 (M+, 3), 248 (27), 143 (60), 118 (38), 105 
+(100), 77 (51). Anal. calc. pour CI7HI5NO2 : C76,96, H5,70, N 5,28; 
+tr.: C76,74, H 5 3 6 , N 5,lO. 
+
+Condensation a basse tempe'rature de l'iminophosphorane de'rive' de 
+l'azidoace'tate d'e'thyle sur I'OPTA 
+A une solution de 19azidoacCtate dlCthyle (2,58 g, 20 mmol) dans le 
+
+dichloromtthane anhydre (25 mL) est ajoutCe a tempkrature ambiante 
+
+et goutte A goutte une solution de tfiphCnylphosphine (5,24 g, 20 mmol) 
+dans 60 mL du mCme solvant. A la fin de I'addition, l'agitation est 
+
+maintenue 4 h A tempkrature ambiante puis la solution est refroidie a 
+
+-20°C et ajoutCe, A cette temperature et goutte a goutte, a une solution 
+
+d'ortho-phtalaldkhyde dans le dichloromCthane anhydre (200 mL). 
+A la fin de I'addition, on laisse la tempkrature revenir trts progressive-
+
+ment l'ambiante puis on maintient l'agitation a cette tempkrature 
+
+pendant 3 h. Aprts Cvaporation du solvant et Clution du rCsidu sur gel 
+de silice par le mClange dichloromCthane-acetone (50 : l), on isole 
+I'isoindolone l e et I'isoquinolCine 3e. 
+Ethoxycarbonyl-2 isoindoline one-1 ( l e ) : Rdt 30% (1,31 g). 
+Ethoxycarbonyl-3 isoquinole'ine (3e) : Rdt 6% (0,24 g); identifiCe 
+
+par spectroscopie rrnn (voir tableau 4). 
+
+(Dihydro-1,3 isobenzofurannylidPne-1)-3 phe'nyl-2 isoindoline one-1 
+
+(5) 
+
+Une solution de l'isoindolone (2a) (0,86 g, 2,5 mmol) dans 100 mL 
+
+Can. J. Chem. Downloaded from www.nrcresearchpress.com by 87.160.185.190 on 03/27/14 
+
+For personal use only. 
+
+
+AUBERT ET AL. 
+
+85 1 
+
+d'acide acttique est chauffCe B reflux pendant 10 min. La solution est 
+diluCe h l'eau et extraite au dichloromCthane. Les phases organiques 
+sont lavCes par une solution de bicarbonate de sodium, puis h l'eau 
+jusqu'h neutralitC. Aprks sCchage des phases organiques sur sulfate de 
+magnksium, tvaporation du solvant et Clution du rtsidu sur gel de silice 
+par le mtlange dichlororntthane-acttone (25 : I), on isole 0,28 g 
+d'isoindolone 5; Rdt 35%; F = 230°C (acttone-eau); ir v,,, (KBr) : 
+1688 (CO), 1628, 1334, 1144 crn-I; rmn 'H (CDC13) 6 : 5 3 9 (2H, s, 
+(CH2)3')r 6,04 (lH, rn, HT), 6 3 4 (lH, m, Hs,), 7 2 0 (lH, m, H5,), 
+7,27-7,32 (2H, m, H4, et H4"), 7,39-7,46 (3H, m, HY, Hs" et H5), 
+7,50 (2H, rn, Hy et Hw), 7,65 (1 H, rn, Hs), 7,96 (lH, rn, H4), 8.37 
+(lH, m, H7); sm m/z : 325 (M+, loo), 296 (57), 268 (54), 165 (19). 
+Anal. calc. pour C22H 15N02 : C 8 1,22, H 4,64, N 4,3 1 ; tr. : C 8 1,11, 
+H 4,66, N 4,17. 
+
+Ozonolyse du de'rive' 5 
+Une solution de l'isoindolone 5 (32,s mg, 0,l rnrnol) dans le 
+dichlororntthane (40 mL) est sournise au passage d'un courant d'ozone 
+
+(03 + 0 2 ) h tempkrature arnbiante pendant 1 h. L'excks d'ozone est 
+
+ClirninC par un courant d'azote puis on ajoute au milieu rkactionnel 
+1 rnL d'une solution d'hydrogCnosulfite de sodium (d = 1,32). La 
+phase organique est lavCe B l'eau puis sCchte sur sulfate de magnCsiurn. 
+Aprks evaporation du solvant, on isole 19 mg de phtalirnide 6; Rdt 
+87%; F = 208°C (dichloromtthane); identifike par cornparaison avec 
+un kchantillon de rkfkrence. 
+
+1. Yu. G. GOLOLOBOV, I. N. ZHMUROVA et L. F. KASUKHIN. 
+Tetrahedron, 37, 437 (198 1). 
+2. S. C. K. WONG et A. W. JOHNSON. J. Org. Chem. 37, 1850 
+(1972). 
+3. D. M. B. HICKEY, A. R. MACKENZIE, C. J. MOODY et C. W. 
+REES. J. Chern. Soc. Perkin Trans. 1, 921 (1987). 
+4. E. ZBIRAL et E. BAUER. Phosphorus, 2, 35 (1972). 
+5. M. KENNEDY, C. J. MOODY, C. W. REES et J. J. VAQUERO. 
+J. Chern. Soc. Perkin Trans. 1, 1395 (1987). 
+6. G. A S K N E R ~~ 
+P. FROYEN. ActaChem. Scand. 23,2697 (1969). 
+7. J. A. KLOEK and K. L. LESCHINSKY. J. Org. Chem. 43, 1460 
+(1978). 
+8. M. E. JUNG, K. SHISHIDO, L. LIGHT et L. DAVIS. Tetrahedron 
+Lett. 22, 4607 (1981). 
+9. R. APPEL et P. VOLZ. Chern. Ber. 108, 623 (1975). 
+10. R. APPEL et G. SIEGMUND. Z. Anorg. Allg. Chern. 363, 183 
+(1968). 
+11. J. GARCIA, J. VILARRASA, X. BORDAS et A. BANASZEK. Tetra-
+hedron Lett. 27, 639 (1986). 
+12. B. TABYAOUI, T. AUBERT, M. FARNIER et R. GUILARD. Synth. 
+Cornrnun. 18, 1475 (1988). 
+13. T. AUBERT, B. TABYAOUI, M. FARNIER et R. GUILARD. Synthe-
+sis, 742 (1988). 
+14. T. AUBERT, M. FARNIER, B. HANQUET et R. GUILARD. Synth. 
+Cornmun. 17, 1831 (1987). 
+
+15. E. ZBIRAL, E. BAUER et J. STROH. Monatsh. Chem. 102, 168 
+(1971). 
+16. A. W. LOCHEAD, G. R. PROCTOR et M. P. L. CATON. J. Chem. 
+Soc. Perkin Trans. 1, 2477 (1984). 
+17. I. YAMAMOTO, Y. TABO et H. GOTOH. Tetrahedron Lett. 2295 
+(1971). 
+18. F. BENACHENHOU, M. A. MESLI, M. EL BORAI, B. HANQUET et 
+R. GUILARD. J. Heterocycl. Chern. 25, 1531 (1988). 
+
+19. R. GRIGG, H. Q. N. GUNARATNE et V. SRIDHARAN. J. Chern. 
+
+Soc. Chem. Cornmun. 1183 (1985). 
+20. ( a ) R. GRIGG, H. Q. N. GUNARATNE et J. KEMP. J. Chem. Soc. 
+PerkinTrans. 1,41 (1984); ( b ) R. GRIGG. Bull. Soc. Chim. Belg. 
+93, 593 (1984). 
+21. T. DOMINH, A. L. JOHNSON, J. E. JONES et P. P. SENISE. J. Org. 
+Chem. 42,4217 (1977). 
+22. Y. YAMAMOTO et A. YANAGI. Chem. Pharm. Bull. 30, 2003 
+(1982). 
+23. T. SAKAMOTO, Y. KONDO, M. SHIRAIWA et H. YAMANAKA. 
+Synthesis, 245 (1984). 
+24. F. R. CROWNE et J. G. BRECKENRIDGE. Can. J. Chern. 32, 641 
+(1954). 
+25. G. R. CLEMO et S. P. POPLI. J. Chem. Soc. 1406 (1951). 
+26. S. KLUTCHKO, C. J. BLANKLEY, R. W. FLEMING, J. M. 
+HINKLEY, A. E. WERNER, I. NORDIN, A. HOLMES, M. L. 
+HOEFLE, D. M. COHEN, A. D. ESSENBURG et H. R. KAPLAN. 
+J. Med. Chem. 29, 1953 (1986). 
+27. G. A. SWAN. J. Chern. Soc. 2038 (1958). 
+28. G. R. BIRCHALL, M. N. GALBRAITH et W. B. WHALLEY. 
+J. Chern. Soc. Chern. Cornrnun. 474 (1966). 
+29. D. L. BOGER, C. E. BROTHERTON et M. D. KELLEY. Tetra-
+hedron, 37, 3977 (1981). 
+30. M. FARNIER, S. SOTH et P. FOURNARI. Can. J. Chem. 54, 1066 
+(1976). 
+31. M. FARNIER, S. SOTH et P. FOURNARI. Can. J. Chem. 54, 1074 
+(1976). 
+32. R. 0 . LINDSAY et C. F. H. ALLEN. Org. Synth. Collect. Vol. 3, 
+710 (1955). 
+33. FR. MOULIN. Helv. Chirn. Acta, 35, 167 (1952). 
+34. 0. FORSTER et H. E. FIERZ. J. Chern. Soc. 93, 72 (1908). 
+35. D. KNITTEL, H. HEMETSBERGER et H. WEIDMANN. Monatsh. 
+Chern. 101, 157 (1970). 
+36. G. KUMAR, K. RAJAGOPALAN et S. SWAMINATHAN. Indian J. 
+Chern. Sect. B, 20, 271 (1981). 
+37. R. E. LUDT et C. R. HAUSER. J. Org. Chern. 36, 1607 (1971). 
+38. M. MORI, K. CHIBA et Y. BAN. J. Org. Chern. 43, 1684 (1978). 
+39. J. S. N ~w e t 
+J. P. YEVICH. J. Heterocycl. Chern. 21, 1355 (1984). 
+40. K. KIGASAWA, M. HURAGI, H. ISHIMARU, S. HAGA et K. 
+SHIRAYAMA. J. Heterocycl. Chem. 15, 369 (1978). 
+
+Can. J. Chem. Downloaded from www.nrcresearchpress.com by 87.160.185.190 on 03/27/14 
+
+For personal use only. 
+
+
+
+	
+

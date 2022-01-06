@@ -1,0 +1,604 @@
+
+	
+
+		
+
+	
+
+	
+
+Mecanisme des reactions du chlorite et du dioxyde de chlore. 
+5. Cinetique de la reaction chlorite-bromure 
+
+GUY SCHMITZ ET HENRI ROOZE 
+Universite' libre de Bruxelles, Faculte' des sciences applique'es, 50 avenue F. Roosevelt, 1050 Bruxelles, Belgique 
+
+GUY SCHMITZ et HENRI ROOZE. Can. J . Chern. 65,497 (1987). 
+Dans les solutions acides de chlorite et de brornure on observe sirnultanernent la disrnutation du chlorite et une reaction 
+autocatalytique conduisant une production rapide de C102. Les caractCristiques inhabituelles de cette rCaction sont dCcrites. 
+
+Dans ce systkrne cornpliquC, il n'est pas possible de rnesurer lavitesse de HC102 + Br-+ H+ + HClO + HBrO. C'est par contre 
+
+possible en prCsence d'ortho-tolidine qui capte le HBrO et le HC10. Nous avons obtenu r = k[HC102][Br-][H+] avec 
+k = 1,48 X 
+M -~ s-' a 25°C. En absence d'ortho-tolidine cette rkaction initie la reaction autocatalytique pour laquelle 
+nous proposons un rnodkle. 
+
+GUY SCHMITZ and HENRI ROOZE. Can. J. Chem. 65,497 (1987). 
+In acidic solutions of chlorite and bromide two processes occur simultaneously, the disproportionation of chlorite and an 
+autocatalytic reaction leading to a rapid production of C102. The unusual features of this reaction are described. In this complex 
+
+system the rate of HC102 + Br-+ H+ + HClO + HBrO cannot be measured. It can be, however, with added ortho-tolidine to 
+
+remove the HBrO and HC10. We obtained r = k [ ~C 1 0 ~] [ ~r -] [ H + ] 
+with k = 1.48 x 
+M-'s-' at 25OC. Without added 
+ortho-tolidine this reaction initiates the autocatalytic reaction for which we suggest a kinetic scheme. 
+
+Introduction 
+
+vrkckdernment (1, 6). Ravvelons que nous abrtgeons la formule de 
+
+~. 
+t 
+~~~~ 
+d6terminante de la r~action chlorite-chlorure est [ I 1. i'ortho-tolidine en N H ~R P ~H ~ 
+
+st celie de sa formeoxydie en NHRNH. 
+
+Elle est suivie de r~actions entre le chlorite et l,hypochlorite 
+
+Les concentrations totales en chlorite de sodium seront designee par 
+[NaC102] et celles des especes effectivement prCsentCs en solution par 
+conduisant la formation de chlorate et de dioxyde de chlore en 
+lHC1021 et [C102-l. On a done: 
+proportions variables suivant les conditions (1). 
+
+r u + 1 
+
+[ I ] 
+
+HC102 + C1-+ H+ + 2 HClO 
+
+1" 
+
+J 
+
+[HC102] = 
+[NaC102] 
+
+1 
+
+[H+l + K a 
+
+I 
+
+Nous avons obtenu k l = 1,8 X lop3 M-* s-' a 25°C et une 
+
+force ionique I = 1 M. 
+
+A 25°C et pour I = 1 M, K , = 2,4 X 
+
+(7) 
+
+Kern et Kim (2) ainsi que de Meeus et Sigalla (3) ont ttudit la 
+rkaction chlorite-iodure dans la zone de pH 4-8. Sa premikre 
+Ctape est [2]. 
+
+Cette rtaction est suivie d'un ensemble d'autres, faisant 
+intemenir le chlorite, l'hypochlorite, l'iodite et l'hypoiodite, 
+
+conduisant 5 une production autocatalytique d'iode. Le systkme 
+
+est compliqut mais ses aspects principaux sont ttablis. 11 peut 
+conduire des oscillations qui ont etC Ctudites par Epstein et 
+Kustin (4). 
+Pour la reaction chlorite-bromure la seule ttude anttrieure 
+
+a celle-ci est celle de Simoyi (5) que nous discuterons plus 
+
+loin. I1 s'agit Cgalement d'une rtaction compliquCe d'allure 
+autocatalytique. Afin d'ttudier isoltment sa premikre ttape, 
+analogue de [ l ] et [2], nous avons utilisC la mCthode a 
+
+l'ortho-tolidine dtcrite dans l'article prtctdent de cette sene 
+
+(6). 
+
+Technique experimentale 
+
+Le chlorite de sodium a CtC purifiC par trois recristallisations 
+successives. Ses solutions sont conservCes dans le noir en milieu 
+lkgkrement basique et standardiskes par iodomCtrie. Les autres rCactifs 
+de la qualit6 &lt;&lt;pour analyses,, sont utilisCs sans purification supplC-
+
+mentaire. La tempkrature est toujours fix&amp; a 25,O * O,l°C. 
+
+Lors des expkriences en absence d'ortho-tolidine, les productions 
+
+Caracteristiques de la reaction chlorite-bromure 
+
+Les figures 1-3 montrent des courbes caracttristiques de la 
+formation de C102 dans des mtlanges acides d e chlorite et 
+de bromure. On y voit la contribution de deux groupes de 
+
+reactions: ( I ) La dismutation du chlorite que nous avons 
+
+CtudiCe antkrieurement (8). Elle rCsulte d'une rtaction catalysee 
+par les traces de fer intvitablement prCsentes dans les rtactifs et 
+d'une reaction radicalaire d'ordre deux par rapport au chlorite. 
+
+(2) La rtaction due au bromure et comportant une Nriode 
+
+d'induction suivie d'une ptriode d'allure autocatalytique. Ses 
+principales caractCristiques sont les suivantes. 
+Assez curieusement, l'augmentation de la concentration 
+du chlorite allonge la ptriode d'induction (figure 1). Une 
+augmentation de la concentration initiale en Br-diminue ou 
+augmente la ptriode d'induction suivant que la concentration en 
+chlorite est grande ou petite (figures 2 et 3). 
+Si on remplace le bromure par du brome on obtient le meme 
+genre de courbes mais la ptriode d'induction est plus courte 
+
+(figure 3, courbe 4). Si on remplace le brome par du HBIO la 
+
+pCriode d'induction est supprimte. 
+Si [Br-Io = 
+M la rtaction se termine par consommation 
+totale du chlorite et la stoechiomttrie correspond approxima-
+tivement [3]. 
+
+[3] 
+
+4 HC102 -+ 2 C102 + C103-+ C1-+ 2 H' + H20 
+
+de C102 sont AesurCes par absorptiomttrie a 360 nrn co-e indiquC 
+
+antkrieurement (1). Nous avons vCrifit que dans les conditions des 
+Par contre si [Br-Io = lop6 M le type de comportement dtpend 
+exp6riences discutCes ici (faibles concentrations initiales en bromure), 
+de la concentration du chlorite. Si elle est grande la rtaction 
+la contribution aux absorbances rnesurtes d'une eventuelle formation 
+autocatalytique ne dkmarre Jamais et on n'obseme que la 
+de brome serait totalement ntgligeable. 
+dismutation du chlorite. Si elle est faible la reaction auto-
+Pour les expkriences faites en prCsence d'ortho-tolidine, les tech-
+catalytique dCmarre trks vite mais s'arrete alors qu'il reste 
+niques et prCcautions expkrimentales ont Ct C entikrement dCcrites 
+du chlorite. Dans le cas de la courbe 3 de la figure 3 on 
+
+
+498 
+
+CAN. J. CHEM. VOL. 65, 1987 
+
+0 
+
+100 
+
+200 
+
+min 
+
+FIG. 1. La rCaction chlorite-bromure : effet du chlorite. [HClO,] = 
+1 M ; [Br-Io = 4 X 
+M ; [NaC10210 = 4,7 x 
+
+(I), 9,4 X 
+
+(2), 1 , a x 10-3 M (3). 
+
+0 
+
+temps 
+
+o 
+loo 
+
+200 min 
+
+FIG. 2. LA rkaction chlorite-bromure : effet du bromure si [NaC10210 
+
+= 1,88 X 
+
+M , [HClO,] = 1 M ; [Br-lo = lo-, (I), 
+
+(2), 
+
+M (3). 
+
+o 
+20 
+40 
+
+60 min 
+
+FIG. 3. LA riaction chlorite-bromure : effet du bromure si [NaC10210 
+
+= 4,7 x lo-, M. [HClO,] = 1 M ; [BrPlo = lo-, (I), 
+
+(2), 
+
+M (3), [Br2] = 
+M (4). 
+
+n'a consommt que le quart du chlorite initial. Une addition 
+de bromure fait alors redtmmer la rtaction autocatalytique 
+aprks une nouvelle ptriode d'induction. Ces difftrents faits 
+conduisent aux conclusions suivantes. 
+Des concentrations tlevtes en chlorite ont un effet inhibiteur 
+sur la reaction autocatalytique. 
+La catalyse ne rtsulte pas directement du bromure et la 
+
+ptriode d'induction correspond a son oxydation en HBrO. 
+
+L'met de la rtaction alors qu'il reste du chlorite (figure 3) ne 
+peut rtsulter que d'une oxydation totale du Br-sous une forme 
+inactive. Nous en dtduisons qu'il est oxydt en Br03-. 
+En milieux acides 0,l M on peut Cgalement observer 
+la rtaction autocatalytique mais pour des concentrations en 
+bromure plus tlevtes. I1 se forme alors des quantitts non 
+
+L'article de Simoyi (5) consacrt a cette rtaction devrait Ctre 
+
+oublit. Dans ses tquations et ses calculs il confond concentra-
+tions analytiques et particulaires (avec nos notations [NaClO,] 
+et [C102-I), le chlorite utilist contenait 13% d'impuretts et 
+surtout la stotchiomttrie n'est pas celle qu'il indique. On ne 
+peut rien dtduire de ses mesures d'absorbances. Nous avons 
+relevt des spectres au cours de la rtaction dans les conditions de 
+sa figure 1. Ceux-ci montrent une contribution t r b importante 
+du C102 B 390 nm, longueur d'onde de mesures qu'il attribue 
+au Br2. 
+
+~t u d e 
+en prbence d'ortho-tolidine 
+Dans les conditions ci-dessus, il n'est pas possible d'ttudier 
+la rtaction [4] : 
+
+[4] 
+
+HC10, + Br-+ H+ + HClO + HBrO 
+
+En milieux acides 1 M elle est masqute par la dismutation 
+du chlorite et (ou) par la rkaction autocatalytique. Diminuer 
+l'aciditt ne rtsoud rien car la vitesse de dismutation du chlorite 
+augmente (8). Enfin en milieux moins acides et riches en 
+bromure les absorbances mesurtes rtsultent B la fois du C102 et 
+du brome. 
+Cette ttude est par contre possible en prtsence d'ortho-
+tolidine. La rtaction autocatalytique est supprimte et la dismu-
+tation du chlorite peut &amp;tre trks simplemerit prise en compte. 
+La figure 4 montre qu'aux faibles conversions (inftrieures B 
+quelques pourcents), on obtient des droites dont les pentes 
+donnent les vitesses initiales d'oxydation de l'ortho-tolidine. 
+Nous verrons qu'elles correspondent une somme de deux 
+termes, l'un du a la rtaction catalyste par le fer, l'autre du la 
+rtaction [4]. 
+D'aprks ce qu'on sait des rtactions chlorite-chlorure et 
+chlorite-iodure, le point de dtpart de la rtaction autocatalytique 
+doit &amp;tre [5]. En presence d' ortho-tolidine cette rtaction est en 
+compttition avec [6]. 
+
+[5] 
+
+HC102 + HBrO BrC102 + H 2 0 
+
+[6] 
+
+NH2RNH2 + HBrO + NHRNH + Br-+ H+ + H 2 0 
+
+Nous avons vu (1) que le HClO rtagit plus rapidement avec 
+l'ortho-tolidine qu'avec le chlorite. Les rtsultats du tableau 1 
+montrent qu'il en est de m&amp;me du HBrO. Si on ajoute une 
+solution de BrZ ou de HBrO (obtenue par rtaction du brome avec 
+
+des ions Agf ) a une solution acide d'ortho-tolidine on obtient la 
+
+rtaction [6], ou son homologue pour le brome. La production de 
+NHRNH est la meme que la solution d'ortho-tolidine contienne 
+ou non du chlorite: le HBrO ne rtagit que suivant [6] et la 
+reaction autocatalytique est supprimte. Cette rtaction apparait 
+par contre si on mtlange le chlorite et le HBrO avant d'ajouter 
+l'ortho-tolidine. La dernikre ligne du tableau 1 montre que la 
+production de NHRNH est alors nettement plus grande. 
+
+Resultats de I'etude cinetique 
+
+Effet de 1' ortho -tolidine 
+
+La suppression des reactions indtsirtes par l'ortho-tolidine 
+n'est effective que si sa concentration est suffisante. Nous avons 
+toujours vtrifit que nos vitesses sont indtpendantes de cette 
+concentration. Si [HC104] = 1 M et [NaClO,] = 5 x 
+M 
+cette condition est satisfaite dks [NH2RNH2] = 2 x lop4 M. 
+La valeur minimale 2 rtaliser augmente si la concentration du 
+chlorite augmente et si l'aciditt diminue. 
+
+ntgligeables de brome dont le spectre (A, , 
+
+' 390 nm) se Effet de la force ionique 
+
+superpose B celui du C102 (A, , 
+= 360 nm) et il devient trks 
+Dans l'acide perchlorique 0,l M les vitesses diminuent d'un 
+difficile d'interprtter les mesures d'absorbances. 
+facteur 1,2 si la force ionique I varie de 0,1 B 0,2 M. Entre 0,4 et 
+
+
+SCHMITZ ET ROOZE 
+
+temps 
+
+0 
+1 
+2 min 
+
+FIG. 4. La rCaction chlorite-bromure en prksence d'ortho-tolidine. 
+[HC1O4] = 1,01 M ; [NH2RNH2] = 5 x 
+
+M ; [NaC102] = 5,5 x 
+M ; [Br-1 = 
+
+(I), 7 x 
+M (2). 
+
+TABLEAU 1. Oxydation de l'ortho-tolidine par HBrO ou 
+
+Br2 en prksence de chlorite 
+
+[NaC102] 
+[HBrOIo 
+[NHRNH] 
+
+lo-4 M 
+104 M 
+
+M 
+
+[HCIO,] = 0,101 M; [NH2RNHZ], = lo-, M. Ordre de 
+mtlange : acide, ortho-tolidine, chlorite, Br, (a) ou HBrO (b). 
+Contre-tpreuve : acide, chlorite, HBrO, ortho-tolidine (c). 
+
+1 M elles ne dtpendent quasi pas de I. Toutes nos mesures ont 
+t t t faites avec I = 1 M, ajustte au besoin par du perchlorate de 
+sodium. 
+
+Loi cingtique 
+La figure 4 donne un exemple de mesures des vitesses 
+initiales d'oxydation de l'ortho-tolidine. Ces vitesses varient 
+lintairement en fonction de la concentration du bromure comme 
+le montre la figure 5. 
+
+d [NHRNH] 
+
+= kl[Br-] + k" 
+
+d t 
+
+Le tableau 2 donne les valeurs de k t obtenues. Elles sont 
+proportionnelles aux concentrations [HClO,] et [H+]. k" est 
+
+du i la rtaction catalyste par le fer (9). On en dtduit la loi 
+
+cinttique [7]. 
+
+[71 
+d [NHRNH] 
+
+= k7[HC102] [H+l[Brp1 + rFe 
+
+d t 
+
+Quelques stries de mesures ont t t t faites en prtsence d'EDTA, 
+ce qui rtduit notablement le terme rFe(9). Les valeurs de k7 sont 
+en parfait accord avec celles obtenues sans EDTA. 
+Dans l'acide 0 , l M, si la concentration de l'ortho-tolidine est 
+inftrieure 2 
+
+M ou si celle du chlorite est suptrieure i 
+
+lop4 M les vitesses ne sont plus indtpendantes de la concentra-
+tion de l'ortho-tolidine, ce qui explique les valeurs trop tlevtes 
+
+du tableau 2. D'autre part si [NH2RNH2] est suptrieur i lop3 M 
+
+la dtgradation de l'ortho-tolidine oxydte risque de ne plus 
+&amp;tre ntgligeable. Ceci limite le domaine d'aciditts et de 
+concentrations en chlorite des mesures. 
+
+FIG. 5. Effet du bromure sur les vitesses initiales. [HC104] = 
+
+1,01 M ; [NH2RNH2] = 5 x 
+M; [NaC102] = 5 , 5 x 
+(I), 
+l , i x 10-4 (2),2,2 x 
+
+M (3). 
+
+[NH2RNH2] = 5 X lo-, (a) ou loM3 M (b). Valeurs ( c ) trop grandes : 
+cf. texte. 
+
+Conclusion 
+En prtsence d'ortho-tolidine la rtaction [4] est suivie de [6] et 
+de son homologue pour le HClO, donnant globalement [8] : 
+
+[8] 
+
+HC102 + 2 NH2RNH2 -+ C1-+ Hi + 2 NHRNH + 2 Hz0 
+
+L'ttape dtterminante ttant [4] on obtient la loi [7] avec 
+k7 = 2 k4. Les valeurs du tableau 2 donnent k4 = (1,48 k 
+
+0,05) X lop2 M P 2 S-' i 25OC et I = 1 M. 
+
+En absence d'ortho-tolidine le HBrO produit par [4] rtagit 
+suivant [5] et on obtient la rtaction autocatalytique. 
+
+Mecanisme de la reaction autocatalytique 
+Ide'es de base 
+Le mtcanisme que nous proposons est bas6 sur les faits 
+suivants. 
+
+
+500 
+
+CAN. J. CHEM. VOL. 65, 1987 
+
+1. Le catalyseur est le HBrO formt pendant la ptriode 
+3. Initiation 
+d'induction. 
+Sa ~remikre t t a ~e est la rtaction ttudite ci-dessus : 
+2. Des concentrations tlevtes en chlorite inhibent la rtaction 
+autocatalytique. 
+
+[M3] HC10, + Br-+ Hf + HClO + HBrO 
+
+3. Le sens de l'effet du bromure sur la durte de la ptriode 
+Le HBrO peut Ctre transforme en Br2 suivant [M4] : 
+d'induction dtpend de la concentration du chlorite. 
+4. La stotchiomttrie de la dismutation du chlorite est 
+
+[M4] HBrO + Br-+ H+ Br2 + H 2 0 
+
+approximativement [3]. 
+5. Le bromure et le HBrO peuvent 6tre oxydts en bromate ne 
+catalysant pas la dCcomposition du chlorite. 
+Plusieurs variantes de notre modkle nous ont permis de 
+reproduire l'allure des courbes exptrimentales et nous avons 
+retenu celle qui nous a donnt le meilleur accord avec les valeurs 
+numtriques des temps d'induction. I1 ne faut pas accorder trop 
+d'importance a ses dttails mais bien aux idtes gtntrales 
+suivantes, sans lesquelles il ne nous semble pas possible 
+d'expliquer les comportements obsemts. 
+Les composts du type X202 sont des intermtdiaires des 
+rtactions d'oxydo-rtduction des halogknes. Ce ne sont pas 
+des complexes activts mais de vtritables composts chimiques 
+pouvant intemenir dans au moins trois types de rtactions. 
+
+X202 + H 2 0 = HXO2 + HXO 
+
+Dans le cas du chlore, il faut ajouter la formation de C102 par 
+rtaction avec le chlorite (1). 
+
+Le C1202 est asymttrique (lo), sa structure Ctant 
+
+CI-0-C1-0 
+ou C1-CI 
+/O 
+
+\o 
+
+Cette asymttrie est importante car nous n'avons pu justifier les 
+effets inhabituels des concentrations sur la ptriode d'induction 
+qu'en admettant l'existence de deux isorneres que nous reprt-
+senterons par BrClO, et ClBr02 et dont les structures sont 
+
+soit 
+
+~r-0-CI-0 
+et C1-0-Br-0 
+
+soit 
+
+Br-CI 7 et CI-Br /O 
+
+\o 
+
+' 
+0 
+
+La rtaction HBrO + HC102 donne le premier alors que la 
+rtaction HClO + HBr02 donnerait le second. 
+
+Composantes du modile simpl$k 
+1. Dismutation du chlorite 
+En milieux 1 M acides et en l'absence de chlorure, elle rtsulte 
+principalement d'une rtaction radicalaire d'ordre deux (8). 
+Nous ne faisons apparaitre dans le modkle que la rtaction 
+globale [M 1 1. 
+
+[MI] 2 HCI02 + HClO + C103-+ Hf 
+
+Dans certaines variantes du modkle nous avons inclu la rtaction 
+
+HClO + Br-+ HBrO + C1-. Elle n'en modifie gukre les 
+
+proprittts et est ntgligte ici. 
+4. Rkactions de BrC102 
+Une des bases de notre modkle est sa formation suivant [M5] : 
+
+[M5] HBrO + HC102 BrC102 + H 2 0 
+
+Outre la rtaction inverse et l'isomtrisation [M6], plusieurs 
+rtactions de consommation peuvent Ctre envisagkes. L'effet du 
+chlorite sur la ptriode d'induction suggkre que la principale soit 
+
+[M7], la somme [M5] + [M7] donnant la reduction du HBrO 
+
+en Br-. 
+
+5. Rkactions du C1Br02 
+
+Cet intermtdiaire formt par [M6] peut reagir suivant [M8], 
+[M9] et [M 101, analogues de rtactions connues d'autres 
+intermtdiaires du type X202. 
+
+La rtaction [M8] explique l'oxydation du catalyseur sous une 
+forme inactive lorsque [Br-] et [HC102] sont petits. La rtaction 
+[M9] est suivie de [Mll] et [MI21 : 
+
+[ M l l ] BrCl + H 2 0 E HBrO + C1-+ H+ 
+
+[MI21 HBr02 + HCIOz+ HBrO + C103-+ H f 
+
+La somme [M5] + [M6] + [M9] + [M 1 1 ] + [MI21 donne 
+
+l'oxydation autocatalytique du Br-en HBrO. Le Br02 form6 
+par [MlO] peut rtagir suivant [MI31 et [MI41 : 
+
+La somme [M5] + [M6] + [M11:l] + [MI31 + [MI21 donne 
+
+la dtcomposition du chlorite suivant la stotchiomttrie [3] 
+catalyste par le HBrO. 
+D'autres reactions possibles ont Ct C ntgligtes car elles ne 
+faisaient que compliquer le rnodkle sans en modifier les 
+
+proprittts, par exemple HBr02 + Br-+ H+ + 2 HBrO. 
+
+Nous avons tgalement ntgligt les rtactions du bromate, sa 
+concentration ttant toujours trks faible. 
+6. Valeurs des constantes cinktiques 
+2 . Rkactions du HClO 
+
+Les valeurs suivantes sont connues : 
+Nous savons qu'au cours de la dismutation du chlorite, il 
+kMl = 5,l x lo-3 M-' s-' 
+
+rtagit suivant HC102 + HClO + C1202 + H 2 0 et que le C1202 
+
+(8) 
+
+peut donner soit du dioxyde de chlore soit du chlorate et du 
+kM3 = 1,48 X lo-' M-' s-' (ci-dessus) 
+chlorure (1, 8). Dans les conditions ttudites ici le premier est 
+kkM4 = 110 S-' (1 1) 
+largement prtpondtrant et on peut simplifier le modkle en 
+n'tcrivant que la rtaction globale [M2] : 
+
+kM4/k-M4 = lo8 M-2 (estimt pour I = 1 M ) 
+
+[M2] 2 HC102 + HClO + 2 C102 + C1-+ Hf + H 2 0 
+
+k ~1 3 / k ~i 4 
+= 3,1 (12) 
+
+r ~2 = k ~2 [HC102:I [HClO] 
+I1 semble qu'il reste un grand nombre de constantes a ajuster. 
+
+
+
+
+	
+

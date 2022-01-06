@@ -1,0 +1,501 @@
+
+	
+
+		
+
+	
+
+	
+
+Dihydro-9,14(4H)tripyrazolo(l,5-a:1',5'-d:1",5"-g)triazonine-1,4,7. 
+
+Synthese et etude par resonance magnetique nucleaire 
+
+ALAIN FRUCHIER,' BRIGIITE LUPO ET GEORGES TARRAGO 
+
+ERA au CNRS no 169, Universite' des Sciences et Techniques du Languedoc. Place EugPne Batnillon. 
+34060 Montpellier Cedex, France 
+
+R e p le 8 fevrier 1984 
+
+ALAIN FRUCHIER, BRIGITTE LUPO et GEORGES TARRAGO. Can. J. Chem. 63, 375 (1985). 
+
+Nous avons rCalisC la synthtse selon une voie univoque de la trimCthy1-2,7,12 dihydro-9,14(4H)tripyrazolo(l,5-a: 1 ',5'-
+d;Iv,5"-g)triazonine-1,4,7. Une etude rmn de cette nouvelle molCcule dans divers solvants a pour la premitre fois mis en 
+
+Cvidence ]'existence d'un equilibre conformationnel de type crown 2 saddle dans un dCrivt du triazacyclononatritne. 
+
+ALAIN FRUCHIER, BRIGITTE LUPO, and GEORGES TARRAGO. Can. J. Chem. 63, 375 (1985). 
+We have accomplished an unequivocal synthesis of 2.7,12-trimethyl-9,14-dihydro-1.5-a;1 ',5'-d;lv,5"-g-(4H)tri-
+
+pyrazolo-1,4,7-triazonine. An nmr study of this new molecule in different solvents shows, for the first time, the existence of 
+
+a crown = saddle conformation1 equilibrium in a triazacyclononatriene derivative. 
+
+[Journal translation] 
+
+Introduction 
+Dans une publication preckdente (I), nous avons montre que 
+le composC obtenu par action du brome sur le sel d'argent du 
+
+trimtthyl-3,4,5 pyrazole ne pouvait avoir la structure 1 qui lui 
+
+avait kt6 attribuke (2). 
+Sur la base de la masse moltculaire dCterminCe par spec-
+trometrie de masse et du spectre de rmn dans le DMSO-d, 
+indiquant une symttrie ClevCe, nous avions suggtrk une struc-
+ture cyclique tripyrazolique 2. Cependant, ttant donnCe la 
+mkthode d'obtention, une structure de type 3 ne pouvait &amp;tre 
+absolument exclue. 
+
+Nous presentons dans ce travail la synthbse univoque d'un 
+compose analogue 6 2, la trimethyl-2,7,12 dihydro-9,14-
+(4H)tripyrazolo(l ,5-a: 1 ',5'-d: 1",5"-g)triazonine-1,4,7 4, dont 
+l'etude rmn prouve la structure proposke prkcedemment (1). 
+
+Resultats 
+La synthbse de 4 est effectuke selon le schtma rkactionnel 
+suivant: 
+
+' Auteur auquel la correspondance doit &amp;tre adressee. 
+
+Le compost 5, dont nous avons dCja dCcrit la synthese (I), 
+est trait6 par l'hydrazine pour donner 6, qui par condensation 
+avec I'acCtylpyruvate dlCthyle conduit aux deux isomeres 7a et 
+7b. Ces derniers sont sCparCs par chromatographie et identifies 
+par rmn sur la base du couplage entre les groupes mCthyle-3(5) 
+et les protons en position 4 des noyaux pyrazoliques (3). L'es-
+Can. J. Chem. Downloaded from www.nrcresearchpress.com by 87.160.185.190 on 03/27/14 
+
+For personal use only. 
+
+
+CAN. J. CHEM. VOL. 63. 1985 
+
+TABLEAU I . Effet du solvant sur les dCplacements chimiques ( 6 ) 
+
+Solvant 
+DMSO-dl, 
+ChDa 
+Acitone" CD,,OH" CD,CNC' 
+CDCI, 
+
+Product 
+2C 
+4C 
+12C 
+2C 
+4C 
+4C 
+4C 
+4C 
+2C 
+2 s 
+4C 
+4 s 
+
+Pourcentages 
+100 
+100 
+100 
+100 
+100 
+100 
+100 
+100 
+70 
+30 
+80 
+20 
+
+"Le compost 2 est insoluble dans ce solvant. 
+" J = 16 Hz (rtsolution digitale: 0,2 Hz). 
+'Anisochronie non mesurable B 100 MHz. 
+"L'attribution des groupes mithvle peut ifre inverstr. 
+
+ter 7 b est ensuite rCduit puis .. traite par le chlorure de thionyle 
+pour donner 8. 
+De par la prksence de deux atomes d'azote nucltophiles dans 
+le noyau pyrazole non N-substituC, la condensation du groupe 
+chloromCthyle de 8 peut s'effectuer de deux faqons et conduire 
+a 4 et(ou) 9. Cependant, soumis un milieu basique fort dans 
+les conditions de la catalyse par transfert de phase, 8 subit une 
+cyclisation intramoleculaire par attaque du groupe chloro-
+
+mCthyle sur I'azote en P du substituant mCthyle et donne le 
+
+compost 4 avec un rendement de 38%. Si de nombreux autres 
+produits sont formCs au cours de la reaction, nous n'avons pu 
+les identifier, le rendement de chacun d'eux Ctant infkrieur a 
+
+3%. 
+Les spectres en rmn du proton de 2 et 4 dans CDCl, et 
+DMSO-d, sont rCunis dans les figures 1 et 2 respectivement, et 
+les dkplacements chimiques dans le tableau 1. 
+On notera une grande analogie, d'une part entre les spectres 
+des deux composes dans le m&amp;me solvant (fig. la et 2a, l b et 
+
+2b), d'autre part en ce qui concerne l'effet du solvant sur un 
+composk donne (fig. la et 1 b, 2a et 2b). Pour chacun d'eux, le 
+spectre dans le DMSO-d, est celui d'un composC unique de 
+symCtrie Cj dont les protons mkthyltniques sont fortement ani-
+sochrones, tandis que celui dans CDC1, correspond a un mi-
+lange de deux especes en proportions inkgales. La plus abon-
+dante est celle obsewke dans le DMSO, la moins abondante a 
+la m&amp;me symCtrie mais ne montre aucune anisochronie des 
+protons mCthylCniques a 360 MHz. 
+Les produits 2 et 4 Ctant tres peu solubles dans les deux 
+solvants (ttude de solutions saturkes), et bien que chro-
+matographiquement purs, la solubilisation sklective de deux 
+espkces diffkrentes dans les deux solvants ne pouvait Ctre ex-
+clue. Cependant, cette hypothese a pu &amp;tre rejetke apres Ctude 
+de 17Cvolution du spectre d'une solution chloroformique lors de 
+l'addition de DMSO-d6 (fig. 3 et 4). Les composes 2 et 4 ont 
+exactement le m&amp;me comportement: dans les deux cas, l'ad-
+dition de DMSO provoque la disparition progressive du produit 
+Can. J. Chem. Downloaded from www.nrcresearchpress.com by 87.160.185.190 on 03/27/14 
+
+For personal use only. 
+
+
+FRUCHIER El' AL 
+
+et Its pourcentages de forme C et S des cornposCs 2, 4 et 12 
+
+mineur, ainsi qu'une augmentation d'anisochronie des protons 
+des mkthylknes du produit majeur. 
+
+Discussion 
+La structure 9 pouvant Etre rejetke a cause de l'absence de 
+symktrie qui conduirait a un spectre rmn plus complexe que 
+celui de la figure 2a, le cycle central a neuf elements de 4 
+explique son comportement en rmn. 
+En effet, il est connu (4) que le cyclononatriene-l,4,7 existe 
+sous deux conformkres C (crown) et S (saddle): 
+
+En rmn, seule la forme C est observee a basse temperature, 
+tandis qu'a tempCrature ambiante ou elevee, le spectre corres-
+pond a un equilibre plus ou,moins rapide entre les diffkrentes 
+formes possibles. 
+Dans le cas du cyclotrivCratrylene (CTV) 10, la forme C est 
+seule observee ( 3 , mCme a 200°C (absence de coalescence du 
+systeme AB mCthylCnique). Dans tous les compods analogues 
+cites (6), soit la forme C est seule presente, soit la forme S. Les 
+
+OMe OMe 
+
+M e 0 AOMe OMe OMe 
+
+deux conformeres ont Cte cependant signales dans un m&amp;me 
+
+spectre rmn pour le produit 11 OD le cycle benzenique est 
+
+remplace par un cycle a cinq elements (7). 
+Le seul triazacyclononatri~ne-1,4,7 symetrique decrit a no-
+tre connaissance est le compose 12 (8) dans lequel les trois 
+mtthylknes sont isochrones dans le CDCI,. 
+I1 apparait donc que les spectres dans le DMSO-c16 de 2 et 4 
+(fig. la et 2a) sont ceux d'une forme C (fig. 5): isochronie des 
+protons situCs sur les positions homologues des noyaux pyra-
+zoliques et des groupes mCthylCniques, indiquant la symetrie 
+C3, et anisochronie des protons a I'interieur de chaque methy-
+Iene. 
+Dans le CDCI,, par contre, si la forme C est encore majori-
+taire, il est raisonnable d'attribuer a la forme S les signaux du 
+compost5 minoritaire. Cette structure n'avant aucun elkment de 
+symCtrie, conduirait a un spectre rmn complexe si elle n'etait 
+en Cquilibre rapide avec deux autres formes S Cquivalentes (4, 
+
+6. 8, 9). 
+
+. . . 
+
+La preuve que les formes majeure (C) et mineure (S) obser-
+vCes dans le spectre de 4 sont en Cquilibre conformationnel lent 
+temperature ambiante est apportee par l'evolution du spectre 
+de 4 dans I'hexachloroacCtone avec la temperature, montrant 
+une coalescence des signaux des deux formes vers 140°C (fig. 
+
+6). La rkversibilite du processus a Ct C verifiee lors du re-
+
+froidissement. 
+En utilisant la mCthode decrite dans la rtfkrence 10 pour les 
+Cchanges entre sites inegalement peuples, on peut evaluer le 
+AG* de I'equilibre C/S de 4 dans 1'hexachloroacCtone a 20 t 
+1 kcal mol-'. Cette barrikre est inferieure a celle du CTV dans 
+le mCme solvant: ce dernier se decompose a 200°C sans qu'il 
+Can. J. Chem. Downloaded from www.nrcresearchpress.com by 87.160.185.190 on 03/27/14 
+
+For personal use only. 
+
+
+CAN. J. CHEM. VOL. 63, 1985 
+
+FIG. 4. Etude i 80 MHz de I'tvolution du spectre de 2 par addition 
+de DMSO-d6 i une solution chloroformique (zone comprise entre 5 et 
+
+6 ppm); pourcentages CDCl,/DMSO-d6: (a) 100:O; (b) 84: 16; (c) 
+80 : 20; (d) 0 : 100. 
+
+FIG. 3. Etude a 80 MHz de l'tvolution du spectre de 4 par addition 
+de DMSO-d6 h une solution chloroformique (zone comprise entre 5 et 
+
+4c 
+
+4s 
+
+6,5 ppm); pourcentages C D C I ~/ D M S O -~~: 
+(a) 100:0;*(b) 90: 10; (c) 
+85: 15: (d) 80.20; (e) 0: 100. 
+FIG. 5. Equilibre conforrnationnel crown E saddle du composC 4. 
+
+Can. J. Chem. Downloaded from www.nrcresearchpress.com by 87.160.185.190 on 03/27/14 
+
+For personal use only. 
+
+
+FRUCHIER ET AL. 
+
+379 
+
+Frc. 6. Etude a 100 MHz de 1'Cvolution avec la temperature du 
+spectre de 4 dans I'hexachloroacCtone (zone comprise entre 5.0 et 6.5 
+P P ~) . 
+
+y ait eu Cvolution du systkme AB mCthylCnique de la forme C 
+seule visible (5). Par contre, aucun Clargissement des signaux 
+de la forme S n'est observC dans CD2CI2 a -95°C. De toute 
+Cvidence, et malgrC que I'Ctude des deux Cquilibres ne soit pas 
+possible dans le mCme solvant, la barrikre de I'interconversion 
+S/S est donc trks inferieure celle de l'equilibre CIS. En effet, 
+le r61e du solvant est important. Par exemple, contrairement a 
+ce qui est observe dans l'hexachloroac6tone, le spectre de 4 
+
+dans le DMSO-d, a 140°C est identique a celui observe a 
+
+tempirature ambiante. 
+
+D'autre part, la difference de comportement de 2 et 4 dans 
+CDCI3 et DMSO-d, nous a incites a les Ctudier dans plusieurs 
+autres solvants. Les dkplacements chimiques sont reunis dans 
+le tableau I . On constate que dans les solvants tels que DMSO, 
+benzkne, methanol, acetonitrile, acetone, I'equilibre est totale-
+ment d6placC en faveur de la forme C, mais que I'anisochronie 
+des protons mCthyleniques ainsi que le centre du systkme AB 
+sont variables. Par contre, les solvants dans lesquels les deux 
+conformkres coexistent sont tous halogCnCs: chloroforme, di-
+chloromCthane, bromoforme, hexachloroacCtone. C'est aussi 
+dans ces solvants que I'anisochronie des protons mCthylCniques 
+est la plus faible. 
+Enfin, des experiences r6alisCes a partir de melanges 
+CDC1,/DMSO-d6 et benzkne/DMSO-d6 ont mis en Cvidence la 
+sensibilite plus grande d'un des deux protons methyleniques 
+I'effet de solvant. Par exemple, lors de I'addition progressive 
+de DMSO 2 une solution benzCnique de 2 ou de 4, le de-
+placement du systkme AB vers le; frkquences elevkes s'ef-
+fectue avec croisement des signaux des protons mCthylCniques. 
+Ces diffkrentes observations sont en faveur d'une solvatation 
+specifique du conformkre C, solvatation qui a dCja Cti invoquke 
+dans le cas du CTV (6, 9) pour expliquer la stabilisation de la 
+forme C pourtant plus encombrCe que la forme S. Ce dernier 
+point est illustrC dans notre sCrie par le pourcentage de forme 
+S qui passe de 20 (produit 4) 30 (produit 2) puis a 50 (produit 
+12) quand on remplace I'hydrogkne de la position 4 des noyaux 
+pyrazoliques par un mCthyle (dans 2) ou un brome (dans 12) 
+(tableau I). 
+
+Conclusion 
+Dans la serie du CTV, il a Ct C montre (6) qu'au moins un des 
+carbones sp3 mCthylCniques doit Ctre remplace par un carbone 
+sp2 pour qu'il y ait, dans 1'Cchelle des temps de la rmn, equi-
+libre entre conformkres C et S. Dans tous les autres cas, c'est 
+soit la forme C seule, soit la forme S seule qui est observe. 
+Nous venons de voir que cette condition n'est pas necessaire 
+dans la strie de la tripyrazolotriazonine-1,4,7 oh les formes C 
+et S sont observees en m&amp;me temps dans certains solvants. 
+D'autre part, Ctant donnC que la difference observable entre 
+formes S et C est l'anisochronie des hydrogknes rnCthylCniques 
+de cette dernikre, un spectre a haut-champ au moins sera sou-
+haitable chaque fois que la forme S sera "vue" seule. Nous 
+avons en effet montre que, dans certains solvants, I'ani-
+sochronie de la forme C peut Ctre si faible qu'elle n'est pas 
+mesurable a 80 ou 100 MHz. 
+
+Partie experimentale 
+Les spectres rmn du proton ont kt6 enregistres sur les spectrometres 
+suivants: Varian HA-100 et Bruker WP-80-DS du Laboratoire de 
+Mesures Physiques de I'U.S.T.L., Bruker WM-250 de la Sadis Bru-
+
+ker a Wissembourg que nous remercions de son aide, Bruker WM-
+360-WB du Laboratoire de RMN a Haut-Champ de Montpellier. Tous 
+
+les dCplacements chimiques sont donnCs en ppm par rapport au TMS 
+pris comme refirence interne. 
+Les spectres de masse ont CtC obtenus sur un spectrometre JEOL 
+JMS D-100 au Laboratoire de Mesures Physiques de 1'U.S.T.L. 
+
+Les points de fusion infkrieurs a 25OoC, non corrigks, ont CtC deter-
+
+mines en tubes capillaires avec un appareil Tottoli, et ceux sup6rieurs 
+
+a 250°C avec une platine chauffante Leitz. 
+
+Les analyses ont CtC effectuCes par le Service Central de Micro-
+analyses du C.N.R.S. 
+Les rendements indiquCs correspondent A des produits ne presentant 
+qu'une seule tache en chromatographie sur couche mince. 
+Can. J. Chem. Downloaded from www.nrcresearchpress.com by 87.160.185.190 on 03/27/14 
+
+For personal use only. 
+
+
+380 
+
+CAN. J. CHEM. VOL. 63. 1985 
+
+HydrazinomCttzyl-5 dirne'ttzvl-3,5'(3') dipvrazolj~l-1.3'(5') rne'thane 6 
+Ce composC tres instable a Ct C prCparC in sit~c pour Cviter toute 
+oxydation Cventuelle ( I I). Un courant d'azote est envoy6 sur une 
+solution de 0.10 rnol (26 g) du chlorhydrate de 5 (I) dans 500 mL 
+d'Cthanol puis 0,80 rnol d'hydrate d'hydrazine (40 g) en solution dans 
+50 mL d'ethanol sont ajoutCs. Le melange est agitC i temperature 
+ambiante pendant 20 min puis refroidi jusqu'h apparition d'un prCcipi-
+
+tt de chlorhydrate d'hydrazine que I'on filtre. Le filtrat est concentrk 
+
+sous atmosphkre d'azote. L'huile obtenue est chauffke A 90°C sous 0, I 
+Torr (I Torr = 133.3 Pa) afin d'Climiner le maximum d'hydrazine et 
+est utilisCe aussit6t pour I'Ctape suivante. 
+
+CnrbPthoxy-5 trimtthyl-3.3'.5"(3") [pyrazole mr'thyltne-3"(5")]-yl-I' 
+dipyrazolyl-1.5' rnktl~ane 7b 
+Un melange de 0,05 rnol de 6 (1 1 g) et 0,06 rnol dlacCtylpyruvate 
+dlCthyle (9,s g) est chauffC i reflux 2 h sous atmosphere d'azote dans 
+500 mL d'kthanol. Aprks Cvaporation du solvant sous pression rC-
+duite, le rCsidu huileux est chromatographi6 sur alumine (ether/ 
+ethanol 98:2). A cBtC de produits non identifies, les deux isomeres 
+suivants sont 1so1Cs. 
+Compose' 7a. R, = 0.10, avec un rendement de 10%; F = 120°C; 
+spectre de masse (pic molCculaire): m/e = 342; rrnn (CDCI?): 6,52 
+(IH, s),5,92(1H, s),5,67(1H, s),5,32(2H,s),5,28(2H, s),4,36 
+(2H, q), 2,20 (3H, d, J = 0,6 Hz: CH1-5"), 2,16 (3H, d, J = 0.7 Hz: 
+CH3-5), 2,15 (3H, s, CH1-3'). 1,34 (3H, t); rrnn (C(,D,): 6.43 (IH, s), 
+
+6,07(2H, s), 5,88(lH.s),5,47(1H,s),5,24(2H, s),4,14(2H,q), 
+
+2,06 (3H, S: CH?-3'). 1.95 (3H, d, J = 0,6 HZ: CH3-5"). 1,62 (3H, 
+d, J = 0.7 HZ: CH3-51, 1.03 (3H. t). 
+Compost 7b, RI. = 0,25, avec un rendement de 24%; F = 138°C; 
+spectre de masse (pic moltculaire): m/e = 342; rrnn (CDC13): 6,59 
+(IH, s), 5 3 8 (2H. s), 5,69 (2H. s), 5,42 (2H, s), 4,30 (2H, q), 2.24 
+(3H, d, J = 0.3 HZ: CH3-3), 2,19 (3H, d, J = 0,6 Hz: CH3-5"). 2,16 
+(3H, d, J = 0,3 Hz: CH3-3'). 1,30 (3H. t); rrnn (ChD6): 6.43 (1 H, s), 
+
+6,03(1H,s),5,84(1H,s),5,65(2H, s),5,42(2H, s), 3,92(2H,q), 
+
+2,06 (3H, d, J = 0,3 HZ: CH3-3). 2,03 (3H, d, J = 0.3 Hz: CH3-3'). 
+1,83 (3H, d, J = 0,6 HZ: CH3-S"), 1.02 (3H, t). 
+
+HydroxymPthyl-5 trimPrhy1-3,3',5"(3") [p-vrazole mPttzylPrle-3"(5"j]-
+yl-I' dipyrazolyl-1,5' methane 
+Cet alcool est obtenu par reduction de I'ester 7b par AILiH, selon 
+un protocole analogue h celui dtcrite dans la IittCrature pour 
+
+I'homologue infCrieur B deux noyaux pyrazole (I). Rendement 75%; 
+
+F = 1 18-120°C; spectre de masse (pic molCculaire): m/e = 300; rrnn 
+(CDCI,): 5,87 (IH, s), 5,82 (IH, s), 5.70 (IH, s), 5.23 (2H, s), 5,12 
+(2H, s), 4,42 (2H, s), 2,14 (3H, s: CH,-3). 2,l I (3H, d, J = 0,6 Hz: 
+CH3-5"), 2.09 (3H, s: CH3-3'); rmn (ChDh): 5,87 (1 H, s), 5.83 (IH, 
+s), 5.82 (IH, s), 5,22 (2H, s), 5,12 (2H, s), 4.38 (2H, s), 2,14 (3H, 
+s: CH3-3), 2,08 (3H, S: CH3-3'), 1,81 (3H, d, J = 0,6 HZ: CH3-5"). 
+
+Chloromerhyl-5 trimethyl-3,3'.5"(3"j [pyrazole mithyline-3"(5"j]-
+yl-1' dipyrazolyl-1,5' rnPthnr1e 8 
+Ce compose est obtenu par action du chlorure de thionyle sur 
+I'alcool prCcCdent selon le m&amp;me mode operatoire dCcrit pour 
+I'homologue infirieur A deux noyaux pyrazoles (I). Rendement 65%; 
+F = 80°C (dCcomposition); spectre de masse (pic molCculaire): m/e 
+= 3 18; rmn (CDC13): 6.01 (I H, s), 5,92 (2H. s), 5,42 (2H, s), 5,34 
+(2H, s), 4,47 (2H, s), 2,32 (3H, d, J = 0,4 Hz: CH1-5'). 2,19 (3H, 
+s: CH3-3). 2,17 (3H, s: CH3-3'); rrnn (C6D,): 5.80 (I H, s), 5,73 (IH, 
+s), 5,71 (IH,s), 5,37(2H, s), 5,23(2H, s),4,18(2H, s), 2,10(3H, 
+S: CH3-3), 2,09 (3H, S: CH3-3'), 1,88 (3H, d, J = 0,4 HZ: CH3-5"). 
+
+TrimPdlyl-2,7,12 dihydro-9,14 (4 H Jtripyrazolo(1 ,5-a:1',5'-d:1".5"-
+g jtrinzonine-1,4,7 4 
+A 4 mL d'une solution de soude i 50% en poids sont ajoutCs 2 X 
+lo-, rnol de bromure de tCtrabutylammonium et 300 mL de benzene 
+en agitant vivement. Une solution de 0,005 rnol de 8 dans 300 mL de 
+benzkne est alors ajoutCe goutte a goutte au melange precedent et le 
+milieu rkactionnel est chauffC au bain-marie i 60°C pendant 2 h. 
+Tres rapidement, un precipitt blanc, fin et floconneux apparait. En 
+fin de rkaction, ce prCcipitC est filtrC, lave i I'eau puis extrait au 
+chloroforme. La phase organique est sCchCe sur sulfate de sodium, 
+filtrCe puis le solvant CvaporC. Le rksidu solide est recristallisC dans un 
+mClange eau/Cthanol et donne 4 avec un rendement de 38%; F = 
+310°C; spectre de masse (pic molCculaire): m/e = 282. Anal. calc. 
+pour CIsHlnN(,: C 63,89, H 6,43, N 29,80; trouvCe: C 63,49, H 6,47, 
+N 29,5 1; rmn, voir tableau I. 
+
+Tribromo-3,8,13 trime'thyl-2,7,12 dihydro-9,14(4 H )tripyrazolo-
+(1,5-a:11,5'-d :Iv,5"-g)triazonine-1 ,4,7 12 
+A 0,001 rnol de 4 en solution dans le chloroforme est ajoutC goutte 
+
+B goutte 0,003 rnol de brome en solution chloroformique. L'addition 
+
+terminke, le mClange est port6 5 reflux pendant I h. Le bromohydrate 
+de 12, insoluble dans le chloroforme, prCcipite et le milieu est neutra-
+lisC par une solution aqueuse de Na2C03. La phase organique est 
+sCparCe, sCchCe et CvaporCe. Le solide blanc obtenu est recristallisk 
+dans le chloroforme et conduit a 12 avec un rendement de 67%; F = 
+300°C; spectre de masse (pic molCculaire): m/e = 522. Anal. calc. 
+pour CISHISBr3Nh: C 34,71, H 2,91, N 16,19; trouvte: C 35,50, H 
+3,l I, N 16,23; rmn, voir tableau I. 
+
+HexamPthyl-2,3,7,8,12,13 dihydro-9,14 (4H)tripyrazolo-
+(1,5-a:11,5'-d:1",5"-g)triazonine-l ,4,7 2 
+Ce composC a Ct C prCparC selon les indications de la IittCrature (2). 
+Le produit que nous avons is016 aprts recristallisation et sublimation 
+posskde les mCme caractkristiques que celles dCcrites dans la riference 
+2: Rendement 3% (litt. (2): 6%); F = 320°C (litt. (2): 325°C). Anal. 
+calc. pour CInHZ4Nh: C 66,64, H 7,46, N 25,90; trouvte: C 66,59, H 
+7.38. N 25.58: rmn. voir tableau I . La seule diffkrence avec la 
+
+, 
+, 
+, 
+, 
+
+IittCrature (2) est le pic rnoltculaire du spectre de masse h rn/e = 324. 
+
+I. B. LUPO, A. RAMDANI et G. TARRAGO. J. Heterocycl. Chem. 21, 
+545 ( 1 984). 
+2. H. REIMLINGER, A. NOELS et J. JADOT. Chem. Ber. 103, 1949 
+( 1970). 
+3. J. ELGUERO et R. JACQUIER. J. Chim. Phys. 1242 (1966). 
+4. F. A. L. ANET et M. GHIACI. J. Am. Chem. Soc. 102, 2528 
+( 1980) et references citCes. 
+5. B. MILLER et B. D. GESNER. Tetrahedron Lett. 335 1 (1965). 
+6. J. F. MANVILLE et G. E. TROUGHTON. J. Org. Chem. 38, 4278 
+(1973) et rCf6rences citCes. 
+
+7. W. ~1 RAVERTY, R. H. THOMSON et T. J. KING. J. Chem. Soc. 
+
+Perkin Trans. 1, 1204 (1977). 
+8. W. R. ROTH. Ann. Chem. 671, 10 (1964). 
+9. G. BUEMI, F. ZUCCARELLO et D. GRASSO. J. Mol. Struct. 42, 195 
+(1977). 
+10. M. L. MARTIN, J.-J. DELPUECH et G. J. MARTIN. Practical NMR 
+spectroscopy. Heyden and Son Ltd. 1980. 
+11. J. FIFANI, A. RAMDANI et G. TARRAGO. Nouv. J. Chim. 1, 521 
+(1 977). 
+
+Can. J. Chem. Downloaded from www.nrcresearchpress.com by 87.160.185.190 on 03/27/14 
+
+For personal use only. 
+
+
+
+	
+

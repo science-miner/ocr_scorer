@@ -1,0 +1,801 @@
+
+	
+
+		
+
+	
+
+	
+
+Interactions du Cu(II), du Hg(I1) et du Pt(I1) avec les formes monomeres et dimeres 
+de la thymine, de la thymidine et de l'acide orotique 
+
+RAOUL M'BOUNGOU, MICHELLE PETIT-RAMEL ET GERMAINE THOMAS-DAVID 
+Laborafoire de chimie analyfique 11, Universiti Claude Bernard, Lyon 1, 43 boulevard du 11 Novembre 1918, 
+69622 Villeurbanr~e CEDEX, France 
+
+G ~R A R D 
+PERICHET ET BERNARD POUYET 
+Laborafoire de phofochimie, U~ziversife' Claude Bernard, Lyon 1, 43 boulevard du 11 Novembre 1918, 
+69622 Villeurbanne CEDEX, France 
+R e ~u le 24 septembre 1986 
+
+RAOUL M'BOUNGOU, MICHELLE PETIT-RAMEL, GERMAINE THOMAS-DAVID, G ~R A R D 
+PERICHET et BERNARD POUYET. 
+Can. J. Chem. 65, 1479 (1987). 
+Les constantes de protonation du monomkre (TM) et du dimbre (TD) de la thymine, du monomkre (OM) et du dimere (OD) de 
+
+l'acide orotique et de la thymidine (TY) ont Ct C calculCes a 25 et a 37OC et i force ionique p. = 0 , l (NaN03). Dans les mCmes 
+
+conditions, les constantes de stabiliti des complexes formis avec le Cu(II), le Hg(I1) et le Pt(I1) ont CtC dCterminCes par 
+protomttrie. Les risultats sont discutks en termes de sites de liaison : azote N3 pour la thymine monomkre et dimkre et la 
+thymidine; anion carboxylate en C6 et azote adjacent N1 pour l'acide orotique monomkre et dimkre. 
+
+RAOUL M'BOUNGOU, MICHELLE PETIT-RAMEL, GERMAINE THOMAS-DAVID, G ~R A R D 
+PERICHET, and BERNARD POUYET. 
+Can. J. Chem. 65, 1479 (1987). 
+The protonation constants of monomeric (TM) and dimeric (TD) forms of thymine and monomeric (OM) and dimeric (OD) 
+forms of orotic acid and thymidine (TY) have been calculated at 25 and 37°C and at ionic strength p. = 0. I (NaN03). Under the 
+same conditions the stability constants of their Cu(II), Hg(II), and Pt(I1) complexes have been determined by protometric 
+methods. The results have been discussed and a comparison has been established in terms of binding sites: nitrogen N3 for 
+monomeric and dimeric forms of thymine and thymidine; carboxylate anion at C6 and adjacent ring nitrogen N1 for monomeric 
+and dimeric forms of orotic acid. 
+
+Introduction 
+
+0 
+
+Sous l'action d'une irradiation monochromatique, la thymine 
+(une des quatre bases azotCes d e I'ADN) peut se dimeriser 
+
+(fig. l a ) et donner lieu a une rCaction autodifensive d e 
+
+l'organisme qui utilise alors des enzymes de photorCactivation 
+pour monomCriser le dimkre d e la thymine. Des articles 
+prCcCdents (1, 2) ont montrC, a titre d'exemple, une analogie de 
+
+mCcanisme rkactionnel lorsque l'enzyme est remplacC par les 
+
+ions HE^+. -
+
+Dans c e memoire, nous Ctendrons cette premiere approche 
+
+o 
+
+a I'acide orotique et a son espkce dimeriske (fig. lb), qui, 
+
+transformke par voie mCtabolique en nucleotide, entre dans la 
+
+ii 
+
+4 ' 
+
+biosynthkse des bases pyrimidiques, classe 2 laquelle appartient 
+
+la thymine (3). D e plus, la substitution des ions H ~~+ par les 
+
+ions Cu2+ et par les ions pt2+, issus du cis-platine, conduit 2 des 
+
+complexes qui prksentent non seulement les caractkristiques 
+souhaitCes applications en dans photochimie, le domaine mais des sont traitements susceptibles antitumoraux de plusieurs (4). 
+04 H 
+
+~H 
+@ 
+C O O H 
+
+d/ (oiz N 
+
+Outre l'intCr&amp;t Cvident d e ces complexes dans d e nombreux 
+
+N~ 
+
+processus physiologiques, le choix d e ces deux dCrivCs d e la 
+pyrimidine pose, lors de la formation des complexes mCtal-
+liques monomkres et dimkres, un problkme au niveau de la 
+
+ii 
+
+liaison mCtal-coordinat, notamment en ce qui concerne l'atome 
+d'azote donneur d'ilectrons. 
+
+HN(' 
+
+Dans la meme ligne, nous aborderons 1'Ctude des interactions 
+du Cu(I1) et du Hg(I1) avec la thymidine, nucleoside correspon-
+
+0 
+
+dant a la thymine (fig. l c ) , qui a la proprittt d e s'incorporer a 
+
+0 4 
+
+I'ADN sans subir de modification (3). 
+
+N -
+Q 
+
+CH20H 
+
+La dimarche suivie pour la mise en Cvidence des espkces 
+protonCes, puis des espkces complexes M,H,Ar, ainsi que le 
+
+calcul d e leurs constantes de stabilitC P, , , dCcoule directement 
+
+du protocole dCveloppC dans un prCcCdent memoire (1) : (i) 
+
+OH 
+
+examen des courbes de formation n = f(pL) oh n reprksente 
+
+FIG. 1. (a) Thymine monomkre et dimkre. (6) Acide orotique 
+le nombre moyen d e ligands L dCprotonCs; (ii) affinement 
+monomkre et dimkre. (c) Thymidine. 
+
+I Printed in Canada i Imprim6 au Canada 
+
+Can. J. Chem. Downloaded from www.nrcresearchpress.com by 87.160.185.190 on 03/27/14 
+
+For personal use only. 
+
+
+1480 
+
+CAN. J. CHEM. VOL. 65, 1987 
+
+TABLEAU 1. Constantes de formation des complexes de la thymine (monomkre et dimkre) 
+
+Rtfkrence 
+Domaine de 
+Espkce 
+
+P9r 
+1% P p v 
+
+formation 
+
+1 
+8 
+9 
+
+23 
+31 
+34 
+
+*&amp;arts-types correspondants aux constantes. 
+
+par rninirnisation d'tcart-type sur les points experirnentaux et 
+calcults des transformtes des courbes de titration, q = f (pH), 
+rendues IinCaires, o t ~ q est le nornbre rnoyen de protons 
+neutralisables par mole de ligand. 
+
+Resultats 
+
+Les bases puriques et pyrirnidiques rnonomkres cornposant 
+des acides nuclgiques sont susceptibles de cornplexer de 
+nombreux cations tels que H ~~+ , 
+Pt2+, Cu2+, ~i ~+ , 
+z n 2 + , 
+c o 2 + , Mg2+, Ca2+ et Pb2+ bien que les constantes de stabilite 
+correspondantes ne soient pas calculCes (1,2,5-8). Excepte les 
+travaux que notre laboratoire a publies nous n'avons repertori6 
+aucune donnCe bibliographique relative a la deprotonation et 
+aux stabilitts thermodynarniques de ces rn&amp;rnes bases sous 
+forme dimCrisCe. 
+
+I. Thymine monomere et dimere 
+Bien qu'il y ait dans chaque rnolCcule de thymine (5-methyl-
+2,4 ( l H , 3H) pyrimidinedione) rnonomere deux possibilites 
+d'echange relatives aux hydrogenes portCs par les fonctions 
+amines N1 et N3, seule la deprotonation N3 est observable 
+dans le dornaine de pH envisage. Par voie de consCquence la 
+molCcule de dirnere subira deux dtprotonations en N3 et N3' (1). 
+(a) Interactiorrs avec le cuivre 
+Thymine monomdre, H(TM). En ce qui conceme la corn-
+plexation du cuivre, seul le complexe [Cu(TM)] + est rnentionne 
+(8, 9). Pour notre part, nous observons que la variation 
+systimatique dans les lirnites de solubilitC, de la concentration 
+en ions cuivriques met en evidence d'autres especes complexes. 
+
+Les interactions thymine-cuivre se situent dans le dornaine 6 &lt; 
+pH &lt; 9 et pour les deux rapports coordinat-metal considCrCs; 
+
+l'examen des courbes de formation fi = f(p[TM.]) conduit a 
+
+deux rernarques : 
+L'ensernble des courbes de formation tend vers ri = 2, ce qui 
+irnplique la formation d'espkces faisant intervenir une, puis 
+deux molecules de ligand par metal. 
+Le dtplacernent de ces courbes A(p[TM]) avec l'accroisse-
+ment de la concentration en metal, Am, indique de plus, la 
+formation d'especes polynuclCaires M2L2 et M2L4 (10, 11). 
+
+2cu2+ + 2H(TM) * [ c u ~( T M ) ~] ~+ 
+
++ 2H+ 
+
+2cu2+ + 4H(TM) F'c [Cu2(TM)4] + 4H+ 
+
+La bonne convergence du processus d'affinement permet de 
+verifier les hypotheses Crnises. Les valeurs dCfinitives des 
+constantes affinkes par la rnethode de ccpit-mapping)), ainsi 
+que les donnees bibliographiques sont rassemblees dans le 
+tableau 1. 
+Thymine dimdre, H2(TD). La faible solubilitC de la thymine 
+dirnere impose rapidement une lirnite superieure a la concentration 
+en coordinat (-
+M). Pour ce systeme il est possible de 
+rnettre en Cvidence (tableau 1) une espece protonie [CuH(TD)]+ 
+due au depart du premier proton neutralisable en N3, puis une 
+espece cornplexe simple [Cu(TD)] rCpondant aux equilibres : 
+
+Cu2' + H2(TD) * [CuH(TD)]+ + H+ 
+
+cu2+ + H2(TD) F't [Cu(TD)] + 2H+ 
+
+(b) Interactions avec le platine 
+Thymine monomdre. Si de nornbreuses publications (1, 2, 
+13-17) dCtaillent la preparation de complexes de Pt(I1) avec la 
+presque totaliti des bases constitutives de I'ADN, il faut noter 
+que certains auteurs (18, 19) precisent que le c ~s -[ P ~C ~~( N 
+n'a aucune rtactivitt directe vis-a-vis de la thymine ou de la 
+thymidine rn&amp;me a 37°C. De plus dans chaque cas l'ion hydrate 
+Can. J. Chem. Downloaded from www.nrcresearchpress.com by 87.160.185.190 on 03/27/14 
+
+For personal use only. 
+
+
+M'BOUNGOU ET AL 
+
+TABLEAU 2. Constantes de stabiliti des complexes de l'acide orotique (monomkre et dimkre); 
+t = 25"C, p = 0 , l (NaN03) 
+
+Domaine de 
+Espkce 
+P9r 
+log Pp,, 
+formation 
+23 
+24 
+25 
+
+* ~c a r t s -t ~~e s 
+correspondants aux constantes. 
+
+~~S -[ P ~( H ~O ) ~( N H ~) ~] ~+ 
+est beaucoup plus reactif que le 
+compose chlore cis-[PtC12(NH3)2]. 
+Cette anomalie nous a sembli d'autant plus interessante a 
+etudier que quelques travaux recents (4, 20, 21) font etat 
+d'interactions ~~S -[ P ~C ~~( N H ~) ~] 
+avec I'ADN ? 
+I 25°C. Et pour 
+mieux cerner l'influence des ligands chlores, nous avons 
+procede en deux temps en suivant par des mesures proto-
+metriques a 25 et i 37°C : 
+
+les interactions c i ~-[ P t C l ~( N H ~) ~1 
+-thymine monomkre 
+les interactions c ~s -[ P ~( H ~O ) ~( N H ~) ~] ' + 
+-thymine 
+monomkre 
+La constante de deprotonation de la thymine monomkre a ete 
+recalculee a 37°C. Nous avons verifie que le c i ~-[ P t C l ~( N H ~) ~1 
+se complexait trks difficilement avec la thymine monomere 
+quelle que soit la temperature. Par contre l'ion substitue 
+c i s -[ P t ( ~~O ) ~( N H 3 ) 2 ] ~+ 
+conduit a des mesures expirimentales 
+fiables et reproductibles permettant le calcul precis des constantes 
+de stabilite pour deux complexes successifs mixtes, uniquement 
+identifies par Lippert (22). 
+
+C ~S -[ P ~( H ~O ) ~( N H ~) ~] ' + 
+
++ H(TM) e cis-[Pt(TM)(NH3)2]+ 
++ H + + 2H20 
+
+C ~S -[ P ~( H ~~) ~( N H ~) ~] ~' 
+
++ 2H(TM) S cis-[Pt(TM)2(NH3)2] 
+
++ 2H+ + H20 
+
+Thymine dim2re. En ce qui concerne la thymine dimkre, 
+l'addition de ~~S -[ P ~( H ~O ) ~( N H ~) ~] ~+ 
+n'a pas d'incidence sur 
+les deplacements protometriques : il n'y a donc pas deformation 
+d'espece complexe dans nos conditions experimentales. En 
+outre, les modkles de Dreiding qui permettent une bonne 
+visualisation des composes moleculaires montrent aisement 
+1'impossibilitC d'insertion &lt;&lt;sandwich&gt;&gt; de l'ion metallique 
+entre les deux plans de la molicule dimere. 
+2. Acide orotique monomire et dimbe 
+L'acide orotique (acide 6-uracilcarboxylique) n'est pas une 
+base de l'ADN, et bien que possedant un groupement carboxy-
+lique en C6 il s'intkgre dans l'ensemble des derives pyrimidiques 
+dont nous avons souligne l'importance physiologique. 
+La premiere dissociation protonique concerne l'hydrogkne du 
+groupement carboxylique en C6. De plus il existe dans chaque 
+molicule de monomkre deux possibilites d'echange relatives 
+
+aux hydrogknes port6 par les fonctions amines en N1 et N3 
+(fig. lb). 
+(a) Interactions avec le cuivre 
+Acide orotique monombe, HZ(OM). Nous avons calcule dans 
+
+un premier temps, les constantes de stabilite protonique Poll 
+
+et 
+de l'acide orotique monomkre B 25°C (tableau 2). Bien 
+qu'il y ait dans chaque molCcule de monomkre, deux possibilites 
+d'echange protonique relatives aux hydrogknes portes par les 
+fonctions amines N 1 et N3 (fig. 1 b), les mesures protometriques 
+se revelant inopirantes pour une telle differenciation, nous 
+pouvons supposer que le fort effet inductif du groupement 
+carboxylique porte par C6 active preferentiellement l'hydro-
+gkne porte par N1 en position a, la seconde deprotonation de 
+l'hydrogkne port6 par N3 se situant vers pH 13 (23). 
+Dans le domaine de pH oh l'hydrolyse des metaux est 
+negligeable, l'acide orotique monomere complexe les ions ~i ' + 
+et Cu2+ en formant les chelates du type [Ni(OM)] et [Cu(OM)]. 
+Pour chacun de ces chelates la liaison coordinat-metal passe 
+par l'intermediaire du groupement carboxylique et I'atome 
+d'azote N1 (24-26). 
+En accord avec ces dondes, la complexation des ions Cu2+ 
+par le monomkre et pour deux rapports coordinat-metal se 
+traduit par la formation d'une seule espkce complexe repondant 
+l'equilibre : 
+
+Dans ce cas, il y a formation d'un chelate par liaison coordinante 
+entre le groupement carboxylique et l'azote adjacent N1 
+(27-30). 
+Acide orotique dimbe, H4(OD). Nous ne disposons d'aucune 
+donnee bibliographique chiffrant les stabilites protoniques et les 
+stabilites des complexes et nous avons suivi le m&amp;me protocole 
+d'etude que pour le monomere. La transformee des courbes de 
+
+neutralisation g = f (pH) correspond bien a la presence de quatre 
+
+protons neutralisables H4(OD) relatifs aux constantes P o l l , 
+P021, Po31 3 Po41 du 
+2. 
+Le traitement des donnees potentiometriques relatives au 
+systkme Cu2+ -acide orotique dimkre fait apparaitre la 
+formation d'une seule espkce complexe de type [CU(OD)]~-
+qui repond a l'equilibre : 
+Can. J. Chem. Downloaded from www.nrcresearchpress.com by 87.160.185.190 on 03/27/14 
+
+For personal use only. 
+
+
+1482 
+
+CAN. 1. CHEM. 1 
+
+(b) Interactions avec le mercure 
+Acide orotique monombe. En prksence des ions Hg2+, 
+l'acide orotique monomkre conduit a la formation simultante 
+du complexe simple [Hg(OM)] et de l'espece cornplexe poly-
+nucleaire [ H ~, ( o M ) ~I ~-dont les Cquilibres correspondants 
+sont : 
+
+Les phCnomknes secondaires qui accompagnent gtntralernent 
+la cornplexation des ions H ~~+ (hydrolyse et dismutation 
+(1, 3 1, 32)) en prCsence d'un excks de mttal, n'ont pas Ct C pris 
+en compte lors de l'affinement des constantes. L'introduction, 
+dans le cycle d'affinement de la constante 
+
+relative a la 
+
+formation d'espece hydroxylCe soluble [Hg H-n'amCliore 
+pas sensiblement la convergence. 
+Acide orotique dimkre. La solubilitt importante de l'acide 
+orotique dimkre ne favorise pas l'hydrolyse des ions mercuri-
+ques que nous considkrons comrne nkgligeable. Les interactions 
+de l'acide orotique dimkre avec les ions Hg2+ se traduisent par 
+la formation d'une seule espkce cornplexe de type [Hg(OD)I2-
+dont l'kquilibre est : 
+
+(c) Interactions avec le platine 
+Acide orotique monomkre. Le platine complexC sous forme 
+d'ions ~i s -[ P t ( H ~o ) ~( N H ~) ~l ~+ 
+
+conduit a la formation de deux 
+
+espkces chklates mixtes successives : 
+
+Acide orotique dimkre. Contrairement 8 la thymine dimkre, 
+la presence du groupement carboxylate en C6 favorise la 
+formation d'un chelate externe irnpliquant l'azote N1 adjacent : 
+
+c i s -[ ~t ( ~~O ) ~( N H ~) ~l ' + 
+
++ H4(OD) c i s -[ P t ( o D ) ( ~H ~) ~] ~-
+
++ 4H+ + 2H20 
+
+3. Thymidine H ( T Y ) 
+De nombreux travaux rnentionnent les interactions de la 
+thymidine avec les ions rnttalliques tels que Hg2+, Cu2+, Co2+, 
+Cd2+ et Mn2+ (12, 14, 18, 31, 33-35), rnais fort peu se 
+rapportent aux calculs des stabilitts thermodynamiques permet-
+tant de chiffrer les Cquilibres de complexation. 
+Si l'introduction du groupe sucre sur l'azote N1 confkre a la 
+thymidine une plus grande solubilitC que celle de la thymine, 
+elle n'a pratiquement pas d'incidence sur la stabilitC protonique 
+de l'hydrogkne portt par N3. La constante calculte (tableau 3) 
+concorde avec les rares donnCes bibliographiques que nous 
+posstdons (14, 31). 
+(a) Interactions avec le cuivre 
+Comme dans le cas de la thymine, l'obtention d'espkces 
+polynucltaires se confirme rapidement selon les tquilibres : 
+
+(b) Interactions avec le mercure 
+Ferreira et al. (3 1) font Ctat d'un complexe stable [Hg(TY),] 
+engageant deux molCcules de ligands. 
+Dans nos conditions exptrimentales (excks de ligand) nous 
+avons dttectC dks pH 3 la prtsence de la premikre espkce 
+
+successive [Hg(TY)] +. L'introduction de la constante corres-
+
+TABLEAU 3. Constantes de formation des complexes de la thymidine; 
+t = 25"C, p = 0 , l (NaC104) 
+
+RCfkrence 
+Domaine de 
+Espkce 
+
+pqr 
+
+log P, , , 
+
+formation 
+14 
+31 
+
+H(TY) 
+01 1 
+9,78 
+9,6 
+9,6 
+[ C U ~( T Y ) ~I 
+
+2' 
+
+202 
+12,78 
+
+pH 5,5-8,5 
+
+[Cu2 (TY)4 1 
+
+204 
+23,l 
+
+pH 6-8,5 
+
+[Hg(TY) 1 + 
+
+101 
+7,88 
+pH 2-4 
+[Hg(TY)2] 
+102 
+14,94 
+pH 2-10 
+21,2 
+
+pondante a cette dernikre amtliore sensiblement la convergence 
+de l'affinement relatif aux points exptrimentaux de deux 
+rapports coordinat : mttal. 
+
+Hg2+ + H(TY) * [Hg(TY)]+ + H + 
+
+~g ' + + 2H(TY) S [Hg(TY)2]2+ + 2H+ 
+
+Conclusion 
+L'examen compart des complexes du cuivre, du mercure 
+et du platine, que nous venons d'explorer appelle plusieurs 
+remarques en ce qui concerne les coordinats. 
+En outre, les constantes de formation consigntes dans le 
+tableau 1 donnent a c c b aux concentrations de toutes les espkces 
+en solution et la figure 2, un exemple de leur rtpartition et 
+prkcisent trks exactement les conditions exptrimentales de 
+concentration et de pH ntcessaires au bon dtroulement de la 
+transformation photochimique. 
+
+1. Thymine et thymidine 
+Thymine monomke, thymidine 
+La thymine monomkre et la thymidine, coordinats monoden-
+tates, donnent prCfCrentiellement des complexes polynuclCaires 
+avec le cuivre et le mercure, l'interaction unique en N3 favorisant 
+l'apparition de liaisons metal-mCtal, notamment avec le cuivre 
+tktracoordinant. Dans le cas du platine, les espkces mixtes 
+mononuclCaires obtenues par substitution successives des molC-
+cules d'eau satisfont totalement la tktracoordinence du mttal. 
+Ces espkces apparaissent dans un domaine de pH essentielle-
+ment plus alcalin que celui du milieu biologique et par 18 m&amp;me 
+indtcelables dans les exptrimentations ccin vivon rapporttes 
+par J. L. Butour (4) qui signale que seule la guanine est 
+susceptible de complexer l'ion cis-platine. 
+Thymine dimkre 
+La geomCtrie de la moltcule favorise l'inclusion de l'atome 
+metallique (cuivre ou mercure) entre les deux cycles adjacents. 
+Par contre, aucun complexe n'a CtC dttectC avec le platine, 
+
+ce qui semble confirm6 a l'aide des modkles de Dreiding par 
+
+l'impossibilitt sttrique d'irnrniscer l'ion ~i s -[ P t ( H ~o ) ~ 
+(NH3) 21 2 + 
+substitue entre les cycles uracile parallkles. 
+
+2. Acide orotique 
+Acide orotique monomkre 
+Quel que soit le metal, les espkces mononucltaires sont les 
+plus frtquentes avec le coordinat bidentate, chtlatant par l'azote 
+N1 et le groupement carboxylate portt par C6. 
+La cornparaison des constantes de stabilitC des complexes du 
+cuivre et du mercure avec celles des complexes correspondants 
+obtenus avec l'acide picolinique deja CtudiCes dans notre 
+
+laboratoire (respectivernent Plol = 7,76, Plo2 = 14,70 (36) et 
+Plol = 7,70, Plo2 = 15,4 (37)), corrobore les observations de 
+
+Tucci et al. (25). Bien que dans le cas de l'acide picolinique, les 
+sites de fixation soient identiques, l'azote adjacent en N 1 n'ttant 
+Can. J. Chem. Downloaded from www.nrcresearchpress.com by 87.160.185.190 on 03/27/14 
+
+For personal use only. 
+
+
+ET AL. 
+M'BOUNGOU 
+
+THYHINE n0No)tUE 
+
+%L IT 
+
+RCIOE OROTIOLE HOWOHERE 
+
+%C lf 
+
+RCIOE OROTIOUE DIItEBC 
+
+FIG. 2. (a) Th mine monomtre : A A [HTM] = 2 X 
+
+M; [Hg2+] = 4,750 X 
+M; --[HTM] = lo-' M; [Cu2+] = 2,976 X 
+M; 
+
+Y . 
+
+-[HTM] = 10-M, [~t''] = 2 x 
+
+M. 1 , Hg2+; 2, [Hg(TM)]+; 3, [H~(TM)~]+;~,[H~H-~]+;~,CU~+;~,[CU~(TM) 
+
+8, c ~~-[ P ~( H ~o ) ~( N H ~) ~] ' + ; 
+9, c i ~-[ p t ( T M ) ( N H ~) ~l + ; 
+10, c ~s -[ P ~( T M ) ~( N H ~) ~] . 
+
+(6) Thymine dimtre : A A [HTD] = 9,96 x lo-' M; [Hg"] = 9,5 X 
+
+M; --[HTD] = 2 X lop4 M; [cu2+] = lop4 M. 1, Hg2+; 
+2, [HgH-11'; 3, [Hg(TD)]; 4, [HgH-I(TD)]-; 5, [H~H-,(TD)]'-; 6, c u 2 + ; 7, [CuH(TD)]+; 8, [Cu(TD)]. 
+
+(c) Acide orotique mnnomtre : A A [H20M] = 
+
+M; [Hg2+] = 4,99 x 
+M; --[H20M] = lop4 M; [cu2+] = 5,145 x lo-' M; 
+
+-[H20M] = 8,966 x lop4 M; [pt2+] = 5 x 
+
+M. 1, Hg"; 2, [HgOM]; 3, [ H g 2 ( 0 ~) , 1 2 -; 4, c u 2 + ; 5, [Cu(OM)]; 6, cis-
+[Pt(H20)2(NH3)2]2+; 7, c ~s -[ P ~( O M ) ( N H ~) ~ 
+]; 8, c ~s -[ P ~( O M ) ~( N H ~) ~] ? -. 
+( d ) Acide orotique dimtre : [H40D] = 1,68 X 
+
+M; A A [Hg2+] = 3,352 X 
+
+M; --[cu"] = 3,375 X lo-' M; -[pt2+] = 
+3,129 x 
+M. 1, Hg2+; 2, [Hg(O~)12-; 3, Cu"; 4, [CU(OD)'-1; 5, cis-[~t(H20)2(NH3)2]~+; 6, cis-[P~(oD) (NH~)I]'-. 
+
+( e ) Thymidine : A A [HTY] = 1,98 x lo-) M; [Hg2+] = 5,92 X lo-%; --[HTY] = lo-' M; [cu"] = 2,976 X lop3 M. 1, Hg2+; 
+
+2, [Hg(TY)I+; 3, [Hg(TY)21; 4, c u 2 + ; 5, [ C U ~( T Y ) ~] ' + ; 
+6, [Cu,(TY),]. 
+
+Can. J. Chem. Downloaded from www.nrcresearchpress.com by 87.160.185.190 on 03/27/14 
+
+For personal use only. 
+
+
+1484 
+
+CAN. J. CHEM. VOL. 65, 1987 
+
+pas charge induit la formation d'un chelate moins stable que le 
+complexk correspondant de l'acide orotique. 
+Acide orotique dimPre 
+La chelation du cuivre, du mercure et du platine ne presente 
+
+aucune difficult6 dans un rapport coordinat:metal I:&lt;. I1 faut 
+
+noter que la chelation du platine (sous forme d'ion cis-
+[Pt(H20)2(NH3)2])2', non observable avec la thymine dimere 
+
+reste un phenomkne externe a la &lt;&lt;cage&gt;&gt; formee par les deux 
+
+cycles adjacents. 
+
+En ce qui concerne la transposition a une reaction photo-
+
+chimique reversible entre les complexes mercuriques dimere et 
+monomere, nous avons precidemment montre l'interet (2) du 
+
+complexe dimere [HgTD] de la thymine dont l'irradiation h 
+280-300 nm entraine la formation des especes monomeres 
+
+[HgTM] + ou [Hg(TM)2]. La presence d'especes hydroxylees 
+
+[HgH -,TD] -et [HgH -2TD] '-observees dans c e cas, et 
+
+susceptibles d e gtner le processus d e monomerisation, est 
+Ccartee par l'utilisation d e l'acide orotique dimere, qui, plus 
+soluble, favorise beaucoup moins l'hydrolyse d e l'ion Hg2+. 
+
+Partie experimentale 
+
+Nous disposons d'une chaine de mesure CtalonnCe avec prkcision : 
+
+Clectrode en verre ( solution thermostatke I NaCl saturC I Clectrode 
+
+au calomel 
+
+Le jeu dlClectrodes est reliC a un potentiomktre ISIS 20000 Tacussel et 
+
+les mesures sont effectutes que des solutions aqueuses thermostatCes 
+
+B 25 5 O,l°C et sous atmosphkre d'azote. La force ionique de chaque 
+
+solution est maintenue constante l'aide d'une solution de NaN03 
+0,l M. 
+
+Sels mPtalliques 
+Les sels de cuivre et de mercure sont prCparCs par dissolution 
+de C U ( N O ~) ~. ~H ~O 
+et Hg(N03)2.H20 Prolabo et dosCs par com-
+
+plexomttrie i 1'EDTA notamment a l'aide d'une Clectrode reversible 
+aux ions H ~~+ couplke a une Clectrode de rCfCrence au sulfate 
+
+mercureux pour le mercure. 
+
+La solution de C~S-[P~(H~O)~(NH~)~](NO~)~ est prCparCe B partir 
+
+de c i ~-[ P t c l ~( N H ~) ~] 
+R. Bellon par substitution stoechiomttrique des 
+
+ions C1-effectute B l'aide d'une solution titrke de nitrate d'argent 
+
+(38-41). Une triple centrifugation du chlorure d'argent permet de 
+garantir la reproductibilitt de 1'Cchange qui n'affecte en rien la liaison 
+Pt-N (41). 
+
+Coordinats 
+La thymine monomkre, l'acide orotique monomkre et la thymidine 
+proviennent respectivement des laboratoires Merck, Sigma Chemical 
+Company et Boehringer Mannheim GMBH. 
+La thymine dimkre est prCparCe par irradiation de solutions de 
+monomkre dans l'eau 
+
+M) gelCe a -10°C. L'irradiation est 
+
+effectuCe 8 l'aide d'une lampe a vapeur de mercure haute pression et les 
+
+solutions sont CvaporCes A sec. Le rtsidu est ensuite dissous dans l'eau 
+
+bouillante puis filtrk. Le filtrat est concentrk et les cristaux de thymine 
+dimkre cristallisent avant ceux du monomkre (1). 
+En ce qui concerne la prkparation de l'acide orotique dimkre, le 
+processus gCnCral reste le mCme, les irradiations ayant lieu a 20aC, sur 
+
+des solutions amenCes a pH 1 sous barbotage d'azote pour Climiner 
+
+l'oxygene. Dans chaque cas, deux rapports de concentration 1igand:ion 
+mttallique (-2 et -5) ont Ctt considCrCs pour chaque systkme, soit 
+environ 100 points exptrimentaux. 
+
+Remerciements 
+
+Nous remercions vivement les laboratoires Roger Bellon, 
+159 avenue du Roule, 92200 Neuilly sur Seine de nous avoir 
+foumi gracieusement le ~i s -[ P t C l ~( N H ~) ~l . 
+
+1. M. PETIT-RAMEL, G. THOMAS-DAVLD, G. PERICHET et B. POUYET. 
+Can. J. Chem. 62, 22 (1984). 
+
+2. G. PERICHET, P. MEALLIER, B. POUYET, M. PETIT-RAMEL et 
+G. THOMAS-DAVID. J. Photochem. 29, 375 (1985). 
+3. H. A. HARPER. PrCcis de Biochimie. UniversitC de Laval, 
+QuCbec. 1977. 
+4. J. L. BUTOUR. Thkse, Doctorat d ' ~t a t , 
+Toulouse. 1980. 
+5. P. ZAPLATYNSKY, H. NEUBACHER et W. LOHMANN. Z. Natur-
+forsch. B: Anorg. Chem. Org. Chem. 34, 1466 (1979). 
+6. D. M. L. GOODGAME et I. JEEVES. Z. Naturforsch. C : Biosci. 34, 
+1287 (1979). 
+7. J. D. WOOLLINS et B. ROSENBERG. Inorg. Chem. 21, 1280 
+(1982). 
+8. YA. D. FRIDMAN, Z. M. PULATOVA et M. G. LEVINA. Koord. 
+Khim. 7, 1 (1981). 
+9. M. M. TAQUI KHAN et C. R. KRISHNAMOORTHY. J. Inorg. Nucl. 
+Chem. 36, 711 (1974). 
+10. A. RINGBOM. Les complexes en chimie analytique. Dunod, Paris. 
+1967. 
+11. L. C. VAN POUCKE et H. F. DEBRABANDER. Talanta, 20, 733 
+(1973). 
+12. C. M. FLYNN, JR., T. S. VISWANATHAN et R. B. MARTIN. 
+J. Inorg. Nucl. Chem. 39,437 (1977). 
+13. J. P. DAVIDSON, P. J. FABER et R. G. FISCHER. Cancer 
+Chemother. Rep. Part 1, 59, 2 (1975). 
+14. D. J . NELSON, P. L. YEAGLE, T. L. MILLER et R. B. MARTIN. 
+Bioinorg. Chem. 5, 353 (1976). 
+15. R. FAGGIANI, B. LIPPERT et C. J. L. LOCK. Inorg. Chem. 19, 
+295 (1980). 
+16. B. LIPPERT, R. PFAB et D. NEUGEBAUER. Inorg. Chim. Acta, 
+37, L 494 (1979). 
+17. A. B. ROBINS. Chem. Biol. Interact. 6, 35 (1973). 
+18. G. Y. H. CHU, R. E. DUNCAN et R. S. TOBIAS. Inorg. Chem. 16, 
+I0 (1977). 
+19. I. A. G. Ross, A. J. THOMSON et S. MANSY. J. Am. Chem. Soc. 
+96, 20 (1974). 
+20. M. J. CLEARE. Coord. Chem. Rev. 12, 349 (1974). 
+21. J. P. MACQUET et T. THEOPHANIDES. Bioinorg. Chem. 5, 59 
+(1975). 
+22. B. LIPPERT. Biochimie, 60, 9 (1978). 
+23. D. SHAGAR et J. J. FOX. Biochim. Biophys. Acta, 9, 199 (1952). 
+24. BR. E. DOODY, E. R. TUCCI, R. SCRUGGS et N. C. LI. J. Inorg. 
+Nucl. Chem. 28, 833 (1966). 
+25. E. R. TUCCI, BR. E. DODDY et N. C. LI. J. Phys. Chem. 65, 
+1570 (1961). 
+26. E. R. TUCCI, C. H. KE et N. C. LI. J. Inorg. Nucl. Chem. 29, 
+1657 (1967). 
+27. I. MUTIKAINEN et P. LUMME. Acta Crystallogr. Sect. B: Struct. 
+Crystallogr. Cryst. Chem. 36, 2233 (1980). 
+28. P. ARRIZABALAGA, P. CASTAN et J. P. LAURENT. Inorg. Chim. 
+Acta, 92, 203 (1984). 
+29. I. MUTIKAINEN. Finn. Chem. Lett. 5, 193 (1985). 
+30. P. ARRIZABALAGA, P. CASTAN et F. DUHAN. Inorg. Chem. 22, 
+2245 (1983). 
+31. R. FERREIRA et E. BEN-ZVI. Adv. Chem. Coord. Compd. 457 
+(1961). 
+32. Y. TETSUO et N. DAVIDSON. J. Am. Chem. Soc. 83, 12, (1961). 
+33. G. L. EICHBORN, P. CLARK et E. D. BECKER. Biochemistry, 5, 
+1 (1966). 
+34. A. M. FrsKIN et M. BEER. Biochemistry, 4, 7 (1965). 
+
+35. M. GOODGAME et W. J. KEITH. J. Chem. Soc. Dalton Trans. 
+
+1294 (1977). 
+36. L. MOYNE. Thkse, Doctorat d ' ~t a t , 
+Lyon. 1966. 
+37. G. ANDEREGG. Helv. Chim. Acta, 43,414 (1960). 
+38. H. J. S. KING. J . Chem. Soc. 1338 (1938). 
+39. J. K. BARTON, S. A. BEST, S. J. LIPPARD et R. A. WALTON. 
+J. Am. Chem. Soc. 100, 12 (1978). 
+40. C. J. L. LOCK, H. J. PERESIE, B. ROSENBERG et G. TURNER. 
+J. Am. Chem. Soc. 100, 11 (1978). 
+41. J. K. BARTON, H. N. RABINOWITZ, D. J . SZALDA et S. J. 
+LIPPARD. J. Am. Chem. Soc. 99, 8 (1977). 
+42. S. E. LIVINGSTONE. Comprehensive inorganic chemistry. Vol. 3. 
+Pergamon Press, Oxford. 1975. 
+
+Can. J. Chem. Downloaded from www.nrcresearchpress.com by 87.160.185.190 on 03/27/14 
+
+For personal use only. 
+
+
+
+	
+

@@ -1,0 +1,1180 @@
+
+	
+
+		
+
+	
+
+	
+
+Reactivite du nucleophile azoture vis a vis de cations heterocycliques aromatiques. VI. 
+Cas des triaryl-2,4,6 oxaziniums-1,3 
+
+JEAN-CLAUDE CHERTON, PAUL-LOUIS DESBENE, MARC BAZINET, MARC LANSON, 
+ODILE CONVERT ET JEAN-JACQUES BASSELIER 
+
+hboratoire de Chimie Organique Structurale, Universitk Pierre et Marie Curie, 4, Place Jussieu. 
+75230 Paris Cedex 05, France 
+
+R e ~u le 25 janvier 1984 
+
+JEAN-CLAUDE CHERTON, PAUL-LOUIS DESBENE, MARC BAZINET, MARC LANSON, ODILE CONVERT et JEAN-JACQUES 
+BASSELIER. Can. J. Chem. 63, 86 (1985). 
+
+La reaction du nuclCophile azoture avec les triaryl-2,4,6 oxazinium-1,3 conduit en haut rendement aux p tCtrazolo-trans-
+
+benzalacCtophCnones. La formation de ces tktrazoles implique I'intervention des azido-2 2H-oxazines-1,3 correspondantes. Un 
+mCcanisme de rearrangement de ces azides mettant en jeu deux tautomkries cycle-chaine autour des intermediaires iminoazides 
+est proposC. Sous reserve que les azido-2 2H-oxazines-1,3 sont bien les produits cinktiques de l'attaque de N3-, les resultats 
+prCsentCs constituent un rare exemple de rCgiosClectivitC de I'attaque d'un nuclCophile sur le pBle C2 d'oxazinium-1,3. 
+Le problkme de la r6activitC du systkme oxazinium-l,3/azoture est discutt en reference au couple triphenyl-2,4,6 
+pyrylium/N,-. 
+
+JEAN-CLAUDE CHERTON, PAUL-LOUIS DESBENE, MARC BAZINET, MARC LANSON, ODILE CONVERT, and JEAN-JACQUES 
+BASSELIER. Can. J. Chem. 63, 86 (1985). 
+
+Nucleophilic attack of sodium azide on 2,4,6-triaryl-1,3-oxazinium species gives high yields of p-tetrazolo-trans-
+
+benzalacetophenones from the corresponding 2-azido-l,3-oxazines. The rearrangement of the azido oxazines likely proceeds 
+via tautomerism of the intermediate iminoazides. If the formation of the 2-azido-I ,3-oxazines is under kinetic control, these 
+results are a rare example of high regioselectivity in nucleophilic attack at the C2 carbon of 1,3-oxazinium species. 
+The reaction behaviour of the 1 ,3-oxazinium/N3-system is discussed, together with results obtained from the 2,4,6-
+triphenylpyrilium/N3-. 
+
+Nous nous intkressons depuis quelques annees a la reaction 
+du nucleophile azoture avec divers cations hetCrocycliques aro-
+matiques de type pyrylium. Les recherches ont ainsi Ct C menees 
+tant en raison de I'inttrCt theorique de la reaction (1, 2) que des 
+possibilitCs qu'elle offre sur le plan de la synthkse de composCs 
+hCtCrocycliques a sept chainons (1, 3 a 9). (cf. schema I). 
+Les cations oxazinium-1,3 I ou azapyrylium-1,3 sont com-
+me les cations pyrylium deficients en Clectrons, et comme tels 
+reagissent avec de nombreux nucleophiles (10 a 13). A l'issue 
+de ces reactions des oxaziniums-1,3, trois types d'oxazines: les 
+6H-oxazines 2 , les 4H-oxazines 3 , les 2H-oxazines 4 sont 
+envisageables a priori en raison de la differenciation des p6les 
+2 et 6 en a de I'oxygkne (cf. schema 2). 
+Cependant, il ressort des travaux de R. R. Schmidt et coll. 
+d'une part (10 et ref. citkes) et de 1. Shibuya et coll. d'autre part 
+( I I a 13) que I'attaque d'une grande vari6tC de nucltophiles sur 
+le cation triphknyl-2,4,6 oxazinium-1,3 l a conduit exclu-
+sivement ou en preponderance a des composts de type 
+6H-oxazine-1,3, c'est a dire de type 2 ou a des produits re-
+sultant de leur rkarrangement (cf. schema 2). 
+Le comportement du couple cation l/azoture n'avait pas 
+encore Ct C abordC. Compte tenu des rksultats obtenus prt-
+ckdemment par nous mCmes en sCrie pjlrylium (1, 3 et 8) et par 
+Schmidt et coll. (10) avec d'autres nucltophiles en sCrie 
+oxazinium-1,3, on pouvait attendre: soit une "non attaque" au 
+sens covalent du terme avec formation d'un complexe de type 
+donneur-accepteur comme observe dans le cas du couple 
+triphinyl-2,4,6 pyrylium/N,-(I, 3, 8); soit une attaque de N,-
+sur le p61e C6 du cation 1. Au quel cas, I'evolution de I'azide 
+
+Cation 
+cx Azidopyranne 
+Azidodiknone 
+pyrylium 
+
+Oxazepine-1,3 
+
+S C H ~M A 
+
+1 
+
+Resultats et discussion 
+L'action de I'azoture de sodium sur une solution de 
+perchlorate de triphknyl-2,4,6 oxazinium-1,3 l a ( 10) dans 
+I'acCtonitrile anhydre se manifeste tout d'abord par une exal-
+tation de coloration malheureusement trop br6ve pour &amp;tre 
+analysCe par exemple par spectroscopie uv-visible, suivie 
+d'une dCcoloration progressive du melange reactionnel. II 
+s'agit donc d'une reaction d'attaque de N,-, mais la possibilitk 
+de formation transitoire ou simultanCe d'un complexe 
+donneur-accepteur, comme le laisse supposer I'exaltation de 
+coloration n'est pas exclue. Au bout de quelques heures on 
+isole un composC unique: le [diphknyl-1,3 0x0-3 prophe-1 -yl 
+(E)]-l phCnyl-5 tCtrazole que I'on dknommera dtsormais 
+tCtrazole 5a (Rdt 92%) (cf. schema 2). 
+
+covalent 2a (Nu = N,) permettrait ~ventuellement I'accession 
+I. Structure du te'trazole 5a 
+a des homologues "aza" d'oxazepines-1,3, (cf. schCma I ) en 
+Ce compost C?2H,6N,0 resulte de I'incorporation de trois 
+I'occurence des oxadiazipines (14). 
+atomes d'azote au squellette du cation l a . Toutefois les struc-
+Nous prksentons ici les premiers rksultats concernant le com-
+tures des produits primaires envisageables: 2a, 3a ou 4a (Nu = 
+portement de triaryl-2,4,6 oxaziniums-1,3 1 vis a vis du nu-
+N,, cf. schema 2) sont a Ccarter en raison de I'absence de la 
+cleophile azoture. 
+bande d'absorption azido vers 2 100 cm-' dans le spectre infra-
+Can. J. Chem. Downloaded from www.nrcresearchpress.com by 87.160.185.190 on 03/27/14 
+
+For personal use only. 
+
+
+CHERTON ET AL 
+
+2 
+3 
+4 
+Composes de type 
+6H-oxazine-1,3 
+4H-oxazine-1,3 
+2H-oxazine-1,3 
+
+Cvolutions ulterieures eventuelles 
+
+Dans le cas ou N u = NT et Ri = $, R5 = H 
+
+hettrocycle 
+
+[2a et/ou 3a et/ou 4al + 
++ 
+
+heptaatomique 
+
+/ 
+
+oxadiazepine 
+
+I Q " 0 69 : motif phtnyl-5 
+
+7a 
+5a 
+tktrazole 
+iminoazide 
+tetrazole 
+
+rouge ( I 5). Aprks examen de ses proprietes chimiques' et spec-
+troscopiques, nous avons attribue a ce compose la structure 5a 
+associant les deux motifs: phCnyl-5 tetrazole et trans chalcone 
+(cf. schkma 2). 
+Les arguments d'ordre spectroscopique sont les suivants: la 
+prtsence du motif trans chalcone est Ctablie par les analogies 
+obsewees entre les spectres d'absorption uv-visible, infra-
+rouge, de rmn 'H et de rmn I3C du compose 5a et ceux de la 
+trans benzalacetophCnone 6 (cf. partie experimentale); le motif 
+te'trazole est dkcelC en spectroscopie infra-rouge par I'ob-
+sewation d'un ensemble de bandes caractCristiques dans la 
+@ion des empreintes (1 7, 18). En spectroscopie de masse, 
+I'observation des ions molCculaires n'est pas possible par la 
+technique de I'impact Clectronique 1.E. a 70 eV ni mCme a plus 
+basse Cnergie. L'ion de masse la plus Clevee est alors celui 
+resultant de la perte de Nz. Dans le cas du tktrazole 5a, une 
+fragmentation M t -N,' est Cgalement notee, elle conduit au 
+cation oxazinium (M * 310, Masse Exacte). Pour les autres 
+tCtrazoles, les mCme hypotheses de fragmentations semblent 
+
+' L'Ctude dCtaillCe du comportement thermique et photochimique 
+
+des tktrazoles fait I'objet d'un article a part soumis pour publication au 
+Can. J. Chem. (16). 
+
+raisonnables, d'autant que des observations similaires ont Ctk 
+faites dans le cas d'aryl et d'alkyl tktrazoles (19, 20). Le re-
+
+cours a l'ionisation chimique (IC) permet d'obsewer les ions 
+
+quasi molCculaires (cf. partie experimentale). 
+
+11. Mtcanisme d'obtention du te'trazole 5a 
+La formation de ce tktrazole pose deux questions: celle du 
+mkcanisme d'isomkrisation de I'azido-2 2H-oxazine-1,3 4a 
+dont il derive manifestement -et celle de savoir si cette oxazine 
+4a est bien le produit cinktique de I'attaque de N,-sur 
+I'oxazinium-1,3 l a . 
+1. Filiation oxazine 4a + te'trazole 5a 
+Nous proposons, pour rationaliser I'obtention du tktrazole 
+5a, deux tautomeries cycle-chaine impliquant I'imino-azide 
+7a (1, 3, 8, 21, 22) (cf. schema 2) jusqu'ici rencontrkes sCpa-
+
+rCment pour des systemes voisins. (i) La tautomkrie 4a = 7a 
+s'apparente aux classiques Cquilibres dienone = a pyranne (cf. 
+
+schema 1) qui ont pu Ctre notes lors de 1'Ctude de I'action de 
+nuclkophiles (23) et en particulier de I'ion azoture (1, 3, 8) sur 
+les cations pyrylium. (cf. schema 1). (ii) La tautomkrie 7a S 
+5a est un Cquilibre du type iminoazide-tetrazole dont on 
+connalt de nombreux exemples (21, 22). 
+L'obtention des tktrazoles 5a constitue une derivation au 
+schCma rkactionnel initialement envisage: 
+Can. J. Chem. Downloaded from www.nrcresearchpress.com by 87.160.185.190 on 03/27/14 
+
+For personal use only. 
+
+
+CAN. 1. CHEM. VOL. 63, 1985 
+
+4 
+
+Cvolution 
+"normale" 
+
+l a 7 
+
+5a 
+
+N3 
+
+A (interception) 
+
+adduit 9a 
+forme fermCe 
+forrne ouverte 
+
+phosphoirnine 10a 
+forrne ferrnCe 
+forrne ouverte 
+
+12a 
+1 l a 
+
+cornposC phosphor6 instable C.P. 
+
+TABLEAU I. RCsonance rnagnCtique nucl6aire du "C des p8les 
+d'attaque des oxaziniurns-1,3 1. RCactivitC vis i vis de N3-
+
+Attaque de N3-
+6 "C, TMS, (CFFOOH) 
+CornposC 1 
+C2 
+C4 
+C6 
+RCactivit6 
+
+%5 
+
+b R2 = 0CH3 
+177,s 
+170.1 
+175,2 
+Ib 
+90 
+a R 2 = H 
+178,l 
+170.5 
+176,2 
+croit 
+92 
+c R 2 = N 0 2 
+178,4 
+168.2 
+178,O 
+l c 
+75 
+
+TABLEAU 2. Spectres de rnasse des oxazines-1,3 3 et 14 (I.E.; 70 eV) 
+
+H\ /R4 
+
+CornposC 
+Spectre de masse 
+
+Cation 
+N3-
+
+A 
+
+hCtCrocycle 
+arornatique 
+
+-azide -azotC sont les formes intkressantes du schema rkactionnel general. A 
+
+h6tCrocyclique 
+h6t6rocyclique 
+
+-N2 
+
+heptaatornique 
+
+ce titre, a kt6 entreprise une etude des diffkrents facteurs inter-
+puisqu'elle inhibe la formation des hCtCrocycles hep-
+venant sur les deux tautomeries impliqukes dans la formation 
+taatomiques. Toutefois le mecanisme que nous proposons (cf. 
+des tktrazoles (16). 
+schema 2) pour leur obtention laisse entrevoir des possiblilites 
+2. Mode d'action de N.?-sur les oxaziniums-1,3 1 
+de retour vers l'iminoazide ou I'azido-2 2H-oxazine-1,3 qui 
+Afin de savoir si l'azido-2 2H-oxazine-1,3 4 a est ou non le 
+Can. J. Chem. Downloaded from www.nrcresearchpress.com by 87.160.185.190 on 03/27/14 
+
+For personal use only. 
+
+
+CHERTON J T AL. 
+
+TABLEAU 3. Spectres de resonance magnetique nucleaire du '.'C des 2.4.6 polyaryloxazines-1.3 
+3" 
+
+3 
+
+z = 
+
+14" 
+15" 
+
+Z = H 
+Z = C H 3 
+Carbones 
+
+R' = H 
+b R' = 0 C H 3 ' 
+(. R' = NO2 R' = H 
+R' = H 
+
+C2 
+
+152,2 
+
+Carbones 
+
+C6 
+146.2 
+
+quaternaires C I ' 
+132.8' 
+
+CI" 
+
+144.4 
+CI"' 
+132,4' 
+
+Carbones" C4r 
+131.0 
+
+tertiaires 
+
+C4 
+
+56.6 
+
+C5 
+100.8 
+C4" 
+
+127.2 
+
+C4"' 
+
+128.3 
+' Peuvent Ctre inversks. 
+
+' Nos attributions. 
+
+-
+
+"Deplacements chimiques en ppm/TMS interne, solutions dans CDC13. 
+"En raison de la complexite des spectres. les carbones tertiaires des groupes aryles n'ont pas 6tC attribues, 
+except6 les carbones para (identifiables par leur intensite et pour 4' par la substitution). 
+Diplacements calculCs par incr6mentation (30) B partir des 6 "C de 3a. 
+"Diphenyl-2.6 oxazine-1.3 14 (29) facilitant I'attribution du carbone Cl" des oxazines 3. 
+"Diphenyl-2.6 methyl-4 oxazine-1.3 15: spectre de I3C publie sans attribution (31). 
+'6 "C OCH, = 55.3 ppm. 
+'Carbone secondaire. 
+
+produit cinttique de I'attaque de N,-sur I'oxazinium l a , nous 
+avons tent6 de rtpondre en procedant a diverses dtmarches. 
+
+(a) Action de NaN.&lt; sur l a a basse tempe'rature 
+
+On ne deckle dans ces conditions aucune modification de la 
+reaction: ni diminution notable du rendement en Sa, ni for-
+mation de nouveaux composts. Ce resultat signifie que 
+l'oxazine 4a est probablement le produit cinttique de I'attaque. 
+(b) Action de NaN3 a basse temperature et en pre'sence de 
+triphenyl phosphine 
+
+Nous avons tent6 d'intercepter a froid le prtcurseur du tt-
+
+trazole 5a en procedant a I'attaque de I'oxazinium l a par N,-
+
+en prtsence de P(+),. La triphtnylphosphine est en effet con-
+nue pour capter les azides organiques en conduisant 2 des 
+adduits I : I ou bien encore aux phosphoimines correspondantes 
+par perte d'azote molCculaire (24). 
+Dans ces conditions, le cours "normal" de la reaction est 
+modifie, une interception se produit effectivement puisqu'on 
+
+observe: une diminution du rendement en tktrazole 5a de 92 a 
+
+47% (I'interception n'est que partielle), et la formation d'un 
+compose phosphor6 note C.P. correspondant d'apres l'analyse 
+
+centesimale a la perte d'une moltcule d'azote et a la fixation de 
+
+P(+)3 en partant d'une azidooxazine 2,3, ou 4 ou de tout autre 
+azide isombre (cf. schema 3). 
+L'analyse centesimale n'a pu etre rkalisee que sur le com-
+post C.P. brut car les essais de purification (recristallisation, 
+chromatographie sur couche mince) conduisent immanquable-
+ment a une dCcomposition plus ou moins prononcee en melange 
+
+de (+)3P0 et de triphtnyl 2,4,6-pyrimidine 8 (25) (cf. schema 
+3). La fragilitt de ce compose C.P. n'a pas facilite la deter-
+mination de sa structure. Cependant, aussi bien sa decom-
+position que diverses donntes spectroscopiques (cornme: ab-
+sence de carbonyle en infra-rouge, certaines fragmentations en 
+spectromCtrie de masse, presence dans le spectre de rmn "P 
+d'un signal compatible avec un phosphore engagt dans un 
+cycle (26)) nous conduisent a admettre pour ce compost C.P. 
+une structure d'htttrocycle phosphort. Dans le schema 3 est 
+reprtsentte I'hypothese la plus vraisemblable selon laquelle le 
+precurseur intercept6 2 froid serait effectivement I'azido-2 
+2H-oxazine-1,3 4a. Le produit de I'interception serait alors 
+I'adduit RN,P(+), 9a sous forme ouverte ou cyclique dont le 
+rearrangement direct ou par l'intermtdiaire de la phosphoimine 
+10a (forme ouverte ou cyclique) conduirait au compose C.P. de 
+structure l l a ou 12a. 
+Ces rtsultats confirment l'intervention d'un azide inter-
+mediaire dans la formation du tktrazole 5a (cf. schema 2) et 
+s'accordent avec l'hypothkse de I'azido-2 2H-oxazine-1,3 4 
+comme produit cinttique de I'attaque de N,-. 11s permettent 
+d'tcarter I'hypothkse d'un mecanisme concert6 de I'attaque de 
+N,-sur le p61e C2 de I'httCrocycle avec simultantitt de I'ou-
+verture de cet hCttrocycle et de la formation du cycle tC-
+trazolique. 
+
+(c) Effets de la substitution du pble C2 sur la re'activite de N.,-
+vis a vis des oxaziniums-l,3 I 
+
+Nous avons synthetist de nouveaux oxaziniums-1,3 
+Can. J. Chem. Downloaded from www.nrcresearchpress.com by 87.160.185.190 on 03/27/14 
+
+For personal use only. 
+
+
+CAN. J. CHEM. VOL. 63, 1985 
+
+TABLEAU 4. Spectres de resonance magnetique nuclkaire ''C des triaryl-2,4,6 oxaziniums-1.3 1" 
+
+A" 
+
+C2 
+178,l 
+C4 
+1705 
+Carbones C6 
+176.1 
+quatemaires CI' 
+128,8 
+
+CI" 
+133.9 
+CI"' 
+128.8 
+
+Carbones C4" 
+
+140.8" 1 
+
+tertiaires" C4"' 
+139,8 
+C5 
+109,4 
+' Peuvent &amp;tre inverses. 
+
+"DCplacements chimiques en ppm/TMS interne, solutions dans CF'COOH. 
+"En raison de la complixite des spectres, les carbones tertiaires des groupes aryles n'ont pas ete attribues, 
+exceptis les carbones para (identitiables par leur intensite et pour 4' par la substitution). 
+
+' DCplacements calcules par incrementation (30) B partir des 6 "C du compost l a . 
+
+"TriphCnyl-2.4.6 pyrylium utilise comme modele ( I , 8). 
+
+presentant en C2 un groupement aryle C6H4p-R' -soit Clectro-
+effets electroniques doit Ctre pris en compte. 
+donneur et desactivant (16, R' = 0CH3) -soit Clectroattracteur 
+Dans un premier temps, nous avons fait appel au dC-
+( l c , R2 = NO'), (cf. tableau I). 
+placement chimique "C pour situer, de fagon approchee, la 
+De fagon tout a fait qualitative, on constate que I'oxazinium 
+densite Clectronique des differents p6les des cations oxazinium, 
+anisyle l b est moins reactif vis a vis de N,-que les sels l a et 
+sous reserve de la validit6 d'une telle relation pour ces cations 
+l c . 
+(27). Neanmoins, nous avons montre que pour des cations 
+Le recours a le spectroscopie uv-visible comme moyen de 
+comparaison des vitesses d'attaque des trois sels l a i l c n'a pas 
+permis un classement plus precis de leurs reactivites. En effet, 
+2 de telles concentrations, intervient de fagon non negligeable 
+la reaction concurrente d'hydrolyse des sels, en particulier dans 
+le cas de I'oxaziniurn nitre l c , qui conduit aux "pseudo-bases" 
+
+correspondantes: les P benzamido-trans-benzalacCtophCnones 
+
+13 (cf. partie experimentale). 
+En revanche, le recours i des reactions competitives d'atta-
+que de N3-sur des melanges de sels d'oxazinium 1 fournit le 
+classement indicatif suivant (base sur une analyse des melanges 
+reactionnels par rmn 'H, cf. partie experimentale): l c (R' = 
+
+NO'), l a (R' = H) &gt; 1 6 (R' = 0CH3). 
+
+Cette sequence suggkre l'hypothkse selon laquelle la reac-
+tivite de I'ion azoture vis i vis des oxaziniums serait tributaire 
+dans une mesure restant 2 determiner, de la charge du p61e Cz. 
+En effet, l'examen a priori de la substitution R' sur les carbones 
+heterocycliques montre que I'effet mesomkre du groupe nitro 
+n'affecte pratiquement pas les pales d'attaque, cependant que 
+celui du groupe methoxyle est desactivant. I1 est evident que 
+cette constatation ne constitue qu'une indication grossikre de 
+
+hCtCrocycliques voisins: pyryliums et thiopyryliums, existait 
+une relation lintaire 6 I3C et charge n.H.M.0 (1, 8). 
+En ce qui concerne les oxaziniums-1,3 1, les donnees de la 
+rmn "C (cf. tableau I) semblent confirmer I'hypothese d'une 
+influence importante du facteur densite de charge des pales 
+eventuels d'attaque sur la reactivite de I'ion N3-. On observe en 
+effet que le p61e C2 est le plus deblinde (voire le plus charge) 
+et qu'un certain parallClisme existe entre le 6 
+du p61e C2 et 
+
+la riactiviti du cation correspondant vis a vis de N3-(cette 
+
+derniere croissant du sel 1 6 au sel lc). 
+Cette hypothese amkne a considerer comme moins favorable 
+une attaque sur le p61e C4 qui s'avere Ctre le moins deblinde 
+voire le moins charge des p6les d'attaque. En revanche, dans 
+le cas de l'oxazinium nitre l c , elle conduit a envisager la 
+simultaneite d'une attaque de N3-sur les p6les C2 et C6 qui 
+porteraient selon la rmn "C des charges voisines. Un compose 
+supplementaire a d'ailleurs Ct C isole en procedant a l'attaque du 
+sel l c a basse temperature. Son trop faible rendement n'a 
+toutefois pas permis d'en preciser la structure ni, bien sir, 
+l'origine (attaque en C2 ou C6). 
+Un traitement theorique de la reactivite du systkme 
+I'influence de la substitution e t que bien sQr l'ensemble des 
+oxazinium-1 ,3/N3-analogue i celui deja effectue dans le cas 
+
+Can. J. Chem. Downloaded from www.nrcresearchpress.com by 87.160.185.190 on 03/27/14 
+
+For personal use only. 
+
+
+CHERTON ET AL. 
+
+TABLEAU 5. Spectres de rksonance rnagnktique nucleaire du "C des pseudobases 
+triarylies 13" 
+
+f l 
+
+b 
+
+C' 
+
+Carbones 
+R' = H 
+R' = OCH, 
+R " 
+NO2 
+
+-
+
+C2 
+165,2 
+164.7 
+C4 
+157,l 
+157,5 
+Carbones C6 
+192.0 
+191.9 
+quaternaires C I ' 
+133.5 
+125.6 
+( 124,6)" 
+CI" 
+136.4 
+136.5 
+
+CI"' 
+138,6 
+138.6 
+
+C4' 
+132,8* 
+163,2 
+150.3 
+132.2 
+( 163,O)" 
+( 152.4)" 
+Carbones C4" 
+129.8 
+129.7 
+130.1 
+130,4 
+128,l 
+tertiaires" C 4 ' 
+132.8 
+132.6 
+133.1 
+132,7 
+C5 
+105.4 
+104.9 
+106.2 
+122.0 
+120.5 
+' Peuvent etre inversks. 
+
+-
+-
+-
+
+"D6placements chimiques en ppm/TMS interne, solutions dans CDCI,. 
+"En raison de la complexit6 des spectres. les carbones tertiaires des groupes aryles n'ont pas 
+ete attribuis, exceptts les carbones puru (identifiables par leur intensite et pour 4' par la 
+substitution). 
+'Diplacements calcules par incrementation (30) i partir des dkplacements du compose 13u. 
+'lrruns-Benzalacetoph~ne 6 utilisie comme modSle du systSme Snonique. 
+" 16 (31) modile de benzamide secondaire. 
+
+de systkrne pyrylium/N3-( 1, 2) est actuellernent entrepris. 
+
+Tout d'abord il devrait perrnettre de vCrifier la validit6 des 
+
+hypothkses Crnises, comrne celle d'une relation IinCaire 6 
+
+"CldensitC de charges des p6les Cventuels d'attaque des oxa-
+
+ziniurns et celle d'une rCactivitC des cations 1 forternent tribu-
+
+taire des charges, selon laquelle les azido-2 oxazines-1,3 
+seraient les produits cin6tique d e I'attaque. Enfin, il devrait 
+renseigner sur I'CventualitC d'un complexe donneur-accepteur 
+
+du type d e ceux observCs ( t , 8) dans le cas d e pyryliums peu 
+
+encornbrks, que nous avions envisagCe pour interprkter 
+I'exaltation d e coloration observCe au debut d e la rkaction entre 
+
+N3-et I'oxazinium la. 
+
+Partie experimentale 
+
+Les spectres d'absorption ultraviolet-visible et infrarouge ont CtC 
+respectivement enregistris sur des appareils Hewlett Packard 8450 ou 
+Philips SP8-250 et Philips SP3-200. Les spectres de rrnn 'H et rrnn "C 
+ont CtC enregistrks sur appareils Varian EM360 ou Bruker WP80 et sur 
+appareils Bruker SY80 et WM250. Quant aux spectres de rnasse, ils 
+
+ont ttt effectuCs par Mesdemoiselles J. Mercier et C. Lange que nous 
+
+rernercions, respectivernent -au Centre de Mesures Physiques de 
+Paris sur un spectrornktre AEI MS50 -au laboratoire sur un spec-
+trographe quadrupolaire NERMAG R 10-IOC. Les analyses CICrnen-
+taires ont Ct C effectukes par le Centre de Microanalyse du C.N.R.S. 
+ou au Laboratoire de Microanalyse de I'UniversitC Pierre et Ma-rie 
+
+Curie. Les points de fusion non corrigCs ont CtC determines de f a ~o n 
+instantanke au banc de Kofler. 
+
+I. Synth2se et structure des trioryl-2,4.6 o.~azinium.s-l,3 1 
+La structure des oxaziniurns-1.3 1 repose tant sur leurs propriCtes 
+spectroscopiques que sur celles de leurs prkcurseurs, les 
+4H-oxazines-1.3 3 (Nu = H), et celles de leurs produits d'hydrolyse, 
+les P-benzarnido-trans-benzalacCtophenones 13. Une Ctude spec-
+troscopique de ces trois classes de composes a donc CtC rnenCe en 
+
+recourant notarnrnent i la rrnn "C. 
+(a) PropriPtCs des 4 H-oxazines-1.3 3 (Nu = H) 
+Les oxazines 30 et 36 Ctaient dCji connues (10. 28) ainsi que 
+I'oxazine 14 (29) qui a servi de modkle pour les attributions de dC-
+
+placements en rmn ITC. L'oxozine nitrie 3c nouvelle a CtC prCparCe 
+
+selon Schmidt (10): (60%); Fi 134°C (Cther); ir crn-' (KBr): 1690, 
+
+1640, 1605, 1580, 1520, 1500, 1455 et 1350; UV A ,,,;,, nrn (E ,,,,, ), 
+
+(Cther): 214 (4,32), 272 (4,32); rrnn ' H (CDC13) 8 pprn/TMS: 5.75 
+(syst. AB, 2H, J = 3 Hz). Anol. calc. pour C,2HIhNZO,?: C 74.14, H 
+4 3 3 , N 7,86; tr.: C 74,04, H 4.70, N 8.01. Spectre de rnasse: cf. 
+tableau 2; rrnn "C des oxazines: cf. tableau 3. 
+(b) Obtenrion et propriitPs des trioryl-2.4,6 oxnziniurn.s-l,3 1 
+Seul I'oxaziniurn l o Ctait connu (10). Les oxaziniurns l b et l c ont 
+CtC obtenus selon la rnerne rnkthode (10) par oxydation des 
+4H-oxazines-1.3 3 correspondantes. 
+Perchlorate de diphinyl-4.6 poramithoxyphPnyl-2 o.razini~m-l,3 
+l b : (60%); Fi 265-267°C (CH'CN, Cther); ir cm-' (KBr): 2850, 
+
+1615, 1590, 1530, 1095; uv-visible (CH3CN) A , , , , , nrn (log E ,,,,, ): 375 
+
+Can. J. Chem. Downloaded from www.nrcresearchpress.com by 87.160.185.190 on 03/27/14 
+
+For personal use only. 
+
+
+CAN. J. CHEM. VOL. 63, 1985 
+
+TABLEAU 6. PropriCtCs spectroscopiques des tCtrazoles 5 
+
+Infra-rouge" 
+(KBr) cm-' 
+
+Spectre 
+
+Ultraviolet-visible (Cther) 
+
+A 
+, 
+, 
+. 
+
+nm (log emax) 
+
+RCsonance magnktique nucltaire du 'H 
+7,85-7,65 (m, 4H) 
+7,9-6,8 (m, 15H) 
+8,5-8,l (m, 4H) 
+6 ppm/TMS interne 
+7,6 (s, H5)" 
+3,75 (s, 3H) 
+8,l-7,3 (m, 11H) 
+Solution CDC13 
+7.55-7,25 (m, I IH) 
+
+Masse (M) 
+(352) 
+(382) 
+(397) 
+
+D.I.C. (NH,; 0,l Torr) 
+ions quasi molCculaires 
+
+I.E. 70 eV 
+
+C 
+H 
+N 
+C 
+H 
+N 
+C 
+H 
+N 
+
+Analyse 
+%calc. 
+74,98 
+4,58 
+15,90 72,23 
+4,74 
+14,65 
+66,49 
+3,80 
+17,63 
+% tr. 
+74,62 
+4,49 
+15,68 
+72,42 
+4,81 
+14,76 
+66,38 
+3,88 
+17,88 
+
+"On note entre 1340 et 690 cm-' la prisence d'un ensemble de bandes caractiristiques du noyau titrazolique (17, 18). 
+"Position confimCe par la m n h haut champ (250 MHz), par I'emploi de Eu(fod), et par effet de solvant ASIS (34), (C6D6): 7.9-7,4 (m, 4H), 
+7.15 (s, 'H5), 7,l-6,8 (m, IIH). 
+'Masse Exacte calc. pour C2?HI6NO: 310, 1231; tr.: 310, 1236. 
+
+l a 
+
++ 
+
+l b 
+l c 
+
++ 
+
+l b 
+5 x I o -h o l 5 X lo-.' mol 
+5 X lo-'' rnol 5 x lo-' mol 
+
+1 Action i I'abri de la lumikre de 20 mg NaN, -3 x rnol 1 
+
+5 cm"e CHKN pendant 5 rnin i -5°C 
+
+Melange rtactionnel 
+Melange reactionnel 
+
+5a + 5b + l a + l b 
+5c + 5b + l c + l b 
+
+1 
+
+Hydrolyse 
+
+1 
+
+Pseudobases 13a + 136 
+Pseudobases 13c + 13b 
+TCtrazoles 5a + 56 
+TCtrazoles 5c + 5b 
+Silice separation ccm tetrazoles/pseudobases 1 
+
++ 
+
+TCtrazole 5a 
+TCtrazole 5b 
+
++ TCtrazole 5b 
+
+TCtrazole 5c 
+
+Dosage rmn 'H CDCI, 
+Dosage rrnn 'H DMSO-d6 
+
+1 
+
+Rtsultat: 5b/5a = 0,80 
+RCsultat: 5b/5c = 0,78 
+
+Can. J. Chem. Downloaded from www.nrcresearchpress.com by 87.160.185.190 on 03/27/14 
+
+For personal use only. 
+
+
+CHERTON ET AL. 
+
+TABLEAU 7. Spectres de rCsonancc rnagnetiquc nuclCairc du "C dcs tCtrazolcs 5" 
+
+5 
+6" 
+
+17" 
+
+(I 
+
+b 
+c 
+
+(I 
+
+c 
+
+Carbones 
+R' = H 
+R' = OCH, 
+R' = NO' 
+R' = H 
+R' = NO1 
+
+C6 
+189,l 
+188.9 
+189.9 
+190,O 
+Carbones 
+quatcrnaires Cl ' 
+124,8 
+116.6 
+1 20.9 
+123,2 
+129,9 
+( I l5,9)&lt;. 
+( 130.8)' 
+(129.2)' 
+CI" 
+134.5 
+134,4 
+134.1 
+134.6 
+CI"' 138.2 
+138.0 
+137.7 
+137.9 
+
+Carbones 
+C4" 
+
+132,2 1 
+
+132.4 
+132.6 
+130,3 
+tcrtiaires" C4"' 
+134.3 
+134,4 
+134,7 
+132,7 
+C5 
+123,9 
+124,3 
+124.6 
+122,O 
+Peuvent ktre inversts. 
+
+"Ddplaccments chimiqucs cn ppm/TMS intcrnc, solutions dans CD,COCD,. 
+"En raison dc la complCxitC dcs spcctrcs. Ics carbones tcrtiaircs dcs groupcs arylcs n'ont pas 6115 attribuds 
+cxccptes Ics carboncs purn (idcntifiablcs par lcur intcnsitd ct pour 4' par la substitution). 
+Ddplaccments calculds par incrdmcntation (30) B partir dcs ddplaccmcnts du composd 50. 
+"tra~is-BenzalacdtophCn~)nc 6 utiliscc commc ~nodkle du systi.nic dnoniquc. 
+" 17 (35): modCle dc tdtrazolcs. 
+
+(5,38), 436 (5.03); rrnn I2C: cf. tablcau 4. Atlnl. calc. pour 
+Cz2HlxNI0, CI: C 62,80. H 4,13, N 3.18. CI 8.06; tr.: C 62.49, H 
+4.23. N 3.30. CI 7 3 3 . 
+Perchlorate de diphktzyl-4,6 pc1rot1itrop/~L:t1~/-2 o,rl1zit7i~1nz-l,3 l c : 
+(85%): Fi 275-280°C (CH2CN, Cther); ir c r n ' (KBr): 1625, 1590, 
+1520, 1350, 1100; uv-visible (CH,CN) X ,,,;,, nrn (log E , , , , , ): 274 
+(4.36). 352 (4.41). 404 (4.44); rmn "C: cf. tableau 4. Atlnlyie: com-
+post ne pouvant Ctre isold pur, cf. analysc ccntesirnale de son produit 
+d'hydrolyse la pscudobasc 13c. 
+Pour les attributions dcs signaux 6 "C des oxaziniums-1,3 1 nous 
+nous sornrnes basCs sur la cornparaison de I'oxaziniurn triphCnylC l a 
+
+avec le pyrylium correspondant pour lequel 6C4 &lt; 6C2 ct 6C6 ( I , 8). 
+
+Nous avons supposC que pour les oxaziniums-1.3 Ic rnkme ordre ttait 
+conserve et que Ic carbone C2 Ctait le plus dCblindC en raison de sa 
+situation entre deux hCtCroatomes. Ccci a CtC confirm6 en procCdant 
+a I'enregistrernent du spectre de I n sans decouplage des protons. On 
+observe alors que le carbone le plus ddblindC cst Ic rnoins coup16 (il 
+s'agit dc C2 qui apparait sous forme dc triplct), cepcndant que le 
+signal suivant apparait sous forrne d'un quadruplet (C6 subit un cou-
+plage avec H2"' et H 6 et un couplage supplemcntaire voisin avec H5). 
+Pour les oxaziniums-2.4.6 triarylCs la sequence des pBles Cventuels 
+
+d'attaque apparait donc cornme 6C2 &gt; 6C6 &gt; 6C4. On constate que 
+
+ces positions sont plus ddblindtes que cclles des pyryliums (8. 32). 
+(c) P-Bet~znmirlo trans-bet7zalncktopI1~tzotzc~.s 13: pseurlo hn.ses rles 
+oxnzitziums 1 
+
+L'hydrolyse en milieu acktonitrile aqucux des oxaziniurns I n a l c 
+
+conduit aux pseudo bases 13n a 13c (33). Ces cornposds sont de 
+configuration Z et prCsentent une liaison hydrogene intrarnolCculaire 
+
+entre le carbonyle et le groupc arnidique. Ceci sc rnanifeste -en 
+
+infra-rouge: bande de NH associC vcrs 3200 tin-' et bande de C=O 
+
+conjugud ct associC vcrs 1620-1625 crn-' -ct cn rrnn 'H: presence 
+
+d'un signal trks dCblindC vers 13 ppm. 
+~-p-Mktlzo.rybet~z~~tni~Io-trans-l~et~~r~IncPtophPt~oe 13b (70%); Fi 
+90-92°C (CH2CN, Cther); ir crn-' (KBr): 3200, 2840, 1690, 1620, 
+
+1590. 1575; uv-visible (Cthcr) X ,,,;,, nm (log E ,,,;,, ): 213 (4.43). 283 
+
+(4,46) 344 (4.48): rrnn ' H (CDC12) 6 pprn/TMS: 13.4 (s. IH, Cch. 
+DzO), 6.5 (s, I H ) , 3.9 (s. I H); rmn IZC: cf. tableau 5). A,lal. calc. 
+pour C2.,H19NI02: C 77.29, H 5,36, N 3,92; tr.: C 77.04. H 5.51, N 
+4,02; rnasse m l e : Mi 357 (3), 252 ( 7 3 , 207 (5). 135 (40). 92 (20), 
+77 (100). 
+P-p-Ni~robet~zr~tnitlo-trans-betz~nIc~~k~ophL:t~ote 13c: (80%); Fi 
+192-194°C (CH,CN, Cther); ir c m ' (KBr): 3200, 1690, 1625, 1590, 
+1350: rrnn 'H (CDCI,) 6 pprn/TMS: 13.4 (s. l H, dch. D'O), 6,5 (s, 
+I H): rrnn "C: cf. tablcau 5. Atznl. calc. pour C,2Hl,N,0,: C 77,29, 
+H 5.36. N 3,92; tr.: C 77,04, H 5.51. N 4.02; masse m / e : M+ 372 
+( I ) , 261 (21). 267 (100). 237 (20). 105 (40), 77 (60). 
+
+11. Rkllcriotz rle NrlN., nvec les rrirrryl-2,4,6 o.rrrzitli~ons-1.3 1 
+A. Obretztiot~ rles tttrnzole.s 5 
+I. Actiotz de NnN.&lt; ci tetnpiralure rrtnbintrre 
+
+A une mmol de perchlorate de triaryl-2,4,6 oxazinium-1.3 l a a l c 
+
+en solution dans 10 cm2 d'acdtonitrile sec est ajoutC un excts de NaN, 
+(2 3 fois la quantitt stoechiomttrique). Le mdlange rdactionnel est 
+agiti h la tempirature arnbiante sous atrnosphkre inerte ct l'obscuritt 
+
+pendant 2 h. I1 cst repris a I'eau, extrait i I'dther. La phase CthCrCc est 
+sechee sur MgSO, puis dvaporee a tcrnpkrature arnbiante sous vide. 
+
+Can. J. Chem. Downloaded from www.nrcresearchpress.com by 87.160.185.190 on 03/27/14 
+
+For personal use only. 
+
+
+94 
+
+CAN. J. CHEM. VOL. 63, 1985 
+
+Les tttrazoles 50 B 5c sont obtenus avcc Ics rcndcmcnts respectifs de 
+
+I. P-L. DESBENE. These d'Etat, Paris. 1979. 
+92%, 90% et 75%. Dans le cas de I'oxazinium I(., on isole Cgalemcnt 
+2. P-L. DESBENE, D. RICHARD, .I-C. CHERTON et P. CHAQUIN. 
+5% de pseudobase 13c ainsi qu'un compose suppltmentaire non iden-
+Tetrahedron. Sous presse. 
+
+tifiC lorsqu'on opere B froid (environ 5 rng). 
+
+3. J-P. LE ROUX, J-C. CHERTON et P-L. DESBENE. C. R. Acad. Sci. 
+2. Ac~iorl cle NnN, ri bnsse ~ernptrnture 
+280, 37 (1975). 
+A une solution de 100 mg (0.22 mmol) dc scl In dans 5 c m q e 
+4. J-P. LE ROUX. J-C. CHERTON et P-L. DESBENE. C. R. Acad. Sci. 
+
+CHICN sec sont ajoutCs a froid (environ -40°C) 35 rng de NaN,. Au 
+
+278, 1389 (1974). 
+bout de 48 h I'analyse par chromatographic sur couche mince de silice 
+5. J-P. LE ROUX, P-L. DESBENE et M. SEGUIN. Tetrahedron Lett. 
+(ccm) n'indique qu'un scul produit. Le traitement habitue1 conduit a 
+36, 3141 (1976). 
+84 mg (97%) de tktrazole 50. 
+6. J-P. LE ROUX, P-L. DESBENE et J-C. CHERTON. J. Hcterocycl. 
+3. Acrior~ de NnN, ri bnsse tempkrc~rure er e t ~ pri.smce de P(Ph)., 
+Chem. 18. 847 (1981). 
+
+A une solution di 
+mg (0,24 mmol) de sel 
+dans c m . de 
+7. P. L. DESBENE et J-C. CHERTON. Tetrahedron. Sous presse. 
+
+CH3CN sec sont ajoutts B froid (0 = -40°C) 100 mg de P(Ph), et 45 
+
+8. P. L. DESBENE, J-P. LE ROUX, J-C. CHERTON et J-J. BASSELIER. 
+mg de NaN,. Au bout de48 h, le solvant est chassC et le rCsidu analyst 
+Tetrahedron. Sous presse. 
+
+par chromatographie pr&amp;parative sur couche 
+de silice, on isole 
+9. P. L. DESBENE et J-C. CHERTON. Tetrahedron. Sous presse. 
+
+dans 
+
+d'Clution (cyclohexanelacCtate d3Cthyle gI2): P(4)3 en 
+
+10. R. R. SCHMIDT. Synthesis. 333 (1972) ct rCf. cittes. 
+exces, le compos~ C,P, 
+
+mg) 1tgerement contamink par P(+),, la 
+
+I I . I. SHIBUYA et M. KURABAYASHI. Bull. Chem. Soc. Jpn. 46,'3903 
+
+triphtnyl-2.4.6 pyrimidine 8 (2.5 mg. 3,5%) identifiCe B un 
+
+(1973). 
+Cchantillon authentique (10). le tCtrazole 50 (40 mg, 48%), la pseudo-
+12. 1. SHIBUYA et M. KURABAYASHI. Bull. Chem. Soc. Jpn. 48, 73 
+
+base 130 (22 mg, 28%) et P(+).lO (3 mg. 3%) isolC par lavage B I'tther 
+(1975). 
+des 60 mg constituant le dtpBt de ccm. 
+13. 1. SHIBUYA. Bull. Chem. Soc. Jpn. 54, 2387 (1981). 
+
+Cornpo.skphospho~.e'C.P.: l l a ou 12a: Fi -190°C; ir (KBr) pas de 
+
+14. D. TKACZYNSKA. Wiad. 
+26, 757 
+carbonyle; rmn I H pas de signal caracttristique 
+cn dehors des arom, 
+15. L. J. BELLAMY. The infrared spectra of complex molecules. 1' " 
+
+Anal. calc. pour Cn,H,,OPN? (P(+),O + 8): C 8 1,73, H 5.45, N 4.60; 
+
+id. John Wiley and Sons Inc., New York. 1954. p. 223. 
+
+tr.: C 8 1.89, H 5.32, N 4,77. Spectro.scopie de tnnssr: impact Clectro-
+16. J. C. CHERTON, M. BAZINET, M. M. BOLZE, M. LANSON et P. L. 
+nique: on n'obsewe pas I'ion mo~6culaire M t 586 mais on retrouve 
+DESBENE. Can. J. Chem. Soumis. 
+I'inttgralitC des spectres de P(Ph).&gt;O et de la pyrimidine 8; rt7111 -"P 
+17. A. WENTRUP. 
+59, 262 
+(101.25 MHz) 6 ppm/H,PO,: 28,3 (P+,O); -6.4 (C.P.). 
+18. E. LIEDER, D. LEVERING et L. P A ~E R S O N . 
+Anal. Chem. 23, 1954 
+
+4. C1n.s.setnet11 de In ric~crivirk des o,~nzi11i~ons-l.3 l a ri c 
+(1951). 
+19. R. R. FRASER et K. E. HAQUE. Can. J. Chem. 46. 2855 (1968). 
+Nous avons rCalisC deux mtlanges dans I'acttonitrile dc sels ayant 
+20. D, M, FORKEY et W. R , CARPENTER, Org. Mass. Spectrosc, 433 
+I'oxazinium anisylk It) en commun (cf. schema 4). 
+(1969). 
+
+Sur chacun dc ces mklanges il est procCdC B I'action de NaN, 
+
+2 1 , W , LwowsKI, 
+The chemistry of the azidogroup, Er/jrkpnr 
+pendant un court laps de temps (temps infkrieur au temps ntcessaire 
+S. Patai. Interscience, New York. 1971. p. 503. 
+
+B la rCaction totale du plus rkactif). On procede alors B I'hydrolyse des 
+
+22. R. N , BUTLER, Adv. HCtCrocycl, Chem, 21, 402 (1977). 
+sels n'ayant pas rtagi. Les pseudobases 13 sent sCparCes (ccm) des 
+23, J-p, LE R 
+~~~, G. LETERTRE, p-L, 
+et J.J. B 
+~ 
+tCtrazoles 5 qui sont alors dosCs par rmn ' H en prcnant comme rtfC-
+Bull. Soc. Chim. Fr. 4059 (1971). 
+rence les inttgrations du signal mCthoxyle du tCtrazole 5b formC. 
+24. ( a ) J. E. LEFFLER, U. HONSBERG, Y. TSUNO et I. FORSBLAD. 
+I I apparait donc que le tttrazole 5b est obtenu en plus faible rcn-
+J. Org. Chem. 26, 4810 (1961); (b) L. F. KASUKHIN, M. P. 
+dement que les tktrazoles 50 et 5c, ce qui signific que le sel l b rtagit 
+PONOMARCHUK, T. I. KLEPA, V. PLYSENKO et YU GOLOBOY. 
+plus lentement avec N , quc les sels In et 1c qui ne peuvent toutefois 
+Zh. Obshch. Khim. 47, 2188 (1977). 
+pas &amp;tre diffCrenciCs. 
+25. R. R. SCHMIDT. Chem. Ber. 98, 334 (1965). 
+(B) Proprie're's specrroscopique.~ des rtrrclzo1e.s 
+26. (n) F. RAMIREZ et N. B. DESAI. J. Am. Chem. Soc. 85, 3254 
+Les donnCes spectroscopiques: uv-visible, infra-rouge et masse 
+(1963); (b) E. L. CLENNAN ct POH CHOO HEAH. J. Org. Chem. 
+
+sont consignkes dans le tableau 6; rtnn '.'c cf. tableau 7. L'inter-
+
+4107 (1981). 
+pretation des spectres des tktrazoles est facilitke par leur comparaison 
+27, G , A, OLAH, p. W. WESTERMAN et D. A. FORSYTH. J , Am. 
+
+B ceux de deux composCs modtles: la rrntzs-benzalacttophCnone 6 et 
+
+Chem. Soc. 97, 3419 (1975). 
+les mCthyl-l aryl-5 tttrazoles 17 (35). 
+28. R. R. SCHMIDT. Justus Liebigs Ann. Chem. 12, 2010 (1973). 
+L'attribution des signaux voisins de 190 et 155 ppm se fait sans 
+29, S, GABRIEL. justus Liebigs Ann, Chem, 409, 305 (1915). 
+ambigui'tC aux carbones not&amp; C6 et C2. L'ordre des 6 I3C des carbo-
+30. J. B. STOTHERS. Carbon-13 nmr. Academic Press, New York. 
+nes quaternaires notes C 1'. C I" et C I "' pour Ic composC 50 dCcoule de 
+1972. 
+la comparaison avec les molCcules modklcs 6 et 170. Les carboncs C4' 
+31. S. AURICCHIO, 0 . VAJNADEPAVA et E. VERA. Synthesis, 1 16 
+et C4" du composC 50 prCsentent des dtplaccments voisins de ceux des 
+(1979). 
+carbones correspondants des modeles 6 ct 17n. 
+32. A. T. BALABAN et V. WRAY. Org. Magn. Reson. 9, 16 (1977). 
+L'attribution du carbone C4 (6 = 142,7 ppm pour 50) a 
+con-
+33. R. R. SCHMIDT, D. SCHWILLE ct U. SOMMER. Justus Liebigs 
+firmCe par I'enregistrement d'un spectre sans dCcouplage des protons. 
+Ann. Chem. 723, l l l (1969). 
+C4 apparait alors Comme le plus couplt des carbones quaternaires: 
+34, p. BAAS et H, CERFONTAIN. Tetrahedron, 33, 1509 (1977). 
+couplages avec H2", H 6 et H5 et klargissement dii au voisinage de 
+35, R , N, BUTLER et T. M, MACEVOY. J. Chem, ~o c . 
+Perkin Trans. 
+I'azote. 
+2, 1087 (1978). 
+
+En conclusion, on est amen6 B considCrer le motif tCtrazole cornme 
+
+un groupement azotC trks particulier: contrairement au motif benza-
+
+mido, son introduction cn position p sur la rrnt~s-benzalacttophCnone 
+
+n'a pratiquement pas d'influence sur le systeme enonique. 
+
+Can. J. Chem. Downloaded from www.nrcresearchpress.com by 87.160.185.190 on 03/27/14 
+
+For personal use only. 
+
+
+
+	
+

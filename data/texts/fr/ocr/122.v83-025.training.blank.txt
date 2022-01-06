@@ -1,0 +1,732 @@
+
+	
+
+		
+
+	
+
+	
+
+R81e de l'alcool dans les microemulsions. 
+
+11. Volumes et capacites calorifiques molaires apparents du systeme eau + 
+dodecylsulfate de sodium + isopropanol a 298'15 K 
+
+VLADIMIR MAJER,' ALAIN-HENRI ROUX, GENEVIEVE ROUX-DESGRANGES ET ANDRE VIALLARD 
+
+Laboratoire de Thermodynamique er Cirie'rique Chimiqzie, Universitt de Clerrnonr-Ferrand 2 , B.P. 45-F, 63170 Aubiere, 
+France 
+
+R e p le 4 mai 1982 
+
+VLADIMIR MAIER, ALAIN-HENRI ROUX, GENEVIEVE ROUX-DESGRANGES et ANDRE VAILLARD. Can. J. Chem. 61, 139 
+(1983). 
+
+Les masses volumiques et les capacitCs calorifiques par unit6 de volume du systeme ternaire: eau + dodCcylsulfate de 
+
+sodium (NaDS) + isopropanol (iPrOH) ont Ct C mesurCs en fonction de la concentration en alcool et en tensioactif j. 298.15 K. 
+
+Les volumes et les capacitCs calorifiques molaires apparents ou partiels de l'alcool dans le systkme ternaire en sont dCrivCs. 
+Leur tvolution en fonction de la composition reflkte le comportement de I'alcool. En milieu diluC, il se solubilise partiellement 
+
+dans les micelles et contribue a la formation de micelles mixtes. En milieu concentrC, il se solubilise dans des microagrtgats 
+
+de nature trks proche de celle de l'alcool. La variation de la capacitC calorifique molaire apparente a dilution infinie de 
+l'isopropanol en fonction de la concentration en NaDS, revele l'existence d'une transition dans la structure micellaire vers 
+0,3 tn. 
+
+VLADIMIR MAJER, ALAIN-HENRI ROUX, GENEVIEVE ROUX-DESGRANGES, and ANDRE VAILLARD. Can. J. Chem. 61, 139 
+(1983). 
+
+Densities and heat capacities per unit volume of the ternary system: water + sodium dodecylsulfate (NaDS) + isopropanol 
+
+(iPrOH) have been measured as a function of concentration of alcohol and surfactant at 298.15 K. Apparent and partial molar 
+volumes and heat capacities of isopropanol have been derived therefrom. These quantities reflect the behavior of alcohol in 
+the solution. The results confirm that in the dilute region, iPrOH is partially solubilized in the micelles and contributes to the 
+formation of mixed micelles, and that in the concentrated alcohol region, iPrOH is solubilized in microaggregates of alcohol. 
+The variation of apparent heat capacity at infinite dilution of iPrOH as a function of NaDS concentration shows the existence 
+of a transition in the micellar structure around 0.3 m. 
+
+Introduction 
+
+Depuis quelques anntes, un interkt croissant est port6 a 
+1'Ctude des rnicrotmulsions, du fait d e leurs applications dans 
+des dornaines varies (1, 2) et plus particulikrement en Rtcupe-
+ration Assistee du Petrole (3) et dans l'extraction d'hydro-
+
+carbures 2 partir des sables biturnineux (4). La presence d'un 
+
+alcool est indispensable pour la formation et la stabilitt d e ces 
+microCrnulsions, rnais son r61e n'est pas encore clair. 
+En milieu rnicellaire, l'action des alcools apparait cornplexe. 
+11s affectent la structure d e l'eau et perturbent la constante 
+diklectrique du milieu (5), mais ils se solubilisent aussi par-
+tiellernent dans les rnicelles. De ce fait, ils interviennent sur la 
+formation (6), la structure et la stabilite des rnicelles (7-12). 
+Tous ces effets sont sirnultants et difficiles a stparer (13, 14). 
+
+L'Ctude des proprietks thermodynarniques des systkrnes eau + 
+tensioactif + alcool est un rnoyen d'investigation du corn-
+
+portement des alcools. Dans un travail precedent, nous avons 
+etudie le systkme ternaire eau -dodCcylsulfate de sodium -
+n-butanol (15). 
+C e systeme est utilise pour solubiliser le tolukne et la micro-
+emulsion formCe est une microemulsion rnodkle qui a d6jB fait 
+l'objet de nornbreuses etudes (16-18), thermodynarniques 
+entre autres (19, 20). Dans ce systkrne ternaire, au-dela d'une 
+certaine concentration en tensioactif, le butanol, peu soluble 
+dans l'eau, devient totalernent miscible. L'interprttation des 
+rksultats (15) conduit considkrer un partage de l'alcool entre 
+
+'~epartment of Physical Chemistry, Institute of Chemical Tech-
+nology, Suchbatarova 5, 166 28 Prague 6, Czechoslovakia. 
+
+phase aqueuse et phase rnicellaire et la formation de rnicelles 
+rnixtes alcool-tensioactif. Lorsque la concentration en alcool 
+augmente, 1'Cvolution des propriktts thermodynamiques per-
+
+met de penser qu'il y a alors formation de "rnicrophases" 2 
+
+caractkre alcool proche d e celui du corps pur. 
+I1 nous a alors semblt nkcessaire d'ktudier le comportement 
+d'un alcool totalement soluble dans l'eau, rnais posskdant un 
+faible caractkre hydrophobe. Nous avons choisi l'isopropanol 
+qui a ttC particulikrement 6tudiC dans l'eau (21). Son influence 
+sur les propriCtCs des solutions rnicellaires reste encore contro-
+versCe (22, 23). L'Ctude des propriktts volurniques et calori-
+
+fiques du systkrne ternaire eau + dodecylsulfate de sodium + 
+
+isopropanol doit perrnettre de rnieux cornprendre les inter-
+actions d e l'isopropanol avec le milieu et ses effets sur la 
+structure micellaire. 
+
+Conditions expkrimentales 
+
+Les solutions sont prCparCes par pesCe avec de l'eau dCionisCe et 
+distillCe. Le dodCcylsulfate de sodium (NaDS) est un produit Touzart 
+et Matignon recristallisC deux fois dans l'ethanol et sCchC sous vide.2 
+L'isopropanol (iPrOH) (Merck pour analyses 99,7%) conservC sur 
+tamis molCculaires est utilisC sans purification ultCrieure. 
+Les masses volumiques p des solutions sont dCterminCes a I'aide 
+d'un densirnetre a Ccoulement liquide permanent (Sodev 02D -
+
+'La puretC du dodCcylsulfate de sodium recristallisC dans les m&amp;mes 
+conditions a CtC vCrifiCe par des mesures de tension de surface. Aucun 
+minimum n'apparait au voisinage de la cmc indiquant l'absence d'im-
+puretCs. Nous remercions 0 . Dusart qui a bien voulu rCaliser ces 
+mesures. 
+
+0008-4042/83/0 10 139-08$0 1 .OO/O 
+0 1983 National Research Council of Canada/Conseil national dc recherches du Canada 
+Can. J. Chem. Downloaded from www.nrcresearchpress.com by 87.160.185.190 on 03/27/14 
+
+For personal use only. 
+
+
+Can. J. Chem. Downloaded from www.nrcresearchpress.com by 87.160.185.190 on 03/27/14 
+
+For personal use only. 
+
+
+MAlER ET AL. 
+
+141 
+
+FIG. 1. Volumes rnolaires apparents de I'isopropanol 298,15 K 
+en fonction de la molalitk en isopropanol in3, a diffkrentes molalitks 
+
+en NaDS ( m z ) du solvant mixte H 2 0 + NaDS: 
+
+rn2 = 0 (41) --; 
+
+0,0029, V ; 0,0063, V; 0,0100, 0; 0,0499, *; 
+
+0,0985, a; 0,1979, *; 0,2632, 0; 0,3064, 0; 0,3475, A; 0,3984, 
+
+A; 0,4261, 0; 0,5132, H. 
+
+rnolalitC par rapport au solvant de rCfCrence; po et c,, sont les 
+masses volurniques et capacitCs calorifiques du solvant de 
+rCfCrence; dans le cas d'un systkrne ternaire, le solvant de 
+reference est le systkrne binaire dans lequel est ajoutC le solutC 
+
+i. Les diffkrences (c, -c,,) sont calcultes a partir des capaci-
+
+tts calorifiques volurniques rnesurkes ( a -uo), a l'aide de la 
+relation: 
+
+dans laquelle uo = cpOpo et u = c,,p. 
+Le solutt i est l'isopropanol ( i = 3), le solvant de rCf6rence 
+
+est le rnClange binaire H,O (1) + NaDS (2). Les valeurs p, et 
+
+c,, du binaire sont dCterrninCes par rapport a l'eau (26,27). Les 
+
+masses volumiques et capacitCs calorifiques dtterminCes en 
+fonction de la rnolalitC en isopropanol, ainsi que les grandeurs 
+apparentes V+,3 et C+,, qui en rtsultent sont indiquCes tableau 1. 
+Les variations de V+,3 et C+,3 sont reprCsentCes respec-
+tivernent sur les figures 1 et 2. L'erreur estirnCe sur V+,3 est de 
+
+0 , l crn3 rnol-' a m3 = 0 , l rnol kg-', rnais dirninue trks rapide-
+
+ment pour de plus fortes concentrations (elle est de 0,03 crn3 
+rnol-I pour m3 = 0,5 rnol kg-' par exernple). Pour les rn2rnes 
+rnolalitCs, l'erreur sur C+,3 est respectivernent 1 et 0,2 J K-' 
+
+mol-I. Les valeurs B dilution infinie v:,, et c:,, sont obtenues 
+
+par extrapolation a partir des courbes V+,3 = f(m3) et 
+
+C + , = f(m3) quand m3 -+ 0. Pour le dornaine diluC en alcool, 
+
+FIG. 2. Capacitks calorifiques molaires apparentes de l'isopropanol 
+a 298,15 K, en fonction de la rnolalitk en isopropanol rn3 diffkrentes 
+
+molalitks en NaDS ( m 2 ) du solvant mixte H 2 0 + NaDS: 
+
+rn, = 0 (41) --; 
+
+0,0029, V ; 0,0063, V; 0,0100, 0; 0,0499, *; 
+
+0,0985, a; 0,1979, *; 0,2632, 0; 0,3064, 0; 0,3475, A; 0,3984, 
+
+A; 0,4261, 0; 0,5132, H. 
+
+une Cquation du type Redlich-Meyer peut 2tre utilisCe pour 
+rkpresenter les variations de V+,, et C+,3: 
+
+avec Y = V ou C. Une rnCthode de rnoindres carrCs (premier ou 
+second degrC) permet 17Cvaluation des pararnktres Y: et Ay, 
+ainsi que leur incertitude dans le dornaine de rnolalitC 0-m3.max 
+en isopropanol. Ces diffkrentes valeurs sont donnCes dans le 
+tableau 2. Cependant, pour les rnolalitCs en NaDS comprises 
+entre 0,2 et 0,3 m, la forrne particulikre des courbes 
+C+,3 = f(m3) dans leur partie initiale n'autorise pas l'utilisation 
+d'une rnCthode de rnoindres carrCs aussi simple. Les valeurs de 
+c:. , et Ac,3 sont alors obtenues graphiquement; elles sont en-
+t2chCes d'une erreur relativernent irnportante. 
+
+Discussion 
+Les grandeurs rnolaires partielles ou apparentes d'un solutC 
+sont caracttristiques de l'environnernent rnolCculaire du solutt 
+dans le milieu. Ces grandeurs traduisent non seulement la con-
+tribution propre du solute, rnais aussi la contribution des inter-
+actions subies par le solutC et des perturbations subies par le 
+solvant. Ainsi, l'exarnen des variations des grandeurs rnolaires 
+apparentes d'un solutC apporte des informations sur les change-
+Can. J. Chem. Downloaded from www.nrcresearchpress.com by 87.160.185.190 on 03/27/14 
+
+For personal use only. 
+
+
+CAN. I. CHEM. VOL. 61. 1983 
+
+TABLEAU 2. Volumes et capacitks calorifiques molaires apparents a dilution infinie de I'isopropanol dans le 
+
+mtlange binaire H 2 0 + NaDS 298,15 K (les incertitudes sont entre parentheses) 
+
+m2 
+m3 
+G . 3 
+A",1 
+m3 
+c:,.3 
+AC3 
+(mol kg.-') 
+rnax 
+(cm3 mol-') 
+(cm3 rnol-' kg) 
+max 
+(J K-' mol-') 
+(J K-' mol-* kg) 
+
+*Valeurs extrapolies graphiquement. 
+tRiference 41. 
+
+rnents de structure de la solution qui rCsultent de l'addition du 
+solutC. 
+A. Evolution des grandeurs molaires apparentes de l'alcool 
+dans le systbme ter-naire 
+1. Examen des variations de V,,, et C,,, 
+L'allure des diffkrentes courbes V,, = f(m,) (Fig. 1) d'une 
+part, et C+., = f(m,) (Fig. 2) d'autre part, est comparable a 
+celle de V, et C, de l'isopropanol dans l'eau pure (21). 
+Lorsque la concentration en NaDS augrnente, pour une 
+rn&amp;me concentration en alcool, V,,, croit et CO,, decroit. Les 
+pentes initiales A,,,, et Ac,, varient peu (tableau 2). Les vari-
+ations particulikres observCes au voisinage de la cmc 
+(0,008 m), et entre 0,2 et 0,3 m, traduisent des changements de 
+structure a propos desquels nous reviendrons au paragraphe 
+B-2. 
+
+Les variations des grandeurs rnolaires partielles Vj et Cp3 sur 
+
+tout le domaine de fraction molaire en isopropanol sont don-
+
+ntes (Fig. 3) pour diffkrentes compositions du binaire H 2 0 + 
+
+NaDS. V3 et Cp3 ont Ctt dCterminCs a partir des variations de 
+
+V,,, et C,,, selon la procedure utilisee par Desnoyers et al. (28). 
+
+Les variations de V, et G3 sont comparables a celles de Vet 
+
+de l'isopropanol dans l'eau pure. Au-dela des extremums situCs 
+
+dans le dornaine diluC, V, et Cpj tendent trbs rapidement vers le 
+
+volume et la capacitk calorifique molaire de l'isopropanol pur. 
+Pour les fractions molaires en alcool supkrieures 2 0,15, quelle 
+
+que soit la concentration en NaDS dans le domaine CtudiC, V3 
+et C,, apparaissent confondus avec V et Cp de l'alcool dans 
+
+l'eau. 
+2. Interprttation 
+A l'exarnen de ces diffkrentes variations, une remarque gen-
+
+Crale s'impose: le comporternent de l'isopropanol en solution 
+micellaire est sirnilaire a son cornportement dans l'eau pure. 
+
+En systPme binaire eau + isopropanol(21), l'isopropanol se 
+
+cornporte cornme d'autres solutes organiques dans l'eau tels 
+que le terbutanol (29), des alkoxyCthanols (30), des amines 
+(21), des amines oxydes (31), etc. La similitude observee entre 
+les variations de V+ et C, en fonction de la rnolalitC pour ces 
+solutCs et celles pour des tensioactifs vrais (32), suggkre que de 
+tels solutCs ont la propriCtC de slagrCger pour former des micro-
+hCtCrogCntites dans l'eau. La formation de ces agrCgats se 
+
+traduit par une variation rapide de V, et C, (et surtout Vet ( ?, , ) 
+
+dans un Ctroit domaine de concentration en solute. Ensuite Vet 
+
+C, ont sensiblement les valeurs du corps pur Vo et C,,. Ceci 
+
+indique que les molecules de solute sont essentiellement local-
+isees au sein d'un microenvironnement organique de nature 
+proche de celui qui leur est offert dans le corps pur. 
+
+En systbme ternaire H 2 0 + NaDS + iPrOH, on constate 
+
+(Figs. 1 et 2) que les variations de V,,, et C,,, en fonction de 
+la concentration en alcool, pour differentes concentrations en 
+tensioactif ont toutes la m&amp;me allure gkntrale, m&amp;rne a des 
+concentrations ClevCes en tensioactif. Dans le domaine diluC en 
+alcool, les variations de V+,, sont essentiellement reprksenta-
+tives des interactions solute-solutC dans la phase aqueuse: 
+elles traduisent les interactions hydrophobes de l'alcool. Avec 
+l'augmentation de la concentration en tensioactif du binaire 
+
+(H20 + NaDS) a m&amp;me teneur en alcool, les faibles variations 
+
+de V,,, et C1,3 conduisent 2 adrnettre que la quantitC d'iso-
+propanol solubilisCe dans les micelles est faible. En effet, le 
+caracthre hydrophile de la molCcule d'isopropanol fait qu'en 
+solution dilute, en prtsence de tensioactif, il est pour l'essen-
+tie1 dans la phase aqueuse. Les propriCtes apparentes sont alors 
+Can. J. Chem. Downloaded from www.nrcresearchpress.com by 87.160.185.190 on 03/27/14 
+
+For personal use only. 
+
+
+MAJER ET AL. 
+
+143 
+
+FIG. 3. Volumes et capacitks calorifiques molaires partiels de I'iso-
+propanol i 298,15 K, en fonction de la fraction rnolaire en isopropanol 
+
+x,, i diffkrentes molalitks en NaDS du solvant mixte H 2 0 + NaDS: 
+
+tn2 = 0 (41); ---------0,0985; ---, 
+0,3984. 
+
+assez peu differentes de celles dans l'eau pure, et ce, d'autant 
+plus que certains auteurs (12-14) ont suggtre qu'il serait solu-
+bilist dans la partie la plus externe de la rnicelle. 
+Dans le dornaine plus concentrt en alcool, au-deli du rnini-
+mum de V,,, (du maximum de C+,,) la contribution du phCno-
+rnene d'agrkgation de l'isopropanol l'emporte; le tensioactif 
+serait susceptible de stabiliser ces agregats sous forme de 
+"micelles mixtes". Les variations de V+., et C+,, traduisent la 
+rtsultante des interactions entre molecules d'alcool en phase 
+aqueuse et celle de l'alcool solubilisC dans les micelles ou sous 
+forme d'agrtgats. Pour des valeurs de .r3 suptrieures a 0,15 
+(Fig. 3), l'alcool est presque entierement sous forrne de micro-
+agrigats et l'isopropanoi se solubilise dans un milieu res-
+
+semblant a un milieu alcool pur. L'existence de ces rnicro-
+
+htttrogtneitts est encore discutte, rnais de rtcents travaux sur 
+
+les systemes eau + iPrOH + benzene (33) et eau + iPrOH 
++ hexane (34) confortent cette hypothese, les auteurs qual-
+
+ifiant m&amp;me I'isopropanol de composant actif d'une "micro-
+trnulsion sans detergent". 
+
+B. Grandeurs a dilution infinie v :,, et c:,~ 
+
+1. Volumes 
+
+La variation de v:., en fonction de la molalitt rn, en NaDS 
+est reprtsentee (Fig. 4). v:,, reste constant avant la cmc, puis 
+
+ensuite augrnente rtgulierernent sur tout le dornaine de concen-
+tration en NaDS Ctudit. Dans le dornaine prkrnicellaire, l'iso-
+
+propanol est en phase aqueuse et v:,, rtsulte des interactions de 
+
+l'alcool avec les rnonorneres de NaDS et l'eau; en milieu rni-
+cellaire, cornme il est reparti entre la phase aqueuse et les 
+rnicelles sa propriett molaire apparente est une rnoyenne pon-
+dCrCe de celles dans chacune des deux phases. Les valeurs de 
+
+v:,, tres proches de celle de I'isopropanol a dilution infinie 
+dans l'eau pure et la tres faible variation de v:,, dans tout le 
+
+domaine de concentration Ctudit rnontrent que la contribution 
+de l'alcool dans la phase micellaire est tres faible; l'isopropanol 
+est donc solubilist dans une tres large proportion en phase 
+aqueuse. Ce resultat est en accord avec ceux de Manabe et al. 
+
+(35); ces auteurs ont ttudiC v:,~, de part et d'autre de la crnc 
+
+dans un ttroit dornaine de concentration en NaDS pour la strie 
+des alcools linkaires; ils n'observent pas de variation de cette 
+grandeur pour les alcools inftrieurs a C4, ce qui va dans le sens 
+d'une solubilisation de ces alcools, essentiellement en phase 
+aqueuse. Pour des alcools a longue chaine, peu solublesdans 
+
+l'eau, v:,, est alors tres proche du volume rnolaire de I'alcool 
+
+pur, en raison de la solubilisation quasi totale de l'alcool dans 
+la phase rnicellaire de nature organique (23, 35). 
+2. Capacite's calorifiques 
+
+L'tvolution de c:,, en fonction de la molalitt m2 en NaDS, 
+representte Fig. 4, apparait plus cornplexe que celle de v:,,. 
+Au voisinage de la crnc c:,, sernble tendre vers une valeur 
+maximum. Pour m, cornpris entre 0,2 et 0,35 m , c:,, reste 
+
+d'abord a peu pres constant, puis dtcroit rapidement. Dans ce 
+
+-
+-
+
+dornaine, cornpte-tenu de l'incertitude sur les valeurs extrapo-
+
+ltes de c&amp;, la forrne de la courbe c:,, reste significative et 
+
+traduit l'existence d'un phenomene rtel. Ce phtnomene obser-
+v t a dilution infinie est encore la pour des concentrations finies 
+en alcool, mais disparait progressivernent lorsque la concen-
+tration en alcool augrnente, cornme en ttrnoigne la forrne des 
+courbes C+,, (m,) pour difftrentes valeurs de m, (Fig. 4). Bien 
+que le partage de l'isopropanol se fasse prkftrentiellement en 
+
+faveur de la phase aqueuse, la contribution a c!, des inter-
+
+actions de l'aicool solubilist dans les micelles ~e r &amp; t de rnettre 
+en evidence vers 0,3 m un changement dans la structure mi-
+
+cellaire du binaire H,O + NaDS. Ce changement observt lors 
+de l'ttude du binaire HzO + NaDS (36) a aussi t t t rnis en 
+evidence dans 1'Ctude du systtrne ternaire HzO + NaDS + 
+
+n-BuOH (15). Des changements de rn2me type ont tgalernent 
+Ct C observts avec des carboxylates de sodium (37) et, si l'on 
+admet l'existence de "pseudo-phases" (37), ils correspon-
+draient des transitions entre des structures stables difftrentes. 
+
+Les variations particulieres de c:, au voisinage de la crnc et 
+
+vers 0,3 m en NaDS, sont likes aux deplacernents des equilibres 
+chimiques, par suite de l'tltvation de temptrature provoquCe 
+pour 1'Cvaluation de la capacitt calorifique (38). Ainsi, les 
+tquilibres du tensioactif entre phase aqueuse et phase mi-
+cellaire au voisinage de la cmc et entre les structures diffkrentes 
+vers 0,3 m sont modifits. I1 en rCsulte une perturbation du 
+partage de I'alcool entre les diffkrentes structures tvoqutes et, 
+
+corrClativement, des valeurs de c:,,. 
+
+C. Grandeurs molaires apparentes relatives a NaDS en milieu 
+
+eau + isopropanol 
+
+Les rnesures de masses volumiques et de capacitts cal-
+orifiques rkalistes dans 1e systkme ternaire perrnettent, au 
+rnoyen d'interpolations, de calculer les grandeurs molaires ap-
+parentes V+.? et C m , assocites au tensioactif dans des solvants 
+
+mixtes H,O + iPrOH de composition donnee lorsque varie la 
+
+Can. J. Chem. Downloaded from www.nrcresearchpress.com by 87.160.185.190 on 03/27/14 
+
+For personal use only. 
+
+
+144 
+
+CAN. J. CHEM. VOL 61. 1983 
+
+FIG. 4. Volumes et capacitts calorifiques molaires apparents de l'isopropanol i 298,15 K, en fonction de la molalitt en NaDS m, du solvant 
+
+mixte H,O + NaDS. 
+
+@O valeurs extrapoltes i dilution infinie m3 = 0; Ovaleurs interpolkes A m3 = 0,5; Ovaleurs interpoltes a m3 = 1; @valeurs interpoltes 
+
+Am3 = 2. 
+
+I 
+
+concentration en NaDS. Les courbes representant les variations 
+de V+,2 et C+:2 en fonction de rn2 pour des solutions 0,5, 1, 2, 
+
+3 et 4 m en iPrOH sont donnkes respectivement figs. 5 et 6. 
+
+I1 est bien connu que l'isopropanol abaisse la crnc du dode-
+cylsulfate de sodium (11); a l'exarnen de ces courbes, on 
+remarque que l'augmentation rapide de V+,, et la dCcroissance 
+de C+,2 se produisent pour des concentrations en tensioactif de 
+plus en plus faibles, au fur et a rnesure que la quantitC d'alcool 
+augrnente dans le solvant rnixte. 
+Duns la rdgion prdtnieellaire, Ctant donne la tres faible va-
+leur de la crnc de NaDS (8,3 X lo-' rn (39)), il est difficile 
+d'effectuer l'etude auantitative de l'influence de l'alcool sur les 
+propriktts molaires du monornere de tensioactif, comrne l'ont 
+rtaliste Vikingstad et Kvarnmen (14) avec la sCrie des alcools 
+a chaine courte dans les solutions de decanoate de sodium ou 
+Giiveli et al. (40) avec les rn&amp;rnes alcools dans le systeme H1O 
+-brornure de dodCcyltrimCthylammonium. Qualitativement, 
+lorsque la quantitC d'isopropanol augmente, on observe que le 
+volume apparent du monomkre NaDS augmente et sa capacitC 
+calorifique decroit, en accord avec les r6sultats precites. Ces 
+auteurs expliquent ces variations a la fois par une diminution de 
+l'hydratation hydrophobe de la partie hydrocarbonie du ten-
+sioactif et par une diminution de l'hydratation hydrophile de sa 
+t6te ionique, le rnonomkre se trouvant dans un environnernent 
+de plus en plus organique. 
+Dans la re'gion post-mieellaire, les valeurs de V6,? augmen-
+tent et celles de C6,, diminuent lorsque la quantitt de l'alcool 
+
+croit dans le solvant mixte H 2 0 + iPrOH. L'effet de l'alcool 
+
+doit &amp;tre relit a des changernents de la couche superficielle 
+rnicellaire par suite de la solubilisation de I'alcool dans les 
+micelles ( 12). Vikingstad et Kvamrnen ( 14) considkrent que 
+l'augrnentation de volume apparent du tensioactif est due a une 
+
+reduction de l'electrostriction des rnolCcules d'eau sur la sur-
+face micellaire. 
+Les courbes V+, (m?) passent par un maximum (un minimum 
+pour C+,,) puis tendent vers la valeur du volume apparent (et de 
+la capacite calorifique apparente) de NaDS dans les rnicelles. 
+I1 semble que ces extrernums soient d'autant plus prononcks 
+
+que la composition du binaire H20 + iPrOH est proche de 
+
+celle pour laquelle il se forrne des microh6terogCnCites dans le 
+binaire. 
+
+Conclusion 
+L'etude des volumes et capacitts calorifiques du systerne 
+
+ternaire H,O + NaDS + iPrOH contribue a une rneilleure 
+
+connaissance du r61e de l'alcool dans les solutions micellaires. 
+La nature de l'isopropanol, de par son caractere Itgerernent 
+amphiphile, fait qu'il est susceptible de former des micro-
+agrCgats dans l'eau, aussi certains auteurs ont-ils CvoquC le 
+"r61e actif de l'isopropanol dans les micro6mulsions sans 
+detergent" (33, 34). Dans les solutions micellaires, l'iso-
+propanol agit a la fois sur la structure du solvant ct sur les 
+proprietts micellaires provoquant un abaissernent de la cmc du 
+tensioactif. Nos rksultats corroborent l'hypothkse selon la-
+quelle l'isopropanol s'incorpore dans la micelle a l'interface 
+rnicelle-solvant pour former des micelles mixtes, sans pent-
+trer profondement dans le coeur rnicellaire. En jouant un r61e 
+d'tcran entre les t&amp;tes ioniques du tensioactif, il abaisserait la 
+densitt superficielle de charge et contribuerait ainsi a stabiliser 
+la micelle. Les alcools a plus longue chaine, leur caractkre 
+hydrophobe augmentant, ptnktrent alors plus a I'inttrieur de la 
+micelle et perturbent de fason plus importante la structure de la 
+micelle (12, 40). 
+L'ttude des capacitis calorifiques molaires apparentes a di-
+Can. J. Chem. Downloaded from www.nrcresearchpress.com by 87.160.185.190 on 03/27/14 
+
+For personal use only. 
+
+
+MAIER ET AL. 
+
+145 
+
+FIG. 5. Volumes molaires apparents de NaDS B 298,15 K en fonc-
+
+tion de la molalitt en NaDS m2 B difftrentes molalitts en isopropanol 
+
+0 
+0.2 
+
+dans le solvant mixte H 2 0 + iPrOH: 
+
+0.4 
+m2/ 
+
+mol kg-' 
+
+m) = O W , @);0,5, 0; 1, @ , 2 , @;3, @;4, @. 
+
+FIG. 6. Capacitts calorifiques molaires apparentes de NaDS, B 
+
+lution infinie de ~~i~~~~~~~~~~ (ou dans le domaine tres dilut en 298,15 K, en fonction de la molalitt en NaDS m2, B diffirentes 
+
+alcool) a permis de mettre en Cvidence des changements d e 
+
+molalitts en isopropanol dans le solvant mixte H20 + iPrOH: 
+
+structure dans le binaire HzO + NaDS. En plus d e la transition nz, = 0(36), @);0.5, 0; I, @;2, @;3, @,4, @. 
+
+correspondant a la concentration critique micellaire du tensio-
+
+actif, l'existence d'une seconde transition pourrait 6tre respon-
+recovery. EditPpar R. T. Johansen et R. L. Berg. A.C.S. Sym-
+sable des changements observCs vers 0 , 3 m en NaDS (plus 
+posium Stries No 91. Washington, DC. 1979. p. 81. 
+clairement mise en tvidence que lors de I'Ctude du seul binaire 
+4. J. E. DESNOYERS, F. QUIRION, D. HETU et G. PERRON. Fuel. 
+
+H?O + NaDS (36)). Cette transition semblerait jouer un rBle 
+
+Sous presse. 
+essentiel pour la solubilisation de molCcules organiques telles 
+5. F. 
+et D. J. G . IVES. Q. Rev. 20, 
+
+que le butanol (15) et pour la solubilisation des hydrocarbures 
+
+6. H. N . 'INGH et S. 'WARUP. 
+Jpn. 51, 1534 
+
+en milieu microtmulsion (19, 20). 
+
+(1978). 
+7. B. D. FLOCKART et A. R. UBBELOHDE. J. Colloid. Sci. 8, 428 
+(1953). 
+
+Remerciements 
+
+8. K. SHINODA. J. Phys. Chem. 58, 1136 (1954). 
+
+L'un de nous (V. M.) tient a exprimer ses remerciements 
+
+9. M. F. EMERSONet A. HOLTZER. J. Phys. Chem. 71,3320(1967). 
+
+pour ['obtention d'une bourse de la D.G.R.C.S.T., Ministere 
+
+10. A. S. C. L A U R E N C E ~~J . 
+T. PARSON. Trans. Faraday SOC. 63,495 
+des Relations ExtCrieures, dans le cadre des echanges 
+(1967). 
+
+France-Tch~coslovaquie, Nous remercions aussi M. le Pro-
+
+11. K. SHIRAHAMA et T. KASHIWABARA. J. Colloid Interface Sci. 36, 
+65 (1971). 
+
+fesseur J . E. Desnoyers (UniversitC de Sherbrooke' Canada) 
+
+12. R. ZANA, S. YIV, C. S T A Z ~E L L E ~~ 
+P. LIANOS. J. Colloid Interface 
+pour les discussions fructueuses et l'intCr6t qu'il a bien voulu 
+Sci. 80, 208 (1981). 
+porter a ce travail. 
+13. J. W. LARSEN et L. B. TEPLEY. J. Colloid Interface Sci. 49, 113 
+(1974). 
+1. K. L. MITI-AL (Edileur). Micellization, solubilization and micro-
+14. E. VIKINGSTAD et 0. KVAMMEN. J. Colloid Interface Sci. 74, 16 
+emulsions. Vols. 1 et 2. Plenum Press, New York. 1977. 
+(1980). 
+2. L. M. PRINCE (Editeur). Microemulsions. Theory and practice. 
+15. G. ROUX-DESGRANGES, A . H. ROUX, J. P. E. GROLIER et 
+Academic Press, New York. 1977. 
+A. VIALLARD. J. Solution Chem. 11, 3.57 (1982). 
+3. R. L. BERG, L. A. NOLL et W. 0 . GOOD. Chemistry of oil 
+16. A. M. BELLOCQ, J. BIAIS, B. CLIN, P. LALANNE et 
+
+Can. J. Chem. Downloaded from www.nrcresearchpress.com by 87.160.185.190 on 03/27/14 
+
+For personal use only. 
+
+
+146 
+
+CAN. J. CHEM. VOL. 61. 1983 
+
+B. LEMANCEAU. J. Colloid Interface Sci. 70, 524 (1979). 
+17. J. LANG, A. DJAVANBAKHT et R. ZANA. J. Phys Chem. 84, 1541 
+(1 980). 
+18. A. GRACIAA. Thbse Doctorat d'Etat, Universitk de Pau, France. 
+1978. 
+19. A. H. Roux, G. ROUX-DESGRANGES, J. P. E. GROLIER et 
+A. VIALLARD. J. Colloid Interface Sci. 84, 250 (1981). 
+20. G. Roux-DESGRANGES, A. H. Roux, J. P. E. GROLIER et 
+A. VIALLARD. J. Colloid Interface Sci. 84, 536 (1981). 
+21. G. Roux, D. ROBERTS, G. PERRON et J. E. DESNOYERS. J. 
+Solution Chem. 9, 629 (1980). 
+22. K. S. BIRDI, S. BACKLUND, K. S~RENSEN. T. KRAG et 
+S. DALSAGER. J. Colloid Interface Sci. 66, 1 18 (1978). 
+23. E. VIKINGSTAD. J. Colloid Interface Sci. 72, 75 (1979). 
+24. P. PICKER, E. TREMBLAY et C. JOLICOEUR. J. Solution Chem. 3, 
+377 (1974). 
+25. P. PICKER, P. A. LEDUC, P. R. PHILIP et J. E. DESNOYERS. J. 
+Chem. Thermodyn. 3, 631 (1971). 
+26. G. S. KELL. J. Chem. Eng. Data, 12, 66 (1977). 
+27. H. F. STIMSON. Am. J. Phys. 23, 614 (1955). 
+28. J. E. DESNOYERS, R. DE LISI, C. OSTIGUY et G. PERRON. Solution 
+chemistry of surfactants. Editt par K. L. Mittal et A. S. Kertes. 
+Plenum Press, New York. 1979. 
+29. C. DE VISSER, G. PERRON et J. E. DESNOYERS. Can. J. Chem. 55, 
+856 (1977). 
+
+30. G . Roux, G. PERRON et J. E. DESNOYERS. J. Solution Chem. 7, 
+639 (1978). 
+3 1. J. E. DESNOYERS, D. ROBERTS, R. DE LlSI et G. PERRON. S O ~U -
+tion behaviour of surfactants: theoretical and applied aspects. 
+Edite'par E. J. Fendler et K. L. Mittal. Plenum Press, New York. 
+Sous presse. 
+32. G. M. MUSBALLY, G. PERRON et J. E. DESNOYERS. J. Colloid 
+Interface Sci. 48, 494 (1974). 
+33. J. LARA, G. PERRON et J. E. DESNOYERS. J. Phys. Chem. 85, 
+1600 (1981). 
+34. G. D. SMITH, C. E. DONELAN et R. E. BARDEN. J. Colloid 
+Interface Sci. 60, 488 (1977). 
+35. M. MANABE, K. SHIRAHAMA et M. KODA. Bull. Chem. Soc. Jpn. 
+49, 2904 (1976). 
+36. V. MAJER, A. H. ROUX, G . ROUX-DESGRANGES et A. VIALLARD. 
+En prkparation. 
+37. G. DOUHERET et A. VIALLARD. J. Chim. Phys. 78, 85 (1981). 
+38. J. E. DESNOYERS, R. DE Llsl et G. PERRON. Pure Appl. Chem. 
+52, 433 (1980). 
+39. P. MUKER~EE et K. J. MYSELS. Critical micelle concentrations of 
+aqueous surfactant systems. Natl. Stand. Ref. Data Ser. N.B.S. 
+(US) Washington, DC. 1971. 
+40. D. E. GIJVELI, J. B. KAYES et S. S. DAVIS. J. Colloid Interface 
+Sci. 22, 307 (1981). 
+41. A. H. ROUX, J. P. E. GROLIER et E. WILHELM. En prkparation. 
+
+Can. J. Chem. Downloaded from www.nrcresearchpress.com by 87.160.185.190 on 03/27/14 
+
+For personal use only. 
+
+
+
+	
+

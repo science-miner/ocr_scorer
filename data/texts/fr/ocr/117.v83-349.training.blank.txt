@@ -1,0 +1,619 @@
+
+	
+
+		
+
+	
+
+	
+
+Can. J. Chem. Downloaded from www.nrcresearchpress.com by 87.160.185.190 on 03/27/14 
+
+For personal use only. 
+
+
+BROSSARD 
+
+2023 
+
+FIG. I. Courbe de polarisation cn balayagc linkaire de la tension 
+
+sur un fil de cuivrc. Balayagc i 1 mV/s. LiCI: 0, I M. La solution est 
+non aeitkc ct I'Clectrodc cst en position stationnairc. E,=,,: tension h 
+
+-
+
+courant nul. La region "a" en mkdaillon correspond i la premikre 
+
+1 
+
+portion de la partie asccndantc de la premikre vaguc d'oxydation. 
+
+I 
+
+ascendante de la vague "1" alors que I'examen de la surface de 
+l'anode par le microscope a perrnis d'observer que le cuivre 
+reste a nu jusqu'au voisinage de la tension reversible (Eculcucl) 
+de la reaction: 
+
+[ I ] 
+
+Cu + C1-= CuCl + e 
+
+qui est donne par (25): 
+
+I 
+
+[2] 
+Ec,,,c,,cl = 0.109 -0,0591 log,,, (Cl ) 
+
+. . 
+
+. 
+
+oh Ec,,lc,,c, est en volt par rapport B 1'Clectrode au calomel 
+
+. 
+. 
+
+sature. 
+Le produit de corrosion s'accumule sur l'electrode dks que la 
+tension imposCe depasse de quelques mV la tension reversible 
+
+Eculas1 (Fig. 2). Dans le cas reproduit 2 la fig. 2, Ecolcucl est 
+
+de -50 rnV,,, (25) alors que 1'Cchantillon a etC polarise jusqu'i 
+-25 mV,;,. On remarque que la surface est non uniformement 
+recouverte par le produit de corrosion. 
+Pour sa part, la relation E vs. log," i cesse d'&amp;tre IinCaire 
+lorsque le produit de corrosion fait son apparition et le somrnet 
+de la premiere vague de passivation est atteint lorsque E dC-
+passe Eculcucl de 50 mV environ. Ce cornportement laisse en-
+trevoir un changernent au niveau du mCcanisn~e de dissolution 
+avec I'apparition du produit de corrosion. 
+
+3.2 Compor-temerzt drc cuivr-e dons la zone de clissol~(tioti active 
+fE 5 Ea,/c.o) 
+Les valeurs experimentales de la valence de dissolution sont 
+rassernbltes au tableau 1 pour des concentrations en ions C1-
+comprises entre 0,005 et 0 , I M. On remarque que la valence de 
+dissolution depend de la concentration en ions C1-. Elle est de 
+I ,O entre O,1 et 0,03 M pour augmenter avec une concentration 
+
+FIG. 2. Aspect dc la surface de l'anodc en presence du produit de 
+corrosion. Rctrait de I'Clcctrode: -25 mV,,,. Conditions expkri-
+mentalcs donnees i~ la fig. I. 
+
+TABLEAU I . Valcurs expkrimentales dc 
+la valencc de dissolution a differentes 
+conccntrations cn ions CI-
+
+CI.. (M) 
+
+11 " 
+
+0,005 
+1,65 
+0.0 1 
+1.65 
+0.02 
+1.35 
+0.03 
+1 ,o 
+0,05 
+1 ,o 
+0,07 
+
+1 ,o 
+
+0, I 
+
+1 ,oh 
+
+"Valeurs calculCes B partir de la pente 
+( d E / i , logl,, i) A 22'C. 
+
+" Valeur confirm&amp; expCrinientalement par 
+
+perte de poids. 
+
+decroissante en CI-et atteindre 1,65 5 0,005 M. Ce com-
+
+portement tend h confirmer les prCvisions faites B partir des 
+
+calculs theoriques de Braun et Nobe (1) qui suggerent, no-
+tamment, qu'une portion non negligeable du cuivre se dissous 
+sous forme de CuF,. lorsque la concentration en ions C1-est en 
+dessous d'une valeur voisine de 0,05 M. 
+Les particularitks de l'anode de cuivre, polarisee 2 des ten-
+sions inferieures ?i Ea,lcucl, et dans la gamrne de concentration 
+comprise entre 0,03 et 0 , l M, sont: 
+(a) la relation E vs. loglo i est linkire avec une pente voisine 
+de 60 mV/dCcade (Fig. 3). (dE/d loglo i ) o = 60 mV/dCcade; 
+(b) la relation i vs. wl/' est lineaire pour w 5 375 rad/s et 
+l'ordonnee a I'origine passe pres de zero (Fig. 4), i.e. 
+(ai/aw'12),,,,-est constante; 
+(c) la relation E vs. log," iw-'l"onne 
+une droite avec une 
+Can. J. Chem. Downloaded from www.nrcresearchpress.com by 87.160.185.190 on 03/27/14 
+
+For personal use only. 
+
+
+2024 
+
+CAN. J. CHEM. VOL. 61. 1983 
+
+FIG. 3. Relations E vs. log,,, i B differentes valeurs de w. Balayage 
+B 0,5 rnV/s; LiCI: 0,l M. E 5 Ec,,/c,c,. 
+
+FIG. 4. Courant de dissolution anodique en fonction de w"' avec E 
+et CI-fixes. E = -160 rnV,,, ( E 5 Ec,,lc,cl); LiCI: 0,1 M . 
+
+pente de 60 mVldCcade approximativement (Fig. 5), i.e. 
+(dE/d log," iw-'/2)CI-,T = 60 mVldCcade. Le produit i . w-'I' 
+represente la pente de la relation i vs. w'/' dans la zone oh cette 
+relation est IinCaire et oh l'ordonnke h l'origine passe par 0 
+(Fig. 4). Une valeur de i. w-'I' correspond i une tension et une 
+concentration en C1-fixtes; 
+(d) l'ordre de la reaction par rapport aux ions CI-dCpend de 
+la tension (Fig. 6). 11 est proche de 1 lorsque la tension est 
+&amp;levee i.e. -20 mV pour tendre vers 2 lorsque la tension va 
+decroissant. Ainsi, il atteint 1,83 pour une tension de 
+-140 mV; 
+(e) la valence de dissolution est Cgale a 1 (Tableau 1). 
+De plus, lorsque I'tchantillon est soumis a un balayage de 
+retour rapide, une vague de reduction est observCe (Fig. 7). Le 
+courant qui correspond au sommet de la vague de reduction (i,) 
+est proportionnel au courant d'oxydation (i,,). Dans l'exemple 
+choisi ici, le balayage est dix fois plus rapide lors du retour. 
+Enfin, la quantitt d'electricitC mise en jeu lors du balayage de 
+retour (Q,,,) est inferieure a celle mise en jeu lors de I'aller 
+
+( Qan). 
+
+3.3 Comportemerlt du cuivre en presence du produit de 
+corrosiorz 
+3.3.1 Nature et caractPristiques du film forme 
+L'utilisation du microscope a balayage a permis d'observer 
+la surface de I'Clectrode durant I'oxydation anodique (Figs. 2, 
+8). Rappelons que la presence du produit de corrosion est 
+perceptible dks que E depasse EcUlcucl (Fig. 2) alors que le 
+
+sommet de la premikre vague d'oxydation co'incide avec le 
+recouvrement complet de 1'Clectrode (Fig. 8). Pour sa part, le 
+
+OJ 
+
+-
+
+cV 
+
+\ 
+
+-
+
+V) 
+
+Cd 
+
+: 
+
+0 
+
+z 
+
+?J 
+
+5 OlO1 
+
+a 
+
+E 
+
+2 .-
+
+3 
+
+.J 
+
+Ol0Ol 
+-200 
+
+courant de dissolution demeure eleve malgrt la 
+du 
+produit de corrosion sur toute la surface. Aprks un balayage 
+anodique de 1 mV/s, l'examen de I'Clectrode revkle un dCpGt 
+
+I 
+
+I 
+I 
+I 
+I 
+
+&amp; 
+
+-
+-
+-
+
+-
+
+-
+-
+-
+
+-
+-
+-
+
+-
+-
+
+7 
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+-
+
+-
+-
+
+-
+-
+
+-
+
+-
+
+J 
+
+-
+-
+-
+
+-
+
+-
+
+-
+
+I 
+I 
+I 
+I 
+I 
+
+-180 -160 -140 -120 -100 -80 
+
+de plisieurs microns d'kpaisseur (a l'oeil nu) dans la partie 
+descendante de la deuxieme vague. 
+Par ailleurs, la diffraction aux rayons-): a permis l'iden-
+
+E (mVecs 
+
+FIG. 5. iw-"' en fonction de la tension irnposee. LiCl = 0 , l M; 
+E 5 Ectt/cuc~. 
+
+tification d'un seul composC, le chlorure cuivreux, jusqu'i une 
+tension de +800 mV,,,. La prksence du CuCl sur l'electrode est 
+
+associCe: (a) A la vague cathodique qui est la signature de la 
+
+reduction du CuCl (20) form6 par voie electrochimique; (b) au 
+fait que la tension a courant nu1 (E,,"), lors du balayage de 
+retour, est de quelques mV inferieure a la tension reversible 
+Eculcuc~ (Fig. 9). 
+L'ensemble de ces observations autorise a penser que le 
+CuCl forme est peu protecteur et que le cuivre en prCsence de 
+CuCl se conduit comme une electrode de second genre oh le 
+mCtal est en Cquilibre avec un de ses sels insolubles. 
+3.3.2 Etclpe de'terminante cle In dissol~ition 
+La presence d'une legere agitation dans la solution se traduit 
+par une augmentation considkrable du courant de dissolution. 
+La diffusion d'une espece ionique dans la solution est donc 
+susceptible de contraler la dissolution du cuivre. 
+Les courbes i(E), obtenues en balayage IinCaire de la tension 
+(Figs. 1 , lo), montrent qu'une augmentation de la vitesse de 
+balayage se traduit par une augmentation de courant. Le phC-
+Can. J. Chem. Downloaded from www.nrcresearchpress.com by 87.160.185.190 on 03/27/14 
+
+For personal use only. 
+
+
+BROSSARD 
+
+2025 
+
+FIG. 6. Influence de la concentration en C I sur le courant de 
+
+dissolution anodique B diffkrentcs valeurs de la tension d2Clectrode. 
+
+Balayage i 0.2 mV/s (E 5 Ec,,lcucr). La solution cst non agitCe et 
+
+I'Clectrodc, un fil de cuivre, est en position stationnaire. 
+
+FIG. 7. Vagues de reduction du cuivre irnmidiatement aprks un 
+
+balayage anodique. Balayage i 4 mV/s h I'aller, B 40 mV/s au retour. 
+
+E 5 Ec,/c.bl; LiCl = 0.1 M; x point de depart. L'tlectrode est cn 
+
+position stationnaire et la solution est non agitCe. 
+
+nomkne de diffusion a CtC mis en evidence a partir des relations 
+entre le somrnet de la vague d'oxydation (ipl et ip2) et la'vitesse 
+de balayage dE/dt sur un fil de cuivre (Fig. 11). La relation qui 
+
+FIG. 8. Apparence de la surface de l'klectrode au sorn~net de la 
+
+premikre vague de dissolution. Conditions d'oxydation donnCes i la 
+
+fig. 1. 
+
+FIG. 9. Ec,,/cuc, et E,=,, en fonction de la concentration en C1-. 
+Tension oh la direction du balayage est inverske: (a) +SO0 rnV,,,; (0) 
+
++500 mV,,,; (A) + 100 mV,,,. Vitesse de balayage de I mV s-' a 
+
+i'aller et au retour. Autres conditions experimentales donnkes B la fig. 
+I . 
+
+lie ipl et ip2 h la racine carrCe de la vitesse de balayage est bien 
+reprCsentCe par une droite dont I'ordonnCe a l'origine passe par 
+Can. J. Chem. Downloaded from www.nrcresearchpress.com by 87.160.185.190 on 03/27/14 
+
+For personal use only. 
+
+
+2026 
+
+CAN. J . CI4EM. VOL. 61. 1983 
+
+FIG 10, Influencc dc la vitessc dc balayage sur Ics courbcs i ( E ) 
+obtcnues en balayagc lindalrc dc la tension sur un hl dc cuivre. 
+LiCI: 0, I M. La solution est non agitCc ct I'itlcctrode est en posit~on 
+stat~onnaire 
+
+zero. Ce comportenient est la signature d'un processus contr61e 
+par la diffusion en phase liquide (26). Pour les solutions 0, I M 
+LiCI, les relations trouvees sont: 
+
+oh ipl et i,,? sont exprimees en A cm-' et dE/dt en V s-I 
+
+4. Discussion 
+
+un premier temps, la dissolution active du cuivre est 
+discutee. La tension imposte est alors inferieure ?I la tension 
+reversible Eculcucl et le cuivre reste a nu durant la dissolution. 
+Dans un second temps, on discute de la dissolution du cuivre 
+lorsqu'il y a presence de CuCl sur la surface; la tension irnposee 
+est alors superieure j. la tension reversible Ec,,lcucl. 
+
+4. 1 Dissolutio/z active ilu cuivt.~ 
+Les relations i vs. wl/' (Fig. 4) suggerent que la diffusion 
+d'une espkce ionique en solution est 1'Ctape lente de la dis-
+solution du cuivre. Par ailleurs, I'espece la plus stable pour le 
+cuivre dissous est le CuCI?-( 1 , 25, 27) dans la gamme de 
+concentration en CI-comprise entre 0,05 et 0, I M (1). Lorsque 
+la dissolution du cuivre sous fornie de CuCI?-est envisagee, les 
+Ctapes les plus probables sont (2, 28): 
+
+[5] 
+
+Cu + 2C1 = (CUCI~-)~ + le (Ctapc rapidc) 
+
+qui est suivie de: 
+
+[6] 
+(CuC12), + (CuC12--), (Ctape lente) 
+
+les indices i et s indiquent la concentration B la surface de 
+
+I'Clectrode et au sein de la solution, respectivenient. La 
+d e u x i h e Ctape, qui est I'etape lente, correspond a la diffusion 
+du CuC1,-depuis la surface de I'anode jusqu'au coeur de la 
+solution. La premiere etape, qui est I'oxydation du cuivre en 
+CuCI?-, est susceptible d'&amp;tre dans un etat tres voisin de 
+l'equilibre, ce qui autorise utiliser l'equation de Nernst: 
+
+Le rearrangement des terrnes donne: 
+
+FIG. I I . Influence dc la vitcssc dc balayagc sur Ic solnmct dcs 
+vagues d'oxydation. LiCI: 0,l M. 
+
+F 
+[8] 
+
+(CUCI?-)~ = (C1-)' exp -( E -E:,,,,~~~, ) 
+
+RT 
+
+On suppose que la concentration en ions (C1-) derneurc la 
+mcme a I'interface, (C1,-), que dans la solution (C1,-). Par 
+ailleurs, I'Ctape lente en cst unc de diffusion et la vitesse de la 
+reaction est donnee par la premiere loi de Fick, dont la fornie 
+simplifiee est: 
+
+La relation [9] devient: 
+
+lorsque (CuC12), 9 (CuC1,-),. 
+La cornbinaison des relations [7], [8] et [lo] donne: 
+
+ZFD 
+[ I l l i = -
+F 
+
+6 (c1-Y exp (E -E : ~~~~~~-) 
+
+L'utilisation de l'electrode ? I disque tournant permet d'ecrire 
+(29): 
+
+[12] 6 = 1,63 D:&amp;.~~-~ vl/' o -] ~' 
+La substitution de 6 dans la relation [I 11 donne: 
+
+[13] i = 0 , 6 2 Z F v-'I6 ~,?c.:,,?-, wl/'(CI-)' 
+
+F 
+x exp 
+
+(E -E ~I ~-) 
+
+ou Z, la charge de I'espece qui diffuse, est Cgale B 1; v , la 
+
+viscosid cinematique, est voisine de 0,96 X lo-? cn12/s (30); 
+Can. J. Chem. Downloaded from www.nrcresearchpress.com by 87.160.185.190 on 03/27/14 
+
+For personal use only. 
+
+
+Can. J. Chem. Downloaded from www.nrcresearchpress.com by 87.160.185.190 on 03/27/14 
+
+For personal use only. 
+
+
+2028 
+
+CAN. J. CHEM. VOL. 61. 1983 
+
+ou i,, est exprim6 en A cm-' et correspond au sommet de la 
+
+vague lorsque la diffusion des ions CI-est considerke; (dE/dt) 
+
+est en V s-I. i,, donne par la relation [22] est donc en bon 
+
+accord avec i,, trouvC experimentalernent, i.e. la relation [3]. 
+
+4.2.2 De~rxikrne vague d ' o , ~~~l ~~t i o ~z 
+Dans le cas ou I'Ctape diterminante est attribuee a la dif-
+
+fusion des ions C 1 dans la solution, les valeurs d e Dcl-et de 
+(Cl-) sont identiques celles utiliskes dans la relation [22]. 
+Pour sa part, 11 = 2 (25). On obtient alors: 
+
+Ainsi, i,? donne par la relation [23] est en harmonie avec iP2 
+trouvC expkrimentalement i.e. la relation [4]. On envisage donc 
+la formation d'intermkdiaire colnme le CuCI' ou le Cu" (25) 
+dans la region d e la 2e vague alors que I'Ctape determinante de 
+
+la dissolution est entierement imputable a la diffusion des ions 
+
+C l dans la solution. 
+
+Conclusion 
+La surface d e cuivre reste complktement a nu durant la dis-
+solution anodique de ce metal a des tensions inferieures h 
+Eculcucl. La valence de dissolution est Cgale 1 entre 0,03 M et 
+0 , l M en LiCl dissous pour ktre comprise entre 1 et 2 en 
+dessous de 0,03 M. Entre 0,03 M et 0,1 M, la vitesse de dis-
+
+solution est presque entierement expliquable a partir d e la dif-
+
+fusion du CuCI2-dans la solution pour les tensions les plus 
+faibles. La diffusion des ions C1-tend aussi devenir une Ctape 
+
+contrBlante a mesure que la tension devient voisine de ECulcua. 
+I1 y a apparition de chlorure cuivreux a la surface d e I'anode 
+
+d e cuivre en position stationnaire et en contact avec une solu-
+tion non agitee lorsque la tension iniposCe est voisine d e la 
+tension reversible EcUlc,,,,. 
+Les courbes en balayage IinCaire de tension prksentent deux 
+vagues de dissolution. La hauteur d e la 2e vague est environ 
+2,2 fois la hauteur d e la premiere. 
+Dans le cas de la premikre vague, son sommet (i,,) augmente 
+de faqon IinCaire avec la racine carree d e la vitesse de balayage. 
+Les valeurs expCrimentales de i,, sont en harmonie avec les 
+valeurs thCoriques du sommet de la vague qui sont calculCes 
+en considerant la diffusion des ions C1-comme Ctape 
+deterrninante. 
+
+Dans le cas d e la deuxieme vague, son sommet (i,?) aug-
+
+mente de faqon IinCaire avec la racine carrCe de la vitesse d e 
+balayage. Les valeurs expCrimentales de i,, sont en accord avec 
+les valeurs thkoriques du sornmet de la vague qui sont calculCes 
+en considerant la diffusion des ions CI-cornme Ctape 
+dkterminante. 
+
+Remerciements 
+L'auteur tient a remercier monsieur M. Pelletier, en stage h 
+I'I.R.E.Q., ainsi que monsieur G. Larochelle pour leur con-
+tribution au travail experimental. 
+
+1. M. BRAUN et K. NOBE. J. Electrochem. Soc. 126, 1666 (1979). 
+
+2. A. L. BACARELLA et J. C. GRIESS. J . Elcctrochcm. Soc. 120,459 
+
+(1973). 
+3. R. S. COOPER et J. H. BARTLETT. J . Elcctrochcm. Soc. 105, 109 
+(1958). 
+4. R. K. ASTAKHOVA et B. S. KRASIKOV. Zh. Prikl. Khim. 44, 363 
+(1972). 
+5. A. MOREAU. Electrochim. Acta, 26, 1609 (1981). 
+6. L. KISS, J. FARKAS et A. KOROSI. Acta Chim. Acad. Sci. Hung. 
+67. 179 (1971). 
+7. L. Krss, J. FARKAS et A. KOROSI. Magy. Kcni. Foly. 77, 35 
+(1971). 
+8. T. HURLEN. Acta Cheni. Scand. 15, 1231 (1961). 
+9. V. K. ALTUKHOV. A. V. VVEDENSKII, I. K. MARSHADOV et 
+T. N. KLEDININA. Sov. Electrochcm. 15, 242 (1979). 
+10. D. J . G. l v ~s et A. E. RAWSON. J. Elcctrochcm. SOC. 109, 462 
+( 1 962). 
+I I. A. I. GOLUBEV, M. KH. KADYROV ct R. I. NAZAROVA. Prot. 
+Met. USSR, 5, 230 (1969). 
+12. C. H. BONFICLIO, H. C. ALBAYA et 0. A. COBO. Corros. Sci. 13, 
+717 (1973). 
+13. L. F. KOZIN, K. K. LEDESOV et S. N. NACIBIN. Izv. Akad. Nauk 
+Kaz. SSR Ser. Khim. 4, 1 1 (1980). 
+14. L. F. KOZIN, K. K. LEPESOV et S. N. NACIBIN. IZV. Akad. Nauk 
+Kaz. SSR Ser. Khim. 6, 28 (1980). 
+15. F. M. AL-KHARAFI ct Y. A. EL-TANTAWY. J. Elcctrochcm. Soc. 
+128, 2073 (1981). 
+16. M. TURNER et P. A. BROOK. Corros. Sci. 13, 973 (1973). 
+17. S. NACESWAR et T. H. V. SETTY. Proc. lndian Acad. Sci. Sect. 
+A, 71, 282 (1972). 
+18. A. MOREAU. Electrochim. Acta. 26, 497 (1981). 
+19. G. FAITA, G. FIORI et D. SALVADORE. Corros. Sci. 15, 383 
+(1975). 
+20. R. L. BROSSARD. Can. J. Chem. 60, 616 ( 1 982). 
+21. K. KINOSHITA, D. LANDOLT, R. H. MULLER ct C. W. TOBIAS. J. 
+Electrochem. Soc. 117. 1246 (1970). 
+22. H. SUGARAWA. Sci. Rcp. Res. Inst. Tohoku Univ. Ser. A,, 18, 
+86 ( 1966). 
+23. D. W. SHOESMITH, T. E. RUMMERY, D. OWEN et W. LEE. J. 
+Electrochem. Soc. 123, 790 (1976). 
+24. D. W. SHOESMITH et W. LEE. Electrochim. Acta, 22, 1411 
+(1977). 
+25. J. VAN MUYLDER, N. DE ZOUBOV et M. POURBAIX. Cebelcor. 
+Rapp. Tech. No. 101. Bmxelles. juillet 1962. 
+26. P. DELAHEY. New instrumental methods in electrochemistry. 
+Interscience, New York. 1954. p. 124. 
+27. 1. A. SEMENOV, V. F. LAZARE et A. I. LEVIN. Sov. Electrochem. 
+11, 1013 (1975). 
+28. L. BROSSARD. J. Electrochem. Soc. 130, 403 (1983). 
+29. V. G. L i v r c ~. Physicochemical hydrodynamics. Prentice Hall, 
+Englewood Cliffs, NJ. 1962. p. 69. 
+30. R. PARSONS. Handbook of electrochemical constants. Butter-
+worths, London. 1959. p. 77. 
+31. A. J. BARD et L. R. FAULKNER. Electrochemical methods. J. 
+Wiley &amp; Sons, New York. 1980. p. 80. 
+
+Can. J. Chem. Downloaded from www.nrcresearchpress.com by 87.160.185.190 on 03/27/14 
+
+For personal use only. 
+
+
+
+	
+

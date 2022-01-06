@@ -1,0 +1,600 @@
+
+	
+
+		
+
+	
+
+	
+
+Complexes des ions Hg2' avec le monomere et le dimere de la thymine: 
+5-methyl-2,4 (lH, 3H) pyrimidinedione' 
+
+M. M. PETIT-RAMEL et G. THOMAS-DAVID 
+
+Laboratoire de Chimie Analytique II, Universite' Claude Bernard, Lyon I, 43 Boulevard du I1 novembre 1918, 
+69622 Villeurbanne Cedex, France 
+
+G. PERICHET et P. POUYET 
+
+Laboratoire de Photochimie, Universire' Claude Bernard, Lyon I, 43 Boulevard du I I novembre 1918, 
+69622 Villeurbanne Cedex, France 
+Requ le 1 novembre 1982' 
+
+M. M. PETIT-RAMEL, G. THOMAS-DAVID, G. PERICHET et P. POUYET. Can. J. Chem. 62, 22 (1984). 
+Les constantes d'association relatives aux complexes des ions Hg2' avec les formes monomkre (TM) et dimkre (TD) de la 
+
+thymine sont calculCes a partir de mesures protomCtriques effectuCes dans un large domaine de pH: 2 &lt; pH &lt; 11. Le 
+
+traitement des donnCes de chacun des systkmes est conduit par une mtthode de pit-mapping et l'on peut donner la ripartition 
+des diverses espkces complexes en fonction du pH. 
+En ce qui conceme le monomkre, les ions Hg2' ayant une coordinence de degrC deux, traduite par la configuration linCaire 
+d'espkces non chClatCes, on peut mettre en evidence les complexes [H~(TM)]+ (log Plo1 = 10,65) et [Hg(TM),] (log 
+
+PIo2 = 20,70). Les photodimkres (TD) obtenus par irradiation de la thymine monomkre (TM) 260 nm, en solution dans l'eau 
+gelCe a -10°C sont du type ( m b o ) cis, syn. I1 donnent des complexes avec Hg2' de type [Hg(TD)] (log Plol = 13,55), [HgH-, 
+(TD)]-(log PI-,, = 6,73) et [HgH-'(TD)I2-(log PI-21 = -1,69). Le complexe [Hg(TD)] a un spectre d'absorption 
+
+nettement dtplac6 vers les grandes longueurs d'onde (A = 280 nm), alors que le dimkre (TD) n'absorbe qu'en dessous de 
+
+240 nm. Une irradiation a 280 nm provoque l'apparition du complexe [Hg(TM)2], donc la rupture du cycle cyclobutane au 
+niveau du dimkre. 
+
+M. M. PETIT-RAMEL, G. THOMAS-DAVID, G. PERICHET, and P. POUYET. Can. J. Chem. 62, 22 (1984). 
+The association constants for ~g"-complexes involving monomeric (TM) and dimeric (TD) forms of thymine are deter-
+
+mined by pH-titration measurements made over a wide pH range 2 &lt; pH &lt; 11. In both systems, the experimental data have 
+
+been analyzed by a pit-mapping method and the concentration distribution of the various complex species is plotted versus a 
+pH gradient. 
+Because of the tendency of HgZ' to form two bonds in a linear configuration, non-chelate complexes [Hg(TM)'] 
+
+(log Plol = 10.65) and [Hg(TM),] (log PIo2 = 20.70) are formed with the monomer thymine. 
+
+Photodimers, obtained after irradiation of monomer thymine at 260 nm in frozen water (-10°C), are the (meso)-cis, syn 
+
+forms and can be complexed by the Hg2' ions in [Hg(TD)] (log Plo, = 13.55), [HgH-I (TD)]-(log 
+
+= 6.73), and 
+
+[HgH-2 (TD)I2-(log PI-,, = 1.69) species. [Hg(TD)] complex shows an absorption spectrum shifting towards 280 nm, 
+
+whereas the free dimer ligand absorbs lower than 240 nm only. An irradiation at 280 nm provides the formation of the 
+[Hg (TM),] complex and consequently the breaking of the cyclobutane cycle in the dimer molecule. 
+
+Introduction 
+Beukers et Berends (1) ont montrt que la thymine se dimt-
+risait rtversiblement en solution aqueuse par irradiation 2 280 
+
+nm et pour une temptrature voisine de WC. Le dimkre obtenu, 
+
+isolt sous forme cristalline prtsentait une absorption uv trks 
+difftrente de celle du monomkre. En outre, L. Wulff et coll. (2, 
+3) ont prtcist que la photosensibilisation de I'ADN "in vivo", 
+
+i 280 nm, se produisait entre deux moltcules adjacentes 
+
+situtes sur le m&amp;me brin de l'htlice, les moltcules de thymine 
+
+passant ainsi d'un "Ctat monomkre" i un '%tat dimkre". 
+
+Dans la mesure ou il semble directement lit au blocage des 
+virus et des bacttries et i l'activation des microorganismes, 
+l'importance de l'interprttation biologique de ce phtnomkne de 
+dimtrisation a Ctt soulignte par de nombreux auteurs (4-7). 
+En ce qui concerne la rtversibilitt de la rtaction photo-
+chimique, l'tquilibre de conversion thymine-dimkre en 
+thymine-monomkre peut 6tre envisagt sous deux aspects com-
+
+pltmentaires: (i) par irradiation, i une longueur d'onde voisine 
+
+de 250 nm, de la moltcule de thymine-dimkre isolte (8); et (ii) 
+par utilisation d'enzymes (E) de photortactivation agissant 
+selon le schtma: 
+
+'Avec la collaboration technique de C. Perret. 
+'Revision requ le 18 mai 1983. 
+
+[l] 
+ADN 
+
++ 
+
+E 
+
+-+ 
+
+ADNE 
+bloquC 
+complexe 
+abs. &lt;300 nm abs. &lt;300 nm 
+abs. &gt;400 nm 
+
+irradiation 
+visible 'ADN + 
+
+Nous avons essayt de "modtliser" cette reaction au niveau 
+de la thymine en utilisant les ions Hg2+. Schematiquement, les 
+rtactions peuvent s'tcrire de la fagon suivante dans la mesure 
+oii une seule espkce complexe se formerait respectivement avec 
+les thymines monomkre et dimkre: 
+
+La premibre irradiation hv, dimtrisant normalement la thy-
+
+mine ligand monomkre H(TM), le ligand dimkre H,(TD) peut 
+se complexer tventuellement en [Hg(TD)]. Une seconde irra-
+
+diation hv' , favorise la dtcomposition du complexe dimtrist en 
+
+complexe monomkre [Hg(TM)J. 
+Notre contribution porte donc sur l'identification et le calcul 
+des stabilitts thermodynamiques de toutes les espkces com-
+plexes formtes avec les oligomkres de rang 1 et 2 de la thymine 
+Can. J. Chem. Downloaded from www.nrcresearchpress.com by 87.160.185.190 on 03/27/14 
+
+For personal use only. 
+
+
+PETIT-RAMEL ET AL. 
+
+23 
+
+et nous tenterons de dtgager une interprttation analytique des 
+rkactions prtctdentes. 
+
+Nous dkfinirons par Ppq, la constante de stabilitt globale 
+
+d'une espkce complexe de formule gtntrale MpH,A, ou M 
+reprtsente l'atome mttallique central, H l'atome d'hydrogkne 
+et A le ligand, dont la formation est rtgie par l'tquilibre: 
+
+avec p et r &gt; 0, q &gt; 0 pour les espkces protontes, et q &lt; 0 
+pour les espbces hydroxydCes avec [OH-] = [H-,] K,. 
+
+Lors de la neutralisation, nous pouvons dtfinir un nombre 
+moyen de protons neutralisables par mole de ligand: 
+
+oh C, est la concentration totale en ligand; [HI et [OH] sont 
+respectivement les concentrations en H+ et OH-2 l'tquilibre; 
+C, est la concentration en protons telle que: 
+
+B est la concentration de l'hydroxyde ajoutt. 
+Les systkmes, dans lesquels intemiennent les formes pro-
+tonnCes des coordinats et les espbces mono ou polynucltaires 
+des complexes mttalliques ont Ctt rtsolus i l'aide d'un 
+programme-type issu du Letagrop (9), modifit et test6 dans 
+notre laboratoire sur de multiples Cquilibres (10-12). Ce pro-
+gramme permet l'affinement des paramktres par la mCthode du 
+pit-mapping dont nous rappelons brikvement le principe. 
+Les transformCes des courbes de titration ij = f(pH) sont 
+rendues linCaires par un dCveloppement en strie de Fourier et 
+les tquations issues de cette nouvelle expression sont dtrivtes 
+jusqu'a une minimisation convenable de la sornrne y = 
+Z(&amp;, -
+Cette dernikre fonction dtpend d'un nombre 
+
+n de paramktres et est reprtsentCe dans un espace a (n + 1) 
+
+dimensions par une "nappe". Cette technique permet d'extra-
+
+poler les valeurs des parametres Ppq, vers des valeurs voisines 
+
+de celles rendant minimum l'expression y. Cette mtthode se 
+
+justifie thtoriquement dans la mesure ou les tcarts (&amp;, , -q,,,,) 
+
+sont des variables altatoires de m&amp;me tcart-type, a, et il est 
+alors possible, compte tenu de l'erreur systtmatique exptri-
+
+mentale sur &amp;, , , de calculer les dtviations standards afftrentes 
+
+B chaque constante Ppq,. 
+
+1. Interactions H$+-thymine monom6re 
+Les bases puriques et pyrimidiques, composantes des acides 
+nucltiques, sont gtntralement faibles et bien qu'elles puissent 
+complexer de nombreux cations tels Cu2+, ~i ~' , 
+Zn2+, Co2+, 
+Mg2+ et Ca2+ (13-16), il existe des interactions metal-
+coordinat priviltgites avec les ions Hg2+ dont l'influence a Ct C 
+notCe au niveau de la molCcule de thymine, soit isolCe (l7), soit 
+
+replacCe dans une sCquence d' ADN (1 8 -20). 
+
+En ce qui concerne particulikrement la thymine monomere 
+isolte, les travaux de Davidson et coll. (17) font Ctat d'une 
+liaison stable avec les ions ~g ~+ 
+par formation d'un seul com-
+plexe de type [Hg(TM),]. 
+Pour assurer un maximum d'homogtntitt a notre Ctude, 
+nous avons recalculC dans un premier temps, la constante de 
+
+stabilitC protonique pol de la thymine monombre H(TM), dont 
+
+TABLEAU 1 . Constantes de formation des complexes Hg2'-thymine 
+monomkre = 0 , l (NaCIO,); to = 25°C 
+
+References 
+
+Esptces 
+p q r 
+
+log Pp,, 
+
+17 
+2 9 
+13 22 
+
+H(TM) 
+0 1 1 
+9,80(0,01)* 9,8 9,65(0,01) 9,l 
+[Hg(TM)]' 1 0 1 10,65(0,02) 
+[Hg(TM)2] 1 0 2 20,70(0,03) 21,2 
+[HgH-,I' 
+1 -1 0 -3,10(0,03) 
+3,68 
+
+*Ecarts-types correspondant aux constantes. 
+
+q 
+
+A 
+
+1. 0 
+
+V 
+
+HTM 
+
+Frc. 1. Syst2me Hg2'-thymine 
+
+monomkre. (a) q = f (pH); 
+
+V[HTM] = 2 x 
+M; VV[HTM] = 2 X 10-3 M; [ ~g ~+ ] 
+
+= 
+
+4,750 x 
+M. ( b ) Repartition des espkces: [HTM] = 
+
+2 X 
+
+M; [ ~g ~' ] 
+
+= 4,750 X 
+M. 
+
+la valeur concorde parfaitement avec les rtfkrences ci-dessus 
+(tableau 1). Bien qu'il y ait, dans chaque molCcule de mono-
+mbre, deux possibilitts d'tchange relatives a chaque hydrogbne 
+port6 par les fonctions amines en Nl et N3 (fig. 3), une seule 
+dCprotonation est obsemte dans le domaine de pH envisagC 
+(fig. la). Les mesures protomCtriques se rCvClant inopCrantes 
+pour une telle diffkrenciation, nous pouvons cependant sup-
+poser que le fort effet inductif des groupements C=O, portCs 
+par les C2 et C, encadrant la fonction arnine, activent prkftren-
+tiellement la dtprotonation en N3, la seconde deprotonation de 
+l'hydrogene port6 par Nl se situant vers pH 12 (13). 
+En presence des ions mercuriques, le choix des rapports 
+
+ligand/mttal &gt; 4 dtpend de deux phCnombnes: (i) une hydro-
+
+lyse importante, dbs les faibles pH, par formation des espbces 
+[HgH-,I soluble et [HgH-,I peu soluble; et (ii) une dismutation 
+des ions Hg2+ (21), en prksence d'un excbs de mttal: 
+Can. J. Chem. Downloaded from www.nrcresearchpress.com by 87.160.185.190 on 03/27/14 
+
+For personal use only. 
+
+
+24 
+
+CAN. I. CHEM. VOL. 62, 1984 
+
+En ce qui concerne la mise en evidence des especes com-
+plexes et le calcul de leurs constantes de stabilitt, la dtmarche 
+que nous suivrons decoule directement de l'examen des 
+courbes de formation fi = f(p(TM)) -ou fi reprksente le 
+nombre moyen de ligand libre dtprotont -qui permettent 
+d'identifier deux especes complexes successives repondant aux 
+tquilibres: 
+
+A partir de solutions 2 X 
+M en thymine-monomere et 
+
+avec quatre rapports ligandlmttal sensiblement egaux a 1, 2, 
+
+4 et 10, totalisant 240 points expkrimentaux, la mtthode 
+
+d'affinement par pit-mapping sur le nombre moyen q de pro-
+
+tons neutralisables (fig. 1 a) de la moltcule conduit aux valeurs 
+rassembltes dans le tableau 1. L'introduction, dans le cycle 
+d'affinement, de la constante PI.Io, relative 5 la formation de 
+l'espece hydroxydte soluble [HgH-,I n'arnkliore pas sensible-
+ment la convergence bien que la valeur obtenue soit en bon 
+accord avec nos rkftrences bibliographiques (22 -24). Le tract 
+des courbes de distribution (fig. 1 b) qui permet de suivre 
+l'tvolution des espsces formees en fonction du pH, montre en 
+effet que dans nos conditions expkrimentales (ligandlmetal 
+
+&gt; 4) la quantitt d'especes hydroxydtes reste ntgligeable. 
+
+Quant au complexe [Hg(TM)]+, non signal6 dans la littt-
+rature, il faut souligner que son domaine d'existence se situe 
+vers les faibles pH, sa disparition ttant presque totale a pH 4. 
+
+2. Interactions H$+-thymine dimire 
+Le dimkre ttant beaucoup moins soluble que le monomere en 
+solution aqueuse, la concentration utiliste ne peut exckder 
+lov4 M. Nous ne disposions d'aucune donnte bibliographique 
+chiffrant les stabilitts protoniques et a fortiori les stabilitks des 
+complexes et nous avons suivi le m&amp;me protocole d'ttude que 
+pour le monomhe. 
+
+La transformte des courbes de neutralisation q = f (pH) (fig. 
+
+2a) correspond bien a la prtsence de deux protons neutra-
+
+lisables H2(TD) relatifs aux constantes Pozl et Pol l du tableau 2. 
+
+La faible solubilitk du dimhe, impliquant de faibles concen-
+trations en ions mercuriques a pour consequence directe d'aug-
+menter l'hydrolyse et de restreindre le rapport ligandlmktal au 
+voisinage de 1 et les calculs d'affinement ont port6 sur deux 
+valeurs de rapport H(TD)/Hg2+ = 0,90 et 1 soit environ 120 
+points exptrimentaux. Selon le domaine de pH considtrk, le 
+traitement des donntes potentiomktriques fait apparaitre la for-
+mation simultante du complexe simple [Hg(TD)] et d'especes 
+hydroxydtes . 
+
+L'ensemble des constantes Plol, PI.ll et 
+
+correspondant 
+respectivement aux kquilibres de formation des espbces 
+[Hg(TD)I, [HgH-I]+, [HgH-I(TD)I-et [HgH-2(TD)12-(ta-
+
+bleau 2) conduit a une convergence rapide du processus d'af-
+
+FIG. 2. Systkme Hg2'-thymine 
+
+dimere. (a) q = f (pH); 
+
+V[H2TD] = 9,96 X lo-' M; VV[H2TD] = 9,96 X lo-' M, [Hg2+] 
+= 9,5 x 
+
+M. ( b ) RCpartition des espkces: [H2TD] = 9,96 x 
+
+lO-'M; [Hg2+] = 9,5 x 
+M. 
+
+TABLEAU 2. Constantes de formation des complexes Hg2+--thymine 
+dimkre y = 0 , l (NaC104) to = 25OC 
+
+Esptces 
+P 9 r 
+
+1% PPV 
+
+H(TD) 
+0 1 1 
+8,60(0,01)* 
+H2(TD) 
+0 2 1 
+15,54(0,02) 
+[Hg(TD)I 
+1 0 1 
+13,55(0,02) 
+[H~H-I(TD)]-
+1 -1 1 
+6,73(0,03) 
+[ H ~H -~( T D ) I ~-
+1 -2 1 
+-1,69(0,04) 
+~H ~H -~I + 
+1 -1 0 
+-3,10(0,03) 
+
+*Ecarts-types correspondants aux constantes. 
+
+finement, la valeur recalculee de l'espbce [HgH-I]t dkja prise 
+en compte dans l'ttude de la thymine monomkre restant par-
+faitement concordante. La courbe de distribution des especes 
+en fonction du pH (fig. 2b) permet de situer prkciskment leurs 
+domaines de formation, dans nos conditions exptrimentales. 
+
+Discussion 
+L'examen compare des complexes mercuriques obtenus 
+avec la thymine monombre et la thymine dimbre appelle plu-
+sieurs remarques. 
+
+1. Ions mercuriques 
+Les interactions ~~~+ -c o o r d i n a t 
+sont gtneralement accom-
+Can. J. Chem. Downloaded from www.nrcresearchpress.com by 87.160.185.190 on 03/27/14 
+
+For personal use only. 
+
+
+PETIT-RAM IEL ET AL. 
+
+25 
+
+FIG. 3. Thymine dimkre (isomtre cis-syn). 
+
+pagnCes de phCnomenes secondaires: (i) RCaction d'hydrolyse 
+simple sur les ions mitalliques et formation, des pH 2, de 
+l'espbce soluble [HgH-,I+, qui, si elle reste negligeable pour le 
+systeme monomere, atteint une valeur relative de 30% de la 
+
+concentration totale en mCtal dans le cas du systeme dimere, les 
+
+especes suptrieures [HgH-,,I2-" avec n &gt; 1, n'Ctant pas rete-
+
+nues dans nos conditions expCrimentales. (ii) Formation d'es-
+peces complexes hydroxydies [HgH-,(TD)]-et [HgH-2 
+(TD)]~-, la dilution importante des solutions du systeme dimere 
+favorisant la permanence des ions hydroxydes. (iii) Equilibre 
+
+de dismutation des ions [H~;+] dont nous nous sommes af-
+
+franchis en travaillant ii des concentrations [ ~g ~' ] 
+
+&lt; lo-, M. 
+
+2. Coordinats et complexes 
+
+Le monomere H(TM) et le dimere H2(TD) se comportent 
+respectivement comme un mono et un diacide tres faibles et les 
+valeurs des tableaux 1 et 2 recoupent la regle gCnCrale de 
+stabilitC protonique plus ClevCe dans un cycle comportant une 
+double liaison (monomere) que lorsque cette derniere est 
+rompu (dimere). 
+
+Une Ctude systkmatique, a de faibles valeurs de pH, a permis 
+
+de mettre en Cvidence un nouveau complexe: la premiere es-
+pece du monomere [Hg(TM)]+, la seconde [Hg(TM2], plus 
+stable, ayant dCja CtC signalCe (17). 
+Parmi les quatre formes isomCriques de la thymine dimere 
+dCcrites par Wulff et Fraenkel (2), le dimere (meso) cis-syn 
+apparait comme la configuration la plus probable, que ce soit 
+apres irradiation d'une solution de thymine monomere gelte ou 
+apres photodimtrisation des molicules adjacentes de thymine, 
+situCes sur chaque hilice d'ADN (fig. 3). 
+
+En prbence d'ions Hg2+, la formation de complexes du type 
+[Hg(TD)], comme les especes hydroxydCes correspondantes, 
+accrCdite encore la configuration "meson par liaison systCma-
+tique du mCtal sur les atomes d'azote N,. 
+En outre, l'absence d'espkces condendes en thymine dimere 
+telles que [Hg2(TD)2] et [Hg2(TD)J dont l'introduction dans 
+l'affinement ne modifie en aucune maniere la variance, trouve 
+une justification normale au vu de nos conditions expCrimen-
+tales. L'intervalle de variation des rapports ligandlmktal, im-
+perativement voisin de 1 pour raison d'hydrolyse, ne permet 
+pas d'accrediter ces especes polynuclCaires de rang 2, dans la 
+mesure oii nous n'observons pas sur les courbes de formation 
+Z = f (p(TD)), le dCplacement caractiristique Ap(TD) cond-
+
+cutif a une variation, Am, de la concentration en mCtal(25), et 
+
+que nous avons souvent mis en Cvidence dans d7autres systemes 
+(26, 27). 
+
+Partie experimentale 
+
+Deux chaines de mesure, convenablement Ctalonntes permettent de 
+mesurer conjointement le pH et le pM dans un large domaine de pH: 
+
+2 &lt; p H &lt; 11. 
+
+pH: Clectrode en verre / solution a 25 O,l°C / NaCl saturC / 
+
+Clectrode au calomel 
+
+pM: Clectrode de mercure en J / solution h 25 f O,l°C / Na2S04 
+saturC / Clectrode au sulfate mercureux H g 2 S ~, / ~g 
+
+Chaque jeu d'Clectrodes est reliC a un potentiomktre ISIS 20 000 
+TACUSSEL et les mesures sont effectuCes sur des solutions aqueuses, 
+
+thermostatCes 25 * 0, l0C, dont la force ionique est maintenue con-
+
+stante l'aide d'une solution de NaC104 0,l M. 
+Les solutions d'acide perchlorique Prolabo R.P. et de soude Merck 
+sont dosCes par des solutions Ctalons de biphtalate de potassium 
+Merck. L'ajustement de la force ionique est effectuCe par une solution 
+de titre connu en perchlorate de sodium Merck. Le perchlorate de 
+mercure est prCparC par attaque a chaud d'hydroxyde rnercurique par 
+
+I'acide perchlorique jusqu'a neutralisation, puis dosC par 1'EDTA a 
+
+I'aide d'une Clectrode de mercure en J. 
+La thymine monomkre utilisCe provient des laboratoires Merck. 
+La thymine dimtre est prCparCe par irradiation de solutions de 
+thymine monomkre dans I'eau 
+
+M) gelCe a -10°C. L'irradiation 
+a lieu i I'aide d'une lampe a vapeur de mercure haute pression. Les 
+solutions sont CvaporCes a sec. Le rCsidu est ensuite dissous dans l'eau 
+
+bouillante et filtrC. Le filtrat est concentri et les cristaux de thymine 
+dimkre cristallisent avant ceux de rnonomkre et Wang (28) a montrC 
+que seule la forme "meso" isomtre cis-syn est obtenue. 
+
+1. R. BEUKERS et W. BERENDS. Biochim. Biophys. Acta, 41, 573 
+(1960). 
+2. D. L. WULFF et G. FRAENKEL. Biochim. Biophys. Acta, 51,332 
+(1961). 
+3. D. L. WULFF. J. Mo1. Biol. 7, 431 (1963). 
+4. K. C. SMITH. In Photobiology: action of light on living materials. 
+Edited by A. G. GIESE. New York. 1963. 
+5. A. WACKER. In Progress in nucleic acid research Vol. 1. Edited 
+by J. N. Davidson and W. E. Cohn, New York. 1963. 
+6. R. BEUKERS, J. IJLSTRA et W. BERENDS. Rec. Trav. Chim. Pays-
+Bas, 79, 101 (1959). 
+7. A. WACKER, H. DELLWEG et D. WEINBLUM. Naturwissen-
+schaften, 47, 477 (1960). 
+8. R. BEUKERS, J. IJLSTRA et W. BERENDS. Rec. Trav. Chim. Pays-
+Bas, 78, 833 (1959). 
+9. L. G. SILLEN. Acta Chem. Scand. 18, 1085 (1964). 
+10. R. P. MARTIN. Rev. Pure Appl. Chem. 19, 171 (1969). 
+11. E. MICHAUD, G. PIVERT, G. DUC, M. PETIT-RAMEL et 
+G. THOMAS-DAVID. Can. J. Chem. 60(9), 1063 (1982). 
+12. M. PETIT-RAMEL et L. MOSONI-FRESENIUS. Z. Anal. Chem. 
+313, 544 (1982). 
+13. M. M. TAQUI KHAN et C. R. KRISHNAMOORTY. J. Inorg. Nucl. 
+Chem. 36, 71 1 (1974). 
+14. W. LOHMANN, M. HILLERBRAND et M. KLENERT. Z. Natur-
+forsch. 29, 667 (1974). 
+15. L. G. MARZILLI et T. J. KISTENMACHER. ACC. Chem. Res. 10, 
+146 (1976). 
+16. L. G. MARZILLI. In Progress in inorganic chemistry. Ed. Wiley, 
+New York. 1977. 
+17. R. FERREIRA, E. BEN-ZVI, T. YAMANE, J. VASILEVSKIS et N. 
+DAVIDSON. In Advances in coordination compounds. Ed. S . 
+Kirschner, New York. 1961. 
+18. T. YAMANE et N. DAVIDSON. J. Am. Chem. Soc. 83, 2599 
+(1961). 
+19. R. 0 . RAHN, J. K. SETLOW et L. C. LANDRY. Photochem. Pho-
+Can. J. Chem. Downloaded from www.nrcresearchpress.com by 87.160.185.190 on 03/27/14 
+
+For personal use only. 
+
+
+26 
+
+CAN. J. CHEM. VOL. 62, 1984 
+
+tobiol. 18, 39 (1973). 
+20. D. DING et F. S. ALLEN. Biochim. Biophys. Acta, 610, 72 
+(1980). 
+21. A. JONSSON, I. QVAFORT et L. G. SILLEN. Acta Chem. Scand. 1, 
+461 (1947). 
+22. S. HIETANEN et L. G. SILLEN. Acta Chem. Scand. 6, 747 (1952). 
+
+23. R. W. SCHMID et L. N. REILLEY. J. Am. Chem. Soc. 78, 5513 
+
+(1956). 
+24. G. ANDEREGG, G. SCHARZENBACH, M. PADMOYO et 0. BORG. 
+
+Helv. Chim. Acta, 41, 988 (1958). 
+25. L. C. VAN POUCKE et H. F. DE BRABANDER. Talanta, 20, 733 
+(1973). 
+26. I. KHALIL et M. M. PETIT-RAMEL. Bull. Soc. Chim. Fr. 11-12, 
+1127 (1977). 
+27. I. KHALIL, M. M. PETIT-RAMEL et C. CHAPELET-BARBIER. Can. 
+J. Chem. 56, 1919 (1978). 
+28. S. Y. WANG. Photochem. Photobiol. 3, 395 (1964). 
+29. A. M. FrsKIN et N. BEER. Biochemistry, 4, 1289 (1965). 
+
+Can. J. Chem. Downloaded from www.nrcresearchpress.com by 87.160.185.190 on 03/27/14 
+
+For personal use only. 
+
+
+
+	
+

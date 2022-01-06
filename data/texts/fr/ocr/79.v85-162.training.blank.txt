@@ -1,0 +1,693 @@
+
+	
+
+		
+
+	
+
+	
+
+Mecanisme des reactions du chlorite et du dioxyde de chlore. 
+3. La dismutation du chlorite 
+
+GUY SCHMITZ ET HENRI ROOZE 
+
+Faculrk des Sciet~ces Appliqukes, Universirk Libre de Bruxelles. 50, Avenue F. Roosevelr, I050 -Bruxelles, Belgiqur 
+R e p le 20 juin 1984 
+
+GUY SCHMITZ et HENRI ROOZE. Can. J. Chem. 63, 975 (1985). 
+
+La dismutation du chlorite a CtC CtudiCe en solutions d'acide perchlorique 0,Ol M a I M, a 25°C et pour une force ionique 
+de 1 M. Les rCsultats impliquent au moins trois processus rCactionnels. Le premier est catalysC par les ions C1-, le second donne 
+une loi d'ordre deux et le troisitme est catalysC par le fer. Sa loi cinCtique est 
+
+Elle peut Ctre interprktee par la rkaction riversible CIO; + Fe3+ C102 + Fe" suivie de deux Ctapes dkterminantes Few 
++ HCIOz -. produits et Fe" + C10, -. produits. Nous dCduisons de cette etude et de la prCcCdente faite en prCsence 
+d'orrho-tolidine, que la reaction d'ordre deux correspond a un mkcanisme radicalaire en chaine. 
+
+GUY SCHMITZ and HENRI ROOZE. Can. J. Chem. 63, 975 (1985). 
+
+The disproportionation of chlorite was studied in 0.01 to I M perchloric acid solutions at 25°C and an ionic strength of 1 M. 
+The results suggest at least three reaction paths. The first is catalysed by C1-ions, the second gives a second-order rate law, 
+and the third is catalysed by iron. Its rate law is 
+
+d [CIO1] -[Fe" ] [CIO,II [HCI02] 
+
+--
+
+0.1 1 
+
+(1.39 + -) 
+
+dt 
+[cl021 
+[H'] 
+
+' This can be interpreted by the reversible reaction ClOi + Fe3' g C102 + Fe" followed by two rate-determining reactions 
+Few + HCIOz -. products, Fez+ + C101 -. products. From this study and the former, made with added orrho-tolidine, we 
+
+conclude that the second-order reaction proceeds by a radical chain mechanism. 
+
+Introduction 
+La therrnodynarnique, la stoechiornCtrie et certains aspects 
+de la cinCtique de la dismutation du chlorite ont Ct C discutCs 
+dans nos articles precedents (1, 2). Cette disrnutation peut 
+rksulter d'au moins trois rkactions. 
+(a) La reaction catalysCe par les ions C1-(1). Elle peut 
+intervenir mCrne s'il n'y a pas d'ions C1-initialement, car la 
+disrnutation du chlorite en produit. Sa contribution n'est alors 
+significative qu'aux aciditCs et conversions elevees. Elle peut 
+Ctre nCgligCe lors de toutes les experiences discutees ci-apres. 
+(b) La reaction classique d'ordre 2. 
+
+[I] 
+
+-d[HClOl]/dt = k , [HC10212 
+
+La loi [I], bien Ctablie en milieux tres acides, n'est plus verifiee 
+si [H'] 5 0,2 M (3). 
+(c) La reaction catalysee par des traces de fer dont nous 
+avons, CtudiC la cinetique en prbence d'ortho-tolidine (2). 
+Nous l'etudions ici en son absence. La technique experimentale 
+a etC decrite antkrieurernent (1, 2). La concentration totale du 
+
+chlorite, [HC102] + [ClOi], sera designee par [NaC102] et la 
+
+concentration totale du fer ajoutk par [Fe]. 
+
+Resultats preliminaires 
+Nous avons confirm6 l'observation de Kieffer et Gordon (3), 
+la loi [ l ] n'est plus satisfaite si [H'] 5 0,2 M, et en avons 
+dCcouvert la raison: la catalyse de la dismutation du chlorite par 
+les traces de fer inCvitablernent prbentes dans les reactifs. 
+Rappelons (fig. 1 de la rCf. 2) qu'en absence d'ortho-tolidine, 
+si [HCIO,] = 0 , l M, 5 x 
+mol/L de fer font plus que 
+doubler la vitesse de formation du dioxyde de chlore. Cet effet 
+du fer est tres specifique (4). 
+
+Lors de nos rnesures prelirninaires nous avons Cgalement 
+observC un effet inhibiteur du dioxyde de chlore. Cet effet 
+sernblant contredire d'autres travaux, nous en donnons une 
+
+preuve directe. La figure 1 rnontre l'evolution de la concen-
+tration du C102 dans une solution de chlorite a pH = 2. On 
+observe une diminution rapide de la vitesse qui ne peut rCsulter 
+ni d'une perte de CIOl ni de la variation de la concentration du 
+
+chlorite. Apres 9 rnin la vitesse a diminue d'un facteur 3 envi-
+ron, alors que la conversion est infkrieure a 10%. La courbe (b) 
+prouve que ceci resulte d'un effet inhibiteur du CIOz sur sa 
+vitesse de formation. On a fait passer un courant d'azote pour 
+chasser le C10, dans une fraction de la solution donnant la 
+courbe (a). Toutes autres choses etant Cgales, les vitesses sont 
+plus grandes si [C102] est plus petit. D'autre part nous n'avons 
+trouvC aucun effet du chlorate. 
+
+Resultats en presence de fer ajoute 
+Dans le dornaine d'aciditk Ctudie et sans chlorure ni fer 
+ajoutC, la stoechiornetrie correspond assez bien a [2] avec une 
+tendance a la formation d'un peu plus de chlorate (1, 3). 
+
+Nous avons verifie qu'en prksence de fer ajoute cette equation 
+reste valable, les kcarts sernblant mCrne rnoins importants 
+qu'en son absence. Avec 3 X 
+rnol/L de fer nous avons 
+obtenu 
+
+rapport indCpendant du chlorite initial, [NaC1Ol], = 
+
+a 
+
+lo-, M, et de I'aciditC, [HCIO,] = lo-, ii 2 M. 
+Pour une acidit6 fixCe et une quantitC de fer ajoutCe suf-
+fisante (elle dCpend de I'aciditC et sera precisCe plus loin) nous 
+avons obtenu la loi cinetique [3] 
+Can. J. Chem. Downloaded from www.nrcresearchpress.com by 87.160.185.190 on 03/27/14 
+
+For personal use only. 
+
+
+97 6 
+
+CAN. J. CHEM. VOL. 63. 1985 
+
+I 
+
+I 
+
+I 
+I 
+
+I 
+
+5 
+
+10 
+
+I S 
+
+20 rnin 
+
+FIG. 1. Evolution de la concentration du C102 dans deux fractions 
+de la m&amp;me solution; (a) sans barbotage d'azote; (b) apres barbotage 
+d'azote pendant 9 min. [NaCIO,] = 5.4 X lo-' M; [HClO,] = 9,O X 
+M. 
+
+FIG. 2. TransformCe Y de la conversion. en fonction du temps; 
+[NaC10210 = 5,7 X w 3 M . 4Y = [NaC102]o/[NaC102] -1 -In 
+
+[~aC10~]~/[NaClO~:l. [H'] = 0,0520 M, [Fe] = 3,O x lo-* M (X); 
+
+[H+] = 0,0520 M, [ ~e ] 
+= 1,2 X lo-, M (+); [H'] = 0,0520 M, [Fe] 
+= 6,O x lo-' M ( a ) ; [H+] = 0,208 M, [ ~e ] 
+= 6,O X lo-, M ( 0 ) ; 
+[H'] = 0,208 M, [Fe] = 1,2 X lo-, M (A). 
+
+Par integration, avec [NaClO,] = [NaClO,], -2[C102], on 
+
+obtient [4]. 
+
+[NaC10210 
+
+-1 -ln [NaC10210 
+
+[41 [NaClO,] 
+= 4k3t 
+[NaClO,] 
+
+FIG. 3. Variation de k3 en fonction du fer ajoutC. [H'] = 0,104 M; 
+[NaC10210 = 3,2 X lo-' M (+), 5,7 x lo-' M (O), 8,O X lo-' M 
+(A), 1,6 x 
+M ( a ) . 
+
+TABLEAU I. Effet de I'aci-
+
+ditC sur k3, 25"C, I = 1 M 
+
+k3/[Fe] (M-' s-I) 
+[H'l 
+( M) "xp. 
+
+Calc .' 
+
+"Les valeurs de [Hf] sont 16-
+
+ghrement infirieures B celles de 
+
+[HCIO,] i cause de la formation 
+
+de [HClO?]. 
+Valeurs calculies par [6]. 
+
+la relation [6] entre k3 et l'acidite. 
+
+En portant les valeurs du premier membre de [6], calculCes 
+avec K, = 2,4 x lo-' pour T = 25°C et une force ionique I = 
+1 M (2, 5), en fonction de [H'] on obtient une droite dont la 
+
+p n t e et l'ordonnke a l'origine donnent: 
+La figure 2 donne quelques exemples de nos mesures et la 
+k; = 1,39 M-' s-I; 
+k;'K, = O,11 s-' 
+figure 3 montre que la constante cinktique apparente k3 est 
+proportionnelle a la concentration du fer et independante de la 
+valeur initiale du chlorite. L'effet de l'acidite sur k3 apparait 
+Resultats en absence de-fer ajoute 
+
+dans le tableau 1 et conduit A expliciter [3] sous la forme [5]. 
+
+En absence de fer ajoute la production de C102 resulte a la 
+
+Can. J. Chem. Downloaded from www.nrcresearchpress.com by 87.160.185.190 on 03/27/14 
+
+For personal use only. 
+
+
+SCHMlTZ ET ROOZE 
+
+977 
+
+fois de la reaction d'ordre deux et de celle catalysee par les 
+traces de fer intvitablement presentes dans les reactifs (2, 4). 
+Tant que la reaction catalysee par les ions C1-est negligeable, 
+on obtient [7]. 
+
+Pour une valeur donnee de la concentration du fer, la con-
+tribution du deuxikme terme est d'autant plus petite que [C102] 
+est grand. Elle diminue donc lorsque la conversion augmente. 
+Cette contribution diminue Cgalement si I'aciditk augmente, ce 
+qui explique que Kieffer et Gordon (3) aient vbifik la loi 
+d'ordre deux en milieux perchloriques 1,2 M mais pas en mi-
+lieux moins acides. 
+Soit a un coefficient stoechiomCtrique valant 2 si [2] est 
+exactement suivi, un peu superieur si I'on forme un peu plus de 
+chlorate. 
+
+Si le deuxikme terme de [7] Ctait negligeable, on devrait veri-
+fier la forme intkgree [8]. 
+
+La figure 4(a) donne quelques exemples de nos rksultats. La 
+loi d'ordre deux n'est pas vCrifiCe aux faibles conversions parce 
+que, conformement Zi [7], la reaction catalysee par le fer n'est 
+pas negligeable. Elle ne le devient qu'a partir de conversions 
+d'autant plus grandes que [Hi] et [NaC10210 sont petits. Dans 
+le domaine ou 1/[NaC1O2] varie lineairement en fonction du 
+temps, nous obtenons a 25°C 
+
+valeur independante du chlorite, [NaC10210 = 10-3 2 loM2 M, 
+et de 17aciditC, [HClO,] = 0,2 h 1,2 M. Nous avons utilise a 
+= 2. Avec a un peu plus grand on calculerait [NaC102] un peu 
+plus petit, ak; un peu plus grand et par un effet de compen-
+sation pratiquement la mCme valeur de k2. Hong et Rapson (5) 
+ont obtenu k2 = 5,5 x 
+et Kieffer et Gordon (3) a k , = 1,17 
+x 
+Les,importances relatives des deux termes de [7] correspon-
+dent bien aux teneurs en fer des reactifs determinees par spec-
+troscopie d'emission de plasma (4). Par exemple pour l'ex-
+perience de la figure 4(a) faite avec [HC104] = 1,2 M et 
+[NaC10210 = 2,18 x 
+M on peut estimer que l'on avait [Fe] 
+
+-2 x 
+
+M. On en deduit avec les constantes cinetiques 
+ci-dessus r(fer)/r(ordre 2) = 1,2 X 10-~/[C10~] ou encore 
+r(fer) = r(ordre 2) si [NaC102]-' -[ N ~C ~O ~] , ' 
+= 5 en bon 
+accord avec l'exphience. 
+L'equation [7], basee sur nos mesures de la production de 
+C102, est en accord avec les mesures de Kieffer et Gordon (3) 
+de la consommation du NaC102. La figure 4(b) en donne un 
+exemple. En milieu acide perchlorique 1,2 M, pour lequel ils 
+
+ont admis la loi d'ordre 2, on obtient bien une droite mais elle 
+
+ne passe pas par l'origine. La presentation adoptke fait 
+apparaitre la contribution, petite mais significative, de la cata-
+lyse par le fer au debut de cette experience. Nous avons Cgale-
+ment vCrifiC que leurs rCsultats en milieux moins acides (par 
+
+FIG. 4. (a) Resultats en absence de fer ajoute: [H'] = 1,2 M, 
+[NaC1OZ], = 1,09 x 
+M (X); [H'] = 1,2 M, [ ~a C l o ~&amp; = 2,18 
+x lo-' M (+); [Hi] = 0,2 M, [NaC102]o = 1,04 x 10-'M (A); 
+
+[H'] = 0,2 M, [NaC1OZ], = 4,15 x lo-' M (0). (b) RCsultats de 
+
+Kieffer et Gordon (ref. 3, p. 243): [H'] = 1.2 M, [ N ~C I O ~] ~ 
+= 3,64 
+x lo-? M. 
+
+exemple p. 238 de la ref. 3; [HCIO,] = 3,33 X lo-' M) 
+satisfont la relation [4]. Dans ces milieux, la reaction catalysee 
+par le fer present dans les reactifs est preponderante. 
+
+Interpretation des resultats 
+Catalyse par le fer 
+Pour interpreter nos rksultats en presence d'ortho-tolidine 
+nous avions admis (2) les reactions [9] et [lo]. 
+
+Ces mCmes reactions permettent d'interpreter la catalyse par 
+le fer observte ici, la seule difference Ctant la reversibilitk de 
+[9]. L'ortho-tolidine reduisant tr6s rapidement le C102, en sa 
+presence la reaction [9] est determinante. Ici par contre, le ClO2 
+est un produit de la reaction globale et [9] est un quasi-
+Cquilibre. On retrouve la loi [5] en admettant que les Ctapes 
+determinantes sont [lo'] et [ l o ] . 
+Can. J. Chem. Downloaded from www.nrcresearchpress.com by 87.160.185.190 on 03/27/14 
+
+For personal use only. 
+
+
+978 
+
+CAN. J. CHEM. VOL. 63. 1985 
+
+Les constantes des equilibres d'hydrolyse 
+
+etant petites, respectivement 9 x 
+et 4,9 x lo-' (6, 7), les 
+concentrations des formes hydroxylees sont negligeables dans 
+le domaine d'acidite CtudiC. Celles des complexes avec les ions 
+C1-le sont Cgalement (8). La valeur de la constante d'equilibre 
+Kg = 2,7 X 10-"stimee en annexe implique que des les plus 
+
+faibles conversions observees, on a [Fez+] &lt; [Fe3'] et par 
+
+consequent 
+
+[Fe''] = [Fe] 
+
+L'expression de r l o correspond bien a la loi experimentale [S]. 
+
+Re'action d'ordre deux 
+La reaction d'ordre deux Ctant supprimee par I'ortho-
+
+tolidine, nous avons soulignk (2) que 2HC10z-+ HClO + C10, 
++ H' n'est pas une reaction simple. Elle fait intervenir au 
+
+moins un intermtdiaire Climine par l'ortho-tolidine. Ceci sug-
+gere un mecanisme radicalaire en chaine de la forme gtntrale 
+suivante. 
+Initiation 
+
+[i] 
+
+HClO, + X + R ' + . 
+
+Chaine 
+
+[cl] HCIO, + R ' + C10, + H' + R' 
+[c2] HCIO? + R' + HClO + R ' 
+
+Rupture 
+
+[r] 
+
+R 1 + X + . . . 
+
+O U R ' + 
+
+X--, . . . 
+
+La quasi-stationnaritt des concentrations des radicaux R1 et R' 
+donne 
+
+et une vitesse de la chaine proportionnelle a [HC1O2I2. 
+Admettons que la reaction d'initiation soit [lo], c'est-A-dire 
+
+X = ~e * ' 
+et R1 = C10. On obtient la chaine [I 11, [12]. 
+
+[I21 HCIOz + C1 + HClO + CIO 
+
+La rupture peut Ctre [I31 ou [14] 
+
+D'autre part nous savons (1) que le HCIO form6 rtagit trks 
+rapidement avec le chlorite suivant [15] et [16]. 
+
+[I51 HClO + 2HC10z + 2C102 + CI-+ H' + HIO 
+[I61 HClO + HCIOz -+ C10, + CI-+ 2H' 
+
+Dans les milieux acides et riches en chlorite la rkaction [15] 
+est preponderante. 
+
+La stoechiomCtrie de la chaine resulte de [ I I] + [12] soit 
+
+2HC10, -. HClO + Cloy + H+ 
+
+Si le HClO reagissait uniquement suivant [IS] on obtiendrait 
+exactement [2]. La petite contribution de [16] conduit a un 
+e x c b de chlorate. On retrouve ainsi la stoechiomttrie ex-
+ptrimentale. 
+
+Effet du choir de la re'action de rupture 
+A. Si on admet que la rupture de lachaine se fait suivant [13] 
+on obtient: 
+initiation -rupture 
+
+Sa stoechiometrie resulte de 2 x [9] + [lo] + [ l l ] + [13] 
+
+soit 
+
+Sa vitesse est donnee par I'expression de rlo ci-dessus. On 
+retrouve bien la stoechiometrie et la cinetique de la reaction 
+catalyste par le fer. 
+Chafne 
+Nous venons de montrer que sa stoechiometrie est en accord 
+avec l'exptrience. Sa vitesse est obtenue en Ccrivant la relation 
+de quasi-stationnaritk: 
+
+d'ou 
+
+La comparaison de r l o avec la loi expirimentale [5] donne 
+
+Dans les milieux acides ou la reaction d'ordre deux est Ctu-
+diee la contribution du terme en k;6 est petite et la cinktique 
+correspond parfaitement a l'expression de rlz. 
+B. Si on admet que la rupture de la chaine se fait suivant [I41 
+on obtient: 
+initiation-rupture 
+
+Sa stoechiometrie resulte de 2 X [9] + [lo] + [14] soit 
+
+3HC102 + 2C10r + HClO + Hz0 
+
+suivi de [15] et [I6]. Sa vitesse est donnte par l'expression de 
+
+~I O . 
+
+Chafne 
+Sa stoechiomttrie est la mCme que ci-dessus. Sa vitesse est 
+obtenue en tcrivant la relation de quasi-stationnarite 
+
+d'ou 
+
+On retrouve tgalement la loi cinttique de la reaction d'ordre 
+
+deux . 
+
+La seule difftrence notable entre les deux hypothkses con-
+ceme la stoechiomttrie de l'initiation-rupture. Avec [14], du 
+fait de la prtpondtrance de [15] par rapport a [16], on prevoit 
+une formation relative de CIOz beaucoup plus importante que 
+celle obt'enue expCrimentalement pour la reaction catalyste par 
+le fer. Nous admettons donc que, dans nos conditions, la rup-
+ture est [13]. Ce n'est pas necessairement vrai en milieux moins 
+acides. En effet lorsque la majorit6 du chlorite se trouve sous 
+la forme ClO,, le C10 produit par [IC)] pourrait rtagir suivant 
+[I41 plutdt que suivant [I I.]. On expliquerait ainsi la forte 
+proportion de C102 obtenue par Kieffer et Gordon (3) si 
+[HCIO,] = 3,3 X lo-%. 
+
+Cornparaison avec les re'sultats de Ondrus et Gordon 
+Ondrus et Gordon (9) ont Ctudit la reduction du chlorite par 
+Can. J. Chem. Downloaded from www.nrcresearchpress.com by 87.160.185.190 on 03/27/14 
+
+For personal use only. 
+
+
+SCHMITZ ET ROOZE 
+
+979 
+
+un excks de Fe(I1). L'Ctape determinante correspond a I'echan-
+ge d'un seul electron et leurs rksultats sont interpretes par [lo'] 
+et [lo"]. Nous avons recalculC leurs valeurs en prenant K, = 2,4 
+X lo-' et obtenu (2) 
+
+D'autre part la comparaison de [5] avec d[C102]/dt = 2rlo 
+donne 
+
+L'accord entre les deux skries de valeurs serait parfait avec 
+Kg = 8 x 
+au lieu de K9 = 2,7 X 
+estime en annexe. 
+Comparant des constantes cinetiques dCduites d'ktudes tres dif-
+fkrentes et tenant compte de I'imprkcision de I'estimation de 
+K9, due surtout aux effets de force ionique, il faut considkrer 
+que ceci confirme que [10] est I'Ctape dkterminante de la dis-
+mutation du chlorite catalyske par le fer. 
+
+Conclusion et discussion 
+Ce qui apparaissait dkji dans le travail de Kieffer et Gordon 
+a kt6 confirm6 et complktk par nos mesures. La stoechiometrie 
+et la cinetique de la dismutation du chlorite sont compliqukes 
+par des compttitions entre diverses reactions. Le mkcanisme 
+que nous proposons repose sur un trks grand nombre de faits 
+expkrimentaux et peut Ctre reprksentk par le schkma suivant. 
+
+HClO * C1707 
+
+! 
+[ 
+1 4 &amp; 
+
+I (ordre 2) 
+
+[I31 
+
+(Fe) ' 
+
+On retrouve dans ce schema les trois processus rkactionnels 
+citks dans I'introduction. 
+(a) La rkaction catalyske par les ions C1-que nous avons 
+
+etudike antkrieurement (1) correspond A la partie suptrieure. 
+
+(b) Au centre on voit la chaine donnant la loi d'ordre deux. 
+Elle existe dans tout le domaine de pH CtudiC mais n'est prk-
+pondtrante qu'en milieux assez acides et pour des conversions 
+ni trop faibles (effet du fer) ni trop Clevkes (effet du chlorure). 
+(c) L'initiation-rupture de cette chaine correspond ii la rkac-
+tion catalyske par le fer et inhibke par le dioxyde de chlore. Les 
+traces de fer prksentes dans I'acide perchlorique "pour 
+analyses" ou dans le chlorite recristallist plusieurs fois suf-
+fisent pour la faire apparaitre. A pH = 0 elle devient nkgli-
+geable par rapport la rkaction d'ordre 2 dks les faibles con-
+versions; a pH = 2 elle reste importante jusqu'aux conversions 
+trks klevkes. 
+Dans le premier article de cette skrie (1) nous avions laissk 
+un fait expkrimental ktonnant inexpliquk. Lors de la reaction 
+
+HClO + HCIO, on peut obtenir plus de C10, que le maximum 
+
+prkvu par [15]. Ceci avait Cgalement Ct C observe par Emmen-
+egger et Gordon (10) qui avaient suggCrk que I'acide hypo-
+chloreux catalyse la dismutation du chlorite. Une telle catalyse 
+peut se comprendre dans le cadre de notre mecanisme. Lorsque 
+le HClO est present dans le systeme en concentration macros-
+copique il faut tenir compte d'une rkaction supplementaire, 
+
+HClO + Fez+ + C1 + Fe(OH)", initiant la decomposition en 
+
+chaine de HC102 suivant [ l l ] et 1121. 
+Hong et Rapson (5) ont observe vers pH = 1 que lorsqu'on 
+augmente la concentration des ions C1-, la vitesse de formation 
+du C10, passe par un minimum. Nous avons confirm6 cette 
+observation. L'augmentation de la vitesse apres le minimum 
+est tvidemment due a la rkaction catalyske par les ions C1-. 
+L'interprktation de sa diminution avant le minimum donnee par 
+ces auteurs ne peut Ctre retenue car elle fait intervenir la rCac-
+
+tion HClO + C1-+ H+ -+ C1, + H20 en exigeant qu'elle soit 
+
+irreversible dans ces conditions, ce qui est exclu (1 1). Dans le 
+cadre de notre mkcanisme cette diminution peut s'expliquer 
+
+simplement par la rkaction C1 + C1-G C12 (12). Si C1, 
+
+disparait plut6t par une reaction de rupture que par une rkaction 
+
+analogue a [12], les ions C1-diminuent la vitesse de la decom-
+
+position en chaine de HC102. Ces rkactions n'ont pas Ct C con-
+sidkrees ci-dessus car les donnkes actuelles ne permettent pas 
+un traitement quantitatif de cet effet. 
+Lorsqu'on augmente le pH, la vitesse de dismutation du 
+chlorite passe par un maximum vers pH = 2 (3, 13). Ce fait ne 
+peut Ctre interpret6 simplement en remarquant que, pour une 
+valeur donnee de [NaClO,], le produit [C10~~[HC102] passe 
+par un maximum a ce pH. I1 faut Cgalement tenir compte de la 
+formation des formes hydroxylees Fe(OH)*+ et F ~( o H ) ~. 
+Celles-ci semblent avoir Cgalement un effet catalytique en tam-
+pon acktate a pH = 4 (14). 
+Les travaux anterieurs avaient fait apparaitre la complexitt 
+de la stoechiometrie et de la cinktique de la dismutation du 
+chlorite. L'utilisation de I'ortho-tolidine nous a donne les clefs 
+de leur interpretation: l'effet catalytique du fer et le fait que 
+
+2HC102 + HClO + Cloy + H+ ne soit pas une rkaction 
+
+klkmentaire. Le mkcanisme que nous proposons ici est en ac-
+cord avec tous les faits expkrimentaux connus entre pH = 0 et 
+pH = 2. Son extension aux milieux moins acides nkcessiterait 
+de nouveIles expkriences. 
+
+1. G. SCHMITZ et H. ROOZE. Can. J . Chem. 59, 1177 (1981). 
+2. G. SCHMITZ et H. ROOZE. Can. J . Chem. 62, 2231 (1984). 
+3. R. G. KIEFFER et G. GORDON. Inorg. Chem. 7, 235 (1968); 7, 
+
+239 (1968). 
+
+4. H. Rooz~. Anal. Chem. 56, 601 (1984). 
+5. C. C. HONG et W. H. RAPSON. Can. J. Chem. 46,2053 (1968). 
+6. B. 0 . HEDSTROM. Ark. Kemi. 6, 1 (1953). 
+7. L. N. MULAY et P. W. SELWOOD. J. Am. Chem. Soc. 76, 6207 
+
+(1954). 
+
+8. U. STRAHM, R. C. PATEL et E. MATIJEVIC. J. Phys. Chem. 83, 
+
+1689 (1979). 
+
+9. M. G. ONDRUS et G. GORDON. Inorg. Chem. 11, 985 (1972). 
+10. F. EMMENEGGER et G. GORDON. Inorg. Chem. 6, 633 (1967). 
+11. M. EIGEN et K. KUSTIN. J . Am. Chem. Soc. 84, 1335 (1962). 
+12. C. G. JAYSON, B. J . PARSONS et A. J . SWALLOW. J. Chem. Soc. 
+Faraday Trans. 1, 69(9), 1597 (1 973). 
+13. W. BUSER et H. HANISCH. Helv. Chim. Acta, 35, 2547 (1952). 
+14. H. F. LAUNER, W. K. WILSON et J. H. FLYNN. J:Res. Natl. Bur. 
+Stand. 51(5), 237 (1953). 
+15. W. H. LATIMER. Oxidation potentials. Prentice Hall, New York. 
+
+1952. 
+
+16. W. C. SCHUMB, M. S. SHERRILL et S. B. SWEETSER. J. Am. 
+Can. J. Chem. Downloaded from www.nrcresearchpress.com by 87.160.185.190 on 03/27/14 
+
+For personal use only. 
+
+
+980 
+
+CAN. 1. CHEM. VOL. 63. 1985 
+
+Chem. Soc. 59, 2360 (1937). 
+En prenant comme estimation du coefficient d'activiti 
+17. L. B. MAGNUSSON et J. R. HUIZENGA. J . Am. Chem. Soc. 75, 
+
+2242 ( 1953). 
+
+Yicro, = K ~/ K ~( I 
+
+M) = 1,1/2,4 
+18. A. J. ZIELEN et J. C. SULLIVAN. J. Phys. Chem. 66, 1065 (1 962). 
+19. G. SCHMITZ. J. Chim. Phys. 76, 209 (1979). 
+on obtient 
+
+E'(1 M) -E0 = 0,020 
+Annexe 
+Constante d'e'quilibre de [ 9 ] 
+De E ' ( F e 3 + / F e ) = 0,739 V et E'(C1Oz/CIO~) = 0,950 V, 
+
+Le potentiel standard E0 du couple Fe"/Fe2+ vaut 0,771 V 
+on dkduit 
+
+(15). Sa valeur apparente E' depend du milieu et de la force 
+
+K9 = [c1021["zt1 = 2,7 
+
+ionique (16-18). En solutions perchloriques 1 M elle vaut 
+[CIO,] [Fe3+] 
+0,739 t 0,002 V. Pour le couple C102/C10, l'incertitude est 
+(25"C, milieu perchlorique 1 M) 
+plus grande. L'examen des sources nous ayant conduit a adop-
+ter 0,950 V (1) indique que cette valeur est une bonne esti-
+Au cours de nos experiences on avait 
+mation de E ' en milieu perchlorique 1 M. Elle est superieure au 
+[Fe" ] 
+
+--
+[ClO,] -
+6,5 X lo-' 
+[NaC102] 
+
+potentiel standard admis anterieurement EO = 0,935 V (19). 
+
+-2,7 x 
+
+--
+
+L'effet de la force ionique sur ce potentiel est en accord avec 
+
+[Fe" ] 
+[ClO,] 
+
+[H'] + 2.4 X lo-' [C102] 
+
+celui observe par Hang et Rapson (5) sur la constante d'acidite 
+et [Fe3+1 [Feztl des les plus faibles conversions observees. 
+K,. En effet: 
+
+Can. J. Chem. Downloaded from www.nrcresearchpress.com by 87.160.185.190 on 03/27/14 
+
+For personal use only. 
+
+
+
+	
+

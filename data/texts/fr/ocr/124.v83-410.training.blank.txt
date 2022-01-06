@@ -1,0 +1,710 @@
+
+	
+
+		
+
+	
+
+	
+
+Reduction electrochimique de y-nitrocetones. Conditions experimentales d'acces a des 
+derives de la pyrroline et de la pyrrolidine 
+
+MICHEL CARIOU, ROLAND HAZARD, MICHEL JUBAULT ET ANDRE TALLEC 
+
+Lol~orcrtnire rl'Electrockitnie, ERA CNRS 896, Uiziversitc? cle Rerrrres, Cornpus tle Ben~rlie~r, 35042 Rerzrres CPrle.r, Frcrrrce 
+
+Regu le 7 avril 1983 
+
+MICHEL CARIOU, ROLAND HAZARD, MICHEL JUBAULT et ANDRE TALLEC. Can. J. Chcm. 61. 2359 (1983) 
+Une ttude ditailltc du comportenient Clcctrochimique, sur cathode de niercure et cn milieu hydro-alcoolique, de quelqucs 
+y-nitrocitones 1 et de lcurs produits de reduction permct de dCfinir les conditions d'ilectrosynth~ses de trois types 
+d'heterocycles azotCs. 
+Les pyrrolines N-oxyde 3 sont obtenucs par reduction a potentiel peu nCgatif (cyclisation de I'hydroxylamine); Ics rcn-
+dements sont quantitatifs dans le cas des derives nitres tertiaires; dans le cas des derives secondaires et primaires, il y a 
+formation parasite dc cCtoncs-oxinies 6. 
+Pour les autrcs hitirocycles, les conditions de preparation dependent dc la nature du substituant situt en a du carbonyle. 
+Dans le cas d'un substituant methyle, Ics pyrrolines 4 peuvent &amp;tre obtenucs par reduction du derive nitri 1 ou de la pyrrolinc 
+N-oxyde 3; les pyrrolidincs 5 sont obtenues par reduction de 1 ou egalenient de 3 et 4 dans le cas des derives nitres tertiaires. 
+Dans le cas d'un substituant phenyle, les pyrrolines 4 ne peuvent &amp;tre obtenues quc par reduction des hCtCrocycles 3 , provenant 
+d'un dirivi nitre tertiaire; les pyrrolidines 5 se priparent par rCduction de 1 (derives primaires et sccondaires) ou de 3 et 4 
+
+(dirives tertiaires). 
+
+MICHEL CARIOU, ROLAND HAZARD, MICHEL JUBAULT, and ANDRE TALLEC. Can. J . Chem. 61, 2359 (1983). 
+Optimal conditions for electrosynthesis, at a mercury cathode in hydroalcoholic media, of thrce classcs of nitrogen 
+heterocyclic compounds are sct up from an exhaustive study of the electrochem~cal behaviour of y-nitroketones 1 and their 
+reduction products. 
+Pyrroline-N-oxides 3 are obtained by cyclization of the hydroxylaniine when thc nitro compounds are reduced at sufficiently 
+low cathodic potentials. Quantitative yields are achieved in the case of tertiary nitro compounds. In other cases (primary and 
+secondary nitro compounds), simultaneous formation of ketone-oximes 6 occurs. 
+According to the nature of the a-substituent of the carbonyl, the other heterocyclic derivatives can be prepared as follows. 
+In the case of a methyl substituent, pyrrolines 4 can be obtained by reduction of nitro compounds 1 or of N-oxydc pyrrolines 
+3. Pyrrolidines 5 are prcparcd by reduction of 1, or 3 and 4 in the case of tertiary compounds. In the case of a phenyl substituent, 
+pyrrolines 4 can only be obtained by reduction of compounds 3 arising from a tertiary nitro compound. Pyrrolines 5 are prepared 
+by direct reduction of 1 (primary and secondary nitro compounds) or of 3 and 4 (tertiary nitro compounds). 
+
+L'tlectrortduction de dtrivts nitrts aromatiques, substituts 
+en ortho par des groupements susceptibles de rtagir sur la 
+fonction hydroxylamine, a t t t largement utiliste pour la prt-
+paration d'htttrocycles azotes (1, 2). En strie aliphatique par 
+contre, si quelques essais ont ttC tentts par rtduction chimique 
+de y-nitroesters et de y-nitrocttones (3), il ne semble pas que 
+la methode Clectrochimique ait ete mise en oeuvre. 
+Dans une note prtliminaire (4), nous avons indiqut les con-
+ditions d'obtention de pyrrolines N-oxydes 3, de pyrrolines 4 et 
+de pyrrolidines 5 (schtma l), par Clectrolyse a potentiel con-
+
+tr61t des y-nitrocttones l a et l b . 
+Nous nous proposons ici de montrer comment il est possible, 
+par une Ctude dttaillte du comportement Clectrochimique des 
+nitrocktones 1 et des htttrocycles qui en dkrivent, de dtter-
+miner les conditions expCrimentales optimales, permettant 
+d'acctder stlectivement aux difftrents produits de cyclisation. 
+Les rendements des tlectrosyntheses peuvent Ctre rendus pra-
+tiquement quantitatifs, lorsque le groupement nitrt est port6 par 
+un carbone tertiaire (composCs l a et l b ) . Par contre, des reac-
+tions parasites accompagnent la rtduction des dtrivts nitrts 
+secondaires (1 c et 1 e) et primaires ( I d et 1 f). 
+
+I 
+
+1. Rkduction de la nitrocetone l a 
+1.1 Etude polarographique 
+Les polarogrammes du dCrivt nitrt l a et des htttrocycles 3 a 
+et 4 a ont Ctt enregistrts difftrents pH, dans un milieu tampon 
+
+B.R. + ethanol (1 pour 1 en volumes). Quelques rtsultats sont 
+
+reprtsentts sur la figure 1. 
+Etude du de'rivt nitrt Z a (fig. 1 a) 
+En milieu tres acide, le polarogramme prtsente une premiere 
+
+R L ~ 
+
+I 
+
+R 
+$ \ R 
+NHOH 0 
+
+vague B 4 tlectrons (vague A), suivie.de deux vagues ma1 
+
+SCHEMA 1 
+
+Can. J. Chem. Downloaded from www.nrcresearchpress.com by 87.160.154.20 on 03/27/14 
+
+For personal use only. 
+
+
+Can. J. Chem. Downloaded from www.nrcresearchpress.com by 87.160.154.20 on 03/27/14 
+
+For personal use only. 
+
+
+CARIOU ET AL. 
+
+C6H5-CH-CH2 
+
+(CH3)2-C 
+
+CHOH + H20 
+I 
+
+I 
+
+NHOH C6H5 
+
+En milieu faiblement acide, les vagues B et C prisentent une 
+hauteur normale lorsqu'elles sont enregistrees ii partir des he-
+tCrocycles. Leur caractere cinetique, qui apparait sur les pola-
+rogrammes de 10, resulte donc du fait que la cyclisation de 
+l'hydroxylarnine 2a est alors relativement lente, tandis qu'elle 
+
+est tres rapide pour pH &lt; 2. 
+
+Cette observation permet d'attribuer la vague D, situke 
+potentiel tres nCgatif, ii la reduction du carbonyle, d'autant plus 
+facile a observer que la cyclisation de l'intermediaire 2a est 
+plus lente: 
+
+C6HS-CH-CH2 
+
+I 
+
+I 
+
+Vague D 2a + 2H+ + 2e --+ (CH3)2-C 
+
+CHOH 
+
+I 
+
+NHOH C6H5 
+
+Cette interpretation est confirmee par une etude voltam-
+mktrique, rCalisCe en tampon acCtique (fig. 2); a faible vitesse 
+de balayage, on observe trois pics cathodiques: A (reduction de 
+
+NO?), B + C (reduction de 30 et 4 0 ) et D, moins marque 
+
+(reduction du carbonyle en alcool); si I'on balaye plus ra-
+pidement, la cyclisation de 2a n'a plus le temps de s'effectuer 
+et il ne subsiste, sur le voltammogramme, que les pics A et D. 
+On notera le net deplacement du potentiel de pic A, vers les 
+valeurs cathodiques, lorsque la vitesse de balayage auginente: 
+ce phenomkne est caractkristique d'un mecanisme EC dans 
+lequel le transfert Clectronique (E) est suivi d'une reaction 
+chimique lente (C). 
+Rernarque: I'allure de la vague de reduction de 3a en milieu 
+basique rappelle celle observee a partir d'oximes (5) et est due 
+a des reactions de protonation, prCcCdant le transfert Clectro-
+nique. Par comparaison avec un travail antkrieur (6), nous 
+avons CtudiC la reduction polarographique du compose 3a dans 
+un tampon arnmoniacal, frkquemment utilisk pour effectuer les 
+tlectrolyses preparatives. La vague est alors dCdoublCe (fig. 3): 
+la hauteur relative de la premiere vague Bl est d'autant plus 
+importante que la pkriode de chute est Clevte (fig. 3a) ou la 
+proportion d'ions ammonium plus grande (fig. 3b). Cette pre-
+miere vague correspond alors a la reduction de 3a apres prepro-
+tonation, en surface d'electrode, sous I'action de NH,'. La 
+seconde vague B? (reduction sans protonation de 3 a ) est dC-
+placCe vers les potentiels anodiques, par rapport a un tampon 
+B.R. de m&amp;me pH. En resume et comme dans le cas des oximes 
+(6), les ions ammonium exercent une double influence: ils sont 
+susceptibles de jouer le r61e d'agent protonant pour 
+I'hCtCrocycle 3a et leur presence dans la double couche facilite 
+la reduction de la forrne non-protonke. 
+
+1.3 Dtterrnination des conclitio~zs expCrilnentales pour la pri-
+paration des he'ttrocycles 3a, 4 a et 5 a 
+La connaissance du comportement Clectrochimique de la 
+
+i// 
+
+E V E C S 
+
+FIG. 2. Voltammogramme dc l a ( c = lo-' mol L -I ) en m~licu 
+
+tampon acitiquc + Cthanol ( 1 :3) sur electrode de mercure, pour 
+
+differentes vitesses de balayage des potcntiels: = 0.1 V s-I (-): 
+
+,, = I0 v s ' ( -. -. ) 
+
+nitrocetone lei et de ses produits de reduction permet mainte-
+nant de choisir les rneilleures conditions d'electrolyse (sur ca-
+thode de rnercure) pour preparer ~Clectivement les diffkrents 
+hCtCrocycles. 
+Priparatiorz de la pyrroline N-o,~ycle 3 a 
+Ce compose doit &amp;tre prepare dans un milieu ou la vague A 
+est nettement sCparte des vagues B et C; les milieux tres acides 
+ne conviennent donc pas. Les Clectrolyses, contr61ees par cou-
+lomttrie, ont kt6 effectukes en tampon acktique et en tampon 
+ammoniacal; mais, dans les deux cas, le choix dl1 potentiel de 
+travail est important. 
+
+En tampon acCtique + Cthanol ( 1 :4). il faut Cviter la reduc-
+
+tion ulterieure de ~L I 
+
+et opCrer a un potentiel ET = -I , I V ECS, 
+
+correspondant au debut du palier de la vague A (fig. 4); le 
+resultat coulometrique est alors 4,O faradays par mole et I'en-
+registrement d'un polarograinme en fin d'electrolyse (fig. 4, 
+courbe 3) montre que le rendenlent en pyrroline N-oxyde for-
+
+mCe est superieure a 90%. 
+En tampon ammoniacal + Cthanol ( 1 : 4), I'aspect du polaro-
+
+gramme initial (fig. 5, courbe 1) laisse penser que le choix du 
+potentiel est moins drastique puisque le palier de diffusion 
+s'etend de -1 a -1,5 V ECS. En fait, la vague de reduction 
+de 3 0 , avec preprotonation ( B I ) , n'apparait pas sur le polaro-
+grarnrne de la nitrocitone alors qu'elle est visible lorsque 
+I'hCtCrocycle 3a est present en solution (fig. 5, courbe 2). Cet 
+exernple montre bien la necessitk d'une Ctude prkliminaire 
+complete pour dtfinir les conditions d'Clectrolyses. Nous avons 
+pu obtenir la pyrroline N-oxyde, avec un rendeinent pra-
+tiquement quantitatif, par reduction de l a en tampon ammo-
+niacal, a E.r = -1,15 V ECS (coulomttrie a 4,O faradays 
+mol-I). 
+Preparation cle la pyrroline 4 a 
+C'est le compose pour lequel le choix des conditions experi-
+mentales est le plus delicat, puisqu'il faut operer dans un milieu 
+ou la vague B est suffisamment sCpar6e de la vague C; les 
+
+milieux faiblement acides et basiques sont donc 2 proscrire. La 
+
+pyrroline 4a peut &amp;tre preparee par reduction du dCrive N-
+
+oxyde 3 0 , a E T = -0,7 V ECS, dans un milieu H,SO, N + 
+
+Cthanol (1 : 1); on a alors E l l ? (B) = -0,7 V ECS et E l l ? (C) 
+= -0,83 V ECS. Par contre, le composC 4a n'a pu &amp;tre obtenu 
+par reduction directe de la nitrocktone l a ; celle-ci etant 
+Can. J. Chem. Downloaded from www.nrcresearchpress.com by 87.160.154.20 on 03/27/14 
+
+For personal use only. 
+
+
+CAN. J. CHEh,I. VOL. 61. 1083 
+
+( a 1 
+
+5 -
+
+I 
+
+I 
+
+/ 
+/ 
+/ 
+/ 
+
+1 
+
+E , V ECS 
+
+&gt; 
+
+-1,O 
+-1,5 
+-2 . 0 
+
+FIG. 3. (a) Polarogrammes de 30 en milicu tampon ammoniacal + Cthanol (1 : I ) . ;I cliffercnts temps dc chutc dcs gouttes dc mercure; T = 
+
+8 s (-); 
+
+2 s (-. -): 0, I s (---). (b) Polarogrammcs dc 30 cn milicu tampon ammoniacal + kthanol (1 : I), pour diffkrcntcs conccntrations 
+
+cn ions an~moniun~ NH,'. [NH,']% = 90 (-): 
+50 ( -. -): 20 (---). 
+
+FIG. 4. Evolution dcs polarogrammcs au cours dc la rCduction dc 
+l o (5 X 
+
+mol) dans un melange tampon acCtique (30 cm2) + 
+
+Cthanol (120 cm". 1: avant rkduction; 2 et 3: aprks reduction E.l. = 
+-1, l V ECS (2: aprks passages de 2,4 F/mol; 3: aprks passagc de 4 
+F/mol); 4: aprks rCduction ultirieure i E.r = -1,35 V ECS et passage 
+de 7.6 F/mol de I n . 
+
+beaucoup moins soluble que les dCrivCs heterocycliques, 
+
+I'tlectrolyse devrait &amp;tre rCalisCe dans un milieu H,S04 N + 
+
+Cthanol (1 :4); mais, dans ces conditions, le dCrivC nitre de 
+depart prtsente une vague unique de reduction a 8 Clectrons 
+(superposition des vagues A, B et C). 
+Priparation de la pyrrolidine 5 a 
+I1 existe a priori de nombreuses possibilites pour la prkpara-
+
+FIG. 5. Evolution des polarogrammes au cours de la rkduction de 
+
+10 (5 x lo-' mol) dans un melange tampon ammoniacal (30 ern.') + 
+
+Cthanol (120 cm'). 1: avant reduction; 2: aprks riduction i E.,. = 
+
+-1,15 V ECS et passage de 4F/mol dc 10. 
+
+tion electrochimique de ce compos6. 
+On pourrait penser rCduire directement (2 8 faradays par 
+mole) la nitrocktone de dCpart, un potentiel correspondant au 
+
+palier de la vague C (ou B + C). Mais d'une part, en milieu trks 
+
+acide, ce palier est ma1 dCfini par suite de I'ClectroactivitC du 
+groupement carbonyle et la reduction n'est pas selective; ainsi, 
+une Clectrolyse de l a , realiske 2 environ -1,15 V ECS dans 
+
+HzSOl N + Cthanol (I :4) consomme 7,O faradays par mole et 
+
+conduit a un melange de 50% de pyrrolidine 5cr et 50% 
+d'hydroxylamino-alcool (correspondant a une reduction a 6 
+faradays par mole). D'autre part, en milieu moins acide (tam-
+Can. J. Chem. Downloaded from www.nrcresearchpress.com by 87.160.154.20 on 03/27/14 
+
+For personal use only. 
+
+
+CAKlOU ET AL. 
+
+2363 
+
+pon acCtique OLI tampon ammoniacal), compte-tenu du carac-
+tere cinCticlue des vages B et C, les rCductions sont plus lentes; 
+de plus, elles s'accornpagncnt d'un dCficit coulomCtricl~~e (vide 
+it frrr ) . 
+La meilleure fagon de prCparer 50 consiste A rCcluire 30 (A 4 
+
+faradays par mole) ou 4n (a 2 faraclays par mole). En fait, 
+1'ClectrorCduction de la pyrroline N-oxyde 30, en tampon acC-
+t i q ~~e (E-r = -1,25 V ECS) comme en tampon ammoniacal 
+(E-r = -1,50 V ECS) conduit A un resultat coulomCtriq~~e 
+cornpris entre 3 et 4 faradays par mole. Le dCficit, par rapport 
+aux 4 faradays attendus, provient de la formation d'un produit 
+de duplication, rksultant de la rCduction B I electron, de la 
+pyrroline 40: 
+
+La proportion de produit de duplication form6 augrnente avec 
+la concentration en substrat et la vitesse d'agitation de la cath-
+
+ode de mercure. Finalement, c'est en milieu H,SO, N + Cthanol 
+
+(1 : 1) que la pyrrolidine 50 doit Etre prCparCe, par reduction de 
+
+3tr OLI de 40; les Clectrolyses, suivies par coulomCtrie, sont 
+effectuCes a -0,95 V ECS et le rendement en 50 est alors 
+
+pratiquement quantitatif. 
+
+Rernnr-tl~w: itude stkr.iochirnitl~re de It1,for.tntrtiorz de 5 a 
+L'examen des spectres rmn de 13 pyrrolidine 50 nlontre qu'il 
+
+se forme un melange d'isomeres cis et trurr7.s. Nous avons CtudiC 
+la variation des pourcentages relatifs des cleux stCrCoisomeres 
+obtenus, d'une part en fonction de la nature du produit soumis 
+A rCduction (3u ou 4n), d'autre part en fonction des conditions 
+d'Clectrolyse (nature du milieu, potentiel de travail). Les rC-
+sultats obtenus sont rassembles dans le tableau 1. 
+L'isomkre trzrzs, thermodynamiquement le plus stable, est 
+toujours majoritaire et on notera que les rCsultats sont sensi-
+blement les mEmes, que l'on rCduise la pyrroline ou la pyrroline 
+N-oxyde. Par ailleurs, le pourcentage en isomere trt1n.s augmen-
+te avec le pH: il est probable qu'en milieu tres acide la pro-
+
+H 
+
+5a cis 
+
+tonation finale s'effectue en paltie a la cathode (et conduit alors 
+lysant par comparaison aux conclusions preckdentes, avant de 
+au dCrivC sature cis); au fur et 2 mesure que I'acidid de la 
+prCciser les conditions des Clectrolyses priparatives. 
+solution diminue, la proportion de carbanion subissant la pro-
+tonation en solution augmente, entrainant une augmentation du 
+pourcentage en dCrivC trans. Cependant, en tampon ammo-
+niacal, la proportion en isomere cis croit a potentiel tres nCgatif: 
+on peut penser que les ions ammonium s'accumulent alors la 
+cathode et jouent le r6le d'agent protonant vis-a-vis du car-
+banion; un effet semblable a dCja C d observC lors de la rCduction 
+de bromocyclopropanes optiquement actifs (7). 
+
+2.1 Eturle polar-ogr-nplziq~ie 
+Le polarogramme du rlcrive' rlitrP 1 b presente, en milieu tres 
+acide (pH = 0), deux vagues successives: la premiere (vague 
+A) est A 4 Clectrons; la seconde (vague B) est B 2 Clectrons. 
+Lorsque le pH augmente, ces deux vagues restent bien sCpa-
+rCes, mais la hauteur de la seconde croit rapidement pour at-
+
+teindre 4 Clectrons (vague B + C) des pH = 3; elle conserve 
+
+une hauteur constante jusqu'a pH = 5. A pH plus ClevC, elle 
+disparait, masquCe par la d~chayge des cations de 13Clectrolyte. 
+
+2. Reduction de la nitrocktone 1 b 
+Ln pyr-roline N-oxyde 3 b prCsente une vague unique de rC-
+Des etudes analogues j. celles qui prCcedent ont Ct C rCalisCes 
+
+duction 2 2 Clectrons (vague B) a pH -0. L'intensitC de 
+
+sur la nitrocktone l b et les hCdrocycles 3 b et 4b. Nous 
+diffusion augmente avec le pH et la vague est 2 4 Clectrons 
+prksenterons brievement les rksultats essentiels, en les ana-
+
+(vague B + C) pour 3 &lt; pH &lt; 5. 
+
+TABLEAU 1. StCrCochimie de la pyrrolidine 5 a obtenue par ClectrorCduction des hCtCrocycles 3a et 4a 
+
+Milieu 
+
+H2S04 N 
+Tampon acCtique 
+Tampon ammoniacal 
+
+ComposC rCduit 
+
+3a 
+4 a 
+3 a 
+4a 
+3 a 
+4a 
+3 a 
+4 a 
+
+Potentiel ET 
+
+-1,00 
+-1,00 
+-1,25 
+-1,25 
+-1,35 
+-1,35 
+-1,50 
+-1,50 
+
+(V ECS) 
+
+%trans 
+
+63 
+59 
+70 
+65 
+83 
+87 
+67 
+68 
+
+Can. J. Chem. Downloaded from www.nrcresearchpress.com by 87.160.154.20 on 03/27/14 
+
+For personal use only. 
+
+
+Can. J. Chem. Downloaded from www.nrcresearchpress.com by 87.160.154.20 on 03/27/14 
+
+personal use only. 
+
+
+CARlOU ET AL. 
+
+2365 
+
+difficult6 que dans le cas de 30: alors que le polarogramme des 
+
+nitrocetones l c et l d ne prCsente que les vagues A et D , en 
+cours d'Clectrolyse, il apparait une vague de type B , , trop 
+
+proche de A, correspondant i la reduction de la pyrroline N-
+
+oxyde qui s'est accumulCe en solution. Le resultat cou-
+
+IornCtrique est alors peu reproductible (3,8 &lt; n(F) &lt; 4,2) et 
+
+l'on obtient un melange de l'heterocycle cherche (3c ou 3rl) et 
+de pyrroline (4c 011 4rl) en proportions variables selon les 
+conditions d'Clectrolyse. 
+
+3.22 Obtet~riotz rles pyt~t~olitzes 4 
+
+Tous les essais d'obtention des pyrrolines 4 c et 4rl se sont 
+soldes par des echecs, comme le laissait prevoir 1'Ctude 
+graphique. 
+Les derives mCthylCs 4 e et 4f ont pu &amp;tre prepares, en milieu 
+
+sulfurique, par Clectrolyse au palier de la vague B de reduction 
+de l e ou If ( E T = -1,O V ECS); les resultats coulometriques 
+sont infirieurs aux 6 F attendus et les rendements ne sont pas 
+
+quantitatifs. 
+
+3.23 Obretzriotl rles p~lrro1iditle.s 5 
+La reduction, a 8 faradays par mole. du derive nitre doit Stre 
+
+rtaliste au palier d'une vague B + C . 
+
+Pour l c et lrl, les Clectrolyses ne peuvent &amp;tre effectukes en 
+
+milieu sulf~~rique (du fait de la reduction du carbonyle 5 poten-
+
+tie1 trks ntgatif) ni en tampon acetique (deficit coulo~nCtriqi~e 
+dli, d'une part la formation d'oxime lors du passage par le 
+
+nitroso intermediaire, d'autre part a la formation d'un produit 
+
+de duplication, lors du passage pyrroline-pyrrolidine). C e 
+
+n'est donc qu'en tampon ammoniacal, au potentiel E.r = -1,45 
+V ECS (superieur au E,,? de la vague D) que nous avons pu 
+prCparer 5 c et 5rl. Les resultats coulom~triques (voisins de 7,8 
+
+faradays) indiqi~ent un rendement proche de 95%. 
+
+Pour l e et If, la vague B + C n'apparait qu'en tampon 
+
+acktique. Les tlectrolyses, rCalis6es dans ce milieu a ET = 
+
+-1,5 V ECS, permettent d'obtenir 4 e et 4j' avec de bons 
+
+rendements. 
+
+Partie experimentale 
+
+I . Tr'cllr~iq~ie.~ Plectroc~hirr1irl~le.s 
+Les polarogramnlcs sont enrcgistrCs i I'aidc d'un apparcil 3 trois 
+Clectrodcs (enrcgistrcur EPL 2B Tacusscl CquipC d'un tiroir Tipol). 
+Les coulomCtrics ct Ics Clectrolyscs prCparatives sont rCalisCcs 3 potcn-
+tiel contr6lC (potcntiostat Tacusscl 20-2; intkgrateur IG 5) dans la 
+cellulc dCcritc par Moinct ct Peltier (9). Lcs essais portent sur 0,l 3 
+I g dc dCrivC nitrC; la tcmpkrature est voisine dc 20°C. 
+Lcs milieux aqucux utilisCs conme Clcctrolytc-support sont Ics 
+suivants. 
+EII polnrogrnphie 
+
+pH &lt; 2: solutions d'acidc sulfurique 
+2 &lt; pH &lt; 12: tampons Britton-Robinson (notCs B.R.) 4 X 10-'M 
+
++ KN03 0,2 M. Lcs polarogrammes sont cnrcgistrCs sur dcs solutions 
+
+5 X lo-' M en dCrivC nitrC dissous dans un mClange Clectrolyte-
+
+support + Cthanol ( I : I ) en volume. 
+
+En P1ectrol)~se pr6pnrntive 
+Milieux trcs acidcs: acidc sulfurique normal; milieux pcu acides: 
+tampon acCtiquc 0,5 M en CHiCOzH et 0,5 M en CH3C02Na (pH = 
+4,8); milieux basiques: tampon ammoniacal 0,5 M en NH3 ct 0,5 M 
+en NH,CI ou NH,CH3C02. 
+Lcs expkriences sont conduites dans dcs mClangcs Clectrolyte-
+
+support + Cthanol, en proportions 1 : I ou 1 :4 selon la solubilit6 du 
+
+substrat. Lcs produits dc rCduction sont cxtraits 3 I'Cther aprks Cvapo-
+ration dc I'Cthanol et neutralisation Cventuellc de la solution par 
+NaZCOI. 
+
+2. PrPprlrntion des dPriv6s nifrks de dPpnrt 
+Les dCrivCs y-nitrCs sont gCnCralemcnt obtenus par addition d'un 
+
+nitroalcanc sur un composC CthylCniquc activd cn prCscncc d'un cata-
+lyseur basiquc. 
+Quclques y-nitrocCtoncs avaicnt dCji dtd prCparCs anttricurcmcnt 
+(3, 10) par condcnsation du nitromkthanc ou du nitro-? propanc sur 
+unc bcnzylidknc-cdtonc, cn prCsencc dc catalyscurs variCs. 
+
+Nous avons diminuC Ics temps dc rCaction et amCliorC Ics rcn-
+dcmcnts cn utilisant la tCtran~Cthylguanidinc cornmc catalyscur. L'ad-
+dition sc fait alors 3 tcmpCraturc ambiantc ct conduit, avcc dc bons 
+rendcments aux y-nitrocCtones 1r1 3 If'. 
+1ri: F = 150°C (3); lb: F = 54OC (3): 1c: F = 75OC (nlClangc dc 
+deux diastCrCoisomkrcs) 
+1 rl: F = 99°C ( 10); 1 e: Eb,,,5 = 148OC (mClangc dc dcux diastCrCo-
+isomkrcs) 
+I f F = 96-100°C (10). 
+
+3. Pri;Przrrztiorl et crlractPristirl~res rles pror1uit.s rle r6rl1ictiorz 
+3. 1 Pyrrolirles N-osydes 
+Les conditions de prkparation et Ics caractCristiqucs dcs pyrrolines 
+N-oxydcs 30 et 36. issucs dc la rdduction de 1r1 ct l b , sont donnCes 
+dans la notc prkliminaire (4). 
+Lcs hCtCrocyclcs 3 c ct 3d sont obtenus par rCduction dc 1 c ct I d en 
+
+milicu tampon ammoniacal + Cthanol (1 :4); potentiel dc travail ET = 
+
+-1,05 V ECS; rCsultat coulomCtriquc rl voisin de 4 F par mole de 
+dCrivC nitrC; spectrcs ir (CCI,) dc 3c et 3d idcntiqucs 3 cclui dc 3a. 
+Lcs hCtCrocyclcs 3e ct 3 f sont prCparCs par rCduction dc l e ct lf'cn 
+
+~nilicu tampon ammoniacal + Cthanol ( l : I); ET = -I ,I5 V ECS; 11 
+
+= 3.69 F par molc pour l e ct 11 = 3.80 F par mole pour If'. Spcctrcs 
+ir (CC1,) dc 3e et 3f idcntiqucs 3 cclui dc 3b. 
+Rernnry~ie: I'hCtCrocyclc 3f a Cgalemcnt CtC caractCrisC 3 I'Ctat de 
+picrate: F = 133-135°C ( 1 1). 
+3.2 P~~rrolirles 
+Les caractdristiques dcs pyrrolines 4r1 ct 41) sont donnCcs dans la 
+rCf. 4. Pour les raisons invoquCes prCcCdenlmcnt, Ics pyrrolincs 4c et 
+4cl n'ont pu &amp;tre obtcnucs. Lcs pyrrolines 4e et 4j'sont prCparCes par 
+
+riduction dc l e et 1 f en milieu H'SO, N + Cthanol ( I : I); ET = -1,0 
+
+V ECS; 11 compris cntrc 5,8 ct 6,0 F par mole pour l e et 11 = 5,77 F 
+par mole pour If. Lcs spectres ir (CCI,) dc 4e ct 4f sont idcntiqucs 3 
+celui dc 4b. 
+3.3 Pyrrolidirles 
+Lcs caractCristiqucs rmn dcs pyrrolidincs 5r1 ct 5b sont donnCes 
+dans la rCf. 4. Lcs spectres ir dc ces dcux composCs enregistrks dans 
+CCI, sont idcntiqucs. CornposC 5a; v,,,.,: 3370, 3080, 3040, 2970, 
+2940, 2870, 1950, 1875, 1810, 1605, 1495, 1455, 1425, 1380 cm-'. 
+
+PrPpnrntiorl de 5c: rCduction dc 1 c en tampon ammoniacal + 
+
+Cthanol ( I :4); ET = -1,5 V ECS; 11 voisin dc 7.8 F par mole; spectre 
+ir (CCI,) de 5c identique 3 cclui dc 50; I'hCtCrocyclc 5c a Cgalement 
+CtC caractCrisC par son dCrivC bcnzoylC: F = 142°C. 
+
+PrPpnrntiorl de 5d: rCduction de I d en tampon ammoniacal + 
+
+Cthanol ( I :4); El. = -1,4 V ECS; n voisin de 7,6 F par mole; spectre 
+ir (CCI,) dc 5d identique 3 ceux dc 50 ct 5c; I'hCtCrocyclc 5d a 
+Cgalemcnt CtC caractCrisC par son dCrivC benzoylk: F = 120°C (litt. 
+(10) F = 122°C). 
+
+PrPpnrntion de 5e: rCduction de l e en tampon acCtique + Cthanol 
+
+(1 : I); ET = -1,5 V ECS; n voisin de 7,7 F par mole; spectre ir (CCI,) 
+de 5e identique 3 celui de 56. 
+
+Pr.Pparnfiorz de Sf: rkduction dc lf en tampon acCtiquc + Cthanol 
+
+(1 : 1); E.l. = -1,5 V ECS; 11 voisin dc 7,7 F par mole; spectre ir (CCI,) 
+
+Can. J. Chem. Downloaded from www.nrcresearchpress.com by 87.160.154.20 on 03/27/14 
+
+For personal use only. 
+
+
+2366 
+
+CAN. J. CHEM. VOL. 61. 1983 
+
+de 5,f identique B ceux de 5 0 et 5e. 
+
+3.4 Les ce'tones o.~in~es 6 ont Ct C identifiies i partir de leur spectre 
+ir (CCI,): U O H = 3600 cm-'; u, , , , 
+= 1720 cm-I. 
+
+Conclusion 
+Les resultats obtenus au cours de cette etude montrent que 
+l'~lectrorCduction, a potentiel contrhle, de y-nitrocitones est 
+une methode de choix pour la preparation de pyrrolines N-
+oxydes, de pyrrolines et de pyrrolidines, lorsque le groupement 
+nitre est port6 par un carbone tertiaire. Mais, m&amp;me dans ce 
+cas, le choix des conditions exptrimentales, appropriees pour 
+la preparation stlective de chaque hCtCrocycle, necessite une 
+etude prealable du cornportement Clectrochimique du derive 
+nitre de depart et de ses produits de reduction. 
+Dans le cas des derives nitres secondaires et primaires, la 
+
+formation parasite d'une cetone-oxime lors des reductions a 
+
+potentiel peu negatif, limite les rendements en pyrrolines N-
+
+oxydes. Si les pyrrolidines peuvent &amp;tre encore pr6parCes par 
+Clectrolyse 2 potentiel trks nkgatif dans un milieu con-
+
+venablement choisi, la methode est difficilement applicable a la 
+preparation des pyrrolines. 
+
+1. H. LUND. Organic electrochemistry. Edite' par M. M. Baizer. 
+Marcel Dekker, New York. 1973. p. 563. 
+2. A. TALLEC. L'actualiti chimique. 1977. p. 7. 
+3. J. B. BAPAT et D. ST. C. BACK. Austr. J. Chem. 21,2483 (1968); 
+21, 2497 (1968). 
+4. M. CARIOU, R. HAZARD, M. JUBAULT et A. TALLEC. Tetrahedron 
+Lett. 22, 3961 (1981). 
+5. S. G. MAIRANOVSKII. Catalytic and kinetic waves in polar-
+ography. Plenum Press, New York. 1968. p. 187. 
+6. E. RAOULT, M. JUBAULT et D. PELTIER. Electrochim. Acta, 24, 
+1219 (1979). 
+7. R. HAZARD, S. JAOUANNET, E. RAOULT et A. TALLEC. NOUV. J. 
+Chim. 6, 325 (1982). 
+8. E. IVERSEN et H. LUND. Tetrahedron Lett. 4027 (1967). 
+9. C. MOINET et D. PELTIER. Bull. Soc. Chim. Fr. 690 (1969). 
+10. M. C. KLOETZEL. J. Am. Chem. Soc. 69, 2271 (1947). 
+11. R. F. C. BROWN, L. SUBRAHMANYAN et C. P. WHITTLE. Aust. J. 
+Chem. 20, 339 (1967). 
+
+Can. J. Chem. Downloaded from www.nrcresearchpress.com by 87.160.154.20 on 03/27/14 
+
+For personal use only. 
+
+
+
+	
+

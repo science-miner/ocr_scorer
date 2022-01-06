@@ -1,0 +1,315 @@
+
+	
+
+		
+
+	
+
+	
+
+Synthese d'une a-methylene-y-lactone: application des reactifs organiques du selenium 
+
+HELENA MARIA CARVALHO FERRAZ' ET NICOLA PETRAGNANI 
+
+Instituto de Qubnica, Ur~iversidade de S i o Paulo, C.P. 20780, S i o Paulo, S f . , Brnsil 
+
+Re~u le 10 aofit 1984' 
+
+HELENA MARIA CARVALHO FERRAZ et NICOLA PETRAGNANI. Can. J. Chem. 63, 3216 (1985). 
+Nous avons dCveloppC une nouvelle synthkse de l'a-mCthylkne-y-lactone 4, qui est presente dans de nombreuses substances 
+naturelles sesquiterpeniques. 
+
+HELENA MARIA CARVALHO FERRAZ and NICOLA PETRAGNANI. Can. J. Chem. 63, 3216 (1985). 
+We have developed a new synthetic approach to the a-methylene-y-lactone moiety 4, which is present in numerous 
+sesquiterpene natural products. 
+
+Introduction 
+Le groupement a-mCthylkne-y-lactone est prCsent dans de 
+nombreuses substances naturelles telles que les lactones sesqui-
+terpeniques (1). Ce groupement est responsable de I'activite 
+pharmacologique de ces substances (2). L'intCr&amp;t de notre 
+groupe de recherche dans ce domaine, tout comme dans la 
+chimie des composCs organiques du sClCnium, nous a amenCs 
+a dCvelopper des mCthodes sClectives d'obtention d'a-methy-
+lkne-y-lactones bicycliques 2 jonction cis ou trans, dont le but 
+est l'utilisation ultCrieure dans la synthese de substances telles 
+que le Fmllanolide 1 (3) et 1'Arbusculine B 2 (4). Deux syn-
+thkses des a-mCthyl&amp;ne-y-lactones 3 et 4 ont deja Ct C ddtcrites 
+(5) et nous voulons maintenant en presenter une troisikme. 
+
+La formation de lactones par l'addition d'un Clectrophyle a 
+
+des acides ou 2 des esters P,y ou y,6-insaturks est connue 
+depuis longtemps et sa stCrCochimie est bien Ctablie: I'addition 
+a la double liaison est toujours trans (6). Ainsi, la lactonisation 
+de l'acide P,y-insaturk 5, par exemple, conduit a une jonction 
+cis entre les deux cycles. 
+
+Dans un travail antCrieur ( 5 ) nous avons illustrC l'utilisation 
+de I'acide 2-phtnylsCleno-propano'ique 6 pour la synthkse des 
+a-mCthylkne-y-lactones 3 (trans) et 4 (cis); plus rkcemment, 
+nous avons employ6 le m&amp;me acide 6 pour synthttiser le Frul-
+
+lanolide 1 (10). 
+
+Nous prtsentons ici une nouvelle synthkse de la cis-lactone 
+4, dont le prCcurseur posskde le groupement sClCnophCnyle en 
+
+p du carbonyle, ce qui offre un avantage par rapport 2 la 
+
+mCthode anterieure: l'tlimination du phtnylsClCnoxyde n'en-
+traine que la formation d'une double liaison exocyclique. 
+A partir d'une substance simple telle que la cyclohexanone, 
+nous avons effectuC la sCquence rtactionnelle representek dans 
+le schCma 1. 
+
+Resultats et discussion 
+Le cyclohexylidkne acCtate d'Cthyle 7 (1 1) a Ct C obtenu par 
+la rkaction de Wittig entre la cyclohexanone et le carbG 
+thoxymCthylknetriphCnylphosphorane, avec un rendement de 
+80%. Ce produit a Ct C hydrolysC en milieu basique, donnant 
+l'acide cyclohCxylidkne acCtique 8 (12) avec un rendement de 
+81%. L'alkylation du dianion de l'acide 8 par le sClCnure de 
+bromomCthylphtnyle a fourni 82% du produit 9. 
+Nous avons CssayC d'inverser l'ordre sCquentiel de ces deux 
+dernieres Ctapes, mais nous n'avons pas reussi a alkyler l'ester 
+7 par le mime stlCnure; le seul produit obtenu est l'ester 
+P,y-insaturC 11. Le remplacement du reactif par le sClCnure 
+d'iodomCthylphCnyle a donne l'alkylation, mais le rendement 
+de la rkaction n'a Ct C que de 55%. 
+
+Cette reaction est, donc, d'une grande utilitC dans la prC-
+paration stCrCosClective de cis-lactones. 
+Par ailleurs, l'utilisation de rkactifs organodlCniCs, soit 
+
+7 
+
+comme prCcurseurs de doubles liaisons, soit comme des Clec-
+trophiles pour la lactonisation, a Ctt dernierement tres explorke 
+
+" . " d:::E 
+
+(2) PhSeCH.1 
+(7-9). 
+Pour 1'Ctape suivante-lactonisation de 9 en milieu acide-
+
+' Auteur B qui adresser la correspondance. 
+
+plusieurs rkactifs ont Ct C employCs (H2S04, HCIO,, H3P04, 
+Revision reye le 28 mars 1985. 
+AcOH, acide p-toluenesulfonique). Dans tous les cas, nous 
+Can. J. Chem. Downloaded from www.nrcresearchpress.com by 87.160.185.190 on 03/27/14 
+
+For personal use only. 
+
+
+CARVALHO FERRAZ ET PETRAGNANI 
+
+avons observe la formation d'un mClange complexe de subs-
+tances, parrni lesquelles on a pu constater, outre le produit 
+principal 10, la presence en faible quantitC de la lactone 12 
+(avec la double liaison endocyclique) et du disClCnure de 
+diphknyle. Le meilleur resultat a ete obtenu par traiternent de 
+9 avec l'acide phosphorique, qui a produit 50% de la lactone 
+attendue 10. 
+
+H3P04 
+
+w o 
+
+@O 
+
++ PhSeSePh 
+
+9 -
+
+\ 
+
+La formation de la lactone 12, aussi bien que du diselenure, 
+rnontre que la liaison C-Se s'est rompue; cependant, nous 
+n'avons pas de donnkes suffisantes pour suggerer le rnCcanisrne 
+de cette reaction indesirable. 
+I1 faut bien noter que les rkactions de lactonisation des acides 
+y,6-insaturts portant le groupernent sClenophCnyle n'offrent 
+pas toujours de bons rendernents ( 5 , 13), cornrne on peut ob-
+server dans les exernples ci-dessous (nous n'avons trouve dans 
+la literature aucun cas de lactonisation d'un acide sClCniC 
+P,y-insature). 
+
+SePh 
+
+PhSeCl 
+
+qo (RCf 13) 
+
+SePh 
+SePh 
+R = H, 70% 
+R = M e , 61% 
+
+Partie experimentale 
+
+2 
+2 
+
+Les spectres ir ont Ct C rnesurCs avec un spectrophotomktre 
+Perkin-Elmer 457A. Les spectres de rmn ont CtC enregistrks sur un 
+
+appareil Varian T-60 i 60 MHz et dans le CC4. Les analyses par 
+
+chromatographie en phase gazeuse ont Ct C effectuCes sur un appareil 
+Varian 2800 a ionisation de flamme; le gaz vecteur est I'azote et la 
+colonne utilisCe, la FFAP (10%) Chromosorb W 60-80 mesh. Les 
+analyses (C, H) ont Ct C effectuCes par le Laboratoire de Microanalyse 
+de 1'Institut de Chirnie de I'UniversitC de S. Paulo. 
+
+Cyclohtxylidine ace'rare d'krhyle 7 
+Une solution de la cyclohexanone (29,4 g, 0,3 rnol), du carbCthoxy-
+rnethylknetriphCnylphosphorane (21,O g, 0,06 rnol) et de I'acide 
+benzoi'que (2 g) dans le benzkne anhydre (70 rnL) est chauffCe au 
+reflux pendant 48 h, sous une atrnosphkre d'azote. Aprks la distillation 
+du benzene, on ajoute de l'hexane et le triphenylphosphinoxide form6 
+est filtrC. La solution est lavCe successivement avec une solution 
+saturCe de NaHCOs, une solution dilutCe de HC1 et une solution 
+saturCe de NaCI. Le solvant et I'exces de la cyclohexanone sont 
+ClirninCs par distillation; le rCsidu est distill6 sous vide. Rendement: 
+8,l g (80%); p.e. 116"C/30 Torr (1 Torr = 133,3 Pa). 
+
+q0 SePh 
+
+I I 
+
+0 
+
+Acide cyclohexylidine actfique 8 
+Une solution de l'ester 7 (5,O g, 0,03 mol) dans 1'Cthanol (30 mL) 
+est traitCe par du NaOH (15 rnL d'une solution B 30%). Au bout de 
+
+3 h i reflux, le mClange rkactionnel est acidulC par une solution 
+
+concentrCe de HCI et la solution aqueuse est extraite par 1'Cther et 
+sechCe sur Na2S04. Le rksidu obtenu apres 1'Climination du solvant est 
+recristallisC a partir du melange acCtate dlCthyle -hexane. Rendernent: 
+3,4 g (81%); p.f. 90-91°C (lit. (1 1) p.f. 90-92°C). 
+
+-Po 
+
+4 
+
+Acide 3-phtnylse'lPno-2-(1'-cyclohexPny1)-propanoi'que 9 
+A une solution de LDA (4,4 mmol) dans le THF anhydre ( 4 3 mL) 
+B 0°C et sous une atmosphkre d'azote, on ajoute une solution de I'acide 
+
+8 (0,28 g, 2 mrnol) dans le THF (2 mL). Au bout de 1 h i 45"C, le 
+
+mClange rkactionnel est refroidi h 0°C et est additionnk d'une solution 
+du sClCnure de bromornCthylphCnyle (0,60 g, 2,4 mmol) dans le THF 
+
+(2 mL). Aprks 2 h i 40°C, le melange est acidulC par une solution 
+
+concentrCe de HC1, extrait par I'tther et sCchC sur Na2S04. Le solvant 
+est CvaporC et le rCsidu est distill6 sous vide (tube B boules). Ren-
+dement: 0,51 g (82%); p.e. 140°C/0,005 Torr; ir (Nujol) v,,,: 1705, 
+760,730,685 cm-'; 'H rmn (CC4) 6: 11, l (s, lH), 7,O-7.6 (m, 5H), 
+5,5-5,8 (rn, lH), 2,8-3,4 (rn, 3H), 1,2-2,3 ppm (m, 8H). Anal. 
+calc. pour CISHZ802Se: C 58,27%, H 5,87%; t;ouvC: C 58,11%, H 
+5,7876. 
+
+Finalement, l'oxydation (14) de 10 a fourni I'a-rnCthy-
+
+Lacrone de /'acide 3-phenylsPlkno-2-(cis-2'-hydroxycyclohexyl)-
+
+lkne-y-lactone 4 avec un rendement de 81%. 
+
+propanoi'que 10 
+
+En ce moment, nous sommes en train d'appliquer une vari-
+
+On traite I'acide 9 (0,124 g, 0,4 mrnol) par de I'acide phosphorique 
+
+ante de la sequence rkactionnelle dCcrite ici aux synthkses du 
+
+(0,5 g) pendant 6 h a 110°C. Le melange rtactionnel est additionnC 
+
+Frullanolide et de 1'Arbusculine B. 
+
+d'eau (5 rnL) et la solution aqueuse est extraite par CHCI,. Par chro-
+
+Can. J. Chem. Downloaded from www.nrcresearchpress.com by 87.160.185.190 on 03/27/14 
+
+For personal use only. 
+
+
+3218 
+
+CAN. J. CHEM. VOL. 63, 1985 
+
+matographie sur gel de silice (par Clution au mClange hexane-benzirne 
+
+d e Amparo a Pesquisa d o Estado de S . Paulo) d e l'aide 
+
+-acCtate d'Cthyle, 5: 3 :2) on isole la lactone 10, qui ne cristallise pas 
+financikre accordee. 
+et qui est donc distillCe sous vide (tube a boules).-Rendement: 0,061 
+g (50%); p.e. 125"C/0,005 Tom; ir (film) v,,,,,: 1770, 740, 690 cm-I; 
+1. T. K. DEVON et A. I. SCOTT. Hand-book of naturally occurring 
+'H rmn (CCI,) 6: 7.0-7,7 (m, 5H), 4,2-4,5 (m, IH), 1,O-3,l ppm 
+compounds. Vol. 2. Academic Press, New York. 1972. 
+(m, 12H). Anal. calc. pour C15H180ZSe: C 58,27%, H 5,87%; trouvk: 
+2. C. H. 
+et 
+BiOchem. B i o ~h ~s . 
+
+Actal 
+2763 
+
+94 
+C 58,50%, H 5,69%. 
+3. G. W. PEROLD, J. C. MULLER et G. OURISSON. Tetrahedron, 28, 
+5797 (19721. 
+Lactone de l'acide 2-(cis-2'-hydroxycyclohexy1)-propknofque 4 
+Une solution de la lactone 10 (0,05 g, 0,16 rnmol) et de l'acide 
+
+acCtique (0,03 mL) dans le THF (I mL) est traitCe par HZOz i 30% 
+
+(0,15 mL) pendant 30 min a 0°C. Le mClange rkactionnel est addi-
+tionnC d'une solution saturCe de NaHCO? (3 mL) et extrait par I'tther. 
+La solution est lavCe i I'eau, puis par une solution saturCe de NaCl et 
+enfin sechCe sur NaZSO,. Le rtsidu obtenu aprks I'Cvaporation du 
+solvant est chrornatographiC sur gel de silice (CluC par le rnClange 
+hexane -acCtate dlCthyle 1 : 1). Rendement: 0,02 g (8 1 %). Les spec-
+tres de 'H rmn et de ir sont identiques a ceux d'un Cchantillon prepark 
+par une rnCthode diff6rente (15). 
+
+Remerciements 
+
+Nous remercions le CNPq (Conselho Nacional d e Desen-
+
+volvimento Cientifico e Tecnol6gico) et la FAPESP (Fundaqio 
+
+4. M. A: IRWIN et T. A. GEISSMAN. Phytochemistry, 8, 2411 
+(1969). 
+5. N. PETRAGNANI et H. M. C. FERRAZ. Synthesis, 476 (1978). 
+6. J . KLEIN. J. Am. Chern. Soc. 81, 361 1 (1959). 
+7. D. L. J. CLIVE. Tetrahedron, 34, 1049 (1978). 
+8. D. LIOTTA. ACC. Chern. Res. 17, 28 (1984). 
+9. K. C. NICOLAOU et al. J. Am. Chem. Soc. 101, 3884 (1979). 
+10. N. PETRAGNANI, H. M. C. F E R R A Z ~~ 
+M. YONASHIRO. Synthesis, 
+27 (1985). 
+11. W. S. WADSWORTH et W. D. EMMONS. J. Am. Chem. Soc. 83, 
+1733 (1961). 
+12. E. SCHWENK et D. PAPA. J. Am. Chern. Soc. 67, 1432 (1945). 
+13. S. RAUCHER, K. J. HWANG et J. E. MACDONALD. Tetrahedron 
+Lett. 3057 (1979). 
+14. P. A. GRIECO et M. MIYASHITA. Tetrahedron Lett. 1869 (1974). 
+15. P. A. GRIECO et M. MIYASHITA. J. Org. Chem. 39, 120 (1974). 
+
+Can. J. Chem. Downloaded from www.nrcresearchpress.com by 87.160.185.190 on 03/27/14 
+
+For personal use only. 
+
+
+
+	
+

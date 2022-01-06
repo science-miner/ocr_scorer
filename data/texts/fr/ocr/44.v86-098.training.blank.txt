@@ -1,0 +1,755 @@
+
+	
+
+		
+
+	
+
+	
+
+Proprietes de solvation des solutions concentrees en acide phosphorique 
+
+C. LOUIS ET J. BESSI~RE 
+l ~b o r a t o i r e de chirnie et d'electrochimie analytique, FacultP des sciences, UniversitP de Nancy I , B.P. 239, 
+
+54506 Vandoeuvre Les Nancy CEDEX, France 
+Requ le 10 avril 1985 
+
+C. LOUIS et J. BESSI~RE. Can. J. Chem. 64, 608 (1 986). 
+Les variations de solvatation d'espkces en solution dans les milieux H20-H3P04 (1-14 M) sont caractCristes par des 
+
+coefficients d'activitC de transfert de solvatation f. Ils sont calculCs a partir des valeurs de potentiels normaux de systkmes redox 
+
+ou de mesures de solubilite. Leur analyse met en evidence une augmentation de la solvatation des anions et une desolvatation 
+des cations lorsque la concentration d'acide croit. L'amplitude de la variation depend du nombre de charges portees par I'espkce 
+considCrCe, de la presence d'atomes d'oxygkne dans sa structure, de son caractkre basique. Les consequences des variations 
+de solvatation sur les reactions d'oxydo-reduction et de precipitation sont analysees. 
+
+C. LOUIS and J. BESSI~RE. Can. J. Chem. 64, 608 (1986). 
+~olvatibn properties of ions in H20-H3P04 media (1 -14 M) are characterized with their solvation transfer activity coefficients 
+
+f. These are calculated from normal potential or solubility values, and indicate an increasing solvation for anions and decreasing 
+
+solvation for cations in concentrated acid solutions. For each species, the range depends on its number of charges, on the 
+existence of oxygen atoms in its structure, and on its basic properties. The consequences of variation of solvation on oxidation-
+reduction reactions and solubility properties are studied. 
+
+Les variations avec la teneur en acide de la rCactivitC de 
+
+vue thermodynamique a partir des variations de solvatation des 
+
+solutCs dans les milieux eau -acide phosphorique ont CtC 
+espkces mises en jeu. Celles-ci sont caractCrisCes par des 
+CtudiCes dans le cas de rCactions d'oxydo-rkduction et de 
+
+coefficients d'activitt de transfert de solvatation f. 
+
+prkcipitation (1,2). Elles peuvent &amp;tre interprCttes d'un point de 
+
+Rappel theorique 
+Les coefficients dlactivitC d'anions et de cations sont calculCs a partir des potentiels normaux de systkmes redox les mettant en jeu 
+
+d'aprks les relations: 
+
+[l] systkme Mn+/M, 
+log fM,+ = n ( ~&amp; ~-~~~~4 
+-~@ ~) / 0 , 0 5 9 
+
+[2] systkme Mn+/M(n-m)+ 
+log fM("-,,,)+ = m ( ~&amp; ~-~~~~4 
+-~&amp; ~) / 0 , 0 5 9 
+
+[3] systkme M O , " + / M O ~+ ~( ~-~) -~] + log f ~~~~+ / f ~~[ ; + 2 ( ~-~) -, , ~+ 
+= m ( ~[ ~~-~3 ~~~ 
+
+-E P O )/0,059 + 2(p -q)Ro(H) 
+
++ (P -4) 1% aH20 
+
+[4] systkme AX,/A, 
+
+log fx-= ( E! , 
+
+' 
+-~&amp; O -~3 ~~~) / 0 , 0 5 9 
+
+ou E P ~-~~* J 
+
+reprCsente le potentiel normal du systeme redox dans le milieu phosphorique exprim6 par rapport au systkme de 
+comparaison femciniumlferrockne (Fc+/Fc) et E P O son potentiel normal dans l'eau; Ro (H) est la fonction d'aciditt du milieu 
+phosphorique (1) et UH,O son activitC en eau. 
+
+11s sont dans certains cas calculCs a partir de valeurs de 
+produits de solubilitC d'aprks la relation: 
+
+ou p@0-H~*4 
+reprksente le produit de solubilitC du composC 
+MX dans le milieu phosphorique et p e O son produit de solu-
+bilitC dans I'eau. La dktermination de la solubilite de phosphate, 
+par exemple XHP04, permet Cgalement le calcul des coeffi-
+cients dlactivitC selon des relations analogues a: 
+
+[6] log fX2+ = RO(~P042-) -p ~F O 
+
+-log [X2+] 
+
+ou R ~( H P O ~~-) 
+
+caractkrise le pouvoir donneur de H P O ~~-du 
+
+milieu et p c U est le produit de solubiliti dans l'eau. 
+
+Resultats et discussion 
+
+L'Ctude de l'evolution des propriCtCs d'oxydo-riduction et de 
+solubilitC dans les milieux H20-H3P04 (2) conduit aux valeurs 
+
+'Revision requ le 13 novembre 1985. 
+
+de log f ou de log f,,/f,,, 
+rassemblkes dans le tableau 1 er repr6 
+senties par les figures 1 et 2. 
+
+1. Variation de solvatation de cations 
+Les cations Ag', 
+Cu2+, pb2+, Sn2+, z n 2 + , c d 2 + 
+sont caractCrisCs par des valeurs positives et croissantes des 
+logarithmes des coefficients d'activitC avec la concentration 
+d'acide. 11s sont donc de moins en moins solvates lorsque la 
+concentration d'acide augmente. Pour une concentration 
+donnCe en acide, les valeurs de log fM,+ dCpendent de la charge 
+de l'ion. Ainsi, les variations de log fAg+ sont moins importantes 
+que celles observees pour l'ensemble des cations divalents: 
+
+1'Ccart est de 3 unites lorsque l'on passe du milieu 2 M au 
+milieu 11,5 M alors qu'il est de 7 unit&amp; au minimum pour 
+
+un cation divalent. Elles sont du mCme ordre de grandeur que 
+celles de log fFe3+/fFe2+ et log fv3+lfv2+ qui correspondent a des 
+systkmes mettant en jeu une seule charge et n'impliquant I'oxy-
+gkne. Les valeurs log fCu2+ et log fSn2+ sont nkgatives dans les 
+milieux peu concentrCs en acide phosphorique, de mCme que 
+Can. J. Chem. Downloaded from www.nrcresearchpress.com by 87.160.185.190 on 03/27/14 
+
+For personal use only. 
+
+
+LOUIS ET BESSIERE 
+
+TABLEAU 1. Variation des coefficients d'activitC d'espkces ioniques avec la concentration d'acide 
+
+H3P04 ( M I 
+
+2,O 
+5,s 
+8 ,O 
+11,s 
+14,O 
+
+les valeurs log fFe3+/fFe2+ dans tout le domaine de concentration 
+de H3PO4. Les espkces c u 2 + , Sn2+, Fe3+ sont donc plus sol-
+vattes dans les milieux phosphoriques correspondants que dans 
+l'eau. Dans la mesure ou les systkmes considtrts dans le solvant 
+de rtftrence ne font pas intervenir les phtnomknes de complexa-
+tion, on devait s'attendre, pour les solutions dilutes en acide, 
+a des valeurs nCgatives de log fFe3+ et dans un moindre mesure 
+de log fCU2+, la complexation en solution dilute ttant assimi-
+lable 5 un accroissement de solvatation. Une augmentation de 
+la concentration de H3PO4 entralne pour ces espkces une dt-
+complexation (ou une diminution de solvatation), ce qui accroit 
+leur rtactivitt. Ainsi, le pouvoir oxydant de Fe(II1) est, en 
+milieu 14 M, voisin de celui qu'il a dans l'eau en milieu non 
+complexant (log fFe3+/fFe?+ = -0,2). Les ions c d 2 + et zn2+, 
+qui ne donnent pas de complexe en solution aqueuse dilute en 
+acide, sont caracttrists par des valeurs log fCd2+ et log fin?+ 
+positives dans le milieu de concentration 2 M en H3PO4. Ces 
+ions sont dtja moins solvatts dans ce milieu que dans l'eau 
+en milieu non complexant. Le terme log fMn+ integre donc les 
+phtnomknes de complexation qui peuvent avoir lieu en solution 
+dilute, les notions de complexation et de solvatation dans de 
+tels milieux ttant confondues. Parmi les cations divalent, Cu2+, 
+pb2+, Hg22+ se desolvatent moins vite que Zn2+ et cd2+. Or, 
+
+, 
+
+en milieu phosphorique, les espkces Pb2+ et Hg22+ donnent des 
+composts insolubles avec les anions de l'acide, ce qui traduit 
+une forte affinite. D'autre part, dans l'eau la stabilitt des phos-
+phates de cuivre et de plomb est suptrieure a celle des phos-
+phates de zinc et de cadmium: Pb3(P04)2, pKs = 4 3 3 ; 
+Cu3(P04)2, pKS = 3 6 9 ; Zn3(P04)2, pK5 = 32,O; Cd3(P04)2, 
+pKs = 32,6 (3). La desolvatation des ions semble donc d'autant 
+plus aiste qu'ils donnent des complexes moins stables avec les 
+espkces phosphate. Les valeurs de pK, de Ba3(P04)2 et 
+Ca3(P04)* sont respectivement de 29,3 et 26 (4) et les coeffi-
+cients d'activitt qui peuvent Ctre calcults pour les cations Ba2+ 
+
+et Ca2+ caracttrisent une dtsolvatation comparable a celle de 
+Zn2+. 
+Lorsque 1' 011 compare les systemes U O ~~+ / U ~+ , 
+
+vo2+ / V O ~+ , 
+
+V O ~+ / V ~+ , 
+H3As04/AsOf, l'effet de l'aciditt est le mCme 
+pour les trois premiers: deux protons mis en jeu pour un 
+tlectron. 11 est moins prononct pour le demier: trois protons 
+pour deux tlectrons et c'est dans tous les cas la forme rtduite 
+qui est la plus chargte. C'est donc la dtsolvatation de cette 
+espkce qui est prtdominante. En effet, la quantitt log fox/f,ed est 
+dtcroissante et sa variation est d'autant plus importante que 
+l'tcart entre le nombre des charges porttes par la forme oxydte 
+et la forme rtduite est grand: elle est de 14 unitts pour log 
+fUO22+lfU4+ et de 8 et 5 unitts pour log fvo:lfvo2+ 
+et log 
+
+fV02+lfV3+ 
+
+lorsque l'on passe du milieu 2 M au milieu 14 M 
+
+en H3P04. Contrairement a ce qui a t t t observe pour les systkmes 
+Fe3 + /Fe2 + et v3+/v2+, log fox$,, est positif dans les milieux di-
+luts en acide pour les trois systkmes Uoz2+ /U4+, V O ~+ / V O ~+ , 
+
+v02+ /v3+ ainsi que pour H3As04/AsO+. Ceci signifie que ce 
+
+sont les formes rtduites qui sont initialement les plus fortement 
+assocites aux anions du solvant. Dans les milieux plus concen-
+trts en acide ou log fox/fred est ntgatif, les termes de solvata-
+tion d'une part, d'aciditt et d'activitt de l'eau d'autre part, 
+jouent un r61e antagoniste dans la variation du potentiel normal 
+apparent des systkmes, mais la solvatation ne compense que 
+partiellement l'influence de l'aciditt et de l'activitt de l'eau. 
+Le nombre des charges porttes par les formes oxydtes et 
+rtduites ne joue pas seul. La prtsence d'oxygkne dans l'un ou 
+l'autre des cations mis en jeu dans le systeme redox intervient 
+tgalement. Les deux systkmes U O ~~+ / U ~+ 
+et v 0 2 + / v 3 + prt-
+sentent une certaine analogie: les formes oxydtes comportent 
+des atomes d'oxygkne, les formes rtduites n'en comportent pas. 
+Seul, les distingue le nombre des charges porttes par les formes 
+rtduites et on observe que la variation de log fU022+lfU~-+ est 
+deux fois plus importante que celle de log fV02+lfV3+; les varia-
+Can. J. Chem. Downloaded from www.nrcresearchpress.com by 87.160.185.190 on 03/27/14 
+
+For personal use only. 
+
+
+CAN. I. CHEM. VOL. 64, 1986 
+
+FIG. 1. CaractCristiques de solvatation des esptces en solution dans les milieux H20-H3P04. 
+
+tions des potentiels normaux apparents de ces deux systemes 
+de charge serait donc plus important pour les systemes enga-
+sont tres voisines. La cornparaison des systernes v O ~+ / V O ~+ geant deux especes oxygCnCes. 
+et Fe3+/~e2+ ou v3+/V2+, pour lesquels le nombre de charges 
+Cchangtes est le m&amp;me mais dont le premier seul met en jeu 
+2 . Variation de solvatation des anions 
+des espkces avec atome d'oxygene, montre que la variation de 
+La solvatation des anions croit avec la concentration de 
+solvatation est deux fois plus grande dans le premier cas. L'effet 
+l'acide et sa variation est d'autant plus importante que les 
+Can. J. Chem. Downloaded from www.nrcresearchpress.com by 87.160.185.190 on 03/27/14 
+
+For personal use only. 
+
+
+FIG. 2. Caractkristiques de solvatation dans les milieux H20-H3P04 des especes rnises en jeu dans les systernes de l'argent, du fer, de l'uranium, 
+
+du vanadium, de l'arsenic et des hexacyanoferrate. 
+
+anions sont plus basiques. L'ttude de la variation de la fonction 
+Ho par la dttermination de la modification de la protonation 
+de l'indicateur de Hammett: 4-chloro-2-nitroaniline (pKHzO = 
+-0,9), lors de l'addition au milieu H3PO4 5,5 M de Cl-, NO3-, 
+s ~F , 
+
+la concentration de 0,5 M, montre que ces 
+
+anions sont dCpourvus de proprittb basiques et que l'addition 
+des acides conjuguts se traduit par une augmentation du niveau 
+d'aciditt. Au contraire, les ions F et ~0 ~~-
+basiques dans l'eau 
+
+(p~B$? = 3,2, p~B%4-= 1,9) prtsentent des caracttristiques 
+
+de basicit6 dans les milieux H20-H3P04 et l'addition des acides 
+conjuguts ne modifie pas le niveau d'aciditt de ces milieux. 
+Les anions C1-, Br-, I-ont un comportement voisin, l'effet 
+de taille reste minime. Leur accroissement de solvatation est 
+faible comparativement i celui de l'ion F dont les proprittts 
+basiques expliquent que log f est trois fois plus tlevt que celui 
+des autres halogenures. Le coefficient d'activitt des sulfates est 
+sup6rieur au double de celui des chlorures depourvus de basicitt 
+et i celui des fluorures. Ceci met en tvidence l'intervention dans 
+
+les caracttristiques de solvatation des anions de leur caractkre 
+basique et du nombre de charges qu'ils portent. De la mCme 
+manikre, les ions hexacyanoferrate(III), F e ( c ~) ~&gt; , 
+dtpourvus 
+de proprittts basiques dans l'eau, ont des coefficients d'activitt 
+environ deux fois plus ClevCs que ceux des halogtnures sans 
+proprittts basiques dans l'eau. Au contraire, les hexacyano-
+ferrate(II), F ~( c N ) ~~-, 
+basiques dans I'eau p~ p&amp;N)6H22-= 3, 
+
+p~F$N)6H3-= 4,2), ont des coefficients d'activitt Clevis et qui 
+
+augmentent rapidement avec la concentration de l'acide. 
+La rtactivitt des anions du solvant est caracttriste par les 
+fonctions Ro(H2P04-), Ro(HPo4"), R ~( P O ~~-) 
+(1). L'tvolu-
+tion des propriCtts de solvatation d'une espkce en solution 
+caracttriste par la variation de son coefficient d'activitt se 
+traduit par la modification de sa rtactivitt vis-i-vis des autres 
+espbcei prtsentes (ions du solvant ou solutts). Nous allons 
+Ctudier les constquences des phtnomknes de solvatation dans le 
+cas des rtactions d'oxydo-rtduction et de formation de com-
+posts insolubles. 
+Can. J. Chem. Downloaded from www.nrcresearchpress.com by 87.160.185.190 on 03/27/14 
+
+For personal use only. 
+
+
+612 
+
+CAN. 1. CHEM. VOL. 64, 1986 
+
+3. PhtnomZnes de solvatation et re'actions d'oxydo-rtduction 
+Le diagramme potentiel -niveau d'aciditt (2) est une traduc-
+tion graphique des phCnomknes de solvatation dans la mesure ou 
+la plupart des donnCes concemant les coefficients d'activitC ont 
+
+Ctt obtenues a partir de determinations Clectrochimiques. 11 rend 
+
+compte de l'effet du niveau dlaciditC, de l'activitt de l'eau et de 
+la solvatation relative des oxydants et des rCducteurs conjuguCs 
+sur la rCactivitC des espkces et permet de prCvoir les rkactions 
+d'oxydo-reduction dans les milieux H20-H3P04. Parmi les 
+systkmes redox envisages, trois groupes se dessinent: ( i ) les 
+systkmes dont le potentiel varie fortement avec la teneur en 
+acide. 11s engagent formellement deux protons pour un Clectron 
+CchangC ( ~0 2 ~' 
+/U4+, ~0 2 ' 
+/ v o 2 + , V02+ /V3+) et 1'Cvolution 
+est plus marquee pour les couples mettant en jeu une particule 
+oxygknte. Les systkmes dont la forme rCduite prksente des 
+propriCtCs basiques entrent Cgalement dans cette catCgorie 
+(F~(CN)~%/F~(CN),&amp;). ( i i ) Les systkmes dont le potentiel 
+redox varie peu avec la teneur en acide: Fc+/Fc et a un rnoindre 
+degrC 13-/I-. (iii) Les systkmes intermkdiaires: d'une manikre 
+gCnCrale, leur pouvoir oxydant Cvolue dans le m&amp;me sens. 
+Cependant, les couples pour lesquels la rCactivitk du proton 
+intervient seule prksentent une variation de leurs propriCtCs 
+d'oxydo-rCduction plus importante. Ainsi, le pouvoir rkducteur 
+de l'hydrogkne et de l'hydroquinone Cvolue plus vite que celui 
+des mCtaux seuls ou en prtsence d'anions. Lorsque les systkmes 
+font intewenir le proton et des espkces ioniques ou molCculaires 
+
+(H2S03/H2S02, H3As04/AsOf) I'effet dii a I'aciditk peut &amp;tre 
+
+limit6 par les termes log fox/fred et le pouvoir rCducteur de ces 
+composks varie alors moins vite que celui des mCtaux. Les 
+termes log fo,lfred peuvent se compenser en partie lorsque deux 
+systkrnes appartenant au mCme type et faisant intervenir le 
+m&amp;me nombre d'klectrons sont en presence, alors qu'ils peuvent 
+s'ajouter lorsque les deux systkmes appartiennent a des types 
+diffkrents comme ~e ~+ / ~e ~+ 
+et u O ~~+ / U ~+ . 
+
+4 . Ph6nomZnes de solvatation et re'actions de pre'cipitation 
+4.1 Formation de compose's insolubles n'engageant pas les 
+phosphates 
+La comparaison des valeurs log fMn+ et log fxn-permet 
+de prCvoir 1'Cvolution de la solubilitt des sels MX avec la 
+teneur en acide. Cependant, la solubilitC rCelle diffkre de la 
+quantitC calculte si il se forme des espkces solubles MX ou 
+MX%-m)-. 
+D'une manikre generale, il y a compensation partielle des 
+effets de changement de milieu sur l'anion et sur le cation. Les 
+pKs de quelques composCs calculCs d'aprks la relation [5] sont 
+prCsentCs dans le tableau 2. Lorsque l'anion est, comme C1-, 
+dCpouwu de propriCtCs basiques, l'effet de cation peut l'empor-
+ter sur I'effet d'anion. Ainsi, AgCl est plus stable en milieu 
+H3PO4 14 M que dans l'eau. I1 en est de m&amp;me pour PbC12 et 
+Hg2C12. Des rksultats analogues seraient obtenus pour les 
+bromures et les iodures puisque log f,, et logfi-sont trks peu 
+differents de log fc,-. Dans le cas de PbS04, l'effet d'anion 
+I'emporte sur l'effet de cation mais l'kcart reste pratiquement 
+constant dans tout le domaine de concentration; la solubilite de 
+PbS04 varie donc peu avec la teneur en acide. 
+La prCsence d'acide peut modifier nettement la stabilite de 
+sels engageant des cations dont la variation de solvatation se fait 
+diffkremment. Ainsi, les hexacyanoferrates(I1) de cuivre, de 
+zinc et de cadmium, dont la stabilitk est voisine dans l'eau, ont 
+des caracttristiques de dissolution diff6rentes en milieu H3PO4 
+2 et 5,5 M. Cu2+ et pb2+ se desolvatent moins vite que Cd2+ et 
+zn2+; l'effet d'anion est donc plus marquC dans le cas des sels de 
+
+TABLEAU 2. Effet de la concentration de H3PO4 sur la solubilitC de 
+quelques composCs 
+
+H3PO4 ( M ) 
+
+PKS 
+H20 
+2,O 
+
+5,5 
+8,O 
+
+11,5 
+
+14,O 
+
+AgCl 
+PbC12 
+Hg2C12 
+PbS04 
+Pb2[Fe(CNI6I 
+Cd2[Fe(CNI6I 
+Cuz[Fe(CN),I 
+Zn2[Fe(CN)61 
+logfCd~+lfCu2+ 
+logf~n2+lf~u2+ 
+
+cuivre et de plomb que dans celui des sels de zinc et de 
+cadmium. En milieu H3PO4 5,5 M, la stabilitt du sel de 
+cadmium est plus grande que dans l'eau bien que l'espkce 
+Fe(CN)6&amp; soit fortement solvatte en raison de sa basicitt. Une 
+inversion entre la stabilitt dans l'eau et dans les milieux 
+phosphoriques peut intewenir pour les sels engageant le m&amp;me 
+anion et les cations Mnf et N"' lorsque la difference de leur pKs 
+
+dans l'eau est infkrieure a log fMn+/fNn+. Ainsi, l'iodate de 
+
+cuivre (p@O = 7,1), qui est plus stable dans l'eau que l'iodate 
+de zinc 
+= 5,4) est moins stable que ce demier en milieu 
+acide. 
+Les rkactions de precipitation engageant des anions peu 
+basiques comme les halogCnures ou les iodates sont favoriskes 
+dans les milieux concentres en acide. Lorsque les anions sont 
+basiques, l'effet de cation peut compenser dans certains cas 
+l'accroissement de solvatation de l'anion. Mais de nombreuses 
+espkces minerales qui precipitent dans l'eau sont solubles en 
+milieu acide phosphorique. L'Climination d'une espkce par 
+precipitation ou son dosage par formation d'un compost5 peu 
+soluble seront donc plus difficiles. 
+
+4.2 Pre'cipitation des phosphates 
+Phosphates de plomb 
+Lors de l'ttude des systkmes mettant en jeu le plornb, nous 
+avons dCterminC la solubilitt des phosphates de plomb PbHP04 
+
+dans les milieux de concentration infkrieure a 8 M et du 
+
+Pb(H2P04)2 dans les milieux plus concentrCs. Puisque les 
+fonctions basiques ont kt6 evaluees independamment a partir 
+des systkmes redox Hg2HP04/Hg et BiPOdBi, nous avons 
+comparC (tableau 3) les valeurs expkrimentales de solubilitk du 
+
+plomb a celles calculCes a partir de relations analogues a [6] 
+
+avec P ~~H P O , ) 
+= 9,9 et P ~; $ ~, ~P O ~) ~) 
+= 42,I. 
+I1 y a donc une concordance satisfaisante en ce qui conceme 
+les limites des domaines de prkcipitation des diffkrents phos-
+phates. Pb3(P04)2 est soluble m&amp;me pour de faibles concentra-
+tions de H3PO4. PbHP04 precipite jusqu'a une concentration 
+d'acide de 8 M. Dans les milieux plus concentres, c'est 
+Pb(H2P04) qui est insoluble. 
+Phosphates d'argent 
+L'ttude de la solubilitC des phosphates d'argent dans les 
+milieux H20-H3P04 (5) montre que Ag3P04 precipite pour des 
+concentrations d'acide infirieures a 4 M, Ag2HP04 pour des 
+concentrations d'acide allant jusqu'a 9,5 M et que AgH2P04 est 
+insoluble dans les milieux plus concentrks. La solubilitC de 
+l'argent peut &amp;tre calculee B partir du coefficient d'activitk du 
+
+Can. J. Chem. Downloaded from www.nrcresearchpress.com by 87.160.185.190 on 03/27/14 
+
+For personal use only. 
+
+
+LOUIS ET BESSIERE 
+
+TABLEAU 3. Solubilit6 des phosphates de plomb dans les milieux H20-H3P04 
+
+2,O 
+9,4 
+1,3 
+
+1.6 x lo-' 
+4 x 10-~ 
+
+5,5 
+12,2 
+3,4 
+8 X lo-' 
+6 X 
+8,O 
+14,8 
+5,8 
+0,l 
+
+7 x lo-3 
+
+1 1 3 
+18,9 
+8,7 
+2 
+
+Pb(HzP04)z insoluble 
+PbHP04 soluble 
+
+2,o 
+22,4 
+1,3 
+0,4 
+
+PbHP04 insoluble 
+
+5.5 
+26,8 
+3,4 
+2,7 
+
+Pb3(P04)2 soluble 
+
+"Valeurs calculies. 
+bValeurs expirimentales 
+
+cation Ag+ et de la fonction Ro(P043-) pour les faibles 
+concentrations de H3P04, ou Ag3P04 seul se forme, d'aprks la 
+relation [6] ou p@o = 20,83 (6). Les valeurs calcultes et les 
+rtsultats exptrimentaux sont prtsentts dans le tableau 4. 
+Dans le domaine de concentration ou la forme insoluble est 
+Ag3P04, les valeurs de solubilitt exptrimentales et calcultes 
+sont concordantes. La valeur tlevte de 1,9 calculte en milieu 
+5,5 M est cohtrente avec le fait qu'a cette concentration d'acide, 
+il a t t t montrt que la forme insoluble est Ag2HP04. 
+Phosphates de baryum et de calcium 
+
+TABLEAU 4. SolubilitL des phosphates d'argent dans les milieux H20-
+H3P04 
+
+-
+
+1 ,o 
+20,8 
+0 2 
+0,6 
+0,2 
+2,o 
+22,4 
+0,7 
+0,6 
+3 8 
+23,4 
+0,9 
+0,9 
+4 8 
+24,8 
+1,2 
+
+1,3 
+
+0,7 Ag3P04 soluble 
+
+5 s 
+26,8 
+1,6 
+1,9 
+
+Ag2HP04 insoluble 
+Les rtsultats des ttudes de solubilitt des phosphates de 
+
+oValeurs calcultes, 
+
+baryum (6-9) et de calcium (10, 1 1) dans les milieux phosphori-
+
+bvaleurs 
+
+exptrimentales (5), 
+
+ques nous ont permis de calculer les coefficients d'activitt de 
+~a ~+ 
+et Ca2+ qui n'avaient pu Ctre dttermints autrement. Les 
+coefficients d'activitt du cation Ba2+ sont calcults d'aprks la 
+Phosphates d'uranium 
+relation [6] oh p@-o = 7,6 (4) pour des concentrations d'acide 
+L'ttude de la solubilitt des phosphates dluranium(IV) en 
+de 3 M. Au dela de cette concentration c'est la forme 
+milieu phosphorique (12, 13) montre que, pour les concentra-
+Ba(H2P04)2 qui prtcipite; log fBaZ+ est alors calcult d'apres la 
+tions d'acide inftrieures a 9 M, la forme insoluble est 
+relation 
+U(HP04)2.6H20, et pour les concentrations plus tlevtes, 
+c'est U ( H P O ~) ~H ~P O ~~H ~O 
+qui prtcipite. En admettant que les 
+
+solubilitts des phosphates d'uranium(1V) ont t t t dttermintes a 
+
+Comme pf@o n'est pas connu, c'est la variation de log fBa2+ 
+l'tquilibre et $ue -1es "gels" qui se foment peuvent 6tre 
+
+que nous avons calculte a 
+
+de la limite de la zone de 
+considtrts comme des solides de structure dtfinie et conbtante, 
+concentration d'acide oh la fome insoluble est BaHPO, (3 M) 
+leS coefficients d'activitt de I'espkce U4+ peUVent Ctre calcul6~ 
+jusqu'a une concentration d'acide de 13 M. 
+d'aprks la relation: 
+Pour les concentrations de H3P04 inftrieures a 3,8 M, 
+CaHP04 est insoluble. La relation utiliste est analogue a [6] 
+avec p@-O = 7,O (4). Pour des concentrations plus tlevCes 
+d'acide, Ca(H2P04)2.H20 prtcipite. La relation: 
+
+-log [ca2+1 -log aH20 
+
+conduit au calcul de la variation de log fca2+. 
+Les valeurs de log fBa2+ et log fca2+ sont rassembltes dans le 
+tableau 5. Les cations Ba2+ et c a 2 + ont des caracttristiques de 
+
+solvatation analogues i celles dttermintes pour les autres 
+
+cations divalents; ils sont voisins de Zn2+, sn2+, Cd2+, 
+c'est-a-dire de ceux qui se dtsolvatent le plus. Ceci est en accord 
+avec la stabilitt dans I'eau plus faible de Ba3(P04)2 et de 
+Ca3(P04), et avec le fait que le sulfate de baryurn est stable 
+mCme dans les milieux concentrts en acide: le renforcement de 
+solvatation de l'anion est cornpenst par la dtsolvatation 
+importante du cation. 
+
+[9] log fu4+ = -pKF?O + 2 R ~( H P O ~~-) 
+
+-6 log aHIo -log [U4+] 
+
+avec p@o = 27,5 (12) en se lirnitant au domaine de 
+concentration 2-8,8 M en H3PO4 ou le solide est toujours 
+
+U(HP04)2.6H20 et la solubilitt de u4+ est inftrieure a 0,5 M. 
+
+Des valeurs de log fuo22+ peuvent en Ctre dtduites puisque log 
+fuoz2+/fu4+ a t t t dttermint par une autre voie (tableau 1). Les 
+rtsultats sont rassemblts dans le tableau 6. Pour les milieux de 
+concentration d'acide inftrieure a 4 M, la structure du phos-
+phate d'uranium(V1) insoluble est U02(HP04)-4H20; dans les 
+milieux plus concentrts, elle est U02(H2P04)2.3H20 (14). La 
+solubilitt des phosphates dluraniurn(VI) est beaucoup plus 
+tlevte que celle des phosphates d'uranium(1V): elle n'est inft-
+rieure a 0,5 ion g/L que pour des concentrations d'acide allant 
+jusqu'a 2,5 M. Le dornaine de concentration d'acide ou il est 
+possible de calculer a la fois log fUO22+ et log fU4+ a partir des 
+solubilitts des phosphates de U(V1) et U(1V) est donc trks 
+Can. J. Chem. Downloaded from www.nrcresearchpress.com by 87.160.185.190 on 03/27/14 
+
+For personal use only. 
+
+
+CAN. J. CHEM. VOL. 64, 1986 
+
+TABLEAU 5. Coefficients d'activite des cations ~a~~ Ca2+ en fonction de la concentration de H3P04; 
+
+valeurs calculCes 
+
+TABLEAU 6. Coefficients d'activite des espkces UOZ2+ et U4+ calculCs a partir de la solubilitC de U(HP04)2.6H20 
+
+"D'aprhs rkf. 12. 
+bD'aprhs rkf. 1. 
+'DJaprhs le tableau 1 
+
+TABLEAU 7. Coefficients d'activite de I1esp&amp;ce ~0~~~ calcules A partir 
+
+de la solubilite de U02(HP04).4H20 
+
+H3P04 
+(M) 
+
+[ U O ~~' la 
+
+RO ( H P O ~~-) ~ log ~H , O 
+logf~0,zt 
+
+"D'aprhs rtf. 14. 
+b~'aprhs rkf. 1. 
+
+restreint. Nous donnons dans le tableau 7 les valeurs du 
+coefficient d'activitt de ~0 2 ~' 
+calcultes d'aprks la relation: 
+
+-4 log aH,o -log [ u O ~~+ ] 
+
+avec p e O = 10,7. 
+I1 semble donc que U4+ soit plus fortement solvatt dans les 
+milieux phosphoriques diluts que dans l'eau, puis se dtsolvate 
+trks rapidement lorsque la concentration d'acide augmente, ce 
+qui est conforme, en raison du nombre de charges porttes par 
+cette espkce, h l'analyse qui a ete faite. U 0 2 2 f a, dans le m&amp;me 
+domaine de concentration d'acide, des caracttristiques de 
+solvatation voisines de celles des cations divalents qui, comme 
+Sn2+ ou z n 2 + , se dtsolvatent le plus lorsque la concentration 
+d'acide augmente. 
+
+par leurs coefficients d'activitt de transfert de solvatation. Les 
+cations sont moins solvatts lorsque la concentration d'acide 
+augmente tandis que la solvatation des anions est renforcee. 
+Pour une espkce donnte, l'amplitude de la variation de solvata-
+tion dtpend du nombre de charges, de la prtsence d'oxygkne 
+dans sa structure, de son caractkre basique. Les coefficients 
+d'activitt permettent d'interprtter ou de prtvoir les rtactions 
+d'oxydo-rtduction (diagramme potentiel -niveau d'aciditt), 
+l'tvolution des proprittts de solubilitt y compris celles des 
+phosphates. 11s devraient tgalement intewenir dans la prtvision 
+des rtactions mises en jeu dans les processus de stparation 
+comme l'extraction liquide-liquide et la flottation ionique. 
+
+1. C. LOUIS et J. BESSIBRE. Can. J. Chem. 63, 908 (1985). 
+2. C. LOUIS. Thkse de Doctorat d'Etat, Nancy, France. 1983. 
+3. G. CHARLOT. Les reactions chimiques en solution. L'analyse 
+
+qualitative minerale. Masson et Cie., Paris. 1969. pp. 287-298. 
+
+4. G. CHARLOT. L'analyse qualitative et les reactions en solution. 
+
+Masson et Cie., Paris. 1963. p. 210. 
+
+5. R. FLATT et G. BRUNIHOLZ. Helv. Chim. Acta, 34, 692 (1951). 
+6. N. A. TANANAEV et R. A. LOVI. J. Appl. Chem. USSR, 15,214 
+
+(1942). 
+
+7. H. V. TARTAR et J. R. LORAH. J. Am. Chem. Soc. 51, 1091 
+
+(1 929). 
+
+8. H. GUERIN et A. ARTUR. Bull. SOC. Chim. Fr. 562 (1952). 
+9. A. ARTUR. Ann. Chim. 10, 968 (1955). 
+10. K. L. ELMORE et T. D. FARR. Ind. Eng. Chem. 32,. 580 (1940). 
+11. A. P. BELOPOL'SKII, M. T. SEREBRENNIKOVA et A. V. BILEVICH. 
+
+J. Appl. Chem. USSR, 13, 3 (1940). 
+
+12. J. M. SCHREYER. United States Atomic Energy Commission, 
+Conclusion 
+
+ORNL 1747. 1 (1954). 
+
+13. J. M. SCHREYER. J. Am. Chem. Soc. 77, 2972 (1955). 
+Les variations de solvatation des espkces ioniques en solution 
+14. J. M. SCHREYER et C. F. BAES. J. Am. Chem. Soc. 76, 354 
+dans les milieux phosphoriques concentrts sont caracttristes 
+
+(1954). 
+
+Can. J. Chem. Downloaded from www.nrcresearchpress.com by 87.160.185.190 on 03/27/14 
+
+For personal use only. 
+
+
+
+	
+

@@ -1,0 +1,763 @@
+
+	
+
+		
+
+	
+
+	
+
+Influence de nitrates metalliques sur l'equilibre de dissociation ionique: 
+
+Nz04 NO+ + NOT dans le sulfolane 
+
+ABDELLATIF BOUGHRIET, MICHEL WARTEL' ET JEAN-CLAUDE FISCHER 
+
+Laboratoire de chimie analytique et marine, britiment C8, UniversitP de Lille, 59655 Villeneuve D'Ascq Ckdex, France 
+R e p le ler avril 1985 
+
+ABDELLATIF BOUGHRIET, MICHEL WARTEL et JEAN-CLAUDE FISCHER. Can. J. Chem. 64, 5 (1986). 
+Au cours de la nitration des noyaux aromatiques par le N2O4 en milieu aprotonique, la prtsence d'un nitrate mCtallique tel que 
+Zn(N03)2, C U ( N O ~) ~ 
+
+ou U02(N03)2, gCnkre l'espkce catalytique NO+ selon la rCaction N2O4 + M(N03)2 *NO+ + M(N03); 
+
+[I]. L'Ctude voltampCromCtrique de la rkduction de N2O4 en prCsence de nitrates mCtalliques M(N03)2 sur electrode de platine a 
+permis d'atteindre la valeur de la constante de 1'Cquilibre [I] et celle de la constante de stabilitC du complexe trinitrato form6 selon 
+
+M(NO3)2 + NO; a M(N03); [2] dans le sulfolane (M = Zn, Cu, U02). La forte stabilitC des complexes trinitrato M(N03); 
+
+est due aux propriCtCs peu solvatantes du solvant. Les comportements des ligands C1-et NO; Ctant trks voisins, cette hypothkse 
+est vCrifiCe par 1'Ctude de la stabilitC des complexes chlorozincates[II] (ZnC1:-' (i = 1, 2, 3, 4)) dans le sulfolane, par 
+voltampCromCtrie a courant nu1 sur Clectrode d'argent. 
+
+ABDELLATIF BOUGHRIET, MICHEL WARTEL, and JEAN-CLAUDE FISCHER. Can. J. Chem. 64, 5 (1986). 
+The addition of a metallic nitrate such as Zn(N03)2, Cu(N03)2, or U02(N03)2 to N204 solutions in aprotic media leads to the 
+
+reclaiming of the NO+ species (which is considered as a catalyst for the nitration of aromatics by N2O4) as follows: N2O4 + 
+
+M(N03)2 NO+ + M(N03); [I]. Using linear voltammetry, the study of the N2O4 reduction in the presence of metallic 
+
+nitrates with a platinum electrode has allowed us to derive the equilibrium constant for reaction [I] and that corresponding to the 
+
+formation of the trinitrato complexes in sulfolane according to: M(N03), + NO; M(N03); [2] (M = Zn, Cu, U02). The 
+
+strong stability of the M(N03); complexes is due to the weak solvating character of the sulfolane. This hypothesis is also 
+
+confirmed by the stability constants of zinc[II] chloride complexes: ZnCl?-' * ~n~1::; + C1-( i = 1,2, 3,4) in sulfolane from 
+
+a potentiometric study by means of a silver chloride -silver electrode. 
+
+Introduction 
+
+La nitration du naphtalkne par N2O4 en milieu aprotonique a 
+lieu selon un mecanisme faisant intervenir l'espkce catalytique 
+
+NO+ (1) provenant de la dissociation ionique de N2O4 selon 
+
+N204 NO+ + NO;. Cependant, la constante de dissociation 
+
+de N204 dans diffkrents solvants aprotoniques est faible (KhZo4 
+
+= 7 , l x lo-' mol dmp3 a 303 K dans le sulfolane (2), et Kh,04 
+
+= 6,3 x 10-lOmol dmp3 a 298 K dans le nitromethane (3a)). 
+
+Des composCs tels que les nitrates metalliques (U02(N03)2, 
+C U ( N O ~) ~ 
+et Zn(N03)2) dans des solvants peu solvatants 
+(favorisant les homoconjugaisons ou hCteroconjugaisons) favo-
+risent la dissociation ionique de N2O4 par formation de com-
+
+plexes nitrato M(NO,)?-' (i = I , 2 , 3, 4 et M = U02, Cu et 
+
+Zn). Afin de mieux connaitre le phknomene d'interaction entre 
+N2O4 et ces nitrates metalliques, nous avons CtudiC les constan-
+tes de stabilitk de ces complexes nitrato-metalliques: 
+
+[I] ~(N03)::i + NO; ~( ~0 3 ) : ~' 
+
+N'ayant pu integrer ces diffkrentes entites chimiques dans un 
+couple tlectrochimique, mais tgalement en raison de la faible 
+
+concentration des espkces M(N03)+, M' + et NO; en solution, 
+
+les constantes de stabilite des complexes M(NO3)2 et M(NO,)+ 
+n'ont pas pu &amp;tre dktennintes. NCanmoins, une etude voltam-
+ptromitrique sur electrode de platine poli des solutions des 
+derives oxygCnCs de l'azote (3) a montrk que le systkme 
+NO+/NO est rapide dans le sulfolane, ce qui nous a pennis 
+d'entreprendre 1'Ctude de la reaction entre N204 et M(N03)2 
+selon 
+
+La formation de NO+ au cours de cette reaction a Cte suivie par 
+ampkrometrie. 
+
+11 est a noter que si les nitrates de cuivre et d'uranyle con-
+
+duisent A des complexes trinitrato (M(N03);) (4), Addison et 
+
+' ~u t e u r $ qui adresser la correspondance. 
+
+al. (4) soulignent, dans le cas du zinc, I'existence d'un com-
+
+plexe tetranitrato ( ( N O + ) ~Z ~( N ~~) ; -) . 
+Ce complexe, form6 
+lors d'un melange Z ~I ( N O ~) ~ 
+et N2O4 en excks, est peu stable et 
+
+se dkcompose 2 temperature ordinaire. Peu d'infonnations 
+n'ont pu $tre relevees dans la bibliographie quant a sa stabilitk 
+
+en solvant aprotonique dipolaire. Les ions nitrate et chlorure 
+ayant des propri6tCs solvatantes trks proches dans le sulfolane, 
+
+la transposition de 1'Ctude des complexes znCl:-' (i = 1 , 2, 3, 
+
+4), par potentiomitrie A courant nu1 sur Clectrode d'argent, au 
+
+complexe z n ( ~0 ~) : -devrait pennettre de justifier la non-
+stabilitk du tCtranitratozincate[II] de dinitrosyle dans notre 
+
+solvant . 
+
+Partie experimentale 
+
+Le sulfolane (Prolabo) est purifiC selon la mCthode dCji dtcrite (5). 
+Les perchlorates d'argent (Fluka) et de tttrakthylammonium (Carlo 
+Erba) sont sCchCs i 333 K sous pression rCduite durant 1 mois. Les 
+chlorures de ti4traCthylamrnonium (Eastman Kodak) et de zinc (Merck) 
+sont sCchCs respectivement i 353 et 423 K sous pression rCduite durant 
+8 jours. 
+Le U02(N03)2 anhydre est obtenu par deshydratation 2 373 K de 
+U02(N03)2,6H20 (Merck) sous pression riduite. Une telle technique 
+n'est pas applicable aux nitrates de zinc et de cuivre qui se dCcomposent 
+en conditions de dkshydratation. Les nitrates ZII(NO~)~ et C U ( N O ~) ~ 
+rigoureusement exempts d'eau sont donc prCparks "in situ" par reaction 
+dans le sulfolane entre de la poudre de mttal (Cu, Zn) et un excks de 
+N2O4 Quand la reaction est terminCe, le mklange rkactionnel est place 
+sous pression rCduite, ce qui permet 1'Climination de N2O4 en excks et 
+des oxydes d'azote NO et N2O3 formCs au cours de la reaction. 
+Le perchlorate de nitrosyle est prtparC dans le nitromCthane par 
+addition d'un excks de N203 a une solution de HC104,H20. Le solide 
+recueilli aprks filtration est lavC au tCtrachlorure de carbone. 
+Un millivoltmktre Isis 20000 Tacussel est utilist pour la potentio-
+mCtrie. La stabilitC des mesures est contrBlte sur un enregistreur 
+Tacussel EPL2, relit au millivoltmktre. Toutes les prkparations de 
+solutions sont effectuCes en boite i gants. Les manipulations sont 
+rCalisCes h 303 2 0,l K. L'tlectrode d'argent est recouverte d'un dCpBt 
+de AgCI, avant chaque manipulation, selon la mkthode dCja dCcrite (2). 
+
+Can. J. Chem. Downloaded from www.nrcresearchpress.com by 87.160.185.190 on 03/27/14 
+
+For personal use only. 
+
+
+6 
+
+CAN. 1. CHEM. VOL. 64. 1986 
+
+Les courbes intensitt-potentiel, en rtgirne stationnaire, sont tracCes 
+
+A 303 k 0,l K B l'aide d'un ensemble voltarnpCrornCtrique Tacussel. La 
+
+vitesse de rotation de llClectrode indicatrice de platine (diarnktre, 
+0,8 mm) est de 10 tours/s. La vitesse de balayage des potentiels est de 
+5 rnV/s. La voltammttrie cyclique est rtaliste soit a l'aide de la rnCrne 
+tlectrode soit avec une tlectrode de diarnetre = 2 rnrn. 
+L'tlectrode de rCf6rence a dCj A Cte dtcrite (2). Le potentiel de 
+derni-vague du systerne ferrocene-ferricinium est pris cornrne origine 
+de l'tchelle de potentiel. 
+Le dosage de l'eau est effectut par la rnCthode de Karl-Fischer 
+(rtactif gtntrt par coulomttrie (6)). 
+Les spectres Raman de solutions Cquirnoltculaires des rntlanges de 
+N2O4 et nitrate mttallique dans le sulfolane ont CtC obtenus A l'aide 
+d'un spectromttre Raman Dilor R.T. 30. Pour cela, nous avons utilisi 
+des tubes scellds contenant des solutions de 0,2 rnol 
+en nitrate 
+mttallique et 0,2 rnol dm-3 en N2O4 La radiation excitatrice est la raie 
+? i 488,O nrn d'un laser 2 argon ionist, avec une puissance de 150 mW. 
+
+Resultats et discussion 
+
+Les courbes voltampCromCtriques sur tlectrode de platine 
+poli de solutions de nitrate mCtallique (U02(N03)2, C U ( N O ~) ~ 
+ou Zn(N03)2), en prksence de perchlorate de tCtraCthylammo-
+nium comme Clectrolyte indiffkrent, ne rkvelent pas dans le 
+sulfolane la vague d'oxydation caractkristique de l'ion nitrate 
+
+(E* = + 1 3 7 V (3)). Ce rCsultat suggbre donc que ces nitrates 
+
+mktalliques sont peu dissociCs dans notre solvant. L'addition de 
+
+N2O4 5 ces solutions fait apparaitre sur les courbes i = f (E) une 
+vague cathodique diffkrente de celle correspondant a la rCduc-
+
+tion de N2O4, et qui croit avec le rapport de concentration 
+[N204]/[M(N03)2]. De meme, si l'on ajoute une solution de 
+
+nitrate mCtallique A une solution de N204, il apparait une nou-
+velle vague dont le potentiel, E4 = +0,74 V, correspond i celui 
+
+du systkme NO+ + e-NO en prCsence de N2O4 (3 b) (fig. 1, 
+
+cas du nitrate d'uranyle). La prisence de 1'entitC NO+ en solu-
+tion est confirmCe par 1'Ctude en spectroscopie Raman des mC-
+langes CquimolCculaires N204-C~(N03)2, N204-U02(N03)2 
+et N204-Zn(N03)2 dans le sulfolane. En effet, les spectres 
+
+prksentent une bande intense i 2285 cm-', caractkristique de la 
+
+vibration d'tlongation VNO de NO+ (fig. 2) (7). Nous reprksen-
+tons en figure 3 1'Cvolution du courant limite de diffusion de la 
+
+vague cathodique attribuCe a NO+ lors de l'addition de nitrate 
+
+mCtallique 2 une solution de N2O4. La hauteur de cette vague 
+tend vers une limite, ce qui laisse supposer l'existence d'un 
+Cquilibre partiellement dtplacC. Addison (4) signale, pour le 
+cuivre et l'uranium, la formation des complexes Cu(N03); 
+NO+ et U02(N03); NO+, et pour le zinc, la formation des 
+complexes Zn(N03); NO+ et Zn(NO3):-2NO+, lors de 
+l'addition de nitrate mCtallique a N2O4 liquide. La rCaction peut 
+donc s'Ccrire, dans le cas des ions cuivrique et uranyle, 
+
+Cette rCaction laisse prCsager que la dissociation de M(N03); 
+en M(NO3)2 et NO; est plus faible que celle de N2O4 selon 
+
+N2O4 G NO+ + NOT. I1 est i noter que le complexe 
+
+[Zn(N03)4][N0]2 se dCcompose 5 tempCrature ambiante (4). 
+
+Des travaux ricents (8) confirment, dans le cas de l'uranium, 
+que seul le complexe [U02(N03);][NO+] existe. Notre Ctude 
+portera, dans une premikre Ctape, sur les sels de cuivre et 
+d'uranyle. 
+
+I. Constantes d'kquilibre de la rkaction de N Z 0 4 avec les 
+nitrates de cuivre et d'uranyle dans le sulfolane 
+L'Ctude Clectrochimique des melanges N204-M(N03)2 (avec 
+
+~2 + 
+
+= cu2+ et UO$+ et [M(N03)2]/[N204] = 1) montre que: 
+(i) en voltammCtrie cyclique, I'intensitC du courant du pic 
+
+FIG. 1. Courbes intensitC-potentiel obtenues dans le sulfolane a 
+303 K (electrode de platine,poli) lors de I'addition de nitrate d'uranyle 
+B une solution de N2O4. Electrolyte indifftrent: [(C2H5)4NC104] = 
+0,1 rnol dm-? [N2o4] = 6,83 X ~O-~rnoldrn-~; [UOz(N03)2] = 0 
+(I), 1,Ol X 
+(2), 2,47 X 
+(3), 4,90 X 
+(4), 6,87 X 
+1 0-3 rnol 
+(5). 
+
+cathodique i,P est proportionnelle a la racine carree de la vitesse 
+de balayage de potentiel; (ii) par voltammttrie linCaire, le 
+
+courant limite i, est proportionnel A la racine carrCe de la vitesse 
+
+de rotation de 1'Clectrode. Le processus Clectrochimique n'est 
+donc pas contr6lC par la cinCtique de la rCaction chimique [2]. 
+La riduction de N2O4 en prtsence de nitrate mCtallique peut 
+s'interprkter selon le processus 
+
+Le courant limite de diffilsion Ctant proportionnel B la con-
+centration de NO+, soit il(NO+) = kNO+ [NO+], il est possible, 
+connaissant le coefficient de proportionnalitC ~'(NO+)/[NO+] 
+de la rCduction de NO+ (obtenue lors de 1'Ctude d'une solution 
+de NOC104) pour une m&amp;me Clectrode tournante (surface: 
+0,50 mm2) animte d'une vitesse de rotation identique (o = 
+62,8 rad s-'): kNo+ = 770 2 15 I J . ~ 
+
+dm3 mol-', d'atteindre la 
+
+concentration en NO+ libre. Nous pouvons ensuite deduire 
+
+la constante d'equilibre K &amp; = [NO+]CM(N03);]/[N204] X 
+
+[M(N03)2], relative A la rCaction [2]. A 303 K, les constantes 
+
+KG sont Cgales a 2,5 ? 0 , 4 et 1,7 * 0,2, respectivement, pour 
+
+M2+ = Cu2+ et UO:+. Ces constantes sont en accord avec une 
+rCaction [2] non totalement dCplacCe. En utilisant la valeur de la 
+
+constante de formation de N204 selon NO+ + NO; F ' N2O4, 
+
+soit 
+= 1,6 X lo+' mol-' dm3 (2), nous pouvons atteindre 
+les constantes de stabilitC des complexes mCtalliques trinitrato 
+
+a partir de la relation 
+
+Can. J. Chem. Downloaded from www.nrcresearchpress.com by 87.160.185.190 on 03/27/14 
+
+For personal use only. 
+
+
+iHRIET ET AL. 
+
+FIG. 2. Spectres Rarnan de rnClanges N2O4 + M(NO&amp; dans le 
+
+sulfolane. [N2O4] = [M(N03)2] = 0,2 rnol 
+vo = 488,O nrn; 
+
+puissance, 150 rnW. N204 + U02(N03)2 (1); N2O4 + ZII(NO~)~ (2); 
+
+N204 + Cu(N03)~ (3). 
+
+A 303 K, la constante K;(M) est egale ii 4,O X 
+
+et 2,7 X 
+l ~+ ~r n o l -' 
+dm3 respectivernent pour le cuivre[II] et l'ion 
+uranyle. 
+Les valeurs des constantes de dissociation des complexes 
+trinitrato M(N03)3 (l/K;(M)) sont donc trhs proches de celle 
+relative a la constante de dissociation ionique de N2O4 ( K &amp; ~~ 
+
+= 
+
+1 /K$,04), ce qui confirme la prtsence d'une rtaction [2] Cqui-
+librte entre les nitrates mttalliques et N2O4. Gtntralement les 
+constantes de stabilitC des complexes tttracoordonnts sont plus 
+faibles que celles des complexes tricoordonnCs; c'est le cas du 
+cuivre[I1.] en prCsence du ligand C1-dans les solvants eau 
+(9-1 I), acttonitrile (12), dirntthylsulfoxyde (13, 14). I1 ttait 
+inttressant de confirmer cette hypothkse dans le cas du zinc[ll] 
+afin de rnontrer que le cornplexe Zn(N03)4(N0)2 n'existe pas 
+dans le sulfolane. Ne pouvant diterminer la constante de stabilitt 
+
+du complexe zn(NO3)gP, nous nous sornmes interests ii la 
+
+complexation du zinc[ll] avec le ligand C1-de cornportement 
+voisin de celui de l'ion NO;. 
+
+11. Constantes de stabilite' des complexes chlorozincates[II] 
+dans le sulfolane 
+
+I1 existe peu de travaux relatifs ii la stabilitt des complexes 
+
+du zinc[II] en milieu aprotonique. Citons pour exemple ceux 
+realisis dans le solvant DMSO (16). 
+
+FIG. 3. Variation du courant lirnite (il(NO+)) obtenu lors de l'addi-
+tion de nitrate mCtallique a une solution 5,96 X 
+rnol dm-3 de 
+
+N2O4 dans le sulfolane a 303 K (Clectrode de platine poli). Electro-
+
+lyte indiffkrent: [(C2H5)4NC104] = 0 , l rnol 
+U02(N03)2 ou 
+Zn(N03)2 (1); C U ( N O ~) ~ 
+(2); courant lirnite de diffusion pour une 
+solution de NOC (3). 
+
+Afin d'acctder aux valeurs des constantes de stabilitt K* des 
+complexes chlorozincates[II] relatives aux tquilibres 
+
+avec i = 1, 2, 3 , 4 
+
+nous avons cherchC a inttgrer chacun de ces tquilibres dans un 
+couple Clectrochimique. Les complexes z n ~l $ -, 
+ZnCl;, ZnC12 
+et ZnC1+ ttant meilleurs donneurs de C1-que AgC1, nous avons 
+penst atteindre les constantes de stabilitt de ces espkces grlce 
+a l'utilisation de l'tlectrode d'argent recouverte de chlorure 
+d'argent. En effet, cette tlectrode est indicatrice de la concen-
+tration de chlorure dans le sulfolane (2). 
+Nous avons suivi la neutralisation d'une solution de ZnC1;-
+(obtenue en mtlangeant ZnC12 et (C2H5)4NC1 dans un rapport 
+
+de concentrations Cgal ii 112) par une solution de perchlorate 
+
+d'argent, par potentiornetrie a courant nul. La courbe de titrage 
+fait apparaitre trois sauts de potentiel pour les rapports 
+[Ag+]/[Cl-1: 0,25; 0,5; 1 (fig. 4). Ces sauts sont caracteristi-
+ques respectivernent des rtactions suivantes: 
+Can. J. Chem. Downloaded from www.nrcresearchpress.com by 87.160.185.190 on 03/27/14 
+
+For personal use only. 
+
+
+CAN. 1. CHEM. VOL. 64, 1986 
+
+E (mV) 
+
+FIG. 4. Courbe potentiomttrique (Clectrode Ag/AgCl) de dosage 
+d'une solution de Z~CI:-(0,5 X lo-' mol 
+par une solution de 
+AgCIO, (0,2 mol dm-3) dans le sulfolane. Electrolyte indifferent: 
+[(C2H5)4NC104] = 0,1 mol dmp3. 
+
+et des deux reactions non discernables 
+
+qui peuvent s'tcrire globalement 
+
+L'Cquation de Nernst 'appliqute au systkme Clectrochimique 
+([41-[71) 
+[8] ~n ~l f . -' 
+
++ Agl AgCll + znC1:~; + e-
+
+avec i = l , 2, 3, 4, donne 
+
+RT 
+
+[ZnCl?: I] 
+
+E = EA + 2,303 -log 
+
+nF 
+[ ~n ~l $ -' ] 
+
+L'analyse mathtmatique de la courbe de titrage montre que 
+les &amp;actions [4] et [51 sont rapides. Les coefficients de la loi de 
+Nernst exptrimentaux sont trks proches de la valeur thCorique 
+(59 mV par unit6 logarithmique pour le couple [4] et 61 mV par 
+unite logarithmique pour le couple [5]). Les potentiels normaux 
+E: et E: ont Ctt dCtermints et ont pour valeurs respectives 
+-420 mV et -124 mV (? 3 mV). Ces valeurs jointes aux valeurs 
+du potentiel normal du systkme Ag+/Ag (+373 mV (5)) et du 
+produit de solubilitC de AgCl (3,7 x 1 0 -' ~m o l ~d m -~ 
+(5)), 
+dans le sulfolane, permettent de calculer les constantes log K i 
+
+et log KT, qui ont respectivement pour valeurs +5,2 * 0,2 et 
+
++10,1 ? 0,2. 
+En ce qui concerne la variation de potentiel relative aux deux 
+rtactions simultanCes [6] et [7], nous avons effectut un traite-
+
+FIG. 5. ,Simulation de la neutralisation d'une solution de ZnCli par 
+AgC10,. Evolution de la concentration des espkces ZnC12, ZnC1' et 
+Zn2+ au cours du dosage. 
+
+ment mathtmatique des donnCes par affinement selon la mCthode 
+des moindres carrCs. Les rtsultats obtenus sont: coefficient 
+
+experimental de la loi de Nernst, 60 * 0,5 mV; log Kr = 12,l 
+
+? 0,2; log K; = 13,4 5 0,2; potentiels normaux Eh = +71 + 
+
+3 mV et E; = -7 + 2 mV. Nous constatons que la constante 
+
+K; est suptrieure KT comme le laissait prCsager la courbe 
+potentiomCtrique ou les neutralisations de ZnC12 et ZnC1+ ne 
+sont pas sCparCes. Ce phtnomkne a dCja Ct C observe dans des 
+solvants autres que le sulfolane: DMSO (16), methanol (17), 
+avec les ligands C1-, Br-, I-et SCN-. 
+A l'aide des valeurs des constantes KT et Kz, nous avons 
+effectuC la simulation d'un dosage d'une solution de ZnC12 par 
+AgC104 (fig. 5). Nous avons Cgalement report6 sur cette figure 
+l'tvolution de la concentration des difftrentes espkces au cours 
+du dosage. Les deux rCactions [6] et [7] donnent naissance a une 
+seule vague, comme nous l'avons constate exptrimentalement. 
+Les complexes ~nC1;-, ZnC1; sont plus stables dans le 
+sulfolane et le dim&amp;thylsulfoxyde (16) (solvants aprotoniques) 
+que dans le mCthanol(17) et l'eau (18), en raison des propriCtts 
+peu solvatantes du sulfolane et du DMSO (tableau 1). Ces 
+rCsultats sont en accord avec les hypothkses formulCes par 
+
+Ahrland (19), relatives ti la solvatation des complexes mttalli-
+
+ques en milieux protoniques et aprotoniques. En effet, les 
+ligands susceptibles de former des liaisons hydrogknes sont 
+fortement solvatCs par les solvants protoniques, ce qui diminue 
+la stabilitC des complexes. 
+111. Constante de stabilite' du complexe trinitratozincate[ll] 
+duns le sulfolane 
+Nous avons vu que la stabilitC du complexe tCtrachloro-
+zincate[II] est plus faible que celle du trichlorozincate[II] (log 
+
+KT = + 10,l ? 0,2 et log K,* = 5,2 + 0,2 a 303 K), ce qui est 
+
+en accord avec les rksultats relevCs, dans le cas du cuivre, pour 
+un solvant a proprittC physique voisine du sulfolane (pouvoir 
+donneur (DN) = 14,8), l'acttonitrile (DN = 14,l) (12). Cet 
+Ccart de stabilitk doit Ctre retrouvC avec les complexes du nitrate 
+tri-et tCtra-coordonnCs puisque les ligands C1-et NO; ont, 
+dans notre solvant, des solvatations trks voisines: (i) les cons-
+tantes d'aciditC de HN03 et HC1 sont proches, soit 16 (3a) et 
+14,5 (20), respectivement; (ii) les constantes d'homoconjugai-
+
+son de HN03 et HCl (AH + A-&amp; A2H-) sont toutes deux 
+
+Cgales a 3,l (2, 3a). 
+La rCaction de N204 avec le complexe trinitrato selon 
+
+doit Ctre peu dCplacCe vers la formation du complexe nitrosyle, 
+Can. J. Chem. Downloaded from www.nrcresearchpress.com by 87.160.185.190 on 03/27/14 
+
+For personal use only. 
+
+
+BOUGHRIET ET AL 
+
+TABLEAU 1. Constantes de stabilitC des complexes chlorozincates[II]: Z~(CI)?-' (i = 1, 
+2, 3,4), en milieux protoniques et aprotoniques, relatives aux Cquilibres 
+
+Zn(cl)?;l + Cl-* z n ( ~l ) ? -' 
+
+(Ki*) 
+
+Solvant (DNa) 
+
+1% KT 
+
+1% @ 
+
+1% KT 
+
+log ! $ 
+
+RCf. 
+
+Eau (DN = 18,O) 
+-0;19 
+-0,40 
+0,75 
+
+-
+
+18 
+
+DimCthylsulfoxyde 
+(DN = 29,8) 
+1,94 
+3,89 
+2,26 
+
+-
+
+16 
+
+Sulfolane 
+(DN = 14,8) 
+12,1*0,2 
+13,4&amp;0,2 
+10,1?0,2 
+5,2*0,2 
+
+--
+-
+
+"Pouvoir donneur du solvant selon I'Cchelle de basicit6 de Gutmann et coll. (15) 
+bNos valeurs. 
+
+constante de la rtaction 
+E (VI 
+
+-[lo] N2O4 + Zn(N03)2 S NO' + Zn(N03); 
+
+I 
+
+par une ttude similaire 2 celle rCaliste avec les nitrates de cuivre 
+
+et d'uranyle. La constante de la rtaction [lo] est tgale a 1,8 &amp; 
+
+0,3, et la constante de stabilitt du complexe trinitratozincate[II] 
+
+est Cgale a 2,9 X 
+
+mol-' dm3 a 303 K. Cette valeur, proche 
+de celle de la constante de dissociation ionique de N2O4, 
+emp&amp;che, dans le sulfolane, la formation par N2O4 de com-
+plexes plus coordonnts. La spectroscopie Raman apporte une 
+preuve directe de la formation d'un sel de nitrosyle, lors de 
+
+I 
+
+1'Ctude d'une solution tquimoltculaire N204-Zn(N03)2 (fig. 
+
+I 
+
+2), mais ne permet pas de conclure sur l'absence en solution du 
+complexe Zn(NO3);-; les bandes caracttristiques des vibra-
+tions de NO; libre ou complex6 sont masqutes par les raies 
+intenses et larges du sulfolane. Notons que la stabilitt du com-
+
+plexe Zn(N03); (K:(Zn) = 2,9 X 10+7dm3mol-' a 303 K) 
+
+est ltgkrement plus faible que celle du complexe Cu(N03); 
+(K$(Cu) = 4,O x 
+
+dm3 mol-' a 303 K), ce qui est en 
+
+accord avec la classification des mttaux en fonction de leur 
+pouvoir complexant proposte par Irving et Williams (21). 
+En rCsumt, la prtsence de l'acide de Lewis Zn(N03)2, dans 
+
+une solution de N2O4, conduit dans le sulfolane a la formation 
+
+de NO+ et du complexe trinitratozincate[II]. Cette rtaction est 
+observte dans notre solvant grice a une stabilitt du complexe 
+Zn(N03); (K$(Zn) = 2,9 X 
+
+dm3 mol-' a 303 K) voisine 
+
+de celle de N2O4 selon NO+ + NO; * N2O4 (KG204 = + 1,6 
+
+x 1 o + ~ 
+
+dm3 mol-' a 303 K). 
+
+FIG. 6. Courbes intensitC-potentiel obtenues dans le sulfolane a 
+303 K (Clectrode de platin: poli) lors de I'addition de nitrate de zinc 
+i une solution de N2O4 Electrolyte indifferent: [(C2H5)4NC104] = 
+
+0,1 mol dm-3. [N204] = 5,96 X 
+mol dm-3; [Zn(N03)2] = 0 (I), 
+3,lO X 
+(2), 5,30 X 
+(3), 7,20 X 
+(4), 11,40 X 
+mol dmp3 (5). 
+
+et donc ntgligeable. Cette hypothkse est d'ailleurs confirmte 
+par l'allure des courbes i = f (E) obtenues au cours de l'addition 
+de nitrate de zinc a une solution de N2O4 (fig. 6), allure trks 
+
+semblable a celle des courbes relatives aux melanges N2O4 + 
+
+U02(N03)2 (fig. 1) donnant lieu uniquement a la formation d'un 
+complexe [(U02(N03)3] [NO]. 
+De plus, la courbe reprtsentant l'tvolution du courant limite 
+(il(NO+)) de rkduction de NO+ (form6 au cours de la reaction 
+[2]) en fonction du rapport [Zn(N03)2]/[N204] (fig. 3), coi'n-
+cide bien avec celle exprimant i,(NO+) en fonction de 
+[U02(N03)2]/ [N204]. I1 est alors possible de dtterminer la 
+
+Conclusion 
+L'utilisation de la voltamptromttrie a permis d'tlucider le 
+mtcanisme de la rtduction de N2O4 en prtsence des nitrates 
+mttalliques Zn(N03)2, C U ( N O ~) ~ 
+et U02(N03)2 en milieu 
+aprotonique: 
+
+[El 
+
+NO' + e-* NO 
+
+Le processus tlectrochimique est contr6lt par le transfert mono-
+tlectronique rtversible mis en jeu lors de la rkduction de NO+ en 
+NO (systkme [El). Ce rtsultat a rendu possible la dttermination 
+de la constante d'tquilibre de la rtaction [C], (KG), et celle rela-
+tive a la formation du complexe mttallique trinitrato, K:(M), 
+
+selon M(N03), + NO; 
+
+M(N03);. A 303 K, les valeurs 
+
+trouvCes sont: K; , = 1,8 + 0,3; K : 
+
+, = 2,5 + 0,4; Kco2 = 
+
+1,7 + 0,2; K:(M) = 2,9 X 
+
+4,O X 
+et 2,7 X 
+mol-' dm3, respectivement pour M = Zn, Cu et U02. Nous 
+Can. J. Chem. Downloaded from www.nrcresearchpress.com by 87.160.185.190 on 03/27/14 
+
+For personal use only. 
+
+
+10 
+
+CAN. 1. CHEM. VOL. 64. 1986 
+
+avons nCgligt l'intervention des entitts M(NO3)Zp, M(N03)+ 
+
+et M ~+ , 
+
+dans les rtactions prtckdentes, en raison de leur con-
+
+centration trop faible dans-la solution. Cette hypothbe a Ctk 
+
+confirmCe par des travaux sur les mClanges N204-M(N03)2 
+signalCs dans la littkrature, et par nos rksultats obtenus dans la 
+s&amp;e des complexes chlorozincates[11] ou la base C1-a un 
+
+comportement vis-a-vis du mCtal Zn2+ trks semblable a celui de 
+
+NO;. 
+L'addition de ces nitrates mttalliques dans une solution de 
+N2O4 perrnet donc, en milieu aprotonique, le dtplacement de la 
+base nitrate dans 1'Cquilibre de dissociation ionique N204 $ 
+
+NO+ + NO?, en IibCrant I'espkce NO+. L'emploi facile de ces 
+
+sels minCraux ainsi que leur grande solubilitC dans le sulfolane, 
+
+nous ont conduits a les utiliser comme agent catalytique dans les 
+
+rtactions d e nitration par N2O4 des noyaux aromatiques (en 
+gCnCrant en solution I'espkce catalytique NO+) (1). 
+
+Remerciements 
+Nous tenons i i remercier Monsieur le professeur M . Wozniak 
+
+(Universitt de Lille I) pour les discussions fructueuses. 
+
+1. A. BOUGHNET, C. BREMARD, J. C. FISCHER et M. WARTEL. 
+Nouv. J. Chim. Sous presse. 
+2. M. WARTEL, A. BOUGHRIET et J. C. FISCHER. Anal. Chim. Acta, 
+110, 21 1 (1979). 
+3. ( a ) A. BOUGHRIET. Thkse, Lille (1984); ( b ) A. BOUGHRIET, M. 
+WARTEL, J. C. FISCHER, et Y. AUGER. J. Electroanal. Chem. 186, 
+201 (1985); ( c ) A. BOUGHRIET, J. C. FISCHER, G. LEMAN et M. 
+WARTEL. Bull. SOC. Chim. Fr. l , 8 (1985); ( d ) A. BOUGHRIET, C. 
+BREMARD, J. C. FISCHER et M. WARTEL. J. Electroanal. Chem. 
+Sous presse. 
+4. C. C. ADDISON, W. KARCHER et H. HECHT. Chemie in Fliissigem 
+Distickstofftetrioxid und Schwefeldioxid. Vol. 3. Friedr. Vieweg 
+&amp; Sohn, Pergamon Press, Braunschweig, W. Germany. 1967. 
+
+5. P. PIERENS, Y. AUGER, J. C. FISCHER et M. WARTEL. Can. J. 
+Chem. 53, 2989 (1975). 
+6. J. BIZOT. Bull. Soc. Chim. Fr. 1, 151 (1967). 
+7 . K. NAKAMOTO. Infrared and Raman spectra of inorganic and 
+coordination compounds. 2 Cd. Wiley-Interscience, John Wiley 
+&amp; Sons, New York. 1970. p. 78. 
+8. ( a ) L. V. KOBETS, G. N. KLAVSUT et D. S. UMREIKO. Zh. Neorg. 
+Khim. 26, 173 (1981); Chem. Abstr. 94, 681 (1981); (b) L. V. 
+KOBETS, G. N. KLAVSUT, V. M. DOLGOV et D. S. UMREIKO. 
+Radiokhimiya, 25, 48 (1983); Chem. Abstr. 98, 483 (1983); ( c ) 
+G. N. KLAVSUT et L. V. KOBETS. Zh. Neorg. Khim. 28, 1542 
+(1983); Chem. Abstr. 99, 357 (1983); ( d ) L. V. KOBETS, G. N. 
+KLAVSUT et V. M. DOLGOV. Radiokhimiya, 25, 661 (1983); 
+Chem. Abstr. 99, 443 (1983). 
+9. M . J. SCHWNG-WEILL. Bull. Soc. Chim. Fr. 823 (1973). 
+10. M. A. KHAN et M. J. SCHWING-WEILL. Inorg. Chem. 15, 2202 
+(1976). 
+1 1 . J. BJERRUM et L. H. SKIBSTED. Acta Chem. Scand. Ser. A, 31, 
+673 (1977). 
+12. S. E. MANAHAN et R. T. IWAMOTO. Inorg. Chem. 4,1409 (1965). 
+13. A. FOLL, M . LE DEMEZET et J. COURTOT-COUPEZ. J. Electro-
+anal. Chem. 35, 41 (1972). 
+14. T . E. SUAREZ, R. T. IWAMOTO et J. KLEINBERG. Inorg. Chim. 
+Acta, 7, 292 (1973). 
+15. ( a ) V. GUTMANN. Chem. Technol. 255 (1977); ( b ) U. MAYER et 
+V. GUTMANN. Struct. Bonding (Berlin), 12, 113 (1973). 
+16. S. A H R L A N D ~~ 
+N.-0. BJORK. Acta Chem. Scand. Ser. A, 30,270 
+(1976). 
+17. H. HOFFMANN, G. PLATZ et M. FRANKE. Proc. 16th Int. Conf. 
+Coord. Chem. Paper 3.35. (1974). 
+18. P. GERDING. Acta Chem. Scand. 23, 1695 (1968). 
+19. S. AHRLAND. Pure Appl. Chem. 54, 1451 (1982). 
+20. J. F. COETZEE et R. J. BERTOZZI. Anal. Chem. 43, 961 (1971). 
+21. H. IRVING et R. J. P. WILLIAMS. J. Chem. Soc. 3192 (1953). 
+
+Can. J. Chem. Downloaded from www.nrcresearchpress.com by 87.160.185.190 on 03/27/14 
+
+For personal use only. 
+
+
+
+	
+

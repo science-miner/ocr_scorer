@@ -1,0 +1,536 @@
+
+	
+
+		
+
+	
+
+	
+
+Stkeochimie de la reduction des a-iminocetones. etude de I'effet des substituants par 
+une approche quantitative des facteurs gouvernant la stereoselectivite 
+
+BENITO ALCAIDE, CARMEN L. MARDOMINGO, RAFAEL P~REZ-OSSORIO ET JOAQU~N PLUMET' 
+
+Departarnento de Quirnica Orgdnica, Facultad de Quirnica, Universidad Cornplutense, 
+Ciudad Universitaria, 28040 Madrid, Espagne 
+
+ROGER PHAN-TAN-LUU' ET MICHELLE SARGENT 
+
+Luboratoire de Prospective Re'actionnelle et d'Analyse de l'lnforrnation, UniversitC &amp;Ah-Marseille III, 
+Rue Henri Poincare', 13397 Marseille, France 
+R e ~u le 21 septembre 1984 
+
+BENITO ALCAIDE, CARMEN L. MARDOMINGO, RAFAEL EREZ-OSSORIO, JOAQU~N PLUMET, ROGER PHAN-TAN-LUU et 
+MICHELLE SARGENT. Can. J. Chem. 63, 2241 (1985). 
+
+A partir du rapport RR,SS/RS,SR des 2-aminoCthanols isombres obtenus par rkduction de 24 a-iminocCtones (LiAlH4) les 
+auteurs ont CtudiC l'influence des substituants sur la stCrCochimie de la rCaction en postulant un modble mathkmatique ii 7 
+coefficients. Les valeurs de ces coefficients calculCes par regression multilinCaire sont d'accord avec le mkcanisme de rCduction 
+post1116 prCcCdemment et mettent en Cvidence quelques conclusions additionnelles. L'application des mCthodes modernes de 
+construction de matrices d'expkriences permet d'en choisir 10 d'un ensemble de 24 expCriences et montre que ce sous-ensemble 
+permet d'extraire des informations de la m6me qualitC. 
+
+BENITO ALCAIDE, CARMEN L. MARDOMINGO, RAFAEL EREZ-OSSORIO, JOAQU~N PLUMET, ROGER PHAN-TAN-LUU, and 
+MICHELLE SARGENT. Can. J. Chem. 63, 2241 (1985). 
+
+Using the isomeric ratio of RR,SS to RS,SR of a series of 2-aminoethanols obtained by the LiAIH., reduction of 24 
+a-iminoketones we propose a mathematical model with 7 coefficients for the effect of substituent on the stereochemical course 
+of the reaction. The values of these coefficients obtained by multilinear regression analysis are in agreement with the previously 
+proposed mechanism for reduction but allow for some additional conclusions. The use of modern methods for the construction 
+of experimental matrices allows us to choose 10 from a total of 24 experiments and shows that information of the same quality 
+can be obtained from this subset. 
+[Journal translation] 
+
+Introduction 
+La reduction des a-irninocttones par l'action de l'hydmre de 
+lithium-aluminium (HAL) conduit 2 la formation de rntlanges 
+de 2-aminotthanols sttrtoisornbres (1, 2). 
+L'ttude du cours du processus permet d'ttablir que la stkrto-
+chimie de la rtaction est le rtsultat d'une compttition entre 
+deux chernins rtactionnels formults dans la fig. 1. Le chemin 
+a est le rtsultat de l'attaque prtalable du groupernent carbonyle 
+conduisant 2 l'isornbre RR,SS, et le chernin b, issu de l'attaque 
+prtalable du groupement imino conduisant 2 l'isornbre RS,SR. 
+Cette simplification fondte sur les donntes exptrirnentales 
+dans le cas des a-iminocttones dtrivtes des systbrnes 
+benzyliques2 et raisonnablement ttendue aux autres a-irnino-
+cttones3 a t t t expliqut prtctdemment 2 l'aide des rnodbles 
+sttrtochimiques qui rendent cornpte du rtsultat du processus 
+(2). 
+L'objectif de ce travail est de dtduire une tquation multi-
+paramttrique, en utilisant les donntes expirimentales dis-
+ponibles et qui nous permettra d'ttablir quantitativernent l'in-
+fluence de la modification stmcturelle des a-iminocttones sur 
+la sttrtochirnie de la rtduction. Dans ce but, nous avons fait 
+varier les substituants R1 et R2 (Ph ou Me, fig. I), et R3 par le 
+changernent de la nature et de la position (m ou p) du substi-
+tuant arornatique X. Pour caracttriser ce substituant, nous 
+avons choisi deux pararnbtres tledtroniques qui dtcrivent les 
+
+' Auteurs auquels la correspondence peut Etre adressCe. 
+
+'L'hydrogCnation catalytique d'iminocCtones benzyliques et la r6-
+duction ultCrieure des aminocCtones intermediaires avec HAL conduit 
+exclusivement 21 I'isombre RS,SR (3, 4). 
+
+' B. Alcaide, R. PCrez-Ossorio et J. Plumet: rCsultats non publiCs. 
+
+effets inductif et de rksonance que nous voulons considkrer. 
+Finalernent nous effectuerons une critique methodologique "a 
+posteriori" de la dtmarche suivie dans le traiternent du 
+problbme. 
+
+Modkle mathtmatique 
+Notre modble rnathkrnatique est une Quation dont la rtponse 
+ttudite est le pourcentage du sttrtoisombre RR,SS, et qui com-
+prend quatre termes du premier degrt, traduisant l'effet global 
+des variables ttudites et deux termes d'inttraction qui tiennent 
+cornpte de la possibilitk de que l'effet de la nature du substi-
+tuant R3 n'est pas ind6pendant de la nature du sub9ituant R2. 
+L'effet global de R3 est dtcrit par les pararnbtres uo et ul (5). 
+Le rnodble peut donc s'ecrire: 
+
+Nous avons rtuni l'ensernble de 24 rnoltcules dont on a 
+ttudit la rtduction avec HAL/Et2D dans le tableau 1, ainsi que 
+les valeurs des variables correspondantes et la rtponse exptri-
+rnentale obtenue. Pour tviter le danger d'une interprttation du 
+rnodble exprirnt avec des variables naturelles, nous utilisons 
+pour le facteur R3 des variables codtes (6) qui sont obtenues 2 
+partir de la transformation: 
+
+[2] variable codte = (variable naturelle -centre)/pas 
+Pour chaque variable, le centre choisi est la valeur rntdiane 
+et le pas de variation est tel que la variable codte est comprise 
+
+entre + 1 et -1. Le tableau 2 rtsurne les valeurs du centre et 
+
+Can. J. Chem. Downloaded from www.nrcresearchpress.com by 87.160.185.190 on 03/27/14 
+
+For personal use only. 
+
+
+2242 
+
+CAN. 1. CHEM. VOL. 63, 1985 
+
+TABLEAU 1. Reaction de kduction de a-iminocktones avec 
+HAL/Et20. Paramttres descripteurs du substituant R3 
+
+pas choisies pour chaque variable. 
+L'Cquation [l] peut alors s'tcrire: 
+
+[3] Y = bo + blxl + b2~2 + b3x3 + b4~4 + b23~2~3 
+
++ b24~2~4 
+
+Nous donnons dans le tableau 3 la matrice d'expkriences 
+exprimCe en variables codCes. 
+Les valeurs trouvCes pour les facteurs d'inflation4 Ctant satis-
+faisantes (tableau 4), nous pouvons calculer par la mCthode des 
+moindres carrCs des estimations valables des coefficients du 
+modele: 
+
+Interprktation 
+Nous pouvons constater la faible influence de la variable XI 
+(b, = -1 ,I). Les autres coefficients b2, b3 et b,, res-
+pectivement Cgaux ? I +27,9, -6,5 et -1,5 ne peuvent Ctre 
+interprCtCs seuls, les effets des variables x2, x3 et x4 n'Ctant pas 
+indkpendants par hypothese (interactions x2x3 et x2x4). D'autre 
+part, la haute valeur du coefficient b23 (-11,6) et la petite 
+valeur (-3,2) de bZ4 sont significatives. L'intkraction la plus 
+importante, b23, correspond aux variables (R2): (a: de X) ce qui 
+signifie que les effets des substituants en position 3 sur la 
+rCponse CtudiCe ne sont pas additifs, c'est-2-dire, l'influence de 
+a: de X sur %RR, SS n'est pas la mCme suivant la nature de R2 
+(Me ou Ph). Ceci peut Ctre visualis6 facilement en reprtsentant 
+la rCpons'e Y en fonction de a: de X (fig. 2). 
+Nous en dCduisons que l'influence de a: de X sur la stCrCo-
+chimie de la rCaction est beaucoup plus importante dans le cas 
+
+On entend par facteur d'inflation le terme diagonal de la matrice 
+inverse de la matrice de corr6lation. Voir rkf. 7. 
+Pour la dkfinition de R: voir ref. 12. 
+
+OAIH; 
+
+0 
+
+1 I 
+
+3 
+
+1 11 
+
+R-CH-C=N-R 
+R-C-CH-N 
+AIH; 
+I 
+R~ 
+
+I 
+
+I 
+
+3 
+
+R -C H -C H -N H R 
+
+I 
+
+R 
+
+FIG. 1 
+
+TABLEAU 2. Centre et pas de variation des 
+variables 
+
+Variable 
+Variable 
+codCea 
+naturelle 
+Centre 
+Pas 
+
+x3 
+
+a : de X 
+
+0,26 
+0,26 
+
+x4 
+
+a, de X 
+
+0,23 
+0,28 
+
+Oxj = -1 pour R' = Me; xj = + 1 pour R' = 
+
+P h U = 1, 2). 
+
+TABLEAU 3. Matrice d'expkriences compltte (variables 
+codCes) 
+
+Can. J. Chem. Downloaded from www.nrcresearchpress.com by 87.160.185.190 on 03/27/14 
+
+For personal use only. 
+
+
+ALCAIDE ET AL. 
+
+TABLEAU 4. Facteurs d'inflation pour 1'Cq. [3] avec la tota-
+lit6 de molCcules (colonne a) avec la matrice optirnale-D, 
+N = I0 (colonne b) 
+
+Coeff. 
+Facteur d'inflation (a) 
+Facteur d'inflation (b) 
+
+6 1 
+
+1,60 
+1,40 
+
+b? 
+
+1,68 
+1,45 
+
+b3 
+
+1,09 
+1,09 
+
+b4 
+
+1,06 
+1,07 
+
+b23 
+
+1,13 
+1,06 
+
+b, 
+
+1,06 
+1,05 
+
+FIG. 2. La riponse (Y) en fonction de a : de X. 
+
+de monoimines dCrivCes du benzyl (expkriences 1 -10, corres-
+pondant i la prksence d'un groupement phtnyl en position 2) 
+que dans le cas ou R2 est un groupement methyl, expCriences 
+1 1-24 pour lesquelles I'influence de cr: est pratiquement nulle. 
+
+Conclusion du point de vue chimique 
+L'Ctude de la rCaction de reduction rCalisCe sur I'ensemble de 
+24 a-iminocktones et celle du modkle confirment le schCma 
+rkactionnel proposC (fig. 1) et mettent en Cvidence le change-
+ment de mCcanisme en passant des composCs avec R2 = Ph aux 
+composCs avec R2 = Me. 
+Pour les molCcules 1 -10. le chemin de rkaction a est choisi 
+de prtfirence au chemin b: les caractkristiques tlectroniques du 
+groupement phCnyl en position 2 provoquent un "durcis-
+sement" du groupement carbonyle (chemin a) et donc I'aug-
+mentation du pourcentage de I'isomke RR,SS (voir fig. I). 
+Ceci implique que la cCtone n'est pas conjugCe au groupe 
+imino, ce qui a Ct C confirm6 pour ces composts par analyse au 
+rayons-X (8) et rmn du carbone-13 (9). 
+Dans le premier groupe de molCcules I'influence de la nature 
+Clectronique de R3 est confirmCe (2). Plus le substituant R3 est 
+Clectrodonneur plus la conjugaison augmente, c'est-i-dire, 
+plus grande est la planarit6 entre groupements aromatique R3 et 
+imino. Par consequent il y a une augmentation du pourcentage 
+de I'isomkre RR.SS. 
+Par contre ceie influence est nulle pour le deuxikme sous-
+ensemble d'iminocetones (1 1-24, R2 = Me). Nous constatons 
+que la substitution d'un methyl par un phCnyl en position 1, et 
+le caractkre inductif du substituant R3 n'ont pas d'influence sur 
+la stereochimie de la rkduction de ce genre de composts. 
+
+Prksentation d'une strategie optimale 
+Les donnCes que nous avons utilisees dans la premikre partie 
+
+FIG. 3. La valeur du determinant lM( en fonction de N. 
+
+de cette Ctude ont Ct C obtenues sans suivre une strategie bien 
+dtfinie, le probleme se prkcisant au fur et i mesure de I'avan-
+cement du travail. 
+Nous allons illustrer I'application de la MCthodologie de la 
+RCcherche ExpCrimentale (10) i notre problkme en supposant 
+qu'aucune expCrience n'a Ct C faite. Nous avons i notre disposi-
+tion 24 molecules candidates. 
+1. Cet ensemble de molkcules contient-il assez d'in-
+formation? 
+Les valeurs des coefficients d'inflation permettent de dire 
+que cet ensemble est bien structurC et que les informations 
+obtenues sont de bonne qualitk. Rappelons que les facteurs 
+d'inflation peuvent &amp;tre calculCs avant d'avoir effectuC des 
+expkriences. 
+2. Peut-on rkduire le nombre d7expCriences sans affecter 
+sensiblement la qualit6 des informations fournies? 
+Nous avons extrait de I'ensemble de 24 points candidats le 
+meilleur sous-ensemble permettant d'Ctudier le modkle pos-
+tulC. Le critkre choisi est le crit2re d'optimalitk-D (maxi-
+misation du dkterminant de la matrice d'information normte 
+
+IMI). Pour diffkrentes valeurs de N (N = nombre de molCcules) 
+
+nous avons calculC la matrice d'expkriences optimale-D. Dans 
+
+la fig. 3, nous montrons la variation de [MI en fonction de N. 
+
+On peut constater I'existence d'un maximum pour N = 10. La 
+matrice d'expkriences correspondente comporte les molCcules 
+donntes dans le tableau 5. La valeur du dtterminant norm6 
+dCcroit rCgulikrement de N = 10 i N = 24 (fig. 3). Les valeurs 
+des facteurs d'inflation sont satisfaisantes pour la matrice d'ex-
+pCriences optimale-D (tableau 4). 
+Nous avons calculC les coefficients du modkle (Cq. [3]) par 
+la mCthode des moindres cants en utilisant le sous-ensemble 
+des 10 molCcules. Les valeurs de ces coefficients ne different 
+Can. J. Chem. Downloaded from www.nrcresearchpress.com by 87.160.185.190 on 03/27/14 
+
+For personal use only. 
+
+
+CAN. J. CHEM. VOL. 63, 1985 
+
+TABLEAU 5. Matrice d'exphiences 
+optimale-D (IX'XI = 1 329 000, 
+IMI = 0,1329, trace (XIX)-' = 1,06) 
+
+N 
+R1 
+R2 
+R3 
+
+TABLEAU 6. Estimation des coeffi-
+cients obtenus par la mtthode des moin-
+dres cants avec I'ensemble des 24 ex-
+pkriences (coeff. 1 ) et avec le sous-
+
+ensemble i 10 mol&amp;ules (coeff. 2) 
+
+i de bi 
+
+Coeff. l a 
+Coeff. 2b 
+
+1 
+-1,l 
+-0,9 
+2 
+27,9 
+27,5 
+3 
+-6,9 
+-5,4 
+4 
+-1,s 
+-1,4 
+23 
+-11,6 
+-10,9 
+24 
+-3,2 
+-3,3 
+
+"Coefficient de regression multiple ajusti 
+R: = 0,96. 
+bCoefficient de regression multiple ajusti 
+R: = 0,95. 
+
+pas significativement de celles que nous avons calculkes plus 
+haut avec la totalitk de molCcules (tableau 6). 
+Dans le tableau 7, nous avons rkuni les valeurs expCri-
+mentales (%RR,SS) et les valeurs de la rkponse calculkes B 
+partir des modbles h 24 et B 10 expkriences. L'accord entre ces 
+valeurs est satisfaisant. 
+
+Matrice d'exptriences robuste 
+La structure de la matrice d'exgriences optimale n'est va-
+lable que pour le modble formulk. Si nous changeons de mo-
+dde, il est kvident que la matrice d'expkriences sera modifike, 
+les informations nkcessaires n'ktant pas les memes. 
+Dans une deuxibme demarche, nous envisageons le cas ou 
+nous ne faisons aucune hypothbse sur le modkle. Nous avons 
+utilisk une demarche analoge h celle de Kennard et Stone (1 1) 
+qui propose une rkpartition uniforme de points dans le domaine 
+expkrimental. La prockdure originale est insuffisante h certain 
+niveau: elle ne donne que l'ordre d'apparition des points mais 
+ne permet pas de mettre en kvidence des arrangements de points 
+constituants des structures optimales que nous appelons 
+"stables". Nous avons utilisk un algorithme modifik mettant en 
+Cvidence ces structures. Ceci nous permet de selectionner un 
+sous-ensemble de points qui nous donne suffisamment d'in-
+formation pour envisager une interpolation ultkrieure. La meil-
+leure distribution de points donnant une structure stable est 
+celle donnCe dans le tableau 8. 
+Les deux matrices obtenues comportent de nombreux points 
+communs. Notons la proximitk topologique des points 19 et 20. 
+
+TABLEAU 7 . Valeurs de %RR,SS exptrimentales et calcultes 
+par le modkle avec I'ensemble des 24 exptriences (a) et avec le 
+
+sous-ensemble i 10 moltcules (b) 
+
+No 
+Y (%RR,SS) exp. 
+Y calculte (a) 
+Y calculte (b) 
+
+1 
+63,9 
+67,9 
+70,2 
+2 
+89,6 
+83,4 
+82,9 
+3 
+74,4 
+74,s 
+74,8 
+4 
+81,O 
+71,7 
+72,6 
+5 
+56, I 
+69,8 
+71,l 
+6 
+95 , O 
+92,6 
+91,5 
+7 
+79,6 
+75,8 
+77,3 
+8 
+97,s 
+103,9 
+101,8 
+9 
+55,9 
+59,9 
+62,3 
+10 
+75,l 
+6 8 3 
+71,O 
+11 
+31,O 
+30,O 
+31,s 
+12 
+25,9 
+27,9 
+29,2 
+
+19 
+28,l 
+29,l 
+29,6 
+20 
+30,l 
+31,4 
+32,3 
+2 1 
+31,O 
+32,O 
+33,O 
+22 
+32,l 
+32,4 
+33,4 
+23 
+28,l 
+26,4 
+26,s 
+24 
+23,7 
+23,2 
+22,7 
+
+TABLEAU 8. Matrice d'expkriences 
+robuste ((X'XI = 1 287 500, 
+IMI = 0,12875) 
+
+1. B. ALCAIDE, R. FERNANDEZ, C. MPEZ-MARDOMINGO, R. 
+WREZ-OSSORIO et J. PLUMET. J. Org. Chem. 46, 3234 (1981). 
+2. B. ALCAIDE, C. L~PEZ-MARWMINGO, R. P~REZ-OSSORIO et 
+J. PLUMET. J. Chem. Soc. Perkin Trans. 2, 1649 (1983). 
+3. B. ALCAIDE, G. ESCOBAR, C. L6PEZ-MARWMINGO, R. WREZ-
+OSSORIO et J. PLUMET. Tetrahedron Lett. 2033 (1982). 
+4. B. ALCAIDE, G. ESCOBAR, R. EREZ-OSSORIO et J. PLUMET. Org. 
+Prep. Proc. Int. (Brief), 14(3), 220 (1982). 
+
+4 
+
+5. N. B. CHAPMAN et J. SHORTER. Correlation analysis in chem-
+istry. Plenum Press, New York. 1978. p. 439. 
+6. D. MATHIEU. Thkse dYEtat. Universitt d'Aix-Marseille 111, 1981. 
+7 . S. CHAT~ERJEE et B. PRICE. Regression analysis by example. 
+Wiley, New York. 1977. p. 182. 
+8. I. FONSECA, S. GARC~A-BLANCO et S. MARTINEZ. Acta Crys-
+tallogr. Sect. B, 35, 2643 (1979). 
+9. J . L. GARCIA RUANO, R. HARO, C. PASCUAL, R. WREZ-OSSORIO 
+et J. PLUMET. An. Quim. 75, 165 (1979). 
+10. NEMROD. New Efficient Methodology of Research using Opti-
+mal Design. 198 1. 
+1 1 . R. W. KENNARD et L. A. STONE. Technometrics, 11,137 (1969). 
+12. R. D. SNEE. J. Qual. Techno]. 3, 159 (1971). 
+
+Can. J. Chem. Downloaded from www.nrcresearchpress.com by 87.160.185.190 on 03/27/14 
+
+For personal use only. 
+
+
+
+	
+

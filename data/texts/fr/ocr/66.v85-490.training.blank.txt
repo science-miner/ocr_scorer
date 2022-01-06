@@ -1,0 +1,363 @@
+
+	
+
+		
+
+	
+
+	
+
+L'o-nitrobenzylidenedimethylsulfuranne: synthese, reactivite 
+
+YANNICK LE STANC ET MAURICE LE CORRE' 
+
+Laboratoire de Synth2se Orgnnique, UA CNRS 415, Avenue du Gtntrnl Leclerc, 35042 Retltzes Ctdex, France 
+
+R e p le 9 novembre 1984 
+
+YANNICK LE STANC ET MAURICE LE CORRE. Can. J. Chem. 63, 2958 (1985). 
+Le bromure d'o-nitrobenzyldimCthylsulfonium et l'ylure correspondant des composts trks instables qui tvoluent, en 
+milieu aqueux, en donnant selon les conditions: I'alcool o-nitrobenzylique, le sulfure d'o-nitrobenzyle ou le sulfure de mCthyle 
+et d'o-hydroxymethylbenzyle. L'accks aux o-nitrophCnyloxirannes est possible, avec les aldkhydes, dans un systkme bi-
+phasique soude aqueuse/dichloromCthane. 
+
+YANNICK LE STANC AND MAURICE LE CORRE. Can. J. Chem. 63, 2958 (1985). 
+In aqueous solution, o-nitrobenzyldimethylsulfonium bromide and the corresponding ylid give, depending upon the condi-
+tions, o-nitrobenzyl alcohol. o-nitrobenzylsulfide, or methyl o-hydroxymethylbenzyl sulfide. The o-nitrophenyloxiranes may 
+be obtained by the reaction of nitrobenzylidenedimethylsulfurane with aldehydes in a two-phase aqueous sodium 
+hydroxide/dichloromethane system. 
+
+Bien que les o-nitrophenyloxirannes aient etC signales a 
+plusieurs reprises dans la litterature ( I ) , la voie d ' a c c b la plus 
+gtntrale, qui consiste a partir de 1'0-nitrobenzylidkne sul-
+
+furanne, n'a jarnais Cte dtcrite. Dans le cadre de nos recherches 
+en serie indolique, nous avons ete amen&amp; a preparer et a 
+Ctudier le comporternent du sel de sulfonium 1 et de l'ylure 
+
+correspondant. 
+
+Cette etude a rev616 que le sel 1 ne conduit pas aux oxirannes 
+
+dans les conditions habituelles (action d'une base puis d'un 
+dtrivC carbonyle dans un solvant anhydre) par suite notarnrnent 
+d'une reaction concurrente rnettant en jeu le groupement NO2. 
+
+L'analyse du produit reactionnel obtenu lors des differents es-
+
+sais prClirninaires a revele que le sel de sulfoniurn 1 est sus-
+
+ceptible d'kvoluer en milieu aqueux, selon plusieurs directions 
+que I'on peut contrbler en rnodifiant la concentration et le 
+
+pH du milieu. L'hydrolyse du sel 1 conduit essentiellernent 
+
+sol. diluCe 
+
+2 
+
++ 
+
+,,~fz--SMe~Br-
+
+sol. conc 
+
+'Auteur i qui adresser la correspondance. 
+Can. J. Chem. Downloaded from www.nrcresearchpress.com by 87.160.185.190 on 03/27/14 
+
+For personal use only. 
+
+
+LE STANC ET LE CORRE 
+
+(schCma 1) a l'alcool o-nitrobenzylique 2 en solution diluCe, au 
+Ce rCsultat est a rapprocher des observations trks rCcentes de 
+
+sulfure d'o-nitrobenzyle 3 en solution concentree et au sulfure 
+
+Ta-Jyh Lee et Holts relatives aux sels de o-chlorCs 
+
+alcool 4 en milieu basique. 
+(2) (schCrna 4): 
+
+Interpretation 
+
+La diffkrence d'evolution en fonction des conditions exptri-
++, CH3 
+mentales peut s'interpreter (schCma 2) en adrnettant que: (i) en 
+&amp;cH2-s\cH3 
+Nu 
+&amp;cH2-Nu 
+milieu diluC, la riaction principale est une hydrolyse qui con-
+Cl 
+CH2-S-CH3 
+
+duit rnajoritairement a 2; (ii) en milieu concentrk l'attaque par 
+
+les ions Br-, prksents en quantitC importante, devient prCpon-
+
+dCrante et mene a un mClange des dCrivCs 5 et 6. 
+L'hypothkse d'une hydrolyse du sulfure 6 en alcool 2 qui 
+
+aurait pu expliquer la difference d'orientation de la r~action a 
+
+Ct C CcartCe; le sulfure 6 est en effet inattaque aprks 18 h de 
+reflux dans une solution aqueuse brornhydrique 1 N. 
+A partir de ces deux cornposCs, la formation du sulfure 3 
+resulterait d'une alkylation du sulfure 6 par le dCrivC bromC 5 
+suivie d'une hydrolyse de ce nouveau sel 7 en sulfure 3 . I1 
+
+convient de remarquer que le problerne de la regiosClectivitC de 
+I'hydrolyse n'intervient pas lors de cette derniere ttape, puis-
+que I'attaque du rnethylene benzylique redonne les produits de 
+dCpart. 
+
+La formation, tout a fait inattendue, du dCrivC 4 peut s'in-
+
+terpreter par un rkarrangernent de Sornrnelet-Hauser au cours 
+
+duquel le rnkthylene-cyclohexadikne interrnkdiaire Cvolue sous 
+
+I'action de OH-avec Clirnination du groupernent NO, (schCrna 
+3). 
+
+Nu = MeO-, CN-, etc. ... 
+
+SCHESMA 4 
+
+I1 convient de noter que, dans le cas des dCrivCs chlorCs la 
+rkaction d'klirnination n'est possible que si la position ortho est 
+Cgalernent substituCe par C1 ou SO3R. Le rCsultat obtenu avec 
+
+1'0-nitrobenzylidknesulfuranne confirme donc les excellentes 
+
+propriCtCs nuclCofuges du groupernent NO,, dCja 0bservCes 
+dans d'autres rkactions (3). 
+L'acces aux o-nitrophknyloxirannes est cependant possible a 
+partir du sel 1 si on libere l'ylure en prCsence du dCrivC car-
+
+bonylC, dans un systkrne biphasique CH2Clz/NaOH concen-
+trCe. En raison de I'instabilitC de l'ylure, seuls les aldthydes 
+conduisent aux oxirannes (voir tableau 1). La stabilisation ap-
+portCe par le groupernent NOz est suffisante pour que, dans le 
+cas de l'acroleine, la condensation Cvolue vers le formyl-cyclo-
+propane (schCma 5): 
+
+(1) RCHO 
+(2) OH-
+
+4 R = CH2=CH-
+
+9 
+
+S C H ~M A 
+
+5 
+
+L'analyse par rmn 'H du systerne Cpoxydique (voir tableau 
+
+cation contraire, les spectres rmn ont CtC rCalisCs dans CDCI-, avec 
+1) rnontre que la rkaction est stCrCospCcifique et conduit exclu-
+cornrne reference le TMS. Spectres de rrnn 'H: Varian EM-360 L, 
+sivernent au compose trans. 
+spectres de rnasse: Varian MAT 3 1 1 . 
+
+La cyclopropanation, non stCrCospCcifique, conduit a un mC-
+
+Bromure ~'o-lli~robenzy~dim~hy~SUIfollium 1 
+lange E / Z dans le rapport 75 : 25. 
+
+A 21,6 g (0, l rnol) d'u-brorno o-nitrotoluene dans 20 rnL de chloro-
+forme on ajoute 12,4 g (0.2 rnol) de sulfure de rnCthyle. Apres 24 h 
+
+Partie experimentale 
+
+B 50°C, le sel de sulfoniurn, qui cristallise, est filtrC, rinct avec 2 fois 
+Les points de fusion ont CtC determines au banc Kofler. Sauf indi-
+5 rnL de chloroforrne et sCchC; Rtd: 96%; F("C): 89-90; rrnn 'H 
+Can. J. Chem. Downloaded from www.nrcresearchpress.com by 87.160.185.190 on 03/27/14 
+
+For personal use only. 
+
+
+CAN. J. CHEM. VOL. 63, 1985 
+
+TABLEAU I . o-NitrophCnyl oxirannes 
+
+NO? 
+
+-
+
+~ 
+
+CornvosC 
+R 
+Rdt (%) 
+FCC) 
+Litt. 
+H: 
+H: 
+J,, (Hz) 
+
+8 a 
+H 
+42 
+63-64 
+65(4) 
+4,46 2,60 
+2 
+8 b 
+PhCnyl 
+92 
+98-100 
+101-102(5) 
+4,46 3,73 
+2 
+8 c 
+
+94 
+46-47 
+4,90 3,73 
+2 
+8 d 
+p-Nitrophtnyl 
+83 
+165 
+160-162(5) 4,42 3,86 
+2 
+
+'6 en ppm par rapport au TMS dans CDCI,. 
+
+(D20): CH3 ti 2,05 (s, 6H), CH2 a 4,10 (s, 2H), protons arornatiques 
+
+de 6,s-7,5 (rn, 4H). Anal. calc. pour C9HI2BrN0,S: C 38,84, 
+H 4,31, Br28,77; tr.: C38,61, H4,19, Br28,62. 
+
+Alcool o-nitrobenzylique 2 
+
+On porte a reflux pendant 24 h une solution de 2,78 g (0,01 mol) 
+
+de sel de sulfoniurn dans 150 mL d'eau. Le produit brut, obtenu par 
+extraction au dichloromCthane et Cvaporation du solvant, est purifiC 
+par chromatographie sur acide silicique (70-230 mesh; dichloro-
+methane-Cther 95:5); Rdt: 77%; FCC): 71 -72 (litt. (6) F 74°C); rmn 
+'H: 0-H a 3,20 (s, IH), CH2 5,06 (s, 2H), protons arornatiques a 
+7,2-8,1 (rn, 4H). 
+
+Sulfure d'o-nitrobetzzyle 3 
+On porte a reflux pendant 24 h une solution de 5,56 g (0,02 mol) 
+de sel de sulfoniurn 1 dans 10 mL d'eau. Le produit brut obtenu par 
+extractlon au dichloromtthane, est dissout dans 30 rnL d'Cthanol au 
+reflux. Le sulfure 4 cristallise au refroidissernent, il est alors filtrC et 
+
+sCchC; Rdt: 48%; F("C): 120-122; rmn 'H: CHI a 4,10 (s, 4H), 
+
+protons arornatiques 7.3-8,l (m, 8H). Spectre de masse: M calculCe 
+pour CI4HI2N2O4S: 304,052; trouvCe: 304,05 1. 
+
+Sulfure de mkthyle et d'o-hydroxymkthyl ber~zyle 4 
+On porte reflux pendant 2 h une solution de 5,56 g (0,02 mol) de 
+sel de sulfonium 1 dans 50 rnL de soude 1 N. Aprks extraction au 
+
+dichlorornCthane et Cvaporation du solvant, on isole, a partir du mC-
+
+lange obtenu, le sulfure 5 par chromatographie sur acide silicique 
+(70-230 mesh; dichloromCthane); Rdt: 45%; Eo.h = 114-1 15OC; 
+
+rmn 'H: CH3 a 1,97 (s, 3H), 0-H a 3,10 (s, IH), SCH, a 3,73 
+(s, 2H), 0CH2 a 4,70 (s, 2H), protons arornatiques a 7,2-7,5 
+
+(m, 4H). Spectre de masse: M calculCe pour CoHI,OS: 168,253; 
+trouvCe: 168,252. 
+
+o-Nitrophknyl-2 oxiranne 8a 
+A une suspension de 13,9 g (0,05 rnol) de sel de sulfonium 1 dans 
+25 rnL de dichloromCthane et 4 mL d'une solution aqueuse de for-
+
+maldChyde a 37%, on ajoute sous vive agitation rnagnktique 37.5 mL 
+
+de soude 10 N; la coloration mauve d'ylure apparait aussitat. Aprks 
+disparition de la coloration de I'ylure (10 min environ) l'ensemble est 
+diluC par addition de 30 mL d'eau, puis extrait par 2 fois 30 rnL de 
+dichlorornCthane. La phase organique dtcantke est concentrCe l'tva-
+porateur rotatif et I'huile obtenue distillCe sous pression rCduite; Rdt: 
+42%; Eo., = 94-96°C; F("C): 63-64 (litt. (4) F 65°C); rmn 'H: 
+protons Cpoxydiques a 3,26 (q, lH, J A M = 6 Hz, JAx = 4 Hz), 2,60 
+(q, IH, J A M = 6 HZ, Jp,qX=2 HZ), 4,46 (4, IH, J A x = 4 HZ, 
+J,x = 2 Hz), protons arornatiques a 7,l-8,13 (rn, 9H). 
+
+o-Nitrophknyl-2 phknyl-3 oxiratlrte 8 b 
+A une suspension de 13,9 g (0,05 rnol) de sel de sulfoniurn 1 dans 
+25 rnL de dichlorornCthane contenant 0,075 mol dlaldChyde on ajoute, 
+sous vive agitation magnktique 40 rnL de soude 10 N. Aprks 2 h a 
+
+ternpCrature arnbiante, l'ensernble est diluC par addition de 30 rnL 
+d'eau, puis extrait par 2 fois 30 mL de dichloromCthane. La phase 
+organique obtenue aprks dkcantation est constituCe presque exclu-
+sivement de 1'Cpoxyde et d'aldthyde en excks. Aprks Climination de 
+I'aldChyde par distillation sous pression rCduite 1'0-nitrophCnyl-2 
+phtnyl-3 oxiranne cristallise; Rdt: 92%; F("C) ethanol: 98-100 (litt. 
+
+(5) F 101 -102°C); rmn 'H: protons Cpoxydiques ti 3,73 (d, IH, 
+
+' J = 2 Hz) et 4,46 (d, IH, 'J = 2 Hz), protons aromatiques a 
+
+7,l-8,13 (m, 9H). 
+
+(Furyl-2)-2 o-nitrophknyl-3 oxiranne 8 c 
+"Mode operatoire" identique au precedent; Rdt: 94%; F("C) hexane: 
+
+46-47; rmn 'H: protons Cpoxydiques a 3,73 (d, IH, 'J = 2 Hz) et 4,9 
+
+(d, IH, ' J = 2 Hz), protons furyliques a 6,36-6,66 (rn, 2H), protons 
+arornatiques a 7,2-8,3 (rn, 5H). Anal. calc. pourC12HyN04: C 62,33, 
+H 3,89, N 6,06; tr.: C 62,15, H 3,75, N 6,Ol. 
+
+0-Nitrophknyl-2 p-nitroph6nyl-3 oxiranr~e 8d 
+
+"Mode opCratoireV identique ti celui utilisC pour la preparation de 8 b 
+
+et 8 c . Le produit rkactionnel brut, obtenu aprks Cvaporation du sol-
+vant, est dissout dans 30 rnL d'Cthanol; 1'0-nitrophCnyl-l p-nitro-
+phCnyl-3 oxiranne cristallise au refroidissernent; il est ensuite filtrC et 
+sCchC; Rdt: 83%; F("C): 165 (litt. (5) F 160-162°C); rrnn 'H: protons 
+
+Cpoxydiques B 3,86 (d, IH, 'J = 2 Hz) et 4,42 (d, IH, ' J = 2 Hz), 
+
+protons arornatiques a 7,3-8,5 (m, 8H). 
+
+Focmyl-1 o-nitrophknyl-2 cyclopropane 9 
+A une solution de 4,2 g d'acrolCine (0,075 rnol) dans 25 mL de 
+dichlorornethane, on ajoute 13,9 g (0,05 rnol) de sel de sulfoniurn 1 , 
+puis sous vive agitation, 40 mL de soude 1 N. 
+Aprks disparition de la coloration de I'ylure (10 min environ), on 
+ajoute 30 rnL d'eau, dCcante la phase organique puis extrait deux fois 
+la phase aqueuse au dichloromCthane (60 mL). La phase organique est 
+concentric I'tvaporateur rotatif et l'huile obtenue distillee sous 
+pression rtduite; Rdt 83%; E O . ~ 
+= 134OC; rmn 'H: protons cyclo-
+
+propaniques de 1,3 a 3,3 (m, 4H), protons arornatiques de 7,l a 8,1 
+
+(rn, 4H), CHO cis 2 9,O (d, J = 5 Hz), CHO trans 5 9,4 (d, J = 5 
+
+Hz). Anal. calc. pour CloHyN03: C 62,82, H 4,71, N 7,32; tr.: 
+C 62,70, H 4,68, N 7,27. 
+
+1. T. WATANABE, F. HAMAGUCHI ET S. OHKI. Chem. Pharm. Bull. 
+20, 2123 (1972); W. WIERENGA, A. W. HARRISON, B. R. EVANS 
+et C. G. CHIDESTER. J. Org. Chern. 49, 438 (1984). 
+2. TA-JYH LEE et W. J. HOLTS. Tetrahedron Lett. 2071 (1983). 
+3. J. R. BECK. Tetrahedron, 34, 2057 (1 978). 
+4. F. ARNDT et W. PARTALE. Chem. Ber. 60, 446 (1927). 
+5. 0. CHRZESCINSKI. Thkse, Strasbourg (191 1). 
+6. M. P. PIERRON. Bull. Soc. Chim. Fr. 852 (1901). 
+
+Can. J. Chem. Downloaded from www.nrcresearchpress.com by 87.160.185.190 on 03/27/14 
+
+For personal use only. 
+
+
+
+	
+

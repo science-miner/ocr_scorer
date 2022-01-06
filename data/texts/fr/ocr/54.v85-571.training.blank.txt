@@ -1,0 +1,1338 @@
+
+	
+
+		
+
+	
+
+	
+
+Structure cristalline du complexe de magnesium de la calcimycine (A. 23187) 
+
+MARC ALLEAUME' ET YVETTE BARRANS 
+Laboratoire de cristallogrphie, U.A. 144, C.N.R.S., Universift de Bordeaeaux 1, 33405 Talence Ctdex, France 
+R e ~u le 14 janvier 1985 
+
+MARC ALLEAUME et YVETTE BARRANS. Can. J. Chern. 63, 3482 (1985). 
+Le cornplexe de rnagnCsium 1 : 2 de I'antibiotique calcirnycine (A. z3 187) cristallise dans le groupe spatial P2 I , avec des 
+
+paramktres de rnaille a = 11,152(2), b = 27,684(2), c = 10,168(2) A, P = 107,02(2)" et Z = 2. La structure a Ct C affinCe 
+
+jusqu'i un facteur de reliabilitk R = 0,063 pour 3473 reflexions observCes. La coordination octatdrique de I'ion ~g ' + est 
+hauternent syrnitrique. Chaque ion calcimycine est liC i Mg2+ par un oxy8ene carboayle, un oxygkne carboxyle et I'azote dy 
+cycle benzoxazole. Les distances Mg-0 sont respectivernent de 2,00 A et 2,06 A, les distances Mg-N sont de 2,23 A 
+( a = 0.01 A). 
+
+MARC ALLEAUME and YVETTE BARRANS. Can. J. Chem. 63, 3482 (1985). 
+The 1 : 2 magnesium ion complex of the antibiotic calcirn~cine (A. 23187) crystallizes in the space group P 2 ] with cell 
+
+dimensions a = 11.152(2), b = 27.684(2), c = 10.168(2) A, P = 107.02(2)0, and Z = 2. The structure was refined to an 
+
+R = 0.063 based on 3473 observed reflections. The octahedral coordination of the Mg2+ ion is highly symmetrical. Each 
+calcirnycine ion is bound to Mg2+ through a carboxyl~oxygen, a carbonyl oxygen, and the nitrog~n of the ben~oxazole ring 
+system. The Mg-0 distances are respectively 2.00 A and 2.06 A, the Mg-N distances 2.23 A ( a = 0.01 A). 
+
+La calcimycine ou A. 23 187 est un polyCther monocarboxy-
+lique douC de propriCtCs ionophores: il complexe et transporte 
+essentiellement les cations divalents Cap', M g 2 + . 
+Plusieurs structures cristallines de la calcimycine' ont i t &amp; 
+determinees: calcirnycine, acide libre (I); 2[calci]-Ca2+, 2 
+Cthanol (2); 2[calci]-Ca", H 2 0 (3); et, plus rCcemment, 
+2[calci]-Fe2+, 2 Cthanol (4). Nous publierons prochainement 
+la structure du complexe 2[calci]-Mn". 
+
+MeN 
+
+Calcimycine = A.23 187 
+
+Les conditions d'extraction et de purification de la calci-
+
+rnycine a partir de la souche de Streptomyces chartreusensis 
+
+sont prCcisCes dans I'article suivant (5). 
+
+Partie experimentale 
+
+Les cristaux du complexe 2[calci]-Mg2+ ont Ct C obtenus par 
+
+cristallisation d'une solution dans un mClange rnCthanol + acCtone. 
+
+Le cristal utilisC pour la collection des donnCes Ctait une aiguille 
+prisrnatique de dimensions 0,20 x 0,30 x 0,25 rnm7. Toutes les 
+donnCes cristallographiques-pararnktres 
+cristallins et intensitCs 
+diffracttes-ont Ct C mesurCes sur un diffractomktre Enraf-Nonius 
+
+CAD-4 equip6 d'un rnonochrornateur au graphite (XK,, , = 1,5405 A). 
+
+Le tableau I rCsume les donnCes cristallographiques et les conditions 
+de rnesure 
+
+Affinemerlt de la srritcture 
+Sur les 5207 rkflexions independantes mesurCes, 3473 riflexions 
+
+"observ~es" ( I &gt; 3u(I)) ont Ct C utilisCes dans la suite des calculs, 
+
+aprks correction de Lorentz et de polarisation. Aucune correction d'ab-
+
+sorption n'a Ct C appliquCe (pR &lt; 0,002). La structure a Ct C dCterrninCe 
+
+par rnkthodes directes en utilisant le programme MULTAN. Les 213 
+des atornes "lourds" sont apparus sur la prernikre carte de densit6 
+Clectronique. Aprks 7 cycles d'affinement isotrope portant sur les 77 
+atornes "lourds", 3 cycles d'affinement anisotrope furent conduits 
+avant I'introduction des atornes d'hydrogkne. Tous les atornes d'hydro-
+gkne ont Ct C affect&amp; d'un coefficient d'agitation thermique isotrope. 
+Les hydrogenes portCs par les groupements rnCthyle n'ont pas Ct C 
+introduits dans I'affinernent. Trois nouveaux cycles d'affinernent sur 
+ces 1 19 atomes ont conduit a un facteur de reliabilitC R = 0,063 pour 
+
+les 3473 rkflexions obsewkes (R = C 11 F,, ( -I F, I/ / C I F , I), et un 
+
+paramktre d'accord s = 
+1,52. La densit6 Clectronique 
+
+rCsiduelLe sur la carte de Fourier-diffirence finale est inferieure i 
+0,30 e A-'. Les coordonnCes atorniques (tableau 2), les pararnktres 
+d'agitation thermique anisotrope7 ou isotrope (atornes d'hydrogkne) 
+ont Ct C affinCs par rnoindres carrCs, en bloc diagonal; valeur minimiske 
+
+C w( I F,, I -/ FF 1 ) 2 ; schCrna de pondCrttion: 6 = 1 si I F,, I &lt; p et 
+= p / F , sl / F,,( &gt; p avec p = [ F ; , , , , , , / 10]1/2; facteurs de dif-
+
+fusion de International Tables for X-Ray Crystallography (1974) pour 
+les atornes lourds et de Stewart etnl. (6) pour les atomes d'hydrogkne. 
+
+Discussion 
+
+Comme dans le complexe de C a 2 + , 2 ions [calcil-s'asso-
+cient t&amp;te-b&amp;che pour crCer une cavite complexante fermCe. 
+Chaque ion [calcil-forme une derni-coquille (fig. I). Les 2 
+demi-coquilles identiques qui encagent le cation Mg2+ se 
+
+dCduisent I'une de l'autre par un pseudo-axe binaire $(A2) 
+
+passant par le cation (fig. 1). Deux liaisons hydrogkne iden-
+tiques N(32)-H(321). 
+
+. . O(73) et N(72)-H(721). . . 0 ( 3 3 ) , 
+
+avec N-0 quasi identiques (2,84 A et 2,85 A), complktent la 
+
+stabilisation de c e systkme complexant. 11 faut cependant 
+
+remarquer que les angles O H . . . N sont voisins de 150" (a = 
+
+lo0), ce qui implique une liaison hydrogkne rnoins forte que ne 
+
+l'indiquent les seules distances N . . . 0. 
+
+1 . Ions calcimycine 
+A l'exception des distances autour des carbones hornologues 
+
+1 % 
+
+A qui doit Ctre adressC toute correspondance sur ce travail. 
+' ~a n s la suite de cet article, nous dksignerons sous I'abrCviation 
+[calcil-I'ion resultant de la dCprotonation de la rnol6cule de calci-
+rnycine. 
+
+'Les coefficients d'agitation thermique et les facteurs de structures 
+observks et calculCs ont ttC dCposCs; on peut les acheter en s'adres-
+sant au DCpBt des donnCes non publiCes, ICIST, Conseil national de 
+recherches du Canada, Ottawa (Ont.), Canada KIA 0S2. 
+
+Can. J. Chem. Downloaded from www.nrcresearchpress.com by 87.160.185.190 on 03/27/14 
+
+For personal use only. 
+
+
+TABLEAU 1. DonnCes cristallographiques et conditions de 
+mesure 
+
+Formule chimique: (C29H36N30h)2Mg 
+M: 1069,5 
+(a) Groupe spatial P 2 , 
+
+z = 2 
+
+n = 11,152 (2) 4 
+b = 27,684 (2) A 
+
+F , = 1136 
+c = 10,168 (2) A 
+
+D, = 1,18 mg x m-3 
+p = 107,02" 12) 
+
+p = 0,66 cm-' 
+V = 3001,7 A" 
+(b) Balayage 0 -o; rapport de vitesse 0 / o = 1/2 
+0,i. = lo; Om,, = 65" 
+Reflexions de contrdle: 240; 212; pCriodicitC 5400 s 
+
+TABLEAU 2. CoordonnCes atomiques (X loJ), et B Cquivalents des 
+atomes lourds* 
+
+Atome 
+
+x 
+
+Y 
+
+7 
+
+B c q 
+
+TABLEAU 2. (Suite) 
+
+Atome 
+
+x 
+
+Y 
+z 
+B,,, 
+
+*B,, = ;(aZP1, + bZPZ1 + cZP33 + bcPZ3 + caPll + a b P I 2 ) Les co-
+
+ordondes atomiques et les B isotropes des atomes d'hydrogcne ont 6te deposes 
+(Tableau 2'). 
+
+FIG. 1. Projection stCriographique du complexe sur un plan passant 
+par +(Az). 
+
+C(5) et C(45), aucune variation significative n'apparait entre 
+les ions [calci], et [calci],. La figure 2 donne les valeurs 
+
+rnoyennes des distances et des angle^.^ 
+
+Cette identit6 conforrnationnelle des ions I et I1 est confirrnee 
+
+par l'accord entre les deux series d'angles de torsion x (tableau 
+
+3) ((8x)lnax = 4O, ( 8 ~) ~~~~ 
+= 2,3O, 
+= lSO)). 11 faut 
+noter que dans le cornplexe de Ca2' (3) les variations d'angles 
+de torsion entre les ions I et I1 sont beaucoup plus irnportantes 
+((8x)max = 20'; (8x)moy = 674'; ~( 8 , ~~~) 
+= 4,2"). 
+Le tableau 4 donne les Ccarts significatifs aux groupernents 
+plans benzoxazole et citopyrrole. L'ecart de l'atorne C(9) est 
+dO aux contraintes steriques irnposees par le spiroacetal. La 
+variation de position des rnethyles C(25)I et C(65)II pourrait 
+
+-
+
+' ~e s figures 2' et 2" donnant respectivement les longueurs de liai-
+sons et les angles de valence de chacun des 2 ions [calci] ont Ct C 
+dCpostes; on peut les acheter en s'adressant au DCpdt des donnCes non 
+publites, ICIST, Conseil national de recherches du Canada, Ottawa 
+(Ont.), Canada K1A 0S2. 
+
+Can. J. Chem. Downloaded from www.nrcresearchpress.com by 87.160.185.190 on 03/27/14 
+
+For personal use only. 
+
+
+CAN. 1. CHEM. VOL. 63. 1985 
+
+*-, 
+
+29 
+
+34 
+
+FIG. 2. Valeurs moyennes des distances et des angles. uc-c = 0,007-0,015 A; UC-0 ' 0,07 A; UC-N ' 0,07 A; UC-c-c ' 0,7'; UC-0-C, 
+
+UC-N-C 
+
+= 0,s'. 
+
+TABLEAU 3. Angles de torsion (") des ions [calci], et 
+
+N(3 1) . . . . N(71) ou O(38). . . O(73)) sont de type contacts de 
+
+[calci],; u = lo 
+van der Waals, ?n est conduit 5 prend~e les valeurs suivante:: 
+RMg1+ = 0,60 A; Ro carboxylc = 1740 A; RO carbonylc = 1,46 A; 
+X 
+
+[calci], 
+[calci], 
+
+R N = 1,65 A. 
+
+O(35) C(8) C(9) C(10) 
+
+Les valeurs que nous proposons sont 1Cgerement diffkrentes 
+
+-95 
+
+-99 
+
+N(3 1) C(8) C(9) C(10) 
+76 
+73 
+
+de celles habituellement adrnises (7, 8). Le tableau 5, colonnes 
+
+C(8) C(9) C(l0) O(36) 
+50 
+52 
+
+(a) et (b), rnontre qu'elles donnent, pour le complexe CtudiC, un 
+
+C(8) C(9) C(10) C(l1) 
+174 
+173 
+
+excellent accord entre les distances "observCes" et les distances 
+
+O(37) C(18) C(19) C(20) 
+67 
+63 
+
+calculCes 5 partir de nos propres valeurs. 11 en est de rnCrne pour 
+
+C(17) C(18) C(19) C(20) 
+-171 
+-173 
+
+d'autres complexes hexacoordonnCs de Mg" . La structure de 
+
+C(18) C(19) C(20) C(21) 
+-98 
+-98 
+
+Mg-malate pentahydrate (9) donne des rCsultats cornparables: 
+
+Mg" . . . 0 de 2,02 2 2 , l l A. Ces valeurs sont aussi en accord 
+
+&amp;tre like aux variations de distances autour du carbone C(5) 
+signalCes plus haut. 
+11 faut noter que l'ion Mg" est toujours voisin du plan du 
+cycle, ce qui correspond a la gtomttrie la plus favorable de 
+l'interaction ion-ligande pour les 3 ligandes O(carboxyle), 
+O(carbonyle), N(pyrro1e). 
+
+2. Environnement du cation 
+La complexation hexacoordonnCe de l'ion Mg2' est assurCe 
+par 4 atomes d'oxygkne et 2 atomes d'azote, chacun des 2 ions 
+[calcil-apportant la mCme contribution 5 cette cornplexation 
+(tableau 5). Ces 6 ligandes forment un octakdre quasi parfait 
+autour de Mg2'. La figure 3 donne une reprksentation schC-
+matique de cet octakdre, le pseudo-axe binaire $ ( A z ) Ctant dans 
+le plan de la figure. 
+Si l'on admet que les distances cation-ligande sont pra-
+tiquement Cgales ? i 
+
+la somme (rayon ionique + rayon de van der 
+
+Waals), et que pour les atomes irnpliquCs dans ces coordi-
+nations octakdriques, les contacts [calci], -[calci], (comrne 
+
+-
+
+avec les distances cation-ligande observkes dans le complexe 
+de Ca2' monohydratC 0(3), a condition de prendre un rayon 
+ionique Rc,2+ = 0,90 A. hes distances cation-ligande calcu-
+
+lCes vont de 2,?0 A a 2,52 A, les distances rnoyennes observCes 
+
+Ctant de 2,27 A 2 2,63 A. 
+De plus, ces deux sCries de valeurs calculCes pour les com-
+plexes de Mg2' et de Ca2' sont identiques aux valeurs obtenues 
+par minimisation d'Cnergie (10). La cornparaison des distances 
+cation-ligande dans ces deux structures permet d'affirmer que 
+la premikre structure de complexe publike (2) a CtC interpritCe 
+incorrectement: il ne s'agit pas d'un cornplexe de Ca2', mais 
+bien d'un comglexe de Mg". Les distances cation-ligande 
+vont de 1,92 A 2 2,22 A. Ces valeurs, voisines de celles 
+produites par le prisent travail, ne peuvent $re attribuCes a des 
+distances ca2'-ligande, qui sont de 0,30 A plus grandes. 
+
+Conclusions 
+Les deux traits majeurs du complexe 2[calci]-MgZ' a 1'Ctat 
+cristallin sont ( i ) I'identitC conforrnationnelle des 2 ions 
+Can. J. Chem. Downloaded from www.nrcresearchpress.com by 87.160.185.190 on 03/27/14 
+
+For personal use only. 
+
+
+TABLEAU 4. carts aux plans moyens des groupements benzoxazole et cktopyrrole 
+
+Atome 
+
+Atomes dkfinissant le plan 
+
+cart au plan (A) (a 5 0.01 A) 
+
+Plan 1, I 
+
+C(2), C(3), C(4), C(5), C(6) 
+C(7), C(8), NU]), O(35) 
+Plan 1, I1 
+C(42), C(43), C(44), C(45), C(46) 
+C(47), C(48), N(71), O(75) 
+Plan 2, I 
+c(20), 
+C(22), C(23) 
+C(24), N(32) 
+Plan 2, I1 
+C(60), C(61), C(62), C(63) 
+C(64), N(72) 
+
+FIG. 3. Environnernent octakdrique de I'ion Mg" 
+
+TABLEAU 6. Angles autour du 
+cation Mg2+ 
+
+Atomes 
+Angles (") 
+
+N(3 1)-Mg-O(33) 
+82,7(3) 
+N(3 1)-Mg-O(38) 
+86,7(3) 
+N(3 1)-Mg-N(7 
+1) 
+95,4(3) 
+N(3 1)-Mg-O(73) 
+96,6(3) 
+N(3 1)-Mg-O(78) 
+170,5(3) 
+O(33)-Mg-O(38) 
+91,0(3) 
+O(33)-Mg-N(71) 
+96,5(3) 
+O(33)-Mg-O(73) 
+178,8(3) 
+O(33)-Mg-O(78) 
+88,2(3) 
+O(38)-Mg-N(71) 
+172,4(3) 
+O(38)-Mg-O(73) 
+89,9(3) 
+O(38)-Mg-O(78) 
+90,7(3) 
+N(7 1 )-Mg-O(73) 
+82,6(3) 
+N(7 1)-Mg-O(78) 
+88,3(3) 
+O(73)-Mg-O(78) 
+92,5(3) 
+
+TABLEAU 5. Distances obsewkes (a) et calculkes (b) 
+pour l'octakdre de coordination 
+
+(a) 
+(b) 
+Atornes 
+
+Distance (A) 
+
+Distance (A) 
+
+[calcil-; et (ii) la symetrie octakdrique quasi parfaite des 6 
+
+ligandes qui assurent la complexation de I'ion Mg" . 
+
+La grande symetrie du complexe de Mg" ne se retrouve pas 
+dans le complexe de Ca2+; nous pensons que ces caract6 
+ristiques structurales, si elles se conservent en solution, pour-
+raient &amp;tre liees au transport preferentiel du Ca2' par rapport au 
+Mg2+ (5). La decomplexation du cation est, avec ce type de 
+
+complexe, une operation de "rupture de symCtrieW, que favori-
+serait une dissymktrie prkexistante, comme celle que prCsente 
+le complexe de Calf. 
+
+Remerciement 
+Ce travail a Ct C men6 dans le cadre de la Recherche Cooptra-
+tive sur Programme 801605 du C.N.R.S. 
+
+1. M. 0 . CHANEY, P. V. DEMARCO, N. D. JONES, et J. L. 
+OCCOLOWITZ. J. Am. Chern. Soc. 96, 1932 (1974). 
+2. M. 0 . CHANEY, N. D. JONES, et M. J. DEBONO. J. Antibiot. 29, 
+424 (1976). 
+3. G. D. SMITH et W. L. DUAX. J. Am. Chern. Soc. 98, 1578 
+(1976). 
+4. E. BAKER, E. N. MASLEN, K. J. WATSON et A. H. WHITE. 
+J. Am. Chem. Soc. 106, 2860 (1984). 
+5. J. BOLTE, C. DEMUINCK, et G. JEMINET. Can. J. Chem. 63,3478 
+(1985). 
+
+6. R. F. STEWART, E. R. DAVIDSON, et W. T. SIMPSON. J. Chem. 
+
+Phys. 42, 3175 (1965). 
+7. L. H. AHRENS. Geochim. Cosrnochirn. Acta, 2, 155 (1952). 
+8:L. PAULING. The nature of the chemical bond. 36 ed. Cornell 
+University Press, Ithaca, NY. 1960. p. 538. 
+9. W. VAN HAVERE et T. H. LENSTRA. Acta Crystallogr. Sect. B, 
+36, 2424 (1980). 
+10. N. GRESH et A. PULLMAN. Int. J. Quantum Chem. Quantum Biol. 
+Symp. 10, 215 (1983). 
+
+Can. J. Chem. Downloaded from www.nrcresearchpress.com by 87.160.185.190 on 03/27/14 
+
+For personal use only. 
+
+
+An evaluation of the kinetic data for the hydrogen transfer reactions: 
+
+CH3 + CH3COCH3, CD3 + CD3COCD3 and CH3 + CH3NNCH3 
+
+NEV~LLE L. ARTHUR AND PAULA J . NEWIIT 
+
+Department of Physical Chemistry, La Trobe University, Melbourrze, Victoria. Australia, 3083 
+Received June 20, 1985 
+
+NEVILLE L. ARTHUR and PAULA J. NEWIT. Can. J. Chem. 63, 3486 (1985). 
+An evaluation of the kinetic data for the reactions 
+
+[2] CH? + CH,COCH, + CH4 + CH,COCHz 
+[7] CD, + CD,COCD3 + CD4 + CD3COCD2 
+[I I] CH, + CH3NNCH3 + CH, + CH,NNCHz 
+
+has been undertaken, and the following rate constants, based on the value 1013-'%m' mol-I s-' for the recombination of CH3 
+and CD, radicals, are recommended: 
+
+log kz = ( I 1.54 ? 0.03) -(40490 ? 280)/19.145T 
+
+log k7 = ( 1 1.78 i 0.08) -(48500 i 690)/19.145T 
+
+log k 1 = (1 1.05 ? 0.07) -(33390 k 560)/ 19.145T 
+
+log ~~~( c o I T ) 
+= (11.21 i 0.08) -(34570 2 590)/19.145T 
+
+where k is in c m mol-I s-I, E is in J mol-I, the error limits are standard deviations, and k , , (corr) refers to the rate constant 
+corrected for the intramolecular elimination of CIH6 in the photolysis of CH,NNCH3. 
+
+NEVILLE L. ARTHUR et PAULA J. NEWIT. Can. J. Chem. 63, 3486 (1985). 
+On a prockdk a une &amp;valuation des donnkes cinktiques relatives aux rkactions 
+
+[2] CH, + CH,COCH, + CH, + CH,COCH2 
+[7] CD, + CD,COCD3 + CD4 + CD,COCD2 
+[I I] CH, + CH3NNCH3 + CH, + CH,NNCH, 
+
+et, en se basant sur la valeur de IO"." cm' mol-' s-' pour la recombination des radicaux CH2 et CD3, on recommande les 
+constantes de vitesses suivantes: 
+
+log k2 = ( 1 1,54 t 0,03) -(40490 k 280)/19,145T 
+
+log k, = (1 1,78 ? 0,08) -(48500 t 690)/19,145T 
+
+log k I = (1 1,05 t 0,07) -(33390 t 560)/ 19, 3457 
+
+log k, (corr) = (1 1,21 ? 0,08) -(34570 k 590)/ 19,145T 
+
+dans lesquelles k est en cm3 mol-' s-I, E est en J mol-I, les limites d'erreur sont les deviations standards et k l I (corr) se rkfkre 
+
+i la constante de vitesse corrigke pour I'klimination intramolkculaire de CzH6 lors de la photolyse du CH2NNCH,. 
+
+[Traduit par le journal] 
+
+Introduction 
+
+A vast quantity of kinetic data on the hydrogen transfer 
+
+reactions of CH, and C D , radicals has been gathered over the 
+past thirty years ( I , 2 ) . This has been made possible by the 
+
+availability of convenient, clean, sources of radicals: the pho-
+tolyses of acetone, acetone-d6, and azomethane. 
+For kinetic studies of this kind, the key reactions in the 
+
+photolysis of acetone (3) are: 
+
+photolyzed in the presence of a substrate, CH4 is also formed: 
+
+[5] CH, + RH + CH, + R 
+
+Provided that kz is known, that part of the total CH4 resulting 
+from reaction [2] ca? be calculated from RCzH6, and subtraction 
+gives RcH,[5]. k 5 / k : is then obtained from 
+
+[61 k51ki = R C H , D I / ( R ~~~~[ R H I ) 
+
+kz and k5 can be evaluated by inserting a value of k, from the 
+
+literature. 
+In the case of acetone-d6, two isotopically distinguishable 
+methanes are formed: 
+
+and the rate constant for reaction [2] is evaluated relative to that 
+
+[7] cD, + CD,COCD, + CD, + CD,COCD, 
+
+for [ 3 ] from the expression 
+
+I 
+
+I 
+
+r81 CD, + RH + CDXH + R 
+
+L 
+
+2 
+
+[41 k? /k: = RCH, [ ~~/ ( R ~~H ~[ C H ~C O C H ~I ) 
+k g can be evaluated by means of an expression analogous to 
+where R represents the rate of formation. When acetone is 
+eq. [ 6 ] , or the ratio k , / k , can be obtained from 
+Can. J. Chem. Downloaded from www.nrcresearchpress.com by 87.160.185.190 on 03/27/14 
+
+For personal use only. 
+
+
+ARTHUR A N D N E W I R 
+
+3487 
+
+and substitution for k7 gives a value for k , . 
+The relevant reactions in the photolysis of azomethane are 
+
+and a relation similar to eq. [4] allows k l l to be evaluated from 
+RCH4 and RCZH6. However, there is a considerable amount of 
+evidence (5, 6) that suggests that about 0.9% of the N2 formed 
+in the photolysis is produced by the intramolecular elimination 
+reaction 
+
+and the expression for k , , , corrected for the occurrence of 
+reaction [ 121, therefore becomes 
+
+When azomethane-substrate mixtures are photolyzed, reac-
+tion [5] must be added to those above. kS may be evaluated, 
+either by the analogue of eq. [6], ignoring the small correction 
+for reaction [12], or, taking it into account, by means of the 
+relation 
+
+where RcH,[5] is calculated from kIl(corr) via eq. [13]. 
+It can be seen from the above that rate constants for a par-
+ticular hydrogen transfer reaction can only be evaluated if rate 
+constants for attack on the radical source have previously been 
+measured. In order to determine whether a particular set of data 
+for abstraction from the radical source falls within acceptable 
+limits, and therefore whether subsequent data collected in the 
+same system can be regarded as reliable, best values for the 
+Arrhenius parameters for attack on the radical source must be 
+established. 
+Because of the limited amount of published rate constant 
+data available for attack on CH3COCH3, CD,COCD,, and 
+CH,NNCH,, previous evaluations (1, 4) have been confined to 
+the averaging of Arrhenius parameters. We have obtained a 
+large quantity of additional data by communicating with the 
+authors, or by reference to theses, and the evaluation presented 
+here is therefore based on a sounder statistical approach than 
+has previously been used. 
+
+Evaluation procedure 
+The handling of the large amount of data involved in this 
+work was greatly facilitated by the availability of an interactive 
+computer-based storage, retrieval, and analysis system devel-
+oped in this laboratory (7). For each investigation of a par-
+ticular reaction, an input file in a standard format is created, 
+containing the following information: authors, bibliographical 
+reference, radical source, reference reaction, temperature and 
+pressure ranges, comments, the rate constant versus tempera-
+ture data, and the Arrhenius parameters resulting from a least-
+squares treatment of the data.' 
+The information contained in the files can be retrieved ac-
+
+'A complete set of these data files is available and may be purchased 
+from the Depository of Unpublished Data, CISTI, National Research 
+Council of Canada, Ottawa, Ont., Canada K I A 0R6. 
+
+cording to reaction type (attacking radical), reaction, author or 
+reference, and the data from selected files can be combined into 
+a single large set. A least-squares analysis of the data is then 
+carried out to yield the Arrhenius parameters and their standard 
+deviations; the output includes a value for the deviation of each 
+data point from the line of best fit, and the data point furthest 
+from the line is identified. This, or any other, point can be 
+temporarily deleted and the remainder of the set reanalysed, a 
+process which can be repeated at the discretion of the evaluator. 
+To assist in the visual interpretation of the data analysis, the 
+option of a hard copy Arrhenius plot is available at any stage 
+of the analysis procedure. 
+
+Results and discussion 
+CH3 attack on acetone 
+Of the 40 studies of abstraction from acetone by CH, radicals 
+in the open literature, only 21 contain rate constant data. We 
+obtained a further 12 sets of data from the authors or from 
+theses, leaving only 7 studies for which data are not now 
+available. All of the results are summarized in Table 1, together 
+with the corresponding temperature ranges, and also rate con-
+stants evaluated at 400 K. The Arrhenius parameters quoted 
+have been recalculated by us from the original data by the 
+method described in the previous section, but without elimi-
+nating any of the data points. A number of discrepancies be-
+tween these values and those originally reported were noticed, 
+especially in the work done before electronic calculators and 
+computers came into common use. 
+Most of the data fall within the temperature range 393-
+523 K (120-250°C), and data outside of this range were ex-
+cluded. Three reasons contributed to this decision: the Arrhen-
+ius plot is known to be nonlinear at temperatures below about 
+393 K (3); product analyses outside these limits are less reliable 
+than within (at high temperatures much more CH4 is formed 
+than C2H6, whereas at low temperatures C1H6 predominates); 
+and, because the points are at the ends of the line, inclusion of 
+the small number of rate constants involved would have had a 
+disproportionate effect on the calculated Arrhenius parameters. 
+In addition to these data, those contained in ref. 14 were also 
+omitted because in that case CH, radicals were generated by 
+means of the thermal decomposition of di-tert-butyl peroxide, 
+rather than by the photolysis of acetone. 
+The combined data set edited in this way consisted of 395 
+points in 3 1 individual sets. Analysis by the method described 
+in the previous section showed that 4 points were greater than 
+4 standard deviations from the line of best fit. After these points 
+had been deleted, and taking the value of k, to be 
+crn3 
+mol-' s-I (48, 49), analysis of the remaining 391 points (in 
+31 sets) gave 
+
+[Is] log k2 = (11.54 1+_ 0.03) -(40490 1+_ 280)/19.145T 
+where k2 and A2 are in cm3 mol-' s-I and E is in J mol-'. The 
+data points and the line represented by eq. [I51 are shown in 
+Fig. 1. 
+The averages of the Arrhenius parameters listed in Table 1 
+
+-
+
+(omitting the very low results of ref. 9 and those from 
+experiments in which di-tert-butyl peroxide was the radical 
+source (14, 18)) are: log A = (1 1.48 5 0.23) and E = (39.84 
+5 1.57) kJ mol-', where the error limits are standard devia-
+tions from the mean. These values are slightly lower than those 
+suggested by Kerr and Parsonage ( 1), log A = ( 1 1.54 ? 0.2), 
+E = (40.6 ? 2.1) kJ mol-' and Arthur et al. (4), logA = 
+11.54, E = 40.29 kJ mol-I. In view of the much larger quan-
+Can. J. Chem. Downloaded from www.nrcresearchpress.com by 87.160.185.190 on 03/27/14 
+
+For personal use only. 
+
+
+CAN. 1. CHEM. VOL. 63. 1985 
+
+TABLE 1. Hydrogen abstraction from CH,COCH, by CH, radicals 
+
+log A 
+log A 
+Temp. 
+(~/crn, 
+
+E 
+
+log k 
+Temp. 
+(A/cm3 
+
+E 
+
+log k 
+(K) 
+mol-' s-') 
+(kJ mol-I ) 
+(400 K) Ref. 
+(K) 
+mol-' s-') 
+(kJ mol-I) 
+(400 K) Ref. 
+
+"Reevaluated. 
+*Di-tert-butyl peroxide was employed as the radical source. 
+'The authors reworked the data of ref. 15, allowing for three different light intensities. 
+
+"Average value at 406-408 K. 
+'N. L. Arthur and J. C. Biordi. Unpublished data, 1969. 
+
+tity of data involved in the present evaluation, the more rigor-
+ous approach employed, and the errors found in some of the 
+reported Arrhenius parameters, the agreement between the Ar-
+rhenius parameters proposed in the earlier evaluations and 
+those recommended here must be regarded as fortunate. 
+It is our opinion that the performance of a particular experi-
+mental system can be considered satisfactory only if the data 
+obtained with it for CH, attack on acetone yield Arrhenius 
+parameters that lie within four standard deviations of the val-
+ues given in eq. [15]. Our recommended values for the Ar-
+rhenius parameters for this reaction are therefore log A = 
+
+( 1 1.54 + 0.12) and E = (40.49 + 1.12) kJ mol-'. On this 
+
+basis the error limits suggested by Kerr and Parsonage are 
+rather too generous. 
+
+CD3 attack on acetone-d6 
+Of the 19 studies of deuterium abstraction from CD3COCD3 
+by CD, radicals in the literature, only 9 include rate constant -
+temperature data. We have secured a further 6 sets of data 
+through correspondence with the authors. 
+A summary of the Arrhenius parameters is presented in 
+Table 2. Before the combined data were analysed, rate con-
+stants outside the range 393-523 K were excluded, leaving 
+183 of the original 242 points in 14 individual sets. Least-
+squares analysis of these data, together with the same value for 
+k, as for CH3 recombination (49), yielded 
+
+[16] log k, = (11.78 + 0.08) -(48500 + 690)/19.145T 
+
+where the units are the same as before. An Arrhenius plot of the 
+data is shown in Fig. 2. All of the data points were found to be 
+within four standard deviations of the line of best fit. It is 
+interesting to note that with one exception, the only values of 
+the Arrhenius parameters for the individual studies more than 
+four standard deviations from the values in eq. [16] come from 
+
+FIG. 1. Hydrogen abstraction from acetone by CH, radicals. 
+
+work undertaken prior to 1955, before samples of acetone-d6 of 
+high isotopic purity became available commercially. 
+The arithmetic means of the Arrhenius parameters from 
+
+Table 2 are log A = ( 1 1.61 + 0.22) and E = (46.71 + 2.20) 
+
+kJ mol-I. These values are somewhat lower than those in eq. 
+[16] as a result of the influence on them of several low values 
+derived from a small number of points. The values recom-
+
+mended by Kerr and Parsonage, log A = (1 1.68 + 0.2) and 
+E = (47.7 + 2.1) kJ mol-I, and by Arthur et al., log A = 
+
+1 1.69 and E = 47.99 kJ mol-I, would also have been similarly 
+affected. 
+We consider that Arrhenius parameters which fall more than 
+four standard deviations outside the values given in eq. [16] are 
+almost certainly unreliable, and therefore our recommended 
+
+values are log A = ( 1 1.78 + 0.32) and E = (48.50 * 2.76) 
+
+kJ mol-I. 
+Can. J. Chem. Downloaded from www.nrcresearchpress.com by 87.160.185.190 on 03/27/14 
+
+For personal use only. 
+
+
+ARTHUR AND NEWITT 
+
+3489 
+
+TABLE 2. Deuterium abstraction from CD3COCD3 by CD, radicals 
+
+log A 
+log A 
+Temp. 
+(A/cm3 
+
+E 
+
+log k 
+Temp. 
+( ~/ c m ' 
+
+E 
+
+log k 
+(K) 
+mol-' sC1) 
+(kJ mol-') 
+(400 K) 
+Ref. 
+(K) 
+mol-I s-I) 
+(kJ mol-') 
+(400 K) Ref. 
+
+"Reevaluated. 
+'Average rate constant value at 471 K. 
+"Pyrolysis of acetonelacetone-d, mixture. 
+"G. Grieg. Private communication. 
+
+mechanical tunnelling (60), or to the loss of bending vibrations 
+in the transition state (61). 
+
+0.0 
+
+CH, attack on azomethane 
+We have traced 31 studies of the reaction of CH, radicals 
+with azomethane, but in only 10 of these were rate constant -
+
+2ym 
+
+temperature data reported. Although we have obtained a further 
+
+x 0-5 
+
+Y 
+
+8 sets of data from the authors, the proportion of the total for 
+
+0 
+
+0 
+
+which data are now available is still more than 20% less than 
+
+-
+
+for CH, attack on acetone and acetone-d6. 
+
+-1.0 
+
+The Arrhenius parameters for each study, together with the 
+corresponding temperature ranges, are summarized in Table 3. 
+As before, the Arrhenius parameters have been recalculated 
+from the orginal data wherever possible. 
+
+2.0 
+2.2 
+2.4 
+
+We conducted two evaluations of the combined data: one of 
+
+FIG. 2. Deuterium abstraction from acetone-d6 by CD, radicals. 
+
+Kinetic isotope effect for CH3 attack on 
+CH3COCH3/CD3COCH3 
+If it is assumed that the reactivities of CH, and CD3 radicals 
+are equal (47, 51), the kinetic isotope effect for attack on 
+CH3COCH, and CD3COCD3 can be evaluated from 
+
+Substituting our recommended values into this equation leads 
+to A H / A ~ = 0.58, E D -E H = 8.01 kJ mol-', and kH/kD = 
+6.4 at 400 K. 
+Experimental kinetic isotope effects are usually compared 
+with those predicted by the simple model that assumes the bond 
+being attacked is broken in forming the transition state (4). 
+According to this model, the ratio of A factors, AH/AD, is 1, 
+and the difference in activation energies, E D -E H , is identi-
+fied with the difference in zero-point energies of the C-H and 
+C-D bonds, Azpe. kH/kD is therefore given by 
+
+The vibrational frequencies of these bonds in CH3COCH3 and 
+CD3COCD, are 2937 cm-' and 2123 cm-', respectively (59), 
+from which Azpe = 4.87 kJ mol-I, and hence kH/kD = 4.3 at 
+400 K. Comparison of the predicted and experimental values 
+
+shows thatED -EH &gt; Azpe,AH/AD &lt; 1, and kH/kD &gt; 4.3 
+
+at 400 K. This may be due to the occurrence of quantum 
+
+rate constants uncorrected for the intramolecular elimination of 
+C2H6, reaction [12]; and the other of corrected data. In each 
+case only rate constants within the temperature range 333-
+463 K (60-190°C) were considered, and the data of ref. 62 
+and 69 were omitted because of their unusually high degree of 
+scatter. 
+After pruning the data in this way, 12 sets of rate constants 
+uncorrected for reaction [I21 remained, containing 166 points. 
+Least-squares analysis of these data, with the same value of k, 
+as before, gave 
+
+[I91 log k , , = (1 1.05 + 0.07) -(33390 k 560)/19.145T 
+
+An Arrhenius plot of the data is shown in Fig. 3. The simple 
+averages of the Arrhenius parameters for these 12 sets of data, 
+taken from Table 3, are log A = (10.89 k 0.30) and E = 
+(32.56 k 1.96) kJ mol-I. These values are somewhat lower 
+than those obtained in a similar way by Kerr and Parsonage: 
+
+log A = (1 1.05 + 0.03) and E = (33.1 5 2.1) kJ mol-'. 
+
+Again, the agreement between these values and those given 
+in eq. [19] is rather fortuitous, especially since Kerr and 
+Parsonage did not distinguish between Arrhenius parameters 
+corresponding to corrected and uncorrected rate constants. On 
+the basis that Arrhenius parameters that fall outside four stan-
+dard deviations from the values given in eq. [19] are suspect, 
+we recommend the values log A = (1 1.05 2 0.28) and E = 
+(33.39 k 2.24) kJ mol-I. 
+Fifteen studies have reported Arrhenius parameters derived 
+from rate constants corrected for the intramolecular elimination 
+of CzH6. Of these only 8 contained tables showing the rate of 
+Can. J. Chem. Downloaded from www.nrcresearchpress.com by 87.160.185.190 on 03/27/14 
+
+For personal use only. 
+
+
+CAN. J. CHEM. VOL. 63. 1985 
+
+TABLE 3. Hydrogen abstraction from CH3NNCH3 by CH3 radicals 
+
+Temp. 
+(K) 
+
+log A 
+(A/cm3 
+E 
+log k 
+mol-' s-I) 
+(kJ mol-I) 
+(400 K) Ref. 
+
+10.12k0. l l 
+27.32t0.81 6.55 
+62" 
+10.45k0.13 
+29.34k0.91 
+6.62 
+62"."' 
+10.49 
+30.50 
+6.51 
+63 
+10.54?0.07 
+30.7 1 20.47 6.53 
+64" 
+10.55k0.09 
+30.7620.57 6.53 
+64".h1 
+
+-
+-
+
+5.40' 
+65 
+
+-
+
+35.121.3 
+
+-
+
+66 
+8.85.20.22 
+20.41 k 1.03 6.18 
+67" 
+10.93k0.1 l 
+32.8020.80 6.65 
+68 
+
+-
+
+-
+
+6.95'" 
+69 
+10.94k0.26 
+32.642 1.67 6.68 
+70 
+10.97t0.04 
+32.76k0.33 6.69 
+71 
+
+-
+-
+
+6.00"2 
+10.7020.05 
+31.10k0.36 6.64 
+73" 
+1 1.03k0.06 
+34.3 120.42 6.55 
+74 
+10.84k0.08 
+32.7520.64 6.56 
+75" 
+10.84t0.09 
+32.73k0.72 6.57 
+75".h' 
+10.9 
+32.6 
+6.64 
+76 
+10.9720.04 
+32.97k0.33 6.66 
+77 
+11.5 
+36.4 
+6.75 
+78"2 
+
+log A 
+Temp. 
+(A/cm3 
+E 
+log k 
+(K) 
+mol-I s f ' ) 
+(kJ mol-') 
+(400 K) 
+
+337-431 
+10.84t0.17 
+32.682 1.24 6.57 
+298-437 
+11.55k0.10 
+36.4020.84 
+6.80 
+369-457 
+11.2620.17 
+34.72k 1.34 6.73 
+11.2520.18 
+34.55* 1.36 6.74 
+298-453 
+11.6k0.3 
+36.022.1 
+6.90 
+344-526 
+11.1 
+31.8 
+6.95 
+323-470 
+11.13k0.07 
+32.8720.55 6.84 
+366-447 
+1 1.01 20.05 
+32.18k0.35 6.81 
+11.03k0.05 
+32.2620.35 
+6.82 
+372-441 
+10.6720.09 
+30.39k0.67 
+6.70 
+10.7020.09 
+30.5720.68 6.7 1 
+352-450 
+11.48kO. 13 
+36.442 1.01 6.72 
+30 1 
+
+-
+-
+
+5.29"4 
+298-491 
+11.16k0.25 
+33.6821.84 
+6.76 
+323-453 
+12.0020.18 
+40.782 1.32 6.67 
+320-450 
+11.08t0.03 
+33.7520.24 
+6.67 
+11.10L0.04 
+33.8920.25 
+6.67 
+334-463 
+10.98t0.02 
+32.5520.16 
+6.73 
+11.04k0.02 
+32.9720.18 
+6.73 
+
+Ref. 
+
+"Reevaluated. 
+hCorrected for the intramolecular elimination of ethane: 1(0.009), 2(0.007), 3(0.012), 4(0.013), 5(0.0092). 
+'Average rate constant value at: l(296 K), 2(423 K), 3(333 K), 4(301 K). 
+"Approximate temperature range. 
+'P. Gray and L. J. Leyshon. Private communication. 
+
+FIG. 3. Hydrogen abstraction from azomethane by CH, radicals. 
+
+nitrogen formation, R N z , and hence only for these could rate 
+
+constants and Arrhenius parameters be recalculated. Analysis 
+of the 128 points involved gave 
+
+[20] log k,,(corr) = (11.21 2 0.08) 
+-(34570 2 590)/19.145T 
+
+These values are slightly higher than those corresponding to 
+the uncorrected data. The simple averages of the 8 pairs of 
+
+Arrhenius parameters are log A = (1 1 .OO 2 0.46) and E = 
+
+(33.09 2 3.33) kJ mol-' . We recommend that only Arrhenius 
+
+parameters which fall within the range log A = (1 1.21 ? 0.32) 
+and E = (34.57 2 2.36) kJ mol-' should be considered 
+
+satisfactory. 
+
+worths, London. 1976. 
+2. J. A. KERR and S. J. Moss. Handbook of bimolecular and ter-
+molecular gas reactions. Vol. I. CRC Press, Boca Raton. 1981. 
+3. S. W. BENSON. The foundations of chemical kinetics. McGraw-
+Hill, New York. 1960. 
+4 N. L. ARTHUR, K. F. DONCHI, and J. A. MCDONNELL. J. Chem. 
+Soc. Faraday Trans. 1, 71, 2431 (1975). 
+5. S.-L. CHENG, J. NIMOY, and S. TOBY. J. Phys. Chem. 71, 3075 
+(1967). 
+6. P. C. DURBAN and R. M. MARSHALL. Int. J. Chem. Kinet. 12, 
+1031 (1980). 
+7. G. S. PAXINOS. B.Sc. (Hons) Thesis, La Trobe University, Aus-
+tralia, 1975. 
+8. A. F. TROTMAN-DICKENSON and E. W. R. STEACIE. J. Chem. 
+Phys. 18, 1097 (1950). 
+9. L. M. DORFMAN and R. GOMER. Chem. Rev. 46, 499 (1950). 
+10. A. F. TROTMAN-DICKENSON, J. R. BIRCHARD, and E. W. R. 
+STEACIE. J. Chem. Phys. 19, 163 (1951). 
+1 I. A. J. C. NICHOLSON. J. Am. Chem. Soc. 73, 3981 (1951). 
+12. R. GOMER and G. B. KISTIAKOWSKY. J. Chem. Phys. 19, 85 
+(1951). 
+13. F. A. RAAL and E. W. R. STEACIE. J. Chem. Phys. 20, 578 
+(1952). 
+14. M. T. JACQUISS, J. S. ROBERTS, and M. SZWARC. J. Am. Chem. 
+SOC. 74, 6005 (1952). 
+15. T. G. MAJURY and E. W. R. STEACIE. Can. J. Chem. 30, 800 
+(1952). 
+16. E. WHIT~LE and E. W. R. STEACIE. J. Chem. Phys. 21, 993 
+(1953). 
+17. T. G. MAJURY and E. W. R. STEACIE. Disc. Faraday Soc. 14,45 
+(l.953). 
+18. G. 0. PRITCHARD, H. 0. PRITCHARD, and A. F. TROTMAN-
+DICKENSON. J. Chem. Soc. 1425 (1954). 
+
+19. L. MANDELCORN and E. W. R. STEAC~E. Can. J. Chem. 32, 331 
+
+(1954). 
+1. J. A. KERR and M. J. PARSONAGE. Evaluated kinetic data on gas 
+20. L. MANDELCORN and E. W. R. STEACIE. Can. J. Chem. 32, 79 
+phase hydrogen transfer reactions of methyl radicals. Butter-
+(1954). 
+
+Can. J. Chem. Downloaded from www.nrcresearchpress.com by 87.160.185.190 on 03/27/14 
+
+For personal use only. 
+
+
+ARTHUR AND NEWI' IT 
+
+349 1 
+
+21. H. G. OSWIN, R. REBBERT, and E. W. R. STEACIE. Can. J. 
+Chern. 33, 472 (1955). 
+22. F. S. DAINTON and D. E. MCELCHERAN. Trans. Faraday Soc. 51, 
+657 (1955). 
+23. J. CHANMUGAN and M. BURTON. J. Am. Chern. Soc. 78, 509 
+(1956). 
+24. F. S. DAINTON, K. J. IVIN, and F. WILKINSON. Trans. Faraday 
+SOC. 55, 929 (1959). 
+25. R. K. BRINTON. J. Am. Chem. Soc. 83, 1541 (1961). 
+26. J. C. T. THYNNE and P. GRAY. Trans. Faraday Soc. 58, 2403 
+(1 962). 
+27. I. B. BURKLEY and R. E. REBBERT. J. Phys Chern. 67, 168 
+(1963). 
+28. H. 0. PRITCHARD and G. 0 . PRITCHARD. Can. J. Chem. 41,3042 
+(1 963). 
+29. R. E. MARCH and J. C. POLANYI. Proc. R. Soc. Ser. A, 273, 360 
+(1963). 
+30. T. W. SHANNON and A. G. HARRISON. Can. J. Chem. 41, 2455 
+(1963). 
+31. M. CHER and C. S. HOLLINGSWORTH. Anal. Chern. 38, 353 
+(1966). 
+32. G. GRIEG and J. C. J. THYNNE. Trans. Faraday Soc. 62, 379 
+(1966). 
+33. L. ENDRENY I and D. L. LEROY. J. Phys. Chern. 71, 1334 (1 967). 
+34. P. GRAY and A. A. HEROD. Trans. Faraday Soc. 64, 1568 
+(1968). 
+35. H. SHAW and S. TOBY. J. Phys. Chern. 72, 2337 (1968). 
+36. N. L. ARTHUR and P. GRAY. Trans. Faraday Soc. 65,424 (1969). 
+37. R. E. BERKLEY, I. SAFARIK, H. E. GUNNING, and 0 . P. STRAUSZ. 
+J. Phys. Chern. 77, 1734 (1973). 
+38. P. GRAY and L. J. LEYSHON. Trans. Faraday Soc. 65,780 (1969). 
+39. R. SRINIVASAN and F. I. SONNTAG. Can. J. Chem. 47, 1627 
+(1969). 
+40. K. C. FERGUSON and J. T. PEARSON. Trans. Faraday Soc. 66,910 
+(1 970). 
+41. S. SATO, C. TAKAHASHI, and S. TSUNASHIMA. Bull. Chem. Soc. 
+Jpn. 43, 1319 (1970). 
+42. T. R. DONOVAN, W. DORKO, and A. G. HARRISON. Can. J. 
+Chern. 49, 828 (1971). 
+43. N. L. ARTHUR and M. S. LEE. Aust. J. Chem. 29, 1483 (1976). 
+44. L. F. DAVID. M.Sc. Thesis, La Trobe University, Australia, 
+1976. 
+45. N. L. ARTHUR and P. J. NEWI'IT. Aust. J. Chem. 32, 1025 
+(1979). 
+46. M. G. DUKE and K. A. HoLBROOK. J. Chem. Soc. Faraday 
+Trans. 1, 76, 1232 (1980). 
+47. H. ARICAN and N. L. ARTHUR. Aust. J. Chem. 36, 2185 (1984). 
+48. A. SHEPP. J. Chern. Phys. 24, 939 (1956). 
+49. D. A. PARKES, D. M. PAUL, and C. P. QUINN. J. Chem. Soc. 
+Faraday Trans. 1, 72, 1935 (1976). 
+50. M. H. J. WIJNEN. J. Chern. Phys. 22, 1074 (1954). 
+51. J. R. MCNESBY, T. W. DAVIS, and A. S. GORDON. J. Am. Chem. 
+SOC. 76, 823 (1954). 
+52. J. F. HENDERSON and E. W. R. STEACIE. Can. J. Chem. 38,2L61 
+(1960). 
+53. G. A. CREAK, F. S. DAINTON, and K. J. IVIN. Trans. Faraday 
+
+SOC. 58, 326 (1962). 
+54. R. SHAW and J. C. J. THYNNE. Trans. Faraday Soc. 62, 104 
+( 1966). 
+55. P. C. DURBAN and R. M. MARSHALL. Int. J. Chern. Kinet. 12, 
+1031 (1980). 
+56. J . A. KERR, A. STEPHENS, and J. C. YOUNG. Int. J. Chern. Kinet. 
+1, 339 (1969). 
+57. J. A. KERR and D. TIMLIN. J. Chem. Soc. A, 1241 (1969). 
+58. T. N. BELL and A. E. PLATT. Int. J. Chern. Kinet. 3,307 (1971). 
+59. T. SHIMANOUCHI. Tables of molecular vibrational frequencies. 
+Vol. 1. NSRDS-NBS 39 (1972). 
+60. I. W. M. SMITH. Kinetics and dynamics of elementary gas reac-
+tions. Buttenvorths, London, Boston. 1980. 
+61. M. SALOMON. Can. J. Chern. 42, 610 (1964). 
+62. M. H. JONES and E. W. R. STEACIE. J. Chern. Phys. 21, 1018 
+(1953). 
+63. P. A u s ~o o s and E. W. R. STEACIE. Can. J. Chem. 32, 593 
+(1954). 
+64. P. A u s ~o o s 
+and E. W. R. STEACIE. Can. J. Chern. 33,47 (1955). 
+65. J. G. CALVERT and J. T. GRUVER. J. Am. Chem. Soc. 80, I313 
+(1958). 
+66. S. TOBY and K. 0 . KUTSCHKE. Can. J. Chern. 37, 672 (1959). 
+67. S. TOBY. J. Am. Chem. Soc. 82, 3822 (1960). 
+68. P. GRAY and J. C. J. THYNNE. Trans. Faraday Soc. 59, 2275 
+(1963). 
+69. R. E. REBBERT and P. J . AUsLoos. J . Phys. Chern. 67, 1925 
+(1963). 
+70. P. GRAY and J. C. J. THYNNE. Trans. Faraday Soc. 60, 1047 
+(1964). 
+71. J. C. J. THYNNE. Trans. Faraday Soc. 60, 2207 (1964). 
+72. M. CHER. J. Phys. Chern. 68, 1316 (1964). 
+73. S. TOBY and B. H. WEISS. J. Phys. Chem. 68, 2492 (1964). 
+74. P. GRAY, A. JONES, and J. C. J. THYNNE. Trans. Faraday Soc. 
+61, 474 (1965). 
+75. P. GRAY and A. JONES. Trans. Faraday Soc. 61, 2161 (1965). 
+76. P. GRAY and A. JONES. Trans. Faraday Soc. 62, 112 (1966). 
+77. G. GRIEG and J. C. J. THYNNE. Trans. Faraday Soc. 62, 3388 
+(1966). 
+78. S. TOBY and J. NIMOY. J. Phys. Chem. 70, 867 (1966). 
+79. J. A. KERR, D. H. SLATER, and J. C. YOUNG. J. Chern. Soc. A, 
+104 (1966). 
+80. A. GOOD and J. C. J. THYNNE. Trans. Faraday Soc. 63, 2708 
+(1967). 
+81. P. GRAY and A. A. HEROD. Trans. Faraday Soc. 63, 2489 
+(1967). 
+82. D. G. L. JAMES and R. D. SUART. Trans. Faraday Soc. 65, 175 
+(1969). 
+83. E. R. MORRIS and J. C. J. THYNNE. J. Phys. Chem. 73, 3294 
+(1969). 
+84. P. GRAY, A. A. HEROD, and L. J. LEYSHON. Can. J. Chern. 47, 
+689 ( 1969). 
+85. P. N E W I ~. Ph.D. Thesis, La Trobe University, Australia, 1982. 
+86. A. L. BULLEN. B.Sc. (Hons) 'Thesis, La Trobe University, Aus-
+tralia, 1970. 
+87. R. S. KONAR and B. DEB. DARWENT. Can. J. Chern. 48, 2280 
+( 1970). 
+
+Can. J. Chem. Downloaded from www.nrcresearchpress.com by 87.160.185.190 on 03/27/14 
+
+For personal use only. 
+
+
+
+	
+

@@ -1,0 +1,984 @@
+
+	
+
+		
+
+	
+
+	
+
+Derives allyliques de la colonne IV-A, de type R3ECH2CH=CH-CH3 et 
+R3ECH(CH3)CH=CHz. Approche des effets electroniques par resonance magnetique 
+nucleaire 13C et 'H I 
+
+E. MATAUASSO-TCHIROUKHIN~ ET P. CADIOT 
+
+Lnbornraire de Recllercl7e.s cle Chirnie Orgrrrliclue cle I'E.N.S.C.P., 11, rrle P . et M . Clrrie, 75231 Pori.5 Ceclex 05, Frarlce 
+
+Requ le 16 juillet, 1982' 
+
+E. MATARASSO-TCHIROUKHINE et P. CADIOT. Can. J. Chem. 6 1 , 2476 (1983). 
+Un travail spectroscopique d'ensemble, de caractere comparatif a Cte rCalisC en rmn du carbone "C et du proton ' H sur les 
+dCrives allyliques de type R,ECH,CH=CH-CH,, 
+l E , Z et R,ECH(CH,)CH=CH,, 2; R = -CH,, -C,H,; E = C, Si, 
+Ge, Sn, Pb. La premiere partic de ce travail, limit&amp; au fragment allylique, est consacrCc h I'Ctude des deplacements chimiques 
+
+du carbone, S1'c, du proton, S'H, et i I'Ctude des couplages homonucleaires J(H-H) ct hCteronuclCaires 'J('.'c-H), 
+
+"J("C-E), 
+rz = I h 4 et "J(E-C-H), 
+n = 2 et 5; afin d'kclairer I'influence des effets inductifs des substituants -ER3, 
+une Cchelle cohkrente d'ClectronCgativitC a CtC dress&amp; pour les groupements G(E) = -E(C6HS),; il apparait que les groupe-
+ments G(E) possedent des ClectronegativitCs intrinskques trks voisines qui satisfont au classement suivant: 
+
+L'Ctude comparative des spectres dans les series respectives l E , Z et 2 conduit i interpreter les dkplace~nents chimiques des 
+
+noyaux CthylCniques ainsi quc les valeurs ClevCes des couplages hdtCronuclCaircs 'J(E-C-H) 
+(CH?), 'J(E-C-H) 
+et 
+"J(E-"C), 
+dans le cas des derives de I'etain et du plomb, en terms d'hypcrconjugaison u + T de la liaison C-E et de 
+la liaison T-allylique. Dcs facteurs appartenant cn proprc h I'CICment E contr6lcnt les dCplacements chimiques dcs noyaux du 
+fragment allylique, en a de cct ClCment; les couplages 'J("C,,-H,) semblent dominks par le caractere s de la liaison C,,-H,, 
+sans que celui-ci puisse etre relie de faqon precise a une mCtallohyperconjugaison. 
+
+E. MATARASSO-TCHIROUKHINE and P. CADIOT. Can. J. Chem. 6 1 , 2476 (1983) 
+A comparative 'H and I3C nmr study of allylic derivatives of the IV-A group elements, of the type R,ECHZCH=CH-CH,, 
+l E , Z and R3ECH(CH2)CH=CH2, 2, was performed (R = -C6HS, -CH,, E = C, Sir Ge, Sn, Pb). The present paper 
+dealing with the allylic moiety concerns both the chemical shifts, S'H and S1'C, and the homonuclear J(H-H) 
+and 
+heteronuclear couplings l ~( ' . ' ~-~) , 
+"J(~"-E), 
+11 = I to 4, "J(E-C-H), 
+rl = 2 and 5. The spectra are consistent with 
+a u-allylic structure. In order to obtain an inductive order for the groups G(E) = -E(C6HS),, a coherent group electronega-
+tivity scale was established. The intrinsic group electronegativities. without appreciable change, obey the following sequence: 
+
+Both the changes along the series, in spectroscopic parameters, S'H, SI3C, and the unusually large heteronuclear couplings, 
+'J(E-C-H), 
+'J(E-C-H), 
+"J(E-"C) 
+(E = Sn, Pb), are interpreted in terms of an electronic mesomeric donating effect 
+for the substituent u , R,ECH?--and R,ECH(CH,)-, 
+by u-T hyperconjugation. Factors intrinsic to the main-group element 
+control the chemical shifts S'H,, and S1'C,,. The s-character of the bond C,-H,, appears to control the 'J('.'C,-H,) 
+couplings; 
+no correlation with a u + T hyperconjugation could be established. 
+
+Introduction 
+Nous nous proposons de presenter une approche physico-
+chimique de la structure electronique des derives allyliques des 
+elements de la colonne IV-A de type R,ECH,-CH= 
+CH-CH, I E , Z et R,ECH(CH,)CH=CH, 2. Elle a Ct C rkali-
+see en mettant en oeuvre une Ctude comparative des spectres de 
+rmn "C et 'H dans les series respectives l E , Z et 2. Cette Ctude 
+a permis d'interpriter les spectres de rmn en termes d'effets 
+Clectroniques du substituant PER,. 
+
+' ~n accord avec I'usage en vlgueur en Amtrique du Nord, la no-
+menclature suivante a CtC adoptte dans cet art~cle: groupe IV-A = C, 
+Si, Ge, Sn. Pb; bien que, d'aprks les regles de nomenclature de 
+Chimie Inorganique de I'UICPA les Ge, Sn, Pb constituent le groupe 
+IV-B et les 61Cments de transition le groupe IV-A. 
+'Revision reque le 4 janvier, 1983. 
+
+R = CsH5, CH3 E = C, Si, Ge, Sn, Pb 
+
+A notre connaissance, un tel travail d'ensemble de caractkre 
+comparatif sur la totalite de la colonne IV-A n'apparait point 
+dans la litteratwe, bien que les derives allyliques des elements 
+de la colonne IV-A, aient fait l'objet de travaux plus ponctuels, 
+notamment en spectroscopie Clectronique et en spectroscopie 
+de resonance magnetique nucleaire ( I 1 13). 
+Cette premiere publication portera sur des developpements 
+theoriques basks sur 1'Ctude des deplacements chimiques SI3C 
+et SIH, et sur 1'Ctude des couplages homonuclCaires, J(H-H), 
+et hetCronuclCaires, 'J(I3C-H), "J('"-E), 
+tz = 1 1 4 et 
+"J(E-C-H), 
+n = 2 et 5 , du fragment allylique des composCs 
+l E , Z e t 2 . 
+Afin d'interpreter les spectres obtenus en termes d'effets 
+Clectroniques, il nous a paru indispensable d'etablir, en tout 
+premier lieu, une base de comparaison des effets inductifs des 
+groupements PER,. Dans ce but nous avons dress6 une 
+Can. J. Chem. Downloaded from www.nrcresearchpress.com by 87.160.185.190 on 03/27/14 
+
+For personal use only. 
+
+
+Can. J. Chem. Downloaded from www.nrcresearchpress.com by 87.160.185.190 on 03/27/14 
+
+For personal use only. 
+
+
+Can. J. Chem. Downloaded from www.nrcresearchpress.com by 87.160.185.190 on 03/27/14 
+
+For personal use only. 
+
+
+MATARASSO-TCHIROUKHINE ET CADIOT 
+
+TABLEAU 4. Dtplacements chimiques internes, v, -v,, des protons 
+
+Cthyleniques He, H, et couplages J,.,; composCs 1E. Z ; R = ChHs 
+
+1 Jp,i 
+
+I 
+
+E 
+vp -V , ( H z ) 
+
+(J,, I ( H z ) v , -v, Pdriode 
+
+Ge 
+21,84 
+15 
+0,69 
+4 
+I E 
+Sn 
+30.39 
+15.25 
+0 3 0 
+5 
+Pb 
+42.60 
+15 
+0.35 
+6 
+S i 
+19.95 
+10,25 
+0.5 1 
+3 
+2737 
+10,5 
+0,38 
+4 
+48,63 
+10,5 
+0.22 
+5 
+Pb 
+67,58 
+10.25 
+0.15s 
+6 
+-
+
+5,85 
+5.35 
+1.55 
+1 .I0 
+
+111. Interprktation des dkplacements clzimiques, 6'-'C et S'H 
+L'analyse, au long de la colonne IV-A, des parametres SI3C 
+et S'H permet de conclure a une structure a-allylique pour les 
+composCs 1 E, Z et 2 et, en tenant compte de 1'Cchelle d'electro-
+
+nigativitk, de mettre au jour I'existence d'une hyperconjugai-
+son u -n de la liaison C-E 
+et de la liaison n allylique, 
+reflette par les dkplacernents chirniques des noyaux sp2, SI3C 
+('H),,,, l'effet electronique predominant sur les noyaux en a de 
+I'hittroClCment etant determine par la tzature rn&amp;rne de I'hCtC-
+roilCment; ces rksultats se trouvent corroborCs par l'exarnen 
+des couplages. 
+I1 convient de rappeler ici que, de faqon gCnCrale pour un 
+noyau A, la constante d'ecran u A peut &amp;tre exprirnee (22, 23) 
+par la forrnule [3] 
+
+FIG. 2. Deformation d'un spectre ABX3, par un couplage impor-
+tant des protons AB: partie ABX3 du spectre de protons du eomposC 
+A 
+B X3 
+(C6H5)3SiCHzCH=CH-CH3, obtenue par double irradiation du 
+groupement -CH2-. 
+
+Sl3C, du fait de l'existance d'Ctats excites de plus basse 
+energie, est gouverne par le terme a;"; celui-ci est proportion-
+nel a la charge effective du noyau, aux ordres de liaison et 
+inversernent proportionnel a I'energie rnoyenne d'excitation de 
+la molCcule (24, 25). 
+De faqon gCnCrale, on remarque un parallelisrne entre les 
+variations des deplacements chimiques S13C et les parametres 
+S'H des protons vicinaux correspondants, lorsqu'on se diplace 
+le long de la colonne IV-A (Figs. 3 et 4). 
+
+SIH sera determine par le terme diarnagnktique u,AA et (ou) 
+Parame'tres SIHp,, et Si.'Cp,, 
+
+le terme C [a"' + uA."""' 1, donc (a) par la densite electroni-
+
+Un m&amp;me facteur, selon toute vraisemblance la charge portee 
+
+A L B 
+
+par le carbone, dans le cas de dirives Cthyleniques alkylis, les 
+que sur le proton ou, indirectement, par la charge portke par le 
+heplacements chirniques des carbones ~; h ~l ~~i ~u e s 
+sbnt pro-
+carbone vicinal; (b) par la circulation des electrons sur les 
+portionnels aux charges portCes par ces atornes (26), contrble 
+noyaux avoisinants; en effet, le terrne paramagnktique 
+est 
+les diplacements chimiques des carbones sp2, et des protons 
+negligeable par rapport aux autres termes de I'equation [3] dans 
+correspondants; en revanche, l'effet d'anisotropie rnagnktique 
+la mesure ou les orbitales atomiques 2 p n'ont pas a &amp;tre prises 
+voisine, due aux groupements PER,, se manifeste de faqon 
+en consideration (23 6 ) . 
+plus importante sur S'H,, en position cis (Fig. 3). Le choix 
+
+TABLEAU 5. DCplacernents chimiques du carbone, 8°C. composCs l E , Z , 2; fragment allylique 
+
+8°C ppm 
+
+R 
+E 
+C,, 
+C B 
+C , 
+Ca 
+C,. 
+
+A = SC, -sC, 
+Can. J. Chem. Downloaded from www.nrcresearchpress.com by 87.160.185.190 on 03/27/14 
+
+For personal use only. 
+
+
+CAN. J. CHEM. VOL. 61. 1983 
+
+FIG. 3. DCplaccmcnt chimique du proton Cthyleniquc 'H en fonc-
+
+tion du dCplaccmcnt chimiquc du carbone "C vicinal, positions P et 
+
+y, pour les isomkrcs (C6H5),ECH2CH=CH-CH, 
+
+I E , Z ; p = 
+
+AS"C/AS'H; ( A ) position y: 1 E -@ -; 1Z -0-; plZ = 7 3 ; 
+
+( B ) position p: 1E -@-; 1Z -0 -; p l E = 13,3; plZ = 10. 
+
+de l'alignernent des points pour Si, Ge et Pb, qui laisse un 
+blindage "hors sCrien pour l'Ctain, est justifiC par l'exarnen des 
+figures 5 (A) et (B), qui donnent les deplacernents chimiques 
+des noyaux Cthyltniques N (''C et 'H) en fonction du nurnero 
+atornique ZE de 1'ClCrnent E-IV-A. 
+Le tableau 5 met au jour pour les dCrivCs des hCtCroClCments 
+(E = Si a Pb) une polarisation de la liaison T de la f a ~o n 
+
+st s-
+
+suivante: K,ECH2CH=CH-CH,; 
+elle est pratiquement in-
+
+existante lorsque E appartient a la 2"' pCriode, E = C. Apres 
+
+avoir remarque, (a) qu'un substituant a agit sur la distribution 
+des electrons d'un systerne T en donnant lieu (a) a une redistri-
+bution de la densit6 Clectronique du systeme (effet inductif IT, 
+effet de champ F) liee a 1'Clectrontgativite du substituant et 
+
+(OU) (p) i un transfert de charge entre le substituant a et le 
+
+systerne T (effet rnCsom6re R) et (b) que, conformCment aux 
+tlectronCgativitCs calculees IT et F, diis aux groupernents 
+-E(C6Hj),, doivent &amp;tre extrhement faibles, sinon negliges-
+bles (l'effet de champ ne joue pas un r61e prkdorninant sur la 
+polarisation de la liaison T, car dans ce cas (27) un accroisse-
+ment de 1'ClectronCgativitC du substituant aurait pour cons6 
+quence un dCplacernent diamagnktique du carbone P, a l'oppo-
+st5 du phCnomene observe), nous interpreterons la variation de 
+
+FIG. 4. Deplacement chimique du proton 'H en fonction du 
+
+dCplacement chimique du carbone ' " vicinal, position 6 , pour les 
+
+isomkres (C6H5)3ECHICH=CH-CH 
+
+1E -@ -, 
+
+1Z -0-ct 
+
+(C&lt;,Hs)JECH(CHJ)CH=CH2 2 -V-. 
+
+la polarisation de la liaison T, traduite par les spectres de rmn 
+des 
+composts 
+l E , Z et 
+2 (systemes a-T 
+
+de type R,E-CH?-CH=CH-CH, 
+et R,E-CH(CH,)-
+a 
+
+T 
+
+a 
+CH=CH2) en termes d'effets electroniques mtsomeres don-
+
+T 
+
+neurs des substituants a (E = Si a Pb) par hyperconjugaison 
+a + T. Des conclusions similaires, bastes sur la spectroscopie 
+Clectronique, ont Ct C faites (19) 2 propos des dtrivts benzy-
+liques correspondants, (C6H5),ECHZC6Hj. 
+Le deplacement chimique interne All = SNB -SN, (N 
+= ' H , "C) est fonction croissante (mais non pas monotone) de 
+la (3erne a la 6eme) ptriode laquelle appartient I'eltment E 
+(Tableaux 3 a 5). Si l'on adrnet que les dtplacernents chirniques 
+des carbones tthyltniques sont proportionnels aux charges por-
+ttes par ces atomes, AE = SCB -SC, sera proportionnelle h 
+
+\ 
+
+/ 
+
+la polarisation de la liaison CthylCnique 'c=c' et traduira 
+
+/ 
+\ 
+
+l'effet donneur mesomere, du groupement (C6Hs)3E-CH2-, 
+
+en fonction de 1'ClCrnent E. Le tableau 5 rnontre que Act -As; 
+
+est de l'ordre de I'unite, A,, -As,, de l'ordre de 0,5, en re-
+vanche As, -A,, est de l'ordre de 3,5, ce qui perrnet de 
+classer les elements E, dans l'ordre d'effet donneur mCsorn6re 
+pour les substituants R,ECHZ-et R,ECH(CH,)-: 
+
+Les rCsultats expkrimentaux obtenus, ne sont pas incompati-
+bles avec l'existence (28), d'ailleurs discutCe (29), d'un effet 
+( p -d ) ~ pour les derives du siliciurn et du germanium, ce qui 
+aurait pour effet une polarisation inverse de la liaison CthylCni-
+que par effet accepteur du substituant: 
+
+Dans ce cas la polarisation observie expkrirnentalement serait 
+la rCsultante de deux effets contraires. 
+Pour les dtrivCs du plomb et de l'ktain les effets n~Csomeres 
+donneurs du substituant a sont comparables; ce rCsultat s'inter-
+prete en adrnettant que le groupernent -Pb(C6Hj), eSt plus 
+tlectronkgatif que -Sn(C,H,),. 
+En effet, l'hyperconjugaison 
+de deux systemes a et T est sous le contr6le (30) de (a) la 
+differentielle d'knergie E = E(a) -E(T); (b) I'intCgrale de 
+perturbation P(GT); (c) la densit6 Clectronique a2(a) et a2(T) 
+Can. J. Chem. Downloaded from www.nrcresearchpress.com by 87.160.185.190 on 03/27/14 
+
+For personal use only. 
+
+
+MATARASSO-TCHIROUKHINE ET CADlOT 
+
+248 1 
+
+--------t------
+
+ppm 
+
+130 
+
+12 5 
+
+:120 + 
+
+FIG. 5. DCplacements chimiques des noyaux CthylCniques N ("C et 
+
+'H), positions p et y, en fonction du numCro atornique ZE de I' CICment 
+
+E-IVA; isomkres (C6HS),ECH,CH=CH-CH,. 
+
+1E -*-et 1Z 
+
+-0-; (A) N = "C; (B) N = 'H. On notcra le blindage inattendu des 
+carbones C, dans le cas des dCrivCs de I'Ctain. 
+
+dans les orbitales p des atomes reliant les systkmes u et T; 
+elle est favorisee par une differentielle d'energie AE, faible, 
+et des densites Clectroniques a2(u), a2(T), ClevCes. Pour les 
+systkmes envisages (C6H5)3ECH2CH=CH-CH3 E , Z et 
+(C6H5)3ECH(CH3)CH=CH2, l'effet donneur observe sera es-
+sentiellement sous le contrdle de R(u) et de a2(u); en effet, 
+E(T)a2(T), restent invariant et l'influence de P(uT) est faible 
+(30). Comme la differentielle d'energie, AE, dCcroit de Si a 
+Pb (30, 31), les resultzits experimentaux obtenus impliquent 
+que a ' ( ~) ~~ 
+
+&lt; ~' ( u ) ~, , 
+
+c'est-a-dire, que le groupement 
+-Pb(C6H&amp; soit plus 6lectronCgatif que -S ~I ( C ~H , ) ~, ce qui 
+est en accord avec les resultats presentes anterieurement et 
+
+comparable aux resultats obtenus par ailleurs (31) pour les 
+systkmes benzyliques correspondants. On ne peut rien conclure 
+quant aux Clectronegativites respectives des groupements 
+-Ge(C6Hj), et -Si(C6H5)?, car I'effet (p + d ) ~ 
+decroit du 
+derive du silicium au derive du germanium. L'effet d'hyper-
+conjugaison, traduit par la polarisation de la liaison ethyl6 
+nique, proportionnelle a A): = 6CB -6C,, est nettement plus 
+important pour R = CH3 que pour R = C6H5 (Tableau 5); 
+ce qui est en accord avec l'effet de la taille du substituant R3E 
+ainsi qu'avec une polarisation plus importante de la liaison 
+CHI-Sn(CH3) 
+par rapport h CH2-Sn(C6Hj)3; de plus 
+Sn(CH,), possede un effet donneur par induction tandis que 
+Sn(C6H5)3 a une effet accepteur par induction; en effet: 
+
+Nous notons, en revanche, une influence negligeable sur les 
+deplacements chimiques 6N, et 6Ns (N = 'H, "C) du substi-
+tuant h 1'hCtCroatome. 
+
+I1 convient de souligner l'existence d'une correlation lineaire 
+
+entre les deplacements chimiques des carbones Cthyleniques et 
+le numero atomique Z, de I'hCtCroatome (Fig. 5A). La mEme 
+figure fait apparaitre un blindage exceptionnel de C dans le cas 
+des derives de 1'Ctain; il peut Etre interpret6 en termes d'effet 
+sterique y, lequel pourrait Etre favoris6 pour E = Sn. 
+
+Parattz2tres 6'H,, 6'3C, 
+Ces paramktres sont soumis, en particulier, a ['influence de 
+1'hCtCroatome et de la double liaison allylique. 
+Afin d'eclairer ['influence sur ces variations de la double 
+
+liaison allylique (metallohyperconjugaison, liaison ( p -c l ) ~. . .) 
+
+nous avons cornpare les donnkes obtenues pour les derives 1 E , 
+
+Z, 2 a celles correspondantes extraites de la litterature (32) pour 
+
+les composes E(CH3),. Cette etude comparative met au jour 
+pour ces deux groupes de composes une similitude en ce qui 
+concerne les paramktres 6'H, et 6"C, (Tableau 6) et, tout 
+particulikrement urz Olinclc~ge cle 6'-'C,, irzatterzcl~l ci priori, pour 
+les dkrivks de l'ktairz, que I'effet inductif des groupements 
+-SnR3 (R = CH3, C6Hs) ne suffit pas a justifier, ce qui met 
+au jour une solution de continuit6 dans la serie au niveau de 
+l'etain. Par ailleurs (33), les variations des energies de liaison 
+pour les composCs EF, le long de la colonne IV-A sont simi-
+laires a celles observees pour les paramktres 6"C, et 6'H,. De 
+meme, les courbes 6"C, = f(6'H,), Ctablies pour les deux 
+groupes de composCs l E , Z, 2 et E(CH3), (Fig. 6 a , O, c ) , 
+presentent des analogies importantes. Ces resultats temoignent 
+en faveur du fait que les paramktres 6'H, et 6"C, ne se trouvent 
+pas sous le contrdle du systeme T-allylique et qu'ils sont regis 
+par des facteurs inhire~zts ri la nature m&amp;me de I'hitProe'lPmetzt, 
+
+tels que I'apparition des orbitales d a partir de la 3ikme periode 
+
+(E = Si h Pb), la contraction des mktaux de transition (4kme 
+periode) et la contraction des lanthanides (6" periode), ces deux 
+derniers phenomknes ayant pour effet de rendre plus compacts 
+le germanium et le plomb par rapport aux elements (Si et Sn) 
+qui les precedent respectivement; de mEnle, dans le cas de 
+elements des 4ikme et 6iemes periodes, le remplissage des 
+orbitales 3d et 4 f, relativement diffuses, conduit a un blindage 
+de la charge nucleaire moins efficace, ce qui a pour cons&amp; 
+quence une attraction plus forte des electrons 4 s et 6s. 
+Les remarques suivarztes pelrverzt Ptre faites en ce qlii con-
+cerne les param2tr-es 6'"Cs et ?i1Hs 
+Pour le compose 2 on observe I'existence d'une correlation 
+Can. J. Chem. Downloaded from www.nrcresearchpress.com by 87.160.185.190 on 03/27/14 
+
+For personal use only. 
+
+
+CAN. J. CHEM. VOL. 61. 1983 
+
+TABLEAU 6. Donnees comparatives des parametres F"c,,, F'H,, et ' J ( " ~-H ) pour les composCs l E , Z 
+(R = C,H5) et E(CH3), 
+
+Y 
+6 
+(C~H~)~ECHZCH=CH-CH~ 1 E , Z 
+E(CH?), 
+F ~~c , . 
+
+(pprn)" 
+
+&amp;'Ha (ppm) 
+
+I 
+
+J('~C-H),, 
+'J('~C-H) 
+E 
+
+1 E 
+1 Z 
+1 E 
+1 Z 
+
+(Hz) 
+6°C (ppm) F'H (ppm) 
+(Hz) 
+
+"Les dCplacements chimiques sont donnes par rapport au TMS; un signe positif correspond B un deplacement vets les champs 
+
+faibles. 
+
+FIG. 6. DCplacement chimique du proton 'H en fonction du 
+dCplacement chimique du carbone vicinal "C, position a, pour 
+(A): les isomeres (C6H5)3ECH2CH=CH-CH3, 1E -0 -et I Z 
+-0 -; (B): l'isomkre (C6H5)3ECH(CH3)CH=CHz 2 et (C): les corn-
+posCs E(CH,),, donnCes de la IittCrature (32). 
+
+TABLEAU 7. Couplages des protons CthylCniques 
+H,, H,; composCs l E , Z ; R = C,Hs 
+
+E 
+ComposC 
+J(Hp-Hy) (Hz) 
+
+Si 
+
+1 E 
+
+-
+
+1Z 
+
+10,25 
+Ge 
+
+1 E 
+
+15 
+
+1 z 
+
+10,s 
+Sn 
+
+1 E 
+
+15,25 
+
+1 z 
+
+10,s 
+
+Pb 
+1 E 
+
+15 
+
+1Z 
+
+10.25 
+
+lineaire entre ces deux parametres, tandis que pour les compo-
+ses l E , Z 6°C = const. (Fig. 4); ceci suggere que, dans le 
+premier cas, un mCme facteur contrble les deux parametres 
+tandis que, dans le second, les deplacements chimiques legere-
+ment paramagnktiques du proton sont contr61es par l'effet d'a-
+nisotropie magnetique voisine, dQe aux groupements 
+-E(C6H5)3. 
+
+IV. Couplnges 
+Dans tout ce qui suit seront envisagees les vnleurs nbsolues 
+des couplages. L'Ctude des couplages homonucl6aires 
+J(H-H) (Tableau 7), 'J(l3C-H) (Tableau 8) "J(E-C-H) 
+(Tableaux 9 et 10) et "J(E-'3C) (Tableau 11) corrobore les 
+conclusions qui se dCgagent de I'etude des deplacements chi-
+miques 6'H et BI3C. 
+1. Couplages homonucle'aires J(Hp-H,) (Tableau 7) 
+Les couplages J(Hp-H,) sont de l'ordre de 15 Hz (1E) et 
+de 10 Hz (1Z) (valeurs classiques pour des protons CthylCni-
+ques respectivement trans et cis); ils confirment une structure 
+u allylique pour les composCs l E , Z. Pour les derives secon-
+
+daires 2 ces valeurs n'ont pu Ctre determinees aidment a partir 
+
+des spectres, les protons Hp et H, ttant trop fortement couples. 
+Cependant J(Hp-H,) 
+(Z) = 9,66 Hz et J(Hp-H,) 
+( E ) 
+= 17,33 Hz ont pu 6tre calculCs pour le derive deuterie (C6HS), 
+SnCD2CH=CH2. 
+2. Couplages he'te'ronucle'aires 
+Avant de discuter les rtsultats expkrimentaux obtenus, il 
+convient d'ouvrir une parenthkse et de rappeler que les cons-
+
+tantes de couplage 'J('~C-H), 'J(E-I3c) et 'J(E-C-H) 
+
+sont gouvernees par le terme de contact de Fermi (34-36) et 
+
+que, si de f a ~o n g6nCrale nous designons par N et N' les deux 
+
+noyaux couples, les constantes de couplage envisagees seront 
+donnCes par l'expression [4]. 
+Can. J. Chem. Downloaded from www.nrcresearchpress.com by 87.160.185.190 on 03/27/14 
+
+For personal use only. 
+
+
+MATARASSO-TCHIROUKHINE ET CADIOT 
+
+2483 
+
+TABLEAU 8. Couplages 'J("C-H); 
+composC 
+1E; R = C6HS; fragment allylique 
+
+'J(I3C-H) (Hz) 
+
+E 
+
+C,, 
+CP 
+C, 
+Ca 
+
+ou a': caractere s des orbitales formant la liaison; +'(0): densitt 
+des electrons s des noyaux couplts; AE: tnergie rnoyenne d'ex-
+citation singulet-triplet; C = ensemble de constantes. 
+
+-
+
+'J (IJCa-Ha) (Tableau 8 ) 
+On observe une variation non monotone du couplage 
+'J("C-H) 
+lorsque E varie de la seconde (n = 2) a la sixierne 
+ptriode (n = 6) en passant par un minimum 'J("C-H) 
+= 120,6 cps, E = Si, inferieur a la valeur attribute a un car-
+bone sp3, soit 125 Hz. 
+Conforrntrnent a I'tquation [4], une interprttation possible 
+de I'accroissernent de 'J("C-H) 
+serait d'envisager un accrois-
+sernent du caractere s , a2(C), de I'orbitale hybride du carbone 
+formant la liaison Ca-Ha et, de fagon hitive, d'en attribuer 
+l'origine a une hyperconjugaison a-n. Cependant, une ana-
+lyse plus pousste rnontre que l'hyperconjugaison, bien que 
+compatible avec un accroissernent du caractere s de I'orbitale 
+du carbone formant la liaison C-H, n'est pas I'unique prorno-
+teur de celui-ci; en effet, les variations des couplages 
+'J(I3C-H) observtes, de rn&amp;rne que pour les parametres SIH 
+et SI3Ca, sont en tous points cornparables a celles observtes 
+pour les dtrivts tttrarnethylts correspondants, E(CH,), (32) 
+(Tableau 6), pour lesquels un accroissernent du caractere s de 
+I'orbitale du carbone vers I'hydrogene et une diminution de ce 
+caractere vers l'tltrnent IV-A, lorsque E varie de la 3ierne a la 
+6ierne ptriode, donc indtpendernrnent de l'existence d'une rnt-
+tallohyperconjugaison, a t t t rnis en tvidence (37). 
+' J("C,--H,) 
+est fonction dtcroissante (Tableau 8) de la pt-
+riode de l'tltrnent IV-A. Ce rtsultat peut &amp;tre interprttt en 
+terrnes d'une diminution du caractere s de I'orbitale hybride du 
+carbone formant la liaison C,-H, 
+ou (et) en terrnes d'une 
+augmentation de la charge portte par le carbone C, (l'tnergie 
+rnoyenne d'excitation AE, dtcroit de Si a Pb), ce qui ttrnoigne 
+en faveur de l'existence d'une hyperconjugaison a-n de la 
+liaison C-E et de la double liaison allylique). 
+
+TABLEAU 9. Couplages "J(E-C-H), 
+11 = 2.3.5; composCs IE, Z, 
+2; E = Sn, Pb; fragment allylique 
+
+"J(E-C-H) 
+(Hz) 
+
+htttronucleaires 'J(E-C-H) 
+
+des composes l E , 3, 4, 5, 6 et 
+
+7 , il apparait que l'on peut grouper ces cornposts en 2 grolcpes 
+distincts: les composts 3, 4 et 5, d'une part, pour lesquels 
+
+'J(E-C-H) 
+(CH, ou CH,) se situe entre 50 et 55 Hz (E 
+
+= Sn) ou 61 ti 68,5 Hz (E = Pb) et les composts allyliques 1 
+
+et benzyliques 6, 7, de l'autre, pour lesquels 'J(E-C-H) 
+
+(CH,) est netternent plus tlevt: 68 Hz (E = Sn); 86 Hz (E 
+= Pb). En outre, l'exarnen des couplages 'J(E-C-H) 
+(CH3) 
+
+pour les composts l E , Z, 2 (Tableau 9) et 7 (Tableau 10) 
+
+rnontre que celui-ci reste voisin de 50 Hz, donc de la valeur 
+caracttristique pour la liaison Sn(sp3)--c(sp3). Ces faits 
+ttrnoignent pour les dtrivts allyliques 1 ainsi que pour les 
+dtrivts benzyliques 6, 7 de l'existence d'une contribution irn-
+
+portante d'un type particulier au rntcanisrne de couplage 
+'J(E-C-H) 
+(CH'). En effet, la rehybridation de I'htttrotlt-
+rnent est insuffisante pour expliquer a elle seule une difference 
+aussi importante des couplages observes; il parait raisonnable 
+d'attribuer cette valeur tlevte a une contribution importante 
+des tlectrons n au rntcanisrne de couplage, accrue par un acces 
+direct aux tlectrons s de I'htttrot1trnent, ayant pour origine 
+l'hyperconjugaison a-n de la liaison C-E et de la liaison a 
+allylique; l'existence de cette derniere a C t t ttablie pour les 
+
+composts 6 et 7 sur la base de la spectroscopie tlectronique 
+
+(44) et de la rmn du carbone I3C (45, 46). 
+5J(E-C-~) 
+(Tableau 9) et "(E-"C), 
+n = 2-4 
+(Tableau 11) 
+Les valeurs tlevtes des couplages he'te'ronucle'aires a longue 
+distance: 'J(E-C-H) 
+
+, 'J(E-"C) , 'J(E-I3Cp) ttrnoignent 
+
+d'une contribution importante des tlectrons n au rntcanisrne de 
+
+couplage; en accord avec ce qui prtcede nous l'attribuons 2 
+
+l'hyperconjugaison a -n . 
+Des valeurs de "J(Sn-'3C), n = 2-4 et 'J(Sn-C-H) 
+Couplages ' J (E-C-H) 
+(Tableaux 9 et 10) 
+(CH,), en fonction du rntcanisrne de couplage (rntcanisrne a 
+Si (Tableau 10) nous cornparons les constantes de couplages 
+avec plus ou rnoins de contribution des tlectrons n ) sont don-
+
+TABLEAU 10. Comparaison des constantes de couplage hCtCronuclCaires 
+
+'J(E-C-H) 
+
+' J (E-C-H,) 
+
+(HZ) 
+
+Can. J. Chem. Downloaded from www.nrcresearchpress.com by 87.160.185.190 on 03/27/14 
+
+For personal use only. 
+
+
+CAN. I. CHEM. VOL. 61, 1983 
+
+TABLEAU 11. Couplages "J(E-"C), 
+E = Sn, Pb; co~nposCs I E , Z, 2; fragment allylique 
+
+"J(E-"c) 
+
+(HZ) 
+
+TABLEAU 12. Des valeurs de "J(Sn-C) ( 1 1 = 2-4) et 'J(Sn-C-H) 
+(CH3) en fonction du ~nicanis~ne de couplage 
+
+u ~( 1 1 7 ; 1 1 3 n -~) 
+
+(HZ) 
+
+J("~'""s~-H) (Hz) 
+
+' J 
+' J 
+'5 
+
+(a) R = -C6H,; (b) R = -CH,. 
+
+nCes dans le tableau 12. On rernarque, pour "J(Sn-'3C), que 
+lorsque le mecanisme est de type u (8, 2(C6) et 14) I'inegalite 
+
+2J &lt; 3J se trouve virifiee et que les valeurs des couplages 
+
+' J et ' J sont, entre autres, fonctions croissantes de la contri-
+bution des Clectrons 7~ au mecanisme de couplage, en effet 
+(Tableau 12) lorsque les Clectrons .rr participent au rnecanisme 
+
+de couplage ' J &gt; 3J (12, 13) ou 'J = 3J ( I E , Z, 2(Cp), de 
+m&amp;me 'J(8; u) &lt; 'J(lE, Z; u-T) &lt; 'J(9). L'exarnen des 
+
+constantes de couplage 'J(I3C-E) (E = Sn, Pb) (Tableau 11) 
+qui sont dCterminCes par le terrne de contact de Ferrni et don-
+nCes par l'expression [4] ne perrnet, dans I'Ctat actuel des 
+connaissances, aucune conclusion quant h I'existence d'une 
+hyperconjugaison rnettant en jeu la liaison C-E. 
+Nous terrninerons par quelques mots sur la structure gtomC-
+trique des derivts ttudits, suggCrCe par les resultats obtenus au 
+cours de cette etude. 
+L'hyperconjugaison u-.rr entraine la coplanaritC de la liai-
+son a et de l'axe de l'orbital .rr deficient en electrons. Aussi 
+
+bien, nous proposons pour les composes Ctudies une structure 
+interrnediaire (Fig. 7) entre les forrnes gnuches pour lesquelles 
+
++ = 60" et 120". 
+
+Les conforrneres cis et trans sont, en general, Cvinces au 
+profit des formes gauches lorsque la taille de X croit (48), 
+ainsi, pour les halogtnures d'allylrnercure seules les formes 
+gauches existent (29,49). Les valeurs ClevCes observees pour 
+les couplages 'J(E-C-H) 
+et 'J(E-13C) E = Sn, Pb qui 
+
+sont fonctions, en particulier, de l'angle diedre + des plans 
+
+SnC,Cp et C,CpC, (Fig. 7), s'accordent avec I'extrusion de la 
+liaison C-E hors du plan nodal de l'orbitale .rr allylique favo-
+risant le recouvrernent de I'orbital .rr et de l'orbitale ns de 
+I'Cltrnent E. I1 est possible qu'en cas de dernande d'tlectrons, 
+la liaison a fasse un angle voisin de 90°, avec le plan nodal de 
+la double liaison allylique, et que, comrne pour le brornure 
+d'allymercure (29) dans la configuration d'energie minimum, 
+la liaison C-E soit perpendiculaire au plan nodal du systerne 
+olefinique. 
+Can. J. Chem. Downloaded from www.nrcresearchpress.com by 87.160.185.190 on 03/27/14 
+
+For personal use only. 
+
+
+MATARASSO-TCHIROUKHINE ET CADIOT 
+
+2485 
+
+Chem. 185, C34 (1980). 
+14. J. E. HUHEEY. ( ( 1 ) J. Phys. Chem. 69, 3284 (1965); ( b ) 70.2086 
+(1966). 
+15. A. L. ALLRED et E. G. ROCHOW. ( ( I ) J. Inorg. Nucl. Chem. 5, 
+264 (1958); 5, 269 (1958); (b) 20, 167 (1961). 
+16. R. S. DRAGO. J. Inorg. Nucl. Chem. 15, 237 (1960). 
+17. J. HINZE et H. H. JAFFE. ( a ) J. Am. Chem. Soc. 84, 540 (1962); 
+( 0 ) 85, 148 (1963); (c) Can. J. Chem. 41, 1315 (1963). 
+FIG. 7. Structure proposCe pour lcs composCs l E , Z ct 2. 
+18. N. C. BAIRD et M. A. WHITEHEAD. Theor. Chim. Acta, 6, 178 
+(1966). 
+
+Partie experimentale 
+
+I. Synrhise rles c1kri~~k.s 1 E, Z er 2 
+Les syntheses des dCrivCs primaires R3ECH2CH=CH-CH3 
+1E. Z (E = C, Si, 
+Pb) (50n) et des dtrivks secondaires 
+R3ECH(CH3)CH=CHI 2 (E = Si a Sn) (50b) ont Ct C dkcrites par 
+ailleurs. Le dCrivC secondairc du plomb est obtenu mClangC a du 
+derive: primaire (2: 70%; l E , 1Z: 30%) en operant de la rnCme f q o n 
+que pour les dCrivCs de I'Ctain, rnais cn effectuant toutes les optrations 
+rigo~rreuserrzerlt soirs argurl. 
+
+11. Spectres de rc'tonrrrlce rrzrlgrietiq~le rl~lclc'orre d ~r carborze "C et clu 
+protori ' H 
+Les spectres de rmn ont C t t enregistrds sur spectrographe Varian 
+XL-100 (100 MHz) pour le proton et Varian XL-100 (25, 15 MHz) 
+pour le carbone-13, cn util~sant la technique de transform&amp; de 
+Fourier; Ic deutCrochloroforme a CtC utilisC cornme solvant et le TMS 
+comme Ctalon interne. 
+
+Remerciements 
+
+Nous rernercions Madame M.-J. Pouet du laboratoire de 
+R M N de I1E.N.S.C.P., dirigC par Madame M.-P. Sirnonnin 
+
+pour l'enregistrernent des spectres B 60 et 100 Mz; les spectres 
+B 250 M z ont kt6 enregistres au laboratoire de l1E.N.S., dirige 
+
+par Monsieur J.-Y. Lallemand, que nous remercions. 
+
+1. V. A. PETUKHOV, V. F. MIRONOV et P. P. SHORYGIN. Izv. Akad. 
+Nauk SSSR Ser. Khim. 2203 (1964). 
+2. A. N. EGOROCHKIN, M. L. KHIDEKEL, G. A. RAZUVAEV, G. G. 
+PETUKHOV et V. F. MIRONOV. IZV. Akad. Nauk SSSR Ser. Khim, 
+1521 (1964). 
+
+3. D. J. BLEARS, S. S. DANYLUCK et S. CAWLEY. J. Organomet. 
+
+Chem. 6, 284 (1966). 
+4. A. N. EGOROCHKIN, A. 1. BUROV, V. F. MIRONOV, T. K. GAR 
+et N. S. VYAZANKIN. Izv. Akad. Nauk SSSR Ser. Khim. 51 
+(1969). 
+5. A. N. EGOROCHKIN, A. I. BUROV, V. F. MIRONOV, T. K. GAR 
+et N. S. VYAZANKIN. Izv. Akad. Nauk SSSR Ser. Khim. 775 
+(1969). 
+6. A. N. EGOROCHKIN, S. YA. KHORCHEV, N. S. VYAZANKIN et 
+E. N. GLADYSHEV. IZV. Akad. Nauk SSSR Ser. Khim. 1863 
+(1969). 
+7. K. KAWAKAMI et H. G. KUIVILA. J. Org. Chem. 34, 1502 (1969). 
+8. N. M. SERGEYEV, Yu. K. GRISHIN, Yu. N. LUSIKOV et Yu. A. 
+USTYNYUK. J. Organomet. Chem. 38, C 1 (1972). 
+9. Yu. K. GRISHIN, N. M. SERGEYEV et Yu. A. USTYNYUK. Org. 
+Magn. Reson. Rev. 4, 377 (1972). 
+10. G. C. LEVY, D. M. WHITE et J. D. CARGIOLI. J. Magn. Reson. 
+8, 280 (1972). 
+11. D. DODDRELL, M. L. BULLPITT, C. J. MOORE, C. W. FONG, 
+W. KITCHING, W . ADCOCK et B. D. G U ~A . 
+Tetrahedron Lett. 
+665 (1973). 
+12. H. G. KUIVILA, J. L. CONSIDINE, R. J. MYNOnet R. H. SARMA. 
+J. Organomet. Chem. 55, C11-C14 (1973). 
+13. G. DUMARTIN, J.-P. QUINTARD et M. PEREYRE. J. Organornet. 
+
+19. W. H. HANSTEIN, H. J. BERWIN et T. G. TRAYLOR. J. Am. 
+Chem. Soc. 92, 7476 (1970). 
+20. A. L. ALLRED. J. Inorg. Nucl. Chem. 17, 215 (1961). 
+21. P. T. NARASIMHAN et M. T. ROGERS. J. Am. Chem. Soc. 81, 
+5983 (1960). et refs. citkes. 
+22. D. G. FARNUM. Adv. Phys. Org. Chern. 11, 124 (1976). 
+23. J. A. POPLE. ( a ) J. Chem. Phys. 37,53 (1962); (0) Proc. R. Soc. 
+London Ser. A, 239, 541 (1957). 
+24. M. KARPLUS et J. A. POPLE. J.Chem. Phys. 38, 280 (1963). 
+25. W. J. HEHRE, R. W. TAFT et R. D. TOPSOM. Prog. Phys. Org. 
+Chem. 12, 173 (1976). 
+26. H. HENRY et S. FLISZAR. J. Am. Chem. Soc. 100, 3312 (1978). 
+27. T. YONEMOTO. J. Magn. Rcson. ( a ) 12, 93 (1973); (b) 13, 153 
+(1974). 
+28. J. NAGY et J. REFFY. ( a ) J. Organomet. Chem. 22, 565 (1970); 
+(0) 23, 79 (1970); ( c ) the 1" Symp. on Org. Chem. of Ge, Sn, 
+Pb (France), Marseillc. 1974. 
+29. R. D. BACH et P. A. SCHERR. J. Am.Chem. Soc. 94,220 (1972). 
+30. C. G. PITT. J. Organomet. Chem. 61, 49 (1973). 
+31. W. ADCOCK, D. P. COX et W . KITCHING. J. Organomet. Chem. 
+133, 393 (1977). 
+32. H. SPIESECKE et W. G. SCHNEIDER. J. Chem. Phys. 35. 722 
+(1961). 
+33. A. J. DOWNS et C. J. ADAMS. Dnrzs Comprehensivc inorganic 
+chemistry. Vol. 2. Pergamon Press. Oxford. 1973, p. 1259; selon 
+K. Seppelt. Angew. Chem. Int. Ed. Engl. 18, 186 (1979). 
+34. C. JUAN et H. S. GUTOWSKY. J. Chem. Phys. 37, 2198 (1962). 
+35. G. W. SMITH. J. Chem. Phys. 42, 435 (1965). 
+36. F. J. WEIGERT. M. WINOKUR, J. D. ROBERTS. J. Am. Chem. 
+SOC., 90, 1566 (1968). 
+37. G. W. SMITH. J. Chem. Phys. 39, 203 1 (1963). 
+38. K. SISIDO, T. MIYANISI, K. N A B I K A ~~ 
+S. KOZIMA. J. Organomet. 
+Chem. 11, 281 (1968). 
+39. G. BARBIERI et F. TADDEI. J. Chem. Soc. Perkin Trans. 2, 1323 
+(1972). 
+40. C. D. SCHAEFFER, JR. et J. J. ZUCKERMAN. J.Organomet. Chcm. 
+99, 407 (1975). 
+41. D. DE VOS. J. Organomet. Chem. 104, 193 (1976). 
+42. M. GIELEN, M. DE CLERQ et B. DE POORTER. J. Organornet. 
+Chem. 34, 305 (1972). 
+43. L. VERDONCK et G. P. VAN DER KELEN. ( a ) Bull. Soc. Chim. 
+Belg. 76. 258 (1967); (6) Ber. Bunsenges. Phys. Chem. 69,478 
+(1965). 
+44. A. HOSOMI et T. G. TRAYLOR. J. Am. Chem. Soc. 97, 3682 
+(1975). 
+45. W. ADCOCK, B. D. GUPTA, W. KITCHING, D. DODDRELL et M. 
+GECKLE. J . Am. Chem. Soc. 96, 7360 (1974). 
+46. W. ADCOCK, B. D. GUPTA, W. KITCHING et D. DODDRELL. 
+J.Organomet. Chem. 102, 297 (1975). 
+47. M. DONADILLE, M. A. DELMAS, J. C. MAIRE et T. N. 
+SRIVASTAVA. J. Organomet. Chem. 15, 244 (1968). 
+48. A. A. BOTHNER-BY et H. GUNTHER. Disc. Faraday Soc. 34, 127 
+(1962). 
+49. J. MINK et Y. A. PENTIN. J. Organomet. Chem. 23, 293 i1970). 
+
+50. E. MATARASSO-TCHIROUKHINE et P. CADIOT. ( a ) J. Organomet. 
+
+Chem. 121, 155 (1976); (b) 121, 169 (1976). 
+
+Can. J. Chem. Downloaded from www.nrcresearchpress.com by 87.160.185.190 on 03/27/14 
+
+For personal use only. 
+
+
+
+	
+

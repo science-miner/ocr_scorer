@@ -1,0 +1,373 @@
+
+	
+
+		
+
+	
+
+	
+
+Regioselectivite et stereoselectivite de l'hydroxylation homolytique des 
+hydrocarbures par le peracide benzo'ique 
+
+JACQUES FOSSEY, DANIEL LEFORT, MASSOUD MASSOUDI, JEAN-YVES NEDELEC ET JEANINE SORBA 
+
+C.N.R.S., G.R. 12, 2, rue Henri-D~lna~lt. 94320 Thiais, France 
+
+JACQUES FOSSEY, DANIEL LEFORT, MASSOUD MASSOUDI, JEAN-YVES NEDELEC et JEANINE SORBA. Can. J. Chem. 63, 678 
+(1985). 
+Des hydrocarbures cyclohexane, Me-cyclohexane et adamantane sont hydroxylts par le peracide benzoi'que selon un 
+processus radicalaire. La rtgiostlectivitt en faveur des alcools tertiaires atteint 60 B 90%. Pour les dkcalines cis et trans, la 
+sttrtostlectivitt des dCcalols-9 peut atteindre 97%. Une trks bonne stCrCostlectivitC d'hydroxylation par un peracide ne signifie 
+pas obligatoirement que la rLaction n'est pas radicalaire. 
+
+JACQUES FOSSEY, DANIEL LEFORT, MASSOUD MASSOUDI, JEAN-YVES NEDELEC, and JEANINE SORBA. Can. J. Chem. 63, 678 
+(1985). 
+Cyclohexane, methylcyclohexane, and adamantane are hydroxylated by a radical process using perbenzoic acid. A regio-
+selectivity of 60-90% in favour of tertiary alcohols is noted. In the case of cis and trans decalins, stereoselection leading to 
+9-decalols can reach 97%. Such a stereoselectivity for hydroxylation by use of a peracid does not necessarily indicate lack of 
+a radical pathway. 
+[Journal translation] 
+
+L'hydroxylation directe des liaisons C-H non activCes par 
+les peroxyacides est une reaction d'intCrCt genCral en synthkse 
+(1 -9), dont I'aspect regio-et stereosClectif recueille une atten-
+tion particuliere. On sait Cgalement que le cytochrome P450 
+(10-13) ou les porphyrines metalliques (14, 15) catalysent 
+cette rCaction en utilisant les hydroperoxydes ou les peracides 
+comme source d'oxygkne. 
+Cette reaction d'hydroxylation par les peracides peut Ctre 
+decrite par un mCcanisme de type soit oxCnoi'de, soit radica-
+laire. Dans le premier cas on observe une tres bonne rCgio-et 
+stCrCoselectivitC (6-8); par contre dans le second cas, les rC-
+sultats sont de ce point de vue, beaucoup moins explicites 
+(2-4). Pourtant les rCsultats de sClectivitC sont souvent utilisCs 
+pour remonter au type de mecanisme mis en jeu: en clair, si une 
+rCaction est trks rkgio-et surtout tres stCrCosClective, on en 
+conclut en general que la rCaction n'est pas radicalaire. 
+Nous nous sommes donc proposC d'apporter des riponses 
+prCcises sur la rCgio-et stCrCosClectivitC d'hydroxylation d'un 
+certain nombre d'hydrocarbures saturCs cycliques par le pera-
+cide benzoi'que, dans des conditions expkrimentales ou le mC-
+canisme est, sans ambiguitk, radicalaire. 
+En effet, au cours des travaux que nous avons effectuCs sur 
+la rCactivitC homolytique des peracides, nous avons montrC 
+(16) que la dCcomposition du peracide benzo'ique en solution, 
+
+a ebullition, conduit h.~l'hydroxylation du solvant, dans la 
+
+mesure ou celui-ci est un donneur d'hydrogene, selon le 
+mCcanisme en chalne dCcrit dans la fig. 1. 
+Quand on utilise le cyclohexane comme solvant (R-H) on 
+obtient une mole de cyclohexanol (R-OH) par mole de pera-
+cide mis en oeuvre, montrant ainsi l'efficacitk du processus. 
+Comme hydrocarbures saturCs nous avons utilis-5 le cyclo-
+hexane, dont les resultats servent de references, le methyl-
+cyclohexane et l'adamantane, pour dkterminer la rCgio-
+sClectivitC, et les decalines cis et trans pour obtenir des 
+informations sur la stCrCoselectivite. 
+
+Resultats 
+Le peracide benzoi'que (rCf. 22) et l'hydrocarbure a Ctudier 
+sont dissous dans le benzene, solvant inerte vis-5-vis des 
+radicaux formCs. On utilise toujours un exces d'hydrocarbure 
+par rapport au peracide afin de privilegier la rkaction [3] de 
+
+[I] +C03H + 4CO; + HO' 
+
+[3] 4' (OU 4C02') + HR + +H (ou +COzH) + R' 
+[41 R' + 4C03H + ROH + +CO,' 
+
+formation du radical R'. 
+
+Les rCsultats exprimant la quantitC totale d'alcools form&amp;, 
+secondaires et tertiaires, ainsi que la rCgioselectivitC observCe 
+pour le cyclohexane, le mCthyl-cyclohexane et I'adamantane 
+
+sont donnCs dans le tableau I . Les alcools secondaires ne sont 
+oxydCs en cCtones qu'en tres faibles partie (1 a 2%) comme 
+nous I'avions montrC prCcCdemment (16) et ces donnCes ne 
+figurent pas dans le tableau. 
+En prtsence d'hydroquinone (0,02 M), une solution d'ada-
+mantane (I M ) et de peracide benzoi'que (0,l M) donne 9% 
+d'adamantanols secondaire et tertiaire, au lieu des 60% obser-
+v b sans hydroquinone. Ceci montre bien le caractkre radica-
+laire de l'hydroxylation. 
+Par rapport la solution temoin du peracide seul dans le 
+benzkne, I'addition d'un hydrocarbure a deux consCquences: 
+(i) une diminution de la quantitC d'acide benzoi'que du fait de 
+la rCaction de dCcarboxylation suivie des reactions [3] et [4]; 
+celles-ci n'ayant pas lieu dans le benzene, le peracide se dC-
+compose en acide selon un mecanisme radicalaire mettant en 
+jeu d'autres intermkdiaires (16) et plus lent; et (ii) une accC1C-
+ration de la vitesse de reaction due prCcisCment aux Ctapes [3] 
+et [4], sauf dans le cas de mCthyl-cyclohexane. Celui-ci, d'ail-
+leurs, joue un r61e inhibiteur pour la dCcomposition du peracide 
+en solution dans le cyclohexane au lieu du benzkne (t,,? 
+respectivement de 5 et 100 min pour des solutions 0 , l M de 
+
+peracide benzoi'que dans le cyclohexane et dans le cyclohexane 
+contenant 1 M de methyl-cyclohexane). 
+Ce resultat pose le probleme de la rCactivitC du radical 
+mCthyl-cyclohexyle tertiaire comparee a celle du radical cyclo-
+hexyle secondaire. 
+Quelques expkriences ont Ct C faites avec des peracides ayant 
+des pK, diffkrents de celui du peracide benzoYque, tels que les 
+Can. J. Chem. Downloaded from www.nrcresearchpress.com by 87.160.185.190 on 03/27/14 
+
+For personal use only. 
+
+
+FOSSEY ET AL 
+
+TABLEAU I. Hydroxylation dcs hydrocarbures saturts par Ic peracide benzo'ique, cn solution dans 
+le benzknc"' 
+
+Produits formCs 
+
+Hydrocarburc 
+Temoin 
+Paramktres 
+(sans hydrocarbure) 
+Cyclohcxane 
+Mc-cyclohexanc 
+Adamantanc 
+
+k s -' x lo'? 
+2,4 
+6,8 
+2.4 
+6,s 
++CO&gt;HS 
+98 
+80 
+60 
+60 
+Alcools ROHS 
+23 
+37 
+60 
+Alcool tertiaireg 
+
+-
+
+64 
+88 
+Alcools secondairesg 
+-
+36 
+12 
+
+4-+ 
+
+0.15 
+0,08 
+0,lO 
+
+'':I$CO,H = 0,I M ; hydrocarbure (RH) = I M ; T (bain) = 100 + 1°C 
+
+-1 Exprimi. en l er ordre. 
+
+t Acide et somme des alcools (sec + 1er0 exprimks en mol%. 
+S Alcool tertiaire + alcool secondaire = 100. 
+
+TABLEAU 2. Hydroxylation des dkcalines cis et trrrr~s par Ic peracide benzoi'quc, cn solution dans 
+Ic bcnzttne"' 
+
+Decalol-9 trans 
+Peracide 
+
+(Q+C02H 
+
+DCcalols 
+M 
+k s ~' x 10'1' 
+tertiairest 
+DCcalol-9 cis 
+
+DCcaline-cis 
+0, I 
+7.2 
+73 
+56 
+36 : 64 
+0,2 
+77 
+80 
+16:84 
+0.5 
+89 
+70 
+3:97 
+
+':I$CO,H = 0,1 M ; dkcaline = I M ; T (bain) = 100 ? 1°C. 
+
+' 1 Exprime en ler ordre. 
+
+t En mol% par rapport au peracide. 
+
+peracides m-chloro et tert-butyl-4 benzo'iques. Dans le cas du 
+cyclohexane nous avons obtenu sensiblernent les rnErnes quan-
+titts de cyclohexanol quelle que soit la nature du peracide. 
+La stertostlectivitt de I'hydroxylation a ete etudiee dans le 
+cas des decalines cis et trans (cf. Tableau 2). 
+Cornrne dans le cas des autres hydrocarbures, cf. Tableau 2, 
+on observe une accClCration de la vitesse de disparition du 
+peracide. Mais surtout le rtsultat stCrtochirnique est inttres-
+sant: le rapport translcis dirninue, dans le cas de la dCcaline 
+cis, quand la concentration en peracide augrnente alors qu'il 
+reste constant pour la dkcaline trans. Dans chaque cas I'analyse 
+du rntlange reactionnel revele la presence de dlph6nyle, en tres 
+faible quantitt, et que nous n'avons pas fait figurer dans le 
+tableau 2. 
+
+Discussion 
+Nos travaux anttrieurs (16, 17) ont rnontre que dans les 
+conditions experirnentales dkcrites, c'est-2-dire en prenant soin 
+d'tlirniner efficacernent l'oxygkne, le peracide rtagit effec-
+tivernent selon le processus radicalaire. 
+La rtgioselectivite en faveur des C-H tertiaires est deter-
+rninte par la reaction [3]; elle est exotherrnique de 10 a 20 
+kcal/rnol (18) selon que l'on considkre les radicaux Ph', ou 
+PhCO et on sait que la vitesse d'arrachernent d'un H tertiaire 
+est plus grande que celle d'un H secondaire (19). Ensuite la 
+reaction [4] est tgalernent trks exotherrnique et les rksultats 
+obtenus prCcCdernrnent (17) rnontrent que la r6activitC d'un 
+radical vis-a-vis de la liaison 0-0 d'un peracide est d'autant 
+plus grande que son caractkre nucltophile est plus marque; 
+
+c'est-a-dire qu'un radical tertiaire est plus reactif qu'un radical 
+secondaire. Les caracteristiques de ces deux reactions [3] et [4] 
+expliquent pourquoi l'hydroxylation a lieu preferentiellernent 
+sur les liaisons C-H tertiaires et pourquoi le rendernent en 
+alcool croit quand on passe du methyl-cyctohexane a l'ada-
+rnantane cornpte tenu du nornbre relatif d'atonies d'hydrogtne 
+H tertiaires dans la rnoltcule. 
+Les rtsultats sttrtochirniques des dtcalines cis et trans don-
+nts dans le tableau 2 sont en accord avec ce que l'on sait sur 
+la stCrCostlectivitt des radicaux decalyle-9 (20, 2 1). Un precur-
+seur de radical tratzs donne toujours lieu B un rnaintien de 
+configuration alors que dans le cas d'un precurseur de radical 
+cis il faut opCrer avec un substrat trts reactif, cornrne I'oxygkne 
+ou un hypochlorite, et forte concentration pour obtenir le 
+produit de reaction cis. Nos rtsultats rnontrent que la reaction 
+[4] est suffisarnrnent rapide pour &amp;tre competitive avec I'iso-
+rntrisation du radical cis en trans. 
+
+Conclusion 
+Les liaisons C-H, non activkes, des hydrocarbures cyclo-
+aliphatiques sont hydroxyltes par le peracide benzo'ique, selon 
+un processus radicalaire, avec une rCgioselectivitC de 70% et 
+80% en faveur des liaisons C-H tertiaires pour le rnethyl-
+cyclohexane et I'adarnantane. Dans le cas des dtcalines cis et 
+trans, la sttrtosClectivitt des dkcalols-9 peut atteindre 97%. 
+Ces resultats rnontrent donc qu'une tres bonne stereo-
+stlectivitt pour la reaction d'hydroxylation par un peracide ne 
+signifie pas obligatoirernent que le processus ne soit pas radi-
+calaire. 
+Can. J. Chem. Downloaded from www.nrcresearchpress.com by 87.160.185.190 on 03/27/14 
+
+For personal use only. 
+
+
+680 
+
+CAN. J. CHEM. VOL. 63. 1985 
+
+Partie experimentale 
+
+I. G. OLAH, D. PARKER et N. YONEDA. Angew. Chern. Int. Ed. 
+Le peracide benzo'ique est prtparC selon la rntthode de Swern' (22) 
+Engl. 17, 909 (1978). 
+
+par action de H202 85% sur I'acide benzo'ique dans CH,S03H a 95%. 
+
+2. A. ROTMAN et Y. MAZUR. J. 
+Chern. Sot. 94, 6228 
+La puretC est dCterrninCe par indice de peroxyde (I.P.) (23). 11 est 
+3. P. SCHLEyER et R. 
+J. 
+Chern. Sot. 833 Is2 
+ntcessaire d'utiliser du peracide fraichernent prCpar6 si on veut obtenir 
+(1961). 
+une bonne reproductibilitt des rCsultats. 
+4. D. HEYWOOD. B. PHILLIPS et H. STANBURY. J. Org. Chern. 22, 
+Les hydrocarbures et le bcnzkne utilists sont des produits cornrner-
+281 (1961). 
+ciaux dont la purete a kt6 contrBlte par cpg. 
+5. N. DENO, E. JEDZINIAK, L. MESSER, M . MEYER, S. STROUD et 
+Les analyses sont effectuCes par cpg sur un appareil Girdel CquipC 
+E. TOMEZSKO. Tetrahedron, 33, 2503 (1977). 
+d'un intkgrateur Autolab. 
+6. W. MULLER et H. SCHNEIDER. Angew. Chern. Int. Ed. Engl. 18, 
+407 (1 979). 
+Experience type 
+Un ballon de 50 crn', surrnontC d'un rtfrigkrant, contenant 10 crn' 
+
+d'une solution a I M en hydrocarbure et 0,l-0,2 ou 0.5 M en pera-
+
+cide benzo'ique, est plongC dans un bain thermostat6 dont la tern-
+
+pCrature est fixCe a 100°C. II est indispensable d'opkrer a Cbullition 
+
+vigoureuse pour Clirniner I'oxygkne dissous, ou sc formant au cours de 
+la reaction, sinon on arnorce un processus de dCcornposition du pera-
+cide en acide (16). Pour cette raison la ternptrature du bain est fixCe 
+a 20°C au dessus de celle de I'Cbullition du benzkne. 
+
+On effectue deux expkriences sirnultankes destinkes I'une a suivre 
+
+la vitesse de disparition du peracide par dkterrnination de I.P. au cours 
+du temps, I'autre a effectuer I'analyse quantitative du rnClange rCac-
+tionnel. Les constantes de vitesse (tableau I) sont exprirntes en ordre 
+I expCrirnental. Aprks 2-3 h d'ebullition il reste seulernent 1-2% de 
+peracide. Aprks estkrification par CH2NI, l'analyse des produits for-
+rnCs est effectuke par cpg sur deux colonnes (Carbowax 20M, 15%. 
+2 rn ou SE 30, 30%, 4 rn) en utilisant des Cchantillons authentiques et 
+un ttrnoin interne pour le dosage. 
+
+' L'hydroxylation peut Ctre aussi rkaliske en utilisant le peracide 
+
+dodCcanoique; dans ce cas il y a cornpktition entrc une rCaction en 
+chaine de dkcarboxy lation du peracide en n-undCcanol-l (1 6, 17) et un 
+transfert sur I'hydrocarbure (rCactions [3] et [4]); de ce fait le taux 
+d'hydroxylation de ce dernier est rnoins bon rnais les rtsultats con-
+firment le caractkre radicalaire du processus. 
+
+7. H. SCHNEIDER, N. BECKER et K. PHILIPPI. Chern. Ber. 114, 1562 
+(1981). 
+8. H. SCHNEIDER et W. MULLER. Angew. Chern. lnt. Ed. Engl. 21, 
+146 (1982). 
+9. N. TAKAISHI, Y. FUJIKURA et Y. INAMOTO. Synthesis, 293 
+(1983). 
+10. V. ULLRICH. Top. Curr. Chern. 83, 67 ( 1 978). 
+I I. R. WHITE et M. COON. Ann. Rev. Biochern. 49, 3 15 (1980). 
+12. R. BLAKE et M. COON. J. Biol. Chern. 256, 12127 (1981). 
+13. R. WHITE, S. SLIGAR et M. COON. J. Biol. Chern. 255, 1 1 108 
+( 1 980). 
+14. D. MANSUY, J. F. BARTOLI, J. C. CHOTARD et M. LANGE. 
+Angew. Chern. Int. Ed. Engl. 19, 909 (1980). 
+15. D. MANSUY, J. F. BARTOLI et M. MOMENTEAU. Tetrahedron 
+Lett. 23. 2781 (1982). 
+16. J. SORBA, J. FOSSEY, J. Y. NEDELEC et D. LEFORT. Tetrahedron, 
+35, 1509 (1979). 
+17. J. FOSSEY et D. LEFORT. Tetrahedron, 36, 1023 (1980). 
+18. J. KERR. Chern. Rev. 66, 465 (1966). 
+19. K. U. INGOLD. Dar1.s Free radicals. Vol. I. Edife' par J. Kochi. 
+Wiley, New-York. 1973. p. 37. 
+20. P. BARTLETT, R. PINCOCK, J. ROLSTON, W. SCHINIDEL et 
+L. SINGER. J. Am. Chern. Soc. 87, 2590 (1 965). 
+21. F. GREENE et N. LOWRY. J. Org. Chern. 32, 875 (1967). 
+22. L. SILBERT, E. SIEGEL et D. SWERN. J. Org. Chern. 27, 1336 
+( 1 962). 
+23. R. JOHNSON et J. SIDDIQUI. The determination of organic per-
+oxides. Pergamon Press, Oxford. 1970. 
+
+Can. J. Chem. Downloaded from www.nrcresearchpress.com by 87.160.185.190 on 03/27/14 
+
+For personal use only. 
+
+
+
+	
+
