@@ -335,9 +335,9 @@ class ModelScorer(object):
         total_time = round(time.time() - start_time, 3)
         print("\nevaluation: accuracy = {:.5f}, ({:.3f}s)".format(acc, total_time))
         bpc = loss / math.log(2)
-        print("bpc:", bpc, "\n")
+        print("bpc:", bpc)
         
-        print("scoring sequence evaluation...")
+        print("\nscoring sequence evaluation...")
         start_time = time.time()
         print("     scoring segments...")
         text_scores = []
@@ -352,7 +352,7 @@ class ModelScorer(object):
         deviation = np.std(scores, dtype=np.float64)
         print("\tstandard deviation:", str(deviation))
 
-        print("scoring file evaluation...")
+        print("\nscoring file evaluation...")
         start_time = time.time()
         print("     scoring files...")
         files_scores = []
@@ -363,8 +363,6 @@ class ModelScorer(object):
                 text_scores = []
                 for text in self.read_file_sequence(target_file=os.path.join(target_dir, file), 
                                                     max_length=500):
-                    print("score text of lenght", len(text))
-                    print(text)
                     text_scores.append(self.score_text(text))
                 local_file_score = np.mean(text_scores)
                 files_scores.append(local_file_score)
@@ -378,7 +376,30 @@ class ModelScorer(object):
         deviation = np.std(files_scores, dtype=np.float64)
         print("\tstandard deviation:", str(deviation))
         
-        
+        print("\nscoring OCRized files...")
+        start_time = time.time()
+        print("     scoring files...")
+        files_scores = []
+        target_dir = os.path.join(self.config['training_dir'], self.lang, "ocr")
+        for file in os.listdir(target_dir):
+            if file.endswith(".txt"):
+                print(file)
+                text_scores = []
+                for text in self.read_file_sequence(target_file=os.path.join(target_dir, file), 
+                                                    max_length=500):
+                    text_scores.append(self.score_text(text))
+                local_file_score = np.mean(text_scores)
+                files_scores.append(local_file_score)
+                print("score for file", file, ":", str(local_file_score))
+        total_time = round(time.time() - start_time, 3)
+        print("\nscored", str(len(files_scores)), "files in {:.3f}s".format(total_time)) 
+        scores = np.array(files_scores)
+        print("\taverage score:", str(np.mean(files_scores)))
+        print("\tlowest score:", str(np.min(files_scores)))
+        print("\thighest score:", str(np.max(files_scores)))
+        deviation = np.std(files_scores, dtype=np.float64)
+        print("\tstandard deviation:", str(deviation))
+
 
     def save(self):
         target_dir = os.path.join(self.config["models_dir"], self.lang)
