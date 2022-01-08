@@ -385,20 +385,24 @@ class ModelScorer(object):
             if file.endswith(".txt"):
                 print(file)
                 text_scores = []
+                i = 0
                 for text in self.read_file_sequence(target_file=os.path.join(target_dir, file), 
                                                     max_length=500):
                     text_scores.append(self.score_text(text))
+                    i += 1
+                    if i>200:
+                        break
                 local_file_score = np.mean(text_scores)
                 files_scores.append(local_file_score)
                 print("score for file", file, ":", str(local_file_score))
         total_time = round(time.time() - start_time, 3)
         print("\nscored", str(len(files_scores)), "files in {:.3f}s".format(total_time)) 
-        scores = np.array(files_scores)
-        print("\taverage score:", str(np.mean(files_scores)))
-        print("\tlowest score:", str(np.min(files_scores)))
-        print("\thighest score:", str(np.max(files_scores)))
-        deviation = np.std(files_scores, dtype=np.float64)
-        print("\tstandard deviation:", str(deviation))
+        if len(files_scores)>0:
+            print("\taverage score:", str(np.mean(files_scores)))
+            print("\tlowest score:", str(np.min(files_scores)))
+            print("\thighest score:", str(np.max(files_scores)))
+            deviation = np.std(files_scores, dtype=np.float64)
+            print("\tstandard deviation:", str(deviation))
 
 
     def save(self):
