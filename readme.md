@@ -49,10 +49,21 @@ pip3 install -e .
 
 The OCR Scorer Web API service is implemented with [FastAPI](https://fastapi.tiangolo.com) and can be started as follow:  
 
-> python3 ocr_scorer/service.py --config my_config.yaml
+> python3 ocr_scorer/service.py --config my_config.yml
 
 ```
-...
+logs are written in client.log
+INFO:     Started server process [60427]
+INFO:     Waiting for application startup.
+  ___   ____ ____                                     _    ____ ___ 
+ / _ \ / ___|  _ \   ___  ___ ___  _ __ ___ _ __     / \  |  _ \_ _|
+| | | | |   | |_) | / __|/ __/ _ \| '__/ _ \ '__|   / _ \ | |_) | | 
+| |_| | |___|  _ <  \__ \ (_| (_) | | |  __/ |     / ___ \|  __/| | 
+ \___/ \____|_| \_\ |___/\___\___/|_|  \___|_|    /_/   \_\_|  |___|
+                                                                    
+
+INFO:     Application startup complete.
+INFO:     Uvicorn running on http://0.0.0.0:8050 (Press CTRL+C to quit)
 ```
 
 The documentation of the service is available at `http(s)://*host*:*port*/docs`, e.g. `http://localhost:8050/docs` (based on Swagger), for ReDoc documentation style, use `http://localhost:8050/redoc`).

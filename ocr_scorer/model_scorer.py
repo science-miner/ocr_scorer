@@ -238,6 +238,20 @@ class ModelScorer(object):
                         if upper_bound >= len(text):
                             break
 
+    def read_text_sequence(self, text, max_length=500):
+        pos = 0
+        text = text_file.read()
+        text = normalise_text(text)
+        text = re.sub(r'([ \t\n\r]+)', ' ', text)
+        text = text.strip()
+        while True:
+            upper_bound = min((pos*max_length)+max_length, len(text))
+            segment = text[pos*max_length:upper_bound]
+            yield segment
+            pos += 1
+            if upper_bound >= len(text):
+                break
+
     def read_file_sequence(self, target_file=None, batch_size=None, max_length=500):
         if target_file == None:
             raise ValueError('Unspecified file to be read')

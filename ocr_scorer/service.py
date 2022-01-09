@@ -10,8 +10,9 @@ from functools import lru_cache
 import yaml
 import argparse
 from pathlib import Path
-from router import router 
+from router import router, set_scorer 
 from fastapi.middleware.cors import CORSMiddleware
+from ocr_scorer import OCRScorer
 #from fastapi.staticfiles import StaticFiles
 
 '''
@@ -29,11 +30,17 @@ tags_metadata = [
     }
 ]
 
+scorer = None
+
 '''
     Note: managing config is a bit complicated because FastAPI supports a configuration via
     environment variable, so to allow more complex and structured configuation, we extract 
     the API-specific setting parameters from the config file. 
 '''
+
+def init_scorer(config_path):
+    global scorer
+    scorer = OCRScorer(config_path)
 
 def get_app(server_config) -> FastAPI:
     # the setting specific to the API service (normally one different for dev, test and prod)
@@ -44,6 +51,7 @@ def get_app(server_config) -> FastAPI:
         version=server_config['version'],
         openapi_tags=tags_metadata)
     #server.include_router(router, prefix=server_config['api_route'])
+    set_scorer(scorer)
     server.include_router(router)
 
     origins = ["*"]
@@ -93,13 +101,15 @@ if __name__ == '__main__':
     parser.add_argument("--port", type=str, default=8080,
                         help="port of the service")
 
-    parser.add_argument("--config", type=Path, required=False, help="configuration file to be used", default='./config.yaml')
+    parser.add_argument("--config", type=Path, required=False, help="configuration file to be used", default='./config.yml')
 
     args = parser.parse_args()
     config_path = args.config
 
     # use uvicorn to serve the app, we again have to set the configuration parameters outside the app because uvicorn is an independent layer
     server_config = load_server_config(config_path)
+
+    init_scorer(config_path)
 
     app = get_app(server_config)
 

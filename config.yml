@@ -1,5 +1,3 @@
-
-
 # resource directories
 models_dir: "data/models"
 training_dir: "data/texts"

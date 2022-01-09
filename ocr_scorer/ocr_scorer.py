@@ -25,7 +25,7 @@ class OCRScorer(object):
     # to do: make this list dynamic by exploring the data/models repository
     supported_languages = ['en', 'de', 'fr']
 
-    def __init__(self, config_path="./config.yaml"):
+    def __init__(self, config_path="./config.yml"):
         self.config = _load_config(config_path)
 
         logs_filename = "client.log"
@@ -52,31 +52,38 @@ class OCRScorer(object):
         local_model = ModelScorer(lang, self.config)
         models[lang] = local_model
 
+    def get_model(self, lang):
+        local_model = None
+        
+        if not lang in models:
+            self.load_model(lang)
+        if not lang in models:
+            raise Exception("No model available for the language " + lang)
+        local_model = models[lang]    
+
+        if local_model == None:
+            raise Exception("Failed to identify the language")
+
     def score_text(self, text, lang=None):
         '''
         If no language is provided, use a language detector
         '''
         local_model = None
-        if lang != None:
-            if not lang in models:
-                self.load_model(lang)
-            if not lang in models:
-                raise Exception("No model available for the language " + lang)
-            local_model = models[lang]    
+        try:
+            local_model = self.get_model(lang)
+        except:
+            logging.error("Fail to load the model for language " + lang)
+        
+        if local_model is none:
+            raise Exception("Failed to process language " + lang)
+        
+        text_scores = []
+        for text in local_model.read_text_sequence(text, max_length=500):
+            text_scores.append(self.score_text(text))
+        local_file_score = np.mean(text_scores)
 
-        if local_model != None:
-            return local_model
-        else:
-            raise Exception("Failed to identify the language")
+        return local_file_score
 
-    def score_text_file(self, text_file, lang=None):
-        '''
-        Expected file text encoding: UTF-8
-
-        If no language is provided, use a language detector
-        '''
-
-        return 1.0
 
     def score_patent_xml(self, xml_file, lang=None):
         '''

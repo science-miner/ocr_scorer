@@ -5,9 +5,14 @@ from fastapi.responses import FileResponse
 import time 
 import ocr_scorer
 from enum import Enum
-import httpx
 
 router = APIRouter()
+
+scorer = None
+
+def set_scorer(global_scorer):
+    global scorer
+    scorer = global_scorer
 
 @router.get("/alive", response_class=PlainTextResponse, tags=["generic"], 
     description="Return true if service is up and running.")
@@ -20,3 +25,15 @@ def get_version():
     api_settings = kb.config['api']
     return api_settings['version']
 
+'''
+Estimate the OCR quality of a text segment
+'''
+@router.get("/score/text", tags=["scoring"], 
+    description="Estimate the OCR quality of a text segment. Return a quality score in [0:1].")
+async def get_score_text(text: str, lang: str):
+    start_time = time.time()
+    result = {}
+    result['score'] = scorer.score_text(text, lang)
+    result['runtime'] = round(time.time() - start_time, 3)
+    
+    return result
