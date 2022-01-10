@@ -69,7 +69,12 @@ INFO:     Uvicorn running on http://0.0.0.0:8050 (Press CTRL+C to quit)
 The documentation of the service is available at `http(s)://*host*:*port*/docs`, e.g. `http://localhost:8050/docs` (based on Swagger), for ReDoc documentation style, use `http://localhost:8050/redoc`).
 
 
-### Adding new languages and training LM models
+### Use the service
+
+Once the service is started as described in the previous section, the web service API documnetation is available at at `http(s)://*host*:*port*/docs`, e.g. `http://localhost:8050/docs`, based on Swagger, and `http://localhost:8050/redoc` for ReDoc documentation style. These documentations offer interactive support to support test queries. 
+
+
+### Add new languages and train LM models
 
 To train a language model:
 

@@ -49,22 +49,27 @@ class OCRScorer(object):
         print("logs are written in " + logs_filename)
 
     def load_model(self, lang):
+        print("load_model for ", lang)
         local_model = ModelScorer(lang, self.config)
-        models[lang] = local_model
+        self.models[lang] = local_model
 
     def get_model(self, lang):
+        print("get_model for ", lang)
+
         local_model = None
         
-        if not lang in models:
+        if not lang in self.models:
             self.load_model(lang)
-        if not lang in models:
+        if not lang in self.models:
             raise Exception("No model available for the language " + lang)
-        local_model = models[lang]    
+        local_model = self.models[lang]    
 
         if local_model == None:
             raise Exception("Failed to identify the language")
 
-    def score_text(self, text, lang=None):
+        return local_model
+
+    def score_text(self, text, lang="en"):
         '''
         If no language is provided, use a language detector
         '''
@@ -74,12 +79,12 @@ class OCRScorer(object):
         except:
             logging.error("Fail to load the model for language " + lang)
         
-        if local_model is none:
+        if local_model is None:
             raise Exception("Failed to process language " + lang)
         
         text_scores = []
         for text in local_model.read_text_sequence(text, max_length=500):
-            text_scores.append(self.score_text(text))
+            text_scores.append(local_model.score_text(text))
         local_file_score = np.mean(text_scores)
 
         return local_file_score

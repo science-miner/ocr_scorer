@@ -240,7 +240,6 @@ class ModelScorer(object):
 
     def read_text_sequence(self, text, max_length=500):
         pos = 0
-        text = text_file.read()
         text = normalise_text(text)
         text = re.sub(r'([ \t\n\r]+)', ' ', text)
         text = text.strip()

@@ -12,6 +12,7 @@ import argparse
 from pathlib import Path
 from router import router, set_scorer 
 from fastapi.middleware.cors import CORSMiddleware
+from fastapi.responses import PlainTextResponse
 from ocr_scorer import OCRScorer
 #from fastapi.staticfiles import StaticFiles
 
