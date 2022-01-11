@@ -211,8 +211,9 @@ class ModelScorer(object):
                             segments = []
                             next_chars = []
 
-    def read_files_sequence(self, target_dir=None, max_length=500):
+    def read_files_sequence(self, target_dir=None, max_length=500, samples=10):
         # we use all .txt files in the target data repository, defaulting to the language evaluation ones
+        # samples: max number of random sample text segments to be consider per text file, default is 10 
         if target_dir == None:
             target_dir = os.path.join(self.config['training_dir'], self.lang, "evaluation")
         elif not os.path.isdir(target_dir):
@@ -224,26 +225,38 @@ class ModelScorer(object):
                     pos = 0
                     text = text_file.read()
                     text = _normalize_text_for_scoring(text)
+
+                    total_segments = len(text) / max_length
+                    ratio = int(total_segments / samples)
+
                     while True:
                         upper_bound = min((pos*max_length)+max_length, len(text))
                         segment = text[pos*max_length:upper_bound]
-                        yield segment
+                        if pos % ratio == 0:
+                            yield segment
                         pos += 1
                         if upper_bound >= len(text):
                             break
 
-    def read_text_sequence(self, text, max_length=500):
+    def read_text_sequence(self, text, max_length=500, samples=10):
+        # samples: max number of random sample text segments to be consider in the text, default is 10 
         pos = 0
         text = _normalize_text_for_scoring(text)
+
+        total_segments = len(text) / max_length
+        ratio = int(total_segments / samples)
+
         while True:
             upper_bound = min((pos*max_length)+max_length, len(text))
             segment = text[pos*max_length:upper_bound]
-            yield segment
+            if pos % ratio == 0:
+                yield segment
             pos += 1
             if upper_bound >= len(text):
                 break
 
-    def read_file_sequence(self, target_file=None, batch_size=None, max_length=500):
+    def read_file_sequence(self, target_file=None, batch_size=None, max_length=500, samples=10):
+        # samples: max number of random sample text segments to be consider in the text file, default is 10 
         if target_file == None:
             raise ValueError('Unspecified file to be read')
 
@@ -257,10 +270,15 @@ class ModelScorer(object):
             pos = 0
             text = text_file.read()
             text = _normalize_text_for_scoring(text)
+
+            total_segments = len(text) / max_length
+            ratio = int(total_segments / samples)
+
             while True:
                 upper_bound = min((pos*max_length)+max_length, len(text))
                 segment = text[pos*max_length:upper_bound]
-                yield segment
+                if pos % ratio == 0:
+                    yield segment
                 pos += 1
                 if upper_bound >= len(text):
                     break

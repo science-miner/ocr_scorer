@@ -6,6 +6,7 @@ from fastapi.responses import FileResponse
 import time 
 import ocr_scorer
 from enum import Enum
+from lxml import etree
 
 router = APIRouter()
 
@@ -66,6 +67,32 @@ async def post_score_file_text(file: UploadFile = File(...), lang: str = Form(..
     
     return result
 
+
+'''
+Estimate the OCR quality of an XML file
+'''
+@router.post("/score/file/xml", tags=["score"], 
+    description="Estimate the OCR quality of an XML file. Return a quality score in [0:1].")
+async def post_score_file_xml(file: UploadFile = File(...), lang: str = Form(...)):
+    start_time = time.time()
+
+    if file is None:
+        raise HTTPException(status_code=404, detail="Invalid empty file")
+
+    if file.content_type not in [ 'text/xml', 'application/xml', 'application/vnd.pdm.v3+xml' ]:
+        raise HTTPException(status_code=404, detail="Invalid content type file, must be XML: " + file.content_type)
+
+    xml_string = await file.read()
+    #xml_string = xml_string.decode()
+    root = etree.fromstring(xml_string)
+    text = etree.tostring(root, encoding='utf-8', method='text')
+    text = text.decode()
+
+    result = {}
+    result['score'] = scorer.score_text(text, lang)
+    result['runtime'] = round(time.time() - start_time, 3)
+    
+    return result
 
 
 
