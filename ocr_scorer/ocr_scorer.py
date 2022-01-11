@@ -8,7 +8,6 @@ import time
 
 from model_scorer import ModelScorer
 from utils import _load_config
-from unicode_utils import normalise_text
 
 import logging
 import logging.handlers
@@ -49,20 +48,22 @@ class OCRScorer(object):
         print("logs are written in " + logs_filename)
 
     def load_model(self, lang):
-        print("load_model for ", lang)
         local_model = ModelScorer(lang, self.config)
+        local_model.load()
         self.models[lang] = local_model
+        return local_model
 
     def get_model(self, lang):
-        print("get_model for ", lang)
-
         local_model = None
-        
         if not lang in self.models:
-            self.load_model(lang)
+            local_model = self.load_model(lang)
+        else:
+            local_model = self.models[lang]
         if not lang in self.models:
             raise Exception("No model available for the language " + lang)
-        local_model = self.models[lang]    
+
+        for key in self.models:
+            print(key)
 
         if local_model == None:
             raise Exception("Failed to identify the language")
@@ -78,13 +79,14 @@ class OCRScorer(object):
             local_model = self.get_model(lang)
         except:
             logging.error("Fail to load the model for language " + lang)
-        
+
         if local_model is None:
             raise Exception("Failed to process language " + lang)
         
         text_scores = []
         for text in local_model.read_text_sequence(text, max_length=500):
-            text_scores.append(local_model.score_text(text))
+            local_score = local_model.score_text(text)
+            text_scores.append(local_score)
         local_file_score = np.mean(text_scores)
 
         return local_file_score

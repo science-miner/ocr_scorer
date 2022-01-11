@@ -2,6 +2,7 @@ tensorflow==2.7.0
 numpy==1.21.4 
 fastapi==0.68.2
 uvicorn
+python-multipart
 langdetect==1.0.9
 regex==2021.11.10
 pyfiglet

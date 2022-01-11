@@ -19,8 +19,8 @@ import math
 import logging
 import logging.handlers
 
-from utils import _load_config
-from unicode_utils import normalise_text
+from utils import _load_config, _normalize_text_for_scoring
+from unicode_utils import normalize_text
 
 # default logging settings, will be override by config file
 logging.basicConfig(filename='client.log', filemode='w', level=logging.DEBUG)
@@ -72,7 +72,7 @@ class ModelScorer(object):
             print("logs are written in " + logs_filename)
 
         # we use a static list of unicode points for indo-european languages and thus a fixed char vocab
-        target_dir = os.path.join(self.config['unicode_dir'], self.lang)
+        #target_dir = self.config['unicode_dir']
         with open(os.path.join(self.config['unicode_dir'], "unicode_table.txt"), "r") as fu:
             for line in fu.readlines():
                 if len(line) == 0:
@@ -82,7 +82,7 @@ class ModelScorer(object):
                 char = line[0]
                 # keep the character in line with the normalization
                 # if character is normalized into another character, it is not added to the vocabulary
-                char = normalise_text(char)
+                char = normalize_text(char)
                 if not char in self.chars:
                     self.chars.append(char)
 
@@ -99,9 +99,7 @@ class ModelScorer(object):
         pos = 0
         segments = []
         next_chars = []
-        text = normalise_text(text)
-        text = re.sub(r'([ \t\n\r]+)', ' ', text)
-        text = text.strip()
+        text = _normalize_text_for_scoring(text)
         #print(text)
 
         # hacky but it work not badly - in case of short text, we concatenate the same text to reach a full
@@ -186,9 +184,7 @@ class ModelScorer(object):
                     segments = []
                     next_chars = []
                     text = text_file.read()
-                    text = normalise_text(text)
-                    text = re.sub(r'([ \t\n\r]+)', ' ', text)
-                    text = text.strip()
+                    text = _normalize_text_for_scoring(text)
                     #print(text)
                     while pos < len(text)-(self.max_length+1):
                         segments.append(text[pos:pos+self.max_length])
@@ -227,9 +223,7 @@ class ModelScorer(object):
                 with open(os.path.join(target_dir, file), "r") as text_file:
                     pos = 0
                     text = text_file.read()
-                    text = normalise_text(text)
-                    text = re.sub(r'([ \t\n\r]+)', ' ', text)
-                    text = text.strip()
+                    text = _normalize_text_for_scoring(text)
                     while True:
                         upper_bound = min((pos*max_length)+max_length, len(text))
                         segment = text[pos*max_length:upper_bound]
@@ -240,9 +234,7 @@ class ModelScorer(object):
 
     def read_text_sequence(self, text, max_length=500):
         pos = 0
-        text = normalise_text(text)
-        text = re.sub(r'([ \t\n\r]+)', ' ', text)
-        text = text.strip()
+        text = _normalize_text_for_scoring(text)
         while True:
             upper_bound = min((pos*max_length)+max_length, len(text))
             segment = text[pos*max_length:upper_bound]
@@ -264,9 +256,7 @@ class ModelScorer(object):
         with open(target_file, "r") as text_file:
             pos = 0
             text = text_file.read()
-            text = normalise_text(text)
-            text = re.sub(r'([ \t\n\r]+)', ' ', text)
-            text = text.strip()
+            text = _normalize_text_for_scoring(text)
             while True:
                 upper_bound = min((pos*max_length)+max_length, len(text))
                 segment = text[pos*max_length:upper_bound]

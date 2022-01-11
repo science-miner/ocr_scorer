@@ -1,4 +1,5 @@
 from fastapi import APIRouter, HTTPException, Request, Response
+from fastapi import File, Form, UploadFile
 from fastapi.responses import PlainTextResponse, RedirectResponse
 from fastapi.responses import StreamingResponse
 from fastapi.responses import FileResponse
@@ -40,4 +41,32 @@ async def post_score_text(text: str, lang: str = 'en'):
     result['runtime'] = round(time.time() - start_time, 3)
     
     return result
+
+
+'''
+Estimate the OCR quality of a text file
+'''
+@router.post("/score/file/text", tags=["score"], 
+    description="Estimate the OCR quality of a text file. Return a quality score in [0:1].")
+async def post_score_file_text(file: UploadFile = File(...), lang: str = Form(...)):
+    start_time = time.time()
+
+    if file is None:
+        raise HTTPException(status_code=404, detail="Invalid empty file")
+
+    if file.content_type != 'text/plain':
+        raise HTTPException(status_code=404, detail="Invalid content type file, must be text: " + file.content_type)
+
+    text = await file.read()
+    text = text.decode()
+
+    result = {}
+    result['score'] = scorer.score_text(text, lang)
+    result['runtime'] = round(time.time() - start_time, 3)
+    
+    return result
+
+
+
+
 

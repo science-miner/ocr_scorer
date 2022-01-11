@@ -1,6 +1,9 @@
 import io
 import os
 import yaml
+import re
+
+from unicode_utils import normalize_text
 
 def _load_config(config_file='./config.yaml'):
     """
@@ -25,3 +28,10 @@ def _load_config(config_file='./config.yaml'):
         raise Exception(msg)
 
     return configuration
+
+def _normalize_text_for_scoring(text): 
+    if text == None or len(text) == 0:
+        return text
+    text = normalize_text(text)
+    text = re.sub(r'([ \t\n\r]+)', ' ', text)
+    return text.strip()

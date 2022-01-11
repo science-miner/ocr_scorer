@@ -35,7 +35,7 @@ dash_chars = r"[" \
     + "]"
 DASH_PATTERN = re.compile(dash_chars)
 
-NORMALISE_REGEX_PATTERN = re.compile(r"[ \n]+")
+NORMALIZE_REGEX_PATTERN = re.compile(r"[ \n]+")
 
 # here are the 26 code points of the "official" stable
 # p{White_Space} unicode property - not used, but here as reference/alternative
@@ -177,7 +177,7 @@ close_parenthesis = r"[" \
 CLOSE_PARENTHESIS_PATTERN = re.compile(close_parenthesis);
 
 '''
-Normalise the space, EOL and punctuation unicode characters.
+Normalize the space, EOL and punctuation unicode characters.
 
 In particular all the characters which are treated as space in
 C++ (http://en.cppreference.com/w/cpp/string/byte/isspace)
@@ -185,10 +185,10 @@ will be replace by the punctuation space character U+2008
 so that the token can be used to generate a robust feature vector
 legible as Wapiti input.
 
-@param text to be normalised
-@return normalised string
+@param text to be normalized
+@return normalized string
 '''
-def normalise_text(text):
+def normalize_text(text):
     if text == None:
         return None
 
@@ -202,10 +202,10 @@ def normalise_text(text):
     elif text.endswith("\\"):
         text += "\\\\\\"
 
-    # normalise all horizontal space separator characters 
+    # normalize all horizontal space separator characters 
     text = MY_WHITESPACE_PATTERN.sub(" ", text);
 
-    # normalise all EOL - special handling of "\r\n" as one single newline
+    # normalize all EOL - special handling of "\r\n" as one single newline
     text = text.replace("\r\n", r"\n")
     text = NEW_LINE_CHARS_PATTERN.sub("\n", text)
 
@@ -234,62 +234,62 @@ def normalise_text(text):
     
 '''
 Unicode normalisation of text.
-Works as the {@link org.grobid.core.utilities.UnicodeUtil#normaliseText(java.lang.String)}, 
+Works as the {@link org.grobid.core.utilities.UnicodeUtil#normalizeText(java.lang.String)}, 
 but in addition also replace any spaces+EOL sequences by a single space
-@param text to be normalised
-@return normalised string
+@param text to be normalized
+@return normalized string
 '''
-def normalise_text_and_collapse_spaces(text):
+def normalize_text_and_collapse_spaces(text):
     # parano sanitising
-    return NORMALISE_REGEX_PATTERN.matcher(normaliseText(text)).replaceAll(" ")
+    return NORMALIZE_REGEX_PATTERN.matcher(normalizeText(text)).replaceAll(" ")
 
 
 if __name__ == '__main__':
     # run some test
     string = "‑‒–—―"
-    string = normalise_text(string)
+    string = normalize_text(string)
     if string != "-----":
         print("error: failed to normalized dash pattern", "‑‒–—―", string)
     else:
         print("full dash text pass")
 
     string = "—―"
-    string = normalise_text(string)
+    string = normalize_text(string)
     if string != "--":
         print("error: failed to normalized dash pattern", "—―", string)
     else:
         print("double dash text pass")
 
     string = "‒"
-    string = normalise_text(string)
+    string = normalize_text(string)
     if string != "-":
         print("error: failed to normalized dash pattern", "‒", string)
     else:
         print("single dash text pass")
 
     string = "•‣◦⁃⁌⁍∙◘⦾⦿⏺●⚫⬤·"
-    string = normalise_text(string)
+    string = normalize_text(string)
     if string != "•••••••••••••••":
         print("error: failed to normalized dash pattern", "•‣◦⁃⁌⁍∙◘⦾⦿⏺●⚫⬤·", string)
     else:
         print("full bullet text pass")
 
     string = "//"
-    string = normalise_text(string)
+    string = normalize_text(string)
     if string != "//":
         print("error: failed to normalized single backslas pattern", "//", string)
     else:
         print("single backslash text pass")
 
     string = r"/"
-    string = normalise_text(string)
+    string = normalize_text(string)
     if string != r"/":
         print("error: failed to normalized raw single backslash pattern", r"/", string)
     else:
         print("raw single backslash text pass")
 
     string = "////"
-    string = normalise_text(string)
+    string = normalize_text(string)
     if string != "////":
         print("error: failed to normalized double backslash  pattern", "////", string)
     else:

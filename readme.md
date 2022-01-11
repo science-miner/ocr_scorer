@@ -76,6 +76,23 @@ Once the service is started as described in the previous section, the web servic
 
 ### Add new languages and train LM models
 
+Current available scorer language models are:
+- for English, German and French languages only
+- and for scientific article and patents only
+
+For covering other languages and other type of textual content, training new models is necessary. 
+
+To train a language model for any languages, the following resources are needed:
+
+- Text content in `.txt` files encoded in Unicode under `data/texts/xx/training` where `xx` is the two-letter ISO 639-1 code of the language. The amount of text content must be superior to 1M characters at least, otherwise it might cause issues in getting the training converging, 
+
+To evaluate a language model for an existing trained language:
+
+- Text content in `.txt` files encoded in Unicode under `data/texts/xx/evaluation` where `xx` is the two-letter ISO 639-1 code of the language. Any amount of text is possible. 
+
+
+
+
 To train a language model:
 
 
@@ -94,13 +111,6 @@ python3 ocr_scorer/model_scorer.py --lang en evaluate
 
 This will evaluate the trained model for the indicated language using the text content under `data/texts/en/evaluation`. The evaluation is giving the accuracy of next character predictions in the evaluation data and the BPC (Bits Per Character) tradditionally used in LM.
 
-To train a language model for any languages, the following resources are needed:
-
-- Text content in `.txt` files encoded in Unicode under `data/texts/xx/training` where `xx` is the two-letter ISO 639-1 code of the language. The amount of text content must be superior to 1M characters at least, otherwise it might cause issues in getting the training converging, 
-
-To evaluate a language model for an existing trained language:
-
-- Text content in `.txt` files encoded in Unicode under `data/texts/xx/evaluation` where `xx` is the two-letter ISO 639-1 code of the language. Any amount of text is possible. 
 
 
 ## References
