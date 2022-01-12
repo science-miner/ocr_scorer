@@ -6,7 +6,7 @@ import random
 import argparse
 import time
 
-from model_scorer import ModelScorer
+from lm_scorer import LMScorer
 from utils import _load_config
 
 import logging
@@ -14,17 +14,27 @@ import logging.handlers
 # default logging settings, will be override by config file
 logging.basicConfig(filename='client.log', filemode='w', level=logging.DEBUG)
 
+from sklearn.utils import shuffle
+import xgboost as xgb
+
+SCORER_FILE = "scorer.json"
+
+# to do: make this list dynamic by exploring the data/models repository
+supported_languages = ['en', 'de', 'fr']
 
 class OCRScorer(object):
 
-    # models is a map of models with language (two letters ISO 639-1) as key
-    models = {}
     config = None
+    config_path = None
 
-    # to do: make this list dynamic by exploring the data/models repository
-    supported_languages = ['en', 'de', 'fr']
+    # models is a map of language models, language (two letters ISO 639-1) as key
+    models = {}
+    
+    # scorers is a map of regression models, language (two letters ISO 639-1) as key
+    scorers = {}
 
     def __init__(self, config_path="./config.yml"):
+        self.config_path = config_path
         self.config = _load_config(config_path)
 
         logs_filename = "client.log"
@@ -47,28 +57,32 @@ class OCRScorer(object):
         logging.basicConfig(filename=logs_filename, filemode='w', level=logs_level)
         print("logs are written in " + logs_filename)
 
-    def load_model(self, lang):
-        local_model = ModelScorer(lang, self.config)
-        local_model.load()
-        self.models[lang] = local_model
-        return local_model
+    def load_lm_model(self, lang):
+        lm_model = LMScorer(lang, config_path=self.config_path)
+        lm_model.load()
+        self.models[lang] = lm_model
 
-    def get_model(self, lang):
+
+    def get_lm_model(self, lang):
         local_model = None
         if not lang in self.models:
-            local_model = self.load_model(lang)
-        else:
-            local_model = self.models[lang]
-        if not lang in self.models:
-            raise Exception("No model available for the language " + lang)
-
-        for key in self.models:
-            print(key)
-
+            self.load_lm_model(lang)
+            if not lang in self.models:
+                raise Exception("No model available for the language " + lang)
+        
+        local_model = self.models[lang]
         if local_model == None:
             raise Exception("Failed to identify the language")
 
         return local_model
+
+    def get_scorer_model(self, lang):
+        if lang in self.scorers:
+            return self.scorers[lang]
+        self.load_scorer(lang)
+        if not lang in self.scorers:
+            raise Exception("No model available for the language " + lang)
+        return self.scorers[lang]
 
     def score_text(self, text, lang="en"):
         '''
@@ -76,32 +90,37 @@ class OCRScorer(object):
         '''
         local_model = None
         try:
-            local_model = self.get_model(lang)
+            local_model = self.get_lm_model(lang)
         except:
-            logging.error("Fail to load the model for language " + lang)
+            logging.error("Fail to load the language model for language " + lang)
 
         if local_model is None:
-            raise Exception("Failed to process language " + lang)
+            raise Exception("Failed to process language model for " + lang)
         
         text_scores = []
         for text in local_model.read_text_sequence(text, max_length=500):
             local_score = local_model.score_text(text)
             text_scores.append(local_score)
-        local_file_score = np.mean(text_scores)
+        local_text_score = np.mean(text_scores)
+        deviation = np.std(text_scores, dtype=np.float64)
 
-        return local_file_score
+        scorer_model = None
+        try:
+            scorer_model = self.get_scorer_model(lang)
+        except:
+            logging.error("Fail to load the scorer model for language " + lang)
 
+        if scorer_model is None:
+            raise Exception("Failed to process scorer model for language " + lang)
 
-    def score_patent_xml(self, xml_file, lang=None):
-        '''
-        Expected XML format for patent is ST.36
+        X = []
+        for i in range(len(self.text_scores)):
+            x.append(text_scores[i])
+            x.append(deviation)
+            X.append(x)
+        final_text_score = scorer_model.predict(X)
 
-        If no language is provided as parameter (override all XML tags), use the @lang attribute in the XML, 
-        or a language detector if no @lang attributes is found in the XML
-        '''
-
-        return 1.0
-
+        return final_text_score
 
     def score_pdf(self, pdf_file, lang=None):
         '''
@@ -110,6 +129,131 @@ class OCRScorer(object):
         '''
 
         return 1.0
+
+    def score_patent_xml(self, xml_file, lang=None):
+        '''
+        Processing of XML file in ST.36 format
+        If no language is provided, use a language detector
+        '''
+
+        return 1.0
+
+    def train_scorer(self, lang):
+        '''
+        Train a scorer regression model, which uses the LM probability score as feature, 
+        combined with others to produce a normalized score in [0,1] 
+        '''
+
+        x_pos, y_pos = self.load_positive_examples(lang)
+        x_neg, y_neg = self.load_degraded_examples(lang)
+        x = x_pos + x_neg
+        y = y_pos + y_neg
+
+        x, y = shuffle(x, y)
+
+        xgb_model = xgb.XGBRegressor(objective="reg:squarederror", random_state=42)
+        xgb_model.fit(x, y)
+
+        self.scorers[lang] = xgb_model
+
+    def save_scorer(self, lang):
+        # save scorer
+        save_path = os.path.join(self.config["models_dir"], lang, SCORER_FILE)
+
+        model_xgb = self.get_scorer_model(lang)
+
+        if model_xgb is not None:
+            # save to JSON
+            model_xgb.save_model(save_path)
+
+    def load_scorer(self, lang):
+        load_path = os.path.join(self.config["models_dir"], lang, SCORER_FILE)
+        model_xgb = xgb.Booster()
+        model_xgb.load_model(load_path)
+        self.scorers[lang] = model_xgb
+
+    def load_positive_examples(self, lang):
+        x = []
+        y = []
+        text_scores = []
+
+        local_model = None
+        try:
+            local_model = self.get_lm_model(lang)
+        except:
+            logging.error("Fail to load the model for language " + lang)
+
+        if local_model is None:
+            raise Exception("Failed to process language " + lang)
+
+        start_time = time.time()
+        for text in local_model.read_files_sequence(max_length=500, samples=None):
+            text_scores.append(local_model.score_text(text))
+        total_time = round(time.time() - start_time, 3)
+        print("\nscored", str(len(text_scores)), "text segments in {:.3f}s".format(total_time)) 
+        scores = np.array(text_scores)
+        print("\taverage score:", str(np.mean(scores)))
+        print("\tlowest score:", str(np.min(scores)))
+        print("\thighest score:", str(np.max(scores)))
+        deviation = np.std(scores, dtype=np.float64)
+
+        for i in range(len(scores)):
+            features = []
+            # LM probability of the sequence
+            features.append(scores[i])
+            # general standard deviation
+            features.append(deviation)
+
+            x.append(features)
+            y.append(1.0)
+        return x, y
+
+    def load_degraded_examples(self, lang):
+        x = []
+        y = []
+
+        local_model = None
+        try:
+            local_model = self.get_lm_model(lang)
+        except:
+            logging.error("Fail to load the model for language " + lang)
+
+        if local_model is None:
+            raise Exception("Failed to process language " + lang)
+
+        start_time = time.time()
+        text_scores = []
+        target_dir = os.path.join(self.config['training_dir'], lang, "ocr")
+        for file in os.listdir(target_dir):
+            if file.endswith(".txt"):
+                print(file)
+                i = 0
+                for text in local_model.read_file_sequence(target_file=os.path.join(target_dir, file), 
+                                                    max_length=500, samples=None):
+                    text_scores.append(local_model.score_text(text))
+                    i += 1
+                    if i>200:
+                        break
+
+        total_time = round(time.time() - start_time, 3)
+        print("\nscored", str(len(text_scores)), "text segments in {:.3f}s".format(total_time)) 
+        scores = np.array(text_scores)
+        print("\taverage score:", str(np.mean(scores)))
+        print("\tlowest score:", str(np.min(scores)))
+        print("\thighest score:", str(np.max(scores)))
+        deviation = np.std(scores, dtype=np.float64)
+
+        for i in range(len(scores)):
+            features = []
+            # LM probability of the sequence
+            features.append(scores[i])
+            # general standard deviation
+            features.append(deviation)
+
+            x.append(features)
+            y.append(0.0)
+        return x, y
+
 
 if __name__ == '__main__':
     parser = argparse.ArgumentParser(

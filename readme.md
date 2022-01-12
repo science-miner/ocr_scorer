@@ -97,7 +97,7 @@ To train a language model:
 
 
 ```
-python3 ocr_scorer/model_scorer.py --lang en train
+python3 ocr_scorer/lm_scorer.py --lang en train
 ```
 
 This will train the language model for English using the text content under `data/texts/en/training`.
@@ -106,7 +106,7 @@ The evaluate a language model:
 
 
 ```
-python3 ocr_scorer/model_scorer.py --lang en evaluate
+python3 ocr_scorer/lm_scorer.py --lang en evaluate
 ```
 
 This will evaluate the trained model for the indicated language using the text content under `data/texts/en/evaluation`. The evaluation is giving the accuracy of next character predictions in the evaluation data and the BPC (Bits Per Character) tradditionally used in LM.

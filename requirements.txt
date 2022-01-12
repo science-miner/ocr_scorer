@@ -6,3 +6,5 @@ python-multipart
 langdetect==1.0.9
 regex==2021.11.10
 pyfiglet
+xgboost
+scikit-learn==1.0.2

@@ -31,7 +31,7 @@ def get_version():
 Estimate the OCR quality of a text segment
 '''
 @router.post("/score/text", tags=["score"], 
-    description="Estimate the OCR quality of a text segment. Return a quality score in [0:1].")
+    description="Estimate the OCR quality of a text segment. Return a quality score in [0,1].")
 async def post_score_text(text: str, lang: str = 'en'):
     start_time = time.time()
 
@@ -48,7 +48,7 @@ async def post_score_text(text: str, lang: str = 'en'):
 Estimate the OCR quality of a text file
 '''
 @router.post("/score/file/text", tags=["score"], 
-    description="Estimate the OCR quality of a text file. Return a quality score in [0:1].")
+    description="Estimate the OCR quality of a text file. Return a quality score in [0,1].")
 async def post_score_file_text(file: UploadFile = File(...), lang: str = Form(...)):
     start_time = time.time()
 
@@ -72,7 +72,7 @@ async def post_score_file_text(file: UploadFile = File(...), lang: str = Form(..
 Estimate the OCR quality of an XML file
 '''
 @router.post("/score/file/xml", tags=["score"], 
-    description="Estimate the OCR quality of an XML file. Return a quality score in [0:1].")
+    description="Estimate the OCR quality of an XML file. Return a quality score in [0,1].")
 async def post_score_file_xml(file: UploadFile = File(...), lang: str = Form(...)):
     start_time = time.time()
 

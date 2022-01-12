@@ -25,16 +25,15 @@ from unicode_utils import normalize_text
 # default logging settings, will be override by config file
 logging.basicConfig(filename='client.log', filemode='w', level=logging.DEBUG)
 
-
 '''
 Language model for scoring sequence with vanilla LSTM
 '''
-
-class ModelScorer(object):
+class LMScorer(object):
 
     lang = None
     model = None
     config = None
+    config_path = None
     chars = []
     char_indices = None
     use_spatial_information = False
@@ -46,9 +45,16 @@ class ModelScorer(object):
     voc_size = 0
     UNK = 0
 
-    def __init__(self, lang, config=config, use_spatial_information=False):
+    # scorer normalization/calibration parameters, use to normalize
+    # and project scores between [0,1] based on examples
+    scorer_parameters = {}
+    
+
+    def __init__(self, lang, config_path=config_path, use_spatial_information=False):
+
         self.lang = lang
-        self.config = config
+        self.config = _load_config(config_path)
+        self.config_path = config_path
         self.use_spatial_information = use_spatial_information
 
         logs_filename = "client.log"
@@ -214,6 +220,7 @@ class ModelScorer(object):
     def read_files_sequence(self, target_dir=None, max_length=500, samples=10):
         # we use all .txt files in the target data repository, defaulting to the language evaluation ones
         # samples: max number of random sample text segments to be consider per text file, default is 10 
+        # if samples is None, all the sequences are returned
         if target_dir == None:
             target_dir = os.path.join(self.config['training_dir'], self.lang, "evaluation")
         elif not os.path.isdir(target_dir):
@@ -226,13 +233,14 @@ class ModelScorer(object):
                     text = text_file.read()
                     text = _normalize_text_for_scoring(text)
 
-                    total_segments = len(text) / max_length
-                    ratio = int(total_segments / samples)
+                    if samples is not None:
+                        total_segments = len(text) / max_length
+                        ratio = int(total_segments / samples)
 
                     while True:
                         upper_bound = min((pos*max_length)+max_length, len(text))
                         segment = text[pos*max_length:upper_bound]
-                        if pos % ratio == 0:
+                        if samples is None or pos % ratio == 0:
                             yield segment
                         pos += 1
                         if upper_bound >= len(text):
@@ -240,16 +248,18 @@ class ModelScorer(object):
 
     def read_text_sequence(self, text, max_length=500, samples=10):
         # samples: max number of random sample text segments to be consider in the text, default is 10 
+        # if samples is None, all the sequences are returned
         pos = 0
         text = _normalize_text_for_scoring(text)
 
-        total_segments = len(text) / max_length
-        ratio = int(total_segments / samples)
+        if samples is not None:
+            total_segments = len(text) / max_length
+            ratio = int(total_segments / samples)
 
         while True:
             upper_bound = min((pos*max_length)+max_length, len(text))
             segment = text[pos*max_length:upper_bound]
-            if pos % ratio == 0:
+            if samples is None or pos % ratio == 0:
                 yield segment
             pos += 1
             if upper_bound >= len(text):
@@ -257,6 +267,7 @@ class ModelScorer(object):
 
     def read_file_sequence(self, target_file=None, batch_size=None, max_length=500, samples=10):
         # samples: max number of random sample text segments to be consider in the text file, default is 10 
+        # if samples is None, all the sequences are returned
         if target_file == None:
             raise ValueError('Unspecified file to be read')
 
@@ -271,13 +282,14 @@ class ModelScorer(object):
             text = text_file.read()
             text = _normalize_text_for_scoring(text)
 
-            total_segments = len(text) / max_length
-            ratio = int(total_segments / samples)
+            if samples is not None:
+                total_segments = len(text) / max_length
+                ratio = int(total_segments / samples)
 
             while True:
                 upper_bound = min((pos*max_length)+max_length, len(text))
                 segment = text[pos*max_length:upper_bound]
-                if pos % ratio == 0:
+                if samples is None or pos % ratio == 0:
                     yield segment
                 pos += 1
                 if upper_bound >= len(text):
@@ -362,7 +374,7 @@ class ModelScorer(object):
         start_time = time.time()
         print("     scoring segments...")
         text_scores = []
-        for text in self.read_files_sequence(max_length=500):
+        for text in self.read_files_sequence(max_length=500, samples=20):
             text_scores.append(self.score_text(text))
         total_time = round(time.time() - start_time, 3)
         print("\nscored", str(len(text_scores)), "text segments in {:.3f}s".format(total_time)) 
@@ -383,7 +395,7 @@ class ModelScorer(object):
                 print(file)
                 text_scores = []
                 for text in self.read_file_sequence(target_file=os.path.join(target_dir, file), 
-                                                    max_length=500):
+                                                    max_length=500, samples=20):
                     text_scores.append(self.score_text(text))
                 local_file_score = np.mean(text_scores)
                 files_scores.append(local_file_score)
@@ -408,7 +420,7 @@ class ModelScorer(object):
                 text_scores = []
                 i = 0
                 for text in self.read_file_sequence(target_file=os.path.join(target_dir, file), 
-                                                    max_length=500):
+                                                    max_length=500, samples=20):
                     text_scores.append(self.score_text(text))
                     i += 1
                     if i>200:
@@ -425,6 +437,16 @@ class ModelScorer(object):
             deviation = np.std(files_scores, dtype=np.float64)
             print("\tstandard deviation:", str(deviation))
 
+    def train_scorers(self, langs=None):
+        # lazy loading to avoid circular import 
+        from ocr_scorer import OCRScorer, supported_languages
+        if langs == None:
+            langs = supported_languages
+
+        for lang in langs:
+            local_scorer = OCRScorer(self.config_path)
+            local_scorer.train_scorer(lang)
+            local_scorer.save_scorer(lang)
 
     def save(self):
         target_dir = os.path.join(self.config["models_dir"], self.lang)
@@ -452,7 +474,7 @@ class ModelScorer(object):
 
 if __name__ == '__main__':
 
-    possible_actions = [ 'train', 'eval', 'test' ]
+    possible_actions = [ 'train', 'eval', 'test', 'train_scorers', 'train_scorer' ]
 
     parser = argparse.ArgumentParser(
         description="Simple command line OCR scorer. Use the service for more intensive/pipeline tasks.")
@@ -465,14 +487,19 @@ if __name__ == '__main__':
     action = args.action
     config_file = args.config_file
     lang = args.lang
-    config = _load_config(config_file)
 
-    model = ModelScorer(lang, config, False)
+    model = LMScorer(lang, config_file, False)
     
     if action == 'train':
         model.train()
         model.save()
     
+    if action == 'train_scorers':
+        model.train_scorers()
+
+    if action == 'train_scorer':
+        model.train_scorers([model.lang])
+
     if action == 'eval':
         model.load()
         model.evaluate()
