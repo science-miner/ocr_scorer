@@ -62,8 +62,12 @@ async def post_score_file_text(file: UploadFile = File(...), lang: str = Form(..
     text = text.decode()
 
     result = {}
-    result['score'] = scorer.score_text(text, lang)
+    the_score = scorer.score_text(text, lang)
+    print(the_score)
+    result['score'] = the_score
     result['runtime'] = round(time.time() - start_time, 3)
+
+    print(result)
     
     return result
 
@@ -95,5 +99,25 @@ async def post_score_file_xml(file: UploadFile = File(...), lang: str = Form(...
     return result
 
 
+'''
+Estimate the OCR quality of a PDF file
+'''
+@router.post("/score/file/pdf", tags=["score"], 
+    description="Estimate the OCR quality of an XML file. Return a quality score in [0,1].")
+async def post_score_file_pdf(file: UploadFile = File(...), lang: str = Form(...)):
+    start_time = time.time()
 
+    if file is None:
+        raise HTTPException(status_code=404, detail="Invalid empty file")
+
+    if file.content_type not in [ 'application/pdf' ]:
+        raise HTTPException(status_code=404, detail="Invalid content type file, must be PDF: " + file.content_type)
+
+    pdf_content = await file.read()
+    
+    result = {}
+    result['score'] = 1.0
+    result['runtime'] = round(time.time() - start_time, 3)
+    
+    return result
 

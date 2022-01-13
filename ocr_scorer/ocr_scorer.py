@@ -7,7 +7,7 @@ import argparse
 import time
 
 from lm_scorer import LMScorer
-from utils import _load_config
+from utils import _load_config, _remove_outliner
 
 import logging
 import logging.handlers
@@ -98,11 +98,15 @@ class OCRScorer(object):
             raise Exception("Failed to process language model for " + lang)
         
         text_scores = []
-        for text in local_model.read_text_sequence(text, max_length=500):
-            local_score = local_model.score_text(text)
-            text_scores.append(local_score)
+
+        if len(text) < 500:
+            text_scores.append(local_model.score_text(text))
+        else:
+            for text in local_model.read_text_sequence(text, max_length=500):
+                local_score = local_model.score_text(text)
+                text_scores.append(local_score)
         local_text_score = np.mean(text_scores)
-        deviation = np.std(text_scores, dtype=np.float64)
+        deviation = np.std(text_scores, dtype=np.float32)
 
         scorer_model = None
         try:
@@ -113,14 +117,39 @@ class OCRScorer(object):
         if scorer_model is None:
             raise Exception("Failed to process scorer model for language " + lang)
 
-        X = []
-        for i in range(len(self.text_scores)):
-            x.append(text_scores[i])
-            x.append(deviation)
-            X.append(x)
-        final_text_score = scorer_model.predict(X)
+        X = np.zeros((len(text_scores), 1), dtype=np.float32) 
+        for i in range(len(text_scores)):
+            X[i,0]= (text_scores[i])
+            #X[i,1]=  deviation
+        
+        print(X)
 
-        return final_text_score
+        x_pred = xgb.DMatrix(X)
+
+        final_text_scores = scorer_model.predict(x_pred)
+        print(final_text_scores)
+
+        avg_text_score = np.mean(final_text_scores)
+        max_text_score = np.max(final_text_scores)
+        min_text_score = np.min(final_text_scores)
+        deviation = np.std(final_text_scores, dtype=np.float32)
+
+        boost_max = 1 / max_text_score
+        boost_min = 0.1 / min_text_score
+
+        if avg_text_score > 0.5:
+            final_text_score = avg_text_score * boost_max
+        else:
+            final_text_score = avg_text_score * boost_min
+
+        if final_text_score > 1.0:
+            final_text_score = 1.0
+        if final_text_score < 0.0:
+            final_text_score = 0.0
+
+        print(final_text_score)
+
+        return float(final_text_score)
 
     def score_pdf(self, pdf_file, lang=None):
         '''
@@ -146,12 +175,27 @@ class OCRScorer(object):
 
         x_pos, y_pos = self.load_positive_examples(lang)
         x_neg, y_neg = self.load_degraded_examples(lang)
+
+        if len(x_neg) > len(x_pos):
+            x_neg = x_neg[:len(x_pos)]
+            y_neg = y_neg[:len(x_pos)]
+
+        x_pos, y_pos = _remove_outliner(x_pos, y_pos)
+        x_neg, y_neg = _remove_outliner(x_neg, y_neg)
+
         x = x_pos + x_neg
         y = y_pos + y_neg
 
         x, y = shuffle(x, y)
 
-        xgb_model = xgb.XGBRegressor(objective="reg:squarederror", random_state=42)
+        print(x)
+        print(y)
+
+        #dtrain = xgb.DMatrix(x, label=y)
+
+        #xgb_model = xgb.XGBRegressor(objective="reg:squarederror", random_state=42)
+        xgb_model = xgb.XGBRegressor(objective ='reg:squarederror', colsample_bytree = 0.3, learning_rate = 0.1,
+                max_depth = 5, alpha = 10, n_estimators = 10)
         xgb_model.fit(x, y)
 
         self.scorers[lang] = xgb_model
@@ -202,7 +246,7 @@ class OCRScorer(object):
             # LM probability of the sequence
             features.append(scores[i])
             # general standard deviation
-            features.append(deviation)
+            #features.append(deviation)
 
             x.append(features)
             y.append(1.0)
@@ -224,6 +268,7 @@ class OCRScorer(object):
         start_time = time.time()
         text_scores = []
         target_dir = os.path.join(self.config['training_dir'], lang, "ocr")
+        nb_file = 0
         for file in os.listdir(target_dir):
             if file.endswith(".txt"):
                 print(file)
@@ -234,7 +279,9 @@ class OCRScorer(object):
                     i += 1
                     if i>200:
                         break
-
+            if nb_file > 10:
+                break
+            nb_file += 1
         total_time = round(time.time() - start_time, 3)
         print("\nscored", str(len(text_scores)), "text segments in {:.3f}s".format(total_time)) 
         scores = np.array(text_scores)
@@ -248,7 +295,7 @@ class OCRScorer(object):
             # LM probability of the sequence
             features.append(scores[i])
             # general standard deviation
-            features.append(deviation)
+            #features.append(deviation)
 
             x.append(features)
             y.append(0.0)

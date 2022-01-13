@@ -236,6 +236,9 @@ class LMScorer(object):
                     if samples is not None:
                         total_segments = len(text) / max_length
                         ratio = int(total_segments / samples)
+                        if ratio == 0:
+                            # case file length is lower than max_length, we take everything
+                            ratio = 1
 
                     while True:
                         upper_bound = min((pos*max_length)+max_length, len(text))
@@ -285,6 +288,9 @@ class LMScorer(object):
             if samples is not None:
                 total_segments = len(text) / max_length
                 ratio = int(total_segments / samples)
+                if ratio == 0:
+                    # case file length is lower than max_length, we take everything
+                    ratio = 1
 
             while True:
                 upper_bound = min((pos*max_length)+max_length, len(text))
@@ -317,6 +323,7 @@ class LMScorer(object):
         #optimizer = keras.optimizers.RMSprop(learning_rate=0.01, clipnorm=1)
         optimizer = keras.optimizers.Adam(learning_rate=0.01, clipnorm=1)
         self.model.compile(loss="categorical_crossentropy", optimizer=optimizer, metrics=['accuracy'])
+        self.model.summary()
 
     def train(self):
         metrics = None

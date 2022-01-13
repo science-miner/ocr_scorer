@@ -35,3 +35,29 @@ def _normalize_text_for_scoring(text):
     text = normalize_text(text)
     text = re.sub(r'([ \t\n\r]+)', ' ', text)
     return text.strip()
+
+def _remove_outliner(x, y, ratio=0.05):
+    # remove outliner
+    x_max = None
+    x_min = None
+    for i in range(len(x)):
+        if x_max == None or x[i][0] > x_max:
+            x_max = x[i][0]
+        if x_min == None or x[i][0] < x_min:
+            x_min = x[i][0]
+
+    interval = x_max - x_min
+    internal_ratio = ratio * interval
+    x_max = x_max - internal_ratio
+    x_min = x_min + internal_ratio
+
+    to_remove = []
+    for i in range(len(x)):
+        if x[i][0] >= x_max or x[i][0] <= x_min:
+            to_remove.insert(0, i)
+
+    for i in to_remove:
+        del x[i]
+        del y[i]
+
+    return x, y
