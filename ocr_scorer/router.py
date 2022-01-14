@@ -87,7 +87,6 @@ async def post_score_file_xml(file: UploadFile = File(...), lang: str = Form(...
         raise HTTPException(status_code=404, detail="Invalid content type file, must be XML: " + file.content_type)
 
     xml_string = await file.read()
-    #xml_string = xml_string.decode()
     root = etree.fromstring(xml_string)
     text = etree.tostring(root, encoding='utf-8', method='text')
     text = text.decode()
