@@ -1,13 +1,17 @@
 import os
 os.environ["TF_CPP_MIN_LOG_LEVEL"] = "3"
 
+import binascii
 import numpy as np
 import random
 import argparse
 import time
+from lxml import etree
 
 from lm_scorer import LMScorer
 from utils import _load_config, _remove_outliner
+from pdfalto.alto_parser import filter_text
+from pdfalto.wrapper import PdfAltoWrapper
 
 import logging
 import logging.handlers
@@ -102,7 +106,7 @@ class OCRScorer(object):
         if len(text) < 500:
             text_scores.append(local_model.score_text(text))
         else:
-            for text in local_model.read_text_sequence(text, max_length=500):
+            for text in local_model.read_text_sequence(text, max_length=600, samples=10):
                 local_score = local_model.score_text(text)
                 text_scores.append(local_score)
         local_text_score = np.mean(text_scores)
@@ -151,21 +155,110 @@ class OCRScorer(object):
 
         return float(final_text_score)
 
+    def score_txt_file(self, txt_file, lang=None):
+        logging.info("processing text file: " + txt_file)
+        if txt_file == None or not os.path.isfile(txt_file) or not txt_file.endswith(".txt"):
+            print("issue")
+            raise ValueError('Invalid input file: ' + txt_file)
+
+        with open(txt_file, "r") as text_file:
+            local_text = text_file.read()
+            return self.score_text(local_text)
+        
+        return 0.0
+
     def score_pdf(self, pdf_file, lang=None):
         '''
         PDF file is parsed by external pdfalto tool. Spatial information can be used. 
         If no language is provided, use a language detector
         '''
+        # convert pdf file
+        logging.info("processing PDF file: " + pdf_file)
+        pdfalto = PdfAltoWrapper('./data/pdfalto/lin64/pdfalto')
+        output_path = os.path.join('./data/pdfalto/tmp/', binascii.b2a_hex(os.urandom(7)).decode() + ".xml")
+        pdfalto.convert(pdf_file, output_path)
+        logging.info("pdfalto conversion: " + output_path)
 
-        return 1.0
+        local_text = filter_text(output_path)
+        local_score = self.score_text(local_text)
 
-    def score_patent_xml(self, xml_file, lang=None):
+        # cleaning ALTO file(s)
+        if os.path.isfile(output_path):
+            os.remove(output_path)
+        output_path = output_path.replace(".xml", "_metadata.xml")
+        if os.path.isfile(output_path):
+            os.remove(output_path)
+
+        return local_score
+
+    def score_xml(self, xml_file, lang=None):
         '''
-        Processing of XML file in ST.36 format
+        Processing of XML file with text body section, such as ST.36 format or TEI format
         If no language is provided, use a language detector
         '''
+        logging.info("processing XML file: " + xml_file)
+        if xml_file == None or not os.path.isfile(xml_file) or not xml_file.endswith(".xml"):
+            raise ValueError('Invalid input file: ' + txt_file)
 
-        return 1.0
+        with open(txt_file, "r") as text_file:
+            local_text = file.read()
+            root = etree.fromstring(xml_string)
+            text = etree.tostring(root, encoding='utf-8', method='text')
+            text = text.decode()
+            return self.score_text(text, lang)
+
+        return 0.0
+
+    def score_repository(self, repository):
+        '''
+        Score files in a repository. Supported file formats (by file extensions) are 
+        any combination of text files (.txt), XML files (.xml) and PDF files (.pdf) 
+        Return scores as a dict mapping file names to OCR quality score for the file.
+        '''
+        results = {}
+        files_scores = []
+
+        logging.info("processing repository: " + repository)
+
+        if repository == None or not os.path.isdir(repository):
+            raise ValueError('Invalid directory to be read: ' + target_dir)
+
+        nb_files = 0
+        for file in os.listdir(repository):
+            logging.info("processing file: " + file)
+            if file.endswith(".txt"):
+                try:
+                    results[file] = self.score_txt_file(os.path.join(repository, file))
+                except:
+                    logging.warning("Fail to score text file " + os.path.join(repository, file))
+
+            elif file.endswith(".xml"):
+                try:
+                    results[file] = self.score_xml_file(os.path.join(repository, file))
+                except:
+                    logging.warning("Fail to score XML file " + os.path.join(repository, file))
+            
+            elif file.endswith(".pdf"):
+                try:
+                    results[file] = self.score_pdf_file(os.path.join(repository, file))
+                except:
+                    logging.warning("Fail to score PDF file " + os.path.join(repository, file))
+
+            if file in results:
+                files_scores.append(results[file])
+
+            if nb_files > 10:
+                break
+
+            nb_files += 1
+
+        print("\taverage score:", str(np.mean(files_scores)))
+        print("\tlowest score:", str(np.min(files_scores)))
+        print("\thighest score:", str(np.max(files_scores)))
+        deviation = np.std(files_scores, dtype=np.float64)
+        print("\tstandard deviation:", str(deviation))
+
+        return results
 
     def train_scorer(self, lang):
         '''
@@ -308,30 +401,31 @@ if __name__ == '__main__':
     parser.add_argument("--config-file", type=str, required=False, help="configuration file to be used", default='./config.yml')
     parser.add_argument("--debug", action="store_true", required=False, default=False,
                         help="activate the debug mode (override the config file logging parameter)")
-    parser.add_argument("--text-file", type=str, required=False, help="text file to be evaluated, expected encoding is UTF-8")
-    parser.add_argument("--pdf-file", type=str, required=False, help="PDF file to be evaluated")
-    parser.add_argument("--patent-xml-file", type=str, required=False, help="Patent file in XML ST-36 format to be evaluated")
+    parser.add_argument("--text-file", type=str, required=False, help="text file to be analyzed, expected encoding is UTF-8")
+    parser.add_argument("--pdf-file", type=str, required=False, help="PDF file to be analyzed")
+    parser.add_argument("--xml-file", type=str, required=False, help="XML file to be analyzed, with text body section")
+    parser.add_argument("--repository", type=str, required=False, help="a repository of text/XML/PDF files to be evaluated")
 
     args = parser.parse_args()
 
     debug = args.debug
     text_file = args.text_file
     pdf_file = args.pdf_file
-    patent_xml_file = args.patent_xml_file
-
+    xml_file = args.xml_file
     config_file = args.config_file
-    text_file = args.text_file
-    pdf_file = args.pdf_file
-    patent_xml_file = args.xml_file
+    repository = args.repository
 
     try:
         scorer = OCRScorer(config_file)
         if pdf_file != None:
-            scorer.score_pdf(pdf_file)
+            print(scorer.score_pdf(pdf_file))
         elif text_file != None:
-            scorer.score_pdf(text_file)
-        elif patent_xml_file != None:
-            scorer.score_patent_xml(patent_xml_file)
+            print(scorer.score_pdf(text_file))
+        elif xml_file != None:
+            print(scorer.score_patent_xml(patent_xml_file))
+        elif repository != None:
+            results = scorer.score_repository(repository)
+            print(results)
         else:
             print("At least one file to be evaluated must be provided\n")
             parser.print_help()

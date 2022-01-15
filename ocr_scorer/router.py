@@ -7,6 +7,8 @@ import time
 import ocr_scorer
 from enum import Enum
 from lxml import etree
+from pdfalto.alto_parser import filter_text
+from pdfalto.wrapper import PdfAltoWrapper
 
 router = APIRouter()
 
@@ -113,10 +115,31 @@ async def post_score_file_pdf(file: UploadFile = File(...), lang: str = Form(...
         raise HTTPException(status_code=404, detail="Invalid content type file, must be PDF: " + file.content_type)
 
     pdf_content = await file.read()
+
+    # write tmp file on disk
+    input_file = os.path.join('./data/pdfalto/tmp/', binascii.b2a_hex(os.urandom(7)).decode() + ".pdf")
+
+    pdfalto = PdfAltoWrapper('./data/pdfalto/lin64/pdfalto')
+    output_path = input_file.replace(".pdf", ".xml")
+    pdfalto.convert(input_file, output_path)
+    logging.info("pdfalto conversion: " + output_path)
+
+    local_text = filter_text(output_path)
+
+    #print(local_text)
     
     result = {}
-    result['score'] = 1.0
+    result['score'] = scorer.score_text(text, lang)
     result['runtime'] = round(time.time() - start_time, 3)
+
+    # cleaning tmp PDF and ALTO file(s)
+    if os.path.isfile(input_path):
+        os.remove(input_path)
+    if os.path.isfile(output_path):
+        os.remove(output_path)
+    output_path = output_path.replace(".xml", "_metadata.xml")
+    if os.path.isfile(output_path):
+        os.remove(output_path)
     
     return result
 

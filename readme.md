@@ -4,14 +4,11 @@ This tool aims at evaluating the quality of the OCR for any text sources, withou
 
 We focus on technical and scientific texts/documents. The typical scenario is text-mining on thousand/millions of scholar PDF, where many documents might have been OCRized decades ago with unknown quality. Detecting low quality OCRized documents make possible to re-OCRize them with modern tools and to apply text mining tools without considerable accuracy drop. However, the tool can be adapted and retrained easily to other types of documents and domains. 
 
-The approach is based on a RNN Language Model (LM) learned from a corpus of technical and scientific texts in digital native form (no OCR). Character LM approach for OCR evaluation has been experimented in particular in (Popat, 2009), showing significantly more reliable accuracy than dictionary-based approach. While (Popat, 2009) was using N-gram character model, in this work, we use stronger character LM based on LSTM. Character LM supports open vocabulary which is adapted to OCR scoring. RNN offers manageable and close to SOTA implementation for Character LM. The normalized probability of OCRized text against the LM provides a basis for quality score for the OCR.
-
-The LM probability of OCR text sequences is then used as feature by a Gradient Boosted Trees regression model (XGBoost), optionally combined with other features.
+The approach is based on a RNN Language Model (LM) learned from a corpus of technical and scientific texts in digital native form (no OCR). Character LM approach for OCR evaluation has been experimented in particular in (Popat, 2009), showing significantly more reliable accuracy than dictionary-based approach. While (Popat, 2009) was using N-gram character model, in this work we use stronger character LM based on LSTM. Character LM supports open vocabulary which is adapted to OCR scoring. RNN offers manageable and close to SOTA implementation for Character LM. The normalized probability of OCRized text against the LM provides a basis for quality score for the OCR. The LM probability of OCR text sequences is then used as feature by a Gradient Boosted Trees regression model (XGBoost), optionally combined with other features, to produce a normalized quality score in [0,1].
 
 The OCR Scorer can be used as Python command line or as a web service. A docker image is available. 
 
-LM are language-specific. Build-in languages are currently English, French and German. To add more languages or models for new domains and document types, see [below](#adding-new-languages-and-models).
-
+LM are language-specific. Build-in languages are currently English, French and German, all trained with technical and scientific documents. To add more languages or models for new domains and document types, see [below](#adding-new-languages-and-models).
 
 ## Requirements and install
 
@@ -65,9 +62,6 @@ INFO:     Application startup complete.
 INFO:     Uvicorn running on http://0.0.0.0:8050 (Press CTRL+C to quit)
 ```
 
-The documentation of the service is available at `http(s)://*host*:*port*/docs`, e.g. `http://localhost:8050/docs` (based on Swagger), for ReDoc documentation style, use `http://localhost:8050/redoc`).
-
-
 ### Use the service
 
 Once the service is started as described in the previous section, the web service API documnetation is available at at `http(s)://*host*:*port*/docs`, e.g. `http://localhost:8050/docs`, based on Swagger, and `http://localhost:8050/redoc` for ReDoc documentation style. These documentations offer interactive support to support test queries. 
@@ -89,9 +83,7 @@ To evaluate a language model for an existing trained language:
 
 - Text content in `.txt` files encoded in Unicode under `data/texts/xx/evaluation` where `xx` is the two-letter ISO 639-1 code of the language. Any amount of text is possible. 
 
-
 To train a language model:
-
 
 ```console
 python3 ocr_scorer/lm_scorer.py --lang en train
@@ -107,20 +99,17 @@ python3 ocr_scorer/lm_scorer.py --lang en evaluate
 
 This will evaluate the trained model for the indicated language using the text content under `data/texts/en/evaluation`. The evaluation is giving the accuracy of next character predictions in the evaluation data and the BPC (Bits Per Character) tradditionally used in LM.
 
-
-To train a XGBoost scorer based on the LM for a given language:
+To train an XGBoost scorer based on the LM for a given language:
 
 ```console
 python3 ocr_scorer/lm_scorer.py train_scorer --lang fr
 ```
 
-The XGBoost scorer requires that a language model has been trained for the target language. It will use the text content under `data/texts/en/evaluation` as positive samples and examples of OCR texts with degraded quality under `data/texts/en/ocr`.
+The XGBoost scorer requires that a language model has been trained for the target language. It will use the text content under `data/texts/en/evaluation` as high quality positive samples and examples of OCR texts with degraded quality under `data/texts/en/ocr`.
 
 ## Implementation
 
-Keras/TensorFlow character language model implementation using as architecture:
-
-- a 2 layers vanilla LSTM with (dynamic) Monte Carlo Dropout
+Keras/TensorFlow character language model implementation using as architecture a 2 layers vanilla LSTM.
 
 ```
 number of chars/vocab size: 216
@@ -146,9 +135,11 @@ _________________________________________________________________
 
 ```
 
-### Training volume 
+The final scorer is a Gradient Boosted Trees regression model (XGBoost) taking the language model scores as input feature.
 
-(half patent text, half non-patent):
+### Training volumes
+
+Half patent text, half non-patent:
 
 |  language | # files  | # charcaters  |  
 |---        |---       |---            |
@@ -159,7 +150,7 @@ _________________________________________________________________
 Training a LM takes around 1 day (nvidia 1080Ti)
 
 
-### Example of evaluation 
+### Example of evaluation of the LM
 
 
 English LM:
@@ -220,6 +211,33 @@ scored 124 files in 631.416s
     highest score: 0.08385362714866659
     standard deviation: 0.009110809890462812
 ```
+
+### How current SOTA OCR are scored? 
+
+Current OCR engines can be considered as very reliable when we consider the overall OCR quality in the last 30 years. Scientific documents OCRized in the nineties for instance will be scored much lower than currently OCR-ized documents as expected. In the following table, we compare average scoring produced by modern OCR tools (Abbyy and Tesseract 4) with the digital native version of documents. 
+
+* Non-patent documents: the collection is a set of 2,000 full text PDF articles from various sources (PMC, arXiv, Hindawi, bioRxiv)
+
+|  origin           | # files  | avg. OCR quality score  | # score higher than digital native | 
+|---                |---       |---                      |---                                 |
+|  digital native   |          |                         |              -                     |
+|  Abbyy OCR        |          |                         |                                    |
+|  Tessearct 4 OCR  |          |                         |                                    |
+
+
+* Patent documents: the collection is a set of 500 patent PDFs EP publication from the European Patent Office, downloaded from Google Patents. Although these "original" PDF are derived from OCR of the patent applications as filed at the patent office, they should be highly accurate thanks to systematic manual OCR corrections before publication. 
+
+|  origin           |  language  | # files  | # OCR quality score  |  
+|---                |---         |---       |---                   |
+| Original PDF      | en         |          |                      |
+| (from Google Patents) |   fr   |          |                      |
+|                   |   de       |          |                      |
+|  Abbyy OCR        |   en       |          |                      |
+|                   |   fr       |          |                      |
+|                   |   de       |          |                      |
+|  Tessearct 4 OCR  |   en       |          |                      |
+|                   |   fr       |          |                      |
+|                   |   de       |          |                      |
 
 
 ## References
