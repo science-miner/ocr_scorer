@@ -41,7 +41,7 @@ pip3 install -e .
 
 ### Start the service
 
-The OCR Scorer Web API service is implemented with [FastAPI](https://fastapi.tiangolo.com) and can be started as follow:  
+The OCR Scorer Web API service is implemented with [FastAPI](https://fastapi.tiangolo.com) and can be started as follow on default port `8050`:  
 
 ```console
 python3 ocr_scorer/service.py --config my_config.yml
@@ -62,10 +62,42 @@ INFO:     Application startup complete.
 INFO:     Uvicorn running on http://0.0.0.0:8050 (Press CTRL+C to quit)
 ```
 
+### Using the docker image
+
+#### Build the docker image
+
+To build the docker image for the OCR scorer service, from the root project directory where the Dockerfile is located:
+
+```console
+> docker build -t ocr_scorer/scorer .
+```
+
+#### Start the service with Docker
+
+To run the container on port `8080` of the docker host machine, with the default configuration (i.e. using the `config.yml` service config file present in the project at build time, with default port `8050`):
+
+```console
+> docker run -it --rm -p 8080:8050 ocr_scorer/scorer
+```
+
+It is possible to supply the local `config.yml` file when running the image as follow:
+
+```console
+> docker run -it --rm -p 8080:8050 --mount type=bind,source=$(pwd)/ocr_scorer/config.yml,target=/opt/ocr_scorer/config.yml ocr_scorer/scorer
+```
+
+Or using volume:
+
+```console
+> docker run -it --rm -p 8080:8050 -v $(pwd)/ocr_scorer/config.yml:/opt/ocr_scorer/config.yml:ro ocr_scorer/scorer
+```
+
+The same image can thus easily use specific configuration at deployment time, including when deployed on a Kubernetes cluster using the `hostPath` volume.
+
+
 ### Use the service
 
-Once the service is started as described in the previous section, the web service API documnetation is available at at `http(s)://*host*:*port*/docs`, e.g. `http://localhost:8050/docs`, based on Swagger, and `http://localhost:8050/redoc` for ReDoc documentation style. These documentations offer interactive support to support test queries. 
-
+Once the service is started as described in the previous sections, the web service API documnetation is available at `http(s)://*host*:*port*/docs`, e.g. for instance `http://localhost:8050/docs`, based on Swagger, and `http://localhost:8050/redoc` for ReDoc documentation style. These documentations offer interactive support to support test queries. 
 
 ### Add new languages and train LM models
 
