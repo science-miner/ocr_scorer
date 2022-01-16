@@ -1,6 +1,8 @@
 import os
 import xml
 from xml.sax import make_parser
+import logging
+import logging.handlers
 
 ALTO_NS = 'http://www.loc.gov/standards/alto/ns-v3#'
 ALTO_NS_MAP = {

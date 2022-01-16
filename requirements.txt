@@ -8,3 +8,5 @@ regex==2021.11.10
 pyfiglet
 xgboost
 scikit-learn==1.0.2
+pyyaml
+lxml

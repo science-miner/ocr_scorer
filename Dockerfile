@@ -30,4 +30,4 @@ WORKDIR /opt
 RUN pip install -r requirements.txt
 RUN pip install -e .
 
-CMD PYTHONPATH="..:${PYTHONPATH}" python3 ocr_scorer/service.py --config my_config.yml
+CMD PYTHONPATH="..:${PYTHONPATH}" python3 ocr_scorer/service.py

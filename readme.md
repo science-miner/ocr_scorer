@@ -69,7 +69,7 @@ INFO:     Uvicorn running on http://0.0.0.0:8050 (Press CTRL+C to quit)
 To build the docker image for the OCR scorer service, from the root project directory where the Dockerfile is located:
 
 ```console
-> docker build -t ocr_scorer/scorer .
+docker build -t ocr_scorer/scorer .
 ```
 
 #### Start the service with Docker
@@ -77,19 +77,19 @@ To build the docker image for the OCR scorer service, from the root project dire
 To run the container on port `8080` of the docker host machine, with the default configuration (i.e. using the `config.yml` service config file present in the project at build time, with default port `8050`):
 
 ```console
-> docker run -it --rm -p 8080:8050 ocr_scorer/scorer
+docker run -it --rm -p 8080:8050 ocr_scorer/scorer
 ```
 
 It is possible to supply the local `config.yml` file when running the image as follow:
 
 ```console
-> docker run -it --rm -p 8080:8050 --mount type=bind,source=$(pwd)/ocr_scorer/config.yml,target=/opt/ocr_scorer/config.yml ocr_scorer/scorer
+docker run -it --rm -p 8080:8050 --mount type=bind,source=$(pwd)/ocr_scorer/config.yml,target=/opt/ocr_scorer/config.yml ocr_scorer/scorer
 ```
 
 Or using volume:
 
 ```console
-> docker run -it --rm -p 8080:8050 -v $(pwd)/ocr_scorer/config.yml:/opt/ocr_scorer/config.yml:ro ocr_scorer/scorer
+docker run -it --rm -p 8080:8050 -v $(pwd)/ocr_scorer/config.yml:/opt/ocr_scorer/config.yml:ro ocr_scorer/scorer
 ```
 
 The same image can thus easily use specific configuration at deployment time, including when deployed on a Kubernetes cluster using the `hostPath` volume.
