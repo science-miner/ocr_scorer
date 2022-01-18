@@ -246,15 +246,15 @@ scored 124 files in 631.416s
 
 ### How current SOTA OCR are scored? 
 
-Current OCR engines can be considered as very reliable when we consider the overall OCR quality in the last 30 years. Scientific documents OCRized in the nineties for instance will be scored much lower than currently OCR-ized documents as expected. In the following table, we compare average scoring produced by modern OCR tools (Abbyy and Tesseract 4) with the digital native version of documents. 
+Current OCR engines can be considered as very reliable when we consider the overall OCR quality in the last 30 years. Scientific documents OCRized in the nineties for instance will be scored much lower than currently OCR-ized documents. In the following table, we compare average scoring produced by modern OCR tools (Abbyy and Tesseract 4) with the digital native version of documents. 
 
 * Non-patent documents: the collection is a set of 2,000 full text PDF articles from various sources (PMC, arXiv, Hindawi, bioRxiv)
 
-|  origin           | # files  | avg. OCR quality score  | # score higher than digital native | 
-|---                |---       |---                      |---                                 |
-|  digital native   |          |                         |              -                     |
-|  Abbyy OCR        |          |                         |                                    |
-|  Tessearct 4 OCR  |          |                         |                                    |
+|  origin           | # files  | avg. OCR quality score  | 
+|---                |---       |---                      |
+|  digital native   |    2000  |      0.789              |       
+|  Abbyy OCR        |    2000  |      0.751              |        
+|  Tessearct 4 OCR  |    2000  |      0.718              |         
 
 
 * Patent documents: the collection is a set of 500 patent PDFs EP publication from the European Patent Office, downloaded from Google Patents. Although these "original" PDF are derived from OCR of the patent applications as filed at the patent office, they should be highly accurate thanks to systematic manual OCR corrections before publication. 
