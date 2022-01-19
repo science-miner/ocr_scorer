@@ -257,7 +257,17 @@ Current OCR engines can be considered as very reliable when we consider the over
 |  Tessearct 4 OCR  |    2000  |      0.718              |         
 
 
-* Patent documents: the collection is a set of 500 patent PDFs EP publication from the European Patent Office, downloaded from Google Patents. Although these "original" PDF are derived from OCR of the patent applications as filed at the patent office, they should be highly accurate thanks to systematic manual OCR corrections before publication. 
+* Patent documents: the collection is a set of 500 patent XML EP publication from the European Patent Office, downloaded from Google Patents. Although these "original" full texts are derived from OCR of the patent applications as filed at the patent office, they should be highly accurate thanks to systematic manual OCR corrections before publication. 
+
+|  origin           |  # files  | avg. OCR quality score |  
+|---                |---       |---                   |
+| Original PDF      |   500    |     0.798            |
+| (from Google Patents) |      |                      |
+|  Abbyy OCR        |   500    |     0.776            |
+|  Tessearct 4 OCR  |   500    |     0.752            |
+
+
+OCR scoring per language:
 
 |  origin           |  language  | # files  | # OCR quality score  |  
 |---                |---         |---       |---                   |
