@@ -106,7 +106,7 @@ class OCRScorer(object):
         if len(text) < 500:
             text_scores.append(local_model.score_text(text))
         else:
-            for text in local_model.read_text_sequence(text, max_length=600, samples=10):
+            for text in local_model.read_text_sequence(text, max_length=600, samples=20):
                 local_score = local_model.score_text(text)
                 text_scores.append(local_score)
         local_text_score = np.mean(text_scores)
@@ -247,7 +247,7 @@ class OCRScorer(object):
             if file in results:
                 files_scores.append(results[file])
 
-            if nb_files > 10:
+            if nb_files > 100:
                 break
 
             nb_files += 1

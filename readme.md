@@ -4,7 +4,7 @@ This tool aims at evaluating the quality of the OCR for any text sources, withou
 
 We focus on technical and scientific texts/documents. The typical scenario is text-mining on thousand/millions of scholar PDF, where many documents might have been OCRized decades ago with unknown quality. Detecting low quality OCRized documents make possible to re-OCRize them with modern tools and to apply text mining tools without considerable accuracy drop. However, the tool can be adapted and retrained easily to other types of documents and domains. 
 
-The approach is based on a RNN Language Model (LM) learned from a corpus of technical and scientific texts in digital native form (no OCR). Character LM approach for OCR evaluation has been experimented in particular in (Popat, 2009), showing significantly more reliable accuracy than dictionary-based approach. While (Popat, 2009) was using N-gram character model, in this work we use stronger character LM based on LSTM. Character LM supports open vocabulary which is adapted to OCR scoring. RNN offers manageable and close to SOTA implementation for Character LM. The normalized probability of OCRized text against the LM provides a basis for quality score for the OCR. The LM probability of OCR text sequences is then used as feature by a Gradient Boosted Trees regression model (XGBoost), optionally combined with other features, to produce a normalized quality score in [0,1].
+The approach is based on a RNN Language Model (LM) learned from a corpus of technical and scientific texts in digital native form (no OCR). Character LM approach for OCR evaluation has been experimented in particular in (Popat, 2009), showing significantly more reliable accuracy than dictionary-based approach. While (Popat, 2009) was using N-gram character model, in this work we use stronger character LM based on LSTM. Character LM supports open vocabulary which is adapted to OCR scoring. RNN offers manageable and close to SOTA implementation for Character LM. The normalized probability of OCRized text against the LM provides a basis for quality score for the OCR. The LM probability of OCR text sequences is then used as feature by a Gradient Boosted Trees regression model (XGBoost), optionally combined with other features, to produce a normalized quality score in `[0,1]`.
 
 The OCR Scorer can be used as Python command line or as a web service. A docker image is available. 
 
@@ -244,7 +244,7 @@ scored 124 files in 631.416s
     standard deviation: 0.009110809890462812
 ```
 
-### How current SOTA OCR are scored? 
+## How current SOTA OCR are scored? 
 
 Current OCR engines can be considered as very reliable when we consider the overall OCR quality in the last 30 years. Scientific documents OCRized in the nineties for instance will be scored much lower than currently OCR-ized documents. In the following table, we compare average scoring produced by modern OCR tools (Abbyy and Tesseract 4) with the digital native version of documents. 
 
@@ -261,8 +261,7 @@ Current OCR engines can be considered as very reliable when we consider the over
 
 |  origin           |  # files  | avg. OCR quality score |  
 |---                |---       |---                   |
-| Original PDF      |   500    |     0.798            |
-| (from Google Patents) |      |                      |
+| Original PDF (from Google Patents) | 500 | 0.798    |
 |  Abbyy OCR        |   500    |     0.776            |
 |  Tessearct 4 OCR  |   500    |     0.752            |
 
