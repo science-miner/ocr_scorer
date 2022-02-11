@@ -21,6 +21,8 @@ logging.basicConfig(filename='client.log', filemode='w', level=logging.DEBUG)
 from sklearn.utils import shuffle
 import xgboost as xgb
 
+import cld3
+
 SCORER_FILE = "scorer.json"
 
 # to do: make this list dynamic by exploring the data/models repository
@@ -104,10 +106,17 @@ class OCRScorer(object):
         text_scores = []
 
         if len(text) < 500:
+            # we process the whole text segment
             text_scores.append(local_model.score_text(text))
         else:
-            for text in local_model.read_text_sequence(text, max_length=600, samples=20):
-                local_score = local_model.score_text(text)
+            # we sample random segments
+            for text_sample in local_model.read_text_sequence(text, max_length=600, samples=20):
+                local_lang = cld3.get_language("This is a test")
+                #print(local_lang)
+                #print(str(local_lang.probability))
+                if not local_lang.is_reliable or local_lang.language != lang or local_lang.proportion != 1.0 :
+                    continue
+                local_score = local_model.score_text(text_sample)
                 text_scores.append(local_score)
         local_text_score = np.mean(text_scores)
         deviation = np.std(text_scores, dtype=np.float32)
@@ -126,12 +135,12 @@ class OCRScorer(object):
             X[i,0]= (text_scores[i])
             #X[i,1]=  deviation
         
-        print(X)
+        #print(X)
 
         x_pred = xgb.DMatrix(X)
 
         final_text_scores = scorer_model.predict(x_pred)
-        print(final_text_scores)
+        #print(final_text_scores)
 
         avg_text_score = np.mean(final_text_scores)
         max_text_score = np.max(final_text_scores)
@@ -141,17 +150,17 @@ class OCRScorer(object):
         boost_max = 1 / max_text_score
         boost_min = 0.1 / min_text_score
 
+        # normalize
         if avg_text_score > 0.5:
             final_text_score = avg_text_score * boost_max
         else:
             final_text_score = avg_text_score * boost_min
-
         if final_text_score > 1.0:
             final_text_score = 1.0
         if final_text_score < 0.0:
             final_text_score = 0.0
 
-        print(final_text_score)
+        #print(final_text_score)
 
         return float(final_text_score)
 

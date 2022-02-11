@@ -3,7 +3,7 @@ numpy==1.21.4
 fastapi==0.68.2
 uvicorn
 python-multipart
-langdetect==1.0.9
+pycld3==0.22
 regex==2021.11.10
 pyfiglet
 xgboost
