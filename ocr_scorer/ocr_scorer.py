@@ -110,7 +110,7 @@ class OCRScorer(object):
             text_scores.append(local_model.score_text(text))
         else:
             # we sample random segments
-            for text_sample in local_model.read_text_sequence(text, max_length=600, samples=20):
+            for text_sample in local_model.read_text_sequence(text, max_length=600, samples=10):
                 local_lang = cld3.get_language("This is a test")
                 #print(local_lang)
                 #print(str(local_lang.probability))

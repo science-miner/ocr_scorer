@@ -1,3 +1,5 @@
+import os 
+import binascii
 from fastapi import APIRouter, HTTPException, Request, Response
 from fastapi import File, Form, UploadFile
 from fastapi.responses import PlainTextResponse, RedirectResponse
@@ -9,6 +11,11 @@ from enum import Enum
 from lxml import etree
 from pdfalto.alto_parser import filter_text
 from pdfalto.wrapper import PdfAltoWrapper
+
+import logging
+import logging.handlers
+# default logging settings, will be override by config file
+logging.basicConfig(filename='client.log', filemode='w', level=logging.DEBUG)
 
 router = APIRouter()
 
@@ -28,6 +35,7 @@ def is_alive_status():
 def get_version():
     api_settings = scorer.config['api']
     return api_settings['version']
+
 
 '''
 Estimate the OCR quality of a text segment
@@ -104,7 +112,7 @@ async def post_score_file_xml(file: UploadFile = File(...), lang: str = Form(...
 Estimate the OCR quality of a PDF file
 '''
 @router.post("/score/file/pdf", tags=["score"], 
-    description="Estimate the OCR quality of an XML file. Return a quality score in [0,1].")
+    description="Estimate the OCR quality of an PDF file. Return a quality score in [0,1].")
 async def post_score_file_pdf(file: UploadFile = File(...), lang: str = Form(...)):
     start_time = time.time()
 
@@ -118,6 +126,8 @@ async def post_score_file_pdf(file: UploadFile = File(...), lang: str = Form(...
 
     # write tmp file on disk
     input_file = os.path.join('./data/pdfalto/tmp/', binascii.b2a_hex(os.urandom(7)).decode() + ".pdf")
+    with open(input_file, 'wb') as in_file:
+        in_file.write(pdf_content)
 
     pdfalto = PdfAltoWrapper('./data/pdfalto/lin64/pdfalto')
     output_path = input_file.replace(".pdf", ".xml")
@@ -129,12 +139,12 @@ async def post_score_file_pdf(file: UploadFile = File(...), lang: str = Form(...
     #print(local_text)
     
     result = {}
-    result['score'] = scorer.score_text(text, lang)
+    result['score'] = scorer.score_text(local_text, lang)
     result['runtime'] = round(time.time() - start_time, 3)
 
     # cleaning tmp PDF and ALTO file(s)
-    if os.path.isfile(input_path):
-        os.remove(input_path)
+    if os.path.isfile(input_file):
+        os.remove(input_file)
     if os.path.isfile(output_path):
         os.remove(output_path)
     output_path = output_path.replace(".xml", "_metadata.xml")
