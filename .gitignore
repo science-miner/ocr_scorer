@@ -7,3 +7,5 @@ my_config.yaml
 ocr_scorer.egg-info/
 ocr_scorer.log
 client.log
+.idea
+data/pdfalto/tmp
