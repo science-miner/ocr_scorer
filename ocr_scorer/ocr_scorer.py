@@ -183,7 +183,7 @@ class OCRScorer(object):
         '''
         # convert pdf file
         logging.info("processing PDF file: " + pdf_file)
-        pdfalto = PdfAltoWrapper('./data/pdfalto/lin64/pdfalto')
+        pdfalto = PdfAltoWrapper('./data/pdfalto/macOs/pdfalto')
         output_path = os.path.join('./data/pdfalto/tmp/', binascii.b2a_hex(os.urandom(7)).decode() + ".xml")
         pdfalto.convert(pdf_file, output_path)
         logging.info("pdfalto conversion: " + output_path)

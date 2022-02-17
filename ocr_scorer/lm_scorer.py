@@ -262,7 +262,7 @@ class LMScorer(object):
         while True:
             upper_bound = min((pos*max_length)+max_length, len(text))
             segment = text[pos*max_length:upper_bound]
-            if samples is None or pos % ratio == 0:
+            if samples is None or (pos > 0 and ratio > 0 and pos % ratio == 0):
                 yield segment
             pos += 1
             if upper_bound >= len(text):

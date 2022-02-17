@@ -129,7 +129,7 @@ async def post_score_file_pdf(file: UploadFile = File(...), lang: str = Form(...
     with open(input_file, 'wb') as in_file:
         in_file.write(pdf_content)
 
-    pdfalto = PdfAltoWrapper('./data/pdfalto/lin64/pdfalto')
+    pdfalto = PdfAltoWrapper('./data/pdfalto/macOs/pdfalto')
     output_path = input_file.replace(".pdf", ".xml")
     pdfalto.convert(input_file, output_path)
     logging.info("pdfalto conversion: " + output_path)
