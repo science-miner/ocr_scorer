@@ -1,0 +1,1 @@
+for x in *.pdf; do curl -X 'POST' 'http://localhost:8050/score/file/pdf' -H 'accept: application/json' -H 'Content-Type: multipart/form-data' -F "file=@$x;type=application/pdf" -F 'lang=en' >> output; done
