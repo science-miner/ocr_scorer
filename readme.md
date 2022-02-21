@@ -266,21 +266,6 @@ Current OCR engines can be considered as very reliable when we consider the over
 |  Tessearct 4 OCR  |   500    |     0.752            |
 
 
-OCR scoring per language:
-
-|  origin           |  language  | # files  | # OCR quality score  |  
-|---                |---         |---       |---                   |
-| Original PDF      | en         |          |                      |
-| (from Google Patents) |   fr   |          |                      |
-|                   |   de       |          |                      |
-|  Abbyy OCR        |   en       |          |                      |
-|                   |   fr       |          |                      |
-|                   |   de       |          |                      |
-|  Tessearct 4 OCR  |   en       |          |                      |
-|                   |   fr       |          |                      |
-|                   |   de       |          |                      |
-
-
 ## References
 
 
