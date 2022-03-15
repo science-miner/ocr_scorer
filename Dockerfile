@@ -11,6 +11,9 @@ ENV LANG C.UTF-8
 
 USER root
 
+RUN apt-get update && \
+    apt-get -y --no-install-recommends install libfontconfig1
+
 RUN python3 -m pip install pip --upgrade
 
 # copy project
