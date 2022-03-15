@@ -62,6 +62,28 @@ INFO:     Application startup complete.
 INFO:     Uvicorn running on http://0.0.0.0:8050 (Press CTRL+C to quit)
 ```
 
+### Command line
+
+```
+$ python3 ocr_scorer/ocr_scorer.py --help
+usage: ocr_scorer.py [-h] [--config-file CONFIG_FILE] [--debug] [--text-file TEXT_FILE]
+                     [--pdf-file PDF_FILE] [--xml-file XML_FILE] [--repository REPOSITORY]
+
+Simple command line OCR scorer. Use the service for more intensive/pipeline tasks.
+
+optional arguments:
+  -h, --help            show this help message and exit
+  --config-file CONFIG_FILE
+                        configuration file to be used
+  --debug               activate the debug mode (override the config file logging parameter)
+  --text-file TEXT_FILE
+                        text file to be analyzed, expected encoding is UTF-8
+  --pdf-file PDF_FILE   PDF file to be analyzed
+  --xml-file XML_FILE   XML file to be analyzed, with text body section
+  --repository REPOSITORY
+                        a repository of text/XML/PDF files to be evaluated
+```
+
 ### Using the docker image
 
 #### Build the docker image

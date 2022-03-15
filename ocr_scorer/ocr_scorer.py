@@ -111,7 +111,7 @@ class OCRScorer(object):
         else:
             # we sample random segments
             for text_sample in local_model.read_text_sequence(text, max_length=600, samples=10):
-                local_lang = cld3.get_language("This is a test")
+                local_lang = cld3.get_language(text_sample)
                 #print(local_lang)
                 #print(str(local_lang.probability))
                 if not local_lang.is_reliable or local_lang.language != lang or local_lang.proportion != 1.0 :
